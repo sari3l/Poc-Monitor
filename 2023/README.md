@@ -305,6 +305,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [xaitax/WinRAR-CVE-2023-38831](https://github.com/xaitax/WinRAR-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/WinRAR-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/WinRAR-CVE-2023-38831">
 - [GOTonyGO/CVE-2023-38831-winrar](https://github.com/GOTonyGO/CVE-2023-38831-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/GOTonyGO/CVE-2023-38831-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/GOTonyGO/CVE-2023-38831-winrar">
 - [Malwareman007/CVE-2023-38831](https://github.com/Malwareman007/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-38831">
+- [ameerpornillos/CVE-2023-38831-WinRAR-Exploit](https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ameerpornillos/CVE-2023-38831-WinRAR-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ameerpornillos/CVE-2023-38831-WinRAR-Exploit">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
