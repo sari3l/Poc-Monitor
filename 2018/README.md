@@ -984,6 +984,11 @@
 - [Cr4zyD14m0nd137/Lab-for-cve-2018-15133](https://github.com/Cr4zyD14m0nd137/Lab-for-cve-2018-15133)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4zyD14m0nd137/Lab-for-cve-2018-15133">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4zyD14m0nd137/Lab-for-cve-2018-15133">
 
 ---
+## CVE-2018-14880 (2019-10-03T16:15:00)
+> The OSPFv3 parser in tcpdump before 4.9.3 has a buffer over-read in print-ospf6.c:ospf6_print_lshdr().
+- [Trinadh465/external_tcpdump_CVE-2018-14880](https://github.com/Trinadh465/external_tcpdump_CVE-2018-14880)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_tcpdump_CVE-2018-14880">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_tcpdump_CVE-2018-14880">
+
+---
 ## CVE-2018-14879 (2019-10-03T16:15:00)
 > The command-line argument parser in tcpdump before 4.9.3 has a buffer overflow in tcpdump.c:get_next_file().
 - [Trinadh465/external_tcpdump_CVE-2018-14879](https://github.com/Trinadh465/external_tcpdump_CVE-2018-14879)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_tcpdump_CVE-2018-14879">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_tcpdump_CVE-2018-14879">
