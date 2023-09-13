@@ -1254,6 +1254,12 @@
 - [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
 
 ---
+## CVE-2018-1000861 (2018-12-10T14:29:00)
+> A code execution vulnerability exists in the Stapler web framework used by Jenkins 2.153 and earlier, LTS 2.138.3 and earlier in stapler/core/src/main/java/org/kohsuke/stapler/MetaClass.java that allows attackers to invoke some methods on Java objects by accessing crafted URLs that were not intended to be invoked this way.
+- [smokeintheshell/CVE-2018-1000861](https://github.com/smokeintheshell/CVE-2018-1000861)	<img alt="forks" src="https://img.shields.io/github/forks/smokeintheshell/CVE-2018-1000861">	<img alt="stars" src="https://img.shields.io/github/stars/smokeintheshell/CVE-2018-1000861">
+- [1NTheKut/CVE-2019-1003000_RCE-DETECTION](https://github.com/1NTheKut/CVE-2019-1003000_RCE-DETECTION)	<img alt="forks" src="https://img.shields.io/github/forks/1NTheKut/CVE-2019-1003000_RCE-DETECTION">	<img alt="stars" src="https://img.shields.io/github/stars/1NTheKut/CVE-2019-1003000_RCE-DETECTION">
+
+---
 ## CVE-2018-1000168 (2018-05-08T15:29:00)
 > nghttp2 version >= 1.10.0 and nghttp2 <= v1.31.0 contains an Improper Input Validation CWE-20 vulnerability in ALTSVC frame handling that can result in segmentation fault leading to denial of service. This attack appears to be exploitable via network client. This vulnerability appears to have been fixed in >= 1.31.1.
 - [Live-Hack-CVE/CVE-2018-1000168](https://github.com/Live-Hack-CVE/CVE-2018-1000168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1000168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1000168">
