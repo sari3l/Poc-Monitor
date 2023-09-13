@@ -901,6 +901,11 @@
 - [rhpco/CVE-2018-16509](https://github.com/rhpco/CVE-2018-16509)	<img alt="forks" src="https://img.shields.io/github/forks/rhpco/CVE-2018-16509">	<img alt="stars" src="https://img.shields.io/github/stars/rhpco/CVE-2018-16509">
 
 ---
+## CVE-2018-16229 (2019-10-03T16:15:00)
+> The DCCP parser in tcpdump before 4.9.3 has a buffer over-read in print-dccp.c:dccp_print_option().
+- [nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229](https://github.com/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229">
+
+---
 ## CVE-2018-15961 (2018-09-25T13:29:00)
 > Adobe ColdFusion versions July 12 release (2018.0.0.310739), Update 6 and earlier, and Update 14 and earlier have an unrestricted file upload vulnerability. Successful exploitation could lead to arbitrary code execution.
 - [0xAJ2K/CVE-2018-15961](https://github.com/0xAJ2K/CVE-2018-15961)	<img alt="forks" src="https://img.shields.io/github/forks/0xAJ2K/CVE-2018-15961">	<img alt="stars" src="https://img.shields.io/github/stars/0xAJ2K/CVE-2018-15961">
