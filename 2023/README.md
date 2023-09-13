@@ -3077,6 +3077,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2023-0830">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2023-0830">
 
 ---
+## CVE-2023-08 ()
+> 
+- [amirzargham/CVE-2023-08-21-exploit](https://github.com/amirzargham/CVE-2023-08-21-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/amirzargham/CVE-2023-08-21-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/amirzargham/CVE-2023-08-21-exploit">
+
+---
 ## CVE-2023-0748 (2023-02-08T15:15:00)
 > Open Redirect in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.
 - [gonzxph/CVE-2023-0748](https://github.com/gonzxph/CVE-2023-0748)	<img alt="forks" src="https://img.shields.io/github/forks/gonzxph/CVE-2023-0748">	<img alt="stars" src="https://img.shields.io/github/stars/gonzxph/CVE-2023-0748">
