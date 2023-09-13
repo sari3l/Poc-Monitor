@@ -3080,6 +3080,9 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-08 ()
 > 
 - [amirzargham/CVE-2023-08-21-exploit](https://github.com/amirzargham/CVE-2023-08-21-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/amirzargham/CVE-2023-08-21-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/amirzargham/CVE-2023-08-21-exploit">
+- [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2023-0830">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2023-0830">
+- [seifallahhomrani1/CVE-2023-0861-POC](https://github.com/seifallahhomrani1/CVE-2023-0861-POC)	<img alt="forks" src="https://img.shields.io/github/forks/seifallahhomrani1/CVE-2023-0861-POC">	<img alt="stars" src="https://img.shields.io/github/stars/seifallahhomrani1/CVE-2023-0861-POC">
+- [0xsu3ks/CVE-2023-0860](https://github.com/0xsu3ks/CVE-2023-0860)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2023-0860">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2023-0860">
 
 ---
 ## CVE-2023-0748 (2023-02-08T15:15:00)
