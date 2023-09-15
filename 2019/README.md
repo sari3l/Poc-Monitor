@@ -2199,6 +2199,11 @@
 - [iridium-soda/CVE-2019-14271_Exploit](https://github.com/iridium-soda/CVE-2019-14271_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iridium-soda/CVE-2019-14271_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iridium-soda/CVE-2019-14271_Exploit">
 
 ---
+## CVE-2019-14234 (2019-08-09T13:15:00)
+> An issue was discovered in Django 1.11.x before 1.11.23, 2.1.x before 2.1.11, and 2.2.x before 2.2.4. Due to an error in shallow key transformation, key and index lookups for django.contrib.postgres.fields.JSONField, and key lookups for django.contrib.postgres.fields.HStoreField, were subject to SQL injection. This could, for example, be exploited via crafted use of "OR 1=1" in a key or index name to return all records, using a suitably crafted dictionary, with dictionary expansion, as the **kwargs passed to the QuerySet.filter() function.
+- [malvika-thakur/CVE-2019-14234](https://github.com/malvika-thakur/CVE-2019-14234)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2019-14234">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2019-14234">
+
+---
 ## CVE-2019-13990 (2019-07-26T19:15:00)
 > initDocumentParser in xml/XMLSchedulingDataProcessor.java in Terracotta Quartz Scheduler through 2.3.0 allows XXE attacks via a job description.
 - [Live-Hack-CVE/CVE-2019-13990](https://github.com/Live-Hack-CVE/CVE-2019-13990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13990">
