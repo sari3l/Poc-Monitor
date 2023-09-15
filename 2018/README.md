@@ -987,6 +987,7 @@
 ## CVE-2018-14882 (2019-10-03T16:15:00)
 > The ICMPv6 parser in tcpdump before 4.9.3 has a buffer over-read in print-icmp6.c.
 - [nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14882](https://github.com/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14882)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14882">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14882">
+- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
 
 ---
 ## CVE-2018-14880 (2019-10-03T16:15:00)
