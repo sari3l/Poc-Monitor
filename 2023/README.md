@@ -2140,6 +2140,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [bigzooooz/CVE-2023-26692](https://github.com/bigzooooz/CVE-2023-26692)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2023-26692">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2023-26692">
 
 ---
+## CVE-2023-26607 (2023-02-26T23:15:00)
+> In the Linux kernel 6.0.8, there is an out-of-bounds read in ntfs_attr_find in fs/ntfs/attrib.c.
+- [Trinadh465/linux-4.1.15_CVE-2023-26607](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2023-26607">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2023-26607">
+
+---
 ## CVE-2023-26604 (2023-03-03T16:15:00)
 > systemd before 247 does not adequately block local privilege escalation for some Sudo configurations, e.g., plausible sudoers files in which the "systemctl status" command may be executed. Specifically, systemd does not set LESSSECURE to 1, and thus other programs may be launched from the less program. This presents a substantial security risk when running systemctl from Sudo, because less executes as root when the terminal size is too small to show the complete systemctl output.
 - [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-26604">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-26604">
