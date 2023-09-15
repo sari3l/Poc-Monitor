@@ -19,6 +19,13 @@
 ## CVE-2014-6287 (2014-10-07T10:55:00)
 > The findMacroMarker function in parserLib.pas in Rejetto HTTP File Server (aks HFS or HttpFileServer) 2.3x before 2.3c allows remote attackers to execute arbitrary programs via a %00 sequence in a search action.
 - [0xTabun/CVE-2014-6287](https://github.com/0xTabun/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/0xTabun/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/0xTabun/CVE-2014-6287">
+- [randallbanner/Rejetto-HTTP-File-Server-HFS-2.3.x---Remote-Command-Execution](https://github.com/randallbanner/Rejetto-HTTP-File-Server-HFS-2.3.x---Remote-Command-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/randallbanner/Rejetto-HTTP-File-Server-HFS-2.3.x---Remote-Command-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/randallbanner/Rejetto-HTTP-File-Server-HFS-2.3.x---Remote-Command-Execution">
+- [roughiz/cve-2014-6287.py](https://github.com/roughiz/cve-2014-6287.py)	<img alt="forks" src="https://img.shields.io/github/forks/roughiz/cve-2014-6287.py">	<img alt="stars" src="https://img.shields.io/github/stars/roughiz/cve-2014-6287.py">
+- [hadrian3689/rejetto_hfs_rce](https://github.com/hadrian3689/rejetto_hfs_rce)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/rejetto_hfs_rce">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/rejetto_hfs_rce">
+- [mrintern/thm_steelmountain_CVE-2014-6287](https://github.com/mrintern/thm_steelmountain_CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/mrintern/thm_steelmountain_CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/mrintern/thm_steelmountain_CVE-2014-6287">
+- [wizardy0ga/THM-Steel_Mountain-CVE-2014-6287](https://github.com/wizardy0ga/THM-Steel_Mountain-CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/wizardy0ga/THM-Steel_Mountain-CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/wizardy0ga/THM-Steel_Mountain-CVE-2014-6287">
+- [Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287](https://github.com/Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287">
+- [VICXOR/HFSZap](https://github.com/VICXOR/HFSZap)	<img alt="forks" src="https://img.shields.io/github/forks/VICXOR/HFSZap">	<img alt="stars" src="https://img.shields.io/github/stars/VICXOR/HFSZap">
 
 ---
 ## CVE-2014-6271 (2014-09-24T18:48:00)
