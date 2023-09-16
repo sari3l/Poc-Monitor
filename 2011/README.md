@@ -18,6 +18,7 @@
 - [stcmjp/cve-2011-3192](https://github.com/stcmjp/cve-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/stcmjp/cve-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/stcmjp/cve-2011-3192">
 - [limkokholefork/CVE-2011-3192](https://github.com/limkokholefork/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/limkokholefork/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/limkokholefork/CVE-2011-3192">
 - [tkisason/KillApachePy](https://github.com/tkisason/KillApachePy)	<img alt="forks" src="https://img.shields.io/github/forks/tkisason/KillApachePy">	<img alt="stars" src="https://img.shields.io/github/stars/tkisason/KillApachePy">
+- [futurezayka/CVE-2011-3192](https://github.com/futurezayka/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/futurezayka/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/futurezayka/CVE-2011-3192">
 
 ---
 ## CVE-2011-2523 (2019-11-27T21:15:00)
