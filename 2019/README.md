@@ -1493,6 +1493,12 @@
 - [Live-Hack-CVE/CVE-2019-20446](https://github.com/Live-Hack-CVE/CVE-2019-20446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20446">
 
 ---
+## CVE-2019-20372 (2020-01-09T21:15:00)
+> NGINX before 1.17.7, with certain error_page configurations, allows HTTP request smuggling, as demonstrated by the ability of an attacker to read unauthorized web pages in environments where NGINX is being fronted by a load balancer.
+- [0xleft/CVE-2019-20372](https://github.com/0xleft/CVE-2019-20372)	<img alt="forks" src="https://img.shields.io/github/forks/0xleft/CVE-2019-20372">	<img alt="stars" src="https://img.shields.io/github/stars/0xleft/CVE-2019-20372">
+- [vuongnv3389-sec/CVE-2019-20372](https://github.com/vuongnv3389-sec/CVE-2019-20372)	<img alt="forks" src="https://img.shields.io/github/forks/vuongnv3389-sec/CVE-2019-20372">	<img alt="stars" src="https://img.shields.io/github/stars/vuongnv3389-sec/CVE-2019-20372">
+
+---
 ## CVE-2019-20330 (2020-01-03T04:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.2 lacks certain net.sf.ehcache blocking.
 - [Live-Hack-CVE/CVE-2019-20330](https://github.com/Live-Hack-CVE/CVE-2019-20330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20330">
