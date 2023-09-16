@@ -2044,6 +2044,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [Pari-Malam/CVE-2023-27372](https://github.com/Pari-Malam/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27372">
 - [redboltsec/CVE-2023-27372-PoC](https://github.com/redboltsec/CVE-2023-27372-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/redboltsec/CVE-2023-27372-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/redboltsec/CVE-2023-27372-PoC">
+- [tucommenceapousser/CVE-2023-27372b](https://github.com/tucommenceapousser/CVE-2023-27372b)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-27372b">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-27372b">
 
 ---
 ## CVE-2023-27363 ()
