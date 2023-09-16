@@ -2316,6 +2316,11 @@
 - [gustanini/CVE-2019-13292-WebERP_4.15](https://github.com/gustanini/CVE-2019-13292-WebERP_4.15)	<img alt="forks" src="https://img.shields.io/github/forks/gustanini/CVE-2019-13292-WebERP_4.15">	<img alt="stars" src="https://img.shields.io/github/stars/gustanini/CVE-2019-13292-WebERP_4.15">
 
 ---
+## CVE-2019-13288 (2019-07-04T22:15:00)
+> In Xpdf 4.01.01, the Parser::getObj() function in Parser.cc may cause infinite recursion via a crafted file. A remote attacker can leverage this for a DoS attack. This is similar to CVE-2018-16646.
+- [gleaming0/CVE-2019-13288](https://github.com/gleaming0/CVE-2019-13288)	<img alt="forks" src="https://img.shields.io/github/forks/gleaming0/CVE-2019-13288">	<img alt="stars" src="https://img.shields.io/github/stars/gleaming0/CVE-2019-13288">
+
+---
 ## CVE-2019-13272 (2019-07-17T13:15:00)
 > In the Linux kernel before 5.1.17, ptrace_link in kernel/ptrace.c mishandles the recording of the credentials of a process that wants to create a ptrace relationship, which allows local users to obtain root access by leveraging certain scenarios with a parent-child process relationship, where a parent drops privileges and calls execve (potentially allowing control by an attacker). One contributing factor is an object lifetime issue (which can also cause a panic). Another contributing factor is incorrect marking of a ptrace relationship as privileged, which is exploitable through (for example) Polkit's pkexec helper with PTRACE_TRACEME. NOTE: SELinux deny_ptrace might be a usable workaround in some environments.
 - [asepsaepdin/CVE-2019-13272](https://github.com/asepsaepdin/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2019-13272">
