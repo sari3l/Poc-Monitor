@@ -333,6 +333,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [ameerpornillos/CVE-2023-38831-WinRAR-Exploit](https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ameerpornillos/CVE-2023-38831-WinRAR-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ameerpornillos/CVE-2023-38831-WinRAR-Exploit">
 - [Rezaguii/winrar-exploit-CVE-2023-38831-tool](https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool)	<img alt="forks" src="https://img.shields.io/github/forks/Rezaguii/winrar-exploit-CVE-2023-38831-tool">	<img alt="stars" src="https://img.shields.io/github/stars/Rezaguii/winrar-exploit-CVE-2023-38831-tool">
 - [IMHarman/CVE-2023-38831](https://github.com/IMHarman/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/IMHarman/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/IMHarman/CVE-2023-38831">
+- [an040702/CVE-2023-38831](https://github.com/an040702/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/an040702/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/an040702/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
