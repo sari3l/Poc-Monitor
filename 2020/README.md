@@ -848,6 +848,7 @@
 - [UNICORDev/exploit-CVE-2020-5844](https://github.com/UNICORDev/exploit-CVE-2020-5844)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2020-5844">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2020-5844">
 - [Live-Hack-CVE/CVE-2020-5844](https://github.com/Live-Hack-CVE/CVE-2020-5844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5844">
 - [TheCyberGeek/CVE-2020-5844](https://github.com/TheCyberGeek/CVE-2020-5844)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2020-5844">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2020-5844">
+- [1Gould/CVE-2020-5844-exploit](https://github.com/1Gould/CVE-2020-5844-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/1Gould/CVE-2020-5844-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/1Gould/CVE-2020-5844-exploit">
 
 ---
 ## CVE-2020-5752 (2020-05-21T15:15:00)
