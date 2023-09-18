@@ -3211,6 +3211,11 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [H4K6/CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H4K6/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H4K6/CVE-2023-0179-PoC">
 
 ---
+## CVE-2023-0099 (2023-02-13T15:15:00)
+> The Simple URLs WordPress plugin before 115 does not sanitise and escape some parameters before outputting them back in some pages, leading to Reflected Cross-Site Scripting which could be used against high privilege users such as admin.
+- [amirzargham/CVE-2023-0099-exploit](https://github.com/amirzargham/CVE-2023-0099-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/amirzargham/CVE-2023-0099-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/amirzargham/CVE-2023-0099-exploit">
+
+---
 ## CVE-2023-0050 (2023-03-09T22:15:00)
 > An issue has been discovered in GitLab affecting all versions starting from 13.7 before 15.7.8, all versions starting from 15.8 before 15.8.4, all versions starting from 15.9 before 15.9.2. A specially crafted Kroki diagram could lead to a stored XSS on the client side which allows attackers to perform arbitrary actions on behalf of victims.
 - [wh-gov/CVE-2023-0050](https://github.com/wh-gov/CVE-2023-0050)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-0050">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-0050">
