@@ -838,6 +838,11 @@
 - [amitlttwo/CVE-2020-5902](https://github.com/amitlttwo/CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2020-5902">
 
 ---
+## CVE-2020-5847 (2020-03-16T18:15:00)
+> Unraid through 6.8.0 allows Remote Code Execution.
+- [1Gould/CVE-2020-5847-exploit](https://github.com/1Gould/CVE-2020-5847-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/1Gould/CVE-2020-5847-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/1Gould/CVE-2020-5847-exploit">
+
+---
 ## CVE-2020-5844 (2020-03-16T18:15:00)
 > index.php?sec=godmode/extensions&sec2=extensions/files_repo in Pandora FMS v7.0 NG allows authenticated administrators to upload malicious PHP scripts, and execute them via base64 decoding of the file location. This affects v7.0NG.742_FIX_PERL2020.
 - [UNICORDev/exploit-CVE-2020-5844](https://github.com/UNICORDev/exploit-CVE-2020-5844)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2020-5844">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2020-5844">
