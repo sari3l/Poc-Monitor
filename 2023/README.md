@@ -615,6 +615,50 @@ This CVE will be updated with new information and links to security updates when
 - [Octoberfest7/CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF)	<img alt="forks" src="https://img.shields.io/github/forks/Octoberfest7/CVE-2023-36874_BOF">	<img alt="stars" src="https://img.shields.io/github/stars/Octoberfest7/CVE-2023-36874_BOF">
 
 ---
+## CVE-2023-36845 (2023-08-17T20:15:00)
+> A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series 
+
+and SRX Series 
+
+allows an unauthenticated, network-based attacker to control certain, important environments variables.
+
+Utilizing a crafted request an attacker is able to modify a certain PHP environment variable leading to partial loss of integrity, which may allow chaining to other vulnerabilities.
+
+
+This issue affects Juniper Networks Junos OS on SRX Series:
+
+
+
+  *  All versions prior to 21.4R3-S5;
+  *  22.1 versions 
+
+prior to 
+
+22.1R3-S4;
+  *  22.2 versions 
+
+prior to 
+
+22.2R3-S2;
+  *  22.3 versions 
+
+prior to 
+
+22.3R2-S2, 22.3R3-S1;
+  *  22.4 versions 
+
+prior to 
+
+22.4R2-S1, 22.4R3;
+  *  23.2 versions prior to 23.2R1-S1, 23.2R2.
+
+
+
+
+
+- [vulncheck-oss/cve-2023-36845-scanner](https://github.com/vulncheck-oss/cve-2023-36845-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-36845-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-36845-scanner">
+
+---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
 > A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series allows an unauthenticated, network-based attacker to control certain, important environments variables.
 
