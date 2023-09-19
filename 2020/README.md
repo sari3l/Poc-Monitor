@@ -929,6 +929,11 @@
 - [silentsignal/WebSphere-WSIF-gadget](https://github.com/silentsignal/WebSphere-WSIF-gadget)	<img alt="forks" src="https://img.shields.io/github/forks/silentsignal/WebSphere-WSIF-gadget">	<img alt="stars" src="https://img.shields.io/github/stars/silentsignal/WebSphere-WSIF-gadget">
 
 ---
+## CVE-2020-4463 (2020-07-29T14:15:00)
+> IBM Maximo Asset Management 7.6.0.1 and 7.6.0.2 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 181484.
+- [Ibonok/CVE-2020-4463](https://github.com/Ibonok/CVE-2020-4463)	<img alt="forks" src="https://img.shields.io/github/forks/Ibonok/CVE-2020-4463">	<img alt="stars" src="https://img.shields.io/github/stars/Ibonok/CVE-2020-4463">
+
+---
 ## CVE-2020-4099 (2022-11-01T18:15:00)
 > The application was signed using a key length less than or equal to 1024 bits, making it potentially vulnerable to forged digital signatures. An attacker could forge the same digital signature of the app after maliciously modifying the app.
 - [Live-Hack-CVE/CVE-2020-4099](https://github.com/Live-Hack-CVE/CVE-2020-4099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4099">
