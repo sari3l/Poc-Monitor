@@ -32,8 +32,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
-## CVE-2023-4951 ()
-> 
+## CVE-2023-4951 (2023-09-14T17:15:00)
+> A cross site scripting issue was discovered with the pagination function on the "Client-based Authentication Policy Configuration" screen of the GreenRADIUS web admin interface. This issue is found in GreenRADIUS v5.1.1.1 and prior. A fix was included in v5.1.2.2.
+
+
+
 - [jaysharma786/CVE-2023-4951](https://github.com/jaysharma786/CVE-2023-4951)	<img alt="forks" src="https://img.shields.io/github/forks/jaysharma786/CVE-2023-4951">	<img alt="stars" src="https://img.shields.io/github/stars/jaysharma786/CVE-2023-4951">
 
 ---
@@ -88,8 +91,8 @@
 - [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4238-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4238-PoC">
 
 ---
-## CVE-2023-42362 ()
-> 
+## CVE-2023-42362 (2023-09-14T21:15:00)
+> An arbitrary file upload vulnerability in Teller Web App v.4.4.0 allows a remote attacker to execute arbitrary commands and obtain sensitive information via uploading a crafted file.
 - [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-n0b3dy/CVE-2023-42362">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-n0b3dy/CVE-2023-42362">
 
 ---
@@ -182,13 +185,13 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Yobing1/CVE-2023-40924](https://github.com/Yobing1/CVE-2023-40924)	<img alt="forks" src="https://img.shields.io/github/forks/Yobing1/CVE-2023-40924">	<img alt="stars" src="https://img.shields.io/github/stars/Yobing1/CVE-2023-40924">
 
 ---
-## CVE-2023-40869 ()
-> 
+## CVE-2023-40869 (2023-09-14T22:15:00)
+> Cross Site Scripting vulnerability in mooSocial mooSocial Software 3.1.6 and 3.1.7 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions.
 - [MinoTauro2020/CVE-2023-40869](https://github.com/MinoTauro2020/CVE-2023-40869)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-40869">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-40869">
 
 ---
-## CVE-2023-40868 ()
-> 
+## CVE-2023-40868 (2023-09-14T22:15:00)
+> Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions.
 - [MinoTauro2020/CVE-2023-40868](https://github.com/MinoTauro2020/CVE-2023-40868)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-40868">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-40868">
 
 ---
@@ -289,8 +292,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [afine-com/CVE-2023-39062](https://github.com/afine-com/CVE-2023-39062)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-39062">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-39062">
 
 ---
-## CVE-2023-38891 ()
-> 
+## CVE-2023-38891 (2023-09-14T23:15:00)
+> SQL injection vulnerability in Vtiger CRM v.7.5.0 allows a remote authenticated attacker to escalate privileges via the getQueryColumnsList function in ReportRun.php.
 - [jselliott/CVE-2023-38891](https://github.com/jselliott/CVE-2023-38891)	<img alt="forks" src="https://img.shields.io/github/forks/jselliott/CVE-2023-38891">	<img alt="stars" src="https://img.shields.io/github/stars/jselliott/CVE-2023-38891">
 
 ---
@@ -481,18 +484,18 @@ The vulnerability is limited to the ROOT (default) web application.
 - [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
 
 ---
-## CVE-2023-37756 ()
-> 
+## CVE-2023-37756 (2023-09-14T21:15:00)
+> I-doit pro 25 and below and I-doit open 25 and below employ weak password requirements for Administrator account creation. Attackers are able to easily guess users' passwords via a bruteforce attack.
 - [leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below">
 
 ---
-## CVE-2023-37755 ()
-> 
+## CVE-2023-37755 (2023-09-14T20:15:00)
+> i-doit pro 25 and below and I-doit open 25 and below are configured with insecure default administrator credentials, and there is no warning or prompt to ask users to change the default password and account name. Unauthenticated attackers can exploit this vulnerability to obtain Administrator privileges, resulting in them being able to perform arbitrary system operations or cause a Denial of Service (DoS).
 - [leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below">
 
 ---
-## CVE-2023-37739 ()
-> 
+## CVE-2023-37739 (2023-09-14T20:15:00)
+> i-doit Pro v25 and below was discovered to be vulnerable to path traversal.
 - [leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below">
 
 ---
@@ -738,8 +741,8 @@ prior to
 - [tagomaru/CVE-2023-36281](https://github.com/tagomaru/CVE-2023-36281)	<img alt="forks" src="https://img.shields.io/github/forks/tagomaru/CVE-2023-36281">	<img alt="stars" src="https://img.shields.io/github/stars/tagomaru/CVE-2023-36281">
 
 ---
-## CVE-2023-36250 ()
-> 
+## CVE-2023-36250 (2023-09-14T17:15:00)
+> CSV Injection vulnerability in GNOME time tracker version 3.0.2, allows local attackers to execute arbitrary code via crafted .tsv file when creating a new record.
 - [BrunoTeixeira1996/CVE-2023-36250](https://github.com/BrunoTeixeira1996/CVE-2023-36250)	<img alt="forks" src="https://img.shields.io/github/forks/BrunoTeixeira1996/CVE-2023-36250">	<img alt="stars" src="https://img.shields.io/github/stars/BrunoTeixeira1996/CVE-2023-36250">
 
 ---
@@ -1161,8 +1164,8 @@ An application is not vulnerable if any of the following is true:
 - [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-33977">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-33977">
 
 ---
-## CVE-2023-33831 ()
-> 
+## CVE-2023-33831 (2023-09-18T20:15:00)
+> A remote command execution (RCE) vulnerability in the /api/runscript endpoint of FUXA 1.1.13 allows attackers to execute arbitrary commands via a crafted POST request.
 - [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">
 
 ---
