@@ -737,6 +737,11 @@ prior to
 - [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640)	<img alt="forks" src="https://img.shields.io/github/forks/pray77/CVE-2023-3640">	<img alt="stars" src="https://img.shields.io/github/stars/pray77/CVE-2023-3640">
 
 ---
+## CVE-2023-36319 ()
+> 
+- [Lowalu/CVE-2023-36319](https://github.com/Lowalu/CVE-2023-36319)	<img alt="forks" src="https://img.shields.io/github/forks/Lowalu/CVE-2023-36319">	<img alt="stars" src="https://img.shields.io/github/stars/Lowalu/CVE-2023-36319">
+
+---
 ## CVE-2023-36281 (2023-08-22T19:16:00)
 > An issue in langchain v.0.0.171 allows a remote attacker to execute arbitrary code via the via the a json file to the load_prompt parameter.
 - [tagomaru/CVE-2023-36281](https://github.com/tagomaru/CVE-2023-36281)	<img alt="forks" src="https://img.shields.io/github/forks/tagomaru/CVE-2023-36281">	<img alt="stars" src="https://img.shields.io/github/stars/tagomaru/CVE-2023-36281">
