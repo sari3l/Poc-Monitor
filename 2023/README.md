@@ -821,6 +821,11 @@ prior to
 - [9Bakabaka/CVE-2023-36123](https://github.com/9Bakabaka/CVE-2023-36123)	<img alt="forks" src="https://img.shields.io/github/forks/9Bakabaka/CVE-2023-36123">	<img alt="stars" src="https://img.shields.io/github/stars/9Bakabaka/CVE-2023-36123">
 
 ---
+## CVE-2023-36109 ()
+> 
+- [Limesss/CVE-2023-36109](https://github.com/Limesss/CVE-2023-36109)	<img alt="forks" src="https://img.shields.io/github/forks/Limesss/CVE-2023-36109">	<img alt="stars" src="https://img.shields.io/github/stars/Limesss/CVE-2023-36109">
+
+---
 ## CVE-2023-3609 (2023-07-21T21:15:00)
 > A use-after-free vulnerability in the Linux kernel's net/sched: cls_u32 component can be exploited to achieve local privilege escalation.
 
