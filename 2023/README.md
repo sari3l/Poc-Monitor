@@ -3153,6 +3153,16 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal](https://github.com/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal">
 
 ---
+## CVE-2023-11 ()
+> 
+- [XXXE88/cve-2023-11](https://github.com/XXXE88/cve-2023-11)	<img alt="forks" src="https://img.shields.io/github/forks/XXXE88/cve-2023-11">	<img alt="stars" src="https://img.shields.io/github/stars/XXXE88/cve-2023-11">
+- [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow)	<img alt="forks" src="https://img.shields.io/github/forks/iumiro/CVE-2023-1177-MLFlow">	<img alt="stars" src="https://img.shields.io/github/stars/iumiro/CVE-2023-1177-MLFlow">
+- [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1112-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1112-EXP">
+- [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/ml-CVE-2023-1177">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/ml-CVE-2023-1177">
+- [Zeppperoni/CVE-2023-23397-Patch](https://github.com/Zeppperoni/CVE-2023-23397-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/Zeppperoni/CVE-2023-23397-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/Zeppperoni/CVE-2023-23397-Patch">
+- [CKevens/CVE-2023-21768-POC](https://github.com/CKevens/CVE-2023-21768-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-21768-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-21768-POC">
+
+---
 ## CVE-2023-10608 ()
 > 
 - [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b35363/cve-2023-10608-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b35363/cve-2023-10608-PoC">
