@@ -715,6 +715,7 @@ prior to
 
 
 - [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/juniper-rce_cve-2023-36844">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/juniper-rce_cve-2023-36844">
+- [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-36844">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-36844">
 
 ---
 ## CVE-2023-36664 (2023-06-25T22:15:00)
