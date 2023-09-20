@@ -725,6 +725,11 @@ prior to
 - [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-36844">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-36844">
 
 ---
+## CVE-2023-36761 (2023-09-12T17:15:00)
+> Microsoft Word Information Disclosure Vulnerability
+- [apt0factury/CVE-2023-36761](https://github.com/apt0factury/CVE-2023-36761)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-36761">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-36761">
+
+---
 ## CVE-2023-36664 (2023-06-25T22:15:00)
 > Artifex Ghostscript through 10.01.2 mishandles permission validation for pipe devices (with the %pipe% prefix or the | pipe character prefix).
 - [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-36664-Ghostscript-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-36664-Ghostscript-command-injection">
