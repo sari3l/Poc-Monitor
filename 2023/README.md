@@ -183,8 +183,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989)	<img alt="forks" src="https://img.shields.io/github/forks/Zone1-Z/CVE-2023-40989">	<img alt="stars" src="https://img.shields.io/github/stars/Zone1-Z/CVE-2023-40989">
 
 ---
-## CVE-2023-40930 ()
-> 
+## CVE-2023-40930 (2023-09-20T20:15:00)
+> Skyworth 3.0 OS is vulnerable to Directory Traversal.
 - [NSnidie/-CVE-2023-40930](https://github.com/NSnidie/-CVE-2023-40930)	<img alt="forks" src="https://img.shields.io/github/forks/NSnidie/-CVE-2023-40930">	<img alt="stars" src="https://img.shields.io/github/stars/NSnidie/-CVE-2023-40930">
 
 ---

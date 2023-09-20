@@ -3074,6 +3074,7 @@
 ## CVE-2021-39165 (2021-08-26T21:15:00)
 > Cachet is an open source status page. With Cachet prior to and including 2.3.18, there is a SQL injection which is in the `SearchableTrait#scopeSearch()`. Attackers without authentication can utilize this vulnerability to exfiltrate sensitive data from the database such as administrator's password and session. The original repository of Cachet <https://github.com/CachetHQ/Cachet> is not active, the stable version 2.3.18 and it's developing 2.4 branch is affected.
 - [W0rty/CVE-2021-39165](https://github.com/W0rty/CVE-2021-39165)	<img alt="forks" src="https://img.shields.io/github/forks/W0rty/CVE-2021-39165">	<img alt="stars" src="https://img.shields.io/github/stars/W0rty/CVE-2021-39165">
+- [manbolq/CVE-2021-39165](https://github.com/manbolq/CVE-2021-39165)	<img alt="forks" src="https://img.shields.io/github/forks/manbolq/CVE-2021-39165">	<img alt="stars" src="https://img.shields.io/github/stars/manbolq/CVE-2021-39165">
 
 ---
 ## CVE-2021-39164 (2021-08-31T17:15:00)
