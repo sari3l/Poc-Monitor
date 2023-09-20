@@ -740,8 +740,8 @@ prior to
 - [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640)	<img alt="forks" src="https://img.shields.io/github/forks/pray77/CVE-2023-3640">	<img alt="stars" src="https://img.shields.io/github/stars/pray77/CVE-2023-3640">
 
 ---
-## CVE-2023-36319 ()
-> 
+## CVE-2023-36319 (2023-09-20T00:15:00)
+> File Upload vulnerability in Openupload Stable v.0.4.3 allows a remote attacker to execute arbitrary code via the action parameter of the compress-inc.php file.
 - [Lowalu/CVE-2023-36319](https://github.com/Lowalu/CVE-2023-36319)	<img alt="forks" src="https://img.shields.io/github/forks/Lowalu/CVE-2023-36319">	<img alt="stars" src="https://img.shields.io/github/stars/Lowalu/CVE-2023-36319">
 
 ---
