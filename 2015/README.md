@@ -179,6 +179,15 @@
 ## CVE-2015-3306 (2015-05-18T15:59:00)
 > The mod_copy module in ProFTPD 1.3.5 allows remote attackers to read and write to arbitrary files via the site cpfr and site cpto commands.
 - [hackarada/cve-2015-3306](https://github.com/hackarada/cve-2015-3306)	<img alt="forks" src="https://img.shields.io/github/forks/hackarada/cve-2015-3306">	<img alt="stars" src="https://img.shields.io/github/stars/hackarada/cve-2015-3306">
+- [jptr218/proftpd_bypass](https://github.com/jptr218/proftpd_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/jptr218/proftpd_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/jptr218/proftpd_bypass">
+- [0xm4ud/ProFTPD_CVE-2015-3306](https://github.com/0xm4ud/ProFTPD_CVE-2015-3306)	<img alt="forks" src="https://img.shields.io/github/forks/0xm4ud/ProFTPD_CVE-2015-3306">	<img alt="stars" src="https://img.shields.io/github/stars/0xm4ud/ProFTPD_CVE-2015-3306">
+- [cved-sources/cve-2015-3306](https://github.com/cved-sources/cve-2015-3306)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2015-3306">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2015-3306">
+- [cd6629/CVE-2015-3306-Python-PoC](https://github.com/cd6629/CVE-2015-3306-Python-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cd6629/CVE-2015-3306-Python-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cd6629/CVE-2015-3306-Python-PoC">
+- [cdedmondson/Modified-CVE-2015-3306-Exploit](https://github.com/cdedmondson/Modified-CVE-2015-3306-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cdedmondson/Modified-CVE-2015-3306-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cdedmondson/Modified-CVE-2015-3306-Exploit">
+- [t0kx/exploit-CVE-2015-3306](https://github.com/t0kx/exploit-CVE-2015-3306)	<img alt="forks" src="https://img.shields.io/github/forks/t0kx/exploit-CVE-2015-3306">	<img alt="stars" src="https://img.shields.io/github/stars/t0kx/exploit-CVE-2015-3306">
+- [davidtavarez/CVE-2015-3306](https://github.com/davidtavarez/CVE-2015-3306)	<img alt="forks" src="https://img.shields.io/github/forks/davidtavarez/CVE-2015-3306">	<img alt="stars" src="https://img.shields.io/github/stars/davidtavarez/CVE-2015-3306">
+- [nootropics/propane](https://github.com/nootropics/propane)	<img alt="forks" src="https://img.shields.io/github/forks/nootropics/propane">	<img alt="stars" src="https://img.shields.io/github/stars/nootropics/propane">
+- [shk0x/cpx_proftpd](https://github.com/shk0x/cpx_proftpd)	<img alt="forks" src="https://img.shields.io/github/forks/shk0x/cpx_proftpd">	<img alt="stars" src="https://img.shields.io/github/stars/shk0x/cpx_proftpd">
 
 ---
 ## CVE-2015-3197 (2016-02-15T02:59:00)
