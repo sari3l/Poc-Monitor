@@ -634,6 +634,64 @@ This CVE will be updated with new information and links to security updates when
 - [Octoberfest7/CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF)	<img alt="forks" src="https://img.shields.io/github/forks/Octoberfest7/CVE-2023-36874_BOF">	<img alt="stars" src="https://img.shields.io/github/stars/Octoberfest7/CVE-2023-36874_BOF">
 
 ---
+## CVE-2023-36846 (2023-08-17T20:15:00)
+> A Missing Authentication for Critical Function vulnerability in Juniper Networks Junos OS on SRX Series allows an unauthenticated, network-based attacker to cause limited impact to the file system integrity.
+
+
+
+With a specific request that doesn't require authentication an attacker is able to upload arbitrary files via J-Web, leading to a loss of 
+
+integrity
+
+for a certain 
+
+part of the file system, which may allow chaining to other vulnerabilities.
+
+
+This issue affects Juniper Networks Junos OS on SRX Series:
+
+
+
+  *  All versions prior to 20.4R3-S8;
+  *  21.2 versions prior to 21.2R3-S6;
+  *  21.3 versions 
+
+prior to 
+
+ 21.3R3-S5;
+  *  21.4 versions 
+
+prior to 
+
+21.4R3-S5;
+  *  22.1 versions 
+
+prior to 
+
+22.1R3-S3;
+  *  22.2 versions 
+
+prior to 
+
+22.2R3-S2;
+  *  22.3 versions 
+
+prior to 
+
+22.3R2-S2, 22.3R3;
+  *  22.4 versions 
+
+prior to 
+
+22.4R2-S1, 22.4R3.
+
+
+
+
+
+- [Dreamy-elfland/CVE-2023-36846](https://github.com/Dreamy-elfland/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Dreamy-elfland/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Dreamy-elfland/CVE-2023-36846">
+
+---
 ## CVE-2023-36845 (2023-08-17T20:15:00)
 > A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series 
 
