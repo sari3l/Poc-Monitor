@@ -351,6 +351,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [IMHarman/CVE-2023-38831](https://github.com/IMHarman/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/IMHarman/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/IMHarman/CVE-2023-38831">
 - [an040702/CVE-2023-38831](https://github.com/an040702/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/an040702/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/an040702/CVE-2023-38831">
 - [elefantesagradodeluzinfinita/cve-2023-38831](https://github.com/elefantesagradodeluzinfinita/cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/elefantesagradodeluzinfinita/cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/elefantesagradodeluzinfinita/cve-2023-38831">
+- [malvika-thakur/CVE-2023-38831-WinRAR-POC-](https://github.com/malvika-thakur/CVE-2023-38831-WinRAR-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2023-38831-WinRAR-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2023-38831-WinRAR-POC-">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
@@ -902,6 +903,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 ## CVE-2023-35744 ()
 > 
 - [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744)	<img alt="forks" src="https://img.shields.io/github/forks/ADSSA-IT/CVE-2023-35744">	<img alt="stars" src="https://img.shields.io/github/stars/ADSSA-IT/CVE-2023-35744">
+
+---
+## CVE-2023-35687 (2023-09-11T21:15:00)
+> In MtpPropertyValue of MtpProperty.h, there is a possible memory corruption due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679](https://github.com/pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679">
 
 ---
 ## CVE-2023-35674 (2023-09-11T21:15:00)
