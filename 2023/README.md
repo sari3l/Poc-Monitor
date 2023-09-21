@@ -832,8 +832,8 @@ prior to
 - [9Bakabaka/CVE-2023-36123](https://github.com/9Bakabaka/CVE-2023-36123)	<img alt="forks" src="https://img.shields.io/github/forks/9Bakabaka/CVE-2023-36123">	<img alt="stars" src="https://img.shields.io/github/stars/9Bakabaka/CVE-2023-36123">
 
 ---
-## CVE-2023-36109 ()
-> 
+## CVE-2023-36109 (2023-09-20T22:15:00)
+> Buffer Overflow vulnerability in JerryScript version 3.0, allows remote attackers to execute arbitrary code via ecma_stringbuilder_append_raw component at /jerry-core/ecma/base/ecma-helpers-string.c.
 - [Limesss/CVE-2023-36109](https://github.com/Limesss/CVE-2023-36109)	<img alt="forks" src="https://img.shields.io/github/forks/Limesss/CVE-2023-36109">	<img alt="stars" src="https://img.shields.io/github/stars/Limesss/CVE-2023-36109">
 
 ---
@@ -1514,6 +1514,26 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
+
+---
+## CVE-2023-31719 ()
+> 
+- [MateusTesser/CVE-2023-31719](https://github.com/MateusTesser/CVE-2023-31719)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31719">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31719">
+
+---
+## CVE-2023-31718 ()
+> 
+- [MateusTesser/CVE-2023-31718](https://github.com/MateusTesser/CVE-2023-31718)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31718">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31718">
+
+---
+## CVE-2023-31717 ()
+> 
+- [MateusTesser/CVE-2023-31717](https://github.com/MateusTesser/CVE-2023-31717)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31717">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31717">
+
+---
+## CVE-2023-31716 ()
+> 
+- [MateusTesser/CVE-2023-31716](https://github.com/MateusTesser/CVE-2023-31716)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31716">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31716">
 
 ---
 ## CVE-2023-31711 ()
