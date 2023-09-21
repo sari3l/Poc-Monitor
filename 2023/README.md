@@ -351,7 +351,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [IMHarman/CVE-2023-38831](https://github.com/IMHarman/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/IMHarman/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/IMHarman/CVE-2023-38831">
 - [an040702/CVE-2023-38831](https://github.com/an040702/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/an040702/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/an040702/CVE-2023-38831">
 - [elefantesagradodeluzinfinita/cve-2023-38831](https://github.com/elefantesagradodeluzinfinita/cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/elefantesagradodeluzinfinita/cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/elefantesagradodeluzinfinita/cve-2023-38831">
-- [malvika-thakur/CVE-2023-38831-WinRAR-POC-](https://github.com/malvika-thakur/CVE-2023-38831-WinRAR-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2023-38831-WinRAR-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2023-38831-WinRAR-POC-">
+- [malvika-thakur/CVE-2023-38831](https://github.com/malvika-thakur/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
