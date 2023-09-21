@@ -43,6 +43,7 @@
 ## CVE-2023-4863 (2023-09-12T15:15:00)
 > Heap buffer overflow in WebP in Google Chrome prior to 116.0.5845.187 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: Critical)
 - [suhipek/CVE-2023-4863](https://github.com/suhipek/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/suhipek/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/suhipek/CVE-2023-4863">
+- [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2023-4863">
 
 ---
 ## CVE-2023-4741 (2023-09-03T23:15:00)
