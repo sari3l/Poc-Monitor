@@ -1731,6 +1731,7 @@ ESPv2 allows malicious requests to bypass authentication if both the conditions 
 
 Upgrade deployments to release v2.43.0 or higher to receive a patch. This release ensures that JWT authentication occurs, even when the caller specifies `x-http-method-override`. `x-http-method-override` is still supported by v2.43.0+. API clients can continue sending this header to ESPv2.
 - [himori123/-CVE-2023-30845](https://github.com/himori123/-CVE-2023-30845)	<img alt="forks" src="https://img.shields.io/github/forks/himori123/-CVE-2023-30845">	<img alt="stars" src="https://img.shields.io/github/stars/himori123/-CVE-2023-30845">
+- [jayluxferro/ESPv2](https://github.com/jayluxferro/ESPv2)	<img alt="forks" src="https://img.shields.io/github/forks/jayluxferro/ESPv2">	<img alt="stars" src="https://img.shields.io/github/stars/jayluxferro/ESPv2">
 
 ---
 ## CVE-2023-30839 (2023-04-25T19:15:00)
