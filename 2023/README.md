@@ -1724,6 +1724,15 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [jmrcsnchz/CVE-2023-30854](https://github.com/jmrcsnchz/CVE-2023-30854)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-30854">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-30854">
 
 ---
+## CVE-2023-30845 (2023-04-26T21:15:00)
+> ESPv2 is a service proxy that provides API management capabilities using Google Service Infrastructure. ESPv2 2.20.0 through 2.42.0 contains an authentication bypass vulnerability. API clients can craft a malicious `X-HTTP-Method-Override` header value to bypass JWT authentication in specific cases.
+
+ESPv2 allows malicious requests to bypass authentication if both the conditions are true: The requested HTTP method is **not** in the API service definition (OpenAPI spec or gRPC `google.api.http` proto annotations, and the specified `X-HTTP-Method-Override` is a valid HTTP method in the API service definition. ESPv2 will forward the request to your backend without checking the JWT. Attackers can craft requests with a malicious `X-HTTP-Method-Override` value that allows them to bypass specifying JWTs. Restricting API access with API keys works as intended and is not affected by this vulnerability.
+
+Upgrade deployments to release v2.43.0 or higher to receive a patch. This release ensures that JWT authentication occurs, even when the caller specifies `x-http-method-override`. `x-http-method-override` is still supported by v2.43.0+. API clients can continue sending this header to ESPv2.
+- [himori123/-CVE-2023-30845](https://github.com/himori123/-CVE-2023-30845)	<img alt="forks" src="https://img.shields.io/github/forks/himori123/-CVE-2023-30845">	<img alt="stars" src="https://img.shields.io/github/stars/himori123/-CVE-2023-30845">
+
+---
 ## CVE-2023-30839 (2023-04-25T19:15:00)
 > PrestaShop is an Open Source e-commerce web application. Versions prior to 8.0.4 and 1.7.8.9 contain a SQL filtering vulnerability. A BO user can write, update, and delete in the database, even without having specific rights. PrestaShop 8.0.4 and 1.7.8.9 contain a patch for this issue. There are no known workarounds.
 - [drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839](https://github.com/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839)	<img alt="forks" src="https://img.shields.io/github/forks/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839">	<img alt="stars" src="https://img.shields.io/github/stars/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839">
