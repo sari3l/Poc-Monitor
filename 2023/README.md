@@ -77,6 +77,11 @@
 - [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350)	<img alt="forks" src="https://img.shields.io/github/forks/0nyx-hkr/cve-2023-4350">	<img alt="stars" src="https://img.shields.io/github/stars/0nyx-hkr/cve-2023-4350">
 
 ---
+## CVE-2023-43326 ()
+> 
+- [ahrixia/CVE-2023-43326](https://github.com/ahrixia/CVE-2023-43326)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43326">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43326">
+
+---
 ## CVE-2023-43325 ()
 > 
 - [ahrixia/CVE-2023-43325](https://github.com/ahrixia/CVE-2023-43325)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43325">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43325">
@@ -632,6 +637,7 @@ This CVE will be updated with new information and links to security updates when
 - [ToddMaxey/CVE-2023-36884](https://github.com/ToddMaxey/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/ToddMaxey/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/ToddMaxey/CVE-2023-36884">
 - [ridsoliveira/Fix-CVE-2023-36884](https://github.com/ridsoliveira/Fix-CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/ridsoliveira/Fix-CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/ridsoliveira/Fix-CVE-2023-36884">
 - [raresteak/CVE-2023-36884](https://github.com/raresteak/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/raresteak/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/raresteak/CVE-2023-36884">
+- [apt0factury/CVE-2023-36884](https://github.com/apt0factury/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-36884">
 - [apt0factury/CVE-2023-36884](https://github.com/apt0factury/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-36884">
 
 ---
