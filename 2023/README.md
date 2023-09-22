@@ -1581,23 +1581,23 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
 
 ---
-## CVE-2023-31719 ()
-> 
+## CVE-2023-31719 (2023-09-22T00:15:00)
+> FUXA <= 1.1.12 is vulnerable to SQL Injection via /api/signin.
 - [MateusTesser/CVE-2023-31719](https://github.com/MateusTesser/CVE-2023-31719)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31719">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31719">
 
 ---
-## CVE-2023-31718 ()
-> 
+## CVE-2023-31718 (2023-09-22T00:15:00)
+> FUXA <= 1.1.12 is vulnerable to Local via Inclusion via /api/download.
 - [MateusTesser/CVE-2023-31718](https://github.com/MateusTesser/CVE-2023-31718)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31718">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31718">
 
 ---
-## CVE-2023-31717 ()
-> 
+## CVE-2023-31717 (2023-09-22T00:15:00)
+> A SQL Injection attack in FUXA <= 1.1.12 allows exfiltration of confidential information from the database.
 - [MateusTesser/CVE-2023-31717](https://github.com/MateusTesser/CVE-2023-31717)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31717">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31717">
 
 ---
-## CVE-2023-31716 ()
-> 
+## CVE-2023-31716 (2023-09-22T00:15:00)
+> FUXA <= 1.1.12 has a Local File Inclusion vulnerability via file=fuxa.log
 - [MateusTesser/CVE-2023-31716](https://github.com/MateusTesser/CVE-2023-31716)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31716">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31716">
 
 ---
