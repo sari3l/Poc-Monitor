@@ -153,6 +153,11 @@
 - [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41507">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41507">
 
 ---
+## CVE-2023-41436 (2023-09-16T00:15:00)
+> Cross Site Scripting vulnerability in CSZCMS v.1.3.0 allows a local attacker to execute arbitrary code via a crafted script to the Additional Meta Tag parameter in the Pages Content Menu component.
+- [sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content](https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content)	<img alt="forks" src="https://img.shields.io/github/forks/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content">	<img alt="stars" src="https://img.shields.io/github/stars/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content">
+
+---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
 > MyBB before 1.8.36 allows Code Injection by users with certain high privileges. Templates in Admin CP intentionally use eval, and there was some validation of the input to eval, but type juggling interfered with this when using PCRE within PHP.
 - [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE">
