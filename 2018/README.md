@@ -26,6 +26,7 @@
 - [ST0PL/DVRFaultNET](https://github.com/ST0PL/DVRFaultNET)	<img alt="forks" src="https://img.shields.io/github/forks/ST0PL/DVRFaultNET">	<img alt="stars" src="https://img.shields.io/github/stars/ST0PL/DVRFaultNET">
 - [wr0x00/Lizard](https://github.com/wr0x00/Lizard)	<img alt="forks" src="https://img.shields.io/github/forks/wr0x00/Lizard">	<img alt="stars" src="https://img.shields.io/github/stars/wr0x00/Lizard">
 - [awesome-consumer-iot/HTC](https://github.com/awesome-consumer-iot/HTC)	<img alt="forks" src="https://img.shields.io/github/forks/awesome-consumer-iot/HTC">	<img alt="stars" src="https://img.shields.io/github/stars/awesome-consumer-iot/HTC">
+- [Pab450/CVE-2018-9995](https://github.com/Pab450/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/Pab450/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/Pab450/CVE-2018-9995">
 
 ---
 ## CVE-2018-9276 (2018-07-02T16:29:00)
