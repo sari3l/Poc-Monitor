@@ -117,6 +117,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-4281 ()
+> 
+- [b0marek/CVE-2023-4281](https://github.com/b0marek/CVE-2023-4281)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4281">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4281">
+
+---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
 > This User Activity Log WordPress plugin before 1.6.7 retrieves client IP addresses from potentially untrusted headers, allowing an attacker to manipulate its value. This may be used to hide the source of malicious traffic.
 - [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4279">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4279">
