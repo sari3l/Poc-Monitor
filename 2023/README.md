@@ -102,6 +102,11 @@
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
 
 ---
+## CVE-2023-42426 ()
+> 
+- [b0marek/CVE-2023-42426](https://github.com/b0marek/CVE-2023-42426)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-42426">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-42426">
+
+---
 ## CVE-2023-42413 ()
 > 
 - [chenghao-hao/cve-2023-42413](https://github.com/chenghao-hao/cve-2023-42413)	<img alt="forks" src="https://img.shields.io/github/forks/chenghao-hao/cve-2023-42413">	<img alt="stars" src="https://img.shields.io/github/stars/chenghao-hao/cve-2023-42413">
