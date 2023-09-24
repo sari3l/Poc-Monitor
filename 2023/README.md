@@ -1998,6 +1998,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409)	<img alt="forks" src="https://img.shields.io/github/forks/mateusz834/CVE-2023-29409">	<img alt="stars" src="https://img.shields.io/github/stars/mateusz834/CVE-2023-29409">
 
 ---
+## CVE-2023-29360 (2023-06-14T00:15:00)
+> Microsoft Streaming Service Elevation of Privilege Vulnerability
+- [Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360)	<img alt="forks" src="https://img.shields.io/github/forks/Nero22k/cve-2023-29360">	<img alt="stars" src="https://img.shields.io/github/stars/Nero22k/cve-2023-29360">
+
+---
 ## CVE-2023-29343 (2023-05-09T18:15:00)
 > SysInternals Sysmon for Windows Elevation of Privilege Vulnerability
 - [Wh04m1001/CVE-2023-29343](https://github.com/Wh04m1001/CVE-2023-29343)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-29343">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-29343">
