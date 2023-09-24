@@ -97,6 +97,11 @@
 - [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-43154-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-43154-PoC">
 
 ---
+## CVE-2023-4294 (2023-09-11T20:15:00)
+> The URL Shortify WordPress plugin before 1.7.6 does not properly escape the value of the referer header, thus allowing an unauthenticated attacker to inject malicious javascript that will trigger in the plugins admin panel with statistics of the created short link.
+- [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4294">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4294">
+
+---
 ## CVE-2023-42896 ()
 > 
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
