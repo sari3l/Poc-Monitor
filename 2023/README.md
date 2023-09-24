@@ -753,6 +753,7 @@ prior to
 
 
 - [Dreamy-elfland/CVE-2023-36846](https://github.com/Dreamy-elfland/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Dreamy-elfland/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Dreamy-elfland/CVE-2023-36846">
+- [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
 
 ---
 ## CVE-2023-36845 (2023-08-17T20:15:00)
@@ -846,6 +847,7 @@ prior to
 
 - [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/juniper-rce_cve-2023-36844">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/juniper-rce_cve-2023-36844">
 - [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-36844">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-36844">
+- [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
 
 ---
 ## CVE-2023-36761 (2023-09-12T17:15:00)
