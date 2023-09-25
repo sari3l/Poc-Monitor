@@ -1544,6 +1544,15 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [OllaPapito/gameoverlay](https://github.com/OllaPapito/gameoverlay)	<img alt="forks" src="https://img.shields.io/github/forks/OllaPapito/gameoverlay">	<img alt="stars" src="https://img.shields.io/github/stars/OllaPapito/gameoverlay">
 
 ---
+## CVE-2023-32560 (2023-08-10T20:15:00)
+> An attacker can send a specially crafted message to the Wavelink Avalanche Manager, which could result in service disruption or arbitrary code execution.
+
+Thanks to a Researcher at Tenable for finding and reporting.
+
+Fixed in version 6.4.1.
+- [x0rb3l/CVE-2023-32560](https://github.com/x0rb3l/CVE-2023-32560)	<img alt="forks" src="https://img.shields.io/github/forks/x0rb3l/CVE-2023-32560">	<img alt="stars" src="https://img.shields.io/github/stars/x0rb3l/CVE-2023-32560">
+
+---
 ## CVE-2023-3244 (2023-08-17T07:15:00)
 > The Comments Like Dislike plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the restore_settings function called via an AJAX action in versions up to, and including, 1.1.9. This makes it possible for authenticated attackers with minimal permissions, such as a subscriber, to reset the plugin's settings. NOTE: After attempting to contact the developer with no response, and reporting this to the WordPress plugin's team 30 days ago we are disclosing this issue as it still is not updated.
 - [drnull03/POC-CVE-2023-3244](https://github.com/drnull03/POC-CVE-2023-3244)	<img alt="forks" src="https://img.shields.io/github/forks/drnull03/POC-CVE-2023-3244">	<img alt="stars" src="https://img.shields.io/github/stars/drnull03/POC-CVE-2023-3244">
