@@ -72,8 +72,8 @@
 - [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634)	<img alt="forks" src="https://img.shields.io/github/forks/Patrowl/CVE-2023-4634">	<img alt="stars" src="https://img.shields.io/github/stars/Patrowl/CVE-2023-4634">
 
 ---
-## CVE-2023-4631 ()
-> 
+## CVE-2023-4631 (2023-09-25T16:15:00)
+> The DoLogin Security WordPress plugin before 3.7 uses headers such as the X-Forwarded-For to retrieve the IP address of the request, which could lead to IP spoofing.
 - [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4631">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4631">
 
 ---
@@ -83,8 +83,8 @@
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
-## CVE-2023-4549 ()
-> 
+## CVE-2023-4549 (2023-09-25T16:15:00)
+> The DoLogin Security WordPress plugin before 3.7 does not properly sanitize IP addresses coming from the X-Forwarded-For header, which can be used by attackers to conduct Stored XSS attacks via WordPress' login form.
 - [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4549">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4549">
 
 ---
@@ -118,8 +118,8 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
-## CVE-2023-4281 ()
-> 
+## CVE-2023-4281 (2023-09-25T16:15:00)
+> This Activity Log WordPress plugin before 2.8.8 retrieves client IP addresses from potentially untrusted headers, allowing an attacker to manipulate its value. This may be used to hide the source of malicious traffic.
 - [b0marek/CVE-2023-4281](https://github.com/b0marek/CVE-2023-4281)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4281">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4281">
 
 ---
@@ -143,8 +143,8 @@
 - [chenghao-hao/cve-2023-42413](https://github.com/chenghao-hao/cve-2023-42413)	<img alt="forks" src="https://img.shields.io/github/forks/chenghao-hao/cve-2023-42413">	<img alt="stars" src="https://img.shields.io/github/stars/chenghao-hao/cve-2023-42413">
 
 ---
-## CVE-2023-4238 ()
-> 
+## CVE-2023-4238 (2023-09-25T16:15:00)
+> The Prevent files / folders access WordPress plugin before 2.5.2 does not validate files to be uploaded, which could allow attackers to upload arbitrary files such as PHP on the server.
 - [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4238-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4238-PoC">
 
 ---
