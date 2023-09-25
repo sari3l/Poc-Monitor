@@ -3180,6 +3180,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 > Aria Operations for Networks contains a command injection vulnerability. A malicious actor with network access to VMware Aria Operations for Networks may be able to perform a command injection attack resulting in remote code execution.
 - [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2023-20887">
 - [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2023-20887">
+- [Malwareman007/CVE-2023-20887](https://github.com/Malwareman007/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-20887">
 
 ---
 ## CVE-2023-20871 (2023-04-25T21:15:00)
