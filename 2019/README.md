@@ -2443,6 +2443,7 @@
 - [infiniteLoopers/CVE-2019-11932](https://github.com/infiniteLoopers/CVE-2019-11932)	<img alt="forks" src="https://img.shields.io/github/forks/infiniteLoopers/CVE-2019-11932">	<img alt="stars" src="https://img.shields.io/github/stars/infiniteLoopers/CVE-2019-11932">
 - [JasonJerry/WhatsRCE](https://github.com/JasonJerry/WhatsRCE)	<img alt="forks" src="https://img.shields.io/github/forks/JasonJerry/WhatsRCE">	<img alt="stars" src="https://img.shields.io/github/stars/JasonJerry/WhatsRCE">
 - [tucommenceapousser/CVE-2019-11932](https://github.com/tucommenceapousser/CVE-2019-11932)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2019-11932">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2019-11932">
+- [k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932](https://github.com/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932)	<img alt="forks" src="https://img.shields.io/github/forks/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932">	<img alt="stars" src="https://img.shields.io/github/stars/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932">
 
 ---
 ## CVE-2019-11823 (2020-05-04T10:15:00)
