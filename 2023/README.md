@@ -99,8 +99,8 @@
 - [ahrixia/CVE-2023-43326](https://github.com/ahrixia/CVE-2023-43326)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43326">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43326">
 
 ---
-## CVE-2023-43325 ()
-> 
+## CVE-2023-43325 (2023-09-26T00:15:00)
+> A reflected cross-site scripting (XSS) vulnerability in the data[redirect_url] parameter of mooSocial v3.1.8 allows attackers to steal user's session cookies and impersonate their account via a crafted URL.
 - [ahrixia/CVE-2023-43325](https://github.com/ahrixia/CVE-2023-43325)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43325">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43325">
 
 ---
