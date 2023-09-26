@@ -2034,6 +2034,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360)	<img alt="forks" src="https://img.shields.io/github/forks/Nero22k/cve-2023-29360">	<img alt="stars" src="https://img.shields.io/github/stars/Nero22k/cve-2023-29360">
 
 ---
+## CVE-2023-29357 (2023-06-14T00:15:00)
+> Microsoft SharePoint Server Elevation of Privilege Vulnerability
+- [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-29357">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-29357">
+
+---
 ## CVE-2023-29343 (2023-05-09T18:15:00)
 > SysInternals Sysmon for Windows Elevation of Privilege Vulnerability
 - [Wh04m1001/CVE-2023-29343](https://github.com/Wh04m1001/CVE-2023-29343)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-29343">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-29343">
