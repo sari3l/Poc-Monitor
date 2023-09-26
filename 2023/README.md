@@ -810,6 +810,7 @@ prior to
 
 
 - [vulncheck-oss/cve-2023-36845-scanner](https://github.com/vulncheck-oss/cve-2023-36845-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-36845-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-36845-scanner">
+- [kljunowsky/CVE-2023-36845](https://github.com/kljunowsky/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
