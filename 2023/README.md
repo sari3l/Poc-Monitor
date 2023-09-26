@@ -3159,6 +3159,13 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [sxsuperxuan/Weblogic_CVE-2023-21389](https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389)	<img alt="forks" src="https://img.shields.io/github/forks/sxsuperxuan/Weblogic_CVE-2023-21389">	<img alt="stars" src="https://img.shields.io/github/stars/sxsuperxuan/Weblogic_CVE-2023-21389">
 
 ---
+## CVE-2023-21272 (2023-08-14T22:15:00)
+> In readFrom of Uri.java, there is a possible bad URI permission grant due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272">
+
+---
 ## CVE-2023-2114 (2023-05-08T14:15:00)
 > The NEX-Forms WordPress plugin before 8.4 does not properly escape the `table` parameter, which is populated with user input, before concatenating it to an SQL query.
 - [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">
