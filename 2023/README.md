@@ -109,6 +109,11 @@
 - [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43323">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43323">
 
 ---
+## CVE-2023-43263 ()
+> 
+- [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-43263">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-43263">
+
+---
 ## CVE-2023-43154 ()
 > 
 - [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-43154-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-43154-PoC">
