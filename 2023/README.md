@@ -1284,6 +1284,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation)	<img alt="forks" src="https://img.shields.io/github/forks/vi3t1/qq-tim-elevation">	<img alt="stars" src="https://img.shields.io/github/stars/vi3t1/qq-tim-elevation">
 
 ---
+## CVE-2023-34152 (2023-05-30T22:15:00)
+> A vulnerability was found in ImageMagick. This security flaw cause a remote code execution vulnerability in OpenBlob with --enable-pipes configured.
+- [overgrowncarrot1/ImageTragick_CVE-2023-34152](https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/ImageTragick_CVE-2023-34152">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/ImageTragick_CVE-2023-34152">
+
+---
 ## CVE-2023-34096 (2023-06-08T19:15:00)
 > Thruk is a multibackend monitoring webinterface which currently supports Naemon, Icinga, Shinken and Nagios as backends. In versions 3.06 and prior, the file `panorama.pm` is vulnerable to a Path Traversal vulnerability which allows an attacker to upload a file to any folder which has write permissions on the affected system. The parameter location is not filtered, validated or sanitized and it accepts any kind of characters. For a path traversal attack, the only characters required were the dot (`.`) and the slash (`/`). A fix is available in version 3.06.2.
 - [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/Thruk-CVE-2023-34096">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/Thruk-CVE-2023-34096">
