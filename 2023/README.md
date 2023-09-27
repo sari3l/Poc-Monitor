@@ -149,6 +149,12 @@
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
 
 ---
+## CVE-2023-42442 (2023-09-15T21:15:00)
+> JumpServer is an open source bastion host and a professional operation and maintenance security audit system. Starting in version 3.0.0 and prior to versions 3.5.5 and 3.6.4, session replays can download without authentication. Session replays stored in S3, OSS, or other cloud storage are not affected. The api `/api/v1/terminal/sessions/` permission control is broken and can be accessed anonymously. SessionViewSet permission classes set to `[RBACPermission | IsSessionAssignee]`, relation is or, so any permission matched will be allowed. Versions 3.5.5 and 3.6.4 have a fix. After upgrading, visit the api `$HOST/api/v1/terminal/sessions/?limit=1`. The expected http response code is 401 (`not_authenticated`).
+
+- [HolyGu/CVE-2023-42442](https://github.com/HolyGu/CVE-2023-42442)	<img alt="forks" src="https://img.shields.io/github/forks/HolyGu/CVE-2023-42442">	<img alt="stars" src="https://img.shields.io/github/stars/HolyGu/CVE-2023-42442">
+
+---
 ## CVE-2023-42426 (2023-09-25T21:15:00)
 > Cross-site scripting (XSS) vulnerability in Froala Froala Editor v.4.1.1 allows remote attackers to execute arbitrary code via the 'Insert link' parameter in the 'Insert Image' component.
 - [b0marek/CVE-2023-42426](https://github.com/b0marek/CVE-2023-42426)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-42426">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-42426">
