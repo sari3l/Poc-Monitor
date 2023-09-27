@@ -61,6 +61,7 @@
 ## CVE-2023-4762 (2023-09-05T22:15:00)
 > Type Confusion in V8 in Google Chrome prior to 116.0.5845.179 allowed a remote attacker to execute arbitrary code via a crafted HTML page. (Chromium security severity: High)
 - [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762)	<img alt="forks" src="https://img.shields.io/github/forks/buptsb/CVE-2023-4762">	<img alt="stars" src="https://img.shields.io/github/stars/buptsb/CVE-2023-4762">
+- [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2023-4762-Code-Review">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2023-4762-Code-Review">
 
 ---
 ## CVE-2023-4741 (2023-09-03T23:15:00)
