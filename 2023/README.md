@@ -58,6 +58,11 @@
 - [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4800">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4800">
 
 ---
+## CVE-2023-4762 (2023-09-05T22:15:00)
+> Type Confusion in V8 in Google Chrome prior to 116.0.5845.179 allowed a remote attacker to execute arbitrary code via a crafted HTML page. (Chromium security severity: High)
+- [zckevin/CVE-2023-4762](https://github.com/zckevin/CVE-2023-4762)	<img alt="forks" src="https://img.shields.io/github/forks/zckevin/CVE-2023-4762">	<img alt="stars" src="https://img.shields.io/github/stars/zckevin/CVE-2023-4762">
+
+---
 ## CVE-2023-4741 (2023-09-03T23:15:00)
 > A vulnerability has been found in IBOS OA 4.5.5 and classified as critical. This vulnerability affects unknown code of the file ?r=diary/default/del of the component Delete Logs Handler. The manipulation leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-238630 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741)	<img alt="forks" src="https://img.shields.io/github/forks/wudidike/CVE-2023-4741">	<img alt="stars" src="https://img.shields.io/github/stars/wudidike/CVE-2023-4741">
@@ -3296,6 +3301,12 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/WalccDev/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/WalccDev/CVE-2023-2033">
 - [mistymntncop/CVE-2023-2033](https://github.com/mistymntncop/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2023-2033">
 - [tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/tianstcht/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/tianstcht/CVE-2023-2033">
+
+---
+## CVE-2023-20209 (2023-08-16T21:15:00)
+> A vulnerability in the web-based management interface of Cisco Expressway Series and Cisco TelePresence Video Communication Server (VCS) could allow an authenticated, remote attacker with read-write privileges on the application to perform a command injection attack that could result in remote code execution on an affected device.
+ This vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by sending a crafted request to the web-based management interface of an affected device. A successful exploit could allow the attacker to establish a remote shell with root privileges.
+- [0x41-Researcher/CVE-2023-20209](https://github.com/0x41-Researcher/CVE-2023-20209)	<img alt="forks" src="https://img.shields.io/github/forks/0x41-Researcher/CVE-2023-20209">	<img alt="stars" src="https://img.shields.io/github/stars/0x41-Researcher/CVE-2023-20209">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
