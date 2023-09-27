@@ -100,6 +100,11 @@
 - [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4549">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4549">
 
 ---
+## CVE-2023-43770 (2023-09-22T06:15:00)
+> Roundcube before 1.4.14, 1.5.x before 1.5.4, and 1.6.x before 1.6.3 allows XSS via text/plain e-mail messages with crafted links because of program/lib/Roundcube/rcube_string_replacer.php behavior.
+- [s3cb0y/CVE-2023-43770-POC](https://github.com/s3cb0y/CVE-2023-43770-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s3cb0y/CVE-2023-43770-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s3cb0y/CVE-2023-43770-POC">
+
+---
 ## CVE-2023-4350 (2023-08-15T18:15:00)
 > Inappropriate implementation in Fullscreen in Google Chrome on Android prior to 116.0.5845.96 allowed a remote attacker to potentially spoof the contents of the Omnibox (URL bar) via a crafted HTML page. (Chromium security severity: High)
 - [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350)	<img alt="forks" src="https://img.shields.io/github/forks/0nyx-hkr/cve-2023-4350">	<img alt="stars" src="https://img.shields.io/github/stars/0nyx-hkr/cve-2023-4350">
@@ -184,6 +189,11 @@
 ## CVE-2023-42362 (2023-09-14T21:15:00)
 > An arbitrary file upload vulnerability in Teller Web App v.4.4.0 allows a remote attacker to execute arbitrary commands and obtain sensitive information via uploading a crafted file.
 - [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-n0b3dy/CVE-2023-42362">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-n0b3dy/CVE-2023-42362">
+
+---
+## CVE-2023-42222 ()
+> 
+- [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2023-42222">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2023-42222">
 
 ---
 ## CVE-2023-4174 (2023-08-06T01:15:00)
