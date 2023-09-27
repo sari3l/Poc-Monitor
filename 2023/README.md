@@ -120,13 +120,13 @@
 - [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43323">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43323">
 
 ---
-## CVE-2023-43263 ()
-> 
+## CVE-2023-43263 (2023-09-27T15:19:00)
+> A Cross-site scripting (XSS) vulnerability in Froala Editor v.4.1.1 allows attackers to execute arbitrary code via the Markdown component.
 - [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-43263">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-43263">
 
 ---
-## CVE-2023-43154 ()
-> 
+## CVE-2023-43154 (2023-09-27T15:19:00)
+> In Macrob7 Macs Framework Content Management System (CMS) 1.1.4f, loose comparison in "isValidLogin()" function during login attempt results in PHP type confusion vulnerability that leads to authentication bypass and takeover of the administrator account.
 - [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-43154-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-43154-PoC">
 
 ---
@@ -140,8 +140,8 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
-## CVE-2023-42820 ()
-> 
+## CVE-2023-42820 (2023-09-27T15:19:00)
+> JumpServer is an open source bastion host. This vulnerability is due to exposing the random number seed to the API, potentially allowing the randomly generated verification codes to be replayed, which could lead to password resets. If MFA is enabled users are not affect. Users not using local authentication are also not affected. Users are advised to upgrade to either version 2.28.19 or to 3.6.5. There are no known workarounds or this issue.
 - [wh-gov/CVE-2023-42820](https://github.com/wh-gov/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-42820">
 
 ---
@@ -1066,8 +1066,8 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-35801">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-35801">
 
 ---
-## CVE-2023-35793 ()
-> 
+## CVE-2023-35793 (2023-09-27T15:18:00)
+> An issue was discovered in Cassia Access Controller 2.1.1.2303271039. Establishing a web SSH session to gateways is vulnerable to Cross Site Request Forgery (CSRF) attacks.
 - [Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH](https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH)	<img alt="forks" src="https://img.shields.io/github/forks/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH">	<img alt="stars" src="https://img.shields.io/github/stars/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH">
 
 ---
