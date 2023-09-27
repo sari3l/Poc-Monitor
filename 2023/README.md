@@ -155,6 +155,11 @@
 - [b0marek/CVE-2023-4281](https://github.com/b0marek/CVE-2023-4281)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4281">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4281">
 
 ---
+## CVE-2023-42793 (2023-09-19T17:15:00)
+> In JetBrains TeamCity before 2023.05.4 authentication bypass leading to RCE on TeamCity Server was possible
+- [Ariurn/CVE-2023-42793](https://github.com/Ariurn/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Ariurn/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Ariurn/CVE-2023-42793">
+
+---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
 > This User Activity Log WordPress plugin before 1.6.7 retrieves client IP addresses from potentially untrusted headers, allowing an attacker to manipulate its value. This may be used to hide the source of malicious traffic.
 - [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4279">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4279">
