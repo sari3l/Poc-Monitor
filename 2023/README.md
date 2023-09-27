@@ -60,7 +60,7 @@
 ---
 ## CVE-2023-4762 (2023-09-05T22:15:00)
 > Type Confusion in V8 in Google Chrome prior to 116.0.5845.179 allowed a remote attacker to execute arbitrary code via a crafted HTML page. (Chromium security severity: High)
-- [zckevin/CVE-2023-4762](https://github.com/zckevin/CVE-2023-4762)	<img alt="forks" src="https://img.shields.io/github/forks/zckevin/CVE-2023-4762">	<img alt="stars" src="https://img.shields.io/github/stars/zckevin/CVE-2023-4762">
+- [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762)	<img alt="forks" src="https://img.shields.io/github/forks/buptsb/CVE-2023-4762">	<img alt="stars" src="https://img.shields.io/github/stars/buptsb/CVE-2023-4762">
 
 ---
 ## CVE-2023-4741 (2023-09-03T23:15:00)
@@ -833,6 +833,7 @@ prior to
 - [vulncheck-oss/cve-2023-36845-scanner](https://github.com/vulncheck-oss/cve-2023-36845-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-36845-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-36845-scanner">
 - [kljunowsky/CVE-2023-36845](https://github.com/kljunowsky/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2023-36845">
 - [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
+- [toanln-cov/CVE-2023-36845](https://github.com/toanln-cov/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
