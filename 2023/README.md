@@ -134,6 +134,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-42820 ()
+> 
+- [wh-gov/CVE-2023-42820](https://github.com/wh-gov/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-42820">
+
+---
 ## CVE-2023-4281 (2023-09-25T16:15:00)
 > This Activity Log WordPress plugin before 2.8.8 retrieves client IP addresses from potentially untrusted headers, allowing an attacker to manipulate its value. This may be used to hide the source of malicious traffic.
 - [b0marek/CVE-2023-4281](https://github.com/b0marek/CVE-2023-4281)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4281">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4281">
