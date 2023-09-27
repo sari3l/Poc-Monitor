@@ -3203,6 +3203,13 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [sxsuperxuan/Weblogic_CVE-2023-21389](https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389)	<img alt="forks" src="https://img.shields.io/github/forks/sxsuperxuan/Weblogic_CVE-2023-21389">	<img alt="stars" src="https://img.shields.io/github/stars/sxsuperxuan/Weblogic_CVE-2023-21389">
 
 ---
+## CVE-2023-21282 (2023-08-14T22:15:00)
+> In TRANSPOSER_SETTINGS of lpp_tran.h, there is a possible out of bounds write due to an incorrect bounds check. This could lead to remote code execution with no additional execution privileges needed. User interaction is needed for exploitation.
+
+
+- [nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282">
+
+---
 ## CVE-2023-21272 (2023-08-14T22:15:00)
 > In readFrom of Uri.java, there is a possible bad URI permission grant due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 
