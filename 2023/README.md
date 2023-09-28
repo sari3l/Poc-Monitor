@@ -1348,6 +1348,7 @@ By default, these properties are false, and the container only attempts to deser
 
 
 - [Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040](https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040)	<img alt="forks" src="https://img.shields.io/github/forks/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040">	<img alt="stars" src="https://img.shields.io/github/stars/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040">
+- [pyn3rd/CVE-2023-34040](https://github.com/pyn3rd/CVE-2023-34040)	<img alt="forks" src="https://img.shields.io/github/forks/pyn3rd/CVE-2023-34040">	<img alt="stars" src="https://img.shields.io/github/stars/pyn3rd/CVE-2023-34040">
 
 ---
 ## CVE-2023-34039 (2023-08-29T18:15:00)
