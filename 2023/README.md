@@ -126,8 +126,8 @@
 - [ahrixia/CVE-2023-43325](https://github.com/ahrixia/CVE-2023-43325)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43325">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43325">
 
 ---
-## CVE-2023-43323 ()
-> 
+## CVE-2023-43323 (2023-09-28T20:15:00)
+> mooSocial 3.1.8 is vulnerable to external service interaction on post function. When executed, the server sends a HTTP and DNS request to external server. The Parameters effected are multiple - messageText, data[wall_photo], data[userShareVideo] and data[userShareLink].
 - [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43323">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43323">
 
 ---
