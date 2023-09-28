@@ -739,6 +739,7 @@ This CVE will be updated with new information and links to security updates when
 - [apt0factury/CVE-2023-36884](https://github.com/apt0factury/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-36884">
 - [apt0factury/CVE-2023-36884](https://github.com/apt0factury/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-36884">
 - [apt0factury/CVE-2023-36884](https://github.com/apt0factury/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-36884">
+- [jakabakos/CVE-2023-36884-MS-Office-HTML-RCE](https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE">
 
 ---
 ## CVE-2023-36874 (2023-07-11T18:15:00)
