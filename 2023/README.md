@@ -103,6 +103,7 @@
 ## CVE-2023-43770 (2023-09-22T06:15:00)
 > Roundcube before 1.4.14, 1.5.x before 1.5.4, and 1.6.x before 1.6.3 allows XSS via text/plain e-mail messages with crafted links because of program/lib/Roundcube/rcube_string_replacer.php behavior.
 - [s3cb0y/CVE-2023-43770-POC](https://github.com/s3cb0y/CVE-2023-43770-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s3cb0y/CVE-2023-43770-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s3cb0y/CVE-2023-43770-POC">
+- [knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/knight0x07/CVE-2023-43770-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/knight0x07/CVE-2023-43770-PoC">
 
 ---
 ## CVE-2023-4350 (2023-08-15T18:15:00)
