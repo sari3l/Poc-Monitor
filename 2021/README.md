@@ -6960,6 +6960,8 @@
 ## CVE-2021-24499 (2021-08-09T10:15:00)
 > The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.
 - [jytmX/CVE-2021-24499](https://github.com/jytmX/CVE-2021-24499)	<img alt="forks" src="https://img.shields.io/github/forks/jytmX/CVE-2021-24499">	<img alt="stars" src="https://img.shields.io/github/stars/jytmX/CVE-2021-24499">
+- [hh-hunter/cve-2021-24499](https://github.com/hh-hunter/cve-2021-24499)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/cve-2021-24499">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/cve-2021-24499">
+- [j4k0m/CVE-2021-24499](https://github.com/j4k0m/CVE-2021-24499)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/CVE-2021-24499">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/CVE-2021-24499">
 
 ---
 ## CVE-2021-24444 (2021-08-02T11:15:00)
