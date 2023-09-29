@@ -874,6 +874,7 @@ prior to
 - [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
 - [toanln-cov/CVE-2023-36845](https://github.com/toanln-cov/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2023-36845">
 - [halencarjunior/CVE-2023-36845](https://github.com/halencarjunior/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/halencarjunior/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/halencarjunior/CVE-2023-36845">
+- [zaenhaxor/CVE-2023-36845](https://github.com/zaenhaxor/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/zaenhaxor/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/zaenhaxor/CVE-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
