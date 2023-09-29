@@ -6957,6 +6957,11 @@
 - [Live-Hack-CVE/CVE-2021-24500](https://github.com/Live-Hack-CVE/CVE-2021-24500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24500">
 
 ---
+## CVE-2021-24499 (2021-08-09T10:15:00)
+> The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.
+- [jytmX/CVE-2021-24499](https://github.com/jytmX/CVE-2021-24499)	<img alt="forks" src="https://img.shields.io/github/forks/jytmX/CVE-2021-24499">	<img alt="stars" src="https://img.shields.io/github/stars/jytmX/CVE-2021-24499">
+
+---
 ## CVE-2021-24444 (2021-08-02T11:15:00)
 > The TaxoPress – Create and Manage Taxonomies, Tags, Categories WordPress plugin before 3.0.7.2 does not sanitise its Taxonomy description field, allowing high privilege users to set JavaScript payload in them even when the unfiltered_html capability is disallowed, leading to an authenticated Stored Cross-Site Scripting issue.
 - [Live-Hack-CVE/CVE-2021-24444](https://github.com/Live-Hack-CVE/CVE-2021-24444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24444">
