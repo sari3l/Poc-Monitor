@@ -141,6 +141,11 @@
 - [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-43263">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-43263">
 
 ---
+## CVE-2023-43261 ()
+> 
+- [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2023-43261">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2023-43261">
+
+---
 ## CVE-2023-43154 (2023-09-27T15:19:00)
 > In Macrob7 Macs Framework Content Management System (CMS) 1.1.4f, loose comparison in "isValidLogin()" function during login attempt results in PHP type confusion vulnerability that leads to authentication bypass and takeover of the administrator account.
 - [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-43154-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-43154-PoC">
