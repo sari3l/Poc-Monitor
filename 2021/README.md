@@ -453,6 +453,11 @@
 - [Securify-Pro/CVE-2021-44910_SpringBlade](https://github.com/Securify-Pro/CVE-2021-44910_SpringBlade)	<img alt="forks" src="https://img.shields.io/github/forks/Securify-Pro/CVE-2021-44910_SpringBlade">	<img alt="stars" src="https://img.shields.io/github/stars/Securify-Pro/CVE-2021-44910_SpringBlade">
 
 ---
+## CVE-2021-44906 (2022-03-17T16:15:00)
+> Minimist <=1.2.5 is vulnerable to Prototype Pollution via file index.js, function setKey() (lines 69-95).
+- [nevermoe/CVE-2021-44906](https://github.com/nevermoe/CVE-2021-44906)	<img alt="forks" src="https://img.shields.io/github/forks/nevermoe/CVE-2021-44906">	<img alt="stars" src="https://img.shields.io/github/stars/nevermoe/CVE-2021-44906">
+
+---
 ## CVE-2021-44852 (2022-01-01T06:15:00)
 > An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver's device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000.
 - [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-44852">
