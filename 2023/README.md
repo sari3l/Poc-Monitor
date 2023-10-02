@@ -358,6 +358,14 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">
 
 ---
+## CVE-2023-40044 (2023-09-27T15:18:00)
+> 
+In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker could leverage a .NET deserialization vulnerability in the Ad Hoc Transfer module to execute remote commands on the underlying WS_FTP Server operating system.  
+
+
+- [kenbuckler/WS_FTP-CVE-2023-40044](https://github.com/kenbuckler/WS_FTP-CVE-2023-40044)	<img alt="forks" src="https://img.shields.io/github/forks/kenbuckler/WS_FTP-CVE-2023-40044">	<img alt="stars" src="https://img.shields.io/github/stars/kenbuckler/WS_FTP-CVE-2023-40044">
+
+---
 ## CVE-2023-40031 (2023-08-25T20:15:00)
 > Notepad++ is a free and open-source source code editor. Versions 8.5.6 and prior are vulnerable to heap buffer write overflow in `Utf8_16_Read::convert`. This issue may lead to arbitrary code execution. As of time of publication, no known patches are available in existing versions of Notepad++.
 - [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-40031">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-40031">
