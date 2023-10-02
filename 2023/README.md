@@ -3173,6 +3173,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [CKevens/CVE-2023-21768-POC](https://github.com/CKevens/CVE-2023-21768-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-21768-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-21768-POC">
 - [h1bAna/CVE-2023-21768](https://github.com/h1bAna/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/h1bAna/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/h1bAna/CVE-2023-21768">
 - [zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit](https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit">
+- [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Rosayxy/Recreate-cve-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Rosayxy/Recreate-cve-2023-21768">
 
 ---
 ## CVE-2023-21766 (2023-01-10T22:15:00)
