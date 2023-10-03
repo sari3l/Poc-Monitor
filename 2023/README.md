@@ -1899,6 +1899,7 @@ Fixed in version 6.4.1.
 ## CVE-2023-31419 ()
 > 
 - [sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419](https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419)	<img alt="forks" src="https://img.shields.io/github/forks/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419">	<img alt="stars" src="https://img.shields.io/github/stars/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419">
+- [u238/Elasticsearch-CVE-2023-31419](https://github.com/u238/Elasticsearch-CVE-2023-31419)	<img alt="forks" src="https://img.shields.io/github/forks/u238/Elasticsearch-CVE-2023-31419">	<img alt="stars" src="https://img.shields.io/github/stars/u238/Elasticsearch-CVE-2023-31419">
 
 ---
 ## CVE-2023-3124 (2023-06-07T02:15:00)
