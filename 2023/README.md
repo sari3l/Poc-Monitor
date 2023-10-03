@@ -3285,6 +3285,13 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282">
 
 ---
+## CVE-2023-21281 (2023-08-14T22:15:00)
+> In multiple functions of KeyguardViewMediator.java, there is a possible failure to lock after screen timeout due to a logic error in the code. This could lead to local escalation of privilege across users with no additional execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [Trinadh465/platform_frameworks_base_CVE-2023-21281](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21281)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_frameworks_base_CVE-2023-21281">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_frameworks_base_CVE-2023-21281">
+
+---
 ## CVE-2023-21272 (2023-08-14T22:15:00)
 > In readFrom of Uri.java, there is a possible bad URI permission grant due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 
