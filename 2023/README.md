@@ -1441,6 +1441,7 @@ An application is not vulnerable if any of the following is true:
 ## CVE-2023-33831 (2023-09-18T20:15:00)
 > A remote command execution (RCE) vulnerability in the /api/runscript endpoint of FUXA 1.1.13 allows attackers to execute arbitrary commands via a crafted POST request.
 - [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">
+- [codeb0ss/CVE-2023-33831-PoC](https://github.com/codeb0ss/CVE-2023-33831-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-33831-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-33831-PoC">
 
 ---
 ## CVE-2023-33829 (2023-05-24T21:15:00)
@@ -2701,6 +2702,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [PSIRT-REPO/CVE-2023-25610](https://github.com/PSIRT-REPO/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/PSIRT-REPO/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/PSIRT-REPO/CVE-2023-25610">
 - [FortiSecurity/CVE-2023-25610](https://github.com/FortiSecurity/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/FortiSecurity/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/FortiSecurity/CVE-2023-25610">
 - [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/qi4L/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/qi4L/CVE-2023-25610">
+
+---
+## CVE-2023-25573 (2023-03-09T17:15:00)
+> metersphere is an open source continuous testing platform. In affected versions an improper access control vulnerability exists in `/api/jmeter/download/files`, which allows any user to download any file without authentication. This issue may expose all files available to the running process. This issue has been addressed in version 1.20.20 lts and 2.7.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.
+- [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-25573-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-25573-PoC">
 
 ---
 ## CVE-2023-25292 (2023-04-27T01:15:00)
