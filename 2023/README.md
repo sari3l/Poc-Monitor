@@ -3319,6 +3319,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 
 
 - [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272">
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272">
 
 ---
 ## CVE-2023-2114 (2023-05-08T14:15:00)
