@@ -52,7 +52,7 @@
 ---
 ## CVE-2023-4911 (2023-10-03T18:15:00)
 > A buffer overflow was discovered in the GNU C Library's dynamic loader ld.so while processing the GLIBC_TUNABLES environment variable. This issue could allow a local attacker to use maliciously crafted GLIBC_TUNABLES environment variables when launching binaries with SUID permission to execute code with elevated privileges.
-- [Green-Avocado/CVE-2023-4911-PoC](https://github.com/Green-Avocado/CVE-2023-4911-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Green-Avocado/CVE-2023-4911-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Green-Avocado/CVE-2023-4911-PoC">
+- [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Green-Avocado/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Green-Avocado/CVE-2023-4911">
 - [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/leesh3288/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/leesh3288/CVE-2023-4911">
 - [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/RickdeJager/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/RickdeJager/CVE-2023-4911">
 
