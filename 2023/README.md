@@ -157,8 +157,8 @@
 - [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-43263">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-43263">
 
 ---
-## CVE-2023-43261 ()
-> 
+## CVE-2023-43261 (2023-10-04T12:15:00)
+> An information disclosure in Milesight UR5X, UR32L, UR32, UR35, UR41 before v35.3.0.7 allows attackers to access sensitive router components.
 - [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2023-43261">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2023-43261">
 
 ---
