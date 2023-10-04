@@ -50,6 +50,11 @@
 - [jaysharma786/CVE-2023-4951](https://github.com/jaysharma786/CVE-2023-4951)	<img alt="forks" src="https://img.shields.io/github/forks/jaysharma786/CVE-2023-4951">	<img alt="stars" src="https://img.shields.io/github/stars/jaysharma786/CVE-2023-4951">
 
 ---
+## CVE-2023-4911 (2023-10-03T18:15:00)
+> A buffer overflow was discovered in the GNU C Library's dynamic loader ld.so while processing the GLIBC_TUNABLES environment variable. This issue could allow a local attacker to use maliciously crafted GLIBC_TUNABLES environment variables when launching binaries with SUID permission to execute code with elevated privileges.
+- [Green-Avocado/CVE-2023-4911-PoC](https://github.com/Green-Avocado/CVE-2023-4911-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Green-Avocado/CVE-2023-4911-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Green-Avocado/CVE-2023-4911-PoC">
+
+---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
 > Heap buffer overflow in WebP in Google Chrome prior to 116.0.5845.187 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: Critical)
 - [suhipek/CVE-2023-4863](https://github.com/suhipek/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/suhipek/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/suhipek/CVE-2023-4863">
