@@ -146,6 +146,11 @@
 - [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43323">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43323">
 
 ---
+## CVE-2023-43284 ()
+> 
+- [MateusTesser/CVE-2023-43284](https://github.com/MateusTesser/CVE-2023-43284)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-43284">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-43284">
+
+---
 ## CVE-2023-43263 (2023-09-27T15:19:00)
 > A Cross-site scripting (XSS) vulnerability in Froala Editor v.4.1.1 allows attackers to execute arbitrary code via the Markdown component.
 - [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-43263">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-43263">
