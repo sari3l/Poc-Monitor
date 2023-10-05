@@ -923,6 +923,7 @@ prior to
 - [zaenhaxor/CVE-2023-36845](https://github.com/zaenhaxor/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/zaenhaxor/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/zaenhaxor/CVE-2023-36845">
 - [simrotion13/CVE-2023-36845](https://github.com/simrotion13/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/simrotion13/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/simrotion13/CVE-2023-36845">
 - [cyberh3als/CVE-2023-36845-POC](https://github.com/cyberh3als/CVE-2023-36845-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyberh3als/CVE-2023-36845-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyberh3als/CVE-2023-36845-POC">
+- [WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845](https://github.com/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
