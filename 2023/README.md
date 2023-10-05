@@ -117,6 +117,11 @@
 - [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4549">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4549">
 
 ---
+## CVE-2023-44962 ()
+> 
+- [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962)	<img alt="forks" src="https://img.shields.io/github/forks/ggb0n/CVE-2023-44962">	<img alt="stars" src="https://img.shields.io/github/stars/ggb0n/CVE-2023-44962">
+
+---
 ## CVE-2023-44961 ()
 > 
 - [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961)	<img alt="forks" src="https://img.shields.io/github/forks/ggb0n/CVE-2023-44961">	<img alt="stars" src="https://img.shields.io/github/stars/ggb0n/CVE-2023-44961">
