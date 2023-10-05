@@ -63,6 +63,9 @@
 - [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2023-4863">
 - [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/bbaranoff/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/bbaranoff/CVE-2023-4863">
 - [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/talbeerysec/BAD-WEBP-CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/talbeerysec/BAD-WEBP-CVE-2023-4863">
+- [murphysecurity/libwebp-checker](https://github.com/murphysecurity/libwebp-checker)	<img alt="forks" src="https://img.shields.io/github/forks/murphysecurity/libwebp-checker">	<img alt="stars" src="https://img.shields.io/github/stars/murphysecurity/libwebp-checker">
+- [GTGalaxi/ElectronVulnerableVersion](https://github.com/GTGalaxi/ElectronVulnerableVersion)	<img alt="forks" src="https://img.shields.io/github/forks/GTGalaxi/ElectronVulnerableVersion">	<img alt="stars" src="https://img.shields.io/github/stars/GTGalaxi/ElectronVulnerableVersion">
+- [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion)	<img alt="forks" src="https://img.shields.io/github/forks/OITApps/Find-VulnerableElectronVersion">	<img alt="stars" src="https://img.shields.io/github/stars/OITApps/Find-VulnerableElectronVersion">
 
 ---
 ## CVE-2023-4800 ()
