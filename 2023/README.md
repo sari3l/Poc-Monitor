@@ -314,6 +314,11 @@
 - [nidhi7598/linux-4.19.72_CVE-2023-4128](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-4128">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-4128">
 
 ---
+## CVE-2023-41105 (2023-08-23T07:15:00)
+> An issue was discovered in Python 3.11 through 3.11.4. If a path containing '\0' bytes is passed to os.path.normpath(), the path will be truncated unexpectedly at the first '\0' byte. There are plausible cases in which an application would have rejected a filename for security reasons in Python 3.10.x or earlier, but that filename is no longer rejected in Python 3.11.x.
+- [JawadPy/CVE-2023-41105](https://github.com/JawadPy/CVE-2023-41105)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-41105">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-41105">
+
+---
 ## CVE-2023-41080 (2023-08-25T21:15:00)
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in FORM authentication feature Apache Tomcat.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M10, from 10.1.0-M1 through 10.0.12, from 9.0.0-M1 through 9.0.79 and from 8.5.0 through 8.5.92.
 
@@ -1134,8 +1139,8 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [nidhi7598/linux-4.19.72_CVE-2023-35828](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-35828)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-35828">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-35828">
 
 ---
-## CVE-2023-35803 ()
-> 
+## CVE-2023-35803 (2023-10-04T22:15:00)
+> IQ Engine before 10.6r2 on Extreme Network AP devices has a Buffer Overflow.
 - [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803)	<img alt="forks" src="https://img.shields.io/github/forks/lachlan2k/CVE-2023-35803">	<img alt="stars" src="https://img.shields.io/github/stars/lachlan2k/CVE-2023-35803">
 
 ---
