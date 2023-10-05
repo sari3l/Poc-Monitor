@@ -3351,6 +3351,13 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Trinadh465/platform_frameworks_base_CVE-2023-21281](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21281)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_frameworks_base_CVE-2023-21281">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_frameworks_base_CVE-2023-21281">
 
 ---
+## CVE-2023-21275 (2023-08-14T22:15:00)
+> In decideCancelProvisioningDialog of AdminIntegratedFlowPrepareActivity.java, there is a possible way to bypass factory reset protections due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275](https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275">
+
+---
 ## CVE-2023-21272 (2023-08-14T22:15:00)
 > In readFrom of Uri.java, there is a possible bad URI permission grant due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 
