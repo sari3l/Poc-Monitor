@@ -158,8 +158,8 @@
 - [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43323">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43323">
 
 ---
-## CVE-2023-43284 ()
-> 
+## CVE-2023-43284 (2023-10-05T20:15:00)
+> An issue in D-Link Wireless MU-MIMO Gigabit AC1200 Router DIR-846 firmware version 100A53DBR-Retail allows a remote attacker to execute arbitrary code.
 - [MateusTesser/CVE-2023-43284](https://github.com/MateusTesser/CVE-2023-43284)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-43284">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-43284">
 
 ---
