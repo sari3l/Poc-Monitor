@@ -386,6 +386,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 
 
 - [kenbuckler/WS_FTP-CVE-2023-40044](https://github.com/kenbuckler/WS_FTP-CVE-2023-40044)	<img alt="forks" src="https://img.shields.io/github/forks/kenbuckler/WS_FTP-CVE-2023-40044">	<img alt="stars" src="https://img.shields.io/github/stars/kenbuckler/WS_FTP-CVE-2023-40044">
+- [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
 ## CVE-2023-40031 (2023-08-25T20:15:00)
