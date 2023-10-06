@@ -802,6 +802,7 @@
 - [RcsJJ9/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link](https://github.com/RcsJJ9/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link)	<img alt="forks" src="https://img.shields.io/github/forks/RcsJJ9/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link">	<img alt="stars" src="https://img.shields.io/github/stars/RcsJJ9/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link">
 - [RcsJJ9/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve](https://github.com/RcsJJ9/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve)	<img alt="forks" src="https://img.shields.io/github/forks/RcsJJ9/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve">	<img alt="stars" src="https://img.shields.io/github/stars/RcsJJ9/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve">
 - [RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)	<img alt="forks" src="https://img.shields.io/github/forks/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022">	<img alt="stars" src="https://img.shields.io/github/stars/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022">
+- [Tai-e/CVE-2021-44228](https://github.com/Tai-e/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Tai-e/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Tai-e/CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
