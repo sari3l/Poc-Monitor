@@ -1125,8 +1125,8 @@ prior to
 - [RobinTrigon/CVE-2023-36143](https://github.com/RobinTrigon/CVE-2023-36143)	<img alt="forks" src="https://img.shields.io/github/forks/RobinTrigon/CVE-2023-36143">	<img alt="stars" src="https://img.shields.io/github/stars/RobinTrigon/CVE-2023-36143">
 
 ---
-## CVE-2023-36123 ()
-> 
+## CVE-2023-36123 (2023-10-07T00:15:00)
+> Directory Traversal vulnerability in Hex-Dragon Plain Craft Launcher 2 version Alpha 1.3.9, allows local attackers to execute arbitrary code and gain sensitive information.
 - [9Bakabaka/CVE-2023-36123](https://github.com/9Bakabaka/CVE-2023-36123)	<img alt="forks" src="https://img.shields.io/github/forks/9Bakabaka/CVE-2023-36123">	<img alt="stars" src="https://img.shields.io/github/stars/9Bakabaka/CVE-2023-36123">
 
 ---
