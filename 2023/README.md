@@ -671,6 +671,11 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit)	<img alt="forks" src="https://img.shields.io/github/forks/LeakIX/sentryexploit">	<img alt="stars" src="https://img.shields.io/github/stars/LeakIX/sentryexploit">
 
 ---
+## CVE-2023-37988 (2023-08-10T11:15:00)
+> Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Creative Solutions Contact Form Generator plugin <= 2.5.5 versions.
+- [codeb0ss/CVE-2023-37988-PoC](https://github.com/codeb0ss/CVE-2023-37988-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-37988-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-37988-PoC">
+
+---
 ## CVE-2023-37979 (2023-07-27T15:15:00)
 > Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Saturday Drive Ninja Forms Contact Form plugin <= 3.6.25 versions.
 - [Mehran-Seifalinia/CVE-2023-37979](https://github.com/Mehran-Seifalinia/CVE-2023-37979)	<img alt="forks" src="https://img.shields.io/github/forks/Mehran-Seifalinia/CVE-2023-37979">	<img alt="stars" src="https://img.shields.io/github/stars/Mehran-Seifalinia/CVE-2023-37979">
