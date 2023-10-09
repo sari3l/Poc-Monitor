@@ -408,6 +408,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [winkler-winsen/Scan_WinRAR](https://github.com/winkler-winsen/Scan_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_WinRAR">
 
 ---
+## CVE-2023-40429 (2023-09-27T15:19:00)
+> A permissions issue was addressed with improved validation. This issue is fixed in tvOS 17, iOS 17 and iPadOS 17, watchOS 10, macOS Sonoma 14. An app may be able to access sensitive user data.
+- [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name)	<img alt="forks" src="https://img.shields.io/github/forks/biscuitehh/cve-2023-40429-ez-device-name">	<img alt="stars" src="https://img.shields.io/github/stars/biscuitehh/cve-2023-40429-ez-device-name">
+
+---
 ## CVE-2023-40297 ()
 > 
 - [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2023-40297">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2023-40297">
