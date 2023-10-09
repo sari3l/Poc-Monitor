@@ -138,18 +138,18 @@
 - [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961)	<img alt="forks" src="https://img.shields.io/github/forks/ggb0n/CVE-2023-44961">	<img alt="stars" src="https://img.shields.io/github/stars/ggb0n/CVE-2023-44961">
 
 ---
-## CVE-2023-44813 ()
-> 
+## CVE-2023-44813 (2023-10-09T21:15:00)
+> Cross Site Scripting (XSS) vulnerability in mooSocial v.3.1.8 allows a remote attacker to execute arbitrary code via a crafted payload to the mode parameter of the invite friend login function.
 - [ahrixia/CVE-2023-44813](https://github.com/ahrixia/CVE-2023-44813)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44813">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44813">
 
 ---
-## CVE-2023-44812 ()
-> 
+## CVE-2023-44812 (2023-10-09T21:15:00)
+> Cross Site Scripting (XSS) vulnerability in mooSocial v.3.1.8 allows a remote attacker to execute arbitrary code via a crafted payload to the admin_redirect_url parameter of the user login function.
 - [ahrixia/CVE-2023-44812](https://github.com/ahrixia/CVE-2023-44812)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44812">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44812">
 
 ---
-## CVE-2023-44811 ()
-> 
+## CVE-2023-44811 (2023-10-09T20:15:00)
+> Cross Site Request Forgery (CSRF) vulnerability in MooSocial v.3.1.8 allows a remote attacker to execute arbitrary code and obtain sensitive information via the admin Password Change Function.
 - [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44811">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44811">
 
 ---
