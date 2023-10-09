@@ -4085,6 +4085,11 @@
 - [Live-Hack-CVE/CVE-2020-12137](https://github.com/Live-Hack-CVE/CVE-2020-12137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12137">
 
 ---
+## CVE-2020-12124 (2020-10-02T09:15:00)
+> A remote command-line injection vulnerability in the /cgi-bin/live_api.cgi endpoint of the WAVLINK WN530H4 M30H4.V5030.190403 allows an attacker to execute arbitrary Linux commands as root without authentication.
+- [db44k/CVE-2020-12124](https://github.com/db44k/CVE-2020-12124)	<img alt="forks" src="https://img.shields.io/github/forks/db44k/CVE-2020-12124">	<img alt="stars" src="https://img.shields.io/github/stars/db44k/CVE-2020-12124">
+
+---
 ## CVE-2020-12100 (2020-08-12T16:15:00)
 > In Dovecot before 2.3.11.3, uncontrolled recursion in submission, lmtp, and lda allows remote attackers to cause a denial of service (resource consumption) via a crafted e-mail message with deeply nested MIME parts.
 - [Live-Hack-CVE/CVE-2020-12100](https://github.com/Live-Hack-CVE/CVE-2020-12100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12100">
