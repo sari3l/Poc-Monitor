@@ -279,6 +279,11 @@
 - [Trinadh465/linux-4.1.15_CVE-2018-5873](https://github.com/Trinadh465/linux-4.1.15_CVE-2018-5873)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2018-5873">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2018-5873">
 
 ---
+## CVE-2018-5767 (2018-02-15T23:29:00)
+> An issue was discovered on Tenda AC15 V15.03.1.16_multi devices. A remote, unauthenticated attacker can gain remote code execution on the device with a crafted password parameter for the COOKIE header.
+- [db44k/CVE-2018-5767-AC9](https://github.com/db44k/CVE-2018-5767-AC9)	<img alt="forks" src="https://img.shields.io/github/forks/db44k/CVE-2018-5767-AC9">	<img alt="stars" src="https://img.shields.io/github/stars/db44k/CVE-2018-5767-AC9">
+
+---
 ## CVE-2018-5747 (2018-01-17T19:29:00)
 > In Long Range Zip (aka lrzip) 0.631, there is a use-after-free in the ucompthread function (stream.c). Remote attackers could leverage this vulnerability to cause a denial of service via a crafted lrz file.
 - [Live-Hack-CVE/CVE-2018-5747](https://github.com/Live-Hack-CVE/CVE-2018-5747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5747">
