@@ -1056,8 +1056,8 @@ prior to
 - [apt0factury/CVE-2023-36761](https://github.com/apt0factury/CVE-2023-36761)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-36761">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-36761">
 
 ---
-## CVE-2023-36723 ()
-> 
+## CVE-2023-36723 (2023-10-10T18:15:00)
+> Windows Container Manager Service Elevation of Privilege Vulnerability
 - [Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-36723">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-36723">
 
 ---
