@@ -63,6 +63,7 @@
 - [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/RickdeJager/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/RickdeJager/CVE-2023-4911">
 - [xiaoQ1z/CVE-2023-4911](https://github.com/xiaoQ1z/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoQ1z/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoQ1z/CVE-2023-4911">
 - [0xtrace/CVE-2023-4911-Looney-Tunables-](https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables-)	<img alt="forks" src="https://img.shields.io/github/forks/0xtrace/CVE-2023-4911-Looney-Tunables-">	<img alt="stars" src="https://img.shields.io/github/stars/0xtrace/CVE-2023-4911-Looney-Tunables-">
+- [silent6trinity/looney-tuneables](https://github.com/silent6trinity/looney-tuneables)	<img alt="forks" src="https://img.shields.io/github/forks/silent6trinity/looney-tuneables">	<img alt="stars" src="https://img.shields.io/github/stars/silent6trinity/looney-tuneables">
 
 ---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
@@ -2232,6 +2233,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 > Microsoft SharePoint Server Elevation of Privilege Vulnerability
 - [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-29357">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-29357">
 - [LuemmelSec/CVE-2023-29357](https://github.com/LuemmelSec/CVE-2023-29357)	<img alt="forks" src="https://img.shields.io/github/forks/LuemmelSec/CVE-2023-29357">	<img alt="stars" src="https://img.shields.io/github/stars/LuemmelSec/CVE-2023-29357">
+- [KeyStrOke95/CVE-2023-29357-ExE](https://github.com/KeyStrOke95/CVE-2023-29357-ExE)	<img alt="forks" src="https://img.shields.io/github/forks/KeyStrOke95/CVE-2023-29357-ExE">	<img alt="stars" src="https://img.shields.io/github/stars/KeyStrOke95/CVE-2023-29357-ExE">
 
 ---
 ## CVE-2023-29343 (2023-05-09T18:15:00)
