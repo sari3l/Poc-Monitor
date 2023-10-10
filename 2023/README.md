@@ -223,6 +223,7 @@
 > JumpServer is an open source bastion host. This vulnerability is due to exposing the random number seed to the API, potentially allowing the randomly generated verification codes to be replayed, which could lead to password resets. If MFA is enabled users are not affect. Users not using local authentication are also not affected. Users are advised to upgrade to either version 2.28.19 or to 3.6.5. There are no known workarounds or this issue.
 - [wh-gov/CVE-2023-42820](https://github.com/wh-gov/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-42820">
 - [h4m5t/CVE-2023-42820](https://github.com/h4m5t/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/h4m5t/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/h4m5t/CVE-2023-42820">
+- [C1ph3rX13/CVE-2023-42820](https://github.com/C1ph3rX13/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-42820">
 
 ---
 ## CVE-2023-4281 (2023-09-25T16:15:00)
