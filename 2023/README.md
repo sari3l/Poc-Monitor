@@ -1785,6 +1785,7 @@ Fixed in version 6.4.1.
 - [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/izzz0/CVE-2023-32315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/izzz0/CVE-2023-32315-POC">
 - [gibran-abdillah/CVE-2023-32315](https://github.com/gibran-abdillah/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/gibran-abdillah/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/gibran-abdillah/CVE-2023-32315">
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
+- [CN016/Openfire-RCE-CVE-2023-32315-](https://github.com/CN016/Openfire-RCE-CVE-2023-32315-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Openfire-RCE-CVE-2023-32315-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Openfire-RCE-CVE-2023-32315-">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
@@ -2535,6 +2536,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 > 
 - [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-27363">
 - [qwqdanchun/CVE-2023-27363](https://github.com/qwqdanchun/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/qwqdanchun/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/qwqdanchun/CVE-2023-27363">
+- [CN016/-Foxit-PDF-CVE-2023-27363-](https://github.com/CN016/-Foxit-PDF-CVE-2023-27363-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/-Foxit-PDF-CVE-2023-27363-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/-Foxit-PDF-CVE-2023-27363-">
 
 ---
 ## CVE-2023-27350 (2023-04-20T16:15:00)
