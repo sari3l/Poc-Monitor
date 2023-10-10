@@ -64,6 +64,7 @@
 - [xiaoQ1z/CVE-2023-4911](https://github.com/xiaoQ1z/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoQ1z/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoQ1z/CVE-2023-4911">
 - [0xtrace/CVE-2023-4911-Looney-Tunables-](https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables-)	<img alt="forks" src="https://img.shields.io/github/forks/0xtrace/CVE-2023-4911-Looney-Tunables-">	<img alt="stars" src="https://img.shields.io/github/stars/0xtrace/CVE-2023-4911-Looney-Tunables-">
 - [silent6trinity/looney-tuneables](https://github.com/silent6trinity/looney-tuneables)	<img alt="forks" src="https://img.shields.io/github/forks/silent6trinity/looney-tuneables">	<img alt="stars" src="https://img.shields.io/github/stars/silent6trinity/looney-tuneables">
+- [hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/looney-tunables-CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/looney-tunables-CVE-2023-4911">
 
 ---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
