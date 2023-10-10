@@ -1051,6 +1051,11 @@ prior to
 - [apt0factury/CVE-2023-36761](https://github.com/apt0factury/CVE-2023-36761)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-36761">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-36761">
 
 ---
+## CVE-2023-36723 ()
+> 
+- [Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-36723">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-36723">
+
+---
 ## CVE-2023-36664 (2023-06-25T22:15:00)
 > Artifex Ghostscript through 10.01.2 mishandles permission validation for pipe devices (with the %pipe% prefix or the | pipe character prefix).
 - [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-36664-Ghostscript-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-36664-Ghostscript-command-injection">
@@ -3249,6 +3254,7 @@ For more details, please review the linked advisory on this CVE.
 - [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/ErikWynter/CVE-2023-22515-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/ErikWynter/CVE-2023-22515-Scan">
 - [w33ys/CVE-2023-22515-RCE](https://github.com/w33ys/CVE-2023-22515-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/w33ys/CVE-2023-22515-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/w33ys/CVE-2023-22515-RCE">
 - [r4p70rs/CVE-2023-22515-PoC](https://github.com/r4p70rs/CVE-2023-22515-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/r4p70rs/CVE-2023-22515-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/r4p70rs/CVE-2023-22515-PoC">
+- [op-hxc0/CVE-2023-22515](https://github.com/op-hxc0/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/op-hxc0/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/op-hxc0/CVE-2023-22515">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
