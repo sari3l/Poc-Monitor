@@ -154,6 +154,11 @@
 - [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44811">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44811">
 
 ---
+## CVE-2023-44487 ()
+> 
+- [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-44487">
+
+---
 ## CVE-2023-43838 (2023-10-04T16:15:00)
 > An arbitrary file upload vulnerability in Personal Management System v1.4.64 allows attackers to execute arbitrary code via uploading a crafted SVG file into a user profile's avatar.
 - [rootd4ddy/CVE-2023-43838](https://github.com/rootd4ddy/CVE-2023-43838)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-43838">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-43838">
