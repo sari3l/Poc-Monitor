@@ -617,6 +617,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [joaoviictorti/CVE-2023-38646](https://github.com/joaoviictorti/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-38646">
 - [yxl2001/CVE-2023-38646](https://github.com/yxl2001/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/yxl2001/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/yxl2001/CVE-2023-38646">
 - [alexandre-pecorilla/CVE-2023-38646](https://github.com/alexandre-pecorilla/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/alexandre-pecorilla/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/alexandre-pecorilla/CVE-2023-38646">
+- [CN016/Metabase-H2-CVE-2023-38646-](https://github.com/CN016/Metabase-H2-CVE-2023-38646-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Metabase-H2-CVE-2023-38646-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Metabase-H2-CVE-2023-38646-">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -2157,6 +2158,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-29922 (2023-04-19T19:15:00)
 > PowerJob V4.3.1 is vulnerable to Incorrect Access Control via the create user/save interface.
 - [CN016/Powerjob-CVE-2023-29922-](https://github.com/CN016/Powerjob-CVE-2023-29922-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Powerjob-CVE-2023-29922-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Powerjob-CVE-2023-29922-">
+- [CKevens/CVE-2023-29923-Scan](https://github.com/CKevens/CVE-2023-29923-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-29923-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-29923-Scan">
+- [1820112015/CVE-2023-29923](https://github.com/1820112015/CVE-2023-29923)	<img alt="forks" src="https://img.shields.io/github/forks/1820112015/CVE-2023-29923">	<img alt="stars" src="https://img.shields.io/github/stars/1820112015/CVE-2023-29923">
 
 ---
 ## CVE-2023-29919 (2023-05-23T01:15:00)
@@ -2249,6 +2252,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-29324 (2023-05-09T18:15:00)
 > Windows MSHTML Platform Security Feature Bypass Vulnerability
 - [OLeDouxEt/CVE-2023-29324_Patch_Deploy](https://github.com/OLeDouxEt/CVE-2023-29324_Patch_Deploy)	<img alt="forks" src="https://img.shields.io/github/forks/OLeDouxEt/CVE-2023-29324_Patch_Deploy">	<img alt="stars" src="https://img.shields.io/github/stars/OLeDouxEt/CVE-2023-29324_Patch_Deploy">
+
+---
+## CVE-2023-2928 (2023-05-27T10:15:00)
+> A vulnerability was found in DedeCMS up to 5.7.106. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file uploads/dede/article_allowurl_edit.php. The manipulation of the argument allurls leads to code injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-230083.
+- [CN016/DedeCMS-getshell-CVE-2023-2928-](https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/DedeCMS-getshell-CVE-2023-2928-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/DedeCMS-getshell-CVE-2023-2928-">
 
 ---
 ## CVE-2023-2916 (2023-08-15T09:15:00)

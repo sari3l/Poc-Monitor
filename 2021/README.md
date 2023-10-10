@@ -3596,6 +3596,7 @@
 - [ZororoZ/CVE-2021-37580](https://github.com/ZororoZ/CVE-2021-37580)	<img alt="forks" src="https://img.shields.io/github/forks/ZororoZ/CVE-2021-37580">	<img alt="stars" src="https://img.shields.io/github/stars/ZororoZ/CVE-2021-37580">
 - [Osyanina/westone-CVE-2021-37580-scanner](https://github.com/Osyanina/westone-CVE-2021-37580-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Osyanina/westone-CVE-2021-37580-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Osyanina/westone-CVE-2021-37580-scanner">
 - [rabbitsafe/CVE-2021-37580](https://github.com/rabbitsafe/CVE-2021-37580)	<img alt="forks" src="https://img.shields.io/github/forks/rabbitsafe/CVE-2021-37580">	<img alt="stars" src="https://img.shields.io/github/stars/rabbitsafe/CVE-2021-37580">
+- [CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-](https://github.com/CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-">
 
 ---
 ## CVE-2021-3757 (2021-09-02T12:15:00)
