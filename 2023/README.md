@@ -154,8 +154,8 @@
 - [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44811">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44811">
 
 ---
-## CVE-2023-44487 ()
-> 
+## CVE-2023-44487 (2023-10-10T14:15:00)
+> The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.
 - [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-44487">
 
 ---
