@@ -2497,6 +2497,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [TardC/CVE-2023-27524](https://github.com/TardC/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/TardC/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/TardC/CVE-2023-27524">
 - [necroteddy/CVE-2023-27524](https://github.com/necroteddy/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/necroteddy/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/necroteddy/CVE-2023-27524">
 - [jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE](https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">
+- [CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-](https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">
 
 ---
 ## CVE-2023-27470 (2023-09-11T15:15:00)
