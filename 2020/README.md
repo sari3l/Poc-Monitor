@@ -836,6 +836,7 @@
 - [trhacknon/CVE-2020-5902-Scanner](https://github.com/trhacknon/CVE-2020-5902-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-5902-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-5902-Scanner">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 - [amitlttwo/CVE-2020-5902](https://github.com/amitlttwo/CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2020-5902">
+- [deepsecurity-pe/GoF5-CVE-2020-5902](https://github.com/deepsecurity-pe/GoF5-CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/deepsecurity-pe/GoF5-CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/deepsecurity-pe/GoF5-CVE-2020-5902">
 
 ---
 ## CVE-2020-5847 (2020-03-16T18:15:00)
