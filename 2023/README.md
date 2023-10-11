@@ -3273,6 +3273,7 @@ For more details, please review the linked advisory on this CVE.
 - [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC)	<img alt="forks" src="https://img.shields.io/github/forks/j3seer/CVE-2023-22515-POC">	<img alt="stars" src="https://img.shields.io/github/stars/j3seer/CVE-2023-22515-POC">
 - [Chocapikk/CVE-2023-22515](https://github.com/Chocapikk/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-22515">
 - [ad-calcium/CVE-2023-22515](https://github.com/ad-calcium/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/ad-calcium/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/ad-calcium/CVE-2023-22515">
+- [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
