@@ -1238,6 +1238,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [nidhi7598/linux-4.19.72_CVE-2023-35828](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-35828)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-35828">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-35828">
 
 ---
+## CVE-2023-35813 (2023-06-17T23:15:00)
+> Multiple Sitecore products allow remote code execution. This affects Experience Manager, Experience Platform, and Experience Commerce through 10.3.
+- [un7n0wn/CVE-2023-35813-RCE](https://github.com/un7n0wn/CVE-2023-35813-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/un7n0wn/CVE-2023-35813-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/un7n0wn/CVE-2023-35813-RCE">
+
+---
 ## CVE-2023-35803 (2023-10-04T22:15:00)
 > IQ Engine before 10.6r2 on Extreme Network AP devices has a Buffer Overflow.
 - [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803)	<img alt="forks" src="https://img.shields.io/github/forks/lachlan2k/CVE-2023-35803">	<img alt="stars" src="https://img.shields.io/github/stars/lachlan2k/CVE-2023-35803">
