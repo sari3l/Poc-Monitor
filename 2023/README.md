@@ -71,6 +71,7 @@
 - [0xtrace/CVE-2023-4911-Looney-Tunables-](https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables-)	<img alt="forks" src="https://img.shields.io/github/forks/0xtrace/CVE-2023-4911-Looney-Tunables-">	<img alt="stars" src="https://img.shields.io/github/stars/0xtrace/CVE-2023-4911-Looney-Tunables-">
 - [silent6trinity/looney-tuneables](https://github.com/silent6trinity/looney-tuneables)	<img alt="forks" src="https://img.shields.io/github/forks/silent6trinity/looney-tuneables">	<img alt="stars" src="https://img.shields.io/github/stars/silent6trinity/looney-tuneables">
 - [hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/looney-tunables-CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/looney-tunables-CVE-2023-4911">
+- [ruycr4ft/CVE-2023-4911](https://github.com/ruycr4ft/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/ruycr4ft/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/ruycr4ft/CVE-2023-4911">
 
 ---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
@@ -634,6 +635,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [alexandre-pecorilla/CVE-2023-38646](https://github.com/alexandre-pecorilla/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/alexandre-pecorilla/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/alexandre-pecorilla/CVE-2023-38646">
 - [CN016/Metabase-H2-CVE-2023-38646-](https://github.com/CN016/Metabase-H2-CVE-2023-38646-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Metabase-H2-CVE-2023-38646-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Metabase-H2-CVE-2023-38646-">
 - [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools)	<img alt="forks" src="https://img.shields.io/github/forks/Boogipop/MetabaseRceTools">	<img alt="stars" src="https://img.shields.io/github/stars/Boogipop/MetabaseRceTools">
+- [m3m0o/metabase-pre-auth-rce-poc](https://github.com/m3m0o/metabase-pre-auth-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0o/metabase-pre-auth-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0o/metabase-pre-auth-rce-poc">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -3829,6 +3831,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [sxlmnwb/CVE-2023-0386](https://github.com/sxlmnwb/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2023-0386">
 - [veritas501/CVE-2023-0386](https://github.com/veritas501/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2023-0386">
 - [Fanxiaoyao66/CVE-2023-0386](https://github.com/Fanxiaoyao66/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Fanxiaoyao66/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Fanxiaoyao66/CVE-2023-0386">
+- [Rabie-el-hakouni/CVE-2023-0386](https://github.com/Rabie-el-hakouni/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Rabie-el-hakouni/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Rabie-el-hakouni/CVE-2023-0386">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)
