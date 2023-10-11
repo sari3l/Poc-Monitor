@@ -641,6 +641,11 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV)	<img alt="forks" src="https://img.shields.io/github/forks/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV">	<img alt="stars" src="https://img.shields.io/github/stars/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV">
 
 ---
+## CVE-2023-38545 ()
+> 
+- [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545)	<img alt="forks" src="https://img.shields.io/github/forks/UTsweetyfish/CVE-2023-38545">	<img alt="stars" src="https://img.shields.io/github/stars/UTsweetyfish/CVE-2023-38545">
+
+---
 ## CVE-2023-38501 (2023-07-25T22:15:00)
 > copyparty is file server software. Prior to version 1.8.7, the application contains a reflected cross-site scripting via URL-parameter `?k304=...` and `?setck=...`. The worst-case outcome of this is being able to move or delete existing files on the server, or upload new files, using the account of the person who clicks the malicious link. It is recommended to change the passwords of one's copyparty accounts, unless one have inspected one's logs and found no trace of attacks. Version 1.8.7 contains a patch for the issue.
 - [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-38501-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-38501-Exploit">
