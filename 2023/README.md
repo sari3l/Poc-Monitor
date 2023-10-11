@@ -219,6 +219,11 @@
 - [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-43154-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-43154-PoC">
 
 ---
+## CVE-2023-43148 ()
+> 
+- [MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43148">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43148">
+
+---
 ## CVE-2023-43115 (2023-09-18T08:15:00)
 > In Artifex Ghostscript through 10.01.2, gdevijs.c in GhostPDL can lead to remote code execution via crafted PostScript documents because they can switch to the IJS device, or change the IjsServer parameter, after SAFER has been activated. NOTE: it is a documented risk that the IJS server can be specified on a gs command line (the IJS device inherently must execute a command to start the IJS server).
 - [jostaub/ghostscript-CVE-2023-43115](https://github.com/jostaub/ghostscript-CVE-2023-43115)	<img alt="forks" src="https://img.shields.io/github/forks/jostaub/ghostscript-CVE-2023-43115">	<img alt="stars" src="https://img.shields.io/github/stars/jostaub/ghostscript-CVE-2023-43115">
