@@ -2473,7 +2473,7 @@
 - [lisinan988/CVE-2021-40444-exp](https://github.com/lisinan988/CVE-2021-40444-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lisinan988/CVE-2021-40444-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lisinan988/CVE-2021-40444-exp">
 - [Alexcot25051999/CVE-2021-40444](https://github.com/Alexcot25051999/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/Alexcot25051999/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/Alexcot25051999/CVE-2021-40444">
 - [Zeop-CyberSec/word_mshtml](https://github.com/Zeop-CyberSec/word_mshtml)	<img alt="forks" src="https://img.shields.io/github/forks/Zeop-CyberSec/word_mshtml">	<img alt="stars" src="https://img.shields.io/github/stars/Zeop-CyberSec/word_mshtml">
-- [0xK4gura/CVE-2021-40444-POC](https://github.com/0xK4gura/CVE-2021-40444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xK4gura/CVE-2021-40444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xK4gura/CVE-2021-40444-POC">
+- [wh00datz/CVE-2021-40444-POC](https://github.com/wh00datz/CVE-2021-40444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/wh00datz/CVE-2021-40444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/wh00datz/CVE-2021-40444-POC">
 - [TiagoSergio/CVE-2021-40444](https://github.com/TiagoSergio/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/TiagoSergio/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/TiagoSergio/CVE-2021-40444">
 - [kal1gh0st/CVE-2021-40444_CAB_archives](https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives)	<img alt="forks" src="https://img.shields.io/github/forks/kal1gh0st/CVE-2021-40444_CAB_archives">	<img alt="stars" src="https://img.shields.io/github/stars/kal1gh0st/CVE-2021-40444_CAB_archives">
 - [aslitsecurity/CVE-2021-40444_builders](https://github.com/aslitsecurity/CVE-2021-40444_builders)	<img alt="forks" src="https://img.shields.io/github/forks/aslitsecurity/CVE-2021-40444_builders">	<img alt="stars" src="https://img.shields.io/github/stars/aslitsecurity/CVE-2021-40444_builders">
@@ -2498,6 +2498,7 @@
 - [mansk1es/Caboom](https://github.com/mansk1es/Caboom)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/Caboom">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/Caboom">
 - [Udyz/CVE-2021-40444-Sample](https://github.com/Udyz/CVE-2021-40444-Sample)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2021-40444-Sample">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2021-40444-Sample">
 - [hqdat809/CVE-2021-40444](https://github.com/hqdat809/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/hqdat809/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/hqdat809/CVE-2021-40444">
+- [Jeromeyoung/TIC4301_Project](https://github.com/Jeromeyoung/TIC4301_Project)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/TIC4301_Project">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/TIC4301_Project">
 
 ---
 ## CVE-2021-4044 (2021-12-14T19:15:00)
