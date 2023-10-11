@@ -3291,6 +3291,11 @@ For more details, please review the linked advisory on this CVE.
 - [aeyesec/CVE-2023-22432](https://github.com/aeyesec/CVE-2023-22432)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2023-22432">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2023-22432">
 
 ---
+## CVE-2023-2215 (2023-04-21T10:15:00)
+> A vulnerability classified as critical has been found in Campcodes Coffee Shop POS System 1.0. Affected is an unknown function of the file /admin/user/manage_user.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-226980.
+- [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215)	<img alt="forks" src="https://img.shields.io/github/forks/zwxxb/CVE-2023-2215">	<img alt="stars" src="https://img.shields.io/github/stars/zwxxb/CVE-2023-2215">
+
+---
 ## CVE-2023-21971 (2023-04-18T20:15:00)
 > Vulnerability in the MySQL Connectors product of Oracle MySQL (component: Connector/J).  Supported versions that are affected are 8.0.32 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Connectors.  Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Connectors as well as  unauthorized update, insert or delete access to some of MySQL Connectors accessible data and  unauthorized read access to a subset of MySQL Connectors accessible data. CVSS 3.1 Base Score 5.3 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:L/I:L/A:H).
 - [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-21971_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-21971_Analysis">
