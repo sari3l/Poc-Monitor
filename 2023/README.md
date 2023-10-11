@@ -27,6 +27,11 @@
 - [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-5546">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-5546">
 
 ---
+## CVE-2023-5521 ()
+> 
+- [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521)	<img alt="forks" src="https://img.shields.io/github/forks/Ylarod/CVE-2023-5521">	<img alt="stars" src="https://img.shields.io/github/stars/Ylarod/CVE-2023-5521">
+
+---
 ## CVE-2023-5217 (2023-09-28T16:15:00)
 > Heap buffer overflow in vp8 encoding in libvpx in Google Chrome prior to 117.0.5938.132 and libvpx 1.13.1 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">
