@@ -27,8 +27,8 @@
 - [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-5546">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-5546">
 
 ---
-## CVE-2023-5521 ()
-> 
+## CVE-2023-5521 (2023-10-11T12:15:00)
+> Incorrect Authorization in GitHub repository tiann/kernelsu prior to v0.6.9.
 - [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521)	<img alt="forks" src="https://img.shields.io/github/forks/Ylarod/CVE-2023-5521">	<img alt="stars" src="https://img.shields.io/github/stars/Ylarod/CVE-2023-5521">
 
 ---
