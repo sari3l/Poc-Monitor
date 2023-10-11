@@ -137,13 +137,13 @@
 - [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4549">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4549">
 
 ---
-## CVE-2023-44962 ()
-> 
+## CVE-2023-44962 (2023-10-11T19:15:00)
+> File Upload vulnerability in Koha Library Software 23.05.04 and before allows a remote attacker to read arbitrary files via the upload-cover-image.pl component.
 - [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962)	<img alt="forks" src="https://img.shields.io/github/forks/ggb0n/CVE-2023-44962">	<img alt="stars" src="https://img.shields.io/github/stars/ggb0n/CVE-2023-44962">
 
 ---
-## CVE-2023-44961 ()
-> 
+## CVE-2023-44961 (2023-10-11T19:15:00)
+> SQL Injection vulnerability in Koha Library Software 23.0.5.04 and before allows a remote attacker to obtain sensitive information via the intranet/cgi bin/cataloging/ysearch.pl. component.
 - [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961)	<img alt="forks" src="https://img.shields.io/github/forks/ggb0n/CVE-2023-44961">	<img alt="stars" src="https://img.shields.io/github/stars/ggb0n/CVE-2023-44961">
 
 ---
@@ -642,6 +642,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools)	<img alt="forks" src="https://img.shields.io/github/forks/Boogipop/MetabaseRceTools">	<img alt="stars" src="https://img.shields.io/github/stars/Boogipop/MetabaseRceTools">
 - [m3m0o/metabase-pre-auth-rce-poc](https://github.com/m3m0o/metabase-pre-auth-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0o/metabase-pre-auth-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0o/metabase-pre-auth-rce-poc">
 - [SUT0L/CVE-2023-38646](https://github.com/SUT0L/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/SUT0L/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/SUT0L/CVE-2023-38646">
+- [nickswink/CVE-2023-38646-exploit](https://github.com/nickswink/CVE-2023-38646-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nickswink/CVE-2023-38646-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nickswink/CVE-2023-38646-exploit">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
