@@ -221,13 +221,13 @@
 - [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-43154-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-43154-PoC">
 
 ---
-## CVE-2023-43149 ()
-> 
+## CVE-2023-43149 (2023-10-12T18:15:00)
+> SPA-Cart 1.9.0.3 is vulnerable to Cross Site Request Forgery (CSRF) that allows a remote attacker to add an admin user with role status.
 - [MinoTauro2020/CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43149">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43149">
 
 ---
-## CVE-2023-43148 ()
-> 
+## CVE-2023-43148 (2023-10-12T19:15:00)
+> SPA-Cart 1.9.0.3 has a Cross Site Request Forgery (CSRF) vulnerability that allows a remote attacker to delete all accounts.
 - [MinoTauro2020/CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43147">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43147">
 - [MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43148">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43148">
 
