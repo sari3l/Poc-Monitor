@@ -228,12 +228,12 @@
 ---
 ## CVE-2023-43148 ()
 > 
-- [MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43148">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43148">
+- [MinoTauro2020/CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43147">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43147">
 - [MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43148">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43148">
 
 ---
-## CVE-2023-43147 ()
-> 
+## CVE-2023-43147 (2023-10-12T16:15:00)
+> PHPJabbers Limo Booking Software 1.0 is vulnerable to Cross Site Request Forgery (CSRF) via the Add Users Function, aka an index.php?controller=pjAdminUsers&action=pjActionCreate URI.
 - [MinoTauro2020/CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43147">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43147">
 
 ---
