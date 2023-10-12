@@ -167,6 +167,7 @@
 - [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-44487">
 - [imabee101/CVE-2023-44487](https://github.com/imabee101/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/imabee101/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/imabee101/CVE-2023-44487">
 - [ByteHackr/CVE-2023-44487](https://github.com/ByteHackr/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHackr/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHackr/CVE-2023-44487">
+- [pabloec20/rapidreset](https://github.com/pabloec20/rapidreset)	<img alt="forks" src="https://img.shields.io/github/forks/pabloec20/rapidreset">	<img alt="stars" src="https://img.shields.io/github/stars/pabloec20/rapidreset">
 
 ---
 ## CVE-2023-43838 (2023-10-04T16:15:00)
@@ -258,6 +259,7 @@
 - [Ariurn/CVE-2023-42793](https://github.com/Ariurn/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Ariurn/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Ariurn/CVE-2023-42793">
 - [H454NSec/CVE-2023-42793](https://github.com/H454NSec/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/H454NSec/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/H454NSec/CVE-2023-42793">
 - [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-42793">
+- [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
