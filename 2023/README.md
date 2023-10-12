@@ -249,6 +249,12 @@
 - [Startr4ck/cve-2023-42820](https://github.com/Startr4ck/cve-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/Startr4ck/cve-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/Startr4ck/cve-2023-42820">
 
 ---
+## CVE-2023-42819 (2023-09-27T15:19:00)
+> JumpServer is an open source bastion host. Logged-in users can access and modify the contents of any file on the system. A user can use the 'Job-Template' menu and create a playbook named 'test'. Get the playbook id from the detail page, like 'e0adabef-c38f-492d-bd92-832bacc3df5f'. An attacker can exploit the directory traversal flaw using the provided URL to access and retrieve the contents of the file. `https://jumpserver-ip/api/v1/ops/playbook/e0adabef-c38f-492d-bd92-832bacc3df5f/file/?key=../../../../../../../etc/passwd` a similar method to modify the file content is also present. This issue has been addressed in version 3.6.5. Users are advised to upgrade. There are no known workarounds for this vulnerability.
+
+- [C1ph3rX13/CVE-2023-42819](https://github.com/C1ph3rX13/CVE-2023-42819)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-42819">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-42819">
+
+---
 ## CVE-2023-4281 (2023-09-25T16:15:00)
 > This Activity Log WordPress plugin before 2.8.8 retrieves client IP addresses from potentially untrusted headers, allowing an attacker to manipulate its value. This may be used to hide the source of malicious traffic.
 - [b0marek/CVE-2023-4281](https://github.com/b0marek/CVE-2023-4281)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4281">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4281">
