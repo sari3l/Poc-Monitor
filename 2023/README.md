@@ -226,6 +226,11 @@
 - [MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43148">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43148">
 
 ---
+## CVE-2023-43147 ()
+> 
+- [MinoTauro2020/CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43147">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43147">
+
+---
 ## CVE-2023-43115 (2023-09-18T08:15:00)
 > In Artifex Ghostscript through 10.01.2, gdevijs.c in GhostPDL can lead to remote code execution via crafted PostScript documents because they can switch to the IJS device, or change the IjsServer parameter, after SAFER has been activated. NOTE: it is a documented risk that the IJS server can be specified on a gs command line (the IJS device inherently must execute a command to start the IJS server).
 - [jostaub/ghostscript-CVE-2023-43115](https://github.com/jostaub/ghostscript-CVE-2023-43115)	<img alt="forks" src="https://img.shields.io/github/forks/jostaub/ghostscript-CVE-2023-43115">	<img alt="stars" src="https://img.shields.io/github/stars/jostaub/ghostscript-CVE-2023-43115">
@@ -2527,6 +2532,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [gysf666/CVE-2023-27997-test](https://github.com/gysf666/CVE-2023-27997-test)	<img alt="forks" src="https://img.shields.io/github/forks/gysf666/CVE-2023-27997-test">	<img alt="stars" src="https://img.shields.io/github/stars/gysf666/CVE-2023-27997-test">
 - [Cyb3rEnthusiast/CVE-2023-27997](https://github.com/Cyb3rEnthusiast/CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rEnthusiast/CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rEnthusiast/CVE-2023-27997">
 - [TechinsightsPro/ShodanFortiOS](https://github.com/TechinsightsPro/ShodanFortiOS)	<img alt="forks" src="https://img.shields.io/github/forks/TechinsightsPro/ShodanFortiOS">	<img alt="stars" src="https://img.shields.io/github/stars/TechinsightsPro/ShodanFortiOS">
+- [lexfo/xortigate-cve-2023-27997](https://github.com/lexfo/xortigate-cve-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/lexfo/xortigate-cve-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/lexfo/xortigate-cve-2023-27997">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
