@@ -166,6 +166,7 @@
 > The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.
 - [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-44487">
 - [imabee101/CVE-2023-44487](https://github.com/imabee101/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/imabee101/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/imabee101/CVE-2023-44487">
+- [ByteHackr/CVE-2023-44487](https://github.com/ByteHackr/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHackr/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHackr/CVE-2023-44487">
 
 ---
 ## CVE-2023-43838 (2023-10-04T16:15:00)
