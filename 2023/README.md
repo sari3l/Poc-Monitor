@@ -3493,6 +3493,7 @@ For more details, please review the linked advisory on this CVE.
 
 - [nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282">
 - [Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282](https://github.com/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282">
+- [nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282">
 
 ---
 ## CVE-2023-21281 (2023-08-14T22:15:00)
@@ -3516,6 +3517,13 @@ For more details, please review the linked advisory on this CVE.
 - [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272">
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272">
 - [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272">
+
+---
+## CVE-2023-21251 (2023-07-13T00:15:00)
+> In onCreate of ConfirmDialog.java, there is a possible way to connect to VNP bypassing user's consent due to improper input validation. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation.
+
+
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251">
 
 ---
 ## CVE-2023-21246 (2023-07-13T00:15:00)
