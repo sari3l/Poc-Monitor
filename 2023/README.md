@@ -643,6 +643,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [m3m0o/metabase-pre-auth-rce-poc](https://github.com/m3m0o/metabase-pre-auth-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0o/metabase-pre-auth-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0o/metabase-pre-auth-rce-poc">
 - [SUT0L/CVE-2023-38646](https://github.com/SUT0L/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/SUT0L/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/SUT0L/CVE-2023-38646">
 - [nickswink/CVE-2023-38646](https://github.com/nickswink/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/nickswink/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/nickswink/CVE-2023-38646">
+- [passwa11/CVE-2023-38646](https://github.com/passwa11/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
