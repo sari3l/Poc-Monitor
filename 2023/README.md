@@ -221,6 +221,11 @@
 - [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-43154-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-43154-PoC">
 
 ---
+## CVE-2023-43149 ()
+> 
+- [MinoTauro2020/CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43149">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43149">
+
+---
 ## CVE-2023-43148 ()
 > 
 - [MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43148">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43148">
@@ -2532,6 +2537,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [gysf666/CVE-2023-27997-test](https://github.com/gysf666/CVE-2023-27997-test)	<img alt="forks" src="https://img.shields.io/github/forks/gysf666/CVE-2023-27997-test">	<img alt="stars" src="https://img.shields.io/github/stars/gysf666/CVE-2023-27997-test">
 - [Cyb3rEnthusiast/CVE-2023-27997](https://github.com/Cyb3rEnthusiast/CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rEnthusiast/CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rEnthusiast/CVE-2023-27997">
 - [TechinsightsPro/ShodanFortiOS](https://github.com/TechinsightsPro/ShodanFortiOS)	<img alt="forks" src="https://img.shields.io/github/forks/TechinsightsPro/ShodanFortiOS">	<img alt="stars" src="https://img.shields.io/github/stars/TechinsightsPro/ShodanFortiOS">
+- [lexfo/xortigate-cve-2023-27997](https://github.com/lexfo/xortigate-cve-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/lexfo/xortigate-cve-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/lexfo/xortigate-cve-2023-27997">
 - [lexfo/xortigate-cve-2023-27997](https://github.com/lexfo/xortigate-cve-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/lexfo/xortigate-cve-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/lexfo/xortigate-cve-2023-27997">
 
 ---
