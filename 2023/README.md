@@ -662,6 +662,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 ## CVE-2023-38545 ()
 > 
 - [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545)	<img alt="forks" src="https://img.shields.io/github/forks/UTsweetyfish/CVE-2023-38545">	<img alt="stars" src="https://img.shields.io/github/stars/UTsweetyfish/CVE-2023-38545">
+- [imfht/CVE-2023-38545](https://github.com/imfht/CVE-2023-38545)	<img alt="forks" src="https://img.shields.io/github/forks/imfht/CVE-2023-38545">	<img alt="stars" src="https://img.shields.io/github/stars/imfht/CVE-2023-38545">
 
 ---
 ## CVE-2023-38501 (2023-07-25T22:15:00)
