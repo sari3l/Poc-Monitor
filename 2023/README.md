@@ -245,6 +245,7 @@
 ## CVE-2023-43144 (2023-09-22T15:15:00)
 > Projectworldsl Assets-management-system-in-php 1.0 is vulnerable to SQL Injection via the "id" parameter in delete.php.
 - [Pegasus0xx/CVE-2023-43144](https://github.com/Pegasus0xx/CVE-2023-43144)	<img alt="forks" src="https://img.shields.io/github/forks/Pegasus0xx/CVE-2023-43144">	<img alt="stars" src="https://img.shields.io/github/stars/Pegasus0xx/CVE-2023-43144">
+- [Pegasus0xx/CVE-2023-43144](https://github.com/Pegasus0xx/CVE-2023-43144)	<img alt="forks" src="https://img.shields.io/github/forks/Pegasus0xx/CVE-2023-43144">	<img alt="stars" src="https://img.shields.io/github/stars/Pegasus0xx/CVE-2023-43144">
 
 ---
 ## CVE-2023-43115 (2023-09-18T08:15:00)
