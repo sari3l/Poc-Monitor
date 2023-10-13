@@ -2084,6 +2084,19 @@ Fixed in version 6.4.1.
 - [Chocapikk/CVE-2023-30943](https://github.com/Chocapikk/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-30943">
 
 ---
+## CVE-2023-30861 (2023-05-02T18:15:00)
+> Flask is a lightweight WSGI web application framework. When all of the following conditions are met, a response containing data intended for one client may be cached and subsequently sent by the proxy to other clients. If the proxy also caches `Set-Cookie` headers, it may send one client's `session` cookie to other clients. The severity depends on the application's use of the session and the proxy's behavior regarding cookies. The risk depends on all these conditions being met.
+
+1. The application must be hosted behind a caching proxy that does not strip cookies or ignore responses with cookies.
+2. The application sets `session.permanent = True`
+3. The application does not access or modify the session at any point during a request.
+4. `SESSION_REFRESH_EACH_REQUEST` enabled (the default).
+5. The application does not set a `Cache-Control` header to indicate that a page is private or should not be cached.
+
+This happens because vulnerable versions of Flask only set the `Vary: Cookie` header when the session is accessed or modified, not when it is refreshed (re-sent to update the expiration) without being accessed or modified. This issue has been fixed in versions 2.3.2 and 2.2.5.
+- [JawadPy/CVE-2023-30861-Exploit](https://github.com/JawadPy/CVE-2023-30861-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-30861-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-30861-Exploit">
+
+---
 ## CVE-2023-30854 (2023-04-28T16:15:00)
 > AVideo is an open source video platform. Prior to version 12.4, an OS Command Injection vulnerability in an authenticated endpoint `/plugin/CloneSite/cloneClient.json.php` allows attackers to achieve Remote Code Execution. This issue is fixed in version 12.4.
 - [jmrcsnchz/CVE-2023-30854](https://github.com/jmrcsnchz/CVE-2023-30854)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-30854">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-30854">
@@ -3333,6 +3346,7 @@ For more details, please review the linked advisory on this CVE.
 - [kh4sh3i/CVE-2023-22515](https://github.com/kh4sh3i/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2023-22515">
 - [sincere9/CVE-2023-22515](https://github.com/sincere9/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/sincere9/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/sincere9/CVE-2023-22515">
 - [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-22515">
+- [Vulnmachines/confluence-cve-2023-22515](https://github.com/Vulnmachines/confluence-cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/confluence-cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/confluence-cve-2023-22515">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
