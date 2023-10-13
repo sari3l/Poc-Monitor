@@ -242,6 +242,11 @@
 - [MinoTauro2020/CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-43147">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-43147">
 
 ---
+## CVE-2023-43144 (2023-09-22T15:15:00)
+> Projectworldsl Assets-management-system-in-php 1.0 is vulnerable to SQL Injection via the "id" parameter in delete.php.
+- [Pegasus0xx/CVE-2023-43144](https://github.com/Pegasus0xx/CVE-2023-43144)	<img alt="forks" src="https://img.shields.io/github/forks/Pegasus0xx/CVE-2023-43144">	<img alt="stars" src="https://img.shields.io/github/stars/Pegasus0xx/CVE-2023-43144">
+
+---
 ## CVE-2023-43115 (2023-09-18T08:15:00)
 > In Artifex Ghostscript through 10.01.2, gdevijs.c in GhostPDL can lead to remote code execution via crafted PostScript documents because they can switch to the IJS device, or change the IjsServer parameter, after SAFER has been activated. NOTE: it is a documented risk that the IJS server can be specified on a gs command line (the IJS device inherently must execute a command to start the IJS server).
 - [jostaub/ghostscript-CVE-2023-43115](https://github.com/jostaub/ghostscript-CVE-2023-43115)	<img alt="forks" src="https://img.shields.io/github/forks/jostaub/ghostscript-CVE-2023-43115">	<img alt="stars" src="https://img.shields.io/github/stars/jostaub/ghostscript-CVE-2023-43115">
