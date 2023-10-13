@@ -736,6 +736,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 ## CVE-2023-38146 (2023-09-12T17:15:00)
 > Windows Themes Remote Code Execution Vulnerability
 - [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146)	<img alt="forks" src="https://img.shields.io/github/forks/Jnnshschl/CVE-2023-38146">	<img alt="stars" src="https://img.shields.io/github/stars/Jnnshschl/CVE-2023-38146">
+- [gabe-k/themebleed](https://github.com/gabe-k/themebleed)	<img alt="forks" src="https://img.shields.io/github/forks/gabe-k/themebleed">	<img alt="stars" src="https://img.shields.io/github/stars/gabe-k/themebleed">
 
 ---
 ## CVE-2023-3812 (2023-07-24T16:15:00)
