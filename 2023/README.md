@@ -177,7 +177,7 @@
 ---
 ## CVE-2023-43804 (2023-10-04T17:15:00)
 > urllib3 is a user-friendly HTTP client library for Python. urllib3 doesn't treat the `Cookie` HTTP header special or provide any helpers for managing cookies over HTTP, that is the responsibility of the user. However, it is possible for a user to specify a `Cookie` header and unknowingly leak information via HTTP redirects to a different origin if that user doesn't disable redirects explicitly. This issue has been patched in urllib3 version 1.26.17 or 2.0.5.
-- [JawadPy/CVE-2023-43804](https://github.com/JawadPy/CVE-2023-43804)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-43804">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-43804">
+- [JawadPy/CVE-2023-43804-Exploit](https://github.com/JawadPy/CVE-2023-43804-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-43804-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-43804-Exploit">
 
 ---
 ## CVE-2023-43770 (2023-09-22T06:15:00)
