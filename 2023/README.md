@@ -406,7 +406,7 @@
 ---
 ## CVE-2023-41105 (2023-08-23T07:15:00)
 > An issue was discovered in Python 3.11 through 3.11.4. If a path containing '\0' bytes is passed to os.path.normpath(), the path will be truncated unexpectedly at the first '\0' byte. There are plausible cases in which an application would have rejected a filename for security reasons in Python 3.10.x or earlier, but that filename is no longer rejected in Python 3.11.x.
-- [JawadPy/CVE-2023-41105](https://github.com/JawadPy/CVE-2023-41105)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-41105">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-41105">
+- [JawadPy/CVE-2023-41105-Exploit](https://github.com/JawadPy/CVE-2023-41105-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-41105-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-41105-Exploit">
 
 ---
 ## CVE-2023-41080 (2023-08-25T21:15:00)
