@@ -733,6 +733,11 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [ilqarli27/CVE-2023-38286](https://github.com/ilqarli27/CVE-2023-38286)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-38286">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-38286">
 
 ---
+## CVE-2023-38146 (2023-09-12T17:15:00)
+> Windows Themes Remote Code Execution Vulnerability
+- [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146)	<img alt="forks" src="https://img.shields.io/github/forks/Jnnshschl/CVE-2023-38146">	<img alt="stars" src="https://img.shields.io/github/stars/Jnnshschl/CVE-2023-38146">
+
+---
 ## CVE-2023-3812 (2023-07-24T16:15:00)
 > An out-of-bounds memory access flaw was found in the Linux kernel’s TUN/TAP device driver functionality in how a user generates a malicious (too big) networking packet when napi frags is enabled. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3812">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3812">
