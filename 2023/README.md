@@ -908,6 +908,14 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [ilqarli27/CVE-2023-37164](https://github.com/ilqarli27/CVE-2023-37164)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37164">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37164">
 
 ---
+## CVE-2023-3710 (2023-09-12T20:15:00)
+> Improper Input Validation vulnerability in Honeywell PM43 on 32 bit, ARM (Printer web page modules) allows Command Injection.This issue affects PM43 versions prior to P10.19.050004. Update to the latest available firmware version of the respective printers to version MR19.5 (e.g. P10.19.050006).
+
+
+- [Mahdi22228/CVE-2023-3710](https://github.com/Mahdi22228/CVE-2023-3710)	<img alt="forks" src="https://img.shields.io/github/forks/Mahdi22228/CVE-2023-3710">	<img alt="stars" src="https://img.shields.io/github/stars/Mahdi22228/CVE-2023-3710">
+- [vpxuser/CVE-2023-3710-POC](https://github.com/vpxuser/CVE-2023-3710-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vpxuser/CVE-2023-3710-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vpxuser/CVE-2023-3710-POC">
+
+---
 ## CVE-2023-37073 ()
 > 
 - [Hamza0X/CVE-2023-37073](https://github.com/Hamza0X/CVE-2023-37073)	<img alt="forks" src="https://img.shields.io/github/forks/Hamza0X/CVE-2023-37073">	<img alt="stars" src="https://img.shields.io/github/stars/Hamza0X/CVE-2023-37073">
