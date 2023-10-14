@@ -143,6 +143,11 @@
 - [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4549">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4549">
 
 ---
+## CVE-2023-45471 ()
+> 
+- [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471)	<img alt="forks" src="https://img.shields.io/github/forks/itsAptx/CVE-2023-45471">	<img alt="stars" src="https://img.shields.io/github/stars/itsAptx/CVE-2023-45471">
+
+---
 ## CVE-2023-44962 (2023-10-11T19:15:00)
 > File Upload vulnerability in Koha Library Software 23.05.04 and before allows a remote attacker to read arbitrary files via the upload-cover-image.pl component.
 - [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962)	<img alt="forks" src="https://img.shields.io/github/forks/ggb0n/CVE-2023-44962">	<img alt="stars" src="https://img.shields.io/github/stars/ggb0n/CVE-2023-44962">
