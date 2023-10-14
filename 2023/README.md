@@ -133,6 +133,11 @@
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
+## CVE-2023-45542 ()
+> 
+- [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-45542">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-45542">
+
+---
 ## CVE-2023-4549 (2023-09-25T16:15:00)
 > The DoLogin Security WordPress plugin before 3.7 does not properly sanitize IP addresses coming from the X-Forwarded-For header, which can be used by attackers to conduct Stored XSS attacks via WordPress' login form.
 - [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4549">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4549">
