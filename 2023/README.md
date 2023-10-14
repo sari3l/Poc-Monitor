@@ -920,6 +920,7 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 
 - [Mahdi22228/CVE-2023-3710](https://github.com/Mahdi22228/CVE-2023-3710)	<img alt="forks" src="https://img.shields.io/github/forks/Mahdi22228/CVE-2023-3710">	<img alt="stars" src="https://img.shields.io/github/stars/Mahdi22228/CVE-2023-3710">
 - [vpxuser/CVE-2023-3710-POC](https://github.com/vpxuser/CVE-2023-3710-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vpxuser/CVE-2023-3710-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vpxuser/CVE-2023-3710-POC">
+- [CwEeR313/CVE-2023-3710](https://github.com/CwEeR313/CVE-2023-3710)	<img alt="forks" src="https://img.shields.io/github/forks/CwEeR313/CVE-2023-3710">	<img alt="stars" src="https://img.shields.io/github/stars/CwEeR313/CVE-2023-3710">
 
 ---
 ## CVE-2023-37073 ()
