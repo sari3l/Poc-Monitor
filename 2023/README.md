@@ -2605,6 +2605,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [lexfo/xortigate-cve-2023-27997](https://github.com/lexfo/xortigate-cve-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/lexfo/xortigate-cve-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/lexfo/xortigate-cve-2023-27997">
 - [delsploit/CVE-2023-27997](https://github.com/delsploit/CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/delsploit/CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/delsploit/CVE-2023-27997">
 - [Aicks/FortiGate-CVE-2023-27997](https://github.com/Aicks/FortiGate-CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/Aicks/FortiGate-CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/Aicks/FortiGate-CVE-2023-27997">
+- [m474r5/CVE-2023-27997-findings](https://github.com/m474r5/CVE-2023-27997-findings)	<img alt="forks" src="https://img.shields.io/github/forks/m474r5/CVE-2023-27997-findings">	<img alt="stars" src="https://img.shields.io/github/stars/m474r5/CVE-2023-27997-findings">
+- [m474r5/CVE-2023-27997-POC](https://github.com/m474r5/CVE-2023-27997-POC)	<img alt="forks" src="https://img.shields.io/github/forks/m474r5/CVE-2023-27997-POC">	<img alt="stars" src="https://img.shields.io/github/stars/m474r5/CVE-2023-27997-POC">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
