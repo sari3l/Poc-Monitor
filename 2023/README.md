@@ -133,6 +133,11 @@
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
+## CVE-2023-45603 ()
+> 
+- [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-45603-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-45603-PoC">
+
+---
 ## CVE-2023-45542 ()
 > 
 - [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-45542">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-45542">
@@ -1561,6 +1566,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [hheeyywweellccoommee/CVE-2023-34362-zcial](https://github.com/hheeyywweellccoommee/CVE-2023-34362-zcial)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-34362-zcial">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-34362-zcial">
 - [Malwareman007/CVE-2023-34362](https://github.com/Malwareman007/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-34362">
 - [toorandom/moveit-payload-decrypt-CVE-2023-34362](https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/toorandom/moveit-payload-decrypt-CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/toorandom/moveit-payload-decrypt-CVE-2023-34362">
+- [kor34N/CVE-2023-34362-mass](https://github.com/kor34N/CVE-2023-34362-mass)	<img alt="forks" src="https://img.shields.io/github/forks/kor34N/CVE-2023-34362-mass">	<img alt="stars" src="https://img.shields.io/github/stars/kor34N/CVE-2023-34362-mass">
 
 ---
 ## CVE-2023-34312 (2023-06-01T03:15:00)
