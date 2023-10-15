@@ -3057,6 +3057,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
 
 ---
+## CVE-2023-24517 (2023-08-22T19:16:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in the Pandora FMS File Manager component, allows an attacker to make make use of this issue ( unrestricted file upload ) to execute arbitrary system commands. This issue affects Pandora FMS v767 version and prior versions on all platforms.
+- [Argonx21/CVE-2023-24517](https://github.com/Argonx21/CVE-2023-24517)	<img alt="forks" src="https://img.shields.io/github/forks/Argonx21/CVE-2023-24517">	<img alt="stars" src="https://img.shields.io/github/stars/Argonx21/CVE-2023-24517">
+
+---
 ## CVE-2023-24489 (2023-07-10T22:15:00)
 > 
 A vulnerability has been discovered in the customer-managed ShareFile storage zones controller which, if exploited, could allow an unauthenticated attacker to remotely compromise the customer-managed ShareFile storage zones controller.
