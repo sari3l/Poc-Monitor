@@ -1567,6 +1567,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [Malwareman007/CVE-2023-34362](https://github.com/Malwareman007/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-34362">
 - [toorandom/moveit-payload-decrypt-CVE-2023-34362](https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/toorandom/moveit-payload-decrypt-CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/toorandom/moveit-payload-decrypt-CVE-2023-34362">
 - [kor34N/CVE-2023-34362-mass](https://github.com/kor34N/CVE-2023-34362-mass)	<img alt="forks" src="https://img.shields.io/github/forks/kor34N/CVE-2023-34362-mass">	<img alt="stars" src="https://img.shields.io/github/stars/kor34N/CVE-2023-34362-mass">
+- [errorfiathck/MOVEit-Exploit](https://github.com/errorfiathck/MOVEit-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/errorfiathck/MOVEit-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/errorfiathck/MOVEit-Exploit">
 
 ---
 ## CVE-2023-34312 (2023-06-01T03:15:00)
