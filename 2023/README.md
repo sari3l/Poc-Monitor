@@ -86,8 +86,8 @@
 - [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion)	<img alt="forks" src="https://img.shields.io/github/forks/OITApps/Find-VulnerableElectronVersion">	<img alt="stars" src="https://img.shields.io/github/stars/OITApps/Find-VulnerableElectronVersion">
 
 ---
-## CVE-2023-4800 ()
-> 
+## CVE-2023-4800 (2023-10-16T20:15:00)
+> The DoLogin Security WordPress plugin before 3.7.1 does not restrict the access of a widget that shows the IPs of failed logins to low privileged users.
 - [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4800">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4800">
 
 ---
@@ -138,8 +138,8 @@
 - [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-45603-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-45603-PoC">
 
 ---
-## CVE-2023-45542 ()
-> 
+## CVE-2023-45542 (2023-10-16T21:15:00)
+> Cross Site Scripting vulnerability in mooSocial 3.1.8 allows a remote attacker to obtain sensitive information via a crafted script to the q parameter in the Search function.
 - [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-45542">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-45542">
 
 ---
