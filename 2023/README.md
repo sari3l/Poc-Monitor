@@ -2745,6 +2745,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [samh4cks/CVE-2023-27163-InternalProber](https://github.com/samh4cks/CVE-2023-27163-InternalProber)	<img alt="forks" src="https://img.shields.io/github/forks/samh4cks/CVE-2023-27163-InternalProber">	<img alt="stars" src="https://img.shields.io/github/stars/samh4cks/CVE-2023-27163-InternalProber">
 - [josephberger/CVE-2023-27163](https://github.com/josephberger/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/josephberger/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/josephberger/CVE-2023-27163">
 - [Hamibubu/CVE-2023-27163](https://github.com/Hamibubu/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Hamibubu/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Hamibubu/CVE-2023-27163">
+- [DcardosoGH/CVE-2023-27163---Maltrail-0.53-RCE](https://github.com/DcardosoGH/CVE-2023-27163---Maltrail-0.53-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/DcardosoGH/CVE-2023-27163---Maltrail-0.53-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/DcardosoGH/CVE-2023-27163---Maltrail-0.53-RCE">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
