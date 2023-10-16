@@ -489,6 +489,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name)	<img alt="forks" src="https://img.shields.io/github/forks/biscuitehh/cve-2023-40429-ez-device-name">	<img alt="stars" src="https://img.shields.io/github/stars/biscuitehh/cve-2023-40429-ez-device-name">
 
 ---
+## CVE-2023-40361 ()
+> 
+- [vianic/CVE-2023-40361](https://github.com/vianic/CVE-2023-40361)	<img alt="forks" src="https://img.shields.io/github/forks/vianic/CVE-2023-40361">	<img alt="stars" src="https://img.shields.io/github/stars/vianic/CVE-2023-40361">
+
+---
 ## CVE-2023-40297 ()
 > 
 - [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2023-40297">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2023-40297">
