@@ -185,6 +185,12 @@
 - [ByteHackr/CVE-2023-44487](https://github.com/ByteHackr/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHackr/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHackr/CVE-2023-44487">
 - [pabloec20/rapidreset](https://github.com/pabloec20/rapidreset)	<img alt="forks" src="https://img.shields.io/github/forks/pabloec20/rapidreset">	<img alt="stars" src="https://img.shields.io/github/stars/pabloec20/rapidreset">
 - [secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient)	<img alt="forks" src="https://img.shields.io/github/forks/secengjeff/rapidresetclient">	<img alt="stars" src="https://img.shields.io/github/stars/secengjeff/rapidresetclient">
+- [studiogangster/CVE-2023-44487](https://github.com/studiogangster/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2023-44487">
+
+---
+## CVE-2023-4415 (2023-08-18T16:15:00)
+> A vulnerability was found in Ruijie RG-EW1200G 07161417 r483. It has been rated as critical. Affected by this issue is some unknown functionality of the file /api/sys/login. The manipulation leads to improper authentication. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-237518 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
+- [thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415](https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415)	<img alt="forks" src="https://img.shields.io/github/forks/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415">	<img alt="stars" src="https://img.shields.io/github/stars/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415">
 
 ---
 ## CVE-2023-43838 (2023-10-04T16:15:00)
