@@ -453,6 +453,11 @@
 - [Securify-Pro/CVE-2021-44910_SpringBlade](https://github.com/Securify-Pro/CVE-2021-44910_SpringBlade)	<img alt="forks" src="https://img.shields.io/github/forks/Securify-Pro/CVE-2021-44910_SpringBlade">	<img alt="stars" src="https://img.shields.io/github/stars/Securify-Pro/CVE-2021-44910_SpringBlade">
 
 ---
+## CVE-2021-44909 ()
+> 
+- [g1thub3r1st4/CVE-2021-44909](https://github.com/g1thub3r1st4/CVE-2021-44909)	<img alt="forks" src="https://img.shields.io/github/forks/g1thub3r1st4/CVE-2021-44909">	<img alt="stars" src="https://img.shields.io/github/stars/g1thub3r1st4/CVE-2021-44909">
+
+---
 ## CVE-2021-44906 (2022-03-17T16:15:00)
 > Minimist <=1.2.5 is vulnerable to Prototype Pollution via file index.js, function setKey() (lines 69-95).
 - [nevermoe/CVE-2021-44906](https://github.com/nevermoe/CVE-2021-44906)	<img alt="forks" src="https://img.shields.io/github/forks/nevermoe/CVE-2021-44906">	<img alt="stars" src="https://img.shields.io/github/stars/nevermoe/CVE-2021-44906">
