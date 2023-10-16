@@ -948,6 +948,11 @@
 - [Live-Hack-CVE/CVE-2017-14432](https://github.com/Live-Hack-CVE/CVE-2017-14432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14432">
 
 ---
+## CVE-2017-13286 (2018-04-04T16:29:00)
+> In writeToParcel and readFromParcel of OutputConfiguration.java, there is a permission bypass due to mismatched serialization. This could lead to a local escalation of privilege where the user can start an activity with system privileges, with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android. Versions: 8.0, 8.1. Android ID: A-69683251.
+- [UmVfX1BvaW50/CVE-2017-13286](https://github.com/UmVfX1BvaW50/CVE-2017-13286)	<img alt="forks" src="https://img.shields.io/github/forks/UmVfX1BvaW50/CVE-2017-13286">	<img alt="stars" src="https://img.shields.io/github/stars/UmVfX1BvaW50/CVE-2017-13286">
+
+---
 ## CVE-2017-12615 (2017-09-19T13:29:00)
 > When running Apache Tomcat 7.0.0 to 7.0.79 on Windows with HTTP PUTs enabled (e.g. via setting the readonly initialisation parameter of the Default to false) it was possible to upload a JSP file to the server via a specially crafted request. This JSP could then be requested and any code it contained would be executed by the server.
 - [gk0d/CVE-2017-12615-POC-EXP](https://github.com/gk0d/CVE-2017-12615-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/gk0d/CVE-2017-12615-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/gk0d/CVE-2017-12615-POC-EXP">
