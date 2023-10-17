@@ -298,7 +298,7 @@
 ## CVE-2020-8163 (2020-07-02T19:15:00)
 > The is a code injection vulnerability in versions of Rails prior to 5.0.1 that wouldallow an attacker who controlled the `locals` argument of a `render` call to perform a RCE.
 - [lucasallan/CVE-2020-8163](https://github.com/lucasallan/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/lucasallan/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/lucasallan/CVE-2020-8163">
-- [TKLinux966/CVE-2020-8163](https://github.com/TKLinux966/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/TKLinux966/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/TKLinux966/CVE-2020-8163">
+- [TK-Elliot/CVE-2020-8163](https://github.com/TK-Elliot/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/TK-Elliot/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/TK-Elliot/CVE-2020-8163">
 - [h4ms1k/CVE-2020-8163](https://github.com/h4ms1k/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/h4ms1k/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/h4ms1k/CVE-2020-8163">
 - [qazbnm456/CVE-2020-8163](https://github.com/qazbnm456/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/qazbnm456/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/qazbnm456/CVE-2020-8163">
 
