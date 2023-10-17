@@ -139,6 +139,11 @@
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
+## CVE-2023-45828 ()
+> 
+- [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45828">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45828">
+
+---
 ## CVE-2023-45603 ()
 > 
 - [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-45603-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-45603-PoC">
