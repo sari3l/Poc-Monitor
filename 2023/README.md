@@ -1886,7 +1886,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [z-jxy/keepass_dump](https://github.com/z-jxy/keepass_dump)	<img alt="forks" src="https://img.shields.io/github/forks/z-jxy/keepass_dump">	<img alt="stars" src="https://img.shields.io/github/stars/z-jxy/keepass_dump">
 - [LeDocteurDesBits/cve-2023-32784](https://github.com/LeDocteurDesBits/cve-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/LeDocteurDesBits/cve-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/LeDocteurDesBits/cve-2023-32784">
 - [hau-zy/KeePass-dump-py](https://github.com/hau-zy/KeePass-dump-py)	<img alt="forks" src="https://img.shields.io/github/forks/hau-zy/KeePass-dump-py">	<img alt="stars" src="https://img.shields.io/github/stars/hau-zy/KeePass-dump-py">
-- [4m4Sec/CVE-2023-32784](https://github.com/4m4Sec/CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/4m4Sec/CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/4m4Sec/CVE-2023-32784">
+- [dawnl3ss/CVE-2023-32784](https://github.com/dawnl3ss/CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/dawnl3ss/CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/dawnl3ss/CVE-2023-32784">
+- [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/ValentinPundikov/poc-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/ValentinPundikov/poc-CVE-2023-32784">
 
 ---
 ## CVE-2023-32681 (2023-05-26T18:15:00)
