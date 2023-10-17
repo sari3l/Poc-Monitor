@@ -46,6 +46,11 @@
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
 
 ---
+## CVE-2018-7842 (2019-05-22T20:29:00)
+> A CWE-290: Authentication Bypass by Spoofing vulnerability exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum, and Modicon Premium which could cause an elevation of privilege by conducting a brute force attack on Modbus parameters sent to the controller.
+- [yanissec/CVE-2018-7842](https://github.com/yanissec/CVE-2018-7842)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7842">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7842">
+
+---
 ## CVE-2018-7602 (2018-07-19T17:29:00)
 > A remote code execution vulnerability exists within multiple subsystems of Drupal 7.x and 8.x. This potentially allows attackers to exploit multiple attack vectors on a Drupal site, which could result in the site being compromised. This vulnerability is related to Drupal core - Highly critical - Remote Code Execution - SA-CORE-2018-002. Both SA-CORE-2018-002 and this vulnerability are being exploited in the wild.
 - [NetJBS/-CVE-2018-7602](https://github.com/NetJBS/-CVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/-CVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/-CVE-2018-7602">
