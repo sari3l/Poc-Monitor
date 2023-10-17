@@ -201,7 +201,7 @@
 ---
 ## CVE-2023-4415 (2023-08-18T16:15:00)
 > A vulnerability was found in Ruijie RG-EW1200G 07161417 r483. It has been rated as critical. Affected by this issue is some unknown functionality of the file /api/sys/login. The manipulation leads to improper authentication. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-237518 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
-- [thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415](https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415)	<img alt="forks" src="https://img.shields.io/github/forks/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415">	<img alt="stars" src="https://img.shields.io/github/stars/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415">
+- [thedarknessdied/Ruijie-RG-EW1200G-CVE-2023-4415-RCE](https://github.com/thedarknessdied/Ruijie-RG-EW1200G-CVE-2023-4415-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thedarknessdied/Ruijie-RG-EW1200G-CVE-2023-4415-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thedarknessdied/Ruijie-RG-EW1200G-CVE-2023-4415-RCE">
 
 ---
 ## CVE-2023-43838 (2023-10-04T16:15:00)
