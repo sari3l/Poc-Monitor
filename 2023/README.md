@@ -713,6 +713,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [threatHNTR/CVE-2023-38646](https://github.com/threatHNTR/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/threatHNTR/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/threatHNTR/CVE-2023-38646">
 - [asepsaepdin/CVE-2023-38646](https://github.com/asepsaepdin/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-38646">
 - [Pyr0sec/CVE-2023-38646](https://github.com/Pyr0sec/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Pyr0sec/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Pyr0sec/CVE-2023-38646">
+- [davidf-arch/CVE-2023-38646](https://github.com/davidf-arch/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/davidf-arch/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/davidf-arch/CVE-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -1292,6 +1293,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 
 
 - [nidhi7598/linux-4.19.72_CVE-2023-3609](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3609">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3609">
+
+---
+## CVE-2023-36076 (2023-09-01T16:15:00)
+> SQL Injection vulnerability in smanga version 3.1.9 and earlier, allows remote attackers to execute arbitrary code and gain sensitive information via mediaId, mangaId, and userId parameters in php/history/add.php.
+- [deIndra/CVE-2023-36076](https://github.com/deIndra/CVE-2023-36076)	<img alt="forks" src="https://img.shields.io/github/forks/deIndra/CVE-2023-36076">	<img alt="stars" src="https://img.shields.io/github/stars/deIndra/CVE-2023-36076">
 
 ---
 ## CVE-2023-35885 (2023-06-20T20:15:00)
@@ -3768,6 +3774,13 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 > A vulnerability in the web-based management interface of Cisco Expressway Series and Cisco TelePresence Video Communication Server (VCS) could allow an authenticated, remote attacker with read-write privileges on the application to perform a command injection attack that could result in remote code execution on an affected device.
  This vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by sending a crafted request to the web-based management interface of an affected device. A successful exploit could allow the attacker to establish a remote shell with root privileges.
 - [0x41-Researcher/CVE-2023-20209](https://github.com/0x41-Researcher/CVE-2023-20209)	<img alt="forks" src="https://img.shields.io/github/forks/0x41-Researcher/CVE-2023-20209">	<img alt="stars" src="https://img.shields.io/github/stars/0x41-Researcher/CVE-2023-20209">
+
+---
+## CVE-2023-20198 (2023-10-16T16:15:00)
+> Cisco is aware of active exploitation of a previously unknown vulnerability in the web UI feature of Cisco IOS XE Software when exposed to the internet or to untrusted networks. This vulnerability allows a remote, unauthenticated attacker to create an account on an affected system with privilege level 15 access. The attacker can then use that account to gain control of the affected system.
+ For steps to close the attack vector for this vulnerability, see the Recommendations section of this advisory 
+ Cisco will provide updates on the status of this investigation and when a software patch is available.
+- [raystr-atearedteam/CVE-2023-20198-checker](https://github.com/raystr-atearedteam/CVE-2023-20198-checker)	<img alt="forks" src="https://img.shields.io/github/forks/raystr-atearedteam/CVE-2023-20198-checker">	<img alt="stars" src="https://img.shields.io/github/stars/raystr-atearedteam/CVE-2023-20198-checker">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
