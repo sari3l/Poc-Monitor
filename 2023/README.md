@@ -3800,6 +3800,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [pypcod/CVE-2023-20198](https://github.com/pypcod/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/pypcod/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/pypcod/CVE-2023-20198">
 - [vulncheck-oss/cisco-ios-xe-implant-scanner](https://github.com/vulncheck-oss/cisco-ios-xe-implant-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cisco-ios-xe-implant-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cisco-ios-xe-implant-scanner">
 - [d0rb/CVE-2023-20198](https://github.com/d0rb/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-20198">
+- [securityphoenix/cisco-CVE-2023-20198-tester](https://github.com/securityphoenix/cisco-CVE-2023-20198-tester)	<img alt="forks" src="https://img.shields.io/github/forks/securityphoenix/cisco-CVE-2023-20198-tester">	<img alt="stars" src="https://img.shields.io/github/stars/securityphoenix/cisco-CVE-2023-20198-tester">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
