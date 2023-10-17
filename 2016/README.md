@@ -985,6 +985,13 @@
 - [Live-Hack-CVE/CVE-2016-0797](https://github.com/Live-Hack-CVE/CVE-2016-0797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0797">
 
 ---
+## CVE-2016-0792 (2016-04-07T23:59:00)
+> Multiple unspecified API endpoints in Jenkins before 1.650 and LTS before 1.642.2 allow remote authenticated users to execute arbitrary code via serialized data in an XML file, related to XStream and groovy.util.Expando.
+- [Aviksaikat/CVE-2016-0792](https://github.com/Aviksaikat/CVE-2016-0792)	<img alt="forks" src="https://img.shields.io/github/forks/Aviksaikat/CVE-2016-0792">	<img alt="stars" src="https://img.shields.io/github/stars/Aviksaikat/CVE-2016-0792">
+- [R0B1NL1N/java-deserialization-exploits](https://github.com/R0B1NL1N/java-deserialization-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/R0B1NL1N/java-deserialization-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/R0B1NL1N/java-deserialization-exploits">
+- [jpiechowka/jenkins-cve-2016-0792](https://github.com/jpiechowka/jenkins-cve-2016-0792)	<img alt="forks" src="https://img.shields.io/github/forks/jpiechowka/jenkins-cve-2016-0792">	<img alt="stars" src="https://img.shields.io/github/stars/jpiechowka/jenkins-cve-2016-0792">
+
+---
 ## CVE-2016-0778 (2016-01-14T22:59:00)
 > The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2, when certain proxy and forward options are enabled, do not properly maintain connection file descriptors, which allows remote servers to cause a denial of service (heap-based buffer overflow) or possibly have unspecified other impact by requesting many forwardings.
 - [Live-Hack-CVE/CVE-2016-0778](https://github.com/Live-Hack-CVE/CVE-2016-0778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0778">
