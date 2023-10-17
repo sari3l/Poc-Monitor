@@ -369,6 +369,7 @@
 ## CVE-2023-41993 (2023-09-21T19:15:00)
 > The issue was addressed with improved checks. This issue is fixed in Safari 17, iOS 16.7 and iPadOS 16.7, macOS Sonoma 14. Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 16.7.
 - [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/po6ix/POC-for-CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/po6ix/POC-for-CVE-2023-41993">
+- [hrtowii/cve-2023-41993-test](https://github.com/hrtowii/cve-2023-41993-test)	<img alt="forks" src="https://img.shields.io/github/forks/hrtowii/cve-2023-41993-test">	<img alt="stars" src="https://img.shields.io/github/stars/hrtowii/cve-2023-41993-test">
 
 ---
 ## CVE-2023-41892 (2023-09-13T20:15:00)
