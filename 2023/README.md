@@ -3794,6 +3794,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
  Cisco will provide updates on the status of this investigation and when a software patch is available.
 - [raystr-atearedteam/CVE-2023-20198-checker](https://github.com/raystr-atearedteam/CVE-2023-20198-checker)	<img alt="forks" src="https://img.shields.io/github/forks/raystr-atearedteam/CVE-2023-20198-checker">	<img alt="stars" src="https://img.shields.io/github/stars/raystr-atearedteam/CVE-2023-20198-checker">
 - [Atea-Redteam/CVE-2023-20198](https://github.com/Atea-Redteam/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Atea-Redteam/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Atea-Redteam/CVE-2023-20198">
+- [pypcod/CVE-2023-20198](https://github.com/pypcod/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/pypcod/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/pypcod/CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
