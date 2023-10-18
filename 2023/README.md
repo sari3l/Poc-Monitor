@@ -3856,6 +3856,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [cert-orangecyberdefense/Cisco_CVE-2023-20198](https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/cert-orangecyberdefense/Cisco_CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/cert-orangecyberdefense/Cisco_CVE-2023-20198">
 - [hackingyseguridad/nmap](https://github.com/hackingyseguridad/nmap)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/nmap">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/nmap">
 - [Tounsi007/CVE-2023-20198](https://github.com/Tounsi007/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Tounsi007/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Tounsi007/CVE-2023-20198">
+- [alekos3/CVE_2023_20198_Detector](https://github.com/alekos3/CVE_2023_20198_Detector)	<img alt="forks" src="https://img.shields.io/github/forks/alekos3/CVE_2023_20198_Detector">	<img alt="stars" src="https://img.shields.io/github/stars/alekos3/CVE_2023_20198_Detector">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
