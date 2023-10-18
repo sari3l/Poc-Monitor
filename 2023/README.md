@@ -3848,6 +3848,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [ZephrFish/Cisco-IOS-XE-Scanner](https://github.com/ZephrFish/Cisco-IOS-XE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Cisco-IOS-XE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Cisco-IOS-XE-Scanner">
 - [moonrockcowboy/CVE-2023-20198-scanner](https://github.com/moonrockcowboy/CVE-2023-20198-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/moonrockcowboy/CVE-2023-20198-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/moonrockcowboy/CVE-2023-20198-scanner">
 - [JoyGhoshs/CVE-2023-20198](https://github.com/JoyGhoshs/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/JoyGhoshs/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/JoyGhoshs/CVE-2023-20198">
+- [cert-orangecyberdefense/Cisco_CVE-2023-20198](https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/cert-orangecyberdefense/Cisco_CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/cert-orangecyberdefense/Cisco_CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
