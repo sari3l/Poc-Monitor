@@ -3810,6 +3810,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [securityphoenix/cisco-CVE-2023-20198-tester](https://github.com/securityphoenix/cisco-CVE-2023-20198-tester)	<img alt="forks" src="https://img.shields.io/github/forks/securityphoenix/cisco-CVE-2023-20198-tester">	<img alt="stars" src="https://img.shields.io/github/stars/securityphoenix/cisco-CVE-2023-20198-tester">
 - [emomeni/Simple-Ansible-for-CVE-2023-20198](https://github.com/emomeni/Simple-Ansible-for-CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/emomeni/Simple-Ansible-for-CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/emomeni/Simple-Ansible-for-CVE-2023-20198">
 - [ZephrFish/Cisco-IOS-XE-Scanner](https://github.com/ZephrFish/Cisco-IOS-XE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Cisco-IOS-XE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Cisco-IOS-XE-Scanner">
+- [moonrockcowboy/CVE-2023-20198-scanner](https://github.com/moonrockcowboy/CVE-2023-20198-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/moonrockcowboy/CVE-2023-20198-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/moonrockcowboy/CVE-2023-20198-scanner">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
