@@ -27,6 +27,16 @@
 - [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-5546">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-5546">
 
 ---
+## CVE-2023-5540 ()
+> 
+- [cli-ish/CVE-2023-5540](https://github.com/cli-ish/CVE-2023-5540)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-5540">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-5540">
+
+---
+## CVE-2023-5539 ()
+> 
+- [cli-ish/CVE-2023-5539](https://github.com/cli-ish/CVE-2023-5539)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-5539">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-5539">
+
+---
 ## CVE-2023-5521 (2023-10-11T12:15:00)
 > Incorrect Authorization in GitHub repository tiann/kernelsu prior to v0.6.9.
 - [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521)	<img alt="forks" src="https://img.shields.io/github/forks/Ylarod/CVE-2023-5521">	<img alt="stars" src="https://img.shields.io/github/stars/Ylarod/CVE-2023-5521">
@@ -2579,9 +2589,19 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/hba343434/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/hba343434/CVE-2023-28343">
 
 ---
+## CVE-2023-28330 (2023-03-23T21:15:00)
+> Insufficient sanitizing in backup resulted in an arbitrary file read risk. The capability to access this feature is only available to teachers, managers and admins by default.
+- [cli-ish/CVE-2023-28330](https://github.com/cli-ish/CVE-2023-28330)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-28330">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-28330">
+
+---
 ## CVE-2023-2833 (2023-06-06T10:15:00)
 > The ReviewX plugin for WordPress is vulnerable to privilege escalation in versions up to, and including, 1.6.13 due to insufficient restriction on the 'rx_set_screen_options' function. This makes it possible for authenticated attackers, with minimal permissions such as a subscriber, to modify their user role by supplying the 'wp_screen_options[option]' and 'wp_screen_options[value]' parameters during a screen option update.
 - [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-2833">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-2833">
+
+---
+## CVE-2023-28329 (2023-03-23T21:15:00)
+> Insufficient validation of profile field availability condition resulted in an SQL injection risk (by default only available to teachers and managers).
+- [cli-ish/CVE-2023-28329](https://github.com/cli-ish/CVE-2023-28329)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-28329">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-28329">
 
 ---
 ## CVE-2023-28310 (2023-06-14T15:15:00)
@@ -3827,6 +3847,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [emomeni/Simple-Ansible-for-CVE-2023-20198](https://github.com/emomeni/Simple-Ansible-for-CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/emomeni/Simple-Ansible-for-CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/emomeni/Simple-Ansible-for-CVE-2023-20198">
 - [ZephrFish/Cisco-IOS-XE-Scanner](https://github.com/ZephrFish/Cisco-IOS-XE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Cisco-IOS-XE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Cisco-IOS-XE-Scanner">
 - [moonrockcowboy/CVE-2023-20198-scanner](https://github.com/moonrockcowboy/CVE-2023-20198-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/moonrockcowboy/CVE-2023-20198-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/moonrockcowboy/CVE-2023-20198-scanner">
+- [JoyGhoshs/CVE-2023-20198](https://github.com/JoyGhoshs/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/JoyGhoshs/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/JoyGhoshs/CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
