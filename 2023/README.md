@@ -143,6 +143,11 @@
 - [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4631">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4631">
 
 ---
+## CVE-2023-45966 ()
+> 
+- [jet-pentest/CVE-2023-45966](https://github.com/jet-pentest/CVE-2023-45966)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2023-45966">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2023-45966">
+
+---
 ## CVE-2023-4596 (2023-08-30T02:15:00)
 > The Forminator plugin for WordPress is vulnerable to arbitrary file uploads due to file type validation occurring after a file has been uploaded to the server in the upload_post_image() function in versions up to, and including, 1.24.6. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596)	<img alt="forks" src="https://img.shields.io/github/forks/E1A/CVE-2023-4596">	<img alt="stars" src="https://img.shields.io/github/stars/E1A/CVE-2023-4596">
