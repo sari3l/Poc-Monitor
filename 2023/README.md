@@ -745,8 +745,24 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV)	<img alt="forks" src="https://img.shields.io/github/forks/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV">	<img alt="stars" src="https://img.shields.io/github/stars/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV">
 
 ---
-## CVE-2023-38545 ()
-> 
+## CVE-2023-38545 (2023-10-18T04:15:00)
+> This flaw makes curl overflow a heap based buffer in the SOCKS5 proxy
+handshake.
+
+When curl is asked to pass along the host name to the SOCKS5 proxy to allow
+that to resolve the address instead of it getting done by curl itself, the
+maximum length that host name can be is 255 bytes.
+
+If the host name is detected to be longer, curl switches to local name
+resolving and instead passes on the resolved address only. Due to this bug,
+the local variable that means "let the host resolve the name" could get the
+wrong value during a slow SOCKS5 handshake, and contrary to the intention,
+copy the too long host name to the target buffer instead of copying just the
+resolved address there.
+
+The target buffer being a heap based buffer, and the host name coming from the
+URL that curl has been told to operate with.
+
 - [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545)	<img alt="forks" src="https://img.shields.io/github/forks/UTsweetyfish/CVE-2023-38545">	<img alt="stars" src="https://img.shields.io/github/stars/UTsweetyfish/CVE-2023-38545">
 - [imfht/CVE-2023-38545](https://github.com/imfht/CVE-2023-38545)	<img alt="forks" src="https://img.shields.io/github/forks/imfht/CVE-2023-38545">	<img alt="stars" src="https://img.shields.io/github/stars/imfht/CVE-2023-38545">
 - [fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow](https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow)	<img alt="forks" src="https://img.shields.io/github/forks/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow">	<img alt="stars" src="https://img.shields.io/github/stars/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow">
