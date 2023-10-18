@@ -816,6 +816,11 @@
 - [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186)	<img alt="forks" src="https://img.shields.io/github/forks/0xhaggis/CVE-2021-44186">	<img alt="stars" src="https://img.shields.io/github/stars/0xhaggis/CVE-2021-44186">
 
 ---
+## CVE-2021-44168 (2022-01-04T13:15:00)
+> A download of code without integrity check vulnerability in the "execute restore src-vis" command of FortiOS before 7.0.3 may allow a local authenticated attacker to download arbitrary files on the device via specially crafted update packages.
+- [0xhaggis/CVE-2021-44168](https://github.com/0xhaggis/CVE-2021-44168)	<img alt="forks" src="https://img.shields.io/github/forks/0xhaggis/CVE-2021-44168">	<img alt="stars" src="https://img.shields.io/github/stars/0xhaggis/CVE-2021-44168">
+
+---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
 > ASUS RT-AX56U Wi-Fi Router is vulnerable to stack-based buffer overflow due to improper validation for httpd parameter length. An authenticated local area network attacker can launch arbitrary code execution to control the system or disrupt service.
 - [Expl0desploit/CVE-2021-44158](https://github.com/Expl0desploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2021-44158">
