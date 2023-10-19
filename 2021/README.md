@@ -2148,6 +2148,7 @@
 - [kap1ush0n/CVE-2021-41277](https://github.com/kap1ush0n/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/kap1ush0n/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/kap1ush0n/CVE-2021-41277">
 - [Seals6/CVE-2021-41277](https://github.com/Seals6/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Seals6/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Seals6/CVE-2021-41277">
 - [Henry4E36/Metabase-cve-2021-41277](https://github.com/Henry4E36/Metabase-cve-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Metabase-cve-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Metabase-cve-2021-41277">
+- [RubXkuB/PoC-Metabase-CVE-2021-41277](https://github.com/RubXkuB/PoC-Metabase-CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/RubXkuB/PoC-Metabase-CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/RubXkuB/PoC-Metabase-CVE-2021-41277">
 
 ---
 ## CVE-2021-4127 (2022-12-22T20:15:00)
