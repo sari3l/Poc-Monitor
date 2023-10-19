@@ -3760,6 +3760,11 @@ For more details, please review the linked advisory on this CVE.
 - [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">
 
 ---
+## CVE-2023-21109 (2023-05-15T22:15:00)
+> In multiple places of AccessibilityService, there is a possible way to hide the app from the user due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-261589597
+- [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109">
+
+---
 ## CVE-2023-21036 (2023-03-24T20:15:00)
 > In BitmapExport.java, there is a possible failure to truncate images due to a logic error in the code.Product: AndroidVersions: Android kernelAndroid ID: A-264261868References: N/A
 - [infobyte/CVE-2023-21036](https://github.com/infobyte/CVE-2023-21036)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/CVE-2023-21036">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/CVE-2023-21036">
