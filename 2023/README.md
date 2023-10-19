@@ -850,6 +850,11 @@ URL that curl has been told to operate with.
 - [gabe-k/themebleed](https://github.com/gabe-k/themebleed)	<img alt="forks" src="https://img.shields.io/github/forks/gabe-k/themebleed">	<img alt="stars" src="https://img.shields.io/github/stars/gabe-k/themebleed">
 
 ---
+## CVE-2023-38120 ()
+> 
+- [warber0x/CVE-2023-38120](https://github.com/warber0x/CVE-2023-38120)	<img alt="forks" src="https://img.shields.io/github/forks/warber0x/CVE-2023-38120">	<img alt="stars" src="https://img.shields.io/github/stars/warber0x/CVE-2023-38120">
+
+---
 ## CVE-2023-3812 (2023-07-24T16:15:00)
 > An out-of-bounds memory access flaw was found in the Linux kernel’s TUN/TAP device driver functionality in how a user generates a malicious (too big) networking packet when napi frags is enabled. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3812">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3812">
