@@ -7622,6 +7622,7 @@
 - [n2x4/Feb2023-CVE-2021-21974-OSINT](https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT)	<img alt="forks" src="https://img.shields.io/github/forks/n2x4/Feb2023-CVE-2021-21974-OSINT">	<img alt="stars" src="https://img.shields.io/github/stars/n2x4/Feb2023-CVE-2021-21974-OSINT">
 - [Shadow0ps/CVE-2021-21974](https://github.com/Shadow0ps/CVE-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow0ps/CVE-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow0ps/CVE-2021-21974">
 - [HynekPetrak/CVE-2019-5544_CVE-2020-3992](https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/CVE-2019-5544_CVE-2020-3992">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/CVE-2019-5544_CVE-2020-3992">
+- [hateme021202/cve-2021-21974](https://github.com/hateme021202/cve-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/hateme021202/cve-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/hateme021202/cve-2021-21974">
 
 ---
 ## CVE-2021-21972 (2021-02-24T17:15:00)
