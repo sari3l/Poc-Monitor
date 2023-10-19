@@ -153,6 +153,11 @@
 - [leekenghwa/CVE-2023-46003](https://github.com/leekenghwa/CVE-2023-46003)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-46003">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-46003">
 
 ---
+## CVE-2023-45992 ()
+> 
+- [harry935/CVE-2023-45992](https://github.com/harry935/CVE-2023-45992)	<img alt="forks" src="https://img.shields.io/github/forks/harry935/CVE-2023-45992">	<img alt="stars" src="https://img.shields.io/github/stars/harry935/CVE-2023-45992">
+
+---
 ## CVE-2023-45966 ()
 > 
 - [jet-pentest/CVE-2023-45966](https://github.com/jet-pentest/CVE-2023-45966)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2023-45966">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2023-45966">
