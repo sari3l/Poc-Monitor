@@ -153,8 +153,8 @@
 - [leekenghwa/CVE-2023-46003](https://github.com/leekenghwa/CVE-2023-46003)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-46003">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-46003">
 
 ---
-## CVE-2023-45992 ()
-> 
+## CVE-2023-45992 (2023-10-19T19:15:00)
+> Cross Site Scripting vulnerability in Ruckus Wireless (CommScope) Ruckus CloudPath v.5.12.54414 allows a remote attacker to escalate privileges via a crafted script to the macaddress parameter in the onboarding portal.
 - [harry935/CVE-2023-45992](https://github.com/harry935/CVE-2023-45992)	<img alt="forks" src="https://img.shields.io/github/forks/harry935/CVE-2023-45992">	<img alt="stars" src="https://img.shields.io/github/stars/harry935/CVE-2023-45992">
 
 ---
