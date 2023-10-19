@@ -6520,6 +6520,11 @@
 - [Live-Hack-CVE/CVE-2021-25746](https://github.com/Live-Hack-CVE/CVE-2021-25746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25746">
 
 ---
+## CVE-2021-25741 (2021-09-20T17:15:00)
+> A security issue was discovered in Kubernetes where a user may be able to create a container with subpath volume mounts to access files & directories outside of the volume, including on the host filesystem.
+- [cdxiaodong/CVE-2021-25741](https://github.com/cdxiaodong/CVE-2021-25741)	<img alt="forks" src="https://img.shields.io/github/forks/cdxiaodong/CVE-2021-25741">	<img alt="stars" src="https://img.shields.io/github/stars/cdxiaodong/CVE-2021-25741">
+
+---
 ## CVE-2021-25738 (2021-10-11T19:15:00)
 > Loading specially-crafted yaml with the Kubernetes Java Client library can lead to code execution.
 - [Live-Hack-CVE/CVE-2021-25738](https://github.com/Live-Hack-CVE/CVE-2021-25738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25738">
