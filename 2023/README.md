@@ -1821,6 +1821,11 @@ An application is not vulnerable if any of the following is true:
 - [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33565">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33565">
 
 ---
+## CVE-2023-33517 ()
+> 
+- [wushigudan/CVE-2023-33517](https://github.com/wushigudan/CVE-2023-33517)	<img alt="forks" src="https://img.shields.io/github/forks/wushigudan/CVE-2023-33517">	<img alt="stars" src="https://img.shields.io/github/stars/wushigudan/CVE-2023-33517">
+
+---
 ## CVE-2023-33477 (2023-06-06T20:15:00)
 > In Harmonic NSG 9000-6G devices, an authenticated remote user can obtain source code by directly requesting a special path.
 - [Skr11lex/CVE-2023-33477](https://github.com/Skr11lex/CVE-2023-33477)	<img alt="forks" src="https://img.shields.io/github/forks/Skr11lex/CVE-2023-33477">	<img alt="stars" src="https://img.shields.io/github/stars/Skr11lex/CVE-2023-33477">
