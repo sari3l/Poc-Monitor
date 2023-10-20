@@ -380,6 +380,7 @@
 
 - [HolyGu/CVE-2023-42442](https://github.com/HolyGu/CVE-2023-42442)	<img alt="forks" src="https://img.shields.io/github/forks/HolyGu/CVE-2023-42442">	<img alt="stars" src="https://img.shields.io/github/stars/HolyGu/CVE-2023-42442">
 - [C1ph3rX13/CVE-2023-42442](https://github.com/C1ph3rX13/CVE-2023-42442)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-42442">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-42442">
+- [tarimoe/blackjump](https://github.com/tarimoe/blackjump)	<img alt="forks" src="https://img.shields.io/github/forks/tarimoe/blackjump">	<img alt="stars" src="https://img.shields.io/github/stars/tarimoe/blackjump">
 
 ---
 ## CVE-2023-42426 (2023-09-25T21:15:00)
