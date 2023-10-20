@@ -2619,6 +2619,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [CHINA-china/MinIO_CVE-2023-28432_EXP](https://github.com/CHINA-china/MinIO_CVE-2023-28432_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/CHINA-china/MinIO_CVE-2023-28432_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/CHINA-china/MinIO_CVE-2023-28432_EXP">
 - [TaroballzChen/CVE-2023-28432-metasploit-scanner](https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/CVE-2023-28432-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/CVE-2023-28432-metasploit-scanner">
 - [bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/CVE-2023-28432">
+- [yTxZx/CVE-2023-28432](https://github.com/yTxZx/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/yTxZx/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/yTxZx/CVE-2023-28432">
+- [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
