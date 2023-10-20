@@ -379,6 +379,7 @@
 > JumpServer is an open source bastion host and a professional operation and maintenance security audit system. Starting in version 3.0.0 and prior to versions 3.5.5 and 3.6.4, session replays can download without authentication. Session replays stored in S3, OSS, or other cloud storage are not affected. The api `/api/v1/terminal/sessions/` permission control is broken and can be accessed anonymously. SessionViewSet permission classes set to `[RBACPermission | IsSessionAssignee]`, relation is or, so any permission matched will be allowed. Versions 3.5.5 and 3.6.4 have a fix. After upgrading, visit the api `$HOST/api/v1/terminal/sessions/?limit=1`. The expected http response code is 401 (`not_authenticated`).
 
 - [HolyGu/CVE-2023-42442](https://github.com/HolyGu/CVE-2023-42442)	<img alt="forks" src="https://img.shields.io/github/forks/HolyGu/CVE-2023-42442">	<img alt="stars" src="https://img.shields.io/github/stars/HolyGu/CVE-2023-42442">
+- [C1ph3rX13/CVE-2023-42442](https://github.com/C1ph3rX13/CVE-2023-42442)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-42442">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-42442">
 
 ---
 ## CVE-2023-42426 (2023-09-25T21:15:00)
@@ -3528,6 +3529,7 @@ For more details, please review the linked advisory on this CVE.
 - [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-22515">
 - [Vulnmachines/confluence-cve-2023-22515](https://github.com/Vulnmachines/confluence-cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/confluence-cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/confluence-cve-2023-22515">
 - [iveresk/CVE-2023-22515](https://github.com/iveresk/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2023-22515">
+- [youcannotseemeagain/CVE-2023-22515_RCE](https://github.com/youcannotseemeagain/CVE-2023-22515_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/youcannotseemeagain/CVE-2023-22515_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/youcannotseemeagain/CVE-2023-22515_RCE">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
