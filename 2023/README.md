@@ -619,6 +619,11 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Arajawat007/CVE-2023-39710](https://github.com/Arajawat007/CVE-2023-39710)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39710">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39710">
 
 ---
+## CVE-2023-3971 (2023-10-04T15:15:00)
+> An HTML injection flaw was found in Controller in the user interface settings. This flaw allows an attacker to capture credentials by creating a custom login page by injecting HTML, resulting in a complete compromise.
+- [ashangp923/CVE-2023-3971](https://github.com/ashangp923/CVE-2023-3971)	<img alt="forks" src="https://img.shields.io/github/forks/ashangp923/CVE-2023-3971">	<img alt="stars" src="https://img.shields.io/github/stars/ashangp923/CVE-2023-3971">
+
+---
 ## CVE-2023-39709 (2023-08-28T19:15:00)
 > Multiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Name, Address, and Company parameters under the Add Member section.
 - [Arajawat007/CVE-2023-39709](https://github.com/Arajawat007/CVE-2023-39709)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39709">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39709">
