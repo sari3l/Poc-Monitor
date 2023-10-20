@@ -194,8 +194,8 @@
 - [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4549">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4549">
 
 ---
-## CVE-2023-45471 ()
-> 
+## CVE-2023-45471 (2023-10-20T04:15:00)
+> The QAD Search Server is vulnerable to Stored Cross-Site Scripting (XSS) in versions up to, and including, 1.0.0.315 due to insufficient checks on indexes. This makes it possible for unauthenticated attackers to create a new index and inject a malicious web script into its name, that will execute whenever a user accesses the search page.
 - [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471)	<img alt="forks" src="https://img.shields.io/github/forks/itsAptx/CVE-2023-45471">	<img alt="stars" src="https://img.shields.io/github/stars/itsAptx/CVE-2023-45471">
 
 ---
