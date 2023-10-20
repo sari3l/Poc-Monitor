@@ -1701,6 +1701,12 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/Thruk-CVE-2023-34096">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/Thruk-CVE-2023-34096">
 
 ---
+## CVE-2023-34051 (2023-10-20T05:15:00)
+> VMware Aria Operations for Logs contains an authentication bypass vulnerability. An unauthenticated, malicious actor can inject files into the operating system of an impacted appliance which can result in remote code execution.
+
+- [horizon3ai/CVE-2023-34051](https://github.com/horizon3ai/CVE-2023-34051)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-34051">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-34051">
+
+---
 ## CVE-2023-34040 (2023-08-24T13:15:00)
 > In Spring for Apache Kafka 3.0.9 and earlier and versions 2.9.10 and earlier, a possible deserialization attack vector existed, but only if unusual configuration was applied. An attacker would have to construct a malicious serialized object in one of the deserialization exception record headers.
 
