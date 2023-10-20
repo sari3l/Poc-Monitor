@@ -3799,6 +3799,7 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-20963 (2023-03-24T20:15:00)
 > In WorkSource, there is a possible parcel mismatch. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-220302519
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963">
+- [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel)	<img alt="forks" src="https://img.shields.io/github/forks/Chal13W1zz/BadParcel">	<img alt="stars" src="https://img.shields.io/github/stars/Chal13W1zz/BadParcel">
 
 ---
 ## CVE-2023-20944 (2023-02-28T17:15:00)
