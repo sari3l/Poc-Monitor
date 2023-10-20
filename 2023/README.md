@@ -418,6 +418,7 @@
 - [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/po6ix/POC-for-CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/po6ix/POC-for-CVE-2023-41993">
 - [hrtowii/cve-2023-41993-test](https://github.com/hrtowii/cve-2023-41993-test)	<img alt="forks" src="https://img.shields.io/github/forks/hrtowii/cve-2023-41993-test">	<img alt="stars" src="https://img.shields.io/github/stars/hrtowii/cve-2023-41993-test">
 - [0x06060606/CVE-2023-41993](https://github.com/0x06060606/CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/0x06060606/CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/0x06060606/CVE-2023-41993">
+- [Mangaia/cve-test](https://github.com/Mangaia/cve-test)	<img alt="forks" src="https://img.shields.io/github/forks/Mangaia/cve-test">	<img alt="stars" src="https://img.shields.io/github/stars/Mangaia/cve-test">
 
 ---
 ## CVE-2023-41892 (2023-09-13T20:15:00)
