@@ -234,6 +234,11 @@
 - [Live-Hack-CVE/CVE-2017-7494](https://github.com/Live-Hack-CVE/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7494">
 
 ---
+## CVE-2017-7410 (2017-04-03T22:59:00)
+> Multiple SQL injection vulnerabilities in account/signup.php and account/signup2.php in WebsiteBaker 2.10.0 and earlier allow remote attackers to execute arbitrary SQL commands via the (1) username, (2) display_name parameter.
+- [ashangp923/CVE-2017-7410](https://github.com/ashangp923/CVE-2017-7410)	<img alt="forks" src="https://img.shields.io/github/forks/ashangp923/CVE-2017-7410">	<img alt="stars" src="https://img.shields.io/github/stars/ashangp923/CVE-2017-7410">
+
+---
 ## CVE-2017-7358 (2017-04-05T06:59:00)
 > In LightDM through 1.22.0, a directory traversal issue in debian/guest-account.sh allows local attackers to own arbitrary directory path locations and escalate privileges to root when the guest user logs out.
 - [JonPichel/CVE-2017-7358](https://github.com/JonPichel/CVE-2017-7358)	<img alt="forks" src="https://img.shields.io/github/forks/JonPichel/CVE-2017-7358">	<img alt="stars" src="https://img.shields.io/github/stars/JonPichel/CVE-2017-7358">
