@@ -3604,6 +3604,7 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-21931 (2023-04-18T20:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3 to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [MMarch7/weblogic_CVE-2023-21931_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21931_POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/MMarch7/weblogic_CVE-2023-21931_POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/MMarch7/weblogic_CVE-2023-21931_POC-EXP">
+- [gobysec/Weblogic](https://github.com/gobysec/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Weblogic">
 
 ---
 ## CVE-2023-21839 (2023-01-18T00:15:00)
