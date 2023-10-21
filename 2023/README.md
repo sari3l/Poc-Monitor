@@ -148,8 +148,8 @@
 - [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4631">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4631">
 
 ---
-## CVE-2023-46003 ()
-> 
+## CVE-2023-46003 (2023-10-21T01:15:00)
+> I-doit pro 25 and below is vulnerable to Cross Site Scripting (XSS) via index.php.
 - [leekenghwa/CVE-2023-46003](https://github.com/leekenghwa/CVE-2023-46003)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-46003">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-46003">
 
 ---
