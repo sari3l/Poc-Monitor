@@ -3571,6 +3571,7 @@ For more details, please review the linked advisory on this CVE.
 - [youcannotseemeagain/CVE-2023-22515_RCE](https://github.com/youcannotseemeagain/CVE-2023-22515_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/youcannotseemeagain/CVE-2023-22515_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/youcannotseemeagain/CVE-2023-22515_RCE">
 - [DsaHen/cve-2023-22515-exp](https://github.com/DsaHen/cve-2023-22515-exp)	<img alt="forks" src="https://img.shields.io/github/forks/DsaHen/cve-2023-22515-exp">	<img alt="stars" src="https://img.shields.io/github/stars/DsaHen/cve-2023-22515-exp">
 - [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-22515">
+- [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-22515">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
