@@ -5621,7 +5621,7 @@
 - [Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Zoo1sondv/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Zoo1sondv/CVE-2021-3129">
 - [miko550/CVE-2021-3129](https://github.com/miko550/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2021-3129">
 - [withmasday/CVE-2021-3129](https://github.com/withmasday/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/withmasday/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/withmasday/CVE-2021-3129">
-- [banyaksepuh/CVE-2021-3129-Mass_Scanner](https://github.com/banyaksepuh/CVE-2021-3129-Mass_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/banyaksepuh/CVE-2021-3129-Mass_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/banyaksepuh/CVE-2021-3129-Mass_Scanner">
+- [banyaksepuh/Mass-CVE-2021-3129-Scanner](https://github.com/banyaksepuh/Mass-CVE-2021-3129-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/banyaksepuh/Mass-CVE-2021-3129-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/banyaksepuh/Mass-CVE-2021-3129-Scanner">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)
