@@ -803,6 +803,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [birdm4nw/CVE-2023-38646](https://github.com/birdm4nw/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/birdm4nw/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/birdm4nw/CVE-2023-38646">
 - [Aakash9111/CVE-2023-38646-ReverseShell](https://github.com/Aakash9111/CVE-2023-38646-ReverseShell)	<img alt="forks" src="https://img.shields.io/github/forks/Aakash9111/CVE-2023-38646-ReverseShell">	<img alt="stars" src="https://img.shields.io/github/stars/Aakash9111/CVE-2023-38646-ReverseShell">
 - [AnvithLobo/CVE-2023-38646](https://github.com/AnvithLobo/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/AnvithLobo/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/AnvithLobo/CVE-2023-38646">
+- [entr0pie/CVE-2023-38646](https://github.com/entr0pie/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/entr0pie/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/entr0pie/CVE-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -3569,6 +3570,7 @@ For more details, please review the linked advisory on this CVE.
 - [iveresk/CVE-2023-22515](https://github.com/iveresk/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2023-22515">
 - [youcannotseemeagain/CVE-2023-22515_RCE](https://github.com/youcannotseemeagain/CVE-2023-22515_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/youcannotseemeagain/CVE-2023-22515_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/youcannotseemeagain/CVE-2023-22515_RCE">
 - [DsaHen/cve-2023-22515-exp](https://github.com/DsaHen/cve-2023-22515-exp)	<img alt="forks" src="https://img.shields.io/github/forks/DsaHen/cve-2023-22515-exp">	<img alt="stars" src="https://img.shields.io/github/stars/DsaHen/cve-2023-22515-exp">
+- [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-22515">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
