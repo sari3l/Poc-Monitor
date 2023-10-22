@@ -5141,6 +5141,15 @@
 - [Live-Hack-CVE/CVE-2021-33060](https://github.com/Live-Hack-CVE/CVE-2021-33060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33060">
 
 ---
+## CVE-2021-33044 (2021-09-15T22:15:00)
+> The identity authentication bypass vulnerability found in some Dahua products during the login process. Attackers can bypass device identity authentication by constructing malicious data packets.
+- [haingn/LoHongCam-CVE-2021-33044](https://github.com/haingn/LoHongCam-CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/LoHongCam-CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/LoHongCam-CVE-2021-33044">
+- [jorhelp/Ingram](https://github.com/jorhelp/Ingram)	<img alt="forks" src="https://img.shields.io/github/forks/jorhelp/Ingram">	<img alt="stars" src="https://img.shields.io/github/stars/jorhelp/Ingram">
+- [Alonzozzz/alonzzzo](https://github.com/Alonzozzz/alonzzzo)	<img alt="forks" src="https://img.shields.io/github/forks/Alonzozzz/alonzzzo">	<img alt="stars" src="https://img.shields.io/github/stars/Alonzozzz/alonzzzo">
+- [dorkerdevil/CVE-2021-33044](https://github.com/dorkerdevil/CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-33044">
+- [bp2008/DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass)	<img alt="forks" src="https://img.shields.io/github/forks/bp2008/DahuaLoginBypass">	<img alt="stars" src="https://img.shields.io/github/stars/bp2008/DahuaLoginBypass">
+
+---
 ## CVE-2021-33037 (2021-07-12T15:15:00)
 > Apache Tomcat 10.0.0-M1 to 10.0.6, 9.0.0.M1 to 9.0.46 and 8.5.0 to 8.5.66 did not correctly parse the HTTP transfer-encoding request header in some circumstances leading to the possibility to request smuggling when used with a reverse proxy. Specifically: - Tomcat incorrectly ignored the transfer encoding header if the client declared it would only accept an HTTP/1.0 response; - Tomcat honoured the identify encoding; and - Tomcat did not ensure that, if present, the chunked encoding was the final encoding.
 - [Live-Hack-CVE/CVE-2021-33037](https://github.com/Live-Hack-CVE/CVE-2021-33037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33037">
