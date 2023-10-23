@@ -1470,6 +1470,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-35801">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-35801">
 
 ---
+## CVE-2023-35794 ()
+> 
+- [Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking](https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking)	<img alt="forks" src="https://img.shields.io/github/forks/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking">	<img alt="stars" src="https://img.shields.io/github/stars/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking">
+
+---
 ## CVE-2023-35793 (2023-09-27T15:18:00)
 > An issue was discovered in Cassia Access Controller 2.1.1.2303271039. Establishing a web SSH session to gateways is vulnerable to Cross Site Request Forgery (CSRF) attacks.
 - [Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH](https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH)	<img alt="forks" src="https://img.shields.io/github/forks/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH">	<img alt="stars" src="https://img.shields.io/github/stars/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH">
