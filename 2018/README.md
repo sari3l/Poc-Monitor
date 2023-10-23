@@ -46,6 +46,11 @@
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
 
 ---
+## CVE-2018-7845 (2019-05-22T20:29:00)
+> A CWE-125: Out-of-bounds Read vulnerability exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum, and Modicon Premium which could cause the disclosure of unexpected data from the controller when reading specific memory blocks in the controller over Modbus.
+- [yanissec/CVE-2018-7845](https://github.com/yanissec/CVE-2018-7845)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7845">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7845">
+
+---
 ## CVE-2018-7844 (2019-05-22T21:29:00)
 > A CWE-200: Information Exposure vulnerability exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum, and Modicon Premium which could cause the disclosure of SNMP information when reading memory blocks from the controller over Modbus.
 - [yanissec/CVE-2018-7844](https://github.com/yanissec/CVE-2018-7844)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7844">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7844">
