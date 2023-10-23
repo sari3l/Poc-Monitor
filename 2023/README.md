@@ -154,6 +154,11 @@
 - [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4631">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4631">
 
 ---
+## CVE-2023-46197 ()
+> 
+- [RandomRobbieBF/CVE-2023-46197](https://github.com/RandomRobbieBF/CVE-2023-46197)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-46197">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-46197">
+
+---
 ## CVE-2023-46003 (2023-10-21T01:15:00)
 > I-doit pro 25 and below is vulnerable to Cross Site Scripting (XSS) via index.php.
 - [leekenghwa/CVE-2023-46003](https://github.com/leekenghwa/CVE-2023-46003)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-46003">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-46003">
@@ -3634,6 +3639,7 @@ For more details, please review the linked advisory on this CVE.
 - [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kw3h4/CVE-2023-21839-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kw3h4/CVE-2023-21839-metasploit-scanner">
 - [AKuzmanHSCS/Microsoft-Exchange-RCE](https://github.com/AKuzmanHSCS/Microsoft-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AKuzmanHSCS/Microsoft-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AKuzmanHSCS/Microsoft-Exchange-RCE">
 - [RShahHSCS/Discord-0-Day-Exploit](https://github.com/RShahHSCS/Discord-0-Day-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RShahHSCS/Discord-0-Day-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RShahHSCS/Discord-0-Day-Exploit">
+- [MMarch7/weblogic_CVE-2023-21839_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/MMarch7/weblogic_CVE-2023-21839_POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/MMarch7/weblogic_CVE-2023-21839_POC-EXP">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
