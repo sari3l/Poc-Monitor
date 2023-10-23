@@ -3640,6 +3640,7 @@ For more details, please review the linked advisory on this CVE.
 - [AKuzmanHSCS/Microsoft-Exchange-RCE](https://github.com/AKuzmanHSCS/Microsoft-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AKuzmanHSCS/Microsoft-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AKuzmanHSCS/Microsoft-Exchange-RCE">
 - [RShahHSCS/Discord-0-Day-Exploit](https://github.com/RShahHSCS/Discord-0-Day-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RShahHSCS/Discord-0-Day-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RShahHSCS/Discord-0-Day-Exploit">
 - [MMarch7/weblogic_CVE-2023-21839_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/MMarch7/weblogic_CVE-2023-21839_POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/MMarch7/weblogic_CVE-2023-21839_POC-EXP">
+- [ASkyeye/CVE-2023-21839](https://github.com/ASkyeye/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/ASkyeye/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/ASkyeye/CVE-2023-21839">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
