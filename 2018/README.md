@@ -46,6 +46,11 @@
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
 
 ---
+## CVE-2018-7846 (2019-05-22T20:29:00)
+> A CWE-501: Trust Boundary Violation vulnerability on connection to the Controller exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum and Modicon Premium which could cause unauthorized access by conducting a brute force attack on Modbus protocol to the controller.
+- [yanissec/CVE-2018-7846](https://github.com/yanissec/CVE-2018-7846)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7846">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7846">
+
+---
 ## CVE-2018-7845 (2019-05-22T20:29:00)
 > A CWE-125: Out-of-bounds Read vulnerability exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum, and Modicon Premium which could cause the disclosure of unexpected data from the controller when reading specific memory blocks in the controller over Modbus.
 - [yanissec/CVE-2018-7845](https://github.com/yanissec/CVE-2018-7845)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7845">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7845">
