@@ -744,6 +744,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [malvika-thakur/CVE-2023-38831](https://github.com/malvika-thakur/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2023-38831">
 - [ruycr4ft/CVE-2023-38831](https://github.com/ruycr4ft/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/ruycr4ft/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/ruycr4ft/CVE-2023-38831">
 - [Nielk74/CVE-2023-38831](https://github.com/Nielk74/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/Nielk74/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/Nielk74/CVE-2023-38831">
+- [kehrijksen/CVE-2023-38831](https://github.com/kehrijksen/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/kehrijksen/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/kehrijksen/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
@@ -1891,8 +1892,8 @@ An application is not vulnerable if any of the following is true:
 - [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33565">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33565">
 
 ---
-## CVE-2023-33517 ()
-> 
+## CVE-2023-33517 (2023-10-23T23:15:00)
+> carRental 1.0 is vulnerable to Incorrect Access Control (Arbitrary File Read on the Back-end System).
 - [wushigudan/CVE-2023-33517](https://github.com/wushigudan/CVE-2023-33517)	<img alt="forks" src="https://img.shields.io/github/forks/wushigudan/CVE-2023-33517">	<img alt="stars" src="https://img.shields.io/github/stars/wushigudan/CVE-2023-33517">
 
 ---
