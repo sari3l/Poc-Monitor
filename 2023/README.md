@@ -109,6 +109,7 @@
 - [ruycr4ft/CVE-2023-4911](https://github.com/ruycr4ft/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/ruycr4ft/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/ruycr4ft/CVE-2023-4911">
 - [guffre/CVE-2023-4911](https://github.com/guffre/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/guffre/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/guffre/CVE-2023-4911">
 - [chaudharyarjun/LooneyPwner](https://github.com/chaudharyarjun/LooneyPwner)	<img alt="forks" src="https://img.shields.io/github/forks/chaudharyarjun/LooneyPwner">	<img alt="stars" src="https://img.shields.io/github/stars/chaudharyarjun/LooneyPwner">
+- [KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-](https://github.com/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-)	<img alt="forks" src="https://img.shields.io/github/forks/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-">	<img alt="stars" src="https://img.shields.io/github/stars/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-">
 
 ---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
