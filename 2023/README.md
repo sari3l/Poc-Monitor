@@ -80,6 +80,15 @@
 - [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
 
 ---
+## CVE-2023-4966 (2023-10-10T14:15:00)
+> Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA ?virtual?server. 
+
+
+
+
+- [Chocapikk/CVE-2023-4966](https://github.com/Chocapikk/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-4966">
+
+---
 ## CVE-2023-4951 (2023-09-14T17:15:00)
 > A cross site scripting issue was discovered with the pagination function on the "Client-based Authentication Policy Configuration" screen of the GreenRADIUS web admin interface. This issue is found in GreenRADIUS v5.1.1.1 and prior. A fix was included in v5.1.2.2.
 
