@@ -314,6 +314,11 @@
 - [Live-Hack-CVE/CVE-2018-5747](https://github.com/Live-Hack-CVE/CVE-2018-5747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5747">
 
 ---
+## CVE-2018-5333 (2018-01-11T07:29:00)
+> In the Linux kernel through 4.14.13, the rds_cmsg_atomic function in net/rds/rdma.c mishandles cases where page pinning fails or an invalid address is supplied, leading to an rds_atomic_free_op NULL pointer dereference.
+- [hoanganh2k/cve-2018-5333](https://github.com/hoanganh2k/cve-2018-5333)	<img alt="forks" src="https://img.shields.io/github/forks/hoanganh2k/cve-2018-5333">	<img alt="stars" src="https://img.shields.io/github/stars/hoanganh2k/cve-2018-5333">
+
+---
 ## CVE-2018-5332 (2018-01-11T07:29:00)
 > In the Linux kernel through 3.2, the rds_message_alloc_sgs() function does not validate a value that is used during DMA page allocation, leading to a heap-based out-of-bounds write (related to the rds_rdma_extra_size function in net/rds/rdma.c).
 - [Live-Hack-CVE/CVE-2018-5332](https://github.com/Live-Hack-CVE/CVE-2018-5332)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5332">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5332">
