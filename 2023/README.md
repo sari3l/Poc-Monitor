@@ -1036,6 +1036,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [Malayke/CVE-2023-37582_EXPLOIT](https://github.com/Malayke/CVE-2023-37582_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2023-37582_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2023-37582_EXPLOIT">
 
 ---
+## CVE-2023-37478 (2023-08-01T12:15:00)
+> pnpm is a package manager. It is possible to construct a tarball that, when installed via npm or parsed by the registry is safe, but when installed via pnpm is malicious, due to how pnpm parses tar archives. This can result in a package that appears safe on the npm registry or when installed via npm being replaced with a compromised or malicious version when installed via pnpm. This issue has been patched in version(s) 7.33.4 and 8.6.8.
+- [TrevorGKann/CVE-2023-37478_npm_vs_pnpm](https://github.com/TrevorGKann/CVE-2023-37478_npm_vs_pnpm)	<img alt="forks" src="https://img.shields.io/github/forks/TrevorGKann/CVE-2023-37478_npm_vs_pnpm">	<img alt="stars" src="https://img.shields.io/github/stars/TrevorGKann/CVE-2023-37478_npm_vs_pnpm">
+
+---
 ## CVE-2023-37474 (2023-07-14T20:15:00)
 > Copyparty is a portable file server. Versions prior to 1.8.2 are subject to a path traversal vulnerability detected in the `.cpr` subfolder. The Path Traversal attack technique allows an attacker access to files, directories, and commands that reside outside the web document root directory. This issue has been addressed in commit `043e3c7d` which has been included in release 1.8.2. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [ilqarli27/CVE-2023-37474](https://github.com/ilqarli27/CVE-2023-37474)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37474">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37474">
