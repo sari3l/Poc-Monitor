@@ -3882,6 +3882,11 @@ For more details, please review the linked advisory on this CVE.
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097">
 
 ---
+## CVE-2023-21094 (2023-04-19T20:15:00)
+> In sanitize of LayerState.cpp, there is a possible way to take over the screen display and swap the display content due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-248031255
+- [Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094](https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094">
+
+---
 ## CVE-2023-21036 (2023-03-24T20:15:00)
 > In BitmapExport.java, there is a possible failure to truncate images due to a logic error in the code.Product: AndroidVersions: Android kernelAndroid ID: A-264261868References: N/A
 - [infobyte/CVE-2023-21036](https://github.com/infobyte/CVE-2023-21036)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/CVE-2023-21036">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/CVE-2023-21036">
