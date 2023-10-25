@@ -3363,6 +3363,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [k0valskia/CVE-2023-23752](https://github.com/k0valskia/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/k0valskia/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/k0valskia/CVE-2023-23752">
 - [yTxZx/CVE-2023-23752](https://github.com/yTxZx/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/yTxZx/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/yTxZx/CVE-2023-23752">
 - [AlissoftCodes/CVE-2023-23752](https://github.com/AlissoftCodes/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/AlissoftCodes/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/AlissoftCodes/CVE-2023-23752">
+- [Pushkarup/CVE-2023-23752](https://github.com/Pushkarup/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-23752">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)
