@@ -1972,6 +1972,11 @@
 - [Live-Hack-CVE/CVE-2019-16685](https://github.com/Live-Hack-CVE/CVE-2019-16685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16685">
 
 ---
+## CVE-2019-1663 (2019-02-28T18:29:00)
+> A vulnerability in the web-based management interface of the Cisco RV110W Wireless-N VPN Firewall, Cisco RV130W Wireless-N Multifunction VPN Router, and Cisco RV215W Wireless-N VPN Router could allow an unauthenticated, remote attacker to execute arbitrary code on an affected device. The vulnerability is due to improper validation of user-supplied data in the web-based management interface. An attacker could exploit this vulnerability by sending malicious HTTP requests to a targeted device. A successful exploit could allow the attacker to execute arbitrary code on the underlying operating system of the affected device as a high-privilege user. RV110W Wireless-N VPN Firewall versions prior to 1.2.2.1 are affected. RV130W Wireless-N Multifunction VPN Router versions prior to 1.0.3.45 are affected. RV215W Wireless-N VPN Router versions prior to 1.3.1.1 are affected.
+- [StealYourCode/CVE-2019-1663](https://github.com/StealYourCode/CVE-2019-1663)	<img alt="forks" src="https://img.shields.io/github/forks/StealYourCode/CVE-2019-1663">	<img alt="stars" src="https://img.shields.io/github/stars/StealYourCode/CVE-2019-1663">
+
+---
 ## CVE-2019-1653 (2019-01-24T16:29:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers could allow an unauthenticated, remote attacker to retrieve sensitive information. The vulnerability is due to improper access controls for URLs. An attacker could exploit this vulnerability by connecting to an affected device via HTTP or HTTPS and requesting specific URLs. A successful exploit could allow the attacker to download the router configuration or detailed diagnostic information. Cisco has released firmware updates that address this vulnerability.
 - [ibrahimzx/CVE-2019-1653](https://github.com/ibrahimzx/CVE-2019-1653)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimzx/CVE-2019-1653">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimzx/CVE-2019-1653">
