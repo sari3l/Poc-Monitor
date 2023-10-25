@@ -4048,6 +4048,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Shadow0ps/CVE-2023-20198-Scanner](https://github.com/Shadow0ps/CVE-2023-20198-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow0ps/CVE-2023-20198-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow0ps/CVE-2023-20198-Scanner">
 - [kacem-expereo/CVE-2023-20198](https://github.com/kacem-expereo/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/kacem-expereo/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/kacem-expereo/CVE-2023-20198">
 - [mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner](https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner">
+- [ohlawd/CVE-2023-20198](https://github.com/ohlawd/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/ohlawd/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/ohlawd/CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
