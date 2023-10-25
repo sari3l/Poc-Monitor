@@ -6305,6 +6305,11 @@
 - [Live-Hack-CVE/CVE-2021-27219](https://github.com/Live-Hack-CVE/CVE-2021-27219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27219">
 
 ---
+## CVE-2021-27198 (2021-02-26T23:15:00)
+> An issue was discovered in Visualware MyConnection Server before v11.1a. Unauthenticated Remote Code Execution can occur via Arbitrary File Upload in the web service when using a myspeed/sf?filename= URI. This application is written in Java and is thus cross-platform. The Windows installation runs as SYSTEM, which means that exploitation gives one Administrator privileges on the target system.
+- [rwincey/CVE-2021-27198](https://github.com/rwincey/CVE-2021-27198)	<img alt="forks" src="https://img.shields.io/github/forks/rwincey/CVE-2021-27198">	<img alt="stars" src="https://img.shields.io/github/stars/rwincey/CVE-2021-27198">
+
+---
 ## CVE-2021-27077 (2021-03-11T16:15:00)
 > Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-26863, CVE-2021-26875, CVE-2021-26900.
 - [peteribi/CVE-2021-27077](https://github.com/peteribi/CVE-2021-27077)	<img alt="forks" src="https://img.shields.io/github/forks/peteribi/CVE-2021-27077">	<img alt="stars" src="https://img.shields.io/github/stars/peteribi/CVE-2021-27077">
