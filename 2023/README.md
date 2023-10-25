@@ -288,6 +288,11 @@
 - [knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/knight0x07/CVE-2023-43770-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/knight0x07/CVE-2023-43770-PoC">
 
 ---
+## CVE-2023-43641 (2023-10-09T22:15:00)
+> libcue provides an API for parsing and extracting data from CUE sheets. Versions 2.2.1 and prior are vulnerable to out-of-bounds array access. A user of the GNOME desktop environment can be exploited by downloading a cue sheet from a malicious webpage. Because the file is saved to `~/Downloads`, it is then automatically scanned by tracker-miners. And because it has a .cue filename extension, tracker-miners use libcue to parse the file. The file exploits the vulnerability in libcue to gain code execution. This issue is patched in version 2.3.0.
+- [ItsMagick/CVE-2023-43641](https://github.com/ItsMagick/CVE-2023-43641)	<img alt="forks" src="https://img.shields.io/github/forks/ItsMagick/CVE-2023-43641">	<img alt="stars" src="https://img.shields.io/github/stars/ItsMagick/CVE-2023-43641">
+
+---
 ## CVE-2023-4350 (2023-08-15T18:15:00)
 > Inappropriate implementation in Fullscreen in Google Chrome on Android prior to 116.0.5845.96 allowed a remote attacker to potentially spoof the contents of the Omnibox (URL bar) via a crafted HTML page. (Chromium security severity: High)
 - [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350)	<img alt="forks" src="https://img.shields.io/github/forks/0nyx-hkr/cve-2023-4350">	<img alt="stars" src="https://img.shields.io/github/stars/0nyx-hkr/cve-2023-4350">
