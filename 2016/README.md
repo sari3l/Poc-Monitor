@@ -403,7 +403,7 @@
 - [malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195](https://github.com/malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195">
 - [gurpreetsinghsaluja/dirtycow](https://github.com/gurpreetsinghsaluja/dirtycow)	<img alt="forks" src="https://img.shields.io/github/forks/gurpreetsinghsaluja/dirtycow">	<img alt="stars" src="https://img.shields.io/github/stars/gurpreetsinghsaluja/dirtycow">
 - [passionchenjianyegmail8/scumjrs](https://github.com/passionchenjianyegmail8/scumjrs)	<img alt="forks" src="https://img.shields.io/github/forks/passionchenjianyegmail8/scumjrs">	<img alt="stars" src="https://img.shields.io/github/stars/passionchenjianyegmail8/scumjrs">
-- [ArkAngeL43/CVE-2016-5195](https://github.com/ArkAngeL43/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/ArkAngeL43/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/ArkAngeL43/CVE-2016-5195">
+- [TotallyNotAHaxxer/CVE-2016-5195](https://github.com/TotallyNotAHaxxer/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/TotallyNotAHaxxer/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/TotallyNotAHaxxer/CVE-2016-5195">
 - [vinspiert/scumjrs](https://github.com/vinspiert/scumjrs)	<img alt="forks" src="https://img.shields.io/github/forks/vinspiert/scumjrs">	<img alt="stars" src="https://img.shields.io/github/stars/vinspiert/scumjrs">
 - [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso)	<img alt="forks" src="https://img.shields.io/github/forks/scumjr/dirtycow-vdso">	<img alt="stars" src="https://img.shields.io/github/stars/scumjr/dirtycow-vdso">
 - [r1is/CVE-2022-0847](https://github.com/r1is/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/r1is/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/r1is/CVE-2022-0847">
@@ -426,6 +426,9 @@
 - [acidburnmi/CVE-2016-5195-master](https://github.com/acidburnmi/CVE-2016-5195-master)	<img alt="forks" src="https://img.shields.io/github/forks/acidburnmi/CVE-2016-5195-master">	<img alt="stars" src="https://img.shields.io/github/stars/acidburnmi/CVE-2016-5195-master">
 - [titanhp/Dirty-COW-CVE-2016-5195-Testing](https://github.com/titanhp/Dirty-COW-CVE-2016-5195-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/titanhp/Dirty-COW-CVE-2016-5195-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/titanhp/Dirty-COW-CVE-2016-5195-Testing">
 - [arbll/dirtycow](https://github.com/arbll/dirtycow)	<img alt="forks" src="https://img.shields.io/github/forks/arbll/dirtycow">	<img alt="stars" src="https://img.shields.io/github/stars/arbll/dirtycow">
+- [NguyenCongHaiNam/Research-CVE-2016-5195](https://github.com/NguyenCongHaiNam/Research-CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/NguyenCongHaiNam/Research-CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/NguyenCongHaiNam/Research-CVE-2016-5195">
+- [LinuxKernelContent/DirtyCow](https://github.com/LinuxKernelContent/DirtyCow)	<img alt="forks" src="https://img.shields.io/github/forks/LinuxKernelContent/DirtyCow">	<img alt="stars" src="https://img.shields.io/github/stars/LinuxKernelContent/DirtyCow">
+- [idhyt/androotzf](https://github.com/idhyt/androotzf)	<img alt="forks" src="https://img.shields.io/github/forks/idhyt/androotzf">	<img alt="stars" src="https://img.shields.io/github/stars/idhyt/androotzf">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
