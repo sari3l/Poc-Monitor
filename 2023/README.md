@@ -3948,6 +3948,11 @@ For more details, please review the linked advisory on this CVE.
 - [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel)	<img alt="forks" src="https://img.shields.io/github/forks/Chal13W1zz/BadParcel">	<img alt="stars" src="https://img.shields.io/github/stars/Chal13W1zz/BadParcel">
 
 ---
+## CVE-2023-20955 (2023-03-24T20:15:00)
+> In onPrepareOptionsMenu of AppInfoDashboardFragment.java, there is a possible way to bypass admin restrictions and uninstall applications for all users due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-258653813
+- [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955">
+
+---
 ## CVE-2023-20944 (2023-02-28T17:15:00)
 > In run of ChooseTypeAndAccountActivity.java, there is a possible escalation of privilege due to unsafe deserialization. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-244154558
 - [Trinadh465/frameworks_base_CVE-2023-20944](https://github.com/Trinadh465/frameworks_base_CVE-2023-20944)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_CVE-2023-20944">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_CVE-2023-20944">
