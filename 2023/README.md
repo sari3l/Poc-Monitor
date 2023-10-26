@@ -834,7 +834,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Aakash9111/CVE-2023-38646-ReverseShell](https://github.com/Aakash9111/CVE-2023-38646-ReverseShell)	<img alt="forks" src="https://img.shields.io/github/forks/Aakash9111/CVE-2023-38646-ReverseShell">	<img alt="stars" src="https://img.shields.io/github/stars/Aakash9111/CVE-2023-38646-ReverseShell">
 - [AnvithLobo/CVE-2023-38646](https://github.com/AnvithLobo/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/AnvithLobo/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/AnvithLobo/CVE-2023-38646">
 - [entr0pie/CVE-2023-38646](https://github.com/entr0pie/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/entr0pie/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/entr0pie/CVE-2023-38646">
-- [Red-Amber/CVE-2023-38646](https://github.com/Red-Amber/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Red-Amber/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Red-Amber/CVE-2023-38646">
+- [Red4mber/CVE-2023-38646](https://github.com/Red4mber/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Red4mber/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Red4mber/CVE-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
