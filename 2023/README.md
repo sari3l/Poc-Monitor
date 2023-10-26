@@ -178,6 +178,11 @@
 - [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46449">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46449">
 
 ---
+## CVE-2023-46404 ()
+> 
+- [windecks/CVE-2023-46404](https://github.com/windecks/CVE-2023-46404)	<img alt="forks" src="https://img.shields.io/github/forks/windecks/CVE-2023-46404">	<img alt="stars" src="https://img.shields.io/github/stars/windecks/CVE-2023-46404">
+
+---
 ## CVE-2023-4634 (2023-09-06T09:15:00)
 > The Media Library Assistant plugin for WordPress is vulnerable to Local File Inclusion and Remote Code Execution in versions up to, and including, 3.09. This is due to insufficient controls on file paths being supplied to the 'mla_stream_file' parameter from the ~/includes/mla-stream-image.php file, where images are processed via Imagick(). This makes it possible for unauthenticated attackers to supply files via FTP that will make directory lists, local file inclusion, and remote code execution possible.
 - [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634)	<img alt="forks" src="https://img.shields.io/github/forks/Patrowl/CVE-2023-4634">	<img alt="stars" src="https://img.shields.io/github/stars/Patrowl/CVE-2023-4634">
@@ -283,6 +288,7 @@
 - [pabloec20/rapidreset](https://github.com/pabloec20/rapidreset)	<img alt="forks" src="https://img.shields.io/github/forks/pabloec20/rapidreset">	<img alt="stars" src="https://img.shields.io/github/stars/pabloec20/rapidreset">
 - [secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient)	<img alt="forks" src="https://img.shields.io/github/forks/secengjeff/rapidresetclient">	<img alt="stars" src="https://img.shields.io/github/stars/secengjeff/rapidresetclient">
 - [studiogangster/CVE-2023-44487](https://github.com/studiogangster/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2023-44487">
+- [ReToCode/golang-CVE-2023-44487](https://github.com/ReToCode/golang-CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/ReToCode/golang-CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/ReToCode/golang-CVE-2023-44487">
 
 ---
 ## CVE-2023-44227 ()
