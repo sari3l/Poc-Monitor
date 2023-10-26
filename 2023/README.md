@@ -168,13 +168,13 @@
 - [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46451">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46451">
 
 ---
-## CVE-2023-46450 ()
-> 
+## CVE-2023-46450 (2023-10-26T15:15:00)
+> Sourcecodester Free and Open Source inventory management system 1.0 is vulnerable to Cross Site Scripting (XSS) via the Add supplier function.
 - [yte121/-CVE-2023-46450](https://github.com/yte121/-CVE-2023-46450)	<img alt="forks" src="https://img.shields.io/github/forks/yte121/-CVE-2023-46450">	<img alt="stars" src="https://img.shields.io/github/stars/yte121/-CVE-2023-46450">
 
 ---
-## CVE-2023-46449 ()
-> 
+## CVE-2023-46449 (2023-10-26T15:15:00)
+> Sourcecodester Free and Open Source inventory management system v1.0 is vulnerable to Incorrect Access Control. An arbitrary user can change the password of another user and takeover the account via IDOR in the password change function.
 - [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46449">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46449">
 
 ---
