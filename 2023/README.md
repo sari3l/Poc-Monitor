@@ -52,6 +52,7 @@
 - [sagsooz/CVE-2023-5360](https://github.com/sagsooz/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/CVE-2023-5360">
 - [codeb0ss/xWP-2](https://github.com/codeb0ss/xWP-2)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/xWP-2">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/xWP-2">
 - [phankz/Worpress-CVE-2023-5360](https://github.com/phankz/Worpress-CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/phankz/Worpress-CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/phankz/Worpress-CVE-2023-5360">
+- [nastar-id/CVE-2023-5360](https://github.com/nastar-id/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/nastar-id/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/nastar-id/CVE-2023-5360">
 
 ---
 ## CVE-2023-5217 (2023-09-28T16:15:00)
