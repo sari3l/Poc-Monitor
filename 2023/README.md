@@ -163,6 +163,16 @@
 - [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test)	<img alt="forks" src="https://img.shields.io/github/forks/Songg45/CVE-2023-4683-Test">	<img alt="stars" src="https://img.shields.io/github/stars/Songg45/CVE-2023-4683-Test">
 
 ---
+## CVE-2023-46451 ()
+> 
+- [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46451">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46451">
+
+---
+## CVE-2023-46450 ()
+> 
+- [yte121/-CVE-2023-46450](https://github.com/yte121/-CVE-2023-46450)	<img alt="forks" src="https://img.shields.io/github/forks/yte121/-CVE-2023-46450">	<img alt="stars" src="https://img.shields.io/github/stars/yte121/-CVE-2023-46450">
+
+---
 ## CVE-2023-46449 ()
 > 
 - [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46449">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46449">
