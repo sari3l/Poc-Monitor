@@ -94,6 +94,7 @@
 - [mlynchcogent/CVE-2023-4966-POC](https://github.com/mlynchcogent/CVE-2023-4966-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mlynchcogent/CVE-2023-4966-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mlynchcogent/CVE-2023-4966-POC">
 - [IceBreakerCode/CVE-2023-4966](https://github.com/IceBreakerCode/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/IceBreakerCode/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/IceBreakerCode/CVE-2023-4966">
 - [IceBreakerCode/CVE-2023-4966](https://github.com/IceBreakerCode/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/IceBreakerCode/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/IceBreakerCode/CVE-2023-4966">
+- [ditekshen/ansible-cve-2023-4966](https://github.com/ditekshen/ansible-cve-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/ditekshen/ansible-cve-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/ditekshen/ansible-cve-2023-4966">
 
 ---
 ## CVE-2023-4951 (2023-09-14T17:15:00)
@@ -3441,6 +3442,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [moneertv/CVE-2023-23397](https://github.com/moneertv/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/moneertv/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/moneertv/CVE-2023-23397">
 - [vlad-a-man/CVE-2023-23397](https://github.com/vlad-a-man/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/vlad-a-man/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/vlad-a-man/CVE-2023-23397">
 - [Muhammad-Ali007/OutlookNTLM_CVE-2023-23397](https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397">
+- [Pushkarup/CVE-2023-23397](https://github.com/Pushkarup/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
