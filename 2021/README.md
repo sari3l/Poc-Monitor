@@ -5971,6 +5971,8 @@
 ## CVE-2021-29441 (2021-04-27T21:15:00)
 > Nacos is a platform designed for dynamic service discovery and configuration and service management. In Nacos before version 1.4.1, when configured to use authentication (-Dnacos.core.auth.enabled=true) Nacos uses the AuthFilter servlet filter to enforce authentication. This filter has a backdoor that enables Nacos servers to bypass this filter and therefore skip authentication checks. This mechanism relies on the user-agent HTTP header so it can be easily spoofed. This issue may allow any user to carry out any administrative tasks on the Nacos server.
 - [xorverbin/-xorverbin-nacos-CVE-2021-29441-](https://github.com/xorverbin/-xorverbin-nacos-CVE-2021-29441-)	<img alt="forks" src="https://img.shields.io/github/forks/xorverbin/-xorverbin-nacos-CVE-2021-29441-">	<img alt="stars" src="https://img.shields.io/github/stars/xorverbin/-xorverbin-nacos-CVE-2021-29441-">
+- [bysinks/CVE-2021-29441](https://github.com/bysinks/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/bysinks/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/bysinks/CVE-2021-29441">
+- [hh-hunter/nacos-cve-2021-29441](https://github.com/hh-hunter/nacos-cve-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/nacos-cve-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/nacos-cve-2021-29441">
 
 ---
 ## CVE-2021-29440 (2021-04-13T20:15:00)
