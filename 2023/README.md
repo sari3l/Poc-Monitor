@@ -2087,8 +2087,10 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-32629 (2023-07-26T02:15:00)
 > Local privilege escalation vulnerability in Ubuntu Kernels overlayfs ovl_copy_up_meta_inode_data skip permission checks when calling ovl_do_setxattr on Ubuntu kernels
 - [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay)	<img alt="forks" src="https://img.shields.io/github/forks/kaotickj/Check-for-CVE-2023-32629-GameOver-lay">	<img alt="stars" src="https://img.shields.io/github/stars/kaotickj/Check-for-CVE-2023-32629-GameOver-lay">
-- [johnlettman/juju-patch-gameoverlay](https://github.com/johnlettman/juju-patch-gameoverlay)	<img alt="forks" src="https://img.shields.io/github/forks/johnlettman/juju-patch-gameoverlay">	<img alt="stars" src="https://img.shields.io/github/stars/johnlettman/juju-patch-gameoverlay">
+- [johnlettman/juju-scripts](https://github.com/johnlettman/juju-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/johnlettman/juju-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/johnlettman/juju-scripts">
 - [OllaPapito/gameoverlay](https://github.com/OllaPapito/gameoverlay)	<img alt="forks" src="https://img.shields.io/github/forks/OllaPapito/gameoverlay">	<img alt="stars" src="https://img.shields.io/github/stars/OllaPapito/gameoverlay">
+- [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/g1vi/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/g1vi/CVE-2023-2640-CVE-2023-32629">
+- [luanoliveira350/GameOverlayFS](https://github.com/luanoliveira350/GameOverlayFS)	<img alt="forks" src="https://img.shields.io/github/forks/luanoliveira350/GameOverlayFS">	<img alt="stars" src="https://img.shields.io/github/stars/luanoliveira350/GameOverlayFS">
 
 ---
 ## CVE-2023-32560 (2023-08-10T20:15:00)
