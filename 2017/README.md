@@ -1048,7 +1048,7 @@
 - [likescam/CVE-2018-0802_CVE-2017-11882](https://github.com/likescam/CVE-2018-0802_CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2018-0802_CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2018-0802_CVE-2017-11882">
 - [likescam/CVE-2017-11882](https://github.com/likescam/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2017-11882">
 - [Ridter/RTF_11882_0802](https://github.com/Ridter/RTF_11882_0802)	<img alt="forks" src="https://img.shields.io/github/forks/Ridter/RTF_11882_0802">	<img alt="stars" src="https://img.shields.io/github/stars/Ridter/RTF_11882_0802">
-- [unamer/CVE-2017-11882](https://github.com/unamer/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/unamer/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/unamer/CVE-2017-11882">
+- [rip1s/CVE-2017-11882](https://github.com/rip1s/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/rip1s/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/rip1s/CVE-2017-11882">
 - [embedi/CVE-2017-11882](https://github.com/embedi/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/embedi/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/embedi/CVE-2017-11882">
 - [Ridter/CVE-2017-11882](https://github.com/Ridter/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/Ridter/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/Ridter/CVE-2017-11882">
 - [starnightcyber/CVE-2017-11882](https://github.com/starnightcyber/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/starnightcyber/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/starnightcyber/CVE-2017-11882">
@@ -1061,6 +1061,7 @@
 - [0x09AL/CVE-2017-11882-metasploit](https://github.com/0x09AL/CVE-2017-11882-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x09AL/CVE-2017-11882-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x09AL/CVE-2017-11882-metasploit">
 - [n18dcat053-luuvannga/DetectPacket-CVE-2017-11882](https://github.com/n18dcat053-luuvannga/DetectPacket-CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/n18dcat053-luuvannga/DetectPacket-CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/n18dcat053-luuvannga/DetectPacket-CVE-2017-11882">
 - [Abdibimantara/Maldoc-Analysis](https://github.com/Abdibimantara/Maldoc-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Abdibimantara/Maldoc-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Abdibimantara/Maldoc-Analysis">
+- [nhuynhuy/cve-2017-11882](https://github.com/nhuynhuy/cve-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/nhuynhuy/cve-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/nhuynhuy/cve-2017-11882">
 
 ---
 ## CVE-2017-11683 (2017-07-27T06:29:00)
