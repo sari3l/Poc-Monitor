@@ -746,6 +746,10 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 ## CVE-2023-391 ()
 > 
 - [ayhan-dev/CVE-2023-391](https://github.com/ayhan-dev/CVE-2023-391)	<img alt="forks" src="https://img.shields.io/github/forks/ayhan-dev/CVE-2023-391">	<img alt="stars" src="https://img.shields.io/github/stars/ayhan-dev/CVE-2023-391">
+- [codeb0ss/CVE-2023-39141-PoC](https://github.com/codeb0ss/CVE-2023-39141-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-39141-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-39141-PoC">
+- [codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-39143">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-39143">
+- [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115)	<img alt="forks" src="https://img.shields.io/github/forks/Raj789-sec/CVE-2023-39115">	<img alt="stars" src="https://img.shields.io/github/stars/Raj789-sec/CVE-2023-39115">
+- [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/CVE-2023-39144">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/CVE-2023-39144">
 
 ---
 ## CVE-2023-39063 (2023-09-11T19:15:00)
