@@ -1576,6 +1576,11 @@
 - [Live-Hack-CVE/CVE-2021-4235](https://github.com/Live-Hack-CVE/CVE-2021-4235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4235">
 
 ---
+## CVE-2021-42342 (2021-10-14T06:15:00)
+> An issue was discovered in GoAhead 4.x and 5.x before 5.1.5. In the file upload filter, user form variables can be passed to CGI scripts without being prefixed with the CGI prefix. This permits tunneling untrusted environment variables into vulnerable CGI scripts.
+- [ijh4723/-zeroboo-Gohead-CVE-2021-42342-1](https://github.com/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1)	<img alt="forks" src="https://img.shields.io/github/forks/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1">	<img alt="stars" src="https://img.shields.io/github/stars/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1">
+
+---
 ## CVE-2021-42340 (2021-10-14T20:15:00)
 > The fix for bug 63362 present in Apache Tomcat 10.1.0-M1 to 10.1.0-M5, 10.0.0-M1 to 10.0.11, 9.0.40 to 9.0.53 and 8.5.60 to 8.5.71 introduced a memory leak. The object introduced to collect metrics for HTTP upgrade connections was not released for WebSocket connections once the connection was closed. This created a memory leak that, over time, could lead to a denial of service via an OutOfMemoryError.
 - [Live-Hack-CVE/CVE-2021-42340](https://github.com/Live-Hack-CVE/CVE-2021-42340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42340">
