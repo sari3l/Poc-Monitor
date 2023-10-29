@@ -1579,6 +1579,8 @@
 ## CVE-2021-42342 (2021-10-14T06:15:00)
 > An issue was discovered in GoAhead 4.x and 5.x before 5.1.5. In the file upload filter, user form variables can be passed to CGI scripts without being prefixed with the CGI prefix. This permits tunneling untrusted environment variables into vulnerable CGI scripts.
 - [ijh4723/-zeroboo-Gohead-CVE-2021-42342-1](https://github.com/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1)	<img alt="forks" src="https://img.shields.io/github/forks/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1">	<img alt="stars" src="https://img.shields.io/github/stars/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1">
+- [Mr-xn/CVE-2021-42342](https://github.com/Mr-xn/CVE-2021-42342)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2021-42342">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2021-42342">
+- [kimusan/goahead-webserver-pre-5.1.5-RCE-PoC-CVE-2021-42342-](https://github.com/kimusan/goahead-webserver-pre-5.1.5-RCE-PoC-CVE-2021-42342-)	<img alt="forks" src="https://img.shields.io/github/forks/kimusan/goahead-webserver-pre-5.1.5-RCE-PoC-CVE-2021-42342-">	<img alt="stars" src="https://img.shields.io/github/stars/kimusan/goahead-webserver-pre-5.1.5-RCE-PoC-CVE-2021-42342-">
 
 ---
 ## CVE-2021-42340 (2021-10-14T20:15:00)
