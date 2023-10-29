@@ -455,6 +455,16 @@
 - [Live-Hack-CVE/CVE-2016-4507](https://github.com/Live-Hack-CVE/CVE-2016-4507)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4507">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4507">
 
 ---
+## CVE-2016-4437 (2016-06-07T14:06:00)
+> Apache Shiro before 1.2.5, when a cipher key has not been configured for the "remember me" feature, allows remote attackers to execute arbitrary code or bypass intended access restrictions via an unspecified request parameter.
+- [WSIDFY/-WSIDFY-CVE-2016-4437](https://github.com/WSIDFY/-WSIDFY-CVE-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/WSIDFY/-WSIDFY-CVE-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/WSIDFY/-WSIDFY-CVE-2016-4437">
+- [XuCcc/VulEnv](https://github.com/XuCcc/VulEnv)	<img alt="forks" src="https://img.shields.io/github/forks/XuCcc/VulEnv">	<img alt="stars" src="https://img.shields.io/github/stars/XuCcc/VulEnv">
+- [zhzyker/vulmap](https://github.com/zhzyker/vulmap)	<img alt="forks" src="https://img.shields.io/github/forks/zhzyker/vulmap">	<img alt="stars" src="https://img.shields.io/github/stars/zhzyker/vulmap">
+- [4nth0ny1130/shisoserial](https://github.com/4nth0ny1130/shisoserial)	<img alt="forks" src="https://img.shields.io/github/forks/4nth0ny1130/shisoserial">	<img alt="stars" src="https://img.shields.io/github/stars/4nth0ny1130/shisoserial">
+- [m3terpreter/CVE-2016-4437](https://github.com/m3terpreter/CVE-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/m3terpreter/CVE-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/m3terpreter/CVE-2016-4437">
+- [bkfish/Awesome_shiro](https://github.com/bkfish/Awesome_shiro)	<img alt="forks" src="https://img.shields.io/github/forks/bkfish/Awesome_shiro">	<img alt="stars" src="https://img.shields.io/github/stars/bkfish/Awesome_shiro">
+
+---
 ## CVE-2016-4432 (2016-06-01T20:59:00)
 > The AMQP 0-8, 0-9, 0-91, and 0-10 connection handling in Apache Qpid Java before 6.0.3 might allow remote attackers to bypass authentication and consequently perform actions via vectors related to connection state logging.
 - [Live-Hack-CVE/CVE-2016-4432](https://github.com/Live-Hack-CVE/CVE-2016-4432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4432">
