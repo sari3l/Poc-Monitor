@@ -102,6 +102,7 @@
 - [ditekshen/ansible-cve-2023-4966](https://github.com/ditekshen/ansible-cve-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/ditekshen/ansible-cve-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/ditekshen/ansible-cve-2023-4966">
 - [0xKayala/CVE-2023-4966](https://github.com/0xKayala/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/0xKayala/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/0xKayala/CVE-2023-4966">
 - [certat/citrix-logchecker](https://github.com/certat/citrix-logchecker)	<img alt="forks" src="https://img.shields.io/github/forks/certat/citrix-logchecker">	<img alt="stars" src="https://img.shields.io/github/stars/certat/citrix-logchecker">
+- [sanjai-AK47/CVE-2023-4966](https://github.com/sanjai-AK47/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-4966">
 
 ---
 ## CVE-2023-4951 (2023-09-14T17:15:00)
