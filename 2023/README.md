@@ -188,6 +188,11 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [r4pG0r/CVE-2023-46747-POC](https://github.com/r4pG0r/CVE-2023-46747-POC)	<img alt="forks" src="https://img.shields.io/github/forks/r4pG0r/CVE-2023-46747-POC">	<img alt="stars" src="https://img.shields.io/github/stars/r4pG0r/CVE-2023-46747-POC">
 
 ---
+## CVE-2023-46478 ()
+> 
+- [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478)	<img alt="forks" src="https://img.shields.io/github/forks/mr-xmen786/CVE-2023-46478">	<img alt="stars" src="https://img.shields.io/github/stars/mr-xmen786/CVE-2023-46478">
+
+---
 ## CVE-2023-46451 ()
 > 
 - [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46451">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46451">
