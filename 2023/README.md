@@ -3885,8 +3885,8 @@ For more details, please review the linked advisory on this CVE.
 - [yanglingxi1993/CVE-2023-21400](https://github.com/yanglingxi1993/CVE-2023-21400)	<img alt="forks" src="https://img.shields.io/github/forks/yanglingxi1993/CVE-2023-21400">	<img alt="stars" src="https://img.shields.io/github/stars/yanglingxi1993/CVE-2023-21400">
 
 ---
-## CVE-2023-21389 ()
-> 
+## CVE-2023-21389 (2023-10-30T18:15:00)
+> In Settings, there is a possible bypass of profile owner restrictions due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [sxsuperxuan/Weblogic_CVE-2023-21389](https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389)	<img alt="forks" src="https://img.shields.io/github/forks/sxsuperxuan/Weblogic_CVE-2023-21389">	<img alt="stars" src="https://img.shields.io/github/stars/sxsuperxuan/Weblogic_CVE-2023-21389">
 - [sxsuperxuan/Weblogic_CVE-2023-21389](https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389)	<img alt="forks" src="https://img.shields.io/github/forks/sxsuperxuan/Weblogic_CVE-2023-21389">	<img alt="stars" src="https://img.shields.io/github/stars/sxsuperxuan/Weblogic_CVE-2023-21389">
 
