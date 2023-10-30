@@ -187,6 +187,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 
 - [r4pG0r/CVE-2023-46747-POC](https://github.com/r4pG0r/CVE-2023-46747-POC)	<img alt="forks" src="https://img.shields.io/github/forks/r4pG0r/CVE-2023-46747-POC">	<img alt="stars" src="https://img.shields.io/github/stars/r4pG0r/CVE-2023-46747-POC">
 - [TomArn1/CVE-2023-46747-PoC](https://github.com/TomArn1/CVE-2023-46747-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TomArn1/CVE-2023-46747-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TomArn1/CVE-2023-46747-PoC">
+- [k0zulzr/CVE-2023-46747-Mass-RCE](https://github.com/k0zulzr/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/k0zulzr/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/k0zulzr/CVE-2023-46747-Mass-RCE">
 
 ---
 ## CVE-2023-46478 ()
