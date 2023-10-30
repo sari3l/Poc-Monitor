@@ -7359,6 +7359,11 @@
 - [Live-Hack-CVE/CVE-2021-22883](https://github.com/Live-Hack-CVE/CVE-2021-22883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22883">
 
 ---
+## CVE-2021-22880 (2021-02-11T18:15:00)
+> The PostgreSQL adapter in Active Record before 6.1.2.1, 6.0.3.5, 5.2.4.5 suffers from a regular expression denial of service (REDoS) vulnerability. Carefully crafted input can cause the input validation in the `money` type of the PostgreSQL adapter in Active Record to spend too much time in a regular expression, resulting in the potential for a DoS attack. This only impacts Rails applications that are using PostgreSQL along with money type columns that take user input.
+- [halkichi0308/CVE-2021-22880](https://github.com/halkichi0308/CVE-2021-22880)	<img alt="forks" src="https://img.shields.io/github/forks/halkichi0308/CVE-2021-22880">	<img alt="stars" src="https://img.shields.io/github/stars/halkichi0308/CVE-2021-22880">
+
+---
 ## CVE-2021-22879 (2021-04-14T13:15:00)
 > Nextcloud Desktop Client prior to 3.1.3 is vulnerable to resource injection by way of missing validation of URLs, allowing a malicious server to execute remote commands. User interaction is needed for exploitation.
 - [Live-Hack-CVE/CVE-2021-22879](https://github.com/Live-Hack-CVE/CVE-2021-22879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22879">
