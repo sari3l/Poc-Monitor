@@ -1147,6 +1147,12 @@
 - [Live-Hack-CVE/CVE-2018-13096](https://github.com/Live-Hack-CVE/CVE-2018-13096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-13096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-13096">
 
 ---
+## CVE-2018-1297 (2018-02-13T12:29:00)
+> When using Distributed Test only (RMI based), Apache JMeter 2.x and 3.x uses an unsecured RMI connection. This could allow an attacker to get Access to JMeterEngine and send unauthorized code.
+- [48484848484848/Jmeter-CVE-2018-1297-](https://github.com/48484848484848/Jmeter-CVE-2018-1297-)	<img alt="forks" src="https://img.shields.io/github/forks/48484848484848/Jmeter-CVE-2018-1297-">	<img alt="stars" src="https://img.shields.io/github/stars/48484848484848/Jmeter-CVE-2018-1297-">
+- [Al1ex/CVE-2018-1297](https://github.com/Al1ex/CVE-2018-1297)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2018-1297">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2018-1297">
+
+---
 ## CVE-2018-1285 (2020-05-11T17:15:00)
 > Apache log4net versions before 2.0.10 do not disable XML external entities when parsing log4net configuration files. This allows for XXE-based attacks in applications that accept attacker-controlled log4net configuration files.
 - [Live-Hack-CVE/CVE-2018-1285](https://github.com/Live-Hack-CVE/CVE-2018-1285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1285">
