@@ -62,8 +62,8 @@
 - [RandomRobbieBF/CVE-2023-5412](https://github.com/RandomRobbieBF/CVE-2023-5412)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5412">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5412">
 
 ---
-## CVE-2023-5360 ()
-> 
+## CVE-2023-5360 (2023-10-31T14:15:00)
+> The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE.
 - [sagsooz/CVE-2023-5360](https://github.com/sagsooz/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/CVE-2023-5360">
 - [codeb0ss/xWP-2](https://github.com/codeb0ss/xWP-2)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/xWP-2">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/xWP-2">
 - [phankz/Worpress-CVE-2023-5360](https://github.com/phankz/Worpress-CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/phankz/Worpress-CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/phankz/Worpress-CVE-2023-5360">
@@ -3712,8 +3712,10 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 
 ---
-## CVE-2023-22518 ()
-> 
+## CVE-2023-22518 (2023-10-31T15:15:00)
+> All versions of Confluence Data Center and Server are affected by this unexploited vulnerability. There is no impact to confidentiality as an attacker cannot exfiltrate any instance data.
+
+Atlassian Cloud sites are not affected by this vulnerability. If your Confluence site is accessed via an atlassian.net domain, it is hosted by Atlassian and is not vulnerable to this issue.
 - [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/ForceFledgling/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/ForceFledgling/CVE-2023-22518">
 - [tonghuaroot/CVE-2023-22518](https://github.com/tonghuaroot/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/tonghuaroot/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/tonghuaroot/CVE-2023-22518">
 
