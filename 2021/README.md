@@ -6129,6 +6129,12 @@
 ## CVE-2021-28169 (2021-06-09T02:15:00)
 > For Eclipse Jetty versions <= 9.4.40, <= 10.0.2, <= 11.0.2, it is possible for requests to the ConcatServlet with a doubly encoded path to access protected resources within the WEB-INF directory. For example a request to `/concat?/%2557EB-INF/web.xml` can retrieve the web.xml file. This can reveal sensitive information regarding the implementation of a web application.
 - [Live-Hack-CVE/CVE-2021-28169](https://github.com/Live-Hack-CVE/CVE-2021-28169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28169">
+- [Trinadh465/jetty_9.4.31_CVE-2021-28169](https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-28169)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/jetty_9.4.31_CVE-2021-28169">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/jetty_9.4.31_CVE-2021-28169">
+
+---
+## CVE-2021-28165 (2021-04-01T15:15:00)
+> In Eclipse Jetty 7.2.2 to 9.4.38, 10.0.0.alpha0 to 10.0.1, and 11.0.0.alpha0 to 11.0.1, CPU usage can reach 100% upon receiving a large invalid TLS frame.
+- [nidhi7598/jetty-9.4.31_CVE-2021-28165](https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/jetty-9.4.31_CVE-2021-28165">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/jetty-9.4.31_CVE-2021-28165">
 
 ---
 ## CVE-2021-28114 (2021-07-16T13:15:00)
