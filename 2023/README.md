@@ -57,8 +57,8 @@
 - [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521)	<img alt="forks" src="https://img.shields.io/github/forks/Ylarod/CVE-2023-5521">	<img alt="stars" src="https://img.shields.io/github/stars/Ylarod/CVE-2023-5521">
 
 ---
-## CVE-2023-5412 ()
-> 
+## CVE-2023-5412 (2023-10-31T09:15:00)
+> The Image horizontal reel scroll slideshow plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 13.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [RandomRobbieBF/CVE-2023-5412](https://github.com/RandomRobbieBF/CVE-2023-5412)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5412">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5412">
 
 ---
@@ -211,8 +211,8 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478)	<img alt="forks" src="https://img.shields.io/github/forks/mr-xmen786/CVE-2023-46478">	<img alt="stars" src="https://img.shields.io/github/stars/mr-xmen786/CVE-2023-46478">
 
 ---
-## CVE-2023-46451 ()
-> 
+## CVE-2023-46451 (2023-10-31T07:15:00)
+> Best Courier Management System v1.0 is vulnerable to Cross Site Scripting (XSS) in the change username field.
 - [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46451">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46451">
 
 ---
