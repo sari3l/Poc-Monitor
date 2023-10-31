@@ -2092,6 +2092,11 @@
 - [Alonzozzz/alonzzzo](https://github.com/Alonzozzz/alonzzzo)	<img alt="forks" src="https://img.shields.io/github/forks/Alonzozzz/alonzzzo">	<img alt="stars" src="https://img.shields.io/github/stars/Alonzozzz/alonzzzo">
 
 ---
+## CVE-2020-27216 (2020-10-23T13:15:00)
+> In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 11.0.0.beta2O, on Unix like systems, the system's temporary directory is shared between all users on that system. A collocated user can observe the process of creating a temporary sub directory in the shared temporary directory and race to complete the creation of the temporary subdirectory. If the attacker wins the race then they will have read and write permission to the subdirectory used to unpack web applications, including their WEB-INF/lib jar files and JSP files. If any code is ever executed out of this temporary directory, this can lead to a local privilege escalation vulnerability.
+- [nidhi7598/jetty-9.4.31_CVE-2020-27216](https://github.com/nidhi7598/jetty-9.4.31_CVE-2020-27216)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/jetty-9.4.31_CVE-2020-27216">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/jetty-9.4.31_CVE-2020-27216">
+
+---
 ## CVE-2020-27199 (2020-12-17T05:15:00)
 > The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.
 - [9lyph/CVE-2020-27199](https://github.com/9lyph/CVE-2020-27199)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2020-27199">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2020-27199">
