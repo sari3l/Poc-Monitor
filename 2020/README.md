@@ -16,6 +16,11 @@
 - [Live-Hack-CVE/CVE-2020-9876](https://github.com/Live-Hack-CVE/CVE-2020-9876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9876">
 
 ---
+## CVE-2020-9802 (2020-06-09T17:15:00)
+> A logic issue was addressed with improved restrictions. This issue is fixed in iOS 13.5 and iPadOS 13.5, tvOS 13.4.5, watchOS 6.2.5, Safari 13.1.1, iTunes 12.10.7 for Windows, iCloud for Windows 11.2, iCloud for Windows 7.19. Processing maliciously crafted web content may lead to arbitrary code execution.
+- [khcujw/CVE-2020-9802](https://github.com/khcujw/CVE-2020-9802)	<img alt="forks" src="https://img.shields.io/github/forks/khcujw/CVE-2020-9802">	<img alt="stars" src="https://img.shields.io/github/stars/khcujw/CVE-2020-9802">
+
+---
 ## CVE-2020-9715 (2020-08-19T14:15:00)
 > Adobe Acrobat and Reader versions 2020.009.20074 and earlier, 2020.001.30002, 2017.011.30171 and earlier, and 2015.006.30523 and earlier have an use-after-free vulnerability. Successful exploitation could lead to arbitrary code execution .
 - [WonjunChun/CVE-2020-9715](https://github.com/WonjunChun/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/WonjunChun/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/WonjunChun/CVE-2020-9715">
