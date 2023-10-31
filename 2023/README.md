@@ -168,6 +168,11 @@
 - [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741)	<img alt="forks" src="https://img.shields.io/github/forks/wudidike/CVE-2023-4741">	<img alt="stars" src="https://img.shields.io/github/stars/wudidike/CVE-2023-4741">
 
 ---
+## CVE-2023-47103 ()
+> 
+- [quantiano/cve-2023-47103.github.io](https://github.com/quantiano/cve-2023-47103.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47103.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47103.github.io">
+
+---
 ## CVE-2023-4698 (2023-09-01T01:15:00)
 > Improper Input Validation in GitHub repository usememos/memos prior to 0.13.2.
 - [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4698">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4698">
