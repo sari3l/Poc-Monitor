@@ -170,7 +170,7 @@
 ---
 ## CVE-2023-47103 ()
 > 
-- [quantiano/cve-2023-47103.github.io](https://github.com/quantiano/cve-2023-47103.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47103.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47103.github.io">
+- [quantiano/cve-2023-47103](https://github.com/quantiano/cve-2023-47103)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47103">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47103">
 
 ---
 ## CVE-2023-4698 (2023-09-01T01:15:00)
