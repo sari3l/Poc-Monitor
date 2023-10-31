@@ -57,6 +57,11 @@
 - [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521)	<img alt="forks" src="https://img.shields.io/github/forks/Ylarod/CVE-2023-5521">	<img alt="stars" src="https://img.shields.io/github/stars/Ylarod/CVE-2023-5521">
 
 ---
+## CVE-2023-5412 ()
+> 
+- [RandomRobbieBF/CVE-2023-5412](https://github.com/RandomRobbieBF/CVE-2023-5412)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5412">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5412">
+
+---
 ## CVE-2023-5360 ()
 > 
 - [sagsooz/CVE-2023-5360](https://github.com/sagsooz/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/CVE-2023-5360">
