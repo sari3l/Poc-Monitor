@@ -6137,6 +6137,11 @@
 - [nidhi7598/jetty-9.4.31_CVE-2021-28165](https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/jetty-9.4.31_CVE-2021-28165">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/jetty-9.4.31_CVE-2021-28165">
 
 ---
+## CVE-2021-28164 (2021-04-01T15:15:00)
+> In Eclipse Jetty 9.4.37.v20210219 to 9.4.38.v20210224, the default compliance mode allows requests with URIs that contain %2e or %2e%2e segments to access protected resources within the WEB-INF directory. For example a request to /context/%2e/WEB-INF/web.xml can retrieve the web.xml file. This can reveal sensitive information regarding the implementation of a web application.
+- [jammy0903/-jettyCVE-2021-28164-](https://github.com/jammy0903/-jettyCVE-2021-28164-)	<img alt="forks" src="https://img.shields.io/github/forks/jammy0903/-jettyCVE-2021-28164-">	<img alt="stars" src="https://img.shields.io/github/stars/jammy0903/-jettyCVE-2021-28164-">
+
+---
 ## CVE-2021-28114 (2021-07-16T13:15:00)
 > Froala WYSIWYG Editor 3.2.6-1 is affected by XSS due to a namespace confusion during parsing.
 - [Live-Hack-CVE/CVE-2021-28114](https://github.com/Live-Hack-CVE/CVE-2021-28114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28114">
