@@ -3710,6 +3710,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-22518 ()
 > 
 - [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/ForceFledgling/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/ForceFledgling/CVE-2023-22518">
+- [tonghuaroot/CVE-2023-22518](https://github.com/tonghuaroot/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/tonghuaroot/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/tonghuaroot/CVE-2023-22518">
 
 ---
 ## CVE-2023-22515 (2023-10-04T14:15:00)
