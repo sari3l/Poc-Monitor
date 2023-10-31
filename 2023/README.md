@@ -3697,6 +3697,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 
 ---
+## CVE-2023-22518 ()
+> 
+- [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/ForceFledgling/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/ForceFledgling/CVE-2023-22518">
+
+---
 ## CVE-2023-22515 (2023-10-04T14:15:00)
 > Atlassian has been made aware of an issue reported by a handful of customers where external attackers may have exploited a previously unknown vulnerability in publicly accessible Confluence Data Center and Server instances to create unauthorized Confluence administrator accounts and access Confluence instances.
 
