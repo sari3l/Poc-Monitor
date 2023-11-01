@@ -207,6 +207,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [W01fh4cker/CVE-2023-46747-RCE](https://github.com/W01fh4cker/CVE-2023-46747-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2023-46747-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2023-46747-RCE">
 - [fu2x2000/CVE-2023-46747](https://github.com/fu2x2000/CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/fu2x2000/CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/fu2x2000/CVE-2023-46747">
 - [maniak-academy/Mitigate-CVE-2023-46747](https://github.com/maniak-academy/Mitigate-CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/maniak-academy/Mitigate-CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/maniak-academy/Mitigate-CVE-2023-46747">
+- [y4v4z/CVE-2023-46747-POC](https://github.com/y4v4z/CVE-2023-46747-POC)	<img alt="forks" src="https://img.shields.io/github/forks/y4v4z/CVE-2023-46747-POC">	<img alt="stars" src="https://img.shields.io/github/stars/y4v4z/CVE-2023-46747-POC">
 
 ---
 ## CVE-2023-46501 ()
