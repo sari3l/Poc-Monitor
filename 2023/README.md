@@ -205,6 +205,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [k0zulzr/CVE-2023-46747-Mass-RCE](https://github.com/k0zulzr/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/k0zulzr/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/k0zulzr/CVE-2023-46747-Mass-RCE">
 - [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AliBrTab/CVE-2023-46747-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AliBrTab/CVE-2023-46747-POC">
 - [W01fh4cker/CVE-2023-46747-RCE](https://github.com/W01fh4cker/CVE-2023-46747-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2023-46747-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2023-46747-RCE">
+- [fu2x2000/CVE-2023-46747](https://github.com/fu2x2000/CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/fu2x2000/CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/fu2x2000/CVE-2023-46747">
 
 ---
 ## CVE-2023-46501 ()
