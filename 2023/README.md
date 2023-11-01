@@ -173,6 +173,11 @@
 - [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741)	<img alt="forks" src="https://img.shields.io/github/forks/wudidike/CVE-2023-4741">	<img alt="stars" src="https://img.shields.io/github/stars/wudidike/CVE-2023-4741">
 
 ---
+## CVE-2023-47184 ()
+> 
+- [rach1tarora/CVE-2023-47184](https://github.com/rach1tarora/CVE-2023-47184)	<img alt="forks" src="https://img.shields.io/github/forks/rach1tarora/CVE-2023-47184">	<img alt="stars" src="https://img.shields.io/github/stars/rach1tarora/CVE-2023-47184">
+
+---
 ## CVE-2023-47103 ()
 > 
 - [quantiano/cve-2023-47103](https://github.com/quantiano/cve-2023-47103)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47103">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47103">
