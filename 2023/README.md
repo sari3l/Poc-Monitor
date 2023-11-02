@@ -189,9 +189,19 @@
 - [soy-oreocato/CVE-2023-46998](https://github.com/soy-oreocato/CVE-2023-46998)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2023-46998">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2023-46998">
 
 ---
+## CVE-2023-46980 ()
+> 
+- [sajaljat/CVE-2023-46980](https://github.com/sajaljat/CVE-2023-46980)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46980">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46980">
+
+---
 ## CVE-2023-4698 (2023-09-01T01:15:00)
 > Improper Input Validation in GitHub repository usememos/memos prior to 0.13.2.
 - [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4698">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4698">
+
+---
+## CVE-2023-46974 ()
+> 
+- [yte121/CVE-2023-46974](https://github.com/yte121/CVE-2023-46974)	<img alt="forks" src="https://img.shields.io/github/forks/yte121/CVE-2023-46974">	<img alt="stars" src="https://img.shields.io/github/stars/yte121/CVE-2023-46974">
 
 ---
 ## CVE-2023-4696 (2023-09-01T01:15:00)
@@ -225,6 +235,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [maniak-academy/Mitigate-CVE-2023-46747](https://github.com/maniak-academy/Mitigate-CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/maniak-academy/Mitigate-CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/maniak-academy/Mitigate-CVE-2023-46747">
 - [y4v4z/CVE-2023-46747-POC](https://github.com/y4v4z/CVE-2023-46747-POC)	<img alt="forks" src="https://img.shields.io/github/forks/y4v4z/CVE-2023-46747-POC">	<img alt="stars" src="https://img.shields.io/github/stars/y4v4z/CVE-2023-46747-POC">
 - [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/bijaysenihang/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/bijaysenihang/CVE-2023-46747-Mass-RCE">
+- [nvansluis/test_cve-2023-46747](https://github.com/nvansluis/test_cve-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/nvansluis/test_cve-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/nvansluis/test_cve-2023-46747">
 
 ---
 ## CVE-2023-46501 ()
