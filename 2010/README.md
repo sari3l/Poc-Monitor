@@ -6,6 +6,11 @@
 - [lem0nSec/CVE-2010-5301](https://github.com/lem0nSec/CVE-2010-5301)	<img alt="forks" src="https://img.shields.io/github/forks/lem0nSec/CVE-2010-5301">	<img alt="stars" src="https://img.shields.io/github/stars/lem0nSec/CVE-2010-5301">
 
 ---
+## CVE-2010-5298 (2014-04-14T22:38:00)
+> Race condition in the ssl3_read_bytes function in s3_pkt.c in OpenSSL through 1.0.1g, when SSL_MODE_RELEASE_BUFFERS is enabled, allows remote attackers to inject data across sessions or cause a denial of service (use-after-free and parsing error) via an SSL connection in a multithreaded environment.
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298">
+
+---
 ## CVE-2010-5250 (2012-09-07T10:32:00)
 > Untrusted search path vulnerability in the pthread_win32_process_attach_np function in pthreadGC2.dll in Pthreads-win32 2.8.0 allows local users to gain privileges via a Trojan horse quserex.dll file in the current working directory.  NOTE: some of these details are obtained from third party information.
 - [Live-Hack-CVE/CVE-2010-5250](https://github.com/Live-Hack-CVE/CVE-2010-5250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-5250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-5250">
