@@ -46,6 +46,11 @@
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
 
 ---
+## CVE-2018-7854 (2019-05-22T21:29:00)
+> A CWE-248 Uncaught Exception vulnerability exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum, and Modicon Premium which could cause a denial of Service when sending invalid debug parameters to the controller over Modbus.
+- [yanissec/CVE-2018-7854](https://github.com/yanissec/CVE-2018-7854)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7854">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7854">
+
+---
 ## CVE-2018-7852 (2019-05-22T20:29:00)
 > A CWE-248: Uncaught Exception vulnerability exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum, and Modicon Premium which could cause denial of service when an invalid private command parameter is sent to the controller over Modbus.
 - [yanissec/CVE-2018-7852](https://github.com/yanissec/CVE-2018-7852)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7852">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7852">
