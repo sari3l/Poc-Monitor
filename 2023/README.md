@@ -3217,6 +3217,7 @@ and the severity is therefore considered low.
 - [luanoliveira350/GameOverlayFS](https://github.com/luanoliveira350/GameOverlayFS)	<img alt="forks" src="https://img.shields.io/github/forks/luanoliveira350/GameOverlayFS">	<img alt="stars" src="https://img.shields.io/github/stars/luanoliveira350/GameOverlayFS">
 - [johnlettman/juju-scripts](https://github.com/johnlettman/juju-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/johnlettman/juju-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/johnlettman/juju-scripts">
 - [OllaPapito/gameoverlay](https://github.com/OllaPapito/gameoverlay)	<img alt="forks" src="https://img.shields.io/github/forks/OllaPapito/gameoverlay">	<img alt="stars" src="https://img.shields.io/github/stars/OllaPapito/gameoverlay">
+- [vinetsuicide/CVE-2023-2640-CVE-2023-32629](https://github.com/vinetsuicide/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/vinetsuicide/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/vinetsuicide/CVE-2023-2640-CVE-2023-32629">
 
 ---
 ## CVE-2023-2636 (2023-07-17T14:15:00)
