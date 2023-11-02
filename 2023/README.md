@@ -199,6 +199,11 @@
 - [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4696">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4696">
 
 ---
+## CVE-2023-46954 ()
+> 
+- [jakedmurphy1/CVE-2023-46954](https://github.com/jakedmurphy1/CVE-2023-46954)	<img alt="forks" src="https://img.shields.io/github/forks/jakedmurphy1/CVE-2023-46954">	<img alt="stars" src="https://img.shields.io/github/stars/jakedmurphy1/CVE-2023-46954">
+
+---
 ## CVE-2023-4683 (2023-08-31T16:15:00)
 > NULL Pointer Dereference in GitHub repository gpac/gpac prior to 2.3-DEV.
 - [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test)	<img alt="forks" src="https://img.shields.io/github/forks/Songg45/CVE-2023-4683-Test">	<img alt="stars" src="https://img.shields.io/github/stars/Songg45/CVE-2023-4683-Test">
