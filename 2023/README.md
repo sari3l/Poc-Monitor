@@ -218,6 +218,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [fu2x2000/CVE-2023-46747](https://github.com/fu2x2000/CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/fu2x2000/CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/fu2x2000/CVE-2023-46747">
 - [maniak-academy/Mitigate-CVE-2023-46747](https://github.com/maniak-academy/Mitigate-CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/maniak-academy/Mitigate-CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/maniak-academy/Mitigate-CVE-2023-46747">
 - [y4v4z/CVE-2023-46747-POC](https://github.com/y4v4z/CVE-2023-46747-POC)	<img alt="forks" src="https://img.shields.io/github/forks/y4v4z/CVE-2023-46747-POC">	<img alt="stars" src="https://img.shields.io/github/stars/y4v4z/CVE-2023-46747-POC">
+- [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/bijaysenihang/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/bijaysenihang/CVE-2023-46747-Mass-RCE">
 
 ---
 ## CVE-2023-46501 ()
