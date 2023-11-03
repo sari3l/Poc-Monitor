@@ -957,6 +957,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [entr0pie/CVE-2023-38646](https://github.com/entr0pie/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/entr0pie/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/entr0pie/CVE-2023-38646">
 - [Red4mber/CVE-2023-38646](https://github.com/Red4mber/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Red4mber/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Red4mber/CVE-2023-38646">
 - [junnythemarksman/CVE-2023-38646](https://github.com/junnythemarksman/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2023-38646">
+- [Itrekr/CVE-2023-38646-Crapsploit](https://github.com/Itrekr/CVE-2023-38646-Crapsploit)	<img alt="forks" src="https://img.shields.io/github/forks/Itrekr/CVE-2023-38646-Crapsploit">	<img alt="stars" src="https://img.shields.io/github/stars/Itrekr/CVE-2023-38646-Crapsploit">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
