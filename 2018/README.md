@@ -1280,6 +1280,11 @@
 - [Live-Hack-CVE/CVE-2018-1108](https://github.com/Live-Hack-CVE/CVE-2018-1108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1108">
 
 ---
+## CVE-2018-10993 ()
+> 
+- [nicolastsk/cve-2018-10993](https://github.com/nicolastsk/cve-2018-10993)	<img alt="forks" src="https://img.shields.io/github/forks/nicolastsk/cve-2018-10993">	<img alt="stars" src="https://img.shields.io/github/stars/nicolastsk/cve-2018-10993">
+
+---
 ## CVE-2018-10933 (2018-10-17T12:29:00)
 > A vulnerability was found in libssh's server-side state machine before versions 0.7.6 and 0.8.4. A malicious client could create channels without first performing authentication, resulting in unauthorized access.
 - [EmmanuelCruzL/CVE-2018-10933](https://github.com/EmmanuelCruzL/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/EmmanuelCruzL/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/EmmanuelCruzL/CVE-2018-10933">
