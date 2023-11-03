@@ -1184,6 +1184,7 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 ## CVE-2023-37478 (2023-08-01T12:15:00)
 > pnpm is a package manager. It is possible to construct a tarball that, when installed via npm or parsed by the registry is safe, but when installed via pnpm is malicious, due to how pnpm parses tar archives. This can result in a package that appears safe on the npm registry or when installed via npm being replaced with a compromised or malicious version when installed via pnpm. This issue has been patched in version(s) 7.33.4 and 8.6.8.
 - [TrevorGKann/CVE-2023-37478_npm_vs_pnpm](https://github.com/TrevorGKann/CVE-2023-37478_npm_vs_pnpm)	<img alt="forks" src="https://img.shields.io/github/forks/TrevorGKann/CVE-2023-37478_npm_vs_pnpm">	<img alt="stars" src="https://img.shields.io/github/stars/TrevorGKann/CVE-2023-37478_npm_vs_pnpm">
+- [li-minhao/CVE-2023-37478-Demo](https://github.com/li-minhao/CVE-2023-37478-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/li-minhao/CVE-2023-37478-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/li-minhao/CVE-2023-37478-Demo">
 
 ---
 ## CVE-2023-37474 (2023-07-14T20:15:00)
