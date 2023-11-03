@@ -70,6 +70,7 @@
 - [nastar-id/CVE-2023-5360](https://github.com/nastar-id/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/nastar-id/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/nastar-id/CVE-2023-5360">
 - [Chocapikk/CVE-2023-5360](https://github.com/Chocapikk/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-5360">
 - [tucommenceapousser/CVE-2023-5360](https://github.com/tucommenceapousser/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-5360">
+- [Jenderal92/WP-CVE-2023-5360](https://github.com/Jenderal92/WP-CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-5360">
 
 ---
 ## CVE-2023-5217 (2023-09-28T16:15:00)
@@ -2938,6 +2939,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [rio128128/Mass-CVE-2023-28121-kdoec](https://github.com/rio128128/Mass-CVE-2023-28121-kdoec)	<img alt="forks" src="https://img.shields.io/github/forks/rio128128/Mass-CVE-2023-28121-kdoec">	<img alt="stars" src="https://img.shields.io/github/stars/rio128128/Mass-CVE-2023-28121-kdoec">
 - [Jenderal92/CVE-2023-28121](https://github.com/Jenderal92/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2023-28121">
 - [C04LA/CVE-2023-28121](https://github.com/C04LA/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/C04LA/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/C04LA/CVE-2023-28121">
+- [Jenderal92/WP-CVE-2023-28121](https://github.com/Jenderal92/WP-CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-28121">
+- [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
 ## CVE-2023-27997 (2023-06-13T09:15:00)
