@@ -197,8 +197,8 @@
 - [soy-oreocato/CVE-2023-46998](https://github.com/soy-oreocato/CVE-2023-46998)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2023-46998">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2023-46998">
 
 ---
-## CVE-2023-46980 ()
-> 
+## CVE-2023-46980 (2023-11-03T16:15:00)
+> An issue in Best Courier Management System v.1.0 allows a remote attacker to execute arbitrary code and escalate privileges via a crafted script to the userID parameter.
 - [sajaljat/CVE-2023-46980](https://github.com/sajaljat/CVE-2023-46980)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46980">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46980">
 
 ---
@@ -272,8 +272,8 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46449">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46449">
 
 ---
-## CVE-2023-46404 ()
-> 
+## CVE-2023-46404 (2023-11-03T16:15:00)
+> PCRS <= 3.11 (d0de1e) “Questions” page and “Code editor” page are vulnerable to remote code execution (RCE) by escaping Python sandboxing.
 - [windecks/CVE-2023-46404](https://github.com/windecks/CVE-2023-46404)	<img alt="forks" src="https://img.shields.io/github/forks/windecks/CVE-2023-46404">	<img alt="stars" src="https://img.shields.io/github/stars/windecks/CVE-2023-46404">
 
 ---
