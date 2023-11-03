@@ -122,6 +122,7 @@
 - [0xKayala/CVE-2023-4966](https://github.com/0xKayala/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/0xKayala/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/0xKayala/CVE-2023-4966">
 - [certat/citrix-logchecker](https://github.com/certat/citrix-logchecker)	<img alt="forks" src="https://img.shields.io/github/forks/certat/citrix-logchecker">	<img alt="stars" src="https://img.shields.io/github/stars/certat/citrix-logchecker">
 - [sanjai-AK47/CVE-2023-4966](https://github.com/sanjai-AK47/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-4966">
+- [fdevsectest/CVE-2023-4966](https://github.com/fdevsectest/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/fdevsectest/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/fdevsectest/CVE-2023-4966">
 
 ---
 ## CVE-2023-4951 (2023-09-14T17:15:00)
@@ -211,8 +212,8 @@
 - [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4696">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4696">
 
 ---
-## CVE-2023-46954 ()
-> 
+## CVE-2023-46954 (2023-11-03T03:15:00)
+> SQL Injection vulnerability in Relativity ODA LLC RelativityOne v.12.1.537.3 Patch 2 and earlier allows a remote attacker to execute arbitrary code via the name parameter.
 - [jakedmurphy1/CVE-2023-46954](https://github.com/jakedmurphy1/CVE-2023-46954)	<img alt="forks" src="https://img.shields.io/github/forks/jakedmurphy1/CVE-2023-46954">	<img alt="stars" src="https://img.shields.io/github/stars/jakedmurphy1/CVE-2023-46954">
 
 ---
