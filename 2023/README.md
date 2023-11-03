@@ -4233,6 +4233,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner](https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner">
 - [ohlawd/CVE-2023-20198](https://github.com/ohlawd/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/ohlawd/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/ohlawd/CVE-2023-20198">
 - [IceBreakerCode/CVE-2023-20198](https://github.com/IceBreakerCode/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/IceBreakerCode/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/IceBreakerCode/CVE-2023-20198">
+- [sanjai-AK47/CVE-2023-20198](https://github.com/sanjai-AK47/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
