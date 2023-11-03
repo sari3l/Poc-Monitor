@@ -244,6 +244,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [y4v4z/CVE-2023-46747-POC](https://github.com/y4v4z/CVE-2023-46747-POC)	<img alt="forks" src="https://img.shields.io/github/forks/y4v4z/CVE-2023-46747-POC">	<img alt="stars" src="https://img.shields.io/github/stars/y4v4z/CVE-2023-46747-POC">
 - [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/bijaysenihang/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/bijaysenihang/CVE-2023-46747-Mass-RCE">
 - [nvansluis/test_cve-2023-46747](https://github.com/nvansluis/test_cve-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/nvansluis/test_cve-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/nvansluis/test_cve-2023-46747">
+- [sanjai-AK47/CVE-2023-46747](https://github.com/sanjai-AK47/CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-46747">
 
 ---
 ## CVE-2023-46501 ()
