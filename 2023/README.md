@@ -3943,6 +3943,7 @@ For more details, please review the linked advisory on this CVE.
 - [JMousqueton/CVE-2023-21716](https://github.com/JMousqueton/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/JMousqueton/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/JMousqueton/CVE-2023-21716">
 - [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Lord-of-the-IoT/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Lord-of-the-IoT/CVE-2023-21716">
 - [Jaslayer/CVE-2023-21716-overview](https://github.com/Jaslayer/CVE-2023-21716-overview)	<img alt="forks" src="https://img.shields.io/github/forks/Jaslayer/CVE-2023-21716-overview">	<img alt="stars" src="https://img.shields.io/github/stars/Jaslayer/CVE-2023-21716-overview">
+- [MojithaR/CVE-2023-21716-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py)	<img alt="forks" src="https://img.shields.io/github/forks/MojithaR/CVE-2023-21716-EXPLOIT.py">	<img alt="stars" src="https://img.shields.io/github/stars/MojithaR/CVE-2023-21716-EXPLOIT.py">
 
 ---
 ## CVE-2023-21707 (2023-02-14T20:15:00)
