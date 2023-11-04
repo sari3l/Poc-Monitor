@@ -403,6 +403,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient)	<img alt="forks" src="https://img.shields.io/github/forks/secengjeff/rapidresetclient">	<img alt="stars" src="https://img.shields.io/github/stars/secengjeff/rapidresetclient">
 - [studiogangster/CVE-2023-44487](https://github.com/studiogangster/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2023-44487">
 - [ReToCode/golang-CVE-2023-44487](https://github.com/ReToCode/golang-CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/ReToCode/golang-CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/ReToCode/golang-CVE-2023-44487">
+- [sigridou/CVE-2023-44487](https://github.com/sigridou/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/sigridou/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/sigridou/CVE-2023-44487">
 
 ---
 ## CVE-2023-44227 ()
