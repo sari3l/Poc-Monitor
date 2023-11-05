@@ -71,6 +71,7 @@
 - [Chocapikk/CVE-2023-5360](https://github.com/Chocapikk/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-5360">
 - [tucommenceapousser/CVE-2023-5360](https://github.com/tucommenceapousser/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-5360">
 - [Jenderal92/WP-CVE-2023-5360](https://github.com/Jenderal92/WP-CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-5360">
+- [Pushkarup/CVE-2023-5360](https://github.com/Pushkarup/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-5360">
 
 ---
 ## CVE-2023-5217 (2023-09-28T16:15:00)
