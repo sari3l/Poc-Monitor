@@ -670,6 +670,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content](https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content)	<img alt="forks" src="https://img.shields.io/github/forks/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content">	<img alt="stars" src="https://img.shields.io/github/stars/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content">
 
 ---
+## CVE-2023-41425 ()
+> 
+- [prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/prodigiousMind/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/prodigiousMind/CVE-2023-41425">
+
+---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
 > MyBB before 1.8.36 allows Code Injection by users with certain high privileges. Templates in Admin CP intentionally use eval, and there was some validation of the input to eval, but type juggling interfered with this when using PCRE within PHP.
 - [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE">
