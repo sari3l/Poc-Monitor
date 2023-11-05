@@ -2609,6 +2609,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb](https://github.com/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb">
 
 ---
+## CVE-2023-30190 ()
+> 
+- [MojithaR/CVE-2023-30190-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py)	<img alt="forks" src="https://img.shields.io/github/forks/MojithaR/CVE-2023-30190-EXPLOIT.py">	<img alt="stars" src="https://img.shields.io/github/stars/MojithaR/CVE-2023-30190-EXPLOIT.py">
+
+---
 ## CVE-2023-30185 (2023-05-08T01:15:00)
 > CRMEB v4.4 to v4.6 was discovered to contain an arbitrary file upload vulnerability via the component \attachment\SystemAttachmentServices.php.
 - [c7w1n/CVE-2023-30185](https://github.com/c7w1n/CVE-2023-30185)	<img alt="forks" src="https://img.shields.io/github/forks/c7w1n/CVE-2023-30185">	<img alt="stars" src="https://img.shields.io/github/stars/c7w1n/CVE-2023-30185">
