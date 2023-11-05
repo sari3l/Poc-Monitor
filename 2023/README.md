@@ -1101,6 +1101,11 @@ URL that curl has been told to operate with.
 - [codeb0ss/CVE-2023-37979](https://github.com/codeb0ss/CVE-2023-37979)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-37979">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-37979">
 
 ---
+## CVE-2023-37903 (2023-07-21T20:15:00)
+> vm2 is an open source vm/sandbox for Node.js. In vm2 for versions up to and including 3.9.19, Node.js custom inspect function allows attackers to escape the sandbox and run arbitrary code. This may result in Remote Code Execution, assuming the attacker has arbitrary code execution primitive inside the context of vm2 sandbox. There are no patches and no known workarounds. Users are advised to find an alternative software.
+- [7h3h4ckv157/CVE-2023-37903](https://github.com/7h3h4ckv157/CVE-2023-37903)	<img alt="forks" src="https://img.shields.io/github/forks/7h3h4ckv157/CVE-2023-37903">	<img alt="stars" src="https://img.shields.io/github/stars/7h3h4ckv157/CVE-2023-37903">
+
+---
 ## CVE-2023-37847 (2023-08-14T12:15:00)
 > novel-plus v3.6.2 was discovered to contain a SQL injection vulnerability.
 - [KingBangQ/CVE-2023-37847](https://github.com/KingBangQ/CVE-2023-37847)	<img alt="forks" src="https://img.shields.io/github/forks/KingBangQ/CVE-2023-37847">	<img alt="stars" src="https://img.shields.io/github/stars/KingBangQ/CVE-2023-37847">
