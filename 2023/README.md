@@ -3794,6 +3794,7 @@ Atlassian Cloud sites are not affected by this vulnerability. If your Confluence
 - [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/ForceFledgling/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/ForceFledgling/CVE-2023-22518">
 - [tonghuaroot/CVE-2023-22518](https://github.com/tonghuaroot/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/tonghuaroot/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/tonghuaroot/CVE-2023-22518">
 - [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/davidfortytwo/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/davidfortytwo/CVE-2023-22518">
+- [sanjai-AK47/CVE-2023-22518](https://github.com/sanjai-AK47/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-22518">
 
 ---
 ## CVE-2023-22515 (2023-10-04T14:15:00)
