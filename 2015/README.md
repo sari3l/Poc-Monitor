@@ -204,6 +204,12 @@
 > The ASN1_TFLG_COMBINE implementation in crypto/asn1/tasn_dec.c in OpenSSL before 0.9.8zh, 1.0.0 before 1.0.0t, 1.0.1 before 1.0.1q, and 1.0.2 before 1.0.2e mishandles errors caused by malformed X509_ATTRIBUTE data, which allows remote attackers to obtain sensitive information from process memory by triggering a decoding failure in a PKCS#7 or CMS application.
 - [Live-Hack-CVE/CVE-2015-3195](https://github.com/Live-Hack-CVE/CVE-2015-3195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-3195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-3195">
 - [Live-Hack-CVE/CVE-2015-3195](https://github.com/Live-Hack-CVE/CVE-2015-3195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-3195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-3195">
+- [Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195](https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195">
+
+---
+## CVE-2015-3194 (2015-12-06T20:59:00)
+> crypto/rsa/rsa_ameth.c in OpenSSL 1.0.1 before 1.0.1q and 1.0.2 before 1.0.2e allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via an RSA PSS ASN.1 signature that lacks a mask generation function parameter.
+- [Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194](https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194">
 
 ---
 ## CVE-2015-3193 (2015-12-06T20:59:00)
