@@ -642,6 +642,7 @@
 ## CVE-2016-2178 (2016-06-20T01:59:00)
 > The dsa_sign_setup function in crypto/dsa/dsa_ossl.c in OpenSSL through 1.0.2h does not properly ensure the use of constant-time operations, which makes it easier for local users to discover a DSA private key via a timing side-channel attack.
 - [Live-Hack-CVE/CVE-2016-2178](https://github.com/Live-Hack-CVE/CVE-2016-2178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2178">
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178">
 
 ---
 ## CVE-2016-2177 (2016-06-20T01:59:00)
