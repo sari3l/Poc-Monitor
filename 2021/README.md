@@ -1020,6 +1020,11 @@
 - [icatalina/CVE-2021-43616](https://github.com/icatalina/CVE-2021-43616)	<img alt="forks" src="https://img.shields.io/github/forks/icatalina/CVE-2021-43616">	<img alt="stars" src="https://img.shields.io/github/stars/icatalina/CVE-2021-43616">
 
 ---
+## CVE-2021-43609 ()
+> 
+- [d5sec/CVE-2021-43609-POC](https://github.com/d5sec/CVE-2021-43609-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d5sec/CVE-2021-43609-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d5sec/CVE-2021-43609-POC">
+
+---
 ## CVE-2021-43566 (2022-01-11T16:15:00)
 > All versions of Samba prior to 4.13.16 are vulnerable to a malicious client using an SMB1 or NFS race to allow a directory to be created in an area of the server file system not exported under the share definition. Note that SMB1 has to be enabled, or the share also available via NFS in order for this attack to succeed.
 - [Live-Hack-CVE/CVE-2021-43566](https://github.com/Live-Hack-CVE/CVE-2021-43566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43566">
