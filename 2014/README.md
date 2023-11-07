@@ -110,6 +110,11 @@
 - [Live-Hack-CVE/CVE-2014-3710](https://github.com/Live-Hack-CVE/CVE-2014-3710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3710">
 
 ---
+## CVE-2014-3570 (2015-01-09T02:59:00)
+> The BN_sqr implementation in OpenSSL before 0.9.8zd, 1.0.0 before 1.0.0p, and 1.0.1 before 1.0.1k does not properly calculate the square of a BIGNUM value, which might make it easier for remote attackers to defeat cryptographic protection mechanisms via unspecified vectors, related to crypto/bn/asm/mips.pl, crypto/bn/asm/x86_64-gcc.c, and crypto/bn/bn_asm.c.
+- [uthrasri/openssl_G2.5_CVE-2014-3570](https://github.com/uthrasri/openssl_G2.5_CVE-2014-3570)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/openssl_G2.5_CVE-2014-3570">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/openssl_G2.5_CVE-2014-3570">
+
+---
 ## CVE-2014-3566 (2014-10-15T00:55:00)
 > The SSL protocol 3.0, as used in OpenSSL through 1.0.1i and other products, uses nondeterministic CBC padding, which makes it easier for man-in-the-middle attackers to obtain cleartext data via a padding-oracle attack, aka the "POODLE" issue.
 - [uthrasri/openssl_g2.5_CVE-2014-3566](https://github.com/uthrasri/openssl_g2.5_CVE-2014-3566)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/openssl_g2.5_CVE-2014-3566">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/openssl_g2.5_CVE-2014-3566">
