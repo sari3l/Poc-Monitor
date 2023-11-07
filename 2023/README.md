@@ -924,6 +924,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Nielk74/CVE-2023-38831](https://github.com/Nielk74/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/Nielk74/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/Nielk74/CVE-2023-38831">
 - [kehrijksen/CVE-2023-38831](https://github.com/kehrijksen/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/kehrijksen/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/kehrijksen/CVE-2023-38831">
 - [seyit-sigirci/SideCopy-Exploits-CVE-2023-38831](https://github.com/seyit-sigirci/SideCopy-Exploits-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/seyit-sigirci/SideCopy-Exploits-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/seyit-sigirci/SideCopy-Exploits-CVE-2023-38831">
+- [s4m98/winrar-cve-2023-38831-poc-gen](https://github.com/s4m98/winrar-cve-2023-38831-poc-gen)	<img alt="forks" src="https://img.shields.io/github/forks/s4m98/winrar-cve-2023-38831-poc-gen">	<img alt="stars" src="https://img.shields.io/github/stars/s4m98/winrar-cve-2023-38831-poc-gen">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
