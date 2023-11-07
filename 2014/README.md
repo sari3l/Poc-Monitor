@@ -89,6 +89,11 @@
 - [brookeses69/CVE-2014-5460](https://github.com/brookeses69/CVE-2014-5460)	<img alt="forks" src="https://img.shields.io/github/forks/brookeses69/CVE-2014-5460">	<img alt="stars" src="https://img.shields.io/github/stars/brookeses69/CVE-2014-5460">
 
 ---
+## CVE-2014-5139 (2014-08-13T23:55:00)
+> The ssl_set_client_disabled function in t1_lib.c in OpenSSL 1.0.1 before 1.0.1i allows remote SSL servers to cause a denial of service (NULL pointer dereference and client application crash) via a ServerHello message that includes an SRP ciphersuite without the required negotiation of that ciphersuite with the client. <a href="http://cwe.mitre.org/data/definitions/476.html" target="_blank">CWE-476: NULL Pointer Dereference</a>
+- [uthrasri/CVE-2014-5139](https://github.com/uthrasri/CVE-2014-5139)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2014-5139">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2014-5139">
+
+---
 ## CVE-2014-4717 (2014-07-03T14:55:00)
 > Multiple cross-site request forgery (CSRF) vulnerabilities in the Simple Share Buttons Adder plugin before 4.5 for WordPress allow remote attackers to hijack the authentication of administrators for requests that conduct cross-site scripting (XSS) attacks via the (1) ssba_share_text parameter in a save action to wp-admin/options-general.php, which is not properly handled in the homepage, and unspecified vectors related to (2) Pages, (3) Posts, (4) Category/Archive pages or (5) post Excerpts.
 - [Live-Hack-CVE/CVE-2014-4717](https://github.com/Live-Hack-CVE/CVE-2014-4717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4717">
