@@ -6,6 +6,11 @@
 - [sbani/CVE-2014-8731-PoC](https://github.com/sbani/CVE-2014-8731-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sbani/CVE-2014-8731-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sbani/CVE-2014-8731-PoC">
 
 ---
+## CVE-2014-8275 (2015-01-09T02:59:00)
+> OpenSSL before 0.9.8zd, 1.0.0 before 1.0.0p, and 1.0.1 before 1.0.1k does not enforce certain constraints on certificate data, which allows remote attackers to defeat a fingerprint-based certificate-blacklist protection mechanism by including crafted data within a certificate's unsigned portion, related to crypto/asn1/a_verify.c, crypto/dsa/dsa_asn1.c, crypto/ecdsa/ecs_vrf.c, and crypto/x509/x_all.c.
+- [uthrasri/Openssl_G2.5_CVE-2014-8275](https://github.com/uthrasri/Openssl_G2.5_CVE-2014-8275)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Openssl_G2.5_CVE-2014-8275">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Openssl_G2.5_CVE-2014-8275">
+
+---
 ## CVE-2014-6568 (2015-01-21T15:28:00)
 > Unspecified vulnerability in Oracle MySQL Server 5.5.40 and earlier, and 5.6.21 and earlier, allows remote authenticated users to affect availability via vectors related to Server : InnoDB : DML.
 - [Live-Hack-CVE/CVE-2014-6568](https://github.com/Live-Hack-CVE/CVE-2014-6568)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6568">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6568">
