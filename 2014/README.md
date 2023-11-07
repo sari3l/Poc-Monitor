@@ -110,6 +110,16 @@
 - [Live-Hack-CVE/CVE-2014-3710](https://github.com/Live-Hack-CVE/CVE-2014-3710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3710">
 
 ---
+## CVE-2014-3566 (2014-10-15T00:55:00)
+> The SSL protocol 3.0, as used in OpenSSL through 1.0.1i and other products, uses nondeterministic CBC padding, which makes it easier for man-in-the-middle attackers to obtain cleartext data via a padding-oracle attack, aka the "POODLE" issue.
+- [uthrasri/openssl_g2.5_CVE-2014-3566](https://github.com/uthrasri/openssl_g2.5_CVE-2014-3566)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/openssl_g2.5_CVE-2014-3566">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/openssl_g2.5_CVE-2014-3566">
+- [mpgn/poodle-PoC](https://github.com/mpgn/poodle-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/poodle-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/poodle-PoC">
+- [clino-mania/A2SV--SSL-VUL-Scan](https://github.com/clino-mania/A2SV--SSL-VUL-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/clino-mania/A2SV--SSL-VUL-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/clino-mania/A2SV--SSL-VUL-Scan">
+- [cloudpassage/mangy-beast](https://github.com/cloudpassage/mangy-beast)	<img alt="forks" src="https://img.shields.io/github/forks/cloudpassage/mangy-beast">	<img alt="stars" src="https://img.shields.io/github/stars/cloudpassage/mangy-beast">
+- [stdevel/poodle_protector](https://github.com/stdevel/poodle_protector)	<img alt="forks" src="https://img.shields.io/github/forks/stdevel/poodle_protector">	<img alt="stars" src="https://img.shields.io/github/stars/stdevel/poodle_protector">
+- [mikesplain/CVE-2014-3566-poodle-cookbook](https://github.com/mikesplain/CVE-2014-3566-poodle-cookbook)	<img alt="forks" src="https://img.shields.io/github/forks/mikesplain/CVE-2014-3566-poodle-cookbook">	<img alt="stars" src="https://img.shields.io/github/stars/mikesplain/CVE-2014-3566-poodle-cookbook">
+
+---
 ## CVE-2014-3470 (2014-06-05T21:55:00)
 > The ssl3_send_client_key_exchange function in s3_clnt.c in OpenSSL before 0.9.8za, 1.0.0 before 1.0.0m, and 1.0.1 before 1.0.1h, when an anonymous ECDH cipher suite is used, allows remote attackers to cause a denial of service (NULL pointer dereference and client crash) by triggering a NULL certificate value.
 - [Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470](https://github.com/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470">
