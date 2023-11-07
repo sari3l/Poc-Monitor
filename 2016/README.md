@@ -1001,6 +1001,7 @@
 ## CVE-2016-0798 (2016-03-03T20:59:00)
 > Memory leak in the SRP_VBASE_get_by_user implementation in OpenSSL 1.0.1 before 1.0.1s and 1.0.2 before 1.0.2g allows remote attackers to cause a denial of service (memory consumption) by providing an invalid username in a connection attempt, related to apps/s_server.c and crypto/srp/srp_vfy.c.
 - [Live-Hack-CVE/CVE-2016-0798](https://github.com/Live-Hack-CVE/CVE-2016-0798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0798">
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2016-0798](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0798)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0798">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0798">
 
 ---
 ## CVE-2016-0797 (2016-03-03T20:59:00)
