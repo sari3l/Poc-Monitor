@@ -114,6 +114,7 @@
 > The BN_sqr implementation in OpenSSL before 0.9.8zd, 1.0.0 before 1.0.0p, and 1.0.1 before 1.0.1k does not properly calculate the square of a BIGNUM value, which might make it easier for remote attackers to defeat cryptographic protection mechanisms via unspecified vectors, related to crypto/bn/asm/mips.pl, crypto/bn/asm/x86_64-gcc.c, and crypto/bn/bn_asm.c.
 - [uthrasri/openssl_G2.5_CVE-2014-3570](https://github.com/uthrasri/openssl_G2.5_CVE-2014-3570)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/openssl_G2.5_CVE-2014-3570">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/openssl_G2.5_CVE-2014-3570">
 - [uthrasri/Openssl_G2.5_CVE-2014-3570_01](https://github.com/uthrasri/Openssl_G2.5_CVE-2014-3570_01)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Openssl_G2.5_CVE-2014-3570_01">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Openssl_G2.5_CVE-2014-3570_01">
+- [uthrasri/CVE-2014-3570](https://github.com/uthrasri/CVE-2014-3570)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2014-3570">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2014-3570">
 
 ---
 ## CVE-2014-3566 (2014-10-15T00:55:00)
