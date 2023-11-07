@@ -34,6 +34,7 @@
 - [A1vinSmith/CVE-2018-9276](https://github.com/A1vinSmith/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/A1vinSmith/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/A1vinSmith/CVE-2018-9276">
 - [andyfeili/CVE-2018-9276](https://github.com/andyfeili/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/andyfeili/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/andyfeili/CVE-2018-9276">
 - [wildkindcc/CVE-2018-9276](https://github.com/wildkindcc/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/wildkindcc/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/wildkindcc/CVE-2018-9276">
+- [mmezirard/cve-2018-9276](https://github.com/mmezirard/cve-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/mmezirard/cve-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/mmezirard/cve-2018-9276">
 
 ---
 ## CVE-2018-8976 (2018-03-25T03:29:00)
