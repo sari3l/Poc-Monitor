@@ -1473,6 +1473,7 @@ prior to
 - [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/juniper-rce_cve-2023-36844">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/juniper-rce_cve-2023-36844">
 - [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-36844">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-36844">
 - [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
+- [realcitril/CVE-2023-36844](https://github.com/realcitril/CVE-2023-36844)	<img alt="forks" src="https://img.shields.io/github/forks/realcitril/CVE-2023-36844">	<img alt="stars" src="https://img.shields.io/github/stars/realcitril/CVE-2023-36844">
 
 ---
 ## CVE-2023-36802 (2023-09-12T17:15:00)
