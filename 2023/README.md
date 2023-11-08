@@ -1945,6 +1945,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [horizon3ai/CVE-2023-34051](https://github.com/horizon3ai/CVE-2023-34051)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-34051">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-34051">
 
 ---
+## CVE-2023-34048 (2023-10-25T18:17:00)
+> vCenter Server contains an out-of-bounds write vulnerability in the implementation of the DCERPC protocol. A malicious actor with network access to vCenter Server may trigger an out-of-bounds write potentially leading to remote code execution.
+- [K1i7n/CVE-2023-34048-findings](https://github.com/K1i7n/CVE-2023-34048-findings)	<img alt="forks" src="https://img.shields.io/github/forks/K1i7n/CVE-2023-34048-findings">	<img alt="stars" src="https://img.shields.io/github/stars/K1i7n/CVE-2023-34048-findings">
+
+---
 ## CVE-2023-34040 (2023-08-24T13:15:00)
 > In Spring for Apache Kafka 3.0.9 and earlier and versions 2.9.10 and earlier, a possible deserialization attack vector existed, but only if unusual configuration was applied. An attacker would have to construct a malicious serialized object in one of the deserialization exception record headers.
 
