@@ -961,6 +961,13 @@
 - [rhpco/CVE-2018-16509](https://github.com/rhpco/CVE-2018-16509)	<img alt="forks" src="https://img.shields.io/github/forks/rhpco/CVE-2018-16509">	<img alt="stars" src="https://img.shields.io/github/stars/rhpco/CVE-2018-16509">
 
 ---
+## CVE-2018-16341 ()
+> 
+- [CN016/Nuxeo-CVE-2018-16341](https://github.com/CN016/Nuxeo-CVE-2018-16341)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Nuxeo-CVE-2018-16341">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Nuxeo-CVE-2018-16341">
+- [puckiestyle/CVE-2018-16341](https://github.com/puckiestyle/CVE-2018-16341)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2018-16341">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2018-16341">
+- [mpgn/CVE-2018-16341](https://github.com/mpgn/CVE-2018-16341)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2018-16341">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2018-16341">
+
+---
 ## CVE-2018-16229 (2019-10-03T16:15:00)
 > The DCCP parser in tcpdump before 4.9.3 has a buffer over-read in print-dccp.c:dccp_print_option().
 - [nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229](https://github.com/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229">
