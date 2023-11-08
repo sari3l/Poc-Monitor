@@ -199,6 +199,7 @@
 ## CVE-2015-3196 (2015-12-06T20:59:00)
 > ssl/s3_clnt.c in OpenSSL 1.0.0 before 1.0.0t, 1.0.1 before 1.0.1p, and 1.0.2 before 1.0.2d, when used for a multi-threaded client, writes the PSK identity hint to an incorrect data structure, which allows remote servers to cause a denial of service (race condition and double free) via a crafted ServerKeyExchange message.
 - [Live-Hack-CVE/CVE-2015-3196](https://github.com/Live-Hack-CVE/CVE-2015-3196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-3196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-3196">
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2015-3196](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2015-3196)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2015-3196">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2015-3196">
 
 ---
 ## CVE-2015-3195 (2015-12-06T20:59:00)
