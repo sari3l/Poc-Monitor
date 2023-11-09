@@ -263,6 +263,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [evkl1d/CVE-2023-46604](https://github.com/evkl1d/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/evkl1d/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/evkl1d/CVE-2023-46604">
 - [sule01u/CVE-2023-46604](https://github.com/sule01u/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/sule01u/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/sule01u/CVE-2023-46604">
 - [justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp](https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp)	<img alt="forks" src="https://img.shields.io/github/forks/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp">	<img alt="stars" src="https://img.shields.io/github/stars/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp">
+- [h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up](https://github.com/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up)	<img alt="forks" src="https://img.shields.io/github/forks/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up">	<img alt="stars" src="https://img.shields.io/github/stars/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up">
 
 ---
 ## CVE-2023-46501 ()
