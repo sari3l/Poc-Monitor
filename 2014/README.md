@@ -92,6 +92,7 @@
 ## CVE-2014-5139 (2014-08-13T23:55:00)
 > The ssl_set_client_disabled function in t1_lib.c in OpenSSL 1.0.1 before 1.0.1i allows remote SSL servers to cause a denial of service (NULL pointer dereference and client application crash) via a ServerHello message that includes an SRP ciphersuite without the required negotiation of that ciphersuite with the client. <a href="http://cwe.mitre.org/data/definitions/476.html" target="_blank">CWE-476: NULL Pointer Dereference</a>
 - [uthrasri/CVE-2014-5139](https://github.com/uthrasri/CVE-2014-5139)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2014-5139">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2014-5139">
+- [uthrasri/G2.5_openssl_CVE-2014-5139](https://github.com/uthrasri/G2.5_openssl_CVE-2014-5139)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/G2.5_openssl_CVE-2014-5139">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/G2.5_openssl_CVE-2014-5139">
 
 ---
 ## CVE-2014-4717 (2014-07-03T14:55:00)
