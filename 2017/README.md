@@ -210,6 +210,11 @@
 - [liusec/CVE-2017-7529](https://github.com/liusec/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/liusec/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/liusec/CVE-2017-7529">
 
 ---
+## CVE-2017-75 ()
+> 
+- [CalebFIN/EXP-CVE-2017-75](https://github.com/CalebFIN/EXP-CVE-2017-75)	<img alt="forks" src="https://img.shields.io/github/forks/CalebFIN/EXP-CVE-2017-75">	<img alt="stars" src="https://img.shields.io/github/stars/CalebFIN/EXP-CVE-2017-75">
+
+---
 ## CVE-2017-7494 (2017-05-30T18:29:00)
 > Samba since version 3.5.0 and before 4.6.4, 4.5.10 and 4.4.14 is vulnerable to remote code execution vulnerability, allowing a malicious client to upload a shared library to a writable share, and then cause the server to load and execute it.
 - [elellacode/exploit-CVE-2017-7494](https://github.com/elellacode/exploit-CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/elellacode/exploit-CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/elellacode/exploit-CVE-2017-7494">
