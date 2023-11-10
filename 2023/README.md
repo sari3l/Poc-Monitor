@@ -173,6 +173,11 @@
 - [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2023-4762-Code-Review">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2023-4762-Code-Review">
 
 ---
+## CVE-2023-47459 ()
+> 
+- [aleksey-vi/CVE-2023-47459](https://github.com/aleksey-vi/CVE-2023-47459)	<img alt="forks" src="https://img.shields.io/github/forks/aleksey-vi/CVE-2023-47459">	<img alt="stars" src="https://img.shields.io/github/stars/aleksey-vi/CVE-2023-47459">
+
+---
 ## CVE-2023-4741 (2023-09-03T23:15:00)
 > A vulnerability has been found in IBOS OA 4.5.5 and classified as critical. This vulnerability affects unknown code of the file ?r=diary/default/del of the component Delete Logs Handler. The manipulation leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-238630 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741)	<img alt="forks" src="https://img.shields.io/github/forks/wudidike/CVE-2023-4741">	<img alt="stars" src="https://img.shields.io/github/stars/wudidike/CVE-2023-4741">
