@@ -1057,6 +1057,7 @@
 ## CVE-2016-0705 (2016-03-03T20:59:00)
 > Double free vulnerability in the dsa_priv_decode function in crypto/dsa/dsa_ameth.c in OpenSSL 1.0.1 before 1.0.1s and 1.0.2 before 1.0.2g allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via a malformed DSA private key.
 - [Live-Hack-CVE/CVE-2016-0705](https://github.com/Live-Hack-CVE/CVE-2016-0705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0705">
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2016-0705](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0705)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0705">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0705">
 
 ---
 ## CVE-2016-0703 (2016-03-02T11:59:00)
