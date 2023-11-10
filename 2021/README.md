@@ -5343,6 +5343,7 @@
 ## CVE-2021-32682 (2021-06-14T17:15:00)
 > elFinder is an open-source file manager for web, written in JavaScript using jQuery UI. Several vulnerabilities affect elFinder 2.1.58. These vulnerabilities can allow an attacker to execute arbitrary code and commands on the server hosting the elFinder PHP connector, even with minimal configuration. The issues were patched in version 2.1.59. As a workaround, ensure the connector is not exposed without authentication.
 - [Live-Hack-CVE/CVE-2021-32682](https://github.com/Live-Hack-CVE/CVE-2021-32682)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32682">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32682">
+- [nickswink/CVE-2021-32682](https://github.com/nickswink/CVE-2021-32682)	<img alt="forks" src="https://img.shields.io/github/forks/nickswink/CVE-2021-32682">	<img alt="stars" src="https://img.shields.io/github/stars/nickswink/CVE-2021-32682">
 
 ---
 ## CVE-2021-32678 (2021-07-12T13:15:00)
