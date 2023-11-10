@@ -2333,6 +2333,11 @@ Fixed in version 6.4.1.
 - [jmrcsnchz/CVE-2023-32073](https://github.com/jmrcsnchz/CVE-2023-32073)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-32073">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-32073">
 
 ---
+## CVE-2023-32031 (2023-06-14T15:15:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability
+- [Avento/CVE-2023-32031](https://github.com/Avento/CVE-2023-32031)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-32031">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-32031">
+
+---
 ## CVE-2023-31853 (2023-07-17T15:15:00)
 > Cudy LT400 1.13.4 is vulnerable Cross Site Scripting (XSS) in /cgi-bin/luci/admin/network/bandwidth via the icon parameter.
 - [CalfCrusher/CVE-2023-31853](https://github.com/CalfCrusher/CVE-2023-31853)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31853">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31853">
