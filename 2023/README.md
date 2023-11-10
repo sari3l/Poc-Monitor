@@ -3486,6 +3486,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC](https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">
 
 ---
+## CVE-2023-24706 ()
+> 
+- [hatjwe/CVE-2023-24706](https://github.com/hatjwe/CVE-2023-24706)	<img alt="forks" src="https://img.shields.io/github/forks/hatjwe/CVE-2023-24706">	<img alt="stars" src="https://img.shields.io/github/stars/hatjwe/CVE-2023-24706">
+
+---
 ## CVE-2023-24610 (2023-02-01T14:15:00)
 > NOSH 4a5cfdb allows remote authenticated users to execute PHP arbitrary code via the "practice logo" upload feature. The client-side checks can be bypassed. This may allow attackers to steal Protected Health Information because the product is for health charting.
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
