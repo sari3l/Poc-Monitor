@@ -321,6 +321,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [RandomRobbieBF/CVE-2023-46197](https://github.com/RandomRobbieBF/CVE-2023-46197)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-46197">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-46197">
 
 ---
+## CVE-2023-46014 ()
+> 
+- [ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">
+
+---
 ## CVE-2023-46003 (2023-10-21T01:15:00)
 > I-doit pro 25 and below is vulnerable to Cross Site Scripting (XSS) via index.php.
 - [leekenghwa/CVE-2023-46003](https://github.com/leekenghwa/CVE-2023-46003)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-46003">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-46003">
