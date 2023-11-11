@@ -2111,7 +2111,7 @@
 - [gozn/detect-CVE-2019-15107-by-pyshark](https://github.com/gozn/detect-CVE-2019-15107-by-pyshark)	<img alt="forks" src="https://img.shields.io/github/forks/gozn/detect-CVE-2019-15107-by-pyshark">	<img alt="stars" src="https://img.shields.io/github/stars/gozn/detect-CVE-2019-15107-by-pyshark">
 - [h4ck0rman/CVE-2019-15107](https://github.com/h4ck0rman/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/h4ck0rman/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/h4ck0rman/CVE-2019-15107">
 - [olingo99/CVE-2019-15107](https://github.com/olingo99/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/olingo99/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/olingo99/CVE-2019-15107">
-- [aamfrk/Webmin-CVE2019-15107](https://github.com/aamfrk/Webmin-CVE2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/aamfrk/Webmin-CVE2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/aamfrk/Webmin-CVE2019-15107">
+- [aamfrk/Webmin-CVE-2019-15107](https://github.com/aamfrk/Webmin-CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/aamfrk/Webmin-CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/aamfrk/Webmin-CVE-2019-15107">
 
 ---
 ## CVE-2019-14907 (2020-01-21T18:15:00)
