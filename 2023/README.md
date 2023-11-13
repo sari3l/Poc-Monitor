@@ -22,6 +22,16 @@
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
 
 ---
+## CVE-2023-5966 ()
+> 
+- [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5966">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5966">
+
+---
+## CVE-2023-5965 ()
+> 
+- [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5965">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5965">
+
+---
 ## CVE-2023-5843 (2023-10-30T14:15:00)
 > The Ads by datafeedr.com plugin for WordPress is vulnerable to Remote Code Execution in versions up to, and including, 1.1.3 via the 'dfads_ajax_load_ads' function. This allows unauthenticated attackers to execute code on the server. The parameters of the callable function are limited, they cannot be specified arbitrarily.
 - [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5843-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5843-PoC">
