@@ -783,6 +783,7 @@ The vulnerability is limited to the ROOT (default) web application.
 > A buffer overflow issue was addressed with improved memory handling. This issue is fixed in macOS Monterey 12.6.9, macOS Big Sur 11.7.10, macOS Ventura 13.5.2, iOS 16.6.1 and iPadOS 16.6.1, iOS 15.7.9 and iPadOS 15.7.9. Processing a maliciously crafted image may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.
 - [apt0factury/CVE-2023-41064](https://github.com/apt0factury/CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-41064">
 - [MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064](https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064">
+- [MrR0b0t19/CVE-2023-41064](https://github.com/MrR0b0t19/CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2023-41064">
 
 ---
 ## CVE-2023-40989 (2023-09-22T20:15:00)
