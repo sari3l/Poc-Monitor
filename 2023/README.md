@@ -3025,6 +3025,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [hheeyywweellccoommee/CVE-2023-28252-vseik](https://github.com/hheeyywweellccoommee/CVE-2023-28252-vseik)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-28252-vseik">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-28252-vseik">
 - [726232111/CVE-2023-28252](https://github.com/726232111/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/726232111/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/726232111/CVE-2023-28252">
 - [hheeyywweellccoommee/CVE-2023-28252-djtiu](https://github.com/hheeyywweellccoommee/CVE-2023-28252-djtiu)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-28252-djtiu">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-28252-djtiu">
+- [Danasuley/CVE-2023-28252-](https://github.com/Danasuley/CVE-2023-28252-)	<img alt="forks" src="https://img.shields.io/github/forks/Danasuley/CVE-2023-28252-">	<img alt="stars" src="https://img.shields.io/github/stars/Danasuley/CVE-2023-28252-">
 
 ---
 ## CVE-2023-2825 (2023-05-26T21:15:00)
