@@ -173,6 +173,11 @@
 - [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2023-4762-Code-Review">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2023-4762-Code-Review">
 
 ---
+## CVE-2023-47529 ()
+> 
+- [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47529">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47529">
+
+---
 ## CVE-2023-47460 ()
 > 
 - [aleksey-vi/CVE-2023-47460](https://github.com/aleksey-vi/CVE-2023-47460)	<img alt="forks" src="https://img.shields.io/github/forks/aleksey-vi/CVE-2023-47460">	<img alt="stars" src="https://img.shields.io/github/stars/aleksey-vi/CVE-2023-47460">
