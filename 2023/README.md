@@ -173,6 +173,16 @@
 - [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion)	<img alt="forks" src="https://img.shields.io/github/forks/OITApps/Find-VulnerableElectronVersion">	<img alt="stars" src="https://img.shields.io/github/stars/OITApps/Find-VulnerableElectronVersion">
 
 ---
+## CVE-2023-48198 ()
+> 
+- [nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48198">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48198">
+
+---
+## CVE-2023-48197 ()
+> 
+- [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48197">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48197">
+
+---
 ## CVE-2023-4800 (2023-10-16T20:15:00)
 > The DoLogin Security WordPress plugin before 3.7.1 does not restrict the access of a widget that shows the IPs of failed logins to low privileged users.
 - [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4800">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4800">
@@ -1528,6 +1538,7 @@ prior to
 - [simrotion13/CVE-2023-36845](https://github.com/simrotion13/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/simrotion13/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/simrotion13/CVE-2023-36845">
 - [cyberh3als/CVE-2023-36845-POC](https://github.com/cyberh3als/CVE-2023-36845-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyberh3als/CVE-2023-36845-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyberh3als/CVE-2023-36845-POC">
 - [WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845](https://github.com/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845">
+- [ditekshen/ansible-cve-2023-36845](https://github.com/ditekshen/ansible-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ditekshen/ansible-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ditekshen/ansible-cve-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
