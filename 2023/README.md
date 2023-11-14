@@ -2319,6 +2319,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/ValentinPundikov/poc-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/ValentinPundikov/poc-CVE-2023-32784">
 
 ---
+## CVE-2023-32707 (2023-06-01T17:15:00)
+> In versions of Splunk Enterprise below 9.0.5, 8.2.11, and 8.1.14, and Splunk Cloud Platform below version 9.0.2303.100, a low-privileged user who holds a role that has the ‘edit_user’ capability assigned to it can escalate their privileges to that of the admin user by providing specially crafted web requests.
+- [9xN/CVE-2023-32707](https://github.com/9xN/CVE-2023-32707)	<img alt="forks" src="https://img.shields.io/github/forks/9xN/CVE-2023-32707">	<img alt="stars" src="https://img.shields.io/github/stars/9xN/CVE-2023-32707">
+
+---
 ## CVE-2023-32681 (2023-05-26T18:15:00)
 > Requests is a HTTP library. Since Requests 2.3.0, Requests has been leaking Proxy-Authorization headers to destination servers when redirected to an HTTPS endpoint. This is a product of how we use `rebuild_proxies` to reattach the `Proxy-Authorization` header to requests. For HTTP connections sent through the tunnel, the proxy will identify the header in the request itself and remove it prior to forwarding to the destination server. However when sent over HTTPS, the `Proxy-Authorization` header must be sent in the CONNECT request as the proxy has no visibility into the tunneled request. This results in Requests forwarding proxy credentials to the destination server unintentionally, allowing a malicious actor to potentially exfiltrate sensitive information. This issue has been patched in version 2.31.0.
 
