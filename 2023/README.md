@@ -3447,6 +3447,7 @@ and the severity is therefore considered low.
 - [Trinadh465/jetty_9.4.31_CVE-2023-26049](https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26049)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/jetty_9.4.31_CVE-2023-26049">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/jetty_9.4.31_CVE-2023-26049">
 - [nidhi7598/jetty-9.4.31_CVE-2023-26049](https://github.com/nidhi7598/jetty-9.4.31_CVE-2023-26049)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/jetty-9.4.31_CVE-2023-26049">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/jetty-9.4.31_CVE-2023-26049">
 - [hshivhare67/Jetty-v9.4.31_CVE-2023-26049](https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26049)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty-v9.4.31_CVE-2023-26049">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty-v9.4.31_CVE-2023-26049">
+- [hshivhare67/Jetty-v9.4.31_CVE-2023-26049_new](https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26049_new)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty-v9.4.31_CVE-2023-26049_new">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty-v9.4.31_CVE-2023-26049_new">
 
 ---
 ## CVE-2023-26048 (2023-04-18T21:15:00)
