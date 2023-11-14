@@ -178,6 +178,11 @@
 - [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4800">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4800">
 
 ---
+## CVE-2023-47668 ()
+> 
+- [RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47668">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47668">
+
+---
 ## CVE-2023-4762 (2023-09-05T22:15:00)
 > Type Confusion in V8 in Google Chrome prior to 116.0.5845.179 allowed a remote attacker to execute arbitrary code via a crafted HTML page. (Chromium security severity: High)
 - [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762)	<img alt="forks" src="https://img.shields.io/github/forks/buptsb/CVE-2023-4762">	<img alt="stars" src="https://img.shields.io/github/stars/buptsb/CVE-2023-4762">
@@ -2351,6 +2356,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation](https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation">
 - [vinetsuicide/CVE-2023-2640-CVE-2023-32629](https://github.com/vinetsuicide/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/vinetsuicide/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/vinetsuicide/CVE-2023-2640-CVE-2023-32629">
 - [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation">
+- [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC">
 
 ---
 ## CVE-2023-32560 (2023-08-10T20:15:00)
