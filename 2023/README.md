@@ -2410,6 +2410,11 @@ Fixed in version 6.4.1.
 - [ZZY3312/CVE-2023-32434](https://github.com/ZZY3312/CVE-2023-32434)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-32434">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-32434">
 
 ---
+## CVE-2023-32407 (2023-06-23T18:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in watchOS 9.5, tvOS 16.5, macOS Ventura 13.4, iOS 15.7.6 and iPadOS 15.7.6, macOS Big Sur 11.7.7, macOS Monterey 12.6.6, iOS 16.5 and iPadOS 16.5. An app may be able to bypass Privacy preferences.
+- [gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal](https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal)	<img alt="forks" src="https://img.shields.io/github/forks/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal">	<img alt="stars" src="https://img.shields.io/github/stars/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal">
+
+---
 ## CVE-2023-32364 (2023-07-27T01:15:00)
 > A logic issue was addressed with improved restrictions. This issue is fixed in macOS Ventura 13.5. A sandboxed process may be able to circumvent sandbox restrictions.
 - [gergelykalman/CVE-2023-32364-macos-app-sandbox-escape](https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape)	<img alt="forks" src="https://img.shields.io/github/forks/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape">	<img alt="stars" src="https://img.shields.io/github/stars/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape">
