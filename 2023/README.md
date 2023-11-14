@@ -2647,6 +2647,11 @@ Fixed in version 6.4.1.
 - [u238/Elasticsearch-CVE-2023-31419](https://github.com/u238/Elasticsearch-CVE-2023-31419)	<img alt="forks" src="https://img.shields.io/github/forks/u238/Elasticsearch-CVE-2023-31419">	<img alt="stars" src="https://img.shields.io/github/stars/u238/Elasticsearch-CVE-2023-31419">
 
 ---
+## CVE-2023-31320 ()
+> 
+- [whypet/CVE-2023-31320](https://github.com/whypet/CVE-2023-31320)	<img alt="forks" src="https://img.shields.io/github/forks/whypet/CVE-2023-31320">	<img alt="stars" src="https://img.shields.io/github/stars/whypet/CVE-2023-31320">
+
+---
 ## CVE-2023-3124 (2023-06-07T02:15:00)
 > The Elementor Pro plugin for WordPress is vulnerable to unauthorized data modification due to a missing capability check on the update_page_option function in versions up to, and including, 3.11.6. This makes it possible for authenticated attackers with subscriber-level capabilities to update arbitrary site options, which can lead to privilege escalation.
 - [AmirWhiteHat/CVE-2023-3124](https://github.com/AmirWhiteHat/CVE-2023-3124)	<img alt="forks" src="https://img.shields.io/github/forks/AmirWhiteHat/CVE-2023-3124">	<img alt="stars" src="https://img.shields.io/github/stars/AmirWhiteHat/CVE-2023-3124">
