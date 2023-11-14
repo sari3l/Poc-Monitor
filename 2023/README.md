@@ -234,6 +234,11 @@
 - [quantiano/cve-2023-47102](https://github.com/quantiano/cve-2023-47102)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47102">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47102">
 
 ---
+## CVE-2023-47014 ()
+> 
+- [emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS](https://github.com/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS)	<img alt="forks" src="https://img.shields.io/github/forks/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS">	<img alt="stars" src="https://img.shields.io/github/stars/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS">
+
+---
 ## CVE-2023-46998 ()
 > 
 - [soy-oreocato/CVE-2023-46998](https://github.com/soy-oreocato/CVE-2023-46998)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2023-46998">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2023-46998">
