@@ -67,6 +67,11 @@
 - [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521)	<img alt="forks" src="https://img.shields.io/github/forks/Ylarod/CVE-2023-5521">	<img alt="stars" src="https://img.shields.io/github/stars/Ylarod/CVE-2023-5521">
 
 ---
+## CVE-2023-54436 ()
+> 
+- [NHPT/CVE-2023-54436](https://github.com/NHPT/CVE-2023-54436)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-54436">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-54436">
+
+---
 ## CVE-2023-5412 (2023-10-31T09:15:00)
 > The Image horizontal reel scroll slideshow plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 13.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [RandomRobbieBF/CVE-2023-5412](https://github.com/RandomRobbieBF/CVE-2023-5412)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5412">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5412">
