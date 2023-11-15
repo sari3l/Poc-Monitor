@@ -22,6 +22,11 @@
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
 
 ---
+## CVE-2023-6063 ()
+> 
+- [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-6063-PoC">
+
+---
 ## CVE-2023-5966 ()
 > 
 - [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5966">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5966">
