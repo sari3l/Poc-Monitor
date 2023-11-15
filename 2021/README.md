@@ -3451,6 +3451,11 @@
 - [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/CVE-2021-38314">
 
 ---
+## CVE-2021-38297 (2021-10-18T06:15:00)
+> Go before 1.16.9 and 1.17.x before 1.17.2 has a Buffer Overflow via large arguments in a function invocation from a WASM module, when GOARCH=wasm GOOS=js is used.
+- [gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297)	<img alt="forks" src="https://img.shields.io/github/forks/gkrishnan724/CVE-2021-38297">	<img alt="stars" src="https://img.shields.io/github/stars/gkrishnan724/CVE-2021-38297">
+
+---
 ## CVE-2021-38294 (2021-10-25T13:15:00)
 > A Command Injection vulnerability exists in the getTopologyHistory service of the Apache Storm 2.x prior to 2.2.1 and Apache Storm 1.x prior to 1.2.4. A specially crafted thrift request to the Nimbus server allows Remote Code Execution (RCE) prior to authentication.
 - [Live-Hack-CVE/CVE-2021-38294](https://github.com/Live-Hack-CVE/CVE-2021-38294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38294">
