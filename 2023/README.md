@@ -975,6 +975,11 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39707">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39707">
 
 ---
+## CVE-2023-39539 ()
+> 
+- [AdamWen230/CVE-2023-39539-PoC](https://github.com/AdamWen230/CVE-2023-39539-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/AdamWen230/CVE-2023-39539-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/AdamWen230/CVE-2023-39539-PoC">
+
+---
 ## CVE-2023-39144 (2023-08-03T03:15:00)
 > Element55 KnowMore appliances version 21 and older was discovered to store passwords in plaintext.
 - [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/CVE-2023-39144">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/CVE-2023-39144">
