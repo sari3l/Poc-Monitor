@@ -2427,6 +2427,11 @@ Fixed in version 6.4.1.
 - [ZZY3312/CVE-2023-32434](https://github.com/ZZY3312/CVE-2023-32434)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-32434">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-32434">
 
 ---
+## CVE-2023-32422 (2023-06-23T18:15:00)
+> This issue was addressed by adding additional SQLite logging restrictions. This issue is fixed in iOS 16.5 and iPadOS 16.5, tvOS 16.5, macOS Ventura 13.4. An app may be able to bypass Privacy preferences.
+- [gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite](https://github.com/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite)	<img alt="forks" src="https://img.shields.io/github/forks/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite">	<img alt="stars" src="https://img.shields.io/github/stars/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite">
+
+---
 ## CVE-2023-32407 (2023-06-23T18:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in watchOS 9.5, tvOS 16.5, macOS Ventura 13.4, iOS 15.7.6 and iPadOS 15.7.6, macOS Big Sur 11.7.7, macOS Monterey 12.6.6, iOS 16.5 and iPadOS 16.5. An app may be able to bypass Privacy preferences.
 - [gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal](https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal)	<img alt="forks" src="https://img.shields.io/github/forks/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal">	<img alt="stars" src="https://img.shields.io/github/stars/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal">
