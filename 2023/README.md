@@ -233,6 +233,7 @@
 ## CVE-2023-47488 ()
 > 
 - [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47488">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47488">
+- [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47488">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47488">
 
 ---
 ## CVE-2023-47460 ()
