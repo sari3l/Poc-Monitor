@@ -2954,6 +2954,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [tucommenceapousser/CVE-2023-29489.py](https://github.com/tucommenceapousser/CVE-2023-29489.py)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-29489.py">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-29489.py">
 - [ViperM4sk/cpanel-xss-177](https://github.com/ViperM4sk/cpanel-xss-177)	<img alt="forks" src="https://img.shields.io/github/forks/ViperM4sk/cpanel-xss-177">	<img alt="stars" src="https://img.shields.io/github/stars/ViperM4sk/cpanel-xss-177">
 - [S4muraiMelayu1337/CVE-2023-29489](https://github.com/S4muraiMelayu1337/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/S4muraiMelayu1337/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/S4muraiMelayu1337/CVE-2023-29489">
+- [SynixCyberCrimeMy/CVE-2023-29489](https://github.com/SynixCyberCrimeMy/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/SynixCyberCrimeMy/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/SynixCyberCrimeMy/CVE-2023-29489">
 
 ---
 ## CVE-2023-29439 (2023-05-16T15:15:00)
