@@ -6159,6 +6159,7 @@
 > In Eclipse Jetty 7.2.2 to 9.4.38, 10.0.0.alpha0 to 10.0.1, and 11.0.0.alpha0 to 11.0.1, CPU usage can reach 100% upon receiving a large invalid TLS frame.
 - [nidhi7598/jetty-9.4.31_CVE-2021-28165](https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/jetty-9.4.31_CVE-2021-28165">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/jetty-9.4.31_CVE-2021-28165">
 - [uthrasri/CVE-2021-28165](https://github.com/uthrasri/CVE-2021-28165)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2021-28165">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2021-28165">
+- [hshivhare67/Jetty_v9.4.31_CVE-2021-28165](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2021-28165)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty_v9.4.31_CVE-2021-28165">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty_v9.4.31_CVE-2021-28165">
 
 ---
 ## CVE-2021-28164 (2021-04-01T15:15:00)

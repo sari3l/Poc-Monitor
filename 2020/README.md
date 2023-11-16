@@ -2102,6 +2102,8 @@
 > In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a request containing multiple Accept headers with a large number of “quality” (i.e. q) parameters, the server may enter a denial of service (DoS) state due to high CPU usage processing those quality values, resulting in minutes of CPU time exhausted processing those quality values.
 - [hshivhare67/Jetty_v9.4.31_CVE-2020-27223_beforepatch](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2020-27223_beforepatch)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty_v9.4.31_CVE-2020-27223_beforepatch">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty_v9.4.31_CVE-2020-27223_beforepatch">
 - [hshivhare67/Jetty_v9.4.31_CVE-2020-27223](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2020-27223)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty_v9.4.31_CVE-2020-27223">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty_v9.4.31_CVE-2020-27223">
+- [ttestoo/Jetty-CVE-2020-27223](https://github.com/ttestoo/Jetty-CVE-2020-27223)	<img alt="forks" src="https://img.shields.io/github/forks/ttestoo/Jetty-CVE-2020-27223">	<img alt="stars" src="https://img.shields.io/github/stars/ttestoo/Jetty-CVE-2020-27223">
+- [motikan2010/CVE-2020-27223](https://github.com/motikan2010/CVE-2020-27223)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2020-27223">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2020-27223">
 
 ---
 ## CVE-2020-27216 (2020-10-23T13:15:00)
