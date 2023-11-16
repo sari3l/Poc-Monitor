@@ -26,6 +26,7 @@
 > 
 - [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-6063-PoC">
 - [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hackersroot/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hackersroot/CVE-2023-6063-PoC">
+- [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063)	<img alt="forks" src="https://img.shields.io/github/forks/thesafdari/CVE-2023-6063">	<img alt="stars" src="https://img.shields.io/github/stars/thesafdari/CVE-2023-6063">
 
 ---
 ## CVE-2023-5966 ()
