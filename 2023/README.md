@@ -3559,6 +3559,11 @@ and the severity is therefore considered low.
 - [Trinadh465/jetty_9.4.31_CVE-2023-26048](https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26048)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/jetty_9.4.31_CVE-2023-26048">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/jetty_9.4.31_CVE-2023-26048">
 
 ---
+## CVE-2023-2598 (2023-06-01T01:15:00)
+> A flaw was found in the fixed buffer registration code for io_uring (io_sqe_buffer_register in io_uring/rsrc.c) in the Linux kernel that allows out-of-bounds access to physical memory beyond the end of the buffer. This flaw enables full local privilege escalation.
+- [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598)	<img alt="forks" src="https://img.shields.io/github/forks/ysanatomic/io_uring_LPE-CVE-2023-2598">	<img alt="stars" src="https://img.shields.io/github/stars/ysanatomic/io_uring_LPE-CVE-2023-2598">
+
+---
 ## CVE-2023-2594 (2023-05-09T13:15:00)
 > A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396.
 - [thehackingverse/CVE-2023-2594](https://github.com/thehackingverse/CVE-2023-2594)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2023-2594">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2023-2594">
