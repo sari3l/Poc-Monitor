@@ -276,6 +276,7 @@
 ## CVE-2023-47246 ()
 > 
 - [ex0day/CVE-2023-47246](https://github.com/ex0day/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/ex0day/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/ex0day/CVE-2023-47246">
+- [W01fh4cker/CVE-2023-47246-EXP](https://github.com/W01fh4cker/CVE-2023-47246-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2023-47246-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2023-47246-EXP">
 
 ---
 ## CVE-2023-47184 ()
@@ -561,6 +562,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 ## CVE-2023-44811 (2023-10-09T20:15:00)
 > Cross Site Request Forgery (CSRF) vulnerability in MooSocial v.3.1.8 allows a remote attacker to execute arbitrary code and obtain sensitive information via the admin Password Change Function.
 - [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44811">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44811">
+
+---
+## CVE-2023-44796 ()
+> 
+- [Hebing123/CVE-2023-44796](https://github.com/Hebing123/CVE-2023-44796)	<img alt="forks" src="https://img.shields.io/github/forks/Hebing123/CVE-2023-44796">	<img alt="stars" src="https://img.shields.io/github/stars/Hebing123/CVE-2023-44796">
 
 ---
 ## CVE-2023-44487 (2023-10-10T14:15:00)
