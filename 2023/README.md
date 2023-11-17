@@ -205,6 +205,11 @@
 - [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48197">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48197">
 
 ---
+## CVE-2023-48123 ()
+> 
+- [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-48123">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-48123">
+
+---
 ## CVE-2023-48031 ()
 > 
 - [nitipoom-jar/CVE-2023-48031](https://github.com/nitipoom-jar/CVE-2023-48031)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48031">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48031">
