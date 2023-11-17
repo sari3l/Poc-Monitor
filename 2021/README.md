@@ -4166,6 +4166,11 @@
 - [Live-Hack-CVE/CVE-2021-3598](https://github.com/Live-Hack-CVE/CVE-2021-3598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3598">
 
 ---
+## CVE-2021-35975 ()
+> 
+- [fbkcs/CVE-2021-35975](https://github.com/fbkcs/CVE-2021-35975)	<img alt="forks" src="https://img.shields.io/github/forks/fbkcs/CVE-2021-35975">	<img alt="stars" src="https://img.shields.io/github/stars/fbkcs/CVE-2021-35975">
+
+---
 ## CVE-2021-3597 (2022-05-24T19:15:00)
 > A flaw was found in undertow. The HTTP2SourceChannel fails to write the final frame under some circumstances, resulting in a denial of service. The highest threat from this vulnerability is availability. This flaw affects Undertow versions prior to 2.0.35.SP1, prior to 2.2.6.SP1, prior to 2.2.7.SP1, prior to 2.0.36.SP1, prior to 2.2.9.Final and prior to 2.0.39.Final.
 - [Live-Hack-CVE/CVE-2021-3597](https://github.com/Live-Hack-CVE/CVE-2021-3597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3597">

@@ -2631,6 +2631,11 @@
 - [Live-Hack-CVE/CVE-2020-24771](https://github.com/Live-Hack-CVE/CVE-2020-24771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24771">
 
 ---
+## CVE-2020-24765 (2020-10-20T20:15:00)
+> InterMind iMind Server through 3.13.65 allows remote unauthenticated attackers to read the self-diagnostic archive via a direct api/rs/monitoring/rs/api/system/dump-diagnostic-info?server=127.0.0.1 request.
+- [fbkcs/CVE-2020-24765](https://github.com/fbkcs/CVE-2020-24765)	<img alt="forks" src="https://img.shields.io/github/forks/fbkcs/CVE-2020-24765">	<img alt="stars" src="https://img.shields.io/github/stars/fbkcs/CVE-2020-24765">
+
+---
 ## CVE-2020-24645 (2023-01-06T16:15:00)
 > CVE was unused by HPE.
 - [Live-Hack-CVE/CVE-2020-24645](https://github.com/Live-Hack-CVE/CVE-2020-24645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24645">
