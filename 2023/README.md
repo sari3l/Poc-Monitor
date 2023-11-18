@@ -307,6 +307,7 @@
 ## CVE-2023-47102 ()
 > 
 - [quantiano/cve-2023-47102](https://github.com/quantiano/cve-2023-47102)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47102">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47102">
+- [nitipoom-jar/CVE-2023-47102](https://github.com/nitipoom-jar/CVE-2023-47102)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47102">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47102">
 
 ---
 ## CVE-2023-47014 ()
