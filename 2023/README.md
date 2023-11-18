@@ -2453,6 +2453,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [k4but0/Ubuntu-LPE](https://github.com/k4but0/Ubuntu-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/k4but0/Ubuntu-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/k4but0/Ubuntu-LPE">
 
 ---
+## CVE-2023-32571 (2023-06-22T20:15:00)
+> Dynamic Linq 1.0.7.10 through 1.2.25 before 1.3.0 allows attackers to execute arbitrary code and commands when untrusted input to methods including Where, Select, OrderBy is parsed.
+- [Tris0n/CVE-2023-32571-POC](https://github.com/Tris0n/CVE-2023-32571-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Tris0n/CVE-2023-32571-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Tris0n/CVE-2023-32571-POC">
+
+---
 ## CVE-2023-32560 (2023-08-10T20:15:00)
 > An attacker can send a specially crafted message to the Wavelink Avalanche Manager, which could result in service disruption or arbitrary code execution.
 
