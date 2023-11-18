@@ -615,7 +615,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 ---
 ## CVE-2023-4357 (2023-08-15T18:15:00)
 > Insufficient validation of untrusted input in XML in Google Chrome prior to 116.0.5845.96 allowed a remote attacker to bypass file access restrictions via a crafted HTML page. (Chromium security severity: Medium)
-- [xcanwin/CVE-2023-4357-Chrome-LFI](https://github.com/xcanwin/CVE-2023-4357-Chrome-LFI)	<img alt="forks" src="https://img.shields.io/github/forks/xcanwin/CVE-2023-4357-Chrome-LFI">	<img alt="stars" src="https://img.shields.io/github/stars/xcanwin/CVE-2023-4357-Chrome-LFI">
+- [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/xcanwin/CVE-2023-4357-Chrome-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/xcanwin/CVE-2023-4357-Chrome-XXE">
 
 ---
 ## CVE-2023-4350 (2023-08-15T18:15:00)
