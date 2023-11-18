@@ -2948,6 +2948,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [H4K6/CVE-2023-2982-POC](https://github.com/H4K6/CVE-2023-2982-POC)	<img alt="forks" src="https://img.shields.io/github/forks/H4K6/CVE-2023-2982-POC">	<img alt="stars" src="https://img.shields.io/github/stars/H4K6/CVE-2023-2982-POC">
 - [LoaiEsam37/CVE-2023-2982](https://github.com/LoaiEsam37/CVE-2023-2982)	<img alt="forks" src="https://img.shields.io/github/forks/LoaiEsam37/CVE-2023-2982">	<img alt="stars" src="https://img.shields.io/github/stars/LoaiEsam37/CVE-2023-2982">
 - [hheeyywweellccoommee/CVE-2023-2982-ugdqh](https://github.com/hheeyywweellccoommee/CVE-2023-2982-ugdqh)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2982-ugdqh">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2982-ugdqh">
+- [wshinkle/CVE-2023-2982](https://github.com/wshinkle/CVE-2023-2982)	<img alt="forks" src="https://img.shields.io/github/forks/wshinkle/CVE-2023-2982">	<img alt="stars" src="https://img.shields.io/github/stars/wshinkle/CVE-2023-2982">
 
 ---
 ## CVE-2023-29809 (2023-05-12T01:15:00)
