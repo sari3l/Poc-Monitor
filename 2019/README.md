@@ -2695,6 +2695,11 @@
 - [linhlhq/CVE-2019-0604](https://github.com/linhlhq/CVE-2019-0604)	<img alt="forks" src="https://img.shields.io/github/forks/linhlhq/CVE-2019-0604">	<img alt="stars" src="https://img.shields.io/github/stars/linhlhq/CVE-2019-0604">
 
 ---
+## CVE-2019-0567 (2019-01-08T21:29:00)
+> A remote code execution vulnerability exists in the way that the Chakra scripting engine handles objects in memory in Microsoft Edge, aka "Chakra Scripting Engine Memory Corruption Vulnerability." This affects Microsoft Edge, ChakraCore. This CVE ID is unique from CVE-2019-0539, CVE-2019-0568.
+- [NatteeSetobol/Chakra-CVE-2019-0567](https://github.com/NatteeSetobol/Chakra-CVE-2019-0567)	<img alt="forks" src="https://img.shields.io/github/forks/NatteeSetobol/Chakra-CVE-2019-0567">	<img alt="stars" src="https://img.shields.io/github/stars/NatteeSetobol/Chakra-CVE-2019-0567">
+
+---
 ## CVE-2019-0257 (2019-02-15T18:29:00)
 > Customizing functionality of SAP NetWeaver AS ABAP Platform (fixed in versions from 7.0 to 7.02, from 7.10 to 7.11, 7.30, 7.31, 7.40, from 7.50 to 7.53, from 7.74 to 7.75) does not perform necessary authorization checks for an authenticated user, resulting in escalation of privileges.
 - [Live-Hack-CVE/CVE-2019-0257](https://github.com/Live-Hack-CVE/CVE-2019-0257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0257">
