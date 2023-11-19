@@ -1,6 +1,11 @@
 # 2014 List
 
 ---
+## CVE-2014-9690 (2017-04-02T20:59:00)
+> Huawei home gateways WS318 with software V100R001C01B022 and earlier versions are affected by the PIN offline brute force cracking vulnerability of the WPS protocol because the random number generator (RNG) used in the supplier's solution is not random enough. As a result, brute force cracking the PIN code is easier. After an attacker cracks the PIN, the attacker can access the Internet via the cracked device.
+- [ForceFledgling/CVE-2014-9690](https://github.com/ForceFledgling/CVE-2014-9690)	<img alt="forks" src="https://img.shields.io/github/forks/ForceFledgling/CVE-2014-9690">	<img alt="stars" src="https://img.shields.io/github/stars/ForceFledgling/CVE-2014-9690">
+
+---
 ## CVE-2014-8731 (2017-03-23T17:59:00)
 > PHPMemcachedAdmin 1.2.2 and earlier allows remote attackers to execute arbitrary PHP code via vectors related "serialized data and the last part of the concatenated filename," which creates a file in webroot.
 - [sbani/CVE-2014-8731-PoC](https://github.com/sbani/CVE-2014-8731-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sbani/CVE-2014-8731-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sbani/CVE-2014-8731-PoC">
