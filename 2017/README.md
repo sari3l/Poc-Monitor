@@ -104,7 +104,8 @@
 - [gmohlamo/CVE-2017-8917](https://github.com/gmohlamo/CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/gmohlamo/CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/gmohlamo/CVE-2017-8917">
 - [cved-sources/cve-2017-8917](https://github.com/cved-sources/cve-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-8917">
 - [brianwrf/Joomla3.7-SQLi-CVE-2017-8917](https://github.com/brianwrf/Joomla3.7-SQLi-CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/brianwrf/Joomla3.7-SQLi-CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/brianwrf/Joomla3.7-SQLi-CVE-2017-8917">
-- [xeno-john/joomla_CVE-2017-8917](https://github.com/xeno-john/joomla_CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/xeno-john/joomla_CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/xeno-john/joomla_CVE-2017-8917">
+- [ionutbaltariu/joomla_CVE-2017-8917](https://github.com/ionutbaltariu/joomla_CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/ionutbaltariu/joomla_CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/ionutbaltariu/joomla_CVE-2017-8917">
+- [BaptisteContreras/CVE-2017-8917-Joomla](https://github.com/BaptisteContreras/CVE-2017-8917-Joomla)	<img alt="forks" src="https://img.shields.io/github/forks/BaptisteContreras/CVE-2017-8917-Joomla">	<img alt="stars" src="https://img.shields.io/github/stars/BaptisteContreras/CVE-2017-8917-Joomla">
 
 ---
 ## CVE-2017-8890 (2017-05-10T16:29:00)
