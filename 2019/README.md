@@ -1340,6 +1340,7 @@
 - [davidmthomsen/CVE-2019-2725](https://github.com/davidmthomsen/CVE-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/davidmthomsen/CVE-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/davidmthomsen/CVE-2019-2725">
 - [lasensio/cve-2019-2725](https://github.com/lasensio/cve-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/lasensio/cve-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/lasensio/cve-2019-2725">
 - [CalegariMindSec/Exploit-CVE-2019-2725](https://github.com/CalegariMindSec/Exploit-CVE-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/CalegariMindSec/Exploit-CVE-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/CalegariMindSec/Exploit-CVE-2019-2725">
+- [Kamiya767/CVE-2019-2725](https://github.com/Kamiya767/CVE-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/Kamiya767/CVE-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/Kamiya767/CVE-2019-2725">
 
 ---
 ## CVE-2019-2614 (2019-04-23T19:32:00)
