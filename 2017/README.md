@@ -173,6 +173,7 @@
 - [krypton612/hikivision](https://github.com/krypton612/hikivision)	<img alt="forks" src="https://img.shields.io/github/forks/krypton612/hikivision">	<img alt="stars" src="https://img.shields.io/github/stars/krypton612/hikivision">
 - [fracergu/CVE-2017-7921](https://github.com/fracergu/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/fracergu/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/fracergu/CVE-2017-7921">
 - [b3pwn3d/CVE-2017-7921](https://github.com/b3pwn3d/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/b3pwn3d/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/b3pwn3d/CVE-2017-7921">
+- [AnonkiGroup/AnonHik](https://github.com/AnonkiGroup/AnonHik)	<img alt="forks" src="https://img.shields.io/github/forks/AnonkiGroup/AnonHik">	<img alt="stars" src="https://img.shields.io/github/stars/AnonkiGroup/AnonHik">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
