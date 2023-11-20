@@ -210,6 +210,11 @@
 - [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-48123">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-48123">
 
 ---
+## CVE-2023-48034 ()
+> 
+- [aprkr/CVE-2023-48034](https://github.com/aprkr/CVE-2023-48034)	<img alt="forks" src="https://img.shields.io/github/forks/aprkr/CVE-2023-48034">	<img alt="stars" src="https://img.shields.io/github/stars/aprkr/CVE-2023-48034">
+
+---
 ## CVE-2023-48031 ()
 > 
 - [nitipoom-jar/CVE-2023-48031](https://github.com/nitipoom-jar/CVE-2023-48031)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48031">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48031">
