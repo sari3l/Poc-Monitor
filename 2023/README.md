@@ -925,6 +925,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [MinoTauro2020/CVE-2023-40868](https://github.com/MinoTauro2020/CVE-2023-40868)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-40868">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-40868">
 
 ---
+## CVE-2023-40600 ()
+> 
+- [RandomRobbieBF/CVE-2023-40600](https://github.com/RandomRobbieBF/CVE-2023-40600)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-40600">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-40600">
+
+---
 ## CVE-2023-40477 ()
 > 
 - [whalersplonk/CVE-2023-40477](https://github.com/whalersplonk/CVE-2023-40477)	<img alt="forks" src="https://img.shields.io/github/forks/whalersplonk/CVE-2023-40477">	<img alt="stars" src="https://img.shields.io/github/stars/whalersplonk/CVE-2023-40477">
