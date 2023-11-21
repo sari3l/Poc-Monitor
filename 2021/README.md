@@ -963,6 +963,7 @@
 - [victorhorowitz/grafana-exploit-CVE-2021-43798](https://github.com/victorhorowitz/grafana-exploit-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/victorhorowitz/grafana-exploit-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/victorhorowitz/grafana-exploit-CVE-2021-43798">
 - [victorhorowitz/grafana-exploit-CVE-2021-43798](https://github.com/victorhorowitz/grafana-exploit-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/victorhorowitz/grafana-exploit-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/victorhorowitz/grafana-exploit-CVE-2021-43798">
 - [katseyres2/CVE-2021-43798](https://github.com/katseyres2/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/katseyres2/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/katseyres2/CVE-2021-43798">
+- [Iris288/CVE-2021-43798](https://github.com/Iris288/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Iris288/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Iris288/CVE-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
