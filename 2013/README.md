@@ -110,6 +110,11 @@
 - [Live-Hack-CVE/CVE-2013-3812](https://github.com/Live-Hack-CVE/CVE-2013-3812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-3812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-3812">
 
 ---
+## CVE-2013-36025 ()
+> 
+- [Krisgeil/CVE-2013-36025](https://github.com/Krisgeil/CVE-2013-36025)	<img alt="forks" src="https://img.shields.io/github/forks/Krisgeil/CVE-2013-36025">	<img alt="stars" src="https://img.shields.io/github/stars/Krisgeil/CVE-2013-36025">
+
+---
 ## CVE-2013-2882 (2013-07-31T13:20:00)
 > Google V8, as used in Google Chrome before 28.0.1500.95, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors that leverage "type confusion."
 - [Live-Hack-CVE/CVE-2013-2882](https://github.com/Live-Hack-CVE/CVE-2013-2882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2882">
