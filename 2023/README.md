@@ -3883,6 +3883,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-23638-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-23638-Tools">
 
 ---
+## CVE-2023-23583 ()
+> 
+- [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-)	<img alt="forks" src="https://img.shields.io/github/forks/Mav3r1ck0x1/CVE-2023-23583-Reptar-">	<img alt="stars" src="https://img.shields.io/github/stars/Mav3r1ck0x1/CVE-2023-23583-Reptar-">
+
+---
 ## CVE-2023-23504 (2023-02-27T20:15:00)
 > The issue was addressed with improved memory handling. This issue is fixed in macOS Ventura 13.2, macOS Monterey 12.6.3, iOS 15.7.3 and iPadOS 15.7.3, tvOS 16.3, watchOS 9.3, iOS 16.3 and iPadOS 16.3. An app may be able to execute arbitrary code with kernel privileges.
 - [zeroc00I/CVE-2023-23504](https://github.com/zeroc00I/CVE-2023-23504)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2023-23504">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2023-23504">
