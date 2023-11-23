@@ -610,6 +610,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [nxenon/cve-2023-44487](https://github.com/nxenon/cve-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/nxenon/cve-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/nxenon/cve-2023-44487">
 
 ---
+## CVE-2023-44353 ()
+> 
+- [JC175/CVE-2023-44353-Nuclei-Template](https://github.com/JC175/CVE-2023-44353-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2023-44353-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2023-44353-Nuclei-Template">
+
+---
 ## CVE-2023-44227 ()
 > 
 - [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-44227-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-44227-PoC">
