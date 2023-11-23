@@ -2159,6 +2159,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">
 
 ---
+## CVE-2023-3452 (2023-08-12T03:15:00)
+> The Canto plugin for WordPress is vulnerable to Remote File Inclusion in versions up to, and including, 3.0.4 via the 'wp_abspath' parameter. This allows unauthenticated attackers to include and execute arbitrary remote code on the server, provided that allow_url_include is enabled. Local File Inclusion is also possible, albeit less useful because it requires that the attacker be able to upload a malicious php file via FTP or some other means into a directory readable by the web server.
+- [leoanggal1/CVE-2023-3452-PoC](https://github.com/leoanggal1/CVE-2023-3452-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/leoanggal1/CVE-2023-3452-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/leoanggal1/CVE-2023-3452-PoC">
+
+---
 ## CVE-2023-3450 (2023-06-28T18:15:00)
 > A vulnerability was found in Ruijie RG-BCR860 2.5.13 and classified as critical. This issue affects some unknown processing of the component Network Diagnostic Page. The manipulation leads to os command injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-232547. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [yuanjinyuyuyu/CVE-2023-3450](https://github.com/yuanjinyuyuyu/CVE-2023-3450)	<img alt="forks" src="https://img.shields.io/github/forks/yuanjinyuyuyu/CVE-2023-3450">	<img alt="stars" src="https://img.shields.io/github/stars/yuanjinyuyuyu/CVE-2023-3450">
