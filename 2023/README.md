@@ -801,6 +801,17 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [truonghuuphuc/CVE-2023-42120-Poc](https://github.com/truonghuuphuc/CVE-2023-42120-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2023-42120-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2023-42120-Poc">
 
 ---
+## CVE-2023-4208 (2023-09-06T14:15:00)
+> A use-after-free vulnerability in the Linux kernel's net/sched: cls_u32 component can be exploited to achieve local privilege escalation.
+
+When u32_change() is called on an existing filter, the whole tcf_result struct is always copied into the new instance of the filter. This causes a problem when updating a filter bound to a class, as tcf_unbind_filter() is always called on the old instance in the success path, decreasing filter_cnt of the still referenced class and allowing it to be deleted, leading to a use-after-free.
+
+We recommend upgrading past commit 3044b16e7c6fe5d24b1cdbcf1bd0a9d92d1ebd81.
+
+
+- [nidhi7598/linux-4.19.72_net_CVE-2023-4208](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4208)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_net_CVE-2023-4208">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_net_CVE-2023-4208">
+
+---
 ## CVE-2023-41993 (2023-09-21T19:15:00)
 > The issue was addressed with improved checks. This issue is fixed in Safari 17, iOS 16.7 and iPadOS 16.7, macOS Sonoma 14. Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 16.7.
 - [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/po6ix/POC-for-CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/po6ix/POC-for-CVE-2023-41993">
