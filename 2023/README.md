@@ -1017,6 +1017,12 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
+## CVE-2023-40037 (2023-08-18T22:15:00)
+> Apache NiFi 1.21.0 through 1.23.0 support JDBC and JNDI JMS access in several Processors and Controller Services with connection URL validation that does not provide sufficient protection against crafted inputs. An authenticated and authorized user can bypass connection URL validation using custom input formatting. The resolution enhances connection URL validation and introduces validation for additional related properties. Upgrading to Apache NiFi 1.23.1 is the recommended mitigation.
+
+- [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037">
+
+---
 ## CVE-2023-40031 (2023-08-25T20:15:00)
 > Notepad++ is a free and open-source source code editor. Versions 8.5.6 and prior are vulnerable to heap buffer write overflow in `Utf8_16_Read::convert`. This issue may lead to arbitrary code execution. As of time of publication, no known patches are available in existing versions of Notepad++.
 - [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-40031">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-40031">
@@ -2196,6 +2202,18 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 > In Tencent QQ through 9.7.8.29039 and TIM through 3.4.7.22084, QQProtect.exe and QQProtectEngine.dll do not validate pointers from inter-process communication, which leads to a write-what-where condition.
 - [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lan1oc/CVE-2023-34312-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lan1oc/CVE-2023-34312-exp">
 - [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation)	<img alt="forks" src="https://img.shields.io/github/forks/vi3t1/qq-tim-elevation">	<img alt="stars" src="https://img.shields.io/github/stars/vi3t1/qq-tim-elevation">
+
+---
+## CVE-2023-34212 (2023-06-12T16:15:00)
+> The JndiJmsConnectionFactoryProvider Controller Service, along with the ConsumeJMS and PublishJMS Processors, in Apache NiFi 1.8.0 through 1.21.0 allow an authenticated and authorized user to configure URL and library properties that enable deserialization of untrusted data from a remote location.
+
+The resolution validates the JNDI URL and restricts locations to a set of allowed schemes.
+
+You are recommended to upgrade to version 1.22.0 or later which fixes this issue.
+
+
+
+- [mbadanoiu/CVE-2023-34212](https://github.com/mbadanoiu/CVE-2023-34212)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-34212">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-34212">
 
 ---
 ## CVE-2023-34152 (2023-05-30T22:15:00)
@@ -3599,6 +3617,19 @@ and the severity is therefore considered low.
 ## CVE-2023-2636 (2023-07-17T14:15:00)
 > The AN_GradeBook WordPress plugin through 5.0.1 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as subscriber
 - [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636)	<img alt="forks" src="https://img.shields.io/github/forks/lukinneberg/CVE-2023-2636">	<img alt="stars" src="https://img.shields.io/github/stars/lukinneberg/CVE-2023-2636">
+
+---
+## CVE-2023-26269 (2023-04-03T08:15:00)
+> Apache James server version 3.7.3 and earlier provides a JMX management service without authentication by default. This allows privilege escalation by a 
+malicious local user.
+
+Administrators are advised to disable JMX, or set up a JMX password.
+
+Note that version 3.7.4 onward will set up a JMX password automatically for Guice users.
+
+
+
+- [mbadanoiu/CVE-2023-26269](https://github.com/mbadanoiu/CVE-2023-26269)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-26269">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-26269">
 
 ---
 ## CVE-2023-26258 (2023-07-03T15:15:00)

@@ -156,6 +156,11 @@
 - [febinrev/CVE-2021-46398_Chamilo-LMS-RCE](https://github.com/febinrev/CVE-2021-46398_Chamilo-LMS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/CVE-2021-46398_Chamilo-LMS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/CVE-2021-46398_Chamilo-LMS-RCE">
 
 ---
+## CVE-2021-46364 (2022-02-11T21:15:00)
+> A vulnerability in the Snake YAML parser of Magnolia CMS v6.2.3 and below allows attackers to execute arbitrary code via a crafted YAML file.
+- [mbadanoiu/CVE-2021-46364](https://github.com/mbadanoiu/CVE-2021-46364)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-46364">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-46364">
+
+---
 ## CVE-2021-46167 (2022-04-13T15:15:00)
 > An access control issue in the authentication module of wizplat PD065 v1.19 allows attackers to access sensitive data and cause a Denial of Service (DoS).
 - [Live-Hack-CVE/CVE-2021-46167](https://github.com/Live-Hack-CVE/CVE-2021-46167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46167">
