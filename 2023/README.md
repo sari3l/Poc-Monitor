@@ -1728,6 +1728,11 @@ prior to
 - [winkler-winsen/Scan_GhostScript](https://github.com/winkler-winsen/Scan_GhostScript)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_GhostScript">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_GhostScript">
 
 ---
+## CVE-2023-36553 ()
+> 
+- [kenit7s/CVE-2023-36553-RCE](https://github.com/kenit7s/CVE-2023-36553-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/kenit7s/CVE-2023-36553-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/kenit7s/CVE-2023-36553-RCE">
+
+---
 ## CVE-2023-36544 ()
 > 
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
