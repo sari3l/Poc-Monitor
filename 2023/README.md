@@ -608,6 +608,8 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [ReToCode/golang-CVE-2023-44487](https://github.com/ReToCode/golang-CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/ReToCode/golang-CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/ReToCode/golang-CVE-2023-44487">
 - [sigridou/CVE-2023-44487](https://github.com/sigridou/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/sigridou/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/sigridou/CVE-2023-44487">
 - [nxenon/cve-2023-44487](https://github.com/nxenon/cve-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/nxenon/cve-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/nxenon/cve-2023-44487">
+- [terrorist/CVE-2023-44487](https://github.com/terrorist/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/terrorist/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/terrorist/CVE-2023-44487">
+- [ndrscodes/http2-rst-stream-attacker](https://github.com/ndrscodes/http2-rst-stream-attacker)	<img alt="forks" src="https://img.shields.io/github/forks/ndrscodes/http2-rst-stream-attacker">	<img alt="stars" src="https://img.shields.io/github/stars/ndrscodes/http2-rst-stream-attacker">
 
 ---
 ## CVE-2023-44353 ()
