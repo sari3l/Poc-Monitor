@@ -178,6 +178,7 @@
 ## CVE-2023-49103 ()
 > 
 - [creacitysec/CVE-2023-49103](https://github.com/creacitysec/CVE-2023-49103)	<img alt="forks" src="https://img.shields.io/github/forks/creacitysec/CVE-2023-49103">	<img alt="stars" src="https://img.shields.io/github/stars/creacitysec/CVE-2023-49103">
+- [xchg-rax-rax/CVE-2023-49103_scanner](https://github.com/xchg-rax-rax/CVE-2023-49103_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xchg-rax-rax/CVE-2023-49103_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xchg-rax-rax/CVE-2023-49103_scanner">
 
 ---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
