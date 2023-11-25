@@ -2185,6 +2185,18 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [caopengyan/CVE-2023-3450](https://github.com/caopengyan/CVE-2023-3450)	<img alt="forks" src="https://img.shields.io/github/forks/caopengyan/CVE-2023-3450">	<img alt="stars" src="https://img.shields.io/github/stars/caopengyan/CVE-2023-3450">
 
 ---
+## CVE-2023-34468 (2023-06-12T16:15:00)
+> The DBCPConnectionPool and HikariCPConnectionPool Controller Services in Apache NiFi 0.0.2 through 1.21.0 allow an authenticated and authorized user to configure a Database URL with the H2 driver that enables custom code execution.
+
+The resolution validates the Database URL and rejects H2 JDBC locations.
+
+You are recommended to upgrade to version 1.22.0 or later which fixes this issue.
+
+
+
+- [mbadanoiu/CVE-2023-34468](https://github.com/mbadanoiu/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-34468">
+
+---
 ## CVE-2023-34362 (2023-06-02T14:15:00)
 > In Progress MOVEit Transfer before 2021.0.6 (13.0.6), 2021.1.4 (13.1.4), 2022.0.4 (14.0.4), 2022.1.5 (14.1.5), and 2023.0.1 (15.0.1), a SQL injection vulnerability has been found in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain access to MOVEit Transfer's database. Depending on the database engine being used (MySQL, Microsoft SQL Server, or Azure SQL), an attacker may be able to infer information about the structure and contents of the database, and execute SQL statements that alter or delete database elements. NOTE: this is exploited in the wild in May and June 2023; exploitation of unpatched systems can occur via HTTP or HTTPS. All versions (e.g., 2020.0 and 2019x) before the five explicitly mentioned versions are affected, including older unsupported versions.
 - [deepinstinct/MOVEit_CVE-2023-34362_IOCs](https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs)	<img alt="forks" src="https://img.shields.io/github/forks/deepinstinct/MOVEit_CVE-2023-34362_IOCs">	<img alt="stars" src="https://img.shields.io/github/stars/deepinstinct/MOVEit_CVE-2023-34362_IOCs">
