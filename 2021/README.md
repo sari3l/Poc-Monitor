@@ -8276,6 +8276,11 @@
 - [Live-Hack-CVE/CVE-2021-20267](https://github.com/Live-Hack-CVE/CVE-2021-20267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20267">
 
 ---
+## CVE-2021-20253 (2021-03-09T18:15:00)
+> A flaw was found in ansible-tower. The default installation is vulnerable to Job Isolation escape allowing an attacker to elevate the privilege from a low privileged user to the awx user from outside the isolated environment. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [mbadanoiu/CVE-2021-20253](https://github.com/mbadanoiu/CVE-2021-20253)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-20253">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-20253">
+
+---
 ## CVE-2021-20227 (2021-03-23T17:15:00)
 > A flaw was found in SQLite's SELECT query functionality (src/select.c). This flaw allows an attacker who is capable of running SQL queries locally on the SQLite database to cause a denial of service or possible code execution by triggering a use-after-free. The highest threat from this vulnerability is to system availability.
 - [Live-Hack-CVE/CVE-2021-20227](https://github.com/Live-Hack-CVE/CVE-2021-20227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20227">
