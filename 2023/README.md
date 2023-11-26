@@ -3258,6 +3258,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/CVE-2023-28432">
 - [yTxZx/CVE-2023-28432](https://github.com/yTxZx/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/yTxZx/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/yTxZx/CVE-2023-28432">
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
+- [Fw-fW-fw/minio-CVE-2023-28432-rce](https://github.com/Fw-fW-fw/minio-CVE-2023-28432-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Fw-fW-fw/minio-CVE-2023-28432-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Fw-fW-fw/minio-CVE-2023-28432-rce">
+- [Chocapikk/CVE-2023-28432](https://github.com/Chocapikk/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-28432">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
