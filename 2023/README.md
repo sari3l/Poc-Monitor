@@ -187,6 +187,11 @@
 - [xchg-rax-rax/CVE-2023-49103_scanner](https://github.com/xchg-rax-rax/CVE-2023-49103_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xchg-rax-rax/CVE-2023-49103_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xchg-rax-rax/CVE-2023-49103_scanner">
 
 ---
+## CVE-2023-49052 ()
+> 
+- [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-49052">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-49052">
+
+---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
 > Heap buffer overflow in WebP in Google Chrome prior to 116.0.5845.187 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: Critical)
 - [suhipek/CVE-2023-4863](https://github.com/suhipek/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/suhipek/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/suhipek/CVE-2023-4863">
