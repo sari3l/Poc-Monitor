@@ -1643,6 +1643,11 @@
 - [tucommenceapousser/CVE-2019-19492-2](https://github.com/tucommenceapousser/CVE-2019-19492-2)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2019-19492-2">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2019-19492-2">
 
 ---
+## CVE-2019-19447 (2019-12-08T01:15:00)
+> In the Linux kernel 5.0.21, mounting a crafted ext4 filesystem image, performing some operations, and unmounting can lead to a use-after-free in ext4_put_super in fs/ext4/super.c, related to dump_orphan_list in fs/ext4/super.c.
+- [Trinadh465/linux-4.19.72_CVE-2019-19447](https://github.com/Trinadh465/linux-4.19.72_CVE-2019-19447)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2019-19447">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2019-19447">
+
+---
 ## CVE-2019-19221 (2019-11-21T23:15:00)
 > In Libarchive 3.4.0, archive_wstring_append_from_mbs in archive_string.c has an out-of-bounds read because of an incorrect mbrtowc or mbtowc call. For example, bsdtar crashes via a crafted archive.
 - [Live-Hack-CVE/CVE-2019-19221](https://github.com/Live-Hack-CVE/CVE-2019-19221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19221">
