@@ -179,6 +179,7 @@
 - [KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-](https://github.com/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-)	<img alt="forks" src="https://img.shields.io/github/forks/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-">	<img alt="stars" src="https://img.shields.io/github/stars/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-">
 - [KernelKrise/CVE-2023-4911](https://github.com/KernelKrise/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/KernelKrise/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/KernelKrise/CVE-2023-4911">
 - [Diego-AltF4/CVE-2023-4911](https://github.com/Diego-AltF4/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Diego-AltF4/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Diego-AltF4/CVE-2023-4911">
+- [WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables](https://github.com/WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables">
 
 ---
 ## CVE-2023-49103 ()
