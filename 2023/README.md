@@ -1928,6 +1928,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 > 
 - [ka7ana/CVE-2023-36025](https://github.com/ka7ana/CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/ka7ana/CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/ka7ana/CVE-2023-36025">
 - [DamnIt74/CVE-2023-36025](https://github.com/DamnIt74/CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/DamnIt74/CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/DamnIt74/CVE-2023-36025">
+- [J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/J466Y/test_CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/J466Y/test_CVE-2023-36025">
 
 ---
 ## CVE-2023-35885 (2023-06-20T20:15:00)
