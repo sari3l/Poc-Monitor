@@ -164,6 +164,11 @@
 - [jaysharma786/CVE-2023-4951](https://github.com/jaysharma786/CVE-2023-4951)	<img alt="forks" src="https://img.shields.io/github/forks/jaysharma786/CVE-2023-4951">	<img alt="stars" src="https://img.shields.io/github/stars/jaysharma786/CVE-2023-4951">
 
 ---
+## CVE-2023-49314 ()
+> 
+- [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2023-49314">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2023-49314">
+
+---
 ## CVE-2023-49313 ()
 > 
 - [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2023-49313">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2023-49313">
