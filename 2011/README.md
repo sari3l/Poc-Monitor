@@ -38,6 +38,7 @@
 - [Lynk4/CVE-2011-2523](https://github.com/Lynk4/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Lynk4/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Lynk4/CVE-2011-2523">
 - [0xSojalSec/CVE-2011-2523](https://github.com/0xSojalSec/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/0xSojalSec/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/0xSojalSec/CVE-2011-2523">
 - [vaishnavucv/CVE-2011-2523](https://github.com/vaishnavucv/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/vaishnavucv/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/vaishnavucv/CVE-2011-2523">
+- [4m3rr0r/CVE-2011-2523-poc](https://github.com/4m3rr0r/CVE-2011-2523-poc)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2011-2523-poc">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2011-2523-poc">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
