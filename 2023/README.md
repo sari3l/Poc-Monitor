@@ -164,6 +164,11 @@
 - [jaysharma786/CVE-2023-4951](https://github.com/jaysharma786/CVE-2023-4951)	<img alt="forks" src="https://img.shields.io/github/forks/jaysharma786/CVE-2023-4951">	<img alt="stars" src="https://img.shields.io/github/stars/jaysharma786/CVE-2023-4951">
 
 ---
+## CVE-2023-49313 ()
+> 
+- [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2023-49313">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2023-49313">
+
+---
 ## CVE-2023-4911 (2023-10-03T18:15:00)
 > A buffer overflow was discovered in the GNU C Library's dynamic loader ld.so while processing the GLIBC_TUNABLES environment variable. This issue could allow a local attacker to use maliciously crafted GLIBC_TUNABLES environment variables when launching binaries with SUID permission to execute code with elevated privileges.
 - [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Green-Avocado/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Green-Avocado/CVE-2023-4911">
