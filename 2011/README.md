@@ -39,6 +39,8 @@
 - [0xSojalSec/CVE-2011-2523](https://github.com/0xSojalSec/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/0xSojalSec/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/0xSojalSec/CVE-2011-2523">
 - [vaishnavucv/CVE-2011-2523](https://github.com/vaishnavucv/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/vaishnavucv/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/vaishnavucv/CVE-2011-2523">
 - [4m3rr0r/CVE-2011-2523-poc](https://github.com/4m3rr0r/CVE-2011-2523-poc)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2011-2523-poc">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2011-2523-poc">
+- [chleba124/vsftpd-exploit](https://github.com/chleba124/vsftpd-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/chleba124/vsftpd-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/chleba124/vsftpd-exploit">
+- [Yasan-Ransika/CVE-Exploit---2011-2523](https://github.com/Yasan-Ransika/CVE-Exploit---2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Yasan-Ransika/CVE-Exploit---2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Yasan-Ransika/CVE-Exploit---2011-2523">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
