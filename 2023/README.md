@@ -4013,6 +4013,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Pushkarup/CVE-2023-23752](https://github.com/Pushkarup/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-23752">
 - [cybernetwiz/CVE-2023-23752](https://github.com/cybernetwiz/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/cybernetwiz/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/cybernetwiz/CVE-2023-23752">
 - [Youns92/Joomla-v4.2.8---CVE-2023-23752](https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Youns92/Joomla-v4.2.8---CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Youns92/Joomla-v4.2.8---CVE-2023-23752">
+- [Ly0kha/Joomla-CVE-2023-23752-Exploit-Script](https://github.com/Ly0kha/Joomla-CVE-2023-23752-Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Ly0kha/Joomla-CVE-2023-23752-Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Ly0kha/Joomla-CVE-2023-23752-Exploit-Script">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)
