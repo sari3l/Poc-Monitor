@@ -4286,6 +4286,7 @@ For more details, please review the linked advisory on this CVE.
 - [LucasPDiniz/CVE-2023-22515](https://github.com/LucasPDiniz/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2023-22515">
 - [aaaademo/Confluence-EvilJar](https://github.com/aaaademo/Confluence-EvilJar)	<img alt="forks" src="https://img.shields.io/github/forks/aaaademo/Confluence-EvilJar">	<img alt="stars" src="https://img.shields.io/github/stars/aaaademo/Confluence-EvilJar">
 - [edsonjt81/CVE-2023-22515-Scan.](https://github.com/edsonjt81/CVE-2023-22515-Scan.)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2023-22515-Scan.">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2023-22515-Scan.">
+- [INTfinityConsulting/cve-2023-22515](https://github.com/INTfinityConsulting/cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/INTfinityConsulting/cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/INTfinityConsulting/cve-2023-22515">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
