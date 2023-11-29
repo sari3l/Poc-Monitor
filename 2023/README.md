@@ -4605,6 +4605,7 @@ For more details, please review the linked advisory on this CVE.
 - [Trinadh465/frameworks_base_CVE-2023-20944](https://github.com/Trinadh465/frameworks_base_CVE-2023-20944)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_CVE-2023-20944">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_CVE-2023-20944">
 - [Trinadh465/frameworks_base_CVE-2023-20944](https://github.com/Trinadh465/frameworks_base_CVE-2023-20944)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_CVE-2023-20944">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_CVE-2023-20944">
 - [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944">
+- [nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944](https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944">
 
 ---
 ## CVE-2023-20943 (2023-02-28T17:15:00)
