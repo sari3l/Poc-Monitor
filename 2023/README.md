@@ -271,6 +271,11 @@
 - [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4800">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4800">
 
 ---
+## CVE-2023-47840 ()
+> 
+- [RandomRobbieBF/CVE-2023-47840](https://github.com/RandomRobbieBF/CVE-2023-47840)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47840">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47840">
+
+---
 ## CVE-2023-47668 ()
 > 
 - [RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47668">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47668">
