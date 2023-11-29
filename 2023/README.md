@@ -4287,6 +4287,7 @@ For more details, please review the linked advisory on this CVE.
 - [aaaademo/Confluence-EvilJar](https://github.com/aaaademo/Confluence-EvilJar)	<img alt="forks" src="https://img.shields.io/github/forks/aaaademo/Confluence-EvilJar">	<img alt="stars" src="https://img.shields.io/github/stars/aaaademo/Confluence-EvilJar">
 - [edsonjt81/CVE-2023-22515-Scan.](https://github.com/edsonjt81/CVE-2023-22515-Scan.)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2023-22515-Scan.">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2023-22515-Scan.">
 - [INTfinityConsulting/cve-2023-22515](https://github.com/INTfinityConsulting/cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/INTfinityConsulting/cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/INTfinityConsulting/cve-2023-22515">
+- [sujoy95/Confluence-CVE-2023-22515-Scanner](https://github.com/sujoy95/Confluence-CVE-2023-22515-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sujoy95/Confluence-CVE-2023-22515-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sujoy95/Confluence-CVE-2023-22515-Scanner">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
@@ -4628,6 +4629,7 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-20921 (2023-01-26T21:18:00)
 > In onPackageRemoved of AccessibilityManagerService.java, there is a possibility to automatically grant accessibility services due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-243378132
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">
+- [Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921](https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921">
 
 ---
 ## CVE-2023-20918 (2023-07-13T00:15:00)
