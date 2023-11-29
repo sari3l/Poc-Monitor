@@ -794,6 +794,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [H454NSec/CVE-2023-42793](https://github.com/H454NSec/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/H454NSec/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/H454NSec/CVE-2023-42793">
 - [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-42793">
 - [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">
+- [LeHeron/TC_test](https://github.com/LeHeron/TC_test)	<img alt="forks" src="https://img.shields.io/github/forks/LeHeron/TC_test">	<img alt="stars" src="https://img.shields.io/github/stars/LeHeron/TC_test">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
