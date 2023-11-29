@@ -688,6 +688,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/xcanwin/CVE-2023-4357-Chrome-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/xcanwin/CVE-2023-4357-Chrome-XXE">
 - [OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation](https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation">
 - [passwa11/CVE-2023-4357-APT-Style-exploitation](https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2023-4357-APT-Style-exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2023-4357-APT-Style-exploitation">
+- [sunu11/chrome-CVE-2023-4357](https://github.com/sunu11/chrome-CVE-2023-4357)	<img alt="forks" src="https://img.shields.io/github/forks/sunu11/chrome-CVE-2023-4357">	<img alt="stars" src="https://img.shields.io/github/stars/sunu11/chrome-CVE-2023-4357">
 
 ---
 ## CVE-2023-4350 (2023-08-15T18:15:00)
