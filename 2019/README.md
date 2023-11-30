@@ -153,6 +153,7 @@
 - [fernandobortotti/CVE-2019-9053](https://github.com/fernandobortotti/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/fernandobortotti/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/fernandobortotti/CVE-2019-9053">
 - [byrek/CVE-2019-9053](https://github.com/byrek/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/byrek/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/byrek/CVE-2019-9053">
 - [davcwikla/CVE-2019-9053-exploit](https://github.com/davcwikla/CVE-2019-9053-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/davcwikla/CVE-2019-9053-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/davcwikla/CVE-2019-9053-exploit">
+- [BjarneVerschorre/CVE-2019-9053](https://github.com/BjarneVerschorre/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/BjarneVerschorre/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/BjarneVerschorre/CVE-2019-9053">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
