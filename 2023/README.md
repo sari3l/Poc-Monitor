@@ -423,6 +423,11 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [sanjai-AK47/CVE-2023-46747](https://github.com/sanjai-AK47/CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-46747">
 
 ---
+## CVE-2023-46615 ()
+> 
+- [RandomRobbieBF/CVE-2023-46615](https://github.com/RandomRobbieBF/CVE-2023-46615)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-46615">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-46615">
+
+---
 ## CVE-2023-46604 (2023-10-27T15:15:00)
 > Apache ActiveMQ is vulnerable to Remote Code Execution.The vulnerability may allow a remote attacker with network access to a broker to run arbitrary shell commands by manipulating serialized class types in the OpenWire protocol to cause the broker to instantiate any class on the classpath. 
 
