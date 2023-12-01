@@ -452,6 +452,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [minhangxiaohui/ActiveMQ_CVE-2023-46604](https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/minhangxiaohui/ActiveMQ_CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/minhangxiaohui/ActiveMQ_CVE-2023-46604">
 - [nitzanoligo/CVE-2023-46604-demo](https://github.com/nitzanoligo/CVE-2023-46604-demo)	<img alt="forks" src="https://img.shields.io/github/forks/nitzanoligo/CVE-2023-46604-demo">	<img alt="stars" src="https://img.shields.io/github/stars/nitzanoligo/CVE-2023-46604-demo">
 - [tomasmussi-mulesoft/activemq-cve-2023-46604](https://github.com/tomasmussi-mulesoft/activemq-cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/tomasmussi-mulesoft/activemq-cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/tomasmussi-mulesoft/activemq-cve-2023-46604">
+- [trganda/ActiveMQ-RCE](https://github.com/trganda/ActiveMQ-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/trganda/ActiveMQ-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/trganda/ActiveMQ-RCE">
 
 ---
 ## CVE-2023-46501 ()
