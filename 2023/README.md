@@ -2259,6 +2259,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 
 
 - [mbadanoiu/CVE-2023-34468](https://github.com/mbadanoiu/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-34468">
+- [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037">
 
 ---
 ## CVE-2023-34362 (2023-06-02T14:15:00)
