@@ -203,6 +203,7 @@
 - [creacitysec/CVE-2023-49103](https://github.com/creacitysec/CVE-2023-49103)	<img alt="forks" src="https://img.shields.io/github/forks/creacitysec/CVE-2023-49103">	<img alt="stars" src="https://img.shields.io/github/stars/creacitysec/CVE-2023-49103">
 - [xchg-rax-rax/CVE-2023-49103_scanner](https://github.com/xchg-rax-rax/CVE-2023-49103_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xchg-rax-rax/CVE-2023-49103_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xchg-rax-rax/CVE-2023-49103_scanner">
 - [ditekshen/ansible-cve-2023-49103](https://github.com/ditekshen/ansible-cve-2023-49103)	<img alt="forks" src="https://img.shields.io/github/forks/ditekshen/ansible-cve-2023-49103">	<img alt="stars" src="https://img.shields.io/github/stars/ditekshen/ansible-cve-2023-49103">
+- [MixColumns/CVE-2023-49103](https://github.com/MixColumns/CVE-2023-49103)	<img alt="forks" src="https://img.shields.io/github/forks/MixColumns/CVE-2023-49103">	<img alt="stars" src="https://img.shields.io/github/stars/MixColumns/CVE-2023-49103">
 
 ---
 ## CVE-2023-49052 ()
@@ -2374,6 +2375,15 @@ An application is not vulnerable if any of the following is true:
 
 - [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/CVE-2023-34035-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/CVE-2023-34035-Poc">
 - [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations)	<img alt="forks" src="https://img.shields.io/github/forks/jzheaux/cve-2023-34035-mitigations">	<img alt="stars" src="https://img.shields.io/github/stars/jzheaux/cve-2023-34035-mitigations">
+
+---
+## CVE-2023-34034 (2023-07-19T15:15:00)
+> Using "**" as a pattern in Spring Security configuration 
+for WebFlux creates a mismatch in pattern matching between Spring 
+Security and Spring WebFlux, and the potential for a security bypass.
+
+
+- [hotblac/cve-2023-34034](https://github.com/hotblac/cve-2023-34034)	<img alt="forks" src="https://img.shields.io/github/forks/hotblac/cve-2023-34034">	<img alt="stars" src="https://img.shields.io/github/stars/hotblac/cve-2023-34034">
 
 ---
 ## CVE-2023-33977 (2023-06-06T19:15:00)
