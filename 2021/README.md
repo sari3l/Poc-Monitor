@@ -8569,6 +8569,11 @@
 - [Live-Hack-CVE/CVE-2021-0518](https://github.com/Live-Hack-CVE/CVE-2021-0518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0518">
 
 ---
+## CVE-2021-0485 (2021-06-11T17:15:00)
+> In getMinimalSize of PipBoundsAlgorithm.java, there is a possible bypass of restrictions on background processes due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11Android ID: A-174302616
+- [aatharvauti/CVE-2021-0485](https://github.com/aatharvauti/CVE-2021-0485)	<img alt="forks" src="https://img.shields.io/github/forks/aatharvauti/CVE-2021-0485">	<img alt="stars" src="https://img.shields.io/github/stars/aatharvauti/CVE-2021-0485">
+
+---
 ## CVE-2021-0443 (2021-04-13T19:15:00)
 > In several functions of ScreenshotHelper.java and related files, there is a possible incorrectly saved screenshot due to a race condition. This could lead to local information disclosure across user profiles with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-8.1 Android-9 Android-10 Android-11Android ID: A-170474245
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443">
