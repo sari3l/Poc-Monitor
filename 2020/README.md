@@ -3829,6 +3829,7 @@
 ## CVE-2020-14179 (2020-09-21T01:15:00)
 > Affected versions of Atlassian Jira Server and Data Center allow remote, unauthenticated attackers to view custom field names and custom SLA names via an Information Disclosure vulnerability in the /secure/QueryComponent!Default.jspa endpoint. The affected versions are before version 8.5.8, and from version 8.6.0 before 8.11.1.
 - [mrnazu/CVE-2020-14179](https://github.com/mrnazu/CVE-2020-14179)	<img alt="forks" src="https://img.shields.io/github/forks/mrnazu/CVE-2020-14179">	<img alt="stars" src="https://img.shields.io/github/stars/mrnazu/CVE-2020-14179">
+- [c0brabaghdad1/CVE-2020-14179](https://github.com/c0brabaghdad1/CVE-2020-14179)	<img alt="forks" src="https://img.shields.io/github/forks/c0brabaghdad1/CVE-2020-14179">	<img alt="stars" src="https://img.shields.io/github/stars/c0brabaghdad1/CVE-2020-14179">
 
 ---
 ## CVE-2020-14155 (2020-06-15T17:15:00)
