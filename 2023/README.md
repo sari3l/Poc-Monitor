@@ -4065,6 +4065,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [r3dston3/CVE-2023-23752](https://github.com/r3dston3/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/r3dston3/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/r3dston3/CVE-2023-23752">
 - [svaltheim/CVE-2023-23752](https://github.com/svaltheim/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/svaltheim/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/svaltheim/CVE-2023-23752">
 - [Fernando-olv/Joomla-CVE-2023-23752](https://github.com/Fernando-olv/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Fernando-olv/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Fernando-olv/Joomla-CVE-2023-23752">
+- [K3ysTr0K3R/CVE-2023-23752-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2023-23752-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2023-23752-EXPLOIT">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)
