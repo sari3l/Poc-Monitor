@@ -4755,6 +4755,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/tianstcht/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/tianstcht/CVE-2023-2033">
 
 ---
+## CVE-2023-2024 (2023-05-18T21:15:00)
+> Improper authentication in OpenBlue Enterprise Manager Data Collector versions prior to 3.2.5.75 allow access to an unauthorized user under certain circumstances.
+- [team890/CVE-2023-2024](https://github.com/team890/CVE-2023-2024)	<img alt="forks" src="https://img.shields.io/github/forks/team890/CVE-2023-2024">	<img alt="stars" src="https://img.shields.io/github/stars/team890/CVE-2023-2024">
+
+---
 ## CVE-2023-20209 (2023-08-16T21:15:00)
 > A vulnerability in the web-based management interface of Cisco Expressway Series and Cisco TelePresence Video Communication Server (VCS) could allow an authenticated, remote attacker with read-write privileges on the application to perform a command injection attack that could result in remote code execution on an affected device.
  This vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by sending a crafted request to the web-based management interface of an affected device. A successful exploit could allow the attacker to establish a remote shell with root privileges.
