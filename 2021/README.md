@@ -475,6 +475,11 @@
 - [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-44852">
 
 ---
+## CVE-2021-44790 (2021-12-20T12:15:00)
+> A carefully crafted request body can cause a buffer overflow in the mod_lua multipart parser (r:parsebody() called from Lua scripts). The Apache httpd team is not aware of an exploit for the vulnerabilty though it might be possible to craft one. This issue affects Apache HTTP Server 2.4.51 and earlier.
+- [nuPacaChi/-CVE-2021-44790](https://github.com/nuPacaChi/-CVE-2021-44790)	<img alt="forks" src="https://img.shields.io/github/forks/nuPacaChi/-CVE-2021-44790">	<img alt="stars" src="https://img.shields.io/github/stars/nuPacaChi/-CVE-2021-44790">
+
+---
 ## CVE-2021-44759 (2022-03-23T14:15:00)
 > Improper Authentication vulnerability in TLS origin validation of Apache Traffic Server allows an attacker to create a man in the middle attack. This issue affects Apache Traffic Server 8.0.0 to 8.1.0.
 - [Live-Hack-CVE/CVE-2021-44759](https://github.com/Live-Hack-CVE/CVE-2021-44759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44759">
