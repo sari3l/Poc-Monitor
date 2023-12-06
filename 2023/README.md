@@ -4914,6 +4914,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Penkyzduyi/CVE-2023-1337](https://github.com/Penkyzduyi/CVE-2023-1337)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-1337">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-1337">
 
 ---
+## CVE-2023-1326 (2023-04-13T23:15:00)
+> A privilege escalation attack was found in apport-cli 2.26.0 and earlier which is similar to CVE-2023-26604. If a system is specially configured to allow unprivileged users to run sudo apport-cli, less is configured as the pager, and the terminal size can be set: a local attacker can escalate privilege. It is extremely unlikely that a system administrator would configure sudo to allow unprivileged users to perform this class of exploit.
+- [diego-tella/CVE-2023-1326-PoC](https://github.com/diego-tella/CVE-2023-1326-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/diego-tella/CVE-2023-1326-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/diego-tella/CVE-2023-1326-PoC">
+
+---
 ## CVE-2023-1273 (2023-07-04T08:15:00)
 > The ND Shortcodes WordPress plugin before 7.0 does not validate some shortcode attributes before using them to generate paths passed to include function/s, allowing any authenticated users such as subscriber to perform LFI attacks
 - [codeb0ss/CVE-2023-1273-PoC](https://github.com/codeb0ss/CVE-2023-1273-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1273-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1273-PoC">
