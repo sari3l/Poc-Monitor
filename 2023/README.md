@@ -481,6 +481,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478)	<img alt="forks" src="https://img.shields.io/github/forks/mr-xmen786/CVE-2023-46478">	<img alt="stars" src="https://img.shields.io/github/stars/mr-xmen786/CVE-2023-46478">
 
 ---
+## CVE-2023-46474 ()
+> 
+- [Xn2/CVE-2023-46474](https://github.com/Xn2/CVE-2023-46474)	<img alt="forks" src="https://img.shields.io/github/forks/Xn2/CVE-2023-46474">	<img alt="stars" src="https://img.shields.io/github/stars/Xn2/CVE-2023-46474">
+
+---
 ## CVE-2023-46451 (2023-10-31T07:15:00)
 > Best Courier Management System v1.0 is vulnerable to Cross Site Scripting (XSS) in the change username field.
 - [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46451">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46451">
