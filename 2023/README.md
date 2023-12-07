@@ -4616,6 +4616,7 @@ For more details, please review the linked advisory on this CVE.
 > In updatePictureInPictureMode of ActivityRecord.java, there is a possible bypass of background launch restrictions due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 
 
+- [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145_1](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145_1)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145_1">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145_1">
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145">
 
 ---
