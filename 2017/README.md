@@ -1372,6 +1372,11 @@
 - [Live-Hack-CVE/CVE-2017-1000097](https://github.com/Live-Hack-CVE/CVE-2017-1000097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-1000097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-1000097">
 
 ---
+## CVE-2017-1000028 (2017-07-17T13:18:00)
+> Oracle, GlassFish Server Open Source Edition 4.1 is vulnerable to both authenticated and unauthenticated Directory Traversal vulnerability, that can be exploited by issuing a specially crafted HTTP GET request.
+- [NeonNOXX/CVE-2017-1000028](https://github.com/NeonNOXX/CVE-2017-1000028)	<img alt="forks" src="https://img.shields.io/github/forks/NeonNOXX/CVE-2017-1000028">	<img alt="stars" src="https://img.shields.io/github/stars/NeonNOXX/CVE-2017-1000028">
+
+---
 ## CVE-2017-0888 (2017-04-05T20:59:00)
 > Nextcloud Server before 9.0.55 and 10.0.2 suffers from a Content-Spoofing vulnerability in the "files" app. The top navigation bar displayed in the files list contained partially user-controllable input leading to a potential misrepresentation of information.
 - [Live-Hack-CVE/CVE-2017-0888](https://github.com/Live-Hack-CVE/CVE-2017-0888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-0888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-0888">

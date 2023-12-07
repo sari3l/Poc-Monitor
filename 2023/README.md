@@ -4550,6 +4550,13 @@ For more details, please review the linked advisory on this CVE.
 - [Trinadh465/platform_frameworks_base_CVE-2023-21286](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21286)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_frameworks_base_CVE-2023-21286">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_frameworks_base_CVE-2023-21286">
 
 ---
+## CVE-2023-21285 (2023-08-14T22:15:00)
+> In setMetadata of MediaSessionRecord.java, there is a possible way to view another user's images due to a confused deputy. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [uthrasri/framework_base_CVE-2023-21285_NoPatch](https://github.com/uthrasri/framework_base_CVE-2023-21285_NoPatch)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/framework_base_CVE-2023-21285_NoPatch">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/framework_base_CVE-2023-21285_NoPatch">
+
+---
 ## CVE-2023-21284 (2023-08-14T22:15:00)
 > In multiple functions of DevicePolicyManager.java, there is a possible way to prevent enabling the Find my Device feature due to improper input validation. This could lead to local denial of service with User execution privileges needed. User interaction is not needed for exploitation.
 
