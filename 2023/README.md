@@ -164,6 +164,7 @@
 - [fdevsectest/CVE-2023-4966](https://github.com/fdevsectest/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/fdevsectest/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/fdevsectest/CVE-2023-4966">
 - [s-bt/CVE-2023-4966](https://github.com/s-bt/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/s-bt/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/s-bt/CVE-2023-4966">
 - [byte4RR4Y/CVE-2023-4966](https://github.com/byte4RR4Y/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/byte4RR4Y/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/byte4RR4Y/CVE-2023-4966">
+- [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/jmussmann/cve-2023-4966-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/jmussmann/cve-2023-4966-iocs">
 
 ---
 ## CVE-2023-4951 (2023-09-14T17:15:00)
