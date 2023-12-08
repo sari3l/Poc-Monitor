@@ -1341,6 +1341,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Mrunalkaran/CVE-2023-38646](https://github.com/Mrunalkaran/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Mrunalkaran/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Mrunalkaran/CVE-2023-38646">
 - [j0yb0y0h/CVE-2023-38646](https://github.com/j0yb0y0h/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/j0yb0y0h/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/j0yb0y0h/CVE-2023-38646">
 - [Ego1stoo/CVE-2023-38646](https://github.com/Ego1stoo/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Ego1stoo/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Ego1stoo/CVE-2023-38646">
+- [Anekant-Singhai/Exploits](https://github.com/Anekant-Singhai/Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Anekant-Singhai/Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Anekant-Singhai/Exploits">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
