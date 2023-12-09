@@ -4794,6 +4794,12 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/tianstcht/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/tianstcht/CVE-2023-2033">
 
 ---
+## CVE-2023-20273 (2023-10-25T18:17:00)
+> A vulnerability in the web UI feature of Cisco IOS XE Software could allow an authenticated, remote attacker to inject commands with the privileges of root.
+ This vulnerability is due to insufficient input validation. An attacker could exploit this vulnerability by sending crafted input to the web UI. A successful exploit could allow the attacker to inject commands to the underlying operating system with root privileges.
+- [smokeintheshell/CVE-2023-20273](https://github.com/smokeintheshell/CVE-2023-20273)	<img alt="forks" src="https://img.shields.io/github/forks/smokeintheshell/CVE-2023-20273">	<img alt="stars" src="https://img.shields.io/github/stars/smokeintheshell/CVE-2023-20273">
+
+---
 ## CVE-2023-2024 (2023-05-18T21:15:00)
 > Improper authentication in OpenBlue Enterprise Manager Data Collector versions prior to 3.2.5.75 allow access to an unauthorized user under certain circumstances.
 - [team890/CVE-2023-2024](https://github.com/team890/CVE-2023-2024)	<img alt="forks" src="https://img.shields.io/github/forks/team890/CVE-2023-2024">	<img alt="stars" src="https://img.shields.io/github/stars/team890/CVE-2023-2024">
