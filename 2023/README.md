@@ -4798,6 +4798,8 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 > A vulnerability in the web UI feature of Cisco IOS XE Software could allow an authenticated, remote attacker to inject commands with the privileges of root.
  This vulnerability is due to insufficient input validation. An attacker could exploit this vulnerability by sending crafted input to the web UI. A successful exploit could allow the attacker to inject commands to the underlying operating system with root privileges.
 - [smokeintheshell/CVE-2023-20273](https://github.com/smokeintheshell/CVE-2023-20273)	<img alt="forks" src="https://img.shields.io/github/forks/smokeintheshell/CVE-2023-20273">	<img alt="stars" src="https://img.shields.io/github/stars/smokeintheshell/CVE-2023-20273">
+- [fox-it/cisco-ios-xe-implant-detection](https://github.com/fox-it/cisco-ios-xe-implant-detection)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/cisco-ios-xe-implant-detection">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/cisco-ios-xe-implant-detection">
+- [Shadow0ps/CVE-2023-20198-Scanner](https://github.com/Shadow0ps/CVE-2023-20198-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow0ps/CVE-2023-20198-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow0ps/CVE-2023-20198-Scanner">
 
 ---
 ## CVE-2023-2024 (2023-05-18T21:15:00)
