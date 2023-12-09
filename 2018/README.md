@@ -42,6 +42,11 @@
 - [Live-Hack-CVE/CVE-2018-8976](https://github.com/Live-Hack-CVE/CVE-2018-8976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-8976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-8976">
 
 ---
+## CVE-2018-8617 (2018-12-12T00:29:00)
+> A remote code execution vulnerability exists in the way that the Chakra scripting engine handles objects in memory in Microsoft Edge, aka "Chakra Scripting Engine Memory Corruption Vulnerability." This affects Microsoft Edge, ChakraCore. This CVE ID is unique from CVE-2018-8583, CVE-2018-8618, CVE-2018-8624, CVE-2018-8629.
+- [SpiralBL0CK/cve-2018-8617-aab-r-w-](https://github.com/SpiralBL0CK/cve-2018-8617-aab-r-w-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/cve-2018-8617-aab-r-w-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/cve-2018-8617-aab-r-w-">
+
+---
 ## CVE-2018-8587 (2018-12-12T00:29:00)
 > A remote code execution vulnerability exists in Microsoft Outlook software when it fails to properly handle objects in memory, aka "Microsoft Outlook Remote Code Execution Vulnerability." This affects Office 365 ProPlus, Microsoft Office, Microsoft Outlook.
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
