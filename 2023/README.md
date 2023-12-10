@@ -3017,6 +3017,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765)	<img alt="forks" src="https://img.shields.io/github/forks/0xfml/CVE-2023-30765">	<img alt="stars" src="https://img.shields.io/github/stars/0xfml/CVE-2023-30765">
 
 ---
+## CVE-2023-30547 (2023-04-17T22:15:00)
+> vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. There exists a vulnerability in exception sanitization of vm2 for versions up to 3.9.16, allowing attackers to raise an unsanitized host exception inside `handleException()` which can be used to escape the sandbox and run arbitrary code in host context. This vulnerability was patched in the release of version `3.9.17` of `vm2`. There are no known workarounds for this vulnerability. Users are advised to upgrade.
+- [rvizx/CVE-2023-30547](https://github.com/rvizx/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-30547">
+
+---
 ## CVE-2023-30533 (2023-04-24T08:15:00)
 > SheetJS Community Edition before 0.19.3 allows Prototype Pollution via a crafted file.
 - [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533)	<img alt="forks" src="https://img.shields.io/github/forks/BenEdridge/CVE-2023-30533">	<img alt="stars" src="https://img.shields.io/github/stars/BenEdridge/CVE-2023-30533">
