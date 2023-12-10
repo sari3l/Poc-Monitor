@@ -1277,6 +1277,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [s4m98/winrar-cve-2023-38831-poc-gen](https://github.com/s4m98/winrar-cve-2023-38831-poc-gen)	<img alt="forks" src="https://img.shields.io/github/forks/s4m98/winrar-cve-2023-38831-poc-gen">	<img alt="stars" src="https://img.shields.io/github/stars/s4m98/winrar-cve-2023-38831-poc-gen">
 - [xk-mt/WinRAR-Vulnerability-recurrence-tutorial](https://github.com/xk-mt/WinRAR-Vulnerability-recurrence-tutorial)	<img alt="forks" src="https://img.shields.io/github/forks/xk-mt/WinRAR-Vulnerability-recurrence-tutorial">	<img alt="stars" src="https://img.shields.io/github/stars/xk-mt/WinRAR-Vulnerability-recurrence-tutorial">
 - [MyStuffYT/CVE-2023-38831-POC](https://github.com/MyStuffYT/CVE-2023-38831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MyStuffYT/CVE-2023-38831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MyStuffYT/CVE-2023-38831-POC">
+- [80r1ng/CVE-2023-38831-EXP](https://github.com/80r1ng/CVE-2023-38831-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/80r1ng/CVE-2023-38831-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/80r1ng/CVE-2023-38831-EXP">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
