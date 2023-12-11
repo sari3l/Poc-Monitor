@@ -3816,6 +3816,11 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [hshivhare67/Jetty-v9.4.31_CVE-2023-26048](https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26048)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty-v9.4.31_CVE-2023-26048">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty-v9.4.31_CVE-2023-26048">
 
 ---
+## CVE-2023-26035 (2023-02-25T02:15:00)
+> ZoneMinder is a free, open source Closed-circuit television software application for Linux which supports IP, USB and Analog cameras. Versions prior to 1.36.33 and 1.37.33 are vulnerable to Unauthenticated Remote Code Execution via Missing Authorization. There are no permissions check on the snapshot action, which expects an id to fetch an existing monitor but can be passed an object to create a new one instead. TriggerOn ends up calling shell_exec using the supplied Id. This issue is fixed in This issue is fixed in versions 1.36.33 and 1.37.33.
+- [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-26035">
+
+---
 ## CVE-2023-2598 (2023-06-01T01:15:00)
 > A flaw was found in the fixed buffer registration code for io_uring (io_sqe_buffer_register in io_uring/rsrc.c) in the Linux kernel that allows out-of-bounds access to physical memory beyond the end of the buffer. This flaw enables full local privilege escalation.
 - [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598)	<img alt="forks" src="https://img.shields.io/github/forks/ysanatomic/io_uring_LPE-CVE-2023-2598">	<img alt="stars" src="https://img.shields.io/github/stars/ysanatomic/io_uring_LPE-CVE-2023-2598">
