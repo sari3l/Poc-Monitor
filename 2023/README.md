@@ -4875,6 +4875,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [sanjai-AK47/CVE-2023-20198](https://github.com/sanjai-AK47/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-20198">
 - [smokeintheshell/CVE-2023-20198](https://github.com/smokeintheshell/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/smokeintheshell/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/smokeintheshell/CVE-2023-20198">
 - [netbell/CVE-2023-20198-Fix](https://github.com/netbell/CVE-2023-20198-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/netbell/CVE-2023-20198-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/netbell/CVE-2023-20198-Fix">
+- [Vulnmachines/Cisco_CVE-2023-20198](https://github.com/Vulnmachines/Cisco_CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Cisco_CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Cisco_CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
