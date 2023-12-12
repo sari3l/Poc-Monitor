@@ -1287,6 +1287,7 @@
 - [Kiss-sh0t/CVE-2018-11235-poc](https://github.com/Kiss-sh0t/CVE-2018-11235-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kiss-sh0t/CVE-2018-11235-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kiss-sh0t/CVE-2018-11235-poc">
 - [Choihosu/cve-2018-11235](https://github.com/Choihosu/cve-2018-11235)	<img alt="forks" src="https://img.shields.io/github/forks/Choihosu/cve-2018-11235">	<img alt="stars" src="https://img.shields.io/github/stars/Choihosu/cve-2018-11235">
 - [vmotos/CVE-2018-11235](https://github.com/vmotos/CVE-2018-11235)	<img alt="forks" src="https://img.shields.io/github/forks/vmotos/CVE-2018-11235">	<img alt="stars" src="https://img.shields.io/github/stars/vmotos/CVE-2018-11235">
+- [zerbaliy3v/CVE-2018-11235-Git-Submodule-RCE](https://github.com/zerbaliy3v/CVE-2018-11235-Git-Submodule-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/zerbaliy3v/CVE-2018-11235-Git-Submodule-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/zerbaliy3v/CVE-2018-11235-Git-Submodule-RCE">
 
 ---
 ## CVE-2018-1115 (2018-05-10T19:29:00)
