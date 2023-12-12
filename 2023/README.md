@@ -844,6 +844,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-42793">
 - [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">
 - [LeHeron/TC_test](https://github.com/LeHeron/TC_test)	<img alt="forks" src="https://img.shields.io/github/forks/LeHeron/TC_test">	<img alt="stars" src="https://img.shields.io/github/stars/LeHeron/TC_test">
+- [WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793](https://github.com/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
@@ -1785,6 +1786,7 @@ prior to
 - [cyberh3als/CVE-2023-36845-POC](https://github.com/cyberh3als/CVE-2023-36845-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyberh3als/CVE-2023-36845-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyberh3als/CVE-2023-36845-POC">
 - [WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845](https://github.com/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845">
 - [ditekshen/ansible-cve-2023-36845](https://github.com/ditekshen/ansible-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ditekshen/ansible-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ditekshen/ansible-cve-2023-36845">
+- [WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845](https://github.com/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
