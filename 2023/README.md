@@ -4666,6 +4666,7 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-21144 (2023-06-15T19:15:00)
 > In doInBackground of NotificationContentInflater.java, there is a possible temporary denial or service due to long running operations. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-252766417
 - [hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144](https://github.com/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144">
+- [hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144_new](https://github.com/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144_new)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144_new">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144_new">
 
 ---
 ## CVE-2023-2114 (2023-05-08T14:15:00)
