@@ -3834,6 +3834,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 > ZoneMinder is a free, open source Closed-circuit television software application for Linux which supports IP, USB and Analog cameras. Versions prior to 1.36.33 and 1.37.33 are vulnerable to Unauthenticated Remote Code Execution via Missing Authorization. There are no permissions check on the snapshot action, which expects an id to fetch an existing monitor but can be passed an object to create a new one instead. TriggerOn ends up calling shell_exec using the supplied Id. This issue is fixed in This issue is fixed in versions 1.36.33 and 1.37.33.
 - [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-26035">
 - [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0o/zoneminder-snapshots-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0o/zoneminder-snapshots-rce-poc">
+- [heapbytes/CVE-2023-26035](https://github.com/heapbytes/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/heapbytes/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/heapbytes/CVE-2023-26035">
 
 ---
 ## CVE-2023-2598 (2023-06-01T01:15:00)
