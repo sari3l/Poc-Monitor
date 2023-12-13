@@ -750,6 +750,7 @@
 - [C0dak/CVE-2017-16995](https://github.com/C0dak/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/C0dak/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/C0dak/CVE-2017-16995">
 - [fei9747/CVE-2017-16995](https://github.com/fei9747/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/fei9747/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/fei9747/CVE-2017-16995">
 - [anldori/CVE-2017-16995](https://github.com/anldori/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-16995">
+- [mareks1007/cve-2017-16995](https://github.com/mareks1007/cve-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/mareks1007/cve-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/mareks1007/cve-2017-16995">
 
 ---
 ## CVE-2017-16994 (2017-11-27T19:29:00)
