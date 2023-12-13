@@ -140,6 +140,11 @@
 - [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
 
 ---
+## CVE-2023-50164 ()
+> 
+- [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-50164-Apache-Struts-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-50164-Apache-Struts-RCE">
+
+---
 ## CVE-2023-49964 ()
 > 
 - [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-49964">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-49964">
