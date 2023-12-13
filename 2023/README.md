@@ -1293,6 +1293,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [MyStuffYT/CVE-2023-38831-POC](https://github.com/MyStuffYT/CVE-2023-38831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MyStuffYT/CVE-2023-38831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MyStuffYT/CVE-2023-38831-POC">
 - [80r1ng/CVE-2023-38831-EXP](https://github.com/80r1ng/CVE-2023-38831-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/80r1ng/CVE-2023-38831-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/80r1ng/CVE-2023-38831-EXP">
 - [80r1ng/CVE-2023-38831-EXP](https://github.com/80r1ng/CVE-2023-38831-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/80r1ng/CVE-2023-38831-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/80r1ng/CVE-2023-38831-EXP">
+- [SpamixOfficial/CVE-2023-38831](https://github.com/SpamixOfficial/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/SpamixOfficial/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/SpamixOfficial/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
