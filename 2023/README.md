@@ -521,6 +521,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [windecks/CVE-2023-46404](https://github.com/windecks/CVE-2023-46404)	<img alt="forks" src="https://img.shields.io/github/forks/windecks/CVE-2023-46404">	<img alt="stars" src="https://img.shields.io/github/stars/windecks/CVE-2023-46404">
 
 ---
+## CVE-2023-4636 (2023-09-05T03:15:00)
+> The WordPress File Sharing Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via admin settings in versions up to, and including, 2.0.3 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.
+- [ThatNotEasy/CVE-2023-4636](https://github.com/ThatNotEasy/CVE-2023-4636)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-4636">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-4636">
+
+---
 ## CVE-2023-4634 (2023-09-06T09:15:00)
 > The Media Library Assistant plugin for WordPress is vulnerable to Local File Inclusion and Remote Code Execution in versions up to, and including, 3.09. This is due to insufficient controls on file paths being supplied to the 'mla_stream_file' parameter from the ~/includes/mla-stream-image.php file, where images are processed via Imagick(). This makes it possible for unauthenticated attackers to supply files via FTP that will make directory lists, local file inclusion, and remote code execution possible.
 - [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634)	<img alt="forks" src="https://img.shields.io/github/forks/Patrowl/CVE-2023-4634">	<img alt="stars" src="https://img.shields.io/github/stars/Patrowl/CVE-2023-4634">
