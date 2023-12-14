@@ -229,6 +229,11 @@
 - [MixColumns/CVE-2023-49103](https://github.com/MixColumns/CVE-2023-49103)	<img alt="forks" src="https://img.shields.io/github/forks/MixColumns/CVE-2023-49103">	<img alt="stars" src="https://img.shields.io/github/stars/MixColumns/CVE-2023-49103">
 
 ---
+## CVE-2023-49070 ()
+> 
+- [abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC](https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC">
+
+---
 ## CVE-2023-49052 ()
 > 
 - [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-49052">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-49052">
