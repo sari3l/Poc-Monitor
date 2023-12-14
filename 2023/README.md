@@ -234,6 +234,11 @@
 - [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-49052">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-49052">
 
 ---
+## CVE-2023-49038 ()
+> 
+- [christopher-pace/CVE-2023-49038](https://github.com/christopher-pace/CVE-2023-49038)	<img alt="forks" src="https://img.shields.io/github/forks/christopher-pace/CVE-2023-49038">	<img alt="stars" src="https://img.shields.io/github/stars/christopher-pace/CVE-2023-49038">
+
+---
 ## CVE-2023-48866 ()
 > 
 - [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48866">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48866">
