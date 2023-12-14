@@ -4386,6 +4386,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-22524 ()
 > 
 - [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524)	<img alt="forks" src="https://img.shields.io/github/forks/imperva/CVE-2023-22524">	<img alt="stars" src="https://img.shields.io/github/stars/imperva/CVE-2023-22524">
+- [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524)	<img alt="forks" src="https://img.shields.io/github/forks/ron-imperva/CVE-2023-22524">	<img alt="stars" src="https://img.shields.io/github/stars/ron-imperva/CVE-2023-22524">
 
 ---
 ## CVE-2023-22518 (2023-10-31T15:15:00)
