@@ -4378,6 +4378,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 
 ---
+## CVE-2023-22524 ()
+> 
+- [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524)	<img alt="forks" src="https://img.shields.io/github/forks/imperva/CVE-2023-22524">	<img alt="stars" src="https://img.shields.io/github/stars/imperva/CVE-2023-22524">
+
+---
 ## CVE-2023-22518 (2023-10-31T15:15:00)
 > All versions of Confluence Data Center and Server are affected by this unexploited vulnerability. There is no impact to confidentiality as an attacker cannot exfiltrate any instance data.
 
