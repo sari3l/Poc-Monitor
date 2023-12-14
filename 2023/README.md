@@ -156,6 +156,11 @@
 - [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-49964">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-49964">
 
 ---
+## CVE-2023-49954 ()
+> 
+- [CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/CVE-2023-49954/CVE-2023-49954.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/CVE-2023-49954/CVE-2023-49954.github.io">
+
+---
 ## CVE-2023-49948 ()
 > 
 - [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-49948-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-49948-PoC">
