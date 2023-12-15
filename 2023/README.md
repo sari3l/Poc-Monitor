@@ -237,6 +237,7 @@
 ## CVE-2023-49070 ()
 > 
 - [abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC](https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC">
+- [nightowl642/Apache_OFBiz-CVE-2023-49070-exploit](https://github.com/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit">
 
 ---
 ## CVE-2023-49052 ()
