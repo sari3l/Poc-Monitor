@@ -677,6 +677,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471)	<img alt="forks" src="https://img.shields.io/github/forks/itsAptx/CVE-2023-45471">	<img alt="stars" src="https://img.shields.io/github/stars/itsAptx/CVE-2023-45471">
 
 ---
+## CVE-2023-45184 ()
+> 
+- [afine-com/CVE-2023-45184](https://github.com/afine-com/CVE-2023-45184)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-45184">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-45184">
+
+---
 ## CVE-2023-45158 (2023-10-16T08:15:00)
 > An OS command injection vulnerability exists in web2py 2.24.1 and earlier. When the product is configured to use notifySendHandler for logging (not the default configuration), a crafted web request may execute an arbitrary OS command on the web server using the product.
 - [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158)	<img alt="forks" src="https://img.shields.io/github/forks/Evan-Zhangyf/CVE-2023-45158">	<img alt="stars" src="https://img.shields.io/github/stars/Evan-Zhangyf/CVE-2023-45158">
