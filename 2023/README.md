@@ -157,6 +157,11 @@
 - [bcdannyboy/CVE-2023-50164](https://github.com/bcdannyboy/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-50164">
 
 ---
+## CVE-2023-50070 ()
+> 
+- [geraldoalcantara/CVE-2023-50070](https://github.com/geraldoalcantara/CVE-2023-50070)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-50070">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-50070">
+
+---
 ## CVE-2023-49964 ()
 > 
 - [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-49964">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-49964">
