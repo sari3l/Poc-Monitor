@@ -154,6 +154,7 @@
 ## CVE-2023-50164 ()
 > 
 - [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-50164-Apache-Struts-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-50164-Apache-Struts-RCE">
+- [bcdannyboy/CVE-2023-50164](https://github.com/bcdannyboy/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-50164">
 
 ---
 ## CVE-2023-49964 ()
