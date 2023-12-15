@@ -4295,6 +4295,7 @@
 - [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
 - [TieuLong21Prosper/CVE-2021-3560](https://github.com/TieuLong21Prosper/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/TieuLong21Prosper/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/TieuLong21Prosper/CVE-2021-3560">
 - [LucasPDiniz/CVE-2021-3560](https://github.com/LucasPDiniz/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2021-3560">
+- [markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation](https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
