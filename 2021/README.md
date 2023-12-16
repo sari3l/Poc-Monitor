@@ -820,6 +820,7 @@
 - [RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)	<img alt="forks" src="https://img.shields.io/github/forks/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022">	<img alt="stars" src="https://img.shields.io/github/stars/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022">
 - [Tai-e/CVE-2021-44228](https://github.com/Tai-e/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Tai-e/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Tai-e/CVE-2021-44228">
 - [LucasPDiniz/CVE-2021-44228](https://github.com/LucasPDiniz/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2021-44228">
+- [dcm2406/CVE-2021-44228](https://github.com/dcm2406/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/dcm2406/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/dcm2406/CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
