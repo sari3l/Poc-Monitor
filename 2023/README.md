@@ -27,6 +27,11 @@
 - [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-6553">
 
 ---
+## CVE-2023-6538 ()
+> 
+- [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-6538">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-6538">
+
+---
 ## CVE-2023-6289 ()
 > 
 - [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6289">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6289">
@@ -57,6 +62,11 @@
 ## CVE-2023-5815 ()
 > 
 - [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5815-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5815-PoC">
+
+---
+## CVE-2023-5808 ()
+> 
+- [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-5808">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-5808">
 
 ---
 ## CVE-2023-5601 ()
