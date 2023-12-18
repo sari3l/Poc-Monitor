@@ -4158,6 +4158,7 @@
 ## CVE-2020-12124 (2020-10-02T09:15:00)
 > A remote command-line injection vulnerability in the /cgi-bin/live_api.cgi endpoint of the WAVLINK WN530H4 M30H4.V5030.190403 allows an attacker to execute arbitrary Linux commands as root without authentication.
 - [db44k/CVE-2020-12124](https://github.com/db44k/CVE-2020-12124)	<img alt="forks" src="https://img.shields.io/github/forks/db44k/CVE-2020-12124">	<img alt="stars" src="https://img.shields.io/github/stars/db44k/CVE-2020-12124">
+- [Scorpion-Security-Labs/CVE-2020-12124](https://github.com/Scorpion-Security-Labs/CVE-2020-12124)	<img alt="forks" src="https://img.shields.io/github/forks/Scorpion-Security-Labs/CVE-2020-12124">	<img alt="stars" src="https://img.shields.io/github/stars/Scorpion-Security-Labs/CVE-2020-12124">
 
 ---
 ## CVE-2020-12100 (2020-08-12T16:15:00)

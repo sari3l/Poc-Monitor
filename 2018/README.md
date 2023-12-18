@@ -337,6 +337,7 @@
 ## CVE-2018-5767 (2018-02-15T23:29:00)
 > An issue was discovered on Tenda AC15 V15.03.1.16_multi devices. A remote, unauthenticated attacker can gain remote code execution on the device with a crafted password parameter for the COOKIE header.
 - [db44k/CVE-2018-5767-AC9](https://github.com/db44k/CVE-2018-5767-AC9)	<img alt="forks" src="https://img.shields.io/github/forks/db44k/CVE-2018-5767-AC9">	<img alt="stars" src="https://img.shields.io/github/stars/db44k/CVE-2018-5767-AC9">
+- [Scorpion-Security-Labs/CVE-2018-5767-AC9](https://github.com/Scorpion-Security-Labs/CVE-2018-5767-AC9)	<img alt="forks" src="https://img.shields.io/github/forks/Scorpion-Security-Labs/CVE-2018-5767-AC9">	<img alt="stars" src="https://img.shields.io/github/stars/Scorpion-Security-Labs/CVE-2018-5767-AC9">
 
 ---
 ## CVE-2018-5747 (2018-01-17T19:29:00)
