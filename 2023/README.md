@@ -125,6 +125,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-50917 ()
+> 
+- [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-50917">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-50917">
+
+---
 ## CVE-2023-5074 (2023-09-20T16:15:00)
 > Use of a static key to protect a JWT token used in user authentication can allow an for an authentication bypass in D-Link D-View 8 v2.0.1.28
 - [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5074-PoC">
@@ -4204,6 +4209,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [hadrian3689/CVE-2023-23752_Joomla](https://github.com/hadrian3689/CVE-2023-23752_Joomla)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/CVE-2023-23752_Joomla">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/CVE-2023-23752_Joomla">
 - [raystr-atearedteam/CVE2023-23752](https://github.com/raystr-atearedteam/CVE2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/raystr-atearedteam/CVE2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/raystr-atearedteam/CVE2023-23752">
 - [C1ph3rX13/CVE-2023-23752](https://github.com/C1ph3rX13/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-23752">
+- [JeneralMotors/CVE-2023-23752](https://github.com/JeneralMotors/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/JeneralMotors/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/JeneralMotors/CVE-2023-23752">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)
