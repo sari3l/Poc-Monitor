@@ -4254,7 +4254,7 @@
 ---
 ## CVE-2020-11651 (2020-04-30T17:15:00)
 > An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class does not properly validate method calls. This allows a remote user to access some methods without authentication. These methods can be used to retrieve user tokens from the salt master and/or run arbitrary commands on salt minions.
-- [heikanet/CVE-2020-11651-CVE-2020-11652-EXP](https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/heikanet/CVE-2020-11651-CVE-2020-11652-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/heikanet/CVE-2020-11651-CVE-2020-11652-EXP">
+- [ssrsec/CVE-2020-11651-CVE-2020-11652-EXP](https://github.com/ssrsec/CVE-2020-11651-CVE-2020-11652-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/ssrsec/CVE-2020-11651-CVE-2020-11652-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/ssrsec/CVE-2020-11651-CVE-2020-11652-EXP">
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [puckiestyle/cve-2020-11651](https://github.com/puckiestyle/cve-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/cve-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/cve-2020-11651">
 - [chef-cft/salt-vulnerabilities](https://github.com/chef-cft/salt-vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/chef-cft/salt-vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/chef-cft/salt-vulnerabilities">
@@ -4270,6 +4270,7 @@
 - [Imanfeng/SaltStack-Exp](https://github.com/Imanfeng/SaltStack-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/SaltStack-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/SaltStack-Exp">
 - [dozernz/cve-2020-11651](https://github.com/dozernz/cve-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/dozernz/cve-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/dozernz/cve-2020-11651">
 - [hardsoftsecurity/CVE-2020-11651-PoC](https://github.com/hardsoftsecurity/CVE-2020-11651-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hardsoftsecurity/CVE-2020-11651-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hardsoftsecurity/CVE-2020-11651-PoC">
+- [5l1v3r1/SaltStack-Exp-1](https://github.com/5l1v3r1/SaltStack-Exp-1)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/SaltStack-Exp-1">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/SaltStack-Exp-1">
 
 ---
 ## CVE-2020-11444 (2020-04-02T18:15:00)

@@ -22,13 +22,13 @@
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
 
 ---
-## CVE-2023-6553 ()
-> 
+## CVE-2023-6553 (2023-12-15T11:15:00)
+> The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file. This is due to an attacker being able to control the values passed to an include, and subsequently leverage that to achieve remote code execution. This makes it possible for unauthenticated attackers to easily execute code on the server.
 - [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-6553">
 
 ---
-## CVE-2023-6538 ()
-> 
+## CVE-2023-6538 (2023-12-11T18:15:00)
+> SMU versions prior to 14.8.7825.01 are susceptible to unintended information disclosure, through URL manipulation. Authenticated users in Storage, Server or combined Server+Storage administrative roles are able to access SMU configuration backup, that would normally be barred to those specific administrative roles. 
 - [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-6538">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-6538">
 
 ---
@@ -64,8 +64,8 @@
 - [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5815-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5815-PoC">
 
 ---
-## CVE-2023-5808 ()
-> 
+## CVE-2023-5808 (2023-12-05T00:15:00)
+> SMU versions prior to 14.8.7825.01 are susceptible to unintended information disclosure, through URL manipulation. Authenticated users in a Storage administrative role are able to access HNAS configuration backup and diagnostic data, that would normally be barred to that specific administrative role.
 - [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-5808">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-5808">
 
 ---
@@ -135,8 +135,8 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
-## CVE-2023-50917 ()
-> 
+## CVE-2023-50917 (2023-12-15T17:15:00)
+> MajorDoMo (aka Major Domestic Module) before 0662e5e allows command execution via thumb.php shell metacharacters. NOTE: this is unrelated to the Majordomo mailing-list manager.
 - [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-50917">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-50917">
 
 ---
@@ -166,8 +166,10 @@
 - [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
 
 ---
-## CVE-2023-50164 ()
-> 
+## CVE-2023-50164 (2023-12-07T09:15:00)
+> An attacker can manipulate file upload params to enable paths traversal and under some circumstances this can lead to uploading a malicious file which can be used to perform Remote Code Execution.
+Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or greater to fix this issue.
+
 - [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-50164-Apache-Struts-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-50164-Apache-Struts-RCE">
 - [bcdannyboy/CVE-2023-50164](https://github.com/bcdannyboy/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-50164">
 - [dwisiswant0/cve-2023-50164-poc](https://github.com/dwisiswant0/cve-2023-50164-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/cve-2023-50164-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/cve-2023-50164-poc">
@@ -194,8 +196,8 @@
 - [geraldoalcantara/CVE-2023-50070](https://github.com/geraldoalcantara/CVE-2023-50070)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-50070">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-50070">
 
 ---
-## CVE-2023-49964 ()
-> 
+## CVE-2023-49964 (2023-12-11T08:15:00)
+> An issue was discovered in Hyland Alfresco Community Edition through 7.2.0. By inserting malicious content in the folder.get.html.ftl file, an attacker may perform SSTI (Server-Side Template Injection) attacks, which can leverage FreeMarker exposed objects to bypass restrictions and achieve RCE (Remote Code Execution). NOTE: this issue exists because of an incomplete fix for CVE-2020-12873.
 - [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-49964">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-49964">
 
 ---
@@ -277,8 +279,15 @@
 - [MixColumns/CVE-2023-49103](https://github.com/MixColumns/CVE-2023-49103)	<img alt="forks" src="https://img.shields.io/github/forks/MixColumns/CVE-2023-49103">	<img alt="stars" src="https://img.shields.io/github/stars/MixColumns/CVE-2023-49103">
 
 ---
-## CVE-2023-49070 ()
+## CVE-2023-49070 (2023-12-05T08:15:00)
 > 
+Pre-auth RCE in Apache Ofbiz 18.12.09.
+
+It's due to XML-RPC no longer maintained still present.
+This issue affects Apache OFBiz: before 18.12.10. 
+Users are recommended to upgrade to version 18.12.10
+
+
 - [abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC](https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC">
 - [nightowl642/Apache_OFBiz-CVE-2023-49070-exploit](https://github.com/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit">
 - [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2023-49070">
@@ -300,8 +309,8 @@
 - [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48866">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48866">
 
 ---
-## CVE-2023-48849 ()
-> 
+## CVE-2023-48849 (2023-12-06T08:15:00)
+> Ruijie EG Series Routers version EG_3.0(1)B11P216 and before allows unauthenticated attackers to remotely execute arbitrary code due to incorrect filtering.
 - [delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849)	<img alt="forks" src="https://img.shields.io/github/forks/delsploit/CVE-2023-48849">	<img alt="stars" src="https://img.shields.io/github/stars/delsploit/CVE-2023-48849">
 
 ---
@@ -341,8 +350,8 @@
 - [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48197">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48197">
 
 ---
-## CVE-2023-48123 ()
-> 
+## CVE-2023-48123 (2023-12-06T20:15:00)
+> An issue in Netgate pfSense Plus v.23.05.1 and before and pfSense CE v.2.7.0 allows a remote attacker to execute arbitrary code via a crafted request to the packet_capture.php file.
 - [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-48123">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-48123">
 
 ---
@@ -723,8 +732,8 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471)	<img alt="forks" src="https://img.shields.io/github/forks/itsAptx/CVE-2023-45471">	<img alt="stars" src="https://img.shields.io/github/stars/itsAptx/CVE-2023-45471">
 
 ---
-## CVE-2023-45184 ()
-> 
+## CVE-2023-45184 (2023-12-14T02:15:00)
+> IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 could allow an attacker to obtain a decryption key due to improper authority checks.  IBM X-Force ID:  268270.
 - [afine-com/CVE-2023-45184](https://github.com/afine-com/CVE-2023-45184)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-45184">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-45184">
 
 ---
@@ -1271,8 +1280,15 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39707">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39707">
 
 ---
-## CVE-2023-39539 ()
+## CVE-2023-39539 (2023-12-06T16:15:00)
 > 
+AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestricted upload of a PNG Logo file with dangerous type by Local access. A successful exploit of this vulnerability may lead to a loss of Confidentiality, Integrity, and/or Availability. 
+
+
+
+
+
+
 - [AdamWen230/CVE-2023-39539-PoC](https://github.com/AdamWen230/CVE-2023-39539-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/AdamWen230/CVE-2023-39539-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/AdamWen230/CVE-2023-39539-PoC">
 
 ---
@@ -1981,8 +1997,8 @@ prior to
 - [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-36531">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-36531">
 
 ---
-## CVE-2023-36427 ()
-> 
+## CVE-2023-36427 (2023-11-14T18:15:00)
+> Windows Hyper-V Elevation of Privilege Vulnerability
 - [tandasat/CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427)	<img alt="forks" src="https://img.shields.io/github/forks/tandasat/CVE-2023-36427">	<img alt="stars" src="https://img.shields.io/github/stars/tandasat/CVE-2023-36427">
 
 ---
@@ -2995,8 +3011,8 @@ Fixed in version 6.4.1.
 - [rootd4ddy/CVE-2023-31584](https://github.com/rootd4ddy/CVE-2023-31584)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-31584">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-31584">
 
 ---
-## CVE-2023-31546 ()
-> 
+## CVE-2023-31546 (2023-12-14T01:15:00)
+> Cross Site Scripting (XSS) vulnerability in DedeBIZ v6.0.3 allows attackers to run arbitrary code via the search feature.
 - [ran9ege/CVE-2023-31546](https://github.com/ran9ege/CVE-2023-31546)	<img alt="forks" src="https://img.shields.io/github/forks/ran9ege/CVE-2023-31546">	<img alt="stars" src="https://img.shields.io/github/stars/ran9ege/CVE-2023-31546">
 
 ---
@@ -4231,8 +4247,8 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-23638-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-23638-Tools">
 
 ---
-## CVE-2023-23583 ()
-> 
+## CVE-2023-23583 (2023-11-14T19:15:00)
+> Sequence of processor instructions leads to unexpected behavior for some Intel(R) Processors may allow an authenticated user to potentially enable escalation of privilege and/or information disclosure and/or denial of service via local access.
 - [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-)	<img alt="forks" src="https://img.shields.io/github/forks/Mav3r1ck0x1/CVE-2023-23583-Reptar-">	<img alt="stars" src="https://img.shields.io/github/stars/Mav3r1ck0x1/CVE-2023-23583-Reptar-">
 
 ---
@@ -4454,8 +4470,8 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 
 ---
-## CVE-2023-22524 ()
-> 
+## CVE-2023-22524 (2023-12-06T05:15:00)
+> Certain versions of the Atlassian Companion App for MacOS were affected by a remote code execution vulnerability. An attacker could utilize WebSockets to bypass Atlassian Companion’s blocklist and MacOS Gatekeeper to allow execution of code.
 - [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524)	<img alt="forks" src="https://img.shields.io/github/forks/imperva/CVE-2023-22524">	<img alt="stars" src="https://img.shields.io/github/stars/imperva/CVE-2023-22524">
 - [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524)	<img alt="forks" src="https://img.shields.io/github/forks/ron-imperva/CVE-2023-22524">	<img alt="stars" src="https://img.shields.io/github/stars/ron-imperva/CVE-2023-22524">
 

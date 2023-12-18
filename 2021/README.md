@@ -4187,8 +4187,8 @@
 - [Live-Hack-CVE/CVE-2021-3598](https://github.com/Live-Hack-CVE/CVE-2021-3598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3598">
 
 ---
-## CVE-2021-35975 ()
-> 
+## CVE-2021-35975 (2023-11-30T22:15:00)
+> Absolute path traversal vulnerability in the Systematica SMTP Adapter component (up to v2.0.1.101) in Systematica Radius (up to v.3.9.256.777) allows remote attackers to read arbitrary files via a full pathname in GET parameter "file" in URL. Also: affected components in same product - HTTP Adapter (up to v.1.8.0.15), MSSQL MessageBus Proxy (up to v.1.1.06), Financial Calculator (up to v.1.3.05), FIX Adapter (up to v.2.4.0.25)
 - [fbkcs/CVE-2021-35975](https://github.com/fbkcs/CVE-2021-35975)	<img alt="forks" src="https://img.shields.io/github/forks/fbkcs/CVE-2021-35975">	<img alt="stars" src="https://img.shields.io/github/stars/fbkcs/CVE-2021-35975">
 
 ---
