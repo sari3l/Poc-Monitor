@@ -4268,6 +4268,7 @@
 - [bravery9/SaltStack-Exp](https://github.com/bravery9/SaltStack-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/bravery9/SaltStack-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/bravery9/SaltStack-Exp">
 - [Imanfeng/SaltStack-Exp](https://github.com/Imanfeng/SaltStack-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/SaltStack-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/SaltStack-Exp">
 - [dozernz/cve-2020-11651](https://github.com/dozernz/cve-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/dozernz/cve-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/dozernz/cve-2020-11651">
+- [hardsoftsecurity/CVE-2020-11651-PoC](https://github.com/hardsoftsecurity/CVE-2020-11651-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hardsoftsecurity/CVE-2020-11651-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hardsoftsecurity/CVE-2020-11651-PoC">
 
 ---
 ## CVE-2020-11444 (2020-04-02T18:15:00)
