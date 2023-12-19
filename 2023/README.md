@@ -328,6 +328,7 @@ Users are recommended to upgrade to version 18.12.10
 - [murphysecurity/libwebp-checker](https://github.com/murphysecurity/libwebp-checker)	<img alt="forks" src="https://img.shields.io/github/forks/murphysecurity/libwebp-checker">	<img alt="stars" src="https://img.shields.io/github/stars/murphysecurity/libwebp-checker">
 - [GTGalaxi/ElectronVulnerableVersion](https://github.com/GTGalaxi/ElectronVulnerableVersion)	<img alt="forks" src="https://img.shields.io/github/forks/GTGalaxi/ElectronVulnerableVersion">	<img alt="stars" src="https://img.shields.io/github/stars/GTGalaxi/ElectronVulnerableVersion">
 - [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion)	<img alt="forks" src="https://img.shields.io/github/forks/OITApps/Find-VulnerableElectronVersion">	<img alt="stars" src="https://img.shields.io/github/stars/OITApps/Find-VulnerableElectronVersion">
+- [caoweiquan322/NotEnough](https://github.com/caoweiquan322/NotEnough)	<img alt="forks" src="https://img.shields.io/github/forks/caoweiquan322/NotEnough">	<img alt="stars" src="https://img.shields.io/github/stars/caoweiquan322/NotEnough">
 
 ---
 ## CVE-2023-48200 ()
