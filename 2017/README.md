@@ -212,6 +212,7 @@
 - [MaxSecurity/CVE-2017-7529-POC](https://github.com/MaxSecurity/CVE-2017-7529-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaxSecurity/CVE-2017-7529-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaxSecurity/CVE-2017-7529-POC">
 - [en0f/CVE-2017-7529_PoC](https://github.com/en0f/CVE-2017-7529_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/en0f/CVE-2017-7529_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/en0f/CVE-2017-7529_PoC">
 - [liusec/CVE-2017-7529](https://github.com/liusec/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/liusec/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/liusec/CVE-2017-7529">
+- [coolman6942o/-Exploit-CVE-2017-7529](https://github.com/coolman6942o/-Exploit-CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/coolman6942o/-Exploit-CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/coolman6942o/-Exploit-CVE-2017-7529">
 
 ---
 ## CVE-2017-75 ()
