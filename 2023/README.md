@@ -5137,6 +5137,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-1337 (2023-03-10T20:15:00)
 > The RapidLoad Power-Up for Autoptimize plugin for WordPress is vulnerable to unauthorized data loss due to a missing capability check on the clear_uucss_logs function in versions up to, and including, 1.7.1. This makes it possible for authenticated attackers with subscriber-level access to delete plugin log files.
 - [Penkyzduyi/CVE-2023-1337](https://github.com/Penkyzduyi/CVE-2023-1337)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-1337">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-1337">
+- [DARKSECshell/CVE-2023-1337](https://github.com/DARKSECshell/CVE-2023-1337)	<img alt="forks" src="https://img.shields.io/github/forks/DARKSECshell/CVE-2023-1337">	<img alt="stars" src="https://img.shields.io/github/stars/DARKSECshell/CVE-2023-1337">
 
 ---
 ## CVE-2023-1326 (2023-04-13T23:15:00)
