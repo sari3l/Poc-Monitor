@@ -1042,6 +1042,11 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/zaenhaxor/CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/zaenhaxor/CVE-2023-41892">
 
 ---
+## CVE-2023-41772 (2023-10-10T18:15:00)
+> Win32k Elevation of Privilege Vulnerability
+- [R41N3RZUF477/CVE-2023-41772](https://github.com/R41N3RZUF477/CVE-2023-41772)	<img alt="forks" src="https://img.shields.io/github/forks/R41N3RZUF477/CVE-2023-41772">	<img alt="stars" src="https://img.shields.io/github/stars/R41N3RZUF477/CVE-2023-41772">
+
+---
 ## CVE-2023-4174 (2023-08-06T01:15:00)
 > A vulnerability has been found in mooSocial mooStore 3.1.6 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The identifier VDB-236209 was assigned to this vulnerability.
 - [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">
