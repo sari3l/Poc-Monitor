@@ -1262,6 +1262,9 @@
 ## CVE-2018-1133 (2018-05-25T12:29:00)
 > An issue was discovered in Moodle 3.x. A Teacher creating a Calculated question can intentionally cause remote code execution on the server, aka eval injection.
 - [That-Guy-Steve/CVE-2018-1133-Exploit](https://github.com/That-Guy-Steve/CVE-2018-1133-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/That-Guy-Steve/CVE-2018-1133-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/That-Guy-Steve/CVE-2018-1133-Exploit">
+- [cocomelonc/vulnexipy](https://github.com/cocomelonc/vulnexipy)	<img alt="forks" src="https://img.shields.io/github/forks/cocomelonc/vulnexipy">	<img alt="stars" src="https://img.shields.io/github/stars/cocomelonc/vulnexipy">
+- [Feidao-fei/MOODLE-3.X-Remote-Code-Execution](https://github.com/Feidao-fei/MOODLE-3.X-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Feidao-fei/MOODLE-3.X-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Feidao-fei/MOODLE-3.X-Remote-Code-Execution">
+- [darrynten/MoodleExploit](https://github.com/darrynten/MoodleExploit)	<img alt="forks" src="https://img.shields.io/github/forks/darrynten/MoodleExploit">	<img alt="stars" src="https://img.shields.io/github/stars/darrynten/MoodleExploit">
 
 ---
 ## CVE-2018-11321 (2018-05-22T15:29:00)
