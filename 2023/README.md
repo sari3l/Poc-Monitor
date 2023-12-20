@@ -174,6 +174,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [bcdannyboy/CVE-2023-50164](https://github.com/bcdannyboy/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-50164">
 - [dwisiswant0/cve-2023-50164-poc](https://github.com/dwisiswant0/cve-2023-50164-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/cve-2023-50164-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/cve-2023-50164-poc">
 - [helsecert/cve-2023-50164](https://github.com/helsecert/cve-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/helsecert/cve-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/helsecert/cve-2023-50164">
+- [Trackflaw/CVE-2023-50164-ApacheStruts2-Docker](https://github.com/Trackflaw/CVE-2023-50164-ApacheStruts2-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2023-50164-ApacheStruts2-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2023-50164-ApacheStruts2-Docker">
+- [Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE](https://github.com/Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE">
 
 ---
 ## CVE-2023-50132 ()
