@@ -235,6 +235,41 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/jmussmann/cve-2023-4966-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/jmussmann/cve-2023-4966-iocs">
 
 ---
+## CVE-2023-49547 ()
+> 
+- [geraldoalcantara/CVE-2023-49547](https://github.com/geraldoalcantara/CVE-2023-49547)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49547">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49547">
+
+---
+## CVE-2023-49546 ()
+> 
+- [geraldoalcantara/CVE-2023-49546](https://github.com/geraldoalcantara/CVE-2023-49546)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49546">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49546">
+
+---
+## CVE-2023-49545 ()
+> 
+- [geraldoalcantara/CVE-2023-49545](https://github.com/geraldoalcantara/CVE-2023-49545)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49545">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49545">
+
+---
+## CVE-2023-49544 ()
+> 
+- [geraldoalcantara/CVE-2023-49544](https://github.com/geraldoalcantara/CVE-2023-49544)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49544">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49544">
+
+---
+## CVE-2023-49543 ()
+> 
+- [geraldoalcantara/CVE-2023-49543](https://github.com/geraldoalcantara/CVE-2023-49543)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49543">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49543">
+
+---
+## CVE-2023-49540 ()
+> 
+- [geraldoalcantara/CVE-2023-49540](https://github.com/geraldoalcantara/CVE-2023-49540)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49540">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49540">
+
+---
+## CVE-2023-49539 ()
+> 
+- [geraldoalcantara/CVE-2023-49539](https://github.com/geraldoalcantara/CVE-2023-49539)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49539">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49539">
+
+---
 ## CVE-2023-4951 (2023-09-14T17:15:00)
 > A cross site scripting issue was discovered with the pagination function on the "Client-based Authentication Policy Configuration" screen of the GreenRADIUS web admin interface. This issue is found in GreenRADIUS v5.1.1.1 and prior. A fix was included in v5.1.2.2.
 
