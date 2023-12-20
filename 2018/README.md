@@ -1259,6 +1259,11 @@
 - [Live-Hack-CVE/CVE-2018-11496](https://github.com/Live-Hack-CVE/CVE-2018-11496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-11496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-11496">
 
 ---
+## CVE-2018-1133 (2018-05-25T12:29:00)
+> An issue was discovered in Moodle 3.x. A Teacher creating a Calculated question can intentionally cause remote code execution on the server, aka eval injection.
+- [That-Guy-Steve/CVE-2018-1133-Exploit](https://github.com/That-Guy-Steve/CVE-2018-1133-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/That-Guy-Steve/CVE-2018-1133-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/That-Guy-Steve/CVE-2018-1133-Exploit">
+
+---
 ## CVE-2018-11321 (2018-05-22T15:29:00)
 > An issue was discovered in com_fields in Joomla! Core before 3.8.8. Inadequate filtering allows users authorised to create custom fields to manipulate the filtering options and inject an unvalidated option.
 - [ExploitCN/CVE-2018-11321](https://github.com/ExploitCN/CVE-2018-11321)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2018-11321">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2018-11321">
