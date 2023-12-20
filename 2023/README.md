@@ -160,6 +160,11 @@
 - [V3x0r/CVE-2023-50643](https://github.com/V3x0r/CVE-2023-50643)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2023-50643">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2023-50643">
 
 ---
+## CVE-2023-50596 ()
+> 
+- [chandraprarikraj/CVE-2023-50596](https://github.com/chandraprarikraj/CVE-2023-50596)	<img alt="forks" src="https://img.shields.io/github/forks/chandraprarikraj/CVE-2023-50596">	<img alt="stars" src="https://img.shields.io/github/stars/chandraprarikraj/CVE-2023-50596">
+
+---
 ## CVE-2023-5044 (2023-10-25T20:15:00)
 > Code injection via nginx.ingress.kubernetes.io/permanent-redirect annotation.
 
