@@ -456,6 +456,7 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-47119 ()
 > 
 - [BaadMaro/CVE-2023-47119](https://github.com/BaadMaro/CVE-2023-47119)	<img alt="forks" src="https://img.shields.io/github/forks/BaadMaro/CVE-2023-47119">	<img alt="stars" src="https://img.shields.io/github/stars/BaadMaro/CVE-2023-47119">
+- [Cristiano100/CVE-2023-47119](https://github.com/Cristiano100/CVE-2023-47119)	<img alt="forks" src="https://img.shields.io/github/forks/Cristiano100/CVE-2023-47119">	<img alt="stars" src="https://img.shields.io/github/stars/Cristiano100/CVE-2023-47119">
 
 ---
 ## CVE-2023-47103 ()
