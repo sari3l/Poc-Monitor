@@ -188,6 +188,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-50131">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-50131">
 
 ---
+## CVE-2023-50072 ()
+> 
+- [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-50072">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-50072">
+
+---
 ## CVE-2023-50071 ()
 > 
 - [geraldoalcantara/CVE-2023-50071](https://github.com/geraldoalcantara/CVE-2023-50071)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-50071">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-50071">
