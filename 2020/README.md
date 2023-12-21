@@ -2728,6 +2728,11 @@
 - [Live-Hack-CVE/CVE-2020-24223](https://github.com/Live-Hack-CVE/CVE-2020-24223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24223">
 
 ---
+## CVE-2020-24186 (2020-08-24T14:15:00)
+> A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.
+- [substing/CVE-2020-24186_reverse_shell_upload](https://github.com/substing/CVE-2020-24186_reverse_shell_upload)	<img alt="forks" src="https://img.shields.io/github/forks/substing/CVE-2020-24186_reverse_shell_upload">	<img alt="stars" src="https://img.shields.io/github/stars/substing/CVE-2020-24186_reverse_shell_upload">
+
+---
 ## CVE-2020-24089 (2023-09-20T00:15:00)
 > An issue was discovered in ImfHpRegFilter.sys in IOBit Malware Fighter version 8.0.2, allows local attackers to cause a denial of service (DoS).
 - [rjt-gupta/CVE-2020-24089](https://github.com/rjt-gupta/CVE-2020-24089)	<img alt="forks" src="https://img.shields.io/github/forks/rjt-gupta/CVE-2020-24089">	<img alt="stars" src="https://img.shields.io/github/stars/rjt-gupta/CVE-2020-24089">
