@@ -1785,6 +1785,7 @@
 - [Hamesawian/CVE-2021-42013](https://github.com/Hamesawian/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Hamesawian/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Hamesawian/CVE-2021-42013">
 - [K3ysTr0K3R/CVE-2021-42013-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-42013-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-42013-EXPLOIT">
 - [OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits](https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits">
+- [Rubikcuv5/cve-2021-42013](https://github.com/Rubikcuv5/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Rubikcuv5/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Rubikcuv5/cve-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
