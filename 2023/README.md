@@ -32,8 +32,8 @@
 - [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-6538">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-6538">
 
 ---
-## CVE-2023-6289 ()
-> 
+## CVE-2023-6289 (2023-12-18T20:15:00)
+> The Swift Performance Lite WordPress plugin before 2.3.6.15 does not prevent users from exporting the plugin's settings, which may include sensitive information such as Cloudflare API tokens.
 - [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6289">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6289">
 
 ---
@@ -627,8 +627,8 @@ Users are recommended to upgrade to version 18.12.10
 - [emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS](https://github.com/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS)	<img alt="forks" src="https://img.shields.io/github/forks/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS">	<img alt="stars" src="https://img.shields.io/github/stars/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS">
 
 ---
-## CVE-2023-46998 ()
-> 
+## CVE-2023-46998 (2023-11-07T05:15:00)
+> Cross Site Scripting vulnerability in BootBox Bootbox.js v.3.2 through 6.0 allows a remote attacker to execute arbitrary code via a crafted payload to alert(), confirm(), prompt() functions.
 - [soy-oreocato/CVE-2023-46998](https://github.com/soy-oreocato/CVE-2023-46998)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2023-46998">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2023-46998">
 
 ---
@@ -868,8 +868,10 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45657">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45657">
 
 ---
-## CVE-2023-45603 ()
-> 
+## CVE-2023-45603 (2023-12-20T19:15:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in Jeff Starr User Submitted Posts – Enable Users to Submit Posts from the Front End.This issue affects User Submitted Posts – Enable Users to Submit Posts from the Front End: from n/a through 20230902.
+
+
 - [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-45603-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-45603-PoC">
 
 ---
