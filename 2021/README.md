@@ -876,6 +876,11 @@
 - [Live-Hack-CVE/CVE-2021-44040](https://github.com/Live-Hack-CVE/CVE-2021-44040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44040">
 
 ---
+## CVE-2021-44026 (2021-11-19T04:15:00)
+> Roundcube before 1.3.17 and 1.4.x before 1.4.12 is prone to a potential SQL injection via search or search_params.
+- [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026)	<img alt="forks" src="https://img.shields.io/github/forks/pentesttoolscom/roundcube-cve-2021-44026">	<img alt="stars" src="https://img.shields.io/github/stars/pentesttoolscom/roundcube-cve-2021-44026">
+
+---
 ## CVE-2021-44014 (2021-12-14T12:15:00)
 > A vulnerability has been identified in JT Open (All versions < V11.1.1.0), JT Utilities (All versions < V13.1.1.0), Solid Edge (All versions < V2023). The Jt1001.dll contains a use-after-free vulnerability that could be triggered while parsing specially crafted JT files. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-15057, ZDI-CAN-19081)
 - [Live-Hack-CVE/CVE-2021-44014](https://github.com/Live-Hack-CVE/CVE-2021-44014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44014">
