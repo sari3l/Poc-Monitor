@@ -3519,6 +3519,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [LuemmelSec/CVE-2023-29357](https://github.com/LuemmelSec/CVE-2023-29357)	<img alt="forks" src="https://img.shields.io/github/forks/LuemmelSec/CVE-2023-29357">	<img alt="stars" src="https://img.shields.io/github/stars/LuemmelSec/CVE-2023-29357">
 - [KeyStrOke95/CVE-2023-29357-ExE](https://github.com/KeyStrOke95/CVE-2023-29357-ExE)	<img alt="forks" src="https://img.shields.io/github/forks/KeyStrOke95/CVE-2023-29357-ExE">	<img alt="stars" src="https://img.shields.io/github/stars/KeyStrOke95/CVE-2023-29357-ExE">
 - [Twil4/CVE-2023-29357-check](https://github.com/Twil4/CVE-2023-29357-check)	<img alt="forks" src="https://img.shields.io/github/forks/Twil4/CVE-2023-29357-check">	<img alt="stars" src="https://img.shields.io/github/stars/Twil4/CVE-2023-29357-check">
+- [Guillaume-Risch/cve-2023-29357-Sharepoint](https://github.com/Guillaume-Risch/cve-2023-29357-Sharepoint)	<img alt="forks" src="https://img.shields.io/github/forks/Guillaume-Risch/cve-2023-29357-Sharepoint">	<img alt="stars" src="https://img.shields.io/github/stars/Guillaume-Risch/cve-2023-29357-Sharepoint">
 
 ---
 ## CVE-2023-29343 (2023-05-09T18:15:00)
