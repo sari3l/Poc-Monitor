@@ -135,6 +135,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-51281 ()
+> 
+- [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51281">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51281">
+
+---
 ## CVE-2023-51214 ()
 > 
 - [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214)	<img alt="forks" src="https://img.shields.io/github/forks/chandraprarikraj/CVE-2023-51214">	<img alt="stars" src="https://img.shields.io/github/stars/chandraprarikraj/CVE-2023-51214">
