@@ -728,6 +728,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [dcm2406/CVE-Lab](https://github.com/dcm2406/CVE-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/dcm2406/CVE-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/dcm2406/CVE-Lab">
 - [dcm2406/CVE-2023-46604](https://github.com/dcm2406/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/dcm2406/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/dcm2406/CVE-2023-46604">
 - [Anekant-Singhai/Exploits](https://github.com/Anekant-Singhai/Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Anekant-Singhai/Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Anekant-Singhai/Exploits">
+- [Mudoleto/Broker_ApacheMQ](https://github.com/Mudoleto/Broker_ApacheMQ)	<img alt="forks" src="https://img.shields.io/github/forks/Mudoleto/Broker_ApacheMQ">	<img alt="stars" src="https://img.shields.io/github/stars/Mudoleto/Broker_ApacheMQ">
 
 ---
 ## CVE-2023-46501 ()
