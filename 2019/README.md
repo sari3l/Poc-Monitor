@@ -2256,6 +2256,11 @@
 - [Live-Hack-CVE/CVE-2019-13990](https://github.com/Live-Hack-CVE/CVE-2019-13990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13990">
 
 ---
+## CVE-2019-1388 (2019-11-12T19:15:00)
+> An elevation of privilege vulnerability exists in the Windows Certificate Dialog when it does not properly enforce user privileges, aka 'Windows Certificate Dialog Elevation of Privilege Vulnerability'.
+- [sickthecat/CVE-2019-1388](https://github.com/sickthecat/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/sickthecat/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/sickthecat/CVE-2019-1388">
+
+---
 ## CVE-2019-13768 (2023-01-02T23:15:00)
 > Use after free in FileAPI in Google Chrome prior to 72.0.3626.81 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page. (Chrome security severity: High)
 - [Live-Hack-CVE/CVE-2019-13768](https://github.com/Live-Hack-CVE/CVE-2019-13768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13768">
