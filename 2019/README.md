@@ -1956,6 +1956,11 @@
 - [Live-Hack-CVE/CVE-2019-16891](https://github.com/Live-Hack-CVE/CVE-2019-16891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16891">
 
 ---
+## CVE-2019-16784 (2020-01-14T20:15:00)
+> In PyInstaller before version 3.6, only on Windows, a local privilege escalation vulnerability is present in this particular case: If a software using PyInstaller in "onefile" mode is launched by a privileged user (at least more than the current one) which have his "TempPath" resolving to a world writable directory. This is the case for example if the software is launched as a service or as a scheduled task using a system account (TempPath will be C:\Windows\Temp). In order to be exploitable the software has to be (re)started after the attacker launch the exploit program, so for a service launched at startup, a service restart is needed (e.g. after a crash or an upgrade).
+- [Ckrielle/CVE-2019-16784-POC](https://github.com/Ckrielle/CVE-2019-16784-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ckrielle/CVE-2019-16784-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ckrielle/CVE-2019-16784-POC">
+
+---
 ## CVE-2019-16770 (2019-12-05T20:15:00)
 > In Puma before versions 3.12.2 and 4.3.1, a poorly-behaved client could use keepalive requests to monopolize Puma's reactor and create a denial of service attack. If more keepalive connections to Puma are opened than there are threads available, additional connections will wait permanently if the attacker sends requests frequently enough. This vulnerability is patched in Puma 4.3.1 and 3.12.2.
 - [Live-Hack-CVE/CVE-2019-16770](https://github.com/Live-Hack-CVE/CVE-2019-16770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16770">
