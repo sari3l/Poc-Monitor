@@ -1959,6 +1959,7 @@
 ## CVE-2019-16784 (2020-01-14T20:15:00)
 > In PyInstaller before version 3.6, only on Windows, a local privilege escalation vulnerability is present in this particular case: If a software using PyInstaller in "onefile" mode is launched by a privileged user (at least more than the current one) which have his "TempPath" resolving to a world writable directory. This is the case for example if the software is launched as a service or as a scheduled task using a system account (TempPath will be C:\Windows\Temp). In order to be exploitable the software has to be (re)started after the attacker launch the exploit program, so for a service launched at startup, a service restart is needed (e.g. after a crash or an upgrade).
 - [Ckrielle/CVE-2019-16784-POC](https://github.com/Ckrielle/CVE-2019-16784-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ckrielle/CVE-2019-16784-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ckrielle/CVE-2019-16784-POC">
+- [AlterSolutions/PyInstallerPrivEsc](https://github.com/AlterSolutions/PyInstallerPrivEsc)	<img alt="forks" src="https://img.shields.io/github/forks/AlterSolutions/PyInstallerPrivEsc">	<img alt="stars" src="https://img.shields.io/github/stars/AlterSolutions/PyInstallerPrivEsc">
 
 ---
 ## CVE-2019-16770 (2019-12-05T20:15:00)
