@@ -2259,6 +2259,11 @@
 ## CVE-2019-1388 (2019-11-12T19:15:00)
 > An elevation of privilege vulnerability exists in the Windows Certificate Dialog when it does not properly enforce user privileges, aka 'Windows Certificate Dialog Elevation of Privilege Vulnerability'.
 - [sickthecat/CVE-2019-1388](https://github.com/sickthecat/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/sickthecat/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/sickthecat/CVE-2019-1388">
+- [suprise4u/CVE-2019-1388](https://github.com/suprise4u/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/suprise4u/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/suprise4u/CVE-2019-1388">
+- [nobodyatall648/CVE-2019-1388](https://github.com/nobodyatall648/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/nobodyatall648/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/nobodyatall648/CVE-2019-1388">
+- [sv3nbeast/CVE-2019-1388](https://github.com/sv3nbeast/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/sv3nbeast/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/sv3nbeast/CVE-2019-1388">
+- [jas502n/CVE-2019-1388](https://github.com/jas502n/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-1388">
+- [jaychouzzk/CVE-2019-1388](https://github.com/jaychouzzk/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/jaychouzzk/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/jaychouzzk/CVE-2019-1388">
 
 ---
 ## CVE-2019-13768 (2023-01-02T23:15:00)
