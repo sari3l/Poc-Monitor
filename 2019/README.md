@@ -1710,6 +1710,7 @@
 - [bao7uo/RAU_crypto](https://github.com/bao7uo/RAU_crypto)	<img alt="forks" src="https://img.shields.io/github/forks/bao7uo/RAU_crypto">	<img alt="stars" src="https://img.shields.io/github/stars/bao7uo/RAU_crypto">
 - [appliedi/Telerik_CVE-2019-18935](https://github.com/appliedi/Telerik_CVE-2019-18935)	<img alt="forks" src="https://img.shields.io/github/forks/appliedi/Telerik_CVE-2019-18935">	<img alt="stars" src="https://img.shields.io/github/stars/appliedi/Telerik_CVE-2019-18935">
 - [ThanHuuTuan/CVE_2019_18935](https://github.com/ThanHuuTuan/CVE_2019_18935)	<img alt="forks" src="https://img.shields.io/github/forks/ThanHuuTuan/CVE_2019_18935">	<img alt="stars" src="https://img.shields.io/github/stars/ThanHuuTuan/CVE_2019_18935">
+- [dust-life/CVE-2019-18935-memShell](https://github.com/dust-life/CVE-2019-18935-memShell)	<img alt="forks" src="https://img.shields.io/github/forks/dust-life/CVE-2019-18935-memShell">	<img alt="stars" src="https://img.shields.io/github/stars/dust-life/CVE-2019-18935-memShell">
 
 ---
 ## CVE-2019-18901 (2020-03-02T16:15:00)
