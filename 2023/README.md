@@ -149,6 +149,7 @@
 > In ssh in OpenSSH before 9.6, OS command injection might occur if a user name or host name has shell metacharacters, and this name is referenced by an expansion token in certain situations. For example, an untrusted Git repository can have a submodule with shell metacharacters in a user name or host name.
 - [dlewen/CVE-2023-51385-test](https://github.com/dlewen/CVE-2023-51385-test)	<img alt="forks" src="https://img.shields.io/github/forks/dlewen/CVE-2023-51385-test">	<img alt="stars" src="https://img.shields.io/github/stars/dlewen/CVE-2023-51385-test">
 - [watarium/cve-2023-51385_test](https://github.com/watarium/cve-2023-51385_test)	<img alt="forks" src="https://img.shields.io/github/forks/watarium/cve-2023-51385_test">	<img alt="stars" src="https://img.shields.io/github/stars/watarium/cve-2023-51385_test">
+- [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/FeatherStark/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/FeatherStark/CVE-2023-51385">
 
 ---
 ## CVE-2023-51281 ()
