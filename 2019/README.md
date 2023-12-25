@@ -2538,6 +2538,11 @@
 - [Live-Hack-CVE/CVE-2019-11498](https://github.com/Live-Hack-CVE/CVE-2019-11498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11498">
 
 ---
+## CVE-2019-11395 (2019-04-22T11:29:00)
+> A buffer overflow in MailCarrier 2.51 allows remote attackers to execute arbitrary code via a long string, as demonstrated by SMTP RCPT TO, POP3 USER, POP3 LIST, POP3 TOP, or POP3 RETR.
+- [redalien301090/CVE-2019-11395](https://github.com/redalien301090/CVE-2019-11395)	<img alt="forks" src="https://img.shields.io/github/forks/redalien301090/CVE-2019-11395">	<img alt="stars" src="https://img.shields.io/github/stars/redalien301090/CVE-2019-11395">
+
+---
 ## CVE-2019-11358 (2019-04-20T00:29:00)
 > jQuery before 3.4.0, as used in Drupal, Backdrop CMS, and other products, mishandles jQuery.extend(true, {}, ...) because of Object.prototype pollution. If an unsanitized source object contained an enumerable __proto__ property, it could extend the native Object.prototype.
 - [isacaya/CVE-2019-11358](https://github.com/isacaya/CVE-2019-11358)	<img alt="forks" src="https://img.shields.io/github/forks/isacaya/CVE-2019-11358">	<img alt="stars" src="https://img.shields.io/github/stars/isacaya/CVE-2019-11358">

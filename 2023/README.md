@@ -345,8 +345,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-49964">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-49964">
 
 ---
-## CVE-2023-49954 ()
-> 
+## CVE-2023-49954 (2023-12-25T08:15:00)
+> The CRM Integration in 3CX before 18.0.9.23 and 20 before 20.0.0.1494 allows SQL Injection via a first name, search string, or email address.
 - [CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/CVE-2023-49954/CVE-2023-49954.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/CVE-2023-49954/CVE-2023-49954.github.io">
 
 ---
