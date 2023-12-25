@@ -17,6 +17,11 @@
 - [xiahao90/CVE-2023-8888.test](https://github.com/xiahao90/CVE-2023-8888.test)	<img alt="forks" src="https://img.shields.io/github/forks/xiahao90/CVE-2023-8888.test">	<img alt="stars" src="https://img.shields.io/github/stars/xiahao90/CVE-2023-8888.test">
 
 ---
+## CVE-2023-6710 (2023-12-12T22:15:00)
+> A flaw was found in the mod_proxy_cluster in the Apache server. This issue may allow a malicious user to add a script in the 'alias' parameter in the URL to trigger the stored cross-site scripting (XSS) vulnerability. By adding a script on the alias parameter on the URL, it adds a new virtual host and adds the script to the cluster-manager page. The impact of this vulnerability is considered as Low, as the cluster_manager URL should not be exposed outside and is protected by user/password.
+- [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710)	<img alt="forks" src="https://img.shields.io/github/forks/DedSec-47/CVE-2023-6710">	<img alt="stars" src="https://img.shields.io/github/stars/DedSec-47/CVE-2023-6710">
+
+---
 ## CVE-2023-66975 ()
 > 
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
@@ -3701,7 +3706,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/CVE-2023-28432">
 - [yTxZx/CVE-2023-28432](https://github.com/yTxZx/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/yTxZx/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/yTxZx/CVE-2023-28432">
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
-- [Fw-fW-fw/CVE-2023-28432-minio_update_rce](https://github.com/Fw-fW-fw/CVE-2023-28432-minio_update_rce)	<img alt="forks" src="https://img.shields.io/github/forks/Fw-fW-fw/CVE-2023-28432-minio_update_rce">	<img alt="stars" src="https://img.shields.io/github/stars/Fw-fW-fw/CVE-2023-28432-minio_update_rce">
+- [unam4/CVE-2023-28432-minio_update_rce](https://github.com/unam4/CVE-2023-28432-minio_update_rce)	<img alt="forks" src="https://img.shields.io/github/forks/unam4/CVE-2023-28432-minio_update_rce">	<img alt="stars" src="https://img.shields.io/github/stars/unam4/CVE-2023-28432-minio_update_rce">
 - [Chocapikk/CVE-2023-28432](https://github.com/Chocapikk/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-28432">
 - [C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-28432">
 - [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/Romanc9/Gui-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/Romanc9/Gui-poc-test">
