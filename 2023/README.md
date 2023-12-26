@@ -5379,6 +5379,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [emotest1/CVE-2023-123456](https://github.com/emotest1/CVE-2023-123456)	<img alt="forks" src="https://img.shields.io/github/forks/emotest1/CVE-2023-123456">	<img alt="stars" src="https://img.shields.io/github/stars/emotest1/CVE-2023-123456">
 
 ---
+## CVE-2023-12 ()
+> 
+- [Faelian/CraftCMS_CVE-2023-12-26](https://github.com/Faelian/CraftCMS_CVE-2023-12-26)	<img alt="forks" src="https://img.shields.io/github/forks/Faelian/CraftCMS_CVE-2023-12-26">	<img alt="stars" src="https://img.shields.io/github/stars/Faelian/CraftCMS_CVE-2023-12-26">
+
+---
 ## CVE-2023-1177 (2023-03-24T15:15:00)
 > Path Traversal: '\..\filename' in GitHub repository mlflow/mlflow prior to 2.2.1.
 - [hh-hunter/CVE-2023-1177-Docker](https://github.com/hh-hunter/CVE-2023-1177-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/CVE-2023-1177-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/CVE-2023-1177-Docker">
