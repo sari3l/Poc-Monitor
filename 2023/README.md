@@ -4986,6 +4986,11 @@ For more details, please review the linked advisory on this CVE.
 - [nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272](https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272">
 
 ---
+## CVE-2023-21266 (2023-10-06T19:15:00)
+> In killBackgroundProcesses of ActivityManagerService.java, there is a possible way to escape Google Play protection due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266">
+
+---
 ## CVE-2023-21251 (2023-07-13T00:15:00)
 > In onCreate of ConfirmDialog.java, there is a possible way to connect to VNP bypassing user's consent due to improper input validation. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation.
 
