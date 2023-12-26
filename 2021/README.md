@@ -5480,6 +5480,7 @@
 ## CVE-2021-32305 (2021-05-18T17:15:00)
 > WebSVN before 2.6.1 allows remote attackers to execute arbitrary commands via shell metacharacters in the search parameter.
 - [sz-guanx/CVE-2021-32305](https://github.com/sz-guanx/CVE-2021-32305)	<img alt="forks" src="https://img.shields.io/github/forks/sz-guanx/CVE-2021-32305">	<img alt="stars" src="https://img.shields.io/github/stars/sz-guanx/CVE-2021-32305">
+- [FredBrave/CVE-2021-32305-websvn-2.6.0](https://github.com/FredBrave/CVE-2021-32305-websvn-2.6.0)	<img alt="forks" src="https://img.shields.io/github/forks/FredBrave/CVE-2021-32305-websvn-2.6.0">	<img alt="stars" src="https://img.shields.io/github/stars/FredBrave/CVE-2021-32305-websvn-2.6.0">
 
 ---
 ## CVE-2021-32028 (2021-10-11T17:15:00)
