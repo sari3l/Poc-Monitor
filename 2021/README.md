@@ -2510,6 +2510,7 @@
 - [1x019/CVE-2021-4045](https://github.com/1x019/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/1x019/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/1x019/CVE-2021-4045">
 - [hacefresko/CVE-2021-4045-PoC](https://github.com/hacefresko/CVE-2021-4045-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hacefresko/CVE-2021-4045-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hacefresko/CVE-2021-4045-PoC">
 - [Live-Hack-CVE/CVE-2021-4045](https://github.com/Live-Hack-CVE/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4045">
+- [B3nj4h/CVE-2021-4045](https://github.com/B3nj4h/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/B3nj4h/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/B3nj4h/CVE-2021-4045">
 
 ---
 ## CVE-2021-40449 (2021-10-13T01:15:00)
