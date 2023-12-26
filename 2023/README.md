@@ -5382,6 +5382,9 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-12 ()
 > 
 - [Faelian/CraftCMS_CVE-2023-12-26](https://github.com/Faelian/CraftCMS_CVE-2023-12-26)	<img alt="forks" src="https://img.shields.io/github/forks/Faelian/CraftCMS_CVE-2023-12-26">	<img alt="stars" src="https://img.shields.io/github/stars/Faelian/CraftCMS_CVE-2023-12-26">
+- [TLWebdesign/Joomla-3.10.12-languagehelper-hotfix](https://github.com/TLWebdesign/Joomla-3.10.12-languagehelper-hotfix)	<img alt="forks" src="https://img.shields.io/github/forks/TLWebdesign/Joomla-3.10.12-languagehelper-hotfix">	<img alt="stars" src="https://img.shields.io/github/stars/TLWebdesign/Joomla-3.10.12-languagehelper-hotfix">
+- [codeb0ss/CVE-2023-1273-PoC](https://github.com/codeb0ss/CVE-2023-1273-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1273-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1273-PoC">
+- [emotest1/CVE-2023-123456](https://github.com/emotest1/CVE-2023-123456)	<img alt="forks" src="https://img.shields.io/github/forks/emotest1/CVE-2023-123456">	<img alt="stars" src="https://img.shields.io/github/stars/emotest1/CVE-2023-123456">
 
 ---
 ## CVE-2023-1177 (2023-03-24T15:15:00)
