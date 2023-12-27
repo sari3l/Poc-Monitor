@@ -1441,6 +1441,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">
 
 ---
+## CVE-2023-40121 (2023-10-27T21:15:00)
+> In appendEscapedSQLString of DatabaseUtils.java, there is a possible SQL injection due to unsafe deserialization. This could lead to local information disclosure with User execution privileges needed. User interaction is not needed for exploitation.
+- [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121">
+
+---
 ## CVE-2023-40044 (2023-09-27T15:18:00)
 > 
 In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker could leverage a .NET deserialization vulnerability in the Ad Hoc Transfer module to execute remote commands on the underlying WS_FTP Server operating system.  
