@@ -136,6 +136,7 @@
 - [Jenderal92/WP-CVE-2023-5360](https://github.com/Jenderal92/WP-CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-5360">
 - [Pushkarup/CVE-2023-5360](https://github.com/Pushkarup/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-5360">
 - [1337r0j4n/CVE-2023-5360](https://github.com/1337r0j4n/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/1337r0j4n/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/1337r0j4n/CVE-2023-5360">
+- [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/angkerithhack001/CVE-2023-5360-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/angkerithhack001/CVE-2023-5360-PoC">
 
 ---
 ## CVE-2023-5217 (2023-09-28T16:15:00)
