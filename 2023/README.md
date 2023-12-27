@@ -438,8 +438,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2023-49471">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2023-49471">
 
 ---
-## CVE-2023-49438 ()
-> 
+## CVE-2023-49438 (2023-12-26T22:15:00)
+> An open redirect vulnerability in the python package Flask-Security-Too <=5.3.2 allows attackers to redirect unsuspecting users to malicious sites via a crafted URL by abusing the ?next parameter on the /login and /register routes.
 - [brandon-t-elliott/CVE-2023-49438](https://github.com/brandon-t-elliott/CVE-2023-49438)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2023-49438">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2023-49438">
 
 ---
@@ -1075,6 +1075,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 ## CVE-2023-43261 (2023-10-04T12:15:00)
 > An information disclosure in Milesight UR5X, UR32L, UR32, UR35, UR41 before v35.3.0.7 allows attackers to access sensitive router components.
 - [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2023-43261">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2023-43261">
+
+---
+## CVE-2023-43177 ()
+> 
+- [the-emmons/CVE-2023-43177](https://github.com/the-emmons/CVE-2023-43177)	<img alt="forks" src="https://img.shields.io/github/forks/the-emmons/CVE-2023-43177">	<img alt="stars" src="https://img.shields.io/github/stars/the-emmons/CVE-2023-43177">
 
 ---
 ## CVE-2023-43154 (2023-09-27T15:19:00)
