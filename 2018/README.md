@@ -901,6 +901,11 @@
 - [Live-Hack-CVE/CVE-2018-17581](https://github.com/Live-Hack-CVE/CVE-2018-17581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17581">
 
 ---
+## CVE-2018-17552 (2018-10-03T20:29:00)
+> SQL Injection in login.php in Naviwebs Navigate CMS 2.8 allows remote attackers to bypass authentication via the navigate-user cookie.
+- [kimstars/CVE-2018-17552](https://github.com/kimstars/CVE-2018-17552)	<img alt="forks" src="https://img.shields.io/github/forks/kimstars/CVE-2018-17552">	<img alt="stars" src="https://img.shields.io/github/stars/kimstars/CVE-2018-17552">
+
+---
 ## CVE-2018-17456 (2018-10-06T14:29:00)
 > Git before 2.14.5, 2.15.x before 2.15.3, 2.16.x before 2.16.5, 2.17.x before 2.17.2, 2.18.x before 2.18.1, and 2.19.x before 2.19.1 allows remote code execution during processing of a recursive "git clone" of a superproject if a .gitmodules file has a URL field beginning with a '-' character.
 - [nkwejj/CVE-2018-17456](https://github.com/nkwejj/CVE-2018-17456)	<img alt="forks" src="https://img.shields.io/github/forks/nkwejj/CVE-2018-17456">	<img alt="stars" src="https://img.shields.io/github/stars/nkwejj/CVE-2018-17456">
