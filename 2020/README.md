@@ -3522,6 +3522,11 @@
 - [Live-Hack-CVE/CVE-2020-15798](https://github.com/Live-Hack-CVE/CVE-2020-15798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15798">
 
 ---
+## CVE-2020-15780 (2020-07-15T22:15:00)
+> An issue was discovered in drivers/acpi/acpi_configfs.c in the Linux kernel before 5.7.7. Injection of malicious ACPI tables via configfs could be used by attackers to bypass lockdown and secure boot restrictions, aka CID-75b0cea7bf30.
+- [Annavid/CVE-2020-15780-exploit](https://github.com/Annavid/CVE-2020-15780-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Annavid/CVE-2020-15780-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Annavid/CVE-2020-15780-exploit">
+
+---
 ## CVE-2020-15778 (2020-07-24T14:15:00)
 > ** DISPUTED ** scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of "anomalous argument transfers" because that could "stand a great chance of breaking existing workflows."
 - [cpandya2909/CVE-2020-15778](https://github.com/cpandya2909/CVE-2020-15778)	<img alt="forks" src="https://img.shields.io/github/forks/cpandya2909/CVE-2020-15778">	<img alt="stars" src="https://img.shields.io/github/stars/cpandya2909/CVE-2020-15778">
