@@ -4184,6 +4184,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0o/zoneminder-snapshots-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0o/zoneminder-snapshots-rce-poc">
 - [heapbytes/CVE-2023-26035](https://github.com/heapbytes/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/heapbytes/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/heapbytes/CVE-2023-26035">
 - [Yuma-Tsushima07/CVE-2023-26035](https://github.com/Yuma-Tsushima07/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/Yuma-Tsushima07/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/Yuma-Tsushima07/CVE-2023-26035">
+- [Faelian/zoneminder_CVE-2023-26035](https://github.com/Faelian/zoneminder_CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/Faelian/zoneminder_CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/Faelian/zoneminder_CVE-2023-26035">
 
 ---
 ## CVE-2023-2598 (2023-06-01T01:15:00)
