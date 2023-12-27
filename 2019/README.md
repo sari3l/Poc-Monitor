@@ -1758,6 +1758,7 @@
 - [edsonjt81/sudo-cve-2019-18634](https://github.com/edsonjt81/sudo-cve-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/sudo-cve-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/sudo-cve-2019-18634">
 - [Plazmaz/CVE-2019-18634](https://github.com/Plazmaz/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/Plazmaz/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/Plazmaz/CVE-2019-18634">
 - [DDayLuong/CVE-2019-18634](https://github.com/DDayLuong/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/DDayLuong/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/DDayLuong/CVE-2019-18634">
+- [DDayLuong/CVE-2019-18634](https://github.com/DDayLuong/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/DDayLuong/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/DDayLuong/CVE-2019-18634">
 
 ---
 ## CVE-2019-18413 (2019-10-24T18:15:00)
