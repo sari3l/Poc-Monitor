@@ -2544,6 +2544,12 @@
 ## CVE-2019-11447 (2019-04-22T11:29:00)
 > An issue was discovered in CutePHP CuteNews 2.1.2. An attacker can infiltrate the server through the avatar upload process in the profile area via the avatar_file field to index.php?mod=main&opt=personal. There is no effective control of $imgsize in /core/modules/dashboard.php. The header content of a file can be changed and the control can be bypassed for code execution. (An attacker can use the GIF header for this.)
 - [substing/CVE-2019-11447_reverse_shell_upload](https://github.com/substing/CVE-2019-11447_reverse_shell_upload)	<img alt="forks" src="https://img.shields.io/github/forks/substing/CVE-2019-11447_reverse_shell_upload">	<img alt="stars" src="https://img.shields.io/github/stars/substing/CVE-2019-11447_reverse_shell_upload">
+- [0xConstant/CVE-2019-11447](https://github.com/0xConstant/CVE-2019-11447)	<img alt="forks" src="https://img.shields.io/github/forks/0xConstant/CVE-2019-11447">	<img alt="stars" src="https://img.shields.io/github/stars/0xConstant/CVE-2019-11447">
+- [thewhiteh4t/cve-2019-11447](https://github.com/thewhiteh4t/cve-2019-11447)	<img alt="forks" src="https://img.shields.io/github/forks/thewhiteh4t/cve-2019-11447">	<img alt="stars" src="https://img.shields.io/github/stars/thewhiteh4t/cve-2019-11447">
+- [ColdFusionX/CVE-2019-11447_CuteNews-AvatarUploadRCE](https://github.com/ColdFusionX/CVE-2019-11447_CuteNews-AvatarUploadRCE)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2019-11447_CuteNews-AvatarUploadRCE">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2019-11447_CuteNews-AvatarUploadRCE">
+- [dinesh876/CVE-2019-11447-POC](https://github.com/dinesh876/CVE-2019-11447-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dinesh876/CVE-2019-11447-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dinesh876/CVE-2019-11447-POC">
+- [khuntor/CVE-2019-11447-EXP](https://github.com/khuntor/CVE-2019-11447-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/khuntor/CVE-2019-11447-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/khuntor/CVE-2019-11447-EXP">
+- [mt-code/CVE-2019-11447](https://github.com/mt-code/CVE-2019-11447)	<img alt="forks" src="https://img.shields.io/github/forks/mt-code/CVE-2019-11447">	<img alt="stars" src="https://img.shields.io/github/stars/mt-code/CVE-2019-11447">
 
 ---
 ## CVE-2019-11395 (2019-04-22T11:29:00)
