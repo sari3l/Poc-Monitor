@@ -517,6 +517,11 @@ Users are recommended to upgrade to version 18.12.10
 - [christopher-pace/CVE-2023-49038](https://github.com/christopher-pace/CVE-2023-49038)	<img alt="forks" src="https://img.shields.io/github/forks/christopher-pace/CVE-2023-49038">	<img alt="stars" src="https://img.shields.io/github/stars/christopher-pace/CVE-2023-49038">
 
 ---
+## CVE-2023-48974 ()
+> 
+- [vinnie1717/CVE-2023-48974](https://github.com/vinnie1717/CVE-2023-48974)	<img alt="forks" src="https://img.shields.io/github/forks/vinnie1717/CVE-2023-48974">	<img alt="stars" src="https://img.shields.io/github/stars/vinnie1717/CVE-2023-48974">
+
+---
 ## CVE-2023-48866 ()
 > 
 - [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48866">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48866">
@@ -817,6 +822,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 ## CVE-2023-4636 (2023-09-05T03:15:00)
 > The WordPress File Sharing Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via admin settings in versions up to, and including, 2.0.3 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.
 - [ThatNotEasy/CVE-2023-4636](https://github.com/ThatNotEasy/CVE-2023-4636)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-4636">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-4636">
+
+---
+## CVE-2023-46344 ()
+> 
+- [vinnie1717/CVE-2023-46344](https://github.com/vinnie1717/CVE-2023-46344)	<img alt="forks" src="https://img.shields.io/github/forks/vinnie1717/CVE-2023-46344">	<img alt="stars" src="https://img.shields.io/github/stars/vinnie1717/CVE-2023-46344">
 
 ---
 ## CVE-2023-4634 (2023-09-06T09:15:00)
@@ -2355,6 +2365,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [ka7ana/CVE-2023-36025](https://github.com/ka7ana/CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/ka7ana/CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/ka7ana/CVE-2023-36025">
 - [DamnIt74/CVE-2023-36025](https://github.com/DamnIt74/CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/DamnIt74/CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/DamnIt74/CVE-2023-36025">
 - [J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/J466Y/test_CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/J466Y/test_CVE-2023-36025">
+- [coolman6942o/-EXPLOIT-CVE-2023-36025](https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/coolman6942o/-EXPLOIT-CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/coolman6942o/-EXPLOIT-CVE-2023-36025">
 
 ---
 ## CVE-2023-35885 (2023-06-20T20:15:00)
