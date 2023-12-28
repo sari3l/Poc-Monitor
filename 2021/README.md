@@ -7378,6 +7378,8 @@
 - [safesword/F5_RCE](https://github.com/safesword/F5_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/safesword/F5_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/safesword/F5_RCE">
 - [Osyanina/westone-CVE-2021-22986-scanner](https://github.com/Osyanina/westone-CVE-2021-22986-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Osyanina/westone-CVE-2021-22986-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Osyanina/westone-CVE-2021-22986-scanner">
 - [dorkerdevil/CVE-2021-22986-Poc](https://github.com/dorkerdevil/CVE-2021-22986-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-22986-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-22986-Poc">
+- [huydung26/CVE-2021-22986](https://github.com/huydung26/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/huydung26/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/huydung26/CVE-2021-22986">
+- [kiri-48/CVE-2021-22986](https://github.com/kiri-48/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/kiri-48/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/kiri-48/CVE-2021-22986">
 
 ---
 ## CVE-2021-22940 (2021-08-16T19:15:00)
