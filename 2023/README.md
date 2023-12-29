@@ -606,8 +606,10 @@ Users are recommended to upgrade to version 18.12.10
 - [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4800">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4800">
 
 ---
-## CVE-2023-47840 ()
-> 
+## CVE-2023-47840 (2023-12-29T09:15:00)
+> Improper Control of Generation of Code ('Code Injection') vulnerability in Qode Interactive Qode Essential Addons.This issue affects Qode Essential Addons: from n/a through 1.5.2.
+
+
 - [RandomRobbieBF/CVE-2023-47840](https://github.com/RandomRobbieBF/CVE-2023-47840)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47840">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47840">
 
 ---
