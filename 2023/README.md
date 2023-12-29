@@ -159,6 +159,12 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-51467 (2023-12-26T15:15:00)
+> The vulnerability allows attackers to bypass authentication to achieve a simple Server-Side Request Forgery (SSRF)
+
+- [JaneMandy/CVE-2023-51467](https://github.com/JaneMandy/CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/JaneMandy/CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/JaneMandy/CVE-2023-51467">
+
+---
 ## CVE-2023-51385 (2023-12-18T19:15:00)
 > In ssh in OpenSSH before 9.6, OS command injection might occur if a user name or host name has shell metacharacters, and this name is referenced by an expansion token in certain situations. For example, an untrusted Git repository can have a submodule with shell metacharacters in a user name or host name.
 - [dlewen/CVE-2023-51385-test](https://github.com/dlewen/CVE-2023-51385-test)	<img alt="forks" src="https://img.shields.io/github/forks/dlewen/CVE-2023-51385-test">	<img alt="stars" src="https://img.shields.io/github/stars/dlewen/CVE-2023-51385-test">
@@ -175,6 +181,7 @@
 - [zhulin2/testCVE-2023-51385](https://github.com/zhulin2/testCVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/zhulin2/testCVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/zhulin2/testCVE-2023-51385">
 - [jacknickelson/poc-cve-2023-51385](https://github.com/jacknickelson/poc-cve-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/jacknickelson/poc-cve-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/jacknickelson/poc-cve-2023-51385">
 - [siyi-star/CVE-2023-51385_test-star-main](https://github.com/siyi-star/CVE-2023-51385_test-star-main)	<img alt="forks" src="https://img.shields.io/github/forks/siyi-star/CVE-2023-51385_test-star-main">	<img alt="stars" src="https://img.shields.io/github/stars/siyi-star/CVE-2023-51385_test-star-main">
+- [N0rther/CVE-2023-51385_TT](https://github.com/N0rther/CVE-2023-51385_TT)	<img alt="forks" src="https://img.shields.io/github/forks/N0rther/CVE-2023-51385_TT">	<img alt="stars" src="https://img.shields.io/github/stars/N0rther/CVE-2023-51385_TT">
 
 ---
 ## CVE-2023-51281 ()
