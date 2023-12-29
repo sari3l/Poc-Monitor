@@ -163,6 +163,7 @@
 > The vulnerability allows attackers to bypass authentication to achieve a simple Server-Side Request Forgery (SSRF)
 
 - [JaneMandy/CVE-2023-51467](https://github.com/JaneMandy/CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/JaneMandy/CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/JaneMandy/CVE-2023-51467">
+- [Chocapikk/CVE-2023-51467](https://github.com/Chocapikk/CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-51467">
 
 ---
 ## CVE-2023-51385 (2023-12-18T19:15:00)
