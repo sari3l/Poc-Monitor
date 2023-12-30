@@ -2382,6 +2382,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [coolman6942o/-EXPLOIT-CVE-2023-36025](https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/coolman6942o/-EXPLOIT-CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/coolman6942o/-EXPLOIT-CVE-2023-36025">
 
 ---
+## CVE-2023-35985 ()
+> 
+- [SpiralBL0CK/-CVE-2023-35985](https://github.com/SpiralBL0CK/-CVE-2023-35985)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/-CVE-2023-35985">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/-CVE-2023-35985">
+
+---
 ## CVE-2023-35885 (2023-06-20T20:15:00)
 > CloudPanel 2 before 2.3.1 has insecure file-manager cookie authentication.
 - [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885)	<img alt="forks" src="https://img.shields.io/github/forks/datackmy/FallingSkies-CVE-2023-35885">	<img alt="stars" src="https://img.shields.io/github/stars/datackmy/FallingSkies-CVE-2023-35885">
