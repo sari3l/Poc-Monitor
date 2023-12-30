@@ -8027,6 +8027,7 @@
 - [ch3rn0byl/CVE-2021-21551](https://github.com/ch3rn0byl/CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/ch3rn0byl/CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/ch3rn0byl/CVE-2021-21551">
 - [waldo-irc/CVE-2021-21551](https://github.com/waldo-irc/CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/waldo-irc/CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/waldo-irc/CVE-2021-21551">
 - [shaygitub/CVE-2021-21551](https://github.com/shaygitub/CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/shaygitub/CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/shaygitub/CVE-2021-21551">
+- [houseofxyz/CVE-2021-21551](https://github.com/houseofxyz/CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/houseofxyz/CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/houseofxyz/CVE-2021-21551">
 
 ---
 ## CVE-2021-21540 (2021-04-30T21:15:00)
