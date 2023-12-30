@@ -184,6 +184,7 @@
 - [jacknickelson/poc-cve-2023-51385](https://github.com/jacknickelson/poc-cve-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/jacknickelson/poc-cve-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/jacknickelson/poc-cve-2023-51385">
 - [siyi-star/CVE-2023-51385_test-star-main](https://github.com/siyi-star/CVE-2023-51385_test-star-main)	<img alt="forks" src="https://img.shields.io/github/forks/siyi-star/CVE-2023-51385_test-star-main">	<img alt="stars" src="https://img.shields.io/github/stars/siyi-star/CVE-2023-51385_test-star-main">
 - [N0rther/CVE-2023-51385_TT](https://github.com/N0rther/CVE-2023-51385_TT)	<img alt="forks" src="https://img.shields.io/github/forks/N0rther/CVE-2023-51385_TT">	<img alt="stars" src="https://img.shields.io/github/stars/N0rther/CVE-2023-51385_TT">
+- [power1314520/CVE-2023-51385_test](https://github.com/power1314520/CVE-2023-51385_test)	<img alt="forks" src="https://img.shields.io/github/forks/power1314520/CVE-2023-51385_test">	<img alt="stars" src="https://img.shields.io/github/stars/power1314520/CVE-2023-51385_test">
 
 ---
 ## CVE-2023-51281 ()
@@ -261,13 +262,13 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-50072">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-50072">
 
 ---
-## CVE-2023-50071 ()
-> 
+## CVE-2023-50071 (2023-12-29T22:15:00)
+> Sourcecodester Customer Support System 1.0 has multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department via id or name.
 - [geraldoalcantara/CVE-2023-50071](https://github.com/geraldoalcantara/CVE-2023-50071)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-50071">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-50071">
 
 ---
-## CVE-2023-50070 ()
-> 
+## CVE-2023-50070 (2023-12-29T22:15:00)
+> Sourcecodester Customer Support System 1.0 has multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket via department_id, customer_id, and subject.
 - [geraldoalcantara/CVE-2023-50070](https://github.com/geraldoalcantara/CVE-2023-50070)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-50070">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-50070">
 
 ---
