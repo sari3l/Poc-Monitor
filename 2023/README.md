@@ -5407,6 +5407,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [padbergpete47/CVE-2023-1454](https://github.com/padbergpete47/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/padbergpete47/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/padbergpete47/CVE-2023-1454">
 - [Sweelg/Sweelg-CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/Sweelg-CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln)	<img alt="forks" src="https://img.shields.io/github/forks/Sweelg/Sweelg-CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln">	<img alt="stars" src="https://img.shields.io/github/stars/Sweelg/Sweelg-CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln">
 - [Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln)	<img alt="forks" src="https://img.shields.io/github/forks/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln">	<img alt="stars" src="https://img.shields.io/github/stars/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln">
+- [shad0w0sec/CVE-2023-1454-EXP](https://github.com/shad0w0sec/CVE-2023-1454-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/shad0w0sec/CVE-2023-1454-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/shad0w0sec/CVE-2023-1454-EXP">
 
 ---
 ## CVE-2023-1430 (2023-06-09T06:15:00)
