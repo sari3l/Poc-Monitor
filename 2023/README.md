@@ -3946,6 +3946,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [3lp4tr0n/CVE-2023-27470_Exercise](https://github.com/3lp4tr0n/CVE-2023-27470_Exercise)	<img alt="forks" src="https://img.shields.io/github/forks/3lp4tr0n/CVE-2023-27470_Exercise">	<img alt="stars" src="https://img.shields.io/github/stars/3lp4tr0n/CVE-2023-27470_Exercise">
 
 ---
+## CVE-2023-2744 (2023-06-27T14:15:00)
+> The ERP WordPress plugin before 1.12.4 does not properly sanitise and escape the `type` parameter in the `erp/v1/accounting/v1/people` REST API endpoint before using it in a SQL statement, leading to a SQL injection exploitable by high privilege users such as admin.
+- [pashayogi/CVE-2023-2744](https://github.com/pashayogi/CVE-2023-2744)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2023-2744">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2023-2744">
+
+---
 ## CVE-2023-27372 (2023-02-28T20:15:00)
 > SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.
 - [nuts7/CVE-2023-27372](https://github.com/nuts7/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/nuts7/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/nuts7/CVE-2023-27372">
