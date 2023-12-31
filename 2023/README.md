@@ -2432,6 +2432,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 ## CVE-2023-35813 (2023-06-17T23:15:00)
 > Multiple Sitecore products allow remote code execution. This affects Experience Manager, Experience Platform, and Experience Commerce through 10.3.
 - [un7n0wn/CVE-2023-35813-RCE](https://github.com/un7n0wn/CVE-2023-35813-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/un7n0wn/CVE-2023-35813-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/un7n0wn/CVE-2023-35813-RCE">
+- [lexy-1/CVE-2023-35813](https://github.com/lexy-1/CVE-2023-35813)	<img alt="forks" src="https://img.shields.io/github/forks/lexy-1/CVE-2023-35813">	<img alt="stars" src="https://img.shields.io/github/stars/lexy-1/CVE-2023-35813">
 
 ---
 ## CVE-2023-35803 (2023-10-04T22:15:00)
