@@ -533,6 +533,7 @@
 ## CVE-2019-6453 (2019-02-18T15:29:00)
 > mIRC before 7.55 allows remote command execution by using argument injection through custom URI protocol handlers. The attacker can specify an irc:// URI that loads an arbitrary .ini file from a UNC share pathname. Exploitation depends on browser-specific URI handling (Chrome is not exploitable).
 - [proofofcalc/cve-2019-6453-poc](https://github.com/proofofcalc/cve-2019-6453-poc)	<img alt="forks" src="https://img.shields.io/github/forks/proofofcalc/cve-2019-6453-poc">	<img alt="stars" src="https://img.shields.io/github/stars/proofofcalc/cve-2019-6453-poc">
+- [andripwn/mIRC-CVE-2019-6453](https://github.com/andripwn/mIRC-CVE-2019-6453)	<img alt="forks" src="https://img.shields.io/github/forks/andripwn/mIRC-CVE-2019-6453">	<img alt="stars" src="https://img.shields.io/github/stars/andripwn/mIRC-CVE-2019-6453">
 
 ---
 ## CVE-2019-6447 (2019-01-16T14:29:00)
