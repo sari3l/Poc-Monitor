@@ -42,6 +42,7 @@
 > The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file. This is due to an attacker being able to control the values passed to an include, and subsequently leverage that to achieve remote code execution. This makes it possible for unauthenticated attackers to easily execute code on the server.
 - [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-6553">
 - [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-6553-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-6553-PoC">
+- [kiddenta/CVE-2023-6553](https://github.com/kiddenta/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/kiddenta/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/kiddenta/CVE-2023-6553">
 
 ---
 ## CVE-2023-6538 (2023-12-11T18:15:00)
