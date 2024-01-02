@@ -17,6 +17,11 @@
 - [xiahao90/CVE-2023-8888.test](https://github.com/xiahao90/CVE-2023-8888.test)	<img alt="forks" src="https://img.shields.io/github/forks/xiahao90/CVE-2023-8888.test">	<img alt="stars" src="https://img.shields.io/github/stars/xiahao90/CVE-2023-8888.test">
 
 ---
+## CVE-2023-7172 (2023-12-30T09:15:00)
+> A vulnerability, which was classified as critical, has been found in PHPGurukul Hospital Management System 1.0. Affected by this issue is some unknown functionality of the component Admin Dashboard. The manipulation leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-249356.
+- [sharathc213/CVE-2023-7172](https://github.com/sharathc213/CVE-2023-7172)	<img alt="forks" src="https://img.shields.io/github/forks/sharathc213/CVE-2023-7172">	<img alt="stars" src="https://img.shields.io/github/stars/sharathc213/CVE-2023-7172">
+
+---
 ## CVE-2023-6710 (2023-12-12T22:15:00)
 > A flaw was found in the mod_proxy_cluster in the Apache server. This issue may allow a malicious user to add a script in the 'alias' parameter in the URL to trigger the stored cross-site scripting (XSS) vulnerability. By adding a script on the alias parameter on the URL, it adds a new virtual host and adds the script to the cluster-manager page. The impact of this vulnerability is considered as Low, as the cluster_manager URL should not be exposed outside and is protected by user/password.
 - [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710)	<img alt="forks" src="https://img.shields.io/github/forks/DedSec-47/CVE-2023-6710">	<img alt="stars" src="https://img.shields.io/github/stars/DedSec-47/CVE-2023-6710">
