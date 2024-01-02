@@ -17,6 +17,11 @@
 - [xiahao90/CVE-2023-8888.test](https://github.com/xiahao90/CVE-2023-8888.test)	<img alt="forks" src="https://img.shields.io/github/forks/xiahao90/CVE-2023-8888.test">	<img alt="stars" src="https://img.shields.io/github/stars/xiahao90/CVE-2023-8888.test">
 
 ---
+## CVE-2023-7173 (2023-12-30T12:15:00)
+> A vulnerability, which was classified as problematic, was found in PHPGurukul Hospital Management System 1.0. This affects an unknown part of the file registration.php. The manipulation of the argument First Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-249357 was assigned to this vulnerability.
+- [sharathc213/CVE-2023-7173](https://github.com/sharathc213/CVE-2023-7173)	<img alt="forks" src="https://img.shields.io/github/forks/sharathc213/CVE-2023-7173">	<img alt="stars" src="https://img.shields.io/github/stars/sharathc213/CVE-2023-7173">
+
+---
 ## CVE-2023-7172 (2023-12-30T09:15:00)
 > A vulnerability, which was classified as critical, has been found in PHPGurukul Hospital Management System 1.0. Affected by this issue is some unknown functionality of the component Admin Dashboard. The manipulation leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-249356.
 - [sharathc213/CVE-2023-7172](https://github.com/sharathc213/CVE-2023-7172)	<img alt="forks" src="https://img.shields.io/github/forks/sharathc213/CVE-2023-7172">	<img alt="stars" src="https://img.shields.io/github/stars/sharathc213/CVE-2023-7172">
