@@ -4865,6 +4865,7 @@ For more details, please review the linked advisory on this CVE.
 - [edsonjt81/CVE-2023-22515-Scan.](https://github.com/edsonjt81/CVE-2023-22515-Scan.)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2023-22515-Scan.">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2023-22515-Scan.">
 - [INTfinityConsulting/cve-2023-22515](https://github.com/INTfinityConsulting/cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/INTfinityConsulting/cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/INTfinityConsulting/cve-2023-22515">
 - [sujoy95/Confluence-CVE-2023-22515-Scanner](https://github.com/sujoy95/Confluence-CVE-2023-22515-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sujoy95/Confluence-CVE-2023-22515-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sujoy95/Confluence-CVE-2023-22515-Scanner">
+- [CalegariMindSec/Exploit-CVE-2023-22515](https://github.com/CalegariMindSec/Exploit-CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/CalegariMindSec/Exploit-CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/CalegariMindSec/Exploit-CVE-2023-22515">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
