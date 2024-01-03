@@ -581,6 +581,7 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-48864 ()
 > 
 - [f3lze3/CVE-2023-48864](https://github.com/f3lze3/CVE-2023-48864)	<img alt="forks" src="https://img.shields.io/github/forks/f3lze3/CVE-2023-48864">	<img alt="stars" src="https://img.shields.io/github/stars/f3lze3/CVE-2023-48864">
+- [f3lze3/CVE-2023-48864](https://github.com/f3lze3/CVE-2023-48864)	<img alt="forks" src="https://img.shields.io/github/forks/f3lze3/CVE-2023-48864">	<img alt="stars" src="https://img.shields.io/github/stars/f3lze3/CVE-2023-48864">
 
 ---
 ## CVE-2023-48849 (2023-12-06T08:15:00)
