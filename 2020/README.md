@@ -4305,6 +4305,11 @@
 - [zeromirror/cve_2020-11060](https://github.com/zeromirror/cve_2020-11060)	<img alt="forks" src="https://img.shields.io/github/forks/zeromirror/cve_2020-11060">	<img alt="stars" src="https://img.shields.io/github/stars/zeromirror/cve_2020-11060">
 
 ---
+## CVE-2020-11023 (2020-04-29T21:15:00)
+> In jQuery versions greater than or equal to 1.0.3 and before 3.5.0, passing HTML containing <option> elements from untrusted sources - even after sanitizing it - to one of jQuery's DOM manipulation methods (i.e. .html(), .append(), and others) may execute untrusted code. This problem is patched in jQuery 3.5.0.
+- [Cybernegro/CVE-2020-11023](https://github.com/Cybernegro/CVE-2020-11023)	<img alt="forks" src="https://img.shields.io/github/forks/Cybernegro/CVE-2020-11023">	<img alt="stars" src="https://img.shields.io/github/stars/Cybernegro/CVE-2020-11023">
+
+---
 ## CVE-2020-11022 (2020-04-29T22:15:00)
 > In jQuery versions greater than or equal to 1.2 and before 3.5.0, passing HTML from untrusted sources - even after sanitizing it - to one of jQuery's DOM manipulation methods (i.e. .html(), .append(), and others) may execute untrusted code. This problem is patched in jQuery 3.5.0.
 - [0xAJ2K/CVE-2020-11022-CVE-2020-11023](https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023)	<img alt="forks" src="https://img.shields.io/github/forks/0xAJ2K/CVE-2020-11022-CVE-2020-11023">	<img alt="stars" src="https://img.shields.io/github/stars/0xAJ2K/CVE-2020-11022-CVE-2020-11023">
