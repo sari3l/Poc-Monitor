@@ -200,6 +200,7 @@
 - [power1314520/CVE-2023-51385_test](https://github.com/power1314520/CVE-2023-51385_test)	<img alt="forks" src="https://img.shields.io/github/forks/power1314520/CVE-2023-51385_test">	<img alt="stars" src="https://img.shields.io/github/stars/power1314520/CVE-2023-51385_test">
 - [WOOOOONG/CVE-2023-51385](https://github.com/WOOOOONG/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2023-51385">
 - [uccu99/CVE-2023-51385](https://github.com/uccu99/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/uccu99/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/uccu99/CVE-2023-51385">
+- [julienbrs/exploit-CVE-2023-51385](https://github.com/julienbrs/exploit-CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/julienbrs/exploit-CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/julienbrs/exploit-CVE-2023-51385">
 
 ---
 ## CVE-2023-51281 ()
