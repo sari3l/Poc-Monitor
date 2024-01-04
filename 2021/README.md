@@ -2758,6 +2758,7 @@
 - [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
 - [JohnGilbert57/CVE-2021-4034-Capture-the-flag](https://github.com/JohnGilbert57/CVE-2021-4034-Capture-the-flag)	<img alt="forks" src="https://img.shields.io/github/forks/JohnGilbert57/CVE-2021-4034-Capture-the-flag">	<img alt="stars" src="https://img.shields.io/github/stars/JohnGilbert57/CVE-2021-4034-Capture-the-flag">
 - [Part01-Pai/Polkit-Permission-promotion-compiled](https://github.com/Part01-Pai/Polkit-Permission-promotion-compiled)	<img alt="forks" src="https://img.shields.io/github/forks/Part01-Pai/Polkit-Permission-promotion-compiled">	<img alt="stars" src="https://img.shields.io/github/stars/Part01-Pai/Polkit-Permission-promotion-compiled">
+- [cdxiaodong/CVE-2021-4034-touch](https://github.com/cdxiaodong/CVE-2021-4034-touch)	<img alt="forks" src="https://img.shields.io/github/forks/cdxiaodong/CVE-2021-4034-touch">	<img alt="stars" src="https://img.shields.io/github/stars/cdxiaodong/CVE-2021-4034-touch">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
