@@ -54,6 +54,7 @@
 - [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-6553-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-6553-PoC">
 - [kiddenta/CVE-2023-6553](https://github.com/kiddenta/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/kiddenta/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/kiddenta/CVE-2023-6553">
 - [julienbrs/exploit-CVE-2023-6553](https://github.com/julienbrs/exploit-CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/julienbrs/exploit-CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/julienbrs/exploit-CVE-2023-6553">
+- [julienbrs/exploit-CVE-2023-6553](https://github.com/julienbrs/exploit-CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/julienbrs/exploit-CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/julienbrs/exploit-CVE-2023-6553">
 
 ---
 ## CVE-2023-6538 (2023-12-11T18:15:00)
@@ -4075,6 +4076,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [MasterCode112/CVE-2023-27163](https://github.com/MasterCode112/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/MasterCode112/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/MasterCode112/CVE-2023-27163">
 - [KharimMchatta/basketcraft](https://github.com/KharimMchatta/basketcraft)	<img alt="forks" src="https://img.shields.io/github/forks/KharimMchatta/basketcraft">	<img alt="stars" src="https://img.shields.io/github/stars/KharimMchatta/basketcraft">
 - [mathias-mrsn/CVE-2023-27163](https://github.com/mathias-mrsn/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/mathias-mrsn/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/mathias-mrsn/CVE-2023-27163">
+- [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
 - [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
 - [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
 
