@@ -2692,6 +2692,8 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [Rajneeshkarya/CVE-2023-3460](https://github.com/Rajneeshkarya/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/Rajneeshkarya/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/Rajneeshkarya/CVE-2023-3460">
 - [BlackReaperSK/CVE-2023-3460_POC](https://github.com/BlackReaperSK/CVE-2023-3460_POC)	<img alt="forks" src="https://img.shields.io/github/forks/BlackReaperSK/CVE-2023-3460_POC">	<img alt="stars" src="https://img.shields.io/github/stars/BlackReaperSK/CVE-2023-3460_POC">
 - [julienbrs/exploit-CVE-2023-3460](https://github.com/julienbrs/exploit-CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/julienbrs/exploit-CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/julienbrs/exploit-CVE-2023-3460">
+- [ollie-blue/CVE_2023_3460](https://github.com/ollie-blue/CVE_2023_3460)	<img alt="forks" src="https://img.shields.io/github/forks/ollie-blue/CVE_2023_3460">	<img alt="stars" src="https://img.shields.io/github/stars/ollie-blue/CVE_2023_3460">
+- [EmadYaY/CVE-2023-3460](https://github.com/EmadYaY/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/EmadYaY/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/EmadYaY/CVE-2023-3460">
 
 ---
 ## CVE-2023-34599 (2023-06-29T15:15:00)
