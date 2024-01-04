@@ -178,6 +178,7 @@
 - [Chocapikk/CVE-2023-51467](https://github.com/Chocapikk/CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-51467">
 - [K3ysTr0K3R/CVE-2023-51467-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2023-51467-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2023-51467-EXPLOIT">
 - [jakabakos/Apache-OFBiz-Authentication-Bypass](https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/Apache-OFBiz-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/Apache-OFBiz-Authentication-Bypass">
+- [Subha-BOO7/Exploit_CVE-2023-51467](https://github.com/Subha-BOO7/Exploit_CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Subha-BOO7/Exploit_CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Subha-BOO7/Exploit_CVE-2023-51467">
 
 ---
 ## CVE-2023-51385 (2023-12-18T19:15:00)
