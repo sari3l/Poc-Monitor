@@ -53,6 +53,7 @@
 - [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-6553">
 - [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-6553-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-6553-PoC">
 - [kiddenta/CVE-2023-6553](https://github.com/kiddenta/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/kiddenta/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/kiddenta/CVE-2023-6553">
+- [julienbrs/exploit-CVE-2023-6553](https://github.com/julienbrs/exploit-CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/julienbrs/exploit-CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/julienbrs/exploit-CVE-2023-6553">
 
 ---
 ## CVE-2023-6538 (2023-12-11T18:15:00)
