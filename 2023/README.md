@@ -1534,6 +1534,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121">
 
 ---
+## CVE-2023-40084 (2023-12-04T23:15:00)
+> In run of MDnsSdListener.cpp, there is a possible memory corruption due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084](https://github.com/Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084">
+
+---
 ## CVE-2023-40044 (2023-09-27T15:18:00)
 > 
 In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker could leverage a .NET deserialization vulnerability in the Ad Hoc Transfer module to execute remote commands on the underlying WS_FTP Server operating system.  
