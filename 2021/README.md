@@ -6461,6 +6461,7 @@
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 - [ssrsec/Microsoft-Exchange-RCE](https://github.com/ssrsec/Microsoft-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ssrsec/Microsoft-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ssrsec/Microsoft-Exchange-RCE">
 - [timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt](https://github.com/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt">
+- [WiredPulse/Invoke-HAFNIUMCheck.ps1](https://github.com/WiredPulse/Invoke-HAFNIUMCheck.ps1)	<img alt="forks" src="https://img.shields.io/github/forks/WiredPulse/Invoke-HAFNIUMCheck.ps1">	<img alt="stars" src="https://img.shields.io/github/stars/WiredPulse/Invoke-HAFNIUMCheck.ps1">
 
 ---
 ## CVE-2021-26720 (2021-02-17T22:15:00)
