@@ -4294,6 +4294,11 @@
 - [jas502n/CVE-2020-10199](https://github.com/jas502n/CVE-2020-10199)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-10199">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-10199">
 
 ---
+## CVE-2020-11110 (2020-07-27T13:15:00)
+> Grafana through 6.7.1 allows stored XSS due to insufficient input protection in the originalUrl field, which allows an attacker to inject JavaScript code that will be executed after clicking on Open Original Dashboard after visiting the snapshot.
+- [AVE-Stoik/CVE-2020-11110-Proof-of-Concept](https://github.com/AVE-Stoik/CVE-2020-11110-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/AVE-Stoik/CVE-2020-11110-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/AVE-Stoik/CVE-2020-11110-Proof-of-Concept">
+
+---
 ## CVE-2020-11066 (2020-05-14T00:15:00)
 > In TYPO3 CMS greater than or equal to 9.0.0 and less than 9.5.17 and greater than or equal to 10.0.0 and less than 10.4.2, calling unserialize() on malicious user-submitted content can lead to modification of dynamically-determined object attributes and result in triggering deletion of an arbitrary directory in the file system, if it is writable for the web server. It can also trigger message submission via email using the identity of the web site (mail relay). Another insecure deserialization vulnerability is required to actually exploit mentioned aspects. This has been fixed in 9.5.17 and 10.4.2.
 - [Live-Hack-CVE/CVE-2020-11066](https://github.com/Live-Hack-CVE/CVE-2020-11066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11066">
