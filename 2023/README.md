@@ -228,6 +228,11 @@
 - [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126)	<img alt="forks" src="https://img.shields.io/github/forks/risuxx/CVE-2023-51126">	<img alt="stars" src="https://img.shields.io/github/stars/risuxx/CVE-2023-51126">
 
 ---
+## CVE-2023-51073 ()
+> 
+- [christopher-pace/CVE-2023-51073](https://github.com/christopher-pace/CVE-2023-51073)	<img alt="forks" src="https://img.shields.io/github/forks/christopher-pace/CVE-2023-51073">	<img alt="stars" src="https://img.shields.io/github/stars/christopher-pace/CVE-2023-51073">
+
+---
 ## CVE-2023-50917 (2023-12-15T17:15:00)
 > MajorDoMo (aka Major Domestic Module) before 0662e5e allows command execution via thumb.php shell metacharacters. NOTE: this is unrelated to the Majordomo mailing-list manager.
 - [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-50917">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-50917">
