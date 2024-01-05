@@ -166,6 +166,7 @@
 - [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-51764">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-51764">
 - [eeenvik1/CVE-2023-51764](https://github.com/eeenvik1/CVE-2023-51764)	<img alt="forks" src="https://img.shields.io/github/forks/eeenvik1/CVE-2023-51764">	<img alt="stars" src="https://img.shields.io/github/stars/eeenvik1/CVE-2023-51764">
 - [d4op/CVE-2023-51764-POC](https://github.com/d4op/CVE-2023-51764-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d4op/CVE-2023-51764-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d4op/CVE-2023-51764-POC">
+- [Double-q1015/CVE-2023-51764](https://github.com/Double-q1015/CVE-2023-51764)	<img alt="forks" src="https://img.shields.io/github/forks/Double-q1015/CVE-2023-51764">	<img alt="stars" src="https://img.shields.io/github/stars/Double-q1015/CVE-2023-51764">
 
 ---
 ## CVE-2023-51504 ()
