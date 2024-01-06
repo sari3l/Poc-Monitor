@@ -3088,6 +3088,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hipnesspatten/CVE-2023-33157](https://github.com/hipnesspatten/CVE-2023-33157)	<img alt="forks" src="https://img.shields.io/github/forks/hipnesspatten/CVE-2023-33157">	<img alt="stars" src="https://img.shields.io/github/stars/hipnesspatten/CVE-2023-33157">
 
 ---
+## CVE-2023-33137 (2023-06-14T00:15:00)
+> Microsoft Excel Remote Code Execution Vulnerability
+- [JaqueMalman/CVE-2023-33137](https://github.com/JaqueMalman/CVE-2023-33137)	<img alt="forks" src="https://img.shields.io/github/forks/JaqueMalman/CVE-2023-33137">	<img alt="stars" src="https://img.shields.io/github/stars/JaqueMalman/CVE-2023-33137">
+
+---
 ## CVE-2023-32961 (2023-06-12T15:15:00)
 > Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Katie Seaborn Zotpress plugin <= 7.3.3 versions.
 - [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2023-32961">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2023-32961">
