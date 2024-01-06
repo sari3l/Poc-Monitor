@@ -872,6 +872,12 @@
 - [ahaShiyu/CVE-2018-18839](https://github.com/ahaShiyu/CVE-2018-18839)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-18839">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-18839">
 
 ---
+## CVE-2018-18778 (2018-10-29T12:29:00)
+> ACME mini_httpd before 1.30 lets remote users read arbitrary files.
+- [auk0x01/CVE-2018-18778-Scanner](https://github.com/auk0x01/CVE-2018-18778-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/auk0x01/CVE-2018-18778-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/auk0x01/CVE-2018-18778-Scanner">
+- [cyberharsh/Mini_httpd-CVE-2018-18778](https://github.com/cyberharsh/Mini_httpd-CVE-2018-18778)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Mini_httpd-CVE-2018-18778">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Mini_httpd-CVE-2018-18778">
+
+---
 ## CVE-2018-18333 (2019-02-05T22:29:00)
 > A DLL hijacking vulnerability in Trend Micro Security 2019 (Consumer) versions below 15.0.0.1163 and below could allow an attacker to manipulate a specific DLL and escalate privileges on vulnerable installations.
 - [mrx04programmer/Dr.DLL-CVE-2018-18333](https://github.com/mrx04programmer/Dr.DLL-CVE-2018-18333)	<img alt="forks" src="https://img.shields.io/github/forks/mrx04programmer/Dr.DLL-CVE-2018-18333">	<img alt="stars" src="https://img.shields.io/github/stars/mrx04programmer/Dr.DLL-CVE-2018-18333">
