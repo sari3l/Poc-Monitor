@@ -804,6 +804,11 @@ Users are recommended to upgrade to version 18.12.10
 - [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test)	<img alt="forks" src="https://img.shields.io/github/forks/Songg45/CVE-2023-4683-Test">	<img alt="stars" src="https://img.shields.io/github/stars/Songg45/CVE-2023-4683-Test">
 
 ---
+## CVE-2023-46813 (2023-10-27T03:15:00)
+> An issue was discovered in the Linux kernel before 6.5.9, exploitable by local users with userspace access to MMIO registers. Incorrect access checking in the #VC handler and instruction emulation of the SEV-ES emulation of MMIO accesses could lead to arbitrary write access to kernel memory (and thus privilege escalation). This depends on a race condition through which userspace can replace an instruction before the #VC handler reads it.
+- [Freax13/cve-2023-46813-poc](https://github.com/Freax13/cve-2023-46813-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2023-46813-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2023-46813-poc">
+
+---
 ## CVE-2023-46747 (2023-10-26T21:15:00)
 > 
 
