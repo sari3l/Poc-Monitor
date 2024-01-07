@@ -1248,6 +1248,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">
 - [LeHeron/TC_test](https://github.com/LeHeron/TC_test)	<img alt="forks" src="https://img.shields.io/github/forks/LeHeron/TC_test">	<img alt="stars" src="https://img.shields.io/github/stars/LeHeron/TC_test">
 - [WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793](https://github.com/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793">
+- [johnossawy/CVE-2023-42793_POC](https://github.com/johnossawy/CVE-2023-42793_POC)	<img alt="forks" src="https://img.shields.io/github/forks/johnossawy/CVE-2023-42793_POC">	<img alt="stars" src="https://img.shields.io/github/stars/johnossawy/CVE-2023-42793_POC">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
