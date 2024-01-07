@@ -4316,6 +4316,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [heapbytes/CVE-2023-26035](https://github.com/heapbytes/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/heapbytes/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/heapbytes/CVE-2023-26035">
 - [Yuma-Tsushima07/CVE-2023-26035](https://github.com/Yuma-Tsushima07/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/Yuma-Tsushima07/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/Yuma-Tsushima07/CVE-2023-26035">
 - [Faelian/zoneminder_CVE-2023-26035](https://github.com/Faelian/zoneminder_CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/Faelian/zoneminder_CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/Faelian/zoneminder_CVE-2023-26035">
+- [srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh](https://github.com/srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh)	<img alt="forks" src="https://img.shields.io/github/forks/srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh">	<img alt="stars" src="https://img.shields.io/github/stars/srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh">
 
 ---
 ## CVE-2023-2598 (2023-06-01T01:15:00)
