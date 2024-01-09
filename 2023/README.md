@@ -5344,6 +5344,11 @@ For more details, please review the linked advisory on this CVE.
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
 
 ---
+## CVE-2023-20573 ()
+> 
+- [Freax13/cve-2023-20573-poc](https://github.com/Freax13/cve-2023-20573-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2023-20573-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2023-20573-poc">
+
+---
 ## CVE-2023-20562 (2023-08-08T18:15:00)
 > 
 
