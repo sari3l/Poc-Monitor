@@ -2093,6 +2093,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [Mr-Secure-Code/CVE-2023-37068-Exploit](https://github.com/Mr-Secure-Code/CVE-2023-37068-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Secure-Code/CVE-2023-37068-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Secure-Code/CVE-2023-37068-Exploit">
 
 ---
+## CVE-2023-36900 (2023-08-08T18:15:00)
+> Windows Common Log File System Driver Elevation of Privilege Vulnerability
+- [RomanRybachek/CVE-2023-36900](https://github.com/RomanRybachek/CVE-2023-36900)	<img alt="forks" src="https://img.shields.io/github/forks/RomanRybachek/CVE-2023-36900">	<img alt="stars" src="https://img.shields.io/github/stars/RomanRybachek/CVE-2023-36900">
+
+---
 ## CVE-2023-36899 (2023-08-08T19:15:00)
 > ASP.NET Elevation of Privilege Vulnerability
 - [d0rb/CVE-2023-36899](https://github.com/d0rb/CVE-2023-36899)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-36899">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-36899">
