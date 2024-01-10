@@ -3996,6 +3996,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [m474r5/CVE-2023-27997-findings](https://github.com/m474r5/CVE-2023-27997-findings)	<img alt="forks" src="https://img.shields.io/github/forks/m474r5/CVE-2023-27997-findings">	<img alt="stars" src="https://img.shields.io/github/stars/m474r5/CVE-2023-27997-findings">
 - [m474r5/CVE-2023-27997-POC](https://github.com/m474r5/CVE-2023-27997-POC)	<img alt="forks" src="https://img.shields.io/github/forks/m474r5/CVE-2023-27997-POC">	<img alt="stars" src="https://img.shields.io/github/stars/m474r5/CVE-2023-27997-POC">
 - [m474r5/CVE-2023-27997-RCE](https://github.com/m474r5/CVE-2023-27997-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/m474r5/CVE-2023-27997-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/m474r5/CVE-2023-27997-RCE">
+- [awchjimmy/CVE-2023-27997-tutorial](https://github.com/awchjimmy/CVE-2023-27997-tutorial)	<img alt="forks" src="https://img.shields.io/github/forks/awchjimmy/CVE-2023-27997-tutorial">	<img alt="stars" src="https://img.shields.io/github/stars/awchjimmy/CVE-2023-27997-tutorial">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
