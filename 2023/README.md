@@ -228,6 +228,16 @@
 - [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214)	<img alt="forks" src="https://img.shields.io/github/forks/chandraprarikraj/CVE-2023-51214">	<img alt="stars" src="https://img.shields.io/github/stars/chandraprarikraj/CVE-2023-51214">
 
 ---
+## CVE-2023-51208 ()
+> 
+- [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51208">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51208">
+
+---
+## CVE-2023-51204 ()
+> 
+- [16yashpatel/CVE-2023-51204](https://github.com/16yashpatel/CVE-2023-51204)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51204">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51204">
+
+---
 ## CVE-2023-51202 ()
 > 
 - [16yashpatel/CVE-2023-51202](https://github.com/16yashpatel/CVE-2023-51202)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51202">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51202">
