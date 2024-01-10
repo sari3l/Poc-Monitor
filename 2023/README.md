@@ -154,6 +154,11 @@
 - [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/angkerithhack001/CVE-2023-5360-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/angkerithhack001/CVE-2023-5360-PoC">
 
 ---
+## CVE-2023-52251 ()
+> 
+- [BobTheShoplifter/CVE-2023-52251-POC](https://github.com/BobTheShoplifter/CVE-2023-52251-POC)	<img alt="forks" src="https://img.shields.io/github/forks/BobTheShoplifter/CVE-2023-52251-POC">	<img alt="stars" src="https://img.shields.io/github/stars/BobTheShoplifter/CVE-2023-52251-POC">
+
+---
 ## CVE-2023-5217 (2023-09-28T16:15:00)
 > Heap buffer overflow in vp8 encoding in libvpx in Google Chrome prior to 117.0.5938.132 and libvpx 1.13.1 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">
@@ -221,6 +226,11 @@
 ## CVE-2023-51214 ()
 > 
 - [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214)	<img alt="forks" src="https://img.shields.io/github/forks/chandraprarikraj/CVE-2023-51214">	<img alt="stars" src="https://img.shields.io/github/stars/chandraprarikraj/CVE-2023-51214">
+
+---
+## CVE-2023-51199 ()
+> 
+- [16yashpatel/CVE-2023-51199](https://github.com/16yashpatel/CVE-2023-51199)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51199">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51199">
 
 ---
 ## CVE-2023-51198 ()
@@ -658,6 +668,11 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-48123 (2023-12-06T20:15:00)
 > An issue in Netgate pfSense Plus v.23.05.1 and before and pfSense CE v.2.7.0 allows a remote attacker to execute arbitrary code via a crafted request to the packet_capture.php file.
 - [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-48123">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-48123">
+
+---
+## CVE-2023-48104 ()
+> 
+- [E1tex/CVE-2023-48104](https://github.com/E1tex/CVE-2023-48104)	<img alt="forks" src="https://img.shields.io/github/forks/E1tex/CVE-2023-48104">	<img alt="stars" src="https://img.shields.io/github/stars/E1tex/CVE-2023-48104">
 
 ---
 ## CVE-2023-48034 ()
