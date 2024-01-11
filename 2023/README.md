@@ -2553,6 +2553,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [coolman6942o/-EXPLOIT-CVE-2023-36025](https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/coolman6942o/-EXPLOIT-CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/coolman6942o/-EXPLOIT-CVE-2023-36025">
 
 ---
+## CVE-2023-36003 (2023-12-12T18:15:00)
+> XAML Diagnostics Elevation of Privilege Vulnerability
+- [m417z/CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC)	<img alt="forks" src="https://img.shields.io/github/forks/m417z/CVE-2023-36003-POC">	<img alt="stars" src="https://img.shields.io/github/stars/m417z/CVE-2023-36003-POC">
+
+---
 ## CVE-2023-35985 ()
 > 
 - [SpiralBL0CK/-CVE-2023-35985](https://github.com/SpiralBL0CK/-CVE-2023-35985)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/-CVE-2023-35985">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/-CVE-2023-35985">
