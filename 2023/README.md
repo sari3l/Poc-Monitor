@@ -3938,6 +3938,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-28432">
 - [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/Romanc9/Gui-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/Romanc9/Gui-poc-test">
 - [netuseradministrator/CVE-2023-28432](https://github.com/netuseradministrator/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/netuseradministrator/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/netuseradministrator/CVE-2023-28432">
+- [xk-mt/CVE-2023-28432](https://github.com/xk-mt/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/xk-mt/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/xk-mt/CVE-2023-28432">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
