@@ -48,6 +48,11 @@
 - [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-6661">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-6661">
 
 ---
+## CVE-2023-6567 ()
+> 
+- [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mimiloveexe/CVE-2023-6567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mimiloveexe/CVE-2023-6567-poc">
+
+---
 ## CVE-2023-6553 (2023-12-15T11:15:00)
 > The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file. This is due to an attacker being able to control the values passed to an include, and subsequently leverage that to achieve remote code execution. This makes it possible for unauthenticated attackers to easily execute code on the server.
 - [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-6553">
