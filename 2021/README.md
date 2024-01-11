@@ -8288,6 +8288,7 @@
 ## CVE-2021-20323 (2022-03-25T19:15:00)
 > A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.
 - [ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323)	<img alt="forks" src="https://img.shields.io/github/forks/ndmalc/CVE-2021-20323">	<img alt="stars" src="https://img.shields.io/github/stars/ndmalc/CVE-2021-20323">
+- [Cappricio-Securities/CVE-2021-20323](https://github.com/Cappricio-Securities/CVE-2021-20323)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2021-20323">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2021-20323">
 
 ---
 ## CVE-2021-20316 (2022-08-23T16:15:00)
