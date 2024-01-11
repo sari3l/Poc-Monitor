@@ -171,6 +171,26 @@
 - [wrv/cve-2023-5217-poc](https://github.com/wrv/cve-2023-5217-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wrv/cve-2023-5217-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wrv/cve-2023-5217-poc">
 
 ---
+## CVE-2023-51810 ()
+> 
+- [Pastea/CVE-2023-51810](https://github.com/Pastea/CVE-2023-51810)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2023-51810">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2023-51810">
+
+---
+## CVE-2023-51802 ()
+> 
+- [geraldoalcantara/CVE-2023-51802](https://github.com/geraldoalcantara/CVE-2023-51802)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51802">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51802">
+
+---
+## CVE-2023-51801 ()
+> 
+- [geraldoalcantara/CVE-2023-51801](https://github.com/geraldoalcantara/CVE-2023-51801)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51801">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51801">
+
+---
+## CVE-2023-51800 ()
+> 
+- [geraldoalcantara/CVE-2023-51800](https://github.com/geraldoalcantara/CVE-2023-51800)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51800">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51800">
+
+---
 ## CVE-2023-51764 (2023-12-24T05:15:00)
 > Postfix through 3.8.4 allows SMTP smuggling unless configured with smtpd_data_restrictions=reject_unauth_pipelining (or certain other options that exist in recent versions). Remote attackers can use a published exploitation technique to inject e-mail messages that appear to originate from the Postfix server, allowing bypass of an SPF protection mechanism. This occurs because Postfix supports <LF>.<CR><LF> but some other popular e-mail servers do not. To prevent attack variants (by always disallowing <LF> without <CR>), a different solution is required: the smtpd_forbid_bare_newline=yes option with a Postfix minimum version of 3.5.23, 3.6.13, 3.7.9, 3.8.4, or 3.9.
 - [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-51764">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-51764">
