@@ -216,6 +216,7 @@
 - [JaneMandy/CVE-2023-51467-Exploit](https://github.com/JaneMandy/CVE-2023-51467-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JaneMandy/CVE-2023-51467-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JaneMandy/CVE-2023-51467-Exploit">
 - [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">
 - [vulncheck-oss/cve-2023-51467](https://github.com/vulncheck-oss/cve-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-51467">
+- [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/yukselberkay/CVE-2023-49070_CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/yukselberkay/CVE-2023-49070_CVE-2023-51467">
 
 ---
 ## CVE-2023-51385 (2023-12-18T19:15:00)
