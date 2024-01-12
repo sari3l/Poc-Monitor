@@ -3936,6 +3936,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-28588 (2023-12-05T03:15:00)
 > Transient DOS in Bluetooth Host while rfc slot allocation.
 - [uthrasri/CVE-2023-28588](https://github.com/uthrasri/CVE-2023-28588)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-28588">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-28588">
+- [Trinadh465/CVE-2023-28588](https://github.com/Trinadh465/CVE-2023-28588)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/CVE-2023-28588">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/CVE-2023-28588">
 
 ---
 ## CVE-2023-28467 (2023-05-22T19:15:00)
