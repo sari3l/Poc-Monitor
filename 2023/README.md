@@ -364,6 +364,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [aaronm-sysdig/cve-2023-50164](https://github.com/aaronm-sysdig/cve-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/aaronm-sysdig/cve-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/aaronm-sysdig/cve-2023-50164">
 - [miles3719/cve-2023-50164](https://github.com/miles3719/cve-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/miles3719/cve-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/miles3719/cve-2023-50164">
 - [snyk-labs/CVE-2023-50164-POC](https://github.com/snyk-labs/CVE-2023-50164-POC)	<img alt="forks" src="https://img.shields.io/github/forks/snyk-labs/CVE-2023-50164-POC">	<img alt="stars" src="https://img.shields.io/github/stars/snyk-labs/CVE-2023-50164-POC">
+- [sunnyvale-it/CVE-2023-50164-PoC](https://github.com/sunnyvale-it/CVE-2023-50164-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sunnyvale-it/CVE-2023-50164-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sunnyvale-it/CVE-2023-50164-PoC">
 
 ---
 ## CVE-2023-50132 ()
