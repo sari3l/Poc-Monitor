@@ -30,6 +30,7 @@
 ## CVE-2023-7028 ()
 > 
 - [V1lu0/CVE-2023-7028](https://github.com/V1lu0/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/V1lu0/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/V1lu0/CVE-2023-7028">
+- [RandomRobbieBF/CVE-2023-7028](https://github.com/RandomRobbieBF/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-7028">
 
 ---
 ## CVE-2023-6710 (2023-12-12T22:15:00)
