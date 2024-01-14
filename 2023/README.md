@@ -922,6 +922,7 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-46805 ()
 > 
 - [yoryio/CVE-2023-46805_CVE-2024-21887_Scanner](https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">
+- [yoryio/CVE-2023-46805_CVE-2024-21887_Scanner](https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">
 
 ---
 ## CVE-2023-46747 (2023-10-26T21:15:00)
