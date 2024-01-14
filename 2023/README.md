@@ -919,6 +919,11 @@ Users are recommended to upgrade to version 18.12.10
 - [Freax13/cve-2023-46813-poc](https://github.com/Freax13/cve-2023-46813-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2023-46813-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2023-46813-poc">
 
 ---
+## CVE-2023-46805 ()
+> 
+- [yoryio/CVE-2023-46805_CVE-2024-21887_Scanner](https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">
+
+---
 ## CVE-2023-46747 (2023-10-26T21:15:00)
 > 
 
