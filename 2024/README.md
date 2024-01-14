@@ -5,6 +5,7 @@
 > 
 - [oways/ivanti-CVE-2024-21887](https://github.com/oways/ivanti-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/oways/ivanti-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/oways/ivanti-CVE-2024-21887">
 - [yoryio/CVE-2023-46805_CVE-2024-21887_Scanner](https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">
+- [yoryio/CVE-2023-46805_CVE-2024-21887_Scanner](https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">
 
 ---
 ## CVE-2024-21633 (2024-01-03T17:15:00)
