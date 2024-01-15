@@ -5713,6 +5713,7 @@
 - [miko550/CVE-2021-3129](https://github.com/miko550/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2021-3129">
 - [withmasday/CVE-2021-3129](https://github.com/withmasday/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/withmasday/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/withmasday/CVE-2021-3129">
 - [banyaksepuh/Mass-CVE-2021-3129-Scanner](https://github.com/banyaksepuh/Mass-CVE-2021-3129-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/banyaksepuh/Mass-CVE-2021-3129-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/banyaksepuh/Mass-CVE-2021-3129-Scanner">
+- [Axianke/CVE-2021-3129](https://github.com/Axianke/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Axianke/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Axianke/CVE-2021-3129">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)
