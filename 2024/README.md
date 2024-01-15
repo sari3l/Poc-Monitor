@@ -23,6 +23,11 @@
 - [forsaken0128/CVE-2024-0252-RCE](https://github.com/forsaken0128/CVE-2024-0252-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0128/CVE-2024-0252-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0128/CVE-2024-0252-RCE">
 
 ---
+## CVE-2024-0193 (2024-01-02T18:15:00)
+> A use-after-free flaw was found in the netfilter subsystem of the Linux kernel. If the catchall element is garbage-collected when the pipapo set is removed, the element can be deactivated twice. This can cause a use-after-free issue on an NFT_CHAIN object or NFT_OBJECT object, allowing a local unprivileged user with CAP_NET_ADMIN capability to escalate their privileges on the system.
+- [forsaken0128/CVE-2024-0193-Kernel-Root-Bypass](https://github.com/forsaken0128/CVE-2024-0193-Kernel-Root-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0128/CVE-2024-0193-Kernel-Root-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0128/CVE-2024-0193-Kernel-Root-Bypass">
+
+---
 ## CVE-2024-0190 (2024-01-02T19:15:00)
 > A vulnerability was found in RRJ Nueva Ecija Engineer Online Portal 1.0 and classified as problematic. This issue affects some unknown processing of the file add_quiz.php of the component Quiz Handler. The manipulation of the argument Quiz Title/Quiz Description with the input </title><scRipt>alert(x)</scRipt> leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-249503.
 - [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-0190-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-0190-PoC">
