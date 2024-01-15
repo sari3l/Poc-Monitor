@@ -2585,6 +2585,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 ## CVE-2023-36003 (2023-12-12T18:15:00)
 > XAML Diagnostics Elevation of Privilege Vulnerability
 - [m417z/CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC)	<img alt="forks" src="https://img.shields.io/github/forks/m417z/CVE-2023-36003-POC">	<img alt="stars" src="https://img.shields.io/github/stars/m417z/CVE-2023-36003-POC">
+- [baph0m3th/CVE-2023-36003](https://github.com/baph0m3th/CVE-2023-36003)	<img alt="forks" src="https://img.shields.io/github/forks/baph0m3th/CVE-2023-36003">	<img alt="stars" src="https://img.shields.io/github/stars/baph0m3th/CVE-2023-36003">
 
 ---
 ## CVE-2023-35985 ()
