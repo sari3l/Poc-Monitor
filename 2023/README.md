@@ -1247,6 +1247,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [JawadPy/CVE-2023-43804-Exploit](https://github.com/JawadPy/CVE-2023-43804-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-43804-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-43804-Exploit">
 
 ---
+## CVE-2023-43786 (2023-10-10T13:15:00)
+> A vulnerability was found in libX11 due to an infinite loop within the PutSubImage() function. This flaw allows a local user to consume all available system resources and cause a denial of service condition.
+- [jfrog/jfrog-CVE-2023-43786-libX11_DoS](https://github.com/jfrog/jfrog-CVE-2023-43786-libX11_DoS)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/jfrog-CVE-2023-43786-libX11_DoS">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/jfrog-CVE-2023-43786-libX11_DoS">
+
+---
 ## CVE-2023-43770 (2023-09-22T06:15:00)
 > Roundcube before 1.4.14, 1.5.x before 1.5.4, and 1.6.x before 1.6.3 allows XSS via text/plain e-mail messages with crafted links because of program/lib/Roundcube/rcube_string_replacer.php behavior.
 - [s3cb0y/CVE-2023-43770-POC](https://github.com/s3cb0y/CVE-2023-43770-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s3cb0y/CVE-2023-43770-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s3cb0y/CVE-2023-43770-POC">
