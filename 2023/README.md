@@ -932,6 +932,7 @@ Users are recommended to upgrade to version 18.12.10
 - [cbeek-r7/CVE-2023-46805](https://github.com/cbeek-r7/CVE-2023-46805)	<img alt="forks" src="https://img.shields.io/github/forks/cbeek-r7/CVE-2023-46805">	<img alt="stars" src="https://img.shields.io/github/stars/cbeek-r7/CVE-2023-46805">
 - [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-46805_CVE-2024-21887">
 - [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter)	<img alt="forks" src="https://img.shields.io/github/forks/rxwx/pulse-meter">	<img alt="stars" src="https://img.shields.io/github/stars/rxwx/pulse-meter">
+- [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-46805_CVE-2024-21887">
 
 ---
 ## CVE-2023-46747 (2023-10-26T21:15:00)
