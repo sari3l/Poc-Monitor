@@ -5065,6 +5065,7 @@ Atlassian recommends that you patch each of your affected installations to the l
 
 For additional details, please see full advisory.
 - [Avento/CVE-2023-22527_Confluence_RCE](https://github.com/Avento/CVE-2023-22527_Confluence_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-22527_Confluence_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-22527_Confluence_RCE">
+- [Sudistark/patch-diff-CVE-2023-22527](https://github.com/Sudistark/patch-diff-CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Sudistark/patch-diff-CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Sudistark/patch-diff-CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
