@@ -4320,6 +4320,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-26609 (2023-02-27T02:16:00)
 > ABUS TVIP 20000-21150 devices allows remote attackers to execute arbitrary code via shell metacharacters in the /cgi-bin/mft/wireless_mft ap field.
 - [d1gg0r/CVE-2023-26609](https://github.com/d1gg0r/CVE-2023-26609)	<img alt="forks" src="https://img.shields.io/github/forks/d1gg0r/CVE-2023-26609">	<img alt="stars" src="https://img.shields.io/github/stars/d1gg0r/CVE-2023-26609">
+- [D1G17/CVE-2023-26609](https://github.com/D1G17/CVE-2023-26609)	<img alt="forks" src="https://img.shields.io/github/forks/D1G17/CVE-2023-26609">	<img alt="stars" src="https://img.shields.io/github/stars/D1G17/CVE-2023-26609">
 
 ---
 ## CVE-2023-26607 (2023-02-26T23:15:00)
@@ -4337,6 +4338,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-26602 (2023-02-26T20:15:00)
 > ASUS ASMB8 iKVM firmware through 1.14.51 allows remote attackers to execute arbitrary code by using SNMP to create extensions, as demonstrated by snmpset for NET-SNMP-EXTEND-MIB with /bin/sh for command execution.
 - [d1gg0r/CVE-2023-26602](https://github.com/d1gg0r/CVE-2023-26602)	<img alt="forks" src="https://img.shields.io/github/forks/d1gg0r/CVE-2023-26602">	<img alt="stars" src="https://img.shields.io/github/stars/d1gg0r/CVE-2023-26602">
+- [D1G17/CVE-2023-26602](https://github.com/D1G17/CVE-2023-26602)	<img alt="forks" src="https://img.shields.io/github/forks/D1G17/CVE-2023-26602">	<img alt="stars" src="https://img.shields.io/github/stars/D1G17/CVE-2023-26602">
 
 ---
 ## CVE-2023-26563 (2023-07-12T21:15:00)
