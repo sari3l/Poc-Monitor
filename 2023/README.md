@@ -184,8 +184,8 @@
 - [wrv/cve-2023-5217-poc](https://github.com/wrv/cve-2023-5217-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wrv/cve-2023-5217-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wrv/cve-2023-5217-poc">
 
 ---
-## CVE-2023-51810 ()
-> 
+## CVE-2023-51810 (2024-01-16T01:15:00)
+> SQL injection vulnerability in StackIdeas EasyDiscuss v.5.0.5 and fixed in v.5.0.10 allows a remote attacker to obtain sensitive information via a crafted request to the search parameter in the Users module.
 - [Pastea/CVE-2023-51810](https://github.com/Pastea/CVE-2023-51810)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2023-51810">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2023-51810">
 
 ---
@@ -750,8 +750,8 @@ Users are recommended to upgrade to version 18.12.10
 - [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-48123">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-48123">
 
 ---
-## CVE-2023-48104 ()
-> 
+## CVE-2023-48104 (2024-01-16T01:15:00)
+> Alinto SOGo 5.8.0 is vulnerable to HTML Injection.
 - [E1tex/CVE-2023-48104](https://github.com/E1tex/CVE-2023-48104)	<img alt="forks" src="https://img.shields.io/github/forks/E1tex/CVE-2023-48104">	<img alt="stars" src="https://img.shields.io/github/stars/E1tex/CVE-2023-48104">
 
 ---
@@ -820,13 +820,13 @@ Users are recommended to upgrade to version 18.12.10
 - [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47488">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47488">
 
 ---
-## CVE-2023-47460 ()
-> 
+## CVE-2023-47460 (2024-01-16T01:15:00)
+> SQL injection vulnerability in Knovos Discovery v.22.67.0 allows a remote attacker to execute arbitrary code via the /DiscoveryProcess/Service/Admin.svc/getGridColumnStructure component.
 - [aleksey-vi/CVE-2023-47460](https://github.com/aleksey-vi/CVE-2023-47460)	<img alt="forks" src="https://img.shields.io/github/forks/aleksey-vi/CVE-2023-47460">	<img alt="stars" src="https://img.shields.io/github/stars/aleksey-vi/CVE-2023-47460">
 
 ---
-## CVE-2023-47459 ()
-> 
+## CVE-2023-47459 (2024-01-16T01:15:00)
+> An issue in Knovos Discovery v.22.67.0 allows a remote attacker to obtain sensitive information via the /DiscoveryReview/Service/CaseManagement.svc/GetProductSiteName component.
 - [aleksey-vi/CVE-2023-47459](https://github.com/aleksey-vi/CVE-2023-47459)	<img alt="forks" src="https://img.shields.io/github/forks/aleksey-vi/CVE-2023-47459">	<img alt="stars" src="https://img.shields.io/github/stars/aleksey-vi/CVE-2023-47459">
 
 ---
