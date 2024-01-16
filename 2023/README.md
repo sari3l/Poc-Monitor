@@ -27,16 +27,16 @@
 - [sharathc213/CVE-2023-7172](https://github.com/sharathc213/CVE-2023-7172)	<img alt="forks" src="https://img.shields.io/github/forks/sharathc213/CVE-2023-7172">	<img alt="stars" src="https://img.shields.io/github/stars/sharathc213/CVE-2023-7172">
 
 ---
-## CVE-2023-7028 ()
-> 
+## CVE-2023-7028 (2024-01-12T14:15:00)
+> An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address.
 - [V1lu0/CVE-2023-7028](https://github.com/V1lu0/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/V1lu0/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/V1lu0/CVE-2023-7028">
 - [RandomRobbieBF/CVE-2023-7028](https://github.com/RandomRobbieBF/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-7028">
 - [duy-31/CVE-2023-7028](https://github.com/duy-31/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-7028">
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2023-7028">
 
 ---
-## CVE-2023-6875 ()
-> 
+## CVE-2023-6875 (2024-01-11T09:15:00)
+> The POST SMTP Mailer – Email log, Delivery Failure Notifications and Best Mail SMTP for WordPress plugin for WordPress is vulnerable to unauthorized access of data and modification of data due to a type juggling issue on the connect-app REST endpoint in all versions up to, and including, 2.8.7. This makes it possible for unauthenticated attackers to reset the API key used to authenticate to the mailer and view logs, including password reset emails, allowing site takeover.
 - [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875)	<img alt="forks" src="https://img.shields.io/github/forks/UlyssesSaicha/CVE-2023-6875">	<img alt="stars" src="https://img.shields.io/github/stars/UlyssesSaicha/CVE-2023-6875">
 
 ---
@@ -61,8 +61,8 @@
 - [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-6661">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-6661">
 
 ---
-## CVE-2023-6567 ()
-> 
+## CVE-2023-6567 (2024-01-11T09:15:00)
+> The LearnPress plugin for WordPress is vulnerable to time-based SQL Injection via the ‘order_by’ parameter in all versions up to, and including, 4.2.5.7 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mimiloveexe/CVE-2023-6567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mimiloveexe/CVE-2023-6567-poc">
 
 ---
@@ -309,18 +309,18 @@
 - [16yashpatel/CVE-2023-51197](https://github.com/16yashpatel/CVE-2023-51197)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51197">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51197">
 
 ---
-## CVE-2023-51127 ()
-> 
+## CVE-2023-51127 (2024-01-10T21:15:00)
+> FLIR AX8 thermal sensor cameras up to and including 1.46.16 are vulnerable to Directory Traversal due to improper access restriction. This vulnerability allows an unauthenticated, remote attacker to obtain arbitrary sensitive file contents by uploading a specially crafted symbolic link file.
 - [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127)	<img alt="forks" src="https://img.shields.io/github/forks/risuxx/CVE-2023-51127">	<img alt="stars" src="https://img.shields.io/github/stars/risuxx/CVE-2023-51127">
 
 ---
-## CVE-2023-51126 ()
-> 
+## CVE-2023-51126 (2024-01-10T21:15:00)
+> Command injection vulnerability in /usr/www/res.php in FLIR AX8 up to 1.46.16 allows attackers to run arbitrary commands via the value parameter.
 - [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126)	<img alt="forks" src="https://img.shields.io/github/forks/risuxx/CVE-2023-51126">	<img alt="stars" src="https://img.shields.io/github/stars/risuxx/CVE-2023-51126">
 
 ---
-## CVE-2023-51073 ()
-> 
+## CVE-2023-51073 (2024-01-11T03:15:00)
+> An issue in Buffalo LS210D v.1.78-0.03 allows a remote attacker to execute arbitrary code via the Firmware Update Script at /etc/init.d/update_notifications.sh.
 - [christopher-pace/CVE-2023-51073](https://github.com/christopher-pace/CVE-2023-51073)	<img alt="forks" src="https://img.shields.io/github/forks/christopher-pace/CVE-2023-51073">	<img alt="stars" src="https://img.shields.io/github/stars/christopher-pace/CVE-2023-51073">
 
 ---
@@ -344,8 +344,8 @@
 - [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5070">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5070">
 
 ---
-## CVE-2023-50643 ()
-> 
+## CVE-2023-50643 (2024-01-09T01:15:00)
+> An issue in Evernote Evernote for MacOS v.10.68.2 allows a remote attacker to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments components.
 - [V3x0r/CVE-2023-50643](https://github.com/V3x0r/CVE-2023-50643)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2023-50643">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2023-50643">
 
 ---
@@ -397,8 +397,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-50131">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-50131">
 
 ---
-## CVE-2023-50072 ()
-> 
+## CVE-2023-50072 (2024-01-13T01:15:00)
+> A Stored Cross-Site Scripting (XSS) vulnerability exists in OpenKM version 7.1.40 (dbb6e88) With Professional Extension that allows an authenticated user to upload a note on a file which acts as a stored XSS payload. Any user who opens the note of a document file will trigger the XSS.
 - [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-50072">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-50072">
 
 ---
@@ -592,8 +592,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [jaysharma786/CVE-2023-4951](https://github.com/jaysharma786/CVE-2023-4951)	<img alt="forks" src="https://img.shields.io/github/forks/jaysharma786/CVE-2023-4951">	<img alt="stars" src="https://img.shields.io/github/stars/jaysharma786/CVE-2023-4951">
 
 ---
-## CVE-2023-49471 ()
-> 
+## CVE-2023-49471 (2024-01-10T09:15:00)
+> Blind Server-Side Request Forgery (SSRF) vulnerability in karlomikus Bar Assistant before version 3.2.0 does not validate a parameter before making a request through Image::make(), which could allow authenticated remote attackers to execute arbitrary code.
 - [zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2023-49471">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2023-49471">
 
 ---
@@ -697,8 +697,8 @@ Users are recommended to upgrade to version 18.12.10
 - [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48866">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48866">
 
 ---
-## CVE-2023-48864 ()
-> 
+## CVE-2023-48864 (2024-01-10T08:15:00)
+> SEMCMS v4.8 was discovered to contain a SQL injection vulnerability via the languageID parameter in /web_inc.php.
 - [f3lze3/CVE-2023-48864](https://github.com/f3lze3/CVE-2023-48864)	<img alt="forks" src="https://img.shields.io/github/forks/f3lze3/CVE-2023-48864">	<img alt="stars" src="https://img.shields.io/github/stars/f3lze3/CVE-2023-48864">
 - [f3lze3/CVE-2023-48864](https://github.com/f3lze3/CVE-2023-48864)	<img alt="forks" src="https://img.shields.io/github/forks/f3lze3/CVE-2023-48864">	<img alt="stars" src="https://img.shields.io/github/stars/f3lze3/CVE-2023-48864">
 
@@ -808,14 +808,14 @@ Users are recommended to upgrade to version 18.12.10
 - [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47529">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47529">
 
 ---
-## CVE-2023-47489 ()
-> 
+## CVE-2023-47489 (2023-11-09T06:15:00)
+> CSV injection in export as csv in Combodo iTop v.3.1.0-2-11973 allows a local attacker to execute arbitrary code via a crafted script to the export-v2.php and ajax.render.php components.
 - [nitipoom-jar/CVE-2023-47489](https://github.com/nitipoom-jar/CVE-2023-47489)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47489">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47489">
 - [nitipoom-jar/CVE-2023-47489](https://github.com/nitipoom-jar/CVE-2023-47489)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47489">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47489">
 
 ---
-## CVE-2023-47488 ()
-> 
+## CVE-2023-47488 (2023-11-09T06:15:00)
+> Cross Site Scripting vulnerability in Combodo iTop v.3.1.0-2-11973 allows a local attacker to obtain sensitive information via a crafted script to the attrib_manager_id parameter in the General Information page and the id parameter in the contact page.
 - [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47488">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47488">
 - [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47488">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47488">
 
@@ -925,8 +925,8 @@ Users are recommended to upgrade to version 18.12.10
 - [Freax13/cve-2023-46813-poc](https://github.com/Freax13/cve-2023-46813-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2023-46813-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2023-46813-poc">
 
 ---
-## CVE-2023-46805 ()
-> 
+## CVE-2023-46805 (2024-01-12T17:15:00)
+> An authentication bypass vulnerability in the web component of Ivanti ICS 9.x, 22.x and Ivanti Policy Secure allows a remote attacker to access restricted resources by bypassing control checks.
 - [yoryio/CVE-2023-46805_CVE-2024-21887_Scanner](https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">
 - [yoryio/CVE-2023-46805_CVE-2024-21887_Scanner](https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">
 
@@ -994,8 +994,8 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478)	<img alt="forks" src="https://img.shields.io/github/forks/mr-xmen786/CVE-2023-46478">	<img alt="stars" src="https://img.shields.io/github/stars/mr-xmen786/CVE-2023-46478">
 
 ---
-## CVE-2023-46474 ()
-> 
+## CVE-2023-46474 (2024-01-11T22:15:00)
+> File Upload vulnerability PMB v.7.4.8 allows a remote attacker to execute arbitrary code and escalate privileges via a crafted PHP file uploaded to the start_import.php file.
 - [Xn2/CVE-2023-46474](https://github.com/Xn2/CVE-2023-46474)	<img alt="forks" src="https://img.shields.io/github/forks/Xn2/CVE-2023-46474">	<img alt="stars" src="https://img.shields.io/github/stars/Xn2/CVE-2023-46474">
 - [Xn2/CVE-2023-46474](https://github.com/Xn2/CVE-2023-46474)	<img alt="forks" src="https://img.shields.io/github/forks/Xn2/CVE-2023-46474">	<img alt="stars" src="https://img.shields.io/github/stars/Xn2/CVE-2023-46474">
 
@@ -1197,8 +1197,8 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44811">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44811">
 
 ---
-## CVE-2023-44796 ()
-> 
+## CVE-2023-44796 (2023-11-18T00:15:00)
+> Cross Site Scripting (XSS) vulnerability in LimeSurvey before version 6.2.9-230925 allows a remote attacker to escalate privileges via a crafted script to the _generaloptions_panel.php component.
 - [Hebing123/CVE-2023-44796](https://github.com/Hebing123/CVE-2023-44796)	<img alt="forks" src="https://img.shields.io/github/forks/Hebing123/CVE-2023-44796">	<img alt="stars" src="https://img.shields.io/github/stars/Hebing123/CVE-2023-44796">
 
 ---
@@ -1639,8 +1639,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name)	<img alt="forks" src="https://img.shields.io/github/forks/biscuitehh/cve-2023-40429-ez-device-name">	<img alt="stars" src="https://img.shields.io/github/stars/biscuitehh/cve-2023-40429-ez-device-name">
 
 ---
-## CVE-2023-40362 ()
-> 
+## CVE-2023-40362 (2024-01-12T08:15:00)
+> An issue was discovered in CentralSquare Click2Gov Building Permit before October 2023. Lack of access control protections allows remote attackers to arbitrarily delete the contractors from any user's account when the user ID and contractor information is known.
 - [ally-petitt/CVE-2023-40362](https://github.com/ally-petitt/CVE-2023-40362)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-40362">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-40362">
 
 ---
@@ -3521,8 +3521,8 @@ Fixed in version 6.4.1.
 - [ViCrack/CVE-2023-31503](https://github.com/ViCrack/CVE-2023-31503)	<img alt="forks" src="https://img.shields.io/github/forks/ViCrack/CVE-2023-31503">	<img alt="stars" src="https://img.shields.io/github/stars/ViCrack/CVE-2023-31503">
 
 ---
-## CVE-2023-31446 ()
-> 
+## CVE-2023-31446 (2024-01-10T03:15:00)
+> In Cassia Gateway firmware XC1000_2.1.1.2303082218 and XC2000_2.1.1.2303090947, the queueUrl parameter in /bypass/config is not sanitized. This leads to injecting Bash code and executing it with root privileges on device startup.
 - [Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution](https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution">
 
 ---
@@ -5492,8 +5492,14 @@ For more details, please review the linked advisory on this CVE.
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
 
 ---
-## CVE-2023-20573 ()
-> 
+## CVE-2023-20573 (2024-01-11T14:15:00)
+> A privileged attacker
+can prevent delivery of debug exceptions to SEV-SNP guests potentially
+resulting in guests not receiving expected debug information.
+
+
+
+
 - [Freax13/cve-2023-20573-poc](https://github.com/Freax13/cve-2023-20573-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2023-20573-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2023-20573-poc">
 
 ---

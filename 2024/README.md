@@ -1,8 +1,8 @@
 # 2024 List
 
 ---
-## CVE-2024-21887 ()
-> 
+## CVE-2024-21887 (2024-01-12T17:15:00)
+> A command injection vulnerability in web components of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x)  allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance.
 - [oways/ivanti-CVE-2024-21887](https://github.com/oways/ivanti-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/oways/ivanti-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/oways/ivanti-CVE-2024-21887">
 - [yoryio/CVE-2023-46805_CVE-2024-21887_Scanner](https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">
 - [yoryio/CVE-2023-46805_CVE-2024-21887_Scanner](https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner">
@@ -13,13 +13,13 @@
 - [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633)	<img alt="forks" src="https://img.shields.io/github/forks/0x33c0unt/CVE-2024-21633">	<img alt="stars" src="https://img.shields.io/github/stars/0x33c0unt/CVE-2024-21633">
 
 ---
-## CVE-2024-20656 ()
-> 
+## CVE-2024-20656 (2024-01-09T18:15:00)
+> Visual Studio Elevation of Privilege Vulnerability
 - [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2024-20656">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2024-20656">
 
 ---
-## CVE-2024-0252 ()
-> 
+## CVE-2024-0252 (2024-01-11T08:15:00)
+> ManageEngine ADSelfService Plus versions 6401 and below are vulnerable to the remote code execution due to the improper handling in the load balancer component. Authentication is required in order to exploit this vulnerability.
 - [forsaken0128/CVE-2024-0252-RCE](https://github.com/forsaken0128/CVE-2024-0252-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0128/CVE-2024-0252-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0128/CVE-2024-0252-RCE">
 
 ---
