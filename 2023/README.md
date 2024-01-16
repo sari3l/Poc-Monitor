@@ -5026,6 +5026,47 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 
 ---
+## CVE-2023-22527 (2024-01-16T05:15:00)
+> Summary of Vulnerability
+A template injection vulnerability on older versions of Confluence Data Center and Server allows an unauthenticated attacker to achieve RCE on an affected instance. Customers using an affected version must take immediate action.
+
+Most recent supported versions of Confluence Data Center and Server are not affected by this vulnerability as it was ultimately mitigated during regular version updates. However, Atlassian recommends that customers take care to install the latest version to protect their instances from non-critical vulnerabilities outlined in Atlassian’s January Security Bulletin.
+
+See “What You Need to Do” for detailed instructions.
+ 
+{panel:bgColor=#deebff}
+Atlassian Cloud sites are not affected by this vulnerability. If your Confluence site is accessed via an atlassian.net domain, it is hosted by Atlassian and is not vulnerable to this issue.
+{panel}
+Affected Versions
+||Product||Affected Versions||
+|Confluence Data Center and Server| 8.0.x
+ 8.1.x
+ 8.2.x
+ 8.3.x
+ 8.4.x
+ 8.5.0
+ 8.5.1
+ 8.5.2
+ 8.5.3|
+Fixed Versions
+||Product||Fixed Versions||
+|Confluence Data Center and Server|8.5.4 (LTS)|
+|Confluence Data Center| 8.6.0 or later (Data Center Only)
+ 8.7.1 or later (Data Center Only)|
+What You Need To Do
+Immediately patch to a fixed version
+
+Atlassian recommends that you patch each of your affected installations to the latest version. The listed Fixed Versions are no longer the most up-to-date versions and do not protect your instance from other non-critical vulnerabilities as outlined in Atlassian’s January Security Bulletin.
+||Product||Fixed Versions||Latest Versions||
+|Confluence Data Center and Server|  8.5.4 (LTS)|  8.5.5 (LTS)
+|Confluence Data Center| 8.6.0 or later (Data Center Only)
+  8.7.1 or later (Data Center Only)|  8.6.3 or later (Data Center Only)
+ 8.7.2 or later (Data Center Only)
+
+For additional details, please see full advisory.
+- [Avento/CVE-2023-22527_Confluence_RCE](https://github.com/Avento/CVE-2023-22527_Confluence_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-22527_Confluence_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-22527_Confluence_RCE">
+
+---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
 > Certain versions of the Atlassian Companion App for MacOS were affected by a remote code execution vulnerability. An attacker could utilize WebSockets to bypass Atlassian Companion’s blocklist and MacOS Gatekeeper to allow execution of code.
 - [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524)	<img alt="forks" src="https://img.shields.io/github/forks/imperva/CVE-2023-22524">	<img alt="stars" src="https://img.shields.io/github/stars/imperva/CVE-2023-22524">
