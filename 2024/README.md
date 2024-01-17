@@ -1,6 +1,11 @@
 # 2024 List
 
 ---
+## CVE-2024-22145 ()
+> 
+- [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-22145">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-22145">
+
+---
 ## CVE-2024-21887 (2024-01-12T17:15:00)
 > A command injection vulnerability in web components of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x)  allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance.
 - [oways/ivanti-CVE-2024-21887](https://github.com/oways/ivanti-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/oways/ivanti-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/oways/ivanti-CVE-2024-21887">
