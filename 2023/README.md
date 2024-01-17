@@ -363,6 +363,7 @@
 > Code injection via nginx.ingress.kubernetes.io/permanent-redirect annotation.
 
 - [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2023-5044">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2023-5044">
+- [4ARMED/cve-2023-5044](https://github.com/4ARMED/cve-2023-5044)	<img alt="forks" src="https://img.shields.io/github/forks/4ARMED/cve-2023-5044">	<img alt="stars" src="https://img.shields.io/github/stars/4ARMED/cve-2023-5044">
 
 ---
 ## CVE-2023-5043 (2023-10-25T20:15:00)
