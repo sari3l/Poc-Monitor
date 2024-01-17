@@ -35,6 +35,11 @@
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2023-7028">
 
 ---
+## CVE-2023-6895 (2023-12-17T08:15:00)
+> A vulnerability was found in Hikvision Intercom Broadcasting System 3.0.3_20201113_RELEASE(HIK). It has been declared as critical. This vulnerability affects unknown code of the file /php/ping.php. The manipulation of the argument jsondata[ip] with the input netstat -ano leads to os command injection. The exploit has been disclosed to the public and may be used. Upgrading to version 4.1.0 is able to address this issue. It is recommended to upgrade the affected component. VDB-248254 is the identifier assigned to this vulnerability.
+- [FuBoLuSec/CVE-2023-6895-RCE](https://github.com/FuBoLuSec/CVE-2023-6895-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/FuBoLuSec/CVE-2023-6895-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/FuBoLuSec/CVE-2023-6895-RCE">
+
+---
 ## CVE-2023-6875 (2024-01-11T09:15:00)
 > The POST SMTP Mailer – Email log, Delivery Failure Notifications and Best Mail SMTP for WordPress plugin for WordPress is vulnerable to unauthorized access of data and modification of data due to a type juggling issue on the connect-app REST endpoint in all versions up to, and including, 2.8.7. This makes it possible for unauthenticated attackers to reset the API key used to authenticate to the mailer and view logs, including password reset emails, allowing site takeover.
 - [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875)	<img alt="forks" src="https://img.shields.io/github/forks/UlyssesSaicha/CVE-2023-6875">	<img alt="stars" src="https://img.shields.io/github/stars/UlyssesSaicha/CVE-2023-6875">
