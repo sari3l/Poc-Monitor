@@ -710,8 +710,8 @@ Users are recommended to upgrade to version 18.12.10
 - [f3lze3/CVE-2023-48864](https://github.com/f3lze3/CVE-2023-48864)	<img alt="forks" src="https://img.shields.io/github/forks/f3lze3/CVE-2023-48864">	<img alt="stars" src="https://img.shields.io/github/stars/f3lze3/CVE-2023-48864">
 
 ---
-## CVE-2023-48858 ()
-> 
+## CVE-2023-48858 (2024-01-17T20:15:00)
+> A Cross-site scripting (XSS) vulnerability in login page php code in Armex ABO.CMS 5.9 allows remote attackers to inject arbitrary web script or HTML via the login.php? URL part.
 - [Shumerez/CVE-2023-48858](https://github.com/Shumerez/CVE-2023-48858)	<img alt="forks" src="https://img.shields.io/github/forks/Shumerez/CVE-2023-48858">	<img alt="stars" src="https://img.shields.io/github/stars/Shumerez/CVE-2023-48858">
 
 ---
