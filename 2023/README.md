@@ -704,6 +704,11 @@ Users are recommended to upgrade to version 18.12.10
 - [f3lze3/CVE-2023-48864](https://github.com/f3lze3/CVE-2023-48864)	<img alt="forks" src="https://img.shields.io/github/forks/f3lze3/CVE-2023-48864">	<img alt="stars" src="https://img.shields.io/github/stars/f3lze3/CVE-2023-48864">
 
 ---
+## CVE-2023-48858 ()
+> 
+- [Shumerez/CVE-2023-48858](https://github.com/Shumerez/CVE-2023-48858)	<img alt="forks" src="https://img.shields.io/github/forks/Shumerez/CVE-2023-48858">	<img alt="stars" src="https://img.shields.io/github/stars/Shumerez/CVE-2023-48858">
+
+---
 ## CVE-2023-48849 (2023-12-06T08:15:00)
 > Ruijie EG Series Routers version EG_3.0(1)B11P216 and before allows unauthenticated attackers to remotely execute arbitrary code due to incorrect filtering.
 - [delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849)	<img alt="forks" src="https://img.shields.io/github/forks/delsploit/CVE-2023-48849">	<img alt="stars" src="https://img.shields.io/github/stars/delsploit/CVE-2023-48849">
