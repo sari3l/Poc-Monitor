@@ -4270,6 +4270,11 @@
 - [Live-Hack-CVE/CVE-2020-11738](https://github.com/Live-Hack-CVE/CVE-2020-11738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11738">
 
 ---
+## CVE-2020-11652 (2020-04-30T17:15:00)
+> An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class allows access to some methods that improperly sanitize paths. These methods allow arbitrary directory access to authenticated users.
+- [limon768/CVE-2020-11652-CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-CVE-2020-11652-POC">
+
+---
 ## CVE-2020-11651 (2020-04-30T17:15:00)
 > An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class does not properly validate method calls. This allows a remote user to access some methods without authentication. These methods can be used to retrieve user tokens from the salt master and/or run arbitrary commands on salt minions.
 - [ssrsec/CVE-2020-11651-CVE-2020-11652-EXP](https://github.com/ssrsec/CVE-2020-11651-CVE-2020-11652-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/ssrsec/CVE-2020-11651-CVE-2020-11652-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/ssrsec/CVE-2020-11651-CVE-2020-11652-EXP">
