@@ -4273,6 +4273,16 @@
 ## CVE-2020-11652 (2020-04-30T17:15:00)
 > An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class allows access to some methods that improperly sanitize paths. These methods allow arbitrary directory access to authenticated users.
 - [limon768/CVE-2020-11652-CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-CVE-2020-11652-POC">
+- [ssrsec/CVE-2020-11651-CVE-2020-11652-EXP](https://github.com/ssrsec/CVE-2020-11651-CVE-2020-11652-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/ssrsec/CVE-2020-11651-CVE-2020-11652-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/ssrsec/CVE-2020-11651-CVE-2020-11652-EXP">
+- [chef-cft/salt-vulnerabilities](https://github.com/chef-cft/salt-vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/chef-cft/salt-vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/chef-cft/salt-vulnerabilities">
+- [0xc0d/CVE-2020-11651](https://github.com/0xc0d/CVE-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/0xc0d/CVE-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/0xc0d/CVE-2020-11651">
+- [Al1ex/CVE-2020-11652](https://github.com/Al1ex/CVE-2020-11652)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-11652">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-11652">
+- [appcheck-ng/salt-rce-scanner-CVE-2020-11651-CVE-2020-11652](https://github.com/appcheck-ng/salt-rce-scanner-CVE-2020-11651-CVE-2020-11652)	<img alt="forks" src="https://img.shields.io/github/forks/appcheck-ng/salt-rce-scanner-CVE-2020-11651-CVE-2020-11652">	<img alt="stars" src="https://img.shields.io/github/stars/appcheck-ng/salt-rce-scanner-CVE-2020-11651-CVE-2020-11652">
+- [jasperla/CVE-2020-11651-poc](https://github.com/jasperla/CVE-2020-11651-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jasperla/CVE-2020-11651-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jasperla/CVE-2020-11651-poc">
+- [fanjq99/CVE-2020-11652](https://github.com/fanjq99/CVE-2020-11652)	<img alt="forks" src="https://img.shields.io/github/forks/fanjq99/CVE-2020-11652">	<img alt="stars" src="https://img.shields.io/github/stars/fanjq99/CVE-2020-11652">
+- [rossengeorgiev/salt-security-backports](https://github.com/rossengeorgiev/salt-security-backports)	<img alt="forks" src="https://img.shields.io/github/forks/rossengeorgiev/salt-security-backports">	<img alt="stars" src="https://img.shields.io/github/stars/rossengeorgiev/salt-security-backports">
+- [bravery9/SaltStack-Exp](https://github.com/bravery9/SaltStack-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/bravery9/SaltStack-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/bravery9/SaltStack-Exp">
+- [5l1v3r1/SaltStack-Exp-1](https://github.com/5l1v3r1/SaltStack-Exp-1)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/SaltStack-Exp-1">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/SaltStack-Exp-1">
 
 ---
 ## CVE-2020-11651 (2020-04-30T17:15:00)
