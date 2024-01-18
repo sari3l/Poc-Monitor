@@ -705,6 +705,11 @@
 - [Live-Hack-CVE/CVE-2017-18005](https://github.com/Live-Hack-CVE/CVE-2017-18005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18005">
 
 ---
+## CVE-2017-17917 (2017-12-29T16:29:00)
+> ** DISPUTED ** SQL injection vulnerability in the 'where' method in Ruby on Rails 5.1.4 and earlier allows remote attackers to execute arbitrary SQL commands via the 'id' parameter. NOTE: The vendor disputes this issue because the documentation states that this method is not intended for use with untrusted input.
+- [matiasarenhard/rails-cve-2017-17917](https://github.com/matiasarenhard/rails-cve-2017-17917)	<img alt="forks" src="https://img.shields.io/github/forks/matiasarenhard/rails-cve-2017-17917">	<img alt="stars" src="https://img.shields.io/github/stars/matiasarenhard/rails-cve-2017-17917">
+
+---
 ## CVE-2017-17898 (2017-12-27T17:08:00)
 > Dolibarr ERP/CRM version 6.0.4 does not block direct requests to *.tpl.php files, which allows remote attackers to obtain sensitive information.
 - [Live-Hack-CVE/CVE-2017-17898](https://github.com/Live-Hack-CVE/CVE-2017-17898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-17898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-17898">
