@@ -33,6 +33,7 @@
 - [RandomRobbieBF/CVE-2023-7028](https://github.com/RandomRobbieBF/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-7028">
 - [duy-31/CVE-2023-7028](https://github.com/duy-31/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-7028">
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2023-7028">
+- [yoryio/CVE-2023-7028](https://github.com/yoryio/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-7028">
 
 ---
 ## CVE-2023-6895 (2023-12-17T08:15:00)
