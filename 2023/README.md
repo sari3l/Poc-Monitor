@@ -2775,6 +2775,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 > Linux Kernel nftables Out-Of-Bounds Read/Write Vulnerability; nft_byteorder poorly handled vm register contents when CAP_NET_ADMIN is in any user or network namespace
 - [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2023-35001">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2023-35001">
 - [syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-](https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-)	<img alt="forks" src="https://img.shields.io/github/forks/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-">	<img alt="stars" src="https://img.shields.io/github/stars/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-">
+- [mrbrelax/Exploit_CVE-2023-35001](https://github.com/mrbrelax/Exploit_CVE-2023-35001)	<img alt="forks" src="https://img.shields.io/github/forks/mrbrelax/Exploit_CVE-2023-35001">	<img alt="stars" src="https://img.shields.io/github/stars/mrbrelax/Exploit_CVE-2023-35001">
 
 ---
 ## CVE-2023-3499 (2023-09-04T12:15:00)
