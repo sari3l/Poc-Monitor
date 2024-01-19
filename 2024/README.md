@@ -41,6 +41,11 @@
 - [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2024-20656">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2024-20656">
 
 ---
+## CVE-2024-0679 ()
+> 
+- [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-0679">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-0679">
+
+---
 ## CVE-2024-0252 (2024-01-11T08:15:00)
 > ManageEngine ADSelfService Plus versions 6401 and below are vulnerable to the remote code execution due to the improper handling in the load balancer component. Authentication is required in order to exploit this vulnerability.
 - [forsaken0128/CVE-2024-0252-RCE](https://github.com/forsaken0128/CVE-2024-0252-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0128/CVE-2024-0252-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0128/CVE-2024-0252-RCE">
