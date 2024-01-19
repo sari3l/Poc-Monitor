@@ -644,6 +644,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [teraGL/looneyCVE](https://github.com/teraGL/looneyCVE)	<img alt="forks" src="https://img.shields.io/github/forks/teraGL/looneyCVE">	<img alt="stars" src="https://img.shields.io/github/stars/teraGL/looneyCVE">
 - [snurkeburk/Looney-Tunables](https://github.com/snurkeburk/Looney-Tunables)	<img alt="forks" src="https://img.shields.io/github/forks/snurkeburk/Looney-Tunables">	<img alt="stars" src="https://img.shields.io/github/stars/snurkeburk/Looney-Tunables">
 - [puckiestyle/CVE-2023-4911](https://github.com/puckiestyle/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2023-4911">
+- [yanfernandess/Looney-Tunables-CVE-2023-4911](https://github.com/yanfernandess/Looney-Tunables-CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/yanfernandess/Looney-Tunables-CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/yanfernandess/Looney-Tunables-CVE-2023-4911">
 
 ---
 ## CVE-2023-49103 ()
