@@ -6,6 +6,11 @@
 - [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416)	<img alt="forks" src="https://img.shields.io/github/forks/mindstorm38/ensimag-secu3a-cve-2024-22416">	<img alt="stars" src="https://img.shields.io/github/stars/mindstorm38/ensimag-secu3a-cve-2024-22416">
 
 ---
+## CVE-2024-22411 (2024-01-16T22:15:00)
+> Avo is a framework to create admin panels for Ruby on Rails apps. In Avo 3 pre12 any HTML inside text that is passed to `error` or `succeed` in an `Avo::BaseAction` subclass will be rendered directly without sanitization in the toast/notification that appears in the UI on Action completion. A malicious user could exploit this vulnerability to trigger a cross site scripting attack on an unsuspecting user. This issue has been addressed in the 3.0.0 release of Avo. Users are advised to upgrade.
+- [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411)	<img alt="forks" src="https://img.shields.io/github/forks/tamaloa/avo-CVE-2024-22411">	<img alt="stars" src="https://img.shields.io/github/stars/tamaloa/avo-CVE-2024-22411">
+
+---
 ## CVE-2024-22145 ()
 > 
 - [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-22145">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-22145">
