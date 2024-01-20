@@ -6927,6 +6927,11 @@
 - [Live-Hack-CVE/CVE-2021-24928](https://github.com/Live-Hack-CVE/CVE-2021-24928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24928">
 
 ---
+## CVE-2021-24917 (2021-12-06T16:15:00)
+> The WPS Hide Login WordPress plugin before 1.9.1 has a bug which allows to get the secret login page by setting a random referer string and making a request to /wp-admin/options.php as an unauthenticated user.
+- [dikalasenjadatang/CVE-2021-24917](https://github.com/dikalasenjadatang/CVE-2021-24917)	<img alt="forks" src="https://img.shields.io/github/forks/dikalasenjadatang/CVE-2021-24917">	<img alt="stars" src="https://img.shields.io/github/stars/dikalasenjadatang/CVE-2021-24917">
+
+---
 ## CVE-2021-24914 (2021-12-06T16:15:00)
 > The Tawk.To Live Chat WordPress plugin before 0.6.0 does not have capability and CSRF checks in the tawkto_setwidget and tawkto_removewidget AJAX actions, available to any authenticated user. The first one allows low-privileged users (including simple subscribers) to change the 'tawkto-embed-widget-page-id' and 'tawkto-embed-widget-widget-id' parameters. Any authenticated user can thus link the vulnerable website to their own Tawk.to instance. Consequently, they will be able to monitor the vulnerable website and interact with its visitors (receive contact messages, answer, ...). They will also be able to display an arbitrary Knowledge Base. The second one will remove the live chat widget from pages.
 - [Live-Hack-CVE/CVE-2021-24914](https://github.com/Live-Hack-CVE/CVE-2021-24914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24914">
