@@ -37,6 +37,11 @@
 - [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633)	<img alt="forks" src="https://img.shields.io/github/forks/0x33c0unt/CVE-2024-21633">	<img alt="stars" src="https://img.shields.io/github/stars/0x33c0unt/CVE-2024-21633">
 
 ---
+## CVE-2024-21306 (2024-01-09T18:15:00)
+> Microsoft Bluetooth Driver Spoofing Vulnerability
+- [TheRedDevil1/CVE-2024-21306](https://github.com/TheRedDevil1/CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21306">
+
+---
 ## CVE-2024-20656 (2024-01-09T18:15:00)
 > Visual Studio Elevation of Privilege Vulnerability
 - [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2024-20656">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2024-20656">
