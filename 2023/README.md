@@ -4013,6 +4013,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [uthrasri/CVE-2023-28588_system_bt](https://github.com/uthrasri/CVE-2023-28588_system_bt)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-28588_system_bt">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-28588_system_bt">
 - [uthrasri/CVE-2023-28588_Singlefile](https://github.com/uthrasri/CVE-2023-28588_Singlefile)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-28588_Singlefile">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-28588_Singlefile">
 - [uthrasri/G2.5_CVE-2023-28588](https://github.com/uthrasri/G2.5_CVE-2023-28588)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/G2.5_CVE-2023-28588">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/G2.5_CVE-2023-28588">
+- [uthrasri/CVE-2023-28588_G2.5_singlefile](https://github.com/uthrasri/CVE-2023-28588_G2.5_singlefile)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-28588_G2.5_singlefile">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-28588_G2.5_singlefile">
 
 ---
 ## CVE-2023-28467 (2023-05-22T19:15:00)
@@ -5119,6 +5120,7 @@ For additional details, please see full advisory.
 - [Sudistark/patch-diff-CVE-2023-22527](https://github.com/Sudistark/patch-diff-CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Sudistark/patch-diff-CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Sudistark/patch-diff-CVE-2023-22527">
 - [ga0we1/CVE-2023-22527_Confluence_RCE](https://github.com/ga0we1/CVE-2023-22527_Confluence_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ga0we1/CVE-2023-22527_Confluence_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ga0we1/CVE-2023-22527_Confluence_RCE">
 - [Drun1baby/CVE-2023-22527](https://github.com/Drun1baby/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Drun1baby/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Drun1baby/CVE-2023-22527">
+- [cleverg0d/CVE-2023-22527](https://github.com/cleverg0d/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/cleverg0d/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/cleverg0d/CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
