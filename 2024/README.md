@@ -1,6 +1,11 @@
 # 2024 List
 
 ---
+## CVE-2024-33333 ()
+> 
+- [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
+
+---
 ## CVE-2024-22416 (2024-01-18T00:15:00)
 > pyLoad is a free and open-source Download Manager written in pure Python. The `pyload` API allows any API call to be made using GET requests. Since the session cookie is not set to `SameSite: strict`, this opens the library up to severe attack possibilities via a Cross-Site Request Forgery (CSRF) attack. As a result any API call can be made via a CSRF attack by an unauthenticated user. This issue has been addressed in release `0.5.0b3.dev78`. All users are advised to upgrade.
 - [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416)	<img alt="forks" src="https://img.shields.io/github/forks/mindstorm38/ensimag-secu3a-cve-2024-22416">	<img alt="stars" src="https://img.shields.io/github/stars/mindstorm38/ensimag-secu3a-cve-2024-22416">
