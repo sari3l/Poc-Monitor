@@ -11,6 +11,11 @@
 - [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411)	<img alt="forks" src="https://img.shields.io/github/forks/tamaloa/avo-CVE-2024-22411">	<img alt="stars" src="https://img.shields.io/github/stars/tamaloa/avo-CVE-2024-22411">
 
 ---
+## CVE-2024-22222 ()
+> 
+- [xiaoqiao147/CVE-2024-22222](https://github.com/xiaoqiao147/CVE-2024-22222)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-22222">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-22222">
+
+---
 ## CVE-2024-22145 ()
 > 
 - [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-22145">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-22145">
