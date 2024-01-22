@@ -3878,6 +3878,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [S4muraiMelayu1337/CVE-2023-29489](https://github.com/S4muraiMelayu1337/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/S4muraiMelayu1337/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/S4muraiMelayu1337/CVE-2023-29489">
 - [SynixCyberCrimeMy/CVE-2023-29489](https://github.com/SynixCyberCrimeMy/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/SynixCyberCrimeMy/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/SynixCyberCrimeMy/CVE-2023-29489">
 - [Makurorororororororo/Validate-CVE-2023-29489-scanner-](https://github.com/Makurorororororororo/Validate-CVE-2023-29489-scanner-)	<img alt="forks" src="https://img.shields.io/github/forks/Makurorororororororo/Validate-CVE-2023-29489-scanner-">	<img alt="stars" src="https://img.shields.io/github/stars/Makurorororororororo/Validate-CVE-2023-29489-scanner-">
+- [Praveenms13/CVE-2023-29489](https://github.com/Praveenms13/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Praveenms13/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Praveenms13/CVE-2023-29489">
+- [prasad-1808/tool-29489](https://github.com/prasad-1808/tool-29489)	<img alt="forks" src="https://img.shields.io/github/forks/prasad-1808/tool-29489">	<img alt="stars" src="https://img.shields.io/github/stars/prasad-1808/tool-29489">
 
 ---
 ## CVE-2023-29439 (2023-05-16T15:15:00)
