@@ -4099,6 +4099,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [hheeyywweellccoommee/CVE-2023-28252-djtiu](https://github.com/hheeyywweellccoommee/CVE-2023-28252-djtiu)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-28252-djtiu">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-28252-djtiu">
 - [Danasuley/CVE-2023-28252-](https://github.com/Danasuley/CVE-2023-28252-)	<img alt="forks" src="https://img.shields.io/github/forks/Danasuley/CVE-2023-28252-">	<img alt="stars" src="https://img.shields.io/github/stars/Danasuley/CVE-2023-28252-">
 - [bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252](https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252">
+- [duck-sec/CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe)	<img alt="forks" src="https://img.shields.io/github/forks/duck-sec/CVE-2023-28252-Compiled-exe">	<img alt="stars" src="https://img.shields.io/github/stars/duck-sec/CVE-2023-28252-Compiled-exe">
 
 ---
 ## CVE-2023-2825 (2023-05-26T21:15:00)
