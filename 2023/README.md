@@ -1327,6 +1327,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 ## CVE-2023-43317 ()
 > 
 - [amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317)	<img alt="forks" src="https://img.shields.io/github/forks/amjadali-110/CVE-2023-43317">	<img alt="stars" src="https://img.shields.io/github/stars/amjadali-110/CVE-2023-43317">
+- [amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317)	<img alt="forks" src="https://img.shields.io/github/forks/amjadali-110/CVE-2023-43317">	<img alt="stars" src="https://img.shields.io/github/stars/amjadali-110/CVE-2023-43317">
 
 ---
 ## CVE-2023-43284 (2023-10-05T20:15:00)
