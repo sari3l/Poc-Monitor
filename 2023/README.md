@@ -125,6 +125,17 @@
 - [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-5808">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-5808">
 
 ---
+## CVE-2023-5717 (2023-10-25T18:17:00)
+> A heap out-of-bounds write vulnerability in the Linux kernel's Linux Kernel Performance Events (perf) component can be exploited to achieve local privilege escalation.
+
+If perf_read_group() is called while an event's sibling_list is smaller than its child's sibling_list, it can increment or write to memory locations outside of the allocated buffer.
+
+We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
+
+
+- [uthrasri/CVE-2023-5717](https://github.com/uthrasri/CVE-2023-5717)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-5717">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-5717">
+
+---
 ## CVE-2023-5601 ()
 > 
 - [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5601-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5601-PoC">
@@ -5134,6 +5145,7 @@ For additional details, please see full advisory.
 - [Manh130902/CVE-2023-22527-POC](https://github.com/Manh130902/CVE-2023-22527-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Manh130902/CVE-2023-22527-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Manh130902/CVE-2023-22527-POC">
 - [VNCERT-CC/CVE-2023-22527-confluence](https://github.com/VNCERT-CC/CVE-2023-22527-confluence)	<img alt="forks" src="https://img.shields.io/github/forks/VNCERT-CC/CVE-2023-22527-confluence">	<img alt="stars" src="https://img.shields.io/github/stars/VNCERT-CC/CVE-2023-22527-confluence">
 - [Vozec/CVE-2023-22527](https://github.com/Vozec/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2023-22527">
+- [C1ph3rX13/CVE-2023-22527](https://github.com/C1ph3rX13/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
