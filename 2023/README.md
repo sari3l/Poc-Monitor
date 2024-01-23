@@ -135,7 +135,7 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 
 
 - [uthrasri/CVE-2023-5717](https://github.com/uthrasri/CVE-2023-5717)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-5717">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-5717">
-- [uthrasri/CVE-2023-5717_G3](https://github.com/uthrasri/CVE-2023-5717_G3)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-5717_G3">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-5717_G3">
+- [uthrasri/linux_4.19.72_CVE-2023-5717](https://github.com/uthrasri/linux_4.19.72_CVE-2023-5717)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/linux_4.19.72_CVE-2023-5717">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/linux_4.19.72_CVE-2023-5717">
 
 ---
 ## CVE-2023-5601 ()
