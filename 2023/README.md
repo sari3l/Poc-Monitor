@@ -1324,6 +1324,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43323">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43323">
 
 ---
+## CVE-2023-43317 ()
+> 
+- [amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317)	<img alt="forks" src="https://img.shields.io/github/forks/amjadali-110/CVE-2023-43317">	<img alt="stars" src="https://img.shields.io/github/stars/amjadali-110/CVE-2023-43317">
+
+---
 ## CVE-2023-43284 (2023-10-05T20:15:00)
 > An issue in D-Link Wireless MU-MIMO Gigabit AC1200 Router DIR-846 firmware version 100A53DBR-Retail allows a remote attacker to execute arbitrary code.
 - [MateusTesser/CVE-2023-43284](https://github.com/MateusTesser/CVE-2023-43284)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-43284">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-43284">
@@ -5126,6 +5131,7 @@ For additional details, please see full advisory.
 - [Drun1baby/CVE-2023-22527](https://github.com/Drun1baby/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Drun1baby/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Drun1baby/CVE-2023-22527">
 - [cleverg0d/CVE-2023-22527](https://github.com/cleverg0d/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/cleverg0d/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/cleverg0d/CVE-2023-22527">
 - [Manh130902/CVE-2023-22527-POC](https://github.com/Manh130902/CVE-2023-22527-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Manh130902/CVE-2023-22527-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Manh130902/CVE-2023-22527-POC">
+- [VNCERT-CC/CVE-2023-22527-confluence](https://github.com/VNCERT-CC/CVE-2023-22527-confluence)	<img alt="forks" src="https://img.shields.io/github/forks/VNCERT-CC/CVE-2023-22527-confluence">	<img alt="stars" src="https://img.shields.io/github/stars/VNCERT-CC/CVE-2023-22527-confluence">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
