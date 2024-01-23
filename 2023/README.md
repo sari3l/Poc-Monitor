@@ -1216,6 +1216,14 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [afine-com/CVE-2023-45184](https://github.com/afine-com/CVE-2023-45184)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-45184">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-45184">
 
 ---
+## CVE-2023-45182 (2023-12-14T14:15:00)
+> 
+IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is vulnerable to having its key for an encrypted password decoded. By somehow gaining access to the encrypted password, a local attacker could exploit this vulnerability to obtain the password to other systems. IBM X-Force ID: 268265.
+
+
+- [afine-com/CVE-2023-45182](https://github.com/afine-com/CVE-2023-45182)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-45182">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-45182">
+
+---
 ## CVE-2023-45158 (2023-10-16T08:15:00)
 > An OS command injection vulnerability exists in web2py 2.24.1 and earlier. When the product is configured to use notifySendHandler for logging (not the default configuration), a crafted web request may execute an arbitrary OS command on the web server using the product.
 - [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158)	<img alt="forks" src="https://img.shields.io/github/forks/Evan-Zhangyf/CVE-2023-45158">	<img alt="stars" src="https://img.shields.io/github/stars/Evan-Zhangyf/CVE-2023-45158">
