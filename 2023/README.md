@@ -36,6 +36,7 @@
 - [yoryio/CVE-2023-7028](https://github.com/yoryio/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-7028">
 - [Esonhugh/gitlab_honeypot](https://github.com/Esonhugh/gitlab_honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/Esonhugh/gitlab_honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/Esonhugh/gitlab_honeypot">
 - [TheRedDevil1/CVE-2023-7028](https://github.com/TheRedDevil1/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2023-7028">
+- [Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab](https://github.com/Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab">
 
 ---
 ## CVE-2023-6895 (2023-12-17T08:15:00)
