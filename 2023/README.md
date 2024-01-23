@@ -5147,6 +5147,7 @@ For additional details, please see full advisory.
 - [VNCERT-CC/CVE-2023-22527-confluence](https://github.com/VNCERT-CC/CVE-2023-22527-confluence)	<img alt="forks" src="https://img.shields.io/github/forks/VNCERT-CC/CVE-2023-22527-confluence">	<img alt="stars" src="https://img.shields.io/github/stars/VNCERT-CC/CVE-2023-22527-confluence">
 - [Vozec/CVE-2023-22527](https://github.com/Vozec/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2023-22527">
 - [C1ph3rX13/CVE-2023-22527](https://github.com/C1ph3rX13/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-22527">
+- [Niuwoo/CVE-2023-22527](https://github.com/Niuwoo/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Niuwoo/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Niuwoo/CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
