@@ -5125,6 +5125,7 @@ For additional details, please see full advisory.
 - [ga0we1/CVE-2023-22527_Confluence_RCE](https://github.com/ga0we1/CVE-2023-22527_Confluence_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ga0we1/CVE-2023-22527_Confluence_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ga0we1/CVE-2023-22527_Confluence_RCE">
 - [Drun1baby/CVE-2023-22527](https://github.com/Drun1baby/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Drun1baby/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Drun1baby/CVE-2023-22527">
 - [cleverg0d/CVE-2023-22527](https://github.com/cleverg0d/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/cleverg0d/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/cleverg0d/CVE-2023-22527">
+- [Manh130902/CVE-2023-22527-POC](https://github.com/Manh130902/CVE-2023-22527-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Manh130902/CVE-2023-22527-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Manh130902/CVE-2023-22527-POC">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
