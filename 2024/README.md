@@ -95,6 +95,7 @@
 ## CVE-2024-0204 (2024-01-22T18:15:00)
 > Authentication bypass in Fortra's GoAnywhere MFT prior to 7.4.1 allows an unauthorized user to create an admin user via the administration portal.
 - [horizon3ai/CVE-2024-0204](https://github.com/horizon3ai/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-0204">
+- [cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/cbeek-r7/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/cbeek-r7/CVE-2024-0204">
 
 ---
 ## CVE-2024-0193 (2024-01-02T18:15:00)
