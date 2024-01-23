@@ -1173,6 +1173,13 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
+## CVE-2023-45866 (2023-12-08T06:15:00)
+> Bluetooth HID Hosts in BlueZ may permit an unauthenticated Peripheral role HID Device to initiate and establish an encrypted connection, and accept HID keyboard reports, potentially permitting injection of HID messages when no user interaction has occurred in the Central role to authorize such access. An example affected package is bluez 5.64-0ubuntu1 in Ubuntu 22.04LTS. NOTE: in some cases, a CVE-2020-0556 mitigation would have already addressed this Bluetooth HID Hosts issue.
+- [jjjjjjjj987/cve-2023-45866-py](https://github.com/jjjjjjjj987/cve-2023-45866-py)	<img alt="forks" src="https://img.shields.io/github/forks/jjjjjjjj987/cve-2023-45866-py">	<img alt="stars" src="https://img.shields.io/github/stars/jjjjjjjj987/cve-2023-45866-py">
+- [pentestfunctions/BlueDucky](https://github.com/pentestfunctions/BlueDucky)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/BlueDucky">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/BlueDucky">
+- [Eason-zz/BluetoothDucky](https://github.com/Eason-zz/BluetoothDucky)	<img alt="forks" src="https://img.shields.io/github/forks/Eason-zz/BluetoothDucky">	<img alt="stars" src="https://img.shields.io/github/stars/Eason-zz/BluetoothDucky">
+
+---
 ## CVE-2023-45857 ()
 > 
 - [valentin-panov/CVE-2023-45857](https://github.com/valentin-panov/CVE-2023-45857)	<img alt="forks" src="https://img.shields.io/github/forks/valentin-panov/CVE-2023-45857">	<img alt="stars" src="https://img.shields.io/github/stars/valentin-panov/CVE-2023-45857">
