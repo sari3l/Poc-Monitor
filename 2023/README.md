@@ -5133,6 +5133,7 @@ For additional details, please see full advisory.
 - [cleverg0d/CVE-2023-22527](https://github.com/cleverg0d/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/cleverg0d/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/cleverg0d/CVE-2023-22527">
 - [Manh130902/CVE-2023-22527-POC](https://github.com/Manh130902/CVE-2023-22527-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Manh130902/CVE-2023-22527-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Manh130902/CVE-2023-22527-POC">
 - [VNCERT-CC/CVE-2023-22527-confluence](https://github.com/VNCERT-CC/CVE-2023-22527-confluence)	<img alt="forks" src="https://img.shields.io/github/forks/VNCERT-CC/CVE-2023-22527-confluence">	<img alt="stars" src="https://img.shields.io/github/stars/VNCERT-CC/CVE-2023-22527-confluence">
+- [Vozec/CVE-2023-22527](https://github.com/Vozec/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
