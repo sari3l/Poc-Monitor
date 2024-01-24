@@ -294,8 +294,8 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214)	<img alt="forks" src="https://img.shields.io/github/forks/chandraprarikraj/CVE-2023-51214">	<img alt="stars" src="https://img.shields.io/github/stars/chandraprarikraj/CVE-2023-51214">
 
 ---
-## CVE-2023-51208 ()
-> 
+## CVE-2023-51208 (2024-01-23T22:15:00)
+> An Arbitrary File Upload vulnerability in ROS2 Foxy Fitzroy ROS_VERSION=2 and ROS_PYTHON_VERSION=3 allows attackers to run arbitrary code and cause other impacts via upload of crafted file.
 - [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51208">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51208">
 
 ---
@@ -309,18 +309,18 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [16yashpatel/CVE-2023-51202](https://github.com/16yashpatel/CVE-2023-51202)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51202">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51202">
 
 ---
-## CVE-2023-51201 ()
-> 
+## CVE-2023-51201 (2024-01-23T22:15:00)
+> Cleartext Transmission issue in ROS2 (Robot Operating System 2) Foxy Fitzroy, with ROS_VERSION=2 and ROS_PYTHON_VERSION=3 allows attackers to access sensitive information via a man-in-the-middle attack.
 - [16yashpatel/CVE-2023-51201](https://github.com/16yashpatel/CVE-2023-51201)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51201">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51201">
 
 ---
-## CVE-2023-51200 ()
-> 
+## CVE-2023-51200 (2024-01-23T21:15:00)
+> An issue in the default configurations of ROS2 Foxy Fitzroy ROS_VERSION=2 and ROS_PYTHON_VERSION=3 allows unauthenticated attackers to authenticate using default credentials.
 - [16yashpatel/CVE-2023-51200](https://github.com/16yashpatel/CVE-2023-51200)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51200">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51200">
 
 ---
-## CVE-2023-51199 ()
-> 
+## CVE-2023-51199 (2024-01-23T22:15:00)
+> Buffer Overflow vulnerability in ROS2 Foxy Fitzroy ROS_VERSION=2 and ROS_PYTHON_VERSION=3 allows attackers to run arbitrary code or cause a denial of service via improper handling of arrays or strings.
 - [16yashpatel/CVE-2023-51199](https://github.com/16yashpatel/CVE-2023-51199)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51199">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51199">
 
 ---
