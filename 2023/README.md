@@ -780,8 +780,8 @@ Users are recommended to upgrade to version 18.12.10
 - [nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48198">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48198">
 
 ---
-## CVE-2023-48197 ()
-> 
+## CVE-2023-48197 (2023-11-15T23:15:00)
+> Cross-Site Scripting (XSS) vulnerability in the ‘manageApiKeys’ component of Grocy 4.0.3 and earlier allows attackers to obtain victim's cookies when the victim clicks on the "see QR code" function.
 - [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48197">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48197">
 
 ---
