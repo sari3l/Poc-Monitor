@@ -5172,6 +5172,7 @@ For additional details, please see full advisory.
 - [Niuwoo/CVE-2023-22527](https://github.com/Niuwoo/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Niuwoo/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Niuwoo/CVE-2023-22527">
 - [Chocapikk/CVE-2023-22527](https://github.com/Chocapikk/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-22527">
 - [sanjai-AK47/CVE-2023-22527](https://github.com/sanjai-AK47/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-22527">
+- [yoryio/CVE-2023-22527](https://github.com/yoryio/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
