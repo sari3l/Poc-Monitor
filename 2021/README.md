@@ -2763,6 +2763,7 @@
 - [LucasPDiniz/CVE-2021-4034](https://github.com/LucasPDiniz/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2021-4034">
 - [lluriam19/CVE-2021-4034-Vuln](https://github.com/lluriam19/CVE-2021-4034-Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/lluriam19/CVE-2021-4034-Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/lluriam19/CVE-2021-4034-Vuln">
 - [Pol-Ruiz/CVE-2021-4034](https://github.com/Pol-Ruiz/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Pol-Ruiz/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Pol-Ruiz/CVE-2021-4034">
+- [cerodah/CVE-2021-4034](https://github.com/cerodah/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/cerodah/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/cerodah/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
