@@ -24,6 +24,7 @@
 ## CVE-2024-22939 ()
 > 
 - [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939)	<img alt="forks" src="https://img.shields.io/github/forks/NUDTTAN91/CVE-2024-22939">	<img alt="stars" src="https://img.shields.io/github/stars/NUDTTAN91/CVE-2024-22939">
+- [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939)	<img alt="forks" src="https://img.shields.io/github/forks/NUDTTAN91/CVE-2024-22939">	<img alt="stars" src="https://img.shields.io/github/stars/NUDTTAN91/CVE-2024-22939">
 
 ---
 ## CVE-2024-22416 (2024-01-18T00:15:00)
