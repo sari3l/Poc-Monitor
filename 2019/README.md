@@ -2455,6 +2455,11 @@
 ## CVE-2019-12840 (2019-06-15T20:29:00)
 > In Webmin through 1.910, any user authorized to the "Package Updates" module can execute arbitrary commands with root privileges via the data parameter to update.cgi.
 - [Pol-Ruiz/PoC-CVE-2019-12840](https://github.com/Pol-Ruiz/PoC-CVE-2019-12840)	<img alt="forks" src="https://img.shields.io/github/forks/Pol-Ruiz/PoC-CVE-2019-12840">	<img alt="stars" src="https://img.shields.io/github/stars/Pol-Ruiz/PoC-CVE-2019-12840">
+- [WizzzStark/CVE-2019-12840.py](https://github.com/WizzzStark/CVE-2019-12840.py)	<img alt="forks" src="https://img.shields.io/github/forks/WizzzStark/CVE-2019-12840.py">	<img alt="stars" src="https://img.shields.io/github/stars/WizzzStark/CVE-2019-12840.py">
+- [zAbuQasem/CVE-2019-12840](https://github.com/zAbuQasem/CVE-2019-12840)	<img alt="forks" src="https://img.shields.io/github/forks/zAbuQasem/CVE-2019-12840">	<img alt="stars" src="https://img.shields.io/github/stars/zAbuQasem/CVE-2019-12840">
+- [anasbousselham/webminscan](https://github.com/anasbousselham/webminscan)	<img alt="forks" src="https://img.shields.io/github/forks/anasbousselham/webminscan">	<img alt="stars" src="https://img.shields.io/github/stars/anasbousselham/webminscan">
+- [KrE80r/webmin_cve-2019-12840_poc](https://github.com/KrE80r/webmin_cve-2019-12840_poc)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/webmin_cve-2019-12840_poc">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/webmin_cve-2019-12840_poc">
+- [bkaraceylan/CVE-2019-12840_POC](https://github.com/bkaraceylan/CVE-2019-12840_POC)	<img alt="forks" src="https://img.shields.io/github/forks/bkaraceylan/CVE-2019-12840_POC">	<img alt="stars" src="https://img.shields.io/github/stars/bkaraceylan/CVE-2019-12840_POC">
 
 ---
 ## CVE-2019-12836 (2019-06-21T15:15:00)
