@@ -27,6 +27,11 @@
 - [jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3314-3315">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3314-3315">
 
 ---
+## CVE-2024-22983 ()
+> 
+- [keru6k/CVE-2024-22983](https://github.com/keru6k/CVE-2024-22983)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22983">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22983">
+
+---
 ## CVE-2024-22939 ()
 > 
 - [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939)	<img alt="forks" src="https://img.shields.io/github/forks/NUDTTAN91/CVE-2024-22939">	<img alt="stars" src="https://img.shields.io/github/stars/NUDTTAN91/CVE-2024-22939">
