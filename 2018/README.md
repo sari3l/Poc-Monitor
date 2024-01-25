@@ -828,6 +828,11 @@
 - [Live-Hack-CVE/CVE-2018-19497](https://github.com/Live-Hack-CVE/CVE-2018-19497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19497">
 
 ---
+## CVE-2018-19410 (2018-11-21T16:29:00)
+> PRTG Network Monitor before 18.2.40.1683 allows remote unauthenticated attackers to create users with read-write privileges (including administrator). A remote unauthenticated user can craft an HTTP request and override attributes of the 'include' directive in /public/login.htm and perform a Local File Inclusion attack, by including /api/addusers and executing it. By providing the 'id' and 'users' parameters, an unauthenticated attacker can create a user with read-write privileges (including administrator).
+- [himash/CVE-2018-19410-POC](https://github.com/himash/CVE-2018-19410-POC)	<img alt="forks" src="https://img.shields.io/github/forks/himash/CVE-2018-19410-POC">	<img alt="stars" src="https://img.shields.io/github/stars/himash/CVE-2018-19410-POC">
+
+---
 ## CVE-2018-19321 (2018-12-21T23:29:00)
 > The GPCIDrv and GDrv low-level drivers in GIGABYTE APP Center v1.05.21 and earlier, AORUS GRAPHICS ENGINE before 1.57, XTREME GAMING ENGINE before 1.26, and OC GURU II v2.08 expose functionality to read and write arbitrary physical memory. This could be leveraged by a local attacker to elevate privileges.
 - [nanabingies/CVE-2018-19321](https://github.com/nanabingies/CVE-2018-19321)	<img alt="forks" src="https://img.shields.io/github/forks/nanabingies/CVE-2018-19321">	<img alt="stars" src="https://img.shields.io/github/stars/nanabingies/CVE-2018-19321">
