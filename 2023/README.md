@@ -5185,6 +5185,7 @@ For additional details, please see full advisory.
 - [sanjai-AK47/CVE-2023-22527](https://github.com/sanjai-AK47/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-22527">
 - [yoryio/CVE-2023-22527](https://github.com/yoryio/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2023-22527">
 - [Privia-Security/CVE-2023-22527](https://github.com/Privia-Security/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Privia-Security/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Privia-Security/CVE-2023-22527">
+- [MaanVader/CVE-2023-22527-POC](https://github.com/MaanVader/CVE-2023-22527-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-22527-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-22527-POC">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
