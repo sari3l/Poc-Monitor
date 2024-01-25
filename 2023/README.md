@@ -980,6 +980,7 @@ Users are recommended to upgrade to version 18.12.10
 - [seajaysec/Ivanti-Connect-Around-Scan](https://github.com/seajaysec/Ivanti-Connect-Around-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/seajaysec/Ivanti-Connect-Around-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/seajaysec/Ivanti-Connect-Around-Scan">
 - [mickdec/mickdec-CVE-2023-46805_CVE-2024-21887_scan_grouped](https://github.com/mickdec/mickdec-CVE-2023-46805_CVE-2024-21887_scan_grouped)	<img alt="forks" src="https://img.shields.io/github/forks/mickdec/mickdec-CVE-2023-46805_CVE-2024-21887_scan_grouped">	<img alt="stars" src="https://img.shields.io/github/stars/mickdec/mickdec-CVE-2023-46805_CVE-2024-21887_scan_grouped">
 - [mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped](https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped)	<img alt="forks" src="https://img.shields.io/github/forks/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped">	<img alt="stars" src="https://img.shields.io/github/stars/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped">
+- [w2xim3/CVE-2023-46805](https://github.com/w2xim3/CVE-2023-46805)	<img alt="forks" src="https://img.shields.io/github/forks/w2xim3/CVE-2023-46805">	<img alt="stars" src="https://img.shields.io/github/stars/w2xim3/CVE-2023-46805">
 
 ---
 ## CVE-2023-46747 (2023-10-26T21:15:00)
