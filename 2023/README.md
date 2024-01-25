@@ -1632,8 +1632,8 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41507">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41507">
 
 ---
-## CVE-2023-41474 ()
-> 
+## CVE-2023-41474 (2024-01-25T20:15:00)
+> Directory Traversal vulnerability in Ivanti Avalanche 6.3.4.153 allows a remote authenticated attacker to obtain sensitive information via the javax.faces.resource component.
 - [JBalanza/CVE-2023-41474](https://github.com/JBalanza/CVE-2023-41474)	<img alt="forks" src="https://img.shields.io/github/forks/JBalanza/CVE-2023-41474">	<img alt="stars" src="https://img.shields.io/github/stars/JBalanza/CVE-2023-41474">
 
 ---
