@@ -79,6 +79,11 @@
 - [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-22889-Plone-v6.0.9">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-22889-Plone-v6.0.9">
 
 ---
+## CVE-2024-22534 ()
+> 
+- [austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534)	<img alt="forks" src="https://img.shields.io/github/forks/austino2000/CVE-2024-22534">	<img alt="stars" src="https://img.shields.io/github/stars/austino2000/CVE-2024-22534">
+
+---
 ## CVE-2024-22416 (2024-01-18T00:15:00)
 > pyLoad is a free and open-source Download Manager written in pure Python. The `pyload` API allows any API call to be made using GET requests. Since the session cookie is not set to `SameSite: strict`, this opens the library up to severe attack possibilities via a Cross-Site Request Forgery (CSRF) attack. As a result any API call can be made via a CSRF attack by an unauthenticated user. This issue has been addressed in release `0.5.0b3.dev78`. All users are advised to upgrade.
 - [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416)	<img alt="forks" src="https://img.shields.io/github/forks/mindstorm38/ensimag-secu3a-cve-2024-22416">	<img alt="stars" src="https://img.shields.io/github/stars/mindstorm38/ensimag-secu3a-cve-2024-22416">
