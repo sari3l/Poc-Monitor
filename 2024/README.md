@@ -27,6 +27,21 @@
 - [jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3314-3315">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3314-3315">
 
 ---
+## CVE-2024-23743 ()
+> 
+- [V3x0r/CVE-2024-23743](https://github.com/V3x0r/CVE-2024-23743)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23743">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23743">
+
+---
+## CVE-2024-23742 ()
+> 
+- [V3x0r/CVE-2024-23742](https://github.com/V3x0r/CVE-2024-23742)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23742">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23742">
+
+---
+## CVE-2024-23741 ()
+> 
+- [V3x0r/CVE-2024-23741](https://github.com/V3x0r/CVE-2024-23741)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23741">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23741">
+
+---
 ## CVE-2024-23740 ()
 > 
 - [V3x0r/CVE-2024-23740](https://github.com/V3x0r/CVE-2024-23740)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23740">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23740">
@@ -35,6 +50,7 @@
 ## CVE-2024-23739 ()
 > 
 - [V3x0r/CVE-2024-23739](https://github.com/V3x0r/CVE-2024-23739)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23739">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23739">
+- [V3x0r/CVE-2024-23740](https://github.com/V3x0r/CVE-2024-23740)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23740">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23740">
 
 ---
 ## CVE-2024-23738 ()
