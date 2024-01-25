@@ -140,6 +140,16 @@
 - [xiaoqiao147/CVE-2024-20654](https://github.com/xiaoqiao147/CVE-2024-20654)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-20654">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-20654">
 
 ---
+## CVE-2024-0846 ()
+> 
+- [0x9567b/CVE-2024-0846](https://github.com/0x9567b/CVE-2024-0846)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0846">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0846">
+
+---
+## CVE-2024-0844 ()
+> 
+- [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0844">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0844">
+
+---
 ## CVE-2024-0679 (2024-01-20T06:15:00)
 > The ColorMag theme for WordPress is vulnerable to unauthorized access due to a missing capability check on the plugin_action_callback() function in all versions up to, and including, 3.1.2. This makes it possible for authenticated attackers, with subscriber-level access and above, to install and activate arbitrary plugins.
 - [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-0679">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-0679">
