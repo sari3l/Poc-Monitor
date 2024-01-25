@@ -2452,6 +2452,11 @@
 - [ahaShiyu/CVE-2019-12874](https://github.com/ahaShiyu/CVE-2019-12874)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-12874">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-12874">
 
 ---
+## CVE-2019-12840 (2019-06-15T20:29:00)
+> In Webmin through 1.910, any user authorized to the "Package Updates" module can execute arbitrary commands with root privileges via the data parameter to update.cgi.
+- [Pol-Ruiz/PoC-CVE-2019-12840](https://github.com/Pol-Ruiz/PoC-CVE-2019-12840)	<img alt="forks" src="https://img.shields.io/github/forks/Pol-Ruiz/PoC-CVE-2019-12840">	<img alt="stars" src="https://img.shields.io/github/stars/Pol-Ruiz/PoC-CVE-2019-12840">
+
+---
 ## CVE-2019-12836 (2019-06-21T15:15:00)
 > The Bobronix JEditor editor before 3.0.6 for Jira allows an attacker to add a URL/Link (to an existing issue) that can cause forgery of a request to an out-of-origin domain. This in turn may allow for a forged request that can be invoked in the context of an authenticated user, leading to stealing of session tokens and account takeover.
 - [9lyph/CVE-2019-12836](https://github.com/9lyph/CVE-2019-12836)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2019-12836">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2019-12836">
