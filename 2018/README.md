@@ -359,6 +359,12 @@
 - [Live-Hack-CVE/CVE-2018-5332](https://github.com/Live-Hack-CVE/CVE-2018-5332)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5332">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5332">
 
 ---
+## CVE-2018-5158 (2018-06-11T21:29:00)
+> The PDF viewer does not sufficiently sanitize PostScript calculator functions, allowing malicious JavaScript to be injected through a crafted PDF file. This JavaScript can then be run with the permissions of the PDF viewer by its worker. This vulnerability affects Firefox ESR < 52.8 and Firefox < 60.
+- [puzzle-tools/-CVE-2018-5158.pdf](https://github.com/puzzle-tools/-CVE-2018-5158.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/puzzle-tools/-CVE-2018-5158.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/puzzle-tools/-CVE-2018-5158.pdf">
+- [ppcrab/CVE-2018-5158](https://github.com/ppcrab/CVE-2018-5158)	<img alt="forks" src="https://img.shields.io/github/forks/ppcrab/CVE-2018-5158">	<img alt="stars" src="https://img.shields.io/github/stars/ppcrab/CVE-2018-5158">
+
+---
 ## CVE-2018-4937 (2018-05-19T17:29:00)
 > Adobe Flash Player versions 29.0.0.113 and earlier have an exploitable out-of-bounds write vulnerability. Successful exploitation could lead to arbitrary code execution in the context of the current user.
 - [Live-Hack-CVE/CVE-2018-4937](https://github.com/Live-Hack-CVE/CVE-2018-4937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-4937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-4937">
