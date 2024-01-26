@@ -195,8 +195,8 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/angkerithhack001/CVE-2023-5360-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/angkerithhack001/CVE-2023-5360-PoC">
 
 ---
-## CVE-2023-52251 ()
-> 
+## CVE-2023-52251 (2024-01-25T21:15:00)
+> An issue discovered in provectus kafka-ui 0.4.0 through 0.7.1 allows remote attackers to execute arbitrary code via the q parameter of /api/clusters/local/topics/{topic}/messages.
 - [BobTheShoplifter/CVE-2023-52251-POC](https://github.com/BobTheShoplifter/CVE-2023-52251-POC)	<img alt="forks" src="https://img.shields.io/github/forks/BobTheShoplifter/CVE-2023-52251-POC">	<img alt="stars" src="https://img.shields.io/github/stars/BobTheShoplifter/CVE-2023-52251-POC">
 
 ---

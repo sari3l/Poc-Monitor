@@ -27,6 +27,16 @@
 - [jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3314-3315">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3314-3315">
 
 ---
+## CVE-2024-23747 ()
+> 
+- [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23747">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23747">
+
+---
+## CVE-2024-23746 ()
+> 
+- [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23746">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23746">
+
+---
 ## CVE-2024-23745 ()
 > 
 - [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23745">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23745">
@@ -74,8 +84,8 @@
 - [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939)	<img alt="forks" src="https://img.shields.io/github/forks/NUDTTAN91/CVE-2024-22939">	<img alt="stars" src="https://img.shields.io/github/stars/NUDTTAN91/CVE-2024-22939">
 
 ---
-## CVE-2024-22922 ()
-> 
+## CVE-2024-22922 (2024-01-25T22:15:00)
+> An issue in Projectworlds Vistor Management Systemin PHP v.1.0 allows a remtoe attacker to escalate privileges via a crafted script to the login page in the POST/index.php
 - [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22922">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22922">
 
 ---
