@@ -27,6 +27,7 @@
 - [jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3314-3315">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3314-3315">
 - [binganao/CVE-2024-23897](https://github.com/binganao/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/binganao/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/binganao/CVE-2024-23897">
 - [h4x0r-dz/CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-23897">
+- [xaitax/CVE-2024-23897](https://github.com/xaitax/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/CVE-2024-23897">
 
 ---
 ## CVE-2024-23747 ()
