@@ -97,6 +97,11 @@
 - [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22922">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22922">
 
 ---
+## CVE-2024-22894 ()
+> 
+- [Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894)	<img alt="forks" src="https://img.shields.io/github/forks/Jaarden/CVE-2024-22894">	<img alt="stars" src="https://img.shields.io/github/stars/Jaarden/CVE-2024-22894">
+
+---
 ## CVE-2024-22889 ()
 > 
 - [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-22889-Plone-v6.0.9">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-22889-Plone-v6.0.9">
