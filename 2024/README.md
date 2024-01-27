@@ -29,6 +29,7 @@
 - [h4x0r-dz/CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-23897">
 - [xaitax/CVE-2024-23897](https://github.com/xaitax/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/CVE-2024-23897">
 - [vmtyan/poc-cve-2024-23897](https://github.com/vmtyan/poc-cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/vmtyan/poc-cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/vmtyan/poc-cve-2024-23897">
+- [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-23897">
 
 ---
 ## CVE-2024-23747 ()
