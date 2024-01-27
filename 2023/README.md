@@ -4191,6 +4191,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [glavstroy/CVE-2023-28231](https://github.com/glavstroy/CVE-2023-28231)	<img alt="forks" src="https://img.shields.io/github/forks/glavstroy/CVE-2023-28231">	<img alt="stars" src="https://img.shields.io/github/stars/glavstroy/CVE-2023-28231">
 - [glencooper872/excel-zero-day-exploit](https://github.com/glencooper872/excel-zero-day-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/glencooper872/excel-zero-day-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/glencooper872/excel-zero-day-exploit">
 - [glencooper872/tightvnc-zeroday-exploit-auth-bypass](https://github.com/glencooper872/tightvnc-zeroday-exploit-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/glencooper872/tightvnc-zeroday-exploit-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/glencooper872/tightvnc-zeroday-exploit-auth-bypass">
+- [ICML8/CVE-2023-28231](https://github.com/ICML8/CVE-2023-28231)	<img alt="forks" src="https://img.shields.io/github/forks/ICML8/CVE-2023-28231">	<img alt="stars" src="https://img.shields.io/github/stars/ICML8/CVE-2023-28231">
 
 ---
 ## CVE-2023-28229 (2023-04-11T21:15:00)
