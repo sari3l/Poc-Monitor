@@ -3362,6 +3362,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hau-zy/KeePass-dump-py](https://github.com/hau-zy/KeePass-dump-py)	<img alt="forks" src="https://img.shields.io/github/forks/hau-zy/KeePass-dump-py">	<img alt="stars" src="https://img.shields.io/github/stars/hau-zy/KeePass-dump-py">
 - [dawnl3ss/CVE-2023-32784](https://github.com/dawnl3ss/CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/dawnl3ss/CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/dawnl3ss/CVE-2023-32784">
 - [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/ValentinPundikov/poc-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/ValentinPundikov/poc-CVE-2023-32784">
+- [1ocho3/NCL_V](https://github.com/1ocho3/NCL_V)	<img alt="forks" src="https://img.shields.io/github/forks/1ocho3/NCL_V">	<img alt="stars" src="https://img.shields.io/github/stars/1ocho3/NCL_V">
 
 ---
 ## CVE-2023-32707 (2023-06-01T17:15:00)
