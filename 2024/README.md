@@ -34,6 +34,7 @@
 - [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2024-23897">
 - [iota4/PoC-jenkins-rce_CVE-2024-23897](https://github.com/iota4/PoC-jenkins-rce_CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/iota4/PoC-jenkins-rce_CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/iota4/PoC-jenkins-rce_CVE-2024-23897">
 - [wjlin0/CVE-2024-23897](https://github.com/wjlin0/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wjlin0/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wjlin0/CVE-2024-23897">
+- [wjlin0/CVE-2024-23897](https://github.com/wjlin0/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wjlin0/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wjlin0/CVE-2024-23897">
 
 ---
 ## CVE-2024-23747 ()
