@@ -877,6 +877,11 @@ Users are recommended to upgrade to version 18.12.10
 - [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741)	<img alt="forks" src="https://img.shields.io/github/forks/wudidike/CVE-2023-4741">	<img alt="stars" src="https://img.shields.io/github/stars/wudidike/CVE-2023-4741">
 
 ---
+## CVE-2023-47400 ()
+> 
+- [LucasVanHaaren/CVE-2023-47400](https://github.com/LucasVanHaaren/CVE-2023-47400)	<img alt="forks" src="https://img.shields.io/github/forks/LucasVanHaaren/CVE-2023-47400">	<img alt="stars" src="https://img.shields.io/github/stars/LucasVanHaaren/CVE-2023-47400">
+
+---
 ## CVE-2023-47246 ()
 > 
 - [ex0day/CVE-2023-47246](https://github.com/ex0day/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/ex0day/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/ex0day/CVE-2023-47246">
