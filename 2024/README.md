@@ -53,34 +53,34 @@
 - [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23745">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23745">
 
 ---
-## CVE-2024-23743 ()
-> 
+## CVE-2024-23743 (2024-01-28T02:15:00)
+> An issue in Notion for macOS version 3.1.0 and before, allows remote attackers to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments components.
 - [V3x0r/CVE-2024-23743](https://github.com/V3x0r/CVE-2024-23743)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23743">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23743">
 
 ---
-## CVE-2024-23742 ()
-> 
+## CVE-2024-23742 (2024-01-28T03:15:00)
+> An issue in Loom on macOS version 0.196.1 and before, allows remote attackers to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments settings.
 - [V3x0r/CVE-2024-23742](https://github.com/V3x0r/CVE-2024-23742)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23742">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23742">
 
 ---
-## CVE-2024-23741 ()
-> 
+## CVE-2024-23741 (2024-01-28T03:15:00)
+> An issue in Hyper on macOS version 3.4.1 and before, allows remote attackers to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments settings.
 - [V3x0r/CVE-2024-23741](https://github.com/V3x0r/CVE-2024-23741)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23741">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23741">
 
 ---
-## CVE-2024-23740 ()
-> 
+## CVE-2024-23740 (2024-01-28T04:15:00)
+> An issue in Kap for macOS version 3.6.0 and before, allows remote attackers to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments settings.
 - [V3x0r/CVE-2024-23740](https://github.com/V3x0r/CVE-2024-23740)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23740">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23740">
 
 ---
-## CVE-2024-23739 ()
-> 
+## CVE-2024-23739 (2024-01-28T03:15:00)
+> An issue in Discord for macOS version 0.0.291 and before, allows remote attackers to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments settings.
 - [V3x0r/CVE-2024-23739](https://github.com/V3x0r/CVE-2024-23739)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23739">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23739">
 - [V3x0r/CVE-2024-23740](https://github.com/V3x0r/CVE-2024-23740)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23740">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23740">
 
 ---
-## CVE-2024-23738 ()
-> 
+## CVE-2024-23738 (2024-01-28T01:15:00)
+> An issue in Postman version 10.22 and before on macOS allows a remote attacker to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments settings.
 - [V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23738">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23738">
 
 ---
