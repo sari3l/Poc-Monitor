@@ -1231,6 +1231,7 @@
 ## CVE-2019-3398 (2019-04-18T18:29:00)
 > Confluence Server and Data Center had a path traversal vulnerability in the downloadallattachments resource. A remote attacker who has permission to add attachments to pages and / or blogs or to create a new space or a personal space or who has 'Admin' permissions for a space can exploit this path traversal vulnerability to write files to arbitrary locations which can lead to remote code execution on systems that run a vulnerable version of Confluence Server or Data Center. All versions of Confluence Server from 2.0.0 before 6.6.13 (the fixed version for 6.6.x), from 6.7.0 before 6.12.4 (the fixed version for 6.12.x), from 6.13.0 before 6.13.4 (the fixed version for 6.13.x), from 6.14.0 before 6.14.3 (the fixed version for 6.14.x), and from 6.15.0 before 6.15.2 are affected by this vulnerability.
 - [132231g/CVE-2019-3398](https://github.com/132231g/CVE-2019-3398)	<img alt="forks" src="https://img.shields.io/github/forks/132231g/CVE-2019-3398">	<img alt="stars" src="https://img.shields.io/github/stars/132231g/CVE-2019-3398">
+- [superevr/cve-2019-3398](https://github.com/superevr/cve-2019-3398)	<img alt="forks" src="https://img.shields.io/github/forks/superevr/cve-2019-3398">	<img alt="stars" src="https://img.shields.io/github/stars/superevr/cve-2019-3398">
 
 ---
 ## CVE-2019-2983 (2019-10-16T18:15:00)
