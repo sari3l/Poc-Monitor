@@ -42,8 +42,8 @@
 - [jopraveen/CVE-2024-23897](https://github.com/jopraveen/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/jopraveen/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/jopraveen/CVE-2024-23897">
 
 ---
-## CVE-2024-23747 ()
-> 
+## CVE-2024-23747 (2024-01-29T14:15:00)
+> The Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability. This vulnerability resides in the system's handling of user data access through a /Modernanet/LAUDO/LAU0000100/Laudo?id= URI. By manipulating this id parameter, an attacker can gain access to sensitive medical information.
 - [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23747">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23747">
 
 ---
