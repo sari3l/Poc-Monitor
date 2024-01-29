@@ -646,8 +646,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [3zizme/CVE-2023-49339](https://github.com/3zizme/CVE-2023-49339)	<img alt="forks" src="https://img.shields.io/github/forks/3zizme/CVE-2023-49339">	<img alt="stars" src="https://img.shields.io/github/stars/3zizme/CVE-2023-49339">
 
 ---
-## CVE-2023-49314 ()
-> 
+## CVE-2023-49314 (2023-11-28T15:15:00)
+> Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and EnableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack.
 - [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2023-49314">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2023-49314">
 
 ---
