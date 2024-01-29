@@ -2479,6 +2479,7 @@ prior to
 - [ditekshen/ansible-cve-2023-36845](https://github.com/ditekshen/ansible-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ditekshen/ansible-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ditekshen/ansible-cve-2023-36845">
 - [WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845](https://github.com/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845">
 - [WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845](https://github.com/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845">
+- [Asbawy/Automation-for-Juniper-cve-2023-36845](https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/Asbawy/Automation-for-Juniper-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/Asbawy/Automation-for-Juniper-cve-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
