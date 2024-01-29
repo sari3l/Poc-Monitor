@@ -38,6 +38,7 @@
 - [Vozec/CVE-2024-23897](https://github.com/Vozec/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2024-23897">
 - [raheel0x01/CVE-2024-23897](https://github.com/raheel0x01/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2024-23897">
 - [viszsec/CVE-2024-23897](https://github.com/viszsec/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/viszsec/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/viszsec/CVE-2024-23897">
+- [huyqa/cve-2024-23897](https://github.com/huyqa/cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/huyqa/cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/huyqa/cve-2024-23897">
 
 ---
 ## CVE-2024-23747 ()
