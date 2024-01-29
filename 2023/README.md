@@ -2807,6 +2807,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 ## CVE-2023-35636 (2023-12-12T18:15:00)
 > Microsoft Outlook Information Disclosure Vulnerability
 - [duy-31/CVE-2023-35636-old](https://github.com/duy-31/CVE-2023-35636-old)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-35636-old">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-35636-old">
+- [duy-31/CVE-2023-35636](https://github.com/duy-31/CVE-2023-35636)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-35636">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-35636">
 
 ---
 ## CVE-2023-3519 (2023-07-19T18:15:00)
