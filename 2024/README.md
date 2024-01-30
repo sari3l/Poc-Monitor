@@ -104,8 +104,8 @@
 - [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22922">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22922">
 
 ---
-## CVE-2024-22894 ()
-> 
+## CVE-2024-22894 (2024-01-30T10:15:00)
+> An issue in AIT-Deutschland Alpha Innotec Heatpumps wp2reg-V.3.88.0-9015 and Novelan Heatpumps wp2reg-V.3.88.0-9015, allows remote attackers to execute arbitrary code via the password component in the shadow file.
 - [Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894)	<img alt="forks" src="https://img.shields.io/github/forks/Jaarden/CVE-2024-22894">	<img alt="stars" src="https://img.shields.io/github/stars/Jaarden/CVE-2024-22894">
 
 ---
