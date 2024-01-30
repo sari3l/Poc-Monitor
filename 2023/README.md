@@ -69,6 +69,11 @@
 - [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710)	<img alt="forks" src="https://img.shields.io/github/forks/DedSec-47/Metasploit-Exploits-CVE-2023-6710">	<img alt="stars" src="https://img.shields.io/github/stars/DedSec-47/Metasploit-Exploits-CVE-2023-6710">
 
 ---
+## CVE-2023-6700 ()
+> 
+- [RandomRobbieBF/CVE-2023-6700](https://github.com/RandomRobbieBF/CVE-2023-6700)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6700">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6700">
+
+---
 ## CVE-2023-66975 ()
 > 
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
