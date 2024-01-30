@@ -318,13 +318,13 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51208">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51208">
 
 ---
-## CVE-2023-51204 ()
-> 
+## CVE-2023-51204 (2024-01-30T22:15:00)
+> Insecure deserialization in ROS2 Foxy Fitzroy ROS_VERSION=2 and ROS_PYTHON_VERSION=3 allows attackers to execute arbitrary code via a crafted input.
 - [16yashpatel/CVE-2023-51204](https://github.com/16yashpatel/CVE-2023-51204)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51204">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51204">
 
 ---
-## CVE-2023-51202 ()
-> 
+## CVE-2023-51202 (2024-01-30T22:15:00)
+> OS command injection vulnerability in command processing or system call componentsROS2 (Robot Operating System 2) Foxy Fitzroy, with ROS_VERSION=2 and ROS_PYTHON_VERSION=3 allows attackers to run arbitrary commands.
 - [16yashpatel/CVE-2023-51202](https://github.com/16yashpatel/CVE-2023-51202)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51202">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51202">
 
 ---
@@ -343,13 +343,13 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [16yashpatel/CVE-2023-51199](https://github.com/16yashpatel/CVE-2023-51199)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51199">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51199">
 
 ---
-## CVE-2023-51198 ()
-> 
+## CVE-2023-51198 (2024-01-30T22:15:00)
+> An issue in the permission and access control components within ROS2 Foxy Fitzroy ROS_VERSION=2 and ROS_PYTHON_VERSION=3 allows attackers to gain escalate privileges.
 - [16yashpatel/CVE-2023-51198](https://github.com/16yashpatel/CVE-2023-51198)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51198">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51198">
 
 ---
-## CVE-2023-51197 ()
-> 
+## CVE-2023-51197 (2024-01-30T22:15:00)
+> An issue discovered in shell command execution in ROS2 (Robot Operating System 2) Foxy Fitzroy, with ROS_VERSION=2 and ROS_PYTHON_VERSION=3 allows an attacker to run arbitrary commands and cause other impacts.
 - [16yashpatel/CVE-2023-51197](https://github.com/16yashpatel/CVE-2023-51197)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-51197">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-51197">
 
 ---
