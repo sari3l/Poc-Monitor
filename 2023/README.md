@@ -714,8 +714,8 @@ Users are recommended to upgrade to version 18.12.10
 - [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-49052">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-49052">
 
 ---
-## CVE-2023-49038 ()
-> 
+## CVE-2023-49038 (2024-01-29T21:15:00)
+> Command injection in the ping utility on Buffalo LS210D 1.78-0.03 allows a remote authenticated attacker to inject arbitrary commands onto the NAS as root.
 - [christopher-pace/CVE-2023-49038](https://github.com/christopher-pace/CVE-2023-49038)	<img alt="forks" src="https://img.shields.io/github/forks/christopher-pace/CVE-2023-49038">	<img alt="stars" src="https://img.shields.io/github/stars/christopher-pace/CVE-2023-49038">
 
 ---
