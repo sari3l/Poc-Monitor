@@ -21,6 +21,21 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-24139 (2024-01-29T20:15:00)
+> Sourcecodester Login System with Email Verification 1.0 allows SQL Injection via the 'user' parameter.
+- [BurakSevben/CVE-2024-24139](https://github.com/BurakSevben/CVE-2024-24139)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24139">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24139">
+
+---
+## CVE-2024-24138 ()
+> 
+- [BurakSevben/CVE-2024-24138](https://github.com/BurakSevben/CVE-2024-24138)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24138">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24138">
+
+---
+## CVE-2024-24137 ()
+> 
+- [BurakSevben/CVE-2024-24137](https://github.com/BurakSevben/CVE-2024-24137)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24137">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24137">
+
+---
 ## CVE-2024-24136 (2024-01-29T20:15:00)
 > The 'Your Name' field in the Submit Score section of Sourcecodester Math Game with Leaderboard v1.0 is vulnerable to Cross-Site Scripting (XSS) attacks.
 - [BurakSevben/CVE-2024-24136](https://github.com/BurakSevben/CVE-2024-24136)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24136">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24136">
