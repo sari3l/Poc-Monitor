@@ -21,6 +21,11 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-24140 (2024-01-29T20:15:00)
+> Sourcecodester Daily Habit Tracker App 1.0 allows SQL Injection via the parameter 'tracker.'
+- [BurakSevben/CVE-2024-24140](https://github.com/BurakSevben/CVE-2024-24140)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24140">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24140">
+
+---
 ## CVE-2024-24139 (2024-01-29T20:15:00)
 > Sourcecodester Login System with Email Verification 1.0 allows SQL Injection via the 'user' parameter.
 - [BurakSevben/CVE-2024-24139](https://github.com/BurakSevben/CVE-2024-24139)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24139">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24139">
