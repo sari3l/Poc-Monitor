@@ -2173,6 +2173,11 @@ URL that curl has been told to operate with.
 - [TraiLeR2/CVE-2023-37800](https://github.com/TraiLeR2/CVE-2023-37800)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-37800">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-37800">
 
 ---
+## CVE-2023-37790 ()
+> 
+- [kaizensecurity/CVE-2023-37790](https://github.com/kaizensecurity/CVE-2023-37790)	<img alt="forks" src="https://img.shields.io/github/forks/kaizensecurity/CVE-2023-37790">	<img alt="stars" src="https://img.shields.io/github/stars/kaizensecurity/CVE-2023-37790">
+
+---
 ## CVE-2023-37786 (2023-07-13T17:15:00)
 > Multiple cross-site scripting (XSS) vulnerabilities in Geeklog v2.2.2 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Mail Settings[backend], Mail Settings[host], Mail Settings[port] and Mail Settings[auth] parameters of the /admin/configuration.php.
 - [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786)	<img alt="forks" src="https://img.shields.io/github/forks/Phamchie/CVE-2023-37786">	<img alt="stars" src="https://img.shields.io/github/stars/Phamchie/CVE-2023-37786">
