@@ -120,6 +120,11 @@
 - [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063)	<img alt="forks" src="https://img.shields.io/github/forks/thesafdari/CVE-2023-6063">	<img alt="stars" src="https://img.shields.io/github/stars/thesafdari/CVE-2023-6063">
 
 ---
+## CVE-2023-6036 ()
+> 
+- [pctripsesp/CVE-2023-6036](https://github.com/pctripsesp/CVE-2023-6036)	<img alt="forks" src="https://img.shields.io/github/forks/pctripsesp/CVE-2023-6036">	<img alt="stars" src="https://img.shields.io/github/stars/pctripsesp/CVE-2023-6036">
+
+---
 ## CVE-2023-5966 ()
 > 
 - [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5966">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5966">
