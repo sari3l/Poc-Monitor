@@ -5855,6 +5855,7 @@
 - [maldev866/ChExp_CVE-2021-30632](https://github.com/maldev866/ChExp_CVE-2021-30632)	<img alt="forks" src="https://img.shields.io/github/forks/maldev866/ChExp_CVE-2021-30632">	<img alt="stars" src="https://img.shields.io/github/stars/maldev866/ChExp_CVE-2021-30632">
 - [CrackerCat/CVE-2021-30632](https://github.com/CrackerCat/CVE-2021-30632)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2021-30632">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2021-30632">
 - [Phuong39/PoC-CVE-2021-30632](https://github.com/Phuong39/PoC-CVE-2021-30632)	<img alt="forks" src="https://img.shields.io/github/forks/Phuong39/PoC-CVE-2021-30632">	<img alt="stars" src="https://img.shields.io/github/stars/Phuong39/PoC-CVE-2021-30632">
+- [paulsery/CVE-2021-30632](https://github.com/paulsery/CVE-2021-30632)	<img alt="forks" src="https://img.shields.io/github/forks/paulsery/CVE-2021-30632">	<img alt="stars" src="https://img.shields.io/github/stars/paulsery/CVE-2021-30632">
 
 ---
 ## CVE-2021-3060 (2021-11-10T17:15:00)
