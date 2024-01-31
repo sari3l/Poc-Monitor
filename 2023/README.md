@@ -130,6 +130,13 @@
 - [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5965">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5965">
 
 ---
+## CVE-2023-5961 (2023-12-23T09:15:00)
+> A Cross-Site Request Forgery (CSRF) vulnerability has been identified in ioLogik E1200 Series firmware versions v3.3 and prior. An attacker can exploit this vulnerability to trick a client into making an unintentional request to the web server, which will be treated as an authentic request. This vulnerability may lead an attacker to perform operations on behalf of the victimized user.
+
+
+- [HadessCS/CVE-2023-5961](https://github.com/HadessCS/CVE-2023-5961)	<img alt="forks" src="https://img.shields.io/github/forks/HadessCS/CVE-2023-5961">	<img alt="stars" src="https://img.shields.io/github/stars/HadessCS/CVE-2023-5961">
+
+---
 ## CVE-2023-5843 (2023-10-30T14:15:00)
 > The Ads by datafeedr.com plugin for WordPress is vulnerable to Remote Code Execution in versions up to, and including, 1.1.3 via the 'dfads_ajax_load_ads' function. This allows unauthenticated attackers to execute code on the server. The parameters of the callable function are limited, they cannot be specified arbitrarily.
 - [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5843-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5843-PoC">
