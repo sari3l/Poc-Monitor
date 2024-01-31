@@ -562,6 +562,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/CVE-2023-49954/CVE-2023-49954.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/CVE-2023-49954/CVE-2023-49954.github.io">
 
 ---
+## CVE-2023-49950 ()
+> 
+- [shrikeinfosec/cve-2023-49950](https://github.com/shrikeinfosec/cve-2023-49950)	<img alt="forks" src="https://img.shields.io/github/forks/shrikeinfosec/cve-2023-49950">	<img alt="stars" src="https://img.shields.io/github/stars/shrikeinfosec/cve-2023-49950">
+
+---
 ## CVE-2023-49948 ()
 > 
 - [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-49948-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-49948-PoC">
@@ -1743,6 +1748,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [whalersplonk/CVE-2023-40477](https://github.com/whalersplonk/CVE-2023-40477)	<img alt="forks" src="https://img.shields.io/github/forks/whalersplonk/CVE-2023-40477">	<img alt="stars" src="https://img.shields.io/github/stars/whalersplonk/CVE-2023-40477">
 - [wildptr-io/Winrar-CVE-2023-40477-POC](https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC)	<img alt="forks" src="https://img.shields.io/github/forks/wildptr-io/Winrar-CVE-2023-40477-POC">	<img alt="stars" src="https://img.shields.io/github/stars/wildptr-io/Winrar-CVE-2023-40477-POC">
 - [winkler-winsen/Scan_WinRAR](https://github.com/winkler-winsen/Scan_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_WinRAR">
+
+---
+## CVE-2023-40459 ()
+> 
+- [majidmc2/CVE-2023-40459](https://github.com/majidmc2/CVE-2023-40459)	<img alt="forks" src="https://img.shields.io/github/forks/majidmc2/CVE-2023-40459">	<img alt="stars" src="https://img.shields.io/github/stars/majidmc2/CVE-2023-40459">
 
 ---
 ## CVE-2023-40429 (2023-09-27T15:19:00)
