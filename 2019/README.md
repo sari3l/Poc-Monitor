@@ -2420,6 +2420,7 @@
 - [bigbigliang-malwarebenchmark/cve-2019-13272](https://github.com/bigbigliang-malwarebenchmark/cve-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/bigbigliang-malwarebenchmark/cve-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/bigbigliang-malwarebenchmark/cve-2019-13272">
 - [jas502n/CVE-2019-13272](https://github.com/jas502n/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-13272">
 - [Cyc1eC/CVE-2019-13272](https://github.com/Cyc1eC/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/Cyc1eC/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/Cyc1eC/CVE-2019-13272">
+- [MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation](https://github.com/MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation">
 
 ---
 ## CVE-2019-13120 (2019-10-07T22:15:00)
