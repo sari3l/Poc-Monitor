@@ -262,6 +262,11 @@
 - [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-0679">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-0679">
 
 ---
+## CVE-2024-0402 (2024-01-26T01:15:00)
+> An issue has been discovered in GitLab CE/EE affecting all versions from 16.0 prior to 16.6.6, 16.7 prior to 16.7.4, and 16.8 prior to 16.8.1 which allows an authenticated user to write files to arbitrary locations on the GitLab server while creating a workspace.
+- [ch4nui/CVE-2024-0402-RCE](https://github.com/ch4nui/CVE-2024-0402-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ch4nui/CVE-2024-0402-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ch4nui/CVE-2024-0402-RCE">
+
+---
 ## CVE-2024-0252 (2024-01-11T08:15:00)
 > ManageEngine ADSelfService Plus versions 6401 and below are vulnerable to the remote code execution due to the improper handling in the load balancer component. Authentication is required in order to exploit this vulnerability.
 - [forsaken0128/CVE-2024-0252-RCE](https://github.com/forsaken0128/CVE-2024-0252-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0128/CVE-2024-0252-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0128/CVE-2024-0252-RCE">
