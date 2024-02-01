@@ -112,7 +112,7 @@
 ## CVE-2018-7600 (2018-03-29T07:29:00)
 > Drupal before 7.58, 8.x before 8.3.9, 8.4.x before 8.4.6, and 8.5.x before 8.5.1 allows remote attackers to execute arbitrary code because of an issue affecting multiple subsystems with default or common module configurations.
 - [anldori/CVE-2018-7600](https://github.com/anldori/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2018-7600">
-- [0xkasra/CVE-2018-7600](https://github.com/0xkasra/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/0xkasra/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/0xkasra/CVE-2018-7600">
+- [0xConstant/CVE-2018-7600](https://github.com/0xConstant/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/0xConstant/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/0xConstant/CVE-2018-7600">
 - [vphnguyen/ANM_CVE-2018-7600](https://github.com/vphnguyen/ANM_CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/vphnguyen/ANM_CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/vphnguyen/ANM_CVE-2018-7600">
 - [rafaelcaria/drupalgeddon2-CVE-2018-7600](https://github.com/rafaelcaria/drupalgeddon2-CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelcaria/drupalgeddon2-CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelcaria/drupalgeddon2-CVE-2018-7600">
 - [0xAJ2K/CVE-2018-7600](https://github.com/0xAJ2K/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/0xAJ2K/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/0xAJ2K/CVE-2018-7600">
