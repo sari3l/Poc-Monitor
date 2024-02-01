@@ -160,6 +160,11 @@
 - [BurakSevben/CVE-2024-22909](https://github.com/BurakSevben/CVE-2024-22909)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-22909">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-22909">
 
 ---
+## CVE-2024-22899 ()
+> 
+- [Chocapikk/CVE-2024-22899-to-22903-ExploitChain](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-22899-to-22903-ExploitChain">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-22899-to-22903-ExploitChain">
+
+---
 ## CVE-2024-22894 (2024-01-30T10:15:00)
 > An issue in AIT-Deutschland Alpha Innotec Heatpumps wp2reg-V.3.88.0-9015 and Novelan Heatpumps wp2reg-V.3.88.0-9015, allows remote attackers to execute arbitrary code via the password component in the shadow file.
 - [Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894)	<img alt="forks" src="https://img.shields.io/github/forks/Jaarden/CVE-2024-22894">	<img alt="stars" src="https://img.shields.io/github/stars/Jaarden/CVE-2024-22894">
