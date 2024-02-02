@@ -289,7 +289,7 @@
 ---
 ## CVE-2024-0652 (2024-01-18T01:15:00)
 > A vulnerability was found in PHPGurukul Company Visitor Management System 1.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the file search-visitor.php. The manipulation leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-251378 is the identifier assigned to this vulnerability.
-- [White-Hat-HackerX/CVE-2024-0652](https://github.com/White-Hat-HackerX/CVE-2024-0652)	<img alt="forks" src="https://img.shields.io/github/forks/White-Hat-HackerX/CVE-2024-0652">	<img alt="stars" src="https://img.shields.io/github/stars/White-Hat-HackerX/CVE-2024-0652">
+- [Agampreet-Singh/CVE-2024-0652](https://github.com/Agampreet-Singh/CVE-2024-0652)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-0652">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-0652">
 
 ---
 ## CVE-2024-0402 (2024-01-26T01:15:00)
