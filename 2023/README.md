@@ -3611,6 +3611,11 @@ Fixed in version 6.4.1.
 - [MateusTesser/CVE-2023-31716](https://github.com/MateusTesser/CVE-2023-31716)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31716">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31716">
 
 ---
+## CVE-2023-31714 (2023-08-30T22:15:00)
+> Chitor-CMS before v1.1.2 was discovered to contain multiple SQL injection vulnerabilities.
+- [msd0pe-1/CVE-2023-31714](https://github.com/msd0pe-1/CVE-2023-31714)	<img alt="forks" src="https://img.shields.io/github/forks/msd0pe-1/CVE-2023-31714">	<img alt="stars" src="https://img.shields.io/github/stars/msd0pe-1/CVE-2023-31714">
+
+---
 ## CVE-2023-31711 ()
 > 
 - [HritikThapa7/CVE-2023-31711](https://github.com/HritikThapa7/CVE-2023-31711)	<img alt="forks" src="https://img.shields.io/github/forks/HritikThapa7/CVE-2023-31711">	<img alt="stars" src="https://img.shields.io/github/stars/HritikThapa7/CVE-2023-31711">

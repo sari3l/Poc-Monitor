@@ -279,8 +279,8 @@
 - [0x9567b/CVE-2024-0846](https://github.com/0x9567b/CVE-2024-0846)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0846">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0846">
 
 ---
-## CVE-2024-0844 ()
-> 
+## CVE-2024-0844 (2024-02-02T12:15:00)
+> The Popup More Popups, Lightboxes, and more popup modules plugin for WordPress is vulnerable to Local File Inclusion in version 2.1.6 via the ycfChangeElementData() function. This makes it possible for authenticated attackers, with administrator-level access and above, to include and execute arbitrary files ending with "Form.php" on the server , allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other “safe” file types can be uploaded and included.
 - [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0844">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0844">
 
 ---
