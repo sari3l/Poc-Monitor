@@ -243,6 +243,7 @@
 - [Wall1e/CVE-2024-21626-POC](https://github.com/Wall1e/CVE-2024-21626-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wall1e/CVE-2024-21626-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wall1e/CVE-2024-21626-POC">
 - [NitroCao/CVE-2024-21626](https://github.com/NitroCao/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/NitroCao/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/NitroCao/CVE-2024-21626">
 - [zpxlz/CVE-2024-21626-POC](https://github.com/zpxlz/CVE-2024-21626-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zpxlz/CVE-2024-21626-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zpxlz/CVE-2024-21626-POC">
+- [Wall1e/CVE-2024-21626-POC](https://github.com/Wall1e/CVE-2024-21626-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wall1e/CVE-2024-21626-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wall1e/CVE-2024-21626-POC">
 
 ---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
