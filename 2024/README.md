@@ -98,8 +98,8 @@
 - [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23747">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23747">
 
 ---
-## CVE-2024-23746 ()
-> 
+## CVE-2024-23746 (2024-02-02T02:15:00)
+> Miro Desktop 0.8.18 on macOS allows Electron code injection.
 - [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23746">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23746">
 
 ---
@@ -160,8 +160,8 @@
 - [BurakSevben/CVE-2024-22909](https://github.com/BurakSevben/CVE-2024-22909)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-22909">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-22909">
 
 ---
-## CVE-2024-22899 ()
-> 
+## CVE-2024-22899 (2024-02-02T02:15:00)
+> Vinchin Backup & Recovery v7.2 was discovered to contain an authenticated remote code execution (RCE) vulnerability via the syncNtpTime function.
 - [Chocapikk/CVE-2024-22899-to-22903-ExploitChain](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-22899-to-22903-ExploitChain">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-22899-to-22903-ExploitChain">
 
 ---

@@ -1117,8 +1117,8 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [ThatNotEasy/CVE-2023-4636](https://github.com/ThatNotEasy/CVE-2023-4636)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-4636">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-4636">
 
 ---
-## CVE-2023-46344 ()
-> 
+## CVE-2023-46344 (2024-02-02T02:15:00)
+> A vulnerability in Solar-Log Base 15 Firmware 6.0.1 Build 161, and possibly other Solar-Log Base products, allows an attacker to escalate their privileges by exploiting a stored cross-site scripting (XSS) vulnerability in the switch group function under /#ilang=DE&b=c_smartenergy_swgroups in the web portal. The vulnerability can be exploited to gain the rights of an installer or PM, which can then be used to gain administrative access to the web portal and execute further attacks.
 - [vinnie1717/CVE-2023-46344](https://github.com/vinnie1717/CVE-2023-46344)	<img alt="forks" src="https://img.shields.io/github/forks/vinnie1717/CVE-2023-46344">	<img alt="stars" src="https://img.shields.io/github/stars/vinnie1717/CVE-2023-46344">
 
 ---
