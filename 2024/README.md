@@ -249,6 +249,11 @@
 - [TheRedDevil1/CVE-2024-21306](https://github.com/TheRedDevil1/CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21306">
 
 ---
+## CVE-2024-20931 ()
+> 
+- [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/GlassyAmadeus/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/GlassyAmadeus/CVE-2024-20931">
+
+---
 ## CVE-2024-20698 (2024-01-09T18:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698)	<img alt="forks" src="https://img.shields.io/github/forks/RomanRybachek/CVE-2024-20698">	<img alt="stars" src="https://img.shields.io/github/stars/RomanRybachek/CVE-2024-20698">
