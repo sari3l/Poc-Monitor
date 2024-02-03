@@ -221,6 +221,7 @@
 ## CVE-2024-21893 (2024-01-31T18:15:00)
 > A server-side request forgery vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) and Ivanti Neurons for ZTA allows an attacker to access certain restricted resources without authentication.
 - [h4x0r-dz/CVE-2024-21893.py](https://github.com/h4x0r-dz/CVE-2024-21893.py)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-21893.py">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-21893.py">
+- [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">
 
 ---
 ## CVE-2024-21887 (2024-01-12T17:15:00)

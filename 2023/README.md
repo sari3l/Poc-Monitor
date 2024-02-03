@@ -574,8 +574,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/CVE-2023-49954/CVE-2023-49954.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/CVE-2023-49954/CVE-2023-49954.github.io">
 
 ---
-## CVE-2023-49950 ()
-> 
+## CVE-2023-49950 (2024-02-03T09:15:00)
+> The Jinja templating in Logpoint SIEM 6.10.0 through 7.x before 7.3.0 does not correctly sanitize log data being displayed when using a custom Jinja template in the Alert view. A remote attacker can craft a cross-site scripting (XSS) payload and send it to any system or device that sends logs to the SIEM. If an alert is created, the payload will execute upon the alert data being viewed with that template, which can lead to sensitive data disclosure.
 - [shrikeinfosec/cve-2023-49950](https://github.com/shrikeinfosec/cve-2023-49950)	<img alt="forks" src="https://img.shields.io/github/forks/shrikeinfosec/cve-2023-49950">	<img alt="stars" src="https://img.shields.io/github/stars/shrikeinfosec/cve-2023-49950">
 
 ---
