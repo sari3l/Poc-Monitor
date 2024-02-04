@@ -318,6 +318,7 @@
 - [cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/cbeek-r7/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/cbeek-r7/CVE-2024-0204">
 - [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/m-cetin/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/m-cetin/CVE-2024-0204">
 - [yoryio/CVE-2024-0204](https://github.com/yoryio/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-0204">
+- [adminlove520/CVE-2024-0204](https://github.com/adminlove520/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/adminlove520/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/adminlove520/CVE-2024-0204">
 
 ---
 ## CVE-2024-0193 (2024-01-02T18:15:00)
