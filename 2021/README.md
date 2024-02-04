@@ -2777,6 +2777,7 @@
 - [Pol-Ruiz/CVE-2021-4034](https://github.com/Pol-Ruiz/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Pol-Ruiz/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Pol-Ruiz/CVE-2021-4034">
 - [cerodah/CVE-2021-4034](https://github.com/cerodah/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/cerodah/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/cerodah/CVE-2021-4034">
 - [FancySauce/PwnKit-CVE-2021-4034](https://github.com/FancySauce/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/FancySauce/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/FancySauce/PwnKit-CVE-2021-4034">
+- [wechicken456/CVE-2021-4034-writeup](https://github.com/wechicken456/CVE-2021-4034-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/wechicken456/CVE-2021-4034-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/wechicken456/CVE-2021-4034-writeup">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
