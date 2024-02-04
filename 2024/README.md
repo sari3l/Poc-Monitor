@@ -141,6 +141,11 @@
 - [V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23738">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23738">
 
 ---
+## CVE-2024-23208 (2024-01-23T01:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in macOS Sonoma 14.3, watchOS 10.3, tvOS 17.3, iOS 17.3 and iPadOS 17.3. An app may be able to execute arbitrary code with kernel privileges.
+- [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test)	<img alt="forks" src="https://img.shields.io/github/forks/hrtowii/CVE-2024-23208-test">	<img alt="stars" src="https://img.shields.io/github/stars/hrtowii/CVE-2024-23208-test">
+
+---
 ## CVE-2024-22983 ()
 > 
 - [keru6k/CVE-2024-22983](https://github.com/keru6k/CVE-2024-22983)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22983">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22983">
