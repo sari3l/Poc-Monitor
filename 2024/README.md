@@ -92,6 +92,7 @@
 - [jopraveen/CVE-2024-23897](https://github.com/jopraveen/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/jopraveen/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/jopraveen/CVE-2024-23897">
 - [AbraXa5/Jenkins-CVE-2024-23897](https://github.com/AbraXa5/Jenkins-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/AbraXa5/Jenkins-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/AbraXa5/Jenkins-CVE-2024-23897">
 - [brijne/CVE-2024-23897-RCE](https://github.com/brijne/CVE-2024-23897-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/brijne/CVE-2024-23897-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/brijne/CVE-2024-23897-RCE">
+- [WLXQqwer/Jenkins-CVE-2024-23897-](https://github.com/WLXQqwer/Jenkins-CVE-2024-23897-)	<img alt="forks" src="https://img.shields.io/github/forks/WLXQqwer/Jenkins-CVE-2024-23897-">	<img alt="stars" src="https://img.shields.io/github/stars/WLXQqwer/Jenkins-CVE-2024-23897-">
 
 ---
 ## CVE-2024-23747 (2024-01-29T14:15:00)
