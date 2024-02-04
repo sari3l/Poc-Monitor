@@ -2389,6 +2389,11 @@
 - [5l1v3r1/fuzzenv-exiv2](https://github.com/5l1v3r1/fuzzenv-exiv2)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/fuzzenv-exiv2">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/fuzzenv-exiv2">
 
 ---
+## CVE-2019-1332 (2019-12-10T22:15:00)
+> A cross-site scripting (XSS) vulnerability exists when Microsoft SQL Server Reporting Services (SSRS) does not properly sanitize a specially-crafted web request to an affected SSRS server, aka 'Microsoft SQL Server Reporting Services XSS Vulnerability'.
+- [mbadanoiu/CVE-2019-1332](https://github.com/mbadanoiu/CVE-2019-1332)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-1332">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-1332">
+
+---
 ## CVE-2019-13292 (2019-07-04T22:15:00)
 > A SQL Injection issue was discovered in webERP 4.15. Payments.php accepts payment data in base64 format. After this is decoded, it is deserialized. Then, this deserialized data goes directly into a SQL query, with no sanitizing checks.
 - [gustanini/CVE-2019-13292-WebERP_4.15](https://github.com/gustanini/CVE-2019-13292-WebERP_4.15)	<img alt="forks" src="https://img.shields.io/github/forks/gustanini/CVE-2019-13292-WebERP_4.15">	<img alt="stars" src="https://img.shields.io/github/stars/gustanini/CVE-2019-13292-WebERP_4.15">
