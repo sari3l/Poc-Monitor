@@ -265,8 +265,10 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [Double-q1015/CVE-2023-51764](https://github.com/Double-q1015/CVE-2023-51764)	<img alt="forks" src="https://img.shields.io/github/forks/Double-q1015/CVE-2023-51764">	<img alt="stars" src="https://img.shields.io/github/stars/Double-q1015/CVE-2023-51764">
 
 ---
-## CVE-2023-51504 ()
-> 
+## CVE-2023-51504 (2024-02-05T06:15:00)
+> Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Dan Dulaney Dan's Embedder for Google Calendar allows Stored XSS.This issue affects Dan's Embedder for Google Calendar: from n/a through 1.2.
+
+
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
