@@ -31,8 +31,8 @@
 - [trustcves/CVE-2024-24398](https://github.com/trustcves/CVE-2024-24398)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-24398">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-24398">
 
 ---
-## CVE-2024-24397 ()
-> 
+## CVE-2024-24397 (2024-02-05T16:15:00)
+> Cross Site Scripting vulnerability in Stimulsoft GmbH Stimulsoft Dashboard.JS before v.2024.1.2 allows a remote attacker to execute arbitrary code via a crafted payload to the ReportName field.
 - [trustcves/CVE-2024-24397](https://github.com/trustcves/CVE-2024-24397)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-24397">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-24397">
 
 ---
@@ -291,6 +291,7 @@
 - [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/cdxiaodong/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/cdxiaodong/CVE-2024-21626">
 - [zhangguanzhang/CVE-2024-21626](https://github.com/zhangguanzhang/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/zhangguanzhang/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/zhangguanzhang/CVE-2024-21626">
 - [laysakura/CVE-2024-21626-demo](https://github.com/laysakura/CVE-2024-21626-demo)	<img alt="forks" src="https://img.shields.io/github/forks/laysakura/CVE-2024-21626-demo">	<img alt="stars" src="https://img.shields.io/github/stars/laysakura/CVE-2024-21626-demo">
+- [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC)	<img alt="forks" src="https://img.shields.io/github/forks/V0WKeep3r/CVE-2024-21626-runcPOC">	<img alt="stars" src="https://img.shields.io/github/stars/V0WKeep3r/CVE-2024-21626-runcPOC">
 
 ---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
@@ -316,6 +317,16 @@
 ## CVE-2024-20654 (2024-01-09T18:15:00)
 > Microsoft ODBC Driver Remote Code Execution Vulnerability
 - [xiaoqiao147/CVE-2024-20654](https://github.com/xiaoqiao147/CVE-2024-20654)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-20654">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-20654">
+
+---
+## CVE-2024-1209 ()
+> 
+- [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1209">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1209">
+
+---
+## CVE-2024-1208 ()
+> 
+- [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">
 
 ---
 ## CVE-2024-0846 ()
