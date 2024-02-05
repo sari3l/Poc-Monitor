@@ -36,8 +36,8 @@
 - [trustcves/CVE-2024-24397](https://github.com/trustcves/CVE-2024-24397)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-24397">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-24397">
 
 ---
-## CVE-2024-24396 ()
-> 
+## CVE-2024-24396 (2024-02-05T19:15:00)
+> Cross Site Scripting vulnerability in Stimulsoft GmbH Stimulsoft Dashboard.JS before v.2024.1.2 allows a remote attacker to execute arbitrary code via a crafted payload to the search bar component.
 - [trustcves/CVE-2024-24396](https://github.com/trustcves/CVE-2024-24396)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-24396">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-24396">
 
 ---
