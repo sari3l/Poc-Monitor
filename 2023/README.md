@@ -880,6 +880,16 @@ Users are recommended to upgrade to version 18.12.10
 - [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2023-4762-Code-Review">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2023-4762-Code-Review">
 
 ---
+## CVE-2023-47564 (2024-02-02T16:15:00)
+> An incorrect permission assignment for critical resource vulnerability has been reported to affect Qsync Central. If exploited, the vulnerability could allow authenticated users to read or modify the resource via a network.
+
+We have already fixed the vulnerability in the following versions:
+Qsync Central 4.4.0.15 ( 2024/01/04 ) and later
+Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
+
+- [C411e/CVE-2023-47564](https://github.com/C411e/CVE-2023-47564)	<img alt="forks" src="https://img.shields.io/github/forks/C411e/CVE-2023-47564">	<img alt="stars" src="https://img.shields.io/github/stars/C411e/CVE-2023-47564">
+
+---
 ## CVE-2023-47529 ()
 > 
 - [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47529">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47529">
