@@ -110,6 +110,21 @@
 - [WLXQqwer/Jenkins-CVE-2024-23897-](https://github.com/WLXQqwer/Jenkins-CVE-2024-23897-)	<img alt="forks" src="https://img.shields.io/github/forks/WLXQqwer/Jenkins-CVE-2024-23897-">	<img alt="stars" src="https://img.shields.io/github/stars/WLXQqwer/Jenkins-CVE-2024-23897-">
 
 ---
+## CVE-2024-23774 ()
+> 
+- [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774)	<img alt="forks" src="https://img.shields.io/github/forks/Verrideo/CVE-2024-23774">	<img alt="stars" src="https://img.shields.io/github/stars/Verrideo/CVE-2024-23774">
+
+---
+## CVE-2024-23773 ()
+> 
+- [Verrideo/CVE-2024-23773](https://github.com/Verrideo/CVE-2024-23773)	<img alt="forks" src="https://img.shields.io/github/forks/Verrideo/CVE-2024-23773">	<img alt="stars" src="https://img.shields.io/github/stars/Verrideo/CVE-2024-23773">
+
+---
+## CVE-2024-23772 ()
+> 
+- [Verrideo/CVE-2024-23772](https://github.com/Verrideo/CVE-2024-23772)	<img alt="forks" src="https://img.shields.io/github/forks/Verrideo/CVE-2024-23772">	<img alt="stars" src="https://img.shields.io/github/stars/Verrideo/CVE-2024-23772">
+
+---
 ## CVE-2024-23747 (2024-01-29T14:15:00)
 > The Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability. This vulnerability resides in the system's handling of user data access through a /Modernanet/LAUDO/LAU0000100/Laudo?id= URI. By manipulating this id parameter, an attacker can gain access to sensitive medical information.
 - [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23747">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23747">
