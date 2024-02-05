@@ -61,6 +61,7 @@
 > The POST SMTP Mailer – Email log, Delivery Failure Notifications and Best Mail SMTP for WordPress plugin for WordPress is vulnerable to unauthorized access of data and modification of data due to a type juggling issue on the connect-app REST endpoint in all versions up to, and including, 2.8.7. This makes it possible for unauthenticated attackers to reset the API key used to authenticate to the mailer and view logs, including password reset emails, allowing site takeover.
 - [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875)	<img alt="forks" src="https://img.shields.io/github/forks/UlyssesSaicha/CVE-2023-6875">	<img alt="stars" src="https://img.shields.io/github/stars/UlyssesSaicha/CVE-2023-6875">
 - [gbrsh/CVE-2023-6875](https://github.com/gbrsh/CVE-2023-6875)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-6875">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-6875">
+- [hatlesswizard/CVE-2023-6875](https://github.com/hatlesswizard/CVE-2023-6875)	<img alt="forks" src="https://img.shields.io/github/forks/hatlesswizard/CVE-2023-6875">	<img alt="stars" src="https://img.shields.io/github/stars/hatlesswizard/CVE-2023-6875">
 
 ---
 ## CVE-2023-6710 (2023-12-12T22:15:00)
