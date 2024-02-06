@@ -309,6 +309,7 @@
 - [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/GlassyAmadeus/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/GlassyAmadeus/CVE-2024-20931">
 - [Leocodefocus/CVE-2024-20931-Poc](https://github.com/Leocodefocus/CVE-2024-20931-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Leocodefocus/CVE-2024-20931-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Leocodefocus/CVE-2024-20931-Poc">
 - [ATonysan/CVE-2024-20931_weblogic](https://github.com/ATonysan/CVE-2024-20931_weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/ATonysan/CVE-2024-20931_weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/ATonysan/CVE-2024-20931_weblogic">
+- [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2024-20931">
 
 ---
 ## CVE-2024-20698 (2024-01-09T18:15:00)
