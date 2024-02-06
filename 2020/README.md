@@ -4310,6 +4310,11 @@
 - [5l1v3r1/SaltStack-Exp-1](https://github.com/5l1v3r1/SaltStack-Exp-1)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/SaltStack-Exp-1">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/SaltStack-Exp-1">
 
 ---
+## CVE-2020-11579 (2020-09-03T18:15:00)
+> An issue was discovered in Chadha PHPKB 9.0 Enterprise Edition. installer/test-connection.php (part of the installation process) allows a remote unauthenticated attacker to disclose local files on hosts running PHP before 7.2.16, or on hosts where the MySQL ALLOW LOCAL DATA INFILE option is enabled.
+- [ShielderSec/CVE-2020-11579](https://github.com/ShielderSec/CVE-2020-11579)	<img alt="forks" src="https://img.shields.io/github/forks/ShielderSec/CVE-2020-11579">	<img alt="stars" src="https://img.shields.io/github/stars/ShielderSec/CVE-2020-11579">
+
+---
 ## CVE-2020-11444 (2020-04-02T18:15:00)
 > Sonatype Nexus Repository Manager 3.x up to and including 3.21.2 has Incorrect Access Control.
 - [CN016/Nexus-Repository-Manager-3-CVE-2020-11444-](https://github.com/CN016/Nexus-Repository-Manager-3-CVE-2020-11444-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Nexus-Repository-Manager-3-CVE-2020-11444-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Nexus-Repository-Manager-3-CVE-2020-11444-">
