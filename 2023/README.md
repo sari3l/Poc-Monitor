@@ -1354,6 +1354,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [JC175/CVE-2023-44353-Nuclei-Template](https://github.com/JC175/CVE-2023-44353-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2023-44353-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2023-44353-Nuclei-Template">
 
 ---
+## CVE-2023-4427 (2023-08-23T00:15:00)
+> Out of bounds memory access in V8 in Google Chrome prior to 116.0.5845.110 allowed a remote attacker to perform an out of bounds memory read via a crafted HTML page. (Chromium security severity: High)
+- [tianstcht/CVE-2023-4427](https://github.com/tianstcht/CVE-2023-4427)	<img alt="forks" src="https://img.shields.io/github/forks/tianstcht/CVE-2023-4427">	<img alt="stars" src="https://img.shields.io/github/stars/tianstcht/CVE-2023-4427">
+
+---
 ## CVE-2023-44227 ()
 > 
 - [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-44227-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-44227-PoC">
