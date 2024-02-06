@@ -41,6 +41,11 @@
 - [trustcves/CVE-2024-24396](https://github.com/trustcves/CVE-2024-24396)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-24396">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-24396">
 
 ---
+## CVE-2024-24336 ()
+> 
+- [nitipoom-jar/CVE-2024-24336](https://github.com/nitipoom-jar/CVE-2024-24336)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-24336">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-24336">
+
+---
 ## CVE-2024-24142 ()
 > 
 - [BurakSevben/CVE-2024-24142](https://github.com/BurakSevben/CVE-2024-24142)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24142">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24142">
