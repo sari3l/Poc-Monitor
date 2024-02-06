@@ -26,8 +26,8 @@
 - [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488)	<img alt="forks" src="https://img.shields.io/github/forks/minj-ae/CVE-2024-24488">	<img alt="stars" src="https://img.shields.io/github/stars/minj-ae/CVE-2024-24488">
 
 ---
-## CVE-2024-24398 ()
-> 
+## CVE-2024-24398 (2024-02-06T00:15:00)
+> Directory Traversal vulnerability in Stimulsoft GmbH Stimulsoft Dashboard.JS before v.2024.1.2 allows a remote attacker to execute arbitrary code via a crafted payload to the fileName parameter of the Save function.
 - [trustcves/CVE-2024-24398](https://github.com/trustcves/CVE-2024-24398)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-24398">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-24398">
 
 ---
