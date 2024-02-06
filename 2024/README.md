@@ -319,13 +319,13 @@
 - [xiaoqiao147/CVE-2024-20654](https://github.com/xiaoqiao147/CVE-2024-20654)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-20654">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-20654">
 
 ---
-## CVE-2024-1209 ()
-> 
+## CVE-2024-1209 (2024-02-05T22:16:00)
+> The LearnDash LMS plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 4.10.1 via direct file access due to insufficient protection of uploaded assignments. This makes it possible for unauthenticated attackers to obtain those uploads.
 - [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1209">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1209">
 
 ---
-## CVE-2024-1208 ()
-> 
+## CVE-2024-1208 (2024-02-05T22:16:00)
+> The LearnDash LMS plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 4.10.2 via API. This makes it possible for unauthenticated attackers to obtain access to quiz questions.
 - [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">
 
 ---

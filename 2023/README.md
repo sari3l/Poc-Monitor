@@ -42,13 +42,13 @@
 - [mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/mochammadrafi/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/mochammadrafi/CVE-2023-7028">
 
 ---
-## CVE-2023-6985 ()
-> 
+## CVE-2023-6985 (2024-02-05T22:15:00)
+> The 10Web AI Assistant – AI content writing assistant plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the install_plugin AJAX action in all versions up to, and including, 1.0.18. This makes it possible for authenticated attackers, with subscriber-level access and above, to install arbitrary plugins that can be used to gain further access to a compromised site.
 - [RandomRobbieBF/CVE-2023-6985](https://github.com/RandomRobbieBF/CVE-2023-6985)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6985">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6985">
 
 ---
-## CVE-2023-6933 ()
-> 
+## CVE-2023-6933 (2024-02-05T22:15:00)
+> The Better Search Replace plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 1.4.4 via deserialization of untrusted input. This makes it possible for unauthenticated attackers to inject a PHP Object. No POP chain is present in the vulnerable plugin. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker to delete arbitrary files, retrieve sensitive data, or execute code.
 - [w2xim3/CVE-2023-6933](https://github.com/w2xim3/CVE-2023-6933)	<img alt="forks" src="https://img.shields.io/github/forks/w2xim3/CVE-2023-6933">	<img alt="stars" src="https://img.shields.io/github/stars/w2xim3/CVE-2023-6933">
 
 ---
@@ -70,8 +70,8 @@
 - [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710)	<img alt="forks" src="https://img.shields.io/github/forks/DedSec-47/Metasploit-Exploits-CVE-2023-6710">	<img alt="stars" src="https://img.shields.io/github/stars/DedSec-47/Metasploit-Exploits-CVE-2023-6710">
 
 ---
-## CVE-2023-6700 ()
-> 
+## CVE-2023-6700 (2024-02-05T22:15:00)
+> The Cookie Information | Free GDPR Consent Solution plugin for WordPress is vulnerable to arbitrary option updates due to a missing capability check on its AJAX request handler in versions up to, and including, 2.0.22. This makes it possible for authenticated attackers, with subscriber-level access or higher, to edit arbitrary site options which can be used to create administrator accounts.
 - [RandomRobbieBF/CVE-2023-6700](https://github.com/RandomRobbieBF/CVE-2023-6700)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6700">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6700">
 
 ---
