@@ -96,6 +96,11 @@
 - [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24134">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24134">
 
 ---
+## CVE-2024-24035 ()
+> 
+- [ELIZEUOPAIN/CVE-2024-24035](https://github.com/ELIZEUOPAIN/CVE-2024-24035)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2024-24035">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2024-24035">
+
+---
 ## CVE-2024-24034 ()
 > 
 - [ELIZEUOPAIN/CVE-2024-24034](https://github.com/ELIZEUOPAIN/CVE-2024-24034)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2024-24034">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2024-24034">
