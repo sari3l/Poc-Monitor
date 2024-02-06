@@ -5832,6 +5832,13 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-2024 (2023-05-18T21:15:00)
 > Improper authentication in OpenBlue Enterprise Manager Data Collector versions prior to 3.2.5.75 allow access to an unauthorized user under certain circumstances.
 - [team890/CVE-2023-2024](https://github.com/team890/CVE-2023-2024)	<img alt="forks" src="https://img.shields.io/github/forks/team890/CVE-2023-2024">	<img alt="stars" src="https://img.shields.io/github/stars/team890/CVE-2023-2024">
+- [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2024-20931">
+- [seajaysec/Ivanti-Connect-Around-Scan](https://github.com/seajaysec/Ivanti-Connect-Around-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/seajaysec/Ivanti-Connect-Around-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/seajaysec/Ivanti-Connect-Around-Scan">
+- [mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped](https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped)	<img alt="forks" src="https://img.shields.io/github/forks/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped">	<img alt="stars" src="https://img.shields.io/github/stars/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped">
+- [raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887](https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887">
+- [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-46805_CVE-2024-21887">
+- [TheRedDevil1/Check-Vulns-Script](https://github.com/TheRedDevil1/Check-Vulns-Script)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/Check-Vulns-Script">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/Check-Vulns-Script">
+- [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter)	<img alt="forks" src="https://img.shields.io/github/forks/rxwx/pulse-meter">	<img alt="stars" src="https://img.shields.io/github/stars/rxwx/pulse-meter">
 
 ---
 ## CVE-2023-20209 (2023-08-16T21:15:00)
