@@ -302,6 +302,7 @@
 ## CVE-2024-20931 ()
 > 
 - [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/GlassyAmadeus/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/GlassyAmadeus/CVE-2024-20931">
+- [Leocodefocus/CVE-2024-20931-Poc](https://github.com/Leocodefocus/CVE-2024-20931-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Leocodefocus/CVE-2024-20931-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Leocodefocus/CVE-2024-20931-Poc">
 
 ---
 ## CVE-2024-20698 (2024-01-09T18:15:00)
