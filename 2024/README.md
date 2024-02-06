@@ -96,6 +96,11 @@
 - [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24134">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24134">
 
 ---
+## CVE-2024-24034 ()
+> 
+- [ELIZEUOPAIN/CVE-2024-24034](https://github.com/ELIZEUOPAIN/CVE-2024-24034)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2024-24034">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2024-24034">
+
+---
 ## CVE-2024-23897 (2024-01-24T18:15:00)
 > Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an '@' character followed by a file path in an argument with the file's contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system.
 - [forsaken0127/CVE-2024-23897](https://github.com/forsaken0127/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0127/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0127/CVE-2024-23897">
