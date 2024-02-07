@@ -55,6 +55,7 @@
 ## CVE-2023-6895 (2023-12-17T08:15:00)
 > A vulnerability was found in Hikvision Intercom Broadcasting System 3.0.3_20201113_RELEASE(HIK). It has been declared as critical. This vulnerability affects unknown code of the file /php/ping.php. The manipulation of the argument jsondata[ip] with the input netstat -ano leads to os command injection. The exploit has been disclosed to the public and may be used. Upgrading to version 4.1.0 is able to address this issue. It is recommended to upgrade the affected component. VDB-248254 is the identifier assigned to this vulnerability.
 - [FuBoLuSec/CVE-2023-6895](https://github.com/FuBoLuSec/CVE-2023-6895)	<img alt="forks" src="https://img.shields.io/github/forks/FuBoLuSec/CVE-2023-6895">	<img alt="stars" src="https://img.shields.io/github/stars/FuBoLuSec/CVE-2023-6895">
+- [nles-crt/CVE-2023-6895](https://github.com/nles-crt/CVE-2023-6895)	<img alt="forks" src="https://img.shields.io/github/forks/nles-crt/CVE-2023-6895">	<img alt="stars" src="https://img.shields.io/github/stars/nles-crt/CVE-2023-6895">
 
 ---
 ## CVE-2023-6875 (2024-01-11T09:15:00)
