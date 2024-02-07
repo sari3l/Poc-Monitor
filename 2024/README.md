@@ -130,6 +130,7 @@
 - [brijne/CVE-2024-23897-RCE](https://github.com/brijne/CVE-2024-23897-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/brijne/CVE-2024-23897-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/brijne/CVE-2024-23897-RCE">
 - [WLXQqwer/Jenkins-CVE-2024-23897-](https://github.com/WLXQqwer/Jenkins-CVE-2024-23897-)	<img alt="forks" src="https://img.shields.io/github/forks/WLXQqwer/Jenkins-CVE-2024-23897-">	<img alt="stars" src="https://img.shields.io/github/stars/WLXQqwer/Jenkins-CVE-2024-23897-">
 - [kaanatmacaa/CVE-2024-23897](https://github.com/kaanatmacaa/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/kaanatmacaa/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/kaanatmacaa/CVE-2024-23897">
+- [Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability](https://github.com/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">
 
 ---
 ## CVE-2024-23774 ()
