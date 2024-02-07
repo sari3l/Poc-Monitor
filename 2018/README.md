@@ -907,6 +907,11 @@
 - [Live-Hack-CVE/CVE-2018-17954](https://github.com/Live-Hack-CVE/CVE-2018-17954)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17954">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17954">
 
 ---
+## CVE-2018-17924 (2018-12-07T14:29:00)
+> Rockwell Automation MicroLogix 1400 Controllers and 1756 ControlLogix Communications Modules An unauthenticated, remote threat actor could send a CIP connection request to an affected device, and upon successful connection, send a new IP configuration to the affected device even if the controller in the system is set to Hard RUN mode. When the affected device accepts this new IP configuration, a loss of communication occurs between the device and the rest of the system as the system traffic is still attempting to communicate with the device via the overwritten IP address.
+- [g0dd0ghd/CVE-2018-17924-PoC](https://github.com/g0dd0ghd/CVE-2018-17924-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g0dd0ghd/CVE-2018-17924-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g0dd0ghd/CVE-2018-17924-PoC">
+
+---
 ## CVE-2018-17825 (2018-10-01T08:29:00)
 > An issue was discovered in AdPlug 2.3.1. There are several double-free vulnerabilities in the CEmuopl class in emuopl.cpp because of a destructor's two OPLDestroy calls, each of which frees TL_TABLE, SIN_TABLE, AMS_TABLE, and VIB_TABLE.
 - [Live-Hack-CVE/CVE-2018-17825](https://github.com/Live-Hack-CVE/CVE-2018-17825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17825">
