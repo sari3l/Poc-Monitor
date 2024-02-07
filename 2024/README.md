@@ -313,6 +313,7 @@
 - [zhangguanzhang/CVE-2024-21626](https://github.com/zhangguanzhang/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/zhangguanzhang/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/zhangguanzhang/CVE-2024-21626">
 - [laysakura/CVE-2024-21626-demo](https://github.com/laysakura/CVE-2024-21626-demo)	<img alt="forks" src="https://img.shields.io/github/forks/laysakura/CVE-2024-21626-demo">	<img alt="stars" src="https://img.shields.io/github/stars/laysakura/CVE-2024-21626-demo">
 - [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC)	<img alt="forks" src="https://img.shields.io/github/forks/V0WKeep3r/CVE-2024-21626-runcPOC">	<img alt="stars" src="https://img.shields.io/github/stars/V0WKeep3r/CVE-2024-21626-runcPOC">
+- [dombisza/cve-2024-21626](https://github.com/dombisza/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dombisza/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dombisza/cve-2024-21626">
 
 ---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
