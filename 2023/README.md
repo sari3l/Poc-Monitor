@@ -1333,6 +1333,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [Hebing123/CVE-2023-44796](https://github.com/Hebing123/CVE-2023-44796)	<img alt="forks" src="https://img.shields.io/github/forks/Hebing123/CVE-2023-44796">	<img alt="stars" src="https://img.shields.io/github/stars/Hebing123/CVE-2023-44796">
 
 ---
+## CVE-2023-4450 (2023-08-21T03:15:00)
+> A vulnerability was found in jeecgboot JimuReport up to 1.6.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Template Handler. The manipulation leads to injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 1.6.1 is able to address this issue. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-237571.
+- [ilikeoyt/CVE-2023-4450-Attack](https://github.com/ilikeoyt/CVE-2023-4450-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/ilikeoyt/CVE-2023-4450-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/ilikeoyt/CVE-2023-4450-Attack">
+
+---
 ## CVE-2023-44487 (2023-10-10T14:15:00)
 > The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.
 - [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-44487">
