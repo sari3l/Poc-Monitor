@@ -5327,6 +5327,7 @@
 > woocommerce-gutenberg-products-block is a feature plugin for WooCommerce Gutenberg Blocks. An SQL injection vulnerability impacts all WooCommerce sites running the WooCommerce Blocks feature plugin between version 2.5.0 and prior to version 2.5.16. Via a carefully crafted URL, an exploit can be executed against the `wc/store/products/collection-data?calculate_attribute_counts[][taxonomy]` endpoint that allows the execution of a read only sql query. There are patches for many versions of this package, starting with version 2.5.16. There are no known workarounds aside from upgrading.
 - [and0x00/CVE-2021-32789](https://github.com/and0x00/CVE-2021-32789)	<img alt="forks" src="https://img.shields.io/github/forks/and0x00/CVE-2021-32789">	<img alt="stars" src="https://img.shields.io/github/stars/and0x00/CVE-2021-32789">
 - [andnorack/CVE-2021-32789](https://github.com/andnorack/CVE-2021-32789)	<img alt="forks" src="https://img.shields.io/github/forks/andnorack/CVE-2021-32789">	<img alt="stars" src="https://img.shields.io/github/stars/andnorack/CVE-2021-32789">
+- [DonVorrin/CVE-2021-32789](https://github.com/DonVorrin/CVE-2021-32789)	<img alt="forks" src="https://img.shields.io/github/forks/DonVorrin/CVE-2021-32789">	<img alt="stars" src="https://img.shields.io/github/stars/DonVorrin/CVE-2021-32789">
 
 ---
 ## CVE-2021-32779 (2021-08-24T21:15:00)
