@@ -2084,6 +2084,7 @@
 - [belajarqywok/CVE-2021-41773-MSF](https://github.com/belajarqywok/CVE-2021-41773-MSF)	<img alt="forks" src="https://img.shields.io/github/forks/belajarqywok/CVE-2021-41773-MSF">	<img alt="stars" src="https://img.shields.io/github/stars/belajarqywok/CVE-2021-41773-MSF">
 - [Iris288/CVE-2021-41773](https://github.com/Iris288/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Iris288/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Iris288/CVE-2021-41773">
 - [OpenCVEs/CVE-2021-41773](https://github.com/OpenCVEs/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/OpenCVEs/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/OpenCVEs/CVE-2021-41773">
+- [justakazh/mass_cve-2021-41773](https://github.com/justakazh/mass_cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/justakazh/mass_cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/justakazh/mass_cve-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
