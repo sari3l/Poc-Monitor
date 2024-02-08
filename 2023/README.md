@@ -766,8 +766,8 @@ Users are recommended to upgrade to version 18.12.10
 - [tristao-marinho/CVE-2023-48981](https://github.com/tristao-marinho/CVE-2023-48981)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-48981">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-48981">
 
 ---
-## CVE-2023-48974 ()
-> 
+## CVE-2023-48974 (2024-02-08T01:15:00)
+> Cross Site Scripting vulnerability in Axigen WebMail v.10.5.7 and before allows a remote attacker to escalate privileges via a crafted script to the serverName_input parameter.
 - [vinnie1717/CVE-2023-48974](https://github.com/vinnie1717/CVE-2023-48974)	<img alt="forks" src="https://img.shields.io/github/forks/vinnie1717/CVE-2023-48974">	<img alt="stars" src="https://img.shields.io/github/stars/vinnie1717/CVE-2023-48974">
 
 ---
