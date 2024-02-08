@@ -102,8 +102,8 @@
 - [ELIZEUOPAIN/CVE-2024-24035](https://github.com/ELIZEUOPAIN/CVE-2024-24035)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2024-24035">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2024-24035">
 
 ---
-## CVE-2024-24034 ()
-> 
+## CVE-2024-24034 (2024-02-08T09:15:00)
+> Setor Informatica S.I.L version 3.0 is vulnerable to Open Redirect via the hprinter parameter, allows remote attackers to execute arbitrary code.
 - [ELIZEUOPAIN/CVE-2024-24034](https://github.com/ELIZEUOPAIN/CVE-2024-24034)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2024-24034">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2024-24034">
 
 ---
