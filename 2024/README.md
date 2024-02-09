@@ -302,6 +302,8 @@
 - [seajaysec/Ivanti-Connect-Around-Scan](https://github.com/seajaysec/Ivanti-Connect-Around-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/seajaysec/Ivanti-Connect-Around-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/seajaysec/Ivanti-Connect-Around-Scan">
 - [raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887](https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887">
 - [tucommenceapousser/CVE-2024-21887](https://github.com/tucommenceapousser/CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2024-21887">
+- [imhunterand/CVE-2024-21887](https://github.com/imhunterand/CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2024-21887">
+- [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">
 
 ---
 ## CVE-2024-21633 (2024-01-03T17:15:00)
