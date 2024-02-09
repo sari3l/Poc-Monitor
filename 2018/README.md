@@ -12,7 +12,7 @@
 - [withmasday/HTC](https://github.com/withmasday/HTC)	<img alt="forks" src="https://img.shields.io/github/forks/withmasday/HTC">	<img alt="stars" src="https://img.shields.io/github/stars/withmasday/HTC">
 - [b510/CVE-2018-9995-POC](https://github.com/b510/CVE-2018-9995-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b510/CVE-2018-9995-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b510/CVE-2018-9995-POC">
 - [likaifeng0/CVE-2018-9995_dvr_credentials-dev_tool](https://github.com/likaifeng0/CVE-2018-9995_dvr_credentials-dev_tool)	<img alt="forks" src="https://img.shields.io/github/forks/likaifeng0/CVE-2018-9995_dvr_credentials-dev_tool">	<img alt="stars" src="https://img.shields.io/github/stars/likaifeng0/CVE-2018-9995_dvr_credentials-dev_tool">
-- [IHA114/CVE-2018-9995_dvr_credentials](https://github.com/IHA114/CVE-2018-9995_dvr_credentials)	<img alt="forks" src="https://img.shields.io/github/forks/IHA114/CVE-2018-9995_dvr_credentials">	<img alt="stars" src="https://img.shields.io/github/stars/IHA114/CVE-2018-9995_dvr_credentials">
+- [MrAli-Code/CVE-2018-9995_dvr_credentials](https://github.com/MrAli-Code/CVE-2018-9995_dvr_credentials)	<img alt="forks" src="https://img.shields.io/github/forks/MrAli-Code/CVE-2018-9995_dvr_credentials">	<img alt="stars" src="https://img.shields.io/github/stars/MrAli-Code/CVE-2018-9995_dvr_credentials">
 - [ABIZCHI/CVE-2018-9995_dvr_credentials](https://github.com/ABIZCHI/CVE-2018-9995_dvr_credentials)	<img alt="forks" src="https://img.shields.io/github/forks/ABIZCHI/CVE-2018-9995_dvr_credentials">	<img alt="stars" src="https://img.shields.io/github/stars/ABIZCHI/CVE-2018-9995_dvr_credentials">
 - [TateYdq/CVE-2018-9995-ModifiedByGwolfs](https://github.com/TateYdq/CVE-2018-9995-ModifiedByGwolfs)	<img alt="forks" src="https://img.shields.io/github/forks/TateYdq/CVE-2018-9995-ModifiedByGwolfs">	<img alt="stars" src="https://img.shields.io/github/stars/TateYdq/CVE-2018-9995-ModifiedByGwolfs">
 - [codeholic2k18/CVE-2018-9995](https://github.com/codeholic2k18/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/codeholic2k18/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/codeholic2k18/CVE-2018-9995">
@@ -27,6 +27,7 @@
 - [wr0x00/Lizard](https://github.com/wr0x00/Lizard)	<img alt="forks" src="https://img.shields.io/github/forks/wr0x00/Lizard">	<img alt="stars" src="https://img.shields.io/github/stars/wr0x00/Lizard">
 - [awesome-consumer-iot/HTC](https://github.com/awesome-consumer-iot/HTC)	<img alt="forks" src="https://img.shields.io/github/forks/awesome-consumer-iot/HTC">	<img alt="stars" src="https://img.shields.io/github/stars/awesome-consumer-iot/HTC">
 - [Pab450/CVE-2018-9995](https://github.com/Pab450/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/Pab450/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/Pab450/CVE-2018-9995">
+- [arminarab1999/CVE-2018-9995](https://github.com/arminarab1999/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/arminarab1999/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/arminarab1999/CVE-2018-9995">
 
 ---
 ## CVE-2018-9276 (2018-07-02T16:29:00)
