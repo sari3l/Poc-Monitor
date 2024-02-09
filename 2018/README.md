@@ -28,6 +28,7 @@
 - [awesome-consumer-iot/HTC](https://github.com/awesome-consumer-iot/HTC)	<img alt="forks" src="https://img.shields.io/github/forks/awesome-consumer-iot/HTC">	<img alt="stars" src="https://img.shields.io/github/stars/awesome-consumer-iot/HTC">
 - [Pab450/CVE-2018-9995](https://github.com/Pab450/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/Pab450/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/Pab450/CVE-2018-9995">
 - [arminarab1999/CVE-2018-9995](https://github.com/arminarab1999/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/arminarab1999/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/arminarab1999/CVE-2018-9995">
+- [DOCKTYPe19/CVE-2018-9995](https://github.com/DOCKTYPe19/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/DOCKTYPe19/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/DOCKTYPe19/CVE-2018-9995">
 
 ---
 ## CVE-2018-9276 (2018-07-02T16:29:00)
