@@ -280,6 +280,7 @@
 ## CVE-2024-22024 ()
 > 
 - [0dteam/CVE-2024-22024](https://github.com/0dteam/CVE-2024-22024)	<img alt="forks" src="https://img.shields.io/github/forks/0dteam/CVE-2024-22024">	<img alt="stars" src="https://img.shields.io/github/stars/0dteam/CVE-2024-22024">
+- [labesterOct/CVE-2024-22024](https://github.com/labesterOct/CVE-2024-22024)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-22024">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-22024">
 
 ---
 ## CVE-2024-21893 (2024-01-31T18:15:00)
