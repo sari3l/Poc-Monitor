@@ -2923,6 +2923,11 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 - [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2023-35086-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2023-35086-POC">
 
 ---
+## CVE-2023-35080 ()
+> 
+- [HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation](https://github.com/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation">
+
+---
 ## CVE-2023-35078 (2023-07-25T07:15:00)
 > 
 Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 allows remote attackers to obtain PII, add an administrative account, and change the configuration because of an authentication bypass, as exploited in the wild in July 2023. A patch is available.
