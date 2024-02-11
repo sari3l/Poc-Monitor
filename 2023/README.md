@@ -5313,6 +5313,7 @@ For additional details, please see full advisory.
 - [adminlove520/CVE-2023-22527](https://github.com/adminlove520/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/adminlove520/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/adminlove520/CVE-2023-22527">
 - [thanhlam-attt/CVE-2023-22527](https://github.com/thanhlam-attt/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/thanhlam-attt/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/thanhlam-attt/CVE-2023-22527">
 - [YongYe-Security/CVE-2023-22527](https://github.com/YongYe-Security/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2023-22527">
+- [Boogipop/CVE-2023-22527-Godzilla-MEMSHELL](https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL)	<img alt="forks" src="https://img.shields.io/github/forks/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL">	<img alt="stars" src="https://img.shields.io/github/stars/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
