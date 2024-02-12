@@ -122,8 +122,8 @@
 - [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063)	<img alt="forks" src="https://img.shields.io/github/forks/thesafdari/CVE-2023-6063">	<img alt="stars" src="https://img.shields.io/github/stars/thesafdari/CVE-2023-6063">
 
 ---
-## CVE-2023-6036 ()
-> 
+## CVE-2023-6036 (2024-02-12T16:15:00)
+> The Web3 WordPress plugin before 3.0.0 is vulnerable to an authentication bypass due to incorrect authentication checking in the login flow in functions 'handle_auth_request' and 'hadle_login_request'. This makes it possible for non authenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the username.
 - [pctripsesp/CVE-2023-6036](https://github.com/pctripsesp/CVE-2023-6036)	<img alt="forks" src="https://img.shields.io/github/forks/pctripsesp/CVE-2023-6036">	<img alt="stars" src="https://img.shields.io/github/stars/pctripsesp/CVE-2023-6036">
 
 ---
