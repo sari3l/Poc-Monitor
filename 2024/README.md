@@ -283,8 +283,11 @@
 - [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411)	<img alt="forks" src="https://img.shields.io/github/forks/tamaloa/avo-CVE-2024-22411">	<img alt="stars" src="https://img.shields.io/github/stars/tamaloa/avo-CVE-2024-22411">
 
 ---
-## CVE-2024-22222 ()
+## CVE-2024-22222 (2024-02-12T19:15:00)
 > 
+Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerability within its svc_udoctor utility. An authenticated malicious user with local access could potentially exploit this vulnerability, leading to the execution of arbitrary OS commands on the application's underlying OS, with the privileges of the vulnerable application.
+
+
 - [xiaoqiao147/CVE-2024-22222](https://github.com/xiaoqiao147/CVE-2024-22222)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-22222">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-22222">
 
 ---
