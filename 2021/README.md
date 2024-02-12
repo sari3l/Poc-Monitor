@@ -8461,6 +8461,8 @@
 - [r1skkam/PrintNightmare](https://github.com/r1skkam/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/r1skkam/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/r1skkam/PrintNightmare">
 - [hlldz/CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/hlldz/CVE-2021-1675-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/hlldz/CVE-2021-1675-LPE">
 - [5l1v3r1/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler](https://github.com/5l1v3r1/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler">
+- [whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-](https://github.com/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-)	<img alt="forks" src="https://img.shields.io/github/forks/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-">	<img alt="stars" src="https://img.shields.io/github/stars/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-">
+- [whoami-chmod777/CVE-2021-1675-CVE-2021-34527](https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/whoami-chmod777/CVE-2021-1675-CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/whoami-chmod777/CVE-2021-1675-CVE-2021-34527">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)
