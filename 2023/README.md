@@ -392,6 +392,7 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 ## CVE-2023-51000 ()
 > 
 - [Team-Byerus/CVE-2023-51000](https://github.com/Team-Byerus/CVE-2023-51000)	<img alt="forks" src="https://img.shields.io/github/forks/Team-Byerus/CVE-2023-51000">	<img alt="stars" src="https://img.shields.io/github/stars/Team-Byerus/CVE-2023-51000">
+- [Team-Byerus/CVE-2023-51000](https://github.com/Team-Byerus/CVE-2023-51000)	<img alt="forks" src="https://img.shields.io/github/forks/Team-Byerus/CVE-2023-51000">	<img alt="stars" src="https://img.shields.io/github/stars/Team-Byerus/CVE-2023-51000">
 
 ---
 ## CVE-2023-50917 (2023-12-15T17:15:00)
