@@ -5647,6 +5647,7 @@
 - [DDayLuong/CVE-2021-3156](https://github.com/DDayLuong/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/DDayLuong/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/DDayLuong/CVE-2021-3156">
 - [DDayLuong/CVE-2021-3156](https://github.com/DDayLuong/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/DDayLuong/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/DDayLuong/CVE-2021-3156">
 - [wurwur/CVE-2021-3156](https://github.com/wurwur/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/wurwur/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/wurwur/CVE-2021-3156">
+- [SamTruss/LMU-CVE-2021-3156](https://github.com/SamTruss/LMU-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/SamTruss/LMU-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/SamTruss/LMU-CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
