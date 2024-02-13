@@ -296,8 +296,8 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-22145">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-22145">
 
 ---
-## CVE-2024-22024 ()
-> 
+## CVE-2024-22024 (2024-02-13T04:15:00)
+> An XML external entity or XXE vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x), Ivanti Policy Secure (9.x, 22.x) and ZTA gateways which allows an attacker to access certain restricted resources without authentication.
 - [0dteam/CVE-2024-22024](https://github.com/0dteam/CVE-2024-22024)	<img alt="forks" src="https://img.shields.io/github/forks/0dteam/CVE-2024-22024">	<img alt="stars" src="https://img.shields.io/github/stars/0dteam/CVE-2024-22024">
 - [labesterOct/CVE-2024-22024](https://github.com/labesterOct/CVE-2024-22024)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-22024">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-22024">
 
