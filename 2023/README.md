@@ -2561,6 +2561,7 @@ prior to
 - [hackingyseguridad/nmap](https://github.com/hackingyseguridad/nmap)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/nmap">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/nmap">
 - [CharonDefalt/Juniper-exploit-CVE-2023-36845](https://github.com/CharonDefalt/Juniper-exploit-CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/CharonDefalt/Juniper-exploit-CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/CharonDefalt/Juniper-exploit-CVE-2023-36845">
 - [iveresk/CVE-2023-36845-6-](https://github.com/iveresk/CVE-2023-36845-6-)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2023-36845-6-">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2023-36845-6-">
+- [ak1t4/CVE-2023-36845](https://github.com/ak1t4/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ak1t4/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ak1t4/CVE-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
