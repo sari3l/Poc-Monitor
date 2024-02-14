@@ -1104,6 +1104,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [Anekant-Singhai/Exploits](https://github.com/Anekant-Singhai/Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Anekant-Singhai/Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Anekant-Singhai/Exploits">
 - [Mudoleto/Broker_ApacheMQ](https://github.com/Mudoleto/Broker_ApacheMQ)	<img alt="forks" src="https://img.shields.io/github/forks/Mudoleto/Broker_ApacheMQ">	<img alt="stars" src="https://img.shields.io/github/stars/Mudoleto/Broker_ApacheMQ">
 - [hh-hunter/cve-2023-46604](https://github.com/hh-hunter/cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/cve-2023-46604">
+- [ST3G4N05/ExploitScript-CVE-2023-46604](https://github.com/ST3G4N05/ExploitScript-CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/ST3G4N05/ExploitScript-CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/ST3G4N05/ExploitScript-CVE-2023-46604">
 
 ---
 ## CVE-2023-46501 ()
