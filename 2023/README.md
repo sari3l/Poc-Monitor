@@ -918,6 +918,11 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47488">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47488">
 
 ---
+## CVE-2023-47464 ()
+> 
+- [HadessCS/CVE-2023-47464](https://github.com/HadessCS/CVE-2023-47464)	<img alt="forks" src="https://img.shields.io/github/forks/HadessCS/CVE-2023-47464">	<img alt="stars" src="https://img.shields.io/github/stars/HadessCS/CVE-2023-47464">
+
+---
 ## CVE-2023-47460 (2024-01-16T01:15:00)
 > SQL injection vulnerability in Knovos Discovery v.22.67.0 allows a remote attacker to execute arbitrary code via the /DiscoveryProcess/Service/Admin.svc/getGridColumnStructure component.
 - [aleksey-vi/CVE-2023-47460](https://github.com/aleksey-vi/CVE-2023-47460)	<img alt="forks" src="https://img.shields.io/github/forks/aleksey-vi/CVE-2023-47460">	<img alt="stars" src="https://img.shields.io/github/stars/aleksey-vi/CVE-2023-47460">
