@@ -52,6 +52,11 @@
 - [trustcves/CVE-2024-24396](https://github.com/trustcves/CVE-2024-24396)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-24396">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-24396">
 
 ---
+## CVE-2024-24386 ()
+> 
+- [erick-duarte/CVE-2024-24386](https://github.com/erick-duarte/CVE-2024-24386)	<img alt="forks" src="https://img.shields.io/github/forks/erick-duarte/CVE-2024-24386">	<img alt="stars" src="https://img.shields.io/github/stars/erick-duarte/CVE-2024-24386">
+
+---
 ## CVE-2024-24337 (2024-02-12T22:15:00)
 > CSV Injection vulnerability in '/members/moremember.pl' and '/admin/aqbudgets.pl' endpoints in Koha Library Management System version 23.05.05 and earlier allows attackers to to inject DDE commands into csv exports via the 'Budget' and 'Patrons Member' components.
 - [nitipoom-jar/CVE-2024-24337](https://github.com/nitipoom-jar/CVE-2024-24337)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-24337">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-24337">
