@@ -361,6 +361,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [dombisza/cve-2024-21626](https://github.com/dombisza/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dombisza/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dombisza/cve-2024-21626">
 
 ---
+## CVE-2024-21413 (2024-02-13T18:16:00)
+> Microsoft Outlook Remote Code Execution Vulnerability
+- [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2024-21413">
+
+---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
 > Microsoft Bluetooth Driver Spoofing Vulnerability
 - [TheRedDevil1/CVE-2024-21306](https://github.com/TheRedDevil1/CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21306">
