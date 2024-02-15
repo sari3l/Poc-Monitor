@@ -21,6 +21,11 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-25466 ()
+> 
+- [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466)	<img alt="forks" src="https://img.shields.io/github/forks/FixedOctocat/CVE-2024-25466">	<img alt="stars" src="https://img.shields.io/github/stars/FixedOctocat/CVE-2024-25466">
+
+---
 ## CVE-2024-25092 ()
 > 
 - [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-25092">
