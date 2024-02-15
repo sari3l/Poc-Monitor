@@ -380,6 +380,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698)	<img alt="forks" src="https://img.shields.io/github/forks/RomanRybachek/CVE-2024-20698">	<img alt="stars" src="https://img.shields.io/github/stars/RomanRybachek/CVE-2024-20698">
 
 ---
+## CVE-2024-20666 (2024-01-09T18:15:00)
+> BitLocker Security Feature Bypass Vulnerability
+- [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/nnotwen/Script-For-CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/nnotwen/Script-For-CVE-2024-20666">
+
+---
 ## CVE-2024-20656 (2024-01-09T18:15:00)
 > Visual Studio Elevation of Privilege Vulnerability
 - [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2024-20656">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2024-20656">
