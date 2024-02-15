@@ -57,8 +57,8 @@
 - [trustcves/CVE-2024-24396](https://github.com/trustcves/CVE-2024-24396)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-24396">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-24396">
 
 ---
-## CVE-2024-24386 ()
-> 
+## CVE-2024-24386 (2024-02-15T08:15:00)
+> An issue in VitalPBX v.3.2.4-5 allows an attacker to execute arbitrary code via a crafted payload to the /var/lib/vitalpbx/scripts folder.
 - [erick-duarte/CVE-2024-24386](https://github.com/erick-duarte/CVE-2024-24386)	<img alt="forks" src="https://img.shields.io/github/forks/erick-duarte/CVE-2024-24386">	<img alt="stars" src="https://img.shields.io/github/stars/erick-duarte/CVE-2024-24386">
 
 ---
