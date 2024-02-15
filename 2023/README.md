@@ -2569,6 +2569,7 @@ prior to
 - [iveresk/CVE-2023-36845-6-](https://github.com/iveresk/CVE-2023-36845-6-)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2023-36845-6-">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2023-36845-6-">
 - [ak1t4/CVE-2023-36845](https://github.com/ak1t4/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ak1t4/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ak1t4/CVE-2023-36845">
 - [0xNehru/CVE-2023-36845-Juniper-Vulnerability](https://github.com/0xNehru/CVE-2023-36845-Juniper-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/0xNehru/CVE-2023-36845-Juniper-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/0xNehru/CVE-2023-36845-Juniper-Vulnerability">
+- [imhunterand/CVE-2023-36845](https://github.com/imhunterand/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
@@ -5908,6 +5909,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [tianstcht/CVE-2023-4427](https://github.com/tianstcht/CVE-2023-4427)	<img alt="forks" src="https://img.shields.io/github/forks/tianstcht/CVE-2023-4427">	<img alt="stars" src="https://img.shields.io/github/stars/tianstcht/CVE-2023-4427">
 - [abrahim7112/hackers_CVE_2023_poc](https://github.com/abrahim7112/hackers_CVE_2023_poc)	<img alt="forks" src="https://img.shields.io/github/forks/abrahim7112/hackers_CVE_2023_poc">	<img alt="stars" src="https://img.shields.io/github/stars/abrahim7112/hackers_CVE_2023_poc">
 - [Microsvuln/CVE-2023-4863](https://github.com/Microsvuln/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/Microsvuln/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/Microsvuln/CVE-2023-4863">
+- [imhunterand/CVE-2023-36845](https://github.com/imhunterand/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2023-36845">
 
 ---
 ## CVE-2023-20209 (2023-08-16T21:15:00)
