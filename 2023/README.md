@@ -4834,6 +4834,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Any3ite/CVE-2023-2523](https://github.com/Any3ite/CVE-2023-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Any3ite/CVE-2023-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Any3ite/CVE-2023-2523">
 
 ---
+## CVE-2023-25203 ()
+> 
+- [Trackflaw/CVE-2023-25203](https://github.com/Trackflaw/CVE-2023-25203)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2023-25203">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2023-25203">
+
+---
 ## CVE-2023-25202 ()
 > 
 - [Trackflaw/CVE-2023-25202](https://github.com/Trackflaw/CVE-2023-25202)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2023-25202">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2023-25202">
