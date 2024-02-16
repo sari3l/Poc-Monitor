@@ -798,6 +798,11 @@ Users are recommended to upgrade to version 18.12.10
 - [creacitysec/CVE-2023-48842](https://github.com/creacitysec/CVE-2023-48842)	<img alt="forks" src="https://img.shields.io/github/forks/creacitysec/CVE-2023-48842">	<img alt="stars" src="https://img.shields.io/github/stars/creacitysec/CVE-2023-48842">
 
 ---
+## CVE-2023-48777 ()
+> 
+- [AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777](https://github.com/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777)	<img alt="forks" src="https://img.shields.io/github/forks/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777">	<img alt="stars" src="https://img.shields.io/github/stars/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777">
+
+---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
 > Heap buffer overflow in WebP in Google Chrome prior to 116.0.5845.187 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: Critical)
 - [suhipek/CVE-2023-4863](https://github.com/suhipek/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/suhipek/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/suhipek/CVE-2023-4863">
