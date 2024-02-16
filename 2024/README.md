@@ -154,6 +154,7 @@
 - [Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability](https://github.com/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">
 - [B4CK4TT4CK/CVE-2024-23897](https://github.com/B4CK4TT4CK/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/B4CK4TT4CK/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/B4CK4TT4CK/CVE-2024-23897">
 - [abdomagdy0/CVE-2024-23897-htb](https://github.com/abdomagdy0/CVE-2024-23897-htb)	<img alt="forks" src="https://img.shields.io/github/forks/abdomagdy0/CVE-2024-23897-htb">	<img alt="stars" src="https://img.shields.io/github/stars/abdomagdy0/CVE-2024-23897-htb">
+- [godylockz/CVE-2024-23897](https://github.com/godylockz/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2024-23897">
 
 ---
 ## CVE-2024-23774 ()
