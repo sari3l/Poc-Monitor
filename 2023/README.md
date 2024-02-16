@@ -2177,6 +2177,7 @@ URL that curl has been told to operate with.
 - [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/snowcra5h/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/snowcra5h/CVE-2023-38408">
 - [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/kali-mx/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/kali-mx/CVE-2023-38408">
 - [LucasPDiniz/CVE-2023-38408](https://github.com/LucasPDiniz/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2023-38408">
+- [wxrdnx/CVE-2023-38408](https://github.com/wxrdnx/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/wxrdnx/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/wxrdnx/CVE-2023-38408">
 
 ---
 ## CVE-2023-38389 ()
