@@ -1852,8 +1852,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121">
 
 ---
-## CVE-2023-40109 ()
-> 
+## CVE-2023-40109 (2024-02-15T23:15:00)
+> In createFromParcel of UsbConfiguration.java, there is a possible background activity launch (BAL) due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.
 - [uthrasri/CVE-2023-40109](https://github.com/uthrasri/CVE-2023-40109)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-40109">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-40109">
 
 ---
