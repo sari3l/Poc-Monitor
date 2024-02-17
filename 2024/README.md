@@ -31,6 +31,21 @@
 - [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466)	<img alt="forks" src="https://img.shields.io/github/forks/FixedOctocat/CVE-2024-25466">	<img alt="stars" src="https://img.shields.io/github/stars/FixedOctocat/CVE-2024-25466">
 
 ---
+## CVE-2024-25280 ()
+> 
+- [sajaljat/CVE-2024-25280](https://github.com/sajaljat/CVE-2024-25280)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25280">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25280">
+
+---
+## CVE-2024-25279 ()
+> 
+- [sajaljat/CVE-2024-25279](https://github.com/sajaljat/CVE-2024-25279)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25279">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25279">
+
+---
+## CVE-2024-25278 ()
+> 
+- [sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25278">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25278">
+
+---
 ## CVE-2024-25092 ()
 > 
 - [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-25092">
