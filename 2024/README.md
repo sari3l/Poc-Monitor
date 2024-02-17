@@ -21,6 +21,11 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-25809 ()
+> 
+- [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25809">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25809">
+
+---
 ## CVE-2024-25735 ()
 > 
 - [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-25735-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-25735-PoC">
@@ -29,6 +34,11 @@
 ## CVE-2024-25466 (2024-02-16T09:15:00)
 > Directory Traversal vulnerability in React Native Document Picker before v.9.1.1 and fixed in v.9.1.1 allows a local attacker to execute arbitrary code via a crafted script to the Android library component.
 - [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466)	<img alt="forks" src="https://img.shields.io/github/forks/FixedOctocat/CVE-2024-25466">	<img alt="stars" src="https://img.shields.io/github/stars/FixedOctocat/CVE-2024-25466">
+
+---
+## CVE-2024-25281 ()
+> 
+- [sajaljat/CVE-2024-25281](https://github.com/sajaljat/CVE-2024-25281)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25281">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25281">
 
 ---
 ## CVE-2024-25280 ()
@@ -429,6 +439,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 ## CVE-2024-20654 (2024-01-09T18:15:00)
 > Microsoft ODBC Driver Remote Code Execution Vulnerability
 - [xiaoqiao147/CVE-2024-20654](https://github.com/xiaoqiao147/CVE-2024-20654)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-20654">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-20654">
+
+---
+## CVE-2024-1269 (2024-02-07T02:15:00)
+> A vulnerability has been found in SourceCodester Product Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file /supplier.php. The manipulation of the argument supplier_name/supplier_contact leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-253012.
+- [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-1269">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-1269">
 
 ---
 ## CVE-2024-1209 (2024-02-05T22:16:00)
