@@ -1599,6 +1599,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [truonghuuphuc/CVE-2023-42120-Poc](https://github.com/truonghuuphuc/CVE-2023-42120-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2023-42120-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2023-42120-Poc">
 
 ---
+## CVE-2023-42115 ()
+> 
+- [cammclain/CVE-2023-42115](https://github.com/cammclain/CVE-2023-42115)	<img alt="forks" src="https://img.shields.io/github/forks/cammclain/CVE-2023-42115">	<img alt="stars" src="https://img.shields.io/github/stars/cammclain/CVE-2023-42115">
+
+---
 ## CVE-2023-4208 (2023-09-06T14:15:00)
 > A use-after-free vulnerability in the Linux kernel's net/sched: cls_u32 component can be exploited to achieve local privilege escalation.
 
