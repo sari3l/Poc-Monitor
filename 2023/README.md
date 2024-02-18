@@ -433,6 +433,11 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [r0binak/CVE-2023-5043](https://github.com/r0binak/CVE-2023-5043)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2023-5043">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2023-5043">
 
 ---
+## CVE-2023-50387 (2024-02-14T16:15:00)
+> Certain DNSSEC aspects of the DNS protocol (in RFC 4033, 4034, 4035, 6840, and related RFCs) allow remote attackers to cause a denial of service (CPU consumption) via one or more DNSSEC responses, aka the "KeyTrap" issue. One of the concerns is that, when there is a zone with many DNSKEY and RRSIG records, the protocol specification implies that an algorithm must evaluate all combinations of DNSKEY and RRSIG records.
+- [knqyf263/CVE-2023-50387](https://github.com/knqyf263/CVE-2023-50387)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2023-50387">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2023-50387">
+
+---
 ## CVE-2023-5024 (2023-09-17T07:15:00)
 > A vulnerability was found in Planno 23.04.04. It has been classified as problematic. This affects an unknown part of the component Comment Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239865 was assigned to this vulnerability.
 - [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
