@@ -109,6 +109,7 @@
 - [happynote3966/CVE-2018-7602](https://github.com/happynote3966/CVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/happynote3966/CVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/happynote3966/CVE-2018-7602">
 - [1AmG0d/myDrupal](https://github.com/1AmG0d/myDrupal)	<img alt="forks" src="https://img.shields.io/github/forks/1AmG0d/myDrupal">	<img alt="stars" src="https://img.shields.io/github/stars/1AmG0d/myDrupal">
 - [1337g/Drupalgedon3](https://github.com/1337g/Drupalgedon3)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/Drupalgedon3">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/Drupalgedon3">
+- [132231g/CVE-2018-7602](https://github.com/132231g/CVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/132231g/CVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/132231g/CVE-2018-7602">
 
 ---
 ## CVE-2018-7600 (2018-03-29T07:29:00)
