@@ -966,6 +966,17 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [rainbowhatrkn/CVE-2023-47246](https://github.com/rainbowhatrkn/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/rainbowhatrkn/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/rainbowhatrkn/CVE-2023-47246">
 
 ---
+## CVE-2023-47218 (2024-02-13T03:15:00)
+> An OS command injection vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow users to execute commands via a network.
+
+We have already fixed the vulnerability in the following versions:
+QTS 5.1.5.2645 build 20240116 and later
+QuTS hero h5.1.5.2647 build 20240118 and later
+QuTScloud c5.1.5.2651 and later
+
+- [passwa11/CVE-2023-47218](https://github.com/passwa11/CVE-2023-47218)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2023-47218">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2023-47218">
+
+---
 ## CVE-2023-47184 ()
 > 
 - [rach1tarora/CVE-2023-47184](https://github.com/rach1tarora/CVE-2023-47184)	<img alt="forks" src="https://img.shields.io/github/forks/rach1tarora/CVE-2023-47184">	<img alt="stars" src="https://img.shields.io/github/stars/rach1tarora/CVE-2023-47184">
