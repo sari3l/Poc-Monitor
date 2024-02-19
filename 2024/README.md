@@ -439,6 +439,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/nnotwen/Script-For-CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/nnotwen/Script-For-CVE-2024-20666">
 
 ---
+## CVE-2024-206565 ()
+> 
+- [sk2wie/CVE-2024-206565](https://github.com/sk2wie/CVE-2024-206565)	<img alt="forks" src="https://img.shields.io/github/forks/sk2wie/CVE-2024-206565">	<img alt="stars" src="https://img.shields.io/github/stars/sk2wie/CVE-2024-206565">
+
+---
 ## CVE-2024-20656 (2024-01-09T18:15:00)
 > Visual Studio Elevation of Privilege Vulnerability
 - [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2024-20656">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2024-20656">
