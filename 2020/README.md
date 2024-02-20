@@ -2752,6 +2752,11 @@
 - [jet-pentest/CVE-2020-24032](https://github.com/jet-pentest/CVE-2020-24032)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2020-24032">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2020-24032">
 
 ---
+## CVE-2020-23968 (2020-11-10T20:15:00)
+> Ilex International Sign&go Workstation Security Suite 7.1 allows elevation of privileges via a symlink attack on ProgramData\Ilex\S&G\Logs\000-sngWSService1.log.
+- [ricardojba/CVE-2020-23968-ILEX-SignGo-EoP](https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP">
+
+---
 ## CVE-2020-23707 (2021-07-15T22:15:00)
 > A heap-based buffer overflow vulnerability in the function ok_jpg_decode_block_progressive() at ok_jpg.c:1054 of ok-file-formats through 2020-06-26 allows attackers to cause a Denial of Service (DOS) via a crafted jpeg file.
 - [Live-Hack-CVE/CVE-2020-23707](https://github.com/Live-Hack-CVE/CVE-2020-23707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23707">
