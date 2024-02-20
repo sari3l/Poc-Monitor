@@ -394,8 +394,12 @@
 - [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411)	<img alt="forks" src="https://img.shields.io/github/forks/tamaloa/avo-CVE-2024-22411">	<img alt="stars" src="https://img.shields.io/github/stars/tamaloa/avo-CVE-2024-22411">
 
 ---
-## CVE-2024-22369 ()
-> 
+## CVE-2024-22369 (2024-02-20T15:15:00)
+> Deserialization of Untrusted Data vulnerability in Apache Camel SQL ComponentThis issue affects Apache Camel: from 3.0.0 before 3.21.4, from 3.22.0 before 3.22.1, from 4.0.0 before 4.0.4, from 4.1.0 before 4.4.0.
+
+Users are recommended to upgrade to version 4.4.0, which fixes the issue. If users are on the 4.0.x LTS releases stream, then they are suggested to upgrade to 4.0.4. If users are on 3.x, they are suggested to move to 3.21.4 or 3.22.1
+
+
 - [oscerd/CVE-2024-22369](https://github.com/oscerd/CVE-2024-22369)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2024-22369">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2024-22369">
 
 ---
