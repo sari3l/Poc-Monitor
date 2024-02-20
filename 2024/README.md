@@ -242,6 +242,7 @@
 - [godylockz/CVE-2024-23897](https://github.com/godylockz/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2024-23897">
 - [ifconfig-me/CVE-2024-23897](https://github.com/ifconfig-me/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2024-23897">
 - [ThatNotEasy/CVE-2024-23897](https://github.com/ThatNotEasy/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-23897">
+- [pulentoski/CVE-2024-23897-scaner](https://github.com/pulentoski/CVE-2024-23897-scaner)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2024-23897-scaner">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2024-23897-scaner">
 
 ---
 ## CVE-2024-23774 ()
