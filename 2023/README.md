@@ -1489,6 +1489,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317)	<img alt="forks" src="https://img.shields.io/github/forks/amjadali-110/CVE-2023-43317">	<img alt="stars" src="https://img.shields.io/github/stars/amjadali-110/CVE-2023-43317">
 
 ---
+## CVE-2023-43292 ()
+> 
+- [ASR511-OO7/CVE-2023-43292](https://github.com/ASR511-OO7/CVE-2023-43292)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-43292">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-43292">
+
+---
 ## CVE-2023-43284 (2023-10-05T20:15:00)
 > An issue in D-Link Wireless MU-MIMO Gigabit AC1200 Router DIR-846 firmware version 100A53DBR-Retail allows a remote attacker to execute arbitrary code.
 - [MateusTesser/CVE-2023-43284](https://github.com/MateusTesser/CVE-2023-43284)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-43284">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-43284">
@@ -1618,6 +1623,16 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 ## CVE-2023-42362 (2023-09-14T21:15:00)
 > An arbitrary file upload vulnerability in Teller Web App v.4.4.0 allows a remote attacker to execute arbitrary commands and obtain sensitive information via uploading a crafted file.
 - [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-n0b3dy/CVE-2023-42362">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-n0b3dy/CVE-2023-42362">
+
+---
+## CVE-2023-42308 ()
+> 
+- [ASR511-OO7/CVE-2023-42308](https://github.com/ASR511-OO7/CVE-2023-42308)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-42308">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-42308">
+
+---
+## CVE-2023-42307 ()
+> 
+- [ASR511-OO7/CVE-2023-42307](https://github.com/ASR511-OO7/CVE-2023-42307)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-42307">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-42307">
 
 ---
 ## CVE-2023-42222 (2023-09-28T03:15:00)
@@ -1758,6 +1773,31 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 ## CVE-2023-41507 (2023-09-05T22:15:00)
 > Super Store Finder v3.6 was discovered to contain multiple SQL injection vulnerabilities in the store locator component via the products, distance, lat, and lng parameters.
 - [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41507">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41507">
+
+---
+## CVE-2023-41501 ()
+> 
+- [ASR511-OO7/CVE-2023-41501](https://github.com/ASR511-OO7/CVE-2023-41501)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41501">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41501">
+
+---
+## CVE-2023-41500 ()
+> 
+- [ASR511-OO7/CVE-2023-41500](https://github.com/ASR511-OO7/CVE-2023-41500)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41500">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41500">
+
+---
+## CVE-2023-41499 ()
+> 
+- [ASR511-OO7/CVE-2023-41499](https://github.com/ASR511-OO7/CVE-2023-41499)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41499">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41499">
+
+---
+## CVE-2023-41498 ()
+> 
+- [ASR511-OO7/CVE-2023-41498](https://github.com/ASR511-OO7/CVE-2023-41498)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41498">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41498">
+
+---
+## CVE-2023-41497 ()
+> 
+- [ASR511-OO7/CVE-2023-41497](https://github.com/ASR511-OO7/CVE-2023-41497)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41497">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41497">
 
 ---
 ## CVE-2023-41474 (2024-01-25T20:15:00)
