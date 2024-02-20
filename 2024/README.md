@@ -41,6 +41,11 @@
 - [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423)	<img alt="forks" src="https://img.shields.io/github/forks/DriverUnload/cve-2024-25423">	<img alt="stars" src="https://img.shields.io/github/stars/DriverUnload/cve-2024-25423">
 
 ---
+## CVE-2024-25381 ()
+> 
+- [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381)	<img alt="forks" src="https://img.shields.io/github/forks/Ox130e07d/CVE-2024-25381">	<img alt="stars" src="https://img.shields.io/github/stars/Ox130e07d/CVE-2024-25381">
+
+---
 ## CVE-2024-25281 ()
 > 
 - [sajaljat/CVE-2024-25281](https://github.com/sajaljat/CVE-2024-25281)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25281">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25281">
@@ -150,6 +155,21 @@
 ## CVE-2024-24134 (2024-01-29T19:15:00)
 > Sourcecodester Online Food Menu 1.0 is vulnerable to Cross Site Scripting (XSS) via the 'Menu Name' and 'Description' fields in the Update Menu section.
 - [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24134">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24134">
+
+---
+## CVE-2024-24103 ()
+> 
+- [ASR511-OO7/CVE-2024-24103](https://github.com/ASR511-OO7/CVE-2024-24103)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24103">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24103">
+
+---
+## CVE-2024-24102 ()
+> 
+- [ASR511-OO7/CVE-2024-24102](https://github.com/ASR511-OO7/CVE-2024-24102)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24102">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24102">
+
+---
+## CVE-2024-24101 ()
+> 
+- [ASR511-OO7/CVE-2024-24101](https://github.com/ASR511-OO7/CVE-2024-24101)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24101">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24101">
 
 ---
 ## CVE-2024-24098 ()
