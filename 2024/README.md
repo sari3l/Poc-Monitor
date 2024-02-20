@@ -66,6 +66,11 @@
 - [sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25278">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25278">
 
 ---
+## CVE-2024-25251 ()
+> 
+- [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25251">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25251">
+
+---
 ## CVE-2024-25092 ()
 > 
 - [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-25092">
