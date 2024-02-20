@@ -669,6 +669,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [jaysharma786/CVE-2023-4951](https://github.com/jaysharma786/CVE-2023-4951)	<img alt="forks" src="https://img.shields.io/github/forks/jaysharma786/CVE-2023-4951">	<img alt="stars" src="https://img.shields.io/github/stars/jaysharma786/CVE-2023-4951">
 
 ---
+## CVE-2023-49496 ()
+> 
+- [HuangYanQwQ/CVE-2023-49496](https://github.com/HuangYanQwQ/CVE-2023-49496)	<img alt="forks" src="https://img.shields.io/github/forks/HuangYanQwQ/CVE-2023-49496">	<img alt="stars" src="https://img.shields.io/github/stars/HuangYanQwQ/CVE-2023-49496">
+
+---
 ## CVE-2023-49471 (2024-01-10T09:15:00)
 > Blind Server-Side Request Forgery (SSRF) vulnerability in karlomikus Bar Assistant before version 3.2.0 does not validate a parameter before making a request through Image::make(), which could allow authenticated remote attackers to execute arbitrary code.
 - [zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2023-49471">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2023-49471">
