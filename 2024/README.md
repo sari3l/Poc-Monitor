@@ -481,6 +481,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">
 
 ---
+## CVE-2024-21410 (2024-02-13T18:15:00)
+> Microsoft Exchange Server Elevation of Privilege Vulnerability
+- [sk2wie/CVE-2024-21410-CITRIX](https://github.com/sk2wie/CVE-2024-21410-CITRIX)	<img alt="forks" src="https://img.shields.io/github/forks/sk2wie/CVE-2024-21410-CITRIX">	<img alt="stars" src="https://img.shields.io/github/stars/sk2wie/CVE-2024-21410-CITRIX">
+
+---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
 > Microsoft Bluetooth Driver Spoofing Vulnerability
 - [TheRedDevil1/CVE-2024-21306](https://github.com/TheRedDevil1/CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21306">
