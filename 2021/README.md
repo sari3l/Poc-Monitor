@@ -5568,6 +5568,11 @@
 - [hoangprod/CVE-2021-31956-POC](https://github.com/hoangprod/CVE-2021-31956-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hoangprod/CVE-2021-31956-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hoangprod/CVE-2021-31956-POC">
 
 ---
+## CVE-2021-31954 (2021-06-08T23:15:00)
+> Windows Common Log File System Driver Elevation of Privilege Vulnerability
+- [MochiNishimiya/CVE-2021-31954](https://github.com/MochiNishimiya/CVE-2021-31954)	<img alt="forks" src="https://img.shields.io/github/forks/MochiNishimiya/CVE-2021-31954">	<img alt="stars" src="https://img.shields.io/github/stars/MochiNishimiya/CVE-2021-31954">
+
+---
 ## CVE-2021-31875 (2021-04-29T02:15:00)
 > ** DISPUTED ** In mjs_json.c in Cesanta MongooseOS mJS 1.26, a maliciously formed JSON string can trigger an off-by-one heap-based buffer overflow in mjs_json_parse, which can potentially lead to redirection of control flow. NOTE: the original reporter disputes the significance of this finding because "there isn’t very much of an opportunity to exploit this reliably for an information leak, so there isn’t any real security impact."
 - [Live-Hack-CVE/CVE-2021-31875](https://github.com/Live-Hack-CVE/CVE-2021-31875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31875">
