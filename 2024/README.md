@@ -31,6 +31,11 @@
 - [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-25735-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-25735-PoC">
 
 ---
+## CVE-2024-25600 ()
+> 
+- [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-25600">
+
+---
 ## CVE-2024-25466 (2024-02-16T09:15:00)
 > Directory Traversal vulnerability in React Native Document Picker before v.9.1.1 and fixed in v.9.1.1 allows a local attacker to execute arbitrary code via a crafted script to the Android library component.
 - [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466)	<img alt="forks" src="https://img.shields.io/github/forks/FixedOctocat/CVE-2024-25466">	<img alt="stars" src="https://img.shields.io/github/stars/FixedOctocat/CVE-2024-25466">
