@@ -30,6 +30,11 @@
 - [Live-Hack-CVE/CVE-2009-3094](https://github.com/Live-Hack-CVE/CVE-2009-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-3094">
 
 ---
+## CVE-2009-3036 (2010-02-23T20:30:00)
+> Cross-site scripting (XSS) vulnerability in the console in Symantec IM Manager 8.3 and 8.4 before 8.4.13 allows remote attackers to inject arbitrary web script or HTML via unspecified vectors.
+- [brinhosa/CVE-2009-3036](https://github.com/brinhosa/CVE-2009-3036)	<img alt="forks" src="https://img.shields.io/github/forks/brinhosa/CVE-2009-3036">	<img alt="stars" src="https://img.shields.io/github/stars/brinhosa/CVE-2009-3036">
+
+---
 ## CVE-2009-2699 (2009-10-13T10:30:00)
 > The Solaris pollset feature in the Event Port backend in poll/unix/port.c in the Apache Portable Runtime (APR) library before 1.3.9, as used in the Apache HTTP Server before 2.2.14 and other products, does not properly handle errors, which allows remote attackers to cause a denial of service (daemon hang) via unspecified HTTP requests, related to the prefork and event MPMs.
 - [Live-Hack-CVE/CVE-2009-2699](https://github.com/Live-Hack-CVE/CVE-2009-2699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-2699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-2699">
