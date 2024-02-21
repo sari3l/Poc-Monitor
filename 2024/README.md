@@ -47,8 +47,8 @@
 - [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423)	<img alt="forks" src="https://img.shields.io/github/forks/DriverUnload/cve-2024-25423">	<img alt="stars" src="https://img.shields.io/github/stars/DriverUnload/cve-2024-25423">
 
 ---
-## CVE-2024-25381 ()
-> 
+## CVE-2024-25381 (2024-02-21T19:15:00)
+> There is a Stored XSS Vulnerability in Emlog Pro 2.2.8 Article Publishing, due to non-filtering of quoted content.
 - [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381)	<img alt="forks" src="https://img.shields.io/github/forks/Ox130e07d/CVE-2024-25381">	<img alt="stars" src="https://img.shields.io/github/stars/Ox130e07d/CVE-2024-25381">
 
 ---
@@ -77,8 +77,8 @@
 - [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25251">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25251">
 
 ---
-## CVE-2024-25249 ()
-> 
+## CVE-2024-25249 (2024-02-21T20:15:00)
+> An issue in He3 App for macOS version 2.0.17, allows remote attackers to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments settings.
 - [intbjw/CVE-2024-25249](https://github.com/intbjw/CVE-2024-25249)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2024-25249">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2024-25249">
 
 ---
