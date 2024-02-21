@@ -7248,6 +7248,9 @@
 ## CVE-2021-2394 (2021-07-21T15:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
 - [fasanhlieu/CVE-2021-2394](https://github.com/fasanhlieu/CVE-2021-2394)	<img alt="forks" src="https://img.shields.io/github/forks/fasanhlieu/CVE-2021-2394">	<img alt="stars" src="https://img.shields.io/github/stars/fasanhlieu/CVE-2021-2394">
+- [lz2y/CVE-2021-2394](https://github.com/lz2y/CVE-2021-2394)	<img alt="forks" src="https://img.shields.io/github/forks/lz2y/CVE-2021-2394">	<img alt="stars" src="https://img.shields.io/github/stars/lz2y/CVE-2021-2394">
+- [BabyTeam1024/CVE-2021-2394](https://github.com/BabyTeam1024/CVE-2021-2394)	<img alt="forks" src="https://img.shields.io/github/forks/BabyTeam1024/CVE-2021-2394">	<img alt="stars" src="https://img.shields.io/github/stars/BabyTeam1024/CVE-2021-2394">
+- [freeide/CVE-2021-2394](https://github.com/freeide/CVE-2021-2394)	<img alt="forks" src="https://img.shields.io/github/forks/freeide/CVE-2021-2394">	<img alt="stars" src="https://img.shields.io/github/stars/freeide/CVE-2021-2394">
 
 ---
 ## CVE-2021-23926 (2021-01-14T15:15:00)
