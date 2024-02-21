@@ -35,6 +35,7 @@
 > 
 - [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-25600">
 - [Christbowel/CVE-2024-25600_Nuclei-Template](https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2024-25600_Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2024-25600_Nuclei-Template">
+- [h0tak88r/CVE-2024-25600checker](https://github.com/h0tak88r/CVE-2024-25600checker)	<img alt="forks" src="https://img.shields.io/github/forks/h0tak88r/CVE-2024-25600checker">	<img alt="stars" src="https://img.shields.io/github/stars/h0tak88r/CVE-2024-25600checker">
 
 ---
 ## CVE-2024-25466 (2024-02-16T09:15:00)
