@@ -77,6 +77,11 @@
 - [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25251">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25251">
 
 ---
+## CVE-2024-25249 ()
+> 
+- [intbjw/CVE-2024-25249](https://github.com/intbjw/CVE-2024-25249)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2024-25249">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2024-25249">
+
+---
 ## CVE-2024-25202 ()
 > 
 - [Agampreet-Singh/CVE-2024-25202](https://github.com/Agampreet-Singh/CVE-2024-25202)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-25202">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-25202">
