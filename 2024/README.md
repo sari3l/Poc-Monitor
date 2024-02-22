@@ -43,8 +43,8 @@
 - [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466)	<img alt="forks" src="https://img.shields.io/github/forks/FixedOctocat/CVE-2024-25466">	<img alt="stars" src="https://img.shields.io/github/stars/FixedOctocat/CVE-2024-25466">
 
 ---
-## CVE-2024-25423 ()
-> 
+## CVE-2024-25423 (2024-02-22T01:15:00)
+> An issue in MAXON CINEMA 4D R2024.2.0 allows a local attacker to execute arbitrary code via a crafted c4d_base.xdl64 file.
 - [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423)	<img alt="forks" src="https://img.shields.io/github/forks/DriverUnload/cve-2024-25423">	<img alt="stars" src="https://img.shields.io/github/stars/DriverUnload/cve-2024-25423">
 
 ---
@@ -73,8 +73,8 @@
 - [sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25278">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25278">
 
 ---
-## CVE-2024-25251 ()
-> 
+## CVE-2024-25251 (2024-02-22T01:15:00)
+> code-projects Agro-School Management System 1.0 is suffers from Incorrect Access Control.
 - [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25251">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25251">
 
 ---
