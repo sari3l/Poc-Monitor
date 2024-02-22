@@ -73,6 +73,11 @@
 - [sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25278">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25278">
 
 ---
+## CVE-2024-25270 ()
+> 
+- [fbkcs/CVE-2024-25270](https://github.com/fbkcs/CVE-2024-25270)	<img alt="forks" src="https://img.shields.io/github/forks/fbkcs/CVE-2024-25270">	<img alt="stars" src="https://img.shields.io/github/stars/fbkcs/CVE-2024-25270">
+
+---
 ## CVE-2024-25251 (2024-02-22T01:15:00)
 > code-projects Agro-School Management System 1.0 is suffers from Incorrect Access Control.
 - [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25251">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25251">
