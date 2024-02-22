@@ -5072,6 +5072,14 @@
 - [Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136](https://github.com/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136">
 
 ---
+## CVE-2020-0096 (2020-05-14T21:15:00)
+> In startActivities of ActivityStartController.java, there is a possible escalation of privilege due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9Android ID: A-145669109
+- [nahid0x1/CVE-2020-0096-strandhogg-exploit-p0c](https://github.com/nahid0x1/CVE-2020-0096-strandhogg-exploit-p0c)	<img alt="forks" src="https://img.shields.io/github/forks/nahid0x1/CVE-2020-0096-strandhogg-exploit-p0c">	<img alt="stars" src="https://img.shields.io/github/stars/nahid0x1/CVE-2020-0096-strandhogg-exploit-p0c">
+- [tea9/CVE-2020-0096-StrandHogg2](https://github.com/tea9/CVE-2020-0096-StrandHogg2)	<img alt="forks" src="https://img.shields.io/github/forks/tea9/CVE-2020-0096-StrandHogg2">	<img alt="stars" src="https://img.shields.io/github/stars/tea9/CVE-2020-0096-StrandHogg2">
+- [liuyun201990/StrandHogg2](https://github.com/liuyun201990/StrandHogg2)	<img alt="forks" src="https://img.shields.io/github/forks/liuyun201990/StrandHogg2">	<img alt="stars" src="https://img.shields.io/github/stars/liuyun201990/StrandHogg2">
+- [wyu0hop/CVE-2020-0096](https://github.com/wyu0hop/CVE-2020-0096)	<img alt="forks" src="https://img.shields.io/github/forks/wyu0hop/CVE-2020-0096">	<img alt="stars" src="https://img.shields.io/github/stars/wyu0hop/CVE-2020-0096">
+
+---
 ## CVE-2020-0093 (2020-05-14T21:15:00)
 > In exif_data_save_data_entry of exif-data.c, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-148705132
 - [Live-Hack-CVE/CVE-2020-0093](https://github.com/Live-Hack-CVE/CVE-2020-0093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0093">
