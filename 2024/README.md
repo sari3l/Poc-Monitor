@@ -395,6 +395,11 @@
 - [austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534)	<img alt="forks" src="https://img.shields.io/github/forks/austino2000/CVE-2024-22534">	<img alt="stars" src="https://img.shields.io/github/stars/austino2000/CVE-2024-22534">
 
 ---
+## CVE-2024-22532 ()
+> 
+- [pwndorei/CVE-2024-22532](https://github.com/pwndorei/CVE-2024-22532)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2024-22532">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2024-22532">
+
+---
 ## CVE-2024-22515 (2024-02-06T21:15:00)
 > Unrestricted File Upload vulnerability in iSpyConnect.com Agent DVR 5.1.6.0 allows attackers to upload arbitrary files via the upload audio component.
 - [Orange-418/CVE-2024-22515-File-Upload-Vulnerability](https://github.com/Orange-418/CVE-2024-22515-File-Upload-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Orange-418/CVE-2024-22515-File-Upload-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Orange-418/CVE-2024-22515-File-Upload-Vulnerability">
