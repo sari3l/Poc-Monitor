@@ -695,6 +695,7 @@
 - [LUCASRENAA/CVE-2018-25031](https://github.com/LUCASRENAA/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/LUCASRENAA/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/LUCASRENAA/CVE-2018-25031">
 - [hev0x/CVE-2018-25031-PoC](https://github.com/hev0x/CVE-2018-25031-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hev0x/CVE-2018-25031-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hev0x/CVE-2018-25031-PoC">
 - [ThiiagoEscobar/CVE-2018-25031](https://github.com/ThiiagoEscobar/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/ThiiagoEscobar/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/ThiiagoEscobar/CVE-2018-25031">
+- [johnlaurance/CVE-2018-25031-test](https://github.com/johnlaurance/CVE-2018-25031-test)	<img alt="forks" src="https://img.shields.io/github/forks/johnlaurance/CVE-2018-25031-test">	<img alt="stars" src="https://img.shields.io/github/stars/johnlaurance/CVE-2018-25031-test">
 
 ---
 ## CVE-2018-21010 (2019-09-05T13:15:00)
