@@ -2564,6 +2564,7 @@
 - [imjdl/CVE-2019-11510-poc](https://github.com/imjdl/CVE-2019-11510-poc)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2019-11510-poc">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2019-11510-poc">
 - [nuc13us/Pulse](https://github.com/nuc13us/Pulse)	<img alt="forks" src="https://img.shields.io/github/forks/nuc13us/Pulse">	<img alt="stars" src="https://img.shields.io/github/stars/nuc13us/Pulse">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
+- [0xab01/-CVE-2019-11510-Exploit](https://github.com/0xab01/-CVE-2019-11510-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xab01/-CVE-2019-11510-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xab01/-CVE-2019-11510-Exploit">
 
 ---
 ## CVE-2019-11498 (2019-04-24T05:29:00)
