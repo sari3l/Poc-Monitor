@@ -568,6 +568,17 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [xiaoqiao147/CVE-2024-20654](https://github.com/xiaoqiao147/CVE-2024-20654)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-20654">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-20654">
 
 ---
+## CVE-2024-1709 (2024-02-21T16:15:00)
+> ConnectWise ScreenConnect 23.9.7 and prior are affected by an Authentication Bypass Using an Alternate Path or Channel
+
+ vulnerability, which may allow an attacker direct access to confidential information or 
+
+critical systems.
+
+
+- [HussainFathy/CVE-2024-1709](https://github.com/HussainFathy/CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/HussainFathy/CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/HussainFathy/CVE-2024-1709">
+
+---
 ## CVE-2024-1651 (2024-02-20T00:15:00)
 > Torrentpier version 2.4.1 allows executing arbitrary commands on the server.
 
