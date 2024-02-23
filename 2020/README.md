@@ -4938,6 +4938,7 @@
 - [Vladshambaryan/https-github.com-jamf-CVE-2020-0796-RCE-POC](https://github.com/Vladshambaryan/https-github.com-jamf-CVE-2020-0796-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Vladshambaryan/https-github.com-jamf-CVE-2020-0796-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Vladshambaryan/https-github.com-jamf-CVE-2020-0796-RCE-POC">
 - [abdullah098/CVE_2020_0796](https://github.com/abdullah098/CVE_2020_0796)	<img alt="forks" src="https://img.shields.io/github/forks/abdullah098/CVE_2020_0796">	<img alt="stars" src="https://img.shields.io/github/stars/abdullah098/CVE_2020_0796">
 - [MrWQ/CVE-2020-0796](https://github.com/MrWQ/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/MrWQ/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/MrWQ/CVE-2020-0796">
+- [hungdnvp/POC-CVE-2020-0796](https://github.com/hungdnvp/POC-CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/hungdnvp/POC-CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/hungdnvp/POC-CVE-2020-0796">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
