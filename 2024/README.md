@@ -54,6 +54,11 @@
 - [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381)	<img alt="forks" src="https://img.shields.io/github/forks/Ox130e07d/CVE-2024-25381">	<img alt="stars" src="https://img.shields.io/github/stars/Ox130e07d/CVE-2024-25381">
 
 ---
+## CVE-2024-25376 ()
+> 
+- [ewilded/CVE-2024-25376-POC](https://github.com/ewilded/CVE-2024-25376-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-25376-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-25376-POC">
+
+---
 ## CVE-2024-25281 ()
 > 
 - [sajaljat/CVE-2024-25281](https://github.com/sajaljat/CVE-2024-25281)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25281">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25281">
