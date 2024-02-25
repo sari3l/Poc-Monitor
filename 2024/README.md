@@ -225,6 +225,16 @@
 - [ASR511-OO7/CVE-2024-24097](https://github.com/ASR511-OO7/CVE-2024-24097)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24097">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24097">
 
 ---
+## CVE-2024-24096 ()
+> 
+- [ASR511-OO7/CVE-2024-24096](https://github.com/ASR511-OO7/CVE-2024-24096)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24096">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24096">
+
+---
+## CVE-2024-24095 ()
+> 
+- [ASR511-OO7/CVE-2024-24095](https://github.com/ASR511-OO7/CVE-2024-24095)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24095">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24095">
+
+---
 ## CVE-2024-24094 ()
 > 
 - [ASR511-OO7/CVE-2024-24094](https://github.com/ASR511-OO7/CVE-2024-24094)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24094">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24094">
@@ -369,6 +379,11 @@
 ## CVE-2024-22922 (2024-01-25T22:15:00)
 > An issue in Projectworlds Vistor Management Systemin PHP v.1.0 allows a remtoe attacker to escalate privileges via a crafted script to the login page in the POST/index.php
 - [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22922">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22922">
+
+---
+## CVE-2024-22917 ()
+> 
+- [ASR511-OO7/CVE-2024-22917](https://github.com/ASR511-OO7/CVE-2024-22917)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-22917">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-22917">
 
 ---
 ## CVE-2024-22909 ()

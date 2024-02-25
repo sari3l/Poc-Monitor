@@ -1785,6 +1785,26 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41507">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41507">
 
 ---
+## CVE-2023-41506 ()
+> 
+- [ASR511-OO7/CVE-2023-41506](https://github.com/ASR511-OO7/CVE-2023-41506)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41506">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41506">
+
+---
+## CVE-2023-41505 ()
+> 
+- [ASR511-OO7/CVE-2023-41505](https://github.com/ASR511-OO7/CVE-2023-41505)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41505">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41505">
+
+---
+## CVE-2023-41504 ()
+> 
+- [ASR511-OO7/CVE-2023-41504](https://github.com/ASR511-OO7/CVE-2023-41504)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41504">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41504">
+
+---
+## CVE-2023-41503 ()
+> 
+- [ASR511-OO7/CVE-2023-41503](https://github.com/ASR511-OO7/CVE-2023-41503)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41503">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41503">
+
+---
 ## CVE-2023-41501 ()
 > 
 - [ASR511-OO7/CVE-2023-41501](https://github.com/ASR511-OO7/CVE-2023-41501)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41501">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41501">
@@ -1855,6 +1875,16 @@ The vulnerability is limited to the ROOT (default) web application.
 - [apt0factury/CVE-2023-41064](https://github.com/apt0factury/CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-41064">
 - [MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064](https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064">
 - [MrR0b0t19/CVE-2023-41064](https://github.com/MrR0b0t19/CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2023-41064">
+
+---
+## CVE-2023-41015 ()
+> 
+- [ASR511-OO7/CVE-2023-41015](https://github.com/ASR511-OO7/CVE-2023-41015)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41015">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41015">
+
+---
+## CVE-2023-41014 ()
+> 
+- [ASR511-OO7/CVE-2023-41014](https://github.com/ASR511-OO7/CVE-2023-41014)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41014">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41014">
 
 ---
 ## CVE-2023-40989 (2023-09-22T20:15:00)
@@ -3410,6 +3440,16 @@ Security and Spring WebFlux, and the potential for a security bypass.
 ## CVE-2023-33730 (2023-05-31T20:15:00)
 > Privilege Escalation in the "GetUserCurrentPwd" function in Microworld Technologies eScan Management Console 14.0.1400.2281 allows any remote attacker to retrieve password of any admin or normal user in plain text format.
 - [sahiloj/CVE-2023-33730](https://github.com/sahiloj/CVE-2023-33730)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33730">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33730">
+
+---
+## CVE-2023-33677 ()
+> 
+- [ASR511-OO7/CVE-2023-33677](https://github.com/ASR511-OO7/CVE-2023-33677)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-33677">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-33677">
+
+---
+## CVE-2023-33676 ()
+> 
+- [ASR511-OO7/CVE-2023-33676](https://github.com/ASR511-OO7/CVE-2023-33676)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-33676">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-33676">
 
 ---
 ## CVE-2023-33668 (2023-07-12T13:15:00)
