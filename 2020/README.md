@@ -1510,8 +1510,8 @@
 - [Live-Hack-CVE/CVE-2020-3499](https://github.com/Live-Hack-CVE/CVE-2020-3499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-3499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-3499">
 
 ---
-## CVE-2020-3452 ()
-> 
+## CVE-2020-3452 (2020-07-22T20:15:00)
+> A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.
 - [imhunterand/CVE-2020-3452](https://github.com/imhunterand/CVE-2020-3452)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2020-3452">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2020-3452">
 - [cygenta/CVE-2020-3452](https://github.com/cygenta/CVE-2020-3452)	<img alt="forks" src="https://img.shields.io/github/forks/cygenta/CVE-2020-3452">	<img alt="stars" src="https://img.shields.io/github/stars/cygenta/CVE-2020-3452">
 - [iveresk/cve-2020-3452](https://github.com/iveresk/cve-2020-3452)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2020-3452">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2020-3452">
