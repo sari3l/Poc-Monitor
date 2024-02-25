@@ -2316,6 +2316,11 @@ URL that curl has been told to operate with.
 - [nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3812">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3812">
 
 ---
+## CVE-2023-38041 (2023-10-25T18:17:00)
+> A logged in user may elevate its permissions by abusing a Time-of-Check to Time-of-Use (TOCTOU) race condition. When a particular process flow is initiated, an attacker can exploit this condition to gain unauthorized elevated privileges on the affected system.
+- [ewilded/CVE-2023-38041-POC](https://github.com/ewilded/CVE-2023-38041-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-38041-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-38041-POC">
+
+---
 ## CVE-2023-38035 (2023-08-21T17:15:00)
 > A security vulnerability in MICS Admin Portal in Ivanti MobileIron Sentry versions 9.18.0 and below, which may allow an attacker to bypass authentication controls on the administrative interface due to an insufficiently restrictive Apache HTTPD configuration. 
 - [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-38035">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-38035">
