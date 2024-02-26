@@ -21,6 +21,21 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-26560 ()
+> 
+- [sajaljat/CVE-2024-26560](https://github.com/sajaljat/CVE-2024-26560)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-26560">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-26560">
+
+---
+## CVE-2024-26535 ()
+> 
+- [sajaljat/CVE-2024-26535](https://github.com/sajaljat/CVE-2024-26535)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-26535">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-26535">
+
+---
+## CVE-2024-26534 ()
+> 
+- [sajaljat/CVE-2024-26534](https://github.com/sajaljat/CVE-2024-26534)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-26534">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-26534">
+
+---
 ## CVE-2024-25809 ()
 > 
 - [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25809">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25809">
