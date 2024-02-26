@@ -879,6 +879,7 @@
 - [M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [M54S/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer](https://github.com/M54S/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/M54S/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/M54S/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer">
+- [corelight/cve-2021-44228](https://github.com/corelight/cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/cve-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
