@@ -302,6 +302,7 @@
 - [ThatNotEasy/CVE-2024-23897](https://github.com/ThatNotEasy/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-23897">
 - [pulentoski/CVE-2024-23897-Arbitrary-file-read](https://github.com/pulentoski/CVE-2024-23897-Arbitrary-file-read)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2024-23897-Arbitrary-file-read">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2024-23897-Arbitrary-file-read">
 - [Nebian/CVE-2024-23897](https://github.com/Nebian/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Nebian/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Nebian/CVE-2024-23897">
+- [Abo5/CVE-2024-23897](https://github.com/Abo5/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-23897">
 
 ---
 ## CVE-2024-23774 ()
