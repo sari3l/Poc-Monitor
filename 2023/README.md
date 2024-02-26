@@ -1712,6 +1712,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/zaenhaxor/CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/zaenhaxor/CVE-2023-41892">
 - [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/zaenhaxor/CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/zaenhaxor/CVE-2023-41892">
 - [Faelian/CraftCMS_CVE-2023-41892](https://github.com/Faelian/CraftCMS_CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/Faelian/CraftCMS_CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/Faelian/CraftCMS_CVE-2023-41892">
+- [acesoyeo/CVE-2023-41892](https://github.com/acesoyeo/CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/acesoyeo/CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/acesoyeo/CVE-2023-41892">
 
 ---
 ## CVE-2023-41772 (2023-10-10T18:15:00)
