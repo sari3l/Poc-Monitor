@@ -547,6 +547,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">
 
 ---
+## CVE-2024-21762 (2024-02-09T09:15:00)
+> A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 through 7.0.13, 6.4.0 through 6.4.14, 6.2.0 through 6.2.15, 6.0.0 through 6.0.17, FortiProxy versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.8, 7.0.0 through 7.0.14, 2.0.0 through 2.0.13, 1.2.0 through 1.2.13, 1.1.0 through 1.1.6, 1.0.0 through 1.0.7 allows attacker to execute unauthorized code or commands via specifically crafted requests
+- [Gh71m/CVE-2024-21762-POC](https://github.com/Gh71m/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Gh71m/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Gh71m/CVE-2024-21762-POC">
+
+---
 ## CVE-2024-21633 (2024-01-03T17:15:00)
 > Apktool is a tool for reverse engineering Android APK files. In versions 2.9.1 and prior, Apktool infers resource files' output path according to their resource names which can be manipulated by attacker to place files at desired location on the system Apktool runs on. Affected environments are those in which an attacker may write/overwrite any file that user has write access, and either user name is known or cwd is under user folder. Commit d348c43b24a9de350ff6e5bd610545a10c1fc712 contains a patch for this issue.
 - [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633)	<img alt="forks" src="https://img.shields.io/github/forks/0x33c0unt/CVE-2024-21633">	<img alt="stars" src="https://img.shields.io/github/stars/0x33c0unt/CVE-2024-21633">
