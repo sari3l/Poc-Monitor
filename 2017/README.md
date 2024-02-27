@@ -560,6 +560,11 @@
 - [Live-Hack-CVE/CVE-2017-2926](https://github.com/Live-Hack-CVE/CVE-2017-2926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2926">
 
 ---
+## CVE-2017-2903 (2018-04-24T19:29:00)
+> An exploitable integer overflow exists in the DPX loading functionality of the Blender open-source 3d creation suite version 2.78c. A specially crafted '.cin' file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An attacker can convince a user to use the file as an asset via the sequencer in order to trigger this vulnerability.
+- [SpiralBL0CK/dpx_work_CVE-2017-2903](https://github.com/SpiralBL0CK/dpx_work_CVE-2017-2903)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/dpx_work_CVE-2017-2903">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/dpx_work_CVE-2017-2903">
+
+---
 ## CVE-2017-2751 (2018-10-03T20:29:00)
 > A BIOS password extraction vulnerability has been reported on certain consumer notebooks with firmware F.22 and others. The BIOS password was stored in CMOS in a way that allowed it to be extracted. This applies to consumer notebooks launched in early 2014.
 - [BaderSZ/CVE-2017-2751](https://github.com/BaderSZ/CVE-2017-2751)	<img alt="forks" src="https://img.shields.io/github/forks/BaderSZ/CVE-2017-2751">	<img alt="stars" src="https://img.shields.io/github/stars/BaderSZ/CVE-2017-2751">
