@@ -678,6 +678,11 @@ This is possible because the application is vulnerable to insecure deserializati
 - [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">
 
 ---
+## CVE-2024-1071 ()
+> 
+- [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2024-1071">
+
+---
 ## CVE-2024-0846 ()
 > 
 - [0x9567b/CVE-2024-0846](https://github.com/0x9567b/CVE-2024-0846)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0846">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0846">
