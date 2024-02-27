@@ -42,6 +42,11 @@
 - [mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/mochammadrafi/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/mochammadrafi/CVE-2023-7028">
 
 ---
+## CVE-2023-7016 (2024-02-27T11:15:00)
+> A flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows allows an attacker to execute code at a SYSTEM level via local access.
+- [ewilded/CVE-2023-7016-POC](https://github.com/ewilded/CVE-2023-7016-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-7016-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-7016-POC">
+
+---
 ## CVE-2023-6985 (2024-02-05T22:15:00)
 > The 10Web AI Assistant – AI content writing assistant plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the install_plugin AJAX action in all versions up to, and including, 1.0.18. This makes it possible for authenticated attackers, with subscriber-level access and above, to install arbitrary plugins that can be used to gain further access to a compromised site.
 - [RandomRobbieBF/CVE-2023-6985](https://github.com/RandomRobbieBF/CVE-2023-6985)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6985">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6985">
