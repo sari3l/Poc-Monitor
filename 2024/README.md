@@ -722,8 +722,10 @@ This is possible because the application is vulnerable to insecure deserializati
 - [adminlove520/CVE-2024-0204](https://github.com/adminlove520/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/adminlove520/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/adminlove520/CVE-2024-0204">
 
 ---
-## CVE-2024-0197 ()
-> 
+## CVE-2024-0197 (2024-02-27T13:15:00)
+> A flaw in the installer for Thales SafeNet Sentinel HASP LDK prior to 9.16 on Windows allows an attacker to escalate their privilege level via local access.
+
+
 - [ewilded/CVE-2024-0197-POC](https://github.com/ewilded/CVE-2024-0197-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-0197-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-0197-POC">
 
 ---
