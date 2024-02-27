@@ -91,6 +91,11 @@
 - [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-6661">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-6661">
 
 ---
+## CVE-2023-6654 (2023-12-10T15:15:00)
+> A vulnerability classified as critical was found in PHPEMS 6.x/7.x/8.x/9.0. Affected by this vulnerability is an unknown functionality in the library lib/session.cls.php of the component Session Data Handler. The manipulation leads to deserialization. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-247357 was assigned to this vulnerability.
+- [qfmy1024/CVE-2023-6654](https://github.com/qfmy1024/CVE-2023-6654)	<img alt="forks" src="https://img.shields.io/github/forks/qfmy1024/CVE-2023-6654">	<img alt="stars" src="https://img.shields.io/github/stars/qfmy1024/CVE-2023-6654">
+
+---
 ## CVE-2023-6567 (2024-01-11T09:15:00)
 > The LearnPress plugin for WordPress is vulnerable to time-based SQL Injection via the ‘order_by’ parameter in all versions up to, and including, 4.2.5.7 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mimiloveexe/CVE-2023-6567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mimiloveexe/CVE-2023-6567-poc">
