@@ -1469,6 +1469,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/knight0x07/CVE-2023-43770-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/knight0x07/CVE-2023-43770-PoC">
 
 ---
+## CVE-2023-43757 ()
+> 
+- [sharmashreejaa/CVE-2023-43757](https://github.com/sharmashreejaa/CVE-2023-43757)	<img alt="forks" src="https://img.shields.io/github/forks/sharmashreejaa/CVE-2023-43757">	<img alt="stars" src="https://img.shields.io/github/stars/sharmashreejaa/CVE-2023-43757">
+
+---
 ## CVE-2023-43641 (2023-10-09T22:15:00)
 > libcue provides an API for parsing and extracting data from CUE sheets. Versions 2.2.1 and prior are vulnerable to out-of-bounds array access. A user of the GNOME desktop environment can be exploited by downloading a cue sheet from a malicious webpage. Because the file is saved to `~/Downloads`, it is then automatically scanned by tracker-miners. And because it has a .cue filename extension, tracker-miners use libcue to parse the file. The file exploits the vulnerability in libcue to gain code execution. This issue is patched in version 2.3.0.
 - [ItsMagick/CVE-2023-43641](https://github.com/ItsMagick/CVE-2023-43641)	<img alt="forks" src="https://img.shields.io/github/forks/ItsMagick/CVE-2023-43641">	<img alt="stars" src="https://img.shields.io/github/stars/ItsMagick/CVE-2023-43641">
