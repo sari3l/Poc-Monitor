@@ -551,6 +551,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 > A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 through 7.0.13, 6.4.0 through 6.4.14, 6.2.0 through 6.2.15, 6.0.0 through 6.0.17, FortiProxy versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.8, 7.0.0 through 7.0.14, 2.0.0 through 2.0.13, 1.2.0 through 1.2.13, 1.1.0 through 1.1.6, 1.0.0 through 1.0.7 allows attacker to execute unauthorized code or commands via specifically crafted requests
 - [Gh71m/CVE-2024-21762-POC](https://github.com/Gh71m/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Gh71m/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Gh71m/CVE-2024-21762-POC">
 - [jul1us01/CVE-2024-21762-POC](https://github.com/jul1us01/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jul1us01/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jul1us01/CVE-2024-21762-POC">
+- [c0d3b3af/CVE-2024-21762-POC](https://github.com/c0d3b3af/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-21762-POC">
 
 ---
 ## CVE-2024-21633 (2024-01-03T17:15:00)
