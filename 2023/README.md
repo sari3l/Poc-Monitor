@@ -2021,6 +2021,11 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-40031">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-40031">
 
 ---
+## CVE-2023-40000 ()
+> 
+- [rxerium/CVE-2023-40000](https://github.com/rxerium/CVE-2023-40000)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2023-40000">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2023-40000">
+
+---
 ## CVE-2023-39725 ()
 > 
 - [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-39725">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-39725">
