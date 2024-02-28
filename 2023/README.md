@@ -1710,6 +1710,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [0x06060606/CVE-2023-41993](https://github.com/0x06060606/CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/0x06060606/CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/0x06060606/CVE-2023-41993">
 - [Mangaia/cve-test](https://github.com/Mangaia/cve-test)	<img alt="forks" src="https://img.shields.io/github/forks/Mangaia/cve-test">	<img alt="stars" src="https://img.shields.io/github/stars/Mangaia/cve-test">
 - [ZZY3312/CVE-2023-41993](https://github.com/ZZY3312/CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-41993">
+- [J3Ss0u/CVE-2023-41993](https://github.com/J3Ss0u/CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/J3Ss0u/CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/J3Ss0u/CVE-2023-41993">
 
 ---
 ## CVE-2023-41991 (2023-09-21T19:15:00)
