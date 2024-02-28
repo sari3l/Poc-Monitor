@@ -2085,6 +2085,7 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 ## CVE-2023-39362 (2023-09-05T22:15:00)
 > Cacti is an open source operational monitoring and fault management framework. In Cacti 1.2.24, under certain conditions, an authenticated privileged user, can use a malicious string in the SNMP options of a Device, performing command injection and obtaining remote code execution on the underlying server. The `lib/snmp.php` file has a set of functions, with similar behavior, that accept in input some variables and place them into an `exec` call without a proper escape or validation. This issue has been addressed in version 1.2.25. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc](https://github.com/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc">
+- [m3ssap0/cacti-rce-snmp-options-vulnerable-application](https://github.com/m3ssap0/cacti-rce-snmp-options-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/cacti-rce-snmp-options-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/cacti-rce-snmp-options-vulnerable-application">
 
 ---
 ## CVE-2023-39320 (2023-09-08T17:15:00)
