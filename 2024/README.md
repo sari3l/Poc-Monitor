@@ -391,6 +391,11 @@
 - [V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23738">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23738">
 
 ---
+## CVE-2024-23334 (2024-01-29T23:15:00)
+> aiohttp is an asynchronous HTTP client/server framework for asyncio and Python. When using aiohttp as a web server and configuring static routes, it is necessary to specify the root path for static files. Additionally, the option 'follow_symlinks' can be used to determine whether to follow symbolic links outside the static root directory. When 'follow_symlinks' is set to True, there is no validation to check if reading a file is within the root directory. This can lead to directory traversal vulnerabilities, resulting in unauthorized access to arbitrary files on the system, even when symlinks are not present.  Disabling follow_symlinks and using a reverse proxy are encouraged mitigations.  Version 3.9.2 fixes this issue.
+- [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/CVE-2024-23334">
+
+---
 ## CVE-2024-23222 (2024-01-23T01:15:00)
 > A type confusion issue was addressed with improved checks. This issue is fixed in tvOS 17.3, iOS 17.3 and iPadOS 17.3, macOS Sonoma 14.3, iOS 16.7.5 and iPadOS 16.7.5, Safari 17.3, macOS Ventura 13.6.4, macOS Monterey 12.7.3. Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited.
 - [supportmango/CVE-2024-23222-patch](https://github.com/supportmango/CVE-2024-23222-patch)	<img alt="forks" src="https://img.shields.io/github/forks/supportmango/CVE-2024-23222-patch">	<img alt="stars" src="https://img.shields.io/github/stars/supportmango/CVE-2024-23222-patch">
