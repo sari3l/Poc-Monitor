@@ -458,6 +458,24 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [knqyf263/CVE-2023-50387](https://github.com/knqyf263/CVE-2023-50387)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2023-50387">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2023-50387">
 
 ---
+## CVE-2023-50386 (2024-02-09T18:15:00)
+> Improper Control of Dynamically-Managed Code Resources, Unrestricted Upload of File with Dangerous Type, Inclusion of Functionality from Untrusted Control Sphere vulnerability in Apache Solr.This issue affects Apache Solr: from 6.0.0 through 8.11.2, from 9.0.0 before 9.4.1.
+
+In the affected versions, Solr ConfigSets accepted Java jar and class files to be uploaded through the ConfigSets API.
+When backing up Solr Collections, these configSet files would be saved to disk when using the LocalFileSystemRepository (the default for backups).
+If the backup was saved to a directory that Solr uses in its ClassPath/ClassLoaders, then the jar and class files would be available to use with any ConfigSet, trusted or untrusted.
+
+When Solr is run in a secure way (Authorization enabled), as is strongly suggested, this vulnerability is limited to extending the Backup permissions with the ability to add libraries.
+Users are recommended to upgrade to version 8.11.3 or 9.4.1, which fix the issue.
+In these versions, the following protections have been added:
+
+  *  Users are no longer able to upload files to a configSet that could be executed via a Java ClassLoader.
+  *  The Backup API restricts saving backups to directories that are used in the ClassLoader.
+
+
+- [vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC](https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC)	<img alt="forks" src="https://img.shields.io/github/forks/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC">	<img alt="stars" src="https://img.shields.io/github/stars/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC">
+
+---
 ## CVE-2023-5024 (2023-09-17T07:15:00)
 > A vulnerability was found in Planno 23.04.04. It has been classified as problematic. This affects an unknown part of the component Comment Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239865 was assigned to this vulnerability.
 - [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
