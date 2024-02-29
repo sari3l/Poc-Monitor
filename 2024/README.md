@@ -672,6 +672,7 @@ This is possible because the application is vulnerable to insecure deserializati
 
 
 - [sharpicx/CVE-2024-1651-PoC](https://github.com/sharpicx/CVE-2024-1651-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sharpicx/CVE-2024-1651-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sharpicx/CVE-2024-1651-PoC">
+- [hy011121/CVE-2024-1651-exploit-RCE-](https://github.com/hy011121/CVE-2024-1651-exploit-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/hy011121/CVE-2024-1651-exploit-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/hy011121/CVE-2024-1651-exploit-RCE-">
 
 ---
 ## CVE-2024-1346 (2024-02-19T12:15:00)
