@@ -590,6 +590,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [anntsmart/CVE-2024-21413](https://github.com/anntsmart/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/anntsmart/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/anntsmart/CVE-2024-21413">
 - [ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">
 - [DevAkabari/CVE-2024-21413](https://github.com/DevAkabari/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/DevAkabari/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/DevAkabari/CVE-2024-21413">
+- [dshabani96/CVE-2024-21413](https://github.com/dshabani96/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/dshabani96/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/dshabani96/CVE-2024-21413">
 
 ---
 ## CVE-2024-21410 (2024-02-13T18:15:00)
