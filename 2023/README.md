@@ -2981,6 +2981,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [DamnIt74/CVE-2023-36025](https://github.com/DamnIt74/CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/DamnIt74/CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/DamnIt74/CVE-2023-36025">
 - [J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/J466Y/test_CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/J466Y/test_CVE-2023-36025">
 - [coolman6942o/-EXPLOIT-CVE-2023-36025](https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/coolman6942o/-EXPLOIT-CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/coolman6942o/-EXPLOIT-CVE-2023-36025">
+- [M4shl3/CVE-2023-36025-test](https://github.com/M4shl3/CVE-2023-36025-test)	<img alt="forks" src="https://img.shields.io/github/forks/M4shl3/CVE-2023-36025-test">	<img alt="stars" src="https://img.shields.io/github/stars/M4shl3/CVE-2023-36025-test">
 
 ---
 ## CVE-2023-36003 (2023-12-12T18:15:00)
