@@ -258,18 +258,18 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [Pastea/CVE-2023-51810](https://github.com/Pastea/CVE-2023-51810)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2023-51810">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2023-51810">
 
 ---
-## CVE-2023-51802 ()
-> 
+## CVE-2023-51802 (2024-02-29T02:15:00)
+> Cross Site Scripting (XSS) vulnerability in the Simple Student Attendance System v.1.0 allows a remote attacker to execute arbitrary code via a crafted payload to the page or class_month parameter in the /php-attendance/attendance_report component.
 - [geraldoalcantara/CVE-2023-51802](https://github.com/geraldoalcantara/CVE-2023-51802)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51802">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51802">
 
 ---
-## CVE-2023-51801 ()
-> 
+## CVE-2023-51801 (2024-02-29T02:15:00)
+> SQL Injection vulnerability in the Simple Student Attendance System v.1.0 allows a remote attacker to execute arbitrary code via a crafted payload to the id parameter in the student_form.php and the class_form.php pages.
 - [geraldoalcantara/CVE-2023-51801](https://github.com/geraldoalcantara/CVE-2023-51801)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51801">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51801">
 
 ---
-## CVE-2023-51800 ()
-> 
+## CVE-2023-51800 (2024-02-29T02:15:00)
+> Cross Site Scripting (XSS) vulnerability in School Fees Management System v.1.0 allows a remote attacker to execute arbitrary code via a crafted payload to the main_settings component in the phone, address, bank, acc_name, acc_number parameters, new_class and cname parameter, add_new_parent function in the name email parameters, new_term function in the tname parameter, and the edit_student function in the name parameter.
 - [geraldoalcantara/CVE-2023-51800](https://github.com/geraldoalcantara/CVE-2023-51800)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51800">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51800">
 
 ---
