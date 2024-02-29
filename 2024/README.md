@@ -467,8 +467,8 @@
 - [austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534)	<img alt="forks" src="https://img.shields.io/github/forks/austino2000/CVE-2024-22534">	<img alt="stars" src="https://img.shields.io/github/stars/austino2000/CVE-2024-22534">
 
 ---
-## CVE-2024-22532 ()
-> 
+## CVE-2024-22532 (2024-02-28T23:15:00)
+> Buffer Overflow vulnerability in XNSoft NConvert 7.163 (for Windows x86) allows attackers to cause a denial of service via crafted xwd file.
 - [pwndorei/CVE-2024-22532](https://github.com/pwndorei/CVE-2024-22532)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2024-22532">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2024-22532">
 
 ---
