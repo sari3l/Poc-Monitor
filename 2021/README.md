@@ -5191,6 +5191,11 @@
 - [nanopathi/linux-4.19.72_CVE-2021-3347](https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/linux-4.19.72_CVE-2021-3347">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/linux-4.19.72_CVE-2021-3347">
 
 ---
+## CVE-2021-3345 (2021-01-29T15:15:00)
+> _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.
+- [SpiralBL0CK/CVE-2021-3345](https://github.com/SpiralBL0CK/CVE-2021-3345)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2021-3345">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2021-3345">
+
+---
 ## CVE-2021-3326 (2021-01-27T20:15:00)
 > The iconv function in the GNU C Library (aka glibc or libc6) 2.32 and earlier, when processing invalid input sequences in the ISO-2022-JP-3 encoding, fails an assertion in the code path and aborts the program, potentially resulting in a denial of service.
 - [Live-Hack-CVE/CVE-2021-3326](https://github.com/Live-Hack-CVE/CVE-2021-3326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3326">
