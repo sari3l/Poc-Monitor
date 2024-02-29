@@ -5194,6 +5194,7 @@
 ## CVE-2021-3345 (2021-01-29T15:15:00)
 > _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.
 - [SpiralBL0CK/CVE-2021-3345](https://github.com/SpiralBL0CK/CVE-2021-3345)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2021-3345">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2021-3345">
+- [MLGRadish/CVE-2021-3345](https://github.com/MLGRadish/CVE-2021-3345)	<img alt="forks" src="https://img.shields.io/github/forks/MLGRadish/CVE-2021-3345">	<img alt="stars" src="https://img.shields.io/github/stars/MLGRadish/CVE-2021-3345">
 
 ---
 ## CVE-2021-3326 (2021-01-27T20:15:00)
