@@ -159,6 +159,11 @@
 - [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5843-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5843-PoC">
 
 ---
+## CVE-2023-5830 (2023-10-27T21:15:00)
+> A vulnerability classified as critical has been found in ColumbiaSoft Document Locator. This affects an unknown part of the file /api/authentication/login of the component WebTools. The manipulation of the argument Server leads to improper authentication. It is possible to initiate the attack remotely. Upgrading to version 7.2 SP4 and 2021.1 is able to address this issue. It is recommended to upgrade the affected component. The identifier VDB-243729 was assigned to this vulnerability.
+- [mbb5546/CVE-2023-5830](https://github.com/mbb5546/CVE-2023-5830)	<img alt="forks" src="https://img.shields.io/github/forks/mbb5546/CVE-2023-5830">	<img alt="stars" src="https://img.shields.io/github/stars/mbb5546/CVE-2023-5830">
+
+---
 ## CVE-2023-5815 ()
 > 
 - [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5815-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5815-PoC">
