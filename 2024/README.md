@@ -57,6 +57,7 @@
 - [Christbowel/CVE-2024-25600_Nuclei-Template](https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2024-25600_Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2024-25600_Nuclei-Template">
 - [h0tak88r/CVE-2024-25600checker](https://github.com/h0tak88r/CVE-2024-25600checker)	<img alt="forks" src="https://img.shields.io/github/forks/h0tak88r/CVE-2024-25600checker">	<img alt="stars" src="https://img.shields.io/github/stars/h0tak88r/CVE-2024-25600checker">
 - [Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)	<img alt="forks" src="https://img.shields.io/github/forks/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">	<img alt="stars" src="https://img.shields.io/github/stars/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">
+- [hy011121/CVE-2024-25600-wordpress-Exploit-RCE](https://github.com/hy011121/CVE-2024-25600-wordpress-Exploit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hy011121/CVE-2024-25600-wordpress-Exploit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hy011121/CVE-2024-25600-wordpress-Exploit-RCE">
 
 ---
 ## CVE-2024-25466 (2024-02-16T09:15:00)
