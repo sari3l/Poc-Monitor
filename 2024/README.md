@@ -627,6 +627,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 ## CVE-2024-21410 (2024-02-13T18:15:00)
 > Microsoft Exchange Server Elevation of Privilege Vulnerability
 - [sk2wie/CVE-2024-21410-CITRIX](https://github.com/sk2wie/CVE-2024-21410-CITRIX)	<img alt="forks" src="https://img.shields.io/github/forks/sk2wie/CVE-2024-21410-CITRIX">	<img alt="stars" src="https://img.shields.io/github/stars/sk2wie/CVE-2024-21410-CITRIX">
+- [FreakyMondy/CVE-2024-21410](https://github.com/FreakyMondy/CVE-2024-21410)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyMondy/CVE-2024-21410">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyMondy/CVE-2024-21410">
 
 ---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
