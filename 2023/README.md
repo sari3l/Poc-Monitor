@@ -1536,6 +1536,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43323">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43323">
 
 ---
+## CVE-2023-43318 ()
+> 
+- [str2ver/CVE-2023-43318](https://github.com/str2ver/CVE-2023-43318)	<img alt="forks" src="https://img.shields.io/github/forks/str2ver/CVE-2023-43318">	<img alt="stars" src="https://img.shields.io/github/stars/str2ver/CVE-2023-43318">
+
+---
 ## CVE-2023-43317 (2024-01-24T07:15:00)
 > An issue in Coign CRM Portal v.06.06 allows a remote attacker to escalate privileges via the userPermissionsList parameter in Session Storage component.
 - [amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317)	<img alt="forks" src="https://img.shields.io/github/forks/amjadali-110/CVE-2023-43317">	<img alt="stars" src="https://img.shields.io/github/stars/amjadali-110/CVE-2023-43317">
