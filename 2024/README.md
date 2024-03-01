@@ -688,6 +688,11 @@ This is possible because the application is vulnerable to insecure deserializati
 - [hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hy011121/CVE-2024-1651-exploit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hy011121/CVE-2024-1651-exploit-RCE">
 
 ---
+## CVE-2024-1512 (2024-02-17T08:15:00)
+> The MasterStudy LMS WordPress Plugin – for Online Courses and Education plugin for WordPress is vulnerable to union based SQL Injection via the 'user' parameter of the /lms/stm-lms/order/items REST route in all versions up to, and including, 3.2.5 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
+- [rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512)	<img alt="forks" src="https://img.shields.io/github/forks/rat-c/CVE-2024-1512">	<img alt="stars" src="https://img.shields.io/github/stars/rat-c/CVE-2024-1512">
+
+---
 ## CVE-2024-1346 (2024-02-19T12:15:00)
 > Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants.
 - [PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2024-1346">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2024-1346">
