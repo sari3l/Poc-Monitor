@@ -736,6 +736,11 @@ This is possible because the application is vulnerable to insecure deserializati
 - [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2024-1071">
 
 ---
+## CVE-2024-0967 (2024-03-01T15:15:00)
+> A potential vulnerability has been identified in OpenText / Micro Focus ArcSight Enterprise Security Manager (ESM). The vulnerability could be remotely exploited.
+- [Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-0967-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-0967-exploit">
+
+---
 ## CVE-2024-0846 ()
 > 
 - [0x9567b/CVE-2024-0846](https://github.com/0x9567b/CVE-2024-0846)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0846">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0846">
