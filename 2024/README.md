@@ -571,6 +571,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [c0d3b3af/CVE-2024-21762-POC](https://github.com/c0d3b3af/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-21762-POC">
 - [latrinacardinalfx/CVE-2024-21762-FG-IR-24-015-exp](https://github.com/latrinacardinalfx/CVE-2024-21762-FG-IR-24-015-exp)	<img alt="forks" src="https://img.shields.io/github/forks/latrinacardinalfx/CVE-2024-21762-FG-IR-24-015-exp">	<img alt="stars" src="https://img.shields.io/github/stars/latrinacardinalfx/CVE-2024-21762-FG-IR-24-015-exp">
 - [BishopFox/cve-2024-21762-check](https://github.com/BishopFox/cve-2024-21762-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/cve-2024-21762-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/cve-2024-21762-check">
+- [tr1pl3ight/CVE-2024-21762-POC](https://github.com/tr1pl3ight/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/CVE-2024-21762-POC">
 
 ---
 ## CVE-2024-21633 (2024-01-03T17:15:00)
