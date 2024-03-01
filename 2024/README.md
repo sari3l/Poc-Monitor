@@ -398,6 +398,11 @@
 - [V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23738">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23738">
 
 ---
+## CVE-2024-23652 (2024-01-31T22:15:00)
+> BuildKit is a toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner. A malicious BuildKit frontend or Dockerfile using RUN --mount could trick the feature that removes empty files created for the mountpoints into removing a file outside the container, from the host system. The issue has been fixed in v0.12.5. Workarounds include avoiding using BuildKit frontends from an untrusted source or building an untrusted Dockerfile containing RUN --mount feature.
+- [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652)	<img alt="forks" src="https://img.shields.io/github/forks/abian2/CVE-2024-23652">	<img alt="stars" src="https://img.shields.io/github/stars/abian2/CVE-2024-23652">
+
+---
 ## CVE-2024-23334 (2024-01-29T23:15:00)
 > aiohttp is an asynchronous HTTP client/server framework for asyncio and Python. When using aiohttp as a web server and configuring static routes, it is necessary to specify the root path for static files. Additionally, the option 'follow_symlinks' can be used to determine whether to follow symbolic links outside the static root directory. When 'follow_symlinks' is set to True, there is no validation to check if reading a file is within the root directory. This can lead to directory traversal vulnerabilities, resulting in unauthorized access to arbitrary files on the system, even when symlinks are not present.  Disabling follow_symlinks and using a reverse proxy are encouraged mitigations.  Version 3.9.2 fixes this issue.
 - [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/CVE-2024-23334">
@@ -564,6 +569,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [Gh71m/CVE-2024-21762-POC](https://github.com/Gh71m/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Gh71m/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Gh71m/CVE-2024-21762-POC">
 - [jul1us01/CVE-2024-21762-POC](https://github.com/jul1us01/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jul1us01/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jul1us01/CVE-2024-21762-POC">
 - [c0d3b3af/CVE-2024-21762-POC](https://github.com/c0d3b3af/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-21762-POC">
+- [latrinacardinalfx/CVE-2024-21762-FG-IR-24-015-exp](https://github.com/latrinacardinalfx/CVE-2024-21762-FG-IR-24-015-exp)	<img alt="forks" src="https://img.shields.io/github/forks/latrinacardinalfx/CVE-2024-21762-FG-IR-24-015-exp">	<img alt="stars" src="https://img.shields.io/github/stars/latrinacardinalfx/CVE-2024-21762-FG-IR-24-015-exp">
 
 ---
 ## CVE-2024-21633 (2024-01-03T17:15:00)
@@ -582,6 +588,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [laysakura/CVE-2024-21626-demo](https://github.com/laysakura/CVE-2024-21626-demo)	<img alt="forks" src="https://img.shields.io/github/forks/laysakura/CVE-2024-21626-demo">	<img alt="stars" src="https://img.shields.io/github/stars/laysakura/CVE-2024-21626-demo">
 - [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC)	<img alt="forks" src="https://img.shields.io/github/forks/V0WKeep3r/CVE-2024-21626-runcPOC">	<img alt="stars" src="https://img.shields.io/github/stars/V0WKeep3r/CVE-2024-21626-runcPOC">
 - [dombisza/cve-2024-21626](https://github.com/dombisza/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dombisza/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dombisza/cve-2024-21626">
+- [abian2/CVE-2024-21626](https://github.com/abian2/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/abian2/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/abian2/CVE-2024-21626">
 
 ---
 ## CVE-2024-21413 (2024-02-13T18:16:00)
