@@ -1352,6 +1352,7 @@
 - [cved-sources/cve-2017-1000486](https://github.com/cved-sources/cve-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-1000486">
 - [oppsec/pwnfaces](https://github.com/oppsec/pwnfaces)	<img alt="forks" src="https://img.shields.io/github/forks/oppsec/pwnfaces">	<img alt="stars" src="https://img.shields.io/github/stars/oppsec/pwnfaces">
 - [LongWayHomie/CVE-2017-1000486](https://github.com/LongWayHomie/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/LongWayHomie/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/LongWayHomie/CVE-2017-1000486">
+- [jam620/primefaces](https://github.com/jam620/primefaces)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/primefaces">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/primefaces">
 
 ---
 ## CVE-2017-1000381 (2017-07-07T17:29:00)
