@@ -1028,6 +1028,7 @@ QuTS hero h5.1.5.2647 build 20240118 and later
 QuTScloud c5.1.5.2651 and later
 
 - [passwa11/CVE-2023-47218](https://github.com/passwa11/CVE-2023-47218)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2023-47218">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2023-47218">
+- [gogobuster/CVE-2023-47218-POC](https://github.com/gogobuster/CVE-2023-47218-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2023-47218-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2023-47218-POC">
 
 ---
 ## CVE-2023-47184 ()
