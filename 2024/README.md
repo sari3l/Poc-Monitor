@@ -574,6 +574,21 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [tr1pl3ight/CVE-2024-21762-POC](https://github.com/tr1pl3ight/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/CVE-2024-21762-POC">
 
 ---
+## CVE-2024-21672 (2024-01-16T05:15:00)
+> This High severity Remote Code Execution (RCE) vulnerability was introduced in version 2.1.0 of Confluence Data Center and Server.
+
+Remote Code Execution (RCE) vulnerability, with a CVSS Score of 8.3 and a CVSS Vector of CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H allows an unauthenticated attacker to remotely expose assets in your environment susceptible to exploitation which has high impact to confidentiality, high impact to integrity, high impact to availability, and requires user interaction.
+
+Atlassian recommends that Confluence Data Center and Server customers upgrade to latest version, if you are unable to do so, upgrade your instance to one of the specified supported fixed versions:
+
+* Confluence Data Center and Server 7.19: Upgrade to a release 7.19.18, or any higher 7.19.x release
+* Confluence Data Center and Server 8.5: Upgrade to a release 8.5.5 or any higher 8.5.x release
+* Confluence Data Center and Server 8.7: Upgrade to a release 8.7.2 or any higher release
+
+See the release notes (https://confluence.atlassian.com/doc/confluence-release-notes-327.html ). You can download the latest version of Confluence Data Center and Server from the download center (https://www.atlassian.com/software/confluence/download-archives).
+- [swagcrafted/CVE-2024-21672-POC](https://github.com/swagcrafted/CVE-2024-21672-POC)	<img alt="forks" src="https://img.shields.io/github/forks/swagcrafted/CVE-2024-21672-POC">	<img alt="stars" src="https://img.shields.io/github/stars/swagcrafted/CVE-2024-21672-POC">
+
+---
 ## CVE-2024-21633 (2024-01-03T17:15:00)
 > Apktool is a tool for reverse engineering Android APK files. In versions 2.9.1 and prior, Apktool infers resource files' output path according to their resource names which can be manipulated by attacker to place files at desired location on the system Apktool runs on. Affected environments are those in which an attacker may write/overwrite any file that user has write access, and either user name is known or cwd is under user folder. Commit d348c43b24a9de350ff6e5bd610545a10c1fc712 contains a patch for this issue.
 - [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633)	<img alt="forks" src="https://img.shields.io/github/forks/0x33c0unt/CVE-2024-21633">	<img alt="stars" src="https://img.shields.io/github/stars/0x33c0unt/CVE-2024-21633">
