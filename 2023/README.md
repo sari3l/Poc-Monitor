@@ -101,8 +101,11 @@
 - [qfmy1024/CVE-2023-6654](https://github.com/qfmy1024/CVE-2023-6654)	<img alt="forks" src="https://img.shields.io/github/forks/qfmy1024/CVE-2023-6654">	<img alt="stars" src="https://img.shields.io/github/stars/qfmy1024/CVE-2023-6654">
 
 ---
-## CVE-2023-6595 ()
+## CVE-2023-6595 (2023-12-14T16:15:00)
 > 
+In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be missing an authentication mechanism. It is possible for an unauthenticated attacker to enumerate ancillary credential information stored within WhatsUp Gold.
+
+
 - [sharmashreejaa/CVE-2023-6595](https://github.com/sharmashreejaa/CVE-2023-6595)	<img alt="forks" src="https://img.shields.io/github/forks/sharmashreejaa/CVE-2023-6595">	<img alt="stars" src="https://img.shields.io/github/stars/sharmashreejaa/CVE-2023-6595">
 
 ---
