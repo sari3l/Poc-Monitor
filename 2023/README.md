@@ -679,28 +679,28 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [geraldoalcantara/CVE-2023-49546](https://github.com/geraldoalcantara/CVE-2023-49546)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49546">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49546">
 
 ---
-## CVE-2023-49545 ()
-> 
+## CVE-2023-49545 (2024-03-01T22:15:00)
+> A directory listing vulnerability in Customer Support System v1 allows attackers to list directories and sensitive files within the application without requiring authorization.
 - [geraldoalcantara/CVE-2023-49545](https://github.com/geraldoalcantara/CVE-2023-49545)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49545">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49545">
 
 ---
-## CVE-2023-49544 ()
-> 
+## CVE-2023-49544 (2024-03-01T22:15:00)
+> A local file inclusion (LFI) in Customer Support System v1 allows attackers to include internal PHP files and gain unauthorized acces via manipulation of the page= parameter at /customer_support/index.php.
 - [geraldoalcantara/CVE-2023-49544](https://github.com/geraldoalcantara/CVE-2023-49544)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49544">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49544">
 
 ---
-## CVE-2023-49543 ()
-> 
+## CVE-2023-49543 (2024-03-01T22:15:00)
+> Incorrect access control in Book Store Management System v1 allows attackers to access unauthorized pages and execute administrative functions without authenticating.
 - [geraldoalcantara/CVE-2023-49543](https://github.com/geraldoalcantara/CVE-2023-49543)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49543">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49543">
 
 ---
-## CVE-2023-49540 ()
-> 
+## CVE-2023-49540 (2024-03-01T22:15:00)
+> Book Store Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in /bsms_ci/index.php/history. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the history parameter.
 - [geraldoalcantara/CVE-2023-49540](https://github.com/geraldoalcantara/CVE-2023-49540)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49540">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49540">
 
 ---
-## CVE-2023-49539 ()
-> 
+## CVE-2023-49539 (2024-03-01T22:15:00)
+> Book Store Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in /bsms_ci/index.php/category. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the category parameter.
 - [geraldoalcantara/CVE-2023-49539](https://github.com/geraldoalcantara/CVE-2023-49539)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49539">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49539">
 
 ---
