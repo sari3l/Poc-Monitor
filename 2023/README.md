@@ -101,6 +101,11 @@
 - [qfmy1024/CVE-2023-6654](https://github.com/qfmy1024/CVE-2023-6654)	<img alt="forks" src="https://img.shields.io/github/forks/qfmy1024/CVE-2023-6654">	<img alt="stars" src="https://img.shields.io/github/stars/qfmy1024/CVE-2023-6654">
 
 ---
+## CVE-2023-6595 ()
+> 
+- [sharmashreejaa/CVE-2023-6595](https://github.com/sharmashreejaa/CVE-2023-6595)	<img alt="forks" src="https://img.shields.io/github/forks/sharmashreejaa/CVE-2023-6595">	<img alt="stars" src="https://img.shields.io/github/stars/sharmashreejaa/CVE-2023-6595">
+
+---
 ## CVE-2023-6567 (2024-01-11T09:15:00)
 > The LearnPress plugin for WordPress is vulnerable to time-based SQL Injection via the ‘order_by’ parameter in all versions up to, and including, 4.2.5.7 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mimiloveexe/CVE-2023-6567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mimiloveexe/CVE-2023-6567-poc">
