@@ -691,6 +691,7 @@ critical systems.
 
 - [HussainFathy/CVE-2024-1709](https://github.com/HussainFathy/CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/HussainFathy/CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/HussainFathy/CVE-2024-1709">
 - [W01fh4cker/ScreenConnect-AuthBypass-RCE](https://github.com/W01fh4cker/ScreenConnect-AuthBypass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/ScreenConnect-AuthBypass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/ScreenConnect-AuthBypass-RCE">
+- [tr1pl3ight/POCv2.0-for-CVE-2024-1709](https://github.com/tr1pl3ight/POCv2.0-for-CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/POCv2.0-for-CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/POCv2.0-for-CVE-2024-1709">
 
 ---
 ## CVE-2024-1651 (2024-02-20T00:15:00)
