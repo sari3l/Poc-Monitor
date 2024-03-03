@@ -681,6 +681,12 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [xiaoqiao147/CVE-2024-20654](https://github.com/xiaoqiao147/CVE-2024-20654)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-20654">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-20654">
 
 ---
+## CVE-2024-20291 (2024-02-29T01:43:00)
+> A vulnerability in the access control list (ACL) programming for port channel subinterfaces of Cisco Nexus 3000 and 9000 Series Switches in standalone NX-OS mode could allow an unauthenticated, remote attacker to send traffic that should be blocked through an affected device.
+ This vulnerability is due to incorrect hardware programming that occurs when configuration changes are made to port channel member ports. An attacker could exploit this vulnerability by attempting to send traffic through an affected device. A successful exploit could allow the attacker to access network resources that should be protected by an ACL that was applied on port channel subinterfaces.
+- [greandfather/CVE-2024-20291-POC](https://github.com/greandfather/CVE-2024-20291-POC)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2024-20291-POC">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2024-20291-POC">
+
+---
 ## CVE-2024-1709 (2024-02-21T16:15:00)
 > ConnectWise ScreenConnect 23.9.7 and prior are affected by an Authentication Bypass Using an Alternate Path or Channel
 
