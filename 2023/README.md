@@ -3216,6 +3216,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
 
 ---
+## CVE-2023-34845 (2023-06-16T04:15:00)
+> Bludit v3.14.1 was discovered to contain an arbitrary file upload vulnerability in the component /admin/new-content. This vulnerability allows attackers to execute arbitrary web scripts or HTML via uploading a crafted SVG file. NOTE: the product's security model is that users are trusted by the administrator to insert arbitrary content (users cannot create their own accounts through self-registration).
+- [r4vanan/CVE-2023-34845](https://github.com/r4vanan/CVE-2023-34845)	<img alt="forks" src="https://img.shields.io/github/forks/r4vanan/CVE-2023-34845">	<img alt="stars" src="https://img.shields.io/github/stars/r4vanan/CVE-2023-34845">
+
+---
 ## CVE-2023-34843 (2023-06-29T00:15:00)
 > Traggo Server 0.3.0 is vulnerable to directory traversal via a crafted GET request.
 - [rootd4ddy/CVE-2023-34843](https://github.com/rootd4ddy/CVE-2023-34843)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-34843">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-34843">
