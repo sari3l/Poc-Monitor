@@ -1041,6 +1041,7 @@
 - [katseyres2/CVE-2021-43798](https://github.com/katseyres2/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/katseyres2/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/katseyres2/CVE-2021-43798">
 - [Iris288/CVE-2021-43798](https://github.com/Iris288/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Iris288/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Iris288/CVE-2021-43798">
 - [wagneralves/CVE-2021-43798](https://github.com/wagneralves/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/wagneralves/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/wagneralves/CVE-2021-43798">
+- [K3ysTr0K3R/CVE-2021-43798-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-43798-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-43798-EXPLOIT">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
