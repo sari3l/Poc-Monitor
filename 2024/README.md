@@ -818,3 +818,4 @@ This is possible because the application is vulnerable to insecure deserializati
 ## CVE-2024-0001 ()
 > 
 - [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001)	<img alt="forks" src="https://img.shields.io/github/forks/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">	<img alt="stars" src="https://img.shields.io/github/stars/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">
+- [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/jiupta/CVE-2024-0001-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/jiupta/CVE-2024-0001-EXP">
