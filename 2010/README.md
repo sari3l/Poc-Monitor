@@ -16,6 +16,11 @@
 - [Live-Hack-CVE/CVE-2010-5250](https://github.com/Live-Hack-CVE/CVE-2010-5250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-5250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-5250">
 
 ---
+## CVE-2010-4669 (2011-01-07T12:00:00)
+> The Neighbor Discovery (ND) protocol implementation in the IPv6 stack in Microsoft Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, and Windows 7 allows remote attackers to cause a denial of service (CPU consumption and system hang) by sending many Router Advertisement (RA) messages with different source addresses, as demonstrated by the flood_router6 program in the thc-ipv6 package.
+- [wrong-commit/CVE-2010-4669](https://github.com/wrong-commit/CVE-2010-4669)	<img alt="forks" src="https://img.shields.io/github/forks/wrong-commit/CVE-2010-4669">	<img alt="stars" src="https://img.shields.io/github/stars/wrong-commit/CVE-2010-4669">
+
+---
 ## CVE-2010-4606 (2010-12-29T18:00:00)
 > Unspecified vulnerability in the Space Management client in the Hierarchical Storage Management (HSM) component in IBM Tivoli Storage Manager (TSM) 5.4.x before 5.4.3.4, 5.5.x before 5.5.3, 6.1.x before 6.1.4, and 6.2.x before 6.2.2 on Unix and Linux allows remote attackers to execute arbitrary commands via unknown vectors, related to a "script execution vulnerability."
 - [Live-Hack-CVE/CVE-2010-4606](https://github.com/Live-Hack-CVE/CVE-2010-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-4606">
