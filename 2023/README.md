@@ -511,6 +511,7 @@ QuTS hero h4.5.4.2626 build 20231225 and later
 QuTScloud c5.1.5.2651 and later
 
 - [greandfather/POC-New-exploit-for-admin-access-to-QNAP-OS-CVE-2023-50358-](https://github.com/greandfather/POC-New-exploit-for-admin-access-to-QNAP-OS-CVE-2023-50358-)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/POC-New-exploit-for-admin-access-to-QNAP-OS-CVE-2023-50358-">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/POC-New-exploit-for-admin-access-to-QNAP-OS-CVE-2023-50358-">
+- [greandfather/CVE-2023-50358-POC](https://github.com/greandfather/CVE-2023-50358-POC)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2023-50358-POC">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2023-50358-POC">
 
 ---
 ## CVE-2023-5024 (2023-09-17T07:15:00)
