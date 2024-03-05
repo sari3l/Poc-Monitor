@@ -25,6 +25,7 @@
 > In JetBrains TeamCity before 2023.11.4 authentication bypass allowing to perform admin actions was possible
 - [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-27198">
 - [tucommenceapousser/CVE-2024-27198](https://github.com/tucommenceapousser/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2024-27198">
+- [yoryio/CVE-2024-27198](https://github.com/yoryio/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-27198">
 
 ---
 ## CVE-2024-26560 ()
