@@ -325,6 +325,8 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [vulncheck-oss/cve-2023-51467](https://github.com/vulncheck-oss/cve-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-51467">
 - [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/yukselberkay/CVE-2023-49070_CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/yukselberkay/CVE-2023-49070_CVE-2023-51467">
 - [Jake123otte1/BadBizness-CVE-2023-51467](https://github.com/Jake123otte1/BadBizness-CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Jake123otte1/BadBizness-CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Jake123otte1/BadBizness-CVE-2023-51467">
+- [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
+- [Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">
 
 ---
 ## CVE-2023-51409 ()
@@ -2784,6 +2786,7 @@ prior to
 - [imhunterand/CVE-2023-36845](https://github.com/imhunterand/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2023-36845">
 - [ifconfig-me/CVE-2023-36845](https://github.com/ifconfig-me/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2023-36845">
 - [e11i0t4lders0n/CVE-2023-36845](https://github.com/e11i0t4lders0n/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/e11i0t4lders0n/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/e11i0t4lders0n/CVE-2023-36845">
+- [CKevens/ansible-cve-2023-36845](https://github.com/CKevens/ansible-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/ansible-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/ansible-cve-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
