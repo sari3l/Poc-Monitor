@@ -268,8 +268,8 @@
 - [ASR511-OO7/CVE-2024-24099](https://github.com/ASR511-OO7/CVE-2024-24099)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24099">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24099">
 
 ---
-## CVE-2024-24098 ()
-> 
+## CVE-2024-24098 (2024-03-05T16:15:00)
+> Code-projects Scholars Tracking System 1.0 is vulnerable to SQL Injection via the News Feed.
 - [ASR511-OO7/CVE-2024-24098](https://github.com/ASR511-OO7/CVE-2024-24098)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24098">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24098">
 
 ---
@@ -625,6 +625,34 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC)	<img alt="forks" src="https://img.shields.io/github/forks/V0WKeep3r/CVE-2024-21626-runcPOC">	<img alt="stars" src="https://img.shields.io/github/stars/V0WKeep3r/CVE-2024-21626-runcPOC">
 - [dombisza/cve-2024-21626](https://github.com/dombisza/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dombisza/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dombisza/cve-2024-21626">
 - [abian2/CVE-2024-21626](https://github.com/abian2/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/abian2/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/abian2/CVE-2024-21626">
+
+---
+## CVE-2024-21591 (2024-01-12T01:15:00)
+> 
+An Out-of-bounds Write vulnerability in J-Web of Juniper Networks Junos OS on SRX Series and EX Series allows an unauthenticated, network-based attacker to cause a Denial of Service (DoS), or Remote Code Execution (RCE) and obtain root privileges on the device.
+
+This issue is caused by use of an insecure function allowing an attacker to overwrite arbitrary memory.
+
+This issue affects Juniper Networks Junos OS SRX Series and EX Series:
+
+
+
+  *  Junos OS versions earlier than 20.4R3-S9;
+  *  Junos OS 21.2 versions earlier than 21.2R3-S7;
+  *  Junos OS 21.3 versions earlier than 21.3R3-S5;
+  *  Junos OS 21.4 versions earlier than 21.4R3-S5;
+  *  Junos OS 22.1 versions earlier than 22.1R3-S4;
+  *  Junos OS 22.2 versions earlier than 22.2R3-S3;
+  *  Junos OS 22.3 versions earlier than 22.3R3-S2;
+  *  Junos OS 22.4 versions earlier than 22.4R2-S2, 22.4R3.
+
+
+
+
+
+
+
+- [gogobuster/CVE-2024-21591-POC](https://github.com/gogobuster/CVE-2024-21591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21591-POC">
 
 ---
 ## CVE-2024-21413 (2024-02-13T18:16:00)
