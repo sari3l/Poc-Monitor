@@ -620,18 +620,18 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [geraldoalcantara/CVE-2023-49971](https://github.com/geraldoalcantara/CVE-2023-49971)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49971">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49971">
 
 ---
-## CVE-2023-49970 ()
-> 
+## CVE-2023-49970 (2024-03-05T00:15:00)
+> Customer Support System v1 was discovered to contain a SQL injection vulnerability via the subject parameter at /customer_support/ajax.php?action=save_ticket.
 - [geraldoalcantara/CVE-2023-49970](https://github.com/geraldoalcantara/CVE-2023-49970)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49970">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49970">
 
 ---
-## CVE-2023-49969 ()
-> 
+## CVE-2023-49969 (2024-03-05T00:15:00)
+> Customer Support System v1 was discovered to contain a SQL injection vulnerability via the id parameter at /customer_support/index.php?page=edit_customer.
 - [geraldoalcantara/CVE-2023-49969](https://github.com/geraldoalcantara/CVE-2023-49969)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49969">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49969">
 
 ---
-## CVE-2023-49968 ()
-> 
+## CVE-2023-49968 (2024-03-05T00:15:00)
+> Customer Support System v1 was discovered to contain a SQL injection vulnerability via the id parameter at /customer_support/manage_department.php.
 - [geraldoalcantara/CVE-2023-49968](https://github.com/geraldoalcantara/CVE-2023-49968)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49968">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49968">
 
 ---
@@ -677,18 +677,18 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/jmussmann/cve-2023-4966-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/jmussmann/cve-2023-4966-iocs">
 
 ---
-## CVE-2023-49548 ()
-> 
+## CVE-2023-49548 (2024-03-05T00:15:00)
+> Customer Support System v1 was discovered to contain a SQL injection vulnerability via the lastname parameter at /customer_support/ajax.php?action=save_user.
 - [geraldoalcantara/CVE-2023-49548](https://github.com/geraldoalcantara/CVE-2023-49548)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49548">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49548">
 
 ---
-## CVE-2023-49547 ()
-> 
+## CVE-2023-49547 (2024-03-05T00:15:00)
+> Customer Support System v1 was discovered to contain a SQL injection vulnerability via the username parameter at /customer_support/ajax.php?action=login.
 - [geraldoalcantara/CVE-2023-49547](https://github.com/geraldoalcantara/CVE-2023-49547)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49547">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49547">
 
 ---
-## CVE-2023-49546 ()
-> 
+## CVE-2023-49546 (2024-03-05T00:15:00)
+> Customer Support System v1 was discovered to contain a SQL injection vulnerability via the email parameter at /customer_support/ajax.php.
 - [geraldoalcantara/CVE-2023-49546](https://github.com/geraldoalcantara/CVE-2023-49546)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49546">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49546">
 
 ---
