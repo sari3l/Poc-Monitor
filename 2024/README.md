@@ -128,6 +128,11 @@
 - [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25251">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25251">
 
 ---
+## CVE-2024-25250 ()
+> 
+- [ASR511-OO7/CVE-2024-25250.](https://github.com/ASR511-OO7/CVE-2024-25250.)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25250.">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25250.">
+
+---
 ## CVE-2024-25249 (2024-02-21T20:15:00)
 > An issue in He3 App for macOS version 2.0.17, allows remote attackers to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments settings.
 - [intbjw/CVE-2024-25249](https://github.com/intbjw/CVE-2024-25249)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2024-25249">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2024-25249">
@@ -247,6 +252,16 @@
 ## CVE-2024-24134 (2024-01-29T19:15:00)
 > Sourcecodester Online Food Menu 1.0 is vulnerable to Cross Site Scripting (XSS) via the 'Menu Name' and 'Description' fields in the Update Menu section.
 - [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24134">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24134">
+
+---
+## CVE-2024-24108 ()
+> 
+- [ASR511-OO7/CVE-2024-24108](https://github.com/ASR511-OO7/CVE-2024-24108)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24108">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24108">
+
+---
+## CVE-2024-24105 ()
+> 
+- [ASR511-OO7/CVE-2024-24105](https://github.com/ASR511-OO7/CVE-2024-24105)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24105">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24105">
 
 ---
 ## CVE-2024-24103 ()
