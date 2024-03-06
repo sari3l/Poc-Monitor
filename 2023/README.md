@@ -331,7 +331,7 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 ---
 ## CVE-2023-51448 (2023-12-22T17:15:00)
 > Cacti provides an operational monitoring and fault management framework. Version 1.2.25 has a Blind SQL Injection (SQLi) vulnerability within the SNMP Notification Receivers feature in the file `‘managers.php’`. An authenticated attacker with the “Settings/Utilities” permission can send a crafted HTTP GET request to the endpoint `‘/cacti/managers.php’` with an SQLi payload in the `‘selected_graphs_array’` HTTP GET parameter. As of time of publication, no patched versions exist.
-- [jakabakos/CVE-2023-51448-cacti-command-injection-poc](https://github.com/jakabakos/CVE-2023-51448-cacti-command-injection-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-51448-cacti-command-injection-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-51448-cacti-command-injection-poc">
+- [jakabakos/CVE-2023-51448-cacti-sqli-poc](https://github.com/jakabakos/CVE-2023-51448-cacti-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-51448-cacti-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-51448-cacti-sqli-poc">
 
 ---
 ## CVE-2023-51409 ()
