@@ -50,6 +50,11 @@
 - [hackervegas001/CVE-2024-26521](https://github.com/hackervegas001/CVE-2024-26521)	<img alt="forks" src="https://img.shields.io/github/forks/hackervegas001/CVE-2024-26521">	<img alt="stars" src="https://img.shields.io/github/stars/hackervegas001/CVE-2024-26521">
 
 ---
+## CVE-2024-25832 (2024-02-29T01:44:00)
+> F-logic DataCube3 v1.0 is vulnerable to unrestricted file upload, which could allow an authenticated malicious actor to upload a file of dangerous type by manipulating the filename extension.
+- [0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xNslabs/CVE-2024-25832-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xNslabs/CVE-2024-25832-PoC">
+
+---
 ## CVE-2024-25809 ()
 > 
 - [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25809">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25809">
