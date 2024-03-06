@@ -615,28 +615,28 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [geraldoalcantara/CVE-2023-49978](https://github.com/geraldoalcantara/CVE-2023-49978)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49978">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49978">
 
 ---
-## CVE-2023-49977 ()
-> 
+## CVE-2023-49977 (2024-03-06T01:15:00)
+> A cross-site scripting (XSS) vulnerability in Customer Support System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the address parameter at /customer_support/index.php?page=new_customer.
 - [geraldoalcantara/CVE-2023-49977](https://github.com/geraldoalcantara/CVE-2023-49977)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49977">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49977">
 
 ---
-## CVE-2023-49976 ()
-> 
+## CVE-2023-49976 (2024-03-06T01:15:00)
+> A cross-site scripting (XSS) vulnerability in Customer Support System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the subject parameter at /customer_support/index.php?page=new_ticket.
 - [geraldoalcantara/CVE-2023-49976](https://github.com/geraldoalcantara/CVE-2023-49976)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49976">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49976">
 
 ---
-## CVE-2023-49974 ()
-> 
+## CVE-2023-49974 (2024-03-06T01:15:00)
+> A cross-site scripting (XSS) vulnerability in Customer Support System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the contact parameter at /customer_support/index.php?page=customer_list.
 - [geraldoalcantara/CVE-2023-49974](https://github.com/geraldoalcantara/CVE-2023-49974)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49974">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49974">
 
 ---
-## CVE-2023-49973 ()
-> 
+## CVE-2023-49973 (2024-03-06T01:15:00)
+> A cross-site scripting (XSS) vulnerability in Customer Support System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the email parameter at /customer_support/index.php?page=customer_list.
 - [geraldoalcantara/CVE-2023-49973](https://github.com/geraldoalcantara/CVE-2023-49973)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49973">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49973">
 
 ---
-## CVE-2023-49971 ()
-> 
+## CVE-2023-49971 (2024-03-06T01:15:00)
+> A cross-site scripting (XSS) vulnerability in Customer Support System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the firstname parameter at /customer_support/index.php?page=customer_list.
 - [geraldoalcantara/CVE-2023-49971](https://github.com/geraldoalcantara/CVE-2023-49971)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49971">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49971">
 
 ---
@@ -3551,8 +3551,8 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [sahiloj/CVE-2023-33730](https://github.com/sahiloj/CVE-2023-33730)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33730">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33730">
 
 ---
-## CVE-2023-33677 ()
-> 
+## CVE-2023-33677 (2024-03-06T01:15:00)
+> Sourcecodester Lost and Found Information System's Version 1.0 is vulnerable to unauthenticated SQL Injection at "?page=items/view&id=*".
 - [ASR511-OO7/CVE-2023-33677](https://github.com/ASR511-OO7/CVE-2023-33677)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-33677">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-33677">
 
 ---
