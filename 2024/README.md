@@ -796,6 +796,22 @@ This is possible because the application is vulnerable to insecure deserializati
 - [rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512)	<img alt="forks" src="https://img.shields.io/github/forks/rat-c/CVE-2024-1512">	<img alt="stars" src="https://img.shields.io/github/stars/rat-c/CVE-2024-1512">
 
 ---
+## CVE-2024-1403 (2024-02-27T16:15:00)
+> In OpenEdge Authentication Gateway and AdminServer prior to 11.7.19, 12.2.14, 12.8.1 on all platforms supported by the OpenEdge product, an authentication bypass vulnerability has been identified.  The
+vulnerability is a bypass to authentication based on a failure to properly
+handle username and password.  Certain unexpected
+content passed into the credentials can lead to unauthorized access without proper
+authentication.    
+
+
+
+
+
+
+
+- [horizon3ai/CVE-2024-1403](https://github.com/horizon3ai/CVE-2024-1403)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-1403">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-1403">
+
+---
 ## CVE-2024-1346 (2024-02-19T12:15:00)
 > Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants.
 - [PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2024-1346">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2024-1346">
