@@ -783,6 +783,11 @@
 - [CN016/WebAccess-CVE-2017-16720-](https://github.com/CN016/WebAccess-CVE-2017-16720-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/WebAccess-CVE-2017-16720-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/WebAccess-CVE-2017-16720-">
 
 ---
+## CVE-2017-16651 (2017-11-09T14:29:00)
+> Roundcube Webmail before 1.1.10, 1.2.x before 1.2.7, and 1.3.x before 1.3.3 allows unauthorized access to arbitrary files on the host's filesystem, including configuration files, as exploited in the wild in November 2017. The attacker must be able to authenticate at the target system with a valid username/password as the attack requires an active session. The issue is related to file-based attachment plugins and _task=settings&_action=upload-display&_from=timezone requests.
+- [sephiroth950911/CVE-2017-16651-Exploit](https://github.com/sephiroth950911/CVE-2017-16651-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sephiroth950911/CVE-2017-16651-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sephiroth950911/CVE-2017-16651-Exploit">
+
+---
 ## CVE-2017-16309 (2023-01-11T22:15:00)
 > Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd sn_exw, at 0x9d01b3d8, the value for the `d` key is copied using `strcpy` to the buffer at `$sp+0x334`.This buffer is 100 bytes large, sending anything longer will cause a buffer overflow.
 - [Live-Hack-CVE/CVE-2017-16309](https://github.com/Live-Hack-CVE/CVE-2017-16309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16309">
