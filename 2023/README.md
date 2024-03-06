@@ -138,6 +138,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6289">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6289">
 
 ---
+## CVE-2023-6246 (2024-01-31T14:15:00)
+> A heap-based buffer overflow was found in the __vsyslog_internal function of the glibc library. This function is called by the syslog and vsyslog functions. This issue occurs when the openlog function was not called, or called with the ident argument set to NULL, and the program name (the basename of argv[0]) is bigger than 1024 bytes, resulting in an application crash or local privilege escalation. This issue affects glibc 2.36 and newer.
+- [elpe-pinillo/CVE-2023-6246](https://github.com/elpe-pinillo/CVE-2023-6246)	<img alt="forks" src="https://img.shields.io/github/forks/elpe-pinillo/CVE-2023-6246">	<img alt="stars" src="https://img.shields.io/github/stars/elpe-pinillo/CVE-2023-6246">
+
+---
 ## CVE-2023-6063 ()
 > 
 - [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-6063-PoC">
