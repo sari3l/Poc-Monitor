@@ -1570,8 +1570,8 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43323">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43323">
 
 ---
-## CVE-2023-43318 ()
-> 
+## CVE-2023-43318 (2024-03-06T00:15:00)
+> TP-Link JetStream Smart Switch TL-SG2210P 5.0 Build 20211201 allows attackers to escalate privileges via modification of the 'tid' and 'usrlvl' values in GET requests.
 - [str2ver/CVE-2023-43318](https://github.com/str2ver/CVE-2023-43318)	<img alt="forks" src="https://img.shields.io/github/forks/str2ver/CVE-2023-43318">	<img alt="stars" src="https://img.shields.io/github/stars/str2ver/CVE-2023-43318">
 
 ---
