@@ -37,6 +37,7 @@
 - [wizardy0ga/THM-Steel_Mountain-CVE-2014-6287](https://github.com/wizardy0ga/THM-Steel_Mountain-CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/wizardy0ga/THM-Steel_Mountain-CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/wizardy0ga/THM-Steel_Mountain-CVE-2014-6287">
 - [Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287](https://github.com/Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287">
 - [VICXOR/HFSZap](https://github.com/VICXOR/HFSZap)	<img alt="forks" src="https://img.shields.io/github/forks/VICXOR/HFSZap">	<img alt="stars" src="https://img.shields.io/github/stars/VICXOR/HFSZap">
+- [zhsh9/CVE-2014-6287](https://github.com/zhsh9/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/zhsh9/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/zhsh9/CVE-2014-6287">
 
 ---
 ## CVE-2014-6271 (2014-09-24T18:48:00)
