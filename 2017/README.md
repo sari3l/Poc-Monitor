@@ -786,6 +786,8 @@
 ## CVE-2017-16651 (2017-11-09T14:29:00)
 > Roundcube Webmail before 1.1.10, 1.2.x before 1.2.7, and 1.3.x before 1.3.3 allows unauthorized access to arbitrary files on the host's filesystem, including configuration files, as exploited in the wild in November 2017. The attacker must be able to authenticate at the target system with a valid username/password as the attack requires an active session. The issue is related to file-based attachment plugins and _task=settings&_action=upload-display&_from=timezone requests.
 - [sephiroth950911/CVE-2017-16651-Exploit](https://github.com/sephiroth950911/CVE-2017-16651-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sephiroth950911/CVE-2017-16651-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sephiroth950911/CVE-2017-16651-Exploit">
+- [ropbear/CVE-2017-16651](https://github.com/ropbear/CVE-2017-16651)	<img alt="forks" src="https://img.shields.io/github/forks/ropbear/CVE-2017-16651">	<img alt="stars" src="https://img.shields.io/github/stars/ropbear/CVE-2017-16651">
+- [starnightcyber/Exploit-Database-For-Webmail](https://github.com/starnightcyber/Exploit-Database-For-Webmail)	<img alt="forks" src="https://img.shields.io/github/forks/starnightcyber/Exploit-Database-For-Webmail">	<img alt="stars" src="https://img.shields.io/github/stars/starnightcyber/Exploit-Database-For-Webmail">
 
 ---
 ## CVE-2017-16309 (2023-01-11T22:15:00)
