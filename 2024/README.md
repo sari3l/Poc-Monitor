@@ -28,6 +28,7 @@
 - [yoryio/CVE-2024-27198](https://github.com/yoryio/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-27198">
 - [labesterOct/CVE-2024-27198](https://github.com/labesterOct/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-27198">
 - [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-27198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-27198-RCE">
+- [rampantspark/CVE-2024-27198](https://github.com/rampantspark/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/rampantspark/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/rampantspark/CVE-2024-27198">
 
 ---
 ## CVE-2024-26560 ()
@@ -619,6 +620,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [tr1pl3ight/CVE-2024-21762-POC](https://github.com/tr1pl3ight/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/CVE-2024-21762-POC">
 - [c0d3b3af/CVE-2024-21762-Exploit](https://github.com/c0d3b3af/CVE-2024-21762-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-21762-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-21762-Exploit">
 - [redCode001/CVE-2024-21762-POC](https://github.com/redCode001/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/redCode001/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/redCode001/CVE-2024-21762-POC">
+- [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker)	<img alt="forks" src="https://img.shields.io/github/forks/bsekercioglu/cve2024-21762-ShodanChecker">	<img alt="stars" src="https://img.shields.io/github/stars/bsekercioglu/cve2024-21762-ShodanChecker">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)

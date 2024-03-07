@@ -4143,6 +4143,13 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533)	<img alt="forks" src="https://img.shields.io/github/forks/BenEdridge/CVE-2023-30533">	<img alt="stars" src="https://img.shields.io/github/stars/BenEdridge/CVE-2023-30533">
 
 ---
+## CVE-2023-3047 (2023-06-13T12:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TMT Lockcell allows SQL Injection.This issue affects Lockcell: before 15.
+
+
+- [Phamchie/CVE-2023-3047](https://github.com/Phamchie/CVE-2023-3047)	<img alt="forks" src="https://img.shields.io/github/forks/Phamchie/CVE-2023-3047">	<img alt="stars" src="https://img.shields.io/github/stars/Phamchie/CVE-2023-3047">
+
+---
 ## CVE-2023-30459 (2023-04-14T15:15:00)
 > SmartPTT SCADA 1.1.0.0 allows remote code execution (when the attacker has administrator privileges) by writing a malicious C# script and executing it on the server (via server settings in the administrator control panel on port 8101, by default).
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
