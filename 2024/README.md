@@ -626,6 +626,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [c0d3b3af/CVE-2024-21762-Exploit](https://github.com/c0d3b3af/CVE-2024-21762-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-21762-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-21762-Exploit">
 - [redCode001/CVE-2024-21762-POC](https://github.com/redCode001/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/redCode001/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/redCode001/CVE-2024-21762-POC">
 - [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker)	<img alt="forks" src="https://img.shields.io/github/forks/bsekercioglu/cve2024-21762-ShodanChecker">	<img alt="stars" src="https://img.shields.io/github/stars/bsekercioglu/cve2024-21762-ShodanChecker">
+- [RequestXss/CVE-2024-21762-Exploit-POC](https://github.com/RequestXss/CVE-2024-21762-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RequestXss/CVE-2024-21762-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RequestXss/CVE-2024-21762-Exploit-POC">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
