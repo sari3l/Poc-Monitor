@@ -1895,8 +1895,8 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [ASR511-OO7/CVE-2023-41504](https://github.com/ASR511-OO7/CVE-2023-41504)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41504">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41504">
 
 ---
-## CVE-2023-41503 ()
-> 
+## CVE-2023-41503 (2024-03-07T09:15:00)
+> Student Enrollment In PHP v1.0 was discovered to contain a SQL injection vulnerability via the Login function.
 - [ASR511-OO7/CVE-2023-41503](https://github.com/ASR511-OO7/CVE-2023-41503)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41503">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41503">
 
 ---
@@ -1972,13 +1972,13 @@ The vulnerability is limited to the ROOT (default) web application.
 - [MrR0b0t19/CVE-2023-41064](https://github.com/MrR0b0t19/CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2023-41064">
 
 ---
-## CVE-2023-41015 ()
-> 
+## CVE-2023-41015 (2024-03-07T09:15:00)
+> code-projects.org Online Job Portal 1.0 is vulnerable to SQL Injection via /Employer/DeleteJob.php?JobId=1.
 - [ASR511-OO7/CVE-2023-41015](https://github.com/ASR511-OO7/CVE-2023-41015)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41015">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41015">
 
 ---
-## CVE-2023-41014 ()
-> 
+## CVE-2023-41014 (2024-03-07T09:15:00)
+> code-projects.org Online Job Portal 1.0 is vulnerable to SQL Injection via the Username parameter for "Employer."
 - [ASR511-OO7/CVE-2023-41014](https://github.com/ASR511-OO7/CVE-2023-41014)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41014">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41014">
 
 ---
@@ -3566,8 +3566,8 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [ASR511-OO7/CVE-2023-33677](https://github.com/ASR511-OO7/CVE-2023-33677)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-33677">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-33677">
 
 ---
-## CVE-2023-33676 ()
-> 
+## CVE-2023-33676 (2024-03-07T09:15:00)
+> Sourcecodester Lost and Found Information System's Version 1.0 is vulnerable to unauthenticated SQL Injection at "?page=items/view&id=*" which can be escalated to the remote command execution.
 - [ASR511-OO7/CVE-2023-33676](https://github.com/ASR511-OO7/CVE-2023-33676)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-33676">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-33676">
 
 ---
