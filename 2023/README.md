@@ -5874,6 +5874,11 @@ For more details, please review the linked advisory on this CVE.
 - [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2023-21554">
 
 ---
+## CVE-2023-21529 (2023-02-14T20:15:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability
+- [tr1pl3ight/CVE-2023-21529-POC](https://github.com/tr1pl3ight/CVE-2023-21529-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/CVE-2023-21529-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/CVE-2023-21529-POC">
+
+---
 ## CVE-2023-21400 (2023-07-13T00:15:00)
 > In multiple functions  of io_uring.c, there is a possible kernel memory corruption due to improper locking. This could lead to local escalation of privilege in the kernel with System execution privileges needed. User interaction is not needed for exploitation.
 
