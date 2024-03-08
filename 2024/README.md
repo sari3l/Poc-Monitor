@@ -382,6 +382,11 @@
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 
 ---
+## CVE-2024-23780 ()
+> 
+- [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780)	<img alt="forks" src="https://img.shields.io/github/forks/HazardLab-IO/CVE-2024-23780">	<img alt="stars" src="https://img.shields.io/github/stars/HazardLab-IO/CVE-2024-23780">
+
+---
 ## CVE-2024-23774 ()
 > 
 - [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774)	<img alt="forks" src="https://img.shields.io/github/forks/Verrideo/CVE-2024-23774">	<img alt="stars" src="https://img.shields.io/github/stars/Verrideo/CVE-2024-23774">
