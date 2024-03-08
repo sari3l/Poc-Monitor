@@ -556,6 +556,16 @@
 - [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411)	<img alt="forks" src="https://img.shields.io/github/forks/tamaloa/avo-CVE-2024-22411">	<img alt="stars" src="https://img.shields.io/github/stars/tamaloa/avo-CVE-2024-22411">
 
 ---
+## CVE-2024-22393 (2024-02-22T10:15:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in Apache Answer.This issue affects Apache Answer: through 1.2.1.
+
+Pixel Flood Attack by uploading large pixel files will cause server out of memory. A logged-in user can cause such an attack by uploading an image when posting content.
+Users are recommended to upgrade to version [1.2.5], which fixes the issue.
+
+
+- [omranisecurity/CVE-2024-22393](https://github.com/omranisecurity/CVE-2024-22393)	<img alt="forks" src="https://img.shields.io/github/forks/omranisecurity/CVE-2024-22393">	<img alt="stars" src="https://img.shields.io/github/stars/omranisecurity/CVE-2024-22393">
+
+---
 ## CVE-2024-22369 (2024-02-20T15:15:00)
 > Deserialization of Untrusted Data vulnerability in Apache Camel SQL ComponentThis issue affects Apache Camel: from 3.0.0 before 3.21.4, from 3.22.0 before 3.22.1, from 4.0.0 before 4.0.4, from 4.1.0 before 4.4.0.
 
