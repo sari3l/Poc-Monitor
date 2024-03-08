@@ -1442,6 +1442,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471)	<img alt="forks" src="https://img.shields.io/github/forks/itsAptx/CVE-2023-45471">	<img alt="stars" src="https://img.shields.io/github/stars/itsAptx/CVE-2023-45471">
 
 ---
+## CVE-2023-45318 (2024-02-20T15:15:00)
+> A heap-based buffer overflow vulnerability exists in the HTTP Server functionality of Weston Embedded uC-HTTP git commit 80d4004. A specially crafted network packet can lead to arbitrary code execution. An attacker can send a malicious packet to trigger this vulnerability.
+- [greandfather/CVE-2023-45318-POC-RCE](https://github.com/greandfather/CVE-2023-45318-POC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2023-45318-POC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2023-45318-POC-RCE">
+
+---
 ## CVE-2023-45185 (2023-12-14T14:15:00)
 > IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 could allow an attacker to execute remote code.  Due to improper authority checks the attacker could perform operations on the PC under the user's authority.  IBM X-Force ID:  268273.
 - [afine-com/CVE-2023-45185](https://github.com/afine-com/CVE-2023-45185)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-45185">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-45185">
