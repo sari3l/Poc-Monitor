@@ -335,8 +335,8 @@
 - [ASR511-OO7/CVE-2024-24092](https://github.com/ASR511-OO7/CVE-2024-24092)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24092">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24092">
 
 ---
-## CVE-2024-24035 ()
-> 
+## CVE-2024-24035 (2024-03-07T21:15:00)
+> Cross Site Scripting (XSS) vulnerability in Setor Informatica SIL 3.1 allows attackers to run arbitrary code via the hmessage parameter.
 - [ELIZEUOPAIN/CVE-2024-24035](https://github.com/ELIZEUOPAIN/CVE-2024-24035)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2024-24035">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2024-24035">
 - [ELIZEUOPAIN/CVE-2024-24035](https://github.com/ELIZEUOPAIN/CVE-2024-24035)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2024-24035">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2024-24035">
 
