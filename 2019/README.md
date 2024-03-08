@@ -1936,6 +1936,11 @@
 - [K3ysTr0K3R/CVE-2019-17382-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2019-17382-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2019-17382-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2019-17382-EXPLOIT">
 
 ---
+## CVE-2019-17225 (2019-10-06T17:15:00)
+> Subrion 4.2.1 allows XSS via the panel/members/ Username, Full Name, or Email field, aka an "Admin Member JSON Update" issue.
+- [hacker625/CVE-2019-17225](https://github.com/hacker625/CVE-2019-17225)	<img alt="forks" src="https://img.shields.io/github/forks/hacker625/CVE-2019-17225">	<img alt="stars" src="https://img.shields.io/github/stars/hacker625/CVE-2019-17225">
+
+---
 ## CVE-2019-17223 (2019-10-15T12:15:00)
 > There is HTML Injection in the Note field in Dolibarr ERP/CRM 10.0.2 via user/note.php.
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
