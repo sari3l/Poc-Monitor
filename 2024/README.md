@@ -581,6 +581,11 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 - [oscerd/CVE-2024-22369](https://github.com/oscerd/CVE-2024-22369)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2024-22369">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2024-22369">
 
 ---
+## CVE-2024-22252 (2024-03-05T18:15:00)
+> VMware ESXi, Workstation, and Fusion contain a use-after-free vulnerability in the XHCI USB controller. A malicious actor with local administrative privileges on a virtual machine may exploit this issue to execute code as the virtual machine's VMX process running on the host. On ESXi, the exploitation is contained within the VMX sandbox whereas, on Workstation and Fusion, this may lead to code execution on the machine where Workstation or Fusion is installed.
+- [crackmapEZec/CVE-2024-22252-POC](https://github.com/crackmapEZec/CVE-2024-22252-POC)	<img alt="forks" src="https://img.shields.io/github/forks/crackmapEZec/CVE-2024-22252-POC">	<img alt="stars" src="https://img.shields.io/github/stars/crackmapEZec/CVE-2024-22252-POC">
+
+---
 ## CVE-2024-22243 (2024-02-23T05:15:00)
 > Applications that use UriComponentsBuilder to parse an externally provided URL (e.g. through a query parameter) AND perform validation checks on the host of the parsed URL may be vulnerable to a  open redirect https://cwe.mitre.org/data/definitions/601.html  attack or to a SSRF attack if the URL is used after passing validation checks.
 

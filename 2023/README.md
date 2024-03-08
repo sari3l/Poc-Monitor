@@ -204,6 +204,22 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [uthrasri/linux_4.19.72_CVE-2023-5717](https://github.com/uthrasri/linux_4.19.72_CVE-2023-5717)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/linux_4.19.72_CVE-2023-5717">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/linux_4.19.72_CVE-2023-5717">
 
 ---
+## CVE-2023-5631 (2023-10-18T15:15:00)
+> 
+Roundcube before 1.4.15, 1.5.x before 1.5.5, and 1.6.x before 1.6.4 allows stored XSS via an HTML e-mail message with a crafted SVG document because of program/lib/Roundcube/rcube_washtml.php behavior. This could allow a remote attacker
+
+to load arbitrary JavaScript code.
+
+
+
+
+
+
+
+
+- [greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-](https://github.com/greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-">
+
+---
 ## CVE-2023-5601 ()
 > 
 - [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5601-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5601-PoC">
