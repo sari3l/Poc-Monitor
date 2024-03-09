@@ -2464,6 +2464,13 @@ URL that curl has been told to operate with.
 - [ilqarli27/CVE-2023-38286](https://github.com/ilqarli27/CVE-2023-38286)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-38286">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-38286">
 
 ---
+## CVE-2023-3824 (2023-08-11T06:15:00)
+> In PHP version 8.0.* before 8.0.30,  8.1.* before 8.1.22, and 8.2.* before 8.2.8, when loading phar file, while reading PHAR directory entries, insufficient length checking may lead to a stack buffer overflow, leading potentially to memory corruption or RCE. 
+
+
+- [NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK](https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK)	<img alt="forks" src="https://img.shields.io/github/forks/NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK">	<img alt="stars" src="https://img.shields.io/github/stars/NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK">
+
+---
 ## CVE-2023-38146 (2023-09-12T17:15:00)
 > Windows Themes Remote Code Execution Vulnerability
 - [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146)	<img alt="forks" src="https://img.shields.io/github/forks/Jnnshschl/CVE-2023-38146">	<img alt="stars" src="https://img.shields.io/github/stars/Jnnshschl/CVE-2023-38146">
