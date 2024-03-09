@@ -2469,6 +2469,7 @@ URL that curl has been told to operate with.
 
 
 - [NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK](https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK)	<img alt="forks" src="https://img.shields.io/github/forks/NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK">	<img alt="stars" src="https://img.shields.io/github/stars/NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK">
+- [NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit](https://github.com/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit)	<img alt="forks" src="https://img.shields.io/github/forks/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit">	<img alt="stars" src="https://img.shields.io/github/stars/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit">
 
 ---
 ## CVE-2023-38146 (2023-09-12T17:15:00)
