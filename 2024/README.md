@@ -35,6 +35,7 @@
 - [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-27198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-27198-RCE">
 - [rampantspark/CVE-2024-27198](https://github.com/rampantspark/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/rampantspark/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/rampantspark/CVE-2024-27198">
 - [passwa11/CVE-2024-27198-RCE](https://github.com/passwa11/CVE-2024-27198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2024-27198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2024-27198-RCE">
+- [CharonDefalt/CVE-2024-27198-RCE](https://github.com/CharonDefalt/CVE-2024-27198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CharonDefalt/CVE-2024-27198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CharonDefalt/CVE-2024-27198-RCE">
 
 ---
 ## CVE-2024-26560 ()
