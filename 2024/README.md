@@ -474,6 +474,7 @@
 > A use of externally-controlled format string in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 through 7.0.13, FortiProxy versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.8, 7.0.0 through 7.0.14, FortiPAM versions 1.2.0, 1.1.0 through 1.1.2, 1.0.0 through 1.0.3, FortiSwitchManager versions 7.2.0 through 7.2.3, 7.0.0 through 7.0.3 allows attacker to execute unauthorized code or commands via specially crafted packets.
 - [cvedayprotech/CVE-2024-23113](https://github.com/cvedayprotech/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/cvedayprotech/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/cvedayprotech/CVE-2024-23113">
 - [tr1pl3ight/CVE-2024-23113-POC](https://github.com/tr1pl3ight/CVE-2024-23113-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/CVE-2024-23113-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/CVE-2024-23113-POC">
+- [cvedayprotech3s/cve-2024-23113](https://github.com/cvedayprotech3s/cve-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/cvedayprotech3s/cve-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/cvedayprotech3s/cve-2024-23113">
 
 ---
 ## CVE-2024-22983 (2024-02-28T22:15:00)
