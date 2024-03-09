@@ -36,6 +36,7 @@
 - [rampantspark/CVE-2024-27198](https://github.com/rampantspark/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/rampantspark/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/rampantspark/CVE-2024-27198">
 - [passwa11/CVE-2024-27198-RCE](https://github.com/passwa11/CVE-2024-27198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2024-27198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2024-27198-RCE">
 - [CharonDefalt/CVE-2024-27198-RCE](https://github.com/CharonDefalt/CVE-2024-27198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CharonDefalt/CVE-2024-27198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CharonDefalt/CVE-2024-27198-RCE">
+- [K3ysTr0K3R/CVE-2024-27198-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-27198-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-27198-EXPLOIT">
 
 ---
 ## CVE-2024-26560 ()
