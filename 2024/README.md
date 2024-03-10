@@ -476,6 +476,7 @@
 - [cvedayprotech/CVE-2024-23113](https://github.com/cvedayprotech/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/cvedayprotech/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/cvedayprotech/CVE-2024-23113">
 - [tr1pl3ight/CVE-2024-23113-POC](https://github.com/tr1pl3ight/CVE-2024-23113-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/CVE-2024-23113-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/CVE-2024-23113-POC">
 - [cvedayprotech3s/cve-2024-23113](https://github.com/cvedayprotech3s/cve-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/cvedayprotech3s/cve-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/cvedayprotech3s/cve-2024-23113">
+- [foxymoxxy/CVE-2024-23113-POC](https://github.com/foxymoxxy/CVE-2024-23113-POC)	<img alt="forks" src="https://img.shields.io/github/forks/foxymoxxy/CVE-2024-23113-POC">	<img alt="stars" src="https://img.shields.io/github/stars/foxymoxxy/CVE-2024-23113-POC">
 
 ---
 ## CVE-2024-22983 (2024-02-28T22:15:00)
