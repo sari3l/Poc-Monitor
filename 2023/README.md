@@ -155,6 +155,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [pctripsesp/CVE-2023-6036](https://github.com/pctripsesp/CVE-2023-6036)	<img alt="forks" src="https://img.shields.io/github/forks/pctripsesp/CVE-2023-6036">	<img alt="stars" src="https://img.shields.io/github/stars/pctripsesp/CVE-2023-6036">
 
 ---
+## CVE-2023-6000 (2024-01-01T15:15:00)
+> The Popup Builder WordPress plugin before 4.2.3 does not prevent simple visitors from updating existing popups, and injecting raw JavaScript in them, which could lead to Stored XSS attacks.
+- [rxerium/CVE-2023-6000](https://github.com/rxerium/CVE-2023-6000)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2023-6000">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2023-6000">
+
+---
 ## CVE-2023-5966 ()
 > 
 - [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5966">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5966">
