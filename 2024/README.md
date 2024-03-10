@@ -801,6 +801,12 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [xiaoqiao147/CVE-2024-20654](https://github.com/xiaoqiao147/CVE-2024-20654)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-20654">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-20654">
 
 ---
+## CVE-2024-20337 (2024-03-06T17:15:00)
+> A vulnerability in the SAML authentication process of Cisco Secure Client could allow an unauthenticated, remote attacker to conduct a carriage return line feed (CRLF) injection attack against a user. 
+ This vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by persuading a user to click a crafted link while establishing a VPN session. A successful exploit could allow the attacker to execute arbitrary script code in the browser or access sensitive, browser-based information, including a valid SAML token. The attacker could then use the token to establish a remote access VPN session with the privileges of the affected user. Individual hosts and services behind the VPN headend would still need additional credentials for successful access.
+- [swagcraftedd/CVE-2024-20337-POC](https://github.com/swagcraftedd/CVE-2024-20337-POC)	<img alt="forks" src="https://img.shields.io/github/forks/swagcraftedd/CVE-2024-20337-POC">	<img alt="stars" src="https://img.shields.io/github/stars/swagcraftedd/CVE-2024-20337-POC">
+
+---
 ## CVE-2024-20291 (2024-02-29T01:43:00)
 > A vulnerability in the access control list (ACL) programming for port channel subinterfaces of Cisco Nexus 3000 and 9000 Series Switches in standalone NX-OS mode could allow an unauthenticated, remote attacker to send traffic that should be blocked through an affected device.
  This vulnerability is due to incorrect hardware programming that occurs when configuration changes are made to port channel member ports. An attacker could exploit this vulnerability by attempting to send traffic through an affected device. A successful exploit could allow the attacker to access network resources that should be protected by an ACL that was applied on port channel subinterfaces.
