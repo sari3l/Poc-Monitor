@@ -21,6 +21,11 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-28222 (2024-03-07T07:15:00)
+> In Veritas NetBackup before 8.1.2 and NetBackup Appliance before 3.1.2, the BPCD process inadequately validates the file path, allowing an unauthenticated attacker to upload and execute a custom file.
+- [c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit](https://github.com/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit">
+
+---
 ## CVE-2024-28213 (2024-03-07T05:15:00)
 > nGrinder before 3.5.9 allows to accept serialized Java objects from unauthenticated users, which could allow remote attacker to execute arbitrary code via unsafe Java objects deserialization.
 - [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213)	<img alt="forks" src="https://img.shields.io/github/forks/0x1x02/CVE-2024-28213">	<img alt="stars" src="https://img.shields.io/github/stars/0x1x02/CVE-2024-28213">
