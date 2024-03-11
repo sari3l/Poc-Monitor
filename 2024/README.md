@@ -26,6 +26,11 @@
 - [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213)	<img alt="forks" src="https://img.shields.io/github/forks/0x1x02/CVE-2024-28213">	<img alt="stars" src="https://img.shields.io/github/stars/0x1x02/CVE-2024-28213">
 
 ---
+## CVE-2024-27697 ()
+> 
+- [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697)	<img alt="forks" src="https://img.shields.io/github/forks/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">	<img alt="stars" src="https://img.shields.io/github/stars/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">
+
+---
 ## CVE-2024-27198 (2024-03-04T18:15:00)
 > In JetBrains TeamCity before 2023.11.4 authentication bypass allowing to perform admin actions was possible
 - [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-27198">
