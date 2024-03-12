@@ -648,6 +648,19 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [labesterOct/CVE-2024-22024](https://github.com/labesterOct/CVE-2024-22024)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-22024">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-22024">
 
 ---
+## CVE-2024-21899 (2024-03-08T17:15:00)
+> An improper authentication vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow users to compromise the security of the system via a network.
+
+We have already fixed the vulnerability in the following versions:
+QTS 5.1.3.2578 build 20231110 and later
+QTS 4.5.4.2627 build 20231225 and later
+QuTS hero h5.1.3.2578 build 20231110 and later
+QuTS hero h4.5.4.2626 build 20231225 and later
+QuTScloud c5.1.5.2651 and later
+
+- [JohnHormond/CVE-2024-21899](https://github.com/JohnHormond/CVE-2024-21899)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21899">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21899">
+
+---
 ## CVE-2024-21893 (2024-01-31T18:15:00)
 > A server-side request forgery vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) and Ivanti Neurons for ZTA allows an attacker to access certain restricted resources without authentication.
 - [h4x0r-dz/CVE-2024-21893.py](https://github.com/h4x0r-dz/CVE-2024-21893.py)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-21893.py">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-21893.py">
@@ -773,6 +786,12 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [sk2wie/CVE-2024-21410-CITRIX](https://github.com/sk2wie/CVE-2024-21410-CITRIX)	<img alt="forks" src="https://img.shields.io/github/forks/sk2wie/CVE-2024-21410-CITRIX">	<img alt="stars" src="https://img.shields.io/github/stars/sk2wie/CVE-2024-21410-CITRIX">
 - [FreakyMondy/CVE-2024-21410](https://github.com/FreakyMondy/CVE-2024-21410)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyMondy/CVE-2024-21410">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyMondy/CVE-2024-21410">
 - [FreakyM0ndy/CVE-2024-21410-poc](https://github.com/FreakyM0ndy/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyM0ndy/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyM0ndy/CVE-2024-21410-poc">
+
+---
+## CVE-2024-21378 (2024-02-13T18:15:00)
+> Microsoft Outlook Remote Code Execution Vulnerability
+- [JohnHormond/CVE-2024-21378](https://github.com/JohnHormond/CVE-2024-21378)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21378">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21378">
+- [d0rb/CVE-2024-21378](https://github.com/d0rb/CVE-2024-21378)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-21378">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-21378">
 
 ---
 ## CVE-2024-21338 (2024-02-13T18:15:00)
