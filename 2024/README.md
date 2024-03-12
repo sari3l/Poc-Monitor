@@ -658,7 +658,7 @@ QuTS hero h5.1.3.2578 build 20231110 and later
 QuTS hero h4.5.4.2626 build 20231225 and later
 QuTScloud c5.1.5.2651 and later
 
-- [JohnHormond/CVE-2024-21899](https://github.com/JohnHormond/CVE-2024-21899)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21899">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21899">
+- [JohnHormond/CVE-2024-21899-RCE-exploit](https://github.com/JohnHormond/CVE-2024-21899-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21899-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21899-RCE-exploit">
 
 ---
 ## CVE-2024-21893 (2024-01-31T18:15:00)
@@ -701,6 +701,7 @@ QuTScloud c5.1.5.2651 and later
 - [t4ril/CVE-2024-21762-PoC](https://github.com/t4ril/CVE-2024-21762-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/t4ril/CVE-2024-21762-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/t4ril/CVE-2024-21762-PoC">
 - [c0d3b3af/CVE-2024-21762-RCE-exploit](https://github.com/c0d3b3af/CVE-2024-21762-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-21762-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-21762-RCE-exploit">
 - [cleverg0d/CVE-2024-21762-Checker](https://github.com/cleverg0d/CVE-2024-21762-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/cleverg0d/CVE-2024-21762-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/cleverg0d/CVE-2024-21762-Checker">
+- [JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK-](https://github.com/JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK-)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK-">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK-">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
