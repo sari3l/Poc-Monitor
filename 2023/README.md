@@ -1726,6 +1726,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4279">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4279">
 
 ---
+## CVE-2023-42789 (2024-03-12T15:15:00)
+> A out-of-bounds write in Fortinet FortiOS 7.4.0 through 7.4.1, 7.2.0 through 7.2.5, 7.0.0 through 7.0.12, 6.4.0 through 6.4.14, 6.2.0 through 6.2.15, FortiProxy 7.4.0, 7.2.0 through 7.2.6, 7.0.0 through 7.0.12, 2.0.0 through 2.0.13 allows attacker to execute unauthorized code or commands via specially crafted HTTP requests.
+- [CrimBit/CVE-2023-42789-POC](https://github.com/CrimBit/CVE-2023-42789-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CrimBit/CVE-2023-42789-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CrimBit/CVE-2023-42789-POC">
+
+---
 ## CVE-2023-4278 (2023-09-11T20:15:00)
 > The MasterStudy LMS WordPress Plugin WordPress plugin before 3.0.18 does not have proper checks in place during registration allowing anyone to register on the site as an instructor. They can then add courses and/or posts.
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
