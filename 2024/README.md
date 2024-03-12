@@ -800,6 +800,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698)	<img alt="forks" src="https://img.shields.io/github/forks/RomanRybachek/CVE-2024-20698">	<img alt="stars" src="https://img.shields.io/github/stars/RomanRybachek/CVE-2024-20698">
 
 ---
+## CVE-2024-20696 (2024-01-09T18:15:00)
+> Windows Libarchive Remote Code Execution Vulnerability
+- [clearbluejar/CVE-2024-20696](https://github.com/clearbluejar/CVE-2024-20696)	<img alt="forks" src="https://img.shields.io/github/forks/clearbluejar/CVE-2024-20696">	<img alt="stars" src="https://img.shields.io/github/stars/clearbluejar/CVE-2024-20696">
+
+---
 ## CVE-2024-20666 (2024-01-09T18:15:00)
 > BitLocker Security Feature Bypass Vulnerability
 - [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/nnotwen/Script-For-CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/nnotwen/Script-For-CVE-2024-20666">
