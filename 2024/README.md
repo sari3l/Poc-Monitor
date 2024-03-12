@@ -74,8 +74,8 @@
 - [sajaljat/CVE-2024-26534](https://github.com/sajaljat/CVE-2024-26534)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-26534">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-26534">
 
 ---
-## CVE-2024-26521 ()
-> 
+## CVE-2024-26521 (2024-03-12T05:15:00)
+> HTML Injection vulnerability in CE Phoenix v1.0.8.20 and before allows a remote attacker to execute arbitrary code, escalate privileges, and obtain sensitive information via a crafted payload to the english.php component.
 - [hackervegas001/CVE-2024-26521](https://github.com/hackervegas001/CVE-2024-26521)	<img alt="forks" src="https://img.shields.io/github/forks/hackervegas001/CVE-2024-26521">	<img alt="stars" src="https://img.shields.io/github/stars/hackervegas001/CVE-2024-26521">
 
 ---

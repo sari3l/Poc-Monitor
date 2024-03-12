@@ -787,8 +787,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2023-49471">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2023-49471">
 
 ---
-## CVE-2023-49453 ()
-> 
+## CVE-2023-49453 (2024-03-12T08:15:00)
+> Reflected cross-site scripting (XSS) vulnerability in Racktables v0.22.0 and before, allows local attackers to execute arbitrary code and obtain sensitive information via the search component in index.php.
 - [nitipoom-jar/CVE-2023-49453](https://github.com/nitipoom-jar/CVE-2023-49453)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-49453">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-49453">
 
 ---
