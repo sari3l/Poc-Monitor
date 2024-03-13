@@ -172,8 +172,8 @@
 - [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25251">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25251">
 
 ---
-## CVE-2024-25250 ()
-> 
+## CVE-2024-25250 (2024-03-13T21:15:00)
+> SQL Injection vulnerability in code-projects Agro-School Management System 1.0 allows attackers to run arbitrary code via the Login page.
 - [ASR511-OO7/CVE-2024-25250.](https://github.com/ASR511-OO7/CVE-2024-25250.)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25250.">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25250.">
 
 ---
@@ -314,8 +314,8 @@
 - [ASR511-OO7/CVE-2024-24108](https://github.com/ASR511-OO7/CVE-2024-24108)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24108">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24108">
 
 ---
-## CVE-2024-24105 ()
-> 
+## CVE-2024-24105 (2024-03-13T21:15:00)
+> SQL Injection vulnerability in Code-projects Computer Science Time Table System 1.0 allows attackers to run arbitrary code via adminFormvalidation.php.
 - [ASR511-OO7/CVE-2024-24105](https://github.com/ASR511-OO7/CVE-2024-24105)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24105">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24105">
 
 ---
@@ -724,6 +724,7 @@ QuTScloud c5.1.5.2651 and later
 - [cleverg0d/CVE-2024-21762-Checker](https://github.com/cleverg0d/CVE-2024-21762-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/cleverg0d/CVE-2024-21762-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/cleverg0d/CVE-2024-21762-Checker">
 - [JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK](https://github.com/JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK">
 - [h4x0r-dz/CVE-2024-21762](https://github.com/h4x0r-dz/CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-21762">
+- [r4p3c4/cve-2024-21762-Fortinet-SSL-VPN-exploit-PoC-Check](https://github.com/r4p3c4/cve-2024-21762-Fortinet-SSL-VPN-exploit-PoC-Check)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/cve-2024-21762-Fortinet-SSL-VPN-exploit-PoC-Check">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/cve-2024-21762-Fortinet-SSL-VPN-exploit-PoC-Check">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)

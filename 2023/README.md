@@ -1927,13 +1927,13 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [ASR511-OO7/CVE-2023-41506](https://github.com/ASR511-OO7/CVE-2023-41506)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41506">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41506">
 
 ---
-## CVE-2023-41505 ()
-> 
+## CVE-2023-41505 (2024-03-13T21:15:00)
+> An arbitrary file upload vulnerability in the Add Student's Profile Picture function of Student Enrollment In PHP v1.0 allows attackers to execute arbitrary code via uploading a crafted PHP file.
 - [ASR511-OO7/CVE-2023-41505](https://github.com/ASR511-OO7/CVE-2023-41505)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41505">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41505">
 
 ---
-## CVE-2023-41504 ()
-> 
+## CVE-2023-41504 (2024-03-13T21:15:00)
+> SQL Injection vulnerability in Student Enrollment In PHP 1.0 allows attackers to run arbitrary code via the Student Search function.
 - [ASR511-OO7/CVE-2023-41504](https://github.com/ASR511-OO7/CVE-2023-41504)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41504">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41504">
 
 ---
