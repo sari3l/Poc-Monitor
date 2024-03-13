@@ -197,6 +197,11 @@
 - [shenhav12/CVE-2024-25169-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0">
 
 ---
+## CVE-2024-25153 ()
+> 
+- [nettitude/CVE-2024-25153](https://github.com/nettitude/CVE-2024-25153)	<img alt="forks" src="https://img.shields.io/github/forks/nettitude/CVE-2024-25153">	<img alt="stars" src="https://img.shields.io/github/stars/nettitude/CVE-2024-25153">
+
+---
 ## CVE-2024-25092 ()
 > 
 - [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-25092">
@@ -820,6 +825,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 > Windows Kernel Elevation of Privilege Vulnerability
 - [gogobuster/CVE-2024-21338-POC](https://github.com/gogobuster/CVE-2024-21338-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21338-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21338-POC">
 - [crackmapEZec/CVE-2024-21338-POC](https://github.com/crackmapEZec/CVE-2024-21338-POC)	<img alt="forks" src="https://img.shields.io/github/forks/crackmapEZec/CVE-2024-21338-POC">	<img alt="stars" src="https://img.shields.io/github/stars/crackmapEZec/CVE-2024-21338-POC">
+
+---
+## CVE-2024-21334 (2024-03-12T17:15:00)
+> Open Management Infrastructure (OMI) Remote Code Execution Vulnerability
+- [bigbozzez/CVE-2024-21334-POC](https://github.com/bigbozzez/CVE-2024-21334-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bigbozzez/CVE-2024-21334-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bigbozzez/CVE-2024-21334-POC">
 
 ---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
