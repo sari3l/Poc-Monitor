@@ -333,8 +333,8 @@
 - [ASR511-OO7/CVE-2024-24098](https://github.com/ASR511-OO7/CVE-2024-24098)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24098">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24098">
 
 ---
-## CVE-2024-24097 ()
-> 
+## CVE-2024-24097 (2024-03-12T21:15:00)
+> Cross Site Scripting (XSS) vulnerability in Code-projects Scholars Tracking System 1.0 allows attackers to run arbitrary code via the News Feed.
 - [ASR511-OO7/CVE-2024-24097](https://github.com/ASR511-OO7/CVE-2024-24097)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24097">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24097">
 
 ---
@@ -353,13 +353,13 @@
 - [ASR511-OO7/CVE-2024-24094](https://github.com/ASR511-OO7/CVE-2024-24094)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24094">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24094">
 
 ---
-## CVE-2024-24093 ()
-> 
+## CVE-2024-24093 (2024-03-12T21:15:00)
+> SQL Injection vulnerability in Code-projects Scholars Tracking System 1.0 allows attackers to run arbitrary code via Personal Information Update information.
 - [ASR511-OO7/CVE-2024-24093](https://github.com/ASR511-OO7/CVE-2024-24093)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24093">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24093">
 
 ---
-## CVE-2024-24092 ()
-> 
+## CVE-2024-24092 (2024-03-12T21:15:00)
+> SQL Injection vulnerability in Code-projects.org Scholars Tracking System 1.0 allows attackers to run arbitrary code via login.php.
 - [ASR511-OO7/CVE-2024-24092](https://github.com/ASR511-OO7/CVE-2024-24092)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24092">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24092">
 
 ---

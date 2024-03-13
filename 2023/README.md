@@ -1623,8 +1623,8 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317)	<img alt="forks" src="https://img.shields.io/github/forks/amjadali-110/CVE-2023-43317">	<img alt="stars" src="https://img.shields.io/github/stars/amjadali-110/CVE-2023-43317">
 
 ---
-## CVE-2023-43292 ()
-> 
+## CVE-2023-43292 (2024-03-12T21:15:00)
+> Cross Site Scripting vulnerability in My Food Recipe Using PHP with Source Code v.1.0 allows a local attacker to execute arbitrary code via a crafted payload to the Recipe Name, Procedure, and ingredients parameters.
 - [ASR511-OO7/CVE-2023-43292](https://github.com/ASR511-OO7/CVE-2023-43292)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-43292">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-43292">
 
 ---
@@ -1764,13 +1764,13 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-n0b3dy/CVE-2023-42362">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-n0b3dy/CVE-2023-42362">
 
 ---
-## CVE-2023-42308 ()
-> 
+## CVE-2023-42308 (2024-03-12T21:15:00)
+> Cross Site Scripting (XSS) vulnerability in Manage Fastrack Subjects in Code-Projects Exam Form Submission 1.0 allows attackers to run arbitrary code via the "Subject Name" and "Subject Code" Section.
 - [ASR511-OO7/CVE-2023-42308](https://github.com/ASR511-OO7/CVE-2023-42308)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-42308">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-42308">
 
 ---
-## CVE-2023-42307 ()
-> 
+## CVE-2023-42307 (2024-03-12T21:15:00)
+> Cross Site Scripting (XSS) vulnerability in Code-Projects Exam Form Submission 1.0 allows attackers to run arbitrary code via "Subject Name" and "Subject Code" section.
 - [ASR511-OO7/CVE-2023-42307](https://github.com/ASR511-OO7/CVE-2023-42307)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-42307">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-42307">
 
 ---
