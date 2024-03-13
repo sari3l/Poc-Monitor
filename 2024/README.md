@@ -793,11 +793,21 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [dshabani96/CVE-2024-21413](https://github.com/dshabani96/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/dshabani96/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/dshabani96/CVE-2024-21413">
 
 ---
+## CVE-2024-21411 (2024-03-12T17:15:00)
+> Skype for Consumer Remote Code Execution Vulnerability
+- [rkraper339/CVE-2024-21411-POC](https://github.com/rkraper339/CVE-2024-21411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rkraper339/CVE-2024-21411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rkraper339/CVE-2024-21411-POC">
+
+---
 ## CVE-2024-21410 (2024-02-13T18:15:00)
 > Microsoft Exchange Server Elevation of Privilege Vulnerability
 - [sk2wie/CVE-2024-21410-CITRIX](https://github.com/sk2wie/CVE-2024-21410-CITRIX)	<img alt="forks" src="https://img.shields.io/github/forks/sk2wie/CVE-2024-21410-CITRIX">	<img alt="stars" src="https://img.shields.io/github/stars/sk2wie/CVE-2024-21410-CITRIX">
 - [FreakyMondy/CVE-2024-21410](https://github.com/FreakyMondy/CVE-2024-21410)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyMondy/CVE-2024-21410">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyMondy/CVE-2024-21410">
 - [FreakyM0ndy/CVE-2024-21410-poc](https://github.com/FreakyM0ndy/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyM0ndy/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyM0ndy/CVE-2024-21410-poc">
+
+---
+## CVE-2024-21400 (2024-03-12T17:15:00)
+> Microsoft Azure Kubernetes Service Confidential Container Elevation of Privilege Vulnerability
+- [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MegaCorp001/CVE-2024-21400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MegaCorp001/CVE-2024-21400-POC">
 
 ---
 ## CVE-2024-21378 (2024-02-13T18:15:00)
