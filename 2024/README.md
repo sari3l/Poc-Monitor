@@ -725,6 +725,7 @@ QuTScloud c5.1.5.2651 and later
 - [JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK](https://github.com/JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21762-Fortinet-RCE-WORK">
 - [h4x0r-dz/CVE-2024-21762](https://github.com/h4x0r-dz/CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-21762">
 - [r4p3c4/cve-2024-21762-Fortinet-SSL-VPN-exploit-PoC-Check](https://github.com/r4p3c4/cve-2024-21762-Fortinet-SSL-VPN-exploit-PoC-Check)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/cve-2024-21762-Fortinet-SSL-VPN-exploit-PoC-Check">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/cve-2024-21762-Fortinet-SSL-VPN-exploit-PoC-Check">
+- [r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check](https://github.com/r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
