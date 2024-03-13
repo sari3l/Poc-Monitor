@@ -26,6 +26,11 @@
 - [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-28741-northstar-agent-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-28741-northstar-agent-rce-poc">
 
 ---
+## CVE-2024-28715 ()
+> 
+- [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715)	<img alt="forks" src="https://img.shields.io/github/forks/Lq0ne/CVE-2024-28715">	<img alt="stars" src="https://img.shields.io/github/stars/Lq0ne/CVE-2024-28715">
+
+---
 ## CVE-2024-28222 (2024-03-07T07:15:00)
 > In Veritas NetBackup before 8.1.2 and NetBackup Appliance before 3.1.2, the BPCD process inadequately validates the file path, allowing an unauthenticated attacker to upload and execute a custom file.
 - [c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit](https://github.com/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit">
@@ -313,8 +318,8 @@
 - [ASR511-OO7/CVE-2024-24102](https://github.com/ASR511-OO7/CVE-2024-24102)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24102">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24102">
 
 ---
-## CVE-2024-24101 ()
-> 
+## CVE-2024-24101 (2024-03-12T22:15:00)
+> Code-projects Scholars Tracking System 1.0 is vulnerable to SQL Injection under Eligibility Information Update.
 - [ASR511-OO7/CVE-2024-24101](https://github.com/ASR511-OO7/CVE-2024-24101)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24101">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24101">
 
 ---
