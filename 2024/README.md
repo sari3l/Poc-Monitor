@@ -182,6 +182,12 @@
 - [intbjw/CVE-2024-25249](https://github.com/intbjw/CVE-2024-25249)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2024-25249">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2024-25249">
 
 ---
+## CVE-2024-25227 ()
+> 
+- [thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227](https://github.com/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227)	<img alt="forks" src="https://img.shields.io/github/forks/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227">	<img alt="stars" src="https://img.shields.io/github/stars/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227">
+- [thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227](https://github.com/thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227)	<img alt="forks" src="https://img.shields.io/github/forks/thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227">	<img alt="stars" src="https://img.shields.io/github/stars/thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227">
+
+---
 ## CVE-2024-25202 (2024-02-28T20:15:00)
 > Cross Site Scripting vulnerability in Phpgurukul User Registration & Login and User Management System 1.0 allows attackers to run arbitrary code via the search bar.
 - [Agampreet-Singh/CVE-2024-25202](https://github.com/Agampreet-Singh/CVE-2024-25202)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-25202">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-25202">

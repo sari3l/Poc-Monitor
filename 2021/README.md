@@ -3383,6 +3383,7 @@
 - [Immersive-Labs-Sec/cve-2021-38647](https://github.com/Immersive-Labs-Sec/cve-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/cve-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/cve-2021-38647">
 - [horizon3ai/CVE-2021-38647](https://github.com/horizon3ai/CVE-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-38647">
 - [midoxnet/CVE-2021-38647](https://github.com/midoxnet/CVE-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/midoxnet/CVE-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/midoxnet/CVE-2021-38647">
+- [corelight/CVE-2021-38647-noimages](https://github.com/corelight/CVE-2021-38647-noimages)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2021-38647-noimages">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2021-38647-noimages">
 
 ---
 ## CVE-2021-38604 (2021-08-12T16:15:00)
