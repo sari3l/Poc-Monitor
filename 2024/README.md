@@ -274,6 +274,11 @@
 - [nitipoom-jar/CVE-2024-24336](https://github.com/nitipoom-jar/CVE-2024-24336)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-24336">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-24336">
 
 ---
+## CVE-2024-2432 (2024-03-13T18:15:00)
+> A privilege escalation (PE) vulnerability in the Palo Alto Networks GlobalProtect app on Windows devices enables a local user to execute programs with elevated privileges. However, execution requires that the local user is able to successfully exploit a race condition.
+- [Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP">
+
+---
 ## CVE-2024-24142 (2024-02-13T21:15:00)
 > Sourcecodester School Task Manager 1.0 allows SQL Injection via the 'subject' parameter.
 - [BurakSevben/CVE-2024-24142](https://github.com/BurakSevben/CVE-2024-24142)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24142">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24142">
