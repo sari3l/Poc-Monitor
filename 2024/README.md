@@ -187,6 +187,11 @@
 - [intbjw/CVE-2024-25249](https://github.com/intbjw/CVE-2024-25249)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2024-25249">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2024-25249">
 
 ---
+## CVE-2024-25228 (2024-03-14T02:15:00)
+> Vinchin Backup and Recovery 7.2 and Earlier is vulnerable to Authenticated Remote Code Execution (RCE) via the getVerifydiyResult function in ManoeuvreHandler.class.php.
+- [rkraper339/CVE-2024-25228-POC](https://github.com/rkraper339/CVE-2024-25228-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rkraper339/CVE-2024-25228-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rkraper339/CVE-2024-25228-POC">
+
+---
 ## CVE-2024-25227 ()
 > 
 - [thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227](https://github.com/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227)	<img alt="forks" src="https://img.shields.io/github/forks/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227">	<img alt="stars" src="https://img.shields.io/github/stars/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227">
