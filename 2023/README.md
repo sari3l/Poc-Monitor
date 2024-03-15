@@ -1650,6 +1650,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2023-43261">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2023-43261">
 
 ---
+## CVE-2023-43208 (2023-10-26T17:15:00)
+> NextGen Healthcare Mirth Connect before version 4.4.1 is vulnerable to unauthenticated remote code execution. Note that this vulnerability is caused by the incomplete patch of CVE-2023-37679.
+- [K3ysTr0K3R/CVE-2023-43208-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2023-43208-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2023-43208-EXPLOIT">
+
+---
 ## CVE-2023-43177 ()
 > 
 - [the-emmons/CVE-2023-43177](https://github.com/the-emmons/CVE-2023-43177)	<img alt="forks" src="https://img.shields.io/github/forks/the-emmons/CVE-2023-43177">	<img alt="stars" src="https://img.shields.io/github/stars/the-emmons/CVE-2023-43177">
