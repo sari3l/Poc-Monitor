@@ -89,6 +89,11 @@
 - [hackervegas001/CVE-2024-26521](https://github.com/hackervegas001/CVE-2024-26521)	<img alt="forks" src="https://img.shields.io/github/forks/hackervegas001/CVE-2024-26521">	<img alt="stars" src="https://img.shields.io/github/stars/hackervegas001/CVE-2024-26521">
 
 ---
+## CVE-2024-26503 (2024-03-14T22:15:00)
+> Unrestricted File Upload vulnerability in Greek Universities Network Open eClass v.3.15 and earlier allows attackers to run arbitrary code via upload of crafted file to certbadge.php endpoint.
+- [RoboGR00t/Exploit-CVE-2024-26503](https://github.com/RoboGR00t/Exploit-CVE-2024-26503)	<img alt="forks" src="https://img.shields.io/github/forks/RoboGR00t/Exploit-CVE-2024-26503">	<img alt="stars" src="https://img.shields.io/github/stars/RoboGR00t/Exploit-CVE-2024-26503">
+
+---
 ## CVE-2024-26475 (2024-03-14T22:15:00)
 > An issue in radareorg radare2 v.0.9.7 through v.5.8.6 and fixed in v.5.8.8 allows a local attacker to cause a denial of service via the grub_sfs_read_extent function.
 - [TronciuVlad/CVE-2024-26475](https://github.com/TronciuVlad/CVE-2024-26475)	<img alt="forks" src="https://img.shields.io/github/forks/TronciuVlad/CVE-2024-26475">	<img alt="stars" src="https://img.shields.io/github/stars/TronciuVlad/CVE-2024-26475">
