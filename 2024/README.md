@@ -192,8 +192,8 @@
 - [rkraper339/CVE-2024-25228-POC](https://github.com/rkraper339/CVE-2024-25228-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rkraper339/CVE-2024-25228-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rkraper339/CVE-2024-25228-POC">
 
 ---
-## CVE-2024-25227 ()
-> 
+## CVE-2024-25227 (2024-03-15T06:15:00)
+> SQL Injection vulnerability in ABO.CMS version 5.8, allows remote attackers to execute arbitrary code, cause a denial of service (DoS), escalate privileges, and obtain sensitive information via the tb_login parameter in admin login page.
 - [thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227](https://github.com/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227)	<img alt="forks" src="https://img.shields.io/github/forks/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227">	<img alt="stars" src="https://img.shields.io/github/stars/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227">
 - [thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227](https://github.com/thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227)	<img alt="forks" src="https://img.shields.io/github/forks/thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227">	<img alt="stars" src="https://img.shields.io/github/stars/thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227">
 
