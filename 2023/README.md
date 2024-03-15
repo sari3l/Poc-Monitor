@@ -1226,6 +1226,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [nvansluis/test_cve-2023-46747](https://github.com/nvansluis/test_cve-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/nvansluis/test_cve-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/nvansluis/test_cve-2023-46747">
 - [sanjai-AK47/CVE-2023-46747](https://github.com/sanjai-AK47/CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-46747">
 - [vidura2/cve-2023-46747](https://github.com/vidura2/cve-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/cve-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/cve-2023-46747">
+- [rainbowhatrkn/CVE-2023-46747-RCE](https://github.com/rainbowhatrkn/CVE-2023-46747-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rainbowhatrkn/CVE-2023-46747-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rainbowhatrkn/CVE-2023-46747-RCE">
 
 ---
 ## CVE-2023-46694 ()
