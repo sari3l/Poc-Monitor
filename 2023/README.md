@@ -2105,6 +2105,31 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">
 
 ---
+## CVE-2023-40280 ()
+> 
+- [BugBountyHunterCVE/CVE-2023-40280](https://github.com/BugBountyHunterCVE/CVE-2023-40280)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40280">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40280">
+
+---
+## CVE-2023-40279 ()
+> 
+- [BugBountyHunterCVE/CVE-2023-40279](https://github.com/BugBountyHunterCVE/CVE-2023-40279)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40279">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40279">
+
+---
+## CVE-2023-40278 ()
+> 
+- [BugBountyHunterCVE/CVE-2023-40278](https://github.com/BugBountyHunterCVE/CVE-2023-40278)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40278">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40278">
+
+---
+## CVE-2023-40277 ()
+> 
+- [BugBountyHunterCVE/CVE-2023-40277](https://github.com/BugBountyHunterCVE/CVE-2023-40277)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40277">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40277">
+
+---
+## CVE-2023-40276 ()
+> 
+- [BugBountyHunterCVE/CVE-2023-40276](https://github.com/BugBountyHunterCVE/CVE-2023-40276)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40276">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40276">
+
+---
 ## CVE-2023-40275 ()
 > 
 - [BugBountyHunterCVE/CVE-2023-40275](https://github.com/BugBountyHunterCVE/CVE-2023-40275)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40275">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40275">
