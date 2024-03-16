@@ -844,6 +844,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [FreakyM0ndy/CVE-2024-21410-poc](https://github.com/FreakyM0ndy/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyM0ndy/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyM0ndy/CVE-2024-21410-poc">
 
 ---
+## CVE-2024-21407 (2024-03-12T17:15:00)
+> Windows Hyper-V Remote Code Execution Vulnerability
+- [swagcrafte/CVE-2024-21407-POC](https://github.com/swagcrafte/CVE-2024-21407-POC)	<img alt="forks" src="https://img.shields.io/github/forks/swagcrafte/CVE-2024-21407-POC">	<img alt="stars" src="https://img.shields.io/github/stars/swagcrafte/CVE-2024-21407-POC">
+
+---
 ## CVE-2024-21400 (2024-03-12T17:15:00)
 > Microsoft Azure Kubernetes Service Confidential Container Elevation of Privilege Vulnerability
 - [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MegaCorp001/CVE-2024-21400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MegaCorp001/CVE-2024-21400-POC">
