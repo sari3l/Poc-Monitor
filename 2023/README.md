@@ -375,7 +375,7 @@ to load arbitrary JavaScript code.
 - [watarium/poc-cve-2023-51385](https://github.com/watarium/poc-cve-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/watarium/poc-cve-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/watarium/poc-cve-2023-51385">
 - [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-51385">
 - [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-51385">
-- [zls1793/CVE-2023-51385_test](https://github.com/zls1793/CVE-2023-51385_test)	<img alt="forks" src="https://img.shields.io/github/forks/zls1793/CVE-2023-51385_test">	<img alt="stars" src="https://img.shields.io/github/stars/zls1793/CVE-2023-51385_test">
+- [LtmThink/CVE-2023-51385_test](https://github.com/LtmThink/CVE-2023-51385_test)	<img alt="forks" src="https://img.shields.io/github/forks/LtmThink/CVE-2023-51385_test">	<img alt="stars" src="https://img.shields.io/github/stars/LtmThink/CVE-2023-51385_test">
 - [WLaoDuo/CVE-2023-51385_poc-test](https://github.com/WLaoDuo/CVE-2023-51385_poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/WLaoDuo/CVE-2023-51385_poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/WLaoDuo/CVE-2023-51385_poc-test">
 - [WLaoDuo/CVE-2023-51385_poc-windows](https://github.com/WLaoDuo/CVE-2023-51385_poc-windows)	<img alt="forks" src="https://img.shields.io/github/forks/WLaoDuo/CVE-2023-51385_poc-windows">	<img alt="stars" src="https://img.shields.io/github/stars/WLaoDuo/CVE-2023-51385_poc-windows">
 - [oxff644/CVE-2023-51385_test](https://github.com/oxff644/CVE-2023-51385_test)	<img alt="forks" src="https://img.shields.io/github/forks/oxff644/CVE-2023-51385_test">	<img alt="stars" src="https://img.shields.io/github/stars/oxff644/CVE-2023-51385_test">
@@ -394,6 +394,7 @@ to load arbitrary JavaScript code.
 - [farliy-hacker/CVE-2023-51385-save](https://github.com/farliy-hacker/CVE-2023-51385-save)	<img alt="forks" src="https://img.shields.io/github/forks/farliy-hacker/CVE-2023-51385-save">	<img alt="stars" src="https://img.shields.io/github/stars/farliy-hacker/CVE-2023-51385-save">
 - [Whhxy4/CVE-2023-51385_test](https://github.com/Whhxy4/CVE-2023-51385_test)	<img alt="forks" src="https://img.shields.io/github/forks/Whhxy4/CVE-2023-51385_test">	<img alt="stars" src="https://img.shields.io/github/stars/Whhxy4/CVE-2023-51385_test">
 - [2048JiaLi/CVE-2023-51385](https://github.com/2048JiaLi/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/2048JiaLi/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/2048JiaLi/CVE-2023-51385">
+- [vin01/poc-proxycommand-vulnerable](https://github.com/vin01/poc-proxycommand-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-proxycommand-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-proxycommand-vulnerable">
 
 ---
 ## CVE-2023-51281 (2024-03-07T01:15:00)
