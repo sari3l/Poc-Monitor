@@ -3635,6 +3635,11 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [Fr0stM0urne/CVE-2023-33768](https://github.com/Fr0stM0urne/CVE-2023-33768)	<img alt="forks" src="https://img.shields.io/github/forks/Fr0stM0urne/CVE-2023-33768">	<img alt="stars" src="https://img.shields.io/github/stars/Fr0stM0urne/CVE-2023-33768">
 
 ---
+## CVE-2023-33747 (2023-06-06T18:15:00)
+> CloudPanel v2.2.2 allows attackers to execute a path traversal.
+- [0xWhoami35/CloudPanel-CVE-2023-33747](https://github.com/0xWhoami35/CloudPanel-CVE-2023-33747)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CloudPanel-CVE-2023-33747">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CloudPanel-CVE-2023-33747">
+
+---
 ## CVE-2023-33733 (2023-06-05T16:15:00)
 > Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file.
 - [sahiloj/CVE-2023-33733](https://github.com/sahiloj/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33733">
