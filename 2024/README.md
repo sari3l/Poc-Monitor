@@ -530,6 +530,7 @@
 ## CVE-2024-23334 (2024-01-29T23:15:00)
 > aiohttp is an asynchronous HTTP client/server framework for asyncio and Python. When using aiohttp as a web server and configuring static routes, it is necessary to specify the root path for static files. Additionally, the option 'follow_symlinks' can be used to determine whether to follow symbolic links outside the static root directory. When 'follow_symlinks' is set to True, there is no validation to check if reading a file is within the root directory. This can lead to directory traversal vulnerabilities, resulting in unauthorized access to arbitrary files on the system, even when symlinks are not present.  Disabling follow_symlinks and using a reverse proxy are encouraged mitigations.  Version 3.9.2 fixes this issue.
 - [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/CVE-2024-23334">
+- [sxyrxyy/CVE-2024-23334-certstream](https://github.com/sxyrxyy/CVE-2024-23334-certstream)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2024-23334-certstream">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2024-23334-certstream">
 
 ---
 ## CVE-2024-23222 (2024-01-23T01:15:00)
