@@ -239,6 +239,11 @@
 - [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760)	<img alt="forks" src="https://img.shields.io/github/forks/killerbees19/CVE-2024-24760">	<img alt="stars" src="https://img.shields.io/github/stars/killerbees19/CVE-2024-24760">
 
 ---
+## CVE-2024-24520 ()
+> 
+- [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520)	<img alt="forks" src="https://img.shields.io/github/forks/xF-9979/CVE-2024-24520">	<img alt="stars" src="https://img.shields.io/github/stars/xF-9979/CVE-2024-24520">
+
+---
 ## CVE-2024-24488 (2024-02-07T20:15:00)
 > An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component.
 - [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488)	<img alt="forks" src="https://img.shields.io/github/forks/minj-ae/CVE-2024-24488">	<img alt="stars" src="https://img.shields.io/github/stars/minj-ae/CVE-2024-24488">
