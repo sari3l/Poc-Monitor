@@ -933,6 +933,7 @@ Users are recommended to upgrade to version 18.12.10
 > A improper neutralization of special elements used in an sql command ('sql injection') in Fortinet FortiClientEMS version 7.2.0 through 7.2.2, FortiClientEMS 7.0.1 through 7.0.10 allows attacker to execute unauthorized code or commands via specially crafted packets.
 - [CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj](https://github.com/CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj)	<img alt="forks" src="https://img.shields.io/github/forks/CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj">	<img alt="stars" src="https://img.shields.io/github/stars/CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj">
 - [k4rd3n/CVE-2023-48788-PoC](https://github.com/k4rd3n/CVE-2023-48788-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/k4rd3n/CVE-2023-48788-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/k4rd3n/CVE-2023-48788-PoC">
+- [TheRedDevil1/CVE-2023-48788](https://github.com/TheRedDevil1/CVE-2023-48788)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2023-48788">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2023-48788">
 
 ---
 ## CVE-2023-48777 ()
