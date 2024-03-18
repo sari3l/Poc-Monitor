@@ -221,6 +221,7 @@
 ## CVE-2024-25153 (2024-03-13T15:15:00)
 > A directory traversal within the ‘ftpservlet’ of the FileCatalyst Workflow Web Portal allows files to be uploaded outside of the intended ‘uploadtemp’ directory with a specially crafted POST request. In situations where a file is successfully uploaded to web portal’s DocumentRoot, specially crafted JSP files could be used to execute code, including web shells.
 - [nettitude/CVE-2024-25153](https://github.com/nettitude/CVE-2024-25153)	<img alt="forks" src="https://img.shields.io/github/forks/nettitude/CVE-2024-25153">	<img alt="stars" src="https://img.shields.io/github/stars/nettitude/CVE-2024-25153">
+- [rainbowhatrkn/CVE-2024-25153](https://github.com/rainbowhatrkn/CVE-2024-25153)	<img alt="forks" src="https://img.shields.io/github/forks/rainbowhatrkn/CVE-2024-25153">	<img alt="stars" src="https://img.shields.io/github/stars/rainbowhatrkn/CVE-2024-25153">
 
 ---
 ## CVE-2024-25092 ()
