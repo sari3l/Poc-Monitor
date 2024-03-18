@@ -1040,6 +1040,7 @@
 - [BeyondCy/CVE-2017-12615](https://github.com/BeyondCy/CVE-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/BeyondCy/CVE-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/BeyondCy/CVE-2017-12615">
 - [zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717](https://github.com/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717)	<img alt="forks" src="https://img.shields.io/github/forks/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717">	<img alt="stars" src="https://img.shields.io/github/stars/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717">
 - [mefulton/cve-2017-12615](https://github.com/mefulton/cve-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/mefulton/cve-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/mefulton/cve-2017-12615">
+- [K3ysTr0K3R/CVE-2017-12615-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-12615-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-12615-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-12615-EXPLOIT">
 
 ---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
