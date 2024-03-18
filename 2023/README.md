@@ -3641,6 +3641,7 @@ Security and Spring WebFlux, and the potential for a security bypass.
 ## CVE-2023-33747 (2023-06-06T18:15:00)
 > CloudPanel v2.2.2 allows attackers to execute a path traversal.
 - [0xWhoami35/CloudPanel-CVE-2023-33747](https://github.com/0xWhoami35/CloudPanel-CVE-2023-33747)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CloudPanel-CVE-2023-33747">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CloudPanel-CVE-2023-33747">
+- [0xWhoami35/CloudPanel-CVE-2023-33747](https://github.com/0xWhoami35/CloudPanel-CVE-2023-33747)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CloudPanel-CVE-2023-33747">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CloudPanel-CVE-2023-33747">
 
 ---
 ## CVE-2023-33733 (2023-06-05T16:15:00)
