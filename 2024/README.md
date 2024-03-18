@@ -1025,6 +1025,8 @@ authentication.   
 > The Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin plugin for WordPress is vulnerable to SQL Injection via the 'sorting' parameter in versions 2.1.3 to 2.8.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2024-1071">
 - [Trackflaw/CVE-2024-1071-Docker](https://github.com/Trackflaw/CVE-2024-1071-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2024-1071-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2024-1071-Docker">
+- [Matrexdz/CVE-2024-1071-Docker](https://github.com/Matrexdz/CVE-2024-1071-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Matrexdz/CVE-2024-1071-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Matrexdz/CVE-2024-1071-Docker">
+- [Matrexdz/CVE-2024-1071](https://github.com/Matrexdz/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Matrexdz/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Matrexdz/CVE-2024-1071">
 
 ---
 ## CVE-2024-0967 (2024-03-01T15:15:00)
