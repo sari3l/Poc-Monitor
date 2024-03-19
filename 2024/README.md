@@ -968,6 +968,11 @@ critical systems.
 - [tr1pl3ight/POCv2.0-for-CVE-2024-1709](https://github.com/tr1pl3ight/POCv2.0-for-CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/POCv2.0-for-CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/POCv2.0-for-CVE-2024-1709">
 
 ---
+## CVE-2024-1698 (2024-02-27T06:15:00)
+> The NotificationX – Best FOMO, Social Proof, WooCommerce Sales Popup & Notification Bar Plugin With Elementor plugin for WordPress is vulnerable to SQL Injection via the 'type' parameter in all versions up to, and including, 2.8.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
+- [codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-1698-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-1698-PoC">
+
+---
 ## CVE-2024-1651 (2024-02-20T00:15:00)
 > Torrentpier version 2.4.1 allows executing arbitrary commands on the server.
 
