@@ -1106,6 +1106,11 @@ authentication.   
 - [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-0190-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-0190-PoC">
 
 ---
+## CVE-2024-0015 (2024-02-16T19:15:00)
+> In convertToComponentName of DreamService.java, there is a possible way to launch arbitrary protected activities due to intent redirection. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.
+- [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015)	<img alt="forks" src="https://img.shields.io/github/forks/UmVfX1BvaW50/CVE-2024-0015">	<img alt="stars" src="https://img.shields.io/github/stars/UmVfX1BvaW50/CVE-2024-0015">
+
+---
 ## CVE-2024-0001 ()
 > 
 - [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001)	<img alt="forks" src="https://img.shields.io/github/forks/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">	<img alt="stars" src="https://img.shields.io/github/stars/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">
