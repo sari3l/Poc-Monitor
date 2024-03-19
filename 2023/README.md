@@ -2114,13 +2114,13 @@ The vulnerability is limited to the ROOT (default) web application.
 - [BugBountyHunterCVE/CVE-2023-40280](https://github.com/BugBountyHunterCVE/CVE-2023-40280)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40280">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40280">
 
 ---
-## CVE-2023-40279 ()
-> 
+## CVE-2023-40279 (2024-03-19T13:15:00)
+> An issue was discovered in OpenClinic GA 5.247.01. An attacker can perform a directory path traversal via the Page parameter in a GET request to main.do.
 - [BugBountyHunterCVE/CVE-2023-40279](https://github.com/BugBountyHunterCVE/CVE-2023-40279)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40279">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40279">
 
 ---
-## CVE-2023-40278 ()
-> 
+## CVE-2023-40278 (2024-03-19T12:15:00)
+> An issue was discovered in OpenClinic GA 5.247.01. An Information Disclosure vulnerability has been identified in the printAppointmentPdf.jsp component of OpenClinic GA. By changing the AppointmentUid parameter, an attacker can determine whether a specific appointment exists based on the error message.
 - [BugBountyHunterCVE/CVE-2023-40278](https://github.com/BugBountyHunterCVE/CVE-2023-40278)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40278">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40278">
 
 ---
