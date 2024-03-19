@@ -539,6 +539,7 @@
 - [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/CVE-2024-23334">
 - [sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream](https://github.com/sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream">
 - [z3rObyte/CVE-2024-23334-PoC](https://github.com/z3rObyte/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/z3rObyte/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/z3rObyte/CVE-2024-23334-PoC">
+- [jhonnybonny/CVE-2024-23334](https://github.com/jhonnybonny/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/jhonnybonny/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/jhonnybonny/CVE-2024-23334">
 
 ---
 ## CVE-2024-23222 (2024-01-23T01:15:00)
