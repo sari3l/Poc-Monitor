@@ -1023,6 +1023,14 @@ authentication.   
 - [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-1269">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-1269">
 
 ---
+## CVE-2024-1212 (2024-02-21T18:15:00)
+> Unauthenticated remote attackers can access the system through the LoadMaster management interface, enabling arbitrary system command execution.
+
+
+
+- [Chocapikk/CVE-2024-1212](https://github.com/Chocapikk/CVE-2024-1212)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-1212">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-1212">
+
+---
 ## CVE-2024-1209 (2024-02-05T22:16:00)
 > The LearnDash LMS plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 4.10.1 via direct file access due to insufficient protection of uploaded assignments. This makes it possible for unauthenticated attackers to obtain those uploads.
 - [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1209">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1209">
