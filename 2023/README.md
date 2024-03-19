@@ -2109,8 +2109,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">
 
 ---
-## CVE-2023-40280 ()
-> 
+## CVE-2023-40280 (2024-03-19T01:15:00)
+> An issue was discovered in OpenClinic GA 5.247.01. An attacker can perform a directory path traversal via the Page parameter in a GET request to popup.jsp.
 - [BugBountyHunterCVE/CVE-2023-40280](https://github.com/BugBountyHunterCVE/CVE-2023-40280)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40280">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40280">
 
 ---
@@ -2124,18 +2124,18 @@ The vulnerability is limited to the ROOT (default) web application.
 - [BugBountyHunterCVE/CVE-2023-40278](https://github.com/BugBountyHunterCVE/CVE-2023-40278)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40278">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40278">
 
 ---
-## CVE-2023-40277 ()
-> 
+## CVE-2023-40277 (2024-03-19T01:15:00)
+> An issue was discovered in OpenClinic GA 5.247.01. A Reflected Cross-Site Scripting (XSS) vulnerability has been discovered in the login.jsp message parameter.
 - [BugBountyHunterCVE/CVE-2023-40277](https://github.com/BugBountyHunterCVE/CVE-2023-40277)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40277">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40277">
 
 ---
-## CVE-2023-40276 ()
-> 
+## CVE-2023-40276 (2024-03-19T01:15:00)
+> An issue was discovered in OpenClinic GA 5.247.01. An Unauthenticated File Download vulnerability has been discovered in pharmacy/exportFile.jsp.
 - [BugBountyHunterCVE/CVE-2023-40276](https://github.com/BugBountyHunterCVE/CVE-2023-40276)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40276">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40276">
 
 ---
-## CVE-2023-40275 ()
-> 
+## CVE-2023-40275 (2024-03-19T01:15:00)
+> An issue was discovered in OpenClinic GA 5.247.01. It allows retrieval of patient lists via queries such as findFirstname= to _common/search/searchByAjax/patientslistShow.jsp.
 - [BugBountyHunterCVE/CVE-2023-40275](https://github.com/BugBountyHunterCVE/CVE-2023-40275)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40275">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40275">
 
 ---
