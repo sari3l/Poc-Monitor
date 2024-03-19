@@ -5068,6 +5068,11 @@
 - [Live-Hack-CVE/CVE-2020-0427](https://github.com/Live-Hack-CVE/CVE-2020-0427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0427">
 
 ---
+## CVE-2020-0423 (2020-10-14T14:15:00)
+> In binder_release_work of binder.c, there is a possible use-after-free due to improper locking. This could lead to local escalation of privilege in the kernel with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-161151868References: N/A
+- [sparrow-labz/CVE-2020-0423](https://github.com/sparrow-labz/CVE-2020-0423)	<img alt="forks" src="https://img.shields.io/github/forks/sparrow-labz/CVE-2020-0423">	<img alt="stars" src="https://img.shields.io/github/stars/sparrow-labz/CVE-2020-0423">
+
+---
 ## CVE-2020-0418 (2020-11-10T13:15:00)
 > In getPermissionInfosForGroup of Utils.java, there is a logic error. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-153879813
 - [fernandodruszcz/CVE-2020-0418](https://github.com/fernandodruszcz/CVE-2020-0418)	<img alt="forks" src="https://img.shields.io/github/forks/fernandodruszcz/CVE-2020-0418">	<img alt="stars" src="https://img.shields.io/github/stars/fernandodruszcz/CVE-2020-0418">
