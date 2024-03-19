@@ -26,8 +26,8 @@
 - [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-28741-northstar-agent-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-28741-northstar-agent-rce-poc">
 
 ---
-## CVE-2024-28715 ()
-> 
+## CVE-2024-28715 (2024-03-19T21:15:00)
+> Cross Site Scripting vulnerability in DOraCMS v.2.18 and before allows a remote attacker to execute arbitrary code via the markdown0 function in the /app/public/apidoc/oas3/wrap-components/markdown.jsx endpoint.
 - [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715)	<img alt="forks" src="https://img.shields.io/github/forks/Lq0ne/CVE-2024-28715">	<img alt="stars" src="https://img.shields.io/github/stars/Lq0ne/CVE-2024-28715">
 
 ---
@@ -285,8 +285,8 @@
 - [nitipoom-jar/CVE-2024-24337](https://github.com/nitipoom-jar/CVE-2024-24337)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-24337">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-24337">
 
 ---
-## CVE-2024-24336 ()
-> 
+## CVE-2024-24336 (2024-03-19T21:15:00)
+> A multiple Cross-site scripting (XSS) vulnerability in the '/members/moremember.pl', and ‘/members/members-home.pl’ endpoints within Koha Library Management System version 23.05.05 and earlier allows malicious staff users to carry out CSRF attacks, including unauthorized changes to usernames and passwords of users visiting the affected page, via the 'Circulation note' and ‘Patrons Restriction’ components.
 - [nitipoom-jar/CVE-2024-24336](https://github.com/nitipoom-jar/CVE-2024-24336)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-24336">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-24336">
 
 ---
