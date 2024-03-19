@@ -5034,6 +5034,7 @@ and the severity is therefore considered low.
 - [johnlettman/juju-scripts](https://github.com/johnlettman/juju-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/johnlettman/juju-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/johnlettman/juju-scripts">
 - [OllaPapito/gameoverlay](https://github.com/OllaPapito/gameoverlay)	<img alt="forks" src="https://img.shields.io/github/forks/OllaPapito/gameoverlay">	<img alt="stars" src="https://img.shields.io/github/stars/OllaPapito/gameoverlay">
 - [vinetsuicide/CVE-2023-2640-CVE-2023-32629](https://github.com/vinetsuicide/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/vinetsuicide/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/vinetsuicide/CVE-2023-2640-CVE-2023-32629">
+- [Nkipohcs/CVE-2023-2640-CVE-2023-32629](https://github.com/Nkipohcs/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/Nkipohcs/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/Nkipohcs/CVE-2023-2640-CVE-2023-32629">
 
 ---
 ## CVE-2023-26360 (2023-03-23T20:15:00)
