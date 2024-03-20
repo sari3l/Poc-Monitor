@@ -155,6 +155,11 @@
 - [Satheesh575555/openSSL_1.0.1g_CVE-2014-3507](https://github.com/Satheesh575555/openSSL_1.0.1g_CVE-2014-3507)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/openSSL_1.0.1g_CVE-2014-3507">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/openSSL_1.0.1g_CVE-2014-3507">
 
 ---
+## CVE-2014-3505 (2014-08-13T23:55:00)
+> Double free vulnerability in d1_both.c in the DTLS implementation in OpenSSL 0.9.8 before 0.9.8zb, 1.0.0 before 1.0.0n, and 1.0.1 before 1.0.1i allows remote attackers to cause a denial of service (application crash) via crafted DTLS packets that trigger an error condition. <a href="http://cwe.mitre.org/data/definitions/415.html" target="_blank">CWE-415: Double Free</a>
+- [hshivhare67/OpenSSL_1.0.1g_CVE-2014-3505](https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3505)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3505">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3505">
+
+---
 ## CVE-2014-3470 (2014-06-05T21:55:00)
 > The ssl3_send_client_key_exchange function in s3_clnt.c in OpenSSL before 0.9.8za, 1.0.0 before 1.0.0m, and 1.0.1 before 1.0.1h, when an anonymous ECDH cipher suite is used, allows remote attackers to cause a denial of service (NULL pointer dereference and client crash) by triggering a NULL certificate value.
 - [Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470](https://github.com/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470">
