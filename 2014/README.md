@@ -155,6 +155,12 @@
 - [Satheesh575555/openSSL_1.0.1g_CVE-2014-3507](https://github.com/Satheesh575555/openSSL_1.0.1g_CVE-2014-3507)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/openSSL_1.0.1g_CVE-2014-3507">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/openSSL_1.0.1g_CVE-2014-3507">
 
 ---
+## CVE-2014-3506 (2014-08-13T23:55:00)
+> d1_both.c in the DTLS implementation in OpenSSL 0.9.8 before 0.9.8zb, 1.0.0 before 1.0.0n, and 1.0.1 before 1.0.1i allows remote attackers to cause a denial of service (memory consumption) via crafted DTLS handshake messages that trigger memory allocations corresponding to large length values.
+- [hshivhare67/OpenSSL_1.0.1g_CVE-2014-3506](https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3506)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3506">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3506">
+- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
+
+---
 ## CVE-2014-3505 (2014-08-13T23:55:00)
 > Double free vulnerability in d1_both.c in the DTLS implementation in OpenSSL 0.9.8 before 0.9.8zb, 1.0.0 before 1.0.0n, and 1.0.1 before 1.0.1i allows remote attackers to cause a denial of service (application crash) via crafted DTLS packets that trigger an error condition. <a href="http://cwe.mitre.org/data/definitions/415.html" target="_blank">CWE-415: Double Free</a>
 - [hshivhare67/OpenSSL_1.0.1g_CVE-2014-3505](https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3505)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3505">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3505">
