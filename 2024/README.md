@@ -1041,6 +1041,17 @@ authentication.   
 - [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">
 
 ---
+## CVE-2024-1086 (2024-01-31T13:15:00)
+> A use-after-free vulnerability in the Linux kernel's netfilter: nf_tables component can be exploited to achieve local privilege escalation.
+
+The nft_verdict_init() function allows positive values as drop error within the hook verdict, and hence the nf_hook_slow() function can cause a double free vulnerability when NF_DROP is issued with a drop error which resembles NF_ACCEPT.
+
+We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
+
+
+- [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/Notselwyn/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/Notselwyn/CVE-2024-1086">
+
+---
 ## CVE-2024-1071 (2024-03-13T16:15:00)
 > The Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin plugin for WordPress is vulnerable to SQL Injection via the 'sorting' parameter in versions 2.1.3 to 2.8.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2024-1071">
