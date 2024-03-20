@@ -6279,6 +6279,7 @@
 > For Eclipse Jetty versions <= 9.4.40, <= 10.0.2, <= 11.0.2, it is possible for requests to the ConcatServlet with a doubly encoded path to access protected resources within the WEB-INF directory. For example a request to `/concat?/%2557EB-INF/web.xml` can retrieve the web.xml file. This can reveal sensitive information regarding the implementation of a web application.
 - [Live-Hack-CVE/CVE-2021-28169](https://github.com/Live-Hack-CVE/CVE-2021-28169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28169">
 - [Trinadh465/jetty_9.4.31_CVE-2021-28169](https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-28169)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/jetty_9.4.31_CVE-2021-28169">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/jetty_9.4.31_CVE-2021-28169">
+- [hshivhare67/Jetty_v9.4.31_CVE-2021-28169](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2021-28169)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty_v9.4.31_CVE-2021-28169">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty_v9.4.31_CVE-2021-28169">
 
 ---
 ## CVE-2021-28165 (2021-04-01T15:15:00)
