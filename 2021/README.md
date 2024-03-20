@@ -5628,6 +5628,12 @@
 - [Live-Hack-CVE/CVE-2021-31650](https://github.com/Live-Hack-CVE/CVE-2021-31650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31650">
 
 ---
+## CVE-2021-31630 (2021-08-03T15:15:00)
+> Command Injection in Open PLC Webserver v3 allows remote attackers to execute arbitrary code via the "Hardware Layer Code Box" component on the "/hardware" page of the application.
+- [Hunt3r0x/CVE-2021-31630-HTB](https://github.com/Hunt3r0x/CVE-2021-31630-HTB)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt3r0x/CVE-2021-31630-HTB">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt3r0x/CVE-2021-31630-HTB">
+- [hev0x/CVE-2021-31630-OpenPLC_RCE](https://github.com/hev0x/CVE-2021-31630-OpenPLC_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hev0x/CVE-2021-31630-OpenPLC_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hev0x/CVE-2021-31630-OpenPLC_RCE">
+
+---
 ## CVE-2021-31589 (2022-01-05T12:15:00)
 > A cross-site scripting (XSS) vulnerability has been reported and confirmed for BeyondTrust Secure Remote Access Base Software version 6.0.1 and older, which allows the injection of unauthenticated, specially-crafted web requests without proper sanitization.
 - [karthi-the-hacker/CVE-2021-31589](https://github.com/karthi-the-hacker/CVE-2021-31589)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2021-31589">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2021-31589">
