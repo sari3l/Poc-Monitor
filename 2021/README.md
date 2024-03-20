@@ -4961,6 +4961,7 @@
 ## CVE-2021-34428 (2021-06-22T15:15:00)
 > For Eclipse Jetty versions <= 9.4.40, <= 10.0.2, <= 11.0.2, if an exception is thrown from the SessionListener#sessionDestroyed() method, then the session ID is not invalidated in the session ID manager. On deployments with clustered sessions and multiple contexts this can result in a session not being invalidated. This can result in an application used on a shared computer being left logged in.
 - [Trinadh465/jetty_9.4.31_CVE-2021-34428](https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-34428)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/jetty_9.4.31_CVE-2021-34428">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/jetty_9.4.31_CVE-2021-34428">
+- [hshivhare67/Jetty_v9.4.31_CVE-2021-34428](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2021-34428)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty_v9.4.31_CVE-2021-34428">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty_v9.4.31_CVE-2021-34428">
 
 ---
 ## CVE-2021-34427 (2021-06-25T19:15:00)
