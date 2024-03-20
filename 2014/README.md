@@ -148,6 +148,11 @@
 - [mikesplain/CVE-2014-3566-poodle-cookbook](https://github.com/mikesplain/CVE-2014-3566-poodle-cookbook)	<img alt="forks" src="https://img.shields.io/github/forks/mikesplain/CVE-2014-3566-poodle-cookbook">	<img alt="stars" src="https://img.shields.io/github/stars/mikesplain/CVE-2014-3566-poodle-cookbook">
 
 ---
+## CVE-2014-3508 (2014-08-13T23:55:00)
+> The OBJ_obj2txt function in crypto/objects/obj_dat.c in OpenSSL 0.9.8 before 0.9.8zb, 1.0.0 before 1.0.0n, and 1.0.1 before 1.0.1i, when pretty printing is used, does not ensure the presence of '\0' characters, which allows context-dependent attackers to obtain sensitive information from process stack memory by reading output from X509_name_oneline, X509_name_print_ex, and unspecified other functions.
+- [hshivhare67/OpenSSL_1.0.1g_CVE-2014-3508](https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3508)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3508">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3508">
+
+---
 ## CVE-2014-3507 (2014-08-13T23:55:00)
 > Memory leak in d1_both.c in the DTLS implementation in OpenSSL 0.9.8 before 0.9.8zb, 1.0.0 before 1.0.0n, and 1.0.1 before 1.0.1i allows remote attackers to cause a denial of service (memory consumption) via zero-length DTLS fragments that trigger improper handling of the return value of a certain insert function.
 - [nidhi7598/OPENSSL_1.0.1g_CVE-2014-3507](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3507)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3507">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3507">
