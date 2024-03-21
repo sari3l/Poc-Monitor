@@ -21,6 +21,11 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-29439 ()
+> 
+- [yashpatelphd/CVE-2024-29439-](https://github.com/yashpatelphd/CVE-2024-29439-)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29439-">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29439-">
+
+---
 ## CVE-2024-28741 ()
 > 
 - [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-28741-northstar-agent-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-28741-northstar-agent-rce-poc">
