@@ -921,6 +921,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [dshabani96/CVE-2024-21413](https://github.com/dshabani96/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/dshabani96/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/dshabani96/CVE-2024-21413">
 
 ---
+## CVE-2024-21412 (2024-02-13T18:15:00)
+> Internet Shortcut Files Security Feature Bypass Vulnerability
+- [wr00t/CVE-2024-21412_Water-Hydra](https://github.com/wr00t/CVE-2024-21412_Water-Hydra)	<img alt="forks" src="https://img.shields.io/github/forks/wr00t/CVE-2024-21412_Water-Hydra">	<img alt="stars" src="https://img.shields.io/github/stars/wr00t/CVE-2024-21412_Water-Hydra">
+
+---
 ## CVE-2024-21411 (2024-03-12T17:15:00)
 > Skype for Consumer Remote Code Execution Vulnerability
 - [rkraper339/CVE-2024-21411-POC](https://github.com/rkraper339/CVE-2024-21411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rkraper339/CVE-2024-21411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rkraper339/CVE-2024-21411-POC">
