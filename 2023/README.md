@@ -614,38 +614,38 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [geraldoalcantara/CVE-2023-49986](https://github.com/geraldoalcantara/CVE-2023-49986)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49986">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49986">
 
 ---
-## CVE-2023-49985 ()
-> 
+## CVE-2023-49985 (2024-03-21T02:49:00)
+> A cross-site scripting (XSS) vulnerability in the component /management/class of School Fees Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the cname parameter.
 - [geraldoalcantara/CVE-2023-49985](https://github.com/geraldoalcantara/CVE-2023-49985)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49985">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49985">
 
 ---
-## CVE-2023-49984 ()
-> 
+## CVE-2023-49984 (2024-03-21T02:49:00)
+> A cross-site scripting (XSS) vulnerability in the component /management/settings of School Fees Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the name parameter.
 - [geraldoalcantara/CVE-2023-49984](https://github.com/geraldoalcantara/CVE-2023-49984)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49984">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49984">
 
 ---
-## CVE-2023-49983 ()
-> 
+## CVE-2023-49983 (2024-03-21T02:49:00)
+> A cross-site scripting (XSS) vulnerability in the component /management/class of School Fees Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the name parameter.
 - [geraldoalcantara/CVE-2023-49983](https://github.com/geraldoalcantara/CVE-2023-49983)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49983">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49983">
 
 ---
-## CVE-2023-49982 ()
-> 
+## CVE-2023-49982 (2024-03-21T02:49:00)
+> Broken access control in the component /admin/management/users of School Fees Management System v1.0 allows attackers to escalate privileges and perform Administrative actions, including adding and deleting user accounts.
 - [geraldoalcantara/CVE-2023-49982](https://github.com/geraldoalcantara/CVE-2023-49982)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49982">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49982">
 
 ---
-## CVE-2023-49981 ()
-> 
+## CVE-2023-49981 (2024-03-21T02:49:00)
+> A directory listing vulnerability in School Fees Management System v1.0 allows attackers to list directories and sensitive files within the application without requiring authorization.
 - [geraldoalcantara/CVE-2023-49981](https://github.com/geraldoalcantara/CVE-2023-49981)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49981">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49981">
 
 ---
-## CVE-2023-49979 ()
-> 
+## CVE-2023-49979 (2024-03-21T02:49:00)
+> A directory listing vulnerability in Customer Support System v1 allows attackers to list directories and sensitive files within the application without requiring authorization.
 - [geraldoalcantara/CVE-2023-49979](https://github.com/geraldoalcantara/CVE-2023-49979)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49979">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49979">
 
 ---
-## CVE-2023-49978 ()
-> 
+## CVE-2023-49978 (2024-03-21T02:49:00)
+> Incorrect access control in Customer Support System v1 allows non-administrator users to access administrative pages and execute actions reserved for administrators.
 - [geraldoalcantara/CVE-2023-49978](https://github.com/geraldoalcantara/CVE-2023-49978)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49978">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49978">
 
 ---
@@ -1011,8 +1011,8 @@ Users are recommended to upgrade to version 18.12.10
 - [nitipoom-jar/CVE-2023-48028](https://github.com/nitipoom-jar/CVE-2023-48028)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48028">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48028">
 
 ---
-## CVE-2023-48022 ()
-> 
+## CVE-2023-48022 (2023-11-28T08:15:00)
+> Anyscale Ray 2.6.3 and 2.8.0 allows a remote attacker to execute arbitrary code via the job submission API. NOTE: the vendor's position is that this report is irrelevant because Ray, as stated in its documentation, is not intended for use outside of a strictly controlled network environment
 - [0x656565/CVE-2023-48022](https://github.com/0x656565/CVE-2023-48022)	<img alt="forks" src="https://img.shields.io/github/forks/0x656565/CVE-2023-48022">	<img alt="stars" src="https://img.shields.io/github/stars/0x656565/CVE-2023-48022">
 
 ---

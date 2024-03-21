@@ -245,8 +245,8 @@
 - [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760)	<img alt="forks" src="https://img.shields.io/github/forks/killerbees19/CVE-2024-24760">	<img alt="stars" src="https://img.shields.io/github/stars/killerbees19/CVE-2024-24760">
 
 ---
-## CVE-2024-24520 ()
-> 
+## CVE-2024-24520 (2024-03-21T02:52:00)
+> An issue in Lepton CMS v.7.0.0 allows a local attacker to execute arbitrary code via the upgrade.php file in the languages place.
 - [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520)	<img alt="forks" src="https://img.shields.io/github/forks/xF-9979/CVE-2024-24520">	<img alt="stars" src="https://img.shields.io/github/stars/xF-9979/CVE-2024-24520">
 
 ---
