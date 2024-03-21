@@ -21,6 +21,16 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-29449 ()
+> 
+- [yashpatelphd/CVE-2024-29449](https://github.com/yashpatelphd/CVE-2024-29449)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29449">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29449">
+
+---
+## CVE-2024-29448 ()
+> 
+- [yashpatelphd/CVE-2024-29448](https://github.com/yashpatelphd/CVE-2024-29448)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29448">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29448">
+
+---
 ## CVE-2024-29447 ()
 > 
 - [yashpatelphd/CVE-2024-29447](https://github.com/yashpatelphd/CVE-2024-29447)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29447">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29447">
