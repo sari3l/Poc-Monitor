@@ -3019,6 +3019,11 @@ prior to
 - [tandasat/CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427)	<img alt="forks" src="https://img.shields.io/github/forks/tandasat/CVE-2023-36427">	<img alt="stars" src="https://img.shields.io/github/stars/tandasat/CVE-2023-36427">
 
 ---
+## CVE-2023-36424 (2023-11-14T18:15:00)
+> Windows Common Log File System Driver Elevation of Privilege Vulnerability
+- [Nassim-Asrir/CVE-2023-36424](https://github.com/Nassim-Asrir/CVE-2023-36424)	<img alt="forks" src="https://img.shields.io/github/forks/Nassim-Asrir/CVE-2023-36424">	<img alt="stars" src="https://img.shields.io/github/stars/Nassim-Asrir/CVE-2023-36424">
+
+---
 ## CVE-2023-36407 (2023-11-14T18:15:00)
 > Windows Hyper-V Elevation of Privilege Vulnerability
 - [pwndorei/CVE-2023-36407](https://github.com/pwndorei/CVE-2023-36407)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2023-36407">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2023-36407">
