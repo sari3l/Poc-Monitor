@@ -1233,6 +1233,11 @@
 - [Rosayxy/cve-2021-43226PoC](https://github.com/Rosayxy/cve-2021-43226PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Rosayxy/cve-2021-43226PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Rosayxy/cve-2021-43226PoC">
 
 ---
+## CVE-2021-43217 (2021-12-15T15:15:00)
+> Windows Encrypting File System (EFS) Remote Code Execution Vulnerability
+- [JolynNgSC/EFS_CVE-2021-43217](https://github.com/JolynNgSC/EFS_CVE-2021-43217)	<img alt="forks" src="https://img.shields.io/github/forks/JolynNgSC/EFS_CVE-2021-43217">	<img alt="stars" src="https://img.shields.io/github/stars/JolynNgSC/EFS_CVE-2021-43217">
+
+---
 ## CVE-2021-4313 (2023-01-16T12:15:00)
 > A vulnerability was found in NethServer phonenehome. It has been rated as critical. This issue affects the function get_info/get_country_coor of the file server/index.php. The manipulation leads to sql injection. The name of the patch is 759c30b0ddd7d493836bbdf695cf71624b377391. It is recommended to apply a patch to fix this issue. The identifier VDB-218393 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4313](https://github.com/Live-Hack-CVE/CVE-2021-4313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4313">
