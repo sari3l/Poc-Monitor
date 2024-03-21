@@ -4185,6 +4185,7 @@ Fixed in version 6.4.1.
 > The vulnerability was found Moodle which exists because the application allows a user to control path of the older to create in TinyMCE loaders. A remote user can send a specially crafted HTTP request and create arbitrary folders on the system.
 - [d0rb/CVE-2023-30943](https://github.com/d0rb/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-30943">
 - [Chocapikk/CVE-2023-30943](https://github.com/Chocapikk/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-30943">
+- [RubyCat1337/CVE-2023-30943](https://github.com/RubyCat1337/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/RubyCat1337/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/RubyCat1337/CVE-2023-30943">
 
 ---
 ## CVE-2023-30861 (2023-05-02T18:15:00)
@@ -5761,6 +5762,7 @@ Atlassian Cloud sites are not affected by this vulnerability. If your Confluence
 - [C1ph3rX13/CVE-2023-22518](https://github.com/C1ph3rX13/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-22518">
 - [0x00sector/CVE_2023_22518_Checker](https://github.com/0x00sector/CVE_2023_22518_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/0x00sector/CVE_2023_22518_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/0x00sector/CVE_2023_22518_Checker">
 - [bibo318/CVE-2023-22518](https://github.com/bibo318/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/bibo318/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/bibo318/CVE-2023-22518">
+- [Lilly-dox/Exploit-CVE-2023-22518](https://github.com/Lilly-dox/Exploit-CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/Lilly-dox/Exploit-CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/Lilly-dox/Exploit-CVE-2023-22518">
 
 ---
 ## CVE-2023-22515 (2023-10-04T14:15:00)
