@@ -3781,6 +3781,7 @@
 - [whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC](https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC)	<img alt="forks" src="https://img.shields.io/github/forks/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC">	<img alt="stars" src="https://img.shields.io/github/stars/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC">
 - [logg-1/0logon](https://github.com/logg-1/0logon)	<img alt="forks" src="https://img.shields.io/github/forks/logg-1/0logon">	<img alt="stars" src="https://img.shields.io/github/stars/logg-1/0logon">
 - [botfather0x0/ZeroLogon-to-Shell](https://github.com/botfather0x0/ZeroLogon-to-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/botfather0x0/ZeroLogon-to-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/botfather0x0/ZeroLogon-to-Shell">
+- [JolynNgSC/Zerologon_CVE-2020-1472](https://github.com/JolynNgSC/Zerologon_CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/JolynNgSC/Zerologon_CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/JolynNgSC/Zerologon_CVE-2020-1472">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
