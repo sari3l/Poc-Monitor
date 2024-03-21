@@ -34,6 +34,7 @@
 - [OstojaOfficial/CVE-2012-2982](https://github.com/OstojaOfficial/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/OstojaOfficial/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/OstojaOfficial/CVE-2012-2982">
 - [Dawnn3619/CVE-2012-2982](https://github.com/Dawnn3619/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/Dawnn3619/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/Dawnn3619/CVE-2012-2982">
 - [LeDucKhiem/CVE-2012-2982](https://github.com/LeDucKhiem/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/LeDucKhiem/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/LeDucKhiem/CVE-2012-2982">
+- [CpyRe/CVE-2012-2982](https://github.com/CpyRe/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/CpyRe/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/CpyRe/CVE-2012-2982">
 
 ---
 ## CVE-2012-2661 (2012-06-22T14:55:00)
