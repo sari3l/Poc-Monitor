@@ -68,6 +68,13 @@
 - [Sunqiz/CVE-2010-3333-reproduction](https://github.com/Sunqiz/CVE-2010-3333-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-3333-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-3333-reproduction">
 
 ---
+## CVE-2010-3124 (2010-08-26T18:36:00)
+> Untrusted search path vulnerability in bin/winvlc.c in VLC Media Player 1.1.3 and earlier allows local users, and possibly remote attackers, to execute arbitrary code and conduct DLL hijacking attacks via a Trojan horse wintab32.dll that is located in the same folder as a .mp3 file. Per: http://cwe.mitre.org/data/definitions/426.html
+
+'CWE-426: Untrusted Search Path'
+- [Nhom6KTLT/CVE-2010-3124](https://github.com/Nhom6KTLT/CVE-2010-3124)	<img alt="forks" src="https://img.shields.io/github/forks/Nhom6KTLT/CVE-2010-3124">	<img alt="stars" src="https://img.shields.io/github/stars/Nhom6KTLT/CVE-2010-3124">
+
+---
 ## CVE-2010-3069 (2010-09-15T18:00:00)
 > Stack-based buffer overflow in the (1) sid_parse and (2) dom_sid_parse functions in Samba before 3.5.5 allows remote attackers to cause a denial of service (crash) and possibly execute arbitrary code via a crafted Windows Security ID (SID) on a file share.
 - [Live-Hack-CVE/CVE-2010-3069](https://github.com/Live-Hack-CVE/CVE-2010-3069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-3069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-3069">
