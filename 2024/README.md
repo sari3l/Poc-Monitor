@@ -289,6 +289,11 @@
 - [Agampreet-Singh/CVE-2024-25202](https://github.com/Agampreet-Singh/CVE-2024-25202)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-25202">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-25202">
 
 ---
+## CVE-2024-25175 ()
+> 
+- [jet-pentest/CVE-2024-25175](https://github.com/jet-pentest/CVE-2024-25175)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2024-25175">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2024-25175">
+
+---
 ## CVE-2024-25170 (2024-02-28T20:15:00)
 > An issue in Mezzanine v6.0.0 allows attackers to bypass access controls via manipulating the Host header.
 - [shenhav12/CVE-2024-25170-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0">
