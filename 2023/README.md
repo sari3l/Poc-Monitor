@@ -992,6 +992,7 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-48084 (2023-12-14T07:15:00)
 > Nagios XI before version 5.11.3 was discovered to contain a SQL injection vulnerability via the bulk modification tool.
 - [Hamibubu/CVE-2023-48084](https://github.com/Hamibubu/CVE-2023-48084)	<img alt="forks" src="https://img.shields.io/github/forks/Hamibubu/CVE-2023-48084">	<img alt="stars" src="https://img.shields.io/github/stars/Hamibubu/CVE-2023-48084">
+- [bucketcat/CVE-2023-48084-](https://github.com/bucketcat/CVE-2023-48084-)	<img alt="forks" src="https://img.shields.io/github/forks/bucketcat/CVE-2023-48084-">	<img alt="stars" src="https://img.shields.io/github/stars/bucketcat/CVE-2023-48084-">
 
 ---
 ## CVE-2023-48034 ()
