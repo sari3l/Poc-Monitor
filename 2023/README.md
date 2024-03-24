@@ -1878,6 +1878,11 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4174">
 
 ---
+## CVE-2023-41724 ()
+> 
+- [russhackerr/CVE-2023-41724](https://github.com/russhackerr/CVE-2023-41724)	<img alt="forks" src="https://img.shields.io/github/forks/russhackerr/CVE-2023-41724">	<img alt="stars" src="https://img.shields.io/github/stars/russhackerr/CVE-2023-41724">
+
+---
 ## CVE-2023-41717 (2023-08-31T16:15:00)
 > Inappropriate file type control in Zscaler Proxy versions 3.6.1.25 and prior allows local attackers to bypass file download/upload restrictions.
 - [federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717)	<img alt="forks" src="https://img.shields.io/github/forks/federella/CVE-2023-41717">	<img alt="stars" src="https://img.shields.io/github/stars/federella/CVE-2023-41717">
