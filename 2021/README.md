@@ -4393,6 +4393,7 @@
 - [LucasPDiniz/CVE-2021-3560](https://github.com/LucasPDiniz/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2021-3560">
 - [markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation](https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation">
 - [MY7H404/CVE-2021-3560-Polkit](https://github.com/MY7H404/CVE-2021-3560-Polkit)	<img alt="forks" src="https://img.shields.io/github/forks/MY7H404/CVE-2021-3560-Polkit">	<img alt="stars" src="https://img.shields.io/github/stars/MY7H404/CVE-2021-3560-Polkit">
+- [Kyyomaa/CVE-2021-3560-EXPLOIT](https://github.com/Kyyomaa/CVE-2021-3560-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Kyyomaa/CVE-2021-3560-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Kyyomaa/CVE-2021-3560-EXPLOIT">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
