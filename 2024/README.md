@@ -351,6 +351,11 @@
 - [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488)	<img alt="forks" src="https://img.shields.io/github/forks/minj-ae/CVE-2024-24488">	<img alt="stars" src="https://img.shields.io/github/stars/minj-ae/CVE-2024-24488">
 
 ---
+## CVE-2024-24409 ()
+> 
+- [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2024-24409">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2024-24409">
+
+---
 ## CVE-2024-24401 (2024-02-26T17:15:00)
 > SQL Injection vulnerability in Nagios XI 2024R1.01 allows a remote attacker to execute arbitrary code via a crafted payload to the monitoringwizard.php component.
 - [MAWK0235/CVE-2024-24401](https://github.com/MAWK0235/CVE-2024-24401)	<img alt="forks" src="https://img.shields.io/github/forks/MAWK0235/CVE-2024-24401">	<img alt="stars" src="https://img.shields.io/github/stars/MAWK0235/CVE-2024-24401">
