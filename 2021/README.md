@@ -889,6 +889,7 @@
 - [Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [KtokKawu/l4s-vulnapp](https://github.com/KtokKawu/l4s-vulnapp)	<img alt="forks" src="https://img.shields.io/github/forks/KtokKawu/l4s-vulnapp">	<img alt="stars" src="https://img.shields.io/github/stars/KtokKawu/l4s-vulnapp">
 - [aalex954/Log4PowerShell](https://github.com/aalex954/Log4PowerShell)	<img alt="forks" src="https://img.shields.io/github/forks/aalex954/Log4PowerShell">	<img alt="stars" src="https://img.shields.io/github/stars/aalex954/Log4PowerShell">
+- [ShlomiRex/log4shell_lab](https://github.com/ShlomiRex/log4shell_lab)	<img alt="forks" src="https://img.shields.io/github/forks/ShlomiRex/log4shell_lab">	<img alt="stars" src="https://img.shields.io/github/stars/ShlomiRex/log4shell_lab">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
