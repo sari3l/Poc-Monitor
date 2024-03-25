@@ -625,6 +625,11 @@
 - [V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23738">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23738">
 
 ---
+## CVE-2024-23722 ()
+> 
+- [alexcote1/CVE-2024-23722-poc](https://github.com/alexcote1/CVE-2024-23722-poc)	<img alt="forks" src="https://img.shields.io/github/forks/alexcote1/CVE-2024-23722-poc">	<img alt="stars" src="https://img.shields.io/github/stars/alexcote1/CVE-2024-23722-poc">
+
+---
 ## CVE-2024-23652 (2024-01-31T22:15:00)
 > BuildKit is a toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner. A malicious BuildKit frontend or Dockerfile using RUN --mount could trick the feature that removes empty files created for the mountpoints into removing a file outside the container, from the host system. The issue has been fixed in v0.12.5. Workarounds include avoiding using BuildKit frontends from an untrusted source or building an untrusted Dockerfile containing RUN --mount feature.
 - [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652)	<img alt="forks" src="https://img.shields.io/github/forks/abian2/CVE-2024-23652">	<img alt="stars" src="https://img.shields.io/github/stars/abian2/CVE-2024-23652">
