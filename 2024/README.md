@@ -92,6 +92,11 @@
 - [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29439">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29439">
 
 ---
+## CVE-2024-29194 (2024-03-24T19:15:00)
+> OneUptime is a solution for monitoring and managing online services. The vulnerability lies in the improper validation of client-side stored data within the web application. Specifically, the is_master_admin key, stored in the local storage of the browser, can be manipulated by an attacker. By changing this key from false to true, the application grants administrative privileges to the user, without proper server-side validation.  This has been patched in 7.0.1815.
+- [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mansploit/CVE-2024-29194-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mansploit/CVE-2024-29194-POC">
+
+---
 ## CVE-2024-28741 ()
 > 
 - [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-28741-northstar-agent-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-28741-northstar-agent-rce-poc">
