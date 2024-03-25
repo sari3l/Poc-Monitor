@@ -81,8 +81,8 @@
 - [yashpatelphd/CVE-2024-29441](https://github.com/yashpatelphd/CVE-2024-29441)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29441">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29441">
 
 ---
-## CVE-2024-29440 ()
-> 
+## CVE-2024-29440 (2024-03-25T21:15:00)
+> An unauthorized access vulnerability has been discovered in ROS2 Humble Hawksbill versions where ROS_VERSION is 2 and ROS_PYTHON_VERSION is 3. This vulnerability could potentially allow a malicious user to gain unauthorized access to multiple ROS2 nodes remotely. Unauthorized access to these nodes could result in compromised system integrity, the execution of arbitrary commands, and disclosure of sensitive information.
 - [yashpatelphd/CVE-2024-29440](https://github.com/yashpatelphd/CVE-2024-29440)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29440">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29440">
 
 ---
@@ -94,6 +94,7 @@
 ---
 ## CVE-2024-29272 (2024-03-22T04:15:00)
 > Arbitrary File Upload vulnerability in VvvebJs before version 1.7.5, allows unauthenticated remote attackers to execute arbitrary code and obtain sensitive information via the sanitizeFileName parameter in save.php.
+- [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272)	<img alt="forks" src="https://img.shields.io/github/forks/awjkjflkwlekfdjs/CVE-2024-29272">	<img alt="stars" src="https://img.shields.io/github/stars/awjkjflkwlekfdjs/CVE-2024-29272">
 - [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272)	<img alt="forks" src="https://img.shields.io/github/forks/awjkjflkwlekfdjs/CVE-2024-29272">	<img alt="stars" src="https://img.shields.io/github/stars/awjkjflkwlekfdjs/CVE-2024-29272">
 
 ---
