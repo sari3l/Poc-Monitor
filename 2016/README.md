@@ -355,6 +355,11 @@
 - [Live-Hack-CVE/CVE-2016-6922](https://github.com/Live-Hack-CVE/CVE-2016-6922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6922">
 
 ---
+## CVE-2016-6304 (2016-09-26T19:59:00)
+> Multiple memory leaks in t1_lib.c in OpenSSL before 1.0.1u, 1.0.2 before 1.0.2i, and 1.1.0 before 1.1.0a allow remote attackers to cause a denial of service (memory consumption) via large OCSP Status Request extensions.
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304">
+
+---
 ## CVE-2016-6210 (2017-02-13T17:59:00)
 > sshd in OpenSSH before 7.3, when SHA256 or SHA512 are used for user password hashing, uses BLOWFISH hashing on a static password when the username does not exist, which allows remote attackers to enumerate users by leveraging the timing difference between responses when a large password is provided.
 - [goomdan/CVE-2016-6210-exploit](https://github.com/goomdan/CVE-2016-6210-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/goomdan/CVE-2016-6210-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/goomdan/CVE-2016-6210-exploit">
