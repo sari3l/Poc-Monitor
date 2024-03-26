@@ -71,8 +71,8 @@
 - [yashpatelphd/CVE-2024-29443](https://github.com/yashpatelphd/CVE-2024-29443)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29443">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29443">
 
 ---
-## CVE-2024-29442 ()
-> 
+## CVE-2024-29442 (2024-03-25T22:37:00)
+> An unauthorized access vulnerability has been discovered in ROS2 Humble Hawksbill versions where ROS_VERSION is 2 and ROS_PYTHON_VERSION is 3. This vulnerability could potentially allow a malicious user to gain unauthorized access to multiple ROS2 nodes remotely. Unauthorized access to these nodes could result in compromised system integrity, the execution of arbitrary commands, and disclosure of sensitive information.
 - [yashpatelphd/CVE-2024-29442](https://github.com/yashpatelphd/CVE-2024-29442)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29442">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29442">
 
 ---
