@@ -884,6 +884,7 @@ QuTScloud c5.1.5.2651 and later
 - [vorotilovaawex/CVE-2024-21762_POC](https://github.com/vorotilovaawex/CVE-2024-21762_POC)	<img alt="forks" src="https://img.shields.io/github/forks/vorotilovaawex/CVE-2024-21762_POC">	<img alt="stars" src="https://img.shields.io/github/stars/vorotilovaawex/CVE-2024-21762_POC">
 - [TheRedDevil1/CVE-2024-21762](https://github.com/TheRedDevil1/CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21762">
 - [d0rb/CVE-2024-21762](https://github.com/d0rb/CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-21762">
+- [S0SkiPlosK1/CVE-2024-21762-POC](https://github.com/S0SkiPlosK1/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/S0SkiPlosK1/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/S0SkiPlosK1/CVE-2024-21762-POC">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
