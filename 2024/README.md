@@ -98,8 +98,9 @@
 - [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272)	<img alt="forks" src="https://img.shields.io/github/forks/awjkjflkwlekfdjs/CVE-2024-29272">	<img alt="stars" src="https://img.shields.io/github/stars/awjkjflkwlekfdjs/CVE-2024-29272">
 
 ---
-## CVE-2024-29197 ()
-> 
+## CVE-2024-29197 (2024-03-26T15:15:00)
+> Pimcore is an Open Source Data & Experience Management Platform. Any call with the query argument `?pimcore_preview=true` allows to view unpublished sites. In previous versions of Pimcore, session information would propagate to previews, so only a logged in user could open a preview. This no longer applies. Previews are broad open to any user and with just the hint of a restricted link one could gain access to possible confident / unreleased information. This vulnerability is fixed in 11.2.2 and 11.1.6.1.
+
 - [mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mansploit/CVE-2024-29197-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mansploit/CVE-2024-29197-exploit">
 
 ---
@@ -643,8 +644,8 @@
 - [V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23738">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23738">
 
 ---
-## CVE-2024-23722 ()
-> 
+## CVE-2024-23722 (2024-03-26T15:15:00)
+> In Fluent Bit 2.1.8 through 2.2.1, a NULL pointer dereference can be caused via an invalid HTTP payload with the content type of x-www-form-urlencoded. It crashes and does not restart. This could result in logs not being delivered properly.
 - [alexcote1/CVE-2024-23722-poc](https://github.com/alexcote1/CVE-2024-23722-poc)	<img alt="forks" src="https://img.shields.io/github/forks/alexcote1/CVE-2024-23722-poc">	<img alt="stars" src="https://img.shields.io/github/stars/alexcote1/CVE-2024-23722-poc">
 
 ---
