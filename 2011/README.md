@@ -1,6 +1,11 @@
 # 2011 List
 
 ---
+## CVE-2011-5325 (2017-08-07T17:29:00)
+> Directory traversal vulnerability in the BusyBox implementation of tar before 1.22.0 v5 allows remote attackers to point to files outside the current working directory via a symlink.
+- [itwizardo/CVE-2011-5325](https://github.com/itwizardo/CVE-2011-5325)	<img alt="forks" src="https://img.shields.io/github/forks/itwizardo/CVE-2011-5325">	<img alt="stars" src="https://img.shields.io/github/stars/itwizardo/CVE-2011-5325">
+
+---
 ## CVE-2011-4566 (2011-11-29T00:55:00)
 > Integer overflow in the exif_process_IFD_TAG function in exif.c in the exif extension in PHP 5.4.0beta2 on 32-bit platforms allows remote attackers to read the contents of arbitrary memory locations or cause a denial of service via a crafted offset_val value in an EXIF header in a JPEG file, a different vulnerability than CVE-2011-0708.
 - [Live-Hack-CVE/CVE-2011-4566](https://github.com/Live-Hack-CVE/CVE-2011-4566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4566">
