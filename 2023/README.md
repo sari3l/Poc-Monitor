@@ -939,8 +939,10 @@ Users are recommended to upgrade to version 18.12.10
 - [TheRedDevil1/CVE-2023-48788-exploit](https://github.com/TheRedDevil1/CVE-2023-48788-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2023-48788-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2023-48788-exploit">
 
 ---
-## CVE-2023-48777 ()
-> 
+## CVE-2023-48777 (2024-03-26T21:15:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in Elementor.Com Elementor Website Builder.This issue affects Elementor Website Builder: from 3.3.0 through 3.18.1.
+
+
 - [AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777](https://github.com/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777)	<img alt="forks" src="https://img.shields.io/github/forks/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777">	<img alt="stars" src="https://img.shields.io/github/stars/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777">
 
 ---
@@ -2527,8 +2529,10 @@ URL that curl has been told to operate with.
 - [codeb0ss/CVE-2023-38389-PoC](https://github.com/codeb0ss/CVE-2023-38389-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-38389-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-38389-PoC">
 
 ---
-## CVE-2023-38388 ()
-> 
+## CVE-2023-38388 (2024-03-26T21:15:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in Artbees JupiterX Core.This issue affects JupiterX Core: from n/a through 3.3.5.
+
+
 - [codeb0ss/CVE-2023-38388](https://github.com/codeb0ss/CVE-2023-38388)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-38388">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-38388">
 
 ---
