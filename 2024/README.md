@@ -1020,6 +1020,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [labesterOct/CVE-2024-20931](https://github.com/labesterOct/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-20931">
 
 ---
+## CVE-2024-20767 (2024-03-18T12:15:00)
+> ColdFusion versions 2023.6, 2021.12 and earlier are affected by an Improper Access Control vulnerability that could lead to arbitrary file system read. An attacker could leverage this vulnerability to bypass security measures and gain unauthorized access to sensitive files and perform arbitrary file system write. Exploitation of this issue does not require user interaction.
+- [yoryio/CVE-2024-20767](https://github.com/yoryio/CVE-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-20767">
+
+---
 ## CVE-2024-20698 (2024-01-09T18:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698)	<img alt="forks" src="https://img.shields.io/github/forks/RomanRybachek/CVE-2024-20698">	<img alt="stars" src="https://img.shields.io/github/stars/RomanRybachek/CVE-2024-20698">
