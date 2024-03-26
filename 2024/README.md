@@ -122,7 +122,7 @@
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Mergen Software Quality Management System allows SQL Injection.This issue affects Quality Management System: through 25032024.
 
 
-- [RobertSecurity/CVE-2024-2865-CRITICAL-](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL-)	<img alt="forks" src="https://img.shields.io/github/forks/RobertSecurity/CVE-2024-2865-CRITICAL-">	<img alt="stars" src="https://img.shields.io/github/stars/RobertSecurity/CVE-2024-2865-CRITICAL-">
+- [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL)	<img alt="forks" src="https://img.shields.io/github/forks/RobertSecurity/CVE-2024-2865-CRITICAL">	<img alt="stars" src="https://img.shields.io/github/stars/RobertSecurity/CVE-2024-2865-CRITICAL">
 
 ---
 ## CVE-2024-2856 (2024-03-24T07:15:00)
