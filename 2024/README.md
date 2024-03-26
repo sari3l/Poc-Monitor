@@ -1030,6 +1030,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-20767 (2024-03-18T12:15:00)
 > ColdFusion versions 2023.6, 2021.12 and earlier are affected by an Improper Access Control vulnerability that could lead to arbitrary file system read. An attacker could leverage this vulnerability to bypass security measures and gain unauthorized access to sensitive files and perform arbitrary file system write. Exploitation of this issue does not require user interaction.
 - [yoryio/CVE-2024-20767](https://github.com/yoryio/CVE-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-20767">
+- [m-cetin/CVE-2024-20767](https://github.com/m-cetin/CVE-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/m-cetin/CVE-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/m-cetin/CVE-2024-20767">
 
 ---
 ## CVE-2024-20698 (2024-01-09T18:15:00)
