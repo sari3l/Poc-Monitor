@@ -141,6 +141,11 @@
 - [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-28397">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-28397">
 
 ---
+## CVE-2024-28288 ()
+> 
+- [adminquit/CVE-2024-28288](https://github.com/adminquit/CVE-2024-28288)	<img alt="forks" src="https://img.shields.io/github/forks/adminquit/CVE-2024-28288">	<img alt="stars" src="https://img.shields.io/github/stars/adminquit/CVE-2024-28288">
+
+---
 ## CVE-2024-28222 (2024-03-07T07:15:00)
 > In Veritas NetBackup before 8.1.2 and NetBackup Appliance before 3.1.2, the BPCD process inadequately validates the file path, allowing an unauthenticated attacker to upload and execute a custom file.
 - [c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit](https://github.com/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit">
