@@ -360,6 +360,11 @@
 - [nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304">
 
 ---
+## CVE-2016-6302 (2016-09-16T05:59:00)
+> The tls_decrypt_ticket function in ssl/t1_lib.c in OpenSSL before 1.1.0 does not consider the HMAC size during validation of the ticket length, which allows remote attackers to cause a denial of service via a ticket that is too short.
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2016-6302](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6302)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6302">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6302">
+
+---
 ## CVE-2016-6210 (2017-02-13T17:59:00)
 > sshd in OpenSSH before 7.3, when SHA256 or SHA512 are used for user password hashing, uses BLOWFISH hashing on a static password when the username does not exist, which allows remote attackers to enumerate users by leveraging the timing difference between responses when a large password is provided.
 - [goomdan/CVE-2016-6210-exploit](https://github.com/goomdan/CVE-2016-6210-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/goomdan/CVE-2016-6210-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/goomdan/CVE-2016-6210-exploit">
