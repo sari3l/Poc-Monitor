@@ -1237,6 +1237,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0519 (2024-01-16T22:15:00)
 > Out of bounds memory access in V8 in Google Chrome prior to 120.0.6099.224 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [JohnHormond/CVE-2024-0519-Chrome-exploit](https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-0519-Chrome-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-0519-Chrome-exploit">
+- [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-0519-Chrome-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-0519-Chrome-exploit">
 
 ---
 ## CVE-2024-0402 (2024-01-26T01:15:00)
