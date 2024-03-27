@@ -2555,6 +2555,7 @@ URL that curl has been told to operate with.
 - [NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit](https://github.com/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit)	<img alt="forks" src="https://img.shields.io/github/forks/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit">	<img alt="stars" src="https://img.shields.io/github/stars/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit">
 - [jhonnybonny/CVE-2023-3824](https://github.com/jhonnybonny/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/jhonnybonny/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/jhonnybonny/CVE-2023-3824">
 - [NewLockBit/CVE-2023-3824-PHP-to-RCE](https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/NewLockBit/CVE-2023-3824-PHP-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/NewLockBit/CVE-2023-3824-PHP-to-RCE">
+- [StayBeautiful-collab/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK](https://github.com/StayBeautiful-collab/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK)	<img alt="forks" src="https://img.shields.io/github/forks/StayBeautiful-collab/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK">	<img alt="stars" src="https://img.shields.io/github/stars/StayBeautiful-collab/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK">
 
 ---
 ## CVE-2023-38146 (2023-09-12T17:15:00)
