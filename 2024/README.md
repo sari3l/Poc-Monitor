@@ -229,8 +229,8 @@
 - [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25809">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25809">
 
 ---
-## CVE-2024-25735 ()
-> 
+## CVE-2024-25735 (2024-03-27T03:15:00)
+> An issue was discovered on WyreStorm Apollo VX20 devices before 1.3.58. Remote attackers can discover cleartext passwords via a SoftAP /device/config GET request.
 - [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-25735-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-25735-PoC">
 
 ---
