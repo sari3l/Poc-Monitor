@@ -1710,13 +1710,13 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4294">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4294">
 
 ---
-## CVE-2023-42931 ()
-> 
+## CVE-2023-42931 (2024-03-28T16:15:00)
+> The issue was addressed with improved checks. This issue is fixed in macOS Ventura 13.6.3, macOS Sonoma 14.2, macOS Monterey 12.7.2. A process may gain admin privileges without proper authentication.
 - [d0rb/CVE-2023-42931](https://github.com/d0rb/CVE-2023-42931)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-42931">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-42931">
 
 ---
-## CVE-2023-42896 ()
-> 
+## CVE-2023-42896 (2024-03-28T16:15:00)
+> An issue was addressed with improved handling of temporary files. This issue is fixed in macOS Monterey 12.7.2, macOS Ventura 13.6.3, iOS 17.2 and iPadOS 17.2, iOS 16.7.3 and iPadOS 16.7.3, macOS Sonoma 14.2. An app may be able to modify protected parts of the file system.
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
