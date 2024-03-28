@@ -5648,6 +5648,7 @@
 > Command Injection in Open PLC Webserver v3 allows remote attackers to execute arbitrary code via the "Hardware Layer Code Box" component on the "/hardware" page of the application.
 - [Hunt3r0x/CVE-2021-31630-HTB](https://github.com/Hunt3r0x/CVE-2021-31630-HTB)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt3r0x/CVE-2021-31630-HTB">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt3r0x/CVE-2021-31630-HTB">
 - [hev0x/CVE-2021-31630-OpenPLC_RCE](https://github.com/hev0x/CVE-2021-31630-OpenPLC_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hev0x/CVE-2021-31630-OpenPLC_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hev0x/CVE-2021-31630-OpenPLC_RCE">
+- [thewhiteh4t/cve-2021-31630](https://github.com/thewhiteh4t/cve-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/thewhiteh4t/cve-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/thewhiteh4t/cve-2021-31630">
 
 ---
 ## CVE-2021-31589 (2022-01-05T12:15:00)
