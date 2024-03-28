@@ -1759,6 +1759,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 ## CVE-2023-42789 (2024-03-12T15:15:00)
 > A out-of-bounds write in Fortinet FortiOS 7.4.0 through 7.4.1, 7.2.0 through 7.2.5, 7.0.0 through 7.0.12, 6.4.0 through 6.4.14, 6.2.0 through 6.2.15, FortiProxy 7.4.0, 7.2.0 through 7.2.6, 7.0.0 through 7.0.12, 2.0.0 through 2.0.13 allows attacker to execute unauthorized code or commands via specially crafted HTTP requests.
 - [CrimBit/CVE-2023-42789-POC](https://github.com/CrimBit/CVE-2023-42789-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CrimBit/CVE-2023-42789-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CrimBit/CVE-2023-42789-POC">
+- [jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789)	<img alt="forks" src="https://img.shields.io/github/forks/jhonnybonny/CVE-2023-42789">	<img alt="stars" src="https://img.shields.io/github/stars/jhonnybonny/CVE-2023-42789">
 
 ---
 ## CVE-2023-4278 (2023-09-11T20:15:00)
