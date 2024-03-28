@@ -143,6 +143,11 @@
 - [uthrasri/CVE-2014-3570_G2.5_openssl_no_patch](https://github.com/uthrasri/CVE-2014-3570_G2.5_openssl_no_patch)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2014-3570_G2.5_openssl_no_patch">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2014-3570_G2.5_openssl_no_patch">
 
 ---
+## CVE-2014-3568 (2014-10-19T01:55:00)
+> OpenSSL before 0.9.8zc, 1.0.0 before 1.0.0o, and 1.0.1 before 1.0.1j does not properly enforce the no-ssl3 build option, which allows remote attackers to bypass intended access restrictions via an SSL 3.0 handshake, related to s23_clnt.c and s23_srvr.c.
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2014-3568](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3568)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3568">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3568">
+
+---
 ## CVE-2014-3566 (2014-10-15T00:55:00)
 > The SSL protocol 3.0, as used in OpenSSL through 1.0.1i and other products, uses nondeterministic CBC padding, which makes it easier for man-in-the-middle attackers to obtain cleartext data via a padding-oracle attack, aka the "POODLE" issue.
 - [uthrasri/openssl_g2.5_CVE-2014-3566](https://github.com/uthrasri/openssl_g2.5_CVE-2014-3566)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/openssl_g2.5_CVE-2014-3566">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/openssl_g2.5_CVE-2014-3566">
