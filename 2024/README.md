@@ -219,6 +219,11 @@
 - [MrCyberSec/CVE-2024-26198-Exchange-RCE](https://github.com/MrCyberSec/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSec/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSec/CVE-2024-26198-Exchange-RCE">
 
 ---
+## CVE-2024-26169 (2024-03-12T17:15:00)
+> Windows Error Reporting Service Elevation of Privilege Vulnerability
+- [ldpreload/CVE-2024-26169](https://github.com/ldpreload/CVE-2024-26169)	<img alt="forks" src="https://img.shields.io/github/forks/ldpreload/CVE-2024-26169">	<img alt="stars" src="https://img.shields.io/github/stars/ldpreload/CVE-2024-26169">
+
+---
 ## CVE-2024-25832 (2024-02-29T01:44:00)
 > F-logic DataCube3 v1.0 is vulnerable to unrestricted file upload, which could allow an authenticated malicious actor to upload a file of dangerous type by manipulating the filename extension.
 - [0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xNslabs/CVE-2024-25832-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xNslabs/CVE-2024-25832-PoC">
