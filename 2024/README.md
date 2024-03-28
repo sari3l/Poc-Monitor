@@ -1010,6 +1010,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MegaCorp001/CVE-2024-21400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MegaCorp001/CVE-2024-21400-POC">
 
 ---
+## CVE-2024-21388 (2024-01-30T18:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability
+- [d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-21388">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-21388">
+
+---
 ## CVE-2024-21378 (2024-02-13T18:15:00)
 > Microsoft Outlook Remote Code Execution Vulnerability
 - [JohnHormond/CVE-2024-21378](https://github.com/JohnHormond/CVE-2024-21378)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-21378">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-21378">
