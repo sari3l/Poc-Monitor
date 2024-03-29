@@ -33,6 +33,7 @@
 - [lypd0/CVE-2024-3094-Vulnerabity-Checker](https://github.com/lypd0/CVE-2024-3094-Vulnerabity-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/lypd0/CVE-2024-3094-Vulnerabity-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/lypd0/CVE-2024-3094-Vulnerabity-Checker">
 - [OpensourceICTSolutions/xz_utils-CVE-2024-3094](https://github.com/OpensourceICTSolutions/xz_utils-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/OpensourceICTSolutions/xz_utils-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/OpensourceICTSolutions/xz_utils-CVE-2024-3094">
 - [bioless/xz_cve-2024-3094_detection](https://github.com/bioless/xz_cve-2024-3094_detection)	<img alt="forks" src="https://img.shields.io/github/forks/bioless/xz_cve-2024-3094_detection">	<img alt="stars" src="https://img.shields.io/github/stars/bioless/xz_cve-2024-3094_detection">
+- [Hacker-Hermanos/CVE-2024-3094_xz_check](https://github.com/Hacker-Hermanos/CVE-2024-3094_xz_check)	<img alt="forks" src="https://img.shields.io/github/forks/Hacker-Hermanos/CVE-2024-3094_xz_check">	<img alt="stars" src="https://img.shields.io/github/stars/Hacker-Hermanos/CVE-2024-3094_xz_check">
 
 ---
 ## CVE-2024-29455 ()
