@@ -31,6 +31,7 @@
 - [byinarie/CVE-2024-3094-info](https://github.com/byinarie/CVE-2024-3094-info)	<img alt="forks" src="https://img.shields.io/github/forks/byinarie/CVE-2024-3094-info">	<img alt="stars" src="https://img.shields.io/github/stars/byinarie/CVE-2024-3094-info">
 - [FabioBaroni/CVE-2024-3094-checker](https://github.com/FabioBaroni/CVE-2024-3094-checker)	<img alt="forks" src="https://img.shields.io/github/forks/FabioBaroni/CVE-2024-3094-checker">	<img alt="stars" src="https://img.shields.io/github/stars/FabioBaroni/CVE-2024-3094-checker">
 - [lypd0/CVE-2024-3094-Vulnerabity-Checker](https://github.com/lypd0/CVE-2024-3094-Vulnerabity-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/lypd0/CVE-2024-3094-Vulnerabity-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/lypd0/CVE-2024-3094-Vulnerabity-Checker">
+- [OpensourceICTSolutions/xz_utils-CVE-2024-3094](https://github.com/OpensourceICTSolutions/xz_utils-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/OpensourceICTSolutions/xz_utils-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/OpensourceICTSolutions/xz_utils-CVE-2024-3094">
 
 ---
 ## CVE-2024-29455 ()
