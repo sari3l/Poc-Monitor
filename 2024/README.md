@@ -30,6 +30,7 @@
 > Malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. The tarballs included extra .m4 files, which contained instructions for building with automake that did not exist in the repository. These instructions, through a series of complex obfuscations, extract a prebuilt object file from one of the test archives, which is then used to modify specific functions in the code while building the liblzma package. This issue results in liblzma being used by additional software, like sshd, to provide functionality that will be interpreted by the modified functions.
 - [byinarie/CVE-2024-3094-info](https://github.com/byinarie/CVE-2024-3094-info)	<img alt="forks" src="https://img.shields.io/github/forks/byinarie/CVE-2024-3094-info">	<img alt="stars" src="https://img.shields.io/github/stars/byinarie/CVE-2024-3094-info">
 - [FabioBaroni/CVE-2024-3094-checker](https://github.com/FabioBaroni/CVE-2024-3094-checker)	<img alt="forks" src="https://img.shields.io/github/forks/FabioBaroni/CVE-2024-3094-checker">	<img alt="stars" src="https://img.shields.io/github/stars/FabioBaroni/CVE-2024-3094-checker">
+- [lypd0/CVE-2024-3094-Vulnerabity-Checker](https://github.com/lypd0/CVE-2024-3094-Vulnerabity-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/lypd0/CVE-2024-3094-Vulnerabity-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/lypd0/CVE-2024-3094-Vulnerabity-Checker">
 
 ---
 ## CVE-2024-29455 ()
