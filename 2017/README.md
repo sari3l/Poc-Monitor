@@ -360,6 +360,7 @@
 - [mritunjay-k/CVE-2017-5638](https://github.com/mritunjay-k/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/mritunjay-k/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/mritunjay-k/CVE-2017-5638">
 - [colorblindpentester/CVE-2017-5638](https://github.com/colorblindpentester/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/colorblindpentester/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/colorblindpentester/CVE-2017-5638">
 - [FredBrave/CVE-2017-5638-ApacheStruts2.3.5](https://github.com/FredBrave/CVE-2017-5638-ApacheStruts2.3.5)	<img alt="forks" src="https://img.shields.io/github/forks/FredBrave/CVE-2017-5638-ApacheStruts2.3.5">	<img alt="stars" src="https://img.shields.io/github/stars/FredBrave/CVE-2017-5638-ApacheStruts2.3.5">
+- [jrrombaldo/CVE-2017-5638](https://github.com/jrrombaldo/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/jrrombaldo/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/jrrombaldo/CVE-2017-5638">
 
 ---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
