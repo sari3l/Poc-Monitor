@@ -1139,6 +1139,7 @@ critical systems.
 ## CVE-2024-1698 (2024-02-27T06:15:00)
 > The NotificationX – Best FOMO, Social Proof, WooCommerce Sales Popup & Notification Bar Plugin With Elementor plugin for WordPress is vulnerable to SQL Injection via the 'type' parameter in all versions up to, and including, 2.8.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-1698-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-1698-PoC">
+- [kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kamranhasan/CVE-2024-1698-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kamranhasan/CVE-2024-1698-Exploit">
 
 ---
 ## CVE-2024-1651 (2024-02-20T00:15:00)
