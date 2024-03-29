@@ -3331,12 +3331,13 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 allows remote attackers to obtain PII, add an administrative account, and change the configuration because of an authentication bypass, as exploited in the wild in July 2023. A patch is available.
 - [vchan-in/CVE-2023-35078-Exploit-POC](https://github.com/vchan-in/CVE-2023-35078-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vchan-in/CVE-2023-35078-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vchan-in/CVE-2023-35078-Exploit-POC">
 - [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/lager1/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/lager1/CVE-2023-35078">
-- [LazyySec/CVE-2023-35078](https://github.com/LazyySec/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-35078">
+- [raytheon0x21/CVE-2023-35078](https://github.com/raytheon0x21/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/raytheon0x21/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/raytheon0x21/CVE-2023-35078">
 - [synfinner/CVE-2023-35078](https://github.com/synfinner/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/synfinner/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/synfinner/CVE-2023-35078">
 - [emanueldosreis/nmap-CVE-2023-35078-Exploit](https://github.com/emanueldosreis/nmap-CVE-2023-35078-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/nmap-CVE-2023-35078-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/nmap-CVE-2023-35078-Exploit">
 - [getdrive/CVE-2023-35078](https://github.com/getdrive/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/CVE-2023-35078">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 - [Blue-number/CVE-2023-35078](https://github.com/Blue-number/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/Blue-number/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/Blue-number/CVE-2023-35078">
+- [0nsec/CVE-2023-35078](https://github.com/0nsec/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/0nsec/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/0nsec/CVE-2023-35078">
 
 ---
 ## CVE-2023-35001 (2023-07-05T19:15:00)
