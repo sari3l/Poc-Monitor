@@ -26,6 +26,11 @@
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
 
 ---
+## CVE-2024-3094 ()
+> 
+- [byinarie/CVE-2024-3094-info](https://github.com/byinarie/CVE-2024-3094-info)	<img alt="forks" src="https://img.shields.io/github/forks/byinarie/CVE-2024-3094-info">	<img alt="stars" src="https://img.shields.io/github/stars/byinarie/CVE-2024-3094-info">
+
+---
 ## CVE-2024-29455 ()
 > 
 - [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29455">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29455">
