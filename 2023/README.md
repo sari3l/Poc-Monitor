@@ -1020,6 +1020,7 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-48022 (2023-11-28T08:15:00)
 > Anyscale Ray 2.6.3 and 2.8.0 allows a remote attacker to execute arbitrary code via the job submission API. NOTE: the vendor's position is that this report is irrelevant because Ray, as stated in its documentation, is not intended for use outside of a strictly controlled network environment
 - [0x656565/CVE-2023-48022](https://github.com/0x656565/CVE-2023-48022)	<img alt="forks" src="https://img.shields.io/github/forks/0x656565/CVE-2023-48022">	<img alt="stars" src="https://img.shields.io/github/stars/0x656565/CVE-2023-48022">
+- [jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022](https://github.com/jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022">
 
 ---
 ## CVE-2023-4800 (2023-10-16T20:15:00)
