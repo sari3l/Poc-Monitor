@@ -44,6 +44,7 @@
 - [alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer](https://github.com/alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer)	<img alt="forks" src="https://img.shields.io/github/forks/alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer">	<img alt="stars" src="https://img.shields.io/github/stars/alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer">
 - [Horizon-Software-Development/CVE-2024-3094](https://github.com/Horizon-Software-Development/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Horizon-Software-Development/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Horizon-Software-Development/CVE-2024-3094">
 - [harekrishnarai/xz-utils-vuln-checker](https://github.com/harekrishnarai/xz-utils-vuln-checker)	<img alt="forks" src="https://img.shields.io/github/forks/harekrishnarai/xz-utils-vuln-checker">	<img alt="stars" src="https://img.shields.io/github/stars/harekrishnarai/xz-utils-vuln-checker">
+- [lockness-Ko/xz-vulnerable-honeypot](https://github.com/lockness-Ko/xz-vulnerable-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/xz-vulnerable-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/xz-vulnerable-honeypot">
 
 ---
 ## CVE-2024-29455 ()
