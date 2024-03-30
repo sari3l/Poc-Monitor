@@ -157,8 +157,8 @@
 - [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-28397">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-28397">
 
 ---
-## CVE-2024-28288 ()
-> 
+## CVE-2024-28288 (2024-03-30T01:15:00)
+> Ruijie RG-NBR700GW 10.3(4b12) router lacks cookie verification when resetting the password, resulting in an administrator password reset vulnerability. An attacker can use this vulnerability to log in to the device and disrupt the business of the enterprise.
 - [adminquit/CVE-2024-28288](https://github.com/adminquit/CVE-2024-28288)	<img alt="forks" src="https://img.shields.io/github/forks/adminquit/CVE-2024-28288">	<img alt="stars" src="https://img.shields.io/github/stars/adminquit/CVE-2024-28288">
 
 ---
