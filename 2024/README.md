@@ -37,6 +37,7 @@
 - [Fractal-Tess/CVE-2024-3094](https://github.com/Fractal-Tess/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Fractal-Tess/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Fractal-Tess/CVE-2024-3094">
 - [wgetnz/CVE-2024-3094-check](https://github.com/wgetnz/CVE-2024-3094-check)	<img alt="forks" src="https://img.shields.io/github/forks/wgetnz/CVE-2024-3094-check">	<img alt="stars" src="https://img.shields.io/github/stars/wgetnz/CVE-2024-3094-check">
 - [Jooose001/CVE-2024-3094-EXPLOIT](https://github.com/Jooose001/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Jooose001/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Jooose001/CVE-2024-3094-EXPLOIT">
+- [emirkmo/xz-backdoor-github](https://github.com/emirkmo/xz-backdoor-github)	<img alt="forks" src="https://img.shields.io/github/forks/emirkmo/xz-backdoor-github">	<img alt="stars" src="https://img.shields.io/github/stars/emirkmo/xz-backdoor-github">
 
 ---
 ## CVE-2024-29455 ()
