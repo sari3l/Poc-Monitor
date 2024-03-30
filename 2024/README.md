@@ -35,6 +35,7 @@
 - [bioless/xz_cve-2024-3094_detection](https://github.com/bioless/xz_cve-2024-3094_detection)	<img alt="forks" src="https://img.shields.io/github/forks/bioless/xz_cve-2024-3094_detection">	<img alt="stars" src="https://img.shields.io/github/stars/bioless/xz_cve-2024-3094_detection">
 - [Hacker-Hermanos/CVE-2024-3094_xz_check](https://github.com/Hacker-Hermanos/CVE-2024-3094_xz_check)	<img alt="forks" src="https://img.shields.io/github/forks/Hacker-Hermanos/CVE-2024-3094_xz_check">	<img alt="stars" src="https://img.shields.io/github/stars/Hacker-Hermanos/CVE-2024-3094_xz_check">
 - [Fractal-Tess/CVE-2024-3094](https://github.com/Fractal-Tess/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Fractal-Tess/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Fractal-Tess/CVE-2024-3094">
+- [wgetnz/CVE-2024-3094-check](https://github.com/wgetnz/CVE-2024-3094-check)	<img alt="forks" src="https://img.shields.io/github/forks/wgetnz/CVE-2024-3094-check">	<img alt="stars" src="https://img.shields.io/github/stars/wgetnz/CVE-2024-3094-check">
 
 ---
 ## CVE-2024-29455 ()
@@ -1075,6 +1076,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [ATonysan/CVE-2024-20931_weblogic](https://github.com/ATonysan/CVE-2024-20931_weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/ATonysan/CVE-2024-20931_weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/ATonysan/CVE-2024-20931_weblogic">
 - [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2024-20931">
 - [labesterOct/CVE-2024-20931](https://github.com/labesterOct/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-20931">
+
+---
+## CVE-2024-2086 ()
+> 
+- [MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE](https://github.com/MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE">
 
 ---
 ## CVE-2024-20767 (2024-03-18T12:15:00)
