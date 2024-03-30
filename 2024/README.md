@@ -38,6 +38,7 @@
 - [wgetnz/CVE-2024-3094-check](https://github.com/wgetnz/CVE-2024-3094-check)	<img alt="forks" src="https://img.shields.io/github/forks/wgetnz/CVE-2024-3094-check">	<img alt="stars" src="https://img.shields.io/github/stars/wgetnz/CVE-2024-3094-check">
 - [Jooose001/CVE-2024-3094-EXPLOIT](https://github.com/Jooose001/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Jooose001/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Jooose001/CVE-2024-3094-EXPLOIT">
 - [emirkmo/xz-backdoor-github](https://github.com/emirkmo/xz-backdoor-github)	<img alt="forks" src="https://img.shields.io/github/forks/emirkmo/xz-backdoor-github">	<img alt="stars" src="https://img.shields.io/github/stars/emirkmo/xz-backdoor-github">
+- [bsekercioglu/cve2024-3094-Checker](https://github.com/bsekercioglu/cve2024-3094-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/bsekercioglu/cve2024-3094-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/bsekercioglu/cve2024-3094-Checker">
 
 ---
 ## CVE-2024-29455 ()
