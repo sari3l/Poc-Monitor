@@ -65,6 +65,11 @@
 - [hahwul/struts2-rce-cve-2017-9805-ruby](https://github.com/hahwul/struts2-rce-cve-2017-9805-ruby)	<img alt="forks" src="https://img.shields.io/github/forks/hahwul/struts2-rce-cve-2017-9805-ruby">	<img alt="stars" src="https://img.shields.io/github/stars/hahwul/struts2-rce-cve-2017-9805-ruby">
 
 ---
+## CVE-2017-9757 (2017-06-19T13:29:00)
+> IPFire 2.19 has a Remote Command Injection vulnerability in ids.cgi via the OINKCODE parameter, which is mishandled by a shell. This can be exploited directly by authenticated users, or through CSRF.
+- [peterleiva/CVE-2017-9757](https://github.com/peterleiva/CVE-2017-9757)	<img alt="forks" src="https://img.shields.io/github/forks/peterleiva/CVE-2017-9757">	<img alt="stars" src="https://img.shields.io/github/stars/peterleiva/CVE-2017-9757">
+
+---
 ## CVE-2017-9443 (2017-06-05T19:29:00)
 > ** DISPUTED ** BigTree CMS through 4.2.18 allows remote authenticated users to conduct SQL injection attacks via a crafted tables object in manifest.json in an uploaded package. This issue exists in core\admin\modules\developer\extensions\install\process.php and core\admin\modules\developer\packages\install\process.php. NOTE: the vendor states "You must implicitly trust any package or extension you install as they all have the ability to write PHP files."
 - [superlink996/cve-2017-9443-payload](https://github.com/superlink996/cve-2017-9443-payload)	<img alt="forks" src="https://img.shields.io/github/forks/superlink996/cve-2017-9443-payload">	<img alt="stars" src="https://img.shields.io/github/stars/superlink996/cve-2017-9443-payload">
