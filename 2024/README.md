@@ -42,6 +42,8 @@
 - [ashwani95/CVE-2024-3094](https://github.com/ashwani95/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/ashwani95/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/ashwani95/CVE-2024-3094">
 - [teyhouse/CVE-2024-3094](https://github.com/teyhouse/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/teyhouse/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/teyhouse/CVE-2024-3094">
 - [alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer](https://github.com/alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer)	<img alt="forks" src="https://img.shields.io/github/forks/alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer">	<img alt="stars" src="https://img.shields.io/github/stars/alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer">
+- [Horizon-Software-Development/CVE-2024-3094](https://github.com/Horizon-Software-Development/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Horizon-Software-Development/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Horizon-Software-Development/CVE-2024-3094">
+- [harekrishnarai/xz-utils-vuln-checker](https://github.com/harekrishnarai/xz-utils-vuln-checker)	<img alt="forks" src="https://img.shields.io/github/forks/harekrishnarai/xz-utils-vuln-checker">	<img alt="stars" src="https://img.shields.io/github/stars/harekrishnarai/xz-utils-vuln-checker">
 
 ---
 ## CVE-2024-29455 ()
