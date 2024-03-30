@@ -45,6 +45,7 @@
 - [Horizon-Software-Development/CVE-2024-3094](https://github.com/Horizon-Software-Development/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Horizon-Software-Development/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Horizon-Software-Development/CVE-2024-3094">
 - [harekrishnarai/xz-utils-vuln-checker](https://github.com/harekrishnarai/xz-utils-vuln-checker)	<img alt="forks" src="https://img.shields.io/github/forks/harekrishnarai/xz-utils-vuln-checker">	<img alt="stars" src="https://img.shields.io/github/stars/harekrishnarai/xz-utils-vuln-checker">
 - [lockness-Ko/xz-vulnerable-honeypot](https://github.com/lockness-Ko/xz-vulnerable-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/xz-vulnerable-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/xz-vulnerable-honeypot">
+- [brinhosa/CVE-2024-3094-One-Liner](https://github.com/brinhosa/CVE-2024-3094-One-Liner)	<img alt="forks" src="https://img.shields.io/github/forks/brinhosa/CVE-2024-3094-One-Liner">	<img alt="stars" src="https://img.shields.io/github/stars/brinhosa/CVE-2024-3094-One-Liner">
 
 ---
 ## CVE-2024-29455 ()
