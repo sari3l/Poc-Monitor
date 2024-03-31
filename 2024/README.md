@@ -46,6 +46,7 @@
 - [harekrishnarai/xz-utils-vuln-checker](https://github.com/harekrishnarai/xz-utils-vuln-checker)	<img alt="forks" src="https://img.shields.io/github/forks/harekrishnarai/xz-utils-vuln-checker">	<img alt="stars" src="https://img.shields.io/github/stars/harekrishnarai/xz-utils-vuln-checker">
 - [lockness-Ko/xz-vulnerable-honeypot](https://github.com/lockness-Ko/xz-vulnerable-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/xz-vulnerable-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/xz-vulnerable-honeypot">
 - [brinhosa/CVE-2024-3094-One-Liner](https://github.com/brinhosa/CVE-2024-3094-One-Liner)	<img alt="forks" src="https://img.shields.io/github/forks/brinhosa/CVE-2024-3094-One-Liner">	<img alt="stars" src="https://img.shields.io/github/stars/brinhosa/CVE-2024-3094-One-Liner">
+- [hazemkya/CVE-2024-3094-checker](https://github.com/hazemkya/CVE-2024-3094-checker)	<img alt="forks" src="https://img.shields.io/github/forks/hazemkya/CVE-2024-3094-checker">	<img alt="stars" src="https://img.shields.io/github/stars/hazemkya/CVE-2024-3094-checker">
 
 ---
 ## CVE-2024-29455 ()
