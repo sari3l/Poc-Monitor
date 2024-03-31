@@ -51,6 +51,7 @@
 - [k4t3pr0/Check-CVE-2024-3094](https://github.com/k4t3pr0/Check-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/k4t3pr0/Check-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/k4t3pr0/Check-CVE-2024-3094">
 - [jfrog/cve-2024-3094-tools](https://github.com/jfrog/cve-2024-3094-tools)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/cve-2024-3094-tools">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/cve-2024-3094-tools">
 - [Yuma-Tsushima07/CVE-2024-3094](https://github.com/Yuma-Tsushima07/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Yuma-Tsushima07/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Yuma-Tsushima07/CVE-2024-3094">
+- [krascovict/OSINT---CVE-2024-3094-](https://github.com/krascovict/OSINT---CVE-2024-3094-)	<img alt="forks" src="https://img.shields.io/github/forks/krascovict/OSINT---CVE-2024-3094-">	<img alt="stars" src="https://img.shields.io/github/stars/krascovict/OSINT---CVE-2024-3094-">
 
 ---
 ## CVE-2024-29455 ()
