@@ -1618,6 +1618,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350)	<img alt="forks" src="https://img.shields.io/github/forks/0nyx-hkr/cve-2023-4350">	<img alt="stars" src="https://img.shields.io/github/stars/0nyx-hkr/cve-2023-4350">
 
 ---
+## CVE-2023-43482 (2024-02-06T17:15:00)
+> A command execution vulnerability exists in the guest resource functionality of Tp-Link ER7206 Omada Gigabit VPN Router 1.3.0 build 20230322 Rel.70591. A specially crafted HTTP request can lead to arbitrary command execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.
+- [Mr-xn/CVE-2023-43482](https://github.com/Mr-xn/CVE-2023-43482)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2023-43482">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2023-43482">
+
+---
 ## CVE-2023-43326 (2023-09-25T22:15:00)
 > mooSocial v3.1.8 was discovered to contain a cross-site scripting (XSS) vulnerability via the change email function.
 - [ahrixia/CVE-2023-43326](https://github.com/ahrixia/CVE-2023-43326)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43326">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43326">
