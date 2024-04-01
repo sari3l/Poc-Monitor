@@ -58,6 +58,8 @@
 - [MrBUGLF/XZ-Utils_CVE-2024-3094](https://github.com/MrBUGLF/XZ-Utils_CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/MrBUGLF/XZ-Utils_CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/MrBUGLF/XZ-Utils_CVE-2024-3094">
 - [galacticquest/cve-2024-3094-detect](https://github.com/galacticquest/cve-2024-3094-detect)	<img alt="forks" src="https://img.shields.io/github/forks/galacticquest/cve-2024-3094-detect">	<img alt="stars" src="https://img.shields.io/github/stars/galacticquest/cve-2024-3094-detect">
 - [zgimszhd61/cve-2024-3094-detect-tool](https://github.com/zgimszhd61/cve-2024-3094-detect-tool)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/cve-2024-3094-detect-tool">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/cve-2024-3094-detect-tool">
+- [mightysai1997/CVE-2024-3094](https://github.com/mightysai1997/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2024-3094">
+- [mightysai1997/CVE-2024-3094-info](https://github.com/mightysai1997/CVE-2024-3094-info)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2024-3094-info">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2024-3094-info">
 
 ---
 ## CVE-2024-29455 ()
@@ -1116,6 +1118,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [m-cetin/CVE-2024-20767](https://github.com/m-cetin/CVE-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/m-cetin/CVE-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/m-cetin/CVE-2024-20767">
 - [Chocapikk/CVE-2024-20767](https://github.com/Chocapikk/CVE-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-20767">
 - [huyqa/cve-2024-20767](https://github.com/huyqa/cve-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/huyqa/cve-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/huyqa/cve-2024-20767">
+- [Praison001/CVE-2024-20767-Adobe-ColdFusion](https://github.com/Praison001/CVE-2024-20767-Adobe-ColdFusion)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-20767-Adobe-ColdFusion">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-20767-Adobe-ColdFusion">
 
 ---
 ## CVE-2024-20698 (2024-01-09T18:15:00)
