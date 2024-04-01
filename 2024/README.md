@@ -61,6 +61,7 @@
 - [mightysai1997/CVE-2024-3094](https://github.com/mightysai1997/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2024-3094">
 - [mightysai1997/CVE-2024-3094-info](https://github.com/mightysai1997/CVE-2024-3094-info)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2024-3094-info">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2024-3094-info">
 - [mesutgungor/xz-backdoor-vulnerability](https://github.com/mesutgungor/xz-backdoor-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/mesutgungor/xz-backdoor-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/mesutgungor/xz-backdoor-vulnerability">
+- [reuteras/CVE-2024-3094](https://github.com/reuteras/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/reuteras/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/reuteras/CVE-2024-3094">
 
 ---
 ## CVE-2024-29455 ()
