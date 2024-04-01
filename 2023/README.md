@@ -4005,6 +4005,7 @@ Fixed in version 6.4.1.
 - [Liuk3r/CVE-2023-32233](https://github.com/Liuk3r/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/Liuk3r/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/Liuk3r/CVE-2023-32233">
 - [oferchen/POC-CVE-2023-32233](https://github.com/oferchen/POC-CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/oferchen/POC-CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/oferchen/POC-CVE-2023-32233">
 - [RogelioPumajulca/TEST-CVE-2023-32233](https://github.com/RogelioPumajulca/TEST-CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/RogelioPumajulca/TEST-CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/RogelioPumajulca/TEST-CVE-2023-32233">
+- [void0red/CVE-2023-32233](https://github.com/void0red/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/void0red/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/void0red/CVE-2023-32233">
 
 ---
 ## CVE-2023-32117 ()
