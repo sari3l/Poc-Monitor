@@ -804,6 +804,16 @@
 - [hacker625/CVE-2024-22752](https://github.com/hacker625/CVE-2024-22752)	<img alt="forks" src="https://img.shields.io/github/forks/hacker625/CVE-2024-22752">	<img alt="stars" src="https://img.shields.io/github/stars/hacker625/CVE-2024-22752">
 
 ---
+## CVE-2024-22642 ()
+> 
+- [zunak/CVE-2024-22642](https://github.com/zunak/CVE-2024-22642)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22642">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22642">
+
+---
+## CVE-2024-22641 ()
+> 
+- [zunak/CVE-2024-22641](https://github.com/zunak/CVE-2024-22641)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22641">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22641">
+
+---
 ## CVE-2024-22640 ()
 > 
 - [zunak/CVE-2024-22640](https://github.com/zunak/CVE-2024-22640)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22640">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22640">
