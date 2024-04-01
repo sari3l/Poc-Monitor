@@ -1109,6 +1109,15 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [labesterOct/CVE-2024-20931](https://github.com/labesterOct/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-20931">
 
 ---
+## CVE-2024-2093 ()
+> 
+- [gustavorobertux/CVE-2024-2093](https://github.com/gustavorobertux/CVE-2024-2093)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/CVE-2024-2093">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/CVE-2024-2093">
+- [Leocodefocus/CVE-2024-20931-Poc](https://github.com/Leocodefocus/CVE-2024-20931-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Leocodefocus/CVE-2024-20931-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Leocodefocus/CVE-2024-20931-Poc">
+- [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2024-20931">
+- [ATonysan/CVE-2024-20931_weblogic](https://github.com/ATonysan/CVE-2024-20931_weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/ATonysan/CVE-2024-20931_weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/ATonysan/CVE-2024-20931_weblogic">
+- [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/GlassyAmadeus/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/GlassyAmadeus/CVE-2024-20931">
+
+---
 ## CVE-2024-2086 (2024-03-30T05:15:00)
 > The Integrate Google Drive – Browse, Upload, Download, Embed, Play, Share, Gallery, and Manage Your Google Drive Files Into Your WordPress Site plugin for WordPress is vulnerable to unauthorized access of data, modification of data, and loss of data due to a missing capability check on multiple AJAX in all versions up to, and including, 1.3.8. This makes it possible for authenticated attackers to modify plugin settings as well as allowing full read/write/delete access to the Google Drive associated with the plugin.
 - [MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE](https://github.com/MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE">
