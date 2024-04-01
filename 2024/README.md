@@ -56,6 +56,7 @@
 - [gayatriracha/CVE-2024-3094-Nmap-NSE-script](https://github.com/gayatriracha/CVE-2024-3094-Nmap-NSE-script)	<img alt="forks" src="https://img.shields.io/github/forks/gayatriracha/CVE-2024-3094-Nmap-NSE-script">	<img alt="stars" src="https://img.shields.io/github/stars/gayatriracha/CVE-2024-3094-Nmap-NSE-script">
 - [Mustafa1986/CVE-2024-3094](https://github.com/Mustafa1986/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Mustafa1986/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Mustafa1986/CVE-2024-3094">
 - [MrBUGLF/XZ-Utils_CVE-2024-3094](https://github.com/MrBUGLF/XZ-Utils_CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/MrBUGLF/XZ-Utils_CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/MrBUGLF/XZ-Utils_CVE-2024-3094">
+- [galacticquest/cve-2024-3094-detect](https://github.com/galacticquest/cve-2024-3094-detect)	<img alt="forks" src="https://img.shields.io/github/forks/galacticquest/cve-2024-3094-detect">	<img alt="stars" src="https://img.shields.io/github/stars/galacticquest/cve-2024-3094-detect">
 
 ---
 ## CVE-2024-29455 ()
