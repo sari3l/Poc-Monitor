@@ -1,6 +1,12 @@
 # 2000 List
 
 ---
+## CVE-2000-0649 (2000-07-13T04:00:00)
+> IIS 4.0 allows remote attackers to obtain the internal IP address of the server via an HTTP 1.0 request for a web page which is protected by basic authentication and has no realm defined.
+- [rafaelh/CVE-2000-0649](https://github.com/rafaelh/CVE-2000-0649)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelh/CVE-2000-0649">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelh/CVE-2000-0649">
+- [stevenvegar/cve-2000-0649](https://github.com/stevenvegar/cve-2000-0649)	<img alt="forks" src="https://img.shields.io/github/forks/stevenvegar/cve-2000-0649">	<img alt="stars" src="https://img.shields.io/github/stars/stevenvegar/cve-2000-0649">
+
+---
 ## CVE-2000-0220 (2000-02-24T05:00:00)
 > ZoneAlarm sends sensitive system and network information in cleartext to the Zone Labs server if a user requests more information about an event.
 - [Live-Hack-CVE/CVE-2000-0220](https://github.com/Live-Hack-CVE/CVE-2000-0220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0220">
