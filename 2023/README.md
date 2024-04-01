@@ -2393,6 +2393,7 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 - [SpamixOfficial/CVE-2023-38831](https://github.com/SpamixOfficial/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/SpamixOfficial/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/SpamixOfficial/CVE-2023-38831">
 - [r1yaz/winDED](https://github.com/r1yaz/winDED)	<img alt="forks" src="https://img.shields.io/github/forks/r1yaz/winDED">	<img alt="stars" src="https://img.shields.io/github/stars/r1yaz/winDED">
 - [solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC](https://github.com/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC)	<img alt="forks" src="https://img.shields.io/github/forks/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC">	<img alt="stars" src="https://img.shields.io/github/stars/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC">
+- [youmulijiang/evil-winrar](https://github.com/youmulijiang/evil-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/youmulijiang/evil-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/youmulijiang/evil-winrar">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
