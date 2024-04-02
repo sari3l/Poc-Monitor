@@ -1756,6 +1756,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [LeHeron/TC_test](https://github.com/LeHeron/TC_test)	<img alt="forks" src="https://img.shields.io/github/forks/LeHeron/TC_test">	<img alt="stars" src="https://img.shields.io/github/stars/LeHeron/TC_test">
 - [WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793](https://github.com/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793">
 - [johnossawy/CVE-2023-42793_POC](https://github.com/johnossawy/CVE-2023-42793_POC)	<img alt="forks" src="https://img.shields.io/github/forks/johnossawy/CVE-2023-42793_POC">	<img alt="stars" src="https://img.shields.io/github/stars/johnossawy/CVE-2023-42793_POC">
+- [St0rm-85/CVE-2023-42793](https://github.com/St0rm-85/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/St0rm-85/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/St0rm-85/CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
