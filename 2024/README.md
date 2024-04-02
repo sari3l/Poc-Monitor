@@ -67,6 +67,7 @@
 - [ackemed/detectar_cve-2024-3094](https://github.com/ackemed/detectar_cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/ackemed/detectar_cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/ackemed/detectar_cve-2024-3094">
 - [0xlane/xz-cve-2024-3094](https://github.com/0xlane/xz-cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/xz-cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/xz-cve-2024-3094">
 - [dah4k/CVE-2024-3094](https://github.com/dah4k/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/dah4k/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/dah4k/CVE-2024-3094">
+- [hackingetico21/revisaxzutils](https://github.com/hackingetico21/revisaxzutils)	<img alt="forks" src="https://img.shields.io/github/forks/hackingetico21/revisaxzutils">	<img alt="stars" src="https://img.shields.io/github/stars/hackingetico21/revisaxzutils">
 
 ---
 ## CVE-2024-29455 ()
