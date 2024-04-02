@@ -69,6 +69,7 @@
 - [dah4k/CVE-2024-3094](https://github.com/dah4k/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/dah4k/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/dah4k/CVE-2024-3094">
 - [hackingetico21/revisaxzutils](https://github.com/hackingetico21/revisaxzutils)	<img alt="forks" src="https://img.shields.io/github/forks/hackingetico21/revisaxzutils">	<img alt="stars" src="https://img.shields.io/github/stars/hackingetico21/revisaxzutils">
 - [devjanger/CVE-2024-3094-XZ-Backdoor-Detector](https://github.com/devjanger/CVE-2024-3094-XZ-Backdoor-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/devjanger/CVE-2024-3094-XZ-Backdoor-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/devjanger/CVE-2024-3094-XZ-Backdoor-Detector">
+- [ScrimForever/CVE-2024-3094](https://github.com/ScrimForever/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/ScrimForever/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/ScrimForever/CVE-2024-3094">
 
 ---
 ## CVE-2024-29455 ()
