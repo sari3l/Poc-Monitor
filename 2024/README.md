@@ -71,6 +71,7 @@
 - [devjanger/CVE-2024-3094-XZ-Backdoor-Detector](https://github.com/devjanger/CVE-2024-3094-XZ-Backdoor-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/devjanger/CVE-2024-3094-XZ-Backdoor-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/devjanger/CVE-2024-3094-XZ-Backdoor-Detector">
 - [ScrimForever/CVE-2024-3094](https://github.com/ScrimForever/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/ScrimForever/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/ScrimForever/CVE-2024-3094">
 - [robertdebock/ansible-role-cve_2024_3094](https://github.com/robertdebock/ansible-role-cve_2024_3094)	<img alt="forks" src="https://img.shields.io/github/forks/robertdebock/ansible-role-cve_2024_3094">	<img alt="stars" src="https://img.shields.io/github/stars/robertdebock/ansible-role-cve_2024_3094">
+- [pentestfunctions/CVE-2024-3094](https://github.com/pentestfunctions/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/CVE-2024-3094">
 
 ---
 ## CVE-2024-29455 ()
