@@ -890,6 +890,8 @@
 - [KtokKawu/l4s-vulnapp](https://github.com/KtokKawu/l4s-vulnapp)	<img alt="forks" src="https://img.shields.io/github/forks/KtokKawu/l4s-vulnapp">	<img alt="stars" src="https://img.shields.io/github/stars/KtokKawu/l4s-vulnapp">
 - [aalex954/Log4PowerShell](https://github.com/aalex954/Log4PowerShell)	<img alt="forks" src="https://img.shields.io/github/forks/aalex954/Log4PowerShell">	<img alt="stars" src="https://img.shields.io/github/stars/aalex954/Log4PowerShell">
 - [ShlomiRex/log4shell_lab](https://github.com/ShlomiRex/log4shell_lab)	<img alt="forks" src="https://img.shields.io/github/forks/ShlomiRex/log4shell_lab">	<img alt="stars" src="https://img.shields.io/github/stars/ShlomiRex/log4shell_lab">
+- [YangHyperData/LOGJ4_PocShell_CVE-2021-44228](https://github.com/YangHyperData/LOGJ4_PocShell_CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/YangHyperData/LOGJ4_PocShell_CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/YangHyperData/LOGJ4_PocShell_CVE-2021-44228">
+- [KirkDJohnson/Wireshark](https://github.com/KirkDJohnson/Wireshark)	<img alt="forks" src="https://img.shields.io/github/forks/KirkDJohnson/Wireshark">	<img alt="stars" src="https://img.shields.io/github/stars/KirkDJohnson/Wireshark">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
