@@ -74,6 +74,7 @@
 - [pentestfunctions/CVE-2024-3094](https://github.com/pentestfunctions/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/CVE-2024-3094">
 - [r0binak/xzk8s](https://github.com/r0binak/xzk8s)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/xzk8s">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/xzk8s">
 - [przemoc/xz-backdoor-links](https://github.com/przemoc/xz-backdoor-links)	<img alt="forks" src="https://img.shields.io/github/forks/przemoc/xz-backdoor-links">	<img alt="stars" src="https://img.shields.io/github/stars/przemoc/xz-backdoor-links">
+- [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/CyberGuard-Foundation/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/CyberGuard-Foundation/CVE-2024-3094">
 
 ---
 ## CVE-2024-29455 ()
