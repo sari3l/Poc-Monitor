@@ -6350,6 +6350,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [TheRedDevil1/Check-Vulns-Script](https://github.com/TheRedDevil1/Check-Vulns-Script)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/Check-Vulns-Script">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/Check-Vulns-Script">
 - [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter)	<img alt="forks" src="https://img.shields.io/github/forks/rxwx/pulse-meter">	<img alt="stars" src="https://img.shields.io/github/stars/rxwx/pulse-meter">
 - [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-27198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-27198-RCE">
+- [actuator/yi](https://github.com/actuator/yi)	<img alt="forks" src="https://img.shields.io/github/forks/actuator/yi">	<img alt="stars" src="https://img.shields.io/github/stars/actuator/yi">
 
 ---
 ## CVE-2023-2023 (2023-05-30T08:15:00)
