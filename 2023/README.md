@@ -3784,6 +3784,11 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [mellow-hype/cve-2023-33476](https://github.com/mellow-hype/cve-2023-33476)	<img alt="forks" src="https://img.shields.io/github/forks/mellow-hype/cve-2023-33476">	<img alt="stars" src="https://img.shields.io/github/stars/mellow-hype/cve-2023-33476">
 
 ---
+## CVE-2023-33466 (2023-06-29T15:15:00)
+> Orthanc before 1.12.0 allows authenticated users with access to the Orthanc API to overwrite arbitrary files on the file system, and in specific deployment scenarios allows the attacker to overwrite the configuration, which can be exploited to trigger Remote Code Execution (RCE).
+- [v3gahax/CVE-2023-33466](https://github.com/v3gahax/CVE-2023-33466)	<img alt="forks" src="https://img.shields.io/github/forks/v3gahax/CVE-2023-33466">	<img alt="stars" src="https://img.shields.io/github/stars/v3gahax/CVE-2023-33466">
+
+---
 ## CVE-2023-33410 (2023-06-05T21:15:00)
 > Minical 1.0.0 and earlier contains a CSV injection vulnerability which allows an attacker to execute remote code. The vulnerability exists due to insufficient input validation on the Customer Name field in the Accounting module that is used to construct a CSV file.
 - [Thirukrishnan/CVE-2023-33410](https://github.com/Thirukrishnan/CVE-2023-33410)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33410">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33410">
