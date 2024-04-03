@@ -1733,7 +1733,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [h4m5t/CVE-2023-42820](https://github.com/h4m5t/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/h4m5t/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/h4m5t/CVE-2023-42820">
 - [C1ph3rX13/CVE-2023-42820](https://github.com/C1ph3rX13/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-42820">
 - [Startr4ck/cve-2023-42820](https://github.com/Startr4ck/cve-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/Startr4ck/cve-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/Startr4ck/cve-2023-42820">
-- [tarimoe/blackjump](https://github.com/tarimoe/blackjump)	<img alt="forks" src="https://img.shields.io/github/forks/tarimoe/blackjump">	<img alt="stars" src="https://img.shields.io/github/stars/tarimoe/blackjump">
+- [tarihub/blackjump](https://github.com/tarihub/blackjump)	<img alt="forks" src="https://img.shields.io/github/forks/tarihub/blackjump">	<img alt="stars" src="https://img.shields.io/github/stars/tarihub/blackjump">
 
 ---
 ## CVE-2023-42819 (2023-09-27T15:19:00)
