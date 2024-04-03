@@ -78,6 +78,7 @@
 - [Security-Phoenix-demo/CVE-2024-3094-fix-exploits](https://github.com/Security-Phoenix-demo/CVE-2024-3094-fix-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/CVE-2024-3094-fix-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/CVE-2024-3094-fix-exploits">
 - [MagpieRYL/CVE-2024-3094-backdoor-env-container](https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container)	<img alt="forks" src="https://img.shields.io/github/forks/MagpieRYL/CVE-2024-3094-backdoor-env-container">	<img alt="stars" src="https://img.shields.io/github/stars/MagpieRYL/CVE-2024-3094-backdoor-env-container">
 - [Bella-Bc/xz-backdoor-CVE-2024-3094-Check](https://github.com/Bella-Bc/xz-backdoor-CVE-2024-3094-Check)	<img alt="forks" src="https://img.shields.io/github/forks/Bella-Bc/xz-backdoor-CVE-2024-3094-Check">	<img alt="stars" src="https://img.shields.io/github/stars/Bella-Bc/xz-backdoor-CVE-2024-3094-Check">
+- [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/TheTorjanCaptain/CVE-2024-3094-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/TheTorjanCaptain/CVE-2024-3094-Checker">
 
 ---
 ## CVE-2024-29455 ()
