@@ -195,6 +195,11 @@
 - [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL)	<img alt="forks" src="https://img.shields.io/github/forks/RobertSecurity/CVE-2024-2865-CRITICAL">	<img alt="stars" src="https://img.shields.io/github/stars/RobertSecurity/CVE-2024-2865-CRITICAL">
 
 ---
+## CVE-2024-28589 ()
+> 
+- [Alaatk/CVE-2024-28589](https://github.com/Alaatk/CVE-2024-28589)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-28589">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-28589">
+
+---
 ## CVE-2024-2856 (2024-03-24T07:15:00)
 > A vulnerability, which was classified as critical, has been found in Tenda AC10 16.03.10.13/16.03.10.20. Affected by this issue is the function fromSetSysTime of the file /goform/SetSysTimeCfg. The manipulation of the argument timeZone leads to stack-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-257780. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [Schnaidr/CVE-2024-2856-Stack-overflow-EXP](https://github.com/Schnaidr/CVE-2024-2856-Stack-overflow-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Schnaidr/CVE-2024-2856-Stack-overflow-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Schnaidr/CVE-2024-2856-Stack-overflow-EXP">
