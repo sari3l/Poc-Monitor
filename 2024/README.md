@@ -250,6 +250,11 @@
 - [Thirukrishnan/CVE-2024-27665](https://github.com/Thirukrishnan/CVE-2024-27665)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2024-27665">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2024-27665">
 
 ---
+## CVE-2024-27518 ()
+> 
+- [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-27518">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-27518">
+
+---
 ## CVE-2024-27198 (2024-03-04T18:15:00)
 > In JetBrains TeamCity before 2023.11.4 authentication bypass allowing to perform admin actions was possible
 - [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-27198">
