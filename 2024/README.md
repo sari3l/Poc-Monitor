@@ -77,6 +77,7 @@
 - [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/CyberGuard-Foundation/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/CyberGuard-Foundation/CVE-2024-3094">
 - [Security-Phoenix-demo/CVE-2024-3094-fix-exploits](https://github.com/Security-Phoenix-demo/CVE-2024-3094-fix-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/CVE-2024-3094-fix-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/CVE-2024-3094-fix-exploits">
 - [MagpieRYL/CVE-2024-3094-backdoor-env-container](https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container)	<img alt="forks" src="https://img.shields.io/github/forks/MagpieRYL/CVE-2024-3094-backdoor-env-container">	<img alt="stars" src="https://img.shields.io/github/stars/MagpieRYL/CVE-2024-3094-backdoor-env-container">
+- [Bella-Bc/xz-backdoor-CVE-2024-3094-Check](https://github.com/Bella-Bc/xz-backdoor-CVE-2024-3094-Check)	<img alt="forks" src="https://img.shields.io/github/forks/Bella-Bc/xz-backdoor-CVE-2024-3094-Check">	<img alt="stars" src="https://img.shields.io/github/stars/Bella-Bc/xz-backdoor-CVE-2024-3094-Check">
 
 ---
 ## CVE-2024-29455 ()
@@ -1334,6 +1335,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 
 
 - [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/Notselwyn/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/Notselwyn/CVE-2024-1086">
+- [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/Alicey0719/docker-POC_CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/Alicey0719/docker-POC_CVE-2024-1086">
 
 ---
 ## CVE-2024-1071 (2024-03-13T16:15:00)
