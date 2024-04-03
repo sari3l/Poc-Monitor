@@ -245,6 +245,11 @@
 - [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697)	<img alt="forks" src="https://img.shields.io/github/forks/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">	<img alt="stars" src="https://img.shields.io/github/stars/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">
 
 ---
+## CVE-2024-27673 ()
+> 
+- [Alaatk/CVE-2024-27673](https://github.com/Alaatk/CVE-2024-27673)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27673">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27673">
+
+---
 ## CVE-2024-27665 ()
 > 
 - [Thirukrishnan/CVE-2024-27665](https://github.com/Thirukrishnan/CVE-2024-27665)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2024-27665">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2024-27665">
