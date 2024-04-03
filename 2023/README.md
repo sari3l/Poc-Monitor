@@ -2176,6 +2176,7 @@ The vulnerability is limited to the ROOT (default) web application.
 ## CVE-2023-40133 (2023-10-27T21:15:00)
 > In multiple locations of DialogFillUi.java, there is a possible way to view another user's images due to a confused deputy. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [uthrasri/frame_CVE-2023-40133_136_137](https://github.com/uthrasri/frame_CVE-2023-40133_136_137)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/frame_CVE-2023-40133_136_137">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/frame_CVE-2023-40133_136_137">
+- [uthrasri/CVE-2023-40133](https://github.com/uthrasri/CVE-2023-40133)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-40133">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-40133">
 
 ---
 ## CVE-2023-40121 (2023-10-27T21:15:00)
