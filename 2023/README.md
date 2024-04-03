@@ -4827,6 +4827,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [sec-fx/CVE-2023-27587-PoC](https://github.com/sec-fx/CVE-2023-27587-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sec-fx/CVE-2023-27587-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sec-fx/CVE-2023-27587-PoC">
 
 ---
+## CVE-2023-27564 (2023-05-10T15:15:00)
+> The n8n package 0.218.0 for Node.js allows Information Disclosure.
+- [david-botelho-mariano/exploit-CVE-2023-27564](https://github.com/david-botelho-mariano/exploit-CVE-2023-27564)	<img alt="forks" src="https://img.shields.io/github/forks/david-botelho-mariano/exploit-CVE-2023-27564">	<img alt="stars" src="https://img.shields.io/github/stars/david-botelho-mariano/exploit-CVE-2023-27564">
+
+---
 ## CVE-2023-27532 (2023-03-10T22:15:00)
 > Vulnerability in Veeam Backup & Replication component allows encrypted credentials stored in the configuration database to be obtained. This may lead to gaining access to the backup infrastructure hosts.
 - [sfewer-r7/CVE-2023-27532](https://github.com/sfewer-r7/CVE-2023-27532)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2023-27532">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2023-27532">

@@ -154,6 +154,11 @@
 - [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272)	<img alt="forks" src="https://img.shields.io/github/forks/awjkjflkwlekfdjs/CVE-2024-29272">	<img alt="stars" src="https://img.shields.io/github/stars/awjkjflkwlekfdjs/CVE-2024-29272">
 
 ---
+## CVE-2024-29269 ()
+> 
+- [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/wutalent/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/wutalent/CVE-2024-29269">
+
+---
 ## CVE-2024-29197 (2024-03-26T15:15:00)
 > Pimcore is an Open Source Data & Experience Management Platform. Any call with the query argument `?pimcore_preview=true` allows to view unpublished sites. In previous versions of Pimcore, session information would propagate to previews, so only a logged in user could open a preview. This no longer applies. Previews are broad open to any user and with just the hint of a restricted link one could gain access to possible confident / unreleased information. This vulnerability is fixed in 11.2.2 and 11.1.6.1.
 
