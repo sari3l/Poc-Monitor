@@ -76,6 +76,7 @@
 - [przemoc/xz-backdoor-links](https://github.com/przemoc/xz-backdoor-links)	<img alt="forks" src="https://img.shields.io/github/forks/przemoc/xz-backdoor-links">	<img alt="stars" src="https://img.shields.io/github/stars/przemoc/xz-backdoor-links">
 - [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/CyberGuard-Foundation/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/CyberGuard-Foundation/CVE-2024-3094">
 - [Security-Phoenix-demo/CVE-2024-3094-fix-exploits](https://github.com/Security-Phoenix-demo/CVE-2024-3094-fix-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/CVE-2024-3094-fix-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/CVE-2024-3094-fix-exploits">
+- [MagpieRYL/CVE-2024-3094-backdoor-env-container](https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container)	<img alt="forks" src="https://img.shields.io/github/forks/MagpieRYL/CVE-2024-3094-backdoor-env-container">	<img alt="stars" src="https://img.shields.io/github/stars/MagpieRYL/CVE-2024-3094-backdoor-env-container">
 
 ---
 ## CVE-2024-29455 ()
