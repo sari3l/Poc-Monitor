@@ -2173,6 +2173,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140">
 
 ---
+## CVE-2023-40133 (2023-10-27T21:15:00)
+> In multiple locations of DialogFillUi.java, there is a possible way to view another user's images due to a confused deputy. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [uthrasri/frame_CVE-2023-40133_136_137](https://github.com/uthrasri/frame_CVE-2023-40133_136_137)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/frame_CVE-2023-40133_136_137">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/frame_CVE-2023-40133_136_137">
+
+---
 ## CVE-2023-40121 (2023-10-27T21:15:00)
 > In appendEscapedSQLString of DatabaseUtils.java, there is a possible SQL injection due to unsafe deserialization. This could lead to local information disclosure with User execution privileges needed. User interaction is not needed for exploitation.
 - [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121">
