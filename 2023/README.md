@@ -1339,6 +1339,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4631">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4631">
 
 ---
+## CVE-2023-46304 ()
+> 
+- [jselliott/CVE-2023-46304](https://github.com/jselliott/CVE-2023-46304)	<img alt="forks" src="https://img.shields.io/github/forks/jselliott/CVE-2023-46304">	<img alt="stars" src="https://img.shields.io/github/stars/jselliott/CVE-2023-46304">
+
+---
 ## CVE-2023-4622 (2023-09-06T14:15:00)
 > A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
 
