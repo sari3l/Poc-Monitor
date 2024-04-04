@@ -1035,6 +1035,11 @@
 - [rhpco/CVE-2018-16509](https://github.com/rhpco/CVE-2018-16509)	<img alt="forks" src="https://img.shields.io/github/forks/rhpco/CVE-2018-16509">	<img alt="stars" src="https://img.shields.io/github/stars/rhpco/CVE-2018-16509">
 
 ---
+## CVE-2018-16431 (2018-09-04T00:29:00)
+> admin/admin/adminsave.html in YFCMF v3.0 allows CSRF to add an administrator account.
+- [RHYru9/CVE-2018-16431](https://github.com/RHYru9/CVE-2018-16431)	<img alt="forks" src="https://img.shields.io/github/forks/RHYru9/CVE-2018-16431">	<img alt="stars" src="https://img.shields.io/github/stars/RHYru9/CVE-2018-16431">
+
+---
 ## CVE-2018-16341 ()
 > 
 - [CN016/Nuxeo-CVE-2018-16341](https://github.com/CN016/Nuxeo-CVE-2018-16341)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Nuxeo-CVE-2018-16341">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Nuxeo-CVE-2018-16341">
