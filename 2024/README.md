@@ -181,6 +181,11 @@
 - [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mansploit/CVE-2024-29194-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mansploit/CVE-2024-29194-POC">
 
 ---
+## CVE-2024-2879 ()
+> 
+- [JohnNetSouldRU/CVE-2024-2879-POC](https://github.com/JohnNetSouldRU/CVE-2024-2879-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-2879-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-2879-POC">
+
+---
 ## CVE-2024-28741 ()
 > 
 - [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-28741-northstar-agent-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-28741-northstar-agent-rce-poc">
