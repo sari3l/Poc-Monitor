@@ -81,6 +81,7 @@
 - [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/TheTorjanCaptain/CVE-2024-3094-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/TheTorjanCaptain/CVE-2024-3094-Checker">
 - [iheb2b/CVE-2024-3094-Checker](https://github.com/iheb2b/CVE-2024-3094-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/iheb2b/CVE-2024-3094-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/iheb2b/CVE-2024-3094-Checker">
 - [felipecosta09/cve-2024-3094](https://github.com/felipecosta09/cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/felipecosta09/cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/felipecosta09/cve-2024-3094">
+- [weltregie/liblzma-scan](https://github.com/weltregie/liblzma-scan)	<img alt="forks" src="https://img.shields.io/github/forks/weltregie/liblzma-scan">	<img alt="stars" src="https://img.shields.io/github/stars/weltregie/liblzma-scan">
 
 ---
 ## CVE-2024-29455 ()
