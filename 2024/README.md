@@ -293,6 +293,11 @@
 - [Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-](https://github.com/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-)	<img alt="forks" src="https://img.shields.io/github/forks/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-">	<img alt="stars" src="https://img.shields.io/github/stars/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-">
 
 ---
+## CVE-2024-26574 ()
+> 
+- [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-26574">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-26574">
+
+---
 ## CVE-2024-26560 ()
 > 
 - [sajaljat/CVE-2024-26560](https://github.com/sajaljat/CVE-2024-26560)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-26560">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-26560">
