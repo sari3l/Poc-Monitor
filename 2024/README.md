@@ -21,6 +21,11 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-31380 ()
+> 
+- [Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopik/CVE-2024-31380-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopik/CVE-2024-31380-POC">
+
+---
 ## CVE-2024-31025 ()
 > 
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
