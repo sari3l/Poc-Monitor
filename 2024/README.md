@@ -672,6 +672,11 @@
 - [david-botelho-mariano/exploit-CVE-2024-25723](https://github.com/david-botelho-mariano/exploit-CVE-2024-25723)	<img alt="forks" src="https://img.shields.io/github/forks/david-botelho-mariano/exploit-CVE-2024-25723">	<img alt="stars" src="https://img.shields.io/github/stars/david-botelho-mariano/exploit-CVE-2024-25723">
 
 ---
+## CVE-2024-25693 ()
+> 
+- [MrCyb3rSec/CVE-2024-25693-exploit](https://github.com/MrCyb3rSec/CVE-2024-25693-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyb3rSec/CVE-2024-25693-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyb3rSec/CVE-2024-25693-exploit">
+
+---
 ## CVE-2024-25600 ()
 > 
 - [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-25600">
