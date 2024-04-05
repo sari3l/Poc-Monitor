@@ -97,6 +97,66 @@
 - [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc">
 
 ---
+## CVE-2024-30716 ()
+> 
+- [yashpatelphd/CVE-2024-30716](https://github.com/yashpatelphd/CVE-2024-30716)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30716">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30716">
+
+---
+## CVE-2024-30715 ()
+> 
+- [yashpatelphd/CVE-2024-30715](https://github.com/yashpatelphd/CVE-2024-30715)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30715">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30715">
+
+---
+## CVE-2024-30713 ()
+> 
+- [yashpatelphd/CVE-2024-30713](https://github.com/yashpatelphd/CVE-2024-30713)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30713">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30713">
+
+---
+## CVE-2024-30712 ()
+> 
+- [yashpatelphd/CVE-2024-30712](https://github.com/yashpatelphd/CVE-2024-30712)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30712">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30712">
+
+---
+## CVE-2024-30711 ()
+> 
+- [yashpatelphd/CVE-2024-30711](https://github.com/yashpatelphd/CVE-2024-30711)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30711">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30711">
+
+---
+## CVE-2024-30710 ()
+> 
+- [yashpatelphd/CVE-2024-30710](https://github.com/yashpatelphd/CVE-2024-30710)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30710">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30710">
+
+---
+## CVE-2024-30708 ()
+> 
+- [yashpatelphd/CVE-2024-30708](https://github.com/yashpatelphd/CVE-2024-30708)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30708">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30708">
+
+---
+## CVE-2024-30707 ()
+> 
+- [yashpatelphd/CVE-2024-30707](https://github.com/yashpatelphd/CVE-2024-30707)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30707">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30707">
+
+---
+## CVE-2024-30706 ()
+> 
+- [yashpatelphd/CVE-2024-30706](https://github.com/yashpatelphd/CVE-2024-30706)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30706">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30706">
+
+---
+## CVE-2024-30704 ()
+> 
+- [yashpatelphd/CVE-2024-30704](https://github.com/yashpatelphd/CVE-2024-30704)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30704">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30704">
+
+---
+## CVE-2024-30703 ()
+> 
+- [yashpatelphd/CVE-2024-30703](https://github.com/yashpatelphd/CVE-2024-30703)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30703">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30703">
+
+---
+## CVE-2024-30702 ()
+> 
+- [yashpatelphd/CVE-2024-30702](https://github.com/yashpatelphd/CVE-2024-30702)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30702">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30702">
+
+---
 ## CVE-2024-30701 ()
 > 
 - [yashpatelphd/CVE-2024-30701](https://github.com/yashpatelphd/CVE-2024-30701)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30701">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30701">
