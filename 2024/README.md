@@ -1733,6 +1733,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0582 (2024-01-16T15:15:00)
 > A memory leak flaw was found in the Linux kernel’s io_uring functionality in how a user registers a buffer ring with IORING_REGISTER_PBUF_RING, mmap() it, and then frees it. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [ysanatomic/io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/ysanatomic/io_uring_LPE-CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/ysanatomic/io_uring_LPE-CVE-2024-0582">
+- [Forsaken0129/CVE-2024-0582](https://github.com/Forsaken0129/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/Forsaken0129/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/Forsaken0129/CVE-2024-0582">
 
 ---
 ## CVE-2024-0519 (2024-01-16T22:15:00)
