@@ -102,6 +102,11 @@
 - [qfmy1024/CVE-2023-6654](https://github.com/qfmy1024/CVE-2023-6654)	<img alt="forks" src="https://img.shields.io/github/forks/qfmy1024/CVE-2023-6654">	<img alt="stars" src="https://img.shields.io/github/stars/qfmy1024/CVE-2023-6654">
 
 ---
+## CVE-2023-6634 (2024-01-11T09:15:00)
+> The LearnPress plugin for WordPress is vulnerable to Command Injection in all versions up to, and including, 4.2.5.7 via the get_content function. This is due to the plugin making use of the call_user_func function with user input. This makes it possible for unauthenticated attackers to execute any public function with one parameter, which could result in remote code execution.
+- [krn966/CVE-2023-6634](https://github.com/krn966/CVE-2023-6634)	<img alt="forks" src="https://img.shields.io/github/forks/krn966/CVE-2023-6634">	<img alt="stars" src="https://img.shields.io/github/stars/krn966/CVE-2023-6634">
+
+---
 ## CVE-2023-6595 (2023-12-14T16:15:00)
 > 
 In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be missing an authentication mechanism. It is possible for an unauthenticated attacker to enumerate ancillary credential information stored within WhatsUp Gold.
