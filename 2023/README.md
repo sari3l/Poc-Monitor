@@ -6711,6 +6711,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [puckiestyle/CVE-2023-0386](https://github.com/puckiestyle/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2023-0386">
 - [Anekant-Singhai/Exploits](https://github.com/Anekant-Singhai/Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Anekant-Singhai/Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Anekant-Singhai/Exploits">
 - [letsr00t/CVE-2023-0386](https://github.com/letsr00t/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2023-0386">
+- [churamanib/CVE-2023-0386](https://github.com/churamanib/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/churamanib/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/churamanib/CVE-2023-0386">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)
