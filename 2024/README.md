@@ -97,6 +97,26 @@
 - [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc">
 
 ---
+## CVE-2024-30688 ()
+> 
+- [yashpatelphd/CVE-2024-30688](https://github.com/yashpatelphd/CVE-2024-30688)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30688">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30688">
+
+---
+## CVE-2024-30687 ()
+> 
+- [yashpatelphd/CVE-2024-30687](https://github.com/yashpatelphd/CVE-2024-30687)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30687">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30687">
+
+---
+## CVE-2024-30686 ()
+> 
+- [yashpatelphd/CVE-2024-30686](https://github.com/yashpatelphd/CVE-2024-30686)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30686">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30686">
+
+---
+## CVE-2024-30684 ()
+> 
+- [yashpatelphd/CVE-2024-30684](https://github.com/yashpatelphd/CVE-2024-30684)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30684">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30684">
+
+---
 ## CVE-2024-30683 ()
 > 
 - [yashpatelphd/CVE-2024-30683](https://github.com/yashpatelphd/CVE-2024-30683)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30683">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30683">
