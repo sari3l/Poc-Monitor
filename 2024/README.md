@@ -90,6 +90,7 @@
 - [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/crfearnworks/ansible-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/crfearnworks/ansible-CVE-2024-3094">
 - [robertdebock/ansible-playbook-cve-2024-3094](https://github.com/robertdebock/ansible-playbook-cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/robertdebock/ansible-playbook-cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/robertdebock/ansible-playbook-cve-2024-3094">
 - [badsectorlabs/ludus_xz_backdoor](https://github.com/badsectorlabs/ludus_xz_backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/badsectorlabs/ludus_xz_backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/badsectorlabs/ludus_xz_backdoor">
+- [Juul/xz-backdoor-scan](https://github.com/Juul/xz-backdoor-scan)	<img alt="forks" src="https://img.shields.io/github/forks/Juul/xz-backdoor-scan">	<img alt="stars" src="https://img.shields.io/github/stars/Juul/xz-backdoor-scan">
 
 ---
 ## CVE-2024-30896 ()
