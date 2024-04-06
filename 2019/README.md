@@ -2729,6 +2729,11 @@
 - [Live-Hack-CVE/CVE-2019-10800](https://github.com/Live-Hack-CVE/CVE-2019-10800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10800">
 
 ---
+## CVE-2019-10760 (2019-10-15T15:15:00)
+> safer-eval before 1.3.2 are vulnerable to Arbitrary Code Execution. A payload using constructor properties can escape the sandbox and execute arbitrary code.
+- [lirantal/safer-eval-cve-CVE-2019-10760](https://github.com/lirantal/safer-eval-cve-CVE-2019-10760)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/safer-eval-cve-CVE-2019-10760">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/safer-eval-cve-CVE-2019-10760">
+
+---
 ## CVE-2019-10746 (2019-08-23T17:15:00)
 > mixin-deep is vulnerable to Prototype Pollution in versions before 1.3.2 and version 2.0.0. The function mixin-deep could be tricked into adding or modifying properties of Object.prototype using a constructor payload.
 - [Live-Hack-CVE/CVE-2019-10746](https://github.com/Live-Hack-CVE/CVE-2019-10746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10746">
