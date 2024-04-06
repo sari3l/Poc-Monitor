@@ -598,6 +598,11 @@
 - [Thirukrishnan/CVE-2024-27665](https://github.com/Thirukrishnan/CVE-2024-27665)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2024-27665">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2024-27665">
 
 ---
+## CVE-2024-27631 ()
+> 
+- [ally-petitt/CVE-2024-27631](https://github.com/ally-petitt/CVE-2024-27631)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-27631">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-27631">
+
+---
 ## CVE-2024-27518 ()
 > 
 - [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-27518">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-27518">
