@@ -398,6 +398,11 @@
 - [yashpatelphd/CVE-2024-30657](https://github.com/yashpatelphd/CVE-2024-30657)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30657">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30657">
 
 ---
+## CVE-2024-30614 ()
+> 
+- [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614)	<img alt="forks" src="https://img.shields.io/github/forks/Lucky-lm/CVE-2024-30614">	<img alt="stars" src="https://img.shields.io/github/stars/Lucky-lm/CVE-2024-30614">
+
+---
 ## CVE-2024-29455 ()
 > 
 - [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29455">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29455">
