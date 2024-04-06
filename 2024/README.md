@@ -1316,6 +1316,11 @@ QuTScloud c5.1.5.2651 and later
 - [Oxdestiny/CVE-2024-21899-RCE-POC](https://github.com/Oxdestiny/CVE-2024-21899-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-21899-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-21899-RCE-POC">
 
 ---
+## CVE-2024-21894 ()
+> 
+- [Ronoffer/CVE-2024-21894-Proof-of-concept](https://github.com/Ronoffer/CVE-2024-21894-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/Ronoffer/CVE-2024-21894-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/Ronoffer/CVE-2024-21894-Proof-of-concept">
+
+---
 ## CVE-2024-21893 (2024-01-31T18:15:00)
 > A server-side request forgery vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) and Ivanti Neurons for ZTA allows an attacker to access certain restricted resources without authentication.
 - [h4x0r-dz/CVE-2024-21893.py](https://github.com/h4x0r-dz/CVE-2024-21893.py)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-21893.py">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-21893.py">
