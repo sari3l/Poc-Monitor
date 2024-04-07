@@ -36,6 +36,7 @@
 ## CVE-2024-3116 ()
 > 
 - [FoxyProxys/CVE-2024-3116](https://github.com/FoxyProxys/CVE-2024-3116)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3116">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3116">
+- [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4)	<img alt="forks" src="https://img.shields.io/github/forks/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4">	<img alt="stars" src="https://img.shields.io/github/stars/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4">
 
 ---
 ## CVE-2024-31025 ()
