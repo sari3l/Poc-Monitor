@@ -24,6 +24,7 @@
 ## CVE-2024-3273 ()
 > 
 - [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-3273">
+- [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-3273">
 
 ---
 ## CVE-2024-31380 ()
