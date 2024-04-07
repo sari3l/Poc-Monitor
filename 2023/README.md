@@ -1549,6 +1549,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [Hebing123/CVE-2023-44796](https://github.com/Hebing123/CVE-2023-44796)	<img alt="forks" src="https://img.shields.io/github/forks/Hebing123/CVE-2023-44796">	<img alt="stars" src="https://img.shields.io/github/stars/Hebing123/CVE-2023-44796">
 
 ---
+## CVE-2023-44792 ()
+> 
+- [ally-petitt/CVE-2023-44792](https://github.com/ally-petitt/CVE-2023-44792)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-44792">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-44792">
+
+---
 ## CVE-2023-4450 (2023-08-21T03:15:00)
 > A vulnerability was found in jeecgboot JimuReport up to 1.6.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Template Handler. The manipulation leads to injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 1.6.1 is able to address this issue. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-237571.
 - [ilikeoyt/CVE-2023-4450-Attack](https://github.com/ilikeoyt/CVE-2023-4450-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/ilikeoyt/CVE-2023-4450-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/ilikeoyt/CVE-2023-4450-Attack">
