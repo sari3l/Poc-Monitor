@@ -98,6 +98,11 @@
 - [Juul/xz-backdoor-scan](https://github.com/Juul/xz-backdoor-scan)	<img alt="forks" src="https://img.shields.io/github/forks/Juul/xz-backdoor-scan">	<img alt="stars" src="https://img.shields.io/github/stars/Juul/xz-backdoor-scan">
 
 ---
+## CVE-2024-30937 ()
+> 
+- [rbndd/CVE-2024-30937](https://github.com/rbndd/CVE-2024-30937)	<img alt="forks" src="https://img.shields.io/github/forks/rbndd/CVE-2024-30937">	<img alt="stars" src="https://img.shields.io/github/stars/rbndd/CVE-2024-30937">
+
+---
 ## CVE-2024-30896 ()
 > 
 - [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896)	<img alt="forks" src="https://img.shields.io/github/forks/XenoM0rph97/CVE-2024-30896">	<img alt="stars" src="https://img.shields.io/github/stars/XenoM0rph97/CVE-2024-30896">
