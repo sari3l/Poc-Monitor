@@ -608,6 +608,11 @@
 - [ally-petitt/CVE-2024-27631](https://github.com/ally-petitt/CVE-2024-27631)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-27631">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-27631">
 
 ---
+## CVE-2024-27630 ()
+> 
+- [ally-petitt/CVE-2024-27630](https://github.com/ally-petitt/CVE-2024-27630)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-27630">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-27630">
+
+---
 ## CVE-2024-27518 ()
 > 
 - [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-27518">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-27518">
