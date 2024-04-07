@@ -3090,6 +3090,7 @@ prior to
 > Windows Hyper-V Elevation of Privilege Vulnerability
 - [pwndorei/CVE-2023-36407](https://github.com/pwndorei/CVE-2023-36407)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2023-36407">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2023-36407">
 - [pwndorei/CVE-2023-36407](https://github.com/pwndorei/CVE-2023-36407)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2023-36407">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2023-36407">
+- [zha0/CVE-2023-36407](https://github.com/zha0/CVE-2023-36407)	<img alt="forks" src="https://img.shields.io/github/forks/zha0/CVE-2023-36407">	<img alt="stars" src="https://img.shields.io/github/stars/zha0/CVE-2023-36407">
 
 ---
 ## CVE-2023-3640 (2023-07-24T16:15:00)
