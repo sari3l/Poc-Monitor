@@ -1867,6 +1867,7 @@
 - [Rubikcuv5/cve-2021-42013](https://github.com/Rubikcuv5/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Rubikcuv5/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Rubikcuv5/cve-2021-42013">
 - [vudala/CVE-2021-42013](https://github.com/vudala/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/vudala/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/vudala/CVE-2021-42013">
 - [imhunterand/CVE-2021-42013](https://github.com/imhunterand/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2021-42013">
+- [BassoNicolas/CVE-2021-42013](https://github.com/BassoNicolas/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/BassoNicolas/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/BassoNicolas/CVE-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
