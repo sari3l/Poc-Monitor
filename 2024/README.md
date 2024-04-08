@@ -1559,6 +1559,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21306 (2024-01-09T18:15:00)
 > Microsoft Bluetooth Driver Spoofing Vulnerability
 - [TheRedDevil1/CVE-2024-21306](https://github.com/TheRedDevil1/CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21306">
+- [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/d4rks1d33/C-PoC-for-CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/d4rks1d33/C-PoC-for-CVE-2024-21306">
 
 ---
 ## CVE-2024-20931 (2024-02-17T02:15:00)
