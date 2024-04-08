@@ -1462,6 +1462,8 @@ QuTScloud c5.1.5.2651 and later
 - [S0SkiPlosK1/CVE-2024-21762-POC](https://github.com/S0SkiPlosK1/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/S0SkiPlosK1/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/S0SkiPlosK1/CVE-2024-21762-POC">
 - [MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK](https://github.com/MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK">
 - [lore-is-already-taken/multicheck_CVE-2024-21762](https://github.com/lore-is-already-taken/multicheck_CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/lore-is-already-taken/multicheck_CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/lore-is-already-taken/multicheck_CVE-2024-21762">
+- [AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK](https://github.com/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK">
+- [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/multicheck_CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/multicheck_CVE-2024-21762">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
@@ -1536,6 +1538,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21426 (2024-03-12T17:15:00)
 > Microsoft SharePoint Server Remote Code Execution Vulnerability
 - [CVE-searcher/CVE-2024-21426-SharePoint-RCE](https://github.com/CVE-searcher/CVE-2024-21426-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CVE-searcher/CVE-2024-21426-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CVE-searcher/CVE-2024-21426-SharePoint-RCE">
+- [JohnnyBradvo/CVE-2024-21426-SharePoint-RCE](https://github.com/JohnnyBradvo/CVE-2024-21426-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-21426-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-21426-SharePoint-RCE">
 
 ---
 ## CVE-2024-21413 (2024-02-13T18:16:00)
