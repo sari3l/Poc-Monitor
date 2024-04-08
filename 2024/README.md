@@ -16,9 +16,19 @@
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
 
 ---
+## CVE-2024-4444 ()
+> 
+- [JohnnyBradvo/CVE-2024-4444](https://github.com/JohnnyBradvo/CVE-2024-4444)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-4444">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-4444">
+
+---
 ## CVE-2024-33333 ()
 > 
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
+
+---
+## CVE-2024-3333 ()
+> 
+- [JohnnyBradvo/CVE-2024-3333](https://github.com/JohnnyBradvo/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-3333">
 
 ---
 ## CVE-2024-3273 ()
@@ -1348,6 +1358,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 
 
 - [xiaoqiao147/CVE-2024-22222](https://github.com/xiaoqiao147/CVE-2024-22222)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-22222">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-22222">
+
+---
+## CVE-2024-2222 ()
+> 
+- [JohnnyBradvo/CVE-2024-2222](https://github.com/JohnnyBradvo/CVE-2024-2222)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-2222">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-2222">
 
 ---
 ## CVE-2024-22145 ()
