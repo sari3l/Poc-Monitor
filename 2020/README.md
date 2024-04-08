@@ -4197,6 +4197,11 @@
 - [Live-Hack-CVE/CVE-2020-12672](https://github.com/Live-Hack-CVE/CVE-2020-12672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12672">
 
 ---
+## CVE-2020-12641 (2020-05-04T15:15:00)
+> rcube_image.php in Roundcube Webmail before 1.4.4 allows attackers to execute arbitrary code via shell metacharacters in a configuration setting for im_convert_path or im_identify_path.
+- [mbadanoiu/CVE-2020-12641](https://github.com/mbadanoiu/CVE-2020-12641)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-12641">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-12641">
+
+---
 ## CVE-2020-12527 (2021-03-02T22:15:00)
 > An issue was discovered in MB connect line mymbCONNECT24, mbCONNECT24 and Helmholz myREX24 and myREX24.virtual in all versions through v2.11.2. Improper access validation allows a logged in user to shutdown or reboot devices in his account without having corresponding permissions.
 - [Live-Hack-CVE/CVE-2020-12527](https://github.com/Live-Hack-CVE/CVE-2020-12527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12527">
