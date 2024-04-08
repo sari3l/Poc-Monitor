@@ -1459,6 +1459,12 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [metaredteam/rtx-cve-2023-45779](https://github.com/metaredteam/rtx-cve-2023-45779)	<img alt="forks" src="https://img.shields.io/github/forks/metaredteam/rtx-cve-2023-45779">	<img alt="stars" src="https://img.shields.io/github/stars/metaredteam/rtx-cve-2023-45779">
 
 ---
+## CVE-2023-45777 (2023-12-04T23:15:00)
+> In checkKeyIntentParceledCorrectly of AccountManagerService.java, there is a possible way to launch arbitrary activities using system privileges due to Parcel Mismatch. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777">
+- [michalbednarski/TheLastBundleMismatch](https://github.com/michalbednarski/TheLastBundleMismatch)	<img alt="forks" src="https://img.shields.io/github/forks/michalbednarski/TheLastBundleMismatch">	<img alt="stars" src="https://img.shields.io/github/stars/michalbednarski/TheLastBundleMismatch">
+
+---
 ## CVE-2023-45657 ()
 > 
 - [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45657">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45657">
