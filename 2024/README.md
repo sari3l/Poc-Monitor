@@ -569,6 +569,7 @@
 ## CVE-2024-2879 ()
 > 
 - [JohnNetSouldRU/CVE-2024-2879-POC](https://github.com/JohnNetSouldRU/CVE-2024-2879-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-2879-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-2879-POC">
+- [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879)	<img alt="forks" src="https://img.shields.io/github/forks/herculeszxc/CVE-2024-2879">	<img alt="stars" src="https://img.shields.io/github/stars/herculeszxc/CVE-2024-2879">
 
 ---
 ## CVE-2024-28741 ()
