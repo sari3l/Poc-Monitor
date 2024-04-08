@@ -1411,6 +1411,7 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-21894 ()
 > 
 - [Ronoffer/CVE-2024-21894-Proof-of-concept](https://github.com/Ronoffer/CVE-2024-21894-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/Ronoffer/CVE-2024-21894-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/Ronoffer/CVE-2024-21894-Proof-of-concept">
+- [RansomGroupCVE/CVE-2024-21894-POC](https://github.com/RansomGroupCVE/CVE-2024-21894-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-21894-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-21894-POC">
 
 ---
 ## CVE-2024-21893 (2024-01-31T18:15:00)
