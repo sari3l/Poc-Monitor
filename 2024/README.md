@@ -38,6 +38,16 @@
 - [Chokopikkk/CVE-2024-31345_exploit](https://github.com/Chokopikkk/CVE-2024-31345_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopikkk/CVE-2024-31345_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopikkk/CVE-2024-31345_exploit">
 
 ---
+## CVE-2024-31286 ()
+> 
+- [Auggustino/CVE-2024-31286-Wordpress-Exploit](https://github.com/Auggustino/CVE-2024-31286-Wordpress-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Auggustino/CVE-2024-31286-Wordpress-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Auggustino/CVE-2024-31286-Wordpress-Exploit">
+
+---
+## CVE-2024-31233 ()
+> 
+- [JohnNetSouldRU/CVE-2024-31233-POC](https://github.com/JohnNetSouldRU/CVE-2024-31233-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-31233-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-31233-POC">
+
+---
 ## CVE-2024-31218 ()
 > 
 - [Chokopikkk/CVE-2024-31218_exploit](https://github.com/Chokopikkk/CVE-2024-31218_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopikkk/CVE-2024-31218_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopikkk/CVE-2024-31218_exploit">
