@@ -1542,6 +1542,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [sk2wie/CVE-2024-21410-CITRIX](https://github.com/sk2wie/CVE-2024-21410-CITRIX)	<img alt="forks" src="https://img.shields.io/github/forks/sk2wie/CVE-2024-21410-CITRIX">	<img alt="stars" src="https://img.shields.io/github/stars/sk2wie/CVE-2024-21410-CITRIX">
 - [FreakyMondy/CVE-2024-21410](https://github.com/FreakyMondy/CVE-2024-21410)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyMondy/CVE-2024-21410">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyMondy/CVE-2024-21410">
 - [FreakyM0ndy/CVE-2024-21410-poc](https://github.com/FreakyM0ndy/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyM0ndy/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyM0ndy/CVE-2024-21410-poc">
+- [JohnBordon/CVE-2024-21410-poc](https://github.com/JohnBordon/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/JohnBordon/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/JohnBordon/CVE-2024-21410-poc">
 
 ---
 ## CVE-2024-21407 (2024-03-12T17:15:00)
