@@ -747,6 +747,7 @@
 > Microsoft Exchange Server Remote Code Execution Vulnerability
 - [MrCyberSec/CVE-2024-26198-Exchange-RCE](https://github.com/MrCyberSec/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSec/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSec/CVE-2024-26198-Exchange-RCE">
 - [babywalkerenc/CVE-2024-26198-POC](https://github.com/babywalkerenc/CVE-2024-26198-POC)	<img alt="forks" src="https://img.shields.io/github/forks/babywalkerenc/CVE-2024-26198-POC">	<img alt="stars" src="https://img.shields.io/github/stars/babywalkerenc/CVE-2024-26198-POC">
+- [MrSecby/CVE-2024-26198-Exchange-RCE](https://github.com/MrSecby/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MrSecby/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MrSecby/CVE-2024-26198-Exchange-RCE">
 
 ---
 ## CVE-2024-26169 (2024-03-12T17:15:00)
