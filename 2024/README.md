@@ -48,6 +48,7 @@
 - [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-3273">
 - [yarienkiva/honeypot-dlink-CVE-2024-3273](https://github.com/yarienkiva/honeypot-dlink-CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/yarienkiva/honeypot-dlink-CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/yarienkiva/honeypot-dlink-CVE-2024-3273">
 - [nickswink/D-Link-NAS-Devices-Unauthenticated-RCE](https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE">
+- [K3ysTr0K3R/CVE-2024-3273-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-3273-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-3273-EXPLOIT">
 
 ---
 ## CVE-2024-31380 ()
