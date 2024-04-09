@@ -550,6 +550,11 @@
 - [ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375)	<img alt="forks" src="https://img.shields.io/github/forks/ismailcemunver/CVE-2024-29375">	<img alt="stars" src="https://img.shields.io/github/stars/ismailcemunver/CVE-2024-29375">
 
 ---
+## CVE-2024-29296 ()
+> 
+- [ThaySolis/CVE-2024-29296](https://github.com/ThaySolis/CVE-2024-29296)	<img alt="forks" src="https://img.shields.io/github/forks/ThaySolis/CVE-2024-29296">	<img alt="stars" src="https://img.shields.io/github/stars/ThaySolis/CVE-2024-29296">
+
+---
 ## CVE-2024-29272 (2024-03-22T04:15:00)
 > Arbitrary File Upload vulnerability in VvvebJs before version 1.7.5, allows unauthenticated remote attackers to execute arbitrary code and obtain sensitive information via the sanitizeFileName parameter in save.php.
 - [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272)	<img alt="forks" src="https://img.shields.io/github/forks/awjkjflkwlekfdjs/CVE-2024-29272">	<img alt="stars" src="https://img.shields.io/github/stars/awjkjflkwlekfdjs/CVE-2024-29272">
