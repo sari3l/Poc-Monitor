@@ -657,3 +657,8 @@
 > The ASN.1 signature-verification implementation in the rsa_item_verify function in crypto/rsa/rsa_ameth.c in OpenSSL 1.0.2 before 1.0.2a allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via crafted RSA PSS parameters to an endpoint that uses the certificate-verification feature.
 - [Live-Hack-CVE/CVE-2015-0208](https://github.com/Live-Hack-CVE/CVE-2015-0208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-0208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-0208">
 - [Live-Hack-CVE/CVE-2015-0208](https://github.com/Live-Hack-CVE/CVE-2015-0208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-0208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-0208">
+
+---
+## CVE-2015-0205 (2015-01-09T02:59:00)
+> The ssl3_get_cert_verify function in s3_srvr.c in OpenSSL 1.0.0 before 1.0.0p and 1.0.1 before 1.0.1k accepts client authentication with a Diffie-Hellman (DH) certificate without requiring a CertificateVerify message, which allows remote attackers to obtain access without knowledge of a private key via crafted TLS Handshake Protocol traffic to a server that recognizes a Certification Authority with DH support.
+- [saurabh2088/OpenSSL_1_0_1g_CVE-2015-0205](https://github.com/saurabh2088/OpenSSL_1_0_1g_CVE-2015-0205)	<img alt="forks" src="https://img.shields.io/github/forks/saurabh2088/OpenSSL_1_0_1g_CVE-2015-0205">	<img alt="stars" src="https://img.shields.io/github/stars/saurabh2088/OpenSSL_1_0_1g_CVE-2015-0205">
