@@ -919,7 +919,7 @@
 ---
 ## CVE-2024-24576 ()
 > 
-- [frostb1ten/CVE-2024-24576](https://github.com/frostb1ten/CVE-2024-24576)	<img alt="forks" src="https://img.shields.io/github/forks/frostb1ten/CVE-2024-24576">	<img alt="stars" src="https://img.shields.io/github/stars/frostb1ten/CVE-2024-24576">
+- [frostb1ten/CVE-2024-24576-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/frostb1ten/CVE-2024-24576-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/frostb1ten/CVE-2024-24576-PoC">
 
 ---
 ## CVE-2024-24520 (2024-03-21T02:52:00)
