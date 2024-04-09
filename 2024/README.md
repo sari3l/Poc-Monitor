@@ -1653,6 +1653,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Praison001/CVE-2024-20767-Adobe-ColdFusion](https://github.com/Praison001/CVE-2024-20767-Adobe-ColdFusion)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-20767-Adobe-ColdFusion">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-20767-Adobe-ColdFusion">
 
 ---
+## CVE-2024-20720 (2024-02-15T14:15:00)
+> Adobe Commerce versions 2.4.6-p3, 2.4.5-p5, 2.4.4-p6 and earlier are affected by an Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability that could lead in arbitrary code execution by an attacker. Exploitation of this issue does not require user interaction.
+- [xxDlib/CVE-2024-20720-PoC](https://github.com/xxDlib/CVE-2024-20720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xxDlib/CVE-2024-20720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xxDlib/CVE-2024-20720-PoC">
+
+---
 ## CVE-2024-20698 (2024-01-09T18:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698)	<img alt="forks" src="https://img.shields.io/github/forks/RomanRybachek/CVE-2024-20698">	<img alt="stars" src="https://img.shields.io/github/stars/RomanRybachek/CVE-2024-20698">
