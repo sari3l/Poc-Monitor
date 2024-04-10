@@ -1867,6 +1867,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [kitodd/CVE-2024-0713](https://github.com/kitodd/CVE-2024-0713)	<img alt="forks" src="https://img.shields.io/github/forks/kitodd/CVE-2024-0713">	<img alt="stars" src="https://img.shields.io/github/stars/kitodd/CVE-2024-0713">
 
 ---
+## CVE-2024-0710 ()
+> 
+- [karlemilnikka/CVE-2024-0710](https://github.com/karlemilnikka/CVE-2024-0710)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-0710">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-0710">
+
+---
 ## CVE-2024-0679 (2024-01-20T06:15:00)
 > The ColorMag theme for WordPress is vulnerable to unauthorized access due to a missing capability check on the plugin_action_callback() function in all versions up to, and including, 3.1.2. This makes it possible for authenticated attackers, with subscriber-level access and above, to install and activate arbitrary plugins.
 - [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-0679">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-0679">
