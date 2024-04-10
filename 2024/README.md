@@ -922,6 +922,7 @@
 ## CVE-2024-24576 ()
 > 
 - [frostb1ten/CVE-2024-24576-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/frostb1ten/CVE-2024-24576-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/frostb1ten/CVE-2024-24576-PoC">
+- [aydinnyunus/CVE-2024-24576-Exploit](https://github.com/aydinnyunus/CVE-2024-24576-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/aydinnyunus/CVE-2024-24576-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/aydinnyunus/CVE-2024-24576-Exploit">
 
 ---
 ## CVE-2024-24567 (2024-01-30T21:15:00)
