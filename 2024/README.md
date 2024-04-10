@@ -923,6 +923,11 @@
 - [frostb1ten/CVE-2024-24576-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/frostb1ten/CVE-2024-24576-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/frostb1ten/CVE-2024-24576-PoC">
 
 ---
+## CVE-2024-24567 (2024-01-30T21:15:00)
+> Vyper is a pythonic Smart Contract Language for the ethereum virtual machine. Vyper compiler allows passing a value in builtin raw_call even if the call is a delegatecall or a staticcall. But in the context of delegatecall and staticcall the handling of value is not possible due to the semantics of the respective opcodes, and vyper will silently ignore the value= argument. If the semantics of the EVM are unknown to the developer, he could suspect that by specifying the `value` kwarg, exactly the given amount will be sent along to the target. This vulnerability affects 0.3.10 and earlier versions.
+- [brains93/CVE-2024-24567-PoC-Python](https://github.com/brains93/CVE-2024-24567-PoC-Python)	<img alt="forks" src="https://img.shields.io/github/forks/brains93/CVE-2024-24567-PoC-Python">	<img alt="stars" src="https://img.shields.io/github/stars/brains93/CVE-2024-24567-PoC-Python">
+
+---
 ## CVE-2024-24520 (2024-03-21T02:52:00)
 > An issue in Lepton CMS v.7.0.0 allows a local attacker to execute arbitrary code via the upgrade.php file in the languages place.
 - [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520)	<img alt="forks" src="https://img.shields.io/github/forks/xF-9979/CVE-2024-24520">	<img alt="stars" src="https://img.shields.io/github/stars/xF-9979/CVE-2024-24520">
