@@ -57,6 +57,11 @@
 - [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-31819">
 
 ---
+## CVE-2024-31777 ()
+> 
+- [FreySolarEye/CVE-2024-31777](https://github.com/FreySolarEye/CVE-2024-31777)	<img alt="forks" src="https://img.shields.io/github/forks/FreySolarEye/CVE-2024-31777">	<img alt="stars" src="https://img.shields.io/github/stars/FreySolarEye/CVE-2024-31777">
+
+---
 ## CVE-2024-31380 ()
 > 
 - [Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopik/CVE-2024-31380-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopik/CVE-2024-31380-POC">
@@ -1158,6 +1163,35 @@
 - [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [TheRedDevil1/CVE-2024-23897](https://github.com/TheRedDevil1/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-23897">
+
+---
+## CVE-2024-2389 ()
+> 
+- [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-2389">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-2389">
+- [wjlin0/CVE-2024-23897](https://github.com/wjlin0/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wjlin0/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wjlin0/CVE-2024-23897">
+- [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-23897">
+- [ThatNotEasy/CVE-2024-23897](https://github.com/ThatNotEasy/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-23897">
+- [xaitax/CVE-2024-23897](https://github.com/xaitax/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/CVE-2024-23897">
+- [Abo5/CVE-2024-23897](https://github.com/Abo5/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-23897">
+- [Nebian/CVE-2024-23897](https://github.com/Nebian/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Nebian/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Nebian/CVE-2024-23897">
+- [pulentoski/CVE-2024-23897-Arbitrary-file-read](https://github.com/pulentoski/CVE-2024-23897-Arbitrary-file-read)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2024-23897-Arbitrary-file-read">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2024-23897-Arbitrary-file-read">
+- [godylockz/CVE-2024-23897](https://github.com/godylockz/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2024-23897">
+- [ifconfig-me/CVE-2024-23897](https://github.com/ifconfig-me/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2024-23897">
+- [B4CK4TT4CK/CVE-2024-23897](https://github.com/B4CK4TT4CK/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/B4CK4TT4CK/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/B4CK4TT4CK/CVE-2024-23897">
+- [Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability](https://github.com/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">
+- [kaanatmacaa/CVE-2024-23897](https://github.com/kaanatmacaa/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/kaanatmacaa/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/kaanatmacaa/CVE-2024-23897">
+- [AbraXa5/Jenkins-CVE-2024-23897](https://github.com/AbraXa5/Jenkins-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/AbraXa5/Jenkins-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/AbraXa5/Jenkins-CVE-2024-23897">
+- [WLXQqwer/Jenkins-CVE-2024-23897-](https://github.com/WLXQqwer/Jenkins-CVE-2024-23897-)	<img alt="forks" src="https://img.shields.io/github/forks/WLXQqwer/Jenkins-CVE-2024-23897-">	<img alt="stars" src="https://img.shields.io/github/stars/WLXQqwer/Jenkins-CVE-2024-23897-">
+- [brijne/CVE-2024-23897-RCE](https://github.com/brijne/CVE-2024-23897-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/brijne/CVE-2024-23897-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/brijne/CVE-2024-23897-RCE">
+- [binganao/CVE-2024-23897](https://github.com/binganao/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/binganao/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/binganao/CVE-2024-23897">
+- [viszsec/CVE-2024-23897](https://github.com/viszsec/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/viszsec/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/viszsec/CVE-2024-23897">
+- [jopraveen/CVE-2024-23897](https://github.com/jopraveen/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/jopraveen/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/jopraveen/CVE-2024-23897">
+- [raheel0x01/CVE-2024-23897](https://github.com/raheel0x01/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2024-23897">
+- [h4x0r-dz/CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-23897">
+- [Vozec/CVE-2024-23897](https://github.com/Vozec/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2024-23897">
+- [10T4/PoC-Fix-jenkins-rce_CVE-2024-23897](https://github.com/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897">
+- [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2024-23897">
+- [vmtyan/poc-cve-2024-23897](https://github.com/vmtyan/poc-cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/vmtyan/poc-cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/vmtyan/poc-cve-2024-23897">
 
 ---
 ## CVE-2024-23780 ()
