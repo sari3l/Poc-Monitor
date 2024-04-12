@@ -67,6 +67,11 @@
 - [Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopik/CVE-2024-31380-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopik/CVE-2024-31380-POC">
 
 ---
+## CVE-2024-3136 ()
+> 
+- [drdry2/CVE-2024-3136-Wordpress-RCE](https://github.com/drdry2/CVE-2024-3136-Wordpress-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/drdry2/CVE-2024-3136-Wordpress-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/drdry2/CVE-2024-3136-Wordpress-RCE">
+
+---
 ## CVE-2024-31345 ()
 > 
 - [Chokopikkk/CVE-2024-31345_exploit](https://github.com/Chokopikkk/CVE-2024-31345_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopikkk/CVE-2024-31345_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopikkk/CVE-2024-31345_exploit">
@@ -479,6 +484,11 @@
 ## CVE-2024-3000 (2024-03-27T22:15:00)
 > A vulnerability classified as critical was found in code-projects Online Book System 1.0. This vulnerability affects unknown code of the file /index.php. The manipulation of the argument username/password/login_username/login_password leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-258202 is the identifier assigned to this vulnerability.
 - [FoxyProxys/CVE-2024-3000](https://github.com/FoxyProxys/CVE-2024-3000)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3000">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3000">
+
+---
+## CVE-2024-29988 ()
+> 
+- [mrobsidian1/CVE-2024-29988-MS-Exchange-RCE](https://github.com/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE">
 
 ---
 ## CVE-2024-29455 ()
