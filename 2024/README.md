@@ -59,7 +59,7 @@
 ---
 ## CVE-2024-31777 ()
 > 
-- [FreySolarEye/CVE-2024-31777](https://github.com/FreySolarEye/CVE-2024-31777)	<img alt="forks" src="https://img.shields.io/github/forks/FreySolarEye/CVE-2024-31777">	<img alt="stars" src="https://img.shields.io/github/stars/FreySolarEye/CVE-2024-31777">
+- [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777)	<img alt="forks" src="https://img.shields.io/github/forks/FreySolarEye/Exploit-CVE-2024-31777">	<img alt="stars" src="https://img.shields.io/github/stars/FreySolarEye/Exploit-CVE-2024-31777">
 
 ---
 ## CVE-2024-31380 ()
