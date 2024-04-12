@@ -966,6 +966,7 @@
 - [aydinnyunus/CVE-2024-24576-Exploit](https://github.com/aydinnyunus/CVE-2024-24576-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/aydinnyunus/CVE-2024-24576-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/aydinnyunus/CVE-2024-24576-Exploit">
 - [brains93/CVE-2024-24576-PoC-Python](https://github.com/brains93/CVE-2024-24576-PoC-Python)	<img alt="forks" src="https://img.shields.io/github/forks/brains93/CVE-2024-24576-PoC-Python">	<img alt="stars" src="https://img.shields.io/github/stars/brains93/CVE-2024-24576-PoC-Python">
 - [foxoman/CVE-2024-24576-PoC---Nim](https://github.com/foxoman/CVE-2024-24576-PoC---Nim)	<img alt="forks" src="https://img.shields.io/github/forks/foxoman/CVE-2024-24576-PoC---Nim">	<img alt="stars" src="https://img.shields.io/github/stars/foxoman/CVE-2024-24576-PoC---Nim">
+- [corysabol/batbadbut-demo](https://github.com/corysabol/batbadbut-demo)	<img alt="forks" src="https://img.shields.io/github/forks/corysabol/batbadbut-demo">	<img alt="stars" src="https://img.shields.io/github/stars/corysabol/batbadbut-demo">
 
 ---
 ## CVE-2024-24567 (2024-01-30T21:15:00)
