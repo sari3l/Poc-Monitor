@@ -575,6 +575,11 @@
 - [ally-petitt/CVE-2024-29399](https://github.com/ally-petitt/CVE-2024-29399)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-29399">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-29399">
 
 ---
+## CVE-2024-29384 ()
+> 
+- [randshell/CVE-2024-29384](https://github.com/randshell/CVE-2024-29384)	<img alt="forks" src="https://img.shields.io/github/forks/randshell/CVE-2024-29384">	<img alt="stars" src="https://img.shields.io/github/stars/randshell/CVE-2024-29384">
+
+---
 ## CVE-2024-29375 ()
 > 
 - [ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375)	<img alt="forks" src="https://img.shields.io/github/forks/ismailcemunver/CVE-2024-29375">	<img alt="stars" src="https://img.shields.io/github/stars/ismailcemunver/CVE-2024-29375">
