@@ -39,6 +39,7 @@
 - [DrewskyDev/CVE-2024-3400](https://github.com/DrewskyDev/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/DrewskyDev/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/DrewskyDev/CVE-2024-3400">
 - [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/Yuvvi01/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/Yuvvi01/CVE-2024-3400">
 - [shamo0/CVE-2024-3400](https://github.com/shamo0/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2024-3400">
+- [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CerTusHack/CVE-2024-3400-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CerTusHack/CVE-2024-3400-PoC">
 
 ---
 ## CVE-2024-33333 ()
