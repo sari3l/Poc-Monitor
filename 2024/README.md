@@ -61,6 +61,11 @@
 - [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-3273">
 
 ---
+## CVE-2024-32003 ()
+> 
+- [JohnNetSouldRU/CVE-2024-32003-POC](https://github.com/JohnNetSouldRU/CVE-2024-32003-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-32003-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-32003-POC">
+
+---
 ## CVE-2024-31819 ()
 > 
 - [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-31819">
