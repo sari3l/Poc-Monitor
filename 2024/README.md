@@ -94,6 +94,7 @@
 ## CVE-2024-31233 ()
 > 
 - [JohnNetSouldRU/CVE-2024-31233-POC](https://github.com/JohnNetSouldRU/CVE-2024-31233-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-31233-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-31233-POC">
+- [JohnNetSouldRU/CVE-2024-31233-Exploit-POC](https://github.com/JohnNetSouldRU/CVE-2024-31233-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-31233-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-31233-Exploit-POC">
 
 ---
 ## CVE-2024-31218 ()
