@@ -744,6 +744,11 @@
 - [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-27518">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-27518">
 
 ---
+## CVE-2024-27462 ()
+> 
+- [Alaatk/CVE-2024-27462](https://github.com/Alaatk/CVE-2024-27462)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27462">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27462">
+
+---
 ## CVE-2024-27316 ()
 > 
 - [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/CVE-2024-27316">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/CVE-2024-27316">
