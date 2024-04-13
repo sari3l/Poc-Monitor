@@ -4203,6 +4203,11 @@
 - [mbadanoiu/CVE-2020-12641](https://github.com/mbadanoiu/CVE-2020-12641)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-12641">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-12641">
 
 ---
+## CVE-2020-12640 (2020-05-04T15:15:00)
+> Roundcube Webmail before 1.4.4 allows attackers to include local files and execute code via directory traversal in a plugin name to rcube_plugin_api.php.
+- [mbadanoiu/CVE-2020-12640](https://github.com/mbadanoiu/CVE-2020-12640)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-12640">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-12640">
+
+---
 ## CVE-2020-12625 (2020-05-04T02:15:00)
 > An issue was discovered in Roundcube Webmail before 1.4.4. There is a cross-site scripting (XSS) vulnerability in rcube_washtml.php because JavaScript code can occur in the CDATA of an HTML message.
 - [mbadanoiu/CVE-2020-12625](https://github.com/mbadanoiu/CVE-2020-12625)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-12625">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-12625">
