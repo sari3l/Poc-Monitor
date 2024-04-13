@@ -165,6 +165,8 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 > 
 - [FireWolfWang/CVE-2023-6019](https://github.com/FireWolfWang/CVE-2023-6019)	<img alt="forks" src="https://img.shields.io/github/forks/FireWolfWang/CVE-2023-6019">	<img alt="stars" src="https://img.shields.io/github/stars/FireWolfWang/CVE-2023-6019">
 - [FireWolfWang/CVE-2023-6019](https://github.com/FireWolfWang/CVE-2023-6019)	<img alt="forks" src="https://img.shields.io/github/forks/FireWolfWang/CVE-2023-6019">	<img alt="stars" src="https://img.shields.io/github/stars/FireWolfWang/CVE-2023-6019">
+- [miguelc49/CVE-2023-6019-1](https://github.com/miguelc49/CVE-2023-6019-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-1">
+- [miguelc49/CVE-2023-6019-2](https://github.com/miguelc49/CVE-2023-6019-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-2">
 
 ---
 ## CVE-2023-6000 (2024-01-01T15:15:00)
@@ -207,6 +209,13 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 ## CVE-2023-5808 (2023-12-05T00:15:00)
 > SMU versions prior to 14.8.7825.01 are susceptible to unintended information disclosure, through URL manipulation. Authenticated users in a Storage administrative role are able to access HNAS configuration backup and diagnostic data, that would normally be barred to that specific administrative role.
 - [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-5808">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-5808">
+
+---
+## CVE-2023-5720 ()
+> 
+- [miguelc49/CVE-2023-5720-3](https://github.com/miguelc49/CVE-2023-5720-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-5720-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-5720-3">
+- [miguelc49/CVE-2023-5720-1](https://github.com/miguelc49/CVE-2023-5720-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-5720-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-5720-1">
+- [miguelc49/CVE-2023-5720-2](https://github.com/miguelc49/CVE-2023-5720-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-5720-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-5720-2">
 
 ---
 ## CVE-2023-5717 (2023-10-25T18:17:00)
@@ -1514,6 +1523,12 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [0xCuteSocks/cve-2023-45288](https://github.com/0xCuteSocks/cve-2023-45288)	<img alt="forks" src="https://img.shields.io/github/forks/0xCuteSocks/cve-2023-45288">	<img alt="stars" src="https://img.shields.io/github/stars/0xCuteSocks/cve-2023-45288">
 
 ---
+## CVE-2023-45280 (2023-10-19T22:15:00)
+> Yamcs 5.8.6 allows XSS (issue 2 of 2). It comes with a Bucket as its primary storage mechanism. Buckets allow for the upload of any file. There's a way to upload an HTML file containing arbitrary JavaScript and then navigate to it. Once the user opens the file, the browser will execute the arbitrary JavaScript.
+- [miguelc49/CVE-2023-45280-3](https://github.com/miguelc49/CVE-2023-45280-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-45280-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-45280-3">
+- [miguelc49/CVE-2023-45280-1](https://github.com/miguelc49/CVE-2023-45280-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-45280-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-45280-1">
+
+---
 ## CVE-2023-45185 (2023-12-14T14:15:00)
 > IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 could allow an attacker to execute remote code.  Due to improper authority checks the attacker could perform operations on the PC under the user's authority.  IBM X-Force ID:  268273.
 - [afine-com/CVE-2023-45185](https://github.com/afine-com/CVE-2023-45185)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-45185">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-45185">
@@ -1637,6 +1652,18 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 ## CVE-2023-43757 ()
 > 
 - [sharmashreejaa/CVE-2023-43757](https://github.com/sharmashreejaa/CVE-2023-43757)	<img alt="forks" src="https://img.shields.io/github/forks/sharmashreejaa/CVE-2023-43757">	<img alt="stars" src="https://img.shields.io/github/stars/sharmashreejaa/CVE-2023-43757">
+
+---
+## CVE-2023-43667 (2023-10-16T09:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Apache InLong.This issue affects Apache InLong: from 1.4.0 through 1.8.0, the attacker can create misleading or false records, making it harder to audit
+and trace malicious activities. Users are advised to upgrade to Apache InLong's 1.8.0 or cherry-pick [1] to solve it.
+
+[1]  https://github.com/apache/inlong/pull/8628 
+
+
+- [miguelc49/CVE-2023-43667-3](https://github.com/miguelc49/CVE-2023-43667-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-43667-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-43667-3">
+- [miguelc49/CVE-2023-43667-1](https://github.com/miguelc49/CVE-2023-43667-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-43667-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-43667-1">
+- [miguelc49/CVE-2023-43667-2](https://github.com/miguelc49/CVE-2023-43667-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-43667-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-43667-2">
 
 ---
 ## CVE-2023-43641 (2023-10-09T22:15:00)
@@ -1970,6 +1997,13 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 ## CVE-2023-41613 ()
 > 
 - [Eafz/cve-2023-41613](https://github.com/Eafz/cve-2023-41613)	<img alt="forks" src="https://img.shields.io/github/forks/Eafz/cve-2023-41613">	<img alt="stars" src="https://img.shields.io/github/stars/Eafz/cve-2023-41613">
+
+---
+## CVE-2023-41592 (2023-09-14T23:15:00)
+> Froala Editor v4.0.1 to v4.1.1 was discovered to contain a cross-site scripting (XSS) vulnerability.
+- [miguelc49/CVE-2023-41592-3](https://github.com/miguelc49/CVE-2023-41592-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-41592-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-41592-3">
+- [miguelc49/CVE-2023-41592-1](https://github.com/miguelc49/CVE-2023-41592-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-41592-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-41592-1">
+- [miguelc49/CVE-2023-41592-2](https://github.com/miguelc49/CVE-2023-41592-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-41592-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-41592-2">
 
 ---
 ## CVE-2023-41538 (2023-08-30T14:15:00)
@@ -2569,6 +2603,13 @@ URL that curl has been told to operate with.
 ## CVE-2023-38501 (2023-07-25T22:15:00)
 > copyparty is file server software. Prior to version 1.8.7, the application contains a reflected cross-site scripting via URL-parameter `?k304=...` and `?setck=...`. The worst-case outcome of this is being able to move or delete existing files on the server, or upload new files, using the account of the person who clicks the malicious link. It is recommended to change the passwords of one's copyparty accounts, unless one have inspected one's logs and found no trace of attacks. Version 1.8.7 contains a patch for the issue.
 - [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-38501-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-38501-Exploit">
+
+---
+## CVE-2023-38499 (2023-07-25T21:15:00)
+> TYPO3 is an open source PHP based web content management system. Starting in version 9.4.0 and prior to versions 9.5.42 ELTS, 10.4.39 ELTS, 11.5.30, and 12.4.4, in multi-site scenarios, enumerating the HTTP query parameters `id` and `L` allowed out-of-scope access to rendered content in the website frontend. For instance, this allowed visitors to access content of an internal site by adding handcrafted query parameters to the URL of a site that was publicly available. TYPO3 versions 9.5.42 ELTS, 10.4.39 ELTS, 11.5.30, 12.4.4 fix the problem.
+- [miguelc49/CVE-2023-38499-3](https://github.com/miguelc49/CVE-2023-38499-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-38499-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-38499-3">
+- [miguelc49/CVE-2023-38499-1](https://github.com/miguelc49/CVE-2023-38499-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-38499-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-38499-1">
+- [miguelc49/CVE-2023-38499-2](https://github.com/miguelc49/CVE-2023-38499-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-38499-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-38499-2">
 
 ---
 ## CVE-2023-38498 (2023-07-28T16:15:00)
