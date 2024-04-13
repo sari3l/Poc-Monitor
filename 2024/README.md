@@ -1576,6 +1576,7 @@ QuTScloud c5.1.5.2651 and later
 - [lore-is-already-taken/multicheck_CVE-2024-21762](https://github.com/lore-is-already-taken/multicheck_CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/lore-is-already-taken/multicheck_CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/lore-is-already-taken/multicheck_CVE-2024-21762">
 - [AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK](https://github.com/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK">
 - [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/multicheck_CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/multicheck_CVE-2024-21762">
+- [zzcentury/FortiGate-CVE-2024-21762](https://github.com/zzcentury/FortiGate-CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/zzcentury/FortiGate-CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/zzcentury/FortiGate-CVE-2024-21762">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
