@@ -4203,6 +4203,11 @@
 - [mbadanoiu/CVE-2020-12641](https://github.com/mbadanoiu/CVE-2020-12641)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-12641">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-12641">
 
 ---
+## CVE-2020-12625 (2020-05-04T02:15:00)
+> An issue was discovered in Roundcube Webmail before 1.4.4. There is a cross-site scripting (XSS) vulnerability in rcube_washtml.php because JavaScript code can occur in the CDATA of an HTML message.
+- [mbadanoiu/CVE-2020-12625](https://github.com/mbadanoiu/CVE-2020-12625)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-12625">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-12625">
+
+---
 ## CVE-2020-12527 (2021-03-02T22:15:00)
 > An issue was discovered in MB connect line mymbCONNECT24, mbCONNECT24 and Helmholz myREX24 and myREX24.virtual in all versions through v2.11.2. Improper access validation allows a logged in user to shutdown or reboot devices in his account without having corresponding permissions.
 - [Live-Hack-CVE/CVE-2020-12527](https://github.com/Live-Hack-CVE/CVE-2020-12527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12527">
