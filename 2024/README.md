@@ -997,6 +997,7 @@
 - [corysabol/batbadbut-demo](https://github.com/corysabol/batbadbut-demo)	<img alt="forks" src="https://img.shields.io/github/forks/corysabol/batbadbut-demo">	<img alt="stars" src="https://img.shields.io/github/stars/corysabol/batbadbut-demo">
 - [mishalhossin/CVE-2024-24576-PoC-Python](https://github.com/mishalhossin/CVE-2024-24576-PoC-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mishalhossin/CVE-2024-24576-PoC-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mishalhossin/CVE-2024-24576-PoC-Python">
 - [lpn/CVE-2024-24576.jl](https://github.com/lpn/CVE-2024-24576.jl)	<img alt="forks" src="https://img.shields.io/github/forks/lpn/CVE-2024-24576.jl">	<img alt="stars" src="https://img.shields.io/github/stars/lpn/CVE-2024-24576.jl">
+- [jakbyjakub/java-CVE-2024-24576-exploit](https://github.com/jakbyjakub/java-CVE-2024-24576-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jakbyjakub/java-CVE-2024-24576-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jakbyjakub/java-CVE-2024-24576-exploit">
 
 ---
 ## CVE-2024-24567 (2024-01-30T21:15:00)
