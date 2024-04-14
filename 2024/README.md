@@ -710,6 +710,11 @@
 - [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085)	<img alt="forks" src="https://img.shields.io/github/forks/skyler-ferrante/CVE-2024-28085">	<img alt="stars" src="https://img.shields.io/github/stars/skyler-ferrante/CVE-2024-28085">
 
 ---
+## CVE-2024-27983 ()
+> 
+- [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/CVE-2024-27983-nodejs-http2">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/CVE-2024-27983-nodejs-http2">
+
+---
 ## CVE-2024-27697 ()
 > 
 - [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697)	<img alt="forks" src="https://img.shields.io/github/forks/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">	<img alt="stars" src="https://img.shields.io/github/stars/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">
@@ -777,6 +782,11 @@
 ## CVE-2024-27191 ()
 > 
 - [somecodeinjection/CVE-2024-27191-POC](https://github.com/somecodeinjection/CVE-2024-27191-POC)	<img alt="forks" src="https://img.shields.io/github/forks/somecodeinjection/CVE-2024-27191-POC">	<img alt="stars" src="https://img.shields.io/github/stars/somecodeinjection/CVE-2024-27191-POC">
+
+---
+## CVE-2024-26817 ()
+> 
+- [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2024-26817-amdkfd">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2024-26817-amdkfd">
 
 ---
 ## CVE-2024-26574 ()
