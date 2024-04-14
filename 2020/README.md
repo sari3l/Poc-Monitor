@@ -997,6 +997,12 @@
 - [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
+## CVE-2020-36732 (2023-06-12T02:15:00)
+> The crypto-js package before 3.2.1 for Node.js generates random numbers by concatenating the string "0." with an integer, which makes the output more predictable than necessary.
+- [miguelc49/CVE-2020-36732-1](https://github.com/miguelc49/CVE-2020-36732-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2020-36732-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2020-36732-1">
+- [miguelc49/CVE-2020-36732-2](https://github.com/miguelc49/CVE-2020-36732-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2020-36732-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2020-36732-2">
+
+---
 ## CVE-2020-36730 (2023-06-07T02:15:00)
 > The CMP for WordPress is vulnerable to authorization bypass due to a missing capability check on the cmp_get_post_detail(), niteo_export_csv(), and cmp_disable_comingsoon_ajax() functions in versions up to, and including, 3.8.1. This makes it possible for unauthenticated attackers to read posts, export subscriber lists, and/or deactivate the plugin.
 - [RandomRobbieBF/CVE-2020-36730](https://github.com/RandomRobbieBF/CVE-2020-36730)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2020-36730">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2020-36730">
@@ -4538,6 +4544,12 @@
 ## CVE-2020-10604 (2020-07-25T00:15:00)
 > In OSIsoft PI System multiple products and versions, a remote, unauthenticated attacker could crash PI Network Manager service through specially crafted requests. This can result in blocking connections and queries to PI Data Archive.
 - [Live-Hack-CVE/CVE-2020-10604](https://github.com/Live-Hack-CVE/CVE-2020-10604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10604">
+
+---
+## CVE-2020-10596 (2020-03-17T15:15:00)
+> OpenCart 3.0.3.2 allows remote authenticated users to conduct XSS attacks via a crafted filename in the users' image upload section.
+- [miguelc49/CVE-2020-10596-1](https://github.com/miguelc49/CVE-2020-10596-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2020-10596-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2020-10596-1">
+- [miguelc49/CVE-2020-10596-2](https://github.com/miguelc49/CVE-2020-10596-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2020-10596-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2020-10596-2">
 
 ---
 ## CVE-2020-10560 (2020-03-30T13:15:00)

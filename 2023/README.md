@@ -2086,6 +2086,13 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [JBalanza/CVE-2023-41474](https://github.com/JBalanza/CVE-2023-41474)	<img alt="forks" src="https://img.shields.io/github/forks/JBalanza/CVE-2023-41474">	<img alt="stars" src="https://img.shields.io/github/stars/JBalanza/CVE-2023-41474">
 
 ---
+## CVE-2023-4145 (2023-08-03T17:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository pimcore/customer-data-framework prior to 3.4.2.
+- [miguelc49/CVE-2023-4145-3](https://github.com/miguelc49/CVE-2023-4145-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-4145-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-4145-3">
+- [miguelc49/CVE-2023-4145-1](https://github.com/miguelc49/CVE-2023-4145-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-4145-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-4145-1">
+- [miguelc49/CVE-2023-4145-2](https://github.com/miguelc49/CVE-2023-4145-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-4145-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-4145-2">
+
+---
 ## CVE-2023-41436 (2023-09-16T00:15:00)
 > Cross Site Scripting vulnerability in CSZCMS v.1.3.0 allows a local attacker to execute arbitrary code via a crafted script to the Additional Meta Tag parameter in the Pages Content Menu component.
 - [sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content](https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content)	<img alt="forks" src="https://img.shields.io/github/forks/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content">	<img alt="stars" src="https://img.shields.io/github/stars/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content">
@@ -3178,6 +3185,8 @@ prior to
 ## CVE-2023-36281 (2023-08-22T19:16:00)
 > An issue in langchain v.0.0.171 allows a remote attacker to execute arbitrary code via the via the a json file to the load_prompt parameter.
 - [tagomaru/CVE-2023-36281](https://github.com/tagomaru/CVE-2023-36281)	<img alt="forks" src="https://img.shields.io/github/forks/tagomaru/CVE-2023-36281">	<img alt="stars" src="https://img.shields.io/github/stars/tagomaru/CVE-2023-36281">
+- [miguelc49/CVE-2023-36281-1](https://github.com/miguelc49/CVE-2023-36281-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-36281-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-36281-1">
+- [miguelc49/CVE-2023-36281-2](https://github.com/miguelc49/CVE-2023-36281-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-36281-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-36281-2">
 
 ---
 ## CVE-2023-36250 (2023-09-14T17:15:00)
@@ -3616,6 +3625,13 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037">
 
 ---
+## CVE-2023-34458 (2023-07-13T19:15:00)
+> mx-chain-go is the official implementation of the MultiversX blockchain protocol, written in golang. When executing a relayed transaction, if the inner transaction failed, it would have increased the inner transaction's sender account nonce. This could have contributed to a limited DoS attack on a targeted account. The fix is a breaking change so a new flag `RelayedNonceFixEnableEpoch` was needed. This was a strict processing issue while validating blocks on a chain. This vulnerability has been patched in version 1.4.17.
+- [miguelc49/CVE-2023-34458-3](https://github.com/miguelc49/CVE-2023-34458-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-34458-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-34458-3">
+- [miguelc49/CVE-2023-34458-2](https://github.com/miguelc49/CVE-2023-34458-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-34458-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-34458-2">
+- [miguelc49/CVE-2023-34458-1](https://github.com/miguelc49/CVE-2023-34458-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-34458-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-34458-1">
+
+---
 ## CVE-2023-34362 (2023-06-02T14:15:00)
 > In Progress MOVEit Transfer before 2021.0.6 (13.0.6), 2021.1.4 (13.1.4), 2022.0.4 (14.0.4), 2022.1.5 (14.1.5), and 2023.0.1 (15.0.1), a SQL injection vulnerability has been found in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain access to MOVEit Transfer's database. Depending on the database engine being used (MySQL, Microsoft SQL Server, or Azure SQL), an attacker may be able to infer information about the structure and contents of the database, and execute SQL statements that alter or delete database elements. NOTE: this is exploited in the wild in May and June 2023; exploitation of unpatched systems can occur via HTTP or HTTPS. All versions (e.g., 2020.0 and 2019x) before the five explicitly mentioned versions are affected, including older unsupported versions.
 - [deepinstinct/MOVEit_CVE-2023-34362_IOCs](https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs)	<img alt="forks" src="https://img.shields.io/github/forks/deepinstinct/MOVEit_CVE-2023-34362_IOCs">	<img alt="stars" src="https://img.shields.io/github/stars/deepinstinct/MOVEit_CVE-2023-34362_IOCs">
@@ -3911,6 +3927,13 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [TurtleARM/CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338">
 - [TurtleARM/CVE-2023-3338-DECPwn](https://github.com/TurtleARM/CVE-2023-3338-DECPwn)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338-DECPwn">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338-DECPwn">
 - [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)	<img alt="forks" src="https://img.shields.io/github/forks/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">	<img alt="stars" src="https://img.shields.io/github/stars/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">
+
+---
+## CVE-2023-33264 (2023-05-22T01:15:00)
+> In Hazelcast through 5.0.4, 5.1 through 5.1.6, and 5.2 through 5.2.3, configuration routines don't mask passwords in the member configuration properly. This allows Hazelcast Management Center users to view some of the secrets.
+- [miguelc49/CVE-2023-33264-3](https://github.com/miguelc49/CVE-2023-33264-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-33264-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-33264-3">
+- [miguelc49/CVE-2023-33264-1](https://github.com/miguelc49/CVE-2023-33264-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-33264-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-33264-1">
+- [miguelc49/CVE-2023-33264-2](https://github.com/miguelc49/CVE-2023-33264-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-33264-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-33264-2">
 
 ---
 ## CVE-2023-33253 (2023-06-12T13:15:00)

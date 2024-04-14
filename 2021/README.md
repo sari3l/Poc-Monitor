@@ -198,6 +198,13 @@
 - [nanopathi/external_expat_AOSP10_r33_CVE-2021-46143](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">
 
 ---
+## CVE-2021-46063 (2022-02-18T20:15:00)
+> MCMS v5.2.5 was discovered to contain a Server Side Template Injection (SSTI) vulnerability via the Template Management module.
+- [miguelc49/CVE-2021-46063-3](https://github.com/miguelc49/CVE-2021-46063-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2021-46063-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2021-46063-3">
+- [miguelc49/CVE-2021-46063-1](https://github.com/miguelc49/CVE-2021-46063-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2021-46063-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2021-46063-1">
+- [miguelc49/CVE-2021-46063-2](https://github.com/miguelc49/CVE-2021-46063-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2021-46063-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2021-46063-2">
+
+---
 ## CVE-2021-46022 (2022-01-14T20:15:00)
 > An Use-After-Free vulnerability in rec_mset_elem_destroy() at rec-mset.c of GNU Recutils v1.8.90 can lead to a segmentation fault or application crash.
 - [Live-Hack-CVE/CVE-2021-46022](https://github.com/Live-Hack-CVE/CVE-2021-46022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46022">
@@ -4305,6 +4312,12 @@
 - [Live-Hack-CVE/CVE-2021-35964](https://github.com/Live-Hack-CVE/CVE-2021-35964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35964">
 
 ---
+## CVE-2021-35958 (2021-06-30T01:15:00)
+> TensorFlow through 2.5.0 allows attackers to overwrite arbitrary files via a crafted archive when tf.keras.utils.get_file is used with extract=True. NOTE: the vendor's position is that tf.keras.utils.get_file is not intended for untrusted archives
+- [miguelc49/CVE-2021-35958-1](https://github.com/miguelc49/CVE-2021-35958-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2021-35958-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2021-35958-1">
+- [miguelc49/CVE-2021-35958-2](https://github.com/miguelc49/CVE-2021-35958-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2021-35958-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2021-35958-2">
+
+---
 ## CVE-2021-35940 (2021-08-23T10:15:00)
 > An out-of-bounds array read in the apr_time_exp*() functions was fixed in the Apache Portable Runtime 1.6.3 release (CVE-2017-12613). The fix for this issue was not carried forward to the APR 1.7.x branch, and hence version 1.7.0 regressed compared to 1.6.3 and is vulnerable to the same issue.
 - [Live-Hack-CVE/CVE-2021-35940](https://github.com/Live-Hack-CVE/CVE-2021-35940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35940">
@@ -6190,6 +6203,11 @@
 ## CVE-2021-29003 (2021-04-13T06:15:00)
 > Genexis PLATINUM 4410 2.1 P4410-V2-1.28 devices allow remote attackers to execute arbitrary code via shell metacharacters to sys_config_valid.xgi, as demonstrated by the sys_config_valid.xgi?exeshell=%60telnetd%20%26%60 URI.
 - [jaysharma786/CVE-2021-29003](https://github.com/jaysharma786/CVE-2021-29003)	<img alt="forks" src="https://img.shields.io/github/forks/jaysharma786/CVE-2021-29003">	<img alt="stars" src="https://img.shields.io/github/stars/jaysharma786/CVE-2021-29003">
+
+---
+## CVE-2021-29002 (2021-03-24T15:15:00)
+> A stored cross-site scripting (XSS) vulnerability in Plone CMS 5.2.3 exists in site-controlpanel via the "form.widgets.site_title" parameter.
+- [miguelc49/CVE-2021-29002-1](https://github.com/miguelc49/CVE-2021-29002-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2021-29002-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2021-29002-1">
 
 ---
 ## CVE-2021-28879 (2021-04-11T20:15:00)
