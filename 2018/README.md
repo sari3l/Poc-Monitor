@@ -161,6 +161,11 @@
 - [antogit-sys/CVE-2018-7449](https://github.com/antogit-sys/CVE-2018-7449)	<img alt="forks" src="https://img.shields.io/github/forks/antogit-sys/CVE-2018-7449">	<img alt="stars" src="https://img.shields.io/github/stars/antogit-sys/CVE-2018-7449">
 
 ---
+## CVE-2018-7448 (2018-02-26T17:29:00)
+> Remote code execution vulnerability in /cmsms-2.1.6-install.php/index.php in CMS Made Simple version 2.1.6 allows remote attackers to inject arbitrary PHP code via the "timezone" parameter in step 4 of a fresh installation procedure.
+- [b1d0ws/exploit-cve-2018-7448](https://github.com/b1d0ws/exploit-cve-2018-7448)	<img alt="forks" src="https://img.shields.io/github/forks/b1d0ws/exploit-cve-2018-7448">	<img alt="stars" src="https://img.shields.io/github/stars/b1d0ws/exploit-cve-2018-7448">
+
+---
 ## CVE-2018-7422 (2018-03-19T14:29:00)
 > A Local File Inclusion vulnerability in the Site Editor plugin through 1.1.1 for WordPress allows remote attackers to retrieve arbitrary files via the ajax_path parameter to editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php, aka absolute path traversal.
 - [JacobEbben/CVE-2018-7422](https://github.com/JacobEbben/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2018-7422">
