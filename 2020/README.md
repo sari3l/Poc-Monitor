@@ -3223,6 +3223,7 @@
 - [tpt11fb/AttackTomcat](https://github.com/tpt11fb/AttackTomcat)	<img alt="forks" src="https://img.shields.io/github/forks/tpt11fb/AttackTomcat">	<img alt="stars" src="https://img.shields.io/github/stars/tpt11fb/AttackTomcat">
 - [sv3nbeast/CVE-2020-1938-Tomact-file_include-file_read](https://github.com/sv3nbeast/CVE-2020-1938-Tomact-file_include-file_read)	<img alt="forks" src="https://img.shields.io/github/forks/sv3nbeast/CVE-2020-1938-Tomact-file_include-file_read">	<img alt="stars" src="https://img.shields.io/github/stars/sv3nbeast/CVE-2020-1938-Tomact-file_include-file_read">
 - [fairyming/CVE-2020-1938](https://github.com/fairyming/CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/fairyming/CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/fairyming/CVE-2020-1938">
+- [Warelock/cve-2020-1938](https://github.com/Warelock/cve-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/Warelock/cve-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/Warelock/cve-2020-1938">
 
 ---
 ## CVE-2020-19360 (2021-01-20T01:15:00)
