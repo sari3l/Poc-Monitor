@@ -3697,6 +3697,11 @@
 - [Live-Hack-CVE/CVE-2020-15025](https://github.com/Live-Hack-CVE/CVE-2020-15025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15025">
 
 ---
+## CVE-2020-14974 (2020-06-23T20:15:00)
+> The driver in IOBit Unlocker 1.1.2 allows a low-privileged user to unlock a file and kill processes (even ones running as SYSTEM) that hold a handle, via IOCTL code 0x222124.
+- [Aterror2be/CVE-2020-14974](https://github.com/Aterror2be/CVE-2020-14974)	<img alt="forks" src="https://img.shields.io/github/forks/Aterror2be/CVE-2020-14974">	<img alt="stars" src="https://img.shields.io/github/stars/Aterror2be/CVE-2020-14974">
+
+---
 ## CVE-2020-14882 (2020-10-21T15:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
 - [Manor99/CVE-2020-14882-](https://github.com/Manor99/CVE-2020-14882-)	<img alt="forks" src="https://img.shields.io/github/forks/Manor99/CVE-2020-14882-">	<img alt="stars" src="https://img.shields.io/github/stars/Manor99/CVE-2020-14882-">

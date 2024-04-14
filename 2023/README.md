@@ -167,6 +167,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [FireWolfWang/CVE-2023-6019](https://github.com/FireWolfWang/CVE-2023-6019)	<img alt="forks" src="https://img.shields.io/github/forks/FireWolfWang/CVE-2023-6019">	<img alt="stars" src="https://img.shields.io/github/stars/FireWolfWang/CVE-2023-6019">
 - [miguelc49/CVE-2023-6019-1](https://github.com/miguelc49/CVE-2023-6019-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-1">
 - [miguelc49/CVE-2023-6019-2](https://github.com/miguelc49/CVE-2023-6019-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-2">
+- [miguelc49/CVE-2023-6019-3](https://github.com/miguelc49/CVE-2023-6019-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-3">
 
 ---
 ## CVE-2023-6000 (2024-01-01T15:15:00)
@@ -1527,6 +1528,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 > Yamcs 5.8.6 allows XSS (issue 2 of 2). It comes with a Bucket as its primary storage mechanism. Buckets allow for the upload of any file. There's a way to upload an HTML file containing arbitrary JavaScript and then navigate to it. Once the user opens the file, the browser will execute the arbitrary JavaScript.
 - [miguelc49/CVE-2023-45280-3](https://github.com/miguelc49/CVE-2023-45280-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-45280-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-45280-3">
 - [miguelc49/CVE-2023-45280-1](https://github.com/miguelc49/CVE-2023-45280-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-45280-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-45280-1">
+- [miguelc49/CVE-2023-45280-2](https://github.com/miguelc49/CVE-2023-45280-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-45280-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-45280-2">
 
 ---
 ## CVE-2023-45185 (2023-12-14T14:15:00)
