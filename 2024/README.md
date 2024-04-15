@@ -85,6 +85,11 @@
 - [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777)	<img alt="forks" src="https://img.shields.io/github/forks/FreySolarEye/Exploit-CVE-2024-31777">	<img alt="stars" src="https://img.shields.io/github/stars/FreySolarEye/Exploit-CVE-2024-31777">
 
 ---
+## CVE-2024-31719 ()
+> 
+- [VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability](https://github.com/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability">
+
+---
 ## CVE-2024-31380 ()
 > 
 - [Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopik/CVE-2024-31380-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopik/CVE-2024-31380-POC">
