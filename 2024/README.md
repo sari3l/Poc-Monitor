@@ -98,6 +98,7 @@
 ## CVE-2024-3136 ()
 > 
 - [drdry2/CVE-2024-3136-Wordpress-RCE](https://github.com/drdry2/CVE-2024-3136-Wordpress-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/drdry2/CVE-2024-3136-Wordpress-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/drdry2/CVE-2024-3136-Wordpress-RCE">
+- [AlexDoe11/CVE-2024-3136-Wordpress-RCE](https://github.com/AlexDoe11/CVE-2024-3136-Wordpress-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-3136-Wordpress-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-3136-Wordpress-RCE">
 
 ---
 ## CVE-2024-31345 ()
@@ -194,6 +195,7 @@
 - [Juul/xz-backdoor-scan](https://github.com/Juul/xz-backdoor-scan)	<img alt="forks" src="https://img.shields.io/github/forks/Juul/xz-backdoor-scan">	<img alt="stars" src="https://img.shields.io/github/stars/Juul/xz-backdoor-scan">
 - [drdry2/CVE-2024-3094-EXPLOIT](https://github.com/drdry2/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/drdry2/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/drdry2/CVE-2024-3094-EXPLOIT">
 - [fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-](https://github.com/fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-">
+- [AlexDoe11/CVE-2024-3094-EXPLOIT](https://github.com/AlexDoe11/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-3094-EXPLOIT">
 
 ---
 ## CVE-2024-30937 ()
@@ -519,6 +521,7 @@
 ## CVE-2024-29988 ()
 > 
 - [mrobsidian1/CVE-2024-29988-MS-Exchange-RCE](https://github.com/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE">
+- [AlexDoe11/CVE-2024-29988-MS-Exchange-RCE](https://github.com/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE">
 
 ---
 ## CVE-2024-29455 ()
@@ -838,6 +841,7 @@
 - [MrCyberSec/CVE-2024-26198-Exchange-RCE](https://github.com/MrCyberSec/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSec/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSec/CVE-2024-26198-Exchange-RCE">
 - [babywalkerenc/CVE-2024-26198-POC](https://github.com/babywalkerenc/CVE-2024-26198-POC)	<img alt="forks" src="https://img.shields.io/github/forks/babywalkerenc/CVE-2024-26198-POC">	<img alt="stars" src="https://img.shields.io/github/stars/babywalkerenc/CVE-2024-26198-POC">
 - [MrSecby/CVE-2024-26198-Exchange-RCE](https://github.com/MrSecby/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MrSecby/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MrSecby/CVE-2024-26198-Exchange-RCE">
+- [AlexDoe11/CVE-2024-26198-Exchange-RCE](https://github.com/AlexDoe11/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-26198-Exchange-RCE">
 
 ---
 ## CVE-2024-26169 (2024-03-12T17:15:00)
@@ -869,6 +873,7 @@
 > 
 - [MrCyb3rSec/CVE-2024-25693-exploit](https://github.com/MrCyb3rSec/CVE-2024-25693-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyb3rSec/CVE-2024-25693-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyb3rSec/CVE-2024-25693-exploit">
 - [MrSecby/CVE-2024-25693-exploit](https://github.com/MrSecby/CVE-2024-25693-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MrSecby/CVE-2024-25693-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MrSecby/CVE-2024-25693-exploit">
+- [AlexDoe11/CVE-2024-25693-exploit](https://github.com/AlexDoe11/CVE-2024-25693-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-25693-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-25693-exploit">
 
 ---
 ## CVE-2024-25600 ()

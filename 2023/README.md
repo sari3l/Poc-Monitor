@@ -962,6 +962,7 @@ Users are recommended to upgrade to version 18.12.10
 - [CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj](https://github.com/CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj)	<img alt="forks" src="https://img.shields.io/github/forks/CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj">	<img alt="stars" src="https://img.shields.io/github/stars/CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj">
 - [TheRedDevil1/CVE-2023-48788-exploit](https://github.com/TheRedDevil1/CVE-2023-48788-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2023-48788-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2023-48788-exploit">
 - [mrobsidian1/CVE-2023-48788-Proof-of-concept-SQLinj](https://github.com/mrobsidian1/CVE-2023-48788-Proof-of-concept-SQLinj)	<img alt="forks" src="https://img.shields.io/github/forks/mrobsidian1/CVE-2023-48788-Proof-of-concept-SQLinj">	<img alt="stars" src="https://img.shields.io/github/stars/mrobsidian1/CVE-2023-48788-Proof-of-concept-SQLinj">
+- [AlexDoe11/CVE-2023-48788-Proof-of-concept-SQLinj](https://github.com/AlexDoe11/CVE-2023-48788-Proof-of-concept-SQLinj)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2023-48788-Proof-of-concept-SQLinj">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2023-48788-Proof-of-concept-SQLinj">
 
 ---
 ## CVE-2023-48777 (2024-03-26T21:15:00)
