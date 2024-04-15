@@ -1917,6 +1917,7 @@ This is possible because the application is vulnerable to insecure deserializati
 ## CVE-2024-1642470 ()
 > 
 - [Symbolexe/CVE-2024-1642470](https://github.com/Symbolexe/CVE-2024-1642470)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2024-1642470">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2024-1642470">
+- [Symbolexe/CVE-2024-1642470](https://github.com/Symbolexe/CVE-2024-1642470)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2024-1642470">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2024-1642470">
 
 ---
 ## CVE-2024-1512 (2024-02-17T08:15:00)
