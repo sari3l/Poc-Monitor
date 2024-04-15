@@ -6256,6 +6256,11 @@ For more details, please review the linked advisory on this CVE.
 - [nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266">
 
 ---
+## CVE-2023-21253 (2023-10-06T19:15:00)
+> In multiple locations, there is a possible way to crash multiple system services due to resource exhaustion. This could lead to local denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21253](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21253)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21253">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21253">
+
+---
 ## CVE-2023-21251 (2023-07-13T00:15:00)
 > In onCreate of ConfirmDialog.java, there is a possible way to connect to VNP bypassing user's consent due to improper input validation. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation.
 
