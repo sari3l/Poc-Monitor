@@ -5668,6 +5668,7 @@
 - [hev0x/CVE-2021-31630-OpenPLC_RCE](https://github.com/hev0x/CVE-2021-31630-OpenPLC_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hev0x/CVE-2021-31630-OpenPLC_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hev0x/CVE-2021-31630-OpenPLC_RCE">
 - [thewhiteh4t/cve-2021-31630](https://github.com/thewhiteh4t/cve-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/thewhiteh4t/cve-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/thewhiteh4t/cve-2021-31630">
 - [UserB1ank/CVE-2021-31630](https://github.com/UserB1ank/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/UserB1ank/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/UserB1ank/CVE-2021-31630">
+- [mind2hex/CVE-2021-31630](https://github.com/mind2hex/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2021-31630">
 
 ---
 ## CVE-2021-31589 (2022-01-05T12:15:00)
