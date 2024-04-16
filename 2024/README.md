@@ -1928,6 +1928,11 @@ This is possible because the application is vulnerable to insecure deserializati
 - [rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512)	<img alt="forks" src="https://img.shields.io/github/forks/rat-c/CVE-2024-1512">	<img alt="stars" src="https://img.shields.io/github/stars/rat-c/CVE-2024-1512">
 
 ---
+## CVE-2024-1441 (2024-03-11T14:15:00)
+> An off-by-one error flaw was found in the udevListInterfacesByStatus() function in libvirt when the number of interfaces exceeds the size of the `names` array. This issue can be reproduced by sending specially crafted data to the libvirt daemon, allowing an unprivileged client to perform a denial of service attack by causing the libvirt daemon to crash.
+- [almkuznetsov/CVE-2024-1441](https://github.com/almkuznetsov/CVE-2024-1441)	<img alt="forks" src="https://img.shields.io/github/forks/almkuznetsov/CVE-2024-1441">	<img alt="stars" src="https://img.shields.io/github/stars/almkuznetsov/CVE-2024-1441">
+
+---
 ## CVE-2024-1403 (2024-02-27T16:15:00)
 > In OpenEdge Authentication Gateway and AdminServer prior to 11.7.19, 12.2.14, 12.8.1 on all platforms supported by the OpenEdge product, an authentication bypass vulnerability has been identified.  The
 vulnerability is a bypass to authentication based on a failure to properly
