@@ -60,6 +60,7 @@
 - [W01fh4cker/CVE-2024-3400](https://github.com/W01fh4cker/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-3400">
 - [CONDITIONBLACK/CVE-2024-3400-POC](https://github.com/CONDITIONBLACK/CVE-2024-3400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CONDITIONBLACK/CVE-2024-3400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CONDITIONBLACK/CVE-2024-3400-POC">
 - [Chocapikk/CVE-2024-3400](https://github.com/Chocapikk/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-3400">
+- [ihebski/CVE-2024-3400](https://github.com/ihebski/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/ihebski/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/ihebski/CVE-2024-3400">
 
 ---
 ## CVE-2024-33333 ()
