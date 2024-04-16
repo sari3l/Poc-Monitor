@@ -72,6 +72,7 @@
 - [nickswink/D-Link-NAS-Devices-Unauthenticated-RCE](https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE">
 - [K3ysTr0K3R/CVE-2024-3273-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-3273-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-3273-EXPLOIT">
 - [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-3273">
+- [LeopoldSkell/CVE-2024-3273](https://github.com/LeopoldSkell/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/LeopoldSkell/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/LeopoldSkell/CVE-2024-3273">
 
 ---
 ## CVE-2024-32003 ()
@@ -1780,6 +1781,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 > Windows Kernel Elevation of Privilege Vulnerability
 - [gogobuster/CVE-2024-21338-POC](https://github.com/gogobuster/CVE-2024-21338-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21338-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21338-POC">
 - [crackmapEZec/CVE-2024-21338-POC](https://github.com/crackmapEZec/CVE-2024-21338-POC)	<img alt="forks" src="https://img.shields.io/github/forks/crackmapEZec/CVE-2024-21338-POC">	<img alt="stars" src="https://img.shields.io/github/stars/crackmapEZec/CVE-2024-21338-POC">
+- [huseyinstif/CVE-2024-21338](https://github.com/huseyinstif/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-21338">
 
 ---
 ## CVE-2024-21334 (2024-03-12T17:15:00)
