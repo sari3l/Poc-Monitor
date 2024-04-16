@@ -49,6 +49,7 @@
 - [MurrayR0123/CVE-2024-3400-Compromise-Checker](https://github.com/MurrayR0123/CVE-2024-3400-Compromise-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/MurrayR0123/CVE-2024-3400-Compromise-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/MurrayR0123/CVE-2024-3400-Compromise-Checker">
 - [kerberoshacker2/CVE-2024-3400-POC](https://github.com/kerberoshacker2/CVE-2024-3400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kerberoshacker2/CVE-2024-3400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kerberoshacker2/CVE-2024-3400-POC">
 - [AdaniKamal/CVE-2024-3400](https://github.com/AdaniKamal/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/AdaniKamal/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/AdaniKamal/CVE-2024-3400">
+- [LoanVitor/CVE-2024-3400-](https://github.com/LoanVitor/CVE-2024-3400-)	<img alt="forks" src="https://img.shields.io/github/forks/LoanVitor/CVE-2024-3400-">	<img alt="stars" src="https://img.shields.io/github/stars/LoanVitor/CVE-2024-3400-">
 
 ---
 ## CVE-2024-33333 ()
