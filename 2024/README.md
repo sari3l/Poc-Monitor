@@ -31,6 +31,11 @@
 - [JohnnyBradvo/CVE-2024-4444](https://github.com/JohnnyBradvo/CVE-2024-4444)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-4444">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-4444">
 
 ---
+## CVE-2024-3867 ()
+> 
+- [RansomGroupCVE/CVE-2024-3867-POC](https://github.com/RansomGroupCVE/CVE-2024-3867-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-3867-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-3867-POC">
+
+---
 ## CVE-2024-3400 ()
 > 
 - [havebeenpwned/CVE-2024-3400-POC](https://github.com/havebeenpwned/CVE-2024-3400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/havebeenpwned/CVE-2024-3400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/havebeenpwned/CVE-2024-3400-POC">
