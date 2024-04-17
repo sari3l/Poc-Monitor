@@ -61,6 +61,7 @@
 - [CONDITIONBLACK/CVE-2024-3400-POC](https://github.com/CONDITIONBLACK/CVE-2024-3400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CONDITIONBLACK/CVE-2024-3400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CONDITIONBLACK/CVE-2024-3400-POC">
 - [Chocapikk/CVE-2024-3400](https://github.com/Chocapikk/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-3400">
 - [ihebski/CVE-2024-3400](https://github.com/ihebski/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/ihebski/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/ihebski/CVE-2024-3400">
+- [index2014/CVE-2024-3400-Checker](https://github.com/index2014/CVE-2024-3400-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/index2014/CVE-2024-3400-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/index2014/CVE-2024-3400-Checker">
 
 ---
 ## CVE-2024-33333 ()
