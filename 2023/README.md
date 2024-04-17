@@ -1311,6 +1311,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [ST3G4N05/ExploitScript-CVE-2023-46604](https://github.com/ST3G4N05/ExploitScript-CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/ST3G4N05/ExploitScript-CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/ST3G4N05/ExploitScript-CVE-2023-46604">
 - [ph-hitachi/CVE-2023-46604](https://github.com/ph-hitachi/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/ph-hitachi/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/ph-hitachi/CVE-2023-46604">
 - [Arlenhiack/ActiveMQ-RCE-Exploit](https://github.com/Arlenhiack/ActiveMQ-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Arlenhiack/ActiveMQ-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Arlenhiack/ActiveMQ-RCE-Exploit">
+- [vulncheck-oss/cve-2023-46604](https://github.com/vulncheck-oss/cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-46604">
 
 ---
 ## CVE-2023-46501 ()
