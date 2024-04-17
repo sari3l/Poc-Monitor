@@ -2499,7 +2499,7 @@
 ## CVE-2019-12937 (2019-06-23T23:15:00)
 > apps/gsudo.c in gsudo in ToaruOS through 1.10.9 has a buffer overflow allowing local privilege escalation to the root user via the DISPLAY environment variable.
 - [Live-Hack-CVE/CVE-2019-12937](https://github.com/Live-Hack-CVE/CVE-2019-12937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12937">
-- [AkashicYiTai/CVE-2019-12937-ToaruOS-](https://github.com/AkashicYiTai/CVE-2019-12937-ToaruOS-)	<img alt="forks" src="https://img.shields.io/github/forks/AkashicYiTai/CVE-2019-12937-ToaruOS-">	<img alt="stars" src="https://img.shields.io/github/stars/AkashicYiTai/CVE-2019-12937-ToaruOS-">
+- [AkashicYiTai/CVE-2019-12937-ToaruOS](https://github.com/AkashicYiTai/CVE-2019-12937-ToaruOS)	<img alt="forks" src="https://img.shields.io/github/forks/AkashicYiTai/CVE-2019-12937-ToaruOS">	<img alt="stars" src="https://img.shields.io/github/stars/AkashicYiTai/CVE-2019-12937-ToaruOS">
 
 ---
 ## CVE-2019-12874 (2019-06-18T18:15:00)
