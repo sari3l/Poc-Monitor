@@ -113,6 +113,7 @@
 ## CVE-2024-31497 ()
 > 
 - [JohnNetSouldRU/CVE-2024-31497-POC](https://github.com/JohnNetSouldRU/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-31497-POC">
+- [sh1k4ku/CVE-2024-31497](https://github.com/sh1k4ku/CVE-2024-31497)	<img alt="forks" src="https://img.shields.io/github/forks/sh1k4ku/CVE-2024-31497">	<img alt="stars" src="https://img.shields.io/github/stars/sh1k4ku/CVE-2024-31497">
 
 ---
 ## CVE-2024-31380 ()
