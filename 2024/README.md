@@ -74,8 +74,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
-## CVE-2024-3333 ()
-> 
+## CVE-2024-3333 (2024-04-17T12:15:00)
+> The Essential Addons for Elementor plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the URL attributes of widgets in all versions up to, and including, 5.9.14 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [JohnnyBradvo/CVE-2024-3333](https://github.com/JohnnyBradvo/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-3333">
 - [AlexLondan/CVE-2024-3333](https://github.com/AlexLondan/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-3333">
 
