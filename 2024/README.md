@@ -1814,6 +1814,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [crackmapEZec/CVE-2024-21338-POC](https://github.com/crackmapEZec/CVE-2024-21338-POC)	<img alt="forks" src="https://img.shields.io/github/forks/crackmapEZec/CVE-2024-21338-POC">	<img alt="stars" src="https://img.shields.io/github/stars/crackmapEZec/CVE-2024-21338-POC">
 - [huseyinstif/CVE-2024-21338](https://github.com/huseyinstif/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-21338">
 - [hakaioffsec/CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2024-21338">
+- [UMU618/CVE-2024-21338](https://github.com/UMU618/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/UMU618/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/UMU618/CVE-2024-21338">
 
 ---
 ## CVE-2024-21334 (2024-03-12T17:15:00)
