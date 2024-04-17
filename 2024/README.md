@@ -68,6 +68,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Chocapikk/CVE-2024-3400](https://github.com/Chocapikk/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-3400">
 - [ZephrFish/CVE-2024-3400-Canary](https://github.com/ZephrFish/CVE-2024-3400-Canary)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2024-3400-Canary">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2024-3400-Canary">
 - [ak1t4/CVE-2024-3400](https://github.com/ak1t4/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/ak1t4/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/ak1t4/CVE-2024-3400">
+- [phantomradar/cve-2024-3400-poc](https://github.com/phantomradar/cve-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/phantomradar/cve-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/phantomradar/cve-2024-3400-poc">
 
 ---
 ## CVE-2024-33333 ()
