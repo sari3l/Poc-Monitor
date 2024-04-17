@@ -1809,6 +1809,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/d4rks1d33/C-PoC-for-CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/d4rks1d33/C-PoC-for-CVE-2024-21306">
 
 ---
+## CVE-2024-21107 ()
+> 
+- [Alaatk/CVE-2024-21107](https://github.com/Alaatk/CVE-2024-21107)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-21107">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-21107">
+
+---
 ## CVE-2024-20931 (2024-02-17T02:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/GlassyAmadeus/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/GlassyAmadeus/CVE-2024-20931">
@@ -1902,6 +1907,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 > A vulnerability in the access control list (ACL) programming for port channel subinterfaces of Cisco Nexus 3000 and 9000 Series Switches in standalone NX-OS mode could allow an unauthenticated, remote attacker to send traffic that should be blocked through an affected device.
  This vulnerability is due to incorrect hardware programming that occurs when configuration changes are made to port channel member ports. An attacker could exploit this vulnerability by attempting to send traffic through an affected device. A successful exploit could allow the attacker to access network resources that should be protected by an ACL that was applied on port channel subinterfaces.
 - [greandfather/CVE-2024-20291-POC](https://github.com/greandfather/CVE-2024-20291-POC)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2024-20291-POC">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2024-20291-POC">
+
+---
+## CVE-2024-1874 ()
+> 
+- [ox1111/-CVE-2024-1874-](https://github.com/ox1111/-CVE-2024-1874-)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/-CVE-2024-1874-">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/-CVE-2024-1874-">
 
 ---
 ## CVE-2024-1709 (2024-02-21T16:15:00)
