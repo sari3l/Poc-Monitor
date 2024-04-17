@@ -5431,6 +5431,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [ohnonoyesyes/CVE-2023-25194](https://github.com/ohnonoyesyes/CVE-2023-25194)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-25194">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-25194">
 - [YongYe-Security/CVE-2023-25194](https://github.com/YongYe-Security/CVE-2023-25194)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2023-25194">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2023-25194">
 - [Avento/Apache_Druid_JNDI_Vuln](https://github.com/Avento/Apache_Druid_JNDI_Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/Apache_Druid_JNDI_Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/Apache_Druid_JNDI_Vuln">
+- [vulncheck-oss/cve-2023-25194](https://github.com/vulncheck-oss/cve-2023-25194)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-25194">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-25194">
 
 ---
 ## CVE-2023-2516 (2023-05-05T19:15:00)
