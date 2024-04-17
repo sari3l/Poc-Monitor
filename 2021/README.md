@@ -7387,6 +7387,11 @@
 - [EkamSinghWalia/Detection-script-for-cve-2021-23358](https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Detection-script-for-cve-2021-23358">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Detection-script-for-cve-2021-23358">
 
 ---
+## CVE-2021-23337 (2021-02-15T13:15:00)
+> Lodash versions prior to 4.17.21 are vulnerable to Command Injection via the template function.
+- [ebickle/CVE-2021-23337-template](https://github.com/ebickle/CVE-2021-23337-template)	<img alt="forks" src="https://img.shields.io/github/forks/ebickle/CVE-2021-23337-template">	<img alt="stars" src="https://img.shields.io/github/stars/ebickle/CVE-2021-23337-template">
+
+---
 ## CVE-2021-23265 (2022-05-16T17:15:00)
 > A logged-in and authenticated user with a Reviewer Role may lock a content item.
 - [Live-Hack-CVE/CVE-2021-23265](https://github.com/Live-Hack-CVE/CVE-2021-23265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23265">
