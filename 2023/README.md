@@ -383,8 +383,10 @@ to load arbitrary JavaScript code.
 - [jakabakos/CVE-2023-51448-cacti-sqli-poc](https://github.com/jakabakos/CVE-2023-51448-cacti-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-51448-cacti-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-51448-cacti-sqli-poc">
 
 ---
-## CVE-2023-51409 ()
-> 
+## CVE-2023-51409 (2024-04-12T14:15:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in Jordy Meow AI Engine: ChatGPT Chatbot.This issue affects AI Engine: ChatGPT Chatbot: from n/a through 1.9.98.
+
+
 - [RandomRobbieBF/CVE-2023-51409](https://github.com/RandomRobbieBF/CVE-2023-51409)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-51409">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-51409">
 
 ---
@@ -1503,8 +1505,8 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-45542">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-45542">
 
 ---
-## CVE-2023-45503 ()
-> 
+## CVE-2023-45503 (2024-04-15T20:15:00)
+> SQL Injection vulnerability in Macrob7 Macs CMS 1.1.4f, allows remote attackers to execute arbitrary code, cause a denial of service (DoS), escalate privileges, and obtain sensitive information via crafted payload to resetPassword, forgotPasswordProcess, saveUser, saveRole, deleteUser, deleteRole, deleteComment, deleteUser, allowComment, saveRole, forgotPasswordProcess, resetPassword, saveUser, addComment, saveRole, and saveUser endpoints.
 - [ally-petitt/CVE-2023-45503](https://github.com/ally-petitt/CVE-2023-45503)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-45503">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-45503">
 
 ---
@@ -2315,8 +2317,10 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [0xyassine/CVE-2023-40028](https://github.com/0xyassine/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/0xyassine/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/0xyassine/CVE-2023-40028">
 
 ---
-## CVE-2023-40000 ()
-> 
+## CVE-2023-40000 (2024-04-16T18:15:00)
+> Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in LiteSpeed Technologies LiteSpeed Cache allows Stored XSS.This issue affects LiteSpeed Cache: from n/a through 5.7.
+
+
 - [rxerium/CVE-2023-40000](https://github.com/rxerium/CVE-2023-40000)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2023-40000">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2023-40000">
 
 ---
