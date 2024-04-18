@@ -70,6 +70,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [ak1t4/CVE-2024-3400](https://github.com/ak1t4/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/ak1t4/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/ak1t4/CVE-2024-3400">
 - [phantomradar/cve-2024-3400-poc](https://github.com/phantomradar/cve-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/phantomradar/cve-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/phantomradar/cve-2024-3400-poc">
 - [retkoussa/CVE-2024-3400](https://github.com/retkoussa/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/retkoussa/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/retkoussa/CVE-2024-3400">
+- [schooldropout1337/CVE-2024-3400](https://github.com/schooldropout1337/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/schooldropout1337/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/schooldropout1337/CVE-2024-3400">
 
 ---
 ## CVE-2024-33333 ()
