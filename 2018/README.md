@@ -1343,6 +1343,9 @@
 ## CVE-2018-11759 (2018-10-31T20:29:00)
 > The Apache Web Server (httpd) specific code that normalised the requested path before matching it to the URI-worker map in Apache Tomcat JK (mod_jk) Connector 1.2.0 to 1.2.44 did not handle some edge cases correctly. If only a sub-set of the URLs supported by Tomcat were exposed via httpd, then it was possible for a specially constructed request to expose application functionality through the reverse proxy that was not intended for clients accessing the application via the reverse proxy. It was also possible in some configurations for a specially constructed request to bypass the access controls configured in httpd. While there is some overlap between this issue and CVE-2018-1323, they are not identical.
 - [julioliraup/Identificador-CVE-2018-11759](https://github.com/julioliraup/Identificador-CVE-2018-11759)	<img alt="forks" src="https://img.shields.io/github/forks/julioliraup/Identificador-CVE-2018-11759">	<img alt="stars" src="https://img.shields.io/github/stars/julioliraup/Identificador-CVE-2018-11759">
+- [YagamiiLight/Cerberus](https://github.com/YagamiiLight/Cerberus)	<img alt="forks" src="https://img.shields.io/github/forks/YagamiiLight/Cerberus">	<img alt="stars" src="https://img.shields.io/github/stars/YagamiiLight/Cerberus">
+- [Jul10l1r4/Identificador-CVE-2018-11759](https://github.com/Jul10l1r4/Identificador-CVE-2018-11759)	<img alt="forks" src="https://img.shields.io/github/forks/Jul10l1r4/Identificador-CVE-2018-11759">	<img alt="stars" src="https://img.shields.io/github/stars/Jul10l1r4/Identificador-CVE-2018-11759">
+- [immunIT/CVE-2018-11759](https://github.com/immunIT/CVE-2018-11759)	<img alt="forks" src="https://img.shields.io/github/forks/immunIT/CVE-2018-11759">	<img alt="stars" src="https://img.shields.io/github/stars/immunIT/CVE-2018-11759">
 
 ---
 ## CVE-2018-1160 (2018-12-20T21:29:00)
