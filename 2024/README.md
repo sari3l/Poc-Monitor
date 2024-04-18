@@ -816,6 +816,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-27316 ()
 > 
 - [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/CVE-2024-27316">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/CVE-2024-27316">
+- [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2024-27316_poc">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2024-27316_poc">
 
 ---
 ## CVE-2024-27198 (2024-03-04T18:15:00)
