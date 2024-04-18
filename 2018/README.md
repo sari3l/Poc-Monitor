@@ -1340,6 +1340,11 @@
 - [jiguangsdf/CVE-2018-11776](https://github.com/jiguangsdf/CVE-2018-11776)	<img alt="forks" src="https://img.shields.io/github/forks/jiguangsdf/CVE-2018-11776">	<img alt="stars" src="https://img.shields.io/github/stars/jiguangsdf/CVE-2018-11776">
 
 ---
+## CVE-2018-11759 (2018-10-31T20:29:00)
+> The Apache Web Server (httpd) specific code that normalised the requested path before matching it to the URI-worker map in Apache Tomcat JK (mod_jk) Connector 1.2.0 to 1.2.44 did not handle some edge cases correctly. If only a sub-set of the URLs supported by Tomcat were exposed via httpd, then it was possible for a specially constructed request to expose application functionality through the reverse proxy that was not intended for clients accessing the application via the reverse proxy. It was also possible in some configurations for a specially constructed request to bypass the access controls configured in httpd. While there is some overlap between this issue and CVE-2018-1323, they are not identical.
+- [julioliraup/Identificador-CVE-2018-11759](https://github.com/julioliraup/Identificador-CVE-2018-11759)	<img alt="forks" src="https://img.shields.io/github/forks/julioliraup/Identificador-CVE-2018-11759">	<img alt="stars" src="https://img.shields.io/github/stars/julioliraup/Identificador-CVE-2018-11759">
+
+---
 ## CVE-2018-1160 (2018-12-20T21:29:00)
 > Netatalk before 3.1.12 is vulnerable to an out of bounds write in dsi_opensess.c. This is due to lack of bounds checking on attacker controlled data. A remote unauthenticated attacker can leverage this vulnerability to achieve arbitrary code execution.
 - [Nigmaz/CVE-2018-1160](https://github.com/Nigmaz/CVE-2018-1160)	<img alt="forks" src="https://img.shields.io/github/forks/Nigmaz/CVE-2018-1160">	<img alt="stars" src="https://img.shields.io/github/stars/Nigmaz/CVE-2018-1160">
