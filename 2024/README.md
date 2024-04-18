@@ -2119,6 +2119,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [ch4nui/CVE-2024-0402-RCE](https://github.com/ch4nui/CVE-2024-0402-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ch4nui/CVE-2024-0402-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ch4nui/CVE-2024-0402-RCE">
 
 ---
+## CVE-2024-0305 (2024-01-08T09:15:00)
+> A vulnerability was found in Guangzhou Yingke Electronic Technology Ncast up to 2017 and classified as problematic. Affected by this issue is some unknown functionality of the file /manage/IPSetup.php of the component Guest Login. The manipulation leads to information disclosure. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-249872.
+- [jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp)	<img alt="forks" src="https://img.shields.io/github/forks/jidle123/cve-2024-0305exp">	<img alt="stars" src="https://img.shields.io/github/stars/jidle123/cve-2024-0305exp">
+
+---
 ## CVE-2024-0252 (2024-01-11T08:15:00)
 > ManageEngine ADSelfService Plus versions 6401 and below are vulnerable to the remote code execution due to the improper handling in the load balancer component. Authentication is required in order to exploit this vulnerability.
 - [forsaken0128/CVE-2024-0252-RCE](https://github.com/forsaken0128/CVE-2024-0252-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0128/CVE-2024-0252-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0128/CVE-2024-0252-RCE">
