@@ -98,6 +98,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [LeopoldSkell/CVE-2024-3273](https://github.com/LeopoldSkell/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/LeopoldSkell/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/LeopoldSkell/CVE-2024-3273">
 
 ---
+## CVE-2024-32258 ()
+> 
+- [liyansong2018/CVE-2024-32258](https://github.com/liyansong2018/CVE-2024-32258)	<img alt="forks" src="https://img.shields.io/github/forks/liyansong2018/CVE-2024-32258">	<img alt="stars" src="https://img.shields.io/github/stars/liyansong2018/CVE-2024-32258">
+
+---
 ## CVE-2024-3217 ()
 > 
 - [BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC)	<img alt="forks" src="https://img.shields.io/github/forks/BassamAssiri/CVE-2024-3217-POC">	<img alt="stars" src="https://img.shields.io/github/stars/BassamAssiri/CVE-2024-3217-POC">
