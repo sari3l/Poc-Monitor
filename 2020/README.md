@@ -174,6 +174,11 @@
 - [nidhi7598/guava-v18.0_CVE-2020-8908](https://github.com/nidhi7598/guava-v18.0_CVE-2020-8908)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/guava-v18.0_CVE-2020-8908">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/guava-v18.0_CVE-2020-8908">
 
 ---
+## CVE-2020-8899 (2020-05-06T17:15:00)
+> There is a buffer overwrite vulnerability in the Quram qmg library of Samsung's Android OS versions O(8.x), P(9.0) and Q(10.0). An unauthenticated, unauthorized attacker sending a specially crafted MMS to a vulnerable phone can trigger a heap-based buffer overflow in the Quram image codec leading to an arbitrary remote code execution (RCE) without any user interaction. The Samsung ID is SVE-2020-16747.
+- [0x23242526/nDay1_POC_CVE-2020-8899](https://github.com/0x23242526/nDay1_POC_CVE-2020-8899)	<img alt="forks" src="https://img.shields.io/github/forks/0x23242526/nDay1_POC_CVE-2020-8899">	<img alt="stars" src="https://img.shields.io/github/stars/0x23242526/nDay1_POC_CVE-2020-8899">
+
+---
 ## CVE-2020-8835 (2020-04-02T18:15:00)
 > In the Linux kernel 5.5.0 and newer, the bpf verifier (kernel/bpf/verifier.c) did not properly restrict the register bounds for 32-bit operations, leading to out-of-bounds reads and writes in kernel memory. The vulnerability also affects the Linux 5.4 stable series, starting with v5.4.7, as the introducing commit was backported to that branch. This vulnerability was fixed in 5.6.1, 5.5.14, and 5.4.29. (issue is aka ZDI-CAN-10780)
 - [johnatag/INF8602-CVE-2020-8835](https://github.com/johnatag/INF8602-CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/johnatag/INF8602-CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/johnatag/INF8602-CVE-2020-8835">
