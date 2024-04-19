@@ -1511,8 +1511,8 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [zunak/CVE-2024-22641](https://github.com/zunak/CVE-2024-22641)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22641">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22641">
 
 ---
-## CVE-2024-22640 ()
-> 
+## CVE-2024-22640 (2024-04-19T16:15:00)
+> TCPDF version <=6.6.5 is vulnerable to ReDoS (Regular Expression Denial of Service) if parsing an untrusted HTML page with a crafted color.
 - [zunak/CVE-2024-22640](https://github.com/zunak/CVE-2024-22640)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22640">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22640">
 
 ---
