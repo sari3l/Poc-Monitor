@@ -1840,6 +1840,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [huseyinstif/CVE-2024-21338](https://github.com/huseyinstif/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-21338">
 - [hakaioffsec/CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2024-21338">
 - [UMU618/CVE-2024-21338](https://github.com/UMU618/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/UMU618/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/UMU618/CVE-2024-21338">
+- [huseyinstif/CVE-2024-21338-main](https://github.com/huseyinstif/CVE-2024-21338-main)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-21338-main">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-21338-main">
 
 ---
 ## CVE-2024-21334 (2024-03-12T17:15:00)
