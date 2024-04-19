@@ -1526,8 +1526,8 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [greandfather/CVE-2023-45318-POC-RCE](https://github.com/greandfather/CVE-2023-45318-POC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2023-45318-POC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2023-45318-POC-RCE">
 
 ---
-## CVE-2023-45288 ()
-> 
+## CVE-2023-45288 (2024-04-04T21:15:00)
+> An attacker may cause an HTTP/2 endpoint to read arbitrary amounts of header data by sending an excessive number of CONTINUATION frames. Maintaining HPACK state requires parsing and processing all HEADERS and CONTINUATION frames on a connection. When a request's headers exceed MaxHeaderBytes, no memory is allocated to store the excess headers, but they are still parsed. This permits an attacker to cause an HTTP/2 endpoint to read arbitrary amounts of header data, all associated with a request which is going to be rejected. These headers can include Huffman-encoded data which is significantly more expensive for the receiver to decode than for an attacker to send. The fix sets a limit on the amount of excess header frames we will process before closing a connection.
 - [0xCuteSocks/cve-2023-45288](https://github.com/0xCuteSocks/cve-2023-45288)	<img alt="forks" src="https://img.shields.io/github/forks/0xCuteSocks/cve-2023-45288">	<img alt="stars" src="https://img.shields.io/github/stars/0xCuteSocks/cve-2023-45288">
 
 ---
