@@ -929,8 +929,8 @@ overflow.
 - [david-botelho-mariano/exploit-CVE-2024-25723](https://github.com/david-botelho-mariano/exploit-CVE-2024-25723)	<img alt="forks" src="https://img.shields.io/github/forks/david-botelho-mariano/exploit-CVE-2024-25723">	<img alt="stars" src="https://img.shields.io/github/stars/david-botelho-mariano/exploit-CVE-2024-25723">
 
 ---
-## CVE-2024-25693 ()
-> 
+## CVE-2024-25693 (2024-04-04T18:15:00)
+> There is a path traversal in Esri Portal for ArcGIS versions <= 11.2.  Successful exploitation may allow a remote, authenticated attacker to traverse the file system to access files or execute code outside of the intended directory. 
 - [MrCyb3rSec/CVE-2024-25693-exploit](https://github.com/MrCyb3rSec/CVE-2024-25693-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyb3rSec/CVE-2024-25693-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyb3rSec/CVE-2024-25693-exploit">
 - [MrSecby/CVE-2024-25693-exploit](https://github.com/MrSecby/CVE-2024-25693-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MrSecby/CVE-2024-25693-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MrSecby/CVE-2024-25693-exploit">
 - [AlexDoe11/CVE-2024-25693-exploit](https://github.com/AlexDoe11/CVE-2024-25693-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-25693-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-25693-exploit">
