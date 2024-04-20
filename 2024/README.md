@@ -1101,6 +1101,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [p14t1num/cve-2024-24576-python](https://github.com/p14t1num/cve-2024-24576-python)	<img alt="forks" src="https://img.shields.io/github/forks/p14t1num/cve-2024-24576-python">	<img alt="stars" src="https://img.shields.io/github/stars/p14t1num/cve-2024-24576-python">
 - [Gaurav1020/CVE-2024-24576-PoC-Rust](https://github.com/Gaurav1020/CVE-2024-24576-PoC-Rust)	<img alt="forks" src="https://img.shields.io/github/forks/Gaurav1020/CVE-2024-24576-PoC-Rust">	<img alt="stars" src="https://img.shields.io/github/stars/Gaurav1020/CVE-2024-24576-PoC-Rust">
 - [Gaurav1020/CVE-2024-24576-PoC-Rust](https://github.com/Gaurav1020/CVE-2024-24576-PoC-Rust)	<img alt="forks" src="https://img.shields.io/github/forks/Gaurav1020/CVE-2024-24576-PoC-Rust">	<img alt="stars" src="https://img.shields.io/github/stars/Gaurav1020/CVE-2024-24576-PoC-Rust">
+- [Gaurav1020/CVE-2024-24576-PoC-Rust](https://github.com/Gaurav1020/CVE-2024-24576-PoC-Rust)	<img alt="forks" src="https://img.shields.io/github/forks/Gaurav1020/CVE-2024-24576-PoC-Rust">	<img alt="stars" src="https://img.shields.io/github/stars/Gaurav1020/CVE-2024-24576-PoC-Rust">
 
 ---
 ## CVE-2024-24567 (2024-01-30T21:15:00)
