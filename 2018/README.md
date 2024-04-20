@@ -54,6 +54,11 @@
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
 
 ---
+## CVE-2018-8062 (2020-10-23T05:15:00)
+> A cross-site scripting (XSS) vulnerability on Comtrend AR-5387un devices with A731-410JAZ-C04_R02.A2pD035g.d23i firmware allows remote attackers to inject arbitrary web script or HTML via the Service Description parameter while creating a WAN service.
+- [OscarAkaElvis/CVE-2018-8062](https://github.com/OscarAkaElvis/CVE-2018-8062)	<img alt="forks" src="https://img.shields.io/github/forks/OscarAkaElvis/CVE-2018-8062">	<img alt="stars" src="https://img.shields.io/github/stars/OscarAkaElvis/CVE-2018-8062">
+
+---
 ## CVE-2018-7854 (2019-05-22T21:29:00)
 > A CWE-248 Uncaught Exception vulnerability exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum, and Modicon Premium which could cause a denial of Service when sending invalid debug parameters to the controller over Modbus.
 - [yanissec/CVE-2018-7854](https://github.com/yanissec/CVE-2018-7854)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7854">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7854">
