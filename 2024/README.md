@@ -111,6 +111,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-32238 ()
 > 
 - [asdfjkl11/CVE-2024-32238](https://github.com/asdfjkl11/CVE-2024-32238)	<img alt="forks" src="https://img.shields.io/github/forks/asdfjkl11/CVE-2024-32238">	<img alt="stars" src="https://img.shields.io/github/stars/asdfjkl11/CVE-2024-32238">
+- [FuBoLuSec/CVE-2024-32238](https://github.com/FuBoLuSec/CVE-2024-32238)	<img alt="forks" src="https://img.shields.io/github/forks/FuBoLuSec/CVE-2024-32238">	<img alt="stars" src="https://img.shields.io/github/stars/FuBoLuSec/CVE-2024-32238">
 
 ---
 ## CVE-2024-32205 ()
