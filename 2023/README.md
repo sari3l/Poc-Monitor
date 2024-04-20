@@ -482,6 +482,11 @@ to load arbitrary JavaScript code.
 - [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126)	<img alt="forks" src="https://img.shields.io/github/forks/risuxx/CVE-2023-51126">	<img alt="stars" src="https://img.shields.io/github/stars/risuxx/CVE-2023-51126">
 
 ---
+## CVE-2023-51119 ()
+> 
+- [OscarAkaElvis/CVE-2023-51119](https://github.com/OscarAkaElvis/CVE-2023-51119)	<img alt="forks" src="https://img.shields.io/github/forks/OscarAkaElvis/CVE-2023-51119">	<img alt="stars" src="https://img.shields.io/github/stars/OscarAkaElvis/CVE-2023-51119">
+
+---
 ## CVE-2023-51073 (2024-01-11T03:15:00)
 > An issue in Buffalo LS210D v.1.78-0.03 allows a remote attacker to execute arbitrary code via the Firmware Update Script at /etc/init.d/update_notifications.sh.
 - [christopher-pace/CVE-2023-51073](https://github.com/christopher-pace/CVE-2023-51073)	<img alt="forks" src="https://img.shields.io/github/forks/christopher-pace/CVE-2023-51073">	<img alt="stars" src="https://img.shields.io/github/stars/christopher-pace/CVE-2023-51073">
