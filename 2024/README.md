@@ -261,6 +261,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [drdry2/CVE-2024-3094-EXPLOIT](https://github.com/drdry2/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/drdry2/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/drdry2/CVE-2024-3094-EXPLOIT">
 - [fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-](https://github.com/fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-">
 - [AlexDoe11/CVE-2024-3094-EXPLOIT](https://github.com/AlexDoe11/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-3094-EXPLOIT">
+- [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094)	<img alt="forks" src="https://img.shields.io/github/forks/buluma/ansible-role-cve_2024_3094">	<img alt="stars" src="https://img.shields.io/github/stars/buluma/ansible-role-cve_2024_3094">
+- [neuralinhibitor/xzwhy](https://github.com/neuralinhibitor/xzwhy)	<img alt="forks" src="https://img.shields.io/github/forks/neuralinhibitor/xzwhy">	<img alt="stars" src="https://img.shields.io/github/stars/neuralinhibitor/xzwhy">
 
 ---
 ## CVE-2024-30937 ()
