@@ -5338,6 +5338,11 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [mnqazi/CVE-2023-2591](https://github.com/mnqazi/CVE-2023-2591)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-2591">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-2591">
 
 ---
+## CVE-2023-25813 (2023-02-22T19:15:00)
+> Sequelize is a Node.js ORM tool. In versions prior to 6.19.1 a SQL injection exploit exists related to replacements. Parameters which are passed through replacements are not properly escaped which can lead to arbitrary SQL injection depending on the specific queries in use. The issue has been fixed in Sequelize 6.19.1. Users are advised to upgrade. Users unable to upgrade should not use the `replacements` and the `where` option in the same query.
+- [bde574786/Sequelize-1day-CVE-2023-25813](https://github.com/bde574786/Sequelize-1day-CVE-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/bde574786/Sequelize-1day-CVE-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/bde574786/Sequelize-1day-CVE-2023-25813">
+
+---
 ## CVE-2023-25725 (2023-02-14T19:15:00)
 > HAProxy before 2.7.3 may allow a bypass of access control because HTTP/1 headers are inadvertently lost in some situations, aka "request smuggling." The HTTP header parsers in HAProxy may accept empty header field names, which could be used to truncate the list of HTTP headers and thus make some headers disappear after being parsed and processed for HTTP/1.0 and HTTP/1.1. For HTTP/2 and HTTP/3, the impact is limited because the headers disappear before being parsed and processed, as if they had not been sent by the client. The fixed versions are 2.7.3, 2.6.9, 2.5.12, 2.4.22, 2.2.29, and 2.0.31.
 - [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725)	<img alt="forks" src="https://img.shields.io/github/forks/sgwgsw/LAB-CVE-2023-25725">	<img alt="stars" src="https://img.shields.io/github/stars/sgwgsw/LAB-CVE-2023-25725">
