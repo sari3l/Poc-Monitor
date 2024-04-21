@@ -840,8 +840,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Alaatk/CVE-2024-27462](https://github.com/Alaatk/CVE-2024-27462)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27462">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27462">
 
 ---
-## CVE-2024-27316 ()
-> 
+## CVE-2024-27316 (2024-04-04T20:15:00)
+> HTTP/2 incoming headers exceeding the limit are temporarily buffered in nghttp2 in order to generate an informative HTTP 413 response. If a client does not stop sending headers, this leads to memory exhaustion.
 - [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/CVE-2024-27316">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/CVE-2024-27316">
 - [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2024-27316_poc">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2024-27316_poc">
 
