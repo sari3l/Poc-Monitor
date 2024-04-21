@@ -4641,6 +4641,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Praveenms13/CVE-2023-29489](https://github.com/Praveenms13/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Praveenms13/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Praveenms13/CVE-2023-29489">
 - [some-man1/CVE-2023-29489](https://github.com/some-man1/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/some-man1/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/some-man1/CVE-2023-29489">
 - [mdaseem03/cpanel_xss_2023](https://github.com/mdaseem03/cpanel_xss_2023)	<img alt="forks" src="https://img.shields.io/github/forks/mdaseem03/cpanel_xss_2023">	<img alt="stars" src="https://img.shields.io/github/stars/mdaseem03/cpanel_xss_2023">
+- [Cappricio-Securities/CVE-2023-29489](https://github.com/Cappricio-Securities/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-29489">
 
 ---
 ## CVE-2023-29439 (2023-05-16T15:15:00)
