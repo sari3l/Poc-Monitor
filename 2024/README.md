@@ -861,6 +861,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-27199 (2024-03-04T18:15:00)
 > In JetBrains TeamCity before 2023.11.4 path traversal allowing to perform limited admin actions  was possible
 - [Stuub/RCity-CVE-2024-27199](https://github.com/Stuub/RCity-CVE-2024-27199)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/RCity-CVE-2024-27199">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/RCity-CVE-2024-27199">
+- [Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-](https://github.com/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-)	<img alt="forks" src="https://img.shields.io/github/forks/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-">	<img alt="stars" src="https://img.shields.io/github/stars/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-">
+- [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-27198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-27198-RCE">
 
 ---
 ## CVE-2024-27198 (2024-03-04T18:15:00)
