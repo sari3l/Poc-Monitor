@@ -1621,6 +1621,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [terrorist/HTTP-2-Rapid-Reset-Client](https://github.com/terrorist/HTTP-2-Rapid-Reset-Client)	<img alt="forks" src="https://img.shields.io/github/forks/terrorist/HTTP-2-Rapid-Reset-Client">	<img alt="stars" src="https://img.shields.io/github/stars/terrorist/HTTP-2-Rapid-Reset-Client">
 - [ndrscodes/http2-rst-stream-attacker](https://github.com/ndrscodes/http2-rst-stream-attacker)	<img alt="forks" src="https://img.shields.io/github/forks/ndrscodes/http2-rst-stream-attacker">	<img alt="stars" src="https://img.shields.io/github/stars/ndrscodes/http2-rst-stream-attacker">
 - [sigridou/CVE-2023-44487-](https://github.com/sigridou/CVE-2023-44487-)	<img alt="forks" src="https://img.shields.io/github/forks/sigridou/CVE-2023-44487-">	<img alt="stars" src="https://img.shields.io/github/stars/sigridou/CVE-2023-44487-">
+- [TYuan0816/cve-2023-44487](https://github.com/TYuan0816/cve-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/TYuan0816/cve-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/TYuan0816/cve-2023-44487">
 
 ---
 ## CVE-2023-44353 ()
