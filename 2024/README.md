@@ -1876,6 +1876,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/d4rks1d33/C-PoC-for-CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/d4rks1d33/C-PoC-for-CVE-2024-21306">
 
 ---
+## CVE-2024-21111 (2024-04-16T22:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 7.0.16. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. Note: This vulnerability applies to Windows hosts only. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).
+- [mansk1es/CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-21111">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-21111">
+
+---
 ## CVE-2024-21107 (2024-04-16T22:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 7.0.16. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. Note: This vulnerability applies to Windows hosts only. CVSS 3.1 Base Score 6.7 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
 - [Alaatk/CVE-2024-21107](https://github.com/Alaatk/CVE-2024-21107)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-21107">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-21107">
