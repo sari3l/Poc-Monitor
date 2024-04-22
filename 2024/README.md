@@ -155,6 +155,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [JohnNetSouldRU/CVE-2024-31497-POC](https://github.com/JohnNetSouldRU/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-31497-POC">
 - [sh1k4ku/CVE-2024-31497](https://github.com/sh1k4ku/CVE-2024-31497)	<img alt="forks" src="https://img.shields.io/github/forks/sh1k4ku/CVE-2024-31497">	<img alt="stars" src="https://img.shields.io/github/stars/sh1k4ku/CVE-2024-31497">
 - [edutko/cve-2024-31497](https://github.com/edutko/cve-2024-31497)	<img alt="forks" src="https://img.shields.io/github/forks/edutko/cve-2024-31497">	<img alt="stars" src="https://img.shields.io/github/stars/edutko/cve-2024-31497">
+- [ViktorNaum/CVE-2024-31497-POC](https://github.com/ViktorNaum/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ViktorNaum/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ViktorNaum/CVE-2024-31497-POC">
 
 ---
 ## CVE-2024-31380 ()
