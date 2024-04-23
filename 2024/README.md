@@ -206,8 +206,9 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Chokopikkk/CVE-2024-31218_exploit](https://github.com/Chokopikkk/CVE-2024-31218_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopikkk/CVE-2024-31218_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopikkk/CVE-2024-31218_exploit">
 
 ---
-## CVE-2024-3116 ()
-> 
+## CVE-2024-3116 (2024-04-04T15:15:00)
+> pgAdmin <= 8.4 is affected by a  Remote Code Execution (RCE) vulnerability through the validate binary path API. This vulnerability allows attackers to execute arbitrary code on the server hosting PGAdmin, posing a severe risk to the database management system's integrity and the security of the underlying data.
+
 - [FoxyProxys/CVE-2024-3116](https://github.com/FoxyProxys/CVE-2024-3116)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3116">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3116">
 - [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4)	<img alt="forks" src="https://img.shields.io/github/forks/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4">	<img alt="stars" src="https://img.shields.io/github/stars/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4">
 
