@@ -37,6 +37,11 @@
 - [qt2a23/CVE-2024-4040](https://github.com/qt2a23/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/qt2a23/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/qt2a23/CVE-2024-4040">
 
 ---
+## CVE-2024-3902 ()
+> 
+- [OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit](https://github.com/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">
+
+---
 ## CVE-2024-3867 (2024-04-16T10:15:00)
 > The archive-tainacan-collection theme for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of add_query_arg without appropriate escaping on the URL in version 2.7.2. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.
 - [RansomGroupCVE/CVE-2024-3867-POC](https://github.com/RansomGroupCVE/CVE-2024-3867-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-3867-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-3867-POC">
