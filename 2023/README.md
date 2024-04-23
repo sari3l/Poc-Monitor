@@ -389,6 +389,7 @@ to load arbitrary JavaScript code.
 
 
 - [RandomRobbieBF/CVE-2023-51409](https://github.com/RandomRobbieBF/CVE-2023-51409)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-51409">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-51409">
+- [imhunterand/CVE-2023-51409](https://github.com/imhunterand/CVE-2023-51409)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2023-51409">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2023-51409">
 
 ---
 ## CVE-2023-51385 (2023-12-18T19:15:00)
