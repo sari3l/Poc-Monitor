@@ -35,6 +35,7 @@
 > VFS Sandbox Escape in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows remote attackers with low privileges to read files from the filesystem outside of VFS Sandbox.
 
 - [qt2a23/CVE-2024-4040](https://github.com/qt2a23/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/qt2a23/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/qt2a23/CVE-2024-4040">
+- [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/CVE-2024-4040">
 
 ---
 ## CVE-2024-3902 ()
