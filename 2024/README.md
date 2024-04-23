@@ -127,8 +127,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [NN0b0dy/CVE-2024-3239](https://github.com/NN0b0dy/CVE-2024-3239)	<img alt="forks" src="https://img.shields.io/github/forks/NN0b0dy/CVE-2024-3239">	<img alt="stars" src="https://img.shields.io/github/stars/NN0b0dy/CVE-2024-3239">
 
 ---
-## CVE-2024-32258 ()
-> 
+## CVE-2024-32258 (2024-04-23T16:15:00)
+> The network server of fceux 2.7.0 has a path traversal vulnerability, allowing attackers to overwrite any files on the server without authentication by fake ROM.
 - [liyansong2018/CVE-2024-32258](https://github.com/liyansong2018/CVE-2024-32258)	<img alt="forks" src="https://img.shields.io/github/forks/liyansong2018/CVE-2024-32258">	<img alt="stars" src="https://img.shields.io/github/stars/liyansong2018/CVE-2024-32258">
 
 ---
