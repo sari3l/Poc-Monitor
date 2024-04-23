@@ -108,6 +108,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [K3ysTr0K3R/CVE-2024-3273-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-3273-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-3273-EXPLOIT">
 - [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-3273">
 - [LeopoldSkell/CVE-2024-3273](https://github.com/LeopoldSkell/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/LeopoldSkell/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/LeopoldSkell/CVE-2024-3273">
+- [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-)	<img alt="forks" src="https://img.shields.io/github/forks/mrrobot0o/CVE-2024-3273-">	<img alt="stars" src="https://img.shields.io/github/stars/mrrobot0o/CVE-2024-3273-">
 
 ---
 ## CVE-2024-32399 (2024-04-22T20:15:00)
