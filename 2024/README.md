@@ -1039,6 +1039,11 @@ overflow.
 - [sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25278">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25278">
 
 ---
+## CVE-2024-25277 ()
+> 
+- [maen08/CVE-2024-25277](https://github.com/maen08/CVE-2024-25277)	<img alt="forks" src="https://img.shields.io/github/forks/maen08/CVE-2024-25277">	<img alt="stars" src="https://img.shields.io/github/stars/maen08/CVE-2024-25277">
+
+---
 ## CVE-2024-25270 ()
 > 
 - [fbkcs/CVE-2024-25270](https://github.com/fbkcs/CVE-2024-25270)	<img alt="forks" src="https://img.shields.io/github/forks/fbkcs/CVE-2024-25270">	<img alt="stars" src="https://img.shields.io/github/stars/fbkcs/CVE-2024-25270">
@@ -1896,6 +1901,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [hakaioffsec/CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2024-21338">
 - [UMU618/CVE-2024-21338](https://github.com/UMU618/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/UMU618/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/UMU618/CVE-2024-21338">
 - [huseyinstif/CVE-2024-21338-main](https://github.com/huseyinstif/CVE-2024-21338-main)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-21338-main">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-21338-main">
+- [varwara/CVE-2024-21338](https://github.com/varwara/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-21338">
 
 ---
 ## CVE-2024-21334 (2024-03-12T17:15:00)
