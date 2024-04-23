@@ -36,6 +36,7 @@
 
 - [qt2a23/CVE-2024-4040](https://github.com/qt2a23/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/qt2a23/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/qt2a23/CVE-2024-4040">
 - [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/CVE-2024-4040">
+- [tr4c3rs/CVE-2024-4040-RCE-POC](https://github.com/tr4c3rs/CVE-2024-4040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr4c3rs/CVE-2024-4040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr4c3rs/CVE-2024-4040-RCE-POC">
 
 ---
 ## CVE-2024-3902 ()
