@@ -94,6 +94,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [stronglier/CVE-2024-3400](https://github.com/stronglier/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/stronglier/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/stronglier/CVE-2024-3400">
 - [Kr0ff/cve-2024-3400](https://github.com/Kr0ff/cve-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/Kr0ff/cve-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/Kr0ff/cve-2024-3400">
 - [zam89/CVE-2024-3400-pot](https://github.com/zam89/CVE-2024-3400-pot)	<img alt="forks" src="https://img.shields.io/github/forks/zam89/CVE-2024-3400-pot">	<img alt="stars" src="https://img.shields.io/github/stars/zam89/CVE-2024-3400-pot">
+- [terminalJunki3/CVE-2024-3400-Checker](https://github.com/terminalJunki3/CVE-2024-3400-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/terminalJunki3/CVE-2024-3400-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/terminalJunki3/CVE-2024-3400-Checker">
 
 ---
 ## CVE-2024-33333 ()
