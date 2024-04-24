@@ -619,6 +619,12 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [AlexDoe11/CVE-2024-29988-MS-Exchange-RCE](https://github.com/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE">
 
 ---
+## CVE-2024-2961 (2024-04-17T18:15:00)
+> The iconv() function in the GNU C Library versions 2.39 and older may overflow the output buffer passed to it by up to 4 bytes when converting strings to the ISO-2022-CN-EXT character set, which may be used to crash an application or overwrite a neighbouring variable.
+
+- [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/mattaperkins/FIX-CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/mattaperkins/FIX-CVE-2024-2961">
+
+---
 ## CVE-2024-29455 (2024-04-11T05:15:00)
 > An arbitrary file upload vulnerability has been discovered in ROS2 Humble Hawksbill in ROS_VERSION 2 and ROS_PYTHON_VERSION 3, allows attackers to execute arbitrary code, cause a denial of service (DoS), and obtain sensitive information via crafted payload to the file upload mechanism of the ROS2 system, including the server’s functionality for handling file uploads and the associated validation processes. NOTE: this is disputed by multiple third parties who believe there was not reasonable evidence to determine the existence of a vulnerability.
 - [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29455">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29455">
