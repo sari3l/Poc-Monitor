@@ -56,6 +56,11 @@
 - [Live-Hack-CVE/CVE-2019-9718](https://github.com/Live-Hack-CVE/CVE-2019-9718)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9718">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9718">
 
 ---
+## CVE-2019-9670 (2019-05-29T22:29:00)
+> mailboxd component in Synacor Zimbra Collaboration Suite 8.7.x before 8.7.11p10 has an XML External Entity injection (XXE) vulnerability, as demonstrated by Autodiscover/Autodiscover.xml.
+- [Cappricio-Securities/CVE-2019-9670](https://github.com/Cappricio-Securities/CVE-2019-9670)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2019-9670">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2019-9670">
+
+---
 ## CVE-2019-9634 (2019-03-08T15:29:00)
 > Go through 1.12 on Windows misuses certain LoadLibrary functionality, leading to DLL injection.
 - [Live-Hack-CVE/CVE-2019-9634](https://github.com/Live-Hack-CVE/CVE-2019-9634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9634">
