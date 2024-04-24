@@ -97,6 +97,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [terminalJunki3/CVE-2024-3400-Checker](https://github.com/terminalJunki3/CVE-2024-3400-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/terminalJunki3/CVE-2024-3400-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/terminalJunki3/CVE-2024-3400-Checker">
 
 ---
+## CVE-2024-33438 ()
+> 
+- [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-33438">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-33438">
+
+---
 ## CVE-2024-33333 ()
 > 
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
