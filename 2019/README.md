@@ -59,6 +59,10 @@
 ## CVE-2019-9670 (2019-05-29T22:29:00)
 > mailboxd component in Synacor Zimbra Collaboration Suite 8.7.x before 8.7.11p10 has an XML External Entity injection (XXE) vulnerability, as demonstrated by Autodiscover/Autodiscover.xml.
 - [Cappricio-Securities/CVE-2019-9670](https://github.com/Cappricio-Securities/CVE-2019-9670)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2019-9670">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2019-9670">
+- [oppsec/zaber](https://github.com/oppsec/zaber)	<img alt="forks" src="https://img.shields.io/github/forks/oppsec/zaber">	<img alt="stars" src="https://img.shields.io/github/stars/oppsec/zaber">
+- [oppsec/arbimz](https://github.com/oppsec/arbimz)	<img alt="forks" src="https://img.shields.io/github/forks/oppsec/arbimz">	<img alt="stars" src="https://img.shields.io/github/stars/oppsec/arbimz">
+- [rek7/Zimbra-RCE](https://github.com/rek7/Zimbra-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rek7/Zimbra-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rek7/Zimbra-RCE">
+- [attackgithub/Zimbra-RCE](https://github.com/attackgithub/Zimbra-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/attackgithub/Zimbra-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/attackgithub/Zimbra-RCE">
 
 ---
 ## CVE-2019-9634 (2019-03-08T15:29:00)
