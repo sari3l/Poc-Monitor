@@ -38,6 +38,7 @@
 - [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/CVE-2024-4040">
 - [tr4c3rs/CVE-2024-4040-RCE-POC](https://github.com/tr4c3rs/CVE-2024-4040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr4c3rs/CVE-2024-4040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr4c3rs/CVE-2024-4040-RCE-POC">
 - [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2024-4040-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2024-4040-Scanner">
+- [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/rbih-boulanouar/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/rbih-boulanouar/CVE-2024-4040">
 
 ---
 ## CVE-2024-3902 ()
