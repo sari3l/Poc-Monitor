@@ -98,6 +98,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Kr0ff/cve-2024-3400](https://github.com/Kr0ff/cve-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/Kr0ff/cve-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/Kr0ff/cve-2024-3400">
 - [zam89/CVE-2024-3400-pot](https://github.com/zam89/CVE-2024-3400-pot)	<img alt="forks" src="https://img.shields.io/github/forks/zam89/CVE-2024-3400-pot">	<img alt="stars" src="https://img.shields.io/github/stars/zam89/CVE-2024-3400-pot">
 - [terminalJunki3/CVE-2024-3400-Checker](https://github.com/terminalJunki3/CVE-2024-3400-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/terminalJunki3/CVE-2024-3400-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/terminalJunki3/CVE-2024-3400-Checker">
+- [0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection](https://github.com/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection">
 
 ---
 ## CVE-2024-33438 ()
@@ -192,8 +193,10 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [ViktorNaum/CVE-2024-31497-POC](https://github.com/ViktorNaum/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ViktorNaum/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ViktorNaum/CVE-2024-31497-POC">
 
 ---
-## CVE-2024-31380 ()
-> 
+## CVE-2024-31380 (2024-04-03T12:15:00)
+> Improper Control of Generation of Code ('Code Injection') vulnerability in Soflyy Oxygen Builder allows Code Injection.This issue affects Oxygen Builder: from n/a through 4.8.2.
+
+
 - [Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopik/CVE-2024-31380-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopik/CVE-2024-31380-POC">
 
 ---
