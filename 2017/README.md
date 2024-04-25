@@ -220,6 +220,7 @@
 - [liusec/CVE-2017-7529](https://github.com/liusec/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/liusec/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/liusec/CVE-2017-7529">
 - [coolman6942o/-Exploit-CVE-2017-7529](https://github.com/coolman6942o/-Exploit-CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/coolman6942o/-Exploit-CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/coolman6942o/-Exploit-CVE-2017-7529">
 - [CalebFIN/EXP-CVE-2017-75](https://github.com/CalebFIN/EXP-CVE-2017-75)	<img alt="forks" src="https://img.shields.io/github/forks/CalebFIN/EXP-CVE-2017-75">	<img alt="stars" src="https://img.shields.io/github/stars/CalebFIN/EXP-CVE-2017-75">
+- [SirEagIe/CVE-2017-7529](https://github.com/SirEagIe/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/SirEagIe/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/SirEagIe/CVE-2017-7529">
 
 ---
 ## CVE-2017-75 ()

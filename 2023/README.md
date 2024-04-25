@@ -603,6 +603,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [n-etupirka/CVE-2023-50164](https://github.com/n-etupirka/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/n-etupirka/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/n-etupirka/CVE-2023-50164">
 - [AsfandAliMemon25/AsfandAliMemon25-CVE-2023-50164-Analysis](https://github.com/AsfandAliMemon25/AsfandAliMemon25-CVE-2023-50164-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/AsfandAliMemon25/AsfandAliMemon25-CVE-2023-50164-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/AsfandAliMemon25/AsfandAliMemon25-CVE-2023-50164-Analysis">
 - [AsfandAliMemon25/CVE-2023-50164Analysis-](https://github.com/AsfandAliMemon25/CVE-2023-50164Analysis-)	<img alt="forks" src="https://img.shields.io/github/forks/AsfandAliMemon25/CVE-2023-50164Analysis-">	<img alt="stars" src="https://img.shields.io/github/stars/AsfandAliMemon25/CVE-2023-50164Analysis-">
+- [minhbao15677/CVE-2023-50164](https://github.com/minhbao15677/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/minhbao15677/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/minhbao15677/CVE-2023-50164">
 
 ---
 ## CVE-2023-50132 ()
