@@ -275,6 +275,11 @@
 - [hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc](https://github.com/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">
 
 ---
+## CVE-2019-7529 ()
+> 
+- [SirEagIe/CVE-2019-7529](https://github.com/SirEagIe/CVE-2019-7529)	<img alt="forks" src="https://img.shields.io/github/forks/SirEagIe/CVE-2019-7529">	<img alt="stars" src="https://img.shields.io/github/stars/SirEagIe/CVE-2019-7529">
+
+---
 ## CVE-2019-7304 (2019-04-23T16:29:00)
 > Canonical snapd before version 2.37.1 incorrectly performed socket owner validation, allowing an attacker to run arbitrary commands as root. This issue affects: Canonical snapd versions prior to 2.37.1.
 - [Live-Hack-CVE/CVE-2019-7304](https://github.com/Live-Hack-CVE/CVE-2019-7304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7304">
