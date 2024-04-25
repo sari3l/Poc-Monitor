@@ -766,6 +766,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [JohnNetSouldRU/CVE-2024-2879-POC](https://github.com/JohnNetSouldRU/CVE-2024-2879-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-2879-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-2879-POC">
 
 ---
+## CVE-2024-2876 ()
+> 
+- [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
+
+---
 ## CVE-2024-28741 ()
 > 
 - [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-28741-northstar-agent-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-28741-northstar-agent-rce-poc">
