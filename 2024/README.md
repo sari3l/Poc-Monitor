@@ -2035,8 +2035,8 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)	<img alt="forks" src="https://img.shields.io/github/forks/Madan301/CVE-2024-2054">	<img alt="stars" src="https://img.shields.io/github/stars/Madan301/CVE-2024-2054">
 
 ---
-## CVE-2024-20356 ()
-> 
+## CVE-2024-20356 (2024-04-24T20:15:00)
+> A vulnerability in the web-based management interface of Cisco Integrated Management Controller (IMC) could allow an authenticated, remote attacker with Administrator-level privileges to perform command injection attacks on an affected system and elevate their privileges to root. This vulnerability is due to insufficient user input validation. An attacker could exploit this vulnerability by sending crafted commands to the web-based management interface of the affected software. A successful exploit could allow the attacker to elevate their privileges to root.
 - [nettitude/CVE-2024-20356](https://github.com/nettitude/CVE-2024-20356)	<img alt="forks" src="https://img.shields.io/github/forks/nettitude/CVE-2024-20356">	<img alt="stars" src="https://img.shields.io/github/stars/nettitude/CVE-2024-20356">
 
 ---
