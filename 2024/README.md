@@ -976,6 +976,11 @@ overflow.
 - [TronciuVlad/CVE-2024-26475](https://github.com/TronciuVlad/CVE-2024-26475)	<img alt="forks" src="https://img.shields.io/github/forks/TronciuVlad/CVE-2024-26475">	<img alt="stars" src="https://img.shields.io/github/stars/TronciuVlad/CVE-2024-26475">
 
 ---
+## CVE-2024-26218 (2024-04-09T17:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability
+- [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/CVE-2024-26218">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/CVE-2024-26218">
+
+---
 ## CVE-2024-26198 (2024-03-12T17:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability
 - [MrCyberSec/CVE-2024-26198-Exchange-RCE](https://github.com/MrCyberSec/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSec/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSec/CVE-2024-26198-Exchange-RCE">
