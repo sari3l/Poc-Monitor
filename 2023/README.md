@@ -1711,6 +1711,11 @@ and trace malicious activities. Users are advised to upgrade to Apache InLong's
 - [Mr-xn/CVE-2023-43482](https://github.com/Mr-xn/CVE-2023-43482)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2023-43482">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2023-43482">
 
 ---
+## CVE-2023-43364 (2023-12-12T18:15:00)
+> main.py in Searchor before 2.4.2 uses eval on CLI input, which may cause unexpected code execution.
+- [libertycityhacker/CVE-2023-43364-Exploit-CVE](https://github.com/libertycityhacker/CVE-2023-43364-Exploit-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/libertycityhacker/CVE-2023-43364-Exploit-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/libertycityhacker/CVE-2023-43364-Exploit-CVE">
+
+---
 ## CVE-2023-43326 (2023-09-25T22:15:00)
 > mooSocial v3.1.8 was discovered to contain a cross-site scripting (XSS) vulnerability via the change email function.
 - [ahrixia/CVE-2023-43326](https://github.com/ahrixia/CVE-2023-43326)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43326">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43326">
