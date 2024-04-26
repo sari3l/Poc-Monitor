@@ -40,7 +40,7 @@
 - [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2024-4040-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2024-4040-Scanner">
 - [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/rbih-boulanouar/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/rbih-boulanouar/CVE-2024-4040">
 - [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2024-4040">
-- [Stuub/CVE-2024-4040-SSTI-LFI](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-4040-SSTI-LFI">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-4040-SSTI-LFI">
+- [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-4040-SSTI-LFI-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-4040-SSTI-LFI-PoC">
 
 ---
 ## CVE-2024-3902 ()
