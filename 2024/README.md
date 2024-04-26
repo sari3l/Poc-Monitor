@@ -1925,6 +1925,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [d0rb/CVE-2024-21378](https://github.com/d0rb/CVE-2024-21378)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-21378">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-21378">
 
 ---
+## CVE-2024-21345 (2024-02-13T18:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability
+- [exploits-forsale/CVE-2024-21345](https://github.com/exploits-forsale/CVE-2024-21345)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/CVE-2024-21345">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/CVE-2024-21345">
+
+---
 ## CVE-2024-21338 (2024-02-13T18:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [gogobuster/CVE-2024-21338-POC](https://github.com/gogobuster/CVE-2024-21338-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21338-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21338-POC">
