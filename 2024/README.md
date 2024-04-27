@@ -853,6 +853,13 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/CVE-2024-27983-nodejs-http2">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/CVE-2024-27983-nodejs-http2">
 
 ---
+## CVE-2024-27956 (2024-03-21T17:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in ValvePress Automatic allows SQL Injection.This issue affects Automatic: from n/a through 3.92.0.
+
+
+- [truonghuuphuc/CVE-2024-27956](https://github.com/truonghuuphuc/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-27956">
+
+---
 ## CVE-2024-27697 ()
 > 
 - [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697)	<img alt="forks" src="https://img.shields.io/github/forks/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">	<img alt="stars" src="https://img.shields.io/github/stars/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">
