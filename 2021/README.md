@@ -2847,6 +2847,7 @@
 - [FancySauce/PwnKit-CVE-2021-4034](https://github.com/FancySauce/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/FancySauce/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/FancySauce/PwnKit-CVE-2021-4034">
 - [wechicken456/CVE-2021-4034-CTF-writeup](https://github.com/wechicken456/CVE-2021-4034-CTF-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/wechicken456/CVE-2021-4034-CTF-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/wechicken456/CVE-2021-4034-CTF-writeup">
 - [ASG-CASTLE/CVE-2021-4034](https://github.com/ASG-CASTLE/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/ASG-CASTLE/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/ASG-CASTLE/CVE-2021-4034">
+- [artemis-mike/cve-2021-4034](https://github.com/artemis-mike/cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/artemis-mike/cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/artemis-mike/cve-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)

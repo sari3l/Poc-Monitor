@@ -101,6 +101,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [terminalJunki3/CVE-2024-3400-Checker](https://github.com/terminalJunki3/CVE-2024-3400-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/terminalJunki3/CVE-2024-3400-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/terminalJunki3/CVE-2024-3400-Checker">
 - [0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection](https://github.com/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection">
 - [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/marconesler/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/marconesler/CVE-2024-3400">
+- [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/marconesler/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/marconesler/CVE-2024-3400">
 
 ---
 ## CVE-2024-33438 ()
