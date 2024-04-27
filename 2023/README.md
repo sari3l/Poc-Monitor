@@ -5915,6 +5915,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255)	<img alt="forks" src="https://img.shields.io/github/forks/elweth-sec/CVE-2023-2255">	<img alt="stars" src="https://img.shields.io/github/stars/elweth-sec/CVE-2023-2255">
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 - [Mathieuleto/CVE-2023-2255](https://github.com/Mathieuleto/CVE-2023-2255)	<img alt="forks" src="https://img.shields.io/github/forks/Mathieuleto/CVE-2023-2255">	<img alt="stars" src="https://img.shields.io/github/stars/Mathieuleto/CVE-2023-2255">
+- [SaintMichae64/CVE-2023-2255](https://github.com/SaintMichae64/CVE-2023-2255)	<img alt="forks" src="https://img.shields.io/github/forks/SaintMichae64/CVE-2023-2255">	<img alt="stars" src="https://img.shields.io/github/stars/SaintMichae64/CVE-2023-2255">
 
 ---
 ## CVE-2023-22527 (2024-01-16T05:15:00)
