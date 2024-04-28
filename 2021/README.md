@@ -1743,6 +1743,11 @@
 - [Live-Hack-CVE/CVE-2021-42192](https://github.com/Live-Hack-CVE/CVE-2021-42192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42192">
 
 ---
+## CVE-2021-42183 (2022-05-05T14:15:00)
+> MasaCMS 7.2.1 is affected by a path traversal vulnerability in /index.cfm/_api/asset/image/.
+- [0xRaw/CVE-2021-42183](https://github.com/0xRaw/CVE-2021-42183)	<img alt="forks" src="https://img.shields.io/github/forks/0xRaw/CVE-2021-42183">	<img alt="stars" src="https://img.shields.io/github/stars/0xRaw/CVE-2021-42183">
+
+---
 ## CVE-2021-4218 (2022-08-24T16:15:00)
 > A flaw was found in the Linux kernel’s implementation of reading the SVC RDMA counters. Reading the counter sysctl panics the system. This flaw allows a local attacker with local access to cause a denial of service while the system reboots. The issue is specific to CentOS/RHEL.
 - [Live-Hack-CVE/CVE-2021-4218](https://github.com/Live-Hack-CVE/CVE-2021-4218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4218">
