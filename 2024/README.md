@@ -958,7 +958,7 @@ overflow.
 ---
 ## CVE-2024-2667 ()
 > 
-- [Puvipavan/CVE-2024-2667-POC](https://github.com/Puvipavan/CVE-2024-2667-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Puvipavan/CVE-2024-2667-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Puvipavan/CVE-2024-2667-POC">
+- [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667)	<img alt="forks" src="https://img.shields.io/github/forks/Puvipavan/CVE-2024-2667">	<img alt="stars" src="https://img.shields.io/github/stars/Puvipavan/CVE-2024-2667">
 
 ---
 ## CVE-2024-26574 ()
