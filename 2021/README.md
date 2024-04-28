@@ -6769,6 +6769,7 @@
 - [vpxuser/CVE-2021-26084-EXP](https://github.com/vpxuser/CVE-2021-26084-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/vpxuser/CVE-2021-26084-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/vpxuser/CVE-2021-26084-EXP">
 - [Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE](https://github.com/Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE">
 - [Jeromeyoung/CVE-2021-26086](https://github.com/Jeromeyoung/CVE-2021-26086)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-26086">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-26086">
+- [nahcusira/CVE-2021-26084](https://github.com/nahcusira/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/nahcusira/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/nahcusira/CVE-2021-26084">
 
 ---
 ## CVE-2021-25956 (2021-08-17T15:15:00)
