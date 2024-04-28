@@ -1779,6 +1779,11 @@
 - [Live-Hack-CVE/CVE-2021-42067](https://github.com/Live-Hack-CVE/CVE-2021-42067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42067">
 
 ---
+## CVE-2021-42063 (2021-12-14T16:15:00)
+> A security vulnerability has been discovered in the SAP Knowledge Warehouse - versions 7.30, 7.31, 7.40, 7.50. The usage of one SAP KW component within a Web browser enables unauthorized attackers to conduct XSS attacks, which might lead to disclose sensitive data.
+- [Cappricio-Securities/CVE-2021-42063](https://github.com/Cappricio-Securities/CVE-2021-42063)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2021-42063">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2021-42063">
+
+---
 ## CVE-2021-42056 (2022-06-24T17:15:00)
 > Thales Safenet Authentication Client (SAC) for Linux and Windows through 10.7.7 creates insecure temporary hid and lock files allowing a local attacker, through a symlink attack, to overwrite arbitrary files, and potentially achieve arbitrary command execution with high privileges.
 - [z00z00z00/Safenet_SAC_CVE-2021-42056](https://github.com/z00z00z00/Safenet_SAC_CVE-2021-42056)	<img alt="forks" src="https://img.shields.io/github/forks/z00z00z00/Safenet_SAC_CVE-2021-42056">	<img alt="stars" src="https://img.shields.io/github/stars/z00z00z00/Safenet_SAC_CVE-2021-42056">
