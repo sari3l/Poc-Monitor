@@ -6641,6 +6641,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [codeb0ss/CVE-2023-20198-PoC](https://github.com/codeb0ss/CVE-2023-20198-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-20198-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-20198-PoC">
 - [sh7729ye/CVE-2023-20198](https://github.com/sh7729ye/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/sh7729ye/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/sh7729ye/CVE-2023-20198">
 - [W01fh4cker/CVE-2023-20198-RCE](https://github.com/W01fh4cker/CVE-2023-20198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2023-20198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2023-20198-RCE">
+- [Codeb3af/CVE-2023-20198-RCE](https://github.com/Codeb3af/CVE-2023-20198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Codeb3af/CVE-2023-20198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Codeb3af/CVE-2023-20198-RCE">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
