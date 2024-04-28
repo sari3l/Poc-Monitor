@@ -956,6 +956,11 @@ overflow.
 - [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2024-26817-amdkfd">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2024-26817-amdkfd">
 
 ---
+## CVE-2024-2667 ()
+> 
+- [Puvipavan/CVE-2024-2667-POC](https://github.com/Puvipavan/CVE-2024-2667-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Puvipavan/CVE-2024-2667-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Puvipavan/CVE-2024-2667-POC">
+
+---
 ## CVE-2024-26574 ()
 > 
 - [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-26574">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-26574">
