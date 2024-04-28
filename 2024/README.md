@@ -1954,6 +1954,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21345 (2024-02-13T18:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [exploits-forsale/CVE-2024-21345](https://github.com/exploits-forsale/CVE-2024-21345)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/CVE-2024-21345">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/CVE-2024-21345">
+- [FoxyProxys/CVE-2024-21345](https://github.com/FoxyProxys/CVE-2024-21345)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-21345">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-21345">
 
 ---
 ## CVE-2024-21338 (2024-02-13T18:15:00)
