@@ -2770,6 +2770,11 @@
 - [Live-Hack-CVE/CVE-2020-24583](https://github.com/Live-Hack-CVE/CVE-2020-24583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24583">
 
 ---
+## CVE-2020-24490 (2021-02-02T22:15:00)
+> Improper buffer restrictions in BlueZ may allow an unauthenticated user to potentially enable denial of service via adjacent access. This affects all Linux kernel versions that support BlueZ.
+- [AbrarKhan/linux_CVE-2020-24490-beforePatch](https://github.com/AbrarKhan/linux_CVE-2020-24490-beforePatch)	<img alt="forks" src="https://img.shields.io/github/forks/AbrarKhan/linux_CVE-2020-24490-beforePatch">	<img alt="stars" src="https://img.shields.io/github/stars/AbrarKhan/linux_CVE-2020-24490-beforePatch">
+
+---
 ## CVE-2020-24445 (2020-12-10T06:15:00)
 > AEM's Cloud Service offering, as well as version 6.5.6.0 (and below), are affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by an attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim’s browser when they browse to the page containing the vulnerable field.
 - [Live-Hack-CVE/CVE-2020-24445](https://github.com/Live-Hack-CVE/CVE-2020-24445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24445">
