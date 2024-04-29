@@ -910,8 +910,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [ally-petitt/CVE-2024-27630](https://github.com/ally-petitt/CVE-2024-27630)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-27630">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-27630">
 
 ---
-## CVE-2024-27518 ()
-> 
+## CVE-2024-27518 (2024-04-29T21:15:00)
+> An issue in SUPERAntiSyware Professional X 10.0.1262 and 10.0.1264 allows unprivileged attackers to escalate privileges via a restore of a crafted DLL file into the C:\Program Files\SUPERAntiSpyware folder.
 - [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-27518">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-27518">
 
 ---
