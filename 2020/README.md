@@ -2773,6 +2773,7 @@
 ## CVE-2020-24490 (2021-02-02T22:15:00)
 > Improper buffer restrictions in BlueZ may allow an unauthenticated user to potentially enable denial of service via adjacent access. This affects all Linux kernel versions that support BlueZ.
 - [AbrarKhan/linux_CVE-2020-24490-beforePatch](https://github.com/AbrarKhan/linux_CVE-2020-24490-beforePatch)	<img alt="forks" src="https://img.shields.io/github/forks/AbrarKhan/linux_CVE-2020-24490-beforePatch">	<img alt="stars" src="https://img.shields.io/github/stars/AbrarKhan/linux_CVE-2020-24490-beforePatch">
+- [AbrarKhan/Linux-4.19.72_CVE-2020-24490](https://github.com/AbrarKhan/Linux-4.19.72_CVE-2020-24490)	<img alt="forks" src="https://img.shields.io/github/forks/AbrarKhan/Linux-4.19.72_CVE-2020-24490">	<img alt="stars" src="https://img.shields.io/github/stars/AbrarKhan/Linux-4.19.72_CVE-2020-24490">
 
 ---
 ## CVE-2020-24445 (2020-12-10T06:15:00)
