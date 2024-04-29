@@ -747,6 +747,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-29296 (2024-04-10T15:16:00)
 > A user enumeration vulnerability was found in Portainer CE 2.19.4. This issue occurs during user authentication process, where a difference in response time could allow a remote unauthenticated user to determine if a username is valid or not.
 - [ThaySolis/CVE-2024-29296](https://github.com/ThaySolis/CVE-2024-29296)	<img alt="forks" src="https://img.shields.io/github/forks/ThaySolis/CVE-2024-29296">	<img alt="stars" src="https://img.shields.io/github/stars/ThaySolis/CVE-2024-29296">
+- [Lavender-exe/CVE-2024-29296-PoC](https://github.com/Lavender-exe/CVE-2024-29296-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Lavender-exe/CVE-2024-29296-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Lavender-exe/CVE-2024-29296-PoC">
 
 ---
 ## CVE-2024-29272 (2024-03-22T04:15:00)
