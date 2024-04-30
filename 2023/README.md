@@ -1381,8 +1381,8 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4631">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4631">
 
 ---
-## CVE-2023-46304 ()
-> 
+## CVE-2023-46304 (2024-04-30T13:15:00)
+> modules/Users/models/Module.php in Vtiger CRM 7.5.0 allows a remote authenticated attacker to run arbitrary PHP code because an unprotected endpoint allows them to write this code to the config.inc.php file (executed on every page load).
 - [jselliott/CVE-2023-46304](https://github.com/jselliott/CVE-2023-46304)	<img alt="forks" src="https://img.shields.io/github/forks/jselliott/CVE-2023-46304">	<img alt="stars" src="https://img.shields.io/github/stars/jselliott/CVE-2023-46304">
 
 ---
