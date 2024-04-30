@@ -127,6 +127,19 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [AlexLondan/CVE-2024-3333](https://github.com/AlexLondan/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-3333">
 
 ---
+## CVE-2024-32766 (2024-04-26T15:15:00)
+> An OS command injection vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow users to execute commands via a network.
+
+We have already fixed the vulnerability in the following versions:
+QTS 5.1.3.2578 build 20231110 and later
+QTS 4.5.4.2627 build 20231225 and later
+QuTS hero h5.1.3.2578 build 20231110 and later
+QuTS hero h4.5.4.2626 build 20231225 and later
+QuTScloud c5.1.5.2651 and later
+
+- [hulNtor/CVE-2024-32766-POC](https://github.com/hulNtor/CVE-2024-32766-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hulNtor/CVE-2024-32766-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hulNtor/CVE-2024-32766-POC">
+
+---
 ## CVE-2024-3273 (2024-04-04T01:15:00)
 > ** UNSUPPORTED WHEN ASSIGNED ** A vulnerability, which was classified as critical, was found in D-Link DNS-320L, DNS-325, DNS-327L and DNS-340L up to 20240403. Affected is an unknown function of the file /cgi-bin/nas_sharing.cgi of the component HTTP GET Request Handler. The manipulation of the argument system leads to command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-259284. NOTE: This vulnerability only affects products that are no longer supported by the maintainer. NOTE: Vendor was contacted early and confirmed immediately that the product is end-of-life. It should be retired and replaced.
 - [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-3273">
