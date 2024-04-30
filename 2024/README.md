@@ -749,8 +749,8 @@ QuTScloud c5.1.5.2651 and later
 - [ally-petitt/CVE-2024-29399](https://github.com/ally-petitt/CVE-2024-29399)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-29399">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-29399">
 
 ---
-## CVE-2024-29384 ()
-> 
+## CVE-2024-29384 (2024-04-30T20:15:00)
+> An issue in CSS Exfil Protection v.1.1.0 allows a remote attacker to obtain sensitive information via the content.js and parseCSSRules functions.
 - [randshell/CVE-2024-29384](https://github.com/randshell/CVE-2024-29384)	<img alt="forks" src="https://img.shields.io/github/forks/randshell/CVE-2024-29384">	<img alt="stars" src="https://img.shields.io/github/stars/randshell/CVE-2024-29384">
 
 ---
