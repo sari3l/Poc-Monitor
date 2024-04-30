@@ -139,6 +139,7 @@ QuTS hero h4.5.4.2626 build 20231225 and later
 QuTScloud c5.1.5.2651 and later
 
 - [hulNtor/CVE-2024-32766-POC](https://github.com/hulNtor/CVE-2024-32766-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hulNtor/CVE-2024-32766-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hulNtor/CVE-2024-32766-POC">
+- [p3c34r7/CVE-2024-32766-POC](https://github.com/p3c34r7/CVE-2024-32766-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3c34r7/CVE-2024-32766-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3c34r7/CVE-2024-32766-POC">
 
 ---
 ## CVE-2024-3273 (2024-04-04T01:15:00)
