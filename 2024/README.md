@@ -43,6 +43,7 @@
 - [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-4040-SSTI-LFI-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-4040-SSTI-LFI-PoC">
 - [0xN7y/CVE-2024-4040](https://github.com/0xN7y/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/0xN7y/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/0xN7y/CVE-2024-4040">
 - [Praison001/CVE-2024-4040-CrushFTP-server](https://github.com/Praison001/CVE-2024-4040-CrushFTP-server)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-4040-CrushFTP-server">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-4040-CrushFTP-server">
+- [Mohammaddvd/CVE-2024-4040](https://github.com/Mohammaddvd/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammaddvd/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammaddvd/CVE-2024-4040">
 
 ---
 ## CVE-2024-3902 ()
