@@ -1484,18 +1484,18 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780)	<img alt="forks" src="https://img.shields.io/github/forks/HazardLab-IO/CVE-2024-23780">	<img alt="stars" src="https://img.shields.io/github/stars/HazardLab-IO/CVE-2024-23780">
 
 ---
-## CVE-2024-23774 ()
-> 
+## CVE-2024-23774 (2024-04-30T14:15:00)
+> An issue was discovered in Quest KACE Agent for Windows 12.0.38 and 13.1.23.0. An unquoted Windows search path vulnerability exists in the KSchedulerSvc.exe and AMPTools.exe components. This allows local attackers to execute code of their choice with NT Authority\SYSTEM privileges.
 - [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774)	<img alt="forks" src="https://img.shields.io/github/forks/Verrideo/CVE-2024-23774">	<img alt="stars" src="https://img.shields.io/github/stars/Verrideo/CVE-2024-23774">
 
 ---
-## CVE-2024-23773 ()
-> 
+## CVE-2024-23773 (2024-04-30T14:15:00)
+> An issue was discovered in Quest KACE Agent for Windows 12.0.38 and 13.1.23.0. An Arbitrary file delete vulnerability exists in the KSchedulerSvc.exe component. Local attackers can delete any file of their choice with NT Authority\SYSTEM privileges.
 - [Verrideo/CVE-2024-23773](https://github.com/Verrideo/CVE-2024-23773)	<img alt="forks" src="https://img.shields.io/github/forks/Verrideo/CVE-2024-23773">	<img alt="stars" src="https://img.shields.io/github/stars/Verrideo/CVE-2024-23773">
 
 ---
-## CVE-2024-23772 ()
-> 
+## CVE-2024-23772 (2024-04-30T14:15:00)
+> An issue was discovered in Quest KACE Agent for Windows 12.0.38 and 13.1.23.0. An Arbitrary file create vulnerability exists in the KSchedulerSvc.exe, KUserAlert.exe, and Runkbot.exe components. This allows local attackers to create any file of their choice with NT Authority\SYSTEM privileges.
 - [Verrideo/CVE-2024-23772](https://github.com/Verrideo/CVE-2024-23772)	<img alt="forks" src="https://img.shields.io/github/forks/Verrideo/CVE-2024-23772">	<img alt="stars" src="https://img.shields.io/github/stars/Verrideo/CVE-2024-23772">
 
 ---
