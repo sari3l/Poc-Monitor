@@ -888,6 +888,7 @@ QuTScloud c5.1.5.2651 and later
 
 
 - [truonghuuphuc/CVE-2024-27956](https://github.com/truonghuuphuc/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-27956">
+- [diego-tella/CVE-2024-27956-RCE](https://github.com/diego-tella/CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/diego-tella/CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/diego-tella/CVE-2024-27956-RCE">
 
 ---
 ## CVE-2024-27697 ()
