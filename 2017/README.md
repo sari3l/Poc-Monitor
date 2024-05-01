@@ -238,6 +238,8 @@
 - [en0f/CVE-2017-7529_PoC](https://github.com/en0f/CVE-2017-7529_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/en0f/CVE-2017-7529_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/en0f/CVE-2017-7529_PoC">
 - [SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095](https://github.com/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095)	<img alt="forks" src="https://img.shields.io/github/forks/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095">	<img alt="stars" src="https://img.shields.io/github/stars/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095">
 - [liusec/CVE-2017-7529](https://github.com/liusec/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/liusec/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/liusec/CVE-2017-7529">
+- [SirEagIe/CVE-2017-7529](https://github.com/SirEagIe/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/SirEagIe/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/SirEagIe/CVE-2017-7529">
+- [coolman6942o/-Exploit-CVE-2017-7529](https://github.com/coolman6942o/-Exploit-CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/coolman6942o/-Exploit-CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/coolman6942o/-Exploit-CVE-2017-7529">
 
 ---
 ## CVE-2017-7494 (2017-05-30T18:29:00)
