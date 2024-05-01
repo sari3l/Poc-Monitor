@@ -4068,6 +4068,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [mister-turtle/cve-2023-32784](https://github.com/mister-turtle/cve-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/mister-turtle/cve-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/mister-turtle/cve-2023-32784">
 
 ---
+## CVE-2023-32749 (2023-06-08T20:15:00)
+> Pydio Cells allows users by default to create so-called external users in order to share files with them. By modifying the HTTP request sent when creating such an external user, it is possible to assign the new user arbitrary roles. By assigning all roles to a newly created user, access to all cells and non-personal workspaces is granted.
+- [xcr-19/CVE-2023-32749](https://github.com/xcr-19/CVE-2023-32749)	<img alt="forks" src="https://img.shields.io/github/forks/xcr-19/CVE-2023-32749">	<img alt="stars" src="https://img.shields.io/github/stars/xcr-19/CVE-2023-32749">
+
+---
 ## CVE-2023-32707 (2023-06-01T17:15:00)
 > In versions of Splunk Enterprise below 9.0.5, 8.2.11, and 8.1.14, and Splunk Cloud Platform below version 9.0.2303.100, a low-privileged user who holds a role that has the ‘edit_user’ capability assigned to it can escalate their privileges to that of the admin user by providing specially crafted web requests.
 - [9xN/CVE-2023-32707](https://github.com/9xN/CVE-2023-32707)	<img alt="forks" src="https://img.shields.io/github/forks/9xN/CVE-2023-32707">	<img alt="stars" src="https://img.shields.io/github/stars/9xN/CVE-2023-32707">
