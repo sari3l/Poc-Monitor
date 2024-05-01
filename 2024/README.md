@@ -108,6 +108,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/marconesler/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/marconesler/CVE-2024-3400">
 
 ---
+## CVE-2024-33775 (2024-05-01T13:15:00)
+> An issue with the Autodiscover component in Nagios XI 2024R1.01 allows a remote attacker to escalate privileges via a crafted Dashlet.
+- [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-XeD/CVE-2024-33775">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-XeD/CVE-2024-33775">
+
+---
 ## CVE-2024-33438 (2024-04-29T18:15:00)
 > File Upload vulnerability in CubeCart before 6.5.5 allows an authenticated user to execute arbitrary code via a crafted .phar file.
 - [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-33438">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-33438">
