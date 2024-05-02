@@ -811,8 +811,8 @@ QuTScloud c5.1.5.2651 and later
 - [JohnNetSouldRU/CVE-2024-2879-POC](https://github.com/JohnNetSouldRU/CVE-2024-2879-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-2879-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-2879-POC">
 
 ---
-## CVE-2024-2876 ()
-> 
+## CVE-2024-2876 (2024-05-02T17:15:00)
+> The Email Subscribers by Icegram Express – Email Marketing, Newsletters, Automation for WordPress & WooCommerce plugin for WordPress is vulnerable to SQL Injection via the 'run' function of the 'IG_ES_Subscribers_Query' class in all versions up to, and including, 5.7.14 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
 - [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
 
@@ -990,8 +990,8 @@ overflow.
 - [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2024-26817-amdkfd">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2024-26817-amdkfd">
 
 ---
-## CVE-2024-2667 ()
-> 
+## CVE-2024-2667 (2024-05-02T17:15:00)
+> The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary file uploads due to  insufficient file validation in the /wp-json/instawp-connect/v1/config REST API endpoint in all versions up to, and including, 0.1.0.22. This makes it possible for unauthenticated attackers to upload arbitrary files.
 - [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667)	<img alt="forks" src="https://img.shields.io/github/forks/Puvipavan/CVE-2024-2667">	<img alt="stars" src="https://img.shields.io/github/stars/Puvipavan/CVE-2024-2667">
 
 ---
@@ -2277,8 +2277,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [kitodd/CVE-2024-0713](https://github.com/kitodd/CVE-2024-0713)	<img alt="forks" src="https://img.shields.io/github/forks/kitodd/CVE-2024-0713">	<img alt="stars" src="https://img.shields.io/github/stars/kitodd/CVE-2024-0713">
 
 ---
-## CVE-2024-0710 ()
-> 
+## CVE-2024-0710 (2024-05-02T17:15:00)
+> The GP Unique ID plugin for WordPress is vulnerable to Unique ID Modification in all versions up to, and including, 1.5.5. This is due to insufficient input validation. This makes it possible for unauthenticated attackers to tamper with the generation of a unique ID on a form submission and replace the generated unique ID with a user-controlled one, leading to a loss of integrity in cases where the ID's uniqueness is relied upon in a security-specific context.
 - [karlemilnikka/CVE-2024-0710](https://github.com/karlemilnikka/CVE-2024-0710)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-0710">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-0710">
 
 ---
