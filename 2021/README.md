@@ -5757,6 +5757,7 @@
 - [DDayLuong/CVE-2021-3156](https://github.com/DDayLuong/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/DDayLuong/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/DDayLuong/CVE-2021-3156">
 - [wurwur/CVE-2021-3156](https://github.com/wurwur/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/wurwur/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/wurwur/CVE-2021-3156">
 - [SamTruss/LMU-CVE-2021-3156](https://github.com/SamTruss/LMU-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/SamTruss/LMU-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/SamTruss/LMU-CVE-2021-3156">
+- [34rthq04k3/CVE-2021-3156](https://github.com/34rthq04k3/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/34rthq04k3/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/34rthq04k3/CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
@@ -7739,6 +7740,7 @@
 ## CVE-2021-22600 (2022-01-26T14:15:00)
 > A double free bug in packet_set_ring() in net/packet/af_packet.c can be exploited by a local user through crafted syscalls to escalate privileges or deny service. We recommend upgrading kernel past the effected versions or rebuilding past ec6af094ea28f0f2dda1a6a33b14cd57e36a9755
 - [Live-Hack-CVE/CVE-2021-22600](https://github.com/Live-Hack-CVE/CVE-2021-22600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22600">
+- [34rthq04k3/CVE-2021-22600](https://github.com/34rthq04k3/CVE-2021-22600)	<img alt="forks" src="https://img.shields.io/github/forks/34rthq04k3/CVE-2021-22600">	<img alt="stars" src="https://img.shields.io/github/stars/34rthq04k3/CVE-2021-22600">
 
 ---
 ## CVE-2021-22555 (2021-07-07T12:15:00)
