@@ -821,6 +821,7 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-28757 (2024-03-10T05:15:00)
 > libexpat through 2.6.1 allows an XML Entity Expansion attack when there is isolated use of external parsers (created via XML_ExternalEntityParserCreate).
 - [krnidhi/expat_2.1.1_CVE-2024-28757](https://github.com/krnidhi/expat_2.1.1_CVE-2024-28757)	<img alt="forks" src="https://img.shields.io/github/forks/krnidhi/expat_2.1.1_CVE-2024-28757">	<img alt="stars" src="https://img.shields.io/github/stars/krnidhi/expat_2.1.1_CVE-2024-28757">
+- [RenukaSelvar/expat_CVE-2024-28757](https://github.com/RenukaSelvar/expat_CVE-2024-28757)	<img alt="forks" src="https://img.shields.io/github/forks/RenukaSelvar/expat_CVE-2024-28757">	<img alt="stars" src="https://img.shields.io/github/stars/RenukaSelvar/expat_CVE-2024-28757">
 
 ---
 ## CVE-2024-28741 ()
