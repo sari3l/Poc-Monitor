@@ -2129,6 +2129,12 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [nettitude/CVE-2024-20356](https://github.com/nettitude/CVE-2024-20356)	<img alt="forks" src="https://img.shields.io/github/forks/nettitude/CVE-2024-20356">	<img alt="stars" src="https://img.shields.io/github/stars/nettitude/CVE-2024-20356">
 
 ---
+## CVE-2024-20353 (2024-04-24T19:15:00)
+> A vulnerability in the management and VPN web servers for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.
+ This vulnerability is due to incomplete error checking when parsing an HTTP header. An attacker could exploit this vulnerability by sending a crafted HTTP request to a targeted web server on a device. A successful exploit could allow the attacker to cause a DoS condition when the device reloads.
+- [Spl0stus/CVE-2024-20353-CiscoASAandFTD](https://github.com/Spl0stus/CVE-2024-20353-CiscoASAandFTD)	<img alt="forks" src="https://img.shields.io/github/forks/Spl0stus/CVE-2024-20353-CiscoASAandFTD">	<img alt="stars" src="https://img.shields.io/github/stars/Spl0stus/CVE-2024-20353-CiscoASAandFTD">
+
+---
 ## CVE-2024-20337 (2024-03-06T17:15:00)
 > A vulnerability in the SAML authentication process of Cisco Secure Client could allow an unauthenticated, remote attacker to conduct a carriage return line feed (CRLF) injection attack against a user. 
  This vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by persuading a user to click a crafted link while establishing a VPN session. A successful exploit could allow the attacker to execute arbitrary script code in the browser or access sensitive, browser-based information, including a valid SAML token. The attacker could then use the token to establish a remote access VPN session with the privileges of the affected user. Individual hosts and services behind the VPN headend would still need additional credentials for successful access.
