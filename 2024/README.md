@@ -824,6 +824,8 @@ QuTScloud c5.1.5.2651 and later
 - [RenukaSelvar/expat_CVE-2024-28757](https://github.com/RenukaSelvar/expat_CVE-2024-28757)	<img alt="forks" src="https://img.shields.io/github/forks/RenukaSelvar/expat_CVE-2024-28757">	<img alt="stars" src="https://img.shields.io/github/stars/RenukaSelvar/expat_CVE-2024-28757">
 - [saurabh2088/expat_2_1_0-_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_0-_CVE-2024-28757)	<img alt="forks" src="https://img.shields.io/github/forks/saurabh2088/expat_2_1_0-_CVE-2024-28757">	<img alt="stars" src="https://img.shields.io/github/stars/saurabh2088/expat_2_1_0-_CVE-2024-28757">
 - [saurabh2088/expat_2_1_1_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_1_CVE-2024-28757)	<img alt="forks" src="https://img.shields.io/github/forks/saurabh2088/expat_2_1_1_CVE-2024-28757">	<img alt="stars" src="https://img.shields.io/github/stars/saurabh2088/expat_2_1_1_CVE-2024-28757">
+- [saurabh2088/expat_2_1_0_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_0_CVE-2024-28757)	<img alt="forks" src="https://img.shields.io/github/forks/saurabh2088/expat_2_1_0_CVE-2024-28757">	<img alt="stars" src="https://img.shields.io/github/stars/saurabh2088/expat_2_1_0_CVE-2024-28757">
+- [krnidhi/expat_2.1.1_CVE-2024-28757](https://github.com/krnidhi/expat_2.1.1_CVE-2024-28757)	<img alt="forks" src="https://img.shields.io/github/forks/krnidhi/expat_2.1.1_CVE-2024-28757">	<img alt="stars" src="https://img.shields.io/github/stars/krnidhi/expat_2.1.1_CVE-2024-28757">
 
 ---
 ## CVE-2024-28741 ()
