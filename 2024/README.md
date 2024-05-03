@@ -1962,6 +1962,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [DevAkabari/CVE-2024-21413](https://github.com/DevAkabari/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/DevAkabari/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/DevAkabari/CVE-2024-21413">
 - [dshabani96/CVE-2024-21413](https://github.com/dshabani96/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/dshabani96/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/dshabani96/CVE-2024-21413">
 - [KartheekKandalam99/CVE-2024-21413](https://github.com/KartheekKandalam99/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/KartheekKandalam99/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/KartheekKandalam99/CVE-2024-21413">
+- [X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit](https://github.com/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
