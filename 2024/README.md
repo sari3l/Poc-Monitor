@@ -906,6 +906,11 @@ QuTScloud c5.1.5.2651 and later
 - [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/CVE-2024-27983-nodejs-http2">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/CVE-2024-27983-nodejs-http2">
 
 ---
+## CVE-2024-27971 ()
+> 
+- [truonghuuphuc/CVE-2024-27971-Note](https://github.com/truonghuuphuc/CVE-2024-27971-Note)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-27971-Note">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-27971-Note">
+
+---
 ## CVE-2024-27956 (2024-03-21T17:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in ValvePress Automatic allows SQL Injection.This issue affects Automatic: from n/a through 3.92.0.
 
