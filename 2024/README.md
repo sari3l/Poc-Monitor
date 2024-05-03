@@ -1462,6 +1462,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [TheRedDevil1/CVE-2024-23897](https://github.com/TheRedDevil1/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-23897">
+- [Athulya666/CVE-2024-23897](https://github.com/Athulya666/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Athulya666/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Athulya666/CVE-2024-23897">
 
 ---
 ## CVE-2024-2389 ()
