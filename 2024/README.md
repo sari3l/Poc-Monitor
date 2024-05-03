@@ -677,6 +677,7 @@ QuTScloud c5.1.5.2651 and later
 > SmartScreen Prompt Security Feature Bypass Vulnerability
 - [mrobsidian1/CVE-2024-29988-MS-Exchange-RCE](https://github.com/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE">
 - [AlexDoe11/CVE-2024-29988-MS-Exchange-RCE](https://github.com/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE">
+- [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sploitus/CVE-2024-29988-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sploitus/CVE-2024-29988-exploit">
 
 ---
 ## CVE-2024-2961 (2024-04-17T18:15:00)
