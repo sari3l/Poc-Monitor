@@ -1923,13 +1923,17 @@ and trace malicious activities. Users are advised to upgrade to Apache InLong's
 - [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2023-42222">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2023-42222">
 
 ---
-## CVE-2023-42120 ()
-> 
+## CVE-2023-42120 (2024-05-03T03:15:00)
+> Control Web Panel dns_zone_editor Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Control Web Panel. Authentication is required to exploit this vulnerability.
+
+The specific flaw exists within the dns_zone_editor module. The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-20581.
 - [truonghuuphuc/CVE-2023-42120-Poc](https://github.com/truonghuuphuc/CVE-2023-42120-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2023-42120-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2023-42120-Poc">
 
 ---
-## CVE-2023-42115 ()
-> 
+## CVE-2023-42115 (2024-05-03T03:15:00)
+> Exim AUTH Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Exim. Authentication is not required to exploit this vulnerability. 
+
+The specific flaw exists within the smtp service, which listens on TCP port 25 by default. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of a buffer. An attacker can leverage this vulnerability to execute code in the context of the service account. Was ZDI-CAN-17434.
 - [cammclain/CVE-2023-42115](https://github.com/cammclain/CVE-2023-42115)	<img alt="forks" src="https://img.shields.io/github/forks/cammclain/CVE-2023-42115">	<img alt="stars" src="https://img.shields.io/github/stars/cammclain/CVE-2023-42115">
 
 ---
@@ -2223,8 +2227,10 @@ The vulnerability is limited to the ROOT (default) web application.
 - [RandomRobbieBF/CVE-2023-40600](https://github.com/RandomRobbieBF/CVE-2023-40600)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-40600">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-40600">
 
 ---
-## CVE-2023-40477 ()
-> 
+## CVE-2023-40477 (2024-05-03T03:15:00)
+> RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of RARLAB WinRAR. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.
+
+The specific flaw exists within the processing of recovery volumes. The issue results from the lack of proper validation of user-supplied data, which can result in a memory access past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-21233.
 - [whalersplonk/CVE-2023-40477](https://github.com/whalersplonk/CVE-2023-40477)	<img alt="forks" src="https://img.shields.io/github/forks/whalersplonk/CVE-2023-40477">	<img alt="stars" src="https://img.shields.io/github/stars/whalersplonk/CVE-2023-40477">
 - [wildptr-io/Winrar-CVE-2023-40477-POC](https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC)	<img alt="forks" src="https://img.shields.io/github/forks/wildptr-io/Winrar-CVE-2023-40477-POC">	<img alt="stars" src="https://img.shields.io/github/stars/wildptr-io/Winrar-CVE-2023-40477-POC">
 - [winkler-winsen/Scan_WinRAR](https://github.com/winkler-winsen/Scan_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_WinRAR">
@@ -2728,8 +2734,10 @@ URL that curl has been told to operate with.
 - [Durge5/ThemeBleedPy](https://github.com/Durge5/ThemeBleedPy)	<img alt="forks" src="https://img.shields.io/github/forks/Durge5/ThemeBleedPy">	<img alt="stars" src="https://img.shields.io/github/stars/Durge5/ThemeBleedPy">
 
 ---
-## CVE-2023-38120 ()
-> 
+## CVE-2023-38120 (2024-05-03T02:15:00)
+> Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adtran SR400ac routers. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed.
+
+The specific flaw exists within the ping command, which is available over JSON-RPC. A crafted host parameter can trigger execution of a system call composed from a user-supplied string. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-20525.
 - [warber0x/CVE-2023-38120](https://github.com/warber0x/CVE-2023-38120)	<img alt="forks" src="https://img.shields.io/github/forks/warber0x/CVE-2023-38120">	<img alt="stars" src="https://img.shields.io/github/stars/warber0x/CVE-2023-38120">
 
 ---
@@ -3419,8 +3427,10 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH](https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH)	<img alt="forks" src="https://img.shields.io/github/forks/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH">	<img alt="stars" src="https://img.shields.io/github/stars/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH">
 
 ---
-## CVE-2023-35744 ()
-> 
+## CVE-2023-35744 (2024-05-03T02:15:00)
+> D-Link DAP-2622 DDP Configuration Restore Server IPv6 Address Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of D-Link DAP-2622 routers. Authentication is not required to exploit this vulnerability.
+
+The specific flaw exists within the DDP service. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-20071.
 - [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744)	<img alt="forks" src="https://img.shields.io/github/forks/ADSSA-IT/CVE-2023-35744">	<img alt="stars" src="https://img.shields.io/github/stars/ADSSA-IT/CVE-2023-35744">
 
 ---
@@ -5064,8 +5074,10 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [tucommenceapousser/CVE-2023-27372b](https://github.com/tucommenceapousser/CVE-2023-27372b)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-27372b">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-27372b">
 
 ---
-## CVE-2023-27363 ()
-> 
+## CVE-2023-27363 (2024-05-03T02:15:00)
+> Foxit PDF Reader exportXFAData Exposed Dangerous Method Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.
+
+The specific flaw exists within the exportXFAData method. The application exposes a JavaScript interface that allows writing arbitrary files. An attacker can leverage this vulnerability to execute code in the context of the current user. Was ZDI-CAN-19697.
 - [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-27363">
 - [qwqdanchun/CVE-2023-27363](https://github.com/qwqdanchun/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/qwqdanchun/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/qwqdanchun/CVE-2023-27363">
 - [CN016/-Foxit-PDF-CVE-2023-27363-](https://github.com/CN016/-Foxit-PDF-CVE-2023-27363-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/-Foxit-PDF-CVE-2023-27363-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/-Foxit-PDF-CVE-2023-27363-">
@@ -5085,8 +5097,10 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
-## CVE-2023-27326 ()
-> 
+## CVE-2023-27326 (2024-05-03T02:15:00)
+> Parallels Desktop Toolgate Directory Traversal Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Desktop. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability.
+
+The specific flaw exists within the Toolgate component. The issue results from the lack of proper validation of a user-supplied path prior to using it in file operations. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the current user on the host system. Was ZDI-CAN-18933.
 - [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Impalabs/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Impalabs/CVE-2023-27326">
 - [Malwareman007/CVE-2023-27326](https://github.com/Malwareman007/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-27326">
 
