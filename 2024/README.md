@@ -669,6 +669,13 @@ QuTScloud c5.1.5.2651 and later
 - [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614)	<img alt="forks" src="https://img.shields.io/github/forks/Lucky-lm/CVE-2024-30614">	<img alt="stars" src="https://img.shields.io/github/stars/Lucky-lm/CVE-2024-30614">
 
 ---
+## CVE-2024-30491 (2024-03-29T14:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Metagauss ProfileGrid.This issue affects ProfileGrid : from n/a through 5.7.8.
+
+
+- [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-30491-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-30491-Poc">
+
+---
 ## CVE-2024-3000 (2024-03-27T22:15:00)
 > A vulnerability classified as critical was found in code-projects Online Book System 1.0. This vulnerability affects unknown code of the file /index.php. The manipulation of the argument username/password/login_username/login_password leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-258202 is the identifier assigned to this vulnerability.
 - [FoxyProxys/CVE-2024-3000](https://github.com/FoxyProxys/CVE-2024-3000)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3000">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3000">
