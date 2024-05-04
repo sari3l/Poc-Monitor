@@ -2139,6 +2139,12 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)	<img alt="forks" src="https://img.shields.io/github/forks/Madan301/CVE-2024-2054">	<img alt="stars" src="https://img.shields.io/github/stars/Madan301/CVE-2024-2054">
 
 ---
+## CVE-2024-20359 (2024-04-24T19:15:00)
+> A vulnerability in a legacy capability that allowed for the preloading of VPN clients and plug-ins and that has been available in Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an authenticated, local attacker to execute arbitrary code with root-level privileges. Administrator-level privileges are required to exploit this vulnerability.
+ This vulnerability is due to improper validation of a file when it is read from system flash memory. An attacker could exploit this vulnerability by copying a crafted file to the disk0: file system of an affected device. A successful exploit could allow the attacker to execute arbitrary code on the affected device after the next reload of the device, which could alter system behavior. Because the injected code could persist across device reboots, Cisco has raised the Security Impact Rating (SIR) of this advisory from Medium to High.
+- [Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit](https://github.com/Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit">
+
+---
 ## CVE-2024-20356 (2024-04-24T20:15:00)
 > A vulnerability in the web-based management interface of Cisco Integrated Management Controller (IMC) could allow an authenticated, remote attacker with Administrator-level privileges to perform command injection attacks on an affected system and elevate their privileges to root. This vulnerability is due to insufficient user input validation. An attacker could exploit this vulnerability by sending crafted commands to the web-based management interface of the affected software. A successful exploit could allow the attacker to elevate their privileges to root.
 - [nettitude/CVE-2024-20356](https://github.com/nettitude/CVE-2024-20356)	<img alt="forks" src="https://img.shields.io/github/forks/nettitude/CVE-2024-20356">	<img alt="stars" src="https://img.shields.io/github/stars/nettitude/CVE-2024-20356">
