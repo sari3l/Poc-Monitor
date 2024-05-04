@@ -1049,6 +1049,13 @@ overflow.
 - [TronciuVlad/CVE-2024-26475](https://github.com/TronciuVlad/CVE-2024-26475)	<img alt="forks" src="https://img.shields.io/github/forks/TronciuVlad/CVE-2024-26475">	<img alt="stars" src="https://img.shields.io/github/stars/TronciuVlad/CVE-2024-26475">
 
 ---
+## CVE-2024-26304 (2024-05-01T15:15:00)
+> There is a buffer overflow vulnerability in the underlying L2/L3 Management service that could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba's access point management protocol) UDP port (8211). Successful exploitation of this vulnerability results in the ability to execute arbitrary code as a privileged user on the underlying operating system. 
+
+
+- [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">
+
+---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/CVE-2024-26218">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/CVE-2024-26218">
