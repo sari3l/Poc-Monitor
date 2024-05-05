@@ -58,8 +58,8 @@
 - [RansomGroupCVE/CVE-2024-3867-POC](https://github.com/RansomGroupCVE/CVE-2024-3867-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-3867-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-3867-POC">
 
 ---
-## CVE-2024-34474 ()
-> 
+## CVE-2024-34474 (2024-05-05T15:15:00)
+> Clario through 2024-04-11 for Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM.
 - [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-34474">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-34474">
 
 ---
