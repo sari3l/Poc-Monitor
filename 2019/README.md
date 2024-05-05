@@ -63,6 +63,7 @@
 - [oppsec/arbimz](https://github.com/oppsec/arbimz)	<img alt="forks" src="https://img.shields.io/github/forks/oppsec/arbimz">	<img alt="stars" src="https://img.shields.io/github/stars/oppsec/arbimz">
 - [rek7/Zimbra-RCE](https://github.com/rek7/Zimbra-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rek7/Zimbra-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rek7/Zimbra-RCE">
 - [attackgithub/Zimbra-RCE](https://github.com/attackgithub/Zimbra-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/attackgithub/Zimbra-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/attackgithub/Zimbra-RCE">
+- [OracleNep/CVE-2019-9670-DtdFilegeneration](https://github.com/OracleNep/CVE-2019-9670-DtdFilegeneration)	<img alt="forks" src="https://img.shields.io/github/forks/OracleNep/CVE-2019-9670-DtdFilegeneration">	<img alt="stars" src="https://img.shields.io/github/stars/OracleNep/CVE-2019-9670-DtdFilegeneration">
 
 ---
 ## CVE-2019-9634 (2019-03-08T15:29:00)
