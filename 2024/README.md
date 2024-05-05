@@ -58,6 +58,11 @@
 - [RansomGroupCVE/CVE-2024-3867-POC](https://github.com/RansomGroupCVE/CVE-2024-3867-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-3867-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-3867-POC">
 
 ---
+## CVE-2024-34470 ()
+> 
+- [osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34470">
+
+---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
 > A command injection vulnerability in the GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-OS versions and distinct feature configurations may enable an unauthenticated attacker to execute arbitrary code with root privileges on the firewall.
 
