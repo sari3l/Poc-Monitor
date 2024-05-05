@@ -129,6 +129,13 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/marconesler/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/marconesler/CVE-2024-3400">
 
 ---
+## CVE-2024-33911 (2024-05-02T11:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Weblizar School Management Pro.This issue affects School Management Pro: from n/a through 10.3.4.
+
+
+- [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-33911">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-33911">
+
+---
 ## CVE-2024-33775 (2024-05-01T13:15:00)
 > An issue with the Autodiscover component in Nagios XI 2024R1.01 allows a remote attacker to escalate privileges via a crafted Dashlet.
 - [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-XeD/CVE-2024-33775">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-XeD/CVE-2024-33775">
