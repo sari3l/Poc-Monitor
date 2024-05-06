@@ -776,6 +776,7 @@
 - [nmweizi/CVE-2018-20250-poc-winrar](https://github.com/nmweizi/CVE-2018-20250-poc-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/nmweizi/CVE-2018-20250-poc-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/nmweizi/CVE-2018-20250-poc-winrar">
 - [QAX-A-Team/CVE-2018-20250](https://github.com/QAX-A-Team/CVE-2018-20250)	<img alt="forks" src="https://img.shields.io/github/forks/QAX-A-Team/CVE-2018-20250">	<img alt="stars" src="https://img.shields.io/github/stars/QAX-A-Team/CVE-2018-20250">
 - [LamSonBinh/CVE-2018-20250](https://github.com/LamSonBinh/CVE-2018-20250)	<img alt="forks" src="https://img.shields.io/github/forks/LamSonBinh/CVE-2018-20250">	<img alt="stars" src="https://img.shields.io/github/stars/LamSonBinh/CVE-2018-20250">
+- [winrar-7/CVE-2018-20250-WinRAR-ACE](https://github.com/winrar-7/CVE-2018-20250-WinRAR-ACE)	<img alt="forks" src="https://img.shields.io/github/forks/winrar-7/CVE-2018-20250-WinRAR-ACE">	<img alt="stars" src="https://img.shields.io/github/stars/winrar-7/CVE-2018-20250-WinRAR-ACE">
 
 ---
 ## CVE-2018-20175 (2019-03-15T18:29:00)
