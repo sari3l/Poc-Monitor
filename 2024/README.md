@@ -200,6 +200,13 @@ QuTScloud c5.1.5.2651 and later
 - [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-)	<img alt="forks" src="https://img.shields.io/github/forks/mrrobot0o/CVE-2024-3273-">	<img alt="stars" src="https://img.shields.io/github/stars/mrrobot0o/CVE-2024-3273-">
 
 ---
+## CVE-2024-32709 (2024-04-24T08:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Plechev Andrey WP-Recall.This issue affects WP-Recall: from n/a through 16.26.5.
+
+
+- [truonghuuphuc/CVE-2024-32709-Poc](https://github.com/truonghuuphuc/CVE-2024-32709-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-32709-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-32709-Poc">
+
+---
 ## CVE-2024-32399 (2024-04-22T20:15:00)
 > Directory Traversal vulnerability in RaidenMAILD Mail Server v.4.9.4 and before allows a remote attacker to obtain sensitive information via the /webeditor/ component.
 - [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399)	<img alt="forks" src="https://img.shields.io/github/forks/NN0b0dy/CVE-2024-32399">	<img alt="stars" src="https://img.shields.io/github/stars/NN0b0dy/CVE-2024-32399">
