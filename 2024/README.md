@@ -74,8 +74,8 @@
 - [osvaldotenorio/CVE-2024-34472](https://github.com/osvaldotenorio/CVE-2024-34472)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34472">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34472">
 
 ---
-## CVE-2024-34471 ()
-> 
+## CVE-2024-34471 (2024-05-06T16:15:00)
+> An issue was discovered in HSC Mailinspector 5.2.17-3. A Path Traversal vulnerability (resulting in file deletion) exists in the mliRealtimeEmails.php file. The filename parameter in the export HTML functionality does not properly validate the file location, allowing an attacker to read and delete arbitrary files on the server. This was observed when the mliRealtimeEmails.php file itself was read and subsequently deleted, resulting in a 404 error for the file and disruption of email information loading.
 - [osvaldotenorio/CVE-2024-34471](https://github.com/osvaldotenorio/CVE-2024-34471)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34471">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34471">
 
 ---

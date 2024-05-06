@@ -1484,6 +1484,7 @@
 ## CVE-2018-10097 (2018-04-16T09:58:00)
 > XSS exists in Domain Trader 2.5.3 via the recoverlogin.php email_address parameter.
 - [ashangp923/CVE-2018-10097](https://github.com/ashangp923/CVE-2018-10097)	<img alt="forks" src="https://img.shields.io/github/forks/ashangp923/CVE-2018-10097">	<img alt="stars" src="https://img.shields.io/github/stars/ashangp923/CVE-2018-10097">
+- [ashangp923/CVE-2018-10097](https://github.com/ashangp923/CVE-2018-10097)	<img alt="forks" src="https://img.shields.io/github/forks/ashangp923/CVE-2018-10097">	<img alt="stars" src="https://img.shields.io/github/stars/ashangp923/CVE-2018-10097">
 
 ---
 ## CVE-2018-1000861 (2018-12-10T14:29:00)
