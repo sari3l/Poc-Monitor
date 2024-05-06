@@ -217,6 +217,11 @@ QuTScloud c5.1.5.2651 and later
 - [NN0b0dy/CVE-2024-3239](https://github.com/NN0b0dy/CVE-2024-3239)	<img alt="forks" src="https://img.shields.io/github/forks/NN0b0dy/CVE-2024-3239">	<img alt="stars" src="https://img.shields.io/github/stars/NN0b0dy/CVE-2024-3239">
 
 ---
+## CVE-2024-32371 ()
+> 
+- [chucrutis/CVE-2024-32371](https://github.com/chucrutis/CVE-2024-32371)	<img alt="forks" src="https://img.shields.io/github/forks/chucrutis/CVE-2024-32371">	<img alt="stars" src="https://img.shields.io/github/stars/chucrutis/CVE-2024-32371">
+
+---
 ## CVE-2024-32370 ()
 > 
 - [chucrutis/CVE-2024-32370](https://github.com/chucrutis/CVE-2024-32370)	<img alt="forks" src="https://img.shields.io/github/forks/chucrutis/CVE-2024-32370">	<img alt="stars" src="https://img.shields.io/github/stars/chucrutis/CVE-2024-32370">
