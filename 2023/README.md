@@ -1460,8 +1460,8 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">
 
 ---
-## CVE-2023-46012 ()
-> 
+## CVE-2023-46012 (2024-05-07T14:15:00)
+> Buffer Overflow vulnerability LINKSYS EA7500 3.0.1.207964 allows a remote attacker to execute arbitrary code via an HTTP request to the IGD UPnP.
 - [dest-3/CVE-2023-46012](https://github.com/dest-3/CVE-2023-46012)	<img alt="forks" src="https://img.shields.io/github/forks/dest-3/CVE-2023-46012">	<img alt="stars" src="https://img.shields.io/github/stars/dest-3/CVE-2023-46012">
 
 ---

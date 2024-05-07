@@ -222,18 +222,18 @@ QuTScloud c5.1.5.2651 and later
 - [NN0b0dy/CVE-2024-3239](https://github.com/NN0b0dy/CVE-2024-3239)	<img alt="forks" src="https://img.shields.io/github/forks/NN0b0dy/CVE-2024-3239">	<img alt="stars" src="https://img.shields.io/github/stars/NN0b0dy/CVE-2024-3239">
 
 ---
-## CVE-2024-32371 ()
-> 
+## CVE-2024-32371 (2024-05-07T15:15:00)
+> An issue in HSC Cybersecurity HC Mailinspector 5.2.17-3 through 5.2.18 allows a regular user account to escalate their privileges and gain administrative access by changing the type parameter from 1 to 0.
 - [chucrutis/CVE-2024-32371](https://github.com/chucrutis/CVE-2024-32371)	<img alt="forks" src="https://img.shields.io/github/forks/chucrutis/CVE-2024-32371">	<img alt="stars" src="https://img.shields.io/github/stars/chucrutis/CVE-2024-32371">
 
 ---
-## CVE-2024-32370 ()
-> 
+## CVE-2024-32370 (2024-05-07T15:15:00)
+> An issue in HSC Cybersecurity HC Mailinspector 5.2.17-3 through 5.2.18 allows a remote attacker to obtain sensitive information via a crafted payload to the id parameter in the mliSystemUsers.php component.
 - [chucrutis/CVE-2024-32370](https://github.com/chucrutis/CVE-2024-32370)	<img alt="forks" src="https://img.shields.io/github/forks/chucrutis/CVE-2024-32370">	<img alt="stars" src="https://img.shields.io/github/stars/chucrutis/CVE-2024-32370">
 
 ---
-## CVE-2024-32369 ()
-> 
+## CVE-2024-32369 (2024-05-07T15:15:00)
+> SQL Injection vulnerability in HSC Cybersecurity HC Mailinspector 5.2.17-3 through 5.2.18 allows a remote attacker to obtain sensitive information via a crafted payload to the start and limit parameter in the mliWhiteList.php component.
 - [chucrutis/CVE-2024-32369](https://github.com/chucrutis/CVE-2024-32369)	<img alt="forks" src="https://img.shields.io/github/forks/chucrutis/CVE-2024-32369">	<img alt="stars" src="https://img.shields.io/github/stars/chucrutis/CVE-2024-32369">
 - [chucrutis/CVE-2024-32369](https://github.com/chucrutis/CVE-2024-32369)	<img alt="forks" src="https://img.shields.io/github/forks/chucrutis/CVE-2024-32369">	<img alt="stars" src="https://img.shields.io/github/stars/chucrutis/CVE-2024-32369">
 
