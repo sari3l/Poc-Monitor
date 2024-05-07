@@ -345,8 +345,8 @@ QuTScloud c5.1.5.2651 and later
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
 
 ---
-## CVE-2024-30973 ()
-> 
+## CVE-2024-30973 (2024-05-06T22:15:00)
+> An issue in V-SOL G/EPON ONU HG323AC-B with firmware version V2.0.08-210715 allows an attacker to execute arbtirary code and obtain sensitive information via crafted POST request to /boaform/getASPdata/formFirewall, /boaform/getASPdata/formAcc.
 - [Athos-Zago/CVE-2024-30973](https://github.com/Athos-Zago/CVE-2024-30973)	<img alt="forks" src="https://img.shields.io/github/forks/Athos-Zago/CVE-2024-30973">	<img alt="stars" src="https://img.shields.io/github/stars/Athos-Zago/CVE-2024-30973">
 
 ---
