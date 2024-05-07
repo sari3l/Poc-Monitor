@@ -84,6 +84,11 @@
 - [osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34470">
 
 ---
+## CVE-2024-34469 (2024-05-04T20:15:00)
+> Rukovoditel before 3.5.3 allows XSS via user_photo to index.php?module=users/registration&action=save.
+- [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2024-34469">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2024-34469">
+
+---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
 > A command injection vulnerability in the GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-OS versions and distinct feature configurations may enable an unauthenticated attacker to execute arbitrary code with root privileges on the firewall.
 
