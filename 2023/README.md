@@ -776,6 +776,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [morganwdavis/overread](https://github.com/morganwdavis/overread)	<img alt="forks" src="https://img.shields.io/github/forks/morganwdavis/overread">	<img alt="stars" src="https://img.shields.io/github/stars/morganwdavis/overread">
 
 ---
+## CVE-2023-49606 (2024-05-01T16:15:00)
+> A use-after-free vulnerability exists in the HTTP Connection Headers parsing in Tinyproxy 1.11.1 and Tinyproxy 1.10.0. A specially crafted HTTP header can trigger reuse of previously freed memory, which leads to memory corruption and could lead to remote code execution. An attacker needs to make an unauthenticated HTTP request to trigger this vulnerability.
+- [d0rb/CVE-2023-49606](https://github.com/d0rb/CVE-2023-49606)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-49606">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-49606">
+
+---
 ## CVE-2023-49548 (2024-03-05T00:15:00)
 > Customer Support System v1 was discovered to contain a SQL injection vulnerability via the lastname parameter at /customer_support/ajax.php?action=save_user.
 - [geraldoalcantara/CVE-2023-49548](https://github.com/geraldoalcantara/CVE-2023-49548)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49548">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49548">
