@@ -1122,6 +1122,11 @@ overflow.
 - [hackervegas001/CVE-2024-26521](https://github.com/hackervegas001/CVE-2024-26521)	<img alt="forks" src="https://img.shields.io/github/forks/hackervegas001/CVE-2024-26521">	<img alt="stars" src="https://img.shields.io/github/stars/hackervegas001/CVE-2024-26521">
 
 ---
+## CVE-2024-26517 ()
+> 
+- [unrealjbr/CVE-2024-26517](https://github.com/unrealjbr/CVE-2024-26517)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-26517">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-26517">
+
+---
 ## CVE-2024-26503 (2024-03-14T22:15:00)
 > Unrestricted File Upload vulnerability in Greek Universities Network Open eClass v.3.15 and earlier allows attackers to run arbitrary code via upload of crafted file to certbadge.php endpoint.
 - [RoboGR00t/Exploit-CVE-2024-26503](https://github.com/RoboGR00t/Exploit-CVE-2024-26503)	<img alt="forks" src="https://img.shields.io/github/forks/RoboGR00t/Exploit-CVE-2024-26503">	<img alt="stars" src="https://img.shields.io/github/stars/RoboGR00t/Exploit-CVE-2024-26503">
