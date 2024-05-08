@@ -62,6 +62,7 @@
 ## CVE-2024-3867 (2024-04-16T10:15:00)
 > The archive-tainacan-collection theme for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of add_query_arg without appropriate escaping on the URL in version 2.7.2. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.
 - [RansomGroupCVE/CVE-2024-3867-POC](https://github.com/RansomGroupCVE/CVE-2024-3867-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-3867-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-3867-POC">
+- [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867)	<img alt="forks" src="https://img.shields.io/github/forks/c4cnm/CVE-2024-3867">	<img alt="stars" src="https://img.shields.io/github/stars/c4cnm/CVE-2024-3867">
 
 ---
 ## CVE-2024-34474 (2024-05-05T15:15:00)
