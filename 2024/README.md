@@ -1162,6 +1162,16 @@ overflow.
 - [ldpreload/CVE-2024-26169](https://github.com/ldpreload/CVE-2024-26169)	<img alt="forks" src="https://img.shields.io/github/forks/ldpreload/CVE-2024-26169">	<img alt="stars" src="https://img.shields.io/github/stars/ldpreload/CVE-2024-26169">
 
 ---
+## CVE-2024-26026 (2024-05-08T15:15:00)
+> 
+
+
+An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (URI).  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated
+
+
+- [passwa11/CVE-2024-26026](https://github.com/passwa11/CVE-2024-26026)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2024-26026">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2024-26026">
+
+---
 ## CVE-2024-25832 (2024-02-29T01:44:00)
 > F-logic DataCube3 v1.0 is vulnerable to unrestricted file upload, which could allow an authenticated malicious actor to upload a file of dangerous type by manipulating the filename extension.
 - [0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xNslabs/CVE-2024-25832-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xNslabs/CVE-2024-25832-PoC">
