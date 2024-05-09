@@ -1934,6 +1934,12 @@ QuTScloud c5.1.5.2651 and later
 - [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">
 
 ---
+## CVE-2024-21793 (2024-05-08T15:15:00)
+> 
+An OData injection vulnerability exists in the BIG-IP Next Central Manager API (URI).  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
+- [FeatherStark/CVE-2024-21793](https://github.com/FeatherStark/CVE-2024-21793)	<img alt="forks" src="https://img.shields.io/github/forks/FeatherStark/CVE-2024-21793">	<img alt="stars" src="https://img.shields.io/github/stars/FeatherStark/CVE-2024-21793">
+
+---
 ## CVE-2024-21762 (2024-02-09T09:15:00)
 > A out-of-bounds write in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 through 7.0.13, 6.4.0 through 6.4.14, 6.2.0 through 6.2.15, 6.0.0 through 6.0.17, FortiProxy versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.8, 7.0.0 through 7.0.14, 2.0.0 through 2.0.13, 1.2.0 through 1.2.13, 1.1.0 through 1.1.6, 1.0.0 through 1.0.7 allows attacker to execute unauthorized code or commands via specifically crafted requests
 - [Gh71m/CVE-2024-21762-POC](https://github.com/Gh71m/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Gh71m/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Gh71m/CVE-2024-21762-POC">
