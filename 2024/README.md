@@ -958,6 +958,21 @@ QuTScloud c5.1.5.2651 and later
 - [adminquit/CVE-2024-28288](https://github.com/adminquit/CVE-2024-28288)	<img alt="forks" src="https://img.shields.io/github/forks/adminquit/CVE-2024-28288">	<img alt="stars" src="https://img.shields.io/github/stars/adminquit/CVE-2024-28288">
 
 ---
+## CVE-2024-28279 ()
+> 
+- [unrealjbr/CVE-2024-28279](https://github.com/unrealjbr/CVE-2024-28279)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-28279">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-28279">
+
+---
+## CVE-2024-28277 ()
+> 
+- [unrealjbr/CVE-2024-28277](https://github.com/unrealjbr/CVE-2024-28277)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-28277">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-28277">
+
+---
+## CVE-2024-28276 ()
+> 
+- [unrealjbr/CVE-2024-28276](https://github.com/unrealjbr/CVE-2024-28276)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-28276">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-28276">
+
+---
 ## CVE-2024-28255 (2024-03-15T20:15:00)
 > OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration. The `JwtFilter` handles the API authentication by requiring and verifying JWT tokens. When a new request comes in, the request's path is checked against this list. When the request's path contains any of the excluded endpoints the filter returns without validating the JWT. Unfortunately, an attacker may use Path Parameters to make any path contain any arbitrary strings. For example, a request to `GET /api/v1;v1%2fusers%2flogin/events/subscriptions/validation/condition/111` will match the excluded endpoint condition and therefore will be processed with no JWT validation allowing an attacker to bypass the authentication mechanism and reach any arbitrary endpoint, including the ones listed above that lead to arbitrary SpEL expression injection. This bypass will not work when the endpoint uses the `SecurityContext.getUserPrincipal()` since it will return `null` and will throw an NPE. This issue may lead to authentication bypass and has been addressed in version 1.2.4. Users are advised to upgrade. There are no known workarounds for this vulnerability. This issue is also tracked as `GHSL-2023-237`.
 - [YongYe-Security/CVE-2024-28255](https://github.com/YongYe-Security/CVE-2024-28255)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-28255">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-28255">
