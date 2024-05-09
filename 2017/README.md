@@ -1560,6 +1560,7 @@
 - [SampatDhakal/Metasploit-Attack-Report](https://github.com/SampatDhakal/Metasploit-Attack-Report)	<img alt="forks" src="https://img.shields.io/github/forks/SampatDhakal/Metasploit-Attack-Report">	<img alt="stars" src="https://img.shields.io/github/stars/SampatDhakal/Metasploit-Attack-Report">
 - [NatteeSetobol/Etern-blue-Windows-7-Checker](https://github.com/NatteeSetobol/Etern-blue-Windows-7-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/NatteeSetobol/Etern-blue-Windows-7-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/NatteeSetobol/Etern-blue-Windows-7-Checker">
 - [valarauco/wannafind](https://github.com/valarauco/wannafind)	<img alt="forks" src="https://img.shields.io/github/forks/valarauco/wannafind">	<img alt="stars" src="https://img.shields.io/github/stars/valarauco/wannafind">
+- [InTheDarkness2102/CVE-2017-0143-MS-17-010-EternalBlue](https://github.com/InTheDarkness2102/CVE-2017-0143-MS-17-010-EternalBlue)	<img alt="forks" src="https://img.shields.io/github/forks/InTheDarkness2102/CVE-2017-0143-MS-17-010-EternalBlue">	<img alt="stars" src="https://img.shields.io/github/stars/InTheDarkness2102/CVE-2017-0143-MS-17-010-EternalBlue">
 
 ---
 ## CVE-2017-0055 (2017-03-17T00:59:00)
