@@ -461,6 +461,9 @@
 - [nagten/JndiLookupRemoval](https://github.com/nagten/JndiLookupRemoval)	<img alt="forks" src="https://img.shields.io/github/forks/nagten/JndiLookupRemoval">	<img alt="stars" src="https://img.shields.io/github/stars/nagten/JndiLookupRemoval">
 - [richardbischof/log4j-detector-to-csv](https://github.com/richardbischof/log4j-detector-to-csv)	<img alt="forks" src="https://img.shields.io/github/forks/richardbischof/log4j-detector-to-csv">	<img alt="stars" src="https://img.shields.io/github/stars/richardbischof/log4j-detector-to-csv">
 - [CaptanMoss/Log4Shell-Sandbox-Signature](https://github.com/CaptanMoss/Log4Shell-Sandbox-Signature)	<img alt="forks" src="https://img.shields.io/github/forks/CaptanMoss/Log4Shell-Sandbox-Signature">	<img alt="stars" src="https://img.shields.io/github/stars/CaptanMoss/Log4Shell-Sandbox-Signature">
+- [shaily29-eng/CyberSecurity_CVE-2021-45046](https://github.com/shaily29-eng/CyberSecurity_CVE-2021-45046)	<img alt="forks" src="https://img.shields.io/github/forks/shaily29-eng/CyberSecurity_CVE-2021-45046">	<img alt="stars" src="https://img.shields.io/github/stars/shaily29-eng/CyberSecurity_CVE-2021-45046">
+- [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
+- [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation)	<img alt="forks" src="https://img.shields.io/github/forks/demonrvm/Log4ShellRemediation">	<img alt="stars" src="https://img.shields.io/github/stars/demonrvm/Log4ShellRemediation">
 
 ---
 ## CVE-2021-45036 (2022-11-28T16:15:00)
