@@ -2491,6 +2491,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [ch4nui/CVE-2024-0402-RCE](https://github.com/ch4nui/CVE-2024-0402-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ch4nui/CVE-2024-0402-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ch4nui/CVE-2024-0402-RCE">
 
 ---
+## CVE-2024-0399 (2024-04-15T05:15:00)
+> The WooCommerce Customers Manager WordPress plugin before 29.7 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to an SQL injection exploitable by Subscriber+ role.
+- [xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-0399">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-0399">
+
+---
 ## CVE-2024-0305 (2024-01-08T09:15:00)
 > A vulnerability was found in Guangzhou Yingke Electronic Technology Ncast up to 2017 and classified as problematic. Affected by this issue is some unknown functionality of the file /manage/IPSetup.php of the component Guest Login. The manipulation leads to information disclosure. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-249872.
 - [jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp)	<img alt="forks" src="https://img.shields.io/github/forks/jidle123/cve-2024-0305exp">	<img alt="stars" src="https://img.shields.io/github/stars/jidle123/cve-2024-0305exp">
