@@ -1007,6 +1007,7 @@ QuTScloud c5.1.5.2651 and later
 - [X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN](https://github.com/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN">
 - [FoxyProxys/CVE-2024-27956](https://github.com/FoxyProxys/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-27956">
 - [k3ppf0r/CVE-2024-27956](https://github.com/k3ppf0r/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/k3ppf0r/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/k3ppf0r/CVE-2024-27956">
+- [nancyariah4/CVE-2024-27956](https://github.com/nancyariah4/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-27956">
 
 ---
 ## CVE-2024-27697 ()
