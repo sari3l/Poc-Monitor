@@ -2475,6 +2475,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [FoxyProxys/CVE-2024-0582](https://github.com/FoxyProxys/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-0582">
 
 ---
+## CVE-2024-0566 (2024-02-12T16:15:00)
+> The Smart Manager WordPress plugin before 8.28.0 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by high privilege users such as admin.
+- [xbz0n/CVE-2024-0566](https://github.com/xbz0n/CVE-2024-0566)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-0566">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-0566">
+
+---
 ## CVE-2024-0519 (2024-01-16T22:15:00)
 > Out of bounds memory access in V8 in Google Chrome prior to 120.0.6099.224 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [JohnHormond/CVE-2024-0519-Chrome-exploit](https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-0519-Chrome-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-0519-Chrome-exploit">
