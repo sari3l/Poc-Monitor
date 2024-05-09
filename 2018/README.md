@@ -29,6 +29,8 @@
 - [Pab450/CVE-2018-9995](https://github.com/Pab450/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/Pab450/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/Pab450/CVE-2018-9995">
 - [arminarab1999/CVE-2018-9995](https://github.com/arminarab1999/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/arminarab1999/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/arminarab1999/CVE-2018-9995">
 - [DOCKTYPe19/CVE-2018-9995](https://github.com/DOCKTYPe19/CVE-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/DOCKTYPe19/CVE-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/DOCKTYPe19/CVE-2018-9995">
+- [batmoshka55/CVE-2018-9995_dvr_credentials](https://github.com/batmoshka55/CVE-2018-9995_dvr_credentials)	<img alt="forks" src="https://img.shields.io/github/forks/batmoshka55/CVE-2018-9995_dvr_credentials">	<img alt="stars" src="https://img.shields.io/github/stars/batmoshka55/CVE-2018-9995_dvr_credentials">
+- [X3RX3SSec/DVR_Sploit](https://github.com/X3RX3SSec/DVR_Sploit)	<img alt="forks" src="https://img.shields.io/github/forks/X3RX3SSec/DVR_Sploit">	<img alt="stars" src="https://img.shields.io/github/stars/X3RX3SSec/DVR_Sploit">
 
 ---
 ## CVE-2018-9276 (2018-07-02T16:29:00)
