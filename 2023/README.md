@@ -786,6 +786,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [d0rb/CVE-2023-49606](https://github.com/d0rb/CVE-2023-49606)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-49606">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-49606">
 - [Rezardos/CVE-2023-49606-POC](https://github.com/Rezardos/CVE-2023-49606-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Rezardos/CVE-2023-49606-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Rezardos/CVE-2023-49606-POC">
 - [rezardoss/CVE-2023-49606-POC](https://github.com/rezardoss/CVE-2023-49606-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rezardoss/CVE-2023-49606-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rezardoss/CVE-2023-49606-POC">
+- [rezardoss/CVE-2023-49606-Poc](https://github.com/rezardoss/CVE-2023-49606-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/rezardoss/CVE-2023-49606-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/rezardoss/CVE-2023-49606-Poc">
 
 ---
 ## CVE-2023-49548 (2024-03-05T00:15:00)
