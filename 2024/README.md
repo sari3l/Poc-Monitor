@@ -1349,6 +1349,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-24816">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-24816">
 
 ---
+## CVE-2024-24787 (2024-05-08T16:15:00)
+> On Darwin, building a Go module which contains CGO can trigger arbitrary code execution when using the Apple version of ld, due to usage of the -lto_library flag in a "#cgo LDFLAGS" directive.
+- [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-24787-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-24787-PoC">
+
+---
 ## CVE-2024-24760 (2024-02-02T16:15:00)
 > mailcow is a dockerized email package, with multiple containers linked in one bridged network. A security vulnerability has been identified in mailcow affecting versions < 2024-01c. This vulnerability potentially allows attackers on the same subnet to connect to exposed ports of a Docker container, even when the port is bound to 127.0.0.1. The vulnerability has been addressed by implementing additional iptables/nftables rules. These rules drop packets for Docker containers on ports 3306, 6379, 8983, and 12345, where the input interface is not `br-mailcow` and the output interface is `br-mailcow`.
 - [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760)	<img alt="forks" src="https://img.shields.io/github/forks/killerbees19/CVE-2024-24760">	<img alt="stars" src="https://img.shields.io/github/stars/killerbees19/CVE-2024-24760">
