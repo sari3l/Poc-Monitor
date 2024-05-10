@@ -5120,6 +5120,7 @@ The specific flaw exists within the exportXFAData method. The application expose
 - [Jenderal92/CVE-2023-27350](https://github.com/Jenderal92/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2023-27350">
 - [ASG-CASTLE/CVE-2023-27350](https://github.com/ASG-CASTLE/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/ASG-CASTLE/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/ASG-CASTLE/CVE-2023-27350">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
+- [rasan2001/CVE-2023-27350](https://github.com/rasan2001/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/rasan2001/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/rasan2001/CVE-2023-27350">
 
 ---
 ## CVE-2023-27326 (2024-05-03T02:15:00)
