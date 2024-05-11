@@ -100,6 +100,26 @@
 - [3309899621/CVE-2024-34310](https://github.com/3309899621/CVE-2024-34310)	<img alt="forks" src="https://img.shields.io/github/forks/3309899621/CVE-2024-34310">	<img alt="stars" src="https://img.shields.io/github/stars/3309899621/CVE-2024-34310">
 
 ---
+## CVE-2024-34226 ()
+> 
+- [dovankha/CVE-2024-34226](https://github.com/dovankha/CVE-2024-34226)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34226">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34226">
+
+---
+## CVE-2024-34225 ()
+> 
+- [dovankha/CVE-2024-34225](https://github.com/dovankha/CVE-2024-34225)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34225">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34225">
+
+---
+## CVE-2024-34224 ()
+> 
+- [dovankha/CVE-2024-34224](https://github.com/dovankha/CVE-2024-34224)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34224">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34224">
+
+---
+## CVE-2024-34223 ()
+> 
+- [dovankha/CVE-2024-34223](https://github.com/dovankha/CVE-2024-34223)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34223">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34223">
+
+---
 ## CVE-2024-34222 ()
 > 
 - [dovankha/CVE-2024-34222](https://github.com/dovankha/CVE-2024-34222)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34222">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34222">
