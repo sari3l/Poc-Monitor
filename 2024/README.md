@@ -2400,6 +2400,11 @@ This is possible because the application is vulnerable to insecure deserializati
 - [Symbolexe/CVE-2024-1642470](https://github.com/Symbolexe/CVE-2024-1642470)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2024-1642470">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2024-1642470">
 
 ---
+## CVE-2024-1561 (2024-04-16T00:15:00)
+> An issue was discovered in gradio-app/gradio, where the `/component_server` endpoint improperly allows the invocation of any method on a `Component` class with attacker-controlled arguments. Specifically, by exploiting the `move_resource_to_block_cache()` method of the `Block` class, an attacker can copy any file on the filesystem to a temporary directory and subsequently retrieve it. This vulnerability enables unauthorized local file read access, posing a significant risk especially when the application is exposed to the internet via `launch(share=True)`, thereby allowing remote attackers to read files on the host machine. Furthermore, gradio apps hosted on `huggingface.co` are also affected, potentially leading to the exposure of sensitive information such as API keys and credentials stored in environment variables.
+- [DiabloHTB/CVE-2024-1561](https://github.com/DiabloHTB/CVE-2024-1561)	<img alt="forks" src="https://img.shields.io/github/forks/DiabloHTB/CVE-2024-1561">	<img alt="stars" src="https://img.shields.io/github/stars/DiabloHTB/CVE-2024-1561">
+
+---
 ## CVE-2024-1512 (2024-02-17T08:15:00)
 > The MasterStudy LMS WordPress Plugin – for Online Courses and Education plugin for WordPress is vulnerable to union based SQL Injection via the 'user' parameter of the /lms/stm-lms/order/items REST route in all versions up to, and including, 3.2.5 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512)	<img alt="forks" src="https://img.shields.io/github/forks/rat-c/CVE-2024-1512">	<img alt="stars" src="https://img.shields.io/github/stars/rat-c/CVE-2024-1512">
