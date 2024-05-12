@@ -95,6 +95,11 @@
 - [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2024-34469">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2024-34469">
 
 ---
+## CVE-2024-34351 ()
+> 
+- [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
+
+---
 ## CVE-2024-34310 ()
 > 
 - [3309899621/CVE-2024-34310](https://github.com/3309899621/CVE-2024-34310)	<img alt="forks" src="https://img.shields.io/github/forks/3309899621/CVE-2024-34310">	<img alt="stars" src="https://img.shields.io/github/stars/3309899621/CVE-2024-34310">
