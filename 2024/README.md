@@ -189,6 +189,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection](https://github.com/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection">
 - [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/marconesler/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/marconesler/CVE-2024-3400">
 - [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/marconesler/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/marconesler/CVE-2024-3400">
+- [andrelia-hacks/CVE-2024-3400](https://github.com/andrelia-hacks/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/andrelia-hacks/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/andrelia-hacks/CVE-2024-3400">
 
 ---
 ## CVE-2024-33911 (2024-05-02T11:15:00)
@@ -2418,6 +2419,7 @@ This is possible because the application is vulnerable to insecure deserializati
 ## CVE-2024-1561 (2024-04-16T00:15:00)
 > An issue was discovered in gradio-app/gradio, where the `/component_server` endpoint improperly allows the invocation of any method on a `Component` class with attacker-controlled arguments. Specifically, by exploiting the `move_resource_to_block_cache()` method of the `Block` class, an attacker can copy any file on the filesystem to a temporary directory and subsequently retrieve it. This vulnerability enables unauthorized local file read access, posing a significant risk especially when the application is exposed to the internet via `launch(share=True)`, thereby allowing remote attackers to read files on the host machine. Furthermore, gradio apps hosted on `huggingface.co` are also affected, potentially leading to the exposure of sensitive information such as API keys and credentials stored in environment variables.
 - [DiabloHTB/CVE-2024-1561](https://github.com/DiabloHTB/CVE-2024-1561)	<img alt="forks" src="https://img.shields.io/github/forks/DiabloHTB/CVE-2024-1561">	<img alt="stars" src="https://img.shields.io/github/stars/DiabloHTB/CVE-2024-1561">
+- [DiabloHTB/Nuclei-Template-CVE-2024-1561](https://github.com/DiabloHTB/Nuclei-Template-CVE-2024-1561)	<img alt="forks" src="https://img.shields.io/github/forks/DiabloHTB/Nuclei-Template-CVE-2024-1561">	<img alt="stars" src="https://img.shields.io/github/stars/DiabloHTB/Nuclei-Template-CVE-2024-1561">
 
 ---
 ## CVE-2024-1512 (2024-02-17T08:15:00)
