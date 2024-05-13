@@ -3903,6 +3903,7 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [buiduchoang24/CVE-2023-33733](https://github.com/buiduchoang24/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/buiduchoang24/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/buiduchoang24/CVE-2023-33733">
 - [onion2203/Lab_Reportlab](https://github.com/onion2203/Lab_Reportlab)	<img alt="forks" src="https://img.shields.io/github/forks/onion2203/Lab_Reportlab">	<img alt="stars" src="https://img.shields.io/github/stars/onion2203/Lab_Reportlab">
 - [huyqa/CVE-2023-33733](https://github.com/huyqa/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/huyqa/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/huyqa/CVE-2023-33733">
+- [hoangbui24/CVE-2023-33733](https://github.com/hoangbui24/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/hoangbui24/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/hoangbui24/CVE-2023-33733">
 
 ---
 ## CVE-2023-33732 (2023-05-31T20:15:00)
