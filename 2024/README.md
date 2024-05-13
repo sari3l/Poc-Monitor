@@ -1260,6 +1260,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 
 
 - [passwa11/CVE-2024-26026](https://github.com/passwa11/CVE-2024-26026)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2024-26026">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2024-26026">
+- [GRTMALDET/Big-IP-Next-CVE-2024-26026](https://github.com/GRTMALDET/Big-IP-Next-CVE-2024-26026)	<img alt="forks" src="https://img.shields.io/github/forks/GRTMALDET/Big-IP-Next-CVE-2024-26026">	<img alt="stars" src="https://img.shields.io/github/stars/GRTMALDET/Big-IP-Next-CVE-2024-26026">
 
 ---
 ## CVE-2024-25832 (2024-02-29T01:44:00)
