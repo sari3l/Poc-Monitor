@@ -6062,6 +6062,7 @@ For additional details, please see full advisory.
 - [vulncheck-oss/cve-2023-22527](https://github.com/vulncheck-oss/cve-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-22527">
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
+- [ttate10/CVE-2023-22527](https://github.com/ttate10/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/ttate10/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/ttate10/CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
