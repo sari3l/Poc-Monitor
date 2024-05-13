@@ -2396,6 +2396,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 
 - [rxerium/CVE-2023-40000](https://github.com/rxerium/CVE-2023-40000)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2023-40000">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2023-40000">
 - [iveresk/cve-2023-40000](https://github.com/iveresk/cve-2023-40000)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2023-40000">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2023-40000">
+- [quantiom/litespeed-cache-xss-poc](https://github.com/quantiom/litespeed-cache-xss-poc)	<img alt="forks" src="https://img.shields.io/github/forks/quantiom/litespeed-cache-xss-poc">	<img alt="stars" src="https://img.shields.io/github/stars/quantiom/litespeed-cache-xss-poc">
 
 ---
 ## CVE-2023-39725 ()
