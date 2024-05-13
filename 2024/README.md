@@ -26,6 +26,11 @@
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
 
 ---
+## CVE-2024-4701 ()
+> 
+- [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JoeBeeton/CVE-2024-4701-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JoeBeeton/CVE-2024-4701-POC">
+
+---
 ## CVE-2024-4444 ()
 > 
 - [JohnnyBradvo/CVE-2024-4444](https://github.com/JohnnyBradvo/CVE-2024-4444)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-4444">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-4444">
