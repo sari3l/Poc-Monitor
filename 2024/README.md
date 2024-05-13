@@ -98,6 +98,7 @@
 ## CVE-2024-34351 ()
 > 
 - [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
+- [alas1n/eslint-nextjs-cve-2024-34351-detector](https://github.com/alas1n/eslint-nextjs-cve-2024-34351-detector)	<img alt="forks" src="https://img.shields.io/github/forks/alas1n/eslint-nextjs-cve-2024-34351-detector">	<img alt="stars" src="https://img.shields.io/github/stars/alas1n/eslint-nextjs-cve-2024-34351-detector">
 
 ---
 ## CVE-2024-34310 ()
