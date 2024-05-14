@@ -81,6 +81,11 @@
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
 
 ---
+## CVE-2024-34716 ()
+> 
+- [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aelmokhtar/CVE-2024-34716_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aelmokhtar/CVE-2024-34716_PoC">
+
+---
 ## CVE-2024-34474 (2024-05-05T15:15:00)
 > Clario through 2024-04-11 for Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM.
 - [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-34474">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-34474">
