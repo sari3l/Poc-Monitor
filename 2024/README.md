@@ -1087,7 +1087,7 @@ QuTScloud c5.1.5.2651 and later
 - [FoxyProxys/CVE-2024-27956](https://github.com/FoxyProxys/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-27956">
 - [k3ppf0r/CVE-2024-27956](https://github.com/k3ppf0r/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/k3ppf0r/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/k3ppf0r/CVE-2024-27956">
 - [nancyariah4/CVE-2024-27956](https://github.com/nancyariah4/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-27956">
-- [AiGptCode/Wordpress-cve-2024-27956-auto-shell](https://github.com/AiGptCode/Wordpress-cve-2024-27956-auto-shell)	<img alt="forks" src="https://img.shields.io/github/forks/AiGptCode/Wordpress-cve-2024-27956-auto-shell">	<img alt="stars" src="https://img.shields.io/github/stars/AiGptCode/Wordpress-cve-2024-27956-auto-shell">
+- [AiGptCode/WordPress-Admin-Account-and-Reverse-Shell-cve-2024-27956](https://github.com/AiGptCode/WordPress-Admin-Account-and-Reverse-Shell-cve-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/AiGptCode/WordPress-Admin-Account-and-Reverse-Shell-cve-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/AiGptCode/WordPress-Admin-Account-and-Reverse-Shell-cve-2024-27956">
 
 ---
 ## CVE-2024-27804 ()
