@@ -2001,6 +2001,11 @@
 - [Live-Hack-CVE/CVE-2020-27841](https://github.com/Live-Hack-CVE/CVE-2020-27841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27841">
 
 ---
+## CVE-2020-27838 (2021-03-08T22:15:00)
+> A flaw was found in keycloak in versions prior to 13.0.0. The client registration endpoint allows fetching information about PUBLIC clients (like client secret) without authentication which could be an issue if the same PUBLIC client changed to CONFIDENTIAL later. The highest threat from this vulnerability is to data confidentiality.
+- [Cappricio-Securities/CVE-2020-27838](https://github.com/Cappricio-Securities/CVE-2020-27838)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2020-27838">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2020-27838">
+
+---
 ## CVE-2020-27836 (2022-08-22T15:15:00)
 > A flaw was found in cluster-ingress-operator. A change to how the router-default service allows only certain IP source ranges could allow an attacker to access resources that would otherwise be restricted to specified IP ranges. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability..
 - [Live-Hack-CVE/CVE-2020-27836](https://github.com/Live-Hack-CVE/CVE-2020-27836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27836">
