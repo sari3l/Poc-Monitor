@@ -6351,6 +6351,7 @@ For more details, please review the linked advisory on this CVE.
 
 
 - [uthrasri/framework_base_CVE-2023-21285_NoPatch](https://github.com/uthrasri/framework_base_CVE-2023-21285_NoPatch)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/framework_base_CVE-2023-21285_NoPatch">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/framework_base_CVE-2023-21285_NoPatch">
+- [krnidhi/frameworks_base_AOSP10_r33_CVE-2023-21285](https://github.com/krnidhi/frameworks_base_AOSP10_r33_CVE-2023-21285)	<img alt="forks" src="https://img.shields.io/github/forks/krnidhi/frameworks_base_AOSP10_r33_CVE-2023-21285">	<img alt="stars" src="https://img.shields.io/github/stars/krnidhi/frameworks_base_AOSP10_r33_CVE-2023-21285">
 
 ---
 ## CVE-2023-21284 (2023-08-14T22:15:00)
