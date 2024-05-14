@@ -26,18 +26,18 @@
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
 
 ---
-## CVE-2024-4761 ()
-> 
+## CVE-2024-4761 (2024-05-14T16:17:00)
+> Out of bounds write in V8 in Google Chrome prior to 124.0.6367.207 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: High)
 - [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761)	<img alt="forks" src="https://img.shields.io/github/forks/michredteam/CVE-2024-4761">	<img alt="stars" src="https://img.shields.io/github/stars/michredteam/CVE-2024-4761">
 
 ---
-## CVE-2024-4701 ()
-> 
+## CVE-2024-4701 (2024-05-14T15:44:00)
+> A path traversal issue potentially leading to remote code execution in Genie for all versions prior to 4.3.18
 - [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JoeBeeton/CVE-2024-4701-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JoeBeeton/CVE-2024-4701-POC">
 
 ---
-## CVE-2024-4444 ()
-> 
+## CVE-2024-4444 (2024-05-14T15:43:00)
+> The LearnPress – WordPress LMS Plugin plugin for WordPress is vulnerable to bypass to user registration in versions up to, and including, 4.2.6.5. This is due to missing checks in the 'create_account' function in the checkout. This makes it possible for unauthenticated attackers to register as the default role on the site, even if registration is disabled.
 - [JohnnyBradvo/CVE-2024-4444](https://github.com/JohnnyBradvo/CVE-2024-4444)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-4444">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-4444">
 
 ---
@@ -76,13 +76,13 @@
 - [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867)	<img alt="forks" src="https://img.shields.io/github/forks/c4cnm/CVE-2024-3867">	<img alt="stars" src="https://img.shields.io/github/stars/c4cnm/CVE-2024-3867">
 
 ---
-## CVE-2024-3806 ()
-> 
+## CVE-2024-3806 (2024-05-14T15:42:00)
+> The Porto theme for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 7.1.0 via the 'porto_ajax_posts' function. This makes it possible for unauthenticated attackers to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where php file type can be uploaded and included.
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
 
 ---
-## CVE-2024-34716 ()
-> 
+## CVE-2024-34716 (2024-05-14T16:17:00)
+> PrestaShop is an open source e-commerce web application. A cross-site scripting (XSS) vulnerability that only affects PrestaShops with customer-thread feature flag enabled is present starting from PrestaShop 8.1.0 and prior to PrestaShop 8.1.6. When the customer thread feature flag is enabled through the front-office contact form, a hacker can upload a malicious file containing an XSS that will be executed when an admin opens the attached file in back office. The script injected can access the session and the security token, which allows it to perform any authenticated action in the scope of the administrator's right. This vulnerability is patched in 8.1.6. A workaround is to disable the customer-thread feature-flag.
 - [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aelmokhtar/CVE-2024-34716_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aelmokhtar/CVE-2024-34716_PoC">
 
 ---
@@ -111,49 +111,49 @@
 - [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2024-34469">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2024-34469">
 
 ---
-## CVE-2024-34351 ()
-> 
+## CVE-2024-34351 (2024-05-14T15:38:00)
+> Next.js is a React framework that can provide building blocks to create web applications. A Server-Side Request Forgery (SSRF) vulnerability was identified in Next.js Server Actions. If the `Host` header is modified, and the below conditions are also met, an attacker may be able to make requests that appear to be originating from the Next.js application server itself. The required conditions are 1) Next.js is running in a self-hosted manner; 2) the Next.js application makes use of Server Actions; and 3) the Server Action performs a redirect to a relative path which starts with a `/`. This vulnerability was fixed in Next.js `14.1.1`.
 - [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
 - [alas1n/eslint-nextjs-cve-2024-34351-detector](https://github.com/alas1n/eslint-nextjs-cve-2024-34351-detector)	<img alt="forks" src="https://img.shields.io/github/forks/alas1n/eslint-nextjs-cve-2024-34351-detector">	<img alt="stars" src="https://img.shields.io/github/stars/alas1n/eslint-nextjs-cve-2024-34351-detector">
 
 ---
-## CVE-2024-34310 ()
-> 
+## CVE-2024-34310 (2024-05-14T15:38:00)
+> Jin Fang Times Content Management System v3.2.3 was discovered to contain a SQL injection vulnerability via the id parameter.
 - [3309899621/CVE-2024-34310](https://github.com/3309899621/CVE-2024-34310)	<img alt="forks" src="https://img.shields.io/github/forks/3309899621/CVE-2024-34310">	<img alt="stars" src="https://img.shields.io/github/stars/3309899621/CVE-2024-34310">
 
 ---
-## CVE-2024-34226 ()
-> 
+## CVE-2024-34226 (2024-05-14T15:38:00)
+> SQL injection vulnerability in /php-sqlite-vms/?page=manage_visitor&id=1 in SourceCodester Visitor Management System 1.0 allow attackers to execute arbitrary SQL commands via the id parameters.
 - [dovankha/CVE-2024-34226](https://github.com/dovankha/CVE-2024-34226)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34226">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34226">
 
 ---
-## CVE-2024-34225 ()
-> 
+## CVE-2024-34225 (2024-05-14T15:38:00)
+> Cross Site Scripting vulnerability in php-lms/admin/?page=system_info in Computer Laboratory Management System using PHP and MySQL 1.0 allow remote attackers to inject arbitrary web script or HTML via the name, shortname parameters.
 - [dovankha/CVE-2024-34225](https://github.com/dovankha/CVE-2024-34225)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34225">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34225">
 
 ---
-## CVE-2024-34224 ()
-> 
+## CVE-2024-34224 (2024-05-14T15:38:00)
+> Cross Site Scripting vulnerability in /php-lms/classes/Users.php?f=save in Computer Laboratory Management System using PHP and MySQL 1.0 allow remote attackers to inject arbitrary web script or HTML via the firstname, middlename, lastname parameters.
 - [dovankha/CVE-2024-34224](https://github.com/dovankha/CVE-2024-34224)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34224">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34224">
 
 ---
-## CVE-2024-34223 ()
-> 
+## CVE-2024-34223 (2024-05-14T15:38:00)
+> Insecure permission vulnerability in /hrm/leaverequest.php in SourceCodester Human Resource Management System 1.0 allow attackers to approve or reject leave ticket.
 - [dovankha/CVE-2024-34223](https://github.com/dovankha/CVE-2024-34223)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34223">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34223">
 
 ---
-## CVE-2024-34222 ()
-> 
+## CVE-2024-34222 (2024-05-14T15:38:00)
+> Sourcecodester Human Resource Management System 1.0 is vulnerable to SQL Injection via the searccountry parameter.
 - [dovankha/CVE-2024-34222](https://github.com/dovankha/CVE-2024-34222)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34222">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34222">
 
 ---
-## CVE-2024-34221 ()
-> 
+## CVE-2024-34221 (2024-05-14T15:38:00)
+> Sourcecodester Human Resource Management System 1.0 is vulnerable to Insecure Permissions resulting in privilege escalation.
 - [dovankha/CVE-2024-34221](https://github.com/dovankha/CVE-2024-34221)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34221">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34221">
 
 ---
-## CVE-2024-34220 ()
-> 
+## CVE-2024-34220 (2024-05-14T15:38:00)
+> Sourcecodester Human Resource Management System 1.0 is vulnerable to SQL Injection via the 'leave' parameter.
 - [dovankha/CVE-2024-34220](https://github.com/dovankha/CVE-2024-34220)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34220">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34220">
 
 ---
@@ -226,8 +226,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-33438">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-33438">
 
 ---
-## CVE-2024-33386 ()
-> 
+## CVE-2024-33386 (2024-05-14T15:37:00)
+> An issue in SoundCloud Prometheu v.2.5.1 and before allows a remote attacker to execute arbitrary code via the query parameter.
 - [keaidmmc/CVE-2024-33386](https://github.com/keaidmmc/CVE-2024-33386)	<img alt="forks" src="https://img.shields.io/github/forks/keaidmmc/CVE-2024-33386">	<img alt="stars" src="https://img.shields.io/github/stars/keaidmmc/CVE-2024-33386">
 
 ---
@@ -291,8 +291,8 @@ QuTScloud c5.1.5.2651 and later
 - [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399)	<img alt="forks" src="https://img.shields.io/github/forks/NN0b0dy/CVE-2024-32399">	<img alt="stars" src="https://img.shields.io/github/stars/NN0b0dy/CVE-2024-32399">
 
 ---
-## CVE-2024-3239 ()
-> 
+## CVE-2024-3239 (2024-05-14T15:40:00)
+> The Post Grid Gutenberg Blocks and WordPress Blog Plugin  WordPress plugin before 4.0.2 does not validate and escape some of its block options before outputting them back in a page/post where the block is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks
 - [NN0b0dy/CVE-2024-3239](https://github.com/NN0b0dy/CVE-2024-3239)	<img alt="forks" src="https://img.shields.io/github/forks/NN0b0dy/CVE-2024-3239">	<img alt="stars" src="https://img.shields.io/github/stars/NN0b0dy/CVE-2024-3239">
 
 ---
@@ -360,8 +360,8 @@ QuTScloud c5.1.5.2651 and later
 - [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777)	<img alt="forks" src="https://img.shields.io/github/forks/FreySolarEye/Exploit-CVE-2024-31777">	<img alt="stars" src="https://img.shields.io/github/stars/FreySolarEye/Exploit-CVE-2024-31777">
 
 ---
-## CVE-2024-31771 ()
-> 
+## CVE-2024-31771 (2024-05-14T15:25:00)
+> Insecure Permission vulnerability in TotalAV v.6.0.740 allows a local attacker to escalate privileges via a crafted file
 - [restdone/CVE-2024-31771](https://github.com/restdone/CVE-2024-31771)	<img alt="forks" src="https://img.shields.io/github/forks/restdone/CVE-2024-31771">	<img alt="stars" src="https://img.shields.io/github/stars/restdone/CVE-2024-31771">
 
 ---
@@ -1032,18 +1032,18 @@ QuTScloud c5.1.5.2651 and later
 - [adminquit/CVE-2024-28288](https://github.com/adminquit/CVE-2024-28288)	<img alt="forks" src="https://img.shields.io/github/forks/adminquit/CVE-2024-28288">	<img alt="stars" src="https://img.shields.io/github/stars/adminquit/CVE-2024-28288">
 
 ---
-## CVE-2024-28279 ()
-> 
+## CVE-2024-28279 (2024-05-14T15:14:00)
+> Code-projects Computer Book Store 1.0 is vulnerable to SQL Injection via book.php?bookisbn=.
 - [unrealjbr/CVE-2024-28279](https://github.com/unrealjbr/CVE-2024-28279)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-28279">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-28279">
 
 ---
-## CVE-2024-28277 ()
-> 
+## CVE-2024-28277 (2024-05-14T15:14:00)
+> In Sourcecodester School Task Manager v1.0, a vulnerability was identified within the subject_name= parameter, enabling Stored Cross-Site Scripting (XSS) attacks. This vulnerability allows attackers to manipulate the subject's name, potentially leading to the execution of malicious JavaScript payloads.
 - [unrealjbr/CVE-2024-28277](https://github.com/unrealjbr/CVE-2024-28277)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-28277">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-28277">
 
 ---
-## CVE-2024-28276 ()
-> 
+## CVE-2024-28276 (2024-05-14T15:14:00)
+> Sourcecodester School Task Manager 1.0 is vulnerable to Cross Site Scripting (XSS) via add-task.php?task_name=.
 - [unrealjbr/CVE-2024-28276](https://github.com/unrealjbr/CVE-2024-28276)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-28276">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-28276">
 
 ---
@@ -1100,8 +1100,8 @@ QuTScloud c5.1.5.2651 and later
 - [AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956](https://github.com/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956">
 
 ---
-## CVE-2024-27804 ()
-> 
+## CVE-2024-27804 (2024-05-14T15:13:00)
+> The issue was addressed with improved memory handling. This issue is fixed in iOS 17.5 and iPadOS 17.5, tvOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
 - [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804)	<img alt="forks" src="https://img.shields.io/github/forks/R00tkitSMM/CVE-2024-27804">	<img alt="stars" src="https://img.shields.io/github/stars/R00tkitSMM/CVE-2024-27804">
 
 ---
@@ -1150,8 +1150,8 @@ QuTScloud c5.1.5.2651 and later
 - [Alaatk/CVE-2024-27462](https://github.com/Alaatk/CVE-2024-27462)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27462">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27462">
 
 ---
-## CVE-2024-27460 ()
-> 
+## CVE-2024-27460 (2024-05-14T15:12:00)
+> A privilege escalation exists in the updater for Plantronics Hub 3.25.1 and below.
 - [Alaatk/CVE-2024-27460](https://github.com/Alaatk/CVE-2024-27460)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27460">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27460">
 
 ---
@@ -1228,8 +1228,8 @@ overflow.
 - [hackervegas001/CVE-2024-26521](https://github.com/hackervegas001/CVE-2024-26521)	<img alt="forks" src="https://img.shields.io/github/forks/hackervegas001/CVE-2024-26521">	<img alt="stars" src="https://img.shields.io/github/stars/hackervegas001/CVE-2024-26521">
 
 ---
-## CVE-2024-26517 ()
-> 
+## CVE-2024-26517 (2024-05-14T15:09:00)
+> SQL Injection vulnerability in School Task Manager v.1.0 allows a remote attacker to obtain sensitive information via a crafted payload to the delete-task.php component.
 - [unrealjbr/CVE-2024-26517](https://github.com/unrealjbr/CVE-2024-26517)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-26517">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-26517">
 
 ---
@@ -1888,8 +1888,8 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2024-22867">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2024-22867">
 
 ---
-## CVE-2024-22774 ()
-> 
+## CVE-2024-22774 (2024-05-14T14:58:00)
+> An issue in Panoramic Corporation Digital Imaging Software v.9.1.2.7600 allows a local attacker to escalate privileges via the ccsservice.exe component.
 - [Gray-0men/CVE-2024-22774](https://github.com/Gray-0men/CVE-2024-22774)	<img alt="forks" src="https://img.shields.io/github/forks/Gray-0men/CVE-2024-22774">	<img alt="stars" src="https://img.shields.io/github/stars/Gray-0men/CVE-2024-22774">
 
 ---

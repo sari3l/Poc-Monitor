@@ -311,8 +311,17 @@ to load arbitrary JavaScript code.
 - [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/angkerithhack001/CVE-2023-5360-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/angkerithhack001/CVE-2023-5360-PoC">
 
 ---
-## CVE-2023-52654 ()
-> 
+## CVE-2023-52654 (2024-05-14T14:23:00)
+> In the Linux kernel, the following vulnerability has been resolved:
+
+io_uring/af_unix: disable sending io_uring over sockets
+
+File reference cycles have caused lots of problems for io_uring
+in the past, and it still doesn't work exactly right and races with
+unix_stream_read_generic(). The safest fix would be to completely
+disallow sending io_uring files via sockets via SCM_RIGHT, so there
+are no possible cycles invloving registered files and thus rendering
+SCM accounting on the io_uring side unnecessary.
 - [FoxyProxys/CVE-2023-52654](https://github.com/FoxyProxys/CVE-2023-52654)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2023-52654">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2023-52654">
 
 ---
@@ -1251,8 +1260,8 @@ QuTScloud c5.1.5.2651 and later
 - [AzraelsBlade/CVE-2023-46948](https://github.com/AzraelsBlade/CVE-2023-46948)	<img alt="forks" src="https://img.shields.io/github/forks/AzraelsBlade/CVE-2023-46948">	<img alt="stars" src="https://img.shields.io/github/stars/AzraelsBlade/CVE-2023-46948">
 
 ---
-## CVE-2023-46870 ()
-> 
+## CVE-2023-46870 (2024-05-14T13:54:00)
+> extcap/nrf_sniffer_ble.py, extcap/nrf_sniffer_ble.sh, extcap/SnifferAPI/*.py in Nordic Semiconductor nRF Sniffer for Bluetooth LE 3.0.0, 3.1.0, 4.0.0, 4.1.0, and 4.1.1 have set incorrect file permission, which allows attackers to do code execution via modified bash and python scripts.
 - [Chapoly1305/CVE-2023-46870](https://github.com/Chapoly1305/CVE-2023-46870)	<img alt="forks" src="https://img.shields.io/github/forks/Chapoly1305/CVE-2023-46870">	<img alt="stars" src="https://img.shields.io/github/stars/Chapoly1305/CVE-2023-46870">
 
 ---
@@ -5663,8 +5672,8 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317)	<img alt="forks" src="https://img.shields.io/github/forks/angelopioamirante/CVE-2023-24317">	<img alt="stars" src="https://img.shields.io/github/stars/angelopioamirante/CVE-2023-24317">
 
 ---
-## CVE-2023-24203 ()
-> 
+## CVE-2023-24203 (2024-05-14T17:15:00)
+> Cross Site Scripting vulnerability in SourceCodester Simple Customer Relationship Management System v1.0 allows attacker to execute arbitary code via the company or query parameter(s).
 - [momo1239/CVE-2023-24203-and-CVE-2023-24204](https://github.com/momo1239/CVE-2023-24203-and-CVE-2023-24204)	<img alt="forks" src="https://img.shields.io/github/forks/momo1239/CVE-2023-24203-and-CVE-2023-24204">	<img alt="stars" src="https://img.shields.io/github/stars/momo1239/CVE-2023-24203-and-CVE-2023-24204">
 
 ---
