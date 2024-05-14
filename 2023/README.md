@@ -5085,7 +5085,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-](https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">
 - [NguyenCongHaiNam/Research-CVE-2023-27524](https://github.com/NguyenCongHaiNam/Research-CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/NguyenCongHaiNam/Research-CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/NguyenCongHaiNam/Research-CVE-2023-27524">
 - [karthi-the-hacker/CVE-2023-27524](https://github.com/karthi-the-hacker/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2023-27524">
-- [Cappricio-Securities/CVE-2023-2752](https://github.com/Cappricio-Securities/CVE-2023-2752)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-2752">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-2752">
+- [Cappricio-Securities/CVE-2023-27524](https://github.com/Cappricio-Securities/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-27524">
 
 ---
 ## CVE-2023-2752 (2023-05-17T08:15:00)
