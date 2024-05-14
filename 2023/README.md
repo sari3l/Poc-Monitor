@@ -5662,6 +5662,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317)	<img alt="forks" src="https://img.shields.io/github/forks/angelopioamirante/CVE-2023-24317">	<img alt="stars" src="https://img.shields.io/github/stars/angelopioamirante/CVE-2023-24317">
 
 ---
+## CVE-2023-24203 ()
+> 
+- [momo1239/CVE-2023-24203-and-CVE-2023-24204](https://github.com/momo1239/CVE-2023-24203-and-CVE-2023-24204)	<img alt="forks" src="https://img.shields.io/github/forks/momo1239/CVE-2023-24203-and-CVE-2023-24204">	<img alt="stars" src="https://img.shields.io/github/stars/momo1239/CVE-2023-24203-and-CVE-2023-24204">
+
+---
 ## CVE-2023-24100 ()
 > 
 - [badboycxcc/CVE-2023-24100](https://github.com/badboycxcc/CVE-2023-24100)	<img alt="forks" src="https://img.shields.io/github/forks/badboycxcc/CVE-2023-24100">	<img alt="stars" src="https://img.shields.io/github/stars/badboycxcc/CVE-2023-24100">
