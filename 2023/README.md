@@ -6236,6 +6236,7 @@ For more details, please review the linked advisory on this CVE.
 - [zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit](https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit">
 - [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Rosayxy/Recreate-cve-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Rosayxy/Recreate-cve-2023-21768">
 - [Ha0-Y/CVE-2023-21768](https://github.com/Ha0-Y/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Ha0-Y/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Ha0-Y/CVE-2023-21768">
+- [xboxoneresearch/CVE-2023-21768-dotnet](https://github.com/xboxoneresearch/CVE-2023-21768-dotnet)	<img alt="forks" src="https://img.shields.io/github/forks/xboxoneresearch/CVE-2023-21768-dotnet">	<img alt="stars" src="https://img.shields.io/github/stars/xboxoneresearch/CVE-2023-21768-dotnet">
 
 ---
 ## CVE-2023-21766 (2023-01-10T22:15:00)
