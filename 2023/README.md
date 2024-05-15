@@ -2295,8 +2295,8 @@ The specific flaw exists within the processing of recovery volumes. The issue re
 - [vianic/CVE-2023-40361](https://github.com/vianic/CVE-2023-40361)	<img alt="forks" src="https://img.shields.io/github/forks/vianic/CVE-2023-40361">	<img alt="stars" src="https://img.shields.io/github/stars/vianic/CVE-2023-40361">
 
 ---
-## CVE-2023-40297 ()
-> 
+## CVE-2023-40297 (2024-05-15T20:15:00)
+> Stakater Forecastle 1.0.139 and before allows %5C../ directory traversal in the website component.
 - [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2023-40297">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2023-40297">
 
 ---
