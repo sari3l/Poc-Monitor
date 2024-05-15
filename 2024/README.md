@@ -1159,6 +1159,7 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-27460 (2024-05-14T15:12:00)
 > A privilege escalation exists in the updater for Plantronics Hub 3.25.1 and below.
 - [Alaatk/CVE-2024-27460](https://github.com/Alaatk/CVE-2024-27460)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27460">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27460">
+- [xct/CVE-2024-27460](https://github.com/xct/CVE-2024-27460)	<img alt="forks" src="https://img.shields.io/github/forks/xct/CVE-2024-27460">	<img alt="stars" src="https://img.shields.io/github/stars/xct/CVE-2024-27460">
 
 ---
 ## CVE-2024-27316 (2024-04-04T20:15:00)
