@@ -4819,6 +4819,11 @@
 - [Live-Hack-CVE/CVE-2021-34702](https://github.com/Live-Hack-CVE/CVE-2021-34702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34702">
 
 ---
+## CVE-2021-34646 (2021-08-30T19:15:00)
+> Versions up to, and including, 5.4.3, of the Booster for WooCommerce WordPress plugin are vulnerable to authentication bypass via the process_email_verification function due to a random token generation weakness in the reset_and_mail_activation_link function found in the ~/includes/class-wcj-emails-verification.php file. This allows attackers to impersonate users and trigger an email address verification for arbitrary accounts, including administrative accounts, and automatically be logged in as that user, including any site administrators. This requires the Email Verification module to be active in the plugin and the Login User After Successful Verification setting to be enabled, which it is by default.
+- [0xB455/CVE-2021-34646](https://github.com/0xB455/CVE-2021-34646)	<img alt="forks" src="https://img.shields.io/github/forks/0xB455/CVE-2021-34646">	<img alt="stars" src="https://img.shields.io/github/stars/0xB455/CVE-2021-34646">
+
+---
 ## CVE-2021-34629 (2021-07-30T21:15:00)
 > The SendGrid WordPress plugin is vulnerable to authorization bypass via the get_ajax_statistics function found in the ~/lib/class-sendgrid-statistics.php file which allows authenticated users to export statistic for a WordPress multi-site main site, in versions up to and including 1.11.8.
 - [Live-Hack-CVE/CVE-2021-34629](https://github.com/Live-Hack-CVE/CVE-2021-34629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34629">
