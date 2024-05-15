@@ -4822,6 +4822,7 @@
 ## CVE-2021-34646 (2021-08-30T19:15:00)
 > Versions up to, and including, 5.4.3, of the Booster for WooCommerce WordPress plugin are vulnerable to authentication bypass via the process_email_verification function due to a random token generation weakness in the reset_and_mail_activation_link function found in the ~/includes/class-wcj-emails-verification.php file. This allows attackers to impersonate users and trigger an email address verification for arbitrary accounts, including administrative accounts, and automatically be logged in as that user, including any site administrators. This requires the Email Verification module to be active in the plugin and the Login User After Successful Verification setting to be enabled, which it is by default.
 - [0xB455/CVE-2021-34646](https://github.com/0xB455/CVE-2021-34646)	<img alt="forks" src="https://img.shields.io/github/forks/0xB455/CVE-2021-34646">	<img alt="stars" src="https://img.shields.io/github/stars/0xB455/CVE-2021-34646">
+- [motikan2010/CVE-2021-34646](https://github.com/motikan2010/CVE-2021-34646)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2021-34646">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2021-34646">
 
 ---
 ## CVE-2021-34629 (2021-07-30T21:15:00)
