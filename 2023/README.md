@@ -41,6 +41,7 @@
 - [Trackflaw/CVE-2023-7028-Docker](https://github.com/Trackflaw/CVE-2023-7028-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2023-7028-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2023-7028-Docker">
 - [mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/mochammadrafi/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/mochammadrafi/CVE-2023-7028">
 - [hackeremmen/gitlab-exploit](https://github.com/hackeremmen/gitlab-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hackeremmen/gitlab-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hackeremmen/gitlab-exploit">
+- [0xB455/CVE-2023-7028](https://github.com/0xB455/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/0xB455/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/0xB455/CVE-2023-7028">
 
 ---
 ## CVE-2023-7016 (2024-02-27T11:15:00)
