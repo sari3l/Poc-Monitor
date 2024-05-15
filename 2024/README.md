@@ -1098,6 +1098,7 @@ QuTScloud c5.1.5.2651 and later
 - [k3ppf0r/CVE-2024-27956](https://github.com/k3ppf0r/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/k3ppf0r/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/k3ppf0r/CVE-2024-27956">
 - [nancyariah4/CVE-2024-27956](https://github.com/nancyariah4/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-27956">
 - [AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956](https://github.com/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956">
+- [W3BW/CVE-2024-27956-RCE-File-Package](https://github.com/W3BW/CVE-2024-27956-RCE-File-Package)	<img alt="forks" src="https://img.shields.io/github/forks/W3BW/CVE-2024-27956-RCE-File-Package">	<img alt="stars" src="https://img.shields.io/github/stars/W3BW/CVE-2024-27956-RCE-File-Package">
 
 ---
 ## CVE-2024-27804 (2024-05-14T15:13:00)
