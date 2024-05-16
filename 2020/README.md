@@ -5112,6 +5112,7 @@
 - [dlee35/curveball_lua](https://github.com/dlee35/curveball_lua)	<img alt="forks" src="https://img.shields.io/github/forks/dlee35/curveball_lua">	<img alt="stars" src="https://img.shields.io/github/stars/dlee35/curveball_lua">
 - [IIICTECH/-CVE-2020-0601-ECC---EXPLOIT](https://github.com/IIICTECH/-CVE-2020-0601-ECC---EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/IIICTECH/-CVE-2020-0601-ECC---EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/IIICTECH/-CVE-2020-0601-ECC---EXPLOIT">
 - [JoelBts/CVE-2020-0601_PoC](https://github.com/JoelBts/CVE-2020-0601_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JoelBts/CVE-2020-0601_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JoelBts/CVE-2020-0601_PoC">
+- [tyj956413282/curveball-plus](https://github.com/tyj956413282/curveball-plus)	<img alt="forks" src="https://img.shields.io/github/forks/tyj956413282/curveball-plus">	<img alt="stars" src="https://img.shields.io/github/stars/tyj956413282/curveball-plus">
 
 ---
 ## CVE-2020-0590 (2020-11-12T18:15:00)
