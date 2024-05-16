@@ -366,6 +366,7 @@ QuTScloud c5.1.5.2651 and later
 - [Disseminator/submodule-CVE-2024-32002](https://github.com/Disseminator/submodule-CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/submodule-CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/submodule-CVE-2024-32002">
 - [Disseminator/submodule-CVE-2024-32002](https://github.com/Disseminator/submodule-CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/submodule-CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/submodule-CVE-2024-32002">
 - [Disseminator/CVE-2024-32002](https://github.com/Disseminator/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/CVE-2024-32002">
+- [Disseminator/CVE-2024-32002](https://github.com/Disseminator/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
