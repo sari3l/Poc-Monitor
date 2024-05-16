@@ -1715,6 +1715,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [Anekant-Singhai/Exploits](https://github.com/Anekant-Singhai/Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Anekant-Singhai/Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Anekant-Singhai/Exploits">
 - [murataydemir/CVE-2024-23897](https://github.com/murataydemir/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2024-23897">
 - [mil4ne/CVE-2024-23897-Jenkins-4.441](https://github.com/mil4ne/CVE-2024-23897-Jenkins-4.441)	<img alt="forks" src="https://img.shields.io/github/forks/mil4ne/CVE-2024-23897-Jenkins-4.441">	<img alt="stars" src="https://img.shields.io/github/stars/mil4ne/CVE-2024-23897-Jenkins-4.441">
+- [Maalfer/CVE-2024-23897-PoC---Local-File-Inclusion](https://github.com/Maalfer/CVE-2024-23897-PoC---Local-File-Inclusion)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2024-23897-PoC---Local-File-Inclusion">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2024-23897-PoC---Local-File-Inclusion">
 
 ---
 ## CVE-2024-2389 ()
