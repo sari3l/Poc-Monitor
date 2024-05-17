@@ -2309,6 +2309,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21111 (2024-04-16T22:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 7.0.16. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. Note: This vulnerability applies to Windows hosts only. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).
 - [mansk1es/CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-21111">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-21111">
+- [10cks/CVE-2024-21111-del](https://github.com/10cks/CVE-2024-21111-del)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-21111-del">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-21111-del">
 
 ---
 ## CVE-2024-21107 (2024-04-16T22:15:00)
