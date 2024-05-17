@@ -1433,8 +1433,8 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [nidhi7598/linux-4.19.72_net_CVE-2023-4622](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4622)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_net_CVE-2023-4622">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_net_CVE-2023-4622">
 
 ---
-## CVE-2023-46197 ()
-> 
+## CVE-2023-46197 (2024-05-17T09:15:00)
+> Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in supsystic.Com Popup by Supsystic allows Relative Path Traversal.This issue affects Popup by Supsystic: from n/a through 1.10.19.
 - [RandomRobbieBF/CVE-2023-46197](https://github.com/RandomRobbieBF/CVE-2023-46197)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-46197">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-46197">
 
 ---

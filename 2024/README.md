@@ -296,8 +296,8 @@ QuTScloud c5.1.5.2651 and later
 - [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-32640-SQLI-MuraCMS">
 
 ---
-## CVE-2024-32523 ()
-> 
+## CVE-2024-32523 (2024-05-17T09:15:00)
+> Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in EverPress Mailster allows PHP Local File Inclusion.This issue affects Mailster: from n/a through 4.0.6.
 - [truonghuuphuc/CVE-2024-32523-Poc](https://github.com/truonghuuphuc/CVE-2024-32523-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-32523-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-32523-Poc">
 
 ---
@@ -1113,8 +1113,8 @@ QuTScloud c5.1.5.2651 and later
 - [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/CVE-2024-27983-nodejs-http2">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/CVE-2024-27983-nodejs-http2">
 
 ---
-## CVE-2024-27971 ()
-> 
+## CVE-2024-27971 (2024-05-17T09:15:00)
+> Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Premmerce Premmerce Permalink Manager for WooCommerce allows PHP Local File Inclusion.This issue affects Premmerce Permalink Manager for WooCommerce: from n/a through 2.3.10.
 - [truonghuuphuc/CVE-2024-27971-Note](https://github.com/truonghuuphuc/CVE-2024-27971-Note)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-27971-Note">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-27971-Note">
 
 ---
@@ -1219,6 +1219,11 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-27191 ()
 > 
 - [somecodeinjection/CVE-2024-27191-POC](https://github.com/somecodeinjection/CVE-2024-27191-POC)	<img alt="forks" src="https://img.shields.io/github/forks/somecodeinjection/CVE-2024-27191-POC">	<img alt="stars" src="https://img.shields.io/github/stars/somecodeinjection/CVE-2024-27191-POC">
+
+---
+## CVE-2024-27130 ()
+> 
+- [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-27130">
 
 ---
 ## CVE-2024-26817 (2024-04-13T12:15:00)
@@ -2034,8 +2039,8 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [JohnnyBradvo/CVE-2024-2222](https://github.com/JohnnyBradvo/CVE-2024-2222)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-2222">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-2222">
 
 ---
-## CVE-2024-22145 ()
-> 
+## CVE-2024-22145 (2024-05-17T09:15:00)
+> Improper Privilege Management vulnerability in InstaWP Team InstaWP Connect allows Privilege Escalation.This issue affects InstaWP Connect: from n/a through 0.1.0.8.
 - [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-22145">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-22145">
 
 ---
