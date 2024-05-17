@@ -872,6 +872,7 @@ QuTScloud c5.1.5.2651 and later
 - [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-29895-CactiRCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-29895-CactiRCE-PoC">
 - [secunnix/CVE-2024-29895](https://github.com/secunnix/CVE-2024-29895)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-29895">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-29895">
 - [ticofookfook/CVE-2024-29895.py](https://github.com/ticofookfook/CVE-2024-29895.py)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2024-29895.py">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2024-29895.py">
+- [Rubioo02/CVE-2024-29895](https://github.com/Rubioo02/CVE-2024-29895)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2024-29895">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2024-29895">
 
 ---
 ## CVE-2024-2961 (2024-04-17T18:15:00)
