@@ -90,7 +90,9 @@
 - [0xN7y/CVE-2014-6271](https://github.com/0xN7y/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/0xN7y/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/0xN7y/CVE-2014-6271">
 - [MY7H404/CVE-2014-6271-Shellshock](https://github.com/MY7H404/CVE-2014-6271-Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/MY7H404/CVE-2014-6271-Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/MY7H404/CVE-2014-6271-Shellshock">
 - [hackintoanetwork/shellshock](https://github.com/hackintoanetwork/shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/hackintoanetwork/shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/hackintoanetwork/shellshock">
-- [AlissoftCodes/Shellshock](https://github.com/AlissoftCodes/Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/AlissoftCodes/Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/AlissoftCodes/Shellshock">
+- [AlissonFaoli/Shellshock](https://github.com/AlissonFaoli/Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/AlissonFaoli/Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/AlissonFaoli/Shellshock">
+- [K3ysTr0K3R/CVE-2014-6271-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2014-6271-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2014-6271-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2014-6271-EXPLOIT">
+- [ajansha/shellshock](https://github.com/ajansha/shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/shellshock">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
