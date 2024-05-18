@@ -1119,6 +1119,11 @@ QuTScloud c5.1.5.2651 and later
 - [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/CVE-2024-27983-nodejs-http2">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/CVE-2024-27983-nodejs-http2">
 
 ---
+## CVE-2024-27972 ()
+> 
+- [truonghuuphuc/CVE-2024-27972-Poc](https://github.com/truonghuuphuc/CVE-2024-27972-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-27972-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-27972-Poc">
+
+---
 ## CVE-2024-27971 (2024-05-17T09:15:00)
 > Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Premmerce Premmerce Permalink Manager for WooCommerce allows PHP Local File Inclusion.This issue affects Premmerce Permalink Manager for WooCommerce: from n/a through 2.3.10.
 - [truonghuuphuc/CVE-2024-27971-Note](https://github.com/truonghuuphuc/CVE-2024-27971-Note)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-27971-Note">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-27971-Note">
