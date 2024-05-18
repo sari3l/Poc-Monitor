@@ -342,6 +342,7 @@
 > SQL injection vulnerability in the getCsvFile function in the Mage_Adminhtml_Block_Widget_Grid class in Magento Community Edition (CE) 1.9.1.0 and Enterprise Edition (EE) 1.14.1.0 allows remote administrators to execute arbitrary SQL commands via the popularity[field_expr] parameter when the popularity[from] or popularity[to] parameter is set.
 - [WHOISshuvam/CVE-2015-1397](https://github.com/WHOISshuvam/CVE-2015-1397)	<img alt="forks" src="https://img.shields.io/github/forks/WHOISshuvam/CVE-2015-1397">	<img alt="stars" src="https://img.shields.io/github/stars/WHOISshuvam/CVE-2015-1397">
 - [tmatejicek/CVE-2015-1397](https://github.com/tmatejicek/CVE-2015-1397)	<img alt="forks" src="https://img.shields.io/github/forks/tmatejicek/CVE-2015-1397">	<img alt="stars" src="https://img.shields.io/github/stars/tmatejicek/CVE-2015-1397">
+- [47Cid/Magento-Shoplift-SQLI](https://github.com/47Cid/Magento-Shoplift-SQLI)	<img alt="forks" src="https://img.shields.io/github/forks/47Cid/Magento-Shoplift-SQLI">	<img alt="stars" src="https://img.shields.io/github/stars/47Cid/Magento-Shoplift-SQLI">
 
 ---
 ## CVE-2015-1352 (2015-03-30T10:59:00)
