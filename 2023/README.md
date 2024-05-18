@@ -1559,6 +1559,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-45542">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-45542">
 
 ---
+## CVE-2023-45540 (2023-10-16T22:15:00)
+> An issue in Jorani Leave Management System 1.0.3 allows a remote attacker to execute arbitrary HTML code via a crafted script to the comment field of the List of Leave requests page.
+- [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540)	<img alt="forks" src="https://img.shields.io/github/forks/soundarkutty/CVE-2023-45540">	<img alt="stars" src="https://img.shields.io/github/stars/soundarkutty/CVE-2023-45540">
+
+---
 ## CVE-2023-45503 (2024-04-15T20:15:00)
 > SQL Injection vulnerability in Macrob7 Macs CMS 1.1.4f, allows remote attackers to execute arbitrary code, cause a denial of service (DoS), escalate privileges, and obtain sensitive information via crafted payload to resetPassword, forgotPasswordProcess, saveUser, saveRole, deleteUser, deleteRole, deleteComment, deleteUser, allowComment, saveRole, forgotPasswordProcess, resetPassword, saveUser, addComment, saveRole, and saveUser endpoints.
 - [ally-petitt/CVE-2023-45503](https://github.com/ally-petitt/CVE-2023-45503)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-45503">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-45503">
