@@ -371,6 +371,7 @@ QuTScloud c5.1.5.2651 and later
 - [markuta/hooky](https://github.com/markuta/hooky)	<img alt="forks" src="https://img.shields.io/github/forks/markuta/hooky">	<img alt="stars" src="https://img.shields.io/github/stars/markuta/hooky">
 - [aitorcastel/git-submodule-cve-2024-32002](https://github.com/aitorcastel/git-submodule-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/git-submodule-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/git-submodule-cve-2024-32002">
 - [aitorcastel/git-cve-2024-32002](https://github.com/aitorcastel/git-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/git-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/git-cve-2024-32002">
+- [safebuffer/CVE-2024-32002](https://github.com/safebuffer/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/safebuffer/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/safebuffer/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
