@@ -338,6 +338,11 @@
 - [Live-Hack-CVE/CVE-2015-1421](https://github.com/Live-Hack-CVE/CVE-2015-1421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1421">
 
 ---
+## CVE-2015-1397 (2015-04-29T22:59:00)
+> SQL injection vulnerability in the getCsvFile function in the Mage_Adminhtml_Block_Widget_Grid class in Magento Community Edition (CE) 1.9.1.0 and Enterprise Edition (EE) 1.14.1.0 allows remote administrators to execute arbitrary SQL commands via the popularity[field_expr] parameter when the popularity[from] or popularity[to] parameter is set.
+- [WHOISshuvam/CVE-2015-1397](https://github.com/WHOISshuvam/CVE-2015-1397)	<img alt="forks" src="https://img.shields.io/github/forks/WHOISshuvam/CVE-2015-1397">	<img alt="stars" src="https://img.shields.io/github/stars/WHOISshuvam/CVE-2015-1397">
+
+---
 ## CVE-2015-1352 (2015-03-30T10:59:00)
 > The build_tablename function in pgsql.c in the PostgreSQL (aka pgsql) extension in PHP through 5.6.7 does not validate token extraction for table names, which allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted name.
 - [Live-Hack-CVE/CVE-2015-1352](https://github.com/Live-Hack-CVE/CVE-2015-1352)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1352">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1352">
