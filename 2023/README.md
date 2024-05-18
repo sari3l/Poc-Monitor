@@ -1509,6 +1509,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596)	<img alt="forks" src="https://img.shields.io/github/forks/E1A/CVE-2023-4596">	<img alt="stars" src="https://img.shields.io/github/stars/E1A/CVE-2023-4596">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 - [jet-pentest/CVE-2023-45966](https://github.com/jet-pentest/CVE-2023-45966)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2023-45966">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2023-45966">
+- [X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version](https://github.com/X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version">
 
 ---
 ## CVE-2023-45866 (2023-12-08T06:15:00)
