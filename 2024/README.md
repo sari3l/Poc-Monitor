@@ -369,6 +369,8 @@ QuTScloud c5.1.5.2651 and later
 - [Disseminator/CVE-2024-32002](https://github.com/Disseminator/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/CVE-2024-32002">
 - [Disseminator/CVE-2024-32002](https://github.com/Disseminator/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/CVE-2024-32002">
 - [markuta/hooky](https://github.com/markuta/hooky)	<img alt="forks" src="https://img.shields.io/github/forks/markuta/hooky">	<img alt="stars" src="https://img.shields.io/github/stars/markuta/hooky">
+- [aitorcastel/git-submodule-cve-2024-32002](https://github.com/aitorcastel/git-submodule-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/git-submodule-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/git-submodule-cve-2024-32002">
+- [aitorcastel/git-cve-2024-32002](https://github.com/aitorcastel/git-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/git-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/git-cve-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
