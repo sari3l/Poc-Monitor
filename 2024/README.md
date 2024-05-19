@@ -384,6 +384,7 @@ QuTScloud c5.1.5.2651 and later
 - [10cks/CVE-2024-32002-linux-submod](https://github.com/10cks/CVE-2024-32002-linux-submod)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-linux-submod">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-linux-submod">
 - [10cks/CVE-2024-32002-linux-hulk](https://github.com/10cks/CVE-2024-32002-linux-hulk)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-linux-hulk">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-linux-hulk">
 - [amalmurali47/git_rce](https://github.com/amalmurali47/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/amalmurali47/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/amalmurali47/git_rce">
+- [amalmurali47/hook](https://github.com/amalmurali47/hook)	<img alt="forks" src="https://img.shields.io/github/forks/amalmurali47/hook">	<img alt="stars" src="https://img.shields.io/github/stars/amalmurali47/hook">
 
 ---
 ## CVE-2024-31848 ()
