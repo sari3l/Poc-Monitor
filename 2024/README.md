@@ -380,6 +380,9 @@ QuTScloud c5.1.5.2651 and later
 - [10cks/CVE-2024-32002-submod](https://github.com/10cks/CVE-2024-32002-submod)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-submod">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-submod">
 - [10cks/CVE-2024-32002-hulk](https://github.com/10cks/CVE-2024-32002-hulk)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-hulk">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-hulk">
 - [10cks/CVE-2024-32002-POC](https://github.com/10cks/CVE-2024-32002-POC)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-POC">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-POC">
+- [10cks/CVE-2024-32002-linux-smash](https://github.com/10cks/CVE-2024-32002-linux-smash)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-linux-smash">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-linux-smash">
+- [10cks/CVE-2024-32002-linux-submod](https://github.com/10cks/CVE-2024-32002-linux-submod)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-linux-submod">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-linux-submod">
+- [10cks/CVE-2024-32002-linux-hulk](https://github.com/10cks/CVE-2024-32002-linux-hulk)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-linux-hulk">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-linux-hulk">
 
 ---
 ## CVE-2024-31848 ()
