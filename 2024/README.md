@@ -217,6 +217,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/marconesler/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/marconesler/CVE-2024-3400">
 - [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/marconesler/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/marconesler/CVE-2024-3400">
 - [andrelia-hacks/CVE-2024-3400](https://github.com/andrelia-hacks/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/andrelia-hacks/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/andrelia-hacks/CVE-2024-3400">
+- [iwallarm/cve-2024-3400](https://github.com/iwallarm/cve-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/iwallarm/cve-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/iwallarm/cve-2024-3400">
+- [tk-sawada/IPLineFinder](https://github.com/tk-sawada/IPLineFinder)	<img alt="forks" src="https://img.shields.io/github/forks/tk-sawada/IPLineFinder">	<img alt="stars" src="https://img.shields.io/github/stars/tk-sawada/IPLineFinder">
 
 ---
 ## CVE-2024-33911 (2024-05-02T11:15:00)
