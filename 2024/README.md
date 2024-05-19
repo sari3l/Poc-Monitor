@@ -376,6 +376,10 @@ QuTScloud c5.1.5.2651 and later
 - [Mr-r00t11/CVE-2024-32002](https://github.com/Mr-r00t11/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-32002">
 - [Mr-r00t11/cve-2024-32002](https://github.com/Mr-r00t11/cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/cve-2024-32002">
 - [Mr-r00t11/cve-2024-32002](https://github.com/Mr-r00t11/cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/cve-2024-32002">
+- [10cks/CVE-2024-32002-smash](https://github.com/10cks/CVE-2024-32002-smash)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-smash">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-smash">
+- [10cks/CVE-2024-32002-submod](https://github.com/10cks/CVE-2024-32002-submod)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-submod">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-submod">
+- [10cks/CVE-2024-32002-hulk](https://github.com/10cks/CVE-2024-32002-hulk)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-hulk">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-hulk">
+- [10cks/CVE-2024-32002-POC](https://github.com/10cks/CVE-2024-32002-POC)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-POC">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-POC">
 
 ---
 ## CVE-2024-31848 ()
