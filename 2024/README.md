@@ -375,6 +375,7 @@ QuTScloud c5.1.5.2651 and later
 - [M507/CVE-2024-32002](https://github.com/M507/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2024-32002">
 - [Mr-r00t11/CVE-2024-32002](https://github.com/Mr-r00t11/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-32002">
 - [Mr-r00t11/cve-2024-32002](https://github.com/Mr-r00t11/cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/cve-2024-32002">
+- [Mr-r00t11/cve-2024-32002](https://github.com/Mr-r00t11/cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/cve-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
