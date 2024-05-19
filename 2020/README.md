@@ -1572,6 +1572,8 @@
 - [sujaygr8/CVE-2020-3187](https://github.com/sujaygr8/CVE-2020-3187)	<img alt="forks" src="https://img.shields.io/github/forks/sujaygr8/CVE-2020-3187">	<img alt="stars" src="https://img.shields.io/github/stars/sujaygr8/CVE-2020-3187">
 - [1337in/CVE-2020-3187](https://github.com/1337in/CVE-2020-3187)	<img alt="forks" src="https://img.shields.io/github/forks/1337in/CVE-2020-3187">	<img alt="stars" src="https://img.shields.io/github/stars/1337in/CVE-2020-3187">
 - [CrackerCat/CVE-2020-3187](https://github.com/CrackerCat/CVE-2020-3187)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2020-3187">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2020-3187">
+- [Cappricio-Securities/CVE-2020-3187](https://github.com/Cappricio-Securities/CVE-2020-3187)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2020-3187">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2020-3187">
+- [alexhyd22/CISCO-SSL-VPN](https://github.com/alexhyd22/CISCO-SSL-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/alexhyd22/CISCO-SSL-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/alexhyd22/CISCO-SSL-VPN">
 
 ---
 ## CVE-2020-29659 (2020-12-09T17:15:00)
