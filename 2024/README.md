@@ -1009,6 +1009,7 @@ QuTScloud c5.1.5.2651 and later
 > An issue discovered in Telesquare TLR-2005Ksh 1.0.0 and 1.1.4 allows attackers to run arbitrary system commands via the Cmd parameter.
 - [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/wutalent/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/wutalent/CVE-2024-29269">
 - [YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-29269">
+- [Chocapikk/CVE-2024-29269](https://github.com/Chocapikk/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-29269">
 
 ---
 ## CVE-2024-29201 (2024-03-29T15:15:00)
