@@ -47,6 +47,11 @@
 - [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/MielPopsssssss/CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/MielPopsssssss/CVE-2024-4439">
 
 ---
+## CVE-2024-4367 (2024-05-14T18:15:00)
+> A type check was missing when handling fonts in PDF.js, which would allow arbitrary JavaScript execution in the PDF.js context. This vulnerability affects Firefox < 126, Firefox ESR < 115.11, and Thunderbird < 115.11.
+- [LOURC0D3/CVE-2024-4367-PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-4367-PoC">
+
+---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
 > The Tutor LMS Pro plugin for WordPress is vulnerable to unauthorized access of data, modification of data, loss of data due to a missing capability check on the 'get_calendar_materials' function. The plugin is also vulnerable to SQL Injection via the ‘year’ parameter of that function due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with subscriber-level permissions and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4352-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4352-Poc">
@@ -409,6 +414,7 @@ QuTScloud c5.1.5.2651 and later
 - [jweny/CVE-2024-32002_HOOK](https://github.com/jweny/CVE-2024-32002_HOOK)	<img alt="forks" src="https://img.shields.io/github/forks/jweny/CVE-2024-32002_HOOK">	<img alt="stars" src="https://img.shields.io/github/stars/jweny/CVE-2024-32002_HOOK">
 - [10cks/hook](https://github.com/10cks/hook)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/hook">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/hook">
 - [CrackerCat/CVE-2024-32002_EXP](https://github.com/CrackerCat/CVE-2024-32002_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2024-32002_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2024-32002_EXP">
+- [KiranKumarK20/CVE-2024-32002](https://github.com/KiranKumarK20/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/KiranKumarK20/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/KiranKumarK20/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
