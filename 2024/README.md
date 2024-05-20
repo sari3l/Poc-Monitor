@@ -2081,6 +2081,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 > Applications that use UriComponentsBuilder to parse an externally provided URL (e.g. through a query parameter) AND perform validation checks on the host of the parsed URL may be vulnerable to a  open redirect https://cwe.mitre.org/data/definitions/601.html  attack or to a SSRF attack if the URL is used after passing validation checks.
 
 - [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234)	<img alt="forks" src="https://img.shields.io/github/forks/shellfeel/CVE-2024-22243-CVE-2024-22234">	<img alt="stars" src="https://img.shields.io/github/stars/shellfeel/CVE-2024-22243-CVE-2024-22234">
+- [SeanPesce/CVE-2024-22243](https://github.com/SeanPesce/CVE-2024-22243)	<img alt="forks" src="https://img.shields.io/github/forks/SeanPesce/CVE-2024-22243">	<img alt="stars" src="https://img.shields.io/github/stars/SeanPesce/CVE-2024-22243">
 
 ---
 ## CVE-2024-22222 (2024-02-12T19:15:00)
