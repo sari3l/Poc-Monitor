@@ -7086,6 +7086,7 @@
 ## CVE-2021-24917 (2021-12-06T16:15:00)
 > The WPS Hide Login WordPress plugin before 1.9.1 has a bug which allows to get the secret login page by setting a random referer string and making a request to /wp-admin/options.php as an unauthenticated user.
 - [dikalasenjadatang/CVE-2021-24917](https://github.com/dikalasenjadatang/CVE-2021-24917)	<img alt="forks" src="https://img.shields.io/github/forks/dikalasenjadatang/CVE-2021-24917">	<img alt="stars" src="https://img.shields.io/github/stars/dikalasenjadatang/CVE-2021-24917">
+- [Cappricio-Securities/CVE-2021-24917](https://github.com/Cappricio-Securities/CVE-2021-24917)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2021-24917">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2021-24917">
 
 ---
 ## CVE-2021-24914 (2021-12-06T16:15:00)
