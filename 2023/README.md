@@ -1542,6 +1542,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [michalbednarski/TheLastBundleMismatch](https://github.com/michalbednarski/TheLastBundleMismatch)	<img alt="forks" src="https://img.shields.io/github/forks/michalbednarski/TheLastBundleMismatch">	<img alt="stars" src="https://img.shields.io/github/stars/michalbednarski/TheLastBundleMismatch">
 
 ---
+## CVE-2023-4568 (2023-09-13T21:15:00)
+> PaperCut NG allows for unauthenticated XMLRPC commands to be run by default. Versions 22.0.12 and below are confirmed to be affected, but later versions may also be affected due to lack of a vendor supplied patch.
+- [Cappricio-Securities/CVE-2023-4568](https://github.com/Cappricio-Securities/CVE-2023-4568)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-4568">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-4568">
+
+---
 ## CVE-2023-45657 ()
 > 
 - [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45657">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45657">
