@@ -96,6 +96,11 @@
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
 
 ---
+## CVE-2024-36079 ()
+> 
+- [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
+
+---
 ## CVE-2024-34958 (2024-05-16T15:15:00)
 > idccms v1.35 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component admin/banner_deal.php?mudi=add
 - [Gr-1m/CVE-2024-34958-1](https://github.com/Gr-1m/CVE-2024-34958-1)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/CVE-2024-34958-1">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/CVE-2024-34958-1">
