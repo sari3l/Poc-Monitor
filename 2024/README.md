@@ -914,6 +914,7 @@ QuTScloud c5.1.5.2651 and later
 > The iconv() function in the GNU C Library versions 2.39 and older may overflow the output buffer passed to it by up to 4 bytes when converting strings to the ISO-2022-CN-EXT character set, which may be used to crash an application or overwrite a neighbouring variable.
 
 - [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/mattaperkins/FIX-CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/mattaperkins/FIX-CVE-2024-2961">
+- [rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-2961">
 
 ---
 ## CVE-2024-29455 (2024-04-11T05:15:00)
