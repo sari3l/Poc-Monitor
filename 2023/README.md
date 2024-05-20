@@ -5216,6 +5216,7 @@ The specific flaw exists within the Toolgate component. The issue results from t
 ## CVE-2023-27100 (2023-03-22T23:15:00)
 > Improper restriction of excessive authentication attempts in the SSHGuard component of Netgate pfSense Plus software v22.05.1 and pfSense CE software v2.6.0 allows attackers to bypass brute force protection mechanisms via crafted web requests.
 - [DarokNET/CVE-2023-27100](https://github.com/DarokNET/CVE-2023-27100)	<img alt="forks" src="https://img.shields.io/github/forks/DarokNET/CVE-2023-27100">	<img alt="stars" src="https://img.shields.io/github/stars/DarokNET/CVE-2023-27100">
+- [fabdotnet/CVE-2023-27100](https://github.com/fabdotnet/CVE-2023-27100)	<img alt="forks" src="https://img.shields.io/github/forks/fabdotnet/CVE-2023-27100">	<img alt="stars" src="https://img.shields.io/github/stars/fabdotnet/CVE-2023-27100">
 
 ---
 ## CVE-2023-27035 (2023-05-01T22:15:00)
