@@ -45,6 +45,7 @@
 > WordPress Core is vulnerable to Stored Cross-Site Scripting via user display names in the Avatar block in various versions up to 6.5.2 due to insufficient output escaping on the display name. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. In addition, it also makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that have the comment block present and display the comment author's avatar.
 - [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-4439">
 - [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/MielPopsssssss/CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/MielPopsssssss/CVE-2024-4439">
+- [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/xssor-dz/-CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/xssor-dz/-CVE-2024-4439">
 
 ---
 ## CVE-2024-4367 (2024-05-14T18:15:00)
