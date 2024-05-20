@@ -2722,6 +2722,11 @@
 - [Live-Hack-CVE/CVE-2020-24939](https://github.com/Live-Hack-CVE/CVE-2020-24939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24939">
 
 ---
+## CVE-2020-24913 (2021-03-04T13:15:00)
+> A SQL injection vulnerability in qcubed (all versions including 3.1.1) in profile.php via the strQuery parameter allows an unauthenticated attacker to access the database by injecting SQL code via a crafted POST request.
+- [agarma/CVE-2020-24913-PoC](https://github.com/agarma/CVE-2020-24913-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/agarma/CVE-2020-24913-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/agarma/CVE-2020-24913-PoC">
+
+---
 ## CVE-2020-24815 (2020-11-24T17:15:00)
 > A Server-Side Request Forgery (SSRF) affecting the PDF generation in MicroStrategy 10.4, 2019 before Update 6, and 2020 before Update 2 allows authenticated users to access the content of internal network resources or leak files from the local system via HTML containers embedded in a dossier/dashboard document. NOTE: 10.4., no fix will be released as version will reach end-of-life on 31/12/2020.
 - [ziadanbari2021/exploit-CVE-2020-24815](https://github.com/ziadanbari2021/exploit-CVE-2020-24815)	<img alt="forks" src="https://img.shields.io/github/forks/ziadanbari2021/exploit-CVE-2020-24815">	<img alt="stars" src="https://img.shields.io/github/stars/ziadanbari2021/exploit-CVE-2020-24815">
