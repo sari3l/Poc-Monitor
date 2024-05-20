@@ -2089,6 +2089,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-22145">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-22145">
 
 ---
+## CVE-2024-22120 (2024-05-17T10:15:00)
+> Zabbix server can perform command execution for configured scripts. After command is executed, audit entry is added to "Audit Log". Due to "clientip" field is not sanitized, it is possible to injection SQL into "clientip" and exploit time based blind SQL injection.
+- [W01fh4cker/CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-22120-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-22120-RCE">
+
+---
 ## CVE-2024-22026 ()
 > 
 - [securekomodo/CVE-2024-22026](https://github.com/securekomodo/CVE-2024-22026)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/CVE-2024-22026">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/CVE-2024-22026">
