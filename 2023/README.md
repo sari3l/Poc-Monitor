@@ -2798,6 +2798,16 @@ The specific flaw exists within the ping command, which is available over JSON-R
 - [ewilded/CVE-2023-38041-POC](https://github.com/ewilded/CVE-2023-38041-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-38041-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-38041-POC">
 
 ---
+## CVE-2023-38039 (2023-09-15T04:15:00)
+> When curl retrieves an HTTP response, it stores the incoming headers so that
+they can be accessed later via the libcurl headers API.
+
+However, curl did not have a limit in how many or how large headers it would
+accept in a response, allowing a malicious server to stream an endless series
+of headers and eventually cause curl to run out of heap memory.
+- [Smartkeyss/CVE-2023-38039](https://github.com/Smartkeyss/CVE-2023-38039)	<img alt="forks" src="https://img.shields.io/github/forks/Smartkeyss/CVE-2023-38039">	<img alt="stars" src="https://img.shields.io/github/stars/Smartkeyss/CVE-2023-38039">
+
+---
 ## CVE-2023-38035 (2023-08-21T17:15:00)
 > A security vulnerability in MICS Admin Portal in Ivanti MobileIron Sentry versions 9.18.0 and below, which may allow an attacker to bypass authentication controls on the administrative interface due to an insufficiently restrictive Apache HTTPD configuration. 
 - [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-38035">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-38035">
