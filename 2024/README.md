@@ -57,6 +57,11 @@
 - [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4352-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4352-Poc">
 
 ---
+## CVE-2024-4323 (2024-05-20T12:15:00)
+> A memory corruption vulnerability in Fluent Bit versions 2.0.7 thru 3.0.3. This issue lies in the embedded http server’s parsing of trace requests and may result in denial of service conditions, information disclosure, or remote code execution.
+- [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skilfoy/CVE-2024-4323-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skilfoy/CVE-2024-4323-Exploit-POC">
+
+---
 ## CVE-2024-4040 (2024-04-22T20:15:00)
 > VFS Sandbox Escape in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows remote attackers with low privileges to read files from the filesystem outside of VFS Sandbox.
 
@@ -377,6 +382,7 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-32004 (2024-05-14T19:15:00)
 > Git is a revision control system. Prior to versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4, an attacker can prepare a local repository in such a way that, when cloned, will execute arbitrary code during the operation. The problem has been patched in versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4. As a workaround, avoid cloning repositories from untrusted sources.
 - [Wadewfsssss/CVE-2024-32004](https://github.com/Wadewfsssss/CVE-2024-32004)	<img alt="forks" src="https://img.shields.io/github/forks/Wadewfsssss/CVE-2024-32004">	<img alt="stars" src="https://img.shields.io/github/stars/Wadewfsssss/CVE-2024-32004">
+- [10cks/CVE-2024-32004-POC](https://github.com/10cks/CVE-2024-32004-POC)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32004-POC">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32004-POC">
 
 ---
 ## CVE-2024-32003 (2024-04-12T21:15:00)
