@@ -26,6 +26,11 @@
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
 
 ---
+## CVE-2024-4875 (2024-05-21T09:15:00)
+> The HT Mega – Absolute Addons For Elementor plugin for WordPress is vulnerable to unauthorized modification of data|loss of data due to a missing capability check on the 'ajax_dismiss' function in versions up to, and including, 2.5.2. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to update options such as users_can_register, which can lead to unauthorized user registration.
+- [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
+
+---
 ## CVE-2024-4761 (2024-05-14T16:17:00)
 > Out of bounds write in V8 in Google Chrome prior to 124.0.6367.207 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: High)
 - [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761)	<img alt="forks" src="https://img.shields.io/github/forks/michredteam/CVE-2024-4761">	<img alt="stars" src="https://img.shields.io/github/stars/michredteam/CVE-2024-4761">
@@ -327,6 +332,7 @@ QuTScloud c5.1.5.2651 and later
 - [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-32640-SQLI-MuraCMS">
 - [0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/0x3f3c/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/0x3f3c/CVE-2024-32640-SQLI-MuraCMS">
 - [nancyariah4/CVE-2024-32640-Admin-MuraCMS](https://github.com/nancyariah4/CVE-2024-32640-Admin-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-32640-Admin-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-32640-Admin-MuraCMS">
+- [nancyariah4/CVE-2024-32640-MuraCMS](https://github.com/nancyariah4/CVE-2024-32640-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-32640-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-32640-MuraCMS">
 
 ---
 ## CVE-2024-32523 (2024-05-17T09:15:00)
