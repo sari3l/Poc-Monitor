@@ -428,6 +428,9 @@ QuTScloud c5.1.5.2651 and later
 - [10cks/hook](https://github.com/10cks/hook)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/hook">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/hook">
 - [CrackerCat/CVE-2024-32002_EXP](https://github.com/CrackerCat/CVE-2024-32002_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2024-32002_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2024-32002_EXP">
 - [KiranKumarK20/CVE-2024-32002](https://github.com/KiranKumarK20/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/KiranKumarK20/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/KiranKumarK20/CVE-2024-32002">
+- [jerrydotlam/cve-2024-32002-3](https://github.com/jerrydotlam/cve-2024-32002-3)	<img alt="forks" src="https://img.shields.io/github/forks/jerrydotlam/cve-2024-32002-3">	<img alt="stars" src="https://img.shields.io/github/stars/jerrydotlam/cve-2024-32002-3">
+- [jerrydotlam/cve-2024-32002-2](https://github.com/jerrydotlam/cve-2024-32002-2)	<img alt="forks" src="https://img.shields.io/github/forks/jerrydotlam/cve-2024-32002-2">	<img alt="stars" src="https://img.shields.io/github/stars/jerrydotlam/cve-2024-32002-2">
+- [jerrydotlam/cve-2024-32002-1](https://github.com/jerrydotlam/cve-2024-32002-1)	<img alt="forks" src="https://img.shields.io/github/forks/jerrydotlam/cve-2024-32002-1">	<img alt="stars" src="https://img.shields.io/github/stars/jerrydotlam/cve-2024-32002-1">
 
 ---
 ## CVE-2024-31848 ()
