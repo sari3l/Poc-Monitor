@@ -431,6 +431,7 @@ QuTScloud c5.1.5.2651 and later
 - [jerrydotlam/cve-2024-32002-3](https://github.com/jerrydotlam/cve-2024-32002-3)	<img alt="forks" src="https://img.shields.io/github/forks/jerrydotlam/cve-2024-32002-3">	<img alt="stars" src="https://img.shields.io/github/stars/jerrydotlam/cve-2024-32002-3">
 - [jerrydotlam/cve-2024-32002-2](https://github.com/jerrydotlam/cve-2024-32002-2)	<img alt="forks" src="https://img.shields.io/github/forks/jerrydotlam/cve-2024-32002-2">	<img alt="stars" src="https://img.shields.io/github/stars/jerrydotlam/cve-2024-32002-2">
 - [jerrydotlam/cve-2024-32002-1](https://github.com/jerrydotlam/cve-2024-32002-1)	<img alt="forks" src="https://img.shields.io/github/forks/jerrydotlam/cve-2024-32002-1">	<img alt="stars" src="https://img.shields.io/github/stars/jerrydotlam/cve-2024-32002-1">
+- [1mxml/CVE-2024-32002-poc](https://github.com/1mxml/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/1mxml/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/1mxml/CVE-2024-32002-poc">
 
 ---
 ## CVE-2024-31848 ()
