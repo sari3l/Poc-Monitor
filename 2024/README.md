@@ -2754,6 +2754,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [forsaken0128/CVE-2024-0252-RCE](https://github.com/forsaken0128/CVE-2024-0252-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0128/CVE-2024-0252-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0128/CVE-2024-0252-RCE">
 
 ---
+## CVE-2024-0230 (2024-01-12T23:15:00)
+> A session management issue was addressed with improved checks. This issue is fixed in Magic Keyboard Firmware Update 2.0.6. An attacker with physical access to the accessory may be able to extract its Bluetooth pairing key and monitor Bluetooth traffic.
+- [keldnorman/cve-2024-0230-blue](https://github.com/keldnorman/cve-2024-0230-blue)	<img alt="forks" src="https://img.shields.io/github/forks/keldnorman/cve-2024-0230-blue">	<img alt="stars" src="https://img.shields.io/github/stars/keldnorman/cve-2024-0230-blue">
+
+---
 ## CVE-2024-0204 (2024-01-22T18:15:00)
 > Authentication bypass in Fortra's GoAnywhere MFT prior to 7.4.1 allows an unauthorized user to create an admin user via the administration portal.
 - [horizon3ai/CVE-2024-0204](https://github.com/horizon3ai/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-0204">
