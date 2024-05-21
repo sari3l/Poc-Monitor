@@ -326,6 +326,7 @@ QuTScloud c5.1.5.2651 and later
 > 
 - [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-32640-SQLI-MuraCMS">
 - [0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/0x3f3c/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/0x3f3c/CVE-2024-32640-SQLI-MuraCMS">
+- [nancyariah4/CVE-2024-32640-Admin-MuraCMS](https://github.com/nancyariah4/CVE-2024-32640-Admin-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-32640-Admin-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-32640-Admin-MuraCMS">
 
 ---
 ## CVE-2024-32523 (2024-05-17T09:15:00)
@@ -433,6 +434,9 @@ QuTScloud c5.1.5.2651 and later
 - [jerrydotlam/cve-2024-32002-2](https://github.com/jerrydotlam/cve-2024-32002-2)	<img alt="forks" src="https://img.shields.io/github/forks/jerrydotlam/cve-2024-32002-2">	<img alt="stars" src="https://img.shields.io/github/stars/jerrydotlam/cve-2024-32002-2">
 - [jerrydotlam/cve-2024-32002-1](https://github.com/jerrydotlam/cve-2024-32002-1)	<img alt="forks" src="https://img.shields.io/github/forks/jerrydotlam/cve-2024-32002-1">	<img alt="stars" src="https://img.shields.io/github/stars/jerrydotlam/cve-2024-32002-1">
 - [1mxml/CVE-2024-32002-poc](https://github.com/1mxml/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/1mxml/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/1mxml/CVE-2024-32002-poc">
+- [JJoosh/CVE-2024-32002-Reverse-Shell](https://github.com/JJoosh/CVE-2024-32002-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/CVE-2024-32002-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/CVE-2024-32002-Reverse-Shell">
+- [Roronoawjd/git_rce](https://github.com/Roronoawjd/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/git_rce">
+- [Roronoawjd/hook](https://github.com/Roronoawjd/hook)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/hook">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/hook">
 
 ---
 ## CVE-2024-31848 ()
