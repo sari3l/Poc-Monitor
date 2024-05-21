@@ -1309,8 +1309,12 @@ QuTScloud c5.1.5.2651 and later
 - [somecodeinjection/CVE-2024-27191-POC](https://github.com/somecodeinjection/CVE-2024-27191-POC)	<img alt="forks" src="https://img.shields.io/github/forks/somecodeinjection/CVE-2024-27191-POC">	<img alt="stars" src="https://img.shields.io/github/stars/somecodeinjection/CVE-2024-27191-POC">
 
 ---
-## CVE-2024-27130 ()
-> 
+## CVE-2024-27130 (2024-05-21T16:15:00)
+> A buffer copy without checking size of input vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow users to execute code via a network.
+
+We have already fixed the vulnerability in the following version:
+QTS 5.1.7.2770 build 20240520 and later
+QuTS hero h5.1.7.2770 build 20240520 and later
 - [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-27130">
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
 
