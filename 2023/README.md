@@ -3588,6 +3588,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [mrbrelax/Exploit_CVE-2023-35001](https://github.com/mrbrelax/Exploit_CVE-2023-35001)	<img alt="forks" src="https://img.shields.io/github/forks/mrbrelax/Exploit_CVE-2023-35001">	<img alt="stars" src="https://img.shields.io/github/stars/mrbrelax/Exploit_CVE-2023-35001">
 
 ---
+## CVE-2023-34992 (2023-10-10T17:15:00)
+> A improper neutralization of special elements used in an os command ('os command injection') in Fortinet FortiSIEM version 7.0.0 and 6.7.0 through 6.7.5 and 6.6.0 through 6.6.3 and 6.5.0 through 6.5.1 and 6.4.0 through 6.4.2 allows attacker to execute unauthorized code or commands via crafted API requests.
+- [horizon3ai/CVE-2023-34992](https://github.com/horizon3ai/CVE-2023-34992)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-34992">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-34992">
+
+---
 ## CVE-2023-3499 (2023-09-04T12:15:00)
 > The Photo Gallery, Images, Slider in Rbs Image Gallery WordPress plugin before 3.2.16 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Priece001/cve-2023-3499](https://github.com/Priece001/cve-2023-3499)	<img alt="forks" src="https://img.shields.io/github/forks/Priece001/cve-2023-3499">	<img alt="stars" src="https://img.shields.io/github/stars/Priece001/cve-2023-3499">
