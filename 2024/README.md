@@ -340,6 +340,11 @@ QuTScloud c5.1.5.2651 and later
 - [truonghuuphuc/CVE-2024-32523-Poc](https://github.com/truonghuuphuc/CVE-2024-32523-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-32523-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-32523-Poc">
 
 ---
+## CVE-2024-32459 (2024-04-22T22:15:00)
+> FreeRDP is a free implementation of the Remote Desktop Protocol. FreeRDP based clients and servers that use a version of FreeRDP prior to 3.5.0 or 2.11.6 are vulnerable to out-of-bounds read. Versions 3.5.0 and 2.11.6 patch the issue. No known workarounds are available.
+- [absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-](https://github.com/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-">
+
+---
 ## CVE-2024-32399 (2024-04-22T20:15:00)
 > Directory Traversal vulnerability in RaidenMAILD Mail Server v.4.9.4 and before allows a remote attacker to obtain sensitive information via the /webeditor/ component.
 - [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399)	<img alt="forks" src="https://img.shields.io/github/forks/NN0b0dy/CVE-2024-32399">	<img alt="stars" src="https://img.shields.io/github/stars/NN0b0dy/CVE-2024-32399">
