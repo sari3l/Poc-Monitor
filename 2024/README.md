@@ -68,6 +68,7 @@
 > A memory corruption vulnerability in Fluent Bit versions 2.0.7 thru 3.0.3. This issue lies in the embedded http server’s parsing of trace requests and may result in denial of service conditions, information disclosure, or remote code execution.
 - [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skilfoy/CVE-2024-4323-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skilfoy/CVE-2024-4323-Exploit-POC">
 - [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-4323">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-4323">
+- [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuansec/CVE-2024-4323-dos_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuansec/CVE-2024-4323-dos_poc">
 
 ---
 ## CVE-2024-4040 (2024-04-22T20:15:00)
@@ -451,6 +452,7 @@ QuTScloud c5.1.5.2651 and later
 - [YuanlooSec/CVE-2024-32002-poc](https://github.com/YuanlooSec/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/YuanlooSec/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/YuanlooSec/CVE-2024-32002-poc">
 - [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-32002">
 - [WOOOOONG/hook](https://github.com/WOOOOONG/hook)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook">
+- [1mxml/CVE-2024-32002-poc](https://github.com/1mxml/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/1mxml/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/1mxml/CVE-2024-32002-poc">
 
 ---
 ## CVE-2024-31848 ()
