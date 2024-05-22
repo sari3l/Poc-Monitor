@@ -454,6 +454,7 @@ QuTScloud c5.1.5.2651 and later
 - [WOOOOONG/hook](https://github.com/WOOOOONG/hook)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook">
 - [1mxml/CVE-2024-32002-poc](https://github.com/1mxml/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/1mxml/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/1mxml/CVE-2024-32002-poc">
 - [bfengj/CVE-2024-32002-hook](https://github.com/bfengj/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/bfengj/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/bfengj/CVE-2024-32002-hook">
+- [bfengj/CVE-2024-32002-Exploit](https://github.com/bfengj/CVE-2024-32002-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bfengj/CVE-2024-32002-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bfengj/CVE-2024-32002-Exploit">
 
 ---
 ## CVE-2024-31848 ()
