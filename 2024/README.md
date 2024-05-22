@@ -110,8 +110,8 @@
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
 
 ---
-## CVE-2024-35475 ()
-> 
+## CVE-2024-35475 (2024-05-22T14:15:00)
+> A Cross-Site Request Forgery (CSRF) vulnerability was discovered in OpenKM Community Edition on or before version 6.3.12. The vulnerability exists in /admin/DatabaseQuery, which allows an attacker to manipulate a victim with administrative privileges to execute arbitrary SQL commands.
 - [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475)	<img alt="forks" src="https://img.shields.io/github/forks/carsonchan12345/CVE-2024-35475">	<img alt="stars" src="https://img.shields.io/github/stars/carsonchan12345/CVE-2024-35475">
 
 ---
