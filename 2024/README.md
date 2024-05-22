@@ -465,6 +465,7 @@ QuTScloud c5.1.5.2651 and later
 - [ycdxsb/CVE-2024-32002-hulk](https://github.com/ycdxsb/CVE-2024-32002-hulk)	<img alt="forks" src="https://img.shields.io/github/forks/ycdxsb/CVE-2024-32002-hulk">	<img alt="stars" src="https://img.shields.io/github/stars/ycdxsb/CVE-2024-32002-hulk">
 - [bfengj/CVE-2024-32002-Exploit](https://github.com/bfengj/CVE-2024-32002-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bfengj/CVE-2024-32002-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bfengj/CVE-2024-32002-Exploit">
 - [ycdxsb/CVE-2024-32002-smash](https://github.com/ycdxsb/CVE-2024-32002-smash)	<img alt="forks" src="https://img.shields.io/github/forks/ycdxsb/CVE-2024-32002-smash">	<img alt="stars" src="https://img.shields.io/github/stars/ycdxsb/CVE-2024-32002-smash">
+- [vincepsh/CVE-2024-32002](https://github.com/vincepsh/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
