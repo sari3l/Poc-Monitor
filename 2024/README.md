@@ -29,6 +29,7 @@
 ## CVE-2024-4956 (2024-05-16T16:15:00)
 > Path Traversal in Sonatype Nexus Repository 3 allows an unauthenticated attacker to read system files. Fixed in version 3.68.1.
 - [banditzCyber0x/CVE-2024-4956](https://github.com/banditzCyber0x/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/banditzCyber0x/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/banditzCyber0x/CVE-2024-4956">
+- [xungzzz/CVE-2024-4956](https://github.com/xungzzz/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/xungzzz/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/xungzzz/CVE-2024-4956">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
