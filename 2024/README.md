@@ -2301,6 +2301,7 @@ This vulnerability was found internally.
 - [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">
 - [Arbeys/CVE-2024-21683-PoC](https://github.com/Arbeys/CVE-2024-21683-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Arbeys/CVE-2024-21683-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Arbeys/CVE-2024-21683-PoC">
 - [W01fh4cker/CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-21683-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-21683-RCE">
+- [hoanpk912/CVE-2024-21683-POC](https://github.com/hoanpk912/CVE-2024-21683-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hoanpk912/CVE-2024-21683-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hoanpk912/CVE-2024-21683-POC">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
