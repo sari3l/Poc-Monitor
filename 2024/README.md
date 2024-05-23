@@ -471,6 +471,8 @@ QuTScloud c5.1.5.2651 and later
 - [PoC0007/vulnerable-repo](https://github.com/PoC0007/vulnerable-repo)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/vulnerable-repo">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/vulnerable-repo">
 - [JJoosh/CVE-2024-32002-](https://github.com/JJoosh/CVE-2024-32002-)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/CVE-2024-32002-">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/CVE-2024-32002-">
 - [JJoosh/malicious-hook](https://github.com/JJoosh/malicious-hook)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/malicious-hook">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/malicious-hook">
+- [WOOOOONG/hook-for-CVE-2024-32002](https://github.com/WOOOOONG/hook-for-CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook-for-CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook-for-CVE-2024-32002">
+- [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
@@ -2171,8 +2173,8 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [W01fh4cker/CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-22120-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-22120-RCE">
 
 ---
-## CVE-2024-22026 ()
-> 
+## CVE-2024-22026 (2024-05-22T23:15:00)
+> A local privilege escalation vulnerability in EPMM before 12.1.0.0 allows an authenticated local user to bypass shell restriction and execute arbitrary commands on the appliance.
 - [securekomodo/CVE-2024-22026](https://github.com/securekomodo/CVE-2024-22026)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/CVE-2024-22026">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/CVE-2024-22026">
 
 ---
