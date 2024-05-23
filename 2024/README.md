@@ -2201,6 +2201,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [labesterOct/CVE-2024-22024](https://github.com/labesterOct/CVE-2024-22024)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-22024">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-22024">
 
 ---
+## CVE-2024-22002 ()
+> 
+- [0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002](https://github.com/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002)	<img alt="forks" src="https://img.shields.io/github/forks/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002">	<img alt="stars" src="https://img.shields.io/github/stars/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002">
+
+---
 ## CVE-2024-2193 (2024-03-15T18:15:00)
 > A Speculative Race Condition (SRC) vulnerability that impacts modern CPU architectures supporting speculative execution (related to Spectre V1) has been disclosed. An unauthenticated attacker can exploit this vulnerability to disclose arbitrary data from the CPU using race conditions to access the speculative executable code paths.
 - [uthrasri/CVE-2024-2193](https://github.com/uthrasri/CVE-2024-2193)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-2193">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-2193">
