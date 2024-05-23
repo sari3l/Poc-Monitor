@@ -26,6 +26,11 @@
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
 
 ---
+## CVE-2024-4956 (2024-05-16T16:15:00)
+> Path Traversal in Sonatype Nexus Repository 3 allows an unauthenticated attacker to read system files. Fixed in version 3.68.1.
+- [adhen13/CVE-2024-4956](https://github.com/adhen13/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/adhen13/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/adhen13/CVE-2024-4956">
+
+---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
 > The HT Mega – Absolute Addons For Elementor plugin for WordPress is vulnerable to unauthorized modification of data|loss of data due to a missing capability check on the 'ajax_dismiss' function in versions up to, and including, 2.5.2. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to update options such as users_can_register, which can lead to unauthorized user registration.
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
@@ -480,6 +485,8 @@ QuTScloud c5.1.5.2651 and later
 - [WOOOOONG/hook-for-CVE-2024-32002](https://github.com/WOOOOONG/hook-for-CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook-for-CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook-for-CVE-2024-32002">
 - [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-32002">
 - [10cks/CVE-2024-32002-EXP](https://github.com/10cks/CVE-2024-32002-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-EXP">
+- [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-32002">
+- [WOOOOONG/hook](https://github.com/WOOOOONG/hook)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook">
 
 ---
 ## CVE-2024-31848 ()
