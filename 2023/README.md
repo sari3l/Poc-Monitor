@@ -3802,6 +3802,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 ## CVE-2023-34152 (2023-05-30T22:15:00)
 > A vulnerability was found in ImageMagick. This security flaw cause a remote code execution vulnerability in OpenBlob with --enable-pipes configured.
 - [overgrowncarrot1/ImageTragick_CVE-2023-34152](https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/ImageTragick_CVE-2023-34152">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/ImageTragick_CVE-2023-34152">
+- [SudoIndividual/CVE-2023-34152](https://github.com/SudoIndividual/CVE-2023-34152)	<img alt="forks" src="https://img.shields.io/github/forks/SudoIndividual/CVE-2023-34152">	<img alt="stars" src="https://img.shields.io/github/stars/SudoIndividual/CVE-2023-34152">
 
 ---
 ## CVE-2023-34096 (2023-06-08T19:15:00)
