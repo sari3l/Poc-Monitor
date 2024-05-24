@@ -1397,8 +1397,8 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46449">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46449">
 
 ---
-## CVE-2023-46442 ()
-> 
+## CVE-2023-46442 (2024-05-24T17:15:00)
+> An infinite loop in the retrieveActiveBody function of Soot before v4.4.1 under Java 8 allows attackers to cause a Denial of Service (DoS).
 - [JAckLosingHeart/CVE-2023-46442_POC](https://github.com/JAckLosingHeart/CVE-2023-46442_POC)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2023-46442_POC">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2023-46442_POC">
 
 ---
