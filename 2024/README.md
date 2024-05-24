@@ -662,6 +662,11 @@ QuTScloud c5.1.5.2651 and later
 - [rbndd/CVE-2024-30937](https://github.com/rbndd/CVE-2024-30937)	<img alt="forks" src="https://img.shields.io/github/forks/rbndd/CVE-2024-30937">	<img alt="stars" src="https://img.shields.io/github/stars/rbndd/CVE-2024-30937">
 
 ---
+## CVE-2024-3090 (2024-03-30T13:15:00)
+> A vulnerability was found in PHPGurukul Emergency Ambulance Hiring Portal 1.0 and classified as problematic. This issue affects some unknown processing of the file /admin/add-ambulance.php of the component Add Ambulance Page. The manipulation of the argument Ambulance Reg No/Driver Name leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-258683.
+- [e-lliot/CVE-2024-3090](https://github.com/e-lliot/CVE-2024-3090)	<img alt="forks" src="https://img.shields.io/github/forks/e-lliot/CVE-2024-3090">	<img alt="stars" src="https://img.shields.io/github/stars/e-lliot/CVE-2024-3090">
+
+---
 ## CVE-2024-30896 ()
 > 
 - [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896)	<img alt="forks" src="https://img.shields.io/github/forks/XenoM0rph97/CVE-2024-30896">	<img alt="stars" src="https://img.shields.io/github/stars/XenoM0rph97/CVE-2024-30896">
