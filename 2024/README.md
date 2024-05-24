@@ -490,7 +490,7 @@ QuTScloud c5.1.5.2651 and later
 - [10cks/CVE-2024-32002-EXP](https://github.com/10cks/CVE-2024-32002-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-EXP">
 - [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-32002">
 - [WOOOOONG/hook](https://github.com/WOOOOONG/hook)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook">
-- [fadhilthomas/poc-git-rce-cve-2024-32002](https://github.com/fadhilthomas/poc-git-rce-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/fadhilthomas/poc-git-rce-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/fadhilthomas/poc-git-rce-cve-2024-32002">
+- [fadhilthomas/poc-cve-2024-32002](https://github.com/fadhilthomas/poc-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/fadhilthomas/poc-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/fadhilthomas/poc-cve-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
