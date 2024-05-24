@@ -2632,6 +2632,7 @@ critical systems.
 - [tr1pl3ight/POCv2.0-for-CVE-2024-1709](https://github.com/tr1pl3ight/POCv2.0-for-CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/POCv2.0-for-CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/POCv2.0-for-CVE-2024-1709">
 - [sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass](https://github.com/sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass">
 - [cjybao/CVE-2024-1709-and-CVE-2024-1708](https://github.com/cjybao/CVE-2024-1709-and-CVE-2024-1708)	<img alt="forks" src="https://img.shields.io/github/forks/cjybao/CVE-2024-1709-and-CVE-2024-1708">	<img alt="stars" src="https://img.shields.io/github/stars/cjybao/CVE-2024-1709-and-CVE-2024-1708">
+- [codeb0ss/CVE-2024-1709-PoC](https://github.com/codeb0ss/CVE-2024-1709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-1709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-1709-PoC">
 
 ---
 ## CVE-2024-1698 (2024-02-27T06:15:00)
