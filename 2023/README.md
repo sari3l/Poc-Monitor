@@ -1397,6 +1397,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-46449">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-46449">
 
 ---
+## CVE-2023-46442 ()
+> 
+- [JAckLosingHeart/CVE-2023-46442_POC](https://github.com/JAckLosingHeart/CVE-2023-46442_POC)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2023-46442_POC">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2023-46442_POC">
+
+---
 ## CVE-2023-46404 (2023-11-03T16:15:00)
 > PCRS <= 3.11 (d0de1e) “Questions” page and “Code editor” page are vulnerable to remote code execution (RCE) by escaping Python sandboxing.
 - [windecks/CVE-2023-46404](https://github.com/windecks/CVE-2023-46404)	<img alt="forks" src="https://img.shields.io/github/forks/windecks/CVE-2023-46404">	<img alt="stars" src="https://img.shields.io/github/stars/windecks/CVE-2023-46404">
