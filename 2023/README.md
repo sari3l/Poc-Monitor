@@ -527,6 +527,11 @@ SCM accounting on the io_uring side unnecessary.
 - [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-50917">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-50917">
 
 ---
+## CVE-2023-5089 (2023-10-16T20:15:00)
+> The Defender Security WordPress plugin before 4.1.0 does not prevent redirects to the login page via the auth_redirect WordPress function, allowing an unauthenticated visitor to access the login page, even when the hide login page functionality of the plugin is enabled.
+- [Cappricio-Securities/CVE-2023-5089](https://github.com/Cappricio-Securities/CVE-2023-5089)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-5089">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-5089">
+
+---
 ## CVE-2023-5074 (2023-09-20T16:15:00)
 > Use of a static key to protect a JWT token used in user authentication can allow an for an authentication bypass in D-Link D-View 8 v2.0.1.28
 - [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5074-PoC">
