@@ -1564,6 +1564,7 @@
 - [mr-r3b00t/CVE-2020-3452](https://github.com/mr-r3b00t/CVE-2020-3452)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2020-3452">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2020-3452">
 - [Loneyers/cve-2020-3452](https://github.com/Loneyers/cve-2020-3452)	<img alt="forks" src="https://img.shields.io/github/forks/Loneyers/cve-2020-3452">	<img alt="stars" src="https://img.shields.io/github/stars/Loneyers/cve-2020-3452">
 - [XDev05/CVE-2020-3452-PoC](https://github.com/XDev05/CVE-2020-3452-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/XDev05/CVE-2020-3452-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/XDev05/CVE-2020-3452-PoC">
+- [Cappricio-Securities/CVE-2020-3452](https://github.com/Cappricio-Securities/CVE-2020-3452)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2020-3452">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2020-3452">
 
 ---
 ## CVE-2020-3187 (2020-05-06T17:15:00)
