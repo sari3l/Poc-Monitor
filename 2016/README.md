@@ -386,6 +386,11 @@
 - [Live-Hack-CVE/CVE-2016-6207](https://github.com/Live-Hack-CVE/CVE-2016-6207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6207">
 
 ---
+## CVE-2016-6187 (2016-08-06T20:59:00)
+> The apparmor_setprocattr function in security/apparmor/lsm.c in the Linux kernel before 4.6.5 does not validate the buffer size, which allows local users to gain privileges by triggering an AppArmor setprocattr hook.
+- [Milo-D/CVE-2016-6187_LPE](https://github.com/Milo-D/CVE-2016-6187_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/Milo-D/CVE-2016-6187_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/Milo-D/CVE-2016-6187_LPE">
+
+---
 ## CVE-2016-5734 (2016-07-03T01:59:00)
 > phpMyAdmin 4.0.x before 4.0.10.16, 4.4.x before 4.4.15.7, and 4.6.x before 4.6.3 does not properly choose delimiters to prevent use of the preg_replace e (aka eval) modifier, which might allow remote attackers to execute arbitrary PHP code via a crafted string, as demonstrated by the table search-and-replace implementation.
 - [miko550/CVE-2016-5734-docker](https://github.com/miko550/CVE-2016-5734-docker)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2016-5734-docker">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2016-5734-docker">
