@@ -125,6 +125,11 @@
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
 
 ---
+## CVE-2024-35511 ()
+> 
+- [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511)	<img alt="forks" src="https://img.shields.io/github/forks/efekaanakkar/CVE-2024-35511">	<img alt="stars" src="https://img.shields.io/github/stars/efekaanakkar/CVE-2024-35511">
+
+---
 ## CVE-2024-35475 (2024-05-22T14:15:00)
 > A Cross-Site Request Forgery (CSRF) vulnerability was discovered in OpenKM Community Edition on or before version 6.3.12. The vulnerability exists in /admin/DatabaseQuery, which allows an attacker to manipulate a victim with administrative privileges to execute arbitrary SQL commands.
 - [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475)	<img alt="forks" src="https://img.shields.io/github/forks/carsonchan12345/CVE-2024-35475">	<img alt="stars" src="https://img.shields.io/github/stars/carsonchan12345/CVE-2024-35475">
@@ -599,6 +604,11 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-31025 ()
 > 
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
+
+---
+## CVE-2024-30998 ()
+> 
+- [efekaanakkar/CVE-2024-30998](https://github.com/efekaanakkar/CVE-2024-30998)	<img alt="forks" src="https://img.shields.io/github/forks/efekaanakkar/CVE-2024-30998">	<img alt="stars" src="https://img.shields.io/github/stars/efekaanakkar/CVE-2024-30998">
 
 ---
 ## CVE-2024-30973 (2024-05-06T22:15:00)
