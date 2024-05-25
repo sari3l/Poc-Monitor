@@ -389,6 +389,7 @@
 ## CVE-2016-6187 (2016-08-06T20:59:00)
 > The apparmor_setprocattr function in security/apparmor/lsm.c in the Linux kernel before 4.6.5 does not validate the buffer size, which allows local users to gain privileges by triggering an AppArmor setprocattr hook.
 - [Milo-D/CVE-2016-6187_LPE](https://github.com/Milo-D/CVE-2016-6187_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/Milo-D/CVE-2016-6187_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/Milo-D/CVE-2016-6187_LPE">
+- [vnik5287/cve-2016-6187-poc](https://github.com/vnik5287/cve-2016-6187-poc)	<img alt="forks" src="https://img.shields.io/github/forks/vnik5287/cve-2016-6187-poc">	<img alt="stars" src="https://img.shields.io/github/stars/vnik5287/cve-2016-6187-poc">
 
 ---
 ## CVE-2016-5734 (2016-07-03T01:59:00)
