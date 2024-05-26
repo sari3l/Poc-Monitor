@@ -4626,6 +4626,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [ahrixia/CVE-2023-30256](https://github.com/ahrixia/CVE-2023-30256)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-30256">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-30256">
 
 ---
+## CVE-2023-30253 (2023-05-29T21:15:00)
+> Dolibarr before 17.0.1 allows remote code execution by an authenticated user via an uppercase manipulation: <?PHP instead of <?php in injected data.
+- [Rubikcuv5/cve-2023-30253](https://github.com/Rubikcuv5/cve-2023-30253)	<img alt="forks" src="https://img.shields.io/github/forks/Rubikcuv5/cve-2023-30253">	<img alt="stars" src="https://img.shields.io/github/stars/Rubikcuv5/cve-2023-30253">
+
+---
 ## CVE-2023-30226 (2023-07-12T02:15:00)
 > An issue was discovered in function get_gnu_verneed in rizinorg Rizin prior to 0.5.0 verneed_entry allows attackers to cause a denial of service via crafted elf file.
 - [ifyGecko/CVE-2023-30226](https://github.com/ifyGecko/CVE-2023-30226)	<img alt="forks" src="https://img.shields.io/github/forks/ifyGecko/CVE-2023-30226">	<img alt="stars" src="https://img.shields.io/github/stars/ifyGecko/CVE-2023-30226">
