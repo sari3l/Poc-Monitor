@@ -61,6 +61,11 @@
 - [JohnnyBradvo/CVE-2024-4444](https://github.com/JohnnyBradvo/CVE-2024-4444)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-4444">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-4444">
 
 ---
+## CVE-2024-4443 (2024-05-22T06:15:00)
+> The Business Directory Plugin – Easy Listing Directories for WordPress plugin for WordPress is vulnerable to time-based SQL Injection via the ‘listingfields’ parameter in all versions up to, and including, 6.4.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
+- [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4443-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4443-Poc">
+
+---
 ## CVE-2024-4439 (2024-05-03T06:15:00)
 > WordPress Core is vulnerable to Stored Cross-Site Scripting via user display names in the Avatar block in various versions up to 6.5.2 due to insufficient output escaping on the display name. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. In addition, it also makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that have the comment block present and display the comment author's avatar.
 - [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-4439">
