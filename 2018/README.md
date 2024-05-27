@@ -1342,6 +1342,11 @@
 - [mgargiullo/cve-2018-1207](https://github.com/mgargiullo/cve-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/mgargiullo/cve-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/mgargiullo/cve-2018-1207">
 
 ---
+## CVE-2018-11784 (2018-10-04T13:29:00)
+> When the default servlet in Apache Tomcat versions 9.0.0.M1 to 9.0.11, 8.5.0 to 8.5.33 and 7.0.23 to 7.0.90 returned a redirect to a directory (e.g. redirecting to '/foo/' when the user requested '/foo') a specially crafted URL could be used to cause the redirect to be generated to any URI of the attackers choice.
+- [Cappricio-Securities/CVE-2018-11784](https://github.com/Cappricio-Securities/CVE-2018-11784)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2018-11784">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2018-11784">
+
+---
 ## CVE-2018-11776 (2018-08-22T13:29:00)
 > Apache Struts versions 2.3 to 2.3.34 and 2.5 to 2.5.16 suffer from possible Remote Code Execution when alwaysSelectFullNamespace is true (either by user or a plugin like Convention Plugin) and then: results are used with no namespace and in same time, its upper package have no or wildcard namespace and similar to results, same possibility when using url tag which doesn't have value and action set and in same time, its upper package have no or wildcard namespace.
 - [sonpt-afk/CVE-2018-11776-FIS](https://github.com/sonpt-afk/CVE-2018-11776-FIS)	<img alt="forks" src="https://img.shields.io/github/forks/sonpt-afk/CVE-2018-11776-FIS">	<img alt="stars" src="https://img.shields.io/github/stars/sonpt-afk/CVE-2018-11776-FIS">
