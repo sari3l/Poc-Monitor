@@ -79,6 +79,7 @@
 - [LOURC0D3/CVE-2024-4367-PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-4367-PoC">
 - [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s4vvysec/CVE-2024-4367-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s4vvysec/CVE-2024-4367-POC">
 - [spaceraccoon/detect-cve-2024-4367](https://github.com/spaceraccoon/detect-cve-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/spaceraccoon/detect-cve-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/spaceraccoon/detect-cve-2024-4367">
+- [avalahEE/pdfjs_disable_eval](https://github.com/avalahEE/pdfjs_disable_eval)	<img alt="forks" src="https://img.shields.io/github/forks/avalahEE/pdfjs_disable_eval">	<img alt="stars" src="https://img.shields.io/github/stars/avalahEE/pdfjs_disable_eval">
 
 ---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
