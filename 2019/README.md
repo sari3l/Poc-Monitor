@@ -2867,6 +2867,13 @@
 - [Live-Hack-CVE/CVE-2019-1010065](https://github.com/Live-Hack-CVE/CVE-2019-1010065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1010065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1010065">
 
 ---
+## CVE-2019-10092 (2019-09-26T16:15:00)
+> In Apache HTTP Server 2.4.0-2.4.39, a limited cross-site scripting issue was reported affecting the mod_proxy error page. An attacker could cause the link on the error page to be malformed and instead point to a page of their choice. This would only be exploitable where a server was set up with proxying enabled but was misconfigured in such a way that the Proxy Error page was displayed.
+- [mbadanoiu/CVE-2019-10092](https://github.com/mbadanoiu/CVE-2019-10092)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-10092">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-10092">
+- [ro-fes/CVE2019-10092](https://github.com/ro-fes/CVE2019-10092)	<img alt="forks" src="https://img.shields.io/github/forks/ro-fes/CVE2019-10092">	<img alt="stars" src="https://img.shields.io/github/stars/ro-fes/CVE2019-10092">
+- [motikan2010/CVE-2019-10092_Docker](https://github.com/motikan2010/CVE-2019-10092_Docker)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2019-10092_Docker">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2019-10092_Docker">
+
+---
 ## CVE-2019-1006 (2019-07-15T19:15:00)
 > An authentication bypass vulnerability exists in Windows Communication Foundation (WCF) and Windows Identity Foundation (WIF), allowing signing of SAML tokens with arbitrary symmetric keys, aka 'WCF/WIF SAML Token Authentication Bypass Vulnerability'.
 - [521526/CVE-2019-1006](https://github.com/521526/CVE-2019-1006)	<img alt="forks" src="https://img.shields.io/github/forks/521526/CVE-2019-1006">	<img alt="stars" src="https://img.shields.io/github/stars/521526/CVE-2019-1006">
