@@ -1924,6 +1924,7 @@ and trace malicious activities. Users are advised to upgrade to Apache InLong's
 - [StanleyJobsonAU/GhostTown](https://github.com/StanleyJobsonAU/GhostTown)	<img alt="forks" src="https://img.shields.io/github/forks/StanleyJobsonAU/GhostTown">	<img alt="stars" src="https://img.shields.io/github/stars/StanleyJobsonAU/GhostTown">
 - [hotplugin0x01/CVE-2023-42793](https://github.com/hotplugin0x01/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2023-42793">
 - [Zyad-Elsayed/CVE-2023-42793](https://github.com/Zyad-Elsayed/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Zyad-Elsayed/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Zyad-Elsayed/CVE-2023-42793">
+- [junnythemarksman/CVE-2023-42793](https://github.com/junnythemarksman/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
