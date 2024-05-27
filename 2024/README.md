@@ -1001,13 +1001,13 @@ QuTScloud c5.1.5.2651 and later
 - [yashpatelphd/CVE-2024-30659](https://github.com/yashpatelphd/CVE-2024-30659)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30659">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30659">
 
 ---
-## CVE-2024-30658 ()
-> 
+## CVE-2024-30658 (2024-05-27T00:15:00)
+> Rejected reason: DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that there was not reasonable evidence to determine the existence of a vulnerability.
 - [yashpatelphd/CVE-2024-30658](https://github.com/yashpatelphd/CVE-2024-30658)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30658">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30658">
 
 ---
-## CVE-2024-30657 ()
-> 
+## CVE-2024-30657 (2024-05-27T00:15:00)
+> Rejected reason: DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that there was not reasonable evidence to determine the existence of a vulnerability.
 - [yashpatelphd/CVE-2024-30657](https://github.com/yashpatelphd/CVE-2024-30657)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30657">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30657">
 
 ---
