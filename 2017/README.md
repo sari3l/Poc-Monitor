@@ -411,6 +411,7 @@
 - [K3ysTr0K3R/CVE-2017-5487-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-5487-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-5487-EXPLOIT">
 - [Jhonsonwannaa/CVE-2017-5487](https://github.com/Jhonsonwannaa/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2017-5487">
 - [Jhonsonwannaa/CVE-2017-5487](https://github.com/Jhonsonwannaa/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2017-5487">
+- [Jhonsonwannaa/Jhonsonwannaa-CVE-2017-5487](https://github.com/Jhonsonwannaa/Jhonsonwannaa-CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/Jhonsonwannaa-CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/Jhonsonwannaa-CVE-2017-5487">
 
 ---
 ## CVE-2017-5242 (2023-01-12T22:15:00)

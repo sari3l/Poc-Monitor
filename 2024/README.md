@@ -29,6 +29,7 @@
 ## CVE-2024-5084 (2024-05-23T15:15:00)
 > The Hash Form – Drag & Drop Form Builder plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'file_upload_action' function in all versions up to, and including, 1.1.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-5084">
+- [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-5084">
 
 ---
 ## CVE-2024-4956 (2024-05-16T16:15:00)
