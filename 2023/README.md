@@ -399,6 +399,7 @@ SCM accounting on the io_uring side unnecessary.
 - [Jake123otte1/BadBizness-CVE-2023-51467](https://github.com/Jake123otte1/BadBizness-CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Jake123otte1/BadBizness-CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Jake123otte1/BadBizness-CVE-2023-51467">
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">
+- [pulentoski/CVE-2023-51467-and-CVE-2023-49070](https://github.com/pulentoski/CVE-2023-51467-and-CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2023-51467-and-CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2023-51467-and-CVE-2023-49070">
 
 ---
 ## CVE-2023-51448 (2023-12-22T17:15:00)
