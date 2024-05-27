@@ -134,6 +134,11 @@
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
 
 ---
+## CVE-2024-3552 ()
+> 
+- [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3552-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3552-Poc">
+
+---
 ## CVE-2024-35511 ()
 > 
 - [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511)	<img alt="forks" src="https://img.shields.io/github/forks/efekaanakkar/CVE-2024-35511">	<img alt="stars" src="https://img.shields.io/github/stars/efekaanakkar/CVE-2024-35511">
