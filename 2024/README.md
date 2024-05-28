@@ -142,8 +142,8 @@
 - [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3552-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3552-Poc">
 
 ---
-## CVE-2024-35511 ()
-> 
+## CVE-2024-35511 (2024-05-28T21:16:00)
+> phpgurukul Men Salon Management System v2.0 is vulnerable to SQL Injection via the "username" parameter of /msms/admin/index.php.
 - [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511)	<img alt="forks" src="https://img.shields.io/github/forks/efekaanakkar/CVE-2024-35511">	<img alt="stars" src="https://img.shields.io/github/stars/efekaanakkar/CVE-2024-35511">
 
 ---
@@ -2153,8 +2153,8 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [zunak/CVE-2024-22642](https://github.com/zunak/CVE-2024-22642)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22642">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22642">
 
 ---
-## CVE-2024-22641 ()
-> 
+## CVE-2024-22641 (2024-05-28T21:16:00)
+> TCPDF version 6.6.5 and before is vulnerable to ReDoS (Regular Expression Denial of Service) if parsing an untrusted SVG file.
 - [zunak/CVE-2024-22641](https://github.com/zunak/CVE-2024-22641)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-22641">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-22641">
 
 ---

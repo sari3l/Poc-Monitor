@@ -1322,8 +1322,8 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [rainbowhatrkn/CVE-2023-46747-RCE](https://github.com/rainbowhatrkn/CVE-2023-46747-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rainbowhatrkn/CVE-2023-46747-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rainbowhatrkn/CVE-2023-46747-RCE">
 
 ---
-## CVE-2023-46694 ()
-> 
+## CVE-2023-46694 (2024-05-28T20:16:00)
+> Vtenext 21.02 allows an authenticated attacker to upload arbitrary files, potentially enabling them to execute remote commands. This flaw exists due to the application's failure to enforce proper authentication controls when accessing the Ckeditor file manager functionality.
 - [invisiblebyte/CVE-2023-46694](https://github.com/invisiblebyte/CVE-2023-46694)	<img alt="forks" src="https://img.shields.io/github/forks/invisiblebyte/CVE-2023-46694">	<img alt="stars" src="https://img.shields.io/github/stars/invisiblebyte/CVE-2023-46694">
 
 ---
