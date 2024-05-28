@@ -2075,6 +2075,11 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [labesterOct/CVE-2024-23113](https://github.com/labesterOct/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-23113">
 
 ---
+## CVE-2024-23108 (2024-02-05T14:15:00)
+> An improper neutralization of special elements used in an os command ('os command injection') in Fortinet FortiSIEM version 7.1.0 through 7.1.1 and 7.0.0 through 7.0.2 and 6.7.0 through 6.7.8 and 6.6.0 through 6.6.3 and 6.5.0 through 6.5.2 and 6.4.0 through 6.4.2 allows attacker to execute unauthorized code or commands via via crafted API requests.
+- [hitem/CVE-2024-23108](https://github.com/hitem/CVE-2024-23108)	<img alt="forks" src="https://img.shields.io/github/forks/hitem/CVE-2024-23108">	<img alt="stars" src="https://img.shields.io/github/stars/hitem/CVE-2024-23108">
+
+---
 ## CVE-2024-22983 (2024-02-28T22:15:00)
 > SQL injection vulnerability in Projectworlds Visitor Management System in PHP v.1.0 allows a remote attacker to escalate privileges via the name parameter in the myform.php endpoint.
 - [keru6k/CVE-2024-22983](https://github.com/keru6k/CVE-2024-22983)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22983">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22983">
