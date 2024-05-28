@@ -326,6 +326,24 @@
 - [Live-Hack-CVE/CVE-2015-1787](https://github.com/Live-Hack-CVE/CVE-2015-1787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1787">
 
 ---
+## CVE-2015-1635 (2015-04-14T20:59:00)
+> HTTP.sys in Microsoft Windows 7 SP1, Windows Server 2008 R2 SP1, Windows 8, Windows 8.1, and Windows Server 2012 Gold and R2 allows remote attackers to execute arbitrary code via crafted HTTP requests, aka "HTTP.sys Remote Code Execution Vulnerability."
+- [Cappricio-Securities/CVE-2015-1635](https://github.com/Cappricio-Securities/CVE-2015-1635)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2015-1635">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2015-1635">
+- [SkinAir/ms15-034-Scan](https://github.com/SkinAir/ms15-034-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/SkinAir/ms15-034-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/SkinAir/ms15-034-Scan">
+- [w01ke/CVE-2015-1635-POC](https://github.com/w01ke/CVE-2015-1635-POC)	<img alt="forks" src="https://img.shields.io/github/forks/w01ke/CVE-2015-1635-POC">	<img alt="stars" src="https://img.shields.io/github/stars/w01ke/CVE-2015-1635-POC">
+- [c0d3cr4f73r/CVE-2015-1635](https://github.com/c0d3cr4f73r/CVE-2015-1635)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2015-1635">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2015-1635">
+- [c0d3cr4f73r/CVE-2015-1635-POC](https://github.com/c0d3cr4f73r/CVE-2015-1635-POC)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2015-1635-POC">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2015-1635-POC">
+- [aedoo/CVE-2015-1635-POC](https://github.com/aedoo/CVE-2015-1635-POC)	<img alt="forks" src="https://img.shields.io/github/forks/aedoo/CVE-2015-1635-POC">	<img alt="stars" src="https://img.shields.io/github/stars/aedoo/CVE-2015-1635-POC">
+- [technion/erlvulnscan](https://github.com/technion/erlvulnscan)	<img alt="forks" src="https://img.shields.io/github/forks/technion/erlvulnscan">	<img alt="stars" src="https://img.shields.io/github/stars/technion/erlvulnscan">
+- [limkokholefork/CVE-2015-1635](https://github.com/limkokholefork/CVE-2015-1635)	<img alt="forks" src="https://img.shields.io/github/forks/limkokholefork/CVE-2015-1635">	<img alt="stars" src="https://img.shields.io/github/stars/limkokholefork/CVE-2015-1635">
+- [bongbongco/MS15-034](https://github.com/bongbongco/MS15-034)	<img alt="forks" src="https://img.shields.io/github/forks/bongbongco/MS15-034">	<img alt="stars" src="https://img.shields.io/github/stars/bongbongco/MS15-034">
+- [u0pattern/Remove-IIS-RIIS](https://github.com/u0pattern/Remove-IIS-RIIS)	<img alt="forks" src="https://img.shields.io/github/forks/u0pattern/Remove-IIS-RIIS">	<img alt="stars" src="https://img.shields.io/github/stars/u0pattern/Remove-IIS-RIIS">
+- [wiredaem0n/chk-ms15-034](https://github.com/wiredaem0n/chk-ms15-034)	<img alt="forks" src="https://img.shields.io/github/forks/wiredaem0n/chk-ms15-034">	<img alt="stars" src="https://img.shields.io/github/stars/wiredaem0n/chk-ms15-034">
+- [xPaw/HTTPsys](https://github.com/xPaw/HTTPsys)	<img alt="forks" src="https://img.shields.io/github/forks/xPaw/HTTPsys">	<img alt="stars" src="https://img.shields.io/github/stars/xPaw/HTTPsys">
+- [neu5ron/cve_2015-1635](https://github.com/neu5ron/cve_2015-1635)	<img alt="forks" src="https://img.shields.io/github/forks/neu5ron/cve_2015-1635">	<img alt="stars" src="https://img.shields.io/github/stars/neu5ron/cve_2015-1635">
+- [Zx7ffa4512-Python/Project-CVE-2015-1635](https://github.com/Zx7ffa4512-Python/Project-CVE-2015-1635)	<img alt="forks" src="https://img.shields.io/github/forks/Zx7ffa4512-Python/Project-CVE-2015-1635">	<img alt="stars" src="https://img.shields.io/github/stars/Zx7ffa4512-Python/Project-CVE-2015-1635">
+
+---
 ## CVE-2015-1578 (2015-02-11T19:59:00)
 > Multiple open redirect vulnerabilities in u5CMS before 3.9.4 allow remote attackers to redirect users to arbitrary web sites and conduct phishing attacks via a URL in the (1) pidvesa cookie to u5admin/pidvesa.php or (2) uri parameter to u5admin/meta2.php. <a href="http://cwe.mitre.org/data/definitions/601.html">CWE-601: URL Redirection to Untrusted Site ('Open Redirect')</a>
 - [Zeppperoni/CVE-2015-1578](https://github.com/Zeppperoni/CVE-2015-1578)	<img alt="forks" src="https://img.shields.io/github/forks/Zeppperoni/CVE-2015-1578">	<img alt="stars" src="https://img.shields.io/github/stars/Zeppperoni/CVE-2015-1578">
