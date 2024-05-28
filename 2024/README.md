@@ -159,6 +159,7 @@
 > The Country State City Dropdown CF7 plugin for WordPress is vulnerable to SQL Injection via the ‘cnt’ and 'sid' parameters in versions up to, and including, 2.7.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-3495-Poc](https://github.com/truonghuuphuc/CVE-2024-3495-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3495-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3495-Poc">
 - [Gr-1m/CVE-2024-34958-1](https://github.com/Gr-1m/CVE-2024-34958-1)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/CVE-2024-34958-1">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/CVE-2024-34958-1">
+- [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zomasec/CVE-2024-3495-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zomasec/CVE-2024-3495-POC">
 
 ---
 ## CVE-2024-34716 (2024-05-14T16:17:00)
