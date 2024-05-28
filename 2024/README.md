@@ -2849,6 +2849,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [ysanatomic/io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/ysanatomic/io_uring_LPE-CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/ysanatomic/io_uring_LPE-CVE-2024-0582">
 - [Forsaken0129/CVE-2024-0582](https://github.com/Forsaken0129/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/Forsaken0129/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/Forsaken0129/CVE-2024-0582">
 - [FoxyProxys/CVE-2024-0582](https://github.com/FoxyProxys/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-0582">
+- [0ptyx/cve-2024-0582](https://github.com/0ptyx/cve-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/0ptyx/cve-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/0ptyx/cve-2024-0582">
 
 ---
 ## CVE-2024-0566 (2024-02-12T16:15:00)
