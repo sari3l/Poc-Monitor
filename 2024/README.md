@@ -43,6 +43,7 @@
 - [thinhap/CVE-2024-4956-PoC](https://github.com/thinhap/CVE-2024-4956-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/thinhap/CVE-2024-4956-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/thinhap/CVE-2024-4956-PoC">
 - [eoslvs/CVE-2024-4956](https://github.com/eoslvs/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/eoslvs/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/eoslvs/CVE-2024-4956">
 - [GoatSecurity/CVE-2024-4956](https://github.com/GoatSecurity/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/GoatSecurity/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/GoatSecurity/CVE-2024-4956">
+- [TypicalModMaker/list-of-vulnerable-sonatype-servers](https://github.com/TypicalModMaker/list-of-vulnerable-sonatype-servers)	<img alt="forks" src="https://img.shields.io/github/forks/TypicalModMaker/list-of-vulnerable-sonatype-servers">	<img alt="stars" src="https://img.shields.io/github/stars/TypicalModMaker/list-of-vulnerable-sonatype-servers">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
