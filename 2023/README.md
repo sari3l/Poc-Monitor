@@ -1759,6 +1759,18 @@ and trace malicious activities. Users are advised to upgrade to Apache InLong's
 - [ItsMagick/CVE-2023-43641](https://github.com/ItsMagick/CVE-2023-43641)	<img alt="forks" src="https://img.shields.io/github/forks/ItsMagick/CVE-2023-43641">	<img alt="stars" src="https://img.shields.io/github/stars/ItsMagick/CVE-2023-43641">
 
 ---
+## CVE-2023-43622 (2023-10-23T07:15:00)
+> An attacker, opening a HTTP/2 connection with an initial window size of 0, was able to block handling of that connection indefinitely in Apache HTTP Server. This could be used to exhaust worker resources in the server, similar to the well known "slow loris" attack pattern.
+This has been fixed in version 2.4.58, so that such connection are terminated properly after the configured connection timeout.
+
+This issue affects Apache HTTP Server: from 2.4.55 through 2.4.57.
+
+Users are recommended to upgrade to version 2.4.58, which fixes the issue.
+
+
+- [visudade/CVE-2023-43622](https://github.com/visudade/CVE-2023-43622)	<img alt="forks" src="https://img.shields.io/github/forks/visudade/CVE-2023-43622">	<img alt="stars" src="https://img.shields.io/github/stars/visudade/CVE-2023-43622">
+
+---
 ## CVE-2023-4357 (2023-08-15T18:15:00)
 > Insufficient validation of untrusted input in XML in Google Chrome prior to 116.0.5845.96 allowed a remote attacker to bypass file access restrictions via a crafted HTML page. (Chromium security severity: Medium)
 - [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/xcanwin/CVE-2023-4357-Chrome-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/xcanwin/CVE-2023-4357-Chrome-XXE">
