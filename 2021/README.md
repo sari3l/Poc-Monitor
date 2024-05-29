@@ -8583,7 +8583,7 @@
 ## CVE-2021-1675 (2021-06-08T23:15:00)
 > Windows Print Spooler Elevation of Privilege Vulnerability
 - [jj4152/cve-2021-1675](https://github.com/jj4152/cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/jj4152/cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/jj4152/cve-2021-1675">
-- [NickSanzotta/zeroscan](https://github.com/NickSanzotta/zeroscan)	<img alt="forks" src="https://img.shields.io/github/forks/NickSanzotta/zeroscan">	<img alt="stars" src="https://img.shields.io/github/stars/NickSanzotta/zeroscan">
+- [B34MR/zeroscan](https://github.com/B34MR/zeroscan)	<img alt="forks" src="https://img.shields.io/github/forks/B34MR/zeroscan">	<img alt="stars" src="https://img.shields.io/github/stars/B34MR/zeroscan">
 - [TheJoyOfHacking/calebstewart-CVE-2021-1675](https://github.com/TheJoyOfHacking/calebstewart-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/TheJoyOfHacking/calebstewart-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/TheJoyOfHacking/calebstewart-CVE-2021-1675">
 - [TheJoyOfHacking/cube0x0-CVE-2021-1675](https://github.com/TheJoyOfHacking/cube0x0-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/TheJoyOfHacking/cube0x0-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/TheJoyOfHacking/cube0x0-CVE-2021-1675">
 - [AndrewTrube/CVE-2021-1675](https://github.com/AndrewTrube/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/AndrewTrube/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/AndrewTrube/CVE-2021-1675">
