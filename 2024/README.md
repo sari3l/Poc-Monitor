@@ -2930,6 +2930,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-0190-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-0190-PoC">
 
 ---
+## CVE-2024-0039 (2024-03-11T17:15:00)
+> In attp_build_value_cmd of att_protocol.cc, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/41yn14/CVE-2024-0039-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/41yn14/CVE-2024-0039-Exploit">
+
+---
 ## CVE-2024-0015 (2024-02-16T19:15:00)
 > In convertToComponentName of DreamService.java, there is a possible way to launch arbitrary protected activities due to intent redirection. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.
 - [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015)	<img alt="forks" src="https://img.shields.io/github/forks/UmVfX1BvaW50/CVE-2024-0015">	<img alt="stars" src="https://img.shields.io/github/stars/UmVfX1BvaW50/CVE-2024-0015">
