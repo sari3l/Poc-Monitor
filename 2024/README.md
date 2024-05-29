@@ -2814,6 +2814,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/Notselwyn/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/Notselwyn/CVE-2024-1086">
 - [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/Alicey0719/docker-POC_CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/Alicey0719/docker-POC_CVE-2024-1086">
 - [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/CCIEVoice2009/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/CCIEVoice2009/CVE-2024-1086">
+- [rootkalilocalhost/CVE-2024-1086](https://github.com/rootkalilocalhost/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/rootkalilocalhost/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/rootkalilocalhost/CVE-2024-1086">
 
 ---
 ## CVE-2024-1071 (2024-03-13T16:15:00)
