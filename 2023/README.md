@@ -6068,6 +6068,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/Toothless5143/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/Toothless5143/CVE-2023-22809">
 
 ---
+## CVE-2023-22726 (2023-01-20T22:15:00)
+> act is a project which allows for local running of github actions. The artifact server that stores artifacts from Github Action runs does not sanitize path inputs. This allows an attacker to download and overwrite arbitrary files on the host from a Github Action. This issue may lead to privilege escalation. The /upload endpoint is vulnerable to path traversal as filepath is user controlled, and ultimately flows into os.Mkdir and os.Open. The /artifact endpoint is vulnerable to path traversal as the path is variable is user controlled, and the specified file is ultimately returned by the server. This has been addressed in version 0.2.40. Users are advised to upgrade. Users unable to upgrade may, during implementation of Open and OpenAtEnd for FS, ensure to use ValidPath() to check against path traversal or clean the user-provided paths manually.
+- [ProxyPog/POC-CVE-2023-22726](https://github.com/ProxyPog/POC-CVE-2023-22726)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyPog/POC-CVE-2023-22726">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyPog/POC-CVE-2023-22726">
+
+---
 ## CVE-2023-22621 (2023-04-19T16:15:00)
 > Strapi through 4.5.5 allows authenticated Server-Side Template Injection (SSTI) that can be exploited to execute arbitrary code on the server. A remote attacker with access to the Strapi admin panel can inject a crafted payload that executes code on the server into an email template that bypasses the validation checks that should prevent code execution.
 - [sofianeelhor/CVE-2023-22621-POC](https://github.com/sofianeelhor/CVE-2023-22621-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sofianeelhor/CVE-2023-22621-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sofianeelhor/CVE-2023-22621-POC">
