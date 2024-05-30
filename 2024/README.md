@@ -44,6 +44,7 @@
 - [eoslvs/CVE-2024-4956](https://github.com/eoslvs/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/eoslvs/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/eoslvs/CVE-2024-4956">
 - [GoatSecurity/CVE-2024-4956](https://github.com/GoatSecurity/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/GoatSecurity/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/GoatSecurity/CVE-2024-4956">
 - [TypicalModMaker/CVE-2024-4956](https://github.com/TypicalModMaker/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/TypicalModMaker/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/TypicalModMaker/CVE-2024-4956">
+- [Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager](https://github.com/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
@@ -1684,6 +1685,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-25092 ()
 > 
 - [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-25092">
+
+---
+## CVE-2024-24919 (2024-05-28T19:15:00)
+> Potentially allowing an attacker to read certain information on Check Point Security Gateways once connected to the internet and enabled with remote Access VPN or Mobile Access Software Blades. A Security fix that mitigates this vulnerability is available.
+- [c3rrberu5/CVE-2024-24919](https://github.com/c3rrberu5/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/c3rrberu5/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/c3rrberu5/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
