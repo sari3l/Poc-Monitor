@@ -4811,6 +4811,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [md-thalal/CVE-2023-29489](https://github.com/md-thalal/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/md-thalal/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/md-thalal/CVE-2023-29489">
 - [md-thalal/CVE-2023-29489](https://github.com/md-thalal/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/md-thalal/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/md-thalal/CVE-2023-29489">
 - [md-thalal/CVE-2023-29489](https://github.com/md-thalal/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/md-thalal/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/md-thalal/CVE-2023-29489">
+- [md-thalal/CVE-2023-29489](https://github.com/md-thalal/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/md-thalal/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/md-thalal/CVE-2023-29489">
 
 ---
 ## CVE-2023-29439 (2023-05-16T15:15:00)
