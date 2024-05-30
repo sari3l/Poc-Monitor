@@ -152,6 +152,16 @@
 - [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475)	<img alt="forks" src="https://img.shields.io/github/forks/carsonchan12345/CVE-2024-35475">	<img alt="stars" src="https://img.shields.io/github/stars/carsonchan12345/CVE-2024-35475">
 
 ---
+## CVE-2024-35469 ()
+> 
+- [dovankha/CVE-2024-35469](https://github.com/dovankha/CVE-2024-35469)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-35469">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-35469">
+
+---
+## CVE-2024-35468 ()
+> 
+- [dovankha/CVE-2024-35468](https://github.com/dovankha/CVE-2024-35468)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-35468">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-35468">
+
+---
 ## CVE-2024-35333 (2024-05-29T16:15:00)
 > A stack-buffer-overflow vulnerability exists in the read_charset_decl function of html2xhtml 1.3. This vulnerability occurs due to improper bounds checking when copying data into a fixed-size stack buffer. An attacker can exploit this vulnerability by providing a specially crafted input to the vulnerable function, causing a buffer overflow and potentially leading to arbitrary code execution, denial of service, or data corruption.
 - [momo1239/CVE-2024-35333](https://github.com/momo1239/CVE-2024-35333)	<img alt="forks" src="https://img.shields.io/github/forks/momo1239/CVE-2024-35333">	<img alt="stars" src="https://img.shields.io/github/stars/momo1239/CVE-2024-35333">
