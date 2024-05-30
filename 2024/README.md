@@ -555,6 +555,8 @@ QuTScloud c5.1.5.2651 and later
 - [JakobTheDev/cve-2024-32002-submodule-rce](https://github.com/JakobTheDev/cve-2024-32002-submodule-rce)	<img alt="forks" src="https://img.shields.io/github/forks/JakobTheDev/cve-2024-32002-submodule-rce">	<img alt="stars" src="https://img.shields.io/github/stars/JakobTheDev/cve-2024-32002-submodule-rce">
 - [markuta/CVE-2024-32002](https://github.com/markuta/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/markuta/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/markuta/CVE-2024-32002">
 - [Goplush/CVE-2024-32002-git-rce](https://github.com/Goplush/CVE-2024-32002-git-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Goplush/CVE-2024-32002-git-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Goplush/CVE-2024-32002-git-rce">
+- [TanMolk/CVE-2024-32002-sub](https://github.com/TanMolk/CVE-2024-32002-sub)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002-sub">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002-sub">
+- [TanMolk/CVE-2024-32002](https://github.com/TanMolk/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
