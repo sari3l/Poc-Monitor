@@ -153,13 +153,13 @@
 - [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475)	<img alt="forks" src="https://img.shields.io/github/forks/carsonchan12345/CVE-2024-35475">	<img alt="stars" src="https://img.shields.io/github/stars/carsonchan12345/CVE-2024-35475">
 
 ---
-## CVE-2024-35469 ()
-> 
+## CVE-2024-35469 (2024-05-30T18:15:00)
+> A SQL injection vulnerability in /hrm/user/ in SourceCodester Human Resource Management System 1.0 allows attackers to execute arbitrary SQL commands via the password parameter.
 - [dovankha/CVE-2024-35469](https://github.com/dovankha/CVE-2024-35469)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-35469">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-35469">
 
 ---
-## CVE-2024-35468 ()
-> 
+## CVE-2024-35468 (2024-05-30T18:15:00)
+> A SQL injection vulnerability in /hrm/index.php in SourceCodester Human Resource Management System 1.0 allows attackers to execute arbitrary SQL commands via the password parameter.
 - [dovankha/CVE-2024-35468](https://github.com/dovankha/CVE-2024-35468)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-35468">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-35468">
 
 ---
