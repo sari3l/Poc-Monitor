@@ -558,6 +558,8 @@ QuTScloud c5.1.5.2651 and later
 - [TanMolk/CVE-2024-32002-sub](https://github.com/TanMolk/CVE-2024-32002-sub)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002-sub">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002-sub">
 - [TanMolk/CVE-2024-32002](https://github.com/TanMolk/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002">
 - [TanMolk/CVE-2024-32002](https://github.com/TanMolk/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002">
+- [TanMolk/CVE-2024-32002-sub](https://github.com/TanMolk/CVE-2024-32002-sub)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002-sub">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002-sub">
+- [TanMolk/CVE-2024-32002](https://github.com/TanMolk/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
