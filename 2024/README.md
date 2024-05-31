@@ -1720,6 +1720,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [GoatSecurity/CVE-2024-24919](https://github.com/GoatSecurity/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/GoatSecurity/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/GoatSecurity/CVE-2024-24919">
 - [GlobalsecureAcademy/CVE-2024-24919](https://github.com/GlobalsecureAcademy/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/GlobalsecureAcademy/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/GlobalsecureAcademy/CVE-2024-24919">
 - [nexblade12/CVE-2024-24919](https://github.com/nexblade12/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/nexblade12/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/nexblade12/CVE-2024-24919">
+- [un9nplayer/CVE-2024-24919](https://github.com/un9nplayer/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/un9nplayer/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/un9nplayer/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
