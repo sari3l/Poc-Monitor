@@ -1366,6 +1366,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [vulncheck-oss/cve-2023-46604](https://github.com/vulncheck-oss/cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-46604">
 - [thinkycx/activemq-rce-cve-2023-46604](https://github.com/thinkycx/activemq-rce-cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/thinkycx/activemq-rce-cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/thinkycx/activemq-rce-cve-2023-46604">
 - [Gloway17/ActiveMQ-CVE-2023-46604](https://github.com/Gloway17/ActiveMQ-CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/Gloway17/ActiveMQ-CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/Gloway17/ActiveMQ-CVE-2023-46604">
+- [pulentoski/CVE-2023-46604](https://github.com/pulentoski/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2023-46604">
 
 ---
 ## CVE-2023-46501 ()
