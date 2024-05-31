@@ -1714,6 +1714,8 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [3UR/CVE-2024-24919](https://github.com/3UR/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/3UR/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/3UR/CVE-2024-24919">
 - [RevoltSecurities/CVE-2024-24919](https://github.com/RevoltSecurities/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-24919">
 - [Vulnpire/CVE-2024-24919](https://github.com/Vulnpire/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnpire/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnpire/CVE-2024-24919">
+- [Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN](https://github.com/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN">
+- [0x3f3c/CVE-2024-24919](https://github.com/0x3f3c/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/0x3f3c/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/0x3f3c/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
