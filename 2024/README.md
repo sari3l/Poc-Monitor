@@ -566,6 +566,7 @@ QuTScloud c5.1.5.2651 and later
 - [TanMolk/CVE-2024-32002-sub](https://github.com/TanMolk/CVE-2024-32002-sub)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002-sub">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002-sub">
 - [TanMolk/CVE-2024-32002](https://github.com/TanMolk/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002">
 - [AD-Appledog/CVE-2024-32002](https://github.com/AD-Appledog/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AD-Appledog/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AD-Appledog/CVE-2024-32002">
+- [Zhang-Yiiliin/test_cve_2024_32002](https://github.com/Zhang-Yiiliin/test_cve_2024_32002)	<img alt="forks" src="https://img.shields.io/github/forks/Zhang-Yiiliin/test_cve_2024_32002">	<img alt="stars" src="https://img.shields.io/github/stars/Zhang-Yiiliin/test_cve_2024_32002">
 
 ---
 ## CVE-2024-31848 ()
@@ -1708,6 +1709,8 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [Bytenull00/CVE-2024-24919](https://github.com/Bytenull00/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Bytenull00/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Bytenull00/CVE-2024-24919">
 - [am-eid/CVE-2024-24919](https://github.com/am-eid/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/am-eid/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/am-eid/CVE-2024-24919">
 - [pewc0/CVE-2024-24919](https://github.com/pewc0/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/pewc0/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/pewc0/CVE-2024-24919">
+- [zam89/CVE-2024-24919](https://github.com/zam89/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/zam89/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/zam89/CVE-2024-24919">
+- [satriarizka/CVE-2024-24919](https://github.com/satriarizka/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/satriarizka/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/satriarizka/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
