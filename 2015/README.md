@@ -104,6 +104,7 @@
 - [fjserna/CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/fjserna/CVE-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/fjserna/CVE-2015-7547">
 - [rexifiles/rex-sec-glibc](https://github.com/rexifiles/rex-sec-glibc)	<img alt="forks" src="https://img.shields.io/github/forks/rexifiles/rex-sec-glibc">	<img alt="stars" src="https://img.shields.io/github/stars/rexifiles/rex-sec-glibc">
 - [cakuzo/CVE-2015-7547](https://github.com/cakuzo/CVE-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/cakuzo/CVE-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/cakuzo/CVE-2015-7547">
+- [MRC6666/CVE-2015-7547](https://github.com/MRC6666/CVE-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/MRC6666/CVE-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/MRC6666/CVE-2015-7547">
 
 ---
 ## CVE-2015-7297 (2015-10-29T20:59:00)
