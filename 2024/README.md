@@ -1416,6 +1416,15 @@ QuTScloud c5.1.5.2651 and later
 - [10cks/CVE-2024-27460-installer](https://github.com/10cks/CVE-2024-27460-installer)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-27460-installer">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-27460-installer">
 
 ---
+## CVE-2024-27348 (2024-04-22T14:15:00)
+> RCE-Remote Command Execution vulnerability in Apache HugeGraph-Server.This issue affects Apache HugeGraph-Server: from 1.0.0 before 1.3.0 in Java8 & Java11
+
+Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth system, which fixes the issue.
+
+
+- [Zeyad-Azima/CVE-2024-27348](https://github.com/Zeyad-Azima/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2024-27348">
+
+---
 ## CVE-2024-27316 (2024-04-04T20:15:00)
 > HTTP/2 incoming headers exceeding the limit are temporarily buffered in nghttp2 in order to generate an informative HTTP 413 response. If a client does not stop sending headers, this leads to memory exhaustion.
 - [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/CVE-2024-27316">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/CVE-2024-27316">
