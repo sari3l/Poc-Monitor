@@ -1716,6 +1716,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [Vulnpire/CVE-2024-24919](https://github.com/Vulnpire/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnpire/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnpire/CVE-2024-24919">
 - [Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN](https://github.com/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN">
 - [0x3f3c/CVE-2024-24919](https://github.com/0x3f3c/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/0x3f3c/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/0x3f3c/CVE-2024-24919">
+- [smackerdodi/CVE-2024-24919-nuclei-templater](https://github.com/smackerdodi/CVE-2024-24919-nuclei-templater)	<img alt="forks" src="https://img.shields.io/github/forks/smackerdodi/CVE-2024-24919-nuclei-templater">	<img alt="stars" src="https://img.shields.io/github/stars/smackerdodi/CVE-2024-24919-nuclei-templater">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
