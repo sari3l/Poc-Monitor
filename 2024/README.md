@@ -1744,6 +1744,8 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [gurudattch/CVE-2024-24919](https://github.com/gurudattch/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/gurudattch/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/gurudattch/CVE-2024-24919">
 - [YN1337/CVE-2024-24919](https://github.com/YN1337/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/YN1337/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/YN1337/CVE-2024-24919">
 - [ifconfig-me/CVE-2024-24919-Bulk-Scanner](https://github.com/ifconfig-me/CVE-2024-24919-Bulk-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2024-24919-Bulk-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2024-24919-Bulk-Scanner">
+- [r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN](https://github.com/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">
+- [r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check](https://github.com/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
