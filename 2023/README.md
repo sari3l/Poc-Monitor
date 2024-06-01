@@ -3434,6 +3434,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [nidhi7598/linux-4.19.72_CVE-2023-3609](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3609">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3609">
 
 ---
+## CVE-2023-36085 (2023-10-25T18:17:00)
+> The sisqualWFM 7.1.319.103 thru 7.1.319.111 for Android, has a host header injection vulnerability in its "/sisqualIdentityServer/core/" endpoint. By modifying the HTTP Host header, an attacker can change webpage links and even redirect users to arbitrary or malicious locations. This can lead to phishing attacks, malware distribution, and unauthorized access to sensitive resources.
+- [omershaik0/CVE-2023-36085_SISQUALWFM-Host-Header-Injection](https://github.com/omershaik0/CVE-2023-36085_SISQUALWFM-Host-Header-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/omershaik0/CVE-2023-36085_SISQUALWFM-Host-Header-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/omershaik0/CVE-2023-36085_SISQUALWFM-Host-Header-Injection">
+
+---
 ## CVE-2023-36076 (2023-09-01T16:15:00)
 > SQL Injection vulnerability in smanga version 3.1.9 and earlier, allows remote attackers to execute arbitrary code and gain sensitive information via mediaId, mangaId, and userId parameters in php/history/add.php.
 - [deIndra/CVE-2023-36076](https://github.com/deIndra/CVE-2023-36076)	<img alt="forks" src="https://img.shields.io/github/forks/deIndra/CVE-2023-36076">	<img alt="stars" src="https://img.shields.io/github/stars/deIndra/CVE-2023-36076">
