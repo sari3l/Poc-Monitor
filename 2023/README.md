@@ -78,6 +78,11 @@
 - [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710)	<img alt="forks" src="https://img.shields.io/github/forks/DedSec-47/Metasploit-Exploits-CVE-2023-6710">	<img alt="stars" src="https://img.shields.io/github/stars/DedSec-47/Metasploit-Exploits-CVE-2023-6710">
 
 ---
+## CVE-2023-6702 (2023-12-14T22:15:00)
+> Type confusion in V8 in Google Chrome prior to 120.0.6099.109 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [kaist-hacking/CVE-2023-6702](https://github.com/kaist-hacking/CVE-2023-6702)	<img alt="forks" src="https://img.shields.io/github/forks/kaist-hacking/CVE-2023-6702">	<img alt="stars" src="https://img.shields.io/github/stars/kaist-hacking/CVE-2023-6702">
+
+---
 ## CVE-2023-6700 (2024-02-05T22:15:00)
 > The Cookie Information | Free GDPR Consent Solution plugin for WordPress is vulnerable to arbitrary option updates due to a missing capability check on its AJAX request handler in versions up to, and including, 2.0.22. This makes it possible for authenticated attackers, with subscriber-level access or higher, to edit arbitrary site options which can be used to create administrator accounts.
 - [RandomRobbieBF/CVE-2023-6700](https://github.com/RandomRobbieBF/CVE-2023-6700)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6700">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6700">
