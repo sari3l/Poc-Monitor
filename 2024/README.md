@@ -573,6 +573,10 @@ QuTScloud c5.1.5.2651 and later
 - [TanMolk/CVE-2024-32002](https://github.com/TanMolk/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/TanMolk/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/TanMolk/CVE-2024-32002">
 - [AD-Appledog/CVE-2024-32002](https://github.com/AD-Appledog/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AD-Appledog/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AD-Appledog/CVE-2024-32002">
 - [Zhang-Yiiliin/test_cve_2024_32002](https://github.com/Zhang-Yiiliin/test_cve_2024_32002)	<img alt="forks" src="https://img.shields.io/github/forks/Zhang-Yiiliin/test_cve_2024_32002">	<img alt="stars" src="https://img.shields.io/github/stars/Zhang-Yiiliin/test_cve_2024_32002">
+- [Basyaact/CVE-2024-32002](https://github.com/Basyaact/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Basyaact/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Basyaact/CVE-2024-32002">
+- [coffeescholar/ReplaceAllGit](https://github.com/coffeescholar/ReplaceAllGit)	<img alt="forks" src="https://img.shields.io/github/forks/coffeescholar/ReplaceAllGit">	<img alt="stars" src="https://img.shields.io/github/stars/coffeescholar/ReplaceAllGit">
+- [tobelight/cve_2024_32002](https://github.com/tobelight/cve_2024_32002)	<img alt="forks" src="https://img.shields.io/github/forks/tobelight/cve_2024_32002">	<img alt="stars" src="https://img.shields.io/github/stars/tobelight/cve_2024_32002">
+- [tobelight/cve_2024_32002_hook](https://github.com/tobelight/cve_2024_32002_hook)	<img alt="forks" src="https://img.shields.io/github/forks/tobelight/cve_2024_32002_hook">	<img alt="stars" src="https://img.shields.io/github/stars/tobelight/cve_2024_32002_hook">
 
 ---
 ## CVE-2024-31848 ()
