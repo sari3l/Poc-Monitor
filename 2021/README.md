@@ -2113,7 +2113,7 @@
 - [CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit](https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit">
 - [hackingyseguridad/nmap](https://github.com/hackingyseguridad/nmap)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/nmap">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/nmap">
 - [vuongnv3389-sec/cve-2021-41773](https://github.com/vuongnv3389-sec/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/vuongnv3389-sec/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/vuongnv3389-sec/cve-2021-41773">
-- [azazelm3dj3d/apache-traversal](https://github.com/azazelm3dj3d/apache-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/azazelm3dj3d/apache-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/azazelm3dj3d/apache-traversal">
+- [battleoverflow/apache-traversal](https://github.com/battleoverflow/apache-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/battleoverflow/apache-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/battleoverflow/apache-traversal">
 - [DoTuan1/Reserch-CVE-2021-41773](https://github.com/DoTuan1/Reserch-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/DoTuan1/Reserch-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/DoTuan1/Reserch-CVE-2021-41773">
 - [puckiestyle/CVE-2021-41773](https://github.com/puckiestyle/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2021-41773">
 - [N3w-elf/CVE-2021-41773-](https://github.com/N3w-elf/CVE-2021-41773-)	<img alt="forks" src="https://img.shields.io/github/forks/N3w-elf/CVE-2021-41773-">	<img alt="stars" src="https://img.shields.io/github/stars/N3w-elf/CVE-2021-41773-">
@@ -2168,6 +2168,7 @@
 - [OpenCVEs/CVE-2021-41773](https://github.com/OpenCVEs/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/OpenCVEs/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/OpenCVEs/CVE-2021-41773">
 - [justakazh/mass_cve-2021-41773](https://github.com/justakazh/mass_cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/justakazh/mass_cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/justakazh/mass_cve-2021-41773">
 - [sanskaros/CVE-2021-41773-Exploit-Environment](https://github.com/sanskaros/CVE-2021-41773-Exploit-Environment)	<img alt="forks" src="https://img.shields.io/github/forks/sanskaros/CVE-2021-41773-Exploit-Environment">	<img alt="stars" src="https://img.shields.io/github/stars/sanskaros/CVE-2021-41773-Exploit-Environment">
+- [Maybe4a6f7365/CVE-2021-41773](https://github.com/Maybe4a6f7365/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Maybe4a6f7365/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Maybe4a6f7365/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
