@@ -1756,6 +1756,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [B1naryo/CVE-2024-24919-POC](https://github.com/B1naryo/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/B1naryo/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/B1naryo/CVE-2024-24919-POC">
 - [Expl0itD0g/CVE-2024-24919---Poc](https://github.com/Expl0itD0g/CVE-2024-24919---Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0itD0g/CVE-2024-24919---Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0itD0g/CVE-2024-24919---Poc">
 - [bigb0x/CVE-2024-24919-Sniper](https://github.com/bigb0x/CVE-2024-24919-Sniper)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-24919-Sniper">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-24919-Sniper">
+- [SpeedyQweku/CVE-2024-24919](https://github.com/SpeedyQweku/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/SpeedyQweku/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/SpeedyQweku/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
