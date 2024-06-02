@@ -1747,6 +1747,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN](https://github.com/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">
 - [r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check](https://github.com/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">
 - [J4F9S5D2Q7/CVE-2024-24919](https://github.com/J4F9S5D2Q7/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/J4F9S5D2Q7/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/J4F9S5D2Q7/CVE-2024-24919">
+- [mr-kasim-mehar/CVE-2024-24919](https://github.com/mr-kasim-mehar/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/mr-kasim-mehar/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/mr-kasim-mehar/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
