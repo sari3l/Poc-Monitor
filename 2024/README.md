@@ -99,6 +99,11 @@
 - [clarkio/pdfjs-vuln-demo](https://github.com/clarkio/pdfjs-vuln-demo)	<img alt="forks" src="https://img.shields.io/github/forks/clarkio/pdfjs-vuln-demo">	<img alt="stars" src="https://img.shields.io/github/stars/clarkio/pdfjs-vuln-demo">
 
 ---
+## CVE-2024-4358 (2024-05-29T15:16:00)
+> In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or earlier, on IIS, an unauthenticated attacker can gain access to Telerik Report Server restricted functionality via an authentication bypass vulnerability.
+- [sinsinology/CVE-2024-4358](https://github.com/sinsinology/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-4358">
+
+---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
 > The Tutor LMS Pro plugin for WordPress is vulnerable to unauthorized access of data, modification of data, loss of data due to a missing capability check on the 'get_calendar_materials' function. The plugin is also vulnerable to SQL Injection via the ‘year’ parameter of that function due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with subscriber-level permissions and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4352-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4352-Poc">
