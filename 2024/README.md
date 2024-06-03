@@ -1786,6 +1786,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [birdlex/cve-2024-24919-checker](https://github.com/birdlex/cve-2024-24919-checker)	<img alt="forks" src="https://img.shields.io/github/forks/birdlex/cve-2024-24919-checker">	<img alt="stars" src="https://img.shields.io/github/stars/birdlex/cve-2024-24919-checker">
 - [Rug4lo/CVE-2024-24919-Exploit](https://github.com/Rug4lo/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Rug4lo/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Rug4lo/CVE-2024-24919-Exploit">
 - [0nin0hanz0/CVE-2024-24919-PoC](https://github.com/0nin0hanz0/CVE-2024-24919-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0nin0hanz0/CVE-2024-24919-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0nin0hanz0/CVE-2024-24919-PoC">
+- [GuayoyoCyber/CVE-2024-24919](https://github.com/GuayoyoCyber/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/GuayoyoCyber/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/GuayoyoCyber/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
