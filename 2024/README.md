@@ -197,6 +197,11 @@
 - [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zomasec/CVE-2024-3495-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zomasec/CVE-2024-3495-POC">
 
 ---
+## CVE-2024-34832 ()
+> 
+- [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-34832">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-34832">
+
+---
 ## CVE-2024-34716 (2024-05-14T16:17:00)
 > PrestaShop is an open source e-commerce web application. A cross-site scripting (XSS) vulnerability that only affects PrestaShops with customer-thread feature flag enabled is present starting from PrestaShop 8.1.0 and prior to PrestaShop 8.1.6. When the customer thread feature flag is enabled through the front-office contact form, a hacker can upload a malicious file containing an XSS that will be executed when an admin opens the attached file in back office. The script injected can access the session and the security token, which allows it to perform any authenticated action in the scope of the administrator's right. This vulnerability is patched in 8.1.6. A workaround is to disable the customer-thread feature-flag.
 - [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aelmokhtar/CVE-2024-34716_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aelmokhtar/CVE-2024-34716_PoC">
