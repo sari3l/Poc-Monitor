@@ -55,6 +55,7 @@
 - [GoatSecurity/CVE-2024-4956](https://github.com/GoatSecurity/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/GoatSecurity/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/GoatSecurity/CVE-2024-4956">
 - [TypicalModMaker/CVE-2024-4956](https://github.com/TypicalModMaker/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/TypicalModMaker/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/TypicalModMaker/CVE-2024-4956">
 - [Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager](https://github.com/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager">
+- [Cappricio-Securities/CVE-2024-4956](https://github.com/Cappricio-Securities/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-4956">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
