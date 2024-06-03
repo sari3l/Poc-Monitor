@@ -3004,6 +3004,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [forsaken0128/CVE-2024-0252-RCE](https://github.com/forsaken0128/CVE-2024-0252-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0128/CVE-2024-0252-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0128/CVE-2024-0252-RCE">
 
 ---
+## CVE-2024-0235 (2024-01-16T16:15:00)
+> The EventON WordPress plugin before 4.5.5, EventON WordPress plugin before 2.2.7 do not have authorisation in an AJAX action, allowing unauthenticated users to retrieve email addresses of any users on the blog
+- [Cappricio-Securities/CVE-2024-0235](https://github.com/Cappricio-Securities/CVE-2024-0235)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0235">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0235">
+
+---
 ## CVE-2024-0230 (2024-01-12T23:15:00)
 > A session management issue was addressed with improved checks. This issue is fixed in Magic Keyboard Firmware Update 2.0.6. An attacker with physical access to the accessory may be able to extract its Bluetooth pairing key and monitor Bluetooth traffic.
 - [keldnorman/cve-2024-0230-blue](https://github.com/keldnorman/cve-2024-0230-blue)	<img alt="forks" src="https://img.shields.io/github/forks/keldnorman/cve-2024-0230-blue">	<img alt="stars" src="https://img.shields.io/github/stars/keldnorman/cve-2024-0230-blue">
