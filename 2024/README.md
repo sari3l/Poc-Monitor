@@ -1458,6 +1458,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 
 
 - [Zeyad-Azima/CVE-2024-27348](https://github.com/Zeyad-Azima/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2024-27348">
+- [kljunowsky/CVE-2024-27348](https://github.com/kljunowsky/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2024-27348">
 
 ---
 ## CVE-2024-27316 (2024-04-04T20:15:00)
