@@ -185,6 +185,11 @@
 - [momo1239/CVE-2024-35333](https://github.com/momo1239/CVE-2024-35333)	<img alt="forks" src="https://img.shields.io/github/forks/momo1239/CVE-2024-35333">	<img alt="stars" src="https://img.shields.io/github/stars/momo1239/CVE-2024-35333">
 
 ---
+## CVE-2024-35315 ()
+> 
+- [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-35315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-35315-POC">
+
+---
 ## CVE-2024-34958 (2024-05-16T15:15:00)
 > idccms v1.35 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component admin/banner_deal.php?mudi=add
 - [Gr-1m/CVE-2024-34958](https://github.com/Gr-1m/CVE-2024-34958)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/CVE-2024-34958">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/CVE-2024-34958">
