@@ -578,6 +578,7 @@ QuTScloud c5.1.5.2651 and later
 - [coffeescholar/ReplaceAllGit](https://github.com/coffeescholar/ReplaceAllGit)	<img alt="forks" src="https://img.shields.io/github/forks/coffeescholar/ReplaceAllGit">	<img alt="stars" src="https://img.shields.io/github/stars/coffeescholar/ReplaceAllGit">
 - [tobelight/cve_2024_32002](https://github.com/tobelight/cve_2024_32002)	<img alt="forks" src="https://img.shields.io/github/forks/tobelight/cve_2024_32002">	<img alt="stars" src="https://img.shields.io/github/stars/tobelight/cve_2024_32002">
 - [tobelight/cve_2024_32002_hook](https://github.com/tobelight/cve_2024_32002_hook)	<img alt="forks" src="https://img.shields.io/github/forks/tobelight/cve_2024_32002_hook">	<img alt="stars" src="https://img.shields.io/github/stars/tobelight/cve_2024_32002_hook">
+- [431m/rcetest](https://github.com/431m/rcetest)	<img alt="forks" src="https://img.shields.io/github/forks/431m/rcetest">	<img alt="stars" src="https://img.shields.io/github/stars/431m/rcetest">
 
 ---
 ## CVE-2024-31848 ()
