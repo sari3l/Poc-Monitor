@@ -381,6 +381,21 @@ SCM accounting on the io_uring side unnecessary.
 - [Double-q1015/CVE-2023-51764](https://github.com/Double-q1015/CVE-2023-51764)	<img alt="forks" src="https://img.shields.io/github/forks/Double-q1015/CVE-2023-51764">	<img alt="stars" src="https://img.shields.io/github/stars/Double-q1015/CVE-2023-51764">
 
 ---
+## CVE-2023-51518 (2024-02-27T09:15:00)
+> Apache James prior to version 3.7.5 and 3.8.0 exposes a JMX endpoint on localhost subject to pre-authentication deserialisation of untrusted data.
+Given a deserialisation gadjet, this could be leveraged as part of an exploit chain that could result in privilege escalation.
+Note that by default JMX endpoint is only bound locally.
+
+We recommend users to:
+ - Upgrade to a non-vulnerable Apache James version
+
+ - Run Apache James isolated from other processes (docker - dedicated virtual machine)
+ - If possible turn off JMX
+
+
+- [mbadanoiu/CVE-2023-51518](https://github.com/mbadanoiu/CVE-2023-51518)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-51518">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-51518">
+
+---
 ## CVE-2023-51504 (2024-02-05T06:15:00)
 > Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Dan Dulaney Dan's Embedder for Google Calendar allows Stored XSS.This issue affects Dan's Embedder for Google Calendar: from n/a through 1.2.
 
