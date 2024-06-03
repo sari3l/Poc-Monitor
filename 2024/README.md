@@ -503,6 +503,15 @@ QuTScloud c5.1.5.2651 and later
 - [xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-32136">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-32136">
 
 ---
+## CVE-2024-32113 (2024-05-08T15:15:00)
+> Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Apache OFBiz.This issue affects Apache OFBiz: before 18.12.13.
+
+Users are recommended to upgrade to version 18.12.13, which fixes the issue.
+
+
+- [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-32113">
+
+---
 ## CVE-2024-32004 (2024-05-14T19:15:00)
 > Git is a revision control system. Prior to versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4, an attacker can prepare a local repository in such a way that, when cloned, will execute arbitrary code during the operation. The problem has been patched in versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4. As a workaround, avoid cloning repositories from untrusted sources.
 - [Wadewfsssss/CVE-2024-32004](https://github.com/Wadewfsssss/CVE-2024-32004)	<img alt="forks" src="https://img.shields.io/github/forks/Wadewfsssss/CVE-2024-32004">	<img alt="stars" src="https://img.shields.io/github/stars/Wadewfsssss/CVE-2024-32004">
