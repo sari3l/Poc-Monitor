@@ -1135,6 +1135,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [exfil0/test_iconv](https://github.com/exfil0/test_iconv)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/test_iconv">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/test_iconv">
 - [absolutedesignltd/iconvfix](https://github.com/absolutedesignltd/iconvfix)	<img alt="forks" src="https://img.shields.io/github/forks/absolutedesignltd/iconvfix">	<img alt="stars" src="https://img.shields.io/github/stars/absolutedesignltd/iconvfix">
 - [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/ambionics/cnext-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/ambionics/cnext-exploits">
+- [kjdfklha/CVE-2024-2961_poc](https://github.com/kjdfklha/CVE-2024-2961_poc)	<img alt="forks" src="https://img.shields.io/github/forks/kjdfklha/CVE-2024-2961_poc">	<img alt="stars" src="https://img.shields.io/github/stars/kjdfklha/CVE-2024-2961_poc">
 
 ---
 ## CVE-2024-29455 (2024-04-11T05:15:00)

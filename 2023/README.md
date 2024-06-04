@@ -4622,6 +4622,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [rvizx/CVE-2023-30547](https://github.com/rvizx/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-30547">
 - [user0x1337/CVE-2023-30547](https://github.com/user0x1337/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/user0x1337/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/user0x1337/CVE-2023-30547">
 - [Cur1iosity/CVE-2023-30547](https://github.com/Cur1iosity/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/Cur1iosity/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/Cur1iosity/CVE-2023-30547">
+- [junnythemarksman/CVE-2023-30547](https://github.com/junnythemarksman/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2023-30547">
 
 ---
 ## CVE-2023-30533 (2023-04-24T08:15:00)
