@@ -1628,8 +1628,8 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [AlexDoe11/CVE-2024-25693-exploit](https://github.com/AlexDoe11/CVE-2024-25693-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-25693-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-25693-exploit">
 
 ---
-## CVE-2024-25600 ()
-> 
+## CVE-2024-25600 (2024-06-04T13:15:00)
+> Improper Control of Generation of Code ('Code Injection') vulnerability in Codeer Limited Bricks Builder allows Code Injection.This issue affects Bricks Builder: from n/a through 1.9.6.
 - [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-25600">
 - [Christbowel/CVE-2024-25600_Nuclei-Template](https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2024-25600_Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2024-25600_Nuclei-Template">
 - [h0tak88r/CVE-2024-25600checker](https://github.com/h0tak88r/CVE-2024-25600checker)	<img alt="forks" src="https://img.shields.io/github/forks/h0tak88r/CVE-2024-25600checker">	<img alt="stars" src="https://img.shields.io/github/stars/h0tak88r/CVE-2024-25600checker">
