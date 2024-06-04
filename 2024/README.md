@@ -1131,6 +1131,10 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/mattaperkins/FIX-CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/mattaperkins/FIX-CVE-2024-2961">
 - [rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-2961">
+- [tnishiox/cve-2024-2961](https://github.com/tnishiox/cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/tnishiox/cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/tnishiox/cve-2024-2961">
+- [exfil0/test_iconv](https://github.com/exfil0/test_iconv)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/test_iconv">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/test_iconv">
+- [absolutedesignltd/iconvfix](https://github.com/absolutedesignltd/iconvfix)	<img alt="forks" src="https://img.shields.io/github/forks/absolutedesignltd/iconvfix">	<img alt="stars" src="https://img.shields.io/github/stars/absolutedesignltd/iconvfix">
+- [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/ambionics/cnext-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/ambionics/cnext-exploits">
 
 ---
 ## CVE-2024-29455 (2024-04-11T05:15:00)
