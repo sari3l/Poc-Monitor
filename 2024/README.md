@@ -104,6 +104,7 @@
 - [sinsinology/CVE-2024-4358](https://github.com/sinsinology/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-4358">
 - [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-4358">
 - [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/Harydhk7/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/Harydhk7/CVE-2024-4358">
+- [Sk1dr0wz/CVE-2024-4358_Mass_Exploit](https://github.com/Sk1dr0wz/CVE-2024-4358_Mass_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">
 
 ---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
