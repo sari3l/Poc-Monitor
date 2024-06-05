@@ -6257,6 +6257,7 @@ For more details, please review the linked advisory on this CVE.
 - [CalegariMindSec/Exploit-CVE-2023-22515](https://github.com/CalegariMindSec/Exploit-CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/CalegariMindSec/Exploit-CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/CalegariMindSec/Exploit-CVE-2023-22515">
 - [rxerium/CVE-2023-22515](https://github.com/rxerium/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2023-22515">
 - [fyx1t/NSE--CVE-2023-22515](https://github.com/fyx1t/NSE--CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/fyx1t/NSE--CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/fyx1t/NSE--CVE-2023-22515">
+- [s1d6point7bugcrowd/CVE-2023-22515-check](https://github.com/s1d6point7bugcrowd/CVE-2023-22515-check)	<img alt="forks" src="https://img.shields.io/github/forks/s1d6point7bugcrowd/CVE-2023-22515-check">	<img alt="stars" src="https://img.shields.io/github/stars/s1d6point7bugcrowd/CVE-2023-22515-check">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
