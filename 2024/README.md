@@ -1116,8 +1116,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-30491-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-30491-Poc">
 
 ---
-## CVE-2024-30043 ()
-> 
+## CVE-2024-30043 (2024-05-14T17:17:00)
+> Microsoft SharePoint Server Information Disclosure Vulnerability
 - [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-30043-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-30043-XXE">
 
 ---
