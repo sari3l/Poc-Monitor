@@ -213,8 +213,8 @@
 - [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zomasec/CVE-2024-3495-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zomasec/CVE-2024-3495-POC">
 
 ---
-## CVE-2024-34832 ()
-> 
+## CVE-2024-34832 (2024-06-06T15:15:00)
+> Directory Traversal vulnerability in CubeCart v.6.5.5 and before allows an attacker to execute arbitrary code via a crafted file uploaded to the _g and node parameters.
 - [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-34832">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-34832">
 
 ---
@@ -1114,6 +1114,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 
 - [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-30491-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-30491-Poc">
+
+---
+## CVE-2024-30043 ()
+> 
+- [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-30043-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-30043-XXE">
 
 ---
 ## CVE-2024-3000 (2024-03-27T22:15:00)

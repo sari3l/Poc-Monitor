@@ -2249,6 +2249,11 @@
 - [0x4r2/Webmin-CVE-2019-15107](https://github.com/0x4r2/Webmin-CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/0x4r2/Webmin-CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/0x4r2/Webmin-CVE-2019-15107">
 
 ---
+## CVE-2019-14974 (2019-08-14T16:15:00)
+> SugarCRM Enterprise 9.0.0 allows mobile/error-not-supported-platform.html?desktop_url= XSS.
+- [conan-sudo/CVE-2019-14974-bypass](https://github.com/conan-sudo/CVE-2019-14974-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/conan-sudo/CVE-2019-14974-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/conan-sudo/CVE-2019-14974-bypass">
+
+---
 ## CVE-2019-14907 (2020-01-21T18:15:00)
 > All samba versions 4.9.x before 4.9.18, 4.10.x before 4.10.12 and 4.11.x before 4.11.5 have an issue where if it is set with "log level = 3" (or above) then the string obtained from the client, after a failed character conversion, is printed. Such strings can be provided during the NTLMSSP authentication exchange. In the Samba AD DC in particular, this may cause a long-lived process(such as the RPC server) to terminate. (In the file server case, the most likely target, smbd, operates as process-per-client and so a crash there is harmless).
 - [Live-Hack-CVE/CVE-2019-14907](https://github.com/Live-Hack-CVE/CVE-2019-14907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14907">
