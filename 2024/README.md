@@ -76,6 +76,11 @@
 - [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JoeBeeton/CVE-2024-4701-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JoeBeeton/CVE-2024-4701-POC">
 
 ---
+## CVE-2024-4577 ()
+> 
+- [ATDanny/CVE-2024-4577](https://github.com/ATDanny/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ATDanny/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ATDanny/CVE-2024-4577">
+
+---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
 > The LearnPress – WordPress LMS Plugin plugin for WordPress is vulnerable to bypass to user registration in versions up to, and including, 4.2.6.5. This is due to missing checks in the 'create_account' function in the checkout. This makes it possible for unauthenticated attackers to register as the default role on the site, even if registration is disabled.
 - [JohnnyBradvo/CVE-2024-4444](https://github.com/JohnnyBradvo/CVE-2024-4444)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-4444">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-4444">
