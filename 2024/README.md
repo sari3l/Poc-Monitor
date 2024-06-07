@@ -80,6 +80,12 @@
 > 
 - [TAM-K592/CVE-2024-4577](https://github.com/TAM-K592/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-4577">
 - [taida957789/CVE-2024-4577](https://github.com/taida957789/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/taida957789/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/taida957789/CVE-2024-4577">
+- [ohhhh693/CVE-2024-4577](https://github.com/ohhhh693/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ohhhh693/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ohhhh693/CVE-2024-4577">
+- [11whoami99/CVE-2024-4577](https://github.com/11whoami99/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/11whoami99/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/11whoami99/CVE-2024-4577">
+- [zjhzjhhh/CVE-2024-4577](https://github.com/zjhzjhhh/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/zjhzjhhh/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/zjhzjhhh/CVE-2024-4577">
+- [watchtowrlabs/CVE-2024-4577](https://github.com/watchtowrlabs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-4577">
+- [princew88/CVE-2024-4577](https://github.com/princew88/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/princew88/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/princew88/CVE-2024-4577">
+- [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Junp0/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Junp0/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
