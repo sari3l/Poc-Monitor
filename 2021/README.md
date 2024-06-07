@@ -7861,6 +7861,8 @@
 - [convisolabs/CVE-2021-22204-exiftool](https://github.com/convisolabs/CVE-2021-22204-exiftool)	<img alt="forks" src="https://img.shields.io/github/forks/convisolabs/CVE-2021-22204-exiftool">	<img alt="stars" src="https://img.shields.io/github/stars/convisolabs/CVE-2021-22204-exiftool">
 - [se162xg/CVE-2021-22204](https://github.com/se162xg/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/se162xg/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/se162xg/CVE-2021-22204">
 - [Akash7350/CVE-2021-22204](https://github.com/Akash7350/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/Akash7350/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/Akash7350/CVE-2021-22204">
+- [cc3305/CVE-2021-22204](https://github.com/cc3305/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2021-22204">
+- [battleofthebots/dejavu](https://github.com/battleofthebots/dejavu)	<img alt="forks" src="https://img.shields.io/github/forks/battleofthebots/dejavu">	<img alt="stars" src="https://img.shields.io/github/stars/battleofthebots/dejavu">
 
 ---
 ## CVE-2021-22192 (2021-03-24T17:15:00)
