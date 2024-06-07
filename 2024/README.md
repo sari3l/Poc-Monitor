@@ -79,6 +79,7 @@
 ## CVE-2024-4577 ()
 > 
 - [ATDanny/CVE-2024-4577](https://github.com/ATDanny/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ATDanny/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ATDanny/CVE-2024-4577">
+- [taida957789/CVE-2024-4577](https://github.com/taida957789/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/taida957789/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/taida957789/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
