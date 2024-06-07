@@ -86,6 +86,9 @@
 - [watchtowrlabs/CVE-2024-4577](https://github.com/watchtowrlabs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-4577">
 - [princew88/CVE-2024-4577](https://github.com/princew88/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/princew88/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/princew88/CVE-2024-4577">
 - [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Junp0/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Junp0/CVE-2024-4577">
+- [huseyinstif/CVE-2024-4577-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-4577-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-4577-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-4577-Nuclei-Template">
+- [taida957789/CVE-2024-4577](https://github.com/taida957789/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/taida957789/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/taida957789/CVE-2024-4577">
+- [Wh02m1/CVE-2024-4577](https://github.com/Wh02m1/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Wh02m1/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Wh02m1/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
@@ -1829,6 +1832,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [0xans/CVE-2024-24919](https://github.com/0xans/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/0xans/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/0xans/CVE-2024-24919">
 - [Tim-Hoekstra/CVE-2024-24919](https://github.com/Tim-Hoekstra/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Tim-Hoekstra/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Tim-Hoekstra/CVE-2024-24919">
 - [starlox0/CVE-2024-24919-POC](https://github.com/starlox0/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/starlox0/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/starlox0/CVE-2024-24919-POC">
+- [nullcult/CVE-2024-24919-Exploit](https://github.com/nullcult/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nullcult/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nullcult/CVE-2024-24919-Exploit">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
