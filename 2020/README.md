@@ -3734,8 +3734,8 @@
 - [Aterror2be/CVE-2020-14974](https://github.com/Aterror2be/CVE-2020-14974)	<img alt="forks" src="https://img.shields.io/github/forks/Aterror2be/CVE-2020-14974">	<img alt="stars" src="https://img.shields.io/github/stars/Aterror2be/CVE-2020-14974">
 
 ---
-## CVE-2020-14883 ()
-> 
+## CVE-2020-14883 (2020-10-21T15:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
 - [amacloudobia/CVE-2020-14883](https://github.com/amacloudobia/CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/amacloudobia/CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/amacloudobia/CVE-2020-14883">
 - [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
 - [1n7erface/PocList](https://github.com/1n7erface/PocList)	<img alt="forks" src="https://img.shields.io/github/forks/1n7erface/PocList">	<img alt="stars" src="https://img.shields.io/github/stars/1n7erface/PocList">
