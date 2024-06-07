@@ -89,6 +89,8 @@
 - [huseyinstif/CVE-2024-4577-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-4577-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-4577-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-4577-Nuclei-Template">
 - [taida957789/CVE-2024-4577](https://github.com/taida957789/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/taida957789/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/taida957789/CVE-2024-4577">
 - [Wh02m1/CVE-2024-4577](https://github.com/Wh02m1/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Wh02m1/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Wh02m1/CVE-2024-4577">
+- [WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP](https://github.com/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP">
+- [Sysc4ll3r/CVE-2024-4577](https://github.com/Sysc4ll3r/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Sysc4ll3r/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Sysc4ll3r/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
