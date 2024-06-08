@@ -1840,6 +1840,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [Tim-Hoekstra/CVE-2024-24919](https://github.com/Tim-Hoekstra/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Tim-Hoekstra/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Tim-Hoekstra/CVE-2024-24919">
 - [starlox0/CVE-2024-24919-POC](https://github.com/starlox0/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/starlox0/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/starlox0/CVE-2024-24919-POC">
 - [nullcult/CVE-2024-24919-Exploit](https://github.com/nullcult/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nullcult/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nullcult/CVE-2024-24919-Exploit">
+- [satchhacker/cve-2024-24919](https://github.com/satchhacker/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/satchhacker/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/satchhacker/cve-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
