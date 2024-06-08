@@ -96,6 +96,7 @@
 - [0x20c/CVE-2024-4577-nuclei](https://github.com/0x20c/CVE-2024-4577-nuclei)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-4577-nuclei">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-4577-nuclei">
 - [manuelinfosec/CVE-2024-4577](https://github.com/manuelinfosec/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/manuelinfosec/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/manuelinfosec/CVE-2024-4577">
 - [zomasec/CVE-2024-4577](https://github.com/zomasec/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/zomasec/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/zomasec/CVE-2024-4577">
+- [ZephrFish/CVE-2024-4577-PoC](https://github.com/ZephrFish/CVE-2024-4577-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2024-4577-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2024-4577-PoC">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
