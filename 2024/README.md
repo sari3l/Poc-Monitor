@@ -1283,6 +1283,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/wutalent/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/wutalent/CVE-2024-29269">
 - [YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-29269">
 - [Chocapikk/CVE-2024-29269](https://github.com/Chocapikk/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-29269">
+- [Jhonsonwannaa/CVE-2024-29269](https://github.com/Jhonsonwannaa/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-29269">
 
 ---
 ## CVE-2024-29201 (2024-03-29T15:15:00)
