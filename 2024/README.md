@@ -1442,6 +1442,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [W3BW/CVE-2024-27956-RCE-File-Package](https://github.com/W3BW/CVE-2024-27956-RCE-File-Package)	<img alt="forks" src="https://img.shields.io/github/forks/W3BW/CVE-2024-27956-RCE-File-Package">	<img alt="stars" src="https://img.shields.io/github/stars/W3BW/CVE-2024-27956-RCE-File-Package">
 - [nancyariah4/CVE-2024-27956](https://github.com/nancyariah4/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-27956">
 - [Cappricio-Securities/CVE-2024-27956](https://github.com/Cappricio-Securities/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-27956">
+- [itzheartzz/MASS-CVE-2024-27956](https://github.com/itzheartzz/MASS-CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/itzheartzz/MASS-CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/itzheartzz/MASS-CVE-2024-27956">
 
 ---
 ## CVE-2024-27804 (2024-05-14T15:13:00)
@@ -1845,6 +1846,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [starlox0/CVE-2024-24919-POC](https://github.com/starlox0/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/starlox0/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/starlox0/CVE-2024-24919-POC">
 - [nullcult/CVE-2024-24919-Exploit](https://github.com/nullcult/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nullcult/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nullcult/CVE-2024-24919-Exploit">
 - [satchhacker/cve-2024-24919](https://github.com/satchhacker/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/satchhacker/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/satchhacker/cve-2024-24919">
+- [verylazytech/CVE-2024-24919](https://github.com/verylazytech/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
