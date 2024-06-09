@@ -651,6 +651,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-31819 (2024-04-10T20:15:00)
 > An issue in WWBN AVideo v.12.4 through v.14.2 allows a remote attacker to execute arbitrary code via the systemRootPath parameter of the submitIndex.php component.
 - [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-31819">
+- [Jhonsonwannaa/CVE-2024-31819](https://github.com/Jhonsonwannaa/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-31819">
 
 ---
 ## CVE-2024-31777 ()
