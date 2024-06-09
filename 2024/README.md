@@ -99,6 +99,7 @@
 - [zomasec/CVE-2024-4577](https://github.com/zomasec/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/zomasec/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/zomasec/CVE-2024-4577">
 - [ZephrFish/CVE-2024-4577-PHP-RCE](https://github.com/ZephrFish/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2024-4577-PHP-RCE">
 - [xcanwin/CVE-2024-4577-PHP-RCE](https://github.com/xcanwin/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/xcanwin/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/xcanwin/CVE-2024-4577-PHP-RCE">
+- [cwq021223/CVE-2024-4577](https://github.com/cwq021223/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/cwq021223/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/cwq021223/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
