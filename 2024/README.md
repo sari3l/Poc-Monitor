@@ -59,6 +59,7 @@
 - [Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager](https://github.com/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager">
 - [Cappricio-Securities/CVE-2024-4956](https://github.com/Cappricio-Securities/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-4956">
 - [fin3ss3g0d/CVE-2024-4956](https://github.com/fin3ss3g0d/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/fin3ss3g0d/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/fin3ss3g0d/CVE-2024-4956">
+- [verylazytech/CVE-2024-4956](https://github.com/verylazytech/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-4956">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
