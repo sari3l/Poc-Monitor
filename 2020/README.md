@@ -4020,6 +4020,11 @@
 - [Live-Hack-CVE/CVE-2020-13963](https://github.com/Live-Hack-CVE/CVE-2020-13963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13963">
 
 ---
+## CVE-2020-13958 (2020-11-17T16:15:00)
+> A vulnerability in Apache OpenOffice scripting events allows an attacker to construct documents containing hyperlinks pointing to an executable on the target users file system. These hyperlinks can be triggered unconditionally. In fixed versions no internal protocol may be called from the document event handler and other hyperlinks require a control-click.
+- [Grey-Junior/CVE-2020-13958](https://github.com/Grey-Junior/CVE-2020-13958)	<img alt="forks" src="https://img.shields.io/github/forks/Grey-Junior/CVE-2020-13958">	<img alt="stars" src="https://img.shields.io/github/stars/Grey-Junior/CVE-2020-13958">
+
+---
 ## CVE-2020-13948 (2020-09-17T13:15:00)
 > While investigating a bug report on Apache Superset, it was determined that an authenticated user could craft requests via a number of templated text fields in the product that would allow arbitrary access to Python’s `os` package in the web application process in versions < 0.37.1. It was thus possible for an authenticated user to list and access files, environment variables, and process information. Additionally it was possible to set environment variables for the current process, create and update files in folders writable by the web process, and execute arbitrary programs accessible by the web process. All other operations available to the `os` package in Python were also available, even if not explicitly enumerated in this CVE.
 - [Live-Hack-CVE/CVE-2020-13948](https://github.com/Live-Hack-CVE/CVE-2020-13948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13948">
