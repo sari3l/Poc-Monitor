@@ -1567,6 +1567,16 @@
 - [shiomiyan/CVE-2021-42574](https://github.com/shiomiyan/CVE-2021-42574)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2021-42574">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2021-42574">
 
 ---
+## CVE-2021-42562 ()
+> 
+- [mbadanoiu/CVE-2021-42562](https://github.com/mbadanoiu/CVE-2021-42562)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42562">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42562">
+
+---
+## CVE-2021-42561 ()
+> 
+- [mbadanoiu/CVE-2021-42561](https://github.com/mbadanoiu/CVE-2021-42561)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42561">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42561">
+
+---
 ## CVE-2021-42560 ()
 > 
 - [mbadanoiu/CVE-2021-42560](https://github.com/mbadanoiu/CVE-2021-42560)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42560">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42560">

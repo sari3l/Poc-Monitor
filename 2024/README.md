@@ -102,6 +102,7 @@
 - [cwq021223/CVE-2024-4577](https://github.com/cwq021223/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/cwq021223/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/cwq021223/CVE-2024-4577">
 - [dbyMelina/CVE-2024-4577](https://github.com/dbyMelina/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/dbyMelina/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/dbyMelina/CVE-2024-4577">
 - [Chocapikk/CVE-2024-4577](https://github.com/Chocapikk/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-4577">
+- [K3ysTr0K3R/CVE-2024-4577-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
@@ -1836,7 +1837,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [ifconfig-me/CVE-2024-24919-Bulk-Scanner](https://github.com/ifconfig-me/CVE-2024-24919-Bulk-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2024-24919-Bulk-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2024-24919-Bulk-Scanner">
 - [r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN](https://github.com/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">
 - [r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check](https://github.com/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">
-- [J4F9S5D2Q7/CVE-2024-24919](https://github.com/J4F9S5D2Q7/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/J4F9S5D2Q7/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/J4F9S5D2Q7/CVE-2024-24919">
+- [J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT](https://github.com/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT)	<img alt="forks" src="https://img.shields.io/github/forks/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT">	<img alt="stars" src="https://img.shields.io/github/stars/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT">
 - [mr-kasim-mehar/CVE-2024-24919-Exploit](https://github.com/mr-kasim-mehar/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mr-kasim-mehar/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mr-kasim-mehar/CVE-2024-24919-Exploit">
 - [B1naryo/CVE-2024-24919-POC](https://github.com/B1naryo/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/B1naryo/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/B1naryo/CVE-2024-24919-POC">
 - [Expl0itD0g/CVE-2024-24919---Poc](https://github.com/Expl0itD0g/CVE-2024-24919---Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0itD0g/CVE-2024-24919---Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0itD0g/CVE-2024-24919---Poc">
@@ -1852,6 +1853,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [nullcult/CVE-2024-24919-Exploit](https://github.com/nullcult/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nullcult/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nullcult/CVE-2024-24919-Exploit">
 - [satchhacker/cve-2024-24919](https://github.com/satchhacker/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/satchhacker/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/satchhacker/cve-2024-24919">
 - [verylazytech/CVE-2024-24919](https://github.com/verylazytech/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-24919">
+- [protonnegativo/CVE-2024-24919](https://github.com/protonnegativo/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/protonnegativo/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/protonnegativo/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
