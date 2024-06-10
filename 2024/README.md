@@ -192,6 +192,16 @@
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
 
 ---
+## CVE-2024-37393 ()
+> 
+- [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
+
+---
+## CVE-2024-36821 ()
+> 
+- [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821">
+
+---
 ## CVE-2024-36079 (2024-05-24T22:15:00)
 > An issue was discovered in Vaultize 21.07.27. When uploading files, there is no check that the filename parameter is correct. As a result, a temporary file will be created outside the specified directory when the file is downloaded. To exploit this, an authenticated user would upload a file with an incorrect file name, and then download it.
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
@@ -1629,6 +1639,11 @@ overflow.
 - [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">
 
 ---
+## CVE-2024-26229 ()
+> 
+- [varwara/CVE-2024-26229](https://github.com/varwara/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-26229">
+
+---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/CVE-2024-26218">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/CVE-2024-26218">
@@ -3027,6 +3042,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/CCIEVoice2009/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/CCIEVoice2009/CVE-2024-1086">
 - [rootkalilocalhost/CVE-2024-1086](https://github.com/rootkalilocalhost/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/rootkalilocalhost/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/rootkalilocalhost/CVE-2024-1086">
 - [kevcooper/CVE-2024-1086-checker](https://github.com/kevcooper/CVE-2024-1086-checker)	<img alt="forks" src="https://img.shields.io/github/forks/kevcooper/CVE-2024-1086-checker">	<img alt="stars" src="https://img.shields.io/github/stars/kevcooper/CVE-2024-1086-checker">
+- [feely666/CVE-2024-1086](https://github.com/feely666/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/feely666/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/feely666/CVE-2024-1086">
 
 ---
 ## CVE-2024-1071 (2024-03-13T16:15:00)
