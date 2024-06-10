@@ -2837,6 +2837,22 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)	<img alt="forks" src="https://img.shields.io/github/forks/Madan301/CVE-2024-2054">	<img alt="stars" src="https://img.shields.io/github/stars/Madan301/CVE-2024-2054">
 
 ---
+## CVE-2024-20406 ()
+> 
+- [AbdElRahmanEzzat1995/CVE-2024-20406](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20406)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20406">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20406">
+
+---
+## CVE-2024-20405 ()
+> 
+- [AbdElRahmanEzzat1995/CVE-2024-20405](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20405)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20405">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20405">
+
+---
+## CVE-2024-20404 ()
+> 
+- [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
+- [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
+
+---
 ## CVE-2024-20359 (2024-04-24T19:15:00)
 > A vulnerability in a legacy capability that allowed for the preloading of VPN clients and plug-ins and that has been available in Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an authenticated, local attacker to execute arbitrary code with root-level privileges. Administrator-level privileges are required to exploit this vulnerability.
  This vulnerability is due to improper validation of a file when it is read from system flash memory. An attacker could exploit this vulnerability by copying a crafted file to the disk0: file system of an affected device. A successful exploit could allow the attacker to execute arbitrary code on the affected device after the next reload of the device, which could alter system behavior. Because the injected code could persist across device reboots, Cisco has raised the Security Impact Rating (SIR) of this advisory from Medium to High.

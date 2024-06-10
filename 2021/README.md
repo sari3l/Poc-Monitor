@@ -1567,9 +1567,24 @@
 - [shiomiyan/CVE-2021-42574](https://github.com/shiomiyan/CVE-2021-42574)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2021-42574">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2021-42574">
 
 ---
+## CVE-2021-42560 ()
+> 
+- [mbadanoiu/CVE-2021-42560](https://github.com/mbadanoiu/CVE-2021-42560)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42560">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42560">
+
+---
 ## CVE-2021-4256 (2022-12-18T22:15:00)
 > A vulnerability was found in ctrlo lenio. It has been classified as problematic. This affects an unknown part of the file views/index.tt. The manipulation of the argument task.name/task.site.org.name leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is e1646d5cd0a2fbab9eb505196dd2ca1c9e4cdd97. It is recommended to apply a patch to fix this issue. The identifier VDB-216213 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4256](https://github.com/Live-Hack-CVE/CVE-2021-4256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4256">
+
+---
+## CVE-2021-42559 ()
+> 
+- [mbadanoiu/CVE-2021-42559](https://github.com/mbadanoiu/CVE-2021-42559)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42559">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42559">
+
+---
+## CVE-2021-42558 ()
+> 
+- [mbadanoiu/CVE-2021-42558](https://github.com/mbadanoiu/CVE-2021-42558)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42558">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42558">
 
 ---
 ## CVE-2021-42553 (2022-10-21T10:15:00)
