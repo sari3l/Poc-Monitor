@@ -103,6 +103,7 @@
 - [dbyMelina/CVE-2024-4577](https://github.com/dbyMelina/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/dbyMelina/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/dbyMelina/CVE-2024-4577">
 - [Chocapikk/CVE-2024-4577](https://github.com/Chocapikk/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-4577">
 - [K3ysTr0K3R/CVE-2024-4577-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">
+- [it-t4mpan/check_cve_2024_4577.sh](https://github.com/it-t4mpan/check_cve_2024_4577.sh)	<img alt="forks" src="https://img.shields.io/github/forks/it-t4mpan/check_cve_2024_4577.sh">	<img alt="stars" src="https://img.shields.io/github/stars/it-t4mpan/check_cve_2024_4577.sh">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)

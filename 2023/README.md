@@ -1139,6 +1139,11 @@ Users are recommended to upgrade to version 18.12.10
 - [RandomRobbieBF/CVE-2023-47840](https://github.com/RandomRobbieBF/CVE-2023-47840)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47840">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47840">
 
 ---
+## CVE-2023-4771 ()
+> 
+- [sahar042/CVE-2023-4771](https://github.com/sahar042/CVE-2023-4771)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2023-4771">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2023-4771">
+
+---
 ## CVE-2023-47668 ()
 > 
 - [RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47668">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47668">
