@@ -1175,6 +1175,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [nancyariah4/CVE-2024-29895-CactiRCE-PoC](https://github.com/nancyariah4/CVE-2024-29895-CactiRCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-29895-CactiRCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-29895-CactiRCE-PoC">
 
 ---
+## CVE-2024-29849 ()
+> 
+- [sinsinology/CVE-2024-29849](https://github.com/sinsinology/CVE-2024-29849)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-29849">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-29849">
+
+---
 ## CVE-2024-2961 (2024-04-17T18:15:00)
 > The iconv() function in the GNU C Library versions 2.39 and older may overflow the output buffer passed to it by up to 4 bytes when converting strings to the ISO-2022-CN-EXT character set, which may be used to crash an application or overwrite a neighbouring variable.
 
