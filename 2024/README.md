@@ -104,6 +104,7 @@
 - [Chocapikk/CVE-2024-4577](https://github.com/Chocapikk/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-4577">
 - [K3ysTr0K3R/CVE-2024-4577-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">
 - [it-t4mpan/check_cve_2024_4577.sh](https://github.com/it-t4mpan/check_cve_2024_4577.sh)	<img alt="forks" src="https://img.shields.io/github/forks/it-t4mpan/check_cve_2024_4577.sh">	<img alt="stars" src="https://img.shields.io/github/stars/it-t4mpan/check_cve_2024_4577.sh">
+- [bl4cksku11/CVE-2024-4577](https://github.com/bl4cksku11/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bl4cksku11/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bl4cksku11/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
@@ -195,6 +196,11 @@
 ## CVE-2024-37393 ()
 > 
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
+
+---
+## CVE-2024-37051 ()
+> 
+- [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/LeadroyaL/CVE-2024-37051-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/LeadroyaL/CVE-2024-37051-EXP">
 
 ---
 ## CVE-2024-36821 ()
@@ -830,6 +836,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [AlexDoe11/CVE-2024-3094-EXPLOIT](https://github.com/AlexDoe11/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-3094-EXPLOIT">
 - [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094)	<img alt="forks" src="https://img.shields.io/github/forks/buluma/ansible-role-cve_2024_3094">	<img alt="stars" src="https://img.shields.io/github/stars/buluma/ansible-role-cve_2024_3094">
 - [neuralinhibitor/xzwhy](https://github.com/neuralinhibitor/xzwhy)	<img alt="forks" src="https://img.shields.io/github/forks/neuralinhibitor/xzwhy">	<img alt="stars" src="https://img.shields.io/github/stars/neuralinhibitor/xzwhy">
+- [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 
 ---
@@ -1644,6 +1651,7 @@ overflow.
 > 
 - [varwara/CVE-2024-26229](https://github.com/varwara/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-26229">
 - [RalfHacker/CVE-2024-26229-exploit](https://github.com/RalfHacker/CVE-2024-26229-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RalfHacker/CVE-2024-26229-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RalfHacker/CVE-2024-26229-exploit">
+- [otterpwn/CVE-2024-26229](https://github.com/otterpwn/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/otterpwn/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/otterpwn/CVE-2024-26229">
 
 ---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
@@ -1894,6 +1902,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-24760 (2024-02-02T16:15:00)
 > mailcow is a dockerized email package, with multiple containers linked in one bridged network. A security vulnerability has been identified in mailcow affecting versions < 2024-01c. This vulnerability potentially allows attackers on the same subnet to connect to exposed ports of a Docker container, even when the port is bound to 127.0.0.1. The vulnerability has been addressed by implementing additional iptables/nftables rules. These rules drop packets for Docker containers on ports 3306, 6379, 8983, and 12345, where the input interface is not `br-mailcow` and the output interface is `br-mailcow`.
 - [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760)	<img alt="forks" src="https://img.shields.io/github/forks/killerbees19/CVE-2024-24760">	<img alt="stars" src="https://img.shields.io/github/stars/killerbees19/CVE-2024-24760">
+
+---
+## CVE-2024-24590 ()
+> 
+- [LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML](https://github.com/LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML)	<img alt="forks" src="https://img.shields.io/github/forks/LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML">	<img alt="stars" src="https://img.shields.io/github/stars/LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML">
 
 ---
 ## CVE-2024-24576 (2024-04-09T18:15:00)
