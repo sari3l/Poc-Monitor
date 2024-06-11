@@ -1875,6 +1875,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [satchhacker/cve-2024-24919](https://github.com/satchhacker/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/satchhacker/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/satchhacker/cve-2024-24919">
 - [verylazytech/CVE-2024-24919](https://github.com/verylazytech/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-24919">
 - [protonnegativo/CVE-2024-24919](https://github.com/protonnegativo/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/protonnegativo/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/protonnegativo/CVE-2024-24919">
+- [SalehLardhi/CVE-2024-24919](https://github.com/SalehLardhi/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/SalehLardhi/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/SalehLardhi/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
@@ -3151,6 +3152,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 
 
 - [ewilded/CVE-2024-0197-POC](https://github.com/ewilded/CVE-2024-0197-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-0197-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-0197-POC">
+
+---
+## CVE-2024-0195 ()
+> 
+- [Cappricio-Securities/CVE-2024-0195](https://github.com/Cappricio-Securities/CVE-2024-0195)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0195">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0195">
 
 ---
 ## CVE-2024-0193 (2024-01-02T18:15:00)
