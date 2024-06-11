@@ -4215,6 +4215,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [JaqueMalman/CVE-2023-33137](https://github.com/JaqueMalman/CVE-2023-33137)	<img alt="forks" src="https://img.shields.io/github/forks/JaqueMalman/CVE-2023-33137">	<img alt="stars" src="https://img.shields.io/github/stars/JaqueMalman/CVE-2023-33137">
 
 ---
+## CVE-2023-33105 ()
+> 
+- [D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware](https://github.com/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware)	<img alt="forks" src="https://img.shields.io/github/forks/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware">	<img alt="stars" src="https://img.shields.io/github/stars/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware">
+
+---
 ## CVE-2023-32961 (2023-06-12T15:15:00)
 > Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Katie Seaborn Zotpress plugin <= 7.3.3 versions.
 - [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2023-32961">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2023-32961">
