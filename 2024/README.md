@@ -106,6 +106,9 @@
 - [it-t4mpan/check_cve_2024_4577.sh](https://github.com/it-t4mpan/check_cve_2024_4577.sh)	<img alt="forks" src="https://img.shields.io/github/forks/it-t4mpan/check_cve_2024_4577.sh">	<img alt="stars" src="https://img.shields.io/github/stars/it-t4mpan/check_cve_2024_4577.sh">
 - [bl4cksku11/CVE-2024-4577](https://github.com/bl4cksku11/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bl4cksku11/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bl4cksku11/CVE-2024-4577">
 - [nemu1k5ma/CVE-2024-4577](https://github.com/nemu1k5ma/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/nemu1k5ma/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/nemu1k5ma/CVE-2024-4577">
+- [Entropt/CVE-2024-4577_Analysis](https://github.com/Entropt/CVE-2024-4577_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Entropt/CVE-2024-4577_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Entropt/CVE-2024-4577_Analysis">
+- [d3ck4/Shodan-CVE-2024-4577](https://github.com/d3ck4/Shodan-CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/d3ck4/Shodan-CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/d3ck4/Shodan-CVE-2024-4577">
+- [aaddmin1122345/CVE-2024-4577-POC](https://github.com/aaddmin1122345/CVE-2024-4577-POC)	<img alt="forks" src="https://img.shields.io/github/forks/aaddmin1122345/CVE-2024-4577-POC">	<img alt="stars" src="https://img.shields.io/github/stars/aaddmin1122345/CVE-2024-4577-POC">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
@@ -1541,6 +1544,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 
 - [Zeyad-Azima/CVE-2024-27348](https://github.com/Zeyad-Azima/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2024-27348">
 - [kljunowsky/CVE-2024-27348](https://github.com/kljunowsky/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2024-27348">
+- [jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE](https://github.com/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE">
 
 ---
 ## CVE-2024-27316 (2024-04-04T20:15:00)

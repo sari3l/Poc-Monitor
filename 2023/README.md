@@ -7033,6 +7033,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [tiyeume25112004/CVE-2023-1177-rebuild](https://github.com/tiyeume25112004/CVE-2023-1177-rebuild)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2023-1177-rebuild">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2023-1177-rebuild">
 
 ---
+## CVE-2023-11518 ()
+> 
+- [ISH2YU/CVE-2023-11518](https://github.com/ISH2YU/CVE-2023-11518)	<img alt="forks" src="https://img.shields.io/github/forks/ISH2YU/CVE-2023-11518">	<img alt="stars" src="https://img.shields.io/github/stars/ISH2YU/CVE-2023-11518">
+
+---
 ## CVE-2023-1112 (2023-03-01T10:15:00)
 > A vulnerability was found in Drag and Drop Multiple File Upload Contact Form 7 5.0.6.1. It has been classified as critical. Affected is an unknown function of the file admin-ajax.php. The manipulation of the argument upload_name leads to relative path traversal. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-222072.
 - [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1112-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1112-EXP">
