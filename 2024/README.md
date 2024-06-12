@@ -105,6 +105,7 @@
 - [K3ysTr0K3R/CVE-2024-4577-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">
 - [it-t4mpan/check_cve_2024_4577.sh](https://github.com/it-t4mpan/check_cve_2024_4577.sh)	<img alt="forks" src="https://img.shields.io/github/forks/it-t4mpan/check_cve_2024_4577.sh">	<img alt="stars" src="https://img.shields.io/github/stars/it-t4mpan/check_cve_2024_4577.sh">
 - [bl4cksku11/CVE-2024-4577](https://github.com/bl4cksku11/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bl4cksku11/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bl4cksku11/CVE-2024-4577">
+- [nemu1k5ma/CVE-2024-4577](https://github.com/nemu1k5ma/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/nemu1k5ma/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/nemu1k5ma/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
@@ -1906,7 +1907,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ---
 ## CVE-2024-24590 ()
 > 
-- [LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML](https://github.com/LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML)	<img alt="forks" src="https://img.shields.io/github/forks/LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML">	<img alt="stars" src="https://img.shields.io/github/stars/LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML">
+- [LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
 - [OxyDeV2/PoC-CVE-2024-24590](https://github.com/OxyDeV2/PoC-CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/OxyDeV2/PoC-CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/OxyDeV2/PoC-CVE-2024-24590">
 
 ---
