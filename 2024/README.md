@@ -1209,6 +1209,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [sinsinology/CVE-2024-29849](https://github.com/sinsinology/CVE-2024-29849)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-29849">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-29849">
 
 ---
+## CVE-2024-29824 ()
+> 
+- [horizon3ai/CVE-2024-29824](https://github.com/horizon3ai/CVE-2024-29824)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-29824">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-29824">
+
+---
 ## CVE-2024-2961 (2024-04-17T18:15:00)
 > The iconv() function in the GNU C Library versions 2.39 and older may overflow the output buffer passed to it by up to 4 bytes when converting strings to the ISO-2022-CN-EXT character set, which may be used to crash an application or overwrite a neighbouring variable.
 
@@ -1920,6 +1925,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 > 
 - [LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
 - [OxyDeV2/PoC-CVE-2024-24590](https://github.com/OxyDeV2/PoC-CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/OxyDeV2/PoC-CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/OxyDeV2/PoC-CVE-2024-24590">
+- [DemonPandaz2763/CVE-2024-24590](https://github.com/DemonPandaz2763/CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/DemonPandaz2763/CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/DemonPandaz2763/CVE-2024-24590">
 
 ---
 ## CVE-2024-24576 (2024-04-09T18:15:00)
