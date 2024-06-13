@@ -1698,6 +1698,7 @@ overflow.
 - [otterpwn/CVE-2024-26229](https://github.com/otterpwn/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/otterpwn/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/otterpwn/CVE-2024-26229">
 - [0XJ175/DRive](https://github.com/0XJ175/DRive)	<img alt="forks" src="https://img.shields.io/github/forks/0XJ175/DRive">	<img alt="stars" src="https://img.shields.io/github/stars/0XJ175/DRive">
 - [NVISOsecurity/CVE-2024-26229-BOF](https://github.com/NVISOsecurity/CVE-2024-26229-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/NVISOsecurity/CVE-2024-26229-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/NVISOsecurity/CVE-2024-26229-BOF">
+- [0XJ175/DRive](https://github.com/0XJ175/DRive)	<img alt="forks" src="https://img.shields.io/github/forks/0XJ175/DRive">	<img alt="stars" src="https://img.shields.io/github/stars/0XJ175/DRive">
 
 ---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
