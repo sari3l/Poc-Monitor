@@ -5250,6 +5250,11 @@
 - [themmokhtar/CVE-2020-0022](https://github.com/themmokhtar/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/themmokhtar/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/themmokhtar/CVE-2020-0022">
 
 ---
+## CVE-2020-0014 ()
+> 
+- [ASIFASSU/CVE-2020-0014](https://github.com/ASIFASSU/CVE-2020-0014)	<img alt="forks" src="https://img.shields.io/github/forks/ASIFASSU/CVE-2020-0014">	<img alt="stars" src="https://img.shields.io/github/stars/ASIFASSU/CVE-2020-0014">
+
+---
 ## CVE-2020-0009 (2020-01-08T16:15:00)
 > In calc_vm_may_flags of ashmem.c, there is a possible arbitrary write to shared memory due to a permissions bypass. This could lead to local escalation of privilege by corrupting memory shared between processes, with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android kernel Android ID: A-142938932
 - [Live-Hack-CVE/CVE-2020-0009](https://github.com/Live-Hack-CVE/CVE-2020-0009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0009">
