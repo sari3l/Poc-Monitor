@@ -62,8 +62,8 @@
 - [verylazytech/CVE-2024-4956](https://github.com/verylazytech/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-4956">
 
 ---
-## CVE-2024-4898 ()
-> 
+## CVE-2024-4898 (2024-06-12T11:15:00)
+> The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary option updates due to a missing authorization checks on the REST API calls in all versions up to, and including, 0.1.0.38. This makes it possible for unauthenticated attackers to connect the site to InstaWP API, edit arbitrary site options and create administrator accounts.
 - [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4898-Poc">
 
 ---
@@ -82,8 +82,8 @@
 - [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JoeBeeton/CVE-2024-4701-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JoeBeeton/CVE-2024-4701-POC">
 
 ---
-## CVE-2024-4577 ()
-> 
+## CVE-2024-4577 (2024-06-09T20:15:00)
+> In PHP versions 8.1.* before 8.1.29, 8.2.* before 8.2.20, 8.3.* before 8.3.8, when using Apache and PHP-CGI on Windows, if the system is set up to use certain code pages, Windows may use "Best-Fit" behavior to replace characters in command line given to Win32 API functions. PHP CGI module may misinterpret those characters as PHP options, which may allow a malicious user to pass options to PHP binary being run, and thus reveal the source code of scripts, run arbitrary PHP code on the server, etc.
 - [TAM-K592/CVE-2024-4577](https://github.com/TAM-K592/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-4577">
 - [taida957789/CVE-2024-4577](https://github.com/taida957789/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/taida957789/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/taida957789/CVE-2024-4577">
 - [ohhhh693/CVE-2024-4577](https://github.com/ohhhh693/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ohhhh693/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ohhhh693/CVE-2024-4577">
@@ -209,19 +209,19 @@
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
 
 ---
-## CVE-2024-37393 ()
-> 
+## CVE-2024-37393 (2024-06-10T20:15:00)
+> Multiple LDAP injections vulnerabilities exist in SecurEnvoy MFA before 9.4.514 due to improper validation of user-supplied input. An unauthenticated remote attacker could exfiltrate data from Active Directory through blind LDAP injection attacks against the DESKTOP service exposed on the /secserver HTTP endpoint. This may include ms-Mcs-AdmPwd, which has a cleartext password for the Local Administrator Password Solution (LAPS) feature.
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
 
 ---
-## CVE-2024-37051 ()
-> 
+## CVE-2024-37051 (2024-06-10T16:15:00)
+> GitHub access token could be exposed to third-party sites in JetBrains IDEs after version 2023.1 and less than: IntelliJ IDEA 2023.1.7, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP3; Aqua 2024.1.2; CLion 2023.1.7, 2023.2.4, 2023.3.5, 2024.1.3, 2024.2 EAP2; DataGrip 2023.1.3, 2023.2.4, 2023.3.5, 2024.1.4; DataSpell 2023.1.6, 2023.2.7, 2023.3.6, 2024.1.2, 2024.2 EAP1; GoLand 2023.1.6, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP3; MPS 2023.2.1, 2023.3.1, 2024.1 EAP2; PhpStorm 2023.1.6, 2023.2.6, 2023.3.7, 2024.1.3, 2024.2 EAP3; PyCharm 2023.1.6, 2023.2.7, 2023.3.6, 2024.1.3, 2024.2 EAP2; Rider 2023.1.7, 2023.2.5, 2023.3.6, 2024.1.3; RubyMine 2023.1.7, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP4; RustRover 2024.1.1; WebStorm 2023.1.6, 2023.2.7, 2023.3.7, 2024.1.4
 - [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/LeadroyaL/CVE-2024-37051-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/LeadroyaL/CVE-2024-37051-EXP">
 - [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051)	<img alt="forks" src="https://img.shields.io/github/forks/mrblackstar26/CVE-2024-37051">	<img alt="stars" src="https://img.shields.io/github/stars/mrblackstar26/CVE-2024-37051">
 
 ---
-## CVE-2024-36821 ()
-> 
+## CVE-2024-36821 (2024-06-11T18:15:00)
+> Insecure permissions in Linksys Velop WiFi 5 (WHW01v1) 1.1.13.202617 allows attackers to escalate privileges from Guest to root via a directory traversal.
 - [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821">
 
 ---
@@ -230,8 +230,8 @@
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
 
 ---
-## CVE-2024-3552 ()
-> 
+## CVE-2024-3552 (2024-06-13T06:15:00)
+> The Web Directory Free WordPress plugin before 1.7.0 does not sanitise and escape a parameter before using it in a SQL statement via an AJAX action available to unauthenticated users, leading to a SQL injection with different techniques like UNION, Time-Based and Error-Based.
 - [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3552-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3552-Poc">
 
 ---
@@ -1216,8 +1216,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [nancyariah4/CVE-2024-29895-CactiRCE-PoC](https://github.com/nancyariah4/CVE-2024-29895-CactiRCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-29895-CactiRCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-29895-CactiRCE-PoC">
 
 ---
-## CVE-2024-29855 ()
-> 
+## CVE-2024-29855 (2024-06-11T04:15:00)
+> Hard-coded JWT secret allows authentication bypass in Veeam Recovery Orchestrator
 - [sinsinology/CVE-2024-29855](https://github.com/sinsinology/CVE-2024-29855)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-29855">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-29855">
 
 ---
