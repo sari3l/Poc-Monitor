@@ -4216,8 +4216,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [JaqueMalman/CVE-2023-33137](https://github.com/JaqueMalman/CVE-2023-33137)	<img alt="forks" src="https://img.shields.io/github/forks/JaqueMalman/CVE-2023-33137">	<img alt="stars" src="https://img.shields.io/github/stars/JaqueMalman/CVE-2023-33137">
 
 ---
-## CVE-2023-33105 ()
-> 
+## CVE-2023-33105 (2024-03-04T11:15:00)
+> Transient DOS in WLAN Host and Firmware when large number of open authentication frames are sent with an invalid transaction sequence number.
 - [D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware](https://github.com/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware)	<img alt="forks" src="https://img.shields.io/github/forks/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware">	<img alt="stars" src="https://img.shields.io/github/stars/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware">
 
 ---
@@ -6723,8 +6723,15 @@ For more details, please review the linked advisory on this CVE.
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
 
 ---
-## CVE-2023-20598 ()
+## CVE-2023-20598 (2023-10-17T14:15:00)
 > 
+
+
+An improper privilege management in the AMD Radeon™ Graphics driver may allow an authenticated attacker to craft an IOCTL request to gain I/O control over arbitrary hardware ports or physical addresses resulting in a potential arbitrary code execution.
+
+
+
+
 - [H4rk3nz0/CVE-2023-20598-PDFWKRNL](https://github.com/H4rk3nz0/CVE-2023-20598-PDFWKRNL)	<img alt="forks" src="https://img.shields.io/github/forks/H4rk3nz0/CVE-2023-20598-PDFWKRNL">	<img alt="stars" src="https://img.shields.io/github/stars/H4rk3nz0/CVE-2023-20598-PDFWKRNL">
 
 ---

@@ -115,10 +115,11 @@
 - [d3ck4/Shodan-CVE-2024-4577](https://github.com/d3ck4/Shodan-CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/d3ck4/Shodan-CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/d3ck4/Shodan-CVE-2024-4577">
 - [aaddmin1122345/CVE-2024-4577-POC](https://github.com/aaddmin1122345/CVE-2024-4577-POC)	<img alt="forks" src="https://img.shields.io/github/forks/aaddmin1122345/CVE-2024-4577-POC">	<img alt="stars" src="https://img.shields.io/github/stars/aaddmin1122345/CVE-2024-4577-POC">
 - [XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE](https://github.com/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE">
+- [hexedbyte/cve-2024-4577](https://github.com/hexedbyte/cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/hexedbyte/cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/hexedbyte/cve-2024-4577">
 
 ---
-## CVE-2024-4484 ()
-> 
+## CVE-2024-4484 (2024-05-24T07:15:00)
+> The The Plus Addons for Elementor – Elementor Addons, Page Templates, Widgets, Mega Menu, WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘xai_username’ parameter in versions up to, and including, 5.5.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with contributor-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-4484">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-4484">
 
 ---
@@ -216,6 +217,7 @@
 ## CVE-2024-37051 ()
 > 
 - [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/LeadroyaL/CVE-2024-37051-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/LeadroyaL/CVE-2024-37051-EXP">
+- [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051)	<img alt="forks" src="https://img.shields.io/github/forks/mrblackstar26/CVE-2024-37051">	<img alt="stars" src="https://img.shields.io/github/stars/mrblackstar26/CVE-2024-37051">
 
 ---
 ## CVE-2024-36821 ()
@@ -1214,13 +1216,18 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [nancyariah4/CVE-2024-29895-CactiRCE-PoC](https://github.com/nancyariah4/CVE-2024-29895-CactiRCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-29895-CactiRCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-29895-CactiRCE-PoC">
 
 ---
-## CVE-2024-29849 ()
+## CVE-2024-29855 ()
 > 
+- [sinsinology/CVE-2024-29855](https://github.com/sinsinology/CVE-2024-29855)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-29855">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-29855">
+
+---
+## CVE-2024-29849 (2024-05-22T23:15:00)
+> Veeam Backup Enterprise Manager allows unauthenticated users to log in as any user to enterprise manager web interface.
 - [sinsinology/CVE-2024-29849](https://github.com/sinsinology/CVE-2024-29849)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-29849">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-29849">
 
 ---
-## CVE-2024-29824 ()
-> 
+## CVE-2024-29824 (2024-05-31T18:15:00)
+> An unspecified SQL Injection vulnerability in Core server of Ivanti EPM 2022 SU5 and prior allows an unauthenticated attacker within the same network to execute arbitrary code.
 - [horizon3ai/CVE-2024-29824](https://github.com/horizon3ai/CVE-2024-29824)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-29824">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-29824">
 
 ---
@@ -1356,6 +1363,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-29194 (2024-03-24T19:15:00)
 > OneUptime is a solution for monitoring and managing online services. The vulnerability lies in the improper validation of client-side stored data within the web application. Specifically, the is_master_admin key, stored in the local storage of the browser, can be manipulated by an attacker. By changing this key from false to true, the application grants administrative privileges to the user, without proper server-side validation.  This has been patched in 7.0.1815.
 - [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mansploit/CVE-2024-29194-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mansploit/CVE-2024-29194-POC">
+
+---
+## CVE-2024-28890 (2024-04-23T05:15:00)
+> Forminator prior to 1.29.0 contains an unrestricted upload of file with dangerous type vulnerability. If this vulnerability is exploited, a remote attacker may obtain sensitive information by accessing files on the server, alter the site that uses the plugin, and cause a denial-of-service (DoS) condition. 
+- [RHYru9/CVE-2024-28890-checker](https://github.com/RHYru9/CVE-2024-28890-checker)	<img alt="forks" src="https://img.shields.io/github/forks/RHYru9/CVE-2024-28890-checker">	<img alt="stars" src="https://img.shields.io/github/stars/RHYru9/CVE-2024-28890-checker">
 
 ---
 ## CVE-2024-2879 ()
@@ -1575,8 +1587,8 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2024-27316_poc">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2024-27316_poc">
 
 ---
-## CVE-2024-27282 ()
-> 
+## CVE-2024-27282 (2024-05-14T15:11:00)
+> An issue was discovered in Ruby 3.x through 3.3.0. If attacker-supplied data is provided to the Ruby regex compiler, it is possible to extract arbitrary heap data relative to the start of the text, including pointers and sensitive strings. The fixed versions are 3.0.7, 3.1.5, 3.2.4, and 3.3.1.
 - [Abo5/CVE-2024-27282](https://github.com/Abo5/CVE-2024-27282)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-27282">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-27282">
 
 ---
@@ -1679,12 +1691,13 @@ overflow.
 - [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">
 
 ---
-## CVE-2024-26229 ()
-> 
+## CVE-2024-26229 (2024-04-09T17:15:00)
+> Windows CSC Service Elevation of Privilege Vulnerability
 - [varwara/CVE-2024-26229](https://github.com/varwara/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-26229">
 - [RalfHacker/CVE-2024-26229-exploit](https://github.com/RalfHacker/CVE-2024-26229-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RalfHacker/CVE-2024-26229-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RalfHacker/CVE-2024-26229-exploit">
 - [otterpwn/CVE-2024-26229](https://github.com/otterpwn/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/otterpwn/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/otterpwn/CVE-2024-26229">
 - [0XJ175/DRive](https://github.com/0XJ175/DRive)	<img alt="forks" src="https://img.shields.io/github/forks/0XJ175/DRive">	<img alt="stars" src="https://img.shields.io/github/stars/0XJ175/DRive">
+- [NVISOsecurity/CVE-2024-26229-BOF](https://github.com/NVISOsecurity/CVE-2024-26229-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/NVISOsecurity/CVE-2024-26229-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/NVISOsecurity/CVE-2024-26229-BOF">
 
 ---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
@@ -1937,8 +1950,9 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760)	<img alt="forks" src="https://img.shields.io/github/forks/killerbees19/CVE-2024-24760">	<img alt="stars" src="https://img.shields.io/github/stars/killerbees19/CVE-2024-24760">
 
 ---
-## CVE-2024-24590 ()
-> 
+## CVE-2024-24590 (2024-02-06T15:15:00)
+> Deserialization of untrusted data can occur in versions 0.17.0 to 1.14.2 of the client SDK of Allegro AI’s ClearML platform, enabling a maliciously uploaded artifact to run arbitrary code on an end user’s system when interacted with.
+
 - [LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
 - [OxyDeV2/ClearML-CVE-2024-24590](https://github.com/OxyDeV2/ClearML-CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/OxyDeV2/ClearML-CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/OxyDeV2/ClearML-CVE-2024-24590">
 - [DemonPandaz2763/CVE-2024-24590](https://github.com/DemonPandaz2763/CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/DemonPandaz2763/CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/DemonPandaz2763/CVE-2024-24590">
@@ -2305,10 +2319,12 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [alexcote1/CVE-2024-23722-poc](https://github.com/alexcote1/CVE-2024-23722-poc)	<img alt="forks" src="https://img.shields.io/github/forks/alexcote1/CVE-2024-23722-poc">	<img alt="stars" src="https://img.shields.io/github/stars/alexcote1/CVE-2024-23722-poc">
 
 ---
-## CVE-2024-23692 ()
-> 
+## CVE-2024-23692 (2024-05-31T10:15:00)
+> Rejetto HTTP File Server, up to and including version 2.3m, is vulnerable to a template injection vulnerability. This vulnerability allows a remote, unauthenticated attacker to execute arbitrary commands on the affected system by sending a specially crafted HTTP request. As of the CVE assignment date, Rejetto HFS 2.3m is no longer supported.
 - [k3lpi3b4nsh33/CVE-2024-23692](https://github.com/k3lpi3b4nsh33/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-23692">
 - [jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS](https://github.com/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">
+- [WanLiChangChengWanLiChang/CVE-2024-23692-RCE](https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">
+- [vanboomqi/CVE-2024-23692](https://github.com/vanboomqi/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/vanboomqi/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/vanboomqi/CVE-2024-23692">
 
 ---
 ## CVE-2024-23652 (2024-01-31T22:15:00)
@@ -2922,13 +2938,15 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [AbdElRahmanEzzat1995/CVE-2024-20406](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20406)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20406">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20406">
 
 ---
-## CVE-2024-20405 ()
-> 
+## CVE-2024-20405 (2024-06-05T17:15:00)
+> A vulnerability in the web-based management interface of Cisco Finesse could allow an unauthenticated, remote attacker to conduct a stored XSS attack by exploiting an RFI vulnerability. 
+ This vulnerability is due to insufficient validation of user-supplied input for specific HTTP requests that are sent to an affected device. An attacker could exploit this vulnerability by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or access sensitive information on the affected device.
 - [AbdElRahmanEzzat1995/CVE-2024-20405](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20405)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20405">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20405">
 
 ---
-## CVE-2024-20404 ()
-> 
+## CVE-2024-20404 (2024-06-05T17:15:00)
+> A vulnerability in the web-based management interface of Cisco Finesse could allow an unauthenticated, remote attacker to conduct an SSRF attack on an affected system.
+ This vulnerability is due to insufficient validation of user-supplied input for specific HTTP requests that are sent to an affected system. An attacker could exploit this vulnerability by sending a crafted HTTP request to the affected device. A successful exploit could allow the attacker to obtain limited sensitive information for services that are associated to the affected device.
 - [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
 - [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
 
@@ -3174,8 +3192,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-0399">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-0399">
 
 ---
-## CVE-2024-0352 ()
-> 
+## CVE-2024-0352 (2024-01-09T23:15:00)
+> A vulnerability classified as critical was found in Likeshop up to 2.5.7.20210311. This vulnerability affects the function FileServer::userFormImage of the file server/application/api/controller/File.php of the component HTTP POST Request Handler. The manipulation of the argument file leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-250120.
 - [Cappricio-Securities/CVE-2024-0352](https://github.com/Cappricio-Securities/CVE-2024-0352)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0352">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0352">
 
 ---
@@ -3215,8 +3233,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [ewilded/CVE-2024-0197-POC](https://github.com/ewilded/CVE-2024-0197-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-0197-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-0197-POC">
 
 ---
-## CVE-2024-0195 ()
-> 
+## CVE-2024-0195 (2024-01-02T21:15:00)
+> A vulnerability, which was classified as critical, was found in spider-flow 0.4.3. Affected is the function FunctionService.saveFunction of the file src/main/java/org/spiderflow/controller/FunctionController.java. The manipulation leads to code injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-249510 is the identifier assigned to this vulnerability.
 - [Cappricio-Securities/CVE-2024-0195](https://github.com/Cappricio-Securities/CVE-2024-0195)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0195">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0195">
 
 ---

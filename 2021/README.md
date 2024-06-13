@@ -1567,18 +1567,18 @@
 - [shiomiyan/CVE-2021-42574](https://github.com/shiomiyan/CVE-2021-42574)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2021-42574">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2021-42574">
 
 ---
-## CVE-2021-42562 ()
-> 
+## CVE-2021-42562 (2022-01-12T19:15:00)
+> An issue was discovered in CALDERA 2.8.1. It does not properly segregate user privileges, resulting in non-admin users having access to read and modify configuration or other components that should only be accessible by admin users.
 - [mbadanoiu/CVE-2021-42562](https://github.com/mbadanoiu/CVE-2021-42562)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42562">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42562">
 
 ---
-## CVE-2021-42561 ()
-> 
+## CVE-2021-42561 (2022-01-12T19:15:00)
+> An issue was discovered in CALDERA 2.8.1. When activated, the Human plugin passes the unsanitized name parameter to a python "os.system" function. This allows attackers to use shell metacharacters (e.g., backticks "``" or dollar parenthesis "$()" ) in order to escape the current command and execute arbitrary shell commands.
 - [mbadanoiu/CVE-2021-42561](https://github.com/mbadanoiu/CVE-2021-42561)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42561">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42561">
 
 ---
-## CVE-2021-42560 ()
-> 
+## CVE-2021-42560 (2022-01-12T19:15:00)
+> An issue was discovered in CALDERA 2.9.0. The Debrief plugin receives base64 encoded "SVG" parameters when generating a PDF document. These SVG documents are parsed in an unsafe manner and can be leveraged for XXE attacks (e.g., File Exfiltration, Server Side Request Forgery, Out of Band Exfiltration, etc.).
 - [mbadanoiu/CVE-2021-42560](https://github.com/mbadanoiu/CVE-2021-42560)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42560">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42560">
 
 ---
@@ -1587,13 +1587,13 @@
 - [Live-Hack-CVE/CVE-2021-4256](https://github.com/Live-Hack-CVE/CVE-2021-4256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4256">
 
 ---
-## CVE-2021-42559 ()
-> 
+## CVE-2021-42559 (2022-01-12T20:15:00)
+> An issue was discovered in CALDERA 2.8.1. It contains multiple startup "requirements" that execute commands when starting the server. Because these commands can be changed via the REST API, an authenticated user can insert arbitrary commands that will execute when the server is restarted.
 - [mbadanoiu/CVE-2021-42559](https://github.com/mbadanoiu/CVE-2021-42559)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42559">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42559">
 
 ---
-## CVE-2021-42558 ()
-> 
+## CVE-2021-42558 (2022-01-12T20:15:00)
+> An issue was discovered in CALDERA 2.8.1. It contains multiple reflected, stored, and self XSS vulnerabilities that may be exploited by authenticated and unauthenticated attackers.
 - [mbadanoiu/CVE-2021-42558](https://github.com/mbadanoiu/CVE-2021-42558)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42558">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42558">
 
 ---
