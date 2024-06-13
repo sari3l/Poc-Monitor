@@ -466,6 +466,7 @@ We recommend users to:
 - [vin01/poc-proxycommand-vulnerable](https://github.com/vin01/poc-proxycommand-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-proxycommand-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-proxycommand-vulnerable">
 - [thinkliving2020/CVE-2023-51385-](https://github.com/thinkliving2020/CVE-2023-51385-)	<img alt="forks" src="https://img.shields.io/github/forks/thinkliving2020/CVE-2023-51385-">	<img alt="stars" src="https://img.shields.io/github/stars/thinkliving2020/CVE-2023-51385-">
 - [c0deur/CVE-2023-51385](https://github.com/c0deur/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/c0deur/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/c0deur/CVE-2023-51385">
+- [endasugrue/CVE-2023-51385_poc](https://github.com/endasugrue/CVE-2023-51385_poc)	<img alt="forks" src="https://img.shields.io/github/forks/endasugrue/CVE-2023-51385_poc">	<img alt="stars" src="https://img.shields.io/github/stars/endasugrue/CVE-2023-51385_poc">
 
 ---
 ## CVE-2023-51281 (2024-03-07T01:15:00)
