@@ -148,6 +148,7 @@
 - [spaceraccoon/detect-cve-2024-4367](https://github.com/spaceraccoon/detect-cve-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/spaceraccoon/detect-cve-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/spaceraccoon/detect-cve-2024-4367">
 - [avalahEE/pdfjs_disable_eval](https://github.com/avalahEE/pdfjs_disable_eval)	<img alt="forks" src="https://img.shields.io/github/forks/avalahEE/pdfjs_disable_eval">	<img alt="stars" src="https://img.shields.io/github/stars/avalahEE/pdfjs_disable_eval">
 - [clarkio/pdfjs-vuln-demo](https://github.com/clarkio/pdfjs-vuln-demo)	<img alt="forks" src="https://img.shields.io/github/forks/clarkio/pdfjs-vuln-demo">	<img alt="stars" src="https://img.shields.io/github/stars/clarkio/pdfjs-vuln-demo">
+- [Zombie-Kaiser/cve-2024-4367-PoC-fixed](https://github.com/Zombie-Kaiser/cve-2024-4367-PoC-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/cve-2024-4367-PoC-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/cve-2024-4367-PoC-fixed">
 
 ---
 ## CVE-2024-4358 (2024-05-29T15:16:00)
