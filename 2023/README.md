@@ -7014,6 +7014,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [diego-tella/CVE-2023-1326-PoC](https://github.com/diego-tella/CVE-2023-1326-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/diego-tella/CVE-2023-1326-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/diego-tella/CVE-2023-1326-PoC">
 - [Pol-Ruiz/CVE-2023-1326](https://github.com/Pol-Ruiz/CVE-2023-1326)	<img alt="forks" src="https://img.shields.io/github/forks/Pol-Ruiz/CVE-2023-1326">	<img alt="stars" src="https://img.shields.io/github/stars/Pol-Ruiz/CVE-2023-1326">
 - [c0d3cr4f73r/CVE-2023-1326](https://github.com/c0d3cr4f73r/CVE-2023-1326)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2023-1326">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2023-1326">
+- [cve-2024/CVE-2023-1326-PoC](https://github.com/cve-2024/CVE-2023-1326-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2023-1326-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2023-1326-PoC">
 
 ---
 ## CVE-2023-1273 (2023-07-04T08:15:00)

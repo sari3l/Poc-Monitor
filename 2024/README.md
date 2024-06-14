@@ -34,6 +34,7 @@
 ## CVE-2024-5326 (2024-05-30T11:15:00)
 > The Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'postx_presets_callback' function in all versions up to, and including, 4.1.2. This makes it possible for authenticated attackers, with Contributor-level access and above, to change arbitrary options on affected sites. This can be used to enable new user registration and set the default role for new users to Administrator.
 - [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5326-Poc">
+- [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-5326-Poc">
 
 ---
 ## CVE-2024-5084 (2024-05-23T15:15:00)
@@ -65,6 +66,7 @@
 ## CVE-2024-4898 (2024-06-12T11:15:00)
 > The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary option updates due to a missing authorization checks on the REST API calls in all versions up to, and including, 0.1.0.38. This makes it possible for unauthenticated attackers to connect the site to InstaWP API, edit arbitrary site options and create administrator accounts.
 - [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4898-Poc">
+- [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4898-Poc">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
@@ -175,6 +177,7 @@
 ## CVE-2024-4295 (2024-06-05T06:15:00)
 > The Email Subscribers by Icegram Express plugin for WordPress is vulnerable to SQL Injection via the ‘hash’ parameter in all versions up to, and including, 5.7.20 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4295-Poc">
+- [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
 
 ---
 ## CVE-2024-4040 (2024-04-22T20:15:00)
@@ -1390,6 +1393,9 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 
 
 - [krypton-kry/CVE-2024-28995](https://github.com/krypton-kry/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/krypton-kry/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/krypton-kry/CVE-2024-28995">
+- [0xkucing/CVE-2024-28995](https://github.com/0xkucing/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/0xkucing/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/0xkucing/CVE-2024-28995">
+- [huseyinstif/CVE-2024-28995-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-28995-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-28995-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-28995-Nuclei-Template">
+- [ggfzx/CVE-2024-28995](https://github.com/ggfzx/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-28995">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
@@ -1538,6 +1544,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Cappricio-Securities/CVE-2024-27956](https://github.com/Cappricio-Securities/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-27956">
 - [itzheartzz/MASS-CVE-2024-27956](https://github.com/itzheartzz/MASS-CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/itzheartzz/MASS-CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/itzheartzz/MASS-CVE-2024-27956">
 - [TadashiJei/Valve-Press-CVE-2024-27956-RCE](https://github.com/TadashiJei/Valve-Press-CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TadashiJei/Valve-Press-CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TadashiJei/Valve-Press-CVE-2024-27956-RCE">
+- [cve-2024/CVE-2024-27956-RCE](https://github.com/cve-2024/CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-27956-RCE">
 
 ---
 ## CVE-2024-27804 (2024-05-14T15:13:00)
@@ -1644,6 +1651,11 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 ## CVE-2024-27191 ()
 > 
 - [somecodeinjection/CVE-2024-27191-POC](https://github.com/somecodeinjection/CVE-2024-27191-POC)	<img alt="forks" src="https://img.shields.io/github/forks/somecodeinjection/CVE-2024-27191-POC">	<img alt="stars" src="https://img.shields.io/github/stars/somecodeinjection/CVE-2024-27191-POC">
+
+---
+## CVE-2024-27173 ()
+> 
+- [Ieakd/0day-POC-for-CVE-2024-27173](https://github.com/Ieakd/0day-POC-for-CVE-2024-27173)	<img alt="forks" src="https://img.shields.io/github/forks/Ieakd/0day-POC-for-CVE-2024-27173">	<img alt="stars" src="https://img.shields.io/github/stars/Ieakd/0day-POC-for-CVE-2024-27173">
 
 ---
 ## CVE-2024-27130 (2024-05-21T16:15:00)
