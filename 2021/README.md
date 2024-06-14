@@ -2667,8 +2667,8 @@
 - [lisinan988/CVE-2021-40444-exp](https://github.com/lisinan988/CVE-2021-40444-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lisinan988/CVE-2021-40444-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lisinan988/CVE-2021-40444-exp">
 - [Alexcot25051999/CVE-2021-40444](https://github.com/Alexcot25051999/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/Alexcot25051999/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/Alexcot25051999/CVE-2021-40444">
 - [Zeop-CyberSec/word_mshtml](https://github.com/Zeop-CyberSec/word_mshtml)	<img alt="forks" src="https://img.shields.io/github/forks/Zeop-CyberSec/word_mshtml">	<img alt="stars" src="https://img.shields.io/github/stars/Zeop-CyberSec/word_mshtml">
-- [wh00datz/CVE-2021-40444-POC](https://github.com/wh00datz/CVE-2021-40444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/wh00datz/CVE-2021-40444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/wh00datz/CVE-2021-40444-POC">
-- [TiagoSergio/CVE-2021-40444](https://github.com/TiagoSergio/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/TiagoSergio/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/TiagoSergio/CVE-2021-40444">
+- [kagura-maru/CVE-2021-40444-POC](https://github.com/kagura-maru/CVE-2021-40444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kagura-maru/CVE-2021-40444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kagura-maru/CVE-2021-40444-POC">
+- [tiagob0b/CVE-2021-40444](https://github.com/tiagob0b/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/tiagob0b/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/tiagob0b/CVE-2021-40444">
 - [kal1gh0st/CVE-2021-40444_CAB_archives](https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives)	<img alt="forks" src="https://img.shields.io/github/forks/kal1gh0st/CVE-2021-40444_CAB_archives">	<img alt="stars" src="https://img.shields.io/github/stars/kal1gh0st/CVE-2021-40444_CAB_archives">
 - [aslitsecurity/CVE-2021-40444_builders](https://github.com/aslitsecurity/CVE-2021-40444_builders)	<img alt="forks" src="https://img.shields.io/github/forks/aslitsecurity/CVE-2021-40444_builders">	<img alt="stars" src="https://img.shields.io/github/stars/aslitsecurity/CVE-2021-40444_builders">
 - [H0j3n/CVE-2021-40444](https://github.com/H0j3n/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/H0j3n/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/H0j3n/CVE-2021-40444">
@@ -2694,6 +2694,7 @@
 - [hqdat809/CVE-2021-40444](https://github.com/hqdat809/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/hqdat809/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/hqdat809/CVE-2021-40444">
 - [Jeromeyoung/TIC4301_Project](https://github.com/Jeromeyoung/TIC4301_Project)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/TIC4301_Project">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/TIC4301_Project">
 - [MohamedAboHelal/CVE-2021-40444](https://github.com/MohamedAboHelal/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/MohamedAboHelal/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/MohamedAboHelal/CVE-2021-40444">
+- [skitkat/CVE-2021-40444-POC](https://github.com/skitkat/CVE-2021-40444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skitkat/CVE-2021-40444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skitkat/CVE-2021-40444-POC">
 
 ---
 ## CVE-2021-4044 (2021-12-14T19:15:00)
