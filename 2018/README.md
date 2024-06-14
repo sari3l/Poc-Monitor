@@ -173,6 +173,7 @@
 ## CVE-2018-7490 (2018-02-26T22:29:00)
 > uWSGI before 2.0.17 mishandles a DOCUMENT_ROOT check during use of the --php-docroot option, allowing directory traversal.
 - [qinzhu111/uWSGI-CVE-2018-7490-POC](https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qinzhu111/uWSGI-CVE-2018-7490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qinzhu111/uWSGI-CVE-2018-7490-POC">
+- [qinzhu111/uWSGI-CVE-2018-7490-POC](https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qinzhu111/uWSGI-CVE-2018-7490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qinzhu111/uWSGI-CVE-2018-7490-POC">
 
 ---
 ## CVE-2018-7449 (2018-03-04T01:29:00)
