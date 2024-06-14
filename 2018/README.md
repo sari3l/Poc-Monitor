@@ -170,6 +170,11 @@
 - [Live-Hack-CVE/CVE-2018-7557](https://github.com/Live-Hack-CVE/CVE-2018-7557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7557">
 
 ---
+## CVE-2018-7490 (2018-02-26T22:29:00)
+> uWSGI before 2.0.17 mishandles a DOCUMENT_ROOT check during use of the --php-docroot option, allowing directory traversal.
+- [qinzhu111/uWSGI-CVE-2018-7490-POC](https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qinzhu111/uWSGI-CVE-2018-7490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qinzhu111/uWSGI-CVE-2018-7490-POC">
+
+---
 ## CVE-2018-7449 (2018-03-04T01:29:00)
 > SEGGER FTP Server for Windows before 3.22a allows remote attackers to cause a denial of service (daemon crash) via an invalid LIST, STOR, or RETR command.
 - [antogit-sys/CVE-2018-7449](https://github.com/antogit-sys/CVE-2018-7449)	<img alt="forks" src="https://img.shields.io/github/forks/antogit-sys/CVE-2018-7449">	<img alt="stars" src="https://img.shields.io/github/stars/antogit-sys/CVE-2018-7449">
