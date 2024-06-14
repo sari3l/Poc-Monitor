@@ -1396,6 +1396,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [0xkucing/CVE-2024-28995](https://github.com/0xkucing/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/0xkucing/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/0xkucing/CVE-2024-28995">
 - [huseyinstif/CVE-2024-28995-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-28995-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-28995-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-28995-Nuclei-Template">
 - [ggfzx/CVE-2024-28995](https://github.com/ggfzx/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-28995">
+- [karkis3c/cves](https://github.com/karkis3c/cves)	<img alt="forks" src="https://img.shields.io/github/forks/karkis3c/cves">	<img alt="stars" src="https://img.shields.io/github/stars/karkis3c/cves">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
@@ -1653,8 +1654,10 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [somecodeinjection/CVE-2024-27191-POC](https://github.com/somecodeinjection/CVE-2024-27191-POC)	<img alt="forks" src="https://img.shields.io/github/forks/somecodeinjection/CVE-2024-27191-POC">	<img alt="stars" src="https://img.shields.io/github/stars/somecodeinjection/CVE-2024-27191-POC">
 
 ---
-## CVE-2024-27173 ()
-> 
+## CVE-2024-27173 (2024-06-14T04:15:00)
+> Remote Command program allows an attacker to get Remote Code Execution by overwriting existing Python files containing executable code. This vulnerability can be executed in combination with other vulnerabilities and  difficult to execute alone. So, the CVSS score for this vulnerability alone is lower than the score listed in the "Base Score" of this vulnerability. For detail on related other vulnerabilities, please ask to the below contact point.
+ https://www.toshibatec.com/contacts/products/ 
+As for the affected products/models/versions, see the reference URL.
 - [Ieakd/0day-POC-for-CVE-2024-27173](https://github.com/Ieakd/0day-POC-for-CVE-2024-27173)	<img alt="forks" src="https://img.shields.io/github/forks/Ieakd/0day-POC-for-CVE-2024-27173">	<img alt="stars" src="https://img.shields.io/github/stars/Ieakd/0day-POC-for-CVE-2024-27173">
 
 ---
