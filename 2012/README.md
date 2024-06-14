@@ -6,6 +6,11 @@
 - [p1ckzi/CVE-2012-5519](https://github.com/p1ckzi/CVE-2012-5519)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2012-5519">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2012-5519">
 
 ---
+## CVE-2012-5321 (2012-10-08T18:55:00)
+> tiki-featured_link.php in TikiWiki CMS/Groupware 8.3 allows remote attackers to load arbitrary web site pages into frames and conduct phishing attacks via the url parameter, aka "frame injection."
+- [Cappricio-Securities/CVE-2012-5321](https://github.com/Cappricio-Securities/CVE-2012-5321)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2012-5321">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2012-5321">
+
+---
 ## CVE-2012-4681 (2012-08-28T00:55:00)
 > Multiple vulnerabilities in the Java Runtime Environment (JRE) component in Oracle Java SE 7 Update 6 and earlier allow remote attackers to execute arbitrary code via a crafted applet that bypasses SecurityManager restrictions by (1) using com.sun.beans.finder.ClassFinder.findClass and leveraging an exception with the forName method to access restricted classes from arbitrary packages such as sun.awt.SunToolkit, then (2) using "reflection with a trusted immediate caller" to leverage the getField method to access and modify private fields, as exploited in the wild in August 2012 using Gondzz.class and Gondvv.class.
 - [Live-Hack-CVE/CVE-2012-4681](https://github.com/Live-Hack-CVE/CVE-2012-4681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4681">
