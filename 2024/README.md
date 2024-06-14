@@ -1367,6 +1367,31 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mansploit/CVE-2024-29194-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mansploit/CVE-2024-29194-POC">
 
 ---
+## CVE-2024-28995 (2024-06-06T09:15:00)
+> 
+
+
+
+
+
+
+
+
+
+
+
+SolarWinds Serv-U was susceptible to a directory transversal vulnerability that would allow access to read sensitive files on the host machine.    
+
+
+
+
+
+
+
+
+- [krypton-kry/CVE-2024-28995](https://github.com/krypton-kry/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/krypton-kry/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/krypton-kry/CVE-2024-28995">
+
+---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
 > Forminator prior to 1.29.0 contains an unrestricted upload of file with dangerous type vulnerability. If this vulnerability is exploited, a remote attacker may obtain sensitive information by accessing files on the server, alter the site that uses the plugin, and cause a denial-of-service (DoS) condition. 
 - [RHYru9/CVE-2024-28890-checker](https://github.com/RHYru9/CVE-2024-28890-checker)	<img alt="forks" src="https://img.shields.io/github/forks/RHYru9/CVE-2024-28890-checker">	<img alt="stars" src="https://img.shields.io/github/stars/RHYru9/CVE-2024-28890-checker">
