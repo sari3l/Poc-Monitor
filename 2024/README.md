@@ -695,8 +695,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Jhonsonwannaa/CVE-2024-31819](https://github.com/Jhonsonwannaa/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-31819">
 
 ---
-## CVE-2024-31777 ()
-> 
+## CVE-2024-31777 (2024-06-13T23:15:00)
+> File Upload vulnerability in openeclass v.3.15 and before allows an attacker to execute arbitrary code via a crafted file to the certbadge.php endpoint.
 - [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777)	<img alt="forks" src="https://img.shields.io/github/forks/FreySolarEye/Exploit-CVE-2024-31777">	<img alt="stars" src="https://img.shields.io/github/stars/FreySolarEye/Exploit-CVE-2024-31777">
 
 ---
@@ -2330,6 +2330,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS](https://github.com/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">
 - [WanLiChangChengWanLiChang/CVE-2024-23692-RCE](https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">
 - [vanboomqi/CVE-2024-23692](https://github.com/vanboomqi/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/vanboomqi/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/vanboomqi/CVE-2024-23692">
+- [Mr-r00t11/CVE-2024-23692](https://github.com/Mr-r00t11/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-23692">
 
 ---
 ## CVE-2024-23652 (2024-01-31T22:15:00)
