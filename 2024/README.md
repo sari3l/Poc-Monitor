@@ -226,6 +226,11 @@
 - [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051)	<img alt="forks" src="https://img.shields.io/github/forks/mrblackstar26/CVE-2024-37051">	<img alt="stars" src="https://img.shields.io/github/stars/mrblackstar26/CVE-2024-37051">
 
 ---
+## CVE-2024-36837 (2024-06-05T15:15:00)
+> SQL Injection vulnerability in CRMEB v.5.2.2 allows a remote attacker to obtain sensitive information via the getProductList function in the ProductController.php file.
+- [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837)	<img alt="forks" src="https://img.shields.io/github/forks/phtcloud-dev/CVE-2024-36837">	<img alt="stars" src="https://img.shields.io/github/stars/phtcloud-dev/CVE-2024-36837">
+
+---
 ## CVE-2024-36821 (2024-06-11T18:15:00)
 > Insecure permissions in Linksys Velop WiFi 5 (WHW01v1) 1.1.13.202617 allows attackers to escalate privileges from Guest to root via a directory traversal.
 - [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821">
