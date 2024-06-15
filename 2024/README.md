@@ -231,6 +231,11 @@
 - [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821">
 
 ---
+## CVE-2024-36416 (2024-06-10T20:15:00)
+> SuiteCRM is an open-source Customer Relationship Management (CRM) software application. Prior to versions 7.14.4 and 8.6.1, a deprecated v4 API example with no log rotation allows denial of service by logging excessive data. Versions 7.14.4 and 8.6.1 contain a fix for this issue.
+- [kva55/CVE-2024-36416](https://github.com/kva55/CVE-2024-36416)	<img alt="forks" src="https://img.shields.io/github/forks/kva55/CVE-2024-36416">	<img alt="stars" src="https://img.shields.io/github/stars/kva55/CVE-2024-36416">
+
+---
 ## CVE-2024-36079 (2024-05-24T22:15:00)
 > An issue was discovered in Vaultize 21.07.27. When uploading files, there is no check that the filename parameter is correct. As a result, a temporary file will be created outside the specified directory when the file is downloaded. To exploit this, an authenticated user would upload a file with an incorrect file name, and then download it.
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">

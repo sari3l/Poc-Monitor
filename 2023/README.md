@@ -3306,6 +3306,7 @@ prior to
 - [4zur-0312/CVE-2023-36802](https://github.com/4zur-0312/CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/4zur-0312/CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/4zur-0312/CVE-2023-36802">
 - [x0rb3l/CVE-2023-36802-MSKSSRV-LPE](https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/x0rb3l/CVE-2023-36802-MSKSSRV-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/x0rb3l/CVE-2023-36802-MSKSSRV-LPE">
 - [Nero22k/cve-2023-36802](https://github.com/Nero22k/cve-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/Nero22k/cve-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/Nero22k/cve-2023-36802">
+- [ISH2YU/CVE-2023-36802](https://github.com/ISH2YU/CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/ISH2YU/CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/ISH2YU/CVE-2023-36802">
 
 ---
 ## CVE-2023-36761 (2023-09-12T17:15:00)
