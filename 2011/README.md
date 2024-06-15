@@ -47,6 +47,8 @@
 - [chleba124/vsftpd-exploit](https://github.com/chleba124/vsftpd-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/chleba124/vsftpd-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/chleba124/vsftpd-exploit">
 - [Yasan-Ransika/CVE-Exploit---2011-2523](https://github.com/Yasan-Ransika/CVE-Exploit---2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Yasan-Ransika/CVE-Exploit---2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Yasan-Ransika/CVE-Exploit---2011-2523">
 - [Shubham-2k1/Exploit-CVE-2011-2523](https://github.com/Shubham-2k1/Exploit-CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Shubham-2k1/Exploit-CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Shubham-2k1/Exploit-CVE-2011-2523">
+- [sug4r-wr41th/CVE-2011-2523](https://github.com/sug4r-wr41th/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2011-2523">
+- [Tenor-Z/SmileySploit](https://github.com/Tenor-Z/SmileySploit)	<img alt="forks" src="https://img.shields.io/github/forks/Tenor-Z/SmileySploit">	<img alt="stars" src="https://img.shields.io/github/stars/Tenor-Z/SmileySploit">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)

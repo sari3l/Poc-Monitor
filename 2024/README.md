@@ -1397,6 +1397,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [huseyinstif/CVE-2024-28995-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-28995-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-28995-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-28995-Nuclei-Template">
 - [ggfzx/CVE-2024-28995](https://github.com/ggfzx/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-28995">
 - [karkis3c/cves](https://github.com/karkis3c/cves)	<img alt="forks" src="https://img.shields.io/github/forks/karkis3c/cves">	<img alt="stars" src="https://img.shields.io/github/stars/karkis3c/cves">
+- [bigb0x/CVE-2024-28995](https://github.com/bigb0x/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-28995">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
