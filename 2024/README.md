@@ -2392,6 +2392,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [WanLiChangChengWanLiChang/CVE-2024-23692-RCE](https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">
 - [vanboomqi/CVE-2024-23692](https://github.com/vanboomqi/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/vanboomqi/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/vanboomqi/CVE-2024-23692">
 - [Mr-r00t11/CVE-2024-23692](https://github.com/Mr-r00t11/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-23692">
+- [Tupler/CVE-2024-23692-exp](https://github.com/Tupler/CVE-2024-23692-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Tupler/CVE-2024-23692-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Tupler/CVE-2024-23692-exp">
 
 ---
 ## CVE-2024-23652 (2024-01-31T22:15:00)
