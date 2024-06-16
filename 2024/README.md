@@ -121,6 +121,7 @@
 - [Sh0ckFR/CVE-2024-4577](https://github.com/Sh0ckFR/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Sh0ckFR/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Sh0ckFR/CVE-2024-4577">
 - [gotr00t0day/CVE-2024-4577](https://github.com/gotr00t0day/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2024-4577">
 - [sug4r-wr41th/CVE-2024-4577](https://github.com/sug4r-wr41th/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2024-4577">
+- [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
