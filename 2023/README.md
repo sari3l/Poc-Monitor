@@ -5925,8 +5925,8 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-23638-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-23638-Tools">
 
 ---
-## CVE-2023-23607 ()
-> 
+## CVE-2023-23607 (2023-01-20T21:15:00)
+> erohtar/Dasherr is a dashboard for self-hosted services. In affected versions unrestricted file upload allows any unauthenticated user to execute arbitrary code on the server. The file /www/include/filesave.php allows for any file to uploaded to anywhere. If an attacker uploads a php file they can execute code on the server. This issue has been addressed in version 1.05.00. Users are advised to upgrade. There are no known workarounds for this issue.
 - [Pylonet/CVE-2023-23607](https://github.com/Pylonet/CVE-2023-23607)	<img alt="forks" src="https://img.shields.io/github/forks/Pylonet/CVE-2023-23607">	<img alt="stars" src="https://img.shields.io/github/stars/Pylonet/CVE-2023-23607">
 
 ---
