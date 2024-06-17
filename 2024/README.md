@@ -2411,6 +2411,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [Mr-r00t11/CVE-2024-23692](https://github.com/Mr-r00t11/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-23692">
 - [Tupler/CVE-2024-23692-exp](https://github.com/Tupler/CVE-2024-23692-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Tupler/CVE-2024-23692-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Tupler/CVE-2024-23692-exp">
 - [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-23692">
+- [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-23692">
 
 ---
 ## CVE-2024-23691 ()
