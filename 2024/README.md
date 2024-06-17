@@ -222,6 +222,11 @@
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
 
 ---
+## CVE-2024-37889 (2024-06-14T20:15:00)
+> MyFinances is a web application for managing finances. MyFinances has a way to access other customer invoices while signed in as a user. This method allows an actor to access PII and financial information from another account. The vulnerability is fixed in 0.4.6.
+- [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889)	<img alt="forks" src="https://img.shields.io/github/forks/uname-s/CVE-2024-37889">	<img alt="stars" src="https://img.shields.io/github/stars/uname-s/CVE-2024-37889">
+
+---
 ## CVE-2024-37393 (2024-06-10T20:15:00)
 > Multiple LDAP injections vulnerabilities exist in SecurEnvoy MFA before 9.4.514 due to improper validation of user-supplied input. An unauthenticated remote attacker could exfiltrate data from Active Directory through blind LDAP injection attacks against the DESKTOP service exposed on the /secserver HTTP endpoint. This may include ms-Mcs-AdmPwd, which has a cleartext password for the Local Administrator Password Solution (LAPS) feature.
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
