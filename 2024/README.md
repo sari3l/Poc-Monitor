@@ -253,8 +253,12 @@
 - [kva55/CVE-2024-36416](https://github.com/kva55/CVE-2024-36416)	<img alt="forks" src="https://img.shields.io/github/forks/kva55/CVE-2024-36416">	<img alt="stars" src="https://img.shields.io/github/stars/kva55/CVE-2024-36416">
 
 ---
-## CVE-2024-36104 ()
-> 
+## CVE-2024-36104 (2024-06-04T08:15:00)
+> Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Apache OFBiz. This issue affects Apache OFBiz: before 18.12.14.
+
+Users are recommended to upgrade to version 18.12.14, which fixes the issue.
+
+
 - [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-36104">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-36104">
 - [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-32113">
 
