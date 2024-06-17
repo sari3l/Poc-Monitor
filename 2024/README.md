@@ -212,8 +212,8 @@
 - [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867)	<img alt="forks" src="https://img.shields.io/github/forks/c4cnm/CVE-2024-3867">	<img alt="stars" src="https://img.shields.io/github/stars/c4cnm/CVE-2024-3867">
 
 ---
-## CVE-2024-38396 ()
-> 
+## CVE-2024-38396 (2024-06-16T21:15:00)
+> An issue was discovered in iTerm2 3.5.x before 3.5.2. Unfiltered use of an escape sequence to report a window title, in combination with the built-in tmux integration feature (enabled by default), allows an attacker to inject arbitrary code into the terminal, a different vulnerability than CVE-2024-38395.
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
