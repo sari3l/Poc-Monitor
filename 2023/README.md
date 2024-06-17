@@ -2668,6 +2668,7 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 - [solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC](https://github.com/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC)	<img alt="forks" src="https://img.shields.io/github/forks/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC">	<img alt="stars" src="https://img.shields.io/github/stars/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC">
 - [youmulijiang/evil-winrar](https://github.com/youmulijiang/evil-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/youmulijiang/evil-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/youmulijiang/evil-winrar">
 - [RomainBayle08/CVE-2023-38831](https://github.com/RomainBayle08/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/RomainBayle08/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/RomainBayle08/CVE-2023-38831">
+- [imbyter/WinRAR_CVE-2023-38831](https://github.com/imbyter/WinRAR_CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/imbyter/WinRAR_CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/imbyter/WinRAR_CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
