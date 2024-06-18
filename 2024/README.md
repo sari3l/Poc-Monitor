@@ -1260,6 +1260,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [N00BS3c/CVE-2024-30078](https://github.com/N00BS3c/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/N00BS3c/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/N00BS3c/CVE-2024-30078">
 - [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/52by/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/52by/CVE-2024-30078">
 - [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kvx07/CVE_2024_30078_A_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kvx07/CVE_2024_30078_A_POC">
+- [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/nkontopoul/checkwifivulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/nkontopoul/checkwifivulnerability">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
