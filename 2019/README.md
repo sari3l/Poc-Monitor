@@ -178,8 +178,8 @@
 - [Live-Hack-CVE/CVE-2019-8813](https://github.com/Live-Hack-CVE/CVE-2019-8813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8813">
 
 ---
-## CVE-2019-8805 ()
-> 
+## CVE-2019-8805 (2019-12-18T18:15:00)
+> A validation issue existed in the entitlement verification. This issue was addressed with improved validation of the process entitlement. This issue is fixed in macOS Catalina 10.15.1. An application may be able to execute arbitrary code with system privileges.
 - [securelayer7/CVE-2019-8805](https://github.com/securelayer7/CVE-2019-8805)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/CVE-2019-8805">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/CVE-2019-8805">
 
 ---
