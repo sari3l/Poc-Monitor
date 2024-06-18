@@ -8857,6 +8857,11 @@
 - [aatharvauti/CVE-2021-0485](https://github.com/aatharvauti/CVE-2021-0485)	<img alt="forks" src="https://img.shields.io/github/forks/aatharvauti/CVE-2021-0485">	<img alt="stars" src="https://img.shields.io/github/stars/aatharvauti/CVE-2021-0485">
 
 ---
+## CVE-2021-0466 (2021-06-11T17:15:00)
+> In startIpClient of ClientModeImpl.java, there is a possible identifier which could be used to track a device. This could lead to remote information disclosure to a proximal attacker, with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-154114734
+- [uthrasri/frameworks_opt_net_CVE-2021-0466](https://github.com/uthrasri/frameworks_opt_net_CVE-2021-0466)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/frameworks_opt_net_CVE-2021-0466">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/frameworks_opt_net_CVE-2021-0466">
+
+---
 ## CVE-2021-0443 (2021-04-13T19:15:00)
 > In several functions of ScreenshotHelper.java and related files, there is a possible incorrectly saved screenshot due to a race condition. This could lead to local information disclosure across user profiles with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-8.1 Android-9 Android-10 Android-11Android ID: A-170474245
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443">
@@ -8876,6 +8881,11 @@
 ## CVE-2021-0392 (2021-03-10T16:15:00)
 > In main of main.cpp, there is a possible memory corruption due to a double free. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-9Android ID: A-175124730
 - [uthrasri/System_Connectivity_Wificond_CVE-2021-0392](https://github.com/uthrasri/System_Connectivity_Wificond_CVE-2021-0392)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">
+
+---
+## CVE-2021-0390 (2021-03-10T16:15:00)
+> In various methods of WifiNetworkSuggestionsManager.java, there is a possible modification of suggested networks due to a missing permission check. This could lead to local escalation of privilege by a background user on the same device with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-174749461
+- [uthrasri/frameworks_opt_net_CVE-2021-0390](https://github.com/uthrasri/frameworks_opt_net_CVE-2021-0390)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/frameworks_opt_net_CVE-2021-0390">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/frameworks_opt_net_CVE-2021-0390">
 
 ---
 ## CVE-2021-0325 (2021-02-10T17:15:00)

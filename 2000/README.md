@@ -5,6 +5,7 @@
 > IIS 4.0 allows remote attackers to obtain the internal IP address of the server via an HTTP 1.0 request for a web page which is protected by basic authentication and has no realm defined.
 - [rafaelh/CVE-2000-0649](https://github.com/rafaelh/CVE-2000-0649)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelh/CVE-2000-0649">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelh/CVE-2000-0649">
 - [stevenvegar/cve-2000-0649](https://github.com/stevenvegar/cve-2000-0649)	<img alt="forks" src="https://img.shields.io/github/forks/stevenvegar/cve-2000-0649">	<img alt="stars" src="https://img.shields.io/github/stars/stevenvegar/cve-2000-0649">
+- [Downgraderz/PoC-CVE-2000-0649](https://github.com/Downgraderz/PoC-CVE-2000-0649)	<img alt="forks" src="https://img.shields.io/github/forks/Downgraderz/PoC-CVE-2000-0649">	<img alt="stars" src="https://img.shields.io/github/stars/Downgraderz/PoC-CVE-2000-0649">
 
 ---
 ## CVE-2000-0220 (2000-02-24T05:00:00)
