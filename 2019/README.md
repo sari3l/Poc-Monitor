@@ -178,6 +178,11 @@
 - [Live-Hack-CVE/CVE-2019-8813](https://github.com/Live-Hack-CVE/CVE-2019-8813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8813">
 
 ---
+## CVE-2019-8805 ()
+> 
+- [securelayer7/CVE-2019-8805](https://github.com/securelayer7/CVE-2019-8805)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/CVE-2019-8805">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/CVE-2019-8805">
+
+---
 ## CVE-2019-8764 (2019-12-18T18:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in watchOS 6.1. Processing maliciously crafted web content may lead to universal cross site scripting.
 - [Live-Hack-CVE/CVE-2019-8764](https://github.com/Live-Hack-CVE/CVE-2019-8764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8764">
@@ -2003,8 +2008,8 @@
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
 
 ---
-## CVE-2019-17133 ()
-> 
+## CVE-2019-17133 (2019-10-04T12:15:00)
+> In the Linux kernel through 5.3.2, cfg80211_mgd_wext_giwessid in net/wireless/wext-sme.c does not reject a long SSID IE, leading to a Buffer Overflow.
 - [krnidhi/linux_4.19.72_CVE-2019-17133](https://github.com/krnidhi/linux_4.19.72_CVE-2019-17133)	<img alt="forks" src="https://img.shields.io/github/forks/krnidhi/linux_4.19.72_CVE-2019-17133">	<img alt="stars" src="https://img.shields.io/github/stars/krnidhi/linux_4.19.72_CVE-2019-17133">
 
 ---
