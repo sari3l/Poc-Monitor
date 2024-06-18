@@ -5182,6 +5182,11 @@
 - [ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416](https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416">
 
 ---
+## CVE-2020-0201 (2020-06-11T15:15:00)
+> In showSecurityFields of WifiConfigController.java there is a possible credential leak due to a confused deputy. This could lead to remote escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-143601727
+- [Trinadh465/packages_apps_Settings_CVE-2020-0201](https://github.com/Trinadh465/packages_apps_Settings_CVE-2020-0201)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/packages_apps_Settings_CVE-2020-0201">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/packages_apps_Settings_CVE-2020-0201">
+
+---
 ## CVE-2020-0198 (2020-06-11T15:15:00)
 > In exif_data_load_data_content of exif-data.c, there is a possible UBSAN abort due to an integer overflow. This could lead to remote denial of service with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-146428941
 - [Live-Hack-CVE/CVE-2020-0198](https://github.com/Live-Hack-CVE/CVE-2020-0198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0198">
