@@ -2003,6 +2003,11 @@
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
 
 ---
+## CVE-2019-17133 ()
+> 
+- [krnidhi/linux_4.19.72_CVE-2019-17133](https://github.com/krnidhi/linux_4.19.72_CVE-2019-17133)	<img alt="forks" src="https://img.shields.io/github/forks/krnidhi/linux_4.19.72_CVE-2019-17133">	<img alt="stars" src="https://img.shields.io/github/stars/krnidhi/linux_4.19.72_CVE-2019-17133">
+
+---
 ## CVE-2019-17060 (2020-02-10T21:51:00)
 > The Bluetooth Low Energy (BLE) stack implementation on the NXP KW41Z (based on the MCUXpresso SDK with Bluetooth Low Energy Driver 2.2.1 and earlier) does not properly restrict the BLE Link Layer header and executes certain memory contents upon receiving a packet with a Link Layer ID (LLID) equal to zero. This allows attackers within radio range to cause deadlocks, cause anomalous behavior in the BLE state machine, or trigger a buffer overflow via a crafted BLE Link Layer frame.
 - [Live-Hack-CVE/CVE-2019-17060](https://github.com/Live-Hack-CVE/CVE-2019-17060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17060">

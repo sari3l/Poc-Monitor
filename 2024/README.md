@@ -1282,6 +1282,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-29824 (2024-05-31T18:15:00)
 > An unspecified SQL Injection vulnerability in Core server of Ivanti EPM 2022 SU5 and prior allows an unauthenticated attacker within the same network to execute arbitrary code.
 - [horizon3ai/CVE-2024-29824](https://github.com/horizon3ai/CVE-2024-29824)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-29824">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-29824">
+- [R4be1/CVE-2024-29824](https://github.com/R4be1/CVE-2024-29824)	<img alt="forks" src="https://img.shields.io/github/forks/R4be1/CVE-2024-29824">	<img alt="stars" src="https://img.shields.io/github/stars/R4be1/CVE-2024-29824">
 
 ---
 ## CVE-2024-2961 (2024-04-17T18:15:00)
@@ -2870,6 +2871,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [KartheekKandalam99/CVE-2024-21413](https://github.com/KartheekKandalam99/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/KartheekKandalam99/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/KartheekKandalam99/CVE-2024-21413">
 - [X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit](https://github.com/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">
 - [th3Hellion/CVE-2024-21413](https://github.com/th3Hellion/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/th3Hellion/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/th3Hellion/CVE-2024-21413">
+- [ShubhamKanhere307/CVE-2024-21413](https://github.com/ShubhamKanhere307/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ShubhamKanhere307/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ShubhamKanhere307/CVE-2024-21413">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)

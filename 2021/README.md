@@ -8819,6 +8819,11 @@
 - [Live-Hack-CVE/CVE-2021-0696](https://github.com/Live-Hack-CVE/CVE-2021-0696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0696">
 
 ---
+## CVE-2021-0602 (2021-07-14T14:15:00)
+> In onCreateOptionsMenu of WifiNetworkDetailsFragment.java, there is a possible way for guest users to view and modify Wi-Fi settings for all configured APs due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11Android ID: A-177573895
+- [uthrasri/Packages_app_settings_CVE-2021-0602](https://github.com/uthrasri/Packages_app_settings_CVE-2021-0602)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Packages_app_settings_CVE-2021-0602">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Packages_app_settings_CVE-2021-0602">
+
+---
 ## CVE-2021-0586 (2021-07-14T14:15:00)
 > In onCreate of DevicePickerFragment.java, there is a possible way to trick the user to select an unwanted bluetooth device due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-182584940
 - [nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Settings_CVE-2021-0586">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Settings_CVE-2021-0586">
@@ -8828,6 +8833,11 @@
 ## CVE-2021-0561 (2021-06-22T11:15:00)
 > In append_to_verify_fifo_interleaved_ of stream_encoder.c, there is a possible out of bounds write due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11Android ID: A-174302683
 - [Live-Hack-CVE/CVE-2021-0561](https://github.com/Live-Hack-CVE/CVE-2021-0561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0561">
+
+---
+## CVE-2021-0523 (2021-06-21T17:15:00)
+> In onCreate of WifiScanModeActivity.java, there is a possible way to enable Wi-Fi scanning without user consent due to a tapjacking/overlay attack. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11Android ID: A-174047492
+- [uthrasri/Packages_app_settings_CVE-2021-0523](https://github.com/uthrasri/Packages_app_settings_CVE-2021-0523)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Packages_app_settings_CVE-2021-0523">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Packages_app_settings_CVE-2021-0523">
 
 ---
 ## CVE-2021-0520 (2021-06-21T17:15:00)
@@ -8861,6 +8871,11 @@
 > In android_os_Parcel_readString8 of android_os_Parcel.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-172655291
 - [Trinadh465/platform_art_CVE-2021-0394](https://github.com/Trinadh465/platform_art_CVE-2021-0394)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_art_CVE-2021-0394">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_art_CVE-2021-0394">
 - [nanopathi/packages_apps_Settings_CVE-2021-0394](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0394)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Settings_CVE-2021-0394">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Settings_CVE-2021-0394">
+
+---
+## CVE-2021-0392 (2021-03-10T16:15:00)
+> In main of main.cpp, there is a possible memory corruption due to a double free. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-9Android ID: A-175124730
+- [uthrasri/System_Connectivity_Wificond_CVE-2021-0392](https://github.com/uthrasri/System_Connectivity_Wificond_CVE-2021-0392)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">
 
 ---
 ## CVE-2021-0325 (2021-02-10T17:15:00)
