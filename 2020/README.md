@@ -1584,6 +1584,11 @@
 - [alexhyd22/CISCO-SSL-VPN](https://github.com/alexhyd22/CISCO-SSL-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/alexhyd22/CISCO-SSL-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/alexhyd22/CISCO-SSL-VPN">
 
 ---
+## CVE-2020-2969 (2020-07-15T18:15:00)
+> Vulnerability in the Data Pump component of Oracle Database Server. Supported versions that are affected are 11.2.0.4, 12.1.0.2, 12.2.0.1, 18c and 19c. Difficult to exploit vulnerability allows high privileged attacker having DBA role account privilege with network access via Oracle Net to compromise Data Pump. Successful attacks of this vulnerability can result in takeover of Data Pump. CVSS 3.1 Base Score 6.6 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H).
+- [emad-almousa/CVE-2020-2969](https://github.com/emad-almousa/CVE-2020-2969)	<img alt="forks" src="https://img.shields.io/github/forks/emad-almousa/CVE-2020-2969">	<img alt="stars" src="https://img.shields.io/github/stars/emad-almousa/CVE-2020-2969">
+
+---
 ## CVE-2020-29659 (2020-12-09T17:15:00)
 > A buffer overflow in the web server of Flexense DupScout Enterprise 10.0.18 allows a remote anonymous attacker to execute code as SYSTEM by overflowing the sid parameter via a GET /settings&sid= attack.
 - [Live-Hack-CVE/CVE-2020-29659](https://github.com/Live-Hack-CVE/CVE-2020-29659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29659">

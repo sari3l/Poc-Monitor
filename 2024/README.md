@@ -21,6 +21,12 @@
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
 
 ---
+## CVE-2024-5899 (2024-06-18T09:15:00)
+> When Bazel Plugin in intellij imports a project (either using "import project" or "Auto import") the dialog for trusting the project is not displayed. This comes from the fact that both call the method ProjectBuilder.createProject which then calls ProjectManager.getInstance().createProject. This method, as its name suggests is intended to create a new project, not to import an existing one. 
+We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLion and Android Studio Bazel plugins.
+- [Huoper/CVE-2024-5899](https://github.com/Huoper/CVE-2024-5899)	<img alt="forks" src="https://img.shields.io/github/forks/Huoper/CVE-2024-5899">	<img alt="stars" src="https://img.shields.io/github/stars/Huoper/CVE-2024-5899">
+
+---
 ## CVE-2024-5555 ()
 > 
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
