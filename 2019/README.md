@@ -2077,6 +2077,11 @@
 - [r00tpgp/http-vuln-CVE-2019-16759](https://github.com/r00tpgp/http-vuln-CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/r00tpgp/http-vuln-CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/r00tpgp/http-vuln-CVE-2019-16759">
 
 ---
+## CVE-2019-16746 (2019-09-24T06:15:00)
+> An issue was discovered in net/wireless/nl80211.c in the Linux kernel through 5.2.17. It does not check the length of variable elements in a beacon head, leading to a buffer overflow.
+- [uthrasri/CVE-2019-16746](https://github.com/uthrasri/CVE-2019-16746)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2019-16746">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2019-16746">
+
+---
 ## CVE-2019-16724 (2019-09-24T21:15:00)
 > File Sharing Wizard 1.5.0 allows a remote attacker to obtain arbitrary code execution by exploiting a Structured Exception Handler (SEH) based buffer overflow in an HTTP POST parameter, a similar issue to CVE-2010-2330 and CVE-2010-2331.
 - [nanabingies/CVE-2019-16724](https://github.com/nanabingies/CVE-2019-16724)	<img alt="forks" src="https://img.shields.io/github/forks/nanabingies/CVE-2019-16724">	<img alt="stars" src="https://img.shields.io/github/stars/nanabingies/CVE-2019-16724">
