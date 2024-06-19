@@ -394,6 +394,11 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2024-34469">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2024-34469">
 
 ---
+## CVE-2024-34452 ()
+> 
+- [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/CVE-2024-34452">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/CVE-2024-34452">
+
+---
 ## CVE-2024-34351 (2024-05-14T15:38:00)
 > Next.js is a React framework that can provide building blocks to create web applications. A Server-Side Request Forgery (SSRF) vulnerability was identified in Next.js Server Actions. If the `Host` header is modified, and the below conditions are also met, an attacker may be able to make requests that appear to be originating from the Next.js application server itself. The required conditions are 1) Next.js is running in a self-hosted manner; 2) the Next.js application makes use of Server Actions; and 3) the Server Action performs a redirect to a relative path which starts with a `/`. This vulnerability was fixed in Next.js `14.1.1`.
 - [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">

@@ -1172,6 +1172,13 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47529">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47529">
 
 ---
+## CVE-2023-47504 (2024-04-24T16:15:00)
+> Improper Authentication vulnerability in Elementor Elementor Website Builder allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Elementor Website Builder: from n/a through 3.16.4.
+
+
+- [davidxbors/CVE-2023-47504-POC](https://github.com/davidxbors/CVE-2023-47504-POC)	<img alt="forks" src="https://img.shields.io/github/forks/davidxbors/CVE-2023-47504-POC">	<img alt="stars" src="https://img.shields.io/github/stars/davidxbors/CVE-2023-47504-POC">
+
+---
 ## CVE-2023-47489 (2023-11-09T06:15:00)
 > CSV injection in export as csv in Combodo iTop v.3.1.0-2-11973 allows a local attacker to execute arbitrary code via a crafted script to the export-v2.php and ajax.render.php components.
 - [nitipoom-jar/CVE-2023-47489](https://github.com/nitipoom-jar/CVE-2023-47489)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47489">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47489">
