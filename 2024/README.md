@@ -1296,6 +1296,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 > ** UNSUPPORTED WHEN ASSIGNED **
 The command injection vulnerability in the “setCookie” parameter in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.
 - [momika233/CVE-2024-29973](https://github.com/momika233/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-29973">
+- [bigb0x/CVE-2024-29973](https://github.com/bigb0x/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-29973">
 
 ---
 ## CVE-2024-29895 (2024-05-14T15:17:00)
