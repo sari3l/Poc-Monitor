@@ -398,6 +398,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34470">
 - [bigb0x/CVE-2024-34470](https://github.com/bigb0x/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34470">
 - [Cappricio-Securities/CVE-2024-34470](https://github.com/Cappricio-Securities/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-34470">
+- [Mr-r00t11/CVE-2024-34470](https://github.com/Mr-r00t11/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-34470">
 
 ---
 ## CVE-2024-34469 (2024-05-04T20:15:00)
@@ -1664,6 +1665,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [itzheartzz/MASS-CVE-2024-27956](https://github.com/itzheartzz/MASS-CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/itzheartzz/MASS-CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/itzheartzz/MASS-CVE-2024-27956">
 - [TadashiJei/Valve-Press-CVE-2024-27956-RCE](https://github.com/TadashiJei/Valve-Press-CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TadashiJei/Valve-Press-CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TadashiJei/Valve-Press-CVE-2024-27956-RCE">
 - [cve-2024/CVE-2024-27956-RCE](https://github.com/cve-2024/CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-27956-RCE">
+
+---
+## CVE-2024-27815 (2024-06-10T21:15:00)
+> An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in tvOS 17.5, visionOS 1.2, iOS 17.5 and iPadOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
+- [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2024-27815">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2024-27815">
 
 ---
 ## CVE-2024-27804 (2024-05-14T15:13:00)
