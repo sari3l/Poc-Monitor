@@ -270,6 +270,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
 
 ---
+## CVE-2024-37079 (2024-06-18T06:15:00)
+> vCenter Server contains a heap-overflow vulnerability in the implementation of the DCERPC protocol. A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a specially crafted network packet potentially leading to remote code execution.
+- [v3rce/CVE-2024-37079-RCE-POC](https://github.com/v3rce/CVE-2024-37079-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v3rce/CVE-2024-37079-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v3rce/CVE-2024-37079-RCE-POC">
+
+---
 ## CVE-2024-37051 (2024-06-10T16:15:00)
 > GitHub access token could be exposed to third-party sites in JetBrains IDEs after version 2023.1 and less than: IntelliJ IDEA 2023.1.7, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP3; Aqua 2024.1.2; CLion 2023.1.7, 2023.2.4, 2023.3.5, 2024.1.3, 2024.2 EAP2; DataGrip 2023.1.3, 2023.2.4, 2023.3.5, 2024.1.4; DataSpell 2023.1.6, 2023.2.7, 2023.3.6, 2024.1.2, 2024.2 EAP1; GoLand 2023.1.6, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP3; MPS 2023.2.1, 2023.3.1, 2024.1 EAP2; PhpStorm 2023.1.6, 2023.2.6, 2023.3.7, 2024.1.3, 2024.2 EAP3; PyCharm 2023.1.6, 2023.2.7, 2023.3.6, 2024.1.3, 2024.2 EAP2; Rider 2023.1.7, 2023.2.5, 2023.3.6, 2024.1.3; RubyMine 2023.1.7, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP4; RustRover 2024.1.1; WebStorm 2023.1.6, 2023.2.7, 2023.3.7, 2024.1.4
 - [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/LeadroyaL/CVE-2024-37051-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/LeadroyaL/CVE-2024-37051-EXP">
