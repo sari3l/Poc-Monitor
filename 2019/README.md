@@ -592,6 +592,11 @@
 - [g0rx/Drupal-SA-CORE-2019-003](https://github.com/g0rx/Drupal-SA-CORE-2019-003)	<img alt="forks" src="https://img.shields.io/github/forks/g0rx/Drupal-SA-CORE-2019-003">	<img alt="stars" src="https://img.shields.io/github/stars/g0rx/Drupal-SA-CORE-2019-003">
 
 ---
+## CVE-2019-6250 (2019-01-13T15:29:00)
+> A pointer overflow, with code execution, was discovered in ZeroMQ libzmq (aka 0MQ) 4.2.x and 4.3.x before 4.3.1. A v2_decoder.cpp zmq::v2_decoder_t::size_ready integer overflow allows an authenticated attacker to overwrite an arbitrary amount of bytes beyond the bounds of a buffer, which can be leveraged to run arbitrary code on the target system. The memory layout allows the attacker to inject OS commands into a data structure located immediately after the problematic buffer (i.e., it is not necessary to use a typical buffer-overflow exploitation technique that changes the flow of control).
+- [AkashicYiTai/CVE-2019-6250-libzmq](https://github.com/AkashicYiTai/CVE-2019-6250-libzmq)	<img alt="forks" src="https://img.shields.io/github/forks/AkashicYiTai/CVE-2019-6250-libzmq">	<img alt="stars" src="https://img.shields.io/github/stars/AkashicYiTai/CVE-2019-6250-libzmq">
+
+---
 ## CVE-2019-6182 (2019-09-03T19:15:00)
 > A stored CSV Injection vulnerability was reported in Lenovo XClarity Administrator (LXCA) versions prior to 2.5.0 that could allow an administrative user to store malformed data in LXCA Jobs and Event Log data, that could result in crafted formulas stored in an exported CSV file. The crafted formula is not executed on LXCA itself.
 - [Live-Hack-CVE/CVE-2019-6182](https://github.com/Live-Hack-CVE/CVE-2019-6182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6182">
