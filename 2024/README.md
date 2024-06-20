@@ -768,6 +768,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [tobelight/cve_2024_32002_hook](https://github.com/tobelight/cve_2024_32002_hook)	<img alt="forks" src="https://img.shields.io/github/forks/tobelight/cve_2024_32002_hook">	<img alt="stars" src="https://img.shields.io/github/stars/tobelight/cve_2024_32002_hook">
 - [431m/rcetest](https://github.com/431m/rcetest)	<img alt="forks" src="https://img.shields.io/github/forks/431m/rcetest">	<img alt="stars" src="https://img.shields.io/github/stars/431m/rcetest">
 - [alimuhammedkose/CVE-2024-32002-linux-smash](https://github.com/alimuhammedkose/CVE-2024-32002-linux-smash)	<img alt="forks" src="https://img.shields.io/github/forks/alimuhammedkose/CVE-2024-32002-linux-smash">	<img alt="stars" src="https://img.shields.io/github/stars/alimuhammedkose/CVE-2024-32002-linux-smash">
+- [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/bonnettheo/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/bonnettheo/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
