@@ -1577,8 +1577,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [heshi906/CVE-2024-28515](https://github.com/heshi906/CVE-2024-28515)	<img alt="forks" src="https://img.shields.io/github/forks/heshi906/CVE-2024-28515">	<img alt="stars" src="https://img.shields.io/github/stars/heshi906/CVE-2024-28515">
 
 ---
-## CVE-2024-28397 ()
-> 
+## CVE-2024-28397 (2024-06-20T17:15:00)
+> An issue in the component js2py.disable_pyimport() of js2py up to v0.74 allows attackers to execute arbitrary code via a crafted API call.
 - [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-28397">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-28397">
 - [Marven11/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-28397-js2py-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-28397-js2py-Sandbox-Escape">
 
