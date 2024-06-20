@@ -32,8 +32,8 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
 
 ---
-## CVE-2024-5522 ()
-> 
+## CVE-2024-5522 (2024-06-20T06:15:00)
+> The HTML5 Video Player  WordPress plugin before 2.5.27 does not sanitize and escape a parameter from a REST route before using it in a SQL statement, allowing unauthenticated users to perform SQL injection attacks
 - [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5522-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5522-Poc">
 
 ---
@@ -1318,6 +1318,12 @@ The command injection vulnerability in the “setCookie” parameter in Zyxel NA
 - [momika233/CVE-2024-29973](https://github.com/momika233/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-29973">
 - [bigb0x/CVE-2024-29973](https://github.com/bigb0x/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-29973">
 - [k3lpi3b4nsh33/CVE-2024-29973](https://github.com/k3lpi3b4nsh33/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-29973">
+
+---
+## CVE-2024-29972 (2024-06-04T02:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED **
+The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.
+- [WanLiChangChengWanLiChang/CVE-2024-29972](https://github.com/WanLiChangChengWanLiChang/CVE-2024-29972)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-29972">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-29972">
 
 ---
 ## CVE-2024-29895 (2024-05-14T15:17:00)
