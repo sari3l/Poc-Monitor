@@ -1286,6 +1286,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kvx07/CVE_2024_30078_A_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kvx07/CVE_2024_30078_A_POC">
 - [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/nkontopoul/checkwifivulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/nkontopoul/checkwifivulnerability">
 - [sbroker-dev/cve-2024-30078](https://github.com/sbroker-dev/cve-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/sbroker-dev/cve-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/sbroker-dev/cve-2024-30078">
+- [blkph0x/CVE_2024_30078_POC_WIFI](https://github.com/blkph0x/CVE_2024_30078_POC_WIFI)	<img alt="forks" src="https://img.shields.io/github/forks/blkph0x/CVE_2024_30078_POC_WIFI">	<img alt="stars" src="https://img.shields.io/github/stars/blkph0x/CVE_2024_30078_POC_WIFI">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
