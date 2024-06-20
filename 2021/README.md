@@ -1075,6 +1075,8 @@
 - [K3ysTr0K3R/CVE-2021-43798-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-43798-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-43798-EXPLOIT">
 - [ticofookfook/CVE-2021-43798](https://github.com/ticofookfook/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2021-43798">
 - [topyagyuu/CVE-2021-43798](https://github.com/topyagyuu/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/topyagyuu/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/topyagyuu/CVE-2021-43798">
+- [MalekAlthubiany/CVE-2021-43798](https://github.com/MalekAlthubiany/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/MalekAlthubiany/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/MalekAlthubiany/CVE-2021-43798">
+- [xchg-rax-rax/CVE-2021-43798](https://github.com/xchg-rax-rax/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/xchg-rax-rax/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/xchg-rax-rax/CVE-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
