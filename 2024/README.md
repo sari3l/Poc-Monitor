@@ -2121,6 +2121,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [xffsec/CVE-2024-24590-ClearML-RCE](https://github.com/xffsec/CVE-2024-24590-ClearML-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/xffsec/CVE-2024-24590-ClearML-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/xffsec/CVE-2024-24590-ClearML-RCE">
 - [xffsec/CVE-2024-24590-ClearML-RCE-Exploit](https://github.com/xffsec/CVE-2024-24590-ClearML-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">
 - [diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC](https://github.com/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC)	<img alt="forks" src="https://img.shields.io/github/forks/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC">	<img alt="stars" src="https://img.shields.io/github/stars/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC">
+- [junnythemarksman/CVE-2024-24590](https://github.com/junnythemarksman/CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2024-24590">
 
 ---
 ## CVE-2024-24576 (2024-04-09T18:15:00)
