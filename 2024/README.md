@@ -392,6 +392,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 > An issue was discovered in HSC Mailinspector 5.2.17-3 through v.5.2.18. An Unauthenticated Path Traversal vulnerability exists in the /public/loader.php file. The path parameter does not properly filter whether the file and directory passed are part of the webroot, allowing an attacker to read arbitrary files on the server.
 - [osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34470">
 - [bigb0x/CVE-2024-34470](https://github.com/bigb0x/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34470">
+- [Cappricio-Securities/CVE-2024-34470](https://github.com/Cappricio-Securities/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-34470">
 
 ---
 ## CVE-2024-34469 (2024-05-04T20:15:00)
@@ -1309,6 +1310,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 The command injection vulnerability in the “setCookie” parameter in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.
 - [momika233/CVE-2024-29973](https://github.com/momika233/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-29973">
 - [bigb0x/CVE-2024-29973](https://github.com/bigb0x/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-29973">
+- [k3lpi3b4nsh33/CVE-2024-29973](https://github.com/k3lpi3b4nsh33/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-29973">
 
 ---
 ## CVE-2024-29895 (2024-05-14T15:17:00)
@@ -2810,6 +2812,7 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/multicheck_CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/multicheck_CVE-2024-21762">
 - [zzcentury/FortiGate-CVE-2024-21762](https://github.com/zzcentury/FortiGate-CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/zzcentury/FortiGate-CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/zzcentury/FortiGate-CVE-2024-21762">
 - [Codeb3af/Cve-2024-21762-](https://github.com/Codeb3af/Cve-2024-21762-)	<img alt="forks" src="https://img.shields.io/github/forks/Codeb3af/Cve-2024-21762-">	<img alt="stars" src="https://img.shields.io/github/stars/Codeb3af/Cve-2024-21762-">
+- [rdoix/cve-2024-21762-checker](https://github.com/rdoix/cve-2024-21762-checker)	<img alt="forks" src="https://img.shields.io/github/forks/rdoix/cve-2024-21762-checker">	<img alt="stars" src="https://img.shields.io/github/stars/rdoix/cve-2024-21762-checker">
 
 ---
 ## CVE-2024-21683 (2024-05-21T23:15:00)
