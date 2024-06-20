@@ -5111,6 +5111,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [hheeyywweellccoommee/CVE-2023-2825-zaskh](https://github.com/hheeyywweellccoommee/CVE-2023-2825-zaskh)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2825-zaskh">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2825-zaskh">
 - [caopengyan/CVE-2023-2825](https://github.com/caopengyan/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/caopengyan/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/caopengyan/CVE-2023-2825">
 - [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2023-28252">
+- [cc3305/CVE-2023-2825](https://github.com/cc3305/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2023-2825">
 
 ---
 ## CVE-2023-28244 (2023-04-11T21:15:00)
