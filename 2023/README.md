@@ -2827,8 +2827,8 @@ URL that curl has been told to operate with.
 - [classic130/CVE-2023-38408](https://github.com/classic130/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/classic130/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/classic130/CVE-2023-38408">
 
 ---
-## CVE-2023-38389 ()
-> 
+## CVE-2023-38389 (2024-06-21T16:15:00)
+> Incorrect Authorization vulnerability in Artbees JupiterX Core allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects JupiterX Core: from n/a through 3.3.8.
 - [codeb0ss/CVE-2023-38389-PoC](https://github.com/codeb0ss/CVE-2023-38389-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-38389-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-38389-PoC">
 
 ---
