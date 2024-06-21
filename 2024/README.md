@@ -265,6 +265,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
+## CVE-2024-37742 ()
+> 
+- [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742)	<img alt="forks" src="https://img.shields.io/github/forks/Eteblue/CVE-2024-37742">	<img alt="stars" src="https://img.shields.io/github/stars/Eteblue/CVE-2024-37742">
+
+---
 ## CVE-2024-37393 (2024-06-10T20:15:00)
 > Multiple LDAP injections vulnerabilities exist in SecurEnvoy MFA before 9.4.514 due to improper validation of user-supplied input. An unauthenticated remote attacker could exfiltrate data from Active Directory through blind LDAP injection attacks against the DESKTOP service exposed on the /secserver HTTP endpoint. This may include ms-Mcs-AdmPwd, which has a cleartext password for the Local Administrator Password Solution (LAPS) feature.
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
