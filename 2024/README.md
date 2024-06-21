@@ -163,6 +163,9 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [avalahEE/pdfjs_disable_eval](https://github.com/avalahEE/pdfjs_disable_eval)	<img alt="forks" src="https://img.shields.io/github/forks/avalahEE/pdfjs_disable_eval">	<img alt="stars" src="https://img.shields.io/github/stars/avalahEE/pdfjs_disable_eval">
 - [clarkio/pdfjs-vuln-demo](https://github.com/clarkio/pdfjs-vuln-demo)	<img alt="forks" src="https://img.shields.io/github/forks/clarkio/pdfjs-vuln-demo">	<img alt="stars" src="https://img.shields.io/github/stars/clarkio/pdfjs-vuln-demo">
 - [Zombie-Kaiser/cve-2024-4367-PoC-fixed](https://github.com/Zombie-Kaiser/cve-2024-4367-PoC-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/cve-2024-4367-PoC-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/cve-2024-4367-PoC-fixed">
+- [Scivous/CVE-2024-4367-npm](https://github.com/Scivous/CVE-2024-4367-npm)	<img alt="forks" src="https://img.shields.io/github/forks/Scivous/CVE-2024-4367-npm">	<img alt="stars" src="https://img.shields.io/github/stars/Scivous/CVE-2024-4367-npm">
+- [UnHackerEnCapital/PDFernetRemotelo](https://github.com/UnHackerEnCapital/PDFernetRemotelo)	<img alt="forks" src="https://img.shields.io/github/forks/UnHackerEnCapital/PDFernetRemotelo">	<img alt="stars" src="https://img.shields.io/github/stars/UnHackerEnCapital/PDFernetRemotelo">
+- [snyk-labs/pdfjs-vuln-demo](https://github.com/snyk-labs/pdfjs-vuln-demo)	<img alt="forks" src="https://img.shields.io/github/forks/snyk-labs/pdfjs-vuln-demo">	<img alt="stars" src="https://img.shields.io/github/stars/snyk-labs/pdfjs-vuln-demo">
 
 ---
 ## CVE-2024-4358 (2024-05-29T15:16:00)
