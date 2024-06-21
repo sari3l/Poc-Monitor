@@ -265,6 +265,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
+## CVE-2024-37759 ()
+> 
+- [crumbledwall/CVE-2024-37759_PoC](https://github.com/crumbledwall/CVE-2024-37759_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/crumbledwall/CVE-2024-37759_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/crumbledwall/CVE-2024-37759_PoC">
+
+---
 ## CVE-2024-37742 ()
 > 
 - [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742)	<img alt="forks" src="https://img.shields.io/github/forks/Eteblue/CVE-2024-37742">	<img alt="stars" src="https://img.shields.io/github/stars/Eteblue/CVE-2024-37742">
