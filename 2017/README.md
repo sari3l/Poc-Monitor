@@ -303,6 +303,7 @@
 - [denchief1/CVE-2017-7269](https://github.com/denchief1/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/denchief1/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/denchief1/CVE-2017-7269">
 - [Therootkitsec/-CVE-2017-7269](https://github.com/Therootkitsec/-CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/Therootkitsec/-CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/Therootkitsec/-CVE-2017-7269">
 - [Cappricio-Securities/CVE-2017-7269](https://github.com/Cappricio-Securities/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2017-7269">
+- [OmarSuarezDoro/CVE-2017-7269](https://github.com/OmarSuarezDoro/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/OmarSuarezDoro/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/OmarSuarezDoro/CVE-2017-7269">
 
 ---
 ## CVE-2017-6074 (2017-02-18T21:59:00)
