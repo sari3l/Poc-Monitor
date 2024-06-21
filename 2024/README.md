@@ -1294,6 +1294,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-30491-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-30491-Poc">
 
 ---
+## CVE-2024-30270 ()
+> 
+- [Alchemist3dot14/CVE-2024-30270-PoC](https://github.com/Alchemist3dot14/CVE-2024-30270-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-30270-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-30270-PoC">
+
+---
 ## CVE-2024-30078 (2024-06-11T17:15:00)
 > Windows Wi-Fi Driver Remote Code Execution Vulnerability
 - [alperenugurlu/CVE-2024-30078-](https://github.com/alperenugurlu/CVE-2024-30078-)	<img alt="forks" src="https://img.shields.io/github/forks/alperenugurlu/CVE-2024-30078-">	<img alt="stars" src="https://img.shields.io/github/stars/alperenugurlu/CVE-2024-30078-">

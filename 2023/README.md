@@ -159,7 +159,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 > Use After Free vulnerability in Arm Ltd Midgard GPU Kernel Driver, Arm Ltd Bifrost GPU Kernel Driver, Arm Ltd Valhall GPU Kernel Driver, Arm Ltd Arm 5th Gen GPU Architecture Kernel Driver allows a local non-privileged user to exploit a software race condition to perform improper memory processing operations. If the system’s memory is carefully prepared by the user, then this in turn cause a use-after-free.This issue affects Midgard GPU Kernel Driver: from r13p0 through r32p0; Bifrost GPU Kernel Driver: from r11p0 through r25p0; Valhall GPU Kernel Driver: from r19p0 through r25p0, from r29p0 through r46p0; Arm 5th Gen GPU Architecture Kernel Driver: from r41p0 through r46p0.
 
 
-- [SmileTabLabo/CVE-2023-6241](https://github.com/SmileTabLabo/CVE-2023-6241)	<img alt="forks" src="https://img.shields.io/github/forks/SmileTabLabo/CVE-2023-6241">	<img alt="stars" src="https://img.shields.io/github/stars/SmileTabLabo/CVE-2023-6241">
+- [s1204IT/CVE-2023-6241](https://github.com/s1204IT/CVE-2023-6241)	<img alt="forks" src="https://img.shields.io/github/forks/s1204IT/CVE-2023-6241">	<img alt="stars" src="https://img.shields.io/github/stars/s1204IT/CVE-2023-6241">
 
 ---
 ## CVE-2023-6063 ()
