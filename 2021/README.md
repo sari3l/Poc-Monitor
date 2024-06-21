@@ -5735,6 +5735,7 @@
 - [mind2hex/CVE-2021-31630](https://github.com/mind2hex/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2021-31630">
 - [sealldeveloper/CVE-2021-31630-PoC](https://github.com/sealldeveloper/CVE-2021-31630-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sealldeveloper/CVE-2021-31630-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sealldeveloper/CVE-2021-31630-PoC">
 - [junnythemarksman/CVE-2021-31630](https://github.com/junnythemarksman/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2021-31630">
+- [adibabdala123/cve-2021-31630](https://github.com/adibabdala123/cve-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/adibabdala123/cve-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/adibabdala123/cve-2021-31630">
 
 ---
 ## CVE-2021-31589 (2022-01-05T12:15:00)

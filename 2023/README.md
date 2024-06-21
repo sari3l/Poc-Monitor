@@ -1576,8 +1576,8 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [Eason-zz/BluetoothDucky](https://github.com/Eason-zz/BluetoothDucky)	<img alt="forks" src="https://img.shields.io/github/forks/Eason-zz/BluetoothDucky">	<img alt="stars" src="https://img.shields.io/github/stars/Eason-zz/BluetoothDucky">
 
 ---
-## CVE-2023-45857 ()
-> 
+## CVE-2023-45857 (2023-11-08T21:15:00)
+> An issue discovered in Axios 1.5.1 inadvertently reveals the confidential XSRF-TOKEN stored in cookies by including it in the HTTP header X-XSRF-TOKEN for every request made to any host allowing attackers to view sensitive information.
 - [valentin-panov/CVE-2023-45857](https://github.com/valentin-panov/CVE-2023-45857)	<img alt="forks" src="https://img.shields.io/github/forks/valentin-panov/CVE-2023-45857">	<img alt="stars" src="https://img.shields.io/github/stars/valentin-panov/CVE-2023-45857">
 - [intercept6/CVE-2023-45857-Demo](https://github.com/intercept6/CVE-2023-45857-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/intercept6/CVE-2023-45857-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/intercept6/CVE-2023-45857-Demo">
 - [fuyuooumi1027/CVE-2023-45857-Demo](https://github.com/fuyuooumi1027/CVE-2023-45857-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/fuyuooumi1027/CVE-2023-45857-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/fuyuooumi1027/CVE-2023-45857-Demo">
