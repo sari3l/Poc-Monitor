@@ -6026,6 +6026,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [emanueldosreis/nmap-CVE-2023-23333-exploit](https://github.com/emanueldosreis/nmap-CVE-2023-23333-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/nmap-CVE-2023-23333-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/nmap-CVE-2023-23333-exploit">
 - [WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333](https://github.com/WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
+- [binaryusergearone/SolarView-Compact-6.00-Command-Injection-Exploit-CVE-2023-23333-](https://github.com/binaryusergearone/SolarView-Compact-6.00-Command-Injection-Exploit-CVE-2023-23333-)	<img alt="forks" src="https://img.shields.io/github/forks/binaryusergearone/SolarView-Compact-6.00-Command-Injection-Exploit-CVE-2023-23333-">	<img alt="stars" src="https://img.shields.io/github/stars/binaryusergearone/SolarView-Compact-6.00-Command-Injection-Exploit-CVE-2023-23333-">
 
 ---
 ## CVE-2023-2333 (2023-07-04T08:15:00)
