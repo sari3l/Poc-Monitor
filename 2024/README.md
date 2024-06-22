@@ -1512,6 +1512,11 @@ The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxe
 - [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mansploit/CVE-2024-29194-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mansploit/CVE-2024-29194-POC">
 
 ---
+## CVE-2024-28999 (2024-06-04T15:15:00)
+> The SolarWinds Platform was determined to be affected by a Race Condition Vulnerability affecting the web console. 
+- [HussainFathy/CVE-2024-28999](https://github.com/HussainFathy/CVE-2024-28999)	<img alt="forks" src="https://img.shields.io/github/forks/HussainFathy/CVE-2024-28999">	<img alt="stars" src="https://img.shields.io/github/stars/HussainFathy/CVE-2024-28999">
+
+---
 ## CVE-2024-28995 (2024-06-06T09:15:00)
 > 
 
