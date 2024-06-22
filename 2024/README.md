@@ -790,6 +790,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/bonnettheo/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/bonnettheo/CVE-2024-32002">
 
 ---
+## CVE-2024-31982 (2024-04-10T20:15:00)
+> XWiki Platform is a generic wiki platform. Starting in version 2.4-milestone-1 and prior to versions 4.10.20, 15.5.4, and 15.10-rc-1, XWiki's database search allows remote code execution through the search text. This allows remote code execution for any visitor of a public wiki or user of a closed wiki as the database search is by default accessible for all users. This impacts the confidentiality, integrity and availability of the whole XWiki installation. This vulnerability has been patched in XWiki 14.10.20, 15.5.4 and 15.10RC1. As a workaround, one may manually apply the patch to the page `Main.DatabaseSearch`. Alternatively, unless database search is explicitly used by users, this page can be deleted as this is not the default search interface of XWiki.
+- [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-31982">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-31982">
+
+---
 ## CVE-2024-31848 ()
 > 
 - [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC">
