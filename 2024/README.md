@@ -419,8 +419,8 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2024-34469">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2024-34469">
 
 ---
-## CVE-2024-34452 ()
-> 
+## CVE-2024-34452 (2024-06-21T22:15:00)
+> CMSimple_XH 1.7.6 allows XSS by uploading a crafted SVG document.
 - [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/CVE-2024-34452">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/CVE-2024-34452">
 
 ---
