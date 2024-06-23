@@ -5761,6 +5761,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [AndreOve/CVE-2023-24955-real-RCE](https://github.com/AndreOve/CVE-2023-24955-real-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AndreOve/CVE-2023-24955-real-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AndreOve/CVE-2023-24955-real-RCE">
 
 ---
+## CVE-2023-24871 (2023-03-14T17:15:00)
+> Windows Bluetooth Service Remote Code Execution Vulnerability
+- [ynwarcs/CVE-2023-24871](https://github.com/ynwarcs/CVE-2023-24871)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2023-24871">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2023-24871">
+
+---
 ## CVE-2023-24775 (2023-03-07T18:15:00)
 > Funadmin v3.2.0 was discovered to contain a SQL injection vulnerability via the selectFields parameter at \member\Member.php.
 - [csffs/CVE-2023-24775-and-CVE-2023-24780](https://github.com/csffs/CVE-2023-24775-and-CVE-2023-24780)	<img alt="forks" src="https://img.shields.io/github/forks/csffs/CVE-2023-24775-and-CVE-2023-24780">	<img alt="stars" src="https://img.shields.io/github/stars/csffs/CVE-2023-24775-and-CVE-2023-24780">
@@ -6016,6 +6021,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-23396 (2023-03-14T17:15:00)
 > Microsoft Excel Denial of Service Vulnerability
 - [LucaBarile/CVE-2023-23396](https://github.com/LucaBarile/CVE-2023-23396)	<img alt="forks" src="https://img.shields.io/github/forks/LucaBarile/CVE-2023-23396">	<img alt="stars" src="https://img.shields.io/github/stars/LucaBarile/CVE-2023-23396">
+
+---
+## CVE-2023-23388 (2023-03-14T17:15:00)
+> Windows Bluetooth Driver Elevation of Privilege Vulnerability
+- [ynwarcs/CVE-2023-23388](https://github.com/ynwarcs/CVE-2023-23388)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2023-23388">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2023-23388">
 
 ---
 ## CVE-2023-23333 (2023-02-06T22:15:00)
