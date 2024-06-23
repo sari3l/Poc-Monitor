@@ -66,8 +66,8 @@
 - [OracleNep/CVE-2019-9670-DtdFilegeneration](https://github.com/OracleNep/CVE-2019-9670-DtdFilegeneration)	<img alt="forks" src="https://img.shields.io/github/forks/OracleNep/CVE-2019-9670-DtdFilegeneration">	<img alt="stars" src="https://img.shields.io/github/stars/OracleNep/CVE-2019-9670-DtdFilegeneration">
 
 ---
-## CVE-2019-9641 ()
-> 
+## CVE-2019-9641 (2019-03-09T00:29:00)
+> An issue was discovered in the EXIF component in PHP before 7.1.27, 7.2.x before 7.2.16, and 7.3.x before 7.3.3. There is an uninitialized read in exif_process_IFD_in_TIFF.
 - [Schnaidr/CVE-2019-9641-php-RCE](https://github.com/Schnaidr/CVE-2019-9641-php-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Schnaidr/CVE-2019-9641-php-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Schnaidr/CVE-2019-9641-php-RCE">
 
 ---
