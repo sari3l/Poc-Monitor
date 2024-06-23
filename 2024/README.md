@@ -437,6 +437,16 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
 
 ---
+## CVE-2024-34313 ()
+> 
+- [vincentscode/CVE-2024-34313](https://github.com/vincentscode/CVE-2024-34313)	<img alt="forks" src="https://img.shields.io/github/forks/vincentscode/CVE-2024-34313">	<img alt="stars" src="https://img.shields.io/github/stars/vincentscode/CVE-2024-34313">
+
+---
+## CVE-2024-34312 ()
+> 
+- [vincentscode/CVE-2024-34312](https://github.com/vincentscode/CVE-2024-34312)	<img alt="forks" src="https://img.shields.io/github/forks/vincentscode/CVE-2024-34312">	<img alt="stars" src="https://img.shields.io/github/stars/vincentscode/CVE-2024-34312">
+
+---
 ## CVE-2024-34310 (2024-05-14T15:38:00)
 > Jin Fang Times Content Management System v3.2.3 was discovered to contain a SQL injection vulnerability via the id parameter.
 - [3309899621/CVE-2024-34310](https://github.com/3309899621/CVE-2024-34310)	<img alt="forks" src="https://img.shields.io/github/forks/3309899621/CVE-2024-34310">	<img alt="stars" src="https://img.shields.io/github/stars/3309899621/CVE-2024-34310">
