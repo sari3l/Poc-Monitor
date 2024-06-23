@@ -66,6 +66,11 @@
 - [OracleNep/CVE-2019-9670-DtdFilegeneration](https://github.com/OracleNep/CVE-2019-9670-DtdFilegeneration)	<img alt="forks" src="https://img.shields.io/github/forks/OracleNep/CVE-2019-9670-DtdFilegeneration">	<img alt="stars" src="https://img.shields.io/github/stars/OracleNep/CVE-2019-9670-DtdFilegeneration">
 
 ---
+## CVE-2019-9641 ()
+> 
+- [Schnaidr/CVE-2019-9641-php-RCE](https://github.com/Schnaidr/CVE-2019-9641-php-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Schnaidr/CVE-2019-9641-php-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Schnaidr/CVE-2019-9641-php-RCE">
+
+---
 ## CVE-2019-9634 (2019-03-08T15:29:00)
 > Go through 1.12 on Windows misuses certain LoadLibrary functionality, leading to DLL injection.
 - [Live-Hack-CVE/CVE-2019-9634](https://github.com/Live-Hack-CVE/CVE-2019-9634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9634">
