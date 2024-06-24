@@ -131,6 +131,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [VictorShem/CVE-2024-4577](https://github.com/VictorShem/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/VictorShem/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/VictorShem/CVE-2024-4577">
 - [jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE](https://github.com/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">
 - [amandineVdw/CVE-2024-4577](https://github.com/amandineVdw/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/amandineVdw/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/amandineVdw/CVE-2024-4577">
+- [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend)	<img alt="forks" src="https://img.shields.io/github/forks/PhinehasNarh/CVE-2024-4577-Defend">	<img alt="stars" src="https://img.shields.io/github/stars/PhinehasNarh/CVE-2024-4577-Defend">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -706,6 +707,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-32113">
 
 ---
+## CVE-2024-32030 (2024-06-19T17:15:00)
+> Kafka UI is an Open-Source Web UI for Apache Kafka Management. Kafka UI API allows users to connect to different Kafka brokers by specifying their network address and port. As a separate feature, it also provides the ability to monitor the performance of Kafka brokers by connecting to their JMX ports. JMX is based on the RMI protocol, so it is inherently susceptible to deserialization attacks. A potential attacker can exploit this feature by connecting Kafka UI backend to its own malicious broker. This vulnerability affects the deployments where one of the following occurs: 1. dynamic.config.enabled property is set in settings. It's not enabled by default, but it's suggested to be enabled in many tutorials for Kafka UI, including its own README.md. OR  2. an attacker has access to the Kafka cluster that is being connected to Kafka UI. In this scenario the attacker can exploit this vulnerability to expand their access and execute code on Kafka UI as well. Instead of setting up a legitimate JMX port, an attacker can create an RMI listener that returns a malicious serialized object for any RMI call. In the worst case it could lead to remote code execution as Kafka UI has the required gadget chains in its classpath. This issue may lead to post-auth remote code execution. This is particularly dangerous as Kafka-UI does not have authentication enabled by default. This issue has been addressed in version 0.7.2. All users are advised to upgrade. There are no known workarounds for this vulnerability. These issues were discovered and reported by the GitHub Security lab and is also tracked as GHSL-2023-230.
+- [huseyinstif/CVE-2024-32030-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-32030-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-32030-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-32030-Nuclei-Template">
+
+---
 ## CVE-2024-32004 (2024-05-14T19:15:00)
 > Git is a revision control system. Prior to versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4, an attacker can prepare a local repository in such a way that, when cloned, will execute arbitrary code during the operation. The problem has been patched in versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4. As a workaround, avoid cloning repositories from untrusted sources.
 - [Wadewfsssss/CVE-2024-32004](https://github.com/Wadewfsssss/CVE-2024-32004)	<img alt="forks" src="https://img.shields.io/github/forks/Wadewfsssss/CVE-2024-32004">	<img alt="stars" src="https://img.shields.io/github/stars/Wadewfsssss/CVE-2024-32004">
@@ -917,6 +923,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-30973 (2024-05-06T22:15:00)
 > An issue in V-SOL G/EPON ONU HG323AC-B with firmware version V2.0.08-210715 allows an attacker to execute arbtirary code and obtain sensitive information via crafted POST request to /boaform/getASPdata/formFirewall, /boaform/getASPdata/formAcc.
 - [Athos-Zago/CVE-2024-30973](https://github.com/Athos-Zago/CVE-2024-30973)	<img alt="forks" src="https://img.shields.io/github/forks/Athos-Zago/CVE-2024-30973">	<img alt="stars" src="https://img.shields.io/github/stars/Athos-Zago/CVE-2024-30973">
+
+---
+## CVE-2024-30956 ()
+> 
+- [leoCottret/CVE-2024-30956](https://github.com/leoCottret/CVE-2024-30956)	<img alt="forks" src="https://img.shields.io/github/forks/leoCottret/CVE-2024-30956">	<img alt="stars" src="https://img.shields.io/github/stars/leoCottret/CVE-2024-30956">
 
 ---
 ## CVE-2024-3094 (2024-03-29T17:15:00)
