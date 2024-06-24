@@ -575,6 +575,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [AlexLondan/CVE-2024-3333](https://github.com/AlexLondan/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-3333">
 
 ---
+## CVE-2024-33113 (2024-05-06T15:15:00)
+> D-LINK DIR-845L <=v1.01KRb03 is vulnerable to Information disclosurey via bsc_sms_inbox.php.
+- [FaLLenSKiLL1/CVE-2024-33113](https://github.com/FaLLenSKiLL1/CVE-2024-33113)	<img alt="forks" src="https://img.shields.io/github/forks/FaLLenSKiLL1/CVE-2024-33113">	<img alt="stars" src="https://img.shields.io/github/stars/FaLLenSKiLL1/CVE-2024-33113">
+
+---
 ## CVE-2024-33078 (2024-05-01T18:15:00)
 > Tencent Libpag v4.3 is vulnerable to Buffer Overflow. A user can send a crafted image to trigger a overflow leading to remote code execution.
 - [HBLocker/CVE-2024-33078](https://github.com/HBLocker/CVE-2024-33078)	<img alt="forks" src="https://img.shields.io/github/forks/HBLocker/CVE-2024-33078">	<img alt="stars" src="https://img.shields.io/github/stars/HBLocker/CVE-2024-33078">
