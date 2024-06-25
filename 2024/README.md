@@ -1396,6 +1396,17 @@ The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxe
 - [nancyariah4/CVE-2024-29895-CactiRCE-PoC](https://github.com/nancyariah4/CVE-2024-29895-CactiRCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-29895-CactiRCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-29895-CactiRCE-PoC">
 
 ---
+## CVE-2024-29868 (2024-06-24T10:15:00)
+> Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) vulnerability in Apache StreamPipes user self-registration and password recovery mechanism.
+This allows an attacker to guess the recovery token in a reasonable time and thereby to take over the attacked user's account.
+This issue affects Apache StreamPipes: from 0.69.0 through 0.93.0.
+
+Users are recommended to upgrade to version 0.95.0, which fixes the issue.
+
+
+- [DEVisions/CVE-2024-29868](https://github.com/DEVisions/CVE-2024-29868)	<img alt="forks" src="https://img.shields.io/github/forks/DEVisions/CVE-2024-29868">	<img alt="stars" src="https://img.shields.io/github/stars/DEVisions/CVE-2024-29868">
+
+---
 ## CVE-2024-29855 (2024-06-11T04:15:00)
 > Hard-coded JWT secret allows authentication bypass in Veeam Recovery Orchestrator
 - [sinsinology/CVE-2024-29855](https://github.com/sinsinology/CVE-2024-29855)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-29855">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-29855">
