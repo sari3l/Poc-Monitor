@@ -32,6 +32,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [Huoper/CVE-2024-5899](https://github.com/Huoper/CVE-2024-5899)	<img alt="forks" src="https://img.shields.io/github/forks/Huoper/CVE-2024-5899">	<img alt="stars" src="https://img.shields.io/github/stars/Huoper/CVE-2024-5899">
 
 ---
+## CVE-2024-5806 (2024-06-25T15:15:00)
+> Improper Authentication vulnerability in Progress MOVEit Transfer (SFTP module) can lead to Authentication Bypass in limited scenarios.This issue affects MOVEit Transfer: from 2023.0.0 before 2023.0.11, from 2023.1.0 before 2023.1.6, from 2024.0.0 before 2024.0.2.
+- [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">
+
+---
 ## CVE-2024-5555 ()
 > 
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
@@ -584,6 +589,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 > D-LINK DIR-845L <=v1.01KRb03 is vulnerable to Information disclosurey via bsc_sms_inbox.php.
 - [FaLLenSKiLL1/CVE-2024-33113](https://github.com/FaLLenSKiLL1/CVE-2024-33113)	<img alt="forks" src="https://img.shields.io/github/forks/FaLLenSKiLL1/CVE-2024-33113">	<img alt="stars" src="https://img.shields.io/github/stars/FaLLenSKiLL1/CVE-2024-33113">
 - [tekua/CVE-2024-33113](https://github.com/tekua/CVE-2024-33113)	<img alt="forks" src="https://img.shields.io/github/forks/tekua/CVE-2024-33113">	<img alt="stars" src="https://img.shields.io/github/stars/tekua/CVE-2024-33113">
+
+---
+## CVE-2024-33111 (2024-05-06T15:15:00)
+> D-Link DIR-845L router <=v1.01KRb03 is vulnerable to Cross Site Scripting (XSS) via /htdocs/webinc/js/bsc_sms_inbox.php.
+- [FaLLenSKiLL1/CVE-2024-33111](https://github.com/FaLLenSKiLL1/CVE-2024-33111)	<img alt="forks" src="https://img.shields.io/github/forks/FaLLenSKiLL1/CVE-2024-33111">	<img alt="stars" src="https://img.shields.io/github/stars/FaLLenSKiLL1/CVE-2024-33111">
 
 ---
 ## CVE-2024-33078 (2024-05-01T18:15:00)

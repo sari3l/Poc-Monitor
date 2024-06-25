@@ -4718,6 +4718,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253](https://github.com/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253)	<img alt="forks" src="https://img.shields.io/github/forks/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253">	<img alt="stars" src="https://img.shields.io/github/stars/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253">
 - [g4nkd/CVE-2023-30253-PoC](https://github.com/g4nkd/CVE-2023-30253-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2023-30253-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2023-30253-PoC">
 - [dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253](https://github.com/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253">
+- [g4nkd/CVE-2023-25690-PoC](https://github.com/g4nkd/CVE-2023-25690-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2023-25690-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2023-25690-PoC">
 
 ---
 ## CVE-2023-30226 (2023-07-12T02:15:00)
