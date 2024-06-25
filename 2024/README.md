@@ -269,8 +269,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [7Ragnarok7/CVE-2024-37888](https://github.com/7Ragnarok7/CVE-2024-37888)	<img alt="forks" src="https://img.shields.io/github/forks/7Ragnarok7/CVE-2024-37888">	<img alt="stars" src="https://img.shields.io/github/stars/7Ragnarok7/CVE-2024-37888">
 
 ---
-## CVE-2024-37843 ()
-> 
+## CVE-2024-37843 (2024-06-25T21:15:00)
+> Craft CMS up to v3.7.31 was discovered to contain a SQL injection vulnerability via the GraphQL API endpoint.
 - [gsmith257-cyber/CVE-2024-37843-POC](https://github.com/gsmith257-cyber/CVE-2024-37843-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gsmith257-cyber/CVE-2024-37843-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gsmith257-cyber/CVE-2024-37843-POC">
 
 ---
