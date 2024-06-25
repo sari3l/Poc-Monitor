@@ -1257,6 +1257,11 @@ QuTScloud c5.1.5.2651 and later
 - [Cristiano100/CVE-2023-47119](https://github.com/Cristiano100/CVE-2023-47119)	<img alt="forks" src="https://img.shields.io/github/forks/Cristiano100/CVE-2023-47119">	<img alt="stars" src="https://img.shields.io/github/stars/Cristiano100/CVE-2023-47119">
 
 ---
+## CVE-2023-47108 ()
+> 
+- [bahe-msft/govuln-CVE-2023-47108](https://github.com/bahe-msft/govuln-CVE-2023-47108)	<img alt="forks" src="https://img.shields.io/github/forks/bahe-msft/govuln-CVE-2023-47108">	<img alt="stars" src="https://img.shields.io/github/stars/bahe-msft/govuln-CVE-2023-47108">
+
+---
 ## CVE-2023-47103 ()
 > 
 - [quantiano/cve-2023-47103](https://github.com/quantiano/cve-2023-47103)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47103">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47103">
