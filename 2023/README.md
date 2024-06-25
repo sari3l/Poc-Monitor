@@ -5643,6 +5643,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [huyqa/CVE-2023-25690-POC](https://github.com/huyqa/CVE-2023-25690-POC)	<img alt="forks" src="https://img.shields.io/github/forks/huyqa/CVE-2023-25690-POC">	<img alt="stars" src="https://img.shields.io/github/stars/huyqa/CVE-2023-25690-POC">
 - [thanhlam-attt/CVE-2023-25690](https://github.com/thanhlam-attt/CVE-2023-25690)	<img alt="forks" src="https://img.shields.io/github/forks/thanhlam-attt/CVE-2023-25690">	<img alt="stars" src="https://img.shields.io/github/stars/thanhlam-attt/CVE-2023-25690">
 - [sergiovks/CVE-2023-25690-exploit](https://github.com/sergiovks/CVE-2023-25690-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/CVE-2023-25690-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/CVE-2023-25690-exploit">
+- [g4nkd/CVE-2023-25690-PoC](https://github.com/g4nkd/CVE-2023-25690-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2023-25690-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2023-25690-PoC">
 
 ---
 ## CVE-2023-25610 ()
