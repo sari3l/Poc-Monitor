@@ -269,8 +269,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
-## CVE-2024-37759 ()
-> 
+## CVE-2024-37759 (2024-06-24T21:15:00)
+> DataGear v5.0.0 and earlier was discovered to contain a SpEL (Spring Expression Language) expression injection vulnerability via the Data Viewing interface.
 - [crumbledwall/CVE-2024-37759_PoC](https://github.com/crumbledwall/CVE-2024-37759_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/crumbledwall/CVE-2024-37759_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/crumbledwall/CVE-2024-37759_PoC">
 
 ---
@@ -438,13 +438,13 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
 
 ---
-## CVE-2024-34313 ()
-> 
+## CVE-2024-34313 (2024-06-24T20:15:00)
+> An issue in VPL Jail System up to v4.0.2 allows attackers to execute a directory traversal via a crafted request to a public endpoint.
 - [vincentscode/CVE-2024-34313](https://github.com/vincentscode/CVE-2024-34313)	<img alt="forks" src="https://img.shields.io/github/forks/vincentscode/CVE-2024-34313">	<img alt="stars" src="https://img.shields.io/github/stars/vincentscode/CVE-2024-34313">
 
 ---
-## CVE-2024-34312 ()
-> 
+## CVE-2024-34312 (2024-06-24T20:15:00)
+> Virtual Programming Lab for Moodle up to v4.2.3 was discovered to contain a cross-site scripting (XSS) vulnerability via the component vplide.js.
 - [vincentscode/CVE-2024-34312](https://github.com/vincentscode/CVE-2024-34312)	<img alt="forks" src="https://img.shields.io/github/forks/vincentscode/CVE-2024-34312">	<img alt="stars" src="https://img.shields.io/github/stars/vincentscode/CVE-2024-34312">
 
 ---
