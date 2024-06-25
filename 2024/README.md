@@ -21,6 +21,11 @@
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
 
 ---
+## CVE-2024-6028 (2024-06-25T09:15:00)
+> The Quiz Maker plugin for WordPress is vulnerable to time-based SQL Injection via the 'ays_questions' parameter in all versions up to, and including, 6.5.8.3 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
+- [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-6028-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-6028-Poc">
+
+---
 ## CVE-2024-5899 (2024-06-18T09:15:00)
 > When Bazel Plugin in intellij imports a project (either using "import project" or "Auto import") the dialog for trusting the project is not displayed. This comes from the fact that both call the method ProjectBuilder.createProject which then calls ProjectManager.getInstance().createProject. This method, as its name suggests is intended to create a new project, not to import an existing one. 
 We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLion and Android Studio Bazel plugins.
@@ -578,6 +583,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-33113 (2024-05-06T15:15:00)
 > D-LINK DIR-845L <=v1.01KRb03 is vulnerable to Information disclosurey via bsc_sms_inbox.php.
 - [FaLLenSKiLL1/CVE-2024-33113](https://github.com/FaLLenSKiLL1/CVE-2024-33113)	<img alt="forks" src="https://img.shields.io/github/forks/FaLLenSKiLL1/CVE-2024-33113">	<img alt="stars" src="https://img.shields.io/github/stars/FaLLenSKiLL1/CVE-2024-33113">
+- [tekua/CVE-2024-33113](https://github.com/tekua/CVE-2024-33113)	<img alt="forks" src="https://img.shields.io/github/forks/tekua/CVE-2024-33113">	<img alt="stars" src="https://img.shields.io/github/stars/tekua/CVE-2024-33113">
 
 ---
 ## CVE-2024-33078 (2024-05-01T18:15:00)
@@ -810,6 +816,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [431m/rcetest](https://github.com/431m/rcetest)	<img alt="forks" src="https://img.shields.io/github/forks/431m/rcetest">	<img alt="stars" src="https://img.shields.io/github/stars/431m/rcetest">
 - [alimuhammedkose/CVE-2024-32002-linux-smash](https://github.com/alimuhammedkose/CVE-2024-32002-linux-smash)	<img alt="forks" src="https://img.shields.io/github/forks/alimuhammedkose/CVE-2024-32002-linux-smash">	<img alt="stars" src="https://img.shields.io/github/stars/alimuhammedkose/CVE-2024-32002-linux-smash">
 - [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/bonnettheo/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/bonnettheo/CVE-2024-32002">
+- [sreevatsa1997/test_cve_32002](https://github.com/sreevatsa1997/test_cve_32002)	<img alt="forks" src="https://img.shields.io/github/forks/sreevatsa1997/test_cve_32002">	<img alt="stars" src="https://img.shields.io/github/stars/sreevatsa1997/test_cve_32002">
 
 ---
 ## CVE-2024-31982 (2024-04-10T20:15:00)
