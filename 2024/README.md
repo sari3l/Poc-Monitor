@@ -284,8 +284,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [crumbledwall/CVE-2024-37759_PoC](https://github.com/crumbledwall/CVE-2024-37759_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/crumbledwall/CVE-2024-37759_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/crumbledwall/CVE-2024-37759_PoC">
 
 ---
-## CVE-2024-37742 ()
-> 
+## CVE-2024-37742 (2024-06-25T22:15:00)
+> An issue in Safe Exam Browser for Windows before 3.6 allows an attacker to share clipboard data between the SEB kiosk mode and the underlying system, compromising exam integrity which may lead to arbitrary code execution and obtaining sensitive information via the Clipboard Management component.
 - [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742)	<img alt="forks" src="https://img.shields.io/github/forks/Eteblue/CVE-2024-37742">	<img alt="stars" src="https://img.shields.io/github/stars/Eteblue/CVE-2024-37742">
 
 ---
