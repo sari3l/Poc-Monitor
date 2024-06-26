@@ -306,6 +306,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051)	<img alt="forks" src="https://img.shields.io/github/forks/mrblackstar26/CVE-2024-37051">	<img alt="stars" src="https://img.shields.io/github/stars/mrblackstar26/CVE-2024-37051">
 
 ---
+## CVE-2024-37032 ()
+> 
+- [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032)	<img alt="forks" src="https://img.shields.io/github/forks/Bi0x/CVE-2024-37032">	<img alt="stars" src="https://img.shields.io/github/stars/Bi0x/CVE-2024-37032">
+
+---
 ## CVE-2024-36837 (2024-06-05T15:15:00)
 > SQL Injection vulnerability in CRMEB v.5.2.2 allows a remote attacker to obtain sensitive information via the getProductList function in the ProductController.php file.
 - [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837)	<img alt="forks" src="https://img.shields.io/github/forks/phtcloud-dev/CVE-2024-36837">	<img alt="stars" src="https://img.shields.io/github/stars/phtcloud-dev/CVE-2024-36837">
