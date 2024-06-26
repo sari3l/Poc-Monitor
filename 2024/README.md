@@ -504,6 +504,11 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [dovankha/CVE-2024-34220](https://github.com/dovankha/CVE-2024-34220)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34220">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34220">
 
 ---
+## CVE-2024-34102 (2024-06-13T09:15:00)
+> Adobe Commerce versions 2.4.7, 2.4.6-p5, 2.4.5-p7, 2.4.4-p8 and earlier are affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability that could result in arbitrary code execution. An attacker could exploit this vulnerability by sending a crafted XML document that references external entities. Exploitation of this issue does not require user interaction.
+- [ex-arny/CVE-2024-34102-RCE](https://github.com/ex-arny/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ex-arny/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ex-arny/CVE-2024-34102-RCE">
+
+---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
 > A command injection vulnerability in the GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-OS versions and distinct feature configurations may enable an unauthenticated attacker to execute arbitrary code with root privileges on the firewall.
 
