@@ -1881,7 +1881,7 @@
 - [walnutsecurity/cve-2021-42013](https://github.com/walnutsecurity/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/walnutsecurity/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/walnutsecurity/cve-2021-42013">
 - [CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit](https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit">
 - [Adashz/CVE-2021-42013](https://github.com/Adashz/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Adashz/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Adashz/CVE-2021-42013">
-- [azazelm3dj3d/apache-traversal](https://github.com/azazelm3dj3d/apache-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/azazelm3dj3d/apache-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/azazelm3dj3d/apache-traversal">
+- [battleoverflow/apache-traversal](https://github.com/battleoverflow/apache-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/battleoverflow/apache-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/battleoverflow/apache-traversal">
 - [mauricelambert/CVE-2021-42013](https://github.com/mauricelambert/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/mauricelambert/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/mauricelambert/CVE-2021-42013">
 - [honypot/CVE-2021-42013](https://github.com/honypot/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/honypot/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/honypot/CVE-2021-42013">
 - [tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway](https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway)	<img alt="forks" src="https://img.shields.io/github/forks/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway">	<img alt="stars" src="https://img.shields.io/github/stars/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway">
@@ -1926,6 +1926,7 @@
 - [vudala/CVE-2021-42013](https://github.com/vudala/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/vudala/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/vudala/CVE-2021-42013">
 - [imhunterand/CVE-2021-42013](https://github.com/imhunterand/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2021-42013">
 - [BassoNicolas/CVE-2021-42013](https://github.com/BassoNicolas/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/BassoNicolas/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/BassoNicolas/CVE-2021-42013">
+- [rafifdna/CVE-2021-42013](https://github.com/rafifdna/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/rafifdna/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/rafifdna/CVE-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
