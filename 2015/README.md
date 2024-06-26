@@ -127,6 +127,13 @@
 - [Live-Hack-CVE/CVE-2015-6764](https://github.com/Live-Hack-CVE/CVE-2015-6764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6764">
 
 ---
+## CVE-2015-6668 (2017-10-19T21:29:00)
+> The Job Manager plugin before 0.7.25 allows remote attackers to read arbitrary CV files via a brute force attack to the WordPress upload directory structure, related to an insecure direct object reference.
+- [jimdiroffii/CVE-2015-6668](https://github.com/jimdiroffii/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/jimdiroffii/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/jimdiroffii/CVE-2015-6668">
+- [c0d3cr4f73r/CVE-2015-6668](https://github.com/c0d3cr4f73r/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2015-6668">
+- [G01d3nW01f/CVE-2015-6668](https://github.com/G01d3nW01f/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/G01d3nW01f/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/G01d3nW01f/CVE-2015-6668">
+
+---
 ## CVE-2015-5531 (2015-08-17T15:59:00)
 > Directory traversal vulnerability in Elasticsearch before 1.6.1 allows remote attackers to read arbitrary files via unspecified vectors related to snapshot API calls.
 - [xpgdgit/CVE-2015-5531](https://github.com/xpgdgit/CVE-2015-5531)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2015-5531">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2015-5531">
