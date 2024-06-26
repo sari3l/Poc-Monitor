@@ -239,6 +239,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [1ncendium/CVE-2024-4040](https://github.com/1ncendium/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/1ncendium/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/1ncendium/CVE-2024-4040">
 
 ---
+## CVE-2024-39249 ()
+> 
+- [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-39249">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-39249">
+
+---
 ## CVE-2024-3902 ()
 > 
 - [OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit](https://github.com/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">
