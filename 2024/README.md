@@ -142,6 +142,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE](https://github.com/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE">
 - [amandineVdw/CVE-2024-4577](https://github.com/amandineVdw/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/amandineVdw/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/amandineVdw/CVE-2024-4577">
 - [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend)	<img alt="forks" src="https://img.shields.io/github/forks/PhinehasNarh/CVE-2024-4577-Defend">	<img alt="stars" src="https://img.shields.io/github/stars/PhinehasNarh/CVE-2024-4577-Defend">
+- [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
