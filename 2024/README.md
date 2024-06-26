@@ -306,8 +306,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051)	<img alt="forks" src="https://img.shields.io/github/forks/mrblackstar26/CVE-2024-37051">	<img alt="stars" src="https://img.shields.io/github/stars/mrblackstar26/CVE-2024-37051">
 
 ---
-## CVE-2024-37032 ()
-> 
+## CVE-2024-37032 (2024-05-31T04:15:00)
+> Ollama before 0.1.34 does not validate the format of the digest (sha256 with 64 hex digits) when getting the model path, and thus mishandles the TestGetBlobsPath test cases such as fewer than 64 hex digits, more than 64 hex digits, or an initial ../ substring.
 - [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032)	<img alt="forks" src="https://img.shields.io/github/forks/Bi0x/CVE-2024-37032">	<img alt="stars" src="https://img.shields.io/github/stars/Bi0x/CVE-2024-37032">
 
 ---
@@ -1618,6 +1618,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [ggfzx/CVE-2024-28995](https://github.com/ggfzx/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-28995">
 - [karkis3c/cves](https://github.com/karkis3c/cves)	<img alt="forks" src="https://img.shields.io/github/forks/karkis3c/cves">	<img alt="stars" src="https://img.shields.io/github/stars/karkis3c/cves">
 - [bigb0x/CVE-2024-28995](https://github.com/bigb0x/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-28995">
+- [Praison001/CVE-2024-28995-SolarWinds-Serv-U](https://github.com/Praison001/CVE-2024-28995-SolarWinds-Serv-U)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-28995-SolarWinds-Serv-U">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-28995-SolarWinds-Serv-U">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
