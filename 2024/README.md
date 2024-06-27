@@ -2968,6 +2968,11 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [rdoix/cve-2024-21762-checker](https://github.com/rdoix/cve-2024-21762-checker)	<img alt="forks" src="https://img.shields.io/github/forks/rdoix/cve-2024-21762-checker">	<img alt="stars" src="https://img.shields.io/github/stars/rdoix/cve-2024-21762-checker">
 
 ---
+## CVE-2024-21754 ()
+> 
+- [CyberSecuritist/CVE-2024-21754-Forti-RCE](https://github.com/CyberSecuritist/CVE-2024-21754-Forti-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CyberSecuritist/CVE-2024-21754-Forti-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CyberSecuritist/CVE-2024-21754-Forti-RCE">
+
+---
 ## CVE-2024-21683 (2024-05-21T23:15:00)
 > This High severity RCE (Remote Code Execution) vulnerability was introduced in version 5.2 of Confluence Data Center and Server.
 
