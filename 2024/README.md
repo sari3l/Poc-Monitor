@@ -1382,6 +1382,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-30088 (2024-06-11T17:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [tykawaii98/CVE-2024-30088](https://github.com/tykawaii98/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/tykawaii98/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/tykawaii98/CVE-2024-30088">
+- [NextGenPentesters/CVE-2024-30088-](https://github.com/NextGenPentesters/CVE-2024-30088-)	<img alt="forks" src="https://img.shields.io/github/forks/NextGenPentesters/CVE-2024-30088-">	<img alt="stars" src="https://img.shields.io/github/stars/NextGenPentesters/CVE-2024-30088-">
 
 ---
 ## CVE-2024-30078 (2024-06-11T17:15:00)
