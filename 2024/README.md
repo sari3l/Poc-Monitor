@@ -524,6 +524,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [ex-arny/CVE-2024-34102-RCE](https://github.com/ex-arny/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ex-arny/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ex-arny/CVE-2024-34102-RCE">
 - [th3gokul/CVE-2024-34102](https://github.com/th3gokul/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-34102">
 - [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/ArturArz1/TestCVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/ArturArz1/TestCVE-2024-34102">
+- [bigb0x/CVE-2024-34102](https://github.com/bigb0x/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
@@ -2968,8 +2969,8 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [rdoix/cve-2024-21762-checker](https://github.com/rdoix/cve-2024-21762-checker)	<img alt="forks" src="https://img.shields.io/github/forks/rdoix/cve-2024-21762-checker">	<img alt="stars" src="https://img.shields.io/github/stars/rdoix/cve-2024-21762-checker">
 
 ---
-## CVE-2024-21754 ()
-> 
+## CVE-2024-21754 (2024-06-11T15:16:00)
+> A use of password hash with insufficient computational effort vulnerability [CWE-916] affecting FortiOS version 7.4.3 and below, 7.2 all versions, 7.0 all versions, 6.4 all versions and FortiProxy version 7.4.2 and below, 7.2 all versions, 7.0 all versions, 2.0 all versions may allow a privileged attacker with super-admin profile and CLI access to decrypting the backup file.
 - [CyberSecuritist/CVE-2024-21754-Forti-RCE](https://github.com/CyberSecuritist/CVE-2024-21754-Forti-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CyberSecuritist/CVE-2024-21754-Forti-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CyberSecuritist/CVE-2024-21754-Forti-RCE">
 
 ---
