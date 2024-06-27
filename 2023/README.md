@@ -940,8 +940,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [xem6/CVE-2023-4911](https://github.com/xem6/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/xem6/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/xem6/CVE-2023-4911">
 
 ---
-## CVE-2023-49103 ()
-> 
+## CVE-2023-49103 (2023-11-21T22:15:00)
+> An issue was discovered in ownCloud owncloud/graphapi 0.2.x before 0.2.1 and 0.3.x before 0.3.1. The graphapi app relies on a third-party GetPhpInfo.php library that provides a URL. When this URL is accessed, it reveals the configuration details of the PHP environment (phpinfo). This information includes all the environment variables of the webserver. In containerized deployments, these environment variables may include sensitive data such as the ownCloud admin password, mail server credentials, and license key. Simply disabling the graphapi app does not eliminate the vulnerability. Additionally, phpinfo exposes various other potentially sensitive configuration details that could be exploited by an attacker to gather information about the system. Therefore, even if ownCloud is not running in a containerized environment, this vulnerability should still be a cause for concern. Note that Docker containers from before February 2023 are not vulnerable to the credential disclosure.
 - [creacitysec/CVE-2023-49103](https://github.com/creacitysec/CVE-2023-49103)	<img alt="forks" src="https://img.shields.io/github/forks/creacitysec/CVE-2023-49103">	<img alt="stars" src="https://img.shields.io/github/stars/creacitysec/CVE-2023-49103">
 - [xchg-rax-rax/CVE-2023-49103_scanner](https://github.com/xchg-rax-rax/CVE-2023-49103_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xchg-rax-rax/CVE-2023-49103_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xchg-rax-rax/CVE-2023-49103_scanner">
 - [ditekshen/ansible-cve-2023-49103](https://github.com/ditekshen/ansible-cve-2023-49103)	<img alt="forks" src="https://img.shields.io/github/forks/ditekshen/ansible-cve-2023-49103">	<img alt="stars" src="https://img.shields.io/github/stars/ditekshen/ansible-cve-2023-49103">
@@ -1492,6 +1492,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 
 
 - [nidhi7598/linux-4.19.72_net_CVE-2023-4622](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4622)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_net_CVE-2023-4622">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_net_CVE-2023-4622">
+- [0range1337/CVE-CVE-2023-4622](https://github.com/0range1337/CVE-CVE-2023-4622)	<img alt="forks" src="https://img.shields.io/github/forks/0range1337/CVE-CVE-2023-4622">	<img alt="stars" src="https://img.shields.io/github/stars/0range1337/CVE-CVE-2023-4622">
 
 ---
 ## CVE-2023-46197 (2024-05-17T09:15:00)
