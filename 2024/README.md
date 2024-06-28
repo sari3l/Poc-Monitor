@@ -3030,6 +3030,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [swagcrafted/CVE-2024-21672-POC](https://github.com/swagcrafted/CVE-2024-21672-POC)	<img alt="forks" src="https://img.shields.io/github/forks/swagcrafted/CVE-2024-21672-POC">	<img alt="stars" src="https://img.shields.io/github/stars/swagcrafted/CVE-2024-21672-POC">
 
 ---
+## CVE-2024-21650 (2024-01-08T16:15:00)
+> XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. XWiki is vulnerable to a remote code execution (RCE) attack through its user registration feature. This issue allows an attacker to execute arbitrary code by crafting malicious payloads in the "first name" or "last name" fields during user registration. This impacts all installations that have user registration enabled for guests. This vulnerability has been patched in XWiki 14.10.17, 15.5.3 and 15.8 RC1.
+- [codeb0ss/CVE-2024-21650-PoC](https://github.com/codeb0ss/CVE-2024-21650-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-21650-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-21650-PoC">
+
+---
 ## CVE-2024-21644 (2024-01-08T14:15:00)
 > pyLoad is the free and open-source Download Manager written in pure Python. Any unauthenticated user can browse to a specific URL to expose the Flask config, including the `SECRET_KEY` variable. This issue has been patched in version 0.5.0b3.dev77.
 - [ltranquility/CVE-2024-21644-Poc](https://github.com/ltranquility/CVE-2024-21644-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ltranquility/CVE-2024-21644-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ltranquility/CVE-2024-21644-Poc">
