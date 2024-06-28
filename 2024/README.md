@@ -37,18 +37,18 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">
 
 ---
-## CVE-2024-5737 ()
-> 
+## CVE-2024-5737 (2024-06-28T12:15:00)
+> Script afGdStream.php in AdmirorFrames Joomla! extension doesn’t specify a content type and as a result default (text/html) is used. An attacker may embed HTML tags directly in image data which is rendered by a webpage as HTML. This issue affects AdmirorFrames: before 5.0.
 - [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5737">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5737">
 
 ---
-## CVE-2024-5736 ()
-> 
+## CVE-2024-5736 (2024-06-28T12:15:00)
+> Server Side Request Forgery (SSRF) vulnerability in AdmirorFrames Joomla! extension in afGdStream.php script allows to access local files or server pages available only from localhost. This issue affects AdmirorFrames: before 5.0.
 - [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5736">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5736">
 
 ---
-## CVE-2024-5735 ()
-> 
+## CVE-2024-5735 (2024-06-28T12:15:00)
+> Full Path Disclosure vulnerability in AdmirorFrames Joomla! extension in afHelper.php script allows an unauthorised attacker to retrieve location of web root folder. This issue affects AdmirorFrames: before 5.0.
 - [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5735">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5735">
 
 ---
@@ -159,6 +159,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend)	<img alt="forks" src="https://img.shields.io/github/forks/PhinehasNarh/CVE-2024-4577-Defend">	<img alt="stars" src="https://img.shields.io/github/stars/PhinehasNarh/CVE-2024-4577-Defend">
 - [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-4577">
 - [olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4577">
+- [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -543,6 +544,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/ArturArz1/TestCVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/ArturArz1/TestCVE-2024-34102">
 - [bigb0x/CVE-2024-34102](https://github.com/bigb0x/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34102">
 - [dr3u1d/CVE-2024-34102-RCE](https://github.com/dr3u1d/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/dr3u1d/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/dr3u1d/CVE-2024-34102-RCE">
+- [11whoami99/CVE-2024-34102](https://github.com/11whoami99/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/11whoami99/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/11whoami99/CVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
