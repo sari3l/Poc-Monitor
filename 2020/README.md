@@ -1350,6 +1350,12 @@
 - [Live-Hack-CVE/CVE-2020-35728](https://github.com/Live-Hack-CVE/CVE-2020-35728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35728">
 
 ---
+## CVE-2020-35717 ()
+> 
+- [Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-](https://github.com/Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-">
+- [hmartos/cve-2020-35717](https://github.com/hmartos/cve-2020-35717)	<img alt="forks" src="https://img.shields.io/github/forks/hmartos/cve-2020-35717">	<img alt="stars" src="https://img.shields.io/github/stars/hmartos/cve-2020-35717">
+
+---
 ## CVE-2020-35675 (2022-09-29T03:15:00)
 > BigProf Online Invoicing System before 3.0 offers a functionality that allows an administrator to move the records of members across groups. The applicable endpoint (admin/pageTransferOwnership.php) lacks CSRF protection, resulting in an attacker being able to escalate their privileges to Administrator and effectively taking over the application.
 - [Live-Hack-CVE/CVE-2020-35675](https://github.com/Live-Hack-CVE/CVE-2020-35675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35675">

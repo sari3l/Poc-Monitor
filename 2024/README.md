@@ -37,6 +37,21 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">
 
 ---
+## CVE-2024-5737 ()
+> 
+- [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5737">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5737">
+
+---
+## CVE-2024-5736 ()
+> 
+- [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5736">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5736">
+
+---
+## CVE-2024-5735 ()
+> 
+- [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5735">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5735">
+
+---
 ## CVE-2024-5555 ()
 > 
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
@@ -143,6 +158,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [amandineVdw/CVE-2024-4577](https://github.com/amandineVdw/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/amandineVdw/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/amandineVdw/CVE-2024-4577">
 - [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend)	<img alt="forks" src="https://img.shields.io/github/forks/PhinehasNarh/CVE-2024-4577-Defend">	<img alt="stars" src="https://img.shields.io/github/stars/PhinehasNarh/CVE-2024-4577-Defend">
 - [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-4577">
+- [olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -237,6 +253,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability](https://github.com/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability">
 - [gotr00t0day/CVE-2024-4040](https://github.com/gotr00t0day/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2024-4040">
 - [1ncendium/CVE-2024-4040](https://github.com/1ncendium/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/1ncendium/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/1ncendium/CVE-2024-4040">
+- [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4040">
 
 ---
 ## CVE-2024-39249 ()
@@ -3100,6 +3117,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit](https://github.com/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">
 - [th3Hellion/CVE-2024-21413](https://github.com/th3Hellion/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/th3Hellion/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/th3Hellion/CVE-2024-21413">
 - [ShubhamKanhere307/CVE-2024-21413](https://github.com/ShubhamKanhere307/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ShubhamKanhere307/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ShubhamKanhere307/CVE-2024-21413">
+- [olebris/CVE-2024-21413](https://github.com/olebris/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-21413">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
