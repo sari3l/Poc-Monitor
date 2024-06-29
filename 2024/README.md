@@ -546,6 +546,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [dr3u1d/CVE-2024-34102-RCE](https://github.com/dr3u1d/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/dr3u1d/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/dr3u1d/CVE-2024-34102-RCE">
 - [11whoami99/CVE-2024-34102](https://github.com/11whoami99/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/11whoami99/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/11whoami99/CVE-2024-34102">
 - [d0rb/CVE-2024-34102](https://github.com/d0rb/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-34102">
+- [Chocapikk/CVE-2024-34102](https://github.com/Chocapikk/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
