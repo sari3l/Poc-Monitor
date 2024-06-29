@@ -2757,6 +2757,11 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2024-22867">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2024-22867">
 
 ---
+## CVE-2024-22853 (2024-02-06T02:15:00)
+> D-LINK Go-RT-AC750 GORTAC750_A1_FW_v101b03 has a hardcoded password for the Alphanetworks account, which allows remote attackers to obtain root access via a telnet session.
+- [FaLLenSKiLL1/CVE-2024-22853](https://github.com/FaLLenSKiLL1/CVE-2024-22853)	<img alt="forks" src="https://img.shields.io/github/forks/FaLLenSKiLL1/CVE-2024-22853">	<img alt="stars" src="https://img.shields.io/github/stars/FaLLenSKiLL1/CVE-2024-22853">
+
+---
 ## CVE-2024-22774 (2024-05-14T14:58:00)
 > An issue in Panoramic Corporation Digital Imaging Software v.9.1.2.7600 allows a local attacker to escalate privileges via the ccsservice.exe component.
 - [Gray-0men/CVE-2024-22774](https://github.com/Gray-0men/CVE-2024-22774)	<img alt="forks" src="https://img.shields.io/github/forks/Gray-0men/CVE-2024-22774">	<img alt="stars" src="https://img.shields.io/github/stars/Gray-0men/CVE-2024-22774">
