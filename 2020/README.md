@@ -3799,6 +3799,7 @@
 - [Danny-LLi/CVE-2020-14882](https://github.com/Danny-LLi/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/Danny-LLi/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/Danny-LLi/CVE-2020-14882">
 - [LucasPDiniz/CVE-2020-14882](https://github.com/LucasPDiniz/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2020-14882">
 - [xMr110/CVE-2020-14882](https://github.com/xMr110/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/xMr110/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/xMr110/CVE-2020-14882">
+- [lolminerxmrig/CVE-2020-14882_ALL](https://github.com/lolminerxmrig/CVE-2020-14882_ALL)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/CVE-2020-14882_ALL">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/CVE-2020-14882_ALL">
 
 ---
 ## CVE-2020-1472 (2020-08-17T19:15:00)
