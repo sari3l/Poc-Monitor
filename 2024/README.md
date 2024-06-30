@@ -3133,6 +3133,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [th3Hellion/CVE-2024-21413](https://github.com/th3Hellion/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/th3Hellion/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/th3Hellion/CVE-2024-21413">
 - [ShubhamKanhere307/CVE-2024-21413](https://github.com/ShubhamKanhere307/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ShubhamKanhere307/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ShubhamKanhere307/CVE-2024-21413">
 - [olebris/CVE-2024-21413](https://github.com/olebris/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-21413">
+- [DerZiad/CVE-2024-21413](https://github.com/DerZiad/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/DerZiad/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/DerZiad/CVE-2024-21413">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
