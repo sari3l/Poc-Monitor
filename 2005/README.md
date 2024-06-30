@@ -1,8 +1,8 @@
 # 2005 List
 
 ---
-## CVE-2005-3299 ()
-> 
+## CVE-2005-3299 (2005-10-23T21:02:00)
+> PHP file inclusion vulnerability in grab_globals.lib.php in phpMyAdmin 2.6.4 and 2.6.4-pl1 allows remote attackers to include local files via the $__redirect parameter, possibly involving the subform array.
 - [Cr0w-ui/-CVE-2005-3299-](https://github.com/Cr0w-ui/-CVE-2005-3299-)	<img alt="forks" src="https://img.shields.io/github/forks/Cr0w-ui/-CVE-2005-3299-">	<img alt="stars" src="https://img.shields.io/github/stars/Cr0w-ui/-CVE-2005-3299-">
 - [RizeKishimaro/CVE-2005-3299](https://github.com/RizeKishimaro/CVE-2005-3299)	<img alt="forks" src="https://img.shields.io/github/forks/RizeKishimaro/CVE-2005-3299">	<img alt="stars" src="https://img.shields.io/github/stars/RizeKishimaro/CVE-2005-3299">
 
