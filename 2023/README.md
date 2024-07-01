@@ -2576,8 +2576,8 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 - [m3ssap0/cacti-rce-snmp-options-vulnerable-application](https://github.com/m3ssap0/cacti-rce-snmp-options-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/cacti-rce-snmp-options-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/cacti-rce-snmp-options-vulnerable-application">
 
 ---
-## CVE-2023-39361 ()
-> 
+## CVE-2023-39361 (2023-09-05T21:15:00)
+> Cacti is an open source operational monitoring and fault management framework. Affected versions are subject to a SQL injection discovered in graph_view.php. Since guest users can access graph_view.php without authentication by default, if guest users are being utilized in an enabled state, there could be the potential for significant damage. Attackers may exploit this vulnerability, and there may be possibilities for actions such as the usurpation of administrative privileges or remote code execution. This issue has been addressed in version 1.2.25. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [HPT-Intern-Task-Submission/CVE-2023-39361](https://github.com/HPT-Intern-Task-Submission/CVE-2023-39361)	<img alt="forks" src="https://img.shields.io/github/forks/HPT-Intern-Task-Submission/CVE-2023-39361">	<img alt="stars" src="https://img.shields.io/github/stars/HPT-Intern-Task-Submission/CVE-2023-39361">
 
 ---
