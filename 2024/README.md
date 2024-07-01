@@ -21,6 +21,11 @@
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
 
 ---
+## CVE-2024-6387 ()
+> 
+- [7etsuo/cve-2024-6387-poc](https://github.com/7etsuo/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/7etsuo/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/7etsuo/cve-2024-6387-poc">
+
+---
 ## CVE-2024-6028 (2024-06-25T09:15:00)
 > The Quiz Maker plugin for WordPress is vulnerable to time-based SQL Injection via the 'ays_questions' parameter in all versions up to, and including, 6.5.8.3 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-6028-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-6028-Poc">
@@ -306,6 +311,21 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-37791 (2024-06-18T19:16:00)
 > DuxCMS3 v3.1.3 was discovered to contain a SQL injection vulnerability via the keyword parameter at /article/Content/index?class_id.
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
+
+---
+## CVE-2024-37765 ()
+> 
+- [Atreb92/cve-2024-37765](https://github.com/Atreb92/cve-2024-37765)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37765">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37765">
+
+---
+## CVE-2024-37764 ()
+> 
+- [Atreb92/cve-2024-37764](https://github.com/Atreb92/cve-2024-37764)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37764">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37764">
+
+---
+## CVE-2024-37763 ()
+> 
+- [Atreb92/cve-2024-37763](https://github.com/Atreb92/cve-2024-37763)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37763">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37763">
 
 ---
 ## CVE-2024-37762 ()
