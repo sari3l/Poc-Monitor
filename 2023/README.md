@@ -2454,6 +2454,8 @@ The specific flaw exists within the processing of recovery volumes. The issue re
 - [Trinadh465/platform_packages_providers_MediaProvider_CVE-2023-40127](https://github.com/Trinadh465/platform_packages_providers_MediaProvider_CVE-2023-40127)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_packages_providers_MediaProvider_CVE-2023-40127">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_packages_providers_MediaProvider_CVE-2023-40127">
 - [Trinadh465/CVE-2023-40127](https://github.com/Trinadh465/CVE-2023-40127)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/CVE-2023-40127">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/CVE-2023-40127">
 - [saurabh2088/platform_packages_providers_MediaProvider_CVE-2023-40127](https://github.com/saurabh2088/platform_packages_providers_MediaProvider_CVE-2023-40127)	<img alt="forks" src="https://img.shields.io/github/forks/saurabh2088/platform_packages_providers_MediaProvider_CVE-2023-40127">	<img alt="stars" src="https://img.shields.io/github/stars/saurabh2088/platform_packages_providers_MediaProvider_CVE-2023-40127">
+- [RenukaSelvar/packages_providers_MediaProvider_CVE-2023-40127](https://github.com/RenukaSelvar/packages_providers_MediaProvider_CVE-2023-40127)	<img alt="forks" src="https://img.shields.io/github/forks/RenukaSelvar/packages_providers_MediaProvider_CVE-2023-40127">	<img alt="stars" src="https://img.shields.io/github/stars/RenukaSelvar/packages_providers_MediaProvider_CVE-2023-40127">
+- [RenukaSelvar/platform_packages_providers_MediaProvider_CVE-2023-40127](https://github.com/RenukaSelvar/platform_packages_providers_MediaProvider_CVE-2023-40127)	<img alt="forks" src="https://img.shields.io/github/forks/RenukaSelvar/platform_packages_providers_MediaProvider_CVE-2023-40127">	<img alt="stars" src="https://img.shields.io/github/stars/RenukaSelvar/platform_packages_providers_MediaProvider_CVE-2023-40127">
 
 ---
 ## CVE-2023-40121 (2023-10-27T21:15:00)
@@ -2572,6 +2574,11 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 > Cacti is an open source operational monitoring and fault management framework. In Cacti 1.2.24, under certain conditions, an authenticated privileged user, can use a malicious string in the SNMP options of a Device, performing command injection and obtaining remote code execution on the underlying server. The `lib/snmp.php` file has a set of functions, with similar behavior, that accept in input some variables and place them into an `exec` call without a proper escape or validation. This issue has been addressed in version 1.2.25. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc](https://github.com/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc">
 - [m3ssap0/cacti-rce-snmp-options-vulnerable-application](https://github.com/m3ssap0/cacti-rce-snmp-options-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/cacti-rce-snmp-options-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/cacti-rce-snmp-options-vulnerable-application">
+
+---
+## CVE-2023-39361 ()
+> 
+- [HPT-Intern-Task-Submission/CVE-2023-39361](https://github.com/HPT-Intern-Task-Submission/CVE-2023-39361)	<img alt="forks" src="https://img.shields.io/github/forks/HPT-Intern-Task-Submission/CVE-2023-39361">	<img alt="stars" src="https://img.shields.io/github/stars/HPT-Intern-Task-Submission/CVE-2023-39361">
 
 ---
 ## CVE-2023-39320 (2023-09-08T17:15:00)
