@@ -308,6 +308,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
+## CVE-2024-37762 ()
+> 
+- [Atreb92/cve-2024-37762](https://github.com/Atreb92/cve-2024-37762)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37762">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37762">
+
+---
 ## CVE-2024-37759 (2024-06-24T21:15:00)
 > DataGear v5.0.0 and earlier was discovered to contain a SpEL (Spring Expression Language) expression injection vulnerability via the Data Viewing interface.
 - [crumbledwall/CVE-2024-37759_PoC](https://github.com/crumbledwall/CVE-2024-37759_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/crumbledwall/CVE-2024-37759_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/crumbledwall/CVE-2024-37759_PoC">
@@ -3277,6 +3282,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-20666 (2024-01-09T18:15:00)
 > BitLocker Security Feature Bypass Vulnerability
 - [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/nnotwen/Script-For-CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/nnotwen/Script-For-CVE-2024-20666">
+- [invaderslabs/CVE-2024-20666](https://github.com/invaderslabs/CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/invaderslabs/CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/invaderslabs/CVE-2024-20666">
 
 ---
 ## CVE-2024-206565 ()
