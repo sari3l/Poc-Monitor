@@ -73,6 +73,9 @@
 - [no-one-sec/CVE-2024-6387](https://github.com/no-one-sec/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/no-one-sec/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/no-one-sec/CVE-2024-6387">
 - [xonoxitron/regreSSHion](https://github.com/xonoxitron/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/xonoxitron/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/xonoxitron/regreSSHion">
 - [xristos8574/regreSSHion-nmap-scanner](https://github.com/xristos8574/regreSSHion-nmap-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xristos8574/regreSSHion-nmap-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xristos8574/regreSSHion-nmap-scanner">
+- [n1cks0n/Test_CVE-2024-6387](https://github.com/n1cks0n/Test_CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/n1cks0n/Test_CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/n1cks0n/Test_CVE-2024-6387">
+- [th3gokul/CVE-2024-6387](https://github.com/th3gokul/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-6387">
+- [theaog/spirit](https://github.com/theaog/spirit)	<img alt="forks" src="https://img.shields.io/github/forks/theaog/spirit">	<img alt="stars" src="https://img.shields.io/github/stars/theaog/spirit">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -167,6 +170,12 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 ## CVE-2024-4875 (2024-05-21T09:15:00)
 > The HT Mega – Absolute Addons For Elementor plugin for WordPress is vulnerable to unauthorized modification of data|loss of data due to a missing capability check on the 'ajax_dismiss' function in versions up to, and including, 2.5.2. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to update options such as users_can_register, which can lead to unauthorized user registration.
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
+
+---
+## CVE-2024-4836 (2024-07-02T09:15:00)
+> Web services managed by Edito CMS (Content Management System) in versions from 3.5 through 3.25 leak sensitive data as they allow downloading configuration files by an unauthenticated user.
+The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th of January 2014. Higher versions were never affected.
+- [sleep46/CVE-2024-4836_Check](https://github.com/sleep46/CVE-2024-4836_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sleep46/CVE-2024-4836_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sleep46/CVE-2024-4836_Check">
 
 ---
 ## CVE-2024-4761 (2024-05-14T16:17:00)
