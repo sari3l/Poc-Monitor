@@ -76,6 +76,13 @@
 - [n1cks0n/Test_CVE-2024-6387](https://github.com/n1cks0n/Test_CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/n1cks0n/Test_CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/n1cks0n/Test_CVE-2024-6387">
 - [th3gokul/CVE-2024-6387](https://github.com/th3gokul/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-6387">
 - [theaog/spirit](https://github.com/theaog/spirit)	<img alt="forks" src="https://img.shields.io/github/forks/theaog/spirit">	<img alt="stars" src="https://img.shields.io/github/stars/theaog/spirit">
+- [l0n3m4n/CVE-2024-6387](https://github.com/l0n3m4n/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-6387">
+- [RickGeex/CVE-2024-6387-Checker](https://github.com/RickGeex/CVE-2024-6387-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/RickGeex/CVE-2024-6387-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/RickGeex/CVE-2024-6387-Checker">
+- [xonoxitron/regreSSHion-checker](https://github.com/xonoxitron/regreSSHion-checker)	<img alt="forks" src="https://img.shields.io/github/forks/xonoxitron/regreSSHion-checker">	<img alt="stars" src="https://img.shields.io/github/stars/xonoxitron/regreSSHion-checker">
+- [BrandonLynch2402/cve-2024-6387-nuclei-template](https://github.com/BrandonLynch2402/cve-2024-6387-nuclei-template)	<img alt="forks" src="https://img.shields.io/github/forks/BrandonLynch2402/cve-2024-6387-nuclei-template">	<img alt="stars" src="https://img.shields.io/github/stars/BrandonLynch2402/cve-2024-6387-nuclei-template">
+- [edsonjt81/CVE-2024-6387_Check](https://github.com/edsonjt81/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2024-6387_Check">
+- [grupooruss/CVE-2024-6387-Tester](https://github.com/grupooruss/CVE-2024-6387-Tester)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/CVE-2024-6387-Tester">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/CVE-2024-6387-Tester">
+- [EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker](https://github.com/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
