@@ -39,6 +39,16 @@
 - [wiggels/regresshion-check](https://github.com/wiggels/regresshion-check)	<img alt="forks" src="https://img.shields.io/github/forks/wiggels/regresshion-check">	<img alt="stars" src="https://img.shields.io/github/stars/wiggels/regresshion-check">
 - [zgimszhd61/cve-2024-6387-poc](https://github.com/zgimszhd61/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/cve-2024-6387-poc">
 - [3yujw7njai/CVE-2024-6387](https://github.com/3yujw7njai/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/3yujw7njai/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/3yujw7njai/CVE-2024-6387">
+- [yya1233/CVE-2024-6387-Updated-SSH-RCE](https://github.com/yya1233/CVE-2024-6387-Updated-SSH-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/yya1233/CVE-2024-6387-Updated-SSH-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/yya1233/CVE-2024-6387-Updated-SSH-RCE">
+- [betancour/OpenSSH-Vulnerability-test](https://github.com/betancour/OpenSSH-Vulnerability-test)	<img alt="forks" src="https://img.shields.io/github/forks/betancour/OpenSSH-Vulnerability-test">	<img alt="stars" src="https://img.shields.io/github/stars/betancour/OpenSSH-Vulnerability-test">
+- [muyuanlove/CVE-2024-6387fixshell](https://github.com/muyuanlove/CVE-2024-6387fixshell)	<img alt="forks" src="https://img.shields.io/github/forks/muyuanlove/CVE-2024-6387fixshell">	<img alt="stars" src="https://img.shields.io/github/stars/muyuanlove/CVE-2024-6387fixshell">
+- [Yaimsputnik5/regreSSHion](https://github.com/Yaimsputnik5/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/Yaimsputnik5/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/Yaimsputnik5/regreSSHion">
+- [TAM-K592/CVE-2024-6387](https://github.com/TAM-K592/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-6387">
+- [Maikefee/CVE-2024-6387_Check.py](https://github.com/Maikefee/CVE-2024-6387_Check.py)	<img alt="forks" src="https://img.shields.io/github/forks/Maikefee/CVE-2024-6387_Check.py">	<img alt="stars" src="https://img.shields.io/github/stars/Maikefee/CVE-2024-6387_Check.py">
+- [ahlfors/CVE-2024-6387](https://github.com/ahlfors/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ahlfors/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ahlfors/CVE-2024-6387">
+- [thegenetic/CVE-2024-6387-exploit](https://github.com/thegenetic/CVE-2024-6387-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2024-6387-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2024-6387-exploit">
+- [Mufti22/CVE-2024-6387-checkher](https://github.com/Mufti22/CVE-2024-6387-checkher)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2024-6387-checkher">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2024-6387-checkher">
+- [teamos-hub/regreSSHion](https://github.com/teamos-hub/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/teamos-hub/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/teamos-hub/regreSSHion">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -1958,6 +1968,11 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 > HTTP/2 incoming headers exceeding the limit are temporarily buffered in nghttp2 in order to generate an informative HTTP 413 response. If a client does not stop sending headers, this leads to memory exhaustion.
 - [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/CVE-2024-27316">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/CVE-2024-27316">
 - [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2024-27316_poc">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2024-27316_poc">
+
+---
+## CVE-2024-27292 (2024-03-21T02:52:00)
+> Docassemble is an expert system for guided interviews and document assembly. The vulnerability allows attackers to gain unauthorized access to information on the system through URL manipulation. It affects versions 1.4.53 to 1.4.96. The vulnerability has been patched in version 1.4.97 of the master branch.
+- [th3gokul/CVE-2024-27292](https://github.com/th3gokul/CVE-2024-27292)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-27292">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-27292">
 
 ---
 ## CVE-2024-27282 (2024-05-14T15:11:00)
