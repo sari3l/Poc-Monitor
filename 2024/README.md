@@ -50,6 +50,13 @@
 - [Mufti22/CVE-2024-6387-checkher](https://github.com/Mufti22/CVE-2024-6387-checkher)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2024-6387-checkher">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2024-6387-checkher">
 - [teamos-hub/regreSSHion](https://github.com/teamos-hub/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/teamos-hub/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/teamos-hub/regreSSHion">
 - [HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/HadesNull123/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/HadesNull123/CVE-2024-6387_Check">
+- [R4Tw1z/CVE-2024-6387](https://github.com/R4Tw1z/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/R4Tw1z/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/R4Tw1z/CVE-2024-6387">
+- [oliferFord/CVE-2024-6387-SSH-RCE](https://github.com/oliferFord/CVE-2024-6387-SSH-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/oliferFord/CVE-2024-6387-SSH-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/oliferFord/CVE-2024-6387-SSH-RCE">
+- [paradessia/CVE-2024-6387-nmap](https://github.com/paradessia/CVE-2024-6387-nmap)	<img alt="forks" src="https://img.shields.io/github/forks/paradessia/CVE-2024-6387-nmap">	<img alt="stars" src="https://img.shields.io/github/stars/paradessia/CVE-2024-6387-nmap">
+- [d0rb/CVE-2024-6387](https://github.com/d0rb/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-6387">
+- [CiderAndWhisky/regression-scanner](https://github.com/CiderAndWhisky/regression-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CiderAndWhisky/regression-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CiderAndWhisky/regression-scanner">
+- [paradessia/CVE-2024-6387-nmap](https://github.com/paradessia/CVE-2024-6387-nmap)	<img alt="forks" src="https://img.shields.io/github/forks/paradessia/CVE-2024-6387-nmap">	<img alt="stars" src="https://img.shields.io/github/stars/paradessia/CVE-2024-6387-nmap">
+- [shamo0/CVE-2024-6387_PoC](https://github.com/shamo0/CVE-2024-6387_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2024-6387_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2024-6387_PoC">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -3293,6 +3300,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21006 (2024-04-16T22:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [momika233/CVE-2024-21006](https://github.com/momika233/CVE-2024-21006)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-21006">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-21006">
+- [lightr3d/CVE-2024-21006_jar](https://github.com/lightr3d/CVE-2024-21006_jar)	<img alt="forks" src="https://img.shields.io/github/forks/lightr3d/CVE-2024-21006_jar">	<img alt="stars" src="https://img.shields.io/github/stars/lightr3d/CVE-2024-21006_jar">
 
 ---
 ## CVE-2024-20931 (2024-02-17T02:15:00)
