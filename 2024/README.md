@@ -60,6 +60,14 @@
 - [PrincipalAnthony/CVE-2024-6387-Updated-x64bit](https://github.com/PrincipalAnthony/CVE-2024-6387-Updated-x64bit)	<img alt="forks" src="https://img.shields.io/github/forks/PrincipalAnthony/CVE-2024-6387-Updated-x64bit">	<img alt="stars" src="https://img.shields.io/github/stars/PrincipalAnthony/CVE-2024-6387-Updated-x64bit">
 - [SecWithMoh/CVE-2024-6387](https://github.com/SecWithMoh/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/SecWithMoh/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/SecWithMoh/CVE-2024-6387">
 - [k4t3pr0/CVE-2024-6387-POC](https://github.com/k4t3pr0/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k4t3pr0/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k4t3pr0/CVE-2024-6387-POC">
+- [DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook](https://github.com/DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook)	<img alt="forks" src="https://img.shields.io/github/forks/DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook">	<img alt="stars" src="https://img.shields.io/github/stars/DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook">
+- [rumochnaya/openssh-cve-2024-6387.sh](https://github.com/rumochnaya/openssh-cve-2024-6387.sh)	<img alt="forks" src="https://img.shields.io/github/forks/rumochnaya/openssh-cve-2024-6387.sh">	<img alt="stars" src="https://img.shields.io/github/stars/rumochnaya/openssh-cve-2024-6387.sh">
+- [zenzue/CVE-2024-6387-Mitigation](https://github.com/zenzue/CVE-2024-6387-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2024-6387-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2024-6387-Mitigation">
+- [MaulikxLakhani/SSHScout](https://github.com/MaulikxLakhani/SSHScout)	<img alt="forks" src="https://img.shields.io/github/forks/MaulikxLakhani/SSHScout">	<img alt="stars" src="https://img.shields.io/github/stars/MaulikxLakhani/SSHScout">
+- [devarshishimpi/CVE-2024-6387-Check](https://github.com/devarshishimpi/CVE-2024-6387-Check)	<img alt="forks" src="https://img.shields.io/github/forks/devarshishimpi/CVE-2024-6387-Check">	<img alt="stars" src="https://img.shields.io/github/stars/devarshishimpi/CVE-2024-6387-Check">
+- [ACHUX21/checker-CVE-2024-6387](https://github.com/ACHUX21/checker-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ACHUX21/checker-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ACHUX21/checker-CVE-2024-6387">
+- [hssmo/cve-2024-6387_AImade](https://github.com/hssmo/cve-2024-6387_AImade)	<img alt="forks" src="https://img.shields.io/github/forks/hssmo/cve-2024-6387_AImade">	<img alt="stars" src="https://img.shields.io/github/stars/hssmo/cve-2024-6387_AImade">
+- [AiGptCode/ssh_exploiter_CVE-2024-6387](https://github.com/AiGptCode/ssh_exploiter_CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/AiGptCode/ssh_exploiter_CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/AiGptCode/ssh_exploiter_CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -959,6 +967,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [alimuhammedkose/CVE-2024-32002-linux-smash](https://github.com/alimuhammedkose/CVE-2024-32002-linux-smash)	<img alt="forks" src="https://img.shields.io/github/forks/alimuhammedkose/CVE-2024-32002-linux-smash">	<img alt="stars" src="https://img.shields.io/github/stars/alimuhammedkose/CVE-2024-32002-linux-smash">
 - [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/bonnettheo/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/bonnettheo/CVE-2024-32002">
 - [sreevatsa1997/test_cve_32002](https://github.com/sreevatsa1997/test_cve_32002)	<img alt="forks" src="https://img.shields.io/github/forks/sreevatsa1997/test_cve_32002">	<img alt="stars" src="https://img.shields.io/github/stars/sreevatsa1997/test_cve_32002">
+- [AmbroseCdMeng/CVE-2024-32002](https://github.com/AmbroseCdMeng/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002">
 
 ---
 ## CVE-2024-31982 (2024-04-10T20:15:00)

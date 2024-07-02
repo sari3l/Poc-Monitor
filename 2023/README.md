@@ -3524,6 +3524,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 ## CVE-2023-35985 ()
 > 
 - [SpiralBL0CK/-CVE-2023-35985](https://github.com/SpiralBL0CK/-CVE-2023-35985)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/-CVE-2023-35985">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/-CVE-2023-35985">
+- [N00BIER/CVE-2023-35985](https://github.com/N00BIER/CVE-2023-35985)	<img alt="forks" src="https://img.shields.io/github/forks/N00BIER/CVE-2023-35985">	<img alt="stars" src="https://img.shields.io/github/stars/N00BIER/CVE-2023-35985">
 
 ---
 ## CVE-2023-35885 (2023-06-20T20:15:00)
