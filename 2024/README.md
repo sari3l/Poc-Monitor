@@ -336,23 +336,23 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
-## CVE-2024-37765 ()
-> 
+## CVE-2024-37765 (2024-07-01T22:15:00)
+> Machform up to version 19 is affected by an authenticated Blind SQL injection in the user account settings page.
 - [Atreb92/cve-2024-37765](https://github.com/Atreb92/cve-2024-37765)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37765">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37765">
 
 ---
-## CVE-2024-37764 ()
-> 
+## CVE-2024-37764 (2024-07-01T22:15:00)
+> MachForm up to version 19 is affected by an authenticated stored cross-site scripting.
 - [Atreb92/cve-2024-37764](https://github.com/Atreb92/cve-2024-37764)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37764">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37764">
 
 ---
-## CVE-2024-37763 ()
-> 
+## CVE-2024-37763 (2024-07-01T22:15:00)
+> MachForm up to version 19 is affected by an unauthenticated stored cross-site scripting which affects users with valid sessions whom can view compiled forms results.
 - [Atreb92/cve-2024-37763](https://github.com/Atreb92/cve-2024-37763)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37763">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37763">
 
 ---
-## CVE-2024-37762 ()
-> 
+## CVE-2024-37762 (2024-07-01T22:15:00)
+> MachForm up to version 21 is affected by an authenticated unrestricted file upload which leads to a remote code execution.
 - [Atreb92/cve-2024-37762](https://github.com/Atreb92/cve-2024-37762)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37762">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37762">
 
 ---
@@ -1672,6 +1672,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-29269">
 - [Chocapikk/CVE-2024-29269](https://github.com/Chocapikk/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-29269">
 - [Jhonsonwannaa/CVE-2024-29269](https://github.com/Jhonsonwannaa/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-29269">
+- [K3ysTr0K3R/CVE-2024-29269-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-29269-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">
 
 ---
 ## CVE-2024-29201 (2024-03-29T15:15:00)
