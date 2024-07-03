@@ -351,6 +351,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4040">
 
 ---
+## CVE-2024-39844 (2024-07-03T17:15:00)
+> In ZNC before 1.9.1, remote code execution can occur in modtcl via a KICK.
+- [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
+
+---
 ## CVE-2024-39249 (2024-07-01T20:15:00)
 > Async <= 2.6.4 and <= 3.2.5 are vulnerable to ReDoS (Regular Expression Denial of Service) while parsing function in autoinject function.
 - [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-39249">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-39249">
