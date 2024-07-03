@@ -990,6 +990,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/bonnettheo/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/bonnettheo/CVE-2024-32002">
 - [sreevatsa1997/test_cve_32002](https://github.com/sreevatsa1997/test_cve_32002)	<img alt="forks" src="https://img.shields.io/github/forks/sreevatsa1997/test_cve_32002">	<img alt="stars" src="https://img.shields.io/github/stars/sreevatsa1997/test_cve_32002">
 - [AmbroseCdMeng/CVE-2024-32002](https://github.com/AmbroseCdMeng/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002">
+- [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
+- [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
 
 ---
 ## CVE-2024-31982 (2024-04-10T20:15:00)
