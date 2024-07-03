@@ -87,6 +87,7 @@
 - [sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2024-6387">
 - [Symbolexe/CVE-2024-6387](https://github.com/Symbolexe/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2024-6387">
 - [harshinsecurity/sentinelssh](https://github.com/harshinsecurity/sentinelssh)	<img alt="forks" src="https://img.shields.io/github/forks/harshinsecurity/sentinelssh">	<img alt="stars" src="https://img.shields.io/github/stars/harshinsecurity/sentinelssh">
+- [CognisysGroup/CVE-2024-6387-Checker](https://github.com/CognisysGroup/CVE-2024-6387-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/CognisysGroup/CVE-2024-6387-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/CognisysGroup/CVE-2024-6387-Checker">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -1006,6 +1007,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [AmbroseCdMeng/CVE-2024-32002](https://github.com/AmbroseCdMeng/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002">
 - [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
 - [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
+- [AmbroseCdMeng/CVE-2024-32002-Hook](https://github.com/AmbroseCdMeng/CVE-2024-32002-Hook)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002-Hook">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002-Hook">
+- [AmbroseCdMeng/CVE-2024-32002](https://github.com/AmbroseCdMeng/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002">
 
 ---
 ## CVE-2024-31982 (2024-04-10T20:15:00)
