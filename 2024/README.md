@@ -83,6 +83,7 @@
 - [edsonjt81/CVE-2024-6387_Check](https://github.com/edsonjt81/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2024-6387_Check">
 - [grupooruss/CVE-2024-6387-Tester](https://github.com/grupooruss/CVE-2024-6387-Tester)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/CVE-2024-6387-Tester">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/CVE-2024-6387-Tester">
 - [EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker](https://github.com/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">
+- [password123456/cve-security-response-guidelines](https://github.com/password123456/cve-security-response-guidelines)	<img alt="forks" src="https://img.shields.io/github/forks/password123456/cve-security-response-guidelines">	<img alt="stars" src="https://img.shields.io/github/stars/password123456/cve-security-response-guidelines">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -3436,6 +3437,13 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
  This vulnerability is due to insufficient validation of user-supplied input for specific HTTP requests that are sent to an affected system. An attacker could exploit this vulnerability by sending a crafted HTTP request to the affected device. A successful exploit could allow the attacker to obtain limited sensitive information for services that are associated to the affected device.
 - [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
 - [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
+
+---
+## CVE-2024-20399 (2024-07-01T17:15:00)
+> A vulnerability in the CLI of Cisco NX-OS Software could allow an authenticated, local attacker to execute arbitrary commands as root on the underlying operating system of an affected device.
+ This vulnerability is due to insufficient validation of arguments that are passed to specific configuration CLI commands. An attacker could exploit this vulnerability by including crafted input as the argument of an affected configuration CLI command. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the privileges of root.
+ Note: To successfully exploit this vulnerability on a Cisco NX-OS device, an attacker must have Administrator credentials.
+- [Blootus/CVE-2024-20399-Cisco-RCE](https://github.com/Blootus/CVE-2024-20399-Cisco-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Blootus/CVE-2024-20399-Cisco-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Blootus/CVE-2024-20399-Cisco-RCE">
 
 ---
 ## CVE-2024-20359 (2024-04-24T19:15:00)
