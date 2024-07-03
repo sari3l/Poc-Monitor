@@ -356,8 +356,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-39249">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-39249">
 
 ---
-## CVE-2024-39248 ()
-> 
+## CVE-2024-39248 (2024-07-03T17:15:00)
+> A cross-site scripting (XSS) vulnerability in SimpCMS v0.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Title field at /admin.php.
 - [jasonthename/CVE-2024-39248](https://github.com/jasonthename/CVE-2024-39248)	<img alt="forks" src="https://img.shields.io/github/forks/jasonthename/CVE-2024-39248">	<img alt="stars" src="https://img.shields.io/github/stars/jasonthename/CVE-2024-39248">
 
 ---
