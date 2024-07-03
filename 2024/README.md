@@ -671,6 +671,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [cmsec423/Magento-XXE-CVE-2024-34102](https://github.com/cmsec423/Magento-XXE-CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/cmsec423/Magento-XXE-CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/cmsec423/Magento-XXE-CVE-2024-34102">
 - [cmsec423/CVE-2024-34102](https://github.com/cmsec423/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/cmsec423/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/cmsec423/CVE-2024-34102">
 - [jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento](https://github.com/jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento">
+- [0xhunster/CVE-2024-34102](https://github.com/0xhunster/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/0xhunster/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/0xhunster/CVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
