@@ -326,6 +326,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 
 Successful exploitation of this vulnerability could allow the attacker to gain unauthorized access to the targeted system.
 - [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232">
+- [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232">
 
 ---
 ## CVE-2024-4231 (2024-05-14T15:43:00)
