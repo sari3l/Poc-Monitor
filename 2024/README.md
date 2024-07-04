@@ -370,6 +370,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [jasonthename/CVE-2024-39248](https://github.com/jasonthename/CVE-2024-39248)	<img alt="forks" src="https://img.shields.io/github/forks/jasonthename/CVE-2024-39248">	<img alt="stars" src="https://img.shields.io/github/stars/jasonthename/CVE-2024-39248">
 
 ---
+## CVE-2024-39211 ()
+> 
+- [temka1603/CVE-2024-39211](https://github.com/temka1603/CVE-2024-39211)	<img alt="forks" src="https://img.shields.io/github/forks/temka1603/CVE-2024-39211">	<img alt="stars" src="https://img.shields.io/github/stars/temka1603/CVE-2024-39211">
+
+---
 ## CVE-2024-39203 ()
 > 
 - [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)	<img alt="forks" src="https://img.shields.io/github/forks/5r1an/CVE-2024-39203">	<img alt="stars" src="https://img.shields.io/github/stars/5r1an/CVE-2024-39203">
