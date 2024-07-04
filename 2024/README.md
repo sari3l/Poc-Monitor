@@ -372,8 +372,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [jasonthename/CVE-2024-39248](https://github.com/jasonthename/CVE-2024-39248)	<img alt="forks" src="https://img.shields.io/github/forks/jasonthename/CVE-2024-39248">	<img alt="stars" src="https://img.shields.io/github/stars/jasonthename/CVE-2024-39248">
 
 ---
-## CVE-2024-39211 ()
-> 
+## CVE-2024-39211 (2024-07-04T13:15:00)
+> Kaiten 57.128.8 allows remote attackers to enumerate user accounts via a crafted POST request, because a login response contains a user_email field only if the user account exists.
 - [artemy-ccrsky/CVE-2024-39211](https://github.com/artemy-ccrsky/CVE-2024-39211)	<img alt="forks" src="https://img.shields.io/github/forks/artemy-ccrsky/CVE-2024-39211">	<img alt="stars" src="https://img.shields.io/github/stars/artemy-ccrsky/CVE-2024-39211">
 
 ---
