@@ -372,7 +372,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ---
 ## CVE-2024-39211 ()
 > 
-- [temka1603/CVE-2024-39211](https://github.com/temka1603/CVE-2024-39211)	<img alt="forks" src="https://img.shields.io/github/forks/temka1603/CVE-2024-39211">	<img alt="stars" src="https://img.shields.io/github/stars/temka1603/CVE-2024-39211">
+- [artemy-ccrsky/CVE-2024-39211](https://github.com/artemy-ccrsky/CVE-2024-39211)	<img alt="forks" src="https://img.shields.io/github/forks/artemy-ccrsky/CVE-2024-39211">	<img alt="stars" src="https://img.shields.io/github/stars/artemy-ccrsky/CVE-2024-39211">
 
 ---
 ## CVE-2024-39203 ()
