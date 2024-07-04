@@ -90,6 +90,8 @@
 - [CognisysGroup/CVE-2024-6387-Checker](https://github.com/CognisysGroup/CVE-2024-6387-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/CognisysGroup/CVE-2024-6387-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/CognisysGroup/CVE-2024-6387-Checker">
 - [t3rry327/cve-2024-6387-poc](https://github.com/t3rry327/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/t3rry327/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/t3rry327/cve-2024-6387-poc">
 - [jocker2410/CVE-2024-6387_poc](https://github.com/jocker2410/CVE-2024-6387_poc)	<img alt="forks" src="https://img.shields.io/github/forks/jocker2410/CVE-2024-6387_poc">	<img alt="stars" src="https://img.shields.io/github/stars/jocker2410/CVE-2024-6387_poc">
+- [turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker](https://github.com/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker">
+- [JackSparrowhk/ssh-CVE-2024-6387-poc](https://github.com/JackSparrowhk/ssh-CVE-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/JackSparrowhk/ssh-CVE-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/JackSparrowhk/ssh-CVE-2024-6387-poc">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
