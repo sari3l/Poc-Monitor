@@ -93,6 +93,7 @@
 - [turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker](https://github.com/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker">
 - [JackSparrowhk/ssh-CVE-2024-6387-poc](https://github.com/JackSparrowhk/ssh-CVE-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/JackSparrowhk/ssh-CVE-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/JackSparrowhk/ssh-CVE-2024-6387-poc">
 - [sms2056/CVE-2024-6387](https://github.com/sms2056/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/sms2056/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/sms2056/CVE-2024-6387">
+- [invaderslabs/regreSSHion-CVE-2024-6387-](https://github.com/invaderslabs/regreSSHion-CVE-2024-6387-)	<img alt="forks" src="https://img.shields.io/github/forks/invaderslabs/regreSSHion-CVE-2024-6387-">	<img alt="stars" src="https://img.shields.io/github/stars/invaderslabs/regreSSHion-CVE-2024-6387-">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -495,6 +496,15 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-36416 (2024-06-10T20:15:00)
 > SuiteCRM is an open-source Customer Relationship Management (CRM) software application. Prior to versions 7.14.4 and 8.6.1, a deprecated v4 API example with no log rotation allows denial of service by logging excessive data. Versions 7.14.4 and 8.6.1 contain a fix for this issue.
 - [kva55/CVE-2024-36416](https://github.com/kva55/CVE-2024-36416)	<img alt="forks" src="https://img.shields.io/github/forks/kva55/CVE-2024-36416">	<img alt="stars" src="https://img.shields.io/github/stars/kva55/CVE-2024-36416">
+
+---
+## CVE-2024-36401 (2024-07-01T16:15:00)
+> GeoServer is an open source server that allows users to share and edit geospatial data. Prior to versions 2.23.6, 2.24.4, and 2.25.2, multiple OGC request parameters allow Remote Code Execution (RCE) by unauthenticated users through specially crafted input against a default GeoServer installation due to unsafely evaluating property names as XPath expressions.
+
+The GeoTools library API that GeoServer calls evaluates property/attribute names for feature types in a way that unsafely passes them to the commons-jxpath library which can execute arbitrary code when evaluating XPath expressions. This XPath evaluation is intended to be used only by complex feature types (i.e., Application Schema data stores) but is incorrectly being applied to simple feature types as well which makes this vulnerability apply to **ALL** GeoServer instances. No public PoC is provided but this vulnerability has been confirmed to be exploitable through WFS GetFeature, WFS GetPropertyValue, WMS GetMap, WMS GetFeatureInfo, WMS GetLegendGraphic and WPS Execute requests. This vulnerability can lead to executing arbitrary code.
+
+Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround exists by removing the `gt-complex-x.y.jar` file from the GeoServer where `x.y` is the GeoTools version (e.g., `gt-complex-31.1.jar` if running GeoServer 2.25.1). This will remove the vulnerable code from GeoServer but may break some GeoServer functionality or prevent GeoServer from deploying if the gt-complex module is needed.
+- [bigb0x/CVE-2024-36401](https://github.com/bigb0x/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36401">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
