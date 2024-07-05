@@ -99,6 +99,8 @@
 - [sardine-web/CVE-2024-6387_Check](https://github.com/sardine-web/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-6387_Check">
 - [0x4D31/cve-2024-6387_hassh](https://github.com/0x4D31/cve-2024-6387_hassh)	<img alt="forks" src="https://img.shields.io/github/forks/0x4D31/cve-2024-6387_hassh">	<img alt="stars" src="https://img.shields.io/github/stars/0x4D31/cve-2024-6387_hassh">
 - [Segurmatica/CVE-2024-6387-CHECK](https://github.com/Segurmatica/CVE-2024-6387-CHECK)	<img alt="forks" src="https://img.shields.io/github/forks/Segurmatica/CVE-2024-6387-CHECK">	<img alt="stars" src="https://img.shields.io/github/stars/Segurmatica/CVE-2024-6387-CHECK">
+- [sardine-web/CVE-2024-6387-template](https://github.com/sardine-web/CVE-2024-6387-template)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-6387-template">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-6387-template">
+- [imv7/CVE-2024-6387](https://github.com/imv7/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/imv7/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/imv7/CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
