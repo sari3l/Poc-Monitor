@@ -358,6 +358,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [gotr00t0day/CVE-2024-4040](https://github.com/gotr00t0day/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2024-4040">
 - [1ncendium/CVE-2024-4040](https://github.com/1ncendium/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/1ncendium/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/1ncendium/CVE-2024-4040">
 - [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4040">
+- [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/entroychang/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/entroychang/CVE-2024-4040">
 
 ---
 ## CVE-2024-39844 (2024-07-03T17:15:00)
