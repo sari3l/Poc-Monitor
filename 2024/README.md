@@ -392,8 +392,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [artemy-ccrsky/CVE-2024-39211](https://github.com/artemy-ccrsky/CVE-2024-39211)	<img alt="forks" src="https://img.shields.io/github/forks/artemy-ccrsky/CVE-2024-39211">	<img alt="stars" src="https://img.shields.io/github/stars/artemy-ccrsky/CVE-2024-39211">
 
 ---
-## CVE-2024-39210 ()
-> 
+## CVE-2024-39210 (2024-07-05T16:15:00)
+> Best House Rental Management System v1.0 was discovered to contain an arbitrary file read vulnerability via the Page parameter at index.php. This vulnerability allows attackers to read arbitrary PHP files and access other sensitive information within the application.
 - [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210)	<img alt="forks" src="https://img.shields.io/github/forks/KRookieSec/CVE-2024-39210">	<img alt="stars" src="https://img.shields.io/github/stars/KRookieSec/CVE-2024-39210">
 
 ---
@@ -1263,6 +1263,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 - [DANO-AMP/CVE-2024-3094](https://github.com/DANO-AMP/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/DANO-AMP/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/DANO-AMP/CVE-2024-3094">
+- [robertdfrench/ifuncd-up](https://github.com/robertdfrench/ifuncd-up)	<img alt="forks" src="https://img.shields.io/github/forks/robertdfrench/ifuncd-up">	<img alt="stars" src="https://img.shields.io/github/stars/robertdfrench/ifuncd-up">
 
 ---
 ## CVE-2024-30937 ()
