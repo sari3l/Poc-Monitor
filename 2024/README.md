@@ -97,6 +97,7 @@
 - [lala-amber/CVE-2024-6387](https://github.com/lala-amber/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/lala-amber/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/lala-amber/CVE-2024-6387">
 - [4lxprime/regreSSHive](https://github.com/4lxprime/regreSSHive)	<img alt="forks" src="https://img.shields.io/github/forks/4lxprime/regreSSHive">	<img alt="stars" src="https://img.shields.io/github/stars/4lxprime/regreSSHive">
 - [sardine-web/CVE-2024-6387_Check](https://github.com/sardine-web/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-6387_Check">
+- [0x4D31/cve-2024-6387_hassh](https://github.com/0x4D31/cve-2024-6387_hassh)	<img alt="forks" src="https://img.shields.io/github/forks/0x4D31/cve-2024-6387_hassh">	<img alt="stars" src="https://img.shields.io/github/stars/0x4D31/cve-2024-6387_hassh">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
