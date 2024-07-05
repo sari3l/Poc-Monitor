@@ -442,6 +442,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
+## CVE-2024-37770 ()
+> 
+- [k3ppf0r/CVE-2024-37770](https://github.com/k3ppf0r/CVE-2024-37770)	<img alt="forks" src="https://img.shields.io/github/forks/k3ppf0r/CVE-2024-37770">	<img alt="stars" src="https://img.shields.io/github/stars/k3ppf0r/CVE-2024-37770">
+
+---
 ## CVE-2024-37765 (2024-07-01T22:15:00)
 > Machform up to version 19 is affected by an authenticated Blind SQL injection in the user account settings page.
 - [Atreb92/cve-2024-37765](https://github.com/Atreb92/cve-2024-37765)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37765">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37765">
