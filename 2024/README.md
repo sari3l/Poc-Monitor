@@ -101,6 +101,7 @@
 - [Segurmatica/CVE-2024-6387-CHECK](https://github.com/Segurmatica/CVE-2024-6387-CHECK)	<img alt="forks" src="https://img.shields.io/github/forks/Segurmatica/CVE-2024-6387-CHECK">	<img alt="stars" src="https://img.shields.io/github/stars/Segurmatica/CVE-2024-6387-CHECK">
 - [sardine-web/CVE-2024-6387-template](https://github.com/sardine-web/CVE-2024-6387-template)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-6387-template">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-6387-template">
 - [imv7/CVE-2024-6387](https://github.com/imv7/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/imv7/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/imv7/CVE-2024-6387">
+- [SiberianHacker/CVE-2024-6387-Finder](https://github.com/SiberianHacker/CVE-2024-6387-Finder)	<img alt="forks" src="https://img.shields.io/github/forks/SiberianHacker/CVE-2024-6387-Finder">	<img alt="stars" src="https://img.shields.io/github/stars/SiberianHacker/CVE-2024-6387-Finder">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -525,6 +526,7 @@ The GeoTools library API that GeoServer calls evaluates property/attribute names
 Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround exists by removing the `gt-complex-x.y.jar` file from the GeoServer where `x.y` is the GeoTools version (e.g., `gt-complex-31.1.jar` if running GeoServer 2.25.1). This will remove the vulnerable code from GeoServer but may break some GeoServer functionality or prevent GeoServer from deploying if the gt-complex module is needed.
 - [bigb0x/CVE-2024-36401](https://github.com/bigb0x/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36401">
 - [Niuwoo/CVE-2024-36401](https://github.com/Niuwoo/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Niuwoo/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Niuwoo/CVE-2024-36401">
+- [RevoltSecurities/CVE-2024-36401](https://github.com/RevoltSecurities/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-36401">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
