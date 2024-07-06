@@ -541,6 +541,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [Niuwoo/CVE-2024-36401](https://github.com/Niuwoo/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Niuwoo/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Niuwoo/CVE-2024-36401">
 - [RevoltSecurities/CVE-2024-36401](https://github.com/RevoltSecurities/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-36401">
 - [Mr-xn/CVE-2024-36401](https://github.com/Mr-xn/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-36401">
+- [zgimszhd61/CVE-2024-36401](https://github.com/zgimszhd61/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-36401">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
