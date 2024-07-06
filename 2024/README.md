@@ -269,6 +269,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2024-4577">
 - [charis3306/CVE-2024-4577](https://github.com/charis3306/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/charis3306/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/charis3306/CVE-2024-4577">
 - [cybersagor/CVE-2024-4577](https://github.com/cybersagor/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/cybersagor/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/cybersagor/CVE-2024-4577">
+- [l0n3m4n/CVE-2024-4577-RCE](https://github.com/l0n3m4n/CVE-2024-4577-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-4577-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-4577-RCE">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
