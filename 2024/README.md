@@ -509,6 +509,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 > In Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10, an attacker could perform a path traversal on the /modules/messaging/ endpoint in Splunk Enterprise on Windows. This vulnerability should only affect Splunk Enterprise on Windows.
 - [bigb0x/CVE-2024-36991](https://github.com/bigb0x/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36991">
 - [Mr-xn/CVE-2024-36991](https://github.com/Mr-xn/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-36991">
+- [th3gokul/CVE-2024-36991](https://github.com/th3gokul/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-36991">
 
 ---
 ## CVE-2024-36837 (2024-06-05T15:15:00)
