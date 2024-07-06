@@ -1643,6 +1643,7 @@ The command injection vulnerability in the “setCookie” parameter in Zyxel NA
 - [k3lpi3b4nsh33/CVE-2024-29973](https://github.com/k3lpi3b4nsh33/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-29973">
 - [p0et08/CVE-2024-29973](https://github.com/p0et08/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/p0et08/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/p0et08/CVE-2024-29973">
 - [RevoltSecurities/CVE-2024-29973](https://github.com/RevoltSecurities/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-29973">
+- [Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc](https://github.com/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc">
 
 ---
 ## CVE-2024-29972 (2024-06-04T02:15:00)
