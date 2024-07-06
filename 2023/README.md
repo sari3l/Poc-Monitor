@@ -1083,6 +1083,11 @@ Users are recommended to upgrade to version 18.12.10
 - [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48197">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48197">
 
 ---
+## CVE-2023-48194 ()
+> 
+- [zt20xx/CVE-2023-48194](https://github.com/zt20xx/CVE-2023-48194)	<img alt="forks" src="https://img.shields.io/github/forks/zt20xx/CVE-2023-48194">	<img alt="stars" src="https://img.shields.io/github/stars/zt20xx/CVE-2023-48194">
+
+---
 ## CVE-2023-4813 (2023-09-12T22:15:00)
 > A flaw was found in glibc. In an uncommon situation, the gaih_inet function may use memory that has been freed, resulting in an application crash. This issue is only exploitable when the getaddrinfo function is called and the hosts database in /etc/nsswitch.conf is configured with SUCCESS=continue or SUCCESS=merge.
 - [tnishiox/cve-2023-4813](https://github.com/tnishiox/cve-2023-4813)	<img alt="forks" src="https://img.shields.io/github/forks/tnishiox/cve-2023-4813">	<img alt="stars" src="https://img.shields.io/github/stars/tnishiox/cve-2023-4813">
