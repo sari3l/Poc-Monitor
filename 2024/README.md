@@ -490,6 +490,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
 
 ---
+## CVE-2024-37081 (2024-06-18T06:15:00)
+> The vCenter Server contains multiple local privilege escalation vulnerabilities due to misconfiguration of sudo. An authenticated local user with non-administrative privileges may exploit these issues to elevate privileges to root on vCenter Server Appliance.
+- [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-37081">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-37081">
+
+---
 ## CVE-2024-37079 (2024-06-18T06:15:00)
 > vCenter Server contains a heap-overflow vulnerability in the implementation of the DCERPC protocol. A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a specially crafted network packet potentially leading to remote code execution.
 - [v3rce/CVE-2024-37079-RCE-POC](https://github.com/v3rce/CVE-2024-37079-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v3rce/CVE-2024-37079-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v3rce/CVE-2024-37079-RCE-POC">
