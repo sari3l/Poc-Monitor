@@ -1084,7 +1084,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [AD-Appledog/CVE-2024-32002](https://github.com/AD-Appledog/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AD-Appledog/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AD-Appledog/CVE-2024-32002">
 - [Zhang-Yiiliin/test_cve_2024_32002](https://github.com/Zhang-Yiiliin/test_cve_2024_32002)	<img alt="forks" src="https://img.shields.io/github/forks/Zhang-Yiiliin/test_cve_2024_32002">	<img alt="stars" src="https://img.shields.io/github/stars/Zhang-Yiiliin/test_cve_2024_32002">
 - [Basyaact/CVE-2024-32002-PoC_Chinese](https://github.com/Basyaact/CVE-2024-32002-PoC_Chinese)	<img alt="forks" src="https://img.shields.io/github/forks/Basyaact/CVE-2024-32002-PoC_Chinese">	<img alt="stars" src="https://img.shields.io/github/stars/Basyaact/CVE-2024-32002-PoC_Chinese">
-- [coffeescholar/ReplaceAllGit](https://github.com/coffeescholar/ReplaceAllGit)	<img alt="forks" src="https://img.shields.io/github/forks/coffeescholar/ReplaceAllGit">	<img alt="stars" src="https://img.shields.io/github/stars/coffeescholar/ReplaceAllGit">
+- [LoongBa/ReplaceAllGit](https://github.com/LoongBa/ReplaceAllGit)	<img alt="forks" src="https://img.shields.io/github/forks/LoongBa/ReplaceAllGit">	<img alt="stars" src="https://img.shields.io/github/stars/LoongBa/ReplaceAllGit">
 - [tobelight/cve_2024_32002](https://github.com/tobelight/cve_2024_32002)	<img alt="forks" src="https://img.shields.io/github/forks/tobelight/cve_2024_32002">	<img alt="stars" src="https://img.shields.io/github/stars/tobelight/cve_2024_32002">
 - [tobelight/cve_2024_32002_hook](https://github.com/tobelight/cve_2024_32002_hook)	<img alt="forks" src="https://img.shields.io/github/forks/tobelight/cve_2024_32002_hook">	<img alt="stars" src="https://img.shields.io/github/stars/tobelight/cve_2024_32002_hook">
 - [431m/rcetest](https://github.com/431m/rcetest)	<img alt="forks" src="https://img.shields.io/github/forks/431m/rcetest">	<img alt="stars" src="https://img.shields.io/github/stars/431m/rcetest">
@@ -1096,6 +1096,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
 - [AmbroseCdMeng/CVE-2024-32002-Hook](https://github.com/AmbroseCdMeng/CVE-2024-32002-Hook)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002-Hook">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002-Hook">
 - [AmbroseCdMeng/CVE-2024-32002](https://github.com/AmbroseCdMeng/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002">
+- [sysonlai/CVE-2024-32002-main](https://github.com/sysonlai/CVE-2024-32002-main)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-main">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-main">
 
 ---
 ## CVE-2024-31982 (2024-04-10T20:15:00)
