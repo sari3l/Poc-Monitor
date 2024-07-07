@@ -679,6 +679,11 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/CVE-2024-34452">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/CVE-2024-34452">
 
 ---
+## CVE-2024-34361 (2024-07-05T19:15:00)
+> Pi-hole is a DNS sinkhole that protects devices from unwanted content without installing any client-side software. A vulnerability in versions prior to 5.18.3 allows an authenticated user to make internal requests to the server via the `gravity_DownloadBlocklistFromUrl()` function. Depending on some circumstances, the vulnerability could lead to remote command execution. Version 5.18.3 contains a patch for this issue.
+- [T0X1Cx/CVE-2024-34361-Exploit](https://github.com/T0X1Cx/CVE-2024-34361-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2024-34361-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2024-34361-Exploit">
+
+---
 ## CVE-2024-34351 (2024-05-14T15:38:00)
 > Next.js is a React framework that can provide building blocks to create web applications. A Server-Side Request Forgery (SSRF) vulnerability was identified in Next.js Server Actions. If the `Host` header is modified, and the below conditions are also met, an attacker may be able to make requests that appear to be originating from the Next.js application server itself. The required conditions are 1) Next.js is running in a self-hosted manner; 2) the Next.js application makes use of Server Actions; and 3) the Server Action performs a redirect to a relative path which starts with a `/`. This vulnerability was fixed in Next.js `14.1.1`.
 - [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
