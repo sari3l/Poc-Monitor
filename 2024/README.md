@@ -2925,6 +2925,11 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [horizon3ai/CVE-2024-23108](https://github.com/horizon3ai/CVE-2024-23108)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-23108">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-23108">
 
 ---
+## CVE-2024-23002 ()
+> 
+- [xiaomaoxxx/CVE-2024-23002](https://github.com/xiaomaoxxx/CVE-2024-23002)	<img alt="forks" src="https://img.shields.io/github/forks/xiaomaoxxx/CVE-2024-23002">	<img alt="stars" src="https://img.shields.io/github/stars/xiaomaoxxx/CVE-2024-23002">
+
+---
 ## CVE-2024-22983 (2024-02-28T22:15:00)
 > SQL injection vulnerability in Projectworlds Visitor Management System in PHP v.1.0 allows a remote attacker to escalate privileges via the name parameter in the myform.php endpoint.
 - [keru6k/CVE-2024-22983](https://github.com/keru6k/CVE-2024-22983)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22983">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22983">
