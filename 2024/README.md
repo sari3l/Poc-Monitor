@@ -1105,6 +1105,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [AmbroseCdMeng/CVE-2024-32002](https://github.com/AmbroseCdMeng/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002">
 - [sysonlai/CVE-2024-32002-main](https://github.com/sysonlai/CVE-2024-32002-main)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-main">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-main">
 - [sysonlai/CVE-2024-32002-hook](https://github.com/sysonlai/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-hook">
+- [sysonlai/CVE-2024-32002-main](https://github.com/sysonlai/CVE-2024-32002-main)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-main">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-main">
 
 ---
 ## CVE-2024-31982 (2024-04-10T20:15:00)
