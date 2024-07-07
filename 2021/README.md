@@ -4134,6 +4134,11 @@
 - [Live-Hack-CVE/CVE-2021-36408](https://github.com/Live-Hack-CVE/CVE-2021-36408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36408">
 
 ---
+## CVE-2021-36396 (2023-03-06T21:15:00)
+> In Moodle, insufficient redirect handling made it possible to blindly bypass cURL blocked hosts/allowed ports restrictions, resulting in a blind SSRF risk.
+- [T0X1Cx/CVE-2021-36396-Exploit](https://github.com/T0X1Cx/CVE-2021-36396-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2021-36396-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2021-36396-Exploit">
+
+---
 ## CVE-2021-36393 (2023-03-06T21:15:00)
 > In Moodle, an SQL injection risk was identified in the library fetching a user's recent courses.
 - [T0X1Cx/CVE-2021-36393-Exploit](https://github.com/T0X1Cx/CVE-2021-36393-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2021-36393-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2021-36393-Exploit">
