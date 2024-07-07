@@ -423,6 +423,13 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867)	<img alt="forks" src="https://img.shields.io/github/forks/c4cnm/CVE-2024-3867">	<img alt="stars" src="https://img.shields.io/github/stars/c4cnm/CVE-2024-3867">
 
 ---
+## CVE-2024-38537 (2024-07-02T20:15:00)
+> Fides is an open-source privacy engineering platform. `fides.js`, a client-side script used to interact with the consent management features of Fides, used the `polyfill.io` domain in a very limited edge case, when it detected a legacy browser such as IE11 that did not support the fetch standard. Therefore it was possible for users of legacy, pre-2017 browsers who navigate to a page serving `fides.js` to download and execute malicious scripts from the `polyfill.io` domain when the domain was compromised and serving malware. No exploitation of `fides.js` via `polyfill.io` has been identified as of time of publication.
+
+The vulnerability has been patched in Fides version `2.39.1`. Users are advised to upgrade to this version or later to secure their systems against this threat. On Thursday, June 27, 2024, Cloudflare and Namecheap intervened at a domain level to ensure `polyfill.io` and its subdomains could not resolve to the compromised service, rendering this vulnerability unexploitable. Prior to the domain level intervention, there were no server-side workarounds and the confidentiality, integrity, and availability impacts of this vulnerability were high. Clients could ensure they were not affected by using a modern browser that supported the fetch standard.
+- [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-)	<img alt="forks" src="https://img.shields.io/github/forks/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">	<img alt="stars" src="https://img.shields.io/github/stars/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">
+
+---
 ## CVE-2024-38396 (2024-06-16T21:15:00)
 > An issue was discovered in iTerm2 3.5.x before 3.5.2. Unfiltered use of an escape sequence to report a window title, in combination with the built-in tmux integration feature (enabled by default), allows an attacker to inject arbitrary code into the terminal, a different vulnerability than CVE-2024-38395.
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
@@ -1097,6 +1104,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [AmbroseCdMeng/CVE-2024-32002-Hook](https://github.com/AmbroseCdMeng/CVE-2024-32002-Hook)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002-Hook">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002-Hook">
 - [AmbroseCdMeng/CVE-2024-32002](https://github.com/AmbroseCdMeng/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002">
 - [sysonlai/CVE-2024-32002-main](https://github.com/sysonlai/CVE-2024-32002-main)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-main">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-main">
+- [sysonlai/CVE-2024-32002-hook](https://github.com/sysonlai/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-hook">
 
 ---
 ## CVE-2024-31982 (2024-04-10T20:15:00)
