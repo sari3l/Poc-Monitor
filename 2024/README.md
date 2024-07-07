@@ -121,6 +121,13 @@
 - [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-5961">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-5961">
 
 ---
+## CVE-2024-5947 (2024-06-13T20:15:00)
+> Deep Sea Electronics DSE855 Configuration Backup Missing Authentication Information Disclosure Vulnerability. This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of Deep Sea Electronics DSE855 devices. Authentication is not required to exploit this vulnerability.
+
+The specific flaw exists within the web-based UI. The issue results from the lack of authentication prior to allowing access to functionality. An attacker can leverage this vulnerability to disclose stored credentials, leading to further compromise. Was ZDI-CAN-22679.
+- [Cappricio-Securities/CVE-2024-5947](https://github.com/Cappricio-Securities/CVE-2024-5947)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-5947">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-5947">
+
+---
 ## CVE-2024-5899 (2024-06-18T09:15:00)
 > When Bazel Plugin in intellij imports a project (either using "import project" or "Auto import") the dialog for trusting the project is not displayed. This comes from the fact that both call the method ProjectBuilder.createProject which then calls ProjectManager.getInstance().createProject. This method, as its name suggests is intended to create a new project, not to import an existing one. 
 We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLion and Android Studio Bazel plugins.

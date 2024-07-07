@@ -319,6 +319,7 @@
 - [bme2003/CVE-2018-6574](https://github.com/bme2003/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/bme2003/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/bme2003/CVE-2018-6574">
 - [athulmur/CVE-2018-6574](https://github.com/athulmur/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/athulmur/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/athulmur/CVE-2018-6574">
 - [athulmur/CVE-2018-6574](https://github.com/athulmur/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/athulmur/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/athulmur/CVE-2018-6574">
+- [iNoSec2/cve-2018-6574](https://github.com/iNoSec2/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/iNoSec2/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/iNoSec2/cve-2018-6574">
 
 ---
 ## CVE-2018-6389 (2018-02-06T17:29:00)
