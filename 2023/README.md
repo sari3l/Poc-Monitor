@@ -2063,6 +2063,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 > 
 - [N1ghtfallXxX/CVE-2023-4220](https://github.com/N1ghtfallXxX/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/N1ghtfallXxX/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/N1ghtfallXxX/CVE-2023-4220">
 - [dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220](https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220">
+- [charlesgargasson/CVE-2023-4220](https://github.com/charlesgargasson/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2023-4220">
 
 ---
 ## CVE-2023-42120 (2024-05-03T03:15:00)
