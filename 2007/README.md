@@ -66,6 +66,7 @@
 - [ShivamDey/Samba-CVE-2007-2447-Exploit](https://github.com/ShivamDey/Samba-CVE-2007-2447-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ShivamDey/Samba-CVE-2007-2447-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ShivamDey/Samba-CVE-2007-2447-Exploit">
 - [mmezirard/cve-2007-2447](https://github.com/mmezirard/cve-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/mmezirard/cve-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/mmezirard/cve-2007-2447">
 - [Juantos/cve-2007-2447](https://github.com/Juantos/cve-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/Juantos/cve-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/Juantos/cve-2007-2447">
+- [IamLucif3r/CVE-2007-2447-Exploit](https://github.com/IamLucif3r/CVE-2007-2447-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IamLucif3r/CVE-2007-2447-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IamLucif3r/CVE-2007-2447-Exploit">
 
 ---
 ## CVE-2007-2444 (2007-05-14T21:19:00)
