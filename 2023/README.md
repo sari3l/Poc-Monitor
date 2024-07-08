@@ -1222,8 +1222,8 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [LucasVanHaaren/CVE-2023-47400](https://github.com/LucasVanHaaren/CVE-2023-47400)	<img alt="forks" src="https://img.shields.io/github/forks/LucasVanHaaren/CVE-2023-47400">	<img alt="stars" src="https://img.shields.io/github/stars/LucasVanHaaren/CVE-2023-47400">
 
 ---
-## CVE-2023-47246 ()
-> 
+## CVE-2023-47246 (2023-11-10T06:15:00)
+> In SysAid On-Premise before 23.3.36, a path traversal vulnerability leads to code execution after an attacker writes a file to the Tomcat webroot, as exploited in the wild in November 2023.
 - [ex0day/CVE-2023-47246](https://github.com/ex0day/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/ex0day/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/ex0day/CVE-2023-47246">
 - [W01fh4cker/CVE-2023-47246-EXP](https://github.com/W01fh4cker/CVE-2023-47246-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2023-47246-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2023-47246-EXP">
 - [tucommenceapousser/CVE-2023-47246](https://github.com/tucommenceapousser/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-47246">
