@@ -186,6 +186,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-5084">
 
 ---
+## CVE-2024-5009 (2024-06-25T20:15:00)
+> In WhatsUp Gold versions released before 2023.1.3, an Improper Access Control vulnerability in Wug.UI.Controllers.InstallController.SetAdminPassword allows local attackers to modify admin's password.
+- [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-5009">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-5009">
+
+---
 ## CVE-2024-4956 (2024-05-16T16:15:00)
 > Path Traversal in Sonatype Nexus Repository 3 allows an unauthenticated attacker to read system files. Fixed in version 3.68.1.
 - [banditzCyber0x/CVE-2024-4956](https://github.com/banditzCyber0x/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/banditzCyber0x/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/banditzCyber0x/CVE-2024-4956">
@@ -208,6 +213,22 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 > The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary option updates due to a missing authorization checks on the REST API calls in all versions up to, and including, 0.1.0.38. This makes it possible for unauthenticated attackers to connect the site to InstaWP API, edit arbitrary site options and create administrator accounts.
 - [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4898-Poc">
 - [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4898-Poc">
+
+---
+## CVE-2024-4885 (2024-06-25T20:15:00)
+> In WhatsUp Gold versions released before 2023.1.3, an unauthenticated Remote Code Execution vulnerability in Progress WhatsUpGold.  The 
+
+WhatsUp.ExportUtilities.Export.GetFileWithoutZip
+
+
+
+ allows execution of commands with iisapppool\nmconsole privileges.
+- [sinsinology/CVE-2024-4885](https://github.com/sinsinology/CVE-2024-4885)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-4885">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-4885">
+
+---
+## CVE-2024-4883 (2024-06-25T20:15:00)
+> In WhatsUp Gold versions released before 2023.1.3, a Remote Code Execution issue exists in Progress WhatsUp Gold. This vulnerability allows an unauthenticated attacker to achieve the RCE as a service account through NmApi.exe.
+- [sinsinology/CVE-2024-4883](https://github.com/sinsinology/CVE-2024-4883)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-4883">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-4883">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
