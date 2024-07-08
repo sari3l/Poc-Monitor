@@ -436,6 +436,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)	<img alt="forks" src="https://img.shields.io/github/forks/5r1an/CVE-2024-39203">	<img alt="stars" src="https://img.shields.io/github/stars/5r1an/CVE-2024-39203">
 
 ---
+## CVE-2024-39031 ()
+> 
+- [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031)	<img alt="forks" src="https://img.shields.io/github/forks/toneemarqus/CVE-2024-39031">	<img alt="stars" src="https://img.shields.io/github/stars/toneemarqus/CVE-2024-39031">
+
+---
 ## CVE-2024-3902 ()
 > 
 - [OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit](https://github.com/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">
