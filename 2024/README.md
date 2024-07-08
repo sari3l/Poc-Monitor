@@ -104,6 +104,7 @@
 - [SiberianHacker/CVE-2024-6387-Finder](https://github.com/SiberianHacker/CVE-2024-6387-Finder)	<img alt="forks" src="https://img.shields.io/github/forks/SiberianHacker/CVE-2024-6387-Finder">	<img alt="stars" src="https://img.shields.io/github/stars/SiberianHacker/CVE-2024-6387-Finder">
 - [dgicloud/patch_regreSSHion](https://github.com/dgicloud/patch_regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/dgicloud/patch_regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/dgicloud/patch_regreSSHion">
 - [azurejoga/CVE-2024-6387-how-to-fix](https://github.com/azurejoga/CVE-2024-6387-how-to-fix)	<img alt="forks" src="https://img.shields.io/github/forks/azurejoga/CVE-2024-6387-how-to-fix">	<img alt="stars" src="https://img.shields.io/github/stars/azurejoga/CVE-2024-6387-how-to-fix">
+- [asterictnl-lvdw/CVE-2024-6387](https://github.com/asterictnl-lvdw/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/asterictnl-lvdw/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/asterictnl-lvdw/CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
