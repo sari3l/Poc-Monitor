@@ -545,6 +545,7 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 ## CVE-2024-37081 (2024-06-18T06:15:00)
 > The vCenter Server contains multiple local privilege escalation vulnerabilities due to misconfiguration of sudo. An authenticated local user with non-administrative privileges may exploit these issues to elevate privileges to root on vCenter Server Appliance.
 - [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-37081">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-37081">
+- [Mr-r00t11/CVE-2024-37081](https://github.com/Mr-r00t11/CVE-2024-37081)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-37081">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-37081">
 
 ---
 ## CVE-2024-37079 (2024-06-18T06:15:00)
