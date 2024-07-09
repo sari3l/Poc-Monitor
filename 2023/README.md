@@ -1083,8 +1083,8 @@ Users are recommended to upgrade to version 18.12.10
 - [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48197">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48197">
 
 ---
-## CVE-2023-48194 ()
-> 
+## CVE-2023-48194 (2024-07-09T18:15:00)
+> Vulnerability in Tenda AC8v4 .V16.03.34.09 due to sscanf and the last digit of s8 being overwritten with \x0. After executing set_client_qos, control over the gp register can be obtained.
 - [zt20xx/CVE-2023-48194](https://github.com/zt20xx/CVE-2023-48194)	<img alt="forks" src="https://img.shields.io/github/forks/zt20xx/CVE-2023-48194">	<img alt="stars" src="https://img.shields.io/github/stars/zt20xx/CVE-2023-48194">
 
 ---
