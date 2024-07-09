@@ -2071,6 +2071,11 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [B1TC0R3/CVE-2023-4220-PoC](https://github.com/B1TC0R3/CVE-2023-4220-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/B1TC0R3/CVE-2023-4220-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/B1TC0R3/CVE-2023-4220-PoC">
 
 ---
+## CVE-2023-422 ()
+> 
+- [HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE](https://github.com/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE">
+
+---
 ## CVE-2023-42120 (2024-05-03T03:15:00)
 > Control Web Panel dns_zone_editor Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Control Web Panel. Authentication is required to exploit this vulnerability.
 
