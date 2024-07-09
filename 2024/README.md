@@ -446,8 +446,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [AungSoePaing/CVE-2024-39069](https://github.com/AungSoePaing/CVE-2024-39069)	<img alt="forks" src="https://img.shields.io/github/forks/AungSoePaing/CVE-2024-39069">	<img alt="stars" src="https://img.shields.io/github/stars/AungSoePaing/CVE-2024-39069">
 
 ---
-## CVE-2024-39031 ()
-> 
+## CVE-2024-39031 (2024-07-09T21:15:00)
+> In Silverpeas Core <= 6.3.5, inside of mes agendas a user can create a new event and add it to his calendar. The user can also add other users to the event from the same domain, including administrator. A normal user can create an event with XSS payload inside “Titre” and “Description” parameters and add the administrator or any user to the event. When the other user (victim) visits his own profile (even without clicking on the event) the payload will be executed on the victim side.
 - [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031)	<img alt="forks" src="https://img.shields.io/github/forks/toneemarqus/CVE-2024-39031">	<img alt="stars" src="https://img.shields.io/github/stars/toneemarqus/CVE-2024-39031">
 
 ---
