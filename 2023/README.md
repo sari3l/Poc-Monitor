@@ -2067,6 +2067,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc](https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc">
 - [insomnia-jacob/CVE-2023-4220-](https://github.com/insomnia-jacob/CVE-2023-4220-)	<img alt="forks" src="https://img.shields.io/github/forks/insomnia-jacob/CVE-2023-4220-">	<img alt="stars" src="https://img.shields.io/github/stars/insomnia-jacob/CVE-2023-4220-">
 - [Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit](https://github.com/Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit">
+- [HO4XXX/cve-2023-4220-poc](https://github.com/HO4XXX/cve-2023-4220-poc)	<img alt="forks" src="https://img.shields.io/github/forks/HO4XXX/cve-2023-4220-poc">	<img alt="stars" src="https://img.shields.io/github/stars/HO4XXX/cve-2023-4220-poc">
 
 ---
 ## CVE-2023-42120 (2024-05-03T03:15:00)
