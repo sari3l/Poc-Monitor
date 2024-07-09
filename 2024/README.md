@@ -436,6 +436,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)	<img alt="forks" src="https://img.shields.io/github/forks/5r1an/CVE-2024-39203">	<img alt="stars" src="https://img.shields.io/github/stars/5r1an/CVE-2024-39203">
 
 ---
+## CVE-2024-39069 ()
+> 
+- [AungSoePaing/CVE-2024-39069](https://github.com/AungSoePaing/CVE-2024-39069)	<img alt="forks" src="https://img.shields.io/github/forks/AungSoePaing/CVE-2024-39069">	<img alt="stars" src="https://img.shields.io/github/stars/AungSoePaing/CVE-2024-39069">
+
+---
 ## CVE-2024-39031 ()
 > 
 - [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031)	<img alt="forks" src="https://img.shields.io/github/forks/toneemarqus/CVE-2024-39031">	<img alt="stars" src="https://img.shields.io/github/stars/toneemarqus/CVE-2024-39031">
