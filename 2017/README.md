@@ -968,6 +968,11 @@
 - [Live-Hack-CVE/CVE-2017-15108](https://github.com/Live-Hack-CVE/CVE-2017-15108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15108">
 
 ---
+## CVE-2017-15099 (2017-11-22T18:29:00)
+> INSERT ... ON CONFLICT DO UPDATE commands in PostgreSQL 10.x before 10.1, 9.6.x before 9.6.6, and 9.5.x before 9.5.10 disclose table contents that the invoker lacks privilege to read. These exploits affect only tables where the attacker lacks full read access but has both INSERT and UPDATE privileges. Exploits bypass row level security policies and lack of SELECT privilege.
+- [ToontjeM/CVE-2017-15099](https://github.com/ToontjeM/CVE-2017-15099)	<img alt="forks" src="https://img.shields.io/github/forks/ToontjeM/CVE-2017-15099">	<img alt="stars" src="https://img.shields.io/github/stars/ToontjeM/CVE-2017-15099">
+
+---
 ## CVE-2017-14864 (2017-09-29T01:34:00)
 > An Invalid memory address dereference was discovered in Exiv2::getULong in types.cpp in Exiv2 0.26. The vulnerability causes a segmentation fault and application crash, which leads to denial of service.
 - [Live-Hack-CVE/CVE-2017-14864](https://github.com/Live-Hack-CVE/CVE-2017-14864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14864">
