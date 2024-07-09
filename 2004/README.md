@@ -1,6 +1,11 @@
 # 2004 List
 
 ---
+## CVE-2004-6768 ()
+> 
+- [yougboiz/Metasploit-CVE-2004-6768](https://github.com/yougboiz/Metasploit-CVE-2004-6768)	<img alt="forks" src="https://img.shields.io/github/forks/yougboiz/Metasploit-CVE-2004-6768">	<img alt="stars" src="https://img.shields.io/github/stars/yougboiz/Metasploit-CVE-2004-6768">
+
+---
 ## CVE-2004-2271 (2004-12-31T05:00:00)
 > Buffer overflow in MiniShare 1.4.1 and earlier allows remote attackers to execute arbitrary code via a long HTTP GET request.
 - [lautarolopez4/CVE-2004-2271](https://github.com/lautarolopez4/CVE-2004-2271)	<img alt="forks" src="https://img.shields.io/github/forks/lautarolopez4/CVE-2004-2271">	<img alt="stars" src="https://img.shields.io/github/stars/lautarolopez4/CVE-2004-2271">
