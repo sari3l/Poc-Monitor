@@ -109,6 +109,7 @@
 - [dgourillon/mitigate-CVE-2024-6387](https://github.com/dgourillon/mitigate-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/dgourillon/mitigate-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/dgourillon/mitigate-CVE-2024-6387">
 - [mrmtwoj/CVE-2024-6387](https://github.com/mrmtwoj/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/CVE-2024-6387">
 - [filipi86/CVE-2024-6387-Vulnerability-Checker](https://github.com/filipi86/CVE-2024-6387-Vulnerability-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/filipi86/CVE-2024-6387-Vulnerability-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/filipi86/CVE-2024-6387-Vulnerability-Checker">
+- [kubota/CVE-2024-6387-Vulnerability-Checker](https://github.com/kubota/CVE-2024-6387-Vulnerability-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/kubota/CVE-2024-6387-Vulnerability-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/kubota/CVE-2024-6387-Vulnerability-Checker">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
