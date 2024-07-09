@@ -106,6 +106,7 @@
 - [azurejoga/CVE-2024-6387-how-to-fix](https://github.com/azurejoga/CVE-2024-6387-how-to-fix)	<img alt="forks" src="https://img.shields.io/github/forks/azurejoga/CVE-2024-6387-how-to-fix">	<img alt="stars" src="https://img.shields.io/github/stars/azurejoga/CVE-2024-6387-how-to-fix">
 - [asterictnl-lvdw/CVE-2024-6387](https://github.com/asterictnl-lvdw/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/asterictnl-lvdw/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/asterictnl-lvdw/CVE-2024-6387">
 - [vkaushik-chef/regreSSHion](https://github.com/vkaushik-chef/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/vkaushik-chef/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/vkaushik-chef/regreSSHion">
+- [dgourillon/mitigate-CVE-2024-6387](https://github.com/dgourillon/mitigate-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/dgourillon/mitigate-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/dgourillon/mitigate-CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
