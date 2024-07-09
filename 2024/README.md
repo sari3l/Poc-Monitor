@@ -191,6 +191,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 ## CVE-2024-5009 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an Improper Access Control vulnerability in Wug.UI.Controllers.InstallController.SetAdminPassword allows local attackers to modify admin's password.
 - [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-5009">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-5009">
+- [th3gokul/CVE-2024-5009](https://github.com/th3gokul/CVE-2024-5009)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-5009">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-5009">
 
 ---
 ## CVE-2024-4956 (2024-05-16T16:15:00)
