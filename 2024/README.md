@@ -821,6 +821,9 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [cmsec423/CVE-2024-34102](https://github.com/cmsec423/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/cmsec423/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/cmsec423/CVE-2024-34102">
 - [jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento](https://github.com/jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento">
 - [0xhunster/CVE-2024-34102](https://github.com/0xhunster/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/0xhunster/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/0xhunster/CVE-2024-34102">
+- [Ex-Arn/CVE-2024-34102-RCE](https://github.com/Ex-Arn/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Ex-Arn/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Ex-Arn/CVE-2024-34102-RCE">
+- [unknownzerobit/poc](https://github.com/unknownzerobit/poc)	<img alt="forks" src="https://img.shields.io/github/forks/unknownzerobit/poc">	<img alt="stars" src="https://img.shields.io/github/stars/unknownzerobit/poc">
+- [SamJUK/cosmicsting-validator](https://github.com/SamJUK/cosmicsting-validator)	<img alt="forks" src="https://img.shields.io/github/forks/SamJUK/cosmicsting-validator">	<img alt="stars" src="https://img.shields.io/github/stars/SamJUK/cosmicsting-validator">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
