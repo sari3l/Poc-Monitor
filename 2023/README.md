@@ -4310,6 +4310,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/ValentinPundikov/poc-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/ValentinPundikov/poc-CVE-2023-32784">
 - [1ocho3/NCL_V](https://github.com/1ocho3/NCL_V)	<img alt="forks" src="https://img.shields.io/github/forks/1ocho3/NCL_V">	<img alt="stars" src="https://img.shields.io/github/stars/1ocho3/NCL_V">
 - [mister-turtle/cve-2023-32784](https://github.com/mister-turtle/cve-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/mister-turtle/cve-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/mister-turtle/cve-2023-32784">
+- [Cmadhushanka/CVE-2023-32784-Exploitation](https://github.com/Cmadhushanka/CVE-2023-32784-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/Cmadhushanka/CVE-2023-32784-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/Cmadhushanka/CVE-2023-32784-Exploitation">
+- [Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784](https://github.com/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">
 
 ---
 ## CVE-2023-32749 (2023-06-08T20:15:00)
