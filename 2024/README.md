@@ -441,8 +441,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)	<img alt="forks" src="https://img.shields.io/github/forks/5r1an/CVE-2024-39203">	<img alt="stars" src="https://img.shields.io/github/stars/5r1an/CVE-2024-39203">
 
 ---
-## CVE-2024-39069 ()
-> 
+## CVE-2024-39069 (2024-07-09T22:15:00)
+> An issue in ifood Order Manager v3.35.5 'Gestor de Peddios.exe' allows attackers to execute arbitrary code via a DLL hijacking attack.
 - [AungSoePaing/CVE-2024-39069](https://github.com/AungSoePaing/CVE-2024-39069)	<img alt="forks" src="https://img.shields.io/github/forks/AungSoePaing/CVE-2024-39069">	<img alt="stars" src="https://img.shields.io/github/stars/AungSoePaing/CVE-2024-39069">
 
 ---
