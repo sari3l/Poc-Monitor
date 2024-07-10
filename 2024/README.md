@@ -505,8 +505,8 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
-## CVE-2024-37770 ()
-> 
+## CVE-2024-37770 (2024-07-10T18:15:00)
+> 14Finger v1.1 was discovered to contain a remote command execution (RCE) vulnerability in the fingerprint function. This vulnerability allows attackers to execute arbitrary commands via a crafted payload.
 - [k3ppf0r/CVE-2024-37770](https://github.com/k3ppf0r/CVE-2024-37770)	<img alt="forks" src="https://img.shields.io/github/forks/k3ppf0r/CVE-2024-37770">	<img alt="stars" src="https://img.shields.io/github/stars/k3ppf0r/CVE-2024-37770">
 
 ---
