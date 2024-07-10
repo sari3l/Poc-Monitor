@@ -1807,6 +1807,11 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [kjdfklha/CVE-2024-2961_poc](https://github.com/kjdfklha/CVE-2024-2961_poc)	<img alt="forks" src="https://img.shields.io/github/forks/kjdfklha/CVE-2024-2961_poc">	<img alt="stars" src="https://img.shields.io/github/stars/kjdfklha/CVE-2024-2961_poc">
 
 ---
+## CVE-2024-29510 (2024-07-03T19:15:00)
+> Artifex Ghostscript before 10.03.1 allows memory corruption, and SAFER sandbox bypass, via format string injection with a uniprint device.
+- [swsmith2391/CVE-2024-29510](https://github.com/swsmith2391/CVE-2024-29510)	<img alt="forks" src="https://img.shields.io/github/forks/swsmith2391/CVE-2024-29510">	<img alt="stars" src="https://img.shields.io/github/stars/swsmith2391/CVE-2024-29510">
+
+---
 ## CVE-2024-29455 (2024-04-11T05:15:00)
 > An arbitrary file upload vulnerability has been discovered in ROS2 Humble Hawksbill in ROS_VERSION 2 and ROS_PYTHON_VERSION 3, allows attackers to execute arbitrary code, cause a denial of service (DoS), and obtain sensitive information via crafted payload to the file upload mechanism of the ROS2 system, including the server’s functionality for handling file uploads and the associated validation processes. NOTE: this is disputed by multiple third parties who believe there was not reasonable evidence to determine the existence of a vulnerability.
 - [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29455">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29455">
