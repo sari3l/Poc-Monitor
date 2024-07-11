@@ -113,6 +113,7 @@
 - [DimaMend/cve-2024-6387-poc](https://github.com/DimaMend/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DimaMend/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DimaMend/cve-2024-6387-poc">
 - [bigb0x/SSH-Scanner](https://github.com/bigb0x/SSH-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/SSH-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/SSH-Scanner">
 - [ThemeHackers/CVE-2024-6387](https://github.com/ThemeHackers/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-6387">
+- [Sibijo/mitigate_ssh](https://github.com/Sibijo/mitigate_ssh)	<img alt="forks" src="https://img.shields.io/github/forks/Sibijo/mitigate_ssh">	<img alt="stars" src="https://img.shields.io/github/stars/Sibijo/mitigate_ssh">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
