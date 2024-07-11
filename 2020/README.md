@@ -2574,6 +2574,7 @@
 - [Schira4396/CVE-2020-25540](https://github.com/Schira4396/CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/CVE-2020-25540">
 - [lowkey0808/cve-2020-25540](https://github.com/lowkey0808/cve-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/lowkey0808/cve-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/lowkey0808/cve-2020-25540">
 - [Rajchowdhury420/ThinkAdmin-CVE-2020-25540](https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Rajchowdhury420/ThinkAdmin-CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Rajchowdhury420/ThinkAdmin-CVE-2020-25540">
+- [simonlee-hello/CVE-2020-25540](https://github.com/simonlee-hello/CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/simonlee-hello/CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/simonlee-hello/CVE-2020-25540">
 
 ---
 ## CVE-2020-2552 (2020-01-15T17:15:00)
