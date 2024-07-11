@@ -3175,6 +3175,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 ## CVE-2024-22274 (2024-05-21T18:15:00)
 > The vCenter Server contains an authenticated remote code execution vulnerability. A malicious actor with administrative privileges on the vCenter appliance shell may exploit this issue to run arbitrary commands on the underlying operating system.
 - [mbadanoiu/CVE-2024-22274](https://github.com/mbadanoiu/CVE-2024-22274)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-22274">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-22274">
+- [ninhpn1337/CVE-2024-22274](https://github.com/ninhpn1337/CVE-2024-22274)	<img alt="forks" src="https://img.shields.io/github/forks/ninhpn1337/CVE-2024-22274">	<img alt="stars" src="https://img.shields.io/github/stars/ninhpn1337/CVE-2024-22274">
 
 ---
 ## CVE-2024-22252 (2024-03-05T18:15:00)
