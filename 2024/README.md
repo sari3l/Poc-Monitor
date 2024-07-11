@@ -3824,6 +3824,11 @@ authentication.   
 - [Cappricio-Securities/.github](https://github.com/Cappricio-Securities/.github)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/.github">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/.github">
 
 ---
+## CVE-2024-11451 ()
+> 
+- [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451)	<img alt="forks" src="https://img.shields.io/github/forks/Xiaolqy/CVE-2024-11451">	<img alt="stars" src="https://img.shields.io/github/stars/Xiaolqy/CVE-2024-11451">
+
+---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
 > A use-after-free vulnerability in the Linux kernel's netfilter: nf_tables component can be exploited to achieve local privilege escalation.
 
