@@ -6,8 +6,8 @@
 - [xiaoqiao147/CVE-2024-666666](https://github.com/xiaoqiao147/CVE-2024-666666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-666666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-666666">
 
 ---
-## CVE-2024-6666 ()
-> 
+## CVE-2024-6666 (2024-07-11T07:15:00)
+> The WP ERP plugin for WordPress is vulnerable to SQL Injection via the ‘vendor_id’ parameter in all versions up to, and including, 1.13.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with Accounting Manager access (erp_ac_view_sales_summary capability) and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [JohnnyBradvo/CVE-2024-6666](https://github.com/JohnnyBradvo/CVE-2024-6666)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-6666">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-6666">
 
 ---
@@ -550,6 +550,11 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 ## CVE-2024-37393 (2024-06-10T20:15:00)
 > Multiple LDAP injections vulnerabilities exist in SecurEnvoy MFA before 9.4.514 due to improper validation of user-supplied input. An unauthenticated remote attacker could exfiltrate data from Active Directory through blind LDAP injection attacks against the DESKTOP service exposed on the /secserver HTTP endpoint. This may include ms-Mcs-AdmPwd, which has a cleartext password for the Local Administrator Password Solution (LAPS) feature.
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
+
+---
+## CVE-2024-37147 (2024-07-10T19:15:00)
+> GLPI is an open-source asset and IT management software package that provides ITIL Service Desk features, licenses tracking and software auditing. An authenticated user can attach a document to any item, even if the user has no write access on it. Upgrade to 10.0.16.
+- [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-37147-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-37147-PoC">
 
 ---
 ## CVE-2024-37081 (2024-06-18T06:15:00)
