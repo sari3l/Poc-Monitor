@@ -2129,6 +2129,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [itzheartzz/MASS-CVE-2024-27956](https://github.com/itzheartzz/MASS-CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/itzheartzz/MASS-CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/itzheartzz/MASS-CVE-2024-27956">
 - [TadashiJei/Valve-Press-CVE-2024-27956-RCE](https://github.com/TadashiJei/Valve-Press-CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TadashiJei/Valve-Press-CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TadashiJei/Valve-Press-CVE-2024-27956-RCE">
 - [cve-2024/CVE-2024-27956-RCE](https://github.com/cve-2024/CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-27956-RCE">
+- [ThatNotEasy/CVE-2024-27956](https://github.com/ThatNotEasy/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-27956">
 
 ---
 ## CVE-2024-27815 (2024-06-10T21:15:00)
