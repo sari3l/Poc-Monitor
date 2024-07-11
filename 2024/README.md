@@ -311,6 +311,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [charis3306/CVE-2024-4577](https://github.com/charis3306/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/charis3306/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/charis3306/CVE-2024-4577">
 - [cybersagor/CVE-2024-4577](https://github.com/cybersagor/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/cybersagor/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/cybersagor/CVE-2024-4577">
 - [l0n3m4n/CVE-2024-4577-RCE](https://github.com/l0n3m4n/CVE-2024-4577-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-4577-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-4577-RCE">
+- [bibo318/CVE-2024-4577-RCE-ATTACK](https://github.com/bibo318/CVE-2024-4577-RCE-ATTACK)	<img alt="forks" src="https://img.shields.io/github/forks/bibo318/CVE-2024-4577-RCE-ATTACK">	<img alt="stars" src="https://img.shields.io/github/stars/bibo318/CVE-2024-4577-RCE-ATTACK">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
