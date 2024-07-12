@@ -391,6 +391,7 @@
 - [notlikethis/CVE-2015-1328](https://github.com/notlikethis/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/notlikethis/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/notlikethis/CVE-2015-1328">
 - [SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328](https://github.com/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328">
 - [poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/poxicity/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/poxicity/CVE-2015-1328">
+- [BlackFrog-hub/cve-2015-1328](https://github.com/BlackFrog-hub/cve-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/BlackFrog-hub/cve-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/BlackFrog-hub/cve-2015-1328">
 
 ---
 ## CVE-2015-10057 (2023-01-16T19:15:00)
