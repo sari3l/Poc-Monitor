@@ -429,6 +429,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [tequilasunsh1ne/CVE_2024_39943](https://github.com/tequilasunsh1ne/CVE_2024_39943)	<img alt="forks" src="https://img.shields.io/github/forks/tequilasunsh1ne/CVE_2024_39943">	<img alt="stars" src="https://img.shields.io/github/stars/tequilasunsh1ne/CVE_2024_39943">
 
 ---
+## CVE-2024-39929 (2024-07-04T15:15:00)
+> Exim through 4.97.1 misparses a multiline RFC 2231 header filename, and thus remote attackers can bypass a $mime_filename extension-blocking protection mechanism, and potentially deliver executable attachments to the mailboxes of end users.
+- [rxerium/CVE-2024-39929](https://github.com/rxerium/CVE-2024-39929)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2024-39929">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2024-39929">
+
+---
 ## CVE-2024-39844 (2024-07-03T17:15:00)
 > In ZNC before 1.9.1, remote code execution can occur in modtcl via a KICK.
 - [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
