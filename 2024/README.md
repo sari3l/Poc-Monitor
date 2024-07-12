@@ -247,6 +247,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [sinsinology/CVE-2024-4883](https://github.com/sinsinology/CVE-2024-4883)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-4883">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-4883">
 
 ---
+## CVE-2024-4879 (2024-07-10T17:15:00)
+> ServiceNow has addressed an input validation vulnerability that was identified in Vancouver and Washington DC Now Platform releases. This vulnerability could enable an unauthenticated user to remotely execute code within the context of the Now Platform. ServiceNow applied an update to hosted instances, and ServiceNow released the update to our partners and self-hosted customers. Listed below are the patches and hot fixes that address the vulnerability. If you have not done so already, we recommend applying security patches relevant to your instance as soon as possible.
+- [Brut-Security/CVE-2024-4879](https://github.com/Brut-Security/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/Brut-Security/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/Brut-Security/CVE-2024-4879">
+
+---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
 > The HT Mega – Absolute Addons For Elementor plugin for WordPress is vulnerable to unauthorized modification of data|loss of data due to a missing capability check on the 'ajax_dismiss' function in versions up to, and including, 2.5.2. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to update options such as users_can_register, which can lead to unauthorized user registration.
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
