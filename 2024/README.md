@@ -251,6 +251,7 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 > ServiceNow has addressed an input validation vulnerability that was identified in Vancouver and Washington DC Now Platform releases. This vulnerability could enable an unauthenticated user to remotely execute code within the context of the Now Platform. ServiceNow applied an update to hosted instances, and ServiceNow released the update to our partners and self-hosted customers. Listed below are the patches and hot fixes that address the vulnerability. If you have not done so already, we recommend applying security patches relevant to your instance as soon as possible.
 - [Brut-Security/CVE-2024-4879](https://github.com/Brut-Security/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/Brut-Security/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/Brut-Security/CVE-2024-4879">
 - [bigb0x/CVE-2024-4879](https://github.com/bigb0x/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-4879">
+- [Mr-r00t11/CVE-2024-4879](https://github.com/Mr-r00t11/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-4879">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
