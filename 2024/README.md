@@ -1819,6 +1819,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 > An unspecified SQL Injection vulnerability in Core server of Ivanti EPM 2022 SU5 and prior allows an unauthenticated attacker within the same network to execute arbitrary code.
 - [horizon3ai/CVE-2024-29824](https://github.com/horizon3ai/CVE-2024-29824)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-29824">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-29824">
 - [R4be1/CVE-2024-29824](https://github.com/R4be1/CVE-2024-29824)	<img alt="forks" src="https://img.shields.io/github/forks/R4be1/CVE-2024-29824">	<img alt="stars" src="https://img.shields.io/github/stars/R4be1/CVE-2024-29824">
+- [codeb0ss/CVE-2024-29824-PoC](https://github.com/codeb0ss/CVE-2024-29824-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-29824-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-29824-PoC">
 
 ---
 ## CVE-2024-2961 (2024-04-17T18:15:00)
