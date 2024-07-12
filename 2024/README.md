@@ -115,6 +115,7 @@
 - [ThemeHackers/CVE-2024-6387](https://github.com/ThemeHackers/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-6387">
 - [Sibijo/mitigate_ssh](https://github.com/Sibijo/mitigate_ssh)	<img alt="forks" src="https://img.shields.io/github/forks/Sibijo/mitigate_ssh">	<img alt="stars" src="https://img.shields.io/github/stars/Sibijo/mitigate_ssh">
 - [Passyed/regreSSHion-Fix](https://github.com/Passyed/regreSSHion-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/Passyed/regreSSHion-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/Passyed/regreSSHion-Fix">
+- [k4t3pr0/CVE-2024-6387-Check](https://github.com/k4t3pr0/CVE-2024-6387-Check)	<img alt="forks" src="https://img.shields.io/github/forks/k4t3pr0/CVE-2024-6387-Check">	<img alt="stars" src="https://img.shields.io/github/stars/k4t3pr0/CVE-2024-6387-Check">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
