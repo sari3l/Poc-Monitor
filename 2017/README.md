@@ -1109,6 +1109,11 @@
 - [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2017-12561">
 
 ---
+## CVE-2017-1235 (2017-09-25T16:29:00)
+> IBM WebSphere MQ 8.0 could allow an authenticated user to cause a premature termination of a client application thread which could potentially cause denial of service. IBM X-Force ID: 123914.
+- [11k4r/CVE-2017-1235_exploit](https://github.com/11k4r/CVE-2017-1235_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/11k4r/CVE-2017-1235_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/11k4r/CVE-2017-1235_exploit">
+
+---
 ## CVE-2017-12149 (2017-10-04T21:01:00)
 > In Jboss Application Server as shipped with Red Hat Enterprise Application Platform 5.2, it was found that the doFilter method in the ReadOnlyAccessFilter of the HTTP Invoker does not restrict classes for which it performs deserialization and thus allowing an attacker to execute arbitrary code via crafted serialized data.
 - [MrE-Fog/jboss-_CVE-2017-12149](https://github.com/MrE-Fog/jboss-_CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/MrE-Fog/jboss-_CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/MrE-Fog/jboss-_CVE-2017-12149">
