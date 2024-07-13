@@ -3713,6 +3713,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
  This vulnerability is due to incomplete error checking when parsing an HTTP header. An attacker could exploit this vulnerability by sending a crafted HTTP request to a targeted web server on a device. A successful exploit could allow the attacker to cause a DoS condition when the device reloads.
 - [Spl0stus/CVE-2024-20353-CiscoASAandFTD](https://github.com/Spl0stus/CVE-2024-20353-CiscoASAandFTD)	<img alt="forks" src="https://img.shields.io/github/forks/Spl0stus/CVE-2024-20353-CiscoASAandFTD">	<img alt="stars" src="https://img.shields.io/github/stars/Spl0stus/CVE-2024-20353-CiscoASAandFTD">
 - [west-wind/Threat-Hunting-With-Splunk](https://github.com/west-wind/Threat-Hunting-With-Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/Threat-Hunting-With-Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/Threat-Hunting-With-Splunk">
+- [codeb0ss/CVE-2024-20353-PoC](https://github.com/codeb0ss/CVE-2024-20353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-20353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-20353-PoC">
 
 ---
 ## CVE-2024-20337 (2024-03-06T17:15:00)
