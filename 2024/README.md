@@ -447,6 +447,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
 
 ---
+## CVE-2024-39250 ()
+> 
+- [efrann/CVE-2024-39250](https://github.com/efrann/CVE-2024-39250)	<img alt="forks" src="https://img.shields.io/github/forks/efrann/CVE-2024-39250">	<img alt="stars" src="https://img.shields.io/github/stars/efrann/CVE-2024-39250">
+
+---
 ## CVE-2024-39249 (2024-07-01T20:15:00)
 > Async <= 2.6.4 and <= 3.2.5 are vulnerable to ReDoS (Regular Expression Denial of Service) while parsing function in autoinject function.
 - [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-39249">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-39249">
