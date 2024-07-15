@@ -3313,7 +3313,7 @@ prior to
 - [imhunterand/CVE-2023-36845](https://github.com/imhunterand/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2023-36845">
 - [ifconfig-me/CVE-2023-36845](https://github.com/ifconfig-me/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2023-36845">
 - [e11i0t4lders0n/CVE-2023-36845](https://github.com/e11i0t4lders0n/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/e11i0t4lders0n/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/e11i0t4lders0n/CVE-2023-36845">
-- [CKevens/ansible-cve-2023-36845](https://github.com/CKevens/ansible-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/ansible-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/ansible-cve-2023-36845">
+- [3yujw7njai/ansible-cve-2023-36845](https://github.com/3yujw7njai/ansible-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/3yujw7njai/ansible-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/3yujw7njai/ansible-cve-2023-36845">
 - [Vignesh2712/utomation-for-Juniper-cve-2023-36845](https://github.com/Vignesh2712/utomation-for-Juniper-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/Vignesh2712/utomation-for-Juniper-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/Vignesh2712/utomation-for-Juniper-cve-2023-36845">
 - [Vignesh2712/Automation-for-Juniper-cve-2023-36845](https://github.com/Vignesh2712/Automation-for-Juniper-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/Vignesh2712/Automation-for-Juniper-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/Vignesh2712/Automation-for-Juniper-cve-2023-36845">
 
@@ -6359,6 +6359,7 @@ For additional details, please see full advisory.
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
 - [ttate10/CVE-2023-22527](https://github.com/ttate10/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/ttate10/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/ttate10/CVE-2023-22527">
+- [BBD-YZZ/Confluence-RCE](https://github.com/BBD-YZZ/Confluence-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/Confluence-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/Confluence-RCE">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
