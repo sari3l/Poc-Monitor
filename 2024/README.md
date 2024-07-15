@@ -747,6 +747,12 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-35315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-35315-POC">
 
 ---
+## CVE-2024-35242 (2024-06-10T22:15:00)
+> Composer is a dependency manager for PHP. On the 2.x branch prior to versions 2.2.24 and 2.7.7, the `composer install` command running inside a git/hg repository which has specially crafted branch names can lead to command injection. This requires cloning untrusted repositories. Patches are available in version 2.2.24 for 2.2 LTS or 2.7.7 for mainline. As a workaround, avoid cloning potentially compromised repositories.
+
+- [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242)	<img alt="forks" src="https://img.shields.io/github/forks/KKkai0315/CVE-2024-35242">	<img alt="stars" src="https://img.shields.io/github/stars/KKkai0315/CVE-2024-35242">
+
+---
 ## CVE-2024-34958 (2024-05-16T15:15:00)
 > idccms v1.35 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component admin/banner_deal.php?mudi=add
 - [Gr-1m/CVE-2024-34958](https://github.com/Gr-1m/CVE-2024-34958)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/CVE-2024-34958">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/CVE-2024-34958">
