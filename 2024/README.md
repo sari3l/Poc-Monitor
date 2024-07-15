@@ -256,6 +256,7 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [Mr-r00t11/CVE-2024-4879](https://github.com/Mr-r00t11/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-4879">
 - [zgimszhd61/CVE-2024-4879](https://github.com/zgimszhd61/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-4879">
 - [tequilasunsh1ne/CVE_2024_4879](https://github.com/tequilasunsh1ne/CVE_2024_4879)	<img alt="forks" src="https://img.shields.io/github/forks/tequilasunsh1ne/CVE_2024_4879">	<img alt="stars" src="https://img.shields.io/github/stars/tequilasunsh1ne/CVE_2024_4879">
+- [ShadowByte1/CVE-2024-4879](https://github.com/ShadowByte1/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-4879">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
