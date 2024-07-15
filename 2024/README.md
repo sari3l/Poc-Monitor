@@ -4061,6 +4061,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [pl4int3xt/cve_2024_0044](https://github.com/pl4int3xt/cve_2024_0044)	<img alt="forks" src="https://img.shields.io/github/forks/pl4int3xt/cve_2024_0044">	<img alt="stars" src="https://img.shields.io/github/stars/pl4int3xt/cve_2024_0044">
 - [scs-labrat/android_autorooter](https://github.com/scs-labrat/android_autorooter)	<img alt="forks" src="https://img.shields.io/github/forks/scs-labrat/android_autorooter">	<img alt="stars" src="https://img.shields.io/github/stars/scs-labrat/android_autorooter">
 - [007CRIPTOGRAFIA/c-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/c-CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/007CRIPTOGRAFIA/c-CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/007CRIPTOGRAFIA/c-CVE-2024-0044">
+- [Kai2er/CVE-2024-0044-EXP](https://github.com/Kai2er/CVE-2024-0044-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Kai2er/CVE-2024-0044-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Kai2er/CVE-2024-0044-EXP">
 
 ---
 ## CVE-2024-0039 (2024-03-11T17:15:00)
