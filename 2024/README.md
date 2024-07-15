@@ -751,6 +751,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 > Composer is a dependency manager for PHP. On the 2.x branch prior to versions 2.2.24 and 2.7.7, the `composer install` command running inside a git/hg repository which has specially crafted branch names can lead to command injection. This requires cloning untrusted repositories. Patches are available in version 2.2.24 for 2.2 LTS or 2.7.7 for mainline. As a workaround, avoid cloning potentially compromised repositories.
 
 - [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242)	<img alt="forks" src="https://img.shields.io/github/forks/KKkai0315/CVE-2024-35242">	<img alt="stars" src="https://img.shields.io/github/stars/KKkai0315/CVE-2024-35242">
+- [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242)	<img alt="forks" src="https://img.shields.io/github/forks/KKkai0315/CVE-2024-35242">	<img alt="stars" src="https://img.shields.io/github/stars/KKkai0315/CVE-2024-35242">
 
 ---
 ## CVE-2024-34958 (2024-05-16T15:15:00)
@@ -910,6 +911,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [bughuntar/CVE-2024-34102](https://github.com/bughuntar/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-34102">
 - [bughuntar/CVE-2024-34102-Python](https://github.com/bughuntar/CVE-2024-34102-Python)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-34102-Python">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-34102-Python">
 - [Phantom-IN/CVE-2024-34102](https://github.com/Phantom-IN/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Phantom-IN/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Phantom-IN/CVE-2024-34102">
+- [b4h1x/CVE-2024-34102-RCE](https://github.com/b4h1x/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b4h1x/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b4h1x/CVE-2024-34102-RCE">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
