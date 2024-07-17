@@ -61,6 +61,13 @@
 - [Live-Hack-CVE/CVE-2011-0419](https://github.com/Live-Hack-CVE/CVE-2011-0419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-0419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-0419">
 
 ---
+## CVE-2011-0228 (2011-08-29T20:55:00)
+> The Data Security component in Apple iOS before 4.2.10 and 4.3.x before 4.3.5 does not check the basicConstraints parameter during validation of X.509 certificate chains, which allows man-in-the-middle attackers to spoof an SSL server by using a non-CA certificate to sign a certificate for an arbitrary domain.
+- [meetlight942/PentesterLab-Intercept-CVE-2011-0228](https://github.com/meetlight942/PentesterLab-Intercept-CVE-2011-0228)	<img alt="forks" src="https://img.shields.io/github/forks/meetlight942/PentesterLab-Intercept-CVE-2011-0228">	<img alt="stars" src="https://img.shields.io/github/stars/meetlight942/PentesterLab-Intercept-CVE-2011-0228">
+- [amil-ptl-test/ptl_cve_2011_0228](https://github.com/amil-ptl-test/ptl_cve_2011_0228)	<img alt="forks" src="https://img.shields.io/github/forks/amil-ptl-test/ptl_cve_2011_0228">	<img alt="stars" src="https://img.shields.io/github/stars/amil-ptl-test/ptl_cve_2011_0228">
+- [jan0/isslfix](https://github.com/jan0/isslfix)	<img alt="forks" src="https://img.shields.io/github/forks/jan0/isslfix">	<img alt="stars" src="https://img.shields.io/github/stars/jan0/isslfix">
+
+---
 ## CVE-2011-0104 (2011-04-13T18:55:00)
 > Microsoft Excel 2002 SP3 and 2003 SP3, Office 2004 and 2008 for Mac, and Open XML File Format Converter for Mac allow remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted HLink record in an Excel file, aka "Excel Buffer Overwrite Vulnerability."
 - [Sunqiz/CVE-2011-0104-reproduction](https://github.com/Sunqiz/CVE-2011-0104-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2011-0104-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2011-0104-reproduction">
