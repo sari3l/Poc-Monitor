@@ -473,8 +473,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/entroychang/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/entroychang/CVE-2024-4040">
 
 ---
-## CVE-2024-40119 ()
-> 
+## CVE-2024-40119 (2024-07-17T20:15:00)
+> Nepstech Wifi Router xpon (terminal) model NTPL-Xpon1GFEVN v.1.0 Firmware V2.0.1 contains a Cross-Site Request Forgery (CSRF) vulnerability in the password change function, which allows remote attackers to change the admin password without the user's consent, leading to a potential account takeover.
 - [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/nepstech-xpon-router-CVE-2024-40119">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/nepstech-xpon-router-CVE-2024-40119">
 
 ---
@@ -993,6 +993,13 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-33775 (2024-05-01T13:15:00)
 > An issue with the Autodiscover component in Nagios XI 2024R1.01 allows a remote attacker to escalate privileges via a crafted Dashlet.
 - [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-XeD/CVE-2024-33775">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-XeD/CVE-2024-33775">
+
+---
+## CVE-2024-33544 (2024-04-29T07:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in AA-Team WZone allows SQL Injection.This issue affects WZone: from n/a through 14.0.10.
+
+
+- [codeb0ss/CVE-2024-33544-PoC](https://github.com/codeb0ss/CVE-2024-33544-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-33544-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-33544-PoC">
 
 ---
 ## CVE-2024-33438 (2024-04-29T18:15:00)
