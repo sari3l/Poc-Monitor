@@ -119,6 +119,7 @@
 - [liqhtnd/sshd-logingracetime0](https://github.com/liqhtnd/sshd-logingracetime0)	<img alt="forks" src="https://img.shields.io/github/forks/liqhtnd/sshd-logingracetime0">	<img alt="stars" src="https://img.shields.io/github/stars/liqhtnd/sshd-logingracetime0">
 - [Jhonsonwannaa/CVE-2024-6387](https://github.com/Jhonsonwannaa/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-6387">
 - [ThatNotEasy/CVE-2024-6387](https://github.com/ThatNotEasy/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-6387">
+- [W1hithat/CVE-2024-6387](https://github.com/W1hithat/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/W1hithat/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/W1hithat/CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
