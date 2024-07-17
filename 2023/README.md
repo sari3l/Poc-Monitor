@@ -4698,6 +4698,12 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839](https://github.com/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839)	<img alt="forks" src="https://img.shields.io/github/forks/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839">	<img alt="stars" src="https://img.shields.io/github/stars/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839">
 
 ---
+## CVE-2023-30800 (2023-09-07T16:15:00)
+> The web server used by MikroTik RouterOS version 6 is affected by a heap memory corruption issue. A remote and unauthenticated attacker can corrupt the server's heap memory by sending a crafted HTTP request. As a result, the web interface crashes and is immediately restarted. The issue was fixed in RouterOS 6.49.10 stable. RouterOS version 7 is not affected.
+
+- [griffinsectio/CVE-2023-30800_PoC](https://github.com/griffinsectio/CVE-2023-30800_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/griffinsectio/CVE-2023-30800_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/griffinsectio/CVE-2023-30800_PoC">
+
+---
 ## CVE-2023-3079 (2023-06-05T22:15:00)
 > Type confusion in V8 in Google Chrome prior to 114.0.5735.110 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [mistymntncop/CVE-2023-3079](https://github.com/mistymntncop/CVE-2023-3079)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2023-3079">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2023-3079">
