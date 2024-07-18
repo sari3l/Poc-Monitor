@@ -3822,6 +3822,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 
 
 - [ox1111/-CVE-2024-1874-](https://github.com/ox1111/-CVE-2024-1874-)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/-CVE-2024-1874-">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/-CVE-2024-1874-">
+- [Tgcohce/CVE-2024-1874](https://github.com/Tgcohce/CVE-2024-1874)	<img alt="forks" src="https://img.shields.io/github/forks/Tgcohce/CVE-2024-1874">	<img alt="stars" src="https://img.shields.io/github/stars/Tgcohce/CVE-2024-1874">
 
 ---
 ## CVE-2024-1709 (2024-02-21T16:15:00)
