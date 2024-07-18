@@ -6430,6 +6430,7 @@ For more details, please review the linked advisory on this CVE.
 - [fyx1t/NSE--CVE-2023-22515](https://github.com/fyx1t/NSE--CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/fyx1t/NSE--CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/fyx1t/NSE--CVE-2023-22515">
 - [s1d6point7bugcrowd/CVE-2023-22515-check](https://github.com/s1d6point7bugcrowd/CVE-2023-22515-check)	<img alt="forks" src="https://img.shields.io/github/forks/s1d6point7bugcrowd/CVE-2023-22515-check">	<img alt="stars" src="https://img.shields.io/github/stars/s1d6point7bugcrowd/CVE-2023-22515-check">
 - [xorbbo/cve-2023-22515](https://github.com/xorbbo/cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/xorbbo/cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/xorbbo/cve-2023-22515">
+- [spareack/CVE-2023-22515-NSE](https://github.com/spareack/CVE-2023-22515-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/spareack/CVE-2023-22515-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/spareack/CVE-2023-22515-NSE">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
