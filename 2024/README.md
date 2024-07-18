@@ -3289,6 +3289,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 - [mbadanoiu/CVE-2024-22274](https://github.com/mbadanoiu/CVE-2024-22274)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-22274">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-22274">
 - [ninhpn1337/CVE-2024-22274](https://github.com/ninhpn1337/CVE-2024-22274)	<img alt="forks" src="https://img.shields.io/github/forks/ninhpn1337/CVE-2024-22274">	<img alt="stars" src="https://img.shields.io/github/stars/ninhpn1337/CVE-2024-22274">
 - [l0n3m4n/CVE-2024-22274-RCE](https://github.com/l0n3m4n/CVE-2024-22274-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-22274-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-22274-RCE">
+- [Mustafa1986/CVE-2024-22274-RCE](https://github.com/Mustafa1986/CVE-2024-22274-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mustafa1986/CVE-2024-22274-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mustafa1986/CVE-2024-22274-RCE">
 
 ---
 ## CVE-2024-22252 (2024-03-05T18:15:00)
