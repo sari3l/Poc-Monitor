@@ -290,6 +290,9 @@
 ## CVE-2014-1266 (2014-02-22T17:05:00)
 > The SSLVerifySignedServerKeyExchange function in libsecurity_ssl/lib/sslKeyExchange.c in the Secure Transport feature in the Data Security component in Apple iOS 6.x before 6.1.6 and 7.x before 7.0.6, Apple TV 6.x before 6.0.2, and Apple OS X 10.9.x before 10.9.2 does not check the signature in a TLS Server Key Exchange message, which allows man-in-the-middle attackers to spoof SSL servers by (1) using an arbitrary private key for the signing step or (2) omitting the signing step.
 - [meetlight942/PentesterLab-Intercept-CVE-2014-1266](https://github.com/meetlight942/PentesterLab-Intercept-CVE-2014-1266)	<img alt="forks" src="https://img.shields.io/github/forks/meetlight942/PentesterLab-Intercept-CVE-2014-1266">	<img alt="stars" src="https://img.shields.io/github/stars/meetlight942/PentesterLab-Intercept-CVE-2014-1266">
+- [gabrielg/CVE-2014-1266-poc](https://github.com/gabrielg/CVE-2014-1266-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielg/CVE-2014-1266-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielg/CVE-2014-1266-poc">
+- [linusyang/SSLPatch](https://github.com/linusyang/SSLPatch)	<img alt="forks" src="https://img.shields.io/github/forks/linusyang/SSLPatch">	<img alt="stars" src="https://img.shields.io/github/stars/linusyang/SSLPatch">
+- [landonf/Testability-CVE-2014-1266](https://github.com/landonf/Testability-CVE-2014-1266)	<img alt="forks" src="https://img.shields.io/github/forks/landonf/Testability-CVE-2014-1266">	<img alt="stars" src="https://img.shields.io/github/stars/landonf/Testability-CVE-2014-1266">
 
 ---
 ## CVE-2014-125080 (2023-01-16T18:15:00)
