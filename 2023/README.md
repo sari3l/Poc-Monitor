@@ -6871,6 +6871,11 @@ For more details, please review the linked advisory on this CVE.
 - [Malwareman007/CVE-2023-20887](https://github.com/Malwareman007/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-20887">
 
 ---
+## CVE-2023-20872 (2023-04-25T21:15:00)
+> VMware Workstation and Fusion contain an out-of-bounds read/write vulnerability in SCSI CD/DVD device emulation.
+- [ze0r/vmware-escape-CVE-2023-20872-poc](https://github.com/ze0r/vmware-escape-CVE-2023-20872-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ze0r/vmware-escape-CVE-2023-20872-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ze0r/vmware-escape-CVE-2023-20872-poc">
+
+---
 ## CVE-2023-20871 (2023-04-25T21:15:00)
 > VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system.
 - [ChriSanders22/CVE-2023-20871-poc](https://github.com/ChriSanders22/CVE-2023-20871-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ChriSanders22/CVE-2023-20871-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ChriSanders22/CVE-2023-20871-poc">
