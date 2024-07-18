@@ -448,8 +448,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Jansen-C-Moreira/CVE-2024-40506](https://github.com/Jansen-C-Moreira/CVE-2024-40506)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40506">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40506">
 
 ---
-## CVE-2024-40492 ()
-> 
+## CVE-2024-40492 (2024-07-17T22:15:00)
+> Cross Site Scripting vulnerability in Heartbeat Chat v.15.2.1 allows a remote attacker to execute arbitrary code via the setname function.
 - [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492)	<img alt="forks" src="https://img.shields.io/github/forks/minendie/POC_CVE-2024-40492">	<img alt="stars" src="https://img.shields.io/github/stars/minendie/POC_CVE-2024-40492">
 
 ---
