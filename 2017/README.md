@@ -1224,6 +1224,7 @@
 - [KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut](https://github.com/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut)	<img alt="forks" src="https://img.shields.io/github/forks/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut">	<img alt="stars" src="https://img.shields.io/github/stars/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut">
 - [KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation](https://github.com/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation">
 - [bao7uo/RAU_crypto](https://github.com/bao7uo/RAU_crypto)	<img alt="forks" src="https://img.shields.io/github/forks/bao7uo/RAU_crypto">	<img alt="stars" src="https://img.shields.io/github/stars/bao7uo/RAU_crypto">
+- [hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik](https://github.com/hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik)	<img alt="forks" src="https://img.shields.io/github/forks/hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik">	<img alt="stars" src="https://img.shields.io/github/stars/hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik">
 
 ---
 ## CVE-2017-10617 (2017-10-13T17:29:00)
