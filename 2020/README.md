@@ -4046,6 +4046,7 @@
 ## CVE-2020-13945 (2020-12-07T20:15:00)
 > In Apache APISIX, the user enabled the Admin API and deleted the Admin API access IP restriction rules. Eventually, the default token is allowed to access APISIX management data. This affects versions 1.2, 1.3, 1.4, 1.5.
 - [K3ysTr0K3R/CVE-2020-13945-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2020-13945-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2020-13945-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2020-13945-EXPLOIT">
+- [YutuSec/Apisix_Crack](https://github.com/YutuSec/Apisix_Crack)	<img alt="forks" src="https://img.shields.io/github/forks/YutuSec/Apisix_Crack">	<img alt="stars" src="https://img.shields.io/github/stars/YutuSec/Apisix_Crack">
 
 ---
 ## CVE-2020-13937 (2020-10-19T21:15:00)
