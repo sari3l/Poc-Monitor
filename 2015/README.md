@@ -377,6 +377,7 @@
 - [WHOISshuvam/CVE-2015-1397](https://github.com/WHOISshuvam/CVE-2015-1397)	<img alt="forks" src="https://img.shields.io/github/forks/WHOISshuvam/CVE-2015-1397">	<img alt="stars" src="https://img.shields.io/github/stars/WHOISshuvam/CVE-2015-1397">
 - [tmatejicek/CVE-2015-1397](https://github.com/tmatejicek/CVE-2015-1397)	<img alt="forks" src="https://img.shields.io/github/forks/tmatejicek/CVE-2015-1397">	<img alt="stars" src="https://img.shields.io/github/stars/tmatejicek/CVE-2015-1397">
 - [47Cid/Magento-Shoplift-SQLI](https://github.com/47Cid/Magento-Shoplift-SQLI)	<img alt="forks" src="https://img.shields.io/github/forks/47Cid/Magento-Shoplift-SQLI">	<img alt="stars" src="https://img.shields.io/github/stars/47Cid/Magento-Shoplift-SQLI">
+- [Wytchwulf/CVE-2015-1397-Magento-Shoplift](https://github.com/Wytchwulf/CVE-2015-1397-Magento-Shoplift)	<img alt="forks" src="https://img.shields.io/github/forks/Wytchwulf/CVE-2015-1397-Magento-Shoplift">	<img alt="stars" src="https://img.shields.io/github/stars/Wytchwulf/CVE-2015-1397-Magento-Shoplift">
 
 ---
 ## CVE-2015-1352 (2015-03-30T10:59:00)
