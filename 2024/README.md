@@ -3949,6 +3949,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [greandfather/CVE-2024-20291-POC](https://github.com/greandfather/CVE-2024-20291-POC)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2024-20291-POC">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2024-20291-POC">
 
 ---
+## CVE-2024-2026 (2024-04-09T19:15:00)
+> The Passster plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's content_protector shortcode in all versions up to, and including, 4.2.6.4 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
+- [labc-dev/CVE-2024-2026](https://github.com/labc-dev/CVE-2024-2026)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-2026">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-2026">
+
+---
 ## CVE-2024-1874 (2024-04-29T04:15:00)
 > In PHP versions 8.1.* before 8.1.28, 8.2.* before 8.2.18, 8.3.* before 8.3.5, when using proc_open() command with array syntax, due to insufficient escaping, if the arguments of the executed command are controlled by a malicious user, the user can supply arguments that would execute arbitrary commands in Windows shell. 
 
