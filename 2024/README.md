@@ -732,6 +732,128 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/alperenugurlu/CVE-2024-3596-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/alperenugurlu/CVE-2024-3596-Detector">
 
 ---
+## CVE-2024-35913 (2024-05-19T09:15:00)
+> In the Linux kernel, the following vulnerability has been resolved:
+
+wifi: iwlwifi: mvm: pick the version of SESSION_PROTECTION_NOTIF
+
+When we want to know whether we should look for the mac_id or the
+link_id in struct iwl_mvm_session_prot_notif, we should look at the
+version of SESSION_PROTECTION_NOTIF.
+
+This causes WARNINGs:
+
+WARNING: CPU: 0 PID: 11403 at drivers/net/wireless/intel/iwlwifi/mvm/time-event.c:959 iwl_mvm_rx_session_protect_notif+0x333/0x340 [iwlmvm]
+RIP: 0010:iwl_mvm_rx_session_protect_notif+0x333/0x340 [iwlmvm]
+Code: 00 49 c7 84 24 48 07 00 00 00 00 00 00 41 c6 84 24 78 07 00 00 ff 4c 89 f7 e8 e9 71 54 d9 e9 7d fd ff ff 0f 0b e9 23 fe ff ff <0f> 0b e9 1c fe ff ff 66 0f 1f 44 00 00 90 90 90 90 90 90 90 90 90
+RSP: 0018:ffffb4bb00003d40 EFLAGS: 00010202
+RAX: 0000000000000000 RBX: ffff9ae63a361000 RCX: ffff9ae4a98b60d4
+RDX: ffff9ae4588499c0 RSI: 0000000000000305 RDI: ffff9ae4a98b6358
+RBP: ffffb4bb00003d68 R08: 0000000000000003 R09: 0000000000000010
+R10: ffffb4bb00003d00 R11: 000000000000000f R12: ffff9ae441399050
+R13: ffff9ae4761329e8 R14: 0000000000000001 R15: 0000000000000000
+FS:  0000000000000000(0000) GS:ffff9ae7af400000(0000) knlGS:0000000000000000
+CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+CR2: 000055fb75680018 CR3: 00000003dae32006 CR4: 0000000000f70ef0
+PKRU: 55555554
+Call Trace:
+ <IRQ>
+ ? show_regs+0x69/0x80
+ ? __warn+0x8d/0x150
+ ? iwl_mvm_rx_session_protect_notif+0x333/0x340 [iwlmvm]
+ ? report_bug+0x196/0x1c0
+ ? handle_bug+0x45/0x80
+ ? exc_invalid_op+0x1c/0xb0
+ ? asm_exc_invalid_op+0x1f/0x30
+ ? iwl_mvm_rx_session_protect_notif+0x333/0x340 [iwlmvm]
+ iwl_mvm_rx_common+0x115/0x340 [iwlmvm]
+ iwl_mvm_rx_mq+0xa6/0x100 [iwlmvm]
+ iwl_pcie_rx_handle+0x263/0xa10 [iwlwifi]
+ iwl_pcie_napi_poll_msix+0x32/0xd0 [iwlwifi]
+- [labc-dev/CVE-2024-35913](https://github.com/labc-dev/CVE-2024-35913)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-35913">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-35913">
+
+---
+## CVE-2024-35911 (2024-05-19T09:15:00)
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ice: fix memory corruption bug with suspend and rebuild
+
+The ice driver would previously panic after suspend. This is caused
+from the driver *only* calling the ice_vsi_free_q_vectors() function by
+itself, when it is suspending. Since commit b3e7b3a6ee92 ("ice: prevent
+NULL pointer deref during reload") the driver has zeroed out
+num_q_vectors, and only restored it in ice_vsi_cfg_def().
+
+This further causes the ice_rebuild() function to allocate a zero length
+buffer, after which num_q_vectors is updated, and then the new value of
+num_q_vectors is used to index into the zero length buffer, which
+corrupts memory.
+
+The fix entails making sure all the code referencing num_q_vectors only
+does so after it has been reset via ice_vsi_cfg_def().
+
+I didn't perform a full bisect, but I was able to test against 6.1.77
+kernel and that ice driver works fine for suspend/resume with no panic,
+so sometime since then, this problem was introduced.
+
+Also clean up an un-needed init of a local variable in the function
+being modified.
+
+PANIC from 6.8.0-rc1:
+
+[1026674.915596] PM: suspend exit
+[1026675.664697] ice 0000:17:00.1: PTP reset successful
+[1026675.664707] ice 0000:17:00.1: 2755 msecs passed between update to cached PHC time
+[1026675.667660] ice 0000:b1:00.0: PTP reset successful
+[1026675.675944] ice 0000:b1:00.0: 2832 msecs passed between update to cached PHC time
+[1026677.137733] ixgbe 0000:31:00.0 ens787: NIC Link is Up 1 Gbps, Flow Control: None
+[1026677.190201] BUG: kernel NULL pointer dereference, address: 0000000000000010
+[1026677.192753] ice 0000:17:00.0: PTP reset successful
+[1026677.192764] ice 0000:17:00.0: 4548 msecs passed between update to cached PHC time
+[1026677.197928] #PF: supervisor read access in kernel mode
+[1026677.197933] #PF: error_code(0x0000) - not-present page
+[1026677.197937] PGD 1557a7067 P4D 0
+[1026677.212133] ice 0000:b1:00.1: PTP reset successful
+[1026677.212143] ice 0000:b1:00.1: 4344 msecs passed between update to cached PHC time
+[1026677.212575]
+[1026677.243142] Oops: 0000 [#1] PREEMPT SMP NOPTI
+[1026677.247918] CPU: 23 PID: 42790 Comm: kworker/23:0 Kdump: loaded Tainted: G        W          6.8.0-rc1+ #1
+[1026677.257989] Hardware name: Intel Corporation M50CYP2SBSTD/M50CYP2SBSTD, BIOS SE5C620.86B.01.01.0005.2202160810 02/16/2022
+[1026677.269367] Workqueue: ice ice_service_task [ice]
+[1026677.274592] RIP: 0010:ice_vsi_rebuild_set_coalesce+0x130/0x1e0 [ice]
+[1026677.281421] Code: 0f 84 3a ff ff ff 41 0f b7 74 ec 02 66 89 b0 22 02 00 00 81 e6 ff 1f 00 00 e8 ec fd ff ff e9 35 ff ff ff 48 8b 43 30 49 63 ed <41> 0f b7 34 24 41 83 c5 01 48 8b 3c e8 66 89 b7 aa 02 00 00 81 e6
+[1026677.300877] RSP: 0018:ff3be62a6399bcc0 EFLAGS: 00010202
+[1026677.306556] RAX: ff28691e28980828 RBX: ff28691e41099828 RCX: 0000000000188000
+[1026677.314148] RDX: 0000000000000000 RSI: 0000000000000010 RDI: ff28691e41099828
+[1026677.321730] RBP: 0000000000000000 R08: 0000000000000000 R09: 0000000000000000
+[1026677.329311] R10: 0000000000000007 R11: ffffffffffffffc0 R12: 0000000000000010
+[1026677.336896] R13: 0000000000000000 R14: 0000000000000000 R15: ff28691e0eaa81a0
+[1026677.344472] FS:  0000000000000000(0000) GS:ff28693cbffc0000(0000) knlGS:0000000000000000
+[1026677.353000] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+[1026677.359195] CR2: 0000000000000010 CR3: 0000000128df4001 CR4: 0000000000771ef0
+[1026677.366779] DR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000
+[1026677.374369] DR3: 0000000000000000 DR6: 00000000fffe0ff0 DR7: 0000000000000400
+[1026677.381952] PKRU: 55555554
+[1026677.385116] Call Trace:
+[1026677.388023]  <TASK>
+[1026677.390589]  ? __die+0x20/0x70
+[1026677.394105]  ? page_fault_oops+0x82/0x160
+[1026677.398576]  ? do_user_addr_fault+0x65/0x6a0
+[1026677.403307]  ? exc_page_fault+0x6a/0x150
+[1026677.407694]  ? asm_exc_page_fault+0x22/0x30
+[1026677.412349]  ? ice_vsi_rebuild_set_coalesce+0x130/0x1e0 [ice]
+[1026677.4186
+---truncated---
+- [labc-dev/CVE-2024-35911](https://github.com/labc-dev/CVE-2024-35911)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-35911">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-35911">
+
+---
+## CVE-2024-3591 (2024-05-01T06:15:00)
+> The Geo Controller WordPress plugin before 8.6.5 unserializes user input via some of its AJAX actions and REST API routes, which could allow unauthenticated users to perform PHP Object Injection when a suitable gadget is present on the blog.
+- [labc-dev/CVE-2024-3591](https://github.com/labc-dev/CVE-2024-3591)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-3591">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-3591">
+- [labc-dev/CVE-2024-35913](https://github.com/labc-dev/CVE-2024-35913)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-35913">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-35913">
+- [labc-dev/CVE-2024-35911](https://github.com/labc-dev/CVE-2024-35911)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-35911">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-35911">
+
+---
 ## CVE-2024-3552 (2024-06-13T06:15:00)
 > The Web Directory Free WordPress plugin before 1.7.0 does not sanitise and escape a parameter before using it in a SQL statement via an AJAX action available to unauthenticated users, leading to a SQL injection with different techniques like UNION, Time-Based and Error-Based.
 - [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3552-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3552-Poc">
