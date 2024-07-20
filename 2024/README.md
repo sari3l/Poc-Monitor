@@ -6,6 +6,11 @@
 - [labc-dev/CVE-2024-99999](https://github.com/labc-dev/CVE-2024-99999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-99999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-99999">
 
 ---
+## CVE-2024-9999 ()
+> 
+- [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
+
+---
 ## CVE-2024-666666 ()
 > 
 - [xiaoqiao147/CVE-2024-666666](https://github.com/xiaoqiao147/CVE-2024-666666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-666666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-666666">
@@ -14,6 +19,7 @@
 ## CVE-2024-6666 (2024-07-11T07:15:00)
 > The WP ERP plugin for WordPress is vulnerable to SQL Injection via the ‘vendor_id’ parameter in all versions up to, and including, 1.13.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with Accounting Manager access (erp_ac_view_sales_summary capability) and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [JohnnyBradvo/CVE-2024-6666](https://github.com/JohnnyBradvo/CVE-2024-6666)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-6666">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-6666">
+- [labc-dev/CVE-2024-6666](https://github.com/labc-dev/CVE-2024-6666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-6666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-6666">
 
 ---
 ## CVE-2024-666 ()
@@ -4189,6 +4195,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0679 (2024-01-20T06:15:00)
 > The ColorMag theme for WordPress is vulnerable to unauthorized access due to a missing capability check on the plugin_action_callback() function in all versions up to, and including, 3.1.2. This makes it possible for authenticated attackers, with subscriber-level access and above, to install and activate arbitrary plugins.
 - [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-0679">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-0679">
+
+---
+## CVE-2024-0666 ()
+> 
+- [labc-dev/CVE-2024-0666](https://github.com/labc-dev/CVE-2024-0666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-0666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-0666">
 
 ---
 ## CVE-2024-0652 (2024-01-18T01:15:00)
