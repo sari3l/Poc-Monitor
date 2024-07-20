@@ -1411,6 +1411,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [sysonlai/CVE-2024-32002-hook](https://github.com/sysonlai/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-hook">
 - [sysonlai/CVE-2024-32002-main](https://github.com/sysonlai/CVE-2024-32002-main)	<img alt="forks" src="https://img.shields.io/github/forks/sysonlai/CVE-2024-32002-main">	<img alt="stars" src="https://img.shields.io/github/stars/sysonlai/CVE-2024-32002-main">
 - [TSY244/CVE-2024-32002-git-rce-father-poc](https://github.com/TSY244/CVE-2024-32002-git-rce-father-poc)	<img alt="forks" src="https://img.shields.io/github/forks/TSY244/CVE-2024-32002-git-rce-father-poc">	<img alt="stars" src="https://img.shields.io/github/stars/TSY244/CVE-2024-32002-git-rce-father-poc">
+- [TSY244/CVE-2024-32002-git-rce-father-poc](https://github.com/TSY244/CVE-2024-32002-git-rce-father-poc)	<img alt="forks" src="https://img.shields.io/github/forks/TSY244/CVE-2024-32002-git-rce-father-poc">	<img alt="stars" src="https://img.shields.io/github/stars/TSY244/CVE-2024-32002-git-rce-father-poc">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
