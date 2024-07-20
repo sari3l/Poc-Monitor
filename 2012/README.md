@@ -95,7 +95,7 @@
 - [daai1/CVE-2012-1823](https://github.com/daai1/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/daai1/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/daai1/CVE-2012-1823">
 - [0xl0k1/CVE-2012-1823](https://github.com/0xl0k1/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/0xl0k1/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/0xl0k1/CVE-2012-1823">
 - [Fatalitysec/CVE-2012-1823](https://github.com/Fatalitysec/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/Fatalitysec/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/Fatalitysec/CVE-2012-1823">
-- [Fatalityx84/CVE-2012-1823](https://github.com/Fatalityx84/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/Fatalityx84/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/Fatalityx84/CVE-2012-1823">
+- [Fatalitysec/CVE-2012-1823](https://github.com/Fatalitysec/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/Fatalitysec/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/Fatalitysec/CVE-2012-1823">
 
 ---
 ## CVE-2012-1705 (2013-01-17T01:55:00)
