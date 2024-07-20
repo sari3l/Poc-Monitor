@@ -3643,6 +3643,18 @@
 - [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/CVE-2021-38314">
 
 ---
+## CVE-2021-3831 (2021-12-14T11:15:00)
+> gnuboard5 is vulnerable to Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+- [aratane/CVE-2021-3831](https://github.com/aratane/CVE-2021-3831)	<img alt="forks" src="https://img.shields.io/github/forks/aratane/CVE-2021-3831">	<img alt="stars" src="https://img.shields.io/github/stars/aratane/CVE-2021-3831">
+- [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/CVE-2021-38314">
+- [akhilkoradiya/CVE-2021-38314](https://github.com/akhilkoradiya/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/akhilkoradiya/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/akhilkoradiya/CVE-2021-38314">
+- [c0ff33b34n/CVE-2021-38314](https://github.com/c0ff33b34n/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/c0ff33b34n/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/c0ff33b34n/CVE-2021-38314">
+- [twseptian/cve-2021-38314](https://github.com/twseptian/cve-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/twseptian/cve-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/twseptian/cve-2021-38314">
+- [shubhayu-64/CVE-2021-38314](https://github.com/shubhayu-64/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/shubhayu-64/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/shubhayu-64/CVE-2021-38314">
+- [phrantom/cve-2021-38314](https://github.com/phrantom/cve-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/phrantom/cve-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/phrantom/cve-2021-38314">
+- [orangmuda/CVE-2021-38314](https://github.com/orangmuda/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-38314">
+
+---
 ## CVE-2021-38297 (2021-10-18T06:15:00)
 > Go before 1.16.9 and 1.17.x before 1.17.2 has a Buffer Overflow via large arguments in a function invocation from a WASM module, when GOARCH=wasm GOOS=js is used.
 - [gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297)	<img alt="forks" src="https://img.shields.io/github/forks/gkrishnan724/CVE-2021-38297">	<img alt="stars" src="https://img.shields.io/github/stars/gkrishnan724/CVE-2021-38297">
