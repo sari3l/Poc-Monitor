@@ -2529,6 +2529,11 @@ overflow.
 - [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667)	<img alt="forks" src="https://img.shields.io/github/forks/Puvipavan/CVE-2024-2667">	<img alt="stars" src="https://img.shields.io/github/stars/Puvipavan/CVE-2024-2667">
 
 ---
+## CVE-2024-266666 ()
+> 
+- [labc-dev/CVE-2024-266666](https://github.com/labc-dev/CVE-2024-266666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-266666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-266666">
+
+---
 ## CVE-2024-26574 ()
 > 
 - [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-26574">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-26574">
