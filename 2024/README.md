@@ -4197,6 +4197,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-0679">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-0679">
 
 ---
+## CVE-2024-06666 ()
+> 
+- [labc-dev/CVE-2024-06666](https://github.com/labc-dev/CVE-2024-06666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-06666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-06666">
+
+---
 ## CVE-2024-0666 ()
 > 
 - [labc-dev/CVE-2024-0666](https://github.com/labc-dev/CVE-2024-0666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-0666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-0666">
