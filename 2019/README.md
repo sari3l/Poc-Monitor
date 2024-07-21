@@ -712,6 +712,11 @@
 - [Live-Hack-CVE/CVE-2019-5797](https://github.com/Live-Hack-CVE/CVE-2019-5797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5797">
 
 ---
+## CVE-2019-5784 (2019-06-27T17:15:00)
+> Incorrect handling of deferred code in V8 in Google Chrome prior to 72.0.3626.96 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [agenericapple/CVE-2019-5784-PoC](https://github.com/agenericapple/CVE-2019-5784-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/agenericapple/CVE-2019-5784-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/agenericapple/CVE-2019-5784-PoC">
+
+---
 ## CVE-2019-5747 (2019-01-09T16:29:00)
 > An issue was discovered in BusyBox through 1.30.0. An out of bounds read in udhcp components (consumed by the DHCP client, server, and/or relay) might allow a remote attacker to leak sensitive information from the stack by sending a crafted DHCP message. This is related to assurance of a 4-byte length when decoding DHCP_SUBNET. NOTE: this issue exists because of an incomplete fix for CVE-2018-20679.
 - [Live-Hack-CVE/CVE-2019-5747](https://github.com/Live-Hack-CVE/CVE-2019-5747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5747">
