@@ -494,6 +494,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/entroychang/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/entroychang/CVE-2024-4040">
 
 ---
+## CVE-2024-40348 (2024-07-20T04:15:00)
+> An issue in the component /api/swaggerui/static of Bazaar v1.4.3 allows unauthenticated attackers to execute a directory traversal.
+- [bigb0x/CVE-2024-40348](https://github.com/bigb0x/CVE-2024-40348)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-40348">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-40348">
+
+---
 ## CVE-2024-40119 (2024-07-17T20:15:00)
 > Nepstech Wifi Router xpon (terminal) model NTPL-Xpon1GFEVN v.1.0 Firmware V2.0.1 contains a Cross-Site Request Forgery (CSRF) vulnerability in the password change function, which allows remote attackers to change the admin password without the user's consent, leading to a potential account takeover.
 - [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/nepstech-xpon-router-CVE-2024-40119">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/nepstech-xpon-router-CVE-2024-40119">
