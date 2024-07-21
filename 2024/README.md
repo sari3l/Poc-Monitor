@@ -133,6 +133,11 @@
 - [W1hithat/CVE-2024-6387](https://github.com/W1hithat/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/W1hithat/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/W1hithat/CVE-2024-6387">
 
 ---
+## CVE-2024-6205 (2024-07-19T06:15:00)
+> The PayPlus Payment Gateway WordPress plugin before 6.6.9 does not properly sanitise and escape a parameter before using it in a SQL statement via a WooCommerce API route available to unauthenticated users, leading to an SQL injection vulnerability.
+- [j3r1ch0123/CVE-2024-6205](https://github.com/j3r1ch0123/CVE-2024-6205)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2024-6205">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2024-6205">
+
+---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
 > Improper Neutralization of Input During Web Page Generation vulnerability in SOKRATES-software SOWA OPAC allows a Reflected Cross-Site Scripting (XSS). An attacker might trick somebody into using a crafted URL, which will cause a script to be run in user's browser. This issue affects SOWA OPAC software in versions from 4.0 before 4.9.10, from 5.0 before 6.2.12.
 - [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-6050">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-6050">
@@ -2877,7 +2882,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [xffsec/CVE-2024-24590-ClearML-RCE-Exploit](https://github.com/xffsec/CVE-2024-24590-ClearML-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">
 - [diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC](https://github.com/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC)	<img alt="forks" src="https://img.shields.io/github/forks/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC">	<img alt="stars" src="https://img.shields.io/github/stars/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC">
 - [junnythemarksman/CVE-2024-24590](https://github.com/junnythemarksman/CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2024-24590">
-- [sviim/Clearml-CVE-2024-24590](https://github.com/sviim/Clearml-CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/sviim/Clearml-CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/sviim/Clearml-CVE-2024-24590">
+- [sviim/ClearML-CVE-2024-24590](https://github.com/sviim/ClearML-CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/sviim/ClearML-CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/sviim/ClearML-CVE-2024-24590">
 
 ---
 ## CVE-2024-24576 (2024-04-09T18:15:00)
