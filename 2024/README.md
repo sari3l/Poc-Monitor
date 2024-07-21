@@ -589,6 +589,11 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
 
 ---
+## CVE-2024-38041 (2024-07-09T17:15:00)
+> Windows Kernel Information Disclosure Vulnerability
+- [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-38041">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-38041">
+
+---
 ## CVE-2024-37889 (2024-06-14T20:15:00)
 > MyFinances is a web application for managing finances. MyFinances has a way to access other customer invoices while signed in as a user. This method allows an actor to access PII and financial information from another account. The vulnerability is fixed in 0.4.6.
 - [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889)	<img alt="forks" src="https://img.shields.io/github/forks/uname-s/CVE-2024-37889">	<img alt="stars" src="https://img.shields.io/github/stars/uname-s/CVE-2024-37889">
