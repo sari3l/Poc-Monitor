@@ -4241,6 +4241,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0666 ()
 > 
 - [labc-dev/CVE-2024-0666](https://github.com/labc-dev/CVE-2024-0666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-0666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-0666">
+- [labc-dev/CVE-2024-0666](https://github.com/labc-dev/CVE-2024-0666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-0666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-0666">
 
 ---
 ## CVE-2024-0652 (2024-01-18T01:15:00)
