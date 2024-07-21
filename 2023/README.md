@@ -576,6 +576,11 @@ We recommend users to:
 - [chandraprarikraj/CVE-2023-50596](https://github.com/chandraprarikraj/CVE-2023-50596)	<img alt="forks" src="https://img.shields.io/github/forks/chandraprarikraj/CVE-2023-50596">	<img alt="stars" src="https://img.shields.io/github/stars/chandraprarikraj/CVE-2023-50596">
 
 ---
+## CVE-2023-50564 (2023-12-14T15:15:00)
+> An arbitrary file upload vulnerability in the component /inc/modules_install.php of Pluck-CMS v4.7.18 allows attackers to execute arbitrary code via uploading a crafted ZIP file.
+- [Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC](https://github.com/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC">
+
+---
 ## CVE-2023-5044 (2023-10-25T20:15:00)
 > Code injection via nginx.ingress.kubernetes.io/permanent-redirect annotation.
 
