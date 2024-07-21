@@ -11,6 +11,11 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-6694 (2024-07-20T04:15:00)
+> The WP Mail SMTP plugin for WordPress is vulnerable to information exposure in all versions up to, and including, 4.0.1. This is due to plugin providing the SMTP password in the SMTP Password field when viewing the settings. This makes it possible for authenticated attackers, with administrative-level access and above, to view the SMTP password for the supplied server. Although this would not be useful for attackers in most cases, if an administrator account becomes compromised this could be useful information to an attacker in a limited environment.
+- [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-6694-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-6694-PoC">
+
+---
 ## CVE-2024-666666 ()
 > 
 - [xiaoqiao147/CVE-2024-666666](https://github.com/xiaoqiao147/CVE-2024-666666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-666666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-666666">
