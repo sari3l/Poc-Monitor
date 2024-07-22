@@ -2075,6 +2075,11 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [DEVisions/CVE-2024-29868](https://github.com/DEVisions/CVE-2024-29868)	<img alt="forks" src="https://img.shields.io/github/forks/DEVisions/CVE-2024-29868">	<img alt="stars" src="https://img.shields.io/github/stars/DEVisions/CVE-2024-29868">
 
 ---
+## CVE-2024-29863 ()
+> 
+- [pawlokk/qlikview-poc-CVE-2024-29863](https://github.com/pawlokk/qlikview-poc-CVE-2024-29863)	<img alt="forks" src="https://img.shields.io/github/forks/pawlokk/qlikview-poc-CVE-2024-29863">	<img alt="stars" src="https://img.shields.io/github/stars/pawlokk/qlikview-poc-CVE-2024-29863">
+
+---
 ## CVE-2024-29855 (2024-06-11T04:15:00)
 > Hard-coded JWT secret allows authentication bypass in Veeam Recovery Orchestrator
 - [sinsinology/CVE-2024-29855](https://github.com/sinsinology/CVE-2024-29855)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-29855">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-29855">
