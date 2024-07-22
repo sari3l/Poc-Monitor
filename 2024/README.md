@@ -1018,6 +1018,11 @@ PANIC from 6.8.0-rc1:
 - [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
 
 ---
+## CVE-2024-34329 ()
+> 
+- [pamoutaf/CVE-2024-34329](https://github.com/pamoutaf/CVE-2024-34329)	<img alt="forks" src="https://img.shields.io/github/forks/pamoutaf/CVE-2024-34329">	<img alt="stars" src="https://img.shields.io/github/stars/pamoutaf/CVE-2024-34329">
+
+---
 ## CVE-2024-3432 (2024-04-07T23:15:00)
 > A vulnerability was found in PuneethReddyHC Event Management 1.0. It has been rated as critical. This issue affects some unknown processing of the file /backend/register.php. The manipulation of the argument event_id/full_name/email/mobile/college/branch leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-259613 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [pamoutaf/CVE-2024-3432](https://github.com/pamoutaf/CVE-2024-3432)	<img alt="forks" src="https://img.shields.io/github/forks/pamoutaf/CVE-2024-3432">	<img alt="stars" src="https://img.shields.io/github/stars/pamoutaf/CVE-2024-3432">
