@@ -4709,6 +4709,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 > The web server used by MikroTik RouterOS version 6 is affected by a heap memory corruption issue. A remote and unauthenticated attacker can corrupt the server's heap memory by sending a crafted HTTP request. As a result, the web interface crashes and is immediately restarted. The issue was fixed in RouterOS 6.49.10 stable. RouterOS version 7 is not affected.
 
 - [griffinsectio/CVE-2023-30800_PoC](https://github.com/griffinsectio/CVE-2023-30800_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/griffinsectio/CVE-2023-30800_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/griffinsectio/CVE-2023-30800_PoC">
+- [griffinsectio/CVE-2023-30800_PoC_go](https://github.com/griffinsectio/CVE-2023-30800_PoC_go)	<img alt="forks" src="https://img.shields.io/github/forks/griffinsectio/CVE-2023-30800_PoC_go">	<img alt="stars" src="https://img.shields.io/github/stars/griffinsectio/CVE-2023-30800_PoC_go">
 
 ---
 ## CVE-2023-3079 (2023-06-05T22:15:00)
