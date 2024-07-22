@@ -490,6 +490,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492)	<img alt="forks" src="https://img.shields.io/github/forks/minendie/POC_CVE-2024-40492">	<img alt="stars" src="https://img.shields.io/github/stars/minendie/POC_CVE-2024-40492">
 
 ---
+## CVE-2024-40422 ()
+> 
+- [alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422)	<img alt="forks" src="https://img.shields.io/github/forks/alpernae/CVE-2024-40422">	<img alt="stars" src="https://img.shields.io/github/stars/alpernae/CVE-2024-40422">
+
+---
 ## CVE-2024-4040 (2024-04-22T20:15:00)
 > VFS Sandbox Escape in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows remote attackers with low privileges to read files from the filesystem outside of VFS Sandbox.
 
