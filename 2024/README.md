@@ -4359,3 +4359,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 > 
 - [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001)	<img alt="forks" src="https://img.shields.io/github/forks/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">	<img alt="stars" src="https://img.shields.io/github/stars/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">
 - [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/jiupta/CVE-2024-0001-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/jiupta/CVE-2024-0001-EXP">
+
+---
+## CVE-2024-0000 ()
+> 
+- [labc-dev/CVE-2024-0000](https://github.com/labc-dev/CVE-2024-0000)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-0000">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-0000">
