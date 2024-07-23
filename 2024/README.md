@@ -542,8 +542,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
 
 ---
-## CVE-2024-39250 ()
-> 
+## CVE-2024-39250 (2024-07-22T20:15:00)
+> EfroTech Timetrax v8.3 was discovered to contain an unauthenticated SQL injection vulnerability via the q parameter in the search web interface.
 - [efrann/CVE-2024-39250](https://github.com/efrann/CVE-2024-39250)	<img alt="forks" src="https://img.shields.io/github/forks/efrann/CVE-2024-39250">	<img alt="stars" src="https://img.shields.io/github/stars/efrann/CVE-2024-39250">
 
 ---
@@ -1023,8 +1023,8 @@ PANIC from 6.8.0-rc1:
 - [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
 
 ---
-## CVE-2024-34329 ()
-> 
+## CVE-2024-34329 (2024-07-22T20:15:00)
+> Insecure permissions in Entrust Datacard XPS Card Printer Driver 8.4 and earlier allows unauthenticated attackers to execute arbitrary code as SYSTEM via a crafted DLL payload.
 - [pamoutaf/CVE-2024-34329](https://github.com/pamoutaf/CVE-2024-34329)	<img alt="forks" src="https://img.shields.io/github/forks/pamoutaf/CVE-2024-34329">	<img alt="stars" src="https://img.shields.io/github/stars/pamoutaf/CVE-2024-34329">
 
 ---
