@@ -533,6 +533,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40348 (2024-07-20T04:15:00)
 > An issue in the component /api/swaggerui/static of Bazaar v1.4.3 allows unauthenticated attackers to execute a directory traversal.
 - [bigb0x/CVE-2024-40348](https://github.com/bigb0x/CVE-2024-40348)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-40348">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-40348">
+- [codeb0ss/CVE-2024-40348-PoC](https://github.com/codeb0ss/CVE-2024-40348-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-40348-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-40348-PoC">
 
 ---
 ## CVE-2024-40119 (2024-07-17T20:15:00)
