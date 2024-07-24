@@ -754,6 +754,7 @@
 - [nullbyter19/CVE-2018-25031](https://github.com/nullbyter19/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/nullbyter19/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/nullbyter19/CVE-2018-25031">
 - [geozin/POC-CVE-2018-25031](https://github.com/geozin/POC-CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/geozin/POC-CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/geozin/POC-CVE-2018-25031">
 - [h2oa/CVE-2018-25031](https://github.com/h2oa/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/h2oa/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/h2oa/CVE-2018-25031">
+- [natpakun/SSRF-CVE-2018-25031-](https://github.com/natpakun/SSRF-CVE-2018-25031-)	<img alt="forks" src="https://img.shields.io/github/forks/natpakun/SSRF-CVE-2018-25031-">	<img alt="stars" src="https://img.shields.io/github/stars/natpakun/SSRF-CVE-2018-25031-">
 
 ---
 ## CVE-2018-21010 (2019-09-05T13:15:00)
