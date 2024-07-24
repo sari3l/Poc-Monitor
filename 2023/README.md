@@ -7309,8 +7309,8 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd](https://github.com/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd">
 
 ---
-## CVE-2023-0400 ()
-> 
+## CVE-2023-0400 (2023-02-02T09:15:00)
+> The protection bypass vulnerability in DLP for Windows 11.9.x is addressed in version 11.10.0. This allowed a local user to bypass DLP controls when uploading sensitive data from a mapped drive into a web email client. Loading from a local driver was correctly prevented. Versions prior to 11.9 correctly detected and blocked the attempted upload of sensitive data.
 - [pinpinsec/CVE-2023-0400](https://github.com/pinpinsec/CVE-2023-0400)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/CVE-2023-0400">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/CVE-2023-0400">
 
 ---
