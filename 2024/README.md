@@ -3549,6 +3549,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [JohnnyBradvo/CVE-2024-2222](https://github.com/JohnnyBradvo/CVE-2024-2222)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-2222">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-2222">
 
 ---
+## CVE-2024-22198 (2024-01-11T20:15:00)
+> Nginx-UI is a web interface to manage Nginx configurations. It is vulnerable to arbitrary command execution by abusing the configuration settings. The `Home > Preference` page exposes a list of system settings such as `Run Mode`, `Jwt Secret`, `Node Secret` and `Terminal Start Command`. While the UI doesn't allow users to modify the `Terminal Start Command` setting, it is possible to do so by sending a request to the API. This issue may lead to authenticated remote code execution, privilege escalation, and information disclosure. This vulnerability has been patched in version 2.0.0.beta.9.
+- [xiw1ll/CVE-2024-22198_Checker](https://github.com/xiw1ll/CVE-2024-22198_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/xiw1ll/CVE-2024-22198_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/xiw1ll/CVE-2024-22198_Checker">
+
+---
 ## CVE-2024-22145 (2024-05-17T09:15:00)
 > Improper Privilege Management vulnerability in InstaWP Team InstaWP Connect allows Privilege Escalation.This issue affects InstaWP Connect: from n/a through 0.1.0.8.
 - [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-22145">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-22145">
