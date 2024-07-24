@@ -733,6 +733,11 @@
 - [Live-Hack-CVE/CVE-2021-44358](https://github.com/Live-Hack-CVE/CVE-2021-44358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44358">
 
 ---
+## CVE-2021-44270 ()
+> 
+- [pinpinsec/CVE-2021-44270](https://github.com/pinpinsec/CVE-2021-44270)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/CVE-2021-44270">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/CVE-2021-44270">
+
+---
 ## CVE-2021-44269 (2022-03-10T17:44:00)
 > An out of bounds read was found in Wavpack 5.4.0 in processing *.WAV files. This issue triggered in function WavpackPackSamples of file src/pack_utils.c, tainted variable cnt is too large, that makes pointer sptr read beyond heap bound.
 - [Live-Hack-CVE/CVE-2021-44269](https://github.com/Live-Hack-CVE/CVE-2021-44269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44269">

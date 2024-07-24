@@ -7309,6 +7309,11 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd](https://github.com/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd">
 
 ---
+## CVE-2023-0400 ()
+> 
+- [pinpinsec/CVE-2023-0400](https://github.com/pinpinsec/CVE-2023-0400)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/CVE-2023-0400">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/CVE-2023-0400">
+
+---
 ## CVE-2023-0386 (2023-03-22T21:15:00)
 > A flaw was found in the Linux kernel, where unauthorized access to the execution of the setuid file with capabilities was found in the Linux kernel’s OverlayFS subsystem in how a user copies a capable file from a nosuid mount into another mount. This uid mapping bug allows a local user to escalate their privileges on the system.
 - [Satheesh575555/linux-4.19.72_CVE-2023-0386](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-0386">
