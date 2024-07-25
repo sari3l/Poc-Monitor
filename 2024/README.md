@@ -3198,6 +3198,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [mil4ne/CVE-2024-23897-Jenkins-4.441](https://github.com/mil4ne/CVE-2024-23897-Jenkins-4.441)	<img alt="forks" src="https://img.shields.io/github/forks/mil4ne/CVE-2024-23897-Jenkins-4.441">	<img alt="stars" src="https://img.shields.io/github/stars/mil4ne/CVE-2024-23897-Jenkins-4.441">
 - [Maalfer/CVE-2024-23897](https://github.com/Maalfer/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2024-23897">
 - [Surko888/Surko-Exploit-Jenkins-CVE-2024-23897](https://github.com/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897">
+- [AnastasiaStill/CVE-2024-23897](https://github.com/AnastasiaStill/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-23897">
 
 ---
 ## CVE-2024-2389 ()
