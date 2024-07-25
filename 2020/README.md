@@ -72,6 +72,11 @@
 - [threedr3am/tomcat-cluster-session-sync-exp](https://github.com/threedr3am/tomcat-cluster-session-sync-exp)	<img alt="forks" src="https://img.shields.io/github/forks/threedr3am/tomcat-cluster-session-sync-exp">	<img alt="stars" src="https://img.shields.io/github/stars/threedr3am/tomcat-cluster-session-sync-exp">
 
 ---
+## CVE-2020-9480 (2020-06-23T22:15:00)
+> In Apache Spark 2.4.5 and earlier, a standalone resource manager's master may be configured to require authentication (spark.authenticate) via a shared secret. When enabled, however, a specially-crafted RPC to the master can succeed in starting an application's resources on the Spark cluster, even without the shared key. This can be leveraged to execute shell commands on the host machine. This does not affect Spark clusters using other resource managers (YARN, Mesos, etc).
+- [XiaoShaYu617/CVE-2020-9480](https://github.com/XiaoShaYu617/CVE-2020-9480)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoShaYu617/CVE-2020-9480">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoShaYu617/CVE-2020-9480">
+
+---
 ## CVE-2020-9420 (2022-12-14T01:15:00)
 > The login password of the web administrative dashboard in Arcadyan Wifi routers VRV9506JAC23 is sent in cleartext, allowing an attacker to sniff and intercept traffic to learn the administrative credentials to the router.
 - [Live-Hack-CVE/CVE-2020-9420](https://github.com/Live-Hack-CVE/CVE-2020-9420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9420">
