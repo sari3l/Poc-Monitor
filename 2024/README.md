@@ -450,6 +450,19 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662)	<img alt="forks" src="https://img.shields.io/github/forks/sh3bu/CVE-2024-41662">	<img alt="stars" src="https://img.shields.io/github/stars/sh3bu/CVE-2024-41662">
 
 ---
+## CVE-2024-41110 (2024-07-24T17:15:00)
+> Moby is an open-source project created by Docker for software containerization. A security vulnerability has been detected in certain versions of Docker Engine, which could allow an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The base likelihood of this being exploited is low.
+
+Using a specially-crafted API request, an Engine API client could make the daemon forward the request or response to an authorization plugin without the body. In certain circumstances, the authorization plugin may allow a request which it would have otherwise denied if the body had been forwarded to it.
+
+A security issue was discovered In 2018, where an attacker could bypass AuthZ plugins using a specially crafted API request. This could lead to unauthorized actions, including privilege escalation. Although this issue was fixed in Docker Engine v18.09.1 in January 2019, the fix was not carried forward to later major versions, resulting in a regression. Anyone who depends on authorization plugins that introspect the request and/or response body to make access control decisions is potentially impacted.
+
+Docker EE v19.03.x and all versions of Mirantis Container Runtime are not vulnerable.
+
+docker-ce v27.1.1 containes patches to fix the vulnerability. Patches have also been merged into the master, 19.0, 20.0, 23.0, 24.0, 25.0, 26.0, and 26.1 release branches. If one is unable to upgrade immediately, avoid using AuthZ plugins and/or restrict access to the Docker API to trusted parties, following the principle of least privilege.
+- [vvpoglazov/cve-2024-41110-checker](https://github.com/vvpoglazov/cve-2024-41110-checker)	<img alt="forks" src="https://img.shields.io/github/forks/vvpoglazov/cve-2024-41110-checker">	<img alt="stars" src="https://img.shields.io/github/stars/vvpoglazov/cve-2024-41110-checker">
+
+---
 ## CVE-2024-41107 (2024-07-19T11:15:00)
 > The CloudStack SAML authentication (disabled by default) does not enforce signature check. In CloudStack environments where SAML authentication is enabled, an attacker that initiates CloudStack SAML single sign-on authentication can bypass SAML authentication by submitting a spoofed SAML response with no signature and known or guessed username and other user details of a SAML-enabled CloudStack user-account. In such environments, this can result in a complete compromise of the resources owned and/or accessible by a SAML enabled user-account.
 
