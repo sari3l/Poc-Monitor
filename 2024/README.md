@@ -364,6 +364,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [PizzaboiBestLegits/CVE-2024-4577](https://github.com/PizzaboiBestLegits/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/PizzaboiBestLegits/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/PizzaboiBestLegits/CVE-2024-4577">
 - [nNoSuger/CVE-2024-4577](https://github.com/nNoSuger/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/nNoSuger/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/nNoSuger/CVE-2024-4577">
 - [a-roshbaik/CVE-2024-4577](https://github.com/a-roshbaik/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577">
+- [a-roshbaik/CVE-2024-4577-PHP-RCE](https://github.com/a-roshbaik/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577-PHP-RCE">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
