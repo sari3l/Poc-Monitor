@@ -463,6 +463,7 @@ Docker EE v19.03.x and all versions of Mirantis Container Runtime are not vulner
 docker-ce v27.1.1 containes patches to fix the vulnerability. Patches have also been merged into the master, 19.0, 20.0, 23.0, 24.0, 25.0, 26.0, and 26.1 release branches. If one is unable to upgrade immediately, avoid using AuthZ plugins and/or restrict access to the Docker API to trusted parties, following the principle of least privilege.
 - [vvpoglazov/cve-2024-41110-checker](https://github.com/vvpoglazov/cve-2024-41110-checker)	<img alt="forks" src="https://img.shields.io/github/forks/vvpoglazov/cve-2024-41110-checker">	<img alt="stars" src="https://img.shields.io/github/stars/vvpoglazov/cve-2024-41110-checker">
 - [secsaburo/CVE-2024-41110-](https://github.com/secsaburo/CVE-2024-41110-)	<img alt="forks" src="https://img.shields.io/github/forks/secsaburo/CVE-2024-41110-">	<img alt="stars" src="https://img.shields.io/github/stars/secsaburo/CVE-2024-41110-">
+- [PauloParoPP/CVE-2024-41110-SCAN](https://github.com/PauloParoPP/CVE-2024-41110-SCAN)	<img alt="forks" src="https://img.shields.io/github/forks/PauloParoPP/CVE-2024-41110-SCAN">	<img alt="stars" src="https://img.shields.io/github/stars/PauloParoPP/CVE-2024-41110-SCAN">
 
 ---
 ## CVE-2024-41107 (2024-07-19T11:15:00)
