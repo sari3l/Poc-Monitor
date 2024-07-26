@@ -462,6 +462,7 @@ Docker EE v19.03.x and all versions of Mirantis Container Runtime are not vulner
 
 docker-ce v27.1.1 containes patches to fix the vulnerability. Patches have also been merged into the master, 19.0, 20.0, 23.0, 24.0, 25.0, 26.0, and 26.1 release branches. If one is unable to upgrade immediately, avoid using AuthZ plugins and/or restrict access to the Docker API to trusted parties, following the principle of least privilege.
 - [vvpoglazov/cve-2024-41110-checker](https://github.com/vvpoglazov/cve-2024-41110-checker)	<img alt="forks" src="https://img.shields.io/github/forks/vvpoglazov/cve-2024-41110-checker">	<img alt="stars" src="https://img.shields.io/github/stars/vvpoglazov/cve-2024-41110-checker">
+- [secsaburo/CVE-2024-41110-](https://github.com/secsaburo/CVE-2024-41110-)	<img alt="forks" src="https://img.shields.io/github/forks/secsaburo/CVE-2024-41110-">	<img alt="stars" src="https://img.shields.io/github/stars/secsaburo/CVE-2024-41110-">
 
 ---
 ## CVE-2024-41107 (2024-07-19T11:15:00)
@@ -2933,6 +2934,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [SalehLardhi/CVE-2024-24919](https://github.com/SalehLardhi/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/SalehLardhi/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/SalehLardhi/CVE-2024-24919">
 - [ShadowByte1/CVE-2024-24919](https://github.com/ShadowByte1/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-24919">
 - [H3KEY/CVE-2024-24919](https://github.com/H3KEY/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/H3KEY/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/H3KEY/CVE-2024-24919">
+- [Jutrm/cve-2024-24919](https://github.com/Jutrm/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Jutrm/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Jutrm/cve-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
