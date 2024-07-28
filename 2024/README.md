@@ -289,6 +289,7 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [tequilasunsh1ne/CVE_2024_4879](https://github.com/tequilasunsh1ne/CVE_2024_4879)	<img alt="forks" src="https://img.shields.io/github/forks/tequilasunsh1ne/CVE_2024_4879">	<img alt="stars" src="https://img.shields.io/github/stars/tequilasunsh1ne/CVE_2024_4879">
 - [ShadowByte1/CVE-2024-4879](https://github.com/ShadowByte1/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-4879">
 - [Praison001/CVE-2024-4879-ServiceNow](https://github.com/Praison001/CVE-2024-4879-ServiceNow)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-4879-ServiceNow">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-4879-ServiceNow">
+- [NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning](https://github.com/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning)	<img alt="forks" src="https://img.shields.io/github/forks/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning">	<img alt="stars" src="https://img.shields.io/github/stars/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
