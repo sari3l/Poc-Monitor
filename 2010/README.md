@@ -167,6 +167,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [azorfus/CVE-2010-0232](https://github.com/azorfus/CVE-2010-0232)	<img alt="forks" src="https://img.shields.io/github/forks/azorfus/CVE-2010-0232">	<img alt="stars" src="https://img.shields.io/github/stars/azorfus/CVE-2010-0232">
 
 ---
+## CVE-2010-0219 ()
+> 
+- [veritas-rt/CVE-2010-0219](https://github.com/veritas-rt/CVE-2010-0219)	<img alt="forks" src="https://img.shields.io/github/forks/veritas-rt/CVE-2010-0219">	<img alt="stars" src="https://img.shields.io/github/stars/veritas-rt/CVE-2010-0219">
+
+---
 ## CVE-2010-0215 (2011-01-07T23:00:00)
 > ActiveCollab before 2.3.2 allows remote authenticated users to bypass intended access restrictions, and (1) delete an attachment or (2) subscribe to an object, via a crafted URL.
 - [Live-Hack-CVE/CVE-2010-0215](https://github.com/Live-Hack-CVE/CVE-2010-0215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-0215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-0215">

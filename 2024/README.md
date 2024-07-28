@@ -1522,6 +1522,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [TSY244/CVE-2024-32002-git-rce](https://github.com/TSY244/CVE-2024-32002-git-rce)	<img alt="forks" src="https://img.shields.io/github/forks/TSY244/CVE-2024-32002-git-rce">	<img alt="stars" src="https://img.shields.io/github/stars/TSY244/CVE-2024-32002-git-rce">
 - [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
 - [blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/blackninja23/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/blackninja23/CVE-2024-32002">
+- [daemon-reconfig/CVE-2024-32002](https://github.com/daemon-reconfig/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/daemon-reconfig/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/daemon-reconfig/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
