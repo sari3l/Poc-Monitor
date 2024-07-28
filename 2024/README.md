@@ -1008,6 +1008,11 @@ PANIC from 6.8.0-rc1:
 - [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aelmokhtar/CVE-2024-34716_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aelmokhtar/CVE-2024-34716_PoC">
 
 ---
+## CVE-2024-34693 ()
+> 
+- [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-34693">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-34693">
+
+---
 ## CVE-2024-34582 (2024-05-16T15:15:00)
 > Sunhillo SureLine through 8.10.0 on RICI 5000 devices allows cgi/usrPasswd.cgi userid_change XSS within the Forgot Password feature.
 - [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582)	<img alt="forks" src="https://img.shields.io/github/forks/silent6trinity/CVE-2024-34582">	<img alt="stars" src="https://img.shields.io/github/stars/silent6trinity/CVE-2024-34582">
@@ -1515,6 +1520,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [TSY244/CVE-2024-32002-git-rce-father-poc](https://github.com/TSY244/CVE-2024-32002-git-rce-father-poc)	<img alt="forks" src="https://img.shields.io/github/forks/TSY244/CVE-2024-32002-git-rce-father-poc">	<img alt="stars" src="https://img.shields.io/github/stars/TSY244/CVE-2024-32002-git-rce-father-poc">
 - [TSY244/CVE-2024-32002-git-rce](https://github.com/TSY244/CVE-2024-32002-git-rce)	<img alt="forks" src="https://img.shields.io/github/forks/TSY244/CVE-2024-32002-git-rce">	<img alt="stars" src="https://img.shields.io/github/stars/TSY244/CVE-2024-32002-git-rce">
 - [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
+- [blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/blackninja23/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/blackninja23/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
