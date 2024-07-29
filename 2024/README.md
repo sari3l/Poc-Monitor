@@ -457,8 +457,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662)	<img alt="forks" src="https://img.shields.io/github/forks/sh3bu/CVE-2024-41662">	<img alt="stars" src="https://img.shields.io/github/stars/sh3bu/CVE-2024-41662">
 
 ---
-## CVE-2024-41628 ()
-> 
+## CVE-2024-41628 (2024-07-26T21:15:00)
+> Directory Traversal vulnerability in Severalnines Cluster Control 1.9.8 before 1.9.8-9778, 2.0.0 before 2.0.0-9779, and 2.1.0 before 2.1.0-9780 allows a remote attacker to include and display file content in an HTTP request via the CMON API.
 - [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628)	<img alt="forks" src="https://img.shields.io/github/forks/Redshift-CyberSecurity/CVE-2024-41628">	<img alt="stars" src="https://img.shields.io/github/stars/Redshift-CyberSecurity/CVE-2024-41628">
 
 ---
@@ -597,6 +597,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39929 (2024-07-04T15:15:00)
 > Exim through 4.97.1 misparses a multiline RFC 2231 header filename, and thus remote attackers can bypass a $mime_filename extension-blocking protection mechanism, and potentially deliver executable attachments to the mailboxes of end users.
 - [rxerium/CVE-2024-39929](https://github.com/rxerium/CVE-2024-39929)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2024-39929">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2024-39929">
+- [michael-david-fry/CVE-2024-39929](https://github.com/michael-david-fry/CVE-2024-39929)	<img alt="forks" src="https://img.shields.io/github/forks/michael-david-fry/CVE-2024-39929">	<img alt="stars" src="https://img.shields.io/github/stars/michael-david-fry/CVE-2024-39929">
 
 ---
 ## CVE-2024-39844 (2024-07-03T17:15:00)
@@ -604,8 +605,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
 
 ---
-## CVE-2024-39700 ()
-> 
+## CVE-2024-39700 (2024-07-16T18:15:00)
+> JupyterLab extension template is a  `copier` template for JupyterLab extensions. Repositories created using this template with `test` option include `update-integration-tests.yml` workflow which has an RCE vulnerability. Extension authors hosting their code on GitHub are urged to upgrade the template to the latest version. Users who made changes to `update-integration-tests.yml`, accept overwriting of this file and re-apply your changes later. Users may wish to temporarily disable GitHub Actions while working on the upgrade. We recommend rebasing all open pull requests from untrusted users as actions may run using the version from the `main` branch at the time when the pull request was created. Users who are upgrading from template version prior to 4.3.0 may wish to leave out proposed changes to the release workflow for now as it requires additional configuration.
 - [LOURC0D3/CVE-2024-39700-test](https://github.com/LOURC0D3/CVE-2024-39700-test)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-test">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-test">
 - [10urc0de/CVE-2024-39700-PoC](https://github.com/10urc0de/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/10urc0de/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/10urc0de/CVE-2024-39700-PoC">
 
@@ -1030,8 +1031,12 @@ PANIC from 6.8.0-rc1:
 - [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aelmokhtar/CVE-2024-34716_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aelmokhtar/CVE-2024-34716_PoC">
 
 ---
-## CVE-2024-34693 ()
-> 
+## CVE-2024-34693 (2024-06-20T09:15:00)
+> Improper Input Validation vulnerability in Apache Superset, allows for an authenticated attacker to create a MariaDB connection with local_infile enabled. If both the MariaDB server (off by default) and the local mysql client on the web server are set to allow for local infile, it's possible for the attacker to execute a specific MySQL/MariaDB SQL command that is able to read files from the server and insert their content on a MariaDB database table.This issue affects Apache Superset: before 3.1.3 and version 4.0.0
+
+Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issue.
+
+
 - [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-34693">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-34693">
 - [labc-dev/CVE-2024-34693](https://github.com/labc-dev/CVE-2024-34693)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-34693">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-34693">
 
@@ -1157,8 +1162,8 @@ PANIC from 6.8.0-rc1:
 - [dovankha/CVE-2024-34220](https://github.com/dovankha/CVE-2024-34220)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34220">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34220">
 
 ---
-## CVE-2024-34144 ()
-> 
+## CVE-2024-34144 (2024-05-02T14:15:00)
+> A sandbox bypass vulnerability involving crafted constructor bodies in Jenkins Script Security Plugin 1335.vf07d9ce377a_e and earlier allows attackers with permission to define and run sandboxed scripts, including Pipelines, to bypass the sandbox protection and execute arbitrary code in the context of the Jenkins controller JVM.
 - [MXWXZ/CVE-2024-34144](https://github.com/MXWXZ/CVE-2024-34144)	<img alt="forks" src="https://img.shields.io/github/forks/MXWXZ/CVE-2024-34144">	<img alt="stars" src="https://img.shields.io/github/stars/MXWXZ/CVE-2024-34144">
 
 ---
