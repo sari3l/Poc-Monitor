@@ -589,6 +589,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
 
 ---
+## CVE-2024-39700 ()
+> 
+- [LOURC0D3/CVE-2024-39700-test](https://github.com/LOURC0D3/CVE-2024-39700-test)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-test">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-test">
+
+---
 ## CVE-2024-39250 (2024-07-22T20:15:00)
 > EfroTech Timetrax v8.3 was discovered to contain an unauthenticated SQL injection vulnerability via the q parameter in the search web interface.
 - [efrann/CVE-2024-39250](https://github.com/efrann/CVE-2024-39250)	<img alt="forks" src="https://img.shields.io/github/forks/efrann/CVE-2024-39250">	<img alt="stars" src="https://img.shields.io/github/stars/efrann/CVE-2024-39250">
@@ -1012,6 +1017,7 @@ PANIC from 6.8.0-rc1:
 ## CVE-2024-34693 ()
 > 
 - [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-34693">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-34693">
+- [labc-dev/CVE-2024-34693](https://github.com/labc-dev/CVE-2024-34693)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-34693">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-34693">
 
 ---
 ## CVE-2024-34582 (2024-05-16T15:15:00)
@@ -1523,6 +1529,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
 - [blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/blackninja23/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/blackninja23/CVE-2024-32002">
 - [daemon-reconfig/CVE-2024-32002](https://github.com/daemon-reconfig/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/daemon-reconfig/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/daemon-reconfig/CVE-2024-32002">
+- [HexDoesRandomShit/CVE-2024-32002](https://github.com/HexDoesRandomShit/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
