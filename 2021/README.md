@@ -2712,6 +2712,7 @@
 - [MohamedAboHelal/CVE-2021-40444](https://github.com/MohamedAboHelal/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/MohamedAboHelal/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/MohamedAboHelal/CVE-2021-40444">
 - [skitkat/CVE-2021-40444-POC](https://github.com/skitkat/CVE-2021-40444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skitkat/CVE-2021-40444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skitkat/CVE-2021-40444-POC">
 - [Phuong39/CVE-2021-40444-CAB](https://github.com/Phuong39/CVE-2021-40444-CAB)	<img alt="forks" src="https://img.shields.io/github/forks/Phuong39/CVE-2021-40444-CAB">	<img alt="stars" src="https://img.shields.io/github/stars/Phuong39/CVE-2021-40444-CAB">
+- [basim-ahmad/Follina-CVE-and-CVE-2021-40444](https://github.com/basim-ahmad/Follina-CVE-and-CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/basim-ahmad/Follina-CVE-and-CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/basim-ahmad/Follina-CVE-and-CVE-2021-40444">
 
 ---
 ## CVE-2021-4044 (2021-12-14T19:15:00)
