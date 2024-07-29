@@ -332,8 +332,8 @@
 - [Live-Hack-CVE/CVE-2021-45444](https://github.com/Live-Hack-CVE/CVE-2021-45444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45444">
 
 ---
-## CVE-2021-45428 ()
-> 
+## CVE-2021-45428 (2022-01-03T14:15:00)
+> TLR-2005KSH is affected by an incorrect access control vulnerability. THe PUT method is enabled so an attacker can upload arbitrary files including HTML and CGI formats.
 - [projectforsix/CVE-2021-45428-Defacer](https://github.com/projectforsix/CVE-2021-45428-Defacer)	<img alt="forks" src="https://img.shields.io/github/forks/projectforsix/CVE-2021-45428-Defacer">	<img alt="stars" src="https://img.shields.io/github/stars/projectforsix/CVE-2021-45428-Defacer">
 
 ---
