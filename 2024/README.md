@@ -143,6 +143,7 @@
 - [ThatNotEasy/CVE-2024-6387](https://github.com/ThatNotEasy/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-6387">
 - [W1hithat/CVE-2024-6387](https://github.com/W1hithat/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/W1hithat/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/W1hithat/CVE-2024-6387">
 - [prelearn-code/CVE-2024-6387](https://github.com/prelearn-code/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/prelearn-code/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/prelearn-code/CVE-2024-6387">
+- [l-urk/CVE-2024-6387](https://github.com/l-urk/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/l-urk/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/l-urk/CVE-2024-6387">
 
 ---
 ## CVE-2024-6205 (2024-07-19T06:15:00)
@@ -1193,6 +1194,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [Phantom-IN/CVE-2024-34102](https://github.com/Phantom-IN/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Phantom-IN/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Phantom-IN/CVE-2024-34102">
 - [b4h1x/CVE-2024-34102-RCE](https://github.com/b4h1x/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b4h1x/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b4h1x/CVE-2024-34102-RCE">
 - [ex-ARnX/CVE-2024-34102-PoC](https://github.com/ex-ARnX/CVE-2024-34102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ex-ARnX/CVE-2024-34102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ex-ARnX/CVE-2024-34102-PoC">
+- [etx-Arn/CVE-2024-34102-RCE](https://github.com/etx-Arn/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
