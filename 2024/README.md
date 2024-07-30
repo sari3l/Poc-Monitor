@@ -2820,6 +2820,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)	<img alt="forks" src="https://img.shields.io/github/forks/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">	<img alt="stars" src="https://img.shields.io/github/stars/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">
 - [k3lpi3b4nsh33/CVE-2024-25600](https://github.com/k3lpi3b4nsh33/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-25600">
 - [WanLiChangChengWanLiChang/CVE-2024-25600](https://github.com/WanLiChangChengWanLiChang/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-25600">
+- [KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress](https://github.com/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress)	<img alt="forks" src="https://img.shields.io/github/forks/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress">	<img alt="stars" src="https://img.shields.io/github/stars/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress">
 
 ---
 ## CVE-2024-25466 (2024-02-16T09:15:00)
