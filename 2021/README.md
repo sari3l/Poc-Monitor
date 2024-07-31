@@ -5252,8 +5252,8 @@
 - [Live-Hack-CVE/CVE-2021-33713](https://github.com/Live-Hack-CVE/CVE-2021-33713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33713">
 
 ---
-## CVE-2021-33699 ()
-> 
+## CVE-2021-33699 (2021-08-10T15:15:00)
+> Task Hijacking is a vulnerability that affects the applications running on Android devices due to a misconfiguration in their AndroidManifest.xml with their Task Control features. This allows an unauthorized attacker or malware to takeover legitimate apps and to steal user's sensitive information.
 - [naroSEC/CVE-2021-33699_Task_Hijacking](https://github.com/naroSEC/CVE-2021-33699_Task_Hijacking)	<img alt="forks" src="https://img.shields.io/github/forks/naroSEC/CVE-2021-33699_Task_Hijacking">	<img alt="stars" src="https://img.shields.io/github/stars/naroSEC/CVE-2021-33699_Task_Hijacking">
 
 ---
