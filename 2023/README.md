@@ -1951,8 +1951,8 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [jostaub/ghostscript-CVE-2023-43115](https://github.com/jostaub/ghostscript-CVE-2023-43115)	<img alt="forks" src="https://img.shields.io/github/forks/jostaub/ghostscript-CVE-2023-43115">	<img alt="stars" src="https://img.shields.io/github/stars/jostaub/ghostscript-CVE-2023-43115">
 
 ---
-## CVE-2023-43040 ()
-> 
+## CVE-2023-43040 (2024-05-14T13:46:00)
+> IBM Spectrum Fusion HCI 2.5.2 through 2.7.2 could allow an attacker to perform unauthorized actions in RGW for Ceph due to improper bucket access.  IBM X-Force ID:  266807.
 - [riza/CVE-2023-43040](https://github.com/riza/CVE-2023-43040)	<img alt="forks" src="https://img.shields.io/github/forks/riza/CVE-2023-43040">	<img alt="stars" src="https://img.shields.io/github/stars/riza/CVE-2023-43040">
 
 ---
@@ -4804,6 +4804,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [g4nkd/CVE-2023-30253-PoC](https://github.com/g4nkd/CVE-2023-30253-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2023-30253-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2023-30253-PoC">
 - [dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253](https://github.com/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253">
 - [g4nkd/CVE-2023-25690-PoC](https://github.com/g4nkd/CVE-2023-25690-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2023-25690-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2023-25690-PoC">
+- [andria-dev/DolibabyPhp](https://github.com/andria-dev/DolibabyPhp)	<img alt="forks" src="https://img.shields.io/github/forks/andria-dev/DolibabyPhp">	<img alt="stars" src="https://img.shields.io/github/stars/andria-dev/DolibabyPhp">
 
 ---
 ## CVE-2023-30226 (2023-07-12T02:15:00)
