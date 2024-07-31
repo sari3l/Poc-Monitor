@@ -1945,6 +1945,7 @@
 - [BassoNicolas/CVE-2021-42013](https://github.com/BassoNicolas/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/BassoNicolas/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/BassoNicolas/CVE-2021-42013">
 - [rafifdna/CVE-2021-42013](https://github.com/rafifdna/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/rafifdna/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/rafifdna/CVE-2021-42013">
 - [Jhonsonwannaa/cve-2021-42013-apache](https://github.com/Jhonsonwannaa/cve-2021-42013-apache)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/cve-2021-42013-apache">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/cve-2021-42013-apache">
+- [bananoname/cve-2021-42013](https://github.com/bananoname/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/bananoname/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/bananoname/cve-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)

@@ -2060,6 +2060,11 @@
 - [Live-Hack-CVE/CVE-2019-17026](https://github.com/Live-Hack-CVE/CVE-2019-17026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17026">
 
 ---
+## CVE-2019-1698 ()
+> 
+- [raytran54/CVE-2019-1698](https://github.com/raytran54/CVE-2019-1698)	<img alt="forks" src="https://img.shields.io/github/forks/raytran54/CVE-2019-1698">	<img alt="stars" src="https://img.shields.io/github/stars/raytran54/CVE-2019-1698">
+
+---
 ## CVE-2019-16943 (2019-10-01T17:15:00)
 > A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the p6spy (3.8.6) jar in the classpath, and an attacker can find an RMI service endpoint to access, it is possible to make the service execute a malicious payload. This issue exists because of com.p6spy.engine.spy.P6DataSource mishandling.
 - [Live-Hack-CVE/CVE-2019-16943](https://github.com/Live-Hack-CVE/CVE-2019-16943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16943">
