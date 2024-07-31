@@ -43,6 +43,11 @@
 - [xiaoqiao147/cve-2024-666](https://github.com/xiaoqiao147/cve-2024-666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/cve-2024-666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/cve-2024-666">
 
 ---
+## CVE-2024-6536 (2024-07-30T06:15:00)
+> The Zephyr Project Manager WordPress plugin before 3.3.99 does not sanitise and escape some of its settings, which could allow high privilege users such as editors and admins to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
+- [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-6536">
+
+---
 ## CVE-2024-65230 ()
 > 
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
@@ -379,6 +384,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [a-roshbaik/CVE-2024-4577](https://github.com/a-roshbaik/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577">
 - [a-roshbaik/CVE-2024-4577-PHP-RCE](https://github.com/a-roshbaik/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577-PHP-RCE">
 - [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVEploiterv2">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVEploiterv2">
+- [Jcccccx/CVE-2024-4577](https://github.com/Jcccccx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Jcccccx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Jcccccx/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -435,6 +441,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skilfoy/CVE-2024-4323-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skilfoy/CVE-2024-4323-Exploit-POC">
 - [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-4323">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-4323">
 - [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuansec/CVE-2024-4323-dos_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuansec/CVE-2024-4323-dos_poc">
+
+---
+## CVE-2024-4320 (2024-06-06T19:16:00)
+> A remote code execution (RCE) vulnerability exists in the '/install_extension' endpoint of the parisneo/lollms-webui application, specifically within the `@router.post("/install_extension")` route handler. The vulnerability arises due to improper handling of the `name` parameter in the `ExtensionBuilder().build_extension()` method, which allows for local file inclusion (LFI) leading to arbitrary code execution. An attacker can exploit this vulnerability by crafting a malicious `name` parameter that causes the server to load and execute a `__init__.py` file from an arbitrary location, such as the upload directory for discussions. This vulnerability affects the latest version of parisneo/lollms-webui and can lead to remote code execution without requiring user interaction, especially when the application is exposed to an external endpoint or operated in headless mode.
+- [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320)	<img alt="forks" src="https://img.shields.io/github/forks/bolkv/CVE-2024-4320">	<img alt="stars" src="https://img.shields.io/github/stars/bolkv/CVE-2024-4320">
 
 ---
 ## CVE-2024-4295 (2024-06-05T06:15:00)
@@ -1465,6 +1476,13 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 
 - [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-32113">
+
+---
+## CVE-2024-32104 (2024-04-15T09:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in XLPlugins NextMove Lite.This issue affects NextMove Lite: from n/a through 2.18.1.
+
+
+- [Cerberus-HiproPlus/CVE-2024-32104](https://github.com/Cerberus-HiproPlus/CVE-2024-32104)	<img alt="forks" src="https://img.shields.io/github/forks/Cerberus-HiproPlus/CVE-2024-32104">	<img alt="stars" src="https://img.shields.io/github/stars/Cerberus-HiproPlus/CVE-2024-32104">
 
 ---
 ## CVE-2024-32030 (2024-06-19T17:15:00)
@@ -3008,6 +3026,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [ShadowByte1/CVE-2024-24919](https://github.com/ShadowByte1/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-24919">
 - [H3KEY/CVE-2024-24919](https://github.com/H3KEY/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/H3KEY/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/H3KEY/CVE-2024-24919">
 - [Jutrm/cve-2024-24919](https://github.com/Jutrm/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Jutrm/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Jutrm/cve-2024-24919">
+- [smkxt1/CVE-2024-24919](https://github.com/smkxt1/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/smkxt1/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/smkxt1/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
