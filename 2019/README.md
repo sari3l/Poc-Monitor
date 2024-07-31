@@ -2060,8 +2060,8 @@
 - [Live-Hack-CVE/CVE-2019-17026](https://github.com/Live-Hack-CVE/CVE-2019-17026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17026">
 
 ---
-## CVE-2019-1698 ()
-> 
+## CVE-2019-1698 (2019-02-21T21:29:00)
+> A vulnerability in the web-based user interface of Cisco Internet of Things Field Network Director (IoT-FND) Software could allow an authenticated, remote attacker to gain read access to information that is stored on an affected system. The vulnerability is due to improper handling of XML External Entity (XXE) entries when parsing certain XML files. An attacker could exploit this vulnerability by importing a crafted XML file with malicious entries, which could allow the attacker to read files within the affected application. Versions prior to 4.4(0.26) are affected.
 - [raytran54/CVE-2019-1698](https://github.com/raytran54/CVE-2019-1698)	<img alt="forks" src="https://img.shields.io/github/forks/raytran54/CVE-2019-1698">	<img alt="stars" src="https://img.shields.io/github/stars/raytran54/CVE-2019-1698">
 
 ---

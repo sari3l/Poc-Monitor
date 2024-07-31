@@ -643,6 +643,16 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-PoC">
 
 ---
+## CVE-2024-39306 ()
+> 
+- [apena-ba/CVE-2024-39306](https://github.com/apena-ba/CVE-2024-39306)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-39306">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-39306">
+
+---
+## CVE-2024-39304 (2024-07-26T18:15:00)
+> ChurchCRM is an open-source church management system. Versions of the application prior to 5.9.2 are vulnerable to an authenticated SQL injection due to an improper sanitization of user input. Authentication is required, but no elevated privileges are necessary. This allows attackers to inject SQL statements directly into the database query due to inadequate sanitization of the EID parameter in in a GET request to `/GetText.php`. Version 5.9.2 patches the issue.
+- [apena-ba/CVE-2024-39304](https://github.com/apena-ba/CVE-2024-39304)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-39304">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-39304">
+
+---
 ## CVE-2024-39250 (2024-07-22T20:15:00)
 > EfroTech Timetrax v8.3 was discovered to contain an unauthenticated SQL injection vulnerability via the q parameter in the search web interface.
 - [efrann/CVE-2024-39250](https://github.com/efrann/CVE-2024-39250)	<img alt="forks" src="https://img.shields.io/github/forks/efrann/CVE-2024-39250">	<img alt="stars" src="https://img.shields.io/github/stars/efrann/CVE-2024-39250">
