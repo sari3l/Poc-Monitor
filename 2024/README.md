@@ -468,6 +468,16 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628)	<img alt="forks" src="https://img.shields.io/github/forks/Redshift-CyberSecurity/CVE-2024-41628">	<img alt="stars" src="https://img.shields.io/github/stars/Redshift-CyberSecurity/CVE-2024-41628">
 
 ---
+## CVE-2024-41302 ()
+> 
+- [patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection](https://github.com/patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection">
+
+---
+## CVE-2024-41301 ()
+> 
+- [patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting](https://github.com/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting)	<img alt="forks" src="https://img.shields.io/github/forks/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting">	<img alt="stars" src="https://img.shields.io/github/stars/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting">
+
+---
 ## CVE-2024-41110 (2024-07-24T17:15:00)
 > Moby is an open-source project created by Docker for software containerization. A security vulnerability has been detected in certain versions of Docker Engine, which could allow an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The base likelihood of this being exploited is low.
 
@@ -1572,6 +1582,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [HexDoesRandomShit/CVE-2024-32002](https://github.com/HexDoesRandomShit/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/CVE-2024-32002">
 - [charlesgargasson/CVE-2024-32002](https://github.com/charlesgargasson/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2024-32002">
 - [NishanthAnand21/CVE-2024-32002-PoC](https://github.com/NishanthAnand21/CVE-2024-32002-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NishanthAnand21/CVE-2024-32002-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NishanthAnand21/CVE-2024-32002-PoC">
+- [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
