@@ -2196,8 +2196,8 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4174">
 
 ---
-## CVE-2023-41724 ()
-> 
+## CVE-2023-41724 (2024-03-31T02:15:00)
+> A command injection vulnerability in Ivanti Sentry prior to 9.19.0 allows unauthenticated threat actor to execute arbitrary commands on the underlying operating system of the appliance within the same physical or logical network. 
 - [russhackerr/CVE-2023-41724](https://github.com/russhackerr/CVE-2023-41724)	<img alt="forks" src="https://img.shields.io/github/forks/russhackerr/CVE-2023-41724">	<img alt="stars" src="https://img.shields.io/github/stars/russhackerr/CVE-2023-41724">
 
 ---

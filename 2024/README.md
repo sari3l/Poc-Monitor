@@ -1727,8 +1727,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
 
 ---
-## CVE-2024-30998 ()
-> 
+## CVE-2024-30998 (2024-04-03T06:15:00)
+> SQL Injection vulnerability in PHPGurukul Men Salon Management System v.2.0, allows remote attackers to execute arbitrary code and obtain sensitive information via the email parameter in the index.php component.
 - [efekaanakkar/CVE-2024-30998](https://github.com/efekaanakkar/CVE-2024-30998)	<img alt="forks" src="https://img.shields.io/github/forks/efekaanakkar/CVE-2024-30998">	<img alt="stars" src="https://img.shields.io/github/stars/efekaanakkar/CVE-2024-30998">
 
 ---
@@ -2479,8 +2479,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL)	<img alt="forks" src="https://img.shields.io/github/forks/RobertSecurity/CVE-2024-2865-CRITICAL">	<img alt="stars" src="https://img.shields.io/github/stars/RobertSecurity/CVE-2024-2865-CRITICAL">
 
 ---
-## CVE-2024-28589 ()
-> 
+## CVE-2024-28589 (2024-04-03T08:15:00)
+> An issue was discovered in Axigen Mail Server for Windows versions 10.5.18 and before, allows local low-privileged attackers to execute arbitrary code and escalate privileges via insecure DLL loading from a world-writable directory during service initialization.
 - [Alaatk/CVE-2024-28589](https://github.com/Alaatk/CVE-2024-28589)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-28589">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-28589">
 
 ---
