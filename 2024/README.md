@@ -807,6 +807,11 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 - [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-37147-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-37147-PoC">
 
 ---
+## CVE-2024-37085 ()
+> 
+- [mahmutaymahmutay/CVE-2024-37085](https://github.com/mahmutaymahmutay/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-37085">
+
+---
 ## CVE-2024-37081 (2024-06-18T06:15:00)
 > The vCenter Server contains multiple local privilege escalation vulnerabilities due to misconfiguration of sudo. An authenticated local user with non-administrative privileges may exploit these issues to elevate privileges to root on vCenter Server Appliance.
 - [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-37081">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-37081">
@@ -2731,6 +2736,11 @@ QTS 5.1.7.2770 build 20240520 and later
 QuTS hero h5.1.7.2770 build 20240520 and later
 - [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-27130">
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
+
+---
+## CVE-2024-27085 ()
+> 
+- [mahmutaymahmutay/CVE-2024-27085](https://github.com/mahmutaymahmutay/CVE-2024-27085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-27085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-27085">
 
 ---
 ## CVE-2024-26817 (2024-04-13T12:15:00)

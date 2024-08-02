@@ -582,6 +582,7 @@ We recommend users to:
 ## CVE-2023-50564 (2023-12-14T15:15:00)
 > An arbitrary file upload vulnerability in the component /inc/modules_install.php of Pluck-CMS v4.7.18 allows attackers to execute arbitrary code via uploading a crafted ZIP file.
 - [Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC](https://github.com/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC">
+- [ipuig/CVE-2023-50564](https://github.com/ipuig/CVE-2023-50564)	<img alt="forks" src="https://img.shields.io/github/forks/ipuig/CVE-2023-50564">	<img alt="stars" src="https://img.shields.io/github/stars/ipuig/CVE-2023-50564">
 
 ---
 ## CVE-2023-5044 (2023-10-25T20:15:00)
@@ -5371,9 +5372,10 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [0SPwn/CVE-2023-27372-PoC](https://github.com/0SPwn/CVE-2023-27372-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0SPwn/CVE-2023-27372-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0SPwn/CVE-2023-27372-PoC">
 - [izzz0/CVE-2023-27372-POC](https://github.com/izzz0/CVE-2023-27372-POC)	<img alt="forks" src="https://img.shields.io/github/forks/izzz0/CVE-2023-27372-POC">	<img alt="stars" src="https://img.shields.io/github/stars/izzz0/CVE-2023-27372-POC">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
-- [Pari-Malam/CVE-2023-27372](https://github.com/Pari-Malam/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27372">
+- [ThatNotEasy/CVE-2023-27372](https://github.com/ThatNotEasy/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-27372">
 - [redboltsec/CVE-2023-27372-PoC](https://github.com/redboltsec/CVE-2023-27372-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/redboltsec/CVE-2023-27372-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/redboltsec/CVE-2023-27372-PoC">
 - [tucommenceapousser/CVE-2023-27372b](https://github.com/tucommenceapousser/CVE-2023-27372b)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-27372b">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-27372b">
+- [Jhonsonwannaa/CVE-2023-27372](https://github.com/Jhonsonwannaa/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2023-27372">
 
 ---
 ## CVE-2023-27363 (2024-05-03T02:15:00)
@@ -6305,6 +6307,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-22726 (2023-01-20T22:15:00)
 > act is a project which allows for local running of github actions. The artifact server that stores artifacts from Github Action runs does not sanitize path inputs. This allows an attacker to download and overwrite arbitrary files on the host from a Github Action. This issue may lead to privilege escalation. The /upload endpoint is vulnerable to path traversal as filepath is user controlled, and ultimately flows into os.Mkdir and os.Open. The /artifact endpoint is vulnerable to path traversal as the path is variable is user controlled, and the specified file is ultimately returned by the server. This has been addressed in version 0.2.40. Users are advised to upgrade. Users unable to upgrade may, during implementation of Open and OpenAtEnd for FS, ensure to use ValidPath() to check against path traversal or clean the user-provided paths manually.
 - [ProxyPog/POC-CVE-2023-22726](https://github.com/ProxyPog/POC-CVE-2023-22726)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyPog/POC-CVE-2023-22726">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyPog/POC-CVE-2023-22726">
+
+---
+## CVE-2023-22622 ()
+> 
+- [michael-david-fry/CVE-2023-22622](https://github.com/michael-david-fry/CVE-2023-22622)	<img alt="forks" src="https://img.shields.io/github/forks/michael-david-fry/CVE-2023-22622">	<img alt="stars" src="https://img.shields.io/github/stars/michael-david-fry/CVE-2023-22622">
 
 ---
 ## CVE-2023-22621 (2023-04-19T16:15:00)
