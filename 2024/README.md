@@ -2265,6 +2265,11 @@ The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxe
 - [codeb0ss/CVE-2024-29972-PoC](https://github.com/codeb0ss/CVE-2024-29972-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-29972-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-29972-PoC">
 
 ---
+## CVE-2024-2997 (2024-03-27T21:15:00)
+> A vulnerability was found in Bdtask Multi-Store Inventory Management System up to 20240320. It has been declared as problematic. Affected by this vulnerability is an unknown functionality. The manipulation of the argument Category Name/Model Name/Brand Name/Unit Name leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-258199. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
+- [lfillaz/CVE-2024-2997](https://github.com/lfillaz/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/lfillaz/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/lfillaz/CVE-2024-2997">
+
+---
 ## CVE-2024-29943 (2024-03-22T13:15:00)
 > An attacker was able to perform an out-of-bounds read or write on a JavaScript object by fooling range-based bounds check elimination. This vulnerability affects Firefox < 124.0.1.
 - [bjrjk/CVE-2024-29943](https://github.com/bjrjk/CVE-2024-29943)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2024-29943">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2024-29943">
