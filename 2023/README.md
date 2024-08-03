@@ -5151,6 +5151,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [xk-mt/CVE-2023-28432](https://github.com/xk-mt/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/xk-mt/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/xk-mt/CVE-2023-28432">
 - [0xRulez/CVE-2023-28432](https://github.com/0xRulez/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/0xRulez/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/0xRulez/CVE-2023-28432">
 - [fhAnso/CVE-2023-28432](https://github.com/fhAnso/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/fhAnso/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/fhAnso/CVE-2023-28432">
+- [dcduc/CVE-2023-28432](https://github.com/dcduc/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/dcduc/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/dcduc/CVE-2023-28432">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)

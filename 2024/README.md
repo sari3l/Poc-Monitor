@@ -754,6 +754,12 @@ Users are recommended to upgrade to version 2.4.60, which fixes this issue.
 - [Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-38473">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-38473">
 
 ---
+## CVE-2024-38472 (2024-07-01T19:15:00)
+> SSRF in Apache HTTP Server on Windows allows to potentially leak NTML hashes to a malicious server via SSRF and malicious requests or content 
+Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Note: Existing configurations that access UNC paths will have to configure new directive "UNCList" to allow access during request processing.
+- [Abdurahmon3236/CVE-2024-38472](https://github.com/Abdurahmon3236/CVE-2024-38472)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-38472">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-38472">
+
+---
 ## CVE-2024-38396 (2024-06-16T21:15:00)
 > An issue was discovered in iTerm2 3.5.x before 3.5.2. Unfiltered use of an escape sequence to report a window title, in combination with the built-in tmux integration feature (enabled by default), allows an attacker to inject arbitrary code into the terminal, a different vulnerability than CVE-2024-38395.
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
