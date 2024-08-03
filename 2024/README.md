@@ -58,8 +58,8 @@
 - [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-6536">
 
 ---
-## CVE-2024-6529 ()
-> 
+## CVE-2024-6529 (2024-08-01T06:15:00)
+> The Ultimate Classified Listings WordPress plugin before 1.4 does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting which could be used against high privilege users such as admin
 - [Abdurahmon3236/CVE-2024-6529](https://github.com/Abdurahmon3236/CVE-2024-6529)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6529">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6529">
 
 ---
@@ -1653,7 +1653,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
 - [blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/blackninja23/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/blackninja23/CVE-2024-32002">
 - [daemon-reconfig/CVE-2024-32002](https://github.com/daemon-reconfig/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/daemon-reconfig/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/daemon-reconfig/CVE-2024-32002">
-- [HexDoesRandomShit/CVE-2024-32002](https://github.com/HexDoesRandomShit/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/CVE-2024-32002">
+- [h3xm4n/CVE-2024-32002](https://github.com/h3xm4n/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/h3xm4n/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/h3xm4n/CVE-2024-32002">
 - [charlesgargasson/CVE-2024-32002](https://github.com/charlesgargasson/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2024-32002">
 - [NishanthAnand21/CVE-2024-32002-PoC](https://github.com/NishanthAnand21/CVE-2024-32002-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NishanthAnand21/CVE-2024-32002-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NishanthAnand21/CVE-2024-32002-PoC">
 - [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
@@ -3151,8 +3151,12 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [brains93/CVE-2024-24567-PoC-Python](https://github.com/brains93/CVE-2024-24567-PoC-Python)	<img alt="forks" src="https://img.shields.io/github/forks/brains93/CVE-2024-24567-PoC-Python">	<img alt="stars" src="https://img.shields.io/github/stars/brains93/CVE-2024-24567-PoC-Python">
 
 ---
-## CVE-2024-24549 ()
-> 
+## CVE-2024-24549 (2024-03-13T16:15:00)
+> Denial of Service due to improper input validation vulnerability for HTTP/2 requests in Apache Tomcat. When processing an HTTP/2 request, if the request exceeded any of the configured limits for headers, the associated HTTP/2 stream was not reset until after all of the headers had been processed.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M16, from 10.1.0-M1 through 10.1.18, from 9.0.0-M1 through 9.0.85, from 8.5.0 through 8.5.98.
+
+Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.99 which fix the issue.
+
+
 - [Abdurahmon3236/CVE-2024-24549](https://github.com/Abdurahmon3236/CVE-2024-24549)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-24549">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-24549">
 
 ---
