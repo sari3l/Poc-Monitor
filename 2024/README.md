@@ -171,6 +171,11 @@
 - [l-urk/CVE-2024-6387](https://github.com/l-urk/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/l-urk/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/l-urk/CVE-2024-6387">
 
 ---
+## CVE-2024-6366 (2024-07-29T06:15:00)
+> The User Profile Builder  WordPress plugin before 3.11.8 does not have proper authorisation, allowing unauthenticated users to upload media files via the async upload functionality of WP.
+- [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6366">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6366">
+
+---
 ## CVE-2024-6205 (2024-07-19T06:15:00)
 > The PayPlus Payment Gateway WordPress plugin before 6.6.9 does not properly sanitise and escape a parameter before using it in a SQL statement via a WooCommerce API route available to unauthenticated users, leading to an SQL injection vulnerability.
 - [j3r1ch0123/CVE-2024-6205](https://github.com/j3r1ch0123/CVE-2024-6205)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2024-6205">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2024-6205">
