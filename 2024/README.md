@@ -884,6 +884,11 @@ Users are recommended to upgrade to version 2.4.60, which fixes this issue.
 - [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821">
 
 ---
+## CVE-2024-36539 (2024-07-24T17:15:00)
+> Insecure permissions in contour v1.28.3 allows attackers to access sensitive data and escalate privileges by obtaining the service account's token.
+- [Abdurahmon3236/CVE-2024-36539](https://github.com/Abdurahmon3236/CVE-2024-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-36539">
+
+---
 ## CVE-2024-36527 (2024-06-17T18:15:00)
 > puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal. Attackers can exploit the URL parameter using the file protocol to read sensitive information from the server.
 - [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36527">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36527">
