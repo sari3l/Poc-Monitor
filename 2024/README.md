@@ -1777,6 +1777,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Chokopikkk/CVE-2024-31218_exploit](https://github.com/Chokopikkk/CVE-2024-31218_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopikkk/CVE-2024-31218_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopikkk/CVE-2024-31218_exploit">
 
 ---
+## CVE-2024-31211 ()
+> 
+- [Abdurahmon3236/-CVE-2024-31211](https://github.com/Abdurahmon3236/-CVE-2024-31211)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-31211">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-31211">
+
+---
 ## CVE-2024-31210 ()
 > 
 - [Abo5/CVE-2024-31210](https://github.com/Abo5/CVE-2024-31210)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-31210">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-31210">
