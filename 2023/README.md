@@ -6309,8 +6309,8 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [ProxyPog/POC-CVE-2023-22726](https://github.com/ProxyPog/POC-CVE-2023-22726)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyPog/POC-CVE-2023-22726">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyPog/POC-CVE-2023-22726">
 
 ---
-## CVE-2023-22622 ()
-> 
+## CVE-2023-22622 (2023-01-05T02:15:00)
+> WordPress through 6.1.1 depends on unpredictable client visits to cause wp-cron.php execution and the resulting security updates, and the source code describes "the scenario where a site may not receive enough visits to execute scheduled tasks in a timely manner," but neither the installation guide nor the security guide mentions this default behavior, or alerts the user about security risks on installations with very few visits.
 - [michael-david-fry/CVE-2023-22622](https://github.com/michael-david-fry/CVE-2023-22622)	<img alt="forks" src="https://img.shields.io/github/forks/michael-david-fry/CVE-2023-22622">	<img alt="stars" src="https://img.shields.io/github/stars/michael-david-fry/CVE-2023-22622">
 
 ---
