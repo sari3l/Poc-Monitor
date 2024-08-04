@@ -2754,6 +2754,7 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 - [khanhtranngoccva/cve-2023-38831-poc](https://github.com/khanhtranngoccva/cve-2023-38831-poc)	<img alt="forks" src="https://img.shields.io/github/forks/khanhtranngoccva/cve-2023-38831-poc">	<img alt="stars" src="https://img.shields.io/github/stars/khanhtranngoccva/cve-2023-38831-poc">
 - [Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784](https://github.com/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">
 - [UnHackerEnCapital/PDFernetRemotelo](https://github.com/UnHackerEnCapital/PDFernetRemotelo)	<img alt="forks" src="https://img.shields.io/github/forks/UnHackerEnCapital/PDFernetRemotelo">	<img alt="stars" src="https://img.shields.io/github/stars/UnHackerEnCapital/PDFernetRemotelo">
+- [MaorBuskila/Windows-X64-RAT](https://github.com/MaorBuskila/Windows-X64-RAT)	<img alt="forks" src="https://img.shields.io/github/forks/MaorBuskila/Windows-X64-RAT">	<img alt="stars" src="https://img.shields.io/github/stars/MaorBuskila/Windows-X64-RAT">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
