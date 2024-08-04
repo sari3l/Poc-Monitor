@@ -4451,6 +4451,11 @@ authentication.   
 - [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451)	<img alt="forks" src="https://img.shields.io/github/forks/Xiaolqy/CVE-2024-11451">	<img alt="stars" src="https://img.shields.io/github/stars/Xiaolqy/CVE-2024-11451">
 
 ---
+## CVE-2024-1112 (2024-01-31T14:15:00)
+> Heap-based buffer overflow vulnerability in Resource Hacker, developed by Angus Johnson, affecting version 3.6.0.92. This vulnerability could allow an attacker to execute arbitrary code via a long filename argument.
+- [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2024-1112">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2024-1112">
+
+---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
 > A use-after-free vulnerability in the Linux kernel's netfilter: nf_tables component can be exploited to achieve local privilege escalation.
 
