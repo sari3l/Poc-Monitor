@@ -423,6 +423,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-4514 (2024-05-06T02:15:00)
 > A vulnerability, which was classified as problematic, was found in Campcodes Complete Web-Based School Management System 1.0. Affected is an unknown function of the file /view/timetable_insert_form.php. The manipulation of the argument grade leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-263118 is the identifier assigned to this vulnerability.
 - [W1hithat/CVE-2024-4514](https://github.com/W1hithat/CVE-2024-4514)	<img alt="forks" src="https://img.shields.io/github/forks/W1hithat/CVE-2024-4514">	<img alt="stars" src="https://img.shields.io/github/stars/W1hithat/CVE-2024-4514">
+- [AnastasiaStill/-CVE-2024-4514-](https://github.com/AnastasiaStill/-CVE-2024-4514-)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/-CVE-2024-4514-">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/-CVE-2024-4514-">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
