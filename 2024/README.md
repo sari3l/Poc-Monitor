@@ -173,7 +173,7 @@
 - [ThatNotEasy/CVE-2024-6387](https://github.com/ThatNotEasy/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-6387">
 - [W1hithat/CVE-2024-6387](https://github.com/W1hithat/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/W1hithat/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/W1hithat/CVE-2024-6387">
 - [prelearn-code/CVE-2024-6387](https://github.com/prelearn-code/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/prelearn-code/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/prelearn-code/CVE-2024-6387">
-- [l-urk/CVE-2024-6387](https://github.com/l-urk/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/l-urk/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/l-urk/CVE-2024-6387">
+- [l-urk/CVE-2024-6387-L](https://github.com/l-urk/CVE-2024-6387-L)	<img alt="forks" src="https://img.shields.io/github/forks/l-urk/CVE-2024-6387-L">	<img alt="stars" src="https://img.shields.io/github/stars/l-urk/CVE-2024-6387-L">
 - [alex14324/ssh_poc2024](https://github.com/alex14324/ssh_poc2024)	<img alt="forks" src="https://img.shields.io/github/forks/alex14324/ssh_poc2024">	<img alt="stars" src="https://img.shields.io/github/stars/alex14324/ssh_poc2024">
 
 ---
