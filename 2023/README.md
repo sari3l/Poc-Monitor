@@ -5706,6 +5706,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 ## CVE-2023-25813 (2023-02-22T19:15:00)
 > Sequelize is a Node.js ORM tool. In versions prior to 6.19.1 a SQL injection exploit exists related to replacements. Parameters which are passed through replacements are not properly escaped which can lead to arbitrary SQL injection depending on the specific queries in use. The issue has been fixed in Sequelize 6.19.1. Users are advised to upgrade. Users unable to upgrade should not use the `replacements` and the `where` option in the same query.
 - [bde574786/Sequelize-1day-CVE-2023-25813](https://github.com/bde574786/Sequelize-1day-CVE-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/bde574786/Sequelize-1day-CVE-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/bde574786/Sequelize-1day-CVE-2023-25813">
+- [White-BAO/CVE-2023-25813](https://github.com/White-BAO/CVE-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/White-BAO/CVE-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/White-BAO/CVE-2023-25813">
 
 ---
 ## CVE-2023-25725 (2023-02-14T19:15:00)
