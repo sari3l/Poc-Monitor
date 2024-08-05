@@ -1600,6 +1600,11 @@
 - [emad-almousa/CVE-2020-2969](https://github.com/emad-almousa/CVE-2020-2969)	<img alt="forks" src="https://img.shields.io/github/forks/emad-almousa/CVE-2020-2969">	<img alt="stars" src="https://img.shields.io/github/stars/emad-almousa/CVE-2020-2969">
 
 ---
+## CVE-2020-29661 (2020-12-09T17:15:00)
+> A locking issue was discovered in the tty subsystem of the Linux kernel through 5.9.13. drivers/tty/tty_jobctrl.c allows a use-after-free attack against TIOCSPGRP, aka CID-54ffccbf053b.
+- [wojkos9/arm-CVE-2020-29661](https://github.com/wojkos9/arm-CVE-2020-29661)	<img alt="forks" src="https://img.shields.io/github/forks/wojkos9/arm-CVE-2020-29661">	<img alt="stars" src="https://img.shields.io/github/stars/wojkos9/arm-CVE-2020-29661">
+
+---
 ## CVE-2020-29659 (2020-12-09T17:15:00)
 > A buffer overflow in the web server of Flexense DupScout Enterprise 10.0.18 allows a remote anonymous attacker to execute code as SYSTEM by overflowing the sid parameter via a GET /settings&sid= attack.
 - [Live-Hack-CVE/CVE-2020-29659](https://github.com/Live-Hack-CVE/CVE-2020-29659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29659">
