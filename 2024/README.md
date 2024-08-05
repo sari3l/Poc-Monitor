@@ -611,8 +611,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [Jansen-C-Moreira/CVE-2024-40506](https://github.com/Jansen-C-Moreira/CVE-2024-40506)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40506">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40506">
 
 ---
-## CVE-2024-40498 ()
-> 
+## CVE-2024-40498 (2024-08-05T17:15:00)
+> SQL Injection vulnerability in PuneethReddyHC Online Shopping sysstem advanced v.1.0 allows an attacker to execute arbitrary code via the register.php
 - [Dirac231/CVE-2024-40498](https://github.com/Dirac231/CVE-2024-40498)	<img alt="forks" src="https://img.shields.io/github/forks/Dirac231/CVE-2024-40498">	<img alt="stars" src="https://img.shields.io/github/stars/Dirac231/CVE-2024-40498">
 
 ---
