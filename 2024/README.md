@@ -747,8 +747,14 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit](https://github.com/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">
 
 ---
-## CVE-2024-38856 ()
-> 
+## CVE-2024-38856 (2024-08-05T09:15:00)
+> Incorrect Authorization vulnerability in Apache OFBiz.
+
+This issue affects Apache OFBiz: through 18.12.14.
+
+Users are recommended to upgrade to version 18.12.15, which fixes the issue.
+
+Unauthenticated endpoints could allow execution of screen rendering code of screens if some preconditions are met (such as when the screen definitions don't explicitly check user's permissions because they rely on the configuration of their endpoints).
 - [Disseminator/Poc_CVE-2024-38856](https://github.com/Disseminator/Poc_CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/Poc_CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/Poc_CVE-2024-38856">
 
 ---
