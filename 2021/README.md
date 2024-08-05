@@ -2398,6 +2398,12 @@
 - [gabrielolivra/Exploit-Medium-CVE-2021-41184](https://github.com/gabrielolivra/Exploit-Medium-CVE-2021-41184)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielolivra/Exploit-Medium-CVE-2021-41184">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielolivra/Exploit-Medium-CVE-2021-41184">
 
 ---
+## CVE-2021-41182 (2021-10-26T15:15:00)
+> jQuery-UI is the official jQuery user interface library. Prior to version 1.13.0, accepting the value of the `altField` option of the Datepicker widget from untrusted sources may execute untrusted code. The issue is fixed in jQuery UI 1.13.0. Any string value passed to the `altField` option is now treated as a CSS selector. A workaround is to not accept the value of the `altField` option from untrusted sources.
+- [aredspy/CVE-2021-41182-Tester](https://github.com/aredspy/CVE-2021-41182-Tester)	<img alt="forks" src="https://img.shields.io/github/forks/aredspy/CVE-2021-41182-Tester">	<img alt="stars" src="https://img.shields.io/github/stars/aredspy/CVE-2021-41182-Tester">
+- [aredspy/CVE-2021-41182](https://github.com/aredspy/CVE-2021-41182)	<img alt="forks" src="https://img.shields.io/github/forks/aredspy/CVE-2021-41182">	<img alt="stars" src="https://img.shields.io/github/stars/aredspy/CVE-2021-41182">
+
+---
 ## CVE-2021-41178 (2021-10-25T22:15:00)
 > Nextcloud is an open-source, self-hosted productivity platform. Prior to versions 20.0.13, 21.0.5, and 22.2.0, a file traversal vulnerability makes an attacker able to download arbitrary SVG images from the host system, including user provided files. This could also be leveraged into a XSS/phishing attack, an attacker could upload a malicious SVG file that mimics the Nextcloud login form and send a specially crafted link to victims. The XSS risk here is mitigated due to the fact that Nextcloud employs a strict Content-Security-Policy disallowing execution of arbitrary JavaScript. It is recommended that the Nextcloud Server be upgraded to 20.0.13, 21.0.5 or 22.2.0. There are no known workarounds aside from upgrading.
 - [Live-Hack-CVE/CVE-2021-41178](https://github.com/Live-Hack-CVE/CVE-2021-41178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41178">
