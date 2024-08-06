@@ -4658,6 +4658,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0049 (2024-03-11T17:15:00)
 > In multiple locations, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User  interaction is not needed for exploitation.
 - [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049">
+- [uthrasri/frameworks_av_CVE-2024-0049](https://github.com/uthrasri/frameworks_av_CVE-2024-0049)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/frameworks_av_CVE-2024-0049">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/frameworks_av_CVE-2024-0049">
 
 ---
 ## CVE-2024-0044 (2024-03-11T17:15:00)
