@@ -240,6 +240,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5735">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5735">
 
 ---
+## CVE-2024-5716 ()
+> 
+- [j4nk3/CVE-2024-5716](https://github.com/j4nk3/CVE-2024-5716)	<img alt="forks" src="https://img.shields.io/github/forks/j4nk3/CVE-2024-5716">	<img alt="stars" src="https://img.shields.io/github/stars/j4nk3/CVE-2024-5716">
+
+---
 ## CVE-2024-5655 (2024-06-27T00:15:00)
 > An issue was discovered in GitLab CE/EE affecting all versions starting from 15.8 prior to 16.11.5, starting from 17.0 prior to 17.0.3, and starting from 17.1 prior to 17.1.1, which allows an attacker to trigger a pipeline as another user under certain circumstances.
 - [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL)	<img alt="forks" src="https://img.shields.io/github/forks/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">	<img alt="stars" src="https://img.shields.io/github/stars/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">
