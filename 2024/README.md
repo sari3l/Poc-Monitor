@@ -681,6 +681,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-40110">
 
 ---
+## CVE-2024-40080 ()
+> 
+- [perras/CVE-2024-40080](https://github.com/perras/CVE-2024-40080)	<img alt="forks" src="https://img.shields.io/github/forks/perras/CVE-2024-40080">	<img alt="stars" src="https://img.shields.io/github/stars/perras/CVE-2024-40080">
+
+---
 ## CVE-2024-39943 (2024-07-04T23:15:00)
 > rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js).
 - [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-39943-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-39943-Poc">
