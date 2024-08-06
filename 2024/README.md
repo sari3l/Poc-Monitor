@@ -3462,6 +3462,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [Maalfer/CVE-2024-23897](https://github.com/Maalfer/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2024-23897">
 - [Surko888/Surko-Exploit-Jenkins-CVE-2024-23897](https://github.com/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897">
 - [AnastasiaStill/CVE-2024-23897](https://github.com/AnastasiaStill/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-23897">
+- [NoSpaceAvailable/CVE-2024-23897](https://github.com/NoSpaceAvailable/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/NoSpaceAvailable/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/NoSpaceAvailable/CVE-2024-23897">
 
 ---
 ## CVE-2024-2389 ()
