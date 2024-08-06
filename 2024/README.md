@@ -4667,6 +4667,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0040 (2024-02-16T02:15:00)
 > In setParameter of MtpPacket.cpp, there is a possible out of bounds read due to a heap buffer overflow. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040">
+- [uthrasri/frameworks_av_CVE-2024-0040](https://github.com/uthrasri/frameworks_av_CVE-2024-0040)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/frameworks_av_CVE-2024-0040">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/frameworks_av_CVE-2024-0040">
 
 ---
 ## CVE-2024-0039 (2024-03-11T17:15:00)
