@@ -31,8 +31,8 @@
 - [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
 
 ---
-## CVE-2024-6782 ()
-> 
+## CVE-2024-6782 (2024-08-06T04:16:00)
+> Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution.
 - [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/zangjiahe/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/zangjiahe/CVE-2024-6782">
 
 ---
