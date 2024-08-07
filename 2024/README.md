@@ -193,8 +193,12 @@
 - [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6366">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6366">
 
 ---
-## CVE-2024-6222 ()
-> 
+## CVE-2024-6222 (2024-07-09T18:15:00)
+> In Docker Desktop before v4.29.0, an attacker who has gained access to the Docker Desktop VM through a container breakout can further escape to the host by passing extensions and dashboard related IPC messages.
+
+Docker Desktop  v4.29.0 https://docs.docker.com/desktop/release-notes/#4290  fixes the issue on MacOS, Linux and Windows with Hyper-V backend.
+
+As exploitation requires "Allow only extensions distributed through the Docker Marketplace" to be disabled, Docker Desktop  v4.31.0 https://docs.docker.com/desktop/release-notes/#4310  additionally changes the default configuration to enable this setting by default.
 - [Florian-Hoth/CVE-2024-6222](https://github.com/Florian-Hoth/CVE-2024-6222)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-6222">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-6222">
 
 ---
@@ -826,8 +830,8 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
-## CVE-2024-38100 ()
-> 
+## CVE-2024-38100 (2024-07-09T17:15:00)
+> Windows File Explorer Elevation of Privilege Vulnerability
 - [Florian-Hoth/CVE-2024-38100-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-38100-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-38100-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-38100-RCE-POC">
 
 ---

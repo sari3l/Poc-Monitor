@@ -148,8 +148,8 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-6538">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-6538">
 
 ---
-## CVE-2023-6444 ()
-> 
+## CVE-2023-6444 (2024-03-11T18:15:00)
+> The Seriously Simple Podcasting WordPress plugin before 3.0.0 discloses the Podcast owner's email address (which by default is the admin email address) via an unauthenticated crafted request.
 - [Wayne-Ker/CVE-2023-6444-POC](https://github.com/Wayne-Ker/CVE-2023-6444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wayne-Ker/CVE-2023-6444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wayne-Ker/CVE-2023-6444-POC">
 
 ---
