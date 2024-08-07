@@ -1620,6 +1620,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-32113">
 - [RacerZ-fighting/CVE-2024-32113-POC](https://github.com/RacerZ-fighting/CVE-2024-32113-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RacerZ-fighting/CVE-2024-32113-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RacerZ-fighting/CVE-2024-32113-POC">
+- [YongYe-Security/CVE-2024-32113](https://github.com/YongYe-Security/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-32113">
 
 ---
 ## CVE-2024-32104 (2024-04-15T09:15:00)
