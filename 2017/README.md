@@ -306,6 +306,7 @@
 - [Therootkitsec/-CVE-2017-7269](https://github.com/Therootkitsec/-CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/Therootkitsec/-CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/Therootkitsec/-CVE-2017-7269">
 - [Cappricio-Securities/CVE-2017-7269](https://github.com/Cappricio-Securities/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2017-7269">
 - [OmarSuarezDoro/CVE-2017-7269](https://github.com/OmarSuarezDoro/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/OmarSuarezDoro/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/OmarSuarezDoro/CVE-2017-7269">
+- [VanishedPeople/CVE-2017-7269](https://github.com/VanishedPeople/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/VanishedPeople/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/VanishedPeople/CVE-2017-7269">
 
 ---
 ## CVE-2017-6074 (2017-02-18T21:59:00)
