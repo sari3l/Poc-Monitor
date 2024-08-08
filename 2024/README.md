@@ -443,6 +443,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [a-roshbaik/CVE-2024-4577-PHP-RCE](https://github.com/a-roshbaik/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577-PHP-RCE">
 - [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVEploiterv2">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVEploiterv2">
 - [Jcccccx/CVE-2024-4577](https://github.com/Jcccccx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Jcccccx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Jcccccx/CVE-2024-4577">
+- [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR)	<img alt="forks" src="https://img.shields.io/github/forks/ManuelKy08/CVE-2024-4577---RR">	<img alt="stars" src="https://img.shields.io/github/stars/ManuelKy08/CVE-2024-4577---RR">
 
 ---
 ## CVE-2024-4514 (2024-05-06T02:15:00)
