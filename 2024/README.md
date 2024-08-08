@@ -3011,6 +3011,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [GRTMALDET/Big-IP-Next-CVE-2024-26026](https://github.com/GRTMALDET/Big-IP-Next-CVE-2024-26026)	<img alt="forks" src="https://img.shields.io/github/forks/GRTMALDET/Big-IP-Next-CVE-2024-26026">	<img alt="stars" src="https://img.shields.io/github/stars/GRTMALDET/Big-IP-Next-CVE-2024-26026">
 
 ---
+## CVE-2024-25897 (2024-02-21T18:15:00)
+> ChurchCRM 5.5.0 FRCatalog.php is vulnerable to Blind SQL Injection (Time-based) via the CurrentFundraiser GET parameter.
+- [i-100-user/CVE-2024-25897](https://github.com/i-100-user/CVE-2024-25897)	<img alt="forks" src="https://img.shields.io/github/forks/i-100-user/CVE-2024-25897">	<img alt="stars" src="https://img.shields.io/github/stars/i-100-user/CVE-2024-25897">
+
+---
 ## CVE-2024-25832 (2024-02-29T01:44:00)
 > F-logic DataCube3 v1.0 is vulnerable to unrestricted file upload, which could allow an authenticated malicious actor to upload a file of dangerous type by manipulating the filename extension.
 - [0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xNslabs/CVE-2024-25832-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xNslabs/CVE-2024-25832-PoC">
