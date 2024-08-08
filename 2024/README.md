@@ -798,6 +798,8 @@ Users are recommended to upgrade to version 18.12.15, which fixes the issue.
 
 Unauthenticated endpoints could allow execution of screen rendering code of screens if some preconditions are met (such as when the screen definitions don't explicitly check user's permissions because they rely on the configuration of their endpoints).
 - [Disseminator/Poc_CVE-2024-38856](https://github.com/Disseminator/Poc_CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/Poc_CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/Poc_CVE-2024-38856">
+- [yosef0x01/CVE-2024-38856_Scanner](https://github.com/yosef0x01/CVE-2024-38856_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2024-38856_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2024-38856_Scanner">
+- [securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/CVE-2024-38856_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/CVE-2024-38856_Scanner">
 
 ---
 ## CVE-2024-3867 (2024-04-16T10:15:00)
