@@ -513,6 +513,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320)	<img alt="forks" src="https://img.shields.io/github/forks/bolkv/CVE-2024-4320">	<img alt="stars" src="https://img.shields.io/github/stars/bolkv/CVE-2024-4320">
 
 ---
+## CVE-2024-43044 (2024-08-07T14:15:00)
+> Jenkins 2.470 and earlier, LTS 2.452.3 and earlier allows agent processes to read arbitrary files from the Jenkins controller file system by using the `ClassLoaderProxy#fetchJar` method in the Remoting library.
+- [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044)	<img alt="forks" src="https://img.shields.io/github/forks/HwMex0/CVE-2024-43044">	<img alt="stars" src="https://img.shields.io/github/stars/HwMex0/CVE-2024-43044">
+
+---
 ## CVE-2024-4295 (2024-06-05T06:15:00)
 > The Email Subscribers by Icegram Express plugin for WordPress is vulnerable to SQL Injection via the ‘hash’ parameter in all versions up to, and including, 5.7.20 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4295-Poc">
