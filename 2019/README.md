@@ -178,6 +178,7 @@
 - [FedericoTorres233/CVE-2019-9053-Fixed](https://github.com/FedericoTorres233/CVE-2019-9053-Fixed)	<img alt="forks" src="https://img.shields.io/github/forks/FedericoTorres233/CVE-2019-9053-Fixed">	<img alt="stars" src="https://img.shields.io/github/stars/FedericoTorres233/CVE-2019-9053-Fixed">
 - [TeymurNovruzov/CVE-2019-9053-python3-remastered](https://github.com/TeymurNovruzov/CVE-2019-9053-python3-remastered)	<img alt="forks" src="https://img.shields.io/github/forks/TeymurNovruzov/CVE-2019-9053-python3-remastered">	<img alt="stars" src="https://img.shields.io/github/stars/TeymurNovruzov/CVE-2019-9053-python3-remastered">
 - [Dh4nuJ4/SimpleCTF-UpdatedExploit](https://github.com/Dh4nuJ4/SimpleCTF-UpdatedExploit)	<img alt="forks" src="https://img.shields.io/github/forks/Dh4nuJ4/SimpleCTF-UpdatedExploit">	<img alt="stars" src="https://img.shields.io/github/stars/Dh4nuJ4/SimpleCTF-UpdatedExploit">
+- [jtoalu/CTF-CVE-2019-9053-GTFOBins](https://github.com/jtoalu/CTF-CVE-2019-9053-GTFOBins)	<img alt="forks" src="https://img.shields.io/github/forks/jtoalu/CTF-CVE-2019-9053-GTFOBins">	<img alt="stars" src="https://img.shields.io/github/stars/jtoalu/CTF-CVE-2019-9053-GTFOBins">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
