@@ -940,7 +940,7 @@
 ---
 ## CVE-2020-5377 (2020-07-28T18:15:00)
 > Dell EMC OpenManage Server Administrator (OMSA) versions 9.4 and prior contain multiple path traversal vulnerabilities. An unauthenticated remote attacker could potentially exploit these vulnerabilities by sending a crafted Web API request containing directory traversal character sequences to gain file system access on the compromised management station.
-- [c0d3cr4f73r/CVE-2020-5377](https://github.com/c0d3cr4f73r/CVE-2020-5377)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2020-5377">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2020-5377">
+- [N3rdyN3xus/CVE-2020-5377](https://github.com/N3rdyN3xus/CVE-2020-5377)	<img alt="forks" src="https://img.shields.io/github/forks/N3rdyN3xus/CVE-2020-5377">	<img alt="stars" src="https://img.shields.io/github/stars/N3rdyN3xus/CVE-2020-5377">
 - [und3sc0n0c1d0/AFR-in-OMSA](https://github.com/und3sc0n0c1d0/AFR-in-OMSA)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/AFR-in-OMSA">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/AFR-in-OMSA">
 
 ---
