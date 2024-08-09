@@ -818,6 +818,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [Disseminator/Poc_CVE-2024-38856](https://github.com/Disseminator/Poc_CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/Poc_CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/Poc_CVE-2024-38856">
 - [yosef0x01/CVE-2024-38856_Scanner](https://github.com/yosef0x01/CVE-2024-38856_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2024-38856_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2024-38856_Scanner">
 - [securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/CVE-2024-38856_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/CVE-2024-38856_Scanner">
+- [codeb0ss/CVE-2024-38856-PoC](https://github.com/codeb0ss/CVE-2024-38856-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-38856-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-38856-PoC">
 
 ---
 ## CVE-2024-3867 (2024-04-16T10:15:00)
