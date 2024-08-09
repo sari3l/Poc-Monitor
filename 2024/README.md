@@ -863,6 +863,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Sec-Link/CVE-2024-38077](https://github.com/Sec-Link/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Link/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Link/CVE-2024-38077">
 - [murphysecurity/RDL-detect](https://github.com/murphysecurity/RDL-detect)	<img alt="forks" src="https://img.shields.io/github/forks/murphysecurity/RDL-detect">	<img alt="stars" src="https://img.shields.io/github/stars/murphysecurity/RDL-detect">
 - [Wlibang/CVE-2024-38077](https://github.com/Wlibang/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/Wlibang/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/Wlibang/CVE-2024-38077">
+- [BambiZombie/CVE-2024-38077-check](https://github.com/BambiZombie/CVE-2024-38077-check)	<img alt="forks" src="https://img.shields.io/github/forks/BambiZombie/CVE-2024-38077-check">	<img alt="stars" src="https://img.shields.io/github/stars/BambiZombie/CVE-2024-38077-check">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
