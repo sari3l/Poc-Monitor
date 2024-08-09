@@ -988,6 +988,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Cappricio-Securities/CVE-2024-36991](https://github.com/Cappricio-Securities/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-36991">
 
 ---
+## CVE-2024-36877 ()
+> 
+- [jjensn/CVE-2024-36877](https://github.com/jjensn/CVE-2024-36877)	<img alt="forks" src="https://img.shields.io/github/forks/jjensn/CVE-2024-36877">	<img alt="stars" src="https://img.shields.io/github/stars/jjensn/CVE-2024-36877">
+
+---
 ## CVE-2024-36837 (2024-06-05T15:15:00)
 > SQL Injection vulnerability in CRMEB v.5.2.2 allows a remote attacker to obtain sensitive information via the getProductList function in the ProductController.php file.
 - [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837)	<img alt="forks" src="https://img.shields.io/github/forks/phtcloud-dev/CVE-2024-36837">	<img alt="stars" src="https://img.shields.io/github/stars/phtcloud-dev/CVE-2024-36837">
