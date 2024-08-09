@@ -4756,7 +4756,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ---
 ## CVE-2024-0030 (2024-02-16T02:15:00)
 > In btif_to_bta_response of btif_gatt_util.cc, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
-- [uthrasri/CVE-2024-0030](https://github.com/uthrasri/CVE-2024-0030)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-0030">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-0030">
+- [uthrasri/system_bt_CVE-2024-0030](https://github.com/uthrasri/system_bt_CVE-2024-0030)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/system_bt_CVE-2024-0030">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/system_bt_CVE-2024-0030">
 
 ---
 ## CVE-2024-0023 (2024-02-16T20:15:00)
