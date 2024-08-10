@@ -870,6 +870,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [psl-b/CVE-2024-38077-check](https://github.com/psl-b/CVE-2024-38077-check)	<img alt="forks" src="https://img.shields.io/github/forks/psl-b/CVE-2024-38077-check">	<img alt="stars" src="https://img.shields.io/github/stars/psl-b/CVE-2024-38077-check">
 - [zhuxi1965/CVE-2024-38077-RDLCheck](https://github.com/zhuxi1965/CVE-2024-38077-RDLCheck)	<img alt="forks" src="https://img.shields.io/github/forks/zhuxi1965/CVE-2024-38077-RDLCheck">	<img alt="stars" src="https://img.shields.io/github/stars/zhuxi1965/CVE-2024-38077-RDLCheck">
 - [zhuxi1965/CVE-2024-38077-RDLCheck](https://github.com/zhuxi1965/CVE-2024-38077-RDLCheck)	<img alt="forks" src="https://img.shields.io/github/forks/zhuxi1965/CVE-2024-38077-RDLCheck">	<img alt="stars" src="https://img.shields.io/github/stars/zhuxi1965/CVE-2024-38077-RDLCheck">
+- [lworld0x00/CVE-2024-38077-notes](https://github.com/lworld0x00/CVE-2024-38077-notes)	<img alt="forks" src="https://img.shields.io/github/forks/lworld0x00/CVE-2024-38077-notes">	<img alt="stars" src="https://img.shields.io/github/stars/lworld0x00/CVE-2024-38077-notes">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
