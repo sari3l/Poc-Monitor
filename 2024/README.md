@@ -867,6 +867,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Wlibang/CVE-2024-38077](https://github.com/Wlibang/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/Wlibang/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/Wlibang/CVE-2024-38077">
 - [BambiZombie/CVE-2024-38077-check](https://github.com/BambiZombie/CVE-2024-38077-check)	<img alt="forks" src="https://img.shields.io/github/forks/BambiZombie/CVE-2024-38077-check">	<img alt="stars" src="https://img.shields.io/github/stars/BambiZombie/CVE-2024-38077-check">
 - [psl-b/CVE-2024-38077-check](https://github.com/psl-b/CVE-2024-38077-check)	<img alt="forks" src="https://img.shields.io/github/forks/psl-b/CVE-2024-38077-check">	<img alt="stars" src="https://img.shields.io/github/stars/psl-b/CVE-2024-38077-check">
+- [zhuxi1965/CVE-2024-38077-RDLCheck](https://github.com/zhuxi1965/CVE-2024-38077-RDLCheck)	<img alt="forks" src="https://img.shields.io/github/forks/zhuxi1965/CVE-2024-38077-RDLCheck">	<img alt="stars" src="https://img.shields.io/github/stars/zhuxi1965/CVE-2024-38077-RDLCheck">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
