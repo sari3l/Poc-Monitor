@@ -872,6 +872,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [zhuxi1965/CVE-2024-38077-RDLCheck](https://github.com/zhuxi1965/CVE-2024-38077-RDLCheck)	<img alt="forks" src="https://img.shields.io/github/forks/zhuxi1965/CVE-2024-38077-RDLCheck">	<img alt="stars" src="https://img.shields.io/github/stars/zhuxi1965/CVE-2024-38077-RDLCheck">
 - [lworld0x00/CVE-2024-38077-notes](https://github.com/lworld0x00/CVE-2024-38077-notes)	<img alt="forks" src="https://img.shields.io/github/forks/lworld0x00/CVE-2024-38077-notes">	<img alt="stars" src="https://img.shields.io/github/stars/lworld0x00/CVE-2024-38077-notes">
 - [BambiZombie/CVE-2024-38077-check](https://github.com/BambiZombie/CVE-2024-38077-check)	<img alt="forks" src="https://img.shields.io/github/forks/BambiZombie/CVE-2024-38077-check">	<img alt="stars" src="https://img.shields.io/github/stars/BambiZombie/CVE-2024-38077-check">
+- [atlassion/CVE-2024-38077-check](https://github.com/atlassion/CVE-2024-38077-check)	<img alt="forks" src="https://img.shields.io/github/forks/atlassion/CVE-2024-38077-check">	<img alt="stars" src="https://img.shields.io/github/stars/atlassion/CVE-2024-38077-check">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
