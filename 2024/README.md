@@ -1241,6 +1241,11 @@ PANIC from 6.8.0-rc1:
 - [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zomasec/CVE-2024-3495-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zomasec/CVE-2024-3495-POC">
 
 ---
+## CVE-2024-34833 (2024-06-17T21:15:00)
+> Sourcecodester Payroll Management System v1.0 is vulnerable to File Upload. Users can upload images via the "save_settings" page. An unauthenticated attacker can leverage this functionality to upload a malicious PHP file instead. Successful exploitation of this vulnerability results in the ability to execute arbitrary code as the user running the web server.
+- [ShellUnease/CVE-2024-34833-payroll-management-system-rce](https://github.com/ShellUnease/CVE-2024-34833-payroll-management-system-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ShellUnease/CVE-2024-34833-payroll-management-system-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ShellUnease/CVE-2024-34833-payroll-management-system-rce">
+
+---
 ## CVE-2024-34832 (2024-06-06T15:15:00)
 > Directory Traversal vulnerability in CubeCart v.6.5.5 and before allows an attacker to execute arbitrary code via a crafted file uploaded to the _g and node parameters.
 - [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-34832">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-34832">
