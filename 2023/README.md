@@ -2341,6 +2341,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 ## CVE-2023-41425 ()
 > 
 - [prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/prodigiousMind/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/prodigiousMind/CVE-2023-41425">
+- [charlesgargasson/CVE-2023-41425](https://github.com/charlesgargasson/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2023-41425">
 
 ---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
