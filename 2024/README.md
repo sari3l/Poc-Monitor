@@ -557,8 +557,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662)	<img alt="forks" src="https://img.shields.io/github/forks/sh3bu/CVE-2024-41662">	<img alt="stars" src="https://img.shields.io/github/stars/sh3bu/CVE-2024-41662">
 
 ---
-## CVE-2024-41651 ()
-> 
+## CVE-2024-41651 (2024-08-12T17:15:00)
+> An issue in Prestashop v.8.1.7 and before allows a remote attacker to execute arbitrary code via the module upgrade functionality.
 - [Fckroun/CVE-2024-41651](https://github.com/Fckroun/CVE-2024-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Fckroun/CVE-2024-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Fckroun/CVE-2024-41651">
 
 ---
@@ -650,8 +650,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [Jansen-C-Moreira/CVE-2024-40506](https://github.com/Jansen-C-Moreira/CVE-2024-40506)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40506">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40506">
 
 ---
-## CVE-2024-40500 ()
-> 
+## CVE-2024-40500 (2024-08-12T17:15:00)
+> Cross Site Scripting vulnerability in Martin Kucej i-librarian v.5.11.0 and before allows a local attacker to execute arbitrary code via the search function in the import component.
 - [nitipoom-jar/CVE-2024-40500](https://github.com/nitipoom-jar/CVE-2024-40500)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-40500">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-40500">
 
 ---
@@ -996,8 +996,8 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Cappricio-Securities/CVE-2024-36991](https://github.com/Cappricio-Securities/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-36991">
 
 ---
-## CVE-2024-36877 ()
-> 
+## CVE-2024-36877 (2024-08-12T16:15:00)
+> Micro-Star International Z-series motherboards (Z590, Z490, and Z790) and B-series motherboards (B760, B560, B660, and B460) with firmware 7D25v14, 7D25v17 to 7D25v19, and 7D25v1A to 7D25v1H was discovered to contain a write-what-where condition in the in the SW handler for SMI 0xE3.
 - [jjensn/CVE-2024-36877](https://github.com/jjensn/CVE-2024-36877)	<img alt="forks" src="https://img.shields.io/github/forks/jjensn/CVE-2024-36877">	<img alt="stars" src="https://img.shields.io/github/stars/jjensn/CVE-2024-36877">
 
 ---
