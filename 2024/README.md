@@ -4643,6 +4643,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [hunThubSpace/CVE-2024-0757-Exploit](https://github.com/hunThubSpace/CVE-2024-0757-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-0757-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-0757-Exploit">
 
 ---
+## CVE-2024-0741 (2024-01-23T14:15:00)
+> An out of bounds write in ANGLE could have allowed an attacker to corrupt memory leading to a potentially exploitable crash. This vulnerability affects Firefox < 122, Firefox ESR < 115.7, and Thunderbird < 115.7.
+- [HyHy100/Firefox-CVE-2024-0741](https://github.com/HyHy100/Firefox-CVE-2024-0741)	<img alt="forks" src="https://img.shields.io/github/forks/HyHy100/Firefox-CVE-2024-0741">	<img alt="stars" src="https://img.shields.io/github/stars/HyHy100/Firefox-CVE-2024-0741">
+
+---
 ## CVE-2024-0713 (2024-01-19T14:15:00)
 > A vulnerability was found in Monitorr 1.7.6m. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /assets/php/upload.php of the component Services Configuration. The manipulation of the argument fileToUpload leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-251539. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [kitodd/CVE-2024-0713](https://github.com/kitodd/CVE-2024-0713)	<img alt="forks" src="https://img.shields.io/github/forks/kitodd/CVE-2024-0713">	<img alt="stars" src="https://img.shields.io/github/stars/kitodd/CVE-2024-0713">
