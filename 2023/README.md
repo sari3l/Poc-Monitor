@@ -5434,6 +5434,7 @@ The specific flaw exists within the Toolgate component. The issue results from t
 ## CVE-2023-27216 (2023-04-12T17:15:00)
 > An issue found in D-Link DSL-3782 v.1.03 allows remote authenticated users to execute arbitrary code as root via the network settings page.
 - [FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection](https://github.com/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection)	<img alt="forks" src="https://img.shields.io/github/forks/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection">	<img alt="stars" src="https://img.shields.io/github/stars/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection">
+- [HoangREALER/CVE-2023-27216](https://github.com/HoangREALER/CVE-2023-27216)	<img alt="forks" src="https://img.shields.io/github/forks/HoangREALER/CVE-2023-27216">	<img alt="stars" src="https://img.shields.io/github/stars/HoangREALER/CVE-2023-27216">
 
 ---
 ## CVE-2023-27163 (2023-03-31T20:15:00)
