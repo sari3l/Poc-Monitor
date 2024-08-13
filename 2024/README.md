@@ -529,6 +529,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 > Jenkins 2.470 and earlier, LTS 2.452.3 and earlier allows agent processes to read arbitrary files from the Jenkins controller file system by using the `ClassLoaderProxy#fetchJar` method in the Remoting library.
 - [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044)	<img alt="forks" src="https://img.shields.io/github/forks/HwMex0/CVE-2024-43044">	<img alt="stars" src="https://img.shields.io/github/stars/HwMex0/CVE-2024-43044">
 - [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3430">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3430">
+- [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v9d0g/CVE-2024-43044-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v9d0g/CVE-2024-43044-POC">
 
 ---
 ## CVE-2024-4295 (2024-06-05T06:15:00)
@@ -1431,6 +1432,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [ex-ARnX/CVE-2024-34102-PoC](https://github.com/ex-ARnX/CVE-2024-34102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ex-ARnX/CVE-2024-34102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ex-ARnX/CVE-2024-34102-PoC">
 - [etx-Arn/CVE-2024-34102-RCE](https://github.com/etx-Arn/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE">
 - [etx-Arn/CVE-2024-34102-RCE-PoC](https://github.com/etx-Arn/CVE-2024-34102-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE-PoC">
+- [EQSTSeminar/CVE-2024-34102](https://github.com/EQSTSeminar/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/CVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
