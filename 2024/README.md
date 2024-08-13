@@ -3683,6 +3683,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [alexcote1/CVE-2024-23722-poc](https://github.com/alexcote1/CVE-2024-23722-poc)	<img alt="forks" src="https://img.shields.io/github/forks/alexcote1/CVE-2024-23722-poc">	<img alt="stars" src="https://img.shields.io/github/stars/alexcote1/CVE-2024-23722-poc">
 
 ---
+## CVE-2024-23709 (2024-05-07T21:15:00)
+> In multiple locations, there is a possible out of bounds write due to a heap buffer overflow. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.
+- [AbrarKhan/external_sonivox_CVE-2024-23709](https://github.com/AbrarKhan/external_sonivox_CVE-2024-23709)	<img alt="forks" src="https://img.shields.io/github/forks/AbrarKhan/external_sonivox_CVE-2024-23709">	<img alt="stars" src="https://img.shields.io/github/stars/AbrarKhan/external_sonivox_CVE-2024-23709">
+
+---
 ## CVE-2024-23708 (2024-05-07T21:15:00)
 > In multiple functions of NotificationManagerService.java, there is a possible way to not show a toast message when a clipboard message has been accessed. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [uthrasri/CVE-2024-23708](https://github.com/uthrasri/CVE-2024-23708)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-23708">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-23708">
