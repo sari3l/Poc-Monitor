@@ -4808,6 +4808,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [007CRIPTOGRAFIA/c-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/c-CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/007CRIPTOGRAFIA/c-CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/007CRIPTOGRAFIA/c-CVE-2024-0044">
 - [Kai2er/CVE-2024-0044-EXP](https://github.com/Kai2er/CVE-2024-0044-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Kai2er/CVE-2024-0044-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Kai2er/CVE-2024-0044-EXP">
 - [nahid0x1/CVE-2024-0044](https://github.com/nahid0x1/CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/nahid0x1/CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/nahid0x1/CVE-2024-0044">
+- [nexussecelite/EvilDroid](https://github.com/nexussecelite/EvilDroid)	<img alt="forks" src="https://img.shields.io/github/forks/nexussecelite/EvilDroid">	<img alt="stars" src="https://img.shields.io/github/stars/nexussecelite/EvilDroid">
+- [hunter24x24/cve_2024_0044](https://github.com/hunter24x24/cve_2024_0044)	<img alt="forks" src="https://img.shields.io/github/forks/hunter24x24/cve_2024_0044">	<img alt="stars" src="https://img.shields.io/github/stars/hunter24x24/cve_2024_0044">
 
 ---
 ## CVE-2024-0040 (2024-02-16T02:15:00)
