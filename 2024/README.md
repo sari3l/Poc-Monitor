@@ -4487,6 +4487,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
 
 ---
+## CVE-2024-1931 (2024-03-07T10:15:00)
+> NLnet Labs Unbound version 1.18.0 up to and including version 1.19.1 contain a vulnerability that can cause denial of service by a certain code path that can lead to an infinite loop. Unbound 1.18.0 introduced a feature that removes EDE records from responses with size higher than the client's advertised buffer size. Before removing all the EDE records however, it would try to see if trimming the extra text fields on those records would result in an acceptable size while still retaining the EDE codes. Due to an unchecked condition, the code that trims the text of the EDE records could loop indefinitely. This happens when Unbound would reply with attached EDE information on a positive reply and the client's buffer size is smaller than the needed space to include EDE records. The vulnerability can only be triggered when the 'ede: yes' option is used; non default configuration. From version 1.19.2 on, the code is fixed to avoid looping indefinitely.
+- [passer12/CVE-2024-1931-reproduction](https://github.com/passer12/CVE-2024-1931-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/passer12/CVE-2024-1931-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/passer12/CVE-2024-1931-reproduction">
+
+---
 ## CVE-2024-1874 (2024-04-29T04:15:00)
 > In PHP versions 8.1.* before 8.1.28, 8.2.* before 8.2.18, 8.3.* before 8.3.5, when using proc_open() command with array syntax, due to insufficient escaping, if the arguments of the executed command are controlled by a malicious user, the user can supply arguments that would execute arbitrary commands in Windows shell. 
 
