@@ -3108,6 +3108,7 @@
 ## CVE-2021-39863 (2021-09-29T16:15:00)
 > Acrobat Reader DC versions 2021.005.20060 (and earlier), 2020.004.30006 (and earlier) and 2017.011.30199 (and earlier) are affected by a Buffer Overflow vulnerability when parsing a specially crafted PDF file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [WHS-SEGFAULT/CVE-2021-39863](https://github.com/WHS-SEGFAULT/CVE-2021-39863)	<img alt="forks" src="https://img.shields.io/github/forks/WHS-SEGFAULT/CVE-2021-39863">	<img alt="stars" src="https://img.shields.io/github/stars/WHS-SEGFAULT/CVE-2021-39863">
+- [lsw29475/CVE-2021-39863](https://github.com/lsw29475/CVE-2021-39863)	<img alt="forks" src="https://img.shields.io/github/forks/lsw29475/CVE-2021-39863">	<img alt="stars" src="https://img.shields.io/github/stars/lsw29475/CVE-2021-39863">
 
 ---
 ## CVE-2021-3984 (2021-12-01T11:15:00)
