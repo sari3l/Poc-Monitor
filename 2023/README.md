@@ -2691,6 +2691,16 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 - [afine-com/CVE-2023-39062](https://github.com/afine-com/CVE-2023-39062)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-39062">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-39062">
 
 ---
+## CVE-2023-3897 (2023-07-25T09:15:00)
+> 
+Username enumeration is possible through Bypassing CAPTCHA in On-premise SureMDM Solution on Windows deployment allows attacker to enumerate local user information via error message.
+
+This issue affects SureMDM On-premise: 6.31 and below version 
+
+
+- [jFriedli/CVE-2023-3897](https://github.com/jFriedli/CVE-2023-3897)	<img alt="forks" src="https://img.shields.io/github/forks/jFriedli/CVE-2023-3897">	<img alt="stars" src="https://img.shields.io/github/stars/jFriedli/CVE-2023-3897">
+
+---
 ## CVE-2023-38891 (2023-09-14T23:15:00)
 > SQL injection vulnerability in Vtiger CRM v.7.5.0 allows a remote authenticated attacker to escalate privileges via the getQueryColumnsList function in ReportRun.php.
 - [jselliott/CVE-2023-38891](https://github.com/jselliott/CVE-2023-38891)	<img alt="forks" src="https://img.shields.io/github/forks/jselliott/CVE-2023-38891">	<img alt="stars" src="https://img.shields.io/github/stars/jselliott/CVE-2023-38891">
