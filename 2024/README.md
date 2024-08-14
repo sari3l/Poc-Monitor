@@ -3974,6 +3974,8 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 > Zabbix server can perform command execution for configured scripts. After command is executed, audit entry is added to "Audit Log". Due to "clientip" field is not sanitized, it is possible to injection SQL into "clientip" and exploit time based blind SQL injection.
 - [W01fh4cker/CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-22120-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-22120-RCE">
 - [g4nkd/CVE-2024-22120-RCE-with-gopher](https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2024-22120-RCE-with-gopher">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2024-22120-RCE-with-gopher">
+- [g4nkd/CVE-2024-22120-RCE-with-gopher](https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2024-22120-RCE-with-gopher">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2024-22120-RCE-with-gopher">
+- [isPique/CVE-2024-22120-RCE-with-gopher](https://github.com/isPique/CVE-2024-22120-RCE-with-gopher)	<img alt="forks" src="https://img.shields.io/github/forks/isPique/CVE-2024-22120-RCE-with-gopher">	<img alt="stars" src="https://img.shields.io/github/stars/isPique/CVE-2024-22120-RCE-with-gopher">
 
 ---
 ## CVE-2024-22026 (2024-05-22T23:15:00)
