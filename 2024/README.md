@@ -1841,6 +1841,13 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC">
 
 ---
+## CVE-2024-3183 (2024-06-12T09:15:00)
+> A vulnerability was found in FreeIPA in a way when a Kerberos TGS-REQ is encrypted using the client’s session key. This key is different for each new session, which protects it from brute force attacks. However, the ticket it contains is encrypted using the target principal key directly. For user principals, this key is a hash of a public per-principal randomly-generated salt and the user’s password.
+
+If a principal is compromised it means the attacker would be able to retrieve tickets encrypted to any principal, all of them being encrypted by their own key directly. By taking these tickets and salts offline, the attacker could run brute force attacks to find character strings able to decrypt tickets when combined to a principal salt (i.e. find the principal’s password).
+- [Cyxow/CVE-2024-3183-POC](https://github.com/Cyxow/CVE-2024-3183-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cyxow/CVE-2024-3183-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cyxow/CVE-2024-3183-POC">
+
+---
 ## CVE-2024-31819 (2024-04-10T20:15:00)
 > An issue in WWBN AVideo v.12.4 through v.14.2 allows a remote attacker to execute arbitrary code via the systemRootPath parameter of the submitIndex.php component.
 - [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-31819">
