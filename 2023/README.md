@@ -6333,6 +6333,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [pashayogi/CVE-2023-22809](https://github.com/pashayogi/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2023-22809">
 - [asepsaepdin/CVE-2023-22809](https://github.com/asepsaepdin/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-22809">
 - [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/Toothless5143/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/Toothless5143/CVE-2023-22809">
+- [AntiVlad/CVE-2023-22809](https://github.com/AntiVlad/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/AntiVlad/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/AntiVlad/CVE-2023-22809">
 
 ---
 ## CVE-2023-22726 (2023-01-20T22:15:00)
