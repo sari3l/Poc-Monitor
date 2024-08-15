@@ -5398,6 +5398,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [redboltsec/CVE-2023-27372-PoC](https://github.com/redboltsec/CVE-2023-27372-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/redboltsec/CVE-2023-27372-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/redboltsec/CVE-2023-27372-PoC">
 - [tucommenceapousser/CVE-2023-27372b](https://github.com/tucommenceapousser/CVE-2023-27372b)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-27372b">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-27372b">
 - [Jhonsonwannaa/CVE-2023-27372](https://github.com/Jhonsonwannaa/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2023-27372">
+- [1amthebest1/CVE-2023-27372](https://github.com/1amthebest1/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/1amthebest1/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/1amthebest1/CVE-2023-27372">
 
 ---
 ## CVE-2023-27363 (2024-05-03T02:15:00)
