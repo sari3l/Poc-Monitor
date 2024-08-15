@@ -891,6 +891,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [SecStarBot/CVE-2024-38077-POC](https://github.com/SecStarBot/CVE-2024-38077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecStarBot/CVE-2024-38077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecStarBot/CVE-2024-38077-POC">
 
 ---
+## CVE-2024-38063 (2024-08-13T18:15:00)
+> Windows TCP/IP Remote Code Execution Vulnerability
+- [diegoalbuquerque/CVE-2024-38063](https://github.com/diegoalbuquerque/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/diegoalbuquerque/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/diegoalbuquerque/CVE-2024-38063">
+
+---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
 > The Porto theme for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 7.1.0 via the 'porto_ajax_posts' function. This makes it possible for unauthenticated attackers to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where php file type can be uploaded and included.
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
