@@ -541,6 +541,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
 
 ---
+## CVE-2024-42850 ()
+> 
+- [njmbb8/CVE-2024-42850](https://github.com/njmbb8/CVE-2024-42850)	<img alt="forks" src="https://img.shields.io/github/forks/njmbb8/CVE-2024-42850">	<img alt="stars" src="https://img.shields.io/github/stars/njmbb8/CVE-2024-42850">
+
+---
 ## CVE-2024-42758 ()
 > 
 - [1s1ldur/CVE-2024-42758](https://github.com/1s1ldur/CVE-2024-42758)	<img alt="forks" src="https://img.shields.io/github/forks/1s1ldur/CVE-2024-42758">	<img alt="stars" src="https://img.shields.io/github/stars/1s1ldur/CVE-2024-42758">
