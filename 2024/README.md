@@ -4091,6 +4091,15 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [CyberSecuritist/CVE-2024-21754-Forti-RCE](https://github.com/CyberSecuritist/CVE-2024-21754-Forti-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CyberSecuritist/CVE-2024-21754-Forti-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CyberSecuritist/CVE-2024-21754-Forti-RCE">
 
 ---
+## CVE-2024-21733 (2024-01-19T11:15:00)
+> Generation of Error Message Containing Sensitive Information vulnerability in Apache Tomcat.This issue affects Apache Tomcat: from 8.5.7 through 8.5.63, from 9.0.0-M11 through 9.0.43.
+
+Users are recommended to upgrade to version 8.5.64 onwards or 9.0.44 onwards, which contain a fix for the issue.
+
+
+- [LtmThink/CVE-2024-21733](https://github.com/LtmThink/CVE-2024-21733)	<img alt="forks" src="https://img.shields.io/github/forks/LtmThink/CVE-2024-21733">	<img alt="stars" src="https://img.shields.io/github/stars/LtmThink/CVE-2024-21733">
+
+---
 ## CVE-2024-21683 (2024-05-21T23:15:00)
 > This High severity RCE (Remote Code Execution) vulnerability was introduced in version 5.2 of Confluence Data Center and Server.
 
