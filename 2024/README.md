@@ -1886,6 +1886,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 If a principal is compromised it means the attacker would be able to retrieve tickets encrypted to any principal, all of them being encrypted by their own key directly. By taking these tickets and salts offline, the attacker could run brute force attacks to find character strings able to decrypt tickets when combined to a principal salt (i.e. find the principal’s password).
 - [Cyxow/CVE-2024-3183-POC](https://github.com/Cyxow/CVE-2024-3183-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cyxow/CVE-2024-3183-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cyxow/CVE-2024-3183-POC">
+- [c2micro/ipapocket](https://github.com/c2micro/ipapocket)	<img alt="forks" src="https://img.shields.io/github/forks/c2micro/ipapocket">	<img alt="stars" src="https://img.shields.io/github/stars/c2micro/ipapocket">
 
 ---
 ## CVE-2024-31819 (2024-04-10T20:15:00)
