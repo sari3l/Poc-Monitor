@@ -887,6 +887,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
+## CVE-2024-38143 (2024-08-13T18:15:00)
+> Windows WLAN AutoConfig Service Elevation of Privilege Vulnerability
+- [hanks445/CVE-2024-38143-poc](https://github.com/hanks445/CVE-2024-38143-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hanks445/CVE-2024-38143-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hanks445/CVE-2024-38143-poc">
+
+---
 ## CVE-2024-38100 (2024-07-09T17:15:00)
 > Windows File Explorer Elevation of Privilege Vulnerability
 - [Florian-Hoth/CVE-2024-38100-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-38100-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-38100-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-38100-RCE-POC">
