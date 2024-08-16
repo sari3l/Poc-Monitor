@@ -21,6 +21,11 @@
 - [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-7339">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-7339">
 
 ---
+## CVE-2024-7313 ()
+> 
+- [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313)	<img alt="forks" src="https://img.shields.io/github/forks/Wayne-Ker/CVE-2024-7313">	<img alt="stars" src="https://img.shields.io/github/stars/Wayne-Ker/CVE-2024-7313">
+
+---
 ## CVE-2024-7188 (2024-07-29T07:15:00)
 > A vulnerability was found in Bylancer Quicklancer 2.4. It has been rated as critical. This issue affects some unknown processing of the file /listing of the component GET Parameter Handler. The manipulation of the argument range2 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-272609 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7188-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7188-PoC">
@@ -919,6 +924,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38041 (2024-07-09T17:15:00)
 > Windows Kernel Information Disclosure Vulnerability
 - [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-38041">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-38041">
+
+---
+## CVE-2024-38036 ()
+> 
+- [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/CVE-2024-38036">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/CVE-2024-38036">
 
 ---
 ## CVE-2024-37889 (2024-06-14T20:15:00)
