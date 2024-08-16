@@ -914,6 +914,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38063 (2024-08-13T18:15:00)
 > Windows TCP/IP Remote Code Execution Vulnerability
 - [diegoalbuquerque/CVE-2024-38063](https://github.com/diegoalbuquerque/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/diegoalbuquerque/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/diegoalbuquerque/CVE-2024-38063">
+- [proxykingdev/CVE-2024-38063](https://github.com/proxykingdev/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/proxykingdev/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/proxykingdev/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
