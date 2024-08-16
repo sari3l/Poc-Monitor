@@ -2972,6 +2972,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [Stuub/RCity-CVE-2024-27198](https://github.com/Stuub/RCity-CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/RCity-CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/RCity-CVE-2024-27198">
 - [HPT-Intern-Task-Submission/CVE-2024-27198](https://github.com/HPT-Intern-Task-Submission/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/HPT-Intern-Task-Submission/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/HPT-Intern-Task-Submission/CVE-2024-27198">
 - [Pypi-Project/RCity-CVE-2024-27198](https://github.com/Pypi-Project/RCity-CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/Pypi-Project/RCity-CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/Pypi-Project/RCity-CVE-2024-27198">
+- [jrbH4CK/CVE-2024-27198](https://github.com/jrbH4CK/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/jrbH4CK/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/jrbH4CK/CVE-2024-27198">
 
 ---
 ## CVE-2024-27191 ()
