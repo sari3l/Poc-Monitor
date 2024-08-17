@@ -588,6 +588,7 @@ We recommend users to:
 > An arbitrary file upload vulnerability in the component /inc/modules_install.php of Pluck-CMS v4.7.18 allows attackers to execute arbitrary code via uploading a crafted ZIP file.
 - [Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC](https://github.com/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC">
 - [ipuig/CVE-2023-50564](https://github.com/ipuig/CVE-2023-50564)	<img alt="forks" src="https://img.shields.io/github/forks/ipuig/CVE-2023-50564">	<img alt="stars" src="https://img.shields.io/github/stars/ipuig/CVE-2023-50564">
+- [rwexecute/CVE-2023-50564](https://github.com/rwexecute/CVE-2023-50564)	<img alt="forks" src="https://img.shields.io/github/forks/rwexecute/CVE-2023-50564">	<img alt="stars" src="https://img.shields.io/github/stars/rwexecute/CVE-2023-50564">
 
 ---
 ## CVE-2023-5044 (2023-10-25T20:15:00)
