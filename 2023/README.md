@@ -325,6 +325,11 @@ to load arbitrary JavaScript code.
 - [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/angkerithhack001/CVE-2023-5360-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/angkerithhack001/CVE-2023-5360-PoC">
 
 ---
+## CVE-2023-52709 ()
+> 
+- [KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC](https://github.com/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC">
+
+---
 ## CVE-2023-52654 (2024-05-14T14:23:00)
 > In the Linux kernel, the following vulnerability has been resolved:
 
