@@ -1081,6 +1081,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-36877 (2024-08-12T16:15:00)
 > Micro-Star International Z-series motherboards (Z590, Z490, and Z790) and B-series motherboards (B760, B560, B660, and B460) with firmware 7D25v14, 7D25v17 to 7D25v19, and 7D25v1A to 7D25v1H was discovered to contain a write-what-where condition in the in the SW handler for SMI 0xE3.
 - [jjensn/CVE-2024-36877](https://github.com/jjensn/CVE-2024-36877)	<img alt="forks" src="https://img.shields.io/github/forks/jjensn/CVE-2024-36877">	<img alt="stars" src="https://img.shields.io/github/stars/jjensn/CVE-2024-36877">
+- [CERTologists/POC-CVE-2024-36877](https://github.com/CERTologists/POC-CVE-2024-36877)	<img alt="forks" src="https://img.shields.io/github/forks/CERTologists/POC-CVE-2024-36877">	<img alt="stars" src="https://img.shields.io/github/stars/CERTologists/POC-CVE-2024-36877">
 
 ---
 ## CVE-2024-36837 (2024-06-05T15:15:00)
