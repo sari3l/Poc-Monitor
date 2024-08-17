@@ -16,6 +16,11 @@
 - [AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61](https://github.com/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">
 
 ---
+## CVE-2024-7646 (2024-08-16T18:15:00)
+> A security issue was discovered in ingress-nginx where an actor with permission to create Ingress objects (in the `networking.k8s.io` or `extensions` API group) can bypass annotation validation to inject arbitrary commands and obtain the credentials of the ingress-nginx controller. In the default configuration, that credential has access to all secrets in the cluster.
+- [UgOrange/CVE-2024-7646-poc](https://github.com/UgOrange/CVE-2024-7646-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UgOrange/CVE-2024-7646-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UgOrange/CVE-2024-7646-poc">
+
+---
 ## CVE-2024-7339 (2024-08-01T04:15:00)
 > A vulnerability has been found in TVT DVR TD-2104TS-CL, DVR TD-2108TS-HP, Provision-ISR DVR SH-4050A5-5L(MM) and AVISION DVR AV108T and classified as problematic. This vulnerability affects unknown code of the file /queryDevInfo. The manipulation leads to information disclosure. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-273262 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-7339">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-7339">
