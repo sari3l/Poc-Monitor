@@ -234,6 +234,11 @@ As exploitation requires "Allow only extensions distributed through the Docker M
 - [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-6050">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-6050">
 
 ---
+## CVE-2024-6043 (2024-06-17T01:15:00)
+> A vulnerability classified as critical has been found in SourceCodester Best House Rental Management System 1.0. This affects the function login of the file admin_class.php. The manipulation of the argument username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-268767.
+- [lfillaz/CVE-2024-6043](https://github.com/lfillaz/CVE-2024-6043)	<img alt="forks" src="https://img.shields.io/github/forks/lfillaz/CVE-2024-6043">	<img alt="stars" src="https://img.shields.io/github/stars/lfillaz/CVE-2024-6043">
+
+---
 ## CVE-2024-6028 (2024-06-25T09:15:00)
 > The Quiz Maker plugin for WordPress is vulnerable to time-based SQL Injection via the 'ays_questions' parameter in all versions up to, and including, 6.5.8.3 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-6028-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-6028-Poc">
