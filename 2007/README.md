@@ -74,6 +74,11 @@
 - [Live-Hack-CVE/CVE-2007-2444](https://github.com/Live-Hack-CVE/CVE-2007-2444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-2444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-2444">
 
 ---
+## CVE-2007-2426 (2007-05-02T00:19:00)
+> PHP remote file inclusion vulnerability in myfunctions/mygallerybrowser.php in the myGallery 1.4b4 and earlier plugin for WordPress allows remote attackers to execute arbitrary PHP code via a URL in the myPath parameter.
+- [goudunz1/CVE-2007-2426](https://github.com/goudunz1/CVE-2007-2426)	<img alt="forks" src="https://img.shields.io/github/forks/goudunz1/CVE-2007-2426">	<img alt="stars" src="https://img.shields.io/github/stars/goudunz1/CVE-2007-2426">
+
+---
 ## CVE-2007-20001 (2022-02-06T21:15:00)
 > A flaw was found in StarWind iSCSI target. An attacker could script standard iSCSI Initiator operation(s) to exhaust the StarWind service socket, which could lead to denial of service. This affects iSCSI SAN (Windows Native) Version 3.2.2 build 2007-02-20.
 - [Live-Hack-CVE/CVE-2007-20001](https://github.com/Live-Hack-CVE/CVE-2007-20001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-20001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-20001">
