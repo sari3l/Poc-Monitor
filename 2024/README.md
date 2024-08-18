@@ -1065,6 +1065,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 > VMware ESXi contains an authentication bypass vulnerability. A malicious actor with sufficient Active Directory (AD) permissions can gain full access to an ESXi host that was previously  configured to use AD for user management https://blogs.vmware.com/vsphere/2012/09/joining-vsphere-hosts-to-active-directory.html  by re-creating the configured AD group ('ESXi Admins' by default) after it was deleted from AD.
 - [mahmutaymahmutay/CVE-2024-37085](https://github.com/mahmutaymahmutay/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-37085">
 - [Florian-Hoth/CVE-2024-37085-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-37085-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-37085-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-37085-RCE-POC">
+- [NKeshawarz/CVE-2024-37085](https://github.com/NKeshawarz/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/NKeshawarz/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/NKeshawarz/CVE-2024-37085">
 
 ---
 ## CVE-2024-37081 (2024-06-18T06:15:00)
