@@ -911,6 +911,13 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 - [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-)	<img alt="forks" src="https://img.shields.io/github/forks/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">	<img alt="stars" src="https://img.shields.io/github/stars/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">
 
 ---
+## CVE-2024-38475 (2024-07-01T19:15:00)
+> Improper escaping of output in mod_rewrite in Apache HTTP Server 2.4.59 and earlier allows an attacker to map URLs to filesystem locations that are permitted to be served by the server but are not intentionally/directly reachable by any URL, resulting in code execution or source code disclosure. 
+
+Substitutions in server context that use a backreferences or variables as the first segment of the substitution are affected.  Some unsafe RewiteRules will be broken by this change and the rewrite flag "UnsafePrefixStat" can be used to opt back in once ensuring the substitution is appropriately constrained.
+- [p0in7s/CVE-2024-38475](https://github.com/p0in7s/CVE-2024-38475)	<img alt="forks" src="https://img.shields.io/github/forks/p0in7s/CVE-2024-38475">	<img alt="stars" src="https://img.shields.io/github/stars/p0in7s/CVE-2024-38475">
+
+---
 ## CVE-2024-38473 (2024-07-01T19:15:00)
 > Encoding problem in mod_proxy in Apache HTTP Server 2.4.59 and earlier allows request URLs with incorrect encoding to be sent to backend services, potentially bypassing authentication via crafted requests.
 Users are recommended to upgrade to version 2.4.60, which fixes this issue.
