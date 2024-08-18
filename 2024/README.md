@@ -46,6 +46,11 @@
 - [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
 
 ---
+## CVE-2024-7094 (2024-08-13T03:15:00)
+> The JS Help Desk – The Ultimate Help Desk & Support Plugin plugin for WordPress is vulnerable to PHP Code Injection leading to Remote Code Execution in all versions up to, and including, 2.8.6 via the 'storeTheme' function. This is due to a lack of sanitization on user-supplied values, which replace values in the style.php file, along with missing capability checks. This makes it possible for unauthenticated attackers to execute code on the server. This issue was partially patched in 2.8.6 when the code injection issue was resolved, and fully patched in 2.8.7 when the missing authorization and cross-site request forgery protection was added.
+- [nastar-id/CVE-2024-7094](https://github.com/nastar-id/CVE-2024-7094)	<img alt="forks" src="https://img.shields.io/github/forks/nastar-id/CVE-2024-7094">	<img alt="stars" src="https://img.shields.io/github/stars/nastar-id/CVE-2024-7094">
+
+---
 ## CVE-2024-6893 (2024-08-08T00:15:00)
 > The "soap_cgi.pyc" API handler allows the XML body of SOAP requests to contain references to external entities. This allows an unauthenticated attacker to read local files, perform server-side request forgery, and overwhelm the web server resources.
 - [codeb0ss/CVE-2024-6893-PoC](https://github.com/codeb0ss/CVE-2024-6893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-6893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-6893-PoC">
