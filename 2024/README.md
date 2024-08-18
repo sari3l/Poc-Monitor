@@ -1066,6 +1066,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [mahmutaymahmutay/CVE-2024-37085](https://github.com/mahmutaymahmutay/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-37085">
 - [Florian-Hoth/CVE-2024-37085-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-37085-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-37085-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-37085-RCE-POC">
 - [NKeshawarz/CVE-2024-37085](https://github.com/NKeshawarz/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/NKeshawarz/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/NKeshawarz/CVE-2024-37085">
+- [WTN-arny/CVE-2024-37085](https://github.com/WTN-arny/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/WTN-arny/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/WTN-arny/CVE-2024-37085">
 
 ---
 ## CVE-2024-37081 (2024-06-18T06:15:00)
