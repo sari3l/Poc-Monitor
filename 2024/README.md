@@ -4930,6 +4930,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [nahid0x1/CVE-2024-0044](https://github.com/nahid0x1/CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/nahid0x1/CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/nahid0x1/CVE-2024-0044">
 - [nexussecelite/EvilDroid](https://github.com/nexussecelite/EvilDroid)	<img alt="forks" src="https://img.shields.io/github/forks/nexussecelite/EvilDroid">	<img alt="stars" src="https://img.shields.io/github/stars/nexussecelite/EvilDroid">
 - [hunter24x24/cve_2024_0044](https://github.com/hunter24x24/cve_2024_0044)	<img alt="forks" src="https://img.shields.io/github/forks/hunter24x24/cve_2024_0044">	<img alt="stars" src="https://img.shields.io/github/stars/hunter24x24/cve_2024_0044">
+- [MrW0l05zyn/cve-2024-0044](https://github.com/MrW0l05zyn/cve-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/MrW0l05zyn/cve-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/MrW0l05zyn/cve-2024-0044">
 
 ---
 ## CVE-2024-0040 (2024-02-16T02:15:00)
