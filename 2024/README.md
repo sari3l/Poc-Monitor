@@ -573,6 +573,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
 
 ---
+## CVE-2024-42919 ()
+> 
+- [jeyabalaji711/CVE-2024-42919](https://github.com/jeyabalaji711/CVE-2024-42919)	<img alt="forks" src="https://img.shields.io/github/forks/jeyabalaji711/CVE-2024-42919">	<img alt="stars" src="https://img.shields.io/github/stars/jeyabalaji711/CVE-2024-42919">
+
+---
 ## CVE-2024-42850 (2024-08-16T19:15:00)
 > An issue in the password change function of Silverpeas v6.4.2 and lower allows for the bypassing of password complexity requirements.
 - [njmbb8/CVE-2024-42850](https://github.com/njmbb8/CVE-2024-42850)	<img alt="forks" src="https://img.shields.io/github/forks/njmbb8/CVE-2024-42850">	<img alt="stars" src="https://img.shields.io/github/stars/njmbb8/CVE-2024-42850">
