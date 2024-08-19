@@ -975,6 +975,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [hanks445/CVE-2024-38063](https://github.com/hanks445/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/hanks445/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/hanks445/CVE-2024-38063">
 - [Sachinart/CVE-2024-38063-POC](https://github.com/Sachinart/CVE-2024-38063-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2024-38063-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2024-38063-POC">
 - [p33d/cve-2024-38063](https://github.com/p33d/cve-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/cve-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/cve-2024-38063">
+- [dweger-scripts/CVE-2024-38063-Remediation](https://github.com/dweger-scripts/CVE-2024-38063-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/dweger-scripts/CVE-2024-38063-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/dweger-scripts/CVE-2024-38063-Remediation">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
