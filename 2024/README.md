@@ -218,6 +218,7 @@
 - [alex14324/ssh_poc2024](https://github.com/alex14324/ssh_poc2024)	<img alt="forks" src="https://img.shields.io/github/forks/alex14324/ssh_poc2024">	<img alt="stars" src="https://img.shields.io/github/stars/alex14324/ssh_poc2024">
 - [X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker](https://github.com/X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker">
 - [niktoproject/CVE-202406387_Check.py](https://github.com/niktoproject/CVE-202406387_Check.py)	<img alt="forks" src="https://img.shields.io/github/forks/niktoproject/CVE-202406387_Check.py">	<img alt="stars" src="https://img.shields.io/github/stars/niktoproject/CVE-202406387_Check.py">
+- [s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH](https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH)	<img alt="forks" src="https://img.shields.io/github/forks/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH">	<img alt="stars" src="https://img.shields.io/github/stars/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH">
 
 ---
 ## CVE-2024-6366 (2024-07-29T06:15:00)
@@ -823,8 +824,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [Abdurahmon3236/-CVE-2024-39614](https://github.com/Abdurahmon3236/-CVE-2024-39614)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-39614">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-39614">
 
 ---
-## CVE-2024-39306 ()
-> 
+## CVE-2024-39306 (2024-08-19T14:15:00)
+> Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2024-39304. Reason: This candidate is a duplicate of CVE-2024-39304. Notes: All CVE users should reference CVE-2024-39304 instead of this candidate. This CVE was issued to a vulnerability that is dependent on CVE-2024-39304. According to rule 4.2.15 of the CVE CNA rules, "CNAs MUST NOT assign a different CVE ID to a Vulnerability that is fully interdependent with another Vulnerability. The Vulnerabilities are effectively the same single Vulnerability and MUST use one CVE ID."
 - [apena-ba/CVE-2024-39306](https://github.com/apena-ba/CVE-2024-39306)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-39306">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-39306">
 
 ---
