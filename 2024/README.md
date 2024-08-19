@@ -588,13 +588,13 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [1s1ldur/CVE-2024-42758](https://github.com/1s1ldur/CVE-2024-42758)	<img alt="forks" src="https://img.shields.io/github/forks/1s1ldur/CVE-2024-42758">	<img alt="stars" src="https://img.shields.io/github/stars/1s1ldur/CVE-2024-42758">
 
 ---
-## CVE-2024-42658 ()
-> 
+## CVE-2024-42658 (2024-08-19T17:15:00)
+> An issue in wishnet Nepstech Wifi Router NTPL-XPON1GFEVN v1.0 allows a remote attacker to obtain sensitive information via the cookie's parameter
 - [sudo-subho/CVE-2024-42658](https://github.com/sudo-subho/CVE-2024-42658)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/CVE-2024-42658">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/CVE-2024-42658">
 
 ---
-## CVE-2024-42657 ()
-> 
+## CVE-2024-42657 (2024-08-19T17:15:00)
+> An issue in wishnet Nepstech Wifi Router NTPL-XPON1GFEVN v1.0 allows a remote attacker to obtain sensitive information via the lack of encryption during login process
 - [sudo-subho/CVE-2024-42657](https://github.com/sudo-subho/CVE-2024-42657)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/CVE-2024-42657">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/CVE-2024-42657">
 
 ---
