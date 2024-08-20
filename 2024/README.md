@@ -950,6 +950,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
+## CVE-2024-38189 (2024-08-13T18:15:00)
+> Microsoft Project Remote Code Execution Vulnerability
+- [vwilzz/CVE-2024-38189](https://github.com/vwilzz/CVE-2024-38189)	<img alt="forks" src="https://img.shields.io/github/forks/vwilzz/CVE-2024-38189">	<img alt="stars" src="https://img.shields.io/github/stars/vwilzz/CVE-2024-38189">
+
+---
 ## CVE-2024-38143 (2024-08-13T18:15:00)
 > Windows WLAN AutoConfig Service Elevation of Privilege Vulnerability
 - [hanks445/CVE-2024-38143-poc](https://github.com/hanks445/CVE-2024-38143-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hanks445/CVE-2024-38143-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hanks445/CVE-2024-38143-poc">
@@ -3247,6 +3252,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [k3lpi3b4nsh33/CVE-2024-25600](https://github.com/k3lpi3b4nsh33/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-25600">
 - [WanLiChangChengWanLiChang/CVE-2024-25600](https://github.com/WanLiChangChengWanLiChang/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-25600">
 - [KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress](https://github.com/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress)	<img alt="forks" src="https://img.shields.io/github/forks/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress">	<img alt="stars" src="https://img.shields.io/github/stars/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress">
+- [wh6amiGit/CVE-2024-25600](https://github.com/wh6amiGit/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/wh6amiGit/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/wh6amiGit/CVE-2024-25600">
 
 ---
 ## CVE-2024-25466 (2024-02-16T09:15:00)
