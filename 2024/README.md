@@ -1624,6 +1624,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-33911">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-33911">
 
 ---
+## CVE-2024-33896 (2024-08-02T18:16:00)
+> Cosy+ devices running a firmware 21.x below 21.2s10 or a firmware 22.x below 22.1s3 are vulnerable to code injection due to improper parameter blacklisting. This is fixed in version 21.2s10 and 22.1s3.
+- [codeb0ss/CVE-2024-33896-PoC](https://github.com/codeb0ss/CVE-2024-33896-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-33896-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-33896-PoC">
+
+---
 ## CVE-2024-33883 (2024-04-28T16:15:00)
 > The ejs (aka Embedded JavaScript templates) package before 3.1.10 for Node.js lacks certain pollution protection.
 - [Grantzile/PoC-CVE-2024-33883](https://github.com/Grantzile/PoC-CVE-2024-33883)	<img alt="forks" src="https://img.shields.io/github/forks/Grantzile/PoC-CVE-2024-33883">	<img alt="stars" src="https://img.shields.io/github/stars/Grantzile/PoC-CVE-2024-33883">
