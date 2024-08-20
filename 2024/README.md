@@ -989,6 +989,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [p33d/cve-2024-38063](https://github.com/p33d/cve-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/cve-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/cve-2024-38063">
 - [dweger-scripts/CVE-2024-38063-Remediation](https://github.com/dweger-scripts/CVE-2024-38063-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/dweger-scripts/CVE-2024-38063-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/dweger-scripts/CVE-2024-38063-Remediation">
 - [almogopp/Disable-IPv6-CVE-2024-38063-Fix](https://github.com/almogopp/Disable-IPv6-CVE-2024-38063-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/almogopp/Disable-IPv6-CVE-2024-38063-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/almogopp/Disable-IPv6-CVE-2024-38063-Fix">
+- [Skim1k/CVE-2024-38063-local-POC](https://github.com/Skim1k/CVE-2024-38063-local-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Skim1k/CVE-2024-38063-local-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Skim1k/CVE-2024-38063-local-POC">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
