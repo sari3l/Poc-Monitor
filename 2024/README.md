@@ -952,7 +952,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ---
 ## CVE-2024-38189 (2024-08-13T18:15:00)
 > Microsoft Project Remote Code Execution Vulnerability
-- [vwilzz/CVE-2024-38189](https://github.com/vwilzz/CVE-2024-38189)	<img alt="forks" src="https://img.shields.io/github/forks/vwilzz/CVE-2024-38189">	<img alt="stars" src="https://img.shields.io/github/stars/vwilzz/CVE-2024-38189">
+- [vx7z/CVE-2024-38189](https://github.com/vx7z/CVE-2024-38189)	<img alt="forks" src="https://img.shields.io/github/forks/vx7z/CVE-2024-38189">	<img alt="stars" src="https://img.shields.io/github/stars/vx7z/CVE-2024-38189">
 
 ---
 ## CVE-2024-38143 (2024-08-13T18:15:00)
