@@ -581,8 +581,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
 
 ---
-## CVE-2024-42919 ()
-> 
+## CVE-2024-42919 (2024-08-20T17:15:00)
+> eScan Management Console 14.0.1400.2281 is vulnerable to Incorrect Access Control via acteScanAVReport.
 - [jeyabalaji711/CVE-2024-42919](https://github.com/jeyabalaji711/CVE-2024-42919)	<img alt="forks" src="https://img.shields.io/github/forks/jeyabalaji711/CVE-2024-42919">	<img alt="stars" src="https://img.shields.io/github/stars/jeyabalaji711/CVE-2024-42919">
 
 ---
