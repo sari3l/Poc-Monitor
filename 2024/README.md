@@ -16,6 +16,11 @@
 - [AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61](https://github.com/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">
 
 ---
+## CVE-2024-7928 (2024-08-19T22:15:00)
+> A vulnerability, which was classified as problematic, has been found in FastAdmin up to 1.3.3.20220121. Affected by this issue is some unknown functionality of the file /index/ajax/lang. The manipulation of the argument lang leads to path traversal. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 1.3.4.20220530 is able to address this issue. It is recommended to upgrade the affected component.
+- [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-7928">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-7928">
+
+---
 ## CVE-2024-7703 (2024-08-17T12:15:00)
 > The ARMember – Membership Plugin, Content Restriction, Member Levels, User Profile & User signup plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 4.0.37 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.
 - [lfillaz/CVE-2024-7703](https://github.com/lfillaz/CVE-2024-7703)	<img alt="forks" src="https://img.shields.io/github/forks/lfillaz/CVE-2024-7703">	<img alt="stars" src="https://img.shields.io/github/stars/lfillaz/CVE-2024-7703">
@@ -490,6 +495,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [Jcccccx/CVE-2024-4577](https://github.com/Jcccccx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Jcccccx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Jcccccx/CVE-2024-4577">
 - [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR)	<img alt="forks" src="https://img.shields.io/github/forks/ManuelKy08/CVE-2024-4577---RR">	<img alt="stars" src="https://img.shields.io/github/stars/ManuelKy08/CVE-2024-4577---RR">
 - [bughuntar/CVE-2024-4577](https://github.com/bughuntar/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-4577">
+- [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4577-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4577-RCE">
 
 ---
 ## CVE-2024-4514 (2024-05-06T02:15:00)
