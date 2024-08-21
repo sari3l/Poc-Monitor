@@ -1629,6 +1629,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45828">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45828">
 
 ---
+## CVE-2023-45827 ()
+> 
+- [200101WhoAmI/CVE-2023-45827](https://github.com/200101WhoAmI/CVE-2023-45827)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2023-45827">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2023-45827">
+
+---
 ## CVE-2023-45779 (2023-12-04T23:15:00)
 > In the APEX module framework of AOSP, there is a possible malicious update to platform components due to improperly used crypto. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [metaredteam/rtx-cve-2023-45779](https://github.com/metaredteam/rtx-cve-2023-45779)	<img alt="forks" src="https://img.shields.io/github/forks/metaredteam/rtx-cve-2023-45779">	<img alt="stars" src="https://img.shields.io/github/stars/metaredteam/rtx-cve-2023-45779">
