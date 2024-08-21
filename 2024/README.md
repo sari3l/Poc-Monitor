@@ -4502,6 +4502,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Praison001/CVE-2024-20767-Adobe-ColdFusion](https://github.com/Praison001/CVE-2024-20767-Adobe-ColdFusion)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-20767-Adobe-ColdFusion">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-20767-Adobe-ColdFusion">
 
 ---
+## CVE-2024-20746 (2024-03-18T15:15:00)
+> Premiere Pro versions 24.1, 23.6.2 and earlier are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [200101WhoAmI/CVE-2024-20746](https://github.com/200101WhoAmI/CVE-2024-20746)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2024-20746">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2024-20746">
+
+---
 ## CVE-2024-20720 (2024-02-15T14:15:00)
 > Adobe Commerce versions 2.4.6-p3, 2.4.5-p5, 2.4.4-p6 and earlier are affected by an Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability that could lead in arbitrary code execution by an attacker. Exploitation of this issue does not require user interaction.
 - [xxDlib/CVE-2024-20720-PoC](https://github.com/xxDlib/CVE-2024-20720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xxDlib/CVE-2024-20720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xxDlib/CVE-2024-20720-PoC">
