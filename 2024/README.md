@@ -274,6 +274,11 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 - [Cappricio-Securities/CVE-2024-5947](https://github.com/Cappricio-Securities/CVE-2024-5947)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-5947">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-5947">
 
 ---
+## CVE-2024-5932 (2024-08-20T02:15:00)
+> The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.14.1 via deserialization of untrusted input from the 'give_title' parameter. This makes it possible for unauthenticated attackers to inject a PHP Object. The additional presence of a POP chain allows attackers to execute code remotely, and to delete arbitrary files.
+- [0xb0mb3r/CVE-2024-5932-PoC](https://github.com/0xb0mb3r/CVE-2024-5932-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0mb3r/CVE-2024-5932-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0mb3r/CVE-2024-5932-PoC">
+
+---
 ## CVE-2024-5899 (2024-06-18T09:15:00)
 > When Bazel Plugin in intellij imports a project (either using "import project" or "Auto import") the dialog for trusting the project is not displayed. This comes from the fact that both call the method ProjectBuilder.createProject which then calls ProjectManager.getInstance().createProject. This method, as its name suggests is intended to create a new project, not to import an existing one. 
 We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLion and Android Studio Bazel plugins.
