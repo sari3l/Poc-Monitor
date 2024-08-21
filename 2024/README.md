@@ -3860,6 +3860,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652)	<img alt="forks" src="https://img.shields.io/github/forks/abian2/CVE-2024-23652">	<img alt="stars" src="https://img.shields.io/github/stars/abian2/CVE-2024-23652">
 
 ---
+## CVE-2024-23339 (2024-01-22T23:15:00)
+> hoolock is a suite of lightweight utilities designed to maintain a small footprint when bundled. Starting in version 2.0.0 and prior to version 2.2.1, utility functions related to object paths (`get`, `set`, and `update`) did not block attempts to access or alter object prototypes. Starting in version 2.2.1, the `get`, `set` and `update` functions throw a `TypeError` when a user attempts to access or alter inherited properties.
+- [200101WhoAmI/CVE-2024-23339](https://github.com/200101WhoAmI/CVE-2024-23339)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2024-23339">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2024-23339">
+
+---
 ## CVE-2024-23334 (2024-01-29T23:15:00)
 > aiohttp is an asynchronous HTTP client/server framework for asyncio and Python. When using aiohttp as a web server and configuring static routes, it is necessary to specify the root path for static files. Additionally, the option 'follow_symlinks' can be used to determine whether to follow symbolic links outside the static root directory. When 'follow_symlinks' is set to True, there is no validation to check if reading a file is within the root directory. This can lead to directory traversal vulnerabilities, resulting in unauthorized access to arbitrary files on the system, even when symlinks are not present.  Disabling follow_symlinks and using a reverse proxy are encouraged mitigations.  Version 3.9.2 fixes this issue.
 - [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/CVE-2024-23334">

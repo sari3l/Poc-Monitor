@@ -655,6 +655,11 @@ QuTScloud c5.1.5.2651 and later
 - [greandfather/CVE-2023-50358-POC-RCE](https://github.com/greandfather/CVE-2023-50358-POC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2023-50358-POC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2023-50358-POC-RCE">
 
 ---
+## CVE-2023-50245 (2023-12-11T23:15:00)
+> OpenEXR-viewer is a viewer for OpenEXR files with detailed metadata probing. Versions prior to 0.6.1 have a memory overflow vulnerability. This issue is fixed in version 0.6.1.
+- [200101WhoAmI/CVE-2023-50245](https://github.com/200101WhoAmI/CVE-2023-50245)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2023-50245">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2023-50245">
+
+---
 ## CVE-2023-5024 (2023-09-17T07:15:00)
 > A vulnerability was found in Planno 23.04.04. It has been classified as problematic. This affects an unknown part of the component Comment Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239865 was assigned to this vulnerability.
 - [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
