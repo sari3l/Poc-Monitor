@@ -4083,6 +4083,11 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 - [Mustafa1986/CVE-2024-22274-RCE](https://github.com/Mustafa1986/CVE-2024-22274-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mustafa1986/CVE-2024-22274-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mustafa1986/CVE-2024-22274-RCE">
 
 ---
+## CVE-2024-22263 (2024-06-19T15:15:00)
+> Spring Cloud Data Flow is a microservices-based Streaming and Batch data processing in Cloud Foundry and Kubernetes. The Skipper server has the ability to receive upload package requests. However, due to improper sanitization for upload path, a malicious user who has access to skipper server api can use a crafted upload request to write arbitrary file to any location on file system, may even compromises the server.
+- [securelayer7/CVE-2024-22263_Scanner](https://github.com/securelayer7/CVE-2024-22263_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/CVE-2024-22263_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/CVE-2024-22263_Scanner">
+
+---
 ## CVE-2024-22252 (2024-03-05T18:15:00)
 > VMware ESXi, Workstation, and Fusion contain a use-after-free vulnerability in the XHCI USB controller. A malicious actor with local administrative privileges on a virtual machine may exploit this issue to execute code as the virtual machine's VMX process running on the host. On ESXi, the exploitation is contained within the VMX sandbox whereas, on Workstation and Fusion, this may lead to code execution on the machine where Workstation or Fusion is installed.
 - [crackmapEZec/CVE-2024-22252-POC](https://github.com/crackmapEZec/CVE-2024-22252-POC)	<img alt="forks" src="https://img.shields.io/github/forks/crackmapEZec/CVE-2024-22252-POC">	<img alt="stars" src="https://img.shields.io/github/stars/crackmapEZec/CVE-2024-22252-POC">
