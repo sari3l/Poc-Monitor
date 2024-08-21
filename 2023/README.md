@@ -1843,6 +1843,11 @@ and trace malicious activities. Users are advised to upgrade to Apache InLong's
 - [miguelc49/CVE-2023-43667-2](https://github.com/miguelc49/CVE-2023-43667-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-43667-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-43667-2">
 
 ---
+## CVE-2023-43646 (2023-09-27T15:19:00)
+> get-func-name is a module to retrieve a function's name securely and consistently both in NodeJS and the browser. Versions prior to 2.0.1 are subject to a regular expression denial of service (redos) vulnerability which may lead to a denial of service when parsing malicious input. This vulnerability can be exploited when there is an imbalance in parentheses, which results in excessive backtracking and subsequently increases the CPU load and processing time significantly. This vulnerability can be triggered using the following input: '\t'.repeat(54773) + '\t/function/i'. This issue has been addressed in commit `f934b228b` which has been included in releases from 2.0.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.
+- [200101WhoAmI/CVE-2023-43646](https://github.com/200101WhoAmI/CVE-2023-43646)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2023-43646">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2023-43646">
+
+---
 ## CVE-2023-43641 (2023-10-09T22:15:00)
 > libcue provides an API for parsing and extracting data from CUE sheets. Versions 2.2.1 and prior are vulnerable to out-of-bounds array access. A user of the GNOME desktop environment can be exploited by downloading a cue sheet from a malicious webpage. Because the file is saved to `~/Downloads`, it is then automatically scanned by tracker-miners. And because it has a .cue filename extension, tracker-miners use libcue to parse the file. The file exploits the vulnerability in libcue to gain code execution. This issue is patched in version 2.3.0.
 - [ItsMagick/CVE-2023-43641](https://github.com/ItsMagick/CVE-2023-43641)	<img alt="forks" src="https://img.shields.io/github/forks/ItsMagick/CVE-2023-43641">	<img alt="stars" src="https://img.shields.io/github/stars/ItsMagick/CVE-2023-43641">
