@@ -1680,6 +1680,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471)	<img alt="forks" src="https://img.shields.io/github/forks/itsAptx/CVE-2023-45471">	<img alt="stars" src="https://img.shields.io/github/stars/itsAptx/CVE-2023-45471">
 
 ---
+## CVE-2023-4542 (2023-08-25T22:15:00)
+> A vulnerability was found in D-Link DAR-8000-10 up to 20230809. It has been classified as critical. This affects an unknown part of the file /app/sys1.php. The manipulation of the argument cmd with the input id leads to os command injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-238047. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
+- [PumpkinBridge/CVE-2023-4542](https://github.com/PumpkinBridge/CVE-2023-4542)	<img alt="forks" src="https://img.shields.io/github/forks/PumpkinBridge/CVE-2023-4542">	<img alt="stars" src="https://img.shields.io/github/stars/PumpkinBridge/CVE-2023-4542">
+
+---
 ## CVE-2023-45318 (2024-02-20T15:15:00)
 > A heap-based buffer overflow vulnerability exists in the HTTP Server functionality of Weston Embedded uC-HTTP git commit 80d4004. A specially crafted network packet can lead to arbitrary code execution. An attacker can send a malicious packet to trigger this vulnerability.
 - [greandfather/CVE-2023-45318-POC-RCE](https://github.com/greandfather/CVE-2023-45318-POC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2023-45318-POC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2023-45318-POC-RCE">
