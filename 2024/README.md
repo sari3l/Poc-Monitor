@@ -1004,6 +1004,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [dweger-scripts/CVE-2024-38063-Remediation](https://github.com/dweger-scripts/CVE-2024-38063-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/dweger-scripts/CVE-2024-38063-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/dweger-scripts/CVE-2024-38063-Remediation">
 - [almogopp/Disable-IPv6-CVE-2024-38063-Fix](https://github.com/almogopp/Disable-IPv6-CVE-2024-38063-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/almogopp/Disable-IPv6-CVE-2024-38063-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/almogopp/Disable-IPv6-CVE-2024-38063-Fix">
 - [Skim1k/CVE-2024-38063](https://github.com/Skim1k/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Skim1k/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Skim1k/CVE-2024-38063">
+- [zaneoblaneo/cve_2024_38063_research](https://github.com/zaneoblaneo/cve_2024_38063_research)	<img alt="forks" src="https://img.shields.io/github/forks/zaneoblaneo/cve_2024_38063_research">	<img alt="stars" src="https://img.shields.io/github/stars/zaneoblaneo/cve_2024_38063_research">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
