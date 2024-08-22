@@ -1015,6 +1015,7 @@
 ## CVE-2018-17431 (2019-01-30T15:29:00)
 > Web Console in Comodo UTM Firewall before 2.7.0 allows remote attackers to execute arbitrary code without authentication via a crafted URL.
 - [sanan2004/CVE-2018-17431-Comodo](https://github.com/sanan2004/CVE-2018-17431-Comodo)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2018-17431-Comodo">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2018-17431-Comodo">
+- [Fadavvi/CVE-2018-17431-PoC](https://github.com/Fadavvi/CVE-2018-17431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Fadavvi/CVE-2018-17431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Fadavvi/CVE-2018-17431-PoC">
 
 ---
 ## CVE-2018-17254 (2018-09-20T14:29:00)
