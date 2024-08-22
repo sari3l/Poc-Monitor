@@ -912,6 +912,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [codeb0ss/CVE-2024-38856-PoC](https://github.com/codeb0ss/CVE-2024-38856-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-38856-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-38856-PoC">
 - [ThatNotEasy/CVE-2024-38856](https://github.com/ThatNotEasy/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-38856">
 - [Praison001/CVE-2024-38856-ApacheOfBiz](https://github.com/Praison001/CVE-2024-38856-ApacheOfBiz)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-38856-ApacheOfBiz">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-38856-ApacheOfBiz">
+- [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-38856-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-38856-EXP">
 
 ---
 ## CVE-2024-38793 ()
