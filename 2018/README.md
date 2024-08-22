@@ -1012,6 +1012,11 @@
 - [KKkai0315/CVE-2018-17456](https://github.com/KKkai0315/CVE-2018-17456)	<img alt="forks" src="https://img.shields.io/github/forks/KKkai0315/CVE-2018-17456">	<img alt="stars" src="https://img.shields.io/github/stars/KKkai0315/CVE-2018-17456">
 
 ---
+## CVE-2018-17431 (2019-01-30T15:29:00)
+> Web Console in Comodo UTM Firewall before 2.7.0 allows remote attackers to execute arbitrary code without authentication via a crafted URL.
+- [sanan2004/CVE-2018-17431-Comodo](https://github.com/sanan2004/CVE-2018-17431-Comodo)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2018-17431-Comodo">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2018-17431-Comodo">
+
+---
 ## CVE-2018-17254 (2018-09-20T14:29:00)
 > The JCK Editor component 6.4.4 for Joomla! allows SQL Injection via the jtreelink/dialogs/links.php parent parameter.
 - [MataKucing-OFC/CVE-2018-17254](https://github.com/MataKucing-OFC/CVE-2018-17254)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2018-17254">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2018-17254">
