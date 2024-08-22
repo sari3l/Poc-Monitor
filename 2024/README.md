@@ -581,6 +581,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v9d0g/CVE-2024-43044-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v9d0g/CVE-2024-43044-POC">
 
 ---
+## CVE-2024-42992 ()
+> 
+- [juwenyi/CVE-2024-42992](https://github.com/juwenyi/CVE-2024-42992)	<img alt="forks" src="https://img.shields.io/github/forks/juwenyi/CVE-2024-42992">	<img alt="stars" src="https://img.shields.io/github/stars/juwenyi/CVE-2024-42992">
+
+---
 ## CVE-2024-4295 (2024-06-05T06:15:00)
 > The Email Subscribers by Icegram Express plugin for WordPress is vulnerable to SQL Injection via the ‘hash’ parameter in all versions up to, and including, 5.7.20 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4295-Poc">
