@@ -21,6 +21,7 @@
 - [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-7928">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-7928">
 - [fa-rrel/CVE-2024-7928](https://github.com/fa-rrel/CVE-2024-7928)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-7928">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-7928">
 - [wh6amiGit/CVE-2024-7928](https://github.com/wh6amiGit/CVE-2024-7928)	<img alt="forks" src="https://img.shields.io/github/forks/wh6amiGit/CVE-2024-7928">	<img alt="stars" src="https://img.shields.io/github/stars/wh6amiGit/CVE-2024-7928">
+- [wh6amiGit/CVE-2024-7928](https://github.com/wh6amiGit/CVE-2024-7928)	<img alt="forks" src="https://img.shields.io/github/forks/wh6amiGit/CVE-2024-7928">	<img alt="stars" src="https://img.shields.io/github/stars/wh6amiGit/CVE-2024-7928">
 
 ---
 ## CVE-2024-7703 (2024-08-17T12:15:00)
