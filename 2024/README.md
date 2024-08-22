@@ -581,6 +581,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v9d0g/CVE-2024-43044-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v9d0g/CVE-2024-43044-POC">
 
 ---
+## CVE-2024-43003 ()
+> 
+- [estherQu33n/CVE-2024-43003](https://github.com/estherQu33n/CVE-2024-43003)	<img alt="forks" src="https://img.shields.io/github/forks/estherQu33n/CVE-2024-43003">	<img alt="stars" src="https://img.shields.io/github/stars/estherQu33n/CVE-2024-43003">
+
+---
 ## CVE-2024-42992 ()
 > 
 - [juwenyi/CVE-2024-42992](https://github.com/juwenyi/CVE-2024-42992)	<img alt="forks" src="https://img.shields.io/github/forks/juwenyi/CVE-2024-42992">	<img alt="stars" src="https://img.shields.io/github/stars/juwenyi/CVE-2024-42992">
