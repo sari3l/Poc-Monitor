@@ -2937,6 +2937,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085)	<img alt="forks" src="https://img.shields.io/github/forks/skyler-ferrante/CVE-2024-28085">	<img alt="stars" src="https://img.shields.io/github/stars/skyler-ferrante/CVE-2024-28085">
 
 ---
+## CVE-2024-28000 (2024-08-21T14:15:00)
+> Incorrect Privilege Assignment vulnerability in LiteSpeed Technologies LiteSpeed Cache litespeed-cache allows Privilege Escalation.This issue affects LiteSpeed Cache: from 1.9 through 6.3.0.1.
+- [explls/CVE-2024-28000](https://github.com/explls/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/explls/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/explls/CVE-2024-28000">
+
+---
 ## CVE-2024-27983 (2024-04-09T01:15:00)
 > An attacker can make the Node.js HTTP/2 server completely unavailable by sending a small amount of HTTP/2 frames packets with a few HTTP/2 frames inside. It is possible to leave some data in nghttp2 memory after reset when headers with HTTP/2 CONTINUATION frame are sent to the server and then a TCP connection is abruptly closed by the client triggering the Http2Session destructor while header frames are still being processed (and stored in memory) causing a race condition.
 - [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/CVE-2024-27983-nodejs-http2">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/CVE-2024-27983-nodejs-http2">
