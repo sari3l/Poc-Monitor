@@ -926,6 +926,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [Praison001/CVE-2024-38856-ApacheOfBiz](https://github.com/Praison001/CVE-2024-38856-ApacheOfBiz)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-38856-ApacheOfBiz">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-38856-ApacheOfBiz">
 - [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-38856-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-38856-EXP">
 - [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-38856-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-38856-EXP">
+- [jocker2410/CVE-2024-38856](https://github.com/jocker2410/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/jocker2410/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/jocker2410/CVE-2024-38856">
 
 ---
 ## CVE-2024-38793 ()
