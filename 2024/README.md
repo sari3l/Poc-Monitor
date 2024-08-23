@@ -4284,6 +4284,22 @@ Users are recommended to upgrade to version 8.5.64 onwards or 9.0.44 onwards, wh
 - [LtmThink/CVE-2024-21733](https://github.com/LtmThink/CVE-2024-21733)	<img alt="forks" src="https://img.shields.io/github/forks/LtmThink/CVE-2024-21733">	<img alt="stars" src="https://img.shields.io/github/stars/LtmThink/CVE-2024-21733">
 
 ---
+## CVE-2024-21689 (2024-08-20T10:15:00)
+> This High severity RCE (Remote Code Execution) vulnerability CVE-2024-21689  was introduced in versions 9.1.0, 9.2.0, 9.3.0, 9.4.0, 9.5.0, and 9.6.0 of Bamboo Data Center and Server.
+
+This RCE (Remote Code Execution) vulnerability, with a CVSS Score of 7.6, allows an authenticated attacker to execute arbitrary code which has high impact to confidentiality, high impact to integrity, high impact to availability, and requires user interaction.
+
+Atlassian recommends that Bamboo Data Center and Server customers upgrade to latest version, if you are unable to do so, upgrade your instance to one of the specified supported fixed versions:
+ Bamboo Data Center and Server 9.2: Upgrade to a release greater than or equal to 9.2.17
+
+ Bamboo Data Center and Server 9.6: Upgrade to a release greater than or equal to 9.6.5
+
+See the release notes ([https://confluence.atlassian.com/bambooreleases/bamboo-release-notes-1189793869.html]). You can download the latest version of Bamboo Data Center and Server from the download center ([https://www.atlassian.com/software/bamboo/download-archives]).
+
+This vulnerability was reported via our Bug Bounty program.
+- [salvadornakamura/CVE-2024-21689](https://github.com/salvadornakamura/CVE-2024-21689)	<img alt="forks" src="https://img.shields.io/github/forks/salvadornakamura/CVE-2024-21689">	<img alt="stars" src="https://img.shields.io/github/stars/salvadornakamura/CVE-2024-21689">
+
+---
 ## CVE-2024-21683 (2024-05-21T23:15:00)
 > This High severity RCE (Remote Code Execution) vulnerability was introduced in version 5.2 of Confluence Data Center and Server.
 
