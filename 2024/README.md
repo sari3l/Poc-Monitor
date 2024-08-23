@@ -589,8 +589,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [estherQu33n/CVE-2024-43003](https://github.com/estherQu33n/CVE-2024-43003)	<img alt="forks" src="https://img.shields.io/github/forks/estherQu33n/CVE-2024-43003">	<img alt="stars" src="https://img.shields.io/github/stars/estherQu33n/CVE-2024-43003">
 
 ---
-## CVE-2024-42992 ()
-> 
+## CVE-2024-42992 (2024-08-23T18:15:00)
+> Python Pip Pandas v2.2.2 was discovered to contain an arbitrary file read vulnerability.
 - [juwenyi/CVE-2024-42992](https://github.com/juwenyi/CVE-2024-42992)	<img alt="forks" src="https://img.shields.io/github/forks/juwenyi/CVE-2024-42992">	<img alt="stars" src="https://img.shields.io/github/stars/juwenyi/CVE-2024-42992">
 
 ---
