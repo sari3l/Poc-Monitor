@@ -960,6 +960,7 @@ Users are recommended to upgrade to version 2.4.60, which fixes this issue.
 - [Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-38473">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-38473">
 - [juanschallibaum/CVE-2024-38473-Nuclei-Template](https://github.com/juanschallibaum/CVE-2024-38473-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/juanschallibaum/CVE-2024-38473-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/juanschallibaum/CVE-2024-38473-Nuclei-Template">
 - [juanschallibaum/CVE-2024-38473-Nuclei-Template](https://github.com/juanschallibaum/CVE-2024-38473-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/juanschallibaum/CVE-2024-38473-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/juanschallibaum/CVE-2024-38473-Nuclei-Template">
+- [juanschallibaum/CVE-2024-38473-Nuclei-Template](https://github.com/juanschallibaum/CVE-2024-38473-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/juanschallibaum/CVE-2024-38473-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/juanschallibaum/CVE-2024-38473-Nuclei-Template">
 
 ---
 ## CVE-2024-38472 (2024-07-01T19:15:00)
