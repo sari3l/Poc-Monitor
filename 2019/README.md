@@ -1738,6 +1738,11 @@
 - [tucommenceapousser/CVE-2019-19492-2](https://github.com/tucommenceapousser/CVE-2019-19492-2)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2019-19492-2">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2019-19492-2">
 
 ---
+## CVE-2019-19470 (2019-12-30T18:15:00)
+> Unsafe usage of .NET deserialization in Named Pipe message processing allows privilege escalation to NT AUTHORITY\SYSTEM for a local attacker. Affected product is TinyWall, all versions up to and including 2.1.12. Fixed in version 2.1.13.
+- [juliourena/CVE-2019-19470-RedTeamRD](https://github.com/juliourena/CVE-2019-19470-RedTeamRD)	<img alt="forks" src="https://img.shields.io/github/forks/juliourena/CVE-2019-19470-RedTeamRD">	<img alt="stars" src="https://img.shields.io/github/stars/juliourena/CVE-2019-19470-RedTeamRD">
+
+---
 ## CVE-2019-19447 (2019-12-08T01:15:00)
 > In the Linux kernel 5.0.21, mounting a crafted ext4 filesystem image, performing some operations, and unmounting can lead to a use-after-free in ext4_put_super in fs/ext4/super.c, related to dump_orphan_list in fs/ext4/super.c.
 - [Trinadh465/linux-4.19.72_CVE-2019-19447](https://github.com/Trinadh465/linux-4.19.72_CVE-2019-19447)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2019-19447">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2019-19447">
