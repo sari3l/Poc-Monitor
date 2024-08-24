@@ -2139,6 +2139,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [charchit-subedi/chamilo-lms-unauthenticated-rce-poc](https://github.com/charchit-subedi/chamilo-lms-unauthenticated-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/charchit-subedi/chamilo-lms-unauthenticated-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/charchit-subedi/chamilo-lms-unauthenticated-rce-poc">
 - [LGenAgul/CVE-2023-4220-Proof-of-concept](https://github.com/LGenAgul/CVE-2023-4220-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/LGenAgul/CVE-2023-4220-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/LGenAgul/CVE-2023-4220-Proof-of-concept">
 - [VanishedPeople/CVE-2023-4220](https://github.com/VanishedPeople/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/VanishedPeople/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/VanishedPeople/CVE-2023-4220">
+- [thefizzyfish/CVE-2023-4220](https://github.com/thefizzyfish/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/thefizzyfish/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/thefizzyfish/CVE-2023-4220">
 
 ---
 ## CVE-2023-422 ()
