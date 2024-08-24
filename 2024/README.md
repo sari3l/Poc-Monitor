@@ -650,6 +650,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231">
 
 ---
+## CVE-2024-41992 ()
+> 
+- [fj016/CVE-2024-41992-PoC](https://github.com/fj016/CVE-2024-41992-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fj016/CVE-2024-41992-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fj016/CVE-2024-41992-PoC">
+
+---
 ## CVE-2024-41958 (2024-08-05T20:15:00)
 > mailcow: dockerized is an open source groupware/email suite based on docker. A vulnerability has been discovered in the two-factor authentication (2FA) mechanism. This flaw allows an authenticated attacker to bypass the 2FA protection, enabling unauthorized access to other accounts that are otherwise secured with 2FA. To exploit this vulnerability, the attacker must first have access to an account within the system and possess the credentials of the target account that has 2FA enabled. By leveraging these credentials, the attacker can circumvent the 2FA process and gain access to the protected account. This issue has been addressed in the `2024-07` release. All users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [OrangeJuiceHU/CVE-2024-41958-PoC](https://github.com/OrangeJuiceHU/CVE-2024-41958-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/OrangeJuiceHU/CVE-2024-41958-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/OrangeJuiceHU/CVE-2024-41958-PoC">
