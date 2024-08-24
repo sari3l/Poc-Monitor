@@ -2081,6 +2081,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039](https://github.com/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039)	<img alt="forks" src="https://img.shields.io/github/forks/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039">	<img alt="stars" src="https://img.shields.io/github/stars/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039">
 
 ---
+## CVE-2024-31317 (2024-07-09T21:15:00)
+> In multiple functions of ZygoteProcess.java, there is a possible way to achieve code execution as any app via WRITE_SECURE_SETTINGS due to unsafe deserialization. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.
+- [jimmychanii/CVE-2024-31317](https://github.com/jimmychanii/CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/jimmychanii/CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/jimmychanii/CVE-2024-31317">
+
+---
 ## CVE-2024-31286 ()
 > 
 - [Auggustino/CVE-2024-31286-Wordpress-Exploit](https://github.com/Auggustino/CVE-2024-31286-Wordpress-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Auggustino/CVE-2024-31286-Wordpress-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Auggustino/CVE-2024-31286-Wordpress-Exploit">
