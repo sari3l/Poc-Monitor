@@ -2057,6 +2057,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [Zyad-Elsayed/CVE-2023-42793](https://github.com/Zyad-Elsayed/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Zyad-Elsayed/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Zyad-Elsayed/CVE-2023-42793">
 - [junnythemarksman/CVE-2023-42793](https://github.com/junnythemarksman/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2023-42793">
 - [HusenjanDev/CVE-2023-42793](https://github.com/HusenjanDev/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/HusenjanDev/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/HusenjanDev/CVE-2023-42793">
+- [FlojBoj/CVE-2023-42793](https://github.com/FlojBoj/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
