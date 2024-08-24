@@ -2138,6 +2138,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [Al3xGD/CVE-2023-4220-Exploit](https://github.com/Al3xGD/CVE-2023-4220-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Al3xGD/CVE-2023-4220-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Al3xGD/CVE-2023-4220-Exploit">
 - [charchit-subedi/chamilo-lms-unauthenticated-rce-poc](https://github.com/charchit-subedi/chamilo-lms-unauthenticated-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/charchit-subedi/chamilo-lms-unauthenticated-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/charchit-subedi/chamilo-lms-unauthenticated-rce-poc">
 - [LGenAgul/CVE-2023-4220-Proof-of-concept](https://github.com/LGenAgul/CVE-2023-4220-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/LGenAgul/CVE-2023-4220-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/LGenAgul/CVE-2023-4220-Proof-of-concept">
+- [VanishedPeople/CVE-2023-4220](https://github.com/VanishedPeople/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/VanishedPeople/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/VanishedPeople/CVE-2023-4220">
 
 ---
 ## CVE-2023-422 ()
