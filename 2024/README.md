@@ -1994,6 +1994,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [NishanthAnand21/CVE-2024-32002-PoC](https://github.com/NishanthAnand21/CVE-2024-32002-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NishanthAnand21/CVE-2024-32002-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NishanthAnand21/CVE-2024-32002-PoC">
 - [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
 - [chrisWalker11/running-CVE-2024-32002-locally-for-tesing](https://github.com/chrisWalker11/running-CVE-2024-32002-locally-for-tesing)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">
+- [FlojBoj/CVE-2024-32002](https://github.com/FlojBoj/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
