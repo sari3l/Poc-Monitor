@@ -537,6 +537,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/xssor-dz/-CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/xssor-dz/-CVE-2024-4439">
 
 ---
+## CVE-2024-44083 (2024-08-19T04:15:00)
+> ida64.dll in Hex-Rays IDA Pro through 8.4 crashes when there is a section that has many jumps linked, and the final jump corresponds to the payload from where the actual entry point will be invoked. NOTE: in many use cases, this is an inconvenience but not a security issue.
+- [Azvanzed/CVE-2024-44083](https://github.com/Azvanzed/CVE-2024-44083)	<img alt="forks" src="https://img.shields.io/github/forks/Azvanzed/CVE-2024-44083">	<img alt="stars" src="https://img.shields.io/github/stars/Azvanzed/CVE-2024-44083">
+
+---
 ## CVE-2024-4367 (2024-05-14T18:15:00)
 > A type check was missing when handling fonts in PDF.js, which would allow arbitrary JavaScript execution in the PDF.js context. This vulnerability affects Firefox < 126, Firefox ESR < 115.11, and Thunderbird < 115.11.
 - [LOURC0D3/CVE-2024-4367-PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-4367-PoC">
