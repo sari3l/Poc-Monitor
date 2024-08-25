@@ -4402,6 +4402,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Sk3pper/CVE-2024-21626](https://github.com/Sk3pper/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/Sk3pper/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/Sk3pper/CVE-2024-21626">
 - [KubernetesBachelor/CVE-2024-21626](https://github.com/KubernetesBachelor/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/KubernetesBachelor/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/KubernetesBachelor/CVE-2024-21626">
 - [dorser/cve-2024-21626](https://github.com/dorser/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dorser/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dorser/cve-2024-21626">
+- [FlojBoj/CVE-2024-21626](https://github.com/FlojBoj/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-21626">
 
 ---
 ## CVE-2024-21591 (2024-01-12T01:15:00)
