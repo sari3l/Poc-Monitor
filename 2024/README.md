@@ -2858,6 +2858,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [RHYru9/CVE-2024-28890-checker](https://github.com/RHYru9/CVE-2024-28890-checker)	<img alt="forks" src="https://img.shields.io/github/forks/RHYru9/CVE-2024-28890-checker">	<img alt="stars" src="https://img.shields.io/github/stars/RHYru9/CVE-2024-28890-checker">
 
 ---
+## CVE-2024-2887 (2024-03-26T21:15:00)
+> Type Confusion in WebAssembly in Google Chrome prior to 123.0.6312.86 allowed a remote attacker to execute arbitrary code via a crafted HTML page. (Chromium security severity: High)
+- [PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc](https://github.com/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc">
+
+---
 ## CVE-2024-2879 ()
 > 
 - [JohnNetSouldRU/CVE-2024-2879-POC](https://github.com/JohnNetSouldRU/CVE-2024-2879-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-2879-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-2879-POC">
