@@ -2867,6 +2867,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-2887 (2024-03-26T21:15:00)
 > Type Confusion in WebAssembly in Google Chrome prior to 123.0.6312.86 allowed a remote attacker to execute arbitrary code via a crafted HTML page. (Chromium security severity: High)
 - [PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc](https://github.com/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc">
+- [rycbar77/CVE-2024-2887](https://github.com/rycbar77/CVE-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/rycbar77/CVE-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/rycbar77/CVE-2024-2887">
 
 ---
 ## CVE-2024-2879 ()
@@ -4747,6 +4748,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [l0n3m4n/CVE-2024-22274-RCE](https://github.com/l0n3m4n/CVE-2024-22274-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-22274-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-22274-RCE">
 - [wiggels/regresshion-check](https://github.com/wiggels/regresshion-check)	<img alt="forks" src="https://img.shields.io/github/forks/wiggels/regresshion-check">	<img alt="stars" src="https://img.shields.io/github/stars/wiggels/regresshion-check">
 - [HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
+
+---
+## CVE-2024-1939 (2024-02-29T01:43:00)
+> Type Confusion in V8 in Google Chrome prior to 122.0.6261.94 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [rycbar77/CVE-2024-1939](https://github.com/rycbar77/CVE-2024-1939)	<img alt="forks" src="https://img.shields.io/github/forks/rycbar77/CVE-2024-1939">	<img alt="stars" src="https://img.shields.io/github/stars/rycbar77/CVE-2024-1939">
 
 ---
 ## CVE-2024-1931 (2024-03-07T10:15:00)
