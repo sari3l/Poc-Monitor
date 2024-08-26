@@ -3346,6 +3346,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [AlexDoe11/CVE-2024-25693-exploit](https://github.com/AlexDoe11/CVE-2024-25693-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-25693-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-25693-exploit">
 
 ---
+## CVE-2024-25641 (2024-05-14T15:05:00)
+> Cacti provides an operational monitoring and fault management framework. Prior to version 1.2.27, an arbitrary file write vulnerability, exploitable through the "Package Import" feature, allows authenticated users having the "Import Templates" permission to execute arbitrary PHP code on the web server. The vulnerability is located within the `import_package()` function defined into the `/lib/import.php` script. The function blindly trusts the filename and file content provided within the XML data, and writes such files into the Cacti base path (or even outside, since path traversal sequences are not filtered). This can be exploited to write or overwrite arbitrary files on the web server, leading to execution of arbitrary PHP code or other security impacts. Version 1.2.27 contains a patch for this issue.
+- [5ma1l/CVE-2024-25641](https://github.com/5ma1l/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/5ma1l/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/5ma1l/CVE-2024-25641">
+
+---
 ## CVE-2024-25600 (2024-06-04T13:15:00)
 > Improper Control of Generation of Code ('Code Injection') vulnerability in Codeer Limited Bricks Builder allows Code Injection.This issue affects Bricks Builder: from n/a through 1.9.6.
 - [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-25600">
