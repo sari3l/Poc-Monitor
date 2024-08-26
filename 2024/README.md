@@ -510,6 +510,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4577-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4577-RCE">
 
 ---
+## CVE-2024-45264 ()
+> 
+- [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45264">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45264">
+
+---
 ## CVE-2024-45241 ()
 > 
 - [d4lyw/CVE-2024-45241](https://github.com/d4lyw/CVE-2024-45241)	<img alt="forks" src="https://img.shields.io/github/forks/d4lyw/CVE-2024-45241">	<img alt="stars" src="https://img.shields.io/github/stars/d4lyw/CVE-2024-45241">
