@@ -35,6 +35,11 @@
 - [UgOrange/CVE-2024-7646-poc](https://github.com/UgOrange/CVE-2024-7646-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UgOrange/CVE-2024-7646-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UgOrange/CVE-2024-7646-poc">
 
 ---
+## CVE-2024-7593 (2024-08-13T19:15:00)
+> Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel.
+- [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7593-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7593-PoC">
+
+---
 ## CVE-2024-7339 (2024-08-01T04:15:00)
 > A vulnerability has been found in TVT DVR TD-2104TS-CL, DVR TD-2108TS-HP, Provision-ISR DVR SH-4050A5-5L(MM) and AVISION DVR AV108T and classified as problematic. This vulnerability affects unknown code of the file /queryDevInfo. The manipulation leads to information disclosure. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-273262 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-7339">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-7339">
@@ -508,6 +513,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR)	<img alt="forks" src="https://img.shields.io/github/forks/ManuelKy08/CVE-2024-4577---RR">	<img alt="stars" src="https://img.shields.io/github/stars/ManuelKy08/CVE-2024-4577---RR">
 - [bughuntar/CVE-2024-4577](https://github.com/bughuntar/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-4577">
 - [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4577-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4577-RCE">
+
+---
+## CVE-2024-45265 ()
+> 
+- [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45265">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45265">
 
 ---
 ## CVE-2024-45264 ()
