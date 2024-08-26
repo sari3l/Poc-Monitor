@@ -693,6 +693,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628)	<img alt="forks" src="https://img.shields.io/github/forks/Redshift-CyberSecurity/CVE-2024-41628">	<img alt="stars" src="https://img.shields.io/github/stars/Redshift-CyberSecurity/CVE-2024-41628">
 
 ---
+## CVE-2024-41312 ()
+> 
+- [Amal264882/CVE-2024-41312.](https://github.com/Amal264882/CVE-2024-41312.)	<img alt="forks" src="https://img.shields.io/github/forks/Amal264882/CVE-2024-41312.">	<img alt="stars" src="https://img.shields.io/github/stars/Amal264882/CVE-2024-41312.">
+
+---
 ## CVE-2024-41302 ()
 > 
 - [patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection](https://github.com/patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection">
