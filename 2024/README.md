@@ -40,8 +40,8 @@
 - [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-7339">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-7339">
 
 ---
-## CVE-2024-7313 ()
-> 
+## CVE-2024-7313 (2024-08-26T06:15:00)
+> The Shield Security  WordPress plugin before 20.0.6 does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting which could be used against high privilege users such as admin.
 - [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313)	<img alt="forks" src="https://img.shields.io/github/forks/Wayne-Ker/CVE-2024-7313">	<img alt="stars" src="https://img.shields.io/github/stars/Wayne-Ker/CVE-2024-7313">
 
 ---
@@ -515,8 +515,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45264">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45264">
 
 ---
-## CVE-2024-45241 ()
-> 
+## CVE-2024-45241 (2024-08-26T07:15:00)
+> A traversal vulnerability in GeneralDocs.aspx in CentralSquare CryWolf (False Alarm Management) through 2024-08-09 allows unauthenticated attackers to read files outside of the working web directory via the rpt parameter, leading to the disclosure of sensitive information.
 - [d4lyw/CVE-2024-45241](https://github.com/d4lyw/CVE-2024-45241)	<img alt="forks" src="https://img.shields.io/github/forks/d4lyw/CVE-2024-45241">	<img alt="stars" src="https://img.shields.io/github/stars/d4lyw/CVE-2024-45241">
 
 ---
