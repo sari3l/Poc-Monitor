@@ -2225,6 +2225,7 @@
 - [Maybe4a6f7365/CVE-2021-41773](https://github.com/Maybe4a6f7365/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Maybe4a6f7365/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Maybe4a6f7365/CVE-2021-41773">
 - [0xc4t/CVE-2021-41773](https://github.com/0xc4t/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/0xc4t/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/0xc4t/CVE-2021-41773">
 - [Jhonsonwannaa/cve-2021-42013-apache](https://github.com/Jhonsonwannaa/cve-2021-42013-apache)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/cve-2021-42013-apache">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/cve-2021-42013-apache">
+- [Zyx2440/Apache-HTTP-Server-2.4.50-RCE](https://github.com/Zyx2440/Apache-HTTP-Server-2.4.50-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Zyx2440/Apache-HTTP-Server-2.4.50-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Zyx2440/Apache-HTTP-Server-2.4.50-RCE">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
