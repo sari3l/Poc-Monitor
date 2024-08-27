@@ -3081,8 +3081,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697)	<img alt="forks" src="https://img.shields.io/github/forks/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">	<img alt="stars" src="https://img.shields.io/github/stars/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">
 
 ---
-## CVE-2024-27674 ()
-> 
+## CVE-2024-27674 (2024-04-03T17:15:00)
+> Macro Expert through 4.9.4 allows BUILTIN\Users:(OI)(CI)(M) access to the "%PROGRAMFILES(X86)%\GrassSoft\Macro Expert" folder and thus an unprivileged user can escalate to SYSTEM by replacing the MacroService.exe binary.
 - [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27674">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27674">
 
 ---
@@ -3361,6 +3361,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 > Cacti provides an operational monitoring and fault management framework. Prior to version 1.2.27, an arbitrary file write vulnerability, exploitable through the "Package Import" feature, allows authenticated users having the "Import Templates" permission to execute arbitrary PHP code on the web server. The vulnerability is located within the `import_package()` function defined into the `/lib/import.php` script. The function blindly trusts the filename and file content provided within the XML data, and writes such files into the Cacti base path (or even outside, since path traversal sequences are not filtered). This can be exploited to write or overwrite arbitrary files on the web server, leading to execution of arbitrary PHP code or other security impacts. Version 1.2.27 contains a patch for this issue.
 - [5ma1l/CVE-2024-25641](https://github.com/5ma1l/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/5ma1l/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/5ma1l/CVE-2024-25641">
 - [thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26](https://github.com/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26">
+- [Safarchand/CVE-2024-25641](https://github.com/Safarchand/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/Safarchand/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/Safarchand/CVE-2024-25641">
 
 ---
 ## CVE-2024-25600 (2024-06-04T13:15:00)
