@@ -1050,6 +1050,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [atlassion/CVE-2024-38077-check](https://github.com/atlassion/CVE-2024-38077-check)	<img alt="forks" src="https://img.shields.io/github/forks/atlassion/CVE-2024-38077-check">	<img alt="stars" src="https://img.shields.io/github/stars/atlassion/CVE-2024-38077-check">
 - [BBD-YZZ/fyne-gui](https://github.com/BBD-YZZ/fyne-gui)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/fyne-gui">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/fyne-gui">
 - [SecStarBot/CVE-2024-38077-POC](https://github.com/SecStarBot/CVE-2024-38077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecStarBot/CVE-2024-38077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecStarBot/CVE-2024-38077-POC">
+- [h3r04/CVE-2024-38077-EXP](https://github.com/h3r04/CVE-2024-38077-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/h3r04/CVE-2024-38077-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/h3r04/CVE-2024-38077-EXP">
 
 ---
 ## CVE-2024-38063 (2024-08-13T18:15:00)
