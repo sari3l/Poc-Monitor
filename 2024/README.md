@@ -431,6 +431,7 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [Praison001/CVE-2024-4879-ServiceNow](https://github.com/Praison001/CVE-2024-4879-ServiceNow)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-4879-ServiceNow">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-4879-ServiceNow">
 - [NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning](https://github.com/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning)	<img alt="forks" src="https://img.shields.io/github/forks/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning">	<img alt="stars" src="https://img.shields.io/github/stars/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning">
 - [jdusane/CVE-2024-4879](https://github.com/jdusane/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/jdusane/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/jdusane/CVE-2024-4879">
+- [fa-rrel/CVE-2024-4879](https://github.com/fa-rrel/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4879">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
