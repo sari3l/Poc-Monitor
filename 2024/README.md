@@ -1532,6 +1532,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
 - [alas1n/eslint-nextjs-cve-2024-34351-detector](https://github.com/alas1n/eslint-nextjs-cve-2024-34351-detector)	<img alt="forks" src="https://img.shields.io/github/forks/alas1n/eslint-nextjs-cve-2024-34351-detector">	<img alt="stars" src="https://img.shields.io/github/stars/alas1n/eslint-nextjs-cve-2024-34351-detector">
 - [God4n/nextjs-CVE-2024-34351-_exploit](https://github.com/God4n/nextjs-CVE-2024-34351-_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/God4n/nextjs-CVE-2024-34351-_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/God4n/nextjs-CVE-2024-34351-_exploit">
+- [God4n/nextjs-CVE-2024-34351-_exploit](https://github.com/God4n/nextjs-CVE-2024-34351-_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/God4n/nextjs-CVE-2024-34351-_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/God4n/nextjs-CVE-2024-34351-_exploit">
 
 ---
 ## CVE-2024-34350 (2024-05-14T15:38:00)
