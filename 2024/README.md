@@ -2030,6 +2030,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [FlojBoj/CVE-2024-32002](https://github.com/FlojBoj/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-32002">
 - [sanan2004/CVE-2024-32002](https://github.com/sanan2004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2024-32002">
 - [sampath-clustrex/CVE-2024-32002-TEST](https://github.com/sampath-clustrex/CVE-2024-32002-TEST)	<img alt="forks" src="https://img.shields.io/github/forks/sampath-clustrex/CVE-2024-32002-TEST">	<img alt="stars" src="https://img.shields.io/github/stars/sampath-clustrex/CVE-2024-32002-TEST">
+- [sampath-clustrex/CVE-2024-32002-TEST](https://github.com/sampath-clustrex/CVE-2024-32002-TEST)	<img alt="forks" src="https://img.shields.io/github/forks/sampath-clustrex/CVE-2024-32002-TEST">	<img alt="stars" src="https://img.shields.io/github/stars/sampath-clustrex/CVE-2024-32002-TEST">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
