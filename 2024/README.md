@@ -2029,6 +2029,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [chrisWalker11/running-CVE-2024-32002-locally-for-tesing](https://github.com/chrisWalker11/running-CVE-2024-32002-locally-for-tesing)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">
 - [FlojBoj/CVE-2024-32002](https://github.com/FlojBoj/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-32002">
 - [sanan2004/CVE-2024-32002](https://github.com/sanan2004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2024-32002">
+- [sampath-clustrex/CVE-2024-32002-TEST](https://github.com/sampath-clustrex/CVE-2024-32002-TEST)	<img alt="forks" src="https://img.shields.io/github/forks/sampath-clustrex/CVE-2024-32002-TEST">	<img alt="stars" src="https://img.shields.io/github/stars/sampath-clustrex/CVE-2024-32002-TEST">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
@@ -3024,6 +3025,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Alucard0x1/CVE-2024-28000](https://github.com/Alucard0x1/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2024-28000">
 - [Useems/CVE-2024-28000-PoC](https://github.com/Useems/CVE-2024-28000-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Useems/CVE-2024-28000-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Useems/CVE-2024-28000-PoC">
 - [ebrasha/CVE-2024-28000](https://github.com/ebrasha/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/CVE-2024-28000">
+- [arch1m3d/CVE-2024-28000](https://github.com/arch1m3d/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/arch1m3d/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/arch1m3d/CVE-2024-28000">
 
 ---
 ## CVE-2024-27983 (2024-04-09T01:15:00)
