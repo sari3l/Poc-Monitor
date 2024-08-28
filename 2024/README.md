@@ -21,6 +21,11 @@
 - [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-8030-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-8030-PoC">
 
 ---
+## CVE-2024-7954 (2024-08-23T18:15:00)
+> The porte_plume plugin used by SPIP before 4.30-alpha2, 4.2.13, and 4.1.16 is vulnerable to an arbitrary code execution vulnerability. A remote and unauthenticated attacker can execute arbitrary PHP as the SPIP user by sending a crafted HTTP request.
+- [bigb0x/CVE-2024-7954](https://github.com/bigb0x/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-7954">
+
+---
 ## CVE-2024-7928 (2024-08-19T22:15:00)
 > A vulnerability, which was classified as problematic, has been found in FastAdmin up to 1.3.3.20220121. Affected by this issue is some unknown functionality of the file /index/ajax/lang. The manipulation of the argument lang leads to path traversal. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 1.3.4.20220530 is able to address this issue. It is recommended to upgrade the affected component.
 - [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-7928">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-7928">
@@ -1089,6 +1094,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2024-38063">
 - [PumpkinBridge/Windows-CVE-2024-38063](https://github.com/PumpkinBridge/Windows-CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/PumpkinBridge/Windows-CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/PumpkinBridge/Windows-CVE-2024-38063">
 - [zenzue/CVE-2024-38063-POC](https://github.com/zenzue/CVE-2024-38063-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2024-38063-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2024-38063-POC">
+- [AdminPentester/CVE-2024-38063-](https://github.com/AdminPentester/CVE-2024-38063-)	<img alt="forks" src="https://img.shields.io/github/forks/AdminPentester/CVE-2024-38063-">	<img alt="stars" src="https://img.shields.io/github/stars/AdminPentester/CVE-2024-38063-">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
