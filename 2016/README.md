@@ -767,8 +767,8 @@
 - [Live-Hack-CVE/CVE-2016-20015](https://github.com/Live-Hack-CVE/CVE-2016-20015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-20015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-20015">
 
 ---
-## CVE-2016-20012 ()
-> 
+## CVE-2016-20012 (2021-09-15T20:15:00)
+> OpenSSH through 8.7 allows remote attackers, who have a suspicion that a certain combination of username and public key is known to an SSH server, to test whether this suspicion is correct. This occurs because a challenge is sent only when that combination could be valid for a login session. NOTE: the vendor does not recognize user enumeration as a vulnerability for this product
 - [aztec-eagle/cve-2016-20012](https://github.com/aztec-eagle/cve-2016-20012)	<img alt="forks" src="https://img.shields.io/github/forks/aztec-eagle/cve-2016-20012">	<img alt="stars" src="https://img.shields.io/github/stars/aztec-eagle/cve-2016-20012">
 
 ---
