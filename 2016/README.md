@@ -767,6 +767,11 @@
 - [Live-Hack-CVE/CVE-2016-20015](https://github.com/Live-Hack-CVE/CVE-2016-20015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-20015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-20015">
 
 ---
+## CVE-2016-20012 ()
+> 
+- [aztec-eagle/cve-2016-20012](https://github.com/aztec-eagle/cve-2016-20012)	<img alt="forks" src="https://img.shields.io/github/forks/aztec-eagle/cve-2016-20012">	<img alt="stars" src="https://img.shields.io/github/stars/aztec-eagle/cve-2016-20012">
+
+---
 ## CVE-2016-1907 (2016-01-19T05:59:00)
 > The ssh_packet_read_poll2 function in packet.c in OpenSSH before 7.1p2 allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via crafted network traffic.
 - [Live-Hack-CVE/CVE-2016-1907](https://github.com/Live-Hack-CVE/CVE-2016-1907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1907">

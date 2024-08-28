@@ -16,8 +16,8 @@
 - [AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61](https://github.com/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">
 
 ---
-## CVE-2024-8030 ()
-> 
+## CVE-2024-8030 (2024-08-28T03:15:00)
+> The Ultimate Store Kit Elementor Addons, Woocommerce Builder, EDD Builder, Elementor Store Builder, Product Grid, Product Table, Woocommerce Slider plugin is vulnerable to PHP Object Injection via deserialization of untrusted input via the _ultimate_store_kit_wishlist cookie in versions up to , and including, 2.0.3. This makes it possible for an unauthenticated attacker to inject a PHP Object. No POP chain is present in the vulnerable plugin. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker or above to delete arbitrary files, retrieve sensitive data, or execute code.
 - [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-8030-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-8030-PoC">
 
 ---
@@ -533,8 +533,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45265">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45265">
 
 ---
-## CVE-2024-45264 ()
-> 
+## CVE-2024-45264 (2024-08-27T16:15:00)
+> A cross-site request forgery (CSRF) vulnerability in the admin panel in SkySystem Arfa-CMS before 5.1.3124 allows remote attackers to add a new administrator, leading to escalation of privileges.
 - [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45264">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45264">
 
 ---
@@ -985,6 +985,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-38856-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-38856-EXP">
 - [jocker2410/CVE-2024-38856](https://github.com/jocker2410/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/jocker2410/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/jocker2410/CVE-2024-38856">
 - [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/CVE-2024-38856">
+- [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-38856-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-38856-RCE">
 
 ---
 ## CVE-2024-38793 ()
@@ -1084,6 +1085,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [haroonawanofficial/CVE-2024-38063-Research-Tool](https://github.com/haroonawanofficial/CVE-2024-38063-Research-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/haroonawanofficial/CVE-2024-38063-Research-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/haroonawanofficial/CVE-2024-38063-Research-Tool">
 - [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2024-38063">
 - [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2024-38063">
+- [PumpkinBridge/Windows-CVE-2024-38063](https://github.com/PumpkinBridge/Windows-CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/PumpkinBridge/Windows-CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/PumpkinBridge/Windows-CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
