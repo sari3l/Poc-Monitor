@@ -1086,6 +1086,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2024-38063">
 - [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2024-38063">
 - [PumpkinBridge/Windows-CVE-2024-38063](https://github.com/PumpkinBridge/Windows-CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/PumpkinBridge/Windows-CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/PumpkinBridge/Windows-CVE-2024-38063">
+- [zenzue/CVE-2024-38063-POC](https://github.com/zenzue/CVE-2024-38063-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2024-38063-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2024-38063-POC">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
