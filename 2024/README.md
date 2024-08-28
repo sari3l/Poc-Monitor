@@ -1075,6 +1075,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Th3Tr1ckst3r/CVE-2024-38063](https://github.com/Th3Tr1ckst3r/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Tr1ckst3r/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Tr1ckst3r/CVE-2024-38063">
 - [haroonawanofficial/CVE-2024-38063-Research-Tool](https://github.com/haroonawanofficial/CVE-2024-38063-Research-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/haroonawanofficial/CVE-2024-38063-Research-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/haroonawanofficial/CVE-2024-38063-Research-Tool">
 - [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2024-38063">
+- [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
