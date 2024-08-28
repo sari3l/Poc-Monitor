@@ -43,6 +43,7 @@
 ## CVE-2024-7593 (2024-08-13T19:15:00)
 > Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel.
 - [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7593-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7593-PoC">
+- [rxerium/CVE-2024-7593](https://github.com/rxerium/CVE-2024-7593)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2024-7593">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2024-7593">
 
 ---
 ## CVE-2024-7339 (2024-08-01T04:15:00)
@@ -296,7 +297,7 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 ## CVE-2024-5932 (2024-08-20T02:15:00)
 > The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.14.1 via deserialization of untrusted input from the 'give_title' parameter. This makes it possible for unauthenticated attackers to inject a PHP Object. The additional presence of a POP chain allows attackers to execute code remotely, and to delete arbitrary files.
 - [0xb0mb3r/CVE-2024-5932-PoC](https://github.com/0xb0mb3r/CVE-2024-5932-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0mb3r/CVE-2024-5932-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0mb3r/CVE-2024-5932-PoC">
-- [EQSTSeminar/CVE-2024-5932](https://github.com/EQSTSeminar/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/CVE-2024-5932">
+- [EQSTLab/CVE-2024-5932](https://github.com/EQSTLab/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-5932">
 - [sqlmap-projects/CVE-2024-5932](https://github.com/sqlmap-projects/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/sqlmap-projects/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/sqlmap-projects/CVE-2024-5932">
 - [niktoproject/CVE-2024-5932](https://github.com/niktoproject/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/niktoproject/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/niktoproject/CVE-2024-5932">
 
