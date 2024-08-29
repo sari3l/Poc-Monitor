@@ -1143,8 +1143,8 @@ Users are recommended to upgrade to version 18.12.10
 - [aprkr/CVE-2023-48034](https://github.com/aprkr/CVE-2023-48034)	<img alt="forks" src="https://img.shields.io/github/forks/aprkr/CVE-2023-48034">	<img alt="stars" src="https://img.shields.io/github/stars/aprkr/CVE-2023-48034">
 
 ---
-## CVE-2023-48031 ()
-> 
+## CVE-2023-48031 (2023-11-17T02:15:00)
+> OpenSupports v4.11.0 is vulnerable to Unrestricted Upload of File with Dangerous Type. In the comment function, an attacker can bypass security restrictions and upload a .bat file by manipulating the file's magic bytes to masquerade as an allowed type. This can enable the attacker to execute arbitrary code or establish a reverse shell, leading to unauthorized file writes or control over the victim's station via a crafted file upload operation.
 - [nitipoom-jar/CVE-2023-48031](https://github.com/nitipoom-jar/CVE-2023-48031)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48031">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48031">
 
 ---
