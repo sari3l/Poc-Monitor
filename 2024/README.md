@@ -3384,6 +3384,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [5ma1l/CVE-2024-25641](https://github.com/5ma1l/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/5ma1l/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/5ma1l/CVE-2024-25641">
 - [thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26](https://github.com/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26">
 - [Safarchand/CVE-2024-25641](https://github.com/Safarchand/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/Safarchand/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/Safarchand/CVE-2024-25641">
+- [StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26](https://github.com/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26">
 
 ---
 ## CVE-2024-25600 (2024-06-04T13:15:00)
