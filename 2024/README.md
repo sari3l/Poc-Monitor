@@ -3571,6 +3571,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [H3KEY/CVE-2024-24919](https://github.com/H3KEY/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/H3KEY/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/H3KEY/CVE-2024-24919">
 - [Jutrm/cve-2024-24919](https://github.com/Jutrm/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Jutrm/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Jutrm/cve-2024-24919">
 - [smkxt1/CVE-2024-24919](https://github.com/smkxt1/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/smkxt1/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/smkxt1/CVE-2024-24919">
+- [LuisMateo1/Arbitrary-File-Read-CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
