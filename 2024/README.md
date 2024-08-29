@@ -632,6 +632,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044)	<img alt="forks" src="https://img.shields.io/github/forks/HwMex0/CVE-2024-43044">	<img alt="stars" src="https://img.shields.io/github/stars/HwMex0/CVE-2024-43044">
 - [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3430">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3430">
 - [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v9d0g/CVE-2024-43044-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v9d0g/CVE-2024-43044-POC">
+- [convisolabs/CVE-2024-43044-jenkins](https://github.com/convisolabs/CVE-2024-43044-jenkins)	<img alt="forks" src="https://img.shields.io/github/forks/convisolabs/CVE-2024-43044-jenkins">	<img alt="stars" src="https://img.shields.io/github/stars/convisolabs/CVE-2024-43044-jenkins">
 
 ---
 ## CVE-2024-43003 ()
