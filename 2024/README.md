@@ -44,6 +44,7 @@
 ## CVE-2024-7646 (2024-08-16T18:15:00)
 > A security issue was discovered in ingress-nginx where an actor with permission to create Ingress objects (in the `networking.k8s.io` or `extensions` API group) can bypass annotation validation to inject arbitrary commands and obtain the credentials of the ingress-nginx controller. In the default configuration, that credential has access to all secrets in the cluster.
 - [UgOrange/CVE-2024-7646-poc](https://github.com/UgOrange/CVE-2024-7646-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UgOrange/CVE-2024-7646-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UgOrange/CVE-2024-7646-poc">
+- [r0binak/CVE-2024-7646](https://github.com/r0binak/CVE-2024-7646)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2024-7646">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2024-7646">
 
 ---
 ## CVE-2024-7593 (2024-08-13T19:15:00)
