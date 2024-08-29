@@ -77,6 +77,11 @@
 - [nastar-id/CVE-2024-7094](https://github.com/nastar-id/CVE-2024-7094)	<img alt="forks" src="https://img.shields.io/github/forks/nastar-id/CVE-2024-7094">	<img alt="stars" src="https://img.shields.io/github/stars/nastar-id/CVE-2024-7094">
 
 ---
+## CVE-2024-7029 (2024-08-02T15:16:00)
+> Commands can be injected over the network and executed without authentication.
+- [K3ysTr0K3R/CVE-2024-7029-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-7029-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-7029-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-7029-EXPLOIT">
+
+---
 ## CVE-2024-6893 (2024-08-08T00:15:00)
 > The "soap_cgi.pyc" API handler allows the XML body of SOAP requests to contain references to external entities. This allows an unauthenticated attacker to read local files, perform server-side request forgery, and overwhelm the web server resources.
 - [codeb0ss/CVE-2024-6893-PoC](https://github.com/codeb0ss/CVE-2024-6893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-6893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-6893-PoC">
@@ -999,8 +1004,8 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-38856-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-38856-RCE">
 
 ---
-## CVE-2024-38793 ()
-> 
+## CVE-2024-38793 (2024-08-29T15:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in PriceListo Best Restaurant Menu by PriceListo allows SQL Injection.This issue affects Best Restaurant Menu by PriceListo: from n/a through 1.4.1.
 - [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ret2desync/CVE-2024-38793-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ret2desync/CVE-2024-38793-PoC">
 
 ---
