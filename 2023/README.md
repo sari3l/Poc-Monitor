@@ -2822,6 +2822,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [UnHackerEnCapital/PDFernetRemotelo](https://github.com/UnHackerEnCapital/PDFernetRemotelo)	<img alt="forks" src="https://img.shields.io/github/forks/UnHackerEnCapital/PDFernetRemotelo">	<img alt="stars" src="https://img.shields.io/github/stars/UnHackerEnCapital/PDFernetRemotelo">
 - [MaorBuskila/Windows-X64-RAT](https://github.com/MaorBuskila/Windows-X64-RAT)	<img alt="forks" src="https://img.shields.io/github/forks/MaorBuskila/Windows-X64-RAT">	<img alt="stars" src="https://img.shields.io/github/stars/MaorBuskila/Windows-X64-RAT">
 - [yezzfusl/cve_2023_38831_scanner](https://github.com/yezzfusl/cve_2023_38831_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yezzfusl/cve_2023_38831_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yezzfusl/cve_2023_38831_scanner">
+- [FirFirdaus/CVE-2023-38831](https://github.com/FirFirdaus/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/FirFirdaus/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/FirFirdaus/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
