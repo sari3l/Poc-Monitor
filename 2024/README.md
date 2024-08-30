@@ -669,6 +669,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [jeyabalaji711/CVE-2024-42919](https://github.com/jeyabalaji711/CVE-2024-42919)	<img alt="forks" src="https://img.shields.io/github/forks/jeyabalaji711/CVE-2024-42919">	<img alt="stars" src="https://img.shields.io/github/stars/jeyabalaji711/CVE-2024-42919">
 
 ---
+## CVE-2024-42913 (2024-08-26T18:15:00)
+> RuoYi CMS v4.7.9 was discovered to contain a SQL injection vulnerability via the job_id parameter at /sasfs1.
+- [kkll5875/CVE-2024-42913](https://github.com/kkll5875/CVE-2024-42913)	<img alt="forks" src="https://img.shields.io/github/forks/kkll5875/CVE-2024-42913">	<img alt="stars" src="https://img.shields.io/github/stars/kkll5875/CVE-2024-42913">
+
+---
 ## CVE-2024-42850 (2024-08-16T19:15:00)
 > An issue in the password change function of Silverpeas v6.4.2 and lower allows for the bypassing of password complexity requirements.
 - [njmbb8/CVE-2024-42850](https://github.com/njmbb8/CVE-2024-42850)	<img alt="forks" src="https://img.shields.io/github/forks/njmbb8/CVE-2024-42850">	<img alt="stars" src="https://img.shields.io/github/stars/njmbb8/CVE-2024-42850">
