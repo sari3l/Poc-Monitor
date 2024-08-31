@@ -5063,6 +5063,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360)	<img alt="forks" src="https://img.shields.io/github/forks/Nero22k/cve-2023-29360">	<img alt="stars" src="https://img.shields.io/github/stars/Nero22k/cve-2023-29360">
 - [exotikcheat/cve-2023-29360](https://github.com/exotikcheat/cve-2023-29360)	<img alt="forks" src="https://img.shields.io/github/forks/exotikcheat/cve-2023-29360">	<img alt="stars" src="https://img.shields.io/github/stars/exotikcheat/cve-2023-29360">
 - [0xDivyanshu-new/CVE-2023-29360](https://github.com/0xDivyanshu-new/CVE-2023-29360)	<img alt="forks" src="https://img.shields.io/github/forks/0xDivyanshu-new/CVE-2023-29360">	<img alt="stars" src="https://img.shields.io/github/stars/0xDivyanshu-new/CVE-2023-29360">
+- [0xDivyanshu-new/CVE-2023-29360](https://github.com/0xDivyanshu-new/CVE-2023-29360)	<img alt="forks" src="https://img.shields.io/github/forks/0xDivyanshu-new/CVE-2023-29360">	<img alt="stars" src="https://img.shields.io/github/stars/0xDivyanshu-new/CVE-2023-29360">
 
 ---
 ## CVE-2023-29357 (2023-06-14T00:15:00)
