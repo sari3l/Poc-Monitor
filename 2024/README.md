@@ -5160,6 +5160,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0195 (2024-01-02T21:15:00)
 > A vulnerability, which was classified as critical, was found in spider-flow 0.4.3. Affected is the function FunctionService.saveFunction of the file src/main/java/org/spiderflow/controller/FunctionController.java. The manipulation leads to code injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-249510 is the identifier assigned to this vulnerability.
 - [Cappricio-Securities/CVE-2024-0195](https://github.com/Cappricio-Securities/CVE-2024-0195)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0195">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0195">
+- [fa-rrel/CVE-2024-0195-SpiderFlow](https://github.com/fa-rrel/CVE-2024-0195-SpiderFlow)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-0195-SpiderFlow">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-0195-SpiderFlow">
 
 ---
 ## CVE-2024-0193 (2024-01-02T18:15:00)
