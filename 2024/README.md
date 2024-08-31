@@ -4574,6 +4574,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [DerZiad/CVE-2024-21413](https://github.com/DerZiad/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/DerZiad/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/DerZiad/CVE-2024-21413">
 - [Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape](https://github.com/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape">
 - [HYZ3K/CVE-2024-21413](https://github.com/HYZ3K/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/HYZ3K/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/HYZ3K/CVE-2024-21413">
+- [ThemeHackers/CVE-2024-21413](https://github.com/ThemeHackers/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-21413">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
