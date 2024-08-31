@@ -5769,6 +5769,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 ## CVE-2023-2598 (2023-06-01T01:15:00)
 > A flaw was found in the fixed buffer registration code for io_uring (io_sqe_buffer_register in io_uring/rsrc.c) in the Linux kernel that allows out-of-bounds access to physical memory beyond the end of the buffer. This flaw enables full local privilege escalation.
 - [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598)	<img alt="forks" src="https://img.shields.io/github/forks/ysanatomic/io_uring_LPE-CVE-2023-2598">	<img alt="stars" src="https://img.shields.io/github/stars/ysanatomic/io_uring_LPE-CVE-2023-2598">
+- [cainiao159357/CVE-2023-2598](https://github.com/cainiao159357/CVE-2023-2598)	<img alt="forks" src="https://img.shields.io/github/forks/cainiao159357/CVE-2023-2598">	<img alt="stars" src="https://img.shields.io/github/stars/cainiao159357/CVE-2023-2598">
 
 ---
 ## CVE-2023-2594 (2023-05-09T13:15:00)
