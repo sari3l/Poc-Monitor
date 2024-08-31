@@ -722,6 +722,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [sudo-subho/CVE-2024-42657](https://github.com/sudo-subho/CVE-2024-42657)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/CVE-2024-42657">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/CVE-2024-42657">
 
 ---
+## CVE-2024-42642 ()
+> 
+- [VL4DR/CVE-2024-42642](https://github.com/VL4DR/CVE-2024-42642)	<img alt="forks" src="https://img.shields.io/github/forks/VL4DR/CVE-2024-42642">	<img alt="stars" src="https://img.shields.io/github/stars/VL4DR/CVE-2024-42642">
+
+---
 ## CVE-2024-42461 (2024-08-02T07:16:00)
 > In the Elliptic package 6.5.6 for Node.js, ECDSA signature malleability occurs because BER-encoded signatures are allowed.
 - [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2024-42461">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2024-42461">
