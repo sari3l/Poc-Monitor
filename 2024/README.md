@@ -25,6 +25,7 @@
 > The porte_plume plugin used by SPIP before 4.30-alpha2, 4.2.13, and 4.1.16 is vulnerable to an arbitrary code execution vulnerability. A remote and unauthenticated attacker can execute arbitrary PHP as the SPIP user by sending a crafted HTTP request.
 - [bigb0x/CVE-2024-7954](https://github.com/bigb0x/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-7954">
 - [Chocapikk/CVE-2024-7954](https://github.com/Chocapikk/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-7954">
+- [fa-rrel/CVE-2024-7954-RCE](https://github.com/fa-rrel/CVE-2024-7954-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-7954-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-7954-RCE">
 
 ---
 ## CVE-2024-7928 (2024-08-19T22:15:00)
