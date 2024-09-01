@@ -291,6 +291,11 @@ As exploitation requires "Allow only extensions distributed through the Docker M
 - [j3r1ch0123/CVE-2024-6205](https://github.com/j3r1ch0123/CVE-2024-6205)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2024-6205">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2024-6205">
 
 ---
+## CVE-2024-6095 (2024-07-06T18:15:00)
+> A vulnerability in the /models/apply endpoint of mudler/localai versions 2.15.0 allows for Server-Side Request Forgery (SSRF) and partial Local File Inclusion (LFI). The endpoint supports both http(s):// and file:// schemes, where the latter can lead to LFI. However, the output is limited due to the length of the error message. This vulnerability can be exploited by an attacker with network access to the LocalAI instance, potentially allowing unauthorized access to internal HTTP(s) servers and partial reading of local files. The issue is fixed in version 2.17.
+- [Abdurahmon3236/-CVE-2024-6095](https://github.com/Abdurahmon3236/-CVE-2024-6095)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-6095">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-6095">
+
+---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
 > Improper Neutralization of Input During Web Page Generation vulnerability in SOKRATES-software SOWA OPAC allows a Reflected Cross-Site Scripting (XSS). An attacker might trick somebody into using a crafted URL, which will cause a script to be run in user's browser. This issue affects SOWA OPAC software in versions from 4.0 before 4.9.10, from 5.0 before 6.2.12.
 - [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-6050">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-6050">

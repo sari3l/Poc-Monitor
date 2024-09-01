@@ -2751,6 +2751,11 @@
 - [Live-Hack-CVE/CVE-2020-24987](https://github.com/Live-Hack-CVE/CVE-2020-24987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24987">
 
 ---
+## CVE-2020-24972 (2020-08-29T21:15:00)
+> The Kleopatra component before 3.1.12 (and before 20.07.80) for GnuPG allows remote attackers to execute arbitrary code because openpgp4fpr: URLs are supported without safe handling of command-line options. The Qt platformpluginpath command-line option can be used to load an arbitrary DLL.
+- [SpiralBL0CK/CVE-2020-24972](https://github.com/SpiralBL0CK/CVE-2020-24972)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2020-24972">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2020-24972">
+
+---
 ## CVE-2020-24939 (2021-06-16T16:15:00)
 > Prototype pollution in Stampit supermixer 1.0.3 allows an attacker to modify the prototype of a base object which can vary in severity depending on the implementation.
 - [Live-Hack-CVE/CVE-2020-24939](https://github.com/Live-Hack-CVE/CVE-2020-24939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24939">
