@@ -6,6 +6,11 @@
 - [yougboiz/Metasploit-CVE-2004-6768](https://github.com/yougboiz/Metasploit-CVE-2004-6768)	<img alt="forks" src="https://img.shields.io/github/forks/yougboiz/Metasploit-CVE-2004-6768">	<img alt="stars" src="https://img.shields.io/github/stars/yougboiz/Metasploit-CVE-2004-6768">
 
 ---
+## CVE-2004-2687 (2004-12-31T05:00:00)
+> distcc 2.x, as used in XCode 1.5 and others, when not configured to restrict access to the server port, allows remote attackers to execute arbitrary commands via compilation jobs, which are executed by the server without authorization checks.
+- [N3rdyN3xus/distccd_rce_CVE-2004-2687](https://github.com/N3rdyN3xus/distccd_rce_CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/N3rdyN3xus/distccd_rce_CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/N3rdyN3xus/distccd_rce_CVE-2004-2687">
+
+---
 ## CVE-2004-2271 (2004-12-31T05:00:00)
 > Buffer overflow in MiniShare 1.4.1 and earlier allows remote attackers to execute arbitrary code via a long HTTP GET request.
 - [lautarolopez4/CVE-2004-2271](https://github.com/lautarolopez4/CVE-2004-2271)	<img alt="forks" src="https://img.shields.io/github/forks/lautarolopez4/CVE-2004-2271">	<img alt="stars" src="https://img.shields.io/github/stars/lautarolopez4/CVE-2004-2271">
