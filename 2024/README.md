@@ -1100,6 +1100,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Florian-Hoth/CVE-2024-38100-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-38100-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-38100-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-38100-RCE-POC">
 
 ---
+## CVE-2024-38080 (2024-07-09T17:15:00)
+> Windows Hyper-V Elevation of Privilege Vulnerability
+- [pwndorei/CVE-2024-38080](https://github.com/pwndorei/CVE-2024-38080)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2024-38080">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2024-38080">
+
+---
 ## CVE-2024-38077 (2024-07-09T17:15:00)
 > Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
 - [CloudCrowSec001/CVE-2024-38077-POC](https://github.com/CloudCrowSec001/CVE-2024-38077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CloudCrowSec001/CVE-2024-38077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CloudCrowSec001/CVE-2024-38077-POC">
