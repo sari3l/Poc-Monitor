@@ -1244,6 +1244,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [AdminPentester/CVE-2024-38063-](https://github.com/AdminPentester/CVE-2024-38063-)	<img alt="forks" src="https://img.shields.io/github/forks/AdminPentester/CVE-2024-38063-">	<img alt="stars" src="https://img.shields.io/github/stars/AdminPentester/CVE-2024-38063-">
 - [ThemeHackers/CVE-2024-38063](https://github.com/ThemeHackers/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-38063">
 - [KernelKraze/CVE-2024-38063_PoC](https://github.com/KernelKraze/CVE-2024-38063_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/KernelKraze/CVE-2024-38063_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/KernelKraze/CVE-2024-38063_PoC">
+- [Th3Tr1ckst3r/Denyv6](https://github.com/Th3Tr1ckst3r/Denyv6)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Tr1ckst3r/Denyv6">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Tr1ckst3r/Denyv6">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
