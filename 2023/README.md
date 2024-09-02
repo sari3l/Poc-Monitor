@@ -2173,6 +2173,7 @@ The specific flaw exists within the dns_zone_editor module. The issue results fr
 
 The specific flaw exists within the smtp service, which listens on TCP port 25 by default. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of a buffer. An attacker can leverage this vulnerability to execute code in the context of the service account. Was ZDI-CAN-17434.
 - [cammclain/CVE-2023-42115](https://github.com/cammclain/CVE-2023-42115)	<img alt="forks" src="https://img.shields.io/github/forks/cammclain/CVE-2023-42115">	<img alt="stars" src="https://img.shields.io/github/stars/cammclain/CVE-2023-42115">
+- [isotaka134/cve-2023-42115](https://github.com/isotaka134/cve-2023-42115)	<img alt="forks" src="https://img.shields.io/github/forks/isotaka134/cve-2023-42115">	<img alt="stars" src="https://img.shields.io/github/stars/isotaka134/cve-2023-42115">
 
 ---
 ## CVE-2023-4208 (2023-09-06T14:15:00)
