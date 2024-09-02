@@ -1622,6 +1622,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [pentestfunctions/BlueDucky](https://github.com/pentestfunctions/BlueDucky)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/BlueDucky">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/BlueDucky">
 - [Eason-zz/BluetoothDucky](https://github.com/Eason-zz/BluetoothDucky)	<img alt="forks" src="https://img.shields.io/github/forks/Eason-zz/BluetoothDucky">	<img alt="stars" src="https://img.shields.io/github/stars/Eason-zz/BluetoothDucky">
 - [AvishekDhakal/CVE-2023-45866_EXPLOITS](https://github.com/AvishekDhakal/CVE-2023-45866_EXPLOITS)	<img alt="forks" src="https://img.shields.io/github/forks/AvishekDhakal/CVE-2023-45866_EXPLOITS">	<img alt="stars" src="https://img.shields.io/github/stars/AvishekDhakal/CVE-2023-45866_EXPLOITS">
+- [cisnarfu/Bluepop](https://github.com/cisnarfu/Bluepop)	<img alt="forks" src="https://img.shields.io/github/forks/cisnarfu/Bluepop">	<img alt="stars" src="https://img.shields.io/github/stars/cisnarfu/Bluepop">
 
 ---
 ## CVE-2023-45857 (2023-11-08T21:15:00)
