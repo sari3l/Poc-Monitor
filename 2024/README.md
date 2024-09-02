@@ -85,6 +85,7 @@
 > Commands can be injected over the network and executed without authentication.
 - [K3ysTr0K3R/CVE-2024-7029-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-7029-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-7029-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-7029-EXPLOIT">
 - [bigherocenter/CVE-2024-7029-EXPLOIT](https://github.com/bigherocenter/CVE-2024-7029-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/bigherocenter/CVE-2024-7029-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/bigherocenter/CVE-2024-7029-EXPLOIT">
+- [ebrasha/CVE-2024-7029](https://github.com/ebrasha/CVE-2024-7029)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/CVE-2024-7029">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/CVE-2024-7029">
 
 ---
 ## CVE-2024-6893 (2024-08-08T00:15:00)
