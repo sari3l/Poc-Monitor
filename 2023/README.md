@@ -5583,6 +5583,11 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [Zeyad-Azima/CVE-2023-26818](https://github.com/Zeyad-Azima/CVE-2023-26818)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2023-26818">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2023-26818">
 
 ---
+## CVE-2023-26785 ()
+> 
+- [Ant1sec-ops/CVE-2023-26785](https://github.com/Ant1sec-ops/CVE-2023-26785)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2023-26785">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2023-26785">
+
+---
 ## CVE-2023-26692 (2023-03-30T20:15:00)
 > ZCBS Zijper Collectie Beheer Systeem (ZCBS), Zijper Publication Management System (ZPBS), and Zijper Image Bank Management System (ZBBS) 4.14k is vulnerable to Cross Site Scripting (XSS).
 - [bigzooooz/CVE-2023-26692](https://github.com/bigzooooz/CVE-2023-26692)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2023-26692">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2023-26692">
