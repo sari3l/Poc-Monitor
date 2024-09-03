@@ -5371,6 +5371,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0023 (2024-02-16T20:15:00)
 > In ConvertRGBToPlanarYUV of Codec2BufferUtils.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [AbrarKhan/G3_Frameworks_av_CVE-2024-0023](https://github.com/AbrarKhan/G3_Frameworks_av_CVE-2024-0023)	<img alt="forks" src="https://img.shields.io/github/forks/AbrarKhan/G3_Frameworks_av_CVE-2024-0023">	<img alt="stars" src="https://img.shields.io/github/stars/AbrarKhan/G3_Frameworks_av_CVE-2024-0023">
+- [Aakashmom/frameworks_av_android10_r33_CVE-2024-0023](https://github.com/Aakashmom/frameworks_av_android10_r33_CVE-2024-0023)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/frameworks_av_android10_r33_CVE-2024-0023">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/frameworks_av_android10_r33_CVE-2024-0023">
 
 ---
 ## CVE-2024-0015 (2024-02-16T19:15:00)
