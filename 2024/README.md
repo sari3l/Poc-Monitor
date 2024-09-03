@@ -3762,6 +3762,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-24816">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-24816">
 
 ---
+## CVE-2024-24809 (2024-04-10T15:16:00)
+> Traccar is an open source GPS tracking system. Versions prior to 6.0 are vulnerable to path traversal and unrestricted upload of file with dangerous type. Since the system allows registration by default, attackers can acquire ordinary user permissions by registering an account and exploit this vulnerability to upload files with the prefix `device.` under any folder. Attackers can use this vulnerability for phishing, cross-site scripting attacks, and potentially execute arbitrary commands on the server. Version 6.0 contains a patch for the issue.
+- [fa-rrel/CVE-2024-24809-Proof-of-concept](https://github.com/fa-rrel/CVE-2024-24809-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-24809-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-24809-Proof-of-concept">
+
+---
 ## CVE-2024-24787 (2024-05-08T16:15:00)
 > On Darwin, building a Go module which contains CGO can trigger arbitrary code execution when using the Apple version of ld, due to usage of the -lto_library flag in a "#cgo LDFLAGS" directive.
 - [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-24787-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-24787-PoC">
