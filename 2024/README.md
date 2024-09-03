@@ -602,6 +602,27 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [0xbhsu/CVE-2024-45058](https://github.com/0xbhsu/CVE-2024-45058)	<img alt="forks" src="https://img.shields.io/github/forks/0xbhsu/CVE-2024-45058">	<img alt="stars" src="https://img.shields.io/github/stars/0xbhsu/CVE-2024-45058">
 
 ---
+## CVE-2024-44947 (2024-09-02T18:15:00)
+> In the Linux kernel, the following vulnerability has been resolved:
+
+fuse: Initialize beyond-EOF page contents before setting uptodate
+
+fuse_notify_store(), unlike fuse_do_readpage(), does not enable page
+zeroing (because it can be used to change partial page contents).
+
+So fuse_notify_store() must be more careful to fully initialize page
+contents (including parts of the page that are beyond end-of-file)
+before marking the page uptodate.
+
+The current code can leave beyond-EOF page contents uninitialized, which
+makes these uninitialized page contents visible to userspace via mmap().
+
+This is an information leak, but only affects systems which do not
+enable init-on-alloc (via CONFIG_INIT_ON_ALLOC_DEFAULT_ON=y or the
+corresponding kernel command line parameter).
+- [Abdurahmon3236/CVE-2024-44947](https://github.com/Abdurahmon3236/CVE-2024-44947)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-44947">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-44947">
+
+---
 ## CVE-2024-44946 (2024-08-31T14:15:00)
 > In the Linux kernel, the following vulnerability has been resolved:
 
