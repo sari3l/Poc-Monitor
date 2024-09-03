@@ -1915,6 +1915,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [codeb0ss/CVE-2024-33544-PoC](https://github.com/codeb0ss/CVE-2024-33544-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-33544-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-33544-PoC">
 
 ---
+## CVE-2024-33453 ()
+> 
+- [Ant1sec-ops/CVE-2024-33453](https://github.com/Ant1sec-ops/CVE-2024-33453)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-33453">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-33453">
+
+---
 ## CVE-2024-33438 (2024-04-29T18:15:00)
 > File Upload vulnerability in CubeCart before 6.5.5 allows an authenticated user to execute arbitrary code via a crafted .phar file.
 - [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-33438">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-33438">
@@ -2464,6 +2469,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-30896 ()
 > 
 - [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896)	<img alt="forks" src="https://img.shields.io/github/forks/XenoM0rph97/CVE-2024-30896">	<img alt="stars" src="https://img.shields.io/github/stars/XenoM0rph97/CVE-2024-30896">
+
+---
+## CVE-2024-30875 ()
+> 
+- [Ant1sec-ops/CVE-2024-30875](https://github.com/Ant1sec-ops/CVE-2024-30875)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-30875">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-30875">
 
 ---
 ## CVE-2024-30851 (2024-05-03T17:15:00)
