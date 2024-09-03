@@ -3264,6 +3264,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804)	<img alt="forks" src="https://img.shields.io/github/forks/R00tkitSMM/CVE-2024-27804">	<img alt="stars" src="https://img.shields.io/github/stars/R00tkitSMM/CVE-2024-27804">
 
 ---
+## CVE-2024-27766 ()
+> 
+- [Ant1sec-ops/CVE-2024-27766](https://github.com/Ant1sec-ops/CVE-2024-27766)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-27766">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-27766">
+
+---
 ## CVE-2024-27697 ()
 > 
 - [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697)	<img alt="forks" src="https://img.shields.io/github/forks/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">	<img alt="stars" src="https://img.shields.io/github/stars/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">

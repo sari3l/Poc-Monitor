@@ -2674,6 +2674,11 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39707">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39707">
 
 ---
+## CVE-2023-39593 ()
+> 
+- [Ant1sec-ops/CVE-2023-39593](https://github.com/Ant1sec-ops/CVE-2023-39593)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2023-39593">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2023-39593">
+
+---
 ## CVE-2023-39539 (2023-12-06T16:15:00)
 > 
 AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestricted upload of a PNG Logo file with dangerous type by Local access. A successful exploit of this vulnerability may lead to a loss of Confidentiality, Integrity, and/or Availability. 
