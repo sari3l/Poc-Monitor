@@ -3497,6 +3497,27 @@
 - [Live-Hack-CVE/CVE-2020-17049](https://github.com/Live-Hack-CVE/CVE-2020-17049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17049">
 
 ---
+## CVE-2020-16898 (2020-10-16T23:15:00)
+> <p>A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets. An attacker who successfully exploited this vulnerability could gain the ability to execute code on the target server or client.</p>
+<p>To exploit this vulnerability, an attacker would have to send specially crafted ICMPv6 Router Advertisement packets to a remote Windows computer.</p>
+<p>The update addresses the vulnerability by correcting how the Windows TCP/IP stack handles ICMPv6 Router Advertisement packets.</p>
+
+- [corelight/CVE-2020-16898](https://github.com/corelight/CVE-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2020-16898">
+- [komomon/CVE-2020-16898--EXP-POC](https://github.com/komomon/CVE-2020-16898--EXP-POC)	<img alt="forks" src="https://img.shields.io/github/forks/komomon/CVE-2020-16898--EXP-POC">	<img alt="stars" src="https://img.shields.io/github/stars/komomon/CVE-2020-16898--EXP-POC">
+- [komomon/CVE-2020-16898-EXP-POC](https://github.com/komomon/CVE-2020-16898-EXP-POC)	<img alt="forks" src="https://img.shields.io/github/forks/komomon/CVE-2020-16898-EXP-POC">	<img alt="stars" src="https://img.shields.io/github/stars/komomon/CVE-2020-16898-EXP-POC">
+- [advanced-threat-research/CVE-2020-16898](https://github.com/advanced-threat-research/CVE-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/advanced-threat-research/CVE-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/advanced-threat-research/CVE-2020-16898">
+- [initconf/CVE-2020-16898-Bad-Neighbor](https://github.com/initconf/CVE-2020-16898-Bad-Neighbor)	<img alt="forks" src="https://img.shields.io/github/forks/initconf/CVE-2020-16898-Bad-Neighbor">	<img alt="stars" src="https://img.shields.io/github/stars/initconf/CVE-2020-16898-Bad-Neighbor">
+- [CPO-EH/CVE-2020-16898_Checker](https://github.com/CPO-EH/CVE-2020-16898_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/CPO-EH/CVE-2020-16898_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/CPO-EH/CVE-2020-16898_Checker">
+- [CPO-EH/CVE-2020-16898_Workaround](https://github.com/CPO-EH/CVE-2020-16898_Workaround)	<img alt="forks" src="https://img.shields.io/github/forks/CPO-EH/CVE-2020-16898_Workaround">	<img alt="stars" src="https://img.shields.io/github/stars/CPO-EH/CVE-2020-16898_Workaround">
+- [momika233/CVE-2020-16898-exp](https://github.com/momika233/CVE-2020-16898-exp)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2020-16898-exp">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2020-16898-exp">
+- [jiansiting/cve-2020-16898](https://github.com/jiansiting/cve-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/jiansiting/cve-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/jiansiting/cve-2020-16898">
+- [0xeb-bp/cve-2020-16898](https://github.com/0xeb-bp/cve-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/0xeb-bp/cve-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/0xeb-bp/cve-2020-16898">
+- [Q1984/CVE-2020-16898](https://github.com/Q1984/CVE-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/Q1984/CVE-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/Q1984/CVE-2020-16898">
+- [Maliek/CVE-2020-16898_Check](https://github.com/Maliek/CVE-2020-16898_Check)	<img alt="forks" src="https://img.shields.io/github/forks/Maliek/CVE-2020-16898_Check">	<img alt="stars" src="https://img.shields.io/github/stars/Maliek/CVE-2020-16898_Check">
+- [esnet-security/cve-2020-16898](https://github.com/esnet-security/cve-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/esnet-security/cve-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/esnet-security/cve-2020-16898">
+- [ZephrFish/CVE-2020-16898](https://github.com/ZephrFish/CVE-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2020-16898">
+
+---
 ## CVE-2020-16593 (2020-12-09T21:15:00)
 > A Null Pointer Dereference vulnerability exists in the Binary File Descriptor (BFD) library (aka libbfd), as distributed in GNU Binutils 2.35, in scan_unit_for_symbols, as demonstrated in addr2line, that can cause a denial of service via a crafted file.
 - [Live-Hack-CVE/CVE-2020-16593](https://github.com/Live-Hack-CVE/CVE-2020-16593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16593">

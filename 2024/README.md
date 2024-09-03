@@ -1701,8 +1701,8 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2024-34469">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2024-34469">
 
 ---
-## CVE-2024-34463 ()
-> 
+## CVE-2024-34463 (2024-09-03T14:15:00)
+> BPL Personal Weighing Scale PWS-01BT IND/09/18/599 devices send sensitive information in unencrypted BLE packets. (The packet data also lacks authentication and integrity protection.)
 - [yash-chandna/CVE-2024-34463](https://github.com/yash-chandna/CVE-2024-34463)	<img alt="forks" src="https://img.shields.io/github/forks/yash-chandna/CVE-2024-34463">	<img alt="stars" src="https://img.shields.io/github/stars/yash-chandna/CVE-2024-34463">
 
 ---
