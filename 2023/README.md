@@ -2145,6 +2145,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [VanishedPeople/CVE-2023-4220](https://github.com/VanishedPeople/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/VanishedPeople/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/VanishedPeople/CVE-2023-4220">
 - [thefizzyfish/CVE-2023-4220](https://github.com/thefizzyfish/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/thefizzyfish/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/thefizzyfish/CVE-2023-4220">
 - [qrxnz/CVE-2023-4220](https://github.com/qrxnz/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/qrxnz/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/qrxnz/CVE-2023-4220">
+- [0x00-null/-Chamilo-CVE-2023-4220-RCE-Exploit](https://github.com/0x00-null/-Chamilo-CVE-2023-4220-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-null/-Chamilo-CVE-2023-4220-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-null/-Chamilo-CVE-2023-4220-RCE-Exploit">
 
 ---
 ## CVE-2023-422 ()
@@ -5679,6 +5680,11 @@ that it would cause a Denial of Service, so these versions are considered
 not affected by this issue in such a way that it would be cause for concern,
 and the severity is therefore considered low.
 - [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">
+
+---
+## CVE-2023-2648 (2023-05-11T08:15:00)
+> A vulnerability was found in Weaver E-Office 9.5. It has been classified as critical. This affects an unknown part of the file /inc/jquery/uploadify/uploadify.php. The manipulation of the argument Filedata leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-228777 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
+- [inviewp/-E-Office_CVE-2023-2648](https://github.com/inviewp/-E-Office_CVE-2023-2648)	<img alt="forks" src="https://img.shields.io/github/forks/inviewp/-E-Office_CVE-2023-2648">	<img alt="stars" src="https://img.shields.io/github/stars/inviewp/-E-Office_CVE-2023-2648">
 
 ---
 ## CVE-2023-26469 (2023-08-17T19:15:00)
