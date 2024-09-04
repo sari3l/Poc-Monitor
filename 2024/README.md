@@ -855,8 +855,8 @@ Allocated by task 6166:
 - [sudo-subho/CVE-2024-42657](https://github.com/sudo-subho/CVE-2024-42657)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/CVE-2024-42657">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/CVE-2024-42657">
 
 ---
-## CVE-2024-42642 ()
-> 
+## CVE-2024-42642 (2024-09-04T20:15:00)
+> Micron Crucial MX500 Series Solid State Drives M3CR046 is vulnerable to Buffer Overflow, which can be triggered by sending specially crafted ATA packets from the host to the drive controller.
 - [VL4DR/CVE-2024-42642](https://github.com/VL4DR/CVE-2024-42642)	<img alt="forks" src="https://img.shields.io/github/forks/VL4DR/CVE-2024-42642">	<img alt="stars" src="https://img.shields.io/github/stars/VL4DR/CVE-2024-42642">
 
 ---
