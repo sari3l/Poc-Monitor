@@ -7691,6 +7691,11 @@
 - [kiri-48/CVE-2021-22986](https://github.com/kiri-48/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/kiri-48/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/kiri-48/CVE-2021-22986">
 
 ---
+## CVE-2021-22954 (2022-02-09T23:15:00)
+> A cross-site request forgery vulnerability exists in Concrete CMS <v9 that could allow an attacker to make requests on behalf of other users.
+- [kloutkake/CVE-2021-22954-PoC](https://github.com/kloutkake/CVE-2021-22954-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kloutkake/CVE-2021-22954-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kloutkake/CVE-2021-22954-PoC">
+
+---
 ## CVE-2021-22940 (2021-08-16T19:15:00)
 > Node.js before 16.6.1, 14.17.5, and 12.22.5 is vulnerable to a use after free attack where an attacker might be able to exploit the memory corruption, to change process behavior.
 - [Live-Hack-CVE/CVE-2021-22940](https://github.com/Live-Hack-CVE/CVE-2021-22940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22940">
