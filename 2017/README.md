@@ -398,6 +398,9 @@
 - [colorblindpentester/CVE-2017-5638](https://github.com/colorblindpentester/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/colorblindpentester/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/colorblindpentester/CVE-2017-5638">
 - [FredBrave/CVE-2017-5638-ApacheStruts2.3.5](https://github.com/FredBrave/CVE-2017-5638-ApacheStruts2.3.5)	<img alt="forks" src="https://img.shields.io/github/forks/FredBrave/CVE-2017-5638-ApacheStruts2.3.5">	<img alt="stars" src="https://img.shields.io/github/stars/FredBrave/CVE-2017-5638-ApacheStruts2.3.5">
 - [jrrombaldo/CVE-2017-5638](https://github.com/jrrombaldo/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/jrrombaldo/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/jrrombaldo/CVE-2017-5638">
+- [kloutkake/CVE-2017-5638-PoC](https://github.com/kloutkake/CVE-2017-5638-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kloutkake/CVE-2017-5638-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kloutkake/CVE-2017-5638-PoC">
+- [Nithylesh/web-application-firewall-](https://github.com/Nithylesh/web-application-firewall-)	<img alt="forks" src="https://img.shields.io/github/forks/Nithylesh/web-application-firewall-">	<img alt="stars" src="https://img.shields.io/github/stars/Nithylesh/web-application-firewall-">
+- [xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability](https://github.com/xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability">
 
 ---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
