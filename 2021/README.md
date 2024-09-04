@@ -7694,6 +7694,7 @@
 ## CVE-2021-22954 (2022-02-09T23:15:00)
 > A cross-site request forgery vulnerability exists in Concrete CMS <v9 that could allow an attacker to make requests on behalf of other users.
 - [kloutkake/CVE-2021-22954-PoC](https://github.com/kloutkake/CVE-2021-22954-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kloutkake/CVE-2021-22954-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kloutkake/CVE-2021-22954-PoC">
+- [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/VcenterKiller">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/VcenterKiller">
 
 ---
 ## CVE-2021-22940 (2021-08-16T19:15:00)
