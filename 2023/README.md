@@ -5868,6 +5868,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-25573-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-25573-PoC">
 
 ---
+## CVE-2023-25355 (2023-04-04T13:15:00)
+> CoreDial sipXcom up to and including 21.04 is vulnerable to Insecure Permissions. A user who has the ability to run commands as the `daemon` user on a sipXcom server can overwrite a service file, and escalate their privileges to `root`.
+- [glefait/CVE-2023-25355-25356](https://github.com/glefait/CVE-2023-25355-25356)	<img alt="forks" src="https://img.shields.io/github/forks/glefait/CVE-2023-25355-25356">	<img alt="stars" src="https://img.shields.io/github/stars/glefait/CVE-2023-25355-25356">
+
+---
 ## CVE-2023-25292 (2023-04-27T01:15:00)
 > Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie.
 - [brainkok/CVE-2023-25292](https://github.com/brainkok/CVE-2023-25292)	<img alt="forks" src="https://img.shields.io/github/forks/brainkok/CVE-2023-25292">	<img alt="stars" src="https://img.shields.io/github/stars/brainkok/CVE-2023-25292">
