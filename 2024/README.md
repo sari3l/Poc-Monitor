@@ -760,6 +760,7 @@ Allocated by task 6166:
 - [UnHackerEnCapital/PDFernetRemotelo](https://github.com/UnHackerEnCapital/PDFernetRemotelo)	<img alt="forks" src="https://img.shields.io/github/forks/UnHackerEnCapital/PDFernetRemotelo">	<img alt="stars" src="https://img.shields.io/github/stars/UnHackerEnCapital/PDFernetRemotelo">
 - [snyk-labs/pdfjs-vuln-demo](https://github.com/snyk-labs/pdfjs-vuln-demo)	<img alt="forks" src="https://img.shields.io/github/forks/snyk-labs/pdfjs-vuln-demo">	<img alt="stars" src="https://img.shields.io/github/stars/snyk-labs/pdfjs-vuln-demo">
 - [zalomkiller/poc_CVE-2024-4367](https://github.com/zalomkiller/poc_CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/zalomkiller/poc_CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/zalomkiller/poc_CVE-2024-4367">
+- [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/CVE-2024-4367-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/CVE-2024-4367-Analysis">
 
 ---
 ## CVE-2024-4358 (2024-05-29T15:16:00)
