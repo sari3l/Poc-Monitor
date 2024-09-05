@@ -3119,6 +3119,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [muhammetali20/CVE-2024-28995](https://github.com/muhammetali20/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/muhammetali20/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/muhammetali20/CVE-2024-28995">
 
 ---
+## CVE-2024-28987 (2024-08-21T22:15:00)
+> The SolarWinds Web Help Desk (WHD) software is affected by a hardcoded credential vulnerability, allowing remote unauthenticated user to access internal functionality and modify data.
+- [fa-rrel/CVE-2024-28987-POC](https://github.com/fa-rrel/CVE-2024-28987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-28987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-28987-POC">
+
+---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
 > Forminator prior to 1.29.0 contains an unrestricted upload of file with dangerous type vulnerability. If this vulnerability is exploited, a remote attacker may obtain sensitive information by accessing files on the server, alter the site that uses the plugin, and cause a denial-of-service (DoS) condition. 
 - [RHYru9/CVE-2024-28890-checker](https://github.com/RHYru9/CVE-2024-28890-checker)	<img alt="forks" src="https://img.shields.io/github/forks/RHYru9/CVE-2024-28890-checker">	<img alt="stars" src="https://img.shields.io/github/stars/RHYru9/CVE-2024-28890-checker">
