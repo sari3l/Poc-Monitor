@@ -717,6 +717,11 @@ Allocated by task 6166:
 - [Abdurahmon3236/CVE-2024-44946](https://github.com/Abdurahmon3236/CVE-2024-44946)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-44946">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-44946">
 
 ---
+## CVE-2024-44902 ()
+> 
+- [fru1ts/CVE-2024-44902](https://github.com/fru1ts/CVE-2024-44902)	<img alt="forks" src="https://img.shields.io/github/forks/fru1ts/CVE-2024-44902">	<img alt="stars" src="https://img.shields.io/github/stars/fru1ts/CVE-2024-44902">
+
+---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
 > The The Plus Addons for Elementor – Elementor Addons, Page Templates, Widgets, Mega Menu, WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘xai_username’ parameter in versions up to, and including, 5.5.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with contributor-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-4484">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-4484">
