@@ -1307,8 +1307,8 @@ QuTScloud c5.1.5.2651 and later
 - [quantiano/cve-2023-47103](https://github.com/quantiano/cve-2023-47103)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47103">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47103">
 
 ---
-## CVE-2023-47102 ()
-> 
+## CVE-2023-47102 (2023-11-07T06:15:00)
+> UrBackup Server 2.5.31 allows brute-force enumeration of user accounts because a failure message confirms that a username is not valid.
 - [quantiano/cve-2023-47102](https://github.com/quantiano/cve-2023-47102)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47102">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47102">
 - [nitipoom-jar/CVE-2023-47102](https://github.com/nitipoom-jar/CVE-2023-47102)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47102">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47102">
 
@@ -1457,8 +1457,8 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [infokek/activemq-honeypot](https://github.com/infokek/activemq-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/infokek/activemq-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/infokek/activemq-honeypot">
 
 ---
-## CVE-2023-46501 ()
-> 
+## CVE-2023-46501 (2023-11-07T18:15:00)
+> An issue in BoltWire v.6.03 allows a remote attacker to obtain sensitive information via a crafted payload to the view and change admin password function.
 - [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-46501">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-46501">
 
 ---
@@ -2392,8 +2392,8 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content](https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content)	<img alt="forks" src="https://img.shields.io/github/forks/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content">	<img alt="stars" src="https://img.shields.io/github/stars/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content">
 
 ---
-## CVE-2023-41425 ()
-> 
+## CVE-2023-41425 (2023-11-07T16:15:00)
+> Cross Site Scripting vulnerability in Wonder CMS v.3.2.0 thru v.3.4.2 allows a remote attacker to execute arbitrary code via a crafted script uploaded to the installModule component.
 - [prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/prodigiousMind/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/prodigiousMind/CVE-2023-41425">
 - [charlesgargasson/CVE-2023-41425](https://github.com/charlesgargasson/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2023-41425">
 - [insomnia-jacob/CVE-2023-41425](https://github.com/insomnia-jacob/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/insomnia-jacob/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/insomnia-jacob/CVE-2023-41425">
@@ -4265,8 +4265,8 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [wushigudan/CVE-2023-33517](https://github.com/wushigudan/CVE-2023-33517)	<img alt="forks" src="https://img.shields.io/github/forks/wushigudan/CVE-2023-33517">	<img alt="stars" src="https://img.shields.io/github/stars/wushigudan/CVE-2023-33517">
 
 ---
-## CVE-2023-33480 ()
-> 
+## CVE-2023-33480 (2023-11-07T15:15:00)
+> RemoteClinic 2.0 contains a critical vulnerability chain that can be exploited by a remote attacker with low-privileged user credentials to create admin users, escalate privileges, and execute arbitrary code on the target system via a PHP shell. The vulnerabilities are caused by a lack of input validation and access control in the staff/register.php endpoint and the edit-my-profile.php page. By sending a series of specially crafted requests to the RemoteClinic application, an attacker can create admin users with more privileges than their own, upload a PHP file containing arbitrary code, and execute arbitrary commands via the PHP shell.
 - [amirhosseinbahramizadeh/CVE-2023-33480](https://github.com/amirhosseinbahramizadeh/CVE-2023-33480)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinbahramizadeh/CVE-2023-33480">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinbahramizadeh/CVE-2023-33480">
 
 ---
