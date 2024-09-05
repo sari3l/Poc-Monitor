@@ -5227,6 +5227,54 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0844">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0844">
 
 ---
+## CVE-2024-0762 (2024-05-14T16:15:00)
+> Potential buffer overflow 
+in unsafe UEFI variable handling 
+
+in Phoenix SecureCore™ for select Intel platforms
+
+This issue affects:
+
+Phoenix 
+
+SecureCore™ for Intel Kaby Lake: from 4.0.1.1 before 4.0.1.998;
+
+Phoenix 
+
+SecureCore™ for Intel Coffee Lake: from 4.1.0.1 before 4.1.0.562;
+
+Phoenix 
+
+SecureCore™ for Intel Ice Lake: from 4.2.0.1 before 4.2.0.323;
+
+Phoenix 
+
+SecureCore™ for Intel Comet Lake: from 4.2.1.1 before 4.2.1.287;
+
+Phoenix 
+
+SecureCore™ for Intel Tiger Lake: from 4.3.0.1 before 4.3.0.236;
+
+Phoenix 
+
+SecureCore™ for Intel Jasper Lake: from 4.3.1.1 before 4.3.1.184;
+
+Phoenix 
+
+SecureCore™ for Intel Alder Lake: from 4.4.0.1 before 4.4.0.269;
+
+Phoenix 
+
+SecureCore™ for Intel Raptor Lake: from 4.5.0.1 before 4.5.0.218;
+
+Phoenix 
+
+SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
+
+
+- [tadash10/Detect-CVE-2024-0762](https://github.com/tadash10/Detect-CVE-2024-0762)	<img alt="forks" src="https://img.shields.io/github/forks/tadash10/Detect-CVE-2024-0762">	<img alt="stars" src="https://img.shields.io/github/stars/tadash10/Detect-CVE-2024-0762">
+
+---
 ## CVE-2024-0757 (2024-06-04T06:15:00)
 > The Insert or Embed Articulate Content into WordPress plugin through 4.3000000023 is not properly filtering which file extensions are allowed to be imported on the server, allowing the uploading of malicious code within zip files
 - [hunThubSpace/CVE-2024-0757](https://github.com/hunThubSpace/CVE-2024-0757)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-0757">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-0757">
