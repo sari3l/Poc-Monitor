@@ -2844,6 +2844,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [blkph0x/CVE_2024_30078_POC_WIFI](https://github.com/blkph0x/CVE_2024_30078_POC_WIFI)	<img alt="forks" src="https://img.shields.io/github/forks/blkph0x/CVE_2024_30078_POC_WIFI">	<img alt="stars" src="https://img.shields.io/github/stars/blkph0x/CVE_2024_30078_POC_WIFI">
 
 ---
+## CVE-2024-30051 (2024-05-14T17:17:00)
+> Windows DWM Core Library Elevation of Privilege Vulnerability
+- [fortra/CVE-2024-30051](https://github.com/fortra/CVE-2024-30051)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2024-30051">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2024-30051">
+
+---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
 > Microsoft SharePoint Server Information Disclosure Vulnerability
 - [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-30043-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-30043-XXE">
