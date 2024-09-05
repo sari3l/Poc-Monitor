@@ -5341,6 +5341,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-0519-Chrome-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-0519-Chrome-exploit">
 
 ---
+## CVE-2024-0507 (2024-01-16T19:15:00)
+> An attacker with access to a Management Console user account with the editor role could escalate privileges through a command injection vulnerability in the Management Console. This vulnerability affected all versions of GitHub Enterprise Server and was fixed in versions 3.11.3, 3.10.5, 3.9.8, and 3.8.13 This vulnerability was reported via the GitHub Bug Bounty program.
+- [convisolabs/CVE-2024-0507_CVE-2024-0200-github](https://github.com/convisolabs/CVE-2024-0507_CVE-2024-0200-github)	<img alt="forks" src="https://img.shields.io/github/forks/convisolabs/CVE-2024-0507_CVE-2024-0200-github">	<img alt="stars" src="https://img.shields.io/github/stars/convisolabs/CVE-2024-0507_CVE-2024-0200-github">
+
+---
 ## CVE-2024-0402 (2024-01-26T01:15:00)
 > An issue has been discovered in GitLab CE/EE affecting all versions from 16.0 prior to 16.6.6, 16.7 prior to 16.7.4, and 16.8 prior to 16.8.1 which allows an authenticated user to write files to arbitrary locations on the GitLab server while creating a workspace.
 - [ch4nui/CVE-2024-0402-RCE](https://github.com/ch4nui/CVE-2024-0402-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ch4nui/CVE-2024-0402-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ch4nui/CVE-2024-0402-RCE">
