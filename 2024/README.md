@@ -756,7 +756,7 @@ Allocated by task 6166:
 ---
 ## CVE-2024-44000 ()
 > 
-- [absholi7ly/LiteSpeed-Cache-CVE-2024-44000-](https://github.com/absholi7ly/LiteSpeed-Cache-CVE-2024-44000-)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/LiteSpeed-Cache-CVE-2024-44000-">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/LiteSpeed-Cache-CVE-2024-44000-">
+- [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2024-44000-LiteSpeed-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2024-44000-LiteSpeed-Cache">
 
 ---
 ## CVE-2024-4367 (2024-05-14T18:15:00)
