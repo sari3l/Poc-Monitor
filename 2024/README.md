@@ -735,6 +735,7 @@ Allocated by task 6166:
 ## CVE-2024-44450 ()
 > 
 - [VoidSecOrg/CVE-2024-44450](https://github.com/VoidSecOrg/CVE-2024-44450)	<img alt="forks" src="https://img.shields.io/github/forks/VoidSecOrg/CVE-2024-44450">	<img alt="stars" src="https://img.shields.io/github/stars/VoidSecOrg/CVE-2024-44450">
+- [VoidSecOrg/CVE-2024-44450](https://github.com/VoidSecOrg/CVE-2024-44450)	<img alt="forks" src="https://img.shields.io/github/forks/VoidSecOrg/CVE-2024-44450">	<img alt="stars" src="https://img.shields.io/github/stars/VoidSecOrg/CVE-2024-44450">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
