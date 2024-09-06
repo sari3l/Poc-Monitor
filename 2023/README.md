@@ -4808,6 +4808,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 
 - [griffinsectio/CVE-2023-30800_PoC](https://github.com/griffinsectio/CVE-2023-30800_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/griffinsectio/CVE-2023-30800_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/griffinsectio/CVE-2023-30800_PoC">
 - [griffinsectio/CVE-2023-30800_PoC_go](https://github.com/griffinsectio/CVE-2023-30800_PoC_go)	<img alt="forks" src="https://img.shields.io/github/forks/griffinsectio/CVE-2023-30800_PoC_go">	<img alt="stars" src="https://img.shields.io/github/stars/griffinsectio/CVE-2023-30800_PoC_go">
+- [KhogenTheRabbit/cve-2023-30800-multithread-ddoser](https://github.com/KhogenTheRabbit/cve-2023-30800-multithread-ddoser)	<img alt="forks" src="https://img.shields.io/github/forks/KhogenTheRabbit/cve-2023-30800-multithread-ddoser">	<img alt="stars" src="https://img.shields.io/github/stars/KhogenTheRabbit/cve-2023-30800-multithread-ddoser">
 
 ---
 ## CVE-2023-3079 (2023-06-05T22:15:00)
