@@ -11,6 +11,13 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-8517 (2024-09-06T16:15:00)
+> SPIP before 4.3.2, 4.2.16, and 
+4.1.18 is vulnerable to a command injection issue. A 
+remote and unauthenticated attacker can execute arbitrary operating system commands by sending a crafted multipart file upload HTTP request.
+- [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8517">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8517">
+
+---
 ## CVE-2024-81757 ()
 > 
 - [AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61](https://github.com/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">
