@@ -2936,8 +2936,8 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [DEVisions/CVE-2024-29868](https://github.com/DEVisions/CVE-2024-29868)	<img alt="forks" src="https://img.shields.io/github/forks/DEVisions/CVE-2024-29868">	<img alt="stars" src="https://img.shields.io/github/stars/DEVisions/CVE-2024-29868">
 
 ---
-## CVE-2024-29863 ()
-> 
+## CVE-2024-29863 (2024-04-05T07:15:00)
+> A race condition in the installer executable in Qlik Qlikview before versions May 2022 SR3 (12.70.20300) and May 2023 SR2 (12,80.20200) may allow an existing lower privileged user to cause code to be executed in the context of a Windows Administrator.
 - [pawlokk/qlikview-poc-CVE-2024-29863](https://github.com/pawlokk/qlikview-poc-CVE-2024-29863)	<img alt="forks" src="https://img.shields.io/github/forks/pawlokk/qlikview-poc-CVE-2024-29863">	<img alt="stars" src="https://img.shields.io/github/stars/pawlokk/qlikview-poc-CVE-2024-29863">
 
 ---
