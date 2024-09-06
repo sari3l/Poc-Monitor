@@ -3656,6 +3656,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [ewilded/CVE-2024-25376-POC](https://github.com/ewilded/CVE-2024-25376-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-25376-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-25376-POC">
 
 ---
+## CVE-2024-25293 (2024-03-01T06:15:00)
+> mjml-app versions 3.0.4 and 3.1.0-beta were discovered to contain a remote code execution (RCE) via the href attribute.
+- [EQSTLab/CVE-2024-25293](https://github.com/EQSTLab/CVE-2024-25293)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-25293">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-25293">
+
+---
 ## CVE-2024-25281 ()
 > 
 - [sajaljat/CVE-2024-25281](https://github.com/sajaljat/CVE-2024-25281)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25281">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25281">
@@ -4063,6 +4068,16 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [ELIZEUOPAIN/CVE-2024-24034](https://github.com/ELIZEUOPAIN/CVE-2024-24034)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2024-24034">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2024-24034">
 
 ---
+## CVE-2024-23998 (2024-07-05T16:15:00)
+> goanother Another Redis Desktop Manager =<1.6.1 is vulnerable to Cross Site Scripting (XSS) via src/components/Setting.vue.
+- [EQSTLab/CVE-2024-23998](https://github.com/EQSTLab/CVE-2024-23998)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-23998">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-23998">
+
+---
+## CVE-2024-23997 (2024-07-05T16:15:00)
+> Lukas Bach yana =<1.0.16 is vulnerable to Cross Site Scripting (XSS) via src/electron-main.ts.
+- [EQSTLab/CVE-2024-23997](https://github.com/EQSTLab/CVE-2024-23997)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-23997">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-23997">
+
+---
 ## CVE-2024-23897 (2024-01-24T18:15:00)
 > Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an '@' character followed by a file path in an argument with the file's contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system.
 - [forsaken0127/CVE-2024-23897](https://github.com/forsaken0127/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0127/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0127/CVE-2024-23897">
@@ -4322,6 +4337,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-22894 (2024-01-30T10:15:00)
 > An issue in AIT-Deutschland Alpha Innotec Heatpumps wp2reg-V.3.88.0-9015 and Novelan Heatpumps wp2reg-V.3.88.0-9015, allows remote attackers to execute arbitrary code via the password component in the shadow file.
 - [Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894)	<img alt="forks" src="https://img.shields.io/github/forks/Jaarden/CVE-2024-22894">	<img alt="stars" src="https://img.shields.io/github/stars/Jaarden/CVE-2024-22894">
+
+---
+## CVE-2024-22891 (2024-03-01T06:15:00)
+> Nteract v.0.28.0 was discovered to contain a remote code execution (RCE) vulnerability via the Markdown link.
+- [EQSTLab/CVE-2024-22891](https://github.com/EQSTLab/CVE-2024-22891)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-22891">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-22891">
 
 ---
 ## CVE-2024-22890 ()
