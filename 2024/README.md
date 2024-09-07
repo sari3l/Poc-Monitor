@@ -5258,6 +5258,7 @@ authentication.   
 
 - [Chocapikk/CVE-2024-1212](https://github.com/Chocapikk/CVE-2024-1212)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-1212">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-1212">
 - [MuhammadWaseem29/CVE-2024-1212](https://github.com/MuhammadWaseem29/CVE-2024-1212)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2024-1212">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2024-1212">
+- [hack-with-rohit/CVE-2024-1212](https://github.com/hack-with-rohit/CVE-2024-1212)	<img alt="forks" src="https://img.shields.io/github/forks/hack-with-rohit/CVE-2024-1212">	<img alt="stars" src="https://img.shields.io/github/stars/hack-with-rohit/CVE-2024-1212">
 
 ---
 ## CVE-2024-1209 (2024-02-05T22:16:00)
