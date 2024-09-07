@@ -2219,6 +2219,11 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208">
 
 ---
+## CVE-2023-420 ()
+> 
+- [WiwiSinta/CVE-2023-420](https://github.com/WiwiSinta/CVE-2023-420)	<img alt="forks" src="https://img.shields.io/github/forks/WiwiSinta/CVE-2023-420">	<img alt="stars" src="https://img.shields.io/github/stars/WiwiSinta/CVE-2023-420">
+
+---
 ## CVE-2023-41993 (2023-09-21T19:15:00)
 > The issue was addressed with improved checks. This issue is fixed in Safari 17, iOS 16.7 and iPadOS 16.7, macOS Sonoma 14. Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 16.7.
 - [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/po6ix/POC-for-CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/po6ix/POC-for-CVE-2023-41993">
