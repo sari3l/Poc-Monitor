@@ -5494,6 +5494,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [Cappricio-Securities/CVE-2024-0195](https://github.com/Cappricio-Securities/CVE-2024-0195)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0195">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0195">
 - [fa-rrel/CVE-2024-0195-SpiderFlow](https://github.com/fa-rrel/CVE-2024-0195-SpiderFlow)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-0195-SpiderFlow">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-0195-SpiderFlow">
 - [MuhammadWaseem29/CVE-2024-0195-SpiderFlow](https://github.com/MuhammadWaseem29/CVE-2024-0195-SpiderFlow)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2024-0195-SpiderFlow">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2024-0195-SpiderFlow">
+- [hack-with-rohit/CVE-2024-0195-SpiderFlow](https://github.com/hack-with-rohit/CVE-2024-0195-SpiderFlow)	<img alt="forks" src="https://img.shields.io/github/forks/hack-with-rohit/CVE-2024-0195-SpiderFlow">	<img alt="stars" src="https://img.shields.io/github/stars/hack-with-rohit/CVE-2024-0195-SpiderFlow">
 
 ---
 ## CVE-2024-0193 (2024-01-02T18:15:00)
