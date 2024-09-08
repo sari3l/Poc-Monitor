@@ -1392,6 +1392,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation">
 
 ---
+## CVE-2024-37713 ()
+> 
+- [fullbbadda1208/CVE-2024-37713](https://github.com/fullbbadda1208/CVE-2024-37713)	<img alt="forks" src="https://img.shields.io/github/forks/fullbbadda1208/CVE-2024-37713">	<img alt="stars" src="https://img.shields.io/github/stars/fullbbadda1208/CVE-2024-37713">
+
+---
 ## CVE-2024-37393 (2024-06-10T20:15:00)
 > Multiple LDAP injections vulnerabilities exist in SecurEnvoy MFA before 9.4.514 due to improper validation of user-supplied input. An unauthenticated remote attacker could exfiltrate data from Active Directory through blind LDAP injection attacks against the DESKTOP service exposed on the /secserver HTTP endpoint. This may include ms-Mcs-AdmPwd, which has a cleartext password for the Local Administrator Password Solution (LAPS) feature.
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
