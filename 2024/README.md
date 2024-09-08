@@ -3094,6 +3094,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [Chocapikk/CVE-2024-29269](https://github.com/Chocapikk/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-29269">
 - [Jhonsonwannaa/CVE-2024-29269](https://github.com/Jhonsonwannaa/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-29269">
 - [K3ysTr0K3R/CVE-2024-29269-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-29269-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">
+- [hack-with-rohit/CVE-2024-29269-RCE](https://github.com/hack-with-rohit/CVE-2024-29269-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hack-with-rohit/CVE-2024-29269-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hack-with-rohit/CVE-2024-29269-RCE">
 
 ---
 ## CVE-2024-29201 (2024-03-29T15:15:00)
