@@ -3314,6 +3314,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Useems/CVE-2024-28000-PoC](https://github.com/Useems/CVE-2024-28000-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Useems/CVE-2024-28000-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Useems/CVE-2024-28000-PoC">
 - [ebrasha/CVE-2024-28000](https://github.com/ebrasha/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/CVE-2024-28000">
 - [arch1m3d/CVE-2024-28000](https://github.com/arch1m3d/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/arch1m3d/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/arch1m3d/CVE-2024-28000">
+- [SSSSuperX/CVE-2024-28000](https://github.com/SSSSuperX/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/SSSSuperX/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/SSSSuperX/CVE-2024-28000">
 
 ---
 ## CVE-2024-27983 (2024-04-09T01:15:00)
