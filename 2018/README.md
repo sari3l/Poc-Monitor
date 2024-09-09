@@ -1248,7 +1248,7 @@
 - [BTtea/CVE-2018-14714-POC](https://github.com/BTtea/CVE-2018-14714-POC)	<img alt="forks" src="https://img.shields.io/github/forks/BTtea/CVE-2018-14714-POC">	<img alt="stars" src="https://img.shields.io/github/stars/BTtea/CVE-2018-14714-POC">
 - [tin-z/CVE-2018-14714-POC](https://github.com/tin-z/CVE-2018-14714-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2018-14714-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2018-14714-POC">
 - [sunn1day/CVE-2018-14714-POC](https://github.com/sunn1day/CVE-2018-14714-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sunn1day/CVE-2018-14714-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sunn1day/CVE-2018-14714-POC">
-- [BTtea/CVE-2018-14714-RCE_exploit](https://github.com/BTtea/CVE-2018-14714-RCE_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/BTtea/CVE-2018-14714-RCE_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/BTtea/CVE-2018-14714-RCE_exploit">
+- [BTtea/CVE-2018-14714-RCE-exploit](https://github.com/BTtea/CVE-2018-14714-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/BTtea/CVE-2018-14714-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/BTtea/CVE-2018-14714-RCE-exploit">
 
 ---
 ## CVE-2018-14699 (2018-12-03T22:29:00)
