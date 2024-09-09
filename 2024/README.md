@@ -740,8 +740,8 @@ Allocated by task 6166:
 - [fru1ts/CVE-2024-44902](https://github.com/fru1ts/CVE-2024-44902)	<img alt="forks" src="https://img.shields.io/github/forks/fru1ts/CVE-2024-44902">	<img alt="stars" src="https://img.shields.io/github/stars/fru1ts/CVE-2024-44902">
 
 ---
-## CVE-2024-44849 ()
-> 
+## CVE-2024-44849 (2024-09-09T18:15:00)
+> Qualitor up to 8.24 is vulnerable to Remote Code Execution (RCE) via Arbitrary File Upload in checkAcesso.php.
 - [extencil/CVE-2024-44849](https://github.com/extencil/CVE-2024-44849)	<img alt="forks" src="https://img.shields.io/github/forks/extencil/CVE-2024-44849">	<img alt="stars" src="https://img.shields.io/github/stars/extencil/CVE-2024-44849">
 
 ---
