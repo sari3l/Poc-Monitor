@@ -47,6 +47,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-7856 (2024-08-29T11:15:00)
 > The MP3 Audio Player – Music Player, Podcast Player & Radio by Sonaar plugin for WordPress is vulnerable to unauthorized arbitrary file deletion due to a missing capability check on the removeTempFiles() function and insufficient path validation on the 'file' parameter in all versions up to, and including, 5.7.0.1. This makes it possible for authenticated attackers, with subscriber-level access and above, to delete arbitrary files which can make remote code execution possible when wp-config.php is deleted.
 - [l8BL/CVE-2024-7856](https://github.com/l8BL/CVE-2024-7856)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2024-7856">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2024-7856">
+- [l8BL/CVE-2024-7856](https://github.com/l8BL/CVE-2024-7856)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2024-7856">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2024-7856">
 
 ---
 ## CVE-2024-7703 (2024-08-17T12:15:00)
