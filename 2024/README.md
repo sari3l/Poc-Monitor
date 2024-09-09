@@ -44,6 +44,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [th3gokul/CVE-2024-7928](https://github.com/th3gokul/CVE-2024-7928)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-7928">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-7928">
 
 ---
+## CVE-2024-7856 (2024-08-29T11:15:00)
+> The MP3 Audio Player – Music Player, Podcast Player & Radio by Sonaar plugin for WordPress is vulnerable to unauthorized arbitrary file deletion due to a missing capability check on the removeTempFiles() function and insufficient path validation on the 'file' parameter in all versions up to, and including, 5.7.0.1. This makes it possible for authenticated attackers, with subscriber-level access and above, to delete arbitrary files which can make remote code execution possible when wp-config.php is deleted.
+- [l8BL/CVE-2024-7856](https://github.com/l8BL/CVE-2024-7856)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2024-7856">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2024-7856">
+
+---
 ## CVE-2024-7703 (2024-08-17T12:15:00)
 > The ARMember – Membership Plugin, Content Restriction, Member Levels, User Profile & User signup plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 4.0.37 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.
 - [lfillaz/CVE-2024-7703](https://github.com/lfillaz/CVE-2024-7703)	<img alt="forks" src="https://img.shields.io/github/forks/lfillaz/CVE-2024-7703">	<img alt="stars" src="https://img.shields.io/github/stars/lfillaz/CVE-2024-7703">
@@ -737,6 +742,11 @@ Allocated by task 6166:
 ## CVE-2024-4484 (2024-05-24T07:15:00)
 > The The Plus Addons for Elementor – Elementor Addons, Page Templates, Widgets, Mega Menu, WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘xai_username’ parameter in versions up to, and including, 5.5.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with contributor-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-4484">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-4484">
+
+---
+## CVE-2024-44815 ()
+> 
+- [nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-](https://github.com/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-)	<img alt="forks" src="https://img.shields.io/github/forks/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-">	<img alt="stars" src="https://img.shields.io/github/stars/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-">
 
 ---
 ## CVE-2024-44812 ()
