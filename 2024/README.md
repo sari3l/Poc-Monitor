@@ -586,6 +586,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589)	<img alt="forks" src="https://img.shields.io/github/forks/BenRogozinski/CVE-2024-45589">	<img alt="stars" src="https://img.shields.io/github/stars/BenRogozinski/CVE-2024-45589">
 
 ---
+## CVE-2024-45388 (2024-09-02T18:15:00)
+> Hoverfly is a lightweight service virtualization/ API simulation / API mocking tool for developers and testers. The `/api/v2/simulation` POST handler allows users to create new simulation views from the contents of a user-specified file. This feature can be abused by an attacker to read arbitrary files from the Hoverfly server. Note that, although the code prevents absolute paths from being specified, an attacker can escape out of the `hf.Cfg.ResponsesBodyFilesPath` base path by using `../` segments and reach any arbitrary files. This issue was found using the Uncontrolled data used in path expression CodeQL query for python. Users are advised to make sure the final path (`filepath.Join(hf.Cfg.ResponsesBodyFilesPath, filePath)`) is contained within the expected base path (`filepath.Join(hf.Cfg.ResponsesBodyFilesPath, "/")`). This issue is also tracked as GHSL-2023-274.
+- [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-45388-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-45388-PoC">
+
+---
 ## CVE-2024-45265 (2024-08-26T18:15:00)
 > A SQL injection vulnerability in the poll component in SkySystem Arfa-CMS before 5.1.3124 allows remote attackers to execute arbitrary SQL commands via the psid parameter.
 - [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45265">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45265">
