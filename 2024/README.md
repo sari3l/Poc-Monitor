@@ -735,8 +735,8 @@ Allocated by task 6166:
 - [Abdurahmon3236/CVE-2024-44946](https://github.com/Abdurahmon3236/CVE-2024-44946)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-44946">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-44946">
 
 ---
-## CVE-2024-44902 ()
-> 
+## CVE-2024-44902 (2024-09-09T20:15:00)
+> A deserialization vulnerability in Thinkphp v6.1.3 to v8.0.4 allows attackers to execute arbitrary code.
 - [fru1ts/CVE-2024-44902](https://github.com/fru1ts/CVE-2024-44902)	<img alt="forks" src="https://img.shields.io/github/forks/fru1ts/CVE-2024-44902">	<img alt="stars" src="https://img.shields.io/github/stars/fru1ts/CVE-2024-44902">
 
 ---
