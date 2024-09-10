@@ -1743,8 +1743,8 @@ PANIC from 6.8.0-rc1:
 - [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-34832">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-34832">
 
 ---
-## CVE-2024-34831 ()
-> 
+## CVE-2024-34831 (2024-09-10T18:15:00)
+> cross-site scripting (XSS) vulnerability in Gibbon Core v26.0.00 allows an attacker to execute arbitrary code via the imageLink parameter in the library_manage_catalog_editProcess.php component.
 - [enzored/CVE-2024-34831](https://github.com/enzored/CVE-2024-34831)	<img alt="forks" src="https://img.shields.io/github/forks/enzored/CVE-2024-34831">	<img alt="stars" src="https://img.shields.io/github/stars/enzored/CVE-2024-34831">
 
 ---
