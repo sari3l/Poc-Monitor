@@ -5365,6 +5365,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-0967-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-0967-exploit">
 
 ---
+## CVE-2024-0944 (2024-01-26T20:15:00)
+> A vulnerability was found in Totolink T8 4.1.5cu.833_20220905. It has been rated as problematic. Affected by this issue is some unknown functionality of the file /cgi-bin/cstecgi.cgi. The manipulation leads to session expiration. The attack may be launched remotely. The complexity of an attack is rather high. The exploitation is known to be difficult. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-252188. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
+- [Artemisxxx37/cve-2024-0944](https://github.com/Artemisxxx37/cve-2024-0944)	<img alt="forks" src="https://img.shields.io/github/forks/Artemisxxx37/cve-2024-0944">	<img alt="stars" src="https://img.shields.io/github/stars/Artemisxxx37/cve-2024-0944">
+
+---
 ## CVE-2024-0846 ()
 > 
 - [0x9567b/CVE-2024-0846](https://github.com/0x9567b/CVE-2024-0846)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0846">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0846">
