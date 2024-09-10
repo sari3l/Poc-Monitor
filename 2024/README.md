@@ -765,6 +765,11 @@ Allocated by task 6166:
 - [b1u3st0rm/CVE-2024-44812-PoC](https://github.com/b1u3st0rm/CVE-2024-44812-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b1u3st0rm/CVE-2024-44812-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b1u3st0rm/CVE-2024-44812-PoC">
 
 ---
+## CVE-2024-44541 ()
+> 
+- [pointedsec/CVE-2024-44541](https://github.com/pointedsec/CVE-2024-44541)	<img alt="forks" src="https://img.shields.io/github/forks/pointedsec/CVE-2024-44541">	<img alt="stars" src="https://img.shields.io/github/stars/pointedsec/CVE-2024-44541">
+
+---
 ## CVE-2024-44450 ()
 > 
 - [VoidSecOrg/CVE-2024-44450](https://github.com/VoidSecOrg/CVE-2024-44450)	<img alt="forks" src="https://img.shields.io/github/forks/VoidSecOrg/CVE-2024-44450">	<img alt="stars" src="https://img.shields.io/github/stars/VoidSecOrg/CVE-2024-44450">
