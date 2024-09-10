@@ -1335,6 +1335,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Brownpanda29/Cve-2024-38063](https://github.com/Brownpanda29/Cve-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Brownpanda29/Cve-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Brownpanda29/Cve-2024-38063">
 - [FrancescoDiSalesGithub/quick-fix-cve-2024-38063](https://github.com/FrancescoDiSalesGithub/quick-fix-cve-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/FrancescoDiSalesGithub/quick-fix-cve-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/FrancescoDiSalesGithub/quick-fix-cve-2024-38063">
 - [meetox80/CVE-2024-38063](https://github.com/meetox80/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/meetox80/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/meetox80/CVE-2024-38063">
+- [Faizan-Khanx/CVE-2024-38063](https://github.com/Faizan-Khanx/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Faizan-Khanx/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Faizan-Khanx/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
