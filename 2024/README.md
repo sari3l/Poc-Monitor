@@ -3547,6 +3547,17 @@ overflow.
 - [labc-dev/CVE-2024-266666](https://github.com/labc-dev/CVE-2024-266666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-266666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-266666">
 
 ---
+## CVE-2024-26581 (2024-02-20T13:15:00)
+> In the Linux kernel, the following vulnerability has been resolved:
+
+netfilter: nft_set_rbtree: skip end interval element from gc
+
+rbtree lazy gc on insert might collect an end interval element that has
+been just added in this transactions, skip end interval elements that
+are not yet active.
+- [madfxr/CVE-2024-26581-Checker](https://github.com/madfxr/CVE-2024-26581-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/madfxr/CVE-2024-26581-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/madfxr/CVE-2024-26581-Checker">
+
+---
 ## CVE-2024-26574 (2024-04-08T12:15:00)
 > Insecure Permissions vulnerability in Wondershare Filmora v.13.0.51 allows a local attacker to execute arbitrary code via a crafted script to the WSNativePushService.exe
 - [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-26574">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-26574">
