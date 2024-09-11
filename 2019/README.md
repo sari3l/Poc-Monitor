@@ -3010,6 +3010,7 @@
 > A remote code execution vulnerability exists in the way that the Chakra scripting engine handles objects in memory in Microsoft Edge, aka "Chakra Scripting Engine Memory Corruption Vulnerability." This affects Microsoft Edge, ChakraCore. This CVE ID is unique from CVE-2019-0539, CVE-2019-0568.
 - [NatteeSetobol/Chakra-CVE-2019-0567](https://github.com/NatteeSetobol/Chakra-CVE-2019-0567)	<img alt="forks" src="https://img.shields.io/github/forks/NatteeSetobol/Chakra-CVE-2019-0567">	<img alt="stars" src="https://img.shields.io/github/stars/NatteeSetobol/Chakra-CVE-2019-0567">
 - [NatteeSetobol/CVE-2019-0567-MS-Edge](https://github.com/NatteeSetobol/CVE-2019-0567-MS-Edge)	<img alt="forks" src="https://img.shields.io/github/forks/NatteeSetobol/CVE-2019-0567-MS-Edge">	<img alt="stars" src="https://img.shields.io/github/stars/NatteeSetobol/CVE-2019-0567-MS-Edge">
+- [ommadawn46/chakra-type-confusions](https://github.com/ommadawn46/chakra-type-confusions)	<img alt="forks" src="https://img.shields.io/github/forks/ommadawn46/chakra-type-confusions">	<img alt="stars" src="https://img.shields.io/github/stars/ommadawn46/chakra-type-confusions">
 
 ---
 ## CVE-2019-0257 (2019-02-15T18:29:00)
