@@ -154,6 +154,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [xiaoqiao147/cve-2024-666](https://github.com/xiaoqiao147/cve-2024-666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/cve-2024-666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/cve-2024-666">
 
 ---
+## CVE-2024-6624 (2024-07-11T07:15:00)
+> The JSON API User plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 3.9.3. This is due to improper controls on custom user meta fields. This makes it possible for unauthenticated attackers to register as administrators on the site. The plugin requires the JSON API plugin to also be installed.
+- [RandomRobbieBF/CVE-2024-6624](https://github.com/RandomRobbieBF/CVE-2024-6624)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-6624">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-6624">
+
+---
 ## CVE-2024-6536 (2024-07-30T06:15:00)
 > The Zephyr Project Manager WordPress plugin before 3.3.99 does not sanitise and escape some of its settings, which could allow high privilege users such as editors and admins to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-6536">
