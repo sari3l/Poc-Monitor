@@ -785,8 +785,8 @@ Allocated by task 6166:
 - [b1u3st0rm/CVE-2024-44812-PoC](https://github.com/b1u3st0rm/CVE-2024-44812-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b1u3st0rm/CVE-2024-44812-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b1u3st0rm/CVE-2024-44812-PoC">
 
 ---
-## CVE-2024-44541 ()
-> 
+## CVE-2024-44541 (2024-09-11T19:15:00)
+> evilnapsis Inventio Lite Versions v4 and before is vulnerable to SQL Injection via the "username" parameter in "/?action=processlogin."
 - [pointedsec/CVE-2024-44541](https://github.com/pointedsec/CVE-2024-44541)	<img alt="forks" src="https://img.shields.io/github/forks/pointedsec/CVE-2024-44541">	<img alt="stars" src="https://img.shields.io/github/stars/pointedsec/CVE-2024-44541">
 
 ---
