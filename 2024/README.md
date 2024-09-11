@@ -5113,8 +5113,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [codeb0ss/CVE-2024-20419-PoC](https://github.com/codeb0ss/CVE-2024-20419-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-20419-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-20419-PoC">
 
 ---
-## CVE-2024-20406 ()
-> 
+## CVE-2024-20406 (2024-09-11T17:15:00)
+> A vulnerability in the segment routing feature for the Intermediate System-to-Intermediate System (IS-IS) protocol of Cisco IOS XR Software could allow an unauthenticated, adjacent attacker to cause a denial of service (DoS) condition on an affected device.
+
+This vulnerability is due to insufficient input validation of ingress IS-IS packets. An attacker could exploit this vulnerability by sending specific IS-IS packets to an affected device after forming an adjacency. A successful exploit could allow the attacker to cause the IS-IS process on all affected devices that are participating in the Flexible Algorithm to crash and restart, resulting in a DoS condition.
+Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, an attacker must be Layer 2-adjacent to the affected device and must have formed an adjacency. This vulnerability affects segment routing for IS-IS over IPv4 and IPv6 control planes as well as devices that are configured as level 1, level 2, or multi-level routing IS-IS type.
 - [AbdElRahmanEzzat1995/CVE-2024-20406](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20406)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20406">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20406">
 
 ---
