@@ -5481,6 +5481,26 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [Agampreet-Singh/CVE-2024-0652](https://github.com/Agampreet-Singh/CVE-2024-0652)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-0652">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-0652">
 
 ---
+## CVE-2024-0624 (2024-01-25T02:15:00)
+> The Paid Memberships Pro – Content Restriction, User Registration, & Paid Subscriptions plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 2.12.7. This is due to missing or incorrect nonce validation on the pmpro_update_level_order() function. This makes it possible for unauthenticated attackers to update the order of levels via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [kodaichodai/CVE-2024-0624](https://github.com/kodaichodai/CVE-2024-0624)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0624">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0624">
+
+---
+## CVE-2024-0623 (2024-01-20T06:15:00)
+> The VK Block Patterns plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 1.31.1.1. This is due to missing or incorrect nonce validation on the vbp_clear_patterns_cache() function. This makes it possible for unauthenticated attackers to clear the patterns cache via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [kodaichodai/CVE-2024-0623](https://github.com/kodaichodai/CVE-2024-0623)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0623">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0623">
+
+---
+## CVE-2024-0590 (2024-02-29T01:43:00)
+> The Microsoft Clarity plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 0.9.3. This is due to missing nonce validation on the edit_clarity_project_id() function. This makes it possible for unauthenticated attackers to change the project id and add malicious JavaScript via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [kodaichodai/CVE-2024-0590](https://github.com/kodaichodai/CVE-2024-0590)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0590">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0590">
+
+---
+## CVE-2024-0588 (2024-04-09T19:15:00)
+> The Paid Memberships Pro – Content Restriction, User Registration, & Paid Subscriptions plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 2.12.10. This is due to missing nonce validation on the pmpro_lifter_save_streamline_option() function. This makes it possible for unauthenticated attackers to enable the streamline setting with Lifter LMS via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [kodaichodai/CVE-2024-0588](https://github.com/kodaichodai/CVE-2024-0588)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0588">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0588">
+
+---
 ## CVE-2024-0582 (2024-01-16T15:15:00)
 > A memory leak flaw was found in the Linux kernel’s io_uring functionality in how a user registers a buffer ring with IORING_REGISTER_PBUF_RING, mmap() it, and then frees it. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [ysanatomic/io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/ysanatomic/io_uring_LPE-CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/ysanatomic/io_uring_LPE-CVE-2024-0582">
@@ -5503,6 +5523,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 ## CVE-2024-0509 (2024-02-05T22:16:00)
 > The WP 404 Auto Redirect to Similar Post plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the ‘request’ parameter in all versions up to, and including, 1.0.3 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.
 - [kodaichodai/CVE-2024-0509](https://github.com/kodaichodai/CVE-2024-0509)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0509">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0509">
+- [kodaichodai/CVE-2024-0509](https://github.com/kodaichodai/CVE-2024-0509)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0509">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0509">
 
 ---
 ## CVE-2024-0507 (2024-01-16T19:15:00)
@@ -5520,9 +5541,19 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-0399">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-0399">
 
 ---
+## CVE-2024-0379 (2024-02-29T01:43:00)
+> The Custom Twitter Feeds – A Tweets Widget or X Feed Widget plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 2.2.1. This is due to missing or incorrect nonce validation on the ctf_auto_save_tokens function. This makes it possible for unauthenticated attackers to update the site's twitter API token and secret via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [kodaichodai/CVE-2024-0379](https://github.com/kodaichodai/CVE-2024-0379)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0379">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0379">
+
+---
 ## CVE-2024-0352 (2024-01-09T23:15:00)
 > A vulnerability classified as critical was found in Likeshop up to 2.5.7.20210311. This vulnerability affects the function FileServer::userFormImage of the file server/application/api/controller/File.php of the component HTTP POST Request Handler. The manipulation of the argument file leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-250120.
 - [Cappricio-Securities/CVE-2024-0352](https://github.com/Cappricio-Securities/CVE-2024-0352)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0352">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0352">
+
+---
+## CVE-2024-0324 (2024-02-05T22:15:00)
+> The User Profile Builder – Beautiful User Registration Forms, User Profiles & User Role Editor plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'wppb_two_factor_authentication_settings_update' function in all versions up to, and including, 3.10.8. This makes it possible for unauthenticated attackers to enable or disable the 2FA functionality present in the Premium version of the plugin for arbitrary user roles.
+- [kodaichodai/CVE-2024-0324](https://github.com/kodaichodai/CVE-2024-0324)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0324">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0324">
 
 ---
 ## CVE-2024-0305 (2024-01-08T09:15:00)
