@@ -587,6 +587,15 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589)	<img alt="forks" src="https://img.shields.io/github/forks/BenRogozinski/CVE-2024-45589">	<img alt="stars" src="https://img.shields.io/github/stars/BenRogozinski/CVE-2024-45589">
 
 ---
+## CVE-2024-45507 (2024-09-04T09:15:00)
+> Server-Side Request Forgery (SSRF), Improper Control of Generation of Code ('Code Injection') vulnerability in Apache OFBiz.
+
+This issue affects Apache OFBiz: before 18.12.16.
+
+Users are recommended to upgrade to version 18.12.16, which fixes the issue.
+- [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2024-45507_Behinder_Webshell">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2024-45507_Behinder_Webshell">
+
+---
 ## CVE-2024-45388 (2024-09-02T18:15:00)
 > Hoverfly is a lightweight service virtualization/ API simulation / API mocking tool for developers and testers. The `/api/v2/simulation` POST handler allows users to create new simulation views from the contents of a user-specified file. This feature can be abused by an attacker to read arbitrary files from the Hoverfly server. Note that, although the code prevents absolute paths from being specified, an attacker can escape out of the `hf.Cfg.ResponsesBodyFilesPath` base path by using `../` segments and reach any arbitrary files. This issue was found using the Uncontrolled data used in path expression CodeQL query for python. Users are advised to make sure the final path (`filepath.Join(hf.Cfg.ResponsesBodyFilesPath, filePath)`) is contained within the expected base path (`filepath.Join(hf.Cfg.ResponsesBodyFilesPath, "/")`). This issue is also tracked as GHSL-2023-274.
 - [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-45388-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-45388-PoC">
