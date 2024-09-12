@@ -5106,6 +5106,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [KeyStrOke95/CVE-2023-29357-ExE](https://github.com/KeyStrOke95/CVE-2023-29357-ExE)	<img alt="forks" src="https://img.shields.io/github/forks/KeyStrOke95/CVE-2023-29357-ExE">	<img alt="stars" src="https://img.shields.io/github/stars/KeyStrOke95/CVE-2023-29357-ExE">
 - [Twil4/CVE-2023-29357-check](https://github.com/Twil4/CVE-2023-29357-check)	<img alt="forks" src="https://img.shields.io/github/forks/Twil4/CVE-2023-29357-check">	<img alt="stars" src="https://img.shields.io/github/stars/Twil4/CVE-2023-29357-check">
 - [Guillaume-Risch/cve-2023-29357-Sharepoint](https://github.com/Guillaume-Risch/cve-2023-29357-Sharepoint)	<img alt="forks" src="https://img.shields.io/github/forks/Guillaume-Risch/cve-2023-29357-Sharepoint">	<img alt="stars" src="https://img.shields.io/github/stars/Guillaume-Risch/cve-2023-29357-Sharepoint">
+- [AhmedMansour93/Event-ID-189-Rule-Name-SOC227-CVE-2023-29357](https://github.com/AhmedMansour93/Event-ID-189-Rule-Name-SOC227-CVE-2023-29357)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-189-Rule-Name-SOC227-CVE-2023-29357">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-189-Rule-Name-SOC227-CVE-2023-29357">
+- [Jev1337/CVE-2023-29357-Check](https://github.com/Jev1337/CVE-2023-29357-Check)	<img alt="forks" src="https://img.shields.io/github/forks/Jev1337/CVE-2023-29357-Check">	<img alt="stars" src="https://img.shields.io/github/stars/Jev1337/CVE-2023-29357-Check">
 
 ---
 ## CVE-2023-29343 (2023-05-09T18:15:00)
