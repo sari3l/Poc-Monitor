@@ -2402,6 +2402,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability](https://github.com/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability">
 
 ---
+## CVE-2024-31666 (2024-04-22T18:15:00)
+> An issue in flusity-CMS v.2.33 allows a remote attacker to execute arbitrary code via a crafted script to the edit_addon_post.php component.
+- [hapa3/CVE-2024-31666](https://github.com/hapa3/CVE-2024-31666)	<img alt="forks" src="https://img.shields.io/github/forks/hapa3/CVE-2024-31666">	<img alt="stars" src="https://img.shields.io/github/stars/hapa3/CVE-2024-31666">
+
+---
 ## CVE-2024-3154 (2024-04-26T04:15:00)
 > A flaw was found in cri-o, where an arbitrary systemd property can be injected via a Pod annotation. Any user who can create a pod with an arbitrary annotation may perform an arbitrary action on the host system.
 - [cdxiaodong/CVE-2024-3154-communication](https://github.com/cdxiaodong/CVE-2024-3154-communication)	<img alt="forks" src="https://img.shields.io/github/forks/cdxiaodong/CVE-2024-3154-communication">	<img alt="stars" src="https://img.shields.io/github/stars/cdxiaodong/CVE-2024-3154-communication">
