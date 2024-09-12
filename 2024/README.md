@@ -11,6 +11,11 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-8522 (2024-09-12T09:15:00)
+> The LearnPress – WordPress LMS Plugin plugin for WordPress is vulnerable to SQL Injection via the 'c_only_fields' parameter of the /wp-json/learnpress/v1/courses REST API endpoint in all versions up to, and including, 4.2.7 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
+- [realbotnet/CVE-2024-8522](https://github.com/realbotnet/CVE-2024-8522)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-8522">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-8522">
+
+---
 ## CVE-2024-8517 (2024-09-06T16:15:00)
 > SPIP before 4.3.2, 4.2.16, and 
 4.1.18 is vulnerable to a command injection issue. A 
