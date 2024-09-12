@@ -599,6 +599,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR)	<img alt="forks" src="https://img.shields.io/github/forks/ManuelKy08/CVE-2024-4577---RR">	<img alt="stars" src="https://img.shields.io/github/stars/ManuelKy08/CVE-2024-4577---RR">
 - [bughuntar/CVE-2024-4577](https://github.com/bughuntar/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-4577">
 - [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4577-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4577-RCE">
+- [AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-](https://github.com/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-">
 
 ---
 ## CVE-2024-45589 (2024-09-05T16:15:00)
