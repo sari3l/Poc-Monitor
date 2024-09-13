@@ -440,6 +440,7 @@ We recommend users to:
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">
 - [pulentoski/CVE-2023-51467-and-CVE-2023-49070](https://github.com/pulentoski/CVE-2023-51467-and-CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2023-51467-and-CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2023-51467-and-CVE-2023-49070">
+- [AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-](https://github.com/AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-">
 
 ---
 ## CVE-2023-51448 (2023-12-22T17:15:00)
@@ -2290,6 +2291,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 ## CVE-2023-4165 (2023-08-05T14:15:00)
 > A vulnerability, which was classified as critical, was found in Tongda OA. This affects an unknown part of the file general/system/seal_manage/iweboffice/delete_seal.php. The manipulation of the argument DELETE_STR leads to sql injection. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. The identifier VDB-236181 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [mvpyyds/CVE-2023-4165](https://github.com/mvpyyds/CVE-2023-4165)	<img alt="forks" src="https://img.shields.io/github/forks/mvpyyds/CVE-2023-4165">	<img alt="stars" src="https://img.shields.io/github/stars/mvpyyds/CVE-2023-4165">
+- [inviewp/CVE-2023-4165](https://github.com/inviewp/CVE-2023-4165)	<img alt="forks" src="https://img.shields.io/github/forks/inviewp/CVE-2023-4165">	<img alt="stars" src="https://img.shields.io/github/stars/inviewp/CVE-2023-4165">
 
 ---
 ## CVE-2023-41646 (2023-09-07T22:15:00)
