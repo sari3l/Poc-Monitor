@@ -827,6 +827,11 @@ Allocated by task 6166:
 - [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/xssor-dz/-CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/xssor-dz/-CVE-2024-4439">
 
 ---
+## CVE-2024-44346 ()
+> 
+- [Shauryae1337/CVE-2024-44346](https://github.com/Shauryae1337/CVE-2024-44346)	<img alt="forks" src="https://img.shields.io/github/forks/Shauryae1337/CVE-2024-44346">	<img alt="stars" src="https://img.shields.io/github/stars/Shauryae1337/CVE-2024-44346">
+
+---
 ## CVE-2024-44083 (2024-08-19T04:15:00)
 > ida64.dll in Hex-Rays IDA Pro through 8.4 crashes when there is a section that has many jumps linked, and the final jump corresponds to the payload from where the actual entry point will be invoked. NOTE: in many use cases, this is an inconvenience but not a security issue.
 - [Azvanzed/CVE-2024-44083](https://github.com/Azvanzed/CVE-2024-44083)	<img alt="forks" src="https://img.shields.io/github/forks/Azvanzed/CVE-2024-44083">	<img alt="stars" src="https://img.shields.io/github/stars/Azvanzed/CVE-2024-44083">
@@ -1570,6 +1575,8 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [Chocapikk/CVE-2024-36401](https://github.com/Chocapikk/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-36401">
 - [ahisec/geoserver-](https://github.com/ahisec/geoserver-)	<img alt="forks" src="https://img.shields.io/github/forks/ahisec/geoserver-">	<img alt="stars" src="https://img.shields.io/github/stars/ahisec/geoserver-">
 - [yisas93/CVE-2024-36401-PoC](https://github.com/yisas93/CVE-2024-36401-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yisas93/CVE-2024-36401-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yisas93/CVE-2024-36401-PoC">
+- [daniellowrie/CVE-2024-36401-PoC](https://github.com/daniellowrie/CVE-2024-36401-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/daniellowrie/CVE-2024-36401-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/daniellowrie/CVE-2024-36401-PoC">
+- [justin-p/geoexplorer](https://github.com/justin-p/geoexplorer)	<img alt="forks" src="https://img.shields.io/github/forks/justin-p/geoexplorer">	<img alt="stars" src="https://img.shields.io/github/stars/justin-p/geoexplorer">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
