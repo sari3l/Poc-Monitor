@@ -5192,6 +5192,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [nidhi7598/linux-4.19.72_CVE-2023-28772](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-28772">
 
 ---
+## CVE-2023-28753 (2023-05-18T22:15:00)
+> netconsd prior to v0.2 was vulnerable to an integer overflow in its parse_packet function. A malicious individual could leverage this overflow to create heap memory corruption with attacker controlled data.
+- [pingjuiliao/CVE-2023-28753](https://github.com/pingjuiliao/CVE-2023-28753)	<img alt="forks" src="https://img.shields.io/github/forks/pingjuiliao/CVE-2023-28753">	<img alt="stars" src="https://img.shields.io/github/stars/pingjuiliao/CVE-2023-28753">
+
+---
 ## CVE-2023-2868 (2023-05-24T19:15:00)
 > A remote command injection vulnerability exists in the Barracuda Email Security Gateway (appliance form factor only) product effecting versions 5.1.3.001-9.2.0.006. The vulnerability arises out of a failure to comprehensively sanitize the processing of .tar file (tape archives). The vulnerability stems from incomplete input validation of a user-supplied .tar file as it pertains to the names of the files contained within the archive. As a consequence, a remote attacker can specifically format these file names in a particular manner that will result in remotely executing a system command through Perl's qx operator with the privileges of the Email Security Gateway product. This issue was fixed as part of BNSF-36456 patch. This patch was automatically applied to all customer appliances.
 - [T13nn3s/CVE-2023-2868](https://github.com/T13nn3s/CVE-2023-2868)	<img alt="forks" src="https://img.shields.io/github/forks/T13nn3s/CVE-2023-2868">	<img alt="stars" src="https://img.shields.io/github/stars/T13nn3s/CVE-2023-2868">

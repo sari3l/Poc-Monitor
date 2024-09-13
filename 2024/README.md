@@ -3829,8 +3829,8 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [maen08/CVE-2024-25277](https://github.com/maen08/CVE-2024-25277)	<img alt="forks" src="https://img.shields.io/github/forks/maen08/CVE-2024-25277">	<img alt="stars" src="https://img.shields.io/github/stars/maen08/CVE-2024-25277">
 
 ---
-## CVE-2024-25270 ()
-> 
+## CVE-2024-25270 (2024-09-12T19:15:00)
+> An issue in Mirapolis LMS 4.6.XX allows authenticated users to exploit an Insecure Direct Object Reference (IDOR) vulnerability by manipulating the ID parameter and increment STEP parameter, leading to the exposure of sensitive user data.
 - [fbkcs/CVE-2024-25270](https://github.com/fbkcs/CVE-2024-25270)	<img alt="forks" src="https://img.shields.io/github/forks/fbkcs/CVE-2024-25270">	<img alt="stars" src="https://img.shields.io/github/stars/fbkcs/CVE-2024-25270">
 
 ---
