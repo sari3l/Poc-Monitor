@@ -3304,6 +3304,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 > The Email Subscribers by Icegram Express – Email Marketing, Newsletters, Automation for WordPress & WooCommerce plugin for WordPress is vulnerable to SQL Injection via the 'run' function of the 'IG_ES_Subscribers_Query' class in all versions up to, and including, 5.7.14 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
 - [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
+- [Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-2876">
 
 ---
 ## CVE-2024-28757 (2024-03-10T05:15:00)
