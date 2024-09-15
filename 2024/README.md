@@ -4434,6 +4434,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-23692">
 - [0x20c/CVE-2024-23692-EXP](https://github.com/0x20c/CVE-2024-23692-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-23692-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-23692-EXP">
 - [pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692](https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692">
+- [verylazytech/CVE-2024-23692](https://github.com/verylazytech/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-23692">
 
 ---
 ## CVE-2024-23691 ()
