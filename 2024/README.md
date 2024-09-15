@@ -3513,6 +3513,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 > A Server-Side Request Forgery (SSRF) in pictureproxy.php of ChatGPT commit f9f4bbc allows attackers to force the application to make arbitrary requests via injection of crafted URLs into the urlparameter.
 - [Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27564">
 - [MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564](https://github.com/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">
+- [Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27564">
 
 ---
 ## CVE-2024-27518 (2024-04-29T21:15:00)
