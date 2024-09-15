@@ -3729,6 +3729,11 @@
 - [orangmuda/CVE-2021-38314](https://github.com/orangmuda/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-38314">
 
 ---
+## CVE-2021-38304 (2021-09-17T16:15:00)
+> Improper input validation in the National Instruments NI-PAL driver in versions 20.0.0 and prior may allow a privileged user to potentially enable escalation of privilege via local access.
+- [philsajdak/CVE-2021-38304-PoC](https://github.com/philsajdak/CVE-2021-38304-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/philsajdak/CVE-2021-38304-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/philsajdak/CVE-2021-38304-PoC">
+
+---
 ## CVE-2021-38297 (2021-10-18T06:15:00)
 > Go before 1.16.9 and 1.17.x before 1.17.2 has a Buffer Overflow via large arguments in a function invocation from a WASM module, when GOARCH=wasm GOOS=js is used.
 - [gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297)	<img alt="forks" src="https://img.shields.io/github/forks/gkrishnan724/CVE-2021-38297">	<img alt="stars" src="https://img.shields.io/github/stars/gkrishnan724/CVE-2021-38297">
