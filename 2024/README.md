@@ -125,6 +125,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 > Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution.
 - [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/zangjiahe/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/zangjiahe/CVE-2024-6782">
 - [jdpsl/CVE-2024-6782](https://github.com/jdpsl/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/jdpsl/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/jdpsl/CVE-2024-6782">
+- [Uno13x/CVE-2024-6782-PoC](https://github.com/Uno13x/CVE-2024-6782-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uno13x/CVE-2024-6782-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uno13x/CVE-2024-6782-PoC">
 
 ---
 ## CVE-2024-6768 (2024-08-12T19:15:00)
