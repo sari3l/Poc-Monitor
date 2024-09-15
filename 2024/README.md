@@ -5452,6 +5452,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Matrexdz/CVE-2024-1071-Docker](https://github.com/Matrexdz/CVE-2024-1071-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Matrexdz/CVE-2024-1071-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Matrexdz/CVE-2024-1071-Docker">
 - [Matrexdz/CVE-2024-1071](https://github.com/Matrexdz/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Matrexdz/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Matrexdz/CVE-2024-1071">
 - [fa-rrel/CVE-2024-1071-SQL-Injection](https://github.com/fa-rrel/CVE-2024-1071-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-1071-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-1071-SQL-Injection">
+- [Dogu589/WordPress-Exploit-CVE-2024-1071](https://github.com/Dogu589/WordPress-Exploit-CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Dogu589/WordPress-Exploit-CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Dogu589/WordPress-Exploit-CVE-2024-1071">
 
 ---
 ## CVE-2024-0967 (2024-03-01T15:15:00)
