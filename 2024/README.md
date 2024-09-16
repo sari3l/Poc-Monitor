@@ -2176,6 +2176,7 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-32651 (2024-04-26T00:15:00)
 > changedetection.io is an open source web page change detection, website watcher, restock monitor and notification service. There is a Server Side Template Injection (SSTI) in Jinja2 that allows Remote Command Execution on the server host. Attackers can run any system command without any restriction and they could use a reverse shell. The impact is critical as the attacker can completely takeover the server machine. This can be reduced if changedetection is behind a login page, but this isn't required by the application (not by default and not enforced).
 - [zcrosman/cve-2024-32651](https://github.com/zcrosman/cve-2024-32651)	<img alt="forks" src="https://img.shields.io/github/forks/zcrosman/cve-2024-32651">	<img alt="stars" src="https://img.shields.io/github/stars/zcrosman/cve-2024-32651">
+- [s0ck3t-s3c/-CVE-2024-32651](https://github.com/s0ck3t-s3c/-CVE-2024-32651)	<img alt="forks" src="https://img.shields.io/github/forks/s0ck3t-s3c/-CVE-2024-32651">	<img alt="stars" src="https://img.shields.io/github/stars/s0ck3t-s3c/-CVE-2024-32651">
 
 ---
 ## CVE-2024-32640 ()
