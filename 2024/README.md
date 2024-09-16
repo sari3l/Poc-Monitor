@@ -810,8 +810,8 @@ Allocated by task 6166:
 - [b1u3st0rm/CVE-2024-44812-PoC](https://github.com/b1u3st0rm/CVE-2024-44812-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b1u3st0rm/CVE-2024-44812-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b1u3st0rm/CVE-2024-44812-PoC">
 
 ---
-## CVE-2024-44623 ()
-> 
+## CVE-2024-44623 (2024-09-16T16:15:00)
+> An issue in TuomoKu SPx-GC v.1.3.0 and before allows a remote attacker to execute arbitrary code via the child_process.js function.
 - [merbinr/CVE-2024-44623](https://github.com/merbinr/CVE-2024-44623)	<img alt="forks" src="https://img.shields.io/github/forks/merbinr/CVE-2024-44623">	<img alt="stars" src="https://img.shields.io/github/stars/merbinr/CVE-2024-44623">
 
 ---
