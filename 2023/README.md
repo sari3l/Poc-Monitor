@@ -5304,6 +5304,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [cli-ish/CVE-2023-28329](https://github.com/cli-ish/CVE-2023-28329)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-28329">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-28329">
 
 ---
+## CVE-2023-28324 (2023-07-01T00:15:00)
+> A improper input validation vulnerability exists in Ivanti Endpoint Manager 2022 and below that could allow privilege escalation or remote code execution.
+- [horizon3ai/CVE-2023-28324](https://github.com/horizon3ai/CVE-2023-28324)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-28324">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-28324">
+
+---
 ## CVE-2023-28310 (2023-06-14T15:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability
 - [wh-gov/cve-2023-28310](https://github.com/wh-gov/cve-2023-28310)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/cve-2023-28310">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/cve-2023-28310">
