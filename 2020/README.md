@@ -70,6 +70,7 @@
 - [IdealDreamLast/CVE-2020-9484](https://github.com/IdealDreamLast/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/IdealDreamLast/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/IdealDreamLast/CVE-2020-9484">
 - [seanachao/CVE-2020-9484](https://github.com/seanachao/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/seanachao/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/seanachao/CVE-2020-9484">
 - [threedr3am/tomcat-cluster-session-sync-exp](https://github.com/threedr3am/tomcat-cluster-session-sync-exp)	<img alt="forks" src="https://img.shields.io/github/forks/threedr3am/tomcat-cluster-session-sync-exp">	<img alt="stars" src="https://img.shields.io/github/stars/threedr3am/tomcat-cluster-session-sync-exp">
+- [0dayCTF/CVE-2020-9484](https://github.com/0dayCTF/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/0dayCTF/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/0dayCTF/CVE-2020-9484">
 
 ---
 ## CVE-2020-9480 (2020-06-23T22:15:00)
