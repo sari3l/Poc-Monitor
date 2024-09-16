@@ -1064,6 +1064,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-40725-CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-40725-CVE-2024-40898">
 
 ---
+## CVE-2024-40711 (2024-09-07T17:15:00)
+> A deserialization of untrusted data vulnerability with a malicious payload can allow an unauthenticated remote code execution (RCE).
+- [watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-40711">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-40711">
+
+---
 ## CVE-2024-40617 (2024-07-17T09:15:00)
 > Path traversal vulnerability exists in FUJITSU Network Edgiot GW1500 (M2M-GW for FENICS). If a remote authenticated attacker with User Class privilege sends a specially crafted request to the affected product, access restricted files containing sensitive information may be accessed. As a result, Administrator Class privileges of the product may be hijacked.
 - [KyssK00L/CVE-2024-40617](https://github.com/KyssK00L/CVE-2024-40617)	<img alt="forks" src="https://img.shields.io/github/forks/KyssK00L/CVE-2024-40617">	<img alt="stars" src="https://img.shields.io/github/stars/KyssK00L/CVE-2024-40617">
