@@ -3083,6 +3083,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 ## CVE-2024-29847 (2024-09-12T02:15:00)
 > Deserialization of untrusted data in the agent portal of Ivanti EPM before 2022 SU6, or the 2024 September update allows a remote unauthenticated attacker to achieve remote code execution.
 - [horizon3ai/CVE-2024-29847](https://github.com/horizon3ai/CVE-2024-29847)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-29847">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-29847">
+- [sinsinology/CVE-2024-29847](https://github.com/sinsinology/CVE-2024-29847)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-29847">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-29847">
 
 ---
 ## CVE-2024-29824 (2024-05-31T18:15:00)
