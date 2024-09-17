@@ -28,6 +28,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8504">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8504">
 
 ---
+## CVE-2024-8349 ()
+> 
+- [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">
+
+---
 ## CVE-2024-8277 (2024-09-11T09:15:00)
 > The WooCommerce Photo Reviews Premium plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 1.3.13.2. This is due to the plugin not properly validating what user transient is being used in the login() function and not properly verifying the user's identity. This makes it possible for unauthenticated attackers to log in as user that has dismissed an admin notice in the past 30 days, which is often an administrator. Alternatively, a user can log in as any user with any transient that has a valid user_id as the value, though it would be more difficult to exploit this successfully.
 - [realbotnet/CVE-2024-8277](https://github.com/realbotnet/CVE-2024-8277)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-8277">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-8277">
