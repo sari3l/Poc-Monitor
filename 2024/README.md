@@ -3334,6 +3334,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
 - [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
 - [Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-2876">
+- [0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/0xAgun/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/0xAgun/CVE-2024-2876">
 
 ---
 ## CVE-2024-28757 (2024-03-10T05:15:00)
