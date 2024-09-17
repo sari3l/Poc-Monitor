@@ -430,6 +430,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kryptonproject/CVE-2024-5522-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kryptonproject/CVE-2024-5522-PoC">
 
 ---
+## CVE-2024-5458 (2024-06-09T19:15:00)
+> In PHP versions 8.1.* before 8.1.29, 8.2.* before 8.2.20, 8.3.* before 8.3.8, due to a code logic error, filtering functions such as filter_var when validating URLs (FILTER_VALIDATE_URL) for certain types of URLs the function will result in invalid user information (username + password part of URLs) being treated as valid user information. This may lead to the downstream code accepting invalid URLs as valid and parsing them incorrectly.
+- [justmexD8/CVE-2024-5458-POC](https://github.com/justmexD8/CVE-2024-5458-POC)	<img alt="forks" src="https://img.shields.io/github/forks/justmexD8/CVE-2024-5458-POC">	<img alt="stars" src="https://img.shields.io/github/stars/justmexD8/CVE-2024-5458-POC">
+
+---
 ## CVE-2024-5420 (2024-06-04T08:15:00)
 > Missing input validation in the SEH Computertechnik utnserver Pro, SEH Computertechnik utnserver ProMAX, SEH Computertechnik INU-100 web-interface allows stored Cross-Site Scripting (XSS)..This issue affects utnserver Pro, utnserver ProMAX, INU-100 version 20.1.22 and below.
 - [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-5420-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-5420-XSS">
