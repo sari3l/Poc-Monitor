@@ -913,6 +913,11 @@ Allocated by task 6166:
 - [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320)	<img alt="forks" src="https://img.shields.io/github/forks/bolkv/CVE-2024-4320">	<img alt="stars" src="https://img.shields.io/github/stars/bolkv/CVE-2024-4320">
 
 ---
+## CVE-2024-43160 (2024-08-13T12:15:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in BerqWP allows Code Injection.This issue affects BerqWP: from n/a through 1.7.6.
+- [KTN1990/CVE-2024-43160](https://github.com/KTN1990/CVE-2024-43160)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-43160">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-43160">
+
+---
 ## CVE-2024-43044 (2024-08-07T14:15:00)
 > Jenkins 2.470 and earlier, LTS 2.452.3 and earlier allows agent processes to read arbitrary files from the Jenkins controller file system by using the `ClassLoaderProxy#fetchJar` method in the Remoting library.
 - [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044)	<img alt="forks" src="https://img.shields.io/github/forks/HwMex0/CVE-2024-43044">	<img alt="stars" src="https://img.shields.io/github/stars/HwMex0/CVE-2024-43044">
