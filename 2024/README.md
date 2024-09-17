@@ -56,6 +56,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-7965 (2024-08-21T21:15:00)
 > Inappropriate implementation in V8 in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [bi-zone/CVE-2024-7965](https://github.com/bi-zone/CVE-2024-7965)	<img alt="forks" src="https://img.shields.io/github/forks/bi-zone/CVE-2024-7965">	<img alt="stars" src="https://img.shields.io/github/stars/bi-zone/CVE-2024-7965">
+- [maybeheisenberg/CVE-2024-7965-exploit](https://github.com/maybeheisenberg/CVE-2024-7965-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-7965-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-7965-exploit">
 
 ---
 ## CVE-2024-7954 (2024-08-23T18:15:00)
