@@ -4827,6 +4827,18 @@ QuTScloud c5.1.5.2651 and later
 - [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">
 
 ---
+## CVE-2024-2188 (2024-03-05T13:15:00)
+> Cross-Site Scripting (XSS) vulnerability stored in TP-Link Archer AX50 affecting firmware version 1.0.11 build 2022052. This vulnerability could allow an unauthenticated attacker to create a port mapping rule via a SOAP request and store a malicious JavaScript payload within that rule, which could result in an execution of the JavaScript payload when the rule is loaded.
+- [hacefresko/CVE-2024-2188](https://github.com/hacefresko/CVE-2024-2188)	<img alt="forks" src="https://img.shields.io/github/forks/hacefresko/CVE-2024-2188">	<img alt="stars" src="https://img.shields.io/github/stars/hacefresko/CVE-2024-2188">
+- [mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped](https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped)	<img alt="forks" src="https://img.shields.io/github/forks/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped">	<img alt="stars" src="https://img.shields.io/github/stars/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped">
+- [raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887](https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887">
+- [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">
+- [tucommenceapousser/CVE-2024-21887](https://github.com/tucommenceapousser/CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2024-21887">
+- [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-46805_CVE-2024-21887">
+- [Chocapikk/CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-21887">
+- [oways/ivanti-CVE-2024-21887](https://github.com/oways/ivanti-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/oways/ivanti-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/oways/ivanti-CVE-2024-21887">
+
+---
 ## CVE-2024-21793 (2024-05-08T15:15:00)
 > 
 An OData injection vulnerability exists in the BIG-IP Next Central Manager API (URI).  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
