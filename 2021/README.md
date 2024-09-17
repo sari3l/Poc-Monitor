@@ -2680,7 +2680,7 @@
 ## CVE-2021-4045 (2022-03-10T17:44:00)
 > TP-Link Tapo C200 IP camera, on its 1.1.15 firmware version and below, is affected by an unauthenticated RCE vulnerability, present in the uhttpd binary running by default as root. The exploitation of this vulnerability allows an attacker to take full control of the camera.
 - [onebytex/CVE-2021-4045](https://github.com/onebytex/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/onebytex/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/onebytex/CVE-2021-4045">
-- [hacefresko/CVE-2021-4045-PoC](https://github.com/hacefresko/CVE-2021-4045-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hacefresko/CVE-2021-4045-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hacefresko/CVE-2021-4045-PoC">
+- [hacefresko/CVE-2021-4045](https://github.com/hacefresko/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/hacefresko/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/hacefresko/CVE-2021-4045">
 - [Live-Hack-CVE/CVE-2021-4045](https://github.com/Live-Hack-CVE/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4045">
 - [B3nj4h/CVE-2021-4045](https://github.com/B3nj4h/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/B3nj4h/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/B3nj4h/CVE-2021-4045">
 
