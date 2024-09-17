@@ -867,6 +867,7 @@ Allocated by task 6166:
 ## CVE-2024-44346 ()
 > 
 - [Shauryae1337/CVE-2024-44346](https://github.com/Shauryae1337/CVE-2024-44346)	<img alt="forks" src="https://img.shields.io/github/forks/Shauryae1337/CVE-2024-44346">	<img alt="stars" src="https://img.shields.io/github/stars/Shauryae1337/CVE-2024-44346">
+- [sahil3276/CVE-2024-44346](https://github.com/sahil3276/CVE-2024-44346)	<img alt="forks" src="https://img.shields.io/github/forks/sahil3276/CVE-2024-44346">	<img alt="stars" src="https://img.shields.io/github/stars/sahil3276/CVE-2024-44346">
 
 ---
 ## CVE-2024-44083 (2024-08-19T04:15:00)
