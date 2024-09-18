@@ -652,6 +652,11 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-45388-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-45388-PoC">
 
 ---
+## CVE-2024-45383 (2024-09-12T19:15:00)
+> A mishandling of IRP requests vulnerability exists in the HDAudBus_DMA interface of Microsoft High Definition Audio Bus Driver 10.0.19041.3636 (WinBuild.160101.0800). A specially crafted application can issue multiple IRP Complete requests which leads to a local denial-of-service. An attacker can execute malicious script/application to trigger this vulnerability.
+- [SpiralBL0CK/CVE-2024-45383](https://github.com/SpiralBL0CK/CVE-2024-45383)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-45383">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-45383">
+
+---
 ## CVE-2024-45265 (2024-08-26T18:15:00)
 > A SQL injection vulnerability in the poll component in SkySystem Arfa-CMS before 5.1.3124 allows remote attackers to execute arbitrary SQL commands via the psid parameter.
 - [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45265">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45265">
