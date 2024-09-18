@@ -1182,6 +1182,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [1ncendium/CVE-2024-4040](https://github.com/1ncendium/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/1ncendium/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/1ncendium/CVE-2024-4040">
 - [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4040">
 - [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/entroychang/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/entroychang/CVE-2024-4040">
+- [safeer-accuknox/CrushFTP-cve-2024-4040-poc](https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc)	<img alt="forks" src="https://img.shields.io/github/forks/safeer-accuknox/CrushFTP-cve-2024-4040-poc">	<img alt="stars" src="https://img.shields.io/github/stars/safeer-accuknox/CrushFTP-cve-2024-4040-poc">
 
 ---
 ## CVE-2024-40348 (2024-07-20T04:15:00)
