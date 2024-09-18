@@ -928,6 +928,7 @@ Allocated by task 6166:
 ## CVE-2024-43160 (2024-08-13T12:15:00)
 > Unrestricted Upload of File with Dangerous Type vulnerability in BerqWP allows Code Injection.This issue affects BerqWP: from n/a through 1.7.6.
 - [KTN1990/CVE-2024-43160](https://github.com/KTN1990/CVE-2024-43160)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-43160">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-43160">
+- [maybeheisenberg/PoC-for-CVE-2024-43160](https://github.com/maybeheisenberg/PoC-for-CVE-2024-43160)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/PoC-for-CVE-2024-43160">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/PoC-for-CVE-2024-43160">
 
 ---
 ## CVE-2024-43044 (2024-08-07T14:15:00)
