@@ -836,8 +836,8 @@ Allocated by task 6166:
 - [merbinr/CVE-2024-44623](https://github.com/merbinr/CVE-2024-44623)	<img alt="forks" src="https://img.shields.io/github/forks/merbinr/CVE-2024-44623">	<img alt="stars" src="https://img.shields.io/github/stars/merbinr/CVE-2024-44623">
 
 ---
-## CVE-2024-44542 ()
-> 
+## CVE-2024-44542 (2024-09-18T15:15:00)
+> SQL Injection vulnerability in todesk v.1.1 allows a remote attacker to execute arbitrary code via the /todesk.com/news.html parameter.
 - [alphandbelt/CVE-2024-44542](https://github.com/alphandbelt/CVE-2024-44542)	<img alt="forks" src="https://img.shields.io/github/forks/alphandbelt/CVE-2024-44542">	<img alt="stars" src="https://img.shields.io/github/stars/alphandbelt/CVE-2024-44542">
 
 ---
