@@ -1386,6 +1386,7 @@ QuTScloud c5.1.5.2651 and later
 - [mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped](https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped)	<img alt="forks" src="https://img.shields.io/github/forks/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped">	<img alt="stars" src="https://img.shields.io/github/stars/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped">
 - [w2xim3/CVE-2023-46805](https://github.com/w2xim3/CVE-2023-46805)	<img alt="forks" src="https://img.shields.io/github/forks/w2xim3/CVE-2023-46805">	<img alt="stars" src="https://img.shields.io/github/stars/w2xim3/CVE-2023-46805">
 - [Cappricio-Securities/CVE-2023-46805](https://github.com/Cappricio-Securities/CVE-2023-46805)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-46805">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-46805">
+- [maybeheisenberg/CVE-2023-46805](https://github.com/maybeheisenberg/CVE-2023-46805)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2023-46805">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2023-46805">
 
 ---
 ## CVE-2023-46747 (2023-10-26T21:15:00)

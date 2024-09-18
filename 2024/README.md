@@ -3325,6 +3325,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [muhammetali20/CVE-2024-28995](https://github.com/muhammetali20/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/muhammetali20/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/muhammetali20/CVE-2024-28995">
 
 ---
+## CVE-2024-28991 (2024-09-12T14:16:00)
+> SolarWinds Access Rights Manager (ARM) was found to be susceptible to a remote code execution vulnerability. If exploited, this vulnerability would allow an authenticated user to abuse the service, resulting in remote code execution.
+- [maybeheisenberg/PoC-for-CVE-2024-28991](https://github.com/maybeheisenberg/PoC-for-CVE-2024-28991)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/PoC-for-CVE-2024-28991">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/PoC-for-CVE-2024-28991">
+
+---
 ## CVE-2024-28987 (2024-08-21T22:15:00)
 > The SolarWinds Web Help Desk (WHD) software is affected by a hardcoded credential vulnerability, allowing remote unauthenticated user to access internal functionality and modify data.
 - [fa-rrel/CVE-2024-28987-POC](https://github.com/fa-rrel/CVE-2024-28987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-28987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-28987-POC">
