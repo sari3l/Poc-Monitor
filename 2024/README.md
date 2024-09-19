@@ -676,6 +676,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 ## CVE-2024-45241 (2024-08-26T07:15:00)
 > A traversal vulnerability in GeneralDocs.aspx in CentralSquare CryWolf (False Alarm Management) through 2024-08-09 allows unauthenticated attackers to read files outside of the working web directory via the rpt parameter, leading to the disclosure of sensitive information.
 - [d4lyw/CVE-2024-45241](https://github.com/d4lyw/CVE-2024-45241)	<img alt="forks" src="https://img.shields.io/github/forks/d4lyw/CVE-2024-45241">	<img alt="stars" src="https://img.shields.io/github/stars/d4lyw/CVE-2024-45241">
+- [verylazytech/CVE-2024-45241](https://github.com/verylazytech/CVE-2024-45241)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-45241">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-45241">
 
 ---
 ## CVE-2024-45163 (2024-08-22T04:15:00)

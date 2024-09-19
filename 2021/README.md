@@ -1147,6 +1147,11 @@
 - [Live-Hack-CVE/CVE-2021-43657](https://github.com/Live-Hack-CVE/CVE-2021-43657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43657">
 
 ---
+## CVE-2021-43650 (2022-03-22T16:15:00)
+> WebRun 3.6.0.42 is vulnerable to SQL Injection via the P_0 parameter used to set the username during the login process.
+- [OpenXP-Research/CVE-2021-43650](https://github.com/OpenXP-Research/CVE-2021-43650)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2021-43650">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2021-43650">
+
+---
 ## CVE-2021-43618 (2021-11-15T04:15:00)
 > GNU Multiple Precision Arithmetic Library (GMP) through 6.2.1 has an mpz/inp_raw.c integer overflow and resultant buffer overflow via crafted input, leading to a segmentation fault on 32-bit platforms.
 - [Live-Hack-CVE/CVE-2021-43618](https://github.com/Live-Hack-CVE/CVE-2021-43618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43618">
