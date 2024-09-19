@@ -7395,6 +7395,8 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/ml-CVE-2023-1177">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/ml-CVE-2023-1177">
 - [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow)	<img alt="forks" src="https://img.shields.io/github/forks/iumiro/CVE-2023-1177-MLFlow">	<img alt="stars" src="https://img.shields.io/github/stars/iumiro/CVE-2023-1177-MLFlow">
 - [tiyeume25112004/CVE-2023-1177-rebuild](https://github.com/tiyeume25112004/CVE-2023-1177-rebuild)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2023-1177-rebuild">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2023-1177-rebuild">
+- [charlesgargasson/CVE-2023-1177](https://github.com/charlesgargasson/CVE-2023-1177)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2023-1177">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2023-1177">
+- [saimahmed/MLflow-Vuln](https://github.com/saimahmed/MLflow-Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/saimahmed/MLflow-Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/saimahmed/MLflow-Vuln">
 
 ---
 ## CVE-2023-11518 ()
