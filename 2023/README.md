@@ -1258,6 +1258,12 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [LucasVanHaaren/CVE-2023-47400](https://github.com/LucasVanHaaren/CVE-2023-47400)	<img alt="forks" src="https://img.shields.io/github/forks/LucasVanHaaren/CVE-2023-47400">	<img alt="stars" src="https://img.shields.io/github/stars/LucasVanHaaren/CVE-2023-47400">
 
 ---
+## CVE-2023-47253 (2023-11-06T06:15:00)
+> Qualitor through 8.20 allows remote attackers to execute arbitrary code via PHP code in the html/ad/adpesquisasql/request/processVariavel.php gridValoresPopHidden parameter.
+- [OpenXP-Research/CVE-2023-47253](https://github.com/OpenXP-Research/CVE-2023-47253)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2023-47253">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2023-47253">
+- [vnxdtzip/CVE-2023-47253](https://github.com/vnxdtzip/CVE-2023-47253)	<img alt="forks" src="https://img.shields.io/github/forks/vnxdtzip/CVE-2023-47253">	<img alt="stars" src="https://img.shields.io/github/stars/vnxdtzip/CVE-2023-47253">
+
+---
 ## CVE-2023-47246 (2023-11-10T06:15:00)
 > In SysAid On-Premise before 23.3.36, a path traversal vulnerability leads to code execution after an attacker writes a file to the Tomcat webroot, as exploited in the wild in November 2023.
 - [ex0day/CVE-2023-47246](https://github.com/ex0day/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/ex0day/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/ex0day/CVE-2023-47246">
