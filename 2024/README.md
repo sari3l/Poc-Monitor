@@ -1335,6 +1335,11 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-38856-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-38856-RCE">
 
 ---
+## CVE-2024-38812 (2024-09-17T18:15:00)
+> The vCenter Server contains a heap-overflow vulnerability in the implementation of the DCERPC protocol. A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a specially crafted network packet potentially leading to remote code execution.
+- [maybeheisenberg/CVE-2024-38812](https://github.com/maybeheisenberg/CVE-2024-38812)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-38812">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-38812">
+
+---
 ## CVE-2024-38793 (2024-08-29T15:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in PriceListo Best Restaurant Menu by PriceListo allows SQL Injection.This issue affects Best Restaurant Menu by PriceListo: from n/a through 1.4.1.
 - [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ret2desync/CVE-2024-38793-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ret2desync/CVE-2024-38793-PoC">
