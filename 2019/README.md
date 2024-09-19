@@ -2388,6 +2388,9 @@
 ## CVE-2019-14322 (2019-07-28T13:15:00)
 > In Pallets Werkzeug before 0.15.5, SharedDataMiddleware mishandles drive names (such as C:) in Windows pathnames.
 - [sergiovks/CVE-2019-14322](https://github.com/sergiovks/CVE-2019-14322)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/CVE-2019-14322">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/CVE-2019-14322">
+- [faisalfs10x/http-vuln-cve2019-14322.nse](https://github.com/faisalfs10x/http-vuln-cve2019-14322.nse)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/http-vuln-cve2019-14322.nse">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/http-vuln-cve2019-14322.nse">
+- [faisalfs10x/CVE-2019-14322-scanner](https://github.com/faisalfs10x/CVE-2019-14322-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/CVE-2019-14322-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/CVE-2019-14322-scanner">
+- [EmreOvunc/Odoo-12.0-LFI-Vulnerabilities](https://github.com/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">
 
 ---
 ## CVE-2019-14287 (2019-10-17T18:15:00)
