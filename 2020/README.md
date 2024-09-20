@@ -1476,6 +1476,7 @@
 - [reneoliveirajr/wp_CVE-2020-35489_checker](https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker)	<img alt="forks" src="https://img.shields.io/github/forks/reneoliveirajr/wp_CVE-2020-35489_checker">	<img alt="stars" src="https://img.shields.io/github/stars/reneoliveirajr/wp_CVE-2020-35489_checker">
 - [thebunjo/CVE-2020-35489](https://github.com/thebunjo/CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/thebunjo/CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/thebunjo/CVE-2020-35489">
 - [Cappricio-Securities/CVE-2020-35489](https://github.com/Cappricio-Securities/CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2020-35489">
+- [aifuzzer/poc-CVE-2020-35489](https://github.com/aifuzzer/poc-CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/aifuzzer/poc-CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/aifuzzer/poc-CVE-2020-35489">
 
 ---
 ## CVE-2020-35479 (2020-12-18T08:15:00)
