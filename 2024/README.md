@@ -11,6 +11,11 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-9043 (2024-09-20T11:15:00)
+> Secure Email Gateway from Cellopoint has Buffer Overflow Vulnerability in authentication process. Remote unauthenticated attackers can send crafted packets to crash the process, thereby bypassing authentication and obtaining system administrator privileges.
+- [maybeheisenberg/CVE-2024-9043](https://github.com/maybeheisenberg/CVE-2024-9043)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-9043">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-9043">
+
+---
 ## CVE-2024-8752 (2024-09-16T16:15:00)
 > The Windows version of WebIQ 2.15.9 is affected by a directory traversal vulnerability that allows remote attackers to read any file on the system.
 - [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752)	<img alt="forks" src="https://img.shields.io/github/forks/D3anSPGDMS/CVE-2024-8752">	<img alt="stars" src="https://img.shields.io/github/stars/D3anSPGDMS/CVE-2024-8752">
