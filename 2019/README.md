@@ -12,6 +12,7 @@
 - [h8handles/CVE-2019-9978-Python3](https://github.com/h8handles/CVE-2019-9978-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/h8handles/CVE-2019-9978-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/h8handles/CVE-2019-9978-Python3">
 - [20dani09/CVE-2019-9978](https://github.com/20dani09/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/20dani09/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/20dani09/CVE-2019-9978">
 - [0xMoonrise/cve-2019-9978](https://github.com/0xMoonrise/cve-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/0xMoonrise/cve-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/0xMoonrise/cve-2019-9978">
+- [MAHajian/CVE-2019-9978](https://github.com/MAHajian/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/MAHajian/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/MAHajian/CVE-2019-9978">
 
 ---
 ## CVE-2019-9947 (2019-03-23T18:29:00)
