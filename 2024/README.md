@@ -1335,6 +1335,22 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-38856-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-38856-RCE">
 
 ---
+## CVE-2024-38816 (2024-09-13T06:15:00)
+> Applications serving static resources through the functional web frameworks WebMvc.fn or WebFlux.fn are vulnerable to path traversal attacks. An attacker can craft malicious HTTP requests and obtain any file on the file system that is also accessible to the process in which the Spring application is running.
+
+Specifically, an application is vulnerable when both of the following are true:
+
+  *  the web application uses RouterFunctions to serve static resources
+  *  resource handling is explicitly configured with a FileSystemResource location
+
+
+However, malicious requests are blocked and rejected when any of the following is true:
+
+  *  the  Spring Security HTTP Firewall https://docs.spring.io/spring-security/reference/servlet/exploits/firewall.html  is in use
+  *  the application runs on Tomcat or Jetty
+- [weliveby/cve-2024-38816-demo](https://github.com/weliveby/cve-2024-38816-demo)	<img alt="forks" src="https://img.shields.io/github/forks/weliveby/cve-2024-38816-demo">	<img alt="stars" src="https://img.shields.io/github/stars/weliveby/cve-2024-38816-demo">
+
+---
 ## CVE-2024-38812 (2024-09-17T18:15:00)
 > The vCenter Server contains a heap-overflow vulnerability in the implementation of the DCERPC protocol. A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a specially crafted network packet potentially leading to remote code execution.
 - [maybeheisenberg/CVE-2024-38812](https://github.com/maybeheisenberg/CVE-2024-38812)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-38812">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-38812">
