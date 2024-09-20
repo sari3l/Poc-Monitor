@@ -1605,6 +1605,7 @@
 ## CVE-2020-29661 (2020-12-09T17:15:00)
 > A locking issue was discovered in the tty subsystem of the Linux kernel through 5.9.13. drivers/tty/tty_jobctrl.c allows a use-after-free attack against TIOCSPGRP, aka CID-54ffccbf053b.
 - [wojkos9/arm-CVE-2020-29661](https://github.com/wojkos9/arm-CVE-2020-29661)	<img alt="forks" src="https://img.shields.io/github/forks/wojkos9/arm-CVE-2020-29661">	<img alt="stars" src="https://img.shields.io/github/stars/wojkos9/arm-CVE-2020-29661">
+- [TLD1027/CVE-2020-29661](https://github.com/TLD1027/CVE-2020-29661)	<img alt="forks" src="https://img.shields.io/github/forks/TLD1027/CVE-2020-29661">	<img alt="stars" src="https://img.shields.io/github/stars/TLD1027/CVE-2020-29661">
 
 ---
 ## CVE-2020-29659 (2020-12-09T17:15:00)
