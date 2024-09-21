@@ -2518,6 +2518,7 @@ The specific flaw exists within the processing of recovery volumes. The issue re
 ## CVE-2023-40459 ()
 > 
 - [majidmc2/CVE-2023-40459](https://github.com/majidmc2/CVE-2023-40459)	<img alt="forks" src="https://img.shields.io/github/forks/majidmc2/CVE-2023-40459">	<img alt="stars" src="https://img.shields.io/github/stars/majidmc2/CVE-2023-40459">
+- [7h3w4lk3r/CVE-2023-40459](https://github.com/7h3w4lk3r/CVE-2023-40459)	<img alt="forks" src="https://img.shields.io/github/forks/7h3w4lk3r/CVE-2023-40459">	<img alt="stars" src="https://img.shields.io/github/stars/7h3w4lk3r/CVE-2023-40459">
 
 ---
 ## CVE-2023-40429 (2023-09-27T15:19:00)
