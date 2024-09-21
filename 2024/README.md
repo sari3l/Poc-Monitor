@@ -982,6 +982,11 @@ Allocated by task 6166:
 - [kkll5875/CVE-2024-42913](https://github.com/kkll5875/CVE-2024-42913)	<img alt="forks" src="https://img.shields.io/github/forks/kkll5875/CVE-2024-42913">	<img alt="stars" src="https://img.shields.io/github/stars/kkll5875/CVE-2024-42913">
 
 ---
+## CVE-2024-42861 ()
+> 
+- [qiupy123/CVE-2024-42861](https://github.com/qiupy123/CVE-2024-42861)	<img alt="forks" src="https://img.shields.io/github/forks/qiupy123/CVE-2024-42861">	<img alt="stars" src="https://img.shields.io/github/stars/qiupy123/CVE-2024-42861">
+
+---
 ## CVE-2024-42850 (2024-08-16T19:15:00)
 > An issue in the password change function of Silverpeas v6.4.2 and lower allows for the bypassing of password complexity requirements.
 - [njmbb8/CVE-2024-42850](https://github.com/njmbb8/CVE-2024-42850)	<img alt="forks" src="https://img.shields.io/github/forks/njmbb8/CVE-2024-42850">	<img alt="stars" src="https://img.shields.io/github/stars/njmbb8/CVE-2024-42850">
