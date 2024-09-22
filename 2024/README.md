@@ -11,6 +11,16 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-9080 (2024-09-22T07:15:00)
+> A vulnerability was found in code-projects Student Record System 1.0. It has been classified as critical. Affected is an unknown function of the file /pincode-verification.php. The manipulation of the argument pincode leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.
+- [nothe1senberg/CVE-2024-9080](https://github.com/nothe1senberg/CVE-2024-9080)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9080">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9080">
+
+---
+## CVE-2024-9079 (2024-09-22T05:15:00)
+> A vulnerability was found in code-projects Student Record System 1.0 and classified as critical. This issue affects some unknown processing of the file /marks.php. The manipulation of the argument coursename leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.
+- [maybeheisenberg/CVE-2024-9079](https://github.com/maybeheisenberg/CVE-2024-9079)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-9079">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-9079">
+
+---
 ## CVE-2024-9043 (2024-09-20T11:15:00)
 > Secure Email Gateway from Cellopoint has Buffer Overflow Vulnerability in authentication process. Remote unauthenticated attackers can send crafted packets to crash the process, thereby bypassing authentication and obtaining system administrator privileges.
 - [maybeheisenberg/CVE-2024-9043](https://github.com/maybeheisenberg/CVE-2024-9043)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-9043">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-9043">
