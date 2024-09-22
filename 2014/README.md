@@ -93,6 +93,8 @@
 - [AlissonFaoli/Shellshock](https://github.com/AlissonFaoli/Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/AlissonFaoli/Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/AlissonFaoli/Shellshock">
 - [K3ysTr0K3R/CVE-2014-6271-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2014-6271-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2014-6271-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2014-6271-EXPLOIT">
 - [ajansha/shellshock](https://github.com/ajansha/shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/shellshock">
+- [TheRealCiscoo/Shellshock](https://github.com/TheRealCiscoo/Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/TheRealCiscoo/Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/TheRealCiscoo/Shellshock">
+- [TheRealCiscoo/Shellshock-Exploit](https://github.com/TheRealCiscoo/Shellshock-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TheRealCiscoo/Shellshock-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TheRealCiscoo/Shellshock-Exploit">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
