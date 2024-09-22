@@ -5591,6 +5591,7 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
 - [madhavmehndiratta/CVE-2023-27163](https://github.com/madhavmehndiratta/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/madhavmehndiratta/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/madhavmehndiratta/CVE-2023-27163">
 - [Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning](https://github.com/Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning)	<img alt="forks" src="https://img.shields.io/github/forks/Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning">	<img alt="stars" src="https://img.shields.io/github/stars/Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning">
+- [btar1gan/exploit_CVE-2023-27163](https://github.com/btar1gan/exploit_CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/btar1gan/exploit_CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/btar1gan/exploit_CVE-2023-27163">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
