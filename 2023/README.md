@@ -1356,8 +1356,8 @@ QuTScloud c5.1.5.2651 and later
 - [jakedmurphy1/CVE-2023-46954](https://github.com/jakedmurphy1/CVE-2023-46954)	<img alt="forks" src="https://img.shields.io/github/forks/jakedmurphy1/CVE-2023-46954">	<img alt="stars" src="https://img.shields.io/github/stars/jakedmurphy1/CVE-2023-46954">
 
 ---
-## CVE-2023-46948 ()
-> 
+## CVE-2023-46948 (2024-09-23T18:15:00)
+> A reflected Cross-Site Scripting (XSS) vulnerability was found on Temenos T24 Browser R19.40 that enables a remote attacker to execute arbitrary JavaScript code via the skin parameter in the about.jsp and genrequest.jsp components.
 - [AzraelsBlade/CVE-2023-46948](https://github.com/AzraelsBlade/CVE-2023-46948)	<img alt="forks" src="https://img.shields.io/github/forks/AzraelsBlade/CVE-2023-46948">	<img alt="stars" src="https://img.shields.io/github/stars/AzraelsBlade/CVE-2023-46948">
 
 ---

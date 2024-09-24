@@ -1013,8 +1013,8 @@ Allocated by task 6166:
 - [kkll5875/CVE-2024-42913](https://github.com/kkll5875/CVE-2024-42913)	<img alt="forks" src="https://img.shields.io/github/forks/kkll5875/CVE-2024-42913">	<img alt="stars" src="https://img.shields.io/github/stars/kkll5875/CVE-2024-42913">
 
 ---
-## CVE-2024-42861 ()
-> 
+## CVE-2024-42861 (2024-09-23T21:15:00)
+> An issue in IEEE 802.1AS linuxptp v.4.2 and before allowing a remote attacker to cause a denial of service via a crafted Pdelay_Req message to the time synchronization function
 - [qiupy123/CVE-2024-42861](https://github.com/qiupy123/CVE-2024-42861)	<img alt="forks" src="https://img.shields.io/github/forks/qiupy123/CVE-2024-42861">	<img alt="stars" src="https://img.shields.io/github/stars/qiupy123/CVE-2024-42861">
 
 ---
@@ -5889,8 +5889,8 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015)	<img alt="forks" src="https://img.shields.io/github/forks/UmVfX1BvaW50/CVE-2024-0015">	<img alt="stars" src="https://img.shields.io/github/stars/UmVfX1BvaW50/CVE-2024-0015">
 
 ---
-## CVE-2024-0001 ()
-> 
+## CVE-2024-0001 (2024-09-23T18:15:00)
+> A condition exists in FlashArray Purity whereby a local account intended for initial array configuration remains active potentially allowing a malicious actor to gain elevated privileges.
 - [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001)	<img alt="forks" src="https://img.shields.io/github/forks/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">	<img alt="stars" src="https://img.shields.io/github/stars/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">
 - [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/jiupta/CVE-2024-0001-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/jiupta/CVE-2024-0001-EXP">
 
