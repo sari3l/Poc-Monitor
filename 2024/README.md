@@ -119,6 +119,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 > Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel.
 - [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7593-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7593-PoC">
 - [rxerium/CVE-2024-7593](https://github.com/rxerium/CVE-2024-7593)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2024-7593">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2024-7593">
+- [D3N14LD15K/CVE-2024-7593_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-7593_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-7593_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-7593_PoC_Exploit">
 
 ---
 ## CVE-2024-7339 (2024-08-01T04:15:00)
