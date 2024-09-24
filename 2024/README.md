@@ -590,6 +590,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761)	<img alt="forks" src="https://img.shields.io/github/forks/michredteam/CVE-2024-4761">	<img alt="stars" src="https://img.shields.io/github/stars/michredteam/CVE-2024-4761">
 
 ---
+## CVE-2024-47066 (2024-09-23T16:15:00)
+> Lobe Chat is an open-source artificial intelligence chat framework. Prior to version 1.19.13, server-side request forgery protection implemented in `src/app/api/proxy/route.ts` does not consider redirect and could be bypassed when attacker provides an external malicious URL which redirects to internal resources like a private network or loopback address. Version 1.19.13 contains an improved fix for the issue.
+- [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2024-47066">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2024-47066">
+
+---
 ## CVE-2024-4701 (2024-05-14T15:44:00)
 > A path traversal issue potentially leading to remote code execution in Genie for all versions prior to 4.3.18
 - [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JoeBeeton/CVE-2024-4701-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JoeBeeton/CVE-2024-4701-POC">
