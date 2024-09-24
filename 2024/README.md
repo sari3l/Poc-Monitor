@@ -930,6 +930,11 @@ Allocated by task 6166:
 - [ifqygazhar/CVE-2024-44000-LiteSpeed-Cache](https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache">
 
 ---
+## CVE-2024-43918 (2024-08-29T15:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WBW WBW Product Table PRO allows SQL Injection.This issue affects WBW Product Table PRO: from n/a through 1.9.4.
+- [KTN1990/CVE-2024-43918](https://github.com/KTN1990/CVE-2024-43918)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-43918">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-43918">
+
+---
 ## CVE-2024-4367 (2024-05-14T18:15:00)
 > A type check was missing when handling fonts in PDF.js, which would allow arbitrary JavaScript execution in the PDF.js context. This vulnerability affects Firefox < 126, Firefox ESR < 115.11, and Thunderbird < 115.11.
 - [LOURC0D3/CVE-2024-4367-PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-4367-PoC">
