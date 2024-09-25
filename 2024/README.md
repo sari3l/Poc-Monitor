@@ -49,6 +49,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8504">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8504">
 
 ---
+## CVE-2024-8484 ()
+> 
+- [RandomRobbieBF/CVE-2024-8484](https://github.com/RandomRobbieBF/CVE-2024-8484)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-8484">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-8484">
+
+---
 ## CVE-2024-8349 ()
 > 
 - [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">

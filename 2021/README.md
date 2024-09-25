@@ -7247,6 +7247,11 @@
 - [Live-Hack-CVE/CVE-2021-24977](https://github.com/Live-Hack-CVE/CVE-2021-24977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24977">
 
 ---
+## CVE-2021-24959 ()
+> 
+- [RandomRobbieBF/CVE-2021-24959](https://github.com/RandomRobbieBF/CVE-2021-24959)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2021-24959">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2021-24959">
+
+---
 ## CVE-2021-24948 (2022-01-10T16:15:00)
 > The Plus Addons for Elementor - Pro WordPress plugin before 5.0.7 does not validate the qvquery parameter of the tp_get_dl_post_info_ajax AJAX action, which could allow unauthenticated users to retrieve sensitive information, such as private and draft posts
 - [Live-Hack-CVE/CVE-2021-24948](https://github.com/Live-Hack-CVE/CVE-2021-24948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24948">
