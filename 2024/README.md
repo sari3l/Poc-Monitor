@@ -1485,6 +1485,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
+## CVE-2024-38200 (2024-08-12T13:38:00)
+> Microsoft Office Spoofing Vulnerability
+- [passtheticket/CVE-2024-38200](https://github.com/passtheticket/CVE-2024-38200)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2024-38200">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2024-38200">
+
+---
 ## CVE-2024-38189 (2024-08-13T18:15:00)
 > Microsoft Project Remote Code Execution Vulnerability
 - [vx7z/CVE-2024-38189](https://github.com/vx7z/CVE-2024-38189)	<img alt="forks" src="https://img.shields.io/github/forks/vx7z/CVE-2024-38189">	<img alt="stars" src="https://img.shields.io/github/stars/vx7z/CVE-2024-38189">
