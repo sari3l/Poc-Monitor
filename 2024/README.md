@@ -26,6 +26,11 @@
 - [maybeheisenberg/CVE-2024-9043](https://github.com/maybeheisenberg/CVE-2024-9043)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-9043">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-9043">
 
 ---
+## CVE-2024-9014 (2024-09-23T17:15:00)
+> pgAdmin versions 8.11 and earlier are vulnerable to a security flaw in OAuth2 authentication. This vulnerability allows an attacker to potentially obtain the client ID and secret, leading to unauthorized access to user data.
+- [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-9014">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-9014">
+
+---
 ## CVE-2024-8752 (2024-09-16T16:15:00)
 > The Windows version of WebIQ 2.15.9 is affected by a directory traversal vulnerability that allows remote attackers to read any file on the system.
 - [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752)	<img alt="forks" src="https://img.shields.io/github/forks/D3anSPGDMS/CVE-2024-8752">	<img alt="stars" src="https://img.shields.io/github/stars/D3anSPGDMS/CVE-2024-8752">
