@@ -717,6 +717,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589)	<img alt="forks" src="https://img.shields.io/github/forks/BenRogozinski/CVE-2024-45589">	<img alt="stars" src="https://img.shields.io/github/stars/BenRogozinski/CVE-2024-45589">
 
 ---
+## CVE-2024-45519 ()
+> 
+- [TOB1a3/CVE-2024-45519-PoC](https://github.com/TOB1a3/CVE-2024-45519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TOB1a3/CVE-2024-45519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TOB1a3/CVE-2024-45519-PoC">
+
+---
 ## CVE-2024-45507 (2024-09-04T09:15:00)
 > Server-Side Request Forgery (SSRF), Improper Control of Generation of Code ('Code Injection') vulnerability in Apache OFBiz.
 
