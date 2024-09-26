@@ -199,8 +199,8 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [Uno13x/CVE-2024-6782-PoC](https://github.com/Uno13x/CVE-2024-6782-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uno13x/CVE-2024-6782-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uno13x/CVE-2024-6782-PoC">
 
 ---
-## CVE-2024-6769 ()
-> 
+## CVE-2024-6769 (2024-09-26T21:15:00)
+> A DLL Hijacking caused by drive remapping combined with a poisoning of the activation cache in Microsoft Windows 10, Windows 11, Windows Server 2016, Windows Server 2019, and Windows Server 2022 allows a malicious authenticated attacker to elevate from a medium integrity process to a high integrity process without the intervention of a UAC prompt.
 - [fortra/CVE-2024-6769](https://github.com/fortra/CVE-2024-6769)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2024-6769">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2024-6769">
 
 ---
