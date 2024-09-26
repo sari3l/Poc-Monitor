@@ -199,6 +199,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [Uno13x/CVE-2024-6782-PoC](https://github.com/Uno13x/CVE-2024-6782-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uno13x/CVE-2024-6782-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uno13x/CVE-2024-6782-PoC">
 
 ---
+## CVE-2024-6769 ()
+> 
+- [fortra/CVE-2024-6769](https://github.com/fortra/CVE-2024-6769)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2024-6769">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2024-6769">
+
+---
 ## CVE-2024-6768 (2024-08-12T19:15:00)
 > A Denial of Service in CLFS.sys in Microsoft Windows 10, Windows 11, Windows Server 2016, Windows Server 2019, and Windows Server 2022 allows a malicious authenticated low-privilege user to cause a Blue Screen of Death via a forced call to the KeBugCheckEx function.
 - [fortra/CVE-2024-6768](https://github.com/fortra/CVE-2024-6768)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2024-6768">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2024-6768">
