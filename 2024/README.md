@@ -639,8 +639,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46986">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46986">
 
 ---
-## CVE-2024-46627 ()
-> 
+## CVE-2024-46627 (2024-09-26T17:15:00)
+> Incorrect access control in BECN DATAGERRY v2.2 allows attackers to execute arbitrary commands via crafted web requests.
 - [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627)	<img alt="forks" src="https://img.shields.io/github/forks/d4lyw/CVE-2024-46627">	<img alt="stars" src="https://img.shields.io/github/stars/d4lyw/CVE-2024-46627">
 
 ---
