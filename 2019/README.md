@@ -847,6 +847,11 @@
 - [Live-Hack-CVE/CVE-2019-5114](https://github.com/Live-Hack-CVE/CVE-2019-5114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5114">
 
 ---
+## CVE-2019-4650 (2020-06-26T14:15:00)
+> IBM Maximo Asset Management 7.6.1.1 is vulnerable to SQL injection. A remote attacker could send specially-crafted SQL statements, which could allow the attacker to view, add, modify or delete information in the back-end database. IBM X-Force ID: 170961.
+- [aneeshanilkumar89/Maximo_Sql_Injection-CVE-2019-4650](https://github.com/aneeshanilkumar89/Maximo_Sql_Injection-CVE-2019-4650)	<img alt="forks" src="https://img.shields.io/github/forks/aneeshanilkumar89/Maximo_Sql_Injection-CVE-2019-4650">	<img alt="stars" src="https://img.shields.io/github/stars/aneeshanilkumar89/Maximo_Sql_Injection-CVE-2019-4650">
+
+---
 ## CVE-2019-4571 (2019-09-25T20:15:00)
 > IBM Content Navigator 3.0CD is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 166721.
 - [Live-Hack-CVE/CVE-2019-4571](https://github.com/Live-Hack-CVE/CVE-2019-4571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4571">
