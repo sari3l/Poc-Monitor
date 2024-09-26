@@ -72,6 +72,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-8275 (2024-09-25T05:15:00)
 > The The Events Calendar plugin for WordPress is vulnerable to SQL Injection via the 'order' parameter of the 'tribe_has_next_event' function in all versions up to, and including, 6.6.4 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. Only sites that have manually added tribe_has_next_event() will be vulnerable to this SQL injection.
 - [nothe1senberg/CVE-2024-8275](https://github.com/nothe1senberg/CVE-2024-8275)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-8275">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-8275">
+- [p33d/CVE-2024-8275](https://github.com/p33d/CVE-2024-8275)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-8275">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-8275">
 
 ---
 ## CVE-2024-8190 (2024-09-10T21:15:00)
