@@ -629,6 +629,14 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761)	<img alt="forks" src="https://img.shields.io/github/forks/michredteam/CVE-2024-4761">	<img alt="stars" src="https://img.shields.io/github/stars/michredteam/CVE-2024-4761">
 
 ---
+## CVE-2024-47176 (2024-09-26T22:15:00)
+> CUPS is a standards-based, open-source printing system, and `cups-browsed` contains network printing functionality including, but not limited to, auto-discovering print services and shared printers. `cups-browsed` binds to `INADDR_ANY:631`, causing it to trust any packet from any source, and can cause the `Get-Printer-Attributes` IPP request to an attacker controlled URL.
+
+Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-browsed` can be exploited in sequence to introduce a malicious printer to the system. This chain of exploits ultimately enables an attacker to execute arbitrary commands remotely on the target machine without authentication when a print job is started. This poses a significant security risk over the network. Notably, this vulnerability is particularly concerning as it can be exploited from the public internet, potentially exposing a vast number of systems to remote attacks if their CUPS services are enabled.
+- [workabhiwin09/CVE-2024-47176](https://github.com/workabhiwin09/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/workabhiwin09/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/workabhiwin09/CVE-2024-47176">
+- [GO0dspeed/spill](https://github.com/GO0dspeed/spill)	<img alt="forks" src="https://img.shields.io/github/forks/GO0dspeed/spill">	<img alt="stars" src="https://img.shields.io/github/stars/GO0dspeed/spill">
+
+---
 ## CVE-2024-47066 (2024-09-23T16:15:00)
 > Lobe Chat is an open-source artificial intelligence chat framework. Prior to version 1.19.13, server-side request forgery protection implemented in `src/app/api/proxy/route.ts` does not consider redirect and could be bypassed when attacker provides an external malicious URL which redirects to internal resources like a private network or loopback address. Version 1.19.13 contains an improved fix for the issue.
 - [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2024-47066">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2024-47066">
@@ -1225,23 +1233,23 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [KyssK00L/CVE-2024-40617](https://github.com/KyssK00L/CVE-2024-40617)	<img alt="forks" src="https://img.shields.io/github/forks/KyssK00L/CVE-2024-40617">	<img alt="stars" src="https://img.shields.io/github/stars/KyssK00L/CVE-2024-40617">
 
 ---
-## CVE-2024-40512 ()
-> 
+## CVE-2024-40512 (2024-09-27T14:15:00)
+> Cross Site Scripting vulnerability in openPetra v.2023.02 allows a remote attacker to obtain sensitive information via the serverMReporting.asmx function.
 - [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40512">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40512">
 
 ---
-## CVE-2024-40511 ()
-> 
+## CVE-2024-40511 (2024-09-27T14:15:00)
+> Cross Site Scripting vulnerability in openPetra v.2023.02 allows a remote attacker to obtain sensitive information via the serverMServerAdmin.asmx function.
 - [Jansen-C-Moreira/CVE-2024-40511](https://github.com/Jansen-C-Moreira/CVE-2024-40511)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40511">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40511">
 
 ---
-## CVE-2024-40510 ()
-> 
+## CVE-2024-40510 (2024-09-27T15:15:00)
+> Cross Site Scripting vulnerability in openPetra v.2023.02 allows a remote attacker to obtain sensitive information via the serverMCommon.asmx function.
 - [Jansen-C-Moreira/CVE-2024-40510](https://github.com/Jansen-C-Moreira/CVE-2024-40510)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40510">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40510">
 
 ---
-## CVE-2024-40509 ()
-> 
+## CVE-2024-40509 (2024-09-27T15:15:00)
+> Cross Site Scripting vulnerability in openPetra v.2023.02 allows a remote attacker to obtain sensitive information via the serverMFinDev.asmx function.
 - [Jansen-C-Moreira/CVE-2024-40509](https://github.com/Jansen-C-Moreira/CVE-2024-40509)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40509">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40509">
 
 ---
