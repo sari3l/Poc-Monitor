@@ -4031,6 +4031,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423)	<img alt="forks" src="https://img.shields.io/github/forks/DriverUnload/cve-2024-25423">	<img alt="stars" src="https://img.shields.io/github/stars/DriverUnload/cve-2024-25423">
 
 ---
+## CVE-2024-25412 ()
+> 
+- [paragbagul111/CVE-2024-25412](https://github.com/paragbagul111/CVE-2024-25412)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-25412">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-25412">
+
+---
 ## CVE-2024-25411 ()
 > 
 - [paragbagul111/CVE-2024-25411](https://github.com/paragbagul111/CVE-2024-25411)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-25411">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-25411">
