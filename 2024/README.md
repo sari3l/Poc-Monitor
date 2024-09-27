@@ -635,6 +635,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-browsed` can be exploited in sequence to introduce a malicious printer to the system. This chain of exploits ultimately enables an attacker to execute arbitrary commands remotely on the target machine without authentication when a print job is started. This poses a significant security risk over the network. Notably, this vulnerability is particularly concerning as it can be exploited from the public internet, potentially exposing a vast number of systems to remote attacks if their CUPS services are enabled.
 - [workabhiwin09/CVE-2024-47176](https://github.com/workabhiwin09/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/workabhiwin09/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/workabhiwin09/CVE-2024-47176">
 - [GO0dspeed/spill](https://github.com/GO0dspeed/spill)	<img alt="forks" src="https://img.shields.io/github/forks/GO0dspeed/spill">	<img alt="stars" src="https://img.shields.io/github/stars/GO0dspeed/spill">
+- [tonyarris/CVE-2024-47176-Scanner](https://github.com/tonyarris/CVE-2024-47176-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tonyarris/CVE-2024-47176-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tonyarris/CVE-2024-47176-Scanner">
 
 ---
 ## CVE-2024-47066 (2024-09-23T16:15:00)
@@ -4039,13 +4040,13 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423)	<img alt="forks" src="https://img.shields.io/github/forks/DriverUnload/cve-2024-25423">	<img alt="stars" src="https://img.shields.io/github/stars/DriverUnload/cve-2024-25423">
 
 ---
-## CVE-2024-25412 ()
-> 
+## CVE-2024-25412 (2024-09-27T18:15:00)
+> A cross-site scripting (XSS) vulnerability in Flatpress v1.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the email field.
 - [paragbagul111/CVE-2024-25412](https://github.com/paragbagul111/CVE-2024-25412)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-25412">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-25412">
 
 ---
-## CVE-2024-25411 ()
-> 
+## CVE-2024-25411 (2024-09-27T18:15:00)
+> A cross-site scripting (XSS) vulnerability in Flatpress v1.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the username parameter in setup.php.
 - [paragbagul111/CVE-2024-25411](https://github.com/paragbagul111/CVE-2024-25411)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-25411">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-25411">
 
 ---
