@@ -2601,6 +2601,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC">
 
 ---
+## CVE-2024-31835 ()
+> 
+- [paragbagul111/CVE-2024-31835](https://github.com/paragbagul111/CVE-2024-31835)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-31835">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-31835">
+
+---
 ## CVE-2024-3183 (2024-06-12T09:15:00)
 > A vulnerability was found in FreeIPA in a way when a Kerberos TGS-REQ is encrypted using the client’s session key. This key is different for each new session, which protects it from brute force attacks. However, the ticket it contains is encrypted using the target principal key directly. For user principals, this key is a hash of a public per-principal randomly-generated salt and the user’s password.
 
