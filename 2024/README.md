@@ -4031,6 +4031,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423)	<img alt="forks" src="https://img.shields.io/github/forks/DriverUnload/cve-2024-25423">	<img alt="stars" src="https://img.shields.io/github/stars/DriverUnload/cve-2024-25423">
 
 ---
+## CVE-2024-25411 ()
+> 
+- [paragbagul111/CVE-2024-25411](https://github.com/paragbagul111/CVE-2024-25411)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-25411">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-25411">
+
+---
 ## CVE-2024-25381 (2024-02-21T19:15:00)
 > There is a Stored XSS Vulnerability in Emlog Pro 2.2.8 Article Publishing, due to non-filtering of quoted content.
 - [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381)	<img alt="forks" src="https://img.shields.io/github/forks/Ox130e07d/CVE-2024-25381">	<img alt="stars" src="https://img.shields.io/github/stars/Ox130e07d/CVE-2024-25381">
