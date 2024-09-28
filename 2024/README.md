@@ -31,6 +31,11 @@
 - [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-9014">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-9014">
 
 ---
+## CVE-2024-8949 (2024-09-17T19:15:00)
+> A vulnerability classified as critical has been found in SourceCodester Online Eyewear Shop 1.0. This affects an unknown part of the file /classes/Master.php of the component Cart Content Handler. The manipulation of the argument cart_id/id leads to improper ownership management. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.
+- [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-8949-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-8949-POC">
+
+---
 ## CVE-2024-8752 (2024-09-16T16:15:00)
 > The Windows version of WebIQ 2.15.9 is affected by a directory traversal vulnerability that allows remote attackers to read any file on the system.
 - [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752)	<img alt="forks" src="https://img.shields.io/github/forks/D3anSPGDMS/CVE-2024-8752">	<img alt="stars" src="https://img.shields.io/github/stars/D3anSPGDMS/CVE-2024-8752">
@@ -636,6 +641,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [workabhiwin09/CVE-2024-47176](https://github.com/workabhiwin09/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/workabhiwin09/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/workabhiwin09/CVE-2024-47176">
 - [GO0dspeed/spill](https://github.com/GO0dspeed/spill)	<img alt="forks" src="https://img.shields.io/github/forks/GO0dspeed/spill">	<img alt="stars" src="https://img.shields.io/github/stars/GO0dspeed/spill">
 - [tonyarris/CVE-2024-47176-Scanner](https://github.com/tonyarris/CVE-2024-47176-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tonyarris/CVE-2024-47176-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tonyarris/CVE-2024-47176-Scanner">
+- [mr-r3b00t/CVE-2024-47176](https://github.com/mr-r3b00t/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2024-47176">
 
 ---
 ## CVE-2024-47066 (2024-09-23T16:15:00)
