@@ -746,6 +746,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-45519 ()
 > 
 - [TOB1a3/CVE-2024-45519-PoC](https://github.com/TOB1a3/CVE-2024-45519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TOB1a3/CVE-2024-45519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TOB1a3/CVE-2024-45519-PoC">
+- [p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-45519">
 
 ---
 ## CVE-2024-45507 (2024-09-04T09:15:00)
@@ -2305,6 +2306,16 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 > The Essential Addons for Elementor plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the URL attributes of widgets in all versions up to, and including, 5.9.14 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [JohnnyBradvo/CVE-2024-3333](https://github.com/JohnnyBradvo/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-3333">
 - [AlexLondan/CVE-2024-3333](https://github.com/AlexLondan/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-3333">
+
+---
+## CVE-2024-33210 ()
+> 
+- [paragbagul111/CVE-2024-33210](https://github.com/paragbagul111/CVE-2024-33210)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-33210">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-33210">
+
+---
+## CVE-2024-33209 ()
+> 
+- [paragbagul111/CVE-2024-33209](https://github.com/paragbagul111/CVE-2024-33209)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-33209">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-33209">
 
 ---
 ## CVE-2024-33113 (2024-05-06T15:15:00)
