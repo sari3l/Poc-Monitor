@@ -4328,6 +4328,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-24409 ()
 > 
 - [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2024-24409">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2024-24409">
+- [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2024-24409">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2024-24409">
 
 ---
 ## CVE-2024-24401 (2024-02-26T17:15:00)
