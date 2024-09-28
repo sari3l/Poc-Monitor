@@ -1753,6 +1753,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-36837 (2024-06-05T15:15:00)
 > SQL Injection vulnerability in CRMEB v.5.2.2 allows a remote attacker to obtain sensitive information via the getProductList function in the ProductController.php file.
 - [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837)	<img alt="forks" src="https://img.shields.io/github/forks/phtcloud-dev/CVE-2024-36837">	<img alt="stars" src="https://img.shields.io/github/stars/phtcloud-dev/CVE-2024-36837">
+- [lhc321-source/CVE-2024-36837](https://github.com/lhc321-source/CVE-2024-36837)	<img alt="forks" src="https://img.shields.io/github/forks/lhc321-source/CVE-2024-36837">	<img alt="stars" src="https://img.shields.io/github/stars/lhc321-source/CVE-2024-36837">
 
 ---
 ## CVE-2024-36821 (2024-06-11T18:15:00)
