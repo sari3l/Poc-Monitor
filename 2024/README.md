@@ -1021,6 +1021,11 @@ Allocated by task 6166:
 - [KTN1990/CVE-2024-43918](https://github.com/KTN1990/CVE-2024-43918)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-43918">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-43918">
 
 ---
+## CVE-2024-43917 (2024-08-29T15:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TemplateInvaders TI WooCommerce Wishlist allows SQL Injection.This issue affects TI WooCommerce Wishlist: from n/a through 2.8.2.
+- [p33d/CVE-2024-43917](https://github.com/p33d/CVE-2024-43917)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-43917">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-43917">
+
+---
 ## CVE-2024-4367 (2024-05-14T18:15:00)
 > A type check was missing when handling fonts in PDF.js, which would allow arbitrary JavaScript execution in the PDF.js context. This vulnerability affects Firefox < 126, Firefox ESR < 115.11, and Thunderbird < 115.11.
 - [LOURC0D3/CVE-2024-4367-PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-4367-PoC">
