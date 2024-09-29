@@ -645,6 +645,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [aytackalinci/CVE-2024-47176](https://github.com/aytackalinci/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/aytackalinci/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/aytackalinci/CVE-2024-47176">
 
 ---
+## CVE-2024-47076 (2024-09-26T22:15:00)
+> CUPS is a standards-based, open-source printing system, and `libcupsfilters` contains the code of the filters of the former `cups-filters` package as library functions to be used for the data format conversion tasks needed in Printer Applications. The `cfGetPrinterAttributes5` function in `libcupsfilters` does not sanitize IPP attributes returned from an IPP server. When these IPP attributes are used, for instance, to generate a PPD file, this can lead to attacker controlled data to be provided to the rest of the CUPS system.
+- [mutkus/CVE-2024-47076](https://github.com/mutkus/CVE-2024-47076)	<img alt="forks" src="https://img.shields.io/github/forks/mutkus/CVE-2024-47076">	<img alt="stars" src="https://img.shields.io/github/stars/mutkus/CVE-2024-47076">
+
+---
 ## CVE-2024-47066 (2024-09-23T16:15:00)
 > Lobe Chat is an open-source artificial intelligence chat framework. Prior to version 1.19.13, server-side request forgery protection implemented in `src/app/api/proxy/route.ts` does not consider redirect and could be bypassed when attacker provides an external malicious URL which redirects to internal resources like a private network or loopback address. Version 1.19.13 contains an improved fix for the issue.
 - [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2024-47066">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2024-47066">
