@@ -6035,6 +6035,7 @@
 - [cc3305/CVE-2021-3129](https://github.com/cc3305/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2021-3129">
 - [piperpwn/CVE-2021-3129-](https://github.com/piperpwn/CVE-2021-3129-)	<img alt="forks" src="https://img.shields.io/github/forks/piperpwn/CVE-2021-3129-">	<img alt="stars" src="https://img.shields.io/github/stars/piperpwn/CVE-2021-3129-">
 - [Y0s9/CVE-2021-3129](https://github.com/Y0s9/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Y0s9/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Y0s9/CVE-2021-3129">
+- [0x0d3ad/CVE-2021-3129](https://github.com/0x0d3ad/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2021-3129">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)
