@@ -1549,6 +1549,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vx7z/CVE-2024-38189](https://github.com/vx7z/CVE-2024-38189)	<img alt="forks" src="https://img.shields.io/github/forks/vx7z/CVE-2024-38189">	<img alt="stars" src="https://img.shields.io/github/stars/vx7z/CVE-2024-38189">
 
 ---
+## CVE-2024-38144 (2024-08-13T18:15:00)
+> Kernel Streaming WOW Thunk Service Driver Elevation of Privilege Vulnerability
+- [Dor00tkit/CVE-2024-38144](https://github.com/Dor00tkit/CVE-2024-38144)	<img alt="forks" src="https://img.shields.io/github/forks/Dor00tkit/CVE-2024-38144">	<img alt="stars" src="https://img.shields.io/github/stars/Dor00tkit/CVE-2024-38144">
+
+---
 ## CVE-2024-38143 (2024-08-13T18:15:00)
 > Windows WLAN AutoConfig Service Elevation of Privilege Vulnerability
 - [hanks445/CVE-2024-38143-poc](https://github.com/hanks445/CVE-2024-38143-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hanks445/CVE-2024-38143-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hanks445/CVE-2024-38143-poc">
