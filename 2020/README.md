@@ -4201,6 +4201,11 @@
 - [Live-Hack-CVE/CVE-2020-13528](https://github.com/Live-Hack-CVE/CVE-2020-13528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13528">
 
 ---
+## CVE-2020-13519 (2020-12-18T20:15:00)
+> A privilege escalation vulnerability exists in the WinRing0x64 Driver IRP 0x9c402088 functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. An attacker can send a malicious IRP to trigger this vulnerability.
+- [SpiralBL0CK/poc-for-CVE-2020-13519-still-under-construction-](https://github.com/SpiralBL0CK/poc-for-CVE-2020-13519-still-under-construction-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/poc-for-CVE-2020-13519-still-under-construction-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/poc-for-CVE-2020-13519-still-under-construction-">
+
+---
 ## CVE-2020-1350 (2020-07-14T23:15:00)
 > A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka 'Windows DNS Server Remote Code Execution Vulnerability'.
 - [T13nn3s/CVE-2020-1350](https://github.com/T13nn3s/CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/T13nn3s/CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/T13nn3s/CVE-2020-1350">
