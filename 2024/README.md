@@ -3554,6 +3554,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 > The SolarWinds Web Help Desk (WHD) software is affected by a hardcoded credential vulnerability, allowing remote unauthenticated user to access internal functionality and modify data.
 - [fa-rrel/CVE-2024-28987-POC](https://github.com/fa-rrel/CVE-2024-28987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-28987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-28987-POC">
 - [horizon3ai/CVE-2024-28987](https://github.com/horizon3ai/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-28987">
+- [PlayerFridei/CVE-2024-28987](https://github.com/PlayerFridei/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/PlayerFridei/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/PlayerFridei/CVE-2024-28987">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
