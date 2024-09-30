@@ -4183,6 +4183,16 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [uthrasri/CVE-2023-33902_single_file](https://github.com/uthrasri/CVE-2023-33902_single_file)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-33902_single_file">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-33902_single_file">
 
 ---
+## CVE-2023-3390 (2023-06-28T21:15:00)
+> A use-after-free vulnerability was found in the Linux kernel's netfilter subsystem in net/netfilter/nf_tables_api.c.
+
+Mishandled error handling with NFT_MSG_NEWRULE makes it possible to use a dangling pointer in the same transaction causing a use-after-free vulnerability. This flaw allows a local attacker with user access to cause a privilege escalation issue.
+
+We recommend upgrading past commit 1240eb93f0616b21c675416516ff3d74798fdc97.
+- [flygonty/CVE-2023-3390_PoC](https://github.com/flygonty/CVE-2023-3390_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/flygonty/CVE-2023-3390_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/flygonty/CVE-2023-3390_PoC">
+- [uthrasri/CVE-2023-33902_single_file](https://github.com/uthrasri/CVE-2023-33902_single_file)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-33902_single_file">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-33902_single_file">
+
+---
 ## CVE-2023-33831 (2023-09-18T20:15:00)
 > A remote command execution (RCE) vulnerability in the /api/runscript endpoint of FUXA 1.1.13 allows attackers to execute arbitrary commands via a crafted POST request.
 - [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">
