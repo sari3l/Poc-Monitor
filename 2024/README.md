@@ -72,6 +72,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-8353 (2024-09-28T02:15:00)
 > The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.16.1 via deserialization of untrusted input via several parameters like 'give_title' and 'card_address'. This makes it possible for unauthenticated attackers to inject a PHP Object. The additional presence of a POP chain allows attackers to delete arbitrary files and achieve remote code execution. This is essentially the same vulnerability as CVE-2024-5932, however, it was discovered the the presence of stripslashes_deep on user_info allows the is_serialized check to be bypassed. This issue was mostly patched in 3.16.1, but further hardening was added in 3.16.2.
 - [maybeheisenberg/CVE-2024-8353](https://github.com/maybeheisenberg/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-8353">
+- [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-8353">
 
 ---
 ## CVE-2024-8349 (2024-09-25T03:15:00)
