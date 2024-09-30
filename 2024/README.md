@@ -649,6 +649,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [mr-r3b00t/CVE-2024-47176](https://github.com/mr-r3b00t/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2024-47176">
 - [aytackalinci/CVE-2024-47176](https://github.com/aytackalinci/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/aytackalinci/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/aytackalinci/CVE-2024-47176">
 - [nma-io/CVE-2024-47176](https://github.com/nma-io/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/nma-io/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/nma-io/CVE-2024-47176">
+- [lkarlslund/jugular](https://github.com/lkarlslund/jugular)	<img alt="forks" src="https://img.shields.io/github/forks/lkarlslund/jugular">	<img alt="stars" src="https://img.shields.io/github/stars/lkarlslund/jugular">
 
 ---
 ## CVE-2024-47076 (2024-09-26T22:15:00)
