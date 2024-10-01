@@ -84,6 +84,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [maybeheisenberg/CVE-2024-8353](https://github.com/maybeheisenberg/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-8353">
 - [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-8353">
 - [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-8353">
+- [p33d/CVE-2024-8353](https://github.com/p33d/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-8353">
 
 ---
 ## CVE-2024-8349 (2024-09-25T03:15:00)
