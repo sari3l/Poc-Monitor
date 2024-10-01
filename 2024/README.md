@@ -2682,8 +2682,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC">
 
 ---
-## CVE-2024-31835 ()
-> 
+## CVE-2024-31835 (2024-10-01T19:15:00)
+> Cross Site Scripting vulnerability in flatpress CMS Flatpress v1.3 allows a remote attacker to execute arbitrary code via a crafted payload to the file name parameter.
 - [paragbagul111/CVE-2024-31835](https://github.com/paragbagul111/CVE-2024-31835)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-31835">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-31835">
 
 ---
