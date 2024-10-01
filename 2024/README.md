@@ -1239,6 +1239,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting](https://github.com/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting)	<img alt="forks" src="https://img.shields.io/github/forks/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting">	<img alt="stars" src="https://img.shields.io/github/stars/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting">
 
 ---
+## CVE-2024-41290 ()
+> 
+- [paragbagul111/CVE-2024-41290](https://github.com/paragbagul111/CVE-2024-41290)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-41290">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-41290">
+
+---
 ## CVE-2024-41110 (2024-07-24T17:15:00)
 > Moby is an open-source project created by Docker for software containerization. A security vulnerability has been detected in certain versions of Docker Engine, which could allow an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The base likelihood of this being exploited is low.
 
