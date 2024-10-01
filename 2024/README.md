@@ -16,6 +16,11 @@
 - [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166)	<img alt="forks" src="https://img.shields.io/github/forks/Andrysqui/CVE-2024-9166">	<img alt="stars" src="https://img.shields.io/github/stars/Andrysqui/CVE-2024-9166">
 
 ---
+## CVE-2024-9106 ()
+> 
+- [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9106">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9106">
+
+---
 ## CVE-2024-9080 (2024-09-22T07:15:00)
 > A vulnerability was found in code-projects Student Record System 1.0. It has been classified as critical. Affected is an unknown function of the file /pincode-verification.php. The manipulation of the argument pincode leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.
 - [nothe1senberg/CVE-2024-9080](https://github.com/nothe1senberg/CVE-2024-9080)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9080">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9080">
