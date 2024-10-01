@@ -322,6 +322,11 @@
 - [Frivolous-scholar/CVE-2017-5941-NodeJS-RCE](https://github.com/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">
 
 ---
+## CVE-2017-5871 (2019-05-22T20:29:00)
+> Odoo Version <= 8.0-20160726 and Version 9 is affected by: CWE-601: Open redirection. The impact is: obtain sensitive information (remote).
+- [1337secengineer/CVE-2017-5871](https://github.com/1337secengineer/CVE-2017-5871)	<img alt="forks" src="https://img.shields.io/github/forks/1337secengineer/CVE-2017-5871">	<img alt="stars" src="https://img.shields.io/github/stars/1337secengineer/CVE-2017-5871">
+
+---
 ## CVE-2017-5715 (2018-01-04T13:29:00)
 > Systems with microprocessors utilizing speculative execution and indirect branch prediction may allow unauthorized disclosure of information to an attacker with local user access via a side-channel analysis.
 - [GalloLuigi/Analisi-CVE-2017-5715](https://github.com/GalloLuigi/Analisi-CVE-2017-5715)	<img alt="forks" src="https://img.shields.io/github/forks/GalloLuigi/Analisi-CVE-2017-5715">	<img alt="stars" src="https://img.shields.io/github/stars/GalloLuigi/Analisi-CVE-2017-5715">
