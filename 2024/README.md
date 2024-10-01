@@ -11,6 +11,11 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-9166 (2024-09-26T17:15:00)
+> The device enables an unauthorized attacker to execute system commands with elevated privileges. This exploit is facilitated through the use of the 'getcommand' query within the application, allowing the attacker to gain root access.
+- [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166)	<img alt="forks" src="https://img.shields.io/github/forks/Andrysqui/CVE-2024-9166">	<img alt="stars" src="https://img.shields.io/github/stars/Andrysqui/CVE-2024-9166">
+
+---
 ## CVE-2024-9080 (2024-09-22T07:15:00)
 > A vulnerability was found in code-projects Student Record System 1.0. It has been classified as critical. Affected is an unknown function of the file /pincode-verification.php. The manipulation of the argument pincode leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.
 - [nothe1senberg/CVE-2024-9080](https://github.com/nothe1senberg/CVE-2024-9080)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9080">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9080">
@@ -673,6 +678,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-46986 (2024-09-18T18:15:00)
 > Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails. An arbitrary file write vulnerability accessible via the upload method of the MediaController allows authenticated users to write arbitrary files to any location on the web server Camaleon CMS is running on (depending on the permissions of the underlying filesystem). E.g. This can lead to a delayed remote code execution in case an attacker is able to write a Ruby file into the config/initializers/ subfolder of the Ruby on Rails application. This issue has been addressed in release version 2.8.2. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46986">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46986">
+
+---
+## CVE-2024-46635 (2024-09-30T18:15:00)
+> An issue in the API endpoint /AccountMaster/GetCurrentUserInfo of INROAD before v202402060 allows attackers to access sensitive information via a crafted payload to the UserNameOrPhoneNumber parameter.
+- [h1thub/CVE-2024-46635](https://github.com/h1thub/CVE-2024-46635)	<img alt="forks" src="https://img.shields.io/github/forks/h1thub/CVE-2024-46635">	<img alt="stars" src="https://img.shields.io/github/stars/h1thub/CVE-2024-46635">
 
 ---
 ## CVE-2024-46627 (2024-09-26T17:15:00)
