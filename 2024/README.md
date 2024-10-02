@@ -85,6 +85,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-8353">
 - [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-8353">
 - [p33d/CVE-2024-8353](https://github.com/p33d/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-8353">
+- [nothe1senberg/CVE-2024-8353](https://github.com/nothe1senberg/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-8353">
 
 ---
 ## CVE-2024-8349 (2024-09-25T03:15:00)
@@ -2038,6 +2039,11 @@ PANIC from 6.8.0-rc1:
 ## CVE-2024-35315 ()
 > 
 - [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-35315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-35315-POC">
+
+---
+## CVE-2024-35293 (2024-10-02T10:15:00)
+> An unauthenticated remote attacker may use a missing authentication for critical function vulnerability to reboot or erase the affected devices resulting in data loss and/or a DoS.
+- [nothe1senberg/CVE-2024-35293](https://github.com/nothe1senberg/CVE-2024-35293)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-35293">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-35293">
 
 ---
 ## CVE-2024-35242 (2024-06-10T22:15:00)
