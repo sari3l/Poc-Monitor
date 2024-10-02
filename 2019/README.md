@@ -1731,6 +1731,8 @@
 - [trhacknon/CVE-2019-19781](https://github.com/trhacknon/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-19781">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 - [trustedsec/cve-2019-19781](https://github.com/trustedsec/cve-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trustedsec/cve-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trustedsec/cve-2019-19781">
+- [citrixgitoff/-ioc-scanner-CVE-2019-19781](https://github.com/citrixgitoff/-ioc-scanner-CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/citrixgitoff/-ioc-scanner-CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/citrixgitoff/-ioc-scanner-CVE-2019-19781">
+- [zerobytesecure/CVE-2019-19781](https://github.com/zerobytesecure/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/zerobytesecure/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/zerobytesecure/CVE-2019-19781">
 
 ---
 ## CVE-2019-19725 (2019-12-11T18:16:00)
