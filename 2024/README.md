@@ -696,8 +696,8 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46986">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46986">
 
 ---
-## CVE-2024-46658 ()
-> 
+## CVE-2024-46658 (2024-10-03T21:15:00)
+> Syrotech SY-GOPON-8OLT-L3 v1.6.0_240629 was discovered to contain an authenticated command injection vulnerability.
 - [jackalkarlos/CVE-2024-46658](https://github.com/jackalkarlos/CVE-2024-46658)	<img alt="forks" src="https://img.shields.io/github/forks/jackalkarlos/CVE-2024-46658">	<img alt="stars" src="https://img.shields.io/github/stars/jackalkarlos/CVE-2024-46658">
 
 ---
