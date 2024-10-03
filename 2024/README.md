@@ -5943,6 +5943,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [Forsaken0129/CVE-2024-0582](https://github.com/Forsaken0129/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/Forsaken0129/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/Forsaken0129/CVE-2024-0582">
 - [FoxyProxys/CVE-2024-0582](https://github.com/FoxyProxys/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-0582">
 - [0ptyx/cve-2024-0582](https://github.com/0ptyx/cve-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/0ptyx/cve-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/0ptyx/cve-2024-0582">
+- [geniuszlyy/CVE-2024-0582](https://github.com/geniuszlyy/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-0582">
 
 ---
 ## CVE-2024-0566 (2024-02-12T16:15:00)
