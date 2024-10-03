@@ -2788,6 +2788,11 @@
 - [bitnesswise/jquery-prototype-pollution-fix](https://github.com/bitnesswise/jquery-prototype-pollution-fix)	<img alt="forks" src="https://img.shields.io/github/forks/bitnesswise/jquery-prototype-pollution-fix">	<img alt="stars" src="https://img.shields.io/github/stars/bitnesswise/jquery-prototype-pollution-fix">
 
 ---
+## CVE-2019-11248 (2019-08-29T01:15:00)
+> The debugging endpoint /debug/pprof is exposed over the unauthenticated Kubelet healthz port. The go pprof endpoint is exposed over the Kubelet's healthz port. This debugging endpoint can potentially leak sensitive information such as internal Kubelet memory addresses and configuration, or for limited denial of service. Versions prior to 1.15.0, 1.14.4, 1.13.8, and 1.12.10 are affected. The issue is of medium severity, but not exposed by the default configuration.
+- [nop2nop/cve-2019-11248](https://github.com/nop2nop/cve-2019-11248)	<img alt="forks" src="https://img.shields.io/github/forks/nop2nop/cve-2019-11248">	<img alt="stars" src="https://img.shields.io/github/stars/nop2nop/cve-2019-11248">
+
+---
 ## CVE-2019-11113 (2019-11-14T20:15:00)
 > Buffer overflow in Kernel Mode module for Intel(R) Graphics Driver before version 25.20.100.6618 (DCH) or 21.20.x.5077 (aka15.45.5077) may allow a privileged user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2019-11113](https://github.com/Live-Hack-CVE/CVE-2019-11113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11113">
