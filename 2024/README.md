@@ -695,6 +695,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46986">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46986">
 
 ---
+## CVE-2024-46658 ()
+> 
+- [jackalkarlos/CVE-2024-46658](https://github.com/jackalkarlos/CVE-2024-46658)	<img alt="forks" src="https://img.shields.io/github/forks/jackalkarlos/CVE-2024-46658">	<img alt="stars" src="https://img.shields.io/github/stars/jackalkarlos/CVE-2024-46658">
+
+---
 ## CVE-2024-46635 (2024-09-30T18:15:00)
 > An issue in the API endpoint /AccountMaster/GetCurrentUserInfo of INROAD before v202402060 allows attackers to access sensitive information via a crafted payload to the UserNameOrPhoneNumber parameter.
 - [h1thub/CVE-2024-46635](https://github.com/h1thub/CVE-2024-46635)	<img alt="forks" src="https://img.shields.io/github/forks/h1thub/CVE-2024-46635">	<img alt="stars" src="https://img.shields.io/github/stars/h1thub/CVE-2024-46635">
