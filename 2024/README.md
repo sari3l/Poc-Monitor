@@ -1704,8 +1704,8 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-38041">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-38041">
 
 ---
-## CVE-2024-38036 ()
-> 
+## CVE-2024-38036 (2024-10-04T18:15:00)
+> There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.9.1, 10.8.1 and 10.7.1 which may allow a remote, unauthenticated attacker to create a crafted link which when clicked could potentially execute arbitrary JavaScript code in the victim’s browser.
 - [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/CVE-2024-38036">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/CVE-2024-38036">
 
 ---
