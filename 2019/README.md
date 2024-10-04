@@ -2791,6 +2791,7 @@
 ## CVE-2019-11248 (2019-08-29T01:15:00)
 > The debugging endpoint /debug/pprof is exposed over the unauthenticated Kubelet healthz port. The go pprof endpoint is exposed over the Kubelet's healthz port. This debugging endpoint can potentially leak sensitive information such as internal Kubelet memory addresses and configuration, or for limited denial of service. Versions prior to 1.15.0, 1.14.4, 1.13.8, and 1.12.10 are affected. The issue is of medium severity, but not exposed by the default configuration.
 - [nop2nop/cve-2019-11248](https://github.com/nop2nop/cve-2019-11248)	<img alt="forks" src="https://img.shields.io/github/forks/nop2nop/cve-2019-11248">	<img alt="stars" src="https://img.shields.io/github/stars/nop2nop/cve-2019-11248">
+- [masm3264/poc-CVE-2019-11248](https://github.com/masm3264/poc-CVE-2019-11248)	<img alt="forks" src="https://img.shields.io/github/forks/masm3264/poc-CVE-2019-11248">	<img alt="stars" src="https://img.shields.io/github/stars/masm3264/poc-CVE-2019-11248">
 
 ---
 ## CVE-2019-11113 (2019-11-14T20:15:00)
