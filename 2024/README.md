@@ -2103,6 +2103,11 @@ PANIC from 6.8.0-rc1:
 - [enzored/CVE-2024-34831](https://github.com/enzored/CVE-2024-34831)	<img alt="forks" src="https://img.shields.io/github/forks/enzored/CVE-2024-34831">	<img alt="stars" src="https://img.shields.io/github/stars/enzored/CVE-2024-34831">
 
 ---
+## CVE-2024-34741 (2024-08-15T22:15:00)
+> In setForceHideNonSystemOverlayWindowIfNeeded of WindowState.java, there is a possible way for message content to be visible on the screensaver while lock screen visibility settings are restricted by the user due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [uthrasri/CVE-2024-34741](https://github.com/uthrasri/CVE-2024-34741)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-34741">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-34741">
+
+---
 ## CVE-2024-34739 (2024-08-15T22:15:00)
 > In shouldRestrictOverlayActivities of UsbProfileGroupSettingsManager.java, there is a possible escape from SUW due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.
 - [uthrasri/CVE-2024-34739](https://github.com/uthrasri/CVE-2024-34739)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-34739">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-34739">
