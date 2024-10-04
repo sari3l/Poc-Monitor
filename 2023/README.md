@@ -2326,6 +2326,11 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [miguelc49/CVE-2023-41592-2](https://github.com/miguelc49/CVE-2023-41592-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-41592-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-41592-2">
 
 ---
+## CVE-2023-41564 (2023-09-08T23:15:00)
+> An arbitrary file upload vulnerability in the Upload Asset function of Cockpit CMS v2.6.3 allows attackers to execute arbitrary code via uploading a crafted .shtml file.
+- [sota70/cve-2023-41564-research](https://github.com/sota70/cve-2023-41564-research)	<img alt="forks" src="https://img.shields.io/github/forks/sota70/cve-2023-41564-research">	<img alt="stars" src="https://img.shields.io/github/stars/sota70/cve-2023-41564-research">
+
+---
 ## CVE-2023-41538 (2023-08-30T14:15:00)
 > phpjabbers PHP Forum Script 3.0 is vulnerable to Cross Site Scripting (XSS) via the keyword parameter.
 - [codeb0ss/CVE-2023-41538-PoC](https://github.com/codeb0ss/CVE-2023-41538-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-41538-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-41538-PoC">

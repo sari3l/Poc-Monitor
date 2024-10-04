@@ -1059,6 +1059,7 @@ Allocated by task 6166:
 ## CVE-2024-44193 (2024-10-02T15:15:00)
 > A logic issue was addressed with improved restrictions. This issue is fixed in iTunes 12.13.3 for Windows. A local attacker may be able to elevate  their privileges.
 - [mbog14/CVE-2024-44193](https://github.com/mbog14/CVE-2024-44193)	<img alt="forks" src="https://img.shields.io/github/forks/mbog14/CVE-2024-44193">	<img alt="stars" src="https://img.shields.io/github/stars/mbog14/CVE-2024-44193">
+- [mbog14/CVE-2024-44193](https://github.com/mbog14/CVE-2024-44193)	<img alt="forks" src="https://img.shields.io/github/forks/mbog14/CVE-2024-44193">	<img alt="stars" src="https://img.shields.io/github/stars/mbog14/CVE-2024-44193">
 
 ---
 ## CVE-2024-44083 (2024-08-19T04:15:00)
