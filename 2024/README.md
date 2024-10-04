@@ -793,6 +793,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-](https://github.com/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-">
 - [phirojshah/CVE-2024-4577](https://github.com/phirojshah/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/phirojshah/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/phirojshah/CVE-2024-4577">
 - [ywChen-NTUST/PHP-CGI-RCE-Scanner](https://github.com/ywChen-NTUST/PHP-CGI-RCE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ywChen-NTUST/PHP-CGI-RCE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ywChen-NTUST/PHP-CGI-RCE-Scanner">
+- [JeninSutradhar/CVE-2024-4577-checker](https://github.com/JeninSutradhar/CVE-2024-4577-checker)	<img alt="forks" src="https://img.shields.io/github/forks/JeninSutradhar/CVE-2024-4577-checker">	<img alt="stars" src="https://img.shields.io/github/stars/JeninSutradhar/CVE-2024-4577-checker">
 
 ---
 ## CVE-2024-45614 (2024-09-19T23:15:00)
