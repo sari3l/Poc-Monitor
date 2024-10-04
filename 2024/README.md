@@ -153,6 +153,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [l8BL/CVE-2024-7856](https://github.com/l8BL/CVE-2024-7856)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2024-7856">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2024-7856">
 
 ---
+## CVE-2024-7854 (2024-08-21T06:15:00)
+> The Woo Inquiry plugin for WordPress is vulnerable to SQL Injection in all versions up to, and including, 0.1 due to insufficient escaping on the user supplied parameter 'dbid' and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
+- [RandomRobbieBF/CVE-2024-7854](https://github.com/RandomRobbieBF/CVE-2024-7854)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-7854">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-7854">
+
+---
 ## CVE-2024-7703 (2024-08-17T12:15:00)
 > The ARMember – Membership Plugin, Content Restriction, Member Levels, User Profile & User signup plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 4.0.37 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.
 - [lfillaz/CVE-2024-7703](https://github.com/lfillaz/CVE-2024-7703)	<img alt="forks" src="https://img.shields.io/github/forks/lfillaz/CVE-2024-7703">	<img alt="stars" src="https://img.shields.io/github/stars/lfillaz/CVE-2024-7703">
