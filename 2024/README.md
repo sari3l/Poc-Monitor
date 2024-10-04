@@ -4046,6 +4046,11 @@ are not yet active.
 - [ldpreload/CVE-2024-26169](https://github.com/ldpreload/CVE-2024-26169)	<img alt="forks" src="https://img.shields.io/github/forks/ldpreload/CVE-2024-26169">	<img alt="stars" src="https://img.shields.io/github/stars/ldpreload/CVE-2024-26169">
 
 ---
+## CVE-2024-26160 (2024-03-12T17:15:00)
+> Windows Cloud Files Mini Filter Driver Information Disclosure Vulnerability
+- [0x00Alchemist/CVE-2024-26160](https://github.com/0x00Alchemist/CVE-2024-26160)	<img alt="forks" src="https://img.shields.io/github/forks/0x00Alchemist/CVE-2024-26160">	<img alt="stars" src="https://img.shields.io/github/stars/0x00Alchemist/CVE-2024-26160">
+
+---
 ## CVE-2024-26026 (2024-05-08T15:15:00)
 > 
 
