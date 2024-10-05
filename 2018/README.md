@@ -1564,6 +1564,7 @@
 ## CVE-2018-0834 (2018-02-15T02:29:00)
 > Microsoft Edge and ChakraCore in Microsoft Windows 10 Gold, 1511, 1607, 1703, 1709, and Windows Server 2016 allows remote code execution, due to how the scripting engine handles objects in memory, aka "Scripting Engine Memory Corruption Vulnerability". This CVE ID is unique from CVE-2018-0835, CVE-2018-0836, CVE-2018-0837, CVE-2018-0838, CVE-2018-0840, CVE-2018-0856, CVE-2018-0857, CVE-2018-0858, CVE-2018-0859, CVE-2018-0860, CVE-2018-0861, and CVE-2018-0866.
 - [SpiralBL0CK/-CVE-2018-0834-aab-aar](https://github.com/SpiralBL0CK/-CVE-2018-0834-aab-aar)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/-CVE-2018-0834-aab-aar">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/-CVE-2018-0834-aab-aar">
+- [SpiralBL0CK/CVE-2018-0834-write-up](https://github.com/SpiralBL0CK/CVE-2018-0834-write-up)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2018-0834-write-up">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2018-0834-write-up">
 
 ---
 ## CVE-2018-0798 (2018-01-10T01:29:00)
