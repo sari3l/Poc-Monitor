@@ -4046,6 +4046,7 @@ are not yet active.
 
 
 - [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">
+- [X-Projetion/CVE-2024-26304-RCE-exploit](https://github.com/X-Projetion/CVE-2024-26304-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-26304-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-26304-RCE-exploit">
 
 ---
 ## CVE-2024-26230 (2024-04-09T17:15:00)
