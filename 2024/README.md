@@ -746,8 +746,8 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [UwUtisum/CVE-2024-46310](https://github.com/UwUtisum/CVE-2024-46310)	<img alt="forks" src="https://img.shields.io/github/forks/UwUtisum/CVE-2024-46310">	<img alt="stars" src="https://img.shields.io/github/stars/UwUtisum/CVE-2024-46310">
 
 ---
-## CVE-2024-46278 ()
-> 
+## CVE-2024-46278 (2024-10-07T16:15:00)
+> Teedy 1.11 is vulnerable to Cross Site Scripting (XSS) via the management console.
 - [ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover](https://github.com/ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover)	<img alt="forks" src="https://img.shields.io/github/forks/ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover">	<img alt="stars" src="https://img.shields.io/github/stars/ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover">
 
 ---
