@@ -1145,6 +1145,11 @@ Allocated by task 6166:
 - [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4352-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4352-Poc">
 
 ---
+## CVE-2024-43363 (2024-10-07T21:15:00)
+> Cacti is an open source performance and fault management framework. An admin user can create a device with a malicious hostname containing php code and repeat the installation process (completing only step 5 of the installation process is enough, no need to complete the steps before or after it) to use a php file as the cacti log file. After having the malicious hostname end up in the logs (log poisoning), one can simply go to the log file url to execute commands to achieve RCE. This issue has been addressed in version 1.2.28 and all users are advised to upgrade. There are no known workarounds for this vulnerability.
+- [p33d/CVE-2024-43363](https://github.com/p33d/CVE-2024-43363)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-43363">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-43363">
+
+---
 ## CVE-2024-4323 (2024-05-20T12:15:00)
 > A memory corruption vulnerability in Fluent Bit versions 2.0.7 thru 3.0.3. This issue lies in the embedded http server’s parsing of trace requests and may result in denial of service conditions, information disclosure, or remote code execution.
 - [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skilfoy/CVE-2024-4323-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skilfoy/CVE-2024-4323-Exploit-POC">
