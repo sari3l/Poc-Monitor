@@ -685,6 +685,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [WillGAndre/explo](https://github.com/WillGAndre/explo)	<img alt="forks" src="https://img.shields.io/github/forks/WillGAndre/explo">	<img alt="stars" src="https://img.shields.io/github/stars/WillGAndre/explo">
 - [l0n3m4n/CVE-2024-47176](https://github.com/l0n3m4n/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-47176">
 - [gumerzzzindo/CVE-2024-47176](https://github.com/gumerzzzindo/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/gumerzzzindo/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/gumerzzzindo/CVE-2024-47176">
+- [MalwareTech/CVE-2024-47176-Scanner](https://github.com/MalwareTech/CVE-2024-47176-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/MalwareTech/CVE-2024-47176-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/MalwareTech/CVE-2024-47176-Scanner">
 
 ---
 ## CVE-2024-47076 (2024-09-26T22:15:00)
