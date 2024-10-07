@@ -741,7 +741,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ---
 ## CVE-2024-46310 ()
 > 
-- [UwUtisum/FiveM-CVE-2024-46310-POC](https://github.com/UwUtisum/FiveM-CVE-2024-46310-POC)	<img alt="forks" src="https://img.shields.io/github/forks/UwUtisum/FiveM-CVE-2024-46310-POC">	<img alt="stars" src="https://img.shields.io/github/stars/UwUtisum/FiveM-CVE-2024-46310-POC">
+- [UwUtisum/CVE-2024-46310](https://github.com/UwUtisum/CVE-2024-46310)	<img alt="forks" src="https://img.shields.io/github/forks/UwUtisum/CVE-2024-46310">	<img alt="stars" src="https://img.shields.io/github/stars/UwUtisum/CVE-2024-46310">
 
 ---
 ## CVE-2024-46278 ()
