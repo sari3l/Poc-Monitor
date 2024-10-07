@@ -810,6 +810,7 @@
 - [murataydemir/CVE-2020-6287](https://github.com/murataydemir/CVE-2020-6287)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2020-6287">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2020-6287">
 - [ynsmroztas/CVE-2020-6287-Sap-Add-User](https://github.com/ynsmroztas/CVE-2020-6287-Sap-Add-User)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2020-6287-Sap-Add-User">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2020-6287-Sap-Add-User">
 - [duc-nt/CVE-2020-6287-exploit](https://github.com/duc-nt/CVE-2020-6287-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/duc-nt/CVE-2020-6287-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/duc-nt/CVE-2020-6287-exploit">
+- [dylvie/CVE-2020-6287_SAP-NetWeaver-bypass-auth](https://github.com/dylvie/CVE-2020-6287_SAP-NetWeaver-bypass-auth)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2020-6287_SAP-NetWeaver-bypass-auth">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2020-6287_SAP-NetWeaver-bypass-auth">
 
 ---
 ## CVE-2020-6280 (2020-07-14T13:15:00)
