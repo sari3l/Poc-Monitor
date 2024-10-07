@@ -738,6 +738,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [vidura2/CVE-2024-46377](https://github.com/vidura2/CVE-2024-46377)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46377">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46377">
 
 ---
+## CVE-2024-46310 ()
+> 
+- [UwUtisum/FiveM-CVE-2024-46310-POC](https://github.com/UwUtisum/FiveM-CVE-2024-46310-POC)	<img alt="forks" src="https://img.shields.io/github/forks/UwUtisum/FiveM-CVE-2024-46310-POC">	<img alt="stars" src="https://img.shields.io/github/stars/UwUtisum/FiveM-CVE-2024-46310-POC">
+
+---
 ## CVE-2024-46278 ()
 > 
 - [ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover](https://github.com/ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover)	<img alt="forks" src="https://img.shields.io/github/forks/ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover">	<img alt="stars" src="https://img.shields.io/github/stars/ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover">
