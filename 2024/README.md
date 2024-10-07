@@ -846,6 +846,11 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [jphetphoumy/traefik-CVE-2024-45410-poc](https://github.com/jphetphoumy/traefik-CVE-2024-45410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jphetphoumy/traefik-CVE-2024-45410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jphetphoumy/traefik-CVE-2024-45410-poc">
 
 ---
+## CVE-2024-45409 (2024-09-10T19:15:00)
+> The Ruby SAML library is for implementing the client side of a SAML authorization. Ruby-SAML in <= 12.2 and 1.13.0 <= 1.16.0 does not properly verify the signature of the SAML Response. An unauthenticated attacker with access to any signed saml document (by the IdP) can thus forge a SAML Response/Assertion with arbitrary contents. This would allow the attacker to log in as arbitrary user within the vulnerable system. This vulnerability is fixed in 1.17.0 and 1.12.3.
+- [synacktiv/CVE-2024-45409](https://github.com/synacktiv/CVE-2024-45409)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2024-45409">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2024-45409">
+
+---
 ## CVE-2024-45388 (2024-09-02T18:15:00)
 > Hoverfly is a lightweight service virtualization/ API simulation / API mocking tool for developers and testers. The `/api/v2/simulation` POST handler allows users to create new simulation views from the contents of a user-specified file. This feature can be abused by an attacker to read arbitrary files from the Hoverfly server. Note that, although the code prevents absolute paths from being specified, an attacker can escape out of the `hf.Cfg.ResponsesBodyFilesPath` base path by using `../` segments and reach any arbitrary files. This issue was found using the Uncontrolled data used in path expression CodeQL query for python. Users are advised to make sure the final path (`filepath.Join(hf.Cfg.ResponsesBodyFilesPath, filePath)`) is contained within the expected base path (`filepath.Join(hf.Cfg.ResponsesBodyFilesPath, "/")`). This issue is also tracked as GHSL-2023-274.
 - [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-45388-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-45388-PoC">
