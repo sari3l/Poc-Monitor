@@ -1074,6 +1074,11 @@ Allocated by task 6166:
 - [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/xssor-dz/-CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/xssor-dz/-CVE-2024-4439">
 
 ---
+## CVE-2024-44349 ()
+> 
+- [AndreaF17/PoC-CVE-2024-44349](https://github.com/AndreaF17/PoC-CVE-2024-44349)	<img alt="forks" src="https://img.shields.io/github/forks/AndreaF17/PoC-CVE-2024-44349">	<img alt="stars" src="https://img.shields.io/github/stars/AndreaF17/PoC-CVE-2024-44349">
+
+---
 ## CVE-2024-44346 ()
 > 
 - [Shauryae1337/CVE-2024-44346](https://github.com/Shauryae1337/CVE-2024-44346)	<img alt="forks" src="https://img.shields.io/github/forks/Shauryae1337/CVE-2024-44346">	<img alt="stars" src="https://img.shields.io/github/stars/Shauryae1337/CVE-2024-44346">
