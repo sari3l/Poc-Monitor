@@ -308,6 +308,7 @@
 - [OmarSuarezDoro/CVE-2017-7269](https://github.com/OmarSuarezDoro/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/OmarSuarezDoro/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/OmarSuarezDoro/CVE-2017-7269">
 - [VanishedPeople/CVE-2017-7269](https://github.com/VanishedPeople/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/VanishedPeople/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/VanishedPeople/CVE-2017-7269">
 - [geniuszlyy/CVE-2017-7269](https://github.com/geniuszlyy/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2017-7269">
+- [AxthonyV/GenWebDavIISExploit](https://github.com/AxthonyV/GenWebDavIISExploit)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/GenWebDavIISExploit">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/GenWebDavIISExploit">
 
 ---
 ## CVE-2017-6074 (2017-02-18T21:59:00)
