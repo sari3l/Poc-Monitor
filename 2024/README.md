@@ -2334,6 +2334,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [EQSTLab/CVE-2024-34102](https://github.com/EQSTLab/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-34102">
 - [wubinworks/magento2-cosmic-sting-patch](https://github.com/wubinworks/magento2-cosmic-sting-patch)	<img alt="forks" src="https://img.shields.io/github/forks/wubinworks/magento2-cosmic-sting-patch">	<img alt="stars" src="https://img.shields.io/github/stars/wubinworks/magento2-cosmic-sting-patch">
 - [Jhonsonwannaa/CVE-2024-34102](https://github.com/Jhonsonwannaa/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-34102">
+- [bka/magento-cve-2024-34102-exploit-cosmicstring](https://github.com/bka/magento-cve-2024-34102-exploit-cosmicstring)	<img alt="forks" src="https://img.shields.io/github/forks/bka/magento-cve-2024-34102-exploit-cosmicstring">	<img alt="stars" src="https://img.shields.io/github/stars/bka/magento-cve-2024-34102-exploit-cosmicstring">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
