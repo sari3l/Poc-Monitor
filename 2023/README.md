@@ -1377,6 +1377,11 @@ QuTScloud c5.1.5.2651 and later
 - [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test)	<img alt="forks" src="https://img.shields.io/github/forks/Songg45/CVE-2023-4683-Test">	<img alt="stars" src="https://img.shields.io/github/stars/Songg45/CVE-2023-4683-Test">
 
 ---
+## CVE-2023-46818 (2023-10-27T04:15:00)
+> An issue was discovered in ISPConfig before 3.2.11p1. PHP code injection can be achieved in the language file editor by an admin if admin_allow_langedit is enabled.
+- [bipbopbup/CVE-2023-46818-python-exploit](https://github.com/bipbopbup/CVE-2023-46818-python-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bipbopbup/CVE-2023-46818-python-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bipbopbup/CVE-2023-46818-python-exploit">
+
+---
 ## CVE-2023-46813 (2023-10-27T03:15:00)
 > An issue was discovered in the Linux kernel before 6.5.9, exploitable by local users with userspace access to MMIO registers. Incorrect access checking in the #VC handler and instruction emulation of the SEV-ES emulation of MMIO accesses could lead to arbitrary write access to kernel memory (and thus privilege escalation). This depends on a race condition through which userspace can replace an instruction before the #VC handler reads it.
 - [Freax13/cve-2023-46813-poc](https://github.com/Freax13/cve-2023-46813-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2023-46813-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2023-46813-poc">
