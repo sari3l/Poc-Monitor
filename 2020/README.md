@@ -4036,6 +4036,7 @@
 - [mrnazu/CVE-2020-14179](https://github.com/mrnazu/CVE-2020-14179)	<img alt="forks" src="https://img.shields.io/github/forks/mrnazu/CVE-2020-14179">	<img alt="stars" src="https://img.shields.io/github/stars/mrnazu/CVE-2020-14179">
 - [c0brabaghdad1/CVE-2020-14179](https://github.com/c0brabaghdad1/CVE-2020-14179)	<img alt="forks" src="https://img.shields.io/github/forks/c0brabaghdad1/CVE-2020-14179">	<img alt="stars" src="https://img.shields.io/github/stars/c0brabaghdad1/CVE-2020-14179">
 - [0romos/CVE-2020-14179](https://github.com/0romos/CVE-2020-14179)	<img alt="forks" src="https://img.shields.io/github/forks/0romos/CVE-2020-14179">	<img alt="stars" src="https://img.shields.io/github/stars/0romos/CVE-2020-14179">
+- [0x0060/CVE-2020-14179](https://github.com/0x0060/CVE-2020-14179)	<img alt="forks" src="https://img.shields.io/github/forks/0x0060/CVE-2020-14179">	<img alt="stars" src="https://img.shields.io/github/stars/0x0060/CVE-2020-14179">
 
 ---
 ## CVE-2020-14155 (2020-06-15T17:15:00)
