@@ -5859,6 +5859,11 @@ authentication.   
 - [Cappricio-Securities/.github](https://github.com/Cappricio-Securities/.github)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/.github">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/.github">
 
 ---
+## CVE-2024-1207 (2024-02-08T09:15:00)
+> The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the 'calendar_request_params[dates_ddmmyy_csv]' parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
+- [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2024-1207">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2024-1207">
+
+---
 ## CVE-2024-11451 ()
 > 
 - [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451)	<img alt="forks" src="https://img.shields.io/github/forks/Xiaolqy/CVE-2024-11451">	<img alt="stars" src="https://img.shields.io/github/stars/Xiaolqy/CVE-2024-11451">
