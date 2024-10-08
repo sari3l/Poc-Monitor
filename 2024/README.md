@@ -2745,6 +2745,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Masamuneee/CVE-2024-32002-POC](https://github.com/Masamuneee/CVE-2024-32002-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/CVE-2024-32002-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/CVE-2024-32002-POC">
 - [Masamuneee/hook](https://github.com/Masamuneee/hook)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/hook">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/hook">
 - [th4s1s/CVE-2024-32002-PoC](https://github.com/th4s1s/CVE-2024-32002-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/th4s1s/CVE-2024-32002-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/th4s1s/CVE-2024-32002-PoC">
+- [Julian-gmz/hook_CVE-2024-32002](https://github.com/Julian-gmz/hook_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/hook_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/hook_CVE-2024-32002">
+- [Julian-gmz/Ensimag_CVE-2024-32002](https://github.com/Julian-gmz/Ensimag_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/Ensimag_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/Ensimag_CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
