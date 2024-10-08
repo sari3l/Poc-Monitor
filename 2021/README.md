@@ -5542,6 +5542,8 @@
 ## CVE-2021-33026 (2021-05-13T23:15:00)
 > ** DISPUTED ** The Flask-Caching extension through 1.10.1 for Flask relies on Pickle for serialization, which may lead to remote code execution or local privilege escalation. If an attacker gains access to cache storage (e.g., filesystem, Memcached, Redis, etc.), they can construct a crafted payload, poison the cache, and execute Python code. NOTE: a third party indicates that exploitation is extremely unlikely unless the machine is already compromised; in other cases, the attacker would be unable to write their payload to the cache and generate the required collision.
 - [Live-Hack-CVE/CVE-2021-33026](https://github.com/Live-Hack-CVE/CVE-2021-33026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33026">
+- [Agilevatester/FlaskCache_CVE-2021-33026_POC](https://github.com/Agilevatester/FlaskCache_CVE-2021-33026_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Agilevatester/FlaskCache_CVE-2021-33026_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Agilevatester/FlaskCache_CVE-2021-33026_POC">
+- [CarlosG13/CVE-2021-33026](https://github.com/CarlosG13/CVE-2021-33026)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosG13/CVE-2021-33026">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosG13/CVE-2021-33026">
 
 ---
 ## CVE-2021-33013 (2022-05-13T16:15:00)
