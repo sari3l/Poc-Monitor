@@ -155,6 +155,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [Wayne-Ker/CVE-2023-6444-POC](https://github.com/Wayne-Ker/CVE-2023-6444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wayne-Ker/CVE-2023-6444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wayne-Ker/CVE-2023-6444-POC">
 
 ---
+## CVE-2023-6421 (2024-01-01T15:15:00)
+> The Download Manager WordPress plugin before 3.2.83 does not protect file download's passwords, leaking it upon receiving an invalid one.
+- [RandomRobbieBF/CVE-2023-6421](https://github.com/RandomRobbieBF/CVE-2023-6421)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6421">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6421">
+
+---
 ## CVE-2023-6350 (2023-11-29T12:15:00)
 > Use after free in libavif in Google Chrome prior to 119.0.6045.199 allowed a remote attacker to potentially exploit heap corruption via a crafted avif file. (Chromium security severity: High)
 - [dywsy21/CVE-2023-6350_Reproduction](https://github.com/dywsy21/CVE-2023-6350_Reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/dywsy21/CVE-2023-6350_Reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/dywsy21/CVE-2023-6350_Reproduction">
