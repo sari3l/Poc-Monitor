@@ -1697,6 +1697,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [BBD-YZZ/fyne-gui](https://github.com/BBD-YZZ/fyne-gui)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/fyne-gui">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/fyne-gui">
 - [SecStarBot/CVE-2024-38077-POC](https://github.com/SecStarBot/CVE-2024-38077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecStarBot/CVE-2024-38077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecStarBot/CVE-2024-38077-POC">
 - [h3r04/CVE-2024-38077-EXP](https://github.com/h3r04/CVE-2024-38077-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/h3r04/CVE-2024-38077-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/h3r04/CVE-2024-38077-EXP">
+- [mrmtwoj/CVE-2024-38077](https://github.com/mrmtwoj/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/CVE-2024-38077">
 
 ---
 ## CVE-2024-38063 (2024-08-13T18:15:00)
