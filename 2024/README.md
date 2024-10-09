@@ -4423,6 +4423,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [LuisMateo1/Arbitrary-File-Read-CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919">
 - [AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-](https://github.com/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">
 - [geniuszlyy/CVE-2024-24919](https://github.com/geniuszlyy/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-24919">
+- [skyrowalker/CVE-2024-24919](https://github.com/skyrowalker/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/skyrowalker/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/skyrowalker/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
