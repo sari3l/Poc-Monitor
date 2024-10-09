@@ -11,13 +11,13 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
-## CVE-2024-9465 ()
-> 
+## CVE-2024-9465 (2024-10-09T17:15:00)
+> An SQL injection vulnerability in Palo Alto Networks Expedition allows an unauthenticated attacker to reveal Expedition database contents, such as password hashes, usernames, device configurations, and device API keys. With this, attackers can also create and read arbitrary files on the Expedition system.
 - [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9465">
 
 ---
-## CVE-2024-9464 ()
-> 
+## CVE-2024-9464 (2024-10-09T17:15:00)
+> An OS command injection vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.
 - [horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9464">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9464">
 
 ---
@@ -3726,6 +3726,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
 - [Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-2876">
 - [0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/0xAgun/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/0xAgun/CVE-2024-2876">
+- [skyrowalker/CVE-2024-2876](https://github.com/skyrowalker/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/skyrowalker/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/skyrowalker/CVE-2024-2876">
 
 ---
 ## CVE-2024-28757 (2024-03-10T05:15:00)
