@@ -2800,7 +2800,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-31819 (2024-04-10T20:15:00)
 > An issue in WWBN AVideo v.12.4 through v.14.2 allows a remote attacker to execute arbitrary code via the systemRootPath parameter of the submitIndex.php component.
 - [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-31819">
-- [Jhonsonwannaa/CVE-2024-31819](https://github.com/Jhonsonwannaa/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-31819">
+- [dream434/CVE-2024-31819](https://github.com/dream434/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/CVE-2024-31819">
 
 ---
 ## CVE-2024-31777 (2024-06-13T23:15:00)
