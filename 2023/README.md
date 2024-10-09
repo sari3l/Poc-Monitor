@@ -4901,6 +4901,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533)	<img alt="forks" src="https://img.shields.io/github/forks/BenEdridge/CVE-2023-30533">	<img alt="stars" src="https://img.shields.io/github/stars/BenEdridge/CVE-2023-30533">
 
 ---
+## CVE-2023-30486 ()
+> 
+- [RandomRobbieBF/CVE-2023-30486](https://github.com/RandomRobbieBF/CVE-2023-30486)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-30486">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-30486">
+
+---
 ## CVE-2023-3047 (2023-06-13T12:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TMT Lockcell allows SQL Injection.This issue affects Lockcell: before 15.
 
