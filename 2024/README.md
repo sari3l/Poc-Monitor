@@ -1136,6 +1136,11 @@ Allocated by task 6166:
 - [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/CVE-2024-4367-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/CVE-2024-4367-Analysis">
 
 ---
+## CVE-2024-43582 (2024-10-08T18:15:00)
+> Remote Desktop Protocol Server Remote Code Execution Vulnerability
+- [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
+
+---
 ## CVE-2024-4358 (2024-05-29T15:16:00)
 > In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or earlier, on IIS, an unauthenticated attacker can gain access to Telerik Report Server restricted functionality via an authentication bypass vulnerability.
 - [sinsinology/CVE-2024-4358](https://github.com/sinsinology/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-4358">
