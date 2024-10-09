@@ -592,6 +592,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-5084">
 
 ---
+## CVE-2024-5057 (2024-08-29T14:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Easy Digital Downloads allows SQL Injection.This issue affects Easy Digital Downloads: from n/a through 3.2.12.
+- [enter0x13/poc-CVE-2024-5057](https://github.com/enter0x13/poc-CVE-2024-5057)	<img alt="forks" src="https://img.shields.io/github/forks/enter0x13/poc-CVE-2024-5057">	<img alt="stars" src="https://img.shields.io/github/stars/enter0x13/poc-CVE-2024-5057">
+
+---
 ## CVE-2024-5009 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an Improper Access Control vulnerability in Wug.UI.Controllers.InstallController.SetAdminPassword allows local attackers to modify admin's password.
 - [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-5009">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-5009">
