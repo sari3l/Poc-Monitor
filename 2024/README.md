@@ -11,6 +11,16 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-9465 ()
+> 
+- [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9465">
+
+---
+## CVE-2024-9464 ()
+> 
+- [horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9464">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9464">
+
+---
 ## CVE-2024-9441 (2024-10-02T19:15:00)
 > The Linear eMerge e3-Series through version 1.00-07 is vulnerable to an OS command injection vulnerability. A remote and unauthenticated attacker can execute arbitrary OS commands via the login_id parameter when invoking the forgot_password functionality over HTTP.
 - [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-9441">
