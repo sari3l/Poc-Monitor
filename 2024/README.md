@@ -22,6 +22,12 @@
 ## CVE-2024-9464 (2024-10-09T17:15:00)
 > An OS command injection vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.
 - [horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9464">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9464">
+- [nothe1senberg/CVE-2024-9464](https://github.com/nothe1senberg/CVE-2024-9464)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9464">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9464">
+
+---
+## CVE-2024-9463 (2024-10-09T17:15:00)
+> An OS command injection vulnerability in Palo Alto Networks Expedition allows an unauthenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.
+- [nothe1senberg/CVE-2024-9463](https://github.com/nothe1senberg/CVE-2024-9463)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9463">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9463">
 
 ---
 ## CVE-2024-9441 (2024-10-02T19:15:00)
