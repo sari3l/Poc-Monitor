@@ -34,6 +34,7 @@
 > The Linear eMerge e3-Series through version 1.00-07 is vulnerable to an OS command injection vulnerability. A remote and unauthenticated attacker can execute arbitrary OS commands via the login_id parameter when invoking the forgot_password functionality over HTTP.
 - [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-9441">
 - [abhishekrautela/CVE-2024-9441](https://github.com/abhishekrautela/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/abhishekrautela/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/abhishekrautela/CVE-2024-9441">
+- [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-9441">
 
 ---
 ## CVE-2024-9380 (2024-10-08T17:15:00)
