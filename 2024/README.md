@@ -72,6 +72,7 @@
 ## CVE-2024-8698 (2024-09-19T16:15:00)
 > A flaw exists in the SAML signature validation method within the Keycloak XMLSignatureUtil class. The method incorrectly determines whether a SAML signature is for the full document or only for specific assertions based on the position of the signature in the XML document, rather than the Reference element used to specify the signed element. This flaw allows attackers to create crafted responses that can bypass the validation, potentially leading to privilege escalation or impersonation attacks.
 - [huydoppaz/CVE-2024-8698-POC](https://github.com/huydoppaz/CVE-2024-8698-POC)	<img alt="forks" src="https://img.shields.io/github/forks/huydoppaz/CVE-2024-8698-POC">	<img alt="stars" src="https://img.shields.io/github/stars/huydoppaz/CVE-2024-8698-POC">
+- [huydoppaz/CVE-2024-8698-POC](https://github.com/huydoppaz/CVE-2024-8698-POC)	<img alt="forks" src="https://img.shields.io/github/forks/huydoppaz/CVE-2024-8698-POC">	<img alt="stars" src="https://img.shields.io/github/stars/huydoppaz/CVE-2024-8698-POC">
 
 ---
 ## CVE-2024-8522 (2024-09-12T09:15:00)
