@@ -30,6 +30,16 @@
 - [abhishekrautela/CVE-2024-9441](https://github.com/abhishekrautela/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/abhishekrautela/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/abhishekrautela/CVE-2024-9441">
 
 ---
+## CVE-2024-9380 (2024-10-08T17:15:00)
+> An OS command injection vulnerability in the admin web console of Ivanti CSA before version 5.0.2 allows a remote authenticated attacker with admin privileges to obtain remote code execution.
+- [nothe1senberg/CVE-2024-9380](https://github.com/nothe1senberg/CVE-2024-9380)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9380">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9380">
+
+---
+## CVE-2024-9379 (2024-10-08T17:15:00)
+> SQL injection in the admin web console of Ivanti CSA before version 5.0.2 allows a remote authenticated attacker with admin privileges to run arbitrary SQL statements.
+- [nothe1senberg/CVE-2024-9379](https://github.com/nothe1senberg/CVE-2024-9379)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9379">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9379">
+
+---
 ## CVE-2024-9166 (2024-09-26T17:15:00)
 > The device enables an unauthorized attacker to execute system commands with elevated privileges. This exploit is facilitated through the use of the 'getcommand' query within the application, allowing the attacker to gain root access.
 - [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166)	<img alt="forks" src="https://img.shields.io/github/forks/Andrysqui/CVE-2024-9166">	<img alt="stars" src="https://img.shields.io/github/stars/Andrysqui/CVE-2024-9166">
@@ -1135,6 +1145,7 @@ Allocated by task 6166:
 - [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2024-44000-LiteSpeed-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2024-44000-LiteSpeed-Cache">
 - [gbrsh/CVE-2024-44000](https://github.com/gbrsh/CVE-2024-44000)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2024-44000">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2024-44000">
 - [ifqygazhar/CVE-2024-44000-LiteSpeed-Cache](https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache">
+- [geniuszlyy/CVE-2024-44000](https://github.com/geniuszlyy/CVE-2024-44000)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-44000">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-44000">
 
 ---
 ## CVE-2024-43918 (2024-08-29T15:15:00)
@@ -4943,6 +4954,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [cvedayprotech3s/cve-2024-23113](https://github.com/cvedayprotech3s/cve-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/cvedayprotech3s/cve-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/cvedayprotech3s/cve-2024-23113">
 - [foxymoxxy/CVE-2024-23113-POC](https://github.com/foxymoxxy/CVE-2024-23113-POC)	<img alt="forks" src="https://img.shields.io/github/forks/foxymoxxy/CVE-2024-23113-POC">	<img alt="stars" src="https://img.shields.io/github/stars/foxymoxxy/CVE-2024-23113-POC">
 - [labesterOct/CVE-2024-23113](https://github.com/labesterOct/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-23113">
+- [nothe1senberg/CVE-2024-23113](https://github.com/nothe1senberg/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-23113">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)
