@@ -15,6 +15,7 @@
 > An SQL injection vulnerability in Palo Alto Networks Expedition allows an unauthenticated attacker to reveal Expedition database contents, such as password hashes, usernames, device configurations, and device API keys. With this, attackers can also create and read arbitrary files on the Expedition system.
 - [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9465">
 - [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/mustafaakalin/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/mustafaakalin/CVE-2024-9465">
+- [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/mustafaakalin/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/mustafaakalin/CVE-2024-9465">
 
 ---
 ## CVE-2024-9464 (2024-10-09T17:15:00)
