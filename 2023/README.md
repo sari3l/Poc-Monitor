@@ -3073,9 +3073,10 @@ URL that curl has been told to operate with.
 - [NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit](https://github.com/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit)	<img alt="forks" src="https://img.shields.io/github/forks/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit">	<img alt="stars" src="https://img.shields.io/github/stars/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit">
 - [jhonnybonny/CVE-2023-3824](https://github.com/jhonnybonny/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/jhonnybonny/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/jhonnybonny/CVE-2023-3824">
 - [NewLockBit/CVE-2023-3824-PHP-to-RCE](https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/NewLockBit/CVE-2023-3824-PHP-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/NewLockBit/CVE-2023-3824-PHP-to-RCE">
-- [Nuki2u/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK](https://github.com/Nuki2u/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK)	<img alt="forks" src="https://img.shields.io/github/forks/Nuki2u/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK">	<img alt="stars" src="https://img.shields.io/github/stars/Nuki2u/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK">
+- [Starla2u/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK](https://github.com/Starla2u/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK)	<img alt="forks" src="https://img.shields.io/github/forks/Starla2u/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK">	<img alt="stars" src="https://img.shields.io/github/stars/Starla2u/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK">
 - [m1sn0w/CVE-2023-3824](https://github.com/m1sn0w/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/m1sn0w/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/m1sn0w/CVE-2023-3824">
 - [m1sn0w/CVE-2023-3824](https://github.com/m1sn0w/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/m1sn0w/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/m1sn0w/CVE-2023-3824">
+- [baesh3r/poc-CVE-2023-3824](https://github.com/baesh3r/poc-CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/baesh3r/poc-CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/baesh3r/poc-CVE-2023-3824">
 
 ---
 ## CVE-2023-38146 (2023-09-12T17:15:00)

@@ -256,6 +256,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7188-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7188-PoC">
 
 ---
+## CVE-2024-7135 (2024-07-31T11:15:00)
+> The Tainacan plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on the 'get_file' function in all versions up to, and including, 0.21.7. The function is also vulnerable to directory traversal. This makes it possible for authenticated attackers, with Subscriber-level access and above, to read the contents of arbitrary files on the server, which can contain sensitive information.
+- [RandomRobbieBF/CVE-2024-7135](https://github.com/RandomRobbieBF/CVE-2024-7135)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-7135">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-7135">
+
+---
 ## CVE-2024-7120 (2024-07-26T05:15:00)
 > A vulnerability, which was classified as critical, was found in Raisecom MSG1200, MSG2100E, MSG2200 and MSG2300 3.90. This affects an unknown part of the file list_base_config.php of the component Web Interface. The manipulation of the argument template leads to os command injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-272451.
 - [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
