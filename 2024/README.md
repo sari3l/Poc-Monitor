@@ -1330,8 +1330,8 @@ Allocated by task 6166:
 - [VL4DR/CVE-2024-42642](https://github.com/VL4DR/CVE-2024-42642)	<img alt="forks" src="https://img.shields.io/github/forks/VL4DR/CVE-2024-42642">	<img alt="stars" src="https://img.shields.io/github/stars/VL4DR/CVE-2024-42642">
 
 ---
-## CVE-2024-42640 ()
-> 
+## CVE-2024-42640 (2024-10-11T16:15:00)
+> angular-base64-upload prior to v0.1.21 is vulnerable to unauthenticated remote code execution via demo/server.php. Exploiting this vulnerability allows an attacker to upload arbitrary content to the server, which can subsequently be accessed through demo/uploads. This leads to the execution of previously uploaded content and enables the attacker to achieve code execution on the server. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [rvizx/CVE-2024-42640](https://github.com/rvizx/CVE-2024-42640)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-42640">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-42640">
 
 ---
