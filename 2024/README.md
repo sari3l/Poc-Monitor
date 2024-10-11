@@ -4986,6 +4986,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [labesterOct/CVE-2024-23113](https://github.com/labesterOct/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-23113">
 - [nothe1senberg/CVE-2024-23113](https://github.com/nothe1senberg/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-23113">
 - [OxLmahdi/cve-2024-23113](https://github.com/OxLmahdi/cve-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/OxLmahdi/cve-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/OxLmahdi/cve-2024-23113">
+- [CheckCve2/CVE-2024-23113](https://github.com/CheckCve2/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/CheckCve2/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/CheckCve2/CVE-2024-23113">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)
