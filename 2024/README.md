@@ -16,6 +16,11 @@
 - [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9821">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9821">
 
 ---
+## CVE-2024-9570 (2024-10-07T16:15:00)
+> A vulnerability was found in D-Link DIR-619L B1 2.06 and classified as critical. Affected by this issue is the function formEasySetTimezone of the file /goform/formEasySetTimezone. The manipulation of the argument curTime leads to buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.
+- [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">
+
+---
 ## CVE-2024-9465 (2024-10-09T17:15:00)
 > An SQL injection vulnerability in Palo Alto Networks Expedition allows an unauthenticated attacker to reveal Expedition database contents, such as password hashes, usernames, device configurations, and device API keys. With this, attackers can also create and read arbitrary files on the Expedition system.
 - [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9465">
@@ -1323,6 +1328,11 @@ Allocated by task 6166:
 ## CVE-2024-42642 (2024-09-04T20:15:00)
 > Micron Crucial MX500 Series Solid State Drives M3CR046 is vulnerable to Buffer Overflow, which can be triggered by sending specially crafted ATA packets from the host to the drive controller.
 - [VL4DR/CVE-2024-42642](https://github.com/VL4DR/CVE-2024-42642)	<img alt="forks" src="https://img.shields.io/github/forks/VL4DR/CVE-2024-42642">	<img alt="stars" src="https://img.shields.io/github/stars/VL4DR/CVE-2024-42642">
+
+---
+## CVE-2024-42640 ()
+> 
+- [rvizx/CVE-2024-42640](https://github.com/rvizx/CVE-2024-42640)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-42640">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-42640">
 
 ---
 ## CVE-2024-42461 (2024-08-02T07:16:00)
