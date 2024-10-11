@@ -226,6 +226,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [D3N14LD15K/CVE-2024-7593_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-7593_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-7593_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-7593_PoC_Exploit">
 
 ---
+## CVE-2024-7514 ()
+> 
+- [RandomRobbieBF/CVE-2024-7514](https://github.com/RandomRobbieBF/CVE-2024-7514)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-7514">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-7514">
+
+---
 ## CVE-2024-7479 (2024-09-25T11:15:00)
 > Improper verification of cryptographic signature during installation of a VPN driver via the TeamViewer_service.exe component of TeamViewer Remote Clients prior version 15.58.4 for Windows allows an attacker with local unprivileged access on a Windows system to elevate their privileges and install drivers.
 - [PeterGabaldon/CVE-2024-7479_CVE-2024-7481](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2024-7479_CVE-2024-7481">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2024-7479_CVE-2024-7481">
