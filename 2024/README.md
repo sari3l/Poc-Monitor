@@ -11,6 +11,11 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-9821 ()
+> 
+- [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9821">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9821">
+
+---
 ## CVE-2024-9465 (2024-10-09T17:15:00)
 > An SQL injection vulnerability in Palo Alto Networks Expedition allows an unauthenticated attacker to reveal Expedition database contents, such as password hashes, usernames, device configurations, and device API keys. With this, attackers can also create and read arbitrary files on the Expedition system.
 - [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9465">
