@@ -47,6 +47,11 @@
 - [nothe1senberg/CVE-2024-9379](https://github.com/nothe1senberg/CVE-2024-9379)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9379">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9379">
 
 ---
+## CVE-2024-9224 (2024-10-01T09:15:00)
+> The Hello World plugin for WordPress is vulnerable to Arbitrary File Reading in all versions up to, and including, 2.1.1 via the hello_world_lyric() function. This makes it possible for authenticated attackers, with subscriber-level access and above, to read the contents of arbitrary files on the server, which can contain sensitive information.
+- [RandomRobbieBF/CVE-2024-9224](https://github.com/RandomRobbieBF/CVE-2024-9224)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9224">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9224">
+
+---
 ## CVE-2024-9166 (2024-09-26T17:15:00)
 > The device enables an unauthorized attacker to execute system commands with elevated privileges. This exploit is facilitated through the use of the 'getcommand' query within the application, allowing the attacker to gain root access.
 - [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166)	<img alt="forks" src="https://img.shields.io/github/forks/Andrysqui/CVE-2024-9166">	<img alt="stars" src="https://img.shields.io/github/stars/Andrysqui/CVE-2024-9166">
