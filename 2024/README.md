@@ -524,6 +524,7 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 - [EQSTLab/CVE-2024-5932](https://github.com/EQSTLab/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-5932">
 - [sqlmap-projects/CVE-2024-5932](https://github.com/sqlmap-projects/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/sqlmap-projects/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/sqlmap-projects/CVE-2024-5932">
 - [niktoproject/CVE-2024-5932](https://github.com/niktoproject/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/niktoproject/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/niktoproject/CVE-2024-5932">
+- [OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/OxLmahdi/cve-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/OxLmahdi/cve-2024-5932">
 
 ---
 ## CVE-2024-5899 (2024-06-18T09:15:00)
@@ -4963,6 +4964,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [foxymoxxy/CVE-2024-23113-POC](https://github.com/foxymoxxy/CVE-2024-23113-POC)	<img alt="forks" src="https://img.shields.io/github/forks/foxymoxxy/CVE-2024-23113-POC">	<img alt="stars" src="https://img.shields.io/github/stars/foxymoxxy/CVE-2024-23113-POC">
 - [labesterOct/CVE-2024-23113](https://github.com/labesterOct/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-23113">
 - [nothe1senberg/CVE-2024-23113](https://github.com/nothe1senberg/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-23113">
+- [OxLmahdi/cve-2024-23113](https://github.com/OxLmahdi/cve-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/OxLmahdi/cve-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/OxLmahdi/cve-2024-23113">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)
