@@ -1983,6 +1983,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821">
 
 ---
+## CVE-2024-3656 (2024-10-09T19:15:00)
+> A flaw was found in Keycloak. Certain endpoints in Keycloak's admin REST API allow low-privilege users to access administrative functionalities. This flaw allows users to perform actions reserved for administrators, potentially leading to data breaches or system compromise.
+- [h4x0r-dz/CVE-2024-3656](https://github.com/h4x0r-dz/CVE-2024-3656)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-3656">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-3656">
+
+---
 ## CVE-2024-36539 (2024-07-24T17:15:00)
 > Insecure permissions in contour v1.28.3 allows attackers to access sensitive data and escalate privileges by obtaining the service account's token.
 - [Abdurahmon3236/CVE-2024-36539](https://github.com/Abdurahmon3236/CVE-2024-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-36539">
