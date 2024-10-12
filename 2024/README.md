@@ -694,6 +694,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4898-Poc">
 
 ---
+## CVE-2024-48955 ()
+> 
+- [BrotherOfJhonny/CVE-2024-48955](https://github.com/BrotherOfJhonny/CVE-2024-48955)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-48955">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-48955">
+
+---
 ## CVE-2024-4885 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an unauthenticated Remote Code Execution vulnerability in Progress WhatsUpGold.  The 
 
