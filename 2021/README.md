@@ -2658,6 +2658,12 @@
 - [Live-Hack-CVE/CVE-2021-4063](https://github.com/Live-Hack-CVE/CVE-2021-4063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4063">
 
 ---
+## CVE-2021-40539 (2021-09-07T17:15:00)
+> Zoho ManageEngine ADSelfService Plus version 6113 and prior is vulnerable to REST API authentication bypass with resultant remote code execution.
+- [lpyydxs/CVE-2021-40539](https://github.com/lpyydxs/CVE-2021-40539)	<img alt="forks" src="https://img.shields.io/github/forks/lpyydxs/CVE-2021-40539">	<img alt="stars" src="https://img.shields.io/github/stars/lpyydxs/CVE-2021-40539">
+- [lpyzds/CVE-2021-40539](https://github.com/lpyzds/CVE-2021-40539)	<img alt="forks" src="https://img.shields.io/github/forks/lpyzds/CVE-2021-40539">	<img alt="stars" src="https://img.shields.io/github/stars/lpyzds/CVE-2021-40539">
+
+---
 ## CVE-2021-40529 (2021-09-06T19:15:00)
 > The ElGamal implementation in Botan through 2.18.1, as used in Thunderbird and other products, allows plaintext recovery because, during interaction between two cryptographic libraries, a certain dangerous combination of the prime defined by the receiver's public key, the generator defined by the receiver's public key, and the sender's ephemeral exponents can lead to a cross-configuration attack against OpenPGP.
 - [Live-Hack-CVE/CVE-2021-40529](https://github.com/Live-Hack-CVE/CVE-2021-40529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40529">
