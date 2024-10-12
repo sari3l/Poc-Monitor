@@ -234,6 +234,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7593-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7593-PoC">
 - [rxerium/CVE-2024-7593](https://github.com/rxerium/CVE-2024-7593)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2024-7593">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2024-7593">
 - [D3N14LD15K/CVE-2024-7593_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-7593_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-7593_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-7593_PoC_Exploit">
+- [skyrowalker/CVE-2024-7593](https://github.com/skyrowalker/CVE-2024-7593)	<img alt="forks" src="https://img.shields.io/github/forks/skyrowalker/CVE-2024-7593">	<img alt="stars" src="https://img.shields.io/github/stars/skyrowalker/CVE-2024-7593">
 
 ---
 ## CVE-2024-7514 (2024-10-11T13:15:00)
