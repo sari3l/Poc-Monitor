@@ -2223,6 +2223,11 @@ PANIC from 6.8.0-rc1:
 - [nothe1senberg/CVE-2024-35293](https://github.com/nothe1senberg/CVE-2024-35293)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-35293">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-35293">
 
 ---
+## CVE-2024-35250 (2024-06-11T17:16:00)
+> Windows Kernel-Mode Driver Elevation of Privilege Vulnerability
+- [varwara/CVE-2024-35250](https://github.com/varwara/CVE-2024-35250)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-35250">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-35250">
+
+---
 ## CVE-2024-35242 (2024-06-10T22:15:00)
 > Composer is a dependency manager for PHP. On the 2.x branch prior to versions 2.2.24 and 2.7.7, the `composer install` command running inside a git/hg repository which has specially crafted branch names can lead to command injection. This requires cloning untrusted repositories. Patches are available in version 2.2.24 for 2.2 LTS or 2.7.7 for mainline. As a workaround, avoid cloning potentially compromised repositories.
 
