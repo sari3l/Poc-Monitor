@@ -2443,6 +2443,7 @@
 - [n0w4n/CVE-2019-14287](https://github.com/n0w4n/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/n0w4n/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/n0w4n/CVE-2019-14287">
 - [FauxFaux/sudo-cve-2019-14287](https://github.com/FauxFaux/sudo-cve-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/FauxFaux/sudo-cve-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/FauxFaux/sudo-cve-2019-14287">
 - [Ijinleife/CVE-2019-14287](https://github.com/Ijinleife/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/Ijinleife/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/Ijinleife/CVE-2019-14287">
+- [lemonadern/poc-cve-2019-14287](https://github.com/lemonadern/poc-cve-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/lemonadern/poc-cve-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/lemonadern/poc-cve-2019-14287">
 
 ---
 ## CVE-2019-14271 (2019-07-29T18:15:00)
