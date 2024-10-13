@@ -4220,6 +4220,7 @@ are not yet active.
 - [0XJ175/DRive](https://github.com/0XJ175/DRive)	<img alt="forks" src="https://img.shields.io/github/forks/0XJ175/DRive">	<img alt="stars" src="https://img.shields.io/github/stars/0XJ175/DRive">
 - [team-MineDEV/CVE-2024-26229](https://github.com/team-MineDEV/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/team-MineDEV/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/team-MineDEV/CVE-2024-26229">
 - [apkc/CVE-2024-26229-BOF](https://github.com/apkc/CVE-2024-26229-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/apkc/CVE-2024-26229-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/apkc/CVE-2024-26229-BOF">
+- [mqxmm/CVE-2024-26229](https://github.com/mqxmm/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/mqxmm/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/mqxmm/CVE-2024-26229">
 
 ---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
