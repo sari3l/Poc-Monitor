@@ -361,6 +361,11 @@ SCM accounting on the io_uring side unnecessary.
 - [FoxyProxys/CVE-2023-52654](https://github.com/FoxyProxys/CVE-2023-52654)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2023-52654">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2023-52654">
 
 ---
+## CVE-2023-52268 ()
+> 
+- [squ1dw3rm/CVE-2023-52268](https://github.com/squ1dw3rm/CVE-2023-52268)	<img alt="forks" src="https://img.shields.io/github/forks/squ1dw3rm/CVE-2023-52268">	<img alt="stars" src="https://img.shields.io/github/stars/squ1dw3rm/CVE-2023-52268">
+
+---
 ## CVE-2023-52251 (2024-01-25T21:15:00)
 > An issue discovered in provectus kafka-ui 0.4.0 through 0.7.1 allows remote attackers to execute arbitrary code via the q parameter of /api/clusters/local/topics/{topic}/messages.
 - [BobTheShoplifter/CVE-2023-52251-POC](https://github.com/BobTheShoplifter/CVE-2023-52251-POC)	<img alt="forks" src="https://img.shields.io/github/forks/BobTheShoplifter/CVE-2023-52251-POC">	<img alt="stars" src="https://img.shields.io/github/stars/BobTheShoplifter/CVE-2023-52251-POC">
