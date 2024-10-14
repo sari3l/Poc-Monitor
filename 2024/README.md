@@ -2047,6 +2047,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [justin-p/geoexplorer](https://github.com/justin-p/geoexplorer)	<img alt="forks" src="https://img.shields.io/github/forks/justin-p/geoexplorer">	<img alt="stars" src="https://img.shields.io/github/stars/justin-p/geoexplorer">
 - [PunitTailor55/GeoServer-CVE-2024-36401](https://github.com/PunitTailor55/GeoServer-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/PunitTailor55/GeoServer-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/PunitTailor55/GeoServer-CVE-2024-36401">
 - [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/netuseradministrator/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/netuseradministrator/CVE-2024-36401">
+- [kkhackz0013/CVE-2024-36401](https://github.com/kkhackz0013/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/kkhackz0013/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/kkhackz0013/CVE-2024-36401">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
