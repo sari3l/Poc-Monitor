@@ -1186,6 +1186,13 @@ Allocated by task 6166:
 - [Azvanzed/CVE-2024-44083](https://github.com/Azvanzed/CVE-2024-44083)	<img alt="forks" src="https://img.shields.io/github/forks/Azvanzed/CVE-2024-44083">	<img alt="stars" src="https://img.shields.io/github/stars/Azvanzed/CVE-2024-44083">
 
 ---
+## CVE-2024-4406 (2024-05-02T15:15:00)
+> Xiaomi Pro 13 GetApps integral-dialog-page Cross-Site Scripting Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Xiaomi Pro 13 smartphones. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.
+
+The specific flaw exists within the integral-dialog-page.html file. When parsing the integralInfo parameter, the process does not properly sanitize user-supplied data, which can lead to the injection of an arbitrary script. An attacker can leverage this vulnerability to execute code in the context of the current user. Was ZDI-CAN-22332.
+- [Yogehi/cve-2024-4406-xiaomi13pro-exploit-files](https://github.com/Yogehi/cve-2024-4406-xiaomi13pro-exploit-files)	<img alt="forks" src="https://img.shields.io/github/forks/Yogehi/cve-2024-4406-xiaomi13pro-exploit-files">	<img alt="stars" src="https://img.shields.io/github/stars/Yogehi/cve-2024-4406-xiaomi13pro-exploit-files">
+
+---
 ## CVE-2024-44000 ()
 > 
 - [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2024-44000-LiteSpeed-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2024-44000-LiteSpeed-Cache">
