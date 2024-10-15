@@ -1175,8 +1175,8 @@ Allocated by task 6166:
 - [sahil3276/CVE-2024-44346](https://github.com/sahil3276/CVE-2024-44346)	<img alt="forks" src="https://img.shields.io/github/forks/sahil3276/CVE-2024-44346">	<img alt="stars" src="https://img.shields.io/github/stars/sahil3276/CVE-2024-44346">
 
 ---
-## CVE-2024-44337 ()
-> 
+## CVE-2024-44337 (2024-10-15T20:15:00)
+> The package `github.com/gomarkdown/markdown` is a Go library for parsing Markdown text and rendering as HTML. Prior to pseudoversion `v0.0.0-20240729232818-a2a9c4f`, which corresponds with commit `a2a9c4f76ef5a5c32108e36f7c47f8d310322252`, there was a logical problem in the paragraph function of the parser/block.go file, which allowed a remote attacker to cause a denial of service (DoS) condition by providing a tailor-made input that caused an infinite loop, causing the program to hang and consume resources indefinitely. Submit `a2a9c4f76ef5a5c32108e36f7c47f8d310322252` contains fixes to this problem.
 - [Brinmon/CVE-2024-44337](https://github.com/Brinmon/CVE-2024-44337)	<img alt="forks" src="https://img.shields.io/github/forks/Brinmon/CVE-2024-44337">	<img alt="stars" src="https://img.shields.io/github/stars/Brinmon/CVE-2024-44337">
 
 ---
@@ -4567,6 +4567,14 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-24760 (2024-02-02T16:15:00)
 > mailcow is a dockerized email package, with multiple containers linked in one bridged network. A security vulnerability has been identified in mailcow affecting versions < 2024-01c. This vulnerability potentially allows attackers on the same subnet to connect to exposed ports of a Docker container, even when the port is bound to 127.0.0.1. The vulnerability has been addressed by implementing additional iptables/nftables rules. These rules drop packets for Docker containers on ports 3306, 6379, 8983, and 12345, where the input interface is not `br-mailcow` and the output interface is `br-mailcow`.
 - [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760)	<img alt="forks" src="https://img.shields.io/github/forks/killerbees19/CVE-2024-24760">	<img alt="stars" src="https://img.shields.io/github/stars/killerbees19/CVE-2024-24760">
+
+---
+## CVE-2024-24684 (2024-05-28T14:15:00)
+> Multiple stack-based buffer overflow vulnerabilities exist in the readOFF functionality of libigl v2.5.0. A specially crafted .off file can lead to stack-based buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.This vulnerability concerns the header parsing occuring while processing an `.off`  file via the `readOFF` function. 
+
+
+We can see above that at [0] a stack-based buffer called `comment` is defined with an hardcoded size of `1000 bytes`.  The call to `fscanf` at [1] is unsafe and if the first line of the header of the `.off` files is longer than 1000 bytes it will overflow the `header` buffer.
+- [SpiralBL0CK/CVE-2024-24684](https://github.com/SpiralBL0CK/CVE-2024-24684)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-24684">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-24684">
 
 ---
 ## CVE-2024-24590 (2024-02-06T15:15:00)
