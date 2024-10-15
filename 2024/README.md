@@ -1695,9 +1695,10 @@ However, malicious requests are blocked and rejected when any of the following i
 
   *  the  Spring Security HTTP Firewall https://docs.spring.io/spring-security/reference/servlet/exploits/firewall.html  is in use
   *  the application runs on Tomcat or Jetty
-- [weliveby/cve-2024-38816-demo](https://github.com/weliveby/cve-2024-38816-demo)	<img alt="forks" src="https://img.shields.io/github/forks/weliveby/cve-2024-38816-demo">	<img alt="stars" src="https://img.shields.io/github/stars/weliveby/cve-2024-38816-demo">
+- [startsw1th/cve-2024-38816-demo](https://github.com/startsw1th/cve-2024-38816-demo)	<img alt="forks" src="https://img.shields.io/github/forks/startsw1th/cve-2024-38816-demo">	<img alt="stars" src="https://img.shields.io/github/stars/startsw1th/cve-2024-38816-demo">
 - [masa42/CVE-2024-38816-PoC](https://github.com/masa42/CVE-2024-38816-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masa42/CVE-2024-38816-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masa42/CVE-2024-38816-PoC">
 - [Galaxy-system/cve-2024-38816](https://github.com/Galaxy-system/cve-2024-38816)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-system/cve-2024-38816">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-system/cve-2024-38816">
+- [WULINPIN/CVE-2024-38816-PoC](https://github.com/WULINPIN/CVE-2024-38816-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WULINPIN/CVE-2024-38816-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WULINPIN/CVE-2024-38816-PoC">
 
 ---
 ## CVE-2024-38812 (2024-09-17T18:15:00)
