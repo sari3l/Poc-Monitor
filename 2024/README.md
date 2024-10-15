@@ -1838,6 +1838,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [lnx-dvlpr/cve-2024-38063](https://github.com/lnx-dvlpr/cve-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/lnx-dvlpr/cve-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/lnx-dvlpr/cve-2024-38063">
 - [becrevex/CVE-2024-38063](https://github.com/becrevex/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2024-38063">
 - [idkwastaken/CVE-2024-38063](https://github.com/idkwastaken/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/idkwastaken/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/idkwastaken/CVE-2024-38063">
+- [thanawee321/CVE-2024-38063](https://github.com/thanawee321/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/thanawee321/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/thanawee321/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
