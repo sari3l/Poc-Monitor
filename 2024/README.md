@@ -1950,6 +1950,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 > In Spring Cloud Data Flow versions prior to 2.11.4,  a malicious user who has access to the Skipper server api can use a crafted upload request to write an arbitrary file to any location on the file system which could lead to compromising the server
 - [Kayiyan/CVE-2024-37084-Poc](https://github.com/Kayiyan/CVE-2024-37084-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kayiyan/CVE-2024-37084-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kayiyan/CVE-2024-37084-Poc">
 - [vuhz/CVE-2024-37084](https://github.com/vuhz/CVE-2024-37084)	<img alt="forks" src="https://img.shields.io/github/forks/vuhz/CVE-2024-37084">	<img alt="stars" src="https://img.shields.io/github/stars/vuhz/CVE-2024-37084">
+- [Ly4j/CVE-2024-37084-Exp](https://github.com/Ly4j/CVE-2024-37084-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Ly4j/CVE-2024-37084-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Ly4j/CVE-2024-37084-Exp">
 
 ---
 ## CVE-2024-37081 (2024-06-18T06:15:00)
