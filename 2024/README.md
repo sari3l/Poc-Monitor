@@ -2203,8 +2203,8 @@ PANIC from 6.8.0-rc1:
 - [labc-dev/CVE-2024-35911](https://github.com/labc-dev/CVE-2024-35911)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-35911">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-35911">
 
 ---
-## CVE-2024-35584 ()
-> 
+## CVE-2024-35584 (2024-10-15T19:15:00)
+> SQL injection vulnerability in Ajax.php, ForWindow.php, ForExport.php, Modules.php, functions/HackingLogFnc.php in OpenSis Community Edition 9.1, 8.0, and possibly earlier versions. It is possible for an authenticated user to perform SQL Injection due to the lack to sanitisation. The application takes arbitrary value from "X-Forwarded-For" header and appends it to a SQL INSERT statement directly, leading to SQL Injection.
 - [whwhwh96/CVE-2024-35584](https://github.com/whwhwh96/CVE-2024-35584)	<img alt="forks" src="https://img.shields.io/github/forks/whwhwh96/CVE-2024-35584">	<img alt="stars" src="https://img.shields.io/github/stars/whwhwh96/CVE-2024-35584">
 
 ---
