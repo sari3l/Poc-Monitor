@@ -7402,6 +7402,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [rubbxalc/CVE-2023-1521](https://github.com/rubbxalc/CVE-2023-1521)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2023-1521">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2023-1521">
 
 ---
+## CVE-2023-1488 (2023-03-18T21:15:00)
+> A vulnerability, which was classified as problematic, was found in Lespeed WiseCleaner Wise System Monitor 1.5.3.54. Affected is the function 0x9C40A0D8/0x9C40A0DC/0x9C40A0E0 in the library WiseHDInfo64.dll of the component IoControlCode Handler. The manipulation leads to denial of service. It is possible to launch the attack on the local host. The exploit has been disclosed to the public and may be used. VDB-223374 is the identifier assigned to this vulnerability.
+- [bxtshit/CVE-2023-1488](https://github.com/bxtshit/CVE-2023-1488)	<img alt="forks" src="https://img.shields.io/github/forks/bxtshit/CVE-2023-1488">	<img alt="stars" src="https://img.shields.io/github/stars/bxtshit/CVE-2023-1488">
+
+---
 ## CVE-2023-1454 (2023-03-17T07:15:00)
 > A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
 - [gobysec/CVE-2023-1454](https://github.com/gobysec/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-1454">
