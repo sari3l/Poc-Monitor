@@ -775,6 +775,7 @@
 > OpenSLP as used in ESXi and the Horizon DaaS appliances has a heap overwrite issue. VMware has evaluated the severity of this issue to be in the Critical severity range with a maximum CVSSv3 base score of 9.8.
 - [HynekPetrak/CVE-2019-5544_CVE-2020-3992](https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/CVE-2019-5544_CVE-2020-3992">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/CVE-2019-5544_CVE-2020-3992">
 - [dgh05t/VMware_ESXI_OpenSLP_PoCs](https://github.com/dgh05t/VMware_ESXI_OpenSLP_PoCs)	<img alt="forks" src="https://img.shields.io/github/forks/dgh05t/VMware_ESXI_OpenSLP_PoCs">	<img alt="stars" src="https://img.shields.io/github/stars/dgh05t/VMware_ESXI_OpenSLP_PoCs">
+- [vpxuser/CVE-2019-5544](https://github.com/vpxuser/CVE-2019-5544)	<img alt="forks" src="https://img.shields.io/github/forks/vpxuser/CVE-2019-5544">	<img alt="stars" src="https://img.shields.io/github/stars/vpxuser/CVE-2019-5544">
 
 ---
 ## CVE-2019-5477 (2019-08-16T16:15:00)
