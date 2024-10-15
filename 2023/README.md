@@ -4542,6 +4542,7 @@ Thanks to a Researcher at Tenable for finding and reporting.
 
 Fixed in version 6.4.1.
 - [x0rb3l/CVE-2023-32560](https://github.com/x0rb3l/CVE-2023-32560)	<img alt="forks" src="https://img.shields.io/github/forks/x0rb3l/CVE-2023-32560">	<img alt="stars" src="https://img.shields.io/github/stars/x0rb3l/CVE-2023-32560">
+- [idkwastaken/CVE-2023-32560](https://github.com/idkwastaken/CVE-2023-32560)	<img alt="forks" src="https://img.shields.io/github/forks/idkwastaken/CVE-2023-32560">	<img alt="stars" src="https://img.shields.io/github/stars/idkwastaken/CVE-2023-32560">
 
 ---
 ## CVE-2023-3244 (2023-08-17T07:15:00)
