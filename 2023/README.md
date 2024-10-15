@@ -3821,6 +3821,7 @@ The specific flaw exists within the DDP service. The issue results from the lack
 ## CVE-2023-35674 (2023-09-11T21:15:00)
 > In onCreate of WindowState.java, there is a possible way to launch a background activity due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [Thampakon/CVE-2023-35674](https://github.com/Thampakon/CVE-2023-35674)	<img alt="forks" src="https://img.shields.io/github/forks/Thampakon/CVE-2023-35674">	<img alt="stars" src="https://img.shields.io/github/stars/Thampakon/CVE-2023-35674">
+- [SpiralBL0CK/Guide-and-theoretical-code-for-CVE-2023-35674](https://github.com/SpiralBL0CK/Guide-and-theoretical-code-for-CVE-2023-35674)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/Guide-and-theoretical-code-for-CVE-2023-35674">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/Guide-and-theoretical-code-for-CVE-2023-35674">
 
 ---
 ## CVE-2023-35671 (2023-09-11T21:15:00)
