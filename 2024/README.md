@@ -1455,6 +1455,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40711 (2024-09-07T17:15:00)
 > A deserialization of untrusted data vulnerability with a malicious payload can allow an unauthenticated remote code execution (RCE).
 - [watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-40711">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-40711">
+- [realstatus/CVE-2024-40711-Exp](https://github.com/realstatus/CVE-2024-40711-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/realstatus/CVE-2024-40711-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/realstatus/CVE-2024-40711-Exp">
 
 ---
 ## CVE-2024-40658 (2024-09-11T00:15:00)
