@@ -10,6 +10,7 @@
 > The SSH-1 protocol allows remote servers to conduct man-in-the-middle attacks and replay a client challenge response to a target server by creating a Session ID that matches the Session ID of the target, but which uses a public key pair that is weaker than the target's public key, which allows the attacker to compute the corresponding private key and use the target's Session ID with the compromised key pair to masquerade as the target.
 - [0xget/cve-2001-1473](https://github.com/0xget/cve-2001-1473)	<img alt="forks" src="https://img.shields.io/github/forks/0xget/cve-2001-1473">	<img alt="stars" src="https://img.shields.io/github/stars/0xget/cve-2001-1473">
 - [masm3264/poc-CVE-2001-1473](https://github.com/masm3264/poc-CVE-2001-1473)	<img alt="forks" src="https://img.shields.io/github/forks/masm3264/poc-CVE-2001-1473">	<img alt="stars" src="https://img.shields.io/github/stars/masm3264/poc-CVE-2001-1473">
+- [p1ton3rr/poc-cve-2001-1473](https://github.com/p1ton3rr/poc-cve-2001-1473)	<img alt="forks" src="https://img.shields.io/github/forks/p1ton3rr/poc-cve-2001-1473">	<img alt="stars" src="https://img.shields.io/github/stars/p1ton3rr/poc-cve-2001-1473">
 
 ---
 ## CVE-2001-0352 (2001-07-21T04:00:00)
