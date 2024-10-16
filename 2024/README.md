@@ -741,6 +741,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [sleep46/CVE-2024-4836_Check](https://github.com/sleep46/CVE-2024-4836_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sleep46/CVE-2024-4836_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sleep46/CVE-2024-4836_Check">
 
 ---
+## CVE-2024-48180 ()
+> 
+- [J-0k3r/CVE-2024-48180](https://github.com/J-0k3r/CVE-2024-48180)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2024-48180">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2024-48180">
+
+---
 ## CVE-2024-4761 (2024-05-14T16:17:00)
 > Out of bounds write in V8 in Google Chrome prior to 124.0.6367.207 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: High)
 - [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761)	<img alt="forks" src="https://img.shields.io/github/forks/michredteam/CVE-2024-4761">	<img alt="stars" src="https://img.shields.io/github/stars/michredteam/CVE-2024-4761">
