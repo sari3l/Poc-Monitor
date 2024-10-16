@@ -5933,6 +5933,7 @@ critical systems.
 - [cjybao/CVE-2024-1709-and-CVE-2024-1708](https://github.com/cjybao/CVE-2024-1709-and-CVE-2024-1708)	<img alt="forks" src="https://img.shields.io/github/forks/cjybao/CVE-2024-1709-and-CVE-2024-1708">	<img alt="stars" src="https://img.shields.io/github/stars/cjybao/CVE-2024-1709-and-CVE-2024-1708">
 - [codeb0ss/CVE-2024-1709-PoC](https://github.com/codeb0ss/CVE-2024-1709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-1709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-1709-PoC">
 - [AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-](https://github.com/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">
+- [SaionjiMKII/Mass-CVE-2024-1709](https://github.com/SaionjiMKII/Mass-CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/SaionjiMKII/Mass-CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/SaionjiMKII/Mass-CVE-2024-1709">
 
 ---
 ## CVE-2024-1698 (2024-02-27T06:15:00)
