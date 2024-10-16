@@ -67,6 +67,7 @@
 - [suedadam/ntpscanner](https://github.com/suedadam/ntpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/suedadam/ntpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/suedadam/ntpscanner">
 - [dani87/ntpscanner](https://github.com/dani87/ntpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/dani87/ntpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/dani87/ntpscanner">
 - [requiempentest/-exploit-check-CVE-2013-5211](https://github.com/requiempentest/-exploit-check-CVE-2013-5211)	<img alt="forks" src="https://img.shields.io/github/forks/requiempentest/-exploit-check-CVE-2013-5211">	<img alt="stars" src="https://img.shields.io/github/stars/requiempentest/-exploit-check-CVE-2013-5211">
+- [requiempentest/NTP_CVE-2013-5211](https://github.com/requiempentest/NTP_CVE-2013-5211)	<img alt="forks" src="https://img.shields.io/github/forks/requiempentest/NTP_CVE-2013-5211">	<img alt="stars" src="https://img.shields.io/github/stars/requiempentest/NTP_CVE-2013-5211">
 
 ---
 ## CVE-2013-4496 (2014-03-14T10:55:00)
