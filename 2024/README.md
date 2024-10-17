@@ -304,6 +304,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Uno13x/CVE-2024-6782-PoC](https://github.com/Uno13x/CVE-2024-6782-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uno13x/CVE-2024-6782-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uno13x/CVE-2024-6782-PoC">
 
 ---
+## CVE-2024-6778 (2024-07-16T22:15:00)
+> Race in DevTools in Google Chrome prior to 126.0.6478.182 allowed an attacker who convinced a user to install a malicious extension to inject scripts or HTML into a privileged page via a crafted Chrome Extension. (Chromium security severity: High)
+- [ading2210/CVE-2024-6778-POC](https://github.com/ading2210/CVE-2024-6778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ading2210/CVE-2024-6778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ading2210/CVE-2024-6778-POC">
+
+---
 ## CVE-2024-6769 (2024-09-26T21:15:00)
 > A DLL Hijacking caused by drive remapping combined with a poisoning of the activation cache in Microsoft Windows 10, Windows 11, Windows Server 2016, Windows Server 2019, and Windows Server 2022 allows a malicious authenticated attacker to elevate from a medium integrity process to a high integrity process without the intervention of a UAC prompt.
 - [fortra/CVE-2024-6769](https://github.com/fortra/CVE-2024-6769)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2024-6769">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2024-6769">
