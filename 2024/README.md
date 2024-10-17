@@ -57,6 +57,11 @@
 - [nothe1senberg/CVE-2024-9379](https://github.com/nothe1senberg/CVE-2024-9379)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9379">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9379">
 
 ---
+## CVE-2024-9234 (2024-10-11T13:15:00)
+> The GutenKit – Page Builder Blocks, Patterns, and Templates for Gutenberg Block Editor plugin for WordPress is vulnerable to arbitrary file uploads due to a missing capability check on the install_and_activate_plugin_from_external() function  (install-active-plugin REST API endpoint) in all versions up to, and including, 2.1.0. This makes it possible for unauthenticated attackers to install and activate arbitrary plugins, or utilize the functionality to upload arbitrary files spoofed like plugins.
+- [RandomRobbieBF/CVE-2024-9234](https://github.com/RandomRobbieBF/CVE-2024-9234)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9234">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9234">
+
+---
 ## CVE-2024-9224 (2024-10-01T09:15:00)
 > The Hello World plugin for WordPress is vulnerable to Arbitrary File Reading in all versions up to, and including, 2.1.1 via the hello_world_lyric() function. This makes it possible for authenticated attackers, with subscriber-level access and above, to read the contents of arbitrary files on the server, which can contain sensitive information.
 - [RandomRobbieBF/CVE-2024-9224](https://github.com/RandomRobbieBF/CVE-2024-9224)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9224">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9224">
@@ -774,7 +779,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [MalwareTech/CVE-2024-47176-Scanner](https://github.com/MalwareTech/CVE-2024-47176-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/MalwareTech/CVE-2024-47176-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/MalwareTech/CVE-2024-47176-Scanner">
 - [AxthonyV/CVE-2024-47176](https://github.com/AxthonyV/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2024-47176">
 - [AxthonyV/CVE-2024-47176](https://github.com/AxthonyV/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2024-47176">
-- [gianlu335/CUPS-CVE-2024-47176](https://github.com/gianlu335/CUPS-CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/gianlu335/CUPS-CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/gianlu335/CUPS-CVE-2024-47176">
+- [gianlu111/CUPS-CVE-2024-47176](https://github.com/gianlu111/CUPS-CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/gianlu111/CUPS-CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/gianlu111/CUPS-CVE-2024-47176">
 
 ---
 ## CVE-2024-47076 (2024-09-26T22:15:00)
