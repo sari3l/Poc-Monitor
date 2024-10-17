@@ -6062,6 +6062,11 @@
 - [acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details)	<img alt="forks" src="https://img.shields.io/github/forks/acquiredsecurity/CVE-2021-3122-Details">	<img alt="stars" src="https://img.shields.io/github/stars/acquiredsecurity/CVE-2021-3122-Details">
 
 ---
+## CVE-2021-31166 (2021-05-11T19:15:00)
+> HTTP Protocol Stack Remote Code Execution Vulnerability
+- [corelight/CVE-2021-31166](https://github.com/corelight/CVE-2021-31166)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2021-31166">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2021-31166">
+
+---
 ## CVE-2021-31162 (2021-04-14T07:15:00)
 > In the standard library in Rust before 1.52.0, a double free can occur in the Vec::from_iter function if freeing the element panics.
 - [Live-Hack-CVE/CVE-2021-31162](https://github.com/Live-Hack-CVE/CVE-2021-31162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31162">
