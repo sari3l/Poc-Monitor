@@ -2900,6 +2900,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [technicalcorp2/CVE-2023-38831-exploit-generator](https://github.com/technicalcorp2/CVE-2023-38831-exploit-generator)	<img alt="forks" src="https://img.shields.io/github/forks/technicalcorp2/CVE-2023-38831-exploit-generator">	<img alt="stars" src="https://img.shields.io/github/stars/technicalcorp2/CVE-2023-38831-exploit-generator">
 - [technicalcorp0/CVE-2023-38831-Exploit](https://github.com/technicalcorp0/CVE-2023-38831-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/technicalcorp0/CVE-2023-38831-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/technicalcorp0/CVE-2023-38831-Exploit">
 - [idkwastaken/CVE-2023-38831](https://github.com/idkwastaken/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/idkwastaken/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/idkwastaken/CVE-2023-38831">
+- [vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC](https://github.com/vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
