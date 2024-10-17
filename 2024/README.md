@@ -3482,6 +3482,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Alchemist3dot14/CVE-2024-30270-PoC](https://github.com/Alchemist3dot14/CVE-2024-30270-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-30270-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-30270-PoC">
 
 ---
+## CVE-2024-30090 (2024-06-11T17:15:00)
+> Microsoft Streaming Service Elevation of Privilege Vulnerability
+- [Dor00tkit/CVE-2024-30090](https://github.com/Dor00tkit/CVE-2024-30090)	<img alt="forks" src="https://img.shields.io/github/forks/Dor00tkit/CVE-2024-30090">	<img alt="stars" src="https://img.shields.io/github/stars/Dor00tkit/CVE-2024-30090">
+
+---
 ## CVE-2024-30088 (2024-06-11T17:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability
 - [tykawaii98/CVE-2024-30088](https://github.com/tykawaii98/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/tykawaii98/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/tykawaii98/CVE-2024-30088">
