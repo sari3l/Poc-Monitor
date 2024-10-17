@@ -16,6 +16,11 @@
 - [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9821">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9821">
 
 ---
+## CVE-2024-9680 (2024-10-09T13:15:00)
+> An attacker was able to achieve code execution in the content process by exploiting a use-after-free in Animation timelines. We have had reports of this vulnerability being exploited in the wild. This vulnerability affects Firefox < 131.0.2, Firefox ESR < 128.3.1, Firefox ESR < 115.16.1, Thunderbird < 131.0.1, Thunderbird < 128.3.1, and Thunderbird < 115.16.0.
+- [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680)	<img alt="forks" src="https://img.shields.io/github/forks/tdonaworth/Firefox-CVE-2024-9680">	<img alt="stars" src="https://img.shields.io/github/stars/tdonaworth/Firefox-CVE-2024-9680">
+
+---
 ## CVE-2024-9570 (2024-10-07T16:15:00)
 > A vulnerability was found in D-Link DIR-619L B1 2.06 and classified as critical. Affected by this issue is the function formEasySetTimezone of the file /goform/formEasySetTimezone. The manipulation of the argument curTime leads to buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.
 - [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">
@@ -3862,6 +3867,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [fa-rrel/CVE-2024-28987-POC](https://github.com/fa-rrel/CVE-2024-28987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-28987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-28987-POC">
 - [horizon3ai/CVE-2024-28987](https://github.com/horizon3ai/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-28987">
 - [PlayerFridei/CVE-2024-28987](https://github.com/PlayerFridei/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/PlayerFridei/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/PlayerFridei/CVE-2024-28987">
+- [HazeLook/CVE-2024-28987](https://github.com/HazeLook/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-28987">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
