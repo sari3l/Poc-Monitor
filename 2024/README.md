@@ -1479,6 +1479,16 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [Aakashmom/intent_CVE-2024-40675](https://github.com/Aakashmom/intent_CVE-2024-40675)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/intent_CVE-2024-40675">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/intent_CVE-2024-40675">
 
 ---
+## CVE-2024-40673 ()
+> 
+- [Aakashmom/G3_libcore_native_CVE-2024-40673](https://github.com/Aakashmom/G3_libcore_native_CVE-2024-40673)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/G3_libcore_native_CVE-2024-40673">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/G3_libcore_native_CVE-2024-40673">
+
+---
+## CVE-2024-40662 (2024-09-11T00:15:00)
+> In scheme of Uri.java, there is a possible way to craft a malformed Uri object due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [Aakashmom/net_G2.5_CVE-2024-40662](https://github.com/Aakashmom/net_G2.5_CVE-2024-40662)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/net_G2.5_CVE-2024-40662">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/net_G2.5_CVE-2024-40662">
+
+---
 ## CVE-2024-40658 (2024-09-11T00:15:00)
 > In getConfig of SoftVideoDecoderOMXComponent.cpp, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658">
