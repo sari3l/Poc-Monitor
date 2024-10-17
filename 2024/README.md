@@ -1468,6 +1468,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [realstatus/CVE-2024-40711-Exp](https://github.com/realstatus/CVE-2024-40711-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/realstatus/CVE-2024-40711-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/realstatus/CVE-2024-40711-Exp">
 
 ---
+## CVE-2024-40676 ()
+> 
+- [Aakashmom/frameworks_base_accounts_CVE-2024-40676](https://github.com/Aakashmom/frameworks_base_accounts_CVE-2024-40676)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/frameworks_base_accounts_CVE-2024-40676">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/frameworks_base_accounts_CVE-2024-40676">
+
+---
 ## CVE-2024-40658 (2024-09-11T00:15:00)
 > In getConfig of SoftVideoDecoderOMXComponent.cpp, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658">
