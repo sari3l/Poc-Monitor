@@ -2613,8 +2613,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [codeb0ss/CVE-2024-33544-PoC](https://github.com/codeb0ss/CVE-2024-33544-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-33544-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-33544-PoC">
 
 ---
-## CVE-2024-33453 ()
-> 
+## CVE-2024-33453 (2024-10-17T22:15:00)
+> Buffer Overflow vulnerability in esp-idf v.5.1 allows a remote attacker to obtain sensitive information via the externalId component.
 - [Ant1sec-ops/CVE-2024-33453](https://github.com/Ant1sec-ops/CVE-2024-33453)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-33453">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-33453">
 
 ---
@@ -3197,8 +3197,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896)	<img alt="forks" src="https://img.shields.io/github/forks/XenoM0rph97/CVE-2024-30896">	<img alt="stars" src="https://img.shields.io/github/stars/XenoM0rph97/CVE-2024-30896">
 
 ---
-## CVE-2024-30875 ()
-> 
+## CVE-2024-30875 (2024-10-17T22:15:00)
+> Cross Site Scripting vulnerability in JavaScript Library jquery-ui v.1.13.1 allows a remote attacker to obtain sensitive information and execute arbitrary code via a crafted payload to the window.addEventListener component.
 - [Ant1sec-ops/CVE-2024-30875](https://github.com/Ant1sec-ops/CVE-2024-30875)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-30875">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-30875">
 
 ---
@@ -4059,8 +4059,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804)	<img alt="forks" src="https://img.shields.io/github/forks/R00tkitSMM/CVE-2024-27804">	<img alt="stars" src="https://img.shields.io/github/stars/R00tkitSMM/CVE-2024-27804">
 
 ---
-## CVE-2024-27766 ()
-> 
+## CVE-2024-27766 (2024-10-17T22:15:00)
+> An issue in MYSQL MariaDB v.11.1 allows a remote attacker to execute arbitrary code via the lib_mysqludf_sys.so function.
 - [Ant1sec-ops/CVE-2024-27766](https://github.com/Ant1sec-ops/CVE-2024-27766)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-27766">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-27766">
 
 ---

@@ -2734,8 +2734,8 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39707">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39707">
 
 ---
-## CVE-2023-39593 ()
-> 
+## CVE-2023-39593 (2024-10-17T22:15:00)
+> Insecure permissions in the sys_exec function of Oracle MYSQL MariaDB v10.5 allows authenticated attackers to execute arbitrary commands with elevated privileges.
 - [Ant1sec-ops/CVE-2023-39593](https://github.com/Ant1sec-ops/CVE-2023-39593)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2023-39593">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2023-39593">
 
 ---
@@ -5698,8 +5698,8 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [Zeyad-Azima/CVE-2023-26818](https://github.com/Zeyad-Azima/CVE-2023-26818)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2023-26818">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2023-26818">
 
 ---
-## CVE-2023-26785 ()
-> 
+## CVE-2023-26785 (2024-10-17T22:15:00)
+> MariaDB v10.5 was discovered to contain a remote code execution (RCE) vulnerability.
 - [Ant1sec-ops/CVE-2023-26785](https://github.com/Ant1sec-ops/CVE-2023-26785)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2023-26785">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2023-26785">
 
 ---
