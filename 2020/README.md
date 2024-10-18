@@ -1411,6 +1411,11 @@
 - [Live-Hack-CVE/CVE-2020-35628](https://github.com/Live-Hack-CVE/CVE-2020-35628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35628">
 
 ---
+## CVE-2020-35575 (2020-12-26T02:15:00)
+> A password-disclosure issue in the web interface on certain TP-Link devices allows a remote attacker to get full administrative access to the web panel. This affects WA901ND devices before 3.16.9(201211) beta, and Archer C5, Archer C7, MR3420, MR6400, WA701ND, WA801ND, WDR3500, WDR3600, WE843N, WR1043ND, WR1045ND, WR740N, WR741ND, WR749N, WR802N, WR840N, WR841HP, WR841N, WR842N, WR842ND, WR845N, WR940N, WR941HP, WR945N, WR949N, and WRD4300 devices.
+- [dylvie/CVE-2020-35575-password-disclosure-issue-in-the-web-interface](https://github.com/dylvie/CVE-2020-35575-password-disclosure-issue-in-the-web-interface)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2020-35575-password-disclosure-issue-in-the-web-interface">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2020-35575-password-disclosure-issue-in-the-web-interface">
+
+---
 ## CVE-2020-35570 (2021-02-16T16:15:00)
 > An issue was discovered in MB connect line mymbCONNECT24, mbCONNECT24 and Helmholz myREX24 and myREX24.virtual through 2.11.2. An unauthenticated attacker is able to access files (that should have been restricted) via forceful browsing.
 - [Live-Hack-CVE/CVE-2020-35570](https://github.com/Live-Hack-CVE/CVE-2020-35570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35570">
