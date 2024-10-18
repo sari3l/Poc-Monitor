@@ -29,6 +29,7 @@
 ## CVE-2024-9593 ()
 > 
 - [RandomRobbieBF/CVE-2024-9593](https://github.com/RandomRobbieBF/CVE-2024-9593)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9593">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9593">
+- [xssgoro/CVE-2024-9593](https://github.com/xssgoro/CVE-2024-9593)	<img alt="forks" src="https://img.shields.io/github/forks/xssgoro/CVE-2024-9593">	<img alt="stars" src="https://img.shields.io/github/stars/xssgoro/CVE-2024-9593">
 
 ---
 ## CVE-2024-9570 (2024-10-07T16:15:00)
