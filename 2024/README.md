@@ -843,6 +843,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [KamenRiderDarker/CVE-2024-46532](https://github.com/KamenRiderDarker/CVE-2024-46532)	<img alt="forks" src="https://img.shields.io/github/forks/KamenRiderDarker/CVE-2024-46532">	<img alt="stars" src="https://img.shields.io/github/stars/KamenRiderDarker/CVE-2024-46532">
 
 ---
+## CVE-2024-46483 ()
+> 
+- [kn32/cve-2024-46483](https://github.com/kn32/cve-2024-46483)	<img alt="forks" src="https://img.shields.io/github/forks/kn32/cve-2024-46483">	<img alt="stars" src="https://img.shields.io/github/stars/kn32/cve-2024-46483">
+
+---
 ## CVE-2024-46451 (2024-09-16T13:15:00)
 > TOTOLINK AC1200 T8 v4.1.5cu.861_B20230220 has a buffer overflow vulnerability in the setWiFiAclRules function via the desc parameter.
 - [vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46451">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46451">
