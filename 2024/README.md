@@ -21,6 +21,11 @@
 - [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680)	<img alt="forks" src="https://img.shields.io/github/forks/tdonaworth/Firefox-CVE-2024-9680">	<img alt="stars" src="https://img.shields.io/github/stars/tdonaworth/Firefox-CVE-2024-9680">
 
 ---
+## CVE-2024-9593 ()
+> 
+- [RandomRobbieBF/CVE-2024-9593](https://github.com/RandomRobbieBF/CVE-2024-9593)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9593">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9593">
+
+---
 ## CVE-2024-9570 (2024-10-07T16:15:00)
 > A vulnerability was found in D-Link DIR-619L B1 2.06 and classified as critical. Affected by this issue is the function formEasySetTimezone of the file /goform/formEasySetTimezone. The manipulation of the argument curTime leads to buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.
 - [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">
