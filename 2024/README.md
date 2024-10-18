@@ -26,8 +26,8 @@
 - [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680)	<img alt="forks" src="https://img.shields.io/github/forks/tdonaworth/Firefox-CVE-2024-9680">	<img alt="stars" src="https://img.shields.io/github/stars/tdonaworth/Firefox-CVE-2024-9680">
 
 ---
-## CVE-2024-9593 ()
-> 
+## CVE-2024-9593 (2024-10-18T18:15:00)
+> The Time Clock plugin and Time Clock Pro plugin for WordPress are vulnerable to Remote Code Execution in versions up to, and including, 1.2.2 (for Time Clock) and 1.1.4 (for Time Clock Pro) via the 'etimeclockwp_load_function_callback' function. This allows unauthenticated attackers to execute code on the server. The invoked function's parameters cannot be specified.
 - [RandomRobbieBF/CVE-2024-9593](https://github.com/RandomRobbieBF/CVE-2024-9593)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9593">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9593">
 - [xssgoro/CVE-2024-9593](https://github.com/xssgoro/CVE-2024-9593)	<img alt="forks" src="https://img.shields.io/github/forks/xssgoro/CVE-2024-9593">	<img alt="stars" src="https://img.shields.io/github/stars/xssgoro/CVE-2024-9593">
 
