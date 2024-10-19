@@ -766,6 +766,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
 
 ---
+## CVE-2024-48652 ()
+> 
+- [paragbagul111/CVE-2024-48652](https://github.com/paragbagul111/CVE-2024-48652)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-48652">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-48652">
+
+---
 ## CVE-2024-48644 ()
 > 
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
