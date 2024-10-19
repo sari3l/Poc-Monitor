@@ -1679,6 +1679,11 @@
 - [Live-Hack-CVE/CVE-2019-19920](https://github.com/Live-Hack-CVE/CVE-2019-19920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19920">
 
 ---
+## CVE-2019-19919 (2019-12-20T23:15:00)
+> Versions of handlebars prior to 4.3.0 are vulnerable to Prototype Pollution leading to Remote Code Execution. Templates may alter an Object's __proto__ and __defineGetter__ properties, which may allow an attacker to execute arbitrary code through crafted payloads.
+- [fazilbaig1/cve-2019-19919](https://github.com/fazilbaig1/cve-2019-19919)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/cve-2019-19919">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/cve-2019-19919">
+
+---
 ## CVE-2019-19918 (2019-12-20T20:15:00)
 > Lout 3.40 has a heap-based buffer overflow in the srcnext() function in z02.c.
 - [Live-Hack-CVE/CVE-2019-19918](https://github.com/Live-Hack-CVE/CVE-2019-19918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19918">
