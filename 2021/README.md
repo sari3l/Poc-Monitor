@@ -3260,6 +3260,11 @@
 - [Live-Hack-CVE/CVE-2021-39434](https://github.com/Live-Hack-CVE/CVE-2021-39434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39434">
 
 ---
+## CVE-2021-39433 (2021-10-04T20:15:00)
+> A local file inclusion (LFI) vulnerability exists in version BIQS IT Biqs-drive v1.83 and below when sending a specific payload as the file parameter to download/index.php. This allows the attacker to read arbitrary files from the server with the permissions of the configured web-user.
+- [ibnurusdianto/CVE-2021-39433](https://github.com/ibnurusdianto/CVE-2021-39433)	<img alt="forks" src="https://img.shields.io/github/forks/ibnurusdianto/CVE-2021-39433">	<img alt="stars" src="https://img.shields.io/github/stars/ibnurusdianto/CVE-2021-39433">
+
+---
 ## CVE-2021-39432 (2022-11-04T17:15:00)
 > diplib v3.0.0 is vulnerable to Double Free.
 - [Live-Hack-CVE/CVE-2021-39432](https://github.com/Live-Hack-CVE/CVE-2021-39432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39432">
