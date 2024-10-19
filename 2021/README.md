@@ -5674,6 +5674,11 @@
 - [Live-Hack-CVE/CVE-2021-32716](https://github.com/Live-Hack-CVE/CVE-2021-32716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32716">
 
 ---
+## CVE-2021-32708 (2021-06-24T17:15:00)
+> Flysystem is an open source file storage library for PHP. The whitespace normalisation using in 1.x and 2.x removes any unicode whitespace. Under certain specific conditions this could potentially allow a malicious user to execute code remotely. The conditions are: A user is allowed to supply the path or filename of an uploaded file, the supplied path or filename is not checked against unicode chars, the supplied pathname checked against an extension deny-list, not an allow-list, the supplied path or filename contains a unicode whitespace char in the extension, the uploaded file is stored in a directory that allows PHP code to be executed. Given these conditions are met a user can upload and execute arbitrary code on the system under attack. The unicode whitespace removal has been replaced with a rejection (exception). For 1.x users, upgrade to 1.1.4. For 2.x users, upgrade to 2.1.1.
+- [fazilbaig1/CVE-2021-32708](https://github.com/fazilbaig1/CVE-2021-32708)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2021-32708">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2021-32708">
+
+---
 ## CVE-2021-32707 (2021-07-12T19:15:00)
 > Nextcloud Mail is a mail app for Nextcloud. In versions prior to 1.9.6, the Nextcloud Mail application does not, by default, render images in emails to not leak the read state. The privacy filter failed to filter images with a `background-image` CSS attribute. Note that the images were still passed through the Nextcloud image proxy, and thus there was no IP leakage. The issue was patched in version 1.9.6 and 1.10.0. No workarounds are known to exist.
 - [Live-Hack-CVE/CVE-2021-32707](https://github.com/Live-Hack-CVE/CVE-2021-32707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32707">
