@@ -806,6 +806,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [AxthonyV/CVE-2024-47176](https://github.com/AxthonyV/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2024-47176">
 - [AxthonyV/CVE-2024-47176](https://github.com/AxthonyV/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2024-47176">
 - [gianlu111/CUPS-CVE-2024-47176](https://github.com/gianlu111/CUPS-CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/gianlu111/CUPS-CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/gianlu111/CUPS-CVE-2024-47176">
+- [0x7556/CVE-2024-47176](https://github.com/0x7556/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2024-47176">
 
 ---
 ## CVE-2024-47076 (2024-09-26T22:15:00)
