@@ -3263,6 +3263,7 @@
 ## CVE-2021-39433 (2021-10-04T20:15:00)
 > A local file inclusion (LFI) vulnerability exists in version BIQS IT Biqs-drive v1.83 and below when sending a specific payload as the file parameter to download/index.php. This allows the attacker to read arbitrary files from the server with the permissions of the configured web-user.
 - [ibnurusdianto/CVE-2021-39433](https://github.com/ibnurusdianto/CVE-2021-39433)	<img alt="forks" src="https://img.shields.io/github/forks/ibnurusdianto/CVE-2021-39433">	<img alt="stars" src="https://img.shields.io/github/stars/ibnurusdianto/CVE-2021-39433">
+- [PinkDraconian/CVE-2021-39433](https://github.com/PinkDraconian/CVE-2021-39433)	<img alt="forks" src="https://img.shields.io/github/forks/PinkDraconian/CVE-2021-39433">	<img alt="stars" src="https://img.shields.io/github/stars/PinkDraconian/CVE-2021-39433">
 
 ---
 ## CVE-2021-39432 (2022-11-04T17:15:00)
