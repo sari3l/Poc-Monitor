@@ -797,6 +797,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [J-0k3r/CVE-2024-48180](https://github.com/J-0k3r/CVE-2024-48180)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2024-48180">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2024-48180">
 
 ---
+## CVE-2024-47854 (2024-10-04T06:15:00)
+> An XSS vulnerability was discovered in Veritas Data Insight before 7.1. It allows a remote attacker to inject an arbitrary web script into an HTTP request that could reflect back to an authenticated user without sanitization if executed by that user.
+- [MarioTesoro/CVE-2024-47854](https://github.com/MarioTesoro/CVE-2024-47854)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-47854">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-47854">
+
+---
 ## CVE-2024-4761 (2024-05-14T16:17:00)
 > Out of bounds write in V8 in Google Chrome prior to 124.0.6367.207 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: High)
 - [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761)	<img alt="forks" src="https://img.shields.io/github/forks/michredteam/CVE-2024-4761">	<img alt="stars" src="https://img.shields.io/github/stars/michredteam/CVE-2024-4761">
