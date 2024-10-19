@@ -766,6 +766,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
 
 ---
+## CVE-2024-48415 ()
+> 
+- [khaliquesX/CVE-2024-48415](https://github.com/khaliquesX/CVE-2024-48415)	<img alt="forks" src="https://img.shields.io/github/forks/khaliquesX/CVE-2024-48415">	<img alt="stars" src="https://img.shields.io/github/stars/khaliquesX/CVE-2024-48415">
+
+---
 ## CVE-2024-4836 (2024-07-02T09:15:00)
 > Web services managed by Edito CMS (Content Management System) in versions from 3.5 through 3.25 leak sensitive data as they allow downloading configuration files by an unauthenticated user.
 The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th of January 2014. Higher versions were never affected.
