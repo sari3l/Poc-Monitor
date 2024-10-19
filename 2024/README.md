@@ -78,6 +78,11 @@
 - [nothe1senberg/CVE-2024-9379](https://github.com/nothe1senberg/CVE-2024-9379)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9379">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9379">
 
 ---
+## CVE-2024-9264 (2024-10-18T04:15:00)
+> The SQL Expressions experimental feature of Grafana allows for the evaluation of `duckdb` queries containing user input. These queries are insufficiently sanitized before being passed to `duckdb`, leading to a command injection and local file inclusion vulnerability. Any user with the VIEWER or higher permission is capable of executing this attack.  The `duckdb` binary must be present in Grafana's $PATH for this attack to function; by default, this binary is not installed in Grafana distributions.
+- [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/nollium/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/nollium/CVE-2024-9264">
+
+---
 ## CVE-2024-9234 (2024-10-11T13:15:00)
 > The GutenKit – Page Builder Blocks, Patterns, and Templates for Gutenberg Block Editor plugin for WordPress is vulnerable to arbitrary file uploads due to a missing capability check on the install_and_activate_plugin_from_external() function  (install-active-plugin REST API endpoint) in all versions up to, and including, 2.1.0. This makes it possible for unauthenticated attackers to install and activate arbitrary plugins, or utilize the functionality to upload arbitrary files spoofed like plugins.
 - [RandomRobbieBF/CVE-2024-9234](https://github.com/RandomRobbieBF/CVE-2024-9234)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9234">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9234">
@@ -3571,6 +3576,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [exploits-forsale/collateral-damage](https://github.com/exploits-forsale/collateral-damage)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/collateral-damage">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/collateral-damage">
 - [l0n3m4n/CVE-2024-30088](https://github.com/l0n3m4n/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-30088">
 - [Justintroup85/exploits-forsale-collateral-damage](https://github.com/Justintroup85/exploits-forsale-collateral-damage)	<img alt="forks" src="https://img.shields.io/github/forks/Justintroup85/exploits-forsale-collateral-damage">	<img alt="stars" src="https://img.shields.io/github/stars/Justintroup85/exploits-forsale-collateral-damage">
+- [l0n3m4n/CVE-2024-30088](https://github.com/l0n3m4n/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-30088">
 
 ---
 ## CVE-2024-30078 (2024-06-11T17:15:00)
