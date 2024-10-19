@@ -7648,6 +7648,11 @@
 - [Live-Hack-CVE/CVE-2021-23394](https://github.com/Live-Hack-CVE/CVE-2021-23394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23394">
 
 ---
+## CVE-2021-23383 (2021-05-04T09:15:00)
+> The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.
+- [fazilbaig1/CVE-2021-23383](https://github.com/fazilbaig1/CVE-2021-23383)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2021-23383">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2021-23383">
+
+---
 ## CVE-2021-23369 (2021-04-12T14:15:00)
 > The package handlebars before 4.7.7 are vulnerable to Remote Code Execution (RCE) when selecting certain compiling options to compile templates coming from an untrusted source.
 - [fazilbaig1/CVE-2021-23369](https://github.com/fazilbaig1/CVE-2021-23369)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2021-23369">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2021-23369">
