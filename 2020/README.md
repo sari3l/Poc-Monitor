@@ -1930,6 +1930,11 @@
 - [Live-Hack-CVE/CVE-2020-28460](https://github.com/Live-Hack-CVE/CVE-2020-28460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28460">
 
 ---
+## CVE-2020-28458 (2020-12-16T11:15:00)
+> All versions of package datatables.net are vulnerable to Prototype Pollution due to an incomplete fix for https://snyk.io/vuln/SNYK-JS-DATATABLESNET-598806.
+- [fazilbaig1/CVE-2020-28458](https://github.com/fazilbaig1/CVE-2020-28458)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2020-28458">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2020-28458">
+
+---
 ## CVE-2020-28448 (2020-12-22T13:15:00)
 > This affects the package multi-ini before 2.1.1. It is possible to pollute an object's prototype by specifying the proto object as part of an array.
 - [Live-Hack-CVE/CVE-2020-28448](https://github.com/Live-Hack-CVE/CVE-2020-28448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28448">

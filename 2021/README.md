@@ -7651,6 +7651,7 @@
 ## CVE-2021-23383 (2021-05-04T09:15:00)
 > The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.
 - [fazilbaig1/CVE-2021-23383](https://github.com/fazilbaig1/CVE-2021-23383)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2021-23383">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2021-23383">
+- [dn9uy3n/Check-CVE-2021-23383](https://github.com/dn9uy3n/Check-CVE-2021-23383)	<img alt="forks" src="https://img.shields.io/github/forks/dn9uy3n/Check-CVE-2021-23383">	<img alt="stars" src="https://img.shields.io/github/stars/dn9uy3n/Check-CVE-2021-23383">
 
 ---
 ## CVE-2021-23369 (2021-04-12T14:15:00)
