@@ -5156,6 +5156,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [brian-edgar-re/poc-cve-2024-23334](https://github.com/brian-edgar-re/poc-cve-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/brian-edgar-re/poc-cve-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/brian-edgar-re/poc-cve-2024-23334">
 - [binaryninja/CVE-2024-23334](https://github.com/binaryninja/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/binaryninja/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/binaryninja/CVE-2024-23334">
 - [s4botai/CVE-2024-23334-PoC](https://github.com/s4botai/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/s4botai/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/s4botai/CVE-2024-23334-PoC">
+- [wizarddos/CVE-2024-23334](https://github.com/wizarddos/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/wizarddos/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/wizarddos/CVE-2024-23334">
 
 ---
 ## CVE-2024-23222 (2024-01-23T01:15:00)
@@ -6191,6 +6192,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Matrexdz/CVE-2024-1071](https://github.com/Matrexdz/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Matrexdz/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Matrexdz/CVE-2024-1071">
 - [fa-rrel/CVE-2024-1071-SQL-Injection](https://github.com/fa-rrel/CVE-2024-1071-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-1071-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-1071-SQL-Injection">
 - [Dogu589/WordPress-Exploit-CVE-2024-1071](https://github.com/Dogu589/WordPress-Exploit-CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Dogu589/WordPress-Exploit-CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Dogu589/WordPress-Exploit-CVE-2024-1071">
+
+---
+## CVE-2024-10140 (2024-10-19T15:15:00)
+> A vulnerability, which was classified as critical, has been found in code-projects Pharmacy Management System 1.0. Affected by this issue is some unknown functionality of the file /manage_supplier.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.
+- [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140)	<img alt="forks" src="https://img.shields.io/github/forks/holypryx/CVE-2024-10140">	<img alt="stars" src="https://img.shields.io/github/stars/holypryx/CVE-2024-10140">
 
 ---
 ## CVE-2024-0967 (2024-03-01T15:15:00)
