@@ -1269,8 +1269,8 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [Yogehi/cve-2024-4406-xiaomi13pro-exploit-files](https://github.com/Yogehi/cve-2024-4406-xiaomi13pro-exploit-files)	<img alt="forks" src="https://img.shields.io/github/forks/Yogehi/cve-2024-4406-xiaomi13pro-exploit-files">	<img alt="stars" src="https://img.shields.io/github/stars/Yogehi/cve-2024-4406-xiaomi13pro-exploit-files">
 
 ---
-## CVE-2024-44000 ()
-> 
+## CVE-2024-44000 (2024-10-20T12:15:00)
+> Insufficiently Protected Credentials vulnerability in LiteSpeed Technologies LiteSpeed Cache allows Authentication Bypass.This issue affects LiteSpeed Cache: from n/a before 6.5.0.1.
 - [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2024-44000-LiteSpeed-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2024-44000-LiteSpeed-Cache">
 - [gbrsh/CVE-2024-44000](https://github.com/gbrsh/CVE-2024-44000)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2024-44000">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2024-44000">
 - [ifqygazhar/CVE-2024-44000-LiteSpeed-Cache](https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache">
