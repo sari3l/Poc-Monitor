@@ -340,6 +340,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-6778 (2024-07-16T22:15:00)
 > Race in DevTools in Google Chrome prior to 126.0.6478.182 allowed an attacker who convinced a user to install a malicious extension to inject scripts or HTML into a privileged page via a crafted Chrome Extension. (Chromium security severity: High)
 - [ading2210/CVE-2024-6778-POC](https://github.com/ading2210/CVE-2024-6778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ading2210/CVE-2024-6778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ading2210/CVE-2024-6778-POC">
+- [r00tjunip3r1/POC-CVE-2024-6778](https://github.com/r00tjunip3r1/POC-CVE-2024-6778)	<img alt="forks" src="https://img.shields.io/github/forks/r00tjunip3r1/POC-CVE-2024-6778">	<img alt="stars" src="https://img.shields.io/github/stars/r00tjunip3r1/POC-CVE-2024-6778">
 
 ---
 ## CVE-2024-6769 (2024-09-26T21:15:00)
