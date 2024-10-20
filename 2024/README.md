@@ -82,6 +82,7 @@
 > The SQL Expressions experimental feature of Grafana allows for the evaluation of `duckdb` queries containing user input. These queries are insufficiently sanitized before being passed to `duckdb`, leading to a command injection and local file inclusion vulnerability. Any user with the VIEWER or higher permission is capable of executing this attack.  The `duckdb` binary must be present in Grafana's $PATH for this attack to function; by default, this binary is not installed in Grafana distributions.
 - [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/nollium/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/nollium/CVE-2024-9264">
 - [z3k0sec/File-Read-CVE-2024-9264](https://github.com/z3k0sec/File-Read-CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/z3k0sec/File-Read-CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/z3k0sec/File-Read-CVE-2024-9264">
+- [zgimszhd61/CVE-2024-9264](https://github.com/zgimszhd61/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-9264">
 
 ---
 ## CVE-2024-9234 (2024-10-11T13:15:00)
