@@ -2347,6 +2347,7 @@ PANIC from 6.8.0-rc1:
 ## CVE-2024-35250 (2024-06-11T17:16:00)
 > Windows Kernel-Mode Driver Elevation of Privilege Vulnerability
 - [varwara/CVE-2024-35250](https://github.com/varwara/CVE-2024-35250)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-35250">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-35250">
+- [0xjiefeng/CVE-2024-35250-BOF](https://github.com/0xjiefeng/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/0xjiefeng/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/0xjiefeng/CVE-2024-35250-BOF">
 
 ---
 ## CVE-2024-35242 (2024-06-10T22:15:00)
