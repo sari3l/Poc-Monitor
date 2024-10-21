@@ -1299,6 +1299,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [p33d/CVE-2024-43917](https://github.com/p33d/CVE-2024-43917)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-43917">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-43917">
 
 ---
+## CVE-2024-43689 (2024-10-21T02:15:00)
+> Stack-based buffer overflow vulnerability exists in WAB-I1750-PS and WAB-S1167-PS. By processing a specially crafted HTTP request, arbitrary code may be executed.
+- [fukeriu/CVE-2024-43689](https://github.com/fukeriu/CVE-2024-43689)	<img alt="forks" src="https://img.shields.io/github/forks/fukeriu/CVE-2024-43689">	<img alt="stars" src="https://img.shields.io/github/stars/fukeriu/CVE-2024-43689">
+
+---
 ## CVE-2024-4367 (2024-05-14T18:15:00)
 > A type check was missing when handling fonts in PDF.js, which would allow arbitrary JavaScript execution in the PDF.js context. This vulnerability affects Firefox < 126, Firefox ESR < 115.11, and Thunderbird < 115.11.
 - [LOURC0D3/CVE-2024-4367-PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-4367-PoC">
