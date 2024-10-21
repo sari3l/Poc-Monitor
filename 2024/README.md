@@ -83,6 +83,7 @@
 - [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/nollium/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/nollium/CVE-2024-9264">
 - [z3k0sec/File-Read-CVE-2024-9264](https://github.com/z3k0sec/File-Read-CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/z3k0sec/File-Read-CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/z3k0sec/File-Read-CVE-2024-9264">
 - [zgimszhd61/CVE-2024-9264](https://github.com/zgimszhd61/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-9264">
+- [z3k0sec/CVE-2024-9264-RCE-Exploit](https://github.com/z3k0sec/CVE-2024-9264-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/z3k0sec/CVE-2024-9264-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/z3k0sec/CVE-2024-9264-RCE-Exploit">
 
 ---
 ## CVE-2024-9234 (2024-10-11T13:15:00)
