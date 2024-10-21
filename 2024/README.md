@@ -1002,6 +1002,11 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2024-45507_Behinder_Webshell">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2024-45507_Behinder_Webshell">
 
 ---
+## CVE-2024-45436 (2024-08-29T03:15:00)
+> extractFromZipFile in model.go in Ollama before 0.1.47 can extract members of a ZIP archive outside of the parent directory.
+- [pankass/CVE-2024-45436](https://github.com/pankass/CVE-2024-45436)	<img alt="forks" src="https://img.shields.io/github/forks/pankass/CVE-2024-45436">	<img alt="stars" src="https://img.shields.io/github/stars/pankass/CVE-2024-45436">
+
+---
 ## CVE-2024-45410 (2024-09-19T23:15:00)
 > Traefik is a golang, Cloud Native Application Proxy. When a HTTP request is processed by Traefik, certain HTTP headers such as X-Forwarded-Host or X-Forwarded-Port are added by Traefik before the request is routed to the application. For a HTTP client, it should not be possible to remove or modify these headers. Since the application trusts the value of these headers, security implications might arise, if they can be modified. For HTTP/1.1, however, it was found that some of theses custom headers can indeed be removed and in certain cases manipulated. The attack relies on the HTTP/1.1 behavior, that headers can be defined as hop-by-hop via the HTTP Connection header. This issue has been addressed in release versions 2.11.9 and 3.1.3. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [jphetphoumy/traefik-CVE-2024-45410-poc](https://github.com/jphetphoumy/traefik-CVE-2024-45410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jphetphoumy/traefik-CVE-2024-45410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jphetphoumy/traefik-CVE-2024-45410-poc">
@@ -1942,6 +1947,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [becrevex/CVE-2024-38063](https://github.com/becrevex/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2024-38063">
 - [idkwastaken/CVE-2024-38063](https://github.com/idkwastaken/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/idkwastaken/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/idkwastaken/CVE-2024-38063">
 - [thanawee321/CVE-2024-38063](https://github.com/thanawee321/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/thanawee321/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/thanawee321/CVE-2024-38063">
+- [VuongHuuAn/CVE-2024-38063](https://github.com/VuongHuuAn/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/VuongHuuAn/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/VuongHuuAn/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
