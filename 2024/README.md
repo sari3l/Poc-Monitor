@@ -6197,6 +6197,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [xzx482/CVE-2024-1086](https://github.com/xzx482/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/xzx482/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/xzx482/CVE-2024-1086">
 - [pl0xe/CVE-2024-1086](https://github.com/pl0xe/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/pl0xe/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/pl0xe/CVE-2024-1086">
 - [MNK076/CVE-2024-1086](https://github.com/MNK076/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/MNK076/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/MNK076/CVE-2024-1086">
+- [matrixvk/CVE-2024-1086-aarch64](https://github.com/matrixvk/CVE-2024-1086-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/matrixvk/CVE-2024-1086-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/matrixvk/CVE-2024-1086-aarch64">
 
 ---
 ## CVE-2024-1071 (2024-03-13T16:15:00)
