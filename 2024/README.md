@@ -2351,8 +2351,8 @@ PANIC from 6.8.0-rc1:
 - [momo1239/CVE-2024-35333](https://github.com/momo1239/CVE-2024-35333)	<img alt="forks" src="https://img.shields.io/github/forks/momo1239/CVE-2024-35333">	<img alt="stars" src="https://img.shields.io/github/stars/momo1239/CVE-2024-35333">
 
 ---
-## CVE-2024-35315 ()
-> 
+## CVE-2024-35315 (2024-10-21T21:15:00)
+> A vulnerability in the Desktop Client of Mitel MiCollab through 9.7.1.110, and MiVoice Business Solution Virtual Instance (MiVB SVI) 1.0.0.25, could allow an authenticated attacker to conduct a privilege escalation attack due to improper file validation. A successful exploit could allow an attacker to run arbitrary code with elevated privileges.
 - [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-35315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-35315-POC">
 
 ---
