@@ -84,6 +84,7 @@
 - [z3k0sec/File-Read-CVE-2024-9264](https://github.com/z3k0sec/File-Read-CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/z3k0sec/File-Read-CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/z3k0sec/File-Read-CVE-2024-9264">
 - [zgimszhd61/CVE-2024-9264](https://github.com/zgimszhd61/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-9264">
 - [z3k0sec/CVE-2024-9264-RCE-Exploit](https://github.com/z3k0sec/CVE-2024-9264-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/z3k0sec/CVE-2024-9264-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/z3k0sec/CVE-2024-9264-RCE-Exploit">
+- [PunitTailor55/Grafana-CVE-2024-9264](https://github.com/PunitTailor55/Grafana-CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/PunitTailor55/Grafana-CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/PunitTailor55/Grafana-CVE-2024-9264">
 
 ---
 ## CVE-2024-9234 (2024-10-11T13:15:00)
@@ -5194,6 +5195,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [CheckCve2/CVE-2024-23113](https://github.com/CheckCve2/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/CheckCve2/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/CheckCve2/CVE-2024-23113">
 - [HazeLook/CVE-2024-23113](https://github.com/HazeLook/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-23113">
 - [maybelookis/CVE-2024-23113](https://github.com/maybelookis/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-23113">
+- [p33d/CVE-2024-23113](https://github.com/p33d/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-23113">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)
