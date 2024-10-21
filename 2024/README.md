@@ -1301,7 +1301,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 ---
 ## CVE-2024-43689 (2024-10-21T02:15:00)
 > Stack-based buffer overflow vulnerability exists in WAB-I1750-PS and WAB-S1167-PS. By processing a specially crafted HTTP request, arbitrary code may be executed.
-- [fukeriu/CVE-2024-43689](https://github.com/fukeriu/CVE-2024-43689)	<img alt="forks" src="https://img.shields.io/github/forks/fukeriu/CVE-2024-43689">	<img alt="stars" src="https://img.shields.io/github/stars/fukeriu/CVE-2024-43689">
+- [fukeriu/CVE-2024-43689-RCE](https://github.com/fukeriu/CVE-2024-43689-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fukeriu/CVE-2024-43689-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fukeriu/CVE-2024-43689-RCE">
 
 ---
 ## CVE-2024-4367 (2024-05-14T18:15:00)
