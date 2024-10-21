@@ -739,6 +739,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [BrotherOfJhonny/CVE-2024-48955](https://github.com/BrotherOfJhonny/CVE-2024-48955)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-48955">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-48955">
 
 ---
+## CVE-2024-48914 (2024-10-15T16:15:00)
+> Vendure is an open-source headless commerce platform. Prior to versions 3.0.5 and 2.3.3, a vulnerability in Vendure's asset server plugin allows an attacker to craft a request which is able to traverse the server file system and retrieve the contents of arbitrary files, including sensitive data such as configuration files, environment variables, and other critical data stored on the server. In the same code path is an additional vector for crashing the server via a malformed URI. Patches are available in versions 3.0.5 and 2.3.3. Some workarounds are also available. One may use object storage rather than the local file system, e.g. MinIO or S3, or define middleware which detects and blocks requests with urls containing `/../`.
+- [EQSTLab/CVE-2024-48914](https://github.com/EQSTLab/CVE-2024-48914)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-48914">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-48914">
+
+---
 ## CVE-2024-4885 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an unauthenticated Remote Code Execution vulnerability in Progress WhatsUpGold.  The 
 
