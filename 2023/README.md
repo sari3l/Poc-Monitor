@@ -1438,6 +1438,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [RevoltSecurities/CVE-2023-46747](https://github.com/RevoltSecurities/CVE-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2023-46747">
 - [vidura2/cve-2023-46747](https://github.com/vidura2/cve-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/cve-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/cve-2023-46747">
 - [rainbowhatrkn/CVE-2023-46747-RCE](https://github.com/rainbowhatrkn/CVE-2023-46747-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rainbowhatrkn/CVE-2023-46747-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rainbowhatrkn/CVE-2023-46747-RCE">
+- [Rizzler4562/CVE-2023-46747-Mass-RCE](https://github.com/Rizzler4562/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Rizzler4562/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Rizzler4562/CVE-2023-46747-Mass-RCE">
 
 ---
 ## CVE-2023-46694 (2024-05-28T20:16:00)
