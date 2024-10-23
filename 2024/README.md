@@ -781,18 +781,18 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
 
 ---
-## CVE-2024-48652 ()
-> 
+## CVE-2024-48652 (2024-10-22T22:15:00)
+> Cross Site Scripting vulnerability in camaleon-cms v.2.7.5 allows remote attacker to execute arbitrary code via the content group name field.
 - [paragbagul111/CVE-2024-48652](https://github.com/paragbagul111/CVE-2024-48652)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-48652">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-48652">
 
 ---
-## CVE-2024-48644 ()
-> 
+## CVE-2024-48644 (2024-10-22T22:15:00)
+> Accounts enumeration vulnerability in the Login Component of Reolink Duo 2 WiFi Camera (Firmware Version v3.0.0.1889_23031701) allows remote attackers to determine valid user accounts via login attempts. This can lead to the enumeration of user accounts and potentially facilitate other attacks, such as brute-forcing of passwords. The vulnerability arises from the application responding differently to login attempts with valid and invalid usernames.
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
 
 ---
-## CVE-2024-48415 ()
-> 
+## CVE-2024-48415 (2024-10-22T22:15:00)
+> itsourcecode Loan Management System v1.0 is vulnerable to Cross Site Scripting (XSS) via a crafted payload to the lastname, firstname, middlename, address, contact_no, email and tax_id parameters in new borrowers functionality on the Borrowers page.
 - [khaliquesX/CVE-2024-48415](https://github.com/khaliquesX/CVE-2024-48415)	<img alt="forks" src="https://img.shields.io/github/forks/khaliquesX/CVE-2024-48415">	<img alt="stars" src="https://img.shields.io/github/stars/khaliquesX/CVE-2024-48415">
 
 ---
@@ -885,8 +885,8 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [KamenRiderDarker/CVE-2024-46532](https://github.com/KamenRiderDarker/CVE-2024-46532)	<img alt="forks" src="https://img.shields.io/github/forks/KamenRiderDarker/CVE-2024-46532">	<img alt="stars" src="https://img.shields.io/github/stars/KamenRiderDarker/CVE-2024-46532">
 
 ---
-## CVE-2024-46483 ()
-> 
+## CVE-2024-46483 (2024-10-22T22:15:00)
+> Xlight FTP Server <3.9.4.3 has an integer overflow vulnerability in the packet parsing logic of the SFTP server, which can lead to a heap overflow with attacker-controlled content.
 - [kn32/cve-2024-46483](https://github.com/kn32/cve-2024-46483)	<img alt="forks" src="https://img.shields.io/github/forks/kn32/cve-2024-46483">	<img alt="stars" src="https://img.shields.io/github/stars/kn32/cve-2024-46483">
 
 ---
@@ -1203,8 +1203,8 @@ Allocated by task 6166:
 - [nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-](https://github.com/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-)	<img alt="forks" src="https://img.shields.io/github/forks/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-">	<img alt="stars" src="https://img.shields.io/github/stars/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-">
 
 ---
-## CVE-2024-44812 ()
-> 
+## CVE-2024-44812 (2024-10-22T22:15:00)
+> SQL Injection vulnerability in Online Complaint Site v.1.0 allows a remote attacker to escalate privileges via the username and password parameters in the /admin.index.php component.
 - [b1u3st0rm/CVE-2024-44812-PoC](https://github.com/b1u3st0rm/CVE-2024-44812-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b1u3st0rm/CVE-2024-44812-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b1u3st0rm/CVE-2024-44812-PoC">
 
 ---
