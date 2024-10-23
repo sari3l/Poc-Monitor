@@ -880,6 +880,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627)	<img alt="forks" src="https://img.shields.io/github/forks/d4lyw/CVE-2024-46627">	<img alt="stars" src="https://img.shields.io/github/stars/d4lyw/CVE-2024-46627">
 
 ---
+## CVE-2024-46538 ()
+> 
+- [EQSTLab/CVE-2024-46538](https://github.com/EQSTLab/CVE-2024-46538)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-46538">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-46538">
+
+---
 ## CVE-2024-46532 (2024-10-11T18:15:00)
 > SQL Injection vulnerability in OpenHIS v.1.0 allows an attacker to execute arbitrary code via the refund function in the PayController.class.php component.
 - [KamenRiderDarker/CVE-2024-46532](https://github.com/KamenRiderDarker/CVE-2024-46532)	<img alt="forks" src="https://img.shields.io/github/forks/KamenRiderDarker/CVE-2024-46532">	<img alt="stars" src="https://img.shields.io/github/stars/KamenRiderDarker/CVE-2024-46532">
