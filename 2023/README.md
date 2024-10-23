@@ -2190,6 +2190,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [thefizzyfish/CVE-2023-4220](https://github.com/thefizzyfish/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/thefizzyfish/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/thefizzyfish/CVE-2023-4220">
 - [qrxnz/CVE-2023-4220](https://github.com/qrxnz/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/qrxnz/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/qrxnz/CVE-2023-4220">
 - [0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit](https://github.com/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit">
+- [bueno-armando/CVE-2023-4220-RCE](https://github.com/bueno-armando/CVE-2023-4220-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/bueno-armando/CVE-2023-4220-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/bueno-armando/CVE-2023-4220-RCE">
 
 ---
 ## CVE-2023-422 ()
