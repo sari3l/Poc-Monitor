@@ -1660,6 +1660,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/entroychang/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/entroychang/CVE-2024-4040">
 - [safeer-accuknox/CrushFTP-cve-2024-4040-poc](https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc)	<img alt="forks" src="https://img.shields.io/github/forks/safeer-accuknox/CrushFTP-cve-2024-4040-poc">	<img alt="stars" src="https://img.shields.io/github/stars/safeer-accuknox/CrushFTP-cve-2024-4040-poc">
 - [geniuszlyy/GenCrushSSTIExploit](https://github.com/geniuszlyy/GenCrushSSTIExploit)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/GenCrushSSTIExploit">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/GenCrushSSTIExploit">
+- [rahisec/CVE-2024-4040](https://github.com/rahisec/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/rahisec/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/rahisec/CVE-2024-4040">
 
 ---
 ## CVE-2024-40348 (2024-07-20T04:15:00)
