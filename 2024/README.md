@@ -2058,6 +2058,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
 
 ---
+## CVE-2024-37383 (2024-06-07T04:15:00)
+> Roundcube Webmail before 1.5.7 and 1.6.x before 1.6.7 allows XSS via SVG animate attributes.
+- [bartfroklage/CVE-2024-37383-POC](https://github.com/bartfroklage/CVE-2024-37383-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bartfroklage/CVE-2024-37383-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bartfroklage/CVE-2024-37383-POC">
+
+---
 ## CVE-2024-37147 (2024-07-10T19:15:00)
 > GLPI is an open-source asset and IT management software package that provides ITIL Service Desk features, licenses tracking and software auditing. An authenticated user can attach a document to any item, even if the user has no write access on it. Upgrade to 10.0.16.
 - [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-37147-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-37147-PoC">
