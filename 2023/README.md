@@ -1440,6 +1440,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [rainbowhatrkn/CVE-2023-46747-RCE](https://github.com/rainbowhatrkn/CVE-2023-46747-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rainbowhatrkn/CVE-2023-46747-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rainbowhatrkn/CVE-2023-46747-RCE">
 - [Rizzler4562/CVE-2023-46747-Mass-RCE](https://github.com/Rizzler4562/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Rizzler4562/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Rizzler4562/CVE-2023-46747-Mass-RCE">
 - [Xanexs/CVE-2023-46747-Mass-RCE](https://github.com/Xanexs/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Xanexs/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Xanexs/CVE-2023-46747-Mass-RCE">
+- [AMELYA13/CVE-2023-46747-Mass-RCE](https://github.com/AMELYA13/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AMELYA13/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AMELYA13/CVE-2023-46747-Mass-RCE">
 
 ---
 ## CVE-2023-46694 (2024-05-28T20:16:00)
