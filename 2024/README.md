@@ -729,6 +729,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [UMASANKAR-MG/Path-Traversal-CVE-2024-4956](https://github.com/UMASANKAR-MG/Path-Traversal-CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/UMASANKAR-MG/Path-Traversal-CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/UMASANKAR-MG/Path-Traversal-CVE-2024-4956">
 
 ---
+## CVE-2024-4947 (2024-05-15T21:15:00)
+> Type Confusion in V8 in Google Chrome prior to 125.0.6422.60 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)
+- [uixss/PoC-CVE-2024-4947](https://github.com/uixss/PoC-CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/uixss/PoC-CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/uixss/PoC-CVE-2024-4947">
+
+---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
 > The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary option updates due to a missing authorization checks on the REST API calls in all versions up to, and including, 0.1.0.38. This makes it possible for unauthenticated attackers to connect the site to InstaWP API, edit arbitrary site options and create administrator accounts.
 - [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4898-Poc">
@@ -1888,6 +1893,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38189 (2024-08-13T18:15:00)
 > Microsoft Project Remote Code Execution Vulnerability
 - [vx7z/CVE-2024-38189](https://github.com/vx7z/CVE-2024-38189)	<img alt="forks" src="https://img.shields.io/github/forks/vx7z/CVE-2024-38189">	<img alt="stars" src="https://img.shields.io/github/stars/vx7z/CVE-2024-38189">
+
+---
+## CVE-2024-38178 (2024-08-13T18:15:00)
+> Scripting Engine Memory Corruption Vulnerability
+- [uixss/PoC-CVE-2024-38178](https://github.com/uixss/PoC-CVE-2024-38178)	<img alt="forks" src="https://img.shields.io/github/forks/uixss/PoC-CVE-2024-38178">	<img alt="stars" src="https://img.shields.io/github/stars/uixss/PoC-CVE-2024-38178">
 
 ---
 ## CVE-2024-38144 (2024-08-13T18:15:00)

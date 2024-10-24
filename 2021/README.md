@@ -5871,6 +5871,11 @@
 - [Live-Hack-CVE/CVE-2021-3177](https://github.com/Live-Hack-CVE/CVE-2021-3177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3177">
 
 ---
+## CVE-2021-31755 (2021-05-07T23:15:00)
+> An issue was discovered on Tenda AC11 devices with firmware through 02.03.01.104_CN. A stack buffer overflow vulnerability in /goform/setmac allows attackers to execute arbitrary code on the system via a crafted post request.
+- [r3s3tt/CVE-2021-31755](https://github.com/r3s3tt/CVE-2021-31755)	<img alt="forks" src="https://img.shields.io/github/forks/r3s3tt/CVE-2021-31755">	<img alt="stars" src="https://img.shields.io/github/stars/r3s3tt/CVE-2021-31755">
+
+---
 ## CVE-2021-3166 (2021-01-18T05:15:00)
 > An issue was discovered on ASUS DSL-N14U-B1 1.1.2.3_805 devices. An attacker can upload arbitrary file content as a firmware update when the filename Settings_DSL-N14U-B1.trx is used. Once this file is loaded, shutdown measures on a wide range of services are triggered as if it were a real update, resulting in a persistent outage of those services.
 - [kaisersource/CVE-2021-3166](https://github.com/kaisersource/CVE-2021-3166)	<img alt="forks" src="https://img.shields.io/github/forks/kaisersource/CVE-2021-3166">	<img alt="stars" src="https://img.shields.io/github/stars/kaisersource/CVE-2021-3166">
