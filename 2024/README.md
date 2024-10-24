@@ -1832,6 +1832,7 @@ However, malicious requests are blocked and rejected when any of the following i
 ## CVE-2024-38812 (2024-09-17T18:15:00)
 > The vCenter Server contains a heap-overflow vulnerability in the implementation of the DCERPC protocol. A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a specially crafted network packet potentially leading to remote code execution.
 - [maybeheisenberg/CVE-2024-38812](https://github.com/maybeheisenberg/CVE-2024-38812)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-38812">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-38812">
+- [groshi/CVE-2024-38812-POC-5-Hands-Private](https://github.com/groshi/CVE-2024-38812-POC-5-Hands-Private)	<img alt="forks" src="https://img.shields.io/github/forks/groshi/CVE-2024-38812-POC-5-Hands-Private">	<img alt="stars" src="https://img.shields.io/github/stars/groshi/CVE-2024-38812-POC-5-Hands-Private">
 
 ---
 ## CVE-2024-38793 (2024-08-29T15:15:00)
