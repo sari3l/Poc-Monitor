@@ -791,6 +791,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
 
 ---
+## CVE-2024-48427 ()
+> 
+- [vighneshnair7/CVE-2024-48427](https://github.com/vighneshnair7/CVE-2024-48427)	<img alt="forks" src="https://img.shields.io/github/forks/vighneshnair7/CVE-2024-48427">	<img alt="stars" src="https://img.shields.io/github/stars/vighneshnair7/CVE-2024-48427">
+
+---
 ## CVE-2024-48415 (2024-10-22T22:15:00)
 > itsourcecode Loan Management System v1.0 is vulnerable to Cross Site Scripting (XSS) via a crafted payload to the lastname, firstname, middlename, address, contact_no, email and tax_id parameters in new borrowers functionality on the Borrowers page.
 - [khaliquesX/CVE-2024-48415](https://github.com/khaliquesX/CVE-2024-48415)	<img alt="forks" src="https://img.shields.io/github/forks/khaliquesX/CVE-2024-48415">	<img alt="stars" src="https://img.shields.io/github/stars/khaliquesX/CVE-2024-48415">
