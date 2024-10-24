@@ -4715,6 +4715,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760)	<img alt="forks" src="https://img.shields.io/github/forks/killerbees19/CVE-2024-24760">	<img alt="stars" src="https://img.shields.io/github/stars/killerbees19/CVE-2024-24760">
 
 ---
+## CVE-2024-24725 (2024-03-23T23:15:00)
+> Gibbon through 26.0.00 allows remote authenticated users to conduct PHP deserialization attacks via columnOrder in a POST request to the modules/System%20Admin/import_run.php&type=externalAssessment&step=4 URI.
+- [MelkorW/CVE-2024-24725-PoC](https://github.com/MelkorW/CVE-2024-24725-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MelkorW/CVE-2024-24725-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MelkorW/CVE-2024-24725-PoC">
+
+---
 ## CVE-2024-24686 (2024-05-28T14:15:00)
 > Multiple stack-based buffer overflow vulnerabilities exist in the readOFF functionality of libigl v2.5.0. A specially crafted .off file can lead to stack-based buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.This vulnerability concerns the parsing of comments within the faces section of an `.off`  file processed via the `readOFF` function.
 - [SpiralBL0CK/CVE-2024-24686](https://github.com/SpiralBL0CK/CVE-2024-24686)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-24686">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-24686">
