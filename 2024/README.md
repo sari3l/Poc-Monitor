@@ -835,6 +835,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-47575 ()
 > 
 - [maybelookis/CVE-2024-47575](https://github.com/maybelookis/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-47575">
+- [HazeLook/CVE-2024-47575](https://github.com/HazeLook/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-47575">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
@@ -1362,6 +1363,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [Sk1dr0wz/CVE-2024-4358_Mass_Exploit](https://github.com/Sk1dr0wz/CVE-2024-4358_Mass_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">
 - [verylazytech/CVE-2024-4358](https://github.com/verylazytech/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-4358">
 - [fa-rrel/CVE-2024-4358](https://github.com/fa-rrel/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4358">
+
+---
+## CVE-2024-43532 (2024-10-08T18:15:00)
+> Remote Registry Service Elevation of Privilege Vulnerability
+- [HazeLook/CVE-2024-43532](https://github.com/HazeLook/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-43532">
 
 ---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
