@@ -832,6 +832,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761)	<img alt="forks" src="https://img.shields.io/github/forks/michredteam/CVE-2024-4761">	<img alt="stars" src="https://img.shields.io/github/stars/michredteam/CVE-2024-4761">
 
 ---
+## CVE-2024-47575 ()
+> 
+- [maybelookis/CVE-2024-47575](https://github.com/maybelookis/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-47575">
+
+---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
 > CUPS is a standards-based, open-source printing system, and `cups-browsed` contains network printing functionality including, but not limited to, auto-discovering print services and shared printers. `cups-browsed` binds to `INADDR_ANY:631`, causing it to trust any packet from any source, and can cause the `Get-Printer-Attributes` IPP request to an attacker controlled URL.
 
@@ -1923,6 +1928,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38127 (2024-08-13T18:15:00)
 > Windows Hyper-V Elevation of Privilege Vulnerability
 - [pwndorei/CVE-2024-38127](https://github.com/pwndorei/CVE-2024-38127)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2024-38127">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2024-38127">
+
+---
+## CVE-2024-38124 (2024-10-08T18:15:00)
+> Windows Netlogon Elevation of Privilege Vulnerability
+- [tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468](https://github.com/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468)	<img alt="forks" src="https://img.shields.io/github/forks/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468">	<img alt="stars" src="https://img.shields.io/github/stars/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468">
 
 ---
 ## CVE-2024-38100 (2024-07-09T17:15:00)
