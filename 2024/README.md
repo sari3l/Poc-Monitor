@@ -727,6 +727,7 @@ The specific flaw exists within the product installer. The issue results from th
 - [verylazytech/CVE-2024-4956](https://github.com/verylazytech/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-4956">
 - [JolyIrsb/CVE-2024-4956](https://github.com/JolyIrsb/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/JolyIrsb/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/JolyIrsb/CVE-2024-4956">
 - [UMASANKAR-MG/Path-Traversal-CVE-2024-4956](https://github.com/UMASANKAR-MG/Path-Traversal-CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/UMASANKAR-MG/Path-Traversal-CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/UMASANKAR-MG/Path-Traversal-CVE-2024-4956">
+- [An00bRektn/shirocrack](https://github.com/An00bRektn/shirocrack)	<img alt="forks" src="https://img.shields.io/github/forks/An00bRektn/shirocrack">	<img alt="stars" src="https://img.shields.io/github/stars/An00bRektn/shirocrack">
 
 ---
 ## CVE-2024-4947 (2024-05-15T21:15:00)
