@@ -806,6 +806,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [khaliquesX/CVE-2024-48415](https://github.com/khaliquesX/CVE-2024-48415)	<img alt="forks" src="https://img.shields.io/github/forks/khaliquesX/CVE-2024-48415">	<img alt="stars" src="https://img.shields.io/github/stars/khaliquesX/CVE-2024-48415">
 
 ---
+## CVE-2024-48392 ()
+> 
+- [Renzusclarke/CVE-2024-48392-PoC](https://github.com/Renzusclarke/CVE-2024-48392-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Renzusclarke/CVE-2024-48392-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Renzusclarke/CVE-2024-48392-PoC">
+
+---
 ## CVE-2024-4836 (2024-07-02T09:15:00)
 > Web services managed by Edito CMS (Content Management System) in versions from 3.5 through 3.25 leak sensitive data as they allow downloading configuration files by an unauthenticated user.
 The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th of January 2014. Higher versions were never affected.
@@ -999,6 +1004,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-45614 (2024-09-19T23:15:00)
 > Puma is a Ruby/Rack web server built for parallelism. In affected versions clients could clobber values set by intermediate proxies (such as X-Forwarded-For) by providing a underscore version of the same header (X-Forwarded_For). Any users relying on proxy set variables is affected. v6.4.3/v5.6.9 now discards any headers using underscores if the non-underscore version also exists. Effectively, allowing the proxy defined headers to always win. Users are advised to upgrade. Nginx has a underscores_in_headers configuration variable to discard these headers at the proxy level as a mitigation. Any users that are implicitly trusting the proxy defined headers for security should immediately cease doing so until upgraded to the fixed versions.
 - [ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614)	<img alt="forks" src="https://img.shields.io/github/forks/ooooooo-q/puma_header_normalization-CVE-2024-45614">	<img alt="stars" src="https://img.shields.io/github/stars/ooooooo-q/puma_header_normalization-CVE-2024-45614">
+
+---
+## CVE-2024-45590 (2024-09-10T16:15:00)
+> body-parser is Node.js body parsing middleware. body-parser <1.20.3 is vulnerable to denial of service when url encoding is enabled. A malicious actor using a specially crafted payload could flood the server with a large number of requests, resulting in denial of service. This issue is patched in 1.20.3.
+- [AliMilani/CVE-2024-45590](https://github.com/AliMilani/CVE-2024-45590)	<img alt="forks" src="https://img.shields.io/github/forks/AliMilani/CVE-2024-45590">	<img alt="stars" src="https://img.shields.io/github/stars/AliMilani/CVE-2024-45590">
 
 ---
 ## CVE-2024-45589 (2024-09-05T16:15:00)
