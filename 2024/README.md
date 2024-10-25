@@ -5244,6 +5244,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [HazeLook/CVE-2024-23113](https://github.com/HazeLook/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-23113">
 - [maybelookis/CVE-2024-23113](https://github.com/maybelookis/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-23113">
 - [p33d/CVE-2024-23113](https://github.com/p33d/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-23113">
+- [groshi/CVE-2024-23113-Private-POC](https://github.com/groshi/CVE-2024-23113-Private-POC)	<img alt="forks" src="https://img.shields.io/github/forks/groshi/CVE-2024-23113-Private-POC">	<img alt="stars" src="https://img.shields.io/github/stars/groshi/CVE-2024-23113-Private-POC">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)
