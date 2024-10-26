@@ -818,6 +818,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [sleep46/CVE-2024-4836_Check](https://github.com/sleep46/CVE-2024-4836_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sleep46/CVE-2024-4836_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sleep46/CVE-2024-4836_Check">
 
 ---
+## CVE-2024-48195 ()
+> 
+- [cyb3res3c/CVE-2024-48195](https://github.com/cyb3res3c/CVE-2024-48195)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-48195">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-48195">
+
+---
 ## CVE-2024-48180 (2024-10-16T21:15:00)
 > ClassCMS <=4.8 is vulnerable to file inclusion in the nowView method in/class/cms/cms.php, which can include a file uploaded to the/class/template directory to execute PHP code.
 - [J-0k3r/CVE-2024-48180](https://github.com/J-0k3r/CVE-2024-48180)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2024-48180">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2024-48180">
