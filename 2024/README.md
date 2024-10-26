@@ -1424,6 +1424,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
 
 ---
+## CVE-2024-42930 ()
+> 
+- [cyb3res3c/CVE-2024-42930](https://github.com/cyb3res3c/CVE-2024-42930)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-42930">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-42930">
+
+---
 ## CVE-2024-42919 (2024-08-20T17:15:00)
 > eScan Management Console 14.0.1400.2281 is vulnerable to Incorrect Access Control via acteScanAVReport.
 - [jeyabalaji711/CVE-2024-42919](https://github.com/jeyabalaji711/CVE-2024-42919)	<img alt="forks" src="https://img.shields.io/github/forks/jeyabalaji711/CVE-2024-42919">	<img alt="stars" src="https://img.shields.io/github/stars/jeyabalaji711/CVE-2024-42919">
@@ -1794,6 +1799,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39210 (2024-07-05T16:15:00)
 > Best House Rental Management System v1.0 was discovered to contain an arbitrary file read vulnerability via the Page parameter at index.php. This vulnerability allows attackers to read arbitrary PHP files and access other sensitive information within the application.
 - [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210)	<img alt="forks" src="https://img.shields.io/github/forks/KRookieSec/CVE-2024-39210">	<img alt="stars" src="https://img.shields.io/github/stars/KRookieSec/CVE-2024-39210">
+
+---
+## CVE-2024-39205 ()
+> 
+- [Marven11/CVE-2024-39205-Pyload-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-39205-Pyload-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-39205-Pyload-RCE">
 
 ---
 ## CVE-2024-39203 (2024-07-08T16:15:00)
