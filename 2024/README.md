@@ -4021,6 +4021,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [horizon3ai/CVE-2024-28987](https://github.com/horizon3ai/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-28987">
 - [PlayerFridei/CVE-2024-28987](https://github.com/PlayerFridei/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/PlayerFridei/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/PlayerFridei/CVE-2024-28987">
 - [HazeLook/CVE-2024-28987](https://github.com/HazeLook/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-28987">
+- [GordonPol1/CVE-2024-28987](https://github.com/GordonPol1/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/GordonPol1/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/GordonPol1/CVE-2024-28987">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
