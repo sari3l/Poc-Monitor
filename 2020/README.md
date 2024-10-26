@@ -2684,6 +2684,9 @@
 ## CVE-2020-25223 (2020-09-25T04:23:00)
 > A remote code execution vulnerability exists in the WebAdmin of Sophos SG UTM before v9.705 MR5, v9.607 MR7, and v9.511 MR11
 - [Live-Hack-CVE/CVE-2020-25223](https://github.com/Live-Hack-CVE/CVE-2020-25223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25223">
+- [reneww/poc-CVE-2020-25223](https://github.com/reneww/poc-CVE-2020-25223)	<img alt="forks" src="https://img.shields.io/github/forks/reneww/poc-CVE-2020-25223">	<img alt="stars" src="https://img.shields.io/github/stars/reneww/poc-CVE-2020-25223">
+- [darrenmartyn/sophucked](https://github.com/darrenmartyn/sophucked)	<img alt="forks" src="https://img.shields.io/github/forks/darrenmartyn/sophucked">	<img alt="stars" src="https://img.shields.io/github/stars/darrenmartyn/sophucked">
+- [twentybel0w/CVE-2020-25223](https://github.com/twentybel0w/CVE-2020-25223)	<img alt="forks" src="https://img.shields.io/github/forks/twentybel0w/CVE-2020-25223">	<img alt="stars" src="https://img.shields.io/github/stars/twentybel0w/CVE-2020-25223">
 
 ---
 ## CVE-2020-25218 (2021-03-29T17:15:00)
