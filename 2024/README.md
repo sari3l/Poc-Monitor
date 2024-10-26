@@ -6296,6 +6296,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Dogu589/WordPress-Exploit-CVE-2024-1071](https://github.com/Dogu589/WordPress-Exploit-CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Dogu589/WordPress-Exploit-CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Dogu589/WordPress-Exploit-CVE-2024-1071">
 
 ---
+## CVE-2024-10420 ()
+> 
+- [K1nako0/CVE-2024-10420](https://github.com/K1nako0/CVE-2024-10420)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10420">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10420">
+
+---
 ## CVE-2024-10410 ()
 > 
 - [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10410">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10410">
