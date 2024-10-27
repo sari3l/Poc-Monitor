@@ -756,6 +756,13 @@ The specific flaw exists within the product installer. The issue results from th
 - [EQSTLab/CVE-2024-48914](https://github.com/EQSTLab/CVE-2024-48914)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-48914">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-48914">
 
 ---
+## CVE-2024-48904 (2024-10-22T19:15:00)
+> An command injection vulnerability in Trend Micro Cloud Edge could allow a remote attacker to execute arbitrary code on affected appliances.
+
+Please note: authentication is not required in order to exploit this vulnerability.
+- [zetraxz/CVE-2024-48904](https://github.com/zetraxz/CVE-2024-48904)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-48904">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-48904">
+
+---
 ## CVE-2024-4885 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an unauthenticated Remote Code Execution vulnerability in Progress WhatsUpGold.  The 
 
@@ -847,6 +854,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 > 
 - [maybelookis/CVE-2024-47575](https://github.com/maybelookis/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-47575">
 - [HazeLook/CVE-2024-47575](https://github.com/HazeLook/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-47575">
+- [Jaden1419/CVE-2024-47575](https://github.com/Jaden1419/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-47575">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
