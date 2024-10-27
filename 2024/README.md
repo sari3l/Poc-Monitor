@@ -5303,6 +5303,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [groshi/CVE-2024-23113-Private-POC](https://github.com/groshi/CVE-2024-23113-Private-POC)	<img alt="forks" src="https://img.shields.io/github/forks/groshi/CVE-2024-23113-Private-POC">	<img alt="stars" src="https://img.shields.io/github/stars/groshi/CVE-2024-23113-Private-POC">
 - [Jaden1419/CVE-2024-23113](https://github.com/Jaden1419/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-23113">
 - [hatvix1/CVE-2024-23113](https://github.com/hatvix1/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-23113">
+- [zgimszhd61/CVE-2024-23113](https://github.com/zgimszhd61/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23113">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)
