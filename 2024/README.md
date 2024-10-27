@@ -102,6 +102,11 @@
 - [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166)	<img alt="forks" src="https://img.shields.io/github/forks/Andrysqui/CVE-2024-9166">	<img alt="stars" src="https://img.shields.io/github/stars/Andrysqui/CVE-2024-9166">
 
 ---
+## CVE-2024-9162 ()
+> 
+- [d0n601/CVE-2024-9162](https://github.com/d0n601/CVE-2024-9162)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2024-9162">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2024-9162">
+
+---
 ## CVE-2024-9106 (2024-10-01T08:15:00)
 > The Wechat Social login plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 1.3.0. This is due to insufficient verification on the user being supplied during the social login. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the user id. This is only exploitable if the app secret is not set, so it has a default empty value.
 - [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9106">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9106">
