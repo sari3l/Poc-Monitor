@@ -5328,11 +5328,18 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [Jaden1419/CVE-2024-23113](https://github.com/Jaden1419/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-23113">
 - [hatvix1/CVE-2024-23113](https://github.com/hatvix1/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-23113">
 - [zgimszhd61/CVE-2024-23113](https://github.com/zgimszhd61/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23113">
+- [zgimszhd61/CVE-2024-23111](https://github.com/zgimszhd61/CVE-2024-23111)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23111">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23111">
+- [zgimszhd61/CVE-2024-23114](https://github.com/zgimszhd61/CVE-2024-23114)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23114">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23114">
 
 ---
 ## CVE-2024-23112 (2024-03-12T15:15:00)
 > An authorization bypass through user-controlled key vulnerability [CWE-639] in FortiOS version 7.4.0 through 7.4.1, 7.2.0 through 7.2.6, 7.0.1 through 7.0.13, 6.4.7 through 6.4.14, and FortiProxy version 7.4.0 through 7.4.2, 7.2.0 through 7.2.8, 7.0.0 through 7.0.14 SSL-VPN may allow an authenticated attacker to gain access to another user’s bookmark via URL manipulation.
 - [zgimszhd61/CVE-2024-23112](https://github.com/zgimszhd61/CVE-2024-23112)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23112">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23112">
+
+---
+## CVE-2024-23111 (2024-06-11T15:16:00)
+> An improper neutralization of input during web page Generation ('Cross-site Scripting') vulnerability [CWE-79] in FortiOS version 7.4.3 and below, 7.2 all versions, 7.0 all versions and FortiProxy version 7.4.2 and below, 7.2 all versions, 7.0 all versions reboot page may allow a remote privileged attacker with super-admin access to execute JavaScript code via crafted HTTP GET requests.
+- [zgimszhd61/CVE-2024-23111](https://github.com/zgimszhd61/CVE-2024-23111)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23111">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23111">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)
