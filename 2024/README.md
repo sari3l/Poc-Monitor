@@ -5287,6 +5287,30 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test)	<img alt="forks" src="https://img.shields.io/github/forks/hrtowii/CVE-2024-23208-test">	<img alt="stars" src="https://img.shields.io/github/stars/hrtowii/CVE-2024-23208-test">
 
 ---
+## CVE-2024-23118 ()
+> 
+- [zgimszhd61/CVE-2024-23118](https://github.com/zgimszhd61/CVE-2024-23118)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23118">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23118">
+
+---
+## CVE-2024-23117 ()
+> 
+- [zgimszhd61/CVE-2024-23117](https://github.com/zgimszhd61/CVE-2024-23117)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23117">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23117">
+
+---
+## CVE-2024-23116 ()
+> 
+- [zgimszhd61/CVE-2024-23116](https://github.com/zgimszhd61/CVE-2024-23116)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23116">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23116">
+
+---
+## CVE-2024-23114 (2024-02-20T15:15:00)
+> Deserialization of Untrusted Data vulnerability in Apache Camel CassandraQL Component AggregationRepository which is vulnerable to unsafe deserialization. Under specific conditions it is possible to deserialize malicious payload.This issue affects Apache Camel: from 3.0.0 before 3.21.4, from 3.22.0 before 3.22.1, from 4.0.0 before 4.0.4, from 4.1.0 before 4.4.0.
+
+Users are recommended to upgrade to version 4.4.0, which fixes the issue. If users are on the 4.0.x LTS releases stream, then they are suggested to upgrade to 4.0.4. If users are on 3.x, they are suggested to move to 3.21.4 or 3.22.1
+
+
+- [zgimszhd61/CVE-2024-23114](https://github.com/zgimszhd61/CVE-2024-23114)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23114">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23114">
+
+---
 ## CVE-2024-23113 (2024-02-15T14:15:00)
 > A use of externally-controlled format string in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 through 7.0.13, FortiProxy versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.8, 7.0.0 through 7.0.14, FortiPAM versions 1.2.0, 1.1.0 through 1.1.2, 1.0.0 through 1.0.3, FortiSwitchManager versions 7.2.0 through 7.2.3, 7.0.0 through 7.0.3 allows attacker to execute unauthorized code or commands via specially crafted packets.
 - [cvedayprotech/CVE-2024-23113](https://github.com/cvedayprotech/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/cvedayprotech/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/cvedayprotech/CVE-2024-23113">
@@ -5304,6 +5328,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [Jaden1419/CVE-2024-23113](https://github.com/Jaden1419/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-23113">
 - [hatvix1/CVE-2024-23113](https://github.com/hatvix1/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-23113">
 - [zgimszhd61/CVE-2024-23113](https://github.com/zgimszhd61/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23113">
+
+---
+## CVE-2024-23112 (2024-03-12T15:15:00)
+> An authorization bypass through user-controlled key vulnerability [CWE-639] in FortiOS version 7.4.0 through 7.4.1, 7.2.0 through 7.2.6, 7.0.1 through 7.0.13, 6.4.7 through 6.4.14, and FortiProxy version 7.4.0 through 7.4.2, 7.2.0 through 7.2.8, 7.0.0 through 7.0.14 SSL-VPN may allow an authenticated attacker to gain access to another user’s bookmark via URL manipulation.
+- [zgimszhd61/CVE-2024-23112](https://github.com/zgimszhd61/CVE-2024-23112)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23112">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23112">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)
