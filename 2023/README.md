@@ -620,6 +620,7 @@ We recommend users to:
 - [rwexecute/CVE-2023-50564](https://github.com/rwexecute/CVE-2023-50564)	<img alt="forks" src="https://img.shields.io/github/forks/rwexecute/CVE-2023-50564">	<img alt="stars" src="https://img.shields.io/github/stars/rwexecute/CVE-2023-50564">
 - [thefizzyfish/CVE-2023-50564-pluck](https://github.com/thefizzyfish/CVE-2023-50564-pluck)	<img alt="forks" src="https://img.shields.io/github/forks/thefizzyfish/CVE-2023-50564-pluck">	<img alt="stars" src="https://img.shields.io/github/stars/thefizzyfish/CVE-2023-50564-pluck">
 - [Mrterrestrial/CVE-2023-50564](https://github.com/Mrterrestrial/CVE-2023-50564)	<img alt="forks" src="https://img.shields.io/github/forks/Mrterrestrial/CVE-2023-50564">	<img alt="stars" src="https://img.shields.io/github/stars/Mrterrestrial/CVE-2023-50564">
+- [TanveerS1ngh/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564-](https://github.com/TanveerS1ngh/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564-)	<img alt="forks" src="https://img.shields.io/github/forks/TanveerS1ngh/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564-">	<img alt="stars" src="https://img.shields.io/github/stars/TanveerS1ngh/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564-">
 
 ---
 ## CVE-2023-5044 (2023-10-25T20:15:00)
@@ -2194,6 +2195,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [qrxnz/CVE-2023-4220](https://github.com/qrxnz/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/qrxnz/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/qrxnz/CVE-2023-4220">
 - [0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit](https://github.com/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit">
 - [bueno-armando/CVE-2023-4220-RCE](https://github.com/bueno-armando/CVE-2023-4220-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/bueno-armando/CVE-2023-4220-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/bueno-armando/CVE-2023-4220-RCE">
+- [TanveerS1ngh/Chamilo-LMS-CVE-2023-4220-Exploit](https://github.com/TanveerS1ngh/Chamilo-LMS-CVE-2023-4220-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TanveerS1ngh/Chamilo-LMS-CVE-2023-4220-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TanveerS1ngh/Chamilo-LMS-CVE-2023-4220-Exploit">
 
 ---
 ## CVE-2023-422 ()
