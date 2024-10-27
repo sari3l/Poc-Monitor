@@ -2459,6 +2459,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [thefizzyfish/CVE-2023-41425-wonderCMS_RCE](https://github.com/thefizzyfish/CVE-2023-41425-wonderCMS_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thefizzyfish/CVE-2023-41425-wonderCMS_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thefizzyfish/CVE-2023-41425-wonderCMS_RCE">
 - [Raffli-Dev/CVE-2023-41425](https://github.com/Raffli-Dev/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/Raffli-Dev/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/Raffli-Dev/CVE-2023-41425">
 - [duck-sec/CVE-2023-41425](https://github.com/duck-sec/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/duck-sec/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/duck-sec/CVE-2023-41425">
+- [TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425](https://github.com/TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425">
 
 ---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
