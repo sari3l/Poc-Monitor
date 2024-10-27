@@ -809,6 +809,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
 
 ---
+## CVE-2024-48569 ()
+> 
+- [MarioTesoro/CVE-2024-48569](https://github.com/MarioTesoro/CVE-2024-48569)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-48569">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-48569">
+
+---
 ## CVE-2024-48427 ()
 > 
 - [vighneshnair7/CVE-2024-48427](https://github.com/vighneshnair7/CVE-2024-48427)	<img alt="forks" src="https://img.shields.io/github/forks/vighneshnair7/CVE-2024-48427">	<img alt="stars" src="https://img.shields.io/github/stars/vighneshnair7/CVE-2024-48427">
