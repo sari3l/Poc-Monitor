@@ -1786,6 +1786,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158)	<img alt="forks" src="https://img.shields.io/github/forks/Evan-Zhangyf/CVE-2023-45158">	<img alt="stars" src="https://img.shields.io/github/stars/Evan-Zhangyf/CVE-2023-45158">
 
 ---
+## CVE-2023-45113 (2023-11-02T02:15:00)
+> Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+- [halcyondream/test-cve-2023-45113](https://github.com/halcyondream/test-cve-2023-45113)	<img alt="forks" src="https://img.shields.io/github/forks/halcyondream/test-cve-2023-45113">	<img alt="stars" src="https://img.shields.io/github/stars/halcyondream/test-cve-2023-45113">
+
+---
 ## CVE-2023-44962 (2023-10-11T19:15:00)
 > File Upload vulnerability in Koha Library Software 23.05.04 and before allows a remote attacker to read arbitrary files via the upload-cover-image.pl component.
 - [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962)	<img alt="forks" src="https://img.shields.io/github/forks/ggb0n/CVE-2023-44962">	<img alt="stars" src="https://img.shields.io/github/stars/ggb0n/CVE-2023-44962">

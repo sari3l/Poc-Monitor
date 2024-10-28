@@ -6362,6 +6362,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Dogu589/WordPress-Exploit-CVE-2024-1071](https://github.com/Dogu589/WordPress-Exploit-CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Dogu589/WordPress-Exploit-CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Dogu589/WordPress-Exploit-CVE-2024-1071">
 
 ---
+## CVE-2024-10448 (2024-10-28T14:15:00)
+> A vulnerability, which was classified as problematic, has been found in code-projects Blood Bank Management System 1.0. Affected by this issue is some unknown functionality of the file /file/delete.php. The manipulation of the argument bid leads to cross-site request forgery. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Other endpoints might be affected as well.
+- [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448)	<img alt="forks" src="https://img.shields.io/github/forks/bevennyamande/CVE-2024-10448">	<img alt="stars" src="https://img.shields.io/github/stars/bevennyamande/CVE-2024-10448">
+
+---
 ## CVE-2024-10420 (2024-10-27T16:15:00)
 > A vulnerability classified as critical has been found in SourceCodester Attendance and Payroll System 1.0. This affects the function upload of the file /marimar/guest/update.php. The manipulation of the argument image leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.
 - [K1nako0/CVE-2024-10420](https://github.com/K1nako0/CVE-2024-10420)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10420">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10420">
