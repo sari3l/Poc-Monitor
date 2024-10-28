@@ -4575,6 +4575,11 @@
 - [jas502n/CVE-2020-10199](https://github.com/jas502n/CVE-2020-10199)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-10199">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-10199">
 
 ---
+## CVE-2020-11179 (2021-01-21T10:15:00)
+> Arbitrary read and write to kernel addresses by temporarily overwriting ring buffer pointer and creating a race condition. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU](https://github.com/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU)	<img alt="forks" src="https://img.shields.io/github/forks/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU">	<img alt="stars" src="https://img.shields.io/github/stars/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU">
+
+---
 ## CVE-2020-11110 (2020-07-27T13:15:00)
 > Grafana through 6.7.1 allows stored XSS due to insufficient input protection in the originalUrl field, which allows an attacker to inject JavaScript code that will be executed after clicking on Open Original Dashboard after visiting the snapshot.
 - [AVE-Stoik/CVE-2020-11110-Proof-of-Concept](https://github.com/AVE-Stoik/CVE-2020-11110-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/AVE-Stoik/CVE-2020-11110-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/AVE-Stoik/CVE-2020-11110-Proof-of-Concept">
