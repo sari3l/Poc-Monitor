@@ -1691,6 +1691,11 @@
 - [Live-Hack-CVE/CVE-2019-19918](https://github.com/Live-Hack-CVE/CVE-2019-19918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19918">
 
 ---
+## CVE-2019-19842 (2020-01-22T21:15:00)
+> emfd in Ruckus Wireless Unleashed through 200.7.10.102.64 allows remote attackers to execute OS commands via a POST request with the attribute xcmd=spectra-analysis to admin/_cmdstat.jsp via the mac attribute.
+- [bdunlap9/CVE-2019-19842](https://github.com/bdunlap9/CVE-2019-19842)	<img alt="forks" src="https://img.shields.io/github/forks/bdunlap9/CVE-2019-19842">	<img alt="stars" src="https://img.shields.io/github/stars/bdunlap9/CVE-2019-19842">
+
+---
 ## CVE-2019-19787 (2019-12-13T16:15:00)
 > ATasm 1.06 has a stack-based buffer overflow in the get_signed_expression() function in setparse.c via a crafted .m65 file.
 - [Live-Hack-CVE/CVE-2019-19787](https://github.com/Live-Hack-CVE/CVE-2019-19787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19787">
