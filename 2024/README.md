@@ -102,8 +102,8 @@
 - [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166)	<img alt="forks" src="https://img.shields.io/github/forks/Andrysqui/CVE-2024-9166">	<img alt="stars" src="https://img.shields.io/github/stars/Andrysqui/CVE-2024-9166">
 
 ---
-## CVE-2024-9162 ()
-> 
+## CVE-2024-9162 (2024-10-28T06:15:00)
+> The All-in-One WP Migration and Backup plugin for WordPress is vulnerable to arbitrary PHP Code Injection due to missing file type validation during the export in all versions up to, and including, 7.86. This makes it possible for authenticated attackers, with Administrator-level access and above, to create an export file with the .php extension on the affected site's server, adding an arbitrary PHP code to it, which may make remote code execution possible.
 - [d0n601/CVE-2024-9162](https://github.com/d0n601/CVE-2024-9162)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2024-9162">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2024-9162">
 
 ---
@@ -819,8 +819,8 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [MarioTesoro/CVE-2024-48569](https://github.com/MarioTesoro/CVE-2024-48569)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-48569">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-48569">
 
 ---
-## CVE-2024-48427 ()
-> 
+## CVE-2024-48427 (2024-10-24T19:15:00)
+> A SQL injection vulnerability in Sourcecodester Packers and Movers Management System v1.0 allows remote authenticated users to execute arbitrary SQL commands via the id parameter in /mpms/admin/?page=services/manage_service&id
 - [vighneshnair7/CVE-2024-48427](https://github.com/vighneshnair7/CVE-2024-48427)	<img alt="forks" src="https://img.shields.io/github/forks/vighneshnair7/CVE-2024-48427">	<img alt="stars" src="https://img.shields.io/github/stars/vighneshnair7/CVE-2024-48427">
 
 ---
@@ -860,8 +860,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761)	<img alt="forks" src="https://img.shields.io/github/forks/michredteam/CVE-2024-4761">	<img alt="stars" src="https://img.shields.io/github/stars/michredteam/CVE-2024-4761">
 
 ---
-## CVE-2024-47575 ()
-> 
+## CVE-2024-47575 (2024-10-23T15:15:00)
+> A missing authentication for critical function in FortiManager 7.6.0, FortiManager 7.4.0 through 7.4.4, FortiManager 7.2.0 through 7.2.7, FortiManager 7.0.0 through 7.0.12, FortiManager 6.4.0 through 6.4.14, FortiManager 6.2.0 through 6.2.12, Fortinet FortiManager Cloud 7.4.1 through 7.4.4, FortiManager Cloud 7.2.1 through 7.2.7, FortiManager Cloud 7.0.1 through 7.0.13, FortiManager Cloud 6.4.1 through 6.4.7 allows attacker to execute arbitrary code or commands via specially crafted requests.
 - [maybelookis/CVE-2024-47575](https://github.com/maybelookis/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-47575">
 - [HazeLook/CVE-2024-47575](https://github.com/HazeLook/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-47575">
 - [Jaden1419/CVE-2024-47575](https://github.com/Jaden1419/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-47575">
@@ -1701,8 +1701,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492)	<img alt="forks" src="https://img.shields.io/github/forks/minendie/POC_CVE-2024-40492">	<img alt="stars" src="https://img.shields.io/github/stars/minendie/POC_CVE-2024-40492">
 
 ---
-## CVE-2024-40431 ()
-> 
+## CVE-2024-40431 (2024-10-23T22:15:00)
+> A lack of input validation in Realtek SD card reader driver before 10.0.26100.21374 through the implementation of the IOCTL_SCSI_PASS_THROUGH control of the SD card reader driver allows an attacker to write to predictable kernel memory locations, even as a low-privileged user.
 - [SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN](https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN">
 
 ---
@@ -6359,13 +6359,13 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Dogu589/WordPress-Exploit-CVE-2024-1071](https://github.com/Dogu589/WordPress-Exploit-CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Dogu589/WordPress-Exploit-CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Dogu589/WordPress-Exploit-CVE-2024-1071">
 
 ---
-## CVE-2024-10420 ()
-> 
+## CVE-2024-10420 (2024-10-27T16:15:00)
+> A vulnerability classified as critical has been found in SourceCodester Attendance and Payroll System 1.0. This affects the function upload of the file /marimar/guest/update.php. The manipulation of the argument image leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.
 - [K1nako0/CVE-2024-10420](https://github.com/K1nako0/CVE-2024-10420)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10420">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10420">
 
 ---
-## CVE-2024-10410 ()
-> 
+## CVE-2024-10410 (2024-10-27T04:15:00)
+> A vulnerability classified as critical was found in SourceCodester Online Hotel Reservation System 1.0. Affected by this vulnerability is the function upload of the file /admin/mod_room/controller.php?action=add. The manipulation of the argument image leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 - [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10410">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10410">
 
 ---
