@@ -754,6 +754,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-48955 ()
 > 
 - [BrotherOfJhonny/CVE-2024-48955](https://github.com/BrotherOfJhonny/CVE-2024-48955)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-48955">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-48955">
+- [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-48955_Overview">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-48955_Overview">
 
 ---
 ## CVE-2024-48914 (2024-10-15T16:15:00)
