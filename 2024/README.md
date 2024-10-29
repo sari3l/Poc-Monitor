@@ -718,6 +718,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [enter0x13/poc-CVE-2024-5057](https://github.com/enter0x13/poc-CVE-2024-5057)	<img alt="forks" src="https://img.shields.io/github/forks/enter0x13/poc-CVE-2024-5057">	<img alt="stars" src="https://img.shields.io/github/stars/enter0x13/poc-CVE-2024-5057">
 
 ---
+## CVE-2024-50550 (2024-10-29T10:15:00)
+> Incorrect Privilege Assignment vulnerability in LiteSpeed Technologies LiteSpeed Cache allows Privilege Escalation.This issue affects LiteSpeed Cache: from n/a through 6.5.1.
+- [AleksaZatezalo/CVE-2024-50550](https://github.com/AleksaZatezalo/CVE-2024-50550)	<img alt="forks" src="https://img.shields.io/github/forks/AleksaZatezalo/CVE-2024-50550">	<img alt="stars" src="https://img.shields.io/github/stars/AleksaZatezalo/CVE-2024-50550">
+
+---
 ## CVE-2024-5009 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an Improper Access Control vulnerability in Wug.UI.Controllers.InstallController.SetAdminPassword allows local attackers to modify admin's password.
 - [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-5009">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-5009">
