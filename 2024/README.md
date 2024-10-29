@@ -11,6 +11,11 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-9954 (2024-10-15T21:15:00)
+> Use after free in AI in Google Chrome prior to 130.0.6723.58 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [zetraxz/CVE-2024-9954](https://github.com/zetraxz/CVE-2024-9954)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-9954">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-9954">
+
+---
 ## CVE-2024-9821 (2024-10-12T03:15:00)
 > The Bot for Telegram on WooCommerce plugin for WordPress is vulnerable to sensitive information disclosure due to missing authorization checks on the 'stm_wpcfto_get_settings' AJAX action in all versions up to, and including, 1.2.4. This makes it possible for authenticated attackers, with subscriber-level access and above, to view the Telegram Bot Token, a secret token used to control the bot, which can then be used to log in as any existing user on the site, such as an administrator, if they know the username, due to the Login with Telegram feature.
 - [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9821">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9821">
