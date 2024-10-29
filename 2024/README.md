@@ -761,8 +761,8 @@ The specific flaw exists within the product installer. The issue results from th
 - [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4898-Poc">
 
 ---
-## CVE-2024-48955 ()
-> 
+## CVE-2024-48955 (2024-10-29T18:15:00)
+> In NetAdmin 4.0.30319, an attacker can steal a valid session cookie and inject it into another device, granting unauthorized access. This type of attack is commonly referred to as session hijacking.
 - [BrotherOfJhonny/CVE-2024-48955](https://github.com/BrotherOfJhonny/CVE-2024-48955)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-48955">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-48955">
 - [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-48955_Overview">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-48955_Overview">
 
