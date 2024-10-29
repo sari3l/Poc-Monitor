@@ -840,8 +840,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [sleep46/CVE-2024-4836_Check](https://github.com/sleep46/CVE-2024-4836_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sleep46/CVE-2024-4836_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sleep46/CVE-2024-4836_Check">
 
 ---
-## CVE-2024-48195 ()
-> 
+## CVE-2024-48195 (2024-10-28T20:15:00)
+> Cross Site Scripting vulnerability in eyouCMS v.1.6.7 allows a remote attacker to obtain sensitive information via a crafted script to the post parameter.
 - [cyb3res3c/CVE-2024-48195](https://github.com/cyb3res3c/CVE-2024-48195)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-48195">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-48195">
 
 ---
@@ -1458,8 +1458,8 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
 
 ---
-## CVE-2024-42930 ()
-> 
+## CVE-2024-42930 (2024-10-28T20:15:00)
+> PbootCMS 3.2.8 is vulnerable to URL Redirect.
 - [cyb3res3c/CVE-2024-42930](https://github.com/cyb3res3c/CVE-2024-42930)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-42930">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-42930">
 
 ---
@@ -1835,8 +1835,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210)	<img alt="forks" src="https://img.shields.io/github/forks/KRookieSec/CVE-2024-39210">	<img alt="stars" src="https://img.shields.io/github/stars/KRookieSec/CVE-2024-39210">
 
 ---
-## CVE-2024-39205 ()
-> 
+## CVE-2024-39205 (2024-10-28T20:15:00)
+> An issue in pyload-ng v0.5.0b3.dev85 running under python3.11 or below allows attackers to execute arbitrary code via a crafted HTTP request.
 - [Marven11/CVE-2024-39205-Pyload-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-39205-Pyload-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-39205-Pyload-RCE">
 
 ---
@@ -4223,6 +4223,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [cve-2024/CVE-2024-27956-RCE](https://github.com/cve-2024/CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-27956-RCE">
 - [ThatNotEasy/CVE-2024-27956](https://github.com/ThatNotEasy/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-27956">
 - [CERTologists/EXPLOITING-CVE-2024-27956](https://github.com/CERTologists/EXPLOITING-CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/CERTologists/EXPLOITING-CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/CERTologists/EXPLOITING-CVE-2024-27956">
+
+---
+## CVE-2024-27954 (2024-05-17T09:15:00)
+> Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in WP Automatic Automatic allows Path Traversal, Server Side Request Forgery.This issue affects Automatic: from n/a through 3.92.0.
+- [fa-rrel/CVE-2024-27954](https://github.com/fa-rrel/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-27954">
 
 ---
 ## CVE-2024-27815 (2024-06-10T21:15:00)
