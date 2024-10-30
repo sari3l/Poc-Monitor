@@ -7852,6 +7852,7 @@
 - [MrDottt/CVE-2021-22911](https://github.com/MrDottt/CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/MrDottt/CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/MrDottt/CVE-2021-22911">
 - [overgrowncarrot1/CVE-2021-22911](https://github.com/overgrowncarrot1/CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2021-22911">
 - [vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911-](https://github.com/vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911-)	<img alt="forks" src="https://img.shields.io/github/forks/vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911-">	<img alt="stars" src="https://img.shields.io/github/stars/vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911-">
+- [Weisant/CVE-2021-22911-EXP](https://github.com/Weisant/CVE-2021-22911-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Weisant/CVE-2021-22911-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Weisant/CVE-2021-22911-EXP">
 
 ---
 ## CVE-2021-22910 (2021-08-09T13:15:00)

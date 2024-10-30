@@ -881,10 +881,20 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [Renzusclarke/CVE-2024-48392-PoC](https://github.com/Renzusclarke/CVE-2024-48392-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Renzusclarke/CVE-2024-48392-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Renzusclarke/CVE-2024-48392-PoC">
 
 ---
+## CVE-2024-48360 ()
+> 
+- [OpenXP-Research/CVE-2024-48360](https://github.com/OpenXP-Research/CVE-2024-48360)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2024-48360">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2024-48360">
+
+---
 ## CVE-2024-4836 (2024-07-02T09:15:00)
 > Web services managed by Edito CMS (Content Management System) in versions from 3.5 through 3.25 leak sensitive data as they allow downloading configuration files by an unauthenticated user.
 The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th of January 2014. Higher versions were never affected.
 - [sleep46/CVE-2024-4836_Check](https://github.com/sleep46/CVE-2024-4836_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sleep46/CVE-2024-4836_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sleep46/CVE-2024-4836_Check">
+
+---
+## CVE-2024-48359 ()
+> 
+- [OpenXP-Research/CVE-2024-48359](https://github.com/OpenXP-Research/CVE-2024-48359)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2024-48359">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2024-48359">
 
 ---
 ## CVE-2024-48195 (2024-10-28T20:15:00)

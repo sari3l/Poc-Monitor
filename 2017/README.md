@@ -1082,6 +1082,13 @@
 - [xyzAsian/Janus-CVE-2017-13156](https://github.com/xyzAsian/Janus-CVE-2017-13156)	<img alt="forks" src="https://img.shields.io/github/forks/xyzAsian/Janus-CVE-2017-13156">	<img alt="stars" src="https://img.shields.io/github/stars/xyzAsian/Janus-CVE-2017-13156">
 
 ---
+## CVE-2017-12635 (2017-11-14T20:29:00)
+> Due to differences in the Erlang-based JSON parser and JavaScript-based JSON parser, it is possible in Apache CouchDB before 1.7.0 and 2.x before 2.1.1 to submit _users documents with duplicate keys for 'roles' used for access control within the database, including the special case '_admin' role, that denotes administrative users. In combination with CVE-2017-12636 (Remote Code Execution), this can be used to give non-admin users access to arbitrary shell commands on the server as the database system user. The JSON parser differences result in behaviour that if two 'roles' keys are available in the JSON, the second one will be used for authorising the document write, but the first 'roles' key is used for subsequent authorization for the newly created user. By design, users can not assign themselves roles. The vulnerability allows non-admin users to give themselves admin privileges.
+- [Weisant/CVE-2017-12635-EXP](https://github.com/Weisant/CVE-2017-12635-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Weisant/CVE-2017-12635-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Weisant/CVE-2017-12635-EXP">
+- [cyberharsh/Apache-couchdb-CVE-2017-12635](https://github.com/cyberharsh/Apache-couchdb-CVE-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Apache-couchdb-CVE-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Apache-couchdb-CVE-2017-12635">
+- [assalielmehdi/CVE-2017-12635](https://github.com/assalielmehdi/CVE-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/assalielmehdi/CVE-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/assalielmehdi/CVE-2017-12635">
+
+---
 ## CVE-2017-12617 (2017-10-04T01:29:00)
 > When running Apache Tomcat versions 9.0.0.M1 to 9.0.0, 8.5.0 to 8.5.22, 8.0.0.RC1 to 8.0.46 and 7.0.0 to 7.0.81 with HTTP PUTs enabled (e.g. via setting the readonly initialisation parameter of the Default servlet to false) it was possible to upload a JSP file to the server via a specially crafted request. This JSP could then be requested and any code it contained would be executed by the server.
 - [K3ysTr0K3R/CVE-2017-12617-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-12617-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-12617-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-12617-EXPLOIT">
