@@ -709,6 +709,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [refr4g/CVE-2024-51378](https://github.com/refr4g/CVE-2024-51378)	<img alt="forks" src="https://img.shields.io/github/forks/refr4g/CVE-2024-51378">	<img alt="stars" src="https://img.shields.io/github/stars/refr4g/CVE-2024-51378">
 
 ---
+## CVE-2024-5124 (2024-06-06T19:16:00)
+> A timing attack vulnerability exists in the gaizhenbiao/chuanhuchatgpt repository, specifically within the password comparison logic. The vulnerability is present in version 20240310 of the software, where passwords are compared using the '=' operator in Python. This method of comparison allows an attacker to guess passwords based on the timing of each character's comparison. The issue arises from the code segment that checks a password for a particular username, which can lead to the exposure of sensitive information to an unauthorized actor. An attacker exploiting this vulnerability could potentially guess user passwords, compromising the security of the system.
+- [gogo2464/CVE-2024-5124](https://github.com/gogo2464/CVE-2024-5124)	<img alt="forks" src="https://img.shields.io/github/forks/gogo2464/CVE-2024-5124">	<img alt="stars" src="https://img.shields.io/github/stars/gogo2464/CVE-2024-5124">
+
+---
 ## CVE-2024-5084 (2024-05-23T15:15:00)
 > The Hash Form – Drag & Drop Form Builder plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'file_upload_action' function in all versions up to, and including, 1.1.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-5084">
