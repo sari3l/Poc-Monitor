@@ -704,8 +704,8 @@ The specific flaw exists within the product installer. The issue results from th
 - [BLACK-SCORP10/CVE-2024-51430](https://github.com/BLACK-SCORP10/CVE-2024-51430)	<img alt="forks" src="https://img.shields.io/github/forks/BLACK-SCORP10/CVE-2024-51430">	<img alt="stars" src="https://img.shields.io/github/stars/BLACK-SCORP10/CVE-2024-51430">
 
 ---
-## CVE-2024-51378 ()
-> 
+## CVE-2024-51378 (2024-10-29T23:15:00)
+> getresetstatus in dns/views.py in CyberPanel (aka Cyber Panel) before 1c0c6cb allows remote attackers to bypass authentication and execute arbitrary commands via /ftp/getresetstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.
 - [refr4g/CVE-2024-51378](https://github.com/refr4g/CVE-2024-51378)	<img alt="forks" src="https://img.shields.io/github/forks/refr4g/CVE-2024-51378">	<img alt="stars" src="https://img.shields.io/github/stars/refr4g/CVE-2024-51378">
 
 ---
