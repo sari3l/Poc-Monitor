@@ -5981,6 +5981,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [bigbozzez/CVE-2024-21334-POC](https://github.com/bigbozzez/CVE-2024-21334-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bigbozzez/CVE-2024-21334-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bigbozzez/CVE-2024-21334-POC">
 
 ---
+## CVE-2024-21320 (2024-01-09T18:15:00)
+> Windows Themes Spoofing Vulnerability
+- [sxyrxyy/CVE-2024-21320-POC](https://github.com/sxyrxyy/CVE-2024-21320-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2024-21320-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2024-21320-POC">
+
+---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
 > Microsoft Bluetooth Driver Spoofing Vulnerability
 - [TheRedDevil1/CVE-2024-21306](https://github.com/TheRedDevil1/CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21306">
