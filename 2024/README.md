@@ -1929,6 +1929,17 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-38856-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-38856-RCE">
 
 ---
+## CVE-2024-38821 (2024-10-28T07:15:00)
+> Spring WebFlux applications that have Spring Security authorization rules on static resources can be bypassed under certain circumstances.
+
+For this to impact an application, all of the following must be true:
+
+  *  It must be a WebFlux application
+  *  It must be using Spring's static resources support
+  *  It must have a non-permitAll authorization rule applied to the static resources support
+- [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/cve-2024-38821">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/cve-2024-38821">
+
+---
 ## CVE-2024-38816 (2024-09-13T06:15:00)
 > Applications serving static resources through the functional web frameworks WebMvc.fn or WebFlux.fn are vulnerable to path traversal attacks. An attacker can craft malicious HTTP requests and obtain any file on the file system that is also accessible to the process in which the Spring application is running.
 
