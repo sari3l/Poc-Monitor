@@ -90,6 +90,7 @@
 - [zgimszhd61/CVE-2024-9264](https://github.com/zgimszhd61/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-9264">
 - [z3k0sec/CVE-2024-9264-RCE-Exploit](https://github.com/z3k0sec/CVE-2024-9264-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/z3k0sec/CVE-2024-9264-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/z3k0sec/CVE-2024-9264-RCE-Exploit">
 - [PunitTailor55/Grafana-CVE-2024-9264](https://github.com/PunitTailor55/Grafana-CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/PunitTailor55/Grafana-CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/PunitTailor55/Grafana-CVE-2024-9264">
+- [zgimszhd61/CVE-2024-9264-RCE](https://github.com/zgimszhd61/CVE-2024-9264-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-9264-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-9264-RCE">
 
 ---
 ## CVE-2024-9234 (2024-10-11T13:15:00)
