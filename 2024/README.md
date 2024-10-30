@@ -6651,6 +6651,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [kodaichodai/CVE-2024-0324](https://github.com/kodaichodai/CVE-2024-0324)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0324">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0324">
 
 ---
+## CVE-2024-0311 (2024-03-14T09:15:00)
+> A malicious insider can bypass the existing policy of Skyhigh Client Proxy without a valid release code.
+- [calligraf0/CVE-2024-0311](https://github.com/calligraf0/CVE-2024-0311)	<img alt="forks" src="https://img.shields.io/github/forks/calligraf0/CVE-2024-0311">	<img alt="stars" src="https://img.shields.io/github/stars/calligraf0/CVE-2024-0311">
+
+---
 ## CVE-2024-0305 (2024-01-08T09:15:00)
 > A vulnerability was found in Guangzhou Yingke Electronic Technology Ncast up to 2017 and classified as problematic. Affected by this issue is some unknown functionality of the file /manage/IPSetup.php of the component Guest Login. The manipulation leads to information disclosure. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-249872.
 - [jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp)	<img alt="forks" src="https://img.shields.io/github/forks/jidle123/cve-2024-0305exp">	<img alt="stars" src="https://img.shields.io/github/stars/jidle123/cve-2024-0305exp">
