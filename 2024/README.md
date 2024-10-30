@@ -1762,6 +1762,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492)	<img alt="forks" src="https://img.shields.io/github/forks/minendie/POC_CVE-2024-40492">	<img alt="stars" src="https://img.shields.io/github/stars/minendie/POC_CVE-2024-40492">
 
 ---
+## CVE-2024-40457 (2024-09-12T14:16:00)
+> No-IP Dynamic Update Client (DUC) v3.x uses cleartext credentials that may occur on a command line or in a file. NOTE: the vendor's position is that cleartext in /etc/default/noip-duc is recommended and is the intentional behavior.
+- [jeppojeps/CVE-2024-40457-PoC](https://github.com/jeppojeps/CVE-2024-40457-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jeppojeps/CVE-2024-40457-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jeppojeps/CVE-2024-40457-PoC">
+
+---
 ## CVE-2024-40431 (2024-10-23T22:15:00)
 > A lack of input validation in Realtek SD card reader driver before 10.0.26100.21374 through the implementation of the IOCTL_SCSI_PASS_THROUGH control of the SD card reader driver allows an attacker to write to predictable kernel memory locations, even as a low-privileged user.
 - [SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN](https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN">
