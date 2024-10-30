@@ -1281,6 +1281,7 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [OpenXP-Research/CVE-2023-47253](https://github.com/OpenXP-Research/CVE-2023-47253)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2023-47253">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2023-47253">
 - [vnxdtzip/CVE-2023-47253](https://github.com/vnxdtzip/CVE-2023-47253)	<img alt="forks" src="https://img.shields.io/github/forks/vnxdtzip/CVE-2023-47253">	<img alt="stars" src="https://img.shields.io/github/stars/vnxdtzip/CVE-2023-47253">
 - [inviewp/Qualitor_CVE-2023-47253](https://github.com/inviewp/Qualitor_CVE-2023-47253)	<img alt="forks" src="https://img.shields.io/github/forks/inviewp/Qualitor_CVE-2023-47253">	<img alt="stars" src="https://img.shields.io/github/stars/inviewp/Qualitor_CVE-2023-47253">
+- [gmh5225/CVE-2023-47253](https://github.com/gmh5225/CVE-2023-47253)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2023-47253">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2023-47253">
 
 ---
 ## CVE-2023-47246 (2023-11-10T06:15:00)
@@ -2465,6 +2466,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [Raffli-Dev/CVE-2023-41425](https://github.com/Raffli-Dev/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/Raffli-Dev/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/Raffli-Dev/CVE-2023-41425">
 - [duck-sec/CVE-2023-41425](https://github.com/duck-sec/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/duck-sec/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/duck-sec/CVE-2023-41425">
 - [TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425](https://github.com/TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425">
+- [h3athen/CVE-2023-41425](https://github.com/h3athen/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/h3athen/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/h3athen/CVE-2023-41425">
 
 ---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
