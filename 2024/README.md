@@ -14,6 +14,7 @@
 ## CVE-2024-9954 (2024-10-15T21:15:00)
 > Use after free in AI in Google Chrome prior to 130.0.6723.58 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [zetraxz/CVE-2024-9954](https://github.com/zetraxz/CVE-2024-9954)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-9954">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-9954">
+- [famixcm/CVE-2024-9954](https://github.com/famixcm/CVE-2024-9954)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-9954">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-9954">
 
 ---
 ## CVE-2024-9821 (2024-10-12T03:15:00)
