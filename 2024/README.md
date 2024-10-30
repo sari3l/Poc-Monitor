@@ -342,6 +342,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [codeb0ss/CVE-2024-6893-PoC](https://github.com/codeb0ss/CVE-2024-6893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-6893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-6893-PoC">
 
 ---
+## CVE-2024-6788 (2024-08-13T14:15:00)
+> A remote unauthenticated attacker can use the firmware update feature on the LAN interface of the device to reset the password for the predefined, low-privileged user “user-app” to the default password.
+- [zetraxz/CVE-2024-6788](https://github.com/zetraxz/CVE-2024-6788)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-6788">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-6788">
+
+---
 ## CVE-2024-6782 (2024-08-06T04:16:00)
 > Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution.
 - [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/zangjiahe/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/zangjiahe/CVE-2024-6782">
