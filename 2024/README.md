@@ -837,18 +837,18 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
 
 ---
-## CVE-2024-48735 ()
-> 
+## CVE-2024-48735 (2024-10-30T21:15:00)
+> Directory Traversal in /SASStudio/sasexec/sessions/{sessionID}/workspace/{InternalPath} in SAS Studio 9.4 allows remote attacker to access internal files by manipulating default path during file download.
 - [ACN-CVEs/CVE-2024-48735](https://github.com/ACN-CVEs/CVE-2024-48735)	<img alt="forks" src="https://img.shields.io/github/forks/ACN-CVEs/CVE-2024-48735">	<img alt="stars" src="https://img.shields.io/github/stars/ACN-CVEs/CVE-2024-48735">
 
 ---
-## CVE-2024-48734 ()
-> 
+## CVE-2024-48734 (2024-10-30T21:15:00)
+> *Unrestricted file upload in /SASStudio/SASStudio/sasexec/{sessionID}/{InternalPath} in SAS Studio 9.4 allows remote attacker to upload malicious files.
 - [ACN-CVEs/CVE-2024-48734](https://github.com/ACN-CVEs/CVE-2024-48734)	<img alt="forks" src="https://img.shields.io/github/forks/ACN-CVEs/CVE-2024-48734">	<img alt="stars" src="https://img.shields.io/github/stars/ACN-CVEs/CVE-2024-48734">
 
 ---
-## CVE-2024-48733 ()
-> 
+## CVE-2024-48733 (2024-10-30T21:15:00)
+> SQL injection vulnerability in /SASStudio/sasexec/sessions/{sessionID}/sql in SAS Studio 9.4 allows remote attacker to execute arbitrary SQL commands via the POST body request.
 - [ACN-CVEs/CVE-2024-48733](https://github.com/ACN-CVEs/CVE-2024-48733)	<img alt="forks" src="https://img.shields.io/github/forks/ACN-CVEs/CVE-2024-48733">	<img alt="stars" src="https://img.shields.io/github/stars/ACN-CVEs/CVE-2024-48733">
 
 ---
@@ -862,8 +862,8 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
 
 ---
-## CVE-2024-48569 ()
-> 
+## CVE-2024-48569 (2024-10-30T18:15:00)
+> Proactive Risk Manager version 9.1.1.0 is affected by multiple Cross-Site Scripting (XSS) vulnerabilities in the add/edit form fields, at the urls starting with the subpaths: /ar/config/configuation/ and /ar/config/risk-strategy-control/
 - [MarioTesoro/CVE-2024-48569](https://github.com/MarioTesoro/CVE-2024-48569)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-48569">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-48569">
 
 ---
