@@ -5422,6 +5422,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [zgimszhd61/CVE-2024-23113](https://github.com/zgimszhd61/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23113">
 - [zgimszhd61/CVE-2024-23113](https://github.com/zgimszhd61/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23113">
 - [zgimszhd61/CVE-2024-23114](https://github.com/zgimszhd61/CVE-2024-23114)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23114">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23114">
+- [puckiestyle/CVE-2024-23113](https://github.com/puckiestyle/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2024-23113">
 
 ---
 ## CVE-2024-23112 (2024-03-12T15:15:00)
