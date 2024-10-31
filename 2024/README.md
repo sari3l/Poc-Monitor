@@ -1410,6 +1410,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [gbrsh/CVE-2024-44000](https://github.com/gbrsh/CVE-2024-44000)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2024-44000">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2024-44000">
 - [ifqygazhar/CVE-2024-44000-LiteSpeed-Cache](https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache">
 - [geniuszlyy/CVE-2024-44000](https://github.com/geniuszlyy/CVE-2024-44000)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-44000">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-44000">
+- [zgimszhd61/CVE-2024-44000](https://github.com/zgimszhd61/CVE-2024-44000)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-44000">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-44000">
 
 ---
 ## CVE-2024-43918 (2024-08-29T15:15:00)
