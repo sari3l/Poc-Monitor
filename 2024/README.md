@@ -706,8 +706,8 @@ The specific flaw exists within the product installer. The issue results from th
 - [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
 
 ---
-## CVE-2024-51430 ()
-> 
+## CVE-2024-51430 (2024-10-31T17:15:00)
+> Cross Site Scripting vulnerability in online diagnostic lab management system using php v.1.0 allows a remote attacker to execute arbitrary code via the Test Name parameter on the diagnostic/add-test.php component.
 - [BLACK-SCORP10/CVE-2024-51430](https://github.com/BLACK-SCORP10/CVE-2024-51430)	<img alt="forks" src="https://img.shields.io/github/forks/BLACK-SCORP10/CVE-2024-51430">	<img alt="stars" src="https://img.shields.io/github/stars/BLACK-SCORP10/CVE-2024-51430">
 
 ---
@@ -906,6 +906,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-48180 (2024-10-16T21:15:00)
 > ClassCMS <=4.8 is vulnerable to file inclusion in the nowView method in/class/cms/cms.php, which can include a file uploaded to the/class/template directory to execute PHP code.
 - [J-0k3r/CVE-2024-48180](https://github.com/J-0k3r/CVE-2024-48180)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2024-48180">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2024-48180">
+
+---
+## CVE-2024-48063 (2024-10-29T21:15:00)
+> In PyTorch <=2.4.1, the RemoteModule has Deserialization RCE.
+- [zgimszhd61/CVE-2024-48063-poc](https://github.com/zgimszhd61/CVE-2024-48063-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-48063-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-48063-poc">
 
 ---
 ## CVE-2024-47854 (2024-10-04T06:15:00)
