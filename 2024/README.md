@@ -14,6 +14,7 @@
 ## CVE-2024-9955 (2024-10-15T21:15:00)
 > Use after free in WebAuthentication in Google Chrome prior to 130.0.6723.58 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
 - [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amfg145/CVE-2024-9955-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amfg145/CVE-2024-9955-POC">
+- [ShawtyTwo/CVE-2024-9955-POC](https://github.com/ShawtyTwo/CVE-2024-9955-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ShawtyTwo/CVE-2024-9955-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ShawtyTwo/CVE-2024-9955-POC">
 
 ---
 ## CVE-2024-9954 (2024-10-15T21:15:00)
@@ -709,6 +710,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 
 The specific flaw exists within the product installer. The issue results from the use of a vulnerable version of Apache Tomcat. An attacker can leverage this vulnerability to execute code in the context of SYSTEM. Was ZDI-CAN-22868.
 - [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
+
+---
+## CVE-2024-51567 (2024-10-29T23:15:00)
+> upgrademysqlstatus in databases/views.py in CyberPanel (aka Cyber Panel) before 5b08cd6 allows remote attackers to bypass authentication and execute arbitrary commands via /dataBases/upgrademysqlstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.
+- [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567)	<img alt="forks" src="https://img.shields.io/github/forks/ajayalf/CVE-2024-51567">	<img alt="stars" src="https://img.shields.io/github/stars/ajayalf/CVE-2024-51567">
 
 ---
 ## CVE-2024-51430 (2024-10-31T17:15:00)
@@ -4203,8 +4209,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Schnaidr/CVE-2024-2856-Stack-overflow-EXP](https://github.com/Schnaidr/CVE-2024-2856-Stack-overflow-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Schnaidr/CVE-2024-2856-Stack-overflow-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Schnaidr/CVE-2024-2856-Stack-overflow-EXP">
 
 ---
-## CVE-2024-28515 ()
-> 
+## CVE-2024-28515 (2024-04-03T07:15:00)
+> Buffer Overflow vulnerability in CSAPP_Lab CSAPP Lab3 15-213 Fall 20xx allows a remote attacker to execute arbitrary code via the lab3 of csapp,lab3/buflab-update.pl component.
 - [heshi906/CVE-2024-28515](https://github.com/heshi906/CVE-2024-28515)	<img alt="forks" src="https://img.shields.io/github/forks/heshi906/CVE-2024-28515">	<img alt="stars" src="https://img.shields.io/github/stars/heshi906/CVE-2024-28515">
 
 ---
