@@ -11,6 +11,11 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-9955 (2024-10-15T21:15:00)
+> Use after free in WebAuthentication in Google Chrome prior to 130.0.6723.58 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
+- [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amfg145/CVE-2024-9955-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amfg145/CVE-2024-9955-POC">
+
+---
 ## CVE-2024-9954 (2024-10-15T21:15:00)
 > Use after free in AI in Google Chrome prior to 130.0.6723.58 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [zetraxz/CVE-2024-9954](https://github.com/zetraxz/CVE-2024-9954)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-9954">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-9954">
