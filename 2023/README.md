@@ -2161,6 +2161,11 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-n0b3dy/CVE-2023-42362">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-n0b3dy/CVE-2023-42362">
 
 ---
+## CVE-2023-42326 (2023-11-14T05:15:00)
+> An issue in Netgate pfSense v.2.7.0 allows a remote attacker to execute arbitrary code via a crafted request to the interfaces_gif_edit.php and interfaces_gre_edit.php components.
+- [Farzan-Kh/CVE-2023-42326](https://github.com/Farzan-Kh/CVE-2023-42326)	<img alt="forks" src="https://img.shields.io/github/forks/Farzan-Kh/CVE-2023-42326">	<img alt="stars" src="https://img.shields.io/github/stars/Farzan-Kh/CVE-2023-42326">
+
+---
 ## CVE-2023-42308 (2024-03-12T21:15:00)
 > Cross Site Scripting (XSS) vulnerability in Manage Fastrack Subjects in Code-Projects Exam Form Submission 1.0 allows attackers to run arbitrary code via the "Subject Name" and "Subject Code" Section.
 - [ASR511-OO7/CVE-2023-42308](https://github.com/ASR511-OO7/CVE-2023-42308)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-42308">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-42308">
