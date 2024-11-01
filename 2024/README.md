@@ -1154,6 +1154,11 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2024-45507_Behinder_Webshell">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2024-45507_Behinder_Webshell">
 
 ---
+## CVE-2024-45490 (2024-08-30T03:15:00)
+> An issue was discovered in libexpat before 2.6.3. xmlparse.c does not reject a negative length for XML_ParseBuffer.
+- [nidhihcl75/external_expat_2.6.2_CVE-2024-45490](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45490)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/external_expat_2.6.2_CVE-2024-45490">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/external_expat_2.6.2_CVE-2024-45490">
+
+---
 ## CVE-2024-45436 (2024-08-29T03:15:00)
 > extractFromZipFile in model.go in Ollama before 0.1.47 can extract members of a ZIP archive outside of the parent directory.
 - [pankass/CVE-2024-45436](https://github.com/pankass/CVE-2024-45436)	<img alt="forks" src="https://img.shields.io/github/forks/pankass/CVE-2024-45436">	<img alt="stars" src="https://img.shields.io/github/stars/pankass/CVE-2024-45436">
