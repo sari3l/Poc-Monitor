@@ -816,6 +816,7 @@ The specific flaw exists within the product installer. The issue results from th
 
 Please note: authentication is not required in order to exploit this vulnerability.
 - [zetraxz/CVE-2024-48904](https://github.com/zetraxz/CVE-2024-48904)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-48904">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-48904">
+- [famixcm/CVE-2024-48904](https://github.com/famixcm/CVE-2024-48904)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-48904">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-48904">
 
 ---
 ## CVE-2024-4885 (2024-06-25T20:15:00)
@@ -1997,6 +1998,7 @@ For this to impact an application, all of the following must be true:
   *  It must be using Spring's static resources support
   *  It must have a non-permitAll authorization rule applied to the static resources support
 - [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/cve-2024-38821">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/cve-2024-38821">
+- [zetraxz/CVE-2024-38821](https://github.com/zetraxz/CVE-2024-38821)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-38821">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-38821">
 
 ---
 ## CVE-2024-38816 (2024-09-13T06:15:00)
@@ -6495,6 +6497,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [fa-rrel/CVE-2024-1071-SQL-Injection](https://github.com/fa-rrel/CVE-2024-1071-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-1071-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-1071-SQL-Injection">
 - [Dogu589/WordPress-Exploit-CVE-2024-1071](https://github.com/Dogu589/WordPress-Exploit-CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Dogu589/WordPress-Exploit-CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Dogu589/WordPress-Exploit-CVE-2024-1071">
 - [Spid3heX/CVE-2024-1071](https://github.com/Spid3heX/CVE-2024-1071)	<img alt="forks" src="https://img.shields.io/github/forks/Spid3heX/CVE-2024-1071">	<img alt="stars" src="https://img.shields.io/github/stars/Spid3heX/CVE-2024-1071">
+- [Spid3heX/CVE-2024-1071-PoC-Script](https://github.com/Spid3heX/CVE-2024-1071-PoC-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Spid3heX/CVE-2024-1071-PoC-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Spid3heX/CVE-2024-1071-PoC-Script">
 
 ---
 ## CVE-2024-10448 (2024-10-28T14:15:00)
