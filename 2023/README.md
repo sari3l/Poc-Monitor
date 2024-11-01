@@ -1150,6 +1150,7 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-48123 (2023-12-06T20:15:00)
 > An issue in Netgate pfSense Plus v.23.05.1 and before and pfSense CE v.2.7.0 allows a remote attacker to execute arbitrary code via a crafted request to the packet_capture.php file.
 - [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-48123">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-48123">
+- [Farzan-Kh/CVE-2023-48123](https://github.com/Farzan-Kh/CVE-2023-48123)	<img alt="forks" src="https://img.shields.io/github/forks/Farzan-Kh/CVE-2023-48123">	<img alt="stars" src="https://img.shields.io/github/stars/Farzan-Kh/CVE-2023-48123">
 
 ---
 ## CVE-2023-48104 (2024-01-16T01:15:00)
