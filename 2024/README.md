@@ -1157,6 +1157,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 ## CVE-2024-45490 (2024-08-30T03:15:00)
 > An issue was discovered in libexpat before 2.6.3. xmlparse.c does not reject a negative length for XML_ParseBuffer.
 - [nidhihcl75/external_expat_2.6.2_CVE-2024-45490](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45490)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/external_expat_2.6.2_CVE-2024-45490">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/external_expat_2.6.2_CVE-2024-45490">
+- [nidhihcl75/external_expat_2.6.2_CVE-2024-45490](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45490)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/external_expat_2.6.2_CVE-2024-45490">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/external_expat_2.6.2_CVE-2024-45490">
 
 ---
 ## CVE-2024-45436 (2024-08-29T03:15:00)
