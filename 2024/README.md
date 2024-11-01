@@ -910,6 +910,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [OpenXP-Research/CVE-2024-48359](https://github.com/OpenXP-Research/CVE-2024-48359)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2024-48359">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2024-48359">
 
 ---
+## CVE-2024-48217 ()
+> 
+- [ajrielrm/CVE-2024-48217](https://github.com/ajrielrm/CVE-2024-48217)	<img alt="forks" src="https://img.shields.io/github/forks/ajrielrm/CVE-2024-48217">	<img alt="stars" src="https://img.shields.io/github/stars/ajrielrm/CVE-2024-48217">
+
+---
 ## CVE-2024-48195 (2024-10-28T20:15:00)
 > Cross Site Scripting vulnerability in eyouCMS v.1.6.7 allows a remote attacker to obtain sensitive information via a crafted script to the post parameter.
 - [cyb3res3c/CVE-2024-48195](https://github.com/cyb3res3c/CVE-2024-48195)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-48195">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-48195">
