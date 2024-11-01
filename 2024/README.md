@@ -440,6 +440,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
 
 ---
+## CVE-2024-6473 (2024-09-03T11:15:00)
+> Yandex Browser for Desktop before 24.7.1.380 has a DLL Hijacking Vulnerability because an untrusted search path is used.
+- [12345qwert123456/CVE-2024-6473-PoC](https://github.com/12345qwert123456/CVE-2024-6473-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/12345qwert123456/CVE-2024-6473-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/12345qwert123456/CVE-2024-6473-PoC">
+
+---
 ## CVE-2024-6387 (2024-07-01T13:15:00)
 > A signal handler race condition was found in OpenSSH's server (sshd), where a client does not authenticate within LoginGraceTime seconds (120 by default, 600 in old OpenSSH versions), then sshd's SIGALRM handler is called asynchronously. However, this signal handler calls various functions that are not async-signal-safe, for example, syslog().
 - [7etsuo/cve-2024-6387-poc](https://github.com/7etsuo/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/7etsuo/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/7etsuo/cve-2024-6387-poc">
