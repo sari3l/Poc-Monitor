@@ -606,6 +606,12 @@
 - [tempbottle/CVE-2014-0196](https://github.com/tempbottle/CVE-2014-0196)	<img alt="forks" src="https://img.shields.io/github/forks/tempbottle/CVE-2014-0196">	<img alt="stars" src="https://img.shields.io/github/stars/tempbottle/CVE-2014-0196">
 
 ---
+## CVE-2014-0195 (2014-06-05T21:55:00)
+> The dtls1_reassemble_fragment function in d1_both.c in OpenSSL before 0.9.8za, 1.0.0 before 1.0.0m, and 1.0.1 before 1.0.1h does not properly validate fragment lengths in DTLS ClientHello messages, which allows remote attackers to execute arbitrary code or cause a denial of service (buffer overflow and application crash) via a long non-initial fragment.
+- [PezwariNaan/CVE-2014-0195](https://github.com/PezwariNaan/CVE-2014-0195)	<img alt="forks" src="https://img.shields.io/github/forks/PezwariNaan/CVE-2014-0195">	<img alt="stars" src="https://img.shields.io/github/stars/PezwariNaan/CVE-2014-0195">
+- [ricedu/CVE-2014-0195](https://github.com/ricedu/CVE-2014-0195)	<img alt="forks" src="https://img.shields.io/github/forks/ricedu/CVE-2014-0195">	<img alt="stars" src="https://img.shields.io/github/stars/ricedu/CVE-2014-0195">
+
+---
 ## CVE-2014-0185 (2014-05-06T10:44:00)
 > sapi/fpm/fpm/fpm_unix.c in the FastCGI Process Manager (FPM) in PHP before 5.4.28 and 5.5.x before 5.5.12 uses 0666 permissions for the UNIX socket, which allows local users to gain privileges via a crafted FastCGI client.
 - [Live-Hack-CVE/CVE-2014-0185](https://github.com/Live-Hack-CVE/CVE-2014-0185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0185">
