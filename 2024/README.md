@@ -100,6 +100,11 @@
 - [zgimszhd61/CVE-2024-9264-RCE](https://github.com/zgimszhd61/CVE-2024-9264-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-9264-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-9264-RCE">
 
 ---
+## CVE-2024-9263 (2024-10-17T04:15:00)
+> The WP Timetics- AI-powered Appointment Booking Calendar and Online Scheduling Plugin plugin for WordPress is vulnerable to Account Takeover/Privilege Escalation via Insecure Direct Object Reference in all versions up to, and including, 1.0.25 via the save() due to missing validation on a user controlled key. This makes it possible for unauthenticated attackers to reset the emails and passwords of arbitrary user accounts, including administrators, which makes account takeover and privilege escalation possible.
+- [Jaden1419/CVE-2024-9263](https://github.com/Jaden1419/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-9263">
+
+---
 ## CVE-2024-9234 (2024-10-11T13:15:00)
 > The GutenKit – Page Builder Blocks, Patterns, and Templates for Gutenberg Block Editor plugin for WordPress is vulnerable to arbitrary file uploads due to a missing capability check on the install_and_activate_plugin_from_external() function  (install-active-plugin REST API endpoint) in all versions up to, and including, 2.1.0. This makes it possible for unauthenticated attackers to install and activate arbitrary plugins, or utilize the functionality to upload arbitrary files spoofed like plugins.
 - [RandomRobbieBF/CVE-2024-9234](https://github.com/RandomRobbieBF/CVE-2024-9234)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9234">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9234">
