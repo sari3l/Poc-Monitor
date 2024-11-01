@@ -6083,6 +6083,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [codeb0ss/CVE-2024-2122-PoC](https://github.com/codeb0ss/CVE-2024-2122-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-2122-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-2122-PoC">
 
 ---
+## CVE-2024-21164 (2024-07-16T23:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 7.0.20. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of Oracle VM VirtualBox accessible data. CVSS 3.1 Base Score 2.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:L/I:N/A:N).
+- [Jaden1419/-CVE-2024-21164](https://github.com/Jaden1419/-CVE-2024-21164)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/-CVE-2024-21164">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/-CVE-2024-21164">
+
+---
 ## CVE-2024-21111 (2024-04-16T22:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 7.0.16. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. Note: This vulnerability applies to Windows hosts only. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).
 - [mansk1es/CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-21111">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-21111">
