@@ -1444,6 +1444,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [Xanexs/CVE-2023-46747-Mass-RCE](https://github.com/Xanexs/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Xanexs/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Xanexs/CVE-2023-46747-Mass-RCE">
 - [AMELYA13/CVE-2023-46747-Mass-RCE](https://github.com/AMELYA13/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AMELYA13/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AMELYA13/CVE-2023-46747-Mass-RCE">
 - [MacTavish2/CVE-2023-46747-Mass-RCE](https://github.com/MacTavish2/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MacTavish2/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MacTavish2/CVE-2023-46747-Mass-RCE">
+- [zgimszhd61/CVE-2023-46747-RCE-poc](https://github.com/zgimszhd61/CVE-2023-46747-RCE-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2023-46747-RCE-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2023-46747-RCE-poc">
 
 ---
 ## CVE-2023-46694 (2024-05-28T20:16:00)
