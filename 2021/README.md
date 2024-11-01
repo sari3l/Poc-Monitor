@@ -6856,6 +6856,11 @@
 - [jackadamson/CVE-2021-26700](https://github.com/jackadamson/CVE-2021-26700)	<img alt="forks" src="https://img.shields.io/github/forks/jackadamson/CVE-2021-26700">	<img alt="stars" src="https://img.shields.io/github/stars/jackadamson/CVE-2021-26700">
 
 ---
+## CVE-2021-26690 (2021-06-10T07:15:00)
+> Apache HTTP Server versions 2.4.0 to 2.4.46 A specially crafted Cookie header handled by mod_session can cause a NULL pointer dereference and crash, leading to a possible Denial Of Service
+- [7own/CVE-2021-26690---Apache-mod_session](https://github.com/7own/CVE-2021-26690---Apache-mod_session)	<img alt="forks" src="https://img.shields.io/github/forks/7own/CVE-2021-26690---Apache-mod_session">	<img alt="stars" src="https://img.shields.io/github/stars/7own/CVE-2021-26690---Apache-mod_session">
+
+---
 ## CVE-2021-26639 (2022-08-17T21:15:00)
 > This vulnerability is caused by the lack of validation of input values for specific functions if WISA Smart Wing CMS. Remote attackers can use this vulnerability to leak all files in the server without logging in system.
 - [Live-Hack-CVE/CVE-2021-26639](https://github.com/Live-Hack-CVE/CVE-2021-26639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26639">
