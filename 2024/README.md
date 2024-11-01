@@ -2071,6 +2071,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
+## CVE-2024-38249 (2024-09-10T17:15:00)
+> Windows Graphics Component Elevation of Privilege Vulnerability
+- [Jaden1419/CVE-2024-38249](https://github.com/Jaden1419/CVE-2024-38249)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-38249">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-38249">
+
+---
 ## CVE-2024-38200 (2024-08-12T13:38:00)
 > Microsoft Office Spoofing Vulnerability
 - [passtheticket/CVE-2024-38200](https://github.com/passtheticket/CVE-2024-38200)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2024-38200">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2024-38200">
