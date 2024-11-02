@@ -946,6 +946,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [OpenXP-Research/CVE-2024-48359](https://github.com/OpenXP-Research/CVE-2024-48359)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2024-48359">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2024-48359">
 
 ---
+## CVE-2024-48326 ()
+> 
+- [fabiobsj/CVE-2024-48326](https://github.com/fabiobsj/CVE-2024-48326)	<img alt="forks" src="https://img.shields.io/github/forks/fabiobsj/CVE-2024-48326">	<img alt="stars" src="https://img.shields.io/github/stars/fabiobsj/CVE-2024-48326">
+
+---
 ## CVE-2024-48325 ()
 > 
 - [osvaldotenorio/cve-2024-48325](https://github.com/osvaldotenorio/cve-2024-48325)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/cve-2024-48325">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/cve-2024-48325">
@@ -5450,6 +5455,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-23443 (2024-06-19T14:15:00)
 > A high-privileged user, allowed to create custom osquery packs 17 could affect the availability of Kibana by uploading a maliciously crafted osquery pack.
 - [zhazhalove/osquery_cve-2024-23443](https://github.com/zhazhalove/osquery_cve-2024-23443)	<img alt="forks" src="https://img.shields.io/github/forks/zhazhalove/osquery_cve-2024-23443">	<img alt="stars" src="https://img.shields.io/github/stars/zhazhalove/osquery_cve-2024-23443">
+
+---
+## CVE-2024-23346 (2024-02-21T17:15:00)
+> Pymatgen (Python Materials Genomics) is an open-source Python library for materials analysis. A critical security vulnerability exists in the `JonesFaithfulTransformation.from_transformation_str()` method within the `pymatgen` library prior to version 2024.2.20. This method insecurely utilizes `eval()` for processing input, enabling execution of arbitrary code when parsing untrusted input. Version 2024.2.20 fixes this issue.
+- [bluetoothStrawberry/CVE-2024-23346_poc](https://github.com/bluetoothStrawberry/CVE-2024-23346_poc)	<img alt="forks" src="https://img.shields.io/github/forks/bluetoothStrawberry/CVE-2024-23346_poc">	<img alt="stars" src="https://img.shields.io/github/stars/bluetoothStrawberry/CVE-2024-23346_poc">
 
 ---
 ## CVE-2024-23339 (2024-01-22T23:15:00)
