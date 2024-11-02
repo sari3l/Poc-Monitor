@@ -103,6 +103,7 @@
 ## CVE-2024-9263 (2024-10-17T04:15:00)
 > The WP Timetics- AI-powered Appointment Booking Calendar and Online Scheduling Plugin plugin for WordPress is vulnerable to Account Takeover/Privilege Escalation via Insecure Direct Object Reference in all versions up to, and including, 1.0.25 via the save() due to missing validation on a user controlled key. This makes it possible for unauthenticated attackers to reset the emails and passwords of arbitrary user accounts, including administrators, which makes account takeover and privilege escalation possible.
 - [Jaden1419/CVE-2024-9263](https://github.com/Jaden1419/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-9263">
+- [groshi324/CVE-2024-9263](https://github.com/groshi324/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/groshi324/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/groshi324/CVE-2024-9263">
 
 ---
 ## CVE-2024-9234 (2024-10-11T13:15:00)
@@ -984,6 +985,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [ShawtyTwo/CVE-2024-47575](https://github.com/ShawtyTwo/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/ShawtyTwo/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/ShawtyTwo/CVE-2024-47575">
 - [Fruktolzzz/CVE-2024-47575](https://github.com/Fruktolzzz/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/Fruktolzzz/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/Fruktolzzz/CVE-2024-47575">
 - [krmxd/CVE-2024-47575](https://github.com/krmxd/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/krmxd/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/krmxd/CVE-2024-47575">
+- [VIRKiss/CVE-2024-47575](https://github.com/VIRKiss/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/VIRKiss/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/VIRKiss/CVE-2024-47575">
+- [groshi324/CVE-2024-47575](https://github.com/groshi324/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/groshi324/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/groshi324/CVE-2024-47575">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
