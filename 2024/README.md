@@ -109,6 +109,9 @@
 - [youngwhale21/CVE-2024-9263](https://github.com/youngwhale21/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/youngwhale21/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/youngwhale21/CVE-2024-9263">
 - [Jomq12/CVE-2024-9263](https://github.com/Jomq12/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/Jomq12/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/Jomq12/CVE-2024-9263">
 - [VIRKiss/CVE-2024-9263](https://github.com/VIRKiss/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/VIRKiss/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/VIRKiss/CVE-2024-9263">
+- [DaresNone/CVE-2024-9263](https://github.com/DaresNone/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/DaresNone/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/DaresNone/CVE-2024-9263">
+- [WotleAks/CVE-2024-9263](https://github.com/WotleAks/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/WotleAks/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/WotleAks/CVE-2024-9263">
+- [TaliBander/CVE-2024-9263](https://github.com/TaliBander/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/TaliBander/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/TaliBander/CVE-2024-9263">
 
 ---
 ## CVE-2024-9234 (2024-10-11T13:15:00)
@@ -996,6 +999,9 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [gifretg/CVE-2024-47575](https://github.com/gifretg/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/gifretg/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/gifretg/CVE-2024-47575">
 - [youngwhale21/CVE-2024-47575](https://github.com/youngwhale21/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/youngwhale21/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/youngwhale21/CVE-2024-47575">
 - [Jomq12/CVE-2024-47575](https://github.com/Jomq12/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/Jomq12/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/Jomq12/CVE-2024-47575">
+- [DaresNone/CVE-2024-47575](https://github.com/DaresNone/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/DaresNone/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/DaresNone/CVE-2024-47575">
+- [WotleAks/CVE-2024-47575](https://github.com/WotleAks/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/WotleAks/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/WotleAks/CVE-2024-47575">
+- [TaliBander/CVE-2024-47575](https://github.com/TaliBander/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/TaliBander/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/TaliBander/CVE-2024-47575">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
