@@ -104,6 +104,11 @@
 > The WP Timetics- AI-powered Appointment Booking Calendar and Online Scheduling Plugin plugin for WordPress is vulnerable to Account Takeover/Privilege Escalation via Insecure Direct Object Reference in all versions up to, and including, 1.0.25 via the save() due to missing validation on a user controlled key. This makes it possible for unauthenticated attackers to reset the emails and passwords of arbitrary user accounts, including administrators, which makes account takeover and privilege escalation possible.
 - [Jaden1419/CVE-2024-9263](https://github.com/Jaden1419/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-9263">
 - [groshi324/CVE-2024-9263](https://github.com/groshi324/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/groshi324/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/groshi324/CVE-2024-9263">
+- [LayNMR/CVE-2024-9263](https://github.com/LayNMR/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/LayNMR/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/LayNMR/CVE-2024-9263">
+- [gifretg/CVE-2024-9263](https://github.com/gifretg/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/gifretg/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/gifretg/CVE-2024-9263">
+- [youngwhale21/CVE-2024-9263](https://github.com/youngwhale21/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/youngwhale21/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/youngwhale21/CVE-2024-9263">
+- [Jomq12/CVE-2024-9263](https://github.com/Jomq12/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/Jomq12/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/Jomq12/CVE-2024-9263">
+- [VIRKiss/CVE-2024-9263](https://github.com/VIRKiss/CVE-2024-9263)	<img alt="forks" src="https://img.shields.io/github/forks/VIRKiss/CVE-2024-9263">	<img alt="stars" src="https://img.shields.io/github/stars/VIRKiss/CVE-2024-9263">
 
 ---
 ## CVE-2024-9234 (2024-10-11T13:15:00)
@@ -987,6 +992,10 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [krmxd/CVE-2024-47575](https://github.com/krmxd/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/krmxd/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/krmxd/CVE-2024-47575">
 - [VIRKiss/CVE-2024-47575](https://github.com/VIRKiss/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/VIRKiss/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/VIRKiss/CVE-2024-47575">
 - [groshi324/CVE-2024-47575](https://github.com/groshi324/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/groshi324/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/groshi324/CVE-2024-47575">
+- [LayNMR/CVE-2024-47575](https://github.com/LayNMR/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/LayNMR/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/LayNMR/CVE-2024-47575">
+- [gifretg/CVE-2024-47575](https://github.com/gifretg/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/gifretg/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/gifretg/CVE-2024-47575">
+- [youngwhale21/CVE-2024-47575](https://github.com/youngwhale21/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/youngwhale21/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/youngwhale21/CVE-2024-47575">
+- [Jomq12/CVE-2024-47575](https://github.com/Jomq12/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/Jomq12/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/Jomq12/CVE-2024-47575">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
@@ -1455,6 +1464,11 @@ Allocated by task 6166:
 ## CVE-2024-44337 (2024-10-15T20:15:00)
 > The package `github.com/gomarkdown/markdown` is a Go library for parsing Markdown text and rendering as HTML. Prior to pseudoversion `v0.0.0-20240729232818-a2a9c4f`, which corresponds with commit `a2a9c4f76ef5a5c32108e36f7c47f8d310322252`, there was a logical problem in the paragraph function of the parser/block.go file, which allowed a remote attacker to cause a denial of service (DoS) condition by providing a tailor-made input that caused an infinite loop, causing the program to hang and consume resources indefinitely. Submit `a2a9c4f76ef5a5c32108e36f7c47f8d310322252` contains fixes to this problem.
 - [Brinmon/CVE-2024-44337](https://github.com/Brinmon/CVE-2024-44337)	<img alt="forks" src="https://img.shields.io/github/forks/Brinmon/CVE-2024-44337">	<img alt="stars" src="https://img.shields.io/github/stars/Brinmon/CVE-2024-44337">
+
+---
+## CVE-2024-44258 (2024-10-28T21:15:00)
+> This issue was addressed with improved handling of symlinks. This issue is fixed in iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, visionOS 2.1, tvOS 18.1. Restoring a maliciously crafted backup file may lead to modification of protected system files.
+- [ifpdz/CVE-2024-44258](https://github.com/ifpdz/CVE-2024-44258)	<img alt="forks" src="https://img.shields.io/github/forks/ifpdz/CVE-2024-44258">	<img alt="stars" src="https://img.shields.io/github/stars/ifpdz/CVE-2024-44258">
 
 ---
 ## CVE-2024-44193 (2024-10-02T15:15:00)
