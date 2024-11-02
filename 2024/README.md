@@ -744,6 +744,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [refr4g/CVE-2024-51378](https://github.com/refr4g/CVE-2024-51378)	<img alt="forks" src="https://img.shields.io/github/forks/refr4g/CVE-2024-51378">	<img alt="stars" src="https://img.shields.io/github/stars/refr4g/CVE-2024-51378">
 
 ---
+## CVE-2024-51358 ()
+> 
+- [Kov404/CVE-2024-51358](https://github.com/Kov404/CVE-2024-51358)	<img alt="forks" src="https://img.shields.io/github/forks/Kov404/CVE-2024-51358">	<img alt="stars" src="https://img.shields.io/github/stars/Kov404/CVE-2024-51358">
+
+---
 ## CVE-2024-5124 (2024-06-06T19:16:00)
 > A timing attack vulnerability exists in the gaizhenbiao/chuanhuchatgpt repository, specifically within the password comparison logic. The vulnerability is present in version 20240310 of the software, where passwords are compared using the '=' operator in Python. This method of comparison allows an attacker to guess passwords based on the timing of each character's comparison. The issue arises from the code segment that checks a password for a particular username, which can lead to the exposure of sensitive information to an unauthorized actor. An attacker exploiting this vulnerability could potentially guess user passwords, compromising the security of the system.
 - [gogo2464/CVE-2024-5124](https://github.com/gogo2464/CVE-2024-5124)	<img alt="forks" src="https://img.shields.io/github/forks/gogo2464/CVE-2024-5124">	<img alt="stars" src="https://img.shields.io/github/stars/gogo2464/CVE-2024-5124">
