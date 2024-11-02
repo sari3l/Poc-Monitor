@@ -306,6 +306,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [PeterGabaldon/CVE-2024-7479_CVE-2024-7481](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2024-7479_CVE-2024-7481">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2024-7479_CVE-2024-7481">
 
 ---
+## CVE-2024-7456 (2024-11-01T12:15:00)
+> A SQL injection vulnerability exists in the `/api/v1/external-users` route of lunary-ai/lunary version v1.4.2. The `order by` clause of the SQL query uses `sql.unsafe` without prior sanitization, allowing for SQL injection. The `orderByClause` variable is constructed without server-side validation or sanitization, enabling an attacker to execute arbitrary SQL commands. Successful exploitation can lead to complete data loss, modification, or corruption.
+- [77Philly/CVE-2024-7456scripts](https://github.com/77Philly/CVE-2024-7456scripts)	<img alt="forks" src="https://img.shields.io/github/forks/77Philly/CVE-2024-7456scripts">	<img alt="stars" src="https://img.shields.io/github/stars/77Philly/CVE-2024-7456scripts">
+
+---
 ## CVE-2024-7385 (2024-09-25T04:15:00)
 > The WordPress Simple HTML Sitemap plugin for WordPress is vulnerable to SQL Injection via the 'id' parameter in all versions up to, and including, 3.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with Administrator-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [nothe1senberg/CVE-2024-7385](https://github.com/nothe1senberg/CVE-2024-7385)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-7385">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-7385">
