@@ -2327,6 +2327,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-37383 (2024-06-07T04:15:00)
 > Roundcube Webmail before 1.5.7 and 1.6.x before 1.6.7 allows XSS via SVG animate attributes.
 - [bartfroklage/CVE-2024-37383-POC](https://github.com/bartfroklage/CVE-2024-37383-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bartfroklage/CVE-2024-37383-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bartfroklage/CVE-2024-37383-POC">
+- [amirzargham/CVE-2024-37383-exploit](https://github.com/amirzargham/CVE-2024-37383-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/amirzargham/CVE-2024-37383-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/amirzargham/CVE-2024-37383-exploit">
 
 ---
 ## CVE-2024-37147 (2024-07-10T19:15:00)
