@@ -2397,6 +2397,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [lhc321-source/CVE-2024-36837](https://github.com/lhc321-source/CVE-2024-36837)	<img alt="forks" src="https://img.shields.io/github/forks/lhc321-source/CVE-2024-36837">	<img alt="stars" src="https://img.shields.io/github/stars/lhc321-source/CVE-2024-36837">
 
 ---
+## CVE-2024-36823 (2024-06-06T22:15:00)
+> The encrypt() function of Ninja Core v7.0.0 was discovered to use a weak cryptographic algorithm, leading to a possible leakage of sensitive information.
+- [JAckLosingHeart/CVE-2024-36823-POC](https://github.com/JAckLosingHeart/CVE-2024-36823-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2024-36823-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2024-36823-POC">
+
+---
 ## CVE-2024-36821 (2024-06-11T18:15:00)
 > Insecure permissions in Linksys Velop WiFi 5 (WHW01v1) 1.1.13.202617 allows attackers to escalate privileges from Guest to root via a directory traversal.
 - [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821">
