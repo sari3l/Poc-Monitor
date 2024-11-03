@@ -243,6 +243,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-8030-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-8030-PoC">
 
 ---
+## CVE-2024-7988 (2024-08-26T15:15:00)
+> A remote code execution vulnerability exists in the Rockwell Automation ThinManager® ThinServer™ that allows a threat actor to execute arbitrary code with System privileges. This vulnerability exists due to the lack of proper data input validation, which allows files to be overwritten.
+- [hatvix1/CVE-2024-7988-Private-POC](https://github.com/hatvix1/CVE-2024-7988-Private-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-7988-Private-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-7988-Private-POC">
+
+---
 ## CVE-2024-7965 (2024-08-21T21:15:00)
 > Inappropriate implementation in V8 in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [bi-zone/CVE-2024-7965](https://github.com/bi-zone/CVE-2024-7965)	<img alt="forks" src="https://img.shields.io/github/forks/bi-zone/CVE-2024-7965">	<img alt="stars" src="https://img.shields.io/github/stars/bi-zone/CVE-2024-7965">
