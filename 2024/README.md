@@ -802,6 +802,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50476](https://github.com/RandomRobbieBF/CVE-2024-50476)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50476">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50476">
 
 ---
+## CVE-2024-50475 (2024-10-29T09:15:00)
+> Missing Authorization vulnerability in Scott Gamon Signup Page allows Privilege Escalation.This issue affects Signup Page: from n/a through 1.0.
+- [RandomRobbieBF/CVE-2024-50475](https://github.com/RandomRobbieBF/CVE-2024-50475)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50475">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50475">
+
+---
 ## CVE-2024-5009 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an Improper Access Control vulnerability in Wug.UI.Controllers.InstallController.SetAdminPassword allows local attackers to modify admin's password.
 - [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-5009">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-5009">
