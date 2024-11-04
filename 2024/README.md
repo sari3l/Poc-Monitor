@@ -54,6 +54,11 @@
 - [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">
 
 ---
+## CVE-2024-9537 (2024-10-18T15:15:00)
+> ScienceLogic SL1 (formerly EM7) is affected by an unspecified vulnerability involving an unspecified third-party component packaged with SL1. The vulnerability is addressed in SL1 versions 12.1.3+, 12.2.3+, and 12.3+.  Remediations have been made available for all SL1 versions back to version lines 10.1.x, 10.2.x, 11.1.x, 11.2.x, and 11.3.x.
+- [hatvix1/CVE-2024-9537](https://github.com/hatvix1/CVE-2024-9537)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-9537">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-9537">
+
+---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
 > A cleartext storage of sensitive information vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to reveal firewall usernames, passwords, and API keys generated using those credentials.
 - [holypryx/CVE-2024-9466](https://github.com/holypryx/CVE-2024-9466)	<img alt="forks" src="https://img.shields.io/github/forks/holypryx/CVE-2024-9466">	<img alt="stars" src="https://img.shields.io/github/stars/holypryx/CVE-2024-9466">
