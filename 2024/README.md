@@ -807,6 +807,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-50526-Private-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-50526-Private-POC">
 
 ---
+## CVE-2024-50498 (2024-10-28T12:15:00)
+> Improper Control of Generation of Code ('Code Injection') vulnerability in LUBUS WP Query Console allows Code Injection.This issue affects WP Query Console: from n/a through 1.0.
+- [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50498">
+
+---
 ## CVE-2024-50476 (2024-10-29T09:15:00)
 > Missing Authorization vulnerability in GRÜN Software Group GmbH GRÜN spendino Spendenformular allows Privilege Escalation.This issue affects GRÜN spendino Spendenformular: from n/a through 1.0.1.
 - [RandomRobbieBF/CVE-2024-50476](https://github.com/RandomRobbieBF/CVE-2024-50476)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50476">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50476">
