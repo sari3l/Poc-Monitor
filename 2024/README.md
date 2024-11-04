@@ -3907,6 +3907,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/nkontopoul/checkwifivulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/nkontopoul/checkwifivulnerability">
 - [sbroker-dev/cve-2024-30078](https://github.com/sbroker-dev/cve-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/sbroker-dev/cve-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/sbroker-dev/cve-2024-30078">
 - [blkph0x/CVE_2024_30078_POC_WIFI](https://github.com/blkph0x/CVE_2024_30078_POC_WIFI)	<img alt="forks" src="https://img.shields.io/github/forks/blkph0x/CVE_2024_30078_POC_WIFI">	<img alt="stars" src="https://img.shields.io/github/stars/blkph0x/CVE_2024_30078_POC_WIFI">
+- [zgimszhd61/CVE-2024-30078-POC_WIFI](https://github.com/zgimszhd61/CVE-2024-30078-POC_WIFI)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-30078-POC_WIFI">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-30078-POC_WIFI">
 
 ---
 ## CVE-2024-30052 (2024-06-11T17:15:00)
