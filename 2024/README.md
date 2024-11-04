@@ -11,6 +11,11 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-9988 (2024-10-29T17:15:00)
+> The Crypto plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 2.15. This is due to missing validation on the user being supplied in the 'crypto_connect_ajax_process::register' function. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the username.
+- [hatvix1/CVE-2024-9988](https://github.com/hatvix1/CVE-2024-9988)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-9988">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-9988">
+
+---
 ## CVE-2024-9955 (2024-10-15T21:15:00)
 > Use after free in WebAuthentication in Google Chrome prior to 130.0.6723.58 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
 - [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amfg145/CVE-2024-9955-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amfg145/CVE-2024-9955-POC">
