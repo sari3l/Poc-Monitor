@@ -6678,6 +6678,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Spid3heX/CVE-2024-1071-PoC-Script](https://github.com/Spid3heX/CVE-2024-1071-PoC-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Spid3heX/CVE-2024-1071-PoC-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Spid3heX/CVE-2024-1071-PoC-Script">
 
 ---
+## CVE-2024-10449 (2024-10-28T15:15:00)
+> A vulnerability, which was classified as critical, was found in Codezips Hospital Appointment System 1.0. This affects an unknown part of the file /loginAction.php. The manipulation of the argument Username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.
+- [g-u-i-d/CVE-2024-10449-patch](https://github.com/g-u-i-d/CVE-2024-10449-patch)	<img alt="forks" src="https://img.shields.io/github/forks/g-u-i-d/CVE-2024-10449-patch">	<img alt="stars" src="https://img.shields.io/github/stars/g-u-i-d/CVE-2024-10449-patch">
+
+---
 ## CVE-2024-10448 (2024-10-28T14:15:00)
 > A vulnerability, which was classified as problematic, has been found in code-projects Blood Bank Management System 1.0. Affected by this issue is some unknown functionality of the file /file/delete.php. The manipulation of the argument bid leads to cross-site request forgery. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Other endpoints might be affected as well.
 - [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448)	<img alt="forks" src="https://img.shields.io/github/forks/bevennyamande/CVE-2024-10448">	<img alt="stars" src="https://img.shields.io/github/stars/bevennyamande/CVE-2024-10448">
