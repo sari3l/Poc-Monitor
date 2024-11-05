@@ -1286,6 +1286,11 @@
 - [nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14468](https://github.com/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14468)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14468">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14468">
 
 ---
+## CVE-2018-14466 (2019-10-03T16:15:00)
+> The Rx parser in tcpdump before 4.9.3 has a buffer over-read in print-rx.c:rx_cache_find() and rx_cache_insert().
+- [uthrasri/CVE-2018-14466_tcpdump_AOSP_R33](https://github.com/uthrasri/CVE-2018-14466_tcpdump_AOSP_R33)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2018-14466_tcpdump_AOSP_R33">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2018-14466_tcpdump_AOSP_R33">
+
+---
 ## CVE-2018-14465 (2019-10-03T16:15:00)
 > The RSVP parser in tcpdump before 4.9.3 has a buffer over-read in print-rsvp.c:rsvp_obj_print().
 - [nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14465](https://github.com/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14465)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14465">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14465">
