@@ -28,6 +28,11 @@
 - [famixcm/CVE-2024-9954](https://github.com/famixcm/CVE-2024-9954)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-9954">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-9954">
 
 ---
+## CVE-2024-9933 (2024-10-26T03:15:00)
+> The WatchTowerHQ plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 3.9.6. This is due to the 'watchtower_ota_token' default value is empty, and the not empty check is missing in the 'Password_Less_Access::login' function. This makes it possible for unauthenticated attackers to log in to the WatchTowerHQ client administrator user.
+- [RandomRobbieBF/CVE-2024-9933](https://github.com/RandomRobbieBF/CVE-2024-9933)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9933">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9933">
+
+---
 ## CVE-2024-9932 (2024-10-26T03:15:00)
 > The Wux Blog Editor plugin for WordPress is vulnerable to arbitrary file uploads due to insufficient file type validation in the 'wuxbt_insertImageNew' function in versions up to, and including, 3.0.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [RandomRobbieBF/CVE-2024-9932](https://github.com/RandomRobbieBF/CVE-2024-9932)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9932">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9932">
@@ -797,6 +802,11 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-51032 ()
 > 
 - [Shree-Chandragiri/CVE-2024-51032](https://github.com/Shree-Chandragiri/CVE-2024-51032)	<img alt="forks" src="https://img.shields.io/github/forks/Shree-Chandragiri/CVE-2024-51032">	<img alt="stars" src="https://img.shields.io/github/stars/Shree-Chandragiri/CVE-2024-51032">
+
+---
+## CVE-2024-51031 ()
+> 
+- [vighneshnair7/CVE-2024-51031](https://github.com/vighneshnair7/CVE-2024-51031)	<img alt="forks" src="https://img.shields.io/github/forks/vighneshnair7/CVE-2024-51031">	<img alt="stars" src="https://img.shields.io/github/stars/vighneshnair7/CVE-2024-51031">
 
 ---
 ## CVE-2024-51030 ()
