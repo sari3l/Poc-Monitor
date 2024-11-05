@@ -817,6 +817,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50498">
 
 ---
+## CVE-2024-50490 (2024-10-29T09:15:00)
+> Missing Authorization vulnerability in Szabolcs Szecsenyi PegaPoll allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects PegaPoll: from n/a through 1.0.2.
+- [RandomRobbieBF/CVE-2024-50490](https://github.com/RandomRobbieBF/CVE-2024-50490)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50490">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50490">
+
+---
 ## CVE-2024-50476 (2024-10-29T09:15:00)
 > Missing Authorization vulnerability in GRÜN Software Group GmbH GRÜN spendino Spendenformular allows Privilege Escalation.This issue affects GRÜN spendino Spendenformular: from n/a through 1.0.1.
 - [RandomRobbieBF/CVE-2024-50476](https://github.com/RandomRobbieBF/CVE-2024-50476)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50476">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50476">
