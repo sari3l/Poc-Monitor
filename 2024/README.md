@@ -1647,6 +1647,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [maybeheisenberg/PoC-for-CVE-2024-43160](https://github.com/maybeheisenberg/PoC-for-CVE-2024-43160)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/PoC-for-CVE-2024-43160">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/PoC-for-CVE-2024-43160">
 
 ---
+## CVE-2024-43093 ()
+> 
+- [exploitsecure/CVE-2024-43093](https://github.com/exploitsecure/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43093">
+
+---
 ## CVE-2024-43044 (2024-08-07T14:15:00)
 > Jenkins 2.470 and earlier, LTS 2.452.3 and earlier allows agent processes to read arbitrary files from the Jenkins controller file system by using the `ClassLoaderProxy#fetchJar` method in the Remoting library.
 - [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044)	<img alt="forks" src="https://img.shields.io/github/forks/HwMex0/CVE-2024-43044">	<img alt="stars" src="https://img.shields.io/github/stars/HwMex0/CVE-2024-43044">
