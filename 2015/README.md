@@ -176,6 +176,8 @@
 ## CVE-2015-5254 (2016-01-08T19:59:00)
 > Apache ActiveMQ 5.x before 5.13.0 does not restrict the classes that can be serialized in the broker, which allows remote attackers to execute arbitrary code via a crafted serialized Java Message Service (JMS) ObjectMessage object.
 - [guigui237/Exploitation-de-la-vuln-rabilit-CVE-2015-5254-](https://github.com/guigui237/Exploitation-de-la-vuln-rabilit-CVE-2015-5254-)	<img alt="forks" src="https://img.shields.io/github/forks/guigui237/Exploitation-de-la-vuln-rabilit-CVE-2015-5254-">	<img alt="stars" src="https://img.shields.io/github/stars/guigui237/Exploitation-de-la-vuln-rabilit-CVE-2015-5254-">
+- [Ma1Dong/ActiveMQ_CVE-2015-5254](https://github.com/Ma1Dong/ActiveMQ_CVE-2015-5254)	<img alt="forks" src="https://img.shields.io/github/forks/Ma1Dong/ActiveMQ_CVE-2015-5254">	<img alt="stars" src="https://img.shields.io/github/stars/Ma1Dong/ActiveMQ_CVE-2015-5254">
+- [jas502n/CVE-2015-5254](https://github.com/jas502n/CVE-2015-5254)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2015-5254">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2015-5254">
 
 ---
 ## CVE-2015-5252 (2015-12-29T22:59:00)
