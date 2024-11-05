@@ -853,6 +853,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50485](https://github.com/RandomRobbieBF/CVE-2024-50485)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50485">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50485">
 
 ---
+## CVE-2024-50483 (2024-10-28T13:15:00)
+> Authorization Bypass Through User-Controlled Key vulnerability in Meetup allows Privilege Escalation.This issue affects Meetup: from n/a through 0.1.
+- [RandomRobbieBF/CVE-2024-50483](https://github.com/RandomRobbieBF/CVE-2024-50483)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50483">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50483">
+
+---
 ## CVE-2024-50482 (2024-10-29T08:15:00)
 > Unrestricted Upload of File with Dangerous Type vulnerability in Chetan Khandla Woocommerce Product Design allows Upload a Web Shell to a Web Server.This issue affects Woocommerce Product Design: from n/a through 1.0.0.
 - [RandomRobbieBF/CVE-2024-50482](https://github.com/RandomRobbieBF/CVE-2024-50482)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50482">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50482">
