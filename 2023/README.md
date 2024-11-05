@@ -2059,6 +2059,11 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [riza/CVE-2023-43040](https://github.com/riza/CVE-2023-43040)	<img alt="forks" src="https://img.shields.io/github/forks/riza/CVE-2023-43040">	<img alt="stars" src="https://img.shields.io/github/stars/riza/CVE-2023-43040">
 
 ---
+## CVE-2023-4300 (2023-09-25T16:15:00)
+> The Import XML and RSS Feeds WordPress plugin before 2.1.4 does not filter file extensions for uploaded files, allowing an attacker to upload a malicious PHP file, leading to Remote Code Execution.
+- [bde574786/CVE-2023-4300](https://github.com/bde574786/CVE-2023-4300)	<img alt="forks" src="https://img.shields.io/github/forks/bde574786/CVE-2023-4300">	<img alt="stars" src="https://img.shields.io/github/stars/bde574786/CVE-2023-4300">
+
+---
 ## CVE-2023-4294 (2023-09-11T20:15:00)
 > The URL Shortify WordPress plugin before 1.7.6 does not properly escape the value of the referer header, thus allowing an unauthenticated attacker to inject malicious javascript that will trigger in the plugins admin panel with statistics of the created short link.
 - [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4294">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4294">
