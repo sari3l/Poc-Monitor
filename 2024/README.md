@@ -863,6 +863,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50482](https://github.com/RandomRobbieBF/CVE-2024-50482)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50482">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50482">
 
 ---
+## CVE-2024-50478 (2024-10-28T13:15:00)
+> Authentication Bypass by Primary Weakness vulnerability in Swoop 1-Click Login: Passwordless Authentication allows Authentication Bypass.This issue affects 1-Click Login: Passwordless Authentication: 1.4.5.
+- [RandomRobbieBF/CVE-2024-50478](https://github.com/RandomRobbieBF/CVE-2024-50478)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50478">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50478">
+
+---
 ## CVE-2024-50476 (2024-10-29T09:15:00)
 > Missing Authorization vulnerability in GRÜN Software Group GmbH GRÜN spendino Spendenformular allows Privilege Escalation.This issue affects GRÜN spendino Spendenformular: from n/a through 1.0.1.
 - [RandomRobbieBF/CVE-2024-50476](https://github.com/RandomRobbieBF/CVE-2024-50476)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50476">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50476">
