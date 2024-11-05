@@ -5524,6 +5524,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-23346 (2024-02-21T17:15:00)
 > Pymatgen (Python Materials Genomics) is an open-source Python library for materials analysis. A critical security vulnerability exists in the `JonesFaithfulTransformation.from_transformation_str()` method within the `pymatgen` library prior to version 2024.2.20. This method insecurely utilizes `eval()` for processing input, enabling execution of arbitrary code when parsing untrusted input. Version 2024.2.20 fixes this issue.
 - [bluetoothStrawberry/CVE-2024-23346_poc](https://github.com/bluetoothStrawberry/CVE-2024-23346_poc)	<img alt="forks" src="https://img.shields.io/github/forks/bluetoothStrawberry/CVE-2024-23346_poc">	<img alt="stars" src="https://img.shields.io/github/stars/bluetoothStrawberry/CVE-2024-23346_poc">
+- [9carlo6/CVE-2024-23346](https://github.com/9carlo6/CVE-2024-23346)	<img alt="forks" src="https://img.shields.io/github/forks/9carlo6/CVE-2024-23346">	<img alt="stars" src="https://img.shields.io/github/stars/9carlo6/CVE-2024-23346">
 
 ---
 ## CVE-2024-23339 (2024-01-22T23:15:00)
