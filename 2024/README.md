@@ -794,6 +794,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [JAckLosingHeart/CVE-2024-51132-POC](https://github.com/JAckLosingHeart/CVE-2024-51132-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2024-51132-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2024-51132-POC">
 
 ---
+## CVE-2024-51032 ()
+> 
+- [Shree-Chandragiri/CVE-2024-51032](https://github.com/Shree-Chandragiri/CVE-2024-51032)	<img alt="forks" src="https://img.shields.io/github/forks/Shree-Chandragiri/CVE-2024-51032">	<img alt="stars" src="https://img.shields.io/github/stars/Shree-Chandragiri/CVE-2024-51032">
+
+---
 ## CVE-2024-51030 ()
 > 
 - [vighneshnair7/CVE-2024-51030](https://github.com/vighneshnair7/CVE-2024-51030)	<img alt="forks" src="https://img.shields.io/github/forks/vighneshnair7/CVE-2024-51030">	<img alt="stars" src="https://img.shields.io/github/stars/vighneshnair7/CVE-2024-51030">
