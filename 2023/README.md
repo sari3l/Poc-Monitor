@@ -2171,7 +2171,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 ## CVE-2023-42326 (2023-11-14T05:15:00)
 > An issue in Netgate pfSense v.2.7.0 allows a remote attacker to execute arbitrary code via a crafted request to the interfaces_gif_edit.php and interfaces_gre_edit.php components.
 - [Farzan-Kh/CVE-2023-42326](https://github.com/Farzan-Kh/CVE-2023-42326)	<img alt="forks" src="https://img.shields.io/github/forks/Farzan-Kh/CVE-2023-42326">	<img alt="stars" src="https://img.shields.io/github/stars/Farzan-Kh/CVE-2023-42326">
-- [bl4ckarch/pf-pwnme](https://github.com/bl4ckarch/pf-pwnme)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckarch/pf-pwnme">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckarch/pf-pwnme">
+- [bl4ckarch/CVE-2023-42326](https://github.com/bl4ckarch/CVE-2023-42326)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckarch/CVE-2023-42326">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckarch/CVE-2023-42326">
 
 ---
 ## CVE-2023-42308 (2024-03-12T21:15:00)
