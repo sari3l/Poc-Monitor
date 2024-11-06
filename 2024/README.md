@@ -1635,6 +1635,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [snyk-labs/pdfjs-vuln-demo](https://github.com/snyk-labs/pdfjs-vuln-demo)	<img alt="forks" src="https://img.shields.io/github/forks/snyk-labs/pdfjs-vuln-demo">	<img alt="stars" src="https://img.shields.io/github/stars/snyk-labs/pdfjs-vuln-demo">
 - [zalomkiller/poc_CVE-2024-4367](https://github.com/zalomkiller/poc_CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/zalomkiller/poc_CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/zalomkiller/poc_CVE-2024-4367">
 - [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/CVE-2024-4367-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/CVE-2024-4367-Analysis">
+- [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample)	<img alt="forks" src="https://img.shields.io/github/forks/pedrochalegre7/CVE-2024-4367-pdf-sample">	<img alt="stars" src="https://img.shields.io/github/stars/pedrochalegre7/CVE-2024-4367-pdf-sample">
 
 ---
 ## CVE-2024-43582 (2024-10-08T18:15:00)
