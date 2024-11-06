@@ -2871,6 +2871,7 @@
 ## CVE-2020-24370 (2020-08-17T17:15:00)
 > ldebug.c in Lua 5.4.0 allows a negation overflow and segmentation fault in getlocal and setlocal, as demonstrated by getlocal(3,2^31).
 - [RenukaSelvar/lua_CVE-2020-24370](https://github.com/RenukaSelvar/lua_CVE-2020-24370)	<img alt="forks" src="https://img.shields.io/github/forks/RenukaSelvar/lua_CVE-2020-24370">	<img alt="stars" src="https://img.shields.io/github/stars/RenukaSelvar/lua_CVE-2020-24370">
+- [RenukaSelvar/lua_CVE-2020-24370_AfterPatch](https://github.com/RenukaSelvar/lua_CVE-2020-24370_AfterPatch)	<img alt="forks" src="https://img.shields.io/github/forks/RenukaSelvar/lua_CVE-2020-24370_AfterPatch">	<img alt="stars" src="https://img.shields.io/github/stars/RenukaSelvar/lua_CVE-2020-24370_AfterPatch">
 
 ---
 ## CVE-2020-24223 (2020-08-30T18:15:00)
