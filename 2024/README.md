@@ -910,6 +910,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [uixss/PoC-CVE-2024-4947](https://github.com/uixss/PoC-CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/uixss/PoC-CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/uixss/PoC-CVE-2024-4947">
 
 ---
+## CVE-2024-49328 (2024-10-20T08:15:00)
+> Authentication Bypass Using an Alternate Path or Channel vulnerability in Vivek Tamrakar WP REST API FNS allows Authentication Bypass.This issue affects WP REST API FNS: from n/a through 1.0.0.
+- [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49328">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49328">
+
+---
 ## CVE-2024-49186 ()
 > 
 - [cyb3res3c/CVE-2024-49186](https://github.com/cyb3res3c/CVE-2024-49186)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-49186">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-49186">

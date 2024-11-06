@@ -318,6 +318,11 @@
 - [BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu---DCCP-Double-Free-Privilege-Escalation-CVE-2017-6074](https://github.com/BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu---DCCP-Double-Free-Privilege-Escalation-CVE-2017-6074)	<img alt="forks" src="https://img.shields.io/github/forks/BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu---DCCP-Double-Free-Privilege-Escalation-CVE-2017-6074">	<img alt="stars" src="https://img.shields.io/github/stars/BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu---DCCP-Double-Free-Privilege-Escalation-CVE-2017-6074">
 
 ---
+## CVE-2017-6008 (2017-09-13T08:29:00)
+> A kernel pool overflow in the driver hitmanpro37.sys in Sophos SurfRight HitmanPro before 3.7.20 Build 286 (included in the HitmanPro.Alert solution and Sophos Clean) allows local users to escalate privileges via a malformed IOCTL call.
+- [cbayet/Exploit-CVE-2017-6008](https://github.com/cbayet/Exploit-CVE-2017-6008)	<img alt="forks" src="https://img.shields.io/github/forks/cbayet/Exploit-CVE-2017-6008">	<img alt="stars" src="https://img.shields.io/github/stars/cbayet/Exploit-CVE-2017-6008">
+
+---
 ## CVE-2017-5941 (2017-02-09T19:59:00)
 > An issue was discovered in the node-serialize package 0.0.4 for Node.js. Untrusted data passed into the unserialize() function can be exploited to achieve arbitrary code execution by passing a JavaScript Object with an Immediately Invoked Function Expression (IIFE).
 - [Cr4zyD14m0nd137/Lab-for-CVE-2017-5941](https://github.com/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941">
