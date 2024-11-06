@@ -2868,6 +2868,11 @@
 - [Live-Hack-CVE/CVE-2020-24396](https://github.com/Live-Hack-CVE/CVE-2020-24396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24396">
 
 ---
+## CVE-2020-24370 (2020-08-17T17:15:00)
+> ldebug.c in Lua 5.4.0 allows a negation overflow and segmentation fault in getlocal and setlocal, as demonstrated by getlocal(3,2^31).
+- [RenukaSelvar/lua_CVE-2020-24370](https://github.com/RenukaSelvar/lua_CVE-2020-24370)	<img alt="forks" src="https://img.shields.io/github/forks/RenukaSelvar/lua_CVE-2020-24370">	<img alt="stars" src="https://img.shields.io/github/stars/RenukaSelvar/lua_CVE-2020-24370">
+
+---
 ## CVE-2020-24223 (2020-08-30T18:15:00)
 > Mara CMS 7.5 allows cross-site scripting (XSS) in contact.php via the theme or pagetheme parameters.
 - [Live-Hack-CVE/CVE-2020-24223](https://github.com/Live-Hack-CVE/CVE-2020-24223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24223">
