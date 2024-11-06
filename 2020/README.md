@@ -288,6 +288,11 @@
 - [vulncrate/wp-codesnippets-cve-2020-8417](https://github.com/vulncrate/wp-codesnippets-cve-2020-8417)	<img alt="forks" src="https://img.shields.io/github/forks/vulncrate/wp-codesnippets-cve-2020-8417">	<img alt="stars" src="https://img.shields.io/github/stars/vulncrate/wp-codesnippets-cve-2020-8417">
 
 ---
+## CVE-2020-8321 (2020-06-09T20:15:00)
+> A potential vulnerability in the SMI callback function used in the System Lock Preinstallation driver in some Lenovo Notebook and ThinkStation models may allow arbitrary code execution.
+- [SatheeshGitHub575/external_curl_CVE-2020-8321](https://github.com/SatheeshGitHub575/external_curl_CVE-2020-8321)	<img alt="forks" src="https://img.shields.io/github/forks/SatheeshGitHub575/external_curl_CVE-2020-8321">	<img alt="stars" src="https://img.shields.io/github/stars/SatheeshGitHub575/external_curl_CVE-2020-8321">
+
+---
 ## CVE-2020-8300 (2021-06-16T14:15:00)
 > Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.
 - [Live-Hack-CVE/CVE-2020-8300](https://github.com/Live-Hack-CVE/CVE-2020-8300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8300">
