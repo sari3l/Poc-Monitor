@@ -980,6 +980,11 @@
 - [LycsHub/CVE-2020-5245](https://github.com/LycsHub/CVE-2020-5245)	<img alt="forks" src="https://img.shields.io/github/forks/LycsHub/CVE-2020-5245">	<img alt="stars" src="https://img.shields.io/github/stars/LycsHub/CVE-2020-5245">
 
 ---
+## CVE-2020-5235 (2020-02-04T03:15:00)
+> There is a potentially exploitable out of memory condition In Nanopb before 0.4.1, 0.3.9.5, and 0.2.9.4. When nanopb is compiled with PB_ENABLE_MALLOC, the message to be decoded contains a repeated string, bytes or message field and realloc() runs out of memory when expanding the array nanopb can end up calling `free()` on a pointer value that comes from uninitialized memory. Depending on platform this can result in a crash or further memory corruption, which may be exploitable in some cases. This problem is fixed in nanopb-0.4.1, nanopb-0.3.9.5, nanopb-0.2.9.4.
+- [uthrasri/CVE-2020-5235_nanopb-c_AOSP10_R33](https://github.com/uthrasri/CVE-2020-5235_nanopb-c_AOSP10_R33)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2020-5235_nanopb-c_AOSP10_R33">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2020-5235_nanopb-c_AOSP10_R33">
+
+---
 ## CVE-2020-5232 (2020-01-31T00:15:00)
 > A user who owns an ENS domain can set a trapdoor, allowing them to transfer ownership to another user, and later regain ownership without the new owners consent or awareness. A new ENS deployment is being rolled out that fixes this vulnerability in the ENS registry.
 - [Live-Hack-CVE/CVE-2020-5232](https://github.com/Live-Hack-CVE/CVE-2020-5232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5232">
