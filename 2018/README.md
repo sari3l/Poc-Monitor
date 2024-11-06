@@ -1125,6 +1125,11 @@
 - [mpgn/CVE-2018-16341](https://github.com/mpgn/CVE-2018-16341)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2018-16341">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2018-16341">
 
 ---
+## CVE-2018-16300 (2019-10-03T16:15:00)
+> The BGP parser in tcpdump before 4.9.3 allows stack consumption in print-bgp.c:bgp_attr_print() because of unlimited recursion.
+- [uthrasri/CVE-2018-16300_tcpdump_AOSP10_R33](https://github.com/uthrasri/CVE-2018-16300_tcpdump_AOSP10_R33)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2018-16300_tcpdump_AOSP10_R33">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2018-16300_tcpdump_AOSP10_R33">
+
+---
 ## CVE-2018-16229 (2019-10-03T16:15:00)
 > The DCCP parser in tcpdump before 4.9.3 has a buffer over-read in print-dccp.c:dccp_print_option().
 - [nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229](https://github.com/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-16229">
