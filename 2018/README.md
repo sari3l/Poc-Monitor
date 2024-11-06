@@ -1325,6 +1325,11 @@
 - [hshivhare67/platform_external_tcpdump_AOSP10_r33_4.9.2-_CVE-2018-14463](https://github.com/hshivhare67/platform_external_tcpdump_AOSP10_r33_4.9.2-_CVE-2018-14463)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_external_tcpdump_AOSP10_r33_4.9.2-_CVE-2018-14463">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_external_tcpdump_AOSP10_r33_4.9.2-_CVE-2018-14463">
 
 ---
+## CVE-2018-14461 (2019-10-03T16:15:00)
+> The LDP parser in tcpdump before 4.9.3 has a buffer over-read in print-ldp.c:ldp_tlv_print().
+- [uthrasri/CVE-2018-14461_tcpdump_AOSP10_R33](https://github.com/uthrasri/CVE-2018-14461_tcpdump_AOSP10_R33)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2018-14461_tcpdump_AOSP10_R33">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2018-14461_tcpdump_AOSP10_R33">
+
+---
 ## CVE-2018-14371 (2018-07-18T12:29:00)
 > The getLocalePrefix function in ResourceManager.java in Eclipse Mojarra before 2.3.7 is affected by Directory Traversal via the loc parameter. A remote attacker can download configuration files or Java bytecodes from applications.
 - [mattysaints/CVE-2018-14371](https://github.com/mattysaints/CVE-2018-14371)	<img alt="forks" src="https://img.shields.io/github/forks/mattysaints/CVE-2018-14371">	<img alt="stars" src="https://img.shields.io/github/stars/mattysaints/CVE-2018-14371">
