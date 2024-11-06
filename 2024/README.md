@@ -878,6 +878,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50475](https://github.com/RandomRobbieBF/CVE-2024-50475)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50475">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50475">
 
 ---
+## CVE-2024-50340 ()
+> 
+- [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-50340">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-50340">
+
+---
 ## CVE-2024-5009 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an Improper Access Control vulnerability in Wug.UI.Controllers.InstallController.SetAdminPassword allows local attackers to modify admin's password.
 - [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-5009">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-5009">
@@ -1055,6 +1060,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-48217 (2024-11-01T17:15:00)
 > An Insecure Direct Object Reference (IDOR) in the dashboard of SiSMART v7.4.0 allows attackers to execute a horizontal-privilege escalation.
 - [ajrielrm/CVE-2024-48217](https://github.com/ajrielrm/CVE-2024-48217)	<img alt="forks" src="https://img.shields.io/github/forks/ajrielrm/CVE-2024-48217">	<img alt="stars" src="https://img.shields.io/github/stars/ajrielrm/CVE-2024-48217">
+
+---
+## CVE-2024-48208 (2024-10-24T21:15:00)
+> pure-ftpd before 1.0.52 is vulnerable to Buffer Overflow. There is an out of bounds read in the domlsd() function of the ls.c file.
+- [rohilchaudhry/CVE-2024-48208](https://github.com/rohilchaudhry/CVE-2024-48208)	<img alt="forks" src="https://img.shields.io/github/forks/rohilchaudhry/CVE-2024-48208">	<img alt="stars" src="https://img.shields.io/github/stars/rohilchaudhry/CVE-2024-48208">
 
 ---
 ## CVE-2024-48195 (2024-10-28T20:15:00)
