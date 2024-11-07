@@ -5965,6 +5965,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [White-BAO/CVE-2023-25813](https://github.com/White-BAO/CVE-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/White-BAO/CVE-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/White-BAO/CVE-2023-25813">
 - [pbj2647/CVE-2023-25813](https://github.com/pbj2647/CVE-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/pbj2647/CVE-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/pbj2647/CVE-2023-25813">
 - [pbj2647/CVE-2023-25813](https://github.com/pbj2647/CVE-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/pbj2647/CVE-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/pbj2647/CVE-2023-25813">
+- [wxuycea/CVE-2023-25813](https://github.com/wxuycea/CVE-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/wxuycea/CVE-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/wxuycea/CVE-2023-25813">
 
 ---
 ## CVE-2023-25725 (2023-02-14T19:15:00)
