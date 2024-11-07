@@ -5611,6 +5611,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [binaryninja/CVE-2024-23334](https://github.com/binaryninja/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/binaryninja/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/binaryninja/CVE-2024-23334">
 - [s4botai/CVE-2024-23334-PoC](https://github.com/s4botai/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/s4botai/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/s4botai/CVE-2024-23334-PoC">
 - [wizarddos/CVE-2024-23334](https://github.com/wizarddos/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/wizarddos/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/wizarddos/CVE-2024-23334">
+- [Pylonet/CVE-2024-23334](https://github.com/Pylonet/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/Pylonet/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/Pylonet/CVE-2024-23334">
 
 ---
 ## CVE-2024-23222 (2024-01-23T01:15:00)
