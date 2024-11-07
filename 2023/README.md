@@ -138,6 +138,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [julienbrs/exploit-CVE-2023-6553](https://github.com/julienbrs/exploit-CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/julienbrs/exploit-CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/julienbrs/exploit-CVE-2023-6553">
 - [julienbrs/exploit-CVE-2023-6553](https://github.com/julienbrs/exploit-CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/julienbrs/exploit-CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/julienbrs/exploit-CVE-2023-6553">
 - [cc3305/CVE-2023-6553](https://github.com/cc3305/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2023-6553">
+- [Harshit-Mashru/CVE-2023-6553](https://github.com/Harshit-Mashru/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Harshit-Mashru/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Harshit-Mashru/CVE-2023-6553">
 
 ---
 ## CVE-2023-6548 (2024-01-17T20:15:00)
