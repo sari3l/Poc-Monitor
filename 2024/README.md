@@ -895,6 +895,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50450](https://github.com/RandomRobbieBF/CVE-2024-50450)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50450">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50450">
 
 ---
+## CVE-2024-50427 (2024-10-29T09:15:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in Devsoft Baltic OÜ SurveyJS: Drag & Drop WordPress Form Builder.This issue affects SurveyJS: Drag & Drop WordPress Form Builder: from n/a through 1.9.136.
+- [RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50427">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50427">
+
+---
 ## CVE-2024-50340 ()
 > 
 - [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-50340">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-50340">
