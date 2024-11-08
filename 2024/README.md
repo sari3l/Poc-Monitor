@@ -4253,6 +4253,11 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [Lavender-exe/CVE-2024-29296-PoC](https://github.com/Lavender-exe/CVE-2024-29296-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Lavender-exe/CVE-2024-29296-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Lavender-exe/CVE-2024-29296-PoC">
 
 ---
+## CVE-2024-2928 (2024-06-06T19:15:00)
+> A Local File Inclusion (LFI) vulnerability was identified in mlflow/mlflow, specifically in version 2.9.2, which was fixed in version 2.11.3. This vulnerability arises from the application's failure to properly validate URI fragments for directory traversal sequences such as '../'. An attacker can exploit this flaw by manipulating the fragment part of the URI to read arbitrary files on the local file system, including sensitive files like '/etc/passwd'. The vulnerability is a bypass to a previous patch that only addressed similar manipulation within the URI's query string, highlighting the need for comprehensive validation of all parts of a URI to prevent LFI attacks.
+- [nuridincersaygili/CVE-2024-2928](https://github.com/nuridincersaygili/CVE-2024-2928)	<img alt="forks" src="https://img.shields.io/github/forks/nuridincersaygili/CVE-2024-2928">	<img alt="stars" src="https://img.shields.io/github/stars/nuridincersaygili/CVE-2024-2928">
+
+---
 ## CVE-2024-29272 (2024-03-22T04:15:00)
 > Arbitrary File Upload vulnerability in VvvebJs before version 1.7.5, allows unauthenticated remote attackers to execute arbitrary code and obtain sensitive information via the sanitizeFileName parameter in save.php.
 - [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272)	<img alt="forks" src="https://img.shields.io/github/forks/awjkjflkwlekfdjs/CVE-2024-29272">	<img alt="stars" src="https://img.shields.io/github/stars/awjkjflkwlekfdjs/CVE-2024-29272">
