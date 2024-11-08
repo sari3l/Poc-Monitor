@@ -885,6 +885,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50475](https://github.com/RandomRobbieBF/CVE-2024-50475)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50475">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50475">
 
 ---
+## CVE-2024-50450 (2024-10-28T12:15:00)
+> Improper Control of Generation of Code ('Code Injection') vulnerability in realmag777 WordPress Meta Data and Taxonomies Filter (MDTF) allows Code Injection.This issue affects WordPress Meta Data and Taxonomies Filter (MDTF): from n/a through 1.3.3.4.
+- [RandomRobbieBF/CVE-2024-50450](https://github.com/RandomRobbieBF/CVE-2024-50450)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50450">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50450">
+
+---
 ## CVE-2024-50340 ()
 > 
 - [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-50340">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-50340">
