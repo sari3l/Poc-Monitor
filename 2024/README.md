@@ -885,6 +885,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50478](https://github.com/RandomRobbieBF/CVE-2024-50478)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50478">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50478">
 
 ---
+## CVE-2024-50477 (2024-10-28T12:15:00)
+> Authentication Bypass Using an Alternate Path or Channel vulnerability in Stacks Stacks Mobile App Builder stacks-mobile-app-builder allows Authentication Bypass.This issue affects Stacks Mobile App Builder: from n/a through 5.2.3.
+- [RandomRobbieBF/CVE-2024-50477](https://github.com/RandomRobbieBF/CVE-2024-50477)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50477">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50477">
+
+---
 ## CVE-2024-50476 (2024-10-29T09:15:00)
 > Missing Authorization vulnerability in GRÜN Software Group GmbH GRÜN spendino Spendenformular allows Privilege Escalation.This issue affects GRÜN spendino Spendenformular: from n/a through 1.0.1.
 - [RandomRobbieBF/CVE-2024-50476](https://github.com/RandomRobbieBF/CVE-2024-50476)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50476">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50476">
