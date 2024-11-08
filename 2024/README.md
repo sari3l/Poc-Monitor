@@ -6736,6 +6736,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Spid3heX/CVE-2024-1071-PoC-Script](https://github.com/Spid3heX/CVE-2024-1071-PoC-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Spid3heX/CVE-2024-1071-PoC-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Spid3heX/CVE-2024-1071-PoC-Script">
 
 ---
+## CVE-2024-10470 ()
+> 
+- [RandomRobbieBF/CVE-2024-10470](https://github.com/RandomRobbieBF/CVE-2024-10470)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10470">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10470">
+
+---
 ## CVE-2024-10449 (2024-10-28T15:15:00)
 > A vulnerability, which was classified as critical, was found in Codezips Hospital Appointment System 1.0. This affects an unknown part of the file /loginAction.php. The manipulation of the argument Username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.
 - [g-u-i-d/CVE-2024-10449-patch](https://github.com/g-u-i-d/CVE-2024-10449-patch)	<img alt="forks" src="https://img.shields.io/github/forks/g-u-i-d/CVE-2024-10449-patch">	<img alt="stars" src="https://img.shields.io/github/stars/g-u-i-d/CVE-2024-10449-patch">
