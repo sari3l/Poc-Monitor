@@ -8727,6 +8727,11 @@
 - [Live-Hack-CVE/CVE-2021-21012](https://github.com/Live-Hack-CVE/CVE-2021-21012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21012">
 
 ---
+## CVE-2021-20837 (2021-10-26T06:15:00)
+> Movable Type 7 r.5002 and earlier (Movable Type 7 Series), Movable Type 6.8.2 and earlier (Movable Type 6 Series), Movable Type Advanced 7 r.5002 and earlier (Movable Type Advanced 7 Series), Movable Type Advanced 6.8.2 and earlier (Movable Type Advanced 6 Series), Movable Type Premium 1.46 and earlier, and Movable Type Premium Advanced 1.46 and earlier allow remote attackers to execute arbitrary OS commands via unspecified vectors. Note that all versions of Movable Type 4.0 or later including unsupported (End-of-Life, EOL) versions are also affected by this vulnerability.
+- [lamcodeofpwnosec/CVE-2021-20837](https://github.com/lamcodeofpwnosec/CVE-2021-20837)	<img alt="forks" src="https://img.shields.io/github/forks/lamcodeofpwnosec/CVE-2021-20837">	<img alt="stars" src="https://img.shields.io/github/stars/lamcodeofpwnosec/CVE-2021-20837">
+
+---
 ## CVE-2021-20784 (2021-07-14T02:15:00)
 > HTTP header injection vulnerability in Everything all versions except the Lite version may allow a remote attacker to inject an arbitrary script or alter the website that uses the product via unspecified vectors.
 - [Live-Hack-CVE/CVE-2021-20784](https://github.com/Live-Hack-CVE/CVE-2021-20784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20784">
