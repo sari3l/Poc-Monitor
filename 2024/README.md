@@ -936,6 +936,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [th3gokul/CVE-2024-5009](https://github.com/th3gokul/CVE-2024-5009)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-5009">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-5009">
 
 ---
+## CVE-2024-49681 (2024-10-24T12:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in SWIT WP Sessions Time Monitoring Full Automatic allows SQL Injection.This issue affects WP Sessions Time Monitoring Full Automatic: from n/a through 1.0.9.
+- [RandomRobbieBF/CVE-2024-49681](https://github.com/RandomRobbieBF/CVE-2024-49681)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49681">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49681">
+
+---
 ## CVE-2024-4956 (2024-05-16T16:15:00)
 > Path Traversal in Sonatype Nexus Repository 3 allows an unauthenticated attacker to read system files. Fixed in version 3.68.1.
 - [banditzCyber0x/CVE-2024-4956](https://github.com/banditzCyber0x/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/banditzCyber0x/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/banditzCyber0x/CVE-2024-4956">
