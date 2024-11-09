@@ -870,6 +870,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50490](https://github.com/RandomRobbieBF/CVE-2024-50490)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50490">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50490">
 
 ---
+## CVE-2024-50488 (2024-10-28T13:15:00)
+> Authentication Bypass Using an Alternate Path or Channel vulnerability in Priyabrata Sarkar Token Login allows Authentication Bypass.This issue affects Token Login: from n/a through 1.0.3.
+- [RandomRobbieBF/CVE-2024-50488](https://github.com/RandomRobbieBF/CVE-2024-50488)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50488">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50488">
+
+---
 ## CVE-2024-50485 (2024-10-29T09:15:00)
 > : Incorrect Privilege Assignment vulnerability in Udit Rawat Exam Matrix allows Privilege Escalation.This issue affects Exam Matrix: from n/a through 1.5.
 - [RandomRobbieBF/CVE-2024-50485](https://github.com/RandomRobbieBF/CVE-2024-50485)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50485">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50485">
