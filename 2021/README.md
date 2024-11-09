@@ -8730,6 +8730,10 @@
 ## CVE-2021-20837 (2021-10-26T06:15:00)
 > Movable Type 7 r.5002 and earlier (Movable Type 7 Series), Movable Type 6.8.2 and earlier (Movable Type 6 Series), Movable Type Advanced 7 r.5002 and earlier (Movable Type Advanced 7 Series), Movable Type Advanced 6.8.2 and earlier (Movable Type Advanced 6 Series), Movable Type Premium 1.46 and earlier, and Movable Type Premium Advanced 1.46 and earlier allow remote attackers to execute arbitrary OS commands via unspecified vectors. Note that all versions of Movable Type 4.0 or later including unsupported (End-of-Life, EOL) versions are also affected by this vulnerability.
 - [lamcodeofpwnosec/CVE-2021-20837](https://github.com/lamcodeofpwnosec/CVE-2021-20837)	<img alt="forks" src="https://img.shields.io/github/forks/lamcodeofpwnosec/CVE-2021-20837">	<img alt="stars" src="https://img.shields.io/github/stars/lamcodeofpwnosec/CVE-2021-20837">
+- [orangmuda/CVE-2021-20837](https://github.com/orangmuda/CVE-2021-20837)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-20837">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-20837">
+- [bb33bb/CVE-2021-20837](https://github.com/bb33bb/CVE-2021-20837)	<img alt="forks" src="https://img.shields.io/github/forks/bb33bb/CVE-2021-20837">	<img alt="stars" src="https://img.shields.io/github/stars/bb33bb/CVE-2021-20837">
+- [Cosemz/CVE-2021-20837](https://github.com/Cosemz/CVE-2021-20837)	<img alt="forks" src="https://img.shields.io/github/forks/Cosemz/CVE-2021-20837">	<img alt="stars" src="https://img.shields.io/github/stars/Cosemz/CVE-2021-20837">
+- [ghost-nemesis/cve-2021-20837-poc](https://github.com/ghost-nemesis/cve-2021-20837-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ghost-nemesis/cve-2021-20837-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ghost-nemesis/cve-2021-20837-poc">
 
 ---
 ## CVE-2021-20784 (2021-07-14T02:15:00)
