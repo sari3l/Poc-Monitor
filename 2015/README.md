@@ -391,6 +391,7 @@
 - [h3inzzz/cve2015_1427](https://github.com/h3inzzz/cve2015_1427)	<img alt="forks" src="https://img.shields.io/github/forks/h3inzzz/cve2015_1427">	<img alt="stars" src="https://img.shields.io/github/stars/h3inzzz/cve2015_1427">
 - [cyberharsh/Groovy-scripting-engine-CVE-2015-1427](https://github.com/cyberharsh/Groovy-scripting-engine-CVE-2015-1427)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Groovy-scripting-engine-CVE-2015-1427">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Groovy-scripting-engine-CVE-2015-1427">
 - [t0kx/exploit-CVE-2015-1427](https://github.com/t0kx/exploit-CVE-2015-1427)	<img alt="forks" src="https://img.shields.io/github/forks/t0kx/exploit-CVE-2015-1427">	<img alt="stars" src="https://img.shields.io/github/stars/t0kx/exploit-CVE-2015-1427">
+- [Sebikea/CVE-2015-1427-for-trixie](https://github.com/Sebikea/CVE-2015-1427-for-trixie)	<img alt="forks" src="https://img.shields.io/github/forks/Sebikea/CVE-2015-1427-for-trixie">	<img alt="stars" src="https://img.shields.io/github/stars/Sebikea/CVE-2015-1427-for-trixie">
 
 ---
 ## CVE-2015-1421 (2015-03-16T10:59:00)
