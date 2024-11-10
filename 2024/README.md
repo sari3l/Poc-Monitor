@@ -6772,6 +6772,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Spid3heX/CVE-2024-1071-PoC-Script](https://github.com/Spid3heX/CVE-2024-1071-PoC-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Spid3heX/CVE-2024-1071-PoC-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Spid3heX/CVE-2024-1071-PoC-Script">
 
 ---
+## CVE-2024-10586 ()
+> 
+- [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10586">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10586">
+
+---
 ## CVE-2024-10470 ()
 > 
 - [RandomRobbieBF/CVE-2024-10470](https://github.com/RandomRobbieBF/CVE-2024-10470)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10470">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10470">
