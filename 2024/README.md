@@ -774,6 +774,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
 
 ---
+## CVE-2024-51665 ()
+> 
+- [RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-51665">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-51665">
+
+---
 ## CVE-2024-51567 (2024-10-29T23:15:00)
 > upgrademysqlstatus in databases/views.py in CyberPanel (aka Cyber Panel) before 5b08cd6 allows remote attackers to bypass authentication and execute arbitrary commands via /dataBases/upgrademysqlstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.
 - [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567)	<img alt="forks" src="https://img.shields.io/github/forks/ajayalf/CVE-2024-51567">	<img alt="stars" src="https://img.shields.io/github/stars/ajayalf/CVE-2024-51567">
@@ -6738,6 +6743,7 @@ authentication.   
 ## CVE-2024-10914 ()
 > 
 - [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/imnotcha0s/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/imnotcha0s/CVE-2024-10914">
+- [verylazytech/CVE-2024-10914](https://github.com/verylazytech/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-10914">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
