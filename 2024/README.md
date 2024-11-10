@@ -865,6 +865,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50498">
 
 ---
+## CVE-2024-50493 (2024-10-29T08:15:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in masterhomepage Automatic Translation allows Upload a Web Shell to a Web Server.This issue affects Automatic Translation: from n/a through 1.0.4.
+- [RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50493">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50493">
+
+---
 ## CVE-2024-50490 (2024-10-29T09:15:00)
 > Missing Authorization vulnerability in Szabolcs Szecsenyi PegaPoll allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects PegaPoll: from n/a through 1.0.2.
 - [RandomRobbieBF/CVE-2024-50490](https://github.com/RandomRobbieBF/CVE-2024-50490)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50490">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50490">
