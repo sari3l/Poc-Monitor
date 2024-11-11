@@ -5519,6 +5519,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [cc3305/CVE-2024-23897](https://github.com/cc3305/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2024-23897">
 - [zgimszhd61/CVE-2024-23897-poc](https://github.com/zgimszhd61/CVE-2024-23897-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23897-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23897-poc">
 - [safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC](https://github.com/safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC)	<img alt="forks" src="https://img.shields.io/github/forks/safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC">	<img alt="stars" src="https://img.shields.io/github/stars/safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC">
+- [tamatee/test_cve_2024_23897](https://github.com/tamatee/test_cve_2024_23897)	<img alt="forks" src="https://img.shields.io/github/forks/tamatee/test_cve_2024_23897">	<img alt="stars" src="https://img.shields.io/github/stars/tamatee/test_cve_2024_23897">
 
 ---
 ## CVE-2024-2389 ()
