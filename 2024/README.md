@@ -252,6 +252,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 > The The Events Calendar plugin for WordPress is vulnerable to SQL Injection via the 'order' parameter of the 'tribe_has_next_event' function in all versions up to, and including, 6.6.4 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. Only sites that have manually added tribe_has_next_event() will be vulnerable to this SQL injection.
 - [nothe1senberg/CVE-2024-8275](https://github.com/nothe1senberg/CVE-2024-8275)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-8275">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-8275">
 - [p33d/CVE-2024-8275](https://github.com/p33d/CVE-2024-8275)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-8275">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-8275">
+- [whiterose7777/CVE-2024-8275](https://github.com/whiterose7777/CVE-2024-8275)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-8275">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-8275">
 
 ---
 ## CVE-2024-8190 (2024-09-10T21:15:00)
@@ -1375,6 +1376,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [TOB1a3/CVE-2024-45519-PoC](https://github.com/TOB1a3/CVE-2024-45519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TOB1a3/CVE-2024-45519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TOB1a3/CVE-2024-45519-PoC">
 - [p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-45519">
 - [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-45519">
+- [whiterose7777/CVE-2024-45519](https://github.com/whiterose7777/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-45519">
 
 ---
 ## CVE-2024-45507 (2024-09-04T09:15:00)
@@ -1955,6 +1957,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 
 
 - [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-40725-CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-40725-CVE-2024-40898">
+- [whiterose7777/CVE-2024-40725-CVE-2024-40898](https://github.com/whiterose7777/CVE-2024-40725-CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-40725-CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-40725-CVE-2024-40898">
 
 ---
 ## CVE-2024-40711 (2024-09-07T17:15:00)
