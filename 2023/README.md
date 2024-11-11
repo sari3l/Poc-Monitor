@@ -1835,6 +1835,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [ilikeoyt/CVE-2023-4450-Attack](https://github.com/ilikeoyt/CVE-2023-4450-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/ilikeoyt/CVE-2023-4450-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/ilikeoyt/CVE-2023-4450-Attack">
 
 ---
+## CVE-2023-44488 (2023-09-30T20:15:00)
+> VP9 in libvpx before 1.13.1 mishandles widths, leading to a crash related to encoding.
+- [uthrasri/CVE-2023-44488-_libvpx_1.8.0](https://github.com/uthrasri/CVE-2023-44488-_libvpx_1.8.0)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-44488-_libvpx_1.8.0">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-44488-_libvpx_1.8.0">
+
+---
 ## CVE-2023-44487 (2023-10-10T14:15:00)
 > The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.
 - [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-44487">
