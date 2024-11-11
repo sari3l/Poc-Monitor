@@ -1221,6 +1221,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2024-47066">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2024-47066">
 
 ---
+## CVE-2024-47062 (2024-09-20T19:15:00)
+> Navidrome is an open source web-based music collection server and streamer. Navidrome automatically adds parameters in the URL to SQL queries. This can be exploited to access information by adding parameters like `password=...` in the URL (ORM Leak). Furthermore, the names of the parameters are not properly escaped, leading to SQL Injections. Finally, the username is used in a `LIKE` statement, allowing people to log in with `%` instead of their username. When adding parameters to the URL, they are automatically included in an SQL `LIKE` statement (depending on the parameter's name). This allows attackers to potentially retrieve arbitrary information. For example, attackers can use the following request to test whether some encrypted passwords start with `AAA`. This results in an SQL query like `password LIKE 'AAA%'`, allowing attackers to slowly brute-force passwords. When adding parameters to the URL, they are automatically added to an SQL query. The names of the parameters are not properly escaped. This behavior can be used to inject arbitrary SQL code (SQL Injection). These vulnerabilities can be used to leak information and dump the contents of the database and have been addressed in release version 0.53.0. Users are advised to upgrade. There are no known workarounds for this vulnerability.
+- [saisathvik1/CVE-2024-47062](https://github.com/saisathvik1/CVE-2024-47062)	<img alt="forks" src="https://img.shields.io/github/forks/saisathvik1/CVE-2024-47062">	<img alt="stars" src="https://img.shields.io/github/stars/saisathvik1/CVE-2024-47062">
+
+---
 ## CVE-2024-4701 (2024-05-14T15:44:00)
 > A path traversal issue potentially leading to remote code execution in Genie for all versions prior to 4.3.18
 - [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JoeBeeton/CVE-2024-4701-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JoeBeeton/CVE-2024-4701-POC">
