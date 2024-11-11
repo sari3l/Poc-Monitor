@@ -7160,6 +7160,11 @@ For more details, please review the linked advisory on this CVE.
 - [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943">
 
 ---
+## CVE-2023-20938 (2023-02-28T17:15:00)
+> In binder_transaction_buffer_release of binder.c, there is a possible use after free due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-257685302References: Upstream kernel
+- [pl4int3xt/CVE-2023-20938](https://github.com/pl4int3xt/CVE-2023-20938)	<img alt="forks" src="https://img.shields.io/github/forks/pl4int3xt/CVE-2023-20938">	<img alt="stars" src="https://img.shields.io/github/stars/pl4int3xt/CVE-2023-20938">
+
+---
 ## CVE-2023-20933 (2023-02-28T17:15:00)
 > In several functions of MediaCodec.cpp, there is a possible way to corrupt memory due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-245860753
 - [Trinadh465/frameworks_av_CVE-2023-20933](https://github.com/Trinadh465/frameworks_av_CVE-2023-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_av_CVE-2023-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_av_CVE-2023-20933">
