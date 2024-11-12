@@ -1296,6 +1296,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [h4ckr4v3n/CVE-2024-46209](https://github.com/h4ckr4v3n/CVE-2024-46209)	<img alt="forks" src="https://img.shields.io/github/forks/h4ckr4v3n/CVE-2024-46209">	<img alt="stars" src="https://img.shields.io/github/stars/h4ckr4v3n/CVE-2024-46209">
 
 ---
+## CVE-2024-45827 ()
+> 
+- [0xNslabs/CVE-2024-45827-PoC](https://github.com/0xNslabs/CVE-2024-45827-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xNslabs/CVE-2024-45827-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xNslabs/CVE-2024-45827-PoC">
+
+---
 ## CVE-2024-4577 (2024-06-09T20:15:00)
 > In PHP versions 8.1.* before 8.1.29, 8.2.* before 8.2.20, 8.3.* before 8.3.8, when using Apache and PHP-CGI on Windows, if the system is set up to use certain code pages, Windows may use "Best-Fit" behavior to replace characters in command line given to Win32 API functions. PHP CGI module may misinterpret those characters as PHP options, which may allow a malicious user to pass options to PHP binary being run, and thus reveal the source code of scripts, run arbitrary PHP code on the server, etc.
 - [TAM-K592/CVE-2024-4577](https://github.com/TAM-K592/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-4577">
