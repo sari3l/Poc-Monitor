@@ -5948,6 +5948,15 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh](https://github.com/srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh)	<img alt="forks" src="https://img.shields.io/github/forks/srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh">	<img alt="stars" src="https://img.shields.io/github/stars/srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh">
 
 ---
+## CVE-2023-2603 (2023-06-06T20:15:00)
+> A vulnerability was found in libcap. This issue occurs in the _libcap_strdup() function and can lead to an integer overflow if the input string is close to 4GiB.
+- [Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603](https://github.com/Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603">
+- [heapbytes/CVE-2023-26035](https://github.com/heapbytes/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/heapbytes/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/heapbytes/CVE-2023-26035">
+- [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-26035">
+- [0xfalafel/zoneminder_CVE-2023-26035](https://github.com/0xfalafel/zoneminder_CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/0xfalafel/zoneminder_CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/0xfalafel/zoneminder_CVE-2023-26035">
+- [Yuma-Tsushima07/CVE-2023-26035](https://github.com/Yuma-Tsushima07/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/Yuma-Tsushima07/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/Yuma-Tsushima07/CVE-2023-26035">
+
+---
 ## CVE-2023-2598 (2023-06-01T01:15:00)
 > A flaw was found in the fixed buffer registration code for io_uring (io_sqe_buffer_register in io_uring/rsrc.c) in the Linux kernel that allows out-of-bounds access to physical memory beyond the end of the buffer. This flaw enables full local privilege escalation.
 - [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598)	<img alt="forks" src="https://img.shields.io/github/forks/ysanatomic/io_uring_LPE-CVE-2023-2598">	<img alt="stars" src="https://img.shields.io/github/stars/ysanatomic/io_uring_LPE-CVE-2023-2598">
