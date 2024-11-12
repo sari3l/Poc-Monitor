@@ -2796,6 +2796,11 @@
 - [agarma/CVE-2020-24913-PoC](https://github.com/agarma/CVE-2020-24913-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/agarma/CVE-2020-24913-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/agarma/CVE-2020-24913-PoC">
 
 ---
+## CVE-2020-24881 (2020-11-02T21:15:00)
+> SSRF exists in osTicket before 1.14.3, where an attacker can add malicious file to server or perform port scanning.
+- [harshtech123/cve-2020-24881](https://github.com/harshtech123/cve-2020-24881)	<img alt="forks" src="https://img.shields.io/github/forks/harshtech123/cve-2020-24881">	<img alt="stars" src="https://img.shields.io/github/stars/harshtech123/cve-2020-24881">
+
+---
 ## CVE-2020-24815 (2020-11-24T17:15:00)
 > A Server-Side Request Forgery (SSRF) affecting the PDF generation in MicroStrategy 10.4, 2019 before Update 6, and 2020 before Update 2 allows authenticated users to access the content of internal network resources or leak files from the local system via HTML containers embedded in a dossier/dashboard document. NOTE: 10.4., no fix will be released as version will reach end-of-life on 31/12/2020.
 - [ziadanbari2021/exploit-CVE-2020-24815](https://github.com/ziadanbari2021/exploit-CVE-2020-24815)	<img alt="forks" src="https://img.shields.io/github/forks/ziadanbari2021/exploit-CVE-2020-24815">	<img alt="stars" src="https://img.shields.io/github/stars/ziadanbari2021/exploit-CVE-2020-24815">
