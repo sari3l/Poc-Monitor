@@ -946,6 +946,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-50340">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-50340">
 
 ---
+## CVE-2024-50251 ()
+> 
+- [slavin-ayu/CVE-2024-50251-PoC](https://github.com/slavin-ayu/CVE-2024-50251-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/slavin-ayu/CVE-2024-50251-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/slavin-ayu/CVE-2024-50251-PoC">
+
+---
 ## CVE-2024-5009 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an Improper Access Control vulnerability in Wug.UI.Controllers.InstallController.SetAdminPassword allows local attackers to modify admin's password.
 - [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-5009">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-5009">
