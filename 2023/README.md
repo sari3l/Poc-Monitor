@@ -7444,6 +7444,14 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002)	<img alt="forks" src="https://img.shields.io/github/forks/lrh2000/CVE-2023-2002">	<img alt="stars" src="https://img.shields.io/github/stars/lrh2000/CVE-2023-2002">
 
 ---
+## CVE-2023-1999 (2023-06-20T12:15:00)
+> There exists a use after free/double free in libwebp. An attacker can use the ApplyFiltersAndEncode() function and loop through to free best.bw and assign best = trial pointer. The second loop will then return 0 because of an Out of memory error in VP8 encoder, the pointer is still assigned to trial and the AddressSanitizer will attempt a double free. 
+
+- [Pazhanivelmani/webp_Android10_r33_CVE-2023-1999](https://github.com/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999">
+- [MarcusGutierrez/complex-vulnerabilities](https://github.com/MarcusGutierrez/complex-vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/MarcusGutierrez/complex-vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/MarcusGutierrez/complex-vulnerabilities">
+- [clearcdq/cve_poc](https://github.com/clearcdq/cve_poc)	<img alt="forks" src="https://img.shields.io/github/forks/clearcdq/cve_poc">	<img alt="stars" src="https://img.shields.io/github/stars/clearcdq/cve_poc">
+
+---
 ## CVE-2023-1874 (2023-04-12T14:15:00)
 > The WP Data Access plugin for WordPress is vulnerable to privilege escalation in versions up to, and including, 5.3.7. This is due to a lack of authorization checks on the multiple_roles_update function. This makes it possible for authenticated attackers, with minimal permissions such as a subscriber, to modify their user role by supplying the 'wpda_role[]' parameter during a profile update. This requires the 'Enable role management' setting to be enabled for the site.
 - [thomas-osgood/cve-2023-1874](https://github.com/thomas-osgood/cve-2023-1874)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/cve-2023-1874">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/cve-2023-1874">
