@@ -847,6 +847,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [BrotherOfJhonny/CVE-2024-51026_Overview](https://github.com/BrotherOfJhonny/CVE-2024-51026_Overview)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-51026_Overview">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-51026_Overview">
 
 ---
+## CVE-2024-50972 ()
+> 
+- [Akhlak2511/CVE-2024-50972](https://github.com/Akhlak2511/CVE-2024-50972)	<img alt="forks" src="https://img.shields.io/github/forks/Akhlak2511/CVE-2024-50972">	<img alt="stars" src="https://img.shields.io/github/stars/Akhlak2511/CVE-2024-50972">
+
+---
 ## CVE-2024-50971 ()
 > 
 - [Akhlak2511/CVE-2024-50971](https://github.com/Akhlak2511/CVE-2024-50971)	<img alt="forks" src="https://img.shields.io/github/forks/Akhlak2511/CVE-2024-50971">	<img alt="stars" src="https://img.shields.io/github/stars/Akhlak2511/CVE-2024-50971">
