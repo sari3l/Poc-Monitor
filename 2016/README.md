@@ -355,6 +355,11 @@
 - [Live-Hack-CVE/CVE-2016-6922](https://github.com/Live-Hack-CVE/CVE-2016-6922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6922">
 
 ---
+## CVE-2016-6328 (2018-10-31T22:29:00)
+> A vulnerability was found in libexif. An integer overflow when parsing the MNOTE entry data of the input file. This can cause Denial-of-Service (DoS) and Information Disclosure (disclosing some critical heap chunk metadata, even other applications' private data).
+- [Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328](https://github.com/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328">
+
+---
 ## CVE-2016-6306 (2016-09-26T19:59:00)
 > The certificate parser in OpenSSL before 1.0.1u and 1.0.2 before 1.0.2i might allow remote attackers to cause a denial of service (out-of-bounds read) via crafted certificate operations, related to s3_clnt.c and s3_srvr.c.
 - [nidhi7598/OPENSSL_1.0.1g_CVE-2016-6306](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6306)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6306">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6306">
