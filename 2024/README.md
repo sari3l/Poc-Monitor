@@ -983,6 +983,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [uixss/PoC-CVE-2024-4947](https://github.com/uixss/PoC-CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/uixss/PoC-CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/uixss/PoC-CVE-2024-4947">
 
 ---
+## CVE-2024-49368 (2024-10-21T17:15:00)
+> Nginx UI is a web user interface for the Nginx web server. Prior to version 2.0.0-beta.36, when Nginx UI configures logrotate, it does not verify the input and directly passes it to exec.Command, causing arbitrary command execution. Version 2.0.0-beta.36 fixes this issue.
+- [Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368)	<img alt="forks" src="https://img.shields.io/github/forks/Aashay221999/CVE-2024-49368">	<img alt="stars" src="https://img.shields.io/github/stars/Aashay221999/CVE-2024-49368">
+
+---
 ## CVE-2024-49328 (2024-10-20T08:15:00)
 > Authentication Bypass Using an Alternate Path or Channel vulnerability in Vivek Tamrakar WP REST API FNS allows Authentication Bypass.This issue affects WP REST API FNS: from n/a through 1.0.0.
 - [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49328">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49328">
