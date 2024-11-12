@@ -3145,6 +3145,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [iwallarm/cve-2024-3400](https://github.com/iwallarm/cve-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/iwallarm/cve-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/iwallarm/cve-2024-3400">
 - [tk-sawada/IPLineFinder](https://github.com/tk-sawada/IPLineFinder)	<img alt="forks" src="https://img.shields.io/github/forks/tk-sawada/IPLineFinder">	<img alt="stars" src="https://img.shields.io/github/stars/tk-sawada/IPLineFinder">
 - [workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/workshop748/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/workshop748/CVE-2024-3400">
+- [tfrederick74656/cve-2024-3400-poc](https://github.com/tfrederick74656/cve-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tfrederick74656/cve-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tfrederick74656/cve-2024-3400-poc">
 
 ---
 ## CVE-2024-33911 (2024-05-02T11:15:00)
