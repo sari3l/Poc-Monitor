@@ -185,6 +185,11 @@
 - [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-9014">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-9014">
 
 ---
+## CVE-2024-8963 (2024-09-19T18:15:00)
+> Path Traversal in the Ivanti CSA before 4.6 Patch 519 allows a remote unauthenticated attacker to access restricted functionality.
+- [patfire94/CVE-2024-8963](https://github.com/patfire94/CVE-2024-8963)	<img alt="forks" src="https://img.shields.io/github/forks/patfire94/CVE-2024-8963">	<img alt="stars" src="https://img.shields.io/github/stars/patfire94/CVE-2024-8963">
+
+---
 ## CVE-2024-8949 (2024-09-17T19:15:00)
 > A vulnerability classified as critical has been found in SourceCodester Online Eyewear Shop 1.0. This affects an unknown part of the file /classes/Master.php of the component Cart Content Handler. The manipulation of the argument cart_id/id leads to improper ownership management. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.
 - [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-8949-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-8949-POC">
