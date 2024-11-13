@@ -686,6 +686,13 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 - [OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/OxLmahdi/cve-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/OxLmahdi/cve-2024-5932">
 
 ---
+## CVE-2024-5910 (2024-07-10T19:15:00)
+> Missing authentication for a critical function in Palo Alto Networks Expedition can lead to an Expedition admin account takeover for attackers with network access to Expedition.
+
+Note: Expedition is a tool aiding in configuration migration, tuning, and enrichment. Configuration secrets, credentials, and other data imported into Expedition is at risk due to this issue.
+- [zetraxz/CVE-2024-5910](https://github.com/zetraxz/CVE-2024-5910)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-5910">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-5910">
+
+---
 ## CVE-2024-5899 (2024-06-18T09:15:00)
 > When Bazel Plugin in intellij imports a project (either using "import project" or "Auto import") the dialog for trusting the project is not displayed. This comes from the fact that both call the method ProjectBuilder.createProject which then calls ProjectManager.getInstance().createProject. This method, as its name suggests is intended to create a new project, not to import an existing one. 
 We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLion and Android Studio Bazel plugins.
