@@ -1856,6 +1856,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [exploitsecure/CVE-2024-43093](https://github.com/exploitsecure/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43093">
 - [hatvix1/CVE-2024-43093](https://github.com/hatvix1/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-43093">
 - [HatvixSupport/CVE-2024-43093](https://github.com/HatvixSupport/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/HatvixSupport/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/HatvixSupport/CVE-2024-43093">
+- [expl0itsecurity/CVE-2024-43093-43047](https://github.com/expl0itsecurity/CVE-2024-43093-43047)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-43093-43047">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-43093-43047">
 
 ---
 ## CVE-2024-43044 (2024-08-07T14:15:00)
