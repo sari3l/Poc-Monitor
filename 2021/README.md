@@ -8548,6 +8548,7 @@
 ## CVE-2021-21401 (2021-03-23T18:15:00)
 > Nanopb is a small code-size Protocol Buffers implementation in ansi C. In Nanopb before versions 0.3.9.8 and 0.4.5, decoding a specifically formed message can cause invalid `free()` or `realloc()` calls if the message type contains an `oneof` field, and the `oneof` directly contains both a pointer field and a non-pointer field. If the message data first contains the non-pointer field and then the pointer field, the data of the non-pointer field is incorrectly treated as if it was a pointer value. Such message data rarely occurs in normal messages, but it is a concern when untrusted data is parsed. This has been fixed in versions 0.3.9.8 and 0.4.5. See referenced GitHub Security Advisory for more information including workarounds.
 - [uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33](https://github.com/uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33">
+- [HimanshuS67/external_nanopb-c_AOSP10_CVE-2021-21401](https://github.com/HimanshuS67/external_nanopb-c_AOSP10_CVE-2021-21401)	<img alt="forks" src="https://img.shields.io/github/forks/HimanshuS67/external_nanopb-c_AOSP10_CVE-2021-21401">	<img alt="stars" src="https://img.shields.io/github/stars/HimanshuS67/external_nanopb-c_AOSP10_CVE-2021-21401">
 
 ---
 ## CVE-2021-21380 (2021-03-23T23:15:00)
