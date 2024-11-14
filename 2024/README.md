@@ -1343,6 +1343,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46451">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46451">
 
 ---
+## CVE-2024-46383 ()
+> 
+- [nitinronge91/Sensitive-Information-disclosure-via-SPI-flash-firmware-for-Hathway-router-CVE-2024-46383](https://github.com/nitinronge91/Sensitive-Information-disclosure-via-SPI-flash-firmware-for-Hathway-router-CVE-2024-46383)	<img alt="forks" src="https://img.shields.io/github/forks/nitinronge91/Sensitive-Information-disclosure-via-SPI-flash-firmware-for-Hathway-router-CVE-2024-46383">	<img alt="stars" src="https://img.shields.io/github/stars/nitinronge91/Sensitive-Information-disclosure-via-SPI-flash-firmware-for-Hathway-router-CVE-2024-46383">
+
+---
 ## CVE-2024-46377 (2024-09-18T21:15:00)
 > Best House Rental Management System 1.0 contains an arbitrary file upload vulnerability in the save_settings() function of the file rental/admin_class.php.
 - [vidura2/CVE-2024-46377](https://github.com/vidura2/CVE-2024-46377)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46377">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46377">
