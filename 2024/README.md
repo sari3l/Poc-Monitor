@@ -797,6 +797,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/CVE-2024-52302">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/CVE-2024-52302">
 
 ---
+## CVE-2024-52301 ()
+> 
+- [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-52301">
+
+---
 ## CVE-2024-51665 ()
 > 
 - [RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-51665">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-51665">
