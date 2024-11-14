@@ -2744,6 +2744,12 @@
 - [tucommenceapousser/CVE-2019-11932deta](https://github.com/tucommenceapousser/CVE-2019-11932deta)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2019-11932deta">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2019-11932deta">
 
 ---
+## CVE-2019-11869 (2019-05-09T23:29:00)
+> The Yuzo Related Posts plugin 5.12.94 for WordPress has XSS because it mistakenly expects that is_admin() verifies that the request comes from an admin user (it actually only verifies that the request is for an admin page). An unauthenticated attacker can inject a payload into the plugin settings, such as the yuzo_related_post_css_and_style setting.
+- [rix4uni/CVE-2019-11869](https://github.com/rix4uni/CVE-2019-11869)	<img alt="forks" src="https://img.shields.io/github/forks/rix4uni/CVE-2019-11869">	<img alt="stars" src="https://img.shields.io/github/stars/rix4uni/CVE-2019-11869">
+- [gitrecon1455/CVE-2019-11869](https://github.com/gitrecon1455/CVE-2019-11869)	<img alt="forks" src="https://img.shields.io/github/forks/gitrecon1455/CVE-2019-11869">	<img alt="stars" src="https://img.shields.io/github/stars/gitrecon1455/CVE-2019-11869">
+
+---
 ## CVE-2019-11823 (2020-05-04T10:15:00)
 > CRLF injection vulnerability in Network Center in Synology Router Manager (SRM) before 1.2.3-8017-2 allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via crafted network traffic.
 - [Live-Hack-CVE/CVE-2019-11823](https://github.com/Live-Hack-CVE/CVE-2019-11823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11823">
