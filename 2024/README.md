@@ -6872,6 +6872,11 @@ authentication.   
 - [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/reinh3rz/CVE-2024-10958-WPPA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/reinh3rz/CVE-2024-10958-WPPA-Exploit">
 
 ---
+## CVE-2024-10924 ()
+> 
+- [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10924">
+
+---
 ## CVE-2024-10914 ()
 > 
 - [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/imnotcha0s/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/imnotcha0s/CVE-2024-10914">
