@@ -388,6 +388,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [RandomRobbieBF/CVE-2024-7135](https://github.com/RandomRobbieBF/CVE-2024-7135)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-7135">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-7135">
 
 ---
+## CVE-2024-7124 ()
+> 
+- [kac89/CVE-2024-7124](https://github.com/kac89/CVE-2024-7124)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-7124">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-7124">
+
+---
 ## CVE-2024-7120 (2024-07-26T05:15:00)
 > A vulnerability, which was classified as critical, was found in Raisecom MSG1200, MSG2100E, MSG2200 and MSG2300 3.90. This affects an unknown part of the file list_base_config.php of the component Web Interface. The manipulation of the argument template leads to os command injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-272451.
 - [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
@@ -785,6 +790,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 
 The specific flaw exists within the product installer. The issue results from the use of a vulnerable version of Apache Tomcat. An attacker can leverage this vulnerability to execute code in the context of SYSTEM. Was ZDI-CAN-22868.
 - [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
+
+---
+## CVE-2024-52302 ()
+> 
+- [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/CVE-2024-52302">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/CVE-2024-52302">
 
 ---
 ## CVE-2024-51665 ()
@@ -1253,6 +1263,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [DaresNone/CVE-2024-47575](https://github.com/DaresNone/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/DaresNone/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/DaresNone/CVE-2024-47575">
 - [WotleAks/CVE-2024-47575](https://github.com/WotleAks/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/WotleAks/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/WotleAks/CVE-2024-47575">
 - [TaliBander/CVE-2024-47575](https://github.com/TaliBander/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/TaliBander/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/TaliBander/CVE-2024-47575">
+- [watchtowrlabs/Fortijump-Exploit-CVE-2024-47575](https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)

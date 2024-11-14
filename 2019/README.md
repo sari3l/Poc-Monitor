@@ -2179,6 +2179,7 @@
 - [shaheemirza/CiscoSpill](https://github.com/shaheemirza/CiscoSpill)	<img alt="forks" src="https://img.shields.io/github/forks/shaheemirza/CiscoSpill">	<img alt="stars" src="https://img.shields.io/github/stars/shaheemirza/CiscoSpill">
 - [0x27/CiscoRV320Dump](https://github.com/0x27/CiscoRV320Dump)	<img alt="forks" src="https://img.shields.io/github/forks/0x27/CiscoRV320Dump">	<img alt="stars" src="https://img.shields.io/github/stars/0x27/CiscoRV320Dump">
 - [dubfr33/CVE-2019-1653](https://github.com/dubfr33/CVE-2019-1653)	<img alt="forks" src="https://img.shields.io/github/forks/dubfr33/CVE-2019-1653">	<img alt="stars" src="https://img.shields.io/github/stars/dubfr33/CVE-2019-1653">
+- [elzerjp/nuclei-CiscoRV320Dump-CVE-2019-1653](https://github.com/elzerjp/nuclei-CiscoRV320Dump-CVE-2019-1653)	<img alt="forks" src="https://img.shields.io/github/forks/elzerjp/nuclei-CiscoRV320Dump-CVE-2019-1653">	<img alt="stars" src="https://img.shields.io/github/stars/elzerjp/nuclei-CiscoRV320Dump-CVE-2019-1653">
 
 ---
 ## CVE-2019-1649 (2019-05-13T19:29:00)
