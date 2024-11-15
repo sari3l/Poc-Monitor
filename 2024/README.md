@@ -51,6 +51,7 @@
 ## CVE-2024-9796 (2024-10-10T08:15:00)
 > The WP-Advanced-Search WordPress plugin before 3.3.9.2 does not sanitize and escape the t parameter before using it in a SQL statement, allowing unauthenticated users to perform SQL injection attacks
 - [RandomRobbieBF/CVE-2024-9796](https://github.com/RandomRobbieBF/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9796">
+- [issamiso/CVE-2024-9796](https://github.com/issamiso/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/issamiso/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/issamiso/CVE-2024-9796">
 
 ---
 ## CVE-2024-9680 (2024-10-09T13:15:00)
