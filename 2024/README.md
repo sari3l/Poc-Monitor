@@ -932,6 +932,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-50961">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-50961">
 
 ---
+## CVE-2024-50849 ()
+> 
+- [Wh1teSnak3/CVE-2024-50849](https://github.com/Wh1teSnak3/CVE-2024-50849)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50849">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50849">
+
+---
 ## CVE-2024-50848 ()
 > 
 - [Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50848">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50848">
