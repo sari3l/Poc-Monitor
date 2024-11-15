@@ -6024,6 +6024,11 @@ Successful exploitation of this vulnerability could allow the attacker to expose
 - [Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution](https://github.com/Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution">
 
 ---
+## CVE-2024-2242 (2024-03-13T22:15:00)
+> The Contact Form 7 plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the ‘active-tab’ parameter in all versions up to, and including, 5.9 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.
+- [RandomRobbieBF/CVE-2024-2242](https://github.com/RandomRobbieBF/CVE-2024-2242)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-2242">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-2242">
+
+---
 ## CVE-2024-22416 (2024-01-18T00:15:00)
 > pyLoad is a free and open-source Download Manager written in pure Python. The `pyload` API allows any API call to be made using GET requests. Since the session cookie is not set to `SameSite: strict`, this opens the library up to severe attack possibilities via a Cross-Site Request Forgery (CSRF) attack. As a result any API call can be made via a CSRF attack by an unauthenticated user. This issue has been addressed in release `0.5.0b3.dev78`. All users are advised to upgrade.
 - [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416)	<img alt="forks" src="https://img.shields.io/github/forks/mindstorm38/ensimag-secu3a-cve-2024-22416">	<img alt="stars" src="https://img.shields.io/github/stars/mindstorm38/ensimag-secu3a-cve-2024-22416">
