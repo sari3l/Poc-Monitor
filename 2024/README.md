@@ -809,6 +809,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-52301">
 
 ---
+## CVE-2024-51747 ()
+> 
+- [l20170217b/CVE-2024-51747](https://github.com/l20170217b/CVE-2024-51747)	<img alt="forks" src="https://img.shields.io/github/forks/l20170217b/CVE-2024-51747">	<img alt="stars" src="https://img.shields.io/github/stars/l20170217b/CVE-2024-51747">
+
+---
 ## CVE-2024-51665 ()
 > 
 - [RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-51665">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-51665">
