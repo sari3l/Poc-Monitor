@@ -17,6 +17,11 @@
 - [xiahao90/CVE-2023-8888.test](https://github.com/xiahao90/CVE-2023-8888.test)	<img alt="forks" src="https://img.shields.io/github/forks/xiahao90/CVE-2023-8888.test">	<img alt="stars" src="https://img.shields.io/github/stars/xiahao90/CVE-2023-8888.test">
 
 ---
+## CVE-2023-7261 (2024-06-07T20:15:00)
+> Inappropriate implementation in Google Updator prior to 1.3.36.351 in Google Chrome allowed a local attacker to perform privilege escalation via a malicious file. (Chromium security severity: High)
+- [zerozenxlabs/CVE-2023-7261](https://github.com/zerozenxlabs/CVE-2023-7261)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2023-7261">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2023-7261">
+
+---
 ## CVE-2023-7173 (2023-12-30T12:15:00)
 > A vulnerability, which was classified as problematic, was found in PHPGurukul Hospital Management System 1.0. This affects an unknown part of the file registration.php. The manipulation of the argument First Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-249357 was assigned to this vulnerability.
 - [sharathc213/CVE-2023-7173](https://github.com/sharathc213/CVE-2023-7173)	<img alt="forks" src="https://img.shields.io/github/forks/sharathc213/CVE-2023-7173">	<img alt="stars" src="https://img.shields.io/github/stars/sharathc213/CVE-2023-7173">
