@@ -1286,6 +1286,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [WotleAks/CVE-2024-47575](https://github.com/WotleAks/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/WotleAks/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/WotleAks/CVE-2024-47575">
 - [TaliBander/CVE-2024-47575](https://github.com/TaliBander/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/TaliBander/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/TaliBander/CVE-2024-47575">
 - [watchtowrlabs/Fortijump-Exploit-CVE-2024-47575](https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">
+- [expl0itsecurity/CVE-2024-47575](https://github.com/expl0itsecurity/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-47575">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
@@ -1863,6 +1864,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [Jaden1419/CVE-2024-43532](https://github.com/Jaden1419/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-43532">
 - [hatvix1/CVE-2024-43532](https://github.com/hatvix1/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-43532">
 - [ShawtyTwo/CVE-2024-43532](https://github.com/ShawtyTwo/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/ShawtyTwo/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/ShawtyTwo/CVE-2024-43532">
+- [expl0itsecurity/CVE-2024-43532](https://github.com/expl0itsecurity/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-43532">
 
 ---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
@@ -5877,6 +5879,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [zgimszhd61/CVE-2024-23114](https://github.com/zgimszhd61/CVE-2024-23114)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23114">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23114">
 - [puckiestyle/CVE-2024-23113](https://github.com/puckiestyle/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2024-23113">
 - [radoslavatanasov1/CVE-2024-23113](https://github.com/radoslavatanasov1/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/radoslavatanasov1/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/radoslavatanasov1/CVE-2024-23113">
+- [expl0itsecurity/CVE-2024-23113](https://github.com/expl0itsecurity/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-23113">
 
 ---
 ## CVE-2024-23112 (2024-03-12T15:15:00)
