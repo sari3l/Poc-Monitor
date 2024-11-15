@@ -6910,6 +6910,7 @@ authentication.   
 > 
 - [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/imnotcha0s/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/imnotcha0s/CVE-2024-10914">
 - [verylazytech/CVE-2024-10914](https://github.com/verylazytech/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-10914">
+- [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-)	<img alt="forks" src="https://img.shields.io/github/forks/Bu0uCat/D-Link-NAS-CVE-2024-10914-">	<img alt="stars" src="https://img.shields.io/github/stars/Bu0uCat/D-Link-NAS-CVE-2024-10914-">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
