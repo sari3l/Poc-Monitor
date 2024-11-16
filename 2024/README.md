@@ -954,6 +954,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-5084">
 
 ---
+## CVE-2024-50804 ()
+> 
+- [g3tsyst3m/CVE-2024-50804](https://github.com/g3tsyst3m/CVE-2024-50804)	<img alt="forks" src="https://img.shields.io/github/forks/g3tsyst3m/CVE-2024-50804">	<img alt="stars" src="https://img.shields.io/github/stars/g3tsyst3m/CVE-2024-50804">
+
+---
 ## CVE-2024-50803 ()
 > 
 - [Praison001/CVE-2024-50803-Redaxo](https://github.com/Praison001/CVE-2024-50803-Redaxo)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-50803-Redaxo">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-50803-Redaxo">
