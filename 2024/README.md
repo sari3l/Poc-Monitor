@@ -6798,6 +6798,7 @@ critical systems.
 - [codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-1698-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-1698-PoC">
 - [kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kamranhasan/CVE-2024-1698-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kamranhasan/CVE-2024-1698-Exploit">
 - [shanglyu/CVE-2024-1698](https://github.com/shanglyu/CVE-2024-1698)	<img alt="forks" src="https://img.shields.io/github/forks/shanglyu/CVE-2024-1698">	<img alt="stars" src="https://img.shields.io/github/stars/shanglyu/CVE-2024-1698">
+- [jesicatjan/WordPress-NotificationX-CVE-2024-1698](https://github.com/jesicatjan/WordPress-NotificationX-CVE-2024-1698)	<img alt="forks" src="https://img.shields.io/github/forks/jesicatjan/WordPress-NotificationX-CVE-2024-1698">	<img alt="stars" src="https://img.shields.io/github/stars/jesicatjan/WordPress-NotificationX-CVE-2024-1698">
 
 ---
 ## CVE-2024-1655 (2024-04-15T04:15:00)
