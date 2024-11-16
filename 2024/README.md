@@ -196,6 +196,11 @@
 - [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-8949-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-8949-POC">
 
 ---
+## CVE-2024-8856 ()
+> 
+- [ubaii/CVE-2024-8856](https://github.com/ubaii/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-8856">
+
+---
 ## CVE-2024-8752 (2024-09-16T16:15:00)
 > The Windows version of WebIQ 2.15.9 is affected by a directory traversal vulnerability that allows remote attackers to read any file on the system.
 - [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752)	<img alt="forks" src="https://img.shields.io/github/forks/D3anSPGDMS/CVE-2024-8752">	<img alt="stars" src="https://img.shields.io/github/stars/D3anSPGDMS/CVE-2024-8752">
