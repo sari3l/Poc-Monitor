@@ -1101,6 +1101,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [uixss/PoC-CVE-2024-4947](https://github.com/uixss/PoC-CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/uixss/PoC-CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/uixss/PoC-CVE-2024-4947">
 
 ---
+## CVE-2024-49379 ()
+> 
+- [OHDUDEOKNICE/CVE-2024-49379](https://github.com/OHDUDEOKNICE/CVE-2024-49379)	<img alt="forks" src="https://img.shields.io/github/forks/OHDUDEOKNICE/CVE-2024-49379">	<img alt="stars" src="https://img.shields.io/github/stars/OHDUDEOKNICE/CVE-2024-49379">
+
+---
 ## CVE-2024-49368 (2024-10-21T17:15:00)
 > Nginx UI is a web user interface for the Nginx web server. Prior to version 2.0.0-beta.36, when Nginx UI configures logrotate, it does not verify the input and directly passes it to exec.Command, causing arbitrary command execution. Version 2.0.0-beta.36 fixes this issue.
 - [Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368)	<img alt="forks" src="https://img.shields.io/github/forks/Aashay221999/CVE-2024-49368">	<img alt="stars" src="https://img.shields.io/github/stars/Aashay221999/CVE-2024-49368">
