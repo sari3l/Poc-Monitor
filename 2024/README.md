@@ -6986,6 +6986,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10793 ()
 > 
 - [windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10793">
+- [windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10793">
 
 ---
 ## CVE-2024-10728 ()
