@@ -6957,6 +6957,7 @@ authentication.   
 ## CVE-2024-10924 ()
 > 
 - [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10924">
+- [FoKiiin/CVE-2024-10924](https://github.com/FoKiiin/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10924">
 
 ---
 ## CVE-2024-10914 ()
