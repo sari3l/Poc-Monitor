@@ -7069,6 +7069,7 @@ vulnerability exists in the affected product. The vulnerability could allow a
 threat actor with network access to send crafted messages to the device, potentially
 resulting in database manipulation.
 - [zetraxz/CVE-2024-10386](https://github.com/zetraxz/CVE-2024-10386)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-10386">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-10386">
+- [zetraxz/CVE-2024-10386](https://github.com/zetraxz/CVE-2024-10386)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-10386">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-10386">
 
 ---
 ## CVE-2024-10245 ()
