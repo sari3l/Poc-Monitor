@@ -2600,6 +2600,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [VuongHuuAn/CVE-2024-38063](https://github.com/VuongHuuAn/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/VuongHuuAn/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/VuongHuuAn/CVE-2024-38063">
 - [AliHj98/cve-2024-38063-Anonyvader](https://github.com/AliHj98/cve-2024-38063-Anonyvader)	<img alt="forks" src="https://img.shields.io/github/forks/AliHj98/cve-2024-38063-Anonyvader">	<img alt="stars" src="https://img.shields.io/github/stars/AliHj98/cve-2024-38063-Anonyvader">
 - [Dragkob/CVE-2024-38063](https://github.com/Dragkob/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Dragkob/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Dragkob/CVE-2024-38063">
+- [selenagomez25/CVE-2024-38063](https://github.com/selenagomez25/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/selenagomez25/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/selenagomez25/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
