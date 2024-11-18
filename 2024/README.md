@@ -6990,6 +6990,7 @@ authentication.   
 > 
 - [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10924">
 - [FoKiiin/CVE-2024-10924](https://github.com/FoKiiin/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10924">
+- [m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">
 
 ---
 ## CVE-2024-10914 ()
