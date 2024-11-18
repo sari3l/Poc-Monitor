@@ -1582,12 +1582,14 @@
 - [raystyle/CVE-2019-2215](https://github.com/raystyle/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/raystyle/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/raystyle/CVE-2019-2215">
 - [jsirichai/CVE-2019-2215](https://github.com/jsirichai/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/jsirichai/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/jsirichai/CVE-2019-2215">
 - [jsirichai/CVE-2019-2215](https://github.com/jsirichai/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/jsirichai/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/jsirichai/CVE-2019-2215">
-- [jsirichai/CVE-2019-2215](https://github.com/jsirichai/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/jsirichai/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/jsirichai/CVE-2019-2215">
+- [stevejubx/CVE-2019-2215](https://github.com/stevejubx/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/stevejubx/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/stevejubx/CVE-2019-2215">
 - [willboka/CVE-2019-2215-HuaweiP20Lite](https://github.com/willboka/CVE-2019-2215-HuaweiP20Lite)	<img alt="forks" src="https://img.shields.io/github/forks/willboka/CVE-2019-2215-HuaweiP20Lite">	<img alt="stars" src="https://img.shields.io/github/stars/willboka/CVE-2019-2215-HuaweiP20Lite">
 - [mutur4/CVE-2019-2215](https://github.com/mutur4/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/mutur4/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/mutur4/CVE-2019-2215">
 - [raymontag/CVE-2019-2215](https://github.com/raymontag/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/CVE-2019-2215">
 - [CrackerCat/Rootsmart-v2.0](https://github.com/CrackerCat/Rootsmart-v2.0)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/Rootsmart-v2.0">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/Rootsmart-v2.0">
 - [ATorNinja/CVE-2019-2215](https://github.com/ATorNinja/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/ATorNinja/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/ATorNinja/CVE-2019-2215">
+- [XiaozaYa/CVE-2019-2215](https://github.com/XiaozaYa/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/XiaozaYa/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/XiaozaYa/CVE-2019-2215">
+- [R0rt1z2/huawei-unlock](https://github.com/R0rt1z2/huawei-unlock)	<img alt="forks" src="https://img.shields.io/github/forks/R0rt1z2/huawei-unlock">	<img alt="stars" src="https://img.shields.io/github/stars/R0rt1z2/huawei-unlock">
 
 ---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
