@@ -7059,6 +7059,18 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10410">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10410">
 
 ---
+## CVE-2024-10386 (2024-10-25T17:15:00)
+> CVE-2024-10386 IMPACT
+
+
+
+An authentication
+vulnerability exists in the affected product. The vulnerability could allow a
+threat actor with network access to send crafted messages to the device, potentially
+resulting in database manipulation.
+- [zetraxz/CVE-2024-10386](https://github.com/zetraxz/CVE-2024-10386)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-10386">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-10386">
+
+---
 ## CVE-2024-10245 ()
 > 
 - [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10245">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10245">
