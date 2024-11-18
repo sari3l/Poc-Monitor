@@ -2521,6 +2521,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [passtheticket/CVE-2024-38200](https://github.com/passtheticket/CVE-2024-38200)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2024-38200">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2024-38200">
 
 ---
+## CVE-2024-38193 (2024-08-13T18:15:00)
+> Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability
+- [Nephster/CVE-2024-38193](https://github.com/Nephster/CVE-2024-38193)	<img alt="forks" src="https://img.shields.io/github/forks/Nephster/CVE-2024-38193">	<img alt="stars" src="https://img.shields.io/github/stars/Nephster/CVE-2024-38193">
+
+---
 ## CVE-2024-38189 (2024-08-13T18:15:00)
 > Microsoft Project Remote Code Execution Vulnerability
 - [vx7z/CVE-2024-38189](https://github.com/vx7z/CVE-2024-38189)	<img alt="forks" src="https://img.shields.io/github/forks/vx7z/CVE-2024-38189">	<img alt="stars" src="https://img.shields.io/github/stars/vx7z/CVE-2024-38189">
