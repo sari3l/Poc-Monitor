@@ -7082,6 +7082,11 @@ resulting in database manipulation.
 - [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140)	<img alt="forks" src="https://img.shields.io/github/forks/holypryx/CVE-2024-10140">	<img alt="stars" src="https://img.shields.io/github/stars/holypryx/CVE-2024-10140">
 
 ---
+## CVE-2024-10015 ()
+> 
+- [windz3r0day/CVE-2024-10015](https://github.com/windz3r0day/CVE-2024-10015)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10015">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10015">
+
+---
 ## CVE-2024-10008 (2024-10-29T06:15:00)
 > The Masteriyo LMS – eLearning and Online Course Builder for WordPress plugin for WordPress is vulnerable to unauthorized user profile modification due to missing authorization checks on the /wp-json/masteriyo/v1/users/$id REST API endpoint in all versions up to, and including, 1.13.3. This makes it possible for authenticated attackers, with student-level access and above, to modify the roles of arbitrary users. As a result, attackers can escalate their privileges to the Administrator and demote existing administrators to students.
 - [RandomRobbieBF/CVE-2024-10008](https://github.com/RandomRobbieBF/CVE-2024-10008)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10008">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10008">
