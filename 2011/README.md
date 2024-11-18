@@ -60,6 +60,12 @@
 - [Live-Hack-CVE/CVE-2011-2522](https://github.com/Live-Hack-CVE/CVE-2011-2522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2522">
 
 ---
+## CVE-2011-1249 (2011-06-16T20:55:00)
+> The Ancillary Function Driver (AFD) in afd.sys in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP1 and SP2, Windows Server 2008 Gold, SP2, R2, and R2 SP1, and Windows 7 Gold and SP1 does not properly validate user-mode input, which allows local users to gain privileges via a crafted application, aka "Ancillary Function Driver Elevation of Privilege Vulnerability."
+- [n3rdh4x0r/CVE-2011-1249](https://github.com/n3rdh4x0r/CVE-2011-1249)	<img alt="forks" src="https://img.shields.io/github/forks/n3rdh4x0r/CVE-2011-1249">	<img alt="stars" src="https://img.shields.io/github/stars/n3rdh4x0r/CVE-2011-1249">
+- [Madusanka99/OHTS](https://github.com/Madusanka99/OHTS)	<img alt="forks" src="https://img.shields.io/github/forks/Madusanka99/OHTS">	<img alt="stars" src="https://img.shields.io/github/stars/Madusanka99/OHTS">
+
+---
 ## CVE-2011-0419 (2011-05-16T17:55:00)
 > Stack consumption vulnerability in the fnmatch implementation in apr_fnmatch.c in the Apache Portable Runtime (APR) library before 1.4.3 and the Apache HTTP Server before 2.2.18, and in fnmatch.c in libc in NetBSD 5.1, OpenBSD 4.8, FreeBSD, Apple Mac OS X 10.6, Oracle Solaris 10, and Android, allows context-dependent attackers to cause a denial of service (CPU and memory consumption) via *? sequences in the first argument, as demonstrated by attacks against mod_autoindex in httpd.
 - [Live-Hack-CVE/CVE-2011-0419](https://github.com/Live-Hack-CVE/CVE-2011-0419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-0419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-0419">
