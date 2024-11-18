@@ -7049,6 +7049,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [RandomRobbieBF/CVE-2024-10629](https://github.com/RandomRobbieBF/CVE-2024-10629)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10629">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10629">
 
 ---
+## CVE-2024-10592 ()
+> 
+- [windz3r0day/CVE-2024-10592](https://github.com/windz3r0day/CVE-2024-10592)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10592">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10592">
+
+---
 ## CVE-2024-10586 ()
 > 
 - [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10586">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10586">
