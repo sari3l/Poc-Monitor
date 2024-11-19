@@ -1126,6 +1126,8 @@
 - [zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717](https://github.com/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717)	<img alt="forks" src="https://img.shields.io/github/forks/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717">	<img alt="stars" src="https://img.shields.io/github/stars/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717">
 - [mefulton/cve-2017-12615](https://github.com/mefulton/cve-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/mefulton/cve-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/mefulton/cve-2017-12615">
 - [K3ysTr0K3R/CVE-2017-12615-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-12615-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-12615-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-12615-EXPLOIT">
+- [wudidwo/CVE-2017-12615-poc](https://github.com/wudidwo/CVE-2017-12615-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wudidwo/CVE-2017-12615-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wudidwo/CVE-2017-12615-poc">
+- [lizhianyuguangming/TomcatScanPro](https://github.com/lizhianyuguangming/TomcatScanPro)	<img alt="forks" src="https://img.shields.io/github/forks/lizhianyuguangming/TomcatScanPro">	<img alt="stars" src="https://img.shields.io/github/stars/lizhianyuguangming/TomcatScanPro">
 
 ---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
