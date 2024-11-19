@@ -1345,6 +1345,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [skyalliance/exploit-cve-2024-47575](https://github.com/skyalliance/exploit-cve-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/skyalliance/exploit-cve-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/skyalliance/exploit-cve-2024-47575">
 
 ---
+## CVE-2024-47533 ()
+> 
+- [zetraxz/CVE-2024-47533](https://github.com/zetraxz/CVE-2024-47533)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-47533">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-47533">
+
+---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
 > CUPS is a standards-based, open-source printing system, and `cups-browsed` contains network printing functionality including, but not limited to, auto-discovering print services and shared printers. `cups-browsed` binds to `INADDR_ANY:631`, causing it to trust any packet from any source, and can cause the `Get-Printer-Attributes` IPP request to an attacker controlled URL.
 
@@ -6834,6 +6839,11 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 ## CVE-2024-1931 (2024-03-07T10:15:00)
 > NLnet Labs Unbound version 1.18.0 up to and including version 1.19.1 contain a vulnerability that can cause denial of service by a certain code path that can lead to an infinite loop. Unbound 1.18.0 introduced a feature that removes EDE records from responses with size higher than the client's advertised buffer size. Before removing all the EDE records however, it would try to see if trimming the extra text fields on those records would result in an acceptable size while still retaining the EDE codes. Due to an unchecked condition, the code that trims the text of the EDE records could loop indefinitely. This happens when Unbound would reply with attached EDE information on a positive reply and the client's buffer size is smaller than the needed space to include EDE records. The vulnerability can only be triggered when the 'ede: yes' option is used; non default configuration. From version 1.19.2 on, the code is fixed to avoid looping indefinitely.
 - [passer12/CVE-2024-1931-reproduction](https://github.com/passer12/CVE-2024-1931-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/passer12/CVE-2024-1931-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/passer12/CVE-2024-1931-reproduction">
+
+---
+## CVE-2024-19002 ()
+> 
+- [adminlove520/cve-2024-19002](https://github.com/adminlove520/cve-2024-19002)	<img alt="forks" src="https://img.shields.io/github/forks/adminlove520/cve-2024-19002">	<img alt="stars" src="https://img.shields.io/github/stars/adminlove520/cve-2024-19002">
 
 ---
 ## CVE-2024-1874 (2024-04-29T04:15:00)
