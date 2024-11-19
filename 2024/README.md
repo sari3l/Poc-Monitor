@@ -7440,6 +7440,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015)	<img alt="forks" src="https://img.shields.io/github/forks/UmVfX1BvaW50/CVE-2024-0015">	<img alt="stars" src="https://img.shields.io/github/stars/UmVfX1BvaW50/CVE-2024-0015">
 
 ---
+## CVE-2024-0012 ()
+> 
+- [watchtowrlabs/palo-alto-panos-cve-2024-0012](https://github.com/watchtowrlabs/palo-alto-panos-cve-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/palo-alto-panos-cve-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/palo-alto-panos-cve-2024-0012">
+
+---
 ## CVE-2024-0001 (2024-09-23T18:15:00)
 > A condition exists in FlashArray Purity whereby a local account intended for initial array configuration remains active potentially allowing a malicious actor to gain elevated privileges.
 - [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001)	<img alt="forks" src="https://img.shields.io/github/forks/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">	<img alt="stars" src="https://img.shields.io/github/stars/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">
