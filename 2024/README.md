@@ -81,6 +81,11 @@
 - [hatvix1/CVE-2024-9537](https://github.com/hatvix1/CVE-2024-9537)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-9537">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-9537">
 
 ---
+## CVE-2024-9474 ()
+> 
+- [Chocapikk/CVE-2024-9474](https://github.com/Chocapikk/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-9474">
+
+---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
 > A cleartext storage of sensitive information vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to reveal firewall usernames, passwords, and API keys generated using those credentials.
 - [holypryx/CVE-2024-9466](https://github.com/holypryx/CVE-2024-9466)	<img alt="forks" src="https://img.shields.io/github/forks/holypryx/CVE-2024-9466">	<img alt="stars" src="https://img.shields.io/github/stars/holypryx/CVE-2024-9466">
