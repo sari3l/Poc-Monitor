@@ -495,6 +495,8 @@
 ## CVE-2018-3760 (2018-06-26T19:29:00)
 > There is an information leak vulnerability in Sprockets. Versions Affected: 4.0.0.beta7 and lower, 3.7.1 and lower, 2.12.4 and lower. Specially crafted requests can be used to access files that exists on the filesystem that is outside an application's root directory, when the Sprockets server is used in production. All users running an affected release should either upgrade or use one of the work arounds immediately.
 - [wudidwo/CVE-2018-3760-poc](https://github.com/wudidwo/CVE-2018-3760-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wudidwo/CVE-2018-3760-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wudidwo/CVE-2018-3760-poc">
+- [cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-](https://github.com/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-">
+- [mpgn/CVE-2018-3760](https://github.com/mpgn/CVE-2018-3760)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2018-3760">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2018-3760">
 
 ---
 ## CVE-2018-3282 (2018-10-17T01:31:00)
