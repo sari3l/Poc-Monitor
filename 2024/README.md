@@ -806,6 +806,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2024-5274">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2024-5274">
 
 ---
+## CVE-2024-52711 ()
+> 
+- [14mb1v45h/cyberspace-CVE-2024-52711](https://github.com/14mb1v45h/cyberspace-CVE-2024-52711)	<img alt="forks" src="https://img.shields.io/github/forks/14mb1v45h/cyberspace-CVE-2024-52711">	<img alt="stars" src="https://img.shields.io/github/stars/14mb1v45h/cyberspace-CVE-2024-52711">
+
+---
 ## CVE-2024-5246 (2024-05-23T22:15:00)
 > NETGEAR ProSAFE Network Management System Tomcat Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of NETGEAR ProSAFE Network Management System. Authentication is required to exploit this vulnerability.
 
