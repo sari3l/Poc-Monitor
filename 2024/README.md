@@ -84,6 +84,7 @@
 ## CVE-2024-9474 ()
 > 
 - [Chocapikk/CVE-2024-9474](https://github.com/Chocapikk/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-9474">
+- [k4nfr3/CVE-2024-9474](https://github.com/k4nfr3/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/k4nfr3/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/k4nfr3/CVE-2024-9474">
 
 ---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
