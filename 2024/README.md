@@ -7463,6 +7463,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 ## CVE-2024-0012 ()
 > 
 - [watchtowrlabs/palo-alto-panos-cve-2024-0012](https://github.com/watchtowrlabs/palo-alto-panos-cve-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/palo-alto-panos-cve-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/palo-alto-panos-cve-2024-0012">
+- [Sachinart/CVE-2024-0012-POC](https://github.com/Sachinart/CVE-2024-0012-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2024-0012-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2024-0012-POC">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)
