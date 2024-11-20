@@ -2075,6 +2075,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [rvizx/CVE-2024-42640](https://github.com/rvizx/CVE-2024-42640)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-42640">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-42640">
 - [im-hanzou/CVE-2024-42640-Mass-Checker](https://github.com/im-hanzou/CVE-2024-42640-Mass-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/CVE-2024-42640-Mass-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/CVE-2024-42640-Mass-Checker">
 - [XiaomingX/CVE-2024-42640](https://github.com/XiaomingX/CVE-2024-42640)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-42640">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-42640">
+- [KTN1990/CVE-2024-42640](https://github.com/KTN1990/CVE-2024-42640)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-42640">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-42640">
 
 ---
 ## CVE-2024-42461 (2024-08-02T07:16:00)
