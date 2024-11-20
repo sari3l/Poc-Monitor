@@ -5412,6 +5412,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Fire-Null/CVE-2023-28424](https://github.com/Fire-Null/CVE-2023-28424)	<img alt="forks" src="https://img.shields.io/github/forks/Fire-Null/CVE-2023-28424">	<img alt="stars" src="https://img.shields.io/github/stars/Fire-Null/CVE-2023-28424">
 
 ---
+## CVE-2023-28354 ()
+> 
+- [stormfleet/CVE-2023-28354](https://github.com/stormfleet/CVE-2023-28354)	<img alt="forks" src="https://img.shields.io/github/forks/stormfleet/CVE-2023-28354">	<img alt="stars" src="https://img.shields.io/github/stars/stormfleet/CVE-2023-28354">
+
+---
 ## CVE-2023-28343 (2023-03-14T20:15:00)
 > OS command injection affects Altenergy Power Control Software C1.2.5 via shell metacharacters in the index.php/management/set_timezone timezone parameter, because of set_timezone in models/management_model.php.
 - [gobysec/CVE-2023-28343](https://github.com/gobysec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-28343">
