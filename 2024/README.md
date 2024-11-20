@@ -7052,6 +7052,7 @@ authentication.   
 - [m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">
 - [MattJButler/CVE-2024-10924](https://github.com/MattJButler/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/MattJButler/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/MattJButler/CVE-2024-10924">
 - [m3ssap0/wordpress-really-simple-security-authn-bypass-exploit](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit">
+- [julesbsz/CVE-2024-10924](https://github.com/julesbsz/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/julesbsz/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/julesbsz/CVE-2024-10924">
 
 ---
 ## CVE-2024-10914 ()
