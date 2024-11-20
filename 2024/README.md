@@ -85,6 +85,7 @@
 > 
 - [Chocapikk/CVE-2024-9474](https://github.com/Chocapikk/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-9474">
 - [k4nfr3/CVE-2024-9474](https://github.com/k4nfr3/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/k4nfr3/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/k4nfr3/CVE-2024-9474">
+- [hazesecurity/CVE-2024-9474](https://github.com/hazesecurity/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/hazesecurity/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/hazesecurity/CVE-2024-9474">
 
 ---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
@@ -7058,6 +7059,7 @@ authentication.   
 - [MattJButler/CVE-2024-10924](https://github.com/MattJButler/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/MattJButler/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/MattJButler/CVE-2024-10924">
 - [m3ssap0/wordpress-really-simple-security-authn-bypass-exploit](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit">
 - [julesbsz/CVE-2024-10924](https://github.com/julesbsz/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/julesbsz/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/julesbsz/CVE-2024-10924">
+- [Trackflaw/CVE-2024-10924-Wordpress-Docker](https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2024-10924-Wordpress-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2024-10924-Wordpress-Docker">
 
 ---
 ## CVE-2024-10914 ()
