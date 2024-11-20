@@ -225,6 +225,11 @@
 - [SirEagIe/CVE-2017-7529](https://github.com/SirEagIe/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/SirEagIe/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/SirEagIe/CVE-2017-7529">
 
 ---
+## CVE-2017-7504 (2017-05-19T20:29:00)
+> HTTPServerILServlet.java in JMS over HTTP Invocation Layer of the JbossMQ implementation, which is enabled by default in Red Hat Jboss Application Server <= Jboss 4.X does not restrict the classes for which it performs deserialization, which allows remote attackers to execute arbitrary code via crafted serialized data.
+- [wudidwo/CVE-2017-7504-poc](https://github.com/wudidwo/CVE-2017-7504-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wudidwo/CVE-2017-7504-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wudidwo/CVE-2017-7504-poc">
+
+---
 ## CVE-2017-75 ()
 > 
 - [CalebFIN/EXP-CVE-2017-75](https://github.com/CalebFIN/EXP-CVE-2017-75)	<img alt="forks" src="https://img.shields.io/github/forks/CalebFIN/EXP-CVE-2017-75">	<img alt="stars" src="https://img.shields.io/github/stars/CalebFIN/EXP-CVE-2017-75">
