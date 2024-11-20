@@ -827,6 +827,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-52316 ()
 > 
 - [famixcm/CVE-2024-52316](https://github.com/famixcm/CVE-2024-52316)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-52316">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-52316">
+- [TAM-K592/CVE-2024-52316-](https://github.com/TAM-K592/CVE-2024-52316-)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-52316-">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-52316-">
 
 ---
 ## CVE-2024-52303 ()
