@@ -7203,6 +7203,7 @@ resulting in database manipulation.
 ## CVE-2024-10220 ()
 > 
 - [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/mochizuki875/CVE-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/mochizuki875/CVE-2024-10220-githooks">
+- [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/mochizuki875/CVE-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/mochizuki875/CVE-2024-10220-githooks">
 
 ---
 ## CVE-2024-10140 (2024-10-19T15:15:00)
