@@ -7200,6 +7200,11 @@ resulting in database manipulation.
 - [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10245">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10245">
 
 ---
+## CVE-2024-10220 ()
+> 
+- [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/mochizuki875/CVE-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/mochizuki875/CVE-2024-10220-githooks">
+
+---
 ## CVE-2024-10140 (2024-10-19T15:15:00)
 > A vulnerability, which was classified as critical, has been found in code-projects Pharmacy Management System 1.0. Affected by this issue is some unknown functionality of the file /manage_supplier.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.
 - [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140)	<img alt="forks" src="https://img.shields.io/github/forks/holypryx/CVE-2024-10140">	<img alt="stars" src="https://img.shields.io/github/stars/holypryx/CVE-2024-10140">
