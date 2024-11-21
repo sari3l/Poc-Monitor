@@ -944,6 +944,7 @@
 - [Carlos-Mesquita/TPASLog4ShellPoC](https://github.com/Carlos-Mesquita/TPASLog4ShellPoC)	<img alt="forks" src="https://img.shields.io/github/forks/Carlos-Mesquita/TPASLog4ShellPoC">	<img alt="stars" src="https://img.shields.io/github/stars/Carlos-Mesquita/TPASLog4ShellPoC">
 - [Super-Binary/cve-2021-44228](https://github.com/Super-Binary/cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Super-Binary/cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Super-Binary/cve-2021-44228">
 - [AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-](https://github.com/AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-">
+- [cve-2021-44228/cve-2021-44228](https://github.com/cve-2021-44228/cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2021-44228/cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2021-44228/cve-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
