@@ -1172,6 +1172,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49328">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49328">
 
 ---
+## CVE-2024-49203 ()
+> 
+- [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203)	<img alt="forks" src="https://img.shields.io/github/forks/CSIRTTrizna/CVE-2024-49203">	<img alt="stars" src="https://img.shields.io/github/stars/CSIRTTrizna/CVE-2024-49203">
+
+---
 ## CVE-2024-49186 ()
 > 
 - [cyb3res3c/CVE-2024-49186](https://github.com/cyb3res3c/CVE-2024-49186)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-49186">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-49186">
@@ -4472,6 +4477,11 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [horizon3ai/CVE-2024-29824](https://github.com/horizon3ai/CVE-2024-29824)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-29824">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-29824">
 - [R4be1/CVE-2024-29824](https://github.com/R4be1/CVE-2024-29824)	<img alt="forks" src="https://img.shields.io/github/forks/R4be1/CVE-2024-29824">	<img alt="stars" src="https://img.shields.io/github/stars/R4be1/CVE-2024-29824">
 - [codeb0ss/CVE-2024-29824-PoC](https://github.com/codeb0ss/CVE-2024-29824-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-29824-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-29824-PoC">
+
+---
+## CVE-2024-29671 ()
+> 
+- [laskdjlaskdj12/CVE-2024-29671-POC](https://github.com/laskdjlaskdj12/CVE-2024-29671-POC)	<img alt="forks" src="https://img.shields.io/github/forks/laskdjlaskdj12/CVE-2024-29671-POC">	<img alt="stars" src="https://img.shields.io/github/stars/laskdjlaskdj12/CVE-2024-29671-POC">
 
 ---
 ## CVE-2024-2961 (2024-04-17T18:15:00)
