@@ -834,6 +834,16 @@ The specific flaw exists within the product installer. The issue results from th
 - [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
 
 ---
+## CVE-2024-52318 ()
+> 
+- [TAM-K592/CVE-2024-52318](https://github.com/TAM-K592/CVE-2024-52318)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-52318">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-52318">
+
+---
+## CVE-2024-52317 ()
+> 
+- [TAM-K592/CVE-2024-52317](https://github.com/TAM-K592/CVE-2024-52317)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-52317">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-52317">
+
+---
 ## CVE-2024-52316 ()
 > 
 - [famixcm/CVE-2024-52316](https://github.com/famixcm/CVE-2024-52316)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-52316">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-52316">
@@ -995,6 +1005,9 @@ The specific flaw exists within the product installer. The issue results from th
 - [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-5084">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-5084">
+- [z1gazaga/CVE-2024-5084](https://github.com/z1gazaga/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/z1gazaga/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/z1gazaga/CVE-2024-5084">
+- [Wh1teSnak3/CVE-2024-50849](https://github.com/Wh1teSnak3/CVE-2024-50849)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50849">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50849">
+- [Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50848">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50848">
 
 ---
 ## CVE-2024-50804 ()
