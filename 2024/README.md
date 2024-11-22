@@ -1945,6 +1945,13 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [zgimszhd61/CVE-2024-44000](https://github.com/zgimszhd61/CVE-2024-44000)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-44000">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-44000">
 
 ---
+## CVE-2024-43919 (2024-11-01T15:15:00)
+> Access Control vulnerability in YARPP YARPP allows .
+
+This issue affects YARPP: from n/a through 5.30.10.
+- [RandomRobbieBF/CVE-2024-43919](https://github.com/RandomRobbieBF/CVE-2024-43919)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-43919">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-43919">
+
+---
 ## CVE-2024-43918 (2024-08-29T15:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WBW WBW Product Table PRO allows SQL Injection.This issue affects WBW Product Table PRO: from n/a through 1.9.4.
 - [KTN1990/CVE-2024-43918](https://github.com/KTN1990/CVE-2024-43918)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-43918">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-43918">
