@@ -120,6 +120,7 @@
 - [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-9441">
 - [abhishekrautela/CVE-2024-9441](https://github.com/abhishekrautela/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/abhishekrautela/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/abhishekrautela/CVE-2024-9441">
 - [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-9441">
+- [XiaomingX/cve-2024-9441-poc](https://github.com/XiaomingX/cve-2024-9441-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-9441-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-9441-poc">
 
 ---
 ## CVE-2024-9380 (2024-10-08T17:15:00)
@@ -1610,6 +1611,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-45519">
 - [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-45519">
 - [whiterose7777/CVE-2024-45519](https://github.com/whiterose7777/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-45519">
+- [XiaomingX/cve-2024-45519-POC](https://github.com/XiaomingX/cve-2024-45519-POC)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-45519-POC">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-45519-POC">
 
 ---
 ## CVE-2024-45507 (2024-09-04T09:15:00)
@@ -6034,6 +6036,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [puckiestyle/CVE-2024-23113](https://github.com/puckiestyle/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2024-23113">
 - [radoslavatanasov1/CVE-2024-23113](https://github.com/radoslavatanasov1/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/radoslavatanasov1/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/radoslavatanasov1/CVE-2024-23113">
 - [expl0itsecurity/CVE-2024-23113](https://github.com/expl0itsecurity/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-23113">
+- [XiaomingX/cve-2024-23113-exp](https://github.com/XiaomingX/cve-2024-23113-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-23113-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-23113-exp">
 
 ---
 ## CVE-2024-23112 (2024-03-12T15:15:00)
