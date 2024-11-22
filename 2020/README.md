@@ -1496,6 +1496,7 @@
 - [Cappricio-Securities/CVE-2020-35489](https://github.com/Cappricio-Securities/CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2020-35489">
 - [aifuzzer/poc-CVE-2020-35489](https://github.com/aifuzzer/poc-CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/aifuzzer/poc-CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/aifuzzer/poc-CVE-2020-35489">
 - [aitech66/poc-CVE-2020-35489](https://github.com/aitech66/poc-CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/aitech66/poc-CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/aitech66/poc-CVE-2020-35489">
+- [g1thubb002/poc-CVE-2020-35489](https://github.com/g1thubb002/poc-CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/g1thubb002/poc-CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/g1thubb002/poc-CVE-2020-35489">
 
 ---
 ## CVE-2020-35479 (2020-12-18T08:15:00)
