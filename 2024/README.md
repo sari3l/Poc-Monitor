@@ -2940,6 +2940,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/netuseradministrator/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/netuseradministrator/CVE-2024-36401">
 - [kkhackz0013/CVE-2024-36401](https://github.com/kkhackz0013/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/kkhackz0013/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/kkhackz0013/CVE-2024-36401">
 - [thestar0/CVE-2024-36401-WoodpeckerPlugin](https://github.com/thestar0/CVE-2024-36401-WoodpeckerPlugin)	<img alt="forks" src="https://img.shields.io/github/forks/thestar0/CVE-2024-36401-WoodpeckerPlugin">	<img alt="stars" src="https://img.shields.io/github/stars/thestar0/CVE-2024-36401-WoodpeckerPlugin">
+- [XiaomingX/CVE-2024-36401-poc](https://github.com/XiaomingX/CVE-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-36401-poc">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
@@ -5072,6 +5073,7 @@ QTS 5.1.7.2770 build 20240520 and later
 QuTS hero h5.1.7.2770 build 20240520 and later
 - [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-27130">
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
+- [XiaomingX/CVE-2024-27130-poc](https://github.com/XiaomingX/CVE-2024-27130-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-27130-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-27130-poc">
 
 ---
 ## CVE-2024-27088 (2024-02-26T17:15:00)
@@ -7570,6 +7572,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [hazesecurity/CVE-2024-0012](https://github.com/hazesecurity/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/hazesecurity/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/hazesecurity/CVE-2024-0012">
 - [VegetableLasagne/CVE-2024-0012](https://github.com/VegetableLasagne/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/VegetableLasagne/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/VegetableLasagne/CVE-2024-0012">
 - [iSee857/CVE-2024-0012-poc](https://github.com/iSee857/CVE-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-0012-poc">
+- [XiaomingX/cve-2024-0012-poc](https://github.com/XiaomingX/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-0012-poc">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)
