@@ -7428,6 +7428,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Codeb3af/CVE-2023-20198-RCE](https://github.com/Codeb3af/CVE-2023-20198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Codeb3af/CVE-2023-20198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Codeb3af/CVE-2023-20198-RCE">
 - [sanan2004/CVE-2023-20198](https://github.com/sanan2004/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2023-20198">
 - [AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-](https://github.com/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-">
+- [XiaomingX/CVE-2023-20198-poc](https://github.com/XiaomingX/CVE-2023-20198-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2023-20198-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2023-20198-poc">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
