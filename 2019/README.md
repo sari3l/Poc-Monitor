@@ -1553,6 +1553,11 @@
 - [Live-Hack-CVE/CVE-2019-25072](https://github.com/Live-Hack-CVE/CVE-2019-25072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25072">
 
 ---
+## CVE-2019-25065 (2022-06-09T17:15:00)
+> A vulnerability was found in OpenNetAdmin 18.1.1. It has been rated as critical. Affected by this issue is some unknown functionality. The manipulation leads to privilege escalation. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.
+- [sagisar1/CVE-2019-25065-exploit](https://github.com/sagisar1/CVE-2019-25065-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sagisar1/CVE-2019-25065-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sagisar1/CVE-2019-25065-exploit">
+
+---
 ## CVE-2019-25013 (2021-01-04T18:15:00)
 > The iconv feature in the GNU C Library (aka glibc or libc6) through 2.32, when processing invalid multi-byte input sequences in the EUC-KR encoding, may have a buffer over-read.
 - [Live-Hack-CVE/CVE-2019-25013](https://github.com/Live-Hack-CVE/CVE-2019-25013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25013">
