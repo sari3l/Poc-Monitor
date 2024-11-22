@@ -7557,6 +7557,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [greaselovely/CVE-2024-0012](https://github.com/greaselovely/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/greaselovely/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/greaselovely/CVE-2024-0012">
 - [hazesecurity/CVE-2024-0012](https://github.com/hazesecurity/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/hazesecurity/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/hazesecurity/CVE-2024-0012">
 - [VegetableLasagne/CVE-2024-0012](https://github.com/VegetableLasagne/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/VegetableLasagne/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/VegetableLasagne/CVE-2024-0012">
+- [iSee857/CVE-2024-0012-poc](https://github.com/iSee857/CVE-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-0012-poc">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)
