@@ -796,6 +796,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [justmexD8/CVE-2024-5458-POC](https://github.com/justmexD8/CVE-2024-5458-POC)	<img alt="forks" src="https://img.shields.io/github/forks/justmexD8/CVE-2024-5458-POC">	<img alt="stars" src="https://img.shields.io/github/stars/justmexD8/CVE-2024-5458-POC">
 
 ---
+## CVE-2024-5452 (2024-06-06T18:15:00)
+> A remote code execution (RCE) vulnerability exists in the lightning-ai/pytorch-lightning library version 2.2.1 due to improper handling of deserialized user input and mismanagement of dunder attributes by the `deepdiff` library. The library uses `deepdiff.Delta` objects to modify application state based on frontend actions. However, it is possible to bypass the intended restrictions on modifying dunder attributes, allowing an attacker to construct a serialized delta that passes the deserializer whitelist and contains dunder attributes. When processed, this can be exploited to access other modules, classes, and instances, leading to arbitrary attribute write and total RCE on any self-hosted pytorch-lightning application in its default configuration, as the delta endpoint is enabled by default.
+- [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-5452-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-5452-poc">
+
+---
 ## CVE-2024-5420 (2024-06-04T08:15:00)
 > Missing input validation in the SEH Computertechnik utnserver Pro, SEH Computertechnik utnserver ProMAX, SEH Computertechnik INU-100 web-interface allows stored Cross-Site Scripting (XSS)..This issue affects utnserver Pro, utnserver ProMAX, INU-100 version 20.1.22 and below.
 - [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-5420-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-5420-XSS">
