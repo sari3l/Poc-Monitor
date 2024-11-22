@@ -835,6 +835,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [J-0k3r/CVE-2024-52677](https://github.com/J-0k3r/CVE-2024-52677)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2024-52677">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2024-52677">
 
 ---
+## CVE-2024-52475 ()
+> 
+- [ubaii/CVE-2024-52475](https://github.com/ubaii/CVE-2024-52475)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-52475">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-52475">
+
+---
 ## CVE-2024-5246 (2024-05-23T22:15:00)
 > NETGEAR ProSAFE Network Management System Tomcat Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of NETGEAR ProSAFE Network Management System. Authentication is required to exploit this vulnerability.
 
@@ -1214,6 +1219,7 @@ The specific flaw exists within the product installer. The issue results from th
 > 
 - [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/makuga01/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/makuga01/CVE-2024-48990-PoC">
 - [ns989/CVE-2024-48990](https://github.com/ns989/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/ns989/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/ns989/CVE-2024-48990">
+- [felmoltor/CVE-2024-48990](https://github.com/felmoltor/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/felmoltor/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/felmoltor/CVE-2024-48990">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
