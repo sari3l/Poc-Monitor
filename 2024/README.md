@@ -1195,6 +1195,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-48990 ()
 > 
 - [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/makuga01/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/makuga01/CVE-2024-48990-PoC">
+- [ns989/CVE-2024-48990](https://github.com/ns989/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/ns989/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/ns989/CVE-2024-48990">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)

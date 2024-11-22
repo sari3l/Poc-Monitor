@@ -2825,6 +2825,7 @@
 - [nop2nop/cve-2019-11248](https://github.com/nop2nop/cve-2019-11248)	<img alt="forks" src="https://img.shields.io/github/forks/nop2nop/cve-2019-11248">	<img alt="stars" src="https://img.shields.io/github/stars/nop2nop/cve-2019-11248">
 - [masm3264/poc-CVE-2019-11248](https://github.com/masm3264/poc-CVE-2019-11248)	<img alt="forks" src="https://img.shields.io/github/forks/masm3264/poc-CVE-2019-11248">	<img alt="stars" src="https://img.shields.io/github/stars/masm3264/poc-CVE-2019-11248">
 - [nod3jzzz/poc-CVE-2019-11248](https://github.com/nod3jzzz/poc-CVE-2019-11248)	<img alt="forks" src="https://img.shields.io/github/forks/nod3jzzz/poc-CVE-2019-11248">	<img alt="stars" src="https://img.shields.io/github/stars/nod3jzzz/poc-CVE-2019-11248">
+- [g1thubb001/poc-CVE-2019-11248](https://github.com/g1thubb001/poc-CVE-2019-11248)	<img alt="forks" src="https://img.shields.io/github/forks/g1thubb001/poc-CVE-2019-11248">	<img alt="stars" src="https://img.shields.io/github/stars/g1thubb001/poc-CVE-2019-11248">
 
 ---
 ## CVE-2019-11113 (2019-11-14T20:15:00)
