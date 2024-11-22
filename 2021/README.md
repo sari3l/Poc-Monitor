@@ -6442,6 +6442,7 @@
 ## CVE-2021-29442 (2021-04-27T21:15:00)
 > Nacos is a platform designed for dynamic service discovery and configuration and service management. In Nacos before version 1.4.1, the ConfigOpsController lets the user perform management operations like querying the database or even wiping it out. While the /data/remove endpoint is properly protected with the @Secured annotation, the /derby endpoint is not protected and can be openly accessed by unauthenticated users. These endpoints are only valid when using embedded storage (derby DB) so this issue should not affect those installations using external storage (e.g. mysql)
 - [XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp](https://github.com/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp">
+- [VictorShem/QVD-2024-26473](https://github.com/VictorShem/QVD-2024-26473)	<img alt="forks" src="https://img.shields.io/github/forks/VictorShem/QVD-2024-26473">	<img alt="stars" src="https://img.shields.io/github/stars/VictorShem/QVD-2024-26473">
 
 ---
 ## CVE-2021-29441 (2021-04-27T21:15:00)
