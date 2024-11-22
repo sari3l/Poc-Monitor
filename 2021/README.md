@@ -6439,6 +6439,11 @@
 - [andyhsu024/CVE-2021-29447](https://github.com/andyhsu024/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/andyhsu024/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/andyhsu024/CVE-2021-29447">
 
 ---
+## CVE-2021-29442 (2021-04-27T21:15:00)
+> Nacos is a platform designed for dynamic service discovery and configuration and service management. In Nacos before version 1.4.1, the ConfigOpsController lets the user perform management operations like querying the database or even wiping it out. While the /data/remove endpoint is properly protected with the @Secured annotation, the /derby endpoint is not protected and can be openly accessed by unauthenticated users. These endpoints are only valid when using embedded storage (derby DB) so this issue should not affect those installations using external storage (e.g. mysql)
+- [XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp](https://github.com/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp">
+
+---
 ## CVE-2021-29441 (2021-04-27T21:15:00)
 > Nacos is a platform designed for dynamic service discovery and configuration and service management. In Nacos before version 1.4.1, when configured to use authentication (-Dnacos.core.auth.enabled=true) Nacos uses the AuthFilter servlet filter to enforce authentication. This filter has a backdoor that enables Nacos servers to bypass this filter and therefore skip authentication checks. This mechanism relies on the user-agent HTTP header so it can be easily spoofed. This issue may allow any user to carry out any administrative tasks on the Nacos server.
 - [xorverbin/-xorverbin-nacos-CVE-2021-29441-](https://github.com/xorverbin/-xorverbin-nacos-CVE-2021-29441-)	<img alt="forks" src="https://img.shields.io/github/forks/xorverbin/-xorverbin-nacos-CVE-2021-29441-">	<img alt="stars" src="https://img.shields.io/github/stars/xorverbin/-xorverbin-nacos-CVE-2021-29441-">
