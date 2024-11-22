@@ -7091,6 +7091,26 @@ authentication.   
 - [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451)	<img alt="forks" src="https://img.shields.io/github/forks/Xiaolqy/CVE-2024-11451">	<img alt="stars" src="https://img.shields.io/github/stars/Xiaolqy/CVE-2024-11451">
 
 ---
+## CVE-2024-11432 ()
+> 
+- [windz3r0day/CVE-2024-11432](https://github.com/windz3r0day/CVE-2024-11432)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11432">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11432">
+
+---
+## CVE-2024-11428 ()
+> 
+- [windz3r0day/CVE-2024-11428](https://github.com/windz3r0day/CVE-2024-11428)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11428">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11428">
+
+---
+## CVE-2024-11412 ()
+> 
+- [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11412">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11412">
+
+---
+## CVE-2024-11388 ()
+> 
+- [windz3r0day/CVE-2024-11388](https://github.com/windz3r0day/CVE-2024-11388)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11388">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11388">
+
+---
 ## CVE-2024-11319 ()
 > 
 - [famixcm/CVE-2024-11319](https://github.com/famixcm/CVE-2024-11319)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-11319">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-11319">
