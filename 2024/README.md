@@ -2261,6 +2261,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 > A deserialization of untrusted data vulnerability with a malicious payload can allow an unauthenticated remote code execution (RCE).
 - [watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-40711">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-40711">
 - [realstatus/CVE-2024-40711-Exp](https://github.com/realstatus/CVE-2024-40711-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/realstatus/CVE-2024-40711-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/realstatus/CVE-2024-40711-Exp">
+- [XiaomingX/CVE-2024-40711-poc](https://github.com/XiaomingX/CVE-2024-40711-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-40711-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-40711-poc">
 
 ---
 ## CVE-2024-40676 ()
@@ -2529,6 +2530,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [jocker2410/CVE-2024-38856](https://github.com/jocker2410/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/jocker2410/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/jocker2410/CVE-2024-38856">
 - [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/CVE-2024-38856">
 - [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-38856-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-38856-RCE">
+- [XiaomingX/cve-2024-38856-poc](https://github.com/XiaomingX/cve-2024-38856-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-38856-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-38856-poc">
 
 ---
 ## CVE-2024-38821 (2024-10-28T07:15:00)
@@ -3799,6 +3801,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Julian-gmz/hook_CVE-2024-32002](https://github.com/Julian-gmz/hook_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/hook_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/hook_CVE-2024-32002">
 - [Julian-gmz/Ensimag_CVE-2024-32002](https://github.com/Julian-gmz/Ensimag_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/Ensimag_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/Ensimag_CVE-2024-32002">
 - [grecosamuel/CVE-2024-32002](https://github.com/grecosamuel/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/grecosamuel/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/grecosamuel/CVE-2024-32002">
+- [XiaomingX/CVE-2024-32002-poc](https://github.com/XiaomingX/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-32002-poc">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
@@ -5972,6 +5975,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [0x20c/CVE-2024-23692-EXP](https://github.com/0x20c/CVE-2024-23692-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-23692-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-23692-EXP">
 - [pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692](https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692">
 - [verylazytech/CVE-2024-23692](https://github.com/verylazytech/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-23692">
+- [XiaomingX/CVE-2024-23692-poc](https://github.com/XiaomingX/CVE-2024-23692-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-23692-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-23692-poc">
 
 ---
 ## CVE-2024-23691 ()
