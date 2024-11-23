@@ -7145,6 +7145,11 @@ authentication.   
 - [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201)	<img alt="forks" src="https://img.shields.io/github/forks/NSQAQ/CVE-2024-11201">	<img alt="stars" src="https://img.shields.io/github/stars/NSQAQ/CVE-2024-11201">
 
 ---
+## CVE-2024-11199 ()
+> 
+- [windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11199">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11199">
+
+---
 ## CVE-2024-11120 ()
 > 
 - [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-11120">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-11120">
