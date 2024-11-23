@@ -7133,6 +7133,11 @@ authentication.   
 - [famixcm/CVE-2024-11319](https://github.com/famixcm/CVE-2024-11319)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-11319">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-11319">
 
 ---
+## CVE-2024-11201 ()
+> 
+- [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201)	<img alt="forks" src="https://img.shields.io/github/forks/NSQAQ/CVE-2024-11201">	<img alt="stars" src="https://img.shields.io/github/stars/NSQAQ/CVE-2024-11201">
+
+---
 ## CVE-2024-11120 ()
 > 
 - [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-11120">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-11120">
