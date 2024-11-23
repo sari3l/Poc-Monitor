@@ -726,6 +726,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2023-50131">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2023-50131">
 
 ---
+## CVE-2023-50094 (2024-01-01T18:15:00)
+> reNgine before 2.1.2 allows OS Command Injection if an adversary has a valid session ID. The attack places shell metacharacters in an api/tools/waf_detector/?url= string. The commands are executed as root via subprocess.check_output.
+- [Zierax/CVE-2023-50094_POC](https://github.com/Zierax/CVE-2023-50094_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Zierax/CVE-2023-50094_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Zierax/CVE-2023-50094_POC">
+
+---
 ## CVE-2023-50072 (2024-01-13T01:15:00)
 > A Stored Cross-Site Scripting (XSS) vulnerability exists in OpenKM version 7.1.40 (dbb6e88) With Professional Extension that allows an authenticated user to upload a note on a file which acts as a stored XSS payload. Any user who opens the note of a document file will trigger the XSS.
 - [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-50072">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-50072">
