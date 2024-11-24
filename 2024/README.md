@@ -6469,6 +6469,7 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [zzcentury/FortiGate-CVE-2024-21762](https://github.com/zzcentury/FortiGate-CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/zzcentury/FortiGate-CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/zzcentury/FortiGate-CVE-2024-21762">
 - [Codeb3af/Cve-2024-21762-](https://github.com/Codeb3af/Cve-2024-21762-)	<img alt="forks" src="https://img.shields.io/github/forks/Codeb3af/Cve-2024-21762-">	<img alt="stars" src="https://img.shields.io/github/stars/Codeb3af/Cve-2024-21762-">
 - [rdoix/cve-2024-21762-checker](https://github.com/rdoix/cve-2024-21762-checker)	<img alt="forks" src="https://img.shields.io/github/forks/rdoix/cve-2024-21762-checker">	<img alt="stars" src="https://img.shields.io/github/stars/rdoix/cve-2024-21762-checker">
+- [XiaomingX/cve-2024-21762-poc](https://github.com/XiaomingX/cve-2024-21762-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-21762-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-21762-poc">
 
 ---
 ## CVE-2024-21754 (2024-06-11T15:16:00)
