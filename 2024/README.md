@@ -4632,6 +4632,11 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29439">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29439">
 
 ---
+## CVE-2024-29404 ()
+> 
+- [mansk1es/CVE-2024-29404_Razer](https://github.com/mansk1es/CVE-2024-29404_Razer)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-29404_Razer">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-29404_Razer">
+
+---
 ## CVE-2024-29399 (2024-04-11T06:15:00)
 > An issue was discovered in GNU Savane v.3.13 and before, allows a remote attacker to execute arbitrary code and escalate privileges via a crafted file to the upload.php component.
 - [ally-petitt/CVE-2024-29399](https://github.com/ally-petitt/CVE-2024-29399)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-29399">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-29399">
