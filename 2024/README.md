@@ -654,6 +654,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/HadesNull123/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/HadesNull123/CVE-2024-6387_Check">
 - [identity-threat-labs/CVE-2024-6387-Vulnerability-Checker](https://github.com/identity-threat-labs/CVE-2024-6387-Vulnerability-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/identity-threat-labs/CVE-2024-6387-Vulnerability-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/identity-threat-labs/CVE-2024-6387-Vulnerability-Checker">
 - [identity-threat-labs/Article-RegreSSHion-CVE-2024-6387](https://github.com/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387">
+- [YassDEV221608/CVE-2024-6387](https://github.com/YassDEV221608/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/YassDEV221608/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/YassDEV221608/CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
