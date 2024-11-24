@@ -1226,6 +1226,7 @@ The specific flaw exists within the product installer. The issue results from th
 - [ns989/CVE-2024-48990](https://github.com/ns989/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/ns989/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/ns989/CVE-2024-48990">
 - [felmoltor/CVE-2024-48990](https://github.com/felmoltor/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/felmoltor/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/felmoltor/CVE-2024-48990">
 - [Cyb3rFr0g/CVE-2024-48990-PoC](https://github.com/Cyb3rFr0g/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rFr0g/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rFr0g/CVE-2024-48990-PoC">
+- [pentestfunctions/CVE-2024-48990-PoC-Testing](https://github.com/pentestfunctions/CVE-2024-48990-PoC-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/CVE-2024-48990-PoC-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/CVE-2024-48990-PoC-Testing">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
