@@ -1229,6 +1229,7 @@ The specific flaw exists within the product installer. The issue results from th
 - [Cyb3rFr0g/CVE-2024-48990-PoC](https://github.com/Cyb3rFr0g/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rFr0g/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rFr0g/CVE-2024-48990-PoC">
 - [pentestfunctions/CVE-2024-48990-PoC-Testing](https://github.com/pentestfunctions/CVE-2024-48990-PoC-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/CVE-2024-48990-PoC-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/CVE-2024-48990-PoC-Testing">
 - [r0xdeadbeef/CVE-2024-48990-exploit](https://github.com/r0xdeadbeef/CVE-2024-48990-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/r0xdeadbeef/CVE-2024-48990-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/r0xdeadbeef/CVE-2024-48990-exploit">
+- [njeru-codes/needrestart-vulnerability-poc](https://github.com/njeru-codes/needrestart-vulnerability-poc)	<img alt="forks" src="https://img.shields.io/github/forks/njeru-codes/needrestart-vulnerability-poc">	<img alt="stars" src="https://img.shields.io/github/stars/njeru-codes/needrestart-vulnerability-poc">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
