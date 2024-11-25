@@ -1073,6 +1073,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-5057 (2024-08-29T14:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Easy Digital Downloads allows SQL Injection.This issue affects Easy Digital Downloads: from n/a through 3.2.12.
 - [enter0x13/poc-CVE-2024-5057](https://github.com/enter0x13/poc-CVE-2024-5057)	<img alt="forks" src="https://img.shields.io/github/forks/enter0x13/poc-CVE-2024-5057">	<img alt="stars" src="https://img.shields.io/github/stars/enter0x13/poc-CVE-2024-5057">
+- [g1thubb004/poc-CVE-2024-5057](https://github.com/g1thubb004/poc-CVE-2024-5057)	<img alt="forks" src="https://img.shields.io/github/forks/g1thubb004/poc-CVE-2024-5057">	<img alt="stars" src="https://img.shields.io/github/stars/g1thubb004/poc-CVE-2024-5057">
 
 ---
 ## CVE-2024-50550 (2024-10-29T10:15:00)
