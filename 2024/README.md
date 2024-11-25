@@ -67,6 +67,7 @@
 ## CVE-2024-9659 ()
 > 
 - [FoKiiin/CVE-2024-9659](https://github.com/FoKiiin/CVE-2024-9659)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-9659">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-9659">
+- [zetraxz/CVE-2024-9659](https://github.com/zetraxz/CVE-2024-9659)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-9659">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-9659">
 
 ---
 ## CVE-2024-9593 (2024-10-18T18:15:00)
