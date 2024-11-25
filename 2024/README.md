@@ -1144,6 +1144,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50427">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50427">
 
 ---
+## CVE-2024-50395 ()
+> 
+- [neko-hat/CVE-2024-50395](https://github.com/neko-hat/CVE-2024-50395)	<img alt="forks" src="https://img.shields.io/github/forks/neko-hat/CVE-2024-50395">	<img alt="stars" src="https://img.shields.io/github/stars/neko-hat/CVE-2024-50395">
+
+---
 ## CVE-2024-50340 ()
 > 
 - [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-50340">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-50340">
