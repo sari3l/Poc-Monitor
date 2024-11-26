@@ -101,6 +101,7 @@
 - [ajansha/shellshock](https://github.com/ajansha/shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/shellshock">
 - [TheRealCiscoo/Shellshock](https://github.com/TheRealCiscoo/Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/TheRealCiscoo/Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/TheRealCiscoo/Shellshock">
 - [TheRealCiscoo/Shellshock-Exploit](https://github.com/TheRealCiscoo/Shellshock-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TheRealCiscoo/Shellshock-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TheRealCiscoo/Shellshock-Exploit">
+- [RadYio/CVE-2014-6271](https://github.com/RadYio/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/RadYio/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/RadYio/CVE-2014-6271">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
