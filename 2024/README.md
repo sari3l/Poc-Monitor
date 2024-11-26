@@ -926,6 +926,7 @@ The specific flaw exists within the product installer. The issue results from th
 - [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567)	<img alt="forks" src="https://img.shields.io/github/forks/ajayalf/CVE-2024-51567">	<img alt="stars" src="https://img.shields.io/github/stars/ajayalf/CVE-2024-51567">
 - [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567)	<img alt="forks" src="https://img.shields.io/github/forks/ajayalf/CVE-2024-51567">	<img alt="stars" src="https://img.shields.io/github/stars/ajayalf/CVE-2024-51567">
 - [thehash007/CVE-2024-51567-RCE-EXPLOIT](https://github.com/thehash007/CVE-2024-51567-RCE-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/thehash007/CVE-2024-51567-RCE-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/thehash007/CVE-2024-51567-RCE-EXPLOIT">
+- [XiaomingX/cve-2024-51567-poc](https://github.com/XiaomingX/cve-2024-51567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-51567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-51567-poc">
 
 ---
 ## CVE-2024-51430 (2024-10-31T17:15:00)
