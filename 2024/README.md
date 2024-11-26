@@ -2041,7 +2041,8 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/Harydhk7/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/Harydhk7/CVE-2024-4358">
 - [Sk1dr0wz/CVE-2024-4358_Mass_Exploit](https://github.com/Sk1dr0wz/CVE-2024-4358_Mass_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">
 - [verylazytech/CVE-2024-4358](https://github.com/verylazytech/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-4358">
-- [fa-rrel/CVE-2024-4358](https://github.com/fa-rrel/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4358">
+- [gh-ost00/CVE-2024-4358](https://github.com/gh-ost00/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-4358">
+- [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
 
 ---
 ## CVE-2024-43532 (2024-10-08T18:15:00)
