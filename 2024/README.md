@@ -7146,6 +7146,11 @@ authentication.   
 - [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2024-1207">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2024-1207">
 
 ---
+## CVE-2024-11477 ()
+> 
+- [maybelookis/CVE-2024-11477](https://github.com/maybelookis/CVE-2024-11477)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-11477">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-11477">
+
+---
 ## CVE-2024-11451 ()
 > 
 - [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451)	<img alt="forks" src="https://img.shields.io/github/forks/Xiaolqy/CVE-2024-11451">	<img alt="stars" src="https://img.shields.io/github/stars/Xiaolqy/CVE-2024-11451">
