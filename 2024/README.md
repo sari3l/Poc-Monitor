@@ -826,6 +826,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-5326-Poc">
 
 ---
+## CVE-2024-53255 ()
+> 
+- [0x4M3R/CVE-2024-53255](https://github.com/0x4M3R/CVE-2024-53255)	<img alt="forks" src="https://img.shields.io/github/forks/0x4M3R/CVE-2024-53255">	<img alt="stars" src="https://img.shields.io/github/stars/0x4M3R/CVE-2024-53255">
+
+---
 ## CVE-2024-5274 (2024-05-28T15:15:00)
 > Type Confusion in V8 in Google Chrome prior to 125.0.6422.112 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)
 - [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-5274-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-5274-Detection">
