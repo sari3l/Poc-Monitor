@@ -7281,6 +7281,7 @@ authentication.   
 - [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/Egi08/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/Egi08/CVE-2024-10914">
 - [ThemeHackers/CVE-2024-10914](https://github.com/ThemeHackers/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-10914">
 - [retuci0/cve-2024-10914-port](https://github.com/retuci0/cve-2024-10914-port)	<img alt="forks" src="https://img.shields.io/github/forks/retuci0/cve-2024-10914-port">	<img alt="stars" src="https://img.shields.io/github/stars/retuci0/cve-2024-10914-port">
+- [K3ysTr0K3R/CVE-2024-10914-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-10914-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-10914-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-10914-EXPLOIT">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
