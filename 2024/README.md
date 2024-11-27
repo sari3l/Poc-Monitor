@@ -140,6 +140,11 @@
 - [nothe1senberg/CVE-2024-9379](https://github.com/nothe1senberg/CVE-2024-9379)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9379">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9379">
 
 ---
+## CVE-2024-9326 (2024-09-29T08:15:00)
+> A vulnerability classified as critical was found in PHPGurukul Online Shopping Portal 2.0. This vulnerability affects unknown code of the file /shopping/admin/index.php of the component Admin Panel. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.
+- [ghostwirez/CVE-2024-9326-PoC](https://github.com/ghostwirez/CVE-2024-9326-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ghostwirez/CVE-2024-9326-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ghostwirez/CVE-2024-9326-PoC">
+
+---
 ## CVE-2024-9264 (2024-10-18T04:15:00)
 > The SQL Expressions experimental feature of Grafana allows for the evaluation of `duckdb` queries containing user input. These queries are insufficiently sanitized before being passed to `duckdb`, leading to a command injection and local file inclusion vulnerability. Any user with the VIEWER or higher permission is capable of executing this attack.  The `duckdb` binary must be present in Grafana's $PATH for this attack to function; by default, this binary is not installed in Grafana distributions.
 - [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/nollium/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/nollium/CVE-2024-9264">
@@ -2529,6 +2534,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39203 (2024-07-08T16:15:00)
 > A cross-site scripting (XSS) vulnerability in the Backend Theme Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
 - [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)	<img alt="forks" src="https://img.shields.io/github/forks/5r1an/CVE-2024-39203">	<img alt="stars" src="https://img.shields.io/github/stars/5r1an/CVE-2024-39203">
+
+---
+## CVE-2024-39090 (2024-07-18T20:15:00)
+> The PHPGurukul Online Shopping Portal Project version 2.0 contains a vulnerability that allows Cross-Site Request Forgery (CSRF) to lead to Stored Cross-Site Scripting (XSS). An attacker can exploit this vulnerability to execute arbitrary JavaScript code in the context of a user's session, potentially leading to account takeover.
+- [ghostwirez/CVE-2024-39090-PoC](https://github.com/ghostwirez/CVE-2024-39090-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ghostwirez/CVE-2024-39090-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ghostwirez/CVE-2024-39090-PoC">
 
 ---
 ## CVE-2024-39069 (2024-07-09T22:15:00)
