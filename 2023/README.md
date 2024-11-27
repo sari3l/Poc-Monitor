@@ -6965,6 +6965,13 @@ For more details, please review the linked advisory on this CVE.
 - [hd3s5aa/CVE-2023-21674](https://github.com/hd3s5aa/CVE-2023-21674)	<img alt="forks" src="https://img.shields.io/github/forks/hd3s5aa/CVE-2023-21674">	<img alt="stars" src="https://img.shields.io/github/stars/hd3s5aa/CVE-2023-21674">
 
 ---
+## CVE-2023-2163 (2023-09-20T06:15:00)
+> Incorrect verifier pruning in BPF in Linux Kernel >=5.4 leads to unsafe
+code paths being incorrectly marked as safe, resulting in arbitrary read/write in
+kernel memory, lateral privilege escalation, and container escape.
+- [letsr00t/CVE-2023-2163](https://github.com/letsr00t/CVE-2023-2163)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2023-2163">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2023-2163">
+
+---
 ## CVE-2023-21608 (2023-01-18T19:15:00)
 > Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2023-21608">
