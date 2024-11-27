@@ -3002,6 +3002,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [kkhackz0013/CVE-2024-36401](https://github.com/kkhackz0013/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/kkhackz0013/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/kkhackz0013/CVE-2024-36401">
 - [thestar0/CVE-2024-36401-WoodpeckerPlugin](https://github.com/thestar0/CVE-2024-36401-WoodpeckerPlugin)	<img alt="forks" src="https://img.shields.io/github/forks/thestar0/CVE-2024-36401-WoodpeckerPlugin">	<img alt="stars" src="https://img.shields.io/github/stars/thestar0/CVE-2024-36401-WoodpeckerPlugin">
 - [XiaomingX/cve-2024-36401-poc](https://github.com/XiaomingX/cve-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-36401-poc">
+- [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2024-36401">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
@@ -7278,6 +7279,7 @@ authentication.   
 - [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-)	<img alt="forks" src="https://img.shields.io/github/forks/Bu0uCat/D-Link-NAS-CVE-2024-10914-">	<img alt="stars" src="https://img.shields.io/github/stars/Bu0uCat/D-Link-NAS-CVE-2024-10914-">
 - [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/Egi08/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/Egi08/CVE-2024-10914">
 - [ThemeHackers/CVE-2024-10914](https://github.com/ThemeHackers/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-10914">
+- [retuci0/cve-2024-10914-port](https://github.com/retuci0/cve-2024-10914-port)	<img alt="forks" src="https://img.shields.io/github/forks/retuci0/cve-2024-10914-port">	<img alt="stars" src="https://img.shields.io/github/stars/retuci0/cve-2024-10914-port">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
