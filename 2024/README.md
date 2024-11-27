@@ -7160,6 +7160,7 @@ authentication.   
 ## CVE-2024-11680 ()
 > 
 - [famixcm/CVE-2024-11680](https://github.com/famixcm/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-11680">
+- [exploitboom/CVE-2024-11680](https://github.com/exploitboom/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/exploitboom/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/exploitboom/CVE-2024-11680">
 
 ---
 ## CVE-2024-11477 ()
