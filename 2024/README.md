@@ -7342,6 +7342,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 > 
 - [ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-10542">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-10542">
 - [ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-10542">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-10542">
+- [FoKiiin/CVE-2024-10542](https://github.com/FoKiiin/CVE-2024-10542)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10542">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10542">
 
 ---
 ## CVE-2024-10508 ()
