@@ -1355,6 +1355,11 @@
 - [nidhi7598/linux-3.0.35_CVE-2018-13405](https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-3.0.35_CVE-2018-13405">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-3.0.35_CVE-2018-13405">
 
 ---
+## CVE-2018-13379 (2019-06-04T21:29:00)
+> An Improper Limitation of a Pathname to a Restricted Directory ("Path Traversal") in Fortinet FortiOS 6.0.0 to 6.0.4, 5.6.3 to 5.6.7 and 5.4.6 to 5.4.12 and FortiProxy 2.0.0, 1.2.0 to 1.2.8, 1.1.0 to 1.1.6, 1.0.0 to 1.0.7 under SSL VPN web portal allows an unauthenticated attacker to download system files via special crafted HTTP resource requests.
+- [Farzan-Kh/CVE-2018-13379](https://github.com/Farzan-Kh/CVE-2018-13379)	<img alt="forks" src="https://img.shields.io/github/forks/Farzan-Kh/CVE-2018-13379">	<img alt="stars" src="https://img.shields.io/github/stars/Farzan-Kh/CVE-2018-13379">
+
+---
 ## CVE-2018-1335 (2018-04-25T21:29:00)
 > From Apache Tika versions 1.7 to 1.17, clients could send carefully crafted headers to tika-server that could be used to inject commands into the command line of the server running tika-server. This vulnerability only affects those running tika-server on a server that is open to untrusted clients. The mitigation is to upgrade to Tika 1.18.
 - [Zebra64/CVE-2018-1335](https://github.com/Zebra64/CVE-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/Zebra64/CVE-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/Zebra64/CVE-2018-1335">
