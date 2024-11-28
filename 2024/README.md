@@ -6135,6 +6135,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [radoslavatanasov1/CVE-2024-23113](https://github.com/radoslavatanasov1/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/radoslavatanasov1/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/radoslavatanasov1/CVE-2024-23113">
 - [expl0itsecurity/CVE-2024-23113](https://github.com/expl0itsecurity/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-23113">
 - [XiaomingX/cve-2024-23113-exp](https://github.com/XiaomingX/cve-2024-23113-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-23113-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-23113-exp">
+- [XiaomingX/CVE-2024-23113-poc](https://github.com/XiaomingX/CVE-2024-23113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-23113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-23113-poc">
 
 ---
 ## CVE-2024-23112 (2024-03-12T15:15:00)
@@ -7247,7 +7248,7 @@ authentication.   
 ---
 ## CVE-2024-11003 ()
 > 
-- [mtbdc-dy/CVE-2024-11003](https://github.com/mtbdc-dy/CVE-2024-11003)	<img alt="forks" src="https://img.shields.io/github/forks/mtbdc-dy/CVE-2024-11003">	<img alt="stars" src="https://img.shields.io/github/stars/mtbdc-dy/CVE-2024-11003">
+- [unknown-user-from/CVE-2024-11003-PoC](https://github.com/unknown-user-from/CVE-2024-11003-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/unknown-user-from/CVE-2024-11003-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/unknown-user-from/CVE-2024-11003-PoC">
 
 ---
 ## CVE-2024-10961 ()
