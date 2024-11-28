@@ -7245,6 +7245,11 @@ authentication.   
 - [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-11016">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-11016">
 
 ---
+## CVE-2024-11003 ()
+> 
+- [mtbdc-dy/CVE-2024-11003](https://github.com/mtbdc-dy/CVE-2024-11003)	<img alt="forks" src="https://img.shields.io/github/forks/mtbdc-dy/CVE-2024-11003">	<img alt="stars" src="https://img.shields.io/github/stars/mtbdc-dy/CVE-2024-11003">
+
+---
 ## CVE-2024-10961 ()
 > 
 - [FoKiiin/CVE-2024-10961](https://github.com/FoKiiin/CVE-2024-10961)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10961">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10961">
