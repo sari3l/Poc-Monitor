@@ -6649,6 +6649,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 > Versions of the package jsonpath-plus before 10.0.7 are vulnerable to Remote Code Execution (RCE) due to improper input sanitization. An attacker can execute aribitrary code on the system by exploiting the unsafe default usage of vm in Node.**Note:**There was an attempt to fix it in version [10.0.0](https://github.com/JSONPath-Plus/JSONPath/commit/6b2f1b4c234292c75912b790bf7e2d7339d4ccd3) but it could still be exploited using [different payloads](https://github.com/JSONPath-Plus/JSONPath/issues/226).
 - [pabloopez/CVE-2024-21534](https://github.com/pabloopez/CVE-2024-21534)	<img alt="forks" src="https://img.shields.io/github/forks/pabloopez/CVE-2024-21534">	<img alt="stars" src="https://img.shields.io/github/stars/pabloopez/CVE-2024-21534">
 - [XiaomingX/cve-2024-21534-poc](https://github.com/XiaomingX/cve-2024-21534-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-21534-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-21534-poc">
+- [verylazytech/cve-2024-21534](https://github.com/verylazytech/cve-2024-21534)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/cve-2024-21534">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/cve-2024-21534">
 
 ---
 ## CVE-2024-21514 (2024-06-22T05:15:00)
