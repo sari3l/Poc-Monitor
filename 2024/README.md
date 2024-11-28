@@ -7249,6 +7249,7 @@ authentication.   
 ## CVE-2024-11003 ()
 > 
 - [unknown-user-from/CVE-2024-11003-PoC](https://github.com/unknown-user-from/CVE-2024-11003-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/unknown-user-from/CVE-2024-11003-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/unknown-user-from/CVE-2024-11003-PoC">
+- [njeru-codes/needrestart-vulnerability-poc](https://github.com/njeru-codes/needrestart-vulnerability-poc)	<img alt="forks" src="https://img.shields.io/github/forks/njeru-codes/needrestart-vulnerability-poc">	<img alt="stars" src="https://img.shields.io/github/stars/njeru-codes/needrestart-vulnerability-poc">
 
 ---
 ## CVE-2024-10961 ()
