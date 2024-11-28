@@ -2032,6 +2032,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [K3ysTr0K3R/CVE-2023-43208-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2023-43208-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2023-43208-EXPLOIT">
 - [jakabakos/CVE-2023-43208-mirth-connect-rce-poc](https://github.com/jakabakos/CVE-2023-43208-mirth-connect-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-43208-mirth-connect-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-43208-mirth-connect-rce-poc">
 - [J4F9S5D2Q7/CVE-2023-43208-MIRTHCONNECT](https://github.com/J4F9S5D2Q7/CVE-2023-43208-MIRTHCONNECT)	<img alt="forks" src="https://img.shields.io/github/forks/J4F9S5D2Q7/CVE-2023-43208-MIRTHCONNECT">	<img alt="stars" src="https://img.shields.io/github/stars/J4F9S5D2Q7/CVE-2023-43208-MIRTHCONNECT">
+- [Avento/CVE-2023-43208_Detection_PoC](https://github.com/Avento/CVE-2023-43208_Detection_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-43208_Detection_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-43208_Detection_PoC">
 
 ---
 ## CVE-2023-43177 ()
