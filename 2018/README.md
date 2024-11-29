@@ -1628,6 +1628,7 @@
 ## CVE-2018-0886 (2018-03-14T17:29:00)
 > The Credential Security Support Provider protocol (CredSSP) in Microsoft Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8.1 and RT 8.1, Windows Server 2012 and R2, Windows 10 Gold, 1511, 1607, 1703, and 1709 Windows Server 2016 and Windows Server, version 1709 allows a remote code execution vulnerability due to how CredSSP validates request during the authentication process, aka "CredSSP Remote Code Execution Vulnerability".
 - [andychao/Remote_code_execution_vulnerability_CVE-2018-0886_vulnerability_fixing_resources_download](https://github.com/andychao/Remote_code_execution_vulnerability_CVE-2018-0886_vulnerability_fixing_resources_download)	<img alt="forks" src="https://img.shields.io/github/forks/andychao/Remote_code_execution_vulnerability_CVE-2018-0886_vulnerability_fixing_resources_download">	<img alt="stars" src="https://img.shields.io/github/stars/andychao/Remote_code_execution_vulnerability_CVE-2018-0886_vulnerability_fixing_resources_download">
+- [preempt/credssp](https://github.com/preempt/credssp)	<img alt="forks" src="https://img.shields.io/github/forks/preempt/credssp">	<img alt="stars" src="https://img.shields.io/github/stars/preempt/credssp">
 
 ---
 ## CVE-2018-0834 (2018-02-15T02:29:00)
