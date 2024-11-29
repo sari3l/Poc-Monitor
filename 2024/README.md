@@ -6624,6 +6624,7 @@ This vulnerability was found internally.
 - [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">
 - [phucrio/CVE-2024-21683-RCE](https://github.com/phucrio/CVE-2024-21683-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/phucrio/CVE-2024-21683-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/phucrio/CVE-2024-21683-RCE">
 - [xh4vm/CVE-2024-21683](https://github.com/xh4vm/CVE-2024-21683)	<img alt="forks" src="https://img.shields.io/github/forks/xh4vm/CVE-2024-21683">	<img alt="stars" src="https://img.shields.io/github/stars/xh4vm/CVE-2024-21683">
+- [XiaomingX/cve-2024-21683-rce](https://github.com/XiaomingX/cve-2024-21683-rce)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-21683-rce">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-21683-rce">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
