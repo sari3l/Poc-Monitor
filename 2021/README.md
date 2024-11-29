@@ -486,8 +486,8 @@
 - [Live-Hack-CVE/CVE-2021-45027](https://github.com/Live-Hack-CVE/CVE-2021-45027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45027">
 
 ---
-## CVE-2021-45010 ()
-> 
+## CVE-2021-45010 (2022-03-15T12:15:00)
+> A path traversal vulnerability in the file upload functionality in tinyfilemanager.php in Tiny File Manager before 2.4.7 allows remote attackers (with valid user accounts) to upload malicious PHP files to the webroot, leading to code execution.
 - [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2021-45010">
 - [febinrev/CVE-2021-45010-TinyFileManager-Exploit](https://github.com/febinrev/CVE-2021-45010-TinyFileManager-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/CVE-2021-45010-TinyFileManager-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/CVE-2021-45010-TinyFileManager-Exploit">
 - [Syd-SydneyJr/CVE-2021-45010](https://github.com/Syd-SydneyJr/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/Syd-SydneyJr/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/Syd-SydneyJr/CVE-2021-45010">
@@ -1180,8 +1180,8 @@
 - [icatalina/CVE-2021-43616](https://github.com/icatalina/CVE-2021-43616)	<img alt="forks" src="https://img.shields.io/github/forks/icatalina/CVE-2021-43616">	<img alt="stars" src="https://img.shields.io/github/stars/icatalina/CVE-2021-43616">
 
 ---
-## CVE-2021-43609 ()
-> 
+## CVE-2021-43609 (2023-11-09T00:15:00)
+> An issue was discovered in Spiceworks Help Desk Server before 1.3.3. A Blind Boolean SQL injection vulnerability within the order_by_for_ticket function in app/models/reporting/database_query.rb allows an authenticated attacker to execute arbitrary SQL commands via the sort parameter. This can be leveraged to leak local files from the host system, leading to remote code execution (RCE) through deserialization of malicious data.
 - [d5sec/CVE-2021-43609-POC](https://github.com/d5sec/CVE-2021-43609-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d5sec/CVE-2021-43609-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d5sec/CVE-2021-43609-POC">
 
 ---
@@ -6877,6 +6877,7 @@
 > Apache HTTP Server versions 2.4.0 to 2.4.46 A specially crafted Cookie header handled by mod_session can cause a NULL pointer dereference and crash, leading to a possible Denial Of Service
 - [7own/CVE-2021-26690---Apache-mod_session](https://github.com/7own/CVE-2021-26690---Apache-mod_session)	<img alt="forks" src="https://img.shields.io/github/forks/7own/CVE-2021-26690---Apache-mod_session">	<img alt="stars" src="https://img.shields.io/github/stars/7own/CVE-2021-26690---Apache-mod_session">
 - [dja2TaqkGEEfA45/CVE-2021-26690](https://github.com/dja2TaqkGEEfA45/CVE-2021-26690)	<img alt="forks" src="https://img.shields.io/github/forks/dja2TaqkGEEfA45/CVE-2021-26690">	<img alt="stars" src="https://img.shields.io/github/stars/dja2TaqkGEEfA45/CVE-2021-26690">
+- [0xdeviner/CVE-2021-26690](https://github.com/0xdeviner/CVE-2021-26690)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeviner/CVE-2021-26690">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeviner/CVE-2021-26690">
 
 ---
 ## CVE-2021-26639 (2022-08-17T21:15:00)
@@ -7330,8 +7331,8 @@
 - [Live-Hack-CVE/CVE-2021-24977](https://github.com/Live-Hack-CVE/CVE-2021-24977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24977">
 
 ---
-## CVE-2021-24959 ()
-> 
+## CVE-2021-24959 (2022-03-14T15:15:00)
+> The WP Email Users WordPress plugin through 1.7.6 does not escape the data_raw parameter in the weu_selected_users_1 AJAX action, available to any authenticated users, allowing them to perform SQL injection attacks.
 - [RandomRobbieBF/CVE-2021-24959](https://github.com/RandomRobbieBF/CVE-2021-24959)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2021-24959">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2021-24959">
 
 ---

@@ -193,8 +193,8 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [s1204IT/CVE-2023-6241](https://github.com/s1204IT/CVE-2023-6241)	<img alt="forks" src="https://img.shields.io/github/forks/s1204IT/CVE-2023-6241">	<img alt="stars" src="https://img.shields.io/github/stars/s1204IT/CVE-2023-6241">
 
 ---
-## CVE-2023-6063 ()
-> 
+## CVE-2023-6063 (2023-12-04T22:15:00)
+> The WP Fastest Cache WordPress plugin before 1.2.2 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by unauthenticated users.
 - [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-6063-PoC">
 - [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hackersroot/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hackersroot/CVE-2023-6063-PoC">
 - [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063)	<img alt="forks" src="https://img.shields.io/github/forks/thesafdari/CVE-2023-6063">	<img alt="stars" src="https://img.shields.io/github/stars/thesafdari/CVE-2023-6063">
@@ -205,8 +205,8 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [pctripsesp/CVE-2023-6036](https://github.com/pctripsesp/CVE-2023-6036)	<img alt="forks" src="https://img.shields.io/github/forks/pctripsesp/CVE-2023-6036">	<img alt="stars" src="https://img.shields.io/github/stars/pctripsesp/CVE-2023-6036">
 
 ---
-## CVE-2023-6019 ()
-> 
+## CVE-2023-6019 (2023-11-16T17:15:00)
+> A command injection existed in Ray's cpu_profile URL parameter allowing attackers to execute os commands on the system running the ray dashboard remotely without authentication. The issue is fixed in version 2.8.1+. Ray maintainers' response can be found here: https://www.anyscale.com/blog/update-on-ray-cves-cve-2023-6019-cve-2023-6020-cve-2023-6021-cve-2023-48022-cve-2023-48023
 - [FireWolfWang/CVE-2023-6019](https://github.com/FireWolfWang/CVE-2023-6019)	<img alt="forks" src="https://img.shields.io/github/forks/FireWolfWang/CVE-2023-6019">	<img alt="stars" src="https://img.shields.io/github/stars/FireWolfWang/CVE-2023-6019">
 - [FireWolfWang/CVE-2023-6019](https://github.com/FireWolfWang/CVE-2023-6019)	<img alt="forks" src="https://img.shields.io/github/forks/FireWolfWang/CVE-2023-6019">	<img alt="stars" src="https://img.shields.io/github/stars/FireWolfWang/CVE-2023-6019">
 - [miguelc49/CVE-2023-6019-1](https://github.com/miguelc49/CVE-2023-6019-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-1">
@@ -220,13 +220,13 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [rxerium/CVE-2023-6000](https://github.com/rxerium/CVE-2023-6000)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2023-6000">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2023-6000">
 
 ---
-## CVE-2023-5966 ()
-> 
+## CVE-2023-5966 (2023-11-30T14:15:00)
+> An authenticated privileged attacker could upload a specially crafted zip to the EspoCRM server in version 7.2.5, via the extension deployment form, which could lead to arbitrary PHP code execution.
 - [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5966">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5966">
 
 ---
-## CVE-2023-5965 ()
-> 
+## CVE-2023-5965 (2023-11-30T14:15:00)
+> An authenticated privileged attacker could upload a specially crafted zip to the EspoCRM server in version 7.2.5, via the update form, which could lead to arbitrary PHP code execution.
 - [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5965">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5965">
 
 ---
@@ -247,8 +247,8 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [mbb5546/CVE-2023-5830](https://github.com/mbb5546/CVE-2023-5830)	<img alt="forks" src="https://img.shields.io/github/forks/mbb5546/CVE-2023-5830">	<img alt="stars" src="https://img.shields.io/github/stars/mbb5546/CVE-2023-5830">
 
 ---
-## CVE-2023-5815 ()
-> 
+## CVE-2023-5815 (2023-11-22T16:15:00)
+> The News & Blog Designer Pack – WordPress Blog Plugin — (Blog Post Grid, Blog Post Slider, Blog Post Carousel, Blog Post Ticker, Blog Post Masonry) plugin for WordPress is vulnerable to Remote Code Execution via Local File Inclusion in all versions up to, and including, 3.4.1 via the bdp_get_more_post function hooked via a nopriv AJAX. This is due to function utilizing an unsafe extract() method to extract values from the POST variable and passing that input to the include() function. This makes it possible for unauthenticated attackers to include arbitrary PHP files and achieve remote code execution. On vulnerable Docker configurations it may be possible for an attacker to create a PHP file and then subsequently include it to achieve RCE.
 - [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5815-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5815-PoC">
 
 ---
@@ -257,8 +257,8 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-5808">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-5808">
 
 ---
-## CVE-2023-5720 ()
-> 
+## CVE-2023-5720 (2023-11-15T14:15:00)
+> A flaw was found in Quarkus, where it does not properly sanitize artifacts created using the Gradle plugin, allowing certain build system information to remain. This flaw allows an attacker to access potentially sensitive information from the build system within the application.
 - [miguelc49/CVE-2023-5720-3](https://github.com/miguelc49/CVE-2023-5720-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-5720-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-5720-3">
 - [miguelc49/CVE-2023-5720-1](https://github.com/miguelc49/CVE-2023-5720-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-5720-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-5720-1">
 - [miguelc49/CVE-2023-5720-2](https://github.com/miguelc49/CVE-2023-5720-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-5720-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-5720-2">
@@ -293,8 +293,8 @@ to load arbitrary JavaScript code.
 - [soreta2/CVE-2023-5631-POC](https://github.com/soreta2/CVE-2023-5631-POC)	<img alt="forks" src="https://img.shields.io/github/forks/soreta2/CVE-2023-5631-POC">	<img alt="stars" src="https://img.shields.io/github/stars/soreta2/CVE-2023-5631-POC">
 
 ---
-## CVE-2023-5601 ()
-> 
+## CVE-2023-5601 (2023-11-06T21:15:00)
+> The WooCommerce Ninja Forms Product Add-ons WordPress plugin before 1.7.1 does not validate the file to be uploaded, allowing any unauthenticated users to upload arbitrary files to the server, leading to RCE.
 - [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5601-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5601-PoC">
 
 ---
@@ -304,18 +304,18 @@ to load arbitrary JavaScript code.
 - [pog007/CVE-2023-5561-PoC](https://github.com/pog007/CVE-2023-5561-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pog007/CVE-2023-5561-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pog007/CVE-2023-5561-PoC">
 
 ---
-## CVE-2023-5546 ()
-> 
+## CVE-2023-5546 (2023-11-09T20:15:00)
+> ID numbers displayed in the quiz grading report required additional sanitizing to prevent a stored XSS risk.
 - [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-5546">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-5546">
 
 ---
-## CVE-2023-5540 ()
-> 
+## CVE-2023-5540 (2023-11-09T20:15:00)
+> A remote code execution risk was identified in the IMSCP activity. By default this was only available to teachers and managers.
 - [cli-ish/CVE-2023-5540](https://github.com/cli-ish/CVE-2023-5540)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-5540">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-5540">
 
 ---
-## CVE-2023-5539 ()
-> 
+## CVE-2023-5539 (2023-11-09T20:15:00)
+> A remote code execution risk was identified in the Lesson activity. By default this was only available to teachers and managers.
 - [cli-ish/CVE-2023-5539](https://github.com/cli-ish/CVE-2023-5539)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-5539">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-5539">
 
 ---
@@ -856,8 +856,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [shrikeinfosec/cve-2023-49950](https://github.com/shrikeinfosec/cve-2023-49950)	<img alt="forks" src="https://img.shields.io/github/forks/shrikeinfosec/cve-2023-49950">	<img alt="stars" src="https://img.shields.io/github/stars/shrikeinfosec/cve-2023-49950">
 
 ---
-## CVE-2023-49948 ()
-> 
+## CVE-2023-49948 (2023-12-03T19:15:00)
+> Forgejo before 1.20.5-1 allows remote attackers to test for the existence of private user accounts by appending .rss (or another extension) to a URL.
 - [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-49948-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-49948-PoC">
 
 ---
@@ -971,8 +971,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2023-49314">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2023-49314">
 
 ---
-## CVE-2023-49313 ()
-> 
+## CVE-2023-49313 (2023-11-28T15:15:00)
+> A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.
 - [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2023-49313">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2023-49313">
 
 ---
@@ -1036,8 +1036,8 @@ Users are recommended to upgrade to version 18.12.10
 - [Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">
 
 ---
-## CVE-2023-49052 ()
-> 
+## CVE-2023-49052 (2023-11-30T07:15:00)
+> File Upload vulnerability in Microweber v.2.0.4 allows a remote attacker to execute arbitrary code via a crafted script to the file upload function in the created forms component.
 - [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-49052">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-49052">
 
 ---
@@ -1066,8 +1066,8 @@ Users are recommended to upgrade to version 18.12.10
 - [vinnie1717/CVE-2023-48974](https://github.com/vinnie1717/CVE-2023-48974)	<img alt="forks" src="https://img.shields.io/github/forks/vinnie1717/CVE-2023-48974">	<img alt="stars" src="https://img.shields.io/github/stars/vinnie1717/CVE-2023-48974">
 
 ---
-## CVE-2023-48866 ()
-> 
+## CVE-2023-48866 (2023-12-04T15:15:00)
+> A Cross-Site Scripting (XSS) vulnerability in the recipe preparation component within /api/objects/recipes and note component within /api/objects/shopping_lists/ of Grocy <= 4.0.3 allows attackers to obtain the victim's cookies.
 - [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48866">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48866">
 
 ---
@@ -1087,8 +1087,8 @@ Users are recommended to upgrade to version 18.12.10
 - [delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849)	<img alt="forks" src="https://img.shields.io/github/forks/delsploit/CVE-2023-48849">	<img alt="stars" src="https://img.shields.io/github/stars/delsploit/CVE-2023-48849">
 
 ---
-## CVE-2023-48842 ()
-> 
+## CVE-2023-48842 (2023-12-01T16:15:00)
+> D-Link Go-RT-AC750 revA_v101b03 was discovered to contain a command injection vulnerability via the service parameter at hedwig.cgi.
 - [creacitysec/CVE-2023-48842](https://github.com/creacitysec/CVE-2023-48842)	<img alt="forks" src="https://img.shields.io/github/forks/creacitysec/CVE-2023-48842">	<img alt="stars" src="https://img.shields.io/github/stars/creacitysec/CVE-2023-48842">
 
 ---
@@ -1128,18 +1128,18 @@ Users are recommended to upgrade to version 18.12.10
 - [huiwen-yayaya/CVE-2023-4863](https://github.com/huiwen-yayaya/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/huiwen-yayaya/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/huiwen-yayaya/CVE-2023-4863">
 
 ---
-## CVE-2023-48200 ()
-> 
+## CVE-2023-48200 (2023-11-15T23:15:00)
+> Cross Site Scripting vulnerability in Grocy v.4.0.3 allows a local attacker to execute arbitrary code and obtain sensitive information via the equipment description component within /equipment/ component.
 - [nitipoom-jar/CVE-2023-48200](https://github.com/nitipoom-jar/CVE-2023-48200)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48200">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48200">
 
 ---
-## CVE-2023-48199 ()
-> 
+## CVE-2023-48199 (2023-11-15T23:15:00)
+> HTML Injection vulnerability in the 'manageApiKeys' component in Grocy <= 4.0.3 allows attackers to inject arbitrary HTML content without script execution. This occurs when user-supplied data is not appropriately sanitized, enabling the injection of HTML tags through parameter values. The attacker can then manipulate page content in the QR code detail popup, often coupled with social engineering tactics, exploiting both the trust of users and the application's lack of proper input handling.
 - [nitipoom-jar/CVE-2023-48199](https://github.com/nitipoom-jar/CVE-2023-48199)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48199">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48199">
 
 ---
-## CVE-2023-48198 ()
-> 
+## CVE-2023-48198 (2023-11-15T23:15:00)
+> A Cross-Site Scripting (XSS) vulnerability in the 'product description' component within '/api/stock/products' of Grocy version <= 4.0.3 allows attackers to obtain a victim's cookies.
 - [nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48198">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48198">
 
 ---
@@ -1175,8 +1175,8 @@ Users are recommended to upgrade to version 18.12.10
 - [bucketcat/CVE-2023-48084](https://github.com/bucketcat/CVE-2023-48084)	<img alt="forks" src="https://img.shields.io/github/forks/bucketcat/CVE-2023-48084">	<img alt="stars" src="https://img.shields.io/github/stars/bucketcat/CVE-2023-48084">
 
 ---
-## CVE-2023-48034 ()
-> 
+## CVE-2023-48034 (2023-11-27T21:15:00)
+> An issue discovered in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject arbitrary keystrokes via use of weak encryption.
 - [aprkr/CVE-2023-48034](https://github.com/aprkr/CVE-2023-48034)	<img alt="forks" src="https://img.shields.io/github/forks/aprkr/CVE-2023-48034">	<img alt="stars" src="https://img.shields.io/github/stars/aprkr/CVE-2023-48034">
 
 ---
@@ -1185,13 +1185,13 @@ Users are recommended to upgrade to version 18.12.10
 - [nitipoom-jar/CVE-2023-48031](https://github.com/nitipoom-jar/CVE-2023-48031)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48031">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48031">
 
 ---
-## CVE-2023-48029 ()
-> 
+## CVE-2023-48029 (2023-11-17T13:15:00)
+> Corebos 8.0 and below is vulnerable to CSV Injection. An attacker with low privileges can inject a malicious command into a table. This vulnerability is exploited when an administrator visits the user management section, exports the data to a CSV file, and then opens it, leading to the execution of the malicious payload on the administrator's computer.
 - [nitipoom-jar/CVE-2023-48029](https://github.com/nitipoom-jar/CVE-2023-48029)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48029">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48029">
 
 ---
-## CVE-2023-48028 ()
-> 
+## CVE-2023-48028 (2023-11-18T00:15:00)
+> kodbox 1.46.01 has a security flaw that enables user enumeration. This problem is present on the login page, where an attacker can identify valid users based on varying response messages, potentially paving the way for a brute force attack.
 - [nitipoom-jar/CVE-2023-48028](https://github.com/nitipoom-jar/CVE-2023-48028)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48028">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48028">
 
 ---
@@ -1213,13 +1213,13 @@ Users are recommended to upgrade to version 18.12.10
 - [RandomRobbieBF/CVE-2023-47840](https://github.com/RandomRobbieBF/CVE-2023-47840)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47840">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47840">
 
 ---
-## CVE-2023-4771 ()
-> 
+## CVE-2023-4771 (2023-11-16T14:15:00)
+> A Cross-Site scripting vulnerability has been found in CKSource CKEditor affecting versions 4.15.1 and earlier. An attacker could send malicious javascript code through the /ckeditor/samples/old/ajax.html file and retrieve an authorized user's information.
 - [sahar042/CVE-2023-4771](https://github.com/sahar042/CVE-2023-4771)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2023-4771">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2023-4771">
 
 ---
-## CVE-2023-47668 ()
-> 
+## CVE-2023-47668 (2023-11-23T00:15:00)
+> Exposure of Sensitive Information to an Unauthorized Actor vulnerability in StellarWP Membership Plugin – Restrict Content plugin <= 3.2.7 versions.
 - [RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47668">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47668">
 
 ---
@@ -1239,8 +1239,10 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [C411e/CVE-2023-47564](https://github.com/C411e/CVE-2023-47564)	<img alt="forks" src="https://img.shields.io/github/forks/C411e/CVE-2023-47564">	<img alt="stars" src="https://img.shields.io/github/stars/C411e/CVE-2023-47564">
 
 ---
-## CVE-2023-47529 ()
-> 
+## CVE-2023-47529 (2023-11-23T21:15:00)
+> Exposure of Sensitive Information to an Unauthorized Actor vulnerability in ThemeIsle Cloud Templates & Patterns collection.This issue affects Cloud Templates & Patterns collection: from n/a through 1.2.2.
+
+
 - [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47529">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47529">
 
 ---
@@ -1263,8 +1265,8 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47488">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47488">
 
 ---
-## CVE-2023-47464 ()
-> 
+## CVE-2023-47464 (2023-11-30T05:15:00)
+> Insecure Permissions vulnerability in GL.iNet AX1800 version 4.0.0 before 4.5.0 allows a remote attacker to execute arbitrary code via the upload API function.
 - [HadessCS/CVE-2023-47464](https://github.com/HadessCS/CVE-2023-47464)	<img alt="forks" src="https://img.shields.io/github/forks/HadessCS/CVE-2023-47464">	<img alt="stars" src="https://img.shields.io/github/stars/HadessCS/CVE-2023-47464">
 
 ---
@@ -1317,8 +1319,8 @@ QuTScloud c5.1.5.2651 and later
 - [gogobuster/CVE-2023-47218-POC](https://github.com/gogobuster/CVE-2023-47218-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2023-47218-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2023-47218-POC">
 
 ---
-## CVE-2023-47184 ()
-> 
+## CVE-2023-47184 (2023-11-06T10:15:00)
+> Auth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Proper Fraction LLC. Admin Bar & Dashboard Access Control plugin <= 1.2.8 versions.
 - [rach1tarora/CVE-2023-47184](https://github.com/rach1tarora/CVE-2023-47184)	<img alt="forks" src="https://img.shields.io/github/forks/rach1tarora/CVE-2023-47184">	<img alt="stars" src="https://img.shields.io/github/stars/rach1tarora/CVE-2023-47184">
 
 ---
@@ -1327,19 +1329,20 @@ QuTScloud c5.1.5.2651 and later
 - [RandomRobbieBF/CVE-2023-47179](https://github.com/RandomRobbieBF/CVE-2023-47179)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47179">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47179">
 
 ---
-## CVE-2023-47129 ()
-> 
+## CVE-2023-47129 (2023-11-10T19:15:00)
+> Statmic is a core Laravel content management system Composer package. Prior to versions 3.4.13 and 4.33.0, on front-end forms with an asset upload field, PHP files crafted to look like images may be uploaded. This only affects forms using the "Forms" feature and not just _any_ arbitrary form. This does not affect the control panel. This issue has been patched in 3.4.13 and 4.33.0.
+
 - [Cyber-Wo0dy/CVE-2023-47129](https://github.com/Cyber-Wo0dy/CVE-2023-47129)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-47129">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-47129">
 
 ---
-## CVE-2023-47119 ()
-> 
+## CVE-2023-47119 (2023-11-10T15:15:00)
+> Discourse is an open source platform for community discussion. Prior to version 3.1.3 of the `stable` branch and version 3.2.0.beta3 of the `beta` and `tests-passed` branches, some links can inject arbitrary HTML tags when rendered through our Onebox engine. The issue is patched in version 3.1.3 of the `stable` branch and version 3.2.0.beta3 of the `beta` and `tests-passed` branches. There are no known workarounds.
 - [BaadMaro/CVE-2023-47119](https://github.com/BaadMaro/CVE-2023-47119)	<img alt="forks" src="https://img.shields.io/github/forks/BaadMaro/CVE-2023-47119">	<img alt="stars" src="https://img.shields.io/github/stars/BaadMaro/CVE-2023-47119">
 - [Cristiano100/CVE-2023-47119](https://github.com/Cristiano100/CVE-2023-47119)	<img alt="forks" src="https://img.shields.io/github/forks/Cristiano100/CVE-2023-47119">	<img alt="stars" src="https://img.shields.io/github/stars/Cristiano100/CVE-2023-47119">
 
 ---
-## CVE-2023-47108 ()
-> 
+## CVE-2023-47108 (2023-11-10T19:15:00)
+> OpenTelemetry-Go Contrib is a collection of third-party packages for OpenTelemetry-Go. Prior to version 0.46.0, the grpc Unary Server Interceptor out of the box adds labels `net.peer.sock.addr` and `net.peer.sock.port` that have unbound cardinality. It leads to the server's potential memory exhaustion when many malicious requests are sent. An attacker can easily flood the peer address and port for requests. Version 0.46.0 contains a fix for this issue. As a workaround to stop being affected, a view removing the attributes can be used. The other possibility is to disable grpc metrics instrumentation by passing `otelgrpc.WithMeterProvider` option with `noop.NewMeterProvider`.
 - [bahe-msft/govuln-CVE-2023-47108](https://github.com/bahe-msft/govuln-CVE-2023-47108)	<img alt="forks" src="https://img.shields.io/github/forks/bahe-msft/govuln-CVE-2023-47108">	<img alt="stars" src="https://img.shields.io/github/stars/bahe-msft/govuln-CVE-2023-47108">
 
 ---
@@ -1354,8 +1357,8 @@ QuTScloud c5.1.5.2651 and later
 - [nitipoom-jar/CVE-2023-47102](https://github.com/nitipoom-jar/CVE-2023-47102)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47102">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47102">
 
 ---
-## CVE-2023-47014 ()
-> 
+## CVE-2023-47014 (2023-11-22T18:15:00)
+> A Cross-Site Request Forgery (CSRF) vulnerability in Sourcecodester Sticky Notes App Using PHP with Source Code v.1.0 allows a local attacker to obtain sensitive information via a crafted payload to add-note.php.
 - [emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS](https://github.com/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS)	<img alt="forks" src="https://img.shields.io/github/forks/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS">	<img alt="stars" src="https://img.shields.io/github/stars/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS">
 
 ---
@@ -1374,8 +1377,8 @@ QuTScloud c5.1.5.2651 and later
 - [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4698">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4698">
 
 ---
-## CVE-2023-46974 ()
-> 
+## CVE-2023-46974 (2023-12-07T14:15:00)
+> Cross Site Scripting vulnerability in Best Courier Management System v.1.000 allows a remote attacker to execute arbitrary code via a crafted payload to the page parameter in the URL.
 - [yte121/CVE-2023-46974](https://github.com/yte121/CVE-2023-46974)	<img alt="forks" src="https://img.shields.io/github/forks/yte121/CVE-2023-46974">	<img alt="stars" src="https://img.shields.io/github/stars/yte121/CVE-2023-46974">
 
 ---
@@ -1593,49 +1596,49 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [RandomRobbieBF/CVE-2023-46197](https://github.com/RandomRobbieBF/CVE-2023-46197)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-46197">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-46197">
 
 ---
-## CVE-2023-46022 ()
-> 
+## CVE-2023-46022 (2023-11-14T22:15:00)
+> SQL Injection vulnerability in delete.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary SQL commands via the 'bid' parameter.
 - [ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability">
 
 ---
-## CVE-2023-46021 ()
-> 
+## CVE-2023-46021 (2023-11-13T23:15:00)
+> SQL Injection vulnerability in cancel.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary commands via the 'reqid' parameter.
 - [ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">
 
 ---
-## CVE-2023-46020 ()
-> 
+## CVE-2023-46020 (2023-11-13T23:15:00)
+> Cross Site Scripting (XSS) in updateprofile.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary code via the 'rename', 'remail', 'rphone' and 'rcity' parameters.
 - [ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability">
 
 ---
-## CVE-2023-46019 ()
-> 
+## CVE-2023-46019 (2023-11-13T23:15:00)
+> Cross Site Scripting (XSS) vulnerability in abs.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary code via the 'error' parameter.
 - [ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability">
 
 ---
-## CVE-2023-46018 ()
-> 
+## CVE-2023-46018 (2023-11-13T22:15:00)
+> SQL injection vulnerability in receiverReg.php in Code-Projects Blood Bank 1.0 \allows attackers to run arbitrary SQL commands via 'remail' parameter.
 - [ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">
 
 ---
-## CVE-2023-46017 ()
-> 
+## CVE-2023-46017 (2023-11-13T22:15:00)
+> SQL Injection vulnerability in receiverLogin.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary SQL commands via 'remail' and 'rpassword' parameters.
 - [ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">
 
 ---
-## CVE-2023-46016 ()
-> 
+## CVE-2023-46016 (2023-11-13T22:15:00)
+> Cross Site Scripting (XSS) in abs.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary code via the 'search' parameter in the application URL.
 - [ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability">
 - [ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability">
 
 ---
-## CVE-2023-46015 ()
-> 
+## CVE-2023-46015 (2023-11-13T22:15:00)
+> Cross Site Scripting (XSS) vulnerability in index.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary code via 'msg' parameter in application URL.
 - [ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability">
 
 ---
-## CVE-2023-46014 ()
-> 
+## CVE-2023-46014 (2023-11-13T22:15:00)
+> SQL Injection vulnerability in hospitalLogin.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary SQL commands via 'hemail' and 'hpassword' parameters.
 - [ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">
 
 ---
@@ -1696,8 +1699,9 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45828">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45828">
 
 ---
-## CVE-2023-45827 ()
-> 
+## CVE-2023-45827 (2023-11-06T18:15:00)
+> Dot diver is a lightweight, powerful, and dependency-free TypeScript utility library that provides types and functions to work with object paths in dot notation. In versions prior to 1.0.2 there is a Prototype Pollution vulnerability in the `setByPath` function which can leads to remote code execution (RCE). This issue has been addressed in commit `98daf567` which has been included in release 1.0.2. Users are advised to upgrade. There are no known workarounds to this vulnerability.
+
 - [200101WhoAmI/CVE-2023-45827](https://github.com/200101WhoAmI/CVE-2023-45827)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2023-45827">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2023-45827">
 
 ---
@@ -1869,8 +1873,8 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [sn130hk/CVE-2023-44487](https://github.com/sn130hk/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/sn130hk/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/sn130hk/CVE-2023-44487">
 
 ---
-## CVE-2023-44353 ()
-> 
+## CVE-2023-44353 (2023-11-17T14:15:00)
+> Adobe ColdFusion versions 2023.5 (and earlier) and 2021.11 (and earlier) are affected by an Deserialization of Untrusted Data vulnerability that could result in Arbitrary code execution. Exploitation of this issue does not require user interaction.
 - [JC175/CVE-2023-44353-Nuclei-Template](https://github.com/JC175/CVE-2023-44353-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2023-44353-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2023-44353-Nuclei-Template">
 
 ---
@@ -1912,8 +1916,8 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/knight0x07/CVE-2023-43770-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/knight0x07/CVE-2023-43770-PoC">
 
 ---
-## CVE-2023-43757 ()
-> 
+## CVE-2023-43757 (2023-11-16T07:15:00)
+> Inadequate encryption strength vulnerability in multiple routers provided by ELECOM CO.,LTD. and LOGITEC CORPORATION allows a network-adjacent unauthenticated attacker to guess the encryption key used for wireless LAN communication and intercept the communication. As for the affected products/versions, see the information provided by the vendor under [References] section.
 - [sharmashreejaa/CVE-2023-43757](https://github.com/sharmashreejaa/CVE-2023-43757)	<img alt="forks" src="https://img.shields.io/github/forks/sharmashreejaa/CVE-2023-43757">	<img alt="stars" src="https://img.shields.io/github/stars/sharmashreejaa/CVE-2023-43757">
 
 ---
@@ -2035,8 +2039,8 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [Avento/CVE-2023-43208_Detection_PoC](https://github.com/Avento/CVE-2023-43208_Detection_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-43208_Detection_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-43208_Detection_PoC">
 
 ---
-## CVE-2023-43177 ()
-> 
+## CVE-2023-43177 (2023-11-18T00:15:00)
+> CrushFTP prior to 10.5.1 is vulnerable to Improperly Controlled Modification of Dynamically-Determined Object Attributes.
 - [the-emmons/CVE-2023-43177](https://github.com/the-emmons/CVE-2023-43177)	<img alt="forks" src="https://img.shields.io/github/forks/the-emmons/CVE-2023-43177">	<img alt="stars" src="https://img.shields.io/github/stars/the-emmons/CVE-2023-43177">
 
 ---
@@ -2202,8 +2206,8 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [ASR511-OO7/CVE-2023-42307](https://github.com/ASR511-OO7/CVE-2023-42307)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-42307">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-42307">
 
 ---
-## CVE-2023-4226 ()
-> 
+## CVE-2023-4226 (2023-11-28T08:15:00)
+> Unrestricted file upload in `/main/inc/ajax/work.ajax.php` in Chamilo LMS <= v1.11.24 allows authenticated attackers with learner role to obtain remote code execution via uploading of PHP files.
 - [krishnan-tech/CVE-2023-4226-POC](https://github.com/krishnan-tech/CVE-2023-4226-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krishnan-tech/CVE-2023-4226-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krishnan-tech/CVE-2023-4226-POC">
 
 ---
@@ -2212,8 +2216,8 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2023-42222">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2023-42222">
 
 ---
-## CVE-2023-4220 ()
-> 
+## CVE-2023-4220 (2023-11-28T08:15:00)
+> Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS <= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell.
 - [N1ghtfallXxX/CVE-2023-4220](https://github.com/N1ghtfallXxX/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/N1ghtfallXxX/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/N1ghtfallXxX/CVE-2023-4220">
 - [dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220](https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220">
 - [charlesgargasson/CVE-2023-4220](https://github.com/charlesgargasson/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2023-4220">
@@ -2388,8 +2392,8 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-41646">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-41646">
 
 ---
-## CVE-2023-41613 ()
-> 
+## CVE-2023-41613 (2023-12-04T14:15:00)
+> EzViz Studio v2.2.0 is vulnerable to DLL hijacking.
 - [Eafz/cve-2023-41613](https://github.com/Eafz/cve-2023-41613)	<img alt="forks" src="https://img.shields.io/github/forks/Eafz/cve-2023-41613">	<img alt="stars" src="https://img.shields.io/github/stars/Eafz/cve-2023-41613">
 
 ---
@@ -2589,8 +2593,10 @@ The vulnerability is limited to the ROOT (default) web application.
 - [MinoTauro2020/CVE-2023-40868](https://github.com/MinoTauro2020/CVE-2023-40868)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-40868">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-40868">
 
 ---
-## CVE-2023-40600 ()
-> 
+## CVE-2023-40600 (2023-11-30T15:15:00)
+> Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Exactly WWW EWWW Image Optimizer. It works only when debug.log is turned on.This issue affects EWWW Image Optimizer: from n/a through 7.2.0.
+
+
 - [RandomRobbieBF/CVE-2023-40600](https://github.com/RandomRobbieBF/CVE-2023-40600)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-40600">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-40600">
 
 ---
@@ -2603,8 +2609,29 @@ The specific flaw exists within the processing of recovery volumes. The issue re
 - [winkler-winsen/Scan_WinRAR](https://github.com/winkler-winsen/Scan_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_WinRAR">
 
 ---
-## CVE-2023-40459 ()
+## CVE-2023-40459 (2023-12-04T23:15:00)
 > 
+
+
+
+
+
+
+
+
+The
+ACEManager component of ALEOS 4.16 and earlier does not adequately perform
+input sanitization during authentication, which could potentially result in a
+Denial of Service (DoS) condition for ACEManager without impairing other router
+functions. ACEManager recovers from the DoS condition by restarting within ten
+seconds of becoming unavailable.
+
+
+
+
+
+
+
 - [majidmc2/CVE-2023-40459](https://github.com/majidmc2/CVE-2023-40459)	<img alt="forks" src="https://img.shields.io/github/forks/majidmc2/CVE-2023-40459">	<img alt="stars" src="https://img.shields.io/github/stars/majidmc2/CVE-2023-40459">
 - [7h3w4lk3r/CVE-2023-40459](https://github.com/7h3w4lk3r/CVE-2023-40459)	<img alt="forks" src="https://img.shields.io/github/forks/7h3w4lk3r/CVE-2023-40459">	<img alt="stars" src="https://img.shields.io/github/stars/7h3w4lk3r/CVE-2023-40459">
 
@@ -3217,8 +3244,8 @@ of headers and eventually cause curl to run out of heap memory.
 - [TraiLeR2/CVE-2023-37800](https://github.com/TraiLeR2/CVE-2023-37800)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-37800">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-37800">
 
 ---
-## CVE-2023-37790 ()
-> 
+## CVE-2023-37790 (2023-11-09T00:15:00)
+> Jaspersoft Clarity PPM version 14.3.0.298 was discovered to contain an arbitrary file upload vulnerability via the Profile Picture Upload function.
 - [kaizensecurity/CVE-2023-37790](https://github.com/kaizensecurity/CVE-2023-37790)	<img alt="forks" src="https://img.shields.io/github/forks/kaizensecurity/CVE-2023-37790">	<img alt="stars" src="https://img.shields.io/github/stars/kaizensecurity/CVE-2023-37790">
 
 ---
@@ -3639,8 +3666,8 @@ prior to
 - [churamanib/CVE-2023-36664-Ghostscript-command-injection](https://github.com/churamanib/CVE-2023-36664-Ghostscript-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/churamanib/CVE-2023-36664-Ghostscript-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/churamanib/CVE-2023-36664-Ghostscript-command-injection">
 
 ---
-## CVE-2023-36553 ()
-> 
+## CVE-2023-36553 (2023-11-14T18:15:00)
+> A improper neutralization of special elements used in an os command ('os command injection') in Fortinet FortiSIEM version 5.4.0 and 5.3.0 through 5.3.3 and 5.2.5 through 5.2.8 and 5.2.1 through 5.2.2 and 5.1.0 through 5.1.3 and 5.0.0 through 5.0.1 and 4.10.0 and 4.9.0 and 4.7.2 allows attacker to execute unauthorized code or commands via crafted API requests.
 - [kenit7s/CVE-2023-36553-RCE](https://github.com/kenit7s/CVE-2023-36553-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/kenit7s/CVE-2023-36553-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/kenit7s/CVE-2023-36553-RCE">
 
 ---
@@ -3785,8 +3812,8 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [deIndra/CVE-2023-36076](https://github.com/deIndra/CVE-2023-36076)	<img alt="forks" src="https://img.shields.io/github/forks/deIndra/CVE-2023-36076">	<img alt="stars" src="https://img.shields.io/github/stars/deIndra/CVE-2023-36076">
 
 ---
-## CVE-2023-36025 ()
-> 
+## CVE-2023-36025 (2023-11-14T18:15:00)
+> Windows SmartScreen Security Feature Bypass Vulnerability
 - [ka7ana/CVE-2023-36025](https://github.com/ka7ana/CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/ka7ana/CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/ka7ana/CVE-2023-36025">
 - [DamnIt74/CVE-2023-36025](https://github.com/DamnIt74/CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/DamnIt74/CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/DamnIt74/CVE-2023-36025">
 - [J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/J466Y/test_CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/J466Y/test_CVE-2023-36025">
@@ -3800,8 +3827,8 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [baph0m3th/CVE-2023-36003](https://github.com/baph0m3th/CVE-2023-36003)	<img alt="forks" src="https://img.shields.io/github/forks/baph0m3th/CVE-2023-36003">	<img alt="stars" src="https://img.shields.io/github/stars/baph0m3th/CVE-2023-36003">
 
 ---
-## CVE-2023-35985 ()
-> 
+## CVE-2023-35985 (2023-11-27T16:15:00)
+> An arbitrary file creation vulnerability exists in the Javascript exportDataObject API of Foxit Reader 12.1.3.15356 due to a failure to properly validate a dangerous extension. A specially crafted malicious file can create files at arbitrary locations, which can lead to arbitrary code execution. An attacker needs to trick the user into opening the malicious file to trigger this vulnerability. Exploitation is also possible if a user visits a specially-crafted malicious site if the browser plugin extension is enabled.
 - [SpiralBL0CK/-CVE-2023-35985](https://github.com/SpiralBL0CK/-CVE-2023-35985)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/-CVE-2023-35985">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/-CVE-2023-35985">
 - [N00BIER/CVE-2023-35985](https://github.com/N00BIER/CVE-2023-35985)	<img alt="forks" src="https://img.shields.io/github/forks/N00BIER/CVE-2023-35985">	<img alt="stars" src="https://img.shields.io/github/stars/N00BIER/CVE-2023-35985">
 
@@ -3947,8 +3974,8 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 - [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2023-35086-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2023-35086-POC">
 
 ---
-## CVE-2023-35080 ()
-> 
+## CVE-2023-35080 (2023-11-15T00:15:00)
+> A vulnerability has been identified in the Ivanti Secure Access Windows client, which could allow a locally authenticated attacker to exploit a vulnerable configuration, potentially leading to various security risks, including the escalation of privileges, denial of service, or information disclosure.
 - [HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation](https://github.com/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation">
 
 ---
@@ -4904,8 +4931,21 @@ Fixed in version 6.4.1.
 - [u238/Elasticsearch-CVE-2023-31419](https://github.com/u238/Elasticsearch-CVE-2023-31419)	<img alt="forks" src="https://img.shields.io/github/forks/u238/Elasticsearch-CVE-2023-31419">	<img alt="stars" src="https://img.shields.io/github/stars/u238/Elasticsearch-CVE-2023-31419">
 
 ---
-## CVE-2023-31320 ()
-> 
+## CVE-2023-31320 (2023-11-14T19:15:00)
+> Improper input validation in the AMD RadeonTM Graphics display driver may allow an attacker to corrupt the display potentially resulting in denial of service.
+
+
+
+
+
+
+
+
+
+
+
+
+
 - [whypet/CVE-2023-31320](https://github.com/whypet/CVE-2023-31320)	<img alt="forks" src="https://img.shields.io/github/forks/whypet/CVE-2023-31320">	<img alt="stars" src="https://img.shields.io/github/stars/whypet/CVE-2023-31320">
 
 ---
@@ -6239,8 +6279,8 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [LazyySec/CVE-2023-24488](https://github.com/LazyySec/CVE-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-24488">
 
 ---
-## CVE-2023-2437 ()
-> 
+## CVE-2023-2437 (2023-11-22T16:15:00)
+> The UserPro plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 5.1.1. This is due to insufficient verification on the user being supplied during a Facebook login through the plugin. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the email. An attacker can leverage CVE-2023-2448 and CVE-2023-2446 to get the user's email address to successfully exploit this vulnerability.
 - [RxRCoder/CVE-2023-2437](https://github.com/RxRCoder/CVE-2023-2437)	<img alt="forks" src="https://img.shields.io/github/forks/RxRCoder/CVE-2023-2437">	<img alt="stars" src="https://img.shields.io/github/stars/RxRCoder/CVE-2023-2437">
 
 ---
@@ -7544,8 +7584,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [0xsu3ks/CVE-2023-1665](https://github.com/0xsu3ks/CVE-2023-1665)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2023-1665">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2023-1665">
 
 ---
-## CVE-2023-1521 ()
-> 
+## CVE-2023-1521 (2024-11-26T12:15:00)
+> On Linux the sccache client can execute arbitrary code with the privileges of a local sccache server, by preloading the code in a shared library passed to LD_PRELOAD.
+
+
+If the server is run as root (which is the default when installing the  snap package https://snapcraft.io/sccache ), this means a user running the sccache client can get root privileges.
 - [rubbxalc/CVE-2023-1521](https://github.com/rubbxalc/CVE-2023-1521)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2023-1521">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2023-1521">
 
 ---
