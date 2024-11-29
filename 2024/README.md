@@ -7173,6 +7173,7 @@ authentication.   
 ## CVE-2024-11477 ()
 > 
 - [maybelookis/CVE-2024-11477](https://github.com/maybelookis/CVE-2024-11477)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-11477">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-11477">
+- [TheN00bBuilder/cve-2024-11477-writeup](https://github.com/TheN00bBuilder/cve-2024-11477-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/TheN00bBuilder/cve-2024-11477-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/TheN00bBuilder/cve-2024-11477-writeup">
 
 ---
 ## CVE-2024-11451 ()
