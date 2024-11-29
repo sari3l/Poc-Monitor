@@ -1625,6 +1625,11 @@
 - [pwndorei/CVE-2018-0959](https://github.com/pwndorei/CVE-2018-0959)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2018-0959">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2018-0959">
 
 ---
+## CVE-2018-0886 (2018-03-14T17:29:00)
+> The Credential Security Support Provider protocol (CredSSP) in Microsoft Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8.1 and RT 8.1, Windows Server 2012 and R2, Windows 10 Gold, 1511, 1607, 1703, and 1709 Windows Server 2016 and Windows Server, version 1709 allows a remote code execution vulnerability due to how CredSSP validates request during the authentication process, aka "CredSSP Remote Code Execution Vulnerability".
+- [andychao/Remote_code_execution_vulnerability_CVE-2018-0886_vulnerability_fixing_resources_download](https://github.com/andychao/Remote_code_execution_vulnerability_CVE-2018-0886_vulnerability_fixing_resources_download)	<img alt="forks" src="https://img.shields.io/github/forks/andychao/Remote_code_execution_vulnerability_CVE-2018-0886_vulnerability_fixing_resources_download">	<img alt="stars" src="https://img.shields.io/github/stars/andychao/Remote_code_execution_vulnerability_CVE-2018-0886_vulnerability_fixing_resources_download">
+
+---
 ## CVE-2018-0834 (2018-02-15T02:29:00)
 > Microsoft Edge and ChakraCore in Microsoft Windows 10 Gold, 1511, 1607, 1703, 1709, and Windows Server 2016 allows remote code execution, due to how the scripting engine handles objects in memory, aka "Scripting Engine Memory Corruption Vulnerability". This CVE ID is unique from CVE-2018-0835, CVE-2018-0836, CVE-2018-0837, CVE-2018-0838, CVE-2018-0840, CVE-2018-0856, CVE-2018-0857, CVE-2018-0858, CVE-2018-0859, CVE-2018-0860, CVE-2018-0861, and CVE-2018-0866.
 - [SpiralBL0CK/-CVE-2018-0834-aab-aar](https://github.com/SpiralBL0CK/-CVE-2018-0834-aab-aar)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/-CVE-2018-0834-aab-aar">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/-CVE-2018-0834-aab-aar">
