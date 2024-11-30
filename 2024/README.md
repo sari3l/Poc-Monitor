@@ -7827,6 +7827,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [iSee857/CVE-2024-0012-poc](https://github.com/iSee857/CVE-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-0012-poc">
 - [XiaomingX/cve-2024-0012-poc](https://github.com/XiaomingX/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-0012-poc">
 - [PunitTailor55/Paloalto-CVE-2024-0012](https://github.com/PunitTailor55/Paloalto-CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/PunitTailor55/Paloalto-CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/PunitTailor55/Paloalto-CVE-2024-0012">
+- [0xjessie21/CVE-2024-0012](https://github.com/0xjessie21/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/CVE-2024-0012">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)
