@@ -183,6 +183,8 @@
 - [AnonkiGroup/AnonHik](https://github.com/AnonkiGroup/AnonHik)	<img alt="forks" src="https://img.shields.io/github/forks/AnonkiGroup/AnonHik">	<img alt="stars" src="https://img.shields.io/github/stars/AnonkiGroup/AnonHik">
 - [yousouf-Tasfin/cve-2017-7921-Mass-Exploit](https://github.com/yousouf-Tasfin/cve-2017-7921-Mass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yousouf-Tasfin/cve-2017-7921-Mass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yousouf-Tasfin/cve-2017-7921-Mass-Exploit">
 - [kooroshsanaei/HikVision-CVE-2017-7921](https://github.com/kooroshsanaei/HikVision-CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/kooroshsanaei/HikVision-CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/kooroshsanaei/HikVision-CVE-2017-7921">
+- [andychao/CVE-2017-7921_reproduces_decrypted_file_sharing](https://github.com/andychao/CVE-2017-7921_reproduces_decrypted_file_sharing)	<img alt="forks" src="https://img.shields.io/github/forks/andychao/CVE-2017-7921_reproduces_decrypted_file_sharing">	<img alt="stars" src="https://img.shields.io/github/stars/andychao/CVE-2017-7921_reproduces_decrypted_file_sharing">
+- [aengussong/hikvision_probe](https://github.com/aengussong/hikvision_probe)	<img alt="forks" src="https://img.shields.io/github/forks/aengussong/hikvision_probe">	<img alt="stars" src="https://img.shields.io/github/stars/aengussong/hikvision_probe">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)

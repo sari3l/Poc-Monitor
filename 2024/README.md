@@ -901,6 +901,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-52380 ()
 > 
 - [RandomRobbieBF/CVE-2024-52380](https://github.com/RandomRobbieBF/CVE-2024-52380)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52380">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52380">
+- [0xshoriful/CVE-2024-52380](https://github.com/0xshoriful/CVE-2024-52380)	<img alt="forks" src="https://img.shields.io/github/forks/0xshoriful/CVE-2024-52380">	<img alt="stars" src="https://img.shields.io/github/stars/0xshoriful/CVE-2024-52380">
 
 ---
 ## CVE-2024-52318 (2024-11-18T13:15:00)
@@ -7438,6 +7439,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10470 ()
 > 
 - [RandomRobbieBF/CVE-2024-10470](https://github.com/RandomRobbieBF/CVE-2024-10470)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10470">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10470">
+- [0xshoriful/CVE-2024-10470](https://github.com/0xshoriful/CVE-2024-10470)	<img alt="forks" src="https://img.shields.io/github/forks/0xshoriful/CVE-2024-10470">	<img alt="stars" src="https://img.shields.io/github/stars/0xshoriful/CVE-2024-10470">
 
 ---
 ## CVE-2024-10449 (2024-10-28T15:15:00)
