@@ -1093,6 +1093,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [z1gazaga/CVE-2024-5084](https://github.com/z1gazaga/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/z1gazaga/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/z1gazaga/CVE-2024-5084">
 - [Wh1teSnak3/CVE-2024-50849](https://github.com/Wh1teSnak3/CVE-2024-50849)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50849">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50849">
 - [Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50848">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50848">
+- [Raeezrbr/CVE-2024-5084](https://github.com/Raeezrbr/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/Raeezrbr/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/Raeezrbr/CVE-2024-5084">
 
 ---
 ## CVE-2024-50804 ()
