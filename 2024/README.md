@@ -2250,6 +2250,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [partywavesec/CVE-2024-42346](https://github.com/partywavesec/CVE-2024-42346)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2024-42346">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2024-42346">
 
 ---
+## CVE-2024-42327 (2024-11-27T12:15:00)
+> A non-admin user account on the Zabbix frontend with the default User role, or with any other role that gives API access can exploit this vulnerability. An SQLi exists in the CUser class in the addRelatedObjects function, this function is being called from the CUser.get function which is available for every user who has API access.
+- [zetraxz/CVE-2024-42327](https://github.com/zetraxz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42327">
+
+---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
 > This vulnerability exists in Digisol Router (DG-GR1321: Hardware version 3.7L;  Firmware version : v3.2.02) due to lack of encryption or hashing in storing of passwords within the router's firmware/ database. An attacker with physical access could exploit this by extracting the firmware and reverse engineer the binary data to access the plaintext passwords on the vulnerable system.
 
