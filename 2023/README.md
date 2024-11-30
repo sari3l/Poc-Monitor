@@ -2513,6 +2513,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [0xDTC/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425](https://github.com/0xDTC/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425">
 - [h3athen/CVE-2023-41425](https://github.com/h3athen/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/h3athen/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/h3athen/CVE-2023-41425">
 - [Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE](https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE">
+- [0x0d3ad/CVE-2023-41425](https://github.com/0x0d3ad/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2023-41425">
 
 ---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
