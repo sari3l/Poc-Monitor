@@ -947,6 +947,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 > Laravel is a web application framework. When the register_argc_argv php directive is set to on , and users call any URL with a special crafted query string, they are able to change the environment used by the framework when handling the request. The vulnerability fixed in 6.20.45, 7.30.7, 8.83.28, 9.52.17, 10.48.23, and 11.31.0. The framework now ignores argv values for environment detection on non-cli SAPIs.
 - [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-52301">
 - [martinhaunschmid/CVE-2024-52301-Research](https://github.com/martinhaunschmid/CVE-2024-52301-Research)	<img alt="forks" src="https://img.shields.io/github/forks/martinhaunschmid/CVE-2024-52301-Research">	<img alt="stars" src="https://img.shields.io/github/stars/martinhaunschmid/CVE-2024-52301-Research">
+- [nanwinata/CVE-2024-52301](https://github.com/nanwinata/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-52301">
 
 ---
 ## CVE-2024-51747 ()
