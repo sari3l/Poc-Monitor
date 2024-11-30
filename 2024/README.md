@@ -1026,8 +1026,8 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [BrotherOfJhonny/CVE-2024-51026_Overview](https://github.com/BrotherOfJhonny/CVE-2024-51026_Overview)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-51026_Overview">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-51026_Overview">
 
 ---
-## CVE-2024-50986 ()
-> 
+## CVE-2024-50986 (2024-11-15T15:15:00)
+> An issue in Clementine v.1.3.1 allows a local attacker to execute arbitrary code via a crafted DLL file.
 - [riftsandroses/CVE-2024-50986](https://github.com/riftsandroses/CVE-2024-50986)	<img alt="forks" src="https://img.shields.io/github/forks/riftsandroses/CVE-2024-50986">	<img alt="stars" src="https://img.shields.io/github/stars/riftsandroses/CVE-2024-50986">
 
 ---
