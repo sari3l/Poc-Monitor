@@ -7797,6 +7797,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [overgrowncarrot1/CVE-2023-0297](https://github.com/overgrowncarrot1/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-0297">
 - [btar1gan/exploit_CVE-2023-0297](https://github.com/btar1gan/exploit_CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/btar1gan/exploit_CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/btar1gan/exploit_CVE-2023-0297">
 - [S4MY9/CVE-2023-0297](https://github.com/S4MY9/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/S4MY9/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/S4MY9/CVE-2023-0297">
+- [oxapavan/CVE-2023-0297](https://github.com/oxapavan/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/oxapavan/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/oxapavan/CVE-2023-0297">
 
 ---
 ## CVE-2023-0286 (2023-02-08T20:15:00)
