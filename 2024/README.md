@@ -7291,6 +7291,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [xthalach/CVE-2024-11318](https://github.com/xthalach/CVE-2024-11318)	<img alt="forks" src="https://img.shields.io/github/forks/xthalach/CVE-2024-11318">	<img alt="stars" src="https://img.shields.io/github/stars/xthalach/CVE-2024-11318">
 
 ---
+## CVE-2024-11252 (2024-11-30T06:15:00)
+> The Social Sharing Plugin – Sassy Social Share plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the heateor_mastodon_share parameter in all versions up to, and including, 3.3.69 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.
+- [reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS](https://github.com/reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS">
+
+---
 ## CVE-2024-11201 ()
 > 
 - [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201)	<img alt="forks" src="https://img.shields.io/github/forks/NSQAQ/CVE-2024-11201">	<img alt="stars" src="https://img.shields.io/github/stars/NSQAQ/CVE-2024-11201">
