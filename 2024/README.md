@@ -4156,6 +4156,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [robertdfrench/ifuncd-up](https://github.com/robertdfrench/ifuncd-up)	<img alt="forks" src="https://img.shields.io/github/forks/robertdfrench/ifuncd-up">	<img alt="stars" src="https://img.shields.io/github/stars/robertdfrench/ifuncd-up">
 - [yq93dskimzm2/CVE-2024-3094](https://github.com/yq93dskimzm2/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/yq93dskimzm2/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/yq93dskimzm2/CVE-2024-3094">
 - [yq93dskimzm2/CVE-2024-3094](https://github.com/yq93dskimzm2/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/yq93dskimzm2/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/yq93dskimzm2/CVE-2024-3094">
+- [XiaomingX/cve-2024-3094-xz-backdoor-exploit](https://github.com/XiaomingX/cve-2024-3094-xz-backdoor-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-3094-xz-backdoor-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-3094-xz-backdoor-exploit">
 
 ---
 ## CVE-2024-30937 ()
@@ -7502,6 +7503,7 @@ resulting in database manipulation.
 - [phoenixmerk/CVE-2024-10220](https://github.com/phoenixmerk/CVE-2024-10220)	<img alt="forks" src="https://img.shields.io/github/forks/phoenixmerk/CVE-2024-10220">	<img alt="stars" src="https://img.shields.io/github/stars/phoenixmerk/CVE-2024-10220">
 - [phoenixmerk/CVE-2024-10220-test-case](https://github.com/phoenixmerk/CVE-2024-10220-test-case)	<img alt="forks" src="https://img.shields.io/github/forks/phoenixmerk/CVE-2024-10220-test-case">	<img alt="stars" src="https://img.shields.io/github/stars/phoenixmerk/CVE-2024-10220-test-case">
 - [any2sec/cve-2024-10220](https://github.com/any2sec/cve-2024-10220)	<img alt="forks" src="https://img.shields.io/github/forks/any2sec/cve-2024-10220">	<img alt="stars" src="https://img.shields.io/github/stars/any2sec/cve-2024-10220">
+- [XiaomingX/cve-2024-10220-githooks](https://github.com/XiaomingX/cve-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-10220-githooks">
 
 ---
 ## CVE-2024-10140 (2024-10-19T15:15:00)
