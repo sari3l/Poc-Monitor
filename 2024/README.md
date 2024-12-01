@@ -6311,6 +6311,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 ## CVE-2024-22734 (2024-04-12T06:15:00)
 > An issue was discovered in AMCS Group Trux Waste Management Software before version 7.19.0018.26912, allows local attackers to obtain sensitive information via a static, hard-coded AES Key-IV pair in the TxUtilities.dll and TruxUser.cfg components.
 - [securekomodo/CVE-2024-22734](https://github.com/securekomodo/CVE-2024-22734)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/CVE-2024-22734">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/CVE-2024-22734">
+- [securekomodo/CVE-2024-22734](https://github.com/securekomodo/CVE-2024-22734)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/CVE-2024-22734">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/CVE-2024-22734">
 
 ---
 ## CVE-2024-22642 ()
