@@ -7370,6 +7370,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [Trackflaw/CVE-2024-10924-Wordpress-Docker](https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2024-10924-Wordpress-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2024-10924-Wordpress-Docker">
 - [dua1337/Exploit-for-CVE-2024-10924](https://github.com/dua1337/Exploit-for-CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/dua1337/Exploit-for-CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/dua1337/Exploit-for-CVE-2024-10924">
 - [Maalfer/CVE-2024-10924-PoC](https://github.com/Maalfer/CVE-2024-10924-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2024-10924-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2024-10924-PoC">
+- [D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB](https://github.com/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB">
 
 ---
 ## CVE-2024-10920 (2024-11-06T16:15:00)
