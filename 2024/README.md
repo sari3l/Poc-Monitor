@@ -2254,6 +2254,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 ## CVE-2024-42327 (2024-11-27T12:15:00)
 > A non-admin user account on the Zabbix frontend with the default User role, or with any other role that gives API access can exploit this vulnerability. An SQLi exists in the CUser class in the addRelatedObjects function, this function is being called from the CUser.get function which is available for every user who has API access.
 - [zetraxz/CVE-2024-42327](https://github.com/zetraxz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42327">
+- [aramosf/cve-2024-42327](https://github.com/aramosf/cve-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/cve-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/cve-2024-42327">
 
 ---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
