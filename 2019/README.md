@@ -3001,6 +3001,11 @@
 - [Tonyynot14/CVE-2019-1010268](https://github.com/Tonyynot14/CVE-2019-1010268)	<img alt="forks" src="https://img.shields.io/github/forks/Tonyynot14/CVE-2019-1010268">	<img alt="stars" src="https://img.shields.io/github/stars/Tonyynot14/CVE-2019-1010268">
 
 ---
+## CVE-2019-1010174 (2019-07-25T14:15:00)
+> CImg The CImg Library v.2.3.3 and earlier is affected by: command injection. The impact is: RCE. The component is: load_network() function. The attack vector is: Loading an image from a user-controllable url can lead to command injection, because no string sanitization is done on the url. The fixed version is: v.2.3.4.
+- [NketiahGodfred/CVE-2019-1010174](https://github.com/NketiahGodfred/CVE-2019-1010174)	<img alt="forks" src="https://img.shields.io/github/forks/NketiahGodfred/CVE-2019-1010174">	<img alt="stars" src="https://img.shields.io/github/stars/NketiahGodfred/CVE-2019-1010174">
+
+---
 ## CVE-2019-1010065 (2019-07-18T17:15:00)
 > The Sleuth Kit 4.6.0 and earlier is affected by: Integer Overflow. The impact is: Opening crafted disk image triggers crash in tsk/fs/hfs_dent.c:237. The component is: Overflow in fls tool used on HFS image. Bug is in tsk/fs/hfs.c file in function hfs_cat_traverse() in lines: 952, 1062. The attack vector is: Victim must open a crafted HFS filesystem image.
 - [Live-Hack-CVE/CVE-2019-1010065](https://github.com/Live-Hack-CVE/CVE-2019-1010065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1010065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1010065">
