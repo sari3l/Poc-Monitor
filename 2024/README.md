@@ -7291,6 +7291,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11381">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11381">
 
 ---
+## CVE-2024-11320 (2024-11-21T11:15:00)
+> Arbitrary commands execution on the server by exploiting a command injection vulnerability in the LDAP authentication mechanism. This issue affects Pandora FMS: from 700 through <=777.4
+- [mhaskar/CVE-2024-11320](https://github.com/mhaskar/CVE-2024-11320)	<img alt="forks" src="https://img.shields.io/github/forks/mhaskar/CVE-2024-11320">	<img alt="stars" src="https://img.shields.io/github/stars/mhaskar/CVE-2024-11320">
+
+---
 ## CVE-2024-11319 (2024-11-18T12:15:00)
 > Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in django CMS Association django-cms allows Cross-Site Scripting (XSS).This issue affects django-cms: 3.11.7, 3.11.8, 4.1.2, 4.1.3.
 - [famixcm/CVE-2024-11319](https://github.com/famixcm/CVE-2024-11319)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-11319">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-11319">
