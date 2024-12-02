@@ -244,6 +244,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [huydoppaz/CVE-2024-8698-POC](https://github.com/huydoppaz/CVE-2024-8698-POC)	<img alt="forks" src="https://img.shields.io/github/forks/huydoppaz/CVE-2024-8698-POC">	<img alt="stars" src="https://img.shields.io/github/stars/huydoppaz/CVE-2024-8698-POC">
 
 ---
+## CVE-2024-8672 (2024-11-28T10:15:00)
+> The Widget Options – The #1 WordPress Widget & Block Control Plugin plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.0.7 via the display logic functionality that extends several page builders. This is due to the plugin allowing users to supply input that will be passed through eval() without any filtering or capability checks. This makes it possible for authenticated attackers, with contributor-level access and above, to execute code on the server. Special note: We suggested the vendor implement an allowlist of functions and limit the ability to execute commands to just administrators, however, they did not take our advice. We are considering this patched, however, we believe it could still be further hardened and there may be residual risk with how the issue is currently patched.
+- [Chocapikk/CVE-2024-8672](https://github.com/Chocapikk/CVE-2024-8672)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8672">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8672">
+
+---
 ## CVE-2024-8522 (2024-09-12T09:15:00)
 > The LearnPress – WordPress LMS Plugin plugin for WordPress is vulnerable to SQL Injection via the 'c_only_fields' parameter of the /wp-json/learnpress/v1/courses REST API endpoint in all versions up to, and including, 4.2.7 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [realbotnet/CVE-2024-8522](https://github.com/realbotnet/CVE-2024-8522)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-8522">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-8522">
