@@ -835,8 +835,8 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS)	<img alt="forks" src="https://img.shields.io/github/forks/K4yd0/CVE-2024-5420_XSS">	<img alt="stars" src="https://img.shields.io/github/stars/K4yd0/CVE-2024-5420_XSS">
 
 ---
-## CVE-2024-53617 ()
-> 
+## CVE-2024-53617 (2024-12-02T19:15:00)
+> A Cross Site Scripting vulnerability in LibrePhotos before commit 32237 allows attackers to takeover any account via uploading an HTML file on behalf of the admin user using IDOR in file upload.
 - [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617)	<img alt="forks" src="https://img.shields.io/github/forks/ii5mai1/CVE-2024-53617">	<img alt="stars" src="https://img.shields.io/github/stars/ii5mai1/CVE-2024-53617">
 
 ---
