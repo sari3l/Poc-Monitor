@@ -1453,6 +1453,19 @@
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
 
 ---
+## CVE-2019-25162 (2024-02-26T18:15:00)
+> In the Linux kernel, the following vulnerability has been resolved:
+
+i2c: Fix a potential use after free
+
+Free the adap structure only after we are done using it.
+This patch just moves the put_device() down a bit to avoid the
+use after free.
+
+[wsa: added comment to the code, added Fixes tag]
+- [uthrasri/CVE-2019-25162](https://github.com/uthrasri/CVE-2019-25162)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2019-25162">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2019-25162">
+
+---
 ## CVE-2019-25137 (2023-05-18T07:15:00)
 > Umbraco CMS 7.12.4 allows Remote Code Execution by authenticated administrators via msxsl:script in an xsltSelection to developer/Xslt/xsltVisualize.aspx.
 - [Ickarah/CVE-2019-25137-Version-Research](https://github.com/Ickarah/CVE-2019-25137-Version-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Ickarah/CVE-2019-25137-Version-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Ickarah/CVE-2019-25137-Version-Research">
