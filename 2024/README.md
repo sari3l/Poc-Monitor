@@ -1788,6 +1788,20 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [verylazytech/CVE-2024-45241](https://github.com/verylazytech/CVE-2024-45241)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-45241">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-45241">
 
 ---
+## CVE-2024-45216 (2024-10-16T08:15:00)
+> Improper Authentication vulnerability in Apache Solr.
+
+Solr instances using the PKIAuthenticationPlugin, which is enabled by default when Solr Authentication is used, are vulnerable to Authentication bypass.
+A fake ending at the end of any Solr API URL path, will allow requests to skip Authentication while maintaining the API contract with the original URL Path.
+This fake ending looks like an unprotected API path, however it is stripped off internally after authentication but before API routing.
+
+
+This issue affects Apache Solr: from 5.3.0 before 8.11.4, from 9.0.0 before 9.7.0.
+
+Users are recommended to upgrade to version 9.7.0, or 8.11.4, which fix the issue.
+- [congdong007/CVE-2024-45216-Poc](https://github.com/congdong007/CVE-2024-45216-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/congdong007/CVE-2024-45216-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/congdong007/CVE-2024-45216-Poc">
+
+---
 ## CVE-2024-45163 (2024-08-22T04:15:00)
 > The Mirai botnet through 2024-08-19 mishandles simultaneous TCP connections to the CNC (command and control) server. Unauthenticated sessions remain open, causing resource consumption. For example, an attacker can send a recognized username (such as root), or can send arbitrary data.
 - [0romos/CVE-2024-45163](https://github.com/0romos/CVE-2024-45163)	<img alt="forks" src="https://img.shields.io/github/forks/0romos/CVE-2024-45163">	<img alt="stars" src="https://img.shields.io/github/stars/0romos/CVE-2024-45163">
