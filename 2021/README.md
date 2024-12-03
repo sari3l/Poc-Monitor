@@ -5985,6 +5985,7 @@
 - [DASICS-ICT/DASICS-CVE-2021-3156](https://github.com/DASICS-ICT/DASICS-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/DASICS-ICT/DASICS-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/DASICS-ICT/DASICS-CVE-2021-3156">
 - [acidburn2049/CVE-2021-3156](https://github.com/acidburn2049/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/acidburn2049/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/acidburn2049/CVE-2021-3156">
 - [Bad3r/CVE-2021-3156-without-ip-command](https://github.com/Bad3r/CVE-2021-3156-without-ip-command)	<img alt="forks" src="https://img.shields.io/github/forks/Bad3r/CVE-2021-3156-without-ip-command">	<img alt="stars" src="https://img.shields.io/github/stars/Bad3r/CVE-2021-3156-without-ip-command">
+- [Sebastianbedoya25/CVE-2021-3156](https://github.com/Sebastianbedoya25/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Sebastianbedoya25/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Sebastianbedoya25/CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)

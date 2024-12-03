@@ -992,6 +992,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-5124 (2024-06-06T19:16:00)
 > A timing attack vulnerability exists in the gaizhenbiao/chuanhuchatgpt repository, specifically within the password comparison logic. The vulnerability is present in version 20240310 of the software, where passwords are compared using the '=' operator in Python. This method of comparison allows an attacker to guess passwords based on the timing of each character's comparison. The issue arises from the code segment that checks a password for a particular username, which can lead to the exposure of sensitive information to an unauthorized actor. An attacker exploiting this vulnerability could potentially guess user passwords, compromising the security of the system.
 - [gogo2464/CVE-2024-5124](https://github.com/gogo2464/CVE-2024-5124)	<img alt="forks" src="https://img.shields.io/github/forks/gogo2464/CVE-2024-5124">	<img alt="stars" src="https://img.shields.io/github/stars/gogo2464/CVE-2024-5124">
+- [XiaomingX/CVE-2024-5124-poc](https://github.com/XiaomingX/CVE-2024-5124-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-5124-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-5124-poc">
 
 ---
 ## CVE-2024-51179 ()
