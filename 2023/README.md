@@ -2987,6 +2987,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [idkwastaken/CVE-2023-38831](https://github.com/idkwastaken/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/idkwastaken/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/idkwastaken/CVE-2023-38831">
 - [vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC](https://github.com/vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC">
 - [vilonachan/CVE-2023-38831-winrar-exploit](https://github.com/vilonachan/CVE-2023-38831-winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/vilonachan/CVE-2023-38831-winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/vilonachan/CVE-2023-38831-winrar-exploit">
+- [VictoriousKnight/CVE-2023-38831_Exploit](https://github.com/VictoriousKnight/CVE-2023-38831_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/VictoriousKnight/CVE-2023-38831_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/VictoriousKnight/CVE-2023-38831_Exploit">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
