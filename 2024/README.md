@@ -867,6 +867,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [14mb1v45h/cyberspace-CVE-2024-52711](https://github.com/14mb1v45h/cyberspace-CVE-2024-52711)	<img alt="forks" src="https://img.shields.io/github/forks/14mb1v45h/cyberspace-CVE-2024-52711">	<img alt="stars" src="https://img.shields.io/github/stars/14mb1v45h/cyberspace-CVE-2024-52711">
 
 ---
+## CVE-2024-52680 ()
+> 
+- [cyb3res3c/CVE-2024-52680](https://github.com/cyb3res3c/CVE-2024-52680)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-52680">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-52680">
+
+---
 ## CVE-2024-52677 (2024-11-20T21:15:00)
 > HkCms <= v2.3.2.240702 is vulnerable to file upload in the getFileName method in /app/common/library/Upload.php.
 - [J-0k3r/CVE-2024-52677](https://github.com/J-0k3r/CVE-2024-52677)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2024-52677">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2024-52677">
