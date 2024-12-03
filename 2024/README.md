@@ -846,6 +846,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC)	<img alt="forks" src="https://img.shields.io/github/forks/droyuu/Aj-Report-sql-CVE-2024-5356-POC">	<img alt="stars" src="https://img.shields.io/github/stars/droyuu/Aj-Report-sql-CVE-2024-5356-POC">
 
 ---
+## CVE-2024-53470 ()
+> 
+- [nmmorette/CVE-2024-53470](https://github.com/nmmorette/CVE-2024-53470)	<img alt="forks" src="https://img.shields.io/github/forks/nmmorette/CVE-2024-53470">	<img alt="stars" src="https://img.shields.io/github/stars/nmmorette/CVE-2024-53470">
+
+---
 ## CVE-2024-5326 (2024-05-30T11:15:00)
 > The Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'postx_presets_callback' function in all versions up to, and including, 4.1.2. This makes it possible for authenticated attackers, with Contributor-level access and above, to change arbitrary options on affected sites. This can be used to enable new user registration and set the default role for new users to Administrator.
 - [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5326-Poc">
