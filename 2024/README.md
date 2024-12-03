@@ -1309,8 +1309,8 @@ length to be included in the checksum calculation is fully consumed.
 - [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039)	<img alt="forks" src="https://img.shields.io/github/forks/je5442804/WPTaskScheduler_CVE-2024-49039">	<img alt="stars" src="https://img.shields.io/github/stars/je5442804/WPTaskScheduler_CVE-2024-49039">
 
 ---
-## CVE-2024-48990 ()
-> 
+## CVE-2024-48990 (2024-11-19T18:15:00)
+> Qualys discovered that needrestart, before version 3.8, allows local attackers to execute arbitrary code as root by tricking needrestart into running the Python interpreter with an attacker-controlled PYTHONPATH environment variable.
 - [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/makuga01/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/makuga01/CVE-2024-48990-PoC">
 - [ns989/CVE-2024-48990](https://github.com/ns989/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/ns989/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/ns989/CVE-2024-48990">
 - [felmoltor/CVE-2024-48990](https://github.com/felmoltor/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/felmoltor/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/felmoltor/CVE-2024-48990">
@@ -7382,8 +7382,8 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-11016">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-11016">
 
 ---
-## CVE-2024-11003 ()
-> 
+## CVE-2024-11003 (2024-11-19T18:15:00)
+> Qualys discovered that needrestart, before version 3.8, passes unsanitized data to a library (Modules::ScanDeps) which expects safe input. This could allow a local attacker to execute arbitrary shell commands. Please see the related CVE-2024-10224 in Modules::ScanDeps.
 - [unknown-user-from/CVE-2024-11003-PoC](https://github.com/unknown-user-from/CVE-2024-11003-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/unknown-user-from/CVE-2024-11003-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/unknown-user-from/CVE-2024-11003-PoC">
 - [njeru-codes/needrestart-vulnerability-poc](https://github.com/njeru-codes/needrestart-vulnerability-poc)	<img alt="forks" src="https://img.shields.io/github/forks/njeru-codes/needrestart-vulnerability-poc">	<img alt="stars" src="https://img.shields.io/github/stars/njeru-codes/needrestart-vulnerability-poc">
 
