@@ -7884,7 +7884,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [VegetableLasagne/CVE-2024-0012](https://github.com/VegetableLasagne/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/VegetableLasagne/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/VegetableLasagne/CVE-2024-0012">
 - [iSee857/CVE-2024-0012-poc](https://github.com/iSee857/CVE-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-0012-poc">
 - [XiaomingX/cve-2024-0012-poc](https://github.com/XiaomingX/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-0012-poc">
-- [PunitTailor55/Paloalto-CVE-2024-0012](https://github.com/PunitTailor55/Paloalto-CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/PunitTailor55/Paloalto-CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/PunitTailor55/Paloalto-CVE-2024-0012">
+- [punitdarji/Paloalto-CVE-2024-0012](https://github.com/punitdarji/Paloalto-CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Paloalto-CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Paloalto-CVE-2024-0012">
 - [0xjessie21/CVE-2024-0012](https://github.com/0xjessie21/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/CVE-2024-0012">
 
 ---
