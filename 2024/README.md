@@ -1148,6 +1148,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-50498 (2024-10-28T12:15:00)
 > Improper Control of Generation of Code ('Code Injection') vulnerability in LUBUS WP Query Console allows Code Injection.This issue affects WP Query Console: from n/a through 1.0.
 - [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50498">
+- [p0et08/CVE-2024-50498](https://github.com/p0et08/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/p0et08/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/p0et08/CVE-2024-50498">
 
 ---
 ## CVE-2024-50493 (2024-10-29T08:15:00)
