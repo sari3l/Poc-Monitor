@@ -647,6 +647,7 @@ We recommend users to:
 > Certain DNSSEC aspects of the DNS protocol (in RFC 4033, 4034, 4035, 6840, and related RFCs) allow remote attackers to cause a denial of service (CPU consumption) via one or more DNSSEC responses, aka the "KeyTrap" issue. One of the concerns is that, when there is a zone with many DNSKEY and RRSIG records, the protocol specification implies that an algorithm must evaluate all combinations of DNSKEY and RRSIG records.
 - [knqyf263/CVE-2023-50387](https://github.com/knqyf263/CVE-2023-50387)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2023-50387">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2023-50387">
 - [Pablodiz/CVE-2023-50387](https://github.com/Pablodiz/CVE-2023-50387)	<img alt="forks" src="https://img.shields.io/github/forks/Pablodiz/CVE-2023-50387">	<img alt="stars" src="https://img.shields.io/github/stars/Pablodiz/CVE-2023-50387">
+- [Meirelez/SSR-DNSSEC](https://github.com/Meirelez/SSR-DNSSEC)	<img alt="forks" src="https://img.shields.io/github/forks/Meirelez/SSR-DNSSEC">	<img alt="stars" src="https://img.shields.io/github/stars/Meirelez/SSR-DNSSEC">
 
 ---
 ## CVE-2023-50386 (2024-02-09T18:15:00)
