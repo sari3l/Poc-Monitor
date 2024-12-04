@@ -858,6 +858,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-5326-Poc">
 
 ---
+## CVE-2024-53259 ()
+> 
+- [kota-yata/cve-2024-53259](https://github.com/kota-yata/cve-2024-53259)	<img alt="forks" src="https://img.shields.io/github/forks/kota-yata/cve-2024-53259">	<img alt="stars" src="https://img.shields.io/github/stars/kota-yata/cve-2024-53259">
+
+---
 ## CVE-2024-53255 (2024-11-25T19:15:00)
 > BoidCMS is a free and open-source flat file CMS for building simple websites and blogs, developed using PHP and uses JSON as a database. In affected versions a reflected Cross-site Scripting (XSS) vulnerability exists in the /admin?page=media endpoint in the file parameter, allowing an attacker to inject arbitrary JavaScript code. This code could be used to steal the user's session cookie, perform phishing attacks, or deface the website. This issue has been addressed in version 2.1.2 and all users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [0x4M3R/CVE-2024-53255](https://github.com/0x4M3R/CVE-2024-53255)	<img alt="forks" src="https://img.shields.io/github/forks/0x4M3R/CVE-2024-53255">	<img alt="stars" src="https://img.shields.io/github/stars/0x4M3R/CVE-2024-53255">
@@ -6816,6 +6821,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape](https://github.com/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape">
 - [HYZ3K/CVE-2024-21413](https://github.com/HYZ3K/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/HYZ3K/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/HYZ3K/CVE-2024-21413">
 - [ThemeHackers/CVE-2024-21413](https://github.com/ThemeHackers/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-21413">
+- [D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB](https://github.com/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
