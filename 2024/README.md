@@ -7299,6 +7299,7 @@ authentication.   
 > ProjectSend versions prior to r1720 are affected by an improper authentication vulnerability. Remote, unauthenticated attackers can exploit this flaw by sending crafted HTTP requests to options.php, enabling unauthorized modification of the application's configuration. Successful exploitation allows attackers to create accounts, upload webshells, and embed malicious JavaScript.
 - [famixcm/CVE-2024-11680](https://github.com/famixcm/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-11680">
 - [exploitboom/CVE-2024-11680](https://github.com/exploitboom/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/exploitboom/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/exploitboom/CVE-2024-11680">
+- [D3N14LD15K/CVE-2024-11680_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-11680_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-11680_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-11680_PoC_Exploit">
 
 ---
 ## CVE-2024-11477 (2024-11-22T21:15:00)
