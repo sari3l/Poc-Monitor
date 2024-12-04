@@ -2291,6 +2291,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2024-42461">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2024-42461">
 
 ---
+## CVE-2024-42448 ()
+> 
+- [zetraxz/CVE-2024-42448](https://github.com/zetraxz/CVE-2024-42448)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42448">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42448">
+
+---
 ## CVE-2024-42346 (2024-09-20T19:15:00)
 > Galaxy is a free, open-source system for analyzing data, authoring workflows, training and education, publishing tools, managing infrastructure, and more. The editor visualization, /visualizations endpoint, can be used to store HTML tags and trigger javascript execution upon edit operation. All supported branches of Galaxy (and more back to release_20.05) were amended with the supplied patches. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [partywavesec/CVE-2024-42346](https://github.com/partywavesec/CVE-2024-42346)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2024-42346">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2024-42346">
