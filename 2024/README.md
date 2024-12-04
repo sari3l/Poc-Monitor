@@ -750,6 +750,7 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 Note: Expedition is a tool aiding in configuration migration, tuning, and enrichment. Configuration secrets, credentials, and other data imported into Expedition is at risk due to this issue.
 - [zetraxz/CVE-2024-5910](https://github.com/zetraxz/CVE-2024-5910)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-5910">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-5910">
 - [p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464](https://github.com/p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464">
+- [Farzan-Kh/CVE-2024-5910](https://github.com/Farzan-Kh/CVE-2024-5910)	<img alt="forks" src="https://img.shields.io/github/forks/Farzan-Kh/CVE-2024-5910">	<img alt="stars" src="https://img.shields.io/github/stars/Farzan-Kh/CVE-2024-5910">
 
 ---
 ## CVE-2024-5899 (2024-06-18T09:15:00)

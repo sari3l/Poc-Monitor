@@ -6453,6 +6453,7 @@
 - [xorverbin/-xorverbin-nacos-CVE-2021-29441-](https://github.com/xorverbin/-xorverbin-nacos-CVE-2021-29441-)	<img alt="forks" src="https://img.shields.io/github/forks/xorverbin/-xorverbin-nacos-CVE-2021-29441-">	<img alt="stars" src="https://img.shields.io/github/stars/xorverbin/-xorverbin-nacos-CVE-2021-29441-">
 - [bysinks/CVE-2021-29441](https://github.com/bysinks/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/bysinks/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/bysinks/CVE-2021-29441">
 - [hh-hunter/nacos-cve-2021-29441](https://github.com/hh-hunter/nacos-cve-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/nacos-cve-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/nacos-cve-2021-29441">
+- [azhao1981/CVE-2021-29441](https://github.com/azhao1981/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/azhao1981/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/azhao1981/CVE-2021-29441">
 
 ---
 ## CVE-2021-29440 (2021-04-13T20:15:00)
