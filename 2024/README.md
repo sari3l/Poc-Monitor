@@ -858,8 +858,8 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-5326-Poc">
 
 ---
-## CVE-2024-53259 ()
-> 
+## CVE-2024-53259 (2024-12-02T17:15:00)
+> quic-go is an implementation of the QUIC protocol in Go. An off-path attacker can inject an ICMP Packet Too Large packet. Since affected quic-go versions used IP_PMTUDISC_DO, the kernel would then return a "message too large" error on sendmsg, i.e. when quic-go attempts to send a packet that exceeds the MTU claimed in that ICMP packet. By setting this value to smaller than 1200 bytes (the minimum MTU for QUIC), the attacker can disrupt a QUIC connection. Crucially, this can be done after completion of the handshake, thereby circumventing any TCP fallback that might be implemented on the application layer (for example, many browsers fall back to HTTP over TCP if they're unable to establish a QUIC connection). The attacker needs to at least know the client's IP and port tuple to mount an attack. This vulnerability is fixed in 0.48.2.
 - [kota-yata/cve-2024-53259](https://github.com/kota-yata/cve-2024-53259)	<img alt="forks" src="https://img.shields.io/github/forks/kota-yata/cve-2024-53259">	<img alt="stars" src="https://img.shields.io/github/stars/kota-yata/cve-2024-53259">
 
 ---
