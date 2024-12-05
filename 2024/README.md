@@ -2334,6 +2334,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [OrangeJuiceHU/CVE-2024-41958-PoC](https://github.com/OrangeJuiceHU/CVE-2024-41958-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/OrangeJuiceHU/CVE-2024-41958-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/OrangeJuiceHU/CVE-2024-41958-PoC">
 
 ---
+## CVE-2024-41713 (2024-10-21T21:15:00)
+> A vulnerability in the NuPoint Unified Messaging (NPM) component of Mitel MiCollab through 9.8 SP1 FP2 (9.8.1.201) could allow an unauthenticated attacker to conduct a path traversal attack, due to insufficient input validation. A successful exploit could allow unauthorized access, enabling the attacker to view, corrupt, or delete users' data and system configurations.
+- [watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713](https://github.com/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713">
+
+---
 ## CVE-2024-41662 (2024-07-24T17:15:00)
 > VNote is a note-taking platform. A Cross-Site Scripting (XSS) vulnerability has been identified in the Markdown rendering functionality of versions 3.18.1 and prior of the VNote note-taking application. This vulnerability allows the injection and execution of arbitrary JavaScript code through which remote code execution can be achieved. A patch for this issue is available at commit f1af78573a0ef51d6ef6a0bc4080cddc8f30a545. Other mitigation strategies include implementing rigorous input sanitization for all Markdown content and utilizing a secure Markdown parser that appropriately escapes or strips potentially dangerous content.
 - [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662)	<img alt="forks" src="https://img.shields.io/github/forks/sh3bu/CVE-2024-41662">	<img alt="stars" src="https://img.shields.io/github/stars/sh3bu/CVE-2024-41662">
