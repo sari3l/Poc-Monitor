@@ -4072,6 +4072,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-31317 (2024-07-09T21:15:00)
 > In multiple functions of ZygoteProcess.java, there is a possible way to achieve code execution as any app via WRITE_SECURE_SETTINGS due to unsafe deserialization. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.
 - [jimmychanii/CVE-2024-31317](https://github.com/jimmychanii/CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/jimmychanii/CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/jimmychanii/CVE-2024-31317">
+- [fuhei/CVE-2024-31317](https://github.com/fuhei/CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/fuhei/CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/fuhei/CVE-2024-31317">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
