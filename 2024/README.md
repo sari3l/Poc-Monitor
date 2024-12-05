@@ -2294,6 +2294,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 ## CVE-2024-42448 ()
 > 
 - [zetraxz/CVE-2024-42448](https://github.com/zetraxz/CVE-2024-42448)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42448">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42448">
+- [h3lye/CVE-2024-42448-RCE](https://github.com/h3lye/CVE-2024-42448-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/h3lye/CVE-2024-42448-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/h3lye/CVE-2024-42448-RCE">
 
 ---
 ## CVE-2024-42346 (2024-09-20T19:15:00)
