@@ -1411,6 +1411,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [ACN-CVEs/CVE-2024-48733](https://github.com/ACN-CVEs/CVE-2024-48733)	<img alt="forks" src="https://img.shields.io/github/forks/ACN-CVEs/CVE-2024-48733">	<img alt="stars" src="https://img.shields.io/github/stars/ACN-CVEs/CVE-2024-48733">
 
 ---
+## CVE-2024-48705 ()
+> 
+- [L41KAA/CVE-2024-48705](https://github.com/L41KAA/CVE-2024-48705)	<img alt="forks" src="https://img.shields.io/github/forks/L41KAA/CVE-2024-48705">	<img alt="stars" src="https://img.shields.io/github/stars/L41KAA/CVE-2024-48705">
+
+---
 ## CVE-2024-48652 (2024-10-22T22:15:00)
 > Cross Site Scripting vulnerability in camaleon-cms v.2.7.5 allows remote attacker to execute arbitrary code via the content group name field.
 - [paragbagul111/CVE-2024-48652](https://github.com/paragbagul111/CVE-2024-48652)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-48652">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-48652">
