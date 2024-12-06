@@ -3327,6 +3327,11 @@ PANIC from 6.8.0-rc1:
 - [nothe1senberg/CVE-2024-35293](https://github.com/nothe1senberg/CVE-2024-35293)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-35293">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-35293">
 
 ---
+## CVE-2024-35286 ()
+> 
+- [lu4m575/CVE-2024-35286_scan.nse](https://github.com/lu4m575/CVE-2024-35286_scan.nse)	<img alt="forks" src="https://img.shields.io/github/forks/lu4m575/CVE-2024-35286_scan.nse">	<img alt="stars" src="https://img.shields.io/github/stars/lu4m575/CVE-2024-35286_scan.nse">
+
+---
 ## CVE-2024-35250 (2024-06-11T17:16:00)
 > Windows Kernel-Mode Driver Elevation of Privilege Vulnerability
 - [varwara/CVE-2024-35250](https://github.com/varwara/CVE-2024-35250)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-35250">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-35250">
