@@ -7296,6 +7296,11 @@ authentication.   
 - [RoyaRadin/CVE-2024-12345-POC](https://github.com/RoyaRadin/CVE-2024-12345-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RoyaRadin/CVE-2024-12345-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RoyaRadin/CVE-2024-12345-POC">
 
 ---
+## CVE-2024-12155 ()
+> 
+- [McTavishSue/CVE-2024-12155](https://github.com/McTavishSue/CVE-2024-12155)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2024-12155">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2024-12155">
+
+---
 ## CVE-2024-1212 (2024-02-21T18:15:00)
 > Unauthenticated remote attackers can access the system through the LoadMaster management interface, enabling arbitrary system command execution.
 
