@@ -933,6 +933,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [0xshoriful/CVE-2024-52380](https://github.com/0xshoriful/CVE-2024-52380)	<img alt="forks" src="https://img.shields.io/github/forks/0xshoriful/CVE-2024-52380">	<img alt="stars" src="https://img.shields.io/github/stars/0xshoriful/CVE-2024-52380">
 
 ---
+## CVE-2024-52335 ()
+> 
+- [cloudefence/CVE-2024-52335](https://github.com/cloudefence/CVE-2024-52335)	<img alt="forks" src="https://img.shields.io/github/forks/cloudefence/CVE-2024-52335">	<img alt="stars" src="https://img.shields.io/github/stars/cloudefence/CVE-2024-52335">
+
+---
 ## CVE-2024-52318 (2024-11-18T13:15:00)
 > Incorrect object recycling and reuse vulnerability in Apache Tomcat.
 
