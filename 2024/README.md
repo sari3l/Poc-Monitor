@@ -1131,6 +1131,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [Praison001/CVE-2024-50803-Redaxo](https://github.com/Praison001/CVE-2024-50803-Redaxo)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-50803-Redaxo">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-50803-Redaxo">
 
 ---
+## CVE-2024-50677 ()
+> 
+- [ZumiYumi/CVE-2024-50677](https://github.com/ZumiYumi/CVE-2024-50677)	<img alt="forks" src="https://img.shields.io/github/forks/ZumiYumi/CVE-2024-50677">	<img alt="stars" src="https://img.shields.io/github/stars/ZumiYumi/CVE-2024-50677">
+
+---
 ## CVE-2024-50657 (2024-11-22T18:15:00)
 > An issue in Owncloud android apk v.4.3.1 allows a physically proximate attacker to escalate privileges via the PassCodeViewModel class, specifically in the checkPassCodeIsValid method
 - [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657)	<img alt="forks" src="https://img.shields.io/github/forks/SAHALLL/CVE-2024-50657">	<img alt="stars" src="https://img.shields.io/github/stars/SAHALLL/CVE-2024-50657">
