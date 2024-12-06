@@ -822,6 +822,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-5522">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-5522">
 
 ---
+## CVE-2024-54679 ()
+> 
+- [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2024-54679">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2024-54679">
+
+---
 ## CVE-2024-5458 (2024-06-09T19:15:00)
 > In PHP versions 8.1.* before 8.1.29, 8.2.* before 8.2.20, 8.3.* before 8.3.8, due to a code logic error, filtering functions such as filter_var when validating URLs (FILTER_VALIDATE_URL) for certain types of URLs the function will result in invalid user information (username + password part of URLs) being treated as valid user information. This may lead to the downstream code accepting invalid URLs as valid and parsing them incorrectly.
 - [justmexD8/CVE-2024-5458-POC](https://github.com/justmexD8/CVE-2024-5458-POC)	<img alt="forks" src="https://img.shields.io/github/forks/justmexD8/CVE-2024-5458-POC">	<img alt="stars" src="https://img.shields.io/github/stars/justmexD8/CVE-2024-5458-POC">
