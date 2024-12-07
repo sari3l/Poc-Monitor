@@ -478,7 +478,8 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 > Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution.
 - [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/zangjiahe/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/zangjiahe/CVE-2024-6782">
 - [jdpsl/CVE-2024-6782](https://github.com/jdpsl/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/jdpsl/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/jdpsl/CVE-2024-6782">
-- [Uno13x/CVE-2024-6782-PoC](https://github.com/Uno13x/CVE-2024-6782-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uno13x/CVE-2024-6782-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uno13x/CVE-2024-6782-PoC">
+- [0xB0y426/CVE-2024-6782-PoC](https://github.com/0xB0y426/CVE-2024-6782-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xB0y426/CVE-2024-6782-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xB0y426/CVE-2024-6782-PoC">
+- [NketiahGodfred/CVE-2024-6782](https://github.com/NketiahGodfred/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/NketiahGodfred/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/NketiahGodfred/CVE-2024-6782">
 
 ---
 ## CVE-2024-6778 (2024-07-16T22:15:00)
