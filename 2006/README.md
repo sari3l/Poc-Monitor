@@ -10,7 +10,7 @@
 - [IvanGlinkin/CVE-2006-3392](https://github.com/IvanGlinkin/CVE-2006-3392)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2006-3392">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2006-3392">
 - [0xtz/CVE-2006-3392](https://github.com/0xtz/CVE-2006-3392)	<img alt="forks" src="https://img.shields.io/github/forks/0xtz/CVE-2006-3392">	<img alt="stars" src="https://img.shields.io/github/stars/0xtz/CVE-2006-3392">
 - [g1vi/CVE-2006-3392](https://github.com/g1vi/CVE-2006-3392)	<img alt="forks" src="https://img.shields.io/github/forks/g1vi/CVE-2006-3392">	<img alt="stars" src="https://img.shields.io/github/stars/g1vi/CVE-2006-3392">
-- [MrEmpy/CVE-2006-3392](https://github.com/MrEmpy/CVE-2006-3392)	<img alt="forks" src="https://img.shields.io/github/forks/MrEmpy/CVE-2006-3392">	<img alt="stars" src="https://img.shields.io/github/stars/MrEmpy/CVE-2006-3392">
+- [brosck/CVE-2006-3392](https://github.com/brosck/CVE-2006-3392)	<img alt="forks" src="https://img.shields.io/github/forks/brosck/CVE-2006-3392">	<img alt="stars" src="https://img.shields.io/github/stars/brosck/CVE-2006-3392">
 
 ---
 ## CVE-2006-2842 (2006-06-06T20:06:00)
