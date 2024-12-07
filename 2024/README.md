@@ -7376,6 +7376,16 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11412">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11412">
 
 ---
+## CVE-2024-11394 ()
+> 
+- [Piyush-Bhor/CVE-2024-11394](https://github.com/Piyush-Bhor/CVE-2024-11394)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Bhor/CVE-2024-11394">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Bhor/CVE-2024-11394">
+
+---
+## CVE-2024-11393 ()
+> 
+- [Piyush-Bhor/CVE-2024-11393](https://github.com/Piyush-Bhor/CVE-2024-11393)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Bhor/CVE-2024-11393">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Bhor/CVE-2024-11393">
+
+---
 ## CVE-2024-11392 ()
 > 
 - [Piyush-Bhor/CVE-2024-11392](https://github.com/Piyush-Bhor/CVE-2024-11392)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Bhor/CVE-2024-11392">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Bhor/CVE-2024-11392">
