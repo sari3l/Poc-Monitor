@@ -398,7 +398,7 @@
 - [ludy-dev/XworkStruts-RCE](https://github.com/ludy-dev/XworkStruts-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ludy-dev/XworkStruts-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ludy-dev/XworkStruts-RCE">
 - [leandrocamposcardoso/CVE-2017-5638-Mass-Exploit](https://github.com/leandrocamposcardoso/CVE-2017-5638-Mass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/leandrocamposcardoso/CVE-2017-5638-Mass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/leandrocamposcardoso/CVE-2017-5638-Mass-Exploit">
 - [pasannirmana/Aspire](https://github.com/pasannirmana/Aspire)	<img alt="forks" src="https://img.shields.io/github/forks/pasannirmana/Aspire">	<img alt="stars" src="https://img.shields.io/github/stars/pasannirmana/Aspire">
-- [pr0x1ma-byte/cybersecurity-struts2](https://github.com/pr0x1ma-byte/cybersecurity-struts2)	<img alt="forks" src="https://img.shields.io/github/forks/pr0x1ma-byte/cybersecurity-struts2">	<img alt="stars" src="https://img.shields.io/github/stars/pr0x1ma-byte/cybersecurity-struts2">
+- [sighup1/cybersecurity-struts2](https://github.com/sighup1/cybersecurity-struts2)	<img alt="forks" src="https://img.shields.io/github/forks/sighup1/cybersecurity-struts2">	<img alt="stars" src="https://img.shields.io/github/stars/sighup1/cybersecurity-struts2">
 - [un4ckn0wl3z/CVE-2017-5638](https://github.com/un4ckn0wl3z/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/un4ckn0wl3z/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/un4ckn0wl3z/CVE-2017-5638">
 - [andypitcher/check_struts](https://github.com/andypitcher/check_struts)	<img alt="forks" src="https://img.shields.io/github/forks/andypitcher/check_struts">	<img alt="stars" src="https://img.shields.io/github/stars/andypitcher/check_struts">
 - [tahmed11/strutsy](https://github.com/tahmed11/strutsy)	<img alt="forks" src="https://img.shields.io/github/forks/tahmed11/strutsy">	<img alt="stars" src="https://img.shields.io/github/stars/tahmed11/strutsy">
@@ -420,6 +420,7 @@
 - [kloutkake/CVE-2017-5638-PoC](https://github.com/kloutkake/CVE-2017-5638-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kloutkake/CVE-2017-5638-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kloutkake/CVE-2017-5638-PoC">
 - [Nithylesh/web-application-firewall-](https://github.com/Nithylesh/web-application-firewall-)	<img alt="forks" src="https://img.shields.io/github/forks/Nithylesh/web-application-firewall-">	<img alt="stars" src="https://img.shields.io/github/stars/Nithylesh/web-application-firewall-">
 - [xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability](https://github.com/xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability">
+- [Xernary/CVE-2017-5638-POC](https://github.com/Xernary/CVE-2017-5638-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Xernary/CVE-2017-5638-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Xernary/CVE-2017-5638-POC">
 
 ---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
