@@ -132,6 +132,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [abhishekrautela/CVE-2024-9441](https://github.com/abhishekrautela/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/abhishekrautela/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/abhishekrautela/CVE-2024-9441">
 - [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-9441">
 - [XiaomingX/cve-2024-9441-poc](https://github.com/XiaomingX/cve-2024-9441-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-9441-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-9441-poc">
+- [jk-mayne/CVE-2024-9441-Checker](https://github.com/jk-mayne/CVE-2024-9441-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/jk-mayne/CVE-2024-9441-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/jk-mayne/CVE-2024-9441-Checker">
 
 ---
 ## CVE-2024-9380 (2024-10-08T17:15:00)
