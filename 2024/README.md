@@ -1354,6 +1354,7 @@ length to be included in the checksum calculation is fully consumed.
 - [njeru-codes/needrestart-vulnerability-poc](https://github.com/njeru-codes/needrestart-vulnerability-poc)	<img alt="forks" src="https://img.shields.io/github/forks/njeru-codes/needrestart-vulnerability-poc">	<img alt="stars" src="https://img.shields.io/github/stars/njeru-codes/needrestart-vulnerability-poc">
 - [ally-petitt/CVE-2024-48990-Exploit](https://github.com/ally-petitt/CVE-2024-48990-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-48990-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-48990-Exploit">
 - [r0xdeadbeef/CVE-2024-48990](https://github.com/r0xdeadbeef/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/r0xdeadbeef/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/r0xdeadbeef/CVE-2024-48990">
+- [CyberCrowCC/CVE-2024-48990](https://github.com/CyberCrowCC/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCrowCC/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCrowCC/CVE-2024-48990">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
