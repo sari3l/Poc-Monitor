@@ -6244,6 +6244,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [Arc4he/CVE-2024-23334-PoC](https://github.com/Arc4he/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Arc4he/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Arc4he/CVE-2024-23334-PoC">
 - [TheRedP4nther/LFI-Exploit-aiohttp-CVE-2024-23334](https://github.com/TheRedP4nther/LFI-Exploit-aiohttp-CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedP4nther/LFI-Exploit-aiohttp-CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedP4nther/LFI-Exploit-aiohttp-CVE-2024-23334">
 - [TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC](https://github.com/TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC">
+- [Betan423/CVE-2024-23334-PoC](https://github.com/Betan423/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Betan423/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Betan423/CVE-2024-23334-PoC">
 
 ---
 ## CVE-2024-23222 (2024-01-23T01:15:00)
