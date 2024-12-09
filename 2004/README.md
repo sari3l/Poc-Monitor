@@ -26,6 +26,10 @@
 ## CVE-2004-1561 ()
 > 
 - [Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-](https://github.com/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-)	<img alt="forks" src="https://img.shields.io/github/forks/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-">	<img alt="stars" src="https://img.shields.io/github/stars/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-">
+- [ratiros01/CVE-2004-1561](https://github.com/ratiros01/CVE-2004-1561)	<img alt="forks" src="https://img.shields.io/github/forks/ratiros01/CVE-2004-1561">	<img alt="stars" src="https://img.shields.io/github/stars/ratiros01/CVE-2004-1561">
+- [thel1nus/CVE-2004-1561-Notes](https://github.com/thel1nus/CVE-2004-1561-Notes)	<img alt="forks" src="https://img.shields.io/github/forks/thel1nus/CVE-2004-1561-Notes">	<img alt="stars" src="https://img.shields.io/github/stars/thel1nus/CVE-2004-1561-Notes">
+- [darrynb89/CVE-2004-1561](https://github.com/darrynb89/CVE-2004-1561)	<img alt="forks" src="https://img.shields.io/github/forks/darrynb89/CVE-2004-1561">	<img alt="stars" src="https://img.shields.io/github/stars/darrynb89/CVE-2004-1561">
+- [ivanitlearning/CVE-2004-1561](https://github.com/ivanitlearning/CVE-2004-1561)	<img alt="forks" src="https://img.shields.io/github/forks/ivanitlearning/CVE-2004-1561">	<img alt="stars" src="https://img.shields.io/github/stars/ivanitlearning/CVE-2004-1561">
 
 ---
 ## CVE-2004-0589 (2004-08-06T04:00:00)
