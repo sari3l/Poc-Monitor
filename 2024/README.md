@@ -7319,6 +7319,11 @@ authentication.   
 - [RoyaRadin/CVE-2024-12345-POC](https://github.com/RoyaRadin/CVE-2024-12345-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RoyaRadin/CVE-2024-12345-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RoyaRadin/CVE-2024-12345-POC">
 
 ---
+## CVE-2024-12270 ()
+> 
+- [RandomRobbieBF/CVE-2024-12270](https://github.com/RandomRobbieBF/CVE-2024-12270)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12270">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12270">
+
+---
 ## CVE-2024-12209 ()
 > 
 - [RandomRobbieBF/CVE-2024-12209](https://github.com/RandomRobbieBF/CVE-2024-12209)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12209">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12209">
