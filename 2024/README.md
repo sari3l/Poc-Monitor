@@ -5818,6 +5818,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 
 
 - [Abdurahmon3236/CVE-2024-24549](https://github.com/Abdurahmon3236/CVE-2024-24549)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-24549">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-24549">
+- [JFOZ1010/CVE-2024-24549](https://github.com/JFOZ1010/CVE-2024-24549)	<img alt="forks" src="https://img.shields.io/github/forks/JFOZ1010/CVE-2024-24549">	<img alt="stars" src="https://img.shields.io/github/stars/JFOZ1010/CVE-2024-24549">
 
 ---
 ## CVE-2024-24520 (2024-03-21T02:52:00)
