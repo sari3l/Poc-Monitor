@@ -824,6 +824,12 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-5522">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-5522">
 
 ---
+## CVE-2024-55099 ()
+> 
+- [kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-](https://github.com/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-)	<img alt="forks" src="https://img.shields.io/github/forks/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-">	<img alt="stars" src="https://img.shields.io/github/stars/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-">
+- [kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability](https://github.com/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">
+
+---
 ## CVE-2024-54679 ()
 > 
 - [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2024-54679">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2024-54679">
