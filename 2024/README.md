@@ -812,6 +812,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633)	<img alt="forks" src="https://img.shields.io/github/forks/Adikso/CVE-2024-5633">	<img alt="stars" src="https://img.shields.io/github/stars/Adikso/CVE-2024-5633">
 
 ---
+## CVE-2024-55557 ()
+> 
+- [partywavesec/CVE-2024-55557](https://github.com/partywavesec/CVE-2024-55557)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2024-55557">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2024-55557">
+
+---
 ## CVE-2024-5555 (2024-07-18T09:15:00)
 > The Element Pack Elementor Addons (Header Footer, Template Library, Dynamic Grid & Carousel, Remote Arrows) plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘social-link-title’ parameter in all versions up to, and including, 5.6.5 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
