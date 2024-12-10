@@ -5660,6 +5660,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-25092">
 
 ---
+## CVE-2024-24926 ()
+> 
+- [moften/CVE-2024-24926](https://github.com/moften/CVE-2024-24926)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2024-24926">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2024-24926">
+
+---
 ## CVE-2024-24919 (2024-05-28T19:15:00)
 > Potentially allowing an attacker to read certain information on Check Point Security Gateways once connected to the internet and enabled with remote Access VPN or Mobile Access Software Blades. A Security fix that mitigates this vulnerability is available.
 - [c3rrberu5/CVE-2024-24919](https://github.com/c3rrberu5/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/c3rrberu5/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/c3rrberu5/CVE-2024-24919">
