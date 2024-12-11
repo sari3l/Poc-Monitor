@@ -6,6 +6,11 @@
 - [yougboiz/Metasploit-CVE-2004-6768](https://github.com/yougboiz/Metasploit-CVE-2004-6768)	<img alt="forks" src="https://img.shields.io/github/forks/yougboiz/Metasploit-CVE-2004-6768">	<img alt="stars" src="https://img.shields.io/github/stars/yougboiz/Metasploit-CVE-2004-6768">
 
 ---
+## CVE-2004-2761 ()
+> 
+- [chaos198800/Windows-xia-SSL-zheng-shu-zhi-zuo-gong-ju--CVE-2004-2761-lou-dong-xiu-fu](https://github.com/chaos198800/Windows-xia-SSL-zheng-shu-zhi-zuo-gong-ju--CVE-2004-2761-lou-dong-xiu-fu)	<img alt="forks" src="https://img.shields.io/github/forks/chaos198800/Windows-xia-SSL-zheng-shu-zhi-zuo-gong-ju--CVE-2004-2761-lou-dong-xiu-fu">	<img alt="stars" src="https://img.shields.io/github/stars/chaos198800/Windows-xia-SSL-zheng-shu-zhi-zuo-gong-ju--CVE-2004-2761-lou-dong-xiu-fu">
+
+---
 ## CVE-2004-2687 (2004-12-31T05:00:00)
 > distcc 2.x, as used in XCode 1.5 and others, when not configured to restrict access to the server port, allows remote attackers to execute arbitrary commands via compilation jobs, which are executed by the server without authorization checks.
 - [n3rdh4x0r/distccd_rce_CVE-2004-2687](https://github.com/n3rdh4x0r/distccd_rce_CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/n3rdh4x0r/distccd_rce_CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/n3rdh4x0r/distccd_rce_CVE-2004-2687">
