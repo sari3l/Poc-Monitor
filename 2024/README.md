@@ -5437,6 +5437,7 @@ are not yet active.
 - [apkc/CVE-2024-26229-BOF](https://github.com/apkc/CVE-2024-26229-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/apkc/CVE-2024-26229-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/apkc/CVE-2024-26229-BOF">
 - [mqxmm/CVE-2024-26229](https://github.com/mqxmm/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/mqxmm/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/mqxmm/CVE-2024-26229">
 - [Cracked5pider/eop24-26229](https://github.com/Cracked5pider/eop24-26229)	<img alt="forks" src="https://img.shields.io/github/forks/Cracked5pider/eop24-26229">	<img alt="stars" src="https://img.shields.io/github/stars/Cracked5pider/eop24-26229">
+- [nutcr4ck3r/CVE-2024-26229](https://github.com/nutcr4ck3r/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/nutcr4ck3r/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/nutcr4ck3r/CVE-2024-26229">
 
 ---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
