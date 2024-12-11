@@ -1175,6 +1175,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657)	<img alt="forks" src="https://img.shields.io/github/forks/SAHALLL/CVE-2024-50657">	<img alt="stars" src="https://img.shields.io/github/stars/SAHALLL/CVE-2024-50657">
 
 ---
+## CVE-2024-50623 ()
+> 
+- [watchtowrlabs/CVE-2024-50623](https://github.com/watchtowrlabs/CVE-2024-50623)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-50623">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-50623">
+
+---
 ## CVE-2024-5057 (2024-08-29T14:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Easy Digital Downloads allows SQL Injection.This issue affects Easy Digital Downloads: from n/a through 3.2.12.
 - [enter0x13/poc-CVE-2024-5057](https://github.com/enter0x13/poc-CVE-2024-5057)	<img alt="forks" src="https://img.shields.io/github/forks/enter0x13/poc-CVE-2024-5057">	<img alt="stars" src="https://img.shields.io/github/stars/enter0x13/poc-CVE-2024-5057">
