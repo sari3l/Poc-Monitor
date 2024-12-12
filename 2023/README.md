@@ -2765,6 +2765,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 > Ghost is an open source content management system. Versions prior to 5.59.1 are subject to a vulnerability which allows authenticated users to upload files that are symlinks. This can be exploited to perform an arbitrary file read of any file on the host operating system. Site administrators can check for exploitation of this issue by looking for unknown symlinks within Ghost's `content/` folder. Version 5.59.1 contains a fix for this issue. All users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [0xyassine/CVE-2023-40028](https://github.com/0xyassine/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/0xyassine/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/0xyassine/CVE-2023-40028">
 - [BBSynapse/CVE-2023-40028](https://github.com/BBSynapse/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/BBSynapse/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/BBSynapse/CVE-2023-40028">
+- [0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028](https://github.com/0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028">
 
 ---
 ## CVE-2023-40000 (2024-04-16T18:15:00)
