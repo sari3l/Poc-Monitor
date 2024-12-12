@@ -2812,6 +2812,7 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 
 Substitutions in server context that use a backreferences or variables as the first segment of the substitution are affected.  Some unsafe RewiteRules will be broken by this change and the rewrite flag "UnsafePrefixStat" can be used to opt back in once ensuring the substitution is appropriately constrained.
 - [p0in7s/CVE-2024-38475](https://github.com/p0in7s/CVE-2024-38475)	<img alt="forks" src="https://img.shields.io/github/forks/p0in7s/CVE-2024-38475">	<img alt="stars" src="https://img.shields.io/github/stars/p0in7s/CVE-2024-38475">
+- [soltanali0/CVE-2024-38475](https://github.com/soltanali0/CVE-2024-38475)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2024-38475">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2024-38475">
 
 ---
 ## CVE-2024-38473 (2024-07-01T19:15:00)
