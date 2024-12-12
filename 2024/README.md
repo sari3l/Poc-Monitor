@@ -2363,6 +2363,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [depers-rus/CVE-2024-42327](https://github.com/depers-rus/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/depers-rus/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/depers-rus/CVE-2024-42327">
 - [watchdog1337/CVE-2024-42327_Zabbix_SQLI](https://github.com/watchdog1337/CVE-2024-42327_Zabbix_SQLI)	<img alt="forks" src="https://img.shields.io/github/forks/watchdog1337/CVE-2024-42327_Zabbix_SQLI">	<img alt="stars" src="https://img.shields.io/github/stars/watchdog1337/CVE-2024-42327_Zabbix_SQLI">
 - [itform-fr/Zabbix---CVE-2024-42327](https://github.com/itform-fr/Zabbix---CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/itform-fr/Zabbix---CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/itform-fr/Zabbix---CVE-2024-42327">
+- [igorbf495/CVE-2024-42327](https://github.com/igorbf495/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/igorbf495/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/igorbf495/CVE-2024-42327">
 
 ---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
