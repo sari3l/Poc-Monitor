@@ -3192,6 +3192,11 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2024-36401">
 
 ---
+## CVE-2024-36117 ()
+> 
+- [saketh-osmsec/CVE-2024-36117](https://github.com/saketh-osmsec/CVE-2024-36117)	<img alt="forks" src="https://img.shields.io/github/forks/saketh-osmsec/CVE-2024-36117">	<img alt="stars" src="https://img.shields.io/github/stars/saketh-osmsec/CVE-2024-36117">
+
+---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
 > Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Apache OFBiz. This issue affects Apache OFBiz: before 18.12.14.
 
