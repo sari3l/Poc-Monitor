@@ -814,6 +814,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633)	<img alt="forks" src="https://img.shields.io/github/forks/Adikso/CVE-2024-5633">	<img alt="stars" src="https://img.shields.io/github/stars/Adikso/CVE-2024-5633">
 
 ---
+## CVE-2024-55875 ()
+> 
+- [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2024-55875">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2024-55875">
+
+---
 ## CVE-2024-55587 ()
 > 
 - [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587)	<img alt="forks" src="https://img.shields.io/github/forks/CSIRTTrizna/CVE-2024-55587">	<img alt="stars" src="https://img.shields.io/github/stars/CSIRTTrizna/CVE-2024-55587">
