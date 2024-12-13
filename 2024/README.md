@@ -7726,6 +7726,11 @@ resulting in database manipulation.
 - [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140)	<img alt="forks" src="https://img.shields.io/github/forks/holypryx/CVE-2024-10140">	<img alt="stars" src="https://img.shields.io/github/stars/holypryx/CVE-2024-10140">
 
 ---
+## CVE-2024-10124 ()
+> 
+- [RandomRobbieBF/CVE-2024-10124](https://github.com/RandomRobbieBF/CVE-2024-10124)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10124">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10124">
+
+---
 ## CVE-2024-10015 ()
 > 
 - [windz3r0day/CVE-2024-10015](https://github.com/windz3r0day/CVE-2024-10015)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10015">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10015">
