@@ -2766,6 +2766,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [0xyassine/CVE-2023-40028](https://github.com/0xyassine/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/0xyassine/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/0xyassine/CVE-2023-40028">
 - [BBSynapse/CVE-2023-40028](https://github.com/BBSynapse/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/BBSynapse/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/BBSynapse/CVE-2023-40028">
 - [0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028](https://github.com/0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028">
+- [sudlit/CVE-2023-40028](https://github.com/sudlit/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/sudlit/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/sudlit/CVE-2023-40028">
 
 ---
 ## CVE-2023-40000 (2024-04-16T18:15:00)
