@@ -1115,6 +1115,8 @@
 - [zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717](https://github.com/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717)	<img alt="forks" src="https://img.shields.io/github/forks/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717">	<img alt="stars" src="https://img.shields.io/github/stars/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717">
 - [scirusvulgaris/CVE-2017-12617](https://github.com/scirusvulgaris/CVE-2017-12617)	<img alt="forks" src="https://img.shields.io/github/forks/scirusvulgaris/CVE-2017-12617">	<img alt="stars" src="https://img.shields.io/github/stars/scirusvulgaris/CVE-2017-12617">
 - [yZ1337/CVE-2017-12617](https://github.com/yZ1337/CVE-2017-12617)	<img alt="forks" src="https://img.shields.io/github/forks/yZ1337/CVE-2017-12617">	<img alt="stars" src="https://img.shields.io/github/stars/yZ1337/CVE-2017-12617">
+- [DevaDJ/CVE-2017-12617](https://github.com/DevaDJ/CVE-2017-12617)	<img alt="forks" src="https://img.shields.io/github/forks/DevaDJ/CVE-2017-12617">	<img alt="stars" src="https://img.shields.io/github/stars/DevaDJ/CVE-2017-12617">
+- [TheRealCiscoo/Tomcat_CVE201712617](https://github.com/TheRealCiscoo/Tomcat_CVE201712617)	<img alt="forks" src="https://img.shields.io/github/forks/TheRealCiscoo/Tomcat_CVE201712617">	<img alt="stars" src="https://img.shields.io/github/stars/TheRealCiscoo/Tomcat_CVE201712617">
 
 ---
 ## CVE-2017-12615 (2017-09-19T13:29:00)
