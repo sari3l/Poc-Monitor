@@ -114,6 +114,11 @@
 - [yanissec/CVE-2018-7842](https://github.com/yanissec/CVE-2018-7842)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7842">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7842">
 
 ---
+## CVE-2018-7750 ()
+> 
+- [tlavi00/CVE-2018-7750](https://github.com/tlavi00/CVE-2018-7750)	<img alt="forks" src="https://img.shields.io/github/forks/tlavi00/CVE-2018-7750">	<img alt="stars" src="https://img.shields.io/github/stars/tlavi00/CVE-2018-7750">
+
+---
 ## CVE-2018-7602 (2018-07-19T17:29:00)
 > A remote code execution vulnerability exists within multiple subsystems of Drupal 7.x and 8.x. This potentially allows attackers to exploit multiple attack vectors on a Drupal site, which could result in the site being compromised. This vulnerability is related to Drupal core - Highly critical - Remote Code Execution - SA-CORE-2018-002. Both SA-CORE-2018-002 and this vulnerability are being exploited in the wild.
 - [NetJBS/-CVE-2018-7602](https://github.com/NetJBS/-CVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/-CVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/-CVE-2018-7602">
