@@ -2775,6 +2775,11 @@ For this to impact an application, all of the following must be true:
 - [zetraxz/CVE-2024-38821](https://github.com/zetraxz/CVE-2024-38821)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-38821">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-38821">
 
 ---
+## CVE-2024-38819 ()
+> 
+- [masa42/CVE-2024-38819-POC](https://github.com/masa42/CVE-2024-38819-POC)	<img alt="forks" src="https://img.shields.io/github/forks/masa42/CVE-2024-38819-POC">	<img alt="stars" src="https://img.shields.io/github/stars/masa42/CVE-2024-38819-POC">
+
+---
 ## CVE-2024-38816 (2024-09-13T06:15:00)
 > Applications serving static resources through the functional web frameworks WebMvc.fn or WebFlux.fn are vulnerable to path traversal attacks. An attacker can craft malicious HTTP requests and obtain any file on the file system that is also accessible to the process in which the Spring application is running.
 
