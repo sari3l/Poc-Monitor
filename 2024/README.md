@@ -7604,6 +7604,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [retuci0/cve-2024-10914-port](https://github.com/retuci0/cve-2024-10914-port)	<img alt="forks" src="https://img.shields.io/github/forks/retuci0/cve-2024-10914-port">	<img alt="stars" src="https://img.shields.io/github/stars/retuci0/cve-2024-10914-port">
 - [K3ysTr0K3R/CVE-2024-10914-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-10914-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-10914-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-10914-EXPLOIT">
 - [jahithoque/CVE-2024-10914-Exploit](https://github.com/jahithoque/CVE-2024-10914-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jahithoque/CVE-2024-10914-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jahithoque/CVE-2024-10914-Exploit">
+- [redspy-sec/D-Link](https://github.com/redspy-sec/D-Link)	<img alt="forks" src="https://img.shields.io/github/forks/redspy-sec/D-Link">	<img alt="stars" src="https://img.shields.io/github/stars/redspy-sec/D-Link">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
