@@ -7652,6 +7652,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [pl0xe/CVE-2024-1086](https://github.com/pl0xe/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/pl0xe/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/pl0xe/CVE-2024-1086">
 - [MNK076/CVE-2024-1086](https://github.com/MNK076/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/MNK076/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/MNK076/CVE-2024-1086">
 - [matrixvk/CVE-2024-1086-aarch64](https://github.com/matrixvk/CVE-2024-1086-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/matrixvk/CVE-2024-1086-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/matrixvk/CVE-2024-1086-aarch64">
+- [LLfam/CVE-2024-1086](https://github.com/LLfam/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/LLfam/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/LLfam/CVE-2024-1086">
 
 ---
 ## CVE-2024-10793 ()
