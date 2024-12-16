@@ -7445,6 +7445,11 @@ authentication.   
 - [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2024-1207">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2024-1207">
 
 ---
+## CVE-2024-11972 ()
+> 
+- [JunTakemura/exploit-CVE-2024-11972](https://github.com/JunTakemura/exploit-CVE-2024-11972)	<img alt="forks" src="https://img.shields.io/github/forks/JunTakemura/exploit-CVE-2024-11972">	<img alt="stars" src="https://img.shields.io/github/stars/JunTakemura/exploit-CVE-2024-11972">
+
+---
 ## CVE-2024-11728 ()
 > 
 - [samogod/CVE-2024-11728](https://github.com/samogod/CVE-2024-11728)	<img alt="forks" src="https://img.shields.io/github/forks/samogod/CVE-2024-11728">	<img alt="stars" src="https://img.shields.io/github/stars/samogod/CVE-2024-11728">
