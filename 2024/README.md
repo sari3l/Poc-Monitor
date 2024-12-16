@@ -814,6 +814,16 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633)	<img alt="forks" src="https://img.shields.io/github/forks/Adikso/CVE-2024-5633">	<img alt="stars" src="https://img.shields.io/github/stars/Adikso/CVE-2024-5633">
 
 ---
+## CVE-2024-56116 ()
+> 
+- [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116)	<img alt="forks" src="https://img.shields.io/github/forks/ComplianceControl/CVE-2024-56116">	<img alt="stars" src="https://img.shields.io/github/stars/ComplianceControl/CVE-2024-56116">
+
+---
+## CVE-2024-56115 ()
+> 
+- [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115)	<img alt="forks" src="https://img.shields.io/github/forks/ComplianceControl/CVE-2024-56115">	<img alt="stars" src="https://img.shields.io/github/stars/ComplianceControl/CVE-2024-56115">
+
+---
 ## CVE-2024-55875 ()
 > 
 - [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2024-55875">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2024-55875">
