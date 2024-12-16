@@ -1392,6 +1392,7 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-49039 ()
 > 
 - [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039)	<img alt="forks" src="https://img.shields.io/github/forks/je5442804/WPTaskScheduler_CVE-2024-49039">	<img alt="stars" src="https://img.shields.io/github/stars/je5442804/WPTaskScheduler_CVE-2024-49039">
+- [Alexandr-bit253/CVE-2024-49039](https://github.com/Alexandr-bit253/CVE-2024-49039)	<img alt="forks" src="https://img.shields.io/github/forks/Alexandr-bit253/CVE-2024-49039">	<img alt="stars" src="https://img.shields.io/github/stars/Alexandr-bit253/CVE-2024-49039">
 
 ---
 ## CVE-2024-48990 (2024-11-19T18:15:00)
