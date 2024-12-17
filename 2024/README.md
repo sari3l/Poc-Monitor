@@ -1895,6 +1895,11 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [SpiralBL0CK/CVE-2024-45383](https://github.com/SpiralBL0CK/CVE-2024-45383)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-45383">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-45383">
 
 ---
+## CVE-2024-45337 ()
+> 
+- [NHAS/CVE-2024-45337-POC](https://github.com/NHAS/CVE-2024-45337-POC)	<img alt="forks" src="https://img.shields.io/github/forks/NHAS/CVE-2024-45337-POC">	<img alt="stars" src="https://img.shields.io/github/stars/NHAS/CVE-2024-45337-POC">
+
+---
 ## CVE-2024-45265 (2024-08-26T18:15:00)
 > A SQL injection vulnerability in the poll component in SkySystem Arfa-CMS before 5.1.3124 allows remote attackers to execute arbitrary SQL commands via the psid parameter.
 - [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45265">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45265">
