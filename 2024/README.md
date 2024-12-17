@@ -2078,6 +2078,11 @@ Allocated by task 6166:
 - [b1u3st0rm/CVE-2024-44812-PoC](https://github.com/b1u3st0rm/CVE-2024-44812-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b1u3st0rm/CVE-2024-44812-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b1u3st0rm/CVE-2024-44812-PoC">
 
 ---
+## CVE-2024-44765 ()
+> 
+- [josephgodwinkimani/CVE-2024-44765](https://github.com/josephgodwinkimani/CVE-2024-44765)	<img alt="forks" src="https://img.shields.io/github/forks/josephgodwinkimani/CVE-2024-44765">	<img alt="stars" src="https://img.shields.io/github/stars/josephgodwinkimani/CVE-2024-44765">
+
+---
 ## CVE-2024-44625 (2024-11-15T17:15:00)
 > Gogs <=0.13.0 is vulnerable to Directory Traversal via the editFilePost function of internal/route/repo/editor.go.
 - [Fysac/CVE-2024-44625](https://github.com/Fysac/CVE-2024-44625)	<img alt="forks" src="https://img.shields.io/github/forks/Fysac/CVE-2024-44625">	<img alt="stars" src="https://img.shields.io/github/stars/Fysac/CVE-2024-44625">
