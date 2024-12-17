@@ -882,6 +882,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 > 
 - [cloudwafs/s2-067-CVE-2024-53677](https://github.com/cloudwafs/s2-067-CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/cloudwafs/s2-067-CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/cloudwafs/s2-067-CVE-2024-53677">
 - [TAM-K592/CVE-2024-53677-S2-067](https://github.com/TAM-K592/CVE-2024-53677-S2-067)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-53677-S2-067">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-53677-S2-067">
+- [yangyanglo/CVE-2024-53677](https://github.com/yangyanglo/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/yangyanglo/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/yangyanglo/CVE-2024-53677">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
