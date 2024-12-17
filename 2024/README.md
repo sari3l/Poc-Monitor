@@ -1898,6 +1898,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 ## CVE-2024-45337 ()
 > 
 - [NHAS/CVE-2024-45337-POC](https://github.com/NHAS/CVE-2024-45337-POC)	<img alt="forks" src="https://img.shields.io/github/forks/NHAS/CVE-2024-45337-POC">	<img alt="stars" src="https://img.shields.io/github/stars/NHAS/CVE-2024-45337-POC">
+- [NHAS/VULNERABLE-CVE-2024-45337](https://github.com/NHAS/VULNERABLE-CVE-2024-45337)	<img alt="forks" src="https://img.shields.io/github/forks/NHAS/VULNERABLE-CVE-2024-45337">	<img alt="stars" src="https://img.shields.io/github/stars/NHAS/VULNERABLE-CVE-2024-45337">
 
 ---
 ## CVE-2024-45265 (2024-08-26T18:15:00)
