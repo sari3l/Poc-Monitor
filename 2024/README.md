@@ -1317,6 +1317,11 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [neko-hat/CVE-2024-50395](https://github.com/neko-hat/CVE-2024-50395)	<img alt="forks" src="https://img.shields.io/github/forks/neko-hat/CVE-2024-50395">	<img alt="stars" src="https://img.shields.io/github/stars/neko-hat/CVE-2024-50395">
 
 ---
+## CVE-2024-50379 ()
+> 
+- [v3153/CVE-2024-50379-POC](https://github.com/v3153/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v3153/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v3153/CVE-2024-50379-POC">
+
+---
 ## CVE-2024-50340 ()
 > 
 - [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-50340">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-50340">
