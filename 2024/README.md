@@ -891,6 +891,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [yangyanglo/CVE-2024-53677](https://github.com/yangyanglo/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/yangyanglo/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/yangyanglo/CVE-2024-53677">
 - [c4oocO/CVE-2024-53677-Docker](https://github.com/c4oocO/CVE-2024-53677-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/c4oocO/CVE-2024-53677-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/c4oocO/CVE-2024-53677-Docker">
 - [XiaomingX/CVE-2024-53677-S2-067](https://github.com/XiaomingX/CVE-2024-53677-S2-067)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-53677-S2-067">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-53677-S2-067">
+- [dustblessnotdust/CVE-2024-53677-S2-067-thread](https://github.com/dustblessnotdust/CVE-2024-53677-S2-067-thread)	<img alt="forks" src="https://img.shields.io/github/forks/dustblessnotdust/CVE-2024-53677-S2-067-thread">	<img alt="stars" src="https://img.shields.io/github/stars/dustblessnotdust/CVE-2024-53677-S2-067-thread">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
