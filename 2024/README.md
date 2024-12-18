@@ -1406,6 +1406,7 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-49112 ()
 > 
 - [b0l1o/CVE-2024-49112-PoC](https://github.com/b0l1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b0l1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b0l1o/CVE-2024-49112-PoC">
+- [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor)	<img alt="forks" src="https://img.shields.io/github/forks/tnkr/poc_monitor">	<img alt="stars" src="https://img.shields.io/github/stars/tnkr/poc_monitor">
 
 ---
 ## CVE-2024-49039 ()
@@ -1426,6 +1427,7 @@ length to be included in the checksum calculation is fully consumed.
 - [ally-petitt/CVE-2024-48990-Exploit](https://github.com/ally-petitt/CVE-2024-48990-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-48990-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-48990-Exploit">
 - [r0xdeadbeef/CVE-2024-48990](https://github.com/r0xdeadbeef/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/r0xdeadbeef/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/r0xdeadbeef/CVE-2024-48990">
 - [CyberCrowCC/CVE-2024-48990](https://github.com/CyberCrowCC/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCrowCC/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCrowCC/CVE-2024-48990">
+- [NullByte-7w7/CVE-2024-48990](https://github.com/NullByte-7w7/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte-7w7/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte-7w7/CVE-2024-48990">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
