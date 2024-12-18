@@ -890,6 +890,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/jmussmann/cve-2023-4966-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/jmussmann/cve-2023-4966-iocs">
 - [morganwdavis/overread](https://github.com/morganwdavis/overread)	<img alt="forks" src="https://img.shields.io/github/forks/morganwdavis/overread">	<img alt="stars" src="https://img.shields.io/github/stars/morganwdavis/overread">
 - [LucasOneZ/CVE-2023-4966](https://github.com/LucasOneZ/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/LucasOneZ/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/LucasOneZ/CVE-2023-4966">
+- [akshthejo/CVE-2023-4966-exploit](https://github.com/akshthejo/CVE-2023-4966-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/akshthejo/CVE-2023-4966-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/akshthejo/CVE-2023-4966-exploit">
 
 ---
 ## CVE-2023-49606 (2024-05-01T16:15:00)
