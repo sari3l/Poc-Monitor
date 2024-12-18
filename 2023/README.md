@@ -599,6 +599,11 @@ We recommend users to:
 - [Cappricio-Securities/CVE-2023-5089](https://github.com/Cappricio-Securities/CVE-2023-5089)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-5089">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-5089">
 
 ---
+## CVE-2023-50780 ()
+> 
+- [mbadanoiu/CVE-2023-50780](https://github.com/mbadanoiu/CVE-2023-50780)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-50780">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-50780">
+
+---
 ## CVE-2023-5074 (2023-09-20T16:15:00)
 > Use of a static key to protect a JWT token used in user authentication can allow an for an authentication bypass in D-Link D-View 8 v2.0.1.28
 - [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5074-PoC">

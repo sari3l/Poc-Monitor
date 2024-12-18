@@ -890,6 +890,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [TAM-K592/CVE-2024-53677-S2-067](https://github.com/TAM-K592/CVE-2024-53677-S2-067)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-53677-S2-067">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-53677-S2-067">
 - [yangyanglo/CVE-2024-53677](https://github.com/yangyanglo/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/yangyanglo/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/yangyanglo/CVE-2024-53677">
 - [c4oocO/CVE-2024-53677-Docker](https://github.com/c4oocO/CVE-2024-53677-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/c4oocO/CVE-2024-53677-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/c4oocO/CVE-2024-53677-Docker">
+- [XiaomingX/CVE-2024-53677-S2-067](https://github.com/XiaomingX/CVE-2024-53677-S2-067)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-53677-S2-067">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-53677-S2-067">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
@@ -1400,6 +1401,11 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-49186 ()
 > 
 - [cyb3res3c/CVE-2024-49186](https://github.com/cyb3res3c/CVE-2024-49186)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-49186">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-49186">
+
+---
+## CVE-2024-49112 ()
+> 
+- [b0l1o/CVE-2024-49112-PoC](https://github.com/b0l1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b0l1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b0l1o/CVE-2024-49112-PoC">
 
 ---
 ## CVE-2024-49039 ()
