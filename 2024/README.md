@@ -1486,6 +1486,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [0xWhoami35/CVE-2024-4879](https://github.com/0xWhoami35/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CVE-2024-4879">
 
 ---
+## CVE-2024-48762 ()
+> 
+- [YZS17/CVE-2024-48762](https://github.com/YZS17/CVE-2024-48762)	<img alt="forks" src="https://img.shields.io/github/forks/YZS17/CVE-2024-48762">	<img alt="stars" src="https://img.shields.io/github/stars/YZS17/CVE-2024-48762">
+
+---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
 > The HT Mega – Absolute Addons For Elementor plugin for WordPress is vulnerable to unauthorized modification of data|loss of data due to a missing capability check on the 'ajax_dismiss' function in versions up to, and including, 2.5.2. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to update options such as users_can_register, which can lead to unauthorized user registration.
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
