@@ -46,7 +46,7 @@
 - [0xConstant/CVE-2009-2265](https://github.com/0xConstant/CVE-2009-2265)	<img alt="forks" src="https://img.shields.io/github/forks/0xConstant/CVE-2009-2265">	<img alt="stars" src="https://img.shields.io/github/stars/0xConstant/CVE-2009-2265">
 - [n3rdh4x0r/CVE-2009-2265](https://github.com/n3rdh4x0r/CVE-2009-2265)	<img alt="forks" src="https://img.shields.io/github/forks/n3rdh4x0r/CVE-2009-2265">	<img alt="stars" src="https://img.shields.io/github/stars/n3rdh4x0r/CVE-2009-2265">
 - [zaphoxx/zaphoxx-coldfusion](https://github.com/zaphoxx/zaphoxx-coldfusion)	<img alt="forks" src="https://img.shields.io/github/forks/zaphoxx/zaphoxx-coldfusion">	<img alt="stars" src="https://img.shields.io/github/stars/zaphoxx/zaphoxx-coldfusion">
-- [0xDTC/Adobe-ColdFusion-8-RCE-CVE-2009-2265-](https://github.com/0xDTC/Adobe-ColdFusion-8-RCE-CVE-2009-2265-)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Adobe-ColdFusion-8-RCE-CVE-2009-2265-">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Adobe-ColdFusion-8-RCE-CVE-2009-2265-">
+- [0xDTC/Adobe-ColdFusion-8-RCE-CVE-2009-2265](https://github.com/0xDTC/Adobe-ColdFusion-8-RCE-CVE-2009-2265)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Adobe-ColdFusion-8-RCE-CVE-2009-2265">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Adobe-ColdFusion-8-RCE-CVE-2009-2265">
 - [brunorhis/CVE2009-2265](https://github.com/brunorhis/CVE2009-2265)	<img alt="forks" src="https://img.shields.io/github/forks/brunorhis/CVE2009-2265">	<img alt="stars" src="https://img.shields.io/github/stars/brunorhis/CVE2009-2265">
 
 ---
