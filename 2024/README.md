@@ -1328,6 +1328,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 ## CVE-2024-50379 ()
 > 
 - [v3153/CVE-2024-50379-POC](https://github.com/v3153/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v3153/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v3153/CVE-2024-50379-POC">
+- [yiliufeng168/CVE-2024-50379-POC](https://github.com/yiliufeng168/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/yiliufeng168/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/yiliufeng168/CVE-2024-50379-POC">
 
 ---
 ## CVE-2024-50340 ()
