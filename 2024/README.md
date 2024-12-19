@@ -1182,6 +1182,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-50961">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-50961">
 
 ---
+## CVE-2024-50944 ()
+> 
+- [AbdullahAlmutawa/CVE-2024-50944](https://github.com/AbdullahAlmutawa/CVE-2024-50944)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahAlmutawa/CVE-2024-50944">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahAlmutawa/CVE-2024-50944">
+
+---
 ## CVE-2024-50849 (2024-11-18T21:15:00)
 > A Stored Cross-Site Scripting (XSS) vulnerability in the "Rules" functionality of WorldServer v11.8.2 allows a remote authenticated attacker to execute arbitrary JavaScript code.
 - [Wh1teSnak3/CVE-2024-50849](https://github.com/Wh1teSnak3/CVE-2024-50849)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50849">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50849">
