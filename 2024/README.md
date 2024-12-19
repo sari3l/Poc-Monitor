@@ -680,6 +680,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [identity-threat-labs/Article-RegreSSHion-CVE-2024-6387](https://github.com/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387">
 - [YassDEV221608/CVE-2024-6387](https://github.com/YassDEV221608/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/YassDEV221608/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/YassDEV221608/CVE-2024-6387">
 - [oxapavan/CVE-2024-6387](https://github.com/oxapavan/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/oxapavan/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/oxapavan/CVE-2024-6387">
+- [zql-gif/CVE-2024-6387](https://github.com/zql-gif/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/zql-gif/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/zql-gif/CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
