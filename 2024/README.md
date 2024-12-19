@@ -31,6 +31,7 @@
 ## CVE-2024-9935 ()
 > 
 - [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9935">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9935">
+- [verylazytech/CVE-2024-9935](https://github.com/verylazytech/CVE-2024-9935)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-9935">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-9935">
 
 ---
 ## CVE-2024-9933 (2024-10-26T03:15:00)
