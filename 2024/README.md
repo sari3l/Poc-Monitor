@@ -2729,6 +2729,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [michael-david-fry/CVE-2024-39929](https://github.com/michael-david-fry/CVE-2024-39929)	<img alt="forks" src="https://img.shields.io/github/forks/michael-david-fry/CVE-2024-39929">	<img alt="stars" src="https://img.shields.io/github/stars/michael-david-fry/CVE-2024-39929">
 
 ---
+## CVE-2024-39908 ()
+> 
+- [SpiralBL0CK/CVE-2024-39908](https://github.com/SpiralBL0CK/CVE-2024-39908)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-39908">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-39908">
+
+---
 ## CVE-2024-39844 (2024-07-03T17:15:00)
 > In ZNC before 1.9.1, remote code execution can occur in modtcl via a KICK.
 - [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
@@ -3488,6 +3493,11 @@ PANIC from 6.8.0-rc1:
 
 - [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242)	<img alt="forks" src="https://img.shields.io/github/forks/KKkai0315/CVE-2024-35242">	<img alt="stars" src="https://img.shields.io/github/stars/KKkai0315/CVE-2024-35242">
 - [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242)	<img alt="forks" src="https://img.shields.io/github/forks/KKkai0315/CVE-2024-35242">	<img alt="stars" src="https://img.shields.io/github/stars/KKkai0315/CVE-2024-35242">
+
+---
+## CVE-2024-35176 ()
+> 
+- [SpiralBL0CK/CVE-2024-35176](https://github.com/SpiralBL0CK/CVE-2024-35176)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-35176">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-35176">
 
 ---
 ## CVE-2024-34958 (2024-05-16T15:15:00)
