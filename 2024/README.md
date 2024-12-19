@@ -881,6 +881,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-5452-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-5452-poc">
 
 ---
+## CVE-2024-54262 ()
+> 
+- [RandomRobbieBF/CVE-2024-54262](https://github.com/RandomRobbieBF/CVE-2024-54262)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54262">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54262">
+
+---
 ## CVE-2024-5420 (2024-06-04T08:15:00)
 > Missing input validation in the SEH Computertechnik utnserver Pro, SEH Computertechnik utnserver ProMAX, SEH Computertechnik INU-100 web-interface allows stored Cross-Site Scripting (XSS)..This issue affects utnserver Pro, utnserver ProMAX, INU-100 version 20.1.22 and below.
 - [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-5420-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-5420-XSS">
