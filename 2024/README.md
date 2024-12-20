@@ -912,6 +912,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC)	<img alt="forks" src="https://img.shields.io/github/forks/droyuu/Aj-Report-sql-CVE-2024-5356-POC">	<img alt="stars" src="https://img.shields.io/github/stars/droyuu/Aj-Report-sql-CVE-2024-5356-POC">
 
 ---
+## CVE-2024-53476 ()
+> 
+- [AbdullahAlmutawa/CVE-2024-53476](https://github.com/AbdullahAlmutawa/CVE-2024-53476)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahAlmutawa/CVE-2024-53476">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahAlmutawa/CVE-2024-53476">
+
+---
 ## CVE-2024-53470 ()
 > 
 - [nmmorette/CVE-2024-53470](https://github.com/nmmorette/CVE-2024-53470)	<img alt="forks" src="https://img.shields.io/github/forks/nmmorette/CVE-2024-53470">	<img alt="stars" src="https://img.shields.io/github/stars/nmmorette/CVE-2024-53470">
@@ -1180,6 +1185,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-50961 ()
 > 
 - [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-50961">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-50961">
+
+---
+## CVE-2024-50945 ()
+> 
+- [AbdullahAlmutawa/CVE-2024-50945](https://github.com/AbdullahAlmutawa/CVE-2024-50945)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahAlmutawa/CVE-2024-50945">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahAlmutawa/CVE-2024-50945">
 
 ---
 ## CVE-2024-50944 ()
