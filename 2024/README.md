@@ -350,6 +350,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [TheCyberguy-17/RCE_CVE-2024-7954](https://github.com/TheCyberguy-17/RCE_CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberguy-17/RCE_CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberguy-17/RCE_CVE-2024-7954">
 - [MuhammadWaseem29/RCE-CVE-2024-7954](https://github.com/MuhammadWaseem29/RCE-CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/RCE-CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/RCE-CVE-2024-7954">
 - [issamiso/CVE-2024-7954](https://github.com/issamiso/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/issamiso/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/issamiso/CVE-2024-7954">
+- [zxj-hub/CVE-2024-7954POC](https://github.com/zxj-hub/CVE-2024-7954POC)	<img alt="forks" src="https://img.shields.io/github/forks/zxj-hub/CVE-2024-7954POC">	<img alt="stars" src="https://img.shields.io/github/stars/zxj-hub/CVE-2024-7954POC">
 
 ---
 ## CVE-2024-7928 (2024-08-19T22:15:00)
