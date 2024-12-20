@@ -1355,6 +1355,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [v3153/CVE-2024-50379-POC](https://github.com/v3153/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v3153/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v3153/CVE-2024-50379-POC">
 - [yiliufeng168/CVE-2024-50379-POC](https://github.com/yiliufeng168/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/yiliufeng168/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/yiliufeng168/CVE-2024-50379-POC">
 - [JFOZ1010/Nuclei-Template-CVE-2024-50379](https://github.com/JFOZ1010/Nuclei-Template-CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/JFOZ1010/Nuclei-Template-CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/JFOZ1010/Nuclei-Template-CVE-2024-50379">
+- [iSee857/CVE-2024-50379-PoC](https://github.com/iSee857/CVE-2024-50379-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-50379-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-50379-PoC">
 
 ---
 ## CVE-2024-50340 ()
