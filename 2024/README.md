@@ -812,6 +812,11 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL)	<img alt="forks" src="https://img.shields.io/github/forks/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">	<img alt="stars" src="https://img.shields.io/github/stars/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">
 
 ---
+## CVE-2024-56331 ()
+> 
+- [griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331)	<img alt="forks" src="https://img.shields.io/github/forks/griisemine/CVE-2024-56331">	<img alt="stars" src="https://img.shields.io/github/stars/griisemine/CVE-2024-56331">
+
+---
 ## CVE-2024-5633 (2024-07-09T11:15:00)
 > Longse model LBH30FE200W cameras, as well as products based on this device, provide an unrestricted access for an attacker located in the same local network to an undocumented binary service CoolView on one of the ports. 
 An attacker with a knowledge of the available commands is able to perform read/write operations on the device's memory, which might result in e.g. bypassing telnet login and obtaining full access to the device.
