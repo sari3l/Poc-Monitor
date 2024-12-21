@@ -1358,6 +1358,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [JFOZ1010/Nuclei-Template-CVE-2024-50379](https://github.com/JFOZ1010/Nuclei-Template-CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/JFOZ1010/Nuclei-Template-CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/JFOZ1010/Nuclei-Template-CVE-2024-50379">
 - [iSee857/CVE-2024-50379-PoC](https://github.com/iSee857/CVE-2024-50379-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-50379-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-50379-PoC">
 - [Alchemist3dot14/CVE-2024-50379](https://github.com/Alchemist3dot14/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-50379">
+- [ph0ebus/Tomcat-CVE-2024-50379-Poc](https://github.com/ph0ebus/Tomcat-CVE-2024-50379-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ph0ebus/Tomcat-CVE-2024-50379-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ph0ebus/Tomcat-CVE-2024-50379-Poc">
 
 ---
 ## CVE-2024-50340 ()
