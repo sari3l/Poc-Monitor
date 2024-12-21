@@ -2505,6 +2505,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 > A vulnerability in the NuPoint Unified Messaging (NPM) component of Mitel MiCollab through 9.8 SP1 FP2 (9.8.1.201) could allow an unauthenticated attacker to conduct a path traversal attack, due to insufficient input validation. A successful exploit could allow unauthorized access, enabling the attacker to view, corrupt, or delete users' data and system configurations.
 - [watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713](https://github.com/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713">
 - [zxj-hub/CVE-2024-41713POC](https://github.com/zxj-hub/CVE-2024-41713POC)	<img alt="forks" src="https://img.shields.io/github/forks/zxj-hub/CVE-2024-41713POC">	<img alt="stars" src="https://img.shields.io/github/stars/zxj-hub/CVE-2024-41713POC">
+- [Sanandd/cve-2024-CVE-2024-41713](https://github.com/Sanandd/cve-2024-CVE-2024-41713)	<img alt="forks" src="https://img.shields.io/github/forks/Sanandd/cve-2024-CVE-2024-41713">	<img alt="stars" src="https://img.shields.io/github/stars/Sanandd/cve-2024-CVE-2024-41713">
 
 ---
 ## CVE-2024-41662 (2024-07-24T17:15:00)
