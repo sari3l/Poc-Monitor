@@ -1637,6 +1637,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [rohilchaudhry/CVE-2024-48208](https://github.com/rohilchaudhry/CVE-2024-48208)	<img alt="forks" src="https://img.shields.io/github/forks/rohilchaudhry/CVE-2024-48208">	<img alt="stars" src="https://img.shields.io/github/stars/rohilchaudhry/CVE-2024-48208">
 
 ---
+## CVE-2024-48197 ()
+> 
+- [GCatt-AS/CVE-2024-48197](https://github.com/GCatt-AS/CVE-2024-48197)	<img alt="forks" src="https://img.shields.io/github/forks/GCatt-AS/CVE-2024-48197">	<img alt="stars" src="https://img.shields.io/github/stars/GCatt-AS/CVE-2024-48197">
+
+---
 ## CVE-2024-48195 (2024-10-28T20:15:00)
 > Cross Site Scripting vulnerability in eyouCMS v.1.6.7 allows a remote attacker to obtain sensitive information via a crafted script to the post parameter.
 - [cyb3res3c/CVE-2024-48195](https://github.com/cyb3res3c/CVE-2024-48195)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-48195">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-48195">
