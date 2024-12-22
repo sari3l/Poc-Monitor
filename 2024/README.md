@@ -826,6 +826,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-56145 ()
 > 
 - [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-56145">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-56145">
+- [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2024-56145-craftcms-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2024-56145-craftcms-rce">
 
 ---
 ## CVE-2024-56116 ()
