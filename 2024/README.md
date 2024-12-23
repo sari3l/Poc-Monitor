@@ -7678,6 +7678,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11381">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11381">
 
 ---
+## CVE-2024-11349 ()
+> 
+- [linunyang/CVE-2024-11349](https://github.com/linunyang/CVE-2024-11349)	<img alt="forks" src="https://img.shields.io/github/forks/linunyang/CVE-2024-11349">	<img alt="stars" src="https://img.shields.io/github/stars/linunyang/CVE-2024-11349">
+
+---
 ## CVE-2024-11320 (2024-11-21T11:15:00)
 > Arbitrary commands execution on the server by exploiting a command injection vulnerability in the LDAP authentication mechanism. This issue affects Pandora FMS: from 700 through <=777.4
 - [mhaskar/CVE-2024-11320](https://github.com/mhaskar/CVE-2024-11320)	<img alt="forks" src="https://img.shields.io/github/forks/mhaskar/CVE-2024-11320">	<img alt="stars" src="https://img.shields.io/github/stars/mhaskar/CVE-2024-11320">
