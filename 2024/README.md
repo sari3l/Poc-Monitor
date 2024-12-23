@@ -912,6 +912,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [c4oocO/CVE-2024-53677-Docker](https://github.com/c4oocO/CVE-2024-53677-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/c4oocO/CVE-2024-53677-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/c4oocO/CVE-2024-53677-Docker">
 - [XiaomingX/CVE-2024-53677-S2-067](https://github.com/XiaomingX/CVE-2024-53677-S2-067)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-53677-S2-067">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-53677-S2-067">
 - [dustblessnotdust/CVE-2024-53677-S2-067-thread](https://github.com/dustblessnotdust/CVE-2024-53677-S2-067-thread)	<img alt="forks" src="https://img.shields.io/github/forks/dustblessnotdust/CVE-2024-53677-S2-067-thread">	<img alt="stars" src="https://img.shields.io/github/stars/dustblessnotdust/CVE-2024-53677-S2-067-thread">
+- [0xdeviner/CVE-2024-53677](https://github.com/0xdeviner/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeviner/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeviner/CVE-2024-53677">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
@@ -1377,6 +1378,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [Alchemist3dot14/CVE-2024-50379](https://github.com/Alchemist3dot14/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-50379">
 - [ph0ebus/Tomcat-CVE-2024-50379-Poc](https://github.com/ph0ebus/Tomcat-CVE-2024-50379-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ph0ebus/Tomcat-CVE-2024-50379-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ph0ebus/Tomcat-CVE-2024-50379-Poc">
 - [SleepingBag945/CVE-2024-50379](https://github.com/SleepingBag945/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/SleepingBag945/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/SleepingBag945/CVE-2024-50379">
+- [dear-cell/CVE-2024-50379](https://github.com/dear-cell/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/dear-cell/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/dear-cell/CVE-2024-50379">
 
 ---
 ## CVE-2024-50340 ()
