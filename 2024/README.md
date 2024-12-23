@@ -5174,7 +5174,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ---
 ## CVE-2024-28987 (2024-08-21T22:15:00)
 > The SolarWinds Web Help Desk (WHD) software is affected by a hardcoded credential vulnerability, allowing remote unauthenticated user to access internal functionality and modify data.
-- [fa-rrel/CVE-2024-28987-POC](https://github.com/fa-rrel/CVE-2024-28987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-28987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-28987-POC">
+- [gh-ost00/CVE-2024-28987-POC](https://github.com/gh-ost00/CVE-2024-28987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-28987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-28987-POC">
 - [horizon3ai/CVE-2024-28987](https://github.com/horizon3ai/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-28987">
 - [PlayerFridei/CVE-2024-28987](https://github.com/PlayerFridei/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/PlayerFridei/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/PlayerFridei/CVE-2024-28987">
 - [HazeLook/CVE-2024-28987](https://github.com/HazeLook/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-28987">
