@@ -972,7 +972,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ---
 ## CVE-2024-53247 ()
 > 
-- [uzigun/CVE-2024-53247_Basic_Exploit_With_POST_Request](https://github.com/uzigun/CVE-2024-53247_Basic_Exploit_With_POST_Request)	<img alt="forks" src="https://img.shields.io/github/forks/uzigun/CVE-2024-53247_Basic_Exploit_With_POST_Request">	<img alt="stars" src="https://img.shields.io/github/stars/uzigun/CVE-2024-53247_Basic_Exploit_With_POST_Request">
+- [uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk](https://github.com/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk">
 
 ---
 ## CVE-2024-5274 (2024-05-28T15:15:00)
