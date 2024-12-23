@@ -913,6 +913,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [XiaomingX/CVE-2024-53677-S2-067](https://github.com/XiaomingX/CVE-2024-53677-S2-067)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-53677-S2-067">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-53677-S2-067">
 - [dustblessnotdust/CVE-2024-53677-S2-067-thread](https://github.com/dustblessnotdust/CVE-2024-53677-S2-067-thread)	<img alt="forks" src="https://img.shields.io/github/forks/dustblessnotdust/CVE-2024-53677-S2-067-thread">	<img alt="stars" src="https://img.shields.io/github/stars/dustblessnotdust/CVE-2024-53677-S2-067-thread">
 - [0xdeviner/CVE-2024-53677](https://github.com/0xdeviner/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeviner/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeviner/CVE-2024-53677">
+- [Q0LT/VM-CVE-2024-53677](https://github.com/Q0LT/VM-CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/Q0LT/VM-CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/Q0LT/VM-CVE-2024-53677">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
