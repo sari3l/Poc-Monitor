@@ -1260,6 +1260,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-50623 ()
 > 
 - [watchtowrlabs/CVE-2024-50623](https://github.com/watchtowrlabs/CVE-2024-50623)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-50623">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-50623">
+- [verylazytech/CVE-2024-50623](https://github.com/verylazytech/CVE-2024-50623)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-50623">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-50623">
 
 ---
 ## CVE-2024-5057 (2024-08-29T14:15:00)
@@ -1637,6 +1638,16 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-48307 (2024-10-31T01:15:00)
 > JeecgBoot v3.7.1 was discovered to contain a SQL injection vulnerability via the component /onlDragDatasetHead/getTotalData.
 - [iSee857/CVE-2024-48307-poc](https://github.com/iSee857/CVE-2024-48307-poc)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-48307-poc">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-48307-poc">
+
+---
+## CVE-2024-48246 ()
+> 
+- [ShadowByte1/CVE-2024-48246](https://github.com/ShadowByte1/CVE-2024-48246)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-48246">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-48246">
+
+---
+## CVE-2024-48245 ()
+> 
+- [ShadowByte1/CVE-2024-48245](https://github.com/ShadowByte1/CVE-2024-48245)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-48245">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-48245">
 
 ---
 ## CVE-2024-48217 (2024-11-01T17:15:00)
