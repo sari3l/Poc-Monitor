@@ -7794,6 +7794,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [K3ysTr0K3R/CVE-2024-10914-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-10914-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-10914-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-10914-EXPLOIT">
 - [jahithoque/CVE-2024-10914-Exploit](https://github.com/jahithoque/CVE-2024-10914-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jahithoque/CVE-2024-10914-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jahithoque/CVE-2024-10914-Exploit">
 - [redspy-sec/D-Link](https://github.com/redspy-sec/D-Link)	<img alt="forks" src="https://img.shields.io/github/forks/redspy-sec/D-Link">	<img alt="stars" src="https://img.shields.io/github/stars/redspy-sec/D-Link">
+- [dragonXZH/CVE-2024-10914](https://github.com/dragonXZH/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/dragonXZH/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/dragonXZH/CVE-2024-10914">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
