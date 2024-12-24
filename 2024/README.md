@@ -153,6 +153,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [ghostwirez/CVE-2024-9326-PoC](https://github.com/ghostwirez/CVE-2024-9326-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ghostwirez/CVE-2024-9326-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ghostwirez/CVE-2024-9326-PoC">
 
 ---
+## CVE-2024-9290 ()
+> 
+- [Jenderal92/CVE-2024-9290](https://github.com/Jenderal92/CVE-2024-9290)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-9290">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-9290">
+
+---
 ## CVE-2024-9264 (2024-10-18T04:15:00)
 > The SQL Expressions experimental feature of Grafana allows for the evaluation of `duckdb` queries containing user input. These queries are insufficiently sanitized before being passed to `duckdb`, leading to a command injection and local file inclusion vulnerability. Any user with the VIEWER or higher permission is capable of executing this attack.  The `duckdb` binary must be present in Grafana's $PATH for this attack to function; by default, this binary is not installed in Grafana distributions.
 - [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/nollium/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/nollium/CVE-2024-9264">
