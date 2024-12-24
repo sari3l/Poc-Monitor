@@ -46,6 +46,10 @@
 ## CVE-2018-9206 ()
 > 
 - [MikeyPPPPPPPP/CVE-2018-9206](https://github.com/MikeyPPPPPPPP/CVE-2018-9206)	<img alt="forks" src="https://img.shields.io/github/forks/MikeyPPPPPPPP/CVE-2018-9206">	<img alt="stars" src="https://img.shields.io/github/stars/MikeyPPPPPPPP/CVE-2018-9206">
+- [mi-hood/CVE-2018-9206](https://github.com/mi-hood/CVE-2018-9206)	<img alt="forks" src="https://img.shields.io/github/forks/mi-hood/CVE-2018-9206">	<img alt="stars" src="https://img.shields.io/github/stars/mi-hood/CVE-2018-9206">
+- [cved-sources/cve-2018-9206](https://github.com/cved-sources/cve-2018-9206)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2018-9206">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2018-9206">
+- [Stahlz/JQShell](https://github.com/Stahlz/JQShell)	<img alt="forks" src="https://img.shields.io/github/forks/Stahlz/JQShell">	<img alt="stars" src="https://img.shields.io/github/stars/Stahlz/JQShell">
+- [Den1al/CVE-2018-9206](https://github.com/Den1al/CVE-2018-9206)	<img alt="forks" src="https://img.shields.io/github/forks/Den1al/CVE-2018-9206">	<img alt="stars" src="https://img.shields.io/github/stars/Den1al/CVE-2018-9206">
 
 ---
 ## CVE-2018-8976 (2018-03-25T03:29:00)
