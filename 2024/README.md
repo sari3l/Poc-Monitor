@@ -156,6 +156,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 ## CVE-2024-9290 ()
 > 
 - [Jenderal92/CVE-2024-9290](https://github.com/Jenderal92/CVE-2024-9290)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-9290">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-9290">
+- [RandomRobbieBF/CVE-2024-9290](https://github.com/RandomRobbieBF/CVE-2024-9290)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9290">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9290">
 
 ---
 ## CVE-2024-9264 (2024-10-18T04:15:00)
