@@ -7572,6 +7572,7 @@ authentication.   
 ## CVE-2024-12209 ()
 > 
 - [RandomRobbieBF/CVE-2024-12209](https://github.com/RandomRobbieBF/CVE-2024-12209)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12209">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12209">
+- [Nxploited/CVE-2024-12209](https://github.com/Nxploited/CVE-2024-12209)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12209">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12209">
 
 ---
 ## CVE-2024-12155 ()
