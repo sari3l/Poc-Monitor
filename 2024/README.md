@@ -1399,6 +1399,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [lizhianyuguangming/CVE-2024-50379-exp](https://github.com/lizhianyuguangming/CVE-2024-50379-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lizhianyuguangming/CVE-2024-50379-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lizhianyuguangming/CVE-2024-50379-exp">
 - [murat-exp/CVE-2024-50379](https://github.com/murat-exp/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/murat-exp/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/murat-exp/CVE-2024-50379">
 - [dragonked2/CVE-2024-50379-POC](https://github.com/dragonked2/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dragonked2/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dragonked2/CVE-2024-50379-POC">
+- [bigb0x/CVE-2024-50379](https://github.com/bigb0x/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-50379">
 
 ---
 ## CVE-2024-50340 ()
