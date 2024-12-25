@@ -818,6 +818,11 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL)	<img alt="forks" src="https://img.shields.io/github/forks/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">	<img alt="stars" src="https://img.shields.io/github/stars/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">
 
 ---
+## CVE-2024-56431 ()
+> 
+- [UnionTech-Software/libtheora-CVE-2024-56431-PoC](https://github.com/UnionTech-Software/libtheora-CVE-2024-56431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/UnionTech-Software/libtheora-CVE-2024-56431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/UnionTech-Software/libtheora-CVE-2024-56431-PoC">
+
+---
 ## CVE-2024-56331 ()
 > 
 - [griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331)	<img alt="forks" src="https://img.shields.io/github/forks/griisemine/CVE-2024-56331">	<img alt="stars" src="https://img.shields.io/github/stars/griisemine/CVE-2024-56331">
