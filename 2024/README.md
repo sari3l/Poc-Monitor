@@ -1479,6 +1479,7 @@ length to be included in the checksum calculation is fully consumed.
 > 
 - [b0l1o/CVE-2024-49112-PoC](https://github.com/b0l1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b0l1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b0l1o/CVE-2024-49112-PoC">
 - [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor)	<img alt="forks" src="https://img.shields.io/github/forks/tnkr/poc_monitor">	<img alt="stars" src="https://img.shields.io/github/stars/tnkr/poc_monitor">
+- [BOl1o/CVE-2024-49112-PoC](https://github.com/BOl1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BOl1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BOl1o/CVE-2024-49112-PoC">
 
 ---
 ## CVE-2024-49039 ()
@@ -8045,6 +8046,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 ## CVE-2024-0710 (2024-05-02T17:15:00)
 > The GP Unique ID plugin for WordPress is vulnerable to Unique ID Modification in all versions up to, and including, 1.5.5. This is due to insufficient input validation. This makes it possible for unauthenticated attackers to tamper with the generation of a unique ID on a form submission and replace the generated unique ID with a user-controlled one, leading to a loss of integrity in cases where the ID's uniqueness is relied upon in a security-specific context.
 - [karlemilnikka/CVE-2024-0710](https://github.com/karlemilnikka/CVE-2024-0710)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-0710">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-0710">
+
+---
+## CVE-2024-0683 ()
+> 
+- [3474458191/CVE-2024-0683](https://github.com/3474458191/CVE-2024-0683)	<img alt="forks" src="https://img.shields.io/github/forks/3474458191/CVE-2024-0683">	<img alt="stars" src="https://img.shields.io/github/stars/3474458191/CVE-2024-0683">
 
 ---
 ## CVE-2024-0679 (2024-01-20T06:15:00)
