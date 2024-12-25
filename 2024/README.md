@@ -7442,6 +7442,11 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 - [HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
 
 ---
+## CVE-2024-20137 ()
+> 
+- [takistmr/CVE-2024-20137](https://github.com/takistmr/CVE-2024-20137)	<img alt="forks" src="https://img.shields.io/github/forks/takistmr/CVE-2024-20137">	<img alt="stars" src="https://img.shields.io/github/stars/takistmr/CVE-2024-20137">
+
+---
 ## CVE-2024-20017 (2024-03-04T03:15:00)
 > In wlan service, there is a possible out of bounds write due to improper input validation. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation Patch ID: WCNCR00350938; Issue ID: MSV-1132.
 - [mellow-hype/cve-2024-20017](https://github.com/mellow-hype/cve-2024-20017)	<img alt="forks" src="https://img.shields.io/github/forks/mellow-hype/cve-2024-20017">	<img alt="stars" src="https://img.shields.io/github/stars/mellow-hype/cve-2024-20017">
