@@ -1386,6 +1386,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [ph0ebus/Tomcat-CVE-2024-50379-Poc](https://github.com/ph0ebus/Tomcat-CVE-2024-50379-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ph0ebus/Tomcat-CVE-2024-50379-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ph0ebus/Tomcat-CVE-2024-50379-Poc">
 - [SleepingBag945/CVE-2024-50379](https://github.com/SleepingBag945/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/SleepingBag945/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/SleepingBag945/CVE-2024-50379">
 - [dear-cell/CVE-2024-50379](https://github.com/dear-cell/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/dear-cell/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/dear-cell/CVE-2024-50379">
+- [lizhianyuguangming/CVE-2024-50379-exp](https://github.com/lizhianyuguangming/CVE-2024-50379-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lizhianyuguangming/CVE-2024-50379-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lizhianyuguangming/CVE-2024-50379-exp">
 
 ---
 ## CVE-2024-50340 ()
