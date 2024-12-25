@@ -219,6 +219,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [maybeheisenberg/CVE-2024-9079](https://github.com/maybeheisenberg/CVE-2024-9079)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-9079">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-9079">
 
 ---
+## CVE-2024-9047 ()
+> 
+- [iSee857/CVE-2024-9047-PoC](https://github.com/iSee857/CVE-2024-9047-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-9047-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-9047-PoC">
+
+---
 ## CVE-2024-9043 (2024-09-20T11:15:00)
 > Secure Email Gateway from Cellopoint has Buffer Overflow Vulnerability in authentication process. Remote unauthenticated attackers can send crafted packets to crash the process, thereby bypassing authentication and obtaining system administrator privileges.
 - [maybeheisenberg/CVE-2024-9043](https://github.com/maybeheisenberg/CVE-2024-9043)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-9043">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-9043">
