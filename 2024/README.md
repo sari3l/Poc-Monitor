@@ -1985,6 +1985,11 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [nidhihcl75/external_expat_2.6.2_CVE-2024-45490](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45490)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/external_expat_2.6.2_CVE-2024-45490">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/external_expat_2.6.2_CVE-2024-45490">
 
 ---
+## CVE-2024-45440 ()
+> 
+- [w0r1i0g1ht/CVE-2024-45440](https://github.com/w0r1i0g1ht/CVE-2024-45440)	<img alt="forks" src="https://img.shields.io/github/forks/w0r1i0g1ht/CVE-2024-45440">	<img alt="stars" src="https://img.shields.io/github/stars/w0r1i0g1ht/CVE-2024-45440">
+
+---
 ## CVE-2024-45436 (2024-08-29T03:15:00)
 > extractFromZipFile in model.go in Ollama before 0.1.47 can extract members of a ZIP archive outside of the parent directory.
 - [pankass/CVE-2024-45436](https://github.com/pankass/CVE-2024-45436)	<img alt="forks" src="https://img.shields.io/github/forks/pankass/CVE-2024-45436">	<img alt="stars" src="https://img.shields.io/github/stars/pankass/CVE-2024-45436">
