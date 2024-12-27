@@ -38,6 +38,7 @@
 ## CVE-2024-9933 (2024-10-26T03:15:00)
 > The WatchTowerHQ plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 3.9.6. This is due to the 'watchtower_ota_token' default value is empty, and the not empty check is missing in the 'Password_Less_Access::login' function. This makes it possible for unauthenticated attackers to log in to the WatchTowerHQ client administrator user.
 - [RandomRobbieBF/CVE-2024-9933](https://github.com/RandomRobbieBF/CVE-2024-9933)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9933">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9933">
+- [Nxploited/CVE-2024-9933](https://github.com/Nxploited/CVE-2024-9933)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9933">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9933">
 
 ---
 ## CVE-2024-9932 (2024-10-26T03:15:00)
