@@ -6882,6 +6882,7 @@
 - [7own/CVE-2021-26690---Apache-mod_session](https://github.com/7own/CVE-2021-26690---Apache-mod_session)	<img alt="forks" src="https://img.shields.io/github/forks/7own/CVE-2021-26690---Apache-mod_session">	<img alt="stars" src="https://img.shields.io/github/stars/7own/CVE-2021-26690---Apache-mod_session">
 - [dja2TaqkGEEfA45/CVE-2021-26690](https://github.com/dja2TaqkGEEfA45/CVE-2021-26690)	<img alt="forks" src="https://img.shields.io/github/forks/dja2TaqkGEEfA45/CVE-2021-26690">	<img alt="stars" src="https://img.shields.io/github/stars/dja2TaqkGEEfA45/CVE-2021-26690">
 - [0xdeviner/CVE-2021-26690](https://github.com/0xdeviner/CVE-2021-26690)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeviner/CVE-2021-26690">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeviner/CVE-2021-26690">
+- [danielduan2002/CVE-2021-26690](https://github.com/danielduan2002/CVE-2021-26690)	<img alt="forks" src="https://img.shields.io/github/forks/danielduan2002/CVE-2021-26690">	<img alt="stars" src="https://img.shields.io/github/stars/danielduan2002/CVE-2021-26690">
 
 ---
 ## CVE-2021-26639 (2022-08-17T21:15:00)
