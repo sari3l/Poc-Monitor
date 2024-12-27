@@ -3017,6 +3017,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 ## CVE-2023-38829 (2023-09-11T19:15:00)
 > An issue in NETIS SYSTEMS WF2409E v.3.6.42541 allows a remote attacker to execute arbitrary code via the ping and traceroute functions of the diagnostic tools component in the admin management interface.
 - [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-38829-NETIS-WF2409E">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-38829-NETIS-WF2409E">
+- [Victorique-123/CVE-2023-38829-NETIS-WF2409E_Report](https://github.com/Victorique-123/CVE-2023-38829-NETIS-WF2409E_Report)	<img alt="forks" src="https://img.shields.io/github/forks/Victorique-123/CVE-2023-38829-NETIS-WF2409E_Report">	<img alt="stars" src="https://img.shields.io/github/stars/Victorique-123/CVE-2023-38829-NETIS-WF2409E_Report">
 
 ---
 ## CVE-2023-38822 ()
