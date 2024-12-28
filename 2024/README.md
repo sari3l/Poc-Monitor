@@ -364,6 +364,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [MuhammadWaseem29/RCE-CVE-2024-7954](https://github.com/MuhammadWaseem29/RCE-CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/RCE-CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/RCE-CVE-2024-7954">
 - [issamjr/CVE-2024-7954](https://github.com/issamjr/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2024-7954">
 - [zxj-hub/CVE-2024-7954POC](https://github.com/zxj-hub/CVE-2024-7954POC)	<img alt="forks" src="https://img.shields.io/github/forks/zxj-hub/CVE-2024-7954POC">	<img alt="stars" src="https://img.shields.io/github/stars/zxj-hub/CVE-2024-7954POC">
+- [0dayan0n/RCE_CVE-2024-7954-](https://github.com/0dayan0n/RCE_CVE-2024-7954-)	<img alt="forks" src="https://img.shields.io/github/forks/0dayan0n/RCE_CVE-2024-7954-">	<img alt="stars" src="https://img.shields.io/github/stars/0dayan0n/RCE_CVE-2024-7954-">
 
 ---
 ## CVE-2024-7928 (2024-08-19T22:15:00)
