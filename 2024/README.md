@@ -4854,6 +4854,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-30085 ()
 > 
 - [Adamkadaban/CVE-2024-30085](https://github.com/Adamkadaban/CVE-2024-30085)	<img alt="forks" src="https://img.shields.io/github/forks/Adamkadaban/CVE-2024-30085">	<img alt="stars" src="https://img.shields.io/github/stars/Adamkadaban/CVE-2024-30085">
+- [murdok1982/Exploit-PoC-para-CVE-2024-30085](https://github.com/murdok1982/Exploit-PoC-para-CVE-2024-30085)	<img alt="forks" src="https://img.shields.io/github/forks/murdok1982/Exploit-PoC-para-CVE-2024-30085">	<img alt="stars" src="https://img.shields.io/github/stars/murdok1982/Exploit-PoC-para-CVE-2024-30085">
 
 ---
 ## CVE-2024-30078 (2024-06-11T17:15:00)
