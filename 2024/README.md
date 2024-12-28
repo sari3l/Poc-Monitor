@@ -189,6 +189,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 > The GutenKit – Page Builder Blocks, Patterns, and Templates for Gutenberg Block Editor plugin for WordPress is vulnerable to arbitrary file uploads due to a missing capability check on the install_and_activate_plugin_from_external() function  (install-active-plugin REST API endpoint) in all versions up to, and including, 2.1.0. This makes it possible for unauthenticated attackers to install and activate arbitrary plugins, or utilize the functionality to upload arbitrary files spoofed like plugins.
 - [RandomRobbieBF/CVE-2024-9234](https://github.com/RandomRobbieBF/CVE-2024-9234)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9234">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9234">
 - [CallMeBatosay/CVE-2024-9234](https://github.com/CallMeBatosay/CVE-2024-9234)	<img alt="forks" src="https://img.shields.io/github/forks/CallMeBatosay/CVE-2024-9234">	<img alt="stars" src="https://img.shields.io/github/stars/CallMeBatosay/CVE-2024-9234">
+- [Nxploited/CVE-2024-9234](https://github.com/Nxploited/CVE-2024-9234)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9234">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9234">
 
 ---
 ## CVE-2024-9224 (2024-10-01T09:15:00)
@@ -7665,6 +7666,11 @@ authentication.   
 - [famixcm/CVE-2024-11680](https://github.com/famixcm/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-11680">
 - [exploitboom/CVE-2024-11680](https://github.com/exploitboom/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/exploitboom/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/exploitboom/CVE-2024-11680">
 - [D3N14LD15K/CVE-2024-11680_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-11680_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-11680_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-11680_PoC_Exploit">
+
+---
+## CVE-2024-11616 ()
+> 
+- [inb1ts/CVE-2024-11616](https://github.com/inb1ts/CVE-2024-11616)	<img alt="forks" src="https://img.shields.io/github/forks/inb1ts/CVE-2024-11616">	<img alt="stars" src="https://img.shields.io/github/stars/inb1ts/CVE-2024-11616">
 
 ---
 ## CVE-2024-11477 (2024-11-22T21:15:00)
