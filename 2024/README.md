@@ -7228,6 +7228,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [codeb0ss/CVE-2024-2122-PoC](https://github.com/codeb0ss/CVE-2024-2122-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-2122-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-2122-PoC">
 
 ---
+## CVE-2024-21182 ()
+> 
+- [k4it0k1d/CVE-2024-21182](https://github.com/k4it0k1d/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/k4it0k1d/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/k4it0k1d/CVE-2024-21182">
+
+---
 ## CVE-2024-21164 (2024-07-16T23:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 7.0.20. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of Oracle VM VirtualBox accessible data. CVSS 3.1 Base Score 2.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:L/I:N/A:N).
 - [Jaden1419/-CVE-2024-21164](https://github.com/Jaden1419/-CVE-2024-21164)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/-CVE-2024-21164">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/-CVE-2024-21164">
