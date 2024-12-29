@@ -344,6 +344,7 @@
 - [dy5topian/CVE-2018-6574](https://github.com/dy5topian/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/dy5topian/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/dy5topian/CVE-2018-6574">
 - [seoqqq/CVE-2018-6574](https://github.com/seoqqq/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/seoqqq/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/seoqqq/CVE-2018-6574">
 - [f0ur0four/CVE-2018-6574](https://github.com/f0ur0four/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/f0ur0four/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/f0ur0four/CVE-2018-6574">
+- [f0ur0four/cve-2018-6574](https://github.com/f0ur0four/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/f0ur0four/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/f0ur0four/cve-2018-6574">
 
 ---
 ## CVE-2018-6389 (2018-02-06T17:29:00)
