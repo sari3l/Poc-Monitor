@@ -3013,6 +3013,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [VictoriousKnight/CVE-2023-38831_Exploit](https://github.com/VictoriousKnight/CVE-2023-38831_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/VictoriousKnight/CVE-2023-38831_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/VictoriousKnight/CVE-2023-38831_Exploit">
 - [RonF98/CVE-2023-38831-POC](https://github.com/RonF98/CVE-2023-38831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2023-38831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2023-38831-POC">
 - [TranKuBao/winrar_CVE2023-38831](https://github.com/TranKuBao/winrar_CVE2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/TranKuBao/winrar_CVE2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/TranKuBao/winrar_CVE2023-38831">
+- [kuyrathdaro/winrar-cve-2023-38831](https://github.com/kuyrathdaro/winrar-cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/winrar-cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/winrar-cve-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
