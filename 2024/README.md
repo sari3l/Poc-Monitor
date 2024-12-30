@@ -924,6 +924,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS)	<img alt="forks" src="https://img.shields.io/github/forks/K4yd0/CVE-2024-5420_XSS">	<img alt="stars" src="https://img.shields.io/github/stars/K4yd0/CVE-2024-5420_XSS">
 
 ---
+## CVE-2024-54152 ()
+> 
+- [math-x-io/CVE-2024-54152-poc](https://github.com/math-x-io/CVE-2024-54152-poc)	<img alt="forks" src="https://img.shields.io/github/forks/math-x-io/CVE-2024-54152-poc">	<img alt="stars" src="https://img.shields.io/github/stars/math-x-io/CVE-2024-54152-poc">
+
+---
 ## CVE-2024-53677 ()
 > 
 - [cloudwafs/s2-067-CVE-2024-53677](https://github.com/cloudwafs/s2-067-CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/cloudwafs/s2-067-CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/cloudwafs/s2-067-CVE-2024-53677">
