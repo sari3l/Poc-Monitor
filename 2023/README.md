@@ -2509,6 +2509,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 ## CVE-2023-4147 ()
 > 
 - [murdok1982/Exploit-en-Python-para-CVE-2023-4147](https://github.com/murdok1982/Exploit-en-Python-para-CVE-2023-4147)	<img alt="forks" src="https://img.shields.io/github/forks/murdok1982/Exploit-en-Python-para-CVE-2023-4147">	<img alt="stars" src="https://img.shields.io/github/stars/murdok1982/Exploit-en-Python-para-CVE-2023-4147">
+- [JBalanza/CVE-2023-41474](https://github.com/JBalanza/CVE-2023-41474)	<img alt="forks" src="https://img.shields.io/github/forks/JBalanza/CVE-2023-41474">	<img alt="stars" src="https://img.shields.io/github/stars/JBalanza/CVE-2023-41474">
 
 ---
 ## CVE-2023-4145 (2023-08-03T17:15:00)
