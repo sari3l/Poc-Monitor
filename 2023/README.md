@@ -2595,6 +2595,7 @@ The vulnerability is limited to the ROOT (default) web application.
 ## CVE-2023-40931 (2023-09-19T23:15:00)
 > A SQL injection vulnerability in Nagios XI from version 5.11.0 up to and including 5.11.1 allows authenticated attackers to execute arbitrary SQL commands via the ID parameter in the POST request to /nagiosxi/admin/banner_message-ajaxhelper.php
 - [sealldeveloper/CVE-2023-40931-PoC](https://github.com/sealldeveloper/CVE-2023-40931-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sealldeveloper/CVE-2023-40931-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sealldeveloper/CVE-2023-40931-PoC">
+- [datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit](https://github.com/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit">
 
 ---
 ## CVE-2023-40930 (2023-09-20T20:15:00)
