@@ -1135,6 +1135,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [XiaomingX/cve-2024-51567-poc](https://github.com/XiaomingX/cve-2024-51567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-51567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-51567-poc">
 
 ---
+## CVE-2024-51442 ()
+> 
+- [mselbrede/CVE-2024-51442](https://github.com/mselbrede/CVE-2024-51442)	<img alt="forks" src="https://img.shields.io/github/forks/mselbrede/CVE-2024-51442">	<img alt="stars" src="https://img.shields.io/github/stars/mselbrede/CVE-2024-51442">
+
+---
 ## CVE-2024-51430 (2024-10-31T17:15:00)
 > Cross Site Scripting vulnerability in online diagnostic lab management system using php v.1.0 allows a remote attacker to execute arbitrary code via the Test Name parameter on the diagnostic/add-test.php component.
 - [BLACK-SCORP10/CVE-2024-51430](https://github.com/BLACK-SCORP10/CVE-2024-51430)	<img alt="forks" src="https://img.shields.io/github/forks/BLACK-SCORP10/CVE-2024-51430">	<img alt="stars" src="https://img.shields.io/github/stars/BLACK-SCORP10/CVE-2024-51430">
