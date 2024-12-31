@@ -1834,6 +1834,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627)	<img alt="forks" src="https://img.shields.io/github/forks/d4lyw/CVE-2024-46627">	<img alt="stars" src="https://img.shields.io/github/stars/d4lyw/CVE-2024-46627">
 
 ---
+## CVE-2024-46542 ()
+> 
+- [MarioTesoro/CVE-2024-46542](https://github.com/MarioTesoro/CVE-2024-46542)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-46542">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-46542">
+
+---
 ## CVE-2024-46538 (2024-10-22T17:15:00)
 > A cross-site scripting (XSS) vulnerability in pfsense v2.5.2 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the $pconfig variable at interfaces_groups_edit.php.
 - [EQSTLab/CVE-2024-46538](https://github.com/EQSTLab/CVE-2024-46538)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-46538">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-46538">
