@@ -958,6 +958,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC)	<img alt="forks" src="https://img.shields.io/github/forks/droyuu/Aj-Report-sql-CVE-2024-5356-POC">	<img alt="stars" src="https://img.shields.io/github/stars/droyuu/Aj-Report-sql-CVE-2024-5356-POC">
 
 ---
+## CVE-2024-53522 ()
+> 
+- [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522)	<img alt="forks" src="https://img.shields.io/github/forks/Safecloudth/CVE-2024-53522">	<img alt="stars" src="https://img.shields.io/github/stars/Safecloudth/CVE-2024-53522">
+
+---
 ## CVE-2024-53476 ()
 > 
 - [AbdullahAlmutawa/CVE-2024-53476](https://github.com/AbdullahAlmutawa/CVE-2024-53476)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahAlmutawa/CVE-2024-53476">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahAlmutawa/CVE-2024-53476">
