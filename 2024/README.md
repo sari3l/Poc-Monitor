@@ -1516,6 +1516,7 @@ length to be included in the checksum calculation is fully consumed.
 - [b0l1o/CVE-2024-49112-PoC](https://github.com/b0l1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b0l1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b0l1o/CVE-2024-49112-PoC">
 - [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor)	<img alt="forks" src="https://img.shields.io/github/forks/tnkr/poc_monitor">	<img alt="stars" src="https://img.shields.io/github/stars/tnkr/poc_monitor">
 - [BOl1o/CVE-2024-49112-PoC](https://github.com/BOl1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BOl1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BOl1o/CVE-2024-49112-PoC">
+- [SafeBreach-Labs/CVE-2024-49112](https://github.com/SafeBreach-Labs/CVE-2024-49112)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/CVE-2024-49112">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/CVE-2024-49112">
 
 ---
 ## CVE-2024-49039 ()
@@ -2568,6 +2569,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [watchdog1337/CVE-2024-42327_Zabbix_SQLI](https://github.com/watchdog1337/CVE-2024-42327_Zabbix_SQLI)	<img alt="forks" src="https://img.shields.io/github/forks/watchdog1337/CVE-2024-42327_Zabbix_SQLI">	<img alt="stars" src="https://img.shields.io/github/stars/watchdog1337/CVE-2024-42327_Zabbix_SQLI">
 - [itform-fr/Zabbix---CVE-2024-42327](https://github.com/itform-fr/Zabbix---CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/itform-fr/Zabbix---CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/itform-fr/Zabbix---CVE-2024-42327">
 - [igorbf495/CVE-2024-42327](https://github.com/igorbf495/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/igorbf495/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/igorbf495/CVE-2024-42327">
+- [BridgerAlderson/Zabbix-CVE-2024-42327](https://github.com/BridgerAlderson/Zabbix-CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/Zabbix-CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/Zabbix-CVE-2024-42327">
 
 ---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
