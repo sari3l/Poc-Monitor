@@ -7096,6 +7096,11 @@ kernel memory, lateral privilege escalation, and container escape.
 - [Rahul-Thakur7/CVE-2023-21554](https://github.com/Rahul-Thakur7/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/Rahul-Thakur7/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/Rahul-Thakur7/CVE-2023-21554">
 
 ---
+## CVE-2023-21537 ()
+> 
+- [stevenjoezhang/CVE-2023-21537](https://github.com/stevenjoezhang/CVE-2023-21537)	<img alt="forks" src="https://img.shields.io/github/forks/stevenjoezhang/CVE-2023-21537">	<img alt="stars" src="https://img.shields.io/github/stars/stevenjoezhang/CVE-2023-21537">
+
+---
 ## CVE-2023-21529 (2023-02-14T20:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability
 - [tr1pl3ight/CVE-2023-21529-POC](https://github.com/tr1pl3ight/CVE-2023-21529-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/CVE-2023-21529-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/CVE-2023-21529-POC">
