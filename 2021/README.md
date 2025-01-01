@@ -6805,6 +6805,11 @@
 - [Live-Hack-CVE/CVE-2021-27343](https://github.com/Live-Hack-CVE/CVE-2021-27343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27343">
 
 ---
+## CVE-2021-27285 ()
+> 
+- [fjh1997/CVE-2021-27285](https://github.com/fjh1997/CVE-2021-27285)	<img alt="forks" src="https://img.shields.io/github/forks/fjh1997/CVE-2021-27285">	<img alt="stars" src="https://img.shields.io/github/stars/fjh1997/CVE-2021-27285">
+
+---
 ## CVE-2021-27239 (2021-03-29T21:15:00)
 > This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of NETGEAR R6400 and R6700 firmware version 1.0.4.98 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the upnpd service, which listens on UDP port 1900 by default. A crafted MX header field in an SSDP message can trigger an overflow of a fixed-length stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-11851.
 - [WizardsOfTheInternet/CVE-2021-27239](https://github.com/WizardsOfTheInternet/CVE-2021-27239)	<img alt="forks" src="https://img.shields.io/github/forks/WizardsOfTheInternet/CVE-2021-27239">	<img alt="stars" src="https://img.shields.io/github/stars/WizardsOfTheInternet/CVE-2021-27239">
