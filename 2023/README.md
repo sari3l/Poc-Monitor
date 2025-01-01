@@ -1230,6 +1230,7 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-47668 (2023-11-23T00:15:00)
 > Exposure of Sensitive Information to an Unauthorized Actor vulnerability in StellarWP Membership Plugin – Restrict Content plugin <= 3.2.7 versions.
 - [RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47668">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47668">
+- [Nxploited/CVE-2023-47668](https://github.com/Nxploited/CVE-2023-47668)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2023-47668">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2023-47668">
 
 ---
 ## CVE-2023-4762 (2023-09-05T22:15:00)
