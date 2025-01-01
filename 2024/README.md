@@ -961,6 +961,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-53522 ()
 > 
 - [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522)	<img alt="forks" src="https://img.shields.io/github/forks/Safecloudth/CVE-2024-53522">	<img alt="stars" src="https://img.shields.io/github/stars/Safecloudth/CVE-2024-53522">
+- [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522)	<img alt="forks" src="https://img.shields.io/github/forks/Safecloudth/CVE-2024-53522">	<img alt="stars" src="https://img.shields.io/github/stars/Safecloudth/CVE-2024-53522">
 
 ---
 ## CVE-2024-53476 ()
