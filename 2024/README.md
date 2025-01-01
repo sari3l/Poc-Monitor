@@ -458,6 +458,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-7135 (2024-07-31T11:15:00)
 > The Tainacan plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on the 'get_file' function in all versions up to, and including, 0.21.7. The function is also vulnerable to directory traversal. This makes it possible for authenticated attackers, with Subscriber-level access and above, to read the contents of arbitrary files on the server, which can contain sensitive information.
 - [RandomRobbieBF/CVE-2024-7135](https://github.com/RandomRobbieBF/CVE-2024-7135)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-7135">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-7135">
+- [Nxploited/CVE-2024-7135](https://github.com/Nxploited/CVE-2024-7135)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-7135">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-7135">
 
 ---
 ## CVE-2024-7124 ()
