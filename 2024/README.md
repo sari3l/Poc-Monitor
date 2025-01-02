@@ -7994,6 +7994,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10410">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10410">
 
 ---
+## CVE-2024-10400 ()
+> 
+- [k0ns0l/CVE-2024-10400](https://github.com/k0ns0l/CVE-2024-10400)	<img alt="forks" src="https://img.shields.io/github/forks/k0ns0l/CVE-2024-10400">	<img alt="stars" src="https://img.shields.io/github/stars/k0ns0l/CVE-2024-10400">
+
+---
 ## CVE-2024-10386 (2024-10-25T17:15:00)
 > CVE-2024-10386 IMPACT
 
