@@ -1525,6 +1525,7 @@ length to be included in the checksum calculation is fully consumed.
 - [BOl1o/CVE-2024-49112-PoC](https://github.com/BOl1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BOl1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BOl1o/CVE-2024-49112-PoC">
 - [SafeBreach-Labs/CVE-2024-49112](https://github.com/SafeBreach-Labs/CVE-2024-49112)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/CVE-2024-49112">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/CVE-2024-49112">
 - [BOl1o/CVE-2024-49112-RCE-PoC](https://github.com/BOl1o/CVE-2024-49112-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BOl1o/CVE-2024-49112-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BOl1o/CVE-2024-49112-RCE-PoC">
+- [CCIEVoice2009/CVE-2024-49112](https://github.com/CCIEVoice2009/CVE-2024-49112)	<img alt="forks" src="https://img.shields.io/github/forks/CCIEVoice2009/CVE-2024-49112">	<img alt="stars" src="https://img.shields.io/github/stars/CCIEVoice2009/CVE-2024-49112">
 
 ---
 ## CVE-2024-49039 ()
