@@ -962,6 +962,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 > 
 - [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522)	<img alt="forks" src="https://img.shields.io/github/forks/Safecloudth/CVE-2024-53522">	<img alt="stars" src="https://img.shields.io/github/stars/Safecloudth/CVE-2024-53522">
 - [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522)	<img alt="forks" src="https://img.shields.io/github/forks/Safecloudth/CVE-2024-53522">	<img alt="stars" src="https://img.shields.io/github/stars/Safecloudth/CVE-2024-53522">
+- [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522)	<img alt="forks" src="https://img.shields.io/github/forks/Safecloudth/CVE-2024-53522">	<img alt="stars" src="https://img.shields.io/github/stars/Safecloudth/CVE-2024-53522">
 
 ---
 ## CVE-2024-53476 ()
@@ -1523,6 +1524,7 @@ length to be included in the checksum calculation is fully consumed.
 - [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor)	<img alt="forks" src="https://img.shields.io/github/forks/tnkr/poc_monitor">	<img alt="stars" src="https://img.shields.io/github/stars/tnkr/poc_monitor">
 - [BOl1o/CVE-2024-49112-PoC](https://github.com/BOl1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BOl1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BOl1o/CVE-2024-49112-PoC">
 - [SafeBreach-Labs/CVE-2024-49112](https://github.com/SafeBreach-Labs/CVE-2024-49112)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/CVE-2024-49112">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/CVE-2024-49112">
+- [BOl1o/CVE-2024-49112-RCE-PoC](https://github.com/BOl1o/CVE-2024-49112-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BOl1o/CVE-2024-49112-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BOl1o/CVE-2024-49112-RCE-PoC">
 
 ---
 ## CVE-2024-49039 ()
