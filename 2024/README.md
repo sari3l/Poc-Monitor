@@ -2972,6 +2972,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/CVE-2024-38856">
 - [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-38856-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-38856-RCE">
 - [XiaomingX/cve-2024-38856-poc](https://github.com/XiaomingX/cve-2024-38856-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-38856-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-38856-poc">
+- [FakesiteSecurity/CVE-2024-38856_Scen](https://github.com/FakesiteSecurity/CVE-2024-38856_Scen)	<img alt="forks" src="https://img.shields.io/github/forks/FakesiteSecurity/CVE-2024-38856_Scen">	<img alt="stars" src="https://img.shields.io/github/stars/FakesiteSecurity/CVE-2024-38856_Scen">
 
 ---
 ## CVE-2024-38821 (2024-10-28T07:15:00)
