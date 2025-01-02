@@ -656,6 +656,11 @@
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
 
 ---
+## CVE-2017-2024 ()
+> 
+- [FarizDevloper/CVE-2017-2024](https://github.com/FarizDevloper/CVE-2017-2024)	<img alt="forks" src="https://img.shields.io/github/forks/FarizDevloper/CVE-2017-2024">	<img alt="stars" src="https://img.shields.io/github/stars/FarizDevloper/CVE-2017-2024">
+
+---
 ## CVE-2017-20169 (2023-01-13T21:15:00)
 > A vulnerability, which was classified as critical, has been found in GGGGGGGG ToN-MasterServer. Affected by this issue is some unknown functionality of the file public_html/irc_updater/svr_request_pub.php. The manipulation leads to sql injection. The name of the patch is 3a4c7e6d51bf95760820e3245e06c6e321a7168a. It is recommended to apply a patch to fix this issue. VDB-218306 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2017-20169](https://github.com/Live-Hack-CVE/CVE-2017-20169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20169">
