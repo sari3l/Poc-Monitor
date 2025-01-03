@@ -1522,6 +1522,7 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-49113 ()
 > 
 - [SafeBreach-Labs/CVE-2024-49113](https://github.com/SafeBreach-Labs/CVE-2024-49113)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/CVE-2024-49113">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/CVE-2024-49113">
+- [barcrange/CVE-2024-49113-Checker](https://github.com/barcrange/CVE-2024-49113-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/barcrange/CVE-2024-49113-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/barcrange/CVE-2024-49113-Checker">
 
 ---
 ## CVE-2024-49112 ()
