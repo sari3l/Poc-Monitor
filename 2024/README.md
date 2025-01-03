@@ -930,6 +930,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-5452-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-5452-poc">
 
 ---
+## CVE-2024-54330 ()
+> 
+- [RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54330">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54330">
+
+---
 ## CVE-2024-54262 ()
 > 
 - [RandomRobbieBF/CVE-2024-54262](https://github.com/RandomRobbieBF/CVE-2024-54262)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54262">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54262">
