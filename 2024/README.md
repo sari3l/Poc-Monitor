@@ -7657,6 +7657,11 @@ authentication.   
 - [PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2024-1346">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2024-1346">
 
 ---
+## CVE-2024-12986 ()
+> 
+- [Aether-0/CVE-2024-12986](https://github.com/Aether-0/CVE-2024-12986)	<img alt="forks" src="https://img.shields.io/github/forks/Aether-0/CVE-2024-12986">	<img alt="stars" src="https://img.shields.io/github/stars/Aether-0/CVE-2024-12986">
+
+---
 ## CVE-2024-12970 ()
 > 
 - [osmancanvural/CVE-2024-12970](https://github.com/osmancanvural/CVE-2024-12970)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2024-12970">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2024-12970">
