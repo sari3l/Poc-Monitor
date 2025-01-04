@@ -1832,6 +1832,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [0x7556/CVE-2024-47176](https://github.com/0x7556/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2024-47176">
 
 ---
+## CVE-2024-47138 ()
+> 
+- [wilguard/CVE-2024-47138](https://github.com/wilguard/CVE-2024-47138)	<img alt="forks" src="https://img.shields.io/github/forks/wilguard/CVE-2024-47138">	<img alt="stars" src="https://img.shields.io/github/stars/wilguard/CVE-2024-47138">
+
+---
 ## CVE-2024-47076 (2024-09-26T22:15:00)
 > CUPS is a standards-based, open-source printing system, and `libcupsfilters` contains the code of the filters of the former `cups-filters` package as library functions to be used for the data format conversion tasks needed in Printer Applications. The `cfGetPrinterAttributes5` function in `libcupsfilters` does not sanitize IPP attributes returned from an IPP server. When these IPP attributes are used, for instance, to generate a PPD file, this can lead to attacker controlled data to be provided to the rest of the CUPS system.
 - [mutkus/CVE-2024-47076](https://github.com/mutkus/CVE-2024-47076)	<img alt="forks" src="https://img.shields.io/github/forks/mutkus/CVE-2024-47076">	<img alt="stars" src="https://img.shields.io/github/stars/mutkus/CVE-2024-47076">
