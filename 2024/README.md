@@ -3940,6 +3940,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-3400">
 
 ---
+## CVE-2024-3393 ()
+> 
+- [FelixFoxf/-CVE-2024-3393](https://github.com/FelixFoxf/-CVE-2024-3393)	<img alt="forks" src="https://img.shields.io/github/forks/FelixFoxf/-CVE-2024-3393">	<img alt="stars" src="https://img.shields.io/github/stars/FelixFoxf/-CVE-2024-3393">
+
+---
 ## CVE-2024-33911 (2024-05-02T11:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Weblizar School Management Pro.This issue affects School Management Pro: from n/a through 10.3.4.
 
