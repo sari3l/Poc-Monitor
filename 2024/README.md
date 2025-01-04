@@ -1125,6 +1125,7 @@ This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M26, from 10.1.0
 Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix the issue.
 - [famixcm/CVE-2024-52316](https://github.com/famixcm/CVE-2024-52316)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-52316">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-52316">
 - [TAM-K592/CVE-2024-52316](https://github.com/TAM-K592/CVE-2024-52316)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-52316">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-52316">
+- [wilguard/CVE-2024-52316](https://github.com/wilguard/CVE-2024-52316)	<img alt="forks" src="https://img.shields.io/github/forks/wilguard/CVE-2024-52316">	<img alt="stars" src="https://img.shields.io/github/stars/wilguard/CVE-2024-52316">
 
 ---
 ## CVE-2024-52303 ()
