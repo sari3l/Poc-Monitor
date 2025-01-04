@@ -2237,6 +2237,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-16223](https://github.com/Live-Hack-CVE/CVE-2019-16223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16223">
 
 ---
+## CVE-2019-1619 ()
+> 
+- [Cipolone95/CVE-2019-1619](https://github.com/Cipolone95/CVE-2019-1619)	<img alt="forks" src="https://img.shields.io/github/forks/Cipolone95/CVE-2019-1619">	<img alt="stars" src="https://img.shields.io/github/stars/Cipolone95/CVE-2019-1619">
+
+---
 ## CVE-2019-16172 (2019-09-09T19:15:00)
 > LimeSurvey before v3.17.14 allows stored XSS for escalating privileges from a low-privileged account to, for example, SuperAdmin. The attack uses a survey group in which the title contains JavaScript that is mishandled upon group deletion.
 - [TrixSec/CVE-2019-16172](https://github.com/TrixSec/CVE-2019-16172)	<img alt="forks" src="https://img.shields.io/github/forks/TrixSec/CVE-2019-16172">	<img alt="stars" src="https://img.shields.io/github/stars/TrixSec/CVE-2019-16172">
