@@ -8099,6 +8099,7 @@ resulting in database manipulation.
 ## CVE-2024-10124 ()
 > 
 - [RandomRobbieBF/CVE-2024-10124](https://github.com/RandomRobbieBF/CVE-2024-10124)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10124">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10124">
+- [Nxploited/CVE-2024-10124-Poc](https://github.com/Nxploited/CVE-2024-10124-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10124-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10124-Poc">
 
 ---
 ## CVE-2024-10015 ()
