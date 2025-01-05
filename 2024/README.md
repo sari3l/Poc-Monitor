@@ -5672,6 +5672,7 @@ overflow.
 ## CVE-2024-2667 (2024-05-02T17:15:00)
 > The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary file uploads due to  insufficient file validation in the /wp-json/instawp-connect/v1/config REST API endpoint in all versions up to, and including, 0.1.0.22. This makes it possible for unauthenticated attackers to upload arbitrary files.
 - [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667)	<img alt="forks" src="https://img.shields.io/github/forks/Puvipavan/CVE-2024-2667">	<img alt="stars" src="https://img.shields.io/github/stars/Puvipavan/CVE-2024-2667">
+- [Nxploited/CVE-2024-2667-Poc](https://github.com/Nxploited/CVE-2024-2667-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-2667-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-2667-Poc">
 
 ---
 ## CVE-2024-266666 ()
