@@ -6874,6 +6874,11 @@
 - [glen-pearson/ProxyLogon-CVE-2021-26855](https://github.com/glen-pearson/ProxyLogon-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/glen-pearson/ProxyLogon-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/glen-pearson/ProxyLogon-CVE-2021-26855">
 
 ---
+## CVE-2021-26828 ()
+> 
+- [voidvxvt/CVE-2021-26828](https://github.com/voidvxvt/CVE-2021-26828)	<img alt="forks" src="https://img.shields.io/github/forks/voidvxvt/CVE-2021-26828">	<img alt="stars" src="https://img.shields.io/github/stars/voidvxvt/CVE-2021-26828">
+
+---
 ## CVE-2021-26720 (2021-02-17T22:15:00)
 > avahi-daemon-check-dns.sh in the Debian avahi package through 0.8-4 is executed as root via /etc/network/if-up.d/avahi-daemon, and allows a local attacker to cause a denial of service or create arbitrary empty files via a symlink attack on files under /run/avahi-daemon. NOTE: this only affects the packaging for Debian GNU/Linux (used indirectly by SUSE), not the upstream Avahi product.
 - [Live-Hack-CVE/CVE-2021-26720](https://github.com/Live-Hack-CVE/CVE-2021-26720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26720">
