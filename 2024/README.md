@@ -5850,6 +5850,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [Safarchand/CVE-2024-25641](https://github.com/Safarchand/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/Safarchand/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/Safarchand/CVE-2024-25641">
 - [StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26](https://github.com/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26">
 - [XiaomingX/cve-2024-25641-poc](https://github.com/XiaomingX/cve-2024-25641-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-25641-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-25641-poc">
+- [D3Ext/CVE-2024-25641](https://github.com/D3Ext/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/D3Ext/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/D3Ext/CVE-2024-25641">
 
 ---
 ## CVE-2024-25600 (2024-06-04T13:15:00)
