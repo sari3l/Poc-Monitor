@@ -70,7 +70,7 @@
 ---
 ## CVE-2023-6931 ()
 > 
-- [jungju817/CVE-2023-6931](https://github.com/jungju817/CVE-2023-6931)	<img alt="forks" src="https://img.shields.io/github/forks/jungju817/CVE-2023-6931">	<img alt="stars" src="https://img.shields.io/github/stars/jungju817/CVE-2023-6931">
+- [K0n9-log/CVE-2023-6931](https://github.com/K0n9-log/CVE-2023-6931)	<img alt="forks" src="https://img.shields.io/github/forks/K0n9-log/CVE-2023-6931">	<img alt="stars" src="https://img.shields.io/github/stars/K0n9-log/CVE-2023-6931">
 
 ---
 ## CVE-2023-6895 (2023-12-17T08:15:00)
