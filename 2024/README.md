@@ -831,6 +831,11 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL)	<img alt="forks" src="https://img.shields.io/github/forks/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">	<img alt="stars" src="https://img.shields.io/github/stars/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">
 
 ---
+## CVE-2024-56512 ()
+> 
+- [absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit](https://github.com/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit">
+
+---
 ## CVE-2024-56433 ()
 > 
 - [JonnyWhatshisface/CVE-2024-56433](https://github.com/JonnyWhatshisface/CVE-2024-56433)	<img alt="forks" src="https://img.shields.io/github/forks/JonnyWhatshisface/CVE-2024-56433">	<img alt="stars" src="https://img.shields.io/github/stars/JonnyWhatshisface/CVE-2024-56433">
