@@ -984,6 +984,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [0xdeviner/CVE-2024-53677](https://github.com/0xdeviner/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeviner/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeviner/CVE-2024-53677">
 - [Q0LT/VM-CVE-2024-53677](https://github.com/Q0LT/VM-CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/Q0LT/VM-CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/Q0LT/VM-CVE-2024-53677">
 - [EQSTLab/CVE-2024-53677](https://github.com/EQSTLab/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-53677">
+- [0xPThree/struts_cve-2024-53677](https://github.com/0xPThree/struts_cve-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/struts_cve-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/struts_cve-2024-53677">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
