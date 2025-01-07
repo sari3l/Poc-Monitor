@@ -1060,6 +1060,13 @@
 - [FachrulRH/jckeditor](https://github.com/FachrulRH/jckeditor)	<img alt="forks" src="https://img.shields.io/github/forks/FachrulRH/jckeditor">	<img alt="stars" src="https://img.shields.io/github/stars/FachrulRH/jckeditor">
 
 ---
+## CVE-2018-17240 ()
+> 
+- [FenrirSec/CVE-2018-17240_exploit](https://github.com/FenrirSec/CVE-2018-17240_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FenrirSec/CVE-2018-17240_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FenrirSec/CVE-2018-17240_exploit">
+- [Xewdy444/Netgrave](https://github.com/Xewdy444/Netgrave)	<img alt="forks" src="https://img.shields.io/github/forks/Xewdy444/Netgrave">	<img alt="stars" src="https://img.shields.io/github/stars/Xewdy444/Netgrave">
+- [BBge/CVE-2018-17240](https://github.com/BBge/CVE-2018-17240)	<img alt="forks" src="https://img.shields.io/github/forks/BBge/CVE-2018-17240">	<img alt="stars" src="https://img.shields.io/github/stars/BBge/CVE-2018-17240">
+
+---
 ## CVE-2018-17182 (2018-09-19T09:29:00)
 > An issue was discovered in the Linux kernel through 4.18.8. The vmacache_flush_all function in mm/vmacache.c mishandles sequence number overflows. An attacker can trigger a use-after-free (and possibly gain privileges) via certain thread creation, map, unmap, invalidation, and dereference operations.
 - [jedai47/cve-2018-17182](https://github.com/jedai47/cve-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/cve-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/cve-2018-17182">
