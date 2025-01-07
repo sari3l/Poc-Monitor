@@ -2255,6 +2255,7 @@
 - [redspy-sec/CVE-2021-41773](https://github.com/redspy-sec/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/redspy-sec/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/redspy-sec/CVE-2021-41773">
 - [luongchivi/CVE-2021-41773](https://github.com/luongchivi/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/luongchivi/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/luongchivi/CVE-2021-41773">
 - [FakesiteSecurity/CVE-2021-41773](https://github.com/FakesiteSecurity/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/FakesiteSecurity/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/FakesiteSecurity/CVE-2021-41773">
+- [Taldrid1/cve-2021-41773](https://github.com/Taldrid1/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Taldrid1/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Taldrid1/cve-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
