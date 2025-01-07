@@ -932,6 +932,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability](https://github.com/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">
 
 ---
+## CVE-2024-54910 ()
+> 
+- [KrakenEU/CVE-2024-54910](https://github.com/KrakenEU/CVE-2024-54910)	<img alt="forks" src="https://img.shields.io/github/forks/KrakenEU/CVE-2024-54910">	<img alt="stars" src="https://img.shields.io/github/stars/KrakenEU/CVE-2024-54910">
+
+---
 ## CVE-2024-54819 ()
 > 
 - [partywavesec/CVE-2024-54819](https://github.com/partywavesec/CVE-2024-54819)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2024-54819">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2024-54819">
