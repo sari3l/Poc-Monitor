@@ -2131,7 +2131,8 @@
 ---
 ## CVE-2021-41805 (2021-12-12T05:15:00)
 > HashiCorp Consul Enterprise before 1.8.17, 1.9.x before 1.9.11, and 1.10.x before 1.10.4 has Incorrect Access Control. An ACL token (with the default operator:write permissions) in one namespace can be used for unintended privilege escalation in a different namespace.
-- [I-Am-Nelson/CVE-2021-41805](https://github.com/I-Am-Nelson/CVE-2021-41805)	<img alt="forks" src="https://img.shields.io/github/forks/I-Am-Nelson/CVE-2021-41805">	<img alt="stars" src="https://img.shields.io/github/stars/I-Am-Nelson/CVE-2021-41805">
+- [blackm4c/CVE-2021-41805](https://github.com/blackm4c/CVE-2021-41805)	<img alt="forks" src="https://img.shields.io/github/forks/blackm4c/CVE-2021-41805">	<img alt="stars" src="https://img.shields.io/github/stars/blackm4c/CVE-2021-41805">
+- [acfirthh/CVE-2021-41805](https://github.com/acfirthh/CVE-2021-41805)	<img alt="forks" src="https://img.shields.io/github/forks/acfirthh/CVE-2021-41805">	<img alt="stars" src="https://img.shields.io/github/stars/acfirthh/CVE-2021-41805">
 
 ---
 ## CVE-2021-41785 (2022-08-29T05:15:00)
