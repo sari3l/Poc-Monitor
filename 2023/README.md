@@ -5987,6 +5987,11 @@ and the severity is therefore considered low.
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
+## CVE-2023-2645 ()
+> 
+- [xymbiot-solution/CVE-2023-2645](https://github.com/xymbiot-solution/CVE-2023-2645)	<img alt="forks" src="https://img.shields.io/github/forks/xymbiot-solution/CVE-2023-2645">	<img alt="stars" src="https://img.shields.io/github/stars/xymbiot-solution/CVE-2023-2645">
+
+---
 ## CVE-2023-2640 (2023-07-26T02:15:00)
 > On Ubuntu kernels carrying both c914c0e27eb0 and "UBUNTU: SAUCE: overlayfs: Skip permission checking for trusted.overlayfs.* xattrs", an unprivileged user may set privileged extended attributes on the mounted files, leading them to be set on the upper files without the appropriate security checks.
 - [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/g1vi/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/g1vi/CVE-2023-2640-CVE-2023-32629">
