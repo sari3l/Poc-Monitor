@@ -2450,6 +2450,19 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [exploitsecure/CVE-2024-43639](https://github.com/exploitsecure/CVE-2024-43639)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43639">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43639">
 
 ---
+## CVE-2024-436 ()
+> 
+- [Julian-gmz/CVE-2024-436_Exploit](https://github.com/Julian-gmz/CVE-2024-436_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/CVE-2024-436_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/CVE-2024-436_Exploit">
+- [exfil0/WEAPONIZING-CVE-2024-4367](https://github.com/exfil0/WEAPONIZING-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/WEAPONIZING-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/WEAPONIZING-CVE-2024-4367">
+- [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample)	<img alt="forks" src="https://img.shields.io/github/forks/pedrochalegre7/CVE-2024-4367-pdf-sample">	<img alt="stars" src="https://img.shields.io/github/stars/pedrochalegre7/CVE-2024-4367-pdf-sample">
+- [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/CVE-2024-4367-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/CVE-2024-4367-Analysis">
+- [Scivous/CVE-2024-4367-npm](https://github.com/Scivous/CVE-2024-4367-npm)	<img alt="forks" src="https://img.shields.io/github/forks/Scivous/CVE-2024-4367-npm">	<img alt="stars" src="https://img.shields.io/github/stars/Scivous/CVE-2024-4367-npm">
+- [Zombie-Kaiser/cve-2024-4367-PoC-fixed](https://github.com/Zombie-Kaiser/cve-2024-4367-PoC-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/cve-2024-4367-PoC-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/cve-2024-4367-PoC-fixed">
+- [LOURC0D3/CVE-2024-4367-PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-4367-PoC">
+- [spaceraccoon/detect-cve-2024-4367](https://github.com/spaceraccoon/detect-cve-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/spaceraccoon/detect-cve-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/spaceraccoon/detect-cve-2024-4367">
+- [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s4vvysec/CVE-2024-4367-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s4vvysec/CVE-2024-4367-POC">
+
+---
 ## CVE-2024-43582 (2024-10-08T18:15:00)
 > Remote Desktop Protocol Server Remote Code Execution Vulnerability
 - [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
@@ -7703,6 +7716,11 @@ authentication.   
 ## CVE-2024-12883 ()
 > 
 - [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/cve-2024-12883">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/cve-2024-12883">
+
+---
+## CVE-2024-12849 ()
+> 
+- [RandomRobbieBF/CVE-2024-12849](https://github.com/RandomRobbieBF/CVE-2024-12849)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12849">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12849">
 
 ---
 ## CVE-2024-1269 (2024-02-07T02:15:00)
