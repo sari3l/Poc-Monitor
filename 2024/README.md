@@ -7725,6 +7725,7 @@ authentication.   
 ## CVE-2024-12849 ()
 > 
 - [RandomRobbieBF/CVE-2024-12849](https://github.com/RandomRobbieBF/CVE-2024-12849)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12849">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12849">
+- [Nxploited/CVE-2024-12849-Poc](https://github.com/Nxploited/CVE-2024-12849-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12849-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12849-Poc">
 
 ---
 ## CVE-2024-1269 (2024-02-07T02:15:00)
