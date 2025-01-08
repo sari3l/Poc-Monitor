@@ -947,6 +947,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [partywavesec/CVE-2024-54819](https://github.com/partywavesec/CVE-2024-54819)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2024-54819">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2024-54819">
 
 ---
+## CVE-2024-54761 ()
+> 
+- [nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection](https://github.com/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection">
+
+---
 ## CVE-2024-54679 ()
 > 
 - [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2024-54679">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2024-54679">
