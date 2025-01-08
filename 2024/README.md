@@ -1232,6 +1232,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [Lakshmirnr/CVE-2024-51179](https://github.com/Lakshmirnr/CVE-2024-51179)	<img alt="forks" src="https://img.shields.io/github/forks/Lakshmirnr/CVE-2024-51179">	<img alt="stars" src="https://img.shields.io/github/stars/Lakshmirnr/CVE-2024-51179">
 
 ---
+## CVE-2024-51162 ()
+> 
+- [Henkel-CyberVM/CVE-2024-51162](https://github.com/Henkel-CyberVM/CVE-2024-51162)	<img alt="forks" src="https://img.shields.io/github/forks/Henkel-CyberVM/CVE-2024-51162">	<img alt="stars" src="https://img.shields.io/github/stars/Henkel-CyberVM/CVE-2024-51162">
+
+---
 ## CVE-2024-51136 ()
 > 
 - [JAckLosingHeart/CVE-2024-51136-POC](https://github.com/JAckLosingHeart/CVE-2024-51136-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2024-51136-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2024-51136-POC">
