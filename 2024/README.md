@@ -1387,6 +1387,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [iSee857/Cleo-CVE-2024-50623-PoC](https://github.com/iSee857/Cleo-CVE-2024-50623-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/Cleo-CVE-2024-50623-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/Cleo-CVE-2024-50623-PoC">
 
 ---
+## CVE-2024-50603 ()
+> 
+- [newlinesec/CVE-2024-50603](https://github.com/newlinesec/CVE-2024-50603)	<img alt="forks" src="https://img.shields.io/github/forks/newlinesec/CVE-2024-50603">	<img alt="stars" src="https://img.shields.io/github/stars/newlinesec/CVE-2024-50603">
+
+---
 ## CVE-2024-5057 (2024-08-29T14:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Easy Digital Downloads allows SQL Injection.This issue affects Easy Digital Downloads: from n/a through 3.2.12.
 - [enter0x13/poc-CVE-2024-5057](https://github.com/enter0x13/poc-CVE-2024-5057)	<img alt="forks" src="https://img.shields.io/github/forks/enter0x13/poc-CVE-2024-5057">	<img alt="stars" src="https://img.shields.io/github/stars/enter0x13/poc-CVE-2024-5057">
