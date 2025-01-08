@@ -7849,6 +7849,11 @@ authentication.   
 - [inb1ts/CVE-2024-11616](https://github.com/inb1ts/CVE-2024-11616)	<img alt="forks" src="https://img.shields.io/github/forks/inb1ts/CVE-2024-11616">	<img alt="stars" src="https://img.shields.io/github/stars/inb1ts/CVE-2024-11616">
 
 ---
+## CVE-2024-11613 ()
+> 
+- [Sachinart/CVE-2024-11613-wp-file-upload](https://github.com/Sachinart/CVE-2024-11613-wp-file-upload)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2024-11613-wp-file-upload">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2024-11613-wp-file-upload">
+
+---
 ## CVE-2024-11477 (2024-11-22T21:15:00)
 > 7-Zip Zstandard Decompression Integer Underflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of 7-Zip. Interaction with this library is required to exploit this vulnerability but attack vectors may vary depending on the implementation.
 
