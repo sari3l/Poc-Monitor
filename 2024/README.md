@@ -226,6 +226,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 ## CVE-2024-9047 ()
 > 
 - [iSee857/CVE-2024-9047-PoC](https://github.com/iSee857/CVE-2024-9047-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-9047-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-9047-PoC">
+- [verylazytech/CVE-2024-9047](https://github.com/verylazytech/CVE-2024-9047)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-9047">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-9047">
 
 ---
 ## CVE-2024-9043 (2024-09-20T11:15:00)
