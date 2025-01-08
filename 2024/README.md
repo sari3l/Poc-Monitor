@@ -7887,6 +7887,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [windz3r0day/CVE-2024-11428](https://github.com/windz3r0day/CVE-2024-11428)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11428">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11428">
 
 ---
+## CVE-2024-11423 ()
+> 
+- [RandomRobbieBF/CVE-2024-11423](https://github.com/RandomRobbieBF/CVE-2024-11423)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-11423">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-11423">
+
+---
 ## CVE-2024-11412 (2024-11-21T11:15:00)
 > The Shine PDF Embeder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'shinepdf' shortcode in all versions up to, and including, 1.0 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11412">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11412">

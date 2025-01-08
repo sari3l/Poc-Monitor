@@ -3014,6 +3014,11 @@
 - [Live-Hack-CVE/CVE-2020-23226](https://github.com/Live-Hack-CVE/CVE-2020-23226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23226">
 
 ---
+## CVE-2020-23127 ()
+> 
+- [patrickhalasik/cve-2020-23127-PoC](https://github.com/patrickhalasik/cve-2020-23127-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/patrickhalasik/cve-2020-23127-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/patrickhalasik/cve-2020-23127-PoC">
+
+---
 ## CVE-2020-23050 (2021-10-22T20:15:00)
 > TAO Open Source Assessment Platform v3.3.0 RC02 was discovered to contain a HTML injection vulnerability in the userFirstName parameter of the user account input field. This vulnerability allows attackers to execute phishing attacks, external redirects, and arbitrary code.
 - [Live-Hack-CVE/CVE-2020-23050](https://github.com/Live-Hack-CVE/CVE-2020-23050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23050">
