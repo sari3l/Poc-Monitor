@@ -3037,7 +3037,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ---
 ## CVE-2024-38998 ()
 > 
-- [AlbedoPrime/PP_CVE-2024-38998](https://github.com/AlbedoPrime/PP_CVE-2024-38998)	<img alt="forks" src="https://img.shields.io/github/forks/AlbedoPrime/PP_CVE-2024-38998">	<img alt="stars" src="https://img.shields.io/github/stars/AlbedoPrime/PP_CVE-2024-38998">
+- [z3ldr1/PP_CVE-2024-38998](https://github.com/z3ldr1/PP_CVE-2024-38998)	<img alt="forks" src="https://img.shields.io/github/forks/z3ldr1/PP_CVE-2024-38998">	<img alt="stars" src="https://img.shields.io/github/stars/z3ldr1/PP_CVE-2024-38998">
 - [cesarbtakeda/PP_CVE-2024-38998](https://github.com/cesarbtakeda/PP_CVE-2024-38998)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/PP_CVE-2024-38998">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/PP_CVE-2024-38998">
 
 ---
