@@ -1602,6 +1602,7 @@ length to be included in the checksum calculation is fully consumed.
 - [barcrange/CVE-2024-49113-Checker](https://github.com/barcrange/CVE-2024-49113-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/barcrange/CVE-2024-49113-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/barcrange/CVE-2024-49113-Checker">
 - [YoonJae-rep/CVE-2024-49113](https://github.com/YoonJae-rep/CVE-2024-49113)	<img alt="forks" src="https://img.shields.io/github/forks/YoonJae-rep/CVE-2024-49113">	<img alt="stars" src="https://img.shields.io/github/stars/YoonJae-rep/CVE-2024-49113">
 - [Sachinart/CVE-2024-49113-Checker](https://github.com/Sachinart/CVE-2024-49113-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2024-49113-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2024-49113-Checker">
+- [cocopollo/LDAPNightmare-CVE-2024-49113](https://github.com/cocopollo/LDAPNightmare-CVE-2024-49113)	<img alt="forks" src="https://img.shields.io/github/forks/cocopollo/LDAPNightmare-CVE-2024-49113">	<img alt="stars" src="https://img.shields.io/github/stars/cocopollo/LDAPNightmare-CVE-2024-49113">
 
 ---
 ## CVE-2024-49112 ()
