@@ -3222,6 +3222,7 @@ URL that curl has been told to operate with.
 - [m1sn0w/CVE-2023-3824](https://github.com/m1sn0w/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/m1sn0w/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/m1sn0w/CVE-2023-3824">
 - [m1sn0w/CVE-2023-3824](https://github.com/m1sn0w/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/m1sn0w/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/m1sn0w/CVE-2023-3824">
 - [baesh3r/poc-CVE-2023-3824](https://github.com/baesh3r/poc-CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/baesh3r/poc-CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/baesh3r/poc-CVE-2023-3824">
+- [fr33c0d3/poc-cve-2023-3824](https://github.com/fr33c0d3/poc-cve-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/fr33c0d3/poc-cve-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/fr33c0d3/poc-cve-2023-3824">
 
 ---
 ## CVE-2023-38146 (2023-09-12T17:15:00)
