@@ -6316,7 +6316,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ---
 ## CVE-2023-24709 (2023-03-21T23:15:00)
 > An issue found in Paradox Security Systems IPR512 allows attackers to cause a denial of service via the login.html and login.xml parameters.
-- [SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC](https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">
+- [DRAGOWN/CVE-2023-24709-PoC](https://github.com/DRAGOWN/CVE-2023-24709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2023-24709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2023-24709-PoC">
 
 ---
 ## CVE-2023-24706 ()
