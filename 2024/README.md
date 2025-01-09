@@ -4037,6 +4037,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-3393 ()
 > 
 - [FelixFoxf/-CVE-2024-3393](https://github.com/FelixFoxf/-CVE-2024-3393)	<img alt="forks" src="https://img.shields.io/github/forks/FelixFoxf/-CVE-2024-3393">	<img alt="stars" src="https://img.shields.io/github/stars/FelixFoxf/-CVE-2024-3393">
+- [waived/CVE-2024-3393](https://github.com/waived/CVE-2024-3393)	<img alt="forks" src="https://img.shields.io/github/forks/waived/CVE-2024-3393">	<img alt="stars" src="https://img.shields.io/github/stars/waived/CVE-2024-3393">
 
 ---
 ## CVE-2024-33911 (2024-05-02T11:15:00)
