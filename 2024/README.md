@@ -2193,6 +2193,7 @@ This issue affects Apache Solr: from 5.3.0 before 8.11.4, from 9.0.0 before 9.7.
 
 Users are recommended to upgrade to version 9.7.0, or 8.11.4, which fix the issue.
 - [congdong007/CVE-2024-45216-Poc](https://github.com/congdong007/CVE-2024-45216-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/congdong007/CVE-2024-45216-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/congdong007/CVE-2024-45216-Poc">
+- [qhoko/CVE-2024-45216](https://github.com/qhoko/CVE-2024-45216)	<img alt="forks" src="https://img.shields.io/github/forks/qhoko/CVE-2024-45216">	<img alt="stars" src="https://img.shields.io/github/stars/qhoko/CVE-2024-45216">
 
 ---
 ## CVE-2024-45163 (2024-08-22T04:15:00)
