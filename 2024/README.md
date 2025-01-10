@@ -1386,6 +1386,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657)	<img alt="forks" src="https://img.shields.io/github/forks/SAHALLL/CVE-2024-50657">	<img alt="stars" src="https://img.shields.io/github/stars/SAHALLL/CVE-2024-50657">
 
 ---
+## CVE-2024-50633 ()
+> 
+- [cetinbaldwin/CVE-2024-50633](https://github.com/cetinbaldwin/CVE-2024-50633)	<img alt="forks" src="https://img.shields.io/github/forks/cetinbaldwin/CVE-2024-50633">	<img alt="stars" src="https://img.shields.io/github/stars/cetinbaldwin/CVE-2024-50633">
+
+---
 ## CVE-2024-50623 ()
 > 
 - [watchtowrlabs/CVE-2024-50623](https://github.com/watchtowrlabs/CVE-2024-50623)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-50623">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-50623">
