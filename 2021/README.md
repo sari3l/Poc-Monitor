@@ -8274,7 +8274,8 @@
 - [Shadow0ps/CVE-2021-21974](https://github.com/Shadow0ps/CVE-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow0ps/CVE-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow0ps/CVE-2021-21974">
 - [HynekPetrak/CVE-2019-5544_CVE-2020-3992](https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/CVE-2019-5544_CVE-2020-3992">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/CVE-2019-5544_CVE-2020-3992">
 - [hateme021202/cve-2021-21974](https://github.com/hateme021202/cve-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/hateme021202/cve-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/hateme021202/cve-2021-21974">
-- [CYBERTHREATANALYSIS/ESXi_ransomware_scanner](https://github.com/CYBERTHREATANALYSIS/ESXi_ransomware_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CYBERTHREATANALYSIS/ESXi_ransomware_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CYBERTHREATANALYSIS/ESXi_ransomware_scanner">
+- [CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi](https://github.com/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi)	<img alt="forks" src="https://img.shields.io/github/forks/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi">	<img alt="stars" src="https://img.shields.io/github/stars/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi">
+- [mercylessghost/CVE-2021-21974](https://github.com/mercylessghost/CVE-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/mercylessghost/CVE-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/mercylessghost/CVE-2021-21974">
 
 ---
 ## CVE-2021-21972 (2021-02-24T17:15:00)
