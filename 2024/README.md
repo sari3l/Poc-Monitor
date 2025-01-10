@@ -1960,6 +1960,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 > A cross-site scripting (XSS) vulnerability in pfsense v2.5.2 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the $pconfig variable at interfaces_groups_edit.php.
 - [EQSTLab/CVE-2024-46538](https://github.com/EQSTLab/CVE-2024-46538)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-46538">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-46538">
 - [LauLeysen/CVE-2024-46538](https://github.com/LauLeysen/CVE-2024-46538)	<img alt="forks" src="https://img.shields.io/github/forks/LauLeysen/CVE-2024-46538">	<img alt="stars" src="https://img.shields.io/github/stars/LauLeysen/CVE-2024-46538">
+- [EQSTLab/CVE-2024-53677](https://github.com/EQSTLab/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-53677">
 
 ---
 ## CVE-2024-46532 (2024-10-11T18:15:00)
@@ -4032,6 +4033,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/workshop748/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/workshop748/CVE-2024-3400">
 - [tfrederick74656/cve-2024-3400-poc](https://github.com/tfrederick74656/cve-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tfrederick74656/cve-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tfrederick74656/cve-2024-3400-poc">
 - [nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-3400">
+- [XiaomingX/CVE-2024-3400-poc](https://github.com/XiaomingX/CVE-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-3400-poc">
 
 ---
 ## CVE-2024-3393 ()
