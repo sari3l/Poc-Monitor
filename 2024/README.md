@@ -2971,6 +2971,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/nepstech-xpon-router-CVE-2024-40119">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/nepstech-xpon-router-CVE-2024-40119">
 
 ---
+## CVE-2024-40111 ()
+> 
+- [theexploiters/CVE-2024-40111-Exploit](https://github.com/theexploiters/CVE-2024-40111-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-40111-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-40111-Exploit">
+
+---
 ## CVE-2024-40110 (2024-07-12T17:15:00)
 > Sourcecodester Poultry Farm Management System v1.0 contains an Unauthenticated Remote Code Execution (RCE) vulnerability via the productimage parameter at /farm/product.php.
 - [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-40110">
