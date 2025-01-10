@@ -2650,6 +2650,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 ## CVE-2024-42845 ()
 > 
 - [theexploiters/CVE-2024-42845-Exploit](https://github.com/theexploiters/CVE-2024-42845-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-42845-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-42845-Exploit">
+- [partywavesec/invesalius3_vulnerabilities](https://github.com/partywavesec/invesalius3_vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/invesalius3_vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/invesalius3_vulnerabilities">
 
 ---
 ## CVE-2024-42834 ()
