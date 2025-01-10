@@ -493,6 +493,11 @@
 - [Syd-SydneyJr/CVE-2021-45010](https://github.com/Syd-SydneyJr/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/Syd-SydneyJr/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/Syd-SydneyJr/CVE-2021-45010">
 
 ---
+## CVE-2021-44967 ()
+> 
+- [D3Ext/CVE-2021-44967](https://github.com/D3Ext/CVE-2021-44967)	<img alt="forks" src="https://img.shields.io/github/forks/D3Ext/CVE-2021-44967">	<img alt="stars" src="https://img.shields.io/github/stars/D3Ext/CVE-2021-44967">
+
+---
 ## CVE-2021-44910 ()
 > 
 - [dockern/CVE-2021-44910_SpringBlade](https://github.com/dockern/CVE-2021-44910_SpringBlade)	<img alt="forks" src="https://img.shields.io/github/forks/dockern/CVE-2021-44910_SpringBlade">	<img alt="stars" src="https://img.shields.io/github/stars/dockern/CVE-2021-44910_SpringBlade">
