@@ -810,6 +810,11 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 - [fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764)	<img alt="forks" src="https://img.shields.io/github/forks/fin3ss3g0d/CVE-2024-5764">	<img alt="stars" src="https://img.shields.io/github/stars/fin3ss3g0d/CVE-2024-5764">
 
 ---
+## CVE-2024-57487 ()
+> 
+- [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488)	<img alt="forks" src="https://img.shields.io/github/forks/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">	<img alt="stars" src="https://img.shields.io/github/stars/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">
+
+---
 ## CVE-2024-5737 (2024-06-28T12:15:00)
 > Script afGdStream.php in AdmirorFrames Joomla! extension doesn’t specify a content type and as a result default (text/html) is used. An attacker may embed HTML tags directly in image data which is rendered by a webpage as HTML. This issue affects AdmirorFrames: before 5.0.
 - [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5737">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5737">
@@ -3473,6 +3478,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [CERTologists/POC-CVE-2024-36877](https://github.com/CERTologists/POC-CVE-2024-36877)	<img alt="forks" src="https://img.shields.io/github/forks/CERTologists/POC-CVE-2024-36877">	<img alt="stars" src="https://img.shields.io/github/stars/CERTologists/POC-CVE-2024-36877">
 
 ---
+## CVE-2024-36840 ()
+> 
+- [theexploiters/CVE-2024-36840-Exploit](https://github.com/theexploiters/CVE-2024-36840-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-36840-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-36840-Exploit">
+
+---
 ## CVE-2024-36837 (2024-06-05T15:15:00)
 > SQL Injection vulnerability in CRMEB v.5.2.2 allows a remote attacker to obtain sensitive information via the getProductList function in the ProductController.php file.
 - [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837)	<img alt="forks" src="https://img.shields.io/github/forks/phtcloud-dev/CVE-2024-36837">	<img alt="stars" src="https://img.shields.io/github/stars/phtcloud-dev/CVE-2024-36837">
@@ -4111,6 +4121,16 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 > The Essential Addons for Elementor plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the URL attributes of widgets in all versions up to, and including, 5.9.14 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [JohnnyBradvo/CVE-2024-3333](https://github.com/JohnnyBradvo/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-3333">
 - [AlexLondan/CVE-2024-3333](https://github.com/AlexLondan/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-3333">
+
+---
+## CVE-2024-33298 ()
+> 
+- [MathSabo/CVE-2024-33298](https://github.com/MathSabo/CVE-2024-33298)	<img alt="forks" src="https://img.shields.io/github/forks/MathSabo/CVE-2024-33298">	<img alt="stars" src="https://img.shields.io/github/stars/MathSabo/CVE-2024-33298">
+
+---
+## CVE-2024-33297 ()
+> 
+- [MathSabo/CVE-2024-33297](https://github.com/MathSabo/CVE-2024-33297)	<img alt="forks" src="https://img.shields.io/github/forks/MathSabo/CVE-2024-33297">	<img alt="stars" src="https://img.shields.io/github/stars/MathSabo/CVE-2024-33297">
 
 ---
 ## CVE-2024-33231 ()
