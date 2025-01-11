@@ -4463,6 +4463,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [grecosamuel/CVE-2024-32002](https://github.com/grecosamuel/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/grecosamuel/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/grecosamuel/CVE-2024-32002">
 - [XiaomingX/cve-2024-32002-poc](https://github.com/XiaomingX/cve-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-32002-poc">
 - [jolibb55/CVE-2024-32002_RCE](https://github.com/jolibb55/CVE-2024-32002_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jolibb55/CVE-2024-32002_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jolibb55/CVE-2024-32002_RCE">
+- [Katherine-song/CVE-2024-32002](https://github.com/Katherine-song/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Katherine-song/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Katherine-song/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
