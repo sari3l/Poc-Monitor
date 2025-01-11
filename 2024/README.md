@@ -2745,6 +2745,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713](https://github.com/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713">
 - [zxj-hub/CVE-2024-41713POC](https://github.com/zxj-hub/CVE-2024-41713POC)	<img alt="forks" src="https://img.shields.io/github/forks/zxj-hub/CVE-2024-41713POC">	<img alt="stars" src="https://img.shields.io/github/stars/zxj-hub/CVE-2024-41713POC">
 - [Sanandd/cve-2024-CVE-2024-41713](https://github.com/Sanandd/cve-2024-CVE-2024-41713)	<img alt="forks" src="https://img.shields.io/github/forks/Sanandd/cve-2024-CVE-2024-41713">	<img alt="stars" src="https://img.shields.io/github/stars/Sanandd/cve-2024-CVE-2024-41713">
+- [amanverma-wsu/CVE-2024-41713-Scan](https://github.com/amanverma-wsu/CVE-2024-41713-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/amanverma-wsu/CVE-2024-41713-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/amanverma-wsu/CVE-2024-41713-Scan">
 
 ---
 ## CVE-2024-41662 (2024-07-24T17:15:00)
@@ -7833,6 +7834,11 @@ authentication.   
 ## CVE-2024-1269 (2024-02-07T02:15:00)
 > A vulnerability has been found in SourceCodester Product Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file /supplier.php. The manipulation of the argument supplier_name/supplier_contact leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-253012.
 - [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-1269">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-1269">
+
+---
+## CVE-2024-12558 ()
+> 
+- [Nxploited/CVE-2024-12558-exploit](https://github.com/Nxploited/CVE-2024-12558-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12558-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12558-exploit">
 
 ---
 ## CVE-2024-12542 ()
