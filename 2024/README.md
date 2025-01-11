@@ -1601,6 +1601,7 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-49328 (2024-10-20T08:15:00)
 > Authentication Bypass Using an Alternate Path or Channel vulnerability in Vivek Tamrakar WP REST API FNS allows Authentication Bypass.This issue affects WP REST API FNS: from n/a through 1.0.0.
 - [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49328">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49328">
+- [Nxploited/CVE-2024-49328-exploit](https://github.com/Nxploited/CVE-2024-49328-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-49328-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-49328-exploit">
 
 ---
 ## CVE-2024-49203 (2024-11-20T21:15:00)
@@ -7826,6 +7827,11 @@ authentication.   
 ## CVE-2024-12883 ()
 > 
 - [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/cve-2024-12883">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/cve-2024-12883">
+
+---
+## CVE-2024-12856 ()
+> 
+- [nu113d/CVE-2024-12856](https://github.com/nu113d/CVE-2024-12856)	<img alt="forks" src="https://img.shields.io/github/forks/nu113d/CVE-2024-12856">	<img alt="stars" src="https://img.shields.io/github/stars/nu113d/CVE-2024-12856">
 
 ---
 ## CVE-2024-12849 ()
