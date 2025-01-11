@@ -44,6 +44,7 @@
 ## CVE-2024-9932 (2024-10-26T03:15:00)
 > The Wux Blog Editor plugin for WordPress is vulnerable to arbitrary file uploads due to insufficient file type validation in the 'wuxbt_insertImageNew' function in versions up to, and including, 3.0.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [RandomRobbieBF/CVE-2024-9932](https://github.com/RandomRobbieBF/CVE-2024-9932)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9932">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9932">
+- [Nxploited/CVE-2024-9932-POC](https://github.com/Nxploited/CVE-2024-9932-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9932-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9932-POC">
 
 ---
 ## CVE-2024-9890 (2024-10-26T03:15:00)
