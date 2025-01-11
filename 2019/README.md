@@ -2080,6 +2080,7 @@ use after free.
 - [noraj/Bludit-auth-BF-bypass](https://github.com/noraj/Bludit-auth-BF-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/noraj/Bludit-auth-BF-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/noraj/Bludit-auth-BF-bypass">
 - [triple-octopus/Bludit-CVE-2019-17240-Fork](https://github.com/triple-octopus/Bludit-CVE-2019-17240-Fork)	<img alt="forks" src="https://img.shields.io/github/forks/triple-octopus/Bludit-CVE-2019-17240-Fork">	<img alt="stars" src="https://img.shields.io/github/stars/triple-octopus/Bludit-CVE-2019-17240-Fork">
 - [LucaReggiannini/Bludit-3-9-2-bb](https://github.com/LucaReggiannini/Bludit-3-9-2-bb)	<img alt="forks" src="https://img.shields.io/github/forks/LucaReggiannini/Bludit-3-9-2-bb">	<img alt="stars" src="https://img.shields.io/github/stars/LucaReggiannini/Bludit-3-9-2-bb">
+- [0xDTC/Bludit-3.9.2-Auth-Bruteforce-Bypass-CVE-2019-17240](https://github.com/0xDTC/Bludit-3.9.2-Auth-Bruteforce-Bypass-CVE-2019-17240)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Bludit-3.9.2-Auth-Bruteforce-Bypass-CVE-2019-17240">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Bludit-3.9.2-Auth-Bruteforce-Bypass-CVE-2019-17240">
 
 ---
 ## CVE-2019-17225 (2019-10-06T17:15:00)
