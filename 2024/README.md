@@ -931,6 +931,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
 
 ---
+## CVE-2024-55503 ()
+> 
+- [SyFi/CVE-2024-55503](https://github.com/SyFi/CVE-2024-55503)	<img alt="forks" src="https://img.shields.io/github/forks/SyFi/CVE-2024-55503">	<img alt="stars" src="https://img.shields.io/github/stars/SyFi/CVE-2024-55503">
+
+---
 ## CVE-2024-55457 ()
 > 
 - [h13nh04ng/CVE-2024-55457-PoC](https://github.com/h13nh04ng/CVE-2024-55457-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/h13nh04ng/CVE-2024-55457-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/h13nh04ng/CVE-2024-55457-PoC">
