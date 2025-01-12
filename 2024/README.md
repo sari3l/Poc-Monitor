@@ -7088,6 +7088,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [labesterOct/CVE-2024-22024](https://github.com/labesterOct/CVE-2024-22024)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-22024">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-22024">
 
 ---
+## CVE-2024-22017 ()
+> 
+- [SpiralBL0CK/cve-2024-22017_to_test](https://github.com/SpiralBL0CK/cve-2024-22017_to_test)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/cve-2024-22017_to_test">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/cve-2024-22017_to_test">
+
+---
 ## CVE-2024-22002 (2024-06-18T19:15:00)
 > CORSAIR iCUE 5.9.105 with iCUE Murals on Windows allows unprivileged users to insert DLL files in the cuepkg-1.2.6 subdirectory of the installation directory.
 - [0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002](https://github.com/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002)	<img alt="forks" src="https://img.shields.io/github/forks/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002">	<img alt="stars" src="https://img.shields.io/github/stars/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002">
