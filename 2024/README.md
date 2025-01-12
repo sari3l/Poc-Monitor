@@ -1413,6 +1413,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-50603 ()
 > 
 - [newlinesec/CVE-2024-50603](https://github.com/newlinesec/CVE-2024-50603)	<img alt="forks" src="https://img.shields.io/github/forks/newlinesec/CVE-2024-50603">	<img alt="stars" src="https://img.shields.io/github/stars/newlinesec/CVE-2024-50603">
+- [th3gokul/CVE-2024-50603](https://github.com/th3gokul/CVE-2024-50603)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-50603">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-50603">
 
 ---
 ## CVE-2024-5057 (2024-08-29T14:15:00)
