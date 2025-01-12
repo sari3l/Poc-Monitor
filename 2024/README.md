@@ -8183,6 +8183,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10586 ()
 > 
 - [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10586">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10586">
+- [Nxploited/CVE-2024-10586-Poc](https://github.com/Nxploited/CVE-2024-10586-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10586-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10586-Poc">
 
 ---
 ## CVE-2024-10542 (2024-11-26T06:15:00)
