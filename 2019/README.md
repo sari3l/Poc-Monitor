@@ -769,6 +769,11 @@
 - [raymontag/CVE-2019-5603](https://github.com/raymontag/CVE-2019-5603)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/CVE-2019-5603">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/CVE-2019-5603">
 
 ---
+## CVE-2019-5602 ()
+> 
+- [test-one9/CVE-2019-5602-poc](https://github.com/test-one9/CVE-2019-5602-poc)	<img alt="forks" src="https://img.shields.io/github/forks/test-one9/CVE-2019-5602-poc">	<img alt="stars" src="https://img.shields.io/github/stars/test-one9/CVE-2019-5602-poc">
+
+---
 ## CVE-2019-5596 (2019-02-12T05:29:00)
 > In FreeBSD 11.2-STABLE after r338618 and before r343786, 12.0-STABLE before r343781, and 12.0-RELEASE before 12.0-RELEASE-p3, a bug in the reference count implementation for UNIX domain sockets can cause a file structure to be incorrectly released potentially allowing a malicious local user to gain root privileges or escape from a jail.
 - [raymontag/CVE-2019-5596](https://github.com/raymontag/CVE-2019-5596)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/CVE-2019-5596">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/CVE-2019-5596">
