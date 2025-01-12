@@ -2607,6 +2607,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3430">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3430">
 - [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v9d0g/CVE-2024-43044-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v9d0g/CVE-2024-43044-POC">
 - [convisolabs/CVE-2024-43044-jenkins](https://github.com/convisolabs/CVE-2024-43044-jenkins)	<img alt="forks" src="https://img.shields.io/github/forks/convisolabs/CVE-2024-43044-jenkins">	<img alt="stars" src="https://img.shields.io/github/stars/convisolabs/CVE-2024-43044-jenkins">
+- [DACC4/CVE-2024-43044-jenkins-creds](https://github.com/DACC4/CVE-2024-43044-jenkins-creds)	<img alt="forks" src="https://img.shields.io/github/forks/DACC4/CVE-2024-43044-jenkins-creds">	<img alt="stars" src="https://img.shields.io/github/stars/DACC4/CVE-2024-43044-jenkins-creds">
 
 ---
 ## CVE-2024-43003 ()
