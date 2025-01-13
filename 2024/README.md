@@ -1520,6 +1520,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50427">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50427">
 
 ---
+## CVE-2024-50404 ()
+> 
+- [C411e/CVE-2024-50404](https://github.com/C411e/CVE-2024-50404)	<img alt="forks" src="https://img.shields.io/github/forks/C411e/CVE-2024-50404">	<img alt="stars" src="https://img.shields.io/github/stars/C411e/CVE-2024-50404">
+
+---
 ## CVE-2024-50395 (2024-11-22T16:15:00)
 > An authorization bypass through user-controlled key vulnerability has been reported to affect Media Streaming add-on. If exploited, the vulnerability could allow local network attackers to gain privilege.
 
