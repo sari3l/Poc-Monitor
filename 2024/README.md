@@ -942,6 +942,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [SyFi/CVE-2024-55503](https://github.com/SyFi/CVE-2024-55503)	<img alt="forks" src="https://img.shields.io/github/forks/SyFi/CVE-2024-55503">	<img alt="stars" src="https://img.shields.io/github/stars/SyFi/CVE-2024-55503">
 
 ---
+## CVE-2024-55466 ()
+> 
+- [cybsecsid/ThingsBoard-CVE-2024-55466](https://github.com/cybsecsid/ThingsBoard-CVE-2024-55466)	<img alt="forks" src="https://img.shields.io/github/forks/cybsecsid/ThingsBoard-CVE-2024-55466">	<img alt="stars" src="https://img.shields.io/github/stars/cybsecsid/ThingsBoard-CVE-2024-55466">
+
+---
 ## CVE-2024-55457 ()
 > 
 - [h13nh04ng/CVE-2024-55457-PoC](https://github.com/h13nh04ng/CVE-2024-55457-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/h13nh04ng/CVE-2024-55457-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/h13nh04ng/CVE-2024-55457-PoC">
