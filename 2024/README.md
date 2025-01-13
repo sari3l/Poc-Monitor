@@ -6586,6 +6586,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC](https://github.com/safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC)	<img alt="forks" src="https://img.shields.io/github/forks/safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC">	<img alt="stars" src="https://img.shields.io/github/stars/safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC">
 - [tamatee/test_cve_2024_23897](https://github.com/tamatee/test_cve_2024_23897)	<img alt="forks" src="https://img.shields.io/github/forks/tamatee/test_cve_2024_23897">	<img alt="stars" src="https://img.shields.io/github/stars/tamatee/test_cve_2024_23897">
 - [D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins](https://github.com/D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins)	<img alt="forks" src="https://img.shields.io/github/forks/D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins">	<img alt="stars" src="https://img.shields.io/github/stars/D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins">
+- [Marouane133/jenkins-lfi](https://github.com/Marouane133/jenkins-lfi)	<img alt="forks" src="https://img.shields.io/github/forks/Marouane133/jenkins-lfi">	<img alt="stars" src="https://img.shields.io/github/stars/Marouane133/jenkins-lfi">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
