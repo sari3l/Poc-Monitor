@@ -896,6 +896,16 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115)	<img alt="forks" src="https://img.shields.io/github/forks/ComplianceControl/CVE-2024-56115">	<img alt="stars" src="https://img.shields.io/github/stars/ComplianceControl/CVE-2024-56115">
 
 ---
+## CVE-2024-56059 ()
+> 
+- [RandomRobbieBF/CVE-2024-56059](https://github.com/RandomRobbieBF/CVE-2024-56059)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56059">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56059">
+
+---
+## CVE-2024-56058 ()
+> 
+- [RandomRobbieBF/CVE-2024-56058](https://github.com/RandomRobbieBF/CVE-2024-56058)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56058">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56058">
+
+---
 ## CVE-2024-55988 ()
 > 
 - [RandomRobbieBF/CVE-2024-55988](https://github.com/RandomRobbieBF/CVE-2024-55988)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55988">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55988">
@@ -1463,6 +1473,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-50493 (2024-10-29T08:15:00)
 > Unrestricted Upload of File with Dangerous Type vulnerability in masterhomepage Automatic Translation allows Upload a Web Shell to a Web Server.This issue affects Automatic Translation: from n/a through 1.0.4.
 - [RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50493">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50493">
+
+---
+## CVE-2024-50491 ()
+> 
+- [RandomRobbieBF/CVE-2024-50491](https://github.com/RandomRobbieBF/CVE-2024-50491)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50491">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50491">
 
 ---
 ## CVE-2024-50490 (2024-10-29T09:15:00)
@@ -3617,6 +3632,11 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 ## CVE-2024-36079 (2024-05-24T22:15:00)
 > An issue was discovered in Vaultize 21.07.27. When uploading files, there is no check that the filename parameter is correct. As a result, a temporary file will be created outside the specified directory when the file is downloaded. To exploit this, an authenticated user would upload a file with an incorrect file name, and then download it.
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
+
+---
+## CVE-2024-3605 ()
+> 
+- [RandomRobbieBF/CVE-2024-3605](https://github.com/RandomRobbieBF/CVE-2024-3605)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-3605">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-3605">
 
 ---
 ## CVE-2024-3596 (2024-07-09T12:15:00)
@@ -8011,6 +8031,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11412">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11412">
 
 ---
+## CVE-2024-11396 ()
+> 
+- [RandomRobbieBF/CVE-2024-11396](https://github.com/RandomRobbieBF/CVE-2024-11396)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-11396">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-11396">
+
+---
 ## CVE-2024-11394 ()
 > 
 - [Piyush-Bhor/CVE-2024-11394](https://github.com/Piyush-Bhor/CVE-2024-11394)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Bhor/CVE-2024-11394">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Bhor/CVE-2024-11394">
@@ -8213,6 +8238,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 > 
 - [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10586">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10586">
 - [Nxploited/CVE-2024-10586-Poc](https://github.com/Nxploited/CVE-2024-10586-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10586-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10586-Poc">
+
+---
+## CVE-2024-10571 ()
+> 
+- [RandomRobbieBF/CVE-2024-10571](https://github.com/RandomRobbieBF/CVE-2024-10571)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10571">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10571">
 
 ---
 ## CVE-2024-10542 (2024-11-26T06:15:00)
