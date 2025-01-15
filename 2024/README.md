@@ -817,6 +817,11 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 - [fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764)	<img alt="forks" src="https://img.shields.io/github/forks/fin3ss3g0d/CVE-2024-5764">	<img alt="stars" src="https://img.shields.io/github/stars/fin3ss3g0d/CVE-2024-5764">
 
 ---
+## CVE-2024-57523 ()
+> 
+- [HackWidMaddy/Use-CVE-2024-57523.](https://github.com/HackWidMaddy/Use-CVE-2024-57523.)	<img alt="forks" src="https://img.shields.io/github/forks/HackWidMaddy/Use-CVE-2024-57523.">	<img alt="stars" src="https://img.shields.io/github/stars/HackWidMaddy/Use-CVE-2024-57523.">
+
+---
 ## CVE-2024-57522 ()
 > 
 - [HackWidMaddy/CVE-2024-57522](https://github.com/HackWidMaddy/CVE-2024-57522)	<img alt="forks" src="https://img.shields.io/github/forks/HackWidMaddy/CVE-2024-57522">	<img alt="stars" src="https://img.shields.io/github/stars/HackWidMaddy/CVE-2024-57522">
@@ -2866,6 +2871,11 @@ Affected users are recommended to disable the SAML authentication plugin by sett
 
 
 - [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-41107">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-41107">
+
+---
+## CVE-2024-41018 ()
+> 
+- [LLfam/CVE-2024-41018](https://github.com/LLfam/CVE-2024-41018)	<img alt="forks" src="https://img.shields.io/github/forks/LLfam/CVE-2024-41018">	<img alt="stars" src="https://img.shields.io/github/stars/LLfam/CVE-2024-41018">
 
 ---
 ## CVE-2024-40725 (2024-07-18T10:15:00)
