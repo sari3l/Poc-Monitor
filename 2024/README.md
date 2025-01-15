@@ -817,6 +817,11 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 - [fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764)	<img alt="forks" src="https://img.shields.io/github/forks/fin3ss3g0d/CVE-2024-5764">	<img alt="stars" src="https://img.shields.io/github/stars/fin3ss3g0d/CVE-2024-5764">
 
 ---
+## CVE-2024-57522 ()
+> 
+- [HackWidMaddy/CVE-2024-57522](https://github.com/HackWidMaddy/CVE-2024-57522)	<img alt="forks" src="https://img.shields.io/github/forks/HackWidMaddy/CVE-2024-57522">	<img alt="stars" src="https://img.shields.io/github/stars/HackWidMaddy/CVE-2024-57522">
+
+---
 ## CVE-2024-57487 ()
 > 
 - [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488)	<img alt="forks" src="https://img.shields.io/github/forks/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">	<img alt="stars" src="https://img.shields.io/github/stars/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">
