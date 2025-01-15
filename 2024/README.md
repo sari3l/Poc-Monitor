@@ -1665,6 +1665,7 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-49138 ()
 > 
 - [MrAle98/CVE-2024-49138-POC](https://github.com/MrAle98/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MrAle98/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MrAle98/CVE-2024-49138-POC">
+- [aspire20x/CVE-2024-49138-POC](https://github.com/aspire20x/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/aspire20x/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/aspire20x/CVE-2024-49138-POC">
 
 ---
 ## CVE-2024-49113 ()
