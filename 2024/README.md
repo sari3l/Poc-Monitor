@@ -1657,6 +1657,11 @@ length to be included in the checksum calculation is fully consumed.
 - [cyb3res3c/CVE-2024-49186](https://github.com/cyb3res3c/CVE-2024-49186)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-49186">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-49186">
 
 ---
+## CVE-2024-49138 ()
+> 
+- [MrAle98/CVE-2024-49138-POC](https://github.com/MrAle98/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MrAle98/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MrAle98/CVE-2024-49138-POC">
+
+---
 ## CVE-2024-49113 ()
 > 
 - [SafeBreach-Labs/CVE-2024-49113](https://github.com/SafeBreach-Labs/CVE-2024-49113)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/CVE-2024-49113">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/CVE-2024-49113">
