@@ -819,7 +819,7 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 ---
 ## CVE-2024-57523 ()
 > 
-- [HackWidMaddy/Use-CVE-2024-57523.](https://github.com/HackWidMaddy/Use-CVE-2024-57523.)	<img alt="forks" src="https://img.shields.io/github/forks/HackWidMaddy/Use-CVE-2024-57523.">	<img alt="stars" src="https://img.shields.io/github/stars/HackWidMaddy/Use-CVE-2024-57523.">
+- [HackWidMaddy/CVE-2024-57523.](https://github.com/HackWidMaddy/CVE-2024-57523.)	<img alt="forks" src="https://img.shields.io/github/forks/HackWidMaddy/CVE-2024-57523.">	<img alt="stars" src="https://img.shields.io/github/stars/HackWidMaddy/CVE-2024-57523.">
 
 ---
 ## CVE-2024-57522 ()
