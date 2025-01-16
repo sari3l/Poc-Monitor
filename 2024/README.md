@@ -1382,6 +1382,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [Akhlak2511/CVE-2024-50968](https://github.com/Akhlak2511/CVE-2024-50968)	<img alt="forks" src="https://img.shields.io/github/forks/Akhlak2511/CVE-2024-50968">	<img alt="stars" src="https://img.shields.io/github/stars/Akhlak2511/CVE-2024-50968">
 
 ---
+## CVE-2024-50967 ()
+> 
+- [0xByteHunter/CVE-2024-50967](https://github.com/0xByteHunter/CVE-2024-50967)	<img alt="forks" src="https://img.shields.io/github/forks/0xByteHunter/CVE-2024-50967">	<img alt="stars" src="https://img.shields.io/github/stars/0xByteHunter/CVE-2024-50967">
+
+---
 ## CVE-2024-50964 ()
 > 
 - [fdzdev/CVE-2024-50964](https://github.com/fdzdev/CVE-2024-50964)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-50964">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-50964">
