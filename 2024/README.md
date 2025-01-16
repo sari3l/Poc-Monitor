@@ -2641,6 +2641,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 ## CVE-2024-43468 ()
 > 
 - [synacktiv/CVE-2024-43468](https://github.com/synacktiv/CVE-2024-43468)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2024-43468">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2024-43468">
+- [tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468](https://github.com/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468)	<img alt="forks" src="https://img.shields.io/github/forks/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468">	<img alt="stars" src="https://img.shields.io/github/stars/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468">
 
 ---
 ## CVE-2024-43416 ()
