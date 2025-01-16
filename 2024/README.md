@@ -8024,6 +8024,7 @@ authentication.   
 ## CVE-2024-11972 ()
 > 
 - [JunTakemura/exploit-CVE-2024-11972](https://github.com/JunTakemura/exploit-CVE-2024-11972)	<img alt="forks" src="https://img.shields.io/github/forks/JunTakemura/exploit-CVE-2024-11972">	<img alt="stars" src="https://img.shields.io/github/stars/JunTakemura/exploit-CVE-2024-11972">
+- [RonF98/CVE-2024-11972-POC](https://github.com/RonF98/CVE-2024-11972-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2024-11972-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2024-11972-POC">
 
 ---
 ## CVE-2024-11728 ()
