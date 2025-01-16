@@ -2633,6 +2633,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [ZSECURE/CVE-2024-4351](https://github.com/ZSECURE/CVE-2024-4351)	<img alt="forks" src="https://img.shields.io/github/forks/ZSECURE/CVE-2024-4351">	<img alt="stars" src="https://img.shields.io/github/stars/ZSECURE/CVE-2024-4351">
 
 ---
+## CVE-2024-43468 ()
+> 
+- [synacktiv/CVE-2024-43468](https://github.com/synacktiv/CVE-2024-43468)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2024-43468">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2024-43468">
+
+---
 ## CVE-2024-43416 ()
 > 
 - [0xmupa/CVE-2024-43416-PoC](https://github.com/0xmupa/CVE-2024-43416-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-43416-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-43416-PoC">
