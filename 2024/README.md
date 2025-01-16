@@ -942,6 +942,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2024-55875">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2024-55875">
 
 ---
+## CVE-2024-55591 ()
+> 
+- [watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">
+
+---
 ## CVE-2024-55587 ()
 > 
 - [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587)	<img alt="forks" src="https://img.shields.io/github/forks/CSIRTTrizna/CVE-2024-55587">	<img alt="stars" src="https://img.shields.io/github/stars/CSIRTTrizna/CVE-2024-55587">
@@ -1442,6 +1447,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-50633 ()
 > 
 - [cetinbaldwin/CVE-2024-50633](https://github.com/cetinbaldwin/CVE-2024-50633)	<img alt="forks" src="https://img.shields.io/github/forks/cetinbaldwin/CVE-2024-50633">	<img alt="stars" src="https://img.shields.io/github/stars/cetinbaldwin/CVE-2024-50633">
+- [cetinpy/CVE-2024-50633](https://github.com/cetinpy/CVE-2024-50633)	<img alt="forks" src="https://img.shields.io/github/forks/cetinpy/CVE-2024-50633">	<img alt="stars" src="https://img.shields.io/github/stars/cetinpy/CVE-2024-50633">
 
 ---
 ## CVE-2024-50623 ()
