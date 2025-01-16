@@ -1352,6 +1352,15 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [BrotherOfJhonny/CVE-2024-51026_Overview](https://github.com/BrotherOfJhonny/CVE-2024-51026_Overview)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-51026_Overview">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-51026_Overview">
 
 ---
+## CVE-2024-510 ()
+> 
+- [g0v3lla/CVE-2024-510T](https://github.com/g0v3lla/CVE-2024-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2024-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2024-510T">
+- [BrotherOfJhonny/CVE-2024-51026_Overview](https://github.com/BrotherOfJhonny/CVE-2024-51026_Overview)	<img alt="forks" src="https://img.shields.io/github/forks/BrotherOfJhonny/CVE-2024-51026_Overview">	<img alt="stars" src="https://img.shields.io/github/stars/BrotherOfJhonny/CVE-2024-51026_Overview">
+- [vighneshnair7/CVE-2024-51031](https://github.com/vighneshnair7/CVE-2024-51031)	<img alt="forks" src="https://img.shields.io/github/forks/vighneshnair7/CVE-2024-51031">	<img alt="stars" src="https://img.shields.io/github/stars/vighneshnair7/CVE-2024-51031">
+- [Shree-Chandragiri/CVE-2024-51032](https://github.com/Shree-Chandragiri/CVE-2024-51032)	<img alt="forks" src="https://img.shields.io/github/forks/Shree-Chandragiri/CVE-2024-51032">	<img alt="stars" src="https://img.shields.io/github/stars/Shree-Chandragiri/CVE-2024-51032">
+- [vighneshnair7/CVE-2024-51030](https://github.com/vighneshnair7/CVE-2024-51030)	<img alt="forks" src="https://img.shields.io/github/forks/vighneshnair7/CVE-2024-51030">	<img alt="stars" src="https://img.shields.io/github/stars/vighneshnair7/CVE-2024-51030">
+
+---
 ## CVE-2024-50986 (2024-11-15T15:15:00)
 > An issue in Clementine v.1.3.1 allows a local attacker to execute arbitrary code via a crafted DLL file.
 - [riftsandroses/CVE-2024-50986](https://github.com/riftsandroses/CVE-2024-50986)	<img alt="forks" src="https://img.shields.io/github/forks/riftsandroses/CVE-2024-50986">	<img alt="stars" src="https://img.shields.io/github/stars/riftsandroses/CVE-2024-50986">
