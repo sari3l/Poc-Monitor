@@ -2835,6 +2835,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628)	<img alt="forks" src="https://img.shields.io/github/forks/Redshift-CyberSecurity/CVE-2024-41628">	<img alt="stars" src="https://img.shields.io/github/stars/Redshift-CyberSecurity/CVE-2024-41628">
 
 ---
+## CVE-2024-41453 ()
+> 
+- [php-lover-boy/CVE-2024-41453_CVE-2024-41454](https://github.com/php-lover-boy/CVE-2024-41453_CVE-2024-41454)	<img alt="forks" src="https://img.shields.io/github/forks/php-lover-boy/CVE-2024-41453_CVE-2024-41454">	<img alt="stars" src="https://img.shields.io/github/stars/php-lover-boy/CVE-2024-41453_CVE-2024-41454">
+
+---
 ## CVE-2024-41312 ()
 > 
 - [Amal264882/CVE-2024-41312.](https://github.com/Amal264882/CVE-2024-41312.)	<img alt="forks" src="https://img.shields.io/github/forks/Amal264882/CVE-2024-41312.">	<img alt="stars" src="https://img.shields.io/github/stars/Amal264882/CVE-2024-41312.">
