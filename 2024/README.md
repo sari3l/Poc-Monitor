@@ -810,6 +810,16 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">
 
 ---
+## CVE-2024-57785 ()
+> 
+- [s4fv4n/CVE-2024-57785](https://github.com/s4fv4n/CVE-2024-57785)	<img alt="forks" src="https://img.shields.io/github/forks/s4fv4n/CVE-2024-57785">	<img alt="stars" src="https://img.shields.io/github/stars/s4fv4n/CVE-2024-57785">
+
+---
+## CVE-2024-57784 ()
+> 
+- [s4fv4n/CVE-2024-57784](https://github.com/s4fv4n/CVE-2024-57784)	<img alt="forks" src="https://img.shields.io/github/forks/s4fv4n/CVE-2024-57784">	<img alt="stars" src="https://img.shields.io/github/stars/s4fv4n/CVE-2024-57784">
+
+---
 ## CVE-2024-5764 (2024-10-23T15:15:00)
 > Use of Hard-coded Credentials vulnerability in Sonatype Nexus Repository has been discovered in the code responsible for encrypting any secrets stored in the Nexus Repository configuration database (SMTP or HTTP proxy credentials, user tokens, tokens, among others). The affected versions relied on a static hard-coded encryption passphrase. While it was possible for an administrator to define an alternate encryption passphrase, it could only be done at first boot and not updated.
 
