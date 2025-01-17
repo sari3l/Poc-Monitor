@@ -2662,6 +2662,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 > 
 - [synacktiv/CVE-2024-43468](https://github.com/synacktiv/CVE-2024-43468)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2024-43468">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2024-43468">
 - [tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468](https://github.com/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468)	<img alt="forks" src="https://img.shields.io/github/forks/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468">	<img alt="stars" src="https://img.shields.io/github/stars/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468">
+- [nikallass/CVE-2024-43468_mTLS_go](https://github.com/nikallass/CVE-2024-43468_mTLS_go)	<img alt="forks" src="https://img.shields.io/github/forks/nikallass/CVE-2024-43468_mTLS_go">	<img alt="stars" src="https://img.shields.io/github/stars/nikallass/CVE-2024-43468_mTLS_go">
 
 ---
 ## CVE-2024-43416 ()
