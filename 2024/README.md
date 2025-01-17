@@ -3101,6 +3101,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-40110">
 
 ---
+## CVE-2024-40094 ()
+> 
+- [inpentest/CVE-2024-40094](https://github.com/inpentest/CVE-2024-40094)	<img alt="forks" src="https://img.shields.io/github/forks/inpentest/CVE-2024-40094">	<img alt="stars" src="https://img.shields.io/github/stars/inpentest/CVE-2024-40094">
+
+---
 ## CVE-2024-40080 ()
 > 
 - [perras/CVE-2024-40080](https://github.com/perras/CVE-2024-40080)	<img alt="forks" src="https://img.shields.io/github/forks/perras/CVE-2024-40080">	<img alt="stars" src="https://img.shields.io/github/stars/perras/CVE-2024-40080">
