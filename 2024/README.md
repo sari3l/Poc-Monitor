@@ -3279,6 +3279,7 @@ For this to impact an application, all of the following must be true:
   *  It must have a non-permitAll authorization rule applied to the static resources support
 - [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/cve-2024-38821">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/cve-2024-38821">
 - [zetraxz/CVE-2024-38821](https://github.com/zetraxz/CVE-2024-38821)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-38821">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-38821">
+- [masa42/CVE-2024-38821-POC](https://github.com/masa42/CVE-2024-38821-POC)	<img alt="forks" src="https://img.shields.io/github/forks/masa42/CVE-2024-38821-POC">	<img alt="stars" src="https://img.shields.io/github/stars/masa42/CVE-2024-38821-POC">
 
 ---
 ## CVE-2024-38819 ()
