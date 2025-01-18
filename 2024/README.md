@@ -966,6 +966,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-55591 ()
 > 
 - [watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">
+- [souzatyler/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/souzatyler/fortios-auth-bypass-check-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/souzatyler/fortios-auth-bypass-check-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/souzatyler/fortios-auth-bypass-check-CVE-2024-55591">
 
 ---
 ## CVE-2024-55587 ()
