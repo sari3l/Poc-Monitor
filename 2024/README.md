@@ -1021,6 +1021,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [partywavesec/CVE-2024-54819](https://github.com/partywavesec/CVE-2024-54819)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2024-54819">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2024-54819">
 
 ---
+## CVE-2024-54795 ()
+> 
+- [MarioTesoro/CVE-2024-54795](https://github.com/MarioTesoro/CVE-2024-54795)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-54795">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-54795">
+
+---
 ## CVE-2024-54794 ()
 > 
 - [MarioTesoro/CVE-2024-54794](https://github.com/MarioTesoro/CVE-2024-54794)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-54794">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-54794">
