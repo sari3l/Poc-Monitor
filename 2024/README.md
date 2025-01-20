@@ -2617,6 +2617,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [zgimszhd61/CVE-2024-44000](https://github.com/zgimszhd61/CVE-2024-44000)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-44000">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-44000">
 
 ---
+## CVE-2024-43998 ()
+> 
+- [Nxploited/CVE-2024-43998](https://github.com/Nxploited/CVE-2024-43998)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-43998">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-43998">
+
+---
 ## CVE-2024-43919 (2024-11-01T15:15:00)
 > Access Control vulnerability in YARPP YARPP allows .
 
