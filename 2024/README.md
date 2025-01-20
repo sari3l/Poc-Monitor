@@ -723,6 +723,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [awusan125/test_for6387](https://github.com/awusan125/test_for6387)	<img alt="forks" src="https://img.shields.io/github/forks/awusan125/test_for6387">	<img alt="stars" src="https://img.shields.io/github/stars/awusan125/test_for6387">
 - [YassDEV221608/CVE-2024-6387_PoC](https://github.com/YassDEV221608/CVE-2024-6387_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/YassDEV221608/CVE-2024-6387_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/YassDEV221608/CVE-2024-6387_PoC">
 - [anhvutuan/CVE-2024-6387-poc-1](https://github.com/anhvutuan/CVE-2024-6387-poc-1)	<img alt="forks" src="https://img.shields.io/github/forks/anhvutuan/CVE-2024-6387-poc-1">	<img alt="stars" src="https://img.shields.io/github/stars/anhvutuan/CVE-2024-6387-poc-1">
+- [AzrDll/CVE-2024-6387](https://github.com/AzrDll/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/AzrDll/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/AzrDll/CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
