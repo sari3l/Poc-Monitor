@@ -36,6 +36,11 @@
 - [Pauloxc6/CVE-2025-21385](https://github.com/Pauloxc6/CVE-2025-21385)	<img alt="forks" src="https://img.shields.io/github/forks/Pauloxc6/CVE-2025-21385">	<img alt="stars" src="https://img.shields.io/github/stars/Pauloxc6/CVE-2025-21385">
 
 ---
+## CVE-2025-21298 ()
+> 
+- [ynwarcs/CVE-2025-21298](https://github.com/ynwarcs/CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2025-21298">
+
+---
 ## CVE-2025-0282 ()
 > 
 - [securexploit1/CVE-2025-0282](https://github.com/securexploit1/CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/securexploit1/CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/securexploit1/CVE-2025-0282">
