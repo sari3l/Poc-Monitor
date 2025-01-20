@@ -988,7 +988,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ---
 ## CVE-2024-55511 ()
 > 
-- [sleepingniko/CVE-2024-55511](https://github.com/sleepingniko/CVE-2024-55511)	<img alt="forks" src="https://img.shields.io/github/forks/sleepingniko/CVE-2024-55511">	<img alt="stars" src="https://img.shields.io/github/stars/sleepingniko/CVE-2024-55511">
+- [nikosecurity/CVE-2024-55511](https://github.com/nikosecurity/CVE-2024-55511)	<img alt="forks" src="https://img.shields.io/github/forks/nikosecurity/CVE-2024-55511">	<img alt="stars" src="https://img.shields.io/github/stars/nikosecurity/CVE-2024-55511">
 
 ---
 ## CVE-2024-55504 ()
