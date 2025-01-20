@@ -2807,6 +2807,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [sudlit/CVE-2023-40028](https://github.com/sudlit/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/sudlit/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/sudlit/CVE-2023-40028">
 - [monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read](https://github.com/monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read">
 - [rvizx/CVE-2023-40028](https://github.com/rvizx/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-40028">
+- [godylockz/CVE-2023-40028](https://github.com/godylockz/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2023-40028">
 
 ---
 ## CVE-2023-40000 (2024-04-16T18:15:00)
