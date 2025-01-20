@@ -5669,7 +5669,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-2876">
 - [0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/0xAgun/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/0xAgun/CVE-2024-2876">
 - [skyrowalker/CVE-2024-2876](https://github.com/skyrowalker/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/skyrowalker/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/skyrowalker/CVE-2024-2876">
-- [issamiso/CVE-2024-2876](https://github.com/issamiso/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/issamiso/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/issamiso/CVE-2024-2876">
+- [issamjr/CVE-2024-2876](https://github.com/issamjr/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2024-2876">
 
 ---
 ## CVE-2024-28757 (2024-03-10T05:15:00)
