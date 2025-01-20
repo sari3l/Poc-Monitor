@@ -2620,6 +2620,7 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 ## CVE-2024-43998 ()
 > 
 - [Nxploited/CVE-2024-43998](https://github.com/Nxploited/CVE-2024-43998)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-43998">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-43998">
+- [RandomRobbieBF/CVE-2024-43998](https://github.com/RandomRobbieBF/CVE-2024-43998)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-43998">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-43998">
 
 ---
 ## CVE-2024-43919 (2024-11-01T15:15:00)
