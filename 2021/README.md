@@ -8937,6 +8937,7 @@
 - [4dp/CVE-2021-1732](https://github.com/4dp/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/4dp/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/4dp/CVE-2021-1732">
 - [yangshifan-git/CVE-2021-1732](https://github.com/yangshifan-git/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/yangshifan-git/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/yangshifan-git/CVE-2021-1732">
 - [asepsaepdin/CVE-2021-1732](https://github.com/asepsaepdin/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2021-1732">
+- [Sausageinforest/CVE-2021-1732](https://github.com/Sausageinforest/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/Sausageinforest/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/Sausageinforest/CVE-2021-1732">
 
 ---
 ## CVE-2021-1675 (2021-06-08T23:15:00)
