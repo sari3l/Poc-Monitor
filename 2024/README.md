@@ -1024,6 +1024,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [KrakenEU/CVE-2024-54910](https://github.com/KrakenEU/CVE-2024-54910)	<img alt="forks" src="https://img.shields.io/github/forks/KrakenEU/CVE-2024-54910">	<img alt="stars" src="https://img.shields.io/github/stars/KrakenEU/CVE-2024-54910">
 
 ---
+## CVE-2024-54880 ()
+> 
+- [ailenye/CVE-2024-54880](https://github.com/ailenye/CVE-2024-54880)	<img alt="forks" src="https://img.shields.io/github/forks/ailenye/CVE-2024-54880">	<img alt="stars" src="https://img.shields.io/github/stars/ailenye/CVE-2024-54880">
+
+---
 ## CVE-2024-54879 ()
 > 
 - [ailenye/CVE-2024-54879](https://github.com/ailenye/CVE-2024-54879)	<img alt="forks" src="https://img.shields.io/github/forks/ailenye/CVE-2024-54879">	<img alt="stars" src="https://img.shields.io/github/stars/ailenye/CVE-2024-54879">
