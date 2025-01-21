@@ -6869,6 +6869,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23738">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23738">
 
 ---
+## CVE-2024-23733 ()
+> 
+- [ekcrsm/CVE-2024-23733](https://github.com/ekcrsm/CVE-2024-23733)	<img alt="forks" src="https://img.shields.io/github/forks/ekcrsm/CVE-2024-23733">	<img alt="stars" src="https://img.shields.io/github/stars/ekcrsm/CVE-2024-23733">
+
+---
 ## CVE-2024-23724 ()
 > 
 - [Youssefdds/CVE-2024-23724](https://github.com/Youssefdds/CVE-2024-23724)	<img alt="forks" src="https://img.shields.io/github/forks/Youssefdds/CVE-2024-23724">	<img alt="stars" src="https://img.shields.io/github/stars/Youssefdds/CVE-2024-23724">
