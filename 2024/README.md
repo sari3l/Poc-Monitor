@@ -608,6 +608,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [12345qwert123456/CVE-2024-6473-PoC](https://github.com/12345qwert123456/CVE-2024-6473-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/12345qwert123456/CVE-2024-6473-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/12345qwert123456/CVE-2024-6473-PoC">
 
 ---
+## CVE-2024-6460 ()
+> 
+- [Nxploited/CVE-2024-6460](https://github.com/Nxploited/CVE-2024-6460)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6460">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6460">
+
+---
 ## CVE-2024-6387 (2024-07-01T13:15:00)
 > A signal handler race condition was found in OpenSSH's server (sshd), where a client does not authenticate within LoginGraceTime seconds (120 by default, 600 in old OpenSSH versions), then sshd's SIGALRM handler is called asynchronously. However, this signal handler calls various functions that are not async-signal-safe, for example, syslog().
 - [7etsuo/cve-2024-6387-poc](https://github.com/7etsuo/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/7etsuo/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/7etsuo/cve-2024-6387-poc">
