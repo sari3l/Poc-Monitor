@@ -1769,6 +1769,7 @@ length to be included in the checksum calculation is fully consumed.
 > 
 - [MrAle98/CVE-2024-49138-POC](https://github.com/MrAle98/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MrAle98/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MrAle98/CVE-2024-49138-POC">
 - [aspire20x/CVE-2024-49138-POC](https://github.com/aspire20x/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/aspire20x/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/aspire20x/CVE-2024-49138-POC">
+- [bananoname/CVE-2024-49138-POC](https://github.com/bananoname/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bananoname/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bananoname/CVE-2024-49138-POC">
 
 ---
 ## CVE-2024-49113 ()
@@ -2941,6 +2942,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [chebuya/Havoc-C2-SSRF-poc](https://github.com/chebuya/Havoc-C2-SSRF-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/Havoc-C2-SSRF-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/Havoc-C2-SSRF-poc">
 - [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">
 - [Doc-Grinch/Havoc-CVE-2024-41570-and-RCE](https://github.com/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">
+- [Wind010/CVE-2024-41570](https://github.com/Wind010/CVE-2024-41570)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2024-41570">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2024-41570">
 
 ---
 ## CVE-2024-41453 ()
