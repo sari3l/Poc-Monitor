@@ -2728,6 +2728,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [nikallass/CVE-2024-43468_mTLS_go](https://github.com/nikallass/CVE-2024-43468_mTLS_go)	<img alt="forks" src="https://img.shields.io/github/forks/nikallass/CVE-2024-43468_mTLS_go">	<img alt="stars" src="https://img.shields.io/github/stars/nikallass/CVE-2024-43468_mTLS_go">
 
 ---
+## CVE-2024-43451 ()
+> 
+- [RonF98/CVE-2024-43451-POC](https://github.com/RonF98/CVE-2024-43451-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2024-43451-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2024-43451-POC">
+
+---
 ## CVE-2024-43416 ()
 > 
 - [0xmupa/CVE-2024-43416-PoC](https://github.com/0xmupa/CVE-2024-43416-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-43416-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-43416-PoC">
