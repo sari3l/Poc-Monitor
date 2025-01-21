@@ -1536,6 +1536,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs)	<img alt="forks" src="https://img.shields.io/github/forks/mranv/honeypot.rs">	<img alt="stars" src="https://img.shields.io/github/stars/mranv/honeypot.rs">
 - [infokek/activemq-honeypot](https://github.com/infokek/activemq-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/infokek/activemq-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/infokek/activemq-honeypot">
 - [cuanh2333/CVE-2023-46604](https://github.com/cuanh2333/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/cuanh2333/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/cuanh2333/CVE-2023-46604">
+- [tomasmussi/activemq-cve-2023-46604](https://github.com/tomasmussi/activemq-cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/tomasmussi/activemq-cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/tomasmussi/activemq-cve-2023-46604">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)
