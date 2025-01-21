@@ -8131,6 +8131,11 @@ authentication.   
 - [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1209">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1209">
 
 ---
+## CVE-2024-12084 ()
+> 
+- [themirze/cve-2024-12084](https://github.com/themirze/cve-2024-12084)	<img alt="forks" src="https://img.shields.io/github/forks/themirze/cve-2024-12084">	<img alt="stars" src="https://img.shields.io/github/stars/themirze/cve-2024-12084">
+
+---
 ## CVE-2024-1208 (2024-02-05T22:16:00)
 > The LearnDash LMS plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 4.10.2 via API. This makes it possible for unauthenticated attackers to obtain access to quiz questions.
 - [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">
