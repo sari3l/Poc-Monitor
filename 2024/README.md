@@ -2960,6 +2960,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628)	<img alt="forks" src="https://img.shields.io/github/forks/Redshift-CyberSecurity/CVE-2024-41628">	<img alt="stars" src="https://img.shields.io/github/stars/Redshift-CyberSecurity/CVE-2024-41628">
 
 ---
+## CVE-2024-415770 ()
+> 
+- [muhmad-umair/CVE-2024-415770-ssrf-rce](https://github.com/muhmad-umair/CVE-2024-415770-ssrf-rce)	<img alt="forks" src="https://img.shields.io/github/forks/muhmad-umair/CVE-2024-415770-ssrf-rce">	<img alt="stars" src="https://img.shields.io/github/stars/muhmad-umair/CVE-2024-415770-ssrf-rce">
+
+---
 ## CVE-2024-41570 ()
 > 
 - [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">
