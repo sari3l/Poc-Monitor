@@ -611,6 +611,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-6460 ()
 > 
 - [Nxploited/CVE-2024-6460](https://github.com/Nxploited/CVE-2024-6460)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6460">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6460">
+- [E1-Bot141/CVE-2024-6460](https://github.com/E1-Bot141/CVE-2024-6460)	<img alt="forks" src="https://img.shields.io/github/forks/E1-Bot141/CVE-2024-6460">	<img alt="stars" src="https://img.shields.io/github/stars/E1-Bot141/CVE-2024-6460">
 
 ---
 ## CVE-2024-6387 (2024-07-01T13:15:00)
