@@ -5975,6 +5975,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [geniuszlyy/CVE-2024-27198](https://github.com/geniuszlyy/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-27198">
 - [dkhacks/CVE_2024_27198](https://github.com/dkhacks/CVE_2024_27198)	<img alt="forks" src="https://img.shields.io/github/forks/dkhacks/CVE_2024_27198">	<img alt="stars" src="https://img.shields.io/github/stars/dkhacks/CVE_2024_27198">
 - [Cythonic1/CVE-2024-27198_POC](https://github.com/Cythonic1/CVE-2024-27198_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cythonic1/CVE-2024-27198_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cythonic1/CVE-2024-27198_POC">
+- [ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability](https://github.com/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
