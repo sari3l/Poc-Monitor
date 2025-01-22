@@ -43,7 +43,7 @@
 ---
 ## CVE-2025-0411 ()
 > 
-- [dhmosfunk/7Zip-CVE-2025-0411-POC](https://github.com/dhmosfunk/7Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/7Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/7Zip-CVE-2025-0411-POC">
+- [dhmosfunk/7-Zip-CVE-2025-0411-POC](https://github.com/dhmosfunk/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/7-Zip-CVE-2025-0411-POC">
 
 ---
 ## CVE-2025-0282 ()
