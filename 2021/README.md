@@ -958,6 +958,7 @@
 - [JanICT/poc-ldap-cve-2021-44228](https://github.com/JanICT/poc-ldap-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/JanICT/poc-ldap-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/JanICT/poc-ldap-cve-2021-44228">
 - [Kz0x-337/CVE-2021-44228](https://github.com/Kz0x-337/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Kz0x-337/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Kz0x-337/CVE-2021-44228">
 - [ZacharyZcR/CVE-2021-44228](https://github.com/ZacharyZcR/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/ZacharyZcR/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/ZacharyZcR/CVE-2021-44228">
+- [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt)	<img alt="forks" src="https://img.shields.io/github/forks/redhuntlabs/Log4JHunt">	<img alt="stars" src="https://img.shields.io/github/stars/redhuntlabs/Log4JHunt">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
