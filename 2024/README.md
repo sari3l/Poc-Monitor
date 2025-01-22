@@ -28,6 +28,11 @@
 - [famixcm/CVE-2024-9954](https://github.com/famixcm/CVE-2024-9954)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-9954">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-9954">
 
 ---
+## CVE-2024-9950 ()
+> 
+- [0Nightsedge0/CVE-2024-9950-PoC](https://github.com/0Nightsedge0/CVE-2024-9950-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0Nightsedge0/CVE-2024-9950-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0Nightsedge0/CVE-2024-9950-PoC">
+
+---
 ## CVE-2024-9935 ()
 > 
 - [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9935">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9935">
@@ -981,6 +986,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">
 - [souzatyler/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/souzatyler/fortios-auth-bypass-check-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/souzatyler/fortios-auth-bypass-check-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/souzatyler/fortios-auth-bypass-check-CVE-2024-55591">
 - [sysirq/fortios-auth-bypass-poc-CVE-2024-55591](https://github.com/sysirq/fortios-auth-bypass-poc-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/sysirq/fortios-auth-bypass-poc-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/sysirq/fortios-auth-bypass-poc-CVE-2024-55591">
+- [sysirq/fortios-auth-bypass-exp-CVE-2024-55591](https://github.com/sysirq/fortios-auth-bypass-exp-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/sysirq/fortios-auth-bypass-exp-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/sysirq/fortios-auth-bypass-exp-CVE-2024-55591">
 
 ---
 ## CVE-2024-55587 ()
