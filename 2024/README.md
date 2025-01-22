@@ -882,6 +882,11 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [j4nk3/CVE-2024-5716](https://github.com/j4nk3/CVE-2024-5716)	<img alt="forks" src="https://img.shields.io/github/forks/j4nk3/CVE-2024-5716">	<img alt="stars" src="https://img.shields.io/github/stars/j4nk3/CVE-2024-5716">
 
 ---
+## CVE-2024-56924 ()
+> 
+- [ipratheep/CVE-2024-56924](https://github.com/ipratheep/CVE-2024-56924)	<img alt="forks" src="https://img.shields.io/github/forks/ipratheep/CVE-2024-56924">	<img alt="stars" src="https://img.shields.io/github/stars/ipratheep/CVE-2024-56924">
+
+---
 ## CVE-2024-56662 ()
 > 
 - [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662)	<img alt="forks" src="https://img.shields.io/github/forks/nimosec/cve-2024-56662">	<img alt="stars" src="https://img.shields.io/github/stars/nimosec/cve-2024-56662">
