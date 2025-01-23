@@ -3524,6 +3524,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [mrmtwoj/CVE-2024-38077](https://github.com/mrmtwoj/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/CVE-2024-38077">
 - [Destiny0991/check_38077](https://github.com/Destiny0991/check_38077)	<img alt="forks" src="https://img.shields.io/github/forks/Destiny0991/check_38077">	<img alt="stars" src="https://img.shields.io/github/stars/Destiny0991/check_38077">
 - [amfg145/CVE-2024-38077](https://github.com/amfg145/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/amfg145/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/amfg145/CVE-2024-38077">
+- [Accord96/CVE-2024-38077-POC](https://github.com/Accord96/CVE-2024-38077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Accord96/CVE-2024-38077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Accord96/CVE-2024-38077-POC">
 
 ---
 ## CVE-2024-38063 (2024-08-13T18:15:00)
