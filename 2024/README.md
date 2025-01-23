@@ -2120,6 +2120,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46986">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46986">
 
 ---
+## CVE-2024-46982 ()
+> 
+- [Lercas/CVE-2024-46982](https://github.com/Lercas/CVE-2024-46982)	<img alt="forks" src="https://img.shields.io/github/forks/Lercas/CVE-2024-46982">	<img alt="stars" src="https://img.shields.io/github/stars/Lercas/CVE-2024-46982">
+
+---
 ## CVE-2024-46901 ()
 > 
 - [devhaozi/CVE-2024-46901](https://github.com/devhaozi/CVE-2024-46901)	<img alt="forks" src="https://img.shields.io/github/forks/devhaozi/CVE-2024-46901">	<img alt="stars" src="https://img.shields.io/github/stars/devhaozi/CVE-2024-46901">
