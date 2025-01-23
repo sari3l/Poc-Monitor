@@ -2123,6 +2123,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-46982 ()
 > 
 - [Lercas/CVE-2024-46982](https://github.com/Lercas/CVE-2024-46982)	<img alt="forks" src="https://img.shields.io/github/forks/Lercas/CVE-2024-46982">	<img alt="stars" src="https://img.shields.io/github/stars/Lercas/CVE-2024-46982">
+- [CodePontiff/next_js_poisoning](https://github.com/CodePontiff/next_js_poisoning)	<img alt="forks" src="https://img.shields.io/github/forks/CodePontiff/next_js_poisoning">	<img alt="stars" src="https://img.shields.io/github/stars/CodePontiff/next_js_poisoning">
 
 ---
 ## CVE-2024-46901 ()
