@@ -1275,6 +1275,11 @@
 - [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
 
 ---
+## CVE-2018-14881 ()
+> 
+- [uthrasri/CVE-2018-14881_withpatch](https://github.com/uthrasri/CVE-2018-14881_withpatch)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2018-14881_withpatch">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2018-14881_withpatch">
+
+---
 ## CVE-2018-14880 (2019-10-03T16:15:00)
 > The OSPFv3 parser in tcpdump before 4.9.3 has a buffer over-read in print-ospf6.c:ospf6_print_lshdr().
 - [Trinadh465/external_tcpdump_CVE-2018-14880](https://github.com/Trinadh465/external_tcpdump_CVE-2018-14880)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_tcpdump_CVE-2018-14880">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_tcpdump_CVE-2018-14880">
