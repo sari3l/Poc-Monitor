@@ -2275,6 +2275,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [numaan911098/CVE-2023-4220](https://github.com/numaan911098/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/numaan911098/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/numaan911098/CVE-2023-4220">
 - [MikeyPPPPPPPP/CVE-2023-4220](https://github.com/MikeyPPPPPPPP/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/MikeyPPPPPPPP/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/MikeyPPPPPPPP/CVE-2023-4220">
 - [Pr1or95/CVE-2023-4220-exploit](https://github.com/Pr1or95/CVE-2023-4220-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Pr1or95/CVE-2023-4220-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Pr1or95/CVE-2023-4220-exploit">
+- [zora-beep/CVE-2023-4220](https://github.com/zora-beep/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/zora-beep/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/zora-beep/CVE-2023-4220">
 
 ---
 ## CVE-2023-422 ()
