@@ -1277,7 +1277,7 @@
 ---
 ## CVE-2018-14881 ()
 > 
-- [uthrasri/CVE-2018-14881_withpatch](https://github.com/uthrasri/CVE-2018-14881_withpatch)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2018-14881_withpatch">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2018-14881_withpatch">
+- [uthrasri/CVE-2018-14881_no_patch](https://github.com/uthrasri/CVE-2018-14881_no_patch)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2018-14881_no_patch">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2018-14881_no_patch">
 
 ---
 ## CVE-2018-14880 (2019-10-03T16:15:00)
