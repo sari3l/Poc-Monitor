@@ -862,6 +862,11 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 - [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488)	<img alt="forks" src="https://img.shields.io/github/forks/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">	<img alt="stars" src="https://img.shields.io/github/stars/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">
 
 ---
+## CVE-2024-57373 ()
+> 
+- [cypherdavy/CVE-2024-57373](https://github.com/cypherdavy/CVE-2024-57373)	<img alt="forks" src="https://img.shields.io/github/forks/cypherdavy/CVE-2024-57373">	<img alt="stars" src="https://img.shields.io/github/stars/cypherdavy/CVE-2024-57373">
+
+---
 ## CVE-2024-5737 (2024-06-28T12:15:00)
 > Script afGdStream.php in AdmirorFrames Joomla! extension doesn’t specify a content type and as a result default (text/html) is used. An attacker may embed HTML tags directly in image data which is rendered by a webpage as HTML. This issue affects AdmirorFrames: before 5.0.
 - [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5737">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5737">
