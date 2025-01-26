@@ -865,6 +865,7 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 ## CVE-2024-57373 ()
 > 
 - [cypherdavy/CVE-2024-57373](https://github.com/cypherdavy/CVE-2024-57373)	<img alt="forks" src="https://img.shields.io/github/forks/cypherdavy/CVE-2024-57373">	<img alt="stars" src="https://img.shields.io/github/stars/cypherdavy/CVE-2024-57373">
+- [cypherdavy/CVE-2024-57373](https://github.com/cypherdavy/CVE-2024-57373)	<img alt="forks" src="https://img.shields.io/github/forks/cypherdavy/CVE-2024-57373">	<img alt="stars" src="https://img.shields.io/github/stars/cypherdavy/CVE-2024-57373">
 
 ---
 ## CVE-2024-5737 (2024-06-28T12:15:00)
