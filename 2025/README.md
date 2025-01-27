@@ -45,6 +45,7 @@
 > 
 - [dhmosfunk/7-Zip-CVE-2025-0411-POC](https://github.com/dhmosfunk/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/7-Zip-CVE-2025-0411-POC">
 - [CastroJared/7-Zip-CVE-2025-0411-POC](https://github.com/CastroJared/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CastroJared/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CastroJared/7-Zip-CVE-2025-0411-POC">
+- [iSee857/CVE-2025-0411-PoC](https://github.com/iSee857/CVE-2025-0411-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-0411-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-0411-PoC">
 
 ---
 ## CVE-2025-0282 ()
