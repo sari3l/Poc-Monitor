@@ -998,6 +998,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [amfg145/Private-CVE-2024-55591.](https://github.com/amfg145/Private-CVE-2024-55591.)	<img alt="forks" src="https://img.shields.io/github/forks/amfg145/Private-CVE-2024-55591.">	<img alt="stars" src="https://img.shields.io/github/stars/amfg145/Private-CVE-2024-55591.">
 - [robomusk52/exp-cmd-add-admin-vpn-CVE-2024-55591](https://github.com/robomusk52/exp-cmd-add-admin-vpn-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/robomusk52/exp-cmd-add-admin-vpn-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/robomusk52/exp-cmd-add-admin-vpn-CVE-2024-55591">
 - [watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591">
+- [virus-or-not/CVE-2024-55591](https://github.com/virus-or-not/CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/virus-or-not/CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/virus-or-not/CVE-2024-55591">
 
 ---
 ## CVE-2024-55587 ()
