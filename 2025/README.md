@@ -6,6 +6,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-24085 ()
+> 
+- [clidanc/CVE-2025-24085](https://github.com/clidanc/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/clidanc/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/clidanc/CVE-2025-24085">
+
+---
 ## CVE-2025-22968 ()
 > 
 - [CRUNZEX/CVE-2025-22968](https://github.com/CRUNZEX/CVE-2025-22968)	<img alt="forks" src="https://img.shields.io/github/forks/CRUNZEX/CVE-2025-22968">	<img alt="stars" src="https://img.shields.io/github/stars/CRUNZEX/CVE-2025-22968">
