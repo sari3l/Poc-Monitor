@@ -5495,6 +5495,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/ambionics/cnext-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/ambionics/cnext-exploits">
 - [kjdfklha/CVE-2024-2961_poc](https://github.com/kjdfklha/CVE-2024-2961_poc)	<img alt="forks" src="https://img.shields.io/github/forks/kjdfklha/CVE-2024-2961_poc">	<img alt="stars" src="https://img.shields.io/github/stars/kjdfklha/CVE-2024-2961_poc">
 - [kyotozx/CVE-2024-2961-Remote-File-Read](https://github.com/kyotozx/CVE-2024-2961-Remote-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/kyotozx/CVE-2024-2961-Remote-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/kyotozx/CVE-2024-2961-Remote-File-Read">
+- [4wayhandshake/CVE-2024-2961](https://github.com/4wayhandshake/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/4wayhandshake/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/4wayhandshake/CVE-2024-2961">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
