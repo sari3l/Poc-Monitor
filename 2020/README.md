@@ -5233,7 +5233,7 @@
 - [Ajomix/CVE-2020-0796-POC](https://github.com/Ajomix/CVE-2020-0796-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ajomix/CVE-2020-0796-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ajomix/CVE-2020-0796-POC">
 - [Ajomix/CVE-2020-0796](https://github.com/Ajomix/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Ajomix/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Ajomix/CVE-2020-0796">
 - [hheeyywweellccoommee/CVE-2020-0796-POC-dmglv](https://github.com/hheeyywweellccoommee/CVE-2020-0796-POC-dmglv)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2020-0796-POC-dmglv">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2020-0796-POC-dmglv">
-- [Ajomix/CVE-2020-0796](https://github.com/Ajomix/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Ajomix/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Ajomix/CVE-2020-0796">
+- [dungnm24/CVE-2020-0796](https://github.com/dungnm24/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/dungnm24/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/dungnm24/CVE-2020-0796">
 - [DLandonHSCS/Discord-RCE](https://github.com/DLandonHSCS/Discord-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/DLandonHSCS/Discord-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/DLandonHSCS/Discord-RCE">
 - [abdullah098/CVE-2020-0796-Scanner](https://github.com/abdullah098/CVE-2020-0796-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/abdullah098/CVE-2020-0796-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/abdullah098/CVE-2020-0796-Scanner">
 - [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
@@ -5243,6 +5243,7 @@
 - [hungdnvp/POC-CVE-2020-0796](https://github.com/hungdnvp/POC-CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/hungdnvp/POC-CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/hungdnvp/POC-CVE-2020-0796">
 - [AdamSonov/smbGhostCVE-2020-0796](https://github.com/AdamSonov/smbGhostCVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/AdamSonov/smbGhostCVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/AdamSonov/smbGhostCVE-2020-0796">
 - [z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities](https://github.com/z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities">
+- [Kaizzzo1/CVE-2020-0796](https://github.com/Kaizzzo1/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Kaizzzo1/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Kaizzzo1/CVE-2020-0796">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
@@ -5403,6 +5404,11 @@
 > In exif_data_save_data_entry of exif-data.c, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-148705132
 - [Live-Hack-CVE/CVE-2020-0093](https://github.com/Live-Hack-CVE/CVE-2020-0093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0093">
 - [Live-Hack-CVE/CVE-2020-0093](https://github.com/Live-Hack-CVE/CVE-2020-0093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0093">
+
+---
+## CVE-2020-00796 ()
+> 
+- [Kaizzzo1/cve-2020-00796](https://github.com/Kaizzzo1/cve-2020-00796)	<img alt="forks" src="https://img.shields.io/github/forks/Kaizzzo1/cve-2020-00796">	<img alt="stars" src="https://img.shields.io/github/stars/Kaizzzo1/cve-2020-00796">
 
 ---
 ## CVE-2020-0041 ()
