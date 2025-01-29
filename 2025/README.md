@@ -9,6 +9,7 @@
 ## CVE-2025-24085 ()
 > 
 - [clidanc/CVE-2025-24085](https://github.com/clidanc/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/clidanc/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/clidanc/CVE-2025-24085">
+- [clidancc1/CVE-2025-24085](https://github.com/clidancc1/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/clidancc1/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/clidancc1/CVE-2025-24085">
 
 ---
 ## CVE-2025-22968 ()
