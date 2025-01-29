@@ -8213,6 +8213,7 @@ authentication.   
 ## CVE-2024-12084 ()
 > 
 - [themirze/cve-2024-12084](https://github.com/themirze/cve-2024-12084)	<img alt="forks" src="https://img.shields.io/github/forks/themirze/cve-2024-12084">	<img alt="stars" src="https://img.shields.io/github/stars/themirze/cve-2024-12084">
+- [rxerium/CVE-2024-12084-](https://github.com/rxerium/CVE-2024-12084-)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2024-12084-">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2024-12084-">
 
 ---
 ## CVE-2024-1208 (2024-02-05T22:16:00)
