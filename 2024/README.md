@@ -1181,6 +1181,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617)	<img alt="forks" src="https://img.shields.io/github/forks/ii5mai1/CVE-2024-53617">	<img alt="stars" src="https://img.shields.io/github/stars/ii5mai1/CVE-2024-53617">
 
 ---
+## CVE-2024-53615 ()
+> 
+- [beune/CVE-2024-53615](https://github.com/beune/CVE-2024-53615)	<img alt="forks" src="https://img.shields.io/github/forks/beune/CVE-2024-53615">	<img alt="stars" src="https://img.shields.io/github/stars/beune/CVE-2024-53615">
+
+---
 ## CVE-2024-5356 (2024-05-26T08:15:00)
 > A vulnerability, which was classified as critical, was found in anji-plus AJ-Report up to 1.4.1. Affected is an unknown function of the file /dataSet/testTransform;swagger-ui. The manipulation of the argument dynSentence leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-266268.
 - [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC)	<img alt="forks" src="https://img.shields.io/github/forks/droyuu/Aj-Report-sql-CVE-2024-5356-POC">	<img alt="stars" src="https://img.shields.io/github/stars/droyuu/Aj-Report-sql-CVE-2024-5356-POC">
