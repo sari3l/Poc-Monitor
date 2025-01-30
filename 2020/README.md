@@ -4646,6 +4646,7 @@
 - [DanielRuf/snyk-js-jquery-565129](https://github.com/DanielRuf/snyk-js-jquery-565129)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/snyk-js-jquery-565129">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/snyk-js-jquery-565129">
 - [Snorlyd/https-nj.gov---CVE-2020-11023](https://github.com/Snorlyd/https-nj.gov---CVE-2020-11023)	<img alt="forks" src="https://img.shields.io/github/forks/Snorlyd/https-nj.gov---CVE-2020-11023">	<img alt="stars" src="https://img.shields.io/github/stars/Snorlyd/https-nj.gov---CVE-2020-11023">
 - [andreassundstrom/cve-2020-11023-demonstration](https://github.com/andreassundstrom/cve-2020-11023-demonstration)	<img alt="forks" src="https://img.shields.io/github/forks/andreassundstrom/cve-2020-11023-demonstration">	<img alt="stars" src="https://img.shields.io/github/stars/andreassundstrom/cve-2020-11023-demonstration">
+- [honeyb33z/cve-2020-11023](https://github.com/honeyb33z/cve-2020-11023)	<img alt="forks" src="https://img.shields.io/github/forks/honeyb33z/cve-2020-11023">	<img alt="stars" src="https://img.shields.io/github/stars/honeyb33z/cve-2020-11023">
 
 ---
 ## CVE-2020-11022 (2020-04-29T22:15:00)
