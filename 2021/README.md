@@ -1984,6 +1984,7 @@
 - [dream434/cve-2021-42013-apache](https://github.com/dream434/cve-2021-42013-apache)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/cve-2021-42013-apache">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/cve-2021-42013-apache">
 - [bananoname/cve-2021-42013](https://github.com/bananoname/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/bananoname/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/bananoname/cve-2021-42013">
 - [Zyx2440/Apache-HTTP-Server-2.4.50-RCE](https://github.com/Zyx2440/Apache-HTTP-Server-2.4.50-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Zyx2440/Apache-HTTP-Server-2.4.50-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Zyx2440/Apache-HTTP-Server-2.4.50-RCE">
+- [asepsaepdin/cve-2021-42013](https://github.com/asepsaepdin/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/cve-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
