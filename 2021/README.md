@@ -6095,6 +6095,8 @@
 - [Y0s9/CVE-2021-3129](https://github.com/Y0s9/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Y0s9/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Y0s9/CVE-2021-3129">
 - [0x0d3ad/CVE-2021-3129](https://github.com/0x0d3ad/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2021-3129">
 - [GodOfServer/CVE-2021-3129](https://github.com/GodOfServer/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/GodOfServer/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/GodOfServer/CVE-2021-3129">
+- [lukwagoasuman/CVE-2021-3129---Laravel-RCE](https://github.com/lukwagoasuman/CVE-2021-3129---Laravel-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/lukwagoasuman/CVE-2021-3129---Laravel-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/lukwagoasuman/CVE-2021-3129---Laravel-RCE">
+- [Prabesh01/hoh4](https://github.com/Prabesh01/hoh4)	<img alt="forks" src="https://img.shields.io/github/forks/Prabesh01/hoh4">	<img alt="stars" src="https://img.shields.io/github/stars/Prabesh01/hoh4">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)
