@@ -1279,6 +1279,7 @@
 > 
 - [uthrasri/CVE-2018-14881_no_patch](https://github.com/uthrasri/CVE-2018-14881_no_patch)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2018-14881_no_patch">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2018-14881_no_patch">
 - [Mahesh-970/CVE-2018-14881_NoPatch](https://github.com/Mahesh-970/CVE-2018-14881_NoPatch)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2018-14881_NoPatch">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2018-14881_NoPatch">
+- [Mahesh-970/CVE-2018-14881_Aosp_r33](https://github.com/Mahesh-970/CVE-2018-14881_Aosp_r33)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2018-14881_Aosp_r33">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2018-14881_Aosp_r33">
 
 ---
 ## CVE-2018-14880 (2019-10-03T16:15:00)
