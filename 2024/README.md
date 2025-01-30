@@ -8831,6 +8831,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 ## CVE-2024-0235 (2024-01-16T16:15:00)
 > The EventON WordPress plugin before 4.5.5, EventON WordPress plugin before 2.2.7 do not have authorisation in an AJAX action, allowing unauthenticated users to retrieve email addresses of any users on the blog
 - [Cappricio-Securities/CVE-2024-0235](https://github.com/Cappricio-Securities/CVE-2024-0235)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0235">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0235">
+- [Nxploited/CVE-2024-0235-PoC](https://github.com/Nxploited/CVE-2024-0235-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-0235-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-0235-PoC">
 
 ---
 ## CVE-2024-0230 (2024-01-12T23:15:00)
