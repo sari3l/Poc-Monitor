@@ -1008,6 +1008,11 @@
 - [ToontjeM/CVE-2017-15099](https://github.com/ToontjeM/CVE-2017-15099)	<img alt="forks" src="https://img.shields.io/github/forks/ToontjeM/CVE-2017-15099">	<img alt="stars" src="https://img.shields.io/github/stars/ToontjeM/CVE-2017-15099">
 
 ---
+## CVE-2017-14980 ()
+> 
+- [xn0kkx/Exploit_Sync_Breezev10.0.28_CVE-2017-14980](https://github.com/xn0kkx/Exploit_Sync_Breezev10.0.28_CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/xn0kkx/Exploit_Sync_Breezev10.0.28_CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/xn0kkx/Exploit_Sync_Breezev10.0.28_CVE-2017-14980">
+
+---
 ## CVE-2017-14864 (2017-09-29T01:34:00)
 > An Invalid memory address dereference was discovered in Exiv2::getULong in types.cpp in Exiv2 0.26. The vulnerability causes a segmentation fault and application crash, which leads to denial of service.
 - [Live-Hack-CVE/CVE-2017-14864](https://github.com/Live-Hack-CVE/CVE-2017-14864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14864">
