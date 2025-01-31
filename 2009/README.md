@@ -40,6 +40,11 @@
 - [Live-Hack-CVE/CVE-2009-2699](https://github.com/Live-Hack-CVE/CVE-2009-2699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-2699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-2699">
 
 ---
+## CVE-2009-2685 ()
+> 
+- [rflemen/CVE-2009-2685](https://github.com/rflemen/CVE-2009-2685)	<img alt="forks" src="https://img.shields.io/github/forks/rflemen/CVE-2009-2685">	<img alt="stars" src="https://img.shields.io/github/stars/rflemen/CVE-2009-2685">
+
+---
 ## CVE-2009-2265 (2009-07-05T16:30:00)
 > Multiple directory traversal vulnerabilities in FCKeditor before 2.6.4.1 allow remote attackers to create executable files in arbitrary directories via directory traversal sequences in the input to unspecified connector modules, as exploited in the wild for remote code execution in July 2009, related to the file browser and the editor/filemanager/connectors/ directory.
 - [p1ckzi/CVE-2009-2265](https://github.com/p1ckzi/CVE-2009-2265)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2009-2265">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2009-2265">
