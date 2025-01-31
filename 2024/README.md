@@ -888,6 +888,11 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 - [J-0k3r/CVE-2024-57252](https://github.com/J-0k3r/CVE-2024-57252)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2024-57252">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2024-57252">
 
 ---
+## CVE-2024-57175 ()
+> 
+- [Ajmal101/CVE-2024-57175](https://github.com/Ajmal101/CVE-2024-57175)	<img alt="forks" src="https://img.shields.io/github/forks/Ajmal101/CVE-2024-57175">	<img alt="stars" src="https://img.shields.io/github/stars/Ajmal101/CVE-2024-57175">
+
+---
 ## CVE-2024-5716 (2024-11-22T20:15:00)
 > Logsign Unified SecOps Platform Authentication Bypass Vulnerability. This vulnerability allows remote attackers to bypass authentication on affected installations of Logsign Unified SecOps Platform. Authentication is not required to exploit this vulnerability.
 
