@@ -2682,6 +2682,11 @@ seconds of becoming unavailable.
 - [7h3w4lk3r/CVE-2023-40459](https://github.com/7h3w4lk3r/CVE-2023-40459)	<img alt="forks" src="https://img.shields.io/github/forks/7h3w4lk3r/CVE-2023-40459">	<img alt="stars" src="https://img.shields.io/github/stars/7h3w4lk3r/CVE-2023-40459">
 
 ---
+## CVE-2023-40448 ()
+> 
+- [w0wbox/CVE-2023-40448](https://github.com/w0wbox/CVE-2023-40448)	<img alt="forks" src="https://img.shields.io/github/forks/w0wbox/CVE-2023-40448">	<img alt="stars" src="https://img.shields.io/github/stars/w0wbox/CVE-2023-40448">
+
+---
 ## CVE-2023-40429 (2023-09-27T15:19:00)
 > A permissions issue was addressed with improved validation. This issue is fixed in tvOS 17, iOS 17 and iPadOS 17, watchOS 10, macOS Sonoma 14. An app may be able to access sensitive user data.
 - [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name)	<img alt="forks" src="https://img.shields.io/github/forks/biscuitehh/cve-2023-40429-ez-device-name">	<img alt="stars" src="https://img.shields.io/github/stars/biscuitehh/cve-2023-40429-ez-device-name">

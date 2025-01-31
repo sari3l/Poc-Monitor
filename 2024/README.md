@@ -3063,6 +3063,11 @@ Affected users are recommended to disable the SAML authentication plugin by sett
 - [LLfam/CVE-2024-41018](https://github.com/LLfam/CVE-2024-41018)	<img alt="forks" src="https://img.shields.io/github/forks/LLfam/CVE-2024-41018">	<img alt="stars" src="https://img.shields.io/github/stars/LLfam/CVE-2024-41018">
 
 ---
+## CVE-2024-40815 ()
+> 
+- [w0wbox/CVE-2024-40815](https://github.com/w0wbox/CVE-2024-40815)	<img alt="forks" src="https://img.shields.io/github/forks/w0wbox/CVE-2024-40815">	<img alt="stars" src="https://img.shields.io/github/stars/w0wbox/CVE-2024-40815">
+
+---
 ## CVE-2024-40725 (2024-07-18T10:15:00)
 > A partial fix for  CVE-2024-39884 in the core of Apache HTTP Server 2.4.61 ignores some use of the legacy content-type based configuration of handlers. "AddType" and similar configuration, under some circumstances where files are requested indirectly, result in source code disclosure of local content. For example, PHP scripts may be served instead of interpreted.
 
