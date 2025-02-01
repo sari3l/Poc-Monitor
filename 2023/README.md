@@ -156,6 +156,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [Roonye660/CVE-2023-6548-POC](https://github.com/Roonye660/CVE-2023-6548-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Roonye660/CVE-2023-6548-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Roonye660/CVE-2023-6548-POC">
 
 ---
+## CVE-2023-6546 ()
+> 
+- [harithlab/CVE-2023-6546](https://github.com/harithlab/CVE-2023-6546)	<img alt="forks" src="https://img.shields.io/github/forks/harithlab/CVE-2023-6546">	<img alt="stars" src="https://img.shields.io/github/stars/harithlab/CVE-2023-6546">
+
+---
 ## CVE-2023-6538 (2023-12-11T18:15:00)
 > SMU versions prior to 14.8.7825.01 are susceptible to unintended information disclosure, through URL manipulation. Authenticated users in Storage, Server or combined Server+Storage administrative roles are able to access SMU configuration backup, that would normally be barred to those specific administrative roles. 
 - [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-6538">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-6538">
