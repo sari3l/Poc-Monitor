@@ -19,6 +19,7 @@
 ## CVE-2025-24118 ()
 > 
 - [rawtips/-CVE-2025-24118](https://github.com/rawtips/-CVE-2025-24118)	<img alt="forks" src="https://img.shields.io/github/forks/rawtips/-CVE-2025-24118">	<img alt="stars" src="https://img.shields.io/github/stars/rawtips/-CVE-2025-24118">
+- [jprx/CVE-2025-24118](https://github.com/jprx/CVE-2025-24118)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2025-24118">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2025-24118">
 
 ---
 ## CVE-2025-24085 ()
