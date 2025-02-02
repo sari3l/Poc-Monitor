@@ -1233,6 +1233,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [SyFi/CVE-2024-53407](https://github.com/SyFi/CVE-2024-53407)	<img alt="forks" src="https://img.shields.io/github/forks/SyFi/CVE-2024-53407">	<img alt="stars" src="https://img.shields.io/github/stars/SyFi/CVE-2024-53407">
 
 ---
+## CVE-2024-53393 ()
+> 
+- [alirezac0/CVE-2024-53393](https://github.com/alirezac0/CVE-2024-53393)	<img alt="forks" src="https://img.shields.io/github/forks/alirezac0/CVE-2024-53393">	<img alt="stars" src="https://img.shields.io/github/stars/alirezac0/CVE-2024-53393">
+
+---
 ## CVE-2024-53376 ()
 > 
 - [ThottySploity/CVE-2024-53376](https://github.com/ThottySploity/CVE-2024-53376)	<img alt="forks" src="https://img.shields.io/github/forks/ThottySploity/CVE-2024-53376">	<img alt="stars" src="https://img.shields.io/github/stars/ThottySploity/CVE-2024-53376">
