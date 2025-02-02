@@ -915,6 +915,11 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [ipratheep/CVE-2024-56924](https://github.com/ipratheep/CVE-2024-56924)	<img alt="forks" src="https://img.shields.io/github/forks/ipratheep/CVE-2024-56924">	<img alt="stars" src="https://img.shields.io/github/stars/ipratheep/CVE-2024-56924">
 
 ---
+## CVE-2024-56898 ()
+> 
+- [DRAGOWN/CVE-2024-56898](https://github.com/DRAGOWN/CVE-2024-56898)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2024-56898">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2024-56898">
+
+---
 ## CVE-2024-56662 ()
 > 
 - [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662)	<img alt="forks" src="https://img.shields.io/github/forks/nimosec/cve-2024-56662">	<img alt="stars" src="https://img.shields.io/github/stars/nimosec/cve-2024-56662">
