@@ -4373,6 +4373,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [tfrederick74656/cve-2024-3400-poc](https://github.com/tfrederick74656/cve-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tfrederick74656/cve-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tfrederick74656/cve-2024-3400-poc">
 - [nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-3400">
 - [XiaomingX/CVE-2024-3400-poc](https://github.com/XiaomingX/CVE-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-3400-poc">
+- [drake044/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400](https://github.com/drake044/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/drake044/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/drake044/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400">
 
 ---
 ## CVE-2024-3393 ()
