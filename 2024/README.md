@@ -1171,6 +1171,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [MarioTesoro/CVE-2024-54792](https://github.com/MarioTesoro/CVE-2024-54792)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-54792">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-54792">
 
 ---
+## CVE-2024-54772 ()
+> 
+- [deauther890/CVE-2024-54772](https://github.com/deauther890/CVE-2024-54772)	<img alt="forks" src="https://img.shields.io/github/forks/deauther890/CVE-2024-54772">	<img alt="stars" src="https://img.shields.io/github/stars/deauther890/CVE-2024-54772">
+
+---
 ## CVE-2024-54761 ()
 > 
 - [nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection](https://github.com/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection">
