@@ -3377,6 +3377,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
 
 ---
+## CVE-2024-39713 ()
+> 
+- [typical-pashochek/CVE-2024-39713](https://github.com/typical-pashochek/CVE-2024-39713)	<img alt="forks" src="https://img.shields.io/github/forks/typical-pashochek/CVE-2024-39713">	<img alt="stars" src="https://img.shields.io/github/stars/typical-pashochek/CVE-2024-39713">
+
+---
 ## CVE-2024-39700 (2024-07-16T18:15:00)
 > JupyterLab extension template is a  `copier` template for JupyterLab extensions. Repositories created using this template with `test` option include `update-integration-tests.yml` workflow which has an RCE vulnerability. Extension authors hosting their code on GitHub are urged to upgrade the template to the latest version. Users who made changes to `update-integration-tests.yml`, accept overwriting of this file and re-apply your changes later. Users may wish to temporarily disable GitHub Actions while working on the upgrade. We recommend rebasing all open pull requests from untrusted users as actions may run using the version from the `main` branch at the time when the pull request was created. Users who are upgrading from template version prior to 4.3.0 may wish to leave out proposed changes to the release workflow for now as it requires additional configuration.
 - [LOURC0D3/CVE-2024-39700-test](https://github.com/LOURC0D3/CVE-2024-39700-test)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-test">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-test">
