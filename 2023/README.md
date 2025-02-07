@@ -2563,6 +2563,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [0x0d3ad/CVE-2023-41425](https://github.com/0x0d3ad/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2023-41425">
 - [xpltive/CVE-2023-41425](https://github.com/xpltive/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/xpltive/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/xpltive/CVE-2023-41425">
 - [samu21req/CVE-2023-41425](https://github.com/samu21req/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/samu21req/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/samu21req/CVE-2023-41425">
+- [KGorbakon/CVE-2023-41425](https://github.com/KGorbakon/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/KGorbakon/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/KGorbakon/CVE-2023-41425">
 
 ---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
@@ -2825,6 +2826,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read](https://github.com/monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read">
 - [rvizx/CVE-2023-40028](https://github.com/rvizx/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-40028">
 - [godylockz/CVE-2023-40028](https://github.com/godylockz/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2023-40028">
+- [rehan6658/CVE-2023-40028](https://github.com/rehan6658/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/rehan6658/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/rehan6658/CVE-2023-40028">
 
 ---
 ## CVE-2023-40000 (2024-04-16T18:15:00)
@@ -6334,6 +6336,12 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [former-farmer/CVE-2023-24955-PoC](https://github.com/former-farmer/CVE-2023-24955-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/former-farmer/CVE-2023-24955-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/former-farmer/CVE-2023-24955-PoC">
 - [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-29357">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-29357">
 - [AndreOve/CVE-2023-24955-real-RCE](https://github.com/AndreOve/CVE-2023-24955-real-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AndreOve/CVE-2023-24955-real-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AndreOve/CVE-2023-24955-real-RCE">
+
+---
+## CVE-2023-24932 ()
+> 
+- [helleflo1312/Orchestrated-Powerhell-for-CVE-2023-24932](https://github.com/helleflo1312/Orchestrated-Powerhell-for-CVE-2023-24932)	<img alt="forks" src="https://img.shields.io/github/forks/helleflo1312/Orchestrated-Powerhell-for-CVE-2023-24932">	<img alt="stars" src="https://img.shields.io/github/stars/helleflo1312/Orchestrated-Powerhell-for-CVE-2023-24932">
+- [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-21894">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-21894">
 
 ---
 ## CVE-2023-24871 (2023-03-14T17:15:00)

@@ -959,6 +959,12 @@
 - [Kz0x-337/CVE-2021-44228](https://github.com/Kz0x-337/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Kz0x-337/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Kz0x-337/CVE-2021-44228">
 - [ZacharyZcR/CVE-2021-44228](https://github.com/ZacharyZcR/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/ZacharyZcR/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/ZacharyZcR/CVE-2021-44228">
 - [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt)	<img alt="forks" src="https://img.shields.io/github/forks/redhuntlabs/Log4JHunt">	<img alt="stars" src="https://img.shields.io/github/stars/redhuntlabs/Log4JHunt">
+- [qw3rtyou/CVE-2021-44228_dockernize](https://github.com/qw3rtyou/CVE-2021-44228_dockernize)	<img alt="forks" src="https://img.shields.io/github/forks/qw3rtyou/CVE-2021-44228_dockernize">	<img alt="stars" src="https://img.shields.io/github/stars/qw3rtyou/CVE-2021-44228_dockernize">
+- [AKA47SS/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/AKA47SS/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
+- [AKA47SS/Slient-URL-Exploit](https://github.com/AKA47SS/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/Slient-URL-Exploit">
+- [AKA47SS/Discord-Image-Logger-Stealer](https://github.com/AKA47SS/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/Discord-Image-Logger-Stealer">
+- [AKA47SS/PDF-FUD-Exploit](https://github.com/AKA47SS/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/PDF-FUD-Exploit">
+- [AKA47SS/HTA-Exploit](https://github.com/AKA47SS/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/HTA-Exploit">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -2266,6 +2272,7 @@
 - [luongchivi/CVE-2021-41773](https://github.com/luongchivi/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/luongchivi/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/luongchivi/CVE-2021-41773">
 - [FakesiteSecurity/CVE-2021-41773](https://github.com/FakesiteSecurity/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/FakesiteSecurity/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/FakesiteSecurity/CVE-2021-41773">
 - [Taldrid1/cve-2021-41773](https://github.com/Taldrid1/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Taldrid1/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Taldrid1/cve-2021-41773">
+- [tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773](https://github.com/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -6200,6 +6207,11 @@
 ## CVE-2021-30873 (2021-08-24T19:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in macOS Monterey 12.0.1. A malicious application may be able to elevate privileges.
 - [Live-Hack-CVE/CVE-2021-30873](https://github.com/Live-Hack-CVE/CVE-2021-30873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30873">
+
+---
+## CVE-2021-30862 ()
+> 
+- [Umarovm/CVE-2021-30862](https://github.com/Umarovm/CVE-2021-30862)	<img alt="forks" src="https://img.shields.io/github/forks/Umarovm/CVE-2021-30862">	<img alt="stars" src="https://img.shields.io/github/stars/Umarovm/CVE-2021-30862">
 
 ---
 ## CVE-2021-30860 (2021-08-24T19:15:00)
