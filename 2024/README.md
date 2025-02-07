@@ -2888,6 +2888,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [RonF98/CVE-2024-43451-POC](https://github.com/RonF98/CVE-2024-43451-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2024-43451-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2024-43451-POC">
 
 ---
+## CVE-2024-43425 ()
+> 
+- [Snizi/Moodle-CVE-2024-43425-Exploit](https://github.com/Snizi/Moodle-CVE-2024-43425-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Snizi/Moodle-CVE-2024-43425-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Snizi/Moodle-CVE-2024-43425-Exploit">
+
+---
 ## CVE-2024-43416 ()
 > 
 - [0xmupa/CVE-2024-43416-PoC](https://github.com/0xmupa/CVE-2024-43416-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-43416-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-43416-PoC">
