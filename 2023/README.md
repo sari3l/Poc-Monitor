@@ -6340,7 +6340,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ---
 ## CVE-2023-24932 ()
 > 
-- [helleflo1312/Orchestrated-Powerhell-for-CVE-2023-24932](https://github.com/helleflo1312/Orchestrated-Powerhell-for-CVE-2023-24932)	<img alt="forks" src="https://img.shields.io/github/forks/helleflo1312/Orchestrated-Powerhell-for-CVE-2023-24932">	<img alt="stars" src="https://img.shields.io/github/stars/helleflo1312/Orchestrated-Powerhell-for-CVE-2023-24932">
+- [helleflo1312/Orchestrated-Powershell-for-CVE-2023-24932](https://github.com/helleflo1312/Orchestrated-Powershell-for-CVE-2023-24932)	<img alt="forks" src="https://img.shields.io/github/forks/helleflo1312/Orchestrated-Powershell-for-CVE-2023-24932">	<img alt="stars" src="https://img.shields.io/github/stars/helleflo1312/Orchestrated-Powershell-for-CVE-2023-24932">
 - [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-21894">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-21894">
 
 ---
