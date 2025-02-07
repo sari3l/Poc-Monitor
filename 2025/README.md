@@ -84,6 +84,11 @@
 - [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015)	<img alt="forks" src="https://img.shields.io/github/forks/r3m0t3nu11/CVE-2025-1015">	<img alt="stars" src="https://img.shields.io/github/stars/r3m0t3nu11/CVE-2025-1015">
 
 ---
+## CVE-2025-0994 ()
+> 
+- [rxerium/CVE-2025-0994](https://github.com/rxerium/CVE-2025-0994)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-0994">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-0994">
+
+---
 ## CVE-2025-0929 ()
 > 
 - [McTavishSue/CVE-2025-0929](https://github.com/McTavishSue/CVE-2025-0929)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-0929">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-0929">
