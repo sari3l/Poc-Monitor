@@ -1136,6 +1136,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [tcbutler320/CVE-2024-55040-Sensaphone-XSS](https://github.com/tcbutler320/CVE-2024-55040-Sensaphone-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/tcbutler320/CVE-2024-55040-Sensaphone-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/tcbutler320/CVE-2024-55040-Sensaphone-XSS">
 
 ---
+## CVE-2024-54916 ()
+> 
+- [SAHALLL/CVE-2024-54916](https://github.com/SAHALLL/CVE-2024-54916)	<img alt="forks" src="https://img.shields.io/github/forks/SAHALLL/CVE-2024-54916">	<img alt="stars" src="https://img.shields.io/github/stars/SAHALLL/CVE-2024-54916">
+
+---
 ## CVE-2024-54910 ()
 > 
 - [KrakenEU/CVE-2024-54910](https://github.com/KrakenEU/CVE-2024-54910)	<img alt="forks" src="https://img.shields.io/github/forks/KrakenEU/CVE-2024-54910">	<img alt="stars" src="https://img.shields.io/github/stars/KrakenEU/CVE-2024-54910">
