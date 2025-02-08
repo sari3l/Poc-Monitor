@@ -758,6 +758,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Nxploited/CVE-2024-6366-PoC](https://github.com/Nxploited/CVE-2024-6366-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6366-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6366-PoC">
 
 ---
+## CVE-2024-6244 ()
+> 
+- [Nxploited/CVE-2024-6244](https://github.com/Nxploited/CVE-2024-6244)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6244">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6244">
+
+---
 ## CVE-2024-6222 (2024-07-09T18:15:00)
 > In Docker Desktop before v4.29.0, an attacker who has gained access to the Docker Desktop VM through a container breakout can further escape to the host by passing extensions and dashboard related IPC messages.
 
