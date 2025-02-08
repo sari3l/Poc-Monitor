@@ -34,6 +34,11 @@
 - [bronsoneaver/CVE-2025-24085](https://github.com/bronsoneaver/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-24085">
 
 ---
+## CVE-2025-23369 ()
+> 
+- [hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2025-23369">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2025-23369">
+
+---
 ## CVE-2025-23040 ()
 > 
 - [GabrieleDattile/CVE-2025-23040](https://github.com/GabrieleDattile/CVE-2025-23040)	<img alt="forks" src="https://img.shields.io/github/forks/GabrieleDattile/CVE-2025-23040">	<img alt="stars" src="https://img.shields.io/github/stars/GabrieleDattile/CVE-2025-23040">
