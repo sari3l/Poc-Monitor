@@ -3969,6 +3969,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [thestar0/CVE-2024-36401-WoodpeckerPlugin](https://github.com/thestar0/CVE-2024-36401-WoodpeckerPlugin)	<img alt="forks" src="https://img.shields.io/github/forks/thestar0/CVE-2024-36401-WoodpeckerPlugin">	<img alt="stars" src="https://img.shields.io/github/stars/thestar0/CVE-2024-36401-WoodpeckerPlugin">
 - [XiaomingX/cve-2024-36401-poc](https://github.com/XiaomingX/cve-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-36401-poc">
 - [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2024-36401">
+- [wellwornele/CVE-2024-36401](https://github.com/wellwornele/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/wellwornele/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/wellwornele/CVE-2024-36401">
 
 ---
 ## CVE-2024-36117 ()
