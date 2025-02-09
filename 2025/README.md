@@ -37,6 +37,7 @@
 ## CVE-2025-23369 ()
 > 
 - [hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2025-23369">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2025-23369">
+- [Arian91/CVE-2025-23369_SAML_bypass](https://github.com/Arian91/CVE-2025-23369_SAML_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Arian91/CVE-2025-23369_SAML_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Arian91/CVE-2025-23369_SAML_bypass">
 
 ---
 ## CVE-2025-23040 ()
