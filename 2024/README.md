@@ -1081,6 +1081,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [virus-or-not/CVE-2024-55591](https://github.com/virus-or-not/CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/virus-or-not/CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/virus-or-not/CVE-2024-55591">
 - [exfil0/CVE-2024-55591-POC](https://github.com/exfil0/CVE-2024-55591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/CVE-2024-55591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/CVE-2024-55591-POC">
 - [rawtips/CVE-2024-55591](https://github.com/rawtips/CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/rawtips/CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/rawtips/CVE-2024-55591">
+- [0x7556/CVE-2024-55591](https://github.com/0x7556/CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2024-55591">
 
 ---
 ## CVE-2024-55587 ()
