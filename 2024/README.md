@@ -3460,6 +3460,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)	<img alt="forks" src="https://img.shields.io/github/forks/5r1an/CVE-2024-39203">	<img alt="stars" src="https://img.shields.io/github/stars/5r1an/CVE-2024-39203">
 
 ---
+## CVE-2024-39199 ()
+> 
+- [phtcloud-dev/CVE-2024-39199](https://github.com/phtcloud-dev/CVE-2024-39199)	<img alt="forks" src="https://img.shields.io/github/forks/phtcloud-dev/CVE-2024-39199">	<img alt="stars" src="https://img.shields.io/github/stars/phtcloud-dev/CVE-2024-39199">
+
+---
 ## CVE-2024-39123 ()
 > 
 - [theexploiters/CVE-2024-39123-Exploit](https://github.com/theexploiters/CVE-2024-39123-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-39123-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-39123-Exploit">
