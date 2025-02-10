@@ -1649,6 +1649,7 @@ use after free.
 > NGINX before 1.17.7, with certain error_page configurations, allows HTTP request smuggling, as demonstrated by the ability of an attacker to read unauthorized web pages in environments where NGINX is being fronted by a load balancer.
 - [0xleft/CVE-2019-20372](https://github.com/0xleft/CVE-2019-20372)	<img alt="forks" src="https://img.shields.io/github/forks/0xleft/CVE-2019-20372">	<img alt="stars" src="https://img.shields.io/github/stars/0xleft/CVE-2019-20372">
 - [vuongnv3389-sec/CVE-2019-20372](https://github.com/vuongnv3389-sec/CVE-2019-20372)	<img alt="forks" src="https://img.shields.io/github/forks/vuongnv3389-sec/CVE-2019-20372">	<img alt="stars" src="https://img.shields.io/github/stars/vuongnv3389-sec/CVE-2019-20372">
+- [moften/CVE-2019-20372](https://github.com/moften/CVE-2019-20372)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2019-20372">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2019-20372">
 
 ---
 ## CVE-2019-20330 (2020-01-03T04:15:00)
