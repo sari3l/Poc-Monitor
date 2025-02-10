@@ -822,6 +822,7 @@
 - [Eremiel/CVE-2019-5420](https://github.com/Eremiel/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/Eremiel/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/Eremiel/CVE-2019-5420">
 - [AnasTaoutaou/CVE-2019-5420](https://github.com/AnasTaoutaou/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/AnasTaoutaou/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/AnasTaoutaou/CVE-2019-5420">
 - [knqyf263/CVE-2019-5420](https://github.com/knqyf263/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2019-5420">
+- [WildWestCyberSecurity/cve-2019-5420-POC](https://github.com/WildWestCyberSecurity/cve-2019-5420-POC)	<img alt="forks" src="https://img.shields.io/github/forks/WildWestCyberSecurity/cve-2019-5420-POC">	<img alt="stars" src="https://img.shields.io/github/stars/WildWestCyberSecurity/cve-2019-5420-POC">
 
 ---
 ## CVE-2019-5418 (2019-03-27T14:29:00)
