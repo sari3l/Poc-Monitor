@@ -3251,6 +3251,9 @@ URL that curl has been told to operate with.
 - [m1sn0w/CVE-2023-3824](https://github.com/m1sn0w/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/m1sn0w/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/m1sn0w/CVE-2023-3824">
 - [baesh3r/poc-CVE-2023-3824](https://github.com/baesh3r/poc-CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/baesh3r/poc-CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/baesh3r/poc-CVE-2023-3824">
 - [fr33c0d3/poc-cve-2023-3824](https://github.com/fr33c0d3/poc-cve-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/fr33c0d3/poc-cve-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/fr33c0d3/poc-cve-2023-3824">
+- [exploitdevelop/CVE-2023-3824](https://github.com/exploitdevelop/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/exploitdevelop/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/exploitdevelop/CVE-2023-3824">
+- [s1mpl3c0d3/cvepoc](https://github.com/s1mpl3c0d3/cvepoc)	<img alt="forks" src="https://img.shields.io/github/forks/s1mpl3c0d3/cvepoc">	<img alt="stars" src="https://img.shields.io/github/stars/s1mpl3c0d3/cvepoc">
+- [bluefish3r/poc-cve](https://github.com/bluefish3r/poc-cve)	<img alt="forks" src="https://img.shields.io/github/forks/bluefish3r/poc-cve">	<img alt="stars" src="https://img.shields.io/github/stars/bluefish3r/poc-cve">
 
 ---
 ## CVE-2023-38146 (2023-09-12T17:15:00)
@@ -6112,6 +6115,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [m-lito13/SealSecurity_Exam](https://github.com/m-lito13/SealSecurity_Exam)	<img alt="forks" src="https://img.shields.io/github/forks/m-lito13/SealSecurity_Exam">	<img alt="stars" src="https://img.shields.io/github/stars/m-lito13/SealSecurity_Exam">
 - [ronmadar/Open-Source-Seal-Security](https://github.com/ronmadar/Open-Source-Seal-Security)	<img alt="forks" src="https://img.shields.io/github/forks/ronmadar/Open-Source-Seal-Security">	<img alt="stars" src="https://img.shields.io/github/stars/ronmadar/Open-Source-Seal-Security">
 - [CUCUMBERanOrSNCompany/SealSecurityAssignment](https://github.com/CUCUMBERanOrSNCompany/SealSecurityAssignment)	<img alt="forks" src="https://img.shields.io/github/forks/CUCUMBERanOrSNCompany/SealSecurityAssignment">	<img alt="stars" src="https://img.shields.io/github/stars/CUCUMBERanOrSNCompany/SealSecurityAssignment">
+- [AlbertoChar/tough-cookie-exploit](https://github.com/AlbertoChar/tough-cookie-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AlbertoChar/tough-cookie-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AlbertoChar/tough-cookie-exploit">
 
 ---
 ## CVE-2023-26067 (2023-04-10T20:15:00)
