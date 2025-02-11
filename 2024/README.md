@@ -2746,6 +2746,11 @@ Allocated by task 6166:
 - [w0r1i0g1ht/CVE-2024-4439](https://github.com/w0r1i0g1ht/CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/w0r1i0g1ht/CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/w0r1i0g1ht/CVE-2024-4439">
 
 ---
+## CVE-2024-44378 ()
+> 
+- [aezdmr/CVE-2024-44378](https://github.com/aezdmr/CVE-2024-44378)	<img alt="forks" src="https://img.shields.io/github/forks/aezdmr/CVE-2024-44378">	<img alt="stars" src="https://img.shields.io/github/stars/aezdmr/CVE-2024-44378">
+
+---
 ## CVE-2024-44349 (2024-10-08T17:15:00)
 > A SQL injection vulnerability in login portal in AnteeoWMS before v4.7.34 allows unauthenticated attackers to execute arbitrary SQL commands via the username parameter and disclosure of some data in the underlying DB.
 - [AndreaF17/PoC-CVE-2024-44349](https://github.com/AndreaF17/PoC-CVE-2024-44349)	<img alt="forks" src="https://img.shields.io/github/forks/AndreaF17/PoC-CVE-2024-44349">	<img alt="stars" src="https://img.shields.io/github/stars/AndreaF17/PoC-CVE-2024-44349">

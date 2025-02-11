@@ -21,6 +21,11 @@
 - [DoTTak/CVE-2025-24587](https://github.com/DoTTak/CVE-2025-24587)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-24587">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-24587">
 
 ---
+## CVE-2025-24200 ()
+> 
+- [McTavishSue/CVE-2025-24200](https://github.com/McTavishSue/CVE-2025-24200)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-24200">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-24200">
+
+---
 ## CVE-2025-24118 ()
 > 
 - [rawtips/-CVE-2025-24118](https://github.com/rawtips/-CVE-2025-24118)	<img alt="forks" src="https://img.shields.io/github/forks/rawtips/-CVE-2025-24118">	<img alt="stars" src="https://img.shields.io/github/stars/rawtips/-CVE-2025-24118">
