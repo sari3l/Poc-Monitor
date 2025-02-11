@@ -3097,7 +3097,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ---
 ## CVE-2024-42009 ()
 > 
-- [0xbassiouny1337/exploit_CVE-2024-42009](https://github.com/0xbassiouny1337/exploit_CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/0xbassiouny1337/exploit_CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/0xbassiouny1337/exploit_CVE-2024-42009">
+- [0xbassiouny1337/CVE-2024-42009](https://github.com/0xbassiouny1337/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/0xbassiouny1337/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/0xbassiouny1337/CVE-2024-42009">
 
 ---
 ## CVE-2024-41992 (2024-11-11T01:15:00)
