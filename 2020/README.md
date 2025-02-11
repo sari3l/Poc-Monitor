@@ -1649,6 +1649,7 @@
 - [0xN7y/CVE-2020-29607](https://github.com/0xN7y/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/0xN7y/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/0xN7y/CVE-2020-29607">
 - [0xAbbarhSF/CVE-2020-29607](https://github.com/0xAbbarhSF/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/0xAbbarhSF/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/0xAbbarhSF/CVE-2020-29607">
 - [Alienfader/CVE-2020-29607](https://github.com/Alienfader/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/Alienfader/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/Alienfader/CVE-2020-29607">
+- [Alienfader/CVE-2020-29607](https://github.com/Alienfader/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/Alienfader/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/Alienfader/CVE-2020-29607">
 
 ---
 ## CVE-2020-29508 (2022-07-11T20:15:00)
