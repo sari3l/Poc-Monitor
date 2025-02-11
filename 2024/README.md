@@ -8579,6 +8579,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/reinh3rz/CVE-2024-10958-WPPA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/reinh3rz/CVE-2024-10958-WPPA-Exploit">
 
 ---
+## CVE-2024-10930 ()
+> 
+- [sahil3276/CVE-2024-10930](https://github.com/sahil3276/CVE-2024-10930)	<img alt="forks" src="https://img.shields.io/github/forks/sahil3276/CVE-2024-10930">	<img alt="stars" src="https://img.shields.io/github/stars/sahil3276/CVE-2024-10930">
+
+---
 ## CVE-2024-10924 ()
 > 
 - [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10924">
