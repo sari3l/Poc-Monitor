@@ -1251,6 +1251,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS)	<img alt="forks" src="https://img.shields.io/github/forks/K4yd0/CVE-2024-5420_XSS">	<img alt="stars" src="https://img.shields.io/github/stars/K4yd0/CVE-2024-5420_XSS">
 
 ---
+## CVE-2024-54160 ()
+> 
+- [Jflye/CVE-2024-54160--Opensearch-HTML-Injection](https://github.com/Jflye/CVE-2024-54160--Opensearch-HTML-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/Jflye/CVE-2024-54160--Opensearch-HTML-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/Jflye/CVE-2024-54160--Opensearch-HTML-Injection">
+
+---
 ## CVE-2024-54152 ()
 > 
 - [math-x-io/CVE-2024-54152-poc](https://github.com/math-x-io/CVE-2024-54152-poc)	<img alt="forks" src="https://img.shields.io/github/forks/math-x-io/CVE-2024-54152-poc">	<img alt="stars" src="https://img.shields.io/github/stars/math-x-io/CVE-2024-54152-poc">
