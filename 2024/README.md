@@ -7890,6 +7890,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [JohnBordon/CVE-2024-21410-poc](https://github.com/JohnBordon/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/JohnBordon/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/JohnBordon/CVE-2024-21410-poc">
 
 ---
+## CVE-2024-21409 ()
+> 
+- [vkairy/cve-2024-21409-repro](https://github.com/vkairy/cve-2024-21409-repro)	<img alt="forks" src="https://img.shields.io/github/forks/vkairy/cve-2024-21409-repro">	<img alt="stars" src="https://img.shields.io/github/stars/vkairy/cve-2024-21409-repro">
+
+---
 ## CVE-2024-21407 (2024-03-12T17:15:00)
 > Windows Hyper-V Remote Code Execution Vulnerability
 - [swagcrafte/CVE-2024-21407-POC](https://github.com/swagcrafte/CVE-2024-21407-POC)	<img alt="forks" src="https://img.shields.io/github/forks/swagcrafte/CVE-2024-21407-POC">	<img alt="stars" src="https://img.shields.io/github/stars/swagcrafte/CVE-2024-21407-POC">
