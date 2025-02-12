@@ -6180,6 +6180,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [10cks/CVE-2024-27460-installer](https://github.com/10cks/CVE-2024-27460-installer)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-27460-installer">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-27460-installer">
 
 ---
+## CVE-2024-27448 ()
+> 
+- [rawtips/CVE-2024-27448-poc](https://github.com/rawtips/CVE-2024-27448-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rawtips/CVE-2024-27448-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rawtips/CVE-2024-27448-poc">
+
+---
 ## CVE-2024-27348 (2024-04-22T14:15:00)
 > RCE-Remote Command Execution vulnerability in Apache HugeGraph-Server.This issue affects Apache HugeGraph-Server: from 1.0.0 before 1.3.0 in Java8 & Java11
 
