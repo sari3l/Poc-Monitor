@@ -1131,8 +1131,10 @@
 - [MalekAlthubiany/CVE-2021-43798](https://github.com/MalekAlthubiany/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/MalekAlthubiany/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/MalekAlthubiany/CVE-2021-43798">
 - [xchg-rax-rax/CVE-2021-43798](https://github.com/xchg-rax-rax/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/xchg-rax-rax/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/xchg-rax-rax/CVE-2021-43798">
 - [Sic4rio/Grafana-Decryptor-for-CVE-2021-43798](https://github.com/Sic4rio/Grafana-Decryptor-for-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Sic4rio/Grafana-Decryptor-for-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Sic4rio/Grafana-Decryptor-for-CVE-2021-43798">
-- [sazzad1337/Grafana-CVE-2021-43798](https://github.com/sazzad1337/Grafana-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/sazzad1337/Grafana-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/sazzad1337/Grafana-CVE-2021-43798">
+- [0xSAZZAD/Grafana-CVE-2021-43798](https://github.com/0xSAZZAD/Grafana-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/0xSAZZAD/Grafana-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/0xSAZZAD/Grafana-CVE-2021-43798">
 - [ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux](https://github.com/ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux">
+- [davidr-io/Grafana-8.3-Directory-Traversal](https://github.com/davidr-io/Grafana-8.3-Directory-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/davidr-io/Grafana-8.3-Directory-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/davidr-io/Grafana-8.3-Directory-Traversal">
+- [wezoomagency/GrafXploit](https://github.com/wezoomagency/GrafXploit)	<img alt="forks" src="https://img.shields.io/github/forks/wezoomagency/GrafXploit">	<img alt="stars" src="https://img.shields.io/github/stars/wezoomagency/GrafXploit">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
