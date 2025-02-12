@@ -985,6 +985,16 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [vigneshr232/CVE-2024-56889](https://github.com/vigneshr232/CVE-2024-56889)	<img alt="forks" src="https://img.shields.io/github/forks/vigneshr232/CVE-2024-56889">	<img alt="stars" src="https://img.shields.io/github/stars/vigneshr232/CVE-2024-56889">
 
 ---
+## CVE-2024-56883 ()
+> 
+- [trustcves/CVE-2024-56883](https://github.com/trustcves/CVE-2024-56883)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-56883">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-56883">
+
+---
+## CVE-2024-56882 ()
+> 
+- [trustcves/CVE-2024-56882](https://github.com/trustcves/CVE-2024-56882)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-56882">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-56882">
+
+---
 ## CVE-2024-56662 ()
 > 
 - [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662)	<img alt="forks" src="https://img.shields.io/github/forks/nimosec/cve-2024-56662">	<img alt="stars" src="https://img.shields.io/github/stars/nimosec/cve-2024-56662">
