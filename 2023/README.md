@@ -6069,6 +6069,7 @@ and the severity is therefore considered low.
 ## CVE-2023-26326 ()
 > 
 - [omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961](https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">
+- [mesudmammad1/CVE-2023-26326_Buddyform_exploit](https://github.com/mesudmammad1/CVE-2023-26326_Buddyform_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mesudmammad1/CVE-2023-26326_Buddyform_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mesudmammad1/CVE-2023-26326_Buddyform_exploit">
 
 ---
 ## CVE-2023-26269 (2023-04-03T08:15:00)
