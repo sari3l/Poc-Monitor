@@ -1268,7 +1268,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ---
 ## CVE-2024-54160 ()
 > 
-- [Jflye/CVE-2024-54160--Opensearch-HTML-Injection](https://github.com/Jflye/CVE-2024-54160--Opensearch-HTML-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/Jflye/CVE-2024-54160--Opensearch-HTML-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/Jflye/CVE-2024-54160--Opensearch-HTML-Injection">
+- [Jflye/CVE-2024-54160-Opensearch-HTML-And-Injection-Stored-XSS](https://github.com/Jflye/CVE-2024-54160-Opensearch-HTML-And-Injection-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Jflye/CVE-2024-54160-Opensearch-HTML-And-Injection-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Jflye/CVE-2024-54160-Opensearch-HTML-And-Injection-Stored-XSS">
 
 ---
 ## CVE-2024-54152 ()
