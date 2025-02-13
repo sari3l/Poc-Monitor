@@ -848,6 +848,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [s4fv4n/CVE-2024-57784](https://github.com/s4fv4n/CVE-2024-57784)	<img alt="forks" src="https://img.shields.io/github/forks/s4fv4n/CVE-2024-57784">	<img alt="stars" src="https://img.shields.io/github/stars/s4fv4n/CVE-2024-57784">
 
 ---
+## CVE-2024-57778 ()
+> 
+- [KUK3N4N/CVE-2024-57778](https://github.com/KUK3N4N/CVE-2024-57778)	<img alt="forks" src="https://img.shields.io/github/forks/KUK3N4N/CVE-2024-57778">	<img alt="stars" src="https://img.shields.io/github/stars/KUK3N4N/CVE-2024-57778">
+
+---
 ## CVE-2024-57727 ()
 > 
 - [imjdl/CVE-2024-57727](https://github.com/imjdl/CVE-2024-57727)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2024-57727">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2024-57727">
