@@ -39,6 +39,11 @@
 - [bronsoneaver/CVE-2025-24085](https://github.com/bronsoneaver/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-24085">
 
 ---
+## CVE-2025-24016 ()
+> 
+- [huseyinstif/CVE-2025-24016-Nuclei-Template](https://github.com/huseyinstif/CVE-2025-24016-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2025-24016-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2025-24016-Nuclei-Template">
+
+---
 ## CVE-2025-23369 ()
 > 
 - [hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2025-23369">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2025-23369">
@@ -125,3 +130,8 @@
 - [Hexastrike/Ivanti-Connect-Secure-Logs-Parser](https://github.com/Hexastrike/Ivanti-Connect-Secure-Logs-Parser)	<img alt="forks" src="https://img.shields.io/github/forks/Hexastrike/Ivanti-Connect-Secure-Logs-Parser">	<img alt="stars" src="https://img.shields.io/github/stars/Hexastrike/Ivanti-Connect-Secure-Logs-Parser">
 - [chiefchainer/CVE-2025-0282](https://github.com/chiefchainer/CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/chiefchainer/CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/chiefchainer/CVE-2025-0282">
 - [AdaniKamal/CVE-2025-0282](https://github.com/AdaniKamal/CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/AdaniKamal/CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/AdaniKamal/CVE-2025-0282">
+
+---
+## CVE-2025-0108 ()
+> 
+- [iSee857/CVE-2025-0108-PoC](https://github.com/iSee857/CVE-2025-0108-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-0108-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-0108-PoC">
