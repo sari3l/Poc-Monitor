@@ -4036,6 +4036,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2024-36401">
 - [wellwornele/CVE-2024-36401](https://github.com/wellwornele/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/wellwornele/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/wellwornele/CVE-2024-36401">
 - [whitebear-ch/GeoServerExploit](https://github.com/whitebear-ch/GeoServerExploit)	<img alt="forks" src="https://img.shields.io/github/forks/whitebear-ch/GeoServerExploit">	<img alt="stars" src="https://img.shields.io/github/stars/whitebear-ch/GeoServerExploit">
+- [unlinedvol/CVE-2024-36401](https://github.com/unlinedvol/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/unlinedvol/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/unlinedvol/CVE-2024-36401">
 
 ---
 ## CVE-2024-36117 ()
