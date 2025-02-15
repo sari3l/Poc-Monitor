@@ -1235,6 +1235,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-5452 (2024-06-06T18:15:00)
 > A remote code execution (RCE) vulnerability exists in the lightning-ai/pytorch-lightning library version 2.2.1 due to improper handling of deserialized user input and mismanagement of dunder attributes by the `deepdiff` library. The library uses `deepdiff.Delta` objects to modify application state based on frontend actions. However, it is possible to bypass the intended restrictions on modifying dunder attributes, allowing an attacker to construct a serialized delta that passes the deserializer whitelist and contains dunder attributes. When processed, this can be exploited to access other modules, classes, and instances, leading to arbitrary attribute write and total RCE on any self-hosted pytorch-lightning application in its default configuration, as the delta endpoint is enabled by default.
 - [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-5452-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-5452-poc">
+- [skrkcb2/CVE-2024-5452](https://github.com/skrkcb2/CVE-2024-5452)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/CVE-2024-5452">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/CVE-2024-5452">
 
 ---
 ## CVE-2024-54507 ()
