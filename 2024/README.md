@@ -3603,6 +3603,7 @@ For this to impact an application, all of the following must be true:
 > 
 - [masa42/CVE-2024-38819-POC](https://github.com/masa42/CVE-2024-38819-POC)	<img alt="forks" src="https://img.shields.io/github/forks/masa42/CVE-2024-38819-POC">	<img alt="stars" src="https://img.shields.io/github/stars/masa42/CVE-2024-38819-POC">
 - [GhostS3c/CVE-2024-38819](https://github.com/GhostS3c/CVE-2024-38819)	<img alt="forks" src="https://img.shields.io/github/forks/GhostS3c/CVE-2024-38819">	<img alt="stars" src="https://img.shields.io/github/stars/GhostS3c/CVE-2024-38819">
+- [skrkcb2/cve-2024-38819](https://github.com/skrkcb2/cve-2024-38819)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/cve-2024-38819">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/cve-2024-38819">
 
 ---
 ## CVE-2024-38816 (2024-09-13T06:15:00)
