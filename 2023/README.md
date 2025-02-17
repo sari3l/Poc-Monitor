@@ -51,6 +51,7 @@
 - [olebris/Exploit_CVE_2023_7028-](https://github.com/olebris/Exploit_CVE_2023_7028-)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/Exploit_CVE_2023_7028-">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/Exploit_CVE_2023_7028-">
 - [gh-ost00/CVE-2023-7028](https://github.com/gh-ost00/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2023-7028">
 - [googlei1996/CVE-2023-7028](https://github.com/googlei1996/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/googlei1996/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/googlei1996/CVE-2023-7028">
+- [sariamubeen/CVE-2023-7028](https://github.com/sariamubeen/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/sariamubeen/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/sariamubeen/CVE-2023-7028">
 
 ---
 ## CVE-2023-7016 (2024-02-27T11:15:00)
