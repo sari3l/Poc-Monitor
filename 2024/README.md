@@ -1025,6 +1025,11 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit](https://github.com/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit">
 
 ---
+## CVE-2024-56477 ()
+> 
+- [0xbughunter/CVE-2024-56477](https://github.com/0xbughunter/CVE-2024-56477)	<img alt="forks" src="https://img.shields.io/github/forks/0xbughunter/CVE-2024-56477">	<img alt="stars" src="https://img.shields.io/github/stars/0xbughunter/CVE-2024-56477">
+
+---
 ## CVE-2024-56433 ()
 > 
 - [JonnyWhatshisface/CVE-2024-56433](https://github.com/JonnyWhatshisface/CVE-2024-56433)	<img alt="forks" src="https://img.shields.io/github/forks/JonnyWhatshisface/CVE-2024-56433">	<img alt="stars" src="https://img.shields.io/github/stars/JonnyWhatshisface/CVE-2024-56433">
