@@ -967,6 +967,7 @@
 - [AKA47SS/Discord-Image-Logger-Stealer](https://github.com/AKA47SS/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/Discord-Image-Logger-Stealer">
 - [AKA47SS/PDF-FUD-Exploit](https://github.com/AKA47SS/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/PDF-FUD-Exploit">
 - [AKA47SS/HTA-Exploit](https://github.com/AKA47SS/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/HTA-Exploit">
+- [yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-](https://github.com/yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
