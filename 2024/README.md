@@ -8679,6 +8679,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [Nxploited/CVE-2024-10924-Exploit](https://github.com/Nxploited/CVE-2024-10924-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10924-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10924-Exploit">
 - [cy3erdr4g0n/CVE-2024-10924](https://github.com/cy3erdr4g0n/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/cy3erdr4g0n/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/cy3erdr4g0n/CVE-2024-10924">
 - [h8sU/wordpress-cve-2024-10924-exploit](https://github.com/h8sU/wordpress-cve-2024-10924-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/h8sU/wordpress-cve-2024-10924-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/h8sU/wordpress-cve-2024-10924-exploit">
+- [sariamubeen/CVE-2024-10924](https://github.com/sariamubeen/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/sariamubeen/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/sariamubeen/CVE-2024-10924">
 
 ---
 ## CVE-2024-10920 (2024-11-06T16:15:00)
