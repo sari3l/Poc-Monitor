@@ -2899,6 +2899,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/CVE-2024-4367-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/CVE-2024-4367-Analysis">
 - [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample)	<img alt="forks" src="https://img.shields.io/github/forks/pedrochalegre7/CVE-2024-4367-pdf-sample">	<img alt="stars" src="https://img.shields.io/github/stars/pedrochalegre7/CVE-2024-4367-pdf-sample">
 - [exfil0/WEAPONIZING-CVE-2024-4367](https://github.com/exfil0/WEAPONIZING-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/WEAPONIZING-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/WEAPONIZING-CVE-2024-4367">
+- [inpentest/CVE-2024-4367-PoC](https://github.com/inpentest/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/inpentest/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/inpentest/CVE-2024-4367-PoC">
 
 ---
 ## CVE-2024-43639 ()
