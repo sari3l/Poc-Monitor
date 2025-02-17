@@ -496,6 +496,7 @@
 ## CVE-2021-44967 ()
 > 
 - [D3Ext/CVE-2021-44967](https://github.com/D3Ext/CVE-2021-44967)	<img alt="forks" src="https://img.shields.io/github/forks/D3Ext/CVE-2021-44967">	<img alt="stars" src="https://img.shields.io/github/stars/D3Ext/CVE-2021-44967">
+- [godylockz/CVE-2021-44967](https://github.com/godylockz/CVE-2021-44967)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2021-44967">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2021-44967">
 
 ---
 ## CVE-2021-44910 ()
