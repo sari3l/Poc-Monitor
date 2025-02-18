@@ -6,6 +6,16 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-26466 ()
+> 
+- [rxerium/CVE-2025-26466](https://github.com/rxerium/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26466">
+
+---
+## CVE-2025-26465 ()
+> 
+- [rxerium/CVE-2025-26465](https://github.com/rxerium/CVE-2025-26465)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26465">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26465">
+
+---
 ## CVE-2025-25965 ()
 > 
 - [Sudo-Sakib/CVE-2025-25965](https://github.com/Sudo-Sakib/CVE-2025-25965)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-Sakib/CVE-2025-25965">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-Sakib/CVE-2025-25965">
