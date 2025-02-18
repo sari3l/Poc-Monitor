@@ -121,6 +121,11 @@
 - [ynwarcs/CVE-2025-21298](https://github.com/ynwarcs/CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2025-21298">
 
 ---
+## CVE-2025-10792 ()
+> 
+- [ZackSecurity/CVE-2025-10792-test](https://github.com/ZackSecurity/CVE-2025-10792-test)	<img alt="forks" src="https://img.shields.io/github/forks/ZackSecurity/CVE-2025-10792-test">	<img alt="stars" src="https://img.shields.io/github/stars/ZackSecurity/CVE-2025-10792-test">
+
+---
 ## CVE-2025-1015 ()
 > 
 - [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015)	<img alt="forks" src="https://img.shields.io/github/forks/r3m0t3nu11/CVE-2025-1015">	<img alt="stars" src="https://img.shields.io/github/stars/r3m0t3nu11/CVE-2025-1015">
