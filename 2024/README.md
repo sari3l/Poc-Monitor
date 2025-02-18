@@ -3010,6 +3010,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [expl0itsecurity/CVE-2024-43093-43047](https://github.com/expl0itsecurity/CVE-2024-43093-43047)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-43093-43047">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-43093-43047">
 
 ---
+## CVE-2024-43088 ()
+> 
+- [nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088](https://github.com/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088">
+
+---
 ## CVE-2024-43044 (2024-08-07T14:15:00)
 > Jenkins 2.470 and earlier, LTS 2.452.3 and earlier allows agent processes to read arbitrary files from the Jenkins controller file system by using the `ClassLoaderProxy#fetchJar` method in the Remoting library.
 - [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044)	<img alt="forks" src="https://img.shields.io/github/forks/HwMex0/CVE-2024-43044">	<img alt="stars" src="https://img.shields.io/github/stars/HwMex0/CVE-2024-43044">

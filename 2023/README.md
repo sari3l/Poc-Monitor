@@ -1027,6 +1027,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [yanfernandess/Looney-Tunables-CVE-2023-4911](https://github.com/yanfernandess/Looney-Tunables-CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/yanfernandess/Looney-Tunables-CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/yanfernandess/Looney-Tunables-CVE-2023-4911">
 - [NishanthAnand21/CVE-2023-4911-PoC](https://github.com/NishanthAnand21/CVE-2023-4911-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NishanthAnand21/CVE-2023-4911-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NishanthAnand21/CVE-2023-4911-PoC">
 - [xem6/CVE-2023-4911](https://github.com/xem6/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/xem6/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/xem6/CVE-2023-4911">
+- [Billar42/CVE-2023-4911](https://github.com/Billar42/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Billar42/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Billar42/CVE-2023-4911">
 
 ---
 ## CVE-2023-49103 (2023-11-21T22:15:00)
