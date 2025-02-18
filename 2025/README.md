@@ -182,3 +182,4 @@
 > 
 - [iSee857/CVE-2025-0108-PoC](https://github.com/iSee857/CVE-2025-0108-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-0108-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-0108-PoC">
 - [FOLKS-iwd/CVE-2025-0108-PoC](https://github.com/FOLKS-iwd/CVE-2025-0108-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-0108-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-0108-PoC">
+- [fr4nc1stein/CVE-2025-0108-SCAN](https://github.com/fr4nc1stein/CVE-2025-0108-SCAN)	<img alt="forks" src="https://img.shields.io/github/forks/fr4nc1stein/CVE-2025-0108-SCAN">	<img alt="stars" src="https://img.shields.io/github/stars/fr4nc1stein/CVE-2025-0108-SCAN">
