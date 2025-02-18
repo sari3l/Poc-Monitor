@@ -905,6 +905,11 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 - [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488)	<img alt="forks" src="https://img.shields.io/github/forks/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">	<img alt="stars" src="https://img.shields.io/github/stars/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">
 
 ---
+## CVE-2024-57484 ()
+> 
+- [yogeswaran6383/CVE-2024-57484](https://github.com/yogeswaran6383/CVE-2024-57484)	<img alt="forks" src="https://img.shields.io/github/forks/yogeswaran6383/CVE-2024-57484">	<img alt="stars" src="https://img.shields.io/github/stars/yogeswaran6383/CVE-2024-57484">
+
+---
 ## CVE-2024-57430 ()
 > 
 - [ahrixia/CVE-2024-57430](https://github.com/ahrixia/CVE-2024-57430)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2024-57430">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2024-57430">
