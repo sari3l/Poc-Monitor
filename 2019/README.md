@@ -1463,7 +1463,7 @@
 ---
 ## CVE-2019-2706 ()
 > 
-- [athuljayaram/CVE-2019-2706](https://github.com/athuljayaram/CVE-2019-2706)	<img alt="forks" src="https://img.shields.io/github/forks/athuljayaram/CVE-2019-2706">	<img alt="stars" src="https://img.shields.io/github/stars/athuljayaram/CVE-2019-2706">
+- [athuljayaram/Oracle-CVE-2019-2706](https://github.com/athuljayaram/Oracle-CVE-2019-2706)	<img alt="forks" src="https://img.shields.io/github/forks/athuljayaram/Oracle-CVE-2019-2706">	<img alt="stars" src="https://img.shields.io/github/stars/athuljayaram/Oracle-CVE-2019-2706">
 
 ---
 ## CVE-2019-2614 (2019-04-23T19:32:00)
