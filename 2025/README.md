@@ -30,6 +30,7 @@
 ## CVE-2025-25163 ()
 > 
 - [RandomRobbieBF/CVE-2025-25163](https://github.com/RandomRobbieBF/CVE-2025-25163)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-25163">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-25163">
+- [rootharpy/CVE-2025-25163-Nuclei-Template](https://github.com/rootharpy/CVE-2025-25163-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/rootharpy/CVE-2025-25163-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/rootharpy/CVE-2025-25163-Nuclei-Template">
 
 ---
 ## CVE-2025-25062 ()
