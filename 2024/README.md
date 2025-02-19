@@ -3007,6 +3007,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [maybeheisenberg/PoC-for-CVE-2024-43160](https://github.com/maybeheisenberg/PoC-for-CVE-2024-43160)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/PoC-for-CVE-2024-43160">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/PoC-for-CVE-2024-43160">
 
 ---
+## CVE-2024-43097 ()
+> 
+- [Mahesh-970/external_skia_CVE-2024-43097](https://github.com/Mahesh-970/external_skia_CVE-2024-43097)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/external_skia_CVE-2024-43097">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/external_skia_CVE-2024-43097">
+
+---
 ## CVE-2024-43093 ()
 > 
 - [exploitsecure/CVE-2024-43093](https://github.com/exploitsecure/CVE-2024-43093)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43093">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43093">
