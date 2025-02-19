@@ -113,6 +113,11 @@
 - [DoTTak/CVE-2025-22710](https://github.com/DoTTak/CVE-2025-22710)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-22710">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-22710">
 
 ---
+## CVE-2025-22654 ()
+> 
+- [McTavishSue/CVE-2025-22654](https://github.com/McTavishSue/CVE-2025-22654)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-22654">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-22654">
+
+---
 ## CVE-2025-22510 ()
 > 
 - [DoTTak/CVE-2025-22510](https://github.com/DoTTak/CVE-2025-22510)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-22510">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-22510">
