@@ -1461,6 +1461,11 @@
 - [Kamiya767/CVE-2019-2725](https://github.com/Kamiya767/CVE-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/Kamiya767/CVE-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/Kamiya767/CVE-2019-2725">
 
 ---
+## CVE-2019-2706 ()
+> 
+- [athuljayaram/CVE-2019-2706](https://github.com/athuljayaram/CVE-2019-2706)	<img alt="forks" src="https://img.shields.io/github/forks/athuljayaram/CVE-2019-2706">	<img alt="stars" src="https://img.shields.io/github/stars/athuljayaram/CVE-2019-2706">
+
+---
 ## CVE-2019-2614 (2019-04-23T19:32:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Replication). Supported versions that are affected are 5.6.43 and prior, 5.7.25 and prior and 8.0.15 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
