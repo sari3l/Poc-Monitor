@@ -19,6 +19,9 @@
 ## CVE-2008-4654 ()
 > 
 - [Hexastrike/CVE-2008-4654](https://github.com/Hexastrike/CVE-2008-4654)	<img alt="forks" src="https://img.shields.io/github/forks/Hexastrike/CVE-2008-4654">	<img alt="stars" src="https://img.shields.io/github/stars/Hexastrike/CVE-2008-4654">
+- [rnnsz/CVE-2008-4654](https://github.com/rnnsz/CVE-2008-4654)	<img alt="forks" src="https://img.shields.io/github/forks/rnnsz/CVE-2008-4654">	<img alt="stars" src="https://img.shields.io/github/stars/rnnsz/CVE-2008-4654">
+- [KernelErr/VLC-CVE-2008-4654-Exploit](https://github.com/KernelErr/VLC-CVE-2008-4654-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/KernelErr/VLC-CVE-2008-4654-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/KernelErr/VLC-CVE-2008-4654-Exploit">
+- [bongbongco/CVE-2008-4654](https://github.com/bongbongco/CVE-2008-4654)	<img alt="forks" src="https://img.shields.io/github/forks/bongbongco/CVE-2008-4654">	<img alt="stars" src="https://img.shields.io/github/stars/bongbongco/CVE-2008-4654">
 
 ---
 ## CVE-2008-4609 (2008-10-20T17:59:00)
