@@ -17,6 +17,11 @@
 - [rxerium/CVE-2025-26465](https://github.com/rxerium/CVE-2025-26465)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26465">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26465">
 
 ---
+## CVE-2025-25968 ()
+> 
+- [padayali-JD/CVE-2025-25968](https://github.com/padayali-JD/CVE-2025-25968)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2025-25968">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2025-25968">
+
+---
 ## CVE-2025-25965 ()
 > 
 - [Sudo-Sakib/CVE-2025-25965](https://github.com/Sudo-Sakib/CVE-2025-25965)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-Sakib/CVE-2025-25965">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-Sakib/CVE-2025-25965">
