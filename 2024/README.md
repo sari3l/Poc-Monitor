@@ -2884,6 +2884,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [p33d/CVE-2024-43917](https://github.com/p33d/CVE-2024-43917)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-43917">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-43917">
 
 ---
+## CVE-2024-43768 ()
+> 
+- [Mahesh-970/CVE-2024-43768](https://github.com/Mahesh-970/CVE-2024-43768)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-43768">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-43768">
+
+---
 ## CVE-2024-43762 ()
 > 
 - [Mahesh-970/CVE-2024-43762](https://github.com/Mahesh-970/CVE-2024-43762)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-43762">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-43762">
@@ -5764,6 +5769,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [4wayhandshake/CVE-2024-2961](https://github.com/4wayhandshake/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/4wayhandshake/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/4wayhandshake/CVE-2024-2961">
 - [omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961](https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">
 - [suce0155/CVE-2024-2961_buddyforms_2.7.7](https://github.com/suce0155/CVE-2024-2961_buddyforms_2.7.7)	<img alt="forks" src="https://img.shields.io/github/forks/suce0155/CVE-2024-2961_buddyforms_2.7.7">	<img alt="stars" src="https://img.shields.io/github/stars/suce0155/CVE-2024-2961_buddyforms_2.7.7">
+- [regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-](https://github.com/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
