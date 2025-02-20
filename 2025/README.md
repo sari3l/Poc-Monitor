@@ -80,6 +80,7 @@
 > 
 - [huseyinstif/CVE-2025-24016-Nuclei-Template](https://github.com/huseyinstif/CVE-2025-24016-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2025-24016-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2025-24016-Nuclei-Template">
 - [0xjessie21/CVE-2025-24016](https://github.com/0xjessie21/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/CVE-2025-24016">
+- [MuhammadWaseem29/CVE-2025-24016](https://github.com/MuhammadWaseem29/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24016">
 
 ---
 ## CVE-2025-23369 ()
