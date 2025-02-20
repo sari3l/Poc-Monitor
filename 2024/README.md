@@ -8405,6 +8405,31 @@ authentication.   
 - [RandomRobbieBF/CVE-2024-13488](https://github.com/RandomRobbieBF/CVE-2024-13488)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13488">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13488">
 
 ---
+## CVE-2024-13485 ()
+> 
+- [RandomRobbieBF/CVE-2024-13485](https://github.com/RandomRobbieBF/CVE-2024-13485)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13485">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13485">
+
+---
+## CVE-2024-13483 ()
+> 
+- [RandomRobbieBF/CVE-2024-13483](https://github.com/RandomRobbieBF/CVE-2024-13483)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13483">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13483">
+
+---
+## CVE-2024-13481 ()
+> 
+- [RandomRobbieBF/CVE-2024-13481](https://github.com/RandomRobbieBF/CVE-2024-13481)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13481">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13481">
+
+---
+## CVE-2024-13479 ()
+> 
+- [RandomRobbieBF/CVE-2024-13479](https://github.com/RandomRobbieBF/CVE-2024-13479)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13479">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13479">
+
+---
+## CVE-2024-13478 ()
+> 
+- [RandomRobbieBF/CVE-2024-13478](https://github.com/RandomRobbieBF/CVE-2024-13478)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13478">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13478">
+
+---
 ## CVE-2024-1346 (2024-02-19T12:15:00)
 > Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants.
 - [PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2024-1346">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2024-1346">
