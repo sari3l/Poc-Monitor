@@ -8395,6 +8395,11 @@ authentication.   
 - [RandomRobbieBF/CVE-2024-1380](https://github.com/RandomRobbieBF/CVE-2024-1380)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-1380">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-1380">
 
 ---
+## CVE-2024-13489 ()
+> 
+- [RandomRobbieBF/CVE-2024-13489](https://github.com/RandomRobbieBF/CVE-2024-13489)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13489">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13489">
+
+---
 ## CVE-2024-13488 ()
 > 
 - [RandomRobbieBF/CVE-2024-13488](https://github.com/RandomRobbieBF/CVE-2024-13488)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13488">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13488">
