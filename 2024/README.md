@@ -7280,6 +7280,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [bluetoothStrawberry/CVE-2024-23346_poc](https://github.com/bluetoothStrawberry/CVE-2024-23346_poc)	<img alt="forks" src="https://img.shields.io/github/forks/bluetoothStrawberry/CVE-2024-23346_poc">	<img alt="stars" src="https://img.shields.io/github/stars/bluetoothStrawberry/CVE-2024-23346_poc">
 - [9carlo6/CVE-2024-23346](https://github.com/9carlo6/CVE-2024-23346)	<img alt="forks" src="https://img.shields.io/github/forks/9carlo6/CVE-2024-23346">	<img alt="stars" src="https://img.shields.io/github/stars/9carlo6/CVE-2024-23346">
 - [MAWK0235/CVE-2024-23346](https://github.com/MAWK0235/CVE-2024-23346)	<img alt="forks" src="https://img.shields.io/github/forks/MAWK0235/CVE-2024-23346">	<img alt="stars" src="https://img.shields.io/github/stars/MAWK0235/CVE-2024-23346">
+- [Sanity-Archive/CVE-2024-23346](https://github.com/Sanity-Archive/CVE-2024-23346)	<img alt="forks" src="https://img.shields.io/github/forks/Sanity-Archive/CVE-2024-23346">	<img alt="stars" src="https://img.shields.io/github/stars/Sanity-Archive/CVE-2024-23346">
 
 ---
 ## CVE-2024-23339 (2024-01-22T23:15:00)
