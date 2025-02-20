@@ -4758,6 +4758,7 @@ QuTScloud c5.1.5.2651 and later
 - [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-)	<img alt="forks" src="https://img.shields.io/github/forks/mrrobot0o/CVE-2024-3273-">	<img alt="stars" src="https://img.shields.io/github/stars/mrrobot0o/CVE-2024-3273-">
 - [OIivr/Turvan6rkus-CVE-2024-3273](https://github.com/OIivr/Turvan6rkus-CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/OIivr/Turvan6rkus-CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/OIivr/Turvan6rkus-CVE-2024-3273">
 - [X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE](https://github.com/X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE">
+- [GSTEINF/CVE-2024-3273](https://github.com/GSTEINF/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/GSTEINF/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/GSTEINF/CVE-2024-3273">
 
 ---
 ## CVE-2024-32709 (2024-04-24T08:15:00)
