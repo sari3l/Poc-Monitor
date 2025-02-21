@@ -15,6 +15,7 @@
 ## CVE-2025-26465 ()
 > 
 - [rxerium/CVE-2025-26465](https://github.com/rxerium/CVE-2025-26465)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26465">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26465">
+- [dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466](https://github.com/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">
 
 ---
 ## CVE-2025-25968 ()
