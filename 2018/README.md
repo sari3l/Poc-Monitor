@@ -35,6 +35,11 @@
 - [dego905/Cam](https://github.com/dego905/Cam)	<img alt="forks" src="https://img.shields.io/github/forks/dego905/Cam">	<img alt="stars" src="https://img.shields.io/github/stars/dego905/Cam">
 
 ---
+## CVE-2018-9338 ()
+> 
+- [Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338](https://github.com/Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338">
+
+---
 ## CVE-2018-9276 (2018-07-02T16:29:00)
 > An issue was discovered in PRTG Network Monitor before 18.2.39. An attacker who has access to the PRTG System Administrator web console with administrative privileges can exploit an OS command injection vulnerability (both on the server and on devices) by sending malformed parameters in sensor or notification management scenarios.
 - [A1vinSmith/CVE-2018-9276](https://github.com/A1vinSmith/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/A1vinSmith/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/A1vinSmith/CVE-2018-9276">
