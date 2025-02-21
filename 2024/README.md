@@ -2935,6 +2935,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s4vvysec/CVE-2024-4367-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s4vvysec/CVE-2024-4367-POC">
 
 ---
+## CVE-2024-43583 ()
+> 
+- [Kvngtheta/CVE-2024-43583-PoC](https://github.com/Kvngtheta/CVE-2024-43583-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Kvngtheta/CVE-2024-43583-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Kvngtheta/CVE-2024-43583-PoC">
+
+---
 ## CVE-2024-43582 (2024-10-08T18:15:00)
 > Remote Desktop Protocol Server Remote Code Execution Vulnerability
 - [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
