@@ -7607,6 +7607,7 @@ This is the same as  CVE-2024-22259 https://spring.io/security/cve-2024-22259  
 
 - [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234)	<img alt="forks" src="https://img.shields.io/github/forks/shellfeel/CVE-2024-22243-CVE-2024-22234">	<img alt="stars" src="https://img.shields.io/github/stars/shellfeel/CVE-2024-22243-CVE-2024-22234">
 - [SeanPesce/CVE-2024-22243](https://github.com/SeanPesce/CVE-2024-22243)	<img alt="forks" src="https://img.shields.io/github/forks/SeanPesce/CVE-2024-22243">	<img alt="stars" src="https://img.shields.io/github/stars/SeanPesce/CVE-2024-22243">
+- [Reivap/CVE-2024-22243](https://github.com/Reivap/CVE-2024-22243)	<img alt="forks" src="https://img.shields.io/github/forks/Reivap/CVE-2024-22243">	<img alt="stars" src="https://img.shields.io/github/stars/Reivap/CVE-2024-22243">
 
 ---
 ## CVE-2024-22222 (2024-02-12T19:15:00)
