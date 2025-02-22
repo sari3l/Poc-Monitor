@@ -6,6 +6,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-26794 ()
+> 
+- [OscarBataille/CVE-2025-26794](https://github.com/OscarBataille/CVE-2025-26794)	<img alt="forks" src="https://img.shields.io/github/forks/OscarBataille/CVE-2025-26794">	<img alt="stars" src="https://img.shields.io/github/stars/OscarBataille/CVE-2025-26794">
+
+---
 ## CVE-2025-26466 ()
 > 
 - [rxerium/CVE-2025-26466](https://github.com/rxerium/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26466">
