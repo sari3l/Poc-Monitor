@@ -7733,6 +7733,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [0xsu3ks/CVE-2023-1665](https://github.com/0xsu3ks/CVE-2023-1665)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2023-1665">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2023-1665">
 
 ---
+## CVE-2023-1545 ()
+> 
+- [HarshRajSinghania/CVE-2023-1545-Exploit](https://github.com/HarshRajSinghania/CVE-2023-1545-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/CVE-2023-1545-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/CVE-2023-1545-Exploit">
+
+---
 ## CVE-2023-1521 (2024-11-26T12:15:00)
 > On Linux the sccache client can execute arbitrary code with the privileges of a local sccache server, by preloading the code in a shared library passed to LD_PRELOAD.
 
