@@ -1212,6 +1212,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [ailenye/CVE-2024-54879](https://github.com/ailenye/CVE-2024-54879)	<img alt="forks" src="https://img.shields.io/github/forks/ailenye/CVE-2024-54879">	<img alt="stars" src="https://img.shields.io/github/stars/ailenye/CVE-2024-54879">
 
 ---
+## CVE-2024-54820 ()
+> 
+- [jcarabantes/CVE-2024-54820](https://github.com/jcarabantes/CVE-2024-54820)	<img alt="forks" src="https://img.shields.io/github/forks/jcarabantes/CVE-2024-54820">	<img alt="stars" src="https://img.shields.io/github/stars/jcarabantes/CVE-2024-54820">
+
+---
 ## CVE-2024-54819 ()
 > 
 - [partywavesec/CVE-2024-54819](https://github.com/partywavesec/CVE-2024-54819)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2024-54819">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2024-54819">
