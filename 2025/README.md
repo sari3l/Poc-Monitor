@@ -183,7 +183,7 @@
 ---
 ## CVE-2025-0924 ()
 > 
-- [skrkcb2/CVE-2025-0924](https://github.com/skrkcb2/CVE-2025-0924)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/CVE-2025-0924">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/CVE-2025-0924">
+- [skrkcb2/CVE-2025-0924-different](https://github.com/skrkcb2/CVE-2025-0924-different)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/CVE-2025-0924-different">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/CVE-2025-0924-different">
 
 ---
 ## CVE-2025-0851 ()
