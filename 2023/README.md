@@ -6982,6 +6982,7 @@ For more details, please review the linked advisory on this CVE.
 - [xorbbo/cve-2023-22515](https://github.com/xorbbo/cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/xorbbo/cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/xorbbo/cve-2023-22515">
 - [spareack/CVE-2023-22515-NSE](https://github.com/spareack/CVE-2023-22515-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/spareack/CVE-2023-22515-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/spareack/CVE-2023-22515-NSE">
 - [Onedy1703/CVE-2023-22515-Confluence](https://github.com/Onedy1703/CVE-2023-22515-Confluence)	<img alt="forks" src="https://img.shields.io/github/forks/Onedy1703/CVE-2023-22515-Confluence">	<img alt="stars" src="https://img.shields.io/github/stars/Onedy1703/CVE-2023-22515-Confluence">
+- [vivigotnotime/CVE-2023-22515-Exploit-Script](https://github.com/vivigotnotime/CVE-2023-22515-Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/vivigotnotime/CVE-2023-22515-Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/vivigotnotime/CVE-2023-22515-Exploit-Script">
 
 ---
 ## CVE-2023-22490 (2023-02-14T20:15:00)
