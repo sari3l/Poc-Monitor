@@ -6836,7 +6836,7 @@
 ---
 ## CVE-2021-27365 ()
 > 
-- [coderzawad/Kernel-CVE-2021-27365-hotfix](https://github.com/coderzawad/Kernel-CVE-2021-27365-hotfix)	<img alt="forks" src="https://img.shields.io/github/forks/coderzawad/Kernel-CVE-2021-27365-hotfix">	<img alt="stars" src="https://img.shields.io/github/stars/coderzawad/Kernel-CVE-2021-27365-hotfix">
+- [Iweisc/Kernel-CVE-2021-27365-hotfix](https://github.com/Iweisc/Kernel-CVE-2021-27365-hotfix)	<img alt="forks" src="https://img.shields.io/github/forks/Iweisc/Kernel-CVE-2021-27365-hotfix">	<img alt="stars" src="https://img.shields.io/github/stars/Iweisc/Kernel-CVE-2021-27365-hotfix">
 
 ---
 ## CVE-2021-27343 (2021-04-06T13:15:00)
