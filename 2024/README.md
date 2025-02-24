@@ -1337,6 +1337,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [punitdarji/Apache-struts-cve-2024-53677](https://github.com/punitdarji/Apache-struts-cve-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Apache-struts-cve-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Apache-struts-cve-2024-53677">
 - [SeanRickerd/CVE-2024-53677](https://github.com/SeanRickerd/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/SeanRickerd/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/SeanRickerd/CVE-2024-53677">
 - [hopsypopsy8/CVE-2024-53677-Exploitation](https://github.com/hopsypopsy8/CVE-2024-53677-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/hopsypopsy8/CVE-2024-53677-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/hopsypopsy8/CVE-2024-53677-Exploitation">
+- [shishirghimir/CVE-2024-53677-Exploit](https://github.com/shishirghimir/CVE-2024-53677-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shishirghimir/CVE-2024-53677-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shishirghimir/CVE-2024-53677-Exploit">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
