@@ -54,6 +54,7 @@
 - [AnugiArrawwala/CVE-Research](https://github.com/AnugiArrawwala/CVE-Research)	<img alt="forks" src="https://img.shields.io/github/forks/AnugiArrawwala/CVE-Research">	<img alt="stars" src="https://img.shields.io/github/stars/AnugiArrawwala/CVE-Research">
 - [0xB0y426/CVE-2011-2523-PoC](https://github.com/0xB0y426/CVE-2011-2523-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xB0y426/CVE-2011-2523-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xB0y426/CVE-2011-2523-PoC">
 - [NullBrunk/CVE-2011-2523](https://github.com/NullBrunk/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/NullBrunk/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/NullBrunk/CVE-2011-2523">
+- [Lychi3/vsftpd-backdoor](https://github.com/Lychi3/vsftpd-backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/Lychi3/vsftpd-backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/Lychi3/vsftpd-backdoor">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
