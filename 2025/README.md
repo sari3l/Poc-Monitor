@@ -48,6 +48,11 @@
 - [RoNiXxCybSeC0101/CVE-2025-25460](https://github.com/RoNiXxCybSeC0101/CVE-2025-25460)	<img alt="forks" src="https://img.shields.io/github/forks/RoNiXxCybSeC0101/CVE-2025-25460">	<img alt="stars" src="https://img.shields.io/github/stars/RoNiXxCybSeC0101/CVE-2025-25460">
 
 ---
+## CVE-2025-25279 ()
+> 
+- [numanturle/CVE-2025-25279](https://github.com/numanturle/CVE-2025-25279)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2025-25279">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2025-25279">
+
+---
 ## CVE-2025-25163 ()
 > 
 - [RandomRobbieBF/CVE-2025-25163](https://github.com/RandomRobbieBF/CVE-2025-25163)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-25163">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-25163">
