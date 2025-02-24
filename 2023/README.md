@@ -7067,6 +7067,9 @@ For more details, please review the linked advisory on this CVE.
 - [MMarch7/weblogic_CVE-2023-21839_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/MMarch7/weblogic_CVE-2023-21839_POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/MMarch7/weblogic_CVE-2023-21839_POC-EXP">
 - [ASkyeye/CVE-2023-21839](https://github.com/ASkyeye/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/ASkyeye/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/ASkyeye/CVE-2023-21839">
 - [outgoingcon/CVE-2023-21839](https://github.com/outgoingcon/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/outgoingcon/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/outgoingcon/CVE-2023-21839">
+- [0xn0ne/simple-scanner](https://github.com/0xn0ne/simple-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/simple-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/simple-scanner">
+- [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2024-20931">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2024-20931">
+- [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/Romanc9/Gui-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/Romanc9/Gui-poc-test">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
