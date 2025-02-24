@@ -75,6 +75,11 @@
 - [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9707">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9707">
 
 ---
+## CVE-2024-9698 ()
+> 
+- [Nxploited/CVE-2024-9698](https://github.com/Nxploited/CVE-2024-9698)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9698">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9698">
+
+---
 ## CVE-2024-9680 (2024-10-09T13:15:00)
 > An attacker was able to achieve code execution in the content process by exploiting a use-after-free in Animation timelines. We have had reports of this vulnerability being exploited in the wild. This vulnerability affects Firefox < 131.0.2, Firefox ESR < 128.3.1, Firefox ESR < 115.16.1, Thunderbird < 131.0.1, Thunderbird < 128.3.1, and Thunderbird < 115.16.0.
 - [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680)	<img alt="forks" src="https://img.shields.io/github/forks/tdonaworth/Firefox-CVE-2024-9680">	<img alt="stars" src="https://img.shields.io/github/stars/tdonaworth/Firefox-CVE-2024-9680">
