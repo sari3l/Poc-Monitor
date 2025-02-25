@@ -187,6 +187,11 @@
 - [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-20029">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-20029">
 
 ---
+## CVE-2025-1302 ()
+> 
+- [EQSTLab/CVE-2025-1302](https://github.com/EQSTLab/CVE-2025-1302)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-1302">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-1302">
+
+---
 ## CVE-2025-10792 ()
 > 
 - [ZackSecurity/CVE-2025-10792-test](https://github.com/ZackSecurity/CVE-2025-10792-test)	<img alt="forks" src="https://img.shields.io/github/forks/ZackSecurity/CVE-2025-10792-test">	<img alt="stars" src="https://img.shields.io/github/stars/ZackSecurity/CVE-2025-10792-test">
