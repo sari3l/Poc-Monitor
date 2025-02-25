@@ -8207,6 +8207,7 @@
 - [Akash7350/CVE-2021-22204](https://github.com/Akash7350/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/Akash7350/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/Akash7350/CVE-2021-22204">
 - [cc3305/CVE-2021-22204](https://github.com/cc3305/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2021-22204">
 - [battleofthebots/dejavu](https://github.com/battleofthebots/dejavu)	<img alt="forks" src="https://img.shields.io/github/forks/battleofthebots/dejavu">	<img alt="stars" src="https://img.shields.io/github/stars/battleofthebots/dejavu">
+- [sameep0/CVE-2021-22204](https://github.com/sameep0/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/sameep0/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/sameep0/CVE-2021-22204">
 
 ---
 ## CVE-2021-22192 (2021-03-24T17:15:00)
