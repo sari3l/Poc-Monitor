@@ -28,6 +28,11 @@
 - [xibhi/CVE-2025-26206](https://github.com/xibhi/CVE-2025-26206)	<img alt="forks" src="https://img.shields.io/github/forks/xibhi/CVE-2025-26206">	<img alt="stars" src="https://img.shields.io/github/stars/xibhi/CVE-2025-26206">
 
 ---
+## CVE-2025-25979 ()
+> 
+- [padayali-JD/CVE-2025-25979](https://github.com/padayali-JD/CVE-2025-25979)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2025-25979">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2025-25979">
+
+---
 ## CVE-2025-25968 ()
 > 
 - [padayali-JD/CVE-2025-25968](https://github.com/padayali-JD/CVE-2025-25968)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2025-25968">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2025-25968">
