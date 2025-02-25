@@ -72,6 +72,7 @@
 ## CVE-2025-24893 ()
 > 
 - [sug4r-wr41th/CVE-2025-24893](https://github.com/sug4r-wr41th/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-24893">
+- [iSee857/CVE-2025-24893-PoC](https://github.com/iSee857/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-24893-PoC">
 
 ---
 ## CVE-2025-24659 ()
