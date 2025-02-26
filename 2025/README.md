@@ -28,6 +28,11 @@
 - [azurejoga/CVE-2025-26326](https://github.com/azurejoga/CVE-2025-26326)	<img alt="forks" src="https://img.shields.io/github/forks/azurejoga/CVE-2025-26326">	<img alt="stars" src="https://img.shields.io/github/stars/azurejoga/CVE-2025-26326">
 
 ---
+## CVE-2025-26264 ()
+> 
+- [DRAGOWN/CVE-2025-26264](https://github.com/DRAGOWN/CVE-2025-26264)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2025-26264">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2025-26264">
+
+---
 ## CVE-2025-26263 ()
 > 
 - [DRAGOWN/CVE-2025-26263](https://github.com/DRAGOWN/CVE-2025-26263)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2025-26263">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2025-26263">
