@@ -53,6 +53,11 @@
 - [Sudo-Sakib/CVE-2025-25964](https://github.com/Sudo-Sakib/CVE-2025-25964)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-Sakib/CVE-2025-25964">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-Sakib/CVE-2025-25964">
 
 ---
+## CVE-2025-25461 ()
+> 
+- [RoNiXxCybSeC0101/CVE-2025-25461](https://github.com/RoNiXxCybSeC0101/CVE-2025-25461)	<img alt="forks" src="https://img.shields.io/github/forks/RoNiXxCybSeC0101/CVE-2025-25461">	<img alt="stars" src="https://img.shields.io/github/stars/RoNiXxCybSeC0101/CVE-2025-25461">
+
+---
 ## CVE-2025-25460 ()
 > 
 - [RoNiXxCybSeC0101/CVE-2025-25460](https://github.com/RoNiXxCybSeC0101/CVE-2025-25460)	<img alt="forks" src="https://img.shields.io/github/forks/RoNiXxCybSeC0101/CVE-2025-25460">	<img alt="stars" src="https://img.shields.io/github/stars/RoNiXxCybSeC0101/CVE-2025-25460">
