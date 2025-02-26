@@ -1404,6 +1404,13 @@
 - [nidhi7598/linux-3.0.35_CVE-2018-13405](https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-3.0.35_CVE-2018-13405">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-3.0.35_CVE-2018-13405">
 
 ---
+## CVE-2018-13382 ()
+> 
+- [cojoben/CVE-2018-13382](https://github.com/cojoben/CVE-2018-13382)	<img alt="forks" src="https://img.shields.io/github/forks/cojoben/CVE-2018-13382">	<img alt="stars" src="https://img.shields.io/github/stars/cojoben/CVE-2018-13382">
+- [tumikoto/Exploit-FortinetMagicBackdoor](https://github.com/tumikoto/Exploit-FortinetMagicBackdoor)	<img alt="forks" src="https://img.shields.io/github/forks/tumikoto/Exploit-FortinetMagicBackdoor">	<img alt="stars" src="https://img.shields.io/github/stars/tumikoto/Exploit-FortinetMagicBackdoor">
+- [milo2012/CVE-2018-13382](https://github.com/milo2012/CVE-2018-13382)	<img alt="forks" src="https://img.shields.io/github/forks/milo2012/CVE-2018-13382">	<img alt="stars" src="https://img.shields.io/github/stars/milo2012/CVE-2018-13382">
+
+---
 ## CVE-2018-13379 (2019-06-04T21:29:00)
 > An Improper Limitation of a Pathname to a Restricted Directory ("Path Traversal") in Fortinet FortiOS 6.0.0 to 6.0.4, 5.6.3 to 5.6.7 and 5.4.6 to 5.4.12 and FortiProxy 2.0.0, 1.2.0 to 1.2.8, 1.1.0 to 1.1.6, 1.0.0 to 1.0.7 under SSL VPN web portal allows an unauthenticated attacker to download system files via special crafted HTTP resource requests.
 - [Farzan-Kh/CVE-2018-13379](https://github.com/Farzan-Kh/CVE-2018-13379)	<img alt="forks" src="https://img.shields.io/github/forks/Farzan-Kh/CVE-2018-13379">	<img alt="stars" src="https://img.shields.io/github/stars/Farzan-Kh/CVE-2018-13379">
