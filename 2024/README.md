@@ -6782,6 +6782,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [funixone/CVE-2024-24919---Exploit-Script](https://github.com/funixone/CVE-2024-24919---Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/funixone/CVE-2024-24919---Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/funixone/CVE-2024-24919---Exploit-Script">
 - [hashdr1ft/SOC_287](https://github.com/hashdr1ft/SOC_287)	<img alt="forks" src="https://img.shields.io/github/forks/hashdr1ft/SOC_287">	<img alt="stars" src="https://img.shields.io/github/stars/hashdr1ft/SOC_287">
 - [NingXin2002/Check-Point_poc](https://github.com/NingXin2002/Check-Point_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/Check-Point_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/Check-Point_poc">
+- [spider00009/CVE-2024-24919-POC](https://github.com/spider00009/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/spider00009/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/spider00009/CVE-2024-24919-POC">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
