@@ -2271,6 +2271,7 @@
 - [hshivhare67/Jetty_v9.4.31_CVE-2020-27223](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2020-27223)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty_v9.4.31_CVE-2020-27223">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty_v9.4.31_CVE-2020-27223">
 - [ttestoo/Jetty-CVE-2020-27223](https://github.com/ttestoo/Jetty-CVE-2020-27223)	<img alt="forks" src="https://img.shields.io/github/forks/ttestoo/Jetty-CVE-2020-27223">	<img alt="stars" src="https://img.shields.io/github/stars/ttestoo/Jetty-CVE-2020-27223">
 - [motikan2010/CVE-2020-27223](https://github.com/motikan2010/CVE-2020-27223)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2020-27223">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2020-27223">
+- [Mahesh-970/G3_Jetty.project_CVE-2020-27223](https://github.com/Mahesh-970/G3_Jetty.project_CVE-2020-27223)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/G3_Jetty.project_CVE-2020-27223">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/G3_Jetty.project_CVE-2020-27223">
 
 ---
 ## CVE-2020-27216 (2020-10-23T13:15:00)
