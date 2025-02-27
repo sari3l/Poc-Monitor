@@ -2162,6 +2162,11 @@
 - [Live-Hack-CVE/CVE-2020-27733](https://github.com/Live-Hack-CVE/CVE-2020-27733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27733">
 
 ---
+## CVE-2020-27723 ()
+> 
+- [Mahesh-970/G3_Jetty.project_CVE-2020-27723](https://github.com/Mahesh-970/G3_Jetty.project_CVE-2020-27723)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/G3_Jetty.project_CVE-2020-27723">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/G3_Jetty.project_CVE-2020-27723">
+
+---
 ## CVE-2020-27655 (2020-10-29T09:15:00)
 > Improper access control vulnerability in Synology Router Manager (SRM) before 1.2.4-8081 allows remote attackers to access restricted resources via inbound QuickConnect traffic.
 - [Live-Hack-CVE/CVE-2020-27655](https://github.com/Live-Hack-CVE/CVE-2020-27655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27655">
