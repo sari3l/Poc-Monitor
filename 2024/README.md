@@ -2336,6 +2336,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [saisathvik1/CVE-2024-47062](https://github.com/saisathvik1/CVE-2024-47062)	<img alt="forks" src="https://img.shields.io/github/forks/saisathvik1/CVE-2024-47062">	<img alt="stars" src="https://img.shields.io/github/stars/saisathvik1/CVE-2024-47062">
 
 ---
+## CVE-2024-47051 ()
+> 
+- [mallo-m/CVE-2024-47051](https://github.com/mallo-m/CVE-2024-47051)	<img alt="forks" src="https://img.shields.io/github/forks/mallo-m/CVE-2024-47051">	<img alt="stars" src="https://img.shields.io/github/stars/mallo-m/CVE-2024-47051">
+
+---
 ## CVE-2024-4701 (2024-05-14T15:44:00)
 > A path traversal issue potentially leading to remote code execution in Genie for all versions prior to 4.3.18
 - [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JoeBeeton/CVE-2024-4701-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JoeBeeton/CVE-2024-4701-POC">
