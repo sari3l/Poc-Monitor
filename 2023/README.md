@@ -204,6 +204,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [s1204IT/CVE-2023-6241](https://github.com/s1204IT/CVE-2023-6241)	<img alt="forks" src="https://img.shields.io/github/forks/s1204IT/CVE-2023-6241">	<img alt="stars" src="https://img.shields.io/github/stars/s1204IT/CVE-2023-6241">
 
 ---
+## CVE-2023-6199 ()
+> 
+- [AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199](https://github.com/AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199)	<img alt="forks" src="https://img.shields.io/github/forks/AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199">	<img alt="stars" src="https://img.shields.io/github/stars/AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199">
+
+---
 ## CVE-2023-6063 (2023-12-04T22:15:00)
 > The WP Fastest Cache WordPress plugin before 1.2.2 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by unauthenticated users.
 - [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-6063-PoC">
