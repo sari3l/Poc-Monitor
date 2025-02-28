@@ -2339,6 +2339,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-47051 ()
 > 
 - [mallo-m/CVE-2024-47051](https://github.com/mallo-m/CVE-2024-47051)	<img alt="forks" src="https://img.shields.io/github/forks/mallo-m/CVE-2024-47051">	<img alt="stars" src="https://img.shields.io/github/stars/mallo-m/CVE-2024-47051">
+- [mallo-m/CVE-2024-47051](https://github.com/mallo-m/CVE-2024-47051)	<img alt="forks" src="https://img.shields.io/github/forks/mallo-m/CVE-2024-47051">	<img alt="stars" src="https://img.shields.io/github/stars/mallo-m/CVE-2024-47051">
 
 ---
 ## CVE-2024-4701 (2024-05-14T15:44:00)
