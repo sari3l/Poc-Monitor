@@ -3123,6 +3123,11 @@ use after free.
 - [ossf-cve-benchmark/CVE-2019-10061](https://github.com/ossf-cve-benchmark/CVE-2019-10061)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10061">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10061">
 
 ---
+## CVE-2019-1003030 ()
+> 
+- [overgrowncarrot1/CVE-2019-1003030](https://github.com/overgrowncarrot1/CVE-2019-1003030)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2019-1003030">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2019-1003030">
+
+---
 ## CVE-2019-0845 (2019-04-09T21:29:00)
 > A remote code execution vulnerability exists when the IOleCvt interface renders ASP webpage content, aka 'Windows IOleCvt Interface Remote Code Execution Vulnerability'.
 - [Live-Hack-CVE/CVE-2019-0845](https://github.com/Live-Hack-CVE/CVE-2019-0845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0845">
