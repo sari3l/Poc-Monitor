@@ -1823,6 +1823,7 @@ use after free.
 - [trustedsec/cve-2019-19781](https://github.com/trustedsec/cve-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trustedsec/cve-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trustedsec/cve-2019-19781">
 - [citrixgitoff/-ioc-scanner-CVE-2019-19781](https://github.com/citrixgitoff/-ioc-scanner-CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/citrixgitoff/-ioc-scanner-CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/citrixgitoff/-ioc-scanner-CVE-2019-19781">
 - [zerobytesecure/CVE-2019-19781](https://github.com/zerobytesecure/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/zerobytesecure/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/zerobytesecure/CVE-2019-19781">
+- [TheRealRzyS/nmap-citrix-cve-2019-19781](https://github.com/TheRealRzyS/nmap-citrix-cve-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/TheRealRzyS/nmap-citrix-cve-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/TheRealRzyS/nmap-citrix-cve-2019-19781">
 
 ---
 ## CVE-2019-19725 (2019-12-11T18:16:00)
