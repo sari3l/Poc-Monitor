@@ -5579,7 +5579,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/Romanc9/Gui-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/Romanc9/Gui-poc-test">
 - [netuseradministrator/CVE-2023-28432](https://github.com/netuseradministrator/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/netuseradministrator/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/netuseradministrator/CVE-2023-28432">
 - [xk-mt/CVE-2023-28432](https://github.com/xk-mt/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/xk-mt/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/xk-mt/CVE-2023-28432">
-- [0xRulez/CVE-2023-28432](https://github.com/0xRulez/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/0xRulez/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/0xRulez/CVE-2023-28432">
+- [BitWiz4rd/CVE-2023-28432](https://github.com/BitWiz4rd/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/BitWiz4rd/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/BitWiz4rd/CVE-2023-28432">
 - [fhAnso/CVE-2023-28432](https://github.com/fhAnso/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/fhAnso/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/fhAnso/CVE-2023-28432">
 - [dcduc/CVE-2023-28432](https://github.com/dcduc/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/dcduc/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/dcduc/CVE-2023-28432">
 
