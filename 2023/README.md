@@ -6157,6 +6157,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [hshivhare67/Jetty-v9.4.31_CVE-2023-26049_new](https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26049_new)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty-v9.4.31_CVE-2023-26049_new">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty-v9.4.31_CVE-2023-26049_new">
 - [hshivhare67/Jetty_v9.4.31_CVE-2023-26049](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2023-26049)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty_v9.4.31_CVE-2023-26049">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty_v9.4.31_CVE-2023-26049">
 - [nidhihcl75/jetty-9.4.31.v20200723_G3_CVE-2023-26049](https://github.com/nidhihcl75/jetty-9.4.31.v20200723_G3_CVE-2023-26049)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/jetty-9.4.31.v20200723_G3_CVE-2023-26049">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/jetty-9.4.31.v20200723_G3_CVE-2023-26049">
+- [uthrasri/jetty-9.4.31.v20200723_CVE-2023-26049](https://github.com/uthrasri/jetty-9.4.31.v20200723_CVE-2023-26049)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/jetty-9.4.31.v20200723_CVE-2023-26049">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/jetty-9.4.31.v20200723_CVE-2023-26049">
 
 ---
 ## CVE-2023-26048 (2023-04-18T21:15:00)
