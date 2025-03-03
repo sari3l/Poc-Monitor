@@ -2770,6 +2770,11 @@ seconds of becoming unavailable.
 - [BugBountyHunterCVE/CVE-2023-40275](https://github.com/BugBountyHunterCVE/CVE-2023-40275)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40275">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40275">
 
 ---
+## CVE-2023-40167 ()
+> 
+- [uthrasri/Jetty-v9.4.31_CVE-2023-40167-](https://github.com/uthrasri/Jetty-v9.4.31_CVE-2023-40167-)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Jetty-v9.4.31_CVE-2023-40167-">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Jetty-v9.4.31_CVE-2023-40167-">
+
+---
 ## CVE-2023-40140 (2023-10-27T21:15:00)
 > In android_view_InputDevice_create of android_view_InputDevice.cpp, there is a possible way to execute arbitrary code due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140">

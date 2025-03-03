@@ -125,6 +125,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [aratane/CVE-2024-9474](https://github.com/aratane/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/aratane/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/aratane/CVE-2024-9474">
 - [uniformince/CVE-2024-9474](https://github.com/uniformince/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/uniformince/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/uniformince/CVE-2024-9474">
 - [dcollaoa/cve-2024-0012-gui-poc](https://github.com/dcollaoa/cve-2024-0012-gui-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dcollaoa/cve-2024-0012-gui-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dcollaoa/cve-2024-0012-gui-poc">
+- [concretesign/CVE-2024-9474](https://github.com/concretesign/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/concretesign/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/concretesign/CVE-2024-9474">
 
 ---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
