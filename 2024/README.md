@@ -7974,6 +7974,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-21514">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-21514">
 
 ---
+## CVE-2024-21513 ()
+> 
+- [SavageSanta11/Reproduce-CVE-2024-21513](https://github.com/SavageSanta11/Reproduce-CVE-2024-21513)	<img alt="forks" src="https://img.shields.io/github/forks/SavageSanta11/Reproduce-CVE-2024-21513">	<img alt="stars" src="https://img.shields.io/github/stars/SavageSanta11/Reproduce-CVE-2024-21513">
+
+---
 ## CVE-2024-21508 (2024-04-11T05:15:00)
 > Versions of the package mysql2 before 3.9.4 are vulnerable to Remote Code Execution (RCE) via the readCodeFor function due to improper validation of the supportBigNumbers and bigNumberStrings values.
 - [Geniorio01/CVE-2024-21508-mysql2-RCE](https://github.com/Geniorio01/CVE-2024-21508-mysql2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Geniorio01/CVE-2024-21508-mysql2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Geniorio01/CVE-2024-21508-mysql2-RCE">
