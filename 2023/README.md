@@ -744,6 +744,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [NikitaPark/CVE-2023-50164-PoC](https://github.com/NikitaPark/CVE-2023-50164-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NikitaPark/CVE-2023-50164-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NikitaPark/CVE-2023-50164-PoC">
 - [powerlesssta/cve-2023-50164-poc](https://github.com/powerlesssta/cve-2023-50164-poc)	<img alt="forks" src="https://img.shields.io/github/forks/powerlesssta/cve-2023-50164-poc">	<img alt="stars" src="https://img.shields.io/github/stars/powerlesssta/cve-2023-50164-poc">
 - [Trackflaw/CVE-2024-10924-Wordpress-Docker](https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2024-10924-Wordpress-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2024-10924-Wordpress-Docker">
+- [separatefailu/cve-2023-50164-poc](https://github.com/separatefailu/cve-2023-50164-poc)	<img alt="forks" src="https://img.shields.io/github/forks/separatefailu/cve-2023-50164-poc">	<img alt="stars" src="https://img.shields.io/github/stars/separatefailu/cve-2023-50164-poc">
 
 ---
 ## CVE-2023-50132 ()
