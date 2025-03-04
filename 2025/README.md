@@ -259,6 +259,11 @@
 - [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-20029">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-20029">
 
 ---
+## CVE-2025-1716 ()
+> 
+- [shybu9/poc_CVE-2025-1716](https://github.com/shybu9/poc_CVE-2025-1716)	<img alt="forks" src="https://img.shields.io/github/forks/shybu9/poc_CVE-2025-1716">	<img alt="stars" src="https://img.shields.io/github/stars/shybu9/poc_CVE-2025-1716">
+
+---
 ## CVE-2025-1307 ()
 > 
 - [McTavishSue/CVE-2025-1307](https://github.com/McTavishSue/CVE-2025-1307)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-1307">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-1307">
