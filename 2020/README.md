@@ -1027,6 +1027,11 @@
 - [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
+## CVE-2020-36842 ()
+> 
+- [Nxploited/CVE-2020-36842](https://github.com/Nxploited/CVE-2020-36842)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2020-36842">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2020-36842">
+
+---
 ## CVE-2020-36732 (2023-06-12T02:15:00)
 > The crypto-js package before 3.2.1 for Node.js generates random numbers by concatenating the string "0." with an integer, which makes the output more predictable than necessary.
 - [miguelc49/CVE-2020-36732-1](https://github.com/miguelc49/CVE-2020-36732-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2020-36732-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2020-36732-1">
