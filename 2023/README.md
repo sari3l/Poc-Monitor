@@ -2773,7 +2773,7 @@ seconds of becoming unavailable.
 ---
 ## CVE-2023-40167 ()
 > 
-- [uthrasri/Jetty-v9.4.31_CVE-2023-40167-](https://github.com/uthrasri/Jetty-v9.4.31_CVE-2023-40167-)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Jetty-v9.4.31_CVE-2023-40167-">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Jetty-v9.4.31_CVE-2023-40167-">
+- [uthrasri/Jetty-v9.4.31_CVE-2023-40167](https://github.com/uthrasri/Jetty-v9.4.31_CVE-2023-40167)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Jetty-v9.4.31_CVE-2023-40167">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Jetty-v9.4.31_CVE-2023-40167">
 
 ---
 ## CVE-2023-40140 (2023-10-27T21:15:00)
