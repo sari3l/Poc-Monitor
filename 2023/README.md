@@ -745,6 +745,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [powerlesssta/cve-2023-50164-poc](https://github.com/powerlesssta/cve-2023-50164-poc)	<img alt="forks" src="https://img.shields.io/github/forks/powerlesssta/cve-2023-50164-poc">	<img alt="stars" src="https://img.shields.io/github/stars/powerlesssta/cve-2023-50164-poc">
 - [Trackflaw/CVE-2024-10924-Wordpress-Docker](https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2024-10924-Wordpress-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2024-10924-Wordpress-Docker">
 - [separatefailu/cve-2023-50164-poc](https://github.com/separatefailu/cve-2023-50164-poc)	<img alt="forks" src="https://img.shields.io/github/forks/separatefailu/cve-2023-50164-poc">	<img alt="stars" src="https://img.shields.io/github/stars/separatefailu/cve-2023-50164-poc">
+- [Pixel-DefaultBR/CVE-2023-50164](https://github.com/Pixel-DefaultBR/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/Pixel-DefaultBR/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/Pixel-DefaultBR/CVE-2023-50164">
 
 ---
 ## CVE-2023-50132 ()
