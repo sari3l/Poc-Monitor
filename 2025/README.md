@@ -282,6 +282,7 @@
 ## CVE-2025-1094 ()
 > 
 - [soltanali0/CVE-2025-1094-Exploit](https://github.com/soltanali0/CVE-2025-1094-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-1094-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-1094-Exploit">
+- [shacojx/CVE-2025-1094-Exploit](https://github.com/shacojx/CVE-2025-1094-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shacojx/CVE-2025-1094-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shacojx/CVE-2025-1094-Exploit">
 
 ---
 ## CVE-2025-10792 ()
