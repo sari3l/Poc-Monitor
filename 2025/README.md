@@ -9,6 +9,7 @@
 ## CVE-2025-26794 ()
 > 
 - [OscarBataille/CVE-2025-26794](https://github.com/OscarBataille/CVE-2025-26794)	<img alt="forks" src="https://img.shields.io/github/forks/OscarBataille/CVE-2025-26794">	<img alt="stars" src="https://img.shields.io/github/stars/OscarBataille/CVE-2025-26794">
+- [ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi](https://github.com/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi">
 
 ---
 ## CVE-2025-26466 ()
