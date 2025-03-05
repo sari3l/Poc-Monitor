@@ -361,3 +361,8 @@
 - [barcrange/CVE-2025-0108-Authentication-Bypass-checker](https://github.com/barcrange/CVE-2025-0108-Authentication-Bypass-checker)	<img alt="forks" src="https://img.shields.io/github/forks/barcrange/CVE-2025-0108-Authentication-Bypass-checker">	<img alt="stars" src="https://img.shields.io/github/stars/barcrange/CVE-2025-0108-Authentication-Bypass-checker">
 - [sohaibeb/CVE-2025-0108](https://github.com/sohaibeb/CVE-2025-0108)	<img alt="forks" src="https://img.shields.io/github/forks/sohaibeb/CVE-2025-0108">	<img alt="stars" src="https://img.shields.io/github/stars/sohaibeb/CVE-2025-0108">
 - [becrevex/CVE-2025-0108](https://github.com/becrevex/CVE-2025-0108)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2025-0108">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2025-0108">
+
+---
+## CVE-2025-0087 ()
+> 
+- [SpiralBL0CK/CVE-2025-0087-](https://github.com/SpiralBL0CK/CVE-2025-0087-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2025-0087-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2025-0087-">
