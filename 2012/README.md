@@ -47,6 +47,7 @@
 - [CpyRe/CVE-2012-2982](https://github.com/CpyRe/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/CpyRe/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/CpyRe/CVE-2012-2982">
 - [Shadow-Spinner/CVE-2012-2982_python](https://github.com/Shadow-Spinner/CVE-2012-2982_python)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow-Spinner/CVE-2012-2982_python">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow-Spinner/CVE-2012-2982_python">
 - [elliotosama/CVE-2012-2982](https://github.com/elliotosama/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/elliotosama/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/elliotosama/CVE-2012-2982">
+- [SieGer05/CVE-2012-2982-Webmin-Exploit](https://github.com/SieGer05/CVE-2012-2982-Webmin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SieGer05/CVE-2012-2982-Webmin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SieGer05/CVE-2012-2982-Webmin-Exploit">
 
 ---
 ## CVE-2012-2661 (2012-06-22T14:55:00)
