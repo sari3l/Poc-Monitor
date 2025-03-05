@@ -186,6 +186,7 @@
 - [Azrenom/CMS-Made-Simple-2.2.9-CVE-2019-9053](https://github.com/Azrenom/CMS-Made-Simple-2.2.9-CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/Azrenom/CMS-Made-Simple-2.2.9-CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/Azrenom/CMS-Made-Simple-2.2.9-CVE-2019-9053">
 - [louisthedonothing/CVE-2019-9053](https://github.com/louisthedonothing/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/louisthedonothing/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/louisthedonothing/CVE-2019-9053">
 - [Yzhacker/CVE-2019-9053-CMS46635-python3](https://github.com/Yzhacker/CVE-2019-9053-CMS46635-python3)	<img alt="forks" src="https://img.shields.io/github/forks/Yzhacker/CVE-2019-9053-CMS46635-python3">	<img alt="stars" src="https://img.shields.io/github/stars/Yzhacker/CVE-2019-9053-CMS46635-python3">
+- [hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-](https://github.com/hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-)	<img alt="forks" src="https://img.shields.io/github/forks/hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-">	<img alt="stars" src="https://img.shields.io/github/stars/hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)

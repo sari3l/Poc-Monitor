@@ -2051,6 +2051,11 @@ length to be included in the checksum calculation is fully consumed.
 - [Alexandr-bit253/CVE-2024-49039](https://github.com/Alexandr-bit253/CVE-2024-49039)	<img alt="forks" src="https://img.shields.io/github/forks/Alexandr-bit253/CVE-2024-49039">	<img alt="stars" src="https://img.shields.io/github/stars/Alexandr-bit253/CVE-2024-49039">
 
 ---
+## CVE-2024-49019 ()
+> 
+- [rayngnpc/CVE-2024-49019-rayng](https://github.com/rayngnpc/CVE-2024-49019-rayng)	<img alt="forks" src="https://img.shields.io/github/forks/rayngnpc/CVE-2024-49019-rayng">	<img alt="stars" src="https://img.shields.io/github/stars/rayngnpc/CVE-2024-49019-rayng">
+
+---
 ## CVE-2024-48990 (2024-11-19T18:15:00)
 > Qualys discovered that needrestart, before version 3.8, allows local attackers to execute arbitrary code as root by tricking needrestart into running the Python interpreter with an attacker-controlled PYTHONPATH environment variable.
 - [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/makuga01/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/makuga01/CVE-2024-48990-PoC">
