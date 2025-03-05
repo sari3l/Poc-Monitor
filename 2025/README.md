@@ -84,6 +84,16 @@
 - [Sudo-Sakib/CVE-2025-25964](https://github.com/Sudo-Sakib/CVE-2025-25964)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-Sakib/CVE-2025-25964">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-Sakib/CVE-2025-25964">
 
 ---
+## CVE-2025-25621 ()
+> 
+- [armaansidana2003/CVE-2025-25621](https://github.com/armaansidana2003/CVE-2025-25621)	<img alt="forks" src="https://img.shields.io/github/forks/armaansidana2003/CVE-2025-25621">	<img alt="stars" src="https://img.shields.io/github/stars/armaansidana2003/CVE-2025-25621">
+
+---
+## CVE-2025-25620 ()
+> 
+- [armaansidana2003/CVE-2025-25620](https://github.com/armaansidana2003/CVE-2025-25620)	<img alt="forks" src="https://img.shields.io/github/forks/armaansidana2003/CVE-2025-25620">	<img alt="stars" src="https://img.shields.io/github/stars/armaansidana2003/CVE-2025-25620">
+
+---
 ## CVE-2025-25618 ()
 > 
 - [armaansidana2003/CVE-2025-25618](https://github.com/armaansidana2003/CVE-2025-25618)	<img alt="forks" src="https://img.shields.io/github/forks/armaansidana2003/CVE-2025-25618">	<img alt="stars" src="https://img.shields.io/github/stars/armaansidana2003/CVE-2025-25618">
