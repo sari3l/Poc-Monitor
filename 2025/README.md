@@ -84,6 +84,16 @@
 - [Sudo-Sakib/CVE-2025-25964](https://github.com/Sudo-Sakib/CVE-2025-25964)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-Sakib/CVE-2025-25964">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-Sakib/CVE-2025-25964">
 
 ---
+## CVE-2025-25615 ()
+> 
+- [armaansidana2003/CVE-2025-25615](https://github.com/armaansidana2003/CVE-2025-25615)	<img alt="forks" src="https://img.shields.io/github/forks/armaansidana2003/CVE-2025-25615">	<img alt="stars" src="https://img.shields.io/github/stars/armaansidana2003/CVE-2025-25615">
+
+---
+## CVE-2025-25614 ()
+> 
+- [armaansidana2003/CVE-2025-25614](https://github.com/armaansidana2003/CVE-2025-25614)	<img alt="forks" src="https://img.shields.io/github/forks/armaansidana2003/CVE-2025-25614">	<img alt="stars" src="https://img.shields.io/github/stars/armaansidana2003/CVE-2025-25614">
+
+---
 ## CVE-2025-25612 ()
 > 
 - [secmuzz/CVE-2025-25612](https://github.com/secmuzz/CVE-2025-25612)	<img alt="forks" src="https://img.shields.io/github/forks/secmuzz/CVE-2025-25612">	<img alt="stars" src="https://img.shields.io/github/stars/secmuzz/CVE-2025-25612">
