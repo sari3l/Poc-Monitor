@@ -29,6 +29,11 @@
 - [azurejoga/CVE-2025-26326](https://github.com/azurejoga/CVE-2025-26326)	<img alt="forks" src="https://img.shields.io/github/forks/azurejoga/CVE-2025-26326">	<img alt="stars" src="https://img.shields.io/github/stars/azurejoga/CVE-2025-26326">
 
 ---
+## CVE-2025-26319 ()
+> 
+- [dorattias/CVE-2025-26319](https://github.com/dorattias/CVE-2025-26319)	<img alt="forks" src="https://img.shields.io/github/forks/dorattias/CVE-2025-26319">	<img alt="stars" src="https://img.shields.io/github/stars/dorattias/CVE-2025-26319">
+
+---
 ## CVE-2025-26318 ()
 > 
 - [Frozenka/CVE-2025-26318](https://github.com/Frozenka/CVE-2025-26318)	<img alt="forks" src="https://img.shields.io/github/forks/Frozenka/CVE-2025-26318">	<img alt="stars" src="https://img.shields.io/github/stars/Frozenka/CVE-2025-26318">
