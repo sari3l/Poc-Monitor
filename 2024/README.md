@@ -5176,6 +5176,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Chokopikkk/CVE-2024-31345_exploit](https://github.com/Chokopikkk/CVE-2024-31345_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopikkk/CVE-2024-31345_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopikkk/CVE-2024-31345_exploit">
 
 ---
+## CVE-2024-31320 ()
+> 
+- [SpiralBL0CK/CVE-2024-31320-](https://github.com/SpiralBL0CK/CVE-2024-31320-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-31320-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-31320-">
+
+---
 ## CVE-2024-31319 (2024-07-09T21:15:00)
 > In updateNotificationChannelFromPrivilegedListener of NotificationManagerService.java, there is a possible cross-user data leak due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039](https://github.com/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039)	<img alt="forks" src="https://img.shields.io/github/forks/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039">	<img alt="stars" src="https://img.shields.io/github/stars/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039">
