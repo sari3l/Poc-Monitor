@@ -1039,6 +1039,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [xem6/CVE-2023-4911](https://github.com/xem6/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/xem6/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/xem6/CVE-2023-4911">
 - [Billar42/CVE-2023-4911](https://github.com/Billar42/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Billar42/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Billar42/CVE-2023-4911">
 - [dungNHVhust/CVE-2023-4911](https://github.com/dungNHVhust/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/dungNHVhust/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/dungNHVhust/CVE-2023-4911">
+- [shacojx/CVE-2023-4911-Exploit](https://github.com/shacojx/CVE-2023-4911-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shacojx/CVE-2023-4911-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shacojx/CVE-2023-4911-Exploit">
 
 ---
 ## CVE-2023-49103 (2023-11-21T22:15:00)
@@ -3465,6 +3466,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 ## CVE-2023-37474 (2023-07-14T20:15:00)
 > Copyparty is a portable file server. Versions prior to 1.8.2 are subject to a path traversal vulnerability detected in the `.cpr` subfolder. The Path Traversal attack technique allows an attacker access to files, directories, and commands that reside outside the web document root directory. This issue has been addressed in commit `043e3c7d` which has been included in release 1.8.2. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [ilqarli27/CVE-2023-37474](https://github.com/ilqarli27/CVE-2023-37474)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37474">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37474">
+
+---
+## CVE-2023-37456 ()
+> 
+- [SpiralBL0CK/cve-2023-37456](https://github.com/SpiralBL0CK/cve-2023-37456)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/cve-2023-37456">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/cve-2023-37456">
 
 ---
 ## CVE-2023-37250 (2023-08-20T08:15:00)
