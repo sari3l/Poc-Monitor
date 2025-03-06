@@ -5077,6 +5077,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [ashutosh0408/CVE-2024-32002](https://github.com/ashutosh0408/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/ashutosh0408/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/ashutosh0408/CVE-2024-32002">
 - [razenkovv/hook](https://github.com/razenkovv/hook)	<img alt="forks" src="https://img.shields.io/github/forks/razenkovv/hook">	<img alt="stars" src="https://img.shields.io/github/stars/razenkovv/hook">
 - [razenkovv/captain](https://github.com/razenkovv/captain)	<img alt="forks" src="https://img.shields.io/github/forks/razenkovv/captain">	<img alt="stars" src="https://img.shields.io/github/stars/razenkovv/captain">
+- [ashutosh0408/Cve-2024-32002-poc](https://github.com/ashutosh0408/Cve-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ashutosh0408/Cve-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ashutosh0408/Cve-2024-32002-poc">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
@@ -7330,6 +7331,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [verylazytech/CVE-2024-23692](https://github.com/verylazytech/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-23692">
 - [XiaomingX/cve-2024-23692-poc](https://github.com/XiaomingX/cve-2024-23692-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-23692-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-23692-poc">
 - [NingXin2002/HFS2.3_poc](https://github.com/NingXin2002/HFS2.3_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/HFS2.3_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/HFS2.3_poc">
+- [999gawkboyy/CVE-2024-23692_Exploit](https://github.com/999gawkboyy/CVE-2024-23692_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/999gawkboyy/CVE-2024-23692_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/999gawkboyy/CVE-2024-23692_Exploit">
 
 ---
 ## CVE-2024-23691 ()
