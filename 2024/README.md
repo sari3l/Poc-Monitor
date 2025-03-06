@@ -3928,6 +3928,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/CVE-2024-38036">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/CVE-2024-38036">
 
 ---
+## CVE-2024-38014 ()
+> 
+- [Anurag-Chevendra/CVE-2024-38014](https://github.com/Anurag-Chevendra/CVE-2024-38014)	<img alt="forks" src="https://img.shields.io/github/forks/Anurag-Chevendra/CVE-2024-38014">	<img alt="stars" src="https://img.shields.io/github/stars/Anurag-Chevendra/CVE-2024-38014">
+
+---
 ## CVE-2024-37889 (2024-06-14T20:15:00)
 > MyFinances is a web application for managing finances. MyFinances has a way to access other customer invoices while signed in as a user. This method allows an actor to access PII and financial information from another account. The vulnerability is fixed in 0.4.6.
 - [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889)	<img alt="forks" src="https://img.shields.io/github/forks/uname-s/CVE-2024-37889">	<img alt="stars" src="https://img.shields.io/github/stars/uname-s/CVE-2024-37889">
