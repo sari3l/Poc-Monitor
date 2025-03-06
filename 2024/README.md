@@ -536,6 +536,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-7014 ()
 > 
 - [hexspectrum1/CVE-2024-7014](https://github.com/hexspectrum1/CVE-2024-7014)	<img alt="forks" src="https://img.shields.io/github/forks/hexspectrum1/CVE-2024-7014">	<img alt="stars" src="https://img.shields.io/github/stars/hexspectrum1/CVE-2024-7014">
+- [hexspectrum1/CVE-2024-7014](https://github.com/hexspectrum1/CVE-2024-7014)	<img alt="forks" src="https://img.shields.io/github/forks/hexspectrum1/CVE-2024-7014">	<img alt="stars" src="https://img.shields.io/github/stars/hexspectrum1/CVE-2024-7014">
 
 ---
 ## CVE-2024-6893 (2024-08-08T00:15:00)
