@@ -533,6 +533,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [geniuszlyy/CVE-2024-7029](https://github.com/geniuszlyy/CVE-2024-7029)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-7029">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-7029">
 
 ---
+## CVE-2024-7014 ()
+> 
+- [hexspectrum1/CVE-2024-7014](https://github.com/hexspectrum1/CVE-2024-7014)	<img alt="forks" src="https://img.shields.io/github/forks/hexspectrum1/CVE-2024-7014">	<img alt="stars" src="https://img.shields.io/github/stars/hexspectrum1/CVE-2024-7014">
+
+---
 ## CVE-2024-6893 (2024-08-08T00:15:00)
 > The "soap_cgi.pyc" API handler allows the XML body of SOAP requests to contain references to external entities. This allows an unauthenticated attacker to read local files, perform server-side request forgery, and overwhelm the web server resources.
 - [codeb0ss/CVE-2024-6893-PoC](https://github.com/codeb0ss/CVE-2024-6893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-6893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-6893-PoC">
