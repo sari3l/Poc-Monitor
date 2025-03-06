@@ -4120,6 +4120,11 @@
 - [Live-Hack-CVE/CVE-2020-14305](https://github.com/Live-Hack-CVE/CVE-2020-14305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14305">
 
 ---
+## CVE-2020-14181 ()
+> 
+- [Rival420/CVE-2020-14181](https://github.com/Rival420/CVE-2020-14181)	<img alt="forks" src="https://img.shields.io/github/forks/Rival420/CVE-2020-14181">	<img alt="stars" src="https://img.shields.io/github/stars/Rival420/CVE-2020-14181">
+
+---
 ## CVE-2020-14179 (2020-09-21T01:15:00)
 > Affected versions of Atlassian Jira Server and Data Center allow remote, unauthenticated attackers to view custom field names and custom SLA names via an Information Disclosure vulnerability in the /secure/QueryComponent!Default.jspa endpoint. The affected versions are before version 8.5.8, and from version 8.6.0 before 8.11.1.
 - [mrnazu/CVE-2020-14179](https://github.com/mrnazu/CVE-2020-14179)	<img alt="forks" src="https://img.shields.io/github/forks/mrnazu/CVE-2020-14179">	<img alt="stars" src="https://img.shields.io/github/stars/mrnazu/CVE-2020-14179">
