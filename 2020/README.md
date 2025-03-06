@@ -4123,6 +4123,8 @@
 ## CVE-2020-14181 ()
 > 
 - [Rival420/CVE-2020-14181](https://github.com/Rival420/CVE-2020-14181)	<img alt="forks" src="https://img.shields.io/github/forks/Rival420/CVE-2020-14181">	<img alt="stars" src="https://img.shields.io/github/stars/Rival420/CVE-2020-14181">
+- [und3sc0n0c1d0/UserEnumJira](https://github.com/und3sc0n0c1d0/UserEnumJira)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/UserEnumJira">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/UserEnumJira">
+- [bk-rao/CVE-2020-14181](https://github.com/bk-rao/CVE-2020-14181)	<img alt="forks" src="https://img.shields.io/github/forks/bk-rao/CVE-2020-14181">	<img alt="stars" src="https://img.shields.io/github/stars/bk-rao/CVE-2020-14181">
 
 ---
 ## CVE-2020-14179 (2020-09-21T01:15:00)
