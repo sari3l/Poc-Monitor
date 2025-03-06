@@ -5074,6 +5074,9 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Katherine-song/CVE-2024-32002](https://github.com/Katherine-song/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Katherine-song/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Katherine-song/CVE-2024-32002">
 - [Katherine-song/CVE-2024-32002](https://github.com/Katherine-song/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Katherine-song/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Katherine-song/CVE-2024-32002">
 - [Katherine-song/CVE-2024-32002](https://github.com/Katherine-song/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Katherine-song/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Katherine-song/CVE-2024-32002">
+- [ashutosh0408/CVE-2024-32002](https://github.com/ashutosh0408/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/ashutosh0408/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/ashutosh0408/CVE-2024-32002">
+- [razenkovv/hook](https://github.com/razenkovv/hook)	<img alt="forks" src="https://img.shields.io/github/forks/razenkovv/hook">	<img alt="stars" src="https://img.shields.io/github/stars/razenkovv/hook">
+- [razenkovv/captain](https://github.com/razenkovv/captain)	<img alt="forks" src="https://img.shields.io/github/forks/razenkovv/captain">	<img alt="stars" src="https://img.shields.io/github/stars/razenkovv/captain">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
