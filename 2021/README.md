@@ -3907,6 +3907,11 @@
 - [Live-Hack-CVE/CVE-2021-3781](https://github.com/Live-Hack-CVE/CVE-2021-3781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3781">
 
 ---
+## CVE-2021-37787 ()
+> 
+- [vasykor/CVE-2021-37787](https://github.com/vasykor/CVE-2021-37787)	<img alt="forks" src="https://img.shields.io/github/forks/vasykor/CVE-2021-37787">	<img alt="stars" src="https://img.shields.io/github/stars/vasykor/CVE-2021-37787">
+
+---
 ## CVE-2021-3778 (2021-09-15T08:15:00)
 > vim is vulnerable to Heap-based Buffer Overflow
 - [Live-Hack-CVE/CVE-2021-3778](https://github.com/Live-Hack-CVE/CVE-2021-3778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3778">
