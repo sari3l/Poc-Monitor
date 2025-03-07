@@ -59,6 +59,21 @@
 - [A17-ba/CVE-2025-26202-Details](https://github.com/A17-ba/CVE-2025-26202-Details)	<img alt="forks" src="https://img.shields.io/github/forks/A17-ba/CVE-2025-26202-Details">	<img alt="stars" src="https://img.shields.io/github/stars/A17-ba/CVE-2025-26202-Details">
 
 ---
+## CVE-2025-26056 ()
+> 
+- [rohan-pt/CVE-2025-26056](https://github.com/rohan-pt/CVE-2025-26056)	<img alt="forks" src="https://img.shields.io/github/forks/rohan-pt/CVE-2025-26056">	<img alt="stars" src="https://img.shields.io/github/stars/rohan-pt/CVE-2025-26056">
+
+---
+## CVE-2025-26055 ()
+> 
+- [rohan-pt/CVE-2025-26055](https://github.com/rohan-pt/CVE-2025-26055)	<img alt="forks" src="https://img.shields.io/github/forks/rohan-pt/CVE-2025-26055">	<img alt="stars" src="https://img.shields.io/github/stars/rohan-pt/CVE-2025-26055">
+
+---
+## CVE-2025-26054 ()
+> 
+- [rohan-pt/CVE-2025-26054](https://github.com/rohan-pt/CVE-2025-26054)	<img alt="forks" src="https://img.shields.io/github/forks/rohan-pt/CVE-2025-26054">	<img alt="stars" src="https://img.shields.io/github/stars/rohan-pt/CVE-2025-26054">
+
+---
 ## CVE-2025-25979 ()
 > 
 - [padayali-JD/CVE-2025-25979](https://github.com/padayali-JD/CVE-2025-25979)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2025-25979">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2025-25979">
