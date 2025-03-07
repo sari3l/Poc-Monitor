@@ -89,6 +89,16 @@
 - [J-0k3r/CVE-2025-25763](https://github.com/J-0k3r/CVE-2025-25763)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2025-25763">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2025-25763">
 
 ---
+## CVE-2025-25749 ()
+> 
+- [huyvo2910/CVE-2025-25749-Weak-Password-Policy-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2025-25749-Weak-Password-Policy-in-HotelDruid-3.0.7)	<img alt="forks" src="https://img.shields.io/github/forks/huyvo2910/CVE-2025-25749-Weak-Password-Policy-in-HotelDruid-3.0.7">	<img alt="stars" src="https://img.shields.io/github/stars/huyvo2910/CVE-2025-25749-Weak-Password-Policy-in-HotelDruid-3.0.7">
+
+---
+## CVE-2025-25747 ()
+> 
+- [huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS](https://github.com/huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS">
+
+---
 ## CVE-2025-25621 ()
 > 
 - [armaansidana2003/CVE-2025-25621](https://github.com/armaansidana2003/CVE-2025-25621)	<img alt="forks" src="https://img.shields.io/github/forks/armaansidana2003/CVE-2025-25621">	<img alt="stars" src="https://img.shields.io/github/stars/armaansidana2003/CVE-2025-25621">
