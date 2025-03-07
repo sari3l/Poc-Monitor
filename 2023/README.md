@@ -2854,6 +2854,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [rvizx/CVE-2023-40028](https://github.com/rvizx/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-40028">
 - [godylockz/CVE-2023-40028](https://github.com/godylockz/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2023-40028">
 - [rehan6658/CVE-2023-40028](https://github.com/rehan6658/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/rehan6658/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/rehan6658/CVE-2023-40028">
+- [syogod/CVE-2023-40028](https://github.com/syogod/CVE-2023-40028)	<img alt="forks" src="https://img.shields.io/github/forks/syogod/CVE-2023-40028">	<img alt="stars" src="https://img.shields.io/github/stars/syogod/CVE-2023-40028">
 
 ---
 ## CVE-2023-40000 (2024-04-16T18:15:00)
