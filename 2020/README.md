@@ -3992,8 +3992,9 @@
 - [logg-1/0logon](https://github.com/logg-1/0logon)	<img alt="forks" src="https://img.shields.io/github/forks/logg-1/0logon">	<img alt="stars" src="https://img.shields.io/github/stars/logg-1/0logon">
 - [c3rrberu5/ZeroLogon-to-Shell](https://github.com/c3rrberu5/ZeroLogon-to-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/c3rrberu5/ZeroLogon-to-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/c3rrberu5/ZeroLogon-to-Shell">
 - [JolynNgSC/Zerologon_CVE-2020-1472](https://github.com/JolynNgSC/Zerologon_CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/JolynNgSC/Zerologon_CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/JolynNgSC/Zerologon_CVE-2020-1472">
-- [TuanCui22/CVE-2020-1472-Zerologon-impacket-2024](https://github.com/TuanCui22/CVE-2020-1472-Zerologon-impacket-2024)	<img alt="forks" src="https://img.shields.io/github/forks/TuanCui22/CVE-2020-1472-Zerologon-impacket-2024">	<img alt="stars" src="https://img.shields.io/github/stars/TuanCui22/CVE-2020-1472-Zerologon-impacket-2024">
+- [TuanCui22/ZerologonWithImpacket-CVE2020-1472](https://github.com/TuanCui22/ZerologonWithImpacket-CVE2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/TuanCui22/ZerologonWithImpacket-CVE2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/TuanCui22/ZerologonWithImpacket-CVE2020-1472">
 - [blackh00d/zerologon-poc](https://github.com/blackh00d/zerologon-poc)	<img alt="forks" src="https://img.shields.io/github/forks/blackh00d/zerologon-poc">	<img alt="stars" src="https://img.shields.io/github/stars/blackh00d/zerologon-poc">
+- [PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.](https://github.com/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.)	<img alt="forks" src="https://img.shields.io/github/forks/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.">	<img alt="stars" src="https://img.shields.io/github/stars/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
