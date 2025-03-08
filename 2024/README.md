@@ -857,6 +857,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 ## CVE-2024-5806 (2024-06-25T15:15:00)
 > Improper Authentication vulnerability in Progress MOVEit Transfer (SFTP module) can lead to Authentication Bypass in limited scenarios.This issue affects MOVEit Transfer: from 2023.0.0 before 2023.0.11, from 2023.1.0 before 2023.1.6, from 2024.0.0 before 2024.0.2.
 - [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">
+- [sec13b/CVE-2024-5806](https://github.com/sec13b/CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/sec13b/CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/sec13b/CVE-2024-5806">
 
 ---
 ## CVE-2024-57972 ()
@@ -2576,6 +2577,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-45519">
 - [whiterose7777/CVE-2024-45519](https://github.com/whiterose7777/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-45519">
 - [XiaomingX/cve-2024-45519-poc](https://github.com/XiaomingX/cve-2024-45519-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-45519-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-45519-poc">
+- [sec13b/CVE-2024-45519](https://github.com/sec13b/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/sec13b/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/sec13b/CVE-2024-45519">
 
 ---
 ## CVE-2024-45507 (2024-09-04T09:15:00)
