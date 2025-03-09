@@ -5869,6 +5869,7 @@ The specific flaw exists within the exportXFAData method. The application expose
 - [ASG-CASTLE/CVE-2023-27350](https://github.com/ASG-CASTLE/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/ASG-CASTLE/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/ASG-CASTLE/CVE-2023-27350">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 - [rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability](https://github.com/rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability">
+- [monke443/CVE-2023-27350](https://github.com/monke443/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/monke443/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/monke443/CVE-2023-27350">
 
 ---
 ## CVE-2023-27326 (2024-05-03T02:15:00)
