@@ -4068,6 +4068,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 > Ollama before 0.1.34 does not validate the format of the digest (sha256 with 64 hex digits) when getting the model path, and thus mishandles the TestGetBlobsPath test cases such as fewer than 64 hex digits, more than 64 hex digits, or an initial ../ substring.
 - [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032)	<img alt="forks" src="https://img.shields.io/github/forks/Bi0x/CVE-2024-37032">	<img alt="stars" src="https://img.shields.io/github/stars/Bi0x/CVE-2024-37032">
 - [ahboon/CVE-2024-37032-scanner](https://github.com/ahboon/CVE-2024-37032-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ahboon/CVE-2024-37032-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ahboon/CVE-2024-37032-scanner">
+- [pankass/CVE-2024-37032_CVE-2024-45436](https://github.com/pankass/CVE-2024-37032_CVE-2024-45436)	<img alt="forks" src="https://img.shields.io/github/forks/pankass/CVE-2024-37032_CVE-2024-45436">	<img alt="stars" src="https://img.shields.io/github/stars/pankass/CVE-2024-37032_CVE-2024-45436">
 
 ---
 ## CVE-2024-36991 (2024-07-01T17:15:00)
