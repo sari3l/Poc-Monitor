@@ -8944,6 +8944,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10629 ()
 > 
 - [RandomRobbieBF/CVE-2024-10629](https://github.com/RandomRobbieBF/CVE-2024-10629)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10629">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10629">
+- [Nxploited/CVE-2024-10629](https://github.com/Nxploited/CVE-2024-10629)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10629">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10629">
 
 ---
 ## CVE-2024-10592 ()
