@@ -1941,6 +1941,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [paltrybelly/CVE-2024-50379](https://github.com/paltrybelly/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/paltrybelly/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/paltrybelly/CVE-2024-50379">
 - [dkstar11q/CVE-2024-50379-nuclei](https://github.com/dkstar11q/CVE-2024-50379-nuclei)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/CVE-2024-50379-nuclei">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/CVE-2024-50379-nuclei">
 - [shoddykilom/CVE-2024-50379](https://github.com/shoddykilom/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/shoddykilom/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/shoddykilom/CVE-2024-50379">
+- [unkemptpanc/CVE-2024-50379](https://github.com/unkemptpanc/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/unkemptpanc/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/unkemptpanc/CVE-2024-50379">
 
 ---
 ## CVE-2024-50340 ()
