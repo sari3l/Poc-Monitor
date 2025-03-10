@@ -1265,6 +1265,8 @@
 ## CVE-2017-1182 ()
 > 
 - [Morfeen01/cve-2017-1182-TN](https://github.com/Morfeen01/cve-2017-1182-TN)	<img alt="forks" src="https://img.shields.io/github/forks/Morfeen01/cve-2017-1182-TN">	<img alt="stars" src="https://img.shields.io/github/stars/Morfeen01/cve-2017-1182-TN">
+- [chefphenix25/vuln-rabilit-windows7](https://github.com/chefphenix25/vuln-rabilit-windows7)	<img alt="forks" src="https://img.shields.io/github/forks/chefphenix25/vuln-rabilit-windows7">	<img alt="stars" src="https://img.shields.io/github/stars/chefphenix25/vuln-rabilit-windows7">
+- [thatskriptkid/CVE-2017-11826](https://github.com/thatskriptkid/CVE-2017-11826)	<img alt="forks" src="https://img.shields.io/github/forks/thatskriptkid/CVE-2017-11826">	<img alt="stars" src="https://img.shields.io/github/stars/thatskriptkid/CVE-2017-11826">
 
 ---
 ## CVE-2017-11683 (2017-07-27T06:29:00)
