@@ -9021,6 +9021,7 @@
 - [whoami-chmod777/CVE-2021-1675-CVE-2021-34527](https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/whoami-chmod777/CVE-2021-1675-CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/whoami-chmod777/CVE-2021-1675-CVE-2021-34527">
 - [peckre/PNCVE-Win10-20H2-Exploit](https://github.com/peckre/PNCVE-Win10-20H2-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/peckre/PNCVE-Win10-20H2-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/peckre/PNCVE-Win10-20H2-Exploit">
 - [0xSs0rZ/Windows_Exploit](https://github.com/0xSs0rZ/Windows_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xSs0rZ/Windows_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xSs0rZ/Windows_Exploit">
+- [Sp4ceDogy/NPE-CS-V-CVE-2021-1675](https://github.com/Sp4ceDogy/NPE-CS-V-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/Sp4ceDogy/NPE-CS-V-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/Sp4ceDogy/NPE-CS-V-CVE-2021-1675">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)
