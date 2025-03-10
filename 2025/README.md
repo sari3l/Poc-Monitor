@@ -347,6 +347,11 @@
 - [Dit-Developers/CVE-2025-21298](https://github.com/Dit-Developers/CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/Dit-Developers/CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/Dit-Developers/CVE-2025-21298">
 
 ---
+## CVE-2025-21293 ()
+> 
+- [ahmedumarehman/CVE-2025-21293](https://github.com/ahmedumarehman/CVE-2025-21293)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedumarehman/CVE-2025-21293">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedumarehman/CVE-2025-21293">
+
+---
 ## CVE-2025-20029 ()
 > 
 - [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-20029">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-20029">
