@@ -150,6 +150,7 @@
 ## CVE-2013-2010 ()
 > 
 - [spyata123/w3-total-cache-cve-2013-2010](https://github.com/spyata123/w3-total-cache-cve-2013-2010)	<img alt="forks" src="https://img.shields.io/github/forks/spyata123/w3-total-cache-cve-2013-2010">	<img alt="stars" src="https://img.shields.io/github/stars/spyata123/w3-total-cache-cve-2013-2010">
+- [ann0906/proxylogon](https://github.com/ann0906/proxylogon)	<img alt="forks" src="https://img.shields.io/github/forks/ann0906/proxylogon">	<img alt="stars" src="https://img.shields.io/github/stars/ann0906/proxylogon">
 
 ---
 ## CVE-2013-20004 (2022-02-06T21:15:00)
