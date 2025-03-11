@@ -804,6 +804,11 @@ As exploitation requires "Allow only extensions distributed through the Docker M
 - [j3r1ch0123/CVE-2024-6205](https://github.com/j3r1ch0123/CVE-2024-6205)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2024-6205">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2024-6205">
 
 ---
+## CVE-2024-6132 ()
+> 
+- [Nxploited/CVE-2024-6132](https://github.com/Nxploited/CVE-2024-6132)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6132">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6132">
+
+---
 ## CVE-2024-6095 (2024-07-06T18:15:00)
 > A vulnerability in the /models/apply endpoint of mudler/localai versions 2.15.0 allows for Server-Side Request Forgery (SSRF) and partial Local File Inclusion (LFI). The endpoint supports both http(s):// and file:// schemes, where the latter can lead to LFI. However, the output is limited due to the length of the error message. This vulnerability can be exploited by an attacker with network access to the LocalAI instance, potentially allowing unauthorized access to internal HTTP(s) servers and partial reading of local files. The issue is fixed in version 2.17.
 - [Abdurahmon3236/-CVE-2024-6095](https://github.com/Abdurahmon3236/-CVE-2024-6095)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-6095">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-6095">
