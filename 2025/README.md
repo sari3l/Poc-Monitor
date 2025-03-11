@@ -339,6 +339,7 @@
 > 
 - [MrAle98/CVE-2025-21333-POC](https://github.com/MrAle98/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MrAle98/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MrAle98/CVE-2025-21333-POC">
 - [Mukesh-blend/CVE-2025-21333-POC](https://github.com/Mukesh-blend/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Mukesh-blend/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Mukesh-blend/CVE-2025-21333-POC">
+- [aleongx/KQL_sentinel_CVE-2025-21333](https://github.com/aleongx/KQL_sentinel_CVE-2025-21333)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/KQL_sentinel_CVE-2025-21333">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/KQL_sentinel_CVE-2025-21333">
 
 ---
 ## CVE-2025-21298 ()
