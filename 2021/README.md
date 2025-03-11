@@ -2280,6 +2280,7 @@
 - [FakesiteSecurity/CVE-2021-41773](https://github.com/FakesiteSecurity/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/FakesiteSecurity/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/FakesiteSecurity/CVE-2021-41773">
 - [Taldrid1/cve-2021-41773](https://github.com/Taldrid1/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Taldrid1/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Taldrid1/cve-2021-41773">
 - [tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773](https://github.com/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773">
+- [Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013](https://github.com/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
