@@ -4530,6 +4530,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 ## CVE-2024-34370 ()
 > 
 - [pashayogi/CVE-2024-34370](https://github.com/pashayogi/CVE-2024-34370)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2024-34370">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2024-34370">
+- [Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally](https://github.com/Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally)	<img alt="forks" src="https://img.shields.io/github/forks/Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally">	<img alt="stars" src="https://img.shields.io/github/stars/Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally">
 
 ---
 ## CVE-2024-34361 (2024-07-05T19:15:00)
