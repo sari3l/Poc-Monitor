@@ -4527,6 +4527,11 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/CVE-2024-34452">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/CVE-2024-34452">
 
 ---
+## CVE-2024-34370 ()
+> 
+- [pashayogi/CVE-2024-34370](https://github.com/pashayogi/CVE-2024-34370)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2024-34370">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2024-34370">
+
+---
 ## CVE-2024-34361 (2024-07-05T19:15:00)
 > Pi-hole is a DNS sinkhole that protects devices from unwanted content without installing any client-side software. A vulnerability in versions prior to 5.18.3 allows an authenticated user to make internal requests to the server via the `gravity_DownloadBlocklistFromUrl()` function. Depending on some circumstances, the vulnerability could lead to remote command execution. Version 5.18.3 contains a patch for this issue.
 - [T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE](https://github.com/T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE">
