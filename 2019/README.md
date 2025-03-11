@@ -1637,6 +1637,7 @@ use after free.
 - [ATorNinja/CVE-2019-2215](https://github.com/ATorNinja/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/ATorNinja/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/ATorNinja/CVE-2019-2215">
 - [XiaozaYa/CVE-2019-2215](https://github.com/XiaozaYa/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/XiaozaYa/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/XiaozaYa/CVE-2019-2215">
 - [R0rt1z2/huawei-unlock](https://github.com/R0rt1z2/huawei-unlock)	<img alt="forks" src="https://img.shields.io/github/forks/R0rt1z2/huawei-unlock">	<img alt="stars" src="https://img.shields.io/github/stars/R0rt1z2/huawei-unlock">
+- [0xbinder/android-kernel-exploitation-cve-2019-2215](https://github.com/0xbinder/android-kernel-exploitation-cve-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/android-kernel-exploitation-cve-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/android-kernel-exploitation-cve-2019-2215">
 
 ---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
