@@ -69,6 +69,11 @@
 - [viniciuslazzari/CVE-2024-9796](https://github.com/viniciuslazzari/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/viniciuslazzari/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/viniciuslazzari/CVE-2024-9796">
 
 ---
+## CVE-2024-9756 ()
+> 
+- [Nxploited/CVE-2024-9756](https://github.com/Nxploited/CVE-2024-9756)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9756">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9756">
+
+---
 ## CVE-2024-9707 ()
 > 
 - [Nxploited/CVE-2024-9707-Poc](https://github.com/Nxploited/CVE-2024-9707-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9707-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9707-Poc">

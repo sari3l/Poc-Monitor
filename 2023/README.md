@@ -3407,6 +3407,11 @@ of headers and eventually cause curl to run out of heap memory.
 - [jakabakos/CVE-2023-37679-mirth-connect-rce-poc](https://github.com/jakabakos/CVE-2023-37679-mirth-connect-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-37679-mirth-connect-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-37679-mirth-connect-rce-poc">
 
 ---
+## CVE-2023-37635 ()
+> 
+- [oussama-binike/cve-2023-37635](https://github.com/oussama-binike/cve-2023-37635)	<img alt="forks" src="https://img.shields.io/github/forks/oussama-binike/cve-2023-37635">	<img alt="stars" src="https://img.shields.io/github/stars/oussama-binike/cve-2023-37635">
+
+---
 ## CVE-2023-37625 (2023-08-10T20:15:00)
 > A stored cross-site scripting (XSS) vulnerability in Netbox v3.4.7 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Custom Link templates.
 - [benjaminpsinclair/Netbox-CVE-2023-37625](https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netbox-CVE-2023-37625">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netbox-CVE-2023-37625">
