@@ -365,6 +365,11 @@ to load arbitrary JavaScript code.
 - [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/angkerithhack001/CVE-2023-5360-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/angkerithhack001/CVE-2023-5360-PoC">
 
 ---
+## CVE-2023-5359 ()
+> 
+- [spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache](https://github.com/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache">
+
+---
 ## CVE-2023-52709 ()
 > 
 - [KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC](https://github.com/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC">

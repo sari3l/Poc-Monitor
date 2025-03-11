@@ -352,6 +352,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">
 
 ---
+## CVE-2024-8289 ()
+> 
+- [pashayogi/CVE-2024-8289](https://github.com/pashayogi/CVE-2024-8289)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2024-8289">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2024-8289">
+
+---
 ## CVE-2024-8277 (2024-09-11T09:15:00)
 > The WooCommerce Photo Reviews Premium plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 1.3.13.2. This is due to the plugin not properly validating what user transient is being used in the login() function and not properly verifying the user's identity. This makes it possible for unauthenticated attackers to log in as user that has dismissed an admin notice in the past 30 days, which is often an administrator. Alternatively, a user can log in as any user with any transient that has a valid user_id as the value, though it would be more difficult to exploit this successfully.
 - [realbotnet/CVE-2024-8277](https://github.com/realbotnet/CVE-2024-8277)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-8277">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-8277">
@@ -8685,6 +8690,11 @@ authentication.   
 - [RandomRobbieBF/CVE-2024-12025](https://github.com/RandomRobbieBF/CVE-2024-12025)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12025">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12025">
 
 ---
+## CVE-2024-12008 ()
+> 
+- [spyata123/CVE-2024-12008-information-exposure-vulnerability-in-W3-Total-Cache](https://github.com/spyata123/CVE-2024-12008-information-exposure-vulnerability-in-W3-Total-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/spyata123/CVE-2024-12008-information-exposure-vulnerability-in-W3-Total-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/spyata123/CVE-2024-12008-information-exposure-vulnerability-in-W3-Total-Cache">
+
+---
 ## CVE-2024-11972 ()
 > 
 - [JunTakemura/exploit-CVE-2024-11972](https://github.com/JunTakemura/exploit-CVE-2024-11972)	<img alt="forks" src="https://img.shields.io/github/forks/JunTakemura/exploit-CVE-2024-11972">	<img alt="stars" src="https://img.shields.io/github/stars/JunTakemura/exploit-CVE-2024-11972">
@@ -8884,6 +8894,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [h8sU/wordpress-cve-2024-10924-exploit](https://github.com/h8sU/wordpress-cve-2024-10924-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/h8sU/wordpress-cve-2024-10924-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/h8sU/wordpress-cve-2024-10924-exploit">
 - [sariamubeen/CVE-2024-10924](https://github.com/sariamubeen/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/sariamubeen/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/sariamubeen/CVE-2024-10924">
 - [MaleeshaUdan/wordpress-CVE-2024-10924--exploit](https://github.com/MaleeshaUdan/wordpress-CVE-2024-10924--exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaleeshaUdan/wordpress-CVE-2024-10924--exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaleeshaUdan/wordpress-CVE-2024-10924--exploit">
+- [sharafu-sblsec/CVE-2024-10924](https://github.com/sharafu-sblsec/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/sharafu-sblsec/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/sharafu-sblsec/CVE-2024-10924">
 
 ---
 ## CVE-2024-10920 (2024-11-06T16:15:00)
