@@ -147,6 +147,11 @@
 - [xiw1ll/CVE-2013-2028_Checker](https://github.com/xiw1ll/CVE-2013-2028_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/xiw1ll/CVE-2013-2028_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/xiw1ll/CVE-2013-2028_Checker">
 
 ---
+## CVE-2013-2010 ()
+> 
+- [spyata123/w3-total-cache-cve-2013-2010](https://github.com/spyata123/w3-total-cache-cve-2013-2010)	<img alt="forks" src="https://img.shields.io/github/forks/spyata123/w3-total-cache-cve-2013-2010">	<img alt="stars" src="https://img.shields.io/github/stars/spyata123/w3-total-cache-cve-2013-2010">
+
+---
 ## CVE-2013-20004 (2022-02-06T21:15:00)
 > A flaw was found in StarWind iSCSI target. StarWind service does not limit client connections and allocates memory on each connection attempt. An attacker could create a denial of service state by trying to connect a non-existent target multiple times. This affects iSCSI SAN (Windows Native) Version 6.0, build 2013-01-16.
 - [Live-Hack-CVE/CVE-2013-20004](https://github.com/Live-Hack-CVE/CVE-2013-20004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-20004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-20004">

@@ -1327,6 +1327,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [wh1te4ever/CVE-2024-54498-PoC](https://github.com/wh1te4ever/CVE-2024-54498-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wh1te4ever/CVE-2024-54498-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wh1te4ever/CVE-2024-54498-PoC">
 
 ---
+## CVE-2024-54383 ()
+> 
+- [pashayogi/CVE-2024-54383](https://github.com/pashayogi/CVE-2024-54383)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2024-54383">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2024-54383">
+
+---
 ## CVE-2024-54369 ()
 > 
 - [Nxploited/CVE-2024-54369-PoC](https://github.com/Nxploited/CVE-2024-54369-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-54369-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-54369-PoC">
