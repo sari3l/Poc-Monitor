@@ -1241,6 +1241,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability](https://github.com/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">
 
 ---
+## CVE-2024-55060 ()
+> 
+- [bigzooooz/CVE-2024-55060](https://github.com/bigzooooz/CVE-2024-55060)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2024-55060">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2024-55060">
+
+---
 ## CVE-2024-55040 ()
 > 
 - [tcbutler320/CVE-2024-55040-Sensaphone-XSS](https://github.com/tcbutler320/CVE-2024-55040-Sensaphone-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/tcbutler320/CVE-2024-55040-Sensaphone-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/tcbutler320/CVE-2024-55040-Sensaphone-XSS">
