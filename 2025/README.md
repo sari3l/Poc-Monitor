@@ -6,6 +6,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-28915 ()
+> 
+- [Nxploited/CVE-2025-28915](https://github.com/Nxploited/CVE-2025-28915)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-28915">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-28915">
+
+---
 ## CVE-2025-27893 ()
 > 
 - [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893)	<img alt="forks" src="https://img.shields.io/github/forks/NastyCrow/CVE-2025-27893">	<img alt="stars" src="https://img.shields.io/github/stars/NastyCrow/CVE-2025-27893">
