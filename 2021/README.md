@@ -7157,6 +7157,7 @@
 - [Ormicron/CVE-2021-25646-GUI](https://github.com/Ormicron/CVE-2021-25646-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/Ormicron/CVE-2021-25646-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/Ormicron/CVE-2021-25646-GUI">
 - [lp008/CVE-2021-25646](https://github.com/lp008/CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE-2021-25646">
 - [yaunsky/cve-2021-25646](https://github.com/yaunsky/cve-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/cve-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/cve-2021-25646">
+- [gps1949/CVE-2021-25646](https://github.com/gps1949/CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/gps1949/CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/gps1949/CVE-2021-25646">
 
 ---
 ## CVE-2021-25642 (2022-08-25T14:15:00)
