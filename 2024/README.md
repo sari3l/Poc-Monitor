@@ -5715,6 +5715,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-30491-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-30491-Poc">
 
 ---
+## CVE-2024-30485 ()
+> 
+- [Nxploited/CVE-2024-30485](https://github.com/Nxploited/CVE-2024-30485)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-30485">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-30485">
+
+---
 ## CVE-2024-30270 (2024-04-04T21:15:00)
 > mailcow: dockerized is an open source groupware/email suite based on docker. A security vulnerability has been identified in mailcow affecting versions prior to 2024-04. This vulnerability is a combination of path traversal and arbitrary code execution, specifically targeting the `rspamd_maps()` function. It allows authenticated admin users to overwrite any file writable by the www-data user by exploiting improper path validation. The exploit chain can lead to the execution of arbitrary commands on the server. Version 2024-04 contains a patch for the issue.
 - [Alchemist3dot14/CVE-2024-30270-PoC](https://github.com/Alchemist3dot14/CVE-2024-30270-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-30270-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-30270-PoC">
