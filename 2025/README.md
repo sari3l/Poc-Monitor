@@ -324,6 +324,11 @@
 - [NyxanGoat/CVE-2025-22467-PoC](https://github.com/NyxanGoat/CVE-2025-22467-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NyxanGoat/CVE-2025-22467-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NyxanGoat/CVE-2025-22467-PoC">
 
 ---
+## CVE-2025-2233 ()
+> 
+- [McTavishSue/CVE-2025-2233](https://github.com/McTavishSue/CVE-2025-2233)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-2233">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-2233">
+
+---
 ## CVE-2025-21624 ()
 > 
 - [shreyas-malhotra/CVE-2025-21624](https://github.com/shreyas-malhotra/CVE-2025-21624)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2025-21624">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2025-21624">
