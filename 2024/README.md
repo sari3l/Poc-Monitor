@@ -9272,6 +9272,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [convisolabs/CVE-2024-0507_CVE-2024-0200-github](https://github.com/convisolabs/CVE-2024-0507_CVE-2024-0200-github)	<img alt="forks" src="https://img.shields.io/github/forks/convisolabs/CVE-2024-0507_CVE-2024-0200-github">	<img alt="stars" src="https://img.shields.io/github/stars/convisolabs/CVE-2024-0507_CVE-2024-0200-github">
 
 ---
+## CVE-2024-0406 ()
+> 
+- [walidpyh/CVE-2024-0406-POC](https://github.com/walidpyh/CVE-2024-0406-POC)	<img alt="forks" src="https://img.shields.io/github/forks/walidpyh/CVE-2024-0406-POC">	<img alt="stars" src="https://img.shields.io/github/stars/walidpyh/CVE-2024-0406-POC">
+
+---
 ## CVE-2024-0402 (2024-01-26T01:15:00)
 > An issue has been discovered in GitLab CE/EE affecting all versions from 16.0 prior to 16.6.6, 16.7 prior to 16.7.4, and 16.8 prior to 16.8.1 which allows an authenticated user to write files to arbitrary locations on the GitLab server while creating a workspace.
 - [ch4nui/CVE-2024-0402-RCE](https://github.com/ch4nui/CVE-2024-0402-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ch4nui/CVE-2024-0402-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ch4nui/CVE-2024-0402-RCE">
