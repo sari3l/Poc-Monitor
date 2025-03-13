@@ -3870,6 +3870,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468](https://github.com/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468)	<img alt="forks" src="https://img.shields.io/github/forks/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468">	<img alt="stars" src="https://img.shields.io/github/stars/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468">
 
 ---
+## CVE-2024-38112 ()
+> 
+- [Anurag-Chevendra/CVE-2024-38112](https://github.com/Anurag-Chevendra/CVE-2024-38112)	<img alt="forks" src="https://img.shields.io/github/forks/Anurag-Chevendra/CVE-2024-38112">	<img alt="stars" src="https://img.shields.io/github/stars/Anurag-Chevendra/CVE-2024-38112">
+
+---
 ## CVE-2024-38100 (2024-07-09T17:15:00)
 > Windows File Explorer Elevation of Privilege Vulnerability
 - [Florian-Hoth/CVE-2024-38100-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-38100-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-38100-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-38100-RCE-POC">
