@@ -52,6 +52,7 @@
 ## CVE-2025-26319 ()
 > 
 - [dorattias/CVE-2025-26319](https://github.com/dorattias/CVE-2025-26319)	<img alt="forks" src="https://img.shields.io/github/forks/dorattias/CVE-2025-26319">	<img alt="stars" src="https://img.shields.io/github/stars/dorattias/CVE-2025-26319">
+- [YuoLuo/CVE-2025-26319](https://github.com/YuoLuo/CVE-2025-26319)	<img alt="forks" src="https://img.shields.io/github/forks/YuoLuo/CVE-2025-26319">	<img alt="stars" src="https://img.shields.io/github/stars/YuoLuo/CVE-2025-26319">
 
 ---
 ## CVE-2025-26318 ()
