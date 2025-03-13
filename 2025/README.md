@@ -179,6 +179,11 @@
 - [secmuzz/CVE-2025-25612](https://github.com/secmuzz/CVE-2025-25612)	<img alt="forks" src="https://img.shields.io/github/forks/secmuzz/CVE-2025-25612">	<img alt="stars" src="https://img.shields.io/github/stars/secmuzz/CVE-2025-25612">
 
 ---
+## CVE-2025-25500 ()
+> 
+- [H3T76/CVE-2025-25500](https://github.com/H3T76/CVE-2025-25500)	<img alt="forks" src="https://img.shields.io/github/forks/H3T76/CVE-2025-25500">	<img alt="stars" src="https://img.shields.io/github/stars/H3T76/CVE-2025-25500">
+
+---
 ## CVE-2025-25461 ()
 > 
 - [RoNiXxCybSeC0101/CVE-2025-25461](https://github.com/RoNiXxCybSeC0101/CVE-2025-25461)	<img alt="forks" src="https://img.shields.io/github/forks/RoNiXxCybSeC0101/CVE-2025-25461">	<img alt="stars" src="https://img.shields.io/github/stars/RoNiXxCybSeC0101/CVE-2025-25461">

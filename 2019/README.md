@@ -1641,6 +1641,11 @@ use after free.
 - [llccd/TempRoot-Huawei](https://github.com/llccd/TempRoot-Huawei)	<img alt="forks" src="https://img.shields.io/github/forks/llccd/TempRoot-Huawei">	<img alt="stars" src="https://img.shields.io/github/stars/llccd/TempRoot-Huawei">
 
 ---
+## CVE-2019-2115 ()
+> 
+- [Fred12301/CVE-2019-2115-Pixel-2-2-XL](https://github.com/Fred12301/CVE-2019-2115-Pixel-2-2-XL)	<img alt="forks" src="https://img.shields.io/github/forks/Fred12301/CVE-2019-2115-Pixel-2-2-XL">	<img alt="stars" src="https://img.shields.io/github/stars/Fred12301/CVE-2019-2115-Pixel-2-2-XL">
+
+---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
 > net-snmp before 5.8.1.pre1 has a double free in usm_free_usmStateReference in snmplib/snmpusm.c via an SNMPv3 GetBulk request. NOTE: this affects net-snmp packages shipped to end users by multiple Linux distributions, but might not affect an upstream release.
 - [Live-Hack-CVE/CVE-2019-20892](https://github.com/Live-Hack-CVE/CVE-2019-20892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20892">
