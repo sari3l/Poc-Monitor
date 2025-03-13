@@ -7018,6 +7018,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488)	<img alt="forks" src="https://img.shields.io/github/forks/minj-ae/CVE-2024-24488">	<img alt="stars" src="https://img.shields.io/github/stars/minj-ae/CVE-2024-24488">
 
 ---
+## CVE-2024-24451 ()
+> 
+- [SpiralBL0CK/CVE-2024-24451](https://github.com/SpiralBL0CK/CVE-2024-24451)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-24451">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-24451">
+
+---
 ## CVE-2024-24450 ()
 > 
 - [SpiralBL0CK/-CVE-2024-24450-](https://github.com/SpiralBL0CK/-CVE-2024-24450-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/-CVE-2024-24450-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/-CVE-2024-24450-">
