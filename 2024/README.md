@@ -6834,6 +6834,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-25092 (2024-06-09T11:15:00)
 > Missing Authorization vulnerability in XLPlugins NextMove Lite.This issue affects NextMove Lite: from n/a through 2.17.0.
 - [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-25092">
+- [Nxploited/CVE-2024-25092](https://github.com/Nxploited/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-25092">
 
 ---
 ## CVE-2024-24926 ()
