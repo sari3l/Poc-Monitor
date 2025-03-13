@@ -2199,6 +2199,11 @@
 - [Live-Hack-CVE/CVE-2020-27618](https://github.com/Live-Hack-CVE/CVE-2020-27618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27618">
 
 ---
+## CVE-2020-27603 ()
+> 
+- [hannob/CVE-2020-27603-bbb-libreoffice-poc](https://github.com/hannob/CVE-2020-27603-bbb-libreoffice-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hannob/CVE-2020-27603-bbb-libreoffice-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hannob/CVE-2020-27603-bbb-libreoffice-poc">
+
+---
 ## CVE-2020-27602 (2022-09-29T03:15:00)
 > BigBlueButton before 2.2.7 does not have a protection mechanism for separator injection in meetingId, userId, and authToken.
 - [Live-Hack-CVE/CVE-2020-27602](https://github.com/Live-Hack-CVE/CVE-2020-27602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27602">
