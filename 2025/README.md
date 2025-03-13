@@ -389,6 +389,11 @@
 - [shybu9/poc_CVE-2025-1716](https://github.com/shybu9/poc_CVE-2025-1716)	<img alt="forks" src="https://img.shields.io/github/forks/shybu9/poc_CVE-2025-1716">	<img alt="stars" src="https://img.shields.io/github/stars/shybu9/poc_CVE-2025-1716">
 
 ---
+## CVE-2025-1639 ()
+> 
+- [Nxploited/CVE-2025-1639](https://github.com/Nxploited/CVE-2025-1639)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-1639">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-1639">
+
+---
 ## CVE-2025-1316 ()
 > 
 - [Rimasue/CVE-2025-1316](https://github.com/Rimasue/CVE-2025-1316)	<img alt="forks" src="https://img.shields.io/github/forks/Rimasue/CVE-2025-1316">	<img alt="stars" src="https://img.shields.io/github/stars/Rimasue/CVE-2025-1316">
