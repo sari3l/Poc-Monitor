@@ -216,6 +216,11 @@
 - [rootharpy/CVE-2025-25163-Nuclei-Template](https://github.com/rootharpy/CVE-2025-25163-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/rootharpy/CVE-2025-25163-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/rootharpy/CVE-2025-25163-Nuclei-Template">
 
 ---
+## CVE-2025-25101 ()
+> 
+- [Nxploited/CVE-2025-25101](https://github.com/Nxploited/CVE-2025-25101)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-25101">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-25101">
+
+---
 ## CVE-2025-25062 ()
 > 
 - [rhburt/CVE-2025-25062](https://github.com/rhburt/CVE-2025-25062)	<img alt="forks" src="https://img.shields.io/github/forks/rhburt/CVE-2025-25062">	<img alt="stars" src="https://img.shields.io/github/stars/rhburt/CVE-2025-25062">
