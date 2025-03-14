@@ -114,6 +114,11 @@
 - [hatvix1/CVE-2024-9537](https://github.com/hatvix1/CVE-2024-9537)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-9537">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-9537">
 
 ---
+## CVE-2024-9513 ()
+> 
+- [ELIZEUOPAIN/Exploit-CVE-2024-9513---NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory](https://github.com/ELIZEUOPAIN/Exploit-CVE-2024-9513---NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/Exploit-CVE-2024-9513---NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/Exploit-CVE-2024-9513---NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory">
+
+---
 ## CVE-2024-9474 (2024-11-18T16:15:00)
 > A privilege escalation vulnerability in Palo Alto Networks PAN-OS software allows a PAN-OS administrator with access to the management web interface to perform actions on the firewall with root privileges.
 
