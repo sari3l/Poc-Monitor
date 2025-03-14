@@ -9,6 +9,7 @@
 ## CVE-2025-28915 ()
 > 
 - [Nxploited/CVE-2025-28915](https://github.com/Nxploited/CVE-2025-28915)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-28915">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-28915">
+- [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915)	<img alt="forks" src="https://img.shields.io/github/forks/Pei4AN/CVE-2025-28915">	<img alt="stars" src="https://img.shields.io/github/stars/Pei4AN/CVE-2025-28915">
 
 ---
 ## CVE-2025-27893 ()
