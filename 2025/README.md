@@ -241,6 +241,7 @@
 > 
 - [iSee857/CVE-2025-24813-PoC](https://github.com/iSee857/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-24813-PoC">
 - [N0c1or/CVE-2025-24813_POC](https://github.com/N0c1or/CVE-2025-24813_POC)	<img alt="forks" src="https://img.shields.io/github/forks/N0c1or/CVE-2025-24813_POC">	<img alt="stars" src="https://img.shields.io/github/stars/N0c1or/CVE-2025-24813_POC">
+- [gregk4sec/CVE-2025-24813](https://github.com/gregk4sec/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-24813">
 
 ---
 ## CVE-2025-24752 ()
