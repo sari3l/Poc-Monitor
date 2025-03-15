@@ -7127,6 +7127,7 @@ For more details, please review the linked advisory on this CVE.
 - [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/Romanc9/Gui-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/Romanc9/Gui-poc-test">
 - [thishistorian/CVE-2023-21839](https://github.com/thishistorian/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/thishistorian/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/thishistorian/CVE-2023-21839">
 - [juniorinter/CVE-2023-21839](https://github.com/juniorinter/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/juniorinter/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/juniorinter/CVE-2023-21839">
+- [lovingpot/CVE-2023-21839](https://github.com/lovingpot/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/lovingpot/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/lovingpot/CVE-2023-21839">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
