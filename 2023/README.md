@@ -5235,6 +5235,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [gy741/CVE-2023-30258-setup](https://github.com/gy741/CVE-2023-30258-setup)	<img alt="forks" src="https://img.shields.io/github/forks/gy741/CVE-2023-30258-setup">	<img alt="stars" src="https://img.shields.io/github/stars/gy741/CVE-2023-30258-setup">
 - [sk00l/CVE-2023-30258](https://github.com/sk00l/CVE-2023-30258)	<img alt="forks" src="https://img.shields.io/github/forks/sk00l/CVE-2023-30258">	<img alt="stars" src="https://img.shields.io/github/stars/sk00l/CVE-2023-30258">
 - [tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit](https://github.com/tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit">
+- [Chocapikk/CVE-2023-30258](https://github.com/Chocapikk/CVE-2023-30258)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-30258">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-30258">
 
 ---
 ## CVE-2023-30256 (2023-05-11T11:15:00)
