@@ -7393,6 +7393,11 @@ kernel memory, lateral privilege escalation, and container escape.
 - [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">
 
 ---
+## CVE-2023-21125 ()
+> 
+- [Mahesh-970/Mahesh-970-CVE-2023-21125_bluedriod_repo](https://github.com/Mahesh-970/Mahesh-970-CVE-2023-21125_bluedriod_repo)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/Mahesh-970-CVE-2023-21125_bluedriod_repo">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/Mahesh-970-CVE-2023-21125_bluedriod_repo">
+
+---
 ## CVE-2023-21118 (2023-05-15T22:15:00)
 > In unflattenString8 of Sensor.cpp, there is a possible out of bounds read due to a heap buffer overflow. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-269014004
 - [nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118](https://github.com/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118">
