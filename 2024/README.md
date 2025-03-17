@@ -8665,7 +8665,7 @@ authentication.   
 ---
 ## CVE-2024-12641 ()
 > 
-- [Jimmy01240397/CVE-2024-12641_12642_12644](https://github.com/Jimmy01240397/CVE-2024-12641_12642_12644)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2024-12641_12642_12644">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2024-12641_12642_12644">
+- [Jimmy01240397/CVE-2024-12641_12642_12645](https://github.com/Jimmy01240397/CVE-2024-12641_12642_12645)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2024-12641_12642_12645">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2024-12641_12642_12645">
 
 ---
 ## CVE-2024-12558 ()
