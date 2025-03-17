@@ -262,7 +262,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [iSee857/CVE-2024-9047-PoC](https://github.com/iSee857/CVE-2024-9047-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-9047-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-9047-PoC">
 - [verylazytech/CVE-2024-9047](https://github.com/verylazytech/CVE-2024-9047)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-9047">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-9047">
 - [Nxploited/CVE-2024-9047-Exploit](https://github.com/Nxploited/CVE-2024-9047-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9047-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9047-Exploit">
-- [chihyeonwon/CVE-2024-9047](https://github.com/chihyeonwon/CVE-2024-9047)	<img alt="forks" src="https://img.shields.io/github/forks/chihyeonwon/CVE-2024-9047">	<img alt="stars" src="https://img.shields.io/github/stars/chihyeonwon/CVE-2024-9047">
+- [mr-won/CVE-2024-9047](https://github.com/mr-won/CVE-2024-9047)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/CVE-2024-9047">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/CVE-2024-9047">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 
 ---

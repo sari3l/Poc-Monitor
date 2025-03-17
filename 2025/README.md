@@ -129,6 +129,7 @@
 ## CVE-2025-25763 ()
 > 
 - [J-0k3r/CVE-2025-25763](https://github.com/J-0k3r/CVE-2025-25763)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2025-25763">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2025-25763">
+- [Oyst3r1ng/CVE-2025-25763](https://github.com/Oyst3r1ng/CVE-2025-25763)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-25763">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-25763">
 
 ---
 ## CVE-2025-25749 ()
