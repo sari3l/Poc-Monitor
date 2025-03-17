@@ -4270,8 +4270,9 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 > Gibbon v25.0.0 is vulnerable to a Local File Inclusion (LFI) where it's possible to include the content of several files present in the installation folder in the server's response.
 - [maddsec/CVE-2023-34598](https://github.com/maddsec/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/maddsec/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/maddsec/CVE-2023-34598">
 - [Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-34598">
-- [Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-34598">
+- [Lserein/CVE-2023-34598](https://github.com/Lserein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Lserein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Lserein/CVE-2023-34598">
 - [Imahian/CVE-2023-34598](https://github.com/Imahian/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Imahian/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Imahian/CVE-2023-34598">
+- [Zer0F8th/CVE-2023-34598](https://github.com/Zer0F8th/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Zer0F8th/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Zer0F8th/CVE-2023-34598">
 
 ---
 ## CVE-2023-34584 ()
