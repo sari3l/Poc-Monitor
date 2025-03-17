@@ -1260,6 +1260,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [tcbutler320/CVE-2024-55040-Sensaphone-XSS](https://github.com/tcbutler320/CVE-2024-55040-Sensaphone-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/tcbutler320/CVE-2024-55040-Sensaphone-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/tcbutler320/CVE-2024-55040-Sensaphone-XSS">
 
 ---
+## CVE-2024-54951 ()
+> 
+- [Allevon412/CVE-2024-54951](https://github.com/Allevon412/CVE-2024-54951)	<img alt="forks" src="https://img.shields.io/github/forks/Allevon412/CVE-2024-54951">	<img alt="stars" src="https://img.shields.io/github/stars/Allevon412/CVE-2024-54951">
+
+---
 ## CVE-2024-54916 ()
 > 
 - [SAHALLL/CVE-2024-54916](https://github.com/SAHALLL/CVE-2024-54916)	<img alt="forks" src="https://img.shields.io/github/forks/SAHALLL/CVE-2024-54916">	<img alt="stars" src="https://img.shields.io/github/stars/SAHALLL/CVE-2024-54916">
@@ -6692,6 +6697,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26](https://github.com/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26">
 - [XiaomingX/cve-2024-25641-poc](https://github.com/XiaomingX/cve-2024-25641-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-25641-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-25641-poc">
 - [D3Ext/CVE-2024-25641](https://github.com/D3Ext/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/D3Ext/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/D3Ext/CVE-2024-25641">
+- [regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26](https://github.com/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">
 
 ---
 ## CVE-2024-25600 (2024-06-04T13:15:00)
