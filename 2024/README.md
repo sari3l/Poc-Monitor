@@ -6698,6 +6698,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [XiaomingX/cve-2024-25641-poc](https://github.com/XiaomingX/cve-2024-25641-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-25641-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-25641-poc">
 - [D3Ext/CVE-2024-25641](https://github.com/D3Ext/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/D3Ext/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/D3Ext/CVE-2024-25641">
 - [regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26](https://github.com/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">
+- [regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26](https://github.com/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">
 
 ---
 ## CVE-2024-25600 (2024-06-04T13:15:00)
@@ -8660,6 +8661,11 @@ authentication.   
 ## CVE-2024-1269 (2024-02-07T02:15:00)
 > A vulnerability has been found in SourceCodester Product Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file /supplier.php. The manipulation of the argument supplier_name/supplier_contact leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-253012.
 - [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-1269">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-1269">
+
+---
+## CVE-2024-12641 ()
+> 
+- [Jimmy01240397/CVE-2024-12641_12642_12644](https://github.com/Jimmy01240397/CVE-2024-12641_12642_12644)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2024-12641_12642_12644">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2024-12641_12642_12644">
 
 ---
 ## CVE-2024-12558 ()
