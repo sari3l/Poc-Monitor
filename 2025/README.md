@@ -482,6 +482,7 @@
 - [ishwardeepp/CVE-2025-0411-MoTW-PoC](https://github.com/ishwardeepp/CVE-2025-0411-MoTW-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-0411-MoTW-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-0411-MoTW-PoC">
 - [cesarbtakeda/7-Zip-CVE-2025-0411-POC](https://github.com/cesarbtakeda/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/7-Zip-CVE-2025-0411-POC">
 - [dpextreme/7-Zip-CVE-2025-0411-POC](https://github.com/dpextreme/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dpextreme/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dpextreme/7-Zip-CVE-2025-0411-POC">
+- [SalehAlgnay/7-Zip-CVE-2025-0411-POC](https://github.com/SalehAlgnay/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SalehAlgnay/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SalehAlgnay/7-Zip-CVE-2025-0411-POC">
 
 ---
 ## CVE-2025-0364 ()
