@@ -501,6 +501,7 @@
 > 
 - [NeseOSCorp/CVE-2025-03](https://github.com/NeseOSCorp/CVE-2025-03)	<img alt="forks" src="https://img.shields.io/github/forks/NeseOSCorp/CVE-2025-03">	<img alt="stars" src="https://img.shields.io/github/stars/NeseOSCorp/CVE-2025-03">
 - [vulncheck-oss/cve-2025-0364](https://github.com/vulncheck-oss/cve-2025-0364)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2025-0364">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2025-0364">
+- [NeseOS-Corporation/CVE-2025-03](https://github.com/NeseOS-Corporation/CVE-2025-03)	<img alt="forks" src="https://img.shields.io/github/forks/NeseOS-Corporation/CVE-2025-03">	<img alt="stars" src="https://img.shields.io/github/stars/NeseOS-Corporation/CVE-2025-03">
 
 ---
 ## CVE-2025-0282 ()
