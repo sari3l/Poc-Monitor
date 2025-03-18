@@ -1735,6 +1735,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [dgndrn/CVE-2023-4590](https://github.com/dgndrn/CVE-2023-4590)	<img alt="forks" src="https://img.shields.io/github/forks/dgndrn/CVE-2023-4590">	<img alt="stars" src="https://img.shields.io/github/stars/dgndrn/CVE-2023-4590">
 
 ---
+## CVE-2023-45878 ()
+> 
+- [dgoorden/CVE-2023-45878](https://github.com/dgoorden/CVE-2023-45878)	<img alt="forks" src="https://img.shields.io/github/forks/dgoorden/CVE-2023-45878">	<img alt="stars" src="https://img.shields.io/github/stars/dgoorden/CVE-2023-45878">
+
+---
 ## CVE-2023-45866 (2023-12-08T06:15:00)
 > Bluetooth HID Hosts in BlueZ may permit an unauthenticated Peripheral role HID Device to initiate and establish an encrypted connection, and accept HID keyboard reports, potentially permitting injection of HID messages when no user interaction has occurred in the Central role to authorize such access. An example affected package is bluez 5.64-0ubuntu1 in Ubuntu 22.04LTS. NOTE: in some cases, a CVE-2020-0556 mitigation would have already addressed this Bluetooth HID Hosts issue.
 - [jjjjjjjj987/cve-2023-45866-py](https://github.com/jjjjjjjj987/cve-2023-45866-py)	<img alt="forks" src="https://img.shields.io/github/forks/jjjjjjjj987/cve-2023-45866-py">	<img alt="stars" src="https://img.shields.io/github/stars/jjjjjjjj987/cve-2023-45866-py">
