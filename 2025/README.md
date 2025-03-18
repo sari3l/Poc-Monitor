@@ -32,6 +32,11 @@
 - [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-27636-Apache-Camel-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-27636-Apache-Camel-PoC">
 
 ---
+## CVE-2025-27410 ()
+> 
+- [shreyas-malhotra/CVE-2025-27410](https://github.com/shreyas-malhotra/CVE-2025-27410)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2025-27410">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2025-27410">
+
+---
 ## CVE-2025-26794 ()
 > 
 - [OscarBataille/CVE-2025-26794](https://github.com/OscarBataille/CVE-2025-26794)	<img alt="forks" src="https://img.shields.io/github/forks/OscarBataille/CVE-2025-26794">	<img alt="stars" src="https://img.shields.io/github/stars/OscarBataille/CVE-2025-26794">
