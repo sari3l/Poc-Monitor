@@ -1564,6 +1564,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52429">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52429">
 
 ---
+## CVE-2024-52402 ()
+> 
+- [Nxploited/CVE-2024-52402](https://github.com/Nxploited/CVE-2024-52402)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-52402">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-52402">
+
+---
 ## CVE-2024-52382 ()
 > 
 - [RandomRobbieBF/CVE-2024-52382](https://github.com/RandomRobbieBF/CVE-2024-52382)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52382">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52382">
