@@ -6,6 +6,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-30066 ()
+> 
+- [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool">
+
+---
 ## CVE-2025-29384 ()
 > 
 - [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/cve-2025-29384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/cve-2025-29384-poc">
@@ -305,6 +310,12 @@
 - [clidancc1/CVE-2025-24085](https://github.com/clidancc1/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/clidancc1/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/clidancc1/CVE-2025-24085">
 - [bronsoneaver/CVE-2025-24085](https://github.com/bronsoneaver/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-24085">
 - [Joe-RayG/CVE-2025-24085-Disclosure](https://github.com/Joe-RayG/CVE-2025-24085-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/Joe-RayG/CVE-2025-24085-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/Joe-RayG/CVE-2025-24085-Disclosure">
+
+---
+## CVE-2025-24071 ()
+> 
+- [FOLKS-iwd/CVE-2025-24071-msfvenom](https://github.com/FOLKS-iwd/CVE-2025-24071-msfvenom)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-24071-msfvenom">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-24071-msfvenom">
+- [0x6rss/CVE-2025-24071_PoC](https://github.com/0x6rss/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x6rss/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x6rss/CVE-2025-24071_PoC">
 
 ---
 ## CVE-2025-24016 ()
