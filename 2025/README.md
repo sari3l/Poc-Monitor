@@ -396,6 +396,7 @@
 - [Mukesh-blend/CVE-2025-21333-POC](https://github.com/Mukesh-blend/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Mukesh-blend/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Mukesh-blend/CVE-2025-21333-POC">
 - [aleongx/KQL_sentinel_CVE-2025-21333](https://github.com/aleongx/KQL_sentinel_CVE-2025-21333)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/KQL_sentinel_CVE-2025-21333">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/KQL_sentinel_CVE-2025-21333">
 - [SerabiLem/CVE-2025-21333-POC](https://github.com/SerabiLem/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SerabiLem/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SerabiLem/CVE-2025-21333-POC">
+- [160102/CVE-2025-21333-POC](https://github.com/160102/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/160102/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/160102/CVE-2025-21333-POC">
 
 ---
 ## CVE-2025-21298 ()
