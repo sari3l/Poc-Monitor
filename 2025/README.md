@@ -259,6 +259,7 @@
 - [charis3306/CVE-2025-24813](https://github.com/charis3306/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/charis3306/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/charis3306/CVE-2025-24813">
 - [issamjr/CVE-2025-24813-Scanner](https://github.com/issamjr/CVE-2025-24813-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-24813-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-24813-Scanner">
 - [imbas007/CVE-2025-24813-apache-tomcat](https://github.com/imbas007/CVE-2025-24813-apache-tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-24813-apache-tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-24813-apache-tomcat">
+- [msadeghkarimi/CVE-2025-24813-Exploit](https://github.com/msadeghkarimi/CVE-2025-24813-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/msadeghkarimi/CVE-2025-24813-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/msadeghkarimi/CVE-2025-24813-Exploit">
 
 ---
 ## CVE-2025-24752 ()
