@@ -1124,6 +1124,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [dpakmrya/CVE-2024-56264](https://github.com/dpakmrya/CVE-2024-56264)	<img alt="forks" src="https://img.shields.io/github/forks/dpakmrya/CVE-2024-56264">	<img alt="stars" src="https://img.shields.io/github/stars/dpakmrya/CVE-2024-56264">
 
 ---
+## CVE-2024-56249 ()
+> 
+- [Nxploited/CVE-2024-56249](https://github.com/Nxploited/CVE-2024-56249)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-56249">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-56249">
+
+---
 ## CVE-2024-56145 ()
 > 
 - [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-56145">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-56145">

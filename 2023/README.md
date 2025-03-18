@@ -177,6 +177,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [RandomRobbieBF/CVE-2023-6421](https://github.com/RandomRobbieBF/CVE-2023-6421)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6421">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6421">
 
 ---
+## CVE-2023-6360 ()
+> 
+- [mr-won/CVE-2023-6360](https://github.com/mr-won/CVE-2023-6360)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/CVE-2023-6360">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/CVE-2023-6360">
+
+---
 ## CVE-2023-6350 (2023-11-29T12:15:00)
 > Use after free in libavif in Google Chrome prior to 119.0.6045.199 allowed a remote attacker to potentially exploit heap corruption via a crafted avif file. (Chromium security severity: High)
 - [dywsy21/CVE-2023-6350_Reproduction](https://github.com/dywsy21/CVE-2023-6350_Reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/dywsy21/CVE-2023-6350_Reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/dywsy21/CVE-2023-6350_Reproduction">
