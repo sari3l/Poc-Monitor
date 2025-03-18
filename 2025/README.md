@@ -442,6 +442,7 @@
 ## CVE-2025-1661 ()
 > 
 - [gbrsh/CVE-2025-1661](https://github.com/gbrsh/CVE-2025-1661)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2025-1661">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2025-1661">
+- [MuhammadWaseem29/CVE-2025-1661](https://github.com/MuhammadWaseem29/CVE-2025-1661)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-1661">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-1661">
 
 ---
 ## CVE-2025-1639 ()
