@@ -2963,6 +2963,11 @@ Allocated by task 6166:
 - [Brinmon/CVE-2024-44337](https://github.com/Brinmon/CVE-2024-44337)	<img alt="forks" src="https://img.shields.io/github/forks/Brinmon/CVE-2024-44337">	<img alt="stars" src="https://img.shields.io/github/stars/Brinmon/CVE-2024-44337">
 
 ---
+## CVE-2024-44313 ()
+> 
+- [cnetsec/CVE-2024-44313](https://github.com/cnetsec/CVE-2024-44313)	<img alt="forks" src="https://img.shields.io/github/forks/cnetsec/CVE-2024-44313">	<img alt="stars" src="https://img.shields.io/github/stars/cnetsec/CVE-2024-44313">
+
+---
 ## CVE-2024-44258 (2024-10-28T21:15:00)
 > This issue was addressed with improved handling of symlinks. This issue is fixed in iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, visionOS 2.1, tvOS 18.1. Restoring a maliciously crafted backup file may lead to modification of protected system files.
 - [ifpdz/CVE-2024-44258](https://github.com/ifpdz/CVE-2024-44258)	<img alt="forks" src="https://img.shields.io/github/forks/ifpdz/CVE-2024-44258">	<img alt="stars" src="https://img.shields.io/github/stars/ifpdz/CVE-2024-44258">
