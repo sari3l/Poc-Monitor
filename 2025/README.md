@@ -353,6 +353,11 @@
 - [padayali-JD/CVE-2025-22964](https://github.com/padayali-JD/CVE-2025-22964)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2025-22964">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2025-22964">
 
 ---
+## CVE-2025-22954 ()
+> 
+- [RandomRobbieBF/CVE-2025-22954](https://github.com/RandomRobbieBF/CVE-2025-22954)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-22954">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-22954">
+
+---
 ## CVE-2025-22828 ()
 > 
 - [Stolichnayer/CVE-2025-22828](https://github.com/Stolichnayer/CVE-2025-22828)	<img alt="forks" src="https://img.shields.io/github/forks/Stolichnayer/CVE-2025-22828">	<img alt="stars" src="https://img.shields.io/github/stars/Stolichnayer/CVE-2025-22828">
