@@ -273,6 +273,7 @@
 - [msadeghkarimi/CVE-2025-24813-Exploit](https://github.com/msadeghkarimi/CVE-2025-24813-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/msadeghkarimi/CVE-2025-24813-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/msadeghkarimi/CVE-2025-24813-Exploit">
 - [naikordian/CVE-2025-24813](https://github.com/naikordian/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/naikordian/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/naikordian/CVE-2025-24813">
 - [michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813](https://github.com/michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813">
+- [ps-interactive/lab-cve-2025-24813](https://github.com/ps-interactive/lab-cve-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab-cve-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab-cve-2025-24813">
 
 ---
 ## CVE-2025-24752 ()
