@@ -3340,6 +3340,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [OrangeJuiceHU/CVE-2024-41958-PoC](https://github.com/OrangeJuiceHU/CVE-2024-41958-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/OrangeJuiceHU/CVE-2024-41958-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/OrangeJuiceHU/CVE-2024-41958-PoC">
 
 ---
+## CVE-2024-41817 ()
+> 
+- [Dxsk/CVE-2024-41817-poc](https://github.com/Dxsk/CVE-2024-41817-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Dxsk/CVE-2024-41817-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Dxsk/CVE-2024-41817-poc">
+
+---
 ## CVE-2024-41713 (2024-10-21T21:15:00)
 > A vulnerability in the NuPoint Unified Messaging (NPM) component of Mitel MiCollab through 9.8 SP1 FP2 (9.8.1.201) could allow an unauthenticated attacker to conduct a path traversal attack, due to insufficient input validation. A successful exploit could allow unauthorized access, enabling the attacker to view, corrupt, or delete users' data and system configurations.
 - [watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713](https://github.com/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713">
