@@ -321,6 +321,7 @@
 - [FOLKS-iwd/CVE-2025-24071-msfvenom](https://github.com/FOLKS-iwd/CVE-2025-24071-msfvenom)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-24071-msfvenom">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-24071-msfvenom">
 - [0x6rss/CVE-2025-24071_PoC](https://github.com/0x6rss/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x6rss/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x6rss/CVE-2025-24071_PoC">
 - [aleongx/CVE-2025-24071](https://github.com/aleongx/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/CVE-2025-24071">
+- [ctabango/CVE-2025-24071_PoCExtra](https://github.com/ctabango/CVE-2025-24071_PoCExtra)	<img alt="forks" src="https://img.shields.io/github/forks/ctabango/CVE-2025-24071_PoCExtra">	<img alt="stars" src="https://img.shields.io/github/stars/ctabango/CVE-2025-24071_PoCExtra">
 
 ---
 ## CVE-2025-24016 ()
