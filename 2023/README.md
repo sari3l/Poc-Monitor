@@ -1738,6 +1738,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 ## CVE-2023-45878 ()
 > 
 - [dgoorden/CVE-2023-45878](https://github.com/dgoorden/CVE-2023-45878)	<img alt="forks" src="https://img.shields.io/github/forks/dgoorden/CVE-2023-45878">	<img alt="stars" src="https://img.shields.io/github/stars/dgoorden/CVE-2023-45878">
+- [PaulDHaes/CVE-2023-45878-POC](https://github.com/PaulDHaes/CVE-2023-45878-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PaulDHaes/CVE-2023-45878-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PaulDHaes/CVE-2023-45878-POC">
 
 ---
 ## CVE-2023-45866 (2023-12-08T06:15:00)
