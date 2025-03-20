@@ -989,6 +989,7 @@
 ## CVE-2016-1000229 ()
 > 
 - [barteeees/SwaggerUI-CVE-2016-1000229](https://github.com/barteeees/SwaggerUI-CVE-2016-1000229)	<img alt="forks" src="https://img.shields.io/github/forks/barteeees/SwaggerUI-CVE-2016-1000229">	<img alt="stars" src="https://img.shields.io/github/stars/barteeees/SwaggerUI-CVE-2016-1000229">
+- [ossf-cve-benchmark/CVE-2016-1000229](https://github.com/ossf-cve-benchmark/CVE-2016-1000229)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2016-1000229">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2016-1000229">
 
 ---
 ## CVE-2016-1000027 (2020-01-02T23:15:00)
