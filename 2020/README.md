@@ -650,6 +650,7 @@
 - [bytescrappers/CVE-2020-7247](https://github.com/bytescrappers/CVE-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/bytescrappers/CVE-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/bytescrappers/CVE-2020-7247">
 - [FiroSolutions/cve-2020-7247-exploit](https://github.com/FiroSolutions/cve-2020-7247-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FiroSolutions/cve-2020-7247-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FiroSolutions/cve-2020-7247-exploit">
 - [r0lh/CVE-2020-7247](https://github.com/r0lh/CVE-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/r0lh/CVE-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/r0lh/CVE-2020-7247">
+- [minhluannguyen/CVE-2020-7247-reproducer](https://github.com/minhluannguyen/CVE-2020-7247-reproducer)	<img alt="forks" src="https://img.shields.io/github/forks/minhluannguyen/CVE-2020-7247-reproducer">	<img alt="stars" src="https://img.shields.io/github/stars/minhluannguyen/CVE-2020-7247-reproducer">
 
 ---
 ## CVE-2020-7246 (2020-01-21T14:15:00)
