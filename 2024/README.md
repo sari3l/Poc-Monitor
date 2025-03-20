@@ -7757,6 +7757,7 @@ Successful exploitation of this vulnerability could allow the attacker to expose
 ## CVE-2024-2242 (2024-03-13T22:15:00)
 > The Contact Form 7 plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the ‘active-tab’ parameter in all versions up to, and including, 5.9 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.
 - [RandomRobbieBF/CVE-2024-2242](https://github.com/RandomRobbieBF/CVE-2024-2242)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-2242">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-2242">
+- [Zzl0y/CVE-2024-2242](https://github.com/Zzl0y/CVE-2024-2242)	<img alt="forks" src="https://img.shields.io/github/forks/Zzl0y/CVE-2024-2242">	<img alt="stars" src="https://img.shields.io/github/stars/Zzl0y/CVE-2024-2242">
 
 ---
 ## CVE-2024-22416 (2024-01-18T00:15:00)
