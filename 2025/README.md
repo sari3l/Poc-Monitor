@@ -276,6 +276,11 @@
 - [ps-interactive/lab-cve-2025-24813](https://github.com/ps-interactive/lab-cve-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab-cve-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab-cve-2025-24813">
 
 ---
+## CVE-2025-2476 ()
+> 
+- [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-2476">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-2476">
+
+---
 ## CVE-2025-24752 ()
 > 
 - [bartfroklage/CVE-2025-24752-POC](https://github.com/bartfroklage/CVE-2025-24752-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bartfroklage/CVE-2025-24752-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bartfroklage/CVE-2025-24752-POC">
