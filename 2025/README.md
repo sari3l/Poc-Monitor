@@ -571,3 +571,8 @@
 ## CVE-2025-0087 ()
 > 
 - [SpiralBL0CK/CVE-2025-0087-](https://github.com/SpiralBL0CK/CVE-2025-0087-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2025-0087-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2025-0087-">
+
+---
+## CVE-2025-0086 ()
+> 
+- [Mahesh-970/CVE-2025-0086](https://github.com/Mahesh-970/CVE-2025-0086)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2025-0086">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2025-0086">
