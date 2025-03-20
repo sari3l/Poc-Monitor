@@ -4894,6 +4894,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [HBLocker/CVE-2024-33078](https://github.com/HBLocker/CVE-2024-33078)	<img alt="forks" src="https://img.shields.io/github/forks/HBLocker/CVE-2024-33078">	<img alt="stars" src="https://img.shields.io/github/stars/HBLocker/CVE-2024-33078">
 
 ---
+## CVE-2024-32962 ()
+> 
+- [absholi7ly/Poc-CVE-2024-32962-xml-crypto](https://github.com/absholi7ly/Poc-CVE-2024-32962-xml-crypto)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/Poc-CVE-2024-32962-xml-crypto">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/Poc-CVE-2024-32962-xml-crypto">
+
+---
 ## CVE-2024-3293 (2024-04-23T02:15:00)
 > The rtMedia for WordPress, BuddyPress and bbPress plugin for WordPress is vulnerable to blind SQL Injection via the rtmedia_gallery shortcode in all versions up to, and including, 4.6.18 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with contributor-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-3293-Poc](https://github.com/truonghuuphuc/CVE-2024-3293-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3293-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3293-Poc">
