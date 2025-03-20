@@ -2282,6 +2282,7 @@
 - [tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773](https://github.com/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773">
 - [Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013](https://github.com/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">
 - [javaamo/CVE-2021-41773](https://github.com/javaamo/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/javaamo/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/javaamo/CVE-2021-41773">
+- [ashique-thaha/CVE-2021-41773-POC](https://github.com/ashique-thaha/CVE-2021-41773-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ashique-thaha/CVE-2021-41773-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ashique-thaha/CVE-2021-41773-POC">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
