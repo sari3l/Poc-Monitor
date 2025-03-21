@@ -582,3 +582,8 @@
 ## CVE-2025-0086 ()
 > 
 - [Mahesh-970/CVE-2025-0086](https://github.com/Mahesh-970/CVE-2025-0086)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2025-0086">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2025-0086">
+
+---
+## CVE-2025-0000000 ()
+> 
+- [nsvizp/cve-2025-0000000](https://github.com/nsvizp/cve-2025-0000000)	<img alt="forks" src="https://img.shields.io/github/forks/nsvizp/cve-2025-0000000">	<img alt="stars" src="https://img.shields.io/github/stars/nsvizp/cve-2025-0000000">
