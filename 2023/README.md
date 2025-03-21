@@ -207,6 +207,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 
 
 - [s1204IT/CVE-2023-6241](https://github.com/s1204IT/CVE-2023-6241)	<img alt="forks" src="https://img.shields.io/github/forks/s1204IT/CVE-2023-6241">	<img alt="stars" src="https://img.shields.io/github/stars/s1204IT/CVE-2023-6241">
+- [ilGobbo00/CVE-2023-6241-Pixel7_Adaptation](https://github.com/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation)	<img alt="forks" src="https://img.shields.io/github/forks/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation">	<img alt="stars" src="https://img.shields.io/github/stars/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation">
 
 ---
 ## CVE-2023-6199 ()
