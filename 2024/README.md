@@ -2004,6 +2004,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [unkemptpanc/CVE-2024-50379](https://github.com/unkemptpanc/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/unkemptpanc/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/unkemptpanc/CVE-2024-50379">
 - [whimsicalsubw/CVE-2024-50379](https://github.com/whimsicalsubw/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/whimsicalsubw/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/whimsicalsubw/CVE-2024-50379">
 - [YuoLuo/tomcat_cve_2024_50379_exploit](https://github.com/YuoLuo/tomcat_cve_2024_50379_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/YuoLuo/tomcat_cve_2024_50379_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/YuoLuo/tomcat_cve_2024_50379_exploit">
+- [carefreegarb/CVE-2024-50379](https://github.com/carefreegarb/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/carefreegarb/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/carefreegarb/CVE-2024-50379">
 
 ---
 ## CVE-2024-50340 ()
