@@ -6,6 +6,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-30144 ()
+> 
+- [tibrn/CVE-2025-30144](https://github.com/tibrn/CVE-2025-30144)	<img alt="forks" src="https://img.shields.io/github/forks/tibrn/CVE-2025-30144">	<img alt="stars" src="https://img.shields.io/github/stars/tibrn/CVE-2025-30144">
+
+---
 ## CVE-2025-30066 ()
 > 
 - [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool">
@@ -280,6 +285,7 @@
 - [michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813](https://github.com/michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813">
 - [ps-interactive/lab-cve-2025-24813](https://github.com/ps-interactive/lab-cve-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab-cve-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab-cve-2025-24813">
 - [n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813](https://github.com/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813">
+- [Alaatk/CVE-2025-24813-POC](https://github.com/Alaatk/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2025-24813-POC">
 
 ---
 ## CVE-2025-2476 ()
