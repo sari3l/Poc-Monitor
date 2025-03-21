@@ -8961,6 +8961,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2024-1112">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2024-1112">
 
 ---
+## CVE-2024-11042 ()
+> 
+- [gothburz/CVE-2024-11042](https://github.com/gothburz/CVE-2024-11042)	<img alt="forks" src="https://img.shields.io/github/forks/gothburz/CVE-2024-11042">	<img alt="stars" src="https://img.shields.io/github/stars/gothburz/CVE-2024-11042">
+
+---
 ## CVE-2024-11016 ()
 > 
 - [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-11016">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-11016">
