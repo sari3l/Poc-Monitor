@@ -12,6 +12,11 @@
 - [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files)	<img alt="forks" src="https://img.shields.io/github/forks/OS-pedrogustavobilro/test-changed-files">	<img alt="stars" src="https://img.shields.io/github/stars/OS-pedrogustavobilro/test-changed-files">
 
 ---
+## CVE-2025-29814 ()
+> 
+- [SatiresHashi/CVE-2025-29814](https://github.com/SatiresHashi/CVE-2025-29814)	<img alt="forks" src="https://img.shields.io/github/forks/SatiresHashi/CVE-2025-29814">	<img alt="stars" src="https://img.shields.io/github/stars/SatiresHashi/CVE-2025-29814">
+
+---
 ## CVE-2025-29384 ()
 > 
 - [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/cve-2025-29384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/cve-2025-29384-poc">
@@ -336,6 +341,11 @@
 - [huseyinstif/CVE-2025-24016-Nuclei-Template](https://github.com/huseyinstif/CVE-2025-24016-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2025-24016-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2025-24016-Nuclei-Template">
 - [0xjessie21/CVE-2025-24016](https://github.com/0xjessie21/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/CVE-2025-24016">
 - [MuhammadWaseem29/CVE-2025-24016](https://github.com/MuhammadWaseem29/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24016">
+
+---
+## CVE-2025-24011 ()
+> 
+- [Puben/CVE-2025-24011-PoC](https://github.com/Puben/CVE-2025-24011-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Puben/CVE-2025-24011-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Puben/CVE-2025-24011-PoC">
 
 ---
 ## CVE-2025-23942 ()
