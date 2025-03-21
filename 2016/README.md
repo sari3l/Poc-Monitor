@@ -899,6 +899,7 @@
 > The ebook-download plugin before 1.2 for WordPress has directory traversal.
 - [rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2016-10924">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2016-10924">
 - [LGenAgul/Wordpress-ebook-CVE-2016-10924](https://github.com/LGenAgul/Wordpress-ebook-CVE-2016-10924)	<img alt="forks" src="https://img.shields.io/github/forks/LGenAgul/Wordpress-ebook-CVE-2016-10924">	<img alt="stars" src="https://img.shields.io/github/stars/LGenAgul/Wordpress-ebook-CVE-2016-10924">
+- [808ale/cve-2016-10924-POC](https://github.com/808ale/cve-2016-10924-POC)	<img alt="forks" src="https://img.shields.io/github/forks/808ale/cve-2016-10924-POC">	<img alt="stars" src="https://img.shields.io/github/stars/808ale/cve-2016-10924-POC">
 
 ---
 ## CVE-2016-10541 (2018-05-31T20:29:00)
