@@ -343,6 +343,11 @@
 - [Nxploited/CVE-2025-23942-poc](https://github.com/Nxploited/CVE-2025-23942-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-23942-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-23942-poc">
 
 ---
+## CVE-2025-23922 ()
+> 
+- [Nxploited/CVE-2025-23922](https://github.com/Nxploited/CVE-2025-23922)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-23922">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-23922">
+
+---
 ## CVE-2025-23369 ()
 > 
 - [hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2025-23369">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2025-23369">
