@@ -2618,9 +2618,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [ahmetramazank/CVE-2024-4577](https://github.com/ahmetramazank/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetramazank/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetramazank/CVE-2024-4577">
 - [BTtea/CVE-2024-4577-RCE-PoC](https://github.com/BTtea/CVE-2024-4577-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BTtea/CVE-2024-4577-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BTtea/CVE-2024-4577-RCE-PoC">
 - [Dejavu666/CVE-2024-4577](https://github.com/Dejavu666/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Dejavu666/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Dejavu666/CVE-2024-4577">
-- [chihyeonwon/php-cgi-cve-2024-4577](https://github.com/chihyeonwon/php-cgi-cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/chihyeonwon/php-cgi-cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/chihyeonwon/php-cgi-cve-2024-4577">
+- [mr-won/php-cgi-cve-2024-4577](https://github.com/mr-won/php-cgi-cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/php-cgi-cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/php-cgi-cve-2024-4577">
 - [Didarul342/CVE-2024-4577](https://github.com/Didarul342/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Didarul342/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Didarul342/CVE-2024-4577">
 - [sug4r-wr41th/CVE-2024-4577](https://github.com/sug4r-wr41th/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2024-4577">
+- [mistakes1337/CVE-2024-4577](https://github.com/mistakes1337/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/mistakes1337/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/mistakes1337/CVE-2024-4577">
+- [Night-have-dreams/php-cgi-Injector](https://github.com/Night-have-dreams/php-cgi-Injector)	<img alt="forks" src="https://img.shields.io/github/forks/Night-have-dreams/php-cgi-Injector">	<img alt="stars" src="https://img.shields.io/github/stars/Night-have-dreams/php-cgi-Injector">
 
 ---
 ## CVE-2024-4573 ()
