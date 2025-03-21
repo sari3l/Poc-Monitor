@@ -328,6 +328,7 @@
 - [0x6rss/CVE-2025-24071_PoC](https://github.com/0x6rss/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x6rss/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x6rss/CVE-2025-24071_PoC">
 - [aleongx/CVE-2025-24071](https://github.com/aleongx/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/CVE-2025-24071">
 - [ctabango/CVE-2025-24071_PoCExtra](https://github.com/ctabango/CVE-2025-24071_PoCExtra)	<img alt="forks" src="https://img.shields.io/github/forks/ctabango/CVE-2025-24071_PoCExtra">	<img alt="stars" src="https://img.shields.io/github/stars/ctabango/CVE-2025-24071_PoCExtra">
+- [shacojx/CVE-2025-24071-Exploit](https://github.com/shacojx/CVE-2025-24071-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shacojx/CVE-2025-24071-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shacojx/CVE-2025-24071-Exploit">
 
 ---
 ## CVE-2025-24016 ()
