@@ -138,6 +138,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [concretesign/CVE-2024-9474](https://github.com/concretesign/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/concretesign/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/concretesign/CVE-2024-9474">
 - [optimistickn/CVE-2024-9474](https://github.com/optimistickn/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/optimistickn/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/optimistickn/CVE-2024-9474">
 - [dazzlingteap/CVE-2024-9474](https://github.com/dazzlingteap/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/dazzlingteap/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/dazzlingteap/CVE-2024-9474">
+- [experiencedt/CVE-2024-9474](https://github.com/experiencedt/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/experiencedt/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/experiencedt/CVE-2024-9474">
 
 ---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
