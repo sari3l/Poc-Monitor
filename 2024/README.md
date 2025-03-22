@@ -1582,6 +1582,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [Nxploited/CVE-2024-52380-Exploit](https://github.com/Nxploited/CVE-2024-52380-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-52380-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-52380-Exploit">
 
 ---
+## CVE-2024-52375 ()
+> 
+- [Nxploited/CVE-2024-52375](https://github.com/Nxploited/CVE-2024-52375)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-52375">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-52375">
+
+---
 ## CVE-2024-52335 ()
 > 
 - [cloudefence/CVE-2024-52335](https://github.com/cloudefence/CVE-2024-52335)	<img alt="forks" src="https://img.shields.io/github/forks/cloudefence/CVE-2024-52335">	<img alt="stars" src="https://img.shields.io/github/stars/cloudefence/CVE-2024-52335">
