@@ -120,6 +120,8 @@
 ## CVE-2025-2620 ()
 > 
 - [Otsmane-Ahmed/CVE-2025-2620-poc](https://github.com/Otsmane-Ahmed/CVE-2025-2620-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/CVE-2025-2620-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/CVE-2025-2620-poc">
+- [A17-ba/CVE-2025-26202-Details](https://github.com/A17-ba/CVE-2025-26202-Details)	<img alt="forks" src="https://img.shields.io/github/forks/A17-ba/CVE-2025-26202-Details">	<img alt="stars" src="https://img.shields.io/github/stars/A17-ba/CVE-2025-26202-Details">
+- [xibhi/CVE-2025-26206](https://github.com/xibhi/CVE-2025-26206)	<img alt="forks" src="https://img.shields.io/github/forks/xibhi/CVE-2025-26206">	<img alt="stars" src="https://img.shields.io/github/stars/xibhi/CVE-2025-26206">
 
 ---
 ## CVE-2025-26056 ()
