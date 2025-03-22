@@ -117,6 +117,11 @@
 - [A17-ba/CVE-2025-26202-Details](https://github.com/A17-ba/CVE-2025-26202-Details)	<img alt="forks" src="https://img.shields.io/github/forks/A17-ba/CVE-2025-26202-Details">	<img alt="stars" src="https://img.shields.io/github/stars/A17-ba/CVE-2025-26202-Details">
 
 ---
+## CVE-2025-2620 ()
+> 
+- [Otsmane-Ahmed/CVE-2025-2620-poc](https://github.com/Otsmane-Ahmed/CVE-2025-2620-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/CVE-2025-2620-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/CVE-2025-2620-poc">
+
+---
 ## CVE-2025-26056 ()
 > 
 - [rohan-pt/CVE-2025-26056](https://github.com/rohan-pt/CVE-2025-26056)	<img alt="forks" src="https://img.shields.io/github/forks/rohan-pt/CVE-2025-26056">	<img alt="stars" src="https://img.shields.io/github/stars/rohan-pt/CVE-2025-26056">
@@ -287,6 +292,7 @@
 - [n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813](https://github.com/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813">
 - [Alaatk/CVE-2025-24813-POC](https://github.com/Alaatk/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2025-24813-POC">
 - [MuhammadWaseem29/CVE-2025-24813](https://github.com/MuhammadWaseem29/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24813">
+- [tonyarris/CVE-2025-24813-PoC](https://github.com/tonyarris/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tonyarris/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tonyarris/CVE-2025-24813-PoC">
 
 ---
 ## CVE-2025-2476 ()
