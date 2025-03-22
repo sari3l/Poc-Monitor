@@ -17,6 +17,11 @@
 - [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files)	<img alt="forks" src="https://img.shields.io/github/forks/OS-pedrogustavobilro/test-changed-files">	<img alt="stars" src="https://img.shields.io/github/stars/OS-pedrogustavobilro/test-changed-files">
 
 ---
+## CVE-2025-29927 ()
+> 
+- [serhalp/test-cve-2025-29927](https://github.com/serhalp/test-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/serhalp/test-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/serhalp/test-cve-2025-29927">
+
+---
 ## CVE-2025-29814 ()
 > 
 - [SatiresHashi/CVE-2025-29814](https://github.com/SatiresHashi/CVE-2025-29814)	<img alt="forks" src="https://img.shields.io/github/forks/SatiresHashi/CVE-2025-29814">	<img alt="stars" src="https://img.shields.io/github/stars/SatiresHashi/CVE-2025-29814">
