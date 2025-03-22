@@ -2042,6 +2042,11 @@ length to be included in the checksum calculation is fully consumed.
 - [RandomRobbieBF/CVE-2024-49681](https://github.com/RandomRobbieBF/CVE-2024-49681)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49681">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49681">
 
 ---
+## CVE-2024-49668 ()
+> 
+- [Nxploited/CVE-2024-49668](https://github.com/Nxploited/CVE-2024-49668)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-49668">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-49668">
+
+---
 ## CVE-2024-4956 (2024-05-16T16:15:00)
 > Path Traversal in Sonatype Nexus Repository 3 allows an unauthenticated attacker to read system files. Fixed in version 3.68.1.
 - [banditzCyber0x/CVE-2024-4956](https://github.com/banditzCyber0x/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/banditzCyber0x/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/banditzCyber0x/CVE-2024-4956">
