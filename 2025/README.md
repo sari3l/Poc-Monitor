@@ -30,6 +30,7 @@
 - [ticofookfook/poc-nextjs-CVE-2025-29927](https://github.com/ticofookfook/poc-nextjs-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/poc-nextjs-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/poc-nextjs-CVE-2025-29927">
 - [t3tra-dev/cve-2025-29927-demo](https://github.com/t3tra-dev/cve-2025-29927-demo)	<img alt="forks" src="https://img.shields.io/github/forks/t3tra-dev/cve-2025-29927-demo">	<img alt="stars" src="https://img.shields.io/github/stars/t3tra-dev/cve-2025-29927-demo">
 - [websecnl/CVE-2025-29927-PoC-Exploit](https://github.com/websecnl/CVE-2025-29927-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/websecnl/CVE-2025-29927-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/websecnl/CVE-2025-29927-PoC-Exploit">
+- [MuhammadWaseem29/CVE-2025-29927-POC](https://github.com/MuhammadWaseem29/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-29927-POC">
 
 ---
 ## CVE-2025-29814 ()
