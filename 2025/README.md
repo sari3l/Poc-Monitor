@@ -22,6 +22,7 @@
 - [serhalp/test-cve-2025-29927](https://github.com/serhalp/test-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/serhalp/test-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/serhalp/test-cve-2025-29927">
 - [Ademking/CVE-2025-29927](https://github.com/Ademking/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Ademking/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Ademking/CVE-2025-29927">
 - [6mile/nextjs-CVE-2025-29927](https://github.com/6mile/nextjs-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/6mile/nextjs-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/6mile/nextjs-CVE-2025-29927">
+- [azu/nextjs-cve-2025-29927-poc](https://github.com/azu/nextjs-cve-2025-29927-poc)	<img alt="forks" src="https://img.shields.io/github/forks/azu/nextjs-cve-2025-29927-poc">	<img alt="stars" src="https://img.shields.io/github/stars/azu/nextjs-cve-2025-29927-poc">
 
 ---
 ## CVE-2025-29814 ()
