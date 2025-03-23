@@ -29,6 +29,7 @@
 - [Neoxs/nextjs-middleware-vuln-poc](https://github.com/Neoxs/nextjs-middleware-vuln-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Neoxs/nextjs-middleware-vuln-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Neoxs/nextjs-middleware-vuln-poc">
 - [ticofookfook/poc-nextjs-CVE-2025-29927](https://github.com/ticofookfook/poc-nextjs-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/poc-nextjs-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/poc-nextjs-CVE-2025-29927">
 - [t3tra-dev/cve-2025-29927-demo](https://github.com/t3tra-dev/cve-2025-29927-demo)	<img alt="forks" src="https://img.shields.io/github/forks/t3tra-dev/cve-2025-29927-demo">	<img alt="stars" src="https://img.shields.io/github/stars/t3tra-dev/cve-2025-29927-demo">
+- [websecnl/CVE-2025-29927-PoC](https://github.com/websecnl/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/websecnl/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/websecnl/CVE-2025-29927-PoC">
 
 ---
 ## CVE-2025-29814 ()
