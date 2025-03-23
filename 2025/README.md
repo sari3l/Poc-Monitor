@@ -26,6 +26,7 @@
 - [lirantal/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/lirantal/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/vulnerable-nextjs-14-CVE-2025-29927">
 - [aydinnyunus/CVE-2025-29927](https://github.com/aydinnyunus/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/aydinnyunus/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/aydinnyunus/CVE-2025-29927">
 - [aydinnyunus/CVE-2025-29927](https://github.com/aydinnyunus/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/aydinnyunus/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/aydinnyunus/CVE-2025-29927">
+- [Neoxs/nextjs-middleware-vuln-poc](https://github.com/Neoxs/nextjs-middleware-vuln-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Neoxs/nextjs-middleware-vuln-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Neoxs/nextjs-middleware-vuln-poc">
 
 ---
 ## CVE-2025-29814 ()
