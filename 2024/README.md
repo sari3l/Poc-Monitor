@@ -6997,6 +6997,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [hashdr1ft/SOC_287](https://github.com/hashdr1ft/SOC_287)	<img alt="forks" src="https://img.shields.io/github/forks/hashdr1ft/SOC_287">	<img alt="stars" src="https://img.shields.io/github/stars/hashdr1ft/SOC_287">
 - [NingXin2002/Check-Point_poc](https://github.com/NingXin2002/Check-Point_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/Check-Point_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/Check-Point_poc">
 - [spider00009/CVE-2024-24919-POC](https://github.com/spider00009/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/spider00009/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/spider00009/CVE-2024-24919-POC">
+- [ejaboz/cve-2024-24919](https://github.com/ejaboz/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/ejaboz/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/ejaboz/cve-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
