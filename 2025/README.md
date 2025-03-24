@@ -43,6 +43,7 @@
 - [0xWhoknows/CVE-2025-29927](https://github.com/0xWhoknows/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoknows/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoknows/CVE-2025-29927">
 - [ricsirigu/CVE-2025-29927](https://github.com/ricsirigu/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ricsirigu/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ricsirigu/CVE-2025-29927">
 - [tobiasGuta/CVE-2025-29927-POC](https://github.com/tobiasGuta/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/CVE-2025-29927-POC">
+- [elshaheedy/CVE-2025-29927-Sigma-Rule](https://github.com/elshaheedy/CVE-2025-29927-Sigma-Rule)	<img alt="forks" src="https://img.shields.io/github/forks/elshaheedy/CVE-2025-29927-Sigma-Rule">	<img alt="stars" src="https://img.shields.io/github/stars/elshaheedy/CVE-2025-29927-Sigma-Rule">
 
 ---
 ## CVE-2025-29814 ()
