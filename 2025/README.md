@@ -37,6 +37,7 @@
 - [iSee857/CVE-2025-29927](https://github.com/iSee857/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-29927">
 - [arvion-agent/next-CVE-2025-29927](https://github.com/arvion-agent/next-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/arvion-agent/next-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/arvion-agent/next-CVE-2025-29927">
 - [Oyst3r1ng/CVE-2025-29927](https://github.com/Oyst3r1ng/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-29927">
+- [llMNMll/CVE-2025-29927](https://github.com/llMNMll/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/llMNMll/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/llMNMll/CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
