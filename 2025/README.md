@@ -33,6 +33,7 @@
 - [MuhammadWaseem29/CVE-2025-29927-POC](https://github.com/MuhammadWaseem29/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-29927-POC">
 - [RoyCampos/CVE-2025-29927](https://github.com/RoyCampos/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/RoyCampos/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/RoyCampos/CVE-2025-29927">
 - [strobes-security/nextjs-vulnerable-app](https://github.com/strobes-security/nextjs-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/strobes-security/nextjs-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/strobes-security/nextjs-vulnerable-app">
+- [fourcube/nextjs-middleware-bypass-demo](https://github.com/fourcube/nextjs-middleware-bypass-demo)	<img alt="forks" src="https://img.shields.io/github/forks/fourcube/nextjs-middleware-bypass-demo">	<img alt="stars" src="https://img.shields.io/github/stars/fourcube/nextjs-middleware-bypass-demo">
 
 ---
 ## CVE-2025-29814 ()
