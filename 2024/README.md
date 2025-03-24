@@ -1641,6 +1641,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [nanwinata/CVE-2024-52301](https://github.com/nanwinata/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-52301">
 
 ---
+## CVE-2024-51793 ()
+> 
+- [Nxploited/CVE-2024-51793](https://github.com/Nxploited/CVE-2024-51793)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-51793">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-51793">
+
+---
 ## CVE-2024-51788 ()
 > 
 - [Nxploited/CVE-2024-51788](https://github.com/Nxploited/CVE-2024-51788)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-51788">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-51788">
