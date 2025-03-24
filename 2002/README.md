@@ -19,3 +19,8 @@
 ## CVE-2002-0748 (2002-08-12T04:00:00)
 > LabVIEW Web Server 5.1.1 through 6.1 allows remote attackers to cause a denial of service (crash) via an HTTP GET request that ends in two newline characters, instead of the expected carriage return/newline combinations.
 - [fauzanwijaya/CVE-2002-0748](https://github.com/fauzanwijaya/CVE-2002-0748)	<img alt="forks" src="https://img.shields.io/github/forks/fauzanwijaya/CVE-2002-0748">	<img alt="stars" src="https://img.shields.io/github/stars/fauzanwijaya/CVE-2002-0748">
+
+---
+## CVE-2002-0082 ()
+> 
+- [ratiros01/CVE-2002-0082](https://github.com/ratiros01/CVE-2002-0082)	<img alt="forks" src="https://img.shields.io/github/forks/ratiros01/CVE-2002-0082">	<img alt="stars" src="https://img.shields.io/github/stars/ratiros01/CVE-2002-0082">
