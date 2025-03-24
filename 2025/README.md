@@ -460,6 +460,11 @@
 - [McTavishSue/CVE-2025-2233](https://github.com/McTavishSue/CVE-2025-2233)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-2233">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-2233">
 
 ---
+## CVE-2025-22224 ()
+> 
+- [bronsoneaver/CVE-2025-22224](https://github.com/bronsoneaver/CVE-2025-22224)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-22224">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-22224">
+
+---
 ## CVE-2025-21624 ()
 > 
 - [shreyas-malhotra/CVE-2025-21624](https://github.com/shreyas-malhotra/CVE-2025-21624)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2025-21624">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2025-21624">
