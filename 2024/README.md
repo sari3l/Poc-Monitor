@@ -7398,6 +7398,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [vmtyan/poc-cve-2024-23897](https://github.com/vmtyan/poc-cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/vmtyan/poc-cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/vmtyan/poc-cve-2024-23897">
 
 ---
+## CVE-2024-2387 ()
+> 
+- [RandomRobbieBF/CVE-2024-2387](https://github.com/RandomRobbieBF/CVE-2024-2387)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-2387">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-2387">
+
+---
 ## CVE-2024-23780 ()
 > 
 - [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780)	<img alt="forks" src="https://img.shields.io/github/forks/HazardLab-IO/CVE-2024-23780">	<img alt="stars" src="https://img.shields.io/github/stars/HazardLab-IO/CVE-2024-23780">
