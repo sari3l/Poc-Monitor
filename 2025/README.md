@@ -31,6 +31,8 @@
 - [t3tra-dev/cve-2025-29927-demo](https://github.com/t3tra-dev/cve-2025-29927-demo)	<img alt="forks" src="https://img.shields.io/github/forks/t3tra-dev/cve-2025-29927-demo">	<img alt="stars" src="https://img.shields.io/github/stars/t3tra-dev/cve-2025-29927-demo">
 - [websecnl/CVE-2025-29927-PoC-Exploit](https://github.com/websecnl/CVE-2025-29927-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/websecnl/CVE-2025-29927-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/websecnl/CVE-2025-29927-PoC-Exploit">
 - [MuhammadWaseem29/CVE-2025-29927-POC](https://github.com/MuhammadWaseem29/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-29927-POC">
+- [RoyCampos/CVE-2025-29927](https://github.com/RoyCampos/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/RoyCampos/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/RoyCampos/CVE-2025-29927">
+- [strobes-security/nextjs-vulnerable-app](https://github.com/strobes-security/nextjs-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/strobes-security/nextjs-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/strobes-security/nextjs-vulnerable-app">
 
 ---
 ## CVE-2025-29814 ()
