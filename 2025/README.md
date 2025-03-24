@@ -325,6 +325,7 @@
 - [Alaatk/CVE-2025-24813-POC](https://github.com/Alaatk/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2025-24813-POC">
 - [MuhammadWaseem29/CVE-2025-24813](https://github.com/MuhammadWaseem29/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24813">
 - [tonyarris/CVE-2025-24813-PoC](https://github.com/tonyarris/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tonyarris/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tonyarris/CVE-2025-24813-PoC">
+- [beyond-devsecops/CVE-2025-24813](https://github.com/beyond-devsecops/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/beyond-devsecops/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/beyond-devsecops/CVE-2025-24813">
 
 ---
 ## CVE-2025-2476 ()
