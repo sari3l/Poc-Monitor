@@ -35,6 +35,8 @@
 - [strobes-security/nextjs-vulnerable-app](https://github.com/strobes-security/nextjs-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/strobes-security/nextjs-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/strobes-security/nextjs-vulnerable-app">
 - [fourcube/nextjs-middleware-bypass-demo](https://github.com/fourcube/nextjs-middleware-bypass-demo)	<img alt="forks" src="https://img.shields.io/github/forks/fourcube/nextjs-middleware-bypass-demo">	<img alt="stars" src="https://img.shields.io/github/stars/fourcube/nextjs-middleware-bypass-demo">
 - [iSee857/CVE-2025-29927](https://github.com/iSee857/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-29927">
+- [arvion-agent/next-CVE-2025-29927](https://github.com/arvion-agent/next-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/arvion-agent/next-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/arvion-agent/next-CVE-2025-29927">
+- [Oyst3r1ng/CVE-2025-29927](https://github.com/Oyst3r1ng/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
