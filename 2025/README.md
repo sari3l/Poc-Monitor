@@ -17,6 +17,11 @@
 - [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files)	<img alt="forks" src="https://img.shields.io/github/forks/OS-pedrogustavobilro/test-changed-files">	<img alt="stars" src="https://img.shields.io/github/stars/OS-pedrogustavobilro/test-changed-files">
 
 ---
+## CVE-2025-29972 ()
+> 
+- [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-29972">
+
+---
 ## CVE-2025-29927 ()
 > 
 - [serhalp/test-cve-2025-29927](https://github.com/serhalp/test-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/serhalp/test-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/serhalp/test-cve-2025-29927">
@@ -54,6 +59,8 @@
 - [TheresAFewConors/CVE-2025-29927-Testing](https://github.com/TheresAFewConors/CVE-2025-29927-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/TheresAFewConors/CVE-2025-29927-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/TheresAFewConors/CVE-2025-29927-Testing">
 - [0xPThree/next.js_cve-2025-29927](https://github.com/0xPThree/next.js_cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/next.js_cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/next.js_cve-2025-29927">
 - [0xcucumbersalad/cve-2025-29927](https://github.com/0xcucumbersalad/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/cve-2025-29927">
+- [c0dejump/CVE-2025-29927-check](https://github.com/c0dejump/CVE-2025-29927-check)	<img alt="forks" src="https://img.shields.io/github/forks/c0dejump/CVE-2025-29927-check">	<img alt="stars" src="https://img.shields.io/github/stars/c0dejump/CVE-2025-29927-check">
+- [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-29972">
 
 ---
 ## CVE-2025-29814 ()
