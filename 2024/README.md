@@ -8223,6 +8223,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB](https://github.com/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB">
 - [Cyber-Trambon/CVE-2024-21413-exploit](https://github.com/Cyber-Trambon/CVE-2024-21413-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Trambon/CVE-2024-21413-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Trambon/CVE-2024-21413-exploit">
 - [GSTEINF/CVE-2024-21413-exploit](https://github.com/GSTEINF/CVE-2024-21413-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/GSTEINF/CVE-2024-21413-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/GSTEINF/CVE-2024-21413-exploit">
+- [ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413](https://github.com/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
