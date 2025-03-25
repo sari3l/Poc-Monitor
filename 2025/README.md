@@ -48,6 +48,7 @@
 - [memmedrehimzade/CVE-2025-29927-vuln-app](https://github.com/memmedrehimzade/CVE-2025-29927-vuln-app)	<img alt="forks" src="https://img.shields.io/github/forks/memmedrehimzade/CVE-2025-29927-vuln-app">	<img alt="stars" src="https://img.shields.io/github/stars/memmedrehimzade/CVE-2025-29927-vuln-app">
 - [takumade/ghost-route](https://github.com/takumade/ghost-route)	<img alt="forks" src="https://img.shields.io/github/forks/takumade/ghost-route">	<img alt="stars" src="https://img.shields.io/github/stars/takumade/ghost-route">
 - [0xPb1/Next.js-CVE-2025-29927](https://github.com/0xPb1/Next.js-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xPb1/Next.js-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xPb1/Next.js-CVE-2025-29927">
+- [jeymo092/cve-2025-29927](https://github.com/jeymo092/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/jeymo092/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/jeymo092/cve-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
