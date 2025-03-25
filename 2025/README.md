@@ -52,6 +52,7 @@
 - [alihussainzada/CVE-2025-29927-PoC](https://github.com/alihussainzada/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alihussainzada/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alihussainzada/CVE-2025-29927-PoC">
 - [Jull3Hax0r/next.js-exploit](https://github.com/Jull3Hax0r/next.js-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jull3Hax0r/next.js-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jull3Hax0r/next.js-exploit">
 - [TheresAFewConors/CVE-2025-29927-Testing](https://github.com/TheresAFewConors/CVE-2025-29927-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/TheresAFewConors/CVE-2025-29927-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/TheresAFewConors/CVE-2025-29927-Testing">
+- [0xPThree/next.js_cve-2025-29927](https://github.com/0xPThree/next.js_cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/next.js_cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/next.js_cve-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
@@ -532,6 +533,12 @@
 ## CVE-2025-20029 ()
 > 
 - [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-20029">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-20029">
+
+---
+## CVE-2025-1974 ()
+> 
+- [yoshino-s/CVE-2025-1974](https://github.com/yoshino-s/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-1974">
+- [sandumjacob/IngressNightmare-POCs](https://github.com/sandumjacob/IngressNightmare-POCs)	<img alt="forks" src="https://img.shields.io/github/forks/sandumjacob/IngressNightmare-POCs">	<img alt="stars" src="https://img.shields.io/github/stars/sandumjacob/IngressNightmare-POCs">
 
 ---
 ## CVE-2025-1716 ()
