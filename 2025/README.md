@@ -552,6 +552,7 @@
 > 
 - [yoshino-s/CVE-2025-1974](https://github.com/yoshino-s/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-1974">
 - [sandumjacob/IngressNightmare-POCs](https://github.com/sandumjacob/IngressNightmare-POCs)	<img alt="forks" src="https://img.shields.io/github/forks/sandumjacob/IngressNightmare-POCs">	<img alt="stars" src="https://img.shields.io/github/stars/sandumjacob/IngressNightmare-POCs">
+- [yanmarques/CVE-2025-1974](https://github.com/yanmarques/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/yanmarques/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/yanmarques/CVE-2025-1974">
 
 ---
 ## CVE-2025-1716 ()
