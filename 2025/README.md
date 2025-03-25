@@ -45,6 +45,8 @@
 - [tobiasGuta/CVE-2025-29927-POC](https://github.com/tobiasGuta/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/CVE-2025-29927-POC">
 - [elshaheedy/CVE-2025-29927-Sigma-Rule](https://github.com/elshaheedy/CVE-2025-29927-Sigma-Rule)	<img alt="forks" src="https://img.shields.io/github/forks/elshaheedy/CVE-2025-29927-Sigma-Rule">	<img alt="stars" src="https://img.shields.io/github/stars/elshaheedy/CVE-2025-29927-Sigma-Rule">
 - [furmak331/CVE-2025-29927](https://github.com/furmak331/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/furmak331/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/furmak331/CVE-2025-29927">
+- [memmedrehimzade/CVE-2025-29927-vuln-app](https://github.com/memmedrehimzade/CVE-2025-29927-vuln-app)	<img alt="forks" src="https://img.shields.io/github/forks/memmedrehimzade/CVE-2025-29927-vuln-app">	<img alt="stars" src="https://img.shields.io/github/stars/memmedrehimzade/CVE-2025-29927-vuln-app">
+- [takumade/ghost-route](https://github.com/takumade/ghost-route)	<img alt="forks" src="https://img.shields.io/github/forks/takumade/ghost-route">	<img alt="stars" src="https://img.shields.io/github/stars/takumade/ghost-route">
 
 ---
 ## CVE-2025-29814 ()
