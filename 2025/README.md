@@ -53,6 +53,7 @@
 - [Jull3Hax0r/next.js-exploit](https://github.com/Jull3Hax0r/next.js-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jull3Hax0r/next.js-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jull3Hax0r/next.js-exploit">
 - [TheresAFewConors/CVE-2025-29927-Testing](https://github.com/TheresAFewConors/CVE-2025-29927-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/TheresAFewConors/CVE-2025-29927-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/TheresAFewConors/CVE-2025-29927-Testing">
 - [0xPThree/next.js_cve-2025-29927](https://github.com/0xPThree/next.js_cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/next.js_cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/next.js_cve-2025-29927">
+- [0xcucumbersalad/cve-2025-29927](https://github.com/0xcucumbersalad/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/cve-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
