@@ -449,6 +449,11 @@
 - [RandomRobbieBF/CVE-2025-22954](https://github.com/RandomRobbieBF/CVE-2025-22954)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-22954">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-22954">
 
 ---
+## CVE-2025-22953 ()
+> 
+- [maliktawfiq/CVE-2025-22953](https://github.com/maliktawfiq/CVE-2025-22953)	<img alt="forks" src="https://img.shields.io/github/forks/maliktawfiq/CVE-2025-22953">	<img alt="stars" src="https://img.shields.io/github/stars/maliktawfiq/CVE-2025-22953">
+
+---
 ## CVE-2025-22828 ()
 > 
 - [Stolichnayer/CVE-2025-22828](https://github.com/Stolichnayer/CVE-2025-22828)	<img alt="forks" src="https://img.shields.io/github/forks/Stolichnayer/CVE-2025-22828">	<img alt="stars" src="https://img.shields.io/github/stars/Stolichnayer/CVE-2025-22828">
