@@ -50,6 +50,7 @@
 - [0xPb1/Next.js-CVE-2025-29927](https://github.com/0xPb1/Next.js-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xPb1/Next.js-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xPb1/Next.js-CVE-2025-29927">
 - [jeymo092/cve-2025-29927](https://github.com/jeymo092/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/jeymo092/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/jeymo092/cve-2025-29927">
 - [alihussainzada/CVE-2025-29927-PoC](https://github.com/alihussainzada/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alihussainzada/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alihussainzada/CVE-2025-29927-PoC">
+- [Jull3Hax0r/next.js-exploit](https://github.com/Jull3Hax0r/next.js-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jull3Hax0r/next.js-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jull3Hax0r/next.js-exploit">
 
 ---
 ## CVE-2025-29814 ()
