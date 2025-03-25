@@ -60,6 +60,11 @@
 - [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/cve-2025-29384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/cve-2025-29384-poc">
 
 ---
+## CVE-2025-29306 ()
+> 
+- [somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306)	<img alt="forks" src="https://img.shields.io/github/forks/somatrasss/CVE-2025-29306">	<img alt="stars" src="https://img.shields.io/github/stars/somatrasss/CVE-2025-29306">
+
+---
 ## CVE-2025-28915 ()
 > 
 - [Nxploited/CVE-2025-28915](https://github.com/Nxploited/CVE-2025-28915)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-28915">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-28915">
