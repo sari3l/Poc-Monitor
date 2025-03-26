@@ -69,6 +69,7 @@
 - [maronnjapan/claude-create-CVE-2025-29927](https://github.com/maronnjapan/claude-create-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/maronnjapan/claude-create-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/maronnjapan/claude-create-CVE-2025-29927">
 - [yugo-eliatrope/test-cve-2025-29927](https://github.com/yugo-eliatrope/test-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/yugo-eliatrope/test-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/yugo-eliatrope/test-cve-2025-29927">
 - [kOaDT/poc-cve-2025-29927](https://github.com/kOaDT/poc-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kOaDT/poc-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kOaDT/poc-cve-2025-29927">
+- [Eve-SatOrU/POC-CVE-2025-29927](https://github.com/Eve-SatOrU/POC-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Eve-SatOrU/POC-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Eve-SatOrU/POC-CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
