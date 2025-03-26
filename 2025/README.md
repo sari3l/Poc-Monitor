@@ -127,6 +127,11 @@
 - [em0gi/CVE-2025-27840](https://github.com/em0gi/CVE-2025-27840)	<img alt="forks" src="https://img.shields.io/github/forks/em0gi/CVE-2025-27840">	<img alt="stars" src="https://img.shields.io/github/stars/em0gi/CVE-2025-27840">
 
 ---
+## CVE-2025-2783 ()
+> 
+- [raulchung/CVE-2025-2783](https://github.com/raulchung/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/raulchung/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/raulchung/CVE-2025-2783">
+
+---
 ## CVE-2025-27636 ()
 > 
 - [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-27636-Apache-Camel-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-27636-Apache-Camel-PoC">
