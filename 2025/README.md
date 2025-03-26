@@ -22,6 +22,7 @@
 - [ThumpBo/CVE-2025-30208-EXP](https://github.com/ThumpBo/CVE-2025-30208-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/ThumpBo/CVE-2025-30208-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/ThumpBo/CVE-2025-30208-EXP">
 - [kk12-30/CVE-2025-30208](https://github.com/kk12-30/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/kk12-30/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/kk12-30/CVE-2025-30208">
 - [xaitx/CVE-2025-30208](https://github.com/xaitx/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/xaitx/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/xaitx/CVE-2025-30208">
+- [YuanBenSir/CVE-2025-30208_POC](https://github.com/YuanBenSir/CVE-2025-30208_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-30208_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-30208_POC">
 
 ---
 ## CVE-2025-30144 ()
@@ -85,6 +86,7 @@
 - [Eve-SatOrU/POC-CVE-2025-29927](https://github.com/Eve-SatOrU/POC-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Eve-SatOrU/POC-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Eve-SatOrU/POC-CVE-2025-29927">
 - [Slvignesh05/CVE-2025-29927](https://github.com/Slvignesh05/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Slvignesh05/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Slvignesh05/CVE-2025-29927">
 - [gotcadumitru/test-cve-2025-29927](https://github.com/gotcadumitru/test-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/gotcadumitru/test-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/gotcadumitru/test-cve-2025-29927">
+- [aleongx/CVE-2025-29927](https://github.com/aleongx/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
