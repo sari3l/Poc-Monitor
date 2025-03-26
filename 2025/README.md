@@ -463,6 +463,7 @@
 ## CVE-2025-22953 ()
 > 
 - [maliktawfiq/CVE-2025-22953](https://github.com/maliktawfiq/CVE-2025-22953)	<img alt="forks" src="https://img.shields.io/github/forks/maliktawfiq/CVE-2025-22953">	<img alt="stars" src="https://img.shields.io/github/stars/maliktawfiq/CVE-2025-22953">
+- [maliktawfiq/CVE-2025-22953](https://github.com/maliktawfiq/CVE-2025-22953)	<img alt="forks" src="https://img.shields.io/github/forks/maliktawfiq/CVE-2025-22953">	<img alt="stars" src="https://img.shields.io/github/stars/maliktawfiq/CVE-2025-22953">
 
 ---
 ## CVE-2025-22828 ()
