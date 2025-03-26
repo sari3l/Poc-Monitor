@@ -62,6 +62,8 @@
 - [c0dejump/CVE-2025-29927-check](https://github.com/c0dejump/CVE-2025-29927-check)	<img alt="forks" src="https://img.shields.io/github/forks/c0dejump/CVE-2025-29927-check">	<img alt="stars" src="https://img.shields.io/github/stars/c0dejump/CVE-2025-29927-check">
 - [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-29972">
 - [maronnjapan/claude-create-CVE-2025-29927](https://github.com/maronnjapan/claude-create-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/maronnjapan/claude-create-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/maronnjapan/claude-create-CVE-2025-29927">
+- [yugo-eliatrope/test-cve-2025-29927](https://github.com/yugo-eliatrope/test-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/yugo-eliatrope/test-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/yugo-eliatrope/test-cve-2025-29927">
+- [kOaDT/poc-cve-2025-29927](https://github.com/kOaDT/poc-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kOaDT/poc-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kOaDT/poc-cve-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
