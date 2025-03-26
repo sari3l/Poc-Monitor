@@ -557,6 +557,7 @@
 - [sandumjacob/IngressNightmare-POCs](https://github.com/sandumjacob/IngressNightmare-POCs)	<img alt="forks" src="https://img.shields.io/github/forks/sandumjacob/IngressNightmare-POCs">	<img alt="stars" src="https://img.shields.io/github/stars/sandumjacob/IngressNightmare-POCs">
 - [yanmarques/CVE-2025-1974](https://github.com/yanmarques/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/yanmarques/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/yanmarques/CVE-2025-1974">
 - [Esonhugh/nginxnightmare](https://github.com/Esonhugh/nginxnightmare)	<img alt="forks" src="https://img.shields.io/github/forks/Esonhugh/nginxnightmare">	<img alt="stars" src="https://img.shields.io/github/stars/Esonhugh/nginxnightmare">
+- [justmorpheus/IngressNightmare-CVE-2025-1974](https://github.com/justmorpheus/IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/justmorpheus/IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/justmorpheus/IngressNightmare-CVE-2025-1974">
 
 ---
 ## CVE-2025-1716 ()
