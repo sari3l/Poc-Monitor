@@ -23,6 +23,7 @@
 - [kk12-30/CVE-2025-30208](https://github.com/kk12-30/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/kk12-30/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/kk12-30/CVE-2025-30208">
 - [xaitx/CVE-2025-30208](https://github.com/xaitx/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/xaitx/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/xaitx/CVE-2025-30208">
 - [YuanBenSir/CVE-2025-30208_POC](https://github.com/YuanBenSir/CVE-2025-30208_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-30208_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-30208_POC">
+- [marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marino-admin/Vite-CVE-2025-30208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marino-admin/Vite-CVE-2025-30208-Scanner">
 
 ---
 ## CVE-2025-30144 ()
