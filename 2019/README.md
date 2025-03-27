@@ -13,6 +13,7 @@
 - [20dani09/CVE-2019-9978](https://github.com/20dani09/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/20dani09/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/20dani09/CVE-2019-9978">
 - [0xMoonrise/cve-2019-9978](https://github.com/0xMoonrise/cve-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/0xMoonrise/cve-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/0xMoonrise/cve-2019-9978">
 - [MAHajian/CVE-2019-9978](https://github.com/MAHajian/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/MAHajian/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/MAHajian/CVE-2019-9978">
+- [echoosso/CVE-2019-9978](https://github.com/echoosso/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/echoosso/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/echoosso/CVE-2019-9978">
 
 ---
 ## CVE-2019-9947 (2019-03-23T18:29:00)
