@@ -99,6 +99,7 @@
 - [nicknisi/next-attack](https://github.com/nicknisi/next-attack)	<img alt="forks" src="https://img.shields.io/github/forks/nicknisi/next-attack">	<img alt="stars" src="https://img.shields.io/github/stars/nicknisi/next-attack">
 - [jmbowes/NextSecureScan](https://github.com/jmbowes/NextSecureScan)	<img alt="forks" src="https://img.shields.io/github/forks/jmbowes/NextSecureScan">	<img alt="stars" src="https://img.shields.io/github/stars/jmbowes/NextSecureScan">
 - [ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927](https://github.com/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">
+- [aleongx/CVE-2025-29927_Scanner](https://github.com/aleongx/CVE-2025-29927_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/CVE-2025-29927_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/CVE-2025-29927_Scanner">
 
 ---
 ## CVE-2025-29814 ()
