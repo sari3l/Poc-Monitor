@@ -30,6 +30,7 @@
 - [YuanBenSir/CVE-2025-30208_POC](https://github.com/YuanBenSir/CVE-2025-30208_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-30208_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-30208_POC">
 - [marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marino-admin/Vite-CVE-2025-30208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marino-admin/Vite-CVE-2025-30208-Scanner">
 - [marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marino-admin/Vite-CVE-2025-30208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marino-admin/Vite-CVE-2025-30208-Scanner">
+- [iSee857/CVE-2025-30208-PoC](https://github.com/iSee857/CVE-2025-30208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-30208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-30208-PoC">
 
 ---
 ## CVE-2025-30144 ()
