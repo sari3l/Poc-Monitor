@@ -524,6 +524,11 @@
 - [maliktawfiq/CVE-2025-22953](https://github.com/maliktawfiq/CVE-2025-22953)	<img alt="forks" src="https://img.shields.io/github/forks/maliktawfiq/CVE-2025-22953">	<img alt="stars" src="https://img.shields.io/github/stars/maliktawfiq/CVE-2025-22953">
 
 ---
+## CVE-2025-2294 ()
+> 
+- [Nxploited/CVE-2025-2294](https://github.com/Nxploited/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2294">
+
+---
 ## CVE-2025-22828 ()
 > 
 - [Stolichnayer/CVE-2025-22828](https://github.com/Stolichnayer/CVE-2025-22828)	<img alt="forks" src="https://img.shields.io/github/forks/Stolichnayer/CVE-2025-22828">	<img alt="stars" src="https://img.shields.io/github/stars/Stolichnayer/CVE-2025-22828">
