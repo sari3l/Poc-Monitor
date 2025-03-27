@@ -1058,6 +1058,7 @@ The specific flaw exists within the password reset mechanism. The issue results 
 ## CVE-2024-56898 ()
 > 
 - [DRAGOWN/CVE-2024-56898](https://github.com/DRAGOWN/CVE-2024-56898)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2024-56898">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2024-56898">
+- [DRAGOWN/CVE-2025-26263](https://github.com/DRAGOWN/CVE-2025-26263)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2025-26263">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2025-26263">
 
 ---
 ## CVE-2024-56889 ()
