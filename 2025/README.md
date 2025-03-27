@@ -113,6 +113,7 @@
 - [m2hcz/Next.js-security-flaw-CVE-2025-29927---PoC-exploit](https://github.com/m2hcz/Next.js-security-flaw-CVE-2025-29927---PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m2hcz/Next.js-security-flaw-CVE-2025-29927---PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m2hcz/Next.js-security-flaw-CVE-2025-29927---PoC-exploit">
 - [m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit](https://github.com/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit">
 - [KaztoRay/CVE-2025-29927-Research](https://github.com/KaztoRay/CVE-2025-29927-Research)	<img alt="forks" src="https://img.shields.io/github/forks/KaztoRay/CVE-2025-29927-Research">	<img alt="stars" src="https://img.shields.io/github/stars/KaztoRay/CVE-2025-29927-Research">
+- [nocomp/CVE-2025-29927-scanner](https://github.com/nocomp/CVE-2025-29927-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nocomp/CVE-2025-29927-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nocomp/CVE-2025-29927-scanner">
 
 ---
 ## CVE-2025-29814 ()
