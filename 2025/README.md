@@ -9,6 +9,7 @@
 ## CVE-2025-50000 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-50000](https://github.com/NotItsSixtyN3in/CVE-2025-50000)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-50000">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-50000">
+- [adiivascu/CVE-2025-50000](https://github.com/adiivascu/CVE-2025-50000)	<img alt="forks" src="https://img.shields.io/github/forks/adiivascu/CVE-2025-50000">	<img alt="stars" src="https://img.shields.io/github/stars/adiivascu/CVE-2025-50000">
 
 ---
 ## CVE-2025-30567 ()
