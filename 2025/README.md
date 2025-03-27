@@ -17,6 +17,16 @@
 - [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-30567">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-30567">
 
 ---
+## CVE-2025-30355 ()
+> 
+- [ui-bootstrap/CVE-2025-30355](https://github.com/ui-bootstrap/CVE-2025-30355)	<img alt="forks" src="https://img.shields.io/github/forks/ui-bootstrap/CVE-2025-30355">	<img alt="stars" src="https://img.shields.io/github/stars/ui-bootstrap/CVE-2025-30355">
+
+---
+## CVE-2025-30349 ()
+> 
+- [natasaka/CVE-2025-30349](https://github.com/natasaka/CVE-2025-30349)	<img alt="forks" src="https://img.shields.io/github/forks/natasaka/CVE-2025-30349">	<img alt="stars" src="https://img.shields.io/github/stars/natasaka/CVE-2025-30349">
+
+---
 ## CVE-2025-30216 ()
 > 
 - [oliviaisntcringe/CVE-2025-30216-PoC](https://github.com/oliviaisntcringe/CVE-2025-30216-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oliviaisntcringe/CVE-2025-30216-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oliviaisntcringe/CVE-2025-30216-PoC">
