@@ -32,6 +32,7 @@
 - [marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marino-admin/Vite-CVE-2025-30208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marino-admin/Vite-CVE-2025-30208-Scanner">
 - [marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marino-admin/Vite-CVE-2025-30208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marino-admin/Vite-CVE-2025-30208-Scanner">
 - [iSee857/CVE-2025-30208-PoC](https://github.com/iSee857/CVE-2025-30208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-30208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-30208-PoC">
+- [LiChaser/CVE-2025-30208](https://github.com/LiChaser/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/LiChaser/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/LiChaser/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
