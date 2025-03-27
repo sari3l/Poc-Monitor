@@ -600,6 +600,7 @@
 - [m-q-t/ingressnightmare-detection-poc](https://github.com/m-q-t/ingressnightmare-detection-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m-q-t/ingressnightmare-detection-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m-q-t/ingressnightmare-detection-poc">
 - [hi-unc1e/CVE-2025-1974-poc](https://github.com/hi-unc1e/CVE-2025-1974-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hi-unc1e/CVE-2025-1974-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hi-unc1e/CVE-2025-1974-poc">
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/IngressNightmare-PoC">
+- [0xBingo/CVE-2025-1974](https://github.com/0xBingo/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/0xBingo/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/0xBingo/CVE-2025-1974">
 
 ---
 ## CVE-2025-1716 ()
