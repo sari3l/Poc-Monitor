@@ -102,6 +102,7 @@
 - [ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927](https://github.com/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">
 - [aleongx/CVE-2025-29927_Scanner](https://github.com/aleongx/CVE-2025-29927_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/CVE-2025-29927_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/CVE-2025-29927_Scanner">
 - [Nekicj/CVE-2025-29927-exploit](https://github.com/Nekicj/CVE-2025-29927-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nekicj/CVE-2025-29927-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nekicj/CVE-2025-29927-exploit">
+- [Heimd411/CVE-2025-29927-PoC](https://github.com/Heimd411/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Heimd411/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Heimd411/CVE-2025-29927-PoC">
 
 ---
 ## CVE-2025-29814 ()
@@ -454,6 +455,7 @@
 - [ctabango/CVE-2025-24071_PoCExtra](https://github.com/ctabango/CVE-2025-24071_PoCExtra)	<img alt="forks" src="https://img.shields.io/github/forks/ctabango/CVE-2025-24071_PoCExtra">	<img alt="stars" src="https://img.shields.io/github/stars/ctabango/CVE-2025-24071_PoCExtra">
 - [shacojx/CVE-2025-24071-Exploit](https://github.com/shacojx/CVE-2025-24071-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shacojx/CVE-2025-24071-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shacojx/CVE-2025-24071-Exploit">
 - [ThemeHackers/CVE-2025-24071](https://github.com/ThemeHackers/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-24071">
+- [rubbxalc/CVE-2025-24071](https://github.com/rubbxalc/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2025-24071">
 
 ---
 ## CVE-2025-24016 ()
