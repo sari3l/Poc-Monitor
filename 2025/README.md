@@ -94,6 +94,7 @@
 - [Slvignesh05/CVE-2025-29927](https://github.com/Slvignesh05/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Slvignesh05/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Slvignesh05/CVE-2025-29927">
 - [gotcadumitru/test-cve-2025-29927](https://github.com/gotcadumitru/test-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/gotcadumitru/test-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/gotcadumitru/test-cve-2025-29927">
 - [aleongx/CVE-2025-29927](https://github.com/aleongx/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/CVE-2025-29927">
+- [nicknisi/next-attack](https://github.com/nicknisi/next-attack)	<img alt="forks" src="https://img.shields.io/github/forks/nicknisi/next-attack">	<img alt="stars" src="https://img.shields.io/github/stars/nicknisi/next-attack">
 
 ---
 ## CVE-2025-29814 ()

@@ -497,6 +497,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-7479 (2024-09-25T11:15:00)
 > Improper verification of cryptographic signature during installation of a VPN driver via the TeamViewer_service.exe component of TeamViewer Remote Clients prior version 15.58.4 for Windows allows an attacker with local unprivileged access on a Windows system to elevate their privileges and install drivers.
 - [PeterGabaldon/CVE-2024-7479_CVE-2024-7481](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2024-7479_CVE-2024-7481">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2024-7479_CVE-2024-7481">
+- [fortra/CVE-2024-7479](https://github.com/fortra/CVE-2024-7479)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2024-7479">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2024-7479">
 
 ---
 ## CVE-2024-7456 (2024-11-01T12:15:00)
