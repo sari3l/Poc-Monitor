@@ -143,6 +143,7 @@
 - [yuzu-juice/CVE-2025-29927_demo](https://github.com/yuzu-juice/CVE-2025-29927_demo)	<img alt="forks" src="https://img.shields.io/github/forks/yuzu-juice/CVE-2025-29927_demo">	<img alt="stars" src="https://img.shields.io/github/stars/yuzu-juice/CVE-2025-29927_demo">
 - [0x0Luk/0xMiddleware](https://github.com/0x0Luk/0xMiddleware)	<img alt="forks" src="https://img.shields.io/github/forks/0x0Luk/0xMiddleware">	<img alt="stars" src="https://img.shields.io/github/stars/0x0Luk/0xMiddleware">
 - [CEAarab/CVE-2025-29927_env](https://github.com/CEAarab/CVE-2025-29927_env)	<img alt="forks" src="https://img.shields.io/github/forks/CEAarab/CVE-2025-29927_env">	<img alt="stars" src="https://img.shields.io/github/stars/CEAarab/CVE-2025-29927_env">
+- [AnonKryptiQuz/NextSploit](https://github.com/AnonKryptiQuz/NextSploit)	<img alt="forks" src="https://img.shields.io/github/forks/AnonKryptiQuz/NextSploit">	<img alt="stars" src="https://img.shields.io/github/stars/AnonKryptiQuz/NextSploit">
 
 ---
 ## CVE-2025-29814 ()
