@@ -707,6 +707,11 @@
 - [MuhammadWaseem29/CVE-2025-1661](https://github.com/MuhammadWaseem29/CVE-2025-1661)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-1661">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-1661">
 
 ---
+## CVE-2025-1653 ()
+> 
+- [realcodeb0ss/CVE-2025-1653-poc](https://github.com/realcodeb0ss/CVE-2025-1653-poc)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-1653-poc">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-1653-poc">
+
+---
 ## CVE-2025-1639 ()
 > 
 - [Nxploited/CVE-2025-1639](https://github.com/Nxploited/CVE-2025-1639)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-1639">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-1639">
