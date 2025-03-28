@@ -5319,6 +5319,11 @@
 - [W01fh4cker/CVE-2020-0688-GUI](https://github.com/W01fh4cker/CVE-2020-0688-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2020-0688-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2020-0688-GUI">
 
 ---
+## CVE-2020-0618 ()
+> 
+- [N3xtGenH4cker/CVE-2020-0618_DETECTION](https://github.com/N3xtGenH4cker/CVE-2020-0618_DETECTION)	<img alt="forks" src="https://img.shields.io/github/forks/N3xtGenH4cker/CVE-2020-0618_DETECTION">	<img alt="stars" src="https://img.shields.io/github/stars/N3xtGenH4cker/CVE-2020-0618_DETECTION">
+
+---
 ## CVE-2020-0601 (2020-01-14T23:15:00)
 > A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka 'Windows CryptoAPI Spoofing Vulnerability'.
 - [cimashiro/-Awesome-CVE-2020-0601-](https://github.com/cimashiro/-Awesome-CVE-2020-0601-)	<img alt="forks" src="https://img.shields.io/github/forks/cimashiro/-Awesome-CVE-2020-0601-">	<img alt="stars" src="https://img.shields.io/github/stars/cimashiro/-Awesome-CVE-2020-0601-">
