@@ -183,6 +183,11 @@
 - [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915)	<img alt="forks" src="https://img.shields.io/github/forks/Pei4AN/CVE-2025-28915">	<img alt="stars" src="https://img.shields.io/github/stars/Pei4AN/CVE-2025-28915">
 
 ---
+## CVE-2025-2857 ()
+> 
+- [RimaRuer/CVE-2025-2857-Exploit](https://github.com/RimaRuer/CVE-2025-2857-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RimaRuer/CVE-2025-2857-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RimaRuer/CVE-2025-2857-Exploit">
+
+---
 ## CVE-2025-27893 ()
 > 
 - [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893)	<img alt="forks" src="https://img.shields.io/github/forks/NastyCrow/CVE-2025-27893">	<img alt="stars" src="https://img.shields.io/github/stars/NastyCrow/CVE-2025-27893">
