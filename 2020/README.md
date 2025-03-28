@@ -5322,6 +5322,9 @@
 ## CVE-2020-0618 ()
 > 
 - [N3xtGenH4cker/CVE-2020-0618_DETECTION](https://github.com/N3xtGenH4cker/CVE-2020-0618_DETECTION)	<img alt="forks" src="https://img.shields.io/github/forks/N3xtGenH4cker/CVE-2020-0618_DETECTION">	<img alt="stars" src="https://img.shields.io/github/stars/N3xtGenH4cker/CVE-2020-0618_DETECTION">
+- [itstarsec/CVE-2020-0618](https://github.com/itstarsec/CVE-2020-0618)	<img alt="forks" src="https://img.shields.io/github/forks/itstarsec/CVE-2020-0618">	<img alt="stars" src="https://img.shields.io/github/stars/itstarsec/CVE-2020-0618">
+- [wortell/cve-2020-0618](https://github.com/wortell/cve-2020-0618)	<img alt="forks" src="https://img.shields.io/github/forks/wortell/cve-2020-0618">	<img alt="stars" src="https://img.shields.io/github/stars/wortell/cve-2020-0618">
+- [euphrat1ca/CVE-2020-0618](https://github.com/euphrat1ca/CVE-2020-0618)	<img alt="forks" src="https://img.shields.io/github/forks/euphrat1ca/CVE-2020-0618">	<img alt="stars" src="https://img.shields.io/github/stars/euphrat1ca/CVE-2020-0618">
 
 ---
 ## CVE-2020-0601 (2020-01-14T23:15:00)

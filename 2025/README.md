@@ -135,6 +135,7 @@
 - [KaztoRay/CVE-2025-29927-Research](https://github.com/KaztoRay/CVE-2025-29927-Research)	<img alt="forks" src="https://img.shields.io/github/forks/KaztoRay/CVE-2025-29927-Research">	<img alt="stars" src="https://img.shields.io/github/stars/KaztoRay/CVE-2025-29927-Research">
 - [nocomp/CVE-2025-29927-scanner](https://github.com/nocomp/CVE-2025-29927-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nocomp/CVE-2025-29927-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nocomp/CVE-2025-29927-scanner">
 - [yuzu-juice/CVE-2025-29927_demo](https://github.com/yuzu-juice/CVE-2025-29927_demo)	<img alt="forks" src="https://img.shields.io/github/forks/yuzu-juice/CVE-2025-29927_demo">	<img alt="stars" src="https://img.shields.io/github/stars/yuzu-juice/CVE-2025-29927_demo">
+- [0x0Luk/0xMiddleware](https://github.com/0x0Luk/0xMiddleware)	<img alt="forks" src="https://img.shields.io/github/forks/0x0Luk/0xMiddleware">	<img alt="stars" src="https://img.shields.io/github/stars/0x0Luk/0xMiddleware">
 
 ---
 ## CVE-2025-29814 ()
