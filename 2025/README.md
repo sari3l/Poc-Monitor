@@ -22,6 +22,11 @@
 - [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3272025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3272025">
 
 ---
+## CVE-2025-30772 ()
+> 
+- [Nxploited/CVE-2025-30772](https://github.com/Nxploited/CVE-2025-30772)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-30772">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-30772">
+
+---
 ## CVE-2025-30567 ()
 > 
 - [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-30567">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-30567">
@@ -137,6 +142,7 @@
 - [nocomp/CVE-2025-29927-scanner](https://github.com/nocomp/CVE-2025-29927-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nocomp/CVE-2025-29927-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nocomp/CVE-2025-29927-scanner">
 - [yuzu-juice/CVE-2025-29927_demo](https://github.com/yuzu-juice/CVE-2025-29927_demo)	<img alt="forks" src="https://img.shields.io/github/forks/yuzu-juice/CVE-2025-29927_demo">	<img alt="stars" src="https://img.shields.io/github/stars/yuzu-juice/CVE-2025-29927_demo">
 - [0x0Luk/0xMiddleware](https://github.com/0x0Luk/0xMiddleware)	<img alt="forks" src="https://img.shields.io/github/forks/0x0Luk/0xMiddleware">	<img alt="stars" src="https://img.shields.io/github/stars/0x0Luk/0xMiddleware">
+- [CEAarab/CVE-2025-29927_env](https://github.com/CEAarab/CVE-2025-29927_env)	<img alt="forks" src="https://img.shields.io/github/forks/CEAarab/CVE-2025-29927_env">	<img alt="stars" src="https://img.shields.io/github/stars/CEAarab/CVE-2025-29927_env">
 
 ---
 ## CVE-2025-29814 ()
