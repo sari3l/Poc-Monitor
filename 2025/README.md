@@ -12,6 +12,16 @@
 - [adiivascu/CVE-2025-50000](https://github.com/adiivascu/CVE-2025-50000)	<img alt="forks" src="https://img.shields.io/github/forks/adiivascu/CVE-2025-50000">	<img alt="stars" src="https://img.shields.io/github/stars/adiivascu/CVE-2025-50000">
 
 ---
+## CVE-2025-3282025 ()
+> 
+- [itssixtyn3in/CVE-2025-3282025](https://github.com/itssixtyn3in/CVE-2025-3282025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3282025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3282025">
+
+---
+## CVE-2025-3272025 ()
+> 
+- [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3272025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3272025">
+
+---
 ## CVE-2025-30567 ()
 > 
 - [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-30567">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-30567">
