@@ -61,6 +61,7 @@
 - [On1onss/CVE-2025-30208-LFI](https://github.com/On1onss/CVE-2025-30208-LFI)	<img alt="forks" src="https://img.shields.io/github/forks/On1onss/CVE-2025-30208-LFI">	<img alt="stars" src="https://img.shields.io/github/stars/On1onss/CVE-2025-30208-LFI">
 - [4xura/CVE-2025-30108](https://github.com/4xura/CVE-2025-30108)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2025-30108">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2025-30108">
 - [sadhfdw129/CVE-2025-30208-Vite](https://github.com/sadhfdw129/CVE-2025-30208-Vite)	<img alt="forks" src="https://img.shields.io/github/forks/sadhfdw129/CVE-2025-30208-Vite">	<img alt="stars" src="https://img.shields.io/github/stars/sadhfdw129/CVE-2025-30208-Vite">
+- [keklick1337/CVE-2025-30208-ViteVulnScanner](https://github.com/keklick1337/CVE-2025-30208-ViteVulnScanner)	<img alt="forks" src="https://img.shields.io/github/forks/keklick1337/CVE-2025-30208-ViteVulnScanner">	<img alt="stars" src="https://img.shields.io/github/stars/keklick1337/CVE-2025-30208-ViteVulnScanner">
 
 ---
 ## CVE-2025-30144 ()
