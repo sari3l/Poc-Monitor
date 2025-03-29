@@ -2229,12 +2229,13 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [St0rm-85/CVE-2023-42793](https://github.com/St0rm-85/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/St0rm-85/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/St0rm-85/CVE-2023-42793">
 - [StanleyJobsonAU/GhostTown](https://github.com/StanleyJobsonAU/GhostTown)	<img alt="forks" src="https://img.shields.io/github/forks/StanleyJobsonAU/GhostTown">	<img alt="stars" src="https://img.shields.io/github/stars/StanleyJobsonAU/GhostTown">
 - [hotplugin0x01/CVE-2023-42793](https://github.com/hotplugin0x01/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2023-42793">
-- [Zyad-Elsayed/CVE-2023-42793](https://github.com/Zyad-Elsayed/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Zyad-Elsayed/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Zyad-Elsayed/CVE-2023-42793">
+- [B4l3rI0n/CVE-2023-42793](https://github.com/B4l3rI0n/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/B4l3rI0n/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/B4l3rI0n/CVE-2023-42793">
 - [junnythemarksman/CVE-2023-42793](https://github.com/junnythemarksman/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2023-42793">
 - [HusenjanDev/CVE-2023-42793](https://github.com/HusenjanDev/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/HusenjanDev/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/HusenjanDev/CVE-2023-42793">
 - [FlojBoj/CVE-2023-42793](https://github.com/FlojBoj/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2023-42793">
 - [SwiftSecur/teamcity-exploit-cve-2023-42793](https://github.com/SwiftSecur/teamcity-exploit-cve-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/SwiftSecur/teamcity-exploit-cve-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/SwiftSecur/teamcity-exploit-cve-2023-42793">
 - [whoamins/CVE-2023-42793](https://github.com/whoamins/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/whoamins/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/whoamins/CVE-2023-42793">
+- [becrevex/CVE-2023-42793](https://github.com/becrevex/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
