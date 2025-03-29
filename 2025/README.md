@@ -194,6 +194,7 @@
 ## CVE-2025-2857 ()
 > 
 - [RimaRuer/CVE-2025-2857-Exploit](https://github.com/RimaRuer/CVE-2025-2857-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RimaRuer/CVE-2025-2857-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RimaRuer/CVE-2025-2857-Exploit">
+- [ubisoftinc/CVE-2025-2857](https://github.com/ubisoftinc/CVE-2025-2857)	<img alt="forks" src="https://img.shields.io/github/forks/ubisoftinc/CVE-2025-2857">	<img alt="stars" src="https://img.shields.io/github/stars/ubisoftinc/CVE-2025-2857">
 
 ---
 ## CVE-2025-27893 ()
