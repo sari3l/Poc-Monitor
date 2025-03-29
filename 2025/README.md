@@ -724,6 +724,7 @@
 > 
 - [Rimasue/CVE-2025-1316](https://github.com/Rimasue/CVE-2025-1316)	<img alt="forks" src="https://img.shields.io/github/forks/Rimasue/CVE-2025-1316">	<img alt="stars" src="https://img.shields.io/github/stars/Rimasue/CVE-2025-1316">
 - [slockit/CVE-2025-1316](https://github.com/slockit/CVE-2025-1316)	<img alt="forks" src="https://img.shields.io/github/forks/slockit/CVE-2025-1316">	<img alt="stars" src="https://img.shields.io/github/stars/slockit/CVE-2025-1316">
+- [slockit/CVE-2025-1316](https://github.com/slockit/CVE-2025-1316)	<img alt="forks" src="https://img.shields.io/github/forks/slockit/CVE-2025-1316">	<img alt="stars" src="https://img.shields.io/github/stars/slockit/CVE-2025-1316">
 
 ---
 ## CVE-2025-1307 ()
