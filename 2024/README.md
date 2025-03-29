@@ -6918,6 +6918,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [Agampreet-Singh/CVE-2024-25202](https://github.com/Agampreet-Singh/CVE-2024-25202)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-25202">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-25202">
 
 ---
+## CVE-2024-25180 ()
+> 
+- [dustblessnotdust/CVE-2024-25180](https://github.com/dustblessnotdust/CVE-2024-25180)	<img alt="forks" src="https://img.shields.io/github/forks/dustblessnotdust/CVE-2024-25180">	<img alt="stars" src="https://img.shields.io/github/stars/dustblessnotdust/CVE-2024-25180">
+
+---
 ## CVE-2024-25175 (2024-03-25T15:15:00)
 > An issue in Kickdler before v1.107.0 allows attackers to provide an XSS payload via a HTTP response splitting attack.
 - [jet-pentest/CVE-2024-25175](https://github.com/jet-pentest/CVE-2024-25175)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2024-25175">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2024-25175">
