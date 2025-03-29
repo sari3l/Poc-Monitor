@@ -354,6 +354,11 @@
 - [huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS](https://github.com/huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS">
 
 ---
+## CVE-2025-2563 ()
+> 
+- [ubaydev/CVE-2025-2563](https://github.com/ubaydev/CVE-2025-2563)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2025-2563">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2025-2563">
+
+---
 ## CVE-2025-25621 ()
 > 
 - [armaansidana2003/CVE-2025-25621](https://github.com/armaansidana2003/CVE-2025-25621)	<img alt="forks" src="https://img.shields.io/github/forks/armaansidana2003/CVE-2025-25621">	<img alt="stars" src="https://img.shields.io/github/stars/armaansidana2003/CVE-2025-25621">
