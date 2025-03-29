@@ -145,6 +145,7 @@
 - [0x0Luk/0xMiddleware](https://github.com/0x0Luk/0xMiddleware)	<img alt="forks" src="https://img.shields.io/github/forks/0x0Luk/0xMiddleware">	<img alt="stars" src="https://img.shields.io/github/stars/0x0Luk/0xMiddleware">
 - [CEAarab/CVE-2025-29927_env](https://github.com/CEAarab/CVE-2025-29927_env)	<img alt="forks" src="https://img.shields.io/github/forks/CEAarab/CVE-2025-29927_env">	<img alt="stars" src="https://img.shields.io/github/stars/CEAarab/CVE-2025-29927_env">
 - [AnonKryptiQuz/NextSploit](https://github.com/AnonKryptiQuz/NextSploit)	<img alt="forks" src="https://img.shields.io/github/forks/AnonKryptiQuz/NextSploit">	<img alt="stars" src="https://img.shields.io/github/stars/AnonKryptiQuz/NextSploit">
+- [w2hcorp/CVE-2025-29927-Exploit](https://github.com/w2hcorp/CVE-2025-29927-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/w2hcorp/CVE-2025-29927-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/w2hcorp/CVE-2025-29927-Exploit">
 
 ---
 ## CVE-2025-29814 ()
