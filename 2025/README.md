@@ -173,6 +173,7 @@
 - [w2hcorp/CVE-2025-29927-PoC](https://github.com/w2hcorp/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/w2hcorp/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/w2hcorp/CVE-2025-29927-PoC">
 - [ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927](https://github.com/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">
 - [dante01yoon/CVE-2025-29927](https://github.com/dante01yoon/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/dante01yoon/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/dante01yoon/CVE-2025-29927">
+- [ayato-shitomi/WebLab_CVE-2025-29927](https://github.com/ayato-shitomi/WebLab_CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ayato-shitomi/WebLab_CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ayato-shitomi/WebLab_CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
