@@ -744,6 +744,7 @@
 - [tuladhar/ingress-nightmare](https://github.com/tuladhar/ingress-nightmare)	<img alt="forks" src="https://img.shields.io/github/forks/tuladhar/ingress-nightmare">	<img alt="stars" src="https://img.shields.io/github/stars/tuladhar/ingress-nightmare">
 - [rjhaikal/POC-IngressNightmare-CVE-2025-1974](https://github.com/rjhaikal/POC-IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/rjhaikal/POC-IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/rjhaikal/POC-IngressNightmare-CVE-2025-1974">
 - [lufeirider/IngressNightmare-PoC](https://github.com/lufeirider/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lufeirider/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lufeirider/IngressNightmare-PoC">
+- [Ar05un05kau05ndal/2025-1](https://github.com/Ar05un05kau05ndal/2025-1)	<img alt="forks" src="https://img.shields.io/github/forks/Ar05un05kau05ndal/2025-1">	<img alt="stars" src="https://img.shields.io/github/stars/Ar05un05kau05ndal/2025-1">
 
 ---
 ## CVE-2025-1716 ()
