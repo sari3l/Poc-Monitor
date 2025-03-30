@@ -4644,6 +4644,8 @@
 - [dozernz/cve-2020-11651](https://github.com/dozernz/cve-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/dozernz/cve-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/dozernz/cve-2020-11651">
 - [hardsoftsecurity/CVE-2020-11651-PoC](https://github.com/hardsoftsecurity/CVE-2020-11651-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hardsoftsecurity/CVE-2020-11651-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hardsoftsecurity/CVE-2020-11651-PoC">
 - [5l1v3r1/SaltStack-Exp-1](https://github.com/5l1v3r1/SaltStack-Exp-1)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/SaltStack-Exp-1">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/SaltStack-Exp-1">
+- [Drew-Alleman/CVE-2020-11651](https://github.com/Drew-Alleman/CVE-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/Drew-Alleman/CVE-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/Drew-Alleman/CVE-2020-11651">
+- [limon768/CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-POC">
 
 ---
 ## CVE-2020-11579 (2020-09-03T18:15:00)
