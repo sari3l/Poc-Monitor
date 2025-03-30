@@ -309,6 +309,11 @@
 - [xibhi/CVE-2025-26206](https://github.com/xibhi/CVE-2025-26206)	<img alt="forks" src="https://img.shields.io/github/forks/xibhi/CVE-2025-26206">	<img alt="stars" src="https://img.shields.io/github/stars/xibhi/CVE-2025-26206">
 
 ---
+## CVE-2025-26125 ()
+> 
+- [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroMemoryEx/CVE-2025-26125">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroMemoryEx/CVE-2025-26125">
+
+---
 ## CVE-2025-26056 ()
 > 
 - [rohan-pt/CVE-2025-26056](https://github.com/rohan-pt/CVE-2025-26056)	<img alt="forks" src="https://img.shields.io/github/forks/rohan-pt/CVE-2025-26056">	<img alt="stars" src="https://img.shields.io/github/stars/rohan-pt/CVE-2025-26056">
