@@ -4210,6 +4210,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [th3gokul/CVE-2024-36991](https://github.com/th3gokul/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-36991">
 - [sardine-web/CVE-2024-36991](https://github.com/sardine-web/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-36991">
 - [Cappricio-Securities/CVE-2024-36991](https://github.com/Cappricio-Securities/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-36991">
+- [jaytiwari05/CVE-2024-36991](https://github.com/jaytiwari05/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/jaytiwari05/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/jaytiwari05/CVE-2024-36991">
 
 ---
 ## CVE-2024-3690 ()
