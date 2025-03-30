@@ -19,6 +19,8 @@
 ## CVE-2012-4869 ()
 > 
 - [cyberdesu/Elastix-2.2.0-CVE-2012-4869](https://github.com/cyberdesu/Elastix-2.2.0-CVE-2012-4869)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdesu/Elastix-2.2.0-CVE-2012-4869">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdesu/Elastix-2.2.0-CVE-2012-4869">
+- [bitc0de/Elastix-Remote-Code-Execution](https://github.com/bitc0de/Elastix-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/bitc0de/Elastix-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/bitc0de/Elastix-Remote-Code-Execution">
+- [AndyCyberSec/OSCP](https://github.com/AndyCyberSec/OSCP)	<img alt="forks" src="https://img.shields.io/github/forks/AndyCyberSec/OSCP">	<img alt="stars" src="https://img.shields.io/github/stars/AndyCyberSec/OSCP">
 
 ---
 ## CVE-2012-4681 (2012-08-28T00:55:00)
