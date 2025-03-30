@@ -1728,6 +1728,11 @@
 - [bhenner1/CVE-2018-0296](https://github.com/bhenner1/CVE-2018-0296)	<img alt="forks" src="https://img.shields.io/github/forks/bhenner1/CVE-2018-0296">	<img alt="stars" src="https://img.shields.io/github/stars/bhenner1/CVE-2018-0296">
 
 ---
+## CVE-2018-0239 ()
+> 
+- [mr-won/CVE-2018-0239](https://github.com/mr-won/CVE-2018-0239)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/CVE-2018-0239">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/CVE-2018-0239">
+
+---
 ## CVE-2018-0114 (2018-01-04T06:29:00)
 > A vulnerability in the Cisco node-jose open source library before 0.11.0 could allow an unauthenticated, remote attacker to re-sign tokens using a key that is embedded within the token. The vulnerability is due to node-jose following the JSON Web Signature (JWS) standard for JSON Web Tokens (JWTs). This standard specifies that a JSON Web Key (JWK) representing a public key can be embedded within the header of a JWS. This public key is then trusted for verification. An attacker could exploit this by forging valid JWS objects by removing the original signature, adding a new public key to the header, and then signing the object using the (attacker-owned) private key associated with the public key embedded in that JWS header.
 - [zi0Black/POC-CVE-2018-0114](https://github.com/zi0Black/POC-CVE-2018-0114)	<img alt="forks" src="https://img.shields.io/github/forks/zi0Black/POC-CVE-2018-0114">	<img alt="stars" src="https://img.shields.io/github/stars/zi0Black/POC-CVE-2018-0114">
