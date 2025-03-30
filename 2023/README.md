@@ -1748,6 +1748,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [PaulDHaes/CVE-2023-45878-POC](https://github.com/PaulDHaes/CVE-2023-45878-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PaulDHaes/CVE-2023-45878-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PaulDHaes/CVE-2023-45878-POC">
 - [killercd/CVE-2023-45878](https://github.com/killercd/CVE-2023-45878)	<img alt="forks" src="https://img.shields.io/github/forks/killercd/CVE-2023-45878">	<img alt="stars" src="https://img.shields.io/github/stars/killercd/CVE-2023-45878">
 - [nrazv/CVE-2023-45878](https://github.com/nrazv/CVE-2023-45878)	<img alt="forks" src="https://img.shields.io/github/forks/nrazv/CVE-2023-45878">	<img alt="stars" src="https://img.shields.io/github/stars/nrazv/CVE-2023-45878">
+- [0xyy66/CVE-2023-45878_to_RCE](https://github.com/0xyy66/CVE-2023-45878_to_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xyy66/CVE-2023-45878_to_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xyy66/CVE-2023-45878_to_RCE">
 
 ---
 ## CVE-2023-45866 (2023-12-08T06:15:00)
