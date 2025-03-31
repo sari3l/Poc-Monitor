@@ -4192,6 +4192,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [tucommenceapousser/CVE-2023-34960-ex](https://github.com/tucommenceapousser/CVE-2023-34960-ex)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-34960-ex">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-34960-ex">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 - [dvtarsoul/ChExp](https://github.com/dvtarsoul/ChExp)	<img alt="forks" src="https://img.shields.io/github/forks/dvtarsoul/ChExp">	<img alt="stars" src="https://img.shields.io/github/stars/dvtarsoul/ChExp">
+- [mr-won/cve-2023-34960](https://github.com/mr-won/cve-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/cve-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/cve-2023-34960">
 
 ---
 ## CVE-2023-34924 (2023-06-26T21:15:00)
