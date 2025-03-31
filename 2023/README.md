@@ -4769,6 +4769,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784](https://github.com/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">
 - [dev0558/CVE-2023-32784-EXPLOIT-REPORT](https://github.com/dev0558/CVE-2023-32784-EXPLOIT-REPORT)	<img alt="forks" src="https://img.shields.io/github/forks/dev0558/CVE-2023-32784-EXPLOIT-REPORT">	<img alt="stars" src="https://img.shields.io/github/stars/dev0558/CVE-2023-32784-EXPLOIT-REPORT">
 - [SarahZimmermann-Schmutzler/exploit_keepass](https://github.com/SarahZimmermann-Schmutzler/exploit_keepass)	<img alt="forks" src="https://img.shields.io/github/forks/SarahZimmermann-Schmutzler/exploit_keepass">	<img alt="stars" src="https://img.shields.io/github/stars/SarahZimmermann-Schmutzler/exploit_keepass">
+- [G4sp4rCS/CVE-2023-32784-password-combinator-fixer](https://github.com/G4sp4rCS/CVE-2023-32784-password-combinator-fixer)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/CVE-2023-32784-password-combinator-fixer">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/CVE-2023-32784-password-combinator-fixer">
 
 ---
 ## CVE-2023-32749 (2023-06-08T20:15:00)
