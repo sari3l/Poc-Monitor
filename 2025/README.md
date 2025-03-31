@@ -631,6 +631,7 @@
 > 
 - [Nxploited/CVE-2025-2294](https://github.com/Nxploited/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2294">
 - [mrrivaldo/CVE-2025-2294](https://github.com/mrrivaldo/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/mrrivaldo/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/mrrivaldo/CVE-2025-2294">
+- [mrrivaldo/CVE-2025-2294](https://github.com/mrrivaldo/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/mrrivaldo/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/mrrivaldo/CVE-2025-2294">
 
 ---
 ## CVE-2025-22828 ()
