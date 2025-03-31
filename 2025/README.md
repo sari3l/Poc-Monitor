@@ -89,6 +89,7 @@
 - [keklick1337/CVE-2025-30208-ViteVulnScanner](https://github.com/keklick1337/CVE-2025-30208-ViteVulnScanner)	<img alt="forks" src="https://img.shields.io/github/forks/keklick1337/CVE-2025-30208-ViteVulnScanner">	<img alt="stars" src="https://img.shields.io/github/stars/keklick1337/CVE-2025-30208-ViteVulnScanner">
 - [Ahmed-mostafa03/CVE-2025-30208-EXP](https://github.com/Ahmed-mostafa03/CVE-2025-30208-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmed-mostafa03/CVE-2025-30208-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmed-mostafa03/CVE-2025-30208-EXP">
 - [jackieya/CVE-2025-30208](https://github.com/jackieya/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/jackieya/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/jackieya/CVE-2025-30208">
+- [jackieya/CVE-2025-30208](https://github.com/jackieya/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/jackieya/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/jackieya/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
