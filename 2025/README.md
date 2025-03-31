@@ -515,6 +515,7 @@
 - [u238/Tomcat-CVE_2025_24813](https://github.com/u238/Tomcat-CVE_2025_24813)	<img alt="forks" src="https://img.shields.io/github/forks/u238/Tomcat-CVE_2025_24813">	<img alt="stars" src="https://img.shields.io/github/stars/u238/Tomcat-CVE_2025_24813">
 - [AlperenY-cs/CVE-2025-24813](https://github.com/AlperenY-cs/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2025-24813">
 - [manjula-aw/CVE-2025-24813](https://github.com/manjula-aw/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/manjula-aw/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/manjula-aw/CVE-2025-24813">
+- [B1gN0Se/Tomcat-CVE-2025-24813](https://github.com/B1gN0Se/Tomcat-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/Tomcat-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/Tomcat-CVE-2025-24813">
 
 ---
 ## CVE-2025-24799 ()
