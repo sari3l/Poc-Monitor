@@ -517,6 +517,11 @@
 - [manjula-aw/CVE-2025-24813](https://github.com/manjula-aw/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/manjula-aw/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/manjula-aw/CVE-2025-24813">
 
 ---
+## CVE-2025-24799 ()
+> 
+- [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-24799-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-24799-PoC">
+
+---
 ## CVE-2025-2476 ()
 > 
 - [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-2476">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-2476">
@@ -751,6 +756,7 @@
 - [lufeirider/IngressNightmare-PoC](https://github.com/lufeirider/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lufeirider/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lufeirider/IngressNightmare-PoC">
 - [Ar05un05kau05ndal/2025-1](https://github.com/Ar05un05kau05ndal/2025-1)	<img alt="forks" src="https://img.shields.io/github/forks/Ar05un05kau05ndal/2025-1">	<img alt="stars" src="https://img.shields.io/github/stars/Ar05un05kau05ndal/2025-1">
 - [zulloper/CVE-2025-1974](https://github.com/zulloper/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/zulloper/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/zulloper/CVE-2025-1974">
+- [gian2dchris/ingress-nightmare-poc](https://github.com/gian2dchris/ingress-nightmare-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gian2dchris/ingress-nightmare-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gian2dchris/ingress-nightmare-poc">
 
 ---
 ## CVE-2025-1716 ()
