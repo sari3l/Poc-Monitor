@@ -52,6 +52,11 @@
 - [cwm1123/CVE-2025-31129](https://github.com/cwm1123/CVE-2025-31129)	<img alt="forks" src="https://img.shields.io/github/forks/cwm1123/CVE-2025-31129">	<img alt="stars" src="https://img.shields.io/github/stars/cwm1123/CVE-2025-31129">
 
 ---
+## CVE-2025-31125 ()
+> 
+- [sunhuiHi666/CVE-2025-31125](https://github.com/sunhuiHi666/CVE-2025-31125)	<img alt="forks" src="https://img.shields.io/github/forks/sunhuiHi666/CVE-2025-31125">	<img alt="stars" src="https://img.shields.io/github/stars/sunhuiHi666/CVE-2025-31125">
+
+---
 ## CVE-2025-30772 ()
 > 
 - [Nxploited/CVE-2025-30772](https://github.com/Nxploited/CVE-2025-30772)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-30772">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-30772">
@@ -877,6 +882,11 @@
 - [cesarbtakeda/7-Zip-CVE-2025-0411-POC](https://github.com/cesarbtakeda/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/7-Zip-CVE-2025-0411-POC">
 - [dpextreme/7-Zip-CVE-2025-0411-POC](https://github.com/dpextreme/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dpextreme/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dpextreme/7-Zip-CVE-2025-0411-POC">
 - [SalehAlgnay/7-Zip-CVE-2025-0411-POC](https://github.com/SalehAlgnay/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SalehAlgnay/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SalehAlgnay/7-Zip-CVE-2025-0411-POC">
+
+---
+## CVE-2025-0401 ()
+> 
+- [CyberSecurityUP/CVE-2025-0401](https://github.com/CyberSecurityUP/CVE-2025-0401)	<img alt="forks" src="https://img.shields.io/github/forks/CyberSecurityUP/CVE-2025-0401">	<img alt="stars" src="https://img.shields.io/github/stars/CyberSecurityUP/CVE-2025-0401">
 
 ---
 ## CVE-2025-0364 ()
