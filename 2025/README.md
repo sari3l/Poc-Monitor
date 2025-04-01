@@ -189,6 +189,7 @@
 - [ayato-shitomi/WebLab_CVE-2025-29927](https://github.com/ayato-shitomi/WebLab_CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ayato-shitomi/WebLab_CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ayato-shitomi/WebLab_CVE-2025-29927">
 - [Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927](https://github.com/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927">
 - [a9v8i/CVE-2025-29927](https://github.com/a9v8i/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/a9v8i/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/a9v8i/CVE-2025-29927">
+- [alastair66/CVE-2025-29927](https://github.com/alastair66/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/alastair66/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/alastair66/CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
