@@ -1879,6 +1879,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [watchtowrlabs/CVE-2024-50623](https://github.com/watchtowrlabs/CVE-2024-50623)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-50623">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-50623">
 - [verylazytech/CVE-2024-50623](https://github.com/verylazytech/CVE-2024-50623)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-50623">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-50623">
 - [iSee857/Cleo-CVE-2024-50623-PoC](https://github.com/iSee857/Cleo-CVE-2024-50623-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/Cleo-CVE-2024-50623-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/Cleo-CVE-2024-50623-PoC">
+- [congdong007/CVE-2024-50623-poc](https://github.com/congdong007/CVE-2024-50623-poc)	<img alt="forks" src="https://img.shields.io/github/forks/congdong007/CVE-2024-50623-poc">	<img alt="stars" src="https://img.shields.io/github/stars/congdong007/CVE-2024-50623-poc">
 
 ---
 ## CVE-2024-50603 ()
