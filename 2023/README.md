@@ -326,6 +326,7 @@ to load arbitrary JavaScript code.
 > The Popup Builder WordPress plugin through 4.1.15 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
 - [justhx0r/CVE-2023-5561](https://github.com/justhx0r/CVE-2023-5561)	<img alt="forks" src="https://img.shields.io/github/forks/justhx0r/CVE-2023-5561">	<img alt="stars" src="https://img.shields.io/github/stars/justhx0r/CVE-2023-5561">
 - [pog007/CVE-2023-5561-PoC](https://github.com/pog007/CVE-2023-5561-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pog007/CVE-2023-5561-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pog007/CVE-2023-5561-PoC">
+- [rootxsushant/CVE-2023-5561-POC-Updated](https://github.com/rootxsushant/CVE-2023-5561-POC-Updated)	<img alt="forks" src="https://img.shields.io/github/forks/rootxsushant/CVE-2023-5561-POC-Updated">	<img alt="stars" src="https://img.shields.io/github/stars/rootxsushant/CVE-2023-5561-POC-Updated">
 
 ---
 ## CVE-2023-5546 (2023-11-09T20:15:00)
