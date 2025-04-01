@@ -9238,6 +9238,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448)	<img alt="forks" src="https://img.shields.io/github/forks/bevennyamande/CVE-2024-10448">	<img alt="stars" src="https://img.shields.io/github/stars/bevennyamande/CVE-2024-10448">
 
 ---
+## CVE-2024-10441 ()
+> 
+- [hazzzein/CVE-2024-10441](https://github.com/hazzzein/CVE-2024-10441)	<img alt="forks" src="https://img.shields.io/github/forks/hazzzein/CVE-2024-10441">	<img alt="stars" src="https://img.shields.io/github/stars/hazzzein/CVE-2024-10441">
+
+---
 ## CVE-2024-10420 (2024-10-27T16:15:00)
 > A vulnerability classified as critical has been found in SourceCodester Attendance and Payroll System 1.0. This affects the function upload of the file /marimar/guest/update.php. The manipulation of the argument image leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.
 - [K1nako0/CVE-2024-10420](https://github.com/K1nako0/CVE-2024-10420)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10420">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10420">
