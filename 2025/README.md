@@ -116,6 +116,7 @@
 - [jackieya/CVE-2025-30208](https://github.com/jackieya/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/jackieya/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/jackieya/CVE-2025-30208">
 - [jackieya/CVE-2025-30208](https://github.com/jackieya/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/jackieya/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/jackieya/CVE-2025-30208">
 - [0xshaheen/CVE-2025-30208](https://github.com/0xshaheen/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/0xshaheen/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/0xshaheen/CVE-2025-30208">
+- [sumeet-darekar/CVE-2025-30208](https://github.com/sumeet-darekar/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/sumeet-darekar/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/sumeet-darekar/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
