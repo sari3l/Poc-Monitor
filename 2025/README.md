@@ -12,6 +12,21 @@
 - [adiivascu/CVE-2025-50000](https://github.com/adiivascu/CVE-2025-50000)	<img alt="forks" src="https://img.shields.io/github/forks/adiivascu/CVE-2025-50000">	<img alt="stars" src="https://img.shields.io/github/stars/adiivascu/CVE-2025-50000">
 
 ---
+## CVE-2025-422031 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-422031](https://github.com/NotItsSixtyN3in/CVE-2025-422031)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-422031">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-422031">
+
+---
+## CVE-2025-422030 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-422030](https://github.com/NotItsSixtyN3in/CVE-2025-422030)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-422030">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-422030">
+
+---
+## CVE-2025-422029 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-422029](https://github.com/NotItsSixtyN3in/CVE-2025-422029)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-422029">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-422029">
+
+---
 ## CVE-2025-422027 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-422027](https://github.com/NotItsSixtyN3in/CVE-2025-422027)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-422027">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-422027">
