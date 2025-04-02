@@ -209,6 +209,7 @@
 - [narasimhauppala/nextjs-middleware-bypass](https://github.com/narasimhauppala/nextjs-middleware-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/narasimhauppala/nextjs-middleware-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/narasimhauppala/nextjs-middleware-bypass">
 - [BilalGns/CVE-2025-29927](https://github.com/BilalGns/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BilalGns/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BilalGns/CVE-2025-29927">
 - [nyctophile0969/CVE-2025-29927](https://github.com/nyctophile0969/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/nyctophile0969/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/nyctophile0969/CVE-2025-29927">
+- [Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927](https://github.com/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
