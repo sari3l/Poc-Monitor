@@ -387,6 +387,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [tequilasunsh1ne/ivanti_CVE_2024_8190](https://github.com/tequilasunsh1ne/ivanti_CVE_2024_8190)	<img alt="forks" src="https://img.shields.io/github/forks/tequilasunsh1ne/ivanti_CVE_2024_8190">	<img alt="stars" src="https://img.shields.io/github/stars/tequilasunsh1ne/ivanti_CVE_2024_8190">
 
 ---
+## CVE-2024-8176 ()
+> 
+- [uthrasri/Expat_2.6.2_CVE-2024-8176](https://github.com/uthrasri/Expat_2.6.2_CVE-2024-8176)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Expat_2.6.2_CVE-2024-8176">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Expat_2.6.2_CVE-2024-8176">
+
+---
 ## CVE-2024-81757 ()
 > 
 - [AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61](https://github.com/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">
