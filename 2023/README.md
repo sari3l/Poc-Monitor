@@ -7112,6 +7112,11 @@ For more details, please review the linked advisory on this CVE.
 - [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074)	<img alt="forks" src="https://img.shields.io/github/forks/emad-almousa/CVE-2023-22074">	<img alt="stars" src="https://img.shields.io/github/stars/emad-almousa/CVE-2023-22074">
 
 ---
+## CVE-2023-22047 ()
+> 
+- [tuo4n8/CVE-2023-22047](https://github.com/tuo4n8/CVE-2023-22047)	<img alt="forks" src="https://img.shields.io/github/forks/tuo4n8/CVE-2023-22047">	<img alt="stars" src="https://img.shields.io/github/stars/tuo4n8/CVE-2023-22047">
+
+---
 ## CVE-2023-21987 (2023-04-18T20:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 6.1.44 and  Prior to 7.0.8. Difficult to exploit vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H).
 - [chunzhennn/cve-2023-21987-poc](https://github.com/chunzhennn/cve-2023-21987-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chunzhennn/cve-2023-21987-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chunzhennn/cve-2023-21987-poc">
