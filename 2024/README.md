@@ -3378,6 +3378,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231">
 
 ---
+## CVE-2024-422028 ()
+> 
+- [NotItsSixtyN3in/CVE-2024-422028](https://github.com/NotItsSixtyN3in/CVE-2024-422028)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2024-422028">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2024-422028">
+
+---
 ## CVE-2024-42009 ()
 > 
 - [0xbassiouny1337/CVE-2024-42009](https://github.com/0xbassiouny1337/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/0xbassiouny1337/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/0xbassiouny1337/CVE-2024-42009">
