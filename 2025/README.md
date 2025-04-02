@@ -260,6 +260,11 @@
 - [ubisoftinc/CVE-2025-2857](https://github.com/ubisoftinc/CVE-2025-2857)	<img alt="forks" src="https://img.shields.io/github/forks/ubisoftinc/CVE-2025-2857">	<img alt="stars" src="https://img.shields.io/github/stars/ubisoftinc/CVE-2025-2857">
 
 ---
+## CVE-2025-2825 ()
+> 
+- [h0ld1rs/CVE-2025-2825](https://github.com/h0ld1rs/CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/h0ld1rs/CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/h0ld1rs/CVE-2025-2825">
+
+---
 ## CVE-2025-27893 ()
 > 
 - [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893)	<img alt="forks" src="https://img.shields.io/github/forks/NastyCrow/CVE-2025-27893">	<img alt="stars" src="https://img.shields.io/github/stars/NastyCrow/CVE-2025-27893">
