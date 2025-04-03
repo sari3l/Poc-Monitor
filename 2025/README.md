@@ -132,6 +132,7 @@
 ## CVE-2025-30567 ()
 > 
 - [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-30567">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-30567">
+- [realcodeb0ss/CVE-2025-30567-PoC](https://github.com/realcodeb0ss/CVE-2025-30567-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-30567-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-30567-PoC">
 
 ---
 ## CVE-2025-30355 ()
@@ -755,6 +756,7 @@
 - [Nxploited/CVE-2025-2294](https://github.com/Nxploited/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2294">
 - [mrrivaldo/CVE-2025-2294](https://github.com/mrrivaldo/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/mrrivaldo/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/mrrivaldo/CVE-2025-2294">
 - [mrrivaldo/CVE-2025-2294](https://github.com/mrrivaldo/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/mrrivaldo/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/mrrivaldo/CVE-2025-2294">
+- [realcodeb0ss/CVE-2025-2294-PoC](https://github.com/realcodeb0ss/CVE-2025-2294-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-2294-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-2294-PoC">
 
 ---
 ## CVE-2025-22828 ()
