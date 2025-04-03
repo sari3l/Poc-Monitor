@@ -305,6 +305,7 @@
 ## CVE-2025-2825 ()
 > 
 - [h0ld1rs/CVE-2025-2825](https://github.com/h0ld1rs/CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/h0ld1rs/CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/h0ld1rs/CVE-2025-2825">
+- [WOOOOONG/CVE-2025-2825](https://github.com/WOOOOONG/CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2025-2825">
 
 ---
 ## CVE-2025-27893 ()
