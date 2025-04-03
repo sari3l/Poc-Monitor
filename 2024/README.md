@@ -6826,6 +6826,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [svchostmm/CVE-2024-25600-mass](https://github.com/svchostmm/CVE-2024-25600-mass)	<img alt="forks" src="https://img.shields.io/github/forks/svchostmm/CVE-2024-25600-mass">	<img alt="stars" src="https://img.shields.io/github/stars/svchostmm/CVE-2024-25600-mass">
 - [Sibul-Dan-Glokta/test-task-CVE-2024-25600](https://github.com/Sibul-Dan-Glokta/test-task-CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/Sibul-Dan-Glokta/test-task-CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/Sibul-Dan-Glokta/test-task-CVE-2024-25600">
 - [so1icitx/CVE-2024-25600](https://github.com/so1icitx/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/so1icitx/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/so1icitx/CVE-2024-25600">
+- [cboss43/CVE-2024-25600](https://github.com/cboss43/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/cboss43/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/cboss43/CVE-2024-25600">
 
 ---
 ## CVE-2024-25503 (2024-04-04T08:15:00)
