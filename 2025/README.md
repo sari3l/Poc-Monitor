@@ -124,6 +124,11 @@
 - [DoTTak/CVE-2025-30921](https://github.com/DoTTak/CVE-2025-30921)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-30921">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-30921">
 
 ---
+## CVE-2025-30911 ()
+> 
+- [Nxploited/CVE-2025-30911](https://github.com/Nxploited/CVE-2025-30911)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-30911">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-30911">
+
+---
 ## CVE-2025-30772 ()
 > 
 - [Nxploited/CVE-2025-30772](https://github.com/Nxploited/CVE-2025-30772)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-30772">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-30772">
