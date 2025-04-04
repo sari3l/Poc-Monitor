@@ -3842,6 +3842,7 @@
 ## CVE-2021-38163 (2021-09-14T12:15:00)
 > SAP NetWeaver (Visual Composer 7.0 RT) versions - 7.30, 7.31, 7.40, 7.50, without restriction, an attacker authenticated as a non-administrative user can upload a malicious file over a network and trigger its processing, which is capable of running operating system commands with the privilege of the Java Server process. These commands can be used to read or modify any information on the server or shut the server down making it unavailable.
 - [core1impact/CVE-2021-38163](https://github.com/core1impact/CVE-2021-38163)	<img alt="forks" src="https://img.shields.io/github/forks/core1impact/CVE-2021-38163">	<img alt="stars" src="https://img.shields.io/github/stars/core1impact/CVE-2021-38163">
+- [purpleteam-ru/CVE-2021-38163](https://github.com/purpleteam-ru/CVE-2021-38163)	<img alt="forks" src="https://img.shields.io/github/forks/purpleteam-ru/CVE-2021-38163">	<img alt="stars" src="https://img.shields.io/github/stars/purpleteam-ru/CVE-2021-38163">
 
 ---
 ## CVE-2021-38162 (2021-09-14T12:15:00)
