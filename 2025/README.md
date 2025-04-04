@@ -194,6 +194,11 @@
 - [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files)	<img alt="forks" src="https://img.shields.io/github/forks/OS-pedrogustavobilro/test-changed-files">	<img alt="stars" src="https://img.shields.io/github/stars/OS-pedrogustavobilro/test-changed-files">
 
 ---
+## CVE-2025-30065 ()
+> 
+- [h3st4k3r/CVE-2025-30065](https://github.com/h3st4k3r/CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/h3st4k3r/CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/h3st4k3r/CVE-2025-30065">
+
+---
 ## CVE-2025-29972 ()
 > 
 - [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-29972">
