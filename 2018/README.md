@@ -944,6 +944,13 @@
 - [Live-Hack-CVE/CVE-2018-19497](https://github.com/Live-Hack-CVE/CVE-2018-19497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19497">
 
 ---
+## CVE-2018-19422 ()
+> 
+- [Drew-Alleman/CVE-2018-19422](https://github.com/Drew-Alleman/CVE-2018-19422)	<img alt="forks" src="https://img.shields.io/github/forks/Drew-Alleman/CVE-2018-19422">	<img alt="stars" src="https://img.shields.io/github/stars/Drew-Alleman/CVE-2018-19422">
+- [Swammers8/SubrionCMS-4.2.1-File-upload-RCE-auth-](https://github.com/Swammers8/SubrionCMS-4.2.1-File-upload-RCE-auth-)	<img alt="forks" src="https://img.shields.io/github/forks/Swammers8/SubrionCMS-4.2.1-File-upload-RCE-auth-">	<img alt="stars" src="https://img.shields.io/github/stars/Swammers8/SubrionCMS-4.2.1-File-upload-RCE-auth-">
+- [hev0x/CVE-2018-19422-SubrionCMS-RCE](https://github.com/hev0x/CVE-2018-19422-SubrionCMS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hev0x/CVE-2018-19422-SubrionCMS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hev0x/CVE-2018-19422-SubrionCMS-RCE">
+
+---
 ## CVE-2018-19410 (2018-11-21T16:29:00)
 > PRTG Network Monitor before 18.2.40.1683 allows remote unauthenticated attackers to create users with read-write privileges (including administrator). A remote unauthenticated user can craft an HTTP request and override attributes of the 'include' directive in /public/login.htm and perform a Local File Inclusion attack, by including /api/addusers and executing it. By providing the 'id' and 'users' parameters, an unauthenticated attacker can create a user with read-write privileges (including administrator).
 - [himash/CVE-2018-19410-POC](https://github.com/himash/CVE-2018-19410-POC)	<img alt="forks" src="https://img.shields.io/github/forks/himash/CVE-2018-19410-POC">	<img alt="stars" src="https://img.shields.io/github/stars/himash/CVE-2018-19410-POC">
