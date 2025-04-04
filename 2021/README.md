@@ -6197,6 +6197,11 @@
 - [Live-Hack-CVE/CVE-2021-30957](https://github.com/Live-Hack-CVE/CVE-2021-30957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30957">
 
 ---
+## CVE-2021-30956 ()
+> 
+- [fordsham/CVE-2021-30956](https://github.com/fordsham/CVE-2021-30956)	<img alt="forks" src="https://img.shields.io/github/forks/fordsham/CVE-2021-30956">	<img alt="stars" src="https://img.shields.io/github/stars/fordsham/CVE-2021-30956">
+
+---
 ## CVE-2021-30935 (2021-08-24T19:15:00)
 > A logic issue was addressed with improved validation. This issue is fixed in Security Update 2021-008 Catalina, macOS Big Sur 11.6.2. An application may be able to execute arbitrary code with kernel privileges.
 - [Live-Hack-CVE/CVE-2021-30935](https://github.com/Live-Hack-CVE/CVE-2021-30935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30935">
