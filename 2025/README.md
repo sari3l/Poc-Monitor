@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-666666 ()
+> 
+- [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
+
+---
 ## CVE-2025-510 ()
 > 
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
