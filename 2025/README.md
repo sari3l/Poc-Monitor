@@ -283,6 +283,7 @@
 - [Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927](https://github.com/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927">
 - [Gokul-Krishnan-V-R/cve-2025-29927](https://github.com/Gokul-Krishnan-V-R/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Gokul-Krishnan-V-R/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Gokul-Krishnan-V-R/cve-2025-29927">
 - [fahimalshihab/NextBypass](https://github.com/fahimalshihab/NextBypass)	<img alt="forks" src="https://img.shields.io/github/forks/fahimalshihab/NextBypass">	<img alt="stars" src="https://img.shields.io/github/stars/fahimalshihab/NextBypass">
+- [sn1p3rt3s7/NextJS_CVE-2025-29927](https://github.com/sn1p3rt3s7/NextJS_CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sn1p3rt3s7/NextJS_CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sn1p3rt3s7/NextJS_CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
