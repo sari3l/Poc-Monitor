@@ -214,6 +214,7 @@
 > 
 - [h3st4k3r/CVE-2025-30065](https://github.com/h3st4k3r/CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/h3st4k3r/CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/h3st4k3r/CVE-2025-30065">
 - [bjornhels/CVE-2025-30065](https://github.com/bjornhels/CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/bjornhels/CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/bjornhels/CVE-2025-30065">
+- [ron-imperva/CVE-2025-30065-PoC](https://github.com/ron-imperva/CVE-2025-30065-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ron-imperva/CVE-2025-30065-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ron-imperva/CVE-2025-30065-PoC">
 
 ---
 ## CVE-2025-29972 ()
