@@ -968,6 +968,7 @@
 ## CVE-2025-12654 ()
 > 
 - [Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
+- [ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 
 ---
 ## CVE-2025-1094 ()
