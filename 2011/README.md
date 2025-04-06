@@ -56,6 +56,8 @@
 - [NullBrunk/CVE-2011-2523](https://github.com/NullBrunk/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/NullBrunk/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/NullBrunk/CVE-2011-2523">
 - [Lychi3/vsftpd-backdoor](https://github.com/Lychi3/vsftpd-backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/Lychi3/vsftpd-backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/Lychi3/vsftpd-backdoor">
 - [sug4r-wr41th/CVE-2011-2523](https://github.com/sug4r-wr41th/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2011-2523">
+- [madanokr001/CVE-2011-2523](https://github.com/madanokr001/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/madanokr001/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/madanokr001/CVE-2011-2523">
+- [vedpakhare/vsftpd-234-vuln-report](https://github.com/vedpakhare/vsftpd-234-vuln-report)	<img alt="forks" src="https://img.shields.io/github/forks/vedpakhare/vsftpd-234-vuln-report">	<img alt="stars" src="https://img.shields.io/github/stars/vedpakhare/vsftpd-234-vuln-report">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
