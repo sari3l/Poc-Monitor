@@ -297,6 +297,7 @@
 - [fahimalshihab/NextBypass](https://github.com/fahimalshihab/NextBypass)	<img alt="forks" src="https://img.shields.io/github/forks/fahimalshihab/NextBypass">	<img alt="stars" src="https://img.shields.io/github/stars/fahimalshihab/NextBypass">
 - [sn1p3rt3s7/NextJS_CVE-2025-29927](https://github.com/sn1p3rt3s7/NextJS_CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sn1p3rt3s7/NextJS_CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sn1p3rt3s7/NextJS_CVE-2025-29927">
 - [Balajih4kr/cve-2025-29927](https://github.com/Balajih4kr/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Balajih4kr/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Balajih4kr/cve-2025-29927">
+- [YEONDG/nextjs-cve-2025-29927](https://github.com/YEONDG/nextjs-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/YEONDG/nextjs-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/YEONDG/nextjs-cve-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
