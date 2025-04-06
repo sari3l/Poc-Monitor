@@ -368,6 +368,7 @@
 > 
 - [raulchung/CVE-2025-2783](https://github.com/raulchung/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/raulchung/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/raulchung/CVE-2025-2783">
 - [bronsoneaver/CVE-2025-2783](https://github.com/bronsoneaver/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-2783">
+- [Alchemist3dot14/CVE-2025-2783](https://github.com/Alchemist3dot14/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2025-2783">
 
 ---
 ## CVE-2025-27636 ()
