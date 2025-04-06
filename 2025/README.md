@@ -897,6 +897,7 @@
 - [Nxploited/CVE-2025-2005](https://github.com/Nxploited/CVE-2025-2005)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2005">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2005">
 - [chetools/CVE2005_Spring2025](https://github.com/chetools/CVE2005_Spring2025)	<img alt="forks" src="https://img.shields.io/github/forks/chetools/CVE2005_Spring2025">	<img alt="stars" src="https://img.shields.io/github/stars/chetools/CVE2005_Spring2025">
 - [h4ckxel/CVE-2025-2005](https://github.com/h4ckxel/CVE-2025-2005)	<img alt="forks" src="https://img.shields.io/github/forks/h4ckxel/CVE-2025-2005">	<img alt="stars" src="https://img.shields.io/github/stars/h4ckxel/CVE-2025-2005">
+- [mrmtwoj/CVE-2025-2005](https://github.com/mrmtwoj/CVE-2025-2005)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/CVE-2025-2005">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/CVE-2025-2005">
 
 ---
 ## CVE-2025-20029 ()
