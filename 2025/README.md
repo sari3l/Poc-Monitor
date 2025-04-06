@@ -153,6 +153,7 @@
 > 
 - [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-30567">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-30567">
 - [realcodeb0ss/CVE-2025-30567-PoC](https://github.com/realcodeb0ss/CVE-2025-30567-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-30567-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-30567-PoC">
+- [KaxuFF/CVE-2025-30567-PoC](https://github.com/KaxuFF/CVE-2025-30567-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/KaxuFF/CVE-2025-30567-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/KaxuFF/CVE-2025-30567-PoC">
 
 ---
 ## CVE-2025-30355 ()
