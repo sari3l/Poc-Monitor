@@ -2339,6 +2339,8 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [MikeyPPPPPPPP/CVE-2023-4220](https://github.com/MikeyPPPPPPPP/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/MikeyPPPPPPPP/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/MikeyPPPPPPPP/CVE-2023-4220">
 - [Pr1or95/CVE-2023-4220-exploit](https://github.com/Pr1or95/CVE-2023-4220-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Pr1or95/CVE-2023-4220-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Pr1or95/CVE-2023-4220-exploit">
 - [zora-beep/CVE-2023-4220](https://github.com/zora-beep/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/zora-beep/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/zora-beep/CVE-2023-4220">
+- [insomnia-jacob/CVE-2023-4220](https://github.com/insomnia-jacob/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/insomnia-jacob/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/insomnia-jacob/CVE-2023-4220">
+- [gmh5225/CVE-2023-4220](https://github.com/gmh5225/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2023-4220">
 
 ---
 ## CVE-2023-422 ()
@@ -2622,6 +2624,8 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [xpltive/CVE-2023-41425](https://github.com/xpltive/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/xpltive/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/xpltive/CVE-2023-41425">
 - [samu21req/CVE-2023-41425](https://github.com/samu21req/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/samu21req/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/samu21req/CVE-2023-41425">
 - [KGorbakon/CVE-2023-41425](https://github.com/KGorbakon/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/KGorbakon/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/KGorbakon/CVE-2023-41425">
+- [insomnia-jacob/CVE-2023-41425](https://github.com/insomnia-jacob/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/insomnia-jacob/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/insomnia-jacob/CVE-2023-41425">
+- [Twappz/CVE-2023-41425](https://github.com/Twappz/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/CVE-2023-41425">
 
 ---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
