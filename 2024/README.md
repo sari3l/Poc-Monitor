@@ -1150,6 +1150,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-56145">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-56145">
 - [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2024-56145-craftcms-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2024-56145-craftcms-rce">
 - [hmhlol/craft-cms-RCE-CVE-2024-56145](https://github.com/hmhlol/craft-cms-RCE-CVE-2024-56145)	<img alt="forks" src="https://img.shields.io/github/forks/hmhlol/craft-cms-RCE-CVE-2024-56145">	<img alt="stars" src="https://img.shields.io/github/stars/hmhlol/craft-cms-RCE-CVE-2024-56145">
+- [rawtips/craft_cve_2024_56145_exploit.py](https://github.com/rawtips/craft_cve_2024_56145_exploit.py)	<img alt="forks" src="https://img.shields.io/github/forks/rawtips/craft_cve_2024_56145_exploit.py">	<img alt="stars" src="https://img.shields.io/github/stars/rawtips/craft_cve_2024_56145_exploit.py">
 
 ---
 ## CVE-2024-56116 ()
