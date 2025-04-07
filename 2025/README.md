@@ -675,7 +675,7 @@
 - [AsaL1n/CVE-2025-24813](https://github.com/AsaL1n/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/AsaL1n/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/AsaL1n/CVE-2025-24813">
 - [MuhammadWaseem29/CVE-2025-24813](https://github.com/MuhammadWaseem29/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24813">
 - [La3B0z/CVE-2025-24813-POC](https://github.com/La3B0z/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/La3B0z/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/La3B0z/CVE-2025-24813-POC">
-- [Heimd411/CVE-2025-24813-fPoC](https://github.com/Heimd411/CVE-2025-24813-fPoC)	<img alt="forks" src="https://img.shields.io/github/forks/Heimd411/CVE-2025-24813-fPoC">	<img alt="stars" src="https://img.shields.io/github/stars/Heimd411/CVE-2025-24813-fPoC">
+- [Heimd411/CVE-2025-24813-noPoC](https://github.com/Heimd411/CVE-2025-24813-noPoC)	<img alt="forks" src="https://img.shields.io/github/forks/Heimd411/CVE-2025-24813-noPoC">	<img alt="stars" src="https://img.shields.io/github/stars/Heimd411/CVE-2025-24813-noPoC">
 
 ---
 ## CVE-2025-24799 ()
