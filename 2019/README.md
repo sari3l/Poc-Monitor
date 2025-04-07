@@ -2596,6 +2596,21 @@ use after free.
 - [Rivaill/CVE_2019_14234](https://github.com/Rivaill/CVE_2019_14234)	<img alt="forks" src="https://img.shields.io/github/forks/Rivaill/CVE_2019_14234">	<img alt="stars" src="https://img.shields.io/github/stars/Rivaill/CVE_2019_14234">
 
 ---
+## CVE-2019-14224 ()
+> 
+- [mbadanoiu/CVE-2019-14224](https://github.com/mbadanoiu/CVE-2019-14224)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-14224">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-14224">
+
+---
+## CVE-2019-14223 ()
+> 
+- [mbadanoiu/CVE-2019-14223](https://github.com/mbadanoiu/CVE-2019-14223)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-14223">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-14223">
+
+---
+## CVE-2019-14222 ()
+> 
+- [mbadanoiu/CVE-2019-14222](https://github.com/mbadanoiu/CVE-2019-14222)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-14222">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-14222">
+
+---
 ## CVE-2019-13990 (2019-07-26T19:15:00)
 > initDocumentParser in xml/XMLSchedulingDataProcessor.java in Terracotta Quartz Scheduler through 2.3.0 allows XXE attacks via a job description.
 - [Live-Hack-CVE/CVE-2019-13990](https://github.com/Live-Hack-CVE/CVE-2019-13990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13990">
