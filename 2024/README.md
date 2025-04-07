@@ -2928,6 +2928,11 @@ Allocated by task 6166:
 - [fru1ts/CVE-2024-44902](https://github.com/fru1ts/CVE-2024-44902)	<img alt="forks" src="https://img.shields.io/github/forks/fru1ts/CVE-2024-44902">	<img alt="stars" src="https://img.shields.io/github/stars/fru1ts/CVE-2024-44902">
 
 ---
+## CVE-2024-44871 ()
+> 
+- [vances25/CVE-2024-44871](https://github.com/vances25/CVE-2024-44871)	<img alt="forks" src="https://img.shields.io/github/forks/vances25/CVE-2024-44871">	<img alt="stars" src="https://img.shields.io/github/stars/vances25/CVE-2024-44871">
+
+---
 ## CVE-2024-44867 (2024-09-10T14:15:00)
 > phpok v3.0 was discovered to contain an arbitrary file read vulnerability via the component /autoload/file.php.
 - [ChengZyin/CVE-2024-44867](https://github.com/ChengZyin/CVE-2024-44867)	<img alt="forks" src="https://img.shields.io/github/forks/ChengZyin/CVE-2024-44867">	<img alt="stars" src="https://img.shields.io/github/stars/ChengZyin/CVE-2024-44867">
