@@ -1534,6 +1534,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk](https://github.com/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk">
 
 ---
+## CVE-2024-53027 ()
+> 
+- [ladyg00se/CVE-2024-53027-WIP](https://github.com/ladyg00se/CVE-2024-53027-WIP)	<img alt="forks" src="https://img.shields.io/github/forks/ladyg00se/CVE-2024-53027-WIP">	<img alt="stars" src="https://img.shields.io/github/stars/ladyg00se/CVE-2024-53027-WIP">
+
+---
 ## CVE-2024-5290 ()
 > 
 - [zrax-x/CVE-2024-5290-exp](https://github.com/zrax-x/CVE-2024-5290-exp)	<img alt="forks" src="https://img.shields.io/github/forks/zrax-x/CVE-2024-5290-exp">	<img alt="stars" src="https://img.shields.io/github/stars/zrax-x/CVE-2024-5290-exp">
