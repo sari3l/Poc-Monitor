@@ -691,6 +691,7 @@
 - [La3B0z/CVE-2025-24813-POC](https://github.com/La3B0z/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/La3B0z/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/La3B0z/CVE-2025-24813-POC">
 - [Heimd411/CVE-2025-24813-noPoC](https://github.com/Heimd411/CVE-2025-24813-noPoC)	<img alt="forks" src="https://img.shields.io/github/forks/Heimd411/CVE-2025-24813-noPoC">	<img alt="stars" src="https://img.shields.io/github/stars/Heimd411/CVE-2025-24813-noPoC">
 - [horsehacks/CVE-2025-24813-checker](https://github.com/horsehacks/CVE-2025-24813-checker)	<img alt="forks" src="https://img.shields.io/github/forks/horsehacks/CVE-2025-24813-checker">	<img alt="stars" src="https://img.shields.io/github/stars/horsehacks/CVE-2025-24813-checker">
+- [GadaLuBau1337/CVE-2025-24813](https://github.com/GadaLuBau1337/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2025-24813">
 
 ---
 ## CVE-2025-24799 ()

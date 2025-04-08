@@ -1761,6 +1761,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [AvishekDhakal/CVE-2023-45866_EXPLOITS](https://github.com/AvishekDhakal/CVE-2023-45866_EXPLOITS)	<img alt="forks" src="https://img.shields.io/github/forks/AvishekDhakal/CVE-2023-45866_EXPLOITS">	<img alt="stars" src="https://img.shields.io/github/stars/AvishekDhakal/CVE-2023-45866_EXPLOITS">
 - [cisnarfu/Bluepop](https://github.com/cisnarfu/Bluepop)	<img alt="forks" src="https://img.shields.io/github/forks/cisnarfu/Bluepop">	<img alt="stars" src="https://img.shields.io/github/stars/cisnarfu/Bluepop">
 - [Chedrian07/CVE-2023-45866-POC](https://github.com/Chedrian07/CVE-2023-45866-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chedrian07/CVE-2023-45866-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chedrian07/CVE-2023-45866-POC">
+- [ladyg00se/CVE-2023-45866_WIP](https://github.com/ladyg00se/CVE-2023-45866_WIP)	<img alt="forks" src="https://img.shields.io/github/forks/ladyg00se/CVE-2023-45866_WIP">	<img alt="stars" src="https://img.shields.io/github/stars/ladyg00se/CVE-2023-45866_WIP">
 
 ---
 ## CVE-2023-45857 (2023-11-08T21:15:00)
