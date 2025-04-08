@@ -324,6 +324,7 @@
 - [pixilated730/NextJS-Exploit-](https://github.com/pixilated730/NextJS-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/pixilated730/NextJS-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/pixilated730/NextJS-Exploit-">
 - [ValGrace/middleware-auth-bypass](https://github.com/ValGrace/middleware-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ValGrace/middleware-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ValGrace/middleware-auth-bypass">
 - [goncalocsousa1/CVE-2025-29927](https://github.com/goncalocsousa1/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/goncalocsousa1/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/goncalocsousa1/CVE-2025-29927">
+- [pickovven/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/pickovven/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/pickovven/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/pickovven/vulnerable-nextjs-14-CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
