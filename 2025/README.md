@@ -313,6 +313,7 @@
 - [gotr00t0day/CVE-2025-29927](https://github.com/gotr00t0day/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2025-29927">
 - [pixilated730/NextJS-Exploit-](https://github.com/pixilated730/NextJS-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/pixilated730/NextJS-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/pixilated730/NextJS-Exploit-">
 - [ValGrace/middleware-auth-bypass](https://github.com/ValGrace/middleware-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ValGrace/middleware-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ValGrace/middleware-auth-bypass">
+- [goncalocsousa1/CVE-2025-29927](https://github.com/goncalocsousa1/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/goncalocsousa1/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/goncalocsousa1/CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
@@ -860,6 +861,12 @@
 ## CVE-2025-22467 ()
 > 
 - [NyxanGoat/CVE-2025-22467-PoC](https://github.com/NyxanGoat/CVE-2025-22467-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NyxanGoat/CVE-2025-22467-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NyxanGoat/CVE-2025-22467-PoC">
+
+---
+## CVE-2025-22457 ()
+> 
+- [N4SL1/CVE-2025-22457-PoC](https://github.com/N4SL1/CVE-2025-22457-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/N4SL1/CVE-2025-22457-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/N4SL1/CVE-2025-22457-PoC">
+- [Vinylrider/ivantiunlocker](https://github.com/Vinylrider/ivantiunlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Vinylrider/ivantiunlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Vinylrider/ivantiunlocker">
 
 ---
 ## CVE-2025-2233 ()
