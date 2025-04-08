@@ -369,6 +369,11 @@
 - [punitdarji/crushftp-CVE-2025-2825](https://github.com/punitdarji/crushftp-CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/crushftp-CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/crushftp-CVE-2025-2825">
 
 ---
+## CVE-2025-2807 ()
+> 
+- [Nxploited/CVE-2025-2807](https://github.com/Nxploited/CVE-2025-2807)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2807">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2807">
+
+---
 ## CVE-2025-27893 ()
 > 
 - [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893)	<img alt="forks" src="https://img.shields.io/github/forks/NastyCrow/CVE-2025-27893">	<img alt="stars" src="https://img.shields.io/github/stars/NastyCrow/CVE-2025-27893">
