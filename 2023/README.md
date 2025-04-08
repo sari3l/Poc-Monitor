@@ -4933,6 +4933,11 @@ Fixed in version 6.4.1.
 - [Avento/CVE-2023-32031](https://github.com/Avento/CVE-2023-32031)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-32031">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-32031">
 
 ---
+## CVE-2023-32007 ()
+> 
+- [Lee0568/CVE-2023-32007](https://github.com/Lee0568/CVE-2023-32007)	<img alt="forks" src="https://img.shields.io/github/forks/Lee0568/CVE-2023-32007">	<img alt="stars" src="https://img.shields.io/github/stars/Lee0568/CVE-2023-32007">
+
+---
 ## CVE-2023-31853 (2023-07-17T15:15:00)
 > Cudy LT400 1.13.4 is vulnerable Cross Site Scripting (XSS) in /cgi-bin/luci/admin/network/bandwidth via the icon parameter.
 - [CalfCrusher/CVE-2023-31853](https://github.com/CalfCrusher/CVE-2023-31853)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31853">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31853">
