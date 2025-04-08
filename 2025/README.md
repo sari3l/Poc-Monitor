@@ -312,6 +312,7 @@
 - [YEONDG/nextjs-cve-2025-29927](https://github.com/YEONDG/nextjs-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/YEONDG/nextjs-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/YEONDG/nextjs-cve-2025-29927">
 - [gotr00t0day/CVE-2025-29927](https://github.com/gotr00t0day/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2025-29927">
 - [pixilated730/NextJS-Exploit-](https://github.com/pixilated730/NextJS-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/pixilated730/NextJS-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/pixilated730/NextJS-Exploit-">
+- [ValGrace/middleware-auth-bypass](https://github.com/ValGrace/middleware-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ValGrace/middleware-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ValGrace/middleware-auth-bypass">
 
 ---
 ## CVE-2025-29814 ()
