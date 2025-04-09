@@ -2235,6 +2235,11 @@ Please note: authentication is not required in order to exploit this vulnerabili
 - [famixcm/CVE-2024-48904](https://github.com/famixcm/CVE-2024-48904)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-48904">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-48904">
 
 ---
+## CVE-2024-48887 ()
+> 
+- [IndominusRexes/CVE-2024-48887-Exploit](https://github.com/IndominusRexes/CVE-2024-48887-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IndominusRexes/CVE-2024-48887-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IndominusRexes/CVE-2024-48887-Exploit">
+
+---
 ## CVE-2024-4885 (2024-06-25T20:15:00)
 > In WhatsUp Gold versions released before 2023.1.3, an unauthenticated Remote Code Execution vulnerability in Progress WhatsUpGold.  The 
 
