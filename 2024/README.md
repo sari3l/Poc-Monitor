@@ -4361,6 +4361,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [RevoltSecurities/CVE-2024-36401](https://github.com/RevoltSecurities/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-36401">
 - [Niuwoo/CVE-2024-36401](https://github.com/Niuwoo/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Niuwoo/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Niuwoo/CVE-2024-36401">
 - [bigb0x/CVE-2024-36401](https://github.com/bigb0x/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36401">
+- [H1ng007/CVE-2024-3640_WafBypass](https://github.com/H1ng007/CVE-2024-3640_WafBypass)	<img alt="forks" src="https://img.shields.io/github/forks/H1ng007/CVE-2024-3640_WafBypass">	<img alt="stars" src="https://img.shields.io/github/stars/H1ng007/CVE-2024-3640_WafBypass">
 
 ---
 ## CVE-2024-36117 ()
