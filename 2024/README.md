@@ -1163,6 +1163,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115)	<img alt="forks" src="https://img.shields.io/github/forks/ComplianceControl/CVE-2024-56115">	<img alt="stars" src="https://img.shields.io/github/stars/ComplianceControl/CVE-2024-56115">
 
 ---
+## CVE-2024-56071 ()
+> 
+- [Nxploited/CVE-2024-56071](https://github.com/Nxploited/CVE-2024-56071)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-56071">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-56071">
+
+---
 ## CVE-2024-56059 ()
 > 
 - [RandomRobbieBF/CVE-2024-56059](https://github.com/RandomRobbieBF/CVE-2024-56059)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56059">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56059">
