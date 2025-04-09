@@ -435,7 +435,7 @@
 ---
 ## CVE-2025-26647 ()
 > 
-- [groshi215/CVE-2025-26647](https://github.com/groshi215/CVE-2025-26647)	<img alt="forks" src="https://img.shields.io/github/forks/groshi215/CVE-2025-26647">	<img alt="stars" src="https://img.shields.io/github/stars/groshi215/CVE-2025-26647">
+- [groshi215/CVE-2025-26647-Exploit](https://github.com/groshi215/CVE-2025-26647-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/groshi215/CVE-2025-26647-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/groshi215/CVE-2025-26647-Exploit">
 
 ---
 ## CVE-2025-26633 ()
