@@ -6883,6 +6883,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [so1icitx/CVE-2024-25600](https://github.com/so1icitx/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/so1icitx/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/so1icitx/CVE-2024-25600">
 - [cboss43/CVE-2024-25600](https://github.com/cboss43/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/cboss43/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/cboss43/CVE-2024-25600">
 - [meli0dasH4ck3r/cve-2024-25600](https://github.com/meli0dasH4ck3r/cve-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/meli0dasH4ck3r/cve-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/meli0dasH4ck3r/cve-2024-25600">
+- [ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM](https://github.com/ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM)	<img alt="forks" src="https://img.shields.io/github/forks/ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM">	<img alt="stars" src="https://img.shields.io/github/stars/ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM">
 
 ---
 ## CVE-2024-25503 (2024-04-04T08:15:00)
