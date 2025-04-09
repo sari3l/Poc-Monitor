@@ -8280,6 +8280,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21513 ()
 > 
 - [SavageSanta11/Reproduce-CVE-2024-21513](https://github.com/SavageSanta11/Reproduce-CVE-2024-21513)	<img alt="forks" src="https://img.shields.io/github/forks/SavageSanta11/Reproduce-CVE-2024-21513">	<img alt="stars" src="https://img.shields.io/github/stars/SavageSanta11/Reproduce-CVE-2024-21513">
+- [nskath/CVE-2024-21513](https://github.com/nskath/CVE-2024-21513)	<img alt="forks" src="https://img.shields.io/github/forks/nskath/CVE-2024-21513">	<img alt="stars" src="https://img.shields.io/github/stars/nskath/CVE-2024-21513">
 
 ---
 ## CVE-2024-21508 (2024-04-11T05:15:00)
