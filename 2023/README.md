@@ -3005,6 +3005,7 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 ## CVE-2023-39141 (2023-08-22T19:16:00)
 > webui-aria2 commit 4fe2e was discovered to contain a path traversal vulnerability.
 - [codeb0ss/CVE-2023-39141-PoC](https://github.com/codeb0ss/CVE-2023-39141-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-39141-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-39141-PoC">
+- [MartiSabate/CVE-2023-39141-LFI-enumerator](https://github.com/MartiSabate/CVE-2023-39141-LFI-enumerator)	<img alt="forks" src="https://img.shields.io/github/forks/MartiSabate/CVE-2023-39141-LFI-enumerator">	<img alt="stars" src="https://img.shields.io/github/stars/MartiSabate/CVE-2023-39141-LFI-enumerator">
 
 ---
 ## CVE-2023-39115 (2023-08-16T15:15:00)
