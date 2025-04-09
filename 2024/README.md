@@ -4344,6 +4344,25 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [Freitael/-CVE-2024-36401](https://github.com/Freitael/-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Freitael/-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Freitael/-CVE-2024-36401">
 
 ---
+## CVE-2024-3640 ()
+> 
+- [liuliujiu/CVE-2024-3640-WafBypass](https://github.com/liuliujiu/CVE-2024-3640-WafBypass)	<img alt="forks" src="https://img.shields.io/github/forks/liuliujiu/CVE-2024-3640-WafBypass">	<img alt="stars" src="https://img.shields.io/github/stars/liuliujiu/CVE-2024-3640-WafBypass">
+- [Chocapikk/CVE-2024-36401](https://github.com/Chocapikk/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-36401">
+- [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/netuseradministrator/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/netuseradministrator/CVE-2024-36401">
+- [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2024-36401">
+- [thestar0/CVE-2024-36401-WoodpeckerPlugin](https://github.com/thestar0/CVE-2024-36401-WoodpeckerPlugin)	<img alt="forks" src="https://img.shields.io/github/forks/thestar0/CVE-2024-36401-WoodpeckerPlugin">	<img alt="stars" src="https://img.shields.io/github/stars/thestar0/CVE-2024-36401-WoodpeckerPlugin">
+- [XiaomingX/cve-2024-36401-poc](https://github.com/XiaomingX/cve-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-36401-poc">
+- [kkhackz0013/CVE-2024-36401](https://github.com/kkhackz0013/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/kkhackz0013/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/kkhackz0013/CVE-2024-36401">
+- [punitdarji/GeoServer-CVE-2024-36401](https://github.com/punitdarji/GeoServer-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/GeoServer-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/GeoServer-CVE-2024-36401">
+- [daniellowrie/CVE-2024-36401-PoC](https://github.com/daniellowrie/CVE-2024-36401-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/daniellowrie/CVE-2024-36401-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/daniellowrie/CVE-2024-36401-PoC">
+- [yisas93/CVE-2024-36401-PoC](https://github.com/yisas93/CVE-2024-36401-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yisas93/CVE-2024-36401-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yisas93/CVE-2024-36401-PoC">
+- [jakabakos/CVE-2024-36401-GeoServer-RCE](https://github.com/jakabakos/CVE-2024-36401-GeoServer-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-36401-GeoServer-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-36401-GeoServer-RCE">
+- [Mr-xn/CVE-2024-36401](https://github.com/Mr-xn/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-36401">
+- [RevoltSecurities/CVE-2024-36401](https://github.com/RevoltSecurities/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-36401">
+- [Niuwoo/CVE-2024-36401](https://github.com/Niuwoo/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Niuwoo/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Niuwoo/CVE-2024-36401">
+- [bigb0x/CVE-2024-36401](https://github.com/bigb0x/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36401">
+
+---
 ## CVE-2024-36117 ()
 > 
 - [saketh-osmsec/CVE-2024-36117](https://github.com/saketh-osmsec/CVE-2024-36117)	<img alt="forks" src="https://img.shields.io/github/forks/saketh-osmsec/CVE-2024-36117">	<img alt="stars" src="https://img.shields.io/github/stars/saketh-osmsec/CVE-2024-36117">
