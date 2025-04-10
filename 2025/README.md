@@ -365,6 +365,11 @@
 - [aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/CVE-2025-29810-check">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/CVE-2025-29810-check">
 
 ---
+## CVE-2025-29705 ()
+> 
+- [yxzrw/CVE-2025-29705](https://github.com/yxzrw/CVE-2025-29705)	<img alt="forks" src="https://img.shields.io/github/forks/yxzrw/CVE-2025-29705">	<img alt="stars" src="https://img.shields.io/github/stars/yxzrw/CVE-2025-29705">
+
+---
 ## CVE-2025-29602 ()
 > 
 - [harish0x/CVE-2025-29602](https://github.com/harish0x/CVE-2025-29602)	<img alt="forks" src="https://img.shields.io/github/forks/harish0x/CVE-2025-29602">	<img alt="stars" src="https://img.shields.io/github/stars/harish0x/CVE-2025-29602">
