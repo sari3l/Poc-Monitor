@@ -88,6 +88,11 @@
 - [itssixtyn3in/CVE-2025-412025](https://github.com/itssixtyn3in/CVE-2025-412025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-412025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-412025">
 
 ---
+## CVE-2025-4102025 ()
+> 
+- [ImTheCopilotNow/CVE-2025-4102025](https://github.com/ImTheCopilotNow/CVE-2025-4102025)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-4102025">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-4102025">
+
+---
 ## CVE-2025-3292029 ()
 > 
 - [itssixtyn3in/CVE-2025-3292029](https://github.com/itssixtyn3in/CVE-2025-3292029)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3292029">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3292029">
