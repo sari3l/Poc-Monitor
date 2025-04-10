@@ -1005,6 +1005,7 @@
 - [Ar05un05kau05ndal/2025-1](https://github.com/Ar05un05kau05ndal/2025-1)	<img alt="forks" src="https://img.shields.io/github/forks/Ar05un05kau05ndal/2025-1">	<img alt="stars" src="https://img.shields.io/github/stars/Ar05un05kau05ndal/2025-1">
 - [zulloper/CVE-2025-1974](https://github.com/zulloper/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/zulloper/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/zulloper/CVE-2025-1974">
 - [gian2dchris/ingress-nightmare-poc](https://github.com/gian2dchris/ingress-nightmare-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gian2dchris/ingress-nightmare-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gian2dchris/ingress-nightmare-poc">
+- [Rubby2001/CVE-2025-1974-go](https://github.com/Rubby2001/CVE-2025-1974-go)	<img alt="forks" src="https://img.shields.io/github/forks/Rubby2001/CVE-2025-1974-go">	<img alt="stars" src="https://img.shields.io/github/stars/Rubby2001/CVE-2025-1974-go">
 
 ---
 ## CVE-2025-1716 ()
