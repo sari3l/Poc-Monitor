@@ -2239,6 +2239,7 @@ Please note: authentication is not required in order to exploit this vulnerabili
 > 
 - [IndominusRexes/CVE-2024-48887-Exploit](https://github.com/IndominusRexes/CVE-2024-48887-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IndominusRexes/CVE-2024-48887-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IndominusRexes/CVE-2024-48887-Exploit">
 - [cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit](https://github.com/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit">
+- [groshi215/CVE-2024-48887-Exploit](https://github.com/groshi215/CVE-2024-48887-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/groshi215/CVE-2024-48887-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/groshi215/CVE-2024-48887-Exploit">
 
 ---
 ## CVE-2024-4885 (2024-06-25T20:15:00)
@@ -2693,6 +2694,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [Night-have-dreams/php-cgi-Injector](https://github.com/Night-have-dreams/php-cgi-Injector)	<img alt="forks" src="https://img.shields.io/github/forks/Night-have-dreams/php-cgi-Injector">	<img alt="stars" src="https://img.shields.io/github/stars/Night-have-dreams/php-cgi-Injector">
 - [creamylegum/CVE-2024-4577-PHP-RCE](https://github.com/creamylegum/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/creamylegum/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/creamylegum/CVE-2024-4577-PHP-RCE">
 - [fabulouscounc/CVE-2024-4577-PHP-RCE](https://github.com/fabulouscounc/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fabulouscounc/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fabulouscounc/CVE-2024-4577-PHP-RCE">
+- [deadlybangle/CVE-2024-4577-PHP-RCE](https://github.com/deadlybangle/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/deadlybangle/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/deadlybangle/CVE-2024-4577-PHP-RCE">
 
 ---
 ## CVE-2024-4573 ()
