@@ -918,6 +918,7 @@
 > 
 - [N4SL1/CVE-2025-22457-PoC](https://github.com/N4SL1/CVE-2025-22457-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/N4SL1/CVE-2025-22457-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/N4SL1/CVE-2025-22457-PoC">
 - [Vinylrider/ivantiunlocker](https://github.com/Vinylrider/ivantiunlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Vinylrider/ivantiunlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Vinylrider/ivantiunlocker">
+- [securekomodo/CVE-2025-22457](https://github.com/securekomodo/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/CVE-2025-22457">
 
 ---
 ## CVE-2025-2233 ()
