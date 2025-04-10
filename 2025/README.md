@@ -126,6 +126,7 @@
 ## CVE-2025-3248 ()
 > 
 - [xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/xuemian168/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/xuemian168/CVE-2025-3248">
+- [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PuddinCat/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PuddinCat/CVE-2025-3248-POC">
 
 ---
 ## CVE-2025-32118 ()
