@@ -123,6 +123,11 @@
 - [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3272025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3272025">
 
 ---
+## CVE-2025-3248 ()
+> 
+- [xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/xuemian168/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/xuemian168/CVE-2025-3248">
+
+---
 ## CVE-2025-32118 ()
 > 
 - [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32118">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32118">
