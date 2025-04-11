@@ -3150,6 +3150,7 @@ use after free.
 - [qlusec/CVE-2019-10149](https://github.com/qlusec/CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/qlusec/CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/qlusec/CVE-2019-10149">
 - [uyerr/PoC_CVE-2019-10149--rce](https://github.com/uyerr/PoC_CVE-2019-10149--rce)	<img alt="forks" src="https://img.shields.io/github/forks/uyerr/PoC_CVE-2019-10149--rce">	<img alt="stars" src="https://img.shields.io/github/stars/uyerr/PoC_CVE-2019-10149--rce">
 - [uyerr/PoC_CVE-2019-10149--rce](https://github.com/uyerr/PoC_CVE-2019-10149--rce)	<img alt="forks" src="https://img.shields.io/github/forks/uyerr/PoC_CVE-2019-10149--rce">	<img alt="stars" src="https://img.shields.io/github/stars/uyerr/PoC_CVE-2019-10149--rce">
+- [VoyagerOnne/Exim-CVE-2019-10149](https://github.com/VoyagerOnne/Exim-CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/VoyagerOnne/Exim-CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/VoyagerOnne/Exim-CVE-2019-10149">
 
 ---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
