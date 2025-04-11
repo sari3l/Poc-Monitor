@@ -157,6 +157,7 @@
 ## CVE-2025-31486 ()
 > 
 - [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-31486-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-31486-PoC">
+- [Ly4j/CVE-2025-31486](https://github.com/Ly4j/CVE-2025-31486)	<img alt="forks" src="https://img.shields.io/github/forks/Ly4j/CVE-2025-31486">	<img alt="stars" src="https://img.shields.io/github/stars/Ly4j/CVE-2025-31486">
 
 ---
 ## CVE-2025-31161 ()
