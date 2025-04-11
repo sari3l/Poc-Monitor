@@ -7579,6 +7579,11 @@ kernel memory, lateral privilege escalation, and container escape.
 - [Trinadh465/platform_frameworks_base_AOSP10_r33_CVE-2023-20909](https://github.com/Trinadh465/platform_frameworks_base_AOSP10_r33_CVE-2023-20909)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_frameworks_base_AOSP10_r33_CVE-2023-20909">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_frameworks_base_AOSP10_r33_CVE-2023-20909">
 
 ---
+## CVE-2023-20904 ()
+> 
+- [FishMan132/CVE-2023-20904](https://github.com/FishMan132/CVE-2023-20904)	<img alt="forks" src="https://img.shields.io/github/forks/FishMan132/CVE-2023-20904">	<img alt="stars" src="https://img.shields.io/github/stars/FishMan132/CVE-2023-20904">
+
+---
 ## CVE-2023-20887 (2023-06-07T15:15:00)
 > Aria Operations for Networks contains a command injection vulnerability. A malicious actor with network access to VMware Aria Operations for Networks may be able to perform a command injection attack resulting in remote code execution.
 - [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2023-20887">
