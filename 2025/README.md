@@ -140,6 +140,11 @@
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 
 ---
+## CVE-2025-32206 ()
+> 
+- [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32206">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32206">
+
+---
 ## CVE-2025-32118 ()
 > 
 - [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32118">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32118">
