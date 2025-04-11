@@ -7785,6 +7785,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [sanan2004/CVE-2023-20198](https://github.com/sanan2004/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2023-20198">
 - [AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-](https://github.com/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-">
 - [XiaomingX/cve-2023-20198-poc](https://github.com/XiaomingX/cve-2023-20198-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2023-20198-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2023-20198-poc">
+- [G4sul1n/Cisco-IOS-XE-CVE-2023-20198](https://github.com/G4sul1n/Cisco-IOS-XE-CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/G4sul1n/Cisco-IOS-XE-CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/G4sul1n/Cisco-IOS-XE-CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
