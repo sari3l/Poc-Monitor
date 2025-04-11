@@ -1988,6 +1988,7 @@ use after free.
 - [chanbakjsd/CVE-2019-18634](https://github.com/chanbakjsd/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/chanbakjsd/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/chanbakjsd/CVE-2019-18634">
 - [l0w3/CVE-2019-18634](https://github.com/l0w3/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/l0w3/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/l0w3/CVE-2019-18634">
 - [paras1te-x/CVE-2019-18634](https://github.com/paras1te-x/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/paras1te-x/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/paras1te-x/CVE-2019-18634">
+- [ngyinkit/cve-2019-18634](https://github.com/ngyinkit/cve-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/ngyinkit/cve-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/ngyinkit/cve-2019-18634">
 
 ---
 ## CVE-2019-18413 (2019-10-24T18:15:00)
