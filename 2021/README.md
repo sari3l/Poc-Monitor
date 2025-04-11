@@ -7704,6 +7704,7 @@
 ## CVE-2021-24006 ()
 > 
 - [cnetsec/CVE-2021-24006](https://github.com/cnetsec/CVE-2021-24006)	<img alt="forks" src="https://img.shields.io/github/forks/cnetsec/CVE-2021-24006">	<img alt="stars" src="https://img.shields.io/github/stars/cnetsec/CVE-2021-24006">
+- [cnetsec/CVE-2021-24006-Fortimanager-Exploit](https://github.com/cnetsec/CVE-2021-24006-Fortimanager-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cnetsec/CVE-2021-24006-Fortimanager-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cnetsec/CVE-2021-24006-Fortimanager-Exploit">
 
 ---
 ## CVE-2021-2394 (2021-07-21T15:15:00)
