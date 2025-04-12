@@ -787,6 +787,7 @@
 - [GadaLuBau1337/CVE-2025-24813](https://github.com/GadaLuBau1337/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2025-24813">
 - [f8l124/CVE-2025-24813-POC](https://github.com/f8l124/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/f8l124/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/f8l124/CVE-2025-24813-POC">
 - [Franconyu/Poc_for_CVE-2025-24813](https://github.com/Franconyu/Poc_for_CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Franconyu/Poc_for_CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Franconyu/Poc_for_CVE-2025-24813">
+- [Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE](https://github.com/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">
 
 ---
 ## CVE-2025-24799 ()
