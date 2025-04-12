@@ -513,6 +513,12 @@
 - [sandsoncosta/CVE-2025-26633](https://github.com/sandsoncosta/CVE-2025-26633)	<img alt="forks" src="https://img.shields.io/github/forks/sandsoncosta/CVE-2025-26633">	<img alt="stars" src="https://img.shields.io/github/stars/sandsoncosta/CVE-2025-26633">
 
 ---
+## CVE-2025-26529 ()
+> 
+- [Astroo18/PoC-CVE-2025-26529](https://github.com/Astroo18/PoC-CVE-2025-26529)	<img alt="forks" src="https://img.shields.io/github/forks/Astroo18/PoC-CVE-2025-26529">	<img alt="stars" src="https://img.shields.io/github/stars/Astroo18/PoC-CVE-2025-26529">
+- [NightBloodz/moodleTestingEnv](https://github.com/NightBloodz/moodleTestingEnv)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/moodleTestingEnv">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/moodleTestingEnv">
+
+---
 ## CVE-2025-26466 ()
 > 
 - [rxerium/CVE-2025-26466](https://github.com/rxerium/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26466">
