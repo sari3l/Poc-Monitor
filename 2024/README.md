@@ -2696,6 +2696,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [creamylegum/CVE-2024-4577-PHP-RCE](https://github.com/creamylegum/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/creamylegum/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/creamylegum/CVE-2024-4577-PHP-RCE">
 - [fabulouscounc/CVE-2024-4577-PHP-RCE](https://github.com/fabulouscounc/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fabulouscounc/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fabulouscounc/CVE-2024-4577-PHP-RCE">
 - [deadlybangle/CVE-2024-4577-PHP-RCE](https://github.com/deadlybangle/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/deadlybangle/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/deadlybangle/CVE-2024-4577-PHP-RCE">
+- [sug4r-wr41th/CVE-2024-4577](https://github.com/sug4r-wr41th/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2024-4577">
 
 ---
 ## CVE-2024-4573 ()

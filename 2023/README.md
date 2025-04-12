@@ -5789,6 +5789,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [1337nemojj/CVE-2023-28121](https://github.com/1337nemojj/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/1337nemojj/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/1337nemojj/CVE-2023-28121">
 - [sug4r-wr41th/CVE-2023-28121](https://github.com/sug4r-wr41th/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2023-28121">
 - [sug4r-wr41th/CVE-2023-28121](https://github.com/sug4r-wr41th/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2023-28121">
+- [sug4r-wr41th/CVE-2023-28121](https://github.com/sug4r-wr41th/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2023-28121">
 
 ---
 ## CVE-2023-27997 (2023-06-13T09:15:00)
