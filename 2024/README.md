@@ -4262,6 +4262,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [jaytiwari05/CVE-2024-36991](https://github.com/jaytiwari05/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/jaytiwari05/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/jaytiwari05/CVE-2024-36991">
 - [TcchSquad/CVE-2024-36991-Tool](https://github.com/TcchSquad/CVE-2024-36991-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/TcchSquad/CVE-2024-36991-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/TcchSquad/CVE-2024-36991-Tool">
 - [gunzf0x/CVE-2024-36991](https://github.com/gunzf0x/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2024-36991">
+- [xploitnik/CVE-2024-36991-modified](https://github.com/xploitnik/CVE-2024-36991-modified)	<img alt="forks" src="https://img.shields.io/github/forks/xploitnik/CVE-2024-36991-modified">	<img alt="stars" src="https://img.shields.io/github/stars/xploitnik/CVE-2024-36991-modified">
 
 ---
 ## CVE-2024-3690 ()
