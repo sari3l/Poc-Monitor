@@ -1156,6 +1156,7 @@
 - [saccles/CVE-2018-16763-Proof-of-Concept](https://github.com/saccles/CVE-2018-16763-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/saccles/CVE-2018-16763-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/saccles/CVE-2018-16763-Proof-of-Concept">
 - [altsun/CVE-2018-16763-FuelCMS-1.4.1-RCE](https://github.com/altsun/CVE-2018-16763-FuelCMS-1.4.1-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/altsun/CVE-2018-16763-FuelCMS-1.4.1-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/altsun/CVE-2018-16763-FuelCMS-1.4.1-RCE">
 - [Kz0x-337/CVE-2018-16763](https://github.com/Kz0x-337/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/Kz0x-337/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/Kz0x-337/CVE-2018-16763">
+- [ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-](https://github.com/ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-">
 
 ---
 ## CVE-2018-16530 (2019-04-09T19:29:00)

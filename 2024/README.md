@@ -418,6 +418,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [Nxploited/CVE-2024-7985-PoC](https://github.com/Nxploited/CVE-2024-7985-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-7985-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-7985-PoC">
 
 ---
+## CVE-2024-7971 ()
+> 
+- [mistymntncop/CVE-2024-7971](https://github.com/mistymntncop/CVE-2024-7971)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2024-7971">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2024-7971">
+
+---
 ## CVE-2024-7965 (2024-08-21T21:15:00)
 > Inappropriate implementation in V8 in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [bi-zone/CVE-2024-7965](https://github.com/bi-zone/CVE-2024-7965)	<img alt="forks" src="https://img.shields.io/github/forks/bi-zone/CVE-2024-7965">	<img alt="stars" src="https://img.shields.io/github/stars/bi-zone/CVE-2024-7965">
