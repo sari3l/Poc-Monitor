@@ -3049,6 +3049,7 @@
 - [igonzalez357/CVE-2021-4034-PwnKit-](https://github.com/igonzalez357/CVE-2021-4034-PwnKit-)	<img alt="forks" src="https://img.shields.io/github/forks/igonzalez357/CVE-2021-4034-PwnKit-">	<img alt="stars" src="https://img.shields.io/github/stars/igonzalez357/CVE-2021-4034-PwnKit-">
 - [marcosChoucino/CVE-2021-4034](https://github.com/marcosChoucino/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/marcosChoucino/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/marcosChoucino/CVE-2021-4034">
 - [ikerSandoval003/CVE-2021-4034](https://github.com/ikerSandoval003/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/ikerSandoval003/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/ikerSandoval003/CVE-2021-4034">
+- [oieramelibia/DEV_Practica_CVE_2021_4034](https://github.com/oieramelibia/DEV_Practica_CVE_2021_4034)	<img alt="forks" src="https://img.shields.io/github/forks/oieramelibia/DEV_Practica_CVE_2021_4034">	<img alt="stars" src="https://img.shields.io/github/stars/oieramelibia/DEV_Practica_CVE_2021_4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
