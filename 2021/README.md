@@ -3045,6 +3045,7 @@
 - [EuJin03/CVE-2021-4034-PoC](https://github.com/EuJin03/CVE-2021-4034-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/EuJin03/CVE-2021-4034-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/EuJin03/CVE-2021-4034-PoC">
 - [dh4r4/PwnKit-CVE-2021-4034-](https://github.com/dh4r4/PwnKit-CVE-2021-4034-)	<img alt="forks" src="https://img.shields.io/github/forks/dh4r4/PwnKit-CVE-2021-4034-">	<img alt="stars" src="https://img.shields.io/github/stars/dh4r4/PwnKit-CVE-2021-4034-">
 - [12bijaya/CVE-2021-4034-PwnKit-](https://github.com/12bijaya/CVE-2021-4034-PwnKit-)	<img alt="forks" src="https://img.shields.io/github/forks/12bijaya/CVE-2021-4034-PwnKit-">	<img alt="stars" src="https://img.shields.io/github/stars/12bijaya/CVE-2021-4034-PwnKit-">
+- [nagorealbisu/CVE-2021-4034](https://github.com/nagorealbisu/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/nagorealbisu/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/nagorealbisu/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
