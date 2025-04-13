@@ -4152,6 +4152,11 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 - [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2023-35086-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2023-35086-POC">
 
 ---
+## CVE-2023-35085 ()
+> 
+- [maoruiQa/CVE-2023-35085-POC-EXP](https://github.com/maoruiQa/CVE-2023-35085-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/maoruiQa/CVE-2023-35085-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/maoruiQa/CVE-2023-35085-POC-EXP">
+
+---
 ## CVE-2023-35080 (2023-11-15T00:15:00)
 > A vulnerability has been identified in the Ivanti Secure Access Windows client, which could allow a locally authenticated attacker to exploit a vulnerable configuration, potentially leading to various security risks, including the escalation of privileges, denial of service, or information disclosure.
 - [HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation](https://github.com/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation">
