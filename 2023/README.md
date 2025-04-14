@@ -4901,6 +4901,7 @@ Fixed in version 6.4.1.
 - [K3ysTr0K3R/CVE-2023-32315-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2023-32315-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2023-32315-EXPLOIT">
 - [bryanqb07/CVE-2023-32315](https://github.com/bryanqb07/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/bryanqb07/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/bryanqb07/CVE-2023-32315">
 - [asepsaepdin/CVE-2023-32315](https://github.com/asepsaepdin/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-32315">
+- [pulentoski/Explotaci-n-de-CVE-2023-32315-en-Openfire](https://github.com/pulentoski/Explotaci-n-de-CVE-2023-32315-en-Openfire)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/Explotaci-n-de-CVE-2023-32315-en-Openfire">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/Explotaci-n-de-CVE-2023-32315-en-Openfire">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
