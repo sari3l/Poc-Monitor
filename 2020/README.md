@@ -4236,6 +4236,11 @@
 - [lp008/CVE-2020-13942](https://github.com/lp008/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE-2020-13942">
 
 ---
+## CVE-2020-13941 ()
+> 
+- [mbadanoiu/CVE-2020-13941](https://github.com/mbadanoiu/CVE-2020-13941)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-13941">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-13941">
+
+---
 ## CVE-2020-13937 (2020-10-19T21:15:00)
 > Apache Kylin 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.3.2, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.5.2, 2.6.0, 2.6.1, 2.6.2, 2.6.3, 2.6.4, 2.6.5, 2.6.6, 3.0.0-alpha, 3.0.0-alpha2, 3.0.0-beta, 3.0.0, 3.0.1, 3.0.2, 3.1.0, 4.0.0-alpha has one restful api which exposed Kylin's configuration information without any authentication, so it is dangerous because some confidential information entries will be disclosed to everyone.
 - [kailing0220/CVE-2020-13937](https://github.com/kailing0220/CVE-2020-13937)	<img alt="forks" src="https://img.shields.io/github/forks/kailing0220/CVE-2020-13937">	<img alt="stars" src="https://img.shields.io/github/stars/kailing0220/CVE-2020-13937">

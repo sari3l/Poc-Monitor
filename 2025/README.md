@@ -208,6 +208,7 @@
 > 
 - [xxmarcosrobertoxx/vanda-CVE-2025-3102](https://github.com/xxmarcosrobertoxx/vanda-CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/xxmarcosrobertoxx/vanda-CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/xxmarcosrobertoxx/vanda-CVE-2025-3102">
 - [Nxploited/CVE-2025-3102](https://github.com/Nxploited/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-3102">
+- [rhz0d/CVE-2025-3102](https://github.com/rhz0d/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/rhz0d/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/rhz0d/CVE-2025-3102">
 
 ---
 ## CVE-2025-30921 ()
