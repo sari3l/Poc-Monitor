@@ -385,6 +385,7 @@
 - [l1uk/nextjs-middleware-exploit](https://github.com/l1uk/nextjs-middleware-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/l1uk/nextjs-middleware-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/l1uk/nextjs-middleware-exploit">
 - [darklotuskdb/nextjs-CVE-2025-29927-hunter](https://github.com/darklotuskdb/nextjs-CVE-2025-29927-hunter)	<img alt="forks" src="https://img.shields.io/github/forks/darklotuskdb/nextjs-CVE-2025-29927-hunter">	<img alt="stars" src="https://img.shields.io/github/stars/darklotuskdb/nextjs-CVE-2025-29927-hunter">
 - [ethanol1310/POC-CVE-2025-29927-](https://github.com/ethanol1310/POC-CVE-2025-29927-)	<img alt="forks" src="https://img.shields.io/github/forks/ethanol1310/POC-CVE-2025-29927-">	<img alt="stars" src="https://img.shields.io/github/stars/ethanol1310/POC-CVE-2025-29927-">
+- [UNICORDev/exploit-CVE-2025-29927](https://github.com/UNICORDev/exploit-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
