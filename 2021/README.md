@@ -1794,6 +1794,11 @@
 - [Live-Hack-CVE/CVE-2021-42371](https://github.com/Live-Hack-CVE/CVE-2021-42371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42371">
 
 ---
+## CVE-2021-42362 ()
+> 
+- [samiba6/CVE-2021-42362](https://github.com/samiba6/CVE-2021-42362)	<img alt="forks" src="https://img.shields.io/github/forks/samiba6/CVE-2021-42362">	<img alt="stars" src="https://img.shields.io/github/stars/samiba6/CVE-2021-42362">
+
+---
 ## CVE-2021-4236 (2022-12-27T22:15:00)
 > Web Sockets do not execute any AuthenticateMethod methods which may be set, leading to a nil pointer dereference if the returned UserData pointer is assumed to be non-nil, or authentication bypass. This issue only affects WebSockets with an AuthenticateMethod hook. Request handlers that do not explicitly use WebSockets are not vulnerable.
 - [Live-Hack-CVE/CVE-2021-4236](https://github.com/Live-Hack-CVE/CVE-2021-4236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4236">
@@ -8665,6 +8670,11 @@
 - [bluetoothStrawberry/cve-2021-21425](https://github.com/bluetoothStrawberry/cve-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/bluetoothStrawberry/cve-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/bluetoothStrawberry/cve-2021-21425">
 - [CsEnox/CVE-2021-21425](https://github.com/CsEnox/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/CsEnox/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/CsEnox/CVE-2021-21425">
 - [frknktlca/GravCMS_Nmap_Script](https://github.com/frknktlca/GravCMS_Nmap_Script)	<img alt="forks" src="https://img.shields.io/github/forks/frknktlca/GravCMS_Nmap_Script">	<img alt="stars" src="https://img.shields.io/github/stars/frknktlca/GravCMS_Nmap_Script">
+
+---
+## CVE-2021-21424 ()
+> 
+- [moften/CVE-2021-21424](https://github.com/moften/CVE-2021-21424)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2021-21424">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2021-21424">
 
 ---
 ## CVE-2021-21408 (2022-01-10T20:15:00)
