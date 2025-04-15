@@ -233,6 +233,11 @@
 - [KaxuFF/CVE-2025-30567-PoC](https://github.com/KaxuFF/CVE-2025-30567-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/KaxuFF/CVE-2025-30567-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/KaxuFF/CVE-2025-30567-PoC">
 
 ---
+## CVE-2025-30406 ()
+> 
+- [bronsoneaver/CVE-2025-30406](https://github.com/bronsoneaver/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-30406">
+
+---
 ## CVE-2025-30355 ()
 > 
 - [ui-bootstrap/CVE-2025-30355](https://github.com/ui-bootstrap/CVE-2025-30355)	<img alt="forks" src="https://img.shields.io/github/forks/ui-bootstrap/CVE-2025-30355">	<img alt="stars" src="https://img.shields.io/github/stars/ui-bootstrap/CVE-2025-30355">
