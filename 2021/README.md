@@ -973,7 +973,7 @@
 - [USDTC/HTA-Exploit](https://github.com/USDTC/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/USDTC/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/USDTC/HTA-Exploit">
 - [USDTC/Slient-URL-Exploit](https://github.com/USDTC/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/USDTC/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/USDTC/Slient-URL-Exploit">
 - [USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
-- [mr-won/Log4shell](https://github.com/mr-won/Log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/Log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/Log4shell">
+- [user20252228/Log4shell](https://github.com/user20252228/Log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/user20252228/Log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/user20252228/Log4shell">
 - [khaidtraivch/CVE-2021-44228-Log4Shell-](https://github.com/khaidtraivch/CVE-2021-44228-Log4Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/khaidtraivch/CVE-2021-44228-Log4Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/khaidtraivch/CVE-2021-44228-Log4Shell-">
 
 ---
