@@ -4902,7 +4902,7 @@ Fixed in version 6.4.1.
 - [K3ysTr0K3R/CVE-2023-32315-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2023-32315-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2023-32315-EXPLOIT">
 - [bryanqb07/CVE-2023-32315](https://github.com/bryanqb07/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/bryanqb07/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/bryanqb07/CVE-2023-32315">
 - [asepsaepdin/CVE-2023-32315](https://github.com/asepsaepdin/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-32315">
-- [pulentoski/Explotaci-n-de-CVE-2023-32315-en-Openfire](https://github.com/pulentoski/Explotaci-n-de-CVE-2023-32315-en-Openfire)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/Explotaci-n-de-CVE-2023-32315-en-Openfire">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/Explotaci-n-de-CVE-2023-32315-en-Openfire">
+- [pulentoski/Explotacion-CVE-2023-32315-Openfire](https://github.com/pulentoski/Explotacion-CVE-2023-32315-Openfire)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/Explotacion-CVE-2023-32315-Openfire">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/Explotacion-CVE-2023-32315-Openfire">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
@@ -7905,6 +7905,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 
 If the server is run as root (which is the default when installing the  snap package https://snapcraft.io/sccache ), this means a user running the sccache client can get root privileges.
 - [rubbxalc/CVE-2023-1521](https://github.com/rubbxalc/CVE-2023-1521)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2023-1521">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2023-1521">
+
+---
+## CVE-2023-1514 ()
+> 
+- [wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-](https://github.com/wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-)	<img alt="forks" src="https://img.shields.io/github/forks/wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-">	<img alt="stars" src="https://img.shields.io/github/stars/wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-">
 
 ---
 ## CVE-2023-1488 (2023-03-18T21:15:00)
