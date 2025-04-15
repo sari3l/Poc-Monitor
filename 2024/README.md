@@ -1581,6 +1581,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [J-0k3r/CVE-2024-52677](https://github.com/J-0k3r/CVE-2024-52677)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2024-52677">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2024-52677">
 
 ---
+## CVE-2024-52550 ()
+> 
+- [Anton-ai111/CVE-2024-52550](https://github.com/Anton-ai111/CVE-2024-52550)	<img alt="forks" src="https://img.shields.io/github/forks/Anton-ai111/CVE-2024-52550">	<img alt="stars" src="https://img.shields.io/github/stars/Anton-ai111/CVE-2024-52550">
+
+---
 ## CVE-2024-52475 (2024-11-28T11:15:00)
 > Authentication Bypass Using an Alternate Path or Channel vulnerability in Automation Web Platform Wawp allows Authentication Bypass.This issue affects Wawp: from n/a before 3.0.18.
 - [ubaii/CVE-2024-52475](https://github.com/ubaii/CVE-2024-52475)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-52475">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-52475">
