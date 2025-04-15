@@ -191,6 +191,7 @@
 - [hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-](https://github.com/hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-)	<img alt="forks" src="https://img.shields.io/github/forks/hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-">	<img alt="stars" src="https://img.shields.io/github/stars/hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-">
 - [hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-](https://github.com/hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-)	<img alt="forks" src="https://img.shields.io/github/forks/hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-">	<img alt="stars" src="https://img.shields.io/github/stars/hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-">
 - [so1icitx/CVE-2019-9053](https://github.com/so1icitx/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/so1icitx/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/so1icitx/CVE-2019-9053">
+- [del0x3/CVE-2019-9053-port-py3](https://github.com/del0x3/CVE-2019-9053-port-py3)	<img alt="forks" src="https://img.shields.io/github/forks/del0x3/CVE-2019-9053-port-py3">	<img alt="stars" src="https://img.shields.io/github/stars/del0x3/CVE-2019-9053-port-py3">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
