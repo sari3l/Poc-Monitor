@@ -1339,6 +1339,7 @@
 - [msterusky/WinboxExploit](https://github.com/msterusky/WinboxExploit)	<img alt="forks" src="https://img.shields.io/github/forks/msterusky/WinboxExploit">	<img alt="stars" src="https://img.shields.io/github/stars/msterusky/WinboxExploit">
 - [babyshen/routeros-CVE-2018-14847-bytheway](https://github.com/babyshen/routeros-CVE-2018-14847-bytheway)	<img alt="forks" src="https://img.shields.io/github/forks/babyshen/routeros-CVE-2018-14847-bytheway">	<img alt="stars" src="https://img.shields.io/github/stars/babyshen/routeros-CVE-2018-14847-bytheway">
 - [K3ysTr0K3R/CVE-2018-14847-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2018-14847-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2018-14847-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2018-14847-EXPLOIT">
+- [tausifzaman/CVE-2018-14847](https://github.com/tausifzaman/CVE-2018-14847)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/CVE-2018-14847">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/CVE-2018-14847">
 
 ---
 ## CVE-2018-14716 (2018-08-06T20:29:00)
