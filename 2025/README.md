@@ -73,6 +73,36 @@
 - [NotItsSixtyN3in/CVE-2025-422025](https://github.com/NotItsSixtyN3in/CVE-2025-422025)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-422025">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-422025">
 
 ---
+## CVE-2025-4162030 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-4162030](https://github.com/NotItsSixtyN3in/CVE-2025-4162030)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162030">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162030">
+
+---
+## CVE-2025-4162029 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-4162029](https://github.com/NotItsSixtyN3in/CVE-2025-4162029)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162029">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162029">
+
+---
+## CVE-2025-4162028 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-4162028](https://github.com/NotItsSixtyN3in/CVE-2025-4162028)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162028">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162028">
+
+---
+## CVE-2025-4162027 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-4162027](https://github.com/NotItsSixtyN3in/CVE-2025-4162027)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162027">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162027">
+
+---
+## CVE-2025-4162026 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-4162026](https://github.com/NotItsSixtyN3in/CVE-2025-4162026)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162026">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162026">
+
+---
+## CVE-2025-4162025 ()
+> 
+- [NotItsSixtyN3in/CVE-2025-4162025](https://github.com/NotItsSixtyN3in/CVE-2025-4162025)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162025">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162025">
+
+---
 ## CVE-2025-412027 ()
 > 
 - [itssixtyn3in/CVE-2025-412027](https://github.com/itssixtyn3in/CVE-2025-412027)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-412027">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-412027">
