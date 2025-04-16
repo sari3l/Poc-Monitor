@@ -1088,6 +1088,12 @@
 - [BBge/CVE-2018-17240](https://github.com/BBge/CVE-2018-17240)	<img alt="forks" src="https://img.shields.io/github/forks/BBge/CVE-2018-17240">	<img alt="stars" src="https://img.shields.io/github/stars/BBge/CVE-2018-17240">
 
 ---
+## CVE-2018-17229 ()
+> 
+- [zeeshangondal/c-cpp_CVE-2018-17229](https://github.com/zeeshangondal/c-cpp_CVE-2018-17229)	<img alt="forks" src="https://img.shields.io/github/forks/zeeshangondal/c-cpp_CVE-2018-17229">	<img alt="stars" src="https://img.shields.io/github/stars/zeeshangondal/c-cpp_CVE-2018-17229">
+- [ZeeshanGondal0007/c-cpp_CVE-2018-17229](https://github.com/ZeeshanGondal0007/c-cpp_CVE-2018-17229)	<img alt="forks" src="https://img.shields.io/github/forks/ZeeshanGondal0007/c-cpp_CVE-2018-17229">	<img alt="stars" src="https://img.shields.io/github/stars/ZeeshanGondal0007/c-cpp_CVE-2018-17229">
+
+---
 ## CVE-2018-17182 (2018-09-19T09:29:00)
 > An issue was discovered in the Linux kernel through 4.18.8. The vmacache_flush_all function in mm/vmacache.c mishandles sequence number overflows. An attacker can trigger a use-after-free (and possibly gain privileges) via certain thread creation, map, unmap, invalidation, and dereference operations.
 - [jedai47/cve-2018-17182](https://github.com/jedai47/cve-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/cve-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/cve-2018-17182">
