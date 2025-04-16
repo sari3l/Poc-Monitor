@@ -4302,6 +4302,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [CERTologists/POC-CVE-2024-36877](https://github.com/CERTologists/POC-CVE-2024-36877)	<img alt="forks" src="https://img.shields.io/github/forks/CERTologists/POC-CVE-2024-36877">	<img alt="stars" src="https://img.shields.io/github/stars/CERTologists/POC-CVE-2024-36877">
 
 ---
+## CVE-2024-36842 ()
+> 
+- [abbiy/CVE-2024-36842-Backdooring-Oncord-Android-Sterio-](https://github.com/abbiy/CVE-2024-36842-Backdooring-Oncord-Android-Sterio-)	<img alt="forks" src="https://img.shields.io/github/forks/abbiy/CVE-2024-36842-Backdooring-Oncord-Android-Sterio-">	<img alt="stars" src="https://img.shields.io/github/stars/abbiy/CVE-2024-36842-Backdooring-Oncord-Android-Sterio-">
+
+---
 ## CVE-2024-36840 ()
 > 
 - [theexploiters/CVE-2024-36840-Exploit](https://github.com/theexploiters/CVE-2024-36840-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-36840-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-36840-Exploit">
