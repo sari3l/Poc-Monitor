@@ -143,6 +143,7 @@
 - [xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/xuemian168/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/xuemian168/CVE-2025-3248">
 - [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PuddinCat/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PuddinCat/CVE-2025-3248-POC">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+- [verylazytech/CVE-2025-3248](https://github.com/verylazytech/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-3248">
 
 ---
 ## CVE-2025-32206 ()
