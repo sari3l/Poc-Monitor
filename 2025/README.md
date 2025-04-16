@@ -871,6 +871,11 @@
 - [MatheuZSecurity/Exploit-CVE-2025-24799](https://github.com/MatheuZSecurity/Exploit-CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/MatheuZSecurity/Exploit-CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/MatheuZSecurity/Exploit-CVE-2025-24799">
 
 ---
+## CVE-2025-24797 ()
+> 
+- [Alainx277/CVE-2025-24797](https://github.com/Alainx277/CVE-2025-24797)	<img alt="forks" src="https://img.shields.io/github/forks/Alainx277/CVE-2025-24797">	<img alt="stars" src="https://img.shields.io/github/stars/Alainx277/CVE-2025-24797">
+
+---
 ## CVE-2025-2476 ()
 > 
 - [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-2476">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-2476">
