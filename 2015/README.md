@@ -142,6 +142,11 @@
 - [G01d3nW01f/CVE-2015-6668](https://github.com/G01d3nW01f/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/G01d3nW01f/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/G01d3nW01f/CVE-2015-6668">
 
 ---
+## CVE-2015-6420 ()
+> 
+- [Leeziao/CVE-2015-6420](https://github.com/Leeziao/CVE-2015-6420)	<img alt="forks" src="https://img.shields.io/github/forks/Leeziao/CVE-2015-6420">	<img alt="stars" src="https://img.shields.io/github/stars/Leeziao/CVE-2015-6420">
+
+---
 ## CVE-2015-57115 ()
 > 
 - [TrixSec/CVE-2015-57115](https://github.com/TrixSec/CVE-2015-57115)	<img alt="forks" src="https://img.shields.io/github/forks/TrixSec/CVE-2015-57115">	<img alt="stars" src="https://img.shields.io/github/stars/TrixSec/CVE-2015-57115">
