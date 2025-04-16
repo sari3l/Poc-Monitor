@@ -237,6 +237,11 @@
 - [Nxploited/CVE-2025-30772](https://github.com/Nxploited/CVE-2025-30772)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-30772">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-30772">
 
 ---
+## CVE-2025-30727 ()
+> 
+- [HExploited/CVE-2025-30727-Exploit](https://github.com/HExploited/CVE-2025-30727-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HExploited/CVE-2025-30727-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HExploited/CVE-2025-30727-Exploit">
+
+---
 ## CVE-2025-30567 ()
 > 
 - [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-30567">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-30567">
@@ -617,6 +622,11 @@
 ## CVE-2025-26263 ()
 > 
 - [DRAGOWN/CVE-2025-26263](https://github.com/DRAGOWN/CVE-2025-26263)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2025-26263">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2025-26263">
+
+---
+## CVE-2025-26244 ()
+> 
+- [JaRm222/CVE-2025-26244](https://github.com/JaRm222/CVE-2025-26244)	<img alt="forks" src="https://img.shields.io/github/forks/JaRm222/CVE-2025-26244">	<img alt="stars" src="https://img.shields.io/github/stars/JaRm222/CVE-2025-26244">
 
 ---
 ## CVE-2025-26240 ()
