@@ -5351,6 +5351,11 @@
 - [W01fh4cker/CVE-2020-0688-GUI](https://github.com/W01fh4cker/CVE-2020-0688-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2020-0688-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2020-0688-GUI">
 
 ---
+## CVE-2020-0665 ()
+> 
+- [gunzf0x/CVE-2020-0665](https://github.com/gunzf0x/CVE-2020-0665)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2020-0665">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2020-0665">
+
+---
 ## CVE-2020-0618 ()
 > 
 - [N3xtGenH4cker/CVE-2020-0618_DETECTION](https://github.com/N3xtGenH4cker/CVE-2020-0618_DETECTION)	<img alt="forks" src="https://img.shields.io/github/forks/N3xtGenH4cker/CVE-2020-0618_DETECTION">	<img alt="stars" src="https://img.shields.io/github/stars/N3xtGenH4cker/CVE-2020-0618_DETECTION">
