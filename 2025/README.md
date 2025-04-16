@@ -392,6 +392,7 @@
 - [ethanol1310/POC-CVE-2025-29927-](https://github.com/ethanol1310/POC-CVE-2025-29927-)	<img alt="forks" src="https://img.shields.io/github/forks/ethanol1310/POC-CVE-2025-29927-">	<img alt="stars" src="https://img.shields.io/github/stars/ethanol1310/POC-CVE-2025-29927-">
 - [UNICORDev/exploit-CVE-2025-29927](https://github.com/UNICORDev/exploit-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2025-29927">
 - [Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation](https://github.com/Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation">
+- [mhamzakhattak/CVE-2025-29927](https://github.com/mhamzakhattak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/mhamzakhattak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/mhamzakhattak/CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
