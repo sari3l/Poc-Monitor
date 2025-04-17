@@ -480,6 +480,7 @@
 ## CVE-2025-29306 ()
 > 
 - [somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306)	<img alt="forks" src="https://img.shields.io/github/forks/somatrasss/CVE-2025-29306">	<img alt="stars" src="https://img.shields.io/github/stars/somatrasss/CVE-2025-29306">
+- [verylazytech/CVE-2025-29306](https://github.com/verylazytech/CVE-2025-29306)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-29306">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-29306">
 
 ---
 ## CVE-2025-29279 ()
