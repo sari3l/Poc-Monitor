@@ -444,6 +444,7 @@
 - [UNICORDev/exploit-CVE-2025-29927](https://github.com/UNICORDev/exploit-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2025-29927">
 - [Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation](https://github.com/Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation">
 - [mhamzakhattak/CVE-2025-29927](https://github.com/mhamzakhattak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/mhamzakhattak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/mhamzakhattak/CVE-2025-29927">
+- [enochgitgamefied/NextJS-CVE-2025-29927](https://github.com/enochgitgamefied/NextJS-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/NextJS-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/NextJS-CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
@@ -548,6 +549,11 @@
 ## CVE-2025-2807 ()
 > 
 - [Nxploited/CVE-2025-2807](https://github.com/Nxploited/CVE-2025-2807)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2807">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2807">
+
+---
+## CVE-2025-28009 ()
+> 
+- [beardenx/CVE-2025-28009](https://github.com/beardenx/CVE-2025-28009)	<img alt="forks" src="https://img.shields.io/github/forks/beardenx/CVE-2025-28009">	<img alt="stars" src="https://img.shields.io/github/stars/beardenx/CVE-2025-28009">
 
 ---
 ## CVE-2025-27893 ()
