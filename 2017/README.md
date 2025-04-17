@@ -236,6 +236,7 @@
 - [CalebFIN/EXP-CVE-2017-75](https://github.com/CalebFIN/EXP-CVE-2017-75)	<img alt="forks" src="https://img.shields.io/github/forks/CalebFIN/EXP-CVE-2017-75">	<img alt="stars" src="https://img.shields.io/github/stars/CalebFIN/EXP-CVE-2017-75">
 - [SirEagIe/CVE-2017-7529](https://github.com/SirEagIe/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/SirEagIe/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/SirEagIe/CVE-2017-7529">
 - [Fenil2511/CVE-2017-7529-POC](https://github.com/Fenil2511/CVE-2017-7529-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Fenil2511/CVE-2017-7529-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Fenil2511/CVE-2017-7529-POC">
+- [youngmin0104/CVE-2017-7529-](https://github.com/youngmin0104/CVE-2017-7529-)	<img alt="forks" src="https://img.shields.io/github/forks/youngmin0104/CVE-2017-7529-">	<img alt="stars" src="https://img.shields.io/github/stars/youngmin0104/CVE-2017-7529-">
 
 ---
 ## CVE-2017-7504 (2017-05-19T20:29:00)
