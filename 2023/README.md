@@ -5831,6 +5831,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [m474r5/CVE-2023-27997-RCE](https://github.com/m474r5/CVE-2023-27997-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/m474r5/CVE-2023-27997-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/m474r5/CVE-2023-27997-RCE">
 - [awchjimmy/CVE-2023-27997-tutorial](https://github.com/awchjimmy/CVE-2023-27997-tutorial)	<img alt="forks" src="https://img.shields.io/github/forks/awchjimmy/CVE-2023-27997-tutorial">	<img alt="stars" src="https://img.shields.io/github/stars/awchjimmy/CVE-2023-27997-tutorial">
 - [node011/CVE-2023-27997-POC](https://github.com/node011/CVE-2023-27997-POC)	<img alt="forks" src="https://img.shields.io/github/forks/node011/CVE-2023-27997-POC">	<img alt="stars" src="https://img.shields.io/github/stars/node011/CVE-2023-27997-POC">
+- [onurkerembozkurt/fgt-cve-2023-27997-exploit](https://github.com/onurkerembozkurt/fgt-cve-2023-27997-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/onurkerembozkurt/fgt-cve-2023-27997-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/onurkerembozkurt/fgt-cve-2023-27997-exploit">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
