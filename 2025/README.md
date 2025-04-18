@@ -204,6 +204,7 @@
 ## CVE-2025-32433 ()
 > 
 - [ProDefense/CVE-2025-32433](https://github.com/ProDefense/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ProDefense/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ProDefense/CVE-2025-32433">
+- [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Epivalent/CVE-2025-32433-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Epivalent/CVE-2025-32433-detection">
 
 ---
 ## CVE-2025-32395 ()
