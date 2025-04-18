@@ -1439,6 +1439,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [math-x-io/CVE-2024-54152-poc](https://github.com/math-x-io/CVE-2024-54152-poc)	<img alt="forks" src="https://img.shields.io/github/forks/math-x-io/CVE-2024-54152-poc">	<img alt="stars" src="https://img.shields.io/github/stars/math-x-io/CVE-2024-54152-poc">
 
 ---
+## CVE-2024-53924 ()
+> 
+- [aelmosalamy/CVE-2024-53924](https://github.com/aelmosalamy/CVE-2024-53924)	<img alt="forks" src="https://img.shields.io/github/forks/aelmosalamy/CVE-2024-53924">	<img alt="stars" src="https://img.shields.io/github/stars/aelmosalamy/CVE-2024-53924">
+
+---
 ## CVE-2024-53900 ()
 > 
 - [Gokul-Krishnan-V-R/CVE-2024-53900](https://github.com/Gokul-Krishnan-V-R/CVE-2024-53900)	<img alt="forks" src="https://img.shields.io/github/forks/Gokul-Krishnan-V-R/CVE-2024-53900">	<img alt="stars" src="https://img.shields.io/github/stars/Gokul-Krishnan-V-R/CVE-2024-53900">
