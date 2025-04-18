@@ -206,6 +206,11 @@
 - [ProDefense/CVE-2025-32433](https://github.com/ProDefense/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ProDefense/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ProDefense/CVE-2025-32433">
 
 ---
+## CVE-2025-32395 ()
+> 
+- [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395)	<img alt="forks" src="https://img.shields.io/github/forks/ruiwenya/CVE-2025-32395">	<img alt="stars" src="https://img.shields.io/github/stars/ruiwenya/CVE-2025-32395">
+
+---
 ## CVE-2025-32206 ()
 > 
 - [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32206">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32206">
