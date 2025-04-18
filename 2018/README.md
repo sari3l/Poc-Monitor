@@ -798,6 +798,7 @@
 - [KonEch0/CVE-2018-25031-SG](https://github.com/KonEch0/CVE-2018-25031-SG)	<img alt="forks" src="https://img.shields.io/github/forks/KonEch0/CVE-2018-25031-SG">	<img alt="stars" src="https://img.shields.io/github/stars/KonEch0/CVE-2018-25031-SG">
 - [Proklinius897/CVE-2018-25031-tests](https://github.com/Proklinius897/CVE-2018-25031-tests)	<img alt="forks" src="https://img.shields.io/github/forks/Proklinius897/CVE-2018-25031-tests">	<img alt="stars" src="https://img.shields.io/github/stars/Proklinius897/CVE-2018-25031-tests">
 - [MMAKINGDOM/CVE-2018-25031](https://github.com/MMAKINGDOM/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2018-25031">
+- [nigartest/CVE-2018-25031](https://github.com/nigartest/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/nigartest/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/nigartest/CVE-2018-25031">
 
 ---
 ## CVE-2018-21010 (2019-09-05T13:15:00)
