@@ -2578,6 +2578,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [devhaozi/CVE-2024-46901](https://github.com/devhaozi/CVE-2024-46901)	<img alt="forks" src="https://img.shields.io/github/forks/devhaozi/CVE-2024-46901">	<img alt="stars" src="https://img.shields.io/github/stars/devhaozi/CVE-2024-46901">
 
 ---
+## CVE-2024-46713 ()
+> 
+- [enlist12/CVE-2024-46713](https://github.com/enlist12/CVE-2024-46713)	<img alt="forks" src="https://img.shields.io/github/forks/enlist12/CVE-2024-46713">	<img alt="stars" src="https://img.shields.io/github/stars/enlist12/CVE-2024-46713">
+
+---
 ## CVE-2024-46658 (2024-10-03T21:15:00)
 > Syrotech SY-GOPON-8OLT-L3 v1.6.0_240629 was discovered to contain an authenticated command injection vulnerability.
 - [jackalkarlos/CVE-2024-46658](https://github.com/jackalkarlos/CVE-2024-46658)	<img alt="forks" src="https://img.shields.io/github/forks/jackalkarlos/CVE-2024-46658">	<img alt="stars" src="https://img.shields.io/github/stars/jackalkarlos/CVE-2024-46658">
