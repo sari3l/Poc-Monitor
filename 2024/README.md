@@ -3787,6 +3787,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-39943-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-39943-Poc">
 - [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/A-little-dragon/CVE-2024-39943-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/A-little-dragon/CVE-2024-39943-Exploit">
 - [tequilasunsh1ne/CVE_2024_39943](https://github.com/tequilasunsh1ne/CVE_2024_39943)	<img alt="forks" src="https://img.shields.io/github/forks/tequilasunsh1ne/CVE_2024_39943">	<img alt="stars" src="https://img.shields.io/github/stars/tequilasunsh1ne/CVE_2024_39943">
+- [JenmrR/Node.js-CVE-2024-39943](https://github.com/JenmrR/Node.js-CVE-2024-39943)	<img alt="forks" src="https://img.shields.io/github/forks/JenmrR/Node.js-CVE-2024-39943">	<img alt="stars" src="https://img.shields.io/github/stars/JenmrR/Node.js-CVE-2024-39943">
 
 ---
 ## CVE-2024-39929 (2024-07-04T15:15:00)
