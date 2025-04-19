@@ -5489,6 +5489,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [fuhei/CVE-2024-31317](https://github.com/fuhei/CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/fuhei/CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/fuhei/CVE-2024-31317">
 - [myraver/CVE-2024-31317](https://github.com/myraver/CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/myraver/CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/myraver/CVE-2024-31317">
 - [jmywh1/CVE-2024-31317](https://github.com/jmywh1/CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/jmywh1/CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/jmywh1/CVE-2024-31317">
+- [Webldix/CVE-2024-31317-PoC-Deployer](https://github.com/Webldix/CVE-2024-31317-PoC-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/Webldix/CVE-2024-31317-PoC-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/Webldix/CVE-2024-31317-PoC-Deployer">
+- [Anonymous941/zygote-injection-toolkit](https://github.com/Anonymous941/zygote-injection-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/Anonymous941/zygote-injection-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/Anonymous941/zygote-injection-toolkit">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
