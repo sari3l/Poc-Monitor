@@ -218,6 +218,7 @@
 - [exa-offsec/ssh_erlangotp_rce](https://github.com/exa-offsec/ssh_erlangotp_rce)	<img alt="forks" src="https://img.shields.io/github/forks/exa-offsec/ssh_erlangotp_rce">	<img alt="stars" src="https://img.shields.io/github/stars/exa-offsec/ssh_erlangotp_rce">
 - [ekomsSavior/POC_CVE-2025-32433](https://github.com/ekomsSavior/POC_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/POC_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/POC_CVE-2025-32433">
 - [0xPThree/cve-2025-32433](https://github.com/0xPThree/cve-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/cve-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/cve-2025-32433">
+- [meloppeitreet/CVE-2025-32433-Remote-Shell](https://github.com/meloppeitreet/CVE-2025-32433-Remote-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/meloppeitreet/CVE-2025-32433-Remote-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/meloppeitreet/CVE-2025-32433-Remote-Shell">
 
 ---
 ## CVE-2025-32395 ()
