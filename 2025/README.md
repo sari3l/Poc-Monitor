@@ -216,6 +216,7 @@
 - [m0usem0use/erl_mouse](https://github.com/m0usem0use/erl_mouse)	<img alt="forks" src="https://img.shields.io/github/forks/m0usem0use/erl_mouse">	<img alt="stars" src="https://img.shields.io/github/stars/m0usem0use/erl_mouse">
 - [omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC](https://github.com/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC">
 - [exa-offsec/ssh_erlangotp_rce](https://github.com/exa-offsec/ssh_erlangotp_rce)	<img alt="forks" src="https://img.shields.io/github/forks/exa-offsec/ssh_erlangotp_rce">	<img alt="stars" src="https://img.shields.io/github/stars/exa-offsec/ssh_erlangotp_rce">
+- [ekomsSavior/POC_CVE-2025-32433](https://github.com/ekomsSavior/POC_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/POC_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/POC_CVE-2025-32433">
 
 ---
 ## CVE-2025-32395 ()
