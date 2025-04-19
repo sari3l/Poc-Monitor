@@ -3446,6 +3446,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [igorbf495/CVE-2024-42327](https://github.com/igorbf495/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/igorbf495/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/igorbf495/CVE-2024-42327">
 - [BridgerAlderson/Zabbix-CVE-2024-42327-SQL-Injection-RCE](https://github.com/BridgerAlderson/Zabbix-CVE-2024-42327-SQL-Injection-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/Zabbix-CVE-2024-42327-SQL-Injection-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/Zabbix-CVE-2024-42327-SQL-Injection-RCE">
 - [godylockz/CVE-2024-42327](https://github.com/godylockz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2024-42327">
+- [874anthony/CVE-2024-42327_Zabbix_SQLi](https://github.com/874anthony/CVE-2024-42327_Zabbix_SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/874anthony/CVE-2024-42327_Zabbix_SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/874anthony/CVE-2024-42327_Zabbix_SQLi">
 
 ---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
