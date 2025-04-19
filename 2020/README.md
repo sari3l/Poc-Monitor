@@ -5319,6 +5319,7 @@
 - [z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities](https://github.com/z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities">
 - [Kaizzzo1/CVE-2020-0796](https://github.com/Kaizzzo1/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Kaizzzo1/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Kaizzzo1/CVE-2020-0796">
 - [monjheta/CVE-2020-0796](https://github.com/monjheta/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/monjheta/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/monjheta/CVE-2020-0796">
+- [madanokr001/CVE-2020-0796](https://github.com/madanokr001/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/madanokr001/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/madanokr001/CVE-2020-0796">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
