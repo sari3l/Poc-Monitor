@@ -3299,6 +3299,7 @@ URL that curl has been told to operate with.
 - [0xxnum/CVE-2023-38408](https://github.com/0xxnum/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/0xxnum/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/0xxnum/CVE-2023-38408">
 - [fazilbaig1/cve_2023_38408_scanner](https://github.com/fazilbaig1/cve_2023_38408_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/cve_2023_38408_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/cve_2023_38408_scanner">
 - [Nick-Morbid/cve-2023-38408](https://github.com/Nick-Morbid/cve-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/Nick-Morbid/cve-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/Nick-Morbid/cve-2023-38408">
+- [TX-One/CVE-2023-38408](https://github.com/TX-One/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/TX-One/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/TX-One/CVE-2023-38408">
 
 ---
 ## CVE-2023-38389 (2024-06-21T16:15:00)
