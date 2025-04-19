@@ -48,6 +48,16 @@
 - [joey-melo/CVE-2025-442025](https://github.com/joey-melo/CVE-2025-442025)	<img alt="forks" src="https://img.shields.io/github/forks/joey-melo/CVE-2025-442025">	<img alt="stars" src="https://img.shields.io/github/stars/joey-melo/CVE-2025-442025">
 
 ---
+## CVE-2025-43921 ()
+> 
+- [0NYX-MY7H/CVE-2025-43921](https://github.com/0NYX-MY7H/CVE-2025-43921)	<img alt="forks" src="https://img.shields.io/github/forks/0NYX-MY7H/CVE-2025-43921">	<img alt="stars" src="https://img.shields.io/github/stars/0NYX-MY7H/CVE-2025-43921">
+
+---
+## CVE-2025-43920 ()
+> 
+- [0NYX-MY7H/CVE-2025-43920](https://github.com/0NYX-MY7H/CVE-2025-43920)	<img alt="forks" src="https://img.shields.io/github/forks/0NYX-MY7H/CVE-2025-43920">	<img alt="stars" src="https://img.shields.io/github/stars/0NYX-MY7H/CVE-2025-43920">
+
+---
 ## CVE-2025-43919 ()
 > 
 - [0NYX-MY7H/CVE-2025-43919](https://github.com/0NYX-MY7H/CVE-2025-43919)	<img alt="forks" src="https://img.shields.io/github/forks/0NYX-MY7H/CVE-2025-43919">	<img alt="stars" src="https://img.shields.io/github/stars/0NYX-MY7H/CVE-2025-43919">
