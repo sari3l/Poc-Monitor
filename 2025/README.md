@@ -951,6 +951,11 @@
 - [Erosion2020/CVE-2025-24813-vulhub](https://github.com/Erosion2020/CVE-2025-24813-vulhub)	<img alt="forks" src="https://img.shields.io/github/forks/Erosion2020/CVE-2025-24813-vulhub">	<img alt="stars" src="https://img.shields.io/github/stars/Erosion2020/CVE-2025-24813-vulhub">
 
 ---
+## CVE-2025-24801 ()
+> 
+- [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/r1beirin/CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/r1beirin/CVE-2025-24801">
+
+---
 ## CVE-2025-24799 ()
 > 
 - [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-24799-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-24799-PoC">
