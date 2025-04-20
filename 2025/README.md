@@ -1446,6 +1446,11 @@
 - [Mahesh-970/CVE-2025-0086](https://github.com/Mahesh-970/CVE-2025-0086)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2025-0086">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2025-0086">
 
 ---
+## CVE-2025-0054 ()
+> 
+- [z3usx01/CVE-2025-0054](https://github.com/z3usx01/CVE-2025-0054)	<img alt="forks" src="https://img.shields.io/github/forks/z3usx01/CVE-2025-0054">	<img alt="stars" src="https://img.shields.io/github/stars/z3usx01/CVE-2025-0054">
+
+---
 ## CVE-2025-0011 ()
 > 
 - [binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011](https://github.com/binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011)	<img alt="forks" src="https://img.shields.io/github/forks/binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011">	<img alt="stars" src="https://img.shields.io/github/stars/binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011">
