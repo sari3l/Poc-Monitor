@@ -727,6 +727,11 @@ QuTScloud c5.1.5.2651 and later
 - [greandfather/CVE-2023-50358-POC-RCE](https://github.com/greandfather/CVE-2023-50358-POC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2023-50358-POC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2023-50358-POC-RCE">
 
 ---
+## CVE-2023-50257 ()
+> 
+- [Jminis/CVE-2023-50257](https://github.com/Jminis/CVE-2023-50257)	<img alt="forks" src="https://img.shields.io/github/forks/Jminis/CVE-2023-50257">	<img alt="stars" src="https://img.shields.io/github/stars/Jminis/CVE-2023-50257">
+
+---
 ## CVE-2023-50245 (2023-12-11T23:15:00)
 > OpenEXR-viewer is a viewer for OpenEXR files with detailed metadata probing. Versions prior to 0.6.1 have a memory overflow vulnerability. This issue is fixed in version 0.6.1.
 - [200101WhoAmI/CVE-2023-50245](https://github.com/200101WhoAmI/CVE-2023-50245)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2023-50245">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2023-50245">
