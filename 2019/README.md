@@ -1647,6 +1647,7 @@ use after free.
 - [0xbinder/android-kernel-exploitation-cve-2019-2215](https://github.com/0xbinder/android-kernel-exploitation-cve-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/android-kernel-exploitation-cve-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/android-kernel-exploitation-cve-2019-2215">
 - [llccd/TempRoot-Huawei](https://github.com/llccd/TempRoot-Huawei)	<img alt="forks" src="https://img.shields.io/github/forks/llccd/TempRoot-Huawei">	<img alt="stars" src="https://img.shields.io/github/stars/llccd/TempRoot-Huawei">
 - [mouseos/cve-2019-2215_SH-M08](https://github.com/mouseos/cve-2019-2215_SH-M08)	<img alt="forks" src="https://img.shields.io/github/forks/mouseos/cve-2019-2215_SH-M08">	<img alt="stars" src="https://img.shields.io/github/stars/mouseos/cve-2019-2215_SH-M08">
+- [0xbinder/android-kernel-exploitation-lab](https://github.com/0xbinder/android-kernel-exploitation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/android-kernel-exploitation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/android-kernel-exploitation-lab">
 
 ---
 ## CVE-2019-2115 ()
