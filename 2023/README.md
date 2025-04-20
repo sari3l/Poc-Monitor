@@ -730,6 +730,7 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2023-50257 ()
 > 
 - [Jminis/CVE-2023-50257](https://github.com/Jminis/CVE-2023-50257)	<img alt="forks" src="https://img.shields.io/github/forks/Jminis/CVE-2023-50257">	<img alt="stars" src="https://img.shields.io/github/stars/Jminis/CVE-2023-50257">
+- [Jminis/CVE-2023-50257](https://github.com/Jminis/CVE-2023-50257)	<img alt="forks" src="https://img.shields.io/github/forks/Jminis/CVE-2023-50257">	<img alt="stars" src="https://img.shields.io/github/stars/Jminis/CVE-2023-50257">
 
 ---
 ## CVE-2023-50245 (2023-12-11T23:15:00)
