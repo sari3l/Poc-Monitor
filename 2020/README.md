@@ -5320,6 +5320,7 @@
 - [Kaizzzo1/CVE-2020-0796](https://github.com/Kaizzzo1/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Kaizzzo1/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Kaizzzo1/CVE-2020-0796">
 - [monjheta/CVE-2020-0796](https://github.com/monjheta/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/monjheta/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/monjheta/CVE-2020-0796">
 - [madanokr001/CVE-2020-0796](https://github.com/madanokr001/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/madanokr001/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/madanokr001/CVE-2020-0796">
+- [DannyRavi/nmap-scripts](https://github.com/DannyRavi/nmap-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/DannyRavi/nmap-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/DannyRavi/nmap-scripts">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
