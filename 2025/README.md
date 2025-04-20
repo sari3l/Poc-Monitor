@@ -317,6 +317,7 @@
 - [itsismarcos/vanda-CVE-2025-3102](https://github.com/itsismarcos/vanda-CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/itsismarcos/vanda-CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/itsismarcos/vanda-CVE-2025-3102">
 - [Nxploited/CVE-2025-3102](https://github.com/Nxploited/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-3102">
 - [rhz0d/CVE-2025-3102](https://github.com/rhz0d/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/rhz0d/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/rhz0d/CVE-2025-3102">
+- [dennisec/CVE-2025-3102](https://github.com/dennisec/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2025-3102">
 
 ---
 ## CVE-2025-30967 ()
