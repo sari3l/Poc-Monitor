@@ -6468,6 +6468,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [7imbitz/CVE-2023-25157-checker](https://github.com/7imbitz/CVE-2023-25157-checker)	<img alt="forks" src="https://img.shields.io/github/forks/7imbitz/CVE-2023-25157-checker">	<img alt="stars" src="https://img.shields.io/github/stars/7imbitz/CVE-2023-25157-checker">
 - [Rubikcuv5/CVE-2023-25157](https://github.com/Rubikcuv5/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/Rubikcuv5/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/Rubikcuv5/CVE-2023-25157">
 - [dr-cable-tv/Geoserver-CVE-2023-25157](https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/dr-cable-tv/Geoserver-CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/dr-cable-tv/Geoserver-CVE-2023-25157">
+- [custiya/geoserver-CVE-2023-25157](https://github.com/custiya/geoserver-CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/custiya/geoserver-CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/custiya/geoserver-CVE-2023-25157">
 
 ---
 ## CVE-2023-25136 (2023-02-03T06:15:00)
