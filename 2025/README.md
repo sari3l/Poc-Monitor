@@ -1088,6 +1088,7 @@
 - [0xjessie21/CVE-2025-24016](https://github.com/0xjessie21/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/CVE-2025-24016">
 - [MuhammadWaseem29/CVE-2025-24016](https://github.com/MuhammadWaseem29/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24016">
 - [celsius026/poc_CVE-2025-24016](https://github.com/celsius026/poc_CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/celsius026/poc_CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/celsius026/poc_CVE-2025-24016">
+- [cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC](https://github.com/cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC">
 
 ---
 ## CVE-2025-24011 ()
