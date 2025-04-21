@@ -540,6 +540,16 @@
 - [cypherdavy/CVE-2025-29722](https://github.com/cypherdavy/CVE-2025-29722)	<img alt="forks" src="https://img.shields.io/github/forks/cypherdavy/CVE-2025-29722">	<img alt="stars" src="https://img.shields.io/github/stars/cypherdavy/CVE-2025-29722">
 
 ---
+## CVE-2025-29712 ()
+> 
+- [SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS](https://github.com/SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS">
+
+---
+## CVE-2025-29711 ()
+> 
+- [SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control](https://github.com/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control">
+
+---
 ## CVE-2025-29705 ()
 > 
 - [yxzrw/CVE-2025-29705](https://github.com/yxzrw/CVE-2025-29705)	<img alt="forks" src="https://img.shields.io/github/forks/yxzrw/CVE-2025-29705">	<img alt="stars" src="https://img.shields.io/github/stars/yxzrw/CVE-2025-29705">
