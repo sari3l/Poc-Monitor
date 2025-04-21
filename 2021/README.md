@@ -5299,6 +5299,12 @@
 - [TobiasS1402/CVE-2021-3438](https://github.com/TobiasS1402/CVE-2021-3438)	<img alt="forks" src="https://img.shields.io/github/forks/TobiasS1402/CVE-2021-3438">	<img alt="stars" src="https://img.shields.io/github/stars/TobiasS1402/CVE-2021-3438">
 
 ---
+## CVE-2021-34371 ()
+> 
+- [tavgar/CVE-2021-34371](https://github.com/tavgar/CVE-2021-34371)	<img alt="forks" src="https://img.shields.io/github/forks/tavgar/CVE-2021-34371">	<img alt="stars" src="https://img.shields.io/github/stars/tavgar/CVE-2021-34371">
+- [zwjjustdoit/CVE-2021-34371.jar](https://github.com/zwjjustdoit/CVE-2021-34371.jar)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/CVE-2021-34371.jar">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/CVE-2021-34371.jar">
+
+---
 ## CVE-2021-3437 (2022-12-12T13:15:00)
 > Potential security vulnerabilities have been identified in an OMEN Gaming Hub SDK package which may allow escalation of privilege and/or denial of service. HP is releasing software updates to mitigate the potential vulnerabilities.
 - [Live-Hack-CVE/CVE-2021-3437](https://github.com/Live-Hack-CVE/CVE-2021-3437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3437">
