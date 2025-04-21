@@ -518,6 +518,8 @@
 - [mhamzakhattak/CVE-2025-29927](https://github.com/mhamzakhattak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/mhamzakhattak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/mhamzakhattak/CVE-2025-29927">
 - [enochgitgamefied/NextJS-CVE-2025-29927](https://github.com/enochgitgamefied/NextJS-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/NextJS-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/NextJS-CVE-2025-29927">
 - [Grand-Moomin/Vuln-Next.js-CVE-2025-29927](https://github.com/Grand-Moomin/Vuln-Next.js-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Grand-Moomin/Vuln-Next.js-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Grand-Moomin/Vuln-Next.js-CVE-2025-29927">
+- [pouriam23/CVE-2025-29927](https://github.com/pouriam23/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/CVE-2025-29927">
+- [pouriam23/Next.js-Middleware-Bypass-CVE-2025-29927-](https://github.com/pouriam23/Next.js-Middleware-Bypass-CVE-2025-29927-)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/Next.js-Middleware-Bypass-CVE-2025-29927-">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/Next.js-Middleware-Bypass-CVE-2025-29927-">
 
 ---
 ## CVE-2025-29814 ()
