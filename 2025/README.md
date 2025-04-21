@@ -422,6 +422,7 @@
 - [bjornhels/CVE-2025-30065](https://github.com/bjornhels/CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/bjornhels/CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/bjornhels/CVE-2025-30065">
 - [ron-imperva/CVE-2025-30065-PoC](https://github.com/ron-imperva/CVE-2025-30065-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ron-imperva/CVE-2025-30065-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ron-imperva/CVE-2025-30065-PoC">
 - [mouadk/parquet-rce-poc-CVE-2025-30065](https://github.com/mouadk/parquet-rce-poc-CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/parquet-rce-poc-CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/parquet-rce-poc-CVE-2025-30065">
+- [ThreatRadarAI/TRA-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation-](https://github.com/ThreatRadarAI/TRA-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation-)	<img alt="forks" src="https://img.shields.io/github/forks/ThreatRadarAI/TRA-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation-">	<img alt="stars" src="https://img.shields.io/github/stars/ThreatRadarAI/TRA-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation-">
 
 ---
 ## CVE-2025-29972 ()

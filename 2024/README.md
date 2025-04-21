@@ -4238,6 +4238,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [fullbbadda1208/CVE-2024-37713](https://github.com/fullbbadda1208/CVE-2024-37713)	<img alt="forks" src="https://img.shields.io/github/forks/fullbbadda1208/CVE-2024-37713">	<img alt="stars" src="https://img.shields.io/github/stars/fullbbadda1208/CVE-2024-37713">
 
 ---
+## CVE-2024-37606 ()
+> 
+- [itwizardo/DCS932L-Emulation-CVE-2024-37606-Attack](https://github.com/itwizardo/DCS932L-Emulation-CVE-2024-37606-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/itwizardo/DCS932L-Emulation-CVE-2024-37606-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/itwizardo/DCS932L-Emulation-CVE-2024-37606-Attack">
+
+---
 ## CVE-2024-37404 (2024-10-18T23:15:00)
 > Improper Input Validation in the admin portal of Ivanti Connect Secure before 22.7R2.1 and 9.1R18.9, or Ivanti Policy Secure before 22.7R1.1 allows a remote authenticated attacker to achieve remote code execution.
 - [nothe1senberg/CVE-2024-37404](https://github.com/nothe1senberg/CVE-2024-37404)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-37404">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-37404">
