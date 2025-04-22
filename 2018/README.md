@@ -1484,6 +1484,11 @@
 - [alex-ermolaev/Log4NetSolarWindsSNMP-](https://github.com/alex-ermolaev/Log4NetSolarWindsSNMP-)	<img alt="forks" src="https://img.shields.io/github/forks/alex-ermolaev/Log4NetSolarWindsSNMP-">	<img alt="stars" src="https://img.shields.io/github/stars/alex-ermolaev/Log4NetSolarWindsSNMP-">
 
 ---
+## CVE-2018-12533 ()
+> 
+- [mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310](https://github.com/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310)	<img alt="forks" src="https://img.shields.io/github/forks/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310">	<img alt="stars" src="https://img.shields.io/github/stars/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310">
+
+---
 ## CVE-2018-12207 (2019-11-14T20:15:00)
 > Improper invalidation for page table updates by a virtual guest operating system for multiple Intel(R) Processors may allow an authenticated user to potentially enable denial of service of the host system via local access.
 - [Live-Hack-CVE/CVE-2018-12207](https://github.com/Live-Hack-CVE/CVE-2018-12207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-12207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-12207">
