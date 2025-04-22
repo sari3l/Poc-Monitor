@@ -1487,6 +1487,8 @@
 ## CVE-2018-12533 ()
 > 
 - [mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310](https://github.com/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310)	<img alt="forks" src="https://img.shields.io/github/forks/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310">	<img alt="stars" src="https://img.shields.io/github/stars/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310">
+- [llamaonsecurity/CVE-2018-12533](https://github.com/llamaonsecurity/CVE-2018-12533)	<img alt="forks" src="https://img.shields.io/github/forks/llamaonsecurity/CVE-2018-12533">	<img alt="stars" src="https://img.shields.io/github/stars/llamaonsecurity/CVE-2018-12533">
+- [Pastea/CVE-2018-12533](https://github.com/Pastea/CVE-2018-12533)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2018-12533">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2018-12533">
 
 ---
 ## CVE-2018-12207 (2019-11-14T20:15:00)
