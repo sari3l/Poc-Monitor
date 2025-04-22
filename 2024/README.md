@@ -3935,6 +3935,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 ## CVE-2024-38828 ()
 > 
 - [funcid/CVE-2024-38828](https://github.com/funcid/CVE-2024-38828)	<img alt="forks" src="https://img.shields.io/github/forks/funcid/CVE-2024-38828">	<img alt="stars" src="https://img.shields.io/github/stars/funcid/CVE-2024-38828">
+- [First-Roman/sprig-mvc-demo-patch](https://github.com/First-Roman/sprig-mvc-demo-patch)	<img alt="forks" src="https://img.shields.io/github/forks/First-Roman/sprig-mvc-demo-patch">	<img alt="stars" src="https://img.shields.io/github/stars/First-Roman/sprig-mvc-demo-patch">
 
 ---
 ## CVE-2024-38821 (2024-10-28T07:15:00)
