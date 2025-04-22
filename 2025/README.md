@@ -292,6 +292,7 @@
 - [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/CVE-2025-31161">
 - [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/llussiess/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/llussiess/CVE-2025-31161">
 - [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP)	<img alt="forks" src="https://img.shields.io/github/forks/ghostsec420/ShatteredFTP">	<img alt="stars" src="https://img.shields.io/github/stars/ghostsec420/ShatteredFTP">
+- [TX-One/CVE-2025-31161](https://github.com/TX-One/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/TX-One/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/TX-One/CVE-2025-31161">
 
 ---
 ## CVE-2025-31131 ()
