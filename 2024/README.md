@@ -3932,6 +3932,11 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [FakesiteSecurity/CVE-2024-38856_Scen](https://github.com/FakesiteSecurity/CVE-2024-38856_Scen)	<img alt="forks" src="https://img.shields.io/github/forks/FakesiteSecurity/CVE-2024-38856_Scen">	<img alt="stars" src="https://img.shields.io/github/stars/FakesiteSecurity/CVE-2024-38856_Scen">
 
 ---
+## CVE-2024-38828 ()
+> 
+- [funcid/CVE-2024-38828](https://github.com/funcid/CVE-2024-38828)	<img alt="forks" src="https://img.shields.io/github/forks/funcid/CVE-2024-38828">	<img alt="stars" src="https://img.shields.io/github/stars/funcid/CVE-2024-38828">
+
+---
 ## CVE-2024-38821 (2024-10-28T07:15:00)
 > Spring WebFlux applications that have Spring Security authorization rules on static resources can be bypassed under certain circumstances.
 
