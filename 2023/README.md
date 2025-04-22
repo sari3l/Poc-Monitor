@@ -1974,6 +1974,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [aulauniversal/CVE-2023-44487](https://github.com/aulauniversal/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/aulauniversal/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/aulauniversal/CVE-2023-44487">
 - [BMG-Black-Magic/CVE-2023-44487](https://github.com/BMG-Black-Magic/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/BMG-Black-Magic/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/BMG-Black-Magic/CVE-2023-44487">
 - [moften/CVE-2023-44487](https://github.com/moften/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2023-44487">
+- [zanks08/cve-2023-44487-demo](https://github.com/zanks08/cve-2023-44487-demo)	<img alt="forks" src="https://img.shields.io/github/forks/zanks08/cve-2023-44487-demo">	<img alt="stars" src="https://img.shields.io/github/stars/zanks08/cve-2023-44487-demo">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
