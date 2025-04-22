@@ -72,6 +72,11 @@
 - [cybersecplayground/CVE-2025-43919-POC](https://github.com/cybersecplayground/CVE-2025-43919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecplayground/CVE-2025-43919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecplayground/CVE-2025-43919-POC">
 
 ---
+## CVE-2025-42599 ()
+> 
+- [bronsoneaver/CVE-2025-42599](https://github.com/bronsoneaver/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-42599">
+
+---
 ## CVE-2025-422031 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-422031](https://github.com/NotItsSixtyN3in/CVE-2025-422031)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-422031">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-422031">
