@@ -69,6 +69,7 @@
 > 
 - [0NYX-MY7H/CVE-2025-43919](https://github.com/0NYX-MY7H/CVE-2025-43919)	<img alt="forks" src="https://img.shields.io/github/forks/0NYX-MY7H/CVE-2025-43919">	<img alt="stars" src="https://img.shields.io/github/stars/0NYX-MY7H/CVE-2025-43919">
 - [0NYX-MY7H/CVE-2025-43919](https://github.com/0NYX-MY7H/CVE-2025-43919)	<img alt="forks" src="https://img.shields.io/github/forks/0NYX-MY7H/CVE-2025-43919">	<img alt="stars" src="https://img.shields.io/github/stars/0NYX-MY7H/CVE-2025-43919">
+- [cybersecplayground/CVE-2025-43919-POC](https://github.com/cybersecplayground/CVE-2025-43919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecplayground/CVE-2025-43919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecplayground/CVE-2025-43919-POC">
 
 ---
 ## CVE-2025-422031 ()
