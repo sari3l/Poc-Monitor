@@ -2202,6 +2202,7 @@ length to be included in the checksum calculation is fully consumed.
 - [aspire20x/CVE-2024-49138-POC](https://github.com/aspire20x/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/aspire20x/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/aspire20x/CVE-2024-49138-POC">
 - [bananoname/CVE-2024-49138-POC](https://github.com/bananoname/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bananoname/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bananoname/CVE-2024-49138-POC">
 - [DeividasTerechovas/SOC335-CVE-2024-49138-Exploitation-Detected](https://github.com/DeividasTerechovas/SOC335-CVE-2024-49138-Exploitation-Detected)	<img alt="forks" src="https://img.shields.io/github/forks/DeividasTerechovas/SOC335-CVE-2024-49138-Exploitation-Detected">	<img alt="stars" src="https://img.shields.io/github/stars/DeividasTerechovas/SOC335-CVE-2024-49138-Exploitation-Detected">
+- [CyprianAtsyor/letsdefend-cve-2024-49138-investigation](https://github.com/CyprianAtsyor/letsdefend-cve-2024-49138-investigation)	<img alt="forks" src="https://img.shields.io/github/forks/CyprianAtsyor/letsdefend-cve-2024-49138-investigation">	<img alt="stars" src="https://img.shields.io/github/stars/CyprianAtsyor/letsdefend-cve-2024-49138-investigation">
 
 ---
 ## CVE-2024-49113 ()
