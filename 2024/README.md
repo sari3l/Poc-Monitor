@@ -6575,6 +6575,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Quantum-Hacker/CVE-2024-27954](https://github.com/Quantum-Hacker/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27954">
 
 ---
+## CVE-2024-27876 ()
+> 
+- [0xilis/CVE-2024-27876](https://github.com/0xilis/CVE-2024-27876)	<img alt="forks" src="https://img.shields.io/github/forks/0xilis/CVE-2024-27876">	<img alt="stars" src="https://img.shields.io/github/stars/0xilis/CVE-2024-27876">
+
+---
 ## CVE-2024-27821 (2024-05-14T15:13:00)
 > A path handling issue was addressed with improved validation. This issue is fixed in iOS 17.5 and iPadOS 17.5, watchOS 10.5, macOS Sonoma 14.5. A shortcut may output sensitive user data without consent.
 - [0xilis/CVE-2024-27821](https://github.com/0xilis/CVE-2024-27821)	<img alt="forks" src="https://img.shields.io/github/forks/0xilis/CVE-2024-27821">	<img alt="stars" src="https://img.shields.io/github/stars/0xilis/CVE-2024-27821">
