@@ -184,7 +184,7 @@
 ---
 ## CVE-2025-32965 ()
 > 
-- [yusufdalbudak/CVE-2025-32965-xrpl.js-Supply-Chain-Attack-PoC](https://github.com/yusufdalbudak/CVE-2025-32965-xrpl.js-Supply-Chain-Attack-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2025-32965-xrpl.js-Supply-Chain-Attack-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2025-32965-xrpl.js-Supply-Chain-Attack-PoC">
+- [yusufdalbudak/CVE-2025-32965-xrpl-js-poc](https://github.com/yusufdalbudak/CVE-2025-32965-xrpl-js-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">
 
 ---
 ## CVE-2025-3292029 ()
