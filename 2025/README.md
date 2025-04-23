@@ -312,6 +312,11 @@
 - [TX-One/CVE-2025-31161](https://github.com/TX-One/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/TX-One/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/TX-One/CVE-2025-31161">
 
 ---
+## CVE-2025-31137 ()
+> 
+- [pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-](https://github.com/pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-">
+
+---
 ## CVE-2025-31131 ()
 > 
 - [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-31131">
