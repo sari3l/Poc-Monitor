@@ -182,6 +182,11 @@
 - [shellkraft/CVE-2025-3568](https://github.com/shellkraft/CVE-2025-3568)	<img alt="forks" src="https://img.shields.io/github/forks/shellkraft/CVE-2025-3568">	<img alt="stars" src="https://img.shields.io/github/stars/shellkraft/CVE-2025-3568">
 
 ---
+## CVE-2025-32965 ()
+> 
+- [yusufdalbudak/CVE-2025-32965-xrpl.js-Supply-Chain-Attack-PoC](https://github.com/yusufdalbudak/CVE-2025-32965-xrpl.js-Supply-Chain-Attack-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2025-32965-xrpl.js-Supply-Chain-Attack-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2025-32965-xrpl.js-Supply-Chain-Attack-PoC">
+
+---
 ## CVE-2025-3292029 ()
 > 
 - [itssixtyn3in/CVE-2025-3292029](https://github.com/itssixtyn3in/CVE-2025-3292029)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3292029">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3292029">
