@@ -987,6 +987,11 @@
 - [be4zad/CVE-2025-24971](https://github.com/be4zad/CVE-2025-24971)	<img alt="forks" src="https://img.shields.io/github/forks/be4zad/CVE-2025-24971">	<img alt="stars" src="https://img.shields.io/github/stars/be4zad/CVE-2025-24971">
 
 ---
+## CVE-2025-24963 ()
+> 
+- [0xdeviner/CVE-2025-24963](https://github.com/0xdeviner/CVE-2025-24963)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeviner/CVE-2025-24963">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeviner/CVE-2025-24963">
+
+---
 ## CVE-2025-24893 ()
 > 
 - [sug4r-wr41th/CVE-2025-24893](https://github.com/sug4r-wr41th/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-24893">
