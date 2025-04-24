@@ -1233,6 +1233,11 @@
 - [Live-Hack-CVE/CVE-2018-15822](https://github.com/Live-Hack-CVE/CVE-2018-15822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-15822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-15822">
 
 ---
+## CVE-2018-15745 ()
+> 
+- [Jasurbek-Masimov/CVE-2018-15745](https://github.com/Jasurbek-Masimov/CVE-2018-15745)	<img alt="forks" src="https://img.shields.io/github/forks/Jasurbek-Masimov/CVE-2018-15745">	<img alt="stars" src="https://img.shields.io/github/stars/Jasurbek-Masimov/CVE-2018-15745">
+
+---
 ## CVE-2018-15708 (2018-11-14T18:29:00)
 > Snoopy 1.0 in Nagios XI 5.5.6 allows remote unauthenticated attackers to execute arbitrary commands via a crafted HTTP request.
 - [lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities](https://github.com/lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities">
