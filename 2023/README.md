@@ -5358,6 +5358,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [AAsh035/CVE-2023-30212](https://github.com/AAsh035/CVE-2023-30212)	<img alt="forks" src="https://img.shields.io/github/forks/AAsh035/CVE-2023-30212">	<img alt="stars" src="https://img.shields.io/github/stars/AAsh035/CVE-2023-30212">
 - [JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-](https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-)	<img alt="forks" src="https://img.shields.io/github/forks/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-">	<img alt="stars" src="https://img.shields.io/github/stars/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-">
 - [hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb](https://github.com/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb">
+- [sungmin20/cve-2023-30212](https://github.com/sungmin20/cve-2023-30212)	<img alt="forks" src="https://img.shields.io/github/forks/sungmin20/cve-2023-30212">	<img alt="stars" src="https://img.shields.io/github/stars/sungmin20/cve-2023-30212">
 
 ---
 ## CVE-2023-30190 ()
