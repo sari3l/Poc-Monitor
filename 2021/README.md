@@ -1074,6 +1074,11 @@
 - [0rx1/cve-2021-43858](https://github.com/0rx1/cve-2021-43858)	<img alt="forks" src="https://img.shields.io/github/forks/0rx1/cve-2021-43858">	<img alt="stars" src="https://img.shields.io/github/stars/0rx1/cve-2021-43858">
 
 ---
+## CVE-2021-43857 ()
+> 
+- [G4sp4rCS/CVE-2021-43857-POC](https://github.com/G4sp4rCS/CVE-2021-43857-POC)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/CVE-2021-43857-POC">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/CVE-2021-43857-POC">
+
+---
 ## CVE-2021-43845 (2021-12-27T18:15:00)
 > PJSIP is a free and open source multimedia communication library. In version 2.11.1 and prior, if incoming RTCP XR message contain block, the data field is not checked against the received packet size, potentially resulting in an out-of-bound read access. This affects all users that use PJMEDIA and RTCP XR. A malicious actor can send a RTCP XR message with an invalid packet size.
 - [Live-Hack-CVE/CVE-2021-43845](https://github.com/Live-Hack-CVE/CVE-2021-43845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43845">
