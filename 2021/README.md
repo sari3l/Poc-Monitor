@@ -1077,6 +1077,8 @@
 ## CVE-2021-43857 ()
 > 
 - [G4sp4rCS/CVE-2021-43857-POC](https://github.com/G4sp4rCS/CVE-2021-43857-POC)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/CVE-2021-43857-POC">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/CVE-2021-43857-POC">
+- [lowkey0808/CVE-2021-43857](https://github.com/lowkey0808/CVE-2021-43857)	<img alt="forks" src="https://img.shields.io/github/forks/lowkey0808/CVE-2021-43857">	<img alt="stars" src="https://img.shields.io/github/stars/lowkey0808/CVE-2021-43857">
+- [LongWayHomie/CVE-2021-43857](https://github.com/LongWayHomie/CVE-2021-43857)	<img alt="forks" src="https://img.shields.io/github/forks/LongWayHomie/CVE-2021-43857">	<img alt="stars" src="https://img.shields.io/github/stars/LongWayHomie/CVE-2021-43857">
 
 ---
 ## CVE-2021-43845 (2021-12-27T18:15:00)
