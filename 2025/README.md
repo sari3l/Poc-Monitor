@@ -274,6 +274,22 @@
 - [ps-interactive/lab_CVE-2025-32433](https://github.com/ps-interactive/lab_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_CVE-2025-32433">
 
 ---
+## CVE-2025-3243 ()
+> 
+- [TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243)	<img alt="forks" src="https://img.shields.io/github/forks/TeneBrae93/CVE-2025-3243">	<img alt="stars" src="https://img.shields.io/github/stars/TeneBrae93/CVE-2025-3243">
+- [ps-interactive/lab_CVE-2025-32433](https://github.com/ps-interactive/lab_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_CVE-2025-32433">
+- [tobiasGuta/Erlang-OTP-CVE-2025-32433](https://github.com/tobiasGuta/Erlang-OTP-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/Erlang-OTP-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/Erlang-OTP-CVE-2025-32433">
+- [meloppeitreet/CVE-2025-32433-Remote-Shell](https://github.com/meloppeitreet/CVE-2025-32433-Remote-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/meloppeitreet/CVE-2025-32433-Remote-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/meloppeitreet/CVE-2025-32433-Remote-Shell">
+- [0xPThree/cve-2025-32433](https://github.com/0xPThree/cve-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/cve-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/cve-2025-32433">
+- [darses/CVE-2025-32433](https://github.com/darses/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/darses/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/darses/CVE-2025-32433">
+- [teamtopkarl/CVE-2025-32433](https://github.com/teamtopkarl/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/teamtopkarl/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/teamtopkarl/CVE-2025-32433">
+- [omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC](https://github.com/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC">
+- [ekomsSavior/POC_CVE-2025-32433](https://github.com/ekomsSavior/POC_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/POC_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/POC_CVE-2025-32433">
+- [ProDefense/CVE-2025-32433](https://github.com/ProDefense/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ProDefense/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ProDefense/CVE-2025-32433">
+- [LemieOne/CVE-2025-32433](https://github.com/LemieOne/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/LemieOne/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/LemieOne/CVE-2025-32433">
+- [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Epivalent/CVE-2025-32433-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Epivalent/CVE-2025-32433-detection">
+
+---
 ## CVE-2025-32395 ()
 > 
 - [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395)	<img alt="forks" src="https://img.shields.io/github/forks/ruiwenya/CVE-2025-32395">	<img alt="stars" src="https://img.shields.io/github/stars/ruiwenya/CVE-2025-32395">
