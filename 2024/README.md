@@ -8929,6 +8929,11 @@ authentication.   
 - [osmancanvural/CVE-2024-12970](https://github.com/osmancanvural/CVE-2024-12970)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2024-12970">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2024-12970">
 
 ---
+## CVE-2024-12905 ()
+> 
+- [theMcSam/CVE-2024-12905-PoC](https://github.com/theMcSam/CVE-2024-12905-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theMcSam/CVE-2024-12905-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theMcSam/CVE-2024-12905-PoC">
+
+---
 ## CVE-2024-12883 ()
 > 
 - [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/cve-2024-12883">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/cve-2024-12883">
