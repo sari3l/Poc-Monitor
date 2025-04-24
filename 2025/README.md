@@ -316,6 +316,7 @@
 - [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/llussiess/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/llussiess/CVE-2025-31161">
 - [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP)	<img alt="forks" src="https://img.shields.io/github/forks/ghostsec420/ShatteredFTP">	<img alt="stars" src="https://img.shields.io/github/stars/ghostsec420/ShatteredFTP">
 - [TX-One/CVE-2025-31161](https://github.com/TX-One/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/TX-One/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/TX-One/CVE-2025-31161">
+- [SUPRAAA-1337/CVE-2025-31161](https://github.com/SUPRAAA-1337/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
@@ -387,6 +388,7 @@
 ## CVE-2025-30406 ()
 > 
 - [bronsoneaver/CVE-2025-30406](https://github.com/bronsoneaver/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-30406">
+- [W01fh4cker/CVE-2025-30406](https://github.com/W01fh4cker/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2025-30406">
 
 ---
 ## CVE-2025-30355 ()
