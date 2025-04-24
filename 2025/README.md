@@ -187,6 +187,11 @@
 - [shellkraft/CVE-2025-3568](https://github.com/shellkraft/CVE-2025-3568)	<img alt="forks" src="https://img.shields.io/github/forks/shellkraft/CVE-2025-3568">	<img alt="stars" src="https://img.shields.io/github/stars/shellkraft/CVE-2025-3568">
 
 ---
+## CVE-2025-34028 ()
+> 
+- [watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028](https://github.com/watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028">
+
+---
 ## CVE-2025-32965 ()
 > 
 - [yusufdalbudak/CVE-2025-32965-xrpl-js-poc](https://github.com/yusufdalbudak/CVE-2025-32965-xrpl-js-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">
