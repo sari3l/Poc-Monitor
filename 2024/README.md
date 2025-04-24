@@ -555,7 +555,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-7120 (2024-07-26T05:15:00)
 > A vulnerability, which was classified as critical, was found in Raisecom MSG1200, MSG2100E, MSG2200 and MSG2300 3.90. This affects an unknown part of the file list_base_config.php of the component Web Interface. The manipulation of the argument template leads to os command injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-272451.
 - [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
-- [fa-rrel/CVE-2024-7120](https://github.com/fa-rrel/CVE-2024-7120)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-7120">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-7120">
+- [gh-ost00/CVE-2024-7120](https://github.com/gh-ost00/CVE-2024-7120)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-7120">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-7120">
 - [jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x](https://github.com/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x)	<img alt="forks" src="https://img.shields.io/github/forks/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x">	<img alt="stars" src="https://img.shields.io/github/stars/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x">
 
 ---
