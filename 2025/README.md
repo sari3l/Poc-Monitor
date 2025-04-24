@@ -272,6 +272,7 @@
 - [SDX442/CVE-2025-32433](https://github.com/SDX442/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/SDX442/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/SDX442/CVE-2025-32433">
 - [tobiasGuta/Erlang-OTP-CVE-2025-32433](https://github.com/tobiasGuta/Erlang-OTP-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/Erlang-OTP-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/Erlang-OTP-CVE-2025-32433">
 - [ps-interactive/lab_CVE-2025-32433](https://github.com/ps-interactive/lab_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_CVE-2025-32433">
+- [TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243)	<img alt="forks" src="https://img.shields.io/github/forks/TeneBrae93/CVE-2025-3243">	<img alt="stars" src="https://img.shields.io/github/stars/TeneBrae93/CVE-2025-3243">
 
 ---
 ## CVE-2025-3243 ()
