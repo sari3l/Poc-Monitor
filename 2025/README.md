@@ -435,6 +435,7 @@
 - [4m3rr0r/CVE-2025-30208-PoC](https://github.com/4m3rr0r/CVE-2025-30208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2025-30208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2025-30208-PoC">
 - [lilil3333/Vite-CVE-2025-30208-EXP](https://github.com/lilil3333/Vite-CVE-2025-30208-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/lilil3333/Vite-CVE-2025-30208-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/lilil3333/Vite-CVE-2025-30208-EXP">
 - [imbas007/CVE-2025-30208-template](https://github.com/imbas007/CVE-2025-30208-template)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-30208-template">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-30208-template">
+- [r0ngy40/CVE-2025-30208-Series](https://github.com/r0ngy40/CVE-2025-30208-Series)	<img alt="forks" src="https://img.shields.io/github/forks/r0ngy40/CVE-2025-30208-Series">	<img alt="stars" src="https://img.shields.io/github/stars/r0ngy40/CVE-2025-30208-Series">
 
 ---
 ## CVE-2025-30144 ()
