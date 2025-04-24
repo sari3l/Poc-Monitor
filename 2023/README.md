@@ -4056,6 +4056,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 > An issue was discovered in the Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.
 - [ChriSanders22/CVE-2023-35829-poc](https://github.com/ChriSanders22/CVE-2023-35829-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ChriSanders22/CVE-2023-35829-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ChriSanders22/CVE-2023-35829-poc">
 - [apkc/CVE-2023-35829-poc](https://github.com/apkc/CVE-2023-35829-poc)	<img alt="forks" src="https://img.shields.io/github/forks/apkc/CVE-2023-35829-poc">	<img alt="stars" src="https://img.shields.io/github/stars/apkc/CVE-2023-35829-poc">
+- [JIYUN02/CVE-2023-35829](https://github.com/JIYUN02/CVE-2023-35829)	<img alt="forks" src="https://img.shields.io/github/forks/JIYUN02/CVE-2023-35829">	<img alt="stars" src="https://img.shields.io/github/stars/JIYUN02/CVE-2023-35829">
 
 ---
 ## CVE-2023-35828 (2023-06-18T22:15:00)
