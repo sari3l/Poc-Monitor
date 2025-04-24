@@ -3421,6 +3421,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [KTN1990/CVE-2024-42640](https://github.com/KTN1990/CVE-2024-42640)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-42640">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-42640">
 
 ---
+## CVE-2024-42471 ()
+> 
+- [theMcSam/CVE-2024-42471-PoC](https://github.com/theMcSam/CVE-2024-42471-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theMcSam/CVE-2024-42471-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theMcSam/CVE-2024-42471-PoC">
+
+---
 ## CVE-2024-42461 (2024-08-02T07:16:00)
 > In the Elliptic package 6.5.6 for Node.js, ECDSA signature malleability occurs because BER-encoded signatures are allowed.
 - [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2024-42461">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2024-42461">
