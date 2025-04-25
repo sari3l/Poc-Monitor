@@ -2675,6 +2675,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [apt0factury/CVE-2023-41064](https://github.com/apt0factury/CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-41064">
 - [MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064](https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064">
 - [MrR0b0t19/CVE-2023-41064](https://github.com/MrR0b0t19/CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2023-41064">
+- [K4Der11000/k4_cve-2023-41064](https://github.com/K4Der11000/k4_cve-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/K4Der11000/k4_cve-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/K4Der11000/k4_cve-2023-41064">
+- [sarsaeroth/CVE-2023-41064-POC](https://github.com/sarsaeroth/CVE-2023-41064-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sarsaeroth/CVE-2023-41064-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sarsaeroth/CVE-2023-41064-POC">
 
 ---
 ## CVE-2023-41015 (2024-03-07T09:15:00)
