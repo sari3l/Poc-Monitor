@@ -5112,6 +5112,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [truonghuuphuc/CVE-2024-3293-Poc](https://github.com/truonghuuphuc/CVE-2024-3293-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3293-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3293-Poc">
 
 ---
+## CVE-2024-32830 ()
+> 
+- [ptrstr/CVE-2024-32830-poc](https://github.com/ptrstr/CVE-2024-32830-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ptrstr/CVE-2024-32830-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ptrstr/CVE-2024-32830-poc">
+
+---
 ## CVE-2024-32766 (2024-04-26T15:15:00)
 > An OS command injection vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow users to execute commands via a network.
 
