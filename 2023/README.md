@@ -5203,6 +5203,7 @@ Fixed in version 6.4.1.
 
 This happens because vulnerable versions of Flask only set the `Vary: Cookie` header when the session is accessed or modified, not when it is refreshed (re-sent to update the expiration) without being accessed or modified. This issue has been fixed in versions 2.3.2 and 2.2.5.
 - [JawadPy/CVE-2023-30861-Exploit](https://github.com/JawadPy/CVE-2023-30861-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-30861-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-30861-Exploit">
+- [fromitive/cve-2023-30861-poc](https://github.com/fromitive/cve-2023-30861-poc)	<img alt="forks" src="https://img.shields.io/github/forks/fromitive/cve-2023-30861-poc">	<img alt="stars" src="https://img.shields.io/github/stars/fromitive/cve-2023-30861-poc">
 
 ---
 ## CVE-2023-30854 (2023-04-28T16:15:00)
