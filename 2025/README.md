@@ -335,6 +335,11 @@
 - [Ly4j/CVE-2025-31486](https://github.com/Ly4j/CVE-2025-31486)	<img alt="forks" src="https://img.shields.io/github/forks/Ly4j/CVE-2025-31486">	<img alt="stars" src="https://img.shields.io/github/stars/Ly4j/CVE-2025-31486">
 
 ---
+## CVE-2025-31324 ()
+> 
+- [rxerium/CVE-2025-31324](https://github.com/rxerium/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-31324">
+
+---
 ## CVE-2025-31161 ()
 > 
 - [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/CVE-2025-31161">

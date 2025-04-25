@@ -1774,6 +1774,9 @@
 - [Eremiel/CVE-2018-0114](https://github.com/Eremiel/CVE-2018-0114)	<img alt="forks" src="https://img.shields.io/github/forks/Eremiel/CVE-2018-0114">	<img alt="stars" src="https://img.shields.io/github/stars/Eremiel/CVE-2018-0114">
 - [Logeirs/CVE-2018-0114](https://github.com/Logeirs/CVE-2018-0114)	<img alt="forks" src="https://img.shields.io/github/forks/Logeirs/CVE-2018-0114">	<img alt="stars" src="https://img.shields.io/github/stars/Logeirs/CVE-2018-0114">
 - [sealldeveloper/CVE-2018-0114-PoC](https://github.com/sealldeveloper/CVE-2018-0114-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sealldeveloper/CVE-2018-0114-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sealldeveloper/CVE-2018-0114-PoC">
+- [z-bool/Venom-JWT](https://github.com/z-bool/Venom-JWT)	<img alt="forks" src="https://img.shields.io/github/forks/z-bool/Venom-JWT">	<img alt="stars" src="https://img.shields.io/github/stars/z-bool/Venom-JWT">
+- [amr9k8/jwt-spoof-tool](https://github.com/amr9k8/jwt-spoof-tool)	<img alt="forks" src="https://img.shields.io/github/forks/amr9k8/jwt-spoof-tool">	<img alt="stars" src="https://img.shields.io/github/stars/amr9k8/jwt-spoof-tool">
+- [Pandora-research/CVE-2018-0114-Exploit](https://github.com/Pandora-research/CVE-2018-0114-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Pandora-research/CVE-2018-0114-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Pandora-research/CVE-2018-0114-Exploit">
 
 ---
 ## CVE-2018-0101 (2018-01-29T20:29:00)
