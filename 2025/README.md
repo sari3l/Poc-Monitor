@@ -270,7 +270,7 @@
 - [0xPThree/cve-2025-32433](https://github.com/0xPThree/cve-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/cve-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/cve-2025-32433">
 - [meloppeitreet/CVE-2025-32433-Remote-Shell](https://github.com/meloppeitreet/CVE-2025-32433-Remote-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/meloppeitreet/CVE-2025-32433-Remote-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/meloppeitreet/CVE-2025-32433-Remote-Shell">
 - [SDX442/CVE-2025-32433](https://github.com/SDX442/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/SDX442/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/SDX442/CVE-2025-32433">
-- [tobiasGuta/Erlang-OTP-CVE-2025-32433](https://github.com/tobiasGuta/Erlang-OTP-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/Erlang-OTP-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/Erlang-OTP-CVE-2025-32433">
+- [tobiasGuta/custom-pocs](https://github.com/tobiasGuta/custom-pocs)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/custom-pocs">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/custom-pocs">
 - [ps-interactive/lab_CVE-2025-32433](https://github.com/ps-interactive/lab_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_CVE-2025-32433">
 - [TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243)	<img alt="forks" src="https://img.shields.io/github/forks/TeneBrae93/CVE-2025-3243">	<img alt="stars" src="https://img.shields.io/github/stars/TeneBrae93/CVE-2025-3243">
 - [rizky412/CVE-2025-32433](https://github.com/rizky412/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/rizky412/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/rizky412/CVE-2025-32433">
@@ -388,6 +388,7 @@
 - [dennisec/CVE-2025-3102](https://github.com/dennisec/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2025-3102">
 - [SUPRAAA-1337/CVE-2025-3102_v2](https://github.com/SUPRAAA-1337/CVE-2025-3102_v2)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102_v2">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102_v2">
 - [SUPRAAA-1337/CVE-2025-3102](https://github.com/SUPRAAA-1337/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102">
+- [SUPRAAA-1337/CVE-2025-3102-exploit](https://github.com/SUPRAAA-1337/CVE-2025-3102-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102-exploit">
 
 ---
 ## CVE-2025-30967 ()
