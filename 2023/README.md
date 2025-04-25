@@ -7918,6 +7918,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [HarshRajSinghania/CVE-2023-1545-Exploit](https://github.com/HarshRajSinghania/CVE-2023-1545-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/CVE-2023-1545-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/CVE-2023-1545-Exploit">
 - [zer0-dave/CVE-2023-1545-POC](https://github.com/zer0-dave/CVE-2023-1545-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zer0-dave/CVE-2023-1545-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zer0-dave/CVE-2023-1545-POC">
 - [sternstundes/CVE-2023-1545-POC-python](https://github.com/sternstundes/CVE-2023-1545-POC-python)	<img alt="forks" src="https://img.shields.io/github/forks/sternstundes/CVE-2023-1545-POC-python">	<img alt="stars" src="https://img.shields.io/github/stars/sternstundes/CVE-2023-1545-POC-python">
+- [gunzf0x/CVE-2023-1545](https://github.com/gunzf0x/CVE-2023-1545)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2023-1545">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2023-1545">
 
 ---
 ## CVE-2023-1521 (2024-11-26T12:15:00)
