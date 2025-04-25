@@ -757,6 +757,7 @@
 - [Alejandro-MartinG/rails-PoC-CVE-2016-2098](https://github.com/Alejandro-MartinG/rails-PoC-CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/Alejandro-MartinG/rails-PoC-CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/Alejandro-MartinG/rails-PoC-CVE-2016-2098">
 - [CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42](https://github.com/CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42)	<img alt="forks" src="https://img.shields.io/github/forks/CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42">	<img alt="stars" src="https://img.shields.io/github/stars/CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42">
 - [hderms/dh-CVE_2016_2098](https://github.com/hderms/dh-CVE_2016_2098)	<img alt="forks" src="https://img.shields.io/github/forks/hderms/dh-CVE_2016_2098">	<img alt="stars" src="https://img.shields.io/github/stars/hderms/dh-CVE_2016_2098">
+- [sealldeveloper/CVE-2016-2098-PoC](https://github.com/sealldeveloper/CVE-2016-2098-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sealldeveloper/CVE-2016-2098-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sealldeveloper/CVE-2016-2098-PoC">
 
 ---
 ## CVE-2016-2004 (2016-04-21T11:00:00)
