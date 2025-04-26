@@ -396,6 +396,11 @@
 - [Live-Hack-CVE/CVE-2020-7862](https://github.com/Live-Hack-CVE/CVE-2020-7862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7862">
 
 ---
+## CVE-2020-7842 ()
+> 
+- [GangTaegyeong/CVE-2020-7842](https://github.com/GangTaegyeong/CVE-2020-7842)	<img alt="forks" src="https://img.shields.io/github/forks/GangTaegyeong/CVE-2020-7842">	<img alt="stars" src="https://img.shields.io/github/stars/GangTaegyeong/CVE-2020-7842">
+
+---
 ## CVE-2020-7791 (2020-12-11T17:15:00)
 > This affects the package i18n before 2.1.15. Vulnerability arises out of insufficient handling of erroneous language tags in src/i18n/Concrete/TextLocalizer.cs and src/i18n/LocalizedApplication.cs.
 - [Live-Hack-CVE/CVE-2020-7791](https://github.com/Live-Hack-CVE/CVE-2020-7791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7791">
