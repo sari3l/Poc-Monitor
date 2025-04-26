@@ -6602,6 +6602,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2024-27815">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2024-27815">
 
 ---
+## CVE-2024-27808 ()
+> 
+- [Leandrobts/CVE-2024-27808.github.io](https://github.com/Leandrobts/CVE-2024-27808.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Leandrobts/CVE-2024-27808.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Leandrobts/CVE-2024-27808.github.io">
+
+---
 ## CVE-2024-27804 (2024-05-14T15:13:00)
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 17.5 and iPadOS 17.5, tvOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
 - [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804)	<img alt="forks" src="https://img.shields.io/github/forks/R00tkitSMM/CVE-2024-27804">	<img alt="stars" src="https://img.shields.io/github/stars/R00tkitSMM/CVE-2024-27804">
