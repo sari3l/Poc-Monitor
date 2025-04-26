@@ -5521,6 +5521,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [jmywh1/CVE-2024-31317](https://github.com/jmywh1/CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/jmywh1/CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/jmywh1/CVE-2024-31317">
 - [Webldix/CVE-2024-31317-PoC-Deployer](https://github.com/Webldix/CVE-2024-31317-PoC-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/Webldix/CVE-2024-31317-PoC-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/Webldix/CVE-2024-31317-PoC-Deployer">
 - [Anonymous941/zygote-injection-toolkit](https://github.com/Anonymous941/zygote-injection-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/Anonymous941/zygote-injection-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/Anonymous941/zygote-injection-toolkit">
+- [agg23/cve-2024-31317](https://github.com/agg23/cve-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/agg23/cve-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/agg23/cve-2024-31317">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
