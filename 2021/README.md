@@ -2309,6 +2309,7 @@
 - [ashique-thaha/CVE-2021-41773-POC](https://github.com/ashique-thaha/CVE-2021-41773-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ashique-thaha/CVE-2021-41773-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ashique-thaha/CVE-2021-41773-POC">
 - [khaidtraivch/CVE-2021-41773-Apache-2.4.49-](https://github.com/khaidtraivch/CVE-2021-41773-Apache-2.4.49-)	<img alt="forks" src="https://img.shields.io/github/forks/khaidtraivch/CVE-2021-41773-Apache-2.4.49-">	<img alt="stars" src="https://img.shields.io/github/stars/khaidtraivch/CVE-2021-41773-Apache-2.4.49-">
 - [JIYUN02/cve-2021-41773](https://github.com/JIYUN02/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/JIYUN02/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/JIYUN02/cve-2021-41773">
+- [ZephrFish/CVE-2021-41773-PoC](https://github.com/ZephrFish/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-41773-PoC">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -6936,7 +6937,7 @@
 ---
 ## CVE-2021-26855 (2021-03-03T00:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.
-- [raheel0x01/CVE-2021-26855](https://github.com/raheel0x01/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2021-26855">
+- [r0xdeadbeef/CVE-2021-26855](https://github.com/r0xdeadbeef/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/r0xdeadbeef/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/r0xdeadbeef/CVE-2021-26855">
 - [kh4sh3i/ProxyLogon](https://github.com/kh4sh3i/ProxyLogon)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/ProxyLogon">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/ProxyLogon">
 - [TheDudeD6/ExchangeSmash](https://github.com/TheDudeD6/ExchangeSmash)	<img alt="forks" src="https://img.shields.io/github/forks/TheDudeD6/ExchangeSmash">	<img alt="stars" src="https://img.shields.io/github/stars/TheDudeD6/ExchangeSmash">
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
@@ -6968,12 +6969,13 @@
 - [sotiriskar/CVE-2021-26855](https://github.com/sotiriskar/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/sotiriskar/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/sotiriskar/CVE-2021-26855">
 - [ZephrFish/Exch-CVE-2021-26855_Priv](https://github.com/ZephrFish/Exch-CVE-2021-26855_Priv)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Exch-CVE-2021-26855_Priv">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Exch-CVE-2021-26855_Priv">
 - [catmandx/CVE-2021-26855-Exchange-RCE](https://github.com/catmandx/CVE-2021-26855-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/catmandx/CVE-2021-26855-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/catmandx/CVE-2021-26855-Exchange-RCE">
-- [MacAsure/cve-2021-26855](https://github.com/MacAsure/cve-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/MacAsure/cve-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/MacAsure/cve-2021-26855">
+- [ShyTangerine/cve-2021-26855](https://github.com/ShyTangerine/cve-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/ShyTangerine/cve-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/ShyTangerine/cve-2021-26855">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 - [ssrsec/Microsoft-Exchange-RCE](https://github.com/ssrsec/Microsoft-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ssrsec/Microsoft-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ssrsec/Microsoft-Exchange-RCE">
 - [timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt](https://github.com/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt">
 - [WiredPulse/Invoke-HAFNIUMCheck.ps1](https://github.com/WiredPulse/Invoke-HAFNIUMCheck.ps1)	<img alt="forks" src="https://img.shields.io/github/forks/WiredPulse/Invoke-HAFNIUMCheck.ps1">	<img alt="stars" src="https://img.shields.io/github/stars/WiredPulse/Invoke-HAFNIUMCheck.ps1">
 - [glen-pearson/ProxyLogon-CVE-2021-26855](https://github.com/glen-pearson/ProxyLogon-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/glen-pearson/ProxyLogon-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/glen-pearson/ProxyLogon-CVE-2021-26855">
+- [ZephrFish/Exch-CVE-2021-26855](https://github.com/ZephrFish/Exch-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Exch-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Exch-CVE-2021-26855">
 
 ---
 ## CVE-2021-26828 ()
