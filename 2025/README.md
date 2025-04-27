@@ -43,6 +43,11 @@
 - [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-492025">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-492025">
 
 ---
+## CVE-2025-46657 ()
+> 
+- [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657)	<img alt="forks" src="https://img.shields.io/github/forks/nov-1337/CVE-2025-46657">	<img alt="stars" src="https://img.shields.io/github/stars/nov-1337/CVE-2025-46657">
+
+---
 ## CVE-2025-442025 ()
 > 
 - [joey-melo/CVE-2025-442025](https://github.com/joey-melo/CVE-2025-442025)	<img alt="forks" src="https://img.shields.io/github/forks/joey-melo/CVE-2025-442025">	<img alt="stars" src="https://img.shields.io/github/stars/joey-melo/CVE-2025-442025">
@@ -276,6 +281,7 @@
 - [rizky412/CVE-2025-32433](https://github.com/rizky412/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/rizky412/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/rizky412/CVE-2025-32433">
 - [0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-32433">
 - [becrevex/CVE-2025-32433](https://github.com/becrevex/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2025-32433">
+- [MrDreamReal/CVE-2025-32433](https://github.com/MrDreamReal/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/MrDreamReal/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/MrDreamReal/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
