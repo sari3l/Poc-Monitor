@@ -195,6 +195,7 @@
 ## CVE-2025-3914 ()
 > 
 - [LvL23HT/PoC-CVE-2025-3914-FileUpload-Vulnerability](https://github.com/LvL23HT/PoC-CVE-2025-3914-FileUpload-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/LvL23HT/PoC-CVE-2025-3914-FileUpload-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/LvL23HT/PoC-CVE-2025-3914-FileUpload-Vulnerability">
+- [LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload](https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload)	<img alt="forks" src="https://img.shields.io/github/forks/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload">	<img alt="stars" src="https://img.shields.io/github/stars/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload">
 
 ---
 ## CVE-2025-3776 ()
