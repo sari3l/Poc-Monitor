@@ -299,6 +299,7 @@
 > 
 - [Chocapikk/CVE-2025-32432](https://github.com/Chocapikk/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-32432">
 - [Sachinart/CVE-2025-32432](https://github.com/Sachinart/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2025-32432">
+- [ibrahimsql/CVE-2025-32432](https://github.com/ibrahimsql/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/CVE-2025-32432">
 
 ---
 ## CVE-2025-3243 ()
