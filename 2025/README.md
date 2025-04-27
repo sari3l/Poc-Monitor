@@ -1124,6 +1124,7 @@
 - [Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE](https://github.com/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">
 - [Mattb709/CVE-2025-24813-Scanner](https://github.com/Mattb709/CVE-2025-24813-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-Scanner">
 - [Erosion2020/CVE-2025-24813-vulhub](https://github.com/Erosion2020/CVE-2025-24813-vulhub)	<img alt="forks" src="https://img.shields.io/github/forks/Erosion2020/CVE-2025-24813-vulhub">	<img alt="stars" src="https://img.shields.io/github/stars/Erosion2020/CVE-2025-24813-vulhub">
+- [hakankarabacak/CVE-2025-24813](https://github.com/hakankarabacak/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/hakankarabacak/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/hakankarabacak/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
