@@ -77,6 +77,11 @@
 - [cybersecplayground/CVE-2025-43919-POC](https://github.com/cybersecplayground/CVE-2025-43919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecplayground/CVE-2025-43919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecplayground/CVE-2025-43919-POC">
 
 ---
+## CVE-2025-43865 ()
+> 
+- [pouriam23/Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865](https://github.com/pouriam23/Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865">
+
+---
 ## CVE-2025-43864 ()
 > 
 - [pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-](https://github.com/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-">
