@@ -163,6 +163,11 @@
 - [TieuLong21Prosper/Detect-CVE-2017-8464](https://github.com/TieuLong21Prosper/Detect-CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/TieuLong21Prosper/Detect-CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/TieuLong21Prosper/Detect-CVE-2017-8464">
 
 ---
+## CVE-2017-8291 ()
+> 
+- [shun1403/CVE-2017-8291](https://github.com/shun1403/CVE-2017-8291)	<img alt="forks" src="https://img.shields.io/github/forks/shun1403/CVE-2017-8291">	<img alt="stars" src="https://img.shields.io/github/stars/shun1403/CVE-2017-8291">
+
+---
 ## CVE-2017-8225 (2017-04-25T20:59:00)
 > On Wireless IP Camera (P2P) WIFICAM devices, access to .ini files (containing credentials) is not correctly checked. An attacker can bypass authentication by providing an empty loginuse parameter and an empty loginpas parameter in the URI.
 - [K3ysTr0K3R/CVE-2017-8225-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-8225-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-8225-EXPLOIT">
