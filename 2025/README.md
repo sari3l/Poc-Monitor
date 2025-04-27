@@ -372,6 +372,7 @@
 > 
 - [rxerium/CVE-2025-31324](https://github.com/rxerium/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-31324">
 - [redrays-io/CVE-2025-31324](https://github.com/redrays-io/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2025-31324">
+- [Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools](https://github.com/Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools)	<img alt="forks" src="https://img.shields.io/github/forks/Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools">	<img alt="stars" src="https://img.shields.io/github/stars/Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools">
 
 ---
 ## CVE-2025-31161 ()
