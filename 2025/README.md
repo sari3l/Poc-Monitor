@@ -77,6 +77,11 @@
 - [cybersecplayground/CVE-2025-43919-POC](https://github.com/cybersecplayground/CVE-2025-43919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecplayground/CVE-2025-43919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecplayground/CVE-2025-43919-POC">
 
 ---
+## CVE-2025-43864 ()
+> 
+- [pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-](https://github.com/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-">
+
+---
 ## CVE-2025-42599 ()
 > 
 - [bronsoneaver/CVE-2025-42599](https://github.com/bronsoneaver/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-42599">
