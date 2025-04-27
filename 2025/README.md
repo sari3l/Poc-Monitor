@@ -364,6 +364,7 @@
 ## CVE-2025-31324 ()
 > 
 - [rxerium/CVE-2025-31324](https://github.com/rxerium/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-31324">
+- [redrays-io/CVE-2025-31324](https://github.com/redrays-io/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2025-31324">
 
 ---
 ## CVE-2025-31161 ()
