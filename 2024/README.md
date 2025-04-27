@@ -5478,6 +5478,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [HugoBond/CVE-2024-31497-POC](https://github.com/HugoBond/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HugoBond/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HugoBond/CVE-2024-31497-POC">
 
 ---
+## CVE-2024-31449 ()
+> 
+- [daeseong1209/CVE-2024-31449](https://github.com/daeseong1209/CVE-2024-31449)	<img alt="forks" src="https://img.shields.io/github/forks/daeseong1209/CVE-2024-31449">	<img alt="stars" src="https://img.shields.io/github/stars/daeseong1209/CVE-2024-31449">
+
+---
 ## CVE-2024-31380 (2024-04-03T12:15:00)
 > Improper Control of Generation of Code ('Code Injection') vulnerability in Soflyy Oxygen Builder allows Code Injection.This issue affects Oxygen Builder: from n/a through 4.8.2.
 
