@@ -534,6 +534,7 @@
 - [ron-imperva/CVE-2025-30065-PoC](https://github.com/ron-imperva/CVE-2025-30065-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ron-imperva/CVE-2025-30065-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ron-imperva/CVE-2025-30065-PoC">
 - [mouadk/parquet-rce-poc-CVE-2025-30065](https://github.com/mouadk/parquet-rce-poc-CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/parquet-rce-poc-CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/parquet-rce-poc-CVE-2025-30065">
 - [ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation](https://github.com/ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation">
+- [F5-Labs/parquet-canary-exploit-rce-poc-CVE-2025-30065](https://github.com/F5-Labs/parquet-canary-exploit-rce-poc-CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/F5-Labs/parquet-canary-exploit-rce-poc-CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/F5-Labs/parquet-canary-exploit-rce-poc-CVE-2025-30065">
 
 ---
 ## CVE-2025-29972 ()
