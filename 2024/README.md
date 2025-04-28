@@ -3788,6 +3788,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40110 (2024-07-12T17:15:00)
 > Sourcecodester Poultry Farm Management System v1.0 contains an Unauthenticated Remote Code Execution (RCE) vulnerability via the productimage parameter at /farm/product.php.
 - [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-40110">
+- [thiagosmith/CVE-2024-40110](https://github.com/thiagosmith/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/thiagosmith/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/thiagosmith/CVE-2024-40110">
 
 ---
 ## CVE-2024-40094 ()
