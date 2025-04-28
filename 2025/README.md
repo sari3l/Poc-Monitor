@@ -383,6 +383,7 @@
 - [moften/CVE-2025-31324-NUCLEI](https://github.com/moften/CVE-2025-31324-NUCLEI)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-31324-NUCLEI">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-31324-NUCLEI">
 - [moften/CVE-2025-31324](https://github.com/moften/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-31324">
 - [Alizngnc/SAP-CVE-2025-31324](https://github.com/Alizngnc/SAP-CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Alizngnc/SAP-CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Alizngnc/SAP-CVE-2025-31324">
+- [ODST-Forge/CVE-2025-31324_PoC](https://github.com/ODST-Forge/CVE-2025-31324_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ODST-Forge/CVE-2025-31324_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ODST-Forge/CVE-2025-31324_PoC">
 
 ---
 ## CVE-2025-31161 ()
