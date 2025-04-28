@@ -5945,6 +5945,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [dream434/CVE-2023-27372](https://github.com/dream434/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/CVE-2023-27372">
 - [1amthebest1/CVE-2023-27372](https://github.com/1amthebest1/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/1amthebest1/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/1amthebest1/CVE-2023-27372">
 - [inviewp/CVE-2023-27372](https://github.com/inviewp/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/inviewp/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/inviewp/CVE-2023-27372">
+- [1Ronkkeli/spip-cve-2023-27372-rce](https://github.com/1Ronkkeli/spip-cve-2023-27372-rce)	<img alt="forks" src="https://img.shields.io/github/forks/1Ronkkeli/spip-cve-2023-27372-rce">	<img alt="stars" src="https://img.shields.io/github/stars/1Ronkkeli/spip-cve-2023-27372-rce">
 
 ---
 ## CVE-2023-27363 (2024-05-03T02:15:00)
