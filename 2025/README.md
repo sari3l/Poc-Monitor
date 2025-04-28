@@ -304,6 +304,7 @@
 - [0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-32433">
 - [becrevex/CVE-2025-32433](https://github.com/becrevex/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2025-32433">
 - [MrDreamReal/CVE-2025-32433](https://github.com/MrDreamReal/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/MrDreamReal/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/MrDreamReal/CVE-2025-32433">
+- [Know56/CVE-2025-32433](https://github.com/Know56/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Know56/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Know56/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
