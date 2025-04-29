@@ -650,6 +650,7 @@
 - [Hirainsingadia/CVE-2025-29927](https://github.com/Hirainsingadia/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Hirainsingadia/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Hirainsingadia/CVE-2025-29927">
 - [hed1ad/CVE-2025-29927](https://github.com/hed1ad/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/hed1ad/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/hed1ad/CVE-2025-29927">
 - [HoumanPashaei/CVE-2025-29927](https://github.com/HoumanPashaei/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/HoumanPashaei/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/HoumanPashaei/CVE-2025-29927">
+- [rubbxalc/CVE-2025-29927](https://github.com/rubbxalc/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
