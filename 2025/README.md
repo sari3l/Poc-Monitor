@@ -43,6 +43,11 @@
 - [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-492025">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-492025">
 
 ---
+## CVE-2025-46701 ()
+> 
+- [gregk4sec/CVE-2025-46701](https://github.com/gregk4sec/CVE-2025-46701)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-46701">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-46701">
+
+---
 ## CVE-2025-46657 ()
 > 
 - [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657)	<img alt="forks" src="https://img.shields.io/github/forks/nov-1337/CVE-2025-46657">	<img alt="stars" src="https://img.shields.io/github/stars/nov-1337/CVE-2025-46657">
@@ -384,6 +389,7 @@
 - [moften/CVE-2025-31324](https://github.com/moften/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-31324">
 - [Alizngnc/SAP-CVE-2025-31324](https://github.com/Alizngnc/SAP-CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Alizngnc/SAP-CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Alizngnc/SAP-CVE-2025-31324">
 - [ODST-Forge/CVE-2025-31324_PoC](https://github.com/ODST-Forge/CVE-2025-31324_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ODST-Forge/CVE-2025-31324_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ODST-Forge/CVE-2025-31324_PoC">
+- [abrewer251/CVE-2025-31324_PoC_SAP](https://github.com/abrewer251/CVE-2025-31324_PoC_SAP)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-31324_PoC_SAP">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-31324_PoC_SAP">
 
 ---
 ## CVE-2025-31161 ()
