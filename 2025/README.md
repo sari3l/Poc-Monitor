@@ -960,6 +960,11 @@
 - [rohan-pt/CVE-2025-26054](https://github.com/rohan-pt/CVE-2025-26054)	<img alt="forks" src="https://img.shields.io/github/forks/rohan-pt/CVE-2025-26054">	<img alt="stars" src="https://img.shields.io/github/stars/rohan-pt/CVE-2025-26054">
 
 ---
+## CVE-2025-26014 ()
+> 
+- [vigilante-1337/CVE-2025-26014](https://github.com/vigilante-1337/CVE-2025-26014)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2025-26014">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2025-26014">
+
+---
 ## CVE-2025-25979 ()
 > 
 - [padayali-JD/CVE-2025-25979](https://github.com/padayali-JD/CVE-2025-25979)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2025-25979">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2025-25979">
