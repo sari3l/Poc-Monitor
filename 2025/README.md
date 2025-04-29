@@ -311,6 +311,7 @@
 - [MrDreamReal/CVE-2025-32433](https://github.com/MrDreamReal/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/MrDreamReal/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/MrDreamReal/CVE-2025-32433">
 - [Know56/CVE-2025-32433](https://github.com/Know56/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Know56/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Know56/CVE-2025-32433">
 - [abrewer251/CVE-2025-32433_Erlang-OTP](https://github.com/abrewer251/CVE-2025-32433_Erlang-OTP)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-32433_Erlang-OTP">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-32433_Erlang-OTP">
+- [ODST-Forge/CVE-2025-32433](https://github.com/ODST-Forge/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ODST-Forge/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ODST-Forge/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
