@@ -1218,6 +1218,11 @@
 - [ifpdz/CVE-2025-24104](https://github.com/ifpdz/CVE-2025-24104)	<img alt="forks" src="https://img.shields.io/github/forks/ifpdz/CVE-2025-24104">	<img alt="stars" src="https://img.shields.io/github/stars/ifpdz/CVE-2025-24104">
 
 ---
+## CVE-2025-24091 ()
+> 
+- [cyruscostini/CVE-2025-24091](https://github.com/cyruscostini/CVE-2025-24091)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-24091">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-24091">
+
+---
 ## CVE-2025-24085 ()
 > 
 - [clidanc/CVE-2025-24085](https://github.com/clidanc/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/clidanc/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/clidanc/CVE-2025-24085">
