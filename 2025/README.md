@@ -390,6 +390,7 @@
 - [Alizngnc/SAP-CVE-2025-31324](https://github.com/Alizngnc/SAP-CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Alizngnc/SAP-CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Alizngnc/SAP-CVE-2025-31324">
 - [ODST-Forge/CVE-2025-31324_PoC](https://github.com/ODST-Forge/CVE-2025-31324_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ODST-Forge/CVE-2025-31324_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ODST-Forge/CVE-2025-31324_PoC">
 - [abrewer251/CVE-2025-31324_PoC_SAP](https://github.com/abrewer251/CVE-2025-31324_PoC_SAP)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-31324_PoC_SAP">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-31324_PoC_SAP">
+- [Pengrey/CVE-2025-31324](https://github.com/Pengrey/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Pengrey/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Pengrey/CVE-2025-31324">
 
 ---
 ## CVE-2025-31161 ()
