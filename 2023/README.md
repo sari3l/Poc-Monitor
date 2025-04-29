@@ -4933,6 +4933,7 @@ Fixed in version 6.4.1.
 - [manavvedawala/CVE-2023-32243-proof-of-concept](https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/manavvedawala/CVE-2023-32243-proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/manavvedawala/CVE-2023-32243-proof-of-concept">
 - [Jenderal92/WP-CVE-2023-32243](https://github.com/Jenderal92/WP-CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-32243">
 - [shaoyu521/Mass-CVE-2023-32243](https://github.com/shaoyu521/Mass-CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/shaoyu521/Mass-CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/shaoyu521/Mass-CVE-2023-32243">
+- [dev0558/CVE-2023-32243-Detection-and-Mitigation-in-WordPress](https://github.com/dev0558/CVE-2023-32243-Detection-and-Mitigation-in-WordPress)	<img alt="forks" src="https://img.shields.io/github/forks/dev0558/CVE-2023-32243-Detection-and-Mitigation-in-WordPress">	<img alt="stars" src="https://img.shields.io/github/stars/dev0558/CVE-2023-32243-Detection-and-Mitigation-in-WordPress">
 
 ---
 ## CVE-2023-32235 (2023-05-05T05:15:00)
