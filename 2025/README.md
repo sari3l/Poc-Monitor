@@ -1428,6 +1428,7 @@
 ## CVE-2025-21756 ()
 > 
 - [hoefler02/CVE-2025-21756](https://github.com/hoefler02/CVE-2025-21756)	<img alt="forks" src="https://img.shields.io/github/forks/hoefler02/CVE-2025-21756">	<img alt="stars" src="https://img.shields.io/github/stars/hoefler02/CVE-2025-21756">
+- [mr-spongebob/CVE-2025-21756](https://github.com/mr-spongebob/CVE-2025-21756)	<img alt="forks" src="https://img.shields.io/github/forks/mr-spongebob/CVE-2025-21756">	<img alt="stars" src="https://img.shields.io/github/stars/mr-spongebob/CVE-2025-21756">
 
 ---
 ## CVE-2025-21624 ()
