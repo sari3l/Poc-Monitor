@@ -95,6 +95,7 @@
 ## CVE-2025-42599 ()
 > 
 - [bronsoneaver/CVE-2025-42599](https://github.com/bronsoneaver/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-42599">
+- [cyruscostini/CVE-2025-42599](https://github.com/cyruscostini/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-42599">
 
 ---
 ## CVE-2025-422031 ()
@@ -410,6 +411,7 @@
 - [BlueOWL-overlord/Burp_CVE-2025-31324](https://github.com/BlueOWL-overlord/Burp_CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/BlueOWL-overlord/Burp_CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/BlueOWL-overlord/Burp_CVE-2025-31324">
 - [nullcult/CVE-2025-31324-File-Upload](https://github.com/nullcult/CVE-2025-31324-File-Upload)	<img alt="forks" src="https://img.shields.io/github/forks/nullcult/CVE-2025-31324-File-Upload">	<img alt="stars" src="https://img.shields.io/github/stars/nullcult/CVE-2025-31324-File-Upload">
 - [respondiq/jsp-webshell-scanner](https://github.com/respondiq/jsp-webshell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/respondiq/jsp-webshell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/respondiq/jsp-webshell-scanner">
+- [JonathanStross/CVE-2025-31324](https://github.com/JonathanStross/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/JonathanStross/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/JonathanStross/CVE-2025-31324">
 
 ---
 ## CVE-2025-31161 ()
