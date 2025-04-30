@@ -3653,6 +3653,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658">
 
 ---
+## CVE-2024-40635 ()
+> 
+- [yen5004/CVE-2024-40635_POC](https://github.com/yen5004/CVE-2024-40635_POC)	<img alt="forks" src="https://img.shields.io/github/forks/yen5004/CVE-2024-40635_POC">	<img alt="stars" src="https://img.shields.io/github/stars/yen5004/CVE-2024-40635_POC">
+
+---
 ## CVE-2024-40617 (2024-07-17T09:15:00)
 > Path traversal vulnerability exists in FUJITSU Network Edgiot GW1500 (M2M-GW for FENICS). If a remote authenticated attacker with User Class privilege sends a specially crafted request to the affected product, access restricted files containing sensitive information may be accessed. As a result, Administrator Class privileges of the product may be hijacked.
 - [KyssK00L/CVE-2024-40617](https://github.com/KyssK00L/CVE-2024-40617)	<img alt="forks" src="https://img.shields.io/github/forks/KyssK00L/CVE-2024-40617">	<img alt="stars" src="https://img.shields.io/github/stars/KyssK00L/CVE-2024-40617">
