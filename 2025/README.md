@@ -376,6 +376,11 @@
 - [gregk4sec/CVE-2025-31651](https://github.com/gregk4sec/CVE-2025-31651)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-31651">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-31651">
 
 ---
+## CVE-2025-31650 ()
+> 
+- [absholi7ly/TomcatKiller-CVE-2025-31650](https://github.com/absholi7ly/TomcatKiller-CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/TomcatKiller-CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/TomcatKiller-CVE-2025-31650">
+
+---
 ## CVE-2025-31486 ()
 > 
 - [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-31486-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-31486-PoC">
