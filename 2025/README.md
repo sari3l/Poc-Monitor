@@ -669,6 +669,7 @@
 ## CVE-2025-29775 ()
 > 
 - [ethicalPap/CVE-2025-29775](https://github.com/ethicalPap/CVE-2025-29775)	<img alt="forks" src="https://img.shields.io/github/forks/ethicalPap/CVE-2025-29775">	<img alt="stars" src="https://img.shields.io/github/stars/ethicalPap/CVE-2025-29775">
+- [twypsy/cve-2025-29775](https://github.com/twypsy/cve-2025-29775)	<img alt="forks" src="https://img.shields.io/github/forks/twypsy/cve-2025-29775">	<img alt="stars" src="https://img.shields.io/github/stars/twypsy/cve-2025-29775">
 
 ---
 ## CVE-2025-29722 ()
