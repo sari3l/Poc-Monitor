@@ -403,6 +403,7 @@
 - [abrewer251/CVE-2025-31324_PoC_SAP](https://github.com/abrewer251/CVE-2025-31324_PoC_SAP)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-31324_PoC_SAP">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-31324_PoC_SAP">
 - [Pengrey/CVE-2025-31324](https://github.com/Pengrey/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Pengrey/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Pengrey/CVE-2025-31324">
 - [BlueOWL-overlord/Burp_CVE-2025-31324](https://github.com/BlueOWL-overlord/Burp_CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/BlueOWL-overlord/Burp_CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/BlueOWL-overlord/Burp_CVE-2025-31324">
+- [nullcult/CVE-2025-31324-File-Upload](https://github.com/nullcult/CVE-2025-31324-File-Upload)	<img alt="forks" src="https://img.shields.io/github/forks/nullcult/CVE-2025-31324-File-Upload">	<img alt="stars" src="https://img.shields.io/github/stars/nullcult/CVE-2025-31324-File-Upload">
 
 ---
 ## CVE-2025-31161 ()
