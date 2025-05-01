@@ -423,6 +423,7 @@
 - [SUPRAAA-1337/CVE-2025-31161](https://github.com/SUPRAAA-1337/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-31161">
 - [SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825](https://github.com/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">
 - [SUPRAAA-1337/CVE-2025-31161_exploit](https://github.com/SUPRAAA-1337/CVE-2025-31161_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-31161_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-31161_exploit">
+- [ibrahimsql/CVE-2025-31161](https://github.com/ibrahimsql/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
@@ -1299,6 +1300,7 @@
 - [xigney/CVE-2025-24054_PoC](https://github.com/xigney/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xigney/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xigney/CVE-2025-24054_PoC">
 - [helidem/CVE-2025-24054-PoC](https://github.com/helidem/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054-PoC">
 - [ClementNjeru/CVE-2025-24054-PoC](https://github.com/ClementNjeru/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClementNjeru/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClementNjeru/CVE-2025-24054-PoC">
+- [S4mma3l/CVE-2025-24054](https://github.com/S4mma3l/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/S4mma3l/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/S4mma3l/CVE-2025-24054">
 
 ---
 ## CVE-2025-2404 ()
