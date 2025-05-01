@@ -2322,6 +2322,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 ## CVE-2023-4226 (2023-11-28T08:15:00)
 > Unrestricted file upload in `/main/inc/ajax/work.ajax.php` in Chamilo LMS <= v1.11.24 allows authenticated attackers with learner role to obtain remote code execution via uploading of PHP files.
 - [krishnan-tech/CVE-2023-4226-POC](https://github.com/krishnan-tech/CVE-2023-4226-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krishnan-tech/CVE-2023-4226-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krishnan-tech/CVE-2023-4226-POC">
+- [SkyW4r33x/CVE-2023-4226](https://github.com/SkyW4r33x/CVE-2023-4226)	<img alt="forks" src="https://img.shields.io/github/forks/SkyW4r33x/CVE-2023-4226">	<img alt="stars" src="https://img.shields.io/github/stars/SkyW4r33x/CVE-2023-4226">
 
 ---
 ## CVE-2023-42222 (2023-09-28T03:15:00)
