@@ -1507,7 +1507,7 @@
 > 
 - [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-20029">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-20029">
 - [schoi1337/cve-2025-20029-simulation](https://github.com/schoi1337/cve-2025-20029-simulation)	<img alt="forks" src="https://img.shields.io/github/forks/schoi1337/cve-2025-20029-simulation">	<img alt="stars" src="https://img.shields.io/github/stars/schoi1337/cve-2025-20029-simulation">
-- [schoi1337/Replayable_attack_simulation_CVE-2025-20029](https://github.com/schoi1337/Replayable_attack_simulation_CVE-2025-20029)	<img alt="forks" src="https://img.shields.io/github/forks/schoi1337/Replayable_attack_simulation_CVE-2025-20029">	<img alt="stars" src="https://img.shields.io/github/stars/schoi1337/Replayable_attack_simulation_CVE-2025-20029">
+- [schoi1337/CVE-2025-20029-simulation](https://github.com/schoi1337/CVE-2025-20029-simulation)	<img alt="forks" src="https://img.shields.io/github/forks/schoi1337/CVE-2025-20029-simulation">	<img alt="stars" src="https://img.shields.io/github/stars/schoi1337/CVE-2025-20029-simulation">
 
 ---
 ## CVE-2025-1974 ()
