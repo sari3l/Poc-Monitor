@@ -1482,6 +1482,8 @@ QuTScloud c5.1.5.2651 and later
 - [bipbopbup/CVE-2023-46818-python-exploit](https://github.com/bipbopbup/CVE-2023-46818-python-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bipbopbup/CVE-2023-46818-python-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bipbopbup/CVE-2023-46818-python-exploit">
 - [blindma1den/CVE-2023-46818-Exploit](https://github.com/blindma1den/CVE-2023-46818-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/blindma1den/CVE-2023-46818-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/blindma1den/CVE-2023-46818-Exploit">
 - [ajdumanhug/CVE-2023-46818](https://github.com/ajdumanhug/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/ajdumanhug/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/ajdumanhug/CVE-2023-46818">
+- [rvizx/CVE-2023-46818](https://github.com/rvizx/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-46818">
+- [ajdumanhug/CVE-2022-42092](https://github.com/ajdumanhug/CVE-2022-42092)	<img alt="forks" src="https://img.shields.io/github/forks/ajdumanhug/CVE-2022-42092">	<img alt="stars" src="https://img.shields.io/github/stars/ajdumanhug/CVE-2022-42092">
 
 ---
 ## CVE-2023-46813 (2023-10-27T03:15:00)
