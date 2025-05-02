@@ -414,6 +414,7 @@
 - [nullcult/CVE-2025-31324-File-Upload](https://github.com/nullcult/CVE-2025-31324-File-Upload)	<img alt="forks" src="https://img.shields.io/github/forks/nullcult/CVE-2025-31324-File-Upload">	<img alt="stars" src="https://img.shields.io/github/stars/nullcult/CVE-2025-31324-File-Upload">
 - [respondiq/jsp-webshell-scanner](https://github.com/respondiq/jsp-webshell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/respondiq/jsp-webshell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/respondiq/jsp-webshell-scanner">
 - [JonathanStross/CVE-2025-31324](https://github.com/JonathanStross/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/JonathanStross/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/JonathanStross/CVE-2025-31324">
+- [Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment](https://github.com/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment">
 
 ---
 ## CVE-2025-31161 ()
