@@ -1599,6 +1599,7 @@
 - [ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [ThreeMens/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/ThreeMens/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/ThreeMens/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/ThreeMens/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
+- [Subha-coder-hash/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Subha-coder-hash/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Subha-coder-hash/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Subha-coder-hash/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 
 ---
 ## CVE-2025-1094 ()
