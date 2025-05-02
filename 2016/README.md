@@ -459,7 +459,7 @@
 - [acidburnmi/CVE-2016-5195-master](https://github.com/acidburnmi/CVE-2016-5195-master)	<img alt="forks" src="https://img.shields.io/github/forks/acidburnmi/CVE-2016-5195-master">	<img alt="stars" src="https://img.shields.io/github/stars/acidburnmi/CVE-2016-5195-master">
 - [titanhp/Dirty-COW-CVE-2016-5195-Testing](https://github.com/titanhp/Dirty-COW-CVE-2016-5195-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/titanhp/Dirty-COW-CVE-2016-5195-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/titanhp/Dirty-COW-CVE-2016-5195-Testing">
 - [arbll/dirtycow](https://github.com/arbll/dirtycow)	<img alt="forks" src="https://img.shields.io/github/forks/arbll/dirtycow">	<img alt="stars" src="https://img.shields.io/github/stars/arbll/dirtycow">
-- [NguyenCongHaiNam/Research-CVE-2016-5195](https://github.com/NguyenCongHaiNam/Research-CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/NguyenCongHaiNam/Research-CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/NguyenCongHaiNam/Research-CVE-2016-5195">
+- [h1n4mx0/Research-CVE-2016-5195](https://github.com/h1n4mx0/Research-CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/h1n4mx0/Research-CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/h1n4mx0/Research-CVE-2016-5195">
 - [LinuxKernelContent/DirtyCow](https://github.com/LinuxKernelContent/DirtyCow)	<img alt="forks" src="https://img.shields.io/github/forks/LinuxKernelContent/DirtyCow">	<img alt="stars" src="https://img.shields.io/github/stars/LinuxKernelContent/DirtyCow">
 - [idhyt/androotzf](https://github.com/idhyt/androotzf)	<img alt="forks" src="https://img.shields.io/github/forks/idhyt/androotzf">	<img alt="stars" src="https://img.shields.io/github/stars/idhyt/androotzf">
 - [EDLLT/CVE-2016-5195-master](https://github.com/EDLLT/CVE-2016-5195-master)	<img alt="forks" src="https://img.shields.io/github/forks/EDLLT/CVE-2016-5195-master">	<img alt="stars" src="https://img.shields.io/github/stars/EDLLT/CVE-2016-5195-master">
@@ -467,6 +467,9 @@
 - [sakilahamed/Linux-Kernel-Exploit-LAB](https://github.com/sakilahamed/Linux-Kernel-Exploit-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/sakilahamed/Linux-Kernel-Exploit-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/sakilahamed/Linux-Kernel-Exploit-LAB">
 - [B1ackCat/cve-2016-5195-DirtyCOW](https://github.com/B1ackCat/cve-2016-5195-DirtyCOW)	<img alt="forks" src="https://img.shields.io/github/forks/B1ackCat/cve-2016-5195-DirtyCOW">	<img alt="stars" src="https://img.shields.io/github/stars/B1ackCat/cve-2016-5195-DirtyCOW">
 - [0x3n19m4/CVE-2016-5195](https://github.com/0x3n19m4/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/0x3n19m4/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/0x3n19m4/CVE-2016-5195">
+- [LiEnby/PSSRoot](https://github.com/LiEnby/PSSRoot)	<img alt="forks" src="https://img.shields.io/github/forks/LiEnby/PSSRoot">	<img alt="stars" src="https://img.shields.io/github/stars/LiEnby/PSSRoot">
+- [talsim/root-dirtyc0w](https://github.com/talsim/root-dirtyc0w)	<img alt="forks" src="https://img.shields.io/github/forks/talsim/root-dirtyc0w">	<img alt="stars" src="https://img.shields.io/github/stars/talsim/root-dirtyc0w">
+- [ZhiQiAnSecFork/DirtyCOW_CVE-2016-5195](https://github.com/ZhiQiAnSecFork/DirtyCOW_CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/ZhiQiAnSecFork/DirtyCOW_CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/ZhiQiAnSecFork/DirtyCOW_CVE-2016-5195">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
