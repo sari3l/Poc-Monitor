@@ -466,6 +466,7 @@
 - [ASUKA39/CVE-2016-5195](https://github.com/ASUKA39/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/ASUKA39/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/ASUKA39/CVE-2016-5195">
 - [sakilahamed/Linux-Kernel-Exploit-LAB](https://github.com/sakilahamed/Linux-Kernel-Exploit-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/sakilahamed/Linux-Kernel-Exploit-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/sakilahamed/Linux-Kernel-Exploit-LAB">
 - [B1ackCat/cve-2016-5195-DirtyCOW](https://github.com/B1ackCat/cve-2016-5195-DirtyCOW)	<img alt="forks" src="https://img.shields.io/github/forks/B1ackCat/cve-2016-5195-DirtyCOW">	<img alt="stars" src="https://img.shields.io/github/stars/B1ackCat/cve-2016-5195-DirtyCOW">
+- [0x3n19m4/CVE-2016-5195](https://github.com/0x3n19m4/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/0x3n19m4/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/0x3n19m4/CVE-2016-5195">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
