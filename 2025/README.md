@@ -320,6 +320,7 @@
 - [abrewer251/CVE-2025-32433_Erlang-OTP](https://github.com/abrewer251/CVE-2025-32433_Erlang-OTP)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-32433_Erlang-OTP">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-32433_Erlang-OTP">
 - [ODST-Forge/CVE-2025-32433_PoC](https://github.com/ODST-Forge/CVE-2025-32433_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ODST-Forge/CVE-2025-32433_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ODST-Forge/CVE-2025-32433_PoC">
 - [C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433](https://github.com/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433">
+- [bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433](https://github.com/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
@@ -388,6 +389,7 @@
 - [absholi7ly/TomcatKiller-CVE-2025-31650](https://github.com/absholi7ly/TomcatKiller-CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/TomcatKiller-CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/TomcatKiller-CVE-2025-31650">
 - [tunahantekeoglu/CVE-2025-31650-poc](https://github.com/tunahantekeoglu/CVE-2025-31650-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-31650-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-31650-poc">
 - [tunahantekeoglu/CVE-2025-31650](https://github.com/tunahantekeoglu/CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-31650">
+- [sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool](https://github.com/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">
 
 ---
 ## CVE-2025-31486 ()
