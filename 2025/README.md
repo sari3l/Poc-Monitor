@@ -43,6 +43,11 @@
 - [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-492025">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-492025">
 
 ---
+## CVE-2025-47240 ()
+> 
+- [Oblivionsage/fastify-cve-2025-47240](https://github.com/Oblivionsage/fastify-cve-2025-47240)	<img alt="forks" src="https://img.shields.io/github/forks/Oblivionsage/fastify-cve-2025-47240">	<img alt="stars" src="https://img.shields.io/github/stars/Oblivionsage/fastify-cve-2025-47240">
+
+---
 ## CVE-2025-47226 ()
 > 
 - [koyomihack00/CVE-2025-47226](https://github.com/koyomihack00/CVE-2025-47226)	<img alt="forks" src="https://img.shields.io/github/forks/koyomihack00/CVE-2025-47226">	<img alt="stars" src="https://img.shields.io/github/stars/koyomihack00/CVE-2025-47226">
