@@ -4417,6 +4417,7 @@
 ## CVE-2020-13151 ()
 > 
 - [ByteMe1001/CVE-2020-13151-POC-Aerospike-Server-Host-Command-Execution-RCE-](https://github.com/ByteMe1001/CVE-2020-13151-POC-Aerospike-Server-Host-Command-Execution-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/ByteMe1001/CVE-2020-13151-POC-Aerospike-Server-Host-Command-Execution-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/ByteMe1001/CVE-2020-13151-POC-Aerospike-Server-Host-Command-Execution-RCE-">
+- [b4ny4n/CVE-2020-13151](https://github.com/b4ny4n/CVE-2020-13151)	<img alt="forks" src="https://img.shields.io/github/forks/b4ny4n/CVE-2020-13151">	<img alt="stars" src="https://img.shields.io/github/stars/b4ny4n/CVE-2020-13151">
 
 ---
 ## CVE-2020-13143 (2020-05-18T18:15:00)
