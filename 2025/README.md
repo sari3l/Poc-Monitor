@@ -327,6 +327,7 @@
 - [C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433](https://github.com/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433">
 - [bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433](https://github.com/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433">
 - [vigilante-1337/CVE-2025-32433](https://github.com/vigilante-1337/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2025-32433">
+- [vigilante-1337/CVE-2025-32433](https://github.com/vigilante-1337/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
