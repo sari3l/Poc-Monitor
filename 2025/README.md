@@ -919,6 +919,7 @@
 > 
 - [Astroo18/PoC-CVE-2025-26529](https://github.com/Astroo18/PoC-CVE-2025-26529)	<img alt="forks" src="https://img.shields.io/github/forks/Astroo18/PoC-CVE-2025-26529">	<img alt="stars" src="https://img.shields.io/github/stars/Astroo18/PoC-CVE-2025-26529">
 - [NightBloodz/moodleTestingEnv](https://github.com/NightBloodz/moodleTestingEnv)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/moodleTestingEnv">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/moodleTestingEnv">
+- [exfil0/UNISA_CVE-2025-26529](https://github.com/exfil0/UNISA_CVE-2025-26529)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/UNISA_CVE-2025-26529">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/UNISA_CVE-2025-26529">
 
 ---
 ## CVE-2025-26466 ()
