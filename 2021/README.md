@@ -9039,6 +9039,11 @@
 - [SUPRAAA-1337/CVE-2021-20021](https://github.com/SUPRAAA-1337/CVE-2021-20021)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2021-20021">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2021-20021">
 
 ---
+## CVE-2021-1931 ()
+> 
+- [FakeShell/CVE-2021-1931-BBRY-KEY2](https://github.com/FakeShell/CVE-2021-1931-BBRY-KEY2)	<img alt="forks" src="https://img.shields.io/github/forks/FakeShell/CVE-2021-1931-BBRY-KEY2">	<img alt="stars" src="https://img.shields.io/github/stars/FakeShell/CVE-2021-1931-BBRY-KEY2">
+
+---
 ## CVE-2021-1732 (2021-02-25T23:15:00)
 > Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.
 - [fenalik/CVE-2021-1732](https://github.com/fenalik/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/fenalik/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/fenalik/CVE-2021-1732">
