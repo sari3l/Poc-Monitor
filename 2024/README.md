@@ -4460,6 +4460,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [Freitael/-CVE-2024-36401](https://github.com/Freitael/-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Freitael/-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Freitael/-CVE-2024-36401">
 - [bmth666/GeoServer-Tools-CVE-2024-36401](https://github.com/bmth666/GeoServer-Tools-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/bmth666/GeoServer-Tools-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/bmth666/GeoServer-Tools-CVE-2024-36401">
 - [amoy6228/CVE-2024-36401_Geoserver_RCE_POC](https://github.com/amoy6228/CVE-2024-36401_Geoserver_RCE_POC)	<img alt="forks" src="https://img.shields.io/github/forks/amoy6228/CVE-2024-36401_Geoserver_RCE_POC">	<img alt="stars" src="https://img.shields.io/github/stars/amoy6228/CVE-2024-36401_Geoserver_RCE_POC">
+- [cochaviz/cve-2024-36401-poc](https://github.com/cochaviz/cve-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cochaviz/cve-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cochaviz/cve-2024-36401-poc">
 
 ---
 ## CVE-2024-3640 ()
