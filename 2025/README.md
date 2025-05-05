@@ -763,6 +763,11 @@
 - [Yoshik0xF6/CVE-2025-29529](https://github.com/Yoshik0xF6/CVE-2025-29529)	<img alt="forks" src="https://img.shields.io/github/forks/Yoshik0xF6/CVE-2025-29529">	<img alt="stars" src="https://img.shields.io/github/stars/Yoshik0xF6/CVE-2025-29529">
 
 ---
+## CVE-2025-29448 ()
+> 
+- [Abdullah4eb/CVE-2025-29448](https://github.com/Abdullah4eb/CVE-2025-29448)	<img alt="forks" src="https://img.shields.io/github/forks/Abdullah4eb/CVE-2025-29448">	<img alt="stars" src="https://img.shields.io/github/stars/Abdullah4eb/CVE-2025-29448">
+
+---
 ## CVE-2025-29384 ()
 > 
 - [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/cve-2025-29384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/cve-2025-29384-poc">
