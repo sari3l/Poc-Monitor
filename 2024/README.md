@@ -8403,6 +8403,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [gogobuster/CVE-2024-21591-POC](https://github.com/gogobuster/CVE-2024-21591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21591-POC">
 
 ---
+## CVE-2024-21546 ()
+> 
+- [ajdumanhug/CVE-2024-21546](https://github.com/ajdumanhug/CVE-2024-21546)	<img alt="forks" src="https://img.shields.io/github/forks/ajdumanhug/CVE-2024-21546">	<img alt="stars" src="https://img.shields.io/github/stars/ajdumanhug/CVE-2024-21546">
+
+---
 ## CVE-2024-21542 ()
 > 
 - [L3ster1337/Poc-CVE-2024-21542](https://github.com/L3ster1337/Poc-CVE-2024-21542)	<img alt="forks" src="https://img.shields.io/github/forks/L3ster1337/Poc-CVE-2024-21542">	<img alt="stars" src="https://img.shields.io/github/stars/L3ster1337/Poc-CVE-2024-21542">
