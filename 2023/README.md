@@ -7108,6 +7108,7 @@ Atlassian Cloud sites are not affected by this vulnerability. If your Confluence
 - [bibo318/CVE-2023-22518](https://github.com/bibo318/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/bibo318/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/bibo318/CVE-2023-22518">
 - [Lilly-dox/Exploit-CVE-2023-22518](https://github.com/Lilly-dox/Exploit-CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/Lilly-dox/Exploit-CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/Lilly-dox/Exploit-CVE-2023-22518">
 - [zgimszhd61/CVE-2023-22518](https://github.com/zgimszhd61/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2023-22518">
+- [ductink98lhp/analyze-Exploit-CVE-2023-22518-Confluence](https://github.com/ductink98lhp/analyze-Exploit-CVE-2023-22518-Confluence)	<img alt="forks" src="https://img.shields.io/github/forks/ductink98lhp/analyze-Exploit-CVE-2023-22518-Confluence">	<img alt="stars" src="https://img.shields.io/github/stars/ductink98lhp/analyze-Exploit-CVE-2023-22518-Confluence">
 
 ---
 ## CVE-2023-22515 (2023-10-04T14:15:00)
