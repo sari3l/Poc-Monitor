@@ -1248,6 +1248,7 @@
 ## CVE-2025-24801 ()
 > 
 - [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/r1beirin/CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/r1beirin/CVE-2025-24801">
+- [fatkz/CVE-2025-24801](https://github.com/fatkz/CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-24801">
 
 ---
 ## CVE-2025-24799 ()
