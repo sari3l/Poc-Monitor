@@ -1188,7 +1188,7 @@
 > 
 - [sug4r-wr41th/CVE-2025-24893](https://github.com/sug4r-wr41th/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-24893">
 - [iSee857/CVE-2025-24893-PoC](https://github.com/iSee857/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-24893-PoC">
-- [Wormwdcold/CVE-2025-24893-EXP](https://github.com/Wormwdcold/CVE-2025-24893-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Wormwdcold/CVE-2025-24893-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Wormwdcold/CVE-2025-24893-EXP">
+- [Artemir7/CVE-2025-24893-EXP](https://github.com/Artemir7/CVE-2025-24893-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Artemir7/CVE-2025-24893-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Artemir7/CVE-2025-24893-EXP">
 
 ---
 ## CVE-2025-24813 ()
