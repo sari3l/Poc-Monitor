@@ -104,6 +104,7 @@
 - [RadYio/CVE-2014-6271](https://github.com/RadYio/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/RadYio/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/RadYio/CVE-2014-6271">
 - [YunchoHang/CVE-2014-6271-SHELLSHOCK](https://github.com/YunchoHang/CVE-2014-6271-SHELLSHOCK)	<img alt="forks" src="https://img.shields.io/github/forks/YunchoHang/CVE-2014-6271-SHELLSHOCK">	<img alt="stars" src="https://img.shields.io/github/stars/YunchoHang/CVE-2014-6271-SHELLSHOCK">
 - [Isidoro4-kor/bash-CVE-2014-6271](https://github.com/Isidoro4-kor/bash-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/Isidoro4-kor/bash-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/Isidoro4-kor/bash-CVE-2014-6271">
+- [moften/CVE-2014-6271](https://github.com/moften/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2014-6271">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
