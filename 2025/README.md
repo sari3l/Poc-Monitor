@@ -732,6 +732,7 @@
 - [HoumanPashaei/CVE-2025-29927](https://github.com/HoumanPashaei/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/HoumanPashaei/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/HoumanPashaei/CVE-2025-29927">
 - [rubbxalc/CVE-2025-29927](https://github.com/rubbxalc/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2025-29927">
 - [olimpiofreitas/CVE-2025-29927_scanner](https://github.com/olimpiofreitas/CVE-2025-29927_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/olimpiofreitas/CVE-2025-29927_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/olimpiofreitas/CVE-2025-29927_scanner">
+- [0xpr4bin/vulnerable-next_js_cve-2025-29927](https://github.com/0xpr4bin/vulnerable-next_js_cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xpr4bin/vulnerable-next_js_cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xpr4bin/vulnerable-next_js_cve-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
