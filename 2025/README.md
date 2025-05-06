@@ -922,6 +922,11 @@
 - [zhuowei/CVE-2025-27363-proof-of-concept](https://github.com/zhuowei/CVE-2025-27363-proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/CVE-2025-27363-proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/CVE-2025-27363-proof-of-concept">
 
 ---
+## CVE-2025-2704 ()
+> 
+- [KernelKraze/CVE-2025-2704](https://github.com/KernelKraze/CVE-2025-2704)	<img alt="forks" src="https://img.shields.io/github/forks/KernelKraze/CVE-2025-2704">	<img alt="stars" src="https://img.shields.io/github/stars/KernelKraze/CVE-2025-2704">
+
+---
 ## CVE-2025-26909 ()
 > 
 - [ZeroDayx/CVE-2025-26909](https://github.com/ZeroDayx/CVE-2025-26909)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayx/CVE-2025-26909">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayx/CVE-2025-26909">
