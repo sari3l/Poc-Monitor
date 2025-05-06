@@ -4763,6 +4763,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [MkJos/CVE-2023-33246_RocketMQ_RCE_EXP](https://github.com/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP">
 - [hanch7274/CVE-2023-33246](https://github.com/hanch7274/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/hanch7274/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/hanch7274/CVE-2023-33246">
 - [PavilionQ/CVE-2023-33246-mitigation](https://github.com/PavilionQ/CVE-2023-33246-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/PavilionQ/CVE-2023-33246-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/PavilionQ/CVE-2023-33246-mitigation">
+- [Devil0ll/CVE-2023-33246](https://github.com/Devil0ll/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Devil0ll/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Devil0ll/CVE-2023-33246">
 
 ---
 ## CVE-2023-33243 (2023-06-15T20:15:00)
