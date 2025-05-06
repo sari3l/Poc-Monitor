@@ -73,6 +73,11 @@
 - [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657)	<img alt="forks" src="https://img.shields.io/github/forks/nov-1337/CVE-2025-46657">	<img alt="stars" src="https://img.shields.io/github/stars/nov-1337/CVE-2025-46657">
 
 ---
+## CVE-2025-45250 ()
+> 
+- [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/Anike-x/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/Anike-x/CVE-2025-45250">
+
+---
 ## CVE-2025-442025 ()
 > 
 - [joey-melo/CVE-2025-442025](https://github.com/joey-melo/CVE-2025-442025)	<img alt="forks" src="https://img.shields.io/github/forks/joey-melo/CVE-2025-442025">	<img alt="stars" src="https://img.shields.io/github/stars/joey-melo/CVE-2025-442025">
