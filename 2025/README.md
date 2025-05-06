@@ -466,6 +466,7 @@
 - [respondiq/jsp-webshell-scanner](https://github.com/respondiq/jsp-webshell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/respondiq/jsp-webshell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/respondiq/jsp-webshell-scanner">
 - [JonathanStross/CVE-2025-31324](https://github.com/JonathanStross/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/JonathanStross/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/JonathanStross/CVE-2025-31324">
 - [Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment](https://github.com/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment">
+- [rf-peixoto/sap_netweaver_cve-2025-31324-](https://github.com/rf-peixoto/sap_netweaver_cve-2025-31324-)	<img alt="forks" src="https://img.shields.io/github/forks/rf-peixoto/sap_netweaver_cve-2025-31324-">	<img alt="stars" src="https://img.shields.io/github/stars/rf-peixoto/sap_netweaver_cve-2025-31324-">
 
 ---
 ## CVE-2025-31161 ()
