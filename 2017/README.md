@@ -1028,6 +1028,7 @@
 > 
 - [xn0kkx/Exploit_Sync_Breeze_v10.0.28_CVE-2017-14980](https://github.com/xn0kkx/Exploit_Sync_Breeze_v10.0.28_CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/xn0kkx/Exploit_Sync_Breeze_v10.0.28_CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/xn0kkx/Exploit_Sync_Breeze_v10.0.28_CVE-2017-14980">
 - [TheDarthMole/CVE-2017-14980](https://github.com/TheDarthMole/CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/TheDarthMole/CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/TheDarthMole/CVE-2017-14980">
+- [LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof](https://github.com/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof)	<img alt="forks" src="https://img.shields.io/github/forks/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof">	<img alt="stars" src="https://img.shields.io/github/stars/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof">
 
 ---
 ## CVE-2017-14864 (2017-09-29T01:34:00)
