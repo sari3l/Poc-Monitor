@@ -1234,6 +1234,11 @@
 - [rhburt/CVE-2025-25062](https://github.com/rhburt/CVE-2025-25062)	<img alt="forks" src="https://img.shields.io/github/forks/rhburt/CVE-2025-25062">	<img alt="stars" src="https://img.shields.io/github/stars/rhburt/CVE-2025-25062">
 
 ---
+## CVE-2025-25014 ()
+> 
+- [Sratet/CVE-2025-25014](https://github.com/Sratet/CVE-2025-25014)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-25014">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-25014">
+
+---
 ## CVE-2025-24971 ()
 > 
 - [be4zad/CVE-2025-24971](https://github.com/be4zad/CVE-2025-24971)	<img alt="forks" src="https://img.shields.io/github/forks/be4zad/CVE-2025-24971">	<img alt="stars" src="https://img.shields.io/github/stars/be4zad/CVE-2025-24971">
