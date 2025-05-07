@@ -897,6 +897,16 @@
 - [pruthuraut/CVE-2025-28121](https://github.com/pruthuraut/CVE-2025-28121)	<img alt="forks" src="https://img.shields.io/github/forks/pruthuraut/CVE-2025-28121">	<img alt="stars" src="https://img.shields.io/github/stars/pruthuraut/CVE-2025-28121">
 
 ---
+## CVE-2025-28074 ()
+> 
+- [mLniumm/CVE-2025-28074](https://github.com/mLniumm/CVE-2025-28074)	<img alt="forks" src="https://img.shields.io/github/forks/mLniumm/CVE-2025-28074">	<img alt="stars" src="https://img.shields.io/github/stars/mLniumm/CVE-2025-28074">
+
+---
+## CVE-2025-28073 ()
+> 
+- [mLniumm/CVE-2025-28073](https://github.com/mLniumm/CVE-2025-28073)	<img alt="forks" src="https://img.shields.io/github/forks/mLniumm/CVE-2025-28073">	<img alt="stars" src="https://img.shields.io/github/stars/mLniumm/CVE-2025-28073">
+
+---
 ## CVE-2025-2807 ()
 > 
 - [Nxploited/CVE-2025-2807](https://github.com/Nxploited/CVE-2025-2807)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2807">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2807">
