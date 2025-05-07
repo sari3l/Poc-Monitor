@@ -43,6 +43,11 @@
 - [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-492025">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-492025">
 
 ---
+## CVE-2025-47423 ()
+> 
+- [Haluka92/CVE-2025-47423](https://github.com/Haluka92/CVE-2025-47423)	<img alt="forks" src="https://img.shields.io/github/forks/Haluka92/CVE-2025-47423">	<img alt="stars" src="https://img.shields.io/github/stars/Haluka92/CVE-2025-47423">
+
+---
 ## CVE-2025-47256 ()
 > 
 - [SexyShoelessGodofWar/CVE-2025-47256](https://github.com/SexyShoelessGodofWar/CVE-2025-47256)	<img alt="forks" src="https://img.shields.io/github/forks/SexyShoelessGodofWar/CVE-2025-47256">	<img alt="stars" src="https://img.shields.io/github/stars/SexyShoelessGodofWar/CVE-2025-47256">
@@ -934,6 +939,11 @@
 ## CVE-2025-2704 ()
 > 
 - [KernelKraze/CVE-2025-2704](https://github.com/KernelKraze/CVE-2025-2704)	<img alt="forks" src="https://img.shields.io/github/forks/KernelKraze/CVE-2025-2704">	<img alt="stars" src="https://img.shields.io/github/stars/KernelKraze/CVE-2025-2704">
+
+---
+## CVE-2025-27007 ()
+> 
+- [absholi7ly/CVE-2025-27007-OttoKit-exploit](https://github.com/absholi7ly/CVE-2025-27007-OttoKit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27007-OttoKit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27007-OttoKit-exploit">
 
 ---
 ## CVE-2025-26909 ()
