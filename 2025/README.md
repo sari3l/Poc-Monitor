@@ -81,6 +81,8 @@
 ## CVE-2025-45250 ()
 > 
 - [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/Anike-x/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/Anike-x/CVE-2025-45250">
+- [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/Anike-x/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/Anike-x/CVE-2025-45250">
+- [xp3s/CVE-2025-45250](https://github.com/xp3s/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/xp3s/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/xp3s/CVE-2025-45250">
 
 ---
 ## CVE-2025-442025 ()
