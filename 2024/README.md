@@ -8922,6 +8922,11 @@ authentication.   
 - [d0n601/CVE-2024-13869](https://github.com/d0n601/CVE-2024-13869)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2024-13869">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2024-13869">
 
 ---
+## CVE-2024-13800 ()
+> 
+- [RandomRobbieBF/CVE-2024-13800](https://github.com/RandomRobbieBF/CVE-2024-13800)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13800">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13800">
+
+---
 ## CVE-2024-1380 (2024-03-13T16:15:00)
 > The Relevanssi – A Better Search plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on the relevanssi_export_log_check() function in all versions up to, and including, 4.22.0. This makes it possible for unauthenticated attackers to export the query log data. The vendor has indicated that they may look into adding a capability check for proper authorization control, however, this vulnerability is theoretically patched as is.
 - [RandomRobbieBF/CVE-2024-1380](https://github.com/RandomRobbieBF/CVE-2024-1380)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-1380">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-1380">
