@@ -78,6 +78,11 @@
 - [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657)	<img alt="forks" src="https://img.shields.io/github/forks/nov-1337/CVE-2025-46657">	<img alt="stars" src="https://img.shields.io/github/stars/nov-1337/CVE-2025-46657">
 
 ---
+## CVE-2025-46271 ()
+> 
+- [1Altruist/CVE-2025-46271-Reverse-Shell-PoC](https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">
+
+---
 ## CVE-2025-45250 ()
 > 
 - [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/Anike-x/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/Anike-x/CVE-2025-45250">
