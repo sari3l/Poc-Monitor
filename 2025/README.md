@@ -485,6 +485,7 @@
 - [Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment](https://github.com/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment">
 - [rf-peixoto/sap_netweaver_cve-2025-31324-](https://github.com/rf-peixoto/sap_netweaver_cve-2025-31324-)	<img alt="forks" src="https://img.shields.io/github/forks/rf-peixoto/sap_netweaver_cve-2025-31324-">	<img alt="stars" src="https://img.shields.io/github/stars/rf-peixoto/sap_netweaver_cve-2025-31324-">
 - [NULLTRACE0X/CVE-2025-31324](https://github.com/NULLTRACE0X/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/NULLTRACE0X/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/NULLTRACE0X/CVE-2025-31324">
+- [nairuzabulhul/nuclei-template-cve-2025-31324-check](https://github.com/nairuzabulhul/nuclei-template-cve-2025-31324-check)	<img alt="forks" src="https://img.shields.io/github/forks/nairuzabulhul/nuclei-template-cve-2025-31324-check">	<img alt="stars" src="https://img.shields.io/github/stars/nairuzabulhul/nuclei-template-cve-2025-31324-check">
 
 ---
 ## CVE-2025-31161 ()
