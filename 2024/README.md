@@ -655,6 +655,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [xiaoqiao147/cve-2024-666](https://github.com/xiaoqiao147/cve-2024-666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/cve-2024-666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/cve-2024-666">
 
 ---
+## CVE-2024-6648 ()
+> 
+- [n0d0n/CVE-2024-6648](https://github.com/n0d0n/CVE-2024-6648)	<img alt="forks" src="https://img.shields.io/github/forks/n0d0n/CVE-2024-6648">	<img alt="stars" src="https://img.shields.io/github/stars/n0d0n/CVE-2024-6648">
+
+---
 ## CVE-2024-6646 (2024-07-10T18:15:00)
 > A vulnerability was found in Netgear WN604 up to 20240710. It has been rated as problematic. Affected by this issue is some unknown functionality of the file /downloadFile.php of the component Web Interface. The manipulation of the argument file with the input config leads to information disclosure. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-271052. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [inviewp/CVE-2024-6646](https://github.com/inviewp/CVE-2024-6646)	<img alt="forks" src="https://img.shields.io/github/forks/inviewp/CVE-2024-6646">	<img alt="stars" src="https://img.shields.io/github/stars/inviewp/CVE-2024-6646">
