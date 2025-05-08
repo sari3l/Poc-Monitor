@@ -3846,6 +3846,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [srcx404/CVE-2024-39722](https://github.com/srcx404/CVE-2024-39722)	<img alt="forks" src="https://img.shields.io/github/forks/srcx404/CVE-2024-39722">	<img alt="stars" src="https://img.shields.io/github/stars/srcx404/CVE-2024-39722">
 
 ---
+## CVE-2024-39719 ()
+> 
+- [srcx404/CVE-2024-39719](https://github.com/srcx404/CVE-2024-39719)	<img alt="forks" src="https://img.shields.io/github/forks/srcx404/CVE-2024-39719">	<img alt="stars" src="https://img.shields.io/github/stars/srcx404/CVE-2024-39719">
+
+---
 ## CVE-2024-39713 ()
 > 
 - [typical-pashochek/CVE-2024-39713](https://github.com/typical-pashochek/CVE-2024-39713)	<img alt="forks" src="https://img.shields.io/github/forks/typical-pashochek/CVE-2024-39713">	<img alt="stars" src="https://img.shields.io/github/stars/typical-pashochek/CVE-2024-39713">
