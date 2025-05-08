@@ -1773,6 +1773,7 @@
 > The org.h2.util.JdbcUtils.getConnection method of the H2 database takes as parameters the class name of the driver and URL of the database. An attacker may pass a JNDI driver name and a URL leading to a LDAP or RMI servers, causing remote code execution. This can be exploited through various attack vectors, most notably through the H2 Console which leads to unauthenticated remote code execution.
 - [Live-Hack-CVE/CVE-2021-42392](https://github.com/Live-Hack-CVE/CVE-2021-42392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42392">
 - [Be-Innova/CVE-2021-42392-exploit-lab](https://github.com/Be-Innova/CVE-2021-42392-exploit-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Be-Innova/CVE-2021-42392-exploit-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Be-Innova/CVE-2021-42392-exploit-lab">
+- [cybersecurityworks553/CVE-2021-42392-Detect](https://github.com/cybersecurityworks553/CVE-2021-42392-Detect)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/CVE-2021-42392-Detect">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/CVE-2021-42392-Detect">
 
 ---
 ## CVE-2021-4239 (2022-12-27T22:15:00)
