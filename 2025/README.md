@@ -757,6 +757,7 @@
 - [olimpiofreitas/CVE-2025-29927_scanner](https://github.com/olimpiofreitas/CVE-2025-29927_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/olimpiofreitas/CVE-2025-29927_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/olimpiofreitas/CVE-2025-29927_scanner">
 - [0xpr4bin/vulnerable-next_js_cve-2025-29927](https://github.com/0xpr4bin/vulnerable-next_js_cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/0xpr4bin/vulnerable-next_js_cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/0xpr4bin/vulnerable-next_js_cve-2025-29927">
 - [moften/CVE-2025-29927](https://github.com/moften/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-29927">
+- [EarthAngel666/x-middleware-exploit](https://github.com/EarthAngel666/x-middleware-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/EarthAngel666/x-middleware-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/EarthAngel666/x-middleware-exploit">
 
 ---
 ## CVE-2025-29814 ()
