@@ -43,6 +43,11 @@
 - [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-492025">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-492025">
 
 ---
+## CVE-2025-47550 ()
+> 
+- [d0n601/CVE-2025-47550](https://github.com/d0n601/CVE-2025-47550)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-47550">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-47550">
+
+---
 ## CVE-2025-47549 ()
 > 
 - [d0n601/CVE-2025-47549](https://github.com/d0n601/CVE-2025-47549)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-47549">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-47549">
