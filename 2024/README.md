@@ -4054,6 +4054,7 @@ Substitutions in server context that use a backreferences or variables as the f
 - [soltanali0/CVE-2024-38475](https://github.com/soltanali0/CVE-2024-38475)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2024-38475">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2024-38475">
 - [mrmtwoj/apache-vulnerability-testing](https://github.com/mrmtwoj/apache-vulnerability-testing)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/apache-vulnerability-testing">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/apache-vulnerability-testing">
 - [abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC](https://github.com/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC">
+- [syaifulandy/CVE-2024-38475](https://github.com/syaifulandy/CVE-2024-38475)	<img alt="forks" src="https://img.shields.io/github/forks/syaifulandy/CVE-2024-38475">	<img alt="stars" src="https://img.shields.io/github/stars/syaifulandy/CVE-2024-38475">
 
 ---
 ## CVE-2024-38473 (2024-07-01T19:15:00)
