@@ -282,6 +282,11 @@
 - [Totunm/CVE-2025-3776](https://github.com/Totunm/CVE-2025-3776)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-3776">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-3776">
 
 ---
+## CVE-2025-3605 ()
+> 
+- [Nxploited/CVE-2025-3605](https://github.com/Nxploited/CVE-2025-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-3605">
+
+---
 ## CVE-2025-3604 ()
 > 
 - [Nxploited/CVE-2025-3604](https://github.com/Nxploited/CVE-2025-3604)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-3604">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-3604">
