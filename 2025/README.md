@@ -963,6 +963,11 @@
 - [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-27636-Apache-Camel-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-27636-Apache-Camel-PoC">
 
 ---
+## CVE-2025-27533 ()
+> 
+- [absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ](https://github.com/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">
+
+---
 ## CVE-2025-27410 ()
 > 
 - [shreyas-malhotra/CVE-2025-27410](https://github.com/shreyas-malhotra/CVE-2025-27410)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2025-27410">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2025-27410">
