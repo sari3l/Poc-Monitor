@@ -105,6 +105,11 @@
 - [joey-melo/CVE-2025-442025](https://github.com/joey-melo/CVE-2025-442025)	<img alt="forks" src="https://img.shields.io/github/forks/joey-melo/CVE-2025-442025">	<img alt="stars" src="https://img.shields.io/github/stars/joey-melo/CVE-2025-442025">
 
 ---
+## CVE-2025-4403 ()
+> 
+- [Yucaerin/CVE-2025-4403](https://github.com/Yucaerin/CVE-2025-4403)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4403">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4403">
+
+---
 ## CVE-2025-43929 ()
 > 
 - [0xBenCantCode/CVE-2025-43929](https://github.com/0xBenCantCode/CVE-2025-43929)	<img alt="forks" src="https://img.shields.io/github/forks/0xBenCantCode/CVE-2025-43929">	<img alt="stars" src="https://img.shields.io/github/stars/0xBenCantCode/CVE-2025-43929">
@@ -1331,6 +1336,7 @@
 - [Mattb709/CVE-2025-24813-Scanner](https://github.com/Mattb709/CVE-2025-24813-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-Scanner">
 - [Erosion2020/CVE-2025-24813-vulhub](https://github.com/Erosion2020/CVE-2025-24813-vulhub)	<img alt="forks" src="https://img.shields.io/github/forks/Erosion2020/CVE-2025-24813-vulhub">	<img alt="stars" src="https://img.shields.io/github/stars/Erosion2020/CVE-2025-24813-vulhub">
 - [hakankarabacak/CVE-2025-24813](https://github.com/hakankarabacak/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/hakankarabacak/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/hakankarabacak/CVE-2025-24813">
+- [Eduardo-hardvester/CVE-2025-24813](https://github.com/Eduardo-hardvester/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Eduardo-hardvester/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Eduardo-hardvester/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
