@@ -1636,6 +1636,11 @@
 - [ahmedumarehman/CVE-2025-21293](https://github.com/ahmedumarehman/CVE-2025-21293)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedumarehman/CVE-2025-21293">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedumarehman/CVE-2025-21293">
 
 ---
+## CVE-2025-20188 ()
+> 
+- [Sratet/CVE-2025-20188](https://github.com/Sratet/CVE-2025-20188)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-20188">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-20188">
+
+---
 ## CVE-2025-2011 ()
 > 
 - [datagoboom/CVE-2025-2011](https://github.com/datagoboom/CVE-2025-2011)	<img alt="forks" src="https://img.shields.io/github/forks/datagoboom/CVE-2025-2011">	<img alt="stars" src="https://img.shields.io/github/stars/datagoboom/CVE-2025-2011">
