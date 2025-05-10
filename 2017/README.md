@@ -461,7 +461,8 @@
 - [Jhonsonwannaa/CVE-2017-5487](https://github.com/Jhonsonwannaa/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2017-5487">
 - [Jhonsonwannaa/CVE-2017-5487](https://github.com/Jhonsonwannaa/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2017-5487">
 - [dream434/CVE-2017-5487](https://github.com/dream434/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/CVE-2017-5487">
-- [chihyeonwon/cve-2017-5487](https://github.com/chihyeonwon/cve-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/chihyeonwon/cve-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/chihyeonwon/cve-2017-5487">
+- [user20252228/cve-2017-5487](https://github.com/user20252228/cve-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/user20252228/cve-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/user20252228/cve-2017-5487">
+- [ndr-repo/CVE-2017-5487](https://github.com/ndr-repo/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/ndr-repo/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/ndr-repo/CVE-2017-5487">
 
 ---
 ## CVE-2017-5242 (2023-01-12T22:15:00)
