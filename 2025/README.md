@@ -1617,6 +1617,11 @@
 - [160102/CVE-2025-21333-POC](https://github.com/160102/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/160102/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/160102/CVE-2025-21333-POC">
 
 ---
+## CVE-2025-21307 ()
+> 
+- [git-account7/CVE-2025-21307](https://github.com/git-account7/CVE-2025-21307)	<img alt="forks" src="https://img.shields.io/github/forks/git-account7/CVE-2025-21307">	<img alt="stars" src="https://img.shields.io/github/stars/git-account7/CVE-2025-21307">
+
+---
 ## CVE-2025-21298 ()
 > 
 - [ynwarcs/CVE-2025-21298](https://github.com/ynwarcs/CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2025-21298">
