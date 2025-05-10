@@ -6495,6 +6495,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [krnidhi/expat_2.1.1_CVE-2024-28757](https://github.com/krnidhi/expat_2.1.1_CVE-2024-28757)	<img alt="forks" src="https://img.shields.io/github/forks/krnidhi/expat_2.1.1_CVE-2024-28757">	<img alt="stars" src="https://img.shields.io/github/stars/krnidhi/expat_2.1.1_CVE-2024-28757">
 
 ---
+## CVE-2024-28752 ()
+> 
+- [ReaJason/CVE-2024-28752](https://github.com/ReaJason/CVE-2024-28752)	<img alt="forks" src="https://img.shields.io/github/forks/ReaJason/CVE-2024-28752">	<img alt="stars" src="https://img.shields.io/github/stars/ReaJason/CVE-2024-28752">
+
+---
 ## CVE-2024-28741 (2024-04-06T19:15:00)
 > Cross Site Scripting vulnerability in EginDemirbilek NorthStar C2 v1 allows a remote attacker to execute arbitrary code via the login.php component.
 - [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-28741-northstar-agent-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-28741-northstar-agent-rce-poc">
