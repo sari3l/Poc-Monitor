@@ -2828,6 +2828,7 @@
 ## CVE-2020-24913 (2021-03-04T13:15:00)
 > A SQL injection vulnerability in qcubed (all versions including 3.1.1) in profile.php via the strQuery parameter allows an unauthenticated attacker to access the database by injecting SQL code via a crafted POST request.
 - [agarma/CVE-2020-24913-PoC](https://github.com/agarma/CVE-2020-24913-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/agarma/CVE-2020-24913-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/agarma/CVE-2020-24913-PoC">
+- [shpaw415/CVE-2020-24913-exploit](https://github.com/shpaw415/CVE-2020-24913-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shpaw415/CVE-2020-24913-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shpaw415/CVE-2020-24913-exploit">
 
 ---
 ## CVE-2020-24881 (2020-11-02T21:15:00)
