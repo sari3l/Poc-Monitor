@@ -490,6 +490,11 @@
 - [sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool](https://github.com/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">
 
 ---
+## CVE-2025-31644 ()
+> 
+- [mbadanoiu/CVE-2025-31644](https://github.com/mbadanoiu/CVE-2025-31644)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-31644">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-31644">
+
+---
 ## CVE-2025-31486 ()
 > 
 - [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-31486-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-31486-PoC">
