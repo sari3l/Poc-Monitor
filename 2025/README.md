@@ -1353,6 +1353,7 @@
 - [Erosion2020/CVE-2025-24813-vulhub](https://github.com/Erosion2020/CVE-2025-24813-vulhub)	<img alt="forks" src="https://img.shields.io/github/forks/Erosion2020/CVE-2025-24813-vulhub">	<img alt="stars" src="https://img.shields.io/github/stars/Erosion2020/CVE-2025-24813-vulhub">
 - [hakankarabacak/CVE-2025-24813](https://github.com/hakankarabacak/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/hakankarabacak/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/hakankarabacak/CVE-2025-24813">
 - [Eduardo-hardvester/CVE-2025-24813](https://github.com/Eduardo-hardvester/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Eduardo-hardvester/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Eduardo-hardvester/CVE-2025-24813">
+- [fatkz/CVE-2025-24813](https://github.com/fatkz/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
