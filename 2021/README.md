@@ -6073,6 +6073,7 @@
 - [Sebastianbedoya25/CVE-2021-3156](https://github.com/Sebastianbedoya25/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Sebastianbedoya25/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Sebastianbedoya25/CVE-2021-3156">
 - [Sornphut/CVE-2021-3156-Heap-Based-Buffer-Overflow-in-Sudo-Baron-Samedit-](https://github.com/Sornphut/CVE-2021-3156-Heap-Based-Buffer-Overflow-in-Sudo-Baron-Samedit-)	<img alt="forks" src="https://img.shields.io/github/forks/Sornphut/CVE-2021-3156-Heap-Based-Buffer-Overflow-in-Sudo-Baron-Samedit-">	<img alt="stars" src="https://img.shields.io/github/stars/Sornphut/CVE-2021-3156-Heap-Based-Buffer-Overflow-in-Sudo-Baron-Samedit-">
 - [ten-ops/baron-samedit](https://github.com/ten-ops/baron-samedit)	<img alt="forks" src="https://img.shields.io/github/forks/ten-ops/baron-samedit">	<img alt="stars" src="https://img.shields.io/github/stars/ten-ops/baron-samedit">
+- [shishirpandey18/CVE-2021-3156](https://github.com/shishirpandey18/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/shishirpandey18/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/shishirpandey18/CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
