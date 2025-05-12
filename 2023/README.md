@@ -4323,6 +4323,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [codeb0ss/CVE-2023-34747-PoC](https://github.com/codeb0ss/CVE-2023-34747-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-34747-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-34747-PoC">
 
 ---
+## CVE-2023-34732 ()
+> 
+- [saykino/CVE-2023-34732](https://github.com/saykino/CVE-2023-34732)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2023-34732">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2023-34732">
+
+---
 ## CVE-2023-34634 (2023-08-01T14:15:00)
 > Greenshot 1.2.10 and below allows arbitrary code execution because .NET content is insecurely deserialized when a .greenshot file is opened.
 - [radman404/CVE-2023-34634](https://github.com/radman404/CVE-2023-34634)	<img alt="forks" src="https://img.shields.io/github/forks/radman404/CVE-2023-34634">	<img alt="stars" src="https://img.shields.io/github/stars/radman404/CVE-2023-34634">

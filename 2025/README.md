@@ -1418,6 +1418,7 @@
 - [jailbreakdotparty/dirtyZero](https://github.com/jailbreakdotparty/dirtyZero)	<img alt="forks" src="https://img.shields.io/github/forks/jailbreakdotparty/dirtyZero">	<img alt="stars" src="https://img.shields.io/github/stars/jailbreakdotparty/dirtyZero">
 - [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths)	<img alt="forks" src="https://img.shields.io/github/forks/BlueDiamond2021/iOS-CVE-2025-24203-Paths">	<img alt="stars" src="https://img.shields.io/github/stars/BlueDiamond2021/iOS-CVE-2025-24203-Paths">
 - [Ravibr87/dirtyZero](https://github.com/Ravibr87/dirtyZero)	<img alt="forks" src="https://img.shields.io/github/forks/Ravibr87/dirtyZero">	<img alt="stars" src="https://img.shields.io/github/stars/Ravibr87/dirtyZero">
+- [GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift](https://github.com/GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift)	<img alt="forks" src="https://img.shields.io/github/forks/GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift">	<img alt="stars" src="https://img.shields.io/github/stars/GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift">
 
 ---
 ## CVE-2025-24200 ()
