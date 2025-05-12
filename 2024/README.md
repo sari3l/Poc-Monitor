@@ -3187,6 +3187,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [p33d/CVE-2024-43917](https://github.com/p33d/CVE-2024-43917)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-43917">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-43917">
 
 ---
+## CVE-2024-43788 ()
+> 
+- [batzionb/webpack-cve-2024-43788](https://github.com/batzionb/webpack-cve-2024-43788)	<img alt="forks" src="https://img.shields.io/github/forks/batzionb/webpack-cve-2024-43788">	<img alt="stars" src="https://img.shields.io/github/stars/batzionb/webpack-cve-2024-43788">
+
+---
 ## CVE-2024-43768 ()
 > 
 - [Mahesh-970/CVE-2024-43768](https://github.com/Mahesh-970/CVE-2024-43768)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-43768">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-43768">
