@@ -1389,6 +1389,11 @@
 - [Live-Hack-CVE/CVE-2018-14519](https://github.com/Live-Hack-CVE/CVE-2018-14519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-14519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-14519">
 
 ---
+## CVE-2018-14498 ()
+> 
+- [h31md4llr/libjpeg_cve-2018-14498](https://github.com/h31md4llr/libjpeg_cve-2018-14498)	<img alt="forks" src="https://img.shields.io/github/forks/h31md4llr/libjpeg_cve-2018-14498">	<img alt="stars" src="https://img.shields.io/github/stars/h31md4llr/libjpeg_cve-2018-14498">
+
+---
 ## CVE-2018-14470 (2019-10-03T16:15:00)
 > The Babel parser in tcpdump before 4.9.3 has a buffer over-read in print-babel.c:babel_print_v2().
 - [uthrasri/CVE-2018-14470_tcpdump_AOSP10_R33](https://github.com/uthrasri/CVE-2018-14470_tcpdump_AOSP10_R33)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2018-14470_tcpdump_AOSP10_R33">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2018-14470_tcpdump_AOSP10_R33">
