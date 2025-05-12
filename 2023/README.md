@@ -2451,6 +2451,11 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [J3Ss0u/CVE-2023-41993](https://github.com/J3Ss0u/CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/J3Ss0u/CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/J3Ss0u/CVE-2023-41993">
 
 ---
+## CVE-2023-41992 ()
+> 
+- [karzanWang/CVE-2023-41992](https://github.com/karzanWang/CVE-2023-41992)	<img alt="forks" src="https://img.shields.io/github/forks/karzanWang/CVE-2023-41992">	<img alt="stars" src="https://img.shields.io/github/stars/karzanWang/CVE-2023-41992">
+
+---
 ## CVE-2023-41991 (2023-09-21T19:15:00)
 > A certificate validation issue was addressed. This issue is fixed in macOS Ventura 13.6, iOS 16.7 and iPadOS 16.7. A malicious app may be able to bypass signature validation. Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 16.7.
 - [ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-41991">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-41991">
