@@ -9576,6 +9576,7 @@ resulting in database manipulation.
 - [filipzag/CVE-2024-10220](https://github.com/filipzag/CVE-2024-10220)	<img alt="forks" src="https://img.shields.io/github/forks/filipzag/CVE-2024-10220">	<img alt="stars" src="https://img.shields.io/github/stars/filipzag/CVE-2024-10220">
 - [filipzag/CVE-2024-10220](https://github.com/filipzag/CVE-2024-10220)	<img alt="forks" src="https://img.shields.io/github/forks/filipzag/CVE-2024-10220">	<img alt="stars" src="https://img.shields.io/github/stars/filipzag/CVE-2024-10220">
 - [candranapits/poc-CVE-2024-10220](https://github.com/candranapits/poc-CVE-2024-10220)	<img alt="forks" src="https://img.shields.io/github/forks/candranapits/poc-CVE-2024-10220">	<img alt="stars" src="https://img.shields.io/github/stars/candranapits/poc-CVE-2024-10220">
+- [orgC/CVE-2024-10220-demo](https://github.com/orgC/CVE-2024-10220-demo)	<img alt="forks" src="https://img.shields.io/github/forks/orgC/CVE-2024-10220-demo">	<img alt="stars" src="https://img.shields.io/github/stars/orgC/CVE-2024-10220-demo">
 
 ---
 ## CVE-2024-10140 (2024-10-19T15:15:00)
