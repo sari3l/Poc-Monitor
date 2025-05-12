@@ -1285,6 +1285,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-55466 ()
 > 
 - [cybsecsid/ThingsBoard-CVE-2024-55466](https://github.com/cybsecsid/ThingsBoard-CVE-2024-55466)	<img alt="forks" src="https://img.shields.io/github/forks/cybsecsid/ThingsBoard-CVE-2024-55466">	<img alt="stars" src="https://img.shields.io/github/stars/cybsecsid/ThingsBoard-CVE-2024-55466">
+- [cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466](https://github.com/cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466)	<img alt="forks" src="https://img.shields.io/github/forks/cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466">	<img alt="stars" src="https://img.shields.io/github/stars/cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466">
 
 ---
 ## CVE-2024-55457 ()
