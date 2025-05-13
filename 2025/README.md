@@ -524,6 +524,11 @@
 - [sug4r-wr41th/CVE-2025-31324](https://github.com/sug4r-wr41th/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-31324">
 
 ---
+## CVE-2025-31258 ()
+> 
+- [wh1te4ever/CVE-2025-31258-PoC](https://github.com/wh1te4ever/CVE-2025-31258-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wh1te4ever/CVE-2025-31258-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wh1te4ever/CVE-2025-31258-PoC">
+
+---
 ## CVE-2025-31161 ()
 > 
 - [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/CVE-2025-31161">
