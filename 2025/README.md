@@ -389,6 +389,7 @@
 - [Channeeee/CVE-2025-3248-Langflow-validate-code-API-](https://github.com/Channeeee/CVE-2025-3248-Langflow-validate-code-API-)	<img alt="forks" src="https://img.shields.io/github/forks/Channeeee/CVE-2025-3248-Langflow-validate-code-API-">	<img alt="stars" src="https://img.shields.io/github/stars/Channeeee/CVE-2025-3248-Langflow-validate-code-API-">
 - [minxxcozy/CVE-2025-3248-langflow-RCE](https://github.com/minxxcozy/CVE-2025-3248-langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/minxxcozy/CVE-2025-3248-langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/minxxcozy/CVE-2025-3248-langflow-RCE">
 - [Praison001/CVE-2025-3248](https://github.com/Praison001/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2025-3248">
+- [vigilante-1337/CVE-2025-3248](https://github.com/vigilante-1337/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2025-3248">
 
 ---
 ## CVE-2025-32433 ()
