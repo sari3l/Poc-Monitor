@@ -1392,6 +1392,7 @@
 ## CVE-2018-14498 ()
 > 
 - [h31md4llr/libjpeg_cve-2018-14498](https://github.com/h31md4llr/libjpeg_cve-2018-14498)	<img alt="forks" src="https://img.shields.io/github/forks/h31md4llr/libjpeg_cve-2018-14498">	<img alt="stars" src="https://img.shields.io/github/stars/h31md4llr/libjpeg_cve-2018-14498">
+- [h31md4llr/libjpeg_cve-2018-14498](https://github.com/h31md4llr/libjpeg_cve-2018-14498)	<img alt="forks" src="https://img.shields.io/github/forks/h31md4llr/libjpeg_cve-2018-14498">	<img alt="stars" src="https://img.shields.io/github/stars/h31md4llr/libjpeg_cve-2018-14498">
 
 ---
 ## CVE-2018-14470 (2019-10-03T16:15:00)
