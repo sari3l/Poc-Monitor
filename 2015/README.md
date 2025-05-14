@@ -235,6 +235,8 @@
 - [nootropics/propane](https://github.com/nootropics/propane)	<img alt="forks" src="https://img.shields.io/github/forks/nootropics/propane">	<img alt="stars" src="https://img.shields.io/github/stars/nootropics/propane">
 - [shk0x/cpx_proftpd](https://github.com/shk0x/cpx_proftpd)	<img alt="forks" src="https://img.shields.io/github/forks/shk0x/cpx_proftpd">	<img alt="stars" src="https://img.shields.io/github/stars/shk0x/cpx_proftpd">
 - [xchg-rax-rax/CVE-2015-3306-](https://github.com/xchg-rax-rax/CVE-2015-3306-)	<img alt="forks" src="https://img.shields.io/github/forks/xchg-rax-rax/CVE-2015-3306-">	<img alt="stars" src="https://img.shields.io/github/stars/xchg-rax-rax/CVE-2015-3306-">
+- [Z3R0-0x30/CVE-2015-3306](https://github.com/Z3R0-0x30/CVE-2015-3306)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2015-3306">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2015-3306">
+- [JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution](https://github.com/JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution">
 
 ---
 ## CVE-2015-3239 (2015-08-26T19:59:00)
