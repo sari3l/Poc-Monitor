@@ -115,6 +115,11 @@
 - [joey-melo/CVE-2025-442025](https://github.com/joey-melo/CVE-2025-442025)	<img alt="forks" src="https://img.shields.io/github/forks/joey-melo/CVE-2025-442025">	<img alt="stars" src="https://img.shields.io/github/stars/joey-melo/CVE-2025-442025">
 
 ---
+## CVE-2025-44184 ()
+> 
+- [cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0](https://github.com/cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0">
+
+---
 ## CVE-2025-4403 ()
 > 
 - [Yucaerin/CVE-2025-4403](https://github.com/Yucaerin/CVE-2025-4403)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4403">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4403">
@@ -1004,6 +1009,7 @@
 ## CVE-2025-27636 ()
 > 
 - [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-27636-Apache-Camel-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-27636-Apache-Camel-PoC">
+- [enochgitgamefied/CVE-2025-27636-Pratctical-Lab](https://github.com/enochgitgamefied/CVE-2025-27636-Pratctical-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/CVE-2025-27636-Pratctical-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/CVE-2025-27636-Pratctical-Lab">
 
 ---
 ## CVE-2025-27533 ()
