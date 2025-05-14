@@ -4374,6 +4374,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [pankass/CVE-2024-37032_CVE-2024-45436](https://github.com/pankass/CVE-2024-37032_CVE-2024-45436)	<img alt="forks" src="https://img.shields.io/github/forks/pankass/CVE-2024-37032_CVE-2024-45436">	<img alt="stars" src="https://img.shields.io/github/stars/pankass/CVE-2024-37032_CVE-2024-45436">
 
 ---
+## CVE-2024-37010 ()
+> 
+- [SarpantKeltiek/CVE-2024-37010](https://github.com/SarpantKeltiek/CVE-2024-37010)	<img alt="forks" src="https://img.shields.io/github/forks/SarpantKeltiek/CVE-2024-37010">	<img alt="stars" src="https://img.shields.io/github/stars/SarpantKeltiek/CVE-2024-37010">
+
+---
 ## CVE-2024-36991 (2024-07-01T17:15:00)
 > In Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10, an attacker could perform a path traversal on the /modules/messaging/ endpoint in Splunk Enterprise on Windows. This vulnerability should only affect Splunk Enterprise on Windows.
 - [bigb0x/CVE-2024-36991](https://github.com/bigb0x/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36991">
