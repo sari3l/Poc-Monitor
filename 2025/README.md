@@ -1449,6 +1449,13 @@
 - [McTavishSue/CVE-2025-24200](https://github.com/McTavishSue/CVE-2025-24200)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-24200">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-24200">
 
 ---
+## CVE-2025-24132 ()
+> 
+- [Feralthedogg/CVE-2025-24132-Scanner](https://github.com/Feralthedogg/CVE-2025-24132-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Feralthedogg/CVE-2025-24132-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Feralthedogg/CVE-2025-24132-Scanner">
+- [ekomsSavior/AirBorne-PoC](https://github.com/ekomsSavior/AirBorne-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/AirBorne-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/AirBorne-PoC">
+- [apwlq/AirBorne-PoC](https://github.com/apwlq/AirBorne-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/apwlq/AirBorne-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/apwlq/AirBorne-PoC">
+
+---
 ## CVE-2025-24118 ()
 > 
 - [rawtips/-CVE-2025-24118](https://github.com/rawtips/-CVE-2025-24118)	<img alt="forks" src="https://img.shields.io/github/forks/rawtips/-CVE-2025-24118">	<img alt="stars" src="https://img.shields.io/github/stars/rawtips/-CVE-2025-24118">
