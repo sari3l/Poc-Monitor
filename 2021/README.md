@@ -1610,6 +1610,7 @@
 - [simplylu/CVE-2021-42694](https://github.com/simplylu/CVE-2021-42694)	<img alt="forks" src="https://img.shields.io/github/forks/simplylu/CVE-2021-42694">	<img alt="stars" src="https://img.shields.io/github/stars/simplylu/CVE-2021-42694">
 - [pierDipi/unicode-control-characters-action](https://github.com/pierDipi/unicode-control-characters-action)	<img alt="forks" src="https://img.shields.io/github/forks/pierDipi/unicode-control-characters-action">	<img alt="stars" src="https://img.shields.io/github/stars/pierDipi/unicode-control-characters-action">
 - [hffaust/CVE-2021-42574_and_CVE-2021-42694](https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694)	<img alt="forks" src="https://img.shields.io/github/forks/hffaust/CVE-2021-42574_and_CVE-2021-42694">	<img alt="stars" src="https://img.shields.io/github/stars/hffaust/CVE-2021-42574_and_CVE-2021-42694">
+- [k271266/CVE-2021-42694](https://github.com/k271266/CVE-2021-42694)	<img alt="forks" src="https://img.shields.io/github/forks/k271266/CVE-2021-42694">	<img alt="stars" src="https://img.shields.io/github/stars/k271266/CVE-2021-42694">
 
 ---
 ## CVE-2021-42669 (2021-11-05T13:15:00)
