@@ -5334,6 +5334,9 @@
 - [monjheta/CVE-2020-0796](https://github.com/monjheta/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/monjheta/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/monjheta/CVE-2020-0796">
 - [madanokr001/CVE-2020-0796](https://github.com/madanokr001/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/madanokr001/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/madanokr001/CVE-2020-0796">
 - [DannyRavi/nmap-scripts](https://github.com/DannyRavi/nmap-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/DannyRavi/nmap-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/DannyRavi/nmap-scripts">
+- [tyroneml/CVE-2020-0796-Exploit-Demo](https://github.com/tyroneml/CVE-2020-0796-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/tyroneml/CVE-2020-0796-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/tyroneml/CVE-2020-0796-Exploit-Demo">
+- [Chrisync/CVE-Scanner](https://github.com/Chrisync/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Chrisync/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Chrisync/CVE-Scanner">
+- [DanielFEXKEX/CVE-Scanner](https://github.com/DanielFEXKEX/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DanielFEXKEX/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DanielFEXKEX/CVE-Scanner">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
