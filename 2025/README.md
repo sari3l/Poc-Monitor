@@ -807,6 +807,11 @@
 - [EarthAngel666/x-middleware-exploit](https://github.com/EarthAngel666/x-middleware-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/EarthAngel666/x-middleware-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/EarthAngel666/x-middleware-exploit">
 
 ---
+## CVE-2025-29824 ()
+> 
+- [encrypter15/CVE-2025-29824](https://github.com/encrypter15/CVE-2025-29824)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-29824">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-29824">
+
+---
 ## CVE-2025-29814 ()
 > 
 - [SatiresHashi/CVE-2025-29814](https://github.com/SatiresHashi/CVE-2025-29814)	<img alt="forks" src="https://img.shields.io/github/forks/SatiresHashi/CVE-2025-29814">	<img alt="stars" src="https://img.shields.io/github/stars/SatiresHashi/CVE-2025-29814">
