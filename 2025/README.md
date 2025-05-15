@@ -548,6 +548,7 @@
 ## CVE-2025-31258 ()
 > 
 - [wh1te4ever/CVE-2025-31258-PoC](https://github.com/wh1te4ever/CVE-2025-31258-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wh1te4ever/CVE-2025-31258-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wh1te4ever/CVE-2025-31258-PoC">
+- [BODE987/CVE-2025-31258-PoC](https://github.com/BODE987/CVE-2025-31258-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BODE987/CVE-2025-31258-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BODE987/CVE-2025-31258-PoC">
 
 ---
 ## CVE-2025-31161 ()
