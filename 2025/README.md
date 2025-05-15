@@ -263,6 +263,7 @@
 ## CVE-2025-4094 ()
 > 
 - [starawneh/CVE-2025-4094](https://github.com/starawneh/CVE-2025-4094)	<img alt="forks" src="https://img.shields.io/github/forks/starawneh/CVE-2025-4094">	<img alt="stars" src="https://img.shields.io/github/stars/starawneh/CVE-2025-4094">
+- [POCPioneer/CVE-2025-4094-POC](https://github.com/POCPioneer/CVE-2025-4094-POC)	<img alt="forks" src="https://img.shields.io/github/forks/POCPioneer/CVE-2025-4094-POC">	<img alt="stars" src="https://img.shields.io/github/stars/POCPioneer/CVE-2025-4094-POC">
 
 ---
 ## CVE-2025-3971 ()
