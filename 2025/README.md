@@ -645,6 +645,11 @@
 - [W01fh4cker/CVE-2025-30406](https://github.com/W01fh4cker/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2025-30406">
 
 ---
+## CVE-2025-30397 ()
+> 
+- [Sratet/CVE-2025-30397-RCE](https://github.com/Sratet/CVE-2025-30397-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-30397-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-30397-RCE">
+
+---
 ## CVE-2025-30392 ()
 > 
 - [Totunm/CVE-2025-30392](https://github.com/Totunm/CVE-2025-30392)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-30392">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-30392">
