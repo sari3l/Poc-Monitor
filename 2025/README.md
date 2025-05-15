@@ -43,6 +43,11 @@
 - [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-492025">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-492025">
 
 ---
+## CVE-2025-4784 ()
+> 
+- [sahici/CVE-2025-4784](https://github.com/sahici/CVE-2025-4784)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4784">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4784">
+
+---
 ## CVE-2025-47810 ()
 > 
 - [ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810)	<img alt="forks" src="https://img.shields.io/github/forks/ptrstr/CVE-2025-47810">	<img alt="stars" src="https://img.shields.io/github/stars/ptrstr/CVE-2025-47810">
@@ -76,6 +81,16 @@
 ## CVE-2025-47226 ()
 > 
 - [koyomihack00/CVE-2025-47226](https://github.com/koyomihack00/CVE-2025-47226)	<img alt="forks" src="https://img.shields.io/github/forks/koyomihack00/CVE-2025-47226">	<img alt="stars" src="https://img.shields.io/github/stars/koyomihack00/CVE-2025-47226">
+
+---
+## CVE-2025-4688 ()
+> 
+- [sahici/CVE-2025-4688](https://github.com/sahici/CVE-2025-4688)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4688">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4688">
+
+---
+## CVE-2025-4686 ()
+> 
+- [sahici/CVE-2025-4686](https://github.com/sahici/CVE-2025-4686)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4686">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4686">
 
 ---
 ## CVE-2025-46731 ()
