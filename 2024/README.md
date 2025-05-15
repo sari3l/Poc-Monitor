@@ -1732,6 +1732,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-51793 ()
 > 
 - [Nxploited/CVE-2024-51793](https://github.com/Nxploited/CVE-2024-51793)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-51793">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-51793">
+- [KTN1990/CVE-2024-51793](https://github.com/KTN1990/CVE-2024-51793)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-51793">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-51793">
 
 ---
 ## CVE-2024-51788 ()
