@@ -144,6 +144,7 @@
 ## CVE-2025-4427 ()
 > 
 - [watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428">
+- [cdrom0/CVE-2025-4427](https://github.com/cdrom0/CVE-2025-4427)	<img alt="forks" src="https://img.shields.io/github/forks/cdrom0/CVE-2025-4427">	<img alt="stars" src="https://img.shields.io/github/stars/cdrom0/CVE-2025-4427">
 
 ---
 ## CVE-2025-442025 ()
