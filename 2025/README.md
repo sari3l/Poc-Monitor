@@ -53,6 +53,11 @@
 - [ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810)	<img alt="forks" src="https://img.shields.io/github/forks/ptrstr/CVE-2025-47810">	<img alt="stars" src="https://img.shields.io/github/stars/ptrstr/CVE-2025-47810">
 
 ---
+## CVE-2025-47646 ()
+> 
+- [Nxploited/CVE-2025-47646](https://github.com/Nxploited/CVE-2025-47646)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-47646">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-47646">
+
+---
 ## CVE-2025-47550 ()
 > 
 - [d0n601/CVE-2025-47550](https://github.com/d0n601/CVE-2025-47550)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-47550">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-47550">
