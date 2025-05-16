@@ -4435,6 +4435,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Nxploited/CVE-2024-3673](https://github.com/Nxploited/CVE-2024-3673)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-3673">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-3673">
 
 ---
+## CVE-2024-3661 ()
+> 
+- [Wh1t3Fox/CVE-2024-3661](https://github.com/Wh1t3Fox/CVE-2024-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1t3Fox/CVE-2024-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1t3Fox/CVE-2024-3661">
+
+---
 ## CVE-2024-36587 ()
 > 
 - [meeeeing/CVE-2024-36587](https://github.com/meeeeing/CVE-2024-36587)	<img alt="forks" src="https://img.shields.io/github/forks/meeeeing/CVE-2024-36587">	<img alt="stars" src="https://img.shields.io/github/stars/meeeeing/CVE-2024-36587">
