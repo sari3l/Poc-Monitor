@@ -422,6 +422,7 @@
 ## CVE-2025-32583 ()
 > 
 - [Nxploited/CVE-2025-32583](https://github.com/Nxploited/CVE-2025-32583)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32583">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32583">
+- [GadaLuBau1337/CVE-2025-32583](https://github.com/GadaLuBau1337/CVE-2025-32583)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2025-32583">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2025-32583">
 
 ---
 ## CVE-2025-32579 ()
