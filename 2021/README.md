@@ -746,6 +746,11 @@
 - [Live-Hack-CVE/CVE-2021-44358](https://github.com/Live-Hack-CVE/CVE-2021-44358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44358">
 
 ---
+## CVE-2021-4428 ()
+> 
+- [GianlucaSanfi/cve-2021-4428](https://github.com/GianlucaSanfi/cve-2021-4428)	<img alt="forks" src="https://img.shields.io/github/forks/GianlucaSanfi/cve-2021-4428">	<img alt="stars" src="https://img.shields.io/github/stars/GianlucaSanfi/cve-2021-4428">
+
+---
 ## CVE-2021-44270 ()
 > 
 - [pinpinsec/CVE-2021-44270](https://github.com/pinpinsec/CVE-2021-44270)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/CVE-2021-44270">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/CVE-2021-44270">
