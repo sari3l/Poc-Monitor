@@ -144,7 +144,7 @@
 ## CVE-2025-4427 ()
 > 
 - [watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428">
-- [cdrom0/CVE-2025-4427](https://github.com/cdrom0/CVE-2025-4427)	<img alt="forks" src="https://img.shields.io/github/forks/cdrom0/CVE-2025-4427">	<img alt="stars" src="https://img.shields.io/github/stars/cdrom0/CVE-2025-4427">
+- [doomygloom/CVE-2025-4427](https://github.com/doomygloom/CVE-2025-4427)	<img alt="forks" src="https://img.shields.io/github/forks/doomygloom/CVE-2025-4427">	<img alt="stars" src="https://img.shields.io/github/stars/doomygloom/CVE-2025-4427">
 
 ---
 ## CVE-2025-442025 ()
@@ -1880,6 +1880,7 @@
 - [ThreeMens/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/ThreeMens/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/ThreeMens/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/ThreeMens/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Subha-coder-hash/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Subha-coder-hash/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Subha-coder-hash/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Subha-coder-hash/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
+- [Taonauz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Taonauz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Taonauz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Taonauz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 
 ---
 ## CVE-2025-1094 ()
