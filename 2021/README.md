@@ -3087,6 +3087,7 @@
 - [Z3R0-0x30/CVE-2021-4034](https://github.com/Z3R0-0x30/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2021-4034">
 - [DanielFEXKEX/CVE-Scanner](https://github.com/DanielFEXKEX/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DanielFEXKEX/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DanielFEXKEX/CVE-Scanner">
 - [Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034-](https://github.com/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034-)	<img alt="forks" src="https://img.shields.io/github/forks/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034-">	<img alt="stars" src="https://img.shields.io/github/stars/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034-">
+- [kali-guru/Pwnkit-CVE-2021-4034](https://github.com/kali-guru/Pwnkit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/kali-guru/Pwnkit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/kali-guru/Pwnkit-CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
