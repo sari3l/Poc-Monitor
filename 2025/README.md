@@ -73,6 +73,11 @@
 - [d0n601/CVE-2025-47549](https://github.com/d0n601/CVE-2025-47549)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-47549">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-47549">
 
 ---
+## CVE-2025-47539 ()
+> 
+- [Nxploited/CVE-2025-47539](https://github.com/Nxploited/CVE-2025-47539)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-47539">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-47539">
+
+---
 ## CVE-2025-47423 ()
 > 
 - [Haluka92/CVE-2025-47423](https://github.com/Haluka92/CVE-2025-47423)	<img alt="forks" src="https://img.shields.io/github/forks/Haluka92/CVE-2025-47423">	<img alt="stars" src="https://img.shields.io/github/stars/Haluka92/CVE-2025-47423">
