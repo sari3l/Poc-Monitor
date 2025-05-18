@@ -3541,6 +3541,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [zxj-hub/CVE-2024-41713POC](https://github.com/zxj-hub/CVE-2024-41713POC)	<img alt="forks" src="https://img.shields.io/github/forks/zxj-hub/CVE-2024-41713POC">	<img alt="stars" src="https://img.shields.io/github/stars/zxj-hub/CVE-2024-41713POC">
 - [Sanandd/cve-2024-CVE-2024-41713](https://github.com/Sanandd/cve-2024-CVE-2024-41713)	<img alt="forks" src="https://img.shields.io/github/forks/Sanandd/cve-2024-CVE-2024-41713">	<img alt="stars" src="https://img.shields.io/github/stars/Sanandd/cve-2024-CVE-2024-41713">
 - [amanverma-wsu/CVE-2024-41713-Scan](https://github.com/amanverma-wsu/CVE-2024-41713-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/amanverma-wsu/CVE-2024-41713-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/amanverma-wsu/CVE-2024-41713-Scan">
+- [gunyakit/CVE-2024-41713-PoC-exploit](https://github.com/gunyakit/CVE-2024-41713-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2024-41713-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2024-41713-PoC-exploit">
 
 ---
 ## CVE-2024-41662 (2024-07-24T17:15:00)
