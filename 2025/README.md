@@ -1561,6 +1561,7 @@
 ## CVE-2025-24104 ()
 > 
 - [ifpdz/CVE-2025-24104](https://github.com/ifpdz/CVE-2025-24104)	<img alt="forks" src="https://img.shields.io/github/forks/ifpdz/CVE-2025-24104">	<img alt="stars" src="https://img.shields.io/github/stars/ifpdz/CVE-2025-24104">
+- [missaels235/POC-CVE-2025-24104-Py](https://github.com/missaels235/POC-CVE-2025-24104-Py)	<img alt="forks" src="https://img.shields.io/github/forks/missaels235/POC-CVE-2025-24104-Py">	<img alt="stars" src="https://img.shields.io/github/stars/missaels235/POC-CVE-2025-24104-Py">
 
 ---
 ## CVE-2025-24091 ()
