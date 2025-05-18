@@ -28,6 +28,11 @@
 - [NotItsSixtyN3in/CVE-2025-50000](https://github.com/NotItsSixtyN3in/CVE-2025-50000)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-50000">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-50000">
 
 ---
+## CVE-2025-4921 ()
+> 
+- [doomygloom/CVE-2025-4921](https://github.com/doomygloom/CVE-2025-4921)	<img alt="forks" src="https://img.shields.io/github/forks/doomygloom/CVE-2025-4921">	<img alt="stars" src="https://img.shields.io/github/stars/doomygloom/CVE-2025-4921">
+
+---
 ## CVE-2025-492030 ()
 > 
 - [ImTheCopilotNow/CVE-2025-492030](https://github.com/ImTheCopilotNow/CVE-2025-492030)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-492030">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-492030">
@@ -126,6 +131,11 @@
 ## CVE-2025-46657 ()
 > 
 - [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657)	<img alt="forks" src="https://img.shields.io/github/forks/nov-1337/CVE-2025-46657">	<img alt="stars" src="https://img.shields.io/github/stars/nov-1337/CVE-2025-46657">
+
+---
+## CVE-2025-4664 ()
+> 
+- [doomygloom/CVE-2025-4664](https://github.com/doomygloom/CVE-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/doomygloom/CVE-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/doomygloom/CVE-2025-4664">
 
 ---
 ## CVE-2025-46271 ()
@@ -522,6 +532,11 @@
 ## CVE-2025-32375 ()
 > 
 - [theGEBIRGE/CVE-2025-32375](https://github.com/theGEBIRGE/CVE-2025-32375)	<img alt="forks" src="https://img.shields.io/github/forks/theGEBIRGE/CVE-2025-32375">	<img alt="stars" src="https://img.shields.io/github/stars/theGEBIRGE/CVE-2025-32375">
+
+---
+## CVE-2025-32259 ()
+> 
+- [HossamEAhmed/wp-ulike-cve-2025-32259-poc](https://github.com/HossamEAhmed/wp-ulike-cve-2025-32259-poc)	<img alt="forks" src="https://img.shields.io/github/forks/HossamEAhmed/wp-ulike-cve-2025-32259-poc">	<img alt="stars" src="https://img.shields.io/github/stars/HossamEAhmed/wp-ulike-cve-2025-32259-poc">
 
 ---
 ## CVE-2025-32206 ()

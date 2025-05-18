@@ -3137,6 +3137,7 @@ Allocated by task 6166:
 ## CVE-2024-44258 (2024-10-28T21:15:00)
 > This issue was addressed with improved handling of symlinks. This issue is fixed in iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, visionOS 2.1, tvOS 18.1. Restoring a maliciously crafted backup file may lead to modification of protected system files.
 - [ifpdz/CVE-2024-44258](https://github.com/ifpdz/CVE-2024-44258)	<img alt="forks" src="https://img.shields.io/github/forks/ifpdz/CVE-2024-44258">	<img alt="stars" src="https://img.shields.io/github/stars/ifpdz/CVE-2024-44258">
+- [missaels235/POC-CVE-2024-44258-Py](https://github.com/missaels235/POC-CVE-2024-44258-Py)	<img alt="forks" src="https://img.shields.io/github/forks/missaels235/POC-CVE-2024-44258-Py">	<img alt="stars" src="https://img.shields.io/github/stars/missaels235/POC-CVE-2024-44258-Py">
 
 ---
 ## CVE-2024-44193 (2024-10-02T15:15:00)
