@@ -1612,6 +1612,7 @@
 - [helidem/CVE-2025-24054-PoC](https://github.com/helidem/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054-PoC">
 - [ClementNjeru/CVE-2025-24054-PoC](https://github.com/ClementNjeru/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClementNjeru/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClementNjeru/CVE-2025-24054-PoC">
 - [S4mma3l/CVE-2025-24054](https://github.com/S4mma3l/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/S4mma3l/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/S4mma3l/CVE-2025-24054">
+- [moften/CVE-2025-24054](https://github.com/moften/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-24054">
 
 ---
 ## CVE-2025-2404 ()
