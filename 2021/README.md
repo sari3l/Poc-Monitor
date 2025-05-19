@@ -1163,6 +1163,7 @@
 - [davidr-io/Grafana-8.3-Directory-Traversal](https://github.com/davidr-io/Grafana-8.3-Directory-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/davidr-io/Grafana-8.3-Directory-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/davidr-io/Grafana-8.3-Directory-Traversal">
 - [wezoomagency/GrafXploit](https://github.com/wezoomagency/GrafXploit)	<img alt="forks" src="https://img.shields.io/github/forks/wezoomagency/GrafXploit">	<img alt="stars" src="https://img.shields.io/github/stars/wezoomagency/GrafXploit">
 - [monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read](https://github.com/monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read">
+- [abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester](https://github.com/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester)	<img alt="forks" src="https://img.shields.io/github/forks/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester">	<img alt="stars" src="https://img.shields.io/github/stars/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
