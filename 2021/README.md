@@ -3915,6 +3915,7 @@
 ## CVE-2021-38003 (2021-11-23T22:15:00)
 > Inappropriate implementation in V8 in Google Chrome prior to 95.0.4638.69 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">
+- [caffeinedoom/CVE-2021-38003](https://github.com/caffeinedoom/CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/caffeinedoom/CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/caffeinedoom/CVE-2021-38003">
 
 ---
 ## CVE-2021-38001 (2021-11-23T22:15:00)
