@@ -1862,6 +1862,7 @@
 - [chhhd/CVE-2025-1974](https://github.com/chhhd/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/chhhd/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/chhhd/CVE-2025-1974">
 - [salt318/CVE-2025-1974](https://github.com/salt318/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/salt318/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/salt318/CVE-2025-1974">
 - [abrewer251/CVE-2025-1974_IngressNightmare_PoC](https://github.com/abrewer251/CVE-2025-1974_IngressNightmare_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-1974_IngressNightmare_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-1974_IngressNightmare_PoC">
+- [Rickerd12/exploit-cve-2025-1974](https://github.com/Rickerd12/exploit-cve-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/Rickerd12/exploit-cve-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/Rickerd12/exploit-cve-2025-1974">
 
 ---
 ## CVE-2025-1716 ()
