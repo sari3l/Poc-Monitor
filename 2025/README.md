@@ -913,6 +913,11 @@
 - [SatiresHashi/CVE-2025-29814](https://github.com/SatiresHashi/CVE-2025-29814)	<img alt="forks" src="https://img.shields.io/github/forks/SatiresHashi/CVE-2025-29814">	<img alt="stars" src="https://img.shields.io/github/stars/SatiresHashi/CVE-2025-29814">
 
 ---
+## CVE-2025-29813 ()
+> 
+- [Sratet/CVE-2025-29813-PE](https://github.com/Sratet/CVE-2025-29813-PE)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-29813-PE">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-29813-PE">
+
+---
 ## CVE-2025-29810 ()
 > 
 - [aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/CVE-2025-29810-check">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/CVE-2025-29810-check">
