@@ -1174,6 +1174,11 @@
 - [andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe](https://github.com/andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe">
 
 ---
+## CVE-2018-16621 ()
+> 
+- [Loucy1231/Nexus-Repository-Manager3-EL-CVE-2018-16621-https-www.cve.org-CVERecord-id-CVE-2018-16621-](https://github.com/Loucy1231/Nexus-Repository-Manager3-EL-CVE-2018-16621-https-www.cve.org-CVERecord-id-CVE-2018-16621-)	<img alt="forks" src="https://img.shields.io/github/forks/Loucy1231/Nexus-Repository-Manager3-EL-CVE-2018-16621-https-www.cve.org-CVERecord-id-CVE-2018-16621-">	<img alt="stars" src="https://img.shields.io/github/stars/Loucy1231/Nexus-Repository-Manager3-EL-CVE-2018-16621-https-www.cve.org-CVERecord-id-CVE-2018-16621-">
+
+---
 ## CVE-2018-16530 (2019-04-09T19:29:00)
 > A stack-based buffer overflow in Forcepoint Email Security version 8.5 allows an attacker to craft malicious input and potentially crash a process creating a denial-of-service. While no known Remote Code Execution (RCE) vulnerabilities exist, as with all buffer overflows, the possibility of RCE cannot be completely ruled out. Data Execution Protection (DEP) is already enabled on the Email appliance as a risk mitigation.
 - [Live-Hack-CVE/CVE-2018-16530](https://github.com/Live-Hack-CVE/CVE-2018-16530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16530">
