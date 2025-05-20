@@ -68,6 +68,11 @@
 - [sahici/CVE-2025-4784](https://github.com/sahici/CVE-2025-4784)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4784">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4784">
 
 ---
+## CVE-2025-47827 ()
+> 
+- [Zedeldi/CVE-2025-47827](https://github.com/Zedeldi/CVE-2025-47827)	<img alt="forks" src="https://img.shields.io/github/forks/Zedeldi/CVE-2025-47827">	<img alt="stars" src="https://img.shields.io/github/stars/Zedeldi/CVE-2025-47827">
+
+---
 ## CVE-2025-47810 ()
 > 
 - [ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810)	<img alt="forks" src="https://img.shields.io/github/forks/ptrstr/CVE-2025-47810">	<img alt="stars" src="https://img.shields.io/github/stars/ptrstr/CVE-2025-47810">
