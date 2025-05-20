@@ -1613,6 +1613,7 @@
 - [clidancc1/CVE-2025-24085](https://github.com/clidancc1/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/clidancc1/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/clidancc1/CVE-2025-24085">
 - [bronsoneaver/CVE-2025-24085](https://github.com/bronsoneaver/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-24085">
 - [Joe-RayG/CVE-2025-24085-Disclosure](https://github.com/Joe-RayG/CVE-2025-24085-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/Joe-RayG/CVE-2025-24085-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/Joe-RayG/CVE-2025-24085-Disclosure">
+- [windz3r0day/CVE-2025-24085](https://github.com/windz3r0day/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2025-24085">
 
 ---
 ## CVE-2025-24071 ()
