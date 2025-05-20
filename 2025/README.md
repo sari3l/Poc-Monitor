@@ -53,6 +53,11 @@
 - [HExploited/CVE-2025-4919-Exploit](https://github.com/HExploited/CVE-2025-4919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HExploited/CVE-2025-4919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HExploited/CVE-2025-4919-Exploit">
 
 ---
+## CVE-2025-4918 ()
+> 
+- [cyruscostini/CVE-2025-4918-RCE](https://github.com/cyruscostini/CVE-2025-4918-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-4918-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-4918-RCE">
+
+---
 ## CVE-2025-4822 ()
 > 
 - [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4822">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4822">
@@ -71,6 +76,7 @@
 ## CVE-2025-47646 ()
 > 
 - [Nxploited/CVE-2025-47646](https://github.com/Nxploited/CVE-2025-47646)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-47646">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-47646">
+- [RootHarpy/CVE-2025-47646](https://github.com/RootHarpy/CVE-2025-47646)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-47646">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-47646">
 
 ---
 ## CVE-2025-47550 ()
