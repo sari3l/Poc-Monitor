@@ -56,6 +56,7 @@
 ## CVE-2025-4918 ()
 > 
 - [cyruscostini/CVE-2025-4918-RCE](https://github.com/cyruscostini/CVE-2025-4918-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-4918-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-4918-RCE">
+- [Totunm/CVE-2025-4918](https://github.com/Totunm/CVE-2025-4918)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-4918">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-4918">
 
 ---
 ## CVE-2025-4822 ()
