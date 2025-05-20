@@ -5744,6 +5744,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [XiaomingX/cve-2024-3094-xz-backdoor-exploit](https://github.com/XiaomingX/cve-2024-3094-xz-backdoor-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-3094-xz-backdoor-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-3094-xz-backdoor-exploit">
 - [AndreaCicca/Sicurezza-Informatica-Presentazione](https://github.com/AndreaCicca/Sicurezza-Informatica-Presentazione)	<img alt="forks" src="https://img.shields.io/github/forks/AndreaCicca/Sicurezza-Informatica-Presentazione">	<img alt="stars" src="https://img.shields.io/github/stars/AndreaCicca/Sicurezza-Informatica-Presentazione">
 - [been22426/CVE-2024-3094](https://github.com/been22426/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/been22426/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/been22426/CVE-2024-3094">
+- [laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094](https://github.com/laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094">
 
 ---
 ## CVE-2024-30937 ()
