@@ -1149,6 +1149,11 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [UnionTech-Software/libtheora-CVE-2024-56431-PoC](https://github.com/UnionTech-Software/libtheora-CVE-2024-56431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/UnionTech-Software/libtheora-CVE-2024-56431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/UnionTech-Software/libtheora-CVE-2024-56431-PoC">
 
 ---
+## CVE-2024-56429 ()
+> 
+- [lisa-2905/CVE-2024-56429](https://github.com/lisa-2905/CVE-2024-56429)	<img alt="forks" src="https://img.shields.io/github/forks/lisa-2905/CVE-2024-56429">	<img alt="stars" src="https://img.shields.io/github/stars/lisa-2905/CVE-2024-56429">
+
+---
 ## CVE-2024-56340 ()
 > 
 - [MarioTesoro/CVE-2024-56340](https://github.com/MarioTesoro/CVE-2024-56340)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-56340">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-56340">
