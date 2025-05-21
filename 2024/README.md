@@ -9097,6 +9097,11 @@ authentication.   
 - [Jimmy01240397/CVE-2024-12641_12642_12645](https://github.com/Jimmy01240397/CVE-2024-12641_12642_12645)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2024-12641_12642_12645">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2024-12641_12642_12645">
 
 ---
+## CVE-2024-12583 ()
+> 
+- [pouriam23/CVE-2024-12583-](https://github.com/pouriam23/CVE-2024-12583-)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/CVE-2024-12583-">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/CVE-2024-12583-">
+
+---
 ## CVE-2024-12558 ()
 > 
 - [Nxploited/CVE-2024-12558-exploit](https://github.com/Nxploited/CVE-2024-12558-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12558-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12558-exploit">
