@@ -244,6 +244,7 @@
 ## CVE-2025-4322 ()
 > 
 - [IndominusRexes/CVE-2025-4322-Exploit](https://github.com/IndominusRexes/CVE-2025-4322-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IndominusRexes/CVE-2025-4322-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IndominusRexes/CVE-2025-4322-Exploit">
+- [maximo896/CVE-2025-4322](https://github.com/maximo896/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/maximo896/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/maximo896/CVE-2025-4322">
 
 ---
 ## CVE-2025-42599 ()
@@ -1622,6 +1623,7 @@
 - [Joe-RayG/CVE-2025-24085-Disclosure](https://github.com/Joe-RayG/CVE-2025-24085-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/Joe-RayG/CVE-2025-24085-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/Joe-RayG/CVE-2025-24085-Disclosure">
 - [windz3r0day/CVE-2025-24085](https://github.com/windz3r0day/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2025-24085">
 - [pxx917144686/12345](https://github.com/pxx917144686/12345)	<img alt="forks" src="https://img.shields.io/github/forks/pxx917144686/12345">	<img alt="stars" src="https://img.shields.io/github/stars/pxx917144686/12345">
+- [apt-007/12345](https://github.com/apt-007/12345)	<img alt="forks" src="https://img.shields.io/github/forks/apt-007/12345">	<img alt="stars" src="https://img.shields.io/github/stars/apt-007/12345">
 
 ---
 ## CVE-2025-24071 ()
