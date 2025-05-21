@@ -133,6 +133,7 @@
 ## CVE-2025-46801 ()
 > 
 - [Sratet/CVE-2025-46801](https://github.com/Sratet/CVE-2025-46801)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-46801">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-46801">
+- [hendrewna/CVE-2025-46801](https://github.com/hendrewna/CVE-2025-46801)	<img alt="forks" src="https://img.shields.io/github/forks/hendrewna/CVE-2025-46801">	<img alt="stars" src="https://img.shields.io/github/stars/hendrewna/CVE-2025-46801">
 
 ---
 ## CVE-2025-46731 ()
