@@ -335,6 +335,11 @@
 - [NotItsSixtyN3in/CVE-2025-4162025](https://github.com/NotItsSixtyN3in/CVE-2025-4162025)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162025">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162025">
 
 ---
+## CVE-2025-4123 ()
+> 
+- [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
+
+---
 ## CVE-2025-412027 ()
 > 
 - [itssixtyn3in/CVE-2025-412027](https://github.com/itssixtyn3in/CVE-2025-412027)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-412027">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-412027">
