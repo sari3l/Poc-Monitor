@@ -202,6 +202,11 @@
 - [cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0](https://github.com/cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/CVE-2025-44184-SourceCodester-Best-Employee-Management-System-1.0">
 
 ---
+## CVE-2025-44108 ()
+> 
+- [harish0x/CVE-2025-44108-SXSS](https://github.com/harish0x/CVE-2025-44108-SXSS)	<img alt="forks" src="https://img.shields.io/github/forks/harish0x/CVE-2025-44108-SXSS">	<img alt="stars" src="https://img.shields.io/github/stars/harish0x/CVE-2025-44108-SXSS">
+
+---
 ## CVE-2025-4403 ()
 > 
 - [Yucaerin/CVE-2025-4403](https://github.com/Yucaerin/CVE-2025-4403)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4403">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4403">
