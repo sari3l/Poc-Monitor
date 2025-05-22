@@ -250,6 +250,7 @@
 > 
 - [IndominusRexes/CVE-2025-4322-Exploit](https://github.com/IndominusRexes/CVE-2025-4322-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IndominusRexes/CVE-2025-4322-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IndominusRexes/CVE-2025-4322-Exploit">
 - [maximo896/CVE-2025-4322](https://github.com/maximo896/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/maximo896/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/maximo896/CVE-2025-4322">
+- [Yucaerin/CVE-2025-4322](https://github.com/Yucaerin/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4322">
 
 ---
 ## CVE-2025-42599 ()
