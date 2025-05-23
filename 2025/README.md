@@ -131,6 +131,12 @@
 - [sahici/CVE-2025-4686](https://github.com/sahici/CVE-2025-4686)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4686">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4686">
 
 ---
+## CVE-2025-46822 ()
+> 
+- [d3sca/CVE-2025-46822](https://github.com/d3sca/CVE-2025-46822)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/CVE-2025-46822">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/CVE-2025-46822">
+- [d3sca/-CVE-2025-46822-](https://github.com/d3sca/-CVE-2025-46822-)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/-CVE-2025-46822-">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/-CVE-2025-46822-">
+
+---
 ## CVE-2025-46801 ()
 > 
 - [Sratet/CVE-2025-46801](https://github.com/Sratet/CVE-2025-46801)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-46801">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-46801">
