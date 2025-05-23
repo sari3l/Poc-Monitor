@@ -168,6 +168,11 @@
 - [1Altruist/CVE-2025-46271-Reverse-Shell-PoC](https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">
 
 ---
+## CVE-2025-4611 ()
+> 
+- [x6vrn/CVE-2025-4611-PoC](https://github.com/x6vrn/CVE-2025-4611-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/x6vrn/CVE-2025-4611-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/x6vrn/CVE-2025-4611-PoC">
+
+---
 ## CVE-2025-45250 ()
 > 
 - [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/Anike-x/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/Anike-x/CVE-2025-45250">
