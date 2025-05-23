@@ -58,6 +58,7 @@
 - [cyruscostini/CVE-2025-4918-RCE](https://github.com/cyruscostini/CVE-2025-4918-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-4918-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-4918-RCE">
 - [Totunm/CVE-2025-4918](https://github.com/Totunm/CVE-2025-4918)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-4918">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-4918">
 - [hendrewna/CVE-2025-4918](https://github.com/hendrewna/CVE-2025-4918)	<img alt="forks" src="https://img.shields.io/github/forks/hendrewna/CVE-2025-4918">	<img alt="stars" src="https://img.shields.io/github/stars/hendrewna/CVE-2025-4918">
+- [korden-c/CVE-2025-4918](https://github.com/korden-c/CVE-2025-4918)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-4918">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-4918">
 
 ---
 ## CVE-2025-4822 ()
@@ -142,6 +143,7 @@
 - [Sratet/CVE-2025-46801](https://github.com/Sratet/CVE-2025-46801)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-46801">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-46801">
 - [hendrewna/CVE-2025-46801](https://github.com/hendrewna/CVE-2025-46801)	<img alt="forks" src="https://img.shields.io/github/forks/hendrewna/CVE-2025-46801">	<img alt="stars" src="https://img.shields.io/github/stars/hendrewna/CVE-2025-46801">
 - [xplitter/CVE-2025-46801](https://github.com/xplitter/CVE-2025-46801)	<img alt="forks" src="https://img.shields.io/github/forks/xplitter/CVE-2025-46801">	<img alt="stars" src="https://img.shields.io/github/stars/xplitter/CVE-2025-46801">
+- [korden-c/CVE-2025-46801](https://github.com/korden-c/CVE-2025-46801)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-46801">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-46801">
 
 ---
 ## CVE-2025-46731 ()
