@@ -180,6 +180,11 @@
 - [ptrstr/CVE-2025-4524](https://github.com/ptrstr/CVE-2025-4524)	<img alt="forks" src="https://img.shields.io/github/forks/ptrstr/CVE-2025-4524">	<img alt="stars" src="https://img.shields.io/github/stars/ptrstr/CVE-2025-4524">
 
 ---
+## CVE-2025-44998 ()
+> 
+- [l8BL/CVE-2025-44998](https://github.com/l8BL/CVE-2025-44998)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2025-44998">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2025-44998">
+
+---
 ## CVE-2025-4428 ()
 > 
 - [xie-22/CVE-2025-4428](https://github.com/xie-22/CVE-2025-4428)	<img alt="forks" src="https://img.shields.io/github/forks/xie-22/CVE-2025-4428">	<img alt="stars" src="https://img.shields.io/github/stars/xie-22/CVE-2025-4428">
