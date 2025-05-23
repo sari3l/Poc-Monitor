@@ -1506,6 +1506,7 @@ use after free.
 ## CVE-2019-25137 (2023-05-18T07:15:00)
 > Umbraco CMS 7.12.4 allows Remote Code Execution by authenticated administrators via msxsl:script in an xsltSelection to developer/Xslt/xsltVisualize.aspx.
 - [Ickarah/CVE-2019-25137-Version-Research](https://github.com/Ickarah/CVE-2019-25137-Version-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Ickarah/CVE-2019-25137-Version-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Ickarah/CVE-2019-25137-Version-Research">
+- [dact91/CVE-2019-25137-RCE](https://github.com/dact91/CVE-2019-25137-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/dact91/CVE-2019-25137-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/dact91/CVE-2019-25137-RCE">
 
 ---
 ## CVE-2019-25100 (2023-01-08T11:15:00)
