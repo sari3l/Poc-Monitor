@@ -9103,6 +9103,7 @@ authentication.   
 ## CVE-2024-12583 ()
 > 
 - [pouriam23/CVE-2024-12583-](https://github.com/pouriam23/CVE-2024-12583-)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/CVE-2024-12583-">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/CVE-2024-12583-">
+- [pouriam23/CVE-2024-12583](https://github.com/pouriam23/CVE-2024-12583)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/CVE-2024-12583">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/CVE-2024-12583">
 
 ---
 ## CVE-2024-12558 ()
