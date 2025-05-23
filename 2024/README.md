@@ -4454,6 +4454,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 > 
 - [Wh1t3Fox/CVE-2024-3661](https://github.com/Wh1t3Fox/CVE-2024-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1t3Fox/CVE-2024-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1t3Fox/CVE-2024-3661">
 - [Wh1t3Fox/CVE-2024-3661](https://github.com/Wh1t3Fox/CVE-2024-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1t3Fox/CVE-2024-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1t3Fox/CVE-2024-3661">
+- [Roundthe-clock/CVE-2024-3661VPN](https://github.com/Roundthe-clock/CVE-2024-3661VPN)	<img alt="forks" src="https://img.shields.io/github/forks/Roundthe-clock/CVE-2024-3661VPN">	<img alt="stars" src="https://img.shields.io/github/stars/Roundthe-clock/CVE-2024-3661VPN">
 
 ---
 ## CVE-2024-36587 ()
