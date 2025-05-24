@@ -1510,6 +1510,7 @@
 ## CVE-2025-25014 ()
 > 
 - [Sratet/CVE-2025-25014](https://github.com/Sratet/CVE-2025-25014)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-25014">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-25014">
+- [davidxbors/CVE-2025-25014](https://github.com/davidxbors/CVE-2025-25014)	<img alt="forks" src="https://img.shields.io/github/forks/davidxbors/CVE-2025-25014">	<img alt="stars" src="https://img.shields.io/github/stars/davidxbors/CVE-2025-25014">
 
 ---
 ## CVE-2025-24971 ()
