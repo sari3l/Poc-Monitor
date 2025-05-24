@@ -3526,6 +3526,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [0xbassiouny1337/CVE-2024-42009](https://github.com/0xbassiouny1337/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/0xbassiouny1337/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/0xbassiouny1337/CVE-2024-42009">
 - [Bhanunamikaze/CVE-2024-42009](https://github.com/Bhanunamikaze/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/CVE-2024-42009">
 - [Bhanunamikaze/CVE-2024-42009](https://github.com/Bhanunamikaze/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/CVE-2024-42009">
+- [DaniTheHack3r/CVE-2024-42009-PoC](https://github.com/DaniTheHack3r/CVE-2024-42009-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DaniTheHack3r/CVE-2024-42009-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DaniTheHack3r/CVE-2024-42009-PoC">
 
 ---
 ## CVE-2024-42008 ()
