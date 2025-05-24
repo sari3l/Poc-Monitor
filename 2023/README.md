@@ -672,6 +672,7 @@ We recommend users to:
 - [Mrterrestrial/CVE-2023-50564](https://github.com/Mrterrestrial/CVE-2023-50564)	<img alt="forks" src="https://img.shields.io/github/forks/Mrterrestrial/CVE-2023-50564">	<img alt="stars" src="https://img.shields.io/github/stars/Mrterrestrial/CVE-2023-50564">
 - [0xDTC/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564](https://github.com/0xDTC/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564">
 - [xpltive/CVE-2023-50564](https://github.com/xpltive/CVE-2023-50564)	<img alt="forks" src="https://img.shields.io/github/forks/xpltive/CVE-2023-50564">	<img alt="stars" src="https://img.shields.io/github/stars/xpltive/CVE-2023-50564">
+- [glynzr/CVE-2023-50564](https://github.com/glynzr/CVE-2023-50564)	<img alt="forks" src="https://img.shields.io/github/forks/glynzr/CVE-2023-50564">	<img alt="stars" src="https://img.shields.io/github/stars/glynzr/CVE-2023-50564">
 
 ---
 ## CVE-2023-5044 (2023-10-25T20:15:00)
