@@ -2077,6 +2077,7 @@
 ## CVE-2025-0868 ()
 > 
 - [shreyas-malhotra/PoC_CVE-2025-0868](https://github.com/shreyas-malhotra/PoC_CVE-2025-0868)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/PoC_CVE-2025-0868">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/PoC_CVE-2025-0868">
+- [aidana-gift/CVE-2025-0868](https://github.com/aidana-gift/CVE-2025-0868)	<img alt="forks" src="https://img.shields.io/github/forks/aidana-gift/CVE-2025-0868">	<img alt="stars" src="https://img.shields.io/github/stars/aidana-gift/CVE-2025-0868">
 
 ---
 ## CVE-2025-0851 ()
