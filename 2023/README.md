@@ -6862,7 +6862,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [sarsaeroth/CVE-2023-23397-POC](https://github.com/sarsaeroth/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sarsaeroth/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sarsaeroth/CVE-2023-23397-POC">
 - [TheUnknownSoul/CVE-2023-23397-PoW](https://github.com/TheUnknownSoul/CVE-2023-23397-PoW)	<img alt="forks" src="https://img.shields.io/github/forks/TheUnknownSoul/CVE-2023-23397-PoW">	<img alt="stars" src="https://img.shields.io/github/stars/TheUnknownSoul/CVE-2023-23397-PoW">
 - [Symbolexe/CVE-2023-23397](https://github.com/Symbolexe/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2023-23397">
-- [Agentgilspy/CVE-2023-23397](https://github.com/Agentgilspy/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Agentgilspy/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Agentgilspy/CVE-2023-23397">
+- [Gilospy/CVE-2023-23397](https://github.com/Gilospy/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Gilospy/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Gilospy/CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
