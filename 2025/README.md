@@ -444,6 +444,11 @@
 - [Totunm/CVE-2025-3776](https://github.com/Totunm/CVE-2025-3776)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-3776">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-3776">
 
 ---
+## CVE-2025-36535 ()
+> 
+- [korden-c/CVE-2025-36535](https://github.com/korden-c/CVE-2025-36535)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-36535">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-36535">
+
+---
 ## CVE-2025-3605 ()
 > 
 - [Nxploited/CVE-2025-3605](https://github.com/Nxploited/CVE-2025-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-3605">
