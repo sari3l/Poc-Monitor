@@ -179,6 +179,7 @@
 ## CVE-2025-4664 ()
 > 
 - [doomygloom/CVE-2025-4664](https://github.com/doomygloom/CVE-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/doomygloom/CVE-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/doomygloom/CVE-2025-4664">
+- [korden-c/CVE-2025-4664](https://github.com/korden-c/CVE-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-4664">
 
 ---
 ## CVE-2025-46271 ()
