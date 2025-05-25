@@ -4382,6 +4382,11 @@
 - [Moniruzzaman995/CVE-2020-13405](https://github.com/Moniruzzaman995/CVE-2020-13405)	<img alt="forks" src="https://img.shields.io/github/forks/Moniruzzaman995/CVE-2020-13405">	<img alt="stars" src="https://img.shields.io/github/stars/Moniruzzaman995/CVE-2020-13405">
 
 ---
+## CVE-2020-13398 ()
+> 
+- [SpiralBL0CK/PoC-crash-CVE-2020-13398-](https://github.com/SpiralBL0CK/PoC-crash-CVE-2020-13398-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/PoC-crash-CVE-2020-13398-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/PoC-crash-CVE-2020-13398-">
+
+---
 ## CVE-2020-13383 (2020-07-01T15:15:00)
 > openSIS through 7.4 allows Directory Traversal.
 - [Live-Hack-CVE/CVE-2020-13383](https://github.com/Live-Hack-CVE/CVE-2020-13383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13383">
