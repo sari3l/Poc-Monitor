@@ -9875,6 +9875,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/m-cetin/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/m-cetin/CVE-2024-0204">
 - [yoryio/CVE-2024-0204](https://github.com/yoryio/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-0204">
 - [adminlove520/CVE-2024-0204](https://github.com/adminlove520/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/adminlove520/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/adminlove520/CVE-2024-0204">
+- [ibrahimsql/CVE-2024-0204](https://github.com/ibrahimsql/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/CVE-2024-0204">
 
 ---
 ## CVE-2024-0197 (2024-02-27T13:15:00)
