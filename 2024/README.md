@@ -4251,6 +4251,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38014 ()
 > 
 - [Anurag-Chevendra/CVE-2024-38014](https://github.com/Anurag-Chevendra/CVE-2024-38014)	<img alt="forks" src="https://img.shields.io/github/forks/Anurag-Chevendra/CVE-2024-38014">	<img alt="stars" src="https://img.shields.io/github/stars/Anurag-Chevendra/CVE-2024-38014">
+- [Naman2701B/CVE-2024-38014](https://github.com/Naman2701B/CVE-2024-38014)	<img alt="forks" src="https://img.shields.io/github/forks/Naman2701B/CVE-2024-38014">	<img alt="stars" src="https://img.shields.io/github/stars/Naman2701B/CVE-2024-38014">
 
 ---
 ## CVE-2024-37889 (2024-06-14T20:15:00)
