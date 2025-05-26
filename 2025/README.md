@@ -621,6 +621,11 @@
 - [0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-32433">
 
 ---
+## CVE-2025-32421 ()
+> 
+- [zeroc00I/CVE-2025-32421](https://github.com/zeroc00I/CVE-2025-32421)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2025-32421">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2025-32421">
+
+---
 ## CVE-2025-32407 ()
 > 
 - [diegovargasj/CVE-2025-32407](https://github.com/diegovargasj/CVE-2025-32407)	<img alt="forks" src="https://img.shields.io/github/forks/diegovargasj/CVE-2025-32407">	<img alt="stars" src="https://img.shields.io/github/stars/diegovargasj/CVE-2025-32407">
