@@ -1716,7 +1716,7 @@
 - [Cesar-http/Windows-Explorer-CVE-2025-24071](https://github.com/Cesar-http/Windows-Explorer-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Cesar-http/Windows-Explorer-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Cesar-http/Windows-Explorer-CVE-2025-24071">
 - [pswalia2u/CVE-2025-24071_POC](https://github.com/pswalia2u/CVE-2025-24071_POC)	<img alt="forks" src="https://img.shields.io/github/forks/pswalia2u/CVE-2025-24071_POC">	<img alt="stars" src="https://img.shields.io/github/stars/pswalia2u/CVE-2025-24071_POC">
 - [xigney/CVE-2025-24054_PoC](https://github.com/xigney/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xigney/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xigney/CVE-2025-24054_PoC">
-- [helidem/CVE-2025-24054-PoC](https://github.com/helidem/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054-PoC">
+- [helidem/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/helidem/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054_CVE-2025-24071-PoC">
 - [f4dee-backup/CVE-2025-24071](https://github.com/f4dee-backup/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-24071">
 
 ---
