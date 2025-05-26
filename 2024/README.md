@@ -1261,6 +1261,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [rawtips/CVE-2024-55591](https://github.com/rawtips/CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/rawtips/CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/rawtips/CVE-2024-55591">
 - [0x7556/CVE-2024-55591](https://github.com/0x7556/CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2024-55591">
 - [binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591](https://github.com/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591">
+- [UMChacker/CVE-2024-55591-POC](https://github.com/UMChacker/CVE-2024-55591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/UMChacker/CVE-2024-55591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/UMChacker/CVE-2024-55591-POC">
 
 ---
 ## CVE-2024-55587 ()
