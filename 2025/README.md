@@ -1008,6 +1008,7 @@
 - [moften/CVE-2025-29927](https://github.com/moften/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-29927">
 - [EarthAngel666/x-middleware-exploit](https://github.com/EarthAngel666/x-middleware-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/EarthAngel666/x-middleware-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/EarthAngel666/x-middleware-exploit">
 - [enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab](https://github.com/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab">
+- [sagsooz/CVE-2025-29927](https://github.com/sagsooz/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/CVE-2025-29927">
 
 ---
 ## CVE-2025-29824 ()
@@ -1724,7 +1725,7 @@
 - [xigney/CVE-2025-24054-PoC](https://github.com/xigney/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xigney/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xigney/CVE-2025-24054-PoC">
 - [Marcejr117/CVE-2025-24071_PoC](https://github.com/Marcejr117/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Marcejr117/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Marcejr117/CVE-2025-24071_PoC">
 - [xigney/CVE-2025-24054_PoC](https://github.com/xigney/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xigney/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xigney/CVE-2025-24054_PoC">
-- [helidem/CVE-2025-24054-PoC](https://github.com/helidem/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054-PoC">
+- [helidem/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/helidem/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054_CVE-2025-24071-PoC">
 - [ClementNjeru/CVE-2025-24054-PoC](https://github.com/ClementNjeru/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClementNjeru/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClementNjeru/CVE-2025-24054-PoC">
 - [S4mma3l/CVE-2025-24054](https://github.com/S4mma3l/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/S4mma3l/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/S4mma3l/CVE-2025-24054">
 - [moften/CVE-2025-24054](https://github.com/moften/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-24054">
