@@ -4193,6 +4193,11 @@
 - [Live-Hack-CVE/CVE-2020-14043](https://github.com/Live-Hack-CVE/CVE-2020-14043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14043">
 
 ---
+## CVE-2020-14008 ()
+> 
+- [JackHars/cve-2020-14008](https://github.com/JackHars/cve-2020-14008)	<img alt="forks" src="https://img.shields.io/github/forks/JackHars/cve-2020-14008">	<img alt="stars" src="https://img.shields.io/github/stars/JackHars/cve-2020-14008">
+
+---
 ## CVE-2020-14005 (2020-06-24T14:15:00)
 > Solarwinds Orion (with Web Console WPM 2019.4.1, and Orion Platform HF4 or NPM HF2 2019.4) allows remote attackers to execute arbitrary code via a defined event.
 - [Live-Hack-CVE/CVE-2020-14005](https://github.com/Live-Hack-CVE/CVE-2020-14005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14005">
