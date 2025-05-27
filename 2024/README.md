@@ -2785,6 +2785,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [tntrock/CVE-2024-4577_PowerShell](https://github.com/tntrock/CVE-2024-4577_PowerShell)	<img alt="forks" src="https://img.shields.io/github/forks/tntrock/CVE-2024-4577_PowerShell">	<img alt="stars" src="https://img.shields.io/github/stars/tntrock/CVE-2024-4577_PowerShell">
 - [gmh5225/CVE-2024-4577-PHP-RCE](https://github.com/gmh5225/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2024-4577-PHP-RCE">
 - [shockingbonu/CVE-2024-4577-PHP-RCE](https://github.com/shockingbonu/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/shockingbonu/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/shockingbonu/CVE-2024-4577-PHP-RCE">
+- [KimJuhyeong95/cve-2024-4577](https://github.com/KimJuhyeong95/cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/KimJuhyeong95/cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/KimJuhyeong95/cve-2024-4577">
 
 ---
 ## CVE-2024-4573 ()
