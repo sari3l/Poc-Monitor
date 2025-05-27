@@ -1251,6 +1251,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/CVE-2024-55875">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/CVE-2024-55875">
 
 ---
+## CVE-2024-55656 ()
+> 
+- [rick2600/redis-stack-CVE-2024-55656](https://github.com/rick2600/redis-stack-CVE-2024-55656)	<img alt="forks" src="https://img.shields.io/github/forks/rick2600/redis-stack-CVE-2024-55656">	<img alt="stars" src="https://img.shields.io/github/stars/rick2600/redis-stack-CVE-2024-55656">
+
+---
 ## CVE-2024-55591 ()
 > 
 - [watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591">
