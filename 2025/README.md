@@ -671,6 +671,7 @@
 ## CVE-2025-32013 ()
 > 
 - [Mohith-T/CVE-2025-32013](https://github.com/Mohith-T/CVE-2025-32013)	<img alt="forks" src="https://img.shields.io/github/forks/Mohith-T/CVE-2025-32013">	<img alt="stars" src="https://img.shields.io/github/stars/Mohith-T/CVE-2025-32013">
+- [exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System](https://github.com/exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System">
 
 ---
 ## CVE-2025-31864 ()
@@ -2011,6 +2012,7 @@
 > 
 - [gbrsh/CVE-2025-1661](https://github.com/gbrsh/CVE-2025-1661)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2025-1661">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2025-1661">
 - [MuhammadWaseem29/CVE-2025-1661](https://github.com/MuhammadWaseem29/CVE-2025-1661)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-1661">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-1661">
+- [exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin](https://github.com/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin">
 - [exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin](https://github.com/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin">
 
 ---
