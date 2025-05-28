@@ -1600,6 +1600,7 @@
 > Netatalk before 3.1.12 is vulnerable to an out of bounds write in dsi_opensess.c. This is due to lack of bounds checking on attacker controlled data. A remote unauthenticated attacker can leverage this vulnerability to achieve arbitrary code execution.
 - [Nigmaz/CVE-2018-1160](https://github.com/Nigmaz/CVE-2018-1160)	<img alt="forks" src="https://img.shields.io/github/forks/Nigmaz/CVE-2018-1160">	<img alt="stars" src="https://img.shields.io/github/stars/Nigmaz/CVE-2018-1160">
 - [SachinThanushka/CVE-2018-1160](https://github.com/SachinThanushka/CVE-2018-1160)	<img alt="forks" src="https://img.shields.io/github/forks/SachinThanushka/CVE-2018-1160">	<img alt="stars" src="https://img.shields.io/github/stars/SachinThanushka/CVE-2018-1160">
+- [sergiovks/CVE-2018-1160-Netatalk-OpenSession-Authentication-Bypass](https://github.com/sergiovks/CVE-2018-1160-Netatalk-OpenSession-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/CVE-2018-1160-Netatalk-OpenSession-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/CVE-2018-1160-Netatalk-OpenSession-Authentication-Bypass">
 
 ---
 ## CVE-2018-11496 (2018-05-26T20:29:00)
