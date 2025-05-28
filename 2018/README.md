@@ -73,6 +73,12 @@
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
 
 ---
+## CVE-2018-8097 ()
+> 
+- [StellarDriftLabs/CVE-2018-8097](https://github.com/StellarDriftLabs/CVE-2018-8097)	<img alt="forks" src="https://img.shields.io/github/forks/StellarDriftLabs/CVE-2018-8097">	<img alt="stars" src="https://img.shields.io/github/stars/StellarDriftLabs/CVE-2018-8097">
+- [SilentVoid13/CVE-2018-8097](https://github.com/SilentVoid13/CVE-2018-8097)	<img alt="forks" src="https://img.shields.io/github/forks/SilentVoid13/CVE-2018-8097">	<img alt="stars" src="https://img.shields.io/github/stars/SilentVoid13/CVE-2018-8097">
+
+---
 ## CVE-2018-8062 (2020-10-23T05:15:00)
 > A cross-site scripting (XSS) vulnerability on Comtrend AR-5387un devices with A731-410JAZ-C04_R02.A2pD035g.d23i firmware allows remote attackers to inject arbitrary web script or HTML via the Service Description parameter while creating a WAN service.
 - [OscarAkaElvis/CVE-2018-8062](https://github.com/OscarAkaElvis/CVE-2018-8062)	<img alt="forks" src="https://img.shields.io/github/forks/OscarAkaElvis/CVE-2018-8062">	<img alt="stars" src="https://img.shields.io/github/stars/OscarAkaElvis/CVE-2018-8062">
