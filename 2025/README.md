@@ -1732,6 +1732,7 @@
 - [helidem/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/helidem/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054_CVE-2025-24071-PoC">
 - [f4dee-backup/CVE-2025-24071](https://github.com/f4dee-backup/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-24071">
 - [LOOKY243/CVE-2025-24071-PoC](https://github.com/LOOKY243/CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOOKY243/CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOOKY243/CVE-2025-24071-PoC">
+- [ex-cal1bur/SMB_CVE-2025-24071](https://github.com/ex-cal1bur/SMB_CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/ex-cal1bur/SMB_CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/ex-cal1bur/SMB_CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
