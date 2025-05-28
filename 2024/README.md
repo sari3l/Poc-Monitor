@@ -5281,6 +5281,11 @@ QuTScloud c5.1.5.2651 and later
 - [truonghuuphuc/CVE-2024-32523-Poc](https://github.com/truonghuuphuc/CVE-2024-32523-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-32523-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-32523-Poc">
 
 ---
+## CVE-2024-32462 ()
+> 
+- [SpiralBL0CK/CVE-2024-32462](https://github.com/SpiralBL0CK/CVE-2024-32462)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-32462">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-32462">
+
+---
 ## CVE-2024-32459 (2024-04-22T22:15:00)
 > FreeRDP is a free implementation of the Remote Desktop Protocol. FreeRDP based clients and servers that use a version of FreeRDP prior to 3.5.0 or 2.11.6 are vulnerable to out-of-bounds read. Versions 3.5.0 and 2.11.6 patch the issue. No known workarounds are available.
 - [absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-](https://github.com/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-">
