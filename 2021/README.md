@@ -2324,6 +2324,7 @@
 - [JIYUN02/cve-2021-41773](https://github.com/JIYUN02/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/JIYUN02/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/JIYUN02/cve-2021-41773">
 - [ZephrFish/CVE-2021-41773-PoC](https://github.com/ZephrFish/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-41773-PoC">
 - [qalvynn/CVE-2021-41773](https://github.com/qalvynn/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/qalvynn/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/qalvynn/CVE-2021-41773">
+- [Ask-os/CVE-2021-41773](https://github.com/Ask-os/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Ask-os/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Ask-os/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
