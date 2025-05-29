@@ -1085,6 +1085,11 @@
 - [yxzrw/CVE-2025-29705](https://github.com/yxzrw/CVE-2025-29705)	<img alt="forks" src="https://img.shields.io/github/forks/yxzrw/CVE-2025-29705">	<img alt="stars" src="https://img.shields.io/github/stars/yxzrw/CVE-2025-29705">
 
 ---
+## CVE-2025-29632 ()
+> 
+- [OHnogood/CVE-2025-29632](https://github.com/OHnogood/CVE-2025-29632)	<img alt="forks" src="https://img.shields.io/github/forks/OHnogood/CVE-2025-29632">	<img alt="stars" src="https://img.shields.io/github/stars/OHnogood/CVE-2025-29632">
+
+---
 ## CVE-2025-29602 ()
 > 
 - [harish0x/CVE-2025-29602](https://github.com/harish0x/CVE-2025-29602)	<img alt="forks" src="https://img.shields.io/github/forks/harish0x/CVE-2025-29602">	<img alt="stars" src="https://img.shields.io/github/stars/harish0x/CVE-2025-29602">
