@@ -1261,6 +1261,11 @@
 - [enochgitgamefied/CVE-2025-27636-Practical-Lab](https://github.com/enochgitgamefied/CVE-2025-27636-Practical-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/CVE-2025-27636-Practical-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/CVE-2025-27636-Practical-Lab">
 
 ---
+## CVE-2025-2760 ()
+> 
+- [korden-c/CVE-2025-2760](https://github.com/korden-c/CVE-2025-2760)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-2760">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-2760">
+
+---
 ## CVE-2025-27533 ()
 > 
 - [absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ](https://github.com/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">
