@@ -7121,6 +7121,7 @@ For additional details, please see full advisory.
 - [BBD-YZZ/Confluence-RCE](https://github.com/BBD-YZZ/Confluence-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/Confluence-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/Confluence-RCE">
 - [kh4sh3i/CVE-2023-22527](https://github.com/kh4sh3i/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2023-22527">
 - [AxthonyV/CVE-2023-22527](https://github.com/AxthonyV/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2023-22527">
+- [thompson005/CVE-2023-22527](https://github.com/thompson005/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/thompson005/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/thompson005/CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
