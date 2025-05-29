@@ -2057,6 +2057,11 @@
 - [Nxploited/CVE-2025-1639](https://github.com/Nxploited/CVE-2025-1639)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-1639">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-1639">
 
 ---
+## CVE-2025-1461 ()
+> 
+- [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
+
+---
 ## CVE-2025-1323 ()
 > 
 - [p33d/cve-2025-1323](https://github.com/p33d/cve-2025-1323)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/cve-2025-1323">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/cve-2025-1323">
