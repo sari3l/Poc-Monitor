@@ -1177,6 +1177,16 @@
 - [0xBl4nk/CVE-2025-29275](https://github.com/0xBl4nk/CVE-2025-29275)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-29275">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-29275">
 
 ---
+## CVE-2025-29094 ()
+> 
+- [FraMarcuccio/CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS](https://github.com/FraMarcuccio/CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/FraMarcuccio/CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/FraMarcuccio/CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS">
+
+---
+## CVE-2025-29093 ()
+> 
+- [FraMarcuccio/CVE-2025-29093-Arbitrary-File-Upload](https://github.com/FraMarcuccio/CVE-2025-29093-Arbitrary-File-Upload)	<img alt="forks" src="https://img.shields.io/github/forks/FraMarcuccio/CVE-2025-29093-Arbitrary-File-Upload">	<img alt="stars" src="https://img.shields.io/github/stars/FraMarcuccio/CVE-2025-29093-Arbitrary-File-Upload">
+
+---
 ## CVE-2025-2907 ()
 > 
 - [Yucaerin/CVE-2025-2907](https://github.com/Yucaerin/CVE-2025-2907)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-2907">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-2907">
