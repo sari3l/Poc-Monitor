@@ -7259,6 +7259,11 @@
 - [Live-Hack-CVE/CVE-2021-25640](https://github.com/Live-Hack-CVE/CVE-2021-25640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25640">
 
 ---
+## CVE-2021-2560 ()
+> 
+- [DelphineTan/Murdoch-CVE-2021-2560](https://github.com/DelphineTan/Murdoch-CVE-2021-2560)	<img alt="forks" src="https://img.shields.io/github/forks/DelphineTan/Murdoch-CVE-2021-2560">	<img alt="stars" src="https://img.shields.io/github/stars/DelphineTan/Murdoch-CVE-2021-2560">
+
+---
 ## CVE-2021-25518 (2021-12-08T15:15:00)
 > An improper boundary check in secure_log of LDFW and BL31 prior to SMR Dec-2021 Release 1 allows arbitrary memory write and code execution.
 - [Live-Hack-CVE/CVE-2021-25518](https://github.com/Live-Hack-CVE/CVE-2021-25518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25518">
