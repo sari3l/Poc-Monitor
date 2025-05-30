@@ -8574,6 +8574,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [GSTEINF/CVE-2024-21413-exploit](https://github.com/GSTEINF/CVE-2024-21413-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/GSTEINF/CVE-2024-21413-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/GSTEINF/CVE-2024-21413-exploit">
 - [ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413](https://github.com/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413">
 - [PolarisXSec/CVE-2024-21413](https://github.com/PolarisXSec/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/PolarisXSec/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/PolarisXSec/CVE-2024-21413">
+- [MQKGitHub/Moniker-Link-CVE-2024-21413](https://github.com/MQKGitHub/Moniker-Link-CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/MQKGitHub/Moniker-Link-CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/MQKGitHub/Moniker-Link-CVE-2024-21413">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
