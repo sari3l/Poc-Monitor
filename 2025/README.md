@@ -118,6 +118,11 @@
 - [RootHarpy/CVE-2025-47646](https://github.com/RootHarpy/CVE-2025-47646)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-47646">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-47646">
 
 ---
+## CVE-2025-47577 ()
+> 
+- [Yucaerin/CVE-2025-47577](https://github.com/Yucaerin/CVE-2025-47577)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-47577">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-47577">
+
+---
 ## CVE-2025-47550 ()
 > 
 - [d0n601/CVE-2025-47550](https://github.com/d0n601/CVE-2025-47550)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-47550">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-47550">
