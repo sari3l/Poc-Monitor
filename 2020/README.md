@@ -4009,6 +4009,7 @@
 - [TuanCui22/ZerologonWithImpacket-CVE2020-1472](https://github.com/TuanCui22/ZerologonWithImpacket-CVE2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/TuanCui22/ZerologonWithImpacket-CVE2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/TuanCui22/ZerologonWithImpacket-CVE2020-1472">
 - [blackh00d/zerologon-poc](https://github.com/blackh00d/zerologon-poc)	<img alt="forks" src="https://img.shields.io/github/forks/blackh00d/zerologon-poc">	<img alt="stars" src="https://img.shields.io/github/stars/blackh00d/zerologon-poc">
 - [PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.](https://github.com/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.)	<img alt="forks" src="https://img.shields.io/github/forks/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.">	<img alt="stars" src="https://img.shields.io/github/stars/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.">
+- [tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation](https://github.com/tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
@@ -5354,6 +5355,7 @@
 - [tyroneml/CVE-2020-0796-Exploit-Demo](https://github.com/tyroneml/CVE-2020-0796-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/tyroneml/CVE-2020-0796-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/tyroneml/CVE-2020-0796-Exploit-Demo">
 - [Chrisync/CVE-Scanner](https://github.com/Chrisync/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Chrisync/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Chrisync/CVE-Scanner">
 - [DanielFEXKEX/CVE-Scanner](https://github.com/DanielFEXKEX/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DanielFEXKEX/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DanielFEXKEX/CVE-Scanner">
+- [tdevworks/CVE-2020-0796-SMBGhost-Exploit-Demo](https://github.com/tdevworks/CVE-2020-0796-SMBGhost-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/tdevworks/CVE-2020-0796-SMBGhost-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/tdevworks/CVE-2020-0796-SMBGhost-Exploit-Demo">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
