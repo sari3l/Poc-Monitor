@@ -1004,6 +1004,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 ## CVE-2023-49496 ()
 > 
 - [HuangYanQwQ/CVE-2023-49496](https://github.com/HuangYanQwQ/CVE-2023-49496)	<img alt="forks" src="https://img.shields.io/github/forks/HuangYanQwQ/CVE-2023-49496">	<img alt="stars" src="https://img.shields.io/github/stars/HuangYanQwQ/CVE-2023-49496">
+- [HuangYanQwQ/CVE-2023-49496_PoC](https://github.com/HuangYanQwQ/CVE-2023-49496_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/HuangYanQwQ/CVE-2023-49496_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/HuangYanQwQ/CVE-2023-49496_PoC">
 
 ---
 ## CVE-2023-49471 (2024-01-10T09:15:00)

@@ -9359,6 +9359,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS](https://github.com/reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS">
 
 ---
+## CVE-2024-11234 ()
+> 
+- [cyivor/CVE-2024-11234](https://github.com/cyivor/CVE-2024-11234)	<img alt="forks" src="https://img.shields.io/github/forks/cyivor/CVE-2024-11234">	<img alt="stars" src="https://img.shields.io/github/stars/cyivor/CVE-2024-11234">
+
+---
 ## CVE-2024-11201 ()
 > 
 - [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201)	<img alt="forks" src="https://img.shields.io/github/forks/NSQAQ/CVE-2024-11201">	<img alt="stars" src="https://img.shields.io/github/stars/NSQAQ/CVE-2024-11201">
