@@ -86,6 +86,7 @@
 > 
 - [0xgh057r3c0n/CVE-2025-48827](https://github.com/0xgh057r3c0n/CVE-2025-48827)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-48827">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-48827">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+- [wiseep/CVE-2025-48827](https://github.com/wiseep/CVE-2025-48827)	<img alt="forks" src="https://img.shields.io/github/forks/wiseep/CVE-2025-48827">	<img alt="stars" src="https://img.shields.io/github/stars/wiseep/CVE-2025-48827">
 
 ---
 ## CVE-2025-48708 ()
