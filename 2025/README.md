@@ -1319,6 +1319,11 @@
 - [korden-c/CVE-2025-2760](https://github.com/korden-c/CVE-2025-2760)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-2760">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-2760">
 
 ---
+## CVE-2025-27590 ()
+> 
+- [fatkz/CVE-2025-27590](https://github.com/fatkz/CVE-2025-27590)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-27590">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-27590">
+
+---
 ## CVE-2025-27533 ()
 > 
 - [absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ](https://github.com/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">
