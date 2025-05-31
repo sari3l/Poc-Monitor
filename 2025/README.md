@@ -628,6 +628,7 @@
 - [Praison001/CVE-2025-3248](https://github.com/Praison001/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2025-3248">
 - [vigilante-1337/CVE-2025-3248](https://github.com/vigilante-1337/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2025-3248">
 - [Vip3rLi0n/CVE-2025-3248](https://github.com/Vip3rLi0n/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Vip3rLi0n/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Vip3rLi0n/CVE-2025-3248">
+- [tiemio/RCE-CVE-2025-3248](https://github.com/tiemio/RCE-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/RCE-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/RCE-CVE-2025-3248">
 
 ---
 ## CVE-2025-32433 ()
