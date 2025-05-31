@@ -968,6 +968,11 @@
 - [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-29972">
 
 ---
+## CVE-2025-2995 ()
+> 
+- [huynguyen12536/CVE-2025-2995](https://github.com/huynguyen12536/CVE-2025-2995)	<img alt="forks" src="https://img.shields.io/github/forks/huynguyen12536/CVE-2025-2995">	<img alt="stars" src="https://img.shields.io/github/stars/huynguyen12536/CVE-2025-2995">
+
+---
 ## CVE-2025-29927 ()
 > 
 - [serhalp/test-cve-2025-29927](https://github.com/serhalp/test-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/serhalp/test-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/serhalp/test-cve-2025-29927">
