@@ -894,6 +894,7 @@
 ## CVE-2025-30397 ()
 > 
 - [Sratet/CVE-2025-30397-RCE](https://github.com/Sratet/CVE-2025-30397-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-30397-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-30397-RCE">
+- [mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-](https://github.com/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-">
 
 ---
 ## CVE-2025-30392 ()
