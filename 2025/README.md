@@ -2044,6 +2044,7 @@
 ## CVE-2025-20188 ()
 > 
 - [Sratet/CVE-2025-20188](https://github.com/Sratet/CVE-2025-20188)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-20188">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-20188">
+- [voyagken/CVE-2025-20188](https://github.com/voyagken/CVE-2025-20188)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-20188">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-20188">
 
 ---
 ## CVE-2025-2011 ()
