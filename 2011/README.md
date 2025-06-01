@@ -75,7 +75,7 @@
 ## CVE-2011-0762 ()
 > 
 - [AndreyFreitax/CVE-2011-0762](https://github.com/AndreyFreitax/CVE-2011-0762)	<img alt="forks" src="https://img.shields.io/github/forks/AndreyFreitax/CVE-2011-0762">	<img alt="stars" src="https://img.shields.io/github/stars/AndreyFreitax/CVE-2011-0762">
-- [AndreyFreitaz/CVE-2011-0762](https://github.com/AndreyFreitaz/CVE-2011-0762)	<img alt="forks" src="https://img.shields.io/github/forks/AndreyFreitaz/CVE-2011-0762">	<img alt="stars" src="https://img.shields.io/github/stars/AndreyFreitaz/CVE-2011-0762">
+- [AndreyFreitazz/CVE-2011-0762](https://github.com/AndreyFreitazz/CVE-2011-0762)	<img alt="forks" src="https://img.shields.io/github/forks/AndreyFreitazz/CVE-2011-0762">	<img alt="stars" src="https://img.shields.io/github/stars/AndreyFreitazz/CVE-2011-0762">
 - [s3mPr1linux/CVE-2011-0762](https://github.com/s3mPr1linux/CVE-2011-0762)	<img alt="forks" src="https://img.shields.io/github/forks/s3mPr1linux/CVE-2011-0762">	<img alt="stars" src="https://img.shields.io/github/stars/s3mPr1linux/CVE-2011-0762">
 
 ---
