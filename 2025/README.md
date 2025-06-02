@@ -27,6 +27,11 @@
 - [wiseep/CVE-2025-5287](https://github.com/wiseep/CVE-2025-5287)	<img alt="forks" src="https://img.shields.io/github/forks/wiseep/CVE-2025-5287">	<img alt="stars" src="https://img.shields.io/github/stars/wiseep/CVE-2025-5287">
 
 ---
+## CVE-2025-5280 ()
+> 
+- [voyagken/CVE-2025-5280-V8-OOB](https://github.com/voyagken/CVE-2025-5280-V8-OOB)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-5280-V8-OOB">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-5280-V8-OOB">
+
+---
 ## CVE-2025-510 ()
 > 
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
@@ -1991,6 +1996,7 @@
 ## CVE-2025-22224 ()
 > 
 - [bronsoneaver/CVE-2025-22224](https://github.com/bronsoneaver/CVE-2025-22224)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-22224">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-22224">
+- [voyagken/CVE-2025-22224-PoC](https://github.com/voyagken/CVE-2025-22224-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-22224-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-22224-PoC">
 
 ---
 ## CVE-2025-22223 ()
