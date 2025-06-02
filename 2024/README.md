@@ -3881,6 +3881,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [michael-david-fry/CVE-2024-39929](https://github.com/michael-david-fry/CVE-2024-39929)	<img alt="forks" src="https://img.shields.io/github/forks/michael-david-fry/CVE-2024-39929">	<img alt="stars" src="https://img.shields.io/github/stars/michael-david-fry/CVE-2024-39929">
 
 ---
+## CVE-2024-39924 ()
+> 
+- [l4rm4nd/PoC-CVE-2024-39924](https://github.com/l4rm4nd/PoC-CVE-2024-39924)	<img alt="forks" src="https://img.shields.io/github/forks/l4rm4nd/PoC-CVE-2024-39924">	<img alt="stars" src="https://img.shields.io/github/stars/l4rm4nd/PoC-CVE-2024-39924">
+
+---
 ## CVE-2024-39908 ()
 > 
 - [SpiralBL0CK/CVE-2024-39908](https://github.com/SpiralBL0CK/CVE-2024-39908)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-39908">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-39908">
