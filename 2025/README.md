@@ -596,6 +596,11 @@
 - [itssixtyn3in/CVE-2025-3292025](https://github.com/itssixtyn3in/CVE-2025-3292025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3292025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3292025">
 
 ---
+## CVE-2025-32873 ()
+> 
+- [Apollo-R3bot/django-vulnerability-CVE-2025-32873](https://github.com/Apollo-R3bot/django-vulnerability-CVE-2025-32873)	<img alt="forks" src="https://img.shields.io/github/forks/Apollo-R3bot/django-vulnerability-CVE-2025-32873">	<img alt="stars" src="https://img.shields.io/github/stars/Apollo-R3bot/django-vulnerability-CVE-2025-32873">
+
+---
 ## CVE-2025-3282025 ()
 > 
 - [itssixtyn3in/CVE-2025-3282025](https://github.com/itssixtyn3in/CVE-2025-3282025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3282025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3282025">
