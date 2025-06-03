@@ -456,6 +456,7 @@
 - [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
 - [redhuntlabs/CVE-2025-4123](https://github.com/redhuntlabs/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/redhuntlabs/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/redhuntlabs/CVE-2025-4123">
 - [kk12-30/CVE-2025-4123](https://github.com/kk12-30/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/kk12-30/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/kk12-30/CVE-2025-4123">
+- [imbas007/CVE-2025-4123-template](https://github.com/imbas007/CVE-2025-4123-template)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-4123-template">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-4123-template">
 
 ---
 ## CVE-2025-412027 ()
