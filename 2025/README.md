@@ -92,6 +92,11 @@
 - [korden-c/CVE-2025-4918](https://github.com/korden-c/CVE-2025-4918)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-4918">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-4918">
 
 ---
+## CVE-2025-49113 ()
+> 
+- [rxerium/CVE-2025-49113](https://github.com/rxerium/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-49113">
+
+---
 ## CVE-2025-48827 ()
 > 
 - [0xgh057r3c0n/CVE-2025-48827](https://github.com/0xgh057r3c0n/CVE-2025-48827)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-48827">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-48827">
