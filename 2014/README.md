@@ -129,6 +129,11 @@
 - [Live-Hack-CVE/CVE-2014-4717](https://github.com/Live-Hack-CVE/CVE-2014-4717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4717">
 
 ---
+## CVE-2014-4688 ()
+> 
+- [fenix0499/CVE-2014-4688-NodeJs-Exploit](https://github.com/fenix0499/CVE-2014-4688-NodeJs-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fenix0499/CVE-2014-4688-NodeJs-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fenix0499/CVE-2014-4688-NodeJs-Exploit">
+
+---
 ## CVE-2014-4210 ()
 > 
 - [ZorvithonLeo/Exploit-CVE-2014-4210-](https://github.com/ZorvithonLeo/Exploit-CVE-2014-4210-)	<img alt="forks" src="https://img.shields.io/github/forks/ZorvithonLeo/Exploit-CVE-2014-4210-">	<img alt="stars" src="https://img.shields.io/github/stars/ZorvithonLeo/Exploit-CVE-2014-4210-">
