@@ -1186,6 +1186,11 @@
 - [Yoshik0xF6/CVE-2025-29529](https://github.com/Yoshik0xF6/CVE-2025-29529)	<img alt="forks" src="https://img.shields.io/github/forks/Yoshik0xF6/CVE-2025-29529">	<img alt="stars" src="https://img.shields.io/github/stars/Yoshik0xF6/CVE-2025-29529">
 
 ---
+## CVE-2025-2945 ()
+> 
+- [abrewer251/CVE-2025-2945_PoC](https://github.com/abrewer251/CVE-2025-2945_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-2945_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-2945_PoC">
+
+---
 ## CVE-2025-29448 ()
 > 
 - [Abdullah4eb/CVE-2025-29448](https://github.com/Abdullah4eb/CVE-2025-29448)	<img alt="forks" src="https://img.shields.io/github/forks/Abdullah4eb/CVE-2025-29448">	<img alt="stars" src="https://img.shields.io/github/stars/Abdullah4eb/CVE-2025-29448">
