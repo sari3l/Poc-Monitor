@@ -2019,6 +2019,7 @@
 > 
 - [bronsoneaver/CVE-2025-22224](https://github.com/bronsoneaver/CVE-2025-22224)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-22224">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-22224">
 - [voyagken/CVE-2025-22224-PoC](https://github.com/voyagken/CVE-2025-22224-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-22224-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-22224-PoC">
+- [takeshirisulu/CVE-2025-22224](https://github.com/takeshirisulu/CVE-2025-22224)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-22224">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-22224">
 
 ---
 ## CVE-2025-22223 ()
@@ -2089,6 +2090,7 @@
 > 
 - [Sratet/CVE-2025-20188](https://github.com/Sratet/CVE-2025-20188)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-20188">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-20188">
 - [voyagken/CVE-2025-20188](https://github.com/voyagken/CVE-2025-20188)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-20188">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-20188">
+- [takeshirisulu/CVE-2025-20188](https://github.com/takeshirisulu/CVE-2025-20188)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-20188">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-20188">
 
 ---
 ## CVE-2025-2011 ()
