@@ -6066,6 +6066,7 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [btar1gan/exploit_CVE-2023-27163](https://github.com/btar1gan/exploit_CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/btar1gan/exploit_CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/btar1gan/exploit_CVE-2023-27163">
 - [lukehebe/CVE-2023-27163](https://github.com/lukehebe/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/lukehebe/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/lukehebe/CVE-2023-27163">
 - [G4sp4rCS/htb-sau-automated](https://github.com/G4sp4rCS/htb-sau-automated)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/htb-sau-automated">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/htb-sau-automated">
+- [J0ey17/Exploit_CVE-2023-27163](https://github.com/J0ey17/Exploit_CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/J0ey17/Exploit_CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/J0ey17/Exploit_CVE-2023-27163">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)

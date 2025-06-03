@@ -370,6 +370,7 @@
 - [Drew-Alleman/CVE-2019-7214](https://github.com/Drew-Alleman/CVE-2019-7214)	<img alt="forks" src="https://img.shields.io/github/forks/Drew-Alleman/CVE-2019-7214">	<img alt="stars" src="https://img.shields.io/github/stars/Drew-Alleman/CVE-2019-7214">
 - [andyfeili/-CVE-2019-7214](https://github.com/andyfeili/-CVE-2019-7214)	<img alt="forks" src="https://img.shields.io/github/forks/andyfeili/-CVE-2019-7214">	<img alt="stars" src="https://img.shields.io/github/stars/andyfeili/-CVE-2019-7214">
 - [devzspy/CVE-2019-7214](https://github.com/devzspy/CVE-2019-7214)	<img alt="forks" src="https://img.shields.io/github/forks/devzspy/CVE-2019-7214">	<img alt="stars" src="https://img.shields.io/github/stars/devzspy/CVE-2019-7214">
+- [ElusiveHacker/CVE-2019-7214](https://github.com/ElusiveHacker/CVE-2019-7214)	<img alt="forks" src="https://img.shields.io/github/forks/ElusiveHacker/CVE-2019-7214">	<img alt="stars" src="https://img.shields.io/github/stars/ElusiveHacker/CVE-2019-7214">
 
 ---
 ## CVE-2019-7213 (2019-04-24T15:29:00)
