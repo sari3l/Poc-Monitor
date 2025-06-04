@@ -2044,6 +2044,11 @@
 - [1ucky7/cve-2025-22223-demo-1.0.0](https://github.com/1ucky7/cve-2025-22223-demo-1.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/1ucky7/cve-2025-22223-demo-1.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/1ucky7/cve-2025-22223-demo-1.0.0">
 
 ---
+## CVE-2025-22056 ()
+> 
+- [henrymartin262/CVE-2025-22056-exploit](https://github.com/henrymartin262/CVE-2025-22056-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/henrymartin262/CVE-2025-22056-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/henrymartin262/CVE-2025-22056-exploit">
+
+---
 ## CVE-2025-21756 ()
 > 
 - [hoefler02/CVE-2025-21756](https://github.com/hoefler02/CVE-2025-21756)	<img alt="forks" src="https://img.shields.io/github/forks/hoefler02/CVE-2025-21756">	<img alt="stars" src="https://img.shields.io/github/stars/hoefler02/CVE-2025-21756">
