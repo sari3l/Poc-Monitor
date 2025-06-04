@@ -95,6 +95,7 @@
 ## CVE-2025-49113 ()
 > 
 - [rxerium/CVE-2025-49113](https://github.com/rxerium/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-49113">
+- [Ademking/CVE-2025-49113-nuclei-template](https://github.com/Ademking/CVE-2025-49113-nuclei-template)	<img alt="forks" src="https://img.shields.io/github/forks/Ademking/CVE-2025-49113-nuclei-template">	<img alt="stars" src="https://img.shields.io/github/stars/Ademking/CVE-2025-49113-nuclei-template">
 
 ---
 ## CVE-2025-48827 ()

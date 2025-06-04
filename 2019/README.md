@@ -2830,6 +2830,7 @@ use after free.
 - [anasbousselham/webminscan](https://github.com/anasbousselham/webminscan)	<img alt="forks" src="https://img.shields.io/github/forks/anasbousselham/webminscan">	<img alt="stars" src="https://img.shields.io/github/stars/anasbousselham/webminscan">
 - [KrE80r/webmin_cve-2019-12840_poc](https://github.com/KrE80r/webmin_cve-2019-12840_poc)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/webmin_cve-2019-12840_poc">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/webmin_cve-2019-12840_poc">
 - [bkaraceylan/CVE-2019-12840_POC](https://github.com/bkaraceylan/CVE-2019-12840_POC)	<img alt="forks" src="https://img.shields.io/github/forks/bkaraceylan/CVE-2019-12840_POC">	<img alt="stars" src="https://img.shields.io/github/stars/bkaraceylan/CVE-2019-12840_POC">
+- [fenix0499/CVE-2019-12840-NodeJs-Exploit](https://github.com/fenix0499/CVE-2019-12840-NodeJs-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fenix0499/CVE-2019-12840-NodeJs-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fenix0499/CVE-2019-12840-NodeJs-Exploit">
 
 ---
 ## CVE-2019-12836 (2019-06-21T15:15:00)
