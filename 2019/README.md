@@ -1733,6 +1733,13 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-20172](https://github.com/Live-Hack-CVE/CVE-2019-20172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20172">
 
 ---
+## CVE-2019-20085 ()
+> 
+- [Z3R0-0x30/CVE-2019-20085](https://github.com/Z3R0-0x30/CVE-2019-20085)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2019-20085">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2019-20085">
+- [0hmsec/NVMS-1000-Directory-Traversal-Bash](https://github.com/0hmsec/NVMS-1000-Directory-Traversal-Bash)	<img alt="forks" src="https://img.shields.io/github/forks/0hmsec/NVMS-1000-Directory-Traversal-Bash">	<img alt="stars" src="https://img.shields.io/github/stars/0hmsec/NVMS-1000-Directory-Traversal-Bash">
+- [AleDiBen/NVMS1000-Exploit](https://github.com/AleDiBen/NVMS1000-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AleDiBen/NVMS1000-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AleDiBen/NVMS1000-Exploit">
+
+---
 ## CVE-2019-19966 (2019-12-25T04:15:00)
 > In the Linux kernel before 5.1.6, there is a use-after-free in cpia2_exit() in drivers/media/usb/cpia2/cpia2_v4l.c that will cause denial of service, aka CID-dea37a972655.
 - [Live-Hack-CVE/CVE-2019-19966](https://github.com/Live-Hack-CVE/CVE-2019-19966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19966">
