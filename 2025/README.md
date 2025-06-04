@@ -238,6 +238,11 @@
 - [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
 
 ---
+## CVE-2025-4632 ()
+> 
+- [MantisToboggan-git/CVE-2025-4632-POC](https://github.com/MantisToboggan-git/CVE-2025-4632-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MantisToboggan-git/CVE-2025-4632-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MantisToboggan-git/CVE-2025-4632-POC">
+
+---
 ## CVE-2025-4631 ()
 > 
 - [Nxploited/CVE-2025-4631](https://github.com/Nxploited/CVE-2025-4631)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-4631">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-4631">
