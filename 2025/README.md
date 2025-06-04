@@ -283,6 +283,11 @@
 - [yggcwhat/CVE-2025-46078](https://github.com/yggcwhat/CVE-2025-46078)	<img alt="forks" src="https://img.shields.io/github/forks/yggcwhat/CVE-2025-46078">	<img alt="stars" src="https://img.shields.io/github/stars/yggcwhat/CVE-2025-46078">
 
 ---
+## CVE-2025-46047 ()
+> 
+- [J0ey17/CVE-2025-46047](https://github.com/J0ey17/CVE-2025-46047)	<img alt="forks" src="https://img.shields.io/github/forks/J0ey17/CVE-2025-46047">	<img alt="stars" src="https://img.shields.io/github/stars/J0ey17/CVE-2025-46047">
+
+---
 ## CVE-2025-45781 ()
 > 
 - [ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC](https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">
