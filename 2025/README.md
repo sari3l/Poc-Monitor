@@ -6,6 +6,11 @@
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
 
 ---
+## CVE-2025-5701 ()
+> 
+- [Harley21211/CVE-2025-5701-Exploit](https://github.com/Harley21211/CVE-2025-5701-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Harley21211/CVE-2025-5701-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Harley21211/CVE-2025-5701-Exploit">
+
+---
 ## CVE-2025-5419 ()
 > 
 - [takeshirisulu/CVE-2025-5419](https://github.com/takeshirisulu/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-5419">
