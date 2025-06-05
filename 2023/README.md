@@ -323,6 +323,11 @@ to load arbitrary JavaScript code.
 - [soreta2/CVE-2023-5631-POC](https://github.com/soreta2/CVE-2023-5631-POC)	<img alt="forks" src="https://img.shields.io/github/forks/soreta2/CVE-2023-5631-POC">	<img alt="stars" src="https://img.shields.io/github/stars/soreta2/CVE-2023-5631-POC">
 
 ---
+## CVE-2023-5612 ()
+> 
+- [TopskiyPavelQwertyGang/Review.CVE-2023-5612](https://github.com/TopskiyPavelQwertyGang/Review.CVE-2023-5612)	<img alt="forks" src="https://img.shields.io/github/forks/TopskiyPavelQwertyGang/Review.CVE-2023-5612">	<img alt="stars" src="https://img.shields.io/github/stars/TopskiyPavelQwertyGang/Review.CVE-2023-5612">
+
+---
 ## CVE-2023-5601 (2023-11-06T21:15:00)
 > The WooCommerce Ninja Forms Product Add-ons WordPress plugin before 1.7.1 does not validate the file to be uploaded, allowing any unauthenticated users to upload arbitrary files to the server, leading to RCE.
 - [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5601-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5601-PoC">
