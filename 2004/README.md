@@ -13,7 +13,7 @@
 ---
 ## CVE-2004-2687 (2004-12-31T05:00:00)
 > distcc 2.x, as used in XCode 1.5 and others, when not configured to restrict access to the server port, allows remote attackers to execute arbitrary commands via compilation jobs, which are executed by the server without authorization checks.
-- [n3rdh4x0r/distccd_rce_CVE-2004-2687](https://github.com/n3rdh4x0r/distccd_rce_CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/n3rdh4x0r/distccd_rce_CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/n3rdh4x0r/distccd_rce_CVE-2004-2687">
+- [h3x0v3rl0rd/distccd_rce_CVE-2004-2687](https://github.com/h3x0v3rl0rd/distccd_rce_CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/h3x0v3rl0rd/distccd_rce_CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/h3x0v3rl0rd/distccd_rce_CVE-2004-2687">
 - [ss0wl/CVE-2004-2687_distcc_v1](https://github.com/ss0wl/CVE-2004-2687_distcc_v1)	<img alt="forks" src="https://img.shields.io/github/forks/ss0wl/CVE-2004-2687_distcc_v1">	<img alt="stars" src="https://img.shields.io/github/stars/ss0wl/CVE-2004-2687_distcc_v1">
 - [angelpimentell/distcc_cve_2004-2687_exploit](https://github.com/angelpimentell/distcc_cve_2004-2687_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/angelpimentell/distcc_cve_2004-2687_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/angelpimentell/distcc_cve_2004-2687_exploit">
 - [k4miyo/CVE-2004-2687](https://github.com/k4miyo/CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/k4miyo/CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/k4miyo/CVE-2004-2687">
