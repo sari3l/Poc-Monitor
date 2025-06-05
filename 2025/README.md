@@ -659,6 +659,7 @@
 > 
 - [m4s1um/CVE-2025-32756-RCE-PoC](https://github.com/m4s1um/CVE-2025-32756-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/m4s1um/CVE-2025-32756-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/m4s1um/CVE-2025-32756-RCE-PoC">
 - [exfil0/CVE-2025-32756-POC](https://github.com/exfil0/CVE-2025-32756-POC)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/CVE-2025-32756-POC">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/CVE-2025-32756-POC">
+- [kn0x0x/CVE-2025-32756-POC](https://github.com/kn0x0x/CVE-2025-32756-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kn0x0x/CVE-2025-32756-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kn0x0x/CVE-2025-32756-POC">
 
 ---
 ## CVE-2025-3272025 ()
