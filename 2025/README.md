@@ -320,6 +320,11 @@
 - [l8BL/CVE-2025-44998](https://github.com/l8BL/CVE-2025-44998)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2025-44998">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2025-44998">
 
 ---
+## CVE-2025-44603 ()
+> 
+- [Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers](https://github.com/Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers)	<img alt="forks" src="https://img.shields.io/github/forks/Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers">	<img alt="stars" src="https://img.shields.io/github/stars/Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers">
+
+---
 ## CVE-2025-4428 ()
 > 
 - [xie-22/CVE-2025-4428](https://github.com/xie-22/CVE-2025-4428)	<img alt="forks" src="https://img.shields.io/github/forks/xie-22/CVE-2025-4428">	<img alt="stars" src="https://img.shields.io/github/stars/xie-22/CVE-2025-4428">
