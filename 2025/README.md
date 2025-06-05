@@ -608,6 +608,11 @@
 - [shellkraft/CVE-2025-3568](https://github.com/shellkraft/CVE-2025-3568)	<img alt="forks" src="https://img.shields.io/github/forks/shellkraft/CVE-2025-3568">	<img alt="stars" src="https://img.shields.io/github/stars/shellkraft/CVE-2025-3568">
 
 ---
+## CVE-2025-3419 ()
+> 
+- [Yucaerin/CVE-2025-3419](https://github.com/Yucaerin/CVE-2025-3419)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-3419">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-3419">
+
+---
 ## CVE-2025-34028 ()
 > 
 - [watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028](https://github.com/watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028">
@@ -922,6 +927,7 @@
 - [SUPRAAA-1337/CVE-2025-3102](https://github.com/SUPRAAA-1337/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102">
 - [SUPRAAA-1337/CVE-2025-3102-exploit](https://github.com/SUPRAAA-1337/CVE-2025-3102-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102-exploit">
 - [0xgh057r3c0n/CVE-2025-3102](https://github.com/0xgh057r3c0n/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-3102">
+- [B1ack4sh/CVE-2025-3102](https://github.com/B1ack4sh/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/CVE-2025-3102">
 
 ---
 ## CVE-2025-30967 ()
@@ -1749,6 +1755,7 @@
 - [sug4r-wr41th/CVE-2025-24893](https://github.com/sug4r-wr41th/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-24893">
 - [iSee857/CVE-2025-24893-PoC](https://github.com/iSee857/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-24893-PoC">
 - [Artemir7/CVE-2025-24893-EXP](https://github.com/Artemir7/CVE-2025-24893-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Artemir7/CVE-2025-24893-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Artemir7/CVE-2025-24893-EXP">
+- [ibrahimsql/cve-2025-24893](https://github.com/ibrahimsql/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/cve-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
@@ -2344,6 +2351,12 @@
 ## CVE-2025-0364 ()
 > 
 - [vulncheck-oss/cve-2025-0364](https://github.com/vulncheck-oss/cve-2025-0364)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2025-0364">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2025-0364">
+
+---
+## CVE-2025-0316 ()
+> 
+- [zorvithonleon/CVE-2025-0316-Exploit](https://github.com/zorvithonleon/CVE-2025-0316-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/zorvithonleon/CVE-2025-0316-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/zorvithonleon/CVE-2025-0316-Exploit">
+- [AvonBorn/CVE-2025-0316-Exploit](https://github.com/AvonBorn/CVE-2025-0316-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AvonBorn/CVE-2025-0316-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AvonBorn/CVE-2025-0316-Exploit">
 
 ---
 ## CVE-2025-03 ()
