@@ -9,6 +9,7 @@
 ## CVE-2025-5701 ()
 > 
 - [Harley21211/CVE-2025-5701-Exploit](https://github.com/Harley21211/CVE-2025-5701-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Harley21211/CVE-2025-5701-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Harley21211/CVE-2025-5701-Exploit">
+- [Nxploited/CVE-2025-5701](https://github.com/Nxploited/CVE-2025-5701)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5701">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5701">
 
 ---
 ## CVE-2025-5419 ()
