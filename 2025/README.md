@@ -289,6 +289,11 @@
 - [spbavarva/CVE-2025-46203](https://github.com/spbavarva/CVE-2025-46203)	<img alt="forks" src="https://img.shields.io/github/forks/spbavarva/CVE-2025-46203">	<img alt="stars" src="https://img.shields.io/github/stars/spbavarva/CVE-2025-46203">
 
 ---
+## CVE-2025-46178 ()
+> 
+- [SacX-7/CVE-2025-46178](https://github.com/SacX-7/CVE-2025-46178)	<img alt="forks" src="https://img.shields.io/github/forks/SacX-7/CVE-2025-46178">	<img alt="stars" src="https://img.shields.io/github/stars/SacX-7/CVE-2025-46178">
+
+---
 ## CVE-2025-46173 ()
 > 
 - [pruthuraut/CVE-2025-46173](https://github.com/pruthuraut/CVE-2025-46173)	<img alt="forks" src="https://img.shields.io/github/forks/pruthuraut/CVE-2025-46173">	<img alt="stars" src="https://img.shields.io/github/stars/pruthuraut/CVE-2025-46173">
