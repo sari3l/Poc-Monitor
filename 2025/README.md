@@ -520,6 +520,7 @@
 - [kk12-30/CVE-2025-4123](https://github.com/kk12-30/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/kk12-30/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/kk12-30/CVE-2025-4123">
 - [imbas007/CVE-2025-4123-template](https://github.com/imbas007/CVE-2025-4123-template)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-4123-template">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-4123-template">
 - [ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-](https://github.com/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-">
+- [B1ack4sh/Blackash-CVE-2025-4123](https://github.com/B1ack4sh/Blackash-CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-4123">
 
 ---
 ## CVE-2025-412027 ()
@@ -942,6 +943,7 @@
 - [SUPRAAA-1337/CVE-2025-3102-exploit](https://github.com/SUPRAAA-1337/CVE-2025-3102-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102-exploit">
 - [0xgh057r3c0n/CVE-2025-3102](https://github.com/0xgh057r3c0n/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-3102">
 - [B1ack4sh/CVE-2025-3102](https://github.com/B1ack4sh/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/CVE-2025-3102">
+- [baribut/CVE-2025-3102](https://github.com/baribut/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/baribut/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/baribut/CVE-2025-3102">
 
 ---
 ## CVE-2025-30967 ()
