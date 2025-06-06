@@ -996,6 +996,11 @@
 - [Live-Hack-CVE/CVE-2020-5232](https://github.com/Live-Hack-CVE/CVE-2020-5232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5232">
 
 ---
+## CVE-2020-5142 ()
+> 
+- [hackerlawyer/CVE-2020-5142-POC-MB](https://github.com/hackerlawyer/CVE-2020-5142-POC-MB)	<img alt="forks" src="https://img.shields.io/github/forks/hackerlawyer/CVE-2020-5142-POC-MB">	<img alt="stars" src="https://img.shields.io/github/stars/hackerlawyer/CVE-2020-5142-POC-MB">
+
+---
 ## CVE-2020-5135 (2020-10-12T11:15:00)
 > A buffer overflow vulnerability in SonicOS allows a remote attacker to cause Denial of Service (DoS) and potentially execute arbitrary code by sending a malicious request to the firewall. This vulnerability affected SonicOS Gen 6 version 6.5.4.7, 6.5.1.12, 6.0.5.3, SonicOSv 6.5.4.v and Gen 7 version 7.0.0.0.
 - [Live-Hack-CVE/CVE-2020-5135](https://github.com/Live-Hack-CVE/CVE-2020-5135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5135">
