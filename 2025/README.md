@@ -1038,6 +1038,7 @@
 - [imbas007/CVE-2025-30208-template](https://github.com/imbas007/CVE-2025-30208-template)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-30208-template">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-30208-template">
 - [r0ngy40/CVE-2025-30208-Series](https://github.com/r0ngy40/CVE-2025-30208-Series)	<img alt="forks" src="https://img.shields.io/github/forks/r0ngy40/CVE-2025-30208-Series">	<img alt="stars" src="https://img.shields.io/github/stars/r0ngy40/CVE-2025-30208-Series">
 - [nkuty/CVE-2025-30208-31125-31486-32395](https://github.com/nkuty/CVE-2025-30208-31125-31486-32395)	<img alt="forks" src="https://img.shields.io/github/forks/nkuty/CVE-2025-30208-31125-31486-32395">	<img alt="stars" src="https://img.shields.io/github/stars/nkuty/CVE-2025-30208-31125-31486-32395">
+- [HaGsec/CVE-2025-30208](https://github.com/HaGsec/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/HaGsec/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/HaGsec/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
