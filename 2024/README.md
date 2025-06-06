@@ -8706,6 +8706,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [momika233/CVE-2024-21006](https://github.com/momika233/CVE-2024-21006)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-21006">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-21006">
 - [lightr3d/CVE-2024-21006_jar](https://github.com/lightr3d/CVE-2024-21006_jar)	<img alt="forks" src="https://img.shields.io/github/forks/lightr3d/CVE-2024-21006_jar">	<img alt="stars" src="https://img.shields.io/github/stars/lightr3d/CVE-2024-21006_jar">
 - [dadvlingd/CVE-2024-21006](https://github.com/dadvlingd/CVE-2024-21006)	<img alt="forks" src="https://img.shields.io/github/forks/dadvlingd/CVE-2024-21006">	<img alt="stars" src="https://img.shields.io/github/stars/dadvlingd/CVE-2024-21006">
+- [d3fudd/CVE-2024-21006_POC](https://github.com/d3fudd/CVE-2024-21006_POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3fudd/CVE-2024-21006_POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3fudd/CVE-2024-21006_POC">
 
 ---
 ## CVE-2024-20931 (2024-02-17T02:15:00)
