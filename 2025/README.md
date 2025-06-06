@@ -1455,6 +1455,12 @@
 - [ov3rf1ow/CVE-2025-27363](https://github.com/ov3rf1ow/CVE-2025-27363)	<img alt="forks" src="https://img.shields.io/github/forks/ov3rf1ow/CVE-2025-27363">	<img alt="stars" src="https://img.shields.io/github/stars/ov3rf1ow/CVE-2025-27363">
 
 ---
+## CVE-2025-27152 ()
+> 
+- [davidblakecoe/axios-CVE-2025-27152-PoC](https://github.com/davidblakecoe/axios-CVE-2025-27152-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/davidblakecoe/axios-CVE-2025-27152-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/davidblakecoe/axios-CVE-2025-27152-PoC">
+- [andreglock/axios-ssrf](https://github.com/andreglock/axios-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/andreglock/axios-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/andreglock/axios-ssrf">
+
+---
 ## CVE-2025-2704 ()
 > 
 - [KernelKraze/CVE-2025-2704](https://github.com/KernelKraze/CVE-2025-2704)	<img alt="forks" src="https://img.shields.io/github/forks/KernelKraze/CVE-2025-2704">	<img alt="stars" src="https://img.shields.io/github/stars/KernelKraze/CVE-2025-2704">
