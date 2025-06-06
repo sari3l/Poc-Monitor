@@ -1934,6 +1934,11 @@
 - [apt-007/12345](https://github.com/apt-007/12345)	<img alt="forks" src="https://img.shields.io/github/forks/apt-007/12345">	<img alt="stars" src="https://img.shields.io/github/stars/apt-007/12345">
 
 ---
+## CVE-2025-24076 ()
+> 
+- [mbanyamer/CVE-2025-24076](https://github.com/mbanyamer/CVE-2025-24076)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2025-24076">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2025-24076">
+
+---
 ## CVE-2025-24071 ()
 > 
 - [FOLKS-iwd/CVE-2025-24071-msfvenom](https://github.com/FOLKS-iwd/CVE-2025-24071-msfvenom)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-24071-msfvenom">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-24071-msfvenom">
