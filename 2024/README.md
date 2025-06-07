@@ -1788,6 +1788,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [XiaomingX/cve-2024-51567-poc](https://github.com/XiaomingX/cve-2024-51567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-51567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-51567-poc">
 
 ---
+## CVE-2024-51482 ()
+> 
+- [BwithE/CVE-2024-51482](https://github.com/BwithE/CVE-2024-51482)	<img alt="forks" src="https://img.shields.io/github/forks/BwithE/CVE-2024-51482">	<img alt="stars" src="https://img.shields.io/github/stars/BwithE/CVE-2024-51482">
+
+---
 ## CVE-2024-51442 ()
 > 
 - [mselbrede/CVE-2024-51442](https://github.com/mselbrede/CVE-2024-51442)	<img alt="forks" src="https://img.shields.io/github/forks/mselbrede/CVE-2024-51442">	<img alt="stars" src="https://img.shields.io/github/stars/mselbrede/CVE-2024-51442">
