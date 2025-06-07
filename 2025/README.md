@@ -912,6 +912,7 @@
 ## CVE-2025-31131 ()
 > 
 - [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-31131">
+- [B1ack4sh/Blackash-CVE-2025-31131](https://github.com/B1ack4sh/Blackash-CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-31131">
 
 ---
 ## CVE-2025-31129 ()
