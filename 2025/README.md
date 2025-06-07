@@ -2119,6 +2119,7 @@
 - [voyagken/CVE-2025-22224-PoC](https://github.com/voyagken/CVE-2025-22224-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-22224-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-22224-PoC">
 - [takeshirisulu/CVE-2025-22224](https://github.com/takeshirisulu/CVE-2025-22224)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-22224">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-22224">
 - [takerishunte/CVE-2025-22224](https://github.com/takerishunte/CVE-2025-22224)	<img alt="forks" src="https://img.shields.io/github/forks/takerishunte/CVE-2025-22224">	<img alt="stars" src="https://img.shields.io/github/stars/takerishunte/CVE-2025-22224">
+- [lacelruz/CVE-2025-22224](https://github.com/lacelruz/CVE-2025-22224)	<img alt="forks" src="https://img.shields.io/github/forks/lacelruz/CVE-2025-22224">	<img alt="stars" src="https://img.shields.io/github/stars/lacelruz/CVE-2025-22224">
 
 ---
 ## CVE-2025-22223 ()
