@@ -1194,6 +1194,7 @@
 - [enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab](https://github.com/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab">
 - [sagsooz/CVE-2025-29927](https://github.com/sagsooz/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/CVE-2025-29927">
 - [SugiB3o/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927">
+- [B1ack4sh/Blackash-CVE-2025-29927](https://github.com/B1ack4sh/Blackash-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-29927">
 
 ---
 ## CVE-2025-29824 ()

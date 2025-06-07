@@ -6305,7 +6305,7 @@
 ---
 ## CVE-2021-30862 ()
 > 
-- [Umarovm/CVE-2021-30862](https://github.com/Umarovm/CVE-2021-30862)	<img alt="forks" src="https://img.shields.io/github/forks/Umarovm/CVE-2021-30862">	<img alt="stars" src="https://img.shields.io/github/stars/Umarovm/CVE-2021-30862">
+- [3h6-1/CVE-2021-30862](https://github.com/3h6-1/CVE-2021-30862)	<img alt="forks" src="https://img.shields.io/github/forks/3h6-1/CVE-2021-30862">	<img alt="stars" src="https://img.shields.io/github/stars/3h6-1/CVE-2021-30862">
 
 ---
 ## CVE-2021-30860 (2021-08-24T19:15:00)
