@@ -2466,6 +2466,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 > 
 - [WHW0x455/CVE-2023-41992](https://github.com/WHW0x455/CVE-2023-41992)	<img alt="forks" src="https://img.shields.io/github/forks/WHW0x455/CVE-2023-41992">	<img alt="stars" src="https://img.shields.io/github/stars/WHW0x455/CVE-2023-41992">
 - [xcbjky/cve-2023-41992-poc](https://github.com/xcbjky/cve-2023-41992-poc)	<img alt="forks" src="https://img.shields.io/github/forks/xcbjky/cve-2023-41992-poc">	<img alt="stars" src="https://img.shields.io/github/stars/xcbjky/cve-2023-41992-poc">
+- [xcbjky/cve-2023-41992-test](https://github.com/xcbjky/cve-2023-41992-test)	<img alt="forks" src="https://img.shields.io/github/forks/xcbjky/cve-2023-41992-test">	<img alt="stars" src="https://img.shields.io/github/stars/xcbjky/cve-2023-41992-test">
 
 ---
 ## CVE-2023-41991 (2023-09-21T19:15:00)
