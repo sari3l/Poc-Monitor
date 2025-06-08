@@ -7938,6 +7938,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [thomas-osgood/cve-2023-1874](https://github.com/thomas-osgood/cve-2023-1874)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/cve-2023-1874">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/cve-2023-1874">
 
 ---
+## CVE-2023-1829 ()
+> 
+- [flmarrero/CVE-2023-1829](https://github.com/flmarrero/CVE-2023-1829)	<img alt="forks" src="https://img.shields.io/github/forks/flmarrero/CVE-2023-1829">	<img alt="stars" src="https://img.shields.io/github/stars/flmarrero/CVE-2023-1829">
+
+---
 ## CVE-2023-1767 (2023-04-20T10:15:00)
 > The Snyk Advisor website (https://snyk.io/advisor/) was vulnerable to a stored XSS prior to 28th March 2023. A feature of Snyk Advisor is to display the contents of a scanned package's Readme on its package health page. An attacker could create a package in NPM with an associated markdown README file containing XSS-able HTML tags. Upon Snyk Advisor importing the package, the XSS would run each time an end user browsed to the package's page on Snyk Advisor.
 - [weizman/CVE-2023-1767](https://github.com/weizman/CVE-2023-1767)	<img alt="forks" src="https://img.shields.io/github/forks/weizman/CVE-2023-1767">	<img alt="stars" src="https://img.shields.io/github/stars/weizman/CVE-2023-1767">
