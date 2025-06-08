@@ -2050,6 +2050,11 @@
 - [0xWhoami35/CVE-2025-2294](https://github.com/0xWhoami35/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CVE-2025-2294">
 
 ---
+## CVE-2025-22870 ()
+> 
+- [JoshuaProvoste/CVE-2025-22870](https://github.com/JoshuaProvoste/CVE-2025-22870)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/CVE-2025-22870">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/CVE-2025-22870">
+
+---
 ## CVE-2025-22828 ()
 > 
 - [Stolichnayer/CVE-2025-22828](https://github.com/Stolichnayer/CVE-2025-22828)	<img alt="forks" src="https://img.shields.io/github/forks/Stolichnayer/CVE-2025-22828">	<img alt="stars" src="https://img.shields.io/github/stars/Stolichnayer/CVE-2025-22828">
