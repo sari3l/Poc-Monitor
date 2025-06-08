@@ -319,6 +319,11 @@
 - [J0ey17/CVE-2025-46047](https://github.com/J0ey17/CVE-2025-46047)	<img alt="forks" src="https://img.shields.io/github/forks/J0ey17/CVE-2025-46047">	<img alt="stars" src="https://img.shields.io/github/stars/J0ey17/CVE-2025-46047">
 
 ---
+## CVE-2025-46041 ()
+> 
+- [binneko/CVE-2025-46041](https://github.com/binneko/CVE-2025-46041)	<img alt="forks" src="https://img.shields.io/github/forks/binneko/CVE-2025-46041">	<img alt="stars" src="https://img.shields.io/github/stars/binneko/CVE-2025-46041">
+
+---
 ## CVE-2025-45781 ()
 > 
 - [ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC](https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">
@@ -681,6 +686,7 @@
 - [m4s1um/CVE-2025-32756-RCE-PoC](https://github.com/m4s1um/CVE-2025-32756-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/m4s1um/CVE-2025-32756-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/m4s1um/CVE-2025-32756-RCE-PoC">
 - [exfil0/CVE-2025-32756-POC](https://github.com/exfil0/CVE-2025-32756-POC)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/CVE-2025-32756-POC">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/CVE-2025-32756-POC">
 - [kn0x0x/CVE-2025-32756-POC](https://github.com/kn0x0x/CVE-2025-32756-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kn0x0x/CVE-2025-32756-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kn0x0x/CVE-2025-32756-POC">
+- [B1ack4sh/Blackash-CVE-2025-32756](https://github.com/B1ack4sh/Blackash-CVE-2025-32756)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-32756">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-32756">
 
 ---
 ## CVE-2025-3272025 ()
