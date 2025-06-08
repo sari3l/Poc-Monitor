@@ -4182,6 +4182,11 @@
 - [Live-Hack-CVE/CVE-2021-3695](https://github.com/Live-Hack-CVE/CVE-2021-3695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3695">
 
 ---
+## CVE-2021-36934 ()
+> 
+- [EvilCorpVendor/CVE-2021-36934](https://github.com/EvilCorpVendor/CVE-2021-36934)	<img alt="forks" src="https://img.shields.io/github/forks/EvilCorpVendor/CVE-2021-36934">	<img alt="stars" src="https://img.shields.io/github/stars/EvilCorpVendor/CVE-2021-36934">
+
+---
 ## CVE-2021-36917 (2021-11-24T17:15:00)
 > WordPress Hide My WP plugin (versions <= 6.2.3) can be deactivated by any unauthenticated user. It is possible to retrieve a reset token which can then be used to deactivate the plugin.
 - [Live-Hack-CVE/CVE-2021-36917](https://github.com/Live-Hack-CVE/CVE-2021-36917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36917">

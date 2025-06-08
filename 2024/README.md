@@ -3545,6 +3545,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [NotItsSixtyN3in/CVE-2024-422028](https://github.com/NotItsSixtyN3in/CVE-2024-422028)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2024-422028">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2024-422028">
 
 ---
+## CVE-2024-42049 ()
+> 
+- [zeved/CVE-2024-42049-PoC](https://github.com/zeved/CVE-2024-42049-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zeved/CVE-2024-42049-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zeved/CVE-2024-42049-PoC">
+
+---
 ## CVE-2024-42009 ()
 > 
 - [0xbassiouny1337/CVE-2024-42009](https://github.com/0xbassiouny1337/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/0xbassiouny1337/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/0xbassiouny1337/CVE-2024-42009">
