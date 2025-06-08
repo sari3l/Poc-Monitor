@@ -605,6 +605,11 @@
 - [Live-Hack-CVE/CVE-2014-0437](https://github.com/Live-Hack-CVE/CVE-2014-0437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0437">
 
 ---
+## CVE-2014-0346 ()
+> 
+- [Songul-Kizilay/CVE-2014-0346-](https://github.com/Songul-Kizilay/CVE-2014-0346-)	<img alt="forks" src="https://img.shields.io/github/forks/Songul-Kizilay/CVE-2014-0346-">	<img alt="stars" src="https://img.shields.io/github/stars/Songul-Kizilay/CVE-2014-0346-">
+
+---
 ## CVE-2014-0239 (2014-05-28T04:58:00)
 > The internal DNS server in Samba 4.x before 4.0.18 does not check the QR field in the header section of an incoming DNS message before sending a response, which allows remote attackers to cause a denial of service (CPU and bandwidth consumption) via a forged response packet that triggers a communication loop, a related issue to CVE-1999-0103.
 - [Live-Hack-CVE/CVE-2014-0239](https://github.com/Live-Hack-CVE/CVE-2014-0239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0239">
