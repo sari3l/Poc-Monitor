@@ -3785,6 +3785,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [jeppojeps/CVE-2024-40457-PoC](https://github.com/jeppojeps/CVE-2024-40457-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jeppojeps/CVE-2024-40457-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jeppojeps/CVE-2024-40457-PoC">
 
 ---
+## CVE-2024-40453 ()
+> 
+- [BwithE/CVE-2024-40453](https://github.com/BwithE/CVE-2024-40453)	<img alt="forks" src="https://img.shields.io/github/forks/BwithE/CVE-2024-40453">	<img alt="stars" src="https://img.shields.io/github/stars/BwithE/CVE-2024-40453">
+
+---
 ## CVE-2024-40445 ()
 > 
 - [TaiYou-TW/CVE-2024-40445_CVE-2024-40446](https://github.com/TaiYou-TW/CVE-2024-40445_CVE-2024-40446)	<img alt="forks" src="https://img.shields.io/github/forks/TaiYou-TW/CVE-2024-40445_CVE-2024-40446">	<img alt="stars" src="https://img.shields.io/github/stars/TaiYou-TW/CVE-2024-40445_CVE-2024-40446">
