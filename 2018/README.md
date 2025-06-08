@@ -1118,6 +1118,11 @@
 - [likescam/CVE-2018-17182](https://github.com/likescam/CVE-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2018-17182">
 
 ---
+## CVE-2018-17179 ()
+> 
+- [CyberQuestor-infosec/CVE-2018-17179-OpenEMR](https://github.com/CyberQuestor-infosec/CVE-2018-17179-OpenEMR)	<img alt="forks" src="https://img.shields.io/github/forks/CyberQuestor-infosec/CVE-2018-17179-OpenEMR">	<img alt="stars" src="https://img.shields.io/github/stars/CyberQuestor-infosec/CVE-2018-17179-OpenEMR">
+
+---
 ## CVE-2018-16881 (2019-01-25T18:29:00)
 > A denial of service vulnerability was found in rsyslog in the imptcp module. An attacker could send a specially crafted message to the imptcp socket, which would cause rsyslog to crash. Versions before 8.27.0 are vulnerable.
 - [Live-Hack-CVE/CVE-2018-16881](https://github.com/Live-Hack-CVE/CVE-2018-16881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16881">
