@@ -323,6 +323,7 @@
 ## CVE-2025-46041 ()
 > 
 - [binneko/CVE-2025-46041](https://github.com/binneko/CVE-2025-46041)	<img alt="forks" src="https://img.shields.io/github/forks/binneko/CVE-2025-46041">	<img alt="stars" src="https://img.shields.io/github/stars/binneko/CVE-2025-46041">
+- [binneko/CVE-2025-46041](https://github.com/binneko/CVE-2025-46041)	<img alt="forks" src="https://img.shields.io/github/forks/binneko/CVE-2025-46041">	<img alt="stars" src="https://img.shields.io/github/stars/binneko/CVE-2025-46041">
 
 ---
 ## CVE-2025-45781 ()
