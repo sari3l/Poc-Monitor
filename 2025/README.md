@@ -1507,6 +1507,11 @@
 - [ZeroDayx/CVE-2025-26909](https://github.com/ZeroDayx/CVE-2025-26909)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayx/CVE-2025-26909">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayx/CVE-2025-26909">
 
 ---
+## CVE-2025-26892 ()
+> 
+- [Nxploited/CVE-2025-26892](https://github.com/Nxploited/CVE-2025-26892)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-26892">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-26892">
+
+---
 ## CVE-2025-26865 ()
 > 
 - [mbadanoiu/CVE-2025-26865](https://github.com/mbadanoiu/CVE-2025-26865)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-26865">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-26865">
