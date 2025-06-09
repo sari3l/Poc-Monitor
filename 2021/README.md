@@ -6441,6 +6441,11 @@
 - [Live-Hack-CVE/CVE-2021-30071](https://github.com/Live-Hack-CVE/CVE-2021-30071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30071">
 
 ---
+## CVE-2021-30047 ()
+> 
+- [Freitandrey/CVE-2021-30047](https://github.com/Freitandrey/CVE-2021-30047)	<img alt="forks" src="https://img.shields.io/github/forks/Freitandrey/CVE-2021-30047">	<img alt="stars" src="https://img.shields.io/github/stars/Freitandrey/CVE-2021-30047">
+
+---
 ## CVE-2021-30045 (2021-04-06T13:15:00)
 > SerenityOS 2021-03-27 contains a buffer overflow vulnerability in the EndOfCentralDirectory::read() function.
 - [Live-Hack-CVE/CVE-2021-30045](https://github.com/Live-Hack-CVE/CVE-2021-30045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30045">
