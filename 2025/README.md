@@ -55,6 +55,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-5068 ()
+> 
+- [amandanegefa/CVE-2025-5068](https://github.com/amandanegefa/CVE-2025-5068)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-5068">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-5068">
+
+---
 ## CVE-2025-5054 ()
 > 
 - [daryllundy/cve-2025-5054](https://github.com/daryllundy/cve-2025-5054)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/cve-2025-5054">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/cve-2025-5054">
