@@ -9513,6 +9513,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [dragonXZH/CVE-2024-10914](https://github.com/dragonXZH/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/dragonXZH/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/dragonXZH/CVE-2024-10914">
 - [yenyangmjaze/cve-2024-10914](https://github.com/yenyangmjaze/cve-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/yenyangmjaze/cve-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/yenyangmjaze/cve-2024-10914">
 - [silverxpymaster/CVE-2024-10914-Exploit](https://github.com/silverxpymaster/CVE-2024-10914-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/silverxpymaster/CVE-2024-10914-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/silverxpymaster/CVE-2024-10914-Exploit">
+- [TH-SecForge/CVE-2024-10914](https://github.com/TH-SecForge/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2024-10914">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
