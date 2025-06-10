@@ -22,6 +22,7 @@
 - [takeshirisulu/CVE-2025-5419](https://github.com/takeshirisulu/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-5419">
 - [takerishunte/CVE-2025-5419](https://github.com/takerishunte/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/takerishunte/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/takerishunte/CVE-2025-5419">
 - [lacelruz/CVE-2025-5419](https://github.com/lacelruz/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/lacelruz/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/lacelruz/CVE-2025-5419">
+- [alegrason/CVE-2025-5419](https://github.com/alegrason/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/alegrason/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/alegrason/CVE-2025-5419">
 
 ---
 ## CVE-2025-5329 ()
