@@ -343,6 +343,11 @@
 - [binneko/CVE-2025-46041](https://github.com/binneko/CVE-2025-46041)	<img alt="forks" src="https://img.shields.io/github/forks/binneko/CVE-2025-46041">	<img alt="stars" src="https://img.shields.io/github/stars/binneko/CVE-2025-46041">
 
 ---
+## CVE-2025-4601 ()
+> 
+- [Yucaerin/CVE-2025-4601](https://github.com/Yucaerin/CVE-2025-4601)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4601">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4601">
+
+---
 ## CVE-2025-45781 ()
 > 
 - [ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC](https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">
