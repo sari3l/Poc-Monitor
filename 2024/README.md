@@ -8184,6 +8184,11 @@ Users are recommended to upgrade to version [1.2.5], which fixes the issue.
 - [omranisecurity/CVE-2024-22393](https://github.com/omranisecurity/CVE-2024-22393)	<img alt="forks" src="https://img.shields.io/github/forks/omranisecurity/CVE-2024-22393">	<img alt="stars" src="https://img.shields.io/github/stars/omranisecurity/CVE-2024-22393">
 
 ---
+## CVE-2024-22371 ()
+> 
+- [vishalborkar7/POC_for_-CVE-2024-22371](https://github.com/vishalborkar7/POC_for_-CVE-2024-22371)	<img alt="forks" src="https://img.shields.io/github/forks/vishalborkar7/POC_for_-CVE-2024-22371">	<img alt="stars" src="https://img.shields.io/github/stars/vishalborkar7/POC_for_-CVE-2024-22371">
+
+---
 ## CVE-2024-22369 (2024-02-20T15:15:00)
 > Deserialization of Untrusted Data vulnerability in Apache Camel SQL ComponentThis issue affects Apache Camel: from 3.0.0 before 3.21.4, from 3.22.0 before 3.22.1, from 4.0.0 before 4.0.4, from 4.1.0 before 4.4.0.
 
