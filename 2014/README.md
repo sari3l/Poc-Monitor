@@ -607,7 +607,7 @@
 ---
 ## CVE-2014-0346 ()
 > 
-- [Songul-Kizilay/CVE-2014-0346-](https://github.com/Songul-Kizilay/CVE-2014-0346-)	<img alt="forks" src="https://img.shields.io/github/forks/Songul-Kizilay/CVE-2014-0346-">	<img alt="stars" src="https://img.shields.io/github/stars/Songul-Kizilay/CVE-2014-0346-">
+- [Songul-Kizilay/CVE-2014-0346](https://github.com/Songul-Kizilay/CVE-2014-0346)	<img alt="forks" src="https://img.shields.io/github/forks/Songul-Kizilay/CVE-2014-0346">	<img alt="stars" src="https://img.shields.io/github/stars/Songul-Kizilay/CVE-2014-0346">
 
 ---
 ## CVE-2014-0239 (2014-05-28T04:58:00)
