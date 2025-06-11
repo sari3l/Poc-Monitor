@@ -6444,6 +6444,7 @@
 ## CVE-2021-30047 ()
 > 
 - [Freitandrey/CVE-2021-30047](https://github.com/Freitandrey/CVE-2021-30047)	<img alt="forks" src="https://img.shields.io/github/forks/Freitandrey/CVE-2021-30047">	<img alt="stars" src="https://img.shields.io/github/stars/Freitandrey/CVE-2021-30047">
+- [Freitandrei/CVE-2021-30047](https://github.com/Freitandrei/CVE-2021-30047)	<img alt="forks" src="https://img.shields.io/github/forks/Freitandrei/CVE-2021-30047">	<img alt="stars" src="https://img.shields.io/github/stars/Freitandrei/CVE-2021-30047">
 
 ---
 ## CVE-2021-30045 (2021-04-06T13:15:00)
