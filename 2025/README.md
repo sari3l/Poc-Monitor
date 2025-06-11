@@ -1921,6 +1921,7 @@
 - [cakescats/airborn-IOS-CVE-2025-24252](https://github.com/cakescats/airborn-IOS-CVE-2025-24252)	<img alt="forks" src="https://img.shields.io/github/forks/cakescats/airborn-IOS-CVE-2025-24252">	<img alt="stars" src="https://img.shields.io/github/stars/cakescats/airborn-IOS-CVE-2025-24252">
 - [ekomsSavior/AirBorne-PoC](https://github.com/ekomsSavior/AirBorne-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/AirBorne-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/AirBorne-PoC">
 - [apwlq/AirBorne-PoC](https://github.com/apwlq/AirBorne-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/apwlq/AirBorne-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/apwlq/AirBorne-PoC">
+- [B1ack4sh/Blackash-CVE-2025-24252](https://github.com/B1ack4sh/Blackash-CVE-2025-24252)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-24252">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-24252">
 
 ---
 ## CVE-2025-24221 ()
