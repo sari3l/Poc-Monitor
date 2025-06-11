@@ -1914,6 +1914,9 @@
 ## CVE-2025-24514 ()
 > 
 - [KimJuhyeong95/cve-2025-24514](https://github.com/KimJuhyeong95/cve-2025-24514)	<img alt="forks" src="https://img.shields.io/github/forks/KimJuhyeong95/cve-2025-24514">	<img alt="stars" src="https://img.shields.io/github/stars/KimJuhyeong95/cve-2025-24514">
+- [Esonhugh/ingressNightmare-CVE-2025-1974-exps](https://github.com/Esonhugh/ingressNightmare-CVE-2025-1974-exps)	<img alt="forks" src="https://img.shields.io/github/forks/Esonhugh/ingressNightmare-CVE-2025-1974-exps">	<img alt="stars" src="https://img.shields.io/github/stars/Esonhugh/ingressNightmare-CVE-2025-1974-exps">
+- [lufeirider/IngressNightmare-PoC](https://github.com/lufeirider/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lufeirider/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lufeirider/IngressNightmare-PoC">
+- [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/IngressNightmare-PoC">
 
 ---
 ## CVE-2025-24271 ()
@@ -2254,6 +2257,7 @@
 > 
 - [amandanegefa/CVE-2025-20286](https://github.com/amandanegefa/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-20286">
 - [noeneal/CVE-2025-20286](https://github.com/noeneal/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/noeneal/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/noeneal/CVE-2025-20286">
+- [rbaicba/CVE-2025-20286](https://github.com/rbaicba/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-20286">
 
 ---
 ## CVE-2025-20188 ()
