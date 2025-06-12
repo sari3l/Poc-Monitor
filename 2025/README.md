@@ -2239,6 +2239,7 @@
 > 
 - [Network-Sec/CVE-2025-21420-PoC](https://github.com/Network-Sec/CVE-2025-21420-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-21420-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-21420-PoC">
 - [toxy4ny/edge-maradeur](https://github.com/toxy4ny/edge-maradeur)	<img alt="forks" src="https://img.shields.io/github/forks/toxy4ny/edge-maradeur">	<img alt="stars" src="https://img.shields.io/github/stars/toxy4ny/edge-maradeur">
+- [moiz-2x/CVE-2025-21420_POC](https://github.com/moiz-2x/CVE-2025-21420_POC)	<img alt="forks" src="https://img.shields.io/github/forks/moiz-2x/CVE-2025-21420_POC">	<img alt="stars" src="https://img.shields.io/github/stars/moiz-2x/CVE-2025-21420_POC">
 
 ---
 ## CVE-2025-21385 ()
