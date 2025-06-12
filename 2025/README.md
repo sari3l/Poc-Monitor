@@ -669,6 +669,7 @@
 ## CVE-2025-33053 ()
 > 
 - [DevBuiHieu/CVE-2025-33053-Proof-Of-Concept](https://github.com/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept">
+- [alegrason/CVE-2025-33053](https://github.com/alegrason/CVE-2025-33053)	<img alt="forks" src="https://img.shields.io/github/forks/alegrason/CVE-2025-33053">	<img alt="stars" src="https://img.shields.io/github/stars/alegrason/CVE-2025-33053">
 
 ---
 ## CVE-2025-32965 ()
@@ -1235,6 +1236,7 @@
 - [sagsooz/CVE-2025-29927](https://github.com/sagsooz/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/CVE-2025-29927">
 - [SugiB3o/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927">
 - [B1ack4sh/Blackash-CVE-2025-29927](https://github.com/B1ack4sh/Blackash-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-29927">
+- [amitlttwo/Next.JS-CVE-2025-29927](https://github.com/amitlttwo/Next.JS-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/Next.JS-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/Next.JS-CVE-2025-29927">
 
 ---
 ## CVE-2025-29824 ()
