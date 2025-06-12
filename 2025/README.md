@@ -666,6 +666,11 @@
 - [Mattb709/CVE-2025-34028-PoC-Commvault-RCE](https://github.com/Mattb709/CVE-2025-34028-PoC-Commvault-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-34028-PoC-Commvault-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-34028-PoC-Commvault-RCE">
 
 ---
+## CVE-2025-33053 ()
+> 
+- [DevBuiHieu/CVE-2025-33053-Proof-Of-Concept](https://github.com/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept">
+
+---
 ## CVE-2025-32965 ()
 > 
 - [yusufdalbudak/CVE-2025-32965-xrpl-js-poc](https://github.com/yusufdalbudak/CVE-2025-32965-xrpl-js-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">
