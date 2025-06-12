@@ -1422,6 +1422,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-54772 ()
 > 
 - [deauther890/CVE-2024-54772](https://github.com/deauther890/CVE-2024-54772)	<img alt="forks" src="https://img.shields.io/github/forks/deauther890/CVE-2024-54772">	<img alt="stars" src="https://img.shields.io/github/stars/deauther890/CVE-2024-54772">
+- [Seven11Eleven/CVE-2024-54772](https://github.com/Seven11Eleven/CVE-2024-54772)	<img alt="forks" src="https://img.shields.io/github/forks/Seven11Eleven/CVE-2024-54772">	<img alt="stars" src="https://img.shields.io/github/stars/Seven11Eleven/CVE-2024-54772">
 
 ---
 ## CVE-2024-54761 ()
