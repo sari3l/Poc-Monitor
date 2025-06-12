@@ -397,6 +397,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [whiterose7777/CVE-2024-8275](https://github.com/whiterose7777/CVE-2024-8275)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-8275">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-8275">
 
 ---
+## CVE-2024-8232 ()
+> 
+- [z3usx01/CVE-2024-8232](https://github.com/z3usx01/CVE-2024-8232)	<img alt="forks" src="https://img.shields.io/github/forks/z3usx01/CVE-2024-8232">	<img alt="stars" src="https://img.shields.io/github/stars/z3usx01/CVE-2024-8232">
+
+---
 ## CVE-2024-8190 (2024-09-10T21:15:00)
 > An OS command injection vulnerability in Ivanti Cloud Services Appliance versions 4.6 Patch 518 and before allows a remote authenticated attacker to obtain remote code execution. The attacker must have admin level privileges to exploit this vulnerability.
 - [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-8190">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-8190">
