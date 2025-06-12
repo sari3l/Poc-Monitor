@@ -729,6 +729,11 @@
 - [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3272025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3272025">
 
 ---
+## CVE-2025-32711 ()
+> 
+- [AvonBorn/CVE-2025-32711-Exploit](https://github.com/AvonBorn/CVE-2025-32711-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AvonBorn/CVE-2025-32711-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AvonBorn/CVE-2025-32711-Exploit">
+
+---
 ## CVE-2025-32682 ()
 > 
 - [Nxploited/CVE-2025-32682](https://github.com/Nxploited/CVE-2025-32682)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32682">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32682">
