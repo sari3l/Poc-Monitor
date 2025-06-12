@@ -1237,6 +1237,7 @@
 - [SugiB3o/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927">
 - [B1ack4sh/Blackash-CVE-2025-29927](https://github.com/B1ack4sh/Blackash-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-29927">
 - [amitlttwo/Next.JS-CVE-2025-29927](https://github.com/amitlttwo/Next.JS-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/Next.JS-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/Next.JS-CVE-2025-29927">
+- [TH-SecForge/CVE-2025-29972](https://github.com/TH-SecForge/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-29972">
 
 ---
 ## CVE-2025-29824 ()
