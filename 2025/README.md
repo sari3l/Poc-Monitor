@@ -2044,6 +2044,11 @@
 - [sahici/CVE-2025-2404](https://github.com/sahici/CVE-2025-2404)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-2404">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-2404">
 
 ---
+## CVE-2025-24035 ()
+> 
+- [MSeymenD/cve-2025-24035-rds-websocket-dos-test](https://github.com/MSeymenD/cve-2025-24035-rds-websocket-dos-test)	<img alt="forks" src="https://img.shields.io/github/forks/MSeymenD/cve-2025-24035-rds-websocket-dos-test">	<img alt="stars" src="https://img.shields.io/github/stars/MSeymenD/cve-2025-24035-rds-websocket-dos-test">
+
+---
 ## CVE-2025-24016 ()
 > 
 - [huseyinstif/CVE-2025-24016-Nuclei-Template](https://github.com/huseyinstif/CVE-2025-24016-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2025-24016-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2025-24016-Nuclei-Template">
