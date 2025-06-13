@@ -601,6 +601,11 @@
 - [hacefresko/CVE-2025-40634](https://github.com/hacefresko/CVE-2025-40634)	<img alt="forks" src="https://img.shields.io/github/forks/hacefresko/CVE-2025-40634">	<img alt="stars" src="https://img.shields.io/github/stars/hacefresko/CVE-2025-40634">
 
 ---
+## CVE-2025-4009 ()
+> 
+- [realcodeb0ss/CVE-2025-4009](https://github.com/realcodeb0ss/CVE-2025-4009)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-4009">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-4009">
+
+---
 ## CVE-2025-3971 ()
 > 
 - [cyruscostini/CVE-2025-3971](https://github.com/cyruscostini/CVE-2025-3971)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-3971">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-3971">
