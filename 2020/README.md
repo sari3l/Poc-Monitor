@@ -3177,6 +3177,11 @@
 - [Live-Hack-CVE/CVE-2020-2152](https://github.com/Live-Hack-CVE/CVE-2020-2152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2152">
 
 ---
+## CVE-2020-21365 ()
+> 
+- [andrei2308/CVE-2020-21365](https://github.com/andrei2308/CVE-2020-21365)	<img alt="forks" src="https://img.shields.io/github/forks/andrei2308/CVE-2020-21365">	<img alt="stars" src="https://img.shields.io/github/stars/andrei2308/CVE-2020-21365">
+
+---
 ## CVE-2020-21219 (2022-12-15T19:15:00)
 > Cross Site Scripting (XSS) vulnerability in Netgate pf Sense 2.4.4-Release-p3 and Netgate ACME package 0.6.3 allows remote attackers to to run arbitrary code via the RootFolder field to acme_certificate_edit.php page of the ACME package.
 - [Live-Hack-CVE/CVE-2020-21219](https://github.com/Live-Hack-CVE/CVE-2020-21219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21219">
