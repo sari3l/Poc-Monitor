@@ -697,6 +697,7 @@
 ## CVE-2025-33073 ()
 > 
 - [mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/mverschu/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/mverschu/CVE-2025-33073">
+- [yigitsql/CVE-2025-33073](https://github.com/yigitsql/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/yigitsql/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/yigitsql/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
