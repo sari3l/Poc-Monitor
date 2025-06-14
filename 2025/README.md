@@ -2005,6 +2005,11 @@
 - [GeoSn0w/iDevice-Toolkit](https://github.com/GeoSn0w/iDevice-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/GeoSn0w/iDevice-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/GeoSn0w/iDevice-Toolkit">
 
 ---
+## CVE-2025-24201 ()
+> 
+- [AvonBorn/CVE-2025-24201-Exploit](https://github.com/AvonBorn/CVE-2025-24201-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AvonBorn/CVE-2025-24201-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AvonBorn/CVE-2025-24201-Exploit">
+
+---
 ## CVE-2025-24200 ()
 > 
 - [McTavishSue/CVE-2025-24200](https://github.com/McTavishSue/CVE-2025-24200)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-24200">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-24200">
