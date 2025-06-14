@@ -119,6 +119,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [Nexxus67/cve-2010-1938](https://github.com/Nexxus67/cve-2010-1938)	<img alt="forks" src="https://img.shields.io/github/forks/Nexxus67/cve-2010-1938">	<img alt="stars" src="https://img.shields.io/github/stars/Nexxus67/cve-2010-1938">
 
 ---
+## CVE-2010-1872 ()
+> 
+- [LipeOzyy/CVE-2010-1872-BlazeDVD-SEH-Exploit](https://github.com/LipeOzyy/CVE-2010-1872-BlazeDVD-SEH-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LipeOzyy/CVE-2010-1872-BlazeDVD-SEH-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LipeOzyy/CVE-2010-1872-BlazeDVD-SEH-Exploit">
+
+---
 ## CVE-2010-1622 (2010-06-21T16:30:00)
 > SpringSource Spring Framework 2.5.x before 2.5.6.SEC02, 2.5.7 before 2.5.7.SR01, and 3.0.x before 3.0.3 allows remote attackers to execute arbitrary code via an HTTP request containing class.classLoader.URLs[0]=jar: followed by a URL of a crafted .jar file. The previous CVSS assessment 5.1 (AV:N/AC:M/Au:N/C:P/I:P/A:P) was provided at the time of initial analysis based on the best available published information at that time.  The score has be updated to reflect the impact to Oracle products per <a href=http://www.oracle.com/technetwork/topics/security/cpuoct2015-2367953.html> Oracle Critical Patch Update Advisory - October 2015 </a>. Other products listed as vulnerable may or may not be similarly impacted.
 - [HandsomeCat00/Spring-CVE-2010-1622](https://github.com/HandsomeCat00/Spring-CVE-2010-1622)	<img alt="forks" src="https://img.shields.io/github/forks/HandsomeCat00/Spring-CVE-2010-1622">	<img alt="stars" src="https://img.shields.io/github/stars/HandsomeCat00/Spring-CVE-2010-1622">
