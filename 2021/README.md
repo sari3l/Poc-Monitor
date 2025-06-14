@@ -7025,6 +7025,7 @@
 - [voidvxvt/CVE-2021-26828](https://github.com/voidvxvt/CVE-2021-26828)	<img alt="forks" src="https://img.shields.io/github/forks/voidvxvt/CVE-2021-26828">	<img alt="stars" src="https://img.shields.io/github/stars/voidvxvt/CVE-2021-26828">
 - [hev0x/CVE-2021-26828_ScadaBR_RCE](https://github.com/hev0x/CVE-2021-26828_ScadaBR_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hev0x/CVE-2021-26828_ScadaBR_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hev0x/CVE-2021-26828_ScadaBR_RCE">
 - [ridpath/CVE-2021-26828-Ultimate](https://github.com/ridpath/CVE-2021-26828-Ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/ridpath/CVE-2021-26828-Ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/ridpath/CVE-2021-26828-Ultimate">
+- [Yuri08loveElaina/CVE-2021-26828](https://github.com/Yuri08loveElaina/CVE-2021-26828)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2021-26828">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2021-26828">
 
 ---
 ## CVE-2021-26720 (2021-02-17T22:15:00)

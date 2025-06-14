@@ -3697,6 +3697,11 @@ Affected users are recommended to disable the SAML authentication plugin by sett
 - [LLfam/CVE-2024-41018](https://github.com/LLfam/CVE-2024-41018)	<img alt="forks" src="https://img.shields.io/github/forks/LLfam/CVE-2024-41018">	<img alt="stars" src="https://img.shields.io/github/stars/LLfam/CVE-2024-41018">
 
 ---
+## CVE-2024-40898 ()
+> 
+- [anilpatel199n/CVE-2024-40898](https://github.com/anilpatel199n/CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/anilpatel199n/CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/anilpatel199n/CVE-2024-40898">
+
+---
 ## CVE-2024-40815 ()
 > 
 - [w0wbox/CVE-2024-40815](https://github.com/w0wbox/CVE-2024-40815)	<img alt="forks" src="https://img.shields.io/github/forks/w0wbox/CVE-2024-40815">	<img alt="stars" src="https://img.shields.io/github/stars/w0wbox/CVE-2024-40815">
