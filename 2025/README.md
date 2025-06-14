@@ -2075,6 +2075,7 @@
 - [ClementNjeru/CVE-2025-24054-PoC](https://github.com/ClementNjeru/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClementNjeru/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClementNjeru/CVE-2025-24054-PoC">
 - [S4mma3l/CVE-2025-24054](https://github.com/S4mma3l/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/S4mma3l/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/S4mma3l/CVE-2025-24054">
 - [moften/CVE-2025-24054](https://github.com/moften/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-24054">
+- [Yuri08loveElaina/CVE-2025-24054_POC](https://github.com/Yuri08loveElaina/CVE-2025-24054_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-24054_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-24054_POC">
 
 ---
 ## CVE-2025-2404 ()
