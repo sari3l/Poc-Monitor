@@ -2164,7 +2164,8 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [YuoLuo/tomcat_cve_2024_50379_exploit](https://github.com/YuoLuo/tomcat_cve_2024_50379_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/YuoLuo/tomcat_cve_2024_50379_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/YuoLuo/tomcat_cve_2024_50379_exploit">
 - [carefreegarb/CVE-2024-50379](https://github.com/carefreegarb/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/carefreegarb/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/carefreegarb/CVE-2024-50379">
 - [thunww/CVE-2024-50379](https://github.com/thunww/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/thunww/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/thunww/CVE-2024-50379">
-- [Yuri08loveElaina/CVE-2024-50379](https://github.com/Yuri08loveElaina/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2024-50379">
+- [Yuri08loveElaina/CVE-2024-50379-POC](https://github.com/Yuri08loveElaina/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2024-50379-POC">
+- [gomtaengi/CVE-2024-50379-exp](https://github.com/gomtaengi/CVE-2024-50379-exp)	<img alt="forks" src="https://img.shields.io/github/forks/gomtaengi/CVE-2024-50379-exp">	<img alt="stars" src="https://img.shields.io/github/stars/gomtaengi/CVE-2024-50379-exp">
 
 ---
 ## CVE-2024-50340 ()
