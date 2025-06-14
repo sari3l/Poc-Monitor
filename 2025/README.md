@@ -320,6 +320,11 @@
 - [spbavarva/CVE-2025-46203](https://github.com/spbavarva/CVE-2025-46203)	<img alt="forks" src="https://img.shields.io/github/forks/spbavarva/CVE-2025-46203">	<img alt="stars" src="https://img.shields.io/github/stars/spbavarva/CVE-2025-46203">
 
 ---
+## CVE-2025-46181 ()
+> 
+- [shemkumar/CVE-2025-46181-XSS](https://github.com/shemkumar/CVE-2025-46181-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/shemkumar/CVE-2025-46181-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/shemkumar/CVE-2025-46181-XSS">
+
+---
 ## CVE-2025-46178 ()
 > 
 - [SacX-7/CVE-2025-46178](https://github.com/SacX-7/CVE-2025-46178)	<img alt="forks" src="https://img.shields.io/github/forks/SacX-7/CVE-2025-46178">	<img alt="stars" src="https://img.shields.io/github/stars/SacX-7/CVE-2025-46178">
@@ -2118,6 +2123,11 @@
 > 
 - [hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2025-23369">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2025-23369">
 - [Arian91/CVE-2025-23369_SAML_bypass](https://github.com/Arian91/CVE-2025-23369_SAML_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Arian91/CVE-2025-23369_SAML_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Arian91/CVE-2025-23369_SAML_bypass">
+
+---
+## CVE-2025-23245655 ()
+> 
+- [cydragLINUX/CVE-2025-23245655](https://github.com/cydragLINUX/CVE-2025-23245655)	<img alt="forks" src="https://img.shields.io/github/forks/cydragLINUX/CVE-2025-23245655">	<img alt="stars" src="https://img.shields.io/github/stars/cydragLINUX/CVE-2025-23245655">
 
 ---
 ## CVE-2025-23040 ()
