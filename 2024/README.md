@@ -209,6 +209,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [punitdarji/Grafana-CVE-2024-9264](https://github.com/punitdarji/Grafana-CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Grafana-CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Grafana-CVE-2024-9264">
 - [zgimszhd61/CVE-2024-9264-RCE](https://github.com/zgimszhd61/CVE-2024-9264-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-9264-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-9264-RCE">
 - [Cythonic1/CVE-2024-9264](https://github.com/Cythonic1/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/Cythonic1/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/Cythonic1/CVE-2024-9264">
+- [Exerrdev/CVE-2024-9264-Fixed](https://github.com/Exerrdev/CVE-2024-9264-Fixed)	<img alt="forks" src="https://img.shields.io/github/forks/Exerrdev/CVE-2024-9264-Fixed">	<img alt="stars" src="https://img.shields.io/github/stars/Exerrdev/CVE-2024-9264-Fixed">
 
 ---
 ## CVE-2024-9263 (2024-10-17T04:15:00)
