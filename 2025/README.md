@@ -989,6 +989,7 @@
 - [ibrahimsql/CVE-2025-31161](https://github.com/ibrahimsql/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/CVE-2025-31161">
 - [0xgh057r3c0n/CVE-2025-31161](https://github.com/0xgh057r3c0n/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-31161">
 - [B1ack4sh/Blackash-CVE-2025-31161](https://github.com/B1ack4sh/Blackash-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-31161">
+- [ibrahmsql/CVE-2025-31161](https://github.com/ibrahmsql/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
