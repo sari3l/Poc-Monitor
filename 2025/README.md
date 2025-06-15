@@ -96,6 +96,11 @@
 - [NotItsSixtyN3in/CVE-2025-50000](https://github.com/NotItsSixtyN3in/CVE-2025-50000)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-50000">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-50000">
 
 ---
+## CVE-2025-49619 ()
+> 
+- [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619)	<img alt="forks" src="https://img.shields.io/github/forks/cristibtz/CVE-2025-49619">	<img alt="stars" src="https://img.shields.io/github/stars/cristibtz/CVE-2025-49619">
+
+---
 ## CVE-2025-49223 ()
 > 
 - [louay-075/CVE-2025-49223-BillboardJS-PoC](https://github.com/louay-075/CVE-2025-49223-BillboardJS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/louay-075/CVE-2025-49223-BillboardJS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/louay-075/CVE-2025-49223-BillboardJS-PoC">
@@ -698,6 +703,7 @@
 > 
 - [mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/mverschu/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/mverschu/CVE-2025-33073">
 - [yigitsql/CVE-2025-33073](https://github.com/yigitsql/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/yigitsql/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/yigitsql/CVE-2025-33073">
+- [joaozixx/CVE-2025-33073](https://github.com/joaozixx/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/joaozixx/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/joaozixx/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
