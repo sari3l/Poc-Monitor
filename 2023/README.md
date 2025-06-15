@@ -3377,6 +3377,7 @@ URL that curl has been told to operate with.
 ## CVE-2023-38286 (2023-07-14T05:15:00)
 > Thymeleaf through 3.1.1.RELEASE, as used in spring-boot-admin (aka Spring Boot Admin) through 3.1.1 and other products, allows sandbox bypass via crafted HTML. This may be relevant for SSTI (Server Side Template Injection) and code execution in spring-boot-admin if MailNotifier is enabled and there is write access to environment variables via the UI.
 - [ilqarli27/CVE-2023-38286](https://github.com/ilqarli27/CVE-2023-38286)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-38286">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-38286">
+- [BeeChill-16/HOD401-CVE-2023-38286](https://github.com/BeeChill-16/HOD401-CVE-2023-38286)	<img alt="forks" src="https://img.shields.io/github/forks/BeeChill-16/HOD401-CVE-2023-38286">	<img alt="stars" src="https://img.shields.io/github/stars/BeeChill-16/HOD401-CVE-2023-38286">
 
 ---
 ## CVE-2023-3824 (2023-08-11T06:15:00)
