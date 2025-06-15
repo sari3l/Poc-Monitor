@@ -6557,6 +6557,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [muhammetali20/CVE-2024-28995](https://github.com/muhammetali20/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/muhammetali20/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/muhammetali20/CVE-2024-28995">
 - [ibrahimsql/CVE-2024-28995](https://github.com/ibrahimsql/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/CVE-2024-28995">
 - [demoAlitalia/CVE-2024-28995](https://github.com/demoAlitalia/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/demoAlitalia/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/demoAlitalia/CVE-2024-28995">
+- [ibrahmsql/CVE-2024-28995](https://github.com/ibrahmsql/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-28995">
 
 ---
 ## CVE-2024-28991 (2024-09-12T14:16:00)
@@ -9988,6 +9989,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [cboss43/CVE-2024-25600](https://github.com/cboss43/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/cboss43/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/cboss43/CVE-2024-25600">
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
+- [ibrahmsql/CVE-2024-0204](https://github.com/ibrahmsql/CVE-2024-0204)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-0204">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-0204">
 
 ---
 ## CVE-2024-0197 (2024-02-27T13:15:00)
