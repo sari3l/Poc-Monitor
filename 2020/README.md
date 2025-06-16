@@ -78,6 +78,9 @@
 ## CVE-2020-9483 ()
 > 
 - [tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0](https://github.com/tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0)	<img alt="forks" src="https://img.shields.io/github/forks/tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0">	<img alt="stars" src="https://img.shields.io/github/stars/tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0">
+- [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
+- [Neko-chanQwQ/CVE-2020-9483](https://github.com/Neko-chanQwQ/CVE-2020-9483)	<img alt="forks" src="https://img.shields.io/github/forks/Neko-chanQwQ/CVE-2020-9483">	<img alt="stars" src="https://img.shields.io/github/stars/Neko-chanQwQ/CVE-2020-9483">
+- [shanika04/apache_skywalking](https://github.com/shanika04/apache_skywalking)	<img alt="forks" src="https://img.shields.io/github/forks/shanika04/apache_skywalking">	<img alt="stars" src="https://img.shields.io/github/stars/shanika04/apache_skywalking">
 
 ---
 ## CVE-2020-9480 (2020-06-23T22:15:00)

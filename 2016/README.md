@@ -664,6 +664,11 @@
 - [Live-Hack-CVE/CVE-2016-3189](https://github.com/Live-Hack-CVE/CVE-2016-3189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-3189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-3189">
 
 ---
+## CVE-2016-3088 ()
+> 
+- [HeArtE4t3r/CVE-2016-3088](https://github.com/HeArtE4t3r/CVE-2016-3088)	<img alt="forks" src="https://img.shields.io/github/forks/HeArtE4t3r/CVE-2016-3088">	<img alt="stars" src="https://img.shields.io/github/stars/HeArtE4t3r/CVE-2016-3088">
+
+---
 ## CVE-2016-2555 ()
 > 
 - [HussainFathy/CVE-2016-2555](https://github.com/HussainFathy/CVE-2016-2555)	<img alt="forks" src="https://img.shields.io/github/forks/HussainFathy/CVE-2016-2555">	<img alt="stars" src="https://img.shields.io/github/stars/HussainFathy/CVE-2016-2555">
