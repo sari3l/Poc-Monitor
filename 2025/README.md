@@ -2362,6 +2362,11 @@
 - [takeshirisulu/CVE-2025-20188](https://github.com/takeshirisulu/CVE-2025-20188)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-20188">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-20188">
 
 ---
+## CVE-2025-20124 ()
+> 
+- [Yuri08loveElaina/CVE-2025-20124_and_CVE-2025-20125](https://github.com/Yuri08loveElaina/CVE-2025-20124_and_CVE-2025-20125)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-20124_and_CVE-2025-20125">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-20124_and_CVE-2025-20125">
+
+---
 ## CVE-2025-2011 ()
 > 
 - [datagoboom/CVE-2025-2011](https://github.com/datagoboom/CVE-2025-2011)	<img alt="forks" src="https://img.shields.io/github/forks/datagoboom/CVE-2025-2011">	<img alt="stars" src="https://img.shields.io/github/stars/datagoboom/CVE-2025-2011">
