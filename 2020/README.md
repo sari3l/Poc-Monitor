@@ -75,6 +75,11 @@
 - [deathquote/CVE-2020-9484](https://github.com/deathquote/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/deathquote/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/deathquote/CVE-2020-9484">
 
 ---
+## CVE-2020-9483 ()
+> 
+- [tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0](https://github.com/tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0)	<img alt="forks" src="https://img.shields.io/github/forks/tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0">	<img alt="stars" src="https://img.shields.io/github/stars/tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0">
+
+---
 ## CVE-2020-9480 (2020-06-23T22:15:00)
 > In Apache Spark 2.4.5 and earlier, a standalone resource manager's master may be configured to require authentication (spark.authenticate) via a shared secret. When enabled, however, a specially-crafted RPC to the master can succeed in starting an application's resources on the Spark cluster, even without the shared key. This can be leveraged to execute shell commands on the host machine. This does not affect Spark clusters using other resource managers (YARN, Mesos, etc).
 - [XiaoShaYu617/CVE-2020-9480](https://github.com/XiaoShaYu617/CVE-2020-9480)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoShaYu617/CVE-2020-9480">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoShaYu617/CVE-2020-9480">
