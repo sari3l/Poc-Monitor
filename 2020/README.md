@@ -1387,6 +1387,13 @@
 - [Live-Hack-CVE/CVE-2020-35753](https://github.com/Live-Hack-CVE/CVE-2020-35753)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35753">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35753">
 
 ---
+## CVE-2020-35730 ()
+> 
+- [Pbat6/CVE-2020-35730](https://github.com/Pbat6/CVE-2020-35730)	<img alt="forks" src="https://img.shields.io/github/forks/Pbat6/CVE-2020-35730">	<img alt="stars" src="https://img.shields.io/github/stars/Pbat6/CVE-2020-35730">
+- [ankadien203/roundcube](https://github.com/ankadien203/roundcube)	<img alt="forks" src="https://img.shields.io/github/forks/ankadien203/roundcube">	<img alt="stars" src="https://img.shields.io/github/stars/ankadien203/roundcube">
+- [skyllpro/CVE-2021-44026-PoC](https://github.com/skyllpro/CVE-2021-44026-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/skyllpro/CVE-2021-44026-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/skyllpro/CVE-2021-44026-PoC">
+
+---
 ## CVE-2020-35728 (2020-12-27T05:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.oracle.wls.shaded.org.apache.xalan.lib.sql.JNDIConnectionPool (aka embedded Xalan in org.glassfish.web/javax.servlet.jsp.jstl).
 - [Live-Hack-CVE/CVE-2020-35728](https://github.com/Live-Hack-CVE/CVE-2020-35728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35728">
