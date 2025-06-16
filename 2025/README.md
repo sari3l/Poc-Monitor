@@ -139,6 +139,11 @@
 - [korden-c/CVE-2025-4918](https://github.com/korden-c/CVE-2025-4918)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-4918">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-4918">
 
 ---
+## CVE-2025-49125 ()
+> 
+- [detectrespondrepeat/CVE-2025-49125-Authentication-Bypass](https://github.com/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass">
+
+---
 ## CVE-2025-49113 ()
 > 
 - [rxerium/CVE-2025-49113](https://github.com/rxerium/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-49113">
