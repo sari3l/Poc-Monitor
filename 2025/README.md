@@ -6,6 +6,11 @@
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
 
 ---
+## CVE-2025-5964 ()
+> 
+- [byteReaper77/CVE-2025-5964-](https://github.com/byteReaper77/CVE-2025-5964-)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-5964-">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-5964-">
+
+---
 ## CVE-2025-5840 ()
 > 
 - [haxerr9/CVE-2025-5840](https://github.com/haxerr9/CVE-2025-5840)	<img alt="forks" src="https://img.shields.io/github/forks/haxerr9/CVE-2025-5840">	<img alt="stars" src="https://img.shields.io/github/stars/haxerr9/CVE-2025-5840">
@@ -1526,7 +1531,7 @@
 - [raulchung/CVE-2025-2783](https://github.com/raulchung/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/raulchung/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/raulchung/CVE-2025-2783">
 - [bronsoneaver/CVE-2025-2783](https://github.com/bronsoneaver/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-2783">
 - [Alchemist3dot14/CVE-2025-2783](https://github.com/Alchemist3dot14/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2025-2783">
-- [byteReaper77/CVE-2025-2783-SandboxEscape](https://github.com/byteReaper77/CVE-2025-2783-SandboxEscape)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-2783-SandboxEscape">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-2783-SandboxEscape">
+- [byteReaper77/CVE-2025-2783](https://github.com/byteReaper77/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-2783">
 - [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
 
 ---
