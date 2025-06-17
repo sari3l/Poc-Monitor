@@ -503,6 +503,11 @@
 - [darkDev-kirosky/CVE-2025-4322](https://github.com/darkDev-kirosky/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/darkDev-kirosky/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/darkDev-kirosky/CVE-2025-4322">
 
 ---
+## CVE-2025-43200 ()
+> 
+- [allinsthon/CVE-2025-43200](https://github.com/allinsthon/CVE-2025-43200)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-43200">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-43200">
+
+---
 ## CVE-2025-42599 ()
 > 
 - [bronsoneaver/CVE-2025-42599](https://github.com/bronsoneaver/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-42599">
