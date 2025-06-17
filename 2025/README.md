@@ -361,6 +361,11 @@
 - [pruthuraut/CVE-2025-46173](https://github.com/pruthuraut/CVE-2025-46173)	<img alt="forks" src="https://img.shields.io/github/forks/pruthuraut/CVE-2025-46173">	<img alt="stars" src="https://img.shields.io/github/stars/pruthuraut/CVE-2025-46173">
 
 ---
+## CVE-2025-46171 ()
+> 
+- [oiyl/CVE-2025-46171](https://github.com/oiyl/CVE-2025-46171)	<img alt="forks" src="https://img.shields.io/github/forks/oiyl/CVE-2025-46171">	<img alt="stars" src="https://img.shields.io/github/stars/oiyl/CVE-2025-46171">
+
+---
 ## CVE-2025-46157 ()
 > 
 - [morphine009/CVE-2025-46157](https://github.com/morphine009/CVE-2025-46157)	<img alt="forks" src="https://img.shields.io/github/forks/morphine009/CVE-2025-46157">	<img alt="stars" src="https://img.shields.io/github/stars/morphine009/CVE-2025-46157">
