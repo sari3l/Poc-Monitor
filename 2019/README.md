@@ -2486,6 +2486,7 @@ use after free.
 - [Mattb709/CVE-2019-15107-Scanner](https://github.com/Mattb709/CVE-2019-15107-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2019-15107-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2019-15107-Scanner">
 - [Mattb709/CVE-2019-15107-Webmin-RCE-PoC](https://github.com/Mattb709/CVE-2019-15107-Webmin-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2019-15107-Webmin-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2019-15107-Webmin-RCE-PoC">
 - [m4lk3rnel/CVE-2019-15107](https://github.com/m4lk3rnel/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/m4lk3rnel/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/m4lk3rnel/CVE-2019-15107">
+- [EdouardosStav/CVE-2019-15107-RCE-WebMin](https://github.com/EdouardosStav/CVE-2019-15107-RCE-WebMin)	<img alt="forks" src="https://img.shields.io/github/forks/EdouardosStav/CVE-2019-15107-RCE-WebMin">	<img alt="stars" src="https://img.shields.io/github/stars/EdouardosStav/CVE-2019-15107-RCE-WebMin">
 
 ---
 ## CVE-2019-14974 (2019-08-14T16:15:00)
