@@ -2328,6 +2328,7 @@
 ## CVE-2025-2135 ()
 > 
 - [Wa1nut4/CVE-2025-2135](https://github.com/Wa1nut4/CVE-2025-2135)	<img alt="forks" src="https://img.shields.io/github/forks/Wa1nut4/CVE-2025-2135">	<img alt="stars" src="https://img.shields.io/github/stars/Wa1nut4/CVE-2025-2135">
+- [sangnguyenthien/CVE-2025-2135](https://github.com/sangnguyenthien/CVE-2025-2135)	<img alt="forks" src="https://img.shields.io/github/forks/sangnguyenthien/CVE-2025-2135">	<img alt="stars" src="https://img.shields.io/github/stars/sangnguyenthien/CVE-2025-2135">
 
 ---
 ## CVE-2025-21333 ()
