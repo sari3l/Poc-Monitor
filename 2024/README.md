@@ -8035,6 +8035,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [XiaomingX/cve-2024-23113-exp](https://github.com/XiaomingX/cve-2024-23113-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-23113-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-23113-exp">
 - [XiaomingX/cve-2024-23113-poc](https://github.com/XiaomingX/cve-2024-23113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-23113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-23113-poc">
 - [valornode/CVE-2024-23113](https://github.com/valornode/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/valornode/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/valornode/CVE-2024-23113">
+- [zetzns/cve-2024-23113](https://github.com/zetzns/cve-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/zetzns/cve-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/zetzns/cve-2024-23113">
 
 ---
 ## CVE-2024-23112 (2024-03-12T15:15:00)
