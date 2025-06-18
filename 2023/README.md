@@ -8221,6 +8221,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [churamanib/CVE-2023-0386](https://github.com/churamanib/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/churamanib/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/churamanib/CVE-2023-0386">
 - [EstamelGG/CVE-2023-0386-libs](https://github.com/EstamelGG/CVE-2023-0386-libs)	<img alt="forks" src="https://img.shields.io/github/forks/EstamelGG/CVE-2023-0386-libs">	<img alt="stars" src="https://img.shields.io/github/stars/EstamelGG/CVE-2023-0386-libs">
 - [orilevy8/cve-2023-0386](https://github.com/orilevy8/cve-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/orilevy8/cve-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/orilevy8/cve-2023-0386">
+- [bchevCH/CVE-2023-0386](https://github.com/bchevCH/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/bchevCH/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/bchevCH/CVE-2023-0386">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)
