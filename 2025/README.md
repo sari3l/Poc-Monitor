@@ -2548,6 +2548,7 @@
 - [shacojx/CVE-2025-1094-Exploit](https://github.com/shacojx/CVE-2025-1094-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shacojx/CVE-2025-1094-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shacojx/CVE-2025-1094-Exploit">
 - [shacojx/CVE-2025-1094-Exploit](https://github.com/shacojx/CVE-2025-1094-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shacojx/CVE-2025-1094-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shacojx/CVE-2025-1094-Exploit">
 - [ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi](https://github.com/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">
+- [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/aninfosec/CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/aninfosec/CVE-2025-1094">
 
 ---
 ## CVE-2025-10792 ()
