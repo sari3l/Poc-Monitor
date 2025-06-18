@@ -170,6 +170,7 @@
 - [5kr1pt/WriteUp-Roundcube_CVE-2025-49113](https://github.com/5kr1pt/WriteUp-Roundcube_CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/WriteUp-Roundcube_CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/WriteUp-Roundcube_CVE-2025-49113">
 - [B1ack4sh/Blackash-CVE-2025-49113](https://github.com/B1ack4sh/Blackash-CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-49113">
 - [5kr1pt/Roundcube_CVE-2025-49113](https://github.com/5kr1pt/Roundcube_CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/Roundcube_CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/Roundcube_CVE-2025-49113">
+- [punitdarji/roundcube-cve-2025-49113](https://github.com/punitdarji/roundcube-cve-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/roundcube-cve-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/roundcube-cve-2025-49113">
 
 ---
 ## CVE-2025-48827 ()
