@@ -863,6 +863,7 @@
 - [tiemio/RCE-CVE-2025-3248](https://github.com/tiemio/RCE-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/RCE-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/RCE-CVE-2025-3248">
 - [ynsmroztas/CVE-2025-3248-Langflow-RCE](https://github.com/ynsmroztas/CVE-2025-3248-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2025-3248-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2025-3248-Langflow-RCE">
 - [imbas007/CVE-2025-3248](https://github.com/imbas007/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-3248">
+- [0xgh057r3c0n/CVE-2025-3248](https://github.com/0xgh057r3c0n/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-3248">
 
 ---
 ## CVE-2025-32433 ()
