@@ -453,6 +453,11 @@
 - [doomygloom/CVE-2025-4427](https://github.com/doomygloom/CVE-2025-4427)	<img alt="forks" src="https://img.shields.io/github/forks/doomygloom/CVE-2025-4427">	<img alt="stars" src="https://img.shields.io/github/stars/doomygloom/CVE-2025-4427">
 
 ---
+## CVE-2025-44203 ()
+> 
+- [IvanT7D3/CVE-2025-44203](https://github.com/IvanT7D3/CVE-2025-44203)	<img alt="forks" src="https://img.shields.io/github/forks/IvanT7D3/CVE-2025-44203">	<img alt="stars" src="https://img.shields.io/github/stars/IvanT7D3/CVE-2025-44203">
+
+---
 ## CVE-2025-442025 ()
 > 
 - [joey-melo/CVE-2025-442025](https://github.com/joey-melo/CVE-2025-442025)	<img alt="forks" src="https://img.shields.io/github/forks/joey-melo/CVE-2025-442025">	<img alt="stars" src="https://img.shields.io/github/stars/joey-melo/CVE-2025-442025">
@@ -1736,6 +1741,11 @@
 - [Otsmane-Ahmed/CVE-2025-2620-poc](https://github.com/Otsmane-Ahmed/CVE-2025-2620-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/CVE-2025-2620-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/CVE-2025-2620-poc">
 - [A17-ba/CVE-2025-26202-Details](https://github.com/A17-ba/CVE-2025-26202-Details)	<img alt="forks" src="https://img.shields.io/github/forks/A17-ba/CVE-2025-26202-Details">	<img alt="stars" src="https://img.shields.io/github/stars/A17-ba/CVE-2025-26202-Details">
 - [xibhi/CVE-2025-26206](https://github.com/xibhi/CVE-2025-26206)	<img alt="forks" src="https://img.shields.io/github/forks/xibhi/CVE-2025-26206">	<img alt="stars" src="https://img.shields.io/github/stars/xibhi/CVE-2025-26206">
+
+---
+## CVE-2025-26198 ()
+> 
+- [tansique-17/CVE-2025-26198](https://github.com/tansique-17/CVE-2025-26198)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-26198">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-26198">
 
 ---
 ## CVE-2025-26159 ()
