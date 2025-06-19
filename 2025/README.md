@@ -2229,6 +2229,11 @@
 - [cydragLINUX/CVE-2025-23245655](https://github.com/cydragLINUX/CVE-2025-23245655)	<img alt="forks" src="https://img.shields.io/github/forks/cydragLINUX/CVE-2025-23245655">	<img alt="stars" src="https://img.shields.io/github/stars/cydragLINUX/CVE-2025-23245655">
 
 ---
+## CVE-2025-23121 ()
+> 
+- [nagenar/CVE-2025-23121-RCE](https://github.com/nagenar/CVE-2025-23121-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nagenar/CVE-2025-23121-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nagenar/CVE-2025-23121-RCE">
+
+---
 ## CVE-2025-23040 ()
 > 
 - [GabrieleDattile/CVE-2025-23040](https://github.com/GabrieleDattile/CVE-2025-23040)	<img alt="forks" src="https://img.shields.io/github/forks/GabrieleDattile/CVE-2025-23040">	<img alt="stars" src="https://img.shields.io/github/stars/GabrieleDattile/CVE-2025-23040">
