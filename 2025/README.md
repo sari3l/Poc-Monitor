@@ -1751,6 +1751,11 @@
 - [xibhi/CVE-2025-26206](https://github.com/xibhi/CVE-2025-26206)	<img alt="forks" src="https://img.shields.io/github/forks/xibhi/CVE-2025-26206">	<img alt="stars" src="https://img.shields.io/github/stars/xibhi/CVE-2025-26206">
 
 ---
+## CVE-2025-26199 ()
+> 
+- [tansique-17/CVE-2025-26199](https://github.com/tansique-17/CVE-2025-26199)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-26199">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-26199">
+
+---
 ## CVE-2025-26198 ()
 > 
 - [tansique-17/CVE-2025-26198](https://github.com/tansique-17/CVE-2025-26198)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-26198">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-26198">
