@@ -1694,6 +1694,11 @@
 - [dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466](https://github.com/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">
 
 ---
+## CVE-2025-26443 ()
+> 
+- [Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443](https://github.com/Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443">
+
+---
 ## CVE-2025-26417 ()
 > 
 - [uthrasri/CVE-2025-26417](https://github.com/uthrasri/CVE-2025-26417)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2025-26417">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2025-26417">
@@ -2684,6 +2689,7 @@
 - [barcrange/CVE-2025-0108-Authentication-Bypass-checker](https://github.com/barcrange/CVE-2025-0108-Authentication-Bypass-checker)	<img alt="forks" src="https://img.shields.io/github/forks/barcrange/CVE-2025-0108-Authentication-Bypass-checker">	<img alt="stars" src="https://img.shields.io/github/stars/barcrange/CVE-2025-0108-Authentication-Bypass-checker">
 - [sohaibeb/CVE-2025-0108](https://github.com/sohaibeb/CVE-2025-0108)	<img alt="forks" src="https://img.shields.io/github/forks/sohaibeb/CVE-2025-0108">	<img alt="stars" src="https://img.shields.io/github/stars/sohaibeb/CVE-2025-0108">
 - [becrevex/CVE-2025-0108](https://github.com/becrevex/CVE-2025-0108)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2025-0108">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2025-0108">
+- [B1ack4sh/Blackash-CVE-2025-0108](https://github.com/B1ack4sh/Blackash-CVE-2025-0108)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-0108">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-0108">
 
 ---
 ## CVE-2025-0087 ()

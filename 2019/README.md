@@ -3095,6 +3095,7 @@ use after free.
 - [ianxtianxt/CVE-2019-11043](https://github.com/ianxtianxt/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/ianxtianxt/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/ianxtianxt/CVE-2019-11043">
 - [tinker-li/CVE-2019-11043](https://github.com/tinker-li/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/tinker-li/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/tinker-li/CVE-2019-11043">
 - [Limguri/-Limguri-php-CVE-2019-11043-](https://github.com/Limguri/-Limguri-php-CVE-2019-11043-)	<img alt="forks" src="https://img.shields.io/github/forks/Limguri/-Limguri-php-CVE-2019-11043-">	<img alt="stars" src="https://img.shields.io/github/stars/Limguri/-Limguri-php-CVE-2019-11043-">
+- [bayazid-bit/CVE-2019-11043-](https://github.com/bayazid-bit/CVE-2019-11043-)	<img alt="forks" src="https://img.shields.io/github/forks/bayazid-bit/CVE-2019-11043-">	<img alt="stars" src="https://img.shields.io/github/stars/bayazid-bit/CVE-2019-11043-">
 
 ---
 ## CVE-2019-10945 (2019-04-10T19:29:00)
