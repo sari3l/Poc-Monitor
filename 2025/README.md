@@ -11,6 +11,11 @@
 - [d0n601/CVE-2025-6220](https://github.com/d0n601/CVE-2025-6220)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-6220">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-6220">
 
 ---
+## CVE-2025-6019 ()
+> 
+- [guinea-offensive-security/CVE-2025-6019](https://github.com/guinea-offensive-security/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/CVE-2025-6019">
+
+---
 ## CVE-2025-5964 ()
 > 
 - [byteReaper77/CVE-2025-5964-](https://github.com/byteReaper77/CVE-2025-5964-)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-5964-">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-5964-">
