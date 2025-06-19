@@ -2232,6 +2232,7 @@
 ## CVE-2025-23121 ()
 > 
 - [nagenar/CVE-2025-23121-RCE](https://github.com/nagenar/CVE-2025-23121-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nagenar/CVE-2025-23121-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nagenar/CVE-2025-23121-RCE">
+- [nagenar/CVE-2025-23121-RCE](https://github.com/nagenar/CVE-2025-23121-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nagenar/CVE-2025-23121-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nagenar/CVE-2025-23121-RCE">
 
 ---
 ## CVE-2025-23040 ()
