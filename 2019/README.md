@@ -1249,7 +1249,7 @@
 ---
 ## CVE-2019-3980 ()
 > 
-- [CyberQuestor-infosec/CVE-2019-3980-Open_Network_Admin_v18.1.1_RCE](https://github.com/CyberQuestor-infosec/CVE-2019-3980-Open_Network_Admin_v18.1.1_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CyberQuestor-infosec/CVE-2019-3980-Open_Network_Admin_v18.1.1_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CyberQuestor-infosec/CVE-2019-3980-Open_Network_Admin_v18.1.1_RCE">
+- [CyberQuestor-infosec/CVE-2019-3980-Open_Net_Admin_v18.1.1_RCE](https://github.com/CyberQuestor-infosec/CVE-2019-3980-Open_Net_Admin_v18.1.1_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CyberQuestor-infosec/CVE-2019-3980-Open_Net_Admin_v18.1.1_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CyberQuestor-infosec/CVE-2019-3980-Open_Net_Admin_v18.1.1_RCE">
 - [Barbarisch/CVE-2019-3980](https://github.com/Barbarisch/CVE-2019-3980)	<img alt="forks" src="https://img.shields.io/github/forks/Barbarisch/CVE-2019-3980">	<img alt="stars" src="https://img.shields.io/github/stars/Barbarisch/CVE-2019-3980">
 - [warferik/CVE-2019-3980](https://github.com/warferik/CVE-2019-3980)	<img alt="forks" src="https://img.shields.io/github/forks/warferik/CVE-2019-3980">	<img alt="stars" src="https://img.shields.io/github/stars/warferik/CVE-2019-3980">
 
