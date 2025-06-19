@@ -1247,6 +1247,11 @@
 - [Live-Hack-CVE/CVE-2019-4047](https://github.com/Live-Hack-CVE/CVE-2019-4047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4047">
 
 ---
+## CVE-2019-3980 ()
+> 
+- [CyberQuestor-infosec/CVE-2019-3980-Open_Network_Admin_v18.1.1_RCE](https://github.com/CyberQuestor-infosec/CVE-2019-3980-Open_Network_Admin_v18.1.1_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CyberQuestor-infosec/CVE-2019-3980-Open_Network_Admin_v18.1.1_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CyberQuestor-infosec/CVE-2019-3980-Open_Network_Admin_v18.1.1_RCE">
+
+---
 ## CVE-2019-3939 (2019-04-30T21:29:00)
 > Crestron AM-100 with firmware 1.6.0.2 and AM-101 with firmware 2.7.0.2 use default credentials admin/admin and moderator/moderator for the web interface. An unauthenticated, remote attacker can use these credentials to gain privileged access to the device.
 - [Live-Hack-CVE/CVE-2019-3939](https://github.com/Live-Hack-CVE/CVE-2019-3939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3939">

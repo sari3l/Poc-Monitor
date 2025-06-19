@@ -70,6 +70,7 @@
 - [VuThanhLong012/VulnerabilityResearch-CVE-2007-2447](https://github.com/VuThanhLong012/VulnerabilityResearch-CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/VuThanhLong012/VulnerabilityResearch-CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/VuThanhLong012/VulnerabilityResearch-CVE-2007-2447">
 - [foudadev/CVE-2007-2447](https://github.com/foudadev/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/foudadev/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/foudadev/CVE-2007-2447">
 - [elphon/CVE-2007-2447-Exploit](https://github.com/elphon/CVE-2007-2447-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/elphon/CVE-2007-2447-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/elphon/CVE-2007-2447-Exploit">
+- [DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2](https://github.com/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2)	<img alt="forks" src="https://img.shields.io/github/forks/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2">	<img alt="stars" src="https://img.shields.io/github/stars/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2">
 
 ---
 ## CVE-2007-2444 (2007-05-14T21:19:00)
