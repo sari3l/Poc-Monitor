@@ -2032,6 +2032,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [g1thubb004/poc-CVE-2024-5057](https://github.com/g1thubb004/poc-CVE-2024-5057)	<img alt="forks" src="https://img.shields.io/github/forks/g1thubb004/poc-CVE-2024-5057">	<img alt="stars" src="https://img.shields.io/github/stars/g1thubb004/poc-CVE-2024-5057">
 
 ---
+## CVE-2024-50562 ()
+> 
+- [Shahid-BugB/fortinet-cve-2024-50562](https://github.com/Shahid-BugB/fortinet-cve-2024-50562)	<img alt="forks" src="https://img.shields.io/github/forks/Shahid-BugB/fortinet-cve-2024-50562">	<img alt="stars" src="https://img.shields.io/github/stars/Shahid-BugB/fortinet-cve-2024-50562">
+
+---
 ## CVE-2024-50550 (2024-10-29T10:15:00)
 > Incorrect Privilege Assignment vulnerability in LiteSpeed Technologies LiteSpeed Cache allows Privilege Escalation.This issue affects LiteSpeed Cache: from n/a through 6.5.1.
 - [AleksaZatezalo/CVE-2024-50550](https://github.com/AleksaZatezalo/CVE-2024-50550)	<img alt="forks" src="https://img.shields.io/github/forks/AleksaZatezalo/CVE-2024-50550">	<img alt="stars" src="https://img.shields.io/github/stars/AleksaZatezalo/CVE-2024-50550">
