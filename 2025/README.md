@@ -183,6 +183,11 @@
 - [punitdarji/roundcube-cve-2025-49113](https://github.com/punitdarji/roundcube-cve-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/roundcube-cve-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/roundcube-cve-2025-49113">
 
 ---
+## CVE-2025-48988 ()
+> 
+- [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
+
+---
 ## CVE-2025-48827 ()
 > 
 - [0xgh057r3c0n/CVE-2025-48827](https://github.com/0xgh057r3c0n/CVE-2025-48827)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-48827">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-48827">
