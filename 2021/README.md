@@ -2640,6 +2640,11 @@
 - [nisdn/CVE-2021-40978](https://github.com/nisdn/CVE-2021-40978)	<img alt="forks" src="https://img.shields.io/github/forks/nisdn/CVE-2021-40978">	<img alt="stars" src="https://img.shields.io/github/stars/nisdn/CVE-2021-40978">
 
 ---
+## CVE-2021-40964 ()
+> 
+- [Z3R0-0x30/CVE-2021-40964](https://github.com/Z3R0-0x30/CVE-2021-40964)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2021-40964">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2021-40964">
+
+---
 ## CVE-2021-40905 (2022-03-25T23:15:00)
 > ** DISPUTED ** The web management console of CheckMK Enterprise Edition (versions 1.5.0 to 2.0.0p9) does not properly sanitise the uploading of ".mkp" files, which are Extension Packages, making remote code execution possible. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session of a user with administrator role. NOTE: the vendor states that this is the intended behavior: admins are supposed to be able to execute code in this manner.
 - [Edgarloyola/CVE-2021-40905](https://github.com/Edgarloyola/CVE-2021-40905)	<img alt="forks" src="https://img.shields.io/github/forks/Edgarloyola/CVE-2021-40905">	<img alt="stars" src="https://img.shields.io/github/stars/Edgarloyola/CVE-2021-40905">

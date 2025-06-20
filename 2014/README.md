@@ -49,6 +49,8 @@
 - [VICXOR/HFSZap](https://github.com/VICXOR/HFSZap)	<img alt="forks" src="https://img.shields.io/github/forks/VICXOR/HFSZap">	<img alt="stars" src="https://img.shields.io/github/stars/VICXOR/HFSZap">
 - [zhsh9/CVE-2014-6287](https://github.com/zhsh9/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/zhsh9/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/zhsh9/CVE-2014-6287">
 - [francescobrina/hfs-cve-2014-6287-exploit](https://github.com/francescobrina/hfs-cve-2014-6287-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/francescobrina/hfs-cve-2014-6287-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/francescobrina/hfs-cve-2014-6287-exploit">
+- [Z3R0-0x30/CVE-2014-6287](https://github.com/Z3R0-0x30/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2014-6287">
+- [10cks/CVE-2014-6287](https://github.com/10cks/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2014-6287">
 
 ---
 ## CVE-2014-6271 (2014-09-24T18:48:00)
