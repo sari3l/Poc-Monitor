@@ -401,6 +401,7 @@
 > Multiple open redirect vulnerabilities in u5CMS before 3.9.4 allow remote attackers to redirect users to arbitrary web sites and conduct phishing attacks via a URL in the (1) pidvesa cookie to u5admin/pidvesa.php or (2) uri parameter to u5admin/meta2.php. <a href="http://cwe.mitre.org/data/definitions/601.html">CWE-601: URL Redirection to Untrusted Site ('Open Redirect')</a>
 - [Zeppperoni/CVE-2015-1578](https://github.com/Zeppperoni/CVE-2015-1578)	<img alt="forks" src="https://img.shields.io/github/forks/Zeppperoni/CVE-2015-1578">	<img alt="stars" src="https://img.shields.io/github/stars/Zeppperoni/CVE-2015-1578">
 - [yaldobaoth/CVE-2015-1578-PoC](https://github.com/yaldobaoth/CVE-2015-1578-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yaldobaoth/CVE-2015-1578-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yaldobaoth/CVE-2015-1578-PoC">
+- [yaldobaoth/CVE-2015-1578-PoC-Metasploit](https://github.com/yaldobaoth/CVE-2015-1578-PoC-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/yaldobaoth/CVE-2015-1578-PoC-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/yaldobaoth/CVE-2015-1578-PoC-Metasploit">
 
 ---
 ## CVE-2015-1427 (2015-02-17T15:59:00)
