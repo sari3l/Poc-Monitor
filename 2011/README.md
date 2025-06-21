@@ -81,6 +81,7 @@
 - [Andreyfrtz/CVE-2011-0762](https://github.com/Andreyfrtz/CVE-2011-0762)	<img alt="forks" src="https://img.shields.io/github/forks/Andreyfrtz/CVE-2011-0762">	<img alt="stars" src="https://img.shields.io/github/stars/Andreyfrtz/CVE-2011-0762">
 - [Freitandrey/CVE-2011-0762](https://github.com/Freitandrey/CVE-2011-0762)	<img alt="forks" src="https://img.shields.io/github/forks/Freitandrey/CVE-2011-0762">	<img alt="stars" src="https://img.shields.io/github/stars/Freitandrey/CVE-2011-0762">
 - [AndreyFreitass/CVE-2011-0762](https://github.com/AndreyFreitass/CVE-2011-0762)	<img alt="forks" src="https://img.shields.io/github/forks/AndreyFreitass/CVE-2011-0762">	<img alt="stars" src="https://img.shields.io/github/stars/AndreyFreitass/CVE-2011-0762">
+- [Andreyfreis/CVE-2011-0762](https://github.com/Andreyfreis/CVE-2011-0762)	<img alt="forks" src="https://img.shields.io/github/forks/Andreyfreis/CVE-2011-0762">	<img alt="stars" src="https://img.shields.io/github/stars/Andreyfreis/CVE-2011-0762">
 
 ---
 ## CVE-2011-0419 (2011-05-16T17:55:00)

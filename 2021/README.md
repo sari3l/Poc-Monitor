@@ -6454,6 +6454,7 @@
 - [Freitandrei/CVE-2021-30047](https://github.com/Freitandrei/CVE-2021-30047)	<img alt="forks" src="https://img.shields.io/github/forks/Freitandrei/CVE-2021-30047">	<img alt="stars" src="https://img.shields.io/github/stars/Freitandrei/CVE-2021-30047">
 - [AndreyFreitass/CVE-2021-30047](https://github.com/AndreyFreitass/CVE-2021-30047)	<img alt="forks" src="https://img.shields.io/github/forks/AndreyFreitass/CVE-2021-30047">	<img alt="stars" src="https://img.shields.io/github/stars/AndreyFreitass/CVE-2021-30047">
 - [Andreyft7/CVE-2021-30047](https://github.com/Andreyft7/CVE-2021-30047)	<img alt="forks" src="https://img.shields.io/github/forks/Andreyft7/CVE-2021-30047">	<img alt="stars" src="https://img.shields.io/github/stars/Andreyft7/CVE-2021-30047">
+- [Andreyfreis/CVE-2021-30047](https://github.com/Andreyfreis/CVE-2021-30047)	<img alt="forks" src="https://img.shields.io/github/forks/Andreyfreis/CVE-2021-30047">	<img alt="stars" src="https://img.shields.io/github/stars/Andreyfreis/CVE-2021-30047">
 
 ---
 ## CVE-2021-30045 (2021-04-06T13:15:00)
