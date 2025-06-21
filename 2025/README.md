@@ -2046,6 +2046,7 @@
 - [fatkz/CVE-2025-24813](https://github.com/fatkz/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-24813">
 - [maliqto/PoC-CVE-2025-24813](https://github.com/maliqto/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/maliqto/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/maliqto/PoC-CVE-2025-24813">
 - [mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-](https://github.com/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-">
+- [x1ongsec/CVE-2025-24813](https://github.com/x1ongsec/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/x1ongsec/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/x1ongsec/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
