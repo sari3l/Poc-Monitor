@@ -1939,6 +1939,7 @@
 - [verylazytech/CVE-2025-2539](https://github.com/verylazytech/CVE-2025-2539)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-2539">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-2539">
 - [RootHarpy/CVE-2025-2539](https://github.com/RootHarpy/CVE-2025-2539)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-2539">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-2539">
 - [Yucaerin/CVE-2025-2539](https://github.com/Yucaerin/CVE-2025-2539)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-2539">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-2539">
+- [d4rkh0rse/CVE-2025-2539](https://github.com/d4rkh0rse/CVE-2025-2539)	<img alt="forks" src="https://img.shields.io/github/forks/d4rkh0rse/CVE-2025-2539">	<img alt="stars" src="https://img.shields.io/github/stars/d4rkh0rse/CVE-2025-2539">
 
 ---
 ## CVE-2025-25369 ()
