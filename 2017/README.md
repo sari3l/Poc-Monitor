@@ -1193,6 +1193,7 @@
 - [K3ysTr0K3R/CVE-2017-12615-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-12615-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-12615-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-12615-EXPLOIT">
 - [wudidwo/CVE-2017-12615-poc](https://github.com/wudidwo/CVE-2017-12615-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wudidwo/CVE-2017-12615-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wudidwo/CVE-2017-12615-poc">
 - [lizhianyuguangming/TomcatScanPro](https://github.com/lizhianyuguangming/TomcatScanPro)	<img alt="forks" src="https://img.shields.io/github/forks/lizhianyuguangming/TomcatScanPro">	<img alt="stars" src="https://img.shields.io/github/stars/lizhianyuguangming/TomcatScanPro">
+- [edyekomu/CVE-2017-12615-PoC](https://github.com/edyekomu/CVE-2017-12615-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/edyekomu/CVE-2017-12615-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/edyekomu/CVE-2017-12615-PoC">
 
 ---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
