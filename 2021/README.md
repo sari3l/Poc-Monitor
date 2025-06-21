@@ -984,6 +984,7 @@
 - [USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [user20252228/Log4shell](https://github.com/user20252228/Log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/user20252228/Log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/user20252228/Log4shell">
 - [khaidtraivch/CVE-2021-44228-Log4Shell-](https://github.com/khaidtraivch/CVE-2021-44228-Log4Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/khaidtraivch/CVE-2021-44228-Log4Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/khaidtraivch/CVE-2021-44228-Log4Shell-">
+- [x1ongsec/CVE-2021-44228-Log4j-JNDI](https://github.com/x1ongsec/CVE-2021-44228-Log4j-JNDI)	<img alt="forks" src="https://img.shields.io/github/forks/x1ongsec/CVE-2021-44228-Log4j-JNDI">	<img alt="stars" src="https://img.shields.io/github/stars/x1ongsec/CVE-2021-44228-Log4j-JNDI">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
