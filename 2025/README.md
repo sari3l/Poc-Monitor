@@ -1172,6 +1172,11 @@
 - [W01fh4cker/CVE-2025-30406](https://github.com/W01fh4cker/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2025-30406">
 
 ---
+## CVE-2025-30401 ()
+> 
+- [allinsthon/CVE-2025-30401](https://github.com/allinsthon/CVE-2025-30401)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-30401">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-30401">
+
+---
 ## CVE-2025-30400 ()
 > 
 - [encrypter15/CVE-2025-30400](https://github.com/encrypter15/CVE-2025-30400)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-30400">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-30400">
