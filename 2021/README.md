@@ -8255,6 +8255,7 @@
 > A double free bug in packet_set_ring() in net/packet/af_packet.c can be exploited by a local user through crafted syscalls to escalate privileges or deny service. We recommend upgrading kernel past the effected versions or rebuilding past ec6af094ea28f0f2dda1a6a33b14cd57e36a9755
 - [Live-Hack-CVE/CVE-2021-22600](https://github.com/Live-Hack-CVE/CVE-2021-22600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22600">
 - [ragingkarson/CVE-2021-22600](https://github.com/ragingkarson/CVE-2021-22600)	<img alt="forks" src="https://img.shields.io/github/forks/ragingkarson/CVE-2021-22600">	<img alt="stars" src="https://img.shields.io/github/stars/ragingkarson/CVE-2021-22600">
+- [sendINUX/CVE-2021-22600__DirtyPagetable](https://github.com/sendINUX/CVE-2021-22600__DirtyPagetable)	<img alt="forks" src="https://img.shields.io/github/forks/sendINUX/CVE-2021-22600__DirtyPagetable">	<img alt="stars" src="https://img.shields.io/github/stars/sendINUX/CVE-2021-22600__DirtyPagetable">
 
 ---
 ## CVE-2021-22555 (2021-07-07T12:15:00)
