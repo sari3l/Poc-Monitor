@@ -769,6 +769,11 @@
 - [shellkraft/CVE-2025-3568](https://github.com/shellkraft/CVE-2025-3568)	<img alt="forks" src="https://img.shields.io/github/forks/shellkraft/CVE-2025-3568">	<img alt="stars" src="https://img.shields.io/github/stars/shellkraft/CVE-2025-3568">
 
 ---
+## CVE-2025-3515 ()
+> 
+- [Professor6T9/CVE-2025-3515](https://github.com/Professor6T9/CVE-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/Professor6T9/CVE-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/Professor6T9/CVE-2025-3515">
+
+---
 ## CVE-2025-3419 ()
 > 
 - [Yucaerin/CVE-2025-3419](https://github.com/Yucaerin/CVE-2025-3419)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-3419">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-3419">
