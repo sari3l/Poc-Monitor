@@ -5698,7 +5698,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Anonymous941/zygote-injection-toolkit](https://github.com/Anonymous941/zygote-injection-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/Anonymous941/zygote-injection-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/Anonymous941/zygote-injection-toolkit">
 - [agg23/cve-2024-31317](https://github.com/agg23/cve-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/agg23/cve-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/agg23/cve-2024-31317">
 - [mianliupindao/CVE-2024-31317-PoC-Deployer](https://github.com/mianliupindao/CVE-2024-31317-PoC-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/mianliupindao/CVE-2024-31317-PoC-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/mianliupindao/CVE-2024-31317-PoC-Deployer">
-- [JadeByteZen/CVE-2024-31317-PoC-Deployer](https://github.com/JadeByteZen/CVE-2024-31317-PoC-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/JadeByteZen/CVE-2024-31317-PoC-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/JadeByteZen/CVE-2024-31317-PoC-Deployer">
+- [WebLDix/CVE-2024-31317-PoC-Deployer](https://github.com/WebLDix/CVE-2024-31317-PoC-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/WebLDix/CVE-2024-31317-PoC-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/WebLDix/CVE-2024-31317-PoC-Deployer">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
