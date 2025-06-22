@@ -899,6 +899,7 @@
 - [imbas007/CVE-2025-3248](https://github.com/imbas007/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-3248">
 - [0xgh057r3c0n/CVE-2025-3248](https://github.com/0xgh057r3c0n/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-3248">
 - [zapstiko/CVE-2025-3248](https://github.com/zapstiko/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/zapstiko/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/zapstiko/CVE-2025-3248">
+- [B1ack4sh/Blackash-CVE-2025-3248](https://github.com/B1ack4sh/Blackash-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-3248">
 
 ---
 ## CVE-2025-32433 ()
@@ -1680,6 +1681,7 @@
 ## CVE-2025-26909 ()
 > 
 - [ZeroDayx/CVE-2025-26909](https://github.com/ZeroDayx/CVE-2025-26909)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayx/CVE-2025-26909">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayx/CVE-2025-26909">
+- [issamjr/CVE-2025-26909-Scanner](https://github.com/issamjr/CVE-2025-26909-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-26909-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-26909-Scanner">
 
 ---
 ## CVE-2025-26892 ()
