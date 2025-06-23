@@ -444,6 +444,11 @@
 - [Yucaerin/CVE-2025-4601](https://github.com/Yucaerin/CVE-2025-4601)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4601">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4601">
 
 ---
+## CVE-2025-45960 ()
+> 
+- [pracharapol/CVE-2025-45960](https://github.com/pracharapol/CVE-2025-45960)	<img alt="forks" src="https://img.shields.io/github/forks/pracharapol/CVE-2025-45960">	<img alt="stars" src="https://img.shields.io/github/stars/pracharapol/CVE-2025-45960">
+
+---
 ## CVE-2025-45781 ()
 > 
 - [ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC](https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">
@@ -915,6 +920,8 @@
 - [B1ack4sh/Blackash-CVE-2025-3248](https://github.com/B1ack4sh/Blackash-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-3248">
 - [issamjr/CVE-2025-3248-Scanner](https://github.com/issamjr/CVE-2025-3248-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-3248-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-3248-Scanner">
 - [0-d3y/langflow-rce-exploit](https://github.com/0-d3y/langflow-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0-d3y/langflow-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0-d3y/langflow-rce-exploit">
+- [dennisec/Mass-CVE-2025-3248](https://github.com/dennisec/Mass-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/Mass-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/Mass-CVE-2025-3248">
+- [dennisec/CVE-2025-3248](https://github.com/dennisec/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2025-3248">
 
 ---
 ## CVE-2025-32433 ()
