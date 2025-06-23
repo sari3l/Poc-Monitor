@@ -4701,6 +4701,7 @@ We recommend upgrading past commit 1240eb93f0616b21c675416516ff3d74798fdc97.
 ## CVE-2023-33538 ()
 > 
 - [explxx/CVE-2023-33538](https://github.com/explxx/CVE-2023-33538)	<img alt="forks" src="https://img.shields.io/github/forks/explxx/CVE-2023-33538">	<img alt="stars" src="https://img.shields.io/github/stars/explxx/CVE-2023-33538">
+- [mrowkoob/CVE-2023-33538-msf](https://github.com/mrowkoob/CVE-2023-33538-msf)	<img alt="forks" src="https://img.shields.io/github/forks/mrowkoob/CVE-2023-33538-msf">	<img alt="stars" src="https://img.shields.io/github/stars/mrowkoob/CVE-2023-33538-msf">
 
 ---
 ## CVE-2023-33517 (2023-10-23T23:15:00)
