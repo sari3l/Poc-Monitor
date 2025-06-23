@@ -129,6 +129,7 @@
 - [0xkasra/CVE-2015-6967](https://github.com/0xkasra/CVE-2015-6967)	<img alt="forks" src="https://img.shields.io/github/forks/0xkasra/CVE-2015-6967">	<img alt="stars" src="https://img.shields.io/github/stars/0xkasra/CVE-2015-6967">
 - [dix0nym/CVE-2015-6967](https://github.com/dix0nym/CVE-2015-6967)	<img alt="forks" src="https://img.shields.io/github/forks/dix0nym/CVE-2015-6967">	<img alt="stars" src="https://img.shields.io/github/stars/dix0nym/CVE-2015-6967">
 - [cuerv0x/CVE-2015-6967](https://github.com/cuerv0x/CVE-2015-6967)	<img alt="forks" src="https://img.shields.io/github/forks/cuerv0x/CVE-2015-6967">	<img alt="stars" src="https://img.shields.io/github/stars/cuerv0x/CVE-2015-6967">
+- [3mpir3Albert/HTB_Nibbles](https://github.com/3mpir3Albert/HTB_Nibbles)	<img alt="forks" src="https://img.shields.io/github/forks/3mpir3Albert/HTB_Nibbles">	<img alt="stars" src="https://img.shields.io/github/stars/3mpir3Albert/HTB_Nibbles">
 
 ---
 ## CVE-2015-6764 (2015-12-06T01:59:00)
