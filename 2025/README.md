@@ -205,6 +205,7 @@
 ## CVE-2025-48976 ()
 > 
 - [nankuo/CVE-2025-48976_CVE-2025-48988](https://github.com/nankuo/CVE-2025-48976_CVE-2025-48988)	<img alt="forks" src="https://img.shields.io/github/forks/nankuo/CVE-2025-48976_CVE-2025-48988">	<img alt="stars" src="https://img.shields.io/github/stars/nankuo/CVE-2025-48976_CVE-2025-48988">
+- [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
 
 ---
 ## CVE-2025-48827 ()
