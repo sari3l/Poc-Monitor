@@ -170,6 +170,7 @@
 > 
 - [typicalsmc/CVE-2025-49132-PoC](https://github.com/typicalsmc/CVE-2025-49132-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/typicalsmc/CVE-2025-49132-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/typicalsmc/CVE-2025-49132-PoC">
 - [Zen-kun04/CVE-2025-49132](https://github.com/Zen-kun04/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/Zen-kun04/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/Zen-kun04/CVE-2025-49132">
+- [nfoltc/CVE-2025-49132](https://github.com/nfoltc/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/nfoltc/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/nfoltc/CVE-2025-49132">
 
 ---
 ## CVE-2025-49125 ()
