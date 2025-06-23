@@ -454,6 +454,11 @@
 - [ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC](https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">
 
 ---
+## CVE-2025-45710 ()
+> 
+- [partywavesec/CVE-2025-45710](https://github.com/partywavesec/CVE-2025-45710)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2025-45710">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2025-45710">
+
+---
 ## CVE-2025-45620 ()
 > 
 - [weedl/CVE-2025-45620](https://github.com/weedl/CVE-2025-45620)	<img alt="forks" src="https://img.shields.io/github/forks/weedl/CVE-2025-45620">	<img alt="stars" src="https://img.shields.io/github/stars/weedl/CVE-2025-45620">
