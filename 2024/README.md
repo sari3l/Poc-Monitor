@@ -2832,6 +2832,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [shockingbonu/CVE-2024-4577-PHP-RCE](https://github.com/shockingbonu/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/shockingbonu/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/shockingbonu/CVE-2024-4577-PHP-RCE">
 - [KimJuhyeong95/cve-2024-4577](https://github.com/KimJuhyeong95/cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/KimJuhyeong95/cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/KimJuhyeong95/cve-2024-4577">
 - [ibrahmsql/CVE-2024-4577](https://github.com/ibrahmsql/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-4577">
+- [byteReaper77/CVE-2024-4577](https://github.com/byteReaper77/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2024-4577">
 
 ---
 ## CVE-2024-4573 ()
