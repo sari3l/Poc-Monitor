@@ -908,6 +908,7 @@
 - [zapstiko/CVE-2025-3248](https://github.com/zapstiko/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/zapstiko/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/zapstiko/CVE-2025-3248">
 - [B1ack4sh/Blackash-CVE-2025-3248](https://github.com/B1ack4sh/Blackash-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-3248">
 - [issamjr/CVE-2025-3248-Scanner](https://github.com/issamjr/CVE-2025-3248-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-3248-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-3248-Scanner">
+- [0-d3y/langflow-rce-exploit](https://github.com/0-d3y/langflow-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0-d3y/langflow-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0-d3y/langflow-rce-exploit">
 
 ---
 ## CVE-2025-32433 ()
