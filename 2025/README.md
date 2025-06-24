@@ -472,6 +472,11 @@
 - [weedl/CVE-2025-45620](https://github.com/weedl/CVE-2025-45620)	<img alt="forks" src="https://img.shields.io/github/forks/weedl/CVE-2025-45620">	<img alt="stars" src="https://img.shields.io/github/stars/weedl/CVE-2025-45620">
 
 ---
+## CVE-2025-45467 ()
+> 
+- [zgsnj123/CVE-2025-45467](https://github.com/zgsnj123/CVE-2025-45467)	<img alt="forks" src="https://img.shields.io/github/forks/zgsnj123/CVE-2025-45467">	<img alt="stars" src="https://img.shields.io/github/stars/zgsnj123/CVE-2025-45467">
+
+---
 ## CVE-2025-45466 ()
 > 
 - [zgsnj123/CVE-2025-45466](https://github.com/zgsnj123/CVE-2025-45466)	<img alt="forks" src="https://img.shields.io/github/forks/zgsnj123/CVE-2025-45466">	<img alt="stars" src="https://img.shields.io/github/stars/zgsnj123/CVE-2025-45466">
