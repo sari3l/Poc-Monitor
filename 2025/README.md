@@ -2777,6 +2777,7 @@
 - [dodiorne/cve-2025-0133](https://github.com/dodiorne/cve-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/dodiorne/cve-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/dodiorne/cve-2025-0133">
 - [ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS](https://github.com/ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS">
 - [wiseep/CVE-2025-0133](https://github.com/wiseep/CVE-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/wiseep/CVE-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/wiseep/CVE-2025-0133">
+- [INTELEON404/CVE-2025-0133](https://github.com/INTELEON404/CVE-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/INTELEON404/CVE-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/INTELEON404/CVE-2025-0133">
 
 ---
 ## CVE-2025-0108 ()
