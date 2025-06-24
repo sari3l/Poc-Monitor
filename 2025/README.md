@@ -227,6 +227,11 @@
 - [shipcod3/CVE-2025-48466](https://github.com/shipcod3/CVE-2025-48466)	<img alt="forks" src="https://img.shields.io/github/forks/shipcod3/CVE-2025-48466">	<img alt="stars" src="https://img.shields.io/github/stars/shipcod3/CVE-2025-48466">
 
 ---
+## CVE-2025-48461 ()
+> 
+- [joelczk/CVE-2025-48461](https://github.com/joelczk/CVE-2025-48461)	<img alt="forks" src="https://img.shields.io/github/forks/joelczk/CVE-2025-48461">	<img alt="stars" src="https://img.shields.io/github/stars/joelczk/CVE-2025-48461">
+
+---
 ## CVE-2025-4822 ()
 > 
 - [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4822">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4822">
