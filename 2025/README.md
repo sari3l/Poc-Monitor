@@ -230,6 +230,7 @@
 ## CVE-2025-48461 ()
 > 
 - [joelczk/CVE-2025-48461](https://github.com/joelczk/CVE-2025-48461)	<img alt="forks" src="https://img.shields.io/github/forks/joelczk/CVE-2025-48461">	<img alt="stars" src="https://img.shields.io/github/stars/joelczk/CVE-2025-48461">
+- [joelczk/CVE-2025-48461](https://github.com/joelczk/CVE-2025-48461)	<img alt="forks" src="https://img.shields.io/github/forks/joelczk/CVE-2025-48461">	<img alt="stars" src="https://img.shields.io/github/stars/joelczk/CVE-2025-48461">
 
 ---
 ## CVE-2025-4822 ()
