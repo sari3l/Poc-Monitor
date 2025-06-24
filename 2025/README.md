@@ -183,6 +183,7 @@
 - [nfoltc/CVE-2025-49132](https://github.com/nfoltc/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/nfoltc/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/nfoltc/CVE-2025-49132">
 - [qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/qiaojojo/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/qiaojojo/CVE-2025-49132_poc">
 - [qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/qiaojojo/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/qiaojojo/CVE-2025-49132_poc">
+- [63square/CVE-2025-49132](https://github.com/63square/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/63square/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/63square/CVE-2025-49132">
 
 ---
 ## CVE-2025-49125 ()
