@@ -1528,6 +1528,11 @@
 - [alex-ermolaev/Log4NetSolarWindsSNMP-](https://github.com/alex-ermolaev/Log4NetSolarWindsSNMP-)	<img alt="forks" src="https://img.shields.io/github/forks/alex-ermolaev/Log4NetSolarWindsSNMP-">	<img alt="stars" src="https://img.shields.io/github/stars/alex-ermolaev/Log4NetSolarWindsSNMP-">
 
 ---
+## CVE-2018-1273 ()
+> 
+- [hdgokani/CVE-2018-1273](https://github.com/hdgokani/CVE-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/hdgokani/CVE-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/hdgokani/CVE-2018-1273">
+
+---
 ## CVE-2018-12533 ()
 > 
 - [mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310](https://github.com/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310)	<img alt="forks" src="https://img.shields.io/github/forks/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310">	<img alt="stars" src="https://img.shields.io/github/stars/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310">
