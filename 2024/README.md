@@ -9539,6 +9539,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [MaleeshaUdan/wordpress-CVE-2024-10924--exploit](https://github.com/MaleeshaUdan/wordpress-CVE-2024-10924--exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaleeshaUdan/wordpress-CVE-2024-10924--exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaleeshaUdan/wordpress-CVE-2024-10924--exploit">
 - [sharafu-sblsec/CVE-2024-10924](https://github.com/sharafu-sblsec/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/sharafu-sblsec/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/sharafu-sblsec/CVE-2024-10924">
 - [OliveiraaX/-CVE-2024-10924](https://github.com/OliveiraaX/-CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/OliveiraaX/-CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/OliveiraaX/-CVE-2024-10924">
+- [ademto/wordpress-cve-2024-10924-pentest](https://github.com/ademto/wordpress-cve-2024-10924-pentest)	<img alt="forks" src="https://img.shields.io/github/forks/ademto/wordpress-cve-2024-10924-pentest">	<img alt="stars" src="https://img.shields.io/github/stars/ademto/wordpress-cve-2024-10924-pentest">
 
 ---
 ## CVE-2024-10920 (2024-11-06T16:15:00)
