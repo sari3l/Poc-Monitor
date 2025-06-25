@@ -246,6 +246,11 @@
 - [B1tBreaker/CVE-2025-48708](https://github.com/B1tBreaker/CVE-2025-48708)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBreaker/CVE-2025-48708">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBreaker/CVE-2025-48708">
 
 ---
+## CVE-2025-48703 ()
+> 
+- [trh4ckn0n/CVE-2025-48703](https://github.com/trh4ckn0n/CVE-2025-48703)	<img alt="forks" src="https://img.shields.io/github/forks/trh4ckn0n/CVE-2025-48703">	<img alt="stars" src="https://img.shields.io/github/stars/trh4ckn0n/CVE-2025-48703">
+
+---
 ## CVE-2025-48466 ()
 > 
 - [shipcod3/CVE-2025-48466](https://github.com/shipcod3/CVE-2025-48466)	<img alt="forks" src="https://img.shields.io/github/forks/shipcod3/CVE-2025-48466">	<img alt="stars" src="https://img.shields.io/github/stars/shipcod3/CVE-2025-48466">
