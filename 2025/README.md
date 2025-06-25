@@ -228,6 +228,12 @@
 - [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
 
 ---
+## CVE-2025-48828 ()
+> 
+- [ill-deed/vBulletin-CVE-2025-48828-Multi-target](https://github.com/ill-deed/vBulletin-CVE-2025-48828-Multi-target)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/vBulletin-CVE-2025-48828-Multi-target">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/vBulletin-CVE-2025-48828-Multi-target">
+- [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+
+---
 ## CVE-2025-48827 ()
 > 
 - [0xgh057r3c0n/CVE-2025-48827](https://github.com/0xgh057r3c0n/CVE-2025-48827)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-48827">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-48827">
@@ -285,6 +291,7 @@
 ## CVE-2025-47577 ()
 > 
 - [Yucaerin/CVE-2025-47577](https://github.com/Yucaerin/CVE-2025-47577)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-47577">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-47577">
+- [sug4r-wr41th/CVE-2025-47577](https://github.com/sug4r-wr41th/CVE-2025-47577)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-47577">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-47577">
 
 ---
 ## CVE-2025-47550 ()
@@ -1224,6 +1231,11 @@
 ## CVE-2025-30727 ()
 > 
 - [HExploited/CVE-2025-30727-Exploit](https://github.com/HExploited/CVE-2025-30727-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HExploited/CVE-2025-30727-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HExploited/CVE-2025-30727-Exploit">
+
+---
+## CVE-2025-30712 ()
+> 
+- [jamesb5959/CVE-2025-30712-_PoC](https://github.com/jamesb5959/CVE-2025-30712-_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jamesb5959/CVE-2025-30712-_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jamesb5959/CVE-2025-30712-_PoC">
 
 ---
 ## CVE-2025-30567 ()

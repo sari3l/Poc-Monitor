@@ -3255,6 +3255,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 ## CVE-2024-43917 (2024-08-29T15:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TemplateInvaders TI WooCommerce Wishlist allows SQL Injection.This issue affects TI WooCommerce Wishlist: from n/a through 2.8.2.
 - [p33d/CVE-2024-43917](https://github.com/p33d/CVE-2024-43917)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-43917">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-43917">
+- [sug4r-wr41th/CVE-2024-43917](https://github.com/sug4r-wr41th/CVE-2024-43917)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2024-43917">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2024-43917">
 
 ---
 ## CVE-2024-43788 ()
