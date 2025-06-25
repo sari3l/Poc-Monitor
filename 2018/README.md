@@ -1531,6 +1531,13 @@
 ## CVE-2018-1273 ()
 > 
 - [hdgokani/CVE-2018-1273](https://github.com/hdgokani/CVE-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/hdgokani/CVE-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/hdgokani/CVE-2018-1273">
+- [AabyssZG/SpringBoot-Scan](https://github.com/AabyssZG/SpringBoot-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/AabyssZG/SpringBoot-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/AabyssZG/SpringBoot-Scan">
+- [WuliRuler/SBSCAN](https://github.com/WuliRuler/SBSCAN)	<img alt="forks" src="https://img.shields.io/github/forks/WuliRuler/SBSCAN">	<img alt="stars" src="https://img.shields.io/github/stars/WuliRuler/SBSCAN">
+- [cved-sources/cve-2018-1273](https://github.com/cved-sources/cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2018-1273">
+- [jas502n/cve-2018-1273](https://github.com/jas502n/cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/cve-2018-1273">
+- [webr0ck/poc-cve-2018-1273](https://github.com/webr0ck/poc-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/webr0ck/poc-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/webr0ck/poc-cve-2018-1273">
+- [knqyf263/CVE-2018-1273](https://github.com/knqyf263/CVE-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2018-1273">
+- [wearearima/poc-cve-2018-1273](https://github.com/wearearima/poc-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/wearearima/poc-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/wearearima/poc-cve-2018-1273">
 
 ---
 ## CVE-2018-12533 ()
