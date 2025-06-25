@@ -1704,6 +1704,11 @@
 - [TrustStackSecurity/CVE-2025-27580](https://github.com/TrustStackSecurity/CVE-2025-27580)	<img alt="forks" src="https://img.shields.io/github/forks/TrustStackSecurity/CVE-2025-27580">	<img alt="stars" src="https://img.shields.io/github/stars/TrustStackSecurity/CVE-2025-27580">
 
 ---
+## CVE-2025-27558 ()
+> 
+- [Atlas-ghostshell/CVE-2025-27558_Patching](https://github.com/Atlas-ghostshell/CVE-2025-27558_Patching)	<img alt="forks" src="https://img.shields.io/github/forks/Atlas-ghostshell/CVE-2025-27558_Patching">	<img alt="stars" src="https://img.shields.io/github/stars/Atlas-ghostshell/CVE-2025-27558_Patching">
+
+---
 ## CVE-2025-27533 ()
 > 
 - [absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ](https://github.com/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">
