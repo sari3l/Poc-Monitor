@@ -179,6 +179,7 @@
 ## CVE-2025-49144 ()
 > 
 - [Vr00mm/CVE-2025-49144](https://github.com/Vr00mm/CVE-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/Vr00mm/CVE-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/Vr00mm/CVE-2025-49144">
+- [TheTorjanCaptain/CVE-2025-49144_PoC](https://github.com/TheTorjanCaptain/CVE-2025-49144_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheTorjanCaptain/CVE-2025-49144_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheTorjanCaptain/CVE-2025-49144_PoC">
 
 ---
 ## CVE-2025-49132 ()
