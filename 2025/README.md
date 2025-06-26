@@ -185,6 +185,7 @@
 > 
 - [Vr00mm/CVE-2025-49144](https://github.com/Vr00mm/CVE-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/Vr00mm/CVE-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/Vr00mm/CVE-2025-49144">
 - [TheTorjanCaptain/CVE-2025-49144_PoC](https://github.com/TheTorjanCaptain/CVE-2025-49144_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheTorjanCaptain/CVE-2025-49144_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheTorjanCaptain/CVE-2025-49144_PoC">
+- [assad12341/notepad-v8.8.1-LPE-CVE-](https://github.com/assad12341/notepad-v8.8.1-LPE-CVE-)	<img alt="forks" src="https://img.shields.io/github/forks/assad12341/notepad-v8.8.1-LPE-CVE-">	<img alt="stars" src="https://img.shields.io/github/stars/assad12341/notepad-v8.8.1-LPE-CVE-">
 
 ---
 ## CVE-2025-49132 ()
