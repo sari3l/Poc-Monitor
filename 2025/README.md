@@ -6,6 +6,11 @@
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
 
 ---
+## CVE-2025-6543 ()
+> 
+- [grupooruss/Citrix-cve-2025-6543](https://github.com/grupooruss/Citrix-cve-2025-6543)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/Citrix-cve-2025-6543">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/Citrix-cve-2025-6543">
+
+---
 ## CVE-2025-6335 ()
 > 
 - [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335)	<img alt="forks" src="https://img.shields.io/github/forks/jujubooom/CVE-2025-6335">	<img alt="stars" src="https://img.shields.io/github/stars/jujubooom/CVE-2025-6335">
