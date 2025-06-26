@@ -621,6 +621,11 @@
 - [pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-](https://github.com/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-">
 
 ---
+## CVE-2025-4334 ()
+> 
+- [Nxploited/CVE-2025-4334](https://github.com/Nxploited/CVE-2025-4334)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-4334">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-4334">
+
+---
 ## CVE-2025-4322 ()
 > 
 - [IndominusRexes/CVE-2025-4322-Exploit](https://github.com/IndominusRexes/CVE-2025-4322-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IndominusRexes/CVE-2025-4322-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IndominusRexes/CVE-2025-4322-Exploit">
