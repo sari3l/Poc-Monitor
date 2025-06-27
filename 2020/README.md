@@ -640,6 +640,11 @@
 - [nikhil1232/CVE-2020-7384](https://github.com/nikhil1232/CVE-2020-7384)	<img alt="forks" src="https://img.shields.io/github/forks/nikhil1232/CVE-2020-7384">	<img alt="stars" src="https://img.shields.io/github/stars/nikhil1232/CVE-2020-7384">
 
 ---
+## CVE-2020-7378 ()
+> 
+- [loganpkinfosec/CVE-2020-7378](https://github.com/loganpkinfosec/CVE-2020-7378)	<img alt="forks" src="https://img.shields.io/github/forks/loganpkinfosec/CVE-2020-7378">	<img alt="stars" src="https://img.shields.io/github/stars/loganpkinfosec/CVE-2020-7378">
+
+---
 ## CVE-2020-7346 (2021-03-23T16:15:00)
 > Privilege Escalation vulnerability in McAfee Data Loss Prevention (DLP) for Windows prior to 11.6.100 allows a local, low privileged, attacker through the use of junctions to cause the product to load DLLs of the attacker's choosing. This requires the creation and removal of junctions by the attacker along with sending a specific IOTL command at the correct time.
 - [Live-Hack-CVE/CVE-2020-7346](https://github.com/Live-Hack-CVE/CVE-2020-7346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7346">
