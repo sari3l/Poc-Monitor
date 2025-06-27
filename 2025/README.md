@@ -955,6 +955,7 @@
 ## CVE-2025-32711 ()
 > 
 - [AvonBorn/CVE-2025-32711-Exploit](https://github.com/AvonBorn/CVE-2025-32711-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AvonBorn/CVE-2025-32711-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AvonBorn/CVE-2025-32711-Exploit">
+- [daryllundy/cve-2025-32711](https://github.com/daryllundy/cve-2025-32711)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/cve-2025-32711">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/cve-2025-32711">
 
 ---
 ## CVE-2025-32710 ()
