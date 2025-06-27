@@ -2597,6 +2597,11 @@
 - [rbaicba/CVE-2025-20286](https://github.com/rbaicba/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-20286">
 
 ---
+## CVE-2025-20281 ()
+> 
+- [abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE](https://github.com/abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE">
+
+---
 ## CVE-2025-20188 ()
 > 
 - [Sratet/CVE-2025-20188](https://github.com/Sratet/CVE-2025-20188)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-20188">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-20188">
