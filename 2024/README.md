@@ -5850,6 +5850,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094](https://github.com/laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094">
 - [valeriot30/cve-2024-3094](https://github.com/valeriot30/cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/valeriot30/cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/valeriot30/cve-2024-3094">
 - [24Owais/threat-intel-cve-2024-3094](https://github.com/24Owais/threat-intel-cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/24Owais/threat-intel-cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/24Owais/threat-intel-cve-2024-3094">
+- [Ikram124/CVE-2024-3094-analysis](https://github.com/Ikram124/CVE-2024-3094-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Ikram124/CVE-2024-3094-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Ikram124/CVE-2024-3094-analysis">
 
 ---
 ## CVE-2024-30937 ()
