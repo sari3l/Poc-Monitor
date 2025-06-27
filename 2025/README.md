@@ -32,6 +32,11 @@
 - [And-oss/CVE-2025-6019-exploit](https://github.com/And-oss/CVE-2025-6019-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/And-oss/CVE-2025-6019-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/And-oss/CVE-2025-6019-exploit">
 
 ---
+## CVE-2025-6018 ()
+> 
+- [mistrust999/CVE-2025-6018-6019-Metasploit](https://github.com/mistrust999/CVE-2025-6018-6019-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrust999/CVE-2025-6018-6019-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrust999/CVE-2025-6018-6019-Metasploit">
+
+---
 ## CVE-2025-5964 ()
 > 
 - [byteReaper77/CVE-2025-5964-](https://github.com/byteReaper77/CVE-2025-5964-)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-5964-">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-5964-">
