@@ -643,6 +643,7 @@
 ## CVE-2020-7378 ()
 > 
 - [loganpkinfosec/CVE-2020-7378](https://github.com/loganpkinfosec/CVE-2020-7378)	<img alt="forks" src="https://img.shields.io/github/forks/loganpkinfosec/CVE-2020-7378">	<img alt="stars" src="https://img.shields.io/github/stars/loganpkinfosec/CVE-2020-7378">
+- [ruthvikvegunta/openCRX-CVE-2020-7378](https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378)	<img alt="forks" src="https://img.shields.io/github/forks/ruthvikvegunta/openCRX-CVE-2020-7378">	<img alt="stars" src="https://img.shields.io/github/stars/ruthvikvegunta/openCRX-CVE-2020-7378">
 
 ---
 ## CVE-2020-7346 (2021-03-23T16:15:00)
