@@ -1132,6 +1132,7 @@
 - [tunahantekeoglu/CVE-2025-31650-poc](https://github.com/tunahantekeoglu/CVE-2025-31650-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-31650-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-31650-poc">
 - [tunahantekeoglu/CVE-2025-31650](https://github.com/tunahantekeoglu/CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-31650">
 - [sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool](https://github.com/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">
+- [obscura-cert/CVE-2025-31650](https://github.com/obscura-cert/CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/obscura-cert/CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/obscura-cert/CVE-2025-31650">
 
 ---
 ## CVE-2025-31644 ()
