@@ -5384,6 +5384,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit](https://github.com/tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit">
 - [Chocapikk/CVE-2023-30258](https://github.com/Chocapikk/CVE-2023-30258)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-30258">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-30258">
 - [n00o00b/CVE-2023-30258-RCE-POC](https://github.com/n00o00b/CVE-2023-30258-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/n00o00b/CVE-2023-30258-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/n00o00b/CVE-2023-30258-RCE-POC">
+- [delldevmann/CVE-2023-30258](https://github.com/delldevmann/CVE-2023-30258)	<img alt="forks" src="https://img.shields.io/github/forks/delldevmann/CVE-2023-30258">	<img alt="stars" src="https://img.shields.io/github/stars/delldevmann/CVE-2023-30258">
 
 ---
 ## CVE-2023-30256 (2023-05-11T11:15:00)
