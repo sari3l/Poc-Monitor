@@ -1073,6 +1073,11 @@
 - [Live-Hack-CVE/CVE-2016-0963](https://github.com/Live-Hack-CVE/CVE-2016-0963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0963">
 
 ---
+## CVE-2016-0957 ()
+> 
+- [fuckwbored/CVE-2016-0957-payloads](https://github.com/fuckwbored/CVE-2016-0957-payloads)	<img alt="forks" src="https://img.shields.io/github/forks/fuckwbored/CVE-2016-0957-payloads">	<img alt="stars" src="https://img.shields.io/github/stars/fuckwbored/CVE-2016-0957-payloads">
+
+---
 ## CVE-2016-0800 (2016-03-01T20:59:00)
 > The SSLv2 protocol, as used in OpenSSL before 1.0.1s and 1.0.2 before 1.0.2g and other products, requires a server to send a ServerVerify message before establishing that a client possesses certain plaintext RSA data, which makes it easier for remote attackers to decrypt TLS ciphertext data by leveraging a Bleichenbacher RSA padding oracle, aka a "DROWN" attack.
 - [Live-Hack-CVE/CVE-2016-0800](https://github.com/Live-Hack-CVE/CVE-2016-0800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0800">
