@@ -199,6 +199,7 @@
 - [tristanvandermeer/CVE-2025-49144-Test](https://github.com/tristanvandermeer/CVE-2025-49144-Test)	<img alt="forks" src="https://img.shields.io/github/forks/tristanvandermeer/CVE-2025-49144-Test">	<img alt="stars" src="https://img.shields.io/github/stars/tristanvandermeer/CVE-2025-49144-Test">
 - [65-75-65-83-72/CVE-2025-49144_PoC](https://github.com/65-75-65-83-72/CVE-2025-49144_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/65-75-65-83-72/CVE-2025-49144_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/65-75-65-83-72/CVE-2025-49144_PoC">
 - [65-75-65-83-72/65-75-65-83-72.github.io](https://github.com/65-75-65-83-72/65-75-65-83-72.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/65-75-65-83-72/65-75-65-83-72.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/65-75-65-83-72/65-75-65-83-72.github.io">
+- [b0ySie7e/Notepad-8.8.1_CVE-2025-49144](https://github.com/b0ySie7e/Notepad-8.8.1_CVE-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/Notepad-8.8.1_CVE-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/Notepad-8.8.1_CVE-2025-49144">
 
 ---
 ## CVE-2025-49132 ()
