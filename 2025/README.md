@@ -30,6 +30,7 @@
 > 
 - [guinea-offensive-security/CVE-2025-6019](https://github.com/guinea-offensive-security/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/CVE-2025-6019">
 - [And-oss/CVE-2025-6019-exploit](https://github.com/And-oss/CVE-2025-6019-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/And-oss/CVE-2025-6019-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/And-oss/CVE-2025-6019-exploit">
+- [neko205-mx/CVE-2025-6019_Exploit](https://github.com/neko205-mx/CVE-2025-6019_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/neko205-mx/CVE-2025-6019_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/neko205-mx/CVE-2025-6019_Exploit">
 
 ---
 ## CVE-2025-6018 ()
