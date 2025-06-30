@@ -3721,6 +3721,7 @@ Affected users are recommended to disable the SAML authentication plugin by sett
 > 
 - [anilpatel199n/CVE-2024-40898](https://github.com/anilpatel199n/CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/anilpatel199n/CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/anilpatel199n/CVE-2024-40898">
 - [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-40725-CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-40725-CVE-2024-40898">
+- [ForceEA001/CVE-2024-40898-SSL-Bypass-Detection](https://github.com/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection">
 
 ---
 ## CVE-2024-40815 ()
