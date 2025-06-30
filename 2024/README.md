@@ -6901,6 +6901,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27388 ()
 > 
 - [Mahesh-970/CVE-2024-27388_afterpatch](https://github.com/Mahesh-970/CVE-2024-27388_afterpatch)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-27388_afterpatch">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-27388_afterpatch">
+- [Mahesh-970/CVE-2024-27388_afterPatch](https://github.com/Mahesh-970/CVE-2024-27388_afterPatch)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-27388_afterPatch">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-27388_afterPatch">
+- [Mahesh-970/CVE-2024-27388_beforPatch](https://github.com/Mahesh-970/CVE-2024-27388_beforPatch)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-27388_beforPatch">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-27388_beforPatch">
 
 ---
 ## CVE-2024-27348 (2024-04-22T14:15:00)
