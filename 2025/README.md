@@ -60,6 +60,11 @@
 - [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-5815-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-5815-Nuclei-Template">
 
 ---
+## CVE-2025-5777 ()
+> 
+- [nagenar/CVE-2025-5777-Session-Hijack](https://github.com/nagenar/CVE-2025-5777-Session-Hijack)	<img alt="forks" src="https://img.shields.io/github/forks/nagenar/CVE-2025-5777-Session-Hijack">	<img alt="stars" src="https://img.shields.io/github/stars/nagenar/CVE-2025-5777-Session-Hijack">
+
+---
 ## CVE-2025-5701 ()
 > 
 - [Harley21211/CVE-2025-5701-Exploit](https://github.com/Harley21211/CVE-2025-5701-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Harley21211/CVE-2025-5701-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Harley21211/CVE-2025-5701-Exploit">
@@ -1458,7 +1463,7 @@
 - [Nekicj/CVE-2025-29927-exploit](https://github.com/Nekicj/CVE-2025-29927-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nekicj/CVE-2025-29927-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nekicj/CVE-2025-29927-exploit">
 - [Heimd411/CVE-2025-29927-PoC](https://github.com/Heimd411/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Heimd411/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Heimd411/CVE-2025-29927-PoC">
 - [m2hcz/Next.js-security-flaw-CVE-2025-29927---PoC-exploit](https://github.com/m2hcz/Next.js-security-flaw-CVE-2025-29927---PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m2hcz/Next.js-security-flaw-CVE-2025-29927---PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m2hcz/Next.js-security-flaw-CVE-2025-29927---PoC-exploit">
-- [m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit](https://github.com/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit">
+- [m2hcz/PoC-for-Next.js-Middleware](https://github.com/m2hcz/PoC-for-Next.js-Middleware)	<img alt="forks" src="https://img.shields.io/github/forks/m2hcz/PoC-for-Next.js-Middleware">	<img alt="stars" src="https://img.shields.io/github/stars/m2hcz/PoC-for-Next.js-Middleware">
 - [KaztoRay/CVE-2025-29927-Research](https://github.com/KaztoRay/CVE-2025-29927-Research)	<img alt="forks" src="https://img.shields.io/github/forks/KaztoRay/CVE-2025-29927-Research">	<img alt="stars" src="https://img.shields.io/github/stars/KaztoRay/CVE-2025-29927-Research">
 - [nocomp/CVE-2025-29927-scanner](https://github.com/nocomp/CVE-2025-29927-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nocomp/CVE-2025-29927-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nocomp/CVE-2025-29927-scanner">
 - [yuzu-juice/CVE-2025-29927_demo](https://github.com/yuzu-juice/CVE-2025-29927_demo)	<img alt="forks" src="https://img.shields.io/github/forks/yuzu-juice/CVE-2025-29927_demo">	<img alt="stars" src="https://img.shields.io/github/stars/yuzu-juice/CVE-2025-29927_demo">
