@@ -6903,7 +6903,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Mahesh-970/CVE-2024-27388_afterpatch](https://github.com/Mahesh-970/CVE-2024-27388_afterpatch)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-27388_afterpatch">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-27388_afterpatch">
 - [Mahesh-970/CVE-2024-27388_afterPatch](https://github.com/Mahesh-970/CVE-2024-27388_afterPatch)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-27388_afterPatch">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-27388_afterPatch">
 - [Mahesh-970/CVE-2024-27388_whitesource](https://github.com/Mahesh-970/CVE-2024-27388_whitesource)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-27388_whitesource">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-27388_whitesource">
-- [Mahesh-970/CVE-2024-27388_afterPatch_validation](https://github.com/Mahesh-970/CVE-2024-27388_afterPatch_validation)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-27388_afterPatch_validation">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-27388_afterPatch_validation">
+- [Mahesh-970/CVE-2024-27388_afterPatch](https://github.com/Mahesh-970/CVE-2024-27388_afterPatch)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/CVE-2024-27388_afterPatch">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/CVE-2024-27388_afterPatch">
 
 ---
 ## CVE-2024-27348 (2024-04-22T14:15:00)
