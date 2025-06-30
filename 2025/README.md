@@ -63,6 +63,7 @@
 ## CVE-2025-5777 ()
 > 
 - [nagenar/CVE-2025-5777-Session-Hijack](https://github.com/nagenar/CVE-2025-5777-Session-Hijack)	<img alt="forks" src="https://img.shields.io/github/forks/nagenar/CVE-2025-5777-Session-Hijack">	<img alt="stars" src="https://img.shields.io/github/stars/nagenar/CVE-2025-5777-Session-Hijack">
+- [mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-](https://github.com/mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-">
 
 ---
 ## CVE-2025-5701 ()
