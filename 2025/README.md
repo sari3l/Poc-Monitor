@@ -1028,6 +1028,11 @@
 - [ill-deed/Langflow-CVE-2025-3248-Multi-target](https://github.com/ill-deed/Langflow-CVE-2025-3248-Multi-target)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/Langflow-CVE-2025-3248-Multi-target">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/Langflow-CVE-2025-3248-Multi-target">
 
 ---
+## CVE-2025-32463 ()
+> 
+- [pr0v3rbs/CVE-2025-32463_chwoot](https://github.com/pr0v3rbs/CVE-2025-32463_chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/pr0v3rbs/CVE-2025-32463_chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/pr0v3rbs/CVE-2025-32463_chwoot">
+
+---
 ## CVE-2025-32433 ()
 > 
 - [ProDefense/CVE-2025-32433](https://github.com/ProDefense/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ProDefense/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ProDefense/CVE-2025-32433">
