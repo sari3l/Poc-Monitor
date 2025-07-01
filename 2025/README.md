@@ -318,6 +318,11 @@
 - [Zedeldi/CVE-2025-47827](https://github.com/Zedeldi/CVE-2025-47827)	<img alt="forks" src="https://img.shields.io/github/forks/Zedeldi/CVE-2025-47827">	<img alt="stars" src="https://img.shields.io/github/stars/Zedeldi/CVE-2025-47827">
 
 ---
+## CVE-2025-47812 ()
+> 
+- [4m3rr0r/CVE-2025-47812](https://github.com/4m3rr0r/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2025-47812">
+
+---
 ## CVE-2025-47810 ()
 > 
 - [ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810)	<img alt="forks" src="https://img.shields.io/github/forks/ptrstr/CVE-2025-47810">	<img alt="stars" src="https://img.shields.io/github/stars/ptrstr/CVE-2025-47810">
