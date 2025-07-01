@@ -173,6 +173,11 @@
 - [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619)	<img alt="forks" src="https://img.shields.io/github/forks/cristibtz/CVE-2025-49619">	<img alt="stars" src="https://img.shields.io/github/stars/cristibtz/CVE-2025-49619">
 
 ---
+## CVE-2025-49493 ()
+> 
+- [MuhammadWaseem29/CVE-2025-49493-Poc](https://github.com/MuhammadWaseem29/CVE-2025-49493-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-49493-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-49493-Poc">
+
+---
 ## CVE-2025-49223 ()
 > 
 - [louay-075/CVE-2025-49223-BillboardJS-PoC](https://github.com/louay-075/CVE-2025-49223-BillboardJS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/louay-075/CVE-2025-49223-BillboardJS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/louay-075/CVE-2025-49223-BillboardJS-PoC">
