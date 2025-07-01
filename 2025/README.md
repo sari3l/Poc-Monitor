@@ -1050,6 +1050,11 @@
 - [K1tt3h/CVE-2025-32463-POC](https://github.com/K1tt3h/CVE-2025-32463-POC)	<img alt="forks" src="https://img.shields.io/github/forks/K1tt3h/CVE-2025-32463-POC">	<img alt="stars" src="https://img.shields.io/github/stars/K1tt3h/CVE-2025-32463-POC">
 
 ---
+## CVE-2025-32462 ()
+> 
+- [Hacksparo/CVE-2025-32462](https://github.com/Hacksparo/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/Hacksparo/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/Hacksparo/CVE-2025-32462">
+
+---
 ## CVE-2025-32433 ()
 > 
 - [ProDefense/CVE-2025-32433](https://github.com/ProDefense/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ProDefense/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ProDefense/CVE-2025-32433">
