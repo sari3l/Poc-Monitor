@@ -331,6 +331,7 @@
 ## CVE-2025-47812 ()
 > 
 - [4m3rr0r/CVE-2025-47812-poc](https://github.com/4m3rr0r/CVE-2025-47812-poc)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2025-47812-poc">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2025-47812-poc">
+- [0xcan1337/CVE-2025-47812-poC](https://github.com/0xcan1337/CVE-2025-47812-poC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcan1337/CVE-2025-47812-poC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcan1337/CVE-2025-47812-poC">
 
 ---
 ## CVE-2025-47810 ()
