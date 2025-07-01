@@ -1042,6 +1042,7 @@
 > 
 - [pr0v3rbs/CVE-2025-32463_chwoot](https://github.com/pr0v3rbs/CVE-2025-32463_chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/pr0v3rbs/CVE-2025-32463_chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/pr0v3rbs/CVE-2025-32463_chwoot">
 - [4f-kira/CVE-2025-32463](https://github.com/4f-kira/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/4f-kira/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/4f-kira/CVE-2025-32463">
+- [K1tt3h/CVE-2025-32463-POC](https://github.com/K1tt3h/CVE-2025-32463-POC)	<img alt="forks" src="https://img.shields.io/github/forks/K1tt3h/CVE-2025-32463-POC">	<img alt="stars" src="https://img.shields.io/github/stars/K1tt3h/CVE-2025-32463-POC">
 
 ---
 ## CVE-2025-32433 ()
