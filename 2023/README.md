@@ -343,6 +343,7 @@ to load arbitrary JavaScript code.
 - [justhx0r/CVE-2023-5561](https://github.com/justhx0r/CVE-2023-5561)	<img alt="forks" src="https://img.shields.io/github/forks/justhx0r/CVE-2023-5561">	<img alt="stars" src="https://img.shields.io/github/stars/justhx0r/CVE-2023-5561">
 - [pog007/CVE-2023-5561-PoC](https://github.com/pog007/CVE-2023-5561-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pog007/CVE-2023-5561-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pog007/CVE-2023-5561-PoC">
 - [rootxsushant/CVE-2023-5561-POC-Updated](https://github.com/rootxsushant/CVE-2023-5561-POC-Updated)	<img alt="forks" src="https://img.shields.io/github/forks/rootxsushant/CVE-2023-5561-POC-Updated">	<img alt="stars" src="https://img.shields.io/github/stars/rootxsushant/CVE-2023-5561-POC-Updated">
+- [dthkhang/CVE-2023-5561-PoC](https://github.com/dthkhang/CVE-2023-5561-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dthkhang/CVE-2023-5561-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dthkhang/CVE-2023-5561-PoC">
 
 ---
 ## CVE-2023-5546 (2023-11-09T20:15:00)
@@ -5013,6 +5014,7 @@ Fixed in version 6.4.1.
 - [void0red/CVE-2023-32233](https://github.com/void0red/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/void0red/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/void0red/CVE-2023-32233">
 - [rootkalilocalhost/CVE-2023-32233](https://github.com/rootkalilocalhost/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/rootkalilocalhost/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/rootkalilocalhost/CVE-2023-32233">
 - [mr-spongebob/a-CVE-2023-32233](https://github.com/mr-spongebob/a-CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/mr-spongebob/a-CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/mr-spongebob/a-CVE-2023-32233">
+- [enlist12/CVE-2023-32233](https://github.com/enlist12/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/enlist12/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/enlist12/CVE-2023-32233">
 
 ---
 ## CVE-2023-32117 ()
