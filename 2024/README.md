@@ -3939,6 +3939,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [JenmrR/Node.js-CVE-2024-39943](https://github.com/JenmrR/Node.js-CVE-2024-39943)	<img alt="forks" src="https://img.shields.io/github/forks/JenmrR/Node.js-CVE-2024-39943">	<img alt="stars" src="https://img.shields.io/github/stars/JenmrR/Node.js-CVE-2024-39943">
 
 ---
+## CVE-2024-39930 ()
+> 
+- [theMcSam/CVE-2024-39930-PoC](https://github.com/theMcSam/CVE-2024-39930-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theMcSam/CVE-2024-39930-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theMcSam/CVE-2024-39930-PoC">
+
+---
 ## CVE-2024-39929 (2024-07-04T15:15:00)
 > Exim through 4.97.1 misparses a multiline RFC 2231 header filename, and thus remote attackers can bypass a $mime_filename extension-blocking protection mechanism, and potentially deliver executable attachments to the mailboxes of end users.
 - [rxerium/CVE-2024-39929](https://github.com/rxerium/CVE-2024-39929)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2024-39929">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2024-39929">

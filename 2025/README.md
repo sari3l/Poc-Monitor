@@ -257,6 +257,11 @@
 - [issamjr/CVE-2025-49113-Scanner](https://github.com/issamjr/CVE-2025-49113-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-49113-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-49113-Scanner">
 
 ---
+## CVE-2025-49029 ()
+> 
+- [Nxploited/CVE-2025-49029](https://github.com/Nxploited/CVE-2025-49029)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-49029">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-49029">
+
+---
 ## CVE-2025-48988 ()
 > 
 - [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
