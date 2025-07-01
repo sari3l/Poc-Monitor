@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-6934 ()
+> 
+- [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">
+
+---
 ## CVE-2025-6860 ()
 > 
 - [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-6860">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-6860">
@@ -320,7 +325,7 @@
 ---
 ## CVE-2025-47812 ()
 > 
-- [4m3rr0r/CVE-2025-47812](https://github.com/4m3rr0r/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2025-47812">
+- [4m3rr0r/CVE-2025-47812-poc](https://github.com/4m3rr0r/CVE-2025-47812-poc)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2025-47812-poc">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2025-47812-poc">
 
 ---
 ## CVE-2025-47810 ()
