@@ -4,6 +4,7 @@
 ## CVE-2025-6934 ()
 > 
 - [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">
+- [MrjHaxcore/CVE-2025-6934](https://github.com/MrjHaxcore/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-6934">
 
 ---
 ## CVE-2025-6860 ()
@@ -1060,6 +1061,7 @@
 - [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2025-32463">
 - [neko205-mx/CVE-2025-32463_Exploit](https://github.com/neko205-mx/CVE-2025-32463_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/neko205-mx/CVE-2025-32463_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/neko205-mx/CVE-2025-32463_Exploit">
 - [pevinkumar10/CVE-2025-32463](https://github.com/pevinkumar10/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/pevinkumar10/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/pevinkumar10/CVE-2025-32463">
+- [zhaduchanhzz/CVE-2025-32463_POC](https://github.com/zhaduchanhzz/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/zhaduchanhzz/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/zhaduchanhzz/CVE-2025-32463_POC">
 
 ---
 ## CVE-2025-32462 ()
