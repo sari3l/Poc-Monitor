@@ -1062,6 +1062,7 @@
 - [neko205-mx/CVE-2025-32463_Exploit](https://github.com/neko205-mx/CVE-2025-32463_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/neko205-mx/CVE-2025-32463_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/neko205-mx/CVE-2025-32463_Exploit">
 - [pevinkumar10/CVE-2025-32463](https://github.com/pevinkumar10/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/pevinkumar10/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/pevinkumar10/CVE-2025-32463">
 - [zhaduchanhzz/CVE-2025-32463_POC](https://github.com/zhaduchanhzz/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/zhaduchanhzz/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/zhaduchanhzz/CVE-2025-32463_POC">
+- [robbert1978/CVE-2025-32463_POC](https://github.com/robbert1978/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/robbert1978/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/robbert1978/CVE-2025-32463_POC">
 
 ---
 ## CVE-2025-32462 ()
