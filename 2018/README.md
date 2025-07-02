@@ -320,8 +320,8 @@
 - [Yealid/CVE-2018-6574](https://github.com/Yealid/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Yealid/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Yealid/CVE-2018-6574">
 - [Bj0rn-gungnir/cve2018-6574-gogetRCE](https://github.com/Bj0rn-gungnir/cve2018-6574-gogetRCE)	<img alt="forks" src="https://img.shields.io/github/forks/Bj0rn-gungnir/cve2018-6574-gogetRCE">	<img alt="stars" src="https://img.shields.io/github/stars/Bj0rn-gungnir/cve2018-6574-gogetRCE">
 - [moorada/goGetRCE](https://github.com/moorada/goGetRCE)	<img alt="forks" src="https://img.shields.io/github/forks/moorada/goGetRCE">	<img alt="stars" src="https://img.shields.io/github/stars/moorada/goGetRCE">
-- [jeyaseelans86/new-CVE-2018-6574](https://github.com/jeyaseelans86/new-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jeyaseelans86/new-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jeyaseelans86/new-CVE-2018-6574">
-- [jeyaseelans86/CVE-2018-6574](https://github.com/jeyaseelans86/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jeyaseelans86/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jeyaseelans86/CVE-2018-6574">
+- [rootxjs/new-CVE-2018-6574](https://github.com/rootxjs/new-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/rootxjs/new-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/rootxjs/new-CVE-2018-6574">
+- [rootxjs/CVE-2018-6574](https://github.com/rootxjs/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/rootxjs/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/rootxjs/CVE-2018-6574">
 - [kretzz/Golang-CVE-2018-6574](https://github.com/kretzz/Golang-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/kretzz/Golang-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/kretzz/Golang-CVE-2018-6574">
 - [chr1sM/CVE-2018-6574](https://github.com/chr1sM/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/chr1sM/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/chr1sM/CVE-2018-6574">
 - [mux0x/CVE-2018-6574](https://github.com/mux0x/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/mux0x/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/mux0x/CVE-2018-6574">
@@ -366,6 +366,8 @@
 - [f0ur0four/cve-2018-6574](https://github.com/f0ur0four/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/f0ur0four/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/f0ur0four/cve-2018-6574">
 - [FrancoisCapon/CVE-2018-6574-PentesterLab](https://github.com/FrancoisCapon/CVE-2018-6574-PentesterLab)	<img alt="forks" src="https://img.shields.io/github/forks/FrancoisCapon/CVE-2018-6574-PentesterLab">	<img alt="stars" src="https://img.shields.io/github/stars/FrancoisCapon/CVE-2018-6574-PentesterLab">
 - [sengkyaut/CVE-2018-6574](https://github.com/sengkyaut/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/sengkyaut/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/sengkyaut/CVE-2018-6574">
+- [paulogmota/CVE-2018-6574](https://github.com/paulogmota/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/paulogmota/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/paulogmota/CVE-2018-6574">
+- [elw0od/PentesterLab](https://github.com/elw0od/PentesterLab)	<img alt="forks" src="https://img.shields.io/github/forks/elw0od/PentesterLab">	<img alt="stars" src="https://img.shields.io/github/stars/elw0od/PentesterLab">
 
 ---
 ## CVE-2018-6389 (2018-02-06T17:29:00)
