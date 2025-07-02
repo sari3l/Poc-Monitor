@@ -2335,6 +2335,7 @@
 - [qalvynn/CVE-2021-41773](https://github.com/qalvynn/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/qalvynn/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/qalvynn/CVE-2021-41773">
 - [Ask-os/CVE-2021-41773](https://github.com/Ask-os/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Ask-os/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Ask-os/CVE-2021-41773">
 - [CyberQuestor-infosec/CVE-2021-41773-Apache_2.4.49-Path-traversal-to-RCE](https://github.com/CyberQuestor-infosec/CVE-2021-41773-Apache_2.4.49-Path-traversal-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CyberQuestor-infosec/CVE-2021-41773-Apache_2.4.49-Path-traversal-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CyberQuestor-infosec/CVE-2021-41773-Apache_2.4.49-Path-traversal-to-RCE">
+- [blu3ming/PoC-CVE-2021-41773](https://github.com/blu3ming/PoC-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/blu3ming/PoC-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/blu3ming/PoC-CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
