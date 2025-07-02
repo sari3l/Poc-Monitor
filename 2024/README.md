@@ -325,6 +325,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [Chocapikk/CVE-2024-8672](https://github.com/Chocapikk/CVE-2024-8672)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8672">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8672">
 
 ---
+## CVE-2024-8636 ()
+> 
+- [HyHy100/Chrome-Skia-CVE-2024-8636](https://github.com/HyHy100/Chrome-Skia-CVE-2024-8636)	<img alt="forks" src="https://img.shields.io/github/forks/HyHy100/Chrome-Skia-CVE-2024-8636">	<img alt="stars" src="https://img.shields.io/github/stars/HyHy100/Chrome-Skia-CVE-2024-8636">
+
+---
 ## CVE-2024-8522 (2024-09-12T09:15:00)
 > The LearnPress – WordPress LMS Plugin plugin for WordPress is vulnerable to SQL Injection via the 'c_only_fields' parameter of the /wp-json/learnpress/v1/courses REST API endpoint in all versions up to, and including, 4.2.7 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [realbotnet/CVE-2024-8522](https://github.com/realbotnet/CVE-2024-8522)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-8522">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-8522">
@@ -404,6 +409,16 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [z3usx01/CVE-2024-8232](https://github.com/z3usx01/CVE-2024-8232)	<img alt="forks" src="https://img.shields.io/github/forks/z3usx01/CVE-2024-8232">	<img alt="stars" src="https://img.shields.io/github/stars/z3usx01/CVE-2024-8232">
 
 ---
+## CVE-2024-8198 ()
+> 
+- [HyHy100/Chrome-Skia-CVE-2024-8198](https://github.com/HyHy100/Chrome-Skia-CVE-2024-8198)	<img alt="forks" src="https://img.shields.io/github/forks/HyHy100/Chrome-Skia-CVE-2024-8198">	<img alt="stars" src="https://img.shields.io/github/stars/HyHy100/Chrome-Skia-CVE-2024-8198">
+
+---
+## CVE-2024-8193 ()
+> 
+- [HyHy100/Chrome-Skia-CVE-2024-8193](https://github.com/HyHy100/Chrome-Skia-CVE-2024-8193)	<img alt="forks" src="https://img.shields.io/github/forks/HyHy100/Chrome-Skia-CVE-2024-8193">	<img alt="stars" src="https://img.shields.io/github/stars/HyHy100/Chrome-Skia-CVE-2024-8193">
+
+---
 ## CVE-2024-8190 (2024-09-10T21:15:00)
 > An OS command injection vulnerability in Ivanti Cloud Services Appliance versions 4.6 Patch 518 and before allows a remote authenticated attacker to obtain remote code execution. The attacker must have admin level privileges to exploit this vulnerability.
 - [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-8190">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-8190">
@@ -445,6 +460,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-7971 ()
 > 
 - [mistymntncop/CVE-2024-7971](https://github.com/mistymntncop/CVE-2024-7971)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2024-7971">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2024-7971">
+
+---
+## CVE-2024-7966 ()
+> 
+- [HyHy100/Chrome-Skia-CVE-2024-7966](https://github.com/HyHy100/Chrome-Skia-CVE-2024-7966)	<img alt="forks" src="https://img.shields.io/github/forks/HyHy100/Chrome-Skia-CVE-2024-7966">	<img alt="stars" src="https://img.shields.io/github/stars/HyHy100/Chrome-Skia-CVE-2024-7966">
 
 ---
 ## CVE-2024-7965 (2024-08-21T21:15:00)
