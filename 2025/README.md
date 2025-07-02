@@ -1059,6 +1059,7 @@
 - [SysMancer/CVE-2025-32463](https://github.com/SysMancer/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/SysMancer/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/SysMancer/CVE-2025-32463">
 - [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2025-32463">
 - [neko205-mx/CVE-2025-32463_Exploit](https://github.com/neko205-mx/CVE-2025-32463_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/neko205-mx/CVE-2025-32463_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/neko205-mx/CVE-2025-32463_Exploit">
+- [pevinkumar10/CVE-2025-32463](https://github.com/pevinkumar10/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/pevinkumar10/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/pevinkumar10/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
