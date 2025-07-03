@@ -1071,6 +1071,7 @@
 ## CVE-2025-32462 ()
 > 
 - [Hacksparo/CVE-2025-32462](https://github.com/Hacksparo/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/Hacksparo/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/Hacksparo/CVE-2025-32462">
+- [CryingN/CVE-2025-32462](https://github.com/CryingN/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/CryingN/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/CryingN/CVE-2025-32462">
 
 ---
 ## CVE-2025-32433 ()
