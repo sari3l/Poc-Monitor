@@ -177,6 +177,11 @@
 - [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619)	<img alt="forks" src="https://img.shields.io/github/forks/cristibtz/CVE-2025-49619">	<img alt="stars" src="https://img.shields.io/github/stars/cristibtz/CVE-2025-49619">
 
 ---
+## CVE-2025-49596 ()
+> 
+- [ashiqrehan-21/MCP-Inspector-CVE-2025-49596](https://github.com/ashiqrehan-21/MCP-Inspector-CVE-2025-49596)	<img alt="forks" src="https://img.shields.io/github/forks/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">	<img alt="stars" src="https://img.shields.io/github/stars/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">
+
+---
 ## CVE-2025-49493 ()
 > 
 - [MuhammadWaseem29/CVE-2025-49493-Poc](https://github.com/MuhammadWaseem29/CVE-2025-49493-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-49493-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-49493-Poc">
@@ -1083,6 +1088,7 @@
 - [Hacksparo/CVE-2025-32462](https://github.com/Hacksparo/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/Hacksparo/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/Hacksparo/CVE-2025-32462">
 - [CryingN/CVE-2025-32462](https://github.com/CryingN/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/CryingN/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/CryingN/CVE-2025-32462">
 - [atomicjjbod/CVE-2025-32462](https://github.com/atomicjjbod/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/atomicjjbod/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/atomicjjbod/CVE-2025-32462">
+- [cybersentinelx1/CVE-2025-32462-Exploit](https://github.com/cybersentinelx1/CVE-2025-32462-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cybersentinelx1/CVE-2025-32462-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cybersentinelx1/CVE-2025-32462-Exploit">
 
 ---
 ## CVE-2025-32433 ()
