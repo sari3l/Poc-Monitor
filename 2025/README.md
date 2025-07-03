@@ -2672,7 +2672,8 @@
 ---
 ## CVE-2025-20281 ()
 > 
-- [abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE](https://github.com/abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE">
+- [abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE](https://github.com/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE">
+- [grupooruss/CVE-2025-20281-Cisco](https://github.com/grupooruss/CVE-2025-20281-Cisco)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/CVE-2025-20281-Cisco">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/CVE-2025-20281-Cisco">
 
 ---
 ## CVE-2025-20188 ()
