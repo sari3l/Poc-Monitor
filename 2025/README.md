@@ -51,6 +51,7 @@
 ## CVE-2025-6018 ()
 > 
 - [mistrust999/CVE-2025-6018-6019-Metasploit](https://github.com/mistrust999/CVE-2025-6018-6019-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrust999/CVE-2025-6018-6019-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrust999/CVE-2025-6018-6019-Metasploit">
+- [iamgithubber/CVE-2025-6018-19-exploit](https://github.com/iamgithubber/CVE-2025-6018-19-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iamgithubber/CVE-2025-6018-19-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iamgithubber/CVE-2025-6018-19-exploit">
 
 ---
 ## CVE-2025-5964 ()
