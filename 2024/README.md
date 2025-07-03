@@ -2573,6 +2573,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [zgimszhd61/CVE-2024-48063-poc](https://github.com/zgimszhd61/CVE-2024-48063-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-48063-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-48063-poc">
 
 ---
+## CVE-2024-48061 ()
+> 
+- [BwithE/CVE-2024-48061](https://github.com/BwithE/CVE-2024-48061)	<img alt="forks" src="https://img.shields.io/github/forks/BwithE/CVE-2024-48061">	<img alt="stars" src="https://img.shields.io/github/stars/BwithE/CVE-2024-48061">
+
+---
 ## CVE-2024-47875 ()
 > 
 - [daikinitanda/-CVE-2024-47875-](https://github.com/daikinitanda/-CVE-2024-47875-)	<img alt="forks" src="https://img.shields.io/github/forks/daikinitanda/-CVE-2024-47875-">	<img alt="stars" src="https://img.shields.io/github/stars/daikinitanda/-CVE-2024-47875-">
