@@ -575,6 +575,11 @@
 - [zgsnj123/CVE-2025-45466](https://github.com/zgsnj123/CVE-2025-45466)	<img alt="forks" src="https://img.shields.io/github/forks/zgsnj123/CVE-2025-45466">	<img alt="stars" src="https://img.shields.io/github/stars/zgsnj123/CVE-2025-45466">
 
 ---
+## CVE-2025-45407 ()
+> 
+- [yallasec/CVE-2025-45407](https://github.com/yallasec/CVE-2025-45407)	<img alt="forks" src="https://img.shields.io/github/forks/yallasec/CVE-2025-45407">	<img alt="stars" src="https://img.shields.io/github/stars/yallasec/CVE-2025-45407">
+
+---
 ## CVE-2025-45250 ()
 > 
 - [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/Anike-x/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/Anike-x/CVE-2025-45250">
