@@ -1073,6 +1073,8 @@
 - [robbert1978/CVE-2025-32463_POC](https://github.com/robbert1978/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/robbert1978/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/robbert1978/CVE-2025-32463_POC">
 - [Mikivirus0/sudoinjection](https://github.com/Mikivirus0/sudoinjection)	<img alt="forks" src="https://img.shields.io/github/forks/Mikivirus0/sudoinjection">	<img alt="stars" src="https://img.shields.io/github/stars/Mikivirus0/sudoinjection">
 - [nflatrea/CVE-2025-32463](https://github.com/nflatrea/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/nflatrea/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/nflatrea/CVE-2025-32463">
+- [san8383/CVE-2025-32463](https://github.com/san8383/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/san8383/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/san8383/CVE-2025-32463">
+- [0xAkarii/CVE-2025-32463](https://github.com/0xAkarii/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/0xAkarii/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/0xAkarii/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
