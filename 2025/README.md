@@ -17,6 +17,11 @@
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
 
 ---
+## CVE-2025-6554 ()
+> 
+- [rbaicba/CVE-2025-6554](https://github.com/rbaicba/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-6554">
+
+---
 ## CVE-2025-6543 ()
 > 
 - [grupooruss/Citrix-cve-2025-6543](https://github.com/grupooruss/Citrix-cve-2025-6543)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/Citrix-cve-2025-6543">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/Citrix-cve-2025-6543">
@@ -1083,6 +1088,7 @@
 - [san8383/CVE-2025-32463](https://github.com/san8383/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/san8383/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/san8383/CVE-2025-32463">
 - [0xAkarii/CVE-2025-32463](https://github.com/0xAkarii/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/0xAkarii/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/0xAkarii/CVE-2025-32463">
 - [CIA911/sudo_patch_CVE-2025-32463](https://github.com/CIA911/sudo_patch_CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/CIA911/sudo_patch_CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/CIA911/sudo_patch_CVE-2025-32463">
+- [mirchr/CVE-2025-32463-sudo-chwoot](https://github.com/mirchr/CVE-2025-32463-sudo-chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/mirchr/CVE-2025-32463-sudo-chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/mirchr/CVE-2025-32463-sudo-chwoot">
 
 ---
 ## CVE-2025-32462 ()
