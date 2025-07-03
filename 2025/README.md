@@ -1081,6 +1081,7 @@
 - [nflatrea/CVE-2025-32463](https://github.com/nflatrea/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/nflatrea/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/nflatrea/CVE-2025-32463">
 - [san8383/CVE-2025-32463](https://github.com/san8383/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/san8383/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/san8383/CVE-2025-32463">
 - [0xAkarii/CVE-2025-32463](https://github.com/0xAkarii/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/0xAkarii/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/0xAkarii/CVE-2025-32463">
+- [CIA911/sudo_patch_CVE-2025-32463](https://github.com/CIA911/sudo_patch_CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/CIA911/sudo_patch_CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/CIA911/sudo_patch_CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
