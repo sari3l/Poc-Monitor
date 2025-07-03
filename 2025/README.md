@@ -2456,6 +2456,11 @@
 - [Puben/CVE-2025-24011-PoC](https://github.com/Puben/CVE-2025-24011-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Puben/CVE-2025-24011-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Puben/CVE-2025-24011-PoC">
 
 ---
+## CVE-2025-23968 ()
+> 
+- [d0n601/CVE-2025-23968](https://github.com/d0n601/CVE-2025-23968)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-23968">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-23968">
+
+---
 ## CVE-2025-23942 ()
 > 
 - [Nxploited/CVE-2025-23942-poc](https://github.com/Nxploited/CVE-2025-23942-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-23942-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-23942-poc">
