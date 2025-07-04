@@ -6746,6 +6746,12 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [YongYe-Security/CVE-2024-28255](https://github.com/YongYe-Security/CVE-2024-28255)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-28255">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-28255">
 
 ---
+## CVE-2024-2825 ()
+> 
+- [ill-deed/CrushFTP-CVE-2024-2825-illdeed](https://github.com/ill-deed/CrushFTP-CVE-2024-2825-illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/CrushFTP-CVE-2024-2825-illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/CrushFTP-CVE-2024-2825-illdeed">
+- [YongYe-Security/CVE-2024-28255](https://github.com/YongYe-Security/CVE-2024-28255)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-28255">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-28255">
+
+---
 ## CVE-2024-28247 (2024-03-27T19:15:00)
 > The Pi-hole is a DNS sinkhole that protects your devices from unwanted content without installing any client-side software. A vulnerability has been discovered in Pihole that allows an authenticated user on the platform to read internal server files arbitrarily, and because the application runs from behind, reading files is done as a privileged user.If the URL that is in the list of "Adslists" begins with "file*" it is understood that it is updating from a local file, on the other hand if it does not begin with "file*" depending on the state of the response it does one thing or another. The problem resides in the update through local files. When updating from a file which contains non-domain lines, 5 of the non-domain lines are printed on the screen, so if you provide it with any file on the server which contains non-domain lines it will print them on the screen. This vulnerability is fixed by 5.18.
 - [T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read](https://github.com/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read">
