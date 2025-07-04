@@ -1834,6 +1834,7 @@
 ## CVE-2025-27817 ()
 > 
 - [kk12-30/CVE-2025-27817](https://github.com/kk12-30/CVE-2025-27817)	<img alt="forks" src="https://img.shields.io/github/forks/kk12-30/CVE-2025-27817">	<img alt="stars" src="https://img.shields.io/github/stars/kk12-30/CVE-2025-27817">
+- [iSee857/CVE-2025-27817](https://github.com/iSee857/CVE-2025-27817)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-27817">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-27817">
 
 ---
 ## CVE-2025-27636 ()
