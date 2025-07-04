@@ -1108,6 +1108,7 @@
 - [CIA911/sudo_patch_CVE-2025-32463](https://github.com/CIA911/sudo_patch_CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/CIA911/sudo_patch_CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/CIA911/sudo_patch_CVE-2025-32463">
 - [mirchr/CVE-2025-32463-sudo-chwoot](https://github.com/mirchr/CVE-2025-32463-sudo-chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/mirchr/CVE-2025-32463-sudo-chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/mirchr/CVE-2025-32463-sudo-chwoot">
 - [ill-deed/CVE-2025-32463_illdeed](https://github.com/ill-deed/CVE-2025-32463_illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/CVE-2025-32463_illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/CVE-2025-32463_illdeed">
+- [zinzloun/CVE-2025-32463](https://github.com/zinzloun/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/zinzloun/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/zinzloun/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
