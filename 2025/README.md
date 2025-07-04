@@ -26,6 +26,7 @@
 > 
 - [rbaicba/CVE-2025-6554](https://github.com/rbaicba/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-6554">
 - [windz3r0day/CVE-2025-6554](https://github.com/windz3r0day/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2025-6554">
+- [PwnToday/CVE-2025-6554](https://github.com/PwnToday/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/PwnToday/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/PwnToday/CVE-2025-6554">
 
 ---
 ## CVE-2025-6543 ()
@@ -1110,6 +1111,7 @@
 - [mirchr/CVE-2025-32463-sudo-chwoot](https://github.com/mirchr/CVE-2025-32463-sudo-chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/mirchr/CVE-2025-32463-sudo-chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/mirchr/CVE-2025-32463-sudo-chwoot">
 - [ill-deed/CVE-2025-32463_illdeed](https://github.com/ill-deed/CVE-2025-32463_illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/CVE-2025-32463_illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/CVE-2025-32463_illdeed">
 - [zinzloun/CVE-2025-32463](https://github.com/zinzloun/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/zinzloun/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/zinzloun/CVE-2025-32463">
+- [yeremeu/CVE-2025-32463_chwoot](https://github.com/yeremeu/CVE-2025-32463_chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/yeremeu/CVE-2025-32463_chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/yeremeu/CVE-2025-32463_chwoot">
 
 ---
 ## CVE-2025-32462 ()
