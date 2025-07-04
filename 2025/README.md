@@ -20,6 +20,7 @@
 ## CVE-2025-6554 ()
 > 
 - [rbaicba/CVE-2025-6554](https://github.com/rbaicba/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-6554">
+- [windz3r0day/CVE-2025-6554](https://github.com/windz3r0day/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2025-6554">
 
 ---
 ## CVE-2025-6543 ()
