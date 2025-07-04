@@ -7,6 +7,11 @@
 - [MrjHaxcore/CVE-2025-6934](https://github.com/MrjHaxcore/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-6934">
 
 ---
+## CVE-2025-6907 ()
+> 
+- [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/cve-2025-6907">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/cve-2025-6907">
+
+---
 ## CVE-2025-6860 ()
 > 
 - [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-6860">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-6860">
@@ -1102,6 +1107,7 @@
 - [0xAkarii/CVE-2025-32463](https://github.com/0xAkarii/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/0xAkarii/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/0xAkarii/CVE-2025-32463">
 - [CIA911/sudo_patch_CVE-2025-32463](https://github.com/CIA911/sudo_patch_CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/CIA911/sudo_patch_CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/CIA911/sudo_patch_CVE-2025-32463">
 - [mirchr/CVE-2025-32463-sudo-chwoot](https://github.com/mirchr/CVE-2025-32463-sudo-chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/mirchr/CVE-2025-32463-sudo-chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/mirchr/CVE-2025-32463-sudo-chwoot">
+- [ill-deed/CVE-2025-32463_illdeed](https://github.com/ill-deed/CVE-2025-32463_illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/CVE-2025-32463_illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/CVE-2025-32463_illdeed">
 
 ---
 ## CVE-2025-32462 ()
