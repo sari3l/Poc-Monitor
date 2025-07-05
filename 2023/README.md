@@ -395,6 +395,11 @@ to load arbitrary JavaScript code.
 - [spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache](https://github.com/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache">
 
 ---
+## CVE-2023-52927 ()
+> 
+- [seadragnol/CVE-2023-52927](https://github.com/seadragnol/CVE-2023-52927)	<img alt="forks" src="https://img.shields.io/github/forks/seadragnol/CVE-2023-52927">	<img alt="stars" src="https://img.shields.io/github/stars/seadragnol/CVE-2023-52927">
+
+---
 ## CVE-2023-52709 ()
 > 
 - [KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC](https://github.com/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC">
