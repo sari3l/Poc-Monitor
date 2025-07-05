@@ -206,6 +206,7 @@
 ## CVE-2025-49493 ()
 > 
 - [MuhammadWaseem29/CVE-2025-49493-Poc](https://github.com/MuhammadWaseem29/CVE-2025-49493-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-49493-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-49493-Poc">
+- [B1ack4sh/Blackash-CVE-2025-49493](https://github.com/B1ack4sh/Blackash-CVE-2025-49493)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-49493">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-49493">
 
 ---
 ## CVE-2025-49223 ()
