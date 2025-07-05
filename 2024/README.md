@@ -3572,6 +3572,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [h3lye/CVE-2024-42448-RCE](https://github.com/h3lye/CVE-2024-42448-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/h3lye/CVE-2024-42448-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/h3lye/CVE-2024-42448-RCE">
 
 ---
+## CVE-2024-42364 ()
+> 
+- [ibrahmsql/CVE-2024-42364](https://github.com/ibrahmsql/CVE-2024-42364)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-42364">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-42364">
+
+---
 ## CVE-2024-42346 (2024-09-20T19:15:00)
 > Galaxy is a free, open-source system for analyzing data, authoring workflows, training and education, publishing tools, managing infrastructure, and more. The editor visualization, /visualizations endpoint, can be used to store HTML tags and trigger javascript execution upon edit operation. All supported branches of Galaxy (and more back to release_20.05) were amended with the supplied patches. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [partywavesec/CVE-2024-42346](https://github.com/partywavesec/CVE-2024-42346)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2024-42346">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2024-42346">
@@ -4889,6 +4894,11 @@ PANIC from 6.8.0-rc1:
 ## CVE-2024-35235 ()
 > 
 - [zrax-x/CVE-2024-35235-CVE-2024-5290-exp](https://github.com/zrax-x/CVE-2024-35235-CVE-2024-5290-exp)	<img alt="forks" src="https://img.shields.io/github/forks/zrax-x/CVE-2024-35235-CVE-2024-5290-exp">	<img alt="stars" src="https://img.shields.io/github/stars/zrax-x/CVE-2024-35235-CVE-2024-5290-exp">
+
+---
+## CVE-2024-35198 ()
+> 
+- [ibrahmsql/CVE-2024-35198](https://github.com/ibrahmsql/CVE-2024-35198)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-35198">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-35198">
 
 ---
 ## CVE-2024-35176 ()
@@ -6777,6 +6787,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-28085 (2024-03-27T19:15:00)
 > wall in util-linux through 2.40, often installed with setgid tty permissions, allows escape sequences to be sent to other users' terminals through argv. (Specifically, escape sequences received from stdin are blocked, but escape sequences received from argv are not blocked.) There may be plausible scenarios where this leads to account takeover.
 - [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085)	<img alt="forks" src="https://img.shields.io/github/forks/skyler-ferrante/CVE-2024-28085">	<img alt="stars" src="https://img.shields.io/github/stars/skyler-ferrante/CVE-2024-28085">
+
+---
+## CVE-2024-28084 ()
+> 
+- [ibrahmsql/CVE-2024-28084](https://github.com/ibrahmsql/CVE-2024-28084)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-28084">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-28084">
 
 ---
 ## CVE-2024-28000 (2024-08-21T14:15:00)
