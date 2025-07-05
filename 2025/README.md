@@ -1119,6 +1119,7 @@
 - [cyberpoul/CVE-2025-32463-POC](https://github.com/cyberpoul/CVE-2025-32463-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyberpoul/CVE-2025-32463-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyberpoul/CVE-2025-32463-POC">
 - [B1ack4sh/Blackash-CVE-2025-32463](https://github.com/B1ack4sh/Blackash-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-32463">
 - [SkylerMC/CVE-2025-32463](https://github.com/SkylerMC/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/SkylerMC/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/SkylerMC/CVE-2025-32463">
+- [junxian428/CVE-2025-32463](https://github.com/junxian428/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/junxian428/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/junxian428/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
