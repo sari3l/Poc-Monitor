@@ -2989,6 +2989,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-11498](https://github.com/Live-Hack-CVE/CVE-2019-11498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11498">
 
 ---
+## CVE-2019-11479 ()
+> 
+- [ibrahmsql/CVE-2019-11479](https://github.com/ibrahmsql/CVE-2019-11479)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2019-11479">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2019-11479">
+
+---
 ## CVE-2019-11447 (2019-04-22T11:29:00)
 > An issue was discovered in CutePHP CuteNews 2.1.2. An attacker can infiltrate the server through the avatar upload process in the profile area via the avatar_file field to index.php?mod=main&opt=personal. There is no effective control of $imgsize in /core/modules/dashboard.php. The header content of a file can be changed and the control can be bypassed for code execution. (An attacker can use the GIF header for this.)
 - [substing/CVE-2019-11447_reverse_shell_upload](https://github.com/substing/CVE-2019-11447_reverse_shell_upload)	<img alt="forks" src="https://img.shields.io/github/forks/substing/CVE-2019-11447_reverse_shell_upload">	<img alt="stars" src="https://img.shields.io/github/stars/substing/CVE-2019-11447_reverse_shell_upload">
