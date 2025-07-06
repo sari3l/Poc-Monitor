@@ -5649,6 +5649,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-31982">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-31982">
 
 ---
+## CVE-2024-31964 ()
+> 
+- [d-Raco/CVE-2024-31964](https://github.com/d-Raco/CVE-2024-31964)	<img alt="forks" src="https://img.shields.io/github/forks/d-Raco/CVE-2024-31964">	<img alt="stars" src="https://img.shields.io/github/stars/d-Raco/CVE-2024-31964">
+
+---
 ## CVE-2024-31848 (2024-04-05T18:15:00)
 > A path traversal vulnerability exists in the Java version of CData API Server < 23.4.8844 when running using the embedded Jetty server, which could allow an unauthenticated remote attacker to gain complete administrative access to the application.
 - [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC">
