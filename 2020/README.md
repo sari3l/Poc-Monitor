@@ -32,6 +32,7 @@
 ## CVE-2020-9547 ()
 > 
 - [Pranjal6955/CVE-2020-9547](https://github.com/Pranjal6955/CVE-2020-9547)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2020-9547">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2020-9547">
+- [fairyming/CVE-2020-9547](https://github.com/fairyming/CVE-2020-9547)	<img alt="forks" src="https://img.shields.io/github/forks/fairyming/CVE-2020-9547">	<img alt="stars" src="https://img.shields.io/github/stars/fairyming/CVE-2020-9547">
 
 ---
 ## CVE-2020-9496 (2020-07-15T16:15:00)
