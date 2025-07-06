@@ -2755,6 +2755,7 @@
 - [abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE](https://github.com/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE">
 - [grupooruss/CVE-2025-20281-Cisco](https://github.com/grupooruss/CVE-2025-20281-Cisco)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/CVE-2025-20281-Cisco">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/CVE-2025-20281-Cisco">
 - [ill-deed/Cisco-CVE-2025-20281-illdeed](https://github.com/ill-deed/Cisco-CVE-2025-20281-illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/Cisco-CVE-2025-20281-illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/Cisco-CVE-2025-20281-illdeed">
+- [B1ack4sh/Blackash-CVE-2025-20281](https://github.com/B1ack4sh/Blackash-CVE-2025-20281)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-20281">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-20281">
 
 ---
 ## CVE-2025-20188 ()
