@@ -1940,6 +1940,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158)	<img alt="forks" src="https://img.shields.io/github/forks/Evan-Zhangyf/CVE-2023-45158">	<img alt="stars" src="https://img.shields.io/github/stars/Evan-Zhangyf/CVE-2023-45158">
 
 ---
+## CVE-2023-45131 ()
+> 
+- [ibrahmsql/CVE-2023-45131](https://github.com/ibrahmsql/CVE-2023-45131)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2023-45131">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2023-45131">
+
+---
 ## CVE-2023-45113 (2023-11-02T02:15:00)
 > Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
 - [halcyondream/test-cve-2023-45113](https://github.com/halcyondream/test-cve-2023-45113)	<img alt="forks" src="https://img.shields.io/github/forks/halcyondream/test-cve-2023-45113">	<img alt="stars" src="https://img.shields.io/github/stars/halcyondream/test-cve-2023-45113">
@@ -3597,6 +3602,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 ## CVE-2023-37474 (2023-07-14T20:15:00)
 > Copyparty is a portable file server. Versions prior to 1.8.2 are subject to a path traversal vulnerability detected in the `.cpr` subfolder. The Path Traversal attack technique allows an attacker access to files, directories, and commands that reside outside the web document root directory. This issue has been addressed in commit `043e3c7d` which has been included in release 1.8.2. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [ilqarli27/CVE-2023-37474](https://github.com/ilqarli27/CVE-2023-37474)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37474">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37474">
+
+---
+## CVE-2023-37467 ()
+> 
+- [ibrahmsql/CVE-2023-37467](https://github.com/ibrahmsql/CVE-2023-37467)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2023-37467">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2023-37467">
 
 ---
 ## CVE-2023-37456 ()
