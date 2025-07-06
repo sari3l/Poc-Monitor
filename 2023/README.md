@@ -1514,7 +1514,7 @@ QuTScloud c5.1.5.2651 and later
 - [rvizx/CVE-2023-46818](https://github.com/rvizx/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-46818">
 - [ajdumanhug/CVE-2022-42092](https://github.com/ajdumanhug/CVE-2022-42092)	<img alt="forks" src="https://img.shields.io/github/forks/ajdumanhug/CVE-2022-42092">	<img alt="stars" src="https://img.shields.io/github/stars/ajdumanhug/CVE-2022-42092">
 - [engranaabubakar/CVE-2023-46818](https://github.com/engranaabubakar/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/engranaabubakar/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/engranaabubakar/CVE-2023-46818">
-- [z7Akane/CVE-2023-46818](https://github.com/z7Akane/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/z7Akane/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/z7Akane/CVE-2023-46818">
+- [hunntr/CVE-2023-46818](https://github.com/hunntr/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/hunntr/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/hunntr/CVE-2023-46818">
 - [SyFi/CVE-2023-46818](https://github.com/SyFi/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/SyFi/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/SyFi/CVE-2023-46818">
 
 ---
