@@ -1240,6 +1240,11 @@
 - [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32118">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32118">
 
 ---
+## CVE-2025-32023 ()
+> 
+- [leesh3288/CVE-2025-32023](https://github.com/leesh3288/CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/leesh3288/CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/leesh3288/CVE-2025-32023">
+
+---
 ## CVE-2025-32013 ()
 > 
 - [Mohith-T/CVE-2025-32013](https://github.com/Mohith-T/CVE-2025-32013)	<img alt="forks" src="https://img.shields.io/github/forks/Mohith-T/CVE-2025-32013">	<img alt="stars" src="https://img.shields.io/github/stars/Mohith-T/CVE-2025-32013">
