@@ -7287,6 +7287,7 @@
 - [yaunsky/cve-2021-25646](https://github.com/yaunsky/cve-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/cve-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/cve-2021-25646">
 - [gps1949/CVE-2021-25646](https://github.com/gps1949/CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/gps1949/CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/gps1949/CVE-2021-25646">
 - [tiemio/RCE-PoC-CVE-2021-25646](https://github.com/tiemio/RCE-PoC-CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/RCE-PoC-CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/RCE-PoC-CVE-2021-25646">
+- [ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit](https://github.com/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit">
 
 ---
 ## CVE-2021-25642 (2022-08-25T14:15:00)
