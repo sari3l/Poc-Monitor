@@ -29,6 +29,11 @@
 - [Live-Hack-CVE/CVE-2020-9715](https://github.com/Live-Hack-CVE/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9715">
 
 ---
+## CVE-2020-9547 ()
+> 
+- [Pranjal6955/CVE-2020-9547](https://github.com/Pranjal6955/CVE-2020-9547)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2020-9547">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2020-9547">
+
+---
 ## CVE-2020-9496 (2020-07-15T16:15:00)
 > XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03
 - [Ly0nt4r/CVE-2020-9496](https://github.com/Ly0nt4r/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/Ly0nt4r/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/Ly0nt4r/CVE-2020-9496">

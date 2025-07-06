@@ -1125,6 +1125,7 @@
 - [SkylerMC/CVE-2025-32463](https://github.com/SkylerMC/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/SkylerMC/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/SkylerMC/CVE-2025-32463">
 - [junxian428/CVE-2025-32463](https://github.com/junxian428/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/junxian428/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/junxian428/CVE-2025-32463">
 - [FreeDurok/CVE-2025-32463-PoC](https://github.com/FreeDurok/CVE-2025-32463-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FreeDurok/CVE-2025-32463-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FreeDurok/CVE-2025-32463-PoC">
+- [Chocapikk/CVE-2025-32463-lab](https://github.com/Chocapikk/CVE-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-32463-lab">
 
 ---
 ## CVE-2025-32462 ()
