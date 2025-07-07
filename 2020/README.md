@@ -61,6 +61,7 @@
 ## CVE-2020-9488 ()
 > 
 - [arsalanraja987/java-log4j-cve-2020-9488](https://github.com/arsalanraja987/java-log4j-cve-2020-9488)	<img alt="forks" src="https://img.shields.io/github/forks/arsalanraja987/java-log4j-cve-2020-9488">	<img alt="stars" src="https://img.shields.io/github/stars/arsalanraja987/java-log4j-cve-2020-9488">
+- [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
 
 ---
 ## CVE-2020-9484 (2020-05-20T19:15:00)
