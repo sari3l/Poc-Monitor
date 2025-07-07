@@ -213,6 +213,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [Exerrdev/CVE-2024-9264-Fixed](https://github.com/Exerrdev/CVE-2024-9264-Fixed)	<img alt="forks" src="https://img.shields.io/github/forks/Exerrdev/CVE-2024-9264-Fixed">	<img alt="stars" src="https://img.shields.io/github/stars/Exerrdev/CVE-2024-9264-Fixed">
 - [Royall-Researchers/CVE-2024-9264](https://github.com/Royall-Researchers/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/Royall-Researchers/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/Royall-Researchers/CVE-2024-9264">
 - [ruizii/CVE-2024-9264](https://github.com/ruizii/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/ruizii/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/ruizii/CVE-2024-9264">
+- [rvizx/CVE-2024-9264](https://github.com/rvizx/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-9264">
 
 ---
 ## CVE-2024-9263 (2024-10-17T04:15:00)
