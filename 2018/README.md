@@ -1709,7 +1709,7 @@
 - [ensimag-security/CVE-2018-10933](https://github.com/ensimag-security/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/ensimag-security/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/ensimag-security/CVE-2018-10933">
 - [sambiyal/CVE-2018-10933-POC](https://github.com/sambiyal/CVE-2018-10933-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sambiyal/CVE-2018-10933-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sambiyal/CVE-2018-10933-POC">
 - [0xadaw/libSSH-bypass](https://github.com/0xadaw/libSSH-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/0xadaw/libSSH-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/0xadaw/libSSH-bypass">
-- [gojhonny/libssh-scanner](https://github.com/gojhonny/libssh-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gojhonny/libssh-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gojhonny/libssh-scanner">
+- [jobroche/libssh-scanner](https://github.com/jobroche/libssh-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/jobroche/libssh-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/jobroche/libssh-scanner">
 - [Virgula0/POC-CVE-2018-10933](https://github.com/Virgula0/POC-CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/Virgula0/POC-CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/Virgula0/POC-CVE-2018-10933">
 - [throwawayaccount12312312/precompiled-CVE-2018-10933](https://github.com/throwawayaccount12312312/precompiled-CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/throwawayaccount12312312/precompiled-CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/throwawayaccount12312312/precompiled-CVE-2018-10933">
 - [ivanacostarubio/libssh-scanner](https://github.com/ivanacostarubio/libssh-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ivanacostarubio/libssh-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ivanacostarubio/libssh-scanner">
@@ -1728,6 +1728,7 @@
 - [SilasSpringer/CVE-2018-10933](https://github.com/SilasSpringer/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/SilasSpringer/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/SilasSpringer/CVE-2018-10933">
 - [reanimat0r/bpnd-libssh](https://github.com/reanimat0r/bpnd-libssh)	<img alt="forks" src="https://img.shields.io/github/forks/reanimat0r/bpnd-libssh">	<img alt="stars" src="https://img.shields.io/github/stars/reanimat0r/bpnd-libssh">
 - [HSw109/CVE-2018-10933](https://github.com/HSw109/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/HSw109/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/HSw109/CVE-2018-10933">
+- [bidaoui4905/CVE-2018-10933](https://github.com/bidaoui4905/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/bidaoui4905/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/bidaoui4905/CVE-2018-10933">
 
 ---
 ## CVE-2018-10583 (2018-05-01T16:29:00)
