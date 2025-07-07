@@ -58,6 +58,11 @@
 - [Live-Hack-CVE/CVE-2020-9490](https://github.com/Live-Hack-CVE/CVE-2020-9490)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9490">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9490">
 
 ---
+## CVE-2020-9488 ()
+> 
+- [arsalanraja987/java-log4j-cve-2020-9488](https://github.com/arsalanraja987/java-log4j-cve-2020-9488)	<img alt="forks" src="https://img.shields.io/github/forks/arsalanraja987/java-log4j-cve-2020-9488">	<img alt="stars" src="https://img.shields.io/github/stars/arsalanraja987/java-log4j-cve-2020-9488">
+
+---
 ## CVE-2020-9484 (2020-05-20T19:15:00)
 > When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter="null" (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.
 - [d3fudd/CVE-2020-9484_Exploit](https://github.com/d3fudd/CVE-2020-9484_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/d3fudd/CVE-2020-9484_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/d3fudd/CVE-2020-9484_Exploit">
