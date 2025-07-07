@@ -3137,6 +3137,11 @@ use after free.
 - [ossf-cve-benchmark/CVE-2019-10746](https://github.com/ossf-cve-benchmark/CVE-2019-10746)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10746">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10746">
 
 ---
+## CVE-2019-10743 ()
+> 
+- [albisorua/PoC-CVE-2019-10743](https://github.com/albisorua/PoC-CVE-2019-10743)	<img alt="forks" src="https://img.shields.io/github/forks/albisorua/PoC-CVE-2019-10743">	<img alt="stars" src="https://img.shields.io/github/stars/albisorua/PoC-CVE-2019-10743">
+
+---
 ## CVE-2019-10742 (2019-05-07T19:29:00)
 > Axios up to and including 0.18.0 allows attackers to cause a denial of service (application crash) by continuing to accepting content after maxContentLength is exceeded.
 - [Viniciuspxf/CVE-2019-10742](https://github.com/Viniciuspxf/CVE-2019-10742)	<img alt="forks" src="https://img.shields.io/github/forks/Viniciuspxf/CVE-2019-10742">	<img alt="stars" src="https://img.shields.io/github/stars/Viniciuspxf/CVE-2019-10742">
