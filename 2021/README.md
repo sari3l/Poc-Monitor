@@ -6966,6 +6966,11 @@
 - [Live-Hack-CVE/CVE-2021-27597](https://github.com/Live-Hack-CVE/CVE-2021-27597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27597">
 
 ---
+## CVE-2021-27568 ()
+> 
+- [arsalanraja987/java-insecure-random-cve-2021-27568](https://github.com/arsalanraja987/java-insecure-random-cve-2021-27568)	<img alt="forks" src="https://img.shields.io/github/forks/arsalanraja987/java-insecure-random-cve-2021-27568">	<img alt="stars" src="https://img.shields.io/github/stars/arsalanraja987/java-insecure-random-cve-2021-27568">
+
+---
 ## CVE-2021-27516 (2021-02-22T00:15:00)
 > URI.js (aka urijs) before 1.19.6 mishandles certain uses of backslash such as http:\/ and interprets the URI as a relative path.
 - [Live-Hack-CVE/CVE-2021-27516](https://github.com/Live-Hack-CVE/CVE-2021-27516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27516">
