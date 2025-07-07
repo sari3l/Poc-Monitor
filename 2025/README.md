@@ -28,6 +28,7 @@
 - [windz3r0day/CVE-2025-6554](https://github.com/windz3r0day/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2025-6554">
 - [PwnToday/CVE-2025-6554](https://github.com/PwnToday/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/PwnToday/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/PwnToday/CVE-2025-6554">
 - [gmh5225/CVE-2025-6554-2](https://github.com/gmh5225/CVE-2025-6554-2)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-6554-2">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-6554-2">
+- [PwnToday/CVE-2025-6554](https://github.com/PwnToday/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/PwnToday/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/PwnToday/CVE-2025-6554">
 
 ---
 ## CVE-2025-6543 ()
