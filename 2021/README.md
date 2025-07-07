@@ -6635,6 +6635,11 @@
 - [arsalanraja987/gradle-cve-2021-29427-demo](https://github.com/arsalanraja987/gradle-cve-2021-29427-demo)	<img alt="forks" src="https://img.shields.io/github/forks/arsalanraja987/gradle-cve-2021-29427-demo">	<img alt="stars" src="https://img.shields.io/github/stars/arsalanraja987/gradle-cve-2021-29427-demo">
 
 ---
+## CVE-2021-29425 ()
+> 
+- [arsalanraja987/java-cve-2021-29425-tika-xxe](https://github.com/arsalanraja987/java-cve-2021-29425-tika-xxe)	<img alt="forks" src="https://img.shields.io/github/forks/arsalanraja987/java-cve-2021-29425-tika-xxe">	<img alt="stars" src="https://img.shields.io/github/stars/arsalanraja987/java-cve-2021-29425-tika-xxe">
+
+---
 ## CVE-2021-29421 (2021-04-01T20:15:00)
 > models/metadata.py in the pikepdf package 1.3.0 through 2.9.2 for Python allows XXE when parsing XMP metadata entries.
 - [Live-Hack-CVE/CVE-2021-29421](https://github.com/Live-Hack-CVE/CVE-2021-29421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29421">
