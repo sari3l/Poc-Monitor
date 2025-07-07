@@ -144,6 +144,7 @@
 > 
 - [tlavi00/CVE-2018-7750](https://github.com/tlavi00/CVE-2018-7750)	<img alt="forks" src="https://img.shields.io/github/forks/tlavi00/CVE-2018-7750">	<img alt="stars" src="https://img.shields.io/github/stars/tlavi00/CVE-2018-7750">
 - [jm33-m0/CVE-2018-7750](https://github.com/jm33-m0/CVE-2018-7750)	<img alt="forks" src="https://img.shields.io/github/forks/jm33-m0/CVE-2018-7750">	<img alt="stars" src="https://img.shields.io/github/stars/jm33-m0/CVE-2018-7750">
+- [bidaoui4905/CVE-2018-7750](https://github.com/bidaoui4905/CVE-2018-7750)	<img alt="forks" src="https://img.shields.io/github/forks/bidaoui4905/CVE-2018-7750">	<img alt="stars" src="https://img.shields.io/github/stars/bidaoui4905/CVE-2018-7750">
 
 ---
 ## CVE-2018-7602 (2018-07-19T17:29:00)
