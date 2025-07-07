@@ -1140,6 +1140,7 @@
 - [mylovem313/CVE-2025-32462](https://github.com/mylovem313/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/mylovem313/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/mylovem313/CVE-2025-32462">
 - [cyberpoul/CVE-2025-32462-POC](https://github.com/cyberpoul/CVE-2025-32462-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyberpoul/CVE-2025-32462-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyberpoul/CVE-2025-32462-POC">
 - [SpongeBob-369/cve-2025-32462](https://github.com/SpongeBob-369/cve-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/SpongeBob-369/cve-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/SpongeBob-369/cve-2025-32462">
+- [MAAYTHM/CVE-2025-32462_32463-Lab](https://github.com/MAAYTHM/CVE-2025-32462_32463-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/MAAYTHM/CVE-2025-32462_32463-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/MAAYTHM/CVE-2025-32462_32463-Lab">
 
 ---
 ## CVE-2025-32433 ()
