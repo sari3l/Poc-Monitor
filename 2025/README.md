@@ -2322,6 +2322,7 @@
 - [mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-](https://github.com/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-">
 - [x1ongsec/CVE-2025-24813](https://github.com/x1ongsec/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/x1ongsec/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/x1ongsec/CVE-2025-24813">
 - [yaleman/cve-2025-24813-poc](https://github.com/yaleman/cve-2025-24813-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yaleman/cve-2025-24813-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yaleman/cve-2025-24813-poc">
+- [GongWook/CVE-2025-24813](https://github.com/GongWook/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/GongWook/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/GongWook/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
