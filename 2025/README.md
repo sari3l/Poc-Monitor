@@ -377,6 +377,7 @@
 - [0xcan1337/CVE-2025-47812-poC](https://github.com/0xcan1337/CVE-2025-47812-poC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcan1337/CVE-2025-47812-poC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcan1337/CVE-2025-47812-poC">
 - [0xgh057r3c0n/CVE-2025-47812](https://github.com/0xgh057r3c0n/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-47812">
 - [ill-deed/WingFTP-CVE-2025-47812-illdeed](https://github.com/ill-deed/WingFTP-CVE-2025-47812-illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/WingFTP-CVE-2025-47812-illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/WingFTP-CVE-2025-47812-illdeed">
+- [pevinkumar10/CVE-2025-47812](https://github.com/pevinkumar10/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/pevinkumar10/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/pevinkumar10/CVE-2025-47812">
 
 ---
 ## CVE-2025-47810 ()
