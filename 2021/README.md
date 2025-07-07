@@ -4744,6 +4744,7 @@
 - [Kyyomaa/CVE-2021-3560-EXPLOIT](https://github.com/Kyyomaa/CVE-2021-3560-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Kyyomaa/CVE-2021-3560-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Kyyomaa/CVE-2021-3560-EXPLOIT">
 - [arcslash/exploit_CVE-2021-3560](https://github.com/arcslash/exploit_CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/arcslash/exploit_CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/arcslash/exploit_CVE-2021-3560">
 - [MandipJoshi/CVE-2021-3560](https://github.com/MandipJoshi/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/MandipJoshi/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/MandipJoshi/CVE-2021-3560">
+- [Antoine-MANTIS/POC-Bash-CVE-2021-3560](https://github.com/Antoine-MANTIS/POC-Bash-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/Antoine-MANTIS/POC-Bash-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/Antoine-MANTIS/POC-Bash-CVE-2021-3560">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
