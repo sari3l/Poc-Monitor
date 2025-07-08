@@ -100,6 +100,7 @@
 - [nocerainfosec/cve-2025-5777](https://github.com/nocerainfosec/cve-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/nocerainfosec/cve-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/nocerainfosec/cve-2025-5777">
 - [RaR1991/citrix_bleed_2](https://github.com/RaR1991/citrix_bleed_2)	<img alt="forks" src="https://img.shields.io/github/forks/RaR1991/citrix_bleed_2">	<img alt="stars" src="https://img.shields.io/github/stars/RaR1991/citrix_bleed_2">
 - [orange0Mint/CitrixBleed-2-CVE-2025-5777](https://github.com/orange0Mint/CitrixBleed-2-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/orange0Mint/CitrixBleed-2-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/orange0Mint/CitrixBleed-2-CVE-2025-5777">
+- [Chocapikk/CVE-2025-5777](https://github.com/Chocapikk/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-5777">
 
 ---
 ## CVE-2025-5701 ()
