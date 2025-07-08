@@ -1136,6 +1136,7 @@
 - [MAAYTHM/CVE-2025-32462_32463-Lab](https://github.com/MAAYTHM/CVE-2025-32462_32463-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/MAAYTHM/CVE-2025-32462_32463-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/MAAYTHM/CVE-2025-32462_32463-Lab">
 - [SpongeBob-369/cve-2025-32463](https://github.com/SpongeBob-369/cve-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/SpongeBob-369/cve-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/SpongeBob-369/cve-2025-32463">
 - [lowercasenumbers/CVE-2025-32463_sudo_chroot](https://github.com/lowercasenumbers/CVE-2025-32463_sudo_chroot)	<img alt="forks" src="https://img.shields.io/github/forks/lowercasenumbers/CVE-2025-32463_sudo_chroot">	<img alt="stars" src="https://img.shields.io/github/stars/lowercasenumbers/CVE-2025-32463_sudo_chroot">
+- [Alaric112/CVE-2025-32463-Chroot-Vulnerabilitity](https://github.com/Alaric112/CVE-2025-32463-Chroot-Vulnerabilitity)	<img alt="forks" src="https://img.shields.io/github/forks/Alaric112/CVE-2025-32463-Chroot-Vulnerabilitity">	<img alt="stars" src="https://img.shields.io/github/stars/Alaric112/CVE-2025-32463-Chroot-Vulnerabilitity">
 
 ---
 ## CVE-2025-32462 ()
