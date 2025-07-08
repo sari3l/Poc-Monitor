@@ -284,6 +284,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 ## CVE-2024-9014 (2024-09-23T17:15:00)
 > pgAdmin versions 8.11 and earlier are vulnerable to a security flaw in OAuth2 authentication. This vulnerability allows an attacker to potentially obtain the client ID and secret, leading to unauthorized access to user data.
 - [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-9014">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-9014">
+- [r0otk3r/CVE-2024-9014](https://github.com/r0otk3r/CVE-2024-9014)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-9014">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-9014">
 
 ---
 ## CVE-2024-8963 (2024-09-19T18:15:00)
