@@ -364,6 +364,11 @@
 - [joelczk/CVE-2025-48461](https://github.com/joelczk/CVE-2025-48461)	<img alt="forks" src="https://img.shields.io/github/forks/joelczk/CVE-2025-48461">	<img alt="stars" src="https://img.shields.io/github/stars/joelczk/CVE-2025-48461">
 
 ---
+## CVE-2025-48384 ()
+> 
+- [acheong08/CVE-2025-48384](https://github.com/acheong08/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2025-48384">
+
+---
 ## CVE-2025-4822 ()
 > 
 - [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4822">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4822">
