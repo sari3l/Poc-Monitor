@@ -331,6 +331,11 @@
 - [wiseep/CVE-2025-48827](https://github.com/wiseep/CVE-2025-48827)	<img alt="forks" src="https://img.shields.io/github/forks/wiseep/CVE-2025-48827">	<img alt="stars" src="https://img.shields.io/github/stars/wiseep/CVE-2025-48827">
 
 ---
+## CVE-2025-48799 ()
+> 
+- [Wh04m1001/CVE-2025-48799](https://github.com/Wh04m1001/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2025-48799">
+
+---
 ## CVE-2025-48708 ()
 > 
 - [B1tBreaker/CVE-2025-48708](https://github.com/B1tBreaker/CVE-2025-48708)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBreaker/CVE-2025-48708">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBreaker/CVE-2025-48708">
