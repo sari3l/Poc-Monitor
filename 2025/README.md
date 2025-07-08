@@ -1133,6 +1133,7 @@
 - [Chocapikk/CVE-2025-32463-lab](https://github.com/Chocapikk/CVE-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-32463-lab">
 - [K3ysTr0K3R/CVE-2025-32463-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-32463-EXPLOIT">
 - [MAAYTHM/CVE-2025-32462_32463-Lab](https://github.com/MAAYTHM/CVE-2025-32462_32463-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/MAAYTHM/CVE-2025-32462_32463-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/MAAYTHM/CVE-2025-32462_32463-Lab">
+- [SpongeBob-369/cve-2025-32463](https://github.com/SpongeBob-369/cve-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/SpongeBob-369/cve-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/SpongeBob-369/cve-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
