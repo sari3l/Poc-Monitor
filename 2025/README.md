@@ -105,6 +105,7 @@
 - [win3zz/CVE-2025-5777](https://github.com/win3zz/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2025-5777">
 - [susancodes55/CVE-2025-48903-discord-poc](https://github.com/susancodes55/CVE-2025-48903-discord-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-48903-discord-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-48903-discord-poc">
 - [susancodes55/CVE-2025-32463-sudo-poc](https://github.com/susancodes55/CVE-2025-32463-sudo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-32463-sudo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-32463-sudo-poc">
+- [FrenzisRed/CVE-2025-5777](https://github.com/FrenzisRed/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/FrenzisRed/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/FrenzisRed/CVE-2025-5777">
 
 ---
 ## CVE-2025-5701 ()
