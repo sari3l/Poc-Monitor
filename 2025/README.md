@@ -1195,6 +1195,7 @@
 - [Alaric112/CVE-2025-32463-Chroot-Vulnerabilitity](https://github.com/Alaric112/CVE-2025-32463-Chroot-Vulnerabilitity)	<img alt="forks" src="https://img.shields.io/github/forks/Alaric112/CVE-2025-32463-Chroot-Vulnerabilitity">	<img alt="stars" src="https://img.shields.io/github/stars/Alaric112/CVE-2025-32463-Chroot-Vulnerabilitity">
 - [abrewer251/CVE-2025-32463_Sudo_PoC](https://github.com/abrewer251/CVE-2025-32463_Sudo_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-32463_Sudo_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-32463_Sudo_PoC">
 - [susancodes55/CVE-2025-32463-sudo-poc](https://github.com/susancodes55/CVE-2025-32463-sudo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-32463-sudo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-32463-sudo-poc">
+- [0xb0rn3/CVE-2025-32463-EXPLOIT](https://github.com/0xb0rn3/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0rn3/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0rn3/CVE-2025-32463-EXPLOIT">
 
 ---
 ## CVE-2025-32462 ()
