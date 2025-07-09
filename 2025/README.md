@@ -2782,6 +2782,11 @@
 - [shreyas-malhotra/CVE-2025-21624](https://github.com/shreyas-malhotra/CVE-2025-21624)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2025-21624">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2025-21624">
 
 ---
+## CVE-2025-21574 ()
+> 
+- [mdriaz009/CVE-2025-21574-Exploit](https://github.com/mdriaz009/CVE-2025-21574-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mdriaz009/CVE-2025-21574-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mdriaz009/CVE-2025-21574-Exploit">
+
+---
 ## CVE-2025-21497 ()
 > 
 - [Urbank-61/cve-2025-21497-lab](https://github.com/Urbank-61/cve-2025-21497-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Urbank-61/cve-2025-21497-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Urbank-61/cve-2025-21497-lab">
