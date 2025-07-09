@@ -134,6 +134,11 @@
 - [itsShotgun/chrome_cve-2025-5419_checker](https://github.com/itsShotgun/chrome_cve-2025-5419_checker)	<img alt="forks" src="https://img.shields.io/github/forks/itsShotgun/chrome_cve-2025-5419_checker">	<img alt="stars" src="https://img.shields.io/github/stars/itsShotgun/chrome_cve-2025-5419_checker">
 
 ---
+## CVE-2025-53547 ()
+> 
+- [DVKunion/CVE-2025-53547-POC](https://github.com/DVKunion/CVE-2025-53547-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DVKunion/CVE-2025-53547-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DVKunion/CVE-2025-53547-POC">
+
+---
 ## CVE-2025-5329 ()
 > 
 - [sahici/CVE-2025-5329](https://github.com/sahici/CVE-2025-5329)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-5329">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-5329">
@@ -381,6 +386,7 @@
 - [WontakKim/cve-2025-48384](https://github.com/WontakKim/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/WontakKim/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/WontakKim/cve-2025-48384">
 - [susancodes55/CVE-2025-48903-discord-poc](https://github.com/susancodes55/CVE-2025-48903-discord-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-48903-discord-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-48903-discord-poc">
 - [susancodes55/CVE-2025-32463-sudo-poc](https://github.com/susancodes55/CVE-2025-32463-sudo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-32463-sudo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-32463-sudo-poc">
+- [fishyyh/CVE-2025-48384](https://github.com/fishyyh/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/fishyyh/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/fishyyh/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
