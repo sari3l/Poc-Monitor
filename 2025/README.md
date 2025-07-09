@@ -395,6 +395,8 @@
 - [fishyyh/CVE-2025-48384-POC](https://github.com/fishyyh/CVE-2025-48384-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fishyyh/CVE-2025-48384-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fishyyh/CVE-2025-48384-POC">
 - [kallydev/cve-2025-48384-hook](https://github.com/kallydev/cve-2025-48384-hook)	<img alt="forks" src="https://img.shields.io/github/forks/kallydev/cve-2025-48384-hook">	<img alt="stars" src="https://img.shields.io/github/stars/kallydev/cve-2025-48384-hook">
 - [fishyyh/CVE-2025-48384-POC](https://github.com/fishyyh/CVE-2025-48384-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fishyyh/CVE-2025-48384-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fishyyh/CVE-2025-48384-POC">
+- [liamg/CVE-2025-48384](https://github.com/liamg/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/liamg/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/liamg/CVE-2025-48384">
+- [liamg/CVE-2025-48384-submodule](https://github.com/liamg/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/liamg/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/liamg/CVE-2025-48384-submodule">
 
 ---
 ## CVE-2025-4822 ()
