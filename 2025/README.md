@@ -387,6 +387,7 @@
 - [susancodes55/CVE-2025-48903-discord-poc](https://github.com/susancodes55/CVE-2025-48903-discord-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-48903-discord-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-48903-discord-poc">
 - [susancodes55/CVE-2025-32463-sudo-poc](https://github.com/susancodes55/CVE-2025-32463-sudo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-32463-sudo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-32463-sudo-poc">
 - [fishyyh/CVE-2025-48384](https://github.com/fishyyh/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/fishyyh/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/fishyyh/CVE-2025-48384">
+- [fishyyh/CVE-2025-48384-POC](https://github.com/fishyyh/CVE-2025-48384-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fishyyh/CVE-2025-48384-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fishyyh/CVE-2025-48384-POC">
 
 ---
 ## CVE-2025-4822 ()
