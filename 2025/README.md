@@ -108,6 +108,11 @@
 - [FrenzisRed/CVE-2025-5777](https://github.com/FrenzisRed/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/FrenzisRed/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/FrenzisRed/CVE-2025-5777">
 
 ---
+## CVE-2025-5755 ()
+> 
+- [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/cve-2025-5755">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/cve-2025-5755">
+
+---
 ## CVE-2025-5701 ()
 > 
 - [Harley21211/CVE-2025-5701-Exploit](https://github.com/Harley21211/CVE-2025-5701-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Harley21211/CVE-2025-5701-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Harley21211/CVE-2025-5701-Exploit">
