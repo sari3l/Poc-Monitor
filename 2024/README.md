@@ -3650,6 +3650,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 > 
 - [victoni/Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC](https://github.com/victoni/Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC)	<img alt="forks" src="https://img.shields.io/github/forks/victoni/Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC">	<img alt="stars" src="https://img.shields.io/github/stars/victoni/Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC">
 - [Foxer131/CVE-2024-42008-9-exploit](https://github.com/Foxer131/CVE-2024-42008-9-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Foxer131/CVE-2024-42008-9-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Foxer131/CVE-2024-42008-9-exploit">
+- [rpgsec/Roundcube-CVE-2024-42008-POC](https://github.com/rpgsec/Roundcube-CVE-2024-42008-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rpgsec/Roundcube-CVE-2024-42008-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rpgsec/Roundcube-CVE-2024-42008-POC">
 
 ---
 ## CVE-2024-41992 (2024-11-11T01:15:00)
