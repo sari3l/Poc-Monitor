@@ -2351,6 +2351,11 @@
 - [numanturle/CVE-2025-25279](https://github.com/numanturle/CVE-2025-25279)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2025-25279">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2025-25279">
 
 ---
+## CVE-2025-25257 ()
+> 
+- [barbaraogmgf/CVE-2025-25257](https://github.com/barbaraogmgf/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraogmgf/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraogmgf/CVE-2025-25257">
+
+---
 ## CVE-2025-252513 ()
 > 
 - [strivepan/cve-2025-252513](https://github.com/strivepan/cve-2025-252513)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/cve-2025-252513">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/cve-2025-252513">
