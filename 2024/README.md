@@ -6876,8 +6876,9 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ---
 ## CVE-2024-27954 (2024-05-17T09:15:00)
 > Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in WP Automatic Automatic allows Path Traversal, Server Side Request Forgery.This issue affects Automatic: from n/a through 3.92.0.
-- [fa-rrel/CVE-2024-27954](https://github.com/fa-rrel/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-27954">
+- [gh-ost00/CVE-2024-27954](https://github.com/gh-ost00/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-27954">
 - [Quantum-Hacker/CVE-2024-27954](https://github.com/Quantum-Hacker/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27954">
+- [r0otk3r/CVE-2024-27954](https://github.com/r0otk3r/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-27954">
 
 ---
 ## CVE-2024-27876 ()
