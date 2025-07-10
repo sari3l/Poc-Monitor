@@ -35,6 +35,7 @@
 - [gmh5225/CVE-2025-6554-2](https://github.com/gmh5225/CVE-2025-6554-2)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-6554-2">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-6554-2">
 - [PwnToday/CVE-2025-6554](https://github.com/PwnToday/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/PwnToday/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/PwnToday/CVE-2025-6554">
 - [ghostn4444/POC-CVE-2025-6554](https://github.com/ghostn4444/POC-CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/ghostn4444/POC-CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/ghostn4444/POC-CVE-2025-6554">
+- [9Insomnie/CVE-2025-6554](https://github.com/9Insomnie/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/9Insomnie/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/9Insomnie/CVE-2025-6554">
 
 ---
 ## CVE-2025-6543 ()
