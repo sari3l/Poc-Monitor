@@ -420,6 +420,7 @@
 - [Alex0Young/CVE-2025-48384-1](https://github.com/Alex0Young/CVE-2025-48384-1)	<img alt="forks" src="https://img.shields.io/github/forks/Alex0Young/CVE-2025-48384-1">	<img alt="stars" src="https://img.shields.io/github/stars/Alex0Young/CVE-2025-48384-1">
 - [altm4n/CVE-2025-48384-sub](https://github.com/altm4n/CVE-2025-48384-sub)	<img alt="forks" src="https://img.shields.io/github/forks/altm4n/CVE-2025-48384-sub">	<img alt="stars" src="https://img.shields.io/github/stars/altm4n/CVE-2025-48384-sub">
 - [altm4n/CVE-2025-48384](https://github.com/altm4n/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/altm4n/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/altm4n/CVE-2025-48384">
+- [testsssssssss-sss/CVE-2025-48384](https://github.com/testsssssssss-sss/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testsssssssss-sss/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testsssssssss-sss/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
