@@ -114,6 +114,7 @@
 - [susancodes55/CVE-2025-32463-sudo-poc](https://github.com/susancodes55/CVE-2025-32463-sudo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-32463-sudo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-32463-sudo-poc">
 - [FrenzisRed/CVE-2025-5777](https://github.com/FrenzisRed/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/FrenzisRed/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/FrenzisRed/CVE-2025-5777">
 - [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
+- [bughuntar/CVE-2025-5777](https://github.com/bughuntar/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2025-5777">
 
 ---
 ## CVE-2025-5755 ()
