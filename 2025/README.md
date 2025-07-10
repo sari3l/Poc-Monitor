@@ -423,6 +423,8 @@
 - [testsssssssss-sss/CVE-2025-48384](https://github.com/testsssssssss-sss/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testsssssssss-sss/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testsssssssss-sss/CVE-2025-48384">
 - [altm4n/cve-2025-48384-hub](https://github.com/altm4n/cve-2025-48384-hub)	<img alt="forks" src="https://img.shields.io/github/forks/altm4n/cve-2025-48384-hub">	<img alt="stars" src="https://img.shields.io/github/stars/altm4n/cve-2025-48384-hub">
 - [altm4n/cve-2025-48384](https://github.com/altm4n/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/altm4n/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/altm4n/cve-2025-48384">
+- [vinieger/CVE-2025-48384-bad-nginx](https://github.com/vinieger/CVE-2025-48384-bad-nginx)	<img alt="forks" src="https://img.shields.io/github/forks/vinieger/CVE-2025-48384-bad-nginx">	<img alt="stars" src="https://img.shields.io/github/stars/vinieger/CVE-2025-48384-bad-nginx">
+- [vinieger/CVE-2025-48384-bad-nginx-submodule](https://github.com/vinieger/CVE-2025-48384-bad-nginx-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/vinieger/CVE-2025-48384-bad-nginx-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/vinieger/CVE-2025-48384-bad-nginx-submodule">
 
 ---
 ## CVE-2025-4822 ()
