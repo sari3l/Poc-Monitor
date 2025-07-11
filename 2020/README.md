@@ -4650,6 +4650,11 @@
 - [Live-Hack-CVE/CVE-2020-12061](https://github.com/Live-Hack-CVE/CVE-2020-12061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12061">
 
 ---
+## CVE-2020-11989 ()
+> 
+- [cuijiung/shiro-CVE-2020-11989](https://github.com/cuijiung/shiro-CVE-2020-11989)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/shiro-CVE-2020-11989">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/shiro-CVE-2020-11989">
+
+---
 ## CVE-2020-11984 ()
 > 
 - [masahiro331/CVE-2020-11984](https://github.com/masahiro331/CVE-2020-11984)	<img alt="forks" src="https://img.shields.io/github/forks/masahiro331/CVE-2020-11984">	<img alt="stars" src="https://img.shields.io/github/stars/masahiro331/CVE-2020-11984">

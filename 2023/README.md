@@ -6856,6 +6856,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp)	<img alt="forks" src="https://img.shields.io/github/forks/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">	<img alt="stars" src="https://img.shields.io/github/stars/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">
 - [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp)	<img alt="forks" src="https://img.shields.io/github/forks/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">	<img alt="stars" src="https://img.shields.io/github/stars/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">
 - [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-23638-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-23638-Tools">
+- [cuijiung/dubbo-CVE-2023-23638](https://github.com/cuijiung/dubbo-CVE-2023-23638)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/dubbo-CVE-2023-23638">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/dubbo-CVE-2023-23638">
 
 ---
 ## CVE-2023-23607 (2023-01-20T21:15:00)
