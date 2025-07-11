@@ -994,6 +994,7 @@
 - [Fauzan-Aldi/Log4j-_Vulnerability](https://github.com/Fauzan-Aldi/Log4j-_Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Fauzan-Aldi/Log4j-_Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Fauzan-Aldi/Log4j-_Vulnerability">
 - [DanielFEXKEX/CVE-Scanner](https://github.com/DanielFEXKEX/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DanielFEXKEX/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DanielFEXKEX/CVE-Scanner">
 - [axisops/CVE-2021-44228](https://github.com/axisops/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2021-44228">
+- [cuijiung/log4j-CVE-2021-44228](https://github.com/cuijiung/log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/log4j-CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
