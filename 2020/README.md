@@ -2470,6 +2470,17 @@
 - [Live-Hack-CVE/CVE-2020-26291](https://github.com/Live-Hack-CVE/CVE-2020-26291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26291">
 
 ---
+## CVE-2020-26259 ()
+> 
+- [cuijiung/xstream-CVE-2020-26259](https://github.com/cuijiung/xstream-CVE-2020-26259)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/xstream-CVE-2020-26259">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/xstream-CVE-2020-26259">
+
+---
+## CVE-2020-26258 ()
+> 
+- [cuijiung/xstream-CVE-2020-26258](https://github.com/cuijiung/xstream-CVE-2020-26258)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/xstream-CVE-2020-26258">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/xstream-CVE-2020-26258">
+- [Al1ex/CVE-2020-26258](https://github.com/Al1ex/CVE-2020-26258)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-26258">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-26258">
+
+---
 ## CVE-2020-26257 (2020-12-09T19:15:00)
 > Matrix is an ecosystem for open federated Instant Messaging and VoIP. Synapse is a reference "homeserver" implementation of Matrix. A malicious or poorly-implemented homeserver can inject malformed events into a room by specifying a different room id in the path of a `/send_join`, `/send_leave`, `/invite` or `/exchange_third_party_invite` request. This can lead to a denial of service in which future events will not be correctly sent to other servers over federation. This affects any server which accepts federation requests from untrusted servers. The Matrix Synapse reference implementation before version 1.23.1 the implementation is vulnerable to this injection attack. Issue is fixed in version 1.23.1. As a workaround homeserver administrators could limit access to the federation API to trusted servers (for example via `federation_domain_whitelist`).
 - [Live-Hack-CVE/CVE-2020-26257](https://github.com/Live-Hack-CVE/CVE-2020-26257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26257">
