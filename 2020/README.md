@@ -4653,6 +4653,7 @@
 ## CVE-2020-11989 ()
 > 
 - [cuijiung/shiro-CVE-2020-11989](https://github.com/cuijiung/shiro-CVE-2020-11989)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/shiro-CVE-2020-11989">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/shiro-CVE-2020-11989">
+- [HYWZ36/HYWZ36-CVE-2020-11989-code](https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code)	<img alt="forks" src="https://img.shields.io/github/forks/HYWZ36/HYWZ36-CVE-2020-11989-code">	<img alt="stars" src="https://img.shields.io/github/stars/HYWZ36/HYWZ36-CVE-2020-11989-code">
 
 ---
 ## CVE-2020-11984 ()
