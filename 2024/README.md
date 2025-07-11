@@ -9660,6 +9660,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [Maalfer/CVE-2024-10920-PoC](https://github.com/Maalfer/CVE-2024-10920-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2024-10920-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2024-10920-PoC">
 
 ---
+## CVE-2024-10915 ()
+> 
+- [r0otk3r/CVE-2024-10915](https://github.com/r0otk3r/CVE-2024-10915)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-10915">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-10915">
+
+---
 ## CVE-2024-10914 (2024-11-06T14:15:00)
 > A vulnerability was found in D-Link DNS-320, DNS-320LW, DNS-325 and DNS-340L up to 20241028. It has been declared as critical. Affected by this vulnerability is the function cgi_user_add of the file /cgi-bin/account_mgr.cgi?cmd=cgi_user_add. The manipulation of the argument name leads to os command injection. The attack can be launched remotely. The complexity of an attack is rather high. The exploitation appears to be difficult. The exploit has been disclosed to the public and may be used.
 - [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/imnotcha0s/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/imnotcha0s/CVE-2024-10914">
