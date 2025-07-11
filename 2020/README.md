@@ -2473,6 +2473,8 @@
 ## CVE-2020-26259 ()
 > 
 - [cuijiung/xstream-CVE-2020-26259](https://github.com/cuijiung/xstream-CVE-2020-26259)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/xstream-CVE-2020-26259">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/xstream-CVE-2020-26259">
+- [Al1ex/CVE-2020-26259](https://github.com/Al1ex/CVE-2020-26259)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-26259">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-26259">
+- [jas502n/CVE-2020-26259](https://github.com/jas502n/CVE-2020-26259)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-26259">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-26259">
 
 ---
 ## CVE-2020-26258 ()
@@ -2507,6 +2509,8 @@
 - [Live-Hack-CVE/CVE-2020-26217](https://github.com/Live-Hack-CVE/CVE-2020-26217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26217">
 - [Al1ex/CVE-2020-26217](https://github.com/Al1ex/CVE-2020-26217)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-26217">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-26217">
 - [novysodope/CVE-2020-26217-XStream-RCE-POC](https://github.com/novysodope/CVE-2020-26217-XStream-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/novysodope/CVE-2020-26217-XStream-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/novysodope/CVE-2020-26217-XStream-RCE-POC">
+- [cuijiung/xstream-CVE-2020-26217](https://github.com/cuijiung/xstream-CVE-2020-26217)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/xstream-CVE-2020-26217">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/xstream-CVE-2020-26217">
+- [epicosy/XStream-1](https://github.com/epicosy/XStream-1)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/XStream-1">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/XStream-1">
 
 ---
 ## CVE-2020-26197 (2021-04-20T17:15:00)
