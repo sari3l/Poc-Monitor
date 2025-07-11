@@ -376,6 +376,7 @@
 > 
 - [Wh04m1001/CVE-2025-48799](https://github.com/Wh04m1001/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2025-48799">
 - [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
+- [KOVmechatronics/CVE-2025-48799](https://github.com/KOVmechatronics/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/KOVmechatronics/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/KOVmechatronics/CVE-2025-48799">
 
 ---
 ## CVE-2025-48708 ()
