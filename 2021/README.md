@@ -995,6 +995,8 @@
 - [DanielFEXKEX/CVE-Scanner](https://github.com/DanielFEXKEX/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DanielFEXKEX/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DanielFEXKEX/CVE-Scanner">
 - [axisops/CVE-2021-44228](https://github.com/axisops/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2021-44228">
 - [cuijiung/log4j-CVE-2021-44228](https://github.com/cuijiung/log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/log4j-CVE-2021-44228">
+- [fabioeletto/hka-seminar-log4shell](https://github.com/fabioeletto/hka-seminar-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/fabioeletto/hka-seminar-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/fabioeletto/hka-seminar-log4shell">
+- [vasti123/probable-octo-waddle](https://github.com/vasti123/probable-octo-waddle)	<img alt="forks" src="https://img.shields.io/github/forks/vasti123/probable-octo-waddle">	<img alt="stars" src="https://img.shields.io/github/stars/vasti123/probable-octo-waddle">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)

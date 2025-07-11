@@ -2969,6 +2969,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [Edwins907/CVE-2024-45352-xiaomi](https://github.com/Edwins907/CVE-2024-45352-xiaomi)	<img alt="forks" src="https://img.shields.io/github/forks/Edwins907/CVE-2024-45352-xiaomi">	<img alt="stars" src="https://img.shields.io/github/stars/Edwins907/CVE-2024-45352-xiaomi">
 - [Edwins907/CVE-2024-45352](https://github.com/Edwins907/CVE-2024-45352)	<img alt="forks" src="https://img.shields.io/github/forks/Edwins907/CVE-2024-45352">	<img alt="stars" src="https://img.shields.io/github/stars/Edwins907/CVE-2024-45352">
 - [Edwins907/xiaomi-cve-2024-45352](https://github.com/Edwins907/xiaomi-cve-2024-45352)	<img alt="forks" src="https://img.shields.io/github/forks/Edwins907/xiaomi-cve-2024-45352">	<img alt="stars" src="https://img.shields.io/github/stars/Edwins907/xiaomi-cve-2024-45352">
+- [Edwins907/-CVE-2024-45352](https://github.com/Edwins907/-CVE-2024-45352)	<img alt="forks" src="https://img.shields.io/github/forks/Edwins907/-CVE-2024-45352">	<img alt="stars" src="https://img.shields.io/github/stars/Edwins907/-CVE-2024-45352">
 
 ---
 ## CVE-2024-45337 ()
