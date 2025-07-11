@@ -2367,6 +2367,7 @@
 ## CVE-2025-25257 ()
 > 
 - [barbaraogmgf/CVE-2025-25257](https://github.com/barbaraogmgf/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraogmgf/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraogmgf/CVE-2025-25257">
+- [0xbigshaq/CVE-2025-25257](https://github.com/0xbigshaq/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/0xbigshaq/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/0xbigshaq/CVE-2025-25257">
 
 ---
 ## CVE-2025-252513 ()
