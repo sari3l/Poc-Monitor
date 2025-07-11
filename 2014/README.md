@@ -51,6 +51,7 @@
 - [francescobrina/hfs-cve-2014-6287-exploit](https://github.com/francescobrina/hfs-cve-2014-6287-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/francescobrina/hfs-cve-2014-6287-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/francescobrina/hfs-cve-2014-6287-exploit">
 - [Z3R0-0x30/CVE-2014-6287](https://github.com/Z3R0-0x30/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2014-6287">
 - [10cks/CVE-2014-6287](https://github.com/10cks/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2014-6287">
+- [rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287](https://github.com/rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287">
 
 ---
 ## CVE-2014-6271 (2014-09-24T18:48:00)
