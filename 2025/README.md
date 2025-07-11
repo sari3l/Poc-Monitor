@@ -198,6 +198,11 @@
 - [wrathfulDiety/CVE-2025-52357](https://github.com/wrathfulDiety/CVE-2025-52357)	<img alt="forks" src="https://img.shields.io/github/forks/wrathfulDiety/CVE-2025-52357">	<img alt="stars" src="https://img.shields.io/github/stars/wrathfulDiety/CVE-2025-52357">
 
 ---
+## CVE-2025-52097 ()
+> 
+- [rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097)	<img alt="forks" src="https://img.shields.io/github/forks/rwilsonecs/CVE-2025-52097">	<img alt="stars" src="https://img.shields.io/github/stars/rwilsonecs/CVE-2025-52097">
+
+---
 ## CVE-2025-51046 ()
 > 
 - [0xMesh-X/CVE-2025-51046](https://github.com/0xMesh-X/CVE-2025-51046)	<img alt="forks" src="https://img.shields.io/github/forks/0xMesh-X/CVE-2025-51046">	<img alt="stars" src="https://img.shields.io/github/stars/0xMesh-X/CVE-2025-51046">
