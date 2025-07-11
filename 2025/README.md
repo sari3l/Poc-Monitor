@@ -429,6 +429,7 @@
 - [p1026/CVE-2025-48384](https://github.com/p1026/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/p1026/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/p1026/CVE-2025-48384">
 - [qq1910591211/CVE-2025-48384](https://github.com/qq1910591211/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/qq1910591211/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/qq1910591211/CVE-2025-48384">
 - [qq1910591211/CVE-2025-48384](https://github.com/qq1910591211/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/qq1910591211/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/qq1910591211/CVE-2025-48384">
+- [vinieger/vinieger-CVE-2025-48384-Dockerfile](https://github.com/vinieger/vinieger-CVE-2025-48384-Dockerfile)	<img alt="forks" src="https://img.shields.io/github/forks/vinieger/vinieger-CVE-2025-48384-Dockerfile">	<img alt="stars" src="https://img.shields.io/github/stars/vinieger/vinieger-CVE-2025-48384-Dockerfile">
 
 ---
 ## CVE-2025-4822 ()
