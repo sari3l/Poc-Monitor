@@ -427,6 +427,7 @@
 - [vinieger/CVE-2025-48384-bad-nginx](https://github.com/vinieger/CVE-2025-48384-bad-nginx)	<img alt="forks" src="https://img.shields.io/github/forks/vinieger/CVE-2025-48384-bad-nginx">	<img alt="stars" src="https://img.shields.io/github/stars/vinieger/CVE-2025-48384-bad-nginx">
 - [vinieger/CVE-2025-48384-bad-nginx-submodule](https://github.com/vinieger/CVE-2025-48384-bad-nginx-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/vinieger/CVE-2025-48384-bad-nginx-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/vinieger/CVE-2025-48384-bad-nginx-submodule">
 - [p1026/CVE-2025-48384](https://github.com/p1026/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/p1026/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/p1026/CVE-2025-48384">
+- [qq1910591211/CVE-2025-48384](https://github.com/qq1910591211/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/qq1910591211/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/qq1910591211/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
@@ -1245,6 +1246,7 @@
 - [0xb0rn3/CVE-2025-32463-EXPLOIT](https://github.com/0xb0rn3/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0rn3/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0rn3/CVE-2025-32463-EXPLOIT">
 - [danielsummerton12/sudo-zero-day-CVE-2025-32463](https://github.com/danielsummerton12/sudo-zero-day-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/sudo-zero-day-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/sudo-zero-day-CVE-2025-32463">
 - [danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc](https://github.com/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">
+- [toohau/CVE-2025-32462-32463-Detection-Script-](https://github.com/toohau/CVE-2025-32462-32463-Detection-Script-)	<img alt="forks" src="https://img.shields.io/github/forks/toohau/CVE-2025-32462-32463-Detection-Script-">	<img alt="stars" src="https://img.shields.io/github/stars/toohau/CVE-2025-32462-32463-Detection-Script-">
 
 ---
 ## CVE-2025-32462 ()
