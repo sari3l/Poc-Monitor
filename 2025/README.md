@@ -2046,6 +2046,7 @@
 ## CVE-2025-27591 ()
 > 
 - [obamalaolu/CVE-2025-27591](https://github.com/obamalaolu/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/obamalaolu/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/obamalaolu/CVE-2025-27591">
+- [rvizx/CVE-2025-27591](https://github.com/rvizx/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2025-27591">
 
 ---
 ## CVE-2025-27590 ()
