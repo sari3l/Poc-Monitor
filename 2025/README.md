@@ -2387,6 +2387,7 @@
 - [watchtowrlabs/watchTowr-vs-FortiWeb-CVE-2025-25257](https://github.com/watchtowrlabs/watchTowr-vs-FortiWeb-CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-FortiWeb-CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-FortiWeb-CVE-2025-25257">
 - [adilburaksen/CVE-2025-25257-Exploit-Tool](https://github.com/adilburaksen/CVE-2025-25257-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/adilburaksen/CVE-2025-25257-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/adilburaksen/CVE-2025-25257-Exploit-Tool">
 - [imbas007/CVE-2025-25257](https://github.com/imbas007/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-25257">
+- [imbas007/CVE-2025-25257](https://github.com/imbas007/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-25257">
 
 ---
 ## CVE-2025-252513 ()
