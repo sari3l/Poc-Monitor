@@ -106,6 +106,7 @@
 - [DavidBr27/CVE-2013-3900-Remediation-Script](https://github.com/DavidBr27/CVE-2013-3900-Remediation-Script)	<img alt="forks" src="https://img.shields.io/github/forks/DavidBr27/CVE-2013-3900-Remediation-Script">	<img alt="stars" src="https://img.shields.io/github/stars/DavidBr27/CVE-2013-3900-Remediation-Script">
 - [AdenilsonSantos/WinVerifyTrust](https://github.com/AdenilsonSantos/WinVerifyTrust)	<img alt="forks" src="https://img.shields.io/github/forks/AdenilsonSantos/WinVerifyTrust">	<img alt="stars" src="https://img.shields.io/github/stars/AdenilsonSantos/WinVerifyTrust">
 - [piranhap/CVE-2013-3900_Remediation_PowerShell](https://github.com/piranhap/CVE-2013-3900_Remediation_PowerShell)	<img alt="forks" src="https://img.shields.io/github/forks/piranhap/CVE-2013-3900_Remediation_PowerShell">	<img alt="stars" src="https://img.shields.io/github/stars/piranhap/CVE-2013-3900_Remediation_PowerShell">
+- [pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-](https://github.com/pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-)	<img alt="forks" src="https://img.shields.io/github/forks/pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-">	<img alt="stars" src="https://img.shields.io/github/stars/pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-">
 
 ---
 ## CVE-2013-3827 (2013-10-16T15:55:00)
