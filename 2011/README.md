@@ -63,6 +63,7 @@
 - [Daniel1234mata/vsftpd-backdoor-exploit](https://github.com/Daniel1234mata/vsftpd-backdoor-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Daniel1234mata/vsftpd-backdoor-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Daniel1234mata/vsftpd-backdoor-exploit">
 - [lghost256/vsftpd234-exploit](https://github.com/lghost256/vsftpd234-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lghost256/vsftpd234-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lghost256/vsftpd234-exploit">
 - [JohanMV/explotacion-vsftpd-nmap_Laboratorio_1](https://github.com/JohanMV/explotacion-vsftpd-nmap_Laboratorio_1)	<img alt="forks" src="https://img.shields.io/github/forks/JohanMV/explotacion-vsftpd-nmap_Laboratorio_1">	<img alt="stars" src="https://img.shields.io/github/stars/JohanMV/explotacion-vsftpd-nmap_Laboratorio_1">
+- [krill-x7/CVE-2011-2523](https://github.com/krill-x7/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/krill-x7/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/krill-x7/CVE-2011-2523">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
