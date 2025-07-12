@@ -2879,6 +2879,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [ibrahmsql/CVE-2024-4577](https://github.com/ibrahmsql/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-4577">
 - [byteReaper77/CVE-2024-4577](https://github.com/byteReaper77/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2024-4577">
 - [r0otk3r/CVE-2024-4577](https://github.com/r0otk3r/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-4577">
+- [ZeroMemoryEx/PHP-CGI-INTERNAL-RCE](https://github.com/ZeroMemoryEx/PHP-CGI-INTERNAL-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroMemoryEx/PHP-CGI-INTERNAL-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroMemoryEx/PHP-CGI-INTERNAL-RCE">
 
 ---
 ## CVE-2024-4573 ()
