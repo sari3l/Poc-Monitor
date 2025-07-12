@@ -2474,6 +2474,7 @@
 - [x1ongsec/CVE-2025-24813](https://github.com/x1ongsec/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/x1ongsec/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/x1ongsec/CVE-2025-24813">
 - [yaleman/cve-2025-24813-poc](https://github.com/yaleman/cve-2025-24813-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yaleman/cve-2025-24813-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yaleman/cve-2025-24813-poc">
 - [GongWook/CVE-2025-24813](https://github.com/GongWook/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/GongWook/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/GongWook/CVE-2025-24813">
+- [sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC](https://github.com/sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC">
 
 ---
 ## CVE-2025-24801 ()
