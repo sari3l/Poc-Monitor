@@ -690,6 +690,11 @@
 - [pracharapol/CVE-2025-45960](https://github.com/pracharapol/CVE-2025-45960)	<img alt="forks" src="https://img.shields.io/github/forks/pracharapol/CVE-2025-45960">	<img alt="stars" src="https://img.shields.io/github/stars/pracharapol/CVE-2025-45960">
 
 ---
+## CVE-2025-4593 ()
+> 
+- [karenucqki/CVE-2025-4593](https://github.com/karenucqki/CVE-2025-4593)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-4593">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-4593">
+
+---
 ## CVE-2025-45781 ()
 > 
 - [ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC](https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">
@@ -2826,6 +2831,7 @@
 - [sfewer-r7/CVE-2025-22457](https://github.com/sfewer-r7/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2025-22457">
 - [llussiess/CVE-2025-22457](https://github.com/llussiess/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/llussiess/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/llussiess/CVE-2025-22457">
 - [TRone-ux/CVE-2025-22457](https://github.com/TRone-ux/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/TRone-ux/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/TRone-ux/CVE-2025-22457">
+- [B1ack4sh/Blackash-CVE-2025-22457](https://github.com/B1ack4sh/Blackash-CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-22457">
 
 ---
 ## CVE-2025-2233 ()
