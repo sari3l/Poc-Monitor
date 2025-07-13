@@ -1087,6 +1087,7 @@
 ## CVE-2025-34085 ()
 > 
 - [MrjHaxcore/CVE-2025-34085](https://github.com/MrjHaxcore/CVE-2025-34085)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-34085">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-34085">
+- [ill-deed/CVE-2025-34085-Multi-target](https://github.com/ill-deed/CVE-2025-34085-Multi-target)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/CVE-2025-34085-Multi-target">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/CVE-2025-34085-Multi-target">
 
 ---
 ## CVE-2025-34077 ()
