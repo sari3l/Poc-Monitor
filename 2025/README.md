@@ -72,6 +72,7 @@
 ## CVE-2025-6058 ()
 > 
 - [Nxploited/CVE-2025-6058](https://github.com/Nxploited/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6058">
+- [JayVillain/Scan-CVE-2025-6058](https://github.com/JayVillain/Scan-CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/JayVillain/Scan-CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/JayVillain/Scan-CVE-2025-6058">
 
 ---
 ## CVE-2025-6019 ()
