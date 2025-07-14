@@ -1,6 +1,16 @@
 # 2025 List
 
 ---
+## CVE-2025-7606 ()
+> 
+- [sunhuiHi666/CVE-2025-7606](https://github.com/sunhuiHi666/CVE-2025-7606)	<img alt="forks" src="https://img.shields.io/github/forks/sunhuiHi666/CVE-2025-7606">	<img alt="stars" src="https://img.shields.io/github/stars/sunhuiHi666/CVE-2025-7606">
+
+---
+## CVE-2025-7605 ()
+> 
+- [sunhuiHi666/CVE-2025-7605](https://github.com/sunhuiHi666/CVE-2025-7605)	<img alt="forks" src="https://img.shields.io/github/forks/sunhuiHi666/CVE-2025-7605">	<img alt="stars" src="https://img.shields.io/github/stars/sunhuiHi666/CVE-2025-7605">
+
+---
 ## CVE-2025-6970 ()
 > 
 - [RandomRobbieBF/CVE-2025-6970](https://github.com/RandomRobbieBF/CVE-2025-6970)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-6970">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-6970">
@@ -199,6 +209,11 @@
 - [voyagken/CVE-2025-5280-V8-OOB](https://github.com/voyagken/CVE-2025-5280-V8-OOB)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-5280-V8-OOB">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-5280-V8-OOB">
 
 ---
+## CVE-2025-52488 ()
+> 
+- [SystemVll/CVE-2025-52488](https://github.com/SystemVll/CVE-2025-52488)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2025-52488">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2025-52488">
+
+---
 ## CVE-2025-52357 ()
 > 
 - [wrathfulDiety/CVE-2025-52357](https://github.com/wrathfulDiety/CVE-2025-52357)	<img alt="forks" src="https://img.shields.io/github/forks/wrathfulDiety/CVE-2025-52357">	<img alt="stars" src="https://img.shields.io/github/stars/wrathfulDiety/CVE-2025-52357">
@@ -265,6 +280,7 @@
 > 
 - [MuhammadWaseem29/CVE-2025-49493-Poc](https://github.com/MuhammadWaseem29/CVE-2025-49493-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-49493-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-49493-Poc">
 - [B1ack4sh/Blackash-CVE-2025-49493](https://github.com/B1ack4sh/Blackash-CVE-2025-49493)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-49493">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-49493">
+- [SystemVll/CVE-2025-49493](https://github.com/SystemVll/CVE-2025-49493)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2025-49493">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2025-49493">
 
 ---
 ## CVE-2025-49223 ()
@@ -386,6 +402,7 @@
 - [0xgh057r3c0n/CVE-2025-48827](https://github.com/0xgh057r3c0n/CVE-2025-48827)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-48827">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-48827">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [wiseep/CVE-2025-48827](https://github.com/wiseep/CVE-2025-48827)	<img alt="forks" src="https://img.shields.io/github/forks/wiseep/CVE-2025-48827">	<img alt="stars" src="https://img.shields.io/github/stars/wiseep/CVE-2025-48827">
+- [SystemVll/CVE-2025-48827](https://github.com/SystemVll/CVE-2025-48827)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2025-48827">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2025-48827">
 
 ---
 ## CVE-2025-48799 ()
