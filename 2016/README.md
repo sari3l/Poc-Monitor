@@ -1109,6 +1109,7 @@
 - [Aviksaikat/CVE-2016-0792](https://github.com/Aviksaikat/CVE-2016-0792)	<img alt="forks" src="https://img.shields.io/github/forks/Aviksaikat/CVE-2016-0792">	<img alt="stars" src="https://img.shields.io/github/stars/Aviksaikat/CVE-2016-0792">
 - [R0B1NL1N/java-deserialization-exploits](https://github.com/R0B1NL1N/java-deserialization-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/R0B1NL1N/java-deserialization-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/R0B1NL1N/java-deserialization-exploits">
 - [jpiechowka/jenkins-cve-2016-0792](https://github.com/jpiechowka/jenkins-cve-2016-0792)	<img alt="forks" src="https://img.shields.io/github/forks/jpiechowka/jenkins-cve-2016-0792">	<img alt="stars" src="https://img.shields.io/github/stars/jpiechowka/jenkins-cve-2016-0792">
+- [gonn4cry/CVE-2016-0792](https://github.com/gonn4cry/CVE-2016-0792)	<img alt="forks" src="https://img.shields.io/github/forks/gonn4cry/CVE-2016-0792">	<img alt="stars" src="https://img.shields.io/github/stars/gonn4cry/CVE-2016-0792">
 
 ---
 ## CVE-2016-0778 (2016-01-14T22:59:00)
