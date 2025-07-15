@@ -479,6 +479,7 @@
 - [testsssssssss-sss/CVE-2025-48384](https://github.com/testsssssssss-sss/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testsssssssss-sss/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testsssssssss-sss/CVE-2025-48384">
 - [testsssssssss-sss/CVE-2025-48384](https://github.com/testsssssssss-sss/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testsssssssss-sss/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testsssssssss-sss/CVE-2025-48384">
 - [testsssssssss-sss/CVE-2025-48384](https://github.com/testsssssssss-sss/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testsssssssss-sss/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testsssssssss-sss/CVE-2025-48384">
+- [ECHO6789/CVE-2025-48384-submodule](https://github.com/ECHO6789/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/ECHO6789/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/ECHO6789/CVE-2025-48384-submodule">
 
 ---
 ## CVE-2025-4822 ()
