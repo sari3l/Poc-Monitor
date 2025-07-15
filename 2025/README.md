@@ -182,6 +182,11 @@
 - [DVKunion/CVE-2025-53547-POC](https://github.com/DVKunion/CVE-2025-53547-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DVKunion/CVE-2025-53547-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DVKunion/CVE-2025-53547-POC">
 
 ---
+## CVE-2025-5349 ()
+> 
+- [olimpiofreitas/CVE-2025-5349-Scanner](https://github.com/olimpiofreitas/CVE-2025-5349-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/olimpiofreitas/CVE-2025-5349-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/olimpiofreitas/CVE-2025-5349-Scanner">
+
+---
 ## CVE-2025-5329 ()
 > 
 - [sahici/CVE-2025-5329](https://github.com/sahici/CVE-2025-5329)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-5329">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-5329">
