@@ -1339,6 +1339,7 @@
 - [morgenm/sudo-chroot-CVE-2025-32463](https://github.com/morgenm/sudo-chroot-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/morgenm/sudo-chroot-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/morgenm/sudo-chroot-CVE-2025-32463">
 - [dbarquero/cve-2025-32463-lab](https://github.com/dbarquero/cve-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dbarquero/cve-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dbarquero/cve-2025-32463-lab">
 - [9Insomnie/CVE-2025-32463](https://github.com/9Insomnie/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/9Insomnie/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/9Insomnie/CVE-2025-32463">
+- [MohamedKarrab/CVE-2025-32463](https://github.com/MohamedKarrab/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/MohamedKarrab/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/MohamedKarrab/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
