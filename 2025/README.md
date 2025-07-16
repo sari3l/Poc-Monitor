@@ -144,6 +144,7 @@
 - [0xgh057r3c0n/CVE-2025-5777](https://github.com/0xgh057r3c0n/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-5777">
 - [Jishanluhar/CVE-2025-5777](https://github.com/Jishanluhar/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Jishanluhar/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Jishanluhar/CVE-2025-5777">
 - [SleepNotF0und/CVE-2025-5777](https://github.com/SleepNotF0und/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/SleepNotF0und/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/SleepNotF0und/CVE-2025-5777">
+- [B1ack4sh/Blackash-CVE-2025-5777](https://github.com/B1ack4sh/Blackash-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-5777">
 
 ---
 ## CVE-2025-5755 ()
