@@ -2872,6 +2872,7 @@
 ## CVE-2025-22870 ()
 > 
 - [JoshuaProvoste/CVE-2025-22870](https://github.com/JoshuaProvoste/CVE-2025-22870)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/CVE-2025-22870">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/CVE-2025-22870">
+- [B1ack4sh/Blackash-CVE-2025-22870](https://github.com/B1ack4sh/Blackash-CVE-2025-22870)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-22870">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-22870">
 
 ---
 ## CVE-2025-22828 ()
