@@ -1467,6 +1467,7 @@
 - [leesh3288/CVE-2025-32023](https://github.com/leesh3288/CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/leesh3288/CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/leesh3288/CVE-2025-32023">
 - [B1ack4sh/Blackash-CVE-2025-32023](https://github.com/B1ack4sh/Blackash-CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-32023">
 - [atomicjjbod/CVE-2025-32023](https://github.com/atomicjjbod/CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/atomicjjbod/CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/atomicjjbod/CVE-2025-32023">
+- [miscve/CVE-2025-32023](https://github.com/miscve/CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/miscve/CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/miscve/CVE-2025-32023">
 
 ---
 ## CVE-2025-32013 ()
