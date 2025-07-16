@@ -182,7 +182,7 @@
 - [davcwikla/CVE-2019-9053-exploit](https://github.com/davcwikla/CVE-2019-9053-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/davcwikla/CVE-2019-9053-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/davcwikla/CVE-2019-9053-exploit">
 - [BjarneVerschorre/CVE-2019-9053](https://github.com/BjarneVerschorre/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/BjarneVerschorre/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/BjarneVerschorre/CVE-2019-9053">
 - [Jason-Siu/CVE-2019-9053-Exploit-in-Python-3](https://github.com/Jason-Siu/CVE-2019-9053-Exploit-in-Python-3)	<img alt="forks" src="https://img.shields.io/github/forks/Jason-Siu/CVE-2019-9053-Exploit-in-Python-3">	<img alt="stars" src="https://img.shields.io/github/stars/Jason-Siu/CVE-2019-9053-Exploit-in-Python-3">
-- [FedericoTorres233/CVE-2019-9053-Fixed](https://github.com/FedericoTorres233/CVE-2019-9053-Fixed)	<img alt="forks" src="https://img.shields.io/github/forks/FedericoTorres233/CVE-2019-9053-Fixed">	<img alt="stars" src="https://img.shields.io/github/stars/FedericoTorres233/CVE-2019-9053-Fixed">
+- [0xftorres/CVE-2019-9053-Fixed](https://github.com/0xftorres/CVE-2019-9053-Fixed)	<img alt="forks" src="https://img.shields.io/github/forks/0xftorres/CVE-2019-9053-Fixed">	<img alt="stars" src="https://img.shields.io/github/stars/0xftorres/CVE-2019-9053-Fixed">
 - [TeymurNovruzov/CVE-2019-9053-python3-remastered](https://github.com/TeymurNovruzov/CVE-2019-9053-python3-remastered)	<img alt="forks" src="https://img.shields.io/github/forks/TeymurNovruzov/CVE-2019-9053-python3-remastered">	<img alt="stars" src="https://img.shields.io/github/stars/TeymurNovruzov/CVE-2019-9053-python3-remastered">
 - [Dh4nuJ4/SimpleCTF-UpdatedExploit](https://github.com/Dh4nuJ4/SimpleCTF-UpdatedExploit)	<img alt="forks" src="https://img.shields.io/github/forks/Dh4nuJ4/SimpleCTF-UpdatedExploit">	<img alt="stars" src="https://img.shields.io/github/stars/Dh4nuJ4/SimpleCTF-UpdatedExploit">
 - [jtoalu/CTF-CVE-2019-9053-GTFOBins](https://github.com/jtoalu/CTF-CVE-2019-9053-GTFOBins)	<img alt="forks" src="https://img.shields.io/github/forks/jtoalu/CTF-CVE-2019-9053-GTFOBins">	<img alt="stars" src="https://img.shields.io/github/stars/jtoalu/CTF-CVE-2019-9053-GTFOBins">
@@ -196,6 +196,7 @@
 - [kaizoku73/CVE-2019-9053](https://github.com/kaizoku73/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/kaizoku73/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/kaizoku73/CVE-2019-9053">
 - [Hackheart-tech/-exploit-lab](https://github.com/Hackheart-tech/-exploit-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Hackheart-tech/-exploit-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Hackheart-tech/-exploit-lab">
 - [RossKeddy/CVE-2019-9053](https://github.com/RossKeddy/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/RossKeddy/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/RossKeddy/CVE-2019-9053">
+- [Kalidas-7/CVE-2019-9053](https://github.com/Kalidas-7/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/Kalidas-7/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/Kalidas-7/CVE-2019-9053">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
