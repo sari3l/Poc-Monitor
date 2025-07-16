@@ -2165,6 +2165,11 @@
 - [absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ](https://github.com/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ">
 
 ---
+## CVE-2025-27521 ()
+> 
+- [alialucas7/CVE-2025-27521_PoC](https://github.com/alialucas7/CVE-2025-27521_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alialucas7/CVE-2025-27521_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alialucas7/CVE-2025-27521_PoC">
+
+---
 ## CVE-2025-27415 ()
 > 
 - [jiseoung/CVE-2025-27415-PoC](https://github.com/jiseoung/CVE-2025-27415-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jiseoung/CVE-2025-27415-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jiseoung/CVE-2025-27415-PoC">
