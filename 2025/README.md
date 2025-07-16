@@ -173,6 +173,11 @@
 - [itsShotgun/chrome_cve-2025-5419_checker](https://github.com/itsShotgun/chrome_cve-2025-5419_checker)	<img alt="forks" src="https://img.shields.io/github/forks/itsShotgun/chrome_cve-2025-5419_checker">	<img alt="stars" src="https://img.shields.io/github/stars/itsShotgun/chrome_cve-2025-5419_checker">
 
 ---
+## CVE-2025-53964 ()
+> 
+- [tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964)	<img alt="forks" src="https://img.shields.io/github/forks/tigr78/CVE-2025-53964">	<img alt="stars" src="https://img.shields.io/github/stars/tigr78/CVE-2025-53964">
+
+---
 ## CVE-2025-53833 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-53833](https://github.com/B1ack4sh/Blackash-CVE-2025-53833)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53833">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53833">
