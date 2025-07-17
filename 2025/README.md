@@ -540,6 +540,7 @@
 - [ill-deed/WingFTP-CVE-2025-47812-illdeed](https://github.com/ill-deed/WingFTP-CVE-2025-47812-illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/WingFTP-CVE-2025-47812-illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/WingFTP-CVE-2025-47812-illdeed">
 - [pevinkumar10/CVE-2025-47812](https://github.com/pevinkumar10/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/pevinkumar10/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/pevinkumar10/CVE-2025-47812">
 - [rxerium/CVE-2025-47812](https://github.com/rxerium/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-47812">
+- [blindma1den/CVE-2025-47812](https://github.com/blindma1den/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/blindma1den/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/blindma1den/CVE-2025-47812">
 
 ---
 ## CVE-2025-47810 ()
