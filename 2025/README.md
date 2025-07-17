@@ -502,6 +502,7 @@
 - [testsssssssss-sss/CVE-2025-48384](https://github.com/testsssssssss-sss/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testsssssssss-sss/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testsssssssss-sss/CVE-2025-48384">
 - [ECHO6789/CVE-2025-48384-submodule](https://github.com/ECHO6789/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/ECHO6789/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/ECHO6789/CVE-2025-48384-submodule">
 - [nguyentranbaotran/cve-2025-48384-poc](https://github.com/nguyentranbaotran/cve-2025-48384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nguyentranbaotran/cve-2025-48384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nguyentranbaotran/cve-2025-48384-poc">
+- [admin-ping/CVE-2025-48384-RCE](https://github.com/admin-ping/CVE-2025-48384-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/admin-ping/CVE-2025-48384-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/admin-ping/CVE-2025-48384-RCE">
 
 ---
 ## CVE-2025-4822 ()
