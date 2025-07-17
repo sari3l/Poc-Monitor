@@ -1363,6 +1363,7 @@
 - [krypton-0x00/CVE-2025-32463-Chwoot-POC](https://github.com/krypton-0x00/CVE-2025-32463-Chwoot-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krypton-0x00/CVE-2025-32463-Chwoot-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krypton-0x00/CVE-2025-32463-Chwoot-POC">
 - [Floodnut/CVE-2025-32463](https://github.com/Floodnut/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Floodnut/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Floodnut/CVE-2025-32463">
 - [92gmuz/CVE-2025-32463](https://github.com/92gmuz/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/92gmuz/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/92gmuz/CVE-2025-32463">
+- [Rajneeshkarya/CVE-2025-32463](https://github.com/Rajneeshkarya/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Rajneeshkarya/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Rajneeshkarya/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
