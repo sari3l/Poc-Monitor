@@ -45,6 +45,7 @@
 ## CVE-2025-6558 ()
 > 
 - [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
+- [allinsthon/CVE-2025-6558](https://github.com/allinsthon/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-6558">
 
 ---
 ## CVE-2025-6554 ()
@@ -1775,6 +1776,7 @@
 - [mouadk/parquet-rce-poc-CVE-2025-30065](https://github.com/mouadk/parquet-rce-poc-CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/parquet-rce-poc-CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/parquet-rce-poc-CVE-2025-30065">
 - [ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation](https://github.com/ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation">
 - [F5-Labs/parquet-canary-exploit-rce-poc-CVE-2025-30065](https://github.com/F5-Labs/parquet-canary-exploit-rce-poc-CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/F5-Labs/parquet-canary-exploit-rce-poc-CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/F5-Labs/parquet-canary-exploit-rce-poc-CVE-2025-30065">
+- [B1ack4sh/Blackash-CVE-2025-30065](https://github.com/B1ack4sh/Blackash-CVE-2025-30065)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-30065">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-30065">
 
 ---
 ## CVE-2025-29972 ()
