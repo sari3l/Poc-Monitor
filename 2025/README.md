@@ -657,6 +657,11 @@
 - [amalmurali47/cve-2025-4664](https://github.com/amalmurali47/cve-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/amalmurali47/cve-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/amalmurali47/cve-2025-4664">
 
 ---
+## CVE-2025-4660 ()
+> 
+- [NetSPI/CVE-2025-4660](https://github.com/NetSPI/CVE-2025-4660)	<img alt="forks" src="https://img.shields.io/github/forks/NetSPI/CVE-2025-4660">	<img alt="stars" src="https://img.shields.io/github/stars/NetSPI/CVE-2025-4660">
+
+---
 ## CVE-2025-4632 ()
 > 
 - [MantisToboggan-git/CVE-2025-4632-POC](https://github.com/MantisToboggan-git/CVE-2025-4632-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MantisToboggan-git/CVE-2025-4632-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MantisToboggan-git/CVE-2025-4632-POC">
