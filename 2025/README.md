@@ -42,6 +42,11 @@
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
 
 ---
+## CVE-2025-6558 ()
+> 
+- [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
+
+---
 ## CVE-2025-6554 ()
 > 
 - [rbaicba/CVE-2025-6554](https://github.com/rbaicba/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-6554">
