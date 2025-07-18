@@ -5955,6 +5955,10 @@
 ## CVE-2021-32099 ()
 > 
 - [magicrc/CVE-2021-32099](https://github.com/magicrc/CVE-2021-32099)	<img alt="forks" src="https://img.shields.io/github/forks/magicrc/CVE-2021-32099">	<img alt="stars" src="https://img.shields.io/github/stars/magicrc/CVE-2021-32099">
+- [akr3ch/CVE-2021-32099](https://github.com/akr3ch/CVE-2021-32099)	<img alt="forks" src="https://img.shields.io/github/forks/akr3ch/CVE-2021-32099">	<img alt="stars" src="https://img.shields.io/github/stars/akr3ch/CVE-2021-32099">
+- [l3eol3eo/CVE-2021-32099_SQLi](https://github.com/l3eol3eo/CVE-2021-32099_SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/l3eol3eo/CVE-2021-32099_SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/l3eol3eo/CVE-2021-32099_SQLi">
+- [ibnuuby/CVE-2021-32099](https://github.com/ibnuuby/CVE-2021-32099)	<img alt="forks" src="https://img.shields.io/github/forks/ibnuuby/CVE-2021-32099">	<img alt="stars" src="https://img.shields.io/github/stars/ibnuuby/CVE-2021-32099">
+- [zjicmDarkWing/CVE-2021-32099](https://github.com/zjicmDarkWing/CVE-2021-32099)	<img alt="forks" src="https://img.shields.io/github/forks/zjicmDarkWing/CVE-2021-32099">	<img alt="stars" src="https://img.shields.io/github/stars/zjicmDarkWing/CVE-2021-32099">
 
 ---
 ## CVE-2021-32028 (2021-10-11T17:15:00)
