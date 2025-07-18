@@ -2164,6 +2164,7 @@
 - [DarksBlackSk/CVE-2025-27591](https://github.com/DarksBlackSk/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/DarksBlackSk/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/DarksBlackSk/CVE-2025-27591">
 - [dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591](https://github.com/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">
 - [alialucas7/CVE-2025-27591_PoC](https://github.com/alialucas7/CVE-2025-27591_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alialucas7/CVE-2025-27591_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alialucas7/CVE-2025-27591_PoC">
+- [incommatose/CVE-2025-27591-PoC](https://github.com/incommatose/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/incommatose/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/incommatose/CVE-2025-27591-PoC">
 
 ---
 ## CVE-2025-27590 ()
