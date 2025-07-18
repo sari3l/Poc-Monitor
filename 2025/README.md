@@ -620,6 +620,11 @@
 - [encrypter15/CVE-2025-47181](https://github.com/encrypter15/CVE-2025-47181)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-47181">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-47181">
 
 ---
+## CVE-2025-47176 ()
+> 
+- [mahyarx/CVE-2025-47176](https://github.com/mahyarx/CVE-2025-47176)	<img alt="forks" src="https://img.shields.io/github/forks/mahyarx/CVE-2025-47176">	<img alt="stars" src="https://img.shields.io/github/stars/mahyarx/CVE-2025-47176">
+
+---
 ## CVE-2025-4688 ()
 > 
 - [sahici/CVE-2025-4688](https://github.com/sahici/CVE-2025-4688)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4688">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4688">
