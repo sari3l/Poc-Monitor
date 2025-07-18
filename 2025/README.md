@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-7783 ()
+> 
+- [benweissmann/CVE-2025-7783-poc](https://github.com/benweissmann/CVE-2025-7783-poc)	<img alt="forks" src="https://img.shields.io/github/forks/benweissmann/CVE-2025-7783-poc">	<img alt="stars" src="https://img.shields.io/github/stars/benweissmann/CVE-2025-7783-poc">
+
+---
 ## CVE-2025-7753 ()
 > 
 - [byteReaper77/CVE-2025-7753](https://github.com/byteReaper77/CVE-2025-7753)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-7753">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-7753">
