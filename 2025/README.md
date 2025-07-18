@@ -205,6 +205,11 @@
 - [olimpiofreitas/CVE-2025-5349-Scanner](https://github.com/olimpiofreitas/CVE-2025-5349-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/olimpiofreitas/CVE-2025-5349-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/olimpiofreitas/CVE-2025-5349-Scanner">
 
 ---
+## CVE-2025-53367 ()
+> 
+- [kevinbackhouse/DjVuLibre-poc-CVE-2025-53367](https://github.com/kevinbackhouse/DjVuLibre-poc-CVE-2025-53367)	<img alt="forks" src="https://img.shields.io/github/forks/kevinbackhouse/DjVuLibre-poc-CVE-2025-53367">	<img alt="stars" src="https://img.shields.io/github/stars/kevinbackhouse/DjVuLibre-poc-CVE-2025-53367">
+
+---
 ## CVE-2025-5329 ()
 > 
 - [sahici/CVE-2025-5329](https://github.com/sahici/CVE-2025-5329)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-5329">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-5329">
