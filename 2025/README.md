@@ -407,6 +407,7 @@
 - [5kr1pt/Roundcube_CVE-2025-49113](https://github.com/5kr1pt/Roundcube_CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/Roundcube_CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/Roundcube_CVE-2025-49113">
 - [punitdarji/roundcube-cve-2025-49113](https://github.com/punitdarji/roundcube-cve-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/roundcube-cve-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/roundcube-cve-2025-49113">
 - [issamjr/CVE-2025-49113-Scanner](https://github.com/issamjr/CVE-2025-49113-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-49113-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-49113-Scanner">
+- [Joelp03/CVE-2025-49113](https://github.com/Joelp03/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/Joelp03/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/Joelp03/CVE-2025-49113">
 
 ---
 ## CVE-2025-49029 ()
