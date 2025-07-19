@@ -8921,6 +8921,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Chocapikk/CVE-2024-20767](https://github.com/Chocapikk/CVE-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-20767">
 - [huyqa/cve-2024-20767](https://github.com/huyqa/cve-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/huyqa/cve-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/huyqa/cve-2024-20767">
 - [Praison001/CVE-2024-20767-Adobe-ColdFusion](https://github.com/Praison001/CVE-2024-20767-Adobe-ColdFusion)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-20767-Adobe-ColdFusion">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-20767-Adobe-ColdFusion">
+- [alm6no5/CVE-2024-20767](https://github.com/alm6no5/CVE-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/alm6no5/CVE-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/alm6no5/CVE-2024-20767">
 
 ---
 ## CVE-2024-20746 (2024-03-18T15:15:00)
