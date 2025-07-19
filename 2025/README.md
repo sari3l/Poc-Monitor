@@ -1698,6 +1698,11 @@
 - [Nxploited/CVE-2025-30772](https://github.com/Nxploited/CVE-2025-30772)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-30772">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-30772">
 
 ---
+## CVE-2025-30762 ()
+> 
+- [Sinelesmeas/CVE-2025-30762-Weblogic-vulnerability-analysis](https://github.com/Sinelesmeas/CVE-2025-30762-Weblogic-vulnerability-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Sinelesmeas/CVE-2025-30762-Weblogic-vulnerability-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Sinelesmeas/CVE-2025-30762-Weblogic-vulnerability-analysis">
+
+---
 ## CVE-2025-30727 ()
 > 
 - [HExploited/CVE-2025-30727-Exploit](https://github.com/HExploited/CVE-2025-30727-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HExploited/CVE-2025-30727-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HExploited/CVE-2025-30727-Exploit">
