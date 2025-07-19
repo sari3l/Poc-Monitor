@@ -2629,6 +2629,7 @@
 - [0xgh057r3c0n/CVE-2025-25257](https://github.com/0xgh057r3c0n/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-25257">
 - [aitorfirm/CVE-2025-25257](https://github.com/aitorfirm/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/aitorfirm/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/aitorfirm/CVE-2025-25257">
 - [mrmtwoj/CVE-2025-25257](https://github.com/mrmtwoj/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/CVE-2025-25257">
+- [TheStingR/CVE-2025-25257](https://github.com/TheStingR/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-25257">
 
 ---
 ## CVE-2025-252513 ()
