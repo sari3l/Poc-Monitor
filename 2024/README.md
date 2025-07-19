@@ -2631,9 +2631,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [TaliBander/CVE-2024-47575](https://github.com/TaliBander/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/TaliBander/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/TaliBander/CVE-2024-47575">
 - [watchtowrlabs/Fortijump-Exploit-CVE-2024-47575](https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">
 - [expl0itsecurity/CVE-2024-47575](https://github.com/expl0itsecurity/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-47575">
-- [skyalliance/exploit-cve-2024-47575](https://github.com/skyalliance/exploit-cve-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/skyalliance/exploit-cve-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/skyalliance/exploit-cve-2024-47575">
+- [SkyGodling/exploit-cve-2024-47575](https://github.com/SkyGodling/exploit-cve-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/SkyGodling/exploit-cve-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/SkyGodling/exploit-cve-2024-47575">
 - [XiaomingX/cve-2024-47575-exp](https://github.com/XiaomingX/cve-2024-47575-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-47575-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-47575-exp">
 - [Axi0n1ze/CVE-2024-47575-POC](https://github.com/Axi0n1ze/CVE-2024-47575-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Axi0n1ze/CVE-2024-47575-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Axi0n1ze/CVE-2024-47575-POC">
+- [AnnnNix/CVE-2024-47575](https://github.com/AnnnNix/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/AnnnNix/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/AnnnNix/CVE-2024-47575">
+- [revanslbw/CVE-2024-47575-POC](https://github.com/revanslbw/CVE-2024-47575-POC)	<img alt="forks" src="https://img.shields.io/github/forks/revanslbw/CVE-2024-47575-POC">	<img alt="stars" src="https://img.shields.io/github/stars/revanslbw/CVE-2024-47575-POC">
 
 ---
 ## CVE-2024-47533 ()
