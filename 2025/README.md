@@ -1417,6 +1417,7 @@
 - [92gmuz/CVE-2025-32463](https://github.com/92gmuz/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/92gmuz/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/92gmuz/CVE-2025-32463">
 - [Rajneeshkarya/CVE-2025-32463](https://github.com/Rajneeshkarya/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Rajneeshkarya/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Rajneeshkarya/CVE-2025-32463">
 - [MGunturG/CVE-2025-32463](https://github.com/MGunturG/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/MGunturG/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/MGunturG/CVE-2025-32463">
+- [Maalfer/Sudo-CVE-2021-3156](https://github.com/Maalfer/Sudo-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/Sudo-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/Sudo-CVE-2021-3156">
 
 ---
 ## CVE-2025-32462 ()
@@ -2876,6 +2877,11 @@
 > 
 - [hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2025-23369">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2025-23369">
 - [Arian91/CVE-2025-23369_SAML_bypass](https://github.com/Arian91/CVE-2025-23369_SAML_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Arian91/CVE-2025-23369_SAML_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Arian91/CVE-2025-23369_SAML_bypass">
+
+---
+## CVE-2025-23266 ()
+> 
+- [jpts/cve-2025-23266-poc](https://github.com/jpts/cve-2025-23266-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jpts/cve-2025-23266-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jpts/cve-2025-23266-poc">
 
 ---
 ## CVE-2025-23245655 ()
