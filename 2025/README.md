@@ -1095,6 +1095,7 @@
 ## CVE-2025-41646 ()
 > 
 - [cyberre124/CVE-2025-41646---Critical-Authentication-Bypass-](https://github.com/cyberre124/CVE-2025-41646---Critical-Authentication-Bypass-)	<img alt="forks" src="https://img.shields.io/github/forks/cyberre124/CVE-2025-41646---Critical-Authentication-Bypass-">	<img alt="stars" src="https://img.shields.io/github/stars/cyberre124/CVE-2025-41646---Critical-Authentication-Bypass-">
+- [r0otk3r/CVE-2025-41646](https://github.com/r0otk3r/CVE-2025-41646)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-41646">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-41646">
 
 ---
 ## CVE-2025-4162030 ()
