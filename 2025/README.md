@@ -288,6 +288,11 @@
 - [rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097)	<img alt="forks" src="https://img.shields.io/github/forks/rwilsonecs/CVE-2025-52097">	<img alt="stars" src="https://img.shields.io/github/stars/rwilsonecs/CVE-2025-52097">
 
 ---
+## CVE-2025-51867 ()
+> 
+- [Secsys-FDU/CVE-2025-51867](https://github.com/Secsys-FDU/CVE-2025-51867)	<img alt="forks" src="https://img.shields.io/github/forks/Secsys-FDU/CVE-2025-51867">	<img alt="stars" src="https://img.shields.io/github/stars/Secsys-FDU/CVE-2025-51867">
+
+---
 ## CVE-2025-51865 ()
 > 
 - [Secsys-FDU/CVE-2025-51865](https://github.com/Secsys-FDU/CVE-2025-51865)	<img alt="forks" src="https://img.shields.io/github/forks/Secsys-FDU/CVE-2025-51865">	<img alt="stars" src="https://img.shields.io/github/stars/Secsys-FDU/CVE-2025-51865">
