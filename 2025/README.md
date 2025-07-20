@@ -420,6 +420,11 @@
 - [HExploited/CVE-2025-49719-Exploit](https://github.com/HExploited/CVE-2025-49719-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HExploited/CVE-2025-49719-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HExploited/CVE-2025-49719-Exploit">
 
 ---
+## CVE-2025-49706 ()
+> 
+- [AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation](https://github.com/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation">
+
+---
 ## CVE-2025-49619 ()
 > 
 - [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619)	<img alt="forks" src="https://img.shields.io/github/forks/cristibtz/CVE-2025-49619">	<img alt="stars" src="https://img.shields.io/github/stars/cristibtz/CVE-2025-49619">
