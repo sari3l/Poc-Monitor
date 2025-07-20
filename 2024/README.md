@@ -1578,7 +1578,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [SeanRickerd/CVE-2024-53677](https://github.com/SeanRickerd/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/SeanRickerd/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/SeanRickerd/CVE-2024-53677">
 - [hopsypopsy8/CVE-2024-53677-Exploitation](https://github.com/hopsypopsy8/CVE-2024-53677-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/hopsypopsy8/CVE-2024-53677-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/hopsypopsy8/CVE-2024-53677-Exploitation">
 - [shishirghimir/CVE-2024-53677-Exploit](https://github.com/shishirghimir/CVE-2024-53677-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shishirghimir/CVE-2024-53677-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shishirghimir/CVE-2024-53677-Exploit">
-- [WhoisBulud/CVE-2024-53677](https://github.com/WhoisBulud/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/WhoisBulud/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/WhoisBulud/CVE-2024-53677">
+- [BuludX/CVE-2024-53677](https://github.com/BuludX/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/BuludX/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/BuludX/CVE-2024-53677">
 - [r007sec/CVE-2024-53677](https://github.com/r007sec/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/r007sec/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/r007sec/CVE-2024-53677">
 
 ---
