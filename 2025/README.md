@@ -635,6 +635,7 @@
 - [admin-ping/CVE-2025-48384-RCE](https://github.com/admin-ping/CVE-2025-48384-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/admin-ping/CVE-2025-48384-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/admin-ping/CVE-2025-48384-RCE">
 - [simplyfurious/CVE-2025-48384-submodule_test](https://github.com/simplyfurious/CVE-2025-48384-submodule_test)	<img alt="forks" src="https://img.shields.io/github/forks/simplyfurious/CVE-2025-48384-submodule_test">	<img alt="stars" src="https://img.shields.io/github/stars/simplyfurious/CVE-2025-48384-submodule_test">
 - [Anezatraa/CVE-2025-48384-submodule](https://github.com/Anezatraa/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/Anezatraa/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/Anezatraa/CVE-2025-48384-submodule">
+- [IK-20211125/CVE-2025-48384](https://github.com/IK-20211125/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/IK-20211125/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/IK-20211125/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
