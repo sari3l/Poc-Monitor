@@ -2234,6 +2234,11 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [bde574786/CVE-2023-4300](https://github.com/bde574786/CVE-2023-4300)	<img alt="forks" src="https://img.shields.io/github/forks/bde574786/CVE-2023-4300">	<img alt="stars" src="https://img.shields.io/github/stars/bde574786/CVE-2023-4300">
 
 ---
+## CVE-2023-42961 ()
+> 
+- [windz3r0day/CVE-2023-42961](https://github.com/windz3r0day/CVE-2023-42961)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2023-42961">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2023-42961">
+
+---
 ## CVE-2023-4294 (2023-09-11T20:15:00)
 > The URL Shortify WordPress plugin before 1.7.6 does not properly escape the value of the referer header, thus allowing an unauthenticated attacker to inject malicious javascript that will trigger in the plugins admin panel with statistics of the created short link.
 - [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4294">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4294">
