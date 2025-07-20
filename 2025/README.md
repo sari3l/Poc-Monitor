@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-7840 ()
+> 
+- [byteReaper77/CVE-2025-7840](https://github.com/byteReaper77/CVE-2025-7840)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-7840">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-7840">
+
+---
 ## CVE-2025-7795 ()
 > 
 - [byteReaper77/CVE-2025-7795](https://github.com/byteReaper77/CVE-2025-7795)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-7795">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-7795">
@@ -1511,6 +1516,7 @@
 - [Rajneeshkarya/CVE-2025-32463](https://github.com/Rajneeshkarya/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Rajneeshkarya/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Rajneeshkarya/CVE-2025-32463">
 - [MGunturG/CVE-2025-32463](https://github.com/MGunturG/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/MGunturG/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/MGunturG/CVE-2025-32463">
 - [Maalfer/Sudo-CVE-2021-3156](https://github.com/Maalfer/Sudo-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/Sudo-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/Sudo-CVE-2021-3156">
+- [daryllundy/CVE-2025-32463](https://github.com/daryllundy/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
