@@ -1517,6 +1517,7 @@
 - [MGunturG/CVE-2025-32463](https://github.com/MGunturG/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/MGunturG/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/MGunturG/CVE-2025-32463">
 - [Maalfer/Sudo-CVE-2021-3156](https://github.com/Maalfer/Sudo-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/Sudo-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/Sudo-CVE-2021-3156">
 - [daryllundy/CVE-2025-32463](https://github.com/daryllundy/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/CVE-2025-32463">
+- [IC3-512/linux-root-kit](https://github.com/IC3-512/linux-root-kit)	<img alt="forks" src="https://img.shields.io/github/forks/IC3-512/linux-root-kit">	<img alt="stars" src="https://img.shields.io/github/stars/IC3-512/linux-root-kit">
 
 ---
 ## CVE-2025-32462 ()
