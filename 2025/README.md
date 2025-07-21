@@ -295,6 +295,7 @@
 > 
 - [SystemVll/CVE-2025-52488](https://github.com/SystemVll/CVE-2025-52488)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2025-52488">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2025-52488">
 - [abisonbinoy/CVE-2025-52488-poc](https://github.com/abisonbinoy/CVE-2025-52488-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abisonbinoy/CVE-2025-52488-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abisonbinoy/CVE-2025-52488-poc">
+- [abisonbinoy/CVE-2025-52488-poc](https://github.com/abisonbinoy/CVE-2025-52488-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abisonbinoy/CVE-2025-52488-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abisonbinoy/CVE-2025-52488-poc">
 
 ---
 ## CVE-2025-52357 ()
