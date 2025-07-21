@@ -128,6 +128,7 @@
 > 
 - [mistrust999/CVE-2025-6018-6019-Metasploit](https://github.com/mistrust999/CVE-2025-6018-6019-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrust999/CVE-2025-6018-6019-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrust999/CVE-2025-6018-6019-Metasploit">
 - [iamgithubber/CVE-2025-6018-19-exploit](https://github.com/iamgithubber/CVE-2025-6018-19-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iamgithubber/CVE-2025-6018-19-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iamgithubber/CVE-2025-6018-19-exploit">
+- [dreysanox/CVE-2025-6018_Poc](https://github.com/dreysanox/CVE-2025-6018_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dreysanox/CVE-2025-6018_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dreysanox/CVE-2025-6018_Poc">
 
 ---
 ## CVE-2025-5964 ()
@@ -1540,6 +1541,7 @@
 - [Maalfer/Sudo-CVE-2021-3156](https://github.com/Maalfer/Sudo-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/Sudo-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/Sudo-CVE-2021-3156">
 - [daryllundy/CVE-2025-32463](https://github.com/daryllundy/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/CVE-2025-32463">
 - [IC3-512/linux-root-kit](https://github.com/IC3-512/linux-root-kit)	<img alt="forks" src="https://img.shields.io/github/forks/IC3-512/linux-root-kit">	<img alt="stars" src="https://img.shields.io/github/stars/IC3-512/linux-root-kit">
+- [AdityaBhatt3010/CVE-2025-32463-CVE-2025-32462-Sudo-Privilege-Escalation](https://github.com/AdityaBhatt3010/CVE-2025-32463-CVE-2025-32462-Sudo-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-32463-CVE-2025-32462-Sudo-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-32463-CVE-2025-32462-Sudo-Privilege-Escalation">
 
 ---
 ## CVE-2025-32462 ()
