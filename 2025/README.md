@@ -213,6 +213,7 @@
 ## CVE-2025-53770 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-53770](https://github.com/B1ack4sh/Blackash-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53770">
+- [RukshanaAlikhan/CVE-2025-53770](https://github.com/RukshanaAlikhan/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/RukshanaAlikhan/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/RukshanaAlikhan/CVE-2025-53770">
 
 ---
 ## CVE-2025-53640 ()
