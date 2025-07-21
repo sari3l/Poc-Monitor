@@ -224,6 +224,7 @@
 - [hazcod/CVE-2025-53770](https://github.com/hazcod/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/hazcod/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/hazcod/CVE-2025-53770">
 - [siag-itsec/CVE-2025-53770-Hunting](https://github.com/siag-itsec/CVE-2025-53770-Hunting)	<img alt="forks" src="https://img.shields.io/github/forks/siag-itsec/CVE-2025-53770-Hunting">	<img alt="stars" src="https://img.shields.io/github/stars/siag-itsec/CVE-2025-53770-Hunting">
 - [ZephrFish/CVE-2025-53770-Scanner](https://github.com/ZephrFish/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2025-53770-Scanner">
+- [grupooruss/CVE-2025-53770-Checker](https://github.com/grupooruss/CVE-2025-53770-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/CVE-2025-53770-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/CVE-2025-53770-Checker">
 
 ---
 ## CVE-2025-53640 ()
