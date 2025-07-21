@@ -222,6 +222,8 @@
 - [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-53770-Exploit">
 - [paolokappa/SharePointSecurityMonitor](https://github.com/paolokappa/SharePointSecurityMonitor)	<img alt="forks" src="https://img.shields.io/github/forks/paolokappa/SharePointSecurityMonitor">	<img alt="stars" src="https://img.shields.io/github/stars/paolokappa/SharePointSecurityMonitor">
 - [hazcod/CVE-2025-53770](https://github.com/hazcod/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/hazcod/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/hazcod/CVE-2025-53770">
+- [siag-itsec/CVE-2025-53770-Hunting](https://github.com/siag-itsec/CVE-2025-53770-Hunting)	<img alt="forks" src="https://img.shields.io/github/forks/siag-itsec/CVE-2025-53770-Hunting">	<img alt="stars" src="https://img.shields.io/github/stars/siag-itsec/CVE-2025-53770-Hunting">
+- [ZephrFish/CVE-2025-53770-Scanner](https://github.com/ZephrFish/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2025-53770-Scanner">
 
 ---
 ## CVE-2025-53640 ()
@@ -1541,7 +1543,7 @@
 - [Maalfer/Sudo-CVE-2021-3156](https://github.com/Maalfer/Sudo-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/Sudo-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/Sudo-CVE-2021-3156">
 - [daryllundy/CVE-2025-32463](https://github.com/daryllundy/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/CVE-2025-32463">
 - [IC3-512/linux-root-kit](https://github.com/IC3-512/linux-root-kit)	<img alt="forks" src="https://img.shields.io/github/forks/IC3-512/linux-root-kit">	<img alt="stars" src="https://img.shields.io/github/stars/IC3-512/linux-root-kit">
-- [AdityaBhatt3010/CVE-2025-32463-CVE-2025-32462-Sudo-Privilege-Escalation](https://github.com/AdityaBhatt3010/CVE-2025-32463-CVE-2025-32462-Sudo-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-32463-CVE-2025-32462-Sudo-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-32463-CVE-2025-32462-Sudo-Privilege-Escalation">
+- [AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462](https://github.com/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">
 
 ---
 ## CVE-2025-32462 ()
