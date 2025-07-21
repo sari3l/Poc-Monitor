@@ -434,6 +434,7 @@
 ## CVE-2025-49706 ()
 > 
 - [AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation](https://github.com/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation">
+- [RukshanaAlikhan/CVE-2025-53770](https://github.com/RukshanaAlikhan/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/RukshanaAlikhan/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/RukshanaAlikhan/CVE-2025-53770">
 
 ---
 ## CVE-2025-49619 ()
