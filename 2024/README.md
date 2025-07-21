@@ -440,6 +440,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61](https://github.com/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">
 
 ---
+## CVE-2024-8118 ()
+> 
+- [nurarifin05/POC-CVE-2024-8118](https://github.com/nurarifin05/POC-CVE-2024-8118)	<img alt="forks" src="https://img.shields.io/github/forks/nurarifin05/POC-CVE-2024-8118">	<img alt="stars" src="https://img.shields.io/github/stars/nurarifin05/POC-CVE-2024-8118">
+
+---
 ## CVE-2024-8069 ()
 > 
 - [XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN](https://github.com/XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN">
