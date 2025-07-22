@@ -570,6 +570,7 @@ We recommend users to:
 - [GroundCTL2MajorTom/CVE-2023-51385POC](https://github.com/GroundCTL2MajorTom/CVE-2023-51385POC)	<img alt="forks" src="https://img.shields.io/github/forks/GroundCTL2MajorTom/CVE-2023-51385POC">	<img alt="stars" src="https://img.shields.io/github/stars/GroundCTL2MajorTom/CVE-2023-51385POC">
 - [GroundCTL2MajorTom/CVE-2023-51385P-POC](https://github.com/GroundCTL2MajorTom/CVE-2023-51385P-POC)	<img alt="forks" src="https://img.shields.io/github/forks/GroundCTL2MajorTom/CVE-2023-51385P-POC">	<img alt="stars" src="https://img.shields.io/github/stars/GroundCTL2MajorTom/CVE-2023-51385P-POC">
 - [GanReality/CVE-2023-51385Test](https://github.com/GanReality/CVE-2023-51385Test)	<img alt="forks" src="https://img.shields.io/github/forks/GanReality/CVE-2023-51385Test">	<img alt="stars" src="https://img.shields.io/github/stars/GanReality/CVE-2023-51385Test">
+- [Lost-Ryder/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC](https://github.com/Lost-Ryder/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Lost-Ryder/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Lost-Ryder/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC">
 
 ---
 ## CVE-2023-51281 (2024-03-07T01:15:00)
@@ -4405,6 +4406,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [ollie-blue/CVE_2023_3460](https://github.com/ollie-blue/CVE_2023_3460)	<img alt="forks" src="https://img.shields.io/github/forks/ollie-blue/CVE_2023_3460">	<img alt="stars" src="https://img.shields.io/github/stars/ollie-blue/CVE_2023_3460">
 - [EmadYaY/CVE-2023-3460](https://github.com/EmadYaY/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/EmadYaY/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/EmadYaY/CVE-2023-3460">
 - [TranKuBao/CVE-2023-3460_FIX](https://github.com/TranKuBao/CVE-2023-3460_FIX)	<img alt="forks" src="https://img.shields.io/github/forks/TranKuBao/CVE-2023-3460_FIX">	<img alt="stars" src="https://img.shields.io/github/stars/TranKuBao/CVE-2023-3460_FIX">
+- [GURJOTEXPERT/CVE-2023-3460](https://github.com/GURJOTEXPERT/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/GURJOTEXPERT/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/GURJOTEXPERT/CVE-2023-3460">
 
 ---
 ## CVE-2023-34599 (2023-06-29T15:15:00)
