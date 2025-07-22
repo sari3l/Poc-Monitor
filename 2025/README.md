@@ -1556,6 +1556,7 @@
 - [daryllundy/CVE-2025-32463](https://github.com/daryllundy/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/CVE-2025-32463">
 - [IC3-512/linux-root-kit](https://github.com/IC3-512/linux-root-kit)	<img alt="forks" src="https://img.shields.io/github/forks/IC3-512/linux-root-kit">	<img alt="stars" src="https://img.shields.io/github/stars/IC3-512/linux-root-kit">
 - [AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462](https://github.com/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">
+- [ChetanKomal/sudo_exploit](https://github.com/ChetanKomal/sudo_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ChetanKomal/sudo_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ChetanKomal/sudo_exploit">
 
 ---
 ## CVE-2025-32462 ()
