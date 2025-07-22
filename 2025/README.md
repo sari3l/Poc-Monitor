@@ -239,6 +239,8 @@
 - [AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE](https://github.com/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE">
 - [GreenForceNetwork/Toolshell_CVE-2025-53770](https://github.com/GreenForceNetwork/Toolshell_CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/GreenForceNetwork/Toolshell_CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/GreenForceNetwork/Toolshell_CVE-2025-53770">
 - [imbas007/CVE-2025-53770-Vulnerable-Scanner](https://github.com/imbas007/CVE-2025-53770-Vulnerable-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-53770-Vulnerable-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-53770-Vulnerable-Scanner">
+- [Sec-Dan/CVE-2025-53770-Scanner](https://github.com/Sec-Dan/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/CVE-2025-53770-Scanner">
+- [MuhammadWaseem29/CVE-2025-53770](https://github.com/MuhammadWaseem29/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-53770">
 
 ---
 ## CVE-2025-53640 ()
