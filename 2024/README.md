@@ -2283,6 +2283,7 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-4947 (2024-05-15T21:15:00)
 > Type Confusion in V8 in Google Chrome prior to 125.0.6422.60 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)
 - [uixss/PoC-CVE-2024-4947](https://github.com/uixss/PoC-CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/uixss/PoC-CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/uixss/PoC-CVE-2024-4947">
+- [bjrjk/CVE-2024-4947](https://github.com/bjrjk/CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2024-4947">
 
 ---
 ## CVE-2024-49379 (2024-11-13T18:15:00)
@@ -5833,6 +5834,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 > WordPress is an open publishing platform for the Web. It's possible for a file of a type other than a zip file to be submitted as a new plugin by an administrative user on the Plugins -> Add New -> Upload Plugin screen in WordPress. If FTP credentials are requested for installation (in order to move the file into place outside of the `uploads` directory) then the uploaded file remains temporary available in the Media Library despite it not being allowed. If the `DISALLOW_FILE_EDIT` constant is set to `true` on the site _and_ FTP credentials are required when uploading a new theme or plugin, then this technically allows an RCE when the user would otherwise have no means of executing arbitrary PHP code. This issue _only_ affects Administrator level users on single site installations, and Super Admin level users on Multisite installations where it's otherwise expected that the user does not have permission to upload or execute arbitrary PHP code. Lower level users are not affected. Sites where the `DISALLOW_FILE_MODS` constant is set to `true` are not affected. Sites where an administrative user either does not need to enter FTP credentials or they have access to the valid FTP credentials, are not affected. The issue was fixed in WordPress 6.4.3 on January 30, 2024 and backported to versions 6.3.3, 6.2.4, 6.1.5, 6.0.7, 5.9.9, 5.8.9, 5.7.11, 5.6.13, 5.5.14, 5.4.15, 5.3.17, 5.2.20, 5.1.18, 5.0.21, 4.9.25, 2.8.24, 4.7.28, 4.6.28, 4.5.31, 4.4.32, 4.3.33, 4.2.37, and 4.1.40. A workaround is available. If the `DISALLOW_FILE_MODS` constant is defined as `true` then it will not be possible for any user to upload a plugin and therefore this issue will not be exploitable.
 
 - [Abo5/CVE-2024-31210](https://github.com/Abo5/CVE-2024-31210)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-31210">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-31210">
+
+---
+## CVE-2024-3121 ()
+> 
+- [dark-ninja10/CVE-2024-3121](https://github.com/dark-ninja10/CVE-2024-3121)	<img alt="forks" src="https://img.shields.io/github/forks/dark-ninja10/CVE-2024-3121">	<img alt="stars" src="https://img.shields.io/github/stars/dark-ninja10/CVE-2024-3121">
 
 ---
 ## CVE-2024-3116 (2024-04-04T15:15:00)
