@@ -5839,6 +5839,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-3121 ()
 > 
 - [dark-ninja10/CVE-2024-3121](https://github.com/dark-ninja10/CVE-2024-3121)	<img alt="forks" src="https://img.shields.io/github/forks/dark-ninja10/CVE-2024-3121">	<img alt="stars" src="https://img.shields.io/github/stars/dark-ninja10/CVE-2024-3121">
+- [Abdurahmon3236/-CVE-2024-31211](https://github.com/Abdurahmon3236/-CVE-2024-31211)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-31211">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-31211">
 
 ---
 ## CVE-2024-3116 (2024-04-04T15:15:00)
