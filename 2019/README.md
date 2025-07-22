@@ -379,6 +379,11 @@
 - [secunnix/CVE-2019-7213](https://github.com/secunnix/CVE-2019-7213)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2019-7213">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2019-7213">
 
 ---
+## CVE-2019-7139 ()
+> 
+- [adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC](https://github.com/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC">
+
+---
 ## CVE-2019-7107 (2019-05-23T16:29:00)
 > Adobe InDesign versions 14.0.1 and below have an unsafe hyperlink processing vulnerability. Successful exploitation could lead to arbitrary code execution. Fixed in versions 13.1.1 and 14.0.2.
 - [Live-Hack-CVE/CVE-2019-7107](https://github.com/Live-Hack-CVE/CVE-2019-7107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7107">
