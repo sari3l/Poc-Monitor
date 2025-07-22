@@ -4010,6 +4010,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39930 ()
 > 
 - [theMcSam/CVE-2024-39930-PoC](https://github.com/theMcSam/CVE-2024-39930-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theMcSam/CVE-2024-39930-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theMcSam/CVE-2024-39930-PoC">
+- [alexander47777/-CVE-2024-39930](https://github.com/alexander47777/-CVE-2024-39930)	<img alt="forks" src="https://img.shields.io/github/forks/alexander47777/-CVE-2024-39930">	<img alt="stars" src="https://img.shields.io/github/stars/alexander47777/-CVE-2024-39930">
 
 ---
 ## CVE-2024-39929 (2024-07-04T15:15:00)
