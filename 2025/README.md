@@ -227,6 +227,7 @@
 - [grupooruss/CVE-2025-53770-Checker](https://github.com/grupooruss/CVE-2025-53770-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/CVE-2025-53770-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/CVE-2025-53770-Checker">
 - [tripoloski1337/CVE-2025-53770-scanner](https://github.com/tripoloski1337/CVE-2025-53770-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tripoloski1337/CVE-2025-53770-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tripoloski1337/CVE-2025-53770-scanner">
 - [AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE](https://github.com/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE">
+- [GreenForceNetwork/Toolshell_CVE-2025-53770](https://github.com/GreenForceNetwork/Toolshell_CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/GreenForceNetwork/Toolshell_CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/GreenForceNetwork/Toolshell_CVE-2025-53770">
 
 ---
 ## CVE-2025-53640 ()
@@ -2269,6 +2270,9 @@
 - [WOOOOONG/CVE-2025-2825](https://github.com/WOOOOONG/CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2025-2825">
 - [punitdarji/crushftp-CVE-2025-2825](https://github.com/punitdarji/crushftp-CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/crushftp-CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/crushftp-CVE-2025-2825">
 - [Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass](https://github.com/Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass">
+- [SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825](https://github.com/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">
+- [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP)	<img alt="forks" src="https://img.shields.io/github/forks/ghostsec420/ShatteredFTP">	<img alt="stars" src="https://img.shields.io/github/stars/ghostsec420/ShatteredFTP">
+- [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/CVE-2025-31161">
 
 ---
 ## CVE-2025-28121 ()
