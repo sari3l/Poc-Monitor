@@ -1584,6 +1584,7 @@
 > Dell EMC iDRAC7/iDRAC8, versions prior to 2.52.52.52, contain CGI injection vulnerability which could be used to execute remote code. A remote unauthenticated attacker may potentially be able to use CGI variables to execute remote code.
 - [un4gi/CVE-2018-1207](https://github.com/un4gi/CVE-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/un4gi/CVE-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/un4gi/CVE-2018-1207">
 - [mgargiullo/cve-2018-1207](https://github.com/mgargiullo/cve-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/mgargiullo/cve-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/mgargiullo/cve-2018-1207">
+- [SYNKTeam/CVE-2018-1207](https://github.com/SYNKTeam/CVE-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/SYNKTeam/CVE-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/SYNKTeam/CVE-2018-1207">
 
 ---
 ## CVE-2018-11784 (2018-10-04T13:29:00)
