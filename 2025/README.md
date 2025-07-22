@@ -1368,6 +1368,7 @@
 - [ill-deed/CVE-2025-34085-Multi-target](https://github.com/ill-deed/CVE-2025-34085-Multi-target)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/CVE-2025-34085-Multi-target">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/CVE-2025-34085-Multi-target">
 - [0xgh057r3c0n/CVE-2025-34085](https://github.com/0xgh057r3c0n/CVE-2025-34085)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-34085">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-34085">
 - [yukinime/CVE-2025-34085](https://github.com/yukinime/CVE-2025-34085)	<img alt="forks" src="https://img.shields.io/github/forks/yukinime/CVE-2025-34085">	<img alt="stars" src="https://img.shields.io/github/stars/yukinime/CVE-2025-34085">
+- [B1ack4sh/Blackash-CVE-2025-34085](https://github.com/B1ack4sh/Blackash-CVE-2025-34085)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-34085">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-34085">
 
 ---
 ## CVE-2025-34077 ()
