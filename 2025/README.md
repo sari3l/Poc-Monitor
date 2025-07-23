@@ -259,6 +259,7 @@
 - [Hassanopop/CVE-2025-53770](https://github.com/Hassanopop/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Hassanopop/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Hassanopop/CVE-2025-53770">
 - [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
 - [m4r1x/CVE-2025-53770-Scanner](https://github.com/m4r1x/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/m4r1x/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/m4r1x/CVE-2025-53770-Scanner">
+- [Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE](https://github.com/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">
 
 ---
 ## CVE-2025-53640 ()
@@ -2135,7 +2136,8 @@
 - [TH-SecForge/CVE-2025-29972](https://github.com/TH-SecForge/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-29972">
 - [KamalideenAK/poc-cve-2025-29927](https://github.com/KamalideenAK/poc-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/KamalideenAK/poc-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/KamalideenAK/poc-cve-2025-29927">
 - [bohmiiidd/CVE-2025-29927-exploit-code-](https://github.com/bohmiiidd/CVE-2025-29927-exploit-code-)	<img alt="forks" src="https://img.shields.io/github/forks/bohmiiidd/CVE-2025-29927-exploit-code-">	<img alt="stars" src="https://img.shields.io/github/stars/bohmiiidd/CVE-2025-29927-exploit-code-">
-- [Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass](https://github.com/Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass">
+- [Kamal-Hegazi/CVE-2025-29927-Next.js-Middleware-Authorization-Bypass](https://github.com/Kamal-Hegazi/CVE-2025-29927-Next.js-Middleware-Authorization-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/CVE-2025-29927-Next.js-Middleware-Authorization-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/CVE-2025-29927-Next.js-Middleware-Authorization-Bypass">
+- [mickhacking/Thank-u-Next](https://github.com/mickhacking/Thank-u-Next)	<img alt="forks" src="https://img.shields.io/github/forks/mickhacking/Thank-u-Next">	<img alt="stars" src="https://img.shields.io/github/stars/mickhacking/Thank-u-Next">
 
 ---
 ## CVE-2025-29824 ()
