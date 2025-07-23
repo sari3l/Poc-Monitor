@@ -3023,6 +3023,11 @@ Users are recommended to upgrade to version 9.7.0, or 8.11.4, which fix the issu
 - [qhoko/CVE-2024-45216](https://github.com/qhoko/CVE-2024-45216)	<img alt="forks" src="https://img.shields.io/github/forks/qhoko/CVE-2024-45216">	<img alt="stars" src="https://img.shields.io/github/stars/qhoko/CVE-2024-45216">
 
 ---
+## CVE-2024-45195 ()
+> 
+- [wyyazjjl/CVE-2024-45195](https://github.com/wyyazjjl/CVE-2024-45195)	<img alt="forks" src="https://img.shields.io/github/forks/wyyazjjl/CVE-2024-45195">	<img alt="stars" src="https://img.shields.io/github/stars/wyyazjjl/CVE-2024-45195">
+
+---
 ## CVE-2024-45163 (2024-08-22T04:15:00)
 > The Mirai botnet through 2024-08-19 mishandles simultaneous TCP connections to the CNC (command and control) server. Unauthenticated sessions remain open, causing resource consumption. For example, an attacker can send a recognized username (such as root), or can send arbitrary data.
 - [0romos/CVE-2024-45163](https://github.com/0romos/CVE-2024-45163)	<img alt="forks" src="https://img.shields.io/github/forks/0romos/CVE-2024-45163">	<img alt="stars" src="https://img.shields.io/github/stars/0romos/CVE-2024-45163">
