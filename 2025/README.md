@@ -250,6 +250,7 @@
 - [bijikutu/CVE-2025-53770-Exploit](https://github.com/bijikutu/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bijikutu/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bijikutu/CVE-2025-53770-Exploit">
 - [Lapesha/CVE-2025-53770](https://github.com/Lapesha/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Lapesha/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Lapesha/CVE-2025-53770">
 - [b33b0y/CVE-2025-53770](https://github.com/b33b0y/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/b33b0y/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/b33b0y/CVE-2025-53770">
+- [Hassanopop/CVE-2025-53770](https://github.com/Hassanopop/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Hassanopop/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Hassanopop/CVE-2025-53770">
 
 ---
 ## CVE-2025-53640 ()
