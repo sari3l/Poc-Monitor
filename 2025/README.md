@@ -2135,6 +2135,7 @@
 - [TH-SecForge/CVE-2025-29972](https://github.com/TH-SecForge/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-29972">
 - [KamalideenAK/poc-cve-2025-29927](https://github.com/KamalideenAK/poc-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/KamalideenAK/poc-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/KamalideenAK/poc-cve-2025-29927">
 - [bohmiiidd/CVE-2025-29927-exploit-code-](https://github.com/bohmiiidd/CVE-2025-29927-exploit-code-)	<img alt="forks" src="https://img.shields.io/github/forks/bohmiiidd/CVE-2025-29927-exploit-code-">	<img alt="stars" src="https://img.shields.io/github/stars/bohmiiidd/CVE-2025-29927-exploit-code-">
+- [Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass](https://github.com/Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass">
 
 ---
 ## CVE-2025-29824 ()
