@@ -2285,6 +2285,7 @@ length to be included in the checksum calculation is fully consumed.
 > Type Confusion in V8 in Google Chrome prior to 125.0.6422.60 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)
 - [uixss/PoC-CVE-2024-4947](https://github.com/uixss/PoC-CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/uixss/PoC-CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/uixss/PoC-CVE-2024-4947">
 - [bjrjk/CVE-2024-4947](https://github.com/bjrjk/CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2024-4947">
+- [DiabloX90911/CVE-2024-4947](https://github.com/DiabloX90911/CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/DiabloX90911/CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/DiabloX90911/CVE-2024-4947">
 
 ---
 ## CVE-2024-49379 (2024-11-13T18:15:00)
