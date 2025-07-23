@@ -258,6 +258,7 @@
 - [b33b0y/CVE-2025-53770](https://github.com/b33b0y/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/b33b0y/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/b33b0y/CVE-2025-53770">
 - [Hassanopop/CVE-2025-53770](https://github.com/Hassanopop/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Hassanopop/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Hassanopop/CVE-2025-53770">
 - [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
+- [m4r1x/CVE-2025-53770-Scanner](https://github.com/m4r1x/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/m4r1x/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/m4r1x/CVE-2025-53770-Scanner">
 
 ---
 ## CVE-2025-53640 ()
@@ -1924,6 +1925,7 @@
 - [Sratet/CVE-2025-30397-RCE](https://github.com/Sratet/CVE-2025-30397-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-30397-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-30397-RCE">
 - [mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-](https://github.com/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-">
 - [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
+- [B1ack4sh/Blackash-CVE-2025-30397](https://github.com/B1ack4sh/Blackash-CVE-2025-30397)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-30397">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-30397">
 
 ---
 ## CVE-2025-30392 ()
