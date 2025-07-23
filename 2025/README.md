@@ -242,6 +242,7 @@
 - [imbas007/CVE-2025-53770-Vulnerable-Scanner](https://github.com/imbas007/CVE-2025-53770-Vulnerable-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-53770-Vulnerable-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-53770-Vulnerable-Scanner">
 - [Sec-Dan/CVE-2025-53770-Scanner](https://github.com/Sec-Dan/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/CVE-2025-53770-Scanner">
 - [MuhammadWaseem29/CVE-2025-53770](https://github.com/MuhammadWaseem29/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-53770">
+- [bijikutu/CVE-2025-53770-Exploit](https://github.com/bijikutu/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bijikutu/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bijikutu/CVE-2025-53770-Exploit">
 
 ---
 ## CVE-2025-53640 ()

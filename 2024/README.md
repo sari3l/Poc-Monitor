@@ -2891,6 +2891,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [r0otk3r/CVE-2024-4577](https://github.com/r0otk3r/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-4577">
 - [ZeroMemoryEx/PHP-CGI-INTERNAL-RCE](https://github.com/ZeroMemoryEx/PHP-CGI-INTERNAL-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroMemoryEx/PHP-CGI-INTERNAL-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroMemoryEx/PHP-CGI-INTERNAL-RCE">
 - [Skycritch/CVE-2024-4577](https://github.com/Skycritch/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Skycritch/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Skycritch/CVE-2024-4577">
+- [CirqueiraDev/MassExploit-CVE-2024-4577](https://github.com/CirqueiraDev/MassExploit-CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/CirqueiraDev/MassExploit-CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/CirqueiraDev/MassExploit-CVE-2024-4577">
 
 ---
 ## CVE-2024-4573 ()
