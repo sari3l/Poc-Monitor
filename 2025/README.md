@@ -189,6 +189,7 @@
 - [SleepNotF0und/CVE-2025-5777](https://github.com/SleepNotF0und/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/SleepNotF0und/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/SleepNotF0und/CVE-2025-5777">
 - [B1ack4sh/Blackash-CVE-2025-5777](https://github.com/B1ack4sh/Blackash-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-5777">
 - [cyberleelawat/ExploitVeer](https://github.com/cyberleelawat/ExploitVeer)	<img alt="forks" src="https://img.shields.io/github/forks/cyberleelawat/ExploitVeer">	<img alt="stars" src="https://img.shields.io/github/stars/cyberleelawat/ExploitVeer">
+- [Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE](https://github.com/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE">
 
 ---
 ## CVE-2025-5755 ()
@@ -1469,6 +1470,7 @@
 - [B1ack4sh/Blackash-CVE-2025-32756](https://github.com/B1ack4sh/Blackash-CVE-2025-32756)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-32756">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-32756">
 - [alm6no5/CVE-2025-32756-POC](https://github.com/alm6no5/CVE-2025-32756-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alm6no5/CVE-2025-32756-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alm6no5/CVE-2025-32756-POC">
 - [becrevex/CVE-2025-32756](https://github.com/becrevex/CVE-2025-32756)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2025-32756">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2025-32756">
+- [shan0ar/cve-2025-32756](https://github.com/shan0ar/cve-2025-32756)	<img alt="forks" src="https://img.shields.io/github/forks/shan0ar/cve-2025-32756">	<img alt="stars" src="https://img.shields.io/github/stars/shan0ar/cve-2025-32756">
 
 ---
 ## CVE-2025-3272025 ()
@@ -2383,7 +2385,7 @@
 - [dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591](https://github.com/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">
 - [alialucas7/CVE-2025-27591_PoC](https://github.com/alialucas7/CVE-2025-27591_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alialucas7/CVE-2025-27591_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alialucas7/CVE-2025-27591_PoC">
 - [incommatose/CVE-2025-27591-PoC](https://github.com/incommatose/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/incommatose/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/incommatose/CVE-2025-27591-PoC">
-- [00xCanelo/CVE-2025-27591-PoC](https://github.com/00xCanelo/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-27591-PoC">
+- [00xCanelo/CVE-2025-27591](https://github.com/00xCanelo/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-27591">
 - [Thekin-ctrl/CVE-2025-27591-Below](https://github.com/Thekin-ctrl/CVE-2025-27591-Below)	<img alt="forks" src="https://img.shields.io/github/forks/Thekin-ctrl/CVE-2025-27591-Below">	<img alt="stars" src="https://img.shields.io/github/stars/Thekin-ctrl/CVE-2025-27591-Below">
 
 ---
