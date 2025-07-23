@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-8018 ()
+> 
+- [drackyjr/CVE-2025-8018](https://github.com/drackyjr/CVE-2025-8018)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-8018">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-8018">
+
+---
 ## CVE-2025-7840 ()
 > 
 - [byteReaper77/CVE-2025-7840](https://github.com/byteReaper77/CVE-2025-7840)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-7840">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-7840">
