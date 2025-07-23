@@ -243,6 +243,7 @@
 - [Sec-Dan/CVE-2025-53770-Scanner](https://github.com/Sec-Dan/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/CVE-2025-53770-Scanner">
 - [MuhammadWaseem29/CVE-2025-53770](https://github.com/MuhammadWaseem29/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-53770">
 - [bijikutu/CVE-2025-53770-Exploit](https://github.com/bijikutu/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bijikutu/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bijikutu/CVE-2025-53770-Exploit">
+- [Lapesha/CVE-2025-53770](https://github.com/Lapesha/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Lapesha/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Lapesha/CVE-2025-53770">
 
 ---
 ## CVE-2025-53640 ()
