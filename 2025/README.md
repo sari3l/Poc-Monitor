@@ -257,6 +257,7 @@
 - [Lapesha/CVE-2025-53770](https://github.com/Lapesha/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Lapesha/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Lapesha/CVE-2025-53770">
 - [b33b0y/CVE-2025-53770](https://github.com/b33b0y/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/b33b0y/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/b33b0y/CVE-2025-53770">
 - [Hassanopop/CVE-2025-53770](https://github.com/Hassanopop/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Hassanopop/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Hassanopop/CVE-2025-53770">
+- [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
 
 ---
 ## CVE-2025-53640 ()
