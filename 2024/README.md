@@ -866,6 +866,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [AzrDll/CVE-2024-6387](https://github.com/AzrDll/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/AzrDll/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/AzrDll/CVE-2024-6387">
 - [adrienlefebvre/POC-CVE-2024-6387](https://github.com/adrienlefebvre/POC-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/adrienlefebvre/POC-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/adrienlefebvre/POC-CVE-2024-6387">
 - [Lost-Ryder/CVE-2024-6387-OpenSSH-ProxyCommand-RC](https://github.com/Lost-Ryder/CVE-2024-6387-OpenSSH-ProxyCommand-RC)	<img alt="forks" src="https://img.shields.io/github/forks/Lost-Ryder/CVE-2024-6387-OpenSSH-ProxyCommand-RC">	<img alt="stars" src="https://img.shields.io/github/stars/Lost-Ryder/CVE-2024-6387-OpenSSH-ProxyCommand-RC">
+- [xiw1ll/CVE-2024-6387_Checker](https://github.com/xiw1ll/CVE-2024-6387_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/xiw1ll/CVE-2024-6387_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/xiw1ll/CVE-2024-6387_Checker">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
