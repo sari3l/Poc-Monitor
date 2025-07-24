@@ -156,6 +156,7 @@
 - [mistrust999/CVE-2025-6018-6019-Metasploit](https://github.com/mistrust999/CVE-2025-6018-6019-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrust999/CVE-2025-6018-6019-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrust999/CVE-2025-6018-6019-Metasploit">
 - [iamgithubber/CVE-2025-6018-19-exploit](https://github.com/iamgithubber/CVE-2025-6018-19-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iamgithubber/CVE-2025-6018-19-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iamgithubber/CVE-2025-6018-19-exploit">
 - [dreysanox/CVE-2025-6018_Poc](https://github.com/dreysanox/CVE-2025-6018_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dreysanox/CVE-2025-6018_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dreysanox/CVE-2025-6018_Poc">
+- [ibrahmsql/CVE-2025-6018-](https://github.com/ibrahmsql/CVE-2025-6018-)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018-">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018-">
 
 ---
 ## CVE-2025-5964 ()
