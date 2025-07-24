@@ -86,6 +86,7 @@
 > 
 - [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
 - [allinsthon/CVE-2025-6558-exp](https://github.com/allinsthon/CVE-2025-6558-exp)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-6558-exp">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-6558-exp">
+- [DevBuiHieu/CVE-2025-6558-Proof-Of-Concept](https://github.com/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept">
 
 ---
 ## CVE-2025-6554 ()
@@ -266,6 +267,8 @@
 - [m4r1x/CVE-2025-53770-Scanner](https://github.com/m4r1x/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/m4r1x/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/m4r1x/CVE-2025-53770-Scanner">
 - [Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE](https://github.com/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">
 - [exfil0/CVE-2025-53770](https://github.com/exfil0/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/CVE-2025-53770">
+- [nisargsuthar/suricata-rule-CVE-2025-53770](https://github.com/nisargsuthar/suricata-rule-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/nisargsuthar/suricata-rule-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/nisargsuthar/suricata-rule-CVE-2025-53770">
+- [zach115th/ToolShellFinder](https://github.com/zach115th/ToolShellFinder)	<img alt="forks" src="https://img.shields.io/github/forks/zach115th/ToolShellFinder">	<img alt="stars" src="https://img.shields.io/github/stars/zach115th/ToolShellFinder">
 
 ---
 ## CVE-2025-53640 ()
