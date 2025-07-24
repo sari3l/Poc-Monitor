@@ -1775,6 +1775,7 @@
 - [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-31486-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-31486-PoC">
 - [Ly4j/CVE-2025-31486](https://github.com/Ly4j/CVE-2025-31486)	<img alt="forks" src="https://img.shields.io/github/forks/Ly4j/CVE-2025-31486">	<img alt="stars" src="https://img.shields.io/github/stars/Ly4j/CVE-2025-31486">
 - [hackmelocal/hackmelocal-CVE-2025-31486-Simulation](https://github.com/hackmelocal/hackmelocal-CVE-2025-31486-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/hackmelocal-CVE-2025-31486-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/hackmelocal-CVE-2025-31486-Simulation">
+- [nkuty/CVE-2025-30208-31125-31486-32395](https://github.com/nkuty/CVE-2025-30208-31125-31486-32395)	<img alt="forks" src="https://img.shields.io/github/forks/nkuty/CVE-2025-30208-31125-31486-32395">	<img alt="stars" src="https://img.shields.io/github/stars/nkuty/CVE-2025-30208-31125-31486-32395">
 
 ---
 ## CVE-2025-31324 ()
