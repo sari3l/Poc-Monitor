@@ -3863,6 +3863,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [KyssK00L/CVE-2024-40617](https://github.com/KyssK00L/CVE-2024-40617)	<img alt="forks" src="https://img.shields.io/github/forks/KyssK00L/CVE-2024-40617">	<img alt="stars" src="https://img.shields.io/github/stars/KyssK00L/CVE-2024-40617">
 
 ---
+## CVE-2024-40586 ()
+> 
+- [Hagrid29/CVE-2024-40586-Windows-Coerced-Authentication-in-FortiClient](https://github.com/Hagrid29/CVE-2024-40586-Windows-Coerced-Authentication-in-FortiClient)	<img alt="forks" src="https://img.shields.io/github/forks/Hagrid29/CVE-2024-40586-Windows-Coerced-Authentication-in-FortiClient">	<img alt="stars" src="https://img.shields.io/github/stars/Hagrid29/CVE-2024-40586-Windows-Coerced-Authentication-in-FortiClient">
+
+---
 ## CVE-2024-40512 (2024-09-27T14:15:00)
 > Cross Site Scripting vulnerability in openPetra v.2023.02 allows a remote attacker to obtain sensitive information via the serverMReporting.asmx function.
 - [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40512">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40512">
