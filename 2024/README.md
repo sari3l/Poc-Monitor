@@ -7923,6 +7923,8 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [slytechroot/CVE-2024-23897](https://github.com/slytechroot/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/slytechroot/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/slytechroot/CVE-2024-23897">
 - [brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo](https://github.com/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo">
 - [tvasari/CVE-2024-23897](https://github.com/tvasari/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/tvasari/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/tvasari/CVE-2024-23897">
+- [Fineken/Jenkins-CVE-2024-23897-Lab](https://github.com/Fineken/Jenkins-CVE-2024-23897-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Fineken/Jenkins-CVE-2024-23897-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Fineken/Jenkins-CVE-2024-23897-Lab">
+- [OWASP/www-project-eks-goat](https://github.com/OWASP/www-project-eks-goat)	<img alt="forks" src="https://img.shields.io/github/forks/OWASP/www-project-eks-goat">	<img alt="stars" src="https://img.shields.io/github/stars/OWASP/www-project-eks-goat">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
@@ -9444,6 +9446,11 @@ authentication.   
 ## CVE-2024-1209 (2024-02-05T22:16:00)
 > The LearnDash LMS plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 4.10.1 via direct file access due to insufficient protection of uploaded assignments. This makes it possible for unauthenticated attackers to obtain those uploads.
 - [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1209">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1209">
+
+---
+## CVE-2024-12085 ()
+> 
+- [Otsutez/cve-2024-12085](https://github.com/Otsutez/cve-2024-12085)	<img alt="forks" src="https://img.shields.io/github/forks/Otsutez/cve-2024-12085">	<img alt="stars" src="https://img.shields.io/github/stars/Otsutez/cve-2024-12085">
 
 ---
 ## CVE-2024-12084 ()
