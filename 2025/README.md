@@ -269,6 +269,7 @@
 - [exfil0/CVE-2025-53770](https://github.com/exfil0/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/CVE-2025-53770">
 - [nisargsuthar/suricata-rule-CVE-2025-53770](https://github.com/nisargsuthar/suricata-rule-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/nisargsuthar/suricata-rule-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/nisargsuthar/suricata-rule-CVE-2025-53770">
 - [zach115th/ToolShellFinder](https://github.com/zach115th/ToolShellFinder)	<img alt="forks" src="https://img.shields.io/github/forks/zach115th/ToolShellFinder">	<img alt="stars" src="https://img.shields.io/github/stars/zach115th/ToolShellFinder">
+- [JustinnT/cve-2025-53770-](https://github.com/JustinnT/cve-2025-53770-)	<img alt="forks" src="https://img.shields.io/github/forks/JustinnT/cve-2025-53770-">	<img alt="stars" src="https://img.shields.io/github/stars/JustinnT/cve-2025-53770-">
 
 ---
 ## CVE-2025-53640 ()
