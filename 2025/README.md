@@ -3482,6 +3482,7 @@
 ## CVE-2025-1302 ()
 > 
 - [EQSTLab/CVE-2025-1302](https://github.com/EQSTLab/CVE-2025-1302)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-1302">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-1302">
+- [abrewer251/CVE-2025-1302_jsonpath-plus_RCE](https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-1302_jsonpath-plus_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-1302_jsonpath-plus_RCE">
 
 ---
 ## CVE-2025-12654 ()
