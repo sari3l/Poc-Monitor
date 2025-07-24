@@ -1784,7 +1784,7 @@
 - [Ly4j/CVE-2025-31486](https://github.com/Ly4j/CVE-2025-31486)	<img alt="forks" src="https://img.shields.io/github/forks/Ly4j/CVE-2025-31486">	<img alt="stars" src="https://img.shields.io/github/stars/Ly4j/CVE-2025-31486">
 - [hackmelocal/CVE-2025-31486-Simulation](https://github.com/hackmelocal/CVE-2025-31486-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/CVE-2025-31486-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/CVE-2025-31486-Simulation">
 - [nkuty/CVE-2025-30208-31125-31486-32395](https://github.com/nkuty/CVE-2025-30208-31125-31486-32395)	<img alt="forks" src="https://img.shields.io/github/forks/nkuty/CVE-2025-30208-31125-31486-32395">	<img alt="stars" src="https://img.shields.io/github/stars/nkuty/CVE-2025-30208-31125-31486-32395">
-- [hackmelocal/CVE-2025-31486](https://github.com/hackmelocal/CVE-2025-31486)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/CVE-2025-31486">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/CVE-2025-31486">
+- [hackmelocal/CVE-2025-31486-Simulation](https://github.com/hackmelocal/CVE-2025-31486-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/CVE-2025-31486-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/CVE-2025-31486-Simulation">
 
 ---
 ## CVE-2025-31324 ()
