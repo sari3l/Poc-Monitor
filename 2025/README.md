@@ -283,6 +283,7 @@
 - [Udyz/CVE-2025-53770-Exploit](https://github.com/Udyz/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2025-53770-Exploit">
 - [a-hydrae/ToolShell-Honeypot](https://github.com/a-hydrae/ToolShell-Honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/a-hydrae/ToolShell-Honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/a-hydrae/ToolShell-Honeypot">
 - [0xray5c68616e37/cve-2025-53770](https://github.com/0xray5c68616e37/cve-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/0xray5c68616e37/cve-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/0xray5c68616e37/cve-2025-53770">
+- [Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE](https://github.com/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">
 
 ---
 ## CVE-2025-53652 ()
@@ -373,6 +374,7 @@
 ## CVE-2025-52399 ()
 > 
 - [Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">
+- [gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students">
 
 ---
 ## CVE-2025-52357 ()
