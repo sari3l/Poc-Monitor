@@ -275,6 +275,7 @@
 - [JustinnT/cve-2025-53770-](https://github.com/JustinnT/cve-2025-53770-)	<img alt="forks" src="https://img.shields.io/github/forks/JustinnT/cve-2025-53770-">	<img alt="stars" src="https://img.shields.io/github/stars/JustinnT/cve-2025-53770-">
 - [bharath-cyber-root/sharepoint-toolshell-cve-2025-53770](https://github.com/bharath-cyber-root/sharepoint-toolshell-cve-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/bharath-cyber-root/sharepoint-toolshell-cve-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/bharath-cyber-root/sharepoint-toolshell-cve-2025-53770">
 - [Rabbitbong/OurSharePoint-CVE-2025-53770](https://github.com/Rabbitbong/OurSharePoint-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Rabbitbong/OurSharePoint-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Rabbitbong/OurSharePoint-CVE-2025-53770">
+- [Udyz/CVE-2025-53770-Exploit](https://github.com/Udyz/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2025-53770-Exploit">
 
 ---
 ## CVE-2025-53640 ()
