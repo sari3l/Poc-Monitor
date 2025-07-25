@@ -366,7 +366,7 @@
 ---
 ## CVE-2025-52399 ()
 > 
-- [BX199/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/BX199/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/BX199/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/BX199/CVE-2025-52399-SQLi-Institute-of-Current-Students">
+- [Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">
 
 ---
 ## CVE-2025-52357 ()
