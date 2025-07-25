@@ -282,6 +282,7 @@
 - [Rabbitbong/OurSharePoint-CVE-2025-53770](https://github.com/Rabbitbong/OurSharePoint-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Rabbitbong/OurSharePoint-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Rabbitbong/OurSharePoint-CVE-2025-53770">
 - [Udyz/CVE-2025-53770-Exploit](https://github.com/Udyz/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2025-53770-Exploit">
 - [a-hydrae/ToolShell-Honeypot](https://github.com/a-hydrae/ToolShell-Honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/a-hydrae/ToolShell-Honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/a-hydrae/ToolShell-Honeypot">
+- [0xray5c68616e37/cve-2025-53770](https://github.com/0xray5c68616e37/cve-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/0xray5c68616e37/cve-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/0xray5c68616e37/cve-2025-53770">
 
 ---
 ## CVE-2025-53652 ()
