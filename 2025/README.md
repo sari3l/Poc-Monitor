@@ -1714,6 +1714,11 @@
 - [0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-32433">
 
 ---
+## CVE-2025-32429 ()
+> 
+- [byteReaper77/CVE-2025-32429](https://github.com/byteReaper77/CVE-2025-32429)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-32429">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-32429">
+
+---
 ## CVE-2025-32421 ()
 > 
 - [zeroc00I/CVE-2025-32421](https://github.com/zeroc00I/CVE-2025-32421)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2025-32421">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2025-32421">
