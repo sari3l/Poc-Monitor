@@ -278,6 +278,11 @@
 - [Udyz/CVE-2025-53770-Exploit](https://github.com/Udyz/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2025-53770-Exploit">
 
 ---
+## CVE-2025-53652 ()
+> 
+- [pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis](https://github.com/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis">
+
+---
 ## CVE-2025-53640 ()
 > 
 - [rafaelcorvino1/CVE-2025-53640](https://github.com/rafaelcorvino1/CVE-2025-53640)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelcorvino1/CVE-2025-53640">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelcorvino1/CVE-2025-53640">
