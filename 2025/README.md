@@ -417,6 +417,11 @@
 - [Secsys-FDU/CVE-2025-51858](https://github.com/Secsys-FDU/CVE-2025-51858)	<img alt="forks" src="https://img.shields.io/github/forks/Secsys-FDU/CVE-2025-51858">	<img alt="stars" src="https://img.shields.io/github/stars/Secsys-FDU/CVE-2025-51858">
 
 ---
+## CVE-2025-51411 ()
+> 
+- [tansique-17/CVE-2025-51411](https://github.com/tansique-17/CVE-2025-51411)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-51411">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-51411">
+
+---
 ## CVE-2025-51403 ()
 > 
 - [Thewhiteevil/CVE-2025-51403](https://github.com/Thewhiteevil/CVE-2025-51403)	<img alt="forks" src="https://img.shields.io/github/forks/Thewhiteevil/CVE-2025-51403">	<img alt="stars" src="https://img.shields.io/github/stars/Thewhiteevil/CVE-2025-51403">
