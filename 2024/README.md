@@ -6964,6 +6964,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697)	<img alt="forks" src="https://img.shields.io/github/forks/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">	<img alt="stars" src="https://img.shields.io/github/stars/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697">
 
 ---
+## CVE-2024-27686 ()
+> 
+- [ThemeHackers/CVE-2024-27686](https://github.com/ThemeHackers/CVE-2024-27686)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-27686">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-27686">
+
+---
 ## CVE-2024-27674 (2024-04-03T17:15:00)
 > Macro Expert through 4.9.4 allows BUILTIN\Users:(OI)(CI)(M) access to the "%PROGRAMFILES(X86)%\GrassSoft\Macro Expert" folder and thus an unprivileged user can escalate to SYSTEM by replacing the MacroService.exe binary.
 - [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27674">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27674">
