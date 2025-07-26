@@ -228,6 +228,11 @@
 - [Aman-Parmar/CVE-2025-54554](https://github.com/Aman-Parmar/CVE-2025-54554)	<img alt="forks" src="https://img.shields.io/github/forks/Aman-Parmar/CVE-2025-54554">	<img alt="stars" src="https://img.shields.io/github/stars/Aman-Parmar/CVE-2025-54554">
 
 ---
+## CVE-2025-54313 ()
+> 
+- [nihilor/cve-2025-54313](https://github.com/nihilor/cve-2025-54313)	<img alt="forks" src="https://img.shields.io/github/forks/nihilor/cve-2025-54313">	<img alt="stars" src="https://img.shields.io/github/stars/nihilor/cve-2025-54313">
+
+---
 ## CVE-2025-5419 ()
 > 
 - [takeshirisulu/CVE-2025-5419](https://github.com/takeshirisulu/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-5419">
@@ -285,6 +290,7 @@
 - [0xray5c68616e37/cve-2025-53770](https://github.com/0xray5c68616e37/cve-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/0xray5c68616e37/cve-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/0xray5c68616e37/cve-2025-53770">
 - [Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE](https://github.com/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">
 - [BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator](https://github.com/BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator)	<img alt="forks" src="https://img.shields.io/github/forks/BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator">	<img alt="stars" src="https://img.shields.io/github/stars/BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator">
+- [unk9vvn/sharepoint-toolpane](https://github.com/unk9vvn/sharepoint-toolpane)	<img alt="forks" src="https://img.shields.io/github/forks/unk9vvn/sharepoint-toolpane">	<img alt="stars" src="https://img.shields.io/github/stars/unk9vvn/sharepoint-toolpane">
 
 ---
 ## CVE-2025-53652 ()
