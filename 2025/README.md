@@ -494,6 +494,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-50867 ()
+> 
+- [SacX-7/CVE-2025-50867](https://github.com/SacX-7/CVE-2025-50867)	<img alt="forks" src="https://img.shields.io/github/forks/SacX-7/CVE-2025-50867">	<img alt="stars" src="https://img.shields.io/github/stars/SacX-7/CVE-2025-50867">
+
+---
 ## CVE-2025-50777 ()
 > 
 - [veereshgadige/aziot-cctv-cve-2025-50777](https://github.com/veereshgadige/aziot-cctv-cve-2025-50777)	<img alt="forks" src="https://img.shields.io/github/forks/veereshgadige/aziot-cctv-cve-2025-50777">	<img alt="stars" src="https://img.shields.io/github/stars/veereshgadige/aziot-cctv-cve-2025-50777">

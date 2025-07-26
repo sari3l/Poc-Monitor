@@ -498,6 +498,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [r0otk3r/CVE-2024-7954](https://github.com/r0otk3r/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-7954">
 
 ---
+## CVE-2024-7940 ()
+> 
+- [barbaraeivyu/CVE-2024-7940](https://github.com/barbaraeivyu/CVE-2024-7940)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2024-7940">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2024-7940">
+
+---
 ## CVE-2024-7928 (2024-08-19T22:15:00)
 > A vulnerability, which was classified as problematic, has been found in FastAdmin up to 1.3.3.20220121. Affected by this issue is some unknown functionality of the file /index/ajax/lang. The manipulation of the argument lang leads to path traversal. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 1.3.4.20220530 is able to address this issue. It is recommended to upgrade the affected component.
 - [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-7928">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-7928">
