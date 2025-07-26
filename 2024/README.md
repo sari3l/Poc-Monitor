@@ -5304,6 +5304,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-XeD/CVE-2024-33775">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-XeD/CVE-2024-33775">
 
 ---
+## CVE-2024-33676 ()
+> 
+- [dersecure/CVE-2024-33676](https://github.com/dersecure/CVE-2024-33676)	<img alt="forks" src="https://img.shields.io/github/forks/dersecure/CVE-2024-33676">	<img alt="stars" src="https://img.shields.io/github/stars/dersecure/CVE-2024-33676">
+
+---
 ## CVE-2024-33544 (2024-04-29T07:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in AA-Team WZone allows SQL Injection.This issue affects WZone: from n/a through 14.0.10.
 
