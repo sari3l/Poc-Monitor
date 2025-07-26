@@ -7016,6 +7016,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-27518">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-27518">
 
 ---
+## CVE-2024-27499 ()
+> 
+- [auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload](https://github.com/auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload)	<img alt="forks" src="https://img.shields.io/github/forks/auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload">	<img alt="stars" src="https://img.shields.io/github/stars/auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload">
+
+---
 ## CVE-2024-27462 (2024-04-14T23:15:00)
 > Rejected reason: DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [Alaatk/CVE-2024-27462](https://github.com/Alaatk/CVE-2024-27462)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27462">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27462">
