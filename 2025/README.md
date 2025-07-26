@@ -231,6 +231,7 @@
 ## CVE-2025-54313 ()
 > 
 - [nihilor/cve-2025-54313](https://github.com/nihilor/cve-2025-54313)	<img alt="forks" src="https://img.shields.io/github/forks/nihilor/cve-2025-54313">	<img alt="stars" src="https://img.shields.io/github/stars/nihilor/cve-2025-54313">
+- [ShinP451/scavenger_scanner](https://github.com/ShinP451/scavenger_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ShinP451/scavenger_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ShinP451/scavenger_scanner">
 
 ---
 ## CVE-2025-54309 ()
