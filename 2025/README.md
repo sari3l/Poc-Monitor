@@ -1726,6 +1726,7 @@
 ## CVE-2025-32429 ()
 > 
 - [byteReaper77/CVE-2025-32429](https://github.com/byteReaper77/CVE-2025-32429)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-32429">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-32429">
+- [amir-othman/CVE-2025-32429](https://github.com/amir-othman/CVE-2025-32429)	<img alt="forks" src="https://img.shields.io/github/forks/amir-othman/CVE-2025-32429">	<img alt="stars" src="https://img.shields.io/github/stars/amir-othman/CVE-2025-32429">
 
 ---
 ## CVE-2025-32421 ()
