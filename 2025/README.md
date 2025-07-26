@@ -1452,6 +1452,11 @@
 - [Yucaerin/CVE-2025-3419](https://github.com/Yucaerin/CVE-2025-3419)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-3419">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-3419">
 
 ---
+## CVE-2025-34138 ()
+> 
+- [allinsthon/CVE-2025-34138](https://github.com/allinsthon/CVE-2025-34138)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-34138">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-34138">
+
+---
 ## CVE-2025-34085 ()
 > 
 - [MrjHaxcore/CVE-2025-34085](https://github.com/MrjHaxcore/CVE-2025-34085)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-34085">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-34085">
