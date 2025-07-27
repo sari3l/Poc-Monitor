@@ -7023,7 +7023,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ---
 ## CVE-2024-27499 ()
 > 
-- [auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload](https://github.com/auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload)	<img alt="forks" src="https://img.shields.io/github/forks/auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload">	<img alt="stars" src="https://img.shields.io/github/stars/auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload">
+- [auspicious7/CVE-2024-27499](https://github.com/auspicious7/CVE-2024-27499)	<img alt="forks" src="https://img.shields.io/github/forks/auspicious7/CVE-2024-27499">	<img alt="stars" src="https://img.shields.io/github/stars/auspicious7/CVE-2024-27499">
 
 ---
 ## CVE-2024-27462 (2024-04-14T23:15:00)
