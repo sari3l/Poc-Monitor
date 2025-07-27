@@ -3524,6 +3524,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [DACC4/CVE-2024-43044-jenkins-creds](https://github.com/DACC4/CVE-2024-43044-jenkins-creds)	<img alt="forks" src="https://img.shields.io/github/forks/DACC4/CVE-2024-43044-jenkins-creds">	<img alt="stars" src="https://img.shields.io/github/stars/DACC4/CVE-2024-43044-jenkins-creds">
 
 ---
+## CVE-2024-43018 ()
+> 
+- [joaosilva21/CVE-2024-43018](https://github.com/joaosilva21/CVE-2024-43018)	<img alt="forks" src="https://img.shields.io/github/forks/joaosilva21/CVE-2024-43018">	<img alt="stars" src="https://img.shields.io/github/stars/joaosilva21/CVE-2024-43018">
+
+---
 ## CVE-2024-43003 ()
 > 
 - [estherQu33n/CVE-2024-43003](https://github.com/estherQu33n/CVE-2024-43003)	<img alt="forks" src="https://img.shields.io/github/forks/estherQu33n/CVE-2024-43003">	<img alt="stars" src="https://img.shields.io/github/stars/estherQu33n/CVE-2024-43003">
