@@ -308,6 +308,7 @@
 - [BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator](https://github.com/BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator)	<img alt="forks" src="https://img.shields.io/github/forks/BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator">	<img alt="stars" src="https://img.shields.io/github/stars/BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator">
 - [unk9vvn/sharepoint-toolpane](https://github.com/unk9vvn/sharepoint-toolpane)	<img alt="forks" src="https://img.shields.io/github/forks/unk9vvn/sharepoint-toolpane">	<img alt="stars" src="https://img.shields.io/github/stars/unk9vvn/sharepoint-toolpane">
 - [bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE](https://github.com/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE">
+- [3a7/CVE-2025-53770](https://github.com/3a7/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/3a7/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/3a7/CVE-2025-53770">
 
 ---
 ## CVE-2025-53652 ()
