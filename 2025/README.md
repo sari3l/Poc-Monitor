@@ -1504,6 +1504,7 @@
 - [MrjHaxcore/CVE-2025-34077](https://github.com/MrjHaxcore/CVE-2025-34077)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-34077">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-34077">
 - [danielsummerton12/sudo-zero-day-CVE-2025-32463](https://github.com/danielsummerton12/sudo-zero-day-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/sudo-zero-day-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/sudo-zero-day-CVE-2025-32463">
 - [danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc](https://github.com/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">
+- [0xgh057r3c0n/CVE-2025-34077](https://github.com/0xgh057r3c0n/CVE-2025-34077)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-34077">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-34077">
 
 ---
 ## CVE-2025-34028 ()
