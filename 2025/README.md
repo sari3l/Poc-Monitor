@@ -789,6 +789,7 @@
 - [Anezatraa/CVE-2025-48384-submodule](https://github.com/Anezatraa/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/Anezatraa/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/Anezatraa/CVE-2025-48384-submodule">
 - [IK-20211125/CVE-2025-48384](https://github.com/IK-20211125/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/IK-20211125/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/IK-20211125/CVE-2025-48384">
 - [elprogramadorgt/CVE-2025-48384](https://github.com/elprogramadorgt/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/elprogramadorgt/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/elprogramadorgt/CVE-2025-48384">
+- [rtefx/CVE-2025-48384](https://github.com/rtefx/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/rtefx/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/rtefx/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
