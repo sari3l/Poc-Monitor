@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-8191 ()
+> 
+- [byteReaper77/CVE-2025-8191](https://github.com/byteReaper77/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8191">
+
+---
 ## CVE-2025-8018 ()
 > 
 - [drackyjr/CVE-2025-8018](https://github.com/drackyjr/CVE-2025-8018)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-8018">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-8018">
@@ -1609,7 +1614,7 @@
 > 
 - [xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/xuemian168/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/xuemian168/CVE-2025-3248">
 - [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PuddinCat/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PuddinCat/CVE-2025-3248-POC">
-- [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+- [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
 - [verylazytech/CVE-2025-3248](https://github.com/verylazytech/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-3248">
 - [Channeeee/CVE-2025-3248-Langflow-validate-code-API-](https://github.com/Channeeee/CVE-2025-3248-Langflow-validate-code-API-)	<img alt="forks" src="https://img.shields.io/github/forks/Channeeee/CVE-2025-3248-Langflow-validate-code-API-">	<img alt="stars" src="https://img.shields.io/github/stars/Channeeee/CVE-2025-3248-Langflow-validate-code-API-">
 - [minxxcozy/CVE-2025-3248-langflow-RCE](https://github.com/minxxcozy/CVE-2025-3248-langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/minxxcozy/CVE-2025-3248-langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/minxxcozy/CVE-2025-3248-langflow-RCE">
@@ -3244,6 +3249,7 @@
 - [romanedutov/CVE-2025-2294](https://github.com/romanedutov/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/romanedutov/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/romanedutov/CVE-2025-2294">
 - [Yucaerin/CVE-2025-2294](https://github.com/Yucaerin/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-2294">
 - [0xWhoami35/CVE-2025-2294](https://github.com/0xWhoami35/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CVE-2025-2294">
+- [r0otk3r/CVE-2025-2294](https://github.com/r0otk3r/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-2294">
 
 ---
 ## CVE-2025-22870 ()
