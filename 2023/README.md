@@ -4487,6 +4487,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [Chinyemba-ck/MOVEit-CVE-2023-34362](https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/Chinyemba-ck/MOVEit-CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/Chinyemba-ck/MOVEit-CVE-2023-34362">
 - [glen-pearson/MoveIT-CVE-2023-34362-RCE](https://github.com/glen-pearson/MoveIT-CVE-2023-34362-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/glen-pearson/MoveIT-CVE-2023-34362-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/glen-pearson/MoveIT-CVE-2023-34362-RCE">
 - [aditibv/MOVEit-CVE-2023-34362](https://github.com/aditibv/MOVEit-CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/aditibv/MOVEit-CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/aditibv/MOVEit-CVE-2023-34362">
+- [Naveenbana5250/CVE-2023-34362-Defense-Package](https://github.com/Naveenbana5250/CVE-2023-34362-Defense-Package)	<img alt="forks" src="https://img.shields.io/github/forks/Naveenbana5250/CVE-2023-34362-Defense-Package">	<img alt="stars" src="https://img.shields.io/github/stars/Naveenbana5250/CVE-2023-34362-Defense-Package">
 
 ---
 ## CVE-2023-34312 (2023-06-01T03:15:00)
