@@ -522,6 +522,7 @@
 ## CVE-2025-50867 ()
 > 
 - [SacX-7/CVE-2025-50867](https://github.com/SacX-7/CVE-2025-50867)	<img alt="forks" src="https://img.shields.io/github/forks/SacX-7/CVE-2025-50867">	<img alt="stars" src="https://img.shields.io/github/stars/SacX-7/CVE-2025-50867">
+- [SacX-7/CVE-2025-50867](https://github.com/SacX-7/CVE-2025-50867)	<img alt="forks" src="https://img.shields.io/github/forks/SacX-7/CVE-2025-50867">	<img alt="stars" src="https://img.shields.io/github/stars/SacX-7/CVE-2025-50867">
 
 ---
 ## CVE-2025-50866 ()
