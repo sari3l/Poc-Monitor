@@ -204,6 +204,11 @@
 - [Ler2sq/CVE-2019-8985](https://github.com/Ler2sq/CVE-2019-8985)	<img alt="forks" src="https://img.shields.io/github/forks/Ler2sq/CVE-2019-8985">	<img alt="stars" src="https://img.shields.io/github/stars/Ler2sq/CVE-2019-8985">
 
 ---
+## CVE-2019-8978 ()
+> 
+- [SecKatie/CVE-2019-8978](https://github.com/SecKatie/CVE-2019-8978)	<img alt="forks" src="https://img.shields.io/github/forks/SecKatie/CVE-2019-8978">	<img alt="stars" src="https://img.shields.io/github/stars/SecKatie/CVE-2019-8978">
+
+---
 ## CVE-2019-8813 (2019-12-18T18:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in iOS 13.2 and iPadOS 13.2, tvOS 13.2, Safari 13.0.3, iTunes for Windows 12.10.2, iCloud for Windows 11.0. Processing maliciously crafted web content may lead to universal cross site scripting.
 - [Live-Hack-CVE/CVE-2019-8813](https://github.com/Live-Hack-CVE/CVE-2019-8813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8813">
