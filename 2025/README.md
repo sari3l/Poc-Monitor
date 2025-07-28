@@ -315,6 +315,7 @@
 - [bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE](https://github.com/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE">
 - [3a7/CVE-2025-53770](https://github.com/3a7/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/3a7/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/3a7/CVE-2025-53770">
 - [r3xbugbounty/CVE-2025-53770](https://github.com/r3xbugbounty/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/r3xbugbounty/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/r3xbugbounty/CVE-2025-53770">
+- [daryllundy/CVE-2025-53770](https://github.com/daryllundy/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/CVE-2025-53770">
 
 ---
 ## CVE-2025-53652 ()
