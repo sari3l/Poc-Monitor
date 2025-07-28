@@ -314,6 +314,7 @@
 - [unk9vvn/sharepoint-toolpane](https://github.com/unk9vvn/sharepoint-toolpane)	<img alt="forks" src="https://img.shields.io/github/forks/unk9vvn/sharepoint-toolpane">	<img alt="stars" src="https://img.shields.io/github/stars/unk9vvn/sharepoint-toolpane">
 - [bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE](https://github.com/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE">
 - [3a7/CVE-2025-53770](https://github.com/3a7/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/3a7/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/3a7/CVE-2025-53770">
+- [r3xbugbounty/CVE-2025-53770](https://github.com/r3xbugbounty/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/r3xbugbounty/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/r3xbugbounty/CVE-2025-53770">
 
 ---
 ## CVE-2025-53652 ()
@@ -1701,6 +1702,7 @@
 - [MAAYTHM/CVE-2025-32462_32463-Lab](https://github.com/MAAYTHM/CVE-2025-32462_32463-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/MAAYTHM/CVE-2025-32462_32463-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/MAAYTHM/CVE-2025-32462_32463-Lab">
 - [toohau/CVE-2025-32462-32463-Detection-Script-](https://github.com/toohau/CVE-2025-32462-32463-Detection-Script-)	<img alt="forks" src="https://img.shields.io/github/forks/toohau/CVE-2025-32462-32463-Detection-Script-">	<img alt="stars" src="https://img.shields.io/github/stars/toohau/CVE-2025-32462-32463-Detection-Script-">
 - [MGunturG/CVE-2025-32462](https://github.com/MGunturG/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/MGunturG/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/MGunturG/CVE-2025-32462">
+- [j3r1ch0123/CVE-2025-32462](https://github.com/j3r1ch0123/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2025-32462">
 
 ---
 ## CVE-2025-32433 ()
