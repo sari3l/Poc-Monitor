@@ -2984,6 +2984,8 @@
 - [GongWook/CVE-2025-24813](https://github.com/GongWook/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/GongWook/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/GongWook/CVE-2025-24813">
 - [sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC](https://github.com/sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC">
 - [Shivshantp/CVE-2025-24813](https://github.com/Shivshantp/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-24813">
+- [x00byte/PutScanner](https://github.com/x00byte/PutScanner)	<img alt="forks" src="https://img.shields.io/github/forks/x00byte/PutScanner">	<img alt="stars" src="https://img.shields.io/github/stars/x00byte/PutScanner">
+- [uzairhaider502/CVE-2025-24813](https://github.com/uzairhaider502/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/uzairhaider502/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/uzairhaider502/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
