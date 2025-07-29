@@ -2272,6 +2272,7 @@
 - [Kamal-Hegazi/CVE-2025-29927-Next.js-Middleware-Authorization-Bypass](https://github.com/Kamal-Hegazi/CVE-2025-29927-Next.js-Middleware-Authorization-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/CVE-2025-29927-Next.js-Middleware-Authorization-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/CVE-2025-29927-Next.js-Middleware-Authorization-Bypass">
 - [mickhacking/Thank-u-Next](https://github.com/mickhacking/Thank-u-Next)	<img alt="forks" src="https://img.shields.io/github/forks/mickhacking/Thank-u-Next">	<img alt="stars" src="https://img.shields.io/github/stars/mickhacking/Thank-u-Next">
 - [sahbaazansari/CVE-2025-29927](https://github.com/sahbaazansari/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sahbaazansari/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sahbaazansari/CVE-2025-29927">
+- [b4sh0xf/PoC-CVE-2025-29927](https://github.com/b4sh0xf/PoC-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/b4sh0xf/PoC-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/b4sh0xf/PoC-CVE-2025-29927">
 
 ---
 ## CVE-2025-29824 ()
