@@ -13,6 +13,7 @@
 - [p1ton3rr/poc-cve-2001-1473](https://github.com/p1ton3rr/poc-cve-2001-1473)	<img alt="forks" src="https://img.shields.io/github/forks/p1ton3rr/poc-cve-2001-1473">	<img alt="stars" src="https://img.shields.io/github/stars/p1ton3rr/poc-cve-2001-1473">
 - [m00n3rrr/poc-CVE-2001-1473](https://github.com/m00n3rrr/poc-CVE-2001-1473)	<img alt="forks" src="https://img.shields.io/github/forks/m00n3rrr/poc-CVE-2001-1473">	<img alt="stars" src="https://img.shields.io/github/stars/m00n3rrr/poc-CVE-2001-1473">
 - [alexandermoro/cve-2001-1473](https://github.com/alexandermoro/cve-2001-1473)	<img alt="forks" src="https://img.shields.io/github/forks/alexandermoro/cve-2001-1473">	<img alt="stars" src="https://img.shields.io/github/stars/alexandermoro/cve-2001-1473">
+- [s1mpl3c0d3/cvepoc](https://github.com/s1mpl3c0d3/cvepoc)	<img alt="forks" src="https://img.shields.io/github/forks/s1mpl3c0d3/cvepoc">	<img alt="stars" src="https://img.shields.io/github/stars/s1mpl3c0d3/cvepoc">
 
 ---
 ## CVE-2001-0352 (2001-07-21T04:00:00)

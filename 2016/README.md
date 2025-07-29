@@ -490,6 +490,11 @@
 - [jndok/PegasusX](https://github.com/jndok/PegasusX)	<img alt="forks" src="https://img.shields.io/github/forks/jndok/PegasusX">	<img alt="stars" src="https://img.shields.io/github/stars/jndok/PegasusX">
 
 ---
+## CVE-2016-4622 ()
+> 
+- [hdbreaker/WebKit-CVE-2016-4622](https://github.com/hdbreaker/WebKit-CVE-2016-4622)	<img alt="forks" src="https://img.shields.io/github/forks/hdbreaker/WebKit-CVE-2016-4622">	<img alt="stars" src="https://img.shields.io/github/stars/hdbreaker/WebKit-CVE-2016-4622">
+
+---
 ## CVE-2016-4508 (2016-07-06T14:59:00)
 > Cross-site scripting (XSS) vulnerability in Rexroth Bosch BLADEcontrol-WebVIS 3.0.2 and earlier allows remote attackers to inject arbitrary web script or HTML via unspecified vectors.
 - [Live-Hack-CVE/CVE-2016-4508](https://github.com/Live-Hack-CVE/CVE-2016-4508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4508">
