@@ -9233,6 +9233,7 @@
 - [0xSs0rZ/Windows_Exploit](https://github.com/0xSs0rZ/Windows_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xSs0rZ/Windows_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xSs0rZ/Windows_Exploit">
 - [Sp4ceDogy/NPE-CS-V-CVE-2021-1675](https://github.com/Sp4ceDogy/NPE-CS-V-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/Sp4ceDogy/NPE-CS-V-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/Sp4ceDogy/NPE-CS-V-CVE-2021-1675">
 - [DLL00P/CVE-2021-1675](https://github.com/DLL00P/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/DLL00P/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/DLL00P/CVE-2021-1675">
+- [CameraShutterBug/PrintNightmare](https://github.com/CameraShutterBug/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/CameraShutterBug/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/CameraShutterBug/PrintNightmare">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)
