@@ -421,6 +421,11 @@
 - [wrathfulDiety/CVE-2025-52357](https://github.com/wrathfulDiety/CVE-2025-52357)	<img alt="forks" src="https://img.shields.io/github/forks/wrathfulDiety/CVE-2025-52357">	<img alt="stars" src="https://img.shields.io/github/stars/wrathfulDiety/CVE-2025-52357">
 
 ---
+## CVE-2025-52289 ()
+> 
+- [Madhav-Bhardwaj/CVE-2025-52289](https://github.com/Madhav-Bhardwaj/CVE-2025-52289)	<img alt="forks" src="https://img.shields.io/github/forks/Madhav-Bhardwaj/CVE-2025-52289">	<img alt="stars" src="https://img.shields.io/github/stars/Madhav-Bhardwaj/CVE-2025-52289">
+
+---
 ## CVE-2025-52097 ()
 > 
 - [rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097)	<img alt="forks" src="https://img.shields.io/github/forks/rwilsonecs/CVE-2025-52097">	<img alt="stars" src="https://img.shields.io/github/stars/rwilsonecs/CVE-2025-52097">
