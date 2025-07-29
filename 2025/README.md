@@ -891,6 +891,11 @@
 - [Oblivionsage/fastify-cve-2025-47240](https://github.com/Oblivionsage/fastify-cve-2025-47240)	<img alt="forks" src="https://img.shields.io/github/forks/Oblivionsage/fastify-cve-2025-47240">	<img alt="stars" src="https://img.shields.io/github/stars/Oblivionsage/fastify-cve-2025-47240">
 
 ---
+## CVE-2025-47227 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-47227](https://github.com/B1ack4sh/Blackash-CVE-2025-47227)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-47227">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-47227">
+
+---
 ## CVE-2025-47226 ()
 > 
 - [koyomihack00/CVE-2025-47226](https://github.com/koyomihack00/CVE-2025-47226)	<img alt="forks" src="https://img.shields.io/github/forks/koyomihack00/CVE-2025-47226">	<img alt="stars" src="https://img.shields.io/github/stars/koyomihack00/CVE-2025-47226">
