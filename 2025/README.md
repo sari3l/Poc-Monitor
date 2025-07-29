@@ -899,6 +899,7 @@
 ## CVE-2025-47227 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-47227](https://github.com/B1ack4sh/Blackash-CVE-2025-47227)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-47227">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-47227">
+- [synacktiv/CVE-2025-47227_CVE-2025-47228](https://github.com/synacktiv/CVE-2025-47227_CVE-2025-47228)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2025-47227_CVE-2025-47228">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2025-47227_CVE-2025-47228">
 
 ---
 ## CVE-2025-47226 ()
