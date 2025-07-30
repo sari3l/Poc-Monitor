@@ -2586,6 +2586,11 @@
 - [fatkz/CVE-2025-27590](https://github.com/fatkz/CVE-2025-27590)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-27590">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-27590">
 
 ---
+## CVE-2025-27581 ()
+> 
+- [Henryisnotavailable/CVE-2025-27581](https://github.com/Henryisnotavailable/CVE-2025-27581)	<img alt="forks" src="https://img.shields.io/github/forks/Henryisnotavailable/CVE-2025-27581">	<img alt="stars" src="https://img.shields.io/github/stars/Henryisnotavailable/CVE-2025-27581">
+
+---
 ## CVE-2025-27580 ()
 > 
 - [TrustStackSecurity/CVE-2025-27580](https://github.com/TrustStackSecurity/CVE-2025-27580)	<img alt="forks" src="https://img.shields.io/github/forks/TrustStackSecurity/CVE-2025-27580">	<img alt="stars" src="https://img.shields.io/github/stars/TrustStackSecurity/CVE-2025-27580">
