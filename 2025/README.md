@@ -1733,6 +1733,7 @@
 - [AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462](https://github.com/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">
 - [ChetanKomal/sudo_exploit](https://github.com/ChetanKomal/sudo_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ChetanKomal/sudo_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ChetanKomal/sudo_exploit">
 - [KaiHT-Ladiant/CVE-2025-32463](https://github.com/KaiHT-Ladiant/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/KaiHT-Ladiant/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/KaiHT-Ladiant/CVE-2025-32463">
+- [y4ney/CVE-2025-32463-lab](https://github.com/y4ney/CVE-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/y4ney/CVE-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/y4ney/CVE-2025-32463-lab">
 
 ---
 ## CVE-2025-32462 ()
