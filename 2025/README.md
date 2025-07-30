@@ -1147,6 +1147,11 @@
 - [yallasec/CVE-2025-45407](https://github.com/yallasec/CVE-2025-45407)	<img alt="forks" src="https://img.shields.io/github/forks/yallasec/CVE-2025-45407">	<img alt="stars" src="https://img.shields.io/github/stars/yallasec/CVE-2025-45407">
 
 ---
+## CVE-2025-45346 ()
+> 
+- [0xsu3ks/CVE-2025-45346](https://github.com/0xsu3ks/CVE-2025-45346)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2025-45346">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2025-45346">
+
+---
 ## CVE-2025-45250 ()
 > 
 - [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/Anike-x/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/Anike-x/CVE-2025-45250">
@@ -2355,6 +2360,16 @@
 ## CVE-2025-29602 ()
 > 
 - [harish0x/CVE-2025-29602](https://github.com/harish0x/CVE-2025-29602)	<img alt="forks" src="https://img.shields.io/github/forks/harish0x/CVE-2025-29602">	<img alt="stars" src="https://img.shields.io/github/stars/harish0x/CVE-2025-29602">
+
+---
+## CVE-2025-29557 ()
+> 
+- [0xsu3ks/CVE-2025-29557](https://github.com/0xsu3ks/CVE-2025-29557)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2025-29557">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2025-29557">
+
+---
+## CVE-2025-29556 ()
+> 
+- [0xsu3ks/CVE-2025-29556](https://github.com/0xsu3ks/CVE-2025-29556)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2025-29556">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2025-29556">
 
 ---
 ## CVE-2025-29529 ()

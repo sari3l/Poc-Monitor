@@ -5114,6 +5114,16 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [pamoutaf/CVE-2024-34329](https://github.com/pamoutaf/CVE-2024-34329)	<img alt="forks" src="https://img.shields.io/github/forks/pamoutaf/CVE-2024-34329">	<img alt="stars" src="https://img.shields.io/github/stars/pamoutaf/CVE-2024-34329">
 
 ---
+## CVE-2024-34328 ()
+> 
+- [0xsu3ks/CVE-2024-34328](https://github.com/0xsu3ks/CVE-2024-34328)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2024-34328">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2024-34328">
+
+---
+## CVE-2024-34327 ()
+> 
+- [0xsu3ks/CVE-2024-34327](https://github.com/0xsu3ks/CVE-2024-34327)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2024-34327">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2024-34327">
+
+---
 ## CVE-2024-3432 (2024-04-07T23:15:00)
 > A vulnerability was found in PuneethReddyHC Event Management 1.0. It has been rated as critical. This issue affects some unknown processing of the file /backend/register.php. The manipulation of the argument event_id/full_name/email/mobile/college/branch leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-259613 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [pamoutaf/CVE-2024-3432](https://github.com/pamoutaf/CVE-2024-3432)	<img alt="forks" src="https://img.shields.io/github/forks/pamoutaf/CVE-2024-3432">	<img alt="stars" src="https://img.shields.io/github/stars/pamoutaf/CVE-2024-3432">
