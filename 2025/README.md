@@ -173,6 +173,7 @@
 - [dreysanox/CVE-2025-6018_Poc](https://github.com/dreysanox/CVE-2025-6018_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dreysanox/CVE-2025-6018_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dreysanox/CVE-2025-6018_Poc">
 - [ibrahmsql/CVE-2025-6018-](https://github.com/ibrahmsql/CVE-2025-6018-)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018-">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018-">
 - [ibrahmsql/CVE-2025-6018](https://github.com/ibrahmsql/CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018">
+- [B1ack4sh/Blackash-CVE-2025-6018](https://github.com/B1ack4sh/Blackash-CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6018">
 
 ---
 ## CVE-2025-5964 ()
