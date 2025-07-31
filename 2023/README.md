@@ -6838,6 +6838,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Aureum01/CVE-2023-23752](https://github.com/Aureum01/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Aureum01/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Aureum01/CVE-2023-23752">
 - [0x0jr/HTB-Devvortex-CVE-2023-2375-PoC](https://github.com/0x0jr/HTB-Devvortex-CVE-2023-2375-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x0jr/HTB-Devvortex-CVE-2023-2375-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x0jr/HTB-Devvortex-CVE-2023-2375-PoC">
 - [rabeltester44/cve-2023-23752](https://github.com/rabeltester44/cve-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/rabeltester44/cve-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/rabeltester44/cve-2023-23752">
+- [0xVoodoo/CVE-2023-23752](https://github.com/0xVoodoo/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xVoodoo/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xVoodoo/CVE-2023-23752">
 
 ---
 ## CVE-2023-2375 (2023-04-28T15:15:00)
