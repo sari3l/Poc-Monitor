@@ -2604,6 +2604,7 @@
 - [incommatose/CVE-2025-27591-PoC](https://github.com/incommatose/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/incommatose/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/incommatose/CVE-2025-27591-PoC">
 - [00xCanelo/CVE-2025-27591](https://github.com/00xCanelo/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-27591">
 - [Thekin-ctrl/CVE-2025-27591-Below](https://github.com/Thekin-ctrl/CVE-2025-27591-Below)	<img alt="forks" src="https://img.shields.io/github/forks/Thekin-ctrl/CVE-2025-27591-Below">	<img alt="stars" src="https://img.shields.io/github/stars/Thekin-ctrl/CVE-2025-27591-Below">
+- [Cythonic1/CVE-2025-27591](https://github.com/Cythonic1/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Cythonic1/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Cythonic1/CVE-2025-27591">
 
 ---
 ## CVE-2025-27590 ()
