@@ -7082,6 +7082,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 > Strapi through 4.5.5 allows attackers (with access to the admin panel) to discover sensitive user details by exploiting the query filter. The attacker can filter users by columns that contain sensitive information and infer a value from API responses. If the attacker has super admin access, then this can be exploited to discover the password hash and password reset token of all users. If the attacker has admin panel access to an account with permission to access the username and email of API users with a lower privileged role (e.g., Editor or Author), then this can be exploited to discover sensitive information for all API users but not other admin accounts.
 - [Saboor-Hakimi/CVE-2023-22894](https://github.com/Saboor-Hakimi/CVE-2023-22894)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi/CVE-2023-22894">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi/CVE-2023-22894">
 - [ductan2/CVE-2023-22894](https://github.com/ductan2/CVE-2023-22894)	<img alt="forks" src="https://img.shields.io/github/forks/ductan2/CVE-2023-22894">	<img alt="stars" src="https://img.shields.io/github/stars/ductan2/CVE-2023-22894">
+- [maxntv24/CVE-2023-22894-PoC](https://github.com/maxntv24/CVE-2023-22894-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maxntv24/CVE-2023-22894-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maxntv24/CVE-2023-22894-PoC">
 
 ---
 ## CVE-2023-22884 (2023-01-21T14:15:00)
