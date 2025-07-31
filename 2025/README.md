@@ -245,6 +245,11 @@
 - [byteReaper77/CVE-2025-54769](https://github.com/byteReaper77/CVE-2025-54769)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-54769">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-54769">
 
 ---
+## CVE-2025-54589 ()
+> 
+- [byteReaper77/CVE-2025-54589](https://github.com/byteReaper77/CVE-2025-54589)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-54589">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-54589">
+
+---
 ## CVE-2025-54554 ()
 > 
 - [Aman-Parmar/CVE-2025-54554](https://github.com/Aman-Parmar/CVE-2025-54554)	<img alt="forks" src="https://img.shields.io/github/forks/Aman-Parmar/CVE-2025-54554">	<img alt="stars" src="https://img.shields.io/github/stars/Aman-Parmar/CVE-2025-54554">
