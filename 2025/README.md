@@ -441,6 +441,8 @@
 ## CVE-2025-52289 ()
 > 
 - [Madhav-Bhardwaj/CVE-2025-52289](https://github.com/Madhav-Bhardwaj/CVE-2025-52289)	<img alt="forks" src="https://img.shields.io/github/forks/Madhav-Bhardwaj/CVE-2025-52289">	<img alt="stars" src="https://img.shields.io/github/stars/Madhav-Bhardwaj/CVE-2025-52289">
+- [Madhav-Bhardwaj/CVE-2025-52289](https://github.com/Madhav-Bhardwaj/CVE-2025-52289)	<img alt="forks" src="https://img.shields.io/github/forks/Madhav-Bhardwaj/CVE-2025-52289">	<img alt="stars" src="https://img.shields.io/github/stars/Madhav-Bhardwaj/CVE-2025-52289">
+- [Whit3-d3viL-hacker/CVE-2025-52289](https://github.com/Whit3-d3viL-hacker/CVE-2025-52289)	<img alt="forks" src="https://img.shields.io/github/forks/Whit3-d3viL-hacker/CVE-2025-52289">	<img alt="stars" src="https://img.shields.io/github/stars/Whit3-d3viL-hacker/CVE-2025-52289">
 
 ---
 ## CVE-2025-52097 ()
