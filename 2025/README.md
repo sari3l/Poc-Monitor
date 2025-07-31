@@ -498,6 +498,11 @@
 - [Secsys-FDU/CVE-2025-51858](https://github.com/Secsys-FDU/CVE-2025-51858)	<img alt="forks" src="https://img.shields.io/github/forks/Secsys-FDU/CVE-2025-51858">	<img alt="stars" src="https://img.shields.io/github/stars/Secsys-FDU/CVE-2025-51858">
 
 ---
+## CVE-2025-51482 ()
+> 
+- [Kai-One001/Letta-CVE-2025-51482-RCE](https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kai-One001/Letta-CVE-2025-51482-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kai-One001/Letta-CVE-2025-51482-RCE">
+
+---
 ## CVE-2025-51411 ()
 > 
 - [tansique-17/CVE-2025-51411](https://github.com/tansique-17/CVE-2025-51411)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-51411">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-51411">
@@ -559,6 +564,11 @@
 - [veereshgadige/aziot-cctv-cve-2025-50777](https://github.com/veereshgadige/aziot-cctv-cve-2025-50777)	<img alt="forks" src="https://img.shields.io/github/forks/veereshgadige/aziot-cctv-cve-2025-50777">	<img alt="stars" src="https://img.shields.io/github/stars/veereshgadige/aziot-cctv-cve-2025-50777">
 
 ---
+## CVE-2025-50754 ()
+> 
+- [furk4nyildiz/CVE-2025-50754-PoC](https://github.com/furk4nyildiz/CVE-2025-50754-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/furk4nyildiz/CVE-2025-50754-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/furk4nyildiz/CVE-2025-50754-PoC">
+
+---
 ## CVE-2025-5068 ()
 > 
 - [amandanegefa/CVE-2025-5068](https://github.com/amandanegefa/CVE-2025-5068)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-5068">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-5068">
@@ -584,6 +594,11 @@
 ## CVE-2025-50341 ()
 > 
 - [millad7/Axelor-vulnerability-CVE-2025-50341](https://github.com/millad7/Axelor-vulnerability-CVE-2025-50341)	<img alt="forks" src="https://img.shields.io/github/forks/millad7/Axelor-vulnerability-CVE-2025-50341">	<img alt="stars" src="https://img.shields.io/github/stars/millad7/Axelor-vulnerability-CVE-2025-50341">
+
+---
+## CVE-2025-50340 ()
+> 
+- [millad7/SOGo_web_mail-vulnerability-CVE-2025-50340](https://github.com/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340)	<img alt="forks" src="https://img.shields.io/github/forks/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340">	<img alt="stars" src="https://img.shields.io/github/stars/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340">
 
 ---
 ## CVE-2025-5025 ()
