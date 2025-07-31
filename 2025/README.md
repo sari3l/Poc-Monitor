@@ -854,6 +854,8 @@
 - [elprogramadorgt/CVE-2025-48384](https://github.com/elprogramadorgt/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/elprogramadorgt/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/elprogramadorgt/CVE-2025-48384">
 - [rtefx/CVE-2025-48384](https://github.com/rtefx/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/rtefx/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/rtefx/CVE-2025-48384">
 - [rtefx/CVE-2025-48384-2](https://github.com/rtefx/CVE-2025-48384-2)	<img alt="forks" src="https://img.shields.io/github/forks/rtefx/CVE-2025-48384-2">	<img alt="stars" src="https://img.shields.io/github/stars/rtefx/CVE-2025-48384-2">
+- [won6c/CVE-2025-48384-Git-RCE-PoC](https://github.com/won6c/CVE-2025-48384-Git-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/won6c/CVE-2025-48384-Git-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/won6c/CVE-2025-48384-Git-RCE-PoC">
+- [won6c/CVE-2025-48384-submodule](https://github.com/won6c/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/won6c/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/won6c/CVE-2025-48384-submodule">
 
 ---
 ## CVE-2025-4822 ()
