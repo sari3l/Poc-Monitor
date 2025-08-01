@@ -3230,6 +3230,7 @@
 > 
 - [andrei2308/CVE-2020-21365](https://github.com/andrei2308/CVE-2020-21365)	<img alt="forks" src="https://img.shields.io/github/forks/andrei2308/CVE-2020-21365">	<img alt="stars" src="https://img.shields.io/github/stars/andrei2308/CVE-2020-21365">
 - [samaellovecraft/CVE-2020-21365](https://github.com/samaellovecraft/CVE-2020-21365)	<img alt="forks" src="https://img.shields.io/github/forks/samaellovecraft/CVE-2020-21365">	<img alt="stars" src="https://img.shields.io/github/stars/samaellovecraft/CVE-2020-21365">
+- [andrei2308/CVE-2020-21365-PoC](https://github.com/andrei2308/CVE-2020-21365-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/andrei2308/CVE-2020-21365-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/andrei2308/CVE-2020-21365-PoC">
 
 ---
 ## CVE-2020-21219 (2022-12-15T19:15:00)
