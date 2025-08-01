@@ -603,6 +603,11 @@
 - [Anchor0221/CVE-2025-50460](https://github.com/Anchor0221/CVE-2025-50460)	<img alt="forks" src="https://img.shields.io/github/forks/Anchor0221/CVE-2025-50460">	<img alt="stars" src="https://img.shields.io/github/stars/Anchor0221/CVE-2025-50460">
 
 ---
+## CVE-2025-50420 ()
+> 
+- [Landw-hub/CVE-2025-50420](https://github.com/Landw-hub/CVE-2025-50420)	<img alt="forks" src="https://img.shields.io/github/forks/Landw-hub/CVE-2025-50420">	<img alt="stars" src="https://img.shields.io/github/stars/Landw-hub/CVE-2025-50420">
+
+---
 ## CVE-2025-50341 ()
 > 
 - [millad7/Axelor-vulnerability-CVE-2025-50341](https://github.com/millad7/Axelor-vulnerability-CVE-2025-50341)	<img alt="forks" src="https://img.shields.io/github/forks/millad7/Axelor-vulnerability-CVE-2025-50341">	<img alt="stars" src="https://img.shields.io/github/stars/millad7/Axelor-vulnerability-CVE-2025-50341">
@@ -870,6 +875,7 @@
 - [won6c/CVE-2025-48384-Git-RCE-PoC](https://github.com/won6c/CVE-2025-48384-Git-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/won6c/CVE-2025-48384-Git-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/won6c/CVE-2025-48384-Git-RCE-PoC">
 - [won6c/CVE-2025-48384-submodule](https://github.com/won6c/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/won6c/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/won6c/CVE-2025-48384-submodule">
 - [won6c/CVE-2025-48384-Git-RCE-PoC](https://github.com/won6c/CVE-2025-48384-Git-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/won6c/CVE-2025-48384-Git-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/won6c/CVE-2025-48384-Git-RCE-PoC">
+- [f1shh/CVE-2025-48384](https://github.com/f1shh/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/f1shh/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/f1shh/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
