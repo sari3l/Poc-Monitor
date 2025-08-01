@@ -1448,6 +1448,11 @@
 - [NotItsSixtyN3in/CVE-2025-4162025](https://github.com/NotItsSixtyN3in/CVE-2025-4162025)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162025">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162025">
 
 ---
+## CVE-2025-41373 ()
+> 
+- [byteReaper77/CVE-2025-41373](https://github.com/byteReaper77/CVE-2025-41373)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-41373">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-41373">
+
+---
 ## CVE-2025-4123 ()
 > 
 - [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
