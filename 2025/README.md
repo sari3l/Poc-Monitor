@@ -811,6 +811,7 @@
 - [trh4ckn0n/CVE-2025-48703](https://github.com/trh4ckn0n/CVE-2025-48703)	<img alt="forks" src="https://img.shields.io/github/forks/trh4ckn0n/CVE-2025-48703">	<img alt="stars" src="https://img.shields.io/github/stars/trh4ckn0n/CVE-2025-48703">
 - [Skynoxk/CVE-2025-48703](https://github.com/Skynoxk/CVE-2025-48703)	<img alt="forks" src="https://img.shields.io/github/forks/Skynoxk/CVE-2025-48703">	<img alt="stars" src="https://img.shields.io/github/stars/Skynoxk/CVE-2025-48703">
 - [Sq-CC/CVE-2025-48703](https://github.com/Sq-CC/CVE-2025-48703)	<img alt="forks" src="https://img.shields.io/github/forks/Sq-CC/CVE-2025-48703">	<img alt="stars" src="https://img.shields.io/github/stars/Sq-CC/CVE-2025-48703">
+- [itstarsec/CVE-2025-48703](https://github.com/itstarsec/CVE-2025-48703)	<img alt="forks" src="https://img.shields.io/github/forks/itstarsec/CVE-2025-48703">	<img alt="stars" src="https://img.shields.io/github/stars/itstarsec/CVE-2025-48703">
 
 ---
 ## CVE-2025-48466 ()
@@ -1063,6 +1064,7 @@
 ---
 ## CVE-2025-46206 ()
 > 
+- [Landw-hub/CVE-2025-46206](https://github.com/Landw-hub/CVE-2025-46206)	<img alt="forks" src="https://img.shields.io/github/forks/Landw-hub/CVE-2025-46206">	<img alt="stars" src="https://img.shields.io/github/stars/Landw-hub/CVE-2025-46206">
 - [Landw-hub/CVE-2025-46206](https://github.com/Landw-hub/CVE-2025-46206)	<img alt="forks" src="https://img.shields.io/github/forks/Landw-hub/CVE-2025-46206">	<img alt="stars" src="https://img.shields.io/github/stars/Landw-hub/CVE-2025-46206">
 
 ---
