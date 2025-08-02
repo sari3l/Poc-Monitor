@@ -898,6 +898,7 @@
 - [fluoworite/CVE-2025-48384_sub](https://github.com/fluoworite/CVE-2025-48384_sub)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384_sub">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384_sub">
 - [fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384">
 - [fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384">
+- [fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
