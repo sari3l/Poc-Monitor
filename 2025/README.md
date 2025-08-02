@@ -895,6 +895,7 @@
 - [won6c/CVE-2025-48384-Git-RCE-PoC](https://github.com/won6c/CVE-2025-48384-Git-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/won6c/CVE-2025-48384-Git-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/won6c/CVE-2025-48384-Git-RCE-PoC">
 - [f1shh/CVE-2025-48384](https://github.com/f1shh/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/f1shh/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/f1shh/CVE-2025-48384">
 - [fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384">
+- [fluoworite/CVE-2025-48384_sub](https://github.com/fluoworite/CVE-2025-48384_sub)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384_sub">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384_sub">
 
 ---
 ## CVE-2025-4822 ()
