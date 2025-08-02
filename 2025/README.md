@@ -290,6 +290,11 @@
 - [itsShotgun/chrome_cve-2025-5419_checker](https://github.com/itsShotgun/chrome_cve-2025-5419_checker)	<img alt="forks" src="https://img.shields.io/github/forks/itsShotgun/chrome_cve-2025-5419_checker">	<img alt="stars" src="https://img.shields.io/github/stars/itsShotgun/chrome_cve-2025-5419_checker">
 
 ---
+## CVE-2025-54135 ()
+> 
+- [allinsthon/CVE-2025-54135](https://github.com/allinsthon/CVE-2025-54135)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54135">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54135">
+
+---
 ## CVE-2025-53964 ()
 > 
 - [tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964)	<img alt="forks" src="https://img.shields.io/github/forks/tigr78/CVE-2025-53964">	<img alt="stars" src="https://img.shields.io/github/stars/tigr78/CVE-2025-53964">
