@@ -345,6 +345,7 @@
 - [daryllundy/CVE-2025-53770](https://github.com/daryllundy/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/CVE-2025-53770">
 - [0x-crypt/CVE-2025-53770-Scanner](https://github.com/0x-crypt/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/0x-crypt/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/0x-crypt/CVE-2025-53770-Scanner">
 - [Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC](https://github.com/Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC">
+- [harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC](https://github.com/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC">
 
 ---
 ## CVE-2025-53652 ()
