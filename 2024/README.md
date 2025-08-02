@@ -8749,7 +8749,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [FlojBoj/CVE-2024-21626](https://github.com/FlojBoj/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-21626">
 - [Sk3pper/CVE-2024-21626-old-docker-versions](https://github.com/Sk3pper/CVE-2024-21626-old-docker-versions)	<img alt="forks" src="https://img.shields.io/github/forks/Sk3pper/CVE-2024-21626-old-docker-versions">	<img alt="stars" src="https://img.shields.io/github/stars/Sk3pper/CVE-2024-21626-old-docker-versions">
 - [adaammmeeee/little-joke](https://github.com/adaammmeeee/little-joke)	<img alt="forks" src="https://img.shields.io/github/forks/adaammmeeee/little-joke">	<img alt="stars" src="https://img.shields.io/github/stars/adaammmeeee/little-joke">
-- [R4mbb/CVE-2024-21626](https://github.com/R4mbb/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/R4mbb/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/R4mbb/CVE-2024-21626">
+- [R4mbb/CVE-2024-21626-PoC](https://github.com/R4mbb/CVE-2024-21626-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/R4mbb/CVE-2024-21626-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/R4mbb/CVE-2024-21626-PoC">
 
 ---
 ## CVE-2024-21591 (2024-01-12T01:15:00)
