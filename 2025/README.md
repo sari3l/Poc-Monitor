@@ -1603,6 +1603,11 @@
 - [allinsthon/CVE-2025-34138](https://github.com/allinsthon/CVE-2025-34138)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-34138">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-34138">
 
 ---
+## CVE-2025-34100 ()
+> 
+- [RyanJohnJames/CVE-2025-34100-demo](https://github.com/RyanJohnJames/CVE-2025-34100-demo)	<img alt="forks" src="https://img.shields.io/github/forks/RyanJohnJames/CVE-2025-34100-demo">	<img alt="stars" src="https://img.shields.io/github/stars/RyanJohnJames/CVE-2025-34100-demo">
+
+---
 ## CVE-2025-34085 ()
 > 
 - [MrjHaxcore/CVE-2025-34085](https://github.com/MrjHaxcore/CVE-2025-34085)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-34085">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-34085">
