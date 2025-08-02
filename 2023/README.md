@@ -6683,6 +6683,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-24489-ShareFile">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-24489-ShareFile">
 - [codeb0ss/CVE-2023-24489-PoC](https://github.com/codeb0ss/CVE-2023-24489-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-24489-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-24489-PoC">
 - [whalebone7/CVE-2023-24489-poc](https://github.com/whalebone7/CVE-2023-24489-poc)	<img alt="forks" src="https://img.shields.io/github/forks/whalebone7/CVE-2023-24489-poc">	<img alt="stars" src="https://img.shields.io/github/stars/whalebone7/CVE-2023-24489-poc">
+- [Narsimhareddy28/cve-2023-24489](https://github.com/Narsimhareddy28/cve-2023-24489)	<img alt="forks" src="https://img.shields.io/github/forks/Narsimhareddy28/cve-2023-24489">	<img alt="stars" src="https://img.shields.io/github/stars/Narsimhareddy28/cve-2023-24489">
 
 ---
 ## CVE-2023-24488 (2023-07-10T21:15:00)
