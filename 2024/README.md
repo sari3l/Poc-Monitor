@@ -6979,6 +6979,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-2782 ()
 > 
 - [whale93/CVE-2024-2782-PoC](https://github.com/whale93/CVE-2024-2782-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/whale93/CVE-2024-2782-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/whale93/CVE-2024-2782-PoC">
+- [0xilis/CVE-2024-27821](https://github.com/0xilis/CVE-2024-27821)	<img alt="forks" src="https://img.shields.io/github/forks/0xilis/CVE-2024-27821">	<img alt="stars" src="https://img.shields.io/github/stars/0xilis/CVE-2024-27821">
 
 ---
 ## CVE-2024-27815 (2024-06-10T21:15:00)
