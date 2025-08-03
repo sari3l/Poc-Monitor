@@ -5590,6 +5590,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-32019 ()
 > 
 - [AzureADTrent/CVE-2024-32019-POC](https://github.com/AzureADTrent/CVE-2024-32019-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2024-32019-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2024-32019-POC">
+- [AliElKhatteb/CVE-2024-32019-POC](https://github.com/AliElKhatteb/CVE-2024-32019-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2024-32019-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2024-32019-POC">
 
 ---
 ## CVE-2024-32004 (2024-05-14T19:15:00)
