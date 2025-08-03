@@ -903,6 +903,7 @@
 - [fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384">
 - [fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384">
 - [fluoworite/CVE-2025-48384-sub](https://github.com/fluoworite/CVE-2025-48384-sub)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384-sub">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384-sub">
+- [beishanxueyuan/CVE-2025-48384](https://github.com/beishanxueyuan/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/beishanxueyuan/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/beishanxueyuan/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
@@ -3108,6 +3109,8 @@
 - [ibrahimsql/cve-2025-24893](https://github.com/ibrahimsql/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/cve-2025-24893">
 - [nopgadget/CVE-2025-24893](https://github.com/nopgadget/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/nopgadget/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/nopgadget/CVE-2025-24893">
 - [Kai7788/CVE-2025-24893-RCE-PoC](https://github.com/Kai7788/CVE-2025-24893-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Kai7788/CVE-2025-24893-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Kai7788/CVE-2025-24893-RCE-PoC">
+- [dhiaZnaidi/CVE-2025-24893-PoC](https://github.com/dhiaZnaidi/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dhiaZnaidi/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dhiaZnaidi/CVE-2025-24893-PoC">
+- [AliElKhatteb/CVE-2024-32019-POC](https://github.com/AliElKhatteb/CVE-2024-32019-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2024-32019-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2024-32019-POC">
 
 ---
 ## CVE-2025-24813 ()
