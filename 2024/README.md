@@ -3391,6 +3391,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Bhavyakcwestern/Hacking-pdf.js-vulnerability](https://github.com/Bhavyakcwestern/Hacking-pdf.js-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Bhavyakcwestern/Hacking-pdf.js-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Bhavyakcwestern/Hacking-pdf.js-vulnerability">
 - [BektiHandoyo/cve-pdf-host](https://github.com/BektiHandoyo/cve-pdf-host)	<img alt="forks" src="https://img.shields.io/github/forks/BektiHandoyo/cve-pdf-host">	<img alt="stars" src="https://img.shields.io/github/stars/BektiHandoyo/cve-pdf-host">
 - [MihranGIT/POC_CVE-2024-4367](https://github.com/MihranGIT/POC_CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/MihranGIT/POC_CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/MihranGIT/POC_CVE-2024-4367">
+- [MihranGIT/CVE-2024-4367](https://github.com/MihranGIT/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/MihranGIT/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/MihranGIT/CVE-2024-4367">
 
 ---
 ## CVE-2024-43639 ()
