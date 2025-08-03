@@ -5587,6 +5587,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [huseyinstif/CVE-2024-32030-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-32030-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-32030-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-32030-Nuclei-Template">
 
 ---
+## CVE-2024-32019 ()
+> 
+- [AzureADTrent/CVE-2024-32019-POC](https://github.com/AzureADTrent/CVE-2024-32019-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2024-32019-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2024-32019-POC">
+
+---
 ## CVE-2024-32004 (2024-05-14T19:15:00)
 > Git is a revision control system. Prior to versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4, an attacker can prepare a local repository in such a way that, when cloned, will execute arbitrary code during the operation. The problem has been patched in versions 2.45.1, 2.44.1, 2.43.4, 2.42.2, 2.41.1, 2.40.2, and 2.39.4. As a workaround, avoid cloning repositories from untrusted sources.
 - [Wadewfsssss/CVE-2024-32004](https://github.com/Wadewfsssss/CVE-2024-32004)	<img alt="forks" src="https://img.shields.io/github/forks/Wadewfsssss/CVE-2024-32004">	<img alt="stars" src="https://img.shields.io/github/stars/Wadewfsssss/CVE-2024-32004">
