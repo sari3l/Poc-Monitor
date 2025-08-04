@@ -108,6 +108,7 @@
 - [piranhap/CVE-2013-3900_Remediation_PowerShell](https://github.com/piranhap/CVE-2013-3900_Remediation_PowerShell)	<img alt="forks" src="https://img.shields.io/github/forks/piranhap/CVE-2013-3900_Remediation_PowerShell">	<img alt="stars" src="https://img.shields.io/github/stars/piranhap/CVE-2013-3900_Remediation_PowerShell">
 - [pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-](https://github.com/pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-)	<img alt="forks" src="https://img.shields.io/github/forks/pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-">	<img alt="stars" src="https://img.shields.io/github/stars/pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-">
 - [malaya-m/cve-2013-3900-remediation-report](https://github.com/malaya-m/cve-2013-3900-remediation-report)	<img alt="forks" src="https://img.shields.io/github/forks/malaya-m/cve-2013-3900-remediation-report">	<img alt="stars" src="https://img.shields.io/github/stars/malaya-m/cve-2013-3900-remediation-report">
+- [Sabecomoeh/CVE-2013-3900](https://github.com/Sabecomoeh/CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/Sabecomoeh/CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/Sabecomoeh/CVE-2013-3900">
 
 ---
 ## CVE-2013-3827 (2013-10-16T15:55:00)
