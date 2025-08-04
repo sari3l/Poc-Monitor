@@ -284,6 +284,7 @@
 ## CVE-2025-54381 ()
 > 
 - [rockmelodies/bentoml_CVE-2025-54381](https://github.com/rockmelodies/bentoml_CVE-2025-54381)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/bentoml_CVE-2025-54381">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/bentoml_CVE-2025-54381">
+- [B1ack4sh/Blackash-CVE-2025-54381](https://github.com/B1ack4sh/Blackash-CVE-2025-54381)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-54381">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-54381">
 
 ---
 ## CVE-2025-54352 ()
