@@ -3118,6 +3118,7 @@
 - [AliElKhatteb/CVE-2024-32019-POC](https://github.com/AliElKhatteb/CVE-2024-32019-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2024-32019-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2024-32019-POC">
 - [hackersonsteroids/cve-2025-24893](https://github.com/hackersonsteroids/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/hackersonsteroids/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/hackersonsteroids/cve-2025-24893">
 - [Infinit3i/CVE-2025-24893](https://github.com/Infinit3i/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Infinit3i/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Infinit3i/CVE-2025-24893">
+- [gunzf0x/CVE-2025-24893](https://github.com/gunzf0x/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
