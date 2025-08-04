@@ -625,6 +625,11 @@
 - [amandanegefa/CVE-2025-5068](https://github.com/amandanegefa/CVE-2025-5068)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-5068">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-5068">
 
 ---
+## CVE-2025-50592 ()
+> 
+- [1515601525/CVE-2025-50592](https://github.com/1515601525/CVE-2025-50592)	<img alt="forks" src="https://img.shields.io/github/forks/1515601525/CVE-2025-50592">	<img alt="stars" src="https://img.shields.io/github/stars/1515601525/CVE-2025-50592">
+
+---
 ## CVE-2025-5054 ()
 > 
 - [daryllundy/cve-2025-5054](https://github.com/daryllundy/cve-2025-5054)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/cve-2025-5054">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/cve-2025-5054">
