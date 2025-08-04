@@ -270,6 +270,11 @@
 - [Aman-Parmar/CVE-2025-54554](https://github.com/Aman-Parmar/CVE-2025-54554)	<img alt="forks" src="https://img.shields.io/github/forks/Aman-Parmar/CVE-2025-54554">	<img alt="stars" src="https://img.shields.io/github/stars/Aman-Parmar/CVE-2025-54554">
 
 ---
+## CVE-2025-54424 ()
+> 
+- [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2025-54424">
+
+---
 ## CVE-2025-54381 ()
 > 
 - [rockmelodies/bentoml_CVE-2025-54381](https://github.com/rockmelodies/bentoml_CVE-2025-54381)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/bentoml_CVE-2025-54381">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/bentoml_CVE-2025-54381">
