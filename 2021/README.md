@@ -998,6 +998,7 @@
 - [fabioeletto/hka-seminar-log4shell](https://github.com/fabioeletto/hka-seminar-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/fabioeletto/hka-seminar-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/fabioeletto/hka-seminar-log4shell">
 - [vasti123/probable-octo-waddle](https://github.com/vasti123/probable-octo-waddle)	<img alt="forks" src="https://img.shields.io/github/forks/vasti123/probable-octo-waddle">	<img alt="stars" src="https://img.shields.io/github/stars/vasti123/probable-octo-waddle">
 - [Alan-coder-eng/log4j-cve-2021-44228-](https://github.com/Alan-coder-eng/log4j-cve-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/Alan-coder-eng/log4j-cve-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/Alan-coder-eng/log4j-cve-2021-44228-">
+- [Sorrence/CVE-2021-44228](https://github.com/Sorrence/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Sorrence/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Sorrence/CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
