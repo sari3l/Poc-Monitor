@@ -528,6 +528,11 @@
 - [Secsys-FDU/CVE-2025-51858](https://github.com/Secsys-FDU/CVE-2025-51858)	<img alt="forks" src="https://img.shields.io/github/forks/Secsys-FDU/CVE-2025-51858">	<img alt="stars" src="https://img.shields.io/github/stars/Secsys-FDU/CVE-2025-51858">
 
 ---
+## CVE-2025-51820 ()
+> 
+- [shk-mubashshir/CVE-2025-51820](https://github.com/shk-mubashshir/CVE-2025-51820)	<img alt="forks" src="https://img.shields.io/github/forks/shk-mubashshir/CVE-2025-51820">	<img alt="stars" src="https://img.shields.io/github/stars/shk-mubashshir/CVE-2025-51820">
+
+---
 ## CVE-2025-51482 ()
 > 
 - [Kai-One001/Letta-CVE-2025-51482-RCE](https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kai-One001/Letta-CVE-2025-51482-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kai-One001/Letta-CVE-2025-51482-RCE">
@@ -909,6 +914,7 @@
 - [fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384">
 - [fluoworite/CVE-2025-48384-sub](https://github.com/fluoworite/CVE-2025-48384-sub)	<img alt="forks" src="https://img.shields.io/github/forks/fluoworite/CVE-2025-48384-sub">	<img alt="stars" src="https://img.shields.io/github/stars/fluoworite/CVE-2025-48384-sub">
 - [beishanxueyuan/CVE-2025-48384](https://github.com/beishanxueyuan/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/beishanxueyuan/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/beishanxueyuan/CVE-2025-48384">
+- [beishanxueyuan/CVE-2025-48384-test](https://github.com/beishanxueyuan/CVE-2025-48384-test)	<img alt="forks" src="https://img.shields.io/github/forks/beishanxueyuan/CVE-2025-48384-test">	<img alt="stars" src="https://img.shields.io/github/stars/beishanxueyuan/CVE-2025-48384-test">
 
 ---
 ## CVE-2025-4822 ()
