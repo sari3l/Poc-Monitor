@@ -496,6 +496,11 @@
 - [rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097)	<img alt="forks" src="https://img.shields.io/github/forks/rwilsonecs/CVE-2025-52097">	<img alt="stars" src="https://img.shields.io/github/stars/rwilsonecs/CVE-2025-52097">
 
 ---
+## CVE-2025-52078 ()
+> 
+- [Yucaerin/CVE-2025-52078](https://github.com/Yucaerin/CVE-2025-52078)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-52078">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-52078">
+
+---
 ## CVE-2025-51970 ()
 > 
 - [M4xIq/CVE-2025-51970](https://github.com/M4xIq/CVE-2025-51970)	<img alt="forks" src="https://img.shields.io/github/forks/M4xIq/CVE-2025-51970">	<img alt="stars" src="https://img.shields.io/github/stars/M4xIq/CVE-2025-51970">
