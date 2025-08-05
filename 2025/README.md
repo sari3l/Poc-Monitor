@@ -1891,6 +1891,7 @@
 - [KaiHT-Ladiant/CVE-2025-32463](https://github.com/KaiHT-Ladiant/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/KaiHT-Ladiant/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/KaiHT-Ladiant/CVE-2025-32463">
 - [y4ney/CVE-2025-32463-lab](https://github.com/y4ney/CVE-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/y4ney/CVE-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/y4ney/CVE-2025-32463-lab">
 - [Dlodlos/CVE-2025-32463-lab](https://github.com/Dlodlos/CVE-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Dlodlos/CVE-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Dlodlos/CVE-2025-32463-lab">
+- [aldoClau98/CVE-2025-32463](https://github.com/aldoClau98/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/aldoClau98/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/aldoClau98/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
