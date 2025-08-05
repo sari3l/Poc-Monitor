@@ -1892,6 +1892,7 @@
 - [y4ney/CVE-2025-32463-lab](https://github.com/y4ney/CVE-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/y4ney/CVE-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/y4ney/CVE-2025-32463-lab">
 - [Dlodlos/CVE-2025-32463-lab](https://github.com/Dlodlos/CVE-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Dlodlos/CVE-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Dlodlos/CVE-2025-32463-lab">
 - [aldoClau98/CVE-2025-32463](https://github.com/aldoClau98/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/aldoClau98/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/aldoClau98/CVE-2025-32463">
+- [painoob/CVE-2025-32463](https://github.com/painoob/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
@@ -3162,6 +3163,7 @@
 - [gunzf0x/CVE-2025-24893](https://github.com/gunzf0x/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2025-24893">
 - [dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC](https://github.com/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC">
 - [zs1n/CVE-2025-24893](https://github.com/zs1n/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/zs1n/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/zs1n/CVE-2025-24893">
+- [investigato/cve-2025-24893-poc](https://github.com/investigato/cve-2025-24893-poc)	<img alt="forks" src="https://img.shields.io/github/forks/investigato/cve-2025-24893-poc">	<img alt="stars" src="https://img.shields.io/github/stars/investigato/cve-2025-24893-poc">
 
 ---
 ## CVE-2025-24813 ()
