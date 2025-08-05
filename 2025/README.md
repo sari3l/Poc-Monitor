@@ -668,6 +668,11 @@
 - [millad7/SOGo_web_mail-vulnerability-CVE-2025-50340](https://github.com/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340)	<img alt="forks" src="https://img.shields.io/github/forks/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340">	<img alt="stars" src="https://img.shields.io/github/stars/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340">
 
 ---
+## CVE-2025-50286 ()
+> 
+- [binneko/CVE-2025-50286](https://github.com/binneko/CVE-2025-50286)	<img alt="forks" src="https://img.shields.io/github/forks/binneko/CVE-2025-50286">	<img alt="stars" src="https://img.shields.io/github/stars/binneko/CVE-2025-50286">
+
+---
 ## CVE-2025-5025 ()
 > 
 - [KiPhuong/cve-2025-5025](https://github.com/KiPhuong/cve-2025-5025)	<img alt="forks" src="https://img.shields.io/github/forks/KiPhuong/cve-2025-5025">	<img alt="stars" src="https://img.shields.io/github/stars/KiPhuong/cve-2025-5025">
