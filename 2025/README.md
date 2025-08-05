@@ -627,6 +627,11 @@
 - [amandanegefa/CVE-2025-5068](https://github.com/amandanegefa/CVE-2025-5068)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-5068">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-5068">
 
 ---
+## CVE-2025-50675 ()
+> 
+- [LukeSec/CVE-2025-50675-GPMAW-Permissions](https://github.com/LukeSec/CVE-2025-50675-GPMAW-Permissions)	<img alt="forks" src="https://img.shields.io/github/forks/LukeSec/CVE-2025-50675-GPMAW-Permissions">	<img alt="stars" src="https://img.shields.io/github/stars/LukeSec/CVE-2025-50675-GPMAW-Permissions">
+
+---
 ## CVE-2025-50592 ()
 > 
 - [1515601525/CVE-2025-50592](https://github.com/1515601525/CVE-2025-50592)	<img alt="forks" src="https://img.shields.io/github/forks/1515601525/CVE-2025-50592">	<img alt="stars" src="https://img.shields.io/github/stars/1515601525/CVE-2025-50592">
@@ -860,6 +865,7 @@
 - [Wh04m1001/CVE-2025-48799](https://github.com/Wh04m1001/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2025-48799">
 - [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
 - [KOVmechatronics/CVE-2025-48799](https://github.com/KOVmechatronics/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/KOVmechatronics/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/KOVmechatronics/CVE-2025-48799">
+- [painoob/CVE-2025-48799](https://github.com/painoob/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/CVE-2025-48799">
 
 ---
 ## CVE-2025-48708 ()
