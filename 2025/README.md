@@ -316,6 +316,7 @@
 ## CVE-2025-54253 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-54253](https://github.com/B1ack4sh/Blackash-CVE-2025-54253)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-54253">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-54253">
+- [Shivshantp/CVE-2025-54253-Exploit-Demo](https://github.com/Shivshantp/CVE-2025-54253-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-54253-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-54253-Exploit-Demo">
 
 ---
 ## CVE-2025-5419 ()
