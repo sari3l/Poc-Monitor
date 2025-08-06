@@ -891,6 +891,11 @@
 - [itstarsec/CVE-2025-48703](https://github.com/itstarsec/CVE-2025-48703)	<img alt="forks" src="https://img.shields.io/github/forks/itstarsec/CVE-2025-48703">	<img alt="stars" src="https://img.shields.io/github/stars/itstarsec/CVE-2025-48703">
 
 ---
+## CVE-2025-48621 ()
+> 
+- [Layer1-Artist/POC-CVE-2025-48621](https://github.com/Layer1-Artist/POC-CVE-2025-48621)	<img alt="forks" src="https://img.shields.io/github/forks/Layer1-Artist/POC-CVE-2025-48621">	<img alt="stars" src="https://img.shields.io/github/stars/Layer1-Artist/POC-CVE-2025-48621">
+
+---
 ## CVE-2025-48466 ()
 > 
 - [shipcod3/CVE-2025-48466](https://github.com/shipcod3/CVE-2025-48466)	<img alt="forks" src="https://img.shields.io/github/forks/shipcod3/CVE-2025-48466">	<img alt="stars" src="https://img.shields.io/github/stars/shipcod3/CVE-2025-48466">
@@ -3222,6 +3227,7 @@
 - [Shivshantp/CVE-2025-24813](https://github.com/Shivshantp/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-24813">
 - [x00byte/PutScanner](https://github.com/x00byte/PutScanner)	<img alt="forks" src="https://img.shields.io/github/forks/x00byte/PutScanner">	<img alt="stars" src="https://img.shields.io/github/stars/x00byte/PutScanner">
 - [uzairhaider502/CVE-2025-24813](https://github.com/uzairhaider502/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/uzairhaider502/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/uzairhaider502/CVE-2025-24813">
+- [cyglegit/CVE-2025-24813](https://github.com/cyglegit/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/cyglegit/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/cyglegit/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
