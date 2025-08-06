@@ -4830,6 +4830,11 @@
 - [deathflash1411/cve-2021-35448](https://github.com/deathflash1411/cve-2021-35448)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/cve-2021-35448">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/cve-2021-35448">
 
 ---
+## CVE-2021-3544 ()
+> 
+- [Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE](https://github.com/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE">
+
+---
 ## CVE-2021-35368 (2021-11-05T18:15:00)
 > OWASP ModSecurity Core Rule Set 3.1.x before 3.1.2, 3.2.x before 3.2.1, and 3.3.x before 3.3.2 is affected by a Request Body Bypass via a trailing pathname.
 - [Live-Hack-CVE/CVE-2021-35368](https://github.com/Live-Hack-CVE/CVE-2021-35368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35368">
