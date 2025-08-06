@@ -3189,6 +3189,7 @@
 - [dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC](https://github.com/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC">
 - [zs1n/CVE-2025-24893](https://github.com/zs1n/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/zs1n/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/zs1n/CVE-2025-24893">
 - [investigato/cve-2025-24893-poc](https://github.com/investigato/cve-2025-24893-poc)	<img alt="forks" src="https://img.shields.io/github/forks/investigato/cve-2025-24893-poc">	<img alt="stars" src="https://img.shields.io/github/stars/investigato/cve-2025-24893-poc">
+- [570RMBR3AK3R/xwiki-cve-2025-24893-poc](https://github.com/570RMBR3AK3R/xwiki-cve-2025-24893-poc)	<img alt="forks" src="https://img.shields.io/github/forks/570RMBR3AK3R/xwiki-cve-2025-24893-poc">	<img alt="stars" src="https://img.shields.io/github/stars/570RMBR3AK3R/xwiki-cve-2025-24893-poc">
 
 ---
 ## CVE-2025-24813 ()
