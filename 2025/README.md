@@ -266,6 +266,11 @@
 - [Eyodav/CVE-2025-54962](https://github.com/Eyodav/CVE-2025-54962)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-54962">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-54962">
 
 ---
+## CVE-2025-54948 ()
+> 
+- [allinsthon/CVE-2025-54948](https://github.com/allinsthon/CVE-2025-54948)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54948">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54948">
+
+---
 ## CVE-2025-54794 ()
 > 
 - [AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back](https://github.com/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">
@@ -3205,6 +3210,7 @@
 - [zs1n/CVE-2025-24893](https://github.com/zs1n/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/zs1n/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/zs1n/CVE-2025-24893">
 - [investigato/cve-2025-24893-poc](https://github.com/investigato/cve-2025-24893-poc)	<img alt="forks" src="https://img.shields.io/github/forks/investigato/cve-2025-24893-poc">	<img alt="stars" src="https://img.shields.io/github/stars/investigato/cve-2025-24893-poc">
 - [570RMBR3AK3R/xwiki-cve-2025-24893-poc](https://github.com/570RMBR3AK3R/xwiki-cve-2025-24893-poc)	<img alt="forks" src="https://img.shields.io/github/forks/570RMBR3AK3R/xwiki-cve-2025-24893-poc">	<img alt="stars" src="https://img.shields.io/github/stars/570RMBR3AK3R/xwiki-cve-2025-24893-poc">
+- [IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch](https://github.com/IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch)	<img alt="forks" src="https://img.shields.io/github/forks/IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch">	<img alt="stars" src="https://img.shields.io/github/stars/IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch">
 
 ---
 ## CVE-2025-24813 ()
