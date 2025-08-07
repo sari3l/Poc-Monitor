@@ -2497,6 +2497,7 @@
 - [mickhacking/Thank-u-Next](https://github.com/mickhacking/Thank-u-Next)	<img alt="forks" src="https://img.shields.io/github/forks/mickhacking/Thank-u-Next">	<img alt="stars" src="https://img.shields.io/github/stars/mickhacking/Thank-u-Next">
 - [sahbaazansari/CVE-2025-29927](https://github.com/sahbaazansari/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sahbaazansari/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sahbaazansari/CVE-2025-29927">
 - [b4sh0xf/PoC-CVE-2025-29927](https://github.com/b4sh0xf/PoC-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/b4sh0xf/PoC-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/b4sh0xf/PoC-CVE-2025-29927">
+- [aayush256-sys/next-js-auth-bypass](https://github.com/aayush256-sys/next-js-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/aayush256-sys/next-js-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/aayush256-sys/next-js-auth-bypass">
 
 ---
 ## CVE-2025-29824 ()
@@ -3213,6 +3214,7 @@
 - [570RMBR3AK3R/xwiki-cve-2025-24893-poc](https://github.com/570RMBR3AK3R/xwiki-cve-2025-24893-poc)	<img alt="forks" src="https://img.shields.io/github/forks/570RMBR3AK3R/xwiki-cve-2025-24893-poc">	<img alt="stars" src="https://img.shields.io/github/stars/570RMBR3AK3R/xwiki-cve-2025-24893-poc">
 - [IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch](https://github.com/IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch)	<img alt="forks" src="https://img.shields.io/github/forks/IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch">	<img alt="stars" src="https://img.shields.io/github/stars/IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch">
 - [Hex00-1337/CVE-2025-24893-XWiki-Platform---Remote-Code-Execution](https://github.com/Hex00-1337/CVE-2025-24893-XWiki-Platform---Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-1337/CVE-2025-24893-XWiki-Platform---Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-1337/CVE-2025-24893-XWiki-Platform---Remote-Code-Execution">
+- [Hex00-1337/CVE-2025-24893-XWiki-Platform-Remote-Code-Execution](https://github.com/Hex00-1337/CVE-2025-24893-XWiki-Platform-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-1337/CVE-2025-24893-XWiki-Platform-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-1337/CVE-2025-24893-XWiki-Platform-Remote-Code-Execution">
 - [Hex00-1337/CVE-2025-24893-XWiki-Platform-Remote-Code-Execution](https://github.com/Hex00-1337/CVE-2025-24893-XWiki-Platform-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-1337/CVE-2025-24893-XWiki-Platform-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-1337/CVE-2025-24893-XWiki-Platform-Remote-Code-Execution">
 
 ---
