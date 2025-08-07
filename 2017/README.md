@@ -207,6 +207,7 @@
 - [andychao/CVE-2017-7921_reproduces_decrypted_file_sharing](https://github.com/andychao/CVE-2017-7921_reproduces_decrypted_file_sharing)	<img alt="forks" src="https://img.shields.io/github/forks/andychao/CVE-2017-7921_reproduces_decrypted_file_sharing">	<img alt="stars" src="https://img.shields.io/github/stars/andychao/CVE-2017-7921_reproduces_decrypted_file_sharing">
 - [aengussong/hikvision_probe](https://github.com/aengussong/hikvision_probe)	<img alt="forks" src="https://img.shields.io/github/forks/aengussong/hikvision_probe">	<img alt="stars" src="https://img.shields.io/github/stars/aengussong/hikvision_probe">
 - [GabrielAvls/CVE-2017-7921](https://github.com/GabrielAvls/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/GabrielAvls/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/GabrielAvls/CVE-2017-7921">
+- [initon/Hikvision---CVE-2017-7921](https://github.com/initon/Hikvision---CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/initon/Hikvision---CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/initon/Hikvision---CVE-2017-7921">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
