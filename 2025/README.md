@@ -408,6 +408,7 @@
 - [Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC](https://github.com/Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC">
 - [harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC](https://github.com/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC">
 - [SDX442/CVE-2025-53770](https://github.com/SDX442/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/SDX442/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/SDX442/CVE-2025-53770">
+- [Agampreet-Singh/CVE-2025-53770](https://github.com/Agampreet-Singh/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2025-53770">
 
 ---
 ## CVE-2025-53652 ()
