@@ -242,6 +242,7 @@
 - [Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE](https://github.com/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE">
 - [rob0tstxt/POC-CVE-2025-5777](https://github.com/rob0tstxt/POC-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/rob0tstxt/POC-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/rob0tstxt/POC-CVE-2025-5777">
 - [below0day/Honeypot-Logs-CVE-2025-5777](https://github.com/below0day/Honeypot-Logs-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/below0day/Honeypot-Logs-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/below0day/Honeypot-Logs-CVE-2025-5777">
+- [soltanali0/CVE-2025-5777-Exploit](https://github.com/soltanali0/CVE-2025-5777-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-5777-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-5777-Exploit">
 
 ---
 ## CVE-2025-5755 ()
