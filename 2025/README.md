@@ -1553,6 +1553,11 @@
 - [byteReaper77/CVE-2025-41373](https://github.com/byteReaper77/CVE-2025-41373)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-41373">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-41373">
 
 ---
+## CVE-2025-4126 ()
+> 
+- [Slow-Mist/CVE-2025-4126](https://github.com/Slow-Mist/CVE-2025-4126)	<img alt="forks" src="https://img.shields.io/github/forks/Slow-Mist/CVE-2025-4126">	<img alt="stars" src="https://img.shields.io/github/stars/Slow-Mist/CVE-2025-4126">
+
+---
 ## CVE-2025-4123 ()
 > 
 - [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
@@ -2252,6 +2257,7 @@
 - [bronsoneaver/CVE-2025-30406](https://github.com/bronsoneaver/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-30406">
 - [W01fh4cker/CVE-2025-30406](https://github.com/W01fh4cker/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2025-30406">
 - [mchklt/CVE-2025-30406](https://github.com/mchklt/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/mchklt/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/mchklt/CVE-2025-30406">
+- [Gersonaze/CVE-2025-30406](https://github.com/Gersonaze/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/Gersonaze/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/Gersonaze/CVE-2025-30406">
 
 ---
 ## CVE-2025-30401 ()
