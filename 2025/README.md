@@ -1950,6 +1950,7 @@
 - [aldoClau98/CVE-2025-32463](https://github.com/aldoClau98/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/aldoClau98/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/aldoClau98/CVE-2025-32463">
 - [painoob/CVE-2025-32463](https://github.com/painoob/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/CVE-2025-32463">
 - [Nowafen/CVE-2025-32463](https://github.com/Nowafen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2025-32463">
+- [Nowafen/CVE-2025-32463](https://github.com/Nowafen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
@@ -3238,6 +3239,7 @@
 - [Th3Gl0w/CVE-2025-24893-POC](https://github.com/Th3Gl0w/CVE-2025-24893-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Gl0w/CVE-2025-24893-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Gl0w/CVE-2025-24893-POC">
 - [Hex00-0x4/CVE-2025-24893-XWiki-RCE](https://github.com/Hex00-0x4/CVE-2025-24893-XWiki-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/CVE-2025-24893-XWiki-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/CVE-2025-24893-XWiki-RCE">
 - [The-Red-Serpent/CVE-2025-24893](https://github.com/The-Red-Serpent/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/The-Red-Serpent/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/The-Red-Serpent/CVE-2025-24893">
+- [alaxar/CVE-2025-24893](https://github.com/alaxar/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/alaxar/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/alaxar/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
