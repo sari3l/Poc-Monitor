@@ -148,6 +148,11 @@
 - [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/ChaseHCS/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/ChaseHCS/CVE-2025-6514">
 
 ---
+## CVE-2025-6384 ()
+> 
+- [mbadanoiu/CVE-2025-6384](https://github.com/mbadanoiu/CVE-2025-6384)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-6384">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-6384">
+
+---
 ## CVE-2025-6335 ()
 > 
 - [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335)	<img alt="forks" src="https://img.shields.io/github/forks/jujubooom/CVE-2025-6335">	<img alt="stars" src="https://img.shields.io/github/stars/jujubooom/CVE-2025-6335">
