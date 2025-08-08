@@ -201,6 +201,7 @@
 - [tpdlshdmlrkfmcla/CVE-2018-7600.](https://github.com/tpdlshdmlrkfmcla/CVE-2018-7600.)	<img alt="forks" src="https://img.shields.io/github/forks/tpdlshdmlrkfmcla/CVE-2018-7600.">	<img alt="stars" src="https://img.shields.io/github/stars/tpdlshdmlrkfmcla/CVE-2018-7600.">
 - [Dowonkwon/drupal-cve-2018-7600-poc](https://github.com/Dowonkwon/drupal-cve-2018-7600-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Dowonkwon/drupal-cve-2018-7600-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Dowonkwon/drupal-cve-2018-7600-poc">
 - [M-Abid34/CVE-2018-7600](https://github.com/M-Abid34/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/M-Abid34/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/M-Abid34/CVE-2018-7600">
+- [rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution](https://github.com/rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
