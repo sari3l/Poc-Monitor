@@ -2097,6 +2097,11 @@
 - [DoTTak/CVE-2025-31864](https://github.com/DoTTak/CVE-2025-31864)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-31864">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-31864">
 
 ---
+## CVE-2025-31722 ()
+> 
+- [Nick6371/CVE-2025-31722](https://github.com/Nick6371/CVE-2025-31722)	<img alt="forks" src="https://img.shields.io/github/forks/Nick6371/CVE-2025-31722">	<img alt="stars" src="https://img.shields.io/github/stars/Nick6371/CVE-2025-31722">
+
+---
 ## CVE-2025-31651 ()
 > 
 - [gregk4sec/CVE-2025-31651](https://github.com/gregk4sec/CVE-2025-31651)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-31651">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-31651">
