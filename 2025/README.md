@@ -3257,6 +3257,7 @@
 - [The-Red-Serpent/CVE-2025-24893](https://github.com/The-Red-Serpent/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/The-Red-Serpent/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/The-Red-Serpent/CVE-2025-24893">
 - [alaxar/CVE-2025-24893](https://github.com/alaxar/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/alaxar/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/alaxar/CVE-2025-24893">
 - [laughtersec/CVE-2025-24893](https://github.com/laughtersec/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/laughtersec/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/laughtersec/CVE-2025-24893">
+- [D3Ext/CVE-2025-24893](https://github.com/D3Ext/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/D3Ext/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/D3Ext/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
