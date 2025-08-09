@@ -1966,6 +1966,7 @@
 - [painoob/CVE-2025-32463](https://github.com/painoob/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/CVE-2025-32463">
 - [Nowafen/CVE-2025-32463](https://github.com/Nowafen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2025-32463">
 - [Nowafen/CVE-2025-32463](https://github.com/Nowafen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2025-32463">
+- [behnamvanda/CVE-2025-32463](https://github.com/behnamvanda/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/behnamvanda/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/behnamvanda/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
