@@ -10367,3 +10367,4 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 ## CVE-2024-0000 ()
 > 
 - [labc-dev/CVE-2024-0000](https://github.com/labc-dev/CVE-2024-0000)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-0000">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-0000">
+- [nullsquirtle/CVE-2024-0000-PoC](https://github.com/nullsquirtle/CVE-2024-0000-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nullsquirtle/CVE-2024-0000-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nullsquirtle/CVE-2024-0000-PoC">
