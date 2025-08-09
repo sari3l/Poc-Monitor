@@ -6382,6 +6382,11 @@
 - [Live-Hack-CVE/CVE-2021-30844](https://github.com/Live-Hack-CVE/CVE-2021-30844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30844">
 
 ---
+## CVE-2021-30809 ()
+> 
+- [seregonwar/CVE-2021-30809-UAF](https://github.com/seregonwar/CVE-2021-30809-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/seregonwar/CVE-2021-30809-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/seregonwar/CVE-2021-30809-UAF">
+
+---
 ## CVE-2021-30640 (2021-07-12T15:15:00)
 > A vulnerability in the JNDI Realm of Apache Tomcat allows an attacker to authenticate using variations of a valid user name and/or to bypass some of the protection provided by the LockOut Realm. This issue affects Apache Tomcat 10.0.0-M1 to 10.0.5; 9.0.0.M1 to 9.0.45; 8.5.0 to 8.5.65.
 - [Live-Hack-CVE/CVE-2021-30640](https://github.com/Live-Hack-CVE/CVE-2021-30640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30640">
