@@ -370,8 +370,12 @@
 ---
 ## CVE-2017-5941 (2017-02-09T19:59:00)
 > An issue was discovered in the node-serialize package 0.0.4 for Node.js. Untrusted data passed into the unserialize() function can be exploited to achieve arbitrary code execution by passing a JavaScript Object with an Immediately Invoked Function Expression (IIFE).
-- [Cr4zyD14m0nd137/Lab-for-CVE-2017-5941](https://github.com/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941">
+- [Cr4zyD14m0nd137/Lab-for-cve-2018-15133](https://github.com/Cr4zyD14m0nd137/Lab-for-cve-2018-15133)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4zyD14m0nd137/Lab-for-cve-2018-15133">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4zyD14m0nd137/Lab-for-cve-2018-15133">
 - [Frivolous-scholar/CVE-2017-5941-NodeJS-RCE](https://github.com/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">
+- [kylew1004/cve-2017-5941-poc-docker-lab](https://github.com/kylew1004/cve-2017-5941-poc-docker-lab)	<img alt="forks" src="https://img.shields.io/github/forks/kylew1004/cve-2017-5941-poc-docker-lab">	<img alt="stars" src="https://img.shields.io/github/stars/kylew1004/cve-2017-5941-poc-docker-lab">
+- [rodolfomarianocy/nodeserial](https://github.com/rodolfomarianocy/nodeserial)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/nodeserial">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/nodeserial">
+- [uartu0/nodejshell](https://github.com/uartu0/nodejshell)	<img alt="forks" src="https://img.shields.io/github/forks/uartu0/nodejshell">	<img alt="stars" src="https://img.shields.io/github/stars/uartu0/nodejshell">
+- [turnernator1/Node.js-CVE-2017-5941](https://github.com/turnernator1/Node.js-CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/turnernator1/Node.js-CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/turnernator1/Node.js-CVE-2017-5941">
 
 ---
 ## CVE-2017-5871 (2019-05-22T20:29:00)
