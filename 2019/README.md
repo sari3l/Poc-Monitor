@@ -3224,6 +3224,11 @@ use after free.
 - [ahaShiyu/CVE-2019-1010319](https://github.com/ahaShiyu/CVE-2019-1010319)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-1010319">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-1010319">
 
 ---
+## CVE-2019-1010298 ()
+> 
+- [RKX1209/CVE-2019-1010298](https://github.com/RKX1209/CVE-2019-1010298)	<img alt="forks" src="https://img.shields.io/github/forks/RKX1209/CVE-2019-1010298">	<img alt="stars" src="https://img.shields.io/github/stars/RKX1209/CVE-2019-1010298">
+
+---
 ## CVE-2019-1010268 (2019-07-18T17:15:00)
 > Ladon since 0.6.1 (since ebef0aae48af78c159b6fce81bc6f5e7e0ddb059) is affected by: XML External Entity (XXE). The impact is: Information Disclosure, reading files and reaching internal network endpoints. The component is: SOAP request handlers. For instance: https://bitbucket.org/jakobsg/ladon/src/42944fc012a3a48214791c120ee5619434505067/src/ladon/interfaces/soap.py#lines-688. The attack vector is: Send a specially crafted SOAP call.
 - [Tonyynot14/CVE-2019-1010268](https://github.com/Tonyynot14/CVE-2019-1010268)	<img alt="forks" src="https://img.shields.io/github/forks/Tonyynot14/CVE-2019-1010268">	<img alt="stars" src="https://img.shields.io/github/stars/Tonyynot14/CVE-2019-1010268">
