@@ -7739,6 +7739,7 @@ kernel memory, lateral privilege escalation, and container escape.
 ## CVE-2023-20938 (2023-02-28T17:15:00)
 > In binder_transaction_buffer_release of binder.c, there is a possible use after free due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-257685302References: Upstream kernel
 - [pl4int3xt/CVE-2023-20938](https://github.com/pl4int3xt/CVE-2023-20938)	<img alt="forks" src="https://img.shields.io/github/forks/pl4int3xt/CVE-2023-20938">	<img alt="stars" src="https://img.shields.io/github/stars/pl4int3xt/CVE-2023-20938">
+- [anansi2safe/CVE-2023-20938](https://github.com/anansi2safe/CVE-2023-20938)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2023-20938">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2023-20938">
 
 ---
 ## CVE-2023-20933 (2023-02-28T17:15:00)
