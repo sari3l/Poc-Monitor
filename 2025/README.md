@@ -281,6 +281,7 @@
 ## CVE-2025-55188 ()
 > 
 - [hunters-sec/CVE-2025-55188-7z-exploit](https://github.com/hunters-sec/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hunters-sec/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hunters-sec/CVE-2025-55188-7z-exploit">
+- [san8383/CVE-2025-55188-7z-POC](https://github.com/san8383/CVE-2025-55188-7z-POC)	<img alt="forks" src="https://img.shields.io/github/forks/san8383/CVE-2025-55188-7z-POC">	<img alt="stars" src="https://img.shields.io/github/stars/san8383/CVE-2025-55188-7z-POC">
 
 ---
 ## CVE-2025-54962 ()
