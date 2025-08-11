@@ -560,6 +560,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [0xlf/CVE-2024-7593](https://github.com/0xlf/CVE-2024-7593)	<img alt="forks" src="https://img.shields.io/github/forks/0xlf/CVE-2024-7593">	<img alt="stars" src="https://img.shields.io/github/stars/0xlf/CVE-2024-7593">
 
 ---
+## CVE-2024-7591 ()
+> 
+- [butyraldehyde/CVE-2024-7591-PoC](https://github.com/butyraldehyde/CVE-2024-7591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/butyraldehyde/CVE-2024-7591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/butyraldehyde/CVE-2024-7591-PoC">
+
+---
 ## CVE-2024-7514 (2024-10-11T13:15:00)
 > The WordPress Comments Import & Export plugin for WordPress is vulnerable to to arbitrary file read due to insufficient file path validation during the comments import process, in versions up to, and including, 2.3.7. This makes it possible for authenticated attackers, with Author-level access and above, to read the contents of arbitrary files on the server, which can contain sensitive information.
 The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
