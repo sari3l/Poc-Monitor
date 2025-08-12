@@ -3218,6 +3218,11 @@
 - [strivepan/cve-2025-252513](https://github.com/strivepan/cve-2025-252513)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/cve-2025-252513">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/cve-2025-252513">
 
 ---
+## CVE-2025-25231 ()
+> 
+- [ashkan-pu/CVE-CVE-2025-25231](https://github.com/ashkan-pu/CVE-CVE-2025-25231)	<img alt="forks" src="https://img.shields.io/github/forks/ashkan-pu/CVE-CVE-2025-25231">	<img alt="stars" src="https://img.shields.io/github/stars/ashkan-pu/CVE-CVE-2025-25231">
+
+---
 ## CVE-2025-25163 ()
 > 
 - [RandomRobbieBF/CVE-2025-25163](https://github.com/RandomRobbieBF/CVE-2025-25163)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-25163">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-25163">
