@@ -999,6 +999,10 @@
 - [vasti123/probable-octo-waddle](https://github.com/vasti123/probable-octo-waddle)	<img alt="forks" src="https://img.shields.io/github/forks/vasti123/probable-octo-waddle">	<img alt="stars" src="https://img.shields.io/github/stars/vasti123/probable-octo-waddle">
 - [Alan-coder-eng/log4j-cve-2021-44228-](https://github.com/Alan-coder-eng/log4j-cve-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/Alan-coder-eng/log4j-cve-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/Alan-coder-eng/log4j-cve-2021-44228-">
 - [Sorrence/CVE-2021-44228](https://github.com/Sorrence/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Sorrence/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Sorrence/CVE-2021-44228">
+- [Jaonsd/PDF-FUD-Exploit](https://github.com/Jaonsd/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/PDF-FUD-Exploit">
+- [Jaonsd/Slient-URL-Exploit](https://github.com/Jaonsd/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/Slient-URL-Exploit">
+- [Jaonsd/Discord-Image-Logger-Stealer](https://github.com/Jaonsd/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/Discord-Image-Logger-Stealer">
+- [Jaonsd/HTA-Exploit](https://github.com/Jaonsd/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/HTA-Exploit">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
