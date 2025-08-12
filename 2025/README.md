@@ -297,6 +297,11 @@
 - [allinsthon/CVE-2025-54948](https://github.com/allinsthon/CVE-2025-54948)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54948">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54948">
 
 ---
+## CVE-2025-54887 ()
+> 
+- [shinigami-777/PoC_CVE-2025-54887](https://github.com/shinigami-777/PoC_CVE-2025-54887)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-54887">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-54887">
+
+---
 ## CVE-2025-54794 ()
 > 
 - [AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back](https://github.com/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">
