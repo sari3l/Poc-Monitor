@@ -2673,6 +2673,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 > 
 - [zetraxz/CVE-2024-47533](https://github.com/zetraxz/CVE-2024-47533)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-47533">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-47533">
 - [baph00met/CVE-2024-47533](https://github.com/baph00met/CVE-2024-47533)	<img alt="forks" src="https://img.shields.io/github/forks/baph00met/CVE-2024-47533">	<img alt="stars" src="https://img.shields.io/github/stars/baph00met/CVE-2024-47533">
+- [dollarboysushil/CVE-2024-47533-Cobbler-XMLRPC-Authentication-Bypass-RCE-Exploit-POC](https://github.com/dollarboysushil/CVE-2024-47533-Cobbler-XMLRPC-Authentication-Bypass-RCE-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/CVE-2024-47533-Cobbler-XMLRPC-Authentication-Bypass-RCE-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/CVE-2024-47533-Cobbler-XMLRPC-Authentication-Bypass-RCE-Exploit-POC">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
