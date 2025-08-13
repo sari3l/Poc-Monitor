@@ -453,6 +453,7 @@
 - [SDX442/CVE-2025-53770](https://github.com/SDX442/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/SDX442/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/SDX442/CVE-2025-53770">
 - [Agampreet-Singh/CVE-2025-53770](https://github.com/Agampreet-Singh/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2025-53770">
 - [behnamvanda/CVE-2025-53770-Checker](https://github.com/behnamvanda/CVE-2025-53770-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/behnamvanda/CVE-2025-53770-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/behnamvanda/CVE-2025-53770-Checker">
+- [CyprianAtsyor/ToolShell-CVE-2025-53770-SharePoint-Exploit-Lab-LetsDefend](https://github.com/CyprianAtsyor/ToolShell-CVE-2025-53770-SharePoint-Exploit-Lab-LetsDefend)	<img alt="forks" src="https://img.shields.io/github/forks/CyprianAtsyor/ToolShell-CVE-2025-53770-SharePoint-Exploit-Lab-LetsDefend">	<img alt="stars" src="https://img.shields.io/github/stars/CyprianAtsyor/ToolShell-CVE-2025-53770-SharePoint-Exploit-Lab-LetsDefend">
 
 ---
 ## CVE-2025-53652 ()
@@ -754,6 +755,11 @@
 ## CVE-2025-50420 ()
 > 
 - [Landw-hub/CVE-2025-50420](https://github.com/Landw-hub/CVE-2025-50420)	<img alt="forks" src="https://img.shields.io/github/forks/Landw-hub/CVE-2025-50420">	<img alt="stars" src="https://img.shields.io/github/stars/Landw-hub/CVE-2025-50420">
+
+---
+## CVE-2025-50360 ()
+> 
+- [Ch1keen/CVE-2025-50360](https://github.com/Ch1keen/CVE-2025-50360)	<img alt="forks" src="https://img.shields.io/github/forks/Ch1keen/CVE-2025-50360">	<img alt="stars" src="https://img.shields.io/github/stars/Ch1keen/CVE-2025-50360">
 
 ---
 ## CVE-2025-50341 ()
