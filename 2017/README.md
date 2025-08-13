@@ -1321,6 +1321,7 @@
 - [davidforis/exp-2024-1213](https://github.com/davidforis/exp-2024-1213)	<img alt="forks" src="https://img.shields.io/github/forks/davidforis/exp-2024-1213">	<img alt="stars" src="https://img.shields.io/github/stars/davidforis/exp-2024-1213">
 - [jadeapar/Dragonfish-s-Malware-Cyber-Analysis](https://github.com/jadeapar/Dragonfish-s-Malware-Cyber-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/jadeapar/Dragonfish-s-Malware-Cyber-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/jadeapar/Dragonfish-s-Malware-Cyber-Analysis">
 - [xdrake1010/CVE-2017-11882-Preventer](https://github.com/xdrake1010/CVE-2017-11882-Preventer)	<img alt="forks" src="https://img.shields.io/github/forks/xdrake1010/CVE-2017-11882-Preventer">	<img alt="stars" src="https://img.shields.io/github/stars/xdrake1010/CVE-2017-11882-Preventer">
+- [imkidz0/CVE-2017-11882](https://github.com/imkidz0/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/imkidz0/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/imkidz0/CVE-2017-11882">
 
 ---
 ## CVE-2017-1182 ()
