@@ -410,6 +410,11 @@
 - [OxPloited/CVE-2025-53778-Exploit](https://github.com/OxPloited/CVE-2025-53778-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OxPloited/CVE-2025-53778-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OxPloited/CVE-2025-53778-Exploit">
 
 ---
+## CVE-2025-53773 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-53773](https://github.com/B1ack4sh/Blackash-CVE-2025-53773)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53773">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53773">
+
+---
 ## CVE-2025-53770 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-53770](https://github.com/B1ack4sh/Blackash-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53770">
