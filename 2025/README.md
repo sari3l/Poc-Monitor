@@ -26,6 +26,7 @@
 - [jordan922/CVE-2025-8088](https://github.com/jordan922/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/jordan922/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/jordan922/CVE-2025-8088">
 - [travisbgreen/cve-2025-8088](https://github.com/travisbgreen/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/travisbgreen/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/travisbgreen/cve-2025-8088">
 - [knight0x07/WinRAR-CVE-2025-8088-PoC-RAR](https://github.com/knight0x07/WinRAR-CVE-2025-8088-PoC-RAR)	<img alt="forks" src="https://img.shields.io/github/forks/knight0x07/WinRAR-CVE-2025-8088-PoC-RAR">	<img alt="stars" src="https://img.shields.io/github/stars/knight0x07/WinRAR-CVE-2025-8088-PoC-RAR">
+- [sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-](https://github.com/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-">
 
 ---
 ## CVE-2025-8018 ()
