@@ -1053,6 +1053,7 @@
 - [beishanxueyuan/CVE-2025-48384-test](https://github.com/beishanxueyuan/CVE-2025-48384-test)	<img alt="forks" src="https://img.shields.io/github/forks/beishanxueyuan/CVE-2025-48384-test">	<img alt="stars" src="https://img.shields.io/github/stars/beishanxueyuan/CVE-2025-48384-test">
 - [jideasn/cve-2025-48384](https://github.com/jideasn/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/jideasn/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/jideasn/cve-2025-48384">
 - [jideasn/cve-2025-48384](https://github.com/jideasn/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/jideasn/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/jideasn/cve-2025-48384">
+- [testtianmaaaa/CVE-2025-48384](https://github.com/testtianmaaaa/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testtianmaaaa/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testtianmaaaa/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
