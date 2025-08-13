@@ -774,6 +774,11 @@
 - [KiPhuong/cve-2025-5025](https://github.com/KiPhuong/cve-2025-5025)	<img alt="forks" src="https://img.shields.io/github/forks/KiPhuong/cve-2025-5025">	<img alt="stars" src="https://img.shields.io/github/stars/KiPhuong/cve-2025-5025">
 
 ---
+## CVE-2025-50154 ()
+> 
+- [zenzue/CVE-2025-50154](https://github.com/zenzue/CVE-2025-50154)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2025-50154">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2025-50154">
+
+---
 ## CVE-2025-50002 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-50002](https://github.com/NotItsSixtyN3in/CVE-2025-50002)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-50002">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-50002">
