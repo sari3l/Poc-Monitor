@@ -1732,6 +1732,9 @@
 - [chefphenix25/vuln-rabilit-windows7](https://github.com/chefphenix25/vuln-rabilit-windows7)	<img alt="forks" src="https://img.shields.io/github/forks/chefphenix25/vuln-rabilit-windows7">	<img alt="stars" src="https://img.shields.io/github/stars/chefphenix25/vuln-rabilit-windows7">
 - [h3x0v3rl0rd/MS17-010](https://github.com/h3x0v3rl0rd/MS17-010)	<img alt="forks" src="https://img.shields.io/github/forks/h3x0v3rl0rd/MS17-010">	<img alt="stars" src="https://img.shields.io/github/stars/h3x0v3rl0rd/MS17-010">
 - [benguelmas/cve-2017-0143](https://github.com/benguelmas/cve-2017-0143)	<img alt="forks" src="https://img.shields.io/github/forks/benguelmas/cve-2017-0143">	<img alt="stars" src="https://img.shields.io/github/stars/benguelmas/cve-2017-0143">
+- [basimnawaz6/EternalBlue-Lab](https://github.com/basimnawaz6/EternalBlue-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/basimnawaz6/EternalBlue-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/basimnawaz6/EternalBlue-Lab">
+- [Cedric-Martz/EthernalBlue_report](https://github.com/Cedric-Martz/EthernalBlue_report)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric-Martz/EthernalBlue_report">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric-Martz/EthernalBlue_report">
+- [Mafiosohack/offensive-security-lab-1](https://github.com/Mafiosohack/offensive-security-lab-1)	<img alt="forks" src="https://img.shields.io/github/forks/Mafiosohack/offensive-security-lab-1">	<img alt="stars" src="https://img.shields.io/github/stars/Mafiosohack/offensive-security-lab-1">
 
 ---
 ## CVE-2017-0055 (2017-03-17T00:59:00)
