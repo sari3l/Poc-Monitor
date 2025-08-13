@@ -7354,6 +7354,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [GRTMALDET/Big-IP-Next-CVE-2024-26026](https://github.com/GRTMALDET/Big-IP-Next-CVE-2024-26026)	<img alt="forks" src="https://img.shields.io/github/forks/GRTMALDET/Big-IP-Next-CVE-2024-26026">	<img alt="stars" src="https://img.shields.io/github/stars/GRTMALDET/Big-IP-Next-CVE-2024-26026">
 
 ---
+## CVE-2024-26009 ()
+> 
+- [allinsthon/CVE-2024-26009](https://github.com/allinsthon/CVE-2024-26009)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2024-26009">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2024-26009">
+
+---
 ## CVE-2024-25897 (2024-02-21T18:15:00)
 > ChurchCRM 5.5.0 FRCatalog.php is vulnerable to Blind SQL Injection (Time-based) via the CurrentFundraiser GET parameter.
 - [i-100-user/CVE-2024-25897](https://github.com/i-100-user/CVE-2024-25897)	<img alt="forks" src="https://img.shields.io/github/forks/i-100-user/CVE-2024-25897">	<img alt="stars" src="https://img.shields.io/github/stars/i-100-user/CVE-2024-25897">
