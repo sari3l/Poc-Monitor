@@ -301,6 +301,7 @@
 ## CVE-2025-54887 ()
 > 
 - [shinigami-777/PoC_CVE-2025-54887](https://github.com/shinigami-777/PoC_CVE-2025-54887)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-54887">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-54887">
+- [Wizard079/CVE-2025-54887_POC](https://github.com/Wizard079/CVE-2025-54887_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wizard079/CVE-2025-54887_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wizard079/CVE-2025-54887_POC">
 
 ---
 ## CVE-2025-54794 ()
@@ -755,6 +756,11 @@
 ## CVE-2025-50420 ()
 > 
 - [Landw-hub/CVE-2025-50420](https://github.com/Landw-hub/CVE-2025-50420)	<img alt="forks" src="https://img.shields.io/github/forks/Landw-hub/CVE-2025-50420">	<img alt="stars" src="https://img.shields.io/github/stars/Landw-hub/CVE-2025-50420">
+
+---
+## CVE-2025-50361 ()
+> 
+- [Ch1keen/CVE-2025-50361](https://github.com/Ch1keen/CVE-2025-50361)	<img alt="forks" src="https://img.shields.io/github/forks/Ch1keen/CVE-2025-50361">	<img alt="stars" src="https://img.shields.io/github/stars/Ch1keen/CVE-2025-50361">
 
 ---
 ## CVE-2025-50360 ()
@@ -3250,6 +3256,11 @@
 - [aitorfirm/CVE-2025-25257](https://github.com/aitorfirm/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/aitorfirm/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/aitorfirm/CVE-2025-25257">
 - [mrmtwoj/CVE-2025-25257](https://github.com/mrmtwoj/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/CVE-2025-25257">
 - [TheStingR/CVE-2025-25257](https://github.com/TheStingR/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-25257">
+
+---
+## CVE-2025-25256 ()
+> 
+- [barbaraeivyu/CVE-2025-25256](https://github.com/barbaraeivyu/CVE-2025-25256)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-25256">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-25256">
 
 ---
 ## CVE-2025-252513 ()
