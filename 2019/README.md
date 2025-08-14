@@ -3254,6 +3254,7 @@ use after free.
 ## CVE-2019-10077 ()
 > 
 - [shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3">
+- [shoucheng3/jspwiki-cve-2019-10077](https://github.com/shoucheng3/jspwiki-cve-2019-10077)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jspwiki-cve-2019-10077">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jspwiki-cve-2019-10077">
 
 ---
 ## CVE-2019-1006 (2019-07-15T19:15:00)
