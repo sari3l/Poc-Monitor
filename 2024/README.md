@@ -5246,6 +5246,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [wubinworks/magento2-encryption-key-manager-cli](https://github.com/wubinworks/magento2-encryption-key-manager-cli)	<img alt="forks" src="https://img.shields.io/github/forks/wubinworks/magento2-encryption-key-manager-cli">	<img alt="stars" src="https://img.shields.io/github/stars/wubinworks/magento2-encryption-key-manager-cli">
 - [wubinworks/magento2-enhanced-xml-security](https://github.com/wubinworks/magento2-enhanced-xml-security)	<img alt="forks" src="https://img.shields.io/github/forks/wubinworks/magento2-enhanced-xml-security">	<img alt="stars" src="https://img.shields.io/github/stars/wubinworks/magento2-enhanced-xml-security">
 - [Koray123-debug/CVE-2024-34102](https://github.com/Koray123-debug/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Koray123-debug/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Koray123-debug/CVE-2024-34102">
+- [Kento-Sec/CVE-2024-34102](https://github.com/Kento-Sec/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Kento-Sec/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Kento-Sec/CVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)

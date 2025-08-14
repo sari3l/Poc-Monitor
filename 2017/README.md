@@ -822,6 +822,11 @@
 - [Live-Hack-CVE/CVE-2017-18926](https://github.com/Live-Hack-CVE/CVE-2017-18926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18926">
 
 ---
+## CVE-2017-18362 ()
+> 
+- [yawningmoney/CVE-2017-18362-LAB](https://github.com/yawningmoney/CVE-2017-18362-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/yawningmoney/CVE-2017-18362-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/yawningmoney/CVE-2017-18362-LAB">
+
+---
 ## CVE-2017-18019 (2018-01-04T04:29:00)
 > In K7 Total Security before 15.1.0.305, user-controlled input to the K7Sentry device is not sufficiently sanitized: the user-controlled input can be used to compare an arbitrary memory address with a fixed value, which in turn can be used to read the contents of arbitrary memory. Similarly, the product crashes upon a \\.\K7Sentry DeviceIoControl call with an invalid kernel pointer.
 - [SpiralBL0CK/CVE-2017-18019](https://github.com/SpiralBL0CK/CVE-2017-18019)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2017-18019">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2017-18019">
