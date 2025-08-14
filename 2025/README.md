@@ -338,6 +338,7 @@
 ## CVE-2025-54424 ()
 > 
 - [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2025-54424">
+- [hophtien/CVE-2025-54424](https://github.com/hophtien/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/hophtien/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/hophtien/CVE-2025-54424">
 
 ---
 ## CVE-2025-54381 ()
