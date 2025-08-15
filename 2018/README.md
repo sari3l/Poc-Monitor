@@ -1788,6 +1788,11 @@
 - [Live-Hack-CVE/CVE-2018-1000168](https://github.com/Live-Hack-CVE/CVE-2018-1000168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1000168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1000168">
 
 ---
+## CVE-2018-1000129 ()
+> 
+- [shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0](https://github.com/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0">
+
+---
 ## CVE-2018-0959 (2018-05-09T19:29:00)
 > A remote code execution vulnerability exists when Windows Hyper-V on a host server fails to properly validate input from an authenticated user on a guest operating system, aka "Hyper-V Remote Code Execution Vulnerability." This affects Windows 7, Windows Server 2012 R2, Windows RT 8.1, Windows Server 2008, Windows Server 2012, Windows 8.1, Windows Server 2016, Windows Server 2008 R2, Windows 10, Windows 10 Servers.
 - [pwndorei/CVE-2018-0959](https://github.com/pwndorei/CVE-2018-0959)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2018-0959">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2018-0959">
