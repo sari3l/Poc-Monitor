@@ -2273,6 +2273,7 @@
 - [NULLTRACE0X/CVE-2025-31324](https://github.com/NULLTRACE0X/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/NULLTRACE0X/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/NULLTRACE0X/CVE-2025-31324">
 - [nairuzabulhul/nuclei-template-cve-2025-31324-check](https://github.com/nairuzabulhul/nuclei-template-cve-2025-31324-check)	<img alt="forks" src="https://img.shields.io/github/forks/nairuzabulhul/nuclei-template-cve-2025-31324-check">	<img alt="stars" src="https://img.shields.io/github/stars/nairuzabulhul/nuclei-template-cve-2025-31324-check">
 - [sug4r-wr41th/CVE-2025-31324](https://github.com/sug4r-wr41th/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-31324">
+- [antichainalysis/sap-netweaver-0day-CVE-2025-31324](https://github.com/antichainalysis/sap-netweaver-0day-CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/antichainalysis/sap-netweaver-0day-CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/antichainalysis/sap-netweaver-0day-CVE-2025-31324">
 
 ---
 ## CVE-2025-31258 ()
@@ -3294,6 +3295,7 @@
 ## CVE-2025-25256 ()
 > 
 - [barbaraeivyu/CVE-2025-25256](https://github.com/barbaraeivyu/CVE-2025-25256)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-25256">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-25256">
+- [watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256](https://github.com/watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256">
 
 ---
 ## CVE-2025-252513 ()
