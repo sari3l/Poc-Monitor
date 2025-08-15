@@ -3171,6 +3171,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-10433](https://github.com/Live-Hack-CVE/CVE-2019-10433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10433">
 
 ---
+## CVE-2019-10392 ()
+> 
+- [shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4](https://github.com/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4">
+
+---
 ## CVE-2019-10222 (2019-11-08T15:15:00)
 > A flaw was found in the Ceph RGW configuration with Beast as the front end handling client requests. An unauthenticated attacker could crash the Ceph RGW server by sending valid HTTP headers and terminating the connection, resulting in a remote denial of service for Ceph RGW clients.
 - [Live-Hack-CVE/CVE-2019-10222](https://github.com/Live-Hack-CVE/CVE-2019-10222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10222">
