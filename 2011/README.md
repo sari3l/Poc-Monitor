@@ -11,6 +11,11 @@
 - [Live-Hack-CVE/CVE-2011-4566](https://github.com/Live-Hack-CVE/CVE-2011-4566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4566">
 
 ---
+## CVE-2011-4367 ()
+> 
+- [shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11](https://github.com/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11">
+
+---
 ## CVE-2011-3348 (2011-09-20T05:55:00)
 > The mod_proxy_ajp module in the Apache HTTP Server before 2.2.21, when used with mod_proxy_balancer in certain configurations, allows remote attackers to cause a denial of service (temporary "error state" in the backend server) via a malformed HTTP request.
 - [Live-Hack-CVE/CVE-2011-3348](https://github.com/Live-Hack-CVE/CVE-2011-3348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3348">

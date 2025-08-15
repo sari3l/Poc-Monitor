@@ -930,6 +930,11 @@
 - [808ale/cve-2016-10924-POC](https://github.com/808ale/cve-2016-10924-POC)	<img alt="forks" src="https://img.shields.io/github/forks/808ale/cve-2016-10924-POC">	<img alt="stars" src="https://img.shields.io/github/stars/808ale/cve-2016-10924-POC">
 
 ---
+## CVE-2016-10726 ()
+> 
+- [shoucheng3/DSpace__DSpace_CVE-2016-10726_4-4](https://github.com/shoucheng3/DSpace__DSpace_CVE-2016-10726_4-4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/DSpace__DSpace_CVE-2016-10726_4-4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/DSpace__DSpace_CVE-2016-10726_4-4">
+
+---
 ## CVE-2016-10541 (2018-05-31T20:29:00)
 > The npm module "shell-quote" 1.6.0 and earlier cannot correctly escape ">" and "<" operator used for redirection in shell. Applications that depend on shell-quote may also be vulnerable. A malicious user could perform code injection.
 - [Live-Hack-CVE/CVE-2016-10541](https://github.com/Live-Hack-CVE/CVE-2016-10541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10541">
