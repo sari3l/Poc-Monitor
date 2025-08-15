@@ -38,6 +38,7 @@
 - [knight0x07/WinRAR-CVE-2025-8088-PoC-RAR](https://github.com/knight0x07/WinRAR-CVE-2025-8088-PoC-RAR)	<img alt="forks" src="https://img.shields.io/github/forks/knight0x07/WinRAR-CVE-2025-8088-PoC-RAR">	<img alt="stars" src="https://img.shields.io/github/stars/knight0x07/WinRAR-CVE-2025-8088-PoC-RAR">
 - [sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-](https://github.com/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-">
 - [onlytoxi/CVE-2025-8088-Winrar-Tool](https://github.com/onlytoxi/CVE-2025-8088-Winrar-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/onlytoxi/CVE-2025-8088-Winrar-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/onlytoxi/CVE-2025-8088-Winrar-Tool">
+- [0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC](https://github.com/0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC">
 
 ---
 ## CVE-2025-8018 ()
