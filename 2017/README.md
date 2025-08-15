@@ -1362,6 +1362,7 @@
 - [KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation](https://github.com/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation">
 - [bao7uo/RAU_crypto](https://github.com/bao7uo/RAU_crypto)	<img alt="forks" src="https://img.shields.io/github/forks/bao7uo/RAU_crypto">	<img alt="stars" src="https://img.shields.io/github/stars/bao7uo/RAU_crypto">
 - [hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik](https://github.com/hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik)	<img alt="forks" src="https://img.shields.io/github/forks/hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik">	<img alt="stars" src="https://img.shields.io/github/stars/hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik">
+- [0xr2r/CVE-2017-11317-auto-exploit-](https://github.com/0xr2r/CVE-2017-11317-auto-exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/0xr2r/CVE-2017-11317-auto-exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/0xr2r/CVE-2017-11317-auto-exploit-">
 
 ---
 ## CVE-2017-11165 ()
