@@ -951,11 +951,12 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 ---
 ## CVE-2024-5932 (2024-08-20T02:15:00)
 > The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.14.1 via deserialization of untrusted input from the 'give_title' parameter. This makes it possible for unauthenticated attackers to inject a PHP Object. The additional presence of a POP chain allows attackers to execute code remotely, and to delete arbitrary files.
-- [0xb0mb3r/CVE-2024-5932-PoC](https://github.com/0xb0mb3r/CVE-2024-5932-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0mb3r/CVE-2024-5932-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0mb3r/CVE-2024-5932-PoC">
+- [0xb0mb3r/CVE-2024-8353-PoC](https://github.com/0xb0mb3r/CVE-2024-8353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0mb3r/CVE-2024-8353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0mb3r/CVE-2024-8353-PoC">
 - [EQSTLab/CVE-2024-5932](https://github.com/EQSTLab/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-5932">
 - [sqlmap-projects/CVE-2024-5932](https://github.com/sqlmap-projects/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/sqlmap-projects/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/sqlmap-projects/CVE-2024-5932">
 - [niktoproject/CVE-2024-5932](https://github.com/niktoproject/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/niktoproject/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/niktoproject/CVE-2024-5932">
 - [OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/OxLmahdi/cve-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/OxLmahdi/cve-2024-5932">
+- [hlc23/CVE-2024-5932-web-ui](https://github.com/hlc23/CVE-2024-5932-web-ui)	<img alt="forks" src="https://img.shields.io/github/forks/hlc23/CVE-2024-5932-web-ui">	<img alt="stars" src="https://img.shields.io/github/stars/hlc23/CVE-2024-5932-web-ui">
 
 ---
 ## CVE-2024-5910 (2024-07-10T19:15:00)
