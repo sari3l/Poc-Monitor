@@ -4680,6 +4680,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Roundthe-clock/CVE-2024-3661VPN](https://github.com/Roundthe-clock/CVE-2024-3661VPN)	<img alt="forks" src="https://img.shields.io/github/forks/Roundthe-clock/CVE-2024-3661VPN">	<img alt="stars" src="https://img.shields.io/github/stars/Roundthe-clock/CVE-2024-3661VPN">
 
 ---
+## CVE-2024-3660 ()
+> 
+- [aaryanbhujang/CVE-2024-3660-PoC](https://github.com/aaryanbhujang/CVE-2024-3660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aaryanbhujang/CVE-2024-3660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aaryanbhujang/CVE-2024-3660-PoC">
+
+---
 ## CVE-2024-36587 ()
 > 
 - [meeeeing/CVE-2024-36587](https://github.com/meeeeing/CVE-2024-36587)	<img alt="forks" src="https://img.shields.io/github/forks/meeeeing/CVE-2024-36587">	<img alt="stars" src="https://img.shields.io/github/stars/meeeeing/CVE-2024-36587">
