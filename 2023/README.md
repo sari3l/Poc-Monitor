@@ -4457,6 +4457,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [inviewp/CVE-2023-3450](https://github.com/inviewp/CVE-2023-3450)	<img alt="forks" src="https://img.shields.io/github/forks/inviewp/CVE-2023-3450">	<img alt="stars" src="https://img.shields.io/github/stars/inviewp/CVE-2023-3450">
 
 ---
+## CVE-2023-34478 ()
+> 
+- [shoucheng3/apache__shiro_CVE-2023-34478_1-11-0](https://github.com/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0">
+
+---
 ## CVE-2023-34468 (2023-06-12T16:15:00)
 > The DBCPConnectionPool and HikariCPConnectionPool Controller Services in Apache NiFi 0.0.2 through 1.21.0 allow an authenticated and authorized user to configure a Database URL with the H2 driver that enables custom code execution.
 

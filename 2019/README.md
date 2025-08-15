@@ -2121,6 +2121,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-17576](https://github.com/Live-Hack-CVE/CVE-2019-17576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17576">
 
 ---
+## CVE-2019-17572 ()
+> 
+- [shoucheng3/apache__rocketmq_CVE-2019-17572_4-6-0](https://github.com/shoucheng3/apache__rocketmq_CVE-2019-17572_4-6-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__rocketmq_CVE-2019-17572_4-6-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__rocketmq_CVE-2019-17572_4-6-0">
+
+---
 ## CVE-2019-17571 (2019-12-20T17:15:00)
 > Included in Log4j 1.2 is a SocketServer class that is vulnerable to deserialization of untrusted data which can be exploited to remotely execute arbitrary code when combined with a deserialization gadget when listening to untrusted network traffic for log data. This affects Log4j versions up to 1.2 up to 1.2.17.
 - [Live-Hack-CVE/CVE-2019-17571](https://github.com/Live-Hack-CVE/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17571">
@@ -3371,3 +3376,4 @@ use after free.
 ## CVE-2019-0207 ()
 > 
 - [shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4](https://github.com/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4">
+- [shoucheng3/tapestry-5-cve-2019-0207](https://github.com/shoucheng3/tapestry-5-cve-2019-0207)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/tapestry-5-cve-2019-0207">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/tapestry-5-cve-2019-0207">
