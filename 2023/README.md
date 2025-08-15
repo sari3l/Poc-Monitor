@@ -1040,6 +1040,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [nitipoom-jar/CVE-2023-49453](https://github.com/nitipoom-jar/CVE-2023-49453)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-49453">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-49453">
 
 ---
+## CVE-2023-49440 ()
+> 
+- [EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection](https://github.com/EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection)	<img alt="forks" src="https://img.shields.io/github/forks/EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection">	<img alt="stars" src="https://img.shields.io/github/stars/EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection">
+
+---
 ## CVE-2023-49438 (2023-12-26T22:15:00)
 > An open redirect vulnerability in the python package Flask-Security-Too <=5.3.2 allows attackers to redirect unsuspecting users to malicious sites via a crafted URL by abusing the ?next parameter on the /login and /register routes.
 - [brandon-t-elliott/CVE-2023-49438](https://github.com/brandon-t-elliott/CVE-2023-49438)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2023-49438">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2023-49438">
