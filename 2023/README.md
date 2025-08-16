@@ -5078,6 +5078,7 @@ Fixed in version 6.4.1.
 ## CVE-2023-32070 ()
 > 
 - [shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5](https://github.com/shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5">
+- [shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5](https://github.com/shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5">
 
 ---
 ## CVE-2023-32031 (2023-06-14T15:15:00)
