@@ -5624,6 +5624,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [dollarboysushil/CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation](https://github.com/dollarboysushil/CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation">
 - [juanbelin/CVE-2024-32019-POC](https://github.com/juanbelin/CVE-2024-32019-POC)	<img alt="forks" src="https://img.shields.io/github/forks/juanbelin/CVE-2024-32019-POC">	<img alt="stars" src="https://img.shields.io/github/stars/juanbelin/CVE-2024-32019-POC">
 - [C0deInBlack/CVE-2024-32019-poc](https://github.com/C0deInBlack/CVE-2024-32019-poc)	<img alt="forks" src="https://img.shields.io/github/forks/C0deInBlack/CVE-2024-32019-poc">	<img alt="stars" src="https://img.shields.io/github/stars/C0deInBlack/CVE-2024-32019-poc">
+- [sPhyos/cve-2024-32019-PoC](https://github.com/sPhyos/cve-2024-32019-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sPhyos/cve-2024-32019-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sPhyos/cve-2024-32019-PoC">
 
 ---
 ## CVE-2024-32004 (2024-05-14T19:15:00)
