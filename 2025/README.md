@@ -127,6 +127,7 @@
 > 
 - [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">
 - [MrjHaxcore/CVE-2025-6934](https://github.com/MrjHaxcore/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-6934">
+- [0xgh057r3c0n/CVE-2025-6934](https://github.com/0xgh057r3c0n/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-6934">
 
 ---
 ## CVE-2025-6907 ()
@@ -2919,6 +2920,7 @@
 - [00xCanelo/CVE-2025-27591](https://github.com/00xCanelo/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-27591">
 - [Thekin-ctrl/CVE-2025-27591-Below](https://github.com/Thekin-ctrl/CVE-2025-27591-Below)	<img alt="forks" src="https://img.shields.io/github/forks/Thekin-ctrl/CVE-2025-27591-Below">	<img alt="stars" src="https://img.shields.io/github/stars/Thekin-ctrl/CVE-2025-27591-Below">
 - [Cythonic1/CVE-2025-27591](https://github.com/Cythonic1/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Cythonic1/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Cythonic1/CVE-2025-27591">
+- [umutcamliyurt/CVE-2025-27591](https://github.com/umutcamliyurt/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/umutcamliyurt/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/umutcamliyurt/CVE-2025-27591">
 
 ---
 ## CVE-2025-27590 ()

@@ -2332,6 +2332,7 @@
 ## CVE-2020-27219 ()
 > 
 - [shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6](https://github.com/shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6">
+- [shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6](https://github.com/shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6">
 
 ---
 ## CVE-2020-27216 (2020-10-23T13:15:00)
@@ -3136,6 +3137,7 @@
 ---
 ## CVE-2020-2261 ()
 > 
+- [shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17](https://github.com/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">
 - [shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17](https://github.com/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">
 
 ---
