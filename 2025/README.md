@@ -826,6 +826,7 @@
 > 
 - [zenzue/CVE-2025-50154](https://github.com/zenzue/CVE-2025-50154)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2025-50154">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2025-50154">
 - [rubenformation/CVE-2025-50154](https://github.com/rubenformation/CVE-2025-50154)	<img alt="forks" src="https://img.shields.io/github/forks/rubenformation/CVE-2025-50154">	<img alt="stars" src="https://img.shields.io/github/stars/rubenformation/CVE-2025-50154">
+- [Ash1996x/CVE-2025-50154-Aggressor-Script](https://github.com/Ash1996x/CVE-2025-50154-Aggressor-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Ash1996x/CVE-2025-50154-Aggressor-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Ash1996x/CVE-2025-50154-Aggressor-Script">
 
 ---
 ## CVE-2025-50002 ()
