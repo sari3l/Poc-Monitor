@@ -4461,6 +4461,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 ## CVE-2023-34478 ()
 > 
 - [shoucheng3/apache__shiro_CVE-2023-34478_1-11-0](https://github.com/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0">
+- [shoucheng3/apache__shiro_CVE-2023-34478_1-11-0](https://github.com/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0">
 
 ---
 ## CVE-2023-34468 (2023-06-12T16:15:00)
