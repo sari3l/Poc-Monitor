@@ -1777,6 +1777,11 @@
 - [CrossedWires/foxit-pdf-generator](https://github.com/CrossedWires/foxit-pdf-generator)	<img alt="forks" src="https://img.shields.io/github/forks/CrossedWires/foxit-pdf-generator">	<img alt="stars" src="https://img.shields.io/github/stars/CrossedWires/foxit-pdf-generator">
 
 ---
+## CVE-2018-1047 ()
+> 
+- [shoucheng3/wildfly__wildfly_CVE-2018-1047_11-0-0-Final](https://github.com/shoucheng3/wildfly__wildfly_CVE-2018-1047_11-0-0-Final)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/wildfly__wildfly_CVE-2018-1047_11-0-0-Final">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/wildfly__wildfly_CVE-2018-1047_11-0-0-Final">
+
+---
 ## CVE-2018-1042 (2018-01-22T08:29:00)
 > Moodle 3.x has Server Side Request Forgery in the filepicker.
 - [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
