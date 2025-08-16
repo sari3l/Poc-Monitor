@@ -573,6 +573,7 @@
 ## CVE-2021-44667 ()
 > 
 - [shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3](https://github.com/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3">
+- [shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3](https://github.com/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3">
 
 ---
 ## CVE-2021-44596 (2022-04-29T12:15:00)
