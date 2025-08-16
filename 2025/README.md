@@ -864,6 +864,11 @@
 - [RukshanaAlikhan/CVE-2025-53770](https://github.com/RukshanaAlikhan/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/RukshanaAlikhan/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/RukshanaAlikhan/CVE-2025-53770">
 
 ---
+## CVE-2025-49667 ()
+> 
+- [Yuri08loveElaina/CVE-2025-49667](https://github.com/Yuri08loveElaina/CVE-2025-49667)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49667">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49667">
+
+---
 ## CVE-2025-49619 ()
 > 
 - [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619)	<img alt="forks" src="https://img.shields.io/github/forks/cristibtz/CVE-2025-49619">	<img alt="stars" src="https://img.shields.io/github/stars/cristibtz/CVE-2025-49619">
