@@ -6691,6 +6691,7 @@
 ## CVE-2021-29425 ()
 > 
 - [arsalanraja987/java-cve-2021-29425-tika-xxe](https://github.com/arsalanraja987/java-cve-2021-29425-tika-xxe)	<img alt="forks" src="https://img.shields.io/github/forks/arsalanraja987/java-cve-2021-29425-tika-xxe">	<img alt="stars" src="https://img.shields.io/github/stars/arsalanraja987/java-cve-2021-29425-tika-xxe">
+- [shoucheng3/asf__commons-io_CVE-2021-29425_2-6](https://github.com/shoucheng3/asf__commons-io_CVE-2021-29425_2-6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__commons-io_CVE-2021-29425_2-6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__commons-io_CVE-2021-29425_2-6">
 
 ---
 ## CVE-2021-29421 (2021-04-01T20:15:00)
