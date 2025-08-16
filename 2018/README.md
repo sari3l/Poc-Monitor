@@ -1554,6 +1554,11 @@
 - [wearearima/poc-cve-2018-1273](https://github.com/wearearima/poc-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/wearearima/poc-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/wearearima/poc-cve-2018-1273">
 
 ---
+## CVE-2018-12542 ()
+> 
+- [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
+
+---
 ## CVE-2018-12533 ()
 > 
 - [mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310](https://github.com/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310)	<img alt="forks" src="https://img.shields.io/github/forks/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310">	<img alt="stars" src="https://img.shields.io/github/stars/mhagnumdw/richfaces-vulnerability-cve-2018-12533-rf-14310">
