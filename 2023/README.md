@@ -5073,6 +5073,11 @@ Fixed in version 6.4.1.
 - [jmrcsnchz/CVE-2023-32073](https://github.com/jmrcsnchz/CVE-2023-32073)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-32073">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-32073">
 
 ---
+## CVE-2023-32070 ()
+> 
+- [shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5](https://github.com/shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-rendering_CVE-2023-32070_14-5">
+
+---
 ## CVE-2023-32031 (2023-06-14T15:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability
 - [Avento/CVE-2023-32031](https://github.com/Avento/CVE-2023-32031)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-32031">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-32031">

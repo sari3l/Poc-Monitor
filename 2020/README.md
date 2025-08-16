@@ -2329,6 +2329,11 @@
 - [Mahesh-970/G3_Jetty.project_CVE-2020-27223](https://github.com/Mahesh-970/G3_Jetty.project_CVE-2020-27223)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/G3_Jetty.project_CVE-2020-27223">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/G3_Jetty.project_CVE-2020-27223">
 
 ---
+## CVE-2020-27219 ()
+> 
+- [shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6](https://github.com/shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/eclipse__hawkbit_CVE-2020-27219_0-3-0M6">
+
+---
 ## CVE-2020-27216 (2020-10-23T13:15:00)
 > In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 11.0.0.beta2O, on Unix like systems, the system's temporary directory is shared between all users on that system. A collocated user can observe the process of creating a temporary sub directory in the shared temporary directory and race to complete the creation of the temporary subdirectory. If the attacker wins the race then they will have read and write permission to the subdirectory used to unpack web applications, including their WEB-INF/lib jar files and JSP files. If any code is ever executed out of this temporary directory, this can lead to a local privilege escalation vulnerability.
 - [nidhi7598/jetty-9.4.31_CVE-2020-27216](https://github.com/nidhi7598/jetty-9.4.31_CVE-2020-27216)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/jetty-9.4.31_CVE-2020-27216">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/jetty-9.4.31_CVE-2020-27216">
@@ -3127,6 +3132,11 @@
 ## CVE-2020-22818 (2022-11-03T17:15:00)
 > MKCMS V6.2 has SQL injection via /ucenter/reg.php name parameter.
 - [Live-Hack-CVE/CVE-2020-22818](https://github.com/Live-Hack-CVE/CVE-2020-22818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22818">
+
+---
+## CVE-2020-2261 ()
+> 
+- [shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17](https://github.com/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">
 
 ---
 ## CVE-2020-22201 (2021-06-16T17:15:00)
