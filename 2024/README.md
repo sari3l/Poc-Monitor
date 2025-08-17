@@ -8181,6 +8181,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [BBD-YZZ/CVE-2024-23691](https://github.com/BBD-YZZ/CVE-2024-23691)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-23691">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-23691">
 
 ---
+## CVE-2024-23673 ()
+> 
+- [shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0](https://github.com/shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0">
+
+---
 ## CVE-2024-23653 ()
 > 
 - [666asd/CVE-2024-23653](https://github.com/666asd/CVE-2024-23653)	<img alt="forks" src="https://img.shields.io/github/forks/666asd/CVE-2024-23653">	<img alt="stars" src="https://img.shields.io/github/stars/666asd/CVE-2024-23653">
