@@ -40,6 +40,7 @@
 - [onlytoxi/CVE-2025-8088-Winrar-Tool](https://github.com/onlytoxi/CVE-2025-8088-Winrar-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/onlytoxi/CVE-2025-8088-Winrar-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/onlytoxi/CVE-2025-8088-Winrar-Tool">
 - [0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC](https://github.com/0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC">
 - [pentestfunctions/CVE-2025-8088-Multi-Document](https://github.com/pentestfunctions/CVE-2025-8088-Multi-Document)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/CVE-2025-8088-Multi-Document">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/CVE-2025-8088-Multi-Document">
+- [pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC](https://github.com/pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC">
 
 ---
 ## CVE-2025-8018 ()
@@ -1943,6 +1944,11 @@
 ## CVE-2025-3282025 ()
 > 
 - [itssixtyn3in/CVE-2025-3282025](https://github.com/itssixtyn3in/CVE-2025-3282025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3282025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3282025">
+
+---
+## CVE-2025-32778 ()
+> 
+- [00xCanelo/CVE-2025-32778](https://github.com/00xCanelo/CVE-2025-32778)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-32778">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-32778">
 
 ---
 ## CVE-2025-32756 ()
