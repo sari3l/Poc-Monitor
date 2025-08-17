@@ -6878,6 +6878,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-28397">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-28397">
 - [Marven11/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-28397-js2py-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-28397-js2py-Sandbox-Escape">
 - [CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape">
+- [waleed-hassan569/CVE-2024-28397-command-execution-poc](https://github.com/waleed-hassan569/CVE-2024-28397-command-execution-poc)	<img alt="forks" src="https://img.shields.io/github/forks/waleed-hassan569/CVE-2024-28397-command-execution-poc">	<img alt="stars" src="https://img.shields.io/github/stars/waleed-hassan569/CVE-2024-28397-command-execution-poc">
 
 ---
 ## CVE-2024-28288 (2024-03-30T01:15:00)
