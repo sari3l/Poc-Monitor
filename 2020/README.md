@@ -966,6 +966,7 @@
 - [mugisyahid/ki-vuln-cve-2020-5410](https://github.com/mugisyahid/ki-vuln-cve-2020-5410)	<img alt="forks" src="https://img.shields.io/github/forks/mugisyahid/ki-vuln-cve-2020-5410">	<img alt="stars" src="https://img.shields.io/github/stars/mugisyahid/ki-vuln-cve-2020-5410">
 - [osamahamad/CVE-2020-5410-POC](https://github.com/osamahamad/CVE-2020-5410-POC)	<img alt="forks" src="https://img.shields.io/github/forks/osamahamad/CVE-2020-5410-POC">	<img alt="stars" src="https://img.shields.io/github/stars/osamahamad/CVE-2020-5410-POC">
 - [dead5nd/config-demo](https://github.com/dead5nd/config-demo)	<img alt="forks" src="https://img.shields.io/github/forks/dead5nd/config-demo">	<img alt="stars" src="https://img.shields.io/github/stars/dead5nd/config-demo">
+- [shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5410_2-1-8-RELEASE](https://github.com/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5410_2-1-8-RELEASE)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5410_2-1-8-RELEASE">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5410_2-1-8-RELEASE">
 
 ---
 ## CVE-2020-5403 (2020-03-03T19:15:00)
