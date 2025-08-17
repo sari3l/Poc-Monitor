@@ -5802,6 +5802,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetaltuntas/CVE-2023-28467">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetaltuntas/CVE-2023-28467">
 
 ---
+## CVE-2023-28465 ()
+> 
+- [shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-28465_5-6-105](https://github.com/shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-28465_5-6-105)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-28465_5-6-105">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-28465_5-6-105">
+
+---
 ## CVE-2023-28450 (2023-03-15T21:15:00)
 > An issue was discovered in Dnsmasq before 2.90. The default maximum EDNS.0 UDP packet size was set to 4096 but should be 1232 because of DNS Flag Day 2020.
 - [Satheesh575555/linux-4.19.72_CVE-2023-28450](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-28450)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-28450">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-28450">
