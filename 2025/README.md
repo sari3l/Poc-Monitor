@@ -393,6 +393,7 @@
 - [B1ack4sh/Blackash-CVE-2025-54253](https://github.com/B1ack4sh/Blackash-CVE-2025-54253)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-54253">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-54253">
 - [Shivshantp/CVE-2025-54253-Exploit-Demo](https://github.com/Shivshantp/CVE-2025-54253-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-54253-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-54253-Exploit-Demo">
 - [barbaraeivyu/CVE-2025-54253-e](https://github.com/barbaraeivyu/CVE-2025-54253-e)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-54253-e">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-54253-e">
+- [jm7knz/CVE-2025-54253-Exploit-Demo](https://github.com/jm7knz/CVE-2025-54253-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/jm7knz/CVE-2025-54253-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/jm7knz/CVE-2025-54253-Exploit-Demo">
 
 ---
 ## CVE-2025-5419 ()
