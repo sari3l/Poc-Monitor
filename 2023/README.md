@@ -1928,6 +1928,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [miguelc49/CVE-2023-45280-2](https://github.com/miguelc49/CVE-2023-45280-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-45280-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-45280-2">
 
 ---
+## CVE-2023-45278 ()
+> 
+- [shoucheng3/yamcs__yamcs_CVE-2023-45278_5-8-6](https://github.com/shoucheng3/yamcs__yamcs_CVE-2023-45278_5-8-6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/yamcs__yamcs_CVE-2023-45278_5-8-6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/yamcs__yamcs_CVE-2023-45278_5-8-6">
+
+---
 ## CVE-2023-45277 ()
 > 
 - [shoucheng3/yamcs__yamcs_CVE-2023-45277_5-8-6](https://github.com/shoucheng3/yamcs__yamcs_CVE-2023-45277_5-8-6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/yamcs__yamcs_CVE-2023-45277_5-8-6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/yamcs__yamcs_CVE-2023-45277_5-8-6">
