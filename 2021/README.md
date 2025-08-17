@@ -2261,6 +2261,7 @@
 > A arbitrary code execution flaw was found in the Fabric 8 Kubernetes client affecting versions 5.0.0-beta-1 and above. Due to an improperly configured YAML parsing, this will allow a local and privileged attacker to supply malicious YAML.
 - [Live-Hack-CVE/CVE-2021-4178](https://github.com/Live-Hack-CVE/CVE-2021-4178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4178">
 - [shoucheng3/fabric8io__kubernetes-client_CVE-2021-4178_5-0-2](https://github.com/shoucheng3/fabric8io__kubernetes-client_CVE-2021-4178_5-0-2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/fabric8io__kubernetes-client_CVE-2021-4178_5-0-2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/fabric8io__kubernetes-client_CVE-2021-4178_5-0-2">
+- [Jeromeyoung/CVE-2021-41784](https://github.com/Jeromeyoung/CVE-2021-41784)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-41784">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-41784">
 
 ---
 ## CVE-2021-41773 (2021-10-05T09:15:00)
