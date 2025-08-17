@@ -3647,6 +3647,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [ibrahmsql/CVE-2023-37467](https://github.com/ibrahmsql/CVE-2023-37467)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2023-37467">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2023-37467">
 
 ---
+## CVE-2023-37460 ()
+> 
+- [shoucheng3/codehaus-plexus__plexus-archiver_CVE-2023-37460_4-7-1](https://github.com/shoucheng3/codehaus-plexus__plexus-archiver_CVE-2023-37460_4-7-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/codehaus-plexus__plexus-archiver_CVE-2023-37460_4-7-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/codehaus-plexus__plexus-archiver_CVE-2023-37460_4-7-1">
+
+---
 ## CVE-2023-37456 ()
 > 
 - [SpiralBL0CK/cve-2023-37456](https://github.com/SpiralBL0CK/cve-2023-37456)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/cve-2023-37456">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/cve-2023-37456">
@@ -4951,6 +4956,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-32707 (2023-06-01T17:15:00)
 > In versions of Splunk Enterprise below 9.0.5, 8.2.11, and 8.1.14, and Splunk Cloud Platform below version 9.0.2303.100, a low-privileged user who holds a role that has the ‘edit_user’ capability assigned to it can escalate their privileges to that of the admin user by providing specially crafted web requests.
 - [9xN/CVE-2023-32707](https://github.com/9xN/CVE-2023-32707)	<img alt="forks" src="https://img.shields.io/github/forks/9xN/CVE-2023-32707">	<img alt="stars" src="https://img.shields.io/github/stars/9xN/CVE-2023-32707">
+
+---
+## CVE-2023-32697 ()
+> 
+- [shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1](https://github.com/shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1">
 
 ---
 ## CVE-2023-32681 (2023-05-26T18:15:00)

@@ -89,6 +89,11 @@
 - [OscarAkaElvis/CVE-2018-8062](https://github.com/OscarAkaElvis/CVE-2018-8062)	<img alt="forks" src="https://img.shields.io/github/forks/OscarAkaElvis/CVE-2018-8062">	<img alt="stars" src="https://img.shields.io/github/stars/OscarAkaElvis/CVE-2018-8062">
 
 ---
+## CVE-2018-8041 ()
+> 
+- [shoucheng3/apache__camel_CVE-2018-8041_2-20-3](https://github.com/shoucheng3/apache__camel_CVE-2018-8041_2-20-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__camel_CVE-2018-8041_2-20-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__camel_CVE-2018-8041_2-20-3">
+
+---
 ## CVE-2018-8033 (2018-12-13T14:29:00)
 > In Apache OFBiz 16.11.01 to 16.11.04, the OFBiz HTTP engine (org.apache.ofbiz.service.engine.HttpEngine.java) handles requests for HTTP services via the /webtools/control/httpService endpoint. Both POST and GET requests to the httpService endpoint may contain three parameters: serviceName, serviceMode, and serviceContext. The exploitation occurs by having DOCTYPEs pointing to external references that trigger a payload that returns secret information from the host.
 - [Cappricio-Securities/CVE-2018-8033](https://github.com/Cappricio-Securities/CVE-2018-8033)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2018-8033">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2018-8033">
