@@ -1807,6 +1807,12 @@
 - [ashangp923/CVE-2018-10097](https://github.com/ashangp923/CVE-2018-10097)	<img alt="forks" src="https://img.shields.io/github/forks/ashangp923/CVE-2018-10097">	<img alt="stars" src="https://img.shields.io/github/stars/ashangp923/CVE-2018-10097">
 
 ---
+## CVE-2018-1002202 ()
+> 
+- [shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2](https://github.com/shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2">
+- [iris-sast/zip4j](https://github.com/iris-sast/zip4j)	<img alt="forks" src="https://img.shields.io/github/forks/iris-sast/zip4j">	<img alt="stars" src="https://img.shields.io/github/stars/iris-sast/zip4j">
+
+---
 ## CVE-2018-1000861 (2018-12-10T14:29:00)
 > A code execution vulnerability exists in the Stapler web framework used by Jenkins 2.153 and earlier, LTS 2.138.3 and earlier in stapler/core/src/main/java/org/kohsuke/stapler/MetaClass.java that allows attackers to invoke some methods on Java objects by accessing crafted URLs that were not intended to be invoked this way.
 - [smokeintheshell/CVE-2018-1000861](https://github.com/smokeintheshell/CVE-2018-1000861)	<img alt="forks" src="https://img.shields.io/github/forks/smokeintheshell/CVE-2018-1000861">	<img alt="stars" src="https://img.shields.io/github/stars/smokeintheshell/CVE-2018-1000861">

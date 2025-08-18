@@ -999,6 +999,7 @@
 - [Joelp03/CVE-2025-49113](https://github.com/Joelp03/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/Joelp03/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/Joelp03/CVE-2025-49113">
 - [hackmelocal/CVE-2025-49113-Simulation](https://github.com/hackmelocal/CVE-2025-49113-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/CVE-2025-49113-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/CVE-2025-49113-Simulation">
 - [00xCanelo/CVE-2025-49113](https://github.com/00xCanelo/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-49113">
+- [CyberQuestor-infosec/CVE-2025-49113-Roundcube_1.6.10](https://github.com/CyberQuestor-infosec/CVE-2025-49113-Roundcube_1.6.10)	<img alt="forks" src="https://img.shields.io/github/forks/CyberQuestor-infosec/CVE-2025-49113-Roundcube_1.6.10">	<img alt="stars" src="https://img.shields.io/github/stars/CyberQuestor-infosec/CVE-2025-49113-Roundcube_1.6.10">
 
 ---
 ## CVE-2025-49029 ()
