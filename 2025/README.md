@@ -26,6 +26,11 @@
 - [byteReaper77/CVE-2025-8730](https://github.com/byteReaper77/CVE-2025-8730)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8730">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8730">
 
 ---
+## CVE-2025-8671 ()
+> 
+- [moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS](https://github.com/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS">
+
+---
 ## CVE-2025-8550 ()
 > 
 - [byteReaper77/CVE-2025-8550](https://github.com/byteReaper77/CVE-2025-8550)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8550">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8550">
