@@ -1042,6 +1042,7 @@
 ## CVE-2016-10006 ()
 > 
 - [shoucheng3/nahsra__antisamy_CVE-2016-10006_1-5-3](https://github.com/shoucheng3/nahsra__antisamy_CVE-2016-10006_1-5-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/nahsra__antisamy_CVE-2016-10006_1-5-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/nahsra__antisamy_CVE-2016-10006_1-5-3">
+- [epicosy/VUL4J-60](https://github.com/epicosy/VUL4J-60)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/VUL4J-60">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/VUL4J-60">
 
 ---
 ## CVE-2016-1000229 ()

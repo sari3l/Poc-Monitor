@@ -6880,6 +6880,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape">
 - [waleed-hassan569/CVE-2024-28397-command-execution-poc](https://github.com/waleed-hassan569/CVE-2024-28397-command-execution-poc)	<img alt="forks" src="https://img.shields.io/github/forks/waleed-hassan569/CVE-2024-28397-command-execution-poc">	<img alt="stars" src="https://img.shields.io/github/stars/waleed-hassan569/CVE-2024-28397-command-execution-poc">
 - [harutomo-jp/CVE-2024-28397-RCE](https://github.com/harutomo-jp/CVE-2024-28397-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/harutomo-jp/CVE-2024-28397-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/harutomo-jp/CVE-2024-28397-RCE">
+- [0timeday/exploit-js2py](https://github.com/0timeday/exploit-js2py)	<img alt="forks" src="https://img.shields.io/github/forks/0timeday/exploit-js2py">	<img alt="stars" src="https://img.shields.io/github/stars/0timeday/exploit-js2py">
 
 ---
 ## CVE-2024-28288 (2024-03-30T01:15:00)
