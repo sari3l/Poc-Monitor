@@ -3366,6 +3366,11 @@
 - [Nxploited/CVE-2025-25101](https://github.com/Nxploited/CVE-2025-25101)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-25101">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-25101">
 
 ---
+## CVE-2025-25063 ()
+> 
+- [moften/CVE-2025-25063-MadeYouReset-HTTP-2-DDoS](https://github.com/moften/CVE-2025-25063-MadeYouReset-HTTP-2-DDoS)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-25063-MadeYouReset-HTTP-2-DDoS">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-25063-MadeYouReset-HTTP-2-DDoS">
+
+---
 ## CVE-2025-25062 ()
 > 
 - [rhburt/CVE-2025-25062](https://github.com/rhburt/CVE-2025-25062)	<img alt="forks" src="https://img.shields.io/github/forks/rhburt/CVE-2025-25062">	<img alt="stars" src="https://img.shields.io/github/stars/rhburt/CVE-2025-25062">
