@@ -1039,6 +1039,11 @@
 - [Live-Hack-CVE/CVE-2016-10009](https://github.com/Live-Hack-CVE/CVE-2016-10009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10009">
 
 ---
+## CVE-2016-10006 ()
+> 
+- [shoucheng3/nahsra__antisamy_CVE-2016-10006_1-5-3](https://github.com/shoucheng3/nahsra__antisamy_CVE-2016-10006_1-5-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/nahsra__antisamy_CVE-2016-10006_1-5-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/nahsra__antisamy_CVE-2016-10006_1-5-3">
+
+---
 ## CVE-2016-1000229 ()
 > 
 - [barteeees/SwaggerUI-CVE-2016-1000229](https://github.com/barteeees/SwaggerUI-CVE-2016-1000229)	<img alt="forks" src="https://img.shields.io/github/forks/barteeees/SwaggerUI-CVE-2016-1000229">	<img alt="stars" src="https://img.shields.io/github/stars/barteeees/SwaggerUI-CVE-2016-1000229">
