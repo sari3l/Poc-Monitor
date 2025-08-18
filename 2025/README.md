@@ -3041,6 +3041,11 @@
 - [ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi](https://github.com/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi">
 
 ---
+## CVE-2025-26788 ()
+> 
+- [EQSTLab/CVE-2025-26788](https://github.com/EQSTLab/CVE-2025-26788)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-26788">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-26788">
+
+---
 ## CVE-2025-26647 ()
 > 
 - [groshi215/CVE-2025-26647-Exploit](https://github.com/groshi215/CVE-2025-26647-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/groshi215/CVE-2025-26647-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/groshi215/CVE-2025-26647-Exploit">

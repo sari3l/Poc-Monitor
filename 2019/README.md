@@ -3398,3 +3398,8 @@ use after free.
 - [shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4](https://github.com/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4">
 - [shoucheng3/tapestry-5-cve-2019-0207](https://github.com/shoucheng3/tapestry-5-cve-2019-0207)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/tapestry-5-cve-2019-0207">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/tapestry-5-cve-2019-0207">
 - [shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4](https://github.com/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4">
+
+---
+## CVE-2019-0194 ()
+> 
+- [shoucheng3/apache__camel_CVE-2019-0194_2-21-4](https://github.com/shoucheng3/apache__camel_CVE-2019-0194_2-21-4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__camel_CVE-2019-0194_2-21-4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__camel_CVE-2019-0194_2-21-4">

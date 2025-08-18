@@ -428,6 +428,12 @@
 - [Live-Hack-CVE/CVE-2016-5399](https://github.com/Live-Hack-CVE/CVE-2016-5399)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-5399">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-5399">
 
 ---
+## CVE-2016-5394 ()
+> 
+- [shoucheng3/apache__sling-org-apache-sling-xss_CVE-2016-5394_1-0-8](https://github.com/shoucheng3/apache__sling-org-apache-sling-xss_CVE-2016-5394_1-0-8)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__sling-org-apache-sling-xss_CVE-2016-5394_1-0-8">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__sling-org-apache-sling-xss_CVE-2016-5394_1-0-8">
+- [epicosy/VUL4J-23](https://github.com/epicosy/VUL4J-23)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/VUL4J-23">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/VUL4J-23">
+
+---
 ## CVE-2016-5386 (2016-07-19T02:00:00)
 > The net/http package in Go through 1.6 does not attempt to address RFC 3875 section 4.1.18 namespace conflicts and therefore does not protect CGI applications from the presence of untrusted client data in the HTTP_PROXY environment variable, which might allow remote attackers to redirect a CGI application's outbound HTTP traffic to an arbitrary proxy server via a crafted Proxy header in an HTTP request, aka an "httpoxy" issue.
 - [Live-Hack-CVE/CVE-2016-5386](https://github.com/Live-Hack-CVE/CVE-2016-5386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-5386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-5386">
