@@ -4039,7 +4039,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ---
 ## CVE-2024-40094 ()
 > 
-- [inpentest/CVE-2024-40094](https://github.com/inpentest/CVE-2024-40094)	<img alt="forks" src="https://img.shields.io/github/forks/inpentest/CVE-2024-40094">	<img alt="stars" src="https://img.shields.io/github/stars/inpentest/CVE-2024-40094">
+- [ahmad-kabiri/CVE-2024-40094](https://github.com/ahmad-kabiri/CVE-2024-40094)	<img alt="forks" src="https://img.shields.io/github/forks/ahmad-kabiri/CVE-2024-40094">	<img alt="stars" src="https://img.shields.io/github/stars/ahmad-kabiri/CVE-2024-40094">
 
 ---
 ## CVE-2024-40080 ()
