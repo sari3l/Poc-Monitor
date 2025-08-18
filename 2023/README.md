@@ -4642,6 +4642,11 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-33977">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-33977">
 
 ---
+## CVE-2023-33962 ()
+> 
+- [shoucheng3/jstachio__jstachio_CVE-2023-33962_1-0-0](https://github.com/shoucheng3/jstachio__jstachio_CVE-2023-33962_1-0-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jstachio__jstachio_CVE-2023-33962_1-0-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jstachio__jstachio_CVE-2023-33962_1-0-0">
+
+---
 ## CVE-2023-33902 (2023-07-12T09:15:00)
 > In bluetooth service, there is a missing permission check. This could lead to local information disclosure with no additional execution privileges needed.
 - [uthrasri/CVE-2023-33902_single_file](https://github.com/uthrasri/CVE-2023-33902_single_file)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-33902_single_file">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-33902_single_file">
