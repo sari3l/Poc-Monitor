@@ -1575,6 +1575,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-53900 ()
 > 
 - [Gokul-Krishnan-V-R/CVE-2024-53900](https://github.com/Gokul-Krishnan-V-R/CVE-2024-53900)	<img alt="forks" src="https://img.shields.io/github/forks/Gokul-Krishnan-V-R/CVE-2024-53900">	<img alt="stars" src="https://img.shields.io/github/stars/Gokul-Krishnan-V-R/CVE-2024-53900">
+- [www-spam/CVE-2024-53900](https://github.com/www-spam/CVE-2024-53900)	<img alt="forks" src="https://img.shields.io/github/forks/www-spam/CVE-2024-53900">	<img alt="stars" src="https://img.shields.io/github/stars/www-spam/CVE-2024-53900">
 
 ---
 ## CVE-2024-53704 ()
