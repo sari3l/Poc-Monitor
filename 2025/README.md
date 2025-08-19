@@ -817,6 +817,11 @@
 - [Landw-hub/CVE-2025-50420](https://github.com/Landw-hub/CVE-2025-50420)	<img alt="forks" src="https://img.shields.io/github/forks/Landw-hub/CVE-2025-50420">	<img alt="stars" src="https://img.shields.io/github/stars/Landw-hub/CVE-2025-50420">
 
 ---
+## CVE-2025-50383 ()
+> 
+- [Abdullah4eb/CVE-2025-50383](https://github.com/Abdullah4eb/CVE-2025-50383)	<img alt="forks" src="https://img.shields.io/github/forks/Abdullah4eb/CVE-2025-50383">	<img alt="stars" src="https://img.shields.io/github/stars/Abdullah4eb/CVE-2025-50383">
+
+---
 ## CVE-2025-50361 ()
 > 
 - [Ch1keen/CVE-2025-50361](https://github.com/Ch1keen/CVE-2025-50361)	<img alt="forks" src="https://img.shields.io/github/forks/Ch1keen/CVE-2025-50361">	<img alt="stars" src="https://img.shields.io/github/stars/Ch1keen/CVE-2025-50361">
