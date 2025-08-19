@@ -191,6 +191,11 @@
 - [shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final](https://github.com/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final">
 
 ---
+## CVE-2014-3576 ()
+> 
+- [shoucheng3/apache__activemq_CVE-2014-3576_5-10-1](https://github.com/shoucheng3/apache__activemq_CVE-2014-3576_5-10-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__activemq_CVE-2014-3576_5-10-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__activemq_CVE-2014-3576_5-10-1">
+
+---
 ## CVE-2014-3572 (2015-01-09T02:59:00)
 > The ssl3_get_key_exchange function in s3_clnt.c in OpenSSL before 0.9.8zd, 1.0.0 before 1.0.0p, and 1.0.1 before 1.0.1k allows remote SSL servers to conduct ECDHE-to-ECDH downgrade attacks and trigger a loss of forward secrecy by omitting the ServerKeyExchange message.
 - [nidhi7598/OPENSSL_1.0.1g_CVE-2014-3572](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3572)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3572">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3572">

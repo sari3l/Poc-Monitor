@@ -6768,6 +6768,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [LazyySec/CVE-2023-24488](https://github.com/LazyySec/CVE-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-24488">
 
 ---
+## CVE-2023-24422 ()
+> 
+- [shoucheng3/jenkinsci__script-security-plugin_CVE-2023-24422_1228.vd93135a_2fb_25](https://github.com/shoucheng3/jenkinsci__script-security-plugin_CVE-2023-24422_1228.vd93135a_2fb_25)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jenkinsci__script-security-plugin_CVE-2023-24422_1228.vd93135a_2fb_25">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jenkinsci__script-security-plugin_CVE-2023-24422_1228.vd93135a_2fb_25">
+
+---
 ## CVE-2023-2437 (2023-11-22T16:15:00)
 > The UserPro plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 5.1.1. This is due to insufficient verification on the user being supplied during a Facebook login through the plugin. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the email. An attacker can leverage CVE-2023-2448 and CVE-2023-2446 to get the user's email address to successfully exploit this vulnerability.
 - [RxRCoder/CVE-2023-2437](https://github.com/RxRCoder/CVE-2023-2437)	<img alt="forks" src="https://img.shields.io/github/forks/RxRCoder/CVE-2023-2437">	<img alt="stars" src="https://img.shields.io/github/stars/RxRCoder/CVE-2023-2437">
