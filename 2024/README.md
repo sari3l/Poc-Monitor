@@ -4798,6 +4798,11 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [RandomRobbieBF/CVE-2024-3605](https://github.com/RandomRobbieBF/CVE-2024-3605)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-3605">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-3605">
 
 ---
+## CVE-2024-36042 ()
+> 
+- [zaaraZiof0/CVE-2024-36042](https://github.com/zaaraZiof0/CVE-2024-36042)	<img alt="forks" src="https://img.shields.io/github/forks/zaaraZiof0/CVE-2024-36042">	<img alt="stars" src="https://img.shields.io/github/stars/zaaraZiof0/CVE-2024-36042">
+
+---
 ## CVE-2024-3596 (2024-07-09T12:15:00)
 > RADIUS Protocol under RFC 2865 is susceptible to forgery attacks by a local attacker who can modify any valid Response (Access-Accept, Access-Reject, or Access-Challenge) to any other response using a chosen-prefix collision attack against MD5 Response Authenticator signature.
 - [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/alperenugurlu/CVE-2024-3596-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/alperenugurlu/CVE-2024-3596-Detector">
