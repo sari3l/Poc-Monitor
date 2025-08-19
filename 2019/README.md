@@ -794,6 +794,11 @@
 - [sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism](https://github.com/sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism)	<img alt="forks" src="https://img.shields.io/github/forks/sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism">	<img alt="stars" src="https://img.shields.io/github/stars/sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism">
 
 ---
+## CVE-2019-5688 ()
+> 
+- [watsa01/CVE-2019-5688](https://github.com/watsa01/CVE-2019-5688)	<img alt="forks" src="https://img.shields.io/github/forks/watsa01/CVE-2019-5688">	<img alt="stars" src="https://img.shields.io/github/stars/watsa01/CVE-2019-5688">
+
+---
 ## CVE-2019-5603 (2019-07-26T01:15:00)
 > In FreeBSD 12.0-STABLE before r350261, 12.0-RELEASE before 12.0-RELEASE-p8, 11.3-STABLE before r350263, 11.3-RELEASE before 11.3-RELEASE-p1, and 11.2-RELEASE before 11.2-RELEASE-p12, system calls operating on file descriptors as part of mqueuefs did not properly release the reference allowing a malicious user to overflow the counter allowing access to files, directories, and sockets opened by processes owned by other users.
 - [raymontag/CVE-2019-5603](https://github.com/raymontag/CVE-2019-5603)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/CVE-2019-5603">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/CVE-2019-5603">
