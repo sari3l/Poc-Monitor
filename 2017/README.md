@@ -1570,6 +1570,11 @@
 - [Live-Hack-CVE/CVE-2017-10087](https://github.com/Live-Hack-CVE/CVE-2017-10087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10087">
 
 ---
+## CVE-2017-1000487 ()
+> 
+- [shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15](https://github.com/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15">
+
+---
 ## CVE-2017-1000486 (2018-01-03T20:29:00)
 > Primetek Primefaces 5.x is vulnerable to a weak encryption flaw resulting in remote code execution
 - [mogwailabs/CVE-2017-1000486](https://github.com/mogwailabs/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/mogwailabs/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/mogwailabs/CVE-2017-1000486">
