@@ -2360,6 +2360,7 @@
 - [r0otk3r/CVE-2021-41773](https://github.com/r0otk3r/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2021-41773">
 - [rajaabdullahnasir/CVE-2021-41773_exploitation](https://github.com/rajaabdullahnasir/CVE-2021-41773_exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/rajaabdullahnasir/CVE-2021-41773_exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/rajaabdullahnasir/CVE-2021-41773_exploitation">
 - [mah4nzfr/CVE-2021-41773](https://github.com/mah4nzfr/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/mah4nzfr/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/mah4nzfr/CVE-2021-41773">
+- [charanvoonna/CVE-2021-41773](https://github.com/charanvoonna/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/charanvoonna/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/charanvoonna/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
