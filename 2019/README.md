@@ -3217,6 +3217,11 @@ use after free.
 - [hshivhare67/kernel_v4.1.15_CVE-2019-10220](https://github.com/hshivhare67/kernel_v4.1.15_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.1.15_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.1.15_CVE-2019-10220">
 
 ---
+## CVE-2019-10219 ()
+> 
+- [shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final](https://github.com/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final">
+
+---
 ## CVE-2019-10203 (2019-11-22T13:15:00)
 > PowerDNS Authoritative daemon , pdns versions 4.0.x before 4.0.9, 4.1.x before 4.1.11, exiting when encountering a serial between 2^31 and 2^32-1 while trying to notify a slave leads to DoS.
 - [Live-Hack-CVE/CVE-2019-10203](https://github.com/Live-Hack-CVE/CVE-2019-10203)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10203">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10203">
