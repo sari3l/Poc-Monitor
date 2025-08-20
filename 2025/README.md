@@ -303,6 +303,7 @@
 - [below0day/Honeypot-Logs-CVE-2025-5777](https://github.com/below0day/Honeypot-Logs-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/below0day/Honeypot-Logs-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/below0day/Honeypot-Logs-CVE-2025-5777">
 - [soltanali0/CVE-2025-5777-Exploit](https://github.com/soltanali0/CVE-2025-5777-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-5777-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-5777-Exploit">
 - [rootxsushant/Citrix-NetScaler-Memory-Leak-CVE-2025-5777](https://github.com/rootxsushant/Citrix-NetScaler-Memory-Leak-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/rootxsushant/Citrix-NetScaler-Memory-Leak-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/rootxsushant/Citrix-NetScaler-Memory-Leak-CVE-2025-5777">
+- [ndr-repo/CVE-2025-5777](https://github.com/ndr-repo/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/ndr-repo/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/ndr-repo/CVE-2025-5777">
 
 ---
 ## CVE-2025-5755 ()

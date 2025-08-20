@@ -1834,6 +1834,11 @@
 - [1NTheKut/CVE-2019-1003000_RCE-DETECTION](https://github.com/1NTheKut/CVE-2019-1003000_RCE-DETECTION)	<img alt="forks" src="https://img.shields.io/github/forks/1NTheKut/CVE-2019-1003000_RCE-DETECTION">	<img alt="stars" src="https://img.shields.io/github/stars/1NTheKut/CVE-2019-1003000_RCE-DETECTION">
 
 ---
+## CVE-2018-1000850 ()
+> 
+- [shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0](https://github.com/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0">
+
+---
 ## CVE-2018-1000168 (2018-05-08T15:29:00)
 > nghttp2 version >= 1.10.0 and nghttp2 <= v1.31.0 contains an Improper Input Validation CWE-20 vulnerability in ALTSVC frame handling that can result in segmentation fault leading to denial of service. This attack appears to be exploitable via network client. This vulnerability appears to have been fixed in >= 1.31.1.
 - [Live-Hack-CVE/CVE-2018-1000168](https://github.com/Live-Hack-CVE/CVE-2018-1000168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1000168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1000168">
