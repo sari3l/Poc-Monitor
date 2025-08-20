@@ -5745,6 +5745,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [CN016/DedeCMS-getshell-CVE-2023-2928-](https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/DedeCMS-getshell-CVE-2023-2928-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/DedeCMS-getshell-CVE-2023-2928-">
 
 ---
+## CVE-2023-29201 ()
+> 
+- [shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5](https://github.com/shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5">
+
+---
 ## CVE-2023-2916 (2023-08-15T09:15:00)
 > The InfiniteWP Client plugin for WordPress is vulnerable to Sensitive Information Exposure in versions up to, and including, 1.11.1 via the 'admin_notice' function. This can allow authenticated attackers with subscriber-level permissions or above to extract sensitive data including configuration. It can only be exploited if the plugin has not been configured yet. If combined with another arbitrary plugin installation and activation vulnerability, it may be possible to connect a site to InfiniteWP which would make remote management possible and allow for elevation of privileges.
 - [d0rb/CVE-2023-2916](https://github.com/d0rb/CVE-2023-2916)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-2916">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-2916">
