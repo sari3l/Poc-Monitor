@@ -972,6 +972,12 @@
 - [WuliRuler/SBSCAN](https://github.com/WuliRuler/SBSCAN)	<img alt="forks" src="https://img.shields.io/github/forks/WuliRuler/SBSCAN">	<img alt="stars" src="https://img.shields.io/github/stars/WuliRuler/SBSCAN">
 
 ---
+## CVE-2020-5405 ()
+> 
+- [shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5405_2-1-6-RELEASE](https://github.com/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5405_2-1-6-RELEASE)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5405_2-1-6-RELEASE">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5405_2-1-6-RELEASE">
+- [DSO-Lab/defvul](https://github.com/DSO-Lab/defvul)	<img alt="forks" src="https://img.shields.io/github/forks/DSO-Lab/defvul">	<img alt="stars" src="https://img.shields.io/github/stars/DSO-Lab/defvul">
+
+---
 ## CVE-2020-5403 (2020-03-03T19:15:00)
 > Reactor Netty HttpServer, versions 0.9.3 and 0.9.4, is exposed to a URISyntaxException that causes the connection to be closed prematurely instead of producing a 400 response.
 - [Live-Hack-CVE/CVE-2020-5403](https://github.com/Live-Hack-CVE/CVE-2020-5403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5403">
