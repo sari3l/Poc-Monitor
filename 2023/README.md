@@ -2764,6 +2764,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [sarsaeroth/CVE-2023-41064-POC](https://github.com/sarsaeroth/CVE-2023-41064-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sarsaeroth/CVE-2023-41064-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sarsaeroth/CVE-2023-41064-POC">
 
 ---
+## CVE-2023-41044 ()
+> 
+- [shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2](https://github.com/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2">
+
+---
 ## CVE-2023-41015 (2024-03-07T09:15:00)
 > code-projects.org Online Job Portal 1.0 is vulnerable to SQL Injection via /Employer/DeleteJob.php?JobId=1.
 - [ASR511-OO7/CVE-2023-41015](https://github.com/ASR511-OO7/CVE-2023-41015)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41015">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41015">
