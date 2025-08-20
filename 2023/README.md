@@ -1563,6 +1563,11 @@ QuTScloud c5.1.5.2651 and later
 - [maybeheisenberg/CVE-2023-46805](https://github.com/maybeheisenberg/CVE-2023-46805)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2023-46805">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2023-46805">
 
 ---
+## CVE-2023-46749 ()
+> 
+- [shoucheng3/apache__shiro_CVE-2023-46749_1-12-0](https://github.com/shoucheng3/apache__shiro_CVE-2023-46749_1-12-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__shiro_CVE-2023-46749_1-12-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__shiro_CVE-2023-46749_1-12-0">
+
+---
 ## CVE-2023-46747 (2023-10-26T21:15:00)
 > 
 
