@@ -1087,6 +1087,11 @@
 - [Live-Hack-CVE/CVE-2017-14746](https://github.com/Live-Hack-CVE/CVE-2017-14746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14746">
 
 ---
+## CVE-2017-14735 ()
+> 
+- [shoucheng3/nahsra__antisamy_CVE-2017-14735_1-5-6](https://github.com/shoucheng3/nahsra__antisamy_CVE-2017-14735_1-5-6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/nahsra__antisamy_CVE-2017-14735_1-5-6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/nahsra__antisamy_CVE-2017-14735_1-5-6">
+
+---
 ## CVE-2017-14481 (2018-05-09T20:29:00)
 > In the MMM::Agent::Helpers::Network::send_arp function in MySQL Multi-Master Replication Manager (MMM) mmm_agentd 2.2.1 (for Solaris), a specially crafted MMM protocol message can cause a shell command injection resulting in arbitrary command execution with the privileges of the mmm\_agentd process. An attacker that can initiate a TCP session with mmm\_agentd can trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2017-14481](https://github.com/Live-Hack-CVE/CVE-2017-14481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14481">

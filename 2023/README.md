@@ -470,6 +470,11 @@ SCM accounting on the io_uring side unnecessary.
 - [rockrid3r/CVE-2023-5178](https://github.com/rockrid3r/CVE-2023-5178)	<img alt="forks" src="https://img.shields.io/github/forks/rockrid3r/CVE-2023-5178">	<img alt="stars" src="https://img.shields.io/github/stars/rockrid3r/CVE-2023-5178">
 
 ---
+## CVE-2023-51770 ()
+> 
+- [shoucheng3/apache__dolphinscheduler_CVE-2023-51770_3-2-0](https://github.com/shoucheng3/apache__dolphinscheduler_CVE-2023-51770_3-2-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__dolphinscheduler_CVE-2023-51770_3-2-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__dolphinscheduler_CVE-2023-51770_3-2-0">
+
+---
 ## CVE-2023-51764 (2023-12-24T05:15:00)
 > Postfix through 3.8.4 allows SMTP smuggling unless configured with smtpd_data_restrictions=reject_unauth_pipelining (or certain other options that exist in recent versions). Remote attackers can use a published exploitation technique to inject e-mail messages that appear to originate from the Postfix server, allowing bypass of an SPF protection mechanism. This occurs because Postfix supports <LF>.<CR><LF> but some other popular e-mail servers do not. To prevent attack variants (by always disallowing <LF> without <CR>), a different solution is required: the smtpd_forbid_bare_newline=yes option with a Postfix minimum version of 3.5.23, 3.6.13, 3.7.9, 3.8.4, or 3.9.
 - [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-51764">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-51764">
