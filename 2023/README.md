@@ -5662,6 +5662,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [0xKayala/CVE-2023-29552](https://github.com/0xKayala/CVE-2023-29552)	<img alt="forks" src="https://img.shields.io/github/forks/0xKayala/CVE-2023-29552">	<img alt="stars" src="https://img.shields.io/github/stars/0xKayala/CVE-2023-29552">
 
 ---
+## CVE-2023-29528 ()
+> 
+- [shoucheng3/xwiki__xwiki-commons_CVE-2023-29528_14-9-rc-1](https://github.com/shoucheng3/xwiki__xwiki-commons_CVE-2023-29528_14-9-rc-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-commons_CVE-2023-29528_14-9-rc-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-commons_CVE-2023-29528_14-9-rc-1">
+
+---
 ## CVE-2023-29489 (2023-04-27T21:15:00)
 > An issue was discovered in cPanel before 11.109.9999.116. XSS can occur on the cpsrvd error page via an invalid webcall ID, aka SEC-669. The fixed versions are 11.109.9999.116, 11.108.0.13, 11.106.0.18, and 11.102.0.31.
 - [learnerboy88/CVE-2023-29489](https://github.com/learnerboy88/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/learnerboy88/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/learnerboy88/CVE-2023-29489">
