@@ -5371,6 +5371,11 @@ Fixed in version 6.4.1.
 - [AmirWhiteHat/CVE-2023-3124](https://github.com/AmirWhiteHat/CVE-2023-3124)	<img alt="forks" src="https://img.shields.io/github/forks/AmirWhiteHat/CVE-2023-3124">	<img alt="stars" src="https://img.shields.io/github/stars/AmirWhiteHat/CVE-2023-3124">
 
 ---
+## CVE-2023-31126 ()
+> 
+- [shoucheng3/xwiki__xwiki-commons_CVE-2023-31126_14-10-3](https://github.com/shoucheng3/xwiki__xwiki-commons_CVE-2023-31126_14-10-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-commons_CVE-2023-31126_14-10-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-commons_CVE-2023-31126_14-10-3">
+
+---
 ## CVE-2023-31070 ()
 > 
 - [bugprove/cve-2023-31070](https://github.com/bugprove/cve-2023-31070)	<img alt="forks" src="https://img.shields.io/github/forks/bugprove/cve-2023-31070">	<img alt="stars" src="https://img.shields.io/github/stars/bugprove/cve-2023-31070">
