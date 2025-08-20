@@ -2331,6 +2331,7 @@
 - [sug4r-wr41th/CVE-2025-31324](https://github.com/sug4r-wr41th/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-31324">
 - [antichainalysis/sap-netweaver-0day-CVE-2025-31324](https://github.com/antichainalysis/sap-netweaver-0day-CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/antichainalysis/sap-netweaver-0day-CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/antichainalysis/sap-netweaver-0day-CVE-2025-31324">
 - [lekosbelas/sap-0day-CVE-2025-31324](https://github.com/lekosbelas/sap-0day-CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/lekosbelas/sap-0day-CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/lekosbelas/sap-0day-CVE-2025-31324">
+- [harshitvarma05/CVE-2025-31324-Exploits](https://github.com/harshitvarma05/CVE-2025-31324-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/harshitvarma05/CVE-2025-31324-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/harshitvarma05/CVE-2025-31324-Exploits">
 
 ---
 ## CVE-2025-31258 ()
