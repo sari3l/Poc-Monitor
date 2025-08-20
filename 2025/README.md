@@ -614,6 +614,11 @@
 - [gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students">
 
 ---
+## CVE-2025-52392 ()
+> 
+- [137f/Soosyze-CMS-2.0---CVE-2025-52392](https://github.com/137f/Soosyze-CMS-2.0---CVE-2025-52392)	<img alt="forks" src="https://img.shields.io/github/forks/137f/Soosyze-CMS-2.0---CVE-2025-52392">	<img alt="stars" src="https://img.shields.io/github/stars/137f/Soosyze-CMS-2.0---CVE-2025-52392">
+
+---
 ## CVE-2025-52385 ()
 > 
 - [Kov404/CVE-2025-52385](https://github.com/Kov404/CVE-2025-52385)	<img alt="forks" src="https://img.shields.io/github/forks/Kov404/CVE-2025-52385">	<img alt="stars" src="https://img.shields.io/github/stars/Kov404/CVE-2025-52385">
