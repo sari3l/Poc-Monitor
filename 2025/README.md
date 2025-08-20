@@ -361,6 +361,11 @@
 - [AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back](https://github.com/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">
 
 ---
+## CVE-2025-54782 ()
+> 
+- [nitrixog/CVE-2025-54782](https://github.com/nitrixog/CVE-2025-54782)	<img alt="forks" src="https://img.shields.io/github/forks/nitrixog/CVE-2025-54782">	<img alt="stars" src="https://img.shields.io/github/stars/nitrixog/CVE-2025-54782">
+
+---
 ## CVE-2025-54769 ()
 > 
 - [byteReaper77/CVE-2025-54769](https://github.com/byteReaper77/CVE-2025-54769)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-54769">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-54769">
