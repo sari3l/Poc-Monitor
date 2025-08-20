@@ -216,6 +216,7 @@
 - [rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution](https://github.com/rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution">
 - [xxxTectationxxx/CVE-2018-7600](https://github.com/xxxTectationxxx/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/xxxTectationxxx/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/xxxTectationxxx/CVE-2018-7600">
 - [muhammedkayag/CVE-2018-7600](https://github.com/muhammedkayag/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/muhammedkayag/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/muhammedkayag/CVE-2018-7600">
+- [SyedGhufranRaza/CVE-2018-7600-Remote-Code-Execution](https://github.com/SyedGhufranRaza/CVE-2018-7600-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/SyedGhufranRaza/CVE-2018-7600-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/SyedGhufranRaza/CVE-2018-7600-Remote-Code-Execution">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
