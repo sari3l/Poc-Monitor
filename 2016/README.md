@@ -370,6 +370,11 @@
 - [shoucheng3/asf__cxf_CVE-2016-6812_3-0-11](https://github.com/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">
 
 ---
+## CVE-2016-6662 ()
+> 
+- [kanyaars/CVE-2016-6662](https://github.com/kanyaars/CVE-2016-6662)	<img alt="forks" src="https://img.shields.io/github/forks/kanyaars/CVE-2016-6662">	<img alt="stars" src="https://img.shields.io/github/stars/kanyaars/CVE-2016-6662">
+
+---
 ## CVE-2016-6328 (2018-10-31T22:29:00)
 > A vulnerability was found in libexif. An integer overflow when parsing the MNOTE entry data of the input file. This can cause Denial-of-Service (DoS) and Information Disclosure (disclosing some critical heap chunk metadata, even other applications' private data).
 - [Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328](https://github.com/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328">
