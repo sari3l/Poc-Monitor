@@ -2767,6 +2767,7 @@ The vulnerability is limited to the ROOT (default) web application.
 ## CVE-2023-41044 ()
 > 
 - [shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2](https://github.com/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2">
+- [shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2](https://github.com/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2">
 
 ---
 ## CVE-2023-41015 (2024-03-07T09:15:00)
@@ -5747,6 +5748,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ---
 ## CVE-2023-29201 ()
 > 
+- [shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5](https://github.com/shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5">
 - [shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5](https://github.com/shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-commons_CVE-2023-29201_14-5">
 
 ---
