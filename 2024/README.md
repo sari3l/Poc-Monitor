@@ -2923,6 +2923,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [Skycritch/CVE-2024-4577](https://github.com/Skycritch/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Skycritch/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Skycritch/CVE-2024-4577">
 - [CirqueiraDev/MassExploit-CVE-2024-4577](https://github.com/CirqueiraDev/MassExploit-CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/CirqueiraDev/MassExploit-CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/CirqueiraDev/MassExploit-CVE-2024-4577">
 - [xAL6/cve-2024-4577-scanner](https://github.com/xAL6/cve-2024-4577-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xAL6/cve-2024-4577-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xAL6/cve-2024-4577-scanner">
+- [Ianthinus/CVE-2024-4577](https://github.com/Ianthinus/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Ianthinus/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Ianthinus/CVE-2024-4577">
 
 ---
 ## CVE-2024-4573 ()
