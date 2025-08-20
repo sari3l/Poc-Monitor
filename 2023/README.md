@@ -4000,6 +4000,11 @@ prior to
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
 
 ---
+## CVE-2023-36542 ()
+> 
+- [shoucheng3/asf__nifi_CVE-2023-36542_1-22-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-36542_1-22-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-36542_1-22-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-36542_1-22-0">
+
+---
 ## CVE-2023-36531 ()
 > 
 - [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-36531">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-36531">
