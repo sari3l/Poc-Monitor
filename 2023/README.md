@@ -5374,6 +5374,7 @@ Fixed in version 6.4.1.
 ## CVE-2023-31126 ()
 > 
 - [shoucheng3/xwiki__xwiki-commons_CVE-2023-31126_14-10-3](https://github.com/shoucheng3/xwiki__xwiki-commons_CVE-2023-31126_14-10-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-commons_CVE-2023-31126_14-10-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-commons_CVE-2023-31126_14-10-3">
+- [shoucheng3/cov-int](https://github.com/shoucheng3/cov-int)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/cov-int">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/cov-int">
 
 ---
 ## CVE-2023-31070 ()
