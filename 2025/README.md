@@ -3389,6 +3389,7 @@
 > 
 - [barbaraeivyu/CVE-2025-25256](https://github.com/barbaraeivyu/CVE-2025-25256)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-25256">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-25256">
 - [watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256](https://github.com/watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256">
+- [JMS-Security/CVE-2025-25256-PoC](https://github.com/JMS-Security/CVE-2025-25256-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JMS-Security/CVE-2025-25256-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JMS-Security/CVE-2025-25256-PoC">
 
 ---
 ## CVE-2025-252513 ()
