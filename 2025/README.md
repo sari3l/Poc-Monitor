@@ -67,6 +67,7 @@
 - [pentestfunctions/CVE-2025-8088-Multi-Document](https://github.com/pentestfunctions/CVE-2025-8088-Multi-Document)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/CVE-2025-8088-Multi-Document">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/CVE-2025-8088-Multi-Document">
 - [pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC](https://github.com/pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC">
 - [Syrins/CVE-2025-8088-Winrar-Tool-Gui](https://github.com/Syrins/CVE-2025-8088-Winrar-Tool-Gui)	<img alt="forks" src="https://img.shields.io/github/forks/Syrins/CVE-2025-8088-Winrar-Tool-Gui">	<img alt="stars" src="https://img.shields.io/github/stars/Syrins/CVE-2025-8088-Winrar-Tool-Gui">
+- [amel-62/WinRAR-CVE-2025-8088-PoC-RAR](https://github.com/amel-62/WinRAR-CVE-2025-8088-PoC-RAR)	<img alt="forks" src="https://img.shields.io/github/forks/amel-62/WinRAR-CVE-2025-8088-PoC-RAR">	<img alt="stars" src="https://img.shields.io/github/stars/amel-62/WinRAR-CVE-2025-8088-PoC-RAR">
 
 ---
 ## CVE-2025-8018 ()
