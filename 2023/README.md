@@ -2550,6 +2550,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [acesoyeo/CVE-2023-41892](https://github.com/acesoyeo/CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/acesoyeo/CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/acesoyeo/CVE-2023-41892">
 - [diegaccio/Craft-CMS-Exploit](https://github.com/diegaccio/Craft-CMS-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diegaccio/Craft-CMS-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diegaccio/Craft-CMS-Exploit">
 - [CERTologists/HTTP-Request-for-PHP-object-injection-attack-on-CVE-2023-41892](https://github.com/CERTologists/HTTP-Request-for-PHP-object-injection-attack-on-CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/CERTologists/HTTP-Request-for-PHP-object-injection-attack-on-CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/CERTologists/HTTP-Request-for-PHP-object-injection-attack-on-CVE-2023-41892">
+- [user01-1/CVE-2023-41892_poc](https://github.com/user01-1/CVE-2023-41892_poc)	<img alt="forks" src="https://img.shields.io/github/forks/user01-1/CVE-2023-41892_poc">	<img alt="stars" src="https://img.shields.io/github/stars/user01-1/CVE-2023-41892_poc">
 
 ---
 ## CVE-2023-41772 (2023-10-10T18:15:00)
