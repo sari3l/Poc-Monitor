@@ -1649,6 +1649,11 @@
 - [0xgh057r3c0n/CVE-2025-4334](https://github.com/0xgh057r3c0n/CVE-2025-4334)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-4334">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-4334">
 
 ---
+## CVE-2025-43300 ()
+> 
+- [h4xnz/CVE-2025-43300](https://github.com/h4xnz/CVE-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-43300">
+
+---
 ## CVE-2025-4322 ()
 > 
 - [IndominusRexes/CVE-2025-4322-Exploit](https://github.com/IndominusRexes/CVE-2025-4322-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IndominusRexes/CVE-2025-4322-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IndominusRexes/CVE-2025-4322-Exploit">
