@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-9132 ()
+> 
+- [barbaraeivyu/CVE-2025-9132](https://github.com/barbaraeivyu/CVE-2025-9132)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-9132">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-9132">
+
+---
 ## CVE-2025-9090 ()
 > 
 - [byteReaper77/CVE-2025-9090](https://github.com/byteReaper77/CVE-2025-9090)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-9090">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-9090">
