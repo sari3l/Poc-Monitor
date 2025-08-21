@@ -3879,6 +3879,11 @@
 - [korden-c/CVE-2025-22252](https://github.com/korden-c/CVE-2025-22252)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-22252">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-22252">
 
 ---
+## CVE-2025-22235 ()
+> 
+- [idealzh/cve-2025-22235-demo](https://github.com/idealzh/cve-2025-22235-demo)	<img alt="forks" src="https://img.shields.io/github/forks/idealzh/cve-2025-22235-demo">	<img alt="stars" src="https://img.shields.io/github/stars/idealzh/cve-2025-22235-demo">
+
+---
 ## CVE-2025-22224 ()
 > 
 - [bronsoneaver/CVE-2025-22224](https://github.com/bronsoneaver/CVE-2025-22224)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-22224">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-22224">
