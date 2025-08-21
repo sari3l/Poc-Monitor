@@ -340,6 +340,11 @@
 - [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-55668">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-55668">
 
 ---
+## CVE-2025-55287 ()
+> 
+- [Eternalvalhalla/CVE-2025-55287-POC](https://github.com/Eternalvalhalla/CVE-2025-55287-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Eternalvalhalla/CVE-2025-55287-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Eternalvalhalla/CVE-2025-55287-POC">
+
+---
 ## CVE-2025-55188 ()
 > 
 - [hunters-sec/CVE-2025-55188-7z-exploit](https://github.com/hunters-sec/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hunters-sec/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hunters-sec/CVE-2025-55188-7z-exploit">
