@@ -3498,7 +3498,7 @@
 - [Retro023/CVE-2025-24893-POC](https://github.com/Retro023/CVE-2025-24893-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Retro023/CVE-2025-24893-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Retro023/CVE-2025-24893-POC">
 - [0xBl4nk/CVE-2025-24893](https://github.com/0xBl4nk/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-24893">
 - [CMassa/CVE-2025-24893](https://github.com/CMassa/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/CMassa/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/CMassa/CVE-2025-24893">
-- [x0da6h/EXP-for-CVE-2025-24893](https://github.com/x0da6h/EXP-for-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/EXP-for-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/EXP-for-CVE-2025-24893">
+- [x0da6h/POC-for-CVE-2025-24893](https://github.com/x0da6h/POC-for-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
