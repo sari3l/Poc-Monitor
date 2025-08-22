@@ -346,6 +346,11 @@
 - [Eternalvalhalla/CVE-2025-55287-POC](https://github.com/Eternalvalhalla/CVE-2025-55287-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Eternalvalhalla/CVE-2025-55287-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Eternalvalhalla/CVE-2025-55287-POC">
 
 ---
+## CVE-2025-55230 ()
+> 
+- [barbaraeivyu/CVE-2025-55230-Exploit](https://github.com/barbaraeivyu/CVE-2025-55230-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-55230-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-55230-Exploit">
+
+---
 ## CVE-2025-55188 ()
 > 
 - [hunters-sec/CVE-2025-55188-7z-exploit](https://github.com/hunters-sec/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hunters-sec/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hunters-sec/CVE-2025-55188-7z-exploit">
