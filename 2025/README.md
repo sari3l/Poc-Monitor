@@ -1663,6 +1663,7 @@
 ## CVE-2025-43300 ()
 > 
 - [h4xnz/CVE-2025-43300-Exploit](https://github.com/h4xnz/CVE-2025-43300-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-43300-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-43300-Exploit">
+- [XiaomingX/CVE-2025-43300-exp](https://github.com/XiaomingX/CVE-2025-43300-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2025-43300-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2025-43300-exp">
 
 ---
 ## CVE-2025-4322 ()
