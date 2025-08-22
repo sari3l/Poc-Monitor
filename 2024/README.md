@@ -3397,7 +3397,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/CVE-2024-4367-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/CVE-2024-4367-Analysis">
 - [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample)	<img alt="forks" src="https://img.shields.io/github/forks/pedrochalegre7/CVE-2024-4367-pdf-sample">	<img alt="stars" src="https://img.shields.io/github/stars/pedrochalegre7/CVE-2024-4367-pdf-sample">
 - [exfil0/WEAPONIZING-CVE-2024-4367](https://github.com/exfil0/WEAPONIZING-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/WEAPONIZING-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/WEAPONIZING-CVE-2024-4367">
-- [inpentest/CVE-2024-4367-PoC](https://github.com/inpentest/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/inpentest/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/inpentest/CVE-2024-4367-PoC">
+- [ahmad-kabiri/CVE-2024-4367-PoC](https://github.com/ahmad-kabiri/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmad-kabiri/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmad-kabiri/CVE-2024-4367-PoC">
 - [elamani-drawing/CVE-2024-4367-POC-PDFJS](https://github.com/elamani-drawing/CVE-2024-4367-POC-PDFJS)	<img alt="forks" src="https://img.shields.io/github/forks/elamani-drawing/CVE-2024-4367-POC-PDFJS">	<img alt="stars" src="https://img.shields.io/github/stars/elamani-drawing/CVE-2024-4367-POC-PDFJS">
 - [VVeakee/CVE-2024-4367](https://github.com/VVeakee/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/VVeakee/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/VVeakee/CVE-2024-4367">
 - [pS3ud0RAnD0m/cve-2024-4367-poc](https://github.com/pS3ud0RAnD0m/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pS3ud0RAnD0m/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pS3ud0RAnD0m/cve-2024-4367-poc">
@@ -3407,6 +3407,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [MihranGIT/POC_CVE-2024-4367](https://github.com/MihranGIT/POC_CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/MihranGIT/POC_CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/MihranGIT/POC_CVE-2024-4367">
 - [MihranGIT/CVE-2024-4367](https://github.com/MihranGIT/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/MihranGIT/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/MihranGIT/CVE-2024-4367">
 - [0xr2r/CVE-2024-4367](https://github.com/0xr2r/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/0xr2r/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/0xr2r/CVE-2024-4367">
+- [m0d0ri205/PDFJS](https://github.com/m0d0ri205/PDFJS)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/PDFJS">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/PDFJS">
 
 ---
 ## CVE-2024-43639 ()
