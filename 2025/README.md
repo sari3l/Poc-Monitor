@@ -1662,7 +1662,7 @@
 ---
 ## CVE-2025-43300 ()
 > 
-- [h4xnz/CVE-2025-43300](https://github.com/h4xnz/CVE-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-43300">
+- [h4xnz/CVE-2025-43300-Exploit](https://github.com/h4xnz/CVE-2025-43300-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-43300-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-43300-Exploit">
 
 ---
 ## CVE-2025-4322 ()
@@ -3044,6 +3044,11 @@
 ## CVE-2025-27521 ()
 > 
 - [alialucas7/CVE-2025-27521_PoC](https://github.com/alialucas7/CVE-2025-27521_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alialucas7/CVE-2025-27521_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alialucas7/CVE-2025-27521_PoC">
+
+---
+## CVE-2025-27519 ()
+> 
+- [Diabl0xE/CVE-2025-27519](https://github.com/Diabl0xE/CVE-2025-27519)	<img alt="forks" src="https://img.shields.io/github/forks/Diabl0xE/CVE-2025-27519">	<img alt="stars" src="https://img.shields.io/github/stars/Diabl0xE/CVE-2025-27519">
 
 ---
 ## CVE-2025-27415 ()
