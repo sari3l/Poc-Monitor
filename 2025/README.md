@@ -552,6 +552,11 @@
 - [rafaelcorvino1/CVE-2025-53640](https://github.com/rafaelcorvino1/CVE-2025-53640)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelcorvino1/CVE-2025-53640">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelcorvino1/CVE-2025-53640">
 
 ---
+## CVE-2025-53632 ()
+> 
+- [pandatix/CVE-2025-53632](https://github.com/pandatix/CVE-2025-53632)	<img alt="forks" src="https://img.shields.io/github/forks/pandatix/CVE-2025-53632">	<img alt="stars" src="https://img.shields.io/github/stars/pandatix/CVE-2025-53632">
+
+---
 ## CVE-2025-53547 ()
 > 
 - [DVKunion/CVE-2025-53547-POC](https://github.com/DVKunion/CVE-2025-53547-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DVKunion/CVE-2025-53547-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DVKunion/CVE-2025-53547-POC">
