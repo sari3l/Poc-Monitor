@@ -11,6 +11,11 @@
 - [byteReaper77/CVE-2025-9090](https://github.com/byteReaper77/CVE-2025-9090)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-9090">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-9090">
 
 ---
+## CVE-2025-9074 ()
+> 
+- [XRayZen/cve-2025-9074-exploit-poc](https://github.com/XRayZen/cve-2025-9074-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XRayZen/cve-2025-9074-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XRayZen/cve-2025-9074-exploit-poc">
+
+---
 ## CVE-2025-9043 ()
 > 
 - [Tiger3080/CVE-2025-9043](https://github.com/Tiger3080/CVE-2025-9043)	<img alt="forks" src="https://img.shields.io/github/forks/Tiger3080/CVE-2025-9043">	<img alt="stars" src="https://img.shields.io/github/stars/Tiger3080/CVE-2025-9043">
