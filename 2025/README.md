@@ -13,7 +13,7 @@
 ---
 ## CVE-2025-9074 ()
 > 
-- [XRayZen/cve-2025-9074-exploit-poc](https://github.com/XRayZen/cve-2025-9074-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XRayZen/cve-2025-9074-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XRayZen/cve-2025-9074-exploit-poc">
+- [XRayZen/cve-2025-9074-poc](https://github.com/XRayZen/cve-2025-9074-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XRayZen/cve-2025-9074-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XRayZen/cve-2025-9074-poc">
 
 ---
 ## CVE-2025-9043 ()
