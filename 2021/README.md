@@ -8925,6 +8925,11 @@
 - [jinsu9758/PUG-RCE-CVE-2021-21353-POC](https://github.com/jinsu9758/PUG-RCE-CVE-2021-21353-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jinsu9758/PUG-RCE-CVE-2021-21353-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jinsu9758/PUG-RCE-CVE-2021-21353-POC">
 
 ---
+## CVE-2021-21345 ()
+> 
+- [shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15](https://github.com/shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15">
+
+---
 ## CVE-2021-21313 (2021-03-03T20:15:00)
 > GLPI is open source software which stands for Gestionnaire Libre de Parc Informatique and it is a Free Asset and IT Management Software package. In GLPI before verison 9.5.4, there is a vulnerability in the /ajax/common.tabs.php endpoint, indeed, at least two parameters _target and id are not properly sanitized. Here are two payloads (due to two different exploitations depending on which parameter you act) to exploit the vulnerability:/ajax/common.tabs.php?_target=javascript:alert(document.cookie)&_itemtype=DisplayPreference&_glpi_tab=DisplayPreference$2&id=258&displaytype=Ticket (Payload triggered if you click on the button). /ajax/common.tabs.php?_target=/front/ticket.form.php&_itemtype=Ticket&_glpi_tab=Ticket$1&id=(){};(function%20(){alert(document.cookie);})();function%20a&#.
 - [Live-Hack-CVE/CVE-2021-21313](https://github.com/Live-Hack-CVE/CVE-2021-21313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21313">
