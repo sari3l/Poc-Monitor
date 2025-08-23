@@ -2534,6 +2534,7 @@
 - [W01fh4cker/CVE-2025-30406](https://github.com/W01fh4cker/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2025-30406">
 - [mchklt/CVE-2025-30406](https://github.com/mchklt/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/mchklt/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/mchklt/CVE-2025-30406">
 - [Gersonaze/CVE-2025-30406](https://github.com/Gersonaze/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/Gersonaze/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/Gersonaze/CVE-2025-30406">
+- [threadpoolx/CVE-2025-30406-CentreStack-Triofox-Deserialization-RCE](https://github.com/threadpoolx/CVE-2025-30406-CentreStack-Triofox-Deserialization-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/threadpoolx/CVE-2025-30406-CentreStack-Triofox-Deserialization-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/threadpoolx/CVE-2025-30406-CentreStack-Triofox-Deserialization-RCE">
 
 ---
 ## CVE-2025-30401 ()
