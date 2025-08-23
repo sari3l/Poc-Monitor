@@ -597,6 +597,12 @@
 - [issamjr/CVE-2025-5309-Scanner](https://github.com/issamjr/CVE-2025-5309-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-5309-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-5309-Scanner">
 
 ---
+## CVE-2025-52970 ()
+> 
+- [Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass](https://github.com/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">
+- [Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-](https://github.com/Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-">
+
+---
 ## CVE-2025-52914 ()
 > 
 - [rxerium/CVE-2025-52914](https://github.com/rxerium/CVE-2025-52914)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-52914">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-52914">
