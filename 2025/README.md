@@ -1998,6 +1998,7 @@
 - [detectrespondrepeat/CVE-2025-33053](https://github.com/detectrespondrepeat/CVE-2025-33053)	<img alt="forks" src="https://img.shields.io/github/forks/detectrespondrepeat/CVE-2025-33053">	<img alt="stars" src="https://img.shields.io/github/stars/detectrespondrepeat/CVE-2025-33053">
 - [TheTorjanCaptain/CVE-2025-33053-Checker-PoC](https://github.com/TheTorjanCaptain/CVE-2025-33053-Checker-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheTorjanCaptain/CVE-2025-33053-Checker-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheTorjanCaptain/CVE-2025-33053-Checker-PoC">
 - [kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept](https://github.com/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept">
+- [4n4s4zi/CVE-2025-33053_PoC](https://github.com/4n4s4zi/CVE-2025-33053_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/4n4s4zi/CVE-2025-33053_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/4n4s4zi/CVE-2025-33053_PoC">
 
 ---
 ## CVE-2025-32965 ()
