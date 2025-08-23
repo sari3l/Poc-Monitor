@@ -1074,6 +1074,11 @@
 - [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
+## CVE-2020-36847 ()
+> 
+- [137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE](https://github.com/137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE">
+
+---
 ## CVE-2020-36842 ()
 > 
 - [Nxploited/CVE-2020-36842](https://github.com/Nxploited/CVE-2020-36842)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2020-36842">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2020-36842">
