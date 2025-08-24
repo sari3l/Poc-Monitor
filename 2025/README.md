@@ -1079,6 +1079,7 @@
 - [00xCanelo/CVE-2025-49113](https://github.com/00xCanelo/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-49113">
 - [CyberQuestor-infosec/CVE-2025-49113-Roundcube_1.6.10](https://github.com/CyberQuestor-infosec/CVE-2025-49113-Roundcube_1.6.10)	<img alt="forks" src="https://img.shields.io/github/forks/CyberQuestor-infosec/CVE-2025-49113-Roundcube_1.6.10">	<img alt="stars" src="https://img.shields.io/github/stars/CyberQuestor-infosec/CVE-2025-49113-Roundcube_1.6.10">
 - [SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP](https://github.com/SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP">
+- [Zwique/CVE-2025-49113](https://github.com/Zwique/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/Zwique/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/Zwique/CVE-2025-49113">
 
 ---
 ## CVE-2025-49029 ()
