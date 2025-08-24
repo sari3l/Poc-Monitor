@@ -2303,6 +2303,7 @@ length to be included in the checksum calculation is fully consumed.
 - [An00bRektn/shirocrack](https://github.com/An00bRektn/shirocrack)	<img alt="forks" src="https://img.shields.io/github/forks/An00bRektn/shirocrack">	<img alt="stars" src="https://img.shields.io/github/stars/An00bRektn/shirocrack">
 - [XiaomingX/cve-2024-4956](https://github.com/XiaomingX/cve-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-4956">
 - [art-of-defence/CVE-2024-4956](https://github.com/art-of-defence/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/art-of-defence/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/art-of-defence/CVE-2024-4956">
+- [Buff3st-0v3rfl0w/CVE-2024-4956](https://github.com/Buff3st-0v3rfl0w/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/Buff3st-0v3rfl0w/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/Buff3st-0v3rfl0w/CVE-2024-4956">
 
 ---
 ## CVE-2024-4947 (2024-05-15T21:15:00)
