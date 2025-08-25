@@ -1908,6 +1908,7 @@
 ## CVE-2025-38001 ()
 > 
 - [0xdevil/CVE-2025-38001](https://github.com/0xdevil/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/0xdevil/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/0xdevil/CVE-2025-38001">
+- [khoatran107/cve-2025-38001](https://github.com/khoatran107/cve-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-38001">
 
 ---
 ## CVE-2025-37899 ()
