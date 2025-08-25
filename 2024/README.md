@@ -3409,6 +3409,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [MihranGIT/CVE-2024-4367](https://github.com/MihranGIT/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/MihranGIT/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/MihranGIT/CVE-2024-4367">
 - [0xr2r/CVE-2024-4367](https://github.com/0xr2r/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/0xr2r/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/0xr2r/CVE-2024-4367">
 - [m0d0ri205/PDFJS](https://github.com/m0d0ri205/PDFJS)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/PDFJS">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/PDFJS">
+- [1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf](https://github.com/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf">
 
 ---
 ## CVE-2024-43639 ()
