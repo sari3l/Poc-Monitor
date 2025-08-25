@@ -155,6 +155,11 @@
 - [Live-Hack-CVE/CVE-2017-8516](https://github.com/Live-Hack-CVE/CVE-2017-8516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8516">
 
 ---
+## CVE-2017-8481 ()
+> 
+- [TamatahYT/CVE-2017-8481](https://github.com/TamatahYT/CVE-2017-8481)	<img alt="forks" src="https://img.shields.io/github/forks/TamatahYT/CVE-2017-8481">	<img alt="stars" src="https://img.shields.io/github/stars/TamatahYT/CVE-2017-8481">
+
+---
 ## CVE-2017-8464 (2017-06-15T01:29:00)
 > Windows Shell in Microsoft Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT 8.1, Windows 10 Gold, 1511, 1607, 1703, and Windows Server 2016 allows local users or remote attackers to execute arbitrary code via a crafted .LNK file, which is not properly handled during icon display in Windows Explorer or any other application that parses the icon of the shortcut. aka "LNK Remote Code Execution Vulnerability."
 - [tuankiethkt020/Phat-hien-CVE-2017-8464](https://github.com/tuankiethkt020/Phat-hien-CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/tuankiethkt020/Phat-hien-CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/tuankiethkt020/Phat-hien-CVE-2017-8464">
