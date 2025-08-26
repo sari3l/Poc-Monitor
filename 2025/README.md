@@ -3545,6 +3545,7 @@
 - [0xBl4nk/CVE-2025-24893](https://github.com/0xBl4nk/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-24893">
 - [CMassa/CVE-2025-24893](https://github.com/CMassa/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/CMassa/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/CMassa/CVE-2025-24893">
 - [x0da6h/POC-for-CVE-2025-24893](https://github.com/x0da6h/POC-for-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2025-24893">
+- [ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup](https://github.com/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">
 
 ---
 ## CVE-2025-24813 ()
