@@ -1228,6 +1228,8 @@
 - [replicatorbot/CVE-2025-48384](https://github.com/replicatorbot/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/replicatorbot/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/replicatorbot/CVE-2025-48384">
 - [eliox01/CVE-2025-48384](https://github.com/eliox01/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/eliox01/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/eliox01/CVE-2025-48384">
 - [xuanlockun/CVE-2025-48384-submodule](https://github.com/xuanlockun/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/xuanlockun/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/xuanlockun/CVE-2025-48384-submodule">
+- [sahar042/CVE-2025-48384-submodule](https://github.com/sahar042/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2025-48384-submodule">
+- [sahar042/CVE-2025-48384](https://github.com/sahar042/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
