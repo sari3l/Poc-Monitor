@@ -84,6 +84,7 @@
 - [ghostn4444/CVE-2025-8088](https://github.com/ghostn4444/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/ghostn4444/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/ghostn4444/CVE-2025-8088">
 - [DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC](https://github.com/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC">
 - [pescada-dev/-CVE-2025-8088](https://github.com/pescada-dev/-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/pescada-dev/-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/pescada-dev/-CVE-2025-8088">
+- [AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal](https://github.com/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal">
 
 ---
 ## CVE-2025-8018 ()
