@@ -3555,6 +3555,7 @@
 - [CMassa/CVE-2025-24893](https://github.com/CMassa/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/CMassa/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/CMassa/CVE-2025-24893">
 - [x0da6h/POC-for-CVE-2025-24893](https://github.com/x0da6h/POC-for-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2025-24893">
 - [ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup](https://github.com/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">
+- [torjan0/xwiki_solrsearch-rce-exploit](https://github.com/torjan0/xwiki_solrsearch-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/torjan0/xwiki_solrsearch-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/torjan0/xwiki_solrsearch-rce-exploit">
 
 ---
 ## CVE-2025-24813 ()
