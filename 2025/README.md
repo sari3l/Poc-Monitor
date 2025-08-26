@@ -82,6 +82,7 @@
 - [Syrins/CVE-2025-8088-Winrar-Tool-Gui](https://github.com/Syrins/CVE-2025-8088-Winrar-Tool-Gui)	<img alt="forks" src="https://img.shields.io/github/forks/Syrins/CVE-2025-8088-Winrar-Tool-Gui">	<img alt="stars" src="https://img.shields.io/github/stars/Syrins/CVE-2025-8088-Winrar-Tool-Gui">
 - [amel-62/WinRAR-CVE-2025-8088-PoC-RAR](https://github.com/amel-62/WinRAR-CVE-2025-8088-PoC-RAR)	<img alt="forks" src="https://img.shields.io/github/forks/amel-62/WinRAR-CVE-2025-8088-PoC-RAR">	<img alt="stars" src="https://img.shields.io/github/stars/amel-62/WinRAR-CVE-2025-8088-PoC-RAR">
 - [ghostn4444/CVE-2025-8088](https://github.com/ghostn4444/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/ghostn4444/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/ghostn4444/CVE-2025-8088">
+- [DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC](https://github.com/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC">
 
 ---
 ## CVE-2025-8018 ()
@@ -2000,6 +2001,11 @@
 ## CVE-2025-34036 ()
 > 
 - [Prabhukiran161/cve-2025-34036](https://github.com/Prabhukiran161/cve-2025-34036)	<img alt="forks" src="https://img.shields.io/github/forks/Prabhukiran161/cve-2025-34036">	<img alt="stars" src="https://img.shields.io/github/stars/Prabhukiran161/cve-2025-34036">
+
+---
+## CVE-2025-34030 ()
+> 
+- [HackerTyperAbuser/CVE-2025-34030-PoC](https://github.com/HackerTyperAbuser/CVE-2025-34030-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/HackerTyperAbuser/CVE-2025-34030-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/HackerTyperAbuser/CVE-2025-34030-PoC">
 
 ---
 ## CVE-2025-34028 ()

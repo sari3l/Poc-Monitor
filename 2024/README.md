@@ -10128,6 +10128,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 
 
 - [tadash10/Detect-CVE-2024-0762](https://github.com/tadash10/Detect-CVE-2024-0762)	<img alt="forks" src="https://img.shields.io/github/forks/tadash10/Detect-CVE-2024-0762">	<img alt="stars" src="https://img.shields.io/github/stars/tadash10/Detect-CVE-2024-0762">
+- [abandon1337/CVE-2024-0762](https://github.com/abandon1337/CVE-2024-0762)	<img alt="forks" src="https://img.shields.io/github/forks/abandon1337/CVE-2024-0762">	<img alt="stars" src="https://img.shields.io/github/stars/abandon1337/CVE-2024-0762">
 
 ---
 ## CVE-2024-0760 ()
