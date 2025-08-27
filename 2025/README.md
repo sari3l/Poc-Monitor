@@ -3163,6 +3163,7 @@
 > 
 - [zhuowei/CVE-2025-27363-proof-of-concept](https://github.com/zhuowei/CVE-2025-27363-proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/CVE-2025-27363-proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/CVE-2025-27363-proof-of-concept">
 - [ov3rf1ow/CVE-2025-27363](https://github.com/ov3rf1ow/CVE-2025-27363)	<img alt="forks" src="https://img.shields.io/github/forks/ov3rf1ow/CVE-2025-27363">	<img alt="stars" src="https://img.shields.io/github/stars/ov3rf1ow/CVE-2025-27363">
+- [tin-z/CVE-2025-27363](https://github.com/tin-z/CVE-2025-27363)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2025-27363">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2025-27363">
 
 ---
 ## CVE-2025-27210 ()
