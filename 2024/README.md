@@ -2053,6 +2053,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [ModeBrutal/CVE-2024-5084-Auto-Exploit](https://github.com/ModeBrutal/CVE-2024-5084-Auto-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ModeBrutal/CVE-2024-5084-Auto-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ModeBrutal/CVE-2024-5084-Auto-Exploit">
 
 ---
+## CVE-2024-5083 ()
+> 
+- [Roronoawjd/CVE-2024-5083](https://github.com/Roronoawjd/CVE-2024-5083)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/CVE-2024-5083">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/CVE-2024-5083">
+
+---
 ## CVE-2024-50804 ()
 > 
 - [g3tsyst3m/CVE-2024-50804](https://github.com/g3tsyst3m/CVE-2024-50804)	<img alt="forks" src="https://img.shields.io/github/forks/g3tsyst3m/CVE-2024-50804">	<img alt="stars" src="https://img.shields.io/github/stars/g3tsyst3m/CVE-2024-50804">
