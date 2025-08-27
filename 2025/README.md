@@ -1917,6 +1917,11 @@
 - [LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload](https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload)	<img alt="forks" src="https://img.shields.io/github/forks/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload">	<img alt="stars" src="https://img.shields.io/github/stars/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload">
 
 ---
+## CVE-2025-38676 ()
+> 
+- [14mb1v45h/CVE-2025-38676](https://github.com/14mb1v45h/CVE-2025-38676)	<img alt="forks" src="https://img.shields.io/github/forks/14mb1v45h/CVE-2025-38676">	<img alt="stars" src="https://img.shields.io/github/stars/14mb1v45h/CVE-2025-38676">
+
+---
 ## CVE-2025-38001 ()
 > 
 - [0xdevil/CVE-2025-38001](https://github.com/0xdevil/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/0xdevil/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/0xdevil/CVE-2025-38001">
