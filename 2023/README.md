@@ -4146,6 +4146,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 
 
 - [nidhi7598/linux-4.19.72_CVE-2023-3609](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3609">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3609">
+- [Jturnxd/CVE-2023-3609](https://github.com/Jturnxd/CVE-2023-3609)	<img alt="forks" src="https://img.shields.io/github/forks/Jturnxd/CVE-2023-3609">	<img alt="stars" src="https://img.shields.io/github/stars/Jturnxd/CVE-2023-3609">
 
 ---
 ## CVE-2023-36085 (2023-10-25T18:17:00)
