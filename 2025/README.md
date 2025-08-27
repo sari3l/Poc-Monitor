@@ -1999,6 +1999,11 @@
 - [Eyodav/CVE-2025-34161](https://github.com/Eyodav/CVE-2025-34161)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34161">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34161">
 
 ---
+## CVE-2025-34159 ()
+> 
+- [Eyodav/CVE-2025-34159](https://github.com/Eyodav/CVE-2025-34159)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34159">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34159">
+
+---
 ## CVE-2025-34157 ()
 > 
 - [Eyodav/CVE-2025-34157](https://github.com/Eyodav/CVE-2025-34157)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34157">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34157">
@@ -2252,6 +2257,7 @@
 - [Nowafen/CVE-2025-32463](https://github.com/Nowafen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2025-32463">
 - [behnamvanda/CVE-2025-32463](https://github.com/behnamvanda/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/behnamvanda/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/behnamvanda/CVE-2025-32463">
 - [Yuy0ung/CVE-2025-32463_chwoot](https://github.com/Yuy0ung/CVE-2025-32463_chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/Yuy0ung/CVE-2025-32463_chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/Yuy0ung/CVE-2025-32463_chwoot">
+- [hacieda/CVE-2025-32463](https://github.com/hacieda/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/hacieda/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/hacieda/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
