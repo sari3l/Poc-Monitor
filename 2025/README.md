@@ -1383,6 +1383,11 @@
 - [singetu0096/CVE-2025-46731](https://github.com/singetu0096/CVE-2025-46731)	<img alt="forks" src="https://img.shields.io/github/forks/singetu0096/CVE-2025-46731">	<img alt="stars" src="https://img.shields.io/github/stars/singetu0096/CVE-2025-46731">
 
 ---
+## CVE-2025-46724 ()
+> 
+- [MaorZLk/langdroid-CVE-2025-46724](https://github.com/MaorZLk/langdroid-CVE-2025-46724)	<img alt="forks" src="https://img.shields.io/github/forks/MaorZLk/langdroid-CVE-2025-46724">	<img alt="stars" src="https://img.shields.io/github/stars/MaorZLk/langdroid-CVE-2025-46724">
+
+---
 ## CVE-2025-46721 ()
 > 
 - [justinas/nosurf-cve-2025-46721](https://github.com/justinas/nosurf-cve-2025-46721)	<img alt="forks" src="https://img.shields.io/github/forks/justinas/nosurf-cve-2025-46721">	<img alt="stars" src="https://img.shields.io/github/stars/justinas/nosurf-cve-2025-46721">
