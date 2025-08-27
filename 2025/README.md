@@ -179,6 +179,7 @@
 - [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">
 - [MrjHaxcore/CVE-2025-6934](https://github.com/MrjHaxcore/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-6934">
 - [0xgh057r3c0n/CVE-2025-6934](https://github.com/0xgh057r3c0n/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-6934">
+- [yukinime/CVE-2025-6934](https://github.com/yukinime/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/yukinime/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/yukinime/CVE-2025-6934">
 
 ---
 ## CVE-2025-6907 ()
@@ -2288,6 +2289,7 @@
 - [Yuri08loveElaina/CVE_2025_32433_exploit](https://github.com/Yuri08loveElaina/CVE_2025_32433_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE_2025_32433_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE_2025_32433_exploit">
 - [Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit](https://github.com/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit">
 - [NiteeshPujari/CVE-2025-32433-PoC](https://github.com/NiteeshPujari/CVE-2025-32433-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NiteeshPujari/CVE-2025-32433-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NiteeshPujari/CVE-2025-32433-PoC">
+- [te0rwx/CVE-2025-32433-Detection](https://github.com/te0rwx/CVE-2025-32433-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/te0rwx/CVE-2025-32433-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/te0rwx/CVE-2025-32433-Detection">
 
 ---
 ## CVE-2025-32432 ()
