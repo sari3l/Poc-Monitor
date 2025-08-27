@@ -87,6 +87,7 @@
 - [AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal](https://github.com/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal">
 - [pentestfunctions/best-CVE-2025-8088](https://github.com/pentestfunctions/best-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/best-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/best-CVE-2025-8088">
 - [nyra-workspace/CVE-2025-8088](https://github.com/nyra-workspace/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nyra-workspace/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nyra-workspace/CVE-2025-8088">
+- [kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition](https://github.com/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition)	<img alt="forks" src="https://img.shields.io/github/forks/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition">	<img alt="stars" src="https://img.shields.io/github/stars/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition">
 
 ---
 ## CVE-2025-8018 ()
@@ -1990,6 +1991,16 @@
 ## CVE-2025-3419 ()
 > 
 - [Yucaerin/CVE-2025-3419](https://github.com/Yucaerin/CVE-2025-3419)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-3419">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-3419">
+
+---
+## CVE-2025-34161 ()
+> 
+- [Eyodav/CVE-2025-34161](https://github.com/Eyodav/CVE-2025-34161)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34161">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34161">
+
+---
+## CVE-2025-34157 ()
+> 
+- [Eyodav/CVE-2025-34157](https://github.com/Eyodav/CVE-2025-34157)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34157">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34157">
 
 ---
 ## CVE-2025-34152 ()
