@@ -493,6 +493,7 @@
 - [itsShotgun/chrome_v8_cve_checker](https://github.com/itsShotgun/chrome_v8_cve_checker)	<img alt="forks" src="https://img.shields.io/github/forks/itsShotgun/chrome_v8_cve_checker">	<img alt="stars" src="https://img.shields.io/github/stars/itsShotgun/chrome_v8_cve_checker">
 - [riemannj/CVE-2025-5419](https://github.com/riemannj/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/riemannj/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/riemannj/CVE-2025-5419">
 - [mistymntncop/CVE-2025-5419](https://github.com/mistymntncop/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2025-5419">
+- [pavan3478/CVE-2025-5419](https://github.com/pavan3478/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/pavan3478/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/pavan3478/CVE-2025-5419">
 
 ---
 ## CVE-2025-54135 ()
