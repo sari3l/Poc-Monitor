@@ -2321,6 +2321,7 @@
 - [Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit](https://github.com/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit">
 - [NiteeshPujari/CVE-2025-32433-PoC](https://github.com/NiteeshPujari/CVE-2025-32433-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NiteeshPujari/CVE-2025-32433-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NiteeshPujari/CVE-2025-32433-PoC">
 - [te0rwx/CVE-2025-32433-Detection](https://github.com/te0rwx/CVE-2025-32433-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/te0rwx/CVE-2025-32433-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/te0rwx/CVE-2025-32433-Detection">
+- [Mdusmandasthaheer/CVE-2025-32433](https://github.com/Mdusmandasthaheer/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Mdusmandasthaheer/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Mdusmandasthaheer/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
