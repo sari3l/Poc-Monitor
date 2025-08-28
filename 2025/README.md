@@ -119,6 +119,7 @@
 ## CVE-2025-7775 ()
 > 
 - [mezo0x4/CVE-2025-7775](https://github.com/mezo0x4/CVE-2025-7775)	<img alt="forks" src="https://img.shields.io/github/forks/mezo0x4/CVE-2025-7775">	<img alt="stars" src="https://img.shields.io/github/stars/mezo0x4/CVE-2025-7775">
+- [hacker-r3volv3r/CVE-2025-7775-PoC](https://github.com/hacker-r3volv3r/CVE-2025-7775-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hacker-r3volv3r/CVE-2025-7775-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hacker-r3volv3r/CVE-2025-7775-PoC">
 
 ---
 ## CVE-2025-7771 ()
@@ -2839,6 +2840,7 @@
 - [rgvillanueva28/vulnbox-easy-CVE-2025-29927](https://github.com/rgvillanueva28/vulnbox-easy-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/rgvillanueva28/vulnbox-easy-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/rgvillanueva28/vulnbox-easy-CVE-2025-29927">
 - [R3verseIN/Nextjs-middleware-vulnerable-appdemo-CVE-2025-29927](https://github.com/R3verseIN/Nextjs-middleware-vulnerable-appdemo-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/R3verseIN/Nextjs-middleware-vulnerable-appdemo-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/R3verseIN/Nextjs-middleware-vulnerable-appdemo-CVE-2025-29927">
 - [aayush256-sys/nextjs-auth-bypass-poc](https://github.com/aayush256-sys/nextjs-auth-bypass-poc)	<img alt="forks" src="https://img.shields.io/github/forks/aayush256-sys/nextjs-auth-bypass-poc">	<img alt="stars" src="https://img.shields.io/github/stars/aayush256-sys/nextjs-auth-bypass-poc">
+- [zs1n/CVE-2025-29927](https://github.com/zs1n/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/zs1n/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/zs1n/CVE-2025-29927">
 
 ---
 ## CVE-2025-29824 ()
