@@ -116,6 +116,11 @@
 - [benweissmann/CVE-2025-7783-poc](https://github.com/benweissmann/CVE-2025-7783-poc)	<img alt="forks" src="https://img.shields.io/github/forks/benweissmann/CVE-2025-7783-poc">	<img alt="stars" src="https://img.shields.io/github/stars/benweissmann/CVE-2025-7783-poc">
 
 ---
+## CVE-2025-7775 ()
+> 
+- [mezo0x4/CVE-2025-7775](https://github.com/mezo0x4/CVE-2025-7775)	<img alt="forks" src="https://img.shields.io/github/forks/mezo0x4/CVE-2025-7775">	<img alt="stars" src="https://img.shields.io/github/stars/mezo0x4/CVE-2025-7775">
+
+---
 ## CVE-2025-7771 ()
 > 
 - [Yuri08loveElaina/CVE-2025-7771](https://github.com/Yuri08loveElaina/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-7771">
