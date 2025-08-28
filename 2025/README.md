@@ -118,7 +118,7 @@
 ---
 ## CVE-2025-7775 ()
 > 
-- [mezo0x4/CVE-2025-7775](https://github.com/mezo0x4/CVE-2025-7775)	<img alt="forks" src="https://img.shields.io/github/forks/mezo0x4/CVE-2025-7775">	<img alt="stars" src="https://img.shields.io/github/stars/mezo0x4/CVE-2025-7775">
+- [mezo0x4/CVE-2025-7775-PoC](https://github.com/mezo0x4/CVE-2025-7775-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mezo0x4/CVE-2025-7775-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mezo0x4/CVE-2025-7775-PoC">
 - [hacker-r3volv3r/CVE-2025-7775-PoC](https://github.com/hacker-r3volv3r/CVE-2025-7775-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hacker-r3volv3r/CVE-2025-7775-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hacker-r3volv3r/CVE-2025-7775-PoC">
 
 ---
