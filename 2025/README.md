@@ -1251,6 +1251,8 @@
 - [wzx5002/CVE-2025-48384](https://github.com/wzx5002/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/wzx5002/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/wzx5002/CVE-2025-48384">
 - [wzx5002/totallynotsuspicious](https://github.com/wzx5002/totallynotsuspicious)	<img alt="forks" src="https://img.shields.io/github/forks/wzx5002/totallynotsuspicious">	<img alt="stars" src="https://img.shields.io/github/stars/wzx5002/totallynotsuspicious">
 - [sahar042/CVE-2025-48384](https://github.com/sahar042/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2025-48384">
+- [butyraldehyde/CVE-2025-48384-PoC-Part2](https://github.com/butyraldehyde/CVE-2025-48384-PoC-Part2)	<img alt="forks" src="https://img.shields.io/github/forks/butyraldehyde/CVE-2025-48384-PoC-Part2">	<img alt="stars" src="https://img.shields.io/github/stars/butyraldehyde/CVE-2025-48384-PoC-Part2">
+- [butyraldehyde/CVE-2025-48384-PoC](https://github.com/butyraldehyde/CVE-2025-48384-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/butyraldehyde/CVE-2025-48384-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/butyraldehyde/CVE-2025-48384-PoC">
 
 ---
 ## CVE-2025-4822 ()
