@@ -712,6 +712,11 @@
 - [Whit3-d3viL-hacker/CVE-2025-52289](https://github.com/Whit3-d3viL-hacker/CVE-2025-52289)	<img alt="forks" src="https://img.shields.io/github/forks/Whit3-d3viL-hacker/CVE-2025-52289">	<img alt="stars" src="https://img.shields.io/github/stars/Whit3-d3viL-hacker/CVE-2025-52289">
 
 ---
+## CVE-2025-52100 ()
+> 
+- [changyaoyou/CVE-2025-52100](https://github.com/changyaoyou/CVE-2025-52100)	<img alt="forks" src="https://img.shields.io/github/forks/changyaoyou/CVE-2025-52100">	<img alt="stars" src="https://img.shields.io/github/stars/changyaoyou/CVE-2025-52100">
+
+---
 ## CVE-2025-52097 ()
 > 
 - [rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097)	<img alt="forks" src="https://img.shields.io/github/forks/rwilsonecs/CVE-2025-52097">	<img alt="stars" src="https://img.shields.io/github/stars/rwilsonecs/CVE-2025-52097">
