@@ -399,6 +399,7 @@
 - [san8383/CVE-2025-55188-7z-POC](https://github.com/san8383/CVE-2025-55188-7z-POC)	<img alt="forks" src="https://img.shields.io/github/forks/san8383/CVE-2025-55188-7z-POC">	<img alt="stars" src="https://img.shields.io/github/stars/san8383/CVE-2025-55188-7z-POC">
 - [vadim-belous/CVE-2025-55188-PoC](https://github.com/vadim-belous/CVE-2025-55188-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/vadim-belous/CVE-2025-55188-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/vadim-belous/CVE-2025-55188-PoC">
 - [rhllsingh/CVE-2025-55188-7z-exploit](https://github.com/rhllsingh/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rhllsingh/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rhllsingh/CVE-2025-55188-7z-exploit">
+- [lunbun/CVE-2025-55188](https://github.com/lunbun/CVE-2025-55188)	<img alt="forks" src="https://img.shields.io/github/forks/lunbun/CVE-2025-55188">	<img alt="stars" src="https://img.shields.io/github/stars/lunbun/CVE-2025-55188">
 
 ---
 ## CVE-2025-54962 ()
