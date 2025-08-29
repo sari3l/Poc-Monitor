@@ -388,6 +388,11 @@
 - [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-55668">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-55668">
 
 ---
+## CVE-2025-55579 ()
+> 
+- [ddobrev25/CVE-2025-55579](https://github.com/ddobrev25/CVE-2025-55579)	<img alt="forks" src="https://img.shields.io/github/forks/ddobrev25/CVE-2025-55579">	<img alt="stars" src="https://img.shields.io/github/stars/ddobrev25/CVE-2025-55579">
+
+---
 ## CVE-2025-55575 ()
 > 
 - [Aether-0/CVE-2025-55575](https://github.com/Aether-0/CVE-2025-55575)	<img alt="forks" src="https://img.shields.io/github/forks/Aether-0/CVE-2025-55575">	<img alt="stars" src="https://img.shields.io/github/stars/Aether-0/CVE-2025-55575">
