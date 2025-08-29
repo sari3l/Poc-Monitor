@@ -474,6 +474,7 @@
 ## CVE-2025-54309 ()
 > 
 - [issamjr/CVE-2025-54309-EXPLOIT](https://github.com/issamjr/CVE-2025-54309-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-54309-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-54309-EXPLOIT">
+- [blueisbeautiful/CVE-2025-54309](https://github.com/blueisbeautiful/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-54309">
 
 ---
 ## CVE-2025-54253 ()
