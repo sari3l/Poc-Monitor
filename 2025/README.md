@@ -1138,6 +1138,7 @@
 - [SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP](https://github.com/SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP">
 - [Zwique/CVE-2025-49113](https://github.com/Zwique/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/Zwique/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/Zwique/CVE-2025-49113">
 - [AC8999/CVE-2025-49113](https://github.com/AC8999/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-49113">
+- [LeakForge/CVE-2025-49113](https://github.com/LeakForge/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/LeakForge/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/LeakForge/CVE-2025-49113">
 
 ---
 ## CVE-2025-49029 ()
