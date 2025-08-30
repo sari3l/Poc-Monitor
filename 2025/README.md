@@ -126,6 +126,7 @@
 - [mezo0x4/CVE-2025-7775-PoC](https://github.com/mezo0x4/CVE-2025-7775-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mezo0x4/CVE-2025-7775-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mezo0x4/CVE-2025-7775-PoC">
 - [hacker-r3volv3r/CVE-2025-7775-PoC](https://github.com/hacker-r3volv3r/CVE-2025-7775-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hacker-r3volv3r/CVE-2025-7775-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hacker-r3volv3r/CVE-2025-7775-PoC">
 - [Aaqilyousuf/CVE-2025-7775-vulnerable-lab](https://github.com/Aaqilyousuf/CVE-2025-7775-vulnerable-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Aaqilyousuf/CVE-2025-7775-vulnerable-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Aaqilyousuf/CVE-2025-7775-vulnerable-lab">
+- [Aaqilyousuf/CVE-2025-7775-vulnerable-lab](https://github.com/Aaqilyousuf/CVE-2025-7775-vulnerable-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Aaqilyousuf/CVE-2025-7775-vulnerable-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Aaqilyousuf/CVE-2025-7775-vulnerable-lab">
 
 ---
 ## CVE-2025-7771 ()
