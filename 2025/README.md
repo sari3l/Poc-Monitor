@@ -1182,6 +1182,7 @@
 - [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
 - [KOVmechatronics/CVE-2025-48799](https://github.com/KOVmechatronics/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/KOVmechatronics/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/KOVmechatronics/CVE-2025-48799">
 - [painoob/CVE-2025-48799](https://github.com/painoob/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/CVE-2025-48799">
+- [mrk336/CVE-2025-48799](https://github.com/mrk336/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-48799">
 
 ---
 ## CVE-2025-48708 ()
@@ -3798,6 +3799,8 @@
 > 
 - [AvonBorn/CVE-2025-24201-Exploit](https://github.com/AvonBorn/CVE-2025-24201-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AvonBorn/CVE-2025-24201-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AvonBorn/CVE-2025-24201-Exploit">
 - [5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201](https://github.com/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201)	<img alt="forks" src="https://img.shields.io/github/forks/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201">	<img alt="stars" src="https://img.shields.io/github/stars/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201">
+- [JGoyd/glass-cage-ios18-cve-2025-24085-cve-2025-24201](https://github.com/JGoyd/glass-cage-ios18-cve-2025-24085-cve-2025-24201)	<img alt="forks" src="https://img.shields.io/github/forks/JGoyd/glass-cage-ios18-cve-2025-24085-cve-2025-24201">	<img alt="stars" src="https://img.shields.io/github/stars/JGoyd/glass-cage-ios18-cve-2025-24085-cve-2025-24201">
+- [The-Maxu/CVE-2025-24201-WebKit-Vulnerability-Detector-PoC-](https://github.com/The-Maxu/CVE-2025-24201-WebKit-Vulnerability-Detector-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/The-Maxu/CVE-2025-24201-WebKit-Vulnerability-Detector-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/The-Maxu/CVE-2025-24201-WebKit-Vulnerability-Detector-PoC-">
 
 ---
 ## CVE-2025-24200 ()
