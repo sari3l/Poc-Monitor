@@ -4356,6 +4356,7 @@
 - [Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Quelvara/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Quelvara/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Quelvara/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Quelvara/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Taowmz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Taowmz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Taowmz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Taowmz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
+- [Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 
 ---
 ## CVE-2025-1094 ()
