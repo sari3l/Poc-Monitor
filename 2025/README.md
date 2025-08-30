@@ -613,6 +613,11 @@
 - [ghostn4444/CVE-2025-53770](https://github.com/ghostn4444/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/ghostn4444/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/ghostn4444/CVE-2025-53770">
 
 ---
+## CVE-2025-53744 ()
+> 
+- [fortinetx/CVE-2025-53744](https://github.com/fortinetx/CVE-2025-53744)	<img alt="forks" src="https://img.shields.io/github/forks/fortinetx/CVE-2025-53744">	<img alt="stars" src="https://img.shields.io/github/stars/fortinetx/CVE-2025-53744">
+
+---
 ## CVE-2025-53652 ()
 > 
 - [pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis](https://github.com/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis">
