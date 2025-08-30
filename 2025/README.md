@@ -3797,6 +3797,7 @@
 ## CVE-2025-24201 ()
 > 
 - [AvonBorn/CVE-2025-24201-Exploit](https://github.com/AvonBorn/CVE-2025-24201-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AvonBorn/CVE-2025-24201-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AvonBorn/CVE-2025-24201-Exploit">
+- [5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201](https://github.com/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201)	<img alt="forks" src="https://img.shields.io/github/forks/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201">	<img alt="stars" src="https://img.shields.io/github/stars/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201">
 
 ---
 ## CVE-2025-24200 ()
