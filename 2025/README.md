@@ -725,6 +725,11 @@
 - [abisonbinoy/CVE-2025-52488-poc](https://github.com/abisonbinoy/CVE-2025-52488-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abisonbinoy/CVE-2025-52488-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abisonbinoy/CVE-2025-52488-poc">
 
 ---
+## CVE-2025-52413 ()
+> 
+- [GoldenTicketLabs/CVE-2025-52413](https://github.com/GoldenTicketLabs/CVE-2025-52413)	<img alt="forks" src="https://img.shields.io/github/forks/GoldenTicketLabs/CVE-2025-52413">	<img alt="stars" src="https://img.shields.io/github/stars/GoldenTicketLabs/CVE-2025-52413">
+
+---
 ## CVE-2025-52399 ()
 > 
 - [Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students)	<img alt="forks" src="https://img.shields.io/github/forks/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">	<img alt="stars" src="https://img.shields.io/github/stars/Userr404/CVE-2025-52399-SQLi-Institute-of-Current-Students">
