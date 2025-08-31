@@ -47,6 +47,11 @@
 - [Nxploited/CVE-2025-8723](https://github.com/Nxploited/CVE-2025-8723)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-8723">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-8723">
 
 ---
+## CVE-2025-8714 ()
+> 
+- [orderby99/CVE-2025-8714-POC](https://github.com/orderby99/CVE-2025-8714-POC)	<img alt="forks" src="https://img.shields.io/github/forks/orderby99/CVE-2025-8714-POC">	<img alt="stars" src="https://img.shields.io/github/stars/orderby99/CVE-2025-8714-POC">
+
+---
 ## CVE-2025-8671 ()
 > 
 - [moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS](https://github.com/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS">
