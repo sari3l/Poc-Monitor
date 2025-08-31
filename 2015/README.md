@@ -7,6 +7,7 @@
 - [halkichi0308/CVE-2015-9251](https://github.com/halkichi0308/CVE-2015-9251)	<img alt="forks" src="https://img.shields.io/github/forks/halkichi0308/CVE-2015-9251">	<img alt="stars" src="https://img.shields.io/github/stars/halkichi0308/CVE-2015-9251">
 - [hackgiver/CVE-2015-9251](https://github.com/hackgiver/CVE-2015-9251)	<img alt="forks" src="https://img.shields.io/github/forks/hackgiver/CVE-2015-9251">	<img alt="stars" src="https://img.shields.io/github/stars/hackgiver/CVE-2015-9251">
 - [wakefulblock262/CVE-2015-9251](https://github.com/wakefulblock262/CVE-2015-9251)	<img alt="forks" src="https://img.shields.io/github/forks/wakefulblock262/CVE-2015-9251">	<img alt="stars" src="https://img.shields.io/github/stars/wakefulblock262/CVE-2015-9251">
+- [rox-11/xss](https://github.com/rox-11/xss)	<img alt="forks" src="https://img.shields.io/github/forks/rox-11/xss">	<img alt="stars" src="https://img.shields.io/github/stars/rox-11/xss">
 
 ---
 ## CVE-2015-9235 (2018-05-29T20:29:00)
