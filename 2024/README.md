@@ -2580,6 +2580,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-48307 (2024-10-31T01:15:00)
 > JeecgBoot v3.7.1 was discovered to contain a SQL injection vulnerability via the component /onlDragDatasetHead/getTotalData.
 - [iSee857/CVE-2024-48307-poc](https://github.com/iSee857/CVE-2024-48307-poc)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-48307-poc">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-48307-poc">
+- [jisi-001/CVE-2024-48307POC](https://github.com/jisi-001/CVE-2024-48307POC)	<img alt="forks" src="https://img.shields.io/github/forks/jisi-001/CVE-2024-48307POC">	<img alt="stars" src="https://img.shields.io/github/stars/jisi-001/CVE-2024-48307POC">
 
 ---
 ## CVE-2024-48246 ()
