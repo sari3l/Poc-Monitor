@@ -3160,6 +3160,11 @@
 - [iSee857/CVE-2025-27817](https://github.com/iSee857/CVE-2025-27817)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-27817">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-27817">
 
 ---
+## CVE-2025-2776 ()
+> 
+- [mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack](https://github.com/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack">
+
+---
 ## CVE-2025-27636 ()
 > 
 - [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-27636-Apache-Camel-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-27636-Apache-Camel-PoC">
