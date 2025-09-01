@@ -1035,6 +1035,8 @@
 ## CVE-2018-19207 ()
 > 
 - [Pwdnx1337/CVE-2018-19207](https://github.com/Pwdnx1337/CVE-2018-19207)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2018-19207">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2018-19207">
+- [cved-sources/cve-2018-19207](https://github.com/cved-sources/cve-2018-19207)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2018-19207">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2018-19207">
+- [aeroot/WP-GDPR-Compliance-Plugin-Exploit](https://github.com/aeroot/WP-GDPR-Compliance-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/aeroot/WP-GDPR-Compliance-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/aeroot/WP-GDPR-Compliance-Plugin-Exploit">
 
 ---
 ## CVE-2018-19108 (2018-11-08T08:29:00)
