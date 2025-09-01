@@ -335,6 +335,7 @@
 > 
 - [rxerium/CVE-2025-57819](https://github.com/rxerium/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-57819">
 - [Sucuri-Labs/CVE-2025-57819-ioc-check](https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check)	<img alt="forks" src="https://img.shields.io/github/forks/Sucuri-Labs/CVE-2025-57819-ioc-check">	<img alt="stars" src="https://img.shields.io/github/stars/Sucuri-Labs/CVE-2025-57819-ioc-check">
+- [blueisbeautiful/CVE-2025-57819](https://github.com/blueisbeautiful/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-57819">
 
 ---
 ## CVE-2025-57773 ()
