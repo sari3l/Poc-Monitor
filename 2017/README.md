@@ -36,6 +36,9 @@
 - [MadExploits/PHPunit-Exploit](https://github.com/MadExploits/PHPunit-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/PHPunit-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/PHPunit-Exploit">
 - [Chocapikk/CVE-2017-9841](https://github.com/Chocapikk/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2017-9841">
 - [K3ysTr0K3R/CVE-2017-9841-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-9841-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-9841-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-9841-EXPLOIT">
+- [Pwdnx1337/CVE-2017-9841](https://github.com/Pwdnx1337/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2017-9841">
+- [drcrypterdotru/PHPUnit-GoScan](https://github.com/drcrypterdotru/PHPUnit-GoScan)	<img alt="forks" src="https://img.shields.io/github/forks/drcrypterdotru/PHPUnit-GoScan">	<img alt="stars" src="https://img.shields.io/github/stars/drcrypterdotru/PHPUnit-GoScan">
+- [joelindra/Argus](https://github.com/joelindra/Argus)	<img alt="forks" src="https://img.shields.io/github/forks/joelindra/Argus">	<img alt="stars" src="https://img.shields.io/github/stars/joelindra/Argus">
 
 ---
 ## CVE-2017-9833 (2017-06-24T02:29:00)
