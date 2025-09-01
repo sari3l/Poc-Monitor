@@ -5278,6 +5278,11 @@
 - [Live-Hack-CVE/CVE-2021-34561](https://github.com/Live-Hack-CVE/CVE-2021-34561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34561">
 
 ---
+## CVE-2021-3456 ()
+> 
+- [mrk336/CVE-2021-3456](https://github.com/mrk336/CVE-2021-3456)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2021-3456">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2021-3456">
+
+---
 ## CVE-2021-34559 (2021-08-31T11:15:00)
 > In PEPPERL+FUCHS WirelessHART-Gateway <= 3.0.8 a vulnerability may allow remote attackers to rewrite links and URLs in cached pages to arbitrary strings.
 - [Live-Hack-CVE/CVE-2021-34559](https://github.com/Live-Hack-CVE/CVE-2021-34559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34559">
