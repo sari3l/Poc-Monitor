@@ -2075,6 +2075,11 @@
 - [Professor6T9/CVE-2025-3515](https://github.com/Professor6T9/CVE-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/Professor6T9/CVE-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/Professor6T9/CVE-2025-3515">
 
 ---
+## CVE-2025-34300 ()
+> 
+- [jisi-001/CVE-2025-34300POC](https://github.com/jisi-001/CVE-2025-34300POC)	<img alt="forks" src="https://img.shields.io/github/forks/jisi-001/CVE-2025-34300POC">	<img alt="stars" src="https://img.shields.io/github/stars/jisi-001/CVE-2025-34300POC">
+
+---
 ## CVE-2025-3419 ()
 > 
 - [Yucaerin/CVE-2025-3419](https://github.com/Yucaerin/CVE-2025-3419)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-3419">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-3419">
