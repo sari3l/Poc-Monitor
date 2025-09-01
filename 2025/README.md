@@ -3249,6 +3249,11 @@
 - [Diabl0xE/CVE-2025-27519](https://github.com/Diabl0xE/CVE-2025-27519)	<img alt="forks" src="https://img.shields.io/github/forks/Diabl0xE/CVE-2025-27519">	<img alt="stars" src="https://img.shields.io/github/stars/Diabl0xE/CVE-2025-27519">
 
 ---
+## CVE-2025-27480 ()
+> 
+- [mrk336/CVE-2025-27480-The-Silent-Gateway-Risk](https://github.com/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk">
+
+---
 ## CVE-2025-27415 ()
 > 
 - [jiseoung/CVE-2025-27415-PoC](https://github.com/jiseoung/CVE-2025-27415-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jiseoung/CVE-2025-27415-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jiseoung/CVE-2025-27415-PoC">
