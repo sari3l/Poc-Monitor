@@ -643,6 +643,7 @@
 ## CVE-2025-53691 ()
 > 
 - [blueisbeautiful/CVE-2025-53691](https://github.com/blueisbeautiful/CVE-2025-53691)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-53691">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-53691">
+- [blueisbeautiful/CVE-2025-53694-to-CVE-2025-53691](https://github.com/blueisbeautiful/CVE-2025-53694-to-CVE-2025-53691)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-53694-to-CVE-2025-53691">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-53694-to-CVE-2025-53691">
 
 ---
 ## CVE-2025-53652 ()
