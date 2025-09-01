@@ -629,6 +629,16 @@
 - [fortinetx/CVE-2025-53744](https://github.com/fortinetx/CVE-2025-53744)	<img alt="forks" src="https://img.shields.io/github/forks/fortinetx/CVE-2025-53744">	<img alt="stars" src="https://img.shields.io/github/stars/fortinetx/CVE-2025-53744">
 
 ---
+## CVE-2025-53693 ()
+> 
+- [blueisbeautiful/CVE-2025-53693](https://github.com/blueisbeautiful/CVE-2025-53693)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-53693">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-53693">
+
+---
+## CVE-2025-53691 ()
+> 
+- [blueisbeautiful/CVE-2025-53691](https://github.com/blueisbeautiful/CVE-2025-53691)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-53691">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-53691">
+
+---
 ## CVE-2025-53652 ()
 > 
 - [pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis](https://github.com/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis">
