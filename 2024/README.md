@@ -2948,6 +2948,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-45590 (2024-09-10T16:15:00)
 > body-parser is Node.js body parsing middleware. body-parser <1.20.3 is vulnerable to denial of service when url encoding is enabled. A malicious actor using a specially crafted payload could flood the server with a large number of requests, resulting in denial of service. This issue is patched in 1.20.3.
 - [AliMilani/CVE-2024-45590](https://github.com/AliMilani/CVE-2024-45590)	<img alt="forks" src="https://img.shields.io/github/forks/AliMilani/CVE-2024-45590">	<img alt="stars" src="https://img.shields.io/github/stars/AliMilani/CVE-2024-45590">
+- [dhruvik-git/CVE-2024-45590](https://github.com/dhruvik-git/CVE-2024-45590)	<img alt="forks" src="https://img.shields.io/github/forks/dhruvik-git/CVE-2024-45590">	<img alt="stars" src="https://img.shields.io/github/stars/dhruvik-git/CVE-2024-45590">
 
 ---
 ## CVE-2024-45589 (2024-09-05T16:15:00)
