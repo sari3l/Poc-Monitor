@@ -1644,6 +1644,11 @@
 - [karenucqki/CVE-2025-4593](https://github.com/karenucqki/CVE-2025-4593)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-4593">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-4593">
 
 ---
+## CVE-2025-45805 ()
+> 
+- [mhsinj/CVE-2025-45805](https://github.com/mhsinj/CVE-2025-45805)	<img alt="forks" src="https://img.shields.io/github/forks/mhsinj/CVE-2025-45805">	<img alt="stars" src="https://img.shields.io/github/stars/mhsinj/CVE-2025-45805">
+
+---
 ## CVE-2025-45781 ()
 > 
 - [ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC](https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">
