@@ -1865,6 +1865,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-51665">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-51665">
 
 ---
+## CVE-2024-51568 ()
+> 
+- [jsnv-dev/CVE-2024-51568---CyberPanel-Command-Injection-Nuclei-Template](https://github.com/jsnv-dev/CVE-2024-51568---CyberPanel-Command-Injection-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/jsnv-dev/CVE-2024-51568---CyberPanel-Command-Injection-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/jsnv-dev/CVE-2024-51568---CyberPanel-Command-Injection-Nuclei-Template">
+
+---
 ## CVE-2024-51567 (2024-10-29T23:15:00)
 > upgrademysqlstatus in databases/views.py in CyberPanel (aka Cyber Panel) before 5b08cd6 allows remote attackers to bypass authentication and execute arbitrary commands via /dataBases/upgrademysqlstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.
 - [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567)	<img alt="forks" src="https://img.shields.io/github/forks/ajayalf/CVE-2024-51567">	<img alt="stars" src="https://img.shields.io/github/stars/ajayalf/CVE-2024-51567">
