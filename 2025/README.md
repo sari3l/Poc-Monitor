@@ -134,6 +134,7 @@
 - [Aaqilyousuf/CVE-2025-7775-vulnerable-lab](https://github.com/Aaqilyousuf/CVE-2025-7775-vulnerable-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Aaqilyousuf/CVE-2025-7775-vulnerable-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Aaqilyousuf/CVE-2025-7775-vulnerable-lab">
 - [Aaqilyousuf/CVE-2025-7775-vulnerable-lab](https://github.com/Aaqilyousuf/CVE-2025-7775-vulnerable-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Aaqilyousuf/CVE-2025-7775-vulnerable-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Aaqilyousuf/CVE-2025-7775-vulnerable-lab">
 - [rxerium/CVE-2025-7775](https://github.com/rxerium/CVE-2025-7775)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-7775">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-7775">
+- [mr-r3b00t/CVE-2025-7775](https://github.com/mr-r3b00t/CVE-2025-7775)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2025-7775">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2025-7775">
 
 ---
 ## CVE-2025-7771 ()
