@@ -7409,6 +7409,7 @@ For more details, please review the linked advisory on this CVE.
 - [spareack/CVE-2023-22515-NSE](https://github.com/spareack/CVE-2023-22515-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/spareack/CVE-2023-22515-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/spareack/CVE-2023-22515-NSE">
 - [Onedy1703/CVE-2023-22515-Confluence](https://github.com/Onedy1703/CVE-2023-22515-Confluence)	<img alt="forks" src="https://img.shields.io/github/forks/Onedy1703/CVE-2023-22515-Confluence">	<img alt="stars" src="https://img.shields.io/github/stars/Onedy1703/CVE-2023-22515-Confluence">
 - [vivigotnotime/CVE-2023-22515-Exploit-Script](https://github.com/vivigotnotime/CVE-2023-22515-Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/vivigotnotime/CVE-2023-22515-Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/vivigotnotime/CVE-2023-22515-Exploit-Script">
+- [killvxk/CVE-2023-22515-joaoviictorti](https://github.com/killvxk/CVE-2023-22515-joaoviictorti)	<img alt="forks" src="https://img.shields.io/github/forks/killvxk/CVE-2023-22515-joaoviictorti">	<img alt="stars" src="https://img.shields.io/github/stars/killvxk/CVE-2023-22515-joaoviictorti">
 
 ---
 ## CVE-2023-22497 ()
