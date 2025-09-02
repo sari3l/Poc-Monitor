@@ -4001,6 +4001,7 @@
 ## CVE-2025-23266 ()
 > 
 - [jpts/cve-2025-23266-poc](https://github.com/jpts/cve-2025-23266-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jpts/cve-2025-23266-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jpts/cve-2025-23266-poc">
+- [r0binak/CVE-2025-23266](https://github.com/r0binak/CVE-2025-23266)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2025-23266">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2025-23266">
 
 ---
 ## CVE-2025-23245655 ()
