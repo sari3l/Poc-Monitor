@@ -2387,7 +2387,7 @@
 ---
 ## CVE-2021-41617 ()
 > 
-- [AdnanApriliyansyahh/CVE-2021-41617_POC](https://github.com/AdnanApriliyansyahh/CVE-2021-41617_POC)	<img alt="forks" src="https://img.shields.io/github/forks/AdnanApriliyansyahh/CVE-2021-41617_POC">	<img alt="stars" src="https://img.shields.io/github/stars/AdnanApriliyansyahh/CVE-2021-41617_POC">
+- [AdnanApriliyansyahh/CVE-2021-41617](https://github.com/AdnanApriliyansyahh/CVE-2021-41617)	<img alt="forks" src="https://img.shields.io/github/forks/AdnanApriliyansyahh/CVE-2021-41617">	<img alt="stars" src="https://img.shields.io/github/stars/AdnanApriliyansyahh/CVE-2021-41617">
 
 ---
 ## CVE-2021-4160 (2022-01-28T22:15:00)
