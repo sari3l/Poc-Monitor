@@ -5540,6 +5540,15 @@
 - [euphrat1ca/CVE-2020-0618](https://github.com/euphrat1ca/CVE-2020-0618)	<img alt="forks" src="https://img.shields.io/github/forks/euphrat1ca/CVE-2020-0618">	<img alt="stars" src="https://img.shields.io/github/stars/euphrat1ca/CVE-2020-0618">
 
 ---
+## CVE-2020-0610 ()
+> 
+- [ImBIOS/lab-cve-2020-0610](https://github.com/ImBIOS/lab-cve-2020-0610)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2020-0610">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2020-0610">
+- [ruppde/rdg_scanner_cve-2020-0609](https://github.com/ruppde/rdg_scanner_cve-2020-0609)	<img alt="forks" src="https://img.shields.io/github/forks/ruppde/rdg_scanner_cve-2020-0609">	<img alt="stars" src="https://img.shields.io/github/stars/ruppde/rdg_scanner_cve-2020-0609">
+- [ioncodes/BlueGate](https://github.com/ioncodes/BlueGate)	<img alt="forks" src="https://img.shields.io/github/forks/ioncodes/BlueGate">	<img alt="stars" src="https://img.shields.io/github/stars/ioncodes/BlueGate">
+- [MalwareTech/RDGScanner](https://github.com/MalwareTech/RDGScanner)	<img alt="forks" src="https://img.shields.io/github/forks/MalwareTech/RDGScanner">	<img alt="stars" src="https://img.shields.io/github/stars/MalwareTech/RDGScanner">
+- [ly4k/BlueGate](https://github.com/ly4k/BlueGate)	<img alt="forks" src="https://img.shields.io/github/forks/ly4k/BlueGate">	<img alt="stars" src="https://img.shields.io/github/stars/ly4k/BlueGate">
+
+---
 ## CVE-2020-0601 (2020-01-14T23:15:00)
 > A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka 'Windows CryptoAPI Spoofing Vulnerability'.
 - [cimashiro/-Awesome-CVE-2020-0601-](https://github.com/cimashiro/-Awesome-CVE-2020-0601-)	<img alt="forks" src="https://img.shields.io/github/forks/cimashiro/-Awesome-CVE-2020-0601-">	<img alt="stars" src="https://img.shields.io/github/stars/cimashiro/-Awesome-CVE-2020-0601-">
