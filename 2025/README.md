@@ -768,7 +768,7 @@
 ---
 ## CVE-2025-5252 ()
 > 
-- [aydin5245/CVE-2025-5252-CVE](https://github.com/aydin5245/CVE-2025-5252-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2025-5252-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2025-5252-CVE">
+- [aydin5245/CVE-2025-5252-CVE-ivanti](https://github.com/aydin5245/CVE-2025-5252-CVE-ivanti)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2025-5252-CVE-ivanti">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2025-5252-CVE-ivanti">
 
 ---
 ## CVE-2025-52488 ()
