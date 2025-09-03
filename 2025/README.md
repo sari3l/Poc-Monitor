@@ -414,6 +414,11 @@
 - [mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-">
 
 ---
+## CVE-2025-55998 ()
+> 
+- [Ocmenog/CVE-2025-55998](https://github.com/Ocmenog/CVE-2025-55998)	<img alt="forks" src="https://img.shields.io/github/forks/Ocmenog/CVE-2025-55998">	<img alt="stars" src="https://img.shields.io/github/stars/Ocmenog/CVE-2025-55998">
+
+---
 ## CVE-2025-55763 ()
 > 
 - [krispybyte/CVE-2025-55763](https://github.com/krispybyte/CVE-2025-55763)	<img alt="forks" src="https://img.shields.io/github/forks/krispybyte/CVE-2025-55763">	<img alt="stars" src="https://img.shields.io/github/stars/krispybyte/CVE-2025-55763">
