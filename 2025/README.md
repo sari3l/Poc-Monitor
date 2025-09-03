@@ -3294,6 +3294,7 @@
 ## CVE-2025-27480 ()
 > 
 - [mrk336/CVE-2025-27480-The-Silent-Gateway-Risk](https://github.com/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk">
+- [mrk336/CVE-2025-27480](https://github.com/mrk336/CVE-2025-27480)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-27480">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-27480">
 
 ---
 ## CVE-2025-27415 ()
