@@ -439,6 +439,11 @@
 - [Aether-0/CVE-2025-55575](https://github.com/Aether-0/CVE-2025-55575)	<img alt="forks" src="https://img.shields.io/github/forks/Aether-0/CVE-2025-55575">	<img alt="stars" src="https://img.shields.io/github/stars/Aether-0/CVE-2025-55575">
 
 ---
+## CVE-2025-55555 ()
+> 
+- [aydin5245/CVE-2025-55555-CVE](https://github.com/aydin5245/CVE-2025-55555-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2025-55555-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2025-55555-CVE">
+
+---
 ## CVE-2025-55349 ()
 > 
 - [GoldenTicketLabs/CVE-2025-55349](https://github.com/GoldenTicketLabs/CVE-2025-55349)	<img alt="forks" src="https://img.shields.io/github/forks/GoldenTicketLabs/CVE-2025-55349">	<img alt="stars" src="https://img.shields.io/github/stars/GoldenTicketLabs/CVE-2025-55349">
