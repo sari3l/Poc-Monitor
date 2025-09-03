@@ -370,6 +370,7 @@
 - [toanthang1842002/CVE-2017-6074](https://github.com/toanthang1842002/CVE-2017-6074)	<img alt="forks" src="https://img.shields.io/github/forks/toanthang1842002/CVE-2017-6074">	<img alt="stars" src="https://img.shields.io/github/stars/toanthang1842002/CVE-2017-6074">
 - [toanthang1842002/CVE-2017-6074](https://github.com/toanthang1842002/CVE-2017-6074)	<img alt="forks" src="https://img.shields.io/github/forks/toanthang1842002/CVE-2017-6074">	<img alt="stars" src="https://img.shields.io/github/stars/toanthang1842002/CVE-2017-6074">
 - [BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu---DCCP-Double-Free-Privilege-Escalation-CVE-2017-6074](https://github.com/BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu---DCCP-Double-Free-Privilege-Escalation-CVE-2017-6074)	<img alt="forks" src="https://img.shields.io/github/forks/BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu---DCCP-Double-Free-Privilege-Escalation-CVE-2017-6074">	<img alt="stars" src="https://img.shields.io/github/stars/BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu---DCCP-Double-Free-Privilege-Escalation-CVE-2017-6074">
+- [34zY/CVE-2017-6074-DOS](https://github.com/34zY/CVE-2017-6074-DOS)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2017-6074-DOS">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2017-6074-DOS">
 
 ---
 ## CVE-2017-6008 (2017-09-13T08:29:00)
