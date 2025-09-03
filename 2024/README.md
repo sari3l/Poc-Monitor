@@ -6091,6 +6091,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [24Owais/threat-intel-cve-2024-3094](https://github.com/24Owais/threat-intel-cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/24Owais/threat-intel-cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/24Owais/threat-intel-cve-2024-3094">
 - [Ikram124/CVE-2024-3094-analysis](https://github.com/Ikram124/CVE-2024-3094-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Ikram124/CVE-2024-3094-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Ikram124/CVE-2024-3094-analysis">
 - [Dermot-lab/TryHack](https://github.com/Dermot-lab/TryHack)	<img alt="forks" src="https://img.shields.io/github/forks/Dermot-lab/TryHack">	<img alt="stars" src="https://img.shields.io/github/stars/Dermot-lab/TryHack">
+- [ykhurshudyan-blip/CVE-2024-3094](https://github.com/ykhurshudyan-blip/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/ykhurshudyan-blip/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/ykhurshudyan-blip/CVE-2024-3094">
 
 ---
 ## CVE-2024-30937 ()
