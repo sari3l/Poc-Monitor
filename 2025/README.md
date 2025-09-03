@@ -4208,6 +4208,11 @@
 - [1ucky7/cve-2025-22223-demo-1.0.0](https://github.com/1ucky7/cve-2025-22223-demo-1.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/1ucky7/cve-2025-22223-demo-1.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/1ucky7/cve-2025-22223-demo-1.0.0">
 
 ---
+## CVE-2025-22131 ()
+> 
+- [ZzN1NJ4/CVE-2025-22131-PoC](https://github.com/ZzN1NJ4/CVE-2025-22131-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZzN1NJ4/CVE-2025-22131-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZzN1NJ4/CVE-2025-22131-PoC">
+
+---
 ## CVE-2025-22056 ()
 > 
 - [henrymartin262/CVE-2025-22056-exploit](https://github.com/henrymartin262/CVE-2025-22056-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/henrymartin262/CVE-2025-22056-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/henrymartin262/CVE-2025-22056-exploit">
@@ -4286,6 +4291,7 @@
 ## CVE-2025-2082 ()
 > 
 - [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)	<img alt="forks" src="https://img.shields.io/github/forks/Burak1320demiroz/cve-2025-2082">	<img alt="stars" src="https://img.shields.io/github/stars/Burak1320demiroz/cve-2025-2082">
+- [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
 
 ---
 ## CVE-2025-20337 ()
