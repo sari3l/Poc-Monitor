@@ -766,6 +766,11 @@
 - [joelczk/CVE-2025-52688](https://github.com/joelczk/CVE-2025-52688)	<img alt="forks" src="https://img.shields.io/github/forks/joelczk/CVE-2025-52688">	<img alt="stars" src="https://img.shields.io/github/stars/joelczk/CVE-2025-52688">
 
 ---
+## CVE-2025-5252 ()
+> 
+- [aydin5245/CVE-2025-5252-CVE](https://github.com/aydin5245/CVE-2025-5252-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2025-5252-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2025-5252-CVE">
+
+---
 ## CVE-2025-52488 ()
 > 
 - [SystemVll/CVE-2025-52488](https://github.com/SystemVll/CVE-2025-52488)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2025-52488">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2025-52488">
