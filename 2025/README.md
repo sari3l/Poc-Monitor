@@ -357,6 +357,7 @@
 - [Sucuri-Labs/CVE-2025-57819-ioc-check](https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check)	<img alt="forks" src="https://img.shields.io/github/forks/Sucuri-Labs/CVE-2025-57819-ioc-check">	<img alt="stars" src="https://img.shields.io/github/stars/Sucuri-Labs/CVE-2025-57819-ioc-check">
 - [blueisbeautiful/CVE-2025-57819](https://github.com/blueisbeautiful/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-57819">
 - [net-hex/CVE-2025-57819](https://github.com/net-hex/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/net-hex/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/net-hex/CVE-2025-57819">
+- [ImBIOS/lab-cve-2025-57819](https://github.com/ImBIOS/lab-cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2025-57819">
 
 ---
 ## CVE-2025-57773 ()
