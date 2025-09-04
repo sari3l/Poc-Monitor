@@ -3154,6 +3154,7 @@
 - [Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034](https://github.com/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034">
 - [kali-guru/Pwnkit-CVE-2021-4034](https://github.com/kali-guru/Pwnkit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/kali-guru/Pwnkit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/kali-guru/Pwnkit-CVE-2021-4034">
 - [BugVex/Poison-HTB-Report](https://github.com/BugVex/Poison-HTB-Report)	<img alt="forks" src="https://img.shields.io/github/forks/BugVex/Poison-HTB-Report">	<img alt="stars" src="https://img.shields.io/github/stars/BugVex/Poison-HTB-Report">
+- [radzek15/Python-Pwnkit-CVE-2021-4034-exploit](https://github.com/radzek15/Python-Pwnkit-CVE-2021-4034-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/Python-Pwnkit-CVE-2021-4034-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/Python-Pwnkit-CVE-2021-4034-exploit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
