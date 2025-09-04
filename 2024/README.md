@@ -9054,6 +9054,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21182 ()
 > 
 - [k4it0k1d/CVE-2024-21182](https://github.com/k4it0k1d/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/k4it0k1d/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/k4it0k1d/CVE-2024-21182">
+- [kursadalsan/CVE-2024-21182](https://github.com/kursadalsan/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/kursadalsan/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/kursadalsan/CVE-2024-21182">
 
 ---
 ## CVE-2024-21164 (2024-07-16T23:15:00)
