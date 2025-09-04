@@ -8141,6 +8141,7 @@
 - [lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14](https://github.com/lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14)	<img alt="forks" src="https://img.shields.io/github/forks/lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14">	<img alt="stars" src="https://img.shields.io/github/stars/lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14">
 - [moften/CVE-2021-23017](https://github.com/moften/CVE-2021-23017)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2021-23017">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2021-23017">
 - [Cybervixy/Vulnerability-Management](https://github.com/Cybervixy/Vulnerability-Management)	<img alt="forks" src="https://img.shields.io/github/forks/Cybervixy/Vulnerability-Management">	<img alt="stars" src="https://img.shields.io/github/stars/Cybervixy/Vulnerability-Management">
+- [6lj/EVIL-CVE-2021-23017-Update-2025](https://github.com/6lj/EVIL-CVE-2021-23017-Update-2025)	<img alt="forks" src="https://img.shields.io/github/forks/6lj/EVIL-CVE-2021-23017-Update-2025">	<img alt="stars" src="https://img.shields.io/github/stars/6lj/EVIL-CVE-2021-23017-Update-2025">
 
 ---
 ## CVE-2021-22986 (2021-03-31T15:15:00)
