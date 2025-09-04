@@ -2174,6 +2174,7 @@
 - [Professor6T9/CVE-2025-3515](https://github.com/Professor6T9/CVE-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/Professor6T9/CVE-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/Professor6T9/CVE-2025-3515">
 - [blueisbeautiful/CVE-2025-3515](https://github.com/blueisbeautiful/CVE-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-3515">
 - [ImBIOS/lab-cve-2025-3515](https://github.com/ImBIOS/lab-cve-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2025-3515">
+- [MrSoules/lab-cve-2025-3515](https://github.com/MrSoules/lab-cve-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/MrSoules/lab-cve-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/MrSoules/lab-cve-2025-3515">
 
 ---
 ## CVE-2025-34300 ()
