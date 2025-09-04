@@ -479,6 +479,11 @@
 - [lunbun/CVE-2025-55188](https://github.com/lunbun/CVE-2025-55188)	<img alt="forks" src="https://img.shields.io/github/forks/lunbun/CVE-2025-55188">	<img alt="stars" src="https://img.shields.io/github/stars/lunbun/CVE-2025-55188">
 
 ---
+## CVE-2025-54988 ()
+> 
+- [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988)	<img alt="forks" src="https://img.shields.io/github/forks/mgthuramoemyint/POC-CVE-2025-54988">	<img alt="stars" src="https://img.shields.io/github/stars/mgthuramoemyint/POC-CVE-2025-54988">
+
+---
 ## CVE-2025-54962 ()
 > 
 - [Eyodav/CVE-2025-54962](https://github.com/Eyodav/CVE-2025-54962)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-54962">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-54962">
