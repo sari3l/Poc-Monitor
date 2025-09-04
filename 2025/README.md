@@ -707,6 +707,11 @@
 - [blueisbeautiful/CVE-2025-53694-to-CVE-2025-53691](https://github.com/blueisbeautiful/CVE-2025-53694-to-CVE-2025-53691)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-53694-to-CVE-2025-53691">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-53694-to-CVE-2025-53691">
 
 ---
+## CVE-2025-53690 ()
+> 
+- [rxerium/CVE-2025-53690](https://github.com/rxerium/CVE-2025-53690)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-53690">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-53690">
+
+---
 ## CVE-2025-53652 ()
 > 
 - [pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis](https://github.com/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis">
