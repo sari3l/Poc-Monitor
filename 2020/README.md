@@ -411,6 +411,7 @@
 - [NMinhTrung/LIFERAY-CVE-2020-7961](https://github.com/NMinhTrung/LIFERAY-CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/NMinhTrung/LIFERAY-CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/NMinhTrung/LIFERAY-CVE-2020-7961">
 - [LoGGGG2402/CVE-2020-7961](https://github.com/LoGGGG2402/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/LoGGGG2402/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/LoGGGG2402/CVE-2020-7961">
 - [CrackerCat/CVE-2020-7961-Mass](https://github.com/CrackerCat/CVE-2020-7961-Mass)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2020-7961-Mass">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2020-7961-Mass">
+- [neverhavenamee/CVE-2020-7961](https://github.com/neverhavenamee/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/neverhavenamee/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/neverhavenamee/CVE-2020-7961">
 
 ---
 ## CVE-2020-7862 (2021-06-24T11:15:00)
