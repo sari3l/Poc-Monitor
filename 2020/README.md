@@ -5547,6 +5547,7 @@
 - [ioncodes/BlueGate](https://github.com/ioncodes/BlueGate)	<img alt="forks" src="https://img.shields.io/github/forks/ioncodes/BlueGate">	<img alt="stars" src="https://img.shields.io/github/stars/ioncodes/BlueGate">
 - [MalwareTech/RDGScanner](https://github.com/MalwareTech/RDGScanner)	<img alt="forks" src="https://img.shields.io/github/forks/MalwareTech/RDGScanner">	<img alt="stars" src="https://img.shields.io/github/stars/MalwareTech/RDGScanner">
 - [ly4k/BlueGate](https://github.com/ly4k/BlueGate)	<img alt="forks" src="https://img.shields.io/github/forks/ly4k/BlueGate">	<img alt="stars" src="https://img.shields.io/github/stars/ly4k/BlueGate">
+- [Riocipta75/lab-cve-2020-0610](https://github.com/Riocipta75/lab-cve-2020-0610)	<img alt="forks" src="https://img.shields.io/github/forks/Riocipta75/lab-cve-2020-0610">	<img alt="stars" src="https://img.shields.io/github/stars/Riocipta75/lab-cve-2020-0610">
 
 ---
 ## CVE-2020-0601 (2020-01-14T23:15:00)
