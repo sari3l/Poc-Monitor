@@ -105,6 +105,7 @@
 - [nyra-workspace/CVE-2025-8088](https://github.com/nyra-workspace/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nyra-workspace/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nyra-workspace/CVE-2025-8088">
 - [kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition](https://github.com/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition)	<img alt="forks" src="https://img.shields.io/github/forks/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition">	<img alt="stars" src="https://img.shields.io/github/stars/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition">
 - [walidpyh/CVE-2025-8088](https://github.com/walidpyh/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/walidpyh/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/walidpyh/CVE-2025-8088">
+- [hexsecteam/CVE-2025-8088-Winrar-Tool](https://github.com/hexsecteam/CVE-2025-8088-Winrar-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/hexsecteam/CVE-2025-8088-Winrar-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/hexsecteam/CVE-2025-8088-Winrar-Tool">
 
 ---
 ## CVE-2025-8067 ()
