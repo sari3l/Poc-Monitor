@@ -4271,6 +4271,7 @@
 ## CVE-2025-22131 ()
 > 
 - [ZzN1NJ4/CVE-2025-22131-PoC](https://github.com/ZzN1NJ4/CVE-2025-22131-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZzN1NJ4/CVE-2025-22131-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZzN1NJ4/CVE-2025-22131-PoC">
+- [s0ck37/CVE-2025-22131-POC](https://github.com/s0ck37/CVE-2025-22131-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s0ck37/CVE-2025-22131-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s0ck37/CVE-2025-22131-POC">
 
 ---
 ## CVE-2025-22056 ()
