@@ -1177,6 +1177,11 @@
 - [SystemVll/CVE-2025-49493](https://github.com/SystemVll/CVE-2025-49493)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2025-49493">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2025-49493">
 
 ---
+## CVE-2025-49388 ()
+> 
+- [Nxploited/CVE-2025-49388](https://github.com/Nxploited/CVE-2025-49388)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-49388">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-49388">
+
+---
 ## CVE-2025-49223 ()
 > 
 - [louay-075/CVE-2025-49223-BillboardJS-PoC](https://github.com/louay-075/CVE-2025-49223-BillboardJS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/louay-075/CVE-2025-49223-BillboardJS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/louay-075/CVE-2025-49223-BillboardJS-PoC">
