@@ -4061,7 +4061,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ---
 ## CVE-2024-40094 ()
 > 
-- [ahmad-kabiri/CVE-2024-40094](https://github.com/ahmad-kabiri/CVE-2024-40094)	<img alt="forks" src="https://img.shields.io/github/forks/ahmad-kabiri/CVE-2024-40094">	<img alt="stars" src="https://img.shields.io/github/stars/ahmad-kabiri/CVE-2024-40094">
+- [kabiri-labs/CVE-2024-40094](https://github.com/kabiri-labs/CVE-2024-40094)	<img alt="forks" src="https://img.shields.io/github/forks/kabiri-labs/CVE-2024-40094">	<img alt="stars" src="https://img.shields.io/github/stars/kabiri-labs/CVE-2024-40094">
 
 ---
 ## CVE-2024-40080 ()
