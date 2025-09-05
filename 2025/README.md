@@ -3846,6 +3846,7 @@
 - [torjan0/xwiki_solrsearch-rce-exploit](https://github.com/torjan0/xwiki_solrsearch-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/torjan0/xwiki_solrsearch-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/torjan0/xwiki_solrsearch-rce-exploit">
 - [AzureADTrent/CVE-2025-24893-Reverse-Shell](https://github.com/AzureADTrent/CVE-2025-24893-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-24893-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-24893-Reverse-Shell">
 - [b0ySie7e/CVE-2025-24893](https://github.com/b0ySie7e/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/CVE-2025-24893">
+- [andwati/CVE-2025-24893](https://github.com/andwati/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/andwati/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/andwati/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
