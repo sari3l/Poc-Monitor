@@ -2063,6 +2063,8 @@
 - [Zyx2440/Apache-HTTP-Server-2.4.50-RCE](https://github.com/Zyx2440/Apache-HTTP-Server-2.4.50-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Zyx2440/Apache-HTTP-Server-2.4.50-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Zyx2440/Apache-HTTP-Server-2.4.50-RCE">
 - [asepsaepdin/CVE-2021-42013](https://github.com/asepsaepdin/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2021-42013">
 - [Makavellik/POC-CVE-2021-42013-EXPLOIT](https://github.com/Makavellik/POC-CVE-2021-42013-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Makavellik/POC-CVE-2021-42013-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Makavellik/POC-CVE-2021-42013-EXPLOIT">
+- [psibot/apache-vulnerable](https://github.com/psibot/apache-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/psibot/apache-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/psibot/apache-vulnerable">
+- [Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013](https://github.com/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
