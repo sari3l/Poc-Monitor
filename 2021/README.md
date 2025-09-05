@@ -2062,6 +2062,7 @@
 - [bananoname/cve-2021-42013](https://github.com/bananoname/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/bananoname/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/bananoname/cve-2021-42013">
 - [Zyx2440/Apache-HTTP-Server-2.4.50-RCE](https://github.com/Zyx2440/Apache-HTTP-Server-2.4.50-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Zyx2440/Apache-HTTP-Server-2.4.50-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Zyx2440/Apache-HTTP-Server-2.4.50-RCE">
 - [asepsaepdin/CVE-2021-42013](https://github.com/asepsaepdin/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2021-42013">
+- [Makavellik/POC-CVE-2021-42013-EXPLOIT](https://github.com/Makavellik/POC-CVE-2021-42013-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Makavellik/POC-CVE-2021-42013-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Makavellik/POC-CVE-2021-42013-EXPLOIT">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
