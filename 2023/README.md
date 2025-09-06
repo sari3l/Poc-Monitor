@@ -1540,6 +1540,7 @@ QuTScloud c5.1.5.2651 and later
 - [SyFi/CVE-2023-46818](https://github.com/SyFi/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/SyFi/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/SyFi/CVE-2023-46818">
 - [vulnerk0/CVE-2023-46818](https://github.com/vulnerk0/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/vulnerk0/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/vulnerk0/CVE-2023-46818">
 - [zs1n/CVE-2023-46818](https://github.com/zs1n/CVE-2023-46818)	<img alt="forks" src="https://img.shields.io/github/forks/zs1n/CVE-2023-46818">	<img alt="stars" src="https://img.shields.io/github/stars/zs1n/CVE-2023-46818">
+- [cuerv0x/CVE_2023_46818](https://github.com/cuerv0x/CVE_2023_46818)	<img alt="forks" src="https://img.shields.io/github/forks/cuerv0x/CVE_2023_46818">	<img alt="stars" src="https://img.shields.io/github/stars/cuerv0x/CVE_2023_46818">
 
 ---
 ## CVE-2023-46813 (2023-10-27T03:15:00)
