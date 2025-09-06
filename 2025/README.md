@@ -855,6 +855,7 @@
 ## CVE-2025-52389 ()
 > 
 - [milamrk/CVE-2025-52389](https://github.com/milamrk/CVE-2025-52389)	<img alt="forks" src="https://img.shields.io/github/forks/milamrk/CVE-2025-52389">	<img alt="stars" src="https://img.shields.io/github/stars/milamrk/CVE-2025-52389">
+- [ktr4ck3r/CVE-2025-52389](https://github.com/ktr4ck3r/CVE-2025-52389)	<img alt="forks" src="https://img.shields.io/github/forks/ktr4ck3r/CVE-2025-52389">	<img alt="stars" src="https://img.shields.io/github/stars/ktr4ck3r/CVE-2025-52389">
 
 ---
 ## CVE-2025-52385 ()
