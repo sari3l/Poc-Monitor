@@ -61,6 +61,7 @@
 ## CVE-2018-9159 ()
 > 
 - [shoucheng3/perwendel__spark_CVE-2018-9159_2-7-1](https://github.com/shoucheng3/perwendel__spark_CVE-2018-9159_2-7-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/perwendel__spark_CVE-2018-9159_2-7-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/perwendel__spark_CVE-2018-9159_2-7-1">
+- [shoucheng3/perwendel__spark_CVE-2018-9159_2_7_2_fixed](https://github.com/shoucheng3/perwendel__spark_CVE-2018-9159_2_7_2_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/perwendel__spark_CVE-2018-9159_2_7_2_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/perwendel__spark_CVE-2018-9159_2_7_2_fixed">
 
 ---
 ## CVE-2018-9035 ()
@@ -1594,6 +1595,7 @@
 > 
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
+- [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">
 
 ---
 ## CVE-2018-12533 ()
