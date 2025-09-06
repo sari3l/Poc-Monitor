@@ -264,6 +264,7 @@
 > Kubernetes Java client libraries in version 10.0.0 and versions prior to 9.0.1 allow writes to paths outside of the current directory when copying multiple files from a remote pod which sends a maliciously crafted archive. This can potentially overwrite any files on the system of the process executing the client code.
 - [Live-Hack-CVE/CVE-2020-8570](https://github.com/Live-Hack-CVE/CVE-2020-8570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8570">
 - [shoucheng3/kubernetes-client__java_CVE-2020-8570_client-java-parent-9-0-1](https://github.com/shoucheng3/kubernetes-client__java_CVE-2020-8570_client-java-parent-9-0-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/kubernetes-client__java_CVE-2020-8570_client-java-parent-9-0-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/kubernetes-client__java_CVE-2020-8570_client-java-parent-9-0-1">
+- [shoucheng3/kubernetes-client__java_CVE-2020-8570_client-java-parent-9_0_2_fixed](https://github.com/shoucheng3/kubernetes-client__java_CVE-2020-8570_client-java-parent-9_0_2_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/kubernetes-client__java_CVE-2020-8570_client-java-parent-9_0_2_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/kubernetes-client__java_CVE-2020-8570_client-java-parent-9_0_2_fixed">
 
 ---
 ## CVE-2020-8558 (2020-07-27T20:15:00)
