@@ -354,6 +354,11 @@
 - [SexyShoelessGodofWar/CVE-2025-58780](https://github.com/SexyShoelessGodofWar/CVE-2025-58780)	<img alt="forks" src="https://img.shields.io/github/forks/SexyShoelessGodofWar/CVE-2025-58780">	<img alt="stars" src="https://img.shields.io/github/stars/SexyShoelessGodofWar/CVE-2025-58780">
 
 ---
+## CVE-2025-58443 ()
+> 
+- [casp3r0x0/CVE-2025-58443](https://github.com/casp3r0x0/CVE-2025-58443)	<img alt="forks" src="https://img.shields.io/github/forks/casp3r0x0/CVE-2025-58443">	<img alt="stars" src="https://img.shields.io/github/stars/casp3r0x0/CVE-2025-58443">
+
+---
 ## CVE-2025-58440 ()
 > 
 - [ph-hitachi/CVE-2025-58440](https://github.com/ph-hitachi/CVE-2025-58440)	<img alt="forks" src="https://img.shields.io/github/forks/ph-hitachi/CVE-2025-58440">	<img alt="stars" src="https://img.shields.io/github/stars/ph-hitachi/CVE-2025-58440">
