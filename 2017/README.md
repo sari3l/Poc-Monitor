@@ -480,6 +480,7 @@
 - [QHxDr-dz/CVE-2017-5638](https://github.com/QHxDr-dz/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/QHxDr-dz/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/QHxDr-dz/CVE-2017-5638">
 - [joidiego/Detection-struts-cve-2017-5638-detector](https://github.com/joidiego/Detection-struts-cve-2017-5638-detector)	<img alt="forks" src="https://img.shields.io/github/forks/joidiego/Detection-struts-cve-2017-5638-detector">	<img alt="stars" src="https://img.shields.io/github/stars/joidiego/Detection-struts-cve-2017-5638-detector">
 - [iampetru/PoC-CVE-2017-5638](https://github.com/iampetru/PoC-CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/iampetru/PoC-CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/iampetru/PoC-CVE-2017-5638">
+- [MuhammadAbdullah192/CVE-2017-5638-Remote-Code-Execution-Apache-Struts2-EXPLOITATION](https://github.com/MuhammadAbdullah192/CVE-2017-5638-Remote-Code-Execution-Apache-Struts2-EXPLOITATION)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadAbdullah192/CVE-2017-5638-Remote-Code-Execution-Apache-Struts2-EXPLOITATION">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadAbdullah192/CVE-2017-5638-Remote-Code-Execution-Apache-Struts2-EXPLOITATION">
 
 ---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
