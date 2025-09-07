@@ -734,6 +734,7 @@
 > 
 - [rxerium/CVE-2025-53690](https://github.com/rxerium/CVE-2025-53690)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-53690">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-53690">
 - [B1ack4sh/Blackash-CVE-2025-53690](https://github.com/B1ack4sh/Blackash-CVE-2025-53690)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53690">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53690">
+- [m0d0ri205/CVE-2025-53690-Analysis](https://github.com/m0d0ri205/CVE-2025-53690-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/CVE-2025-53690-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/CVE-2025-53690-Analysis">
 
 ---
 ## CVE-2025-53652 ()
