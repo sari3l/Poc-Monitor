@@ -4640,6 +4640,7 @@
 - [SalehAlgnay/7-Zip-CVE-2025-0411-POC](https://github.com/SalehAlgnay/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SalehAlgnay/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SalehAlgnay/7-Zip-CVE-2025-0411-POC">
 - [betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass](https://github.com/betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass">
 - [B1ack4sh/Blackash-CVE-2025-0411](https://github.com/B1ack4sh/Blackash-CVE-2025-0411)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-0411">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-0411">
+- [RustMacrosRecoil/7-Zip-CVE-2025-0411-POC](https://github.com/RustMacrosRecoil/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RustMacrosRecoil/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RustMacrosRecoil/7-Zip-CVE-2025-0411-POC">
 
 ---
 ## CVE-2025-0401 ()
