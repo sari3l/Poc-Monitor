@@ -3931,6 +3931,7 @@
 - [CEAlbez/CVE-2025-24813-PoC](https://github.com/CEAlbez/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CEAlbez/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CEAlbez/CVE-2025-24813-PoC">
 - [Olabanji10/Apache-GOExploiter](https://github.com/Olabanji10/Apache-GOExploiter)	<img alt="forks" src="https://img.shields.io/github/forks/Olabanji10/Apache-GOExploiter">	<img alt="stars" src="https://img.shields.io/github/stars/Olabanji10/Apache-GOExploiter">
 - [drcrypterdotru/Apache-GOExploiter](https://github.com/drcrypterdotru/Apache-GOExploiter)	<img alt="forks" src="https://img.shields.io/github/forks/drcrypterdotru/Apache-GOExploiter">	<img alt="stars" src="https://img.shields.io/github/stars/drcrypterdotru/Apache-GOExploiter">
+- [Makavellik/POC-CVE-2025-24813-Apache-Tomcat-Remote-Code-Execution](https://github.com/Makavellik/POC-CVE-2025-24813-Apache-Tomcat-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Makavellik/POC-CVE-2025-24813-Apache-Tomcat-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Makavellik/POC-CVE-2025-24813-Apache-Tomcat-Remote-Code-Execution">
 
 ---
 ## CVE-2025-24801 ()
