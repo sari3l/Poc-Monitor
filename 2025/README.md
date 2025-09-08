@@ -1981,7 +1981,7 @@
 ---
 ## CVE-2025-42957 ()
 > 
-- [barbaraeivyu/CVE-2025-42957](https://github.com/barbaraeivyu/CVE-2025-42957)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-42957">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-42957">
+- [callinston/CVE-2025-42957](https://github.com/callinston/CVE-2025-42957)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-42957">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-42957">
 
 ---
 ## CVE-2025-42599 ()
