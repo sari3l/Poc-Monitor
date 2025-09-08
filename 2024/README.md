@@ -391,6 +391,9 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-835 ()
 > 
 - [melmathari/dockerCVE-2024-835](https://github.com/melmathari/dockerCVE-2024-835)	<img alt="forks" src="https://img.shields.io/github/forks/melmathari/dockerCVE-2024-835">	<img alt="stars" src="https://img.shields.io/github/stars/melmathari/dockerCVE-2024-835">
+- [0xb0mb3r/CVE-2024-8353-PoC](https://github.com/0xb0mb3r/CVE-2024-8353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0mb3r/CVE-2024-8353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0mb3r/CVE-2024-8353-PoC">
+- [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-8353">
+- [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">
 
 ---
 ## CVE-2024-8349 (2024-09-25T03:15:00)

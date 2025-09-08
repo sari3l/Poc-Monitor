@@ -430,6 +430,11 @@
 - [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/cve-2025-5755">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/cve-2025-5755">
 
 ---
+## CVE-2025-57055 ()
+> 
+- [thawphone/CVE-2025-57055](https://github.com/thawphone/CVE-2025-57055)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-57055">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-57055">
+
+---
 ## CVE-2025-5701 ()
 > 
 - [Harley21211/CVE-2025-5701-Exploit](https://github.com/Harley21211/CVE-2025-5701-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Harley21211/CVE-2025-5701-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Harley21211/CVE-2025-5701-Exploit">
