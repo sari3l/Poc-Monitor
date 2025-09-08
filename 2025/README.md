@@ -3941,6 +3941,7 @@
 - [MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24799">
 - [MatheuZSecurity/Exploit-CVE-2025-24799](https://github.com/MatheuZSecurity/Exploit-CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/MatheuZSecurity/Exploit-CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/MatheuZSecurity/Exploit-CVE-2025-24799">
 - [galletitaconpate/CVE-2025-24799](https://github.com/galletitaconpate/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/galletitaconpate/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/galletitaconpate/CVE-2025-24799">
+- [Rosemary1337/CVE-2025-24799](https://github.com/Rosemary1337/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/Rosemary1337/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/Rosemary1337/CVE-2025-24799">
 
 ---
 ## CVE-2025-24797 ()
