@@ -388,6 +388,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [nothe1senberg/CVE-2024-8353](https://github.com/nothe1senberg/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-8353">
 
 ---
+## CVE-2024-835 ()
+> 
+- [melmathari/dockerCVE-2024-835](https://github.com/melmathari/dockerCVE-2024-835)	<img alt="forks" src="https://img.shields.io/github/forks/melmathari/dockerCVE-2024-835">	<img alt="stars" src="https://img.shields.io/github/stars/melmathari/dockerCVE-2024-835">
+
+---
 ## CVE-2024-8349 (2024-09-25T03:15:00)
 > The Uncanny Groups for LearnDash plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 6.1.0.1. This is due to the plugin not properly restricting what users a group leader can edit. This makes it possible for authenticated attackers, with group leader-level access and above, to change admin account email addresses which can subsequently lead to admin account access.
 - [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">
