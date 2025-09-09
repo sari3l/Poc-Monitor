@@ -2543,6 +2543,11 @@
 - [AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462](https://github.com/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">
 
 ---
+## CVE-2025-32434 ()
+> 
+- [2h3ph3rd/CVE-2025-32434](https://github.com/2h3ph3rd/CVE-2025-32434)	<img alt="forks" src="https://img.shields.io/github/forks/2h3ph3rd/CVE-2025-32434">	<img alt="stars" src="https://img.shields.io/github/stars/2h3ph3rd/CVE-2025-32434">
+
+---
 ## CVE-2025-32433 ()
 > 
 - [platsecurity/CVE-2025-32433](https://github.com/platsecurity/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/platsecurity/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/platsecurity/CVE-2025-32433">
