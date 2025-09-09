@@ -371,6 +371,11 @@
 - [haxerr9/CVE-2025-5840](https://github.com/haxerr9/CVE-2025-5840)	<img alt="forks" src="https://img.shields.io/github/forks/haxerr9/CVE-2025-5840">	<img alt="stars" src="https://img.shields.io/github/stars/haxerr9/CVE-2025-5840">
 
 ---
+## CVE-2025-58180 ()
+> 
+- [prabhatverma47/CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename](https://github.com/prabhatverma47/CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename">
+
+---
 ## CVE-2025-5815 ()
 > 
 - [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-5815-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-5815-Nuclei-Template">
