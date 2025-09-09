@@ -199,6 +199,7 @@
 - [Kalidas-7/CVE-2019-9053](https://github.com/Kalidas-7/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/Kalidas-7/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/Kalidas-7/CVE-2019-9053">
 - [noob-hacker572/CMS-Made-Simple-2.2.9-CVE-2019-9053](https://github.com/noob-hacker572/CMS-Made-Simple-2.2.9-CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/noob-hacker572/CMS-Made-Simple-2.2.9-CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/noob-hacker572/CMS-Made-Simple-2.2.9-CVE-2019-9053">
 - [noob-hacker572/CMS-Made-Simple-2.2.9-CVE-2019-9053](https://github.com/noob-hacker572/CMS-Made-Simple-2.2.9-CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/noob-hacker572/CMS-Made-Simple-2.2.9-CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/noob-hacker572/CMS-Made-Simple-2.2.9-CVE-2019-9053">
+- [Slayerma/-CVE-2019-9053](https://github.com/Slayerma/-CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/Slayerma/-CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/Slayerma/-CVE-2019-9053">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
