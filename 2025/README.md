@@ -436,6 +436,11 @@
 - [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/cve-2025-5755">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/cve-2025-5755">
 
 ---
+## CVE-2025-57392 ()
+> 
+- [meisterlos/CVE-2025-57392](https://github.com/meisterlos/CVE-2025-57392)	<img alt="forks" src="https://img.shields.io/github/forks/meisterlos/CVE-2025-57392">	<img alt="stars" src="https://img.shields.io/github/stars/meisterlos/CVE-2025-57392">
+
+---
 ## CVE-2025-57055 ()
 > 
 - [thawphone/CVE-2025-57055](https://github.com/thawphone/CVE-2025-57055)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-57055">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-57055">
