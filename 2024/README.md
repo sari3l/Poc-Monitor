@@ -6933,6 +6933,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Naved124/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/Naved124/CVE-2024-28397-js2py-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/Naved124/CVE-2024-28397-js2py-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/Naved124/CVE-2024-28397-js2py-Sandbox-Escape">
 - [kyl0-ST12/CVE_2024_28397---js2py-RCE](https://github.com/kyl0-ST12/CVE_2024_28397---js2py-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/kyl0-ST12/CVE_2024_28397---js2py-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/kyl0-ST12/CVE_2024_28397---js2py-RCE">
 - [ExtremeUday/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-](https://github.com/ExtremeUday/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-)	<img alt="forks" src="https://img.shields.io/github/forks/ExtremeUday/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-">	<img alt="stars" src="https://img.shields.io/github/stars/ExtremeUday/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-">
+- [naclapor/CVE-2024-28397](https://github.com/naclapor/CVE-2024-28397)	<img alt="forks" src="https://img.shields.io/github/forks/naclapor/CVE-2024-28397">	<img alt="stars" src="https://img.shields.io/github/stars/naclapor/CVE-2024-28397">
 
 ---
 ## CVE-2024-28288 (2024-03-30T01:15:00)

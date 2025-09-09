@@ -4406,6 +4406,11 @@
 - [Live-Hack-CVE/CVE-2021-3655](https://github.com/Live-Hack-CVE/CVE-2021-3655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3655">
 
 ---
+## CVE-2021-36440 ()
+> 
+- [forget-dl/CVE-2021-36440-poc-test](https://github.com/forget-dl/CVE-2021-36440-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/forget-dl/CVE-2021-36440-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/forget-dl/CVE-2021-36440-poc-test">
+
+---
 ## CVE-2021-3644 (2022-08-26T16:15:00)
 > A flaw was found in wildfly-core in all versions. If a vault expression is in the form of a single attribute that contains multiple expressions, a user who was granted access to the management interface can potentially access a vault expression they should not be able to access and possibly retrieve the item which was stored in the vault. The highest threat from this vulnerability is data confidentiality and integrity.
 - [Live-Hack-CVE/CVE-2021-3644](https://github.com/Live-Hack-CVE/CVE-2021-3644)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3644">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3644">
