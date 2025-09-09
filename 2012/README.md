@@ -57,7 +57,7 @@
 - [SieGer05/CVE-2012-2982-Webmin-Exploit](https://github.com/SieGer05/CVE-2012-2982-Webmin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SieGer05/CVE-2012-2982-Webmin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SieGer05/CVE-2012-2982-Webmin-Exploit">
 - [lpuv/CVE-2012-2982](https://github.com/lpuv/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/lpuv/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/lpuv/CVE-2012-2982">
 - [SincIDK/CVE-2012-2982-Exploit-Script](https://github.com/SincIDK/CVE-2012-2982-Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/SincIDK/CVE-2012-2982-Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/SincIDK/CVE-2012-2982-Exploit-Script">
-- [boritopalito/CVE-2012-2982](https://github.com/boritopalito/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/boritopalito/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/boritopalito/CVE-2012-2982">
+- [boriitoo/CVE-2012-2982](https://github.com/boriitoo/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/boriitoo/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/boriitoo/CVE-2012-2982">
 
 ---
 ## CVE-2012-2661 (2012-06-22T14:55:00)
