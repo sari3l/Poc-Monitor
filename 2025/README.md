@@ -2011,6 +2011,7 @@
 ## CVE-2025-42957 ()
 > 
 - [callinston/CVE-2025-42957](https://github.com/callinston/CVE-2025-42957)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-42957">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-42957">
+- [mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege](https://github.com/mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege">
 
 ---
 ## CVE-2025-42599 ()
