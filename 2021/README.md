@@ -9036,6 +9036,8 @@
 ## CVE-2021-21239 (2021-01-21T15:15:00)
 > PySAML2 is a pure python implementation of SAML Version 2 Standard. PySAML2 before 6.5.0 has an improper verification of cryptographic signature vulnerability. Users of pysaml2 that use the default CryptoBackendXmlSec1 backend and need to verify signed SAML documents are impacted. PySAML2 does not ensure that a signed SAML document is correctly signed. The default CryptoBackendXmlSec1 backend is using the xmlsec1 binary to verify the signature of signed SAML documents, but by default xmlsec1 accepts any type of key found within the given document. xmlsec1 needs to be configured explicitly to only use only _x509 certificates_ for the verification process of the SAML document signature. This is fixed in PySAML2 6.5.0.
 - [RyanBoomer30/CVE-2021-21239-Exploit](https://github.com/RyanBoomer30/CVE-2021-21239-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RyanBoomer30/CVE-2021-21239-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RyanBoomer30/CVE-2021-21239-Exploit">
+- [illera88/CVE-2021-21239](https://github.com/illera88/CVE-2021-21239)	<img alt="forks" src="https://img.shields.io/github/forks/illera88/CVE-2021-21239">	<img alt="stars" src="https://img.shields.io/github/stars/illera88/CVE-2021-21239">
+- [GrantBirki/redash-vulnerable](https://github.com/GrantBirki/redash-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/GrantBirki/redash-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/GrantBirki/redash-vulnerable">
 
 ---
 ## CVE-2021-21235 (2021-01-06T02:15:00)
