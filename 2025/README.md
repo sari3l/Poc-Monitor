@@ -2019,6 +2019,11 @@
 - [mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege](https://github.com/mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege">
 
 ---
+## CVE-2025-42944 ()
+> 
+- [rxerium/CVE-2025-42944](https://github.com/rxerium/CVE-2025-42944)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-42944">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-42944">
+
+---
 ## CVE-2025-42599 ()
 > 
 - [bronsoneaver/CVE-2025-42599](https://github.com/bronsoneaver/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-42599">
