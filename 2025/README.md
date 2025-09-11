@@ -488,6 +488,11 @@
 - [Ocmenog/CVE-2025-55998](https://github.com/Ocmenog/CVE-2025-55998)	<img alt="forks" src="https://img.shields.io/github/forks/Ocmenog/CVE-2025-55998">	<img alt="stars" src="https://img.shields.io/github/stars/Ocmenog/CVE-2025-55998">
 
 ---
+## CVE-2025-55891 ()
+> 
+- [terribledactyl/CVE-2025-55891](https://github.com/terribledactyl/CVE-2025-55891)	<img alt="forks" src="https://img.shields.io/github/forks/terribledactyl/CVE-2025-55891">	<img alt="stars" src="https://img.shields.io/github/stars/terribledactyl/CVE-2025-55891">
+
+---
 ## CVE-2025-55763 ()
 > 
 - [krispybyte/CVE-2025-55763](https://github.com/krispybyte/CVE-2025-55763)	<img alt="forks" src="https://img.shields.io/github/forks/krispybyte/CVE-2025-55763">	<img alt="stars" src="https://img.shields.io/github/stars/krispybyte/CVE-2025-55763">
