@@ -71,6 +71,11 @@
 - [abiyeenzo/CVE-2025-8671](https://github.com/abiyeenzo/CVE-2025-8671)	<img alt="forks" src="https://img.shields.io/github/forks/abiyeenzo/CVE-2025-8671">	<img alt="stars" src="https://img.shields.io/github/stars/abiyeenzo/CVE-2025-8671">
 
 ---
+## CVE-2025-8570 ()
+> 
+- [Nxploited/CVE-2025-8570](https://github.com/Nxploited/CVE-2025-8570)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-8570">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-8570">
+
+---
 ## CVE-2025-8550 ()
 > 
 - [byteReaper77/CVE-2025-8550](https://github.com/byteReaper77/CVE-2025-8550)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8550">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8550">
