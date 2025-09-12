@@ -403,6 +403,7 @@ to load arbitrary JavaScript code.
 > 
 - [seadragnol/CVE-2023-52927](https://github.com/seadragnol/CVE-2023-52927)	<img alt="forks" src="https://img.shields.io/github/forks/seadragnol/CVE-2023-52927">	<img alt="stars" src="https://img.shields.io/github/stars/seadragnol/CVE-2023-52927">
 - [seadragnol/CVE-2023-52927-private](https://github.com/seadragnol/CVE-2023-52927-private)	<img alt="forks" src="https://img.shields.io/github/forks/seadragnol/CVE-2023-52927-private">	<img alt="stars" src="https://img.shields.io/github/stars/seadragnol/CVE-2023-52927-private">
+- [HoangNhoo/Reproduce-CVE-2023-52927](https://github.com/HoangNhoo/Reproduce-CVE-2023-52927)	<img alt="forks" src="https://img.shields.io/github/forks/HoangNhoo/Reproduce-CVE-2023-52927">	<img alt="stars" src="https://img.shields.io/github/stars/HoangNhoo/Reproduce-CVE-2023-52927">
 
 ---
 ## CVE-2023-52709 ()
