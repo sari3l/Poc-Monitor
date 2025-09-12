@@ -74,6 +74,7 @@
 ## CVE-2025-8570 ()
 > 
 - [Nxploited/CVE-2025-8570](https://github.com/Nxploited/CVE-2025-8570)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-8570">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-8570">
+- [chimdi2700/CVE-2025-8570](https://github.com/chimdi2700/CVE-2025-8570)	<img alt="forks" src="https://img.shields.io/github/forks/chimdi2700/CVE-2025-8570">	<img alt="stars" src="https://img.shields.io/github/stars/chimdi2700/CVE-2025-8570">
 
 ---
 ## CVE-2025-8550 ()
