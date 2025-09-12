@@ -576,6 +576,7 @@
 ## CVE-2025-54914 ()
 > 
 - [mrk336/Azure-Networking-Privilege-Escalation-Exploit-CVE-2025-54914](https://github.com/mrk336/Azure-Networking-Privilege-Escalation-Exploit-CVE-2025-54914)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Azure-Networking-Privilege-Escalation-Exploit-CVE-2025-54914">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Azure-Networking-Privilege-Escalation-Exploit-CVE-2025-54914">
+- [Ash1996x/CVE-2025-54914-PoC](https://github.com/Ash1996x/CVE-2025-54914-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ash1996x/CVE-2025-54914-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ash1996x/CVE-2025-54914-PoC">
 
 ---
 ## CVE-2025-54887 ()
