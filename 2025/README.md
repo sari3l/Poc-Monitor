@@ -407,6 +407,7 @@
 - [ImBIOS/lab-cve-2025-57819](https://github.com/ImBIOS/lab-cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2025-57819">
 - [B1ack4sh/Blackash-CVE-2025-57819](https://github.com/B1ack4sh/Blackash-CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-57819">
 - [MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819](https://github.com/MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819">
+- [watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819](https://github.com/watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819">
 
 ---
 ## CVE-2025-57773 ()
