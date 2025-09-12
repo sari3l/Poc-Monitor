@@ -2501,6 +2501,7 @@
 - [dennisec/CVE-2025-3248](https://github.com/dennisec/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2025-3248">
 - [ill-deed/Langflow-CVE-2025-3248-Multi-target](https://github.com/ill-deed/Langflow-CVE-2025-3248-Multi-target)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/Langflow-CVE-2025-3248-Multi-target">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/Langflow-CVE-2025-3248-Multi-target">
 - [r0otk3r/CVE-2025-3248](https://github.com/r0otk3r/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-3248">
+- [min8282/CVE-2025-3248](https://github.com/min8282/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2025-3248">
 
 ---
 ## CVE-2025-32463 ()
