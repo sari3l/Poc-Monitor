@@ -71,6 +71,11 @@
 - [abiyeenzo/CVE-2025-8671](https://github.com/abiyeenzo/CVE-2025-8671)	<img alt="forks" src="https://img.shields.io/github/forks/abiyeenzo/CVE-2025-8671">	<img alt="stars" src="https://img.shields.io/github/stars/abiyeenzo/CVE-2025-8671">
 
 ---
+## CVE-2025-8571 ()
+> 
+- [chimdi2700/CVE-2025-8571](https://github.com/chimdi2700/CVE-2025-8571)	<img alt="forks" src="https://img.shields.io/github/forks/chimdi2700/CVE-2025-8571">	<img alt="stars" src="https://img.shields.io/github/stars/chimdi2700/CVE-2025-8571">
+
+---
 ## CVE-2025-8570 ()
 > 
 - [Nxploited/CVE-2025-8570](https://github.com/Nxploited/CVE-2025-8570)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-8570">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-8570">
@@ -1056,6 +1061,11 @@
 ## CVE-2025-51046 ()
 > 
 - [0xMesh-X/CVE-2025-51046](https://github.com/0xMesh-X/CVE-2025-51046)	<img alt="forks" src="https://img.shields.io/github/forks/0xMesh-X/CVE-2025-51046">	<img alt="stars" src="https://img.shields.io/github/stars/0xMesh-X/CVE-2025-51046">
+
+---
+## CVE-2025-51006 ()
+> 
+- [sy460129/CVE-2025-51006](https://github.com/sy460129/CVE-2025-51006)	<img alt="forks" src="https://img.shields.io/github/forks/sy460129/CVE-2025-51006">	<img alt="stars" src="https://img.shields.io/github/stars/sy460129/CVE-2025-51006">
 
 ---
 ## CVE-2025-510 ()
