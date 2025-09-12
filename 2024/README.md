@@ -2950,6 +2950,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [Ianthinus/CVE-2024-4577](https://github.com/Ianthinus/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Ianthinus/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Ianthinus/CVE-2024-4577">
 - [a1ex-var1amov/ctf-cve-2024-4577](https://github.com/a1ex-var1amov/ctf-cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/a1ex-var1amov/ctf-cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/a1ex-var1amov/ctf-cve-2024-4577">
 - [InfoSec-DB/PHPCGIScanner](https://github.com/InfoSec-DB/PHPCGIScanner)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec-DB/PHPCGIScanner">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec-DB/PHPCGIScanner">
+- [mananjain61/PHP-CGI-INTERNAL-RCE](https://github.com/mananjain61/PHP-CGI-INTERNAL-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mananjain61/PHP-CGI-INTERNAL-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mananjain61/PHP-CGI-INTERNAL-RCE">
 
 ---
 ## CVE-2024-4573 ()
