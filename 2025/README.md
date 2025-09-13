@@ -2268,6 +2268,11 @@
 - [korden-c/CVE-2025-36535](https://github.com/korden-c/CVE-2025-36535)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-36535">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-36535">
 
 ---
+## CVE-2025-3639 ()
+> 
+- [6lj/CVE-2025-3639](https://github.com/6lj/CVE-2025-3639)	<img alt="forks" src="https://img.shields.io/github/forks/6lj/CVE-2025-3639">	<img alt="stars" src="https://img.shields.io/github/stars/6lj/CVE-2025-3639">
+
+---
 ## CVE-2025-3616 ()
 > 
 - [em07robot/CVE-2025-3616](https://github.com/em07robot/CVE-2025-3616)	<img alt="forks" src="https://img.shields.io/github/forks/em07robot/CVE-2025-3616">	<img alt="stars" src="https://img.shields.io/github/stars/em07robot/CVE-2025-3616">
