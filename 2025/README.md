@@ -662,6 +662,7 @@
 - [blueisbeautiful/CVE-2025-54309](https://github.com/blueisbeautiful/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-54309">
 - [watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309](https://github.com/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309">
 - [whisperer1290/CVE-2025-54309__Enhanced_exploit](https://github.com/whisperer1290/CVE-2025-54309__Enhanced_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/whisperer1290/CVE-2025-54309__Enhanced_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/whisperer1290/CVE-2025-54309__Enhanced_exploit">
+- [chin-tech/CrushFTP_CVE-2025-54309](https://github.com/chin-tech/CrushFTP_CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/chin-tech/CrushFTP_CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/chin-tech/CrushFTP_CVE-2025-54309">
 
 ---
 ## CVE-2025-54253 ()
@@ -3280,6 +3281,7 @@
 ## CVE-2025-2945 ()
 > 
 - [abrewer251/CVE-2025-2945_PoC](https://github.com/abrewer251/CVE-2025-2945_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-2945_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-2945_PoC">
+- [Cycloctane/cve-2025-2945-poc](https://github.com/Cycloctane/cve-2025-2945-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Cycloctane/cve-2025-2945-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Cycloctane/cve-2025-2945-poc">
 
 ---
 ## CVE-2025-29448 ()
