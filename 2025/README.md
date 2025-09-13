@@ -1224,6 +1224,11 @@
 - [Ash1996x/CVE-2025-50154-Aggressor-Script](https://github.com/Ash1996x/CVE-2025-50154-Aggressor-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Ash1996x/CVE-2025-50154-Aggressor-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Ash1996x/CVE-2025-50154-Aggressor-Script">
 
 ---
+## CVE-2025-50110 ()
+> 
+- [shinyColumn/CVE-2025-50110](https://github.com/shinyColumn/CVE-2025-50110)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-50110">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-50110">
+
+---
 ## CVE-2025-50002 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-50002](https://github.com/NotItsSixtyN3in/CVE-2025-50002)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-50002">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-50002">
@@ -1722,6 +1727,11 @@
 ## CVE-2025-4660 ()
 > 
 - [NetSPI/CVE-2025-4660](https://github.com/NetSPI/CVE-2025-4660)	<img alt="forks" src="https://img.shields.io/github/forks/NetSPI/CVE-2025-4660">	<img alt="stars" src="https://img.shields.io/github/stars/NetSPI/CVE-2025-4660">
+
+---
+## CVE-2025-46408 ()
+> 
+- [shinyColumn/CVE-2025-46408](https://github.com/shinyColumn/CVE-2025-46408)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-46408">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-46408">
 
 ---
 ## CVE-2025-4632 ()
