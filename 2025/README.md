@@ -6,6 +6,11 @@
 - [drackyjr/CVE-2025-9784](https://github.com/drackyjr/CVE-2025-9784)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-9784">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-9784">
 
 ---
+## CVE-2025-9776 ()
+> 
+- [SnailSploit/CVE-2025-9776](https://github.com/SnailSploit/CVE-2025-9776)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-9776">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-9776">
+
+---
 ## CVE-2025-9491 ()
 > 
 - [barbaraeivyu/CVE-2025-9491](https://github.com/barbaraeivyu/CVE-2025-9491)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-9491">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-9491">
