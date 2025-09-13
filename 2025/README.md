@@ -780,6 +780,7 @@
 - [CyprianAtsyor/ToolShell-CVE-2025-53770-SharePoint-Exploit-Lab-LetsDefend](https://github.com/CyprianAtsyor/ToolShell-CVE-2025-53770-SharePoint-Exploit-Lab-LetsDefend)	<img alt="forks" src="https://img.shields.io/github/forks/CyprianAtsyor/ToolShell-CVE-2025-53770-SharePoint-Exploit-Lab-LetsDefend">	<img alt="stars" src="https://img.shields.io/github/stars/CyprianAtsyor/ToolShell-CVE-2025-53770-SharePoint-Exploit-Lab-LetsDefend">
 - [ghostn4444/CVE-2025-53770](https://github.com/ghostn4444/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/ghostn4444/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/ghostn4444/CVE-2025-53770">
 - [saladin0x1/CVE-2025-53770](https://github.com/saladin0x1/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/saladin0x1/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/saladin0x1/CVE-2025-53770">
+- [go-bi/sharepoint-CVE-2025-53770](https://github.com/go-bi/sharepoint-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/go-bi/sharepoint-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/go-bi/sharepoint-CVE-2025-53770">
 
 ---
 ## CVE-2025-53744 ()
