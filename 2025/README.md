@@ -491,6 +491,11 @@
 - [mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-">
 
 ---
+## CVE-2025-56019 ()
+> 
+- [Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019](https://github.com/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019)	<img alt="forks" src="https://img.shields.io/github/forks/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">	<img alt="stars" src="https://img.shields.io/github/stars/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">
+
+---
 ## CVE-2025-55998 ()
 > 
 - [Ocmenog/CVE-2025-55998](https://github.com/Ocmenog/CVE-2025-55998)	<img alt="forks" src="https://img.shields.io/github/forks/Ocmenog/CVE-2025-55998">	<img alt="stars" src="https://img.shields.io/github/stars/Ocmenog/CVE-2025-55998">
@@ -1522,6 +1527,7 @@
 - [airkewld/cve-2025-48384](https://github.com/airkewld/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/airkewld/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/airkewld/cve-2025-48384">
 - [airkewld/cve-2025-48384-submodule](https://github.com/airkewld/cve-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/airkewld/cve-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/airkewld/cve-2025-48384-submodule">
 - [s41r4j/CVE-2025-48384-submodule](https://github.com/s41r4j/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/s41r4j/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/s41r4j/CVE-2025-48384-submodule">
+- [s41r4j/CVE-2025-48384](https://github.com/s41r4j/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/s41r4j/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/s41r4j/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
