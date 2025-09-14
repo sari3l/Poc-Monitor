@@ -4471,6 +4471,11 @@
 - [KuanKuanQAQ/cve-testing](https://github.com/KuanKuanQAQ/cve-testing)	<img alt="forks" src="https://img.shields.io/github/forks/KuanKuanQAQ/cve-testing">	<img alt="stars" src="https://img.shields.io/github/stars/KuanKuanQAQ/cve-testing">
 
 ---
+## CVE-2025-21692 ()
+> 
+- [volticks/CVE-2025-21692-poc](https://github.com/volticks/CVE-2025-21692-poc)	<img alt="forks" src="https://img.shields.io/github/forks/volticks/CVE-2025-21692-poc">	<img alt="stars" src="https://img.shields.io/github/stars/volticks/CVE-2025-21692-poc">
+
+---
 ## CVE-2025-21624 ()
 > 
 - [shreyas-malhotra/CVE-2025-21624](https://github.com/shreyas-malhotra/CVE-2025-21624)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2025-21624">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2025-21624">
