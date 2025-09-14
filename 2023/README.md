@@ -1110,6 +1110,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 ## CVE-2023-49109 ()
 > 
 - [shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3-2-0](https://github.com/shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3-2-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3-2-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3-2-0">
+- [shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3_2_1_fixed](https://github.com/shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3_2_1_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3_2_1_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3_2_1_fixed">
 
 ---
 ## CVE-2023-49103 (2023-11-21T22:15:00)
