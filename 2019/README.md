@@ -2113,6 +2113,7 @@ use after free.
 ## CVE-2019-17640 ()
 > 
 - [shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3-9-3](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3-9-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3-9-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3-9-3">
+- [shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3_9_4_fixed](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3_9_4_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3_9_4_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3_9_4_fixed">
 
 ---
 ## CVE-2019-17621 (2019-12-30T17:15:00)
