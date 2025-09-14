@@ -3303,6 +3303,7 @@ use after free.
 ## CVE-2019-10089 ()
 > 
 - [shoucheng3/apache__jspwiki_CVE-2019-10089_2-11-0-M4](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10089_2-11-0-M4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__jspwiki_CVE-2019-10089_2-11-0-M4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__jspwiki_CVE-2019-10089_2-11-0-M4">
+- [shoucheng3/apache__jspwiki_CVE-2019-10089_2_11_0_M5_fixed](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10089_2_11_0_M5_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__jspwiki_CVE-2019-10089_2_11_0_M5_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__jspwiki_CVE-2019-10089_2_11_0_M5_fixed">
 
 ---
 ## CVE-2019-10078 ()
