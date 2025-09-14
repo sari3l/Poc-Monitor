@@ -3740,6 +3740,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Bhanunamikaze/CVE-2024-42009](https://github.com/Bhanunamikaze/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/CVE-2024-42009">
 - [DaniTheHack3r/CVE-2024-42009-PoC](https://github.com/DaniTheHack3r/CVE-2024-42009-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DaniTheHack3r/CVE-2024-42009-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DaniTheHack3r/CVE-2024-42009-PoC">
 - [Foxer131/CVE-2024-42008-9-exploit](https://github.com/Foxer131/CVE-2024-42008-9-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Foxer131/CVE-2024-42008-9-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Foxer131/CVE-2024-42008-9-exploit">
+- [Shubhankargupta691/CVE-2024-42009](https://github.com/Shubhankargupta691/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/Shubhankargupta691/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/Shubhankargupta691/CVE-2024-42009">
 
 ---
 ## CVE-2024-42008 ()
