@@ -5985,7 +5985,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-28293 ()
 > 
 - [Cr4zyDave/CVE-2023-28293](https://github.com/Cr4zyDave/CVE-2023-28293)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4zyDave/CVE-2023-28293">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4zyDave/CVE-2023-28293">
-- [CrazyDaveX86/CVE-2023-28293](https://github.com/CrazyDaveX86/CVE-2023-28293)	<img alt="forks" src="https://img.shields.io/github/forks/CrazyDaveX86/CVE-2023-28293">	<img alt="stars" src="https://img.shields.io/github/stars/CrazyDaveX86/CVE-2023-28293">
+- [HexilionLabs/CVE-2023-28293](https://github.com/HexilionLabs/CVE-2023-28293)	<img alt="forks" src="https://img.shields.io/github/forks/HexilionLabs/CVE-2023-28293">	<img alt="stars" src="https://img.shields.io/github/stars/HexilionLabs/CVE-2023-28293">
 
 ---
 ## CVE-2023-28252 (2023-04-11T21:15:00)
