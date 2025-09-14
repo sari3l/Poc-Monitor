@@ -1451,6 +1451,11 @@
 - [Layer1-Artist/POC-CVE-2025-48621](https://github.com/Layer1-Artist/POC-CVE-2025-48621)	<img alt="forks" src="https://img.shields.io/github/forks/Layer1-Artist/POC-CVE-2025-48621">	<img alt="stars" src="https://img.shields.io/github/stars/Layer1-Artist/POC-CVE-2025-48621">
 
 ---
+## CVE-2025-48543 ()
+> 
+- [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)	<img alt="forks" src="https://img.shields.io/github/forks/gamesarchive/CVE-2025-48543">	<img alt="stars" src="https://img.shields.io/github/stars/gamesarchive/CVE-2025-48543">
+
+---
 ## CVE-2025-48466 ()
 > 
 - [shipcod3/CVE-2025-48466](https://github.com/shipcod3/CVE-2025-48466)	<img alt="forks" src="https://img.shields.io/github/forks/shipcod3/CVE-2025-48466">	<img alt="stars" src="https://img.shields.io/github/stars/shipcod3/CVE-2025-48466">
