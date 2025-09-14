@@ -125,6 +125,7 @@
 - [hexsecteam/CVE-2025-8088-Winrar-Tool](https://github.com/hexsecteam/CVE-2025-8088-Winrar-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/hexsecteam/CVE-2025-8088-Winrar-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/hexsecteam/CVE-2025-8088-Winrar-Tool">
 - [cozythrill/CVE-2025-8088](https://github.com/cozythrill/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/cozythrill/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/cozythrill/CVE-2025-8088">
 - [tartalu/CVE-2025-8088](https://github.com/tartalu/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/tartalu/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/tartalu/CVE-2025-8088">
+- [techcorp/CVE-2025-8088-Exploit](https://github.com/techcorp/CVE-2025-8088-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/techcorp/CVE-2025-8088-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/techcorp/CVE-2025-8088-Exploit">
 
 ---
 ## CVE-2025-8067 ()
