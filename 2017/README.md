@@ -1245,6 +1245,12 @@
 - [edyekomu/CVE-2017-12615-PoC](https://github.com/edyekomu/CVE-2017-12615-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/edyekomu/CVE-2017-12615-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/edyekomu/CVE-2017-12615-PoC">
 
 ---
+## CVE-2017-12611 ()
+> 
+- [tcetin704/CVE-2017-12611](https://github.com/tcetin704/CVE-2017-12611)	<img alt="forks" src="https://img.shields.io/github/forks/tcetin704/CVE-2017-12611">	<img alt="stars" src="https://img.shields.io/github/stars/tcetin704/CVE-2017-12611">
+- [brianwrf/S2-053-CVE-2017-12611](https://github.com/brianwrf/S2-053-CVE-2017-12611)	<img alt="forks" src="https://img.shields.io/github/forks/brianwrf/S2-053-CVE-2017-12611">	<img alt="stars" src="https://img.shields.io/github/stars/brianwrf/S2-053-CVE-2017-12611">
+
+---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
 > A remote code execution vulnerability in HPE intelligent Management Center (iMC) PLAT version Plat 7.3 E0504P4 and earlier was found.
 - [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2017-12561">
