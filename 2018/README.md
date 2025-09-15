@@ -1685,6 +1685,7 @@
 > 
 - [shoucheng3/apache__tika_CVE-2018-11762_1-18](https://github.com/shoucheng3/apache__tika_CVE-2018-11762_1-18)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__tika_CVE-2018-11762_1-18">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__tika_CVE-2018-11762_1-18">
 - [shoucheng3/apache__tika_CVE-2018-11762_1-18](https://github.com/shoucheng3/apache__tika_CVE-2018-11762_1-18)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__tika_CVE-2018-11762_1-18">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__tika_CVE-2018-11762_1-18">
+- [shoucheng3/apache__tika_CVE-2018-11762_1_19_fixed](https://github.com/shoucheng3/apache__tika_CVE-2018-11762_1_19_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__tika_CVE-2018-11762_1_19_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__tika_CVE-2018-11762_1_19_fixed">
 
 ---
 ## CVE-2018-11759 (2018-10-31T20:29:00)
