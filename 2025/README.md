@@ -32,6 +32,7 @@
 - [zenzue/CVE-2025-9074](https://github.com/zenzue/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2025-9074">
 - [j3r1ch0123/CVE-2025-9074](https://github.com/j3r1ch0123/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2025-9074">
 - [ThemeHackers/CVE-2025-9074](https://github.com/ThemeHackers/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-9074">
+- [fortihack/CVE-2025-9074](https://github.com/fortihack/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/fortihack/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/fortihack/CVE-2025-9074">
 
 ---
 ## CVE-2025-9043 ()
