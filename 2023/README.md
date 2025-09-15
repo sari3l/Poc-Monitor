@@ -581,6 +581,7 @@ We recommend users to:
 - [GanReality/CVE-2023-51385Test](https://github.com/GanReality/CVE-2023-51385Test)	<img alt="forks" src="https://img.shields.io/github/forks/GanReality/CVE-2023-51385Test">	<img alt="stars" src="https://img.shields.io/github/stars/GanReality/CVE-2023-51385Test">
 - [saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC](https://github.com/saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC">
 - [runooovb/CVE-2023-51385test](https://github.com/runooovb/CVE-2023-51385test)	<img alt="forks" src="https://img.shields.io/github/forks/runooovb/CVE-2023-51385test">	<img alt="stars" src="https://img.shields.io/github/stars/runooovb/CVE-2023-51385test">
+- [selecthch/CVE-2023-51385](https://github.com/selecthch/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/selecthch/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/selecthch/CVE-2023-51385">
 
 ---
 ## CVE-2023-51281 (2024-03-07T01:15:00)
