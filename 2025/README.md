@@ -557,6 +557,7 @@
 ## CVE-2025-55234 ()
 > 
 - [mrk336/CVE-2025-55234](https://github.com/mrk336/CVE-2025-55234)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-55234">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-55234">
+- [mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense](https://github.com/mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense">
 
 ---
 ## CVE-2025-55232 ()
