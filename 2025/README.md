@@ -3580,6 +3580,7 @@
 > 
 - [absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit](https://github.com/absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit">
 - [B1ack4sh/Blackash-CVE-2025-27210](https://github.com/B1ack4sh/Blackash-CVE-2025-27210)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-27210">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-27210">
+- [mindeddu/Vulnerable-CVE-2025-27210](https://github.com/mindeddu/Vulnerable-CVE-2025-27210)	<img alt="forks" src="https://img.shields.io/github/forks/mindeddu/Vulnerable-CVE-2025-27210">	<img alt="stars" src="https://img.shields.io/github/stars/mindeddu/Vulnerable-CVE-2025-27210">
 
 ---
 ## CVE-2025-27152 ()
