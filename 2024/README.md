@@ -9370,6 +9370,7 @@ critical systems.
 - [codeb0ss/CVE-2024-1709-PoC](https://github.com/codeb0ss/CVE-2024-1709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-1709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-1709-PoC">
 - [AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-](https://github.com/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">
 - [AMRICHASFUCK/Mass-CVE-2024-1709](https://github.com/AMRICHASFUCK/Mass-CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/AMRICHASFUCK/Mass-CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/AMRICHASFUCK/Mass-CVE-2024-1709">
+- [Teexo/ScreenConnect-CVE-2024-1709-Exploit](https://github.com/Teexo/ScreenConnect-CVE-2024-1709-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Teexo/ScreenConnect-CVE-2024-1709-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Teexo/ScreenConnect-CVE-2024-1709-Exploit">
 
 ---
 ## CVE-2024-1698 (2024-02-27T06:15:00)
