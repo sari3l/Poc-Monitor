@@ -4093,6 +4093,7 @@
 - [galletitaconpate/CVE-2025-24799](https://github.com/galletitaconpate/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/galletitaconpate/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/galletitaconpate/CVE-2025-24799">
 - [Rosemary1337/CVE-2025-24799](https://github.com/Rosemary1337/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/Rosemary1337/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/Rosemary1337/CVE-2025-24799">
 - [nak000/CVE-2025-24799-sqli](https://github.com/nak000/CVE-2025-24799-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/nak000/CVE-2025-24799-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/nak000/CVE-2025-24799-sqli">
+- [airbus-cert/CVE-2025-24799-scanner](https://github.com/airbus-cert/CVE-2025-24799-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/CVE-2025-24799-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/CVE-2025-24799-scanner">
 
 ---
 ## CVE-2025-24797 ()
