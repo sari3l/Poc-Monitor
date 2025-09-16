@@ -696,6 +696,11 @@
 - [allinsthon/CVE-2025-54135](https://github.com/allinsthon/CVE-2025-54135)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54135">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54135">
 
 ---
+## CVE-2025-54106 ()
+> 
+- [callinston/CVE-2025-54106](https://github.com/callinston/CVE-2025-54106)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-54106">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-54106">
+
+---
 ## CVE-2025-53964 ()
 > 
 - [tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964)	<img alt="forks" src="https://img.shields.io/github/forks/tigr78/CVE-2025-53964">	<img alt="stars" src="https://img.shields.io/github/stars/tigr78/CVE-2025-53964">
