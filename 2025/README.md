@@ -127,6 +127,7 @@
 - [cozythrill/CVE-2025-8088](https://github.com/cozythrill/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/cozythrill/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/cozythrill/CVE-2025-8088">
 - [tartalu/CVE-2025-8088](https://github.com/tartalu/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/tartalu/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/tartalu/CVE-2025-8088">
 - [techcorp/CVE-2025-8088-Exploit](https://github.com/techcorp/CVE-2025-8088-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/techcorp/CVE-2025-8088-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/techcorp/CVE-2025-8088-Exploit">
+- [nhattanhh/CVE-2025-8088](https://github.com/nhattanhh/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nhattanhh/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nhattanhh/CVE-2025-8088">
 
 ---
 ## CVE-2025-8067 ()

@@ -1382,6 +1382,7 @@
 - [pyn3rd/CVE-2019-3396](https://github.com/pyn3rd/CVE-2019-3396)	<img alt="forks" src="https://img.shields.io/github/forks/pyn3rd/CVE-2019-3396">	<img alt="stars" src="https://img.shields.io/github/stars/pyn3rd/CVE-2019-3396">
 - [xiaoshuier/CVE-2019-3396](https://github.com/xiaoshuier/CVE-2019-3396)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoshuier/CVE-2019-3396">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoshuier/CVE-2019-3396">
 - [dothanthitiendiettiende/CVE-2019-3396](https://github.com/dothanthitiendiettiende/CVE-2019-3396)	<img alt="forks" src="https://img.shields.io/github/forks/dothanthitiendiettiende/CVE-2019-3396">	<img alt="stars" src="https://img.shields.io/github/stars/dothanthitiendiettiende/CVE-2019-3396">
+- [kh4sh3i/CVE-2019-3396](https://github.com/kh4sh3i/CVE-2019-3396)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2019-3396">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2019-3396">
 
 ---
 ## CVE-2019-2983 (2019-10-16T18:15:00)
