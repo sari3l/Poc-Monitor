@@ -3809,7 +3809,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ---
 ## CVE-2024-4157 ()
 > 
-- [Ch4os1/CVE-2024-4157-SSRF-RCE](https://github.com/Ch4os1/CVE-2024-4157-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4os1/CVE-2024-4157-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4os1/CVE-2024-4157-SSRF-RCE">
+- [Ch4os1/CVE-2024-4157-SSRF-RCE-Reverse-Shell](https://github.com/Ch4os1/CVE-2024-4157-SSRF-RCE-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4os1/CVE-2024-4157-SSRF-RCE-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4os1/CVE-2024-4157-SSRF-RCE-Reverse-Shell">
 - [kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570)	<img alt="forks" src="https://img.shields.io/github/forks/kit4py/CVE-2024-41570">	<img alt="stars" src="https://img.shields.io/github/stars/kit4py/CVE-2024-41570">
 - [muhmad-umair/CVE-2024-415770-ssrf-rce](https://github.com/muhmad-umair/CVE-2024-415770-ssrf-rce)	<img alt="forks" src="https://img.shields.io/github/forks/muhmad-umair/CVE-2024-415770-ssrf-rce">	<img alt="stars" src="https://img.shields.io/github/stars/muhmad-umair/CVE-2024-415770-ssrf-rce">
 - [thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE](https://github.com/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">

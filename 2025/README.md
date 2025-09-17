@@ -3239,6 +3239,7 @@
 - [aayush256-sys/nextjs-auth-bypass-poc](https://github.com/aayush256-sys/nextjs-auth-bypass-poc)	<img alt="forks" src="https://img.shields.io/github/forks/aayush256-sys/nextjs-auth-bypass-poc">	<img alt="stars" src="https://img.shields.io/github/stars/aayush256-sys/nextjs-auth-bypass-poc">
 - [zs1n/CVE-2025-29927](https://github.com/zs1n/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/zs1n/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/zs1n/CVE-2025-29927">
 - [MKIRAHMET/CVE-2025-29927-PoC](https://github.com/MKIRAHMET/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MKIRAHMET/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MKIRAHMET/CVE-2025-29927-PoC">
+- [adjscent/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/adjscent/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/adjscent/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/adjscent/vulnerable-nextjs-14-CVE-2025-29927">
 
 ---
 ## CVE-2025-29824 ()
