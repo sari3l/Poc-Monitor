@@ -1359,6 +1359,7 @@
 - [b0ySie7e/Notepad-8.8.1_CVE-2025-49144](https://github.com/b0ySie7e/Notepad-8.8.1_CVE-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/Notepad-8.8.1_CVE-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/Notepad-8.8.1_CVE-2025-49144">
 - [timsonner/CVE-2025-49144-Research](https://github.com/timsonner/CVE-2025-49144-Research)	<img alt="forks" src="https://img.shields.io/github/forks/timsonner/CVE-2025-49144-Research">	<img alt="stars" src="https://img.shields.io/github/stars/timsonner/CVE-2025-49144-Research">
 - [0xCZR1/cve-2025-49144](https://github.com/0xCZR1/cve-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/0xCZR1/cve-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/0xCZR1/cve-2025-49144">
+- [onniio/CVE-2025-49144](https://github.com/onniio/CVE-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-49144">
 
 ---
 ## CVE-2025-49132 ()
