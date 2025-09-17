@@ -4401,6 +4401,11 @@
 - [Live-Hack-CVE/CVE-2020-13882](https://github.com/Live-Hack-CVE/CVE-2020-13882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13882">
 
 ---
+## CVE-2020-13777 ()
+> 
+- [0xxon/cve-2020-13777](https://github.com/0xxon/cve-2020-13777)	<img alt="forks" src="https://img.shields.io/github/forks/0xxon/cve-2020-13777">	<img alt="stars" src="https://img.shields.io/github/stars/0xxon/cve-2020-13777">
+
+---
 ## CVE-2020-13765 (2020-06-04T16:15:00)
 > rom_copy() in hw/core/loader.c in QEMU 4.0 and 4.1.0 does not validate the relationship between two addresses, which allows attackers to trigger an invalid memory copy operation.
 - [Live-Hack-CVE/CVE-2020-13765](https://github.com/Live-Hack-CVE/CVE-2020-13765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13765">
