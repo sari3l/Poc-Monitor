@@ -3444,6 +3444,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [exploitsecure/CVE-2024-43639](https://github.com/exploitsecure/CVE-2024-43639)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43639">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43639">
 
 ---
+## CVE-2024-43630 ()
+> 
+- [QuasarBinary/CVE-2024-43630-POC](https://github.com/QuasarBinary/CVE-2024-43630-POC)	<img alt="forks" src="https://img.shields.io/github/forks/QuasarBinary/CVE-2024-43630-POC">	<img alt="stars" src="https://img.shields.io/github/stars/QuasarBinary/CVE-2024-43630-POC">
+
+---
 ## CVE-2024-436 ()
 > 
 - [Julian-gmz/CVE-2024-436_Exploit](https://github.com/Julian-gmz/CVE-2024-436_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/CVE-2024-436_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/CVE-2024-436_Exploit">
