@@ -1383,6 +1383,7 @@
 - [xiaoshuier/CVE-2019-3396](https://github.com/xiaoshuier/CVE-2019-3396)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoshuier/CVE-2019-3396">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoshuier/CVE-2019-3396">
 - [dothanthitiendiettiende/CVE-2019-3396](https://github.com/dothanthitiendiettiende/CVE-2019-3396)	<img alt="forks" src="https://img.shields.io/github/forks/dothanthitiendiettiende/CVE-2019-3396">	<img alt="stars" src="https://img.shields.io/github/stars/dothanthitiendiettiende/CVE-2019-3396">
 - [kh4sh3i/CVE-2019-3396](https://github.com/kh4sh3i/CVE-2019-3396)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2019-3396">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2019-3396">
+- [HK4zCzi/CVE-2019-3396-Velocity-Server-Side-Template-Injection](https://github.com/HK4zCzi/CVE-2019-3396-Velocity-Server-Side-Template-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/HK4zCzi/CVE-2019-3396-Velocity-Server-Side-Template-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/HK4zCzi/CVE-2019-3396-Velocity-Server-Side-Template-Injection">
 
 ---
 ## CVE-2019-2983 (2019-10-16T18:15:00)
