@@ -5545,6 +5545,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Chocapikk/CVE-2023-30258](https://github.com/Chocapikk/CVE-2023-30258)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-30258">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-30258">
 - [n00o00b/CVE-2023-30258-RCE-POC](https://github.com/n00o00b/CVE-2023-30258-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/n00o00b/CVE-2023-30258-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/n00o00b/CVE-2023-30258-RCE-POC">
 - [delldevmann/CVE-2023-30258](https://github.com/delldevmann/CVE-2023-30258)	<img alt="forks" src="https://img.shields.io/github/forks/delldevmann/CVE-2023-30258">	<img alt="stars" src="https://img.shields.io/github/stars/delldevmann/CVE-2023-30258">
+- [abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System](https://github.com/abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System)	<img alt="forks" src="https://img.shields.io/github/forks/abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System">	<img alt="stars" src="https://img.shields.io/github/stars/abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System">
 
 ---
 ## CVE-2023-30256 (2023-05-11T11:15:00)
