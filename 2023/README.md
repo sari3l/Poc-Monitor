@@ -1060,6 +1060,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [brandon-t-elliott/CVE-2023-49438](https://github.com/brandon-t-elliott/CVE-2023-49438)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2023-49438">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2023-49438">
 
 ---
+## CVE-2023-49367 ()
+> 
+- [barisbaydur/CVE-2023-49367](https://github.com/barisbaydur/CVE-2023-49367)	<img alt="forks" src="https://img.shields.io/github/forks/barisbaydur/CVE-2023-49367">	<img alt="stars" src="https://img.shields.io/github/stars/barisbaydur/CVE-2023-49367">
+
+---
 ## CVE-2023-49339 (2024-02-13T01:15:00)
 > Ellucian Banner 9.17 allows Insecure Direct Object Reference (IDOR) via a modified bannerId to the /StudentSelfService/ssb/studentCard/retrieveData endpoint.
 - [3zizme/CVE-2023-49339](https://github.com/3zizme/CVE-2023-49339)	<img alt="forks" src="https://img.shields.io/github/forks/3zizme/CVE-2023-49339">	<img alt="stars" src="https://img.shields.io/github/stars/3zizme/CVE-2023-49339">
