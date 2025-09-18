@@ -2455,6 +2455,7 @@
 - [obscura-cert/CVE-2025-33073](https://github.com/obscura-cert/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/obscura-cert/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/obscura-cert/CVE-2025-33073">
 - [matejsmycka/CVE-2025-33073-checker](https://github.com/matejsmycka/CVE-2025-33073-checker)	<img alt="forks" src="https://img.shields.io/github/forks/matejsmycka/CVE-2025-33073-checker">	<img alt="stars" src="https://img.shields.io/github/stars/matejsmycka/CVE-2025-33073-checker">
 - [cve-2025-33073/cve-2025-33073](https://github.com/cve-2025-33073/cve-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2025-33073/cve-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2025-33073/cve-2025-33073">
+- [sleepasleepzzz/CVE-2025-33073](https://github.com/sleepasleepzzz/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sleepasleepzzz/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sleepasleepzzz/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
