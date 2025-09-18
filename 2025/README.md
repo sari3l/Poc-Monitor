@@ -2086,6 +2086,7 @@
 - [PwnToday/CVE-2025-43300-1day](https://github.com/PwnToday/CVE-2025-43300-1day)	<img alt="forks" src="https://img.shields.io/github/forks/PwnToday/CVE-2025-43300-1day">	<img alt="stars" src="https://img.shields.io/github/stars/PwnToday/CVE-2025-43300-1day">
 - [PwnToday/CVE-2025-43300-1day](https://github.com/PwnToday/CVE-2025-43300-1day)	<img alt="forks" src="https://img.shields.io/github/forks/PwnToday/CVE-2025-43300-1day">	<img alt="stars" src="https://img.shields.io/github/stars/PwnToday/CVE-2025-43300-1day">
 - [PwnToday/CVE-2025-43300](https://github.com/PwnToday/CVE-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/PwnToday/CVE-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/PwnToday/CVE-2025-43300">
+- [veniversum/cve-2025-43300](https://github.com/veniversum/cve-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/veniversum/cve-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/veniversum/cve-2025-43300">
 
 ---
 ## CVE-2025-4322 ()
