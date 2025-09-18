@@ -378,6 +378,11 @@
 - [mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover](https://github.com/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover">
 
 ---
+## CVE-2025-59342 ()
+> 
+- [byteReaper77/CVE-2025-59342](https://github.com/byteReaper77/CVE-2025-59342)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-59342">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-59342">
+
+---
 ## CVE-2025-58780 ()
 > 
 - [SexyShoelessGodofWar/CVE-2025-58780](https://github.com/SexyShoelessGodofWar/CVE-2025-58780)	<img alt="forks" src="https://img.shields.io/github/forks/SexyShoelessGodofWar/CVE-2025-58780">	<img alt="stars" src="https://img.shields.io/github/stars/SexyShoelessGodofWar/CVE-2025-58780">
