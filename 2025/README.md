@@ -1420,7 +1420,7 @@
 - [AC8999/CVE-2025-49113](https://github.com/AC8999/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-49113">
 - [LeakForge/CVE-2025-49113](https://github.com/LeakForge/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/LeakForge/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/LeakForge/CVE-2025-49113">
 - [Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-](https://github.com/Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-)	<img alt="forks" src="https://img.shields.io/github/forks/Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-">	<img alt="stars" src="https://img.shields.io/github/stars/Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-">
-- [l4f2s4/CVE-2025-49113-exploit.php](https://github.com/l4f2s4/CVE-2025-49113-exploit.php)	<img alt="forks" src="https://img.shields.io/github/forks/l4f2s4/CVE-2025-49113-exploit.php">	<img alt="stars" src="https://img.shields.io/github/stars/l4f2s4/CVE-2025-49113-exploit.php">
+- [l4f2s4/CVE-2025-49113_exploit_cookies](https://github.com/l4f2s4/CVE-2025-49113_exploit_cookies)	<img alt="forks" src="https://img.shields.io/github/forks/l4f2s4/CVE-2025-49113_exploit_cookies">	<img alt="stars" src="https://img.shields.io/github/stars/l4f2s4/CVE-2025-49113_exploit_cookies">
 
 ---
 ## CVE-2025-49029 ()
