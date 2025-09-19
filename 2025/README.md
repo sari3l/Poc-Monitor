@@ -499,6 +499,11 @@
 - [shinyColumn/CVE-2025-56803](https://github.com/shinyColumn/CVE-2025-56803)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-56803">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-56803">
 
 ---
+## CVE-2025-56762 ()
+> 
+- [Shaunak-Chatterjee/CVE-2025-56762](https://github.com/Shaunak-Chatterjee/CVE-2025-56762)	<img alt="forks" src="https://img.shields.io/github/forks/Shaunak-Chatterjee/CVE-2025-56762">	<img alt="stars" src="https://img.shields.io/github/stars/Shaunak-Chatterjee/CVE-2025-56762">
+
+---
 ## CVE-2025-56605 ()
 > 
 - [Userr404/CVE-2025-56605](https://github.com/Userr404/CVE-2025-56605)	<img alt="forks" src="https://img.shields.io/github/forks/Userr404/CVE-2025-56605">	<img alt="stars" src="https://img.shields.io/github/stars/Userr404/CVE-2025-56605">
