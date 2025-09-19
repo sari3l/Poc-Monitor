@@ -1383,6 +1383,7 @@
 - [timsonner/CVE-2025-49144-Research](https://github.com/timsonner/CVE-2025-49144-Research)	<img alt="forks" src="https://img.shields.io/github/forks/timsonner/CVE-2025-49144-Research">	<img alt="stars" src="https://img.shields.io/github/stars/timsonner/CVE-2025-49144-Research">
 - [0xCZR1/cve-2025-49144](https://github.com/0xCZR1/cve-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/0xCZR1/cve-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/0xCZR1/cve-2025-49144">
 - [onniio/CVE-2025-49144](https://github.com/onniio/CVE-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-49144">
+- [ammarm0010/CVE-2025-49144_PoC](https://github.com/ammarm0010/CVE-2025-49144_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ammarm0010/CVE-2025-49144_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ammarm0010/CVE-2025-49144_PoC">
 
 ---
 ## CVE-2025-49132 ()
