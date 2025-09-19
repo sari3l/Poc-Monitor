@@ -1112,6 +1112,11 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 - [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5737">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5737">
 
 ---
+## CVE-2024-57366 ()
+> 
+- [h4ckusaur/CVE-2024-57366](https://github.com/h4ckusaur/CVE-2024-57366)	<img alt="forks" src="https://img.shields.io/github/forks/h4ckusaur/CVE-2024-57366">	<img alt="stars" src="https://img.shields.io/github/stars/h4ckusaur/CVE-2024-57366">
+
+---
 ## CVE-2024-5736 (2024-06-28T12:15:00)
 > Server Side Request Forgery (SSRF) vulnerability in AdmirorFrames Joomla! extension in afGdStream.php script allows to access local files or server pages available only from localhost. This issue affects AdmirorFrames: before 5.0.
 - [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5736">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5736">
