@@ -569,6 +569,11 @@
 - [Eternalvalhalla/CVE-2025-55287-POC](https://github.com/Eternalvalhalla/CVE-2025-55287-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Eternalvalhalla/CVE-2025-55287-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Eternalvalhalla/CVE-2025-55287-POC">
 
 ---
+## CVE-2025-55241 ()
+> 
+- [Spanky-McSpank/CVE-2025-55241-Internal-Audit](https://github.com/Spanky-McSpank/CVE-2025-55241-Internal-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/Spanky-McSpank/CVE-2025-55241-Internal-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/Spanky-McSpank/CVE-2025-55241-Internal-Audit">
+
+---
 ## CVE-2025-55234 ()
 > 
 - [mrk336/CVE-2025-55234](https://github.com/mrk336/CVE-2025-55234)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-55234">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-55234">
