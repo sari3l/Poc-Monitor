@@ -1464,6 +1464,7 @@
 - [KOVmechatronics/CVE-2025-48799](https://github.com/KOVmechatronics/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/KOVmechatronics/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/KOVmechatronics/CVE-2025-48799">
 - [painoob/CVE-2025-48799](https://github.com/painoob/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/CVE-2025-48799">
 - [mrk336/CVE-2025-48799](https://github.com/mrk336/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-48799">
+- [mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat](https://github.com/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat">
 
 ---
 ## CVE-2025-48708 ()
