@@ -2678,6 +2678,7 @@
 - [blackcat4347/CVE-2025-32463_PoC](https://github.com/blackcat4347/CVE-2025-32463_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/blackcat4347/CVE-2025-32463_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/blackcat4347/CVE-2025-32463_PoC">
 - [0x00315732/musical-engine](https://github.com/0x00315732/musical-engine)	<img alt="forks" src="https://img.shields.io/github/forks/0x00315732/musical-engine">	<img alt="stars" src="https://img.shields.io/github/stars/0x00315732/musical-engine">
 - [ashardev002/CVE-2025-32463_chwoot](https://github.com/ashardev002/CVE-2025-32463_chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/ashardev002/CVE-2025-32463_chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/ashardev002/CVE-2025-32463_chwoot">
+- [mihnasdsad/CVE-2025-32463](https://github.com/mihnasdsad/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/mihnasdsad/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/mihnasdsad/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
