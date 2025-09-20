@@ -478,6 +478,11 @@
 - [onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-](https://github.com/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-)	<img alt="forks" src="https://img.shields.io/github/forks/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">	<img alt="stars" src="https://img.shields.io/github/stars/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">
 
 ---
+## CVE-2025-57515 ()
+> 
+- [sanchitsahni/CVE-2025-57515](https://github.com/sanchitsahni/CVE-2025-57515)	<img alt="forks" src="https://img.shields.io/github/forks/sanchitsahni/CVE-2025-57515">	<img alt="stars" src="https://img.shields.io/github/stars/sanchitsahni/CVE-2025-57515">
+
+---
 ## CVE-2025-57392 ()
 > 
 - [meisterlos/CVE-2025-57392](https://github.com/meisterlos/CVE-2025-57392)	<img alt="forks" src="https://img.shields.io/github/forks/meisterlos/CVE-2025-57392">	<img alt="stars" src="https://img.shields.io/github/stars/meisterlos/CVE-2025-57392">
