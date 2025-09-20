@@ -540,6 +540,11 @@
 - [terribledactyl/CVE-2025-55891](https://github.com/terribledactyl/CVE-2025-55891)	<img alt="forks" src="https://img.shields.io/github/forks/terribledactyl/CVE-2025-55891">	<img alt="stars" src="https://img.shields.io/github/stars/terribledactyl/CVE-2025-55891">
 
 ---
+## CVE-2025-55888 ()
+> 
+- [0xZeroSec/CVE-2025-55888](https://github.com/0xZeroSec/CVE-2025-55888)	<img alt="forks" src="https://img.shields.io/github/forks/0xZeroSec/CVE-2025-55888">	<img alt="stars" src="https://img.shields.io/github/stars/0xZeroSec/CVE-2025-55888">
+
+---
 ## CVE-2025-55887 ()
 > 
 - [0xZeroSec/CVE-2025-55887](https://github.com/0xZeroSec/CVE-2025-55887)	<img alt="forks" src="https://img.shields.io/github/forks/0xZeroSec/CVE-2025-55887">	<img alt="stars" src="https://img.shields.io/github/stars/0xZeroSec/CVE-2025-55887">
