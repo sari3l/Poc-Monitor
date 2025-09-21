@@ -4871,6 +4871,7 @@
 > 
 - [h4xnz/CVE-2025-10035-Exploit](https://github.com/h4xnz/CVE-2025-10035-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-10035-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-10035-Exploit">
 - [rxerium/CVE-2025-10035](https://github.com/rxerium/CVE-2025-10035)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-10035">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-10035">
+- [ThemeHackers/CVE-2025-10035](https://github.com/ThemeHackers/CVE-2025-10035)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-10035">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-10035">
 
 ---
 ## CVE-2025-0994 ()
