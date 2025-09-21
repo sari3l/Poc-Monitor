@@ -131,6 +131,7 @@
 - [nhattanhh/CVE-2025-8088](https://github.com/nhattanhh/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nhattanhh/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nhattanhh/CVE-2025-8088">
 - [Shinkirou789/Cve-2025-8088-WinRar-vulnerability](https://github.com/Shinkirou789/Cve-2025-8088-WinRar-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Shinkirou789/Cve-2025-8088-WinRar-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Shinkirou789/Cve-2025-8088-WinRar-vulnerability">
 - [hbesljx/CVE-2025-8088-EXP](https://github.com/hbesljx/CVE-2025-8088-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/hbesljx/CVE-2025-8088-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/hbesljx/CVE-2025-8088-EXP">
+- [m4nbun/CVE-2025-8088](https://github.com/m4nbun/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/m4nbun/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/m4nbun/CVE-2025-8088">
 
 ---
 ## CVE-2025-8067 ()
