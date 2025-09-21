@@ -4294,7 +4294,7 @@
 - [windz3r0day/CVE-2025-24085](https://github.com/windz3r0day/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2025-24085">
 - [pxx917144686/12345](https://github.com/pxx917144686/12345)	<img alt="forks" src="https://img.shields.io/github/forks/pxx917144686/12345">	<img alt="stars" src="https://img.shields.io/github/stars/pxx917144686/12345">
 - [apt-007/12345](https://github.com/apt-007/12345)	<img alt="forks" src="https://img.shields.io/github/forks/apt-007/12345">	<img alt="stars" src="https://img.shields.io/github/stars/apt-007/12345">
-- [JGoyd/glass-cage-ios18-cve-2025-24085-cve-2025-24201](https://github.com/JGoyd/glass-cage-ios18-cve-2025-24085-cve-2025-24201)	<img alt="forks" src="https://img.shields.io/github/forks/JGoyd/glass-cage-ios18-cve-2025-24085-cve-2025-24201">	<img alt="stars" src="https://img.shields.io/github/stars/JGoyd/glass-cage-ios18-cve-2025-24085-cve-2025-24201">
+- [JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201](https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201)	<img alt="forks" src="https://img.shields.io/github/forks/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201">	<img alt="stars" src="https://img.shields.io/github/stars/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201">
 
 ---
 ## CVE-2025-24076 ()
