@@ -2440,6 +2440,7 @@
 ## CVE-2025-34152 ()
 > 
 - [Chocapikk/CVE-2025-34152](https://github.com/Chocapikk/CVE-2025-34152)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-34152">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-34152">
+- [kh4sh3i/CVE-2025-34152](https://github.com/kh4sh3i/CVE-2025-34152)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2025-34152">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2025-34152">
 
 ---
 ## CVE-2025-34138 ()
