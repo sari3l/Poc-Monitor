@@ -475,6 +475,8 @@
 - [rootxsushant/Citrix-NetScaler-Memory-Leak-CVE-2025-5777](https://github.com/rootxsushant/Citrix-NetScaler-Memory-Leak-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/rootxsushant/Citrix-NetScaler-Memory-Leak-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/rootxsushant/Citrix-NetScaler-Memory-Leak-CVE-2025-5777">
 - [ndr-repo/CVE-2025-5777](https://github.com/ndr-repo/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/ndr-repo/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/ndr-repo/CVE-2025-5777">
 - [Lakiya673/CVE-2025-5777](https://github.com/Lakiya673/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Lakiya673/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Lakiya673/CVE-2025-5777">
+- [fox-it/citrix-netscaler-triage](https://github.com/fox-it/citrix-netscaler-triage)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/citrix-netscaler-triage">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/citrix-netscaler-triage">
+- [B1ack4sh/Blackash-CVE-2025-57773](https://github.com/B1ack4sh/Blackash-CVE-2025-57773)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-57773">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-57773">
 
 ---
 ## CVE-2025-5755 ()
