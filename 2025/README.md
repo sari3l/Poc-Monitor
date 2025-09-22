@@ -2300,6 +2300,11 @@
 - [POCPioneer/CVE-2025-4094-POC](https://github.com/POCPioneer/CVE-2025-4094-POC)	<img alt="forks" src="https://img.shields.io/github/forks/POCPioneer/CVE-2025-4094-POC">	<img alt="stars" src="https://img.shields.io/github/stars/POCPioneer/CVE-2025-4094-POC">
 
 ---
+## CVE-2025-40677 ()
+> 
+- [PeterGabaldon/CVE-2025-40677](https://github.com/PeterGabaldon/CVE-2025-40677)	<img alt="forks" src="https://img.shields.io/github/forks/PeterGabaldon/CVE-2025-40677">	<img alt="stars" src="https://img.shields.io/github/stars/PeterGabaldon/CVE-2025-40677">
+
+---
 ## CVE-2025-40634 ()
 > 
 - [hacefresko/CVE-2025-40634](https://github.com/hacefresko/CVE-2025-40634)	<img alt="forks" src="https://img.shields.io/github/forks/hacefresko/CVE-2025-40634">	<img alt="stars" src="https://img.shields.io/github/stars/hacefresko/CVE-2025-40634">
