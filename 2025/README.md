@@ -133,6 +133,7 @@
 - [hbesljx/CVE-2025-8088-EXP](https://github.com/hbesljx/CVE-2025-8088-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/hbesljx/CVE-2025-8088-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/hbesljx/CVE-2025-8088-EXP">
 - [m4nbun/CVE-2025-8088](https://github.com/m4nbun/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/m4nbun/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/m4nbun/CVE-2025-8088">
 - [Osinskitito499/CVE-2025-8088](https://github.com/Osinskitito499/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Osinskitito499/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Osinskitito499/CVE-2025-8088">
+- [kay0te/CVE-2025-8088](https://github.com/kay0te/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kay0te/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kay0te/CVE-2025-8088">
 
 ---
 ## CVE-2025-8067 ()
