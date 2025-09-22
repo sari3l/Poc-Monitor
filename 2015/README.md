@@ -144,9 +144,10 @@
 ## CVE-2015-6668 (2017-10-19T21:29:00)
 > The Job Manager plugin before 0.7.25 allows remote attackers to read arbitrary CV files via a brute force attack to the WordPress upload directory structure, related to an insecure direct object reference.
 - [jimdiroffii/CVE-2015-6668](https://github.com/jimdiroffii/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/jimdiroffii/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/jimdiroffii/CVE-2015-6668">
-- [c0d3cr4f73r/CVE-2015-6668](https://github.com/c0d3cr4f73r/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2015-6668">
+- [h3x0v3rl0rd/CVE-2015-6668](https://github.com/h3x0v3rl0rd/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/h3x0v3rl0rd/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/h3x0v3rl0rd/CVE-2015-6668">
 - [G01d3nW01f/CVE-2015-6668](https://github.com/G01d3nW01f/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/G01d3nW01f/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/G01d3nW01f/CVE-2015-6668">
 - [nika0x38/CVE-2015-6668](https://github.com/nika0x38/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/nika0x38/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/nika0x38/CVE-2015-6668">
+- [NoTrustedx/Job-Manager-Disclosure](https://github.com/NoTrustedx/Job-Manager-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/NoTrustedx/Job-Manager-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/NoTrustedx/Job-Manager-Disclosure">
 
 ---
 ## CVE-2015-6420 ()
