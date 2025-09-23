@@ -75,6 +75,7 @@
 ## CVE-2023-6933 (2024-02-05T22:15:00)
 > The Better Search Replace plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 1.4.4 via deserialization of untrusted input. This makes it possible for unauthenticated attackers to inject a PHP Object. No POP chain is present in the vulnerable plugin. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker to delete arbitrary files, retrieve sensitive data, or execute code.
 - [w2xim3/CVE-2023-6933](https://github.com/w2xim3/CVE-2023-6933)	<img alt="forks" src="https://img.shields.io/github/forks/w2xim3/CVE-2023-6933">	<img alt="stars" src="https://img.shields.io/github/stars/w2xim3/CVE-2023-6933">
+- [Trex96/vulnerable-bsr-lab-CVE-2023-6933](https://github.com/Trex96/vulnerable-bsr-lab-CVE-2023-6933)	<img alt="forks" src="https://img.shields.io/github/forks/Trex96/vulnerable-bsr-lab-CVE-2023-6933">	<img alt="stars" src="https://img.shields.io/github/stars/Trex96/vulnerable-bsr-lab-CVE-2023-6933">
 
 ---
 ## CVE-2023-6931 ()
