@@ -3784,6 +3784,12 @@
 - [uthrasri/CVE-2025-26417](https://github.com/uthrasri/CVE-2025-26417)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2025-26417">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2025-26417">
 
 ---
+## CVE-2025-26399 ()
+> 
+- [h4xnz/CVE-2025-26399-Exploit](https://github.com/h4xnz/CVE-2025-26399-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-26399-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-26399-Exploit">
+- [rxerium/CVE-2025-26399](https://github.com/rxerium/CVE-2025-26399)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26399">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26399">
+
+---
 ## CVE-2025-26326 ()
 > 
 - [azurejoga/CVE-2025-26326](https://github.com/azurejoga/CVE-2025-26326)	<img alt="forks" src="https://img.shields.io/github/forks/azurejoga/CVE-2025-26326">	<img alt="stars" src="https://img.shields.io/github/stars/azurejoga/CVE-2025-26326">
