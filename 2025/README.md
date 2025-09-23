@@ -1170,6 +1170,11 @@
 - [sy460129/CVE-2025-51006](https://github.com/sy460129/CVE-2025-51006)	<img alt="forks" src="https://img.shields.io/github/forks/sy460129/CVE-2025-51006">	<img alt="stars" src="https://img.shields.io/github/stars/sy460129/CVE-2025-51006">
 
 ---
+## CVE-2025-51005 ()
+> 
+- [sy460129/CVE-2025-51005](https://github.com/sy460129/CVE-2025-51005)	<img alt="forks" src="https://img.shields.io/github/forks/sy460129/CVE-2025-51005">	<img alt="stars" src="https://img.shields.io/github/stars/sy460129/CVE-2025-51005">
+
+---
 ## CVE-2025-510 ()
 > 
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
