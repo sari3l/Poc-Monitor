@@ -866,6 +866,7 @@
 - [yashz0007/CVE-2025-53770-Exploit](https://github.com/yashz0007/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yashz0007/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yashz0007/CVE-2025-53770-Exploit">
 - [taqiaferdianshah/CVE-2025-53770](https://github.com/taqiaferdianshah/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/taqiaferdianshah/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/taqiaferdianshah/CVE-2025-53770">
 - [fentnttntnt/CVE-2025-53770](https://github.com/fentnttntnt/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/fentnttntnt/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/fentnttntnt/CVE-2025-53770">
+- [ziisenpai/CVE-2025-53770-Scanner](https://github.com/ziisenpai/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ziisenpai/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ziisenpai/CVE-2025-53770-Scanner">
 
 ---
 ## CVE-2025-53744 ()
