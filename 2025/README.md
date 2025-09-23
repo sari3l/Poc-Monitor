@@ -2730,6 +2730,7 @@
 - [mihnasdsad/CVE-2025-32463](https://github.com/mihnasdsad/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/mihnasdsad/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/mihnasdsad/CVE-2025-32463">
 - [At0mXploit/CVE-2025-32463](https://github.com/At0mXploit/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/At0mXploit/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/At0mXploit/CVE-2025-32463">
 - [sarthak4399/CVE-2025-32463](https://github.com/sarthak4399/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/sarthak4399/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/sarthak4399/CVE-2025-32463">
+- [no-speech-to-text/CVE-2025-32463](https://github.com/no-speech-to-text/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/no-speech-to-text/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/no-speech-to-text/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()

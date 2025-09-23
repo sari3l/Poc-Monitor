@@ -9005,6 +9005,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413](https://github.com/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413">
 - [PolarisXSec/CVE-2024-21413](https://github.com/PolarisXSec/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/PolarisXSec/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/PolarisXSec/CVE-2024-21413">
 - [MQKGitHub/Moniker-Link-CVE-2024-21413](https://github.com/MQKGitHub/Moniker-Link-CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/MQKGitHub/Moniker-Link-CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/MQKGitHub/Moniker-Link-CVE-2024-21413">
+- [yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-](https://github.com/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-)	<img alt="forks" src="https://img.shields.io/github/forks/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-">	<img alt="stars" src="https://img.shields.io/github/stars/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
