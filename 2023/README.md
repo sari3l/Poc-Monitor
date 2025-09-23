@@ -3487,6 +3487,7 @@ URL that curl has been told to operate with.
 - [exploitdevelop/CVE-2023-3824](https://github.com/exploitdevelop/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/exploitdevelop/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/exploitdevelop/CVE-2023-3824">
 - [s1mpl3c0d3/cvepoc](https://github.com/s1mpl3c0d3/cvepoc)	<img alt="forks" src="https://img.shields.io/github/forks/s1mpl3c0d3/cvepoc">	<img alt="stars" src="https://img.shields.io/github/stars/s1mpl3c0d3/cvepoc">
 - [bluefish3r/poc-cve](https://github.com/bluefish3r/poc-cve)	<img alt="forks" src="https://img.shields.io/github/forks/bluefish3r/poc-cve">	<img alt="stars" src="https://img.shields.io/github/stars/bluefish3r/poc-cve">
+- [dadosneurais/cve-2023-3824](https://github.com/dadosneurais/cve-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/dadosneurais/cve-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/dadosneurais/cve-2023-3824">
 
 ---
 ## CVE-2023-38146 (2023-09-12T17:15:00)
