@@ -864,6 +864,7 @@
 - [saladin0x1/CVE-2025-53770](https://github.com/saladin0x1/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/saladin0x1/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/saladin0x1/CVE-2025-53770">
 - [go-bi/sharepoint-CVE-2025-53770](https://github.com/go-bi/sharepoint-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/go-bi/sharepoint-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/go-bi/sharepoint-CVE-2025-53770">
 - [yashz0007/CVE-2025-53770-Exploit](https://github.com/yashz0007/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yashz0007/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yashz0007/CVE-2025-53770-Exploit">
+- [taqiaferdianshah/CVE-2025-53770](https://github.com/taqiaferdianshah/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/taqiaferdianshah/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/taqiaferdianshah/CVE-2025-53770">
 
 ---
 ## CVE-2025-53744 ()
