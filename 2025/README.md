@@ -4780,6 +4780,7 @@
 - [B1ack4sh/Blackash-CVE-2025-1974](https://github.com/B1ack4sh/Blackash-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-1974">
 - [Armand2002/Exploit-CVE-2025-1974-Lab](https://github.com/Armand2002/Exploit-CVE-2025-1974-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Armand2002/Exploit-CVE-2025-1974-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Armand2002/Exploit-CVE-2025-1974-Lab">
 - [BiiTts/POC-IngressNightmare-CVE-2025-1974](https://github.com/BiiTts/POC-IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/POC-IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/POC-IngressNightmare-CVE-2025-1974">
+- [iteride/CVE-2025-1974](https://github.com/iteride/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-1974">
 
 ---
 ## CVE-2025-1793 ()
