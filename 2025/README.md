@@ -865,6 +865,7 @@
 - [go-bi/sharepoint-CVE-2025-53770](https://github.com/go-bi/sharepoint-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/go-bi/sharepoint-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/go-bi/sharepoint-CVE-2025-53770">
 - [yashz0007/CVE-2025-53770-Exploit](https://github.com/yashz0007/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yashz0007/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yashz0007/CVE-2025-53770-Exploit">
 - [taqiaferdianshah/CVE-2025-53770](https://github.com/taqiaferdianshah/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/taqiaferdianshah/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/taqiaferdianshah/CVE-2025-53770">
+- [fentnttntnt/CVE-2025-53770](https://github.com/fentnttntnt/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/fentnttntnt/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/fentnttntnt/CVE-2025-53770">
 
 ---
 ## CVE-2025-53744 ()
@@ -2808,6 +2809,7 @@
 - [ibrahimsql/CVE-2025-32432](https://github.com/ibrahimsql/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/CVE-2025-32432">
 - [CTY-Research-1/CVE-2025-32432-PoC](https://github.com/CTY-Research-1/CVE-2025-32432-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CTY-Research-1/CVE-2025-32432-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CTY-Research-1/CVE-2025-32432-PoC">
 - [B1ack4sh/Blackash-CVE-2025-32432](https://github.com/B1ack4sh/Blackash-CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-32432">
+- [bambooqj/CVE-2025-32432](https://github.com/bambooqj/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/bambooqj/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/bambooqj/CVE-2025-32432">
 
 ---
 ## CVE-2025-3243 ()
