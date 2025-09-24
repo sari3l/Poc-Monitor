@@ -134,6 +134,7 @@
 - [m4nbun/CVE-2025-8088](https://github.com/m4nbun/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/m4nbun/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/m4nbun/CVE-2025-8088">
 - [Osinskitito499/CVE-2025-8088](https://github.com/Osinskitito499/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Osinskitito499/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Osinskitito499/CVE-2025-8088">
 - [kay0te/CVE-2025-8088](https://github.com/kay0te/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kay0te/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kay0te/CVE-2025-8088">
+- [pablo388/WinRAR-CVE-2025-8088-PoC-RAR](https://github.com/pablo388/WinRAR-CVE-2025-8088-PoC-RAR)	<img alt="forks" src="https://img.shields.io/github/forks/pablo388/WinRAR-CVE-2025-8088-PoC-RAR">	<img alt="stars" src="https://img.shields.io/github/stars/pablo388/WinRAR-CVE-2025-8088-PoC-RAR">
 
 ---
 ## CVE-2025-8067 ()
