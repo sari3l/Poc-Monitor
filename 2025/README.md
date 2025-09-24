@@ -4928,6 +4928,11 @@
 - [h4xnz/CVE-2025-10533-Exploit](https://github.com/h4xnz/CVE-2025-10533-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-10533-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-10533-Exploit">
 
 ---
+## CVE-2025-10184 ()
+> 
+- [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/People-11/CVE-2025-10184_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/People-11/CVE-2025-10184_PoC">
+
+---
 ## CVE-2025-1015 ()
 > 
 - [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015)	<img alt="forks" src="https://img.shields.io/github/forks/r3m0t3nu11/CVE-2025-1015">	<img alt="stars" src="https://img.shields.io/github/stars/r3m0t3nu11/CVE-2025-1015">
