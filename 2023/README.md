@@ -4594,6 +4594,11 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation)	<img alt="forks" src="https://img.shields.io/github/forks/vi3t1/qq-tim-elevation">	<img alt="stars" src="https://img.shields.io/github/stars/vi3t1/qq-tim-elevation">
 
 ---
+## CVE-2023-34233 ()
+> 
+- [nayankadamm/CVE-2023-34233_Proof_OF_Concept](https://github.com/nayankadamm/CVE-2023-34233_Proof_OF_Concept)	<img alt="forks" src="https://img.shields.io/github/forks/nayankadamm/CVE-2023-34233_Proof_OF_Concept">	<img alt="stars" src="https://img.shields.io/github/stars/nayankadamm/CVE-2023-34233_Proof_OF_Concept">
+
+---
 ## CVE-2023-34212 (2023-06-12T16:15:00)
 > The JndiJmsConnectionFactoryProvider Controller Service, along with the ConsumeJMS and PublishJMS Processors, in Apache NiFi 1.8.0 through 1.21.0 allow an authenticated and authorized user to configure URL and library properties that enable deserialization of untrusted data from a remote location.
 
