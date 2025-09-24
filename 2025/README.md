@@ -576,6 +576,11 @@
 - [0xZeroSec/CVE-2025-55885](https://github.com/0xZeroSec/CVE-2025-55885)	<img alt="forks" src="https://img.shields.io/github/forks/0xZeroSec/CVE-2025-55885">	<img alt="stars" src="https://img.shields.io/github/stars/0xZeroSec/CVE-2025-55885">
 
 ---
+## CVE-2025-55780 ()
+> 
+- [ISH2YU/CVE-2025-55780](https://github.com/ISH2YU/CVE-2025-55780)	<img alt="forks" src="https://img.shields.io/github/forks/ISH2YU/CVE-2025-55780">	<img alt="stars" src="https://img.shields.io/github/stars/ISH2YU/CVE-2025-55780">
+
+---
 ## CVE-2025-55763 ()
 > 
 - [krispybyte/CVE-2025-55763](https://github.com/krispybyte/CVE-2025-55763)	<img alt="forks" src="https://img.shields.io/github/forks/krispybyte/CVE-2025-55763">	<img alt="stars" src="https://img.shields.io/github/stars/krispybyte/CVE-2025-55763">
@@ -2751,6 +2756,7 @@
 - [sarthak4399/CVE-2025-32463](https://github.com/sarthak4399/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/sarthak4399/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/sarthak4399/CVE-2025-32463">
 - [no-speech-to-text/CVE-2025-32463](https://github.com/no-speech-to-text/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/no-speech-to-text/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/no-speech-to-text/CVE-2025-32463">
 - [DaadaAyoze/CVE-2025-32463-lab](https://github.com/DaadaAyoze/CVE-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DaadaAyoze/CVE-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DaadaAyoze/CVE-2025-32463-lab">
+- [nelissandro/CVE-2025-32463-Sudo-Chroot-Escape](https://github.com/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape">
 
 ---
 ## CVE-2025-32462 ()
