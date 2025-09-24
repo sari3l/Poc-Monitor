@@ -4534,6 +4534,7 @@
 - [Yucaerin/CVE-2025-2294](https://github.com/Yucaerin/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-2294">
 - [0xWhoami35/CVE-2025-2294](https://github.com/0xWhoami35/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CVE-2025-2294">
 - [r0otk3r/CVE-2025-2294](https://github.com/r0otk3r/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-2294">
+- [iteride/CVE-2025-2294](https://github.com/iteride/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-2294">
 
 ---
 ## CVE-2025-22870 ()
