@@ -500,6 +500,11 @@
 - [meisterlos/CVE-2025-57392](https://github.com/meisterlos/CVE-2025-57392)	<img alt="forks" src="https://img.shields.io/github/forks/meisterlos/CVE-2025-57392">	<img alt="stars" src="https://img.shields.io/github/stars/meisterlos/CVE-2025-57392">
 
 ---
+## CVE-2025-57174 ()
+> 
+- [semaja22/CVE-2025-57174](https://github.com/semaja22/CVE-2025-57174)	<img alt="forks" src="https://img.shields.io/github/forks/semaja22/CVE-2025-57174">	<img alt="stars" src="https://img.shields.io/github/stars/semaja22/CVE-2025-57174">
+
+---
 ## CVE-2025-57055 ()
 > 
 - [thawphone/CVE-2025-57055](https://github.com/thawphone/CVE-2025-57055)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-57055">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-57055">
