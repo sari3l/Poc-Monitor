@@ -4931,6 +4931,7 @@
 ## CVE-2025-10184 ()
 > 
 - [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/People-11/CVE-2025-10184_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/People-11/CVE-2025-10184_PoC">
+- [yuuouu/OnePush-CVE-2025-10184](https://github.com/yuuouu/OnePush-CVE-2025-10184)	<img alt="forks" src="https://img.shields.io/github/forks/yuuouu/OnePush-CVE-2025-10184">	<img alt="stars" src="https://img.shields.io/github/stars/yuuouu/OnePush-CVE-2025-10184">
 
 ---
 ## CVE-2025-1015 ()
