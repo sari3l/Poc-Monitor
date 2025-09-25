@@ -1160,6 +1160,11 @@
 - [piotrmaciejbednarski/CVE-2025-51529](https://github.com/piotrmaciejbednarski/CVE-2025-51529)	<img alt="forks" src="https://img.shields.io/github/forks/piotrmaciejbednarski/CVE-2025-51529">	<img alt="stars" src="https://img.shields.io/github/stars/piotrmaciejbednarski/CVE-2025-51529">
 
 ---
+## CVE-2025-51495 ()
+> 
+- [cainiao159357/CVE-2025-51495](https://github.com/cainiao159357/CVE-2025-51495)	<img alt="forks" src="https://img.shields.io/github/forks/cainiao159357/CVE-2025-51495">	<img alt="stars" src="https://img.shields.io/github/stars/cainiao159357/CVE-2025-51495">
+
+---
 ## CVE-2025-51482 ()
 > 
 - [Kai-One001/Letta-CVE-2025-51482-RCE](https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kai-One001/Letta-CVE-2025-51482-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kai-One001/Letta-CVE-2025-51482-RCE">
