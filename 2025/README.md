@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-9998 ()
+> 
+- [balajigund/Research-on-CVE-2025-9998](https://github.com/balajigund/Research-on-CVE-2025-9998)	<img alt="forks" src="https://img.shields.io/github/forks/balajigund/Research-on-CVE-2025-9998">	<img alt="stars" src="https://img.shields.io/github/stars/balajigund/Research-on-CVE-2025-9998">
+
+---
 ## CVE-2025-9784 ()
 > 
 - [drackyjr/CVE-2025-9784](https://github.com/drackyjr/CVE-2025-9784)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-9784">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-9784">
