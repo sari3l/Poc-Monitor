@@ -4760,6 +4760,11 @@
 - [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
 
 ---
+## CVE-2025-20352 ()
+> 
+- [scadastrangelove/CVE-2025-20352](https://github.com/scadastrangelove/CVE-2025-20352)	<img alt="forks" src="https://img.shields.io/github/forks/scadastrangelove/CVE-2025-20352">	<img alt="stars" src="https://img.shields.io/github/stars/scadastrangelove/CVE-2025-20352">
+
+---
 ## CVE-2025-20337 ()
 > 
 - [barbaraeivyu/CVE-2025-20337-EXP](https://github.com/barbaraeivyu/CVE-2025-20337-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-20337-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-20337-EXP">
