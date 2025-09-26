@@ -3085,6 +3085,7 @@
 - [r0otk3r/CVE-2025-31161](https://github.com/r0otk3r/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-31161">
 - [f4dee-backup/CVE-2025-31161](https://github.com/f4dee-backup/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-31161">
 - [acan0007/CVE-2025-31161](https://github.com/acan0007/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/acan0007/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/acan0007/CVE-2025-31161">
+- [Teexo/CVE-2025-31161](https://github.com/Teexo/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Teexo/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Teexo/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
