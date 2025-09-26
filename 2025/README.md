@@ -2523,6 +2523,7 @@
 - [brokendreamsclub/CVE-2025-3515](https://github.com/brokendreamsclub/CVE-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/brokendreamsclub/CVE-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/brokendreamsclub/CVE-2025-3515">
 - [ImBIOS/lab-cve-2025-3515](https://github.com/ImBIOS/lab-cve-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2025-3515">
 - [MrSoules/lab-cve-2025-3515](https://github.com/MrSoules/lab-cve-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/MrSoules/lab-cve-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/MrSoules/lab-cve-2025-3515">
+- [robertskimengote/lab-cve-2025-3515](https://github.com/robertskimengote/lab-cve-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/robertskimengote/lab-cve-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/robertskimengote/lab-cve-2025-3515">
 
 ---
 ## CVE-2025-34300 ()
