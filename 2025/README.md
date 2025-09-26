@@ -315,6 +315,7 @@
 ## CVE-2025-6384 ()
 > 
 - [mbadanoiu/CVE-2025-6384](https://github.com/mbadanoiu/CVE-2025-6384)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-6384">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-6384">
+- [maestro-ant/CrafterCMS-CVE-2025-6384](https://github.com/maestro-ant/CrafterCMS-CVE-2025-6384)	<img alt="forks" src="https://img.shields.io/github/forks/maestro-ant/CrafterCMS-CVE-2025-6384">	<img alt="stars" src="https://img.shields.io/github/stars/maestro-ant/CrafterCMS-CVE-2025-6384">
 
 ---
 ## CVE-2025-6335 ()
