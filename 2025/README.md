@@ -567,6 +567,7 @@
 ## CVE-2025-56383 ()
 > 
 - [zer0t0/CVE-2025-56383-Proof-of-Concept](https://github.com/zer0t0/CVE-2025-56383-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/zer0t0/CVE-2025-56383-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/zer0t0/CVE-2025-56383-Proof-of-Concept">
+- [zer0t0/CVE-2025-56383-Proof-of-Concept](https://github.com/zer0t0/CVE-2025-56383-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/zer0t0/CVE-2025-56383-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/zer0t0/CVE-2025-56383-Proof-of-Concept">
 
 ---
 ## CVE-2025-56311 ()
