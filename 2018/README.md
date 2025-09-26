@@ -219,6 +219,7 @@
 - [muhammedkayag/CVE-2018-7600](https://github.com/muhammedkayag/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/muhammedkayag/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/muhammedkayag/CVE-2018-7600">
 - [SyedGhufranRaza/CVE-2018-7600-Remote-Code-Execution](https://github.com/SyedGhufranRaza/CVE-2018-7600-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/SyedGhufranRaza/CVE-2018-7600-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/SyedGhufranRaza/CVE-2018-7600-Remote-Code-Execution">
 - [nika0x38/CVE-2018-7600](https://github.com/nika0x38/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/nika0x38/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/nika0x38/CVE-2018-7600">
+- [tea-celikik/Drupal-Exploit-Lab](https://github.com/tea-celikik/Drupal-Exploit-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/tea-celikik/Drupal-Exploit-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/tea-celikik/Drupal-Exploit-Lab">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
