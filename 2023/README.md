@@ -3985,6 +3985,7 @@ prior to
 - [Nero22k/cve-2023-36802](https://github.com/Nero22k/cve-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/Nero22k/cve-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/Nero22k/cve-2023-36802">
 - [ISH2YU/CVE-2023-36802](https://github.com/ISH2YU/CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/ISH2YU/CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/ISH2YU/CVE-2023-36802">
 - [sahil-mpatki/CVE-2023-36802-MSKSSRV](https://github.com/sahil-mpatki/CVE-2023-36802-MSKSSRV)	<img alt="forks" src="https://img.shields.io/github/forks/sahil-mpatki/CVE-2023-36802-MSKSSRV">	<img alt="stars" src="https://img.shields.io/github/stars/sahil-mpatki/CVE-2023-36802-MSKSSRV">
+- [rahul0xkr/Reproducing-CVE-2023-36802](https://github.com/rahul0xkr/Reproducing-CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/rahul0xkr/Reproducing-CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/rahul0xkr/Reproducing-CVE-2023-36802">
 
 ---
 ## CVE-2023-36761 (2023-09-12T17:15:00)
