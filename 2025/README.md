@@ -545,6 +545,11 @@
 - [shinyColumn/CVE-2025-56803](https://github.com/shinyColumn/CVE-2025-56803)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-56803">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-56803">
 
 ---
+## CVE-2025-56795 ()
+> 
+- [B1tBreaker/CVE-2025-56795](https://github.com/B1tBreaker/CVE-2025-56795)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBreaker/CVE-2025-56795">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBreaker/CVE-2025-56795">
+
+---
 ## CVE-2025-56762 ()
 > 
 - [Shaunak-Chatterjee/CVE-2025-56762](https://github.com/Shaunak-Chatterjee/CVE-2025-56762)	<img alt="forks" src="https://img.shields.io/github/forks/Shaunak-Chatterjee/CVE-2025-56762">	<img alt="stars" src="https://img.shields.io/github/stars/Shaunak-Chatterjee/CVE-2025-56762">
@@ -813,6 +818,7 @@
 - [riemannj/CVE-2025-5419](https://github.com/riemannj/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/riemannj/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/riemannj/CVE-2025-5419">
 - [mistymntncop/CVE-2025-5419](https://github.com/mistymntncop/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2025-5419">
 - [pavan3478/CVE-2025-5419](https://github.com/pavan3478/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/pavan3478/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/pavan3478/CVE-2025-5419">
+- [somprasong-tukman/CVE-2025-5419](https://github.com/somprasong-tukman/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/somprasong-tukman/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/somprasong-tukman/CVE-2025-5419">
 
 ---
 ## CVE-2025-54135 ()
