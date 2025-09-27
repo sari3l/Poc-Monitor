@@ -4819,6 +4819,11 @@
 - [barbaraeivyu/CVE-2025-20337-EXP](https://github.com/barbaraeivyu/CVE-2025-20337-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-20337-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-20337-EXP">
 
 ---
+## CVE-2025-20333 ()
+> 
+- [callinston/CVE-2025-20333](https://github.com/callinston/CVE-2025-20333)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-20333">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-20333">
+
+---
 ## CVE-2025-20286 ()
 > 
 - [amandanegefa/CVE-2025-20286](https://github.com/amandanegefa/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-20286">
