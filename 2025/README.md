@@ -555,6 +555,11 @@
 - [B1tBreaker/CVE-2025-56795](https://github.com/B1tBreaker/CVE-2025-56795)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBreaker/CVE-2025-56795">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBreaker/CVE-2025-56795">
 
 ---
+## CVE-2025-56764 ()
+> 
+- [Remenis/CVE-2025-56764-trivision-nc227wf](https://github.com/Remenis/CVE-2025-56764-trivision-nc227wf)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-56764-trivision-nc227wf">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-56764-trivision-nc227wf">
+
+---
 ## CVE-2025-56762 ()
 > 
 - [Shaunak-Chatterjee/CVE-2025-56762](https://github.com/Shaunak-Chatterjee/CVE-2025-56762)	<img alt="forks" src="https://img.shields.io/github/forks/Shaunak-Chatterjee/CVE-2025-56762">	<img alt="stars" src="https://img.shields.io/github/stars/Shaunak-Chatterjee/CVE-2025-56762">
