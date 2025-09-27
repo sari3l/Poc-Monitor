@@ -375,6 +375,11 @@
 - [B1ack4sh/Blackash-CVE-2025-6018](https://github.com/B1ack4sh/Blackash-CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6018">
 
 ---
+## CVE-2025-59843 ()
+> 
+- [At0mXploit/CVE-2025-59843-CVE-2025-59932](https://github.com/At0mXploit/CVE-2025-59843-CVE-2025-59932)	<img alt="forks" src="https://img.shields.io/github/forks/At0mXploit/CVE-2025-59843-CVE-2025-59932">	<img alt="stars" src="https://img.shields.io/github/stars/At0mXploit/CVE-2025-59843-CVE-2025-59932">
+
+---
 ## CVE-2025-5964 ()
 > 
 - [byteReaper77/CVE-2025-5964-](https://github.com/byteReaper77/CVE-2025-5964-)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-5964-">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-5964-">
@@ -1007,6 +1012,11 @@
 ## CVE-2025-5309 ()
 > 
 - [issamjr/CVE-2025-5309-Scanner](https://github.com/issamjr/CVE-2025-5309-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-5309-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-5309-Scanner">
+
+---
+## CVE-2025-5304 ()
+> 
+- [Nxploited/CVE-2025-5304](https://github.com/Nxploited/CVE-2025-5304)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5304">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5304">
 
 ---
 ## CVE-2025-52970 ()
