@@ -1985,6 +1985,7 @@
 ## CVE-2025-4606 ()
 > 
 - [Yucaerin/CVE-2025-4606](https://github.com/Yucaerin/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4606">
+- [UcenHaxor07/CVE-2025-4606](https://github.com/UcenHaxor07/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/UcenHaxor07/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/UcenHaxor07/CVE-2025-4606">
 
 ---
 ## CVE-2025-46047 ()
