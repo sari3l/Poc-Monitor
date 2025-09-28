@@ -1076,6 +1076,11 @@
 - [cyberharsh/Mini_httpd-CVE-2018-18778](https://github.com/cyberharsh/Mini_httpd-CVE-2018-18778)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Mini_httpd-CVE-2018-18778">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Mini_httpd-CVE-2018-18778">
 
 ---
+## CVE-2018-18441 ()
+> 
+- [bayazid-bit/CVE-2018-18441-exploit](https://github.com/bayazid-bit/CVE-2018-18441-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bayazid-bit/CVE-2018-18441-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bayazid-bit/CVE-2018-18441-exploit">
+
+---
 ## CVE-2018-18333 (2019-02-05T22:29:00)
 > A DLL hijacking vulnerability in Trend Micro Security 2019 (Consumer) versions below 15.0.0.1163 and below could allow an attacker to manipulate a specific DLL and escalate privileges on vulnerable installations.
 - [mrx04programmer/Dr.DLL-CVE-2018-18333](https://github.com/mrx04programmer/Dr.DLL-CVE-2018-18333)	<img alt="forks" src="https://img.shields.io/github/forks/mrx04programmer/Dr.DLL-CVE-2018-18333">	<img alt="stars" src="https://img.shields.io/github/stars/mrx04programmer/Dr.DLL-CVE-2018-18333">
