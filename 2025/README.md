@@ -545,6 +545,11 @@
 - [xiaoxiaoranxxx/CVE-2025-56815](https://github.com/xiaoxiaoranxxx/CVE-2025-56815)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiaoranxxx/CVE-2025-56815">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiaoranxxx/CVE-2025-56815">
 
 ---
+## CVE-2025-56807 ()
+> 
+- [aqwainfosec/CVE-2025-56807](https://github.com/aqwainfosec/CVE-2025-56807)	<img alt="forks" src="https://img.shields.io/github/forks/aqwainfosec/CVE-2025-56807">	<img alt="stars" src="https://img.shields.io/github/stars/aqwainfosec/CVE-2025-56807">
+
+---
 ## CVE-2025-56803 ()
 > 
 - [shinyColumn/CVE-2025-56803](https://github.com/shinyColumn/CVE-2025-56803)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-56803">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-56803">
