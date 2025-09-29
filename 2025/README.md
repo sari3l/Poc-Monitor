@@ -21,6 +21,11 @@
 - [barbaraeivyu/CVE-2025-9491](https://github.com/barbaraeivyu/CVE-2025-9491)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-9491">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-9491">
 
 ---
+## CVE-2025-9267 ()
+> 
+- [Tiger3080/CVE-2025-9267](https://github.com/Tiger3080/CVE-2025-9267)	<img alt="forks" src="https://img.shields.io/github/forks/Tiger3080/CVE-2025-9267">	<img alt="stars" src="https://img.shields.io/github/stars/Tiger3080/CVE-2025-9267">
+
+---
 ## CVE-2025-9132 ()
 > 
 - [barbaraeivyu/CVE-2025-9132](https://github.com/barbaraeivyu/CVE-2025-9132)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-9132">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-9132">
