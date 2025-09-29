@@ -2931,6 +2931,11 @@ seconds of becoming unavailable.
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">
 
 ---
+## CVE-2023-40289 ()
+> 
+- [s-hamann/CVE-2023-40289](https://github.com/s-hamann/CVE-2023-40289)	<img alt="forks" src="https://img.shields.io/github/forks/s-hamann/CVE-2023-40289">	<img alt="stars" src="https://img.shields.io/github/stars/s-hamann/CVE-2023-40289">
+
+---
 ## CVE-2023-40280 (2024-03-19T01:15:00)
 > An issue was discovered in OpenClinic GA 5.247.01. An attacker can perform a directory path traversal via the Page parameter in a GET request to popup.jsp.
 - [BugBountyHunterCVE/CVE-2023-40280](https://github.com/BugBountyHunterCVE/CVE-2023-40280)	<img alt="forks" src="https://img.shields.io/github/forks/BugBountyHunterCVE/CVE-2023-40280">	<img alt="stars" src="https://img.shields.io/github/stars/BugBountyHunterCVE/CVE-2023-40280">
