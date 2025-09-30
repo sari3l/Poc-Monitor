@@ -602,6 +602,11 @@
 - [Userr404/CVE-2025-56605](https://github.com/Userr404/CVE-2025-56605)	<img alt="forks" src="https://img.shields.io/github/forks/Userr404/CVE-2025-56605">	<img alt="stars" src="https://img.shields.io/github/stars/Userr404/CVE-2025-56605">
 
 ---
+## CVE-2025-56588 ()
+> 
+- [PhDg1410/CVE-2025-56588](https://github.com/PhDg1410/CVE-2025-56588)	<img alt="forks" src="https://img.shields.io/github/forks/PhDg1410/CVE-2025-56588">	<img alt="stars" src="https://img.shields.io/github/stars/PhDg1410/CVE-2025-56588">
+
+---
 ## CVE-2025-56435 ()
 > 
 - [Jingyi-u/-CVE-2025-56435](https://github.com/Jingyi-u/-CVE-2025-56435)	<img alt="forks" src="https://img.shields.io/github/forks/Jingyi-u/-CVE-2025-56435">	<img alt="stars" src="https://img.shields.io/github/stars/Jingyi-u/-CVE-2025-56435">
