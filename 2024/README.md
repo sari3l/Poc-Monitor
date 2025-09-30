@@ -5709,6 +5709,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [x0da6h/POC-for-CVE-2024-32019](https://github.com/x0da6h/POC-for-CVE-2024-32019)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2024-32019">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2024-32019">
 - [T1erno/CVE-2024-32019-Netdata-ndsudo-Privilege-Escalation-PoC](https://github.com/T1erno/CVE-2024-32019-Netdata-ndsudo-Privilege-Escalation-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/T1erno/CVE-2024-32019-Netdata-ndsudo-Privilege-Escalation-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/T1erno/CVE-2024-32019-Netdata-ndsudo-Privilege-Escalation-PoC">
 - [hexared/hexared-CVE-2024-32019_poc](https://github.com/hexared/hexared-CVE-2024-32019_poc)	<img alt="forks" src="https://img.shields.io/github/forks/hexared/hexared-CVE-2024-32019_poc">	<img alt="stars" src="https://img.shields.io/github/stars/hexared/hexared-CVE-2024-32019_poc">
+- [hexared/CVE-2024-32019_poc](https://github.com/hexared/CVE-2024-32019_poc)	<img alt="forks" src="https://img.shields.io/github/forks/hexared/CVE-2024-32019_poc">	<img alt="stars" src="https://img.shields.io/github/stars/hexared/CVE-2024-32019_poc">
 
 ---
 ## CVE-2024-32004 (2024-05-14T19:15:00)
