@@ -356,6 +356,7 @@
 - [VanishedPeople/CVE-2017-7269](https://github.com/VanishedPeople/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/VanishedPeople/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/VanishedPeople/CVE-2017-7269">
 - [geniuszlyy/CVE-2017-7269](https://github.com/geniuszlyy/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2017-7269">
 - [AxthonyV/CVE-2017-7269](https://github.com/AxthonyV/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2017-7269">
+- [nika0x38/CVE-2017-7269](https://github.com/nika0x38/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/nika0x38/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/nika0x38/CVE-2017-7269">
 
 ---
 ## CVE-2017-7184 ()
