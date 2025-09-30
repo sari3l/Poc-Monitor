@@ -515,6 +515,11 @@
 - [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/cve-2025-5755">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/cve-2025-5755">
 
 ---
+## CVE-2025-57529 ()
+> 
+- [songqb-xx/CVE-2025-57529](https://github.com/songqb-xx/CVE-2025-57529)	<img alt="forks" src="https://img.shields.io/github/forks/songqb-xx/CVE-2025-57529">	<img alt="stars" src="https://img.shields.io/github/stars/songqb-xx/CVE-2025-57529">
+
+---
 ## CVE-2025-57520 ()
 > 
 - [onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-](https://github.com/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-)	<img alt="forks" src="https://img.shields.io/github/forks/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">	<img alt="stars" src="https://img.shields.io/github/stars/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">
@@ -1643,6 +1648,7 @@
 - [mrk336/CVE-2025-48799](https://github.com/mrk336/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-48799">
 - [mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat](https://github.com/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat">
 - [ukisshinaah/CVE-2025-48799](https://github.com/ukisshinaah/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/ukisshinaah/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/ukisshinaah/CVE-2025-48799">
+- [gmh5225/CVE-2025-48799-](https://github.com/gmh5225/CVE-2025-48799-)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-48799-">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-48799-">
 
 ---
 ## CVE-2025-48708 ()
