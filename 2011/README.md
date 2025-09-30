@@ -37,6 +37,11 @@
 - [shoucheng3/spring-projects__spring-security_CVE-2011-2732_2-0-6-RELEASE](https://github.com/shoucheng3/spring-projects__spring-security_CVE-2011-2732_2-0-6-RELEASE)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/spring-projects__spring-security_CVE-2011-2732_2-0-6-RELEASE">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/spring-projects__spring-security_CVE-2011-2732_2-0-6-RELEASE">
 
 ---
+## CVE-2011-2553 ()
+> 
+- [carlosrpastrana/cve-2011-2553](https://github.com/carlosrpastrana/cve-2011-2553)	<img alt="forks" src="https://img.shields.io/github/forks/carlosrpastrana/cve-2011-2553">	<img alt="stars" src="https://img.shields.io/github/stars/carlosrpastrana/cve-2011-2553">
+
+---
 ## CVE-2011-2523 (2019-11-27T21:15:00)
 > vsftpd 2.3.4 downloaded between 20110630 and 20110703 contains a backdoor which opens a shell on port 6200/tcp.
 - [padsalatushal/CVE-2011-2523](https://github.com/padsalatushal/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/padsalatushal/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/padsalatushal/CVE-2011-2523">
