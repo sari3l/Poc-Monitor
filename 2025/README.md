@@ -2931,6 +2931,7 @@
 - [nelissandro/CVE-2025-32463-Sudo-Chroot-Escape](https://github.com/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape">
 - [AC8999/CVE-2025-32463](https://github.com/AC8999/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-32463">
 - [onniio/CVE-2025-32463](https://github.com/onniio/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-32463">
+- [onniio/CVE-2025-32463](https://github.com/onniio/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
