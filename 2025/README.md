@@ -463,6 +463,11 @@
 - [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-5815-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-5815-Nuclei-Template">
 
 ---
+## CVE-2025-57926 ()
+> 
+- [quetuan03/CVE-2025-57926](https://github.com/quetuan03/CVE-2025-57926)	<img alt="forks" src="https://img.shields.io/github/forks/quetuan03/CVE-2025-57926">	<img alt="stars" src="https://img.shields.io/github/stars/quetuan03/CVE-2025-57926">
+
+---
 ## CVE-2025-57833 ()
 > 
 - [Mkway/CVE-2025-57833](https://github.com/Mkway/CVE-2025-57833)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2025-57833">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2025-57833">
@@ -820,6 +825,11 @@
 ## CVE-2025-54726 ()
 > 
 - [RandomRobbieBF/CVE-2025-54726](https://github.com/RandomRobbieBF/CVE-2025-54726)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-54726">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-54726">
+
+---
+## CVE-2025-54677 ()
+> 
+- [quetuan03/CVE-2025-54677](https://github.com/quetuan03/CVE-2025-54677)	<img alt="forks" src="https://img.shields.io/github/forks/quetuan03/CVE-2025-54677">	<img alt="stars" src="https://img.shields.io/github/stars/quetuan03/CVE-2025-54677">
 
 ---
 ## CVE-2025-54589 ()
