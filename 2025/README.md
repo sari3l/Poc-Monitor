@@ -654,6 +654,11 @@
 - [zer0t0/CVE-2025-56383-Proof-of-Concept](https://github.com/zer0t0/CVE-2025-56383-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/zer0t0/CVE-2025-56383-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/zer0t0/CVE-2025-56383-Proof-of-Concept">
 
 ---
+## CVE-2025-56379 ()
+> 
+- [MoAlali/CVE-2025-56379](https://github.com/MoAlali/CVE-2025-56379)	<img alt="forks" src="https://img.shields.io/github/forks/MoAlali/CVE-2025-56379">	<img alt="stars" src="https://img.shields.io/github/stars/MoAlali/CVE-2025-56379">
+
+---
 ## CVE-2025-56311 ()
 > 
 - [wrathfulDiety/CVE-2025-56311](https://github.com/wrathfulDiety/CVE-2025-56311)	<img alt="forks" src="https://img.shields.io/github/forks/wrathfulDiety/CVE-2025-56311">	<img alt="stars" src="https://img.shields.io/github/stars/wrathfulDiety/CVE-2025-56311">
