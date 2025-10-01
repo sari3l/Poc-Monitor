@@ -423,6 +423,11 @@
 - [allinsthon/CVE-2025-59251](https://github.com/allinsthon/CVE-2025-59251)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-59251">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-59251">
 
 ---
+## CVE-2025-58788 ()
+> 
+- [quetuan03/CVE-2025-58788](https://github.com/quetuan03/CVE-2025-58788)	<img alt="forks" src="https://img.shields.io/github/forks/quetuan03/CVE-2025-58788">	<img alt="stars" src="https://img.shields.io/github/stars/quetuan03/CVE-2025-58788">
+
+---
 ## CVE-2025-58780 ()
 > 
 - [SexyShoelessGodofWar/CVE-2025-58780](https://github.com/SexyShoelessGodofWar/CVE-2025-58780)	<img alt="forks" src="https://img.shields.io/github/forks/SexyShoelessGodofWar/CVE-2025-58780">	<img alt="stars" src="https://img.shields.io/github/stars/SexyShoelessGodofWar/CVE-2025-58780">
