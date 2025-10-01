@@ -2835,6 +2835,7 @@
 - [EQSTLab/CVE-2025-3248](https://github.com/EQSTLab/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-3248">
 - [wand3rlust/CVE-2025-3248](https://github.com/wand3rlust/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/wand3rlust/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/wand3rlust/CVE-2025-3248">
 - [Kiraly07/Demo_CVE-2025-3248](https://github.com/Kiraly07/Demo_CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Kiraly07/Demo_CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Kiraly07/Demo_CVE-2025-3248">
+- [Kiraly07/Demo_CVE-2025-3248](https://github.com/Kiraly07/Demo_CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Kiraly07/Demo_CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Kiraly07/Demo_CVE-2025-3248">
 
 ---
 ## CVE-2025-32463 ()
