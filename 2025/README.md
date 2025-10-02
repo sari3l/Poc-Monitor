@@ -114,6 +114,11 @@
 - [byteReaper77/CVE-2025-8471](https://github.com/byteReaper77/CVE-2025-8471)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8471">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8471">
 
 ---
+## CVE-2025-8359 ()
+> 
+- [Nxploited/CVE-2025-8359](https://github.com/Nxploited/CVE-2025-8359)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-8359">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-8359">
+
+---
 ## CVE-2025-8191 ()
 > 
 - [byteReaper77/CVE-2025-8191](https://github.com/byteReaper77/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8191">
