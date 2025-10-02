@@ -4377,6 +4377,7 @@
 - [b0ySie7e/CVE-2025-24893](https://github.com/b0ySie7e/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/CVE-2025-24893">
 - [andwati/CVE-2025-24893](https://github.com/andwati/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/andwati/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/andwati/CVE-2025-24893">
 - [Bishben/xwiki-15.10.8-reverse-shell-cve-2025-24893](https://github.com/Bishben/xwiki-15.10.8-reverse-shell-cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Bishben/xwiki-15.10.8-reverse-shell-cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Bishben/xwiki-15.10.8-reverse-shell-cve-2025-24893">
+- [gotr00t0day/CVE-2025-24893](https://github.com/gotr00t0day/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
