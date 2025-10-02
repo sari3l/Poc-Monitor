@@ -545,6 +545,11 @@
 - [sanchitsahni/CVE-2025-57515](https://github.com/sanchitsahni/CVE-2025-57515)	<img alt="forks" src="https://img.shields.io/github/forks/sanchitsahni/CVE-2025-57515">	<img alt="stars" src="https://img.shields.io/github/stars/sanchitsahni/CVE-2025-57515">
 
 ---
+## CVE-2025-57457 ()
+> 
+- [restdone/CVE-2025-57457](https://github.com/restdone/CVE-2025-57457)	<img alt="forks" src="https://img.shields.io/github/forks/restdone/CVE-2025-57457">	<img alt="stars" src="https://img.shields.io/github/stars/restdone/CVE-2025-57457">
+
+---
 ## CVE-2025-57392 ()
 > 
 - [meisterlos/CVE-2025-57392](https://github.com/meisterlos/CVE-2025-57392)	<img alt="forks" src="https://img.shields.io/github/forks/meisterlos/CVE-2025-57392">	<img alt="stars" src="https://img.shields.io/github/stars/meisterlos/CVE-2025-57392">
