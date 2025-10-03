@@ -217,6 +217,8 @@
 > 
 - [Yuri08loveElaina/CVE-2025-7771](https://github.com/Yuri08loveElaina/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-7771">
 - [Gabriel-Lacorte/CVE-2025-7771](https://github.com/Gabriel-Lacorte/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lacorte/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lacorte/CVE-2025-7771">
+- [Demoo1337/ThrottleStop](https://github.com/Demoo1337/ThrottleStop)	<img alt="forks" src="https://img.shields.io/github/forks/Demoo1337/ThrottleStop">	<img alt="stars" src="https://img.shields.io/github/stars/Demoo1337/ThrottleStop">
+- [fxrstor/ThrottleStopPoC](https://github.com/fxrstor/ThrottleStopPoC)	<img alt="forks" src="https://img.shields.io/github/forks/fxrstor/ThrottleStopPoC">	<img alt="stars" src="https://img.shields.io/github/stars/fxrstor/ThrottleStopPoC">
 
 ---
 ## CVE-2025-7769 ()
