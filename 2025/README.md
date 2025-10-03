@@ -243,6 +243,11 @@
 - [sunhuiHi666/CVE-2025-7605](https://github.com/sunhuiHi666/CVE-2025-7605)	<img alt="forks" src="https://img.shields.io/github/forks/sunhuiHi666/CVE-2025-7605">	<img alt="stars" src="https://img.shields.io/github/stars/sunhuiHi666/CVE-2025-7605">
 
 ---
+## CVE-2025-7558 ()
+> 
+- [rundas-r00t/CVE-2025-7558-PoC](https://github.com/rundas-r00t/CVE-2025-7558-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/rundas-r00t/CVE-2025-7558-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/rundas-r00t/CVE-2025-7558-PoC">
+
+---
 ## CVE-2025-7461 ()
 > 
 - [bx33661/CVE-2025-7461](https://github.com/bx33661/CVE-2025-7461)	<img alt="forks" src="https://img.shields.io/github/forks/bx33661/CVE-2025-7461">	<img alt="stars" src="https://img.shields.io/github/stars/bx33661/CVE-2025-7461">
@@ -368,6 +373,11 @@
 ## CVE-2025-6082 ()
 > 
 - [byteReaper77/CVE-2025-6082](https://github.com/byteReaper77/CVE-2025-6082)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-6082">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-6082">
+
+---
+## CVE-2025-60787 ()
+> 
+- [prabhatverma47/CVE-2025-60787](https://github.com/prabhatverma47/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-60787">
 
 ---
 ## CVE-2025-6058 ()
