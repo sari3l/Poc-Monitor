@@ -5212,6 +5212,7 @@
 > 
 - [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/People-11/CVE-2025-10184_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/People-11/CVE-2025-10184_PoC">
 - [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)	<img alt="forks" src="https://img.shields.io/github/forks/yuuouu/ColorOS-CVE-2025-10184">	<img alt="stars" src="https://img.shields.io/github/stars/yuuouu/ColorOS-CVE-2025-10184">
+- [Webpage-gh/CVE-2025-10184-PoC](https://github.com/Webpage-gh/CVE-2025-10184-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Webpage-gh/CVE-2025-10184-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Webpage-gh/CVE-2025-10184-PoC">
 
 ---
 ## CVE-2025-1015 ()
