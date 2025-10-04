@@ -492,6 +492,11 @@
 - [kaylertee/Computer-Security-Equifax-2017](https://github.com/kaylertee/Computer-Security-Equifax-2017)	<img alt="forks" src="https://img.shields.io/github/forks/kaylertee/Computer-Security-Equifax-2017">	<img alt="stars" src="https://img.shields.io/github/stars/kaylertee/Computer-Security-Equifax-2017">
 
 ---
+## CVE-2017-5618 ()
+> 
+- [RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit](https://github.com/RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit">
+
+---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
 > wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php in the REST API implementation in WordPress 4.7 before 4.7.1 does not properly restrict listings of post authors, which allows remote attackers to obtain sensitive information via a wp-json/wp/v2/users request.
 - [kr4dd/CVE-2017-5487](https://github.com/kr4dd/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/kr4dd/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/kr4dd/CVE-2017-5487">
