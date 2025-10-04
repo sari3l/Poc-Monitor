@@ -4826,6 +4826,8 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [cochaviz/cve-2024-36401-poc](https://github.com/cochaviz/cve-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cochaviz/cve-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cochaviz/cve-2024-36401-poc">
 - [lowsuet/CVE-2024-36401](https://github.com/lowsuet/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/lowsuet/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/lowsuet/CVE-2024-36401">
 - [holokitty/Exploit-CVE-2024-36401](https://github.com/holokitty/Exploit-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/holokitty/Exploit-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/holokitty/Exploit-CVE-2024-36401">
+- [URJACK2025/CVE-2024-36401](https://github.com/URJACK2025/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/URJACK2025/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/URJACK2025/CVE-2024-36401">
+- [funnyDog896/CVE-2024-36401-WoodpeckerPlugin](https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin)	<img alt="forks" src="https://img.shields.io/github/forks/funnyDog896/CVE-2024-36401-WoodpeckerPlugin">	<img alt="stars" src="https://img.shields.io/github/stars/funnyDog896/CVE-2024-36401-WoodpeckerPlugin">
 
 ---
 ## CVE-2024-3640 ()
