@@ -3440,7 +3440,7 @@
 - [B1ack4sh/Blackash-CVE-2025-30208](https://github.com/B1ack4sh/Blackash-CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-30208">
 - [ThemeHackers/CVE-2025-30208](https://github.com/ThemeHackers/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-30208">
 - [TH-SecForge/CVE-2025-30208](https://github.com/TH-SecForge/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-30208">
-- [gonn4cry/CVE-2025-30208](https://github.com/gonn4cry/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/gonn4cry/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/gonn4cry/CVE-2025-30208">
+- [bugdotexe/CVE-2025-30208](https://github.com/bugdotexe/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/bugdotexe/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/bugdotexe/CVE-2025-30208">
 - [Dany60-98/CVE-2025-30208-EXP](https://github.com/Dany60-98/CVE-2025-30208-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Dany60-98/CVE-2025-30208-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Dany60-98/CVE-2025-30208-EXP">
 
 ---
