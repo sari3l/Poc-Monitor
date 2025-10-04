@@ -2575,6 +2575,11 @@
 - [realcodeb0ss/CVE-2025-4009](https://github.com/realcodeb0ss/CVE-2025-4009)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-4009">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-4009">
 
 ---
+## CVE-2025-39946 ()
+> 
+- [farazsth98/exploit-CVE-2025-39946](https://github.com/farazsth98/exploit-CVE-2025-39946)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/exploit-CVE-2025-39946">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/exploit-CVE-2025-39946">
+
+---
 ## CVE-2025-39866 ()
 > 
 - [byteReaper77/CVE-2025-39866](https://github.com/byteReaper77/CVE-2025-39866)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-39866">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-39866">
