@@ -494,7 +494,7 @@
 ---
 ## CVE-2017-5618 ()
 > 
-- [RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit](https://github.com/RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit">
+- [RXDarkee/CVE-2017-5618-Screen-4.5.0-Root](https://github.com/RXDarkee/CVE-2017-5618-Screen-4.5.0-Root)	<img alt="forks" src="https://img.shields.io/github/forks/RXDarkee/CVE-2017-5618-Screen-4.5.0-Root">	<img alt="stars" src="https://img.shields.io/github/stars/RXDarkee/CVE-2017-5618-Screen-4.5.0-Root">
 
 ---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
