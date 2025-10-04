@@ -519,6 +519,7 @@
 - [watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819](https://github.com/watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819">
 - [xV4nd3Rx/CVE-2025-57819_FreePBX-PoC](https://github.com/xV4nd3Rx/CVE-2025-57819_FreePBX-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xV4nd3Rx/CVE-2025-57819_FreePBX-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xV4nd3Rx/CVE-2025-57819_FreePBX-PoC">
 - [orange0Mint/CVE-2025-57819_FreePBX](https://github.com/orange0Mint/CVE-2025-57819_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/orange0Mint/CVE-2025-57819_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/orange0Mint/CVE-2025-57819_FreePBX">
+- [JakovBis/CVE-2025-57819_FreePBX-PoC](https://github.com/JakovBis/CVE-2025-57819_FreePBX-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JakovBis/CVE-2025-57819_FreePBX-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JakovBis/CVE-2025-57819_FreePBX-PoC">
 
 ---
 ## CVE-2025-57773 ()
