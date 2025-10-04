@@ -553,6 +553,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-7627 ()
 > 
 - [siunam321/CVE-2024-7627-PoC](https://github.com/siunam321/CVE-2024-7627-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/siunam321/CVE-2024-7627-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/siunam321/CVE-2024-7627-PoC">
+- [lkmn1/CVE-2024-7627](https://github.com/lkmn1/CVE-2024-7627)	<img alt="forks" src="https://img.shields.io/github/forks/lkmn1/CVE-2024-7627">	<img alt="stars" src="https://img.shields.io/github/stars/lkmn1/CVE-2024-7627">
 
 ---
 ## CVE-2024-7617 (2024-09-25T03:15:00)
