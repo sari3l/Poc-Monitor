@@ -1009,6 +1009,7 @@
 - [Jaonsd/Slient-URL-Exploit](https://github.com/Jaonsd/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/Slient-URL-Exploit">
 - [Jaonsd/Discord-Image-Logger-Stealer](https://github.com/Jaonsd/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/Discord-Image-Logger-Stealer">
 - [Jaonsd/HTA-Exploit](https://github.com/Jaonsd/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/HTA-Exploit">
+- [d4ngkh04w/CVE-2021-44228-Apache-Log4j](https://github.com/d4ngkh04w/CVE-2021-44228-Apache-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/d4ngkh04w/CVE-2021-44228-Apache-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/d4ngkh04w/CVE-2021-44228-Apache-Log4j">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
