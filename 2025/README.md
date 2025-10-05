@@ -5118,6 +5118,11 @@
 - [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
 
 ---
+## CVE-2025-1338 ()
+> 
+- [jxcaxtc/CVE-2025-1338](https://github.com/jxcaxtc/CVE-2025-1338)	<img alt="forks" src="https://img.shields.io/github/forks/jxcaxtc/CVE-2025-1338">	<img alt="stars" src="https://img.shields.io/github/stars/jxcaxtc/CVE-2025-1338">
+
+---
 ## CVE-2025-1337 ()
 > 
 - [ada-z3r0/CVE-2025-1337-PoC](https://github.com/ada-z3r0/CVE-2025-1337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ada-z3r0/CVE-2025-1337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ada-z3r0/CVE-2025-1337-PoC">
