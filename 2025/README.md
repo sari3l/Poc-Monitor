@@ -718,6 +718,7 @@
 ## CVE-2025-56132 ()
 > 
 - [fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC](https://github.com/fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC">
+- [fredericgoossens/CVE-2025-56132-Liquidfiles](https://github.com/fredericgoossens/CVE-2025-56132-Liquidfiles)	<img alt="forks" src="https://img.shields.io/github/forks/fredericgoossens/CVE-2025-56132-Liquidfiles">	<img alt="stars" src="https://img.shields.io/github/stars/fredericgoossens/CVE-2025-56132-Liquidfiles">
 
 ---
 ## CVE-2025-56019 ()
