@@ -715,6 +715,11 @@
 - [wrathfulDiety/CVE-2025-56311](https://github.com/wrathfulDiety/CVE-2025-56311)	<img alt="forks" src="https://img.shields.io/github/forks/wrathfulDiety/CVE-2025-56311">	<img alt="stars" src="https://img.shields.io/github/stars/wrathfulDiety/CVE-2025-56311">
 
 ---
+## CVE-2025-56132 ()
+> 
+- [fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC](https://github.com/fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC">
+
+---
 ## CVE-2025-56019 ()
 > 
 - [Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019](https://github.com/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019)	<img alt="forks" src="https://img.shields.io/github/forks/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">	<img alt="stars" src="https://img.shields.io/github/stars/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">
