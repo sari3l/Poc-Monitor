@@ -375,6 +375,11 @@
 - [absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE](https://github.com/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">
 
 ---
+## CVE-2025-61882 ()
+> 
+- [rxerium/CVE-2025-61882](https://github.com/rxerium/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-61882">
+
+---
 ## CVE-2025-6085 ()
 > 
 - [d0n601/CVE-2025-6085](https://github.com/d0n601/CVE-2025-6085)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-6085">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-6085">
