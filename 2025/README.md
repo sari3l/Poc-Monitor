@@ -786,6 +786,11 @@
 - [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-55668">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-55668">
 
 ---
+## CVE-2025-55616 ()
+> 
+- [livepwn/CVE-2025-55616](https://github.com/livepwn/CVE-2025-55616)	<img alt="forks" src="https://img.shields.io/github/forks/livepwn/CVE-2025-55616">	<img alt="stars" src="https://img.shields.io/github/stars/livepwn/CVE-2025-55616">
+
+---
 ## CVE-2025-55580 ()
 > 
 - [ddobrev25/CVE-2025-55580](https://github.com/ddobrev25/CVE-2025-55580)	<img alt="forks" src="https://img.shields.io/github/forks/ddobrev25/CVE-2025-55580">	<img alt="stars" src="https://img.shields.io/github/stars/ddobrev25/CVE-2025-55580">
