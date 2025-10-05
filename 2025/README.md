@@ -1173,6 +1173,7 @@
 - [Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass](https://github.com/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">
 - [Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-](https://github.com/Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/Authentication-Bypass-in-FortiWeb-CVE-2025-52970-">
 - [34zY/CVE-2025-52970](https://github.com/34zY/CVE-2025-52970)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2025-52970">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2025-52970">
+- [imbas007/POC-CVE-2025-52970](https://github.com/imbas007/POC-CVE-2025-52970)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-52970">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-52970">
 
 ---
 ## CVE-2025-52914 ()
