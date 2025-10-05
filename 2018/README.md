@@ -1243,6 +1243,7 @@
 - [ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-](https://github.com/ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-">
 - [andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe](https://github.com/andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe">
 - [B7T3/CVE-2018-16763_FuelCMS-1.4.1_RCE](https://github.com/B7T3/CVE-2018-16763_FuelCMS-1.4.1_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/B7T3/CVE-2018-16763_FuelCMS-1.4.1_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/B7T3/CVE-2018-16763_FuelCMS-1.4.1_RCE">
+- [Cyberuser-hash/CVE-2018-16763](https://github.com/Cyberuser-hash/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberuser-hash/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberuser-hash/CVE-2018-16763">
 
 ---
 ## CVE-2018-16621 ()
