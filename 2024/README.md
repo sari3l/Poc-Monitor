@@ -6506,6 +6506,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [l0n3m4n/CVE-2024-30088](https://github.com/l0n3m4n/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-30088">
 - [Justintroup85/exploits-forsale-collateral-damage](https://github.com/Justintroup85/exploits-forsale-collateral-damage)	<img alt="forks" src="https://img.shields.io/github/forks/Justintroup85/exploits-forsale-collateral-damage">	<img alt="stars" src="https://img.shields.io/github/stars/Justintroup85/exploits-forsale-collateral-damage">
 - [l0n3m4n/CVE-2024-30088](https://github.com/l0n3m4n/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-30088">
+- [ramzihafiz/cve-2024-30088-binary](https://github.com/ramzihafiz/cve-2024-30088-binary)	<img alt="forks" src="https://img.shields.io/github/forks/ramzihafiz/cve-2024-30088-binary">	<img alt="stars" src="https://img.shields.io/github/stars/ramzihafiz/cve-2024-30088-binary">
 
 ---
 ## CVE-2024-30085 ()
