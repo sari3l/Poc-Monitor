@@ -1906,6 +1906,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 ## CVE-2023-45612 ()
 > 
 - [infernosalex/CVE-2023-45612-PoC](https://github.com/infernosalex/CVE-2023-45612-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/infernosalex/CVE-2023-45612-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/infernosalex/CVE-2023-45612-PoC">
+- [bbugdigger/ktor-xxe-poc](https://github.com/bbugdigger/ktor-xxe-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bbugdigger/ktor-xxe-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bbugdigger/ktor-xxe-poc">
 
 ---
 ## CVE-2023-45603 (2023-12-20T19:15:00)
