@@ -1369,6 +1369,11 @@
 - [Malayke/CVE-2025-51591-Pandoc-SSRF-POC](https://github.com/Malayke/CVE-2025-51591-Pandoc-SSRF-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2025-51591-Pandoc-SSRF-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2025-51591-Pandoc-SSRF-POC">
 
 ---
+## CVE-2025-51586 ()
+> 
+- [7h30th3r0n3/CVE-2025-51586-PrestaShop-PoC](https://github.com/7h30th3r0n3/CVE-2025-51586-PrestaShop-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/7h30th3r0n3/CVE-2025-51586-PrestaShop-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/7h30th3r0n3/CVE-2025-51586-PrestaShop-PoC">
+
+---
 ## CVE-2025-51529 ()
 > 
 - [piotrmaciejbednarski/CVE-2025-51529](https://github.com/piotrmaciejbednarski/CVE-2025-51529)	<img alt="forks" src="https://img.shields.io/github/forks/piotrmaciejbednarski/CVE-2025-51529">	<img alt="stars" src="https://img.shields.io/github/stars/piotrmaciejbednarski/CVE-2025-51529">
