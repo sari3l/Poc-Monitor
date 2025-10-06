@@ -1903,6 +1903,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45657">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45657">
 
 ---
+## CVE-2023-45612 ()
+> 
+- [infernosalex/CVE-2023-45612-PoC](https://github.com/infernosalex/CVE-2023-45612-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/infernosalex/CVE-2023-45612-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/infernosalex/CVE-2023-45612-PoC">
+
+---
 ## CVE-2023-45603 (2023-12-20T19:15:00)
 > Unrestricted Upload of File with Dangerous Type vulnerability in Jeff Starr User Submitted Posts – Enable Users to Submit Posts from the Front End.This issue affects User Submitted Posts – Enable Users to Submit Posts from the Front End: from n/a through 20230902.
 
