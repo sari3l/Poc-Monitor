@@ -6108,7 +6108,7 @@
 - [hev0x/CVE-2021-31630-OpenPLC_RCE](https://github.com/hev0x/CVE-2021-31630-OpenPLC_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hev0x/CVE-2021-31630-OpenPLC_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hev0x/CVE-2021-31630-OpenPLC_RCE">
 - [thewhiteh4t/cve-2021-31630](https://github.com/thewhiteh4t/cve-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/thewhiteh4t/cve-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/thewhiteh4t/cve-2021-31630">
 - [UserB1ank/CVE-2021-31630](https://github.com/UserB1ank/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/UserB1ank/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/UserB1ank/CVE-2021-31630">
-- [mind2hex/CVE-2021-31630](https://github.com/mind2hex/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2021-31630">
+- [mind2hex/CVE-2021-31630-OpenPLC-3-Authenticated-RCE](https://github.com/mind2hex/CVE-2021-31630-OpenPLC-3-Authenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2021-31630-OpenPLC-3-Authenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2021-31630-OpenPLC-3-Authenticated-RCE">
 - [sealldeveloper/CVE-2021-31630-PoC](https://github.com/sealldeveloper/CVE-2021-31630-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sealldeveloper/CVE-2021-31630-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sealldeveloper/CVE-2021-31630-PoC">
 - [junnythemarksman/CVE-2021-31630](https://github.com/junnythemarksman/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2021-31630">
 - [adibna/cve-2021-31630](https://github.com/adibna/cve-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/adibna/cve-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/adibna/cve-2021-31630">
@@ -6116,6 +6116,7 @@
 - [FlojBoj/CVE-2021-31630](https://github.com/FlojBoj/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2021-31630">
 - [machevalia/OpenPLC-CVE-2021-31630-RCE](https://github.com/machevalia/OpenPLC-CVE-2021-31630-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/machevalia/OpenPLC-CVE-2021-31630-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/machevalia/OpenPLC-CVE-2021-31630-RCE">
 - [behindsecurity/htb-wifinetictwo-exploit](https://github.com/behindsecurity/htb-wifinetictwo-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/behindsecurity/htb-wifinetictwo-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/behindsecurity/htb-wifinetictwo-exploit">
+- [UserB1ank/CVE-2021-31630](https://github.com/UserB1ank/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/UserB1ank/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/UserB1ank/CVE-2021-31630">
 
 ---
 ## CVE-2021-31589 (2022-01-05T12:15:00)
