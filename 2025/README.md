@@ -386,6 +386,7 @@
 > 
 - [rxerium/CVE-2025-61882](https://github.com/rxerium/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-61882">
 - [allinsthon/CVE-2025-61882](https://github.com/allinsthon/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-61882">
+- [watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882](https://github.com/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">
 
 ---
 ## CVE-2025-6085 ()
