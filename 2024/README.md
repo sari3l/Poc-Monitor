@@ -4293,6 +4293,11 @@ For this to impact an application, all of the following must be true:
 - [masa42/CVE-2024-38821-POC](https://github.com/masa42/CVE-2024-38821-POC)	<img alt="forks" src="https://img.shields.io/github/forks/masa42/CVE-2024-38821-POC">	<img alt="stars" src="https://img.shields.io/github/stars/masa42/CVE-2024-38821-POC">
 
 ---
+## CVE-2024-38820 ()
+> 
+- [kadamnayan/POC-CVE-2024-38820](https://github.com/kadamnayan/POC-CVE-2024-38820)	<img alt="forks" src="https://img.shields.io/github/forks/kadamnayan/POC-CVE-2024-38820">	<img alt="stars" src="https://img.shields.io/github/stars/kadamnayan/POC-CVE-2024-38820">
+
+---
 ## CVE-2024-38819 ()
 > 
 - [masa42/CVE-2024-38819-POC](https://github.com/masa42/CVE-2024-38819-POC)	<img alt="forks" src="https://img.shields.io/github/forks/masa42/CVE-2024-38819-POC">	<img alt="stars" src="https://img.shields.io/github/stars/masa42/CVE-2024-38819-POC">
