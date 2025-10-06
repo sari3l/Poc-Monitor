@@ -97,6 +97,7 @@
 ## CVE-2025-8625 ()
 > 
 - [Nxploited/CVE-2025-8625](https://github.com/Nxploited/CVE-2025-8625)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-8625">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-8625">
+- [ret0x2A/CVE-2025-8625](https://github.com/ret0x2A/CVE-2025-8625)	<img alt="forks" src="https://img.shields.io/github/forks/ret0x2A/CVE-2025-8625">	<img alt="stars" src="https://img.shields.io/github/stars/ret0x2A/CVE-2025-8625">
 
 ---
 ## CVE-2025-8571 ()
