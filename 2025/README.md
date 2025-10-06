@@ -49,6 +49,7 @@
 - [ThemeHackers/CVE-2025-9074](https://github.com/ThemeHackers/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-9074">
 - [fortihack/CVE-2025-9074](https://github.com/fortihack/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/fortihack/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/fortihack/CVE-2025-9074">
 - [pucagit/CVE-2025-9074](https://github.com/pucagit/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/pucagit/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/pucagit/CVE-2025-9074">
+- [OilSeller2001/PoC-for-CVE-2025-9074](https://github.com/OilSeller2001/PoC-for-CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/OilSeller2001/PoC-for-CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/OilSeller2001/PoC-for-CVE-2025-9074">
 
 ---
 ## CVE-2025-9043 ()
