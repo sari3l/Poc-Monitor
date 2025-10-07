@@ -2369,6 +2369,7 @@
 - [mah4nzfr/CVE-2021-41773](https://github.com/mah4nzfr/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/mah4nzfr/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/mah4nzfr/CVE-2021-41773">
 - [charanvoonna/CVE-2021-41773](https://github.com/charanvoonna/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/charanvoonna/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/charanvoonna/CVE-2021-41773">
 - [hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-](https://github.com/hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-)	<img alt="forks" src="https://img.shields.io/github/forks/hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-">	<img alt="stars" src="https://img.shields.io/github/stars/hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-">
+- [gunzf0x/CVE-2021-41773](https://github.com/gunzf0x/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
