@@ -2345,6 +2345,11 @@
 - [l8BL/CVE-2025-44998](https://github.com/l8BL/CVE-2025-44998)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2025-44998">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2025-44998">
 
 ---
+## CVE-2025-44823 ()
+> 
+- [skraft9/CVE-2025-44823](https://github.com/skraft9/CVE-2025-44823)	<img alt="forks" src="https://img.shields.io/github/forks/skraft9/CVE-2025-44823">	<img alt="stars" src="https://img.shields.io/github/stars/skraft9/CVE-2025-44823">
+
+---
 ## CVE-2025-44608 ()
 > 
 - [mr-xmen786/CVE-2025-44608](https://github.com/mr-xmen786/CVE-2025-44608)	<img alt="forks" src="https://img.shields.io/github/forks/mr-xmen786/CVE-2025-44608">	<img alt="stars" src="https://img.shields.io/github/stars/mr-xmen786/CVE-2025-44608">
