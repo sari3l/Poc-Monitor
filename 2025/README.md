@@ -753,6 +753,11 @@
 - [wrathfulDiety/CVE-2025-56311](https://github.com/wrathfulDiety/CVE-2025-56311)	<img alt="forks" src="https://img.shields.io/github/forks/wrathfulDiety/CVE-2025-56311">	<img alt="stars" src="https://img.shields.io/github/stars/wrathfulDiety/CVE-2025-56311">
 
 ---
+## CVE-2025-56243 ()
+> 
+- [hafizgemilang/CVE-2025-56243](https://github.com/hafizgemilang/CVE-2025-56243)	<img alt="forks" src="https://img.shields.io/github/forks/hafizgemilang/CVE-2025-56243">	<img alt="stars" src="https://img.shields.io/github/stars/hafizgemilang/CVE-2025-56243">
+
+---
 ## CVE-2025-56132 ()
 > 
 - [fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC](https://github.com/fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fredericgoossens/CVE-2025-56132---LiquidFiles-User-Enumeration-POC">
