@@ -4305,6 +4305,7 @@ For this to impact an application, all of the following must be true:
 - [skrkcb2/cve-2024-38819](https://github.com/skrkcb2/cve-2024-38819)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/cve-2024-38819">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/cve-2024-38819">
 - [vishalnoza/CVE-2024-38819-POC2](https://github.com/vishalnoza/CVE-2024-38819-POC2)	<img alt="forks" src="https://img.shields.io/github/forks/vishalnoza/CVE-2024-38819-POC2">	<img alt="stars" src="https://img.shields.io/github/stars/vishalnoza/CVE-2024-38819-POC2">
 - [jaloon/spring-webmvc5](https://github.com/jaloon/spring-webmvc5)	<img alt="forks" src="https://img.shields.io/github/forks/jaloon/spring-webmvc5">	<img alt="stars" src="https://img.shields.io/github/stars/jaloon/spring-webmvc5">
+- [Nandavardhan8/spring-poc-CVE-2024-38819](https://github.com/Nandavardhan8/spring-poc-CVE-2024-38819)	<img alt="forks" src="https://img.shields.io/github/forks/Nandavardhan8/spring-poc-CVE-2024-38819">	<img alt="stars" src="https://img.shields.io/github/stars/Nandavardhan8/spring-poc-CVE-2024-38819">
 
 ---
 ## CVE-2024-38816 (2024-09-13T06:15:00)
