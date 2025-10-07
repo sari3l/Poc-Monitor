@@ -278,6 +278,11 @@
 - [mind2hex/CVE-2025-7404-CalibreWeb-0.6.24-BlindCommandInjection](https://github.com/mind2hex/CVE-2025-7404-CalibreWeb-0.6.24-BlindCommandInjection)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2025-7404-CalibreWeb-0.6.24-BlindCommandInjection">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2025-7404-CalibreWeb-0.6.24-BlindCommandInjection">
 
 ---
+## CVE-2025-7401 ()
+> 
+- [Nxploited/CVE-2025-7401](https://github.com/Nxploited/CVE-2025-7401)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-7401">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-7401">
+
+---
 ## CVE-2025-7340 ()
 > 
 - [Nxploited/CVE-2025-7340](https://github.com/Nxploited/CVE-2025-7340)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-7340">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-7340">
