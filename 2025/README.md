@@ -3087,6 +3087,7 @@
 - [onniio/CVE-2025-32463](https://github.com/onniio/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-32463">
 - [onniio/CVE-2025-32463](https://github.com/onniio/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-32463">
 - [r3dBust3r/CVE-2025-32463](https://github.com/r3dBust3r/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/r3dBust3r/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/r3dBust3r/CVE-2025-32463">
+- [harsh1verma/CVE-Analysis](https://github.com/harsh1verma/CVE-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/harsh1verma/CVE-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/harsh1verma/CVE-Analysis">
 
 ---
 ## CVE-2025-32462 ()
