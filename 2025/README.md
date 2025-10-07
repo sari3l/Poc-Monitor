@@ -438,6 +438,11 @@
 - [B1ack4sh/Blackash-CVE-2025-6018](https://github.com/B1ack4sh/Blackash-CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6018">
 
 ---
+## CVE-2025-59934 ()
+> 
+- [suriryuk/cve-2025-59934](https://github.com/suriryuk/cve-2025-59934)	<img alt="forks" src="https://img.shields.io/github/forks/suriryuk/cve-2025-59934">	<img alt="stars" src="https://img.shields.io/github/stars/suriryuk/cve-2025-59934">
+
+---
 ## CVE-2025-59843 ()
 > 
 - [At0mXploit/CVE-2025-59843-CVE-2025-59932](https://github.com/At0mXploit/CVE-2025-59843-CVE-2025-59932)	<img alt="forks" src="https://img.shields.io/github/forks/At0mXploit/CVE-2025-59843-CVE-2025-59932">	<img alt="stars" src="https://img.shields.io/github/stars/At0mXploit/CVE-2025-59843-CVE-2025-59932">
