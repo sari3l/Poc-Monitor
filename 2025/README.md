@@ -1325,6 +1325,11 @@
 - [Yucaerin/CVE-2025-52078](https://github.com/Yucaerin/CVE-2025-52078)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-52078">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-52078">
 
 ---
+## CVE-2025-52021 ()
+> 
+- [hafizgemilang/CVE-2025-52021](https://github.com/hafizgemilang/CVE-2025-52021)	<img alt="forks" src="https://img.shields.io/github/forks/hafizgemilang/CVE-2025-52021">	<img alt="stars" src="https://img.shields.io/github/stars/hafizgemilang/CVE-2025-52021">
+
+---
 ## CVE-2025-51970 ()
 > 
 - [M4xIq/CVE-2025-51970](https://github.com/M4xIq/CVE-2025-51970)	<img alt="forks" src="https://img.shields.io/github/forks/M4xIq/CVE-2025-51970">	<img alt="stars" src="https://img.shields.io/github/stars/M4xIq/CVE-2025-51970">
