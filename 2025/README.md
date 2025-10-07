@@ -1611,6 +1611,11 @@
 - [NotItsSixtyN3in/CVE-2025-50000](https://github.com/NotItsSixtyN3in/CVE-2025-50000)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-50000">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-50000">
 
 ---
+## CVE-2025-49844 ()
+> 
+- [gopinaath/CVE-2025-49844-discovery](https://github.com/gopinaath/CVE-2025-49844-discovery)	<img alt="forks" src="https://img.shields.io/github/forks/gopinaath/CVE-2025-49844-discovery">	<img alt="stars" src="https://img.shields.io/github/stars/gopinaath/CVE-2025-49844-discovery">
+
+---
 ## CVE-2025-49721 ()
 > 
 - [Lam0x0/CVE-2025-49721_part1](https://github.com/Lam0x0/CVE-2025-49721_part1)	<img alt="forks" src="https://img.shields.io/github/forks/Lam0x0/CVE-2025-49721_part1">	<img alt="stars" src="https://img.shields.io/github/stars/Lam0x0/CVE-2025-49721_part1">
