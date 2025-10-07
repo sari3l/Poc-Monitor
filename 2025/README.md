@@ -1624,6 +1624,7 @@
 ## CVE-2025-49844 ()
 > 
 - [gopinaath/CVE-2025-49844-discovery](https://github.com/gopinaath/CVE-2025-49844-discovery)	<img alt="forks" src="https://img.shields.io/github/forks/gopinaath/CVE-2025-49844-discovery">	<img alt="stars" src="https://img.shields.io/github/stars/gopinaath/CVE-2025-49844-discovery">
+- [dwisiswant0/CVE-2025-49844](https://github.com/dwisiswant0/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-49844">
 
 ---
 ## CVE-2025-49721 ()
@@ -2067,6 +2068,21 @@
 > 
 - [d3sca/CVE-2025-46822](https://github.com/d3sca/CVE-2025-46822)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/CVE-2025-46822">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/CVE-2025-46822">
 - [d3sca/-CVE-2025-46822-](https://github.com/d3sca/-CVE-2025-46822-)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/-CVE-2025-46822-">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/-CVE-2025-46822-">
+
+---
+## CVE-2025-46819 ()
+> 
+- [dwisiswant0/CVE-2025-46819](https://github.com/dwisiswant0/CVE-2025-46819)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-46819">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-46819">
+
+---
+## CVE-2025-46818 ()
+> 
+- [dwisiswant0/CVE-2025-46818](https://github.com/dwisiswant0/CVE-2025-46818)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-46818">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-46818">
+
+---
+## CVE-2025-46817 ()
+> 
+- [dwisiswant0/CVE-2025-46817](https://github.com/dwisiswant0/CVE-2025-46817)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-46817">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-46817">
 
 ---
 ## CVE-2025-46816 ()
