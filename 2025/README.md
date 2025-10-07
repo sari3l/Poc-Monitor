@@ -1625,6 +1625,7 @@
 > 
 - [gopinaath/CVE-2025-49844-discovery](https://github.com/gopinaath/CVE-2025-49844-discovery)	<img alt="forks" src="https://img.shields.io/github/forks/gopinaath/CVE-2025-49844-discovery">	<img alt="stars" src="https://img.shields.io/github/stars/gopinaath/CVE-2025-49844-discovery">
 - [dwisiswant0/CVE-2025-49844](https://github.com/dwisiswant0/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-49844">
+- [lastvocher/redis-CVE-2025-49844](https://github.com/lastvocher/redis-CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/lastvocher/redis-CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/lastvocher/redis-CVE-2025-49844">
 
 ---
 ## CVE-2025-49721 ()
