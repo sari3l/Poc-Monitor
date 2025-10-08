@@ -5335,6 +5335,7 @@
 > 
 - [AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day](https://github.com/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day">
 - [callinston/CVE-2025-10585](https://github.com/callinston/CVE-2025-10585)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-10585">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-10585">
+- [samus4vic/CVE-2025-10585-The-Chrome-V8-Zero-Day](https://github.com/samus4vic/CVE-2025-10585-The-Chrome-V8-Zero-Day)	<img alt="forks" src="https://img.shields.io/github/forks/samus4vic/CVE-2025-10585-The-Chrome-V8-Zero-Day">	<img alt="stars" src="https://img.shields.io/github/stars/samus4vic/CVE-2025-10585-The-Chrome-V8-Zero-Day">
 
 ---
 ## CVE-2025-1055 ()
