@@ -5122,6 +5122,7 @@
 ## CVE-2025-20333 ()
 > 
 - [callinston/CVE-2025-20333](https://github.com/callinston/CVE-2025-20333)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-20333">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-20333">
+- [callinston/CVE-2025-20333-exp](https://github.com/callinston/CVE-2025-20333-exp)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-20333-exp">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-20333-exp">
 
 ---
 ## CVE-2025-20286 ()
