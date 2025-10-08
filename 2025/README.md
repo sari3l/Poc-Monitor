@@ -410,6 +410,7 @@
 ## CVE-2025-61183 ()
 > 
 - [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-61183">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-61183">
+- [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-61183">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-61183">
 
 ---
 ## CVE-2025-6085 ()
