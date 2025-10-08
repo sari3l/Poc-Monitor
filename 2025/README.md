@@ -1655,6 +1655,8 @@
 - [dwisiswant0/CVE-2025-49844](https://github.com/dwisiswant0/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-49844">
 - [lastvocher/redis-CVE-2025-49844](https://github.com/lastvocher/redis-CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/lastvocher/redis-CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/lastvocher/redis-CVE-2025-49844">
 - [pedrorichil/CVE-2025-49844](https://github.com/pedrorichil/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/pedrorichil/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/pedrorichil/CVE-2025-49844">
+- [srozb/reditrap](https://github.com/srozb/reditrap)	<img alt="forks" src="https://img.shields.io/github/forks/srozb/reditrap">	<img alt="stars" src="https://img.shields.io/github/stars/srozb/reditrap">
+- [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/raminfp/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/raminfp/redis_exploit">
 
 ---
 ## CVE-2025-49721 ()
