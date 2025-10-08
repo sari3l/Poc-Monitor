@@ -989,6 +989,7 @@
 > 
 - [yohannslm/CVE-2025-54352](https://github.com/yohannslm/CVE-2025-54352)	<img alt="forks" src="https://img.shields.io/github/forks/yohannslm/CVE-2025-54352">	<img alt="stars" src="https://img.shields.io/github/stars/yohannslm/CVE-2025-54352">
 - [ScarryParrot/CVE-2025-54352](https://github.com/ScarryParrot/CVE-2025-54352)	<img alt="forks" src="https://img.shields.io/github/forks/ScarryParrot/CVE-2025-54352">	<img alt="stars" src="https://img.shields.io/github/stars/ScarryParrot/CVE-2025-54352">
+- [limmmw/CVE-2025-54352](https://github.com/limmmw/CVE-2025-54352)	<img alt="forks" src="https://img.shields.io/github/forks/limmmw/CVE-2025-54352">	<img alt="stars" src="https://img.shields.io/github/stars/limmmw/CVE-2025-54352">
 
 ---
 ## CVE-2025-54313 ()
