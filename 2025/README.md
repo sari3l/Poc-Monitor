@@ -407,6 +407,11 @@
 - [B1ack4sh/Blackash-CVE-2025-61882](https://github.com/B1ack4sh/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61882">
 
 ---
+## CVE-2025-61183 ()
+> 
+- [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-61183">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-61183">
+
+---
 ## CVE-2025-6085 ()
 > 
 - [d0n601/CVE-2025-6085](https://github.com/d0n601/CVE-2025-6085)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-6085">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-6085">
