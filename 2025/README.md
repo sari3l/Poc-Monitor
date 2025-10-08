@@ -556,6 +556,7 @@
 > 
 - [Mkway/CVE-2025-57833](https://github.com/Mkway/CVE-2025-57833)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2025-57833">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2025-57833">
 - [loic-houchi/Django-faille-CVE-2025-57833_test](https://github.com/loic-houchi/Django-faille-CVE-2025-57833_test)	<img alt="forks" src="https://img.shields.io/github/forks/loic-houchi/Django-faille-CVE-2025-57833_test">	<img alt="stars" src="https://img.shields.io/github/stars/loic-houchi/Django-faille-CVE-2025-57833_test">
+- [ianoboyle/CVE-2025-57833](https://github.com/ianoboyle/CVE-2025-57833)	<img alt="forks" src="https://img.shields.io/github/forks/ianoboyle/CVE-2025-57833">	<img alt="stars" src="https://img.shields.io/github/stars/ianoboyle/CVE-2025-57833">
 
 ---
 ## CVE-2025-57819 ()
