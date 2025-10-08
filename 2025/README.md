@@ -594,7 +594,7 @@
 - [FrenzisRed/CVE-2025-5777](https://github.com/FrenzisRed/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/FrenzisRed/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/FrenzisRed/CVE-2025-5777">
 - [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
 - [bughuntar/CVE-2025-5777](https://github.com/bughuntar/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2025-5777">
-- [zr1p3r/CVE-2025-5777](https://github.com/zr1p3r/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/zr1p3r/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/zr1p3r/CVE-2025-5777">
+- [0xgh057r3c0n/CVE-2025-5777](https://github.com/0xgh057r3c0n/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-5777">
 - [Jishanluhar/CVE-2025-5777](https://github.com/Jishanluhar/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Jishanluhar/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Jishanluhar/CVE-2025-5777">
 - [SleepNotF0und/CVE-2025-5777](https://github.com/SleepNotF0und/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/SleepNotF0und/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/SleepNotF0und/CVE-2025-5777">
 - [B1ack4sh/Blackash-CVE-2025-5777](https://github.com/B1ack4sh/Blackash-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-5777">
@@ -2492,7 +2492,7 @@
 ## CVE-2025-4334 ()
 > 
 - [Nxploited/CVE-2025-4334](https://github.com/Nxploited/CVE-2025-4334)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-4334">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-4334">
-- [zr1p3r/CVE-2025-4334](https://github.com/zr1p3r/CVE-2025-4334)	<img alt="forks" src="https://img.shields.io/github/forks/zr1p3r/CVE-2025-4334">	<img alt="stars" src="https://img.shields.io/github/stars/zr1p3r/CVE-2025-4334">
+- [0xgh057r3c0n/CVE-2025-4334](https://github.com/0xgh057r3c0n/CVE-2025-4334)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-4334">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-4334">
 
 ---
 ## CVE-2025-43300 ()
@@ -2748,6 +2748,11 @@
 ## CVE-2025-38676 ()
 > 
 - [14mb1v45h/CVE-2025-38676](https://github.com/14mb1v45h/CVE-2025-38676)	<img alt="forks" src="https://img.shields.io/github/forks/14mb1v45h/CVE-2025-38676">	<img alt="stars" src="https://img.shields.io/github/stars/14mb1v45h/CVE-2025-38676">
+
+---
+## CVE-2025-38561 ()
+> 
+- [toshithh/CVE-2025-38561](https://github.com/toshithh/CVE-2025-38561)	<img alt="forks" src="https://img.shields.io/github/forks/toshithh/CVE-2025-38561">	<img alt="stars" src="https://img.shields.io/github/stars/toshithh/CVE-2025-38561">
 
 ---
 ## CVE-2025-38001 ()
@@ -5347,17 +5352,17 @@
 ---
 ## CVE-2025-10353 ()
 > 
-- [ivansmc00/CVE-2025-10353](https://github.com/ivansmc00/CVE-2025-10353)	<img alt="forks" src="https://img.shields.io/github/forks/ivansmc00/CVE-2025-10353">	<img alt="stars" src="https://img.shields.io/github/stars/ivansmc00/CVE-2025-10353">
+- [ivansmc00/CVE-2025-10353-POC](https://github.com/ivansmc00/CVE-2025-10353-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ivansmc00/CVE-2025-10353-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ivansmc00/CVE-2025-10353-POC">
 
 ---
 ## CVE-2025-10352 ()
 > 
-- [ivansmc00/CVE-2025-10352](https://github.com/ivansmc00/CVE-2025-10352)	<img alt="forks" src="https://img.shields.io/github/forks/ivansmc00/CVE-2025-10352">	<img alt="stars" src="https://img.shields.io/github/stars/ivansmc00/CVE-2025-10352">
+- [ivansmc00/CVE-2025-10352-POC](https://github.com/ivansmc00/CVE-2025-10352-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ivansmc00/CVE-2025-10352-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ivansmc00/CVE-2025-10352-POC">
 
 ---
 ## CVE-2025-10351 ()
 > 
-- [ivansmc00/CVE-2025-10351](https://github.com/ivansmc00/CVE-2025-10351)	<img alt="forks" src="https://img.shields.io/github/forks/ivansmc00/CVE-2025-10351">	<img alt="stars" src="https://img.shields.io/github/stars/ivansmc00/CVE-2025-10351">
+- [ivansmc00/CVE-2025-10351-POC](https://github.com/ivansmc00/CVE-2025-10351-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ivansmc00/CVE-2025-10351-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ivansmc00/CVE-2025-10351-POC">
 
 ---
 ## CVE-2025-10184 ()
