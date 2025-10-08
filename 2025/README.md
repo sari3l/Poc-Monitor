@@ -2756,6 +2756,11 @@
 - [khoatran107/cve-2025-38001](https://github.com/khoatran107/cve-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-38001">
 
 ---
+## CVE-2025-37947 ()
+> 
+- [doyensec/KSMBD-CVE-2025-37947](https://github.com/doyensec/KSMBD-CVE-2025-37947)	<img alt="forks" src="https://img.shields.io/github/forks/doyensec/KSMBD-CVE-2025-37947">	<img alt="stars" src="https://img.shields.io/github/stars/doyensec/KSMBD-CVE-2025-37947">
+
+---
 ## CVE-2025-37899 ()
 > 
 - [SeanHeelan/o3_finds_cve-2025-37899](https://github.com/SeanHeelan/o3_finds_cve-2025-37899)	<img alt="forks" src="https://img.shields.io/github/forks/SeanHeelan/o3_finds_cve-2025-37899">	<img alt="stars" src="https://img.shields.io/github/stars/SeanHeelan/o3_finds_cve-2025-37899">
