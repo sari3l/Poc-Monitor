@@ -11,6 +11,11 @@
 - [K3ysTr0K3R/CVE-2008-5862-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2008-5862-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2008-5862-EXPLOIT">
 
 ---
+## CVE-2008-5161 ()
+> 
+- [talha3117/OpenSSH-4.7p1-CVE-2008-5161-Exploit](https://github.com/talha3117/OpenSSH-4.7p1-CVE-2008-5161-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/talha3117/OpenSSH-4.7p1-CVE-2008-5161-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/talha3117/OpenSSH-4.7p1-CVE-2008-5161-Exploit">
+
+---
 ## CVE-2008-4687 (2008-10-22T18:00:00)
 > manage_proj_page.php in Mantis before 1.1.4 allows remote authenticated users to execute arbitrary code via a sort parameter containing PHP sequences, which are processed by create_function within the multi_sort function in core/utility_api.php.
 - [nmurilo/CVE-2008-4687-exploit](https://github.com/nmurilo/CVE-2008-4687-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nmurilo/CVE-2008-4687-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nmurilo/CVE-2008-4687-exploit">
