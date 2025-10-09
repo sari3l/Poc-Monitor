@@ -2366,7 +2366,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [becrevex/CVE-2023-42793](https://github.com/becrevex/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2023-42793">
 - [jakehomb/cve-2023-42793](https://github.com/jakehomb/cve-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/jakehomb/cve-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/jakehomb/cve-2023-42793">
 - [syaifulandy/Nuclei-Template-CVE-2023-42793.yaml](https://github.com/syaifulandy/Nuclei-Template-CVE-2023-42793.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/syaifulandy/Nuclei-Template-CVE-2023-42793.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/syaifulandy/Nuclei-Template-CVE-2023-42793.yaml">
-- [syorik/CVE-2023-42793-poc](https://github.com/syorik/CVE-2023-42793-poc)	<img alt="forks" src="https://img.shields.io/github/forks/syorik/CVE-2023-42793-poc">	<img alt="stars" src="https://img.shields.io/github/stars/syorik/CVE-2023-42793-poc">
+- [syorik/CVE-2023-42793](https://github.com/syorik/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/syorik/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/syorik/CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
