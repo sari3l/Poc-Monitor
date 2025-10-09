@@ -807,6 +807,11 @@
 - [Szym0n13k/CVE-2025-55971-Blind-Unauthenticated-SSRF-in-TCL-Smart-TV-UPnP-DLNA-AVTransport](https://github.com/Szym0n13k/CVE-2025-55971-Blind-Unauthenticated-SSRF-in-TCL-Smart-TV-UPnP-DLNA-AVTransport)	<img alt="forks" src="https://img.shields.io/github/forks/Szym0n13k/CVE-2025-55971-Blind-Unauthenticated-SSRF-in-TCL-Smart-TV-UPnP-DLNA-AVTransport">	<img alt="stars" src="https://img.shields.io/github/stars/Szym0n13k/CVE-2025-55971-Blind-Unauthenticated-SSRF-in-TCL-Smart-TV-UPnP-DLNA-AVTransport">
 
 ---
+## CVE-2025-55903 ()
+> 
+- [ajansha/CVE-2025-55903](https://github.com/ajansha/CVE-2025-55903)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-55903">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-55903">
+
+---
 ## CVE-2025-55891 ()
 > 
 - [terribledactyl/CVE-2025-55891](https://github.com/terribledactyl/CVE-2025-55891)	<img alt="forks" src="https://img.shields.io/github/forks/terribledactyl/CVE-2025-55891">	<img alt="stars" src="https://img.shields.io/github/stars/terribledactyl/CVE-2025-55891">
