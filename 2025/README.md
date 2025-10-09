@@ -1660,6 +1660,7 @@
 - [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/raminfp/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/raminfp/redis_exploit">
 - [Yuri08loveElaina/CVE-2025-49844](https://github.com/Yuri08loveElaina/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49844">
 - [YuanBenSir/CVE-2025-49844_POC](https://github.com/YuanBenSir/CVE-2025-49844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-49844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-49844_POC">
+- [Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner](https://github.com/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">
 
 ---
 ## CVE-2025-49721 ()
