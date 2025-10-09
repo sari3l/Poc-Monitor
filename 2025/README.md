@@ -446,6 +446,11 @@
 - [0xgh057r3c0n/CVE-2025-6058](https://github.com/0xgh057r3c0n/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-6058">
 
 ---
+## CVE-2025-60378 ()
+> 
+- [ajansha/CVE-2025-60378](https://github.com/ajansha/CVE-2025-60378)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60378">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60378">
+
+---
 ## CVE-2025-60375 ()
 > 
 - [AhamedYaseen03/CVE-2025-60375](https://github.com/AhamedYaseen03/CVE-2025-60375)	<img alt="forks" src="https://img.shields.io/github/forks/AhamedYaseen03/CVE-2025-60375">	<img alt="stars" src="https://img.shields.io/github/stars/AhamedYaseen03/CVE-2025-60375">
