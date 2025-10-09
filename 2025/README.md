@@ -171,6 +171,7 @@
 - [kyomber/CVE-2025-8088](https://github.com/kyomber/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kyomber/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kyomber/CVE-2025-8088">
 - [Fathi-MO/POC-CVE-2025-8088](https://github.com/Fathi-MO/POC-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Fathi-MO/POC-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Fathi-MO/POC-CVE-2025-8088">
 - [haspread/CVE-2025-8088](https://github.com/haspread/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/haspread/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/haspread/CVE-2025-8088">
+- [tookATE/CVE-2025-8088](https://github.com/tookATE/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/tookATE/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/tookATE/CVE-2025-8088">
 
 ---
 ## CVE-2025-8067 ()
