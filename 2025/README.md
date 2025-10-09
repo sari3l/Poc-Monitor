@@ -408,6 +408,11 @@
 - [B1ack4sh/Blackash-CVE-2025-61882](https://github.com/B1ack4sh/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61882">
 
 ---
+## CVE-2025-61319 ()
+> 
+- [AmalJafarzade/CVE-2025-61319](https://github.com/AmalJafarzade/CVE-2025-61319)	<img alt="forks" src="https://img.shields.io/github/forks/AmalJafarzade/CVE-2025-61319">	<img alt="stars" src="https://img.shields.io/github/stars/AmalJafarzade/CVE-2025-61319">
+
+---
 ## CVE-2025-61183 ()
 > 
 - [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-61183">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-61183">
@@ -439,6 +444,11 @@
 - [Nxploited/CVE-2025-6058](https://github.com/Nxploited/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6058">
 - [JayVillain/Scan-CVE-2025-6058](https://github.com/JayVillain/Scan-CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/JayVillain/Scan-CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/JayVillain/Scan-CVE-2025-6058">
 - [0xgh057r3c0n/CVE-2025-6058](https://github.com/0xgh057r3c0n/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-6058">
+
+---
+## CVE-2025-60375 ()
+> 
+- [AhamedYaseen03/CVE-2025-60375](https://github.com/AhamedYaseen03/CVE-2025-60375)	<img alt="forks" src="https://img.shields.io/github/forks/AhamedYaseen03/CVE-2025-60375">	<img alt="stars" src="https://img.shields.io/github/stars/AhamedYaseen03/CVE-2025-60375">
 
 ---
 ## CVE-2025-6019 ()
