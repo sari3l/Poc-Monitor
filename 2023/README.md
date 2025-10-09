@@ -807,6 +807,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [Pixel-DefaultBR/CVE-2023-50164](https://github.com/Pixel-DefaultBR/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/Pixel-DefaultBR/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/Pixel-DefaultBR/CVE-2023-50164">
 - [heavyyeast/cve-2023-50164-poc](https://github.com/heavyyeast/cve-2023-50164-poc)	<img alt="forks" src="https://img.shields.io/github/forks/heavyyeast/cve-2023-50164-poc">	<img alt="stars" src="https://img.shields.io/github/stars/heavyyeast/cve-2023-50164-poc">
 - [MKIRAHMET/CVE-2023-50164-HTB-strutted](https://github.com/MKIRAHMET/CVE-2023-50164-HTB-strutted)	<img alt="forks" src="https://img.shields.io/github/forks/MKIRAHMET/CVE-2023-50164-HTB-strutted">	<img alt="stars" src="https://img.shields.io/github/stars/MKIRAHMET/CVE-2023-50164-HTB-strutted">
+- [hybinn/CVE-2023-50164](https://github.com/hybinn/CVE-2023-50164)	<img alt="forks" src="https://img.shields.io/github/forks/hybinn/CVE-2023-50164">	<img alt="stars" src="https://img.shields.io/github/stars/hybinn/CVE-2023-50164">
 
 ---
 ## CVE-2023-50132 ()
