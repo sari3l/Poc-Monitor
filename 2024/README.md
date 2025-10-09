@@ -5693,6 +5693,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [RacerZ-fighting/CVE-2024-32113-POC](https://github.com/RacerZ-fighting/CVE-2024-32113-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RacerZ-fighting/CVE-2024-32113-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RacerZ-fighting/CVE-2024-32113-POC">
 - [YongYe-Security/CVE-2024-32113](https://github.com/YongYe-Security/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-32113">
 - [MikeyPPPPPPPP/CVE-2024-32113](https://github.com/MikeyPPPPPPPP/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/MikeyPPPPPPPP/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/MikeyPPPPPPPP/CVE-2024-32113">
+- [luizgaf/CVE-2024-32113-Exploit](https://github.com/luizgaf/CVE-2024-32113-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/luizgaf/CVE-2024-32113-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/luizgaf/CVE-2024-32113-Exploit">
+- [guinea-offensive-security/Ofbiz-RCE](https://github.com/guinea-offensive-security/Ofbiz-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/Ofbiz-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/Ofbiz-RCE">
 
 ---
 ## CVE-2024-32104 (2024-04-15T09:15:00)
