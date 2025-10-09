@@ -1658,6 +1658,7 @@
 - [pedrorichil/CVE-2025-49844](https://github.com/pedrorichil/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/pedrorichil/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/pedrorichil/CVE-2025-49844">
 - [srozb/reditrap](https://github.com/srozb/reditrap)	<img alt="forks" src="https://img.shields.io/github/forks/srozb/reditrap">	<img alt="stars" src="https://img.shields.io/github/stars/srozb/reditrap">
 - [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/raminfp/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/raminfp/redis_exploit">
+- [Yuri08loveElaina/CVE-2025-49844](https://github.com/Yuri08loveElaina/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49844">
 
 ---
 ## CVE-2025-49721 ()
@@ -3137,6 +3138,7 @@
 - [r3dBust3r/CVE-2025-32463](https://github.com/r3dBust3r/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/r3dBust3r/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/r3dBust3r/CVE-2025-32463">
 - [harsh1verma/CVE-Analysis](https://github.com/harsh1verma/CVE-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/harsh1verma/CVE-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/harsh1verma/CVE-Analysis">
 - [0x3c4dfa1/CVE-2025-32463](https://github.com/0x3c4dfa1/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/0x3c4dfa1/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/0x3c4dfa1/CVE-2025-32463">
+- [ricardomaia/CVE-2025-32463](https://github.com/ricardomaia/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/ricardomaia/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/ricardomaia/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
