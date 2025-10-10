@@ -462,6 +462,11 @@
 - [ajansha/CVE-2025-60375](https://github.com/ajansha/CVE-2025-60375)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60375">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60375">
 
 ---
+## CVE-2025-60374 ()
+> 
+- [ajansha/CVE-2025-60374](https://github.com/ajansha/CVE-2025-60374)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60374">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60374">
+
+---
 ## CVE-2025-6019 ()
 > 
 - [guinea-offensive-security/CVE-2025-6019](https://github.com/guinea-offensive-security/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/CVE-2025-6019">
