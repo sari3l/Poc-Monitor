@@ -5361,6 +5361,11 @@
 - [DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script](https://github.com/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script)	<img alt="forks" src="https://img.shields.io/github/forks/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">	<img alt="stars" src="https://img.shields.io/github/stars/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">
 
 ---
+## CVE-2025-11371 ()
+> 
+- [rxerium/CVE-2025-11371](https://github.com/rxerium/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-11371">
+
+---
 ## CVE-2025-11077 ()
 > 
 - [byteReaper77/CVE-2025-11077](https://github.com/byteReaper77/CVE-2025-11077)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-11077">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-11077">
