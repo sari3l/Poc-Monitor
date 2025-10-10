@@ -5356,6 +5356,11 @@
 - [Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 
 ---
+## CVE-2025-11449 ()
+> 
+- [DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script](https://github.com/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script)	<img alt="forks" src="https://img.shields.io/github/forks/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">	<img alt="stars" src="https://img.shields.io/github/stars/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">
+
+---
 ## CVE-2025-11077 ()
 > 
 - [byteReaper77/CVE-2025-11077](https://github.com/byteReaper77/CVE-2025-11077)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-11077">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-11077">
