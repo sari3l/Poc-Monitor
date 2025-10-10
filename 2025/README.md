@@ -419,6 +419,11 @@
 - [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-61183">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-61183">
 
 ---
+## CVE-2025-60880 ()
+> 
+- [Shenal01/CVE-2025-60880](https://github.com/Shenal01/CVE-2025-60880)	<img alt="forks" src="https://img.shields.io/github/forks/Shenal01/CVE-2025-60880">	<img alt="stars" src="https://img.shields.io/github/stars/Shenal01/CVE-2025-60880">
+
+---
 ## CVE-2025-6085 ()
 > 
 - [d0n601/CVE-2025-6085](https://github.com/d0n601/CVE-2025-6085)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-6085">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-6085">
@@ -501,6 +506,11 @@
 > 
 - [GithubKillsMyOpsec/CVE-2025-59489-POC](https://github.com/GithubKillsMyOpsec/CVE-2025-59489-POC)	<img alt="forks" src="https://img.shields.io/github/forks/GithubKillsMyOpsec/CVE-2025-59489-POC">	<img alt="stars" src="https://img.shields.io/github/stars/GithubKillsMyOpsec/CVE-2025-59489-POC">
 - [RealtekDotSys/Meteor](https://github.com/RealtekDotSys/Meteor)	<img alt="forks" src="https://img.shields.io/github/forks/RealtekDotSys/Meteor">	<img alt="stars" src="https://img.shields.io/github/stars/RealtekDotSys/Meteor">
+
+---
+## CVE-2025-5947 ()
+> 
+- [M4rgs/CVE-2025-5947_Exploit](https://github.com/M4rgs/CVE-2025-5947_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M4rgs/CVE-2025-5947_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M4rgs/CVE-2025-5947_Exploit">
 
 ---
 ## CVE-2025-59424 ()
