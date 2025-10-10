@@ -4272,6 +4272,8 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [XiaomingX/cve-2024-38856-poc](https://github.com/XiaomingX/cve-2024-38856-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-38856-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-38856-poc">
 - [FakesiteSecurity/CVE-2024-38856_Scen](https://github.com/FakesiteSecurity/CVE-2024-38856_Scen)	<img alt="forks" src="https://img.shields.io/github/forks/FakesiteSecurity/CVE-2024-38856_Scen">	<img alt="stars" src="https://img.shields.io/github/stars/FakesiteSecurity/CVE-2024-38856_Scen">
 - [Hex00-0x4/CVE-2024-38856-Apache-OFBiz](https://github.com/Hex00-0x4/CVE-2024-38856-Apache-OFBiz)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/CVE-2024-38856-Apache-OFBiz">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/CVE-2024-38856-Apache-OFBiz">
+- [guinea-offensive-security/Ofbiz-RCE](https://github.com/guinea-offensive-security/Ofbiz-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/Ofbiz-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/Ofbiz-RCE">
+- [AlissonFaoli/Apache-OFBiz-Exploit](https://github.com/AlissonFaoli/Apache-OFBiz-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AlissonFaoli/Apache-OFBiz-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AlissonFaoli/Apache-OFBiz-Exploit">
 
 ---
 ## CVE-2024-38828 ()
