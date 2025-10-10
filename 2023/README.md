@@ -5768,6 +5768,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409)	<img alt="forks" src="https://img.shields.io/github/forks/mateusz834/CVE-2023-29409">	<img alt="stars" src="https://img.shields.io/github/stars/mateusz834/CVE-2023-29409">
 
 ---
+## CVE-2023-29386 ()
+> 
+- [vigilante-1337/CVE-2023-29386](https://github.com/vigilante-1337/CVE-2023-29386)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2023-29386">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2023-29386">
+
+---
 ## CVE-2023-29384 (2023-12-20T19:15:00)
 > Unrestricted Upload of File with Dangerous Type vulnerability in HM Plugin WordPress Job Board and Recruitment Plugin – JobWP.This issue affects WordPress Job Board and Recruitment Plugin – JobWP: from n/a through 2.0.
 
