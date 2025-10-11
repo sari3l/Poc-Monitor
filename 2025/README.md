@@ -543,6 +543,7 @@
 ## CVE-2025-59246 ()
 > 
 - [Mpokes/CVE-2025-59246-Exploit](https://github.com/Mpokes/CVE-2025-59246-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mpokes/CVE-2025-59246-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mpokes/CVE-2025-59246-Exploit">
+- [callinston/CVE-2025-59246](https://github.com/callinston/CVE-2025-59246)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-59246">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-59246">
 
 ---
 ## CVE-2025-58789 ()
