@@ -2445,6 +2445,7 @@
 - [xie-22/CVE-2025-4428](https://github.com/xie-22/CVE-2025-4428)	<img alt="forks" src="https://img.shields.io/github/forks/xie-22/CVE-2025-4428">	<img alt="stars" src="https://img.shields.io/github/stars/xie-22/CVE-2025-4428">
 - [watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428">
 - [doomygloom/CVE-2025-4428](https://github.com/doomygloom/CVE-2025-4428)	<img alt="forks" src="https://img.shields.io/github/forks/doomygloom/CVE-2025-4428">	<img alt="stars" src="https://img.shields.io/github/stars/doomygloom/CVE-2025-4428">
+- [rxerium/CVE-2025-4427-CVE-2025-4428](https://github.com/rxerium/CVE-2025-4427-CVE-2025-4428)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-4427-CVE-2025-4428">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-4427-CVE-2025-4428">
 
 ---
 ## CVE-2025-4427 ()
