@@ -5405,6 +5405,7 @@
 ## CVE-2025-11371 ()
 > 
 - [rxerium/CVE-2025-11371](https://github.com/rxerium/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-11371">
+- [callinston/CVE-2025-11371](https://github.com/callinston/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-11371">
 
 ---
 ## CVE-2025-11077 ()
