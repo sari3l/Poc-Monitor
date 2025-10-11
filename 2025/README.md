@@ -987,6 +987,11 @@
 - [AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back](https://github.com/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">
 
 ---
+## CVE-2025-54793 ()
+> 
+- [Bhuvanesh-Murdoch2005/ict279-cve-2025-54793](https://github.com/Bhuvanesh-Murdoch2005/ict279-cve-2025-54793)	<img alt="forks" src="https://img.shields.io/github/forks/Bhuvanesh-Murdoch2005/ict279-cve-2025-54793">	<img alt="stars" src="https://img.shields.io/github/stars/Bhuvanesh-Murdoch2005/ict279-cve-2025-54793">
+
+---
 ## CVE-2025-54782 ()
 > 
 - [nitrixog/CVE-2025-54782](https://github.com/nitrixog/CVE-2025-54782)	<img alt="forks" src="https://img.shields.io/github/forks/nitrixog/CVE-2025-54782">	<img alt="stars" src="https://img.shields.io/github/stars/nitrixog/CVE-2025-54782">
