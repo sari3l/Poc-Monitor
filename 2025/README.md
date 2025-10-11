@@ -409,6 +409,11 @@
 - [zerozenxlabs/CVE-2025-61882-Oracle-EBS](https://github.com/zerozenxlabs/CVE-2025-61882-Oracle-EBS)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2025-61882-Oracle-EBS">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2025-61882-Oracle-EBS">
 
 ---
+## CVE-2025-61777 ()
+> 
+- [0x0w1z/CVE-2025-61777](https://github.com/0x0w1z/CVE-2025-61777)	<img alt="forks" src="https://img.shields.io/github/forks/0x0w1z/CVE-2025-61777">	<img alt="stars" src="https://img.shields.io/github/stars/0x0w1z/CVE-2025-61777">
+
+---
 ## CVE-2025-61319 ()
 > 
 - [AmalJafarzade/CVE-2025-61319](https://github.com/AmalJafarzade/CVE-2025-61319)	<img alt="forks" src="https://img.shields.io/github/forks/AmalJafarzade/CVE-2025-61319">	<img alt="stars" src="https://img.shields.io/github/stars/AmalJafarzade/CVE-2025-61319">
