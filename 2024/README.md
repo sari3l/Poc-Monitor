@@ -984,6 +984,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [Huoper/CVE-2024-5899](https://github.com/Huoper/CVE-2024-5899)	<img alt="forks" src="https://img.shields.io/github/forks/Huoper/CVE-2024-5899">	<img alt="stars" src="https://img.shields.io/github/stars/Huoper/CVE-2024-5899">
 
 ---
+## CVE-2024-58239 ()
+> 
+- [khoatran107/cve-2024-58239](https://github.com/khoatran107/cve-2024-58239)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2024-58239">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2024-58239">
+
+---
 ## CVE-2024-5806 (2024-06-25T15:15:00)
 > Improper Authentication vulnerability in Progress MOVEit Transfer (SFTP module) can lead to Authentication Bypass in limited scenarios.This issue affects MOVEit Transfer: from 2023.0.0 before 2023.0.11, from 2023.1.0 before 2023.1.6, from 2024.0.0 before 2024.0.2.
 - [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">
