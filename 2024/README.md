@@ -7000,6 +7000,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE](https://github.com/0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE">
 - [nelissandro/CVE-2024-28397-Js2Py-RCE](https://github.com/nelissandro/CVE-2024-28397-Js2Py-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nelissandro/CVE-2024-28397-Js2Py-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nelissandro/CVE-2024-28397-Js2Py-RCE">
 - [vitaciminIPI/CVE-2024-28397-RCE](https://github.com/vitaciminIPI/CVE-2024-28397-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/vitaciminIPI/CVE-2024-28397-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/vitaciminIPI/CVE-2024-28397-RCE">
+- [0xPadme/CVE-2024-28397-Reverse-Shell](https://github.com/0xPadme/CVE-2024-28397-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xPadme/CVE-2024-28397-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xPadme/CVE-2024-28397-Reverse-Shell">
 
 ---
 ## CVE-2024-28288 (2024-03-30T01:15:00)
