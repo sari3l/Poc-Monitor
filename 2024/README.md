@@ -7271,6 +7271,11 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2024-27316_poc">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2024-27316_poc">
 
 ---
+## CVE-2024-27304 ()
+> 
+- [roaris/CVE-2024-27304-PoC](https://github.com/roaris/CVE-2024-27304-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/roaris/CVE-2024-27304-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/roaris/CVE-2024-27304-PoC">
+
+---
 ## CVE-2024-27292 (2024-03-21T02:52:00)
 > Docassemble is an expert system for guided interviews and document assembly. The vulnerability allows attackers to gain unauthorized access to information on the system through URL manipulation. It affects versions 1.4.53 to 1.4.96. The vulnerability has been patched in version 1.4.97 of the master branch.
 - [th3gokul/CVE-2024-27292](https://github.com/th3gokul/CVE-2024-27292)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-27292">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-27292">
