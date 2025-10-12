@@ -5185,6 +5185,7 @@
 - [Denyningbow/rtf-ctf-cve-2025-21298](https://github.com/Denyningbow/rtf-ctf-cve-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/Denyningbow/rtf-ctf-cve-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/Denyningbow/rtf-ctf-cve-2025-21298">
 - [mr-big-leach/CVE-2025-21298](https://github.com/mr-big-leach/CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/mr-big-leach/CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/mr-big-leach/CVE-2025-21298">
 - [B1ack4sh/Blackash-CVE-2025-21298](https://github.com/B1ack4sh/Blackash-CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-21298">
+- [Arkha-Corvus/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-](https://github.com/Arkha-Corvus/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-)	<img alt="forks" src="https://img.shields.io/github/forks/Arkha-Corvus/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-">	<img alt="stars" src="https://img.shields.io/github/stars/Arkha-Corvus/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-">
 
 ---
 ## CVE-2025-21293 ()
