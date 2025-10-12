@@ -579,7 +579,7 @@
 ---
 ## CVE-2025-58434 ()
 > 
-- [nltt-br/CVE-2025-58434-CVE-2025-61687-chain-](https://github.com/nltt-br/CVE-2025-58434-CVE-2025-61687-chain-)	<img alt="forks" src="https://img.shields.io/github/forks/nltt-br/CVE-2025-58434-CVE-2025-61687-chain-">	<img alt="stars" src="https://img.shields.io/github/stars/nltt-br/CVE-2025-58434-CVE-2025-61687-chain-">
+- [nltt-br/CVE-2025-58434-CVE-2025-59528-chain](https://github.com/nltt-br/CVE-2025-58434-CVE-2025-59528-chain)	<img alt="forks" src="https://img.shields.io/github/forks/nltt-br/CVE-2025-58434-CVE-2025-59528-chain">	<img alt="stars" src="https://img.shields.io/github/stars/nltt-br/CVE-2025-58434-CVE-2025-59528-chain">
 
 ---
 ## CVE-2025-5840 ()
