@@ -3221,6 +3221,7 @@
 - [ricardomaia/CVE-2025-32463](https://github.com/ricardomaia/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/ricardomaia/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/ricardomaia/CVE-2025-32463">
 - [shazed-x/CVE-2025-32463](https://github.com/shazed-x/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/shazed-x/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/shazed-x/CVE-2025-32463">
 - [cybershaolin47/CVE-2025-32463_POC](https://github.com/cybershaolin47/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybershaolin47/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybershaolin47/CVE-2025-32463_POC">
+- [cyberajju/CVE-2025-32463](https://github.com/cyberajju/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
