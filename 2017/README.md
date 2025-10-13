@@ -1275,6 +1275,8 @@
 ## CVE-2017-12542 ()
 > 
 - [VijayShankar22/CVE-2017-12542](https://github.com/VijayShankar22/CVE-2017-12542)	<img alt="forks" src="https://img.shields.io/github/forks/VijayShankar22/CVE-2017-12542">	<img alt="stars" src="https://img.shields.io/github/stars/VijayShankar22/CVE-2017-12542">
+- [sk1dish/ilo4-rce-vuln-scanner](https://github.com/sk1dish/ilo4-rce-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sk1dish/ilo4-rce-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sk1dish/ilo4-rce-vuln-scanner">
+- [skelsec/CVE-2017-12542](https://github.com/skelsec/CVE-2017-12542)	<img alt="forks" src="https://img.shields.io/github/forks/skelsec/CVE-2017-12542">	<img alt="stars" src="https://img.shields.io/github/stars/skelsec/CVE-2017-12542">
 
 ---
 ## CVE-2017-1235 (2017-09-25T16:29:00)
