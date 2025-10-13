@@ -5424,6 +5424,11 @@
 - [callinston/CVE-2025-11371](https://github.com/callinston/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-11371">
 
 ---
+## CVE-2025-11171 ()
+> 
+- [SnailSploit/CVE-2025-11171---GitHub-Security-Advisory](https://github.com/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory">
+
+---
 ## CVE-2025-11077 ()
 > 
 - [byteReaper77/CVE-2025-11077](https://github.com/byteReaper77/CVE-2025-11077)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-11077">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-11077">
