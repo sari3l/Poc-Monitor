@@ -3537,6 +3537,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Snizi/Moodle-CVE-2024-43425-Exploit](https://github.com/Snizi/Moodle-CVE-2024-43425-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Snizi/Moodle-CVE-2024-43425-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Snizi/Moodle-CVE-2024-43425-Exploit">
 - [RedTeamPentesting/moodle-rce-calculatedquestions](https://github.com/RedTeamPentesting/moodle-rce-calculatedquestions)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamPentesting/moodle-rce-calculatedquestions">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamPentesting/moodle-rce-calculatedquestions">
 - [aninfosec/CVE-2024-43425-Poc](https://github.com/aninfosec/CVE-2024-43425-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/aninfosec/CVE-2024-43425-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/aninfosec/CVE-2024-43425-Poc">
+- [Tnot123/cve-2024-43425](https://github.com/Tnot123/cve-2024-43425)	<img alt="forks" src="https://img.shields.io/github/forks/Tnot123/cve-2024-43425">	<img alt="stars" src="https://img.shields.io/github/stars/Tnot123/cve-2024-43425">
 
 ---
 ## CVE-2024-43416 ()
