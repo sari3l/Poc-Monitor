@@ -411,7 +411,7 @@
 ---
 ## CVE-2025-61882 ()
 > 
-- [rxerium/CVE-2025-61882](https://github.com/rxerium/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-61882">
+- [rxerium/CVE-2025-61882-CVE-2025-61884](https://github.com/rxerium/CVE-2025-61882-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-61882-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-61882-CVE-2025-61884">
 - [allinsthon/CVE-2025-61882](https://github.com/allinsthon/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-61882">
 - [watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882](https://github.com/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">
 - [watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882](https://github.com/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">
@@ -2794,7 +2794,7 @@
 > 
 - [byteReaper77/CVE-2025-39913-](https://github.com/byteReaper77/CVE-2025-39913-)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-39913-">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-39913-">
 - [byteReaper77/CVE-2025-39913](https://github.com/byteReaper77/CVE-2025-39913)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-39913">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-39913">
-- [byteReaper77/CVE-2025-39913-](https://github.com/byteReaper77/CVE-2025-39913-)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-39913-">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-39913-">
+- [byteReaper77/CVE-2025-39913](https://github.com/byteReaper77/CVE-2025-39913)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-39913">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-39913">
 
 ---
 ## CVE-2025-39866 ()
