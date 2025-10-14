@@ -224,6 +224,7 @@
 - [rxerium/CVE-2025-7775](https://github.com/rxerium/CVE-2025-7775)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-7775">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-7775">
 - [mr-r3b00t/CVE-2025-7775](https://github.com/mr-r3b00t/CVE-2025-7775)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2025-7775">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2025-7775">
 - [fox-it/citrix-netscaler-triage](https://github.com/fox-it/citrix-netscaler-triage)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/citrix-netscaler-triage">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/citrix-netscaler-triage">
+- [Lakiya673/CVE-2025-5777](https://github.com/Lakiya673/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Lakiya673/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Lakiya673/CVE-2025-5777">
 
 ---
 ## CVE-2025-7771 ()
