@@ -835,6 +835,11 @@
 - [hafizgemilang/CVE-2025-56243](https://github.com/hafizgemilang/CVE-2025-56243)	<img alt="forks" src="https://img.shields.io/github/forks/hafizgemilang/CVE-2025-56243">	<img alt="stars" src="https://img.shields.io/github/stars/hafizgemilang/CVE-2025-56243">
 
 ---
+## CVE-2025-56219 ()
+> 
+- [saykino/CVE-2025-56219](https://github.com/saykino/CVE-2025-56219)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2025-56219">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2025-56219">
+
+---
 ## CVE-2025-56218 ()
 > 
 - [saykino/CVE-2025-56218](https://github.com/saykino/CVE-2025-56218)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2025-56218">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2025-56218">
@@ -1742,6 +1747,7 @@
 - [YuanBenSir/CVE-2025-49844_POC](https://github.com/YuanBenSir/CVE-2025-49844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-49844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-49844_POC">
 - [Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner](https://github.com/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">
 - [imbas007/CVE-2025-49844-Vulnerability-Scanner](https://github.com/imbas007/CVE-2025-49844-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-49844-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-49844-Vulnerability-Scanner">
+- [angelusrivera/CVE-2025-49844](https://github.com/angelusrivera/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/angelusrivera/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/angelusrivera/CVE-2025-49844">
 
 ---
 ## CVE-2025-49721 ()
