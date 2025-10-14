@@ -4257,6 +4257,7 @@
 ## CVE-2021-36934 ()
 > 
 - [EvilCorpVendor/CVE-2021-36934](https://github.com/EvilCorpVendor/CVE-2021-36934)	<img alt="forks" src="https://img.shields.io/github/forks/EvilCorpVendor/CVE-2021-36934">	<img alt="stars" src="https://img.shields.io/github/stars/EvilCorpVendor/CVE-2021-36934">
+- [ossec25/CVE-2021-36934-](https://github.com/ossec25/CVE-2021-36934-)	<img alt="forks" src="https://img.shields.io/github/forks/ossec25/CVE-2021-36934-">	<img alt="stars" src="https://img.shields.io/github/stars/ossec25/CVE-2021-36934-">
 
 ---
 ## CVE-2021-36917 (2021-11-24T17:15:00)
