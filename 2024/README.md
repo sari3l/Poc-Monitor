@@ -4719,6 +4719,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Zin0D/CVE-2024-36991](https://github.com/Zin0D/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/Zin0D/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/Zin0D/CVE-2024-36991">
 
 ---
+## CVE-2024-36971 ()
+> 
+- [Kronk-imp/CVE-2024-36971](https://github.com/Kronk-imp/CVE-2024-36971)	<img alt="forks" src="https://img.shields.io/github/forks/Kronk-imp/CVE-2024-36971">	<img alt="stars" src="https://img.shields.io/github/stars/Kronk-imp/CVE-2024-36971">
+
+---
 ## CVE-2024-3690 ()
 > 
 - [taeseongk/CVE-2024-3690](https://github.com/taeseongk/CVE-2024-3690)	<img alt="forks" src="https://img.shields.io/github/forks/taeseongk/CVE-2024-3690">	<img alt="stars" src="https://img.shields.io/github/stars/taeseongk/CVE-2024-3690">
