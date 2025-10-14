@@ -431,6 +431,17 @@
 ## CVE-2025-61456 ()
 > 
 - [tansique-17/CVE-2025-61456](https://github.com/tansique-17/CVE-2025-61456)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-61456">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-61456">
+- [tansique-17/CVE-2025-61456](https://github.com/tansique-17/CVE-2025-61456)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-61456">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-61456">
+
+---
+## CVE-2025-61455 ()
+> 
+- [tansique-17/CVE-2025-61455](https://github.com/tansique-17/CVE-2025-61455)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-61455">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-61455">
+
+---
+## CVE-2025-61454 ()
+> 
+- [tansique-17/CVE-2025-61454](https://github.com/tansique-17/CVE-2025-61454)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-61454">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-61454">
 
 ---
 ## CVE-2025-61319 ()
