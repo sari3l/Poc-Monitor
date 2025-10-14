@@ -8165,6 +8165,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [Fineken/Jenkins-CVE-2024-23897-Lab](https://github.com/Fineken/Jenkins-CVE-2024-23897-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Fineken/Jenkins-CVE-2024-23897-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Fineken/Jenkins-CVE-2024-23897-Lab">
 - [OWASP/www-project-eks-goat](https://github.com/OWASP/www-project-eks-goat)	<img alt="forks" src="https://img.shields.io/github/forks/OWASP/www-project-eks-goat">	<img alt="stars" src="https://img.shields.io/github/stars/OWASP/www-project-eks-goat">
 - [hybinn/CVE-2024-23897](https://github.com/hybinn/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/hybinn/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/hybinn/CVE-2024-23897">
+- [amalpvatayam67/day03-jenkins-23897](https://github.com/amalpvatayam67/day03-jenkins-23897)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day03-jenkins-23897">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day03-jenkins-23897">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
