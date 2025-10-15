@@ -7736,7 +7736,8 @@
 ---
 ## CVE-2021-24762 ()
 > 
-- [c4cnm/exploit_cve-2021-24762](https://github.com/c4cnm/exploit_cve-2021-24762)	<img alt="forks" src="https://img.shields.io/github/forks/c4cnm/exploit_cve-2021-24762">	<img alt="stars" src="https://img.shields.io/github/stars/c4cnm/exploit_cve-2021-24762">
+- [c4cnm/Exploit_CVE-2021-24762](https://github.com/c4cnm/Exploit_CVE-2021-24762)	<img alt="forks" src="https://img.shields.io/github/forks/c4cnm/Exploit_CVE-2021-24762">	<img alt="stars" src="https://img.shields.io/github/stars/c4cnm/Exploit_CVE-2021-24762">
+- [aaryan-11-x/My-Metasploit-Modules](https://github.com/aaryan-11-x/My-Metasploit-Modules)	<img alt="forks" src="https://img.shields.io/github/forks/aaryan-11-x/My-Metasploit-Modules">	<img alt="stars" src="https://img.shields.io/github/stars/aaryan-11-x/My-Metasploit-Modules">
 
 ---
 ## CVE-2021-24761 (2022-02-01T13:15:00)
