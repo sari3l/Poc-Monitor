@@ -7050,6 +7050,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read](https://github.com/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read">
 
 ---
+## CVE-2024-28231 ()
+> 
+- [grimmmbo/ros2_CVE-2024-28231](https://github.com/grimmmbo/ros2_CVE-2024-28231)	<img alt="forks" src="https://img.shields.io/github/forks/grimmmbo/ros2_CVE-2024-28231">	<img alt="stars" src="https://img.shields.io/github/stars/grimmmbo/ros2_CVE-2024-28231">
+
+---
 ## CVE-2024-28222 (2024-03-07T07:15:00)
 > In Veritas NetBackup before 8.1.2 and NetBackup Appliance before 3.1.2, the BPCD process inadequately validates the file path, allowing an unauthenticated attacker to upload and execute a custom file.
 - [c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit](https://github.com/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit">
