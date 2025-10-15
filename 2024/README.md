@@ -6171,6 +6171,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [ykhurshudyan-blip/CVE-2024-3094](https://github.com/ykhurshudyan-blip/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/ykhurshudyan-blip/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/ykhurshudyan-blip/CVE-2024-3094">
 - [mrk336/CVE-2024-3094](https://github.com/mrk336/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2024-3094">
 - [Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public](https://github.com/Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public)	<img alt="forks" src="https://img.shields.io/github/forks/Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public">	<img alt="stars" src="https://img.shields.io/github/stars/Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public">
+- [W4Z-RAW/CVE-2024-3094](https://github.com/W4Z-RAW/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/W4Z-RAW/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/W4Z-RAW/CVE-2024-3094">
+- [zpxlz/CVE-2024-3094](https://github.com/zpxlz/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/zpxlz/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/zpxlz/CVE-2024-3094">
 
 ---
 ## CVE-2024-30937 ()
