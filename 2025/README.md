@@ -818,6 +818,11 @@
 - [Kov404/CVE-2025-56514](https://github.com/Kov404/CVE-2025-56514)	<img alt="forks" src="https://img.shields.io/github/forks/Kov404/CVE-2025-56514">	<img alt="stars" src="https://img.shields.io/github/stars/Kov404/CVE-2025-56514">
 
 ---
+## CVE-2025-56503 ()
+> 
+- [secxplorers/CVE-2025-56503](https://github.com/secxplorers/CVE-2025-56503)	<img alt="forks" src="https://img.shields.io/github/forks/secxplorers/CVE-2025-56503">	<img alt="stars" src="https://img.shields.io/github/stars/secxplorers/CVE-2025-56503">
+
+---
 ## CVE-2025-56435 ()
 > 
 - [Jingyi-u/-CVE-2025-56435](https://github.com/Jingyi-u/-CVE-2025-56435)	<img alt="forks" src="https://img.shields.io/github/forks/Jingyi-u/-CVE-2025-56435">	<img alt="stars" src="https://img.shields.io/github/stars/Jingyi-u/-CVE-2025-56435">
