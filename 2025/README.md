@@ -5583,6 +5583,7 @@
 ## CVE-2025-10294 ()
 > 
 - [h4xnz/CVE-2025-10294-POC](https://github.com/h4xnz/CVE-2025-10294-POC)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-10294-POC">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-10294-POC">
+- [HexSentinel-cmd/CVE-2025-10294](https://github.com/HexSentinel-cmd/CVE-2025-10294)	<img alt="forks" src="https://img.shields.io/github/forks/HexSentinel-cmd/CVE-2025-10294">	<img alt="stars" src="https://img.shields.io/github/stars/HexSentinel-cmd/CVE-2025-10294">
 
 ---
 ## CVE-2025-10184 ()
@@ -5606,6 +5607,7 @@
 ## CVE-2025-10041 ()
 > 
 - [Nxploited/CVE-2025-10041](https://github.com/Nxploited/CVE-2025-10041)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-10041">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-10041">
+- [AlloyRecon/CVE-2025-10041](https://github.com/AlloyRecon/CVE-2025-10041)	<img alt="forks" src="https://img.shields.io/github/forks/AlloyRecon/CVE-2025-10041">	<img alt="stars" src="https://img.shields.io/github/stars/AlloyRecon/CVE-2025-10041">
 
 ---
 ## CVE-2025-10035 ()
