@@ -5514,6 +5514,11 @@
 - [byteReaper77/CVE-2025-11077](https://github.com/byteReaper77/CVE-2025-11077)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-11077">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-11077">
 
 ---
+## CVE-2025-11001 ()
+> 
+- [pacbypass/CVE-2025-11001](https://github.com/pacbypass/CVE-2025-11001)	<img alt="forks" src="https://img.shields.io/github/forks/pacbypass/CVE-2025-11001">	<img alt="stars" src="https://img.shields.io/github/stars/pacbypass/CVE-2025-11001">
+
+---
 ## CVE-2025-1094 ()
 > 
 - [soltanali0/CVE-2025-1094-Exploit](https://github.com/soltanali0/CVE-2025-1094-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-1094-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-1094-Exploit">
