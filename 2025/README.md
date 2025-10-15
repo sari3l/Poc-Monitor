@@ -5580,6 +5580,11 @@
 - [ivansmc00/CVE-2025-10351-POC](https://github.com/ivansmc00/CVE-2025-10351-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ivansmc00/CVE-2025-10351-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ivansmc00/CVE-2025-10351-POC">
 
 ---
+## CVE-2025-10294 ()
+> 
+- [h4xnz/CVE-2025-10294-POC](https://github.com/h4xnz/CVE-2025-10294-POC)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-10294-POC">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-10294-POC">
+
+---
 ## CVE-2025-10184 ()
 > 
 - [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/People-11/CVE-2025-10184_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/People-11/CVE-2025-10184_PoC">
