@@ -450,6 +450,7 @@
 - [HexSentinel-cmd/CVE-2025-61882](https://github.com/HexSentinel-cmd/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/HexSentinel-cmd/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/HexSentinel-cmd/CVE-2025-61882">
 - [RootAid/CVE-2025-61882](https://github.com/RootAid/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2025-61882">
 - [MindflareX/CVE-2025-61882-POC](https://github.com/MindflareX/CVE-2025-61882-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MindflareX/CVE-2025-61882-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MindflareX/CVE-2025-61882-POC">
+- [AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit](https://github.com/AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit">
 
 ---
 ## CVE-2025-61777 ()
