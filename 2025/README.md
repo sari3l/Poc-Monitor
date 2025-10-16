@@ -1037,6 +1037,7 @@
 > 
 - [HelixProxy/CVE-2025-55315](https://github.com/HelixProxy/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/HelixProxy/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/HelixProxy/CVE-2025-55315">
 - [nickcopi/CVE-2025-55315-detection-playground](https://github.com/nickcopi/CVE-2025-55315-detection-playground)	<img alt="forks" src="https://img.shields.io/github/forks/nickcopi/CVE-2025-55315-detection-playground">	<img alt="stars" src="https://img.shields.io/github/stars/nickcopi/CVE-2025-55315-detection-playground">
+- [sirredbeard/CVE-2025-55315-repro](https://github.com/sirredbeard/CVE-2025-55315-repro)	<img alt="forks" src="https://img.shields.io/github/forks/sirredbeard/CVE-2025-55315-repro">	<img alt="stars" src="https://img.shields.io/github/stars/sirredbeard/CVE-2025-55315-repro">
 
 ---
 ## CVE-2025-55287 ()
