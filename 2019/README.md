@@ -819,6 +819,11 @@
 - [raymontag/CVE-2019-5596](https://github.com/raymontag/CVE-2019-5596)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/CVE-2019-5596">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/CVE-2019-5596">
 
 ---
+## CVE-2019-5591 ()
+> 
+- [ayewo/fortios-ldap-mitm-poc-CVE-2019-5591](https://github.com/ayewo/fortios-ldap-mitm-poc-CVE-2019-5591)	<img alt="forks" src="https://img.shields.io/github/forks/ayewo/fortios-ldap-mitm-poc-CVE-2019-5591">	<img alt="stars" src="https://img.shields.io/github/stars/ayewo/fortios-ldap-mitm-poc-CVE-2019-5591">
+
+---
 ## CVE-2019-5544 (2019-12-06T16:15:00)
 > OpenSLP as used in ESXi and the Horizon DaaS appliances has a heap overwrite issue. VMware has evaluated the severity of this issue to be in the Critical severity range with a maximum CVSSv3 base score of 9.8.
 - [HynekPetrak/CVE-2019-5544_CVE-2020-3992](https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/CVE-2019-5544_CVE-2020-3992">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/CVE-2019-5544_CVE-2020-3992">
