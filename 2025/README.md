@@ -404,6 +404,7 @@
 ## CVE-2025-62376 ()
 > 
 - [ProtocolAudit/CVE-2025-62376](https://github.com/ProtocolAudit/CVE-2025-62376)	<img alt="forks" src="https://img.shields.io/github/forks/ProtocolAudit/CVE-2025-62376">	<img alt="stars" src="https://img.shields.io/github/stars/ProtocolAudit/CVE-2025-62376">
+- [digitalsnemesis/CVE-2025-62376](https://github.com/digitalsnemesis/CVE-2025-62376)	<img alt="forks" src="https://img.shields.io/github/forks/digitalsnemesis/CVE-2025-62376">	<img alt="stars" src="https://img.shields.io/github/stars/digitalsnemesis/CVE-2025-62376">
 
 ---
 ## CVE-2025-6220 ()
@@ -1038,6 +1039,7 @@
 - [HelixProxy/CVE-2025-55315](https://github.com/HelixProxy/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/HelixProxy/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/HelixProxy/CVE-2025-55315">
 - [nickcopi/CVE-2025-55315-detection-playground](https://github.com/nickcopi/CVE-2025-55315-detection-playground)	<img alt="forks" src="https://img.shields.io/github/forks/nickcopi/CVE-2025-55315-detection-playground">	<img alt="stars" src="https://img.shields.io/github/stars/nickcopi/CVE-2025-55315-detection-playground">
 - [sirredbeard/CVE-2025-55315-repro](https://github.com/sirredbeard/CVE-2025-55315-repro)	<img alt="forks" src="https://img.shields.io/github/forks/sirredbeard/CVE-2025-55315-repro">	<img alt="stars" src="https://img.shields.io/github/stars/sirredbeard/CVE-2025-55315-repro">
+- [snowcrashlord/CVE-2025-55315](https://github.com/snowcrashlord/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/snowcrashlord/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/snowcrashlord/CVE-2025-55315">
 
 ---
 ## CVE-2025-55287 ()
