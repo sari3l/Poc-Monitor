@@ -1857,6 +1857,11 @@
 - [ashiqrehan-21/MCP-Inspector-CVE-2025-49596](https://github.com/ashiqrehan-21/MCP-Inspector-CVE-2025-49596)	<img alt="forks" src="https://img.shields.io/github/forks/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">	<img alt="stars" src="https://img.shields.io/github/stars/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">
 
 ---
+## CVE-2025-49553 ()
+> 
+- [SysRooter/CVE-2025-49553](https://github.com/SysRooter/CVE-2025-49553)	<img alt="forks" src="https://img.shields.io/github/forks/SysRooter/CVE-2025-49553">	<img alt="stars" src="https://img.shields.io/github/stars/SysRooter/CVE-2025-49553">
+
+---
 ## CVE-2025-49493 ()
 > 
 - [MuhammadWaseem29/CVE-2025-49493-Poc](https://github.com/MuhammadWaseem29/CVE-2025-49493-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-49493-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-49493-Poc">
@@ -5570,6 +5575,11 @@
 - [ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi](https://github.com/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">
 - [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/aninfosec/CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/aninfosec/CVE-2025-1094">
 - [B1ack4sh/Blackash-CVE-2025-1094](https://github.com/B1ack4sh/Blackash-CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-1094">
+
+---
+## CVE-2025-10850 ()
+> 
+- [OpcodeRogue/CVE-2025-10850](https://github.com/OpcodeRogue/CVE-2025-10850)	<img alt="forks" src="https://img.shields.io/github/forks/OpcodeRogue/CVE-2025-10850">	<img alt="stars" src="https://img.shields.io/github/stars/OpcodeRogue/CVE-2025-10850">
 
 ---
 ## CVE-2025-10792 ()
