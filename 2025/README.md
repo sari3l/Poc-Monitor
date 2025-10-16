@@ -854,6 +854,11 @@
 - [secxplorers/CVE-2025-56503](https://github.com/secxplorers/CVE-2025-56503)	<img alt="forks" src="https://img.shields.io/github/forks/secxplorers/CVE-2025-56503">	<img alt="stars" src="https://img.shields.io/github/stars/secxplorers/CVE-2025-56503">
 
 ---
+## CVE-2025-56450 ()
+> 
+- [apboss123/CVE-2025-56450](https://github.com/apboss123/CVE-2025-56450)	<img alt="forks" src="https://img.shields.io/github/forks/apboss123/CVE-2025-56450">	<img alt="stars" src="https://img.shields.io/github/stars/apboss123/CVE-2025-56450">
+
+---
 ## CVE-2025-56435 ()
 > 
 - [Jingyi-u/-CVE-2025-56435](https://github.com/Jingyi-u/-CVE-2025-56435)	<img alt="forks" src="https://img.shields.io/github/forks/Jingyi-u/-CVE-2025-56435">	<img alt="stars" src="https://img.shields.io/github/stars/Jingyi-u/-CVE-2025-56435">
@@ -1030,6 +1035,7 @@
 ## CVE-2025-55315 ()
 > 
 - [HelixProxy/CVE-2025-55315](https://github.com/HelixProxy/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/HelixProxy/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/HelixProxy/CVE-2025-55315">
+- [nickcopi/CVE-2025-55315-detection-playground](https://github.com/nickcopi/CVE-2025-55315-detection-playground)	<img alt="forks" src="https://img.shields.io/github/forks/nickcopi/CVE-2025-55315-detection-playground">	<img alt="stars" src="https://img.shields.io/github/stars/nickcopi/CVE-2025-55315-detection-playground">
 
 ---
 ## CVE-2025-55287 ()
