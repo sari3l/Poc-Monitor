@@ -4701,6 +4701,11 @@
 - [B1ack4sh/Blackash-CVE-2025-25014](https://github.com/B1ack4sh/Blackash-CVE-2025-25014)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-25014">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-25014">
 
 ---
+## CVE-2025-24990 ()
+> 
+- [moiz-2x/CVE-2025-24990_POC](https://github.com/moiz-2x/CVE-2025-24990_POC)	<img alt="forks" src="https://img.shields.io/github/forks/moiz-2x/CVE-2025-24990_POC">	<img alt="stars" src="https://img.shields.io/github/stars/moiz-2x/CVE-2025-24990_POC">
+
+---
 ## CVE-2025-24971 ()
 > 
 - [be4zad/CVE-2025-24971](https://github.com/be4zad/CVE-2025-24971)	<img alt="forks" src="https://img.shields.io/github/forks/be4zad/CVE-2025-24971">	<img alt="stars" src="https://img.shields.io/github/stars/be4zad/CVE-2025-24971">
