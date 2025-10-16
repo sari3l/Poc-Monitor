@@ -1875,6 +1875,7 @@
 ## CVE-2025-49553 ()
 > 
 - [SysRooter/CVE-2025-49553](https://github.com/SysRooter/CVE-2025-49553)	<img alt="forks" src="https://img.shields.io/github/forks/SysRooter/CVE-2025-49553">	<img alt="stars" src="https://img.shields.io/github/stars/SysRooter/CVE-2025-49553">
+- [silentexploitexe/CVE-2025-49553](https://github.com/silentexploitexe/CVE-2025-49553)	<img alt="forks" src="https://img.shields.io/github/forks/silentexploitexe/CVE-2025-49553">	<img alt="stars" src="https://img.shields.io/github/stars/silentexploitexe/CVE-2025-49553">
 
 ---
 ## CVE-2025-49493 ()
@@ -5595,6 +5596,7 @@
 ## CVE-2025-10850 ()
 > 
 - [OpcodeRogue/CVE-2025-10850](https://github.com/OpcodeRogue/CVE-2025-10850)	<img alt="forks" src="https://img.shields.io/github/forks/OpcodeRogue/CVE-2025-10850">	<img alt="stars" src="https://img.shields.io/github/stars/OpcodeRogue/CVE-2025-10850">
+- [pulsecipher/CVE-2025-10850](https://github.com/pulsecipher/CVE-2025-10850)	<img alt="forks" src="https://img.shields.io/github/forks/pulsecipher/CVE-2025-10850">	<img alt="stars" src="https://img.shields.io/github/stars/pulsecipher/CVE-2025-10850">
 
 ---
 ## CVE-2025-10792 ()
