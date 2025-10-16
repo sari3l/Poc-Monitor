@@ -5961,6 +5961,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [edutko/cve-2024-31497](https://github.com/edutko/cve-2024-31497)	<img alt="forks" src="https://img.shields.io/github/forks/edutko/cve-2024-31497">	<img alt="stars" src="https://img.shields.io/github/stars/edutko/cve-2024-31497">
 - [ViktorNaum/CVE-2024-31497-POC](https://github.com/ViktorNaum/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ViktorNaum/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ViktorNaum/CVE-2024-31497-POC">
 - [HugoBond/CVE-2024-31497-POC](https://github.com/HugoBond/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HugoBond/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HugoBond/CVE-2024-31497-POC">
+- [LukaWynants/Onderzoek_CVE-2024-31497-POC](https://github.com/LukaWynants/Onderzoek_CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LukaWynants/Onderzoek_CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LukaWynants/Onderzoek_CVE-2024-31497-POC">
 
 ---
 ## CVE-2024-31449 ()
