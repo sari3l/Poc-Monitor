@@ -5692,6 +5692,7 @@
 > 
 - [Nxploited/CVE-2025-10041](https://github.com/Nxploited/CVE-2025-10041)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-10041">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-10041">
 - [AlloyRecon/CVE-2025-10041](https://github.com/AlloyRecon/CVE-2025-10041)	<img alt="forks" src="https://img.shields.io/github/forks/AlloyRecon/CVE-2025-10041">	<img alt="stars" src="https://img.shields.io/github/stars/AlloyRecon/CVE-2025-10041">
+- [Kai-One001/WordPress-Flex-QR-Code-Generator---CVE-2025-10041](https://github.com/Kai-One001/WordPress-Flex-QR-Code-Generator---CVE-2025-10041)	<img alt="forks" src="https://img.shields.io/github/forks/Kai-One001/WordPress-Flex-QR-Code-Generator---CVE-2025-10041">	<img alt="stars" src="https://img.shields.io/github/stars/Kai-One001/WordPress-Flex-QR-Code-Generator---CVE-2025-10041">
 
 ---
 ## CVE-2025-10035 ()

@@ -1643,6 +1643,11 @@
 - [Trinadh465/linux-4.1.15_CVE-2017-1000371](https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2017-1000371">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2017-1000371">
 
 ---
+## CVE-2017-1000367 ()
+> 
+- [letsr00t/CVE-2017-1000367](https://github.com/letsr00t/CVE-2017-1000367)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2017-1000367">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2017-1000367">
+
+---
 ## CVE-2017-1000353 (2018-01-29T17:29:00)
 > Jenkins versions 2.56 and earlier as well as 2.46.1 LTS and earlier are vulnerable to an unauthenticated remote code execution. An unauthenticated remote code execution vulnerability allowed attackers to transfer a serialized Java `SignedObject` object to the Jenkins CLI, that would be deserialized using a new `ObjectInputStream`, bypassing the existing blacklist-based protection mechanism. We're fixing this issue by adding `SignedObject` to the blacklist. We're also backporting the new HTTP CLI protocol from Jenkins 2.54 to LTS 2.46.2, and deprecating the remoting-based (i.e. Java serialization) CLI protocol, disabling it by default.
 - [r00t4dm/Jenkins-CVE-2017-1000353](https://github.com/r00t4dm/Jenkins-CVE-2017-1000353)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/Jenkins-CVE-2017-1000353">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/Jenkins-CVE-2017-1000353">
