@@ -186,6 +186,7 @@
 - [tookATE/CVE-2025-8088](https://github.com/tookATE/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/tookATE/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/tookATE/CVE-2025-8088">
 - [Snorx-cyber/CVE-2025-8088-builder](https://github.com/Snorx-cyber/CVE-2025-8088-builder)	<img alt="forks" src="https://img.shields.io/github/forks/Snorx-cyber/CVE-2025-8088-builder">	<img alt="stars" src="https://img.shields.io/github/stars/Snorx-cyber/CVE-2025-8088-builder">
 - [aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool](https://github.com/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool">
+- [blowrrr/cve-2025-8088](https://github.com/blowrrr/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/blowrrr/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/blowrrr/cve-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
