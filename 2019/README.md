@@ -1904,6 +1904,7 @@ use after free.
 - [TheRealRzyS/nmap-citrix-cve-2019-19781](https://github.com/TheRealRzyS/nmap-citrix-cve-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/TheRealRzyS/nmap-citrix-cve-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/TheRealRzyS/nmap-citrix-cve-2019-19781">
 - [user20252228/CVE-2019-19781](https://github.com/user20252228/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/user20252228/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/user20252228/CVE-2019-19781">
 - [hyunjin0334/CVE-2019-19781](https://github.com/hyunjin0334/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/hyunjin0334/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/hyunjin0334/CVE-2019-19781">
+- [autocode07/cisagov__check-cve-2019-19781.4142e02b](https://github.com/autocode07/cisagov__check-cve-2019-19781.4142e02b)	<img alt="forks" src="https://img.shields.io/github/forks/autocode07/cisagov__check-cve-2019-19781.4142e02b">	<img alt="stars" src="https://img.shields.io/github/stars/autocode07/cisagov__check-cve-2019-19781.4142e02b">
 
 ---
 ## CVE-2019-19725 (2019-12-11T18:16:00)
