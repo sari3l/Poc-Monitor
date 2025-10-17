@@ -9542,6 +9542,7 @@ authentication.   
 ## CVE-2024-13513 ()
 > 
 - [KTN1990/CVE-2024-13513](https://github.com/KTN1990/CVE-2024-13513)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-13513">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-13513">
+- [0axz-tools/CVE-2024-13513.py](https://github.com/0axz-tools/CVE-2024-13513.py)	<img alt="forks" src="https://img.shields.io/github/forks/0axz-tools/CVE-2024-13513.py">	<img alt="stars" src="https://img.shields.io/github/stars/0axz-tools/CVE-2024-13513.py">
 
 ---
 ## CVE-2024-13489 ()
