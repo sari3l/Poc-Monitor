@@ -1646,6 +1646,10 @@
 ## CVE-2017-1000367 ()
 > 
 - [letsr00t/CVE-2017-1000367](https://github.com/letsr00t/CVE-2017-1000367)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2017-1000367">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2017-1000367">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
+- [pucerpocok/sudo_exploit](https://github.com/pucerpocok/sudo_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/pucerpocok/sudo_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/pucerpocok/sudo_exploit">
+- [c0d3z3r0/sudo-CVE-2017-1000367](https://github.com/c0d3z3r0/sudo-CVE-2017-1000367)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3z3r0/sudo-CVE-2017-1000367">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3z3r0/sudo-CVE-2017-1000367">
+- [homjxi0e/CVE-2017-1000367](https://github.com/homjxi0e/CVE-2017-1000367)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-1000367">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-1000367">
 
 ---
 ## CVE-2017-1000353 (2018-01-29T17:29:00)
