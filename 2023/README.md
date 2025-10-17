@@ -4481,6 +4481,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">
 
 ---
+## CVE-2023-34804 ()
+> 
+- [Shahibakes/Cve-2023-34804](https://github.com/Shahibakes/Cve-2023-34804)	<img alt="forks" src="https://img.shields.io/github/forks/Shahibakes/Cve-2023-34804">	<img alt="stars" src="https://img.shields.io/github/stars/Shahibakes/Cve-2023-34804">
+
+---
 ## CVE-2023-34747 (2023-06-14T14:15:00)
 > File upload vulnerability in ujcms 6.0.2 via /api/backend/core/web-file-upload/upload.
 - [codeb0ss/CVE-2023-34747-PoC](https://github.com/codeb0ss/CVE-2023-34747-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-34747-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-34747-PoC">
