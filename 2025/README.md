@@ -4800,6 +4800,7 @@
 - [gotr00t0day/CVE-2025-24893](https://github.com/gotr00t0day/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2025-24893">
 - [AliAmouz/CVE2025-24893](https://github.com/AliAmouz/CVE2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/AliAmouz/CVE2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/AliAmouz/CVE2025-24893">
 - [ibrahmsql/CVE-2025-24893](https://github.com/ibrahmsql/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-24893">
+- [Yukik4z3/CVE-2025-24893](https://github.com/Yukik4z3/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Yukik4z3/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Yukik4z3/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
