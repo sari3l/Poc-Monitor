@@ -37,6 +37,11 @@
 - [Tiger3080/CVE-2025-9267](https://github.com/Tiger3080/CVE-2025-9267)	<img alt="forks" src="https://img.shields.io/github/forks/Tiger3080/CVE-2025-9267">	<img alt="stars" src="https://img.shields.io/github/stars/Tiger3080/CVE-2025-9267">
 
 ---
+## CVE-2025-9242 ()
+> 
+- [pulsecipher/CVE-2025-9242](https://github.com/pulsecipher/CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/pulsecipher/CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/pulsecipher/CVE-2025-9242">
+
+---
 ## CVE-2025-9196 ()
 > 
 - [godfatherofexps/CVE-2025-9196-PoC](https://github.com/godfatherofexps/CVE-2025-9196-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/godfatherofexps/CVE-2025-9196-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/godfatherofexps/CVE-2025-9196-PoC">
