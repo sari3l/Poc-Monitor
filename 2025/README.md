@@ -545,6 +545,11 @@
 - [0xgh057r3c0n/CVE-2025-6058](https://github.com/0xgh057r3c0n/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-6058">
 
 ---
+## CVE-2025-60500 ()
+> 
+- [H4zaz/CVE-2025-60500](https://github.com/H4zaz/CVE-2025-60500)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2025-60500">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2025-60500">
+
+---
 ## CVE-2025-60378 ()
 > 
 - [ajansha/CVE-2025-60378](https://github.com/ajansha/CVE-2025-60378)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60378">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60378">
@@ -3389,6 +3394,7 @@
 - [cybershaolin47/CVE-2025-32463_POC](https://github.com/cybershaolin47/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybershaolin47/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybershaolin47/CVE-2025-32463_POC">
 - [cyberajju/CVE-2025-32463](https://github.com/cyberajju/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/CVE-2025-32463">
 - [dr4x-c0d3r/sudo-chroot](https://github.com/dr4x-c0d3r/sudo-chroot)	<img alt="forks" src="https://img.shields.io/github/forks/dr4x-c0d3r/sudo-chroot">	<img alt="stars" src="https://img.shields.io/github/stars/dr4x-c0d3r/sudo-chroot">
+- [dr4xp/sudo-chroot](https://github.com/dr4xp/sudo-chroot)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/sudo-chroot">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/sudo-chroot">
 
 ---
 ## CVE-2025-32462 ()
