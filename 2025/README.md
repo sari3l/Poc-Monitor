@@ -40,6 +40,7 @@
 ## CVE-2025-9242 ()
 > 
 - [pulsecipher/CVE-2025-9242](https://github.com/pulsecipher/CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/pulsecipher/CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/pulsecipher/CVE-2025-9242">
+- [watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242](https://github.com/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">
 
 ---
 ## CVE-2025-9196 ()
@@ -1074,6 +1075,7 @@
 - [snowcrashlord/CVE-2025-55315](https://github.com/snowcrashlord/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/snowcrashlord/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/snowcrashlord/CVE-2025-55315">
 - [RootAid/CVE-2025-55315](https://github.com/RootAid/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2025-55315">
 - [bytetornado/CVE-2025-55315](https://github.com/bytetornado/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/bytetornado/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/bytetornado/CVE-2025-55315">
+- [digitalsnemesis/CVE-2025-55315](https://github.com/digitalsnemesis/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/digitalsnemesis/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/digitalsnemesis/CVE-2025-55315">
 
 ---
 ## CVE-2025-55287 ()
