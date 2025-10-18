@@ -6960,6 +6960,7 @@
 - [murataydemir/CVE-2021-27905](https://github.com/murataydemir/CVE-2021-27905)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2021-27905">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2021-27905">
 - [W2Ning/Solr-SSRF](https://github.com/W2Ning/Solr-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/W2Ning/Solr-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/W2Ning/Solr-SSRF">
 - [Henry4E36/Solr-SSRF](https://github.com/Henry4E36/Solr-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Solr-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Solr-SSRF">
+- [RIZZZIOM/CVE-2021-27905](https://github.com/RIZZZIOM/CVE-2021-27905)	<img alt="forks" src="https://img.shields.io/github/forks/RIZZZIOM/CVE-2021-27905">	<img alt="stars" src="https://img.shields.io/github/stars/RIZZZIOM/CVE-2021-27905">
 
 ---
 ## CVE-2021-27855 (2021-12-15T20:15:00)
