@@ -7331,6 +7331,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [dkhacks/CVE_2024_27198](https://github.com/dkhacks/CVE_2024_27198)	<img alt="forks" src="https://img.shields.io/github/forks/dkhacks/CVE_2024_27198">	<img alt="stars" src="https://img.shields.io/github/stars/dkhacks/CVE_2024_27198">
 - [Cythonic1/CVE-2024-27198_POC](https://github.com/Cythonic1/CVE-2024-27198_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cythonic1/CVE-2024-27198_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cythonic1/CVE-2024-27198_POC">
 - [ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability](https://github.com/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability">
+- [wall0wW1spr/CVE-2024-27198](https://github.com/wall0wW1spr/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/wall0wW1spr/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/wall0wW1spr/CVE-2024-27198">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
@@ -9835,6 +9836,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 ## CVE-2024-11392 ()
 > 
 - [Piyush-Bhor/CVE-2024-11392](https://github.com/Piyush-Bhor/CVE-2024-11392)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Bhor/CVE-2024-11392">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Bhor/CVE-2024-11392">
+- [stuxbench/vllm-cve-2024-11392](https://github.com/stuxbench/vllm-cve-2024-11392)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/vllm-cve-2024-11392">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/vllm-cve-2024-11392">
 
 ---
 ## CVE-2024-11388 (2024-11-21T11:15:00)
