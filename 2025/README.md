@@ -1233,6 +1233,8 @@
 - [barbaraeivyu/CVE-2025-54253-e](https://github.com/barbaraeivyu/CVE-2025-54253-e)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-54253-e">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-54253-e">
 - [jm7knz/CVE-2025-54253-Exploit-Demo](https://github.com/jm7knz/CVE-2025-54253-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/jm7knz/CVE-2025-54253-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/jm7knz/CVE-2025-54253-Exploit-Demo">
 - [akujedanjedon/CVE-2025-54253-Exploit-Demo](https://github.com/akujedanjedon/CVE-2025-54253-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/akujedanjedon/CVE-2025-54253-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/akujedanjedon/CVE-2025-54253-Exploit-Demo">
+- [25145hg654511135gfhfkr8488r8r8r8r8r/test2](https://github.com/25145hg654511135gfhfkr8488r8r8r8r8r/test2)	<img alt="forks" src="https://img.shields.io/github/forks/25145hg654511135gfhfkr8488r8r8r8r8r/test2">	<img alt="stars" src="https://img.shields.io/github/stars/25145hg654511135gfhfkr8488r8r8r8r8r/test2">
+- [25145hg654511135gfhfkr8488r8r8r8r8r/test](https://github.com/25145hg654511135gfhfkr8488r8r8r8r8r/test)	<img alt="forks" src="https://img.shields.io/github/forks/25145hg654511135gfhfkr8488r8r8r8r8r/test">	<img alt="stars" src="https://img.shields.io/github/stars/25145hg654511135gfhfkr8488r8r8r8r8r/test">
 
 ---
 ## CVE-2025-5419 ()
@@ -3180,6 +3182,7 @@
 - [matejsmycka/CVE-2025-33073-checker](https://github.com/matejsmycka/CVE-2025-33073-checker)	<img alt="forks" src="https://img.shields.io/github/forks/matejsmycka/CVE-2025-33073-checker">	<img alt="stars" src="https://img.shields.io/github/stars/matejsmycka/CVE-2025-33073-checker">
 - [cve-2025-33073/cve-2025-33073](https://github.com/cve-2025-33073/cve-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2025-33073/cve-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2025-33073/cve-2025-33073">
 - [sleepasleepzzz/CVE-2025-33073](https://github.com/sleepasleepzzz/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sleepasleepzzz/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sleepasleepzzz/CVE-2025-33073">
+- [SellMeFish/windows-smb-vulnerability-framework-cve-2025-33073](https://github.com/SellMeFish/windows-smb-vulnerability-framework-cve-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/SellMeFish/windows-smb-vulnerability-framework-cve-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/SellMeFish/windows-smb-vulnerability-framework-cve-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
