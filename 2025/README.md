@@ -4737,6 +4737,7 @@
 - [TheStingR/CVE-2025-25257](https://github.com/TheStingR/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-25257">
 - [segfault-it/CVE-2025-25257](https://github.com/segfault-it/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/segfault-it/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/segfault-it/CVE-2025-25257">
 - [kityzed2003/CVE-2025-25257](https://github.com/kityzed2003/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/kityzed2003/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/kityzed2003/CVE-2025-25257">
+- [silentexploitexe/CVE-2025-25257](https://github.com/silentexploitexe/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/silentexploitexe/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/silentexploitexe/CVE-2025-25257">
 
 ---
 ## CVE-2025-25256 ()
