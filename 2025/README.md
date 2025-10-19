@@ -448,6 +448,7 @@
 ## CVE-2025-61884 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-61884](https://github.com/B1ack4sh/Blackash-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61884">
+- [shinyhunterz/CVE-2025-61884-61882](https://github.com/shinyhunterz/CVE-2025-61884-61882)	<img alt="forks" src="https://img.shields.io/github/forks/shinyhunterz/CVE-2025-61884-61882">	<img alt="stars" src="https://img.shields.io/github/stars/shinyhunterz/CVE-2025-61884-61882">
 
 ---
 ## CVE-2025-61882 ()
