@@ -695,6 +695,11 @@
 - [Live-Hack-CVE/CVE-2016-3709](https://github.com/Live-Hack-CVE/CVE-2016-3709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-3709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-3709">
 
 ---
+## CVE-2016-3627 ()
+> 
+- [Oneton429/CVE-2016-3627](https://github.com/Oneton429/CVE-2016-3627)	<img alt="forks" src="https://img.shields.io/github/forks/Oneton429/CVE-2016-3627">	<img alt="stars" src="https://img.shields.io/github/stars/Oneton429/CVE-2016-3627">
+
+---
 ## CVE-2016-3189 (2016-06-30T17:59:00)
 > Use-after-free vulnerability in bzip2recover in bzip2 1.0.6 allows remote attackers to cause a denial of service (crash) via a crafted bzip2 file, related to block ends set to before the start of the block.
 - [Live-Hack-CVE/CVE-2016-3189](https://github.com/Live-Hack-CVE/CVE-2016-3189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-3189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-3189">
