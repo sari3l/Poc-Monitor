@@ -5634,6 +5634,11 @@
 - [SilentPacket-cmd/CVE-2025-11832](https://github.com/SilentPacket-cmd/CVE-2025-11832)	<img alt="forks" src="https://img.shields.io/github/forks/SilentPacket-cmd/CVE-2025-11832">	<img alt="stars" src="https://img.shields.io/github/stars/SilentPacket-cmd/CVE-2025-11832">
 
 ---
+## CVE-2025-11579 ()
+> 
+- [shinigami-777/PoC_CVE-2025-11579](https://github.com/shinigami-777/PoC_CVE-2025-11579)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-11579">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-11579">
+
+---
 ## CVE-2025-11449 ()
 > 
 - [DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script](https://github.com/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script)	<img alt="forks" src="https://img.shields.io/github/forks/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">	<img alt="stars" src="https://img.shields.io/github/stars/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">
@@ -5671,6 +5676,7 @@
 - [ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi](https://github.com/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">
 - [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/aninfosec/CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/aninfosec/CVE-2025-1094">
 - [B1ack4sh/Blackash-CVE-2025-1094](https://github.com/B1ack4sh/Blackash-CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-1094">
+- [PinkArmor/CVE-2025-1094-Lab-Setup](https://github.com/PinkArmor/CVE-2025-1094-Lab-Setup)	<img alt="forks" src="https://img.shields.io/github/forks/PinkArmor/CVE-2025-1094-Lab-Setup">	<img alt="stars" src="https://img.shields.io/github/stars/PinkArmor/CVE-2025-1094-Lab-Setup">
 
 ---
 ## CVE-2025-10850 ()
