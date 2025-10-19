@@ -1091,6 +1091,7 @@
 - [RootAid/CVE-2025-55315](https://github.com/RootAid/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2025-55315">
 - [bytetornado/CVE-2025-55315](https://github.com/bytetornado/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/bytetornado/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/bytetornado/CVE-2025-55315">
 - [digitalsnemesis/CVE-2025-55315](https://github.com/digitalsnemesis/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/digitalsnemesis/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/digitalsnemesis/CVE-2025-55315">
+- [7huukdlnkjkjba/CVE-2025-55315-](https://github.com/7huukdlnkjkjba/CVE-2025-55315-)	<img alt="forks" src="https://img.shields.io/github/forks/7huukdlnkjkjba/CVE-2025-55315-">	<img alt="stars" src="https://img.shields.io/github/stars/7huukdlnkjkjba/CVE-2025-55315-">
 
 ---
 ## CVE-2025-55287 ()
