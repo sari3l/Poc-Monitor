@@ -5738,6 +5738,11 @@
 - [FixingPhantom/CVE-2025-10294](https://github.com/FixingPhantom/CVE-2025-10294)	<img alt="forks" src="https://img.shields.io/github/forks/FixingPhantom/CVE-2025-10294">	<img alt="stars" src="https://img.shields.io/github/stars/FixingPhantom/CVE-2025-10294">
 
 ---
+## CVE-2025-10230 ()
+> 
+- [dptsec/CVE-2025-10230](https://github.com/dptsec/CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/dptsec/CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/dptsec/CVE-2025-10230">
+
+---
 ## CVE-2025-10184 ()
 > 
 - [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/People-11/CVE-2025-10184_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/People-11/CVE-2025-10184_PoC">
