@@ -1174,6 +1174,11 @@
 - [Wizard079/CVE-2025-54887_POC](https://github.com/Wizard079/CVE-2025-54887_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wizard079/CVE-2025-54887_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wizard079/CVE-2025-54887_POC">
 
 ---
+## CVE-2025-54874 ()
+> 
+- [cyhe50/cve-2025-54874-poc](https://github.com/cyhe50/cve-2025-54874-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cyhe50/cve-2025-54874-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cyhe50/cve-2025-54874-poc">
+
+---
 ## CVE-2025-54794 ()
 > 
 - [AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back](https://github.com/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">
