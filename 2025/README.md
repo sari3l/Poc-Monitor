@@ -3513,6 +3513,7 @@
 - [iteride/CVE-2025-32433](https://github.com/iteride/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-32433">
 - [mirmeweu/cve-2025-32433](https://github.com/mirmeweu/cve-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/mirmeweu/cve-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/mirmeweu/cve-2025-32433">
 - [Batman529/PoC-CVE-2025-32433](https://github.com/Batman529/PoC-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Batman529/PoC-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Batman529/PoC-CVE-2025-32433">
+- [toshithh/CVE-2025-32433](https://github.com/toshithh/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/toshithh/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/toshithh/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
