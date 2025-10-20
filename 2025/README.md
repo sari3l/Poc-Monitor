@@ -3890,6 +3890,7 @@
 - [bugdotexe/CVE-2025-30208](https://github.com/bugdotexe/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/bugdotexe/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/bugdotexe/CVE-2025-30208">
 - [Dany60-98/CVE-2025-30208-EXP](https://github.com/Dany60-98/CVE-2025-30208-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Dany60-98/CVE-2025-30208-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Dany60-98/CVE-2025-30208-EXP">
 - [qodo-dev/CVE-2025-30208](https://github.com/qodo-dev/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/qodo-dev/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/qodo-dev/CVE-2025-30208">
+- [Lusensec/CVE-2025-30208](https://github.com/Lusensec/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/Lusensec/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/Lusensec/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
