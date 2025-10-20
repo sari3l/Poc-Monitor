@@ -670,6 +670,11 @@
 - [callinston/CVE-2025-59246](https://github.com/callinston/CVE-2025-59246)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-59246">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-59246">
 
 ---
+## CVE-2025-59230 ()
+> 
+- [moegameka/cve-2025-59230](https://github.com/moegameka/cve-2025-59230)	<img alt="forks" src="https://img.shields.io/github/forks/moegameka/cve-2025-59230">	<img alt="stars" src="https://img.shields.io/github/stars/moegameka/cve-2025-59230">
+
+---
 ## CVE-2025-58789 ()
 > 
 - [quetuan03/CVE-2025-58789](https://github.com/quetuan03/CVE-2025-58789)	<img alt="forks" src="https://img.shields.io/github/forks/quetuan03/CVE-2025-58789">	<img alt="stars" src="https://img.shields.io/github/stars/quetuan03/CVE-2025-58789">
