@@ -649,6 +649,11 @@
 - [usjnx72726w/CVE-2025-59295](https://github.com/usjnx72726w/CVE-2025-59295)	<img alt="forks" src="https://img.shields.io/github/forks/usjnx72726w/CVE-2025-59295">	<img alt="stars" src="https://img.shields.io/github/stars/usjnx72726w/CVE-2025-59295">
 
 ---
+## CVE-2025-59287 ()
+> 
+- [keeganparr1/CVE-2025-59287-hawktrace](https://github.com/keeganparr1/CVE-2025-59287-hawktrace)	<img alt="forks" src="https://img.shields.io/github/forks/keeganparr1/CVE-2025-59287-hawktrace">	<img alt="stars" src="https://img.shields.io/github/stars/keeganparr1/CVE-2025-59287-hawktrace">
+
+---
 ## CVE-2025-59285 ()
 > 
 - [allinsthon/CVE-2025-59285](https://github.com/allinsthon/CVE-2025-59285)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-59285">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-59285">
