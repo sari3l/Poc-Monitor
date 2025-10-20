@@ -5674,6 +5674,7 @@
 ## CVE-2025-11391 ()
 > 
 - [aritlhq/CVE-2025-11391](https://github.com/aritlhq/CVE-2025-11391)	<img alt="forks" src="https://img.shields.io/github/forks/aritlhq/CVE-2025-11391">	<img alt="stars" src="https://img.shields.io/github/stars/aritlhq/CVE-2025-11391">
+- [aritlhq/CVE-2025-11391](https://github.com/aritlhq/CVE-2025-11391)	<img alt="forks" src="https://img.shields.io/github/forks/aritlhq/CVE-2025-11391">	<img alt="stars" src="https://img.shields.io/github/stars/aritlhq/CVE-2025-11391">
 
 ---
 ## CVE-2025-11371 ()
