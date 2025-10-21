@@ -244,6 +244,7 @@
 ## CVE-2017-7679 ()
 > 
 - [Al-Lord0x/CVE-2017-7679](https://github.com/Al-Lord0x/CVE-2017-7679)	<img alt="forks" src="https://img.shields.io/github/forks/Al-Lord0x/CVE-2017-7679">	<img alt="stars" src="https://img.shields.io/github/stars/Al-Lord0x/CVE-2017-7679">
+- [snknritr/CVE-2017-7679-in-python](https://github.com/snknritr/CVE-2017-7679-in-python)	<img alt="forks" src="https://img.shields.io/github/forks/snknritr/CVE-2017-7679-in-python">	<img alt="stars" src="https://img.shields.io/github/stars/snknritr/CVE-2017-7679-in-python">
 
 ---
 ## CVE-2017-7605 (2017-04-09T14:59:00)
