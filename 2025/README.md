@@ -226,6 +226,11 @@
 - [Nxploited/CVE-2025-7955](https://github.com/Nxploited/CVE-2025-7955)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-7955">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-7955">
 
 ---
+## CVE-2025-7850 ()
+> 
+- [ByteHawkSec/CVE-2025-7850-POC](https://github.com/ByteHawkSec/CVE-2025-7850-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHawkSec/CVE-2025-7850-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHawkSec/CVE-2025-7850-POC">
+
+---
 ## CVE-2025-7847 ()
 > 
 - [EricArdiansa/CVE-2025-7847-POC](https://github.com/EricArdiansa/CVE-2025-7847-POC)	<img alt="forks" src="https://img.shields.io/github/forks/EricArdiansa/CVE-2025-7847-POC">	<img alt="stars" src="https://img.shields.io/github/stars/EricArdiansa/CVE-2025-7847-POC">
