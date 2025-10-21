@@ -1499,6 +1499,11 @@
 - [Live-Hack-CVE/CVE-2020-35628](https://github.com/Live-Hack-CVE/CVE-2020-35628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35628">
 
 ---
+## CVE-2020-35590 ()
+> 
+- [N4nj0/CVE-2020-35590](https://github.com/N4nj0/CVE-2020-35590)	<img alt="forks" src="https://img.shields.io/github/forks/N4nj0/CVE-2020-35590">	<img alt="stars" src="https://img.shields.io/github/stars/N4nj0/CVE-2020-35590">
+
+---
 ## CVE-2020-35575 (2020-12-26T02:15:00)
 > A password-disclosure issue in the web interface on certain TP-Link devices allows a remote attacker to get full administrative access to the web panel. This affects WA901ND devices before 3.16.9(201211) beta, and Archer C5, Archer C7, MR3420, MR6400, WA701ND, WA801ND, WDR3500, WDR3600, WE843N, WR1043ND, WR1045ND, WR740N, WR741ND, WR749N, WR802N, WR840N, WR841HP, WR841N, WR842N, WR842ND, WR845N, WR940N, WR941HP, WR945N, WR949N, and WRD4300 devices.
 - [dylvie/CVE-2020-35575-TP-LINK-TL-WR841ND-password-disclosure](https://github.com/dylvie/CVE-2020-35575-TP-LINK-TL-WR841ND-password-disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2020-35575-TP-LINK-TL-WR841ND-password-disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2020-35575-TP-LINK-TL-WR841ND-password-disclosure">
