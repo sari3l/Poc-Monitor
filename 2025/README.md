@@ -2094,6 +2094,11 @@
 - [Nxploited/CVE-2025-49029](https://github.com/Nxploited/CVE-2025-49029)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-49029">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-49029">
 
 ---
+## CVE-2025-49002 ()
+> 
+- [Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002](https://github.com/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002)	<img alt="forks" src="https://img.shields.io/github/forks/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002">	<img alt="stars" src="https://img.shields.io/github/stars/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002">
+
+---
 ## CVE-2025-48988 ()
 > 
 - [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
@@ -5482,6 +5487,11 @@
 - [amandanegefa/CVE-2025-20286](https://github.com/amandanegefa/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-20286">
 - [noeneal/CVE-2025-20286](https://github.com/noeneal/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/noeneal/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/noeneal/CVE-2025-20286">
 - [rbaicba/CVE-2025-20286](https://github.com/rbaicba/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-20286">
+
+---
+## CVE-2025-20282 ()
+> 
+- [skadevare/CiscoISE-CVE-2025-20282-POC](https://github.com/skadevare/CiscoISE-CVE-2025-20282-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skadevare/CiscoISE-CVE-2025-20282-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skadevare/CiscoISE-CVE-2025-20282-POC">
 
 ---
 ## CVE-2025-20281 ()
