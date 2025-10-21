@@ -190,6 +190,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [nothe1senberg/CVE-2024-9379](https://github.com/nothe1senberg/CVE-2024-9379)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9379">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9379">
 
 ---
+## CVE-2024-9348 ()
+> 
+- [Nimisha17/CVE-2024-9348-poc](https://github.com/Nimisha17/CVE-2024-9348-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nimisha17/CVE-2024-9348-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nimisha17/CVE-2024-9348-poc">
+
+---
 ## CVE-2024-9326 (2024-09-29T08:15:00)
 > A vulnerability classified as critical was found in PHPGurukul Online Shopping Portal 2.0. This vulnerability affects unknown code of the file /shopping/admin/index.php of the component Admin Panel. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.
 - [ghostwirez/CVE-2024-9326-PoC](https://github.com/ghostwirez/CVE-2024-9326-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ghostwirez/CVE-2024-9326-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ghostwirez/CVE-2024-9326-PoC">
