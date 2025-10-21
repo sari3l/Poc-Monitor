@@ -5673,6 +5673,7 @@
 - [Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Kastowm/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
+- [Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 
 ---
 ## CVE-2025-11832 ()
