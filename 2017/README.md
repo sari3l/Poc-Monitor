@@ -241,6 +241,11 @@
 - [Live-Hack-CVE/CVE-2017-7886](https://github.com/Live-Hack-CVE/CVE-2017-7886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7886">
 
 ---
+## CVE-2017-7679 ()
+> 
+- [Al-Lord0x/CVE-2017-7679](https://github.com/Al-Lord0x/CVE-2017-7679)	<img alt="forks" src="https://img.shields.io/github/forks/Al-Lord0x/CVE-2017-7679">	<img alt="stars" src="https://img.shields.io/github/stars/Al-Lord0x/CVE-2017-7679">
+
+---
 ## CVE-2017-7605 (2017-04-09T14:59:00)
 > aacplusenc.c in HE-AAC+ Codec (aka libaacplus) 2.0.2 has an assertion failure, which might allow remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact via a crafted audio file.
 - [Live-Hack-CVE/CVE-2017-7605](https://github.com/Live-Hack-CVE/CVE-2017-7605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7605">
