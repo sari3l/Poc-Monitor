@@ -1908,6 +1908,8 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 > 
 - [infernosalex/CVE-2023-45612-PoC](https://github.com/infernosalex/CVE-2023-45612-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/infernosalex/CVE-2023-45612-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/infernosalex/CVE-2023-45612-PoC">
 - [bbugdigger/ktor-xxe-poc](https://github.com/bbugdigger/ktor-xxe-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bbugdigger/ktor-xxe-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bbugdigger/ktor-xxe-poc">
+- [clemfavre/cve-2023-45612_exploit](https://github.com/clemfavre/cve-2023-45612_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/clemfavre/cve-2023-45612_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/clemfavre/cve-2023-45612_exploit">
+- [aecelen/ktor-xxe-poc](https://github.com/aecelen/ktor-xxe-poc)	<img alt="forks" src="https://img.shields.io/github/forks/aecelen/ktor-xxe-poc">	<img alt="stars" src="https://img.shields.io/github/stars/aecelen/ktor-xxe-poc">
 
 ---
 ## CVE-2023-45603 (2023-12-20T19:15:00)
