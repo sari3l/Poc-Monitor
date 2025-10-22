@@ -1515,6 +1515,7 @@
 ## CVE-2025-53072 ()
 > 
 - [rxerium/CVE-2025-53072-CVE-2025-62481](https://github.com/rxerium/CVE-2025-53072-CVE-2025-62481)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-53072-CVE-2025-62481">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-53072-CVE-2025-62481">
+- [RedFoxNxploits/CVE-2025-53072](https://github.com/RedFoxNxploits/CVE-2025-53072)	<img alt="forks" src="https://img.shields.io/github/forks/RedFoxNxploits/CVE-2025-53072">	<img alt="stars" src="https://img.shields.io/github/stars/RedFoxNxploits/CVE-2025-53072">
 
 ---
 ## CVE-2025-5304 ()
