@@ -449,6 +449,7 @@
 ## CVE-2025-62168 ()
 > 
 - [monzaviman/CVE-2025-62168](https://github.com/monzaviman/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE-2025-62168">
+- [monzaviman/CVE-2025-62168](https://github.com/monzaviman/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE-2025-62168">
 
 ---
 ## CVE-2025-6202 ()
