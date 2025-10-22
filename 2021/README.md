@@ -5086,6 +5086,8 @@
 - [fathallah17/OverlayFS-CVE-2021-3493](https://github.com/fathallah17/OverlayFS-CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/fathallah17/OverlayFS-CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/fathallah17/OverlayFS-CVE-2021-3493">
 - [Sornphut/OverlayFS---CVE-2021-3493](https://github.com/Sornphut/OverlayFS---CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Sornphut/OverlayFS---CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Sornphut/OverlayFS---CVE-2021-3493">
 - [cyberx-1/OverlayFS-CVE-2021-3493](https://github.com/cyberx-1/OverlayFS-CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/cyberx-1/OverlayFS-CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/cyberx-1/OverlayFS-CVE-2021-3493">
+- [spideyctf/UbuntuTouchSecurityVAPTReport](https://github.com/spideyctf/UbuntuTouchSecurityVAPTReport)	<img alt="forks" src="https://img.shields.io/github/forks/spideyctf/UbuntuTouchSecurityVAPTReport">	<img alt="stars" src="https://img.shields.io/github/stars/spideyctf/UbuntuTouchSecurityVAPTReport">
+- [azazhe1/Ransomware_CVE_2021_3493](https://github.com/azazhe1/Ransomware_CVE_2021_3493)	<img alt="forks" src="https://img.shields.io/github/forks/azazhe1/Ransomware_CVE_2021_3493">	<img alt="stars" src="https://img.shields.io/github/stars/azazhe1/Ransomware_CVE_2021_3493">
 
 ---
 ## CVE-2021-3490 (2021-06-04T02:15:00)
