@@ -2098,6 +2098,7 @@
 ## CVE-2025-49002 ()
 > 
 - [Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002](https://github.com/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002)	<img alt="forks" src="https://img.shields.io/github/forks/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002">	<img alt="stars" src="https://img.shields.io/github/stars/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002">
+- [jiuzui129-arch/CVE-2025-49002](https://github.com/jiuzui129-arch/CVE-2025-49002)	<img alt="forks" src="https://img.shields.io/github/forks/jiuzui129-arch/CVE-2025-49002">	<img alt="stars" src="https://img.shields.io/github/stars/jiuzui129-arch/CVE-2025-49002">
 
 ---
 ## CVE-2025-48988 ()
@@ -5222,6 +5223,11 @@
 > 
 - [nagenar/CVE-2025-23121-RCE](https://github.com/nagenar/CVE-2025-23121-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nagenar/CVE-2025-23121-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nagenar/CVE-2025-23121-RCE">
 - [nagenar/CVE-2025-23121-RCE](https://github.com/nagenar/CVE-2025-23121-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nagenar/CVE-2025-23121-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nagenar/CVE-2025-23121-RCE">
+
+---
+## CVE-2025-23048 ()
+> 
+- [absholi7ly/CVE-2025-23048-POC](https://github.com/absholi7ly/CVE-2025-23048-POC)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-23048-POC">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-23048-POC">
 
 ---
 ## CVE-2025-23040 ()
