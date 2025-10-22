@@ -601,6 +601,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [davidxbors/CVE-2024-7399-POC](https://github.com/davidxbors/CVE-2024-7399-POC)	<img alt="forks" src="https://img.shields.io/github/forks/davidxbors/CVE-2024-7399-POC">	<img alt="stars" src="https://img.shields.io/github/stars/davidxbors/CVE-2024-7399-POC">
 
 ---
+## CVE-2024-7387 ()
+> 
+- [tevelsho/cve-2024-7387](https://github.com/tevelsho/cve-2024-7387)	<img alt="forks" src="https://img.shields.io/github/forks/tevelsho/cve-2024-7387">	<img alt="stars" src="https://img.shields.io/github/stars/tevelsho/cve-2024-7387">
+
+---
 ## CVE-2024-7385 (2024-09-25T04:15:00)
 > The WordPress Simple HTML Sitemap plugin for WordPress is vulnerable to SQL Injection via the 'id' parameter in all versions up to, and including, 3.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with Administrator-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [nothe1senberg/CVE-2024-7385](https://github.com/nothe1senberg/CVE-2024-7385)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-7385">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-7385">
