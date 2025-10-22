@@ -2397,6 +2397,7 @@ length to be included in the checksum calculation is fully consumed.
 - [Glitch-ao/SOC335-CVE-2024-49138-Exploitation-Detected](https://github.com/Glitch-ao/SOC335-CVE-2024-49138-Exploitation-Detected)	<img alt="forks" src="https://img.shields.io/github/forks/Glitch-ao/SOC335-CVE-2024-49138-Exploitation-Detected">	<img alt="stars" src="https://img.shields.io/github/stars/Glitch-ao/SOC335-CVE-2024-49138-Exploitation-Detected">
 - [onixgod/SOC335-Event-ID-313-CVE-2024-49138-Exploitation-Detected--Lest-Defend-Writeup](https://github.com/onixgod/SOC335-Event-ID-313-CVE-2024-49138-Exploitation-Detected--Lest-Defend-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/onixgod/SOC335-Event-ID-313-CVE-2024-49138-Exploitation-Detected--Lest-Defend-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/onixgod/SOC335-Event-ID-313-CVE-2024-49138-Exploitation-Detected--Lest-Defend-Writeup">
 - [Humbug52542/DLang-file-encryptor](https://github.com/Humbug52542/DLang-file-encryptor)	<img alt="forks" src="https://img.shields.io/github/forks/Humbug52542/DLang-file-encryptor">	<img alt="stars" src="https://img.shields.io/github/stars/Humbug52542/DLang-file-encryptor">
+- [codetronik/CVE-2024-49138](https://github.com/codetronik/CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/codetronik/CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/codetronik/CVE-2024-49138">
 
 ---
 ## CVE-2024-49113 ()
