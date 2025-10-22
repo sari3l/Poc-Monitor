@@ -1510,6 +1510,11 @@
 - [issamjr/CVE-2025-5309-Scanner](https://github.com/issamjr/CVE-2025-5309-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-5309-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-5309-Scanner">
 
 ---
+## CVE-2025-53072 ()
+> 
+- [rxerium/CVE-2025-53072-CVE-2025-62481](https://github.com/rxerium/CVE-2025-53072-CVE-2025-62481)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-53072-CVE-2025-62481">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-53072-CVE-2025-62481">
+
+---
 ## CVE-2025-5304 ()
 > 
 - [Nxploited/CVE-2025-5304](https://github.com/Nxploited/CVE-2025-5304)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5304">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5304">
