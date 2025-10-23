@@ -426,6 +426,11 @@
 - [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335)	<img alt="forks" src="https://img.shields.io/github/forks/jujubooom/CVE-2025-6335">	<img alt="stars" src="https://img.shields.io/github/stars/jujubooom/CVE-2025-6335">
 
 ---
+## CVE-2025-62506 ()
+> 
+- [yoshino-s/CVE-2025-62506](https://github.com/yoshino-s/CVE-2025-62506)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-62506">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-62506">
+
+---
 ## CVE-2025-62410 ()
 > 
 - [SubZeroHackerz/CVE-2025-62410](https://github.com/SubZeroHackerz/CVE-2025-62410)	<img alt="forks" src="https://img.shields.io/github/forks/SubZeroHackerz/CVE-2025-62410">	<img alt="stars" src="https://img.shields.io/github/stars/SubZeroHackerz/CVE-2025-62410">
