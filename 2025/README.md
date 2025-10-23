@@ -435,6 +435,7 @@
 ## CVE-2025-62481 ()
 > 
 - [callinston/CVE-2025-62481](https://github.com/callinston/CVE-2025-62481)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-62481">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-62481">
+- [rxerium/CVE-2025-53072-CVE-2025-62481](https://github.com/rxerium/CVE-2025-53072-CVE-2025-62481)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-53072-CVE-2025-62481">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-53072-CVE-2025-62481">
 
 ---
 ## CVE-2025-62410 ()
