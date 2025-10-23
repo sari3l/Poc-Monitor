@@ -492,6 +492,7 @@
 - [AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit](https://github.com/AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit">
 - [ByteHawkSec/CVE-2025-61882-Poc](https://github.com/ByteHawkSec/CVE-2025-61882-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHawkSec/CVE-2025-61882-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHawkSec/CVE-2025-61882-Poc">
 - [BattalionX/http-oracle-ebs-cve-2025-61882.nse](https://github.com/BattalionX/http-oracle-ebs-cve-2025-61882.nse)	<img alt="forks" src="https://img.shields.io/github/forks/BattalionX/http-oracle-ebs-cve-2025-61882.nse">	<img alt="stars" src="https://img.shields.io/github/stars/BattalionX/http-oracle-ebs-cve-2025-61882.nse">
+- [godnish/CVE-2025-61882](https://github.com/godnish/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/godnish/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/godnish/CVE-2025-61882">
 
 ---
 ## CVE-2025-61777 ()
