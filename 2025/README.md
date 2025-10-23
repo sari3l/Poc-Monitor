@@ -473,6 +473,11 @@
 - [ThanhCT-CyX/Test-CVE-2025-61984](https://github.com/ThanhCT-CyX/Test-CVE-2025-61984)	<img alt="forks" src="https://img.shields.io/github/forks/ThanhCT-CyX/Test-CVE-2025-61984">	<img alt="stars" src="https://img.shields.io/github/stars/ThanhCT-CyX/Test-CVE-2025-61984">
 
 ---
+## CVE-2025-61932 ()
+> 
+- [allinsthon/CVE-2025-61932](https://github.com/allinsthon/CVE-2025-61932)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-61932">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-61932">
+
+---
 ## CVE-2025-61884 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-61884](https://github.com/B1ack4sh/Blackash-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61884">
