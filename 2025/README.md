@@ -432,6 +432,11 @@
 - [yoshino-s/CVE-2025-62506](https://github.com/yoshino-s/CVE-2025-62506)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-62506">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-62506">
 
 ---
+## CVE-2025-62481 ()
+> 
+- [callinston/CVE-2025-62481](https://github.com/callinston/CVE-2025-62481)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-62481">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-62481">
+
+---
 ## CVE-2025-62410 ()
 > 
 - [SubZeroHackerz/CVE-2025-62410](https://github.com/SubZeroHackerz/CVE-2025-62410)	<img alt="forks" src="https://img.shields.io/github/forks/SubZeroHackerz/CVE-2025-62410">	<img alt="stars" src="https://img.shields.io/github/stars/SubZeroHackerz/CVE-2025-62410">
