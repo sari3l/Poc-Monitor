@@ -200,6 +200,7 @@
 - [blowrrr/cve-2025-8088](https://github.com/blowrrr/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/blowrrr/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/blowrrr/cve-2025-8088">
 - [papcaii2004/CVE-2025-8088-WinRAR-builder](https://github.com/papcaii2004/CVE-2025-8088-WinRAR-builder)	<img alt="forks" src="https://img.shields.io/github/forks/papcaii2004/CVE-2025-8088-WinRAR-builder">	<img alt="stars" src="https://img.shields.io/github/stars/papcaii2004/CVE-2025-8088-WinRAR-builder">
 - [kaucent/CVE-2025-8088](https://github.com/kaucent/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kaucent/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kaucent/CVE-2025-8088">
+- [mocred/cve-2025-8088](https://github.com/mocred/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/mocred/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/mocred/cve-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
