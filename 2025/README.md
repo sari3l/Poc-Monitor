@@ -589,6 +589,16 @@
 - [H4zaz/CVE-2025-60500](https://github.com/H4zaz/CVE-2025-60500)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2025-60500">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2025-60500">
 
 ---
+## CVE-2025-60425 ()
+> 
+- [aakashtyal/Session-Persistence-After-Enabling-2FA-CVE-2025-60425](https://github.com/aakashtyal/Session-Persistence-After-Enabling-2FA-CVE-2025-60425)	<img alt="forks" src="https://img.shields.io/github/forks/aakashtyal/Session-Persistence-After-Enabling-2FA-CVE-2025-60425">	<img alt="stars" src="https://img.shields.io/github/stars/aakashtyal/Session-Persistence-After-Enabling-2FA-CVE-2025-60425">
+
+---
+## CVE-2025-60424 ()
+> 
+- [aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424](https://github.com/aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424)	<img alt="forks" src="https://img.shields.io/github/forks/aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424">	<img alt="stars" src="https://img.shields.io/github/stars/aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424">
+
+---
 ## CVE-2025-60378 ()
 > 
 - [ajansha/CVE-2025-60378](https://github.com/ajansha/CVE-2025-60378)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60378">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60378">
