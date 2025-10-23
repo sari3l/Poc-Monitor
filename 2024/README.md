@@ -1218,6 +1218,11 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [kz0xpwn/CVE-2024-56801](https://github.com/kz0xpwn/CVE-2024-56801)	<img alt="forks" src="https://img.shields.io/github/forks/kz0xpwn/CVE-2024-56801">	<img alt="stars" src="https://img.shields.io/github/stars/kz0xpwn/CVE-2024-56801">
 
 ---
+## CVE-2024-56800 ()
+> 
+- [cyhe50/cve-2024-56800-poc](https://github.com/cyhe50/cve-2024-56800-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cyhe50/cve-2024-56800-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cyhe50/cve-2024-56800-poc">
+
+---
 ## CVE-2024-56662 ()
 > 
 - [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662)	<img alt="forks" src="https://img.shields.io/github/forks/nimosec/cve-2024-56662">	<img alt="stars" src="https://img.shields.io/github/stars/nimosec/cve-2024-56662">
