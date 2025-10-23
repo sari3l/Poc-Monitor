@@ -5888,6 +5888,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Dre4m017/fuzzy](https://github.com/Dre4m017/fuzzy)	<img alt="forks" src="https://img.shields.io/github/forks/Dre4m017/fuzzy">	<img alt="stars" src="https://img.shields.io/github/stars/Dre4m017/fuzzy">
 - [O-Carneiro/cve_2024_32002_rce](https://github.com/O-Carneiro/cve_2024_32002_rce)	<img alt="forks" src="https://img.shields.io/github/forks/O-Carneiro/cve_2024_32002_rce">	<img alt="stars" src="https://img.shields.io/github/stars/O-Carneiro/cve_2024_32002_rce">
 - [O-Carneiro/cve_2024_32002_hook](https://github.com/O-Carneiro/cve_2024_32002_hook)	<img alt="forks" src="https://img.shields.io/github/forks/O-Carneiro/cve_2024_32002_hook">	<img alt="stars" src="https://img.shields.io/github/stars/O-Carneiro/cve_2024_32002_hook">
+- [mystxcal/cve-2024-32002-demo](https://github.com/mystxcal/cve-2024-32002-demo)	<img alt="forks" src="https://img.shields.io/github/forks/mystxcal/cve-2024-32002-demo">	<img alt="stars" src="https://img.shields.io/github/stars/mystxcal/cve-2024-32002-demo">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
