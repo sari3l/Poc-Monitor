@@ -4134,6 +4134,11 @@
 - [diogolourencodev/middleforce](https://github.com/diogolourencodev/middleforce)	<img alt="forks" src="https://img.shields.io/github/forks/diogolourencodev/middleforce">	<img alt="stars" src="https://img.shields.io/github/stars/diogolourencodev/middleforce">
 
 ---
+## CVE-2025-29891 ()
+> 
+- [Crystallen1/CVE-2025-29891-demo](https://github.com/Crystallen1/CVE-2025-29891-demo)	<img alt="forks" src="https://img.shields.io/github/forks/Crystallen1/CVE-2025-29891-demo">	<img alt="stars" src="https://img.shields.io/github/stars/Crystallen1/CVE-2025-29891-demo">
+
+---
 ## CVE-2025-29824 ()
 > 
 - [encrypter15/CVE-2025-29824](https://github.com/encrypter15/CVE-2025-29824)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-29824">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-29824">
