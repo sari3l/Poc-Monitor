@@ -1204,6 +1204,7 @@
 - [bytetornado/CVE-2025-55315](https://github.com/bytetornado/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/bytetornado/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/bytetornado/CVE-2025-55315">
 - [digitalsnemesis/CVE-2025-55315](https://github.com/digitalsnemesis/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/digitalsnemesis/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/digitalsnemesis/CVE-2025-55315">
 - [7huukdlnkjkjba/CVE-2025-55315-](https://github.com/7huukdlnkjkjba/CVE-2025-55315-)	<img alt="forks" src="https://img.shields.io/github/forks/7huukdlnkjkjba/CVE-2025-55315-">	<img alt="stars" src="https://img.shields.io/github/stars/7huukdlnkjkjba/CVE-2025-55315-">
+- [jlinebau/CVE-2025-55315-Scanner-Monitor](https://github.com/jlinebau/CVE-2025-55315-Scanner-Monitor)	<img alt="forks" src="https://img.shields.io/github/forks/jlinebau/CVE-2025-55315-Scanner-Monitor">	<img alt="stars" src="https://img.shields.io/github/stars/jlinebau/CVE-2025-55315-Scanner-Monitor">
 
 ---
 ## CVE-2025-55287 ()
