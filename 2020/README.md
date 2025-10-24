@@ -4745,6 +4745,7 @@
 ## CVE-2020-11978 ()
 > 
 - [stuxbench/mlflow-cve-2020-11978](https://github.com/stuxbench/mlflow-cve-2020-11978)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/mlflow-cve-2020-11978">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/mlflow-cve-2020-11978">
+- [pberba/CVE-2020-11978](https://github.com/pberba/CVE-2020-11978)	<img alt="forks" src="https://img.shields.io/github/forks/pberba/CVE-2020-11978">	<img alt="stars" src="https://img.shields.io/github/stars/pberba/CVE-2020-11978">
 
 ---
 ## CVE-2020-11946 (2020-04-20T21:15:00)
