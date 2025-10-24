@@ -1682,6 +1682,11 @@
 - [changyaoyou/CVE-2025-52100](https://github.com/changyaoyou/CVE-2025-52100)	<img alt="forks" src="https://img.shields.io/github/forks/changyaoyou/CVE-2025-52100">	<img alt="stars" src="https://img.shields.io/github/stars/changyaoyou/CVE-2025-52100">
 
 ---
+## CVE-2025-52099 ()
+> 
+- [SCREAMBBY/CVE-2025-52099](https://github.com/SCREAMBBY/CVE-2025-52099)	<img alt="forks" src="https://img.shields.io/github/forks/SCREAMBBY/CVE-2025-52099">	<img alt="stars" src="https://img.shields.io/github/stars/SCREAMBBY/CVE-2025-52099">
+
+---
 ## CVE-2025-52097 ()
 > 
 - [rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097)	<img alt="forks" src="https://img.shields.io/github/forks/rwilsonecs/CVE-2025-52097">	<img alt="stars" src="https://img.shields.io/github/stars/rwilsonecs/CVE-2025-52097">
