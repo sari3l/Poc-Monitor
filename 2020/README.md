@@ -4742,6 +4742,11 @@
 - [masahiro331/CVE-2020-11984](https://github.com/masahiro331/CVE-2020-11984)	<img alt="forks" src="https://img.shields.io/github/forks/masahiro331/CVE-2020-11984">	<img alt="stars" src="https://img.shields.io/github/stars/masahiro331/CVE-2020-11984">
 
 ---
+## CVE-2020-11978 ()
+> 
+- [stuxbench/mlflow-cve-2020-11978](https://github.com/stuxbench/mlflow-cve-2020-11978)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/mlflow-cve-2020-11978">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/mlflow-cve-2020-11978">
+
+---
 ## CVE-2020-11946 (2020-04-20T21:15:00)
 > Zoho ManageEngine OpManager before 125120 allows an unauthenticated user to retrieve an API key via a servlet call.
 - [Live-Hack-CVE/CVE-2020-11946](https://github.com/Live-Hack-CVE/CVE-2020-11946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11946">
