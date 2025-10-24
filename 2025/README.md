@@ -680,6 +680,11 @@
 - [d0n601/CVE-2025-5961](https://github.com/d0n601/CVE-2025-5961)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-5961">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-5961">
 
 ---
+## CVE-2025-59503 ()
+> 
+- [Mpokes/CVE-2025-59503-Poc](https://github.com/Mpokes/CVE-2025-59503-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Mpokes/CVE-2025-59503-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Mpokes/CVE-2025-59503-Poc">
+
+---
 ## CVE-2025-59489 ()
 > 
 - [GithubKillsMyOpsec/CVE-2025-59489-POC](https://github.com/GithubKillsMyOpsec/CVE-2025-59489-POC)	<img alt="forks" src="https://img.shields.io/github/forks/GithubKillsMyOpsec/CVE-2025-59489-POC">	<img alt="stars" src="https://img.shields.io/github/stars/GithubKillsMyOpsec/CVE-2025-59489-POC">
