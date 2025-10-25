@@ -541,6 +541,11 @@
 - [AmalJafarzade/CVE-2025-61319](https://github.com/AmalJafarzade/CVE-2025-61319)	<img alt="forks" src="https://img.shields.io/github/forks/AmalJafarzade/CVE-2025-61319">	<img alt="stars" src="https://img.shields.io/github/stars/AmalJafarzade/CVE-2025-61319">
 
 ---
+## CVE-2025-61304 ()
+> 
+- [pentastic-be/CVE-2025-61304](https://github.com/pentastic-be/CVE-2025-61304)	<img alt="forks" src="https://img.shields.io/github/forks/pentastic-be/CVE-2025-61304">	<img alt="stars" src="https://img.shields.io/github/stars/pentastic-be/CVE-2025-61304">
+
+---
 ## CVE-2025-61303 ()
 > 
 - [eGkritsis/CVE-2025-61303](https://github.com/eGkritsis/CVE-2025-61303)	<img alt="forks" src="https://img.shields.io/github/forks/eGkritsis/CVE-2025-61303">	<img alt="stars" src="https://img.shields.io/github/stars/eGkritsis/CVE-2025-61303">
