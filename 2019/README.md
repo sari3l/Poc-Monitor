@@ -409,6 +409,11 @@
 - [Live-Hack-CVE/CVE-2019-7088](https://github.com/Live-Hack-CVE/CVE-2019-7088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7088">
 
 ---
+## CVE-2019-7069 ()
+> 
+- [CaelumIsMe/CVE-2019-7069-POC](https://github.com/CaelumIsMe/CVE-2019-7069-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CaelumIsMe/CVE-2019-7069-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CaelumIsMe/CVE-2019-7069-POC">
+
+---
 ## CVE-2019-7061 (2019-05-23T18:29:00)
 > Adobe Acrobat and Reader versions 2019.010.20098 and earlier, 2019.010.20098 and earlier, 2017.011.30127 and earlier version, and 2015.006.30482 and earlier have an out-of-bounds read vulnerability. Successful exploitation could lead to information disclosure .
 - [Live-Hack-CVE/CVE-2019-7061](https://github.com/Live-Hack-CVE/CVE-2019-7061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7061">
