@@ -732,6 +732,7 @@
 ## CVE-2025-59287 ()
 > 
 - [keeganparr1/CVE-2025-59287-hawktrace](https://github.com/keeganparr1/CVE-2025-59287-hawktrace)	<img alt="forks" src="https://img.shields.io/github/forks/keeganparr1/CVE-2025-59287-hawktrace">	<img alt="stars" src="https://img.shields.io/github/stars/keeganparr1/CVE-2025-59287-hawktrace">
+- [jiansiting/CVE-2025-59287](https://github.com/jiansiting/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/jiansiting/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/jiansiting/CVE-2025-59287">
 
 ---
 ## CVE-2025-59285 ()
@@ -2281,6 +2282,7 @@
 ## CVE-2025-48385 ()
 > 
 - [Nimisha17/Git-clone-CVE-2025-48385](https://github.com/Nimisha17/Git-clone-CVE-2025-48385)	<img alt="forks" src="https://img.shields.io/github/forks/Nimisha17/Git-clone-CVE-2025-48385">	<img alt="stars" src="https://img.shields.io/github/stars/Nimisha17/Git-clone-CVE-2025-48385">
+- [Mitchellzhou1/CVE-2025-48385-PoC](https://github.com/Mitchellzhou1/CVE-2025-48385-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mitchellzhou1/CVE-2025-48385-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mitchellzhou1/CVE-2025-48385-PoC">
 
 ---
 ## CVE-2025-48384 ()
