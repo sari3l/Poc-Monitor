@@ -420,6 +420,7 @@
 > 
 - [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/ChaseHCS/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/ChaseHCS/CVE-2025-6514">
 - [Cyberency/CVE-2025-6514](https://github.com/Cyberency/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberency/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberency/CVE-2025-6514">
+- [Cyberency/CVE-2025-6514](https://github.com/Cyberency/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberency/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberency/CVE-2025-6514">
 
 ---
 ## CVE-2025-6384 ()
