@@ -5895,6 +5895,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [O-Carneiro/cve_2024_32002_rce](https://github.com/O-Carneiro/cve_2024_32002_rce)	<img alt="forks" src="https://img.shields.io/github/forks/O-Carneiro/cve_2024_32002_rce">	<img alt="stars" src="https://img.shields.io/github/stars/O-Carneiro/cve_2024_32002_rce">
 - [O-Carneiro/cve_2024_32002_hook](https://github.com/O-Carneiro/cve_2024_32002_hook)	<img alt="forks" src="https://img.shields.io/github/forks/O-Carneiro/cve_2024_32002_hook">	<img alt="stars" src="https://img.shields.io/github/stars/O-Carneiro/cve_2024_32002_hook">
 - [mystxcal/cve-2024-32002-demo](https://github.com/mystxcal/cve-2024-32002-demo)	<img alt="forks" src="https://img.shields.io/github/forks/mystxcal/cve-2024-32002-demo">	<img alt="stars" src="https://img.shields.io/github/stars/mystxcal/cve-2024-32002-demo">
+- [srakkk/cve-2024-32002-demo](https://github.com/srakkk/cve-2024-32002-demo)	<img alt="forks" src="https://img.shields.io/github/forks/srakkk/cve-2024-32002-demo">	<img alt="stars" src="https://img.shields.io/github/stars/srakkk/cve-2024-32002-demo">
+- [srakkk/cve-2024-32002-hook](https://github.com/srakkk/cve-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/srakkk/cve-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/srakkk/cve-2024-32002-hook">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
