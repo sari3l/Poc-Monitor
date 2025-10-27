@@ -4722,6 +4722,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032)	<img alt="forks" src="https://img.shields.io/github/forks/Bi0x/CVE-2024-37032">	<img alt="stars" src="https://img.shields.io/github/stars/Bi0x/CVE-2024-37032">
 - [ahboon/CVE-2024-37032-scanner](https://github.com/ahboon/CVE-2024-37032-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ahboon/CVE-2024-37032-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ahboon/CVE-2024-37032-scanner">
 - [pankass/CVE-2024-37032_CVE-2024-45436](https://github.com/pankass/CVE-2024-37032_CVE-2024-45436)	<img alt="forks" src="https://img.shields.io/github/forks/pankass/CVE-2024-37032_CVE-2024-45436">	<img alt="stars" src="https://img.shields.io/github/stars/pankass/CVE-2024-37032_CVE-2024-45436">
+- [stuxbench/vllm-cve-2024-37032](https://github.com/stuxbench/vllm-cve-2024-37032)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/vllm-cve-2024-37032">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/vllm-cve-2024-37032">
 
 ---
 ## CVE-2024-37010 ()
