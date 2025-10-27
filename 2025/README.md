@@ -755,6 +755,7 @@
 - [exphaze/CVE-2025-59287](https://github.com/exphaze/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/exphaze/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/exphaze/CVE-2025-59287">
 - [Lupovis/Honeypot-for-CVE-2025-59287-WSUS](https://github.com/Lupovis/Honeypot-for-CVE-2025-59287-WSUS)	<img alt="forks" src="https://img.shields.io/github/forks/Lupovis/Honeypot-for-CVE-2025-59287-WSUS">	<img alt="stars" src="https://img.shields.io/github/stars/Lupovis/Honeypot-for-CVE-2025-59287-WSUS">
 - [0xBruno/WSUSploit.NET](https://github.com/0xBruno/WSUSploit.NET)	<img alt="forks" src="https://img.shields.io/github/forks/0xBruno/WSUSploit.NET">	<img alt="stars" src="https://img.shields.io/github/stars/0xBruno/WSUSploit.NET">
+- [tecxx/CVE-2025-59287-WSUS](https://github.com/tecxx/CVE-2025-59287-WSUS)	<img alt="forks" src="https://img.shields.io/github/forks/tecxx/CVE-2025-59287-WSUS">	<img alt="stars" src="https://img.shields.io/github/stars/tecxx/CVE-2025-59287-WSUS">
 
 ---
 ## CVE-2025-59285 ()
