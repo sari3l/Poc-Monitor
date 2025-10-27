@@ -2068,10 +2068,12 @@
 - [srozb/reditrap](https://github.com/srozb/reditrap)	<img alt="forks" src="https://img.shields.io/github/forks/srozb/reditrap">	<img alt="stars" src="https://img.shields.io/github/stars/srozb/reditrap">
 - [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/raminfp/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/raminfp/redis_exploit">
 - [Yuri08loveElaina/CVE-2025-49844](https://github.com/Yuri08loveElaina/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49844">
-- [YuanBenSir/CVE-2025-49844_POC](https://github.com/YuanBenSir/CVE-2025-49844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-49844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-49844_POC">
+- [MiclelsonCN/CVE-2025-49844_POC](https://github.com/MiclelsonCN/CVE-2025-49844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/MiclelsonCN/CVE-2025-49844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/MiclelsonCN/CVE-2025-49844_POC">
 - [Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner](https://github.com/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">
 - [imbas007/CVE-2025-49844-Vulnerability-Scanner](https://github.com/imbas007/CVE-2025-49844-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-49844-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-49844-Vulnerability-Scanner">
 - [angelusrivera/CVE-2025-49844](https://github.com/angelusrivera/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/angelusrivera/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/angelusrivera/CVE-2025-49844">
+- [Zain3311/CVE-2025-49844](https://github.com/Zain3311/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Zain3311/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Zain3311/CVE-2025-49844">
+- [ksnnd32/redis_exploit](https://github.com/ksnnd32/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ksnnd32/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ksnnd32/redis_exploit">
 
 ---
 ## CVE-2025-49721 ()
