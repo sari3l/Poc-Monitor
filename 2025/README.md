@@ -4255,6 +4255,7 @@
 > 
 - [encrypter15/CVE-2025-29824](https://github.com/encrypter15/CVE-2025-29824)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-29824">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-29824">
 - [AfanPan/CVE-2025-29824-Exploit](https://github.com/AfanPan/CVE-2025-29824-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AfanPan/CVE-2025-29824-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AfanPan/CVE-2025-29824-Exploit">
+- [zmkeh/CVE-2025-29824-CLFS-Local-privilege-escalation](https://github.com/zmkeh/CVE-2025-29824-CLFS-Local-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/zmkeh/CVE-2025-29824-CLFS-Local-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/zmkeh/CVE-2025-29824-CLFS-Local-privilege-escalation">
 
 ---
 ## CVE-2025-29814 ()
