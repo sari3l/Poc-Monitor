@@ -2584,6 +2584,7 @@
 ## CVE-2025-46817 ()
 > 
 - [dwisiswant0/CVE-2025-46817](https://github.com/dwisiswant0/CVE-2025-46817)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-46817">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-46817">
+- [slayerkkkk/CVE-2025-46817-PoC](https://github.com/slayerkkkk/CVE-2025-46817-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/slayerkkkk/CVE-2025-46817-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/slayerkkkk/CVE-2025-46817-PoC">
 
 ---
 ## CVE-2025-46816 ()
