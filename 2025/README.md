@@ -33,6 +33,11 @@
 - [godfatherofexps/CVE-2025-9744-PoC](https://github.com/godfatherofexps/CVE-2025-9744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/godfatherofexps/CVE-2025-9744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/godfatherofexps/CVE-2025-9744-PoC">
 
 ---
+## CVE-2025-9519 ()
+> 
+- [Nimisha17/Poc-CVE-2025-9519](https://github.com/Nimisha17/Poc-CVE-2025-9519)	<img alt="forks" src="https://img.shields.io/github/forks/Nimisha17/Poc-CVE-2025-9519">	<img alt="stars" src="https://img.shields.io/github/stars/Nimisha17/Poc-CVE-2025-9519">
+
+---
 ## CVE-2025-9491 ()
 > 
 - [barbaraeivyu/CVE-2025-9491](https://github.com/barbaraeivyu/CVE-2025-9491)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-9491">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-9491">
@@ -3630,7 +3635,7 @@
 - [sarthak4399/CVE-2025-32463](https://github.com/sarthak4399/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/sarthak4399/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/sarthak4399/CVE-2025-32463">
 - [no-speech-to-text/CVE-2025-32463](https://github.com/no-speech-to-text/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/no-speech-to-text/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/no-speech-to-text/CVE-2025-32463">
 - [DaadaAyoze/CVE-2025-32463-lab](https://github.com/DaadaAyoze/CVE-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DaadaAyoze/CVE-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DaadaAyoze/CVE-2025-32463-lab">
-- [nelissandro/CVE-2025-32463-Sudo-Chroot-Escape](https://github.com/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape">
+- [D3ltaFormation/CVE-2025-32463-Sudo-Chroot-Escape](https://github.com/D3ltaFormation/CVE-2025-32463-Sudo-Chroot-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/D3ltaFormation/CVE-2025-32463-Sudo-Chroot-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/D3ltaFormation/CVE-2025-32463-Sudo-Chroot-Escape">
 - [AC8999/CVE-2025-32463](https://github.com/AC8999/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-32463">
 - [onniio/CVE-2025-32463](https://github.com/onniio/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-32463">
 - [onniio/CVE-2025-32463](https://github.com/onniio/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-32463">
