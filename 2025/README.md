@@ -503,6 +503,7 @@
 - [shinyhunt/CVE-2025-61884](https://github.com/shinyhunt/CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/shinyhunt/CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/shinyhunt/CVE-2025-61884">
 - [siddu7575/CVE-2025-61882-CVE-2025-61884](https://github.com/siddu7575/CVE-2025-61882-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/siddu7575/CVE-2025-61882-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/siddu7575/CVE-2025-61882-CVE-2025-61884">
 - [pakagronglb/oracle-security-breaches-analysis-case-study](https://github.com/pakagronglb/oracle-security-breaches-analysis-case-study)	<img alt="forks" src="https://img.shields.io/github/forks/pakagronglb/oracle-security-breaches-analysis-case-study">	<img alt="stars" src="https://img.shields.io/github/stars/pakagronglb/oracle-security-breaches-analysis-case-study">
+- [AshrafZaryouh/CVE-2025-61884-At-a-Glance](https://github.com/AshrafZaryouh/CVE-2025-61884-At-a-Glance)	<img alt="forks" src="https://img.shields.io/github/forks/AshrafZaryouh/CVE-2025-61884-At-a-Glance">	<img alt="stars" src="https://img.shields.io/github/stars/AshrafZaryouh/CVE-2025-61884-At-a-Glance">
 
 ---
 ## CVE-2025-61882 ()
@@ -1630,6 +1631,7 @@
 > 
 - [rxerium/CVE-2025-53072-CVE-2025-62481](https://github.com/rxerium/CVE-2025-53072-CVE-2025-62481)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-53072-CVE-2025-62481">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-53072-CVE-2025-62481">
 - [RedFoxNxploits/CVE-2025-53072](https://github.com/RedFoxNxploits/CVE-2025-53072)	<img alt="forks" src="https://img.shields.io/github/forks/RedFoxNxploits/CVE-2025-53072">	<img alt="stars" src="https://img.shields.io/github/stars/RedFoxNxploits/CVE-2025-53072">
+- [AshrafZaryouh/CVE-2025-53072-CVE-2025-62481](https://github.com/AshrafZaryouh/CVE-2025-53072-CVE-2025-62481)	<img alt="forks" src="https://img.shields.io/github/forks/AshrafZaryouh/CVE-2025-53072-CVE-2025-62481">	<img alt="stars" src="https://img.shields.io/github/stars/AshrafZaryouh/CVE-2025-53072-CVE-2025-62481">
 
 ---
 ## CVE-2025-5304 ()

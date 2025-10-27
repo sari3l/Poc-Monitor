@@ -1032,6 +1032,14 @@
 - [c0resploit/CVE-2021-44158](https://github.com/c0resploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2021-44158">
 
 ---
+## CVE-2021-44142 ()
+> 
+- [WinDyAlphA/CVE-2021-44142-vulnerable-lab](https://github.com/WinDyAlphA/CVE-2021-44142-vulnerable-lab)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2021-44142-vulnerable-lab">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2021-44142-vulnerable-lab">
+- [gudyrmik/CVE-2021-44142](https://github.com/gudyrmik/CVE-2021-44142)	<img alt="forks" src="https://img.shields.io/github/forks/gudyrmik/CVE-2021-44142">	<img alt="stars" src="https://img.shields.io/github/stars/gudyrmik/CVE-2021-44142">
+- [horizon3ai/CVE-2021-44142](https://github.com/horizon3ai/CVE-2021-44142)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-44142">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-44142">
+- [hrsman/Samba-CVE-2021-44142](https://github.com/hrsman/Samba-CVE-2021-44142)	<img alt="forks" src="https://img.shields.io/github/forks/hrsman/Samba-CVE-2021-44142">	<img alt="stars" src="https://img.shields.io/github/stars/hrsman/Samba-CVE-2021-44142">
+
+---
 ## CVE-2021-44103 (2022-03-28T14:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2021-42192. Reason: This candidate is a duplicate of CVE-2021-42192. Notes: All CVE users should reference CVE-2021-42192 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
 - [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103)	<img alt="forks" src="https://img.shields.io/github/forks/paulotrindadec/CVE-2021-44103">	<img alt="stars" src="https://img.shields.io/github/stars/paulotrindadec/CVE-2021-44103">
@@ -8523,6 +8531,7 @@
 - [cc3305/CVE-2021-22204](https://github.com/cc3305/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2021-22204">
 - [battleofthebots/dejavu](https://github.com/battleofthebots/dejavu)	<img alt="forks" src="https://img.shields.io/github/forks/battleofthebots/dejavu">	<img alt="stars" src="https://img.shields.io/github/stars/battleofthebots/dejavu">
 - [sameep0/CVE-2021-22204](https://github.com/sameep0/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/sameep0/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/sameep0/CVE-2021-22204">
+- [Roronoawjd/CVE-2021-22204](https://github.com/Roronoawjd/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/CVE-2021-22204">
 
 ---
 ## CVE-2021-22192 (2021-03-24T17:15:00)
