@@ -576,6 +576,11 @@
 - [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-61183">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-61183">
 
 ---
+## CVE-2025-61156 ()
+> 
+- [D7EAD/CVE-2025-61156](https://github.com/D7EAD/CVE-2025-61156)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2025-61156">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2025-61156">
+
+---
 ## CVE-2025-61155 ()
 > 
 - [pollotherunner/CVE-2025-61155](https://github.com/pollotherunner/CVE-2025-61155)	<img alt="forks" src="https://img.shields.io/github/forks/pollotherunner/CVE-2025-61155">	<img alt="stars" src="https://img.shields.io/github/stars/pollotherunner/CVE-2025-61155">
