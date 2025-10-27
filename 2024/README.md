@@ -4168,6 +4168,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)	<img alt="forks" src="https://img.shields.io/github/forks/ph1ns/CVE-2024-39844">	<img alt="stars" src="https://img.shields.io/github/stars/ph1ns/CVE-2024-39844">
 
 ---
+## CVE-2024-39840 ()
+> 
+- [writegsqword/CVE-2024-39840-POC](https://github.com/writegsqword/CVE-2024-39840-POC)	<img alt="forks" src="https://img.shields.io/github/forks/writegsqword/CVE-2024-39840-POC">	<img alt="stars" src="https://img.shields.io/github/stars/writegsqword/CVE-2024-39840-POC">
+
+---
 ## CVE-2024-39722 ()
 > 
 - [srcx404/CVE-2024-39722](https://github.com/srcx404/CVE-2024-39722)	<img alt="forks" src="https://img.shields.io/github/forks/srcx404/CVE-2024-39722">	<img alt="stars" src="https://img.shields.io/github/stars/srcx404/CVE-2024-39722">
