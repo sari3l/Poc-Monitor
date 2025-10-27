@@ -1736,9 +1736,10 @@
 ## CVE-2020-29607 (2020-12-16T15:15:00)
 > A file upload restriction bypass vulnerability in Pluck CMS before 4.7.13 allows an admin privileged user to gain access in the host through the "manage files" functionality, which may result in remote code execution.
 - [0xN7y/CVE-2020-29607](https://github.com/0xN7y/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/0xN7y/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/0xN7y/CVE-2020-29607">
-- [0xAbbarhSF/CVE-2020-29607](https://github.com/0xAbbarhSF/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/0xAbbarhSF/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/0xAbbarhSF/CVE-2020-29607">
+- [ar2o3/CVE-2020-29607](https://github.com/ar2o3/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/ar2o3/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/ar2o3/CVE-2020-29607">
 - [Alienfader/CVE-2020-29607](https://github.com/Alienfader/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/Alienfader/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/Alienfader/CVE-2020-29607">
 - [Alienfader/CVE-2020-29607](https://github.com/Alienfader/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/Alienfader/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/Alienfader/CVE-2020-29607">
+- [CaelumIsMe/CVE-2020-29607-POC](https://github.com/CaelumIsMe/CVE-2020-29607-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CaelumIsMe/CVE-2020-29607-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CaelumIsMe/CVE-2020-29607-POC">
 
 ---
 ## CVE-2020-29508 (2022-07-11T20:15:00)
