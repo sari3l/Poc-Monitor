@@ -5866,6 +5866,7 @@
 ## CVE-2025-11534 ()
 > 
 - [snareloop/CVE-2025-11534](https://github.com/snareloop/CVE-2025-11534)	<img alt="forks" src="https://img.shields.io/github/forks/snareloop/CVE-2025-11534">	<img alt="stars" src="https://img.shields.io/github/stars/snareloop/CVE-2025-11534">
+- [ZeroByte8/CVE-2025-11534](https://github.com/ZeroByte8/CVE-2025-11534)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroByte8/CVE-2025-11534">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroByte8/CVE-2025-11534">
 
 ---
 ## CVE-2025-11449 ()
