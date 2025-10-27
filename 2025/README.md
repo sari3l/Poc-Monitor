@@ -579,6 +579,11 @@
 - [pollotherunner/CVE-2025-61155](https://github.com/pollotherunner/CVE-2025-61155)	<img alt="forks" src="https://img.shields.io/github/forks/pollotherunner/CVE-2025-61155">	<img alt="stars" src="https://img.shields.io/github/stars/pollotherunner/CVE-2025-61155">
 
 ---
+## CVE-2025-60910 ()
+> 
+- [Mp-97/CVE-2025-60910](https://github.com/Mp-97/CVE-2025-60910)	<img alt="forks" src="https://img.shields.io/github/forks/Mp-97/CVE-2025-60910">	<img alt="stars" src="https://img.shields.io/github/stars/Mp-97/CVE-2025-60910">
+
+---
 ## CVE-2025-60880 ()
 > 
 - [Shenal01/CVE-2025-60880](https://github.com/Shenal01/CVE-2025-60880)	<img alt="forks" src="https://img.shields.io/github/forks/Shenal01/CVE-2025-60880">	<img alt="stars" src="https://img.shields.io/github/stars/Shenal01/CVE-2025-60880">
