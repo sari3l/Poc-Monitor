@@ -2455,6 +2455,7 @@ length to be included in the checksum calculation is fully consumed.
 - [CyberCrowCC/CVE-2024-48990](https://github.com/CyberCrowCC/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCrowCC/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCrowCC/CVE-2024-48990">
 - [NullByte-7w7/CVE-2024-48990](https://github.com/NullByte-7w7/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte-7w7/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte-7w7/CVE-2024-48990">
 - [ten-ops/CVE-2024-48990_needrestart](https://github.com/ten-ops/CVE-2024-48990_needrestart)	<img alt="forks" src="https://img.shields.io/github/forks/ten-ops/CVE-2024-48990_needrestart">	<img alt="stars" src="https://img.shields.io/github/stars/ten-ops/CVE-2024-48990_needrestart">
+- [Serner77/CVE-2024-48990-Automatic-Exploit](https://github.com/Serner77/CVE-2024-48990-Automatic-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Serner77/CVE-2024-48990-Automatic-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Serner77/CVE-2024-48990-Automatic-Exploit">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
