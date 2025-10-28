@@ -33,6 +33,7 @@
 - [X3RX3SSec/DVR_Sploit](https://github.com/X3RX3SSec/DVR_Sploit)	<img alt="forks" src="https://img.shields.io/github/forks/X3RX3SSec/DVR_Sploit">	<img alt="stars" src="https://img.shields.io/github/stars/X3RX3SSec/DVR_Sploit">
 - [A-Alabdoo/CVE-DVr](https://github.com/A-Alabdoo/CVE-DVr)	<img alt="forks" src="https://img.shields.io/github/forks/A-Alabdoo/CVE-DVr">	<img alt="stars" src="https://img.shields.io/github/stars/A-Alabdoo/CVE-DVr">
 - [dego905/Cam](https://github.com/dego905/Cam)	<img alt="forks" src="https://img.shields.io/github/forks/dego905/Cam">	<img alt="stars" src="https://img.shields.io/github/stars/dego905/Cam">
+- [0xDamian/CVE-2018-9995-rs](https://github.com/0xDamian/CVE-2018-9995-rs)	<img alt="forks" src="https://img.shields.io/github/forks/0xDamian/CVE-2018-9995-rs">	<img alt="stars" src="https://img.shields.io/github/stars/0xDamian/CVE-2018-9995-rs">
 
 ---
 ## CVE-2018-9338 ()
