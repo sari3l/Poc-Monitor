@@ -9054,6 +9054,7 @@
 - [Saboor-Hakimi-23/CVE-2021-21300](https://github.com/Saboor-Hakimi-23/CVE-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi-23/CVE-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi-23/CVE-2021-21300">
 - [henry861010/Network_Security_NYCU](https://github.com/henry861010/Network_Security_NYCU)	<img alt="forks" src="https://img.shields.io/github/forks/henry861010/Network_Security_NYCU">	<img alt="stars" src="https://img.shields.io/github/stars/henry861010/Network_Security_NYCU">
 - [Sizvy/CVE-2021-21300](https://github.com/Sizvy/CVE-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/Sizvy/CVE-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/Sizvy/CVE-2021-21300">
+- [the-chivalrousZ/cve-2021-21300](https://github.com/the-chivalrousZ/cve-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/the-chivalrousZ/cve-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/the-chivalrousZ/cve-2021-21300">
 
 ---
 ## CVE-2021-21297 (2021-02-26T17:15:00)
