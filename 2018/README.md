@@ -34,6 +34,9 @@
 - [A-Alabdoo/CVE-DVr](https://github.com/A-Alabdoo/CVE-DVr)	<img alt="forks" src="https://img.shields.io/github/forks/A-Alabdoo/CVE-DVr">	<img alt="stars" src="https://img.shields.io/github/stars/A-Alabdoo/CVE-DVr">
 - [dego905/Cam](https://github.com/dego905/Cam)	<img alt="forks" src="https://img.shields.io/github/forks/dego905/Cam">	<img alt="stars" src="https://img.shields.io/github/stars/dego905/Cam">
 - [0xDamian/CVE-2018-9995-rs](https://github.com/0xDamian/CVE-2018-9995-rs)	<img alt="forks" src="https://img.shields.io/github/forks/0xDamian/CVE-2018-9995-rs">	<img alt="stars" src="https://img.shields.io/github/stars/0xDamian/CVE-2018-9995-rs">
+- [jameseyes/DVRC](https://github.com/jameseyes/DVRC)	<img alt="forks" src="https://img.shields.io/github/forks/jameseyes/DVRC">	<img alt="stars" src="https://img.shields.io/github/stars/jameseyes/DVRC">
+- [tausifzaman/cctv-hack](https://github.com/tausifzaman/cctv-hack)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/cctv-hack">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/cctv-hack">
+- [its-anya/DVR_Credential_Scanner](https://github.com/its-anya/DVR_Credential_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/its-anya/DVR_Credential_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/its-anya/DVR_Credential_Scanner">
 
 ---
 ## CVE-2018-9338 ()
