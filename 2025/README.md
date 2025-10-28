@@ -1232,6 +1232,11 @@
 - [krispybyte/CVE-2025-55763](https://github.com/krispybyte/CVE-2025-55763)	<img alt="forks" src="https://img.shields.io/github/forks/krispybyte/CVE-2025-55763">	<img alt="stars" src="https://img.shields.io/github/stars/krispybyte/CVE-2025-55763">
 
 ---
+## CVE-2025-55752 ()
+> 
+- [TAM-K592/CVE-2025-55752-](https://github.com/TAM-K592/CVE-2025-55752-)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2025-55752-">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2025-55752-">
+
+---
 ## CVE-2025-55668 ()
 > 
 - [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-55668">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-55668">
