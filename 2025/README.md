@@ -784,6 +784,7 @@
 - [mrk336/Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat](https://github.com/mrk336/Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat">
 - [AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector](https://github.com/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector">
 - [FurkanKAYAPINAR/CVE-2025-59287](https://github.com/FurkanKAYAPINAR/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2025-59287">
+- [esteban11121/WSUS-RCE-Mitigation-59287](https://github.com/esteban11121/WSUS-RCE-Mitigation-59287)	<img alt="forks" src="https://img.shields.io/github/forks/esteban11121/WSUS-RCE-Mitigation-59287">	<img alt="stars" src="https://img.shields.io/github/stars/esteban11121/WSUS-RCE-Mitigation-59287">
 
 ---
 ## CVE-2025-59285 ()
