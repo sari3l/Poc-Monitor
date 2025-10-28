@@ -3307,6 +3307,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [kuyrathdaro/winrar-cve-2023-38831](https://github.com/kuyrathdaro/winrar-cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/winrar-cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/winrar-cve-2023-38831">
 - [chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian](https://github.com/chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian)	<img alt="forks" src="https://img.shields.io/github/forks/chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian">	<img alt="stars" src="https://img.shields.io/github/stars/chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian">
 - [Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution](https://github.com/Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution">
+- [yangdayyy/cve-2023-38831](https://github.com/yangdayyy/cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/yangdayyy/cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/yangdayyy/cve-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
