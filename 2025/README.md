@@ -642,6 +642,11 @@
 - [WinDyAlphA/CVE-2025-60736](https://github.com/WinDyAlphA/CVE-2025-60736)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2025-60736">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2025-60736">
 
 ---
+## CVE-2025-60595 ()
+> 
+- [Clicksafeae/CVE-2025-60595](https://github.com/Clicksafeae/CVE-2025-60595)	<img alt="forks" src="https://img.shields.io/github/forks/Clicksafeae/CVE-2025-60595">	<img alt="stars" src="https://img.shields.io/github/stars/Clicksafeae/CVE-2025-60595">
+
+---
 ## CVE-2025-6058 ()
 > 
 - [Nxploited/CVE-2025-6058](https://github.com/Nxploited/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6058">
