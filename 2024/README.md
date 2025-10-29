@@ -2888,6 +2888,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-46256 ()
 > 
 - [TranDongA3/Simulation_CVE-2024-46256](https://github.com/TranDongA3/Simulation_CVE-2024-46256)	<img alt="forks" src="https://img.shields.io/github/forks/TranDongA3/Simulation_CVE-2024-46256">	<img alt="stars" src="https://img.shields.io/github/stars/TranDongA3/Simulation_CVE-2024-46256">
+- [barttran2k/POC_CVE-2024-46256](https://github.com/barttran2k/POC_CVE-2024-46256)	<img alt="forks" src="https://img.shields.io/github/forks/barttran2k/POC_CVE-2024-46256">	<img alt="stars" src="https://img.shields.io/github/stars/barttran2k/POC_CVE-2024-46256">
 
 ---
 ## CVE-2024-46209 ()
