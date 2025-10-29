@@ -3108,6 +3108,11 @@
 - [NotItsSixtyN3in/CVE-2025-4172025](https://github.com/NotItsSixtyN3in/CVE-2025-4172025)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4172025">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4172025">
 
 ---
+## CVE-2025-41656 ()
+> 
+- [wallyschag/CVE-2025-41656](https://github.com/wallyschag/CVE-2025-41656)	<img alt="forks" src="https://img.shields.io/github/forks/wallyschag/CVE-2025-41656">	<img alt="stars" src="https://img.shields.io/github/stars/wallyschag/CVE-2025-41656">
+
+---
 ## CVE-2025-41646 ()
 > 
 - [GreenForceNetwork/CVE-2025-41646---Critical-Authentication-Bypass-](https://github.com/GreenForceNetwork/CVE-2025-41646---Critical-Authentication-Bypass-)	<img alt="forks" src="https://img.shields.io/github/forks/GreenForceNetwork/CVE-2025-41646---Critical-Authentication-Bypass-">	<img alt="stars" src="https://img.shields.io/github/stars/GreenForceNetwork/CVE-2025-41646---Critical-Authentication-Bypass-">
