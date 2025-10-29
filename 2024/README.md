@@ -3032,6 +3032,11 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2024-45507_Behinder_Webshell">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2024-45507_Behinder_Webshell">
 
 ---
+## CVE-2024-45496 ()
+> 
+- [0xSigSegv0x00/cve-2024-45496](https://github.com/0xSigSegv0x00/cve-2024-45496)	<img alt="forks" src="https://img.shields.io/github/forks/0xSigSegv0x00/cve-2024-45496">	<img alt="stars" src="https://img.shields.io/github/stars/0xSigSegv0x00/cve-2024-45496">
+
+---
 ## CVE-2024-45492 (2024-08-30T03:15:00)
 > An issue was discovered in libexpat before 2.6.3. nextScaffoldPart in xmlparse.c can have an integer overflow for m_groupSize on 32-bit platforms (where UINT_MAX equals SIZE_MAX).
 - [nidhihcl75/external_expat_2.6.2_CVE-2024-45492](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45492)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/external_expat_2.6.2_CVE-2024-45492">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/external_expat_2.6.2_CVE-2024-45492">
