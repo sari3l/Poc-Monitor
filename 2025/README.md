@@ -440,6 +440,11 @@
 - [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335)	<img alt="forks" src="https://img.shields.io/github/forks/jujubooom/CVE-2025-6335">	<img alt="stars" src="https://img.shields.io/github/stars/jujubooom/CVE-2025-6335">
 
 ---
+## CVE-2025-63298 ()
+> 
+- [z3rObyte/CVE-2025-63298](https://github.com/z3rObyte/CVE-2025-63298)	<img alt="forks" src="https://img.shields.io/github/forks/z3rObyte/CVE-2025-63298">	<img alt="stars" src="https://img.shields.io/github/stars/z3rObyte/CVE-2025-63298">
+
+---
 ## CVE-2025-62506 ()
 > 
 - [yoshino-s/CVE-2025-62506](https://github.com/yoshino-s/CVE-2025-62506)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-62506">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-62506">
@@ -3194,6 +3199,11 @@
 > 
 - [starawneh/CVE-2025-4094](https://github.com/starawneh/CVE-2025-4094)	<img alt="forks" src="https://img.shields.io/github/forks/starawneh/CVE-2025-4094">	<img alt="stars" src="https://img.shields.io/github/stars/starawneh/CVE-2025-4094">
 - [POCPioneer/CVE-2025-4094-POC](https://github.com/POCPioneer/CVE-2025-4094-POC)	<img alt="forks" src="https://img.shields.io/github/forks/POCPioneer/CVE-2025-4094-POC">	<img alt="stars" src="https://img.shields.io/github/stars/POCPioneer/CVE-2025-4094-POC">
+
+---
+## CVE-2025-40778 ()
+> 
+- [nehkark/CVE-2025-40778](https://github.com/nehkark/CVE-2025-40778)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-40778">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-40778">
 
 ---
 ## CVE-2025-40677 ()
