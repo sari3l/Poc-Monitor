@@ -576,6 +576,11 @@
 - [eGkritsis/CVE-2025-61301](https://github.com/eGkritsis/CVE-2025-61301)	<img alt="forks" src="https://img.shields.io/github/forks/eGkritsis/CVE-2025-61301">	<img alt="stars" src="https://img.shields.io/github/stars/eGkritsis/CVE-2025-61301">
 
 ---
+## CVE-2025-61196 ()
+> 
+- [zsamamah/CVE-2025-61196](https://github.com/zsamamah/CVE-2025-61196)	<img alt="forks" src="https://img.shields.io/github/forks/zsamamah/CVE-2025-61196">	<img alt="stars" src="https://img.shields.io/github/stars/zsamamah/CVE-2025-61196">
+
+---
 ## CVE-2025-61183 ()
 > 
 - [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-61183">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-61183">
@@ -785,6 +790,7 @@
 - [AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector](https://github.com/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector">
 - [FurkanKAYAPINAR/CVE-2025-59287](https://github.com/FurkanKAYAPINAR/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2025-59287">
 - [esteban11121/WSUS-RCE-Mitigation-59287](https://github.com/esteban11121/WSUS-RCE-Mitigation-59287)	<img alt="forks" src="https://img.shields.io/github/forks/esteban11121/WSUS-RCE-Mitigation-59287">	<img alt="stars" src="https://img.shields.io/github/stars/esteban11121/WSUS-RCE-Mitigation-59287">
+- [fsanzmoya/wsus_CVE-2025-59287](https://github.com/fsanzmoya/wsus_CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/fsanzmoya/wsus_CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/fsanzmoya/wsus_CVE-2025-59287">
 
 ---
 ## CVE-2025-59285 ()
