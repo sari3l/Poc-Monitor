@@ -2124,6 +2124,7 @@
 - [angelusrivera/CVE-2025-49844](https://github.com/angelusrivera/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/angelusrivera/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/angelusrivera/CVE-2025-49844">
 - [Zain3311/CVE-2025-49844](https://github.com/Zain3311/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Zain3311/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Zain3311/CVE-2025-49844">
 - [ksnnd32/redis_exploit](https://github.com/ksnnd32/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ksnnd32/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ksnnd32/redis_exploit">
+- [elyasbassir/CVE-2025-49844](https://github.com/elyasbassir/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/elyasbassir/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/elyasbassir/CVE-2025-49844">
 
 ---
 ## CVE-2025-49721 ()
