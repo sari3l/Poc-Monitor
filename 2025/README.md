@@ -1356,6 +1356,11 @@
 - [Eyodav/CVE-2025-54962](https://github.com/Eyodav/CVE-2025-54962)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-54962">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-54962">
 
 ---
+## CVE-2025-54957 ()
+> 
+- [AlphabugX/CVE-2025-54957](https://github.com/AlphabugX/CVE-2025-54957)	<img alt="forks" src="https://img.shields.io/github/forks/AlphabugX/CVE-2025-54957">	<img alt="stars" src="https://img.shields.io/github/stars/AlphabugX/CVE-2025-54957">
+
+---
 ## CVE-2025-54948 ()
 > 
 - [allinsthon/CVE-2025-54948](https://github.com/allinsthon/CVE-2025-54948)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54948">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54948">
