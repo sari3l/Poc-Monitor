@@ -6133,6 +6133,7 @@
 - [rxerium/CVE-2025-10035](https://github.com/rxerium/CVE-2025-10035)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-10035">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-10035">
 - [ThemeHackers/CVE-2025-10035](https://github.com/ThemeHackers/CVE-2025-10035)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-10035">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-10035">
 - [orange0Mint/CVE-2025-10035_GoAnywhere](https://github.com/orange0Mint/CVE-2025-10035_GoAnywhere)	<img alt="forks" src="https://img.shields.io/github/forks/orange0Mint/CVE-2025-10035_GoAnywhere">	<img alt="stars" src="https://img.shields.io/github/stars/orange0Mint/CVE-2025-10035_GoAnywhere">
+- [B1ack4sh/Blackash-CVE-2025-10035](https://github.com/B1ack4sh/Blackash-CVE-2025-10035)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-10035">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-10035">
 
 ---
 ## CVE-2025-0994 ()
