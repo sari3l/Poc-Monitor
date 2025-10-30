@@ -560,6 +560,11 @@
 - [sakshi-garg02/CVE-2025-61498](https://github.com/sakshi-garg02/CVE-2025-61498)	<img alt="forks" src="https://img.shields.io/github/forks/sakshi-garg02/CVE-2025-61498">	<img alt="stars" src="https://img.shields.io/github/stars/sakshi-garg02/CVE-2025-61498">
 
 ---
+## CVE-2025-61481 ()
+> 
+- [B1ack4sh/CVE-2025-61481](https://github.com/B1ack4sh/CVE-2025-61481)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/CVE-2025-61481">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/CVE-2025-61481">
+
+---
 ## CVE-2025-61456 ()
 > 
 - [tansique-17/CVE-2025-61456](https://github.com/tansique-17/CVE-2025-61456)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-61456">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-61456">
