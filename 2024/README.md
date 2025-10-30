@@ -4755,7 +4755,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [TheStingR/CVE-2024-36991-Tool](https://github.com/TheStingR/CVE-2024-36991-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2024-36991-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2024-36991-Tool">
 - [gunzf0x/CVE-2024-36991](https://github.com/gunzf0x/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2024-36991">
 - [xploitnik/CVE-2024-36991-modified](https://github.com/xploitnik/CVE-2024-36991-modified)	<img alt="forks" src="https://img.shields.io/github/forks/xploitnik/CVE-2024-36991-modified">	<img alt="stars" src="https://img.shields.io/github/stars/xploitnik/CVE-2024-36991-modified">
-- [Zin0D/CVE-2024-36991](https://github.com/Zin0D/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/Zin0D/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/Zin0D/CVE-2024-36991">
+- [0xFZin/CVE-2024-36991](https://github.com/0xFZin/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/0xFZin/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/0xFZin/CVE-2024-36991">
 
 ---
 ## CVE-2024-36971 ()
