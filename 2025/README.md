@@ -429,6 +429,11 @@
 - [Cyberency/CVE-2025-6514](https://github.com/Cyberency/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberency/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberency/CVE-2025-6514">
 
 ---
+## CVE-2025-6440 ()
+> 
+- [Pwdnx1337/CVE-2025-6440](https://github.com/Pwdnx1337/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2025-6440">
+
+---
 ## CVE-2025-64095 ()
 > 
 - [callinston/CVE-2025-64095](https://github.com/callinston/CVE-2025-64095)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-64095">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-64095">
