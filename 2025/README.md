@@ -5294,6 +5294,11 @@
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/IngressNightmare-PoC">
 
 ---
+## CVE-2025-24367 ()
+> 
+- [TheCyberGeek/CVE-2025-24367-Cacti-PoC](https://github.com/TheCyberGeek/CVE-2025-24367-Cacti-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2025-24367-Cacti-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2025-24367-Cacti-PoC">
+
+---
 ## CVE-2025-24354 ()
 > 
 - [Admin9961/CVE-2025-24354-PoC](https://github.com/Admin9961/CVE-2025-24354-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Admin9961/CVE-2025-24354-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Admin9961/CVE-2025-24354-PoC">
