@@ -2369,7 +2369,7 @@
 - [JIYUN02/cve-2021-41773](https://github.com/JIYUN02/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/JIYUN02/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/JIYUN02/cve-2021-41773">
 - [ZephrFish/CVE-2021-41773-PoC](https://github.com/ZephrFish/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-41773-PoC">
 - [qalvynn/CVE-2021-41773](https://github.com/qalvynn/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/qalvynn/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/qalvynn/CVE-2021-41773">
-- [AzK-os-dev/CVE-2021-41773](https://github.com/AzK-os-dev/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/AzK-os-dev/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/AzK-os-dev/CVE-2021-41773">
+- [AzkOsDev/CVE-2021-41773](https://github.com/AzkOsDev/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/AzkOsDev/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/AzkOsDev/CVE-2021-41773">
 - [CyberQuestor-infosec/CVE-2021-41773-Apache_2.4.49-Path-traversal-to-RCE](https://github.com/CyberQuestor-infosec/CVE-2021-41773-Apache_2.4.49-Path-traversal-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CyberQuestor-infosec/CVE-2021-41773-Apache_2.4.49-Path-traversal-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CyberQuestor-infosec/CVE-2021-41773-Apache_2.4.49-Path-traversal-to-RCE">
 - [blu3ming/PoC-CVE-2021-41773](https://github.com/blu3ming/PoC-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/blu3ming/PoC-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/blu3ming/PoC-CVE-2021-41773">
 - [psibot/apache-vulnerable](https://github.com/psibot/apache-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/psibot/apache-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/psibot/apache-vulnerable">
@@ -2381,6 +2381,7 @@
 - [gunzf0x/CVE-2021-41773](https://github.com/gunzf0x/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2021-41773">
 - [MuhammadHuzaifaAsif/security-lab](https://github.com/MuhammadHuzaifaAsif/security-lab)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadHuzaifaAsif/security-lab">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadHuzaifaAsif/security-lab">
 - [Mahfujurjust/CVE-2021-41773](https://github.com/Mahfujurjust/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Mahfujurjust/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Mahfujurjust/CVE-2021-41773">
+- [FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit](https://github.com/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
