@@ -3041,7 +3041,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 ---
 ## CVE-2024-45496 ()
 > 
-- [0xSigSegv0x00/cve-2024-45496](https://github.com/0xSigSegv0x00/cve-2024-45496)	<img alt="forks" src="https://img.shields.io/github/forks/0xSigSegv0x00/cve-2024-45496">	<img alt="stars" src="https://img.shields.io/github/stars/0xSigSegv0x00/cve-2024-45496">
+- [fatcatresearch/cve-2024-45496](https://github.com/fatcatresearch/cve-2024-45496)	<img alt="forks" src="https://img.shields.io/github/forks/fatcatresearch/cve-2024-45496">	<img alt="stars" src="https://img.shields.io/github/stars/fatcatresearch/cve-2024-45496">
 
 ---
 ## CVE-2024-45492 (2024-08-30T03:15:00)

@@ -2380,6 +2380,7 @@
 - [hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-](https://github.com/hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-)	<img alt="forks" src="https://img.shields.io/github/forks/hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-">	<img alt="stars" src="https://img.shields.io/github/stars/hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-">
 - [gunzf0x/CVE-2021-41773](https://github.com/gunzf0x/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2021-41773">
 - [MuhammadHuzaifaAsif/security-lab](https://github.com/MuhammadHuzaifaAsif/security-lab)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadHuzaifaAsif/security-lab">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadHuzaifaAsif/security-lab">
+- [Mahfujurjust/CVE-2021-41773](https://github.com/Mahfujurjust/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Mahfujurjust/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Mahfujurjust/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
