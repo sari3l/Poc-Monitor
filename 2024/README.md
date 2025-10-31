@@ -2458,6 +2458,7 @@ length to be included in the checksum calculation is fully consumed.
 - [Serner77/CVE-2024-48990-Automatic-Exploit](https://github.com/Serner77/CVE-2024-48990-Automatic-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Serner77/CVE-2024-48990-Automatic-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Serner77/CVE-2024-48990-Automatic-Exploit">
 - [mladicstefan/CVE-2024-48990](https://github.com/mladicstefan/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/mladicstefan/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/mladicstefan/CVE-2024-48990">
 - [Mr-DJ/CVE-2024-48990](https://github.com/Mr-DJ/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-DJ/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-DJ/CVE-2024-48990">
+- [Loaxert/CVE-2024-48990-PoC](https://github.com/Loaxert/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Loaxert/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Loaxert/CVE-2024-48990-PoC">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
