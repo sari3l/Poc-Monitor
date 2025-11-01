@@ -2528,6 +2528,7 @@
 > 
 - [Nxploited/CVE-2025-4796](https://github.com/Nxploited/CVE-2025-4796)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-4796">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-4796">
 - [Pwdnx1337/CVE-2025-4796](https://github.com/Pwdnx1337/CVE-2025-4796)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2025-4796">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2025-4796">
+- [Pwdnx1337/CVE-2025-4796](https://github.com/Pwdnx1337/CVE-2025-4796)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2025-4796">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2025-4796">
 
 ---
 ## CVE-2025-47917 ()
