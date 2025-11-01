@@ -1526,9 +1526,15 @@
 - [allinsthon/CVE-2025-54135](https://github.com/allinsthon/CVE-2025-54135)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54135">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54135">
 
 ---
+## CVE-2025-54110 ()
+> 
+- [ByteHawkSec/CVE-2025-54110-POC](https://github.com/ByteHawkSec/CVE-2025-54110-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHawkSec/CVE-2025-54110-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHawkSec/CVE-2025-54110-POC">
+
+---
 ## CVE-2025-54106 ()
 > 
 - [callinston/CVE-2025-54106](https://github.com/callinston/CVE-2025-54106)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-54106">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-54106">
+- [DExplo1ted/CVE-2025-54106-POC](https://github.com/DExplo1ted/CVE-2025-54106-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DExplo1ted/CVE-2025-54106-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DExplo1ted/CVE-2025-54106-POC">
 
 ---
 ## CVE-2025-53964 ()
@@ -6009,6 +6015,7 @@
 > 
 - [rootreapers/CVE-2025-11499](https://github.com/rootreapers/CVE-2025-11499)	<img alt="forks" src="https://img.shields.io/github/forks/rootreapers/CVE-2025-11499">	<img alt="stars" src="https://img.shields.io/github/stars/rootreapers/CVE-2025-11499">
 - [usjnx72726w/CVE-2025-11499-LAB](https://github.com/usjnx72726w/CVE-2025-11499-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/usjnx72726w/CVE-2025-11499-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/usjnx72726w/CVE-2025-11499-LAB">
+- [Hazelooks/CVE-2025-11499-Exploit](https://github.com/Hazelooks/CVE-2025-11499-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Hazelooks/CVE-2025-11499-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Hazelooks/CVE-2025-11499-Exploit">
 
 ---
 ## CVE-2025-11449 ()
