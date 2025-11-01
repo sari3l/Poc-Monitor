@@ -705,6 +705,11 @@
 - [aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424](https://github.com/aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424)	<img alt="forks" src="https://img.shields.io/github/forks/aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424">	<img alt="stars" src="https://img.shields.io/github/stars/aakashtyal/2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424">
 
 ---
+## CVE-2025-60423 ()
+> 
+- [Zephyr1ng/CVE-2025-60423](https://github.com/Zephyr1ng/CVE-2025-60423)	<img alt="forks" src="https://img.shields.io/github/forks/Zephyr1ng/CVE-2025-60423">	<img alt="stars" src="https://img.shields.io/github/stars/Zephyr1ng/CVE-2025-60423">
+
+---
 ## CVE-2025-60378 ()
 > 
 - [ajansha/CVE-2025-60378](https://github.com/ajansha/CVE-2025-60378)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60378">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60378">
