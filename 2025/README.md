@@ -1343,6 +1343,7 @@
 - [mrk336/CVE-2025-55234](https://github.com/mrk336/CVE-2025-55234)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-55234">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-55234">
 - [mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense](https://github.com/mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense">
 - [VulnViperr/CVE-2025-55234-POC](https://github.com/VulnViperr/CVE-2025-55234-POC)	<img alt="forks" src="https://img.shields.io/github/forks/VulnViperr/CVE-2025-55234-POC">	<img alt="stars" src="https://img.shields.io/github/stars/VulnViperr/CVE-2025-55234-POC">
+- [ByteHawkSec/CVE-2025-55234-POC](https://github.com/ByteHawkSec/CVE-2025-55234-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHawkSec/CVE-2025-55234-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHawkSec/CVE-2025-55234-POC">
 
 ---
 ## CVE-2025-55232 ()
