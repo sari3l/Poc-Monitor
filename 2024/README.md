@@ -6224,6 +6224,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public](https://github.com/Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public)	<img alt="forks" src="https://img.shields.io/github/forks/Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public">	<img alt="stars" src="https://img.shields.io/github/stars/Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public">
 - [W4Z-RAW/CVE-2024-3094](https://github.com/W4Z-RAW/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/W4Z-RAW/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/W4Z-RAW/CVE-2024-3094">
 - [zpxlz/CVE-2024-3094](https://github.com/zpxlz/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/zpxlz/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/zpxlz/CVE-2024-3094">
+- [ThomRgn/xzutils_backdoor_obfuscation](https://github.com/ThomRgn/xzutils_backdoor_obfuscation)	<img alt="forks" src="https://img.shields.io/github/forks/ThomRgn/xzutils_backdoor_obfuscation">	<img alt="stars" src="https://img.shields.io/github/stars/ThomRgn/xzutils_backdoor_obfuscation">
+- [M1lo25/CS50FinalProject](https://github.com/M1lo25/CS50FinalProject)	<img alt="forks" src="https://img.shields.io/github/forks/M1lo25/CS50FinalProject">	<img alt="stars" src="https://img.shields.io/github/stars/M1lo25/CS50FinalProject">
 
 ---
 ## CVE-2024-30937 ()
