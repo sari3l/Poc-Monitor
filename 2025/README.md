@@ -1405,6 +1405,11 @@
 - [Ash1996x/CVE-2025-54914-PoC](https://github.com/Ash1996x/CVE-2025-54914-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ash1996x/CVE-2025-54914-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ash1996x/CVE-2025-54914-PoC">
 
 ---
+## CVE-2025-54897 ()
+> 
+- [themaxlpalfaboy/CVE-2025-54897-LAB](https://github.com/themaxlpalfaboy/CVE-2025-54897-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/themaxlpalfaboy/CVE-2025-54897-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/themaxlpalfaboy/CVE-2025-54897-LAB">
+
+---
 ## CVE-2025-54887 ()
 > 
 - [shinigami-777/PoC_CVE-2025-54887](https://github.com/shinigami-777/PoC_CVE-2025-54887)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-54887">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-54887">
@@ -5991,6 +5996,11 @@
 - [Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
+
+---
+## CVE-2025-11833 ()
+> 
+- [modhopmarrow1973/CVE-2025-11833-LAB](https://github.com/modhopmarrow1973/CVE-2025-11833-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/modhopmarrow1973/CVE-2025-11833-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/modhopmarrow1973/CVE-2025-11833-LAB">
 
 ---
 ## CVE-2025-11832 ()
