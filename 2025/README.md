@@ -6007,6 +6007,11 @@
 - [Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 
 ---
+## CVE-2025-12595 ()
+> 
+- [lagerhaker539/CVE-2025-12595-POC](https://github.com/lagerhaker539/CVE-2025-12595-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lagerhaker539/CVE-2025-12595-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lagerhaker539/CVE-2025-12595-POC">
+
+---
 ## CVE-2025-11833 ()
 > 
 - [modhopmarrow1973/CVE-2025-11833-LAB](https://github.com/modhopmarrow1973/CVE-2025-11833-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/modhopmarrow1973/CVE-2025-11833-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/modhopmarrow1973/CVE-2025-11833-LAB">
