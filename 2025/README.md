@@ -6054,7 +6054,7 @@
 ---
 ## CVE-2025-11171 ()
 > 
-- [SnailSploit/CVE-2025-11171---GitHub-Security-Advisory](https://github.com/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory">
+- [SnailSploit/CVE-2025-11171](https://github.com/SnailSploit/CVE-2025-11171)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-11171">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-11171">
 
 ---
 ## CVE-2025-11077 ()
