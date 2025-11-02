@@ -836,6 +836,7 @@
 - [fsanzmoya/wsus_CVE-2025-59287](https://github.com/fsanzmoya/wsus_CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/fsanzmoya/wsus_CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/fsanzmoya/wsus_CVE-2025-59287">
 - [0x7556/CVE-2025-59287](https://github.com/0x7556/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-59287">
 - [QurtiDev/WSUS-CVE-2025-59287-RCE](https://github.com/QurtiDev/WSUS-CVE-2025-59287-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/QurtiDev/WSUS-CVE-2025-59287-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/QurtiDev/WSUS-CVE-2025-59287-RCE">
+- [Sid6Effect/CVE-2025-59287](https://github.com/Sid6Effect/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Sid6Effect/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Sid6Effect/CVE-2025-59287">
 
 ---
 ## CVE-2025-59285 ()
