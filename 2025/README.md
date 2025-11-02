@@ -6047,6 +6047,11 @@
 - [lap1nou/CVE-2025-11371](https://github.com/lap1nou/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/lap1nou/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/lap1nou/CVE-2025-11371">
 
 ---
+## CVE-2025-11174 ()
+> 
+- [SnailSploit/CVE-2025-11174](https://github.com/SnailSploit/CVE-2025-11174)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-11174">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-11174">
+
+---
 ## CVE-2025-11171 ()
 > 
 - [SnailSploit/CVE-2025-11171---GitHub-Security-Advisory](https://github.com/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory">
