@@ -603,7 +603,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ---
 ## CVE-2024-7387 ()
 > 
-- [0xSigSegv0x00/cve-2024-7387](https://github.com/0xSigSegv0x00/cve-2024-7387)	<img alt="forks" src="https://img.shields.io/github/forks/0xSigSegv0x00/cve-2024-7387">	<img alt="stars" src="https://img.shields.io/github/stars/0xSigSegv0x00/cve-2024-7387">
+- [fatcatresearch/cve-2024-7387](https://github.com/fatcatresearch/cve-2024-7387)	<img alt="forks" src="https://img.shields.io/github/forks/fatcatresearch/cve-2024-7387">	<img alt="stars" src="https://img.shields.io/github/stars/fatcatresearch/cve-2024-7387">
 
 ---
 ## CVE-2024-7385 (2024-09-25T04:15:00)
