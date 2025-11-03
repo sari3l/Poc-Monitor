@@ -5120,6 +5120,16 @@
 - [JMS-Security/CVE-2025-25256-PoC](https://github.com/JMS-Security/CVE-2025-25256-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JMS-Security/CVE-2025-25256-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JMS-Security/CVE-2025-25256-PoC">
 
 ---
+## CVE-2025-25254 ()
+> 
+- [JackMicalli/CVE-2025-25254](https://github.com/JackMicalli/CVE-2025-25254)	<img alt="forks" src="https://img.shields.io/github/forks/JackMicalli/CVE-2025-25254">	<img alt="stars" src="https://img.shields.io/github/stars/JackMicalli/CVE-2025-25254">
+
+---
+## CVE-2025-25253 ()
+> 
+- [onelittlectfer/CVE-2025-25253](https://github.com/onelittlectfer/CVE-2025-25253)	<img alt="forks" src="https://img.shields.io/github/forks/onelittlectfer/CVE-2025-25253">	<img alt="stars" src="https://img.shields.io/github/stars/onelittlectfer/CVE-2025-25253">
+
+---
 ## CVE-2025-25252 ()
 > 
 - [iptables6cv/CVE-2025-25252-POC](https://github.com/iptables6cv/CVE-2025-25252-POC)	<img alt="forks" src="https://img.shields.io/github/forks/iptables6cv/CVE-2025-25252-POC">	<img alt="stars" src="https://img.shields.io/github/stars/iptables6cv/CVE-2025-25252-POC">
