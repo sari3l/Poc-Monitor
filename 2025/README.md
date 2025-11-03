@@ -456,6 +456,12 @@
 - [z3rObyte/CVE-2025-63298](https://github.com/z3rObyte/CVE-2025-63298)	<img alt="forks" src="https://img.shields.io/github/forks/z3rObyte/CVE-2025-63298">	<img alt="stars" src="https://img.shields.io/github/stars/z3rObyte/CVE-2025-63298">
 
 ---
+## CVE-2025-62726 ()
+> 
+- [Malayke/CVE-2025-62726-payload-repo](https://github.com/Malayke/CVE-2025-62726-payload-repo)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2025-62726-payload-repo">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2025-62726-payload-repo">
+- [Malayke/n8n-remote-code-exection-cve-2025-62726-exploit](https://github.com/Malayke/n8n-remote-code-exection-cve-2025-62726-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/n8n-remote-code-exection-cve-2025-62726-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/n8n-remote-code-exection-cve-2025-62726-exploit">
+
+---
 ## CVE-2025-62506 ()
 > 
 - [yoshino-s/CVE-2025-62506](https://github.com/yoshino-s/CVE-2025-62506)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-62506">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-62506">
@@ -3782,6 +3788,7 @@
 - [robbin0919/CVE-2025-32463](https://github.com/robbin0919/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/robbin0919/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/robbin0919/CVE-2025-32463">
 - [DensuLabs/CVE-2025-32463](https://github.com/DensuLabs/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/DensuLabs/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/DensuLabs/CVE-2025-32463">
 - [muhammedkayag/CVE-2025-32463](https://github.com/muhammedkayag/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/muhammedkayag/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/muhammedkayag/CVE-2025-32463">
+- [NewComrade12211/CVE-2025-32463](https://github.com/NewComrade12211/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/NewComrade12211/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/NewComrade12211/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
