@@ -213,6 +213,7 @@
 - [kaucent/CVE-2025-8088](https://github.com/kaucent/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kaucent/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kaucent/CVE-2025-8088">
 - [mocred/cve-2025-8088](https://github.com/mocred/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/mocred/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/mocred/cve-2025-8088">
 - [B1ack4sh/Blackash-CVE-2025-8088](https://github.com/B1ack4sh/Blackash-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-8088">
+- [nuky-alt/CVE-2025-8088](https://github.com/nuky-alt/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nuky-alt/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nuky-alt/CVE-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
