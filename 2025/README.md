@@ -809,6 +809,11 @@
 - [JOOJIII/CVE-2025-59424](https://github.com/JOOJIII/CVE-2025-59424)	<img alt="forks" src="https://img.shields.io/github/forks/JOOJIII/CVE-2025-59424">	<img alt="stars" src="https://img.shields.io/github/stars/JOOJIII/CVE-2025-59424">
 
 ---
+## CVE-2025-59396 ()
+> 
+- [cyberbyte000/CVE-2025-59396](https://github.com/cyberbyte000/CVE-2025-59396)	<img alt="forks" src="https://img.shields.io/github/forks/cyberbyte000/CVE-2025-59396">	<img alt="stars" src="https://img.shields.io/github/stars/cyberbyte000/CVE-2025-59396">
+
+---
 ## CVE-2025-59359 ()
 > 
 - [mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover](https://github.com/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover">
