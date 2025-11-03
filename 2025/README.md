@@ -569,6 +569,11 @@
 - [codetombs/CVE-2025-61481](https://github.com/codetombs/CVE-2025-61481)	<img alt="forks" src="https://img.shields.io/github/forks/codetombs/CVE-2025-61481">	<img alt="stars" src="https://img.shields.io/github/stars/codetombs/CVE-2025-61481">
 
 ---
+## CVE-2025-61472 ()
+> 
+- [flywithjoey/CVE-2025-61472](https://github.com/flywithjoey/CVE-2025-61472)	<img alt="forks" src="https://img.shields.io/github/forks/flywithjoey/CVE-2025-61472">	<img alt="stars" src="https://img.shields.io/github/stars/flywithjoey/CVE-2025-61472">
+
+---
 ## CVE-2025-61456 ()
 > 
 - [tansique-17/CVE-2025-61456](https://github.com/tansique-17/CVE-2025-61456)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-61456">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-61456">
