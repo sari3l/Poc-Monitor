@@ -5120,6 +5120,11 @@
 - [JMS-Security/CVE-2025-25256-PoC](https://github.com/JMS-Security/CVE-2025-25256-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JMS-Security/CVE-2025-25256-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JMS-Security/CVE-2025-25256-PoC">
 
 ---
+## CVE-2025-25252 ()
+> 
+- [iptables6cv/CVE-2025-25252-POC](https://github.com/iptables6cv/CVE-2025-25252-POC)	<img alt="forks" src="https://img.shields.io/github/forks/iptables6cv/CVE-2025-25252-POC">	<img alt="stars" src="https://img.shields.io/github/stars/iptables6cv/CVE-2025-25252-POC">
+
+---
 ## CVE-2025-252513 ()
 > 
 - [strivepan/cve-2025-252513](https://github.com/strivepan/cve-2025-252513)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/cve-2025-252513">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/cve-2025-252513">
