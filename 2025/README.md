@@ -2143,6 +2143,11 @@
 - [KiPhuong/cve-2025-5025](https://github.com/KiPhuong/cve-2025-5025)	<img alt="forks" src="https://img.shields.io/github/forks/KiPhuong/cve-2025-5025">	<img alt="stars" src="https://img.shields.io/github/stars/KiPhuong/cve-2025-5025">
 
 ---
+## CVE-2025-50168 ()
+> 
+- [D4m0n/CVE-2025-50168-pwn2own-berlin-2025](https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025)	<img alt="forks" src="https://img.shields.io/github/forks/D4m0n/CVE-2025-50168-pwn2own-berlin-2025">	<img alt="stars" src="https://img.shields.io/github/stars/D4m0n/CVE-2025-50168-pwn2own-berlin-2025">
+
+---
 ## CVE-2025-50165 ()
 > 
 - [allinsthon/CVE-2025-50165](https://github.com/allinsthon/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-50165">
