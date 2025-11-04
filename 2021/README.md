@@ -7138,6 +7138,11 @@
 - [Live-Hack-CVE/CVE-2021-27343](https://github.com/Live-Hack-CVE/CVE-2021-27343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27343">
 
 ---
+## CVE-2021-27328 ()
+> 
+- [SQSamir/CVE-2021-27328](https://github.com/SQSamir/CVE-2021-27328)	<img alt="forks" src="https://img.shields.io/github/forks/SQSamir/CVE-2021-27328">	<img alt="stars" src="https://img.shields.io/github/stars/SQSamir/CVE-2021-27328">
+
+---
 ## CVE-2021-27289 ()
 > 
 - [TheMalwareGuardian/CVE-2021-27289](https://github.com/TheMalwareGuardian/CVE-2021-27289)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2021-27289">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2021-27289">
