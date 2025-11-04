@@ -4842,6 +4842,11 @@
 - [sandsoncosta/CVE-2025-26633](https://github.com/sandsoncosta/CVE-2025-26633)	<img alt="forks" src="https://img.shields.io/github/forks/sandsoncosta/CVE-2025-26633">	<img alt="stars" src="https://img.shields.io/github/stars/sandsoncosta/CVE-2025-26633">
 
 ---
+## CVE-2025-26624 ()
+> 
+- [havertz2110/CVE-2025-26624](https://github.com/havertz2110/CVE-2025-26624)	<img alt="forks" src="https://img.shields.io/github/forks/havertz2110/CVE-2025-26624">	<img alt="stars" src="https://img.shields.io/github/stars/havertz2110/CVE-2025-26624">
+
+---
 ## CVE-2025-26529 ()
 > 
 - [Astroo18/PoC-CVE-2025-26529](https://github.com/Astroo18/PoC-CVE-2025-26529)	<img alt="forks" src="https://img.shields.io/github/forks/Astroo18/PoC-CVE-2025-26529">	<img alt="stars" src="https://img.shields.io/github/stars/Astroo18/PoC-CVE-2025-26529">
