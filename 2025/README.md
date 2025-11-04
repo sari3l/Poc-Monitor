@@ -6068,6 +6068,11 @@
 - [lagerhaker539/CVE-2025-12595-POC](https://github.com/lagerhaker539/CVE-2025-12595-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lagerhaker539/CVE-2025-12595-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lagerhaker539/CVE-2025-12595-POC">
 
 ---
+## CVE-2025-12463 ()
+> 
+- [B1ack4sh/CVE-CVE-2025-12463](https://github.com/B1ack4sh/CVE-CVE-2025-12463)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/CVE-CVE-2025-12463">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/CVE-CVE-2025-12463">
+
+---
 ## CVE-2025-12437 ()
 > 
 - [callinston/CVE-2025-12437](https://github.com/callinston/CVE-2025-12437)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-12437">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-12437">
