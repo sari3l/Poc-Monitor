@@ -134,6 +134,11 @@
 - [ret0x2A/CVE-2025-8625](https://github.com/ret0x2A/CVE-2025-8625)	<img alt="forks" src="https://img.shields.io/github/forks/ret0x2A/CVE-2025-8625">	<img alt="stars" src="https://img.shields.io/github/stars/ret0x2A/CVE-2025-8625">
 
 ---
+## CVE-2025-8573 ()
+> 
+- [iamFredNi/poc-cve-2025-8573](https://github.com/iamFredNi/poc-cve-2025-8573)	<img alt="forks" src="https://img.shields.io/github/forks/iamFredNi/poc-cve-2025-8573">	<img alt="stars" src="https://img.shields.io/github/stars/iamFredNi/poc-cve-2025-8573">
+
+---
 ## CVE-2025-8571 ()
 > 
 - [chimdi2700/CVE-2025-8571](https://github.com/chimdi2700/CVE-2025-8571)	<img alt="forks" src="https://img.shields.io/github/forks/chimdi2700/CVE-2025-8571">	<img alt="stars" src="https://img.shields.io/github/stars/chimdi2700/CVE-2025-8571">
