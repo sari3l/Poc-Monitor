@@ -4083,6 +4083,7 @@
 - [KKC73/weblogic-cve-2020-14882](https://github.com/KKC73/weblogic-cve-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/KKC73/weblogic-cve-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/KKC73/weblogic-cve-2020-14882">
 - [tpdlshdmlrkfmcla/WebLogic_CVE_2020_14882](https://github.com/tpdlshdmlrkfmcla/WebLogic_CVE_2020_14882)	<img alt="forks" src="https://img.shields.io/github/forks/tpdlshdmlrkfmcla/WebLogic_CVE_2020_14882">	<img alt="stars" src="https://img.shields.io/github/stars/tpdlshdmlrkfmcla/WebLogic_CVE_2020_14882">
 - [AshrafZaryouh/CVE-2020-14882](https://github.com/AshrafZaryouh/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/AshrafZaryouh/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/AshrafZaryouh/CVE-2020-14882">
+- [B1ack4sh/Blackash-CVE-2020-14882](https://github.com/B1ack4sh/Blackash-CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2020-14882">
 
 ---
 ## CVE-2020-1472 (2020-08-17T19:15:00)
