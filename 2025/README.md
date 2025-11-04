@@ -2455,6 +2455,11 @@
 - [Layer1-Artist/POC-CVE-2025-48621](https://github.com/Layer1-Artist/POC-CVE-2025-48621)	<img alt="forks" src="https://img.shields.io/github/forks/Layer1-Artist/POC-CVE-2025-48621">	<img alt="stars" src="https://img.shields.io/github/stars/Layer1-Artist/POC-CVE-2025-48621">
 
 ---
+## CVE-2025-48593 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-48593](https://github.com/B1ack4sh/Blackash-CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-48593">
+
+---
 ## CVE-2025-48543 ()
 > 
 - [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)	<img alt="forks" src="https://img.shields.io/github/forks/gamesarchive/CVE-2025-48543">	<img alt="stars" src="https://img.shields.io/github/stars/gamesarchive/CVE-2025-48543">
@@ -4590,6 +4595,11 @@
 ## CVE-2025-29015 ()
 > 
 - [b1tm4r/CVE-2025-29015](https://github.com/b1tm4r/CVE-2025-29015)	<img alt="forks" src="https://img.shields.io/github/forks/b1tm4r/CVE-2025-29015">	<img alt="stars" src="https://img.shields.io/github/stars/b1tm4r/CVE-2025-29015">
+
+---
+## CVE-2025-29009 ()
+> 
+- [joshs-code/CVE-2025-29009-POC](https://github.com/joshs-code/CVE-2025-29009-POC)	<img alt="forks" src="https://img.shields.io/github/forks/joshs-code/CVE-2025-29009-POC">	<img alt="stars" src="https://img.shields.io/github/stars/joshs-code/CVE-2025-29009-POC">
 
 ---
 ## CVE-2025-28915 ()
