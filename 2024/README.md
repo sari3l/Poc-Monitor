@@ -3952,6 +3952,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-40725-CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-40725-CVE-2024-40898">
 - [whiterose7777/CVE-2024-40725-CVE-2024-40898](https://github.com/whiterose7777/CVE-2024-40725-CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-40725-CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-40725-CVE-2024-40898">
 - [soltanali0/CVE-2024-40725](https://github.com/soltanali0/CVE-2024-40725)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2024-40725">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2024-40725">
+- [YassineOUAHMANE/CVE-2024-40725](https://github.com/YassineOUAHMANE/CVE-2024-40725)	<img alt="forks" src="https://img.shields.io/github/forks/YassineOUAHMANE/CVE-2024-40725">	<img alt="stars" src="https://img.shields.io/github/stars/YassineOUAHMANE/CVE-2024-40725">
 
 ---
 ## CVE-2024-40711 (2024-09-07T17:15:00)
