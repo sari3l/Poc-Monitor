@@ -1,6 +1,11 @@
 # 2020 List
 
 ---
+## CVE-2020-9922 ()
+> 
+- [Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922](https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922)	<img alt="forks" src="https://img.shields.io/github/forks/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922">	<img alt="stars" src="https://img.shields.io/github/stars/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922">
+
+---
 ## CVE-2020-9906 (2020-10-22T19:15:00)
 > A memory corruption issue was addressed with improved input validation. This issue is fixed in iOS 13.6 and iPadOS 13.6, macOS Catalina 10.15.6, watchOS 6.2.8. A remote attacker may be able to cause unexpected system termination or corrupt kernel memory.
 - [Live-Hack-CVE/CVE-2020-9906](https://github.com/Live-Hack-CVE/CVE-2020-9906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9906">
