@@ -4108,6 +4108,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [geniuszly/GenCrushSSTIExploit](https://github.com/geniuszly/GenCrushSSTIExploit)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszly/GenCrushSSTIExploit">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszly/GenCrushSSTIExploit">
 - [rahisec/CVE-2024-4040](https://github.com/rahisec/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/rahisec/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/rahisec/CVE-2024-4040">
 - [ill-deed/CrushFTP-CVE-2024-4040-illdeed](https://github.com/ill-deed/CrushFTP-CVE-2024-4040-illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/CrushFTP-CVE-2024-4040-illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/CrushFTP-CVE-2024-4040-illdeed">
+- [juanorts/CrushFTP10-Docker-CVE-2024-4040](https://github.com/juanorts/CrushFTP10-Docker-CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/juanorts/CrushFTP10-Docker-CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/juanorts/CrushFTP10-Docker-CVE-2024-4040">
 
 ---
 ## CVE-2024-40348 (2024-07-20T04:15:00)
