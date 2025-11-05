@@ -1188,6 +1188,7 @@
 - [zer0t0/CVE-2025-56383-Proof-of-Concept](https://github.com/zer0t0/CVE-2025-56383-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/zer0t0/CVE-2025-56383-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/zer0t0/CVE-2025-56383-Proof-of-Concept">
 - [zer0t0/CVE-2025-56383-Proof-of-Concept](https://github.com/zer0t0/CVE-2025-56383-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/zer0t0/CVE-2025-56383-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/zer0t0/CVE-2025-56383-Proof-of-Concept">
 - [zer0t0/CVE-2025-56383-Proof-of-Concept](https://github.com/zer0t0/CVE-2025-56383-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/zer0t0/CVE-2025-56383-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/zer0t0/CVE-2025-56383-Proof-of-Concept">
+- [NewComrade12211/CVE-2025-56383](https://github.com/NewComrade12211/CVE-2025-56383)	<img alt="forks" src="https://img.shields.io/github/forks/NewComrade12211/CVE-2025-56383">	<img alt="stars" src="https://img.shields.io/github/stars/NewComrade12211/CVE-2025-56383">
 
 ---
 ## CVE-2025-56381 ()
