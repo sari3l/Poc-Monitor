@@ -440,6 +440,7 @@
 ## CVE-2025-6440 ()
 > 
 - [Pwdnx1337/CVE-2025-6440](https://github.com/Pwdnx1337/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2025-6440">
+- [xxoprt/CVE-2025-6440](https://github.com/xxoprt/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/xxoprt/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/xxoprt/CVE-2025-6440">
 
 ---
 ## CVE-2025-64095 ()
