@@ -4041,6 +4041,7 @@
 - [B1anda0/CVE-2020-14883](https://github.com/B1anda0/CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/B1anda0/CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/B1anda0/CVE-2020-14883">
 - [murataydemir/CVE-2020-14883](https://github.com/murataydemir/CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2020-14883">
 - [NS-Sp4ce/CVE-2020-14882](https://github.com/NS-Sp4ce/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/NS-Sp4ce/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/NS-Sp4ce/CVE-2020-14882">
+- [B1ack4sh/Blackash-CVE-2020-14883](https://github.com/B1ack4sh/Blackash-CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2020-14883">
 
 ---
 ## CVE-2020-14882 (2020-10-21T15:15:00)
