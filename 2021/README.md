@@ -1018,6 +1018,7 @@
 - [arabindadora/log4shell](https://github.com/arabindadora/log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/arabindadora/log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/arabindadora/log4shell">
 - [KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device](https://github.com/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device)	<img alt="forks" src="https://img.shields.io/github/forks/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device">	<img alt="stars" src="https://img.shields.io/github/stars/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device">
 - [moften/Log4Shell](https://github.com/moften/Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/moften/Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/moften/Log4Shell">
+- [B1ack4sh/Blackash-CVE-2021-44228](https://github.com/B1ack4sh/Blackash-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
