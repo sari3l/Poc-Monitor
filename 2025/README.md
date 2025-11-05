@@ -59,6 +59,11 @@
 - [watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242](https://github.com/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">
 
 ---
+## CVE-2025-9209 ()
+> 
+- [Nxploited/CVE-2025-9209](https://github.com/Nxploited/CVE-2025-9209)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-9209">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-9209">
+
+---
 ## CVE-2025-9196 ()
 > 
 - [godfatherofexps/CVE-2025-9196-PoC](https://github.com/godfatherofexps/CVE-2025-9196-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/godfatherofexps/CVE-2025-9196-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/godfatherofexps/CVE-2025-9196-PoC">
