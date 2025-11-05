@@ -1467,6 +1467,7 @@
 ## CVE-2020-35667 ()
 > 
 - [Diekgbbtt/CVE-2020-35667-PoC](https://github.com/Diekgbbtt/CVE-2020-35667-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Diekgbbtt/CVE-2020-35667-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Diekgbbtt/CVE-2020-35667-PoC">
+- [stefan-500/teamcity-idea-cve-2020-35667-poc](https://github.com/stefan-500/teamcity-idea-cve-2020-35667-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stefan-500/teamcity-idea-cve-2020-35667-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stefan-500/teamcity-idea-cve-2020-35667-poc">
 
 ---
 ## CVE-2020-35636 (2021-03-04T20:15:00)
