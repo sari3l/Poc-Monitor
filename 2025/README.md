@@ -454,6 +454,11 @@
 - [maestro-ant/CrafterCMS-CVE-2025-6384](https://github.com/maestro-ant/CrafterCMS-CVE-2025-6384)	<img alt="forks" src="https://img.shields.io/github/forks/maestro-ant/CrafterCMS-CVE-2025-6384">	<img alt="stars" src="https://img.shields.io/github/stars/maestro-ant/CrafterCMS-CVE-2025-6384">
 
 ---
+## CVE-2025-63589 ()
+> 
+- [cybercrewinc/CVE-2025-63589](https://github.com/cybercrewinc/CVE-2025-63589)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63589">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63589">
+
+---
 ## CVE-2025-63588 ()
 > 
 - [cybercrewinc/CVE-2025-63588](https://github.com/cybercrewinc/CVE-2025-63588)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63588">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63588">
@@ -5302,6 +5307,7 @@
 - [achnouri/Editor-CTF-writre-up](https://github.com/achnouri/Editor-CTF-writre-up)	<img alt="forks" src="https://img.shields.io/github/forks/achnouri/Editor-CTF-writre-up">	<img alt="stars" src="https://img.shields.io/github/stars/achnouri/Editor-CTF-writre-up">
 - [Y2F05p2w/CVE-2025-24893](https://github.com/Y2F05p2w/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Y2F05p2w/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Y2F05p2w/CVE-2025-24893">
 - [80Ottanta80/CVE-2025-24893-PoC](https://github.com/80Ottanta80/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/80Ottanta80/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/80Ottanta80/CVE-2025-24893-PoC">
+- [kimtangker/CVE-2025-24893](https://github.com/kimtangker/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/kimtangker/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/kimtangker/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
