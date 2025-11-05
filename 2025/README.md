@@ -6107,6 +6107,7 @@
 ## CVE-2025-11953 ()
 > 
 - [SaidBenaissa/cve-2025-11953-vulnerability-demo](https://github.com/SaidBenaissa/cve-2025-11953-vulnerability-demo)	<img alt="forks" src="https://img.shields.io/github/forks/SaidBenaissa/cve-2025-11953-vulnerability-demo">	<img alt="stars" src="https://img.shields.io/github/stars/SaidBenaissa/cve-2025-11953-vulnerability-demo">
+- [B1ack4sh/Blackash-CVE-2025-11953](https://github.com/B1ack4sh/Blackash-CVE-2025-11953)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-11953">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-11953">
 
 ---
 ## CVE-2025-11833 ()
