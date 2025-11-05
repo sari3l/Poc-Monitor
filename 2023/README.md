@@ -1059,6 +1059,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [KernelCipher/CVE-2023-49440-POC](https://github.com/KernelCipher/CVE-2023-49440-POC)	<img alt="forks" src="https://img.shields.io/github/forks/KernelCipher/CVE-2023-49440-POC">	<img alt="stars" src="https://img.shields.io/github/stars/KernelCipher/CVE-2023-49440-POC">
 - [KernelCipher/CVE-2023-49440-POC](https://github.com/KernelCipher/CVE-2023-49440-POC)	<img alt="forks" src="https://img.shields.io/github/forks/KernelCipher/CVE-2023-49440-POC">	<img alt="stars" src="https://img.shields.io/github/stars/KernelCipher/CVE-2023-49440-POC">
 - [KernelCipher/CVE-2023-49440-POC](https://github.com/KernelCipher/CVE-2023-49440-POC)	<img alt="forks" src="https://img.shields.io/github/forks/KernelCipher/CVE-2023-49440-POC">	<img alt="stars" src="https://img.shields.io/github/stars/KernelCipher/CVE-2023-49440-POC">
+- [NyaMeeEain/CVE-2023-49440](https://github.com/NyaMeeEain/CVE-2023-49440)	<img alt="forks" src="https://img.shields.io/github/forks/NyaMeeEain/CVE-2023-49440">	<img alt="stars" src="https://img.shields.io/github/stars/NyaMeeEain/CVE-2023-49440">
 
 ---
 ## CVE-2023-49438 (2023-12-26T22:15:00)
