@@ -2796,6 +2796,7 @@
 - [5l1v3r1/CVE-2020-2553](https://github.com/5l1v3r1/CVE-2020-2553)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2020-2553">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2020-2553">
 - [jas502n/CVE-2020-2551](https://github.com/jas502n/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-2551">
 - [w3security/CVE-2020-2551](https://github.com/w3security/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/w3security/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/w3security/CVE-2020-2551">
+- [B1ack4sh/Blackash-CVE-2020-2551](https://github.com/B1ack4sh/Blackash-CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2020-2551">
 
 ---
 ## CVE-2020-2550 (2020-01-15T17:15:00)
