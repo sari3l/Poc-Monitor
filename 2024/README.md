@@ -6229,6 +6229,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [zpxlz/CVE-2024-3094](https://github.com/zpxlz/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/zpxlz/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/zpxlz/CVE-2024-3094">
 - [ThomRgn/xzutils_backdoor_obfuscation](https://github.com/ThomRgn/xzutils_backdoor_obfuscation)	<img alt="forks" src="https://img.shields.io/github/forks/ThomRgn/xzutils_backdoor_obfuscation">	<img alt="stars" src="https://img.shields.io/github/stars/ThomRgn/xzutils_backdoor_obfuscation">
 - [M1lo25/CS50FinalProject](https://github.com/M1lo25/CS50FinalProject)	<img alt="forks" src="https://img.shields.io/github/forks/M1lo25/CS50FinalProject">	<img alt="stars" src="https://img.shields.io/github/stars/M1lo25/CS50FinalProject">
+- [B1ack4sh/Blackash-CVE-2024-3094](https://github.com/B1ack4sh/Blackash-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2024-3094">
 
 ---
 ## CVE-2024-30937 ()
