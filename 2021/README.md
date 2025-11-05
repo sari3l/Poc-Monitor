@@ -1019,6 +1019,13 @@
 - [KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device](https://github.com/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device)	<img alt="forks" src="https://img.shields.io/github/forks/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device">	<img alt="stars" src="https://img.shields.io/github/stars/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device">
 - [moften/Log4Shell](https://github.com/moften/Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/moften/Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/moften/Log4Shell">
 - [B1ack4sh/Blackash-CVE-2021-44228](https://github.com/B1ack4sh/Blackash-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2021-44228">
+- [Apohub55/Slient-URL-Exploit](https://github.com/Apohub55/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Apohub55/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Apohub55/Slient-URL-Exploit">
+- [CJSKWT/Discord-Image-Logger-Stealer](https://github.com/CJSKWT/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/CJSKWT/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/CJSKWT/Discord-Image-Logger-Stealer">
+- [CJSKWT/PDF-FUD-Exploit](https://github.com/CJSKWT/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CJSKWT/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CJSKWT/PDF-FUD-Exploit">
+- [Bokbong909/patch-finder](https://github.com/Bokbong909/patch-finder)	<img alt="forks" src="https://img.shields.io/github/forks/Bokbong909/patch-finder">	<img alt="stars" src="https://img.shields.io/github/stars/Bokbong909/patch-finder">
+- [CJSKWT/Slient-URL-Exploit](https://github.com/CJSKWT/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CJSKWT/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CJSKWT/Slient-URL-Exploit">
+- [CJSKWT/HTA-Exploit](https://github.com/CJSKWT/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CJSKWT/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CJSKWT/HTA-Exploit">
+- [Mintimate/log4j2-bugmaker](https://github.com/Mintimate/log4j2-bugmaker)	<img alt="forks" src="https://img.shields.io/github/forks/Mintimate/log4j2-bugmaker">	<img alt="stars" src="https://img.shields.io/github/stars/Mintimate/log4j2-bugmaker">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
