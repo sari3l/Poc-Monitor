@@ -469,6 +469,11 @@
 - [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335)	<img alt="forks" src="https://img.shields.io/github/forks/jujubooom/CVE-2025-6335">	<img alt="stars" src="https://img.shields.io/github/stars/jujubooom/CVE-2025-6335">
 
 ---
+## CVE-2025-63307 ()
+> 
+- [Theethat-Thamwasin/CVE-2025-63307](https://github.com/Theethat-Thamwasin/CVE-2025-63307)	<img alt="forks" src="https://img.shields.io/github/forks/Theethat-Thamwasin/CVE-2025-63307">	<img alt="stars" src="https://img.shields.io/github/stars/Theethat-Thamwasin/CVE-2025-63307">
+
+---
 ## CVE-2025-63298 ()
 > 
 - [z3rObyte/CVE-2025-63298](https://github.com/z3rObyte/CVE-2025-63298)	<img alt="forks" src="https://img.shields.io/github/forks/z3rObyte/CVE-2025-63298">	<img alt="stars" src="https://img.shields.io/github/stars/z3rObyte/CVE-2025-63298">
