@@ -467,6 +467,7 @@
 ## CVE-2025-63588 ()
 > 
 - [cybercrewinc/CVE-2025-63588](https://github.com/cybercrewinc/CVE-2025-63588)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63588">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63588">
+- [cybercrewinc/CVE-2025-63588](https://github.com/cybercrewinc/CVE-2025-63588)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63588">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63588">
 
 ---
 ## CVE-2025-63571 ()
