@@ -485,6 +485,11 @@
 - [RRespxwnss/CVE-2025-63571](https://github.com/RRespxwnss/CVE-2025-63571)	<img alt="forks" src="https://img.shields.io/github/forks/RRespxwnss/CVE-2025-63571">	<img alt="stars" src="https://img.shields.io/github/stars/RRespxwnss/CVE-2025-63571">
 
 ---
+## CVE-2025-63353 ()
+> 
+- [hanianis/CVE-2025-63353](https://github.com/hanianis/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/hanianis/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/hanianis/CVE-2025-63353">
+
+---
 ## CVE-2025-6335 ()
 > 
 - [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335)	<img alt="forks" src="https://img.shields.io/github/forks/jujubooom/CVE-2025-6335">	<img alt="stars" src="https://img.shields.io/github/stars/jujubooom/CVE-2025-6335">
