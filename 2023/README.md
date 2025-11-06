@@ -2086,6 +2086,8 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [moften/CVE-2023-44487-HTTP-2-Rapid-Reset-Attack](https://github.com/moften/CVE-2023-44487-HTTP-2-Rapid-Reset-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2023-44487-HTTP-2-Rapid-Reset-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2023-44487-HTTP-2-Rapid-Reset-Attack">
 - [zanks08/cve-2023-44487-demo](https://github.com/zanks08/cve-2023-44487-demo)	<img alt="forks" src="https://img.shields.io/github/forks/zanks08/cve-2023-44487-demo">	<img alt="stars" src="https://img.shields.io/github/stars/zanks08/cve-2023-44487-demo">
 - [zanks08/cve-2023-44487-demo](https://github.com/zanks08/cve-2023-44487-demo)	<img alt="forks" src="https://img.shields.io/github/forks/zanks08/cve-2023-44487-demo">	<img alt="stars" src="https://img.shields.io/github/stars/zanks08/cve-2023-44487-demo">
+- [madhusudhan-in/CVE_2023_44487-Rapid_Reset](https://github.com/madhusudhan-in/CVE_2023_44487-Rapid_Reset)	<img alt="forks" src="https://img.shields.io/github/forks/madhusudhan-in/CVE_2023_44487-Rapid_Reset">	<img alt="stars" src="https://img.shields.io/github/stars/madhusudhan-in/CVE_2023_44487-Rapid_Reset">
+- [gmh5225/CVE_2023_44487-Rapid_Reset](https://github.com/gmh5225/CVE_2023_44487-Rapid_Reset)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE_2023_44487-Rapid_Reset">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE_2023_44487-Rapid_Reset">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
