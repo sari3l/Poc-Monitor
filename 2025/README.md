@@ -2630,6 +2630,7 @@
 - [MarcoTondolo/cve-2025-48384-poc](https://github.com/MarcoTondolo/cve-2025-48384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MarcoTondolo/cve-2025-48384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MarcoTondolo/cve-2025-48384-poc">
 - [ceevase/CVE-2025-48384-sub](https://github.com/ceevase/CVE-2025-48384-sub)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/CVE-2025-48384-sub">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/CVE-2025-48384-sub">
 - [ceevase/CVE-2025-48384-main](https://github.com/ceevase/CVE-2025-48384-main)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/CVE-2025-48384-main">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/CVE-2025-48384-main">
+- [ceevase/cve-2025-48384](https://github.com/ceevase/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/cve-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
@@ -5932,6 +5933,11 @@
 > 
 - [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)	<img alt="forks" src="https://img.shields.io/github/forks/Burak1320demiroz/cve-2025-2082">	<img alt="stars" src="https://img.shields.io/github/stars/Burak1320demiroz/cve-2025-2082">
 - [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
+
+---
+## CVE-2025-20354 ()
+> 
+- [allinsthon/CVE-2025-20354](https://github.com/allinsthon/CVE-2025-20354)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-20354">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-20354">
 
 ---
 ## CVE-2025-20352 ()
