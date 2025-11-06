@@ -2628,6 +2628,8 @@
 - [mukesh-610/cve-2025-48384](https://github.com/mukesh-610/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/mukesh-610/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/mukesh-610/cve-2025-48384">
 - [mukesh-610/cve-2025-48384-exploit](https://github.com/mukesh-610/cve-2025-48384-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mukesh-610/cve-2025-48384-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mukesh-610/cve-2025-48384-exploit">
 - [MarcoTondolo/cve-2025-48384-poc](https://github.com/MarcoTondolo/cve-2025-48384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MarcoTondolo/cve-2025-48384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MarcoTondolo/cve-2025-48384-poc">
+- [ceevase/CVE-2025-48384-sub](https://github.com/ceevase/CVE-2025-48384-sub)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/CVE-2025-48384-sub">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/CVE-2025-48384-sub">
+- [ceevase/CVE-2025-48384-main](https://github.com/ceevase/CVE-2025-48384-main)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/CVE-2025-48384-main">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/CVE-2025-48384-main">
 
 ---
 ## CVE-2025-4822 ()
