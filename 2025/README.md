@@ -461,6 +461,8 @@
 ## CVE-2025-64095 ()
 > 
 - [callinston/CVE-2025-64095](https://github.com/callinston/CVE-2025-64095)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-64095">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-64095">
+- [NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC](https://github.com/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC">
+- [h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload](https://github.com/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload">
 
 ---
 ## CVE-2025-6384 ()
@@ -5948,6 +5950,7 @@
 ## CVE-2025-20354 ()
 > 
 - [allinsthon/CVE-2025-20354](https://github.com/allinsthon/CVE-2025-20354)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-20354">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-20354">
+- [B1ack4sh/Blackash-CVE-2025-20354](https://github.com/B1ack4sh/Blackash-CVE-2025-20354)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-20354">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-20354">
 
 ---
 ## CVE-2025-20352 ()
