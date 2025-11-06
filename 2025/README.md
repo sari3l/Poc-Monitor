@@ -1175,6 +1175,11 @@
 - [xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709](https://github.com/xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709)	<img alt="forks" src="https://img.shields.io/github/forks/xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709">	<img alt="stars" src="https://img.shields.io/github/stars/xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709">
 
 ---
+## CVE-2025-56643 ()
+> 
+- [0xBS0D27/CVE-2025-56643](https://github.com/0xBS0D27/CVE-2025-56643)	<img alt="forks" src="https://img.shields.io/github/forks/0xBS0D27/CVE-2025-56643">	<img alt="stars" src="https://img.shields.io/github/stars/0xBS0D27/CVE-2025-56643">
+
+---
 ## CVE-2025-56605 ()
 > 
 - [Userr404/CVE-2025-56605](https://github.com/Userr404/CVE-2025-56605)	<img alt="forks" src="https://img.shields.io/github/forks/Userr404/CVE-2025-56605">	<img alt="stars" src="https://img.shields.io/github/stars/Userr404/CVE-2025-56605">
