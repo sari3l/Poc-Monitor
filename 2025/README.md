@@ -1506,6 +1506,7 @@
 > 
 - [nitrixog/CVE-2025-54782](https://github.com/nitrixog/CVE-2025-54782)	<img alt="forks" src="https://img.shields.io/github/forks/nitrixog/CVE-2025-54782">	<img alt="stars" src="https://img.shields.io/github/stars/nitrixog/CVE-2025-54782">
 - [vxaretra/CVE-2025-54782](https://github.com/vxaretra/CVE-2025-54782)	<img alt="forks" src="https://img.shields.io/github/forks/vxaretra/CVE-2025-54782">	<img alt="stars" src="https://img.shields.io/github/stars/vxaretra/CVE-2025-54782">
+- [DDestinys/CVE-2025-54782](https://github.com/DDestinys/CVE-2025-54782)	<img alt="forks" src="https://img.shields.io/github/forks/DDestinys/CVE-2025-54782">	<img alt="stars" src="https://img.shields.io/github/stars/DDestinys/CVE-2025-54782">
 
 ---
 ## CVE-2025-54769 ()
