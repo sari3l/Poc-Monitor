@@ -399,6 +399,7 @@ to load arbitrary JavaScript code.
 ## CVE-2023-5359 ()
 > 
 - [spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache](https://github.com/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache)	<img alt="forks" src="https://img.shields.io/github/forks/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache">	<img alt="stars" src="https://img.shields.io/github/stars/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache">
+- [enzocipher/CVE-2023-5359](https://github.com/enzocipher/CVE-2023-5359)	<img alt="forks" src="https://img.shields.io/github/forks/enzocipher/CVE-2023-5359">	<img alt="stars" src="https://img.shields.io/github/stars/enzocipher/CVE-2023-5359">
 
 ---
 ## CVE-2023-52927 ()
