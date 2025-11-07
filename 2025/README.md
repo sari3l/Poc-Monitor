@@ -684,6 +684,11 @@
 - [eGkritsis/CVE-2025-61301](https://github.com/eGkritsis/CVE-2025-61301)	<img alt="forks" src="https://img.shields.io/github/forks/eGkritsis/CVE-2025-61301">	<img alt="stars" src="https://img.shields.io/github/stars/eGkritsis/CVE-2025-61301">
 
 ---
+## CVE-2025-61299 ()
+> 
+- [GovindPalakkal/CVE-2025-61299_POC](https://github.com/GovindPalakkal/CVE-2025-61299_POC)	<img alt="forks" src="https://img.shields.io/github/forks/GovindPalakkal/CVE-2025-61299_POC">	<img alt="stars" src="https://img.shields.io/github/stars/GovindPalakkal/CVE-2025-61299_POC">
+
+---
 ## CVE-2025-61196 ()
 > 
 - [zsamamah/CVE-2025-61196](https://github.com/zsamamah/CVE-2025-61196)	<img alt="forks" src="https://img.shields.io/github/forks/zsamamah/CVE-2025-61196">	<img alt="stars" src="https://img.shields.io/github/stars/zsamamah/CVE-2025-61196">
