@@ -482,9 +482,19 @@
 - [cybercrewinc/CVE-2025-63588](https://github.com/cybercrewinc/CVE-2025-63588)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63588">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63588">
 
 ---
+## CVE-2025-63585 ()
+> 
+- [Kgan0509/CVE-2025-63585](https://github.com/Kgan0509/CVE-2025-63585)	<img alt="forks" src="https://img.shields.io/github/forks/Kgan0509/CVE-2025-63585">	<img alt="stars" src="https://img.shields.io/github/stars/Kgan0509/CVE-2025-63585">
+
+---
 ## CVE-2025-63571 ()
 > 
 - [RRespxwnss/CVE-2025-63571](https://github.com/RRespxwnss/CVE-2025-63571)	<img alt="forks" src="https://img.shields.io/github/forks/RRespxwnss/CVE-2025-63571">	<img alt="stars" src="https://img.shields.io/github/stars/RRespxwnss/CVE-2025-63571">
+
+---
+## CVE-2025-63441 ()
+> 
+- [Kgan0509/CVE-2025-63441](https://github.com/Kgan0509/CVE-2025-63441)	<img alt="forks" src="https://img.shields.io/github/forks/Kgan0509/CVE-2025-63441">	<img alt="stars" src="https://img.shields.io/github/stars/Kgan0509/CVE-2025-63441">
 
 ---
 ## CVE-2025-63353 ()
