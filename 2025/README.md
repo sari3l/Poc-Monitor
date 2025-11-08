@@ -226,6 +226,7 @@
 - [B1ack4sh/Blackash-CVE-2025-8088](https://github.com/B1ack4sh/Blackash-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-8088">
 - [nuky-alt/CVE-2025-8088](https://github.com/nuky-alt/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nuky-alt/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nuky-alt/CVE-2025-8088">
 - [nuky-alt/CVE-2025-8088](https://github.com/nuky-alt/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nuky-alt/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nuky-alt/CVE-2025-8088">
+- [shourout/CVE-2025-8088](https://github.com/shourout/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/shourout/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/shourout/CVE-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
