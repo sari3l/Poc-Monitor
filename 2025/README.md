@@ -598,6 +598,11 @@
 - [allinsthon/CVE-2025-61932](https://github.com/allinsthon/CVE-2025-61932)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-61932">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-61932">
 
 ---
+## CVE-2025-61922 ()
+> 
+- [captaincookie34/Vulnerability-Playground-CVE-2025-61922](https://github.com/captaincookie34/Vulnerability-Playground-CVE-2025-61922)	<img alt="forks" src="https://img.shields.io/github/forks/captaincookie34/Vulnerability-Playground-CVE-2025-61922">	<img alt="stars" src="https://img.shields.io/github/stars/captaincookie34/Vulnerability-Playground-CVE-2025-61922">
+
+---
 ## CVE-2025-61884 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-61884](https://github.com/B1ack4sh/Blackash-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61884">
