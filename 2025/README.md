@@ -2001,6 +2001,7 @@
 ## CVE-2025-51970 ()
 > 
 - [M4xIq/CVE-2025-51970](https://github.com/M4xIq/CVE-2025-51970)	<img alt="forks" src="https://img.shields.io/github/forks/M4xIq/CVE-2025-51970">	<img alt="stars" src="https://img.shields.io/github/stars/M4xIq/CVE-2025-51970">
+- [MMAKINGDOM/CVE-2025-51970](https://github.com/MMAKINGDOM/CVE-2025-51970)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-51970">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-51970">
 
 ---
 ## CVE-2025-51869 ()
