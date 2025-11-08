@@ -2570,6 +2570,7 @@
 - [B1ack4sh/Blackash-CVE-2025-48593](https://github.com/B1ack4sh/Blackash-CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-48593">
 - [daiens/CVE-2025-48593](https://github.com/daiens/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/daiens/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/daiens/CVE-2025-48593">
 - [skolepc/CVE-2025-48593](https://github.com/skolepc/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/skolepc/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/skolepc/CVE-2025-48593">
+- [logesh-GIT001/CVE-2025-48593](https://github.com/logesh-GIT001/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/logesh-GIT001/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/logesh-GIT001/CVE-2025-48593">
 
 ---
 ## CVE-2025-48543 ()
@@ -6201,6 +6202,11 @@
 > 
 - [EQSTLab/CVE-2025-1302](https://github.com/EQSTLab/CVE-2025-1302)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-1302">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-1302">
 - [abrewer251/CVE-2025-1302_jsonpath-plus_RCE](https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-1302_jsonpath-plus_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-1302_jsonpath-plus_RCE">
+
+---
+## CVE-2025-12907 ()
+> 
+- [lagerhaker539/CVE-2025-12907-POC](https://github.com/lagerhaker539/CVE-2025-12907-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lagerhaker539/CVE-2025-12907-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lagerhaker539/CVE-2025-12907-POC">
 
 ---
 ## CVE-2025-12654 ()
