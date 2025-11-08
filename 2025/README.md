@@ -2678,6 +2678,7 @@
 - [ceevase/cve-2025-48384](https://github.com/ceevase/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/cve-2025-48384">
 - [bummie/CVE-2025-48384-submodule](https://github.com/bummie/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/bummie/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/bummie/CVE-2025-48384-submodule">
 - [bummie/CVE-2025-48384](https://github.com/bummie/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/bummie/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/bummie/CVE-2025-48384">
+- [bummie/CVE-2025-48384-submodule](https://github.com/bummie/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/bummie/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/bummie/CVE-2025-48384-submodule">
 
 ---
 ## CVE-2025-4822 ()
