@@ -6208,6 +6208,7 @@
 ## CVE-2025-12907 ()
 > 
 - [lagerhaker539/CVE-2025-12907-POC](https://github.com/lagerhaker539/CVE-2025-12907-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lagerhaker539/CVE-2025-12907-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lagerhaker539/CVE-2025-12907-POC">
+- [DExplo1ted/CVE-2025-12907-Exploit](https://github.com/DExplo1ted/CVE-2025-12907-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/DExplo1ted/CVE-2025-12907-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/DExplo1ted/CVE-2025-12907-Exploit">
 
 ---
 ## CVE-2025-12654 ()
