@@ -6240,6 +6240,11 @@
 - [blackhatlegend/CVE-2025-11832](https://github.com/blackhatlegend/CVE-2025-11832)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2025-11832">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2025-11832">
 
 ---
+## CVE-2025-11749 ()
+> 
+- [Nxploited/CVE-2025-11749](https://github.com/Nxploited/CVE-2025-11749)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-11749">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-11749">
+
+---
 ## CVE-2025-11579 ()
 > 
 - [shinigami-777/PoC_CVE-2025-11579](https://github.com/shinigami-777/PoC_CVE-2025-11579)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-11579">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-11579">
