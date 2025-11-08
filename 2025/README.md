@@ -1127,6 +1127,11 @@
 - [amalcew/CVE-2025-57389](https://github.com/amalcew/CVE-2025-57389)	<img alt="forks" src="https://img.shields.io/github/forks/amalcew/CVE-2025-57389">	<img alt="stars" src="https://img.shields.io/github/stars/amalcew/CVE-2025-57389">
 
 ---
+## CVE-2025-57310 ()
+> 
+- [MMAKINGDOM/CVE-2025-57310](https://github.com/MMAKINGDOM/CVE-2025-57310)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-57310">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-57310">
+
+---
 ## CVE-2025-57176 ()
 > 
 - [semaja22/CVE-2025-57176](https://github.com/semaja22/CVE-2025-57176)	<img alt="forks" src="https://img.shields.io/github/forks/semaja22/CVE-2025-57176">	<img alt="stars" src="https://img.shields.io/github/stars/semaja22/CVE-2025-57176">
