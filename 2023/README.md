@@ -1919,6 +1919,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [ksaweryr/CVE-2023-45612-PoC](https://github.com/ksaweryr/CVE-2023-45612-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ksaweryr/CVE-2023-45612-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ksaweryr/CVE-2023-45612-PoC">
 - [seraphimi/ktor-xxe](https://github.com/seraphimi/ktor-xxe)	<img alt="forks" src="https://img.shields.io/github/forks/seraphimi/ktor-xxe">	<img alt="stars" src="https://img.shields.io/github/stars/seraphimi/ktor-xxe">
 - [stefan-500/ktor-cve-2023-45612-poc](https://github.com/stefan-500/ktor-cve-2023-45612-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stefan-500/ktor-cve-2023-45612-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stefan-500/ktor-cve-2023-45612-poc">
+- [razvanclaudiu/Ktor-XXE-PoC](https://github.com/razvanclaudiu/Ktor-XXE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/razvanclaudiu/Ktor-XXE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/razvanclaudiu/Ktor-XXE-PoC">
 
 ---
 ## CVE-2023-45603 (2023-12-20T19:15:00)
