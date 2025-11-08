@@ -5973,6 +5973,7 @@
 ## CVE-2025-21042 ()
 > 
 - [usjnx72726w/CVE-2025-21042](https://github.com/usjnx72726w/CVE-2025-21042)	<img alt="forks" src="https://img.shields.io/github/forks/usjnx72726w/CVE-2025-21042">	<img alt="stars" src="https://img.shields.io/github/stars/usjnx72726w/CVE-2025-21042">
+- [B1ack4sh/Blackash-CVE-2025-21042](https://github.com/B1ack4sh/Blackash-CVE-2025-21042)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-21042">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-21042">
 
 ---
 ## CVE-2025-2082 ()
