@@ -1246,6 +1246,11 @@
 - [Live-Hack-CVE/CVE-2021-43767](https://github.com/Live-Hack-CVE/CVE-2021-43767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43767">
 
 ---
+## CVE-2021-4374 ()
+> 
+- [Pranjal6955/cve-2021-4374-test](https://github.com/Pranjal6955/cve-2021-4374-test)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/cve-2021-4374-test">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/cve-2021-4374-test">
+
+---
 ## CVE-2021-43674 (2021-12-03T13:15:00)
 > ** UNSUPPORTED WHEN ASSIGNED ** ThinkUp 2.0-beta.10 is affected by a path manipulation vulnerability in Smarty.class.php. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [Live-Hack-CVE/CVE-2021-43674](https://github.com/Live-Hack-CVE/CVE-2021-43674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43674">
