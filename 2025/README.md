@@ -2572,6 +2572,7 @@
 - [skolepc/CVE-2025-48593](https://github.com/skolepc/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/skolepc/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/skolepc/CVE-2025-48593">
 - [logesh-GIT001/CVE-2025-48593](https://github.com/logesh-GIT001/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/logesh-GIT001/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/logesh-GIT001/CVE-2025-48593">
 - [callinston/CVE-2025-48593](https://github.com/callinston/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-48593">
+- [letchupkt/CVE-2025-48593](https://github.com/letchupkt/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/letchupkt/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/letchupkt/CVE-2025-48593">
 
 ---
 ## CVE-2025-48543 ()
