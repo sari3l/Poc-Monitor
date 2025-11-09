@@ -6211,6 +6211,11 @@
 - [abrewer251/CVE-2025-1302_jsonpath-plus_RCE](https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-1302_jsonpath-plus_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-1302_jsonpath-plus_RCE">
 
 ---
+## CVE-2025-12917 ()
+> 
+- [0xcucumbersalad/CVE-2025-12917-PoC](https://github.com/0xcucumbersalad/CVE-2025-12917-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-12917-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-12917-PoC">
+
+---
 ## CVE-2025-12907 ()
 > 
 - [lagerhaker539/CVE-2025-12907-POC](https://github.com/lagerhaker539/CVE-2025-12907-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lagerhaker539/CVE-2025-12907-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lagerhaker539/CVE-2025-12907-POC">
