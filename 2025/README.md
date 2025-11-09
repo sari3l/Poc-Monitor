@@ -5671,6 +5671,7 @@
 - [Yuri08loveElaina/CVE-2025-24054_POC](https://github.com/Yuri08loveElaina/CVE-2025-24054_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-24054_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-24054_POC">
 - [yum1ra/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/yum1ra/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yum1ra/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yum1ra/CVE-2025-24054_CVE-2025-24071-PoC">
 - [rubenformation/CVE-2025-50154](https://github.com/rubenformation/CVE-2025-50154)	<img alt="forks" src="https://img.shields.io/github/forks/rubenformation/CVE-2025-50154">	<img alt="stars" src="https://img.shields.io/github/stars/rubenformation/CVE-2025-50154">
+- [Wind010/CVE-2025-24054_PoC](https://github.com/Wind010/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2025-24054_PoC">
 
 ---
 ## CVE-2025-2404 ()
