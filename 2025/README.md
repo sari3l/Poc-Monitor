@@ -4005,6 +4005,7 @@
 - [toshithh/CVE-2025-32433](https://github.com/toshithh/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/toshithh/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/toshithh/CVE-2025-32433">
 - [l1nuxkid/CVE-2025-32433-exploit](https://github.com/l1nuxkid/CVE-2025-32433-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/l1nuxkid/CVE-2025-32433-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/l1nuxkid/CVE-2025-32433-exploit">
 - [l1nuxkid/CVE-2025-32433](https://github.com/l1nuxkid/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/l1nuxkid/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/l1nuxkid/CVE-2025-32433">
+- [radzek15/CVE-2025-32433](https://github.com/radzek15/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
