@@ -3424,6 +3424,11 @@
 - [Marinafabregat/CVE-2025-41088](https://github.com/Marinafabregat/CVE-2025-41088)	<img alt="forks" src="https://img.shields.io/github/forks/Marinafabregat/CVE-2025-41088">	<img alt="stars" src="https://img.shields.io/github/stars/Marinafabregat/CVE-2025-41088">
 
 ---
+## CVE-2025-41067 ()
+> 
+- [xvk1t1/Open5GS-CVE-2025-41067-CVE-2025-41068-PoC](https://github.com/xvk1t1/Open5GS-CVE-2025-41067-CVE-2025-41068-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xvk1t1/Open5GS-CVE-2025-41067-CVE-2025-41068-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xvk1t1/Open5GS-CVE-2025-41067-CVE-2025-41068-PoC">
+
+---
 ## CVE-2025-4102025 ()
 > 
 - [ImTheCopilotNow/CVE-2025-4102025](https://github.com/ImTheCopilotNow/CVE-2025-4102025)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-4102025">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-4102025">
