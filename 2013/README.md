@@ -291,9 +291,19 @@
 - [Live-Hack-CVE/CVE-2013-0791](https://github.com/Live-Hack-CVE/CVE-2013-0791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0791">
 
 ---
+## CVE-2013-0333 ()
+> 
+- [heroku/heroku-CVE-2013-0333](https://github.com/heroku/heroku-CVE-2013-0333)	<img alt="forks" src="https://img.shields.io/github/forks/heroku/heroku-CVE-2013-0333">	<img alt="stars" src="https://img.shields.io/github/stars/heroku/heroku-CVE-2013-0333">
+
+---
+## CVE-2013-0269 ()
+> 
+- [heroku/heroku-CVE-2013-0269](https://github.com/heroku/heroku-CVE-2013-0269)	<img alt="forks" src="https://img.shields.io/github/forks/heroku/heroku-CVE-2013-0269">	<img alt="stars" src="https://img.shields.io/github/stars/heroku/heroku-CVE-2013-0269">
+
+---
 ## CVE-2013-0156 (2013-01-13T22:55:00)
 > active_support/core_ext/hash/conversions.rb in Ruby on Rails before 2.3.15, 3.0.x before 3.0.19, 3.1.x before 3.1.10, and 3.2.x before 3.2.11 does not properly restrict casts of string values, which allows remote attackers to conduct object-injection attacks and execute arbitrary code, or cause a denial of service (memory and CPU consumption) involving nested XML entity references, by leveraging Action Pack support for (1) YAML type conversion or (2) Symbol type conversion.
-- [oxBEN10/CVE-2013-0156](https://github.com/oxBEN10/CVE-2013-0156)	<img alt="forks" src="https://img.shields.io/github/forks/oxBEN10/CVE-2013-0156">	<img alt="stars" src="https://img.shields.io/github/stars/oxBEN10/CVE-2013-0156">
+- [oxben10/CVE-2013-0156](https://github.com/oxben10/CVE-2013-0156)	<img alt="forks" src="https://img.shields.io/github/forks/oxben10/CVE-2013-0156">	<img alt="stars" src="https://img.shields.io/github/stars/oxben10/CVE-2013-0156">
 - [Jjdt12/kuang_grade_mk11](https://github.com/Jjdt12/kuang_grade_mk11)	<img alt="forks" src="https://img.shields.io/github/forks/Jjdt12/kuang_grade_mk11">	<img alt="stars" src="https://img.shields.io/github/stars/Jjdt12/kuang_grade_mk11">
 - [R3dKn33-zz/CVE-2013-0156](https://github.com/R3dKn33-zz/CVE-2013-0156)	<img alt="forks" src="https://img.shields.io/github/forks/R3dKn33-zz/CVE-2013-0156">	<img alt="stars" src="https://img.shields.io/github/stars/R3dKn33-zz/CVE-2013-0156">
 - [heroku/heroku-CVE-2013-0156](https://github.com/heroku/heroku-CVE-2013-0156)	<img alt="forks" src="https://img.shields.io/github/forks/heroku/heroku-CVE-2013-0156">	<img alt="stars" src="https://img.shields.io/github/stars/heroku/heroku-CVE-2013-0156">
