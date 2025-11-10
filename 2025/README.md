@@ -448,6 +448,7 @@
 ## CVE-2025-64495 ()
 > 
 - [AlphabugX/CVE-2025-64495-POC](https://github.com/AlphabugX/CVE-2025-64495-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AlphabugX/CVE-2025-64495-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AlphabugX/CVE-2025-64495-POC">
+- [B1ack4sh/Blackash-CVE-2025-64495](https://github.com/B1ack4sh/Blackash-CVE-2025-64495)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64495">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64495">
 
 ---
 ## CVE-2025-64459 ()
