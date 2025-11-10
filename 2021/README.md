@@ -1249,6 +1249,7 @@
 ## CVE-2021-4374 ()
 > 
 - [Pranjal6955/cve-2021-4374-test](https://github.com/Pranjal6955/cve-2021-4374-test)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/cve-2021-4374-test">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/cve-2021-4374-test">
+- [Pranjal6955/CVE-2021-4374-Testing-Package](https://github.com/Pranjal6955/CVE-2021-4374-Testing-Package)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2021-4374-Testing-Package">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2021-4374-Testing-Package">
 
 ---
 ## CVE-2021-43674 (2021-12-03T13:15:00)
