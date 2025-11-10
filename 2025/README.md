@@ -3624,6 +3624,11 @@
 - [jisi-001/CVE-2025-34300POC](https://github.com/jisi-001/CVE-2025-34300POC)	<img alt="forks" src="https://img.shields.io/github/forks/jisi-001/CVE-2025-34300POC">	<img alt="stars" src="https://img.shields.io/github/stars/jisi-001/CVE-2025-34300POC">
 
 ---
+## CVE-2025-34299 ()
+> 
+- [crondenice/CVE-2025-34299](https://github.com/crondenice/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/crondenice/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/crondenice/CVE-2025-34299">
+
+---
 ## CVE-2025-34226 ()
 > 
 - [Eyodav/CVE-2025-34226](https://github.com/Eyodav/CVE-2025-34226)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34226">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34226">
