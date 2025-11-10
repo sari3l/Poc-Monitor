@@ -3939,6 +3939,7 @@
 - [DensuLabs/CVE-2025-32463](https://github.com/DensuLabs/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/DensuLabs/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/DensuLabs/CVE-2025-32463">
 - [muhammedkayag/CVE-2025-32463](https://github.com/muhammedkayag/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/muhammedkayag/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/muhammedkayag/CVE-2025-32463">
 - [NewComrade12211/CVE-2025-32463](https://github.com/NewComrade12211/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/NewComrade12211/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/NewComrade12211/CVE-2025-32463">
+- [Ghstxz/CVE-2025-32463](https://github.com/Ghstxz/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Ghstxz/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Ghstxz/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
