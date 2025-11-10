@@ -536,6 +536,11 @@ We recommend users to:
 - [jakabakos/CVE-2023-51448-cacti-sqli-poc](https://github.com/jakabakos/CVE-2023-51448-cacti-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-51448-cacti-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-51448-cacti-sqli-poc">
 
 ---
+## CVE-2023-51444 ()
+> 
+- [iPlayForSG/CVE-2023-51444](https://github.com/iPlayForSG/CVE-2023-51444)	<img alt="forks" src="https://img.shields.io/github/forks/iPlayForSG/CVE-2023-51444">	<img alt="stars" src="https://img.shields.io/github/stars/iPlayForSG/CVE-2023-51444">
+
+---
 ## CVE-2023-51409 (2024-04-12T14:15:00)
 > Unrestricted Upload of File with Dangerous Type vulnerability in Jordy Meow AI Engine: ChatGPT Chatbot.This issue affects AI Engine: ChatGPT Chatbot: from n/a through 1.9.98.
 
