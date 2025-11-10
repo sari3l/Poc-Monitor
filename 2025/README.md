@@ -615,6 +615,7 @@
 ## CVE-2025-61932 ()
 > 
 - [allinsthon/CVE-2025-61932](https://github.com/allinsthon/CVE-2025-61932)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-61932">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-61932">
+- [godfatherofexps/CVE-2025-61932-PoC](https://github.com/godfatherofexps/CVE-2025-61932-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/godfatherofexps/CVE-2025-61932-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/godfatherofexps/CVE-2025-61932-PoC">
 
 ---
 ## CVE-2025-61922 ()
