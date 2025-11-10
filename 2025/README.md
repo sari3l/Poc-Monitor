@@ -529,6 +529,11 @@
 - [z3rObyte/CVE-2025-63298](https://github.com/z3rObyte/CVE-2025-63298)	<img alt="forks" src="https://img.shields.io/github/forks/z3rObyte/CVE-2025-63298">	<img alt="stars" src="https://img.shields.io/github/stars/z3rObyte/CVE-2025-63298">
 
 ---
+## CVE-2025-63296 ()
+> 
+- [t4e-3/CVE-2025-63296](https://github.com/t4e-3/CVE-2025-63296)	<img alt="forks" src="https://img.shields.io/github/forks/t4e-3/CVE-2025-63296">	<img alt="stars" src="https://img.shields.io/github/stars/t4e-3/CVE-2025-63296">
+
+---
 ## CVE-2025-62726 ()
 > 
 - [Malayke/CVE-2025-62726-payload-repo](https://github.com/Malayke/CVE-2025-62726-payload-repo)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2025-62726-payload-repo">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2025-62726-payload-repo">
