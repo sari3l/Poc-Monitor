@@ -512,6 +512,11 @@
 - [MMAKINGDOM/CVE-2025-63420](https://github.com/MMAKINGDOM/CVE-2025-63420)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-63420">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-63420">
 
 ---
+## CVE-2025-63419 ()
+> 
+- [MMAKINGDOM/CVE-2025-63419](https://github.com/MMAKINGDOM/CVE-2025-63419)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-63419">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-63419">
+
+---
 ## CVE-2025-63353 ()
 > 
 - [hanianis/CVE-2025-63353](https://github.com/hanianis/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/hanianis/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/hanianis/CVE-2025-63353">
