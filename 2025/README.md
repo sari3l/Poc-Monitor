@@ -6507,6 +6507,7 @@
 ## CVE-2025-10161 ()
 > 
 - [FeZqq/CVE-2025-10161](https://github.com/FeZqq/CVE-2025-10161)	<img alt="forks" src="https://img.shields.io/github/forks/FeZqq/CVE-2025-10161">	<img alt="stars" src="https://img.shields.io/github/stars/FeZqq/CVE-2025-10161">
+- [FeZqq/CVE-2025-10161](https://github.com/FeZqq/CVE-2025-10161)	<img alt="forks" src="https://img.shields.io/github/forks/FeZqq/CVE-2025-10161">	<img alt="stars" src="https://img.shields.io/github/stars/FeZqq/CVE-2025-10161">
 
 ---
 ## CVE-2025-1015 ()
