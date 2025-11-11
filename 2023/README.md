@@ -4280,6 +4280,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [un7n0wn/CVE-2023-35813-RCE](https://github.com/un7n0wn/CVE-2023-35813-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/un7n0wn/CVE-2023-35813-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/un7n0wn/CVE-2023-35813-RCE">
 - [aalexpereira/CVE-2023-35813](https://github.com/aalexpereira/CVE-2023-35813)	<img alt="forks" src="https://img.shields.io/github/forks/aalexpereira/CVE-2023-35813">	<img alt="stars" src="https://img.shields.io/github/stars/aalexpereira/CVE-2023-35813">
 - [BagheeraAltered/CVE-2023-35813-PoC](https://github.com/BagheeraAltered/CVE-2023-35813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BagheeraAltered/CVE-2023-35813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BagheeraAltered/CVE-2023-35813-PoC">
+- [her3ticAVI/CVE-2023-35813](https://github.com/her3ticAVI/CVE-2023-35813)	<img alt="forks" src="https://img.shields.io/github/forks/her3ticAVI/CVE-2023-35813">	<img alt="stars" src="https://img.shields.io/github/stars/her3ticAVI/CVE-2023-35813">
 
 ---
 ## CVE-2023-35803 (2023-10-04T22:15:00)
