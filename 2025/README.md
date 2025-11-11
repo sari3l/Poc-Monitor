@@ -2385,6 +2385,7 @@
 - [elyasbassir/CVE-2025-49844](https://github.com/elyasbassir/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/elyasbassir/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/elyasbassir/CVE-2025-49844">
 - [B1ack4sh/Blackash-CVE-2025-49844](https://github.com/B1ack4sh/Blackash-CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-49844">
 - [saneki/cve-2025-49844](https://github.com/saneki/cve-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/saneki/cve-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/saneki/cve-2025-49844">
+- [Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">
 
 ---
 ## CVE-2025-49721 ()
@@ -6398,6 +6399,11 @@
 ## CVE-2025-11171 ()
 > 
 - [SnailSploit/CVE-2025-11171](https://github.com/SnailSploit/CVE-2025-11171)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-11171">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-11171">
+
+---
+## CVE-2025-11170 ()
+> 
+- [Nxploited/CVE-2025-11170](https://github.com/Nxploited/CVE-2025-11170)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-11170">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-11170">
 
 ---
 ## CVE-2025-11077 ()
