@@ -5949,6 +5949,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-31982">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-31982">
 - [th3gokul/CVE-2024-31982](https://github.com/th3gokul/CVE-2024-31982)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-31982">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-31982">
 - [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-31982">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-31982">
+- [raishin1/CVE-2024-31982](https://github.com/raishin1/CVE-2024-31982)	<img alt="forks" src="https://img.shields.io/github/forks/raishin1/CVE-2024-31982">	<img alt="stars" src="https://img.shields.io/github/stars/raishin1/CVE-2024-31982">
 
 ---
 ## CVE-2024-31969 ()
