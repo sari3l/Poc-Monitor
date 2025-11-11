@@ -1937,6 +1937,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [refr4g/CVE-2024-51378](https://github.com/refr4g/CVE-2024-51378)	<img alt="forks" src="https://img.shields.io/github/forks/refr4g/CVE-2024-51378">	<img alt="stars" src="https://img.shields.io/github/stars/refr4g/CVE-2024-51378">
 - [i0x29A/CVE-2024-51378](https://github.com/i0x29A/CVE-2024-51378)	<img alt="forks" src="https://img.shields.io/github/forks/i0x29A/CVE-2024-51378">	<img alt="stars" src="https://img.shields.io/github/stars/i0x29A/CVE-2024-51378">
 - [qnole000/CVE-2024-51378](https://github.com/qnole000/CVE-2024-51378)	<img alt="forks" src="https://img.shields.io/github/forks/qnole000/CVE-2024-51378">	<img alt="stars" src="https://img.shields.io/github/stars/qnole000/CVE-2024-51378">
+- [rimbadirgantara/CVE-2024-51378](https://github.com/rimbadirgantara/CVE-2024-51378)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2024-51378">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2024-51378">
 
 ---
 ## CVE-2024-51358 ()

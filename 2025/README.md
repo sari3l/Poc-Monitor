@@ -1472,6 +1472,11 @@
 - [aydin5245/CVE-2025-55555-CVE](https://github.com/aydin5245/CVE-2025-55555-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2025-55555-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2025-55555-CVE">
 
 ---
+## CVE-2025-55449 ()
+> 
+- [Marven11/CVE-2025-55449-AstrBot-RCE](https://github.com/Marven11/CVE-2025-55449-AstrBot-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2025-55449-AstrBot-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2025-55449-AstrBot-RCE">
+
+---
 ## CVE-2025-55349 ()
 > 
 - [GoldenTicketLabs/CVE-2025-55349](https://github.com/GoldenTicketLabs/CVE-2025-55349)	<img alt="forks" src="https://img.shields.io/github/forks/GoldenTicketLabs/CVE-2025-55349">	<img alt="stars" src="https://img.shields.io/github/stars/GoldenTicketLabs/CVE-2025-55349">
