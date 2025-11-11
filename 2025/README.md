@@ -4158,6 +4158,11 @@
 - [exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System](https://github.com/exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System">
 
 ---
+## CVE-2025-31931 ()
+> 
+- [yohanes/POC-CVE-2025-31931](https://github.com/yohanes/POC-CVE-2025-31931)	<img alt="forks" src="https://img.shields.io/github/forks/yohanes/POC-CVE-2025-31931">	<img alt="stars" src="https://img.shields.io/github/stars/yohanes/POC-CVE-2025-31931">
+
+---
 ## CVE-2025-31864 ()
 > 
 - [DoTTak/CVE-2025-31864](https://github.com/DoTTak/CVE-2025-31864)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-31864">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-31864">
