@@ -3643,6 +3643,7 @@
 ## CVE-2025-34299 ()
 > 
 - [crondenice/CVE-2025-34299](https://github.com/crondenice/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/crondenice/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/crondenice/CVE-2025-34299">
+- [rxerium/CVE-2025-34299](https://github.com/rxerium/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-34299">
 
 ---
 ## CVE-2025-34226 ()
@@ -5321,6 +5322,7 @@
 - [segfault-it/CVE-2025-25257](https://github.com/segfault-it/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/segfault-it/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/segfault-it/CVE-2025-25257">
 - [kityzed2003/CVE-2025-25257](https://github.com/kityzed2003/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/kityzed2003/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/kityzed2003/CVE-2025-25257">
 - [silentexploitexe/CVE-2025-25257](https://github.com/silentexploitexe/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/silentexploitexe/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/silentexploitexe/CVE-2025-25257">
+- [mr-r3b00t/CVE-2025-25257](https://github.com/mr-r3b00t/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2025-25257">
 
 ---
 ## CVE-2025-25256 ()
