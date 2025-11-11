@@ -2480,6 +2480,11 @@ length to be included in the checksum calculation is fully consumed.
 - [EQSTLab/CVE-2024-48914](https://github.com/EQSTLab/CVE-2024-48914)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-48914">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-48914">
 
 ---
+## CVE-2024-48910 ()
+> 
+- [Mitchellzhou1/CVE-2024-48910-PoC](https://github.com/Mitchellzhou1/CVE-2024-48910-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mitchellzhou1/CVE-2024-48910-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mitchellzhou1/CVE-2024-48910-PoC">
+
+---
 ## CVE-2024-48904 (2024-10-22T19:15:00)
 > An command injection vulnerability in Trend Micro Cloud Edge could allow a remote attacker to execute arbitrary code on affected appliances.
 
