@@ -8244,6 +8244,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [hybinn/CVE-2024-23897](https://github.com/hybinn/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/hybinn/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/hybinn/CVE-2024-23897">
 - [amalpvatayam67/day03-jenkins-23897](https://github.com/amalpvatayam67/day03-jenkins-23897)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day03-jenkins-23897">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day03-jenkins-23897">
 - [aadi0258/Exploit-CVE-2024-23897](https://github.com/aadi0258/Exploit-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/aadi0258/Exploit-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/aadi0258/Exploit-CVE-2024-23897">
+- [harekrishnarai/CVE-2024-23897-test-windows](https://github.com/harekrishnarai/CVE-2024-23897-test-windows)	<img alt="forks" src="https://img.shields.io/github/forks/harekrishnarai/CVE-2024-23897-test-windows">	<img alt="stars" src="https://img.shields.io/github/stars/harekrishnarai/CVE-2024-23897-test-windows">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
