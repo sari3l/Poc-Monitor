@@ -1037,6 +1037,11 @@
 - [prabhatverma47/CVE-2025-58180](https://github.com/prabhatverma47/CVE-2025-58180)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-58180">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-58180">
 
 ---
+## CVE-2025-58179 ()
+> 
+- [shitodcy/CVE-2025-58179-Check](https://github.com/shitodcy/CVE-2025-58179-Check)	<img alt="forks" src="https://img.shields.io/github/forks/shitodcy/CVE-2025-58179-Check">	<img alt="stars" src="https://img.shields.io/github/stars/shitodcy/CVE-2025-58179-Check">
+
+---
 ## CVE-2025-5815 ()
 > 
 - [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-5815-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-5815-Nuclei-Template">
