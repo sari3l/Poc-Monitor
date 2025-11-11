@@ -607,6 +607,11 @@
 - [WoodenKlaas/CVE-2021-44521](https://github.com/WoodenKlaas/CVE-2021-44521)	<img alt="forks" src="https://img.shields.io/github/forks/WoodenKlaas/CVE-2021-44521">	<img alt="stars" src="https://img.shields.io/github/stars/WoodenKlaas/CVE-2021-44521">
 
 ---
+## CVE-2021-4449 ()
+> 
+- [0xmoner/CVE-2021-4449](https://github.com/0xmoner/CVE-2021-4449)	<img alt="forks" src="https://img.shields.io/github/forks/0xmoner/CVE-2021-4449">	<img alt="stars" src="https://img.shields.io/github/stars/0xmoner/CVE-2021-4449">
+
+---
 ## CVE-2021-44444 (2021-12-14T12:15:00)
 > A vulnerability has been identified in JT Utilities (All versions < V13.1.1.0), JTTK (All versions < V11.1.1.0). JTTK library in affected products is vulnerable to an out of bounds read past the end of an allocated buffer when parsing specially crafted JT files. An attacker could leverage this vulnerability to leak information in the context of the current process. (ZDI-CAN-15052)
 - [Live-Hack-CVE/CVE-2021-44444](https://github.com/Live-Hack-CVE/CVE-2021-44444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44444">
