@@ -820,6 +820,7 @@
 ## CVE-2025-60724 ()
 > 
 - [Iomarlto/CVE-2025-60724](https://github.com/Iomarlto/CVE-2025-60724)	<img alt="forks" src="https://img.shields.io/github/forks/Iomarlto/CVE-2025-60724">	<img alt="stars" src="https://img.shields.io/github/stars/Iomarlto/CVE-2025-60724">
+- [Iomarlto/CVE-2025-60724](https://github.com/Iomarlto/CVE-2025-60724)	<img alt="forks" src="https://img.shields.io/github/forks/Iomarlto/CVE-2025-60724">	<img alt="stars" src="https://img.shields.io/github/stars/Iomarlto/CVE-2025-60724">
 
 ---
 ## CVE-2025-60710 ()
