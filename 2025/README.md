@@ -4301,6 +4301,7 @@
 > 
 - [sahar042/CVE-2025-31133](https://github.com/sahar042/CVE-2025-31133)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2025-31133">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2025-31133">
 - [skynet-f-nvidia/CVE-2025-31133](https://github.com/skynet-f-nvidia/CVE-2025-31133)	<img alt="forks" src="https://img.shields.io/github/forks/skynet-f-nvidia/CVE-2025-31133">	<img alt="stars" src="https://img.shields.io/github/stars/skynet-f-nvidia/CVE-2025-31133">
+- [omne-earth/arca](https://github.com/omne-earth/arca)	<img alt="forks" src="https://img.shields.io/github/forks/omne-earth/arca">	<img alt="stars" src="https://img.shields.io/github/stars/omne-earth/arca">
 
 ---
 ## CVE-2025-31131 ()
