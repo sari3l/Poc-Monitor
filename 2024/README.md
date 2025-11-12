@@ -2496,7 +2496,7 @@ Please note: authentication is not required in order to exploit this vulnerabili
 ---
 ## CVE-2024-4890 ()
 > 
-- [nekr0ff/neecdrestart-sudo-escalate-cve-2024-4890](https://github.com/nekr0ff/neecdrestart-sudo-escalate-cve-2024-4890)	<img alt="forks" src="https://img.shields.io/github/forks/nekr0ff/neecdrestart-sudo-escalate-cve-2024-4890">	<img alt="stars" src="https://img.shields.io/github/stars/nekr0ff/neecdrestart-sudo-escalate-cve-2024-4890">
+- [nekr0ff/needrestart-sudo-escalate-cve-2024-4890](https://github.com/nekr0ff/needrestart-sudo-escalate-cve-2024-4890)	<img alt="forks" src="https://img.shields.io/github/forks/nekr0ff/needrestart-sudo-escalate-cve-2024-4890">	<img alt="stars" src="https://img.shields.io/github/stars/nekr0ff/needrestart-sudo-escalate-cve-2024-4890">
 
 ---
 ## CVE-2024-48887 ()
