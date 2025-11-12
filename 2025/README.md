@@ -6379,6 +6379,11 @@
 - [dexterm300/cve-2025-12428-exploit-poc](https://github.com/dexterm300/cve-2025-12428-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/cve-2025-12428-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/cve-2025-12428-exploit-poc">
 
 ---
+## CVE-2025-12101 ()
+> 
+- [6h4ack/CVE-2025-12101-checker](https://github.com/6h4ack/CVE-2025-12101-checker)	<img alt="forks" src="https://img.shields.io/github/forks/6h4ack/CVE-2025-12101-checker">	<img alt="stars" src="https://img.shields.io/github/stars/6h4ack/CVE-2025-12101-checker">
+
+---
 ## CVE-2025-11953 ()
 > 
 - [SaidBenaissa/cve-2025-11953-vulnerability-demo](https://github.com/SaidBenaissa/cve-2025-11953-vulnerability-demo)	<img alt="forks" src="https://img.shields.io/github/forks/SaidBenaissa/cve-2025-11953-vulnerability-demo">	<img alt="stars" src="https://img.shields.io/github/stars/SaidBenaissa/cve-2025-11953-vulnerability-demo">
