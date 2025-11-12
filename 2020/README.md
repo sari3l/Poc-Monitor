@@ -5675,6 +5675,11 @@
 - [Live-Hack-CVE/CVE-2020-0198](https://github.com/Live-Hack-CVE/CVE-2020-0198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0198">
 
 ---
+## CVE-2020-0192 ()
+> 
+- [himanshu67111/CVE-2020-0192](https://github.com/himanshu67111/CVE-2020-0192)	<img alt="forks" src="https://img.shields.io/github/forks/himanshu67111/CVE-2020-0192">	<img alt="stars" src="https://img.shields.io/github/stars/himanshu67111/CVE-2020-0192">
+
+---
 ## CVE-2020-0188 (2020-06-11T15:15:00)
 > In onCreatePermissionRequest of SettingsSliceProvider.java, there is a possible permissions bypass due to a PendingIntent error. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-147355897
 - [Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33](https://github.com/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33)	<img alt="forks" src="https://img.shields.io/github/forks/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33">	<img alt="stars" src="https://img.shields.io/github/stars/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33">
