@@ -606,7 +606,7 @@
 ---
 ## CVE-2025-62215 ()
 > 
-- [piffybrokenmetal-beep/CVE-2025-62215](https://github.com/piffybrokenmetal-beep/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/piffybrokenmetal-beep/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/piffybrokenmetal-beep/CVE-2025-62215">
+- [fordeant/CVE-2025-62215](https://github.com/fordeant/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/fordeant/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/fordeant/CVE-2025-62215">
 
 ---
 ## CVE-2025-6220 ()
@@ -6308,6 +6308,11 @@
 ## CVE-2025-1304 ()
 > 
 - [Nxploited/CVE-2025-1304](https://github.com/Nxploited/CVE-2025-1304)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-1304">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-1304">
+
+---
+## CVE-2025-13027 ()
+> 
+- [yourluckyday3-art/CVE-2025-13027-Exploit](https://github.com/yourluckyday3-art/CVE-2025-13027-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yourluckyday3-art/CVE-2025-13027-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yourluckyday3-art/CVE-2025-13027-Exploit">
 
 ---
 ## CVE-2025-1302 ()
