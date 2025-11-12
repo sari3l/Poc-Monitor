@@ -604,6 +604,11 @@
 - [ghostroots/CVE-2025-62376](https://github.com/ghostroots/CVE-2025-62376)	<img alt="forks" src="https://img.shields.io/github/forks/ghostroots/CVE-2025-62376">	<img alt="stars" src="https://img.shields.io/github/stars/ghostroots/CVE-2025-62376">
 
 ---
+## CVE-2025-62215 ()
+> 
+- [piffybrokenmetal-beep/CVE-2025-62215](https://github.com/piffybrokenmetal-beep/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/piffybrokenmetal-beep/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/piffybrokenmetal-beep/CVE-2025-62215">
+
+---
 ## CVE-2025-6220 ()
 > 
 - [d0n601/CVE-2025-6220](https://github.com/d0n601/CVE-2025-6220)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-6220">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-6220">
