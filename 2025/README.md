@@ -6408,6 +6408,11 @@
 - [Nxploited/CVE-2025-12539](https://github.com/Nxploited/CVE-2025-12539)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-12539">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-12539">
 
 ---
+## CVE-2025-12480 ()
+> 
+- [velmetrac/CVE-2025-12480](https://github.com/velmetrac/CVE-2025-12480)	<img alt="forks" src="https://img.shields.io/github/forks/velmetrac/CVE-2025-12480">	<img alt="stars" src="https://img.shields.io/github/stars/velmetrac/CVE-2025-12480">
+
+---
 ## CVE-2025-12463 ()
 > 
 - [B1ack4sh/CVE-CVE-2025-12463](https://github.com/B1ack4sh/CVE-CVE-2025-12463)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/CVE-CVE-2025-12463">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/CVE-CVE-2025-12463">
