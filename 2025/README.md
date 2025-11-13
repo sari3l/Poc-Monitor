@@ -3573,6 +3573,11 @@
 - [Shreyas-Penkar/CVE-2025-39965](https://github.com/Shreyas-Penkar/CVE-2025-39965)	<img alt="forks" src="https://img.shields.io/github/forks/Shreyas-Penkar/CVE-2025-39965">	<img alt="stars" src="https://img.shields.io/github/stars/Shreyas-Penkar/CVE-2025-39965">
 
 ---
+## CVE-2025-39964 ()
+> 
+- [n1k0oowang/CVE-2025-39964_EXP](https://github.com/n1k0oowang/CVE-2025-39964_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/n1k0oowang/CVE-2025-39964_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/n1k0oowang/CVE-2025-39964_EXP">
+
+---
 ## CVE-2025-39946 ()
 > 
 - [farazsth98/exploit-CVE-2025-39946](https://github.com/farazsth98/exploit-CVE-2025-39946)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/exploit-CVE-2025-39946">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/exploit-CVE-2025-39946">
