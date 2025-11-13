@@ -428,6 +428,7 @@
 - [knqyf263/CVE-2018-6389](https://github.com/knqyf263/CVE-2018-6389)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2018-6389">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2018-6389">
 - [WazeHell/CVE-2018-6389](https://github.com/WazeHell/CVE-2018-6389)	<img alt="forks" src="https://img.shields.io/github/forks/WazeHell/CVE-2018-6389">	<img alt="stars" src="https://img.shields.io/github/stars/WazeHell/CVE-2018-6389">
 - [yolabingo/wordpress-fix-cve-2018-6389](https://github.com/yolabingo/wordpress-fix-cve-2018-6389)	<img alt="forks" src="https://img.shields.io/github/forks/yolabingo/wordpress-fix-cve-2018-6389">	<img alt="stars" src="https://img.shields.io/github/stars/yolabingo/wordpress-fix-cve-2018-6389">
+- [omidsec/CVE-2018-6389](https://github.com/omidsec/CVE-2018-6389)	<img alt="forks" src="https://img.shields.io/github/forks/omidsec/CVE-2018-6389">	<img alt="stars" src="https://img.shields.io/github/stars/omidsec/CVE-2018-6389">
 
 ---
 ## CVE-2018-6242 (2018-05-01T20:29:00)
