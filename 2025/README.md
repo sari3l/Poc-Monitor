@@ -6160,6 +6160,7 @@
 ## CVE-2025-20337 ()
 > 
 - [barbaraeivyu/CVE-2025-20337-EXP](https://github.com/barbaraeivyu/CVE-2025-20337-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-20337-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-20337-EXP">
+- [B1ack4sh/Blackash-CVE-2025-20337](https://github.com/B1ack4sh/Blackash-CVE-2025-20337)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-20337">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-20337">
 
 ---
 ## CVE-2025-20333 ()
