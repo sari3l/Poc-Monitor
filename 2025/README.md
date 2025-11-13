@@ -238,6 +238,7 @@
 - [nuky-alt/CVE-2025-8088](https://github.com/nuky-alt/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nuky-alt/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nuky-alt/CVE-2025-8088">
 - [shourout/CVE-2025-8088](https://github.com/shourout/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/shourout/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/shourout/CVE-2025-8088">
 - [kredscript/cve-2025-8088](https://github.com/kredscript/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kredscript/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kredscript/cve-2025-8088">
+- [WezRyan/CVE-2025-8088](https://github.com/WezRyan/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/WezRyan/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/WezRyan/CVE-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
@@ -5009,6 +5010,7 @@
 - [danil-koltsov/below-log-race-poc](https://github.com/danil-koltsov/below-log-race-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danil-koltsov/below-log-race-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danil-koltsov/below-log-race-poc">
 - [Diabl0xE/CVE-2025-27519](https://github.com/Diabl0xE/CVE-2025-27519)	<img alt="forks" src="https://img.shields.io/github/forks/Diabl0xE/CVE-2025-27519">	<img alt="stars" src="https://img.shields.io/github/stars/Diabl0xE/CVE-2025-27519">
 - [krn966/CVE-2025-27591](https://github.com/krn966/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/krn966/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/krn966/CVE-2025-27591">
+- [0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591](https://github.com/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">
 
 ---
 ## CVE-2025-27590 ()
