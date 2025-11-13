@@ -4196,6 +4196,11 @@
 - [HossamEAhmed/wp-ulike-cve-2025-32259-poc](https://github.com/HossamEAhmed/wp-ulike-cve-2025-32259-poc)	<img alt="forks" src="https://img.shields.io/github/forks/HossamEAhmed/wp-ulike-cve-2025-32259-poc">	<img alt="stars" src="https://img.shields.io/github/stars/HossamEAhmed/wp-ulike-cve-2025-32259-poc">
 
 ---
+## CVE-2025-3222 ()
+> 
+- [romromellow1996/cve-2025-3222-Exploit](https://github.com/romromellow1996/cve-2025-3222-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/romromellow1996/cve-2025-3222-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/romromellow1996/cve-2025-3222-Exploit">
+
+---
 ## CVE-2025-32206 ()
 > 
 - [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32206">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32206">
@@ -5117,6 +5122,7 @@
 ## CVE-2025-26686 ()
 > 
 - [mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates](https://github.com/mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates">
+- [alifaraj5723/CVE-2025-26686-poc](https://github.com/alifaraj5723/CVE-2025-26686-poc)	<img alt="forks" src="https://img.shields.io/github/forks/alifaraj5723/CVE-2025-26686-poc">	<img alt="stars" src="https://img.shields.io/github/stars/alifaraj5723/CVE-2025-26686-poc">
 
 ---
 ## CVE-2025-26647 ()
