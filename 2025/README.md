@@ -6160,6 +6160,11 @@
 - [ahmedumarehman/CVE-2025-21293](https://github.com/ahmedumarehman/CVE-2025-21293)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedumarehman/CVE-2025-21293">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedumarehman/CVE-2025-21293">
 
 ---
+## CVE-2025-21202 ()
+> 
+- [7amzahard/CVE-2025-21202-exploit](https://github.com/7amzahard/CVE-2025-21202-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/CVE-2025-21202-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/CVE-2025-21202-exploit">
+
+---
 ## CVE-2025-21042 ()
 > 
 - [usjnx72726w/CVE-2025-21042](https://github.com/usjnx72726w/CVE-2025-21042)	<img alt="forks" src="https://img.shields.io/github/forks/usjnx72726w/CVE-2025-21042">	<img alt="stars" src="https://img.shields.io/github/stars/usjnx72726w/CVE-2025-21042">
