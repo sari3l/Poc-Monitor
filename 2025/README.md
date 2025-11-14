@@ -489,6 +489,11 @@
 - [ch4n3-yoon/CVE-2025-64458-Demo](https://github.com/ch4n3-yoon/CVE-2025-64458-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/ch4n3-yoon/CVE-2025-64458-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/ch4n3-yoon/CVE-2025-64458-Demo">
 
 ---
+## CVE-2025-64446 ()
+> 
+- [fevar54/CVE-2025-64446-PoC---FortiWeb-Path-Traversal](https://github.com/fevar54/CVE-2025-64446-PoC---FortiWeb-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2025-64446-PoC---FortiWeb-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2025-64446-PoC---FortiWeb-Path-Traversal">
+
+---
 ## CVE-2025-64403 ()
 > 
 - [makaroonbourne/CVE-2025-64403-Exploit](https://github.com/makaroonbourne/CVE-2025-64403-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/makaroonbourne/CVE-2025-64403-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/makaroonbourne/CVE-2025-64403-Exploit">
