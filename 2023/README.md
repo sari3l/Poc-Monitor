@@ -4339,6 +4339,11 @@ The specific flaw exists within the DDP service. The issue results from the lack
 - [duy-31/CVE-2023-35636](https://github.com/duy-31/CVE-2023-35636)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-35636">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-35636">
 
 ---
+## CVE-2023-35317 ()
+> 
+- [M507/CVE-2023-35317-PoC](https://github.com/M507/CVE-2023-35317-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2023-35317-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2023-35317-PoC">
+
+---
 ## CVE-2023-3519 (2023-07-19T18:15:00)
 > Unauthenticated remote code execution
 
