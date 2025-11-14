@@ -1343,6 +1343,11 @@
 - [PhDg1410/CVE-2025-56588](https://github.com/PhDg1410/CVE-2025-56588)	<img alt="forks" src="https://img.shields.io/github/forks/PhDg1410/CVE-2025-56588">	<img alt="stars" src="https://img.shields.io/github/stars/PhDg1410/CVE-2025-56588">
 
 ---
+## CVE-2025-56526 ()
+> 
+- [HanTul/Kotaemon-CVE-2025-56526-56527-disclosure](https://github.com/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure">
+
+---
 ## CVE-2025-56521 ()
 > 
 - [Dong-hui-li/CVE-2025-56521andCVE-2025-56522](https://github.com/Dong-hui-li/CVE-2025-56521andCVE-2025-56522)	<img alt="forks" src="https://img.shields.io/github/forks/Dong-hui-li/CVE-2025-56521andCVE-2025-56522">	<img alt="stars" src="https://img.shields.io/github/stars/Dong-hui-li/CVE-2025-56521andCVE-2025-56522">
