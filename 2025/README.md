@@ -528,6 +528,11 @@
 - [Remenis/CVE-2025-63666](https://github.com/Remenis/CVE-2025-63666)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-63666">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-63666">
 
 ---
+## CVE-2025-63602 ()
+> 
+- [D7EAD/CVE-2025-63602](https://github.com/D7EAD/CVE-2025-63602)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2025-63602">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2025-63602">
+
+---
 ## CVE-2025-63589 ()
 > 
 - [cybercrewinc/CVE-2025-63589](https://github.com/cybercrewinc/CVE-2025-63589)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63589">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63589">
