@@ -2631,6 +2631,11 @@
 - [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
 
 ---
+## CVE-2025-48932 ()
+> 
+- [XploitGh0st/CVE-2025-48932---exploit](https://github.com/XploitGh0st/CVE-2025-48932---exploit)	<img alt="forks" src="https://img.shields.io/github/forks/XploitGh0st/CVE-2025-48932---exploit">	<img alt="stars" src="https://img.shields.io/github/stars/XploitGh0st/CVE-2025-48932---exploit">
+
+---
 ## CVE-2025-48903 ()
 > 
 - [susancodes55/CVE-2025-48903-discord-poc](https://github.com/susancodes55/CVE-2025-48903-discord-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-48903-discord-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-48903-discord-poc">
