@@ -508,6 +508,11 @@
 - [h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload](https://github.com/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload">
 
 ---
+## CVE-2025-63943 ()
+> 
+- [RedOpsX/CVE-2025-63943](https://github.com/RedOpsX/CVE-2025-63943)	<img alt="forks" src="https://img.shields.io/github/forks/RedOpsX/CVE-2025-63943">	<img alt="stars" src="https://img.shields.io/github/stars/RedOpsX/CVE-2025-63943">
+
+---
 ## CVE-2025-6384 ()
 > 
 - [mbadanoiu/CVE-2025-6384](https://github.com/mbadanoiu/CVE-2025-6384)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-6384">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-6384">
