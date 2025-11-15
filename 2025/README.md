@@ -624,6 +624,11 @@
 - [Malayke/n8n-remote-code-execution-cve-2025-62726-exploit](https://github.com/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">
 
 ---
+## CVE-2025-62507 ()
+> 
+- [Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC](https://github.com/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">
+
+---
 ## CVE-2025-62506 ()
 > 
 - [yoshino-s/CVE-2025-62506](https://github.com/yoshino-s/CVE-2025-62506)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-62506">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-62506">
