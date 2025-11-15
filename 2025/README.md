@@ -6482,6 +6482,7 @@
 - [6h4ack/CVE-2025-12101-checker](https://github.com/6h4ack/CVE-2025-12101-checker)	<img alt="forks" src="https://img.shields.io/github/forks/6h4ack/CVE-2025-12101-checker">	<img alt="stars" src="https://img.shields.io/github/stars/6h4ack/CVE-2025-12101-checker">
 - [boneys/CVE-2025-12101-Scanner](https://github.com/boneys/CVE-2025-12101-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/boneys/CVE-2025-12101-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/boneys/CVE-2025-12101-Scanner">
 - [7amzahard/CVE-2025-21202-exploit](https://github.com/7amzahard/CVE-2025-21202-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/CVE-2025-21202-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/CVE-2025-21202-exploit">
+- [boneys/CVE-2025-12101-Scanner-PoC](https://github.com/boneys/CVE-2025-12101-Scanner-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boneys/CVE-2025-12101-Scanner-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boneys/CVE-2025-12101-Scanner-PoC">
 
 ---
 ## CVE-2025-11953 ()
