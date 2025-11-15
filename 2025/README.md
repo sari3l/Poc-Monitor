@@ -509,6 +509,11 @@
 - [Nxploited/CVE-2025-6440](https://github.com/Nxploited/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6440">
 
 ---
+## CVE-2025-64328 ()
+> 
+- [mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection](https://github.com/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection">
+
+---
 ## CVE-2025-64095 ()
 > 
 - [callinston/CVE-2025-64095](https://github.com/callinston/CVE-2025-64095)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-64095">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-64095">
