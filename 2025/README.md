@@ -3783,6 +3783,11 @@
 - [B1ack4sh/Blackash-CVE-2025-34299](https://github.com/B1ack4sh/Blackash-CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-34299">
 
 ---
+## CVE-2025-34227 ()
+> 
+- [mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard](https://github.com/mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-34227_Nagios-XI-Command-Injection-Configuration-Wizard">
+
+---
 ## CVE-2025-34226 ()
 > 
 - [Eyodav/CVE-2025-34226](https://github.com/Eyodav/CVE-2025-34226)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34226">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34226">
