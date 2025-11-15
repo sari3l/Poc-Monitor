@@ -10400,6 +10400,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-0679">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-0679">
 
 ---
+## CVE-2024-0670 ()
+> 
+- [zhulin837/checkmk_cve-2024-0670](https://github.com/zhulin837/checkmk_cve-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/zhulin837/checkmk_cve-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/zhulin837/checkmk_cve-2024-0670">
+
+---
 ## CVE-2024-06666 ()
 > 
 - [labc-dev/CVE-2024-06666](https://github.com/labc-dev/CVE-2024-06666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-06666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-06666">
