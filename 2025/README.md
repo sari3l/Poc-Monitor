@@ -1782,6 +1782,16 @@
 - [limmmw/CVE-2025-54352](https://github.com/limmmw/CVE-2025-54352)	<img alt="forks" src="https://img.shields.io/github/forks/limmmw/CVE-2025-54352">	<img alt="stars" src="https://img.shields.io/github/stars/limmmw/CVE-2025-54352">
 
 ---
+## CVE-2025-54321 ()
+> 
+- [saykino/CVE-2025-54321](https://github.com/saykino/CVE-2025-54321)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2025-54321">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2025-54321">
+
+---
+## CVE-2025-54320 ()
+> 
+- [saykino/CVE-2025-54320](https://github.com/saykino/CVE-2025-54320)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2025-54320">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2025-54320">
+
+---
 ## CVE-2025-54313 ()
 > 
 - [nihilor/cve-2025-54313](https://github.com/nihilor/cve-2025-54313)	<img alt="forks" src="https://img.shields.io/github/forks/nihilor/cve-2025-54313">	<img alt="stars" src="https://img.shields.io/github/stars/nihilor/cve-2025-54313">
@@ -3638,6 +3648,11 @@
 ## CVE-2025-4009 ()
 > 
 - [realcodeb0ss/CVE-2025-4009](https://github.com/realcodeb0ss/CVE-2025-4009)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-4009">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-4009">
+
+---
+## CVE-2025-40019 ()
+> 
+- [guard-wait/CVE-2025-40019_POC](https://github.com/guard-wait/CVE-2025-40019_POC)	<img alt="forks" src="https://img.shields.io/github/forks/guard-wait/CVE-2025-40019_POC">	<img alt="stars" src="https://img.shields.io/github/stars/guard-wait/CVE-2025-40019_POC">
 
 ---
 ## CVE-2025-39965 ()
