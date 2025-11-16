@@ -7047,6 +7047,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-28741-northstar-agent-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-28741-northstar-agent-rce-poc">
 
 ---
+## CVE-2024-2873 ()
+> 
+- [stuxbench/dropbear-cve-2024-2873](https://github.com/stuxbench/dropbear-cve-2024-2873)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/dropbear-cve-2024-2873">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/dropbear-cve-2024-2873">
+
+---
 ## CVE-2024-28715 (2024-03-19T21:15:00)
 > Cross Site Scripting vulnerability in DOraCMS v.2.18 and before allows a remote attacker to execute arbitrary code via the markdown0 function in the /app/public/apidoc/oas3/wrap-components/markdown.jsx endpoint.
 - [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715)	<img alt="forks" src="https://img.shields.io/github/forks/Lq0ne/CVE-2024-28715">	<img alt="stars" src="https://img.shields.io/github/stars/Lq0ne/CVE-2024-28715">
