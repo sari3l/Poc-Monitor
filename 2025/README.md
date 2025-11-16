@@ -671,6 +671,11 @@
 - [cristibtz/CVE-2025-62369](https://github.com/cristibtz/CVE-2025-62369)	<img alt="forks" src="https://img.shields.io/github/forks/cristibtz/CVE-2025-62369">	<img alt="stars" src="https://img.shields.io/github/stars/cristibtz/CVE-2025-62369">
 
 ---
+## CVE-2025-62220 ()
+> 
+- [callinston/CVE-2025-62220](https://github.com/callinston/CVE-2025-62220)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-62220">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-62220">
+
+---
 ## CVE-2025-62215 ()
 > 
 - [fordeant/CVE-2025-62215](https://github.com/fordeant/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/fordeant/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/fordeant/CVE-2025-62215">
