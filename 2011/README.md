@@ -83,6 +83,8 @@
 - [As9xm/BrokenDoor-CVE-2011-2523-](https://github.com/As9xm/BrokenDoor-CVE-2011-2523-)	<img alt="forks" src="https://img.shields.io/github/forks/As9xm/BrokenDoor-CVE-2011-2523-">	<img alt="stars" src="https://img.shields.io/github/stars/As9xm/BrokenDoor-CVE-2011-2523-">
 - [BolivarJ/CVE-2011-2523](https://github.com/BolivarJ/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/BolivarJ/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/BolivarJ/CVE-2011-2523">
 - [avivyap/CVE-2011-2523](https://github.com/avivyap/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/avivyap/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/avivyap/CVE-2011-2523">
+- [hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit](https://github.com/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit">
+- [seerat-fatima21/vsftpd-exploit](https://github.com/seerat-fatima21/vsftpd-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/seerat-fatima21/vsftpd-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/seerat-fatima21/vsftpd-exploit">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
