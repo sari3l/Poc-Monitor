@@ -82,6 +82,7 @@
 - [krill-x7/CVE-2011-2523](https://github.com/krill-x7/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/krill-x7/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/krill-x7/CVE-2011-2523">
 - [As9xm/BrokenDoor-CVE-2011-2523-](https://github.com/As9xm/BrokenDoor-CVE-2011-2523-)	<img alt="forks" src="https://img.shields.io/github/forks/As9xm/BrokenDoor-CVE-2011-2523-">	<img alt="stars" src="https://img.shields.io/github/stars/As9xm/BrokenDoor-CVE-2011-2523-">
 - [BolivarJ/CVE-2011-2523](https://github.com/BolivarJ/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/BolivarJ/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/BolivarJ/CVE-2011-2523">
+- [avivyap/CVE-2011-2523](https://github.com/avivyap/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/avivyap/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/avivyap/CVE-2011-2523">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
