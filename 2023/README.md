@@ -6648,6 +6648,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [cainiao159357/CVE-2023-2598](https://github.com/cainiao159357/CVE-2023-2598)	<img alt="forks" src="https://img.shields.io/github/forks/cainiao159357/CVE-2023-2598">	<img alt="stars" src="https://img.shields.io/github/stars/cainiao159357/CVE-2023-2598">
 - [LLfam/CVE-2023-2598](https://github.com/LLfam/CVE-2023-2598)	<img alt="forks" src="https://img.shields.io/github/forks/LLfam/CVE-2023-2598">	<img alt="stars" src="https://img.shields.io/github/stars/LLfam/CVE-2023-2598">
 - [SpongeBob-369/CVE-2023-2598](https://github.com/SpongeBob-369/CVE-2023-2598)	<img alt="forks" src="https://img.shields.io/github/forks/SpongeBob-369/CVE-2023-2598">	<img alt="stars" src="https://img.shields.io/github/stars/SpongeBob-369/CVE-2023-2598">
+- [guard-wait/CVE-2023-2598_EXP](https://github.com/guard-wait/CVE-2023-2598_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/guard-wait/CVE-2023-2598_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/guard-wait/CVE-2023-2598_EXP">
 
 ---
 ## CVE-2023-2594 (2023-05-09T13:15:00)
