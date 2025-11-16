@@ -479,6 +479,11 @@
 - [B1ack4sh/Blackash-CVE-2025-64495](https://github.com/B1ack4sh/Blackash-CVE-2025-64495)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64495">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64495">
 
 ---
+## CVE-2025-64484 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-64484](https://github.com/B1ack4sh/Blackash-CVE-2025-64484)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64484">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64484">
+
+---
 ## CVE-2025-64459 ()
 > 
 - [rockmelodies/django_sqli_target_CVE-2025-64459](https://github.com/rockmelodies/django_sqli_target_CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/django_sqli_target_CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/django_sqli_target_CVE-2025-64459">
