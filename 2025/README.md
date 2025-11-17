@@ -502,6 +502,7 @@
 - [sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC](https://github.com/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">
 - [B1ack4sh/Blackash-CVE-2025-64446](https://github.com/B1ack4sh/Blackash-CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64446">
 - [soltanali0/CVE-2025-64446-Exploit](https://github.com/soltanali0/CVE-2025-64446-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-64446-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-64446-Exploit">
+- [sensepost/CVE-2025-64446](https://github.com/sensepost/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/sensepost/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/sensepost/CVE-2025-64446">
 
 ---
 ## CVE-2025-64403 ()
@@ -526,6 +527,11 @@
 - [callinston/CVE-2025-64095](https://github.com/callinston/CVE-2025-64095)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-64095">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-64095">
 - [NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC](https://github.com/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC">
 - [h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload](https://github.com/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload">
+
+---
+## CVE-2025-64027 ()
+> 
+- [cybercrewinc/CVE-2025-64027](https://github.com/cybercrewinc/CVE-2025-64027)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-64027">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-64027">
 
 ---
 ## CVE-2025-63943 ()
@@ -1772,6 +1778,7 @@
 ## CVE-2025-54574 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-54574](https://github.com/B1ack4sh/Blackash-CVE-2025-54574)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-54574">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-54574">
+- [starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow](https://github.com/starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow)	<img alt="forks" src="https://img.shields.io/github/forks/starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow">	<img alt="stars" src="https://img.shields.io/github/stars/starrynightsecurity/CVE-2025-54574-Squid-Heap-Buffer-Overflow">
 
 ---
 ## CVE-2025-54554 ()

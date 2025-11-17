@@ -5019,6 +5019,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [d0rb/CVE-2023-33242](https://github.com/d0rb/CVE-2023-33242)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-33242">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-33242">
 
 ---
+## CVE-2023-33177 ()
+> 
+- [complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177](https://github.com/complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177)	<img alt="forks" src="https://img.shields.io/github/forks/complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177">	<img alt="stars" src="https://img.shields.io/github/stars/complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177">
+
+---
 ## CVE-2023-33160 (2023-07-11T18:15:00)
 > Microsoft SharePoint Server Remote Code Execution Vulnerability
 - [hipnesspatten/CVE-2023-33160](https://github.com/hipnesspatten/CVE-2023-33160)	<img alt="forks" src="https://img.shields.io/github/forks/hipnesspatten/CVE-2023-33160">	<img alt="stars" src="https://img.shields.io/github/stars/hipnesspatten/CVE-2023-33160">
