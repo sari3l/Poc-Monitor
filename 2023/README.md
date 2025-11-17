@@ -6246,6 +6246,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-2745 ()
 > 
 - [fofovicfof-ai/cve-2023-2745](https://github.com/fofovicfof-ai/cve-2023-2745)	<img alt="forks" src="https://img.shields.io/github/forks/fofovicfof-ai/cve-2023-2745">	<img alt="stars" src="https://img.shields.io/github/stars/fofovicfof-ai/cve-2023-2745">
+- [spyizxa0day/WordPress-CVE-2023-2745](https://github.com/spyizxa0day/WordPress-CVE-2023-2745)	<img alt="forks" src="https://img.shields.io/github/forks/spyizxa0day/WordPress-CVE-2023-2745">	<img alt="stars" src="https://img.shields.io/github/stars/spyizxa0day/WordPress-CVE-2023-2745">
 
 ---
 ## CVE-2023-2744 (2023-06-27T14:15:00)
