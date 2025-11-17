@@ -7574,6 +7574,7 @@ are not yet active.
 ## CVE-2024-26169 (2024-03-12T17:15:00)
 > Windows Error Reporting Service Elevation of Privilege Vulnerability
 - [ldpreload/CVE-2024-26169](https://github.com/ldpreload/CVE-2024-26169)	<img alt="forks" src="https://img.shields.io/github/forks/ldpreload/CVE-2024-26169">	<img alt="stars" src="https://img.shields.io/github/stars/ldpreload/CVE-2024-26169">
+- [kautilyagupt/CVE-2024-26169-Detail-1](https://github.com/kautilyagupt/CVE-2024-26169-Detail-1)	<img alt="forks" src="https://img.shields.io/github/forks/kautilyagupt/CVE-2024-26169-Detail-1">	<img alt="stars" src="https://img.shields.io/github/stars/kautilyagupt/CVE-2024-26169-Detail-1">
 
 ---
 ## CVE-2024-26160 (2024-03-12T17:15:00)
