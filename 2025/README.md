@@ -3793,6 +3793,11 @@
 - [6lj/CVE-2025-3639](https://github.com/6lj/CVE-2025-3639)	<img alt="forks" src="https://img.shields.io/github/forks/6lj/CVE-2025-3639">	<img alt="stars" src="https://img.shields.io/github/stars/6lj/CVE-2025-3639">
 
 ---
+## CVE-2025-36250 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-36250](https://github.com/B1ack4sh/Blackash-CVE-2025-36250)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-36250">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-36250">
+
+---
 ## CVE-2025-3616 ()
 > 
 - [em07robot/CVE-2025-3616](https://github.com/em07robot/CVE-2025-3616)	<img alt="forks" src="https://img.shields.io/github/forks/em07robot/CVE-2025-3616">	<img alt="stars" src="https://img.shields.io/github/stars/em07robot/CVE-2025-3616">
