@@ -557,6 +557,11 @@
 - [Shubham03007/CVE-2025-63830](https://github.com/Shubham03007/CVE-2025-63830)	<img alt="forks" src="https://img.shields.io/github/forks/Shubham03007/CVE-2025-63830">	<img alt="stars" src="https://img.shields.io/github/stars/Shubham03007/CVE-2025-63830">
 
 ---
+## CVE-2025-63700 ()
+> 
+- [itsnishat08/CVE-2025-63700](https://github.com/itsnishat08/CVE-2025-63700)	<img alt="forks" src="https://img.shields.io/github/forks/itsnishat08/CVE-2025-63700">	<img alt="stars" src="https://img.shields.io/github/stars/itsnishat08/CVE-2025-63700">
+
+---
 ## CVE-2025-63667 ()
 > 
 - [Remenis/CVE-2025-63667](https://github.com/Remenis/CVE-2025-63667)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-63667">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-63667">
