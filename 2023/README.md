@@ -8062,6 +8062,11 @@ resulting in guests not receiving expected debug information.
 - [Freax13/cve-2023-20573-poc](https://github.com/Freax13/cve-2023-20573-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2023-20573-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2023-20573-poc">
 
 ---
+## CVE-2023-20564 ()
+> 
+- [NtGabrielGomes/CVE-2023-20564](https://github.com/NtGabrielGomes/CVE-2023-20564)	<img alt="forks" src="https://img.shields.io/github/forks/NtGabrielGomes/CVE-2023-20564">	<img alt="stars" src="https://img.shields.io/github/stars/NtGabrielGomes/CVE-2023-20564">
+
+---
 ## CVE-2023-20562 (2023-08-08T18:15:00)
 > 
 
