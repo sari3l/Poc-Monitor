@@ -1031,6 +1031,7 @@
 - [CJSKWT/Slient-URL-Exploit](https://github.com/CJSKWT/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CJSKWT/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CJSKWT/Slient-URL-Exploit">
 - [CJSKWT/HTA-Exploit](https://github.com/CJSKWT/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CJSKWT/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CJSKWT/HTA-Exploit">
 - [Mintimate/log4j2-bugmaker](https://github.com/Mintimate/log4j2-bugmaker)	<img alt="forks" src="https://img.shields.io/github/forks/Mintimate/log4j2-bugmaker">	<img alt="stars" src="https://img.shields.io/github/stars/Mintimate/log4j2-bugmaker">
+- [PCMKUIT/CVE-2021-44228---Log4Shell-Analysis](https://github.com/PCMKUIT/CVE-2021-44228---Log4Shell-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/PCMKUIT/CVE-2021-44228---Log4Shell-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/PCMKUIT/CVE-2021-44228---Log4Shell-Analysis">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
