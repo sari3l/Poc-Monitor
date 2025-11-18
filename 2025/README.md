@@ -701,6 +701,7 @@
 - [fordeant/CVE-2025-62215](https://github.com/fordeant/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/fordeant/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/fordeant/CVE-2025-62215">
 - [dexterm300/CVE-2025-62215-exploit-poc](https://github.com/dexterm300/CVE-2025-62215-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/CVE-2025-62215-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/CVE-2025-62215-exploit-poc">
 - [mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation](https://github.com/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation">
+- [abrewer251/CVE-2025-62215_Windows_Kernel_PE](https://github.com/abrewer251/CVE-2025-62215_Windows_Kernel_PE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-62215_Windows_Kernel_PE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-62215_Windows_Kernel_PE">
 
 ---
 ## CVE-2025-6220 ()
