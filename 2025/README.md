@@ -488,6 +488,7 @@
 > 
 - [rockmelodies/django_sqli_target_CVE-2025-64459](https://github.com/rockmelodies/django_sqli_target_CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/django_sqli_target_CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/django_sqli_target_CVE-2025-64459">
 - [nunpa/CVE-2025-64459](https://github.com/nunpa/CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/nunpa/CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/nunpa/CVE-2025-64459">
+- [B1ack4sh/Blackash-CVE-2025-64459](https://github.com/B1ack4sh/Blackash-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64459">
 
 ---
 ## CVE-2025-64458 ()
