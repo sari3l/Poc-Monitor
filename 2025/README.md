@@ -541,6 +541,11 @@
 - [RedOpsX/CVE-2025-63943](https://github.com/RedOpsX/CVE-2025-63943)	<img alt="forks" src="https://img.shields.io/github/forks/RedOpsX/CVE-2025-63943">	<img alt="stars" src="https://img.shields.io/github/stars/RedOpsX/CVE-2025-63943">
 
 ---
+## CVE-2025-63848 ()
+> 
+- [coderMohammed1/CVE-2025-63848](https://github.com/coderMohammed1/CVE-2025-63848)	<img alt="forks" src="https://img.shields.io/github/forks/coderMohammed1/CVE-2025-63848">	<img alt="stars" src="https://img.shields.io/github/stars/coderMohammed1/CVE-2025-63848">
+
+---
 ## CVE-2025-6384 ()
 > 
 - [mbadanoiu/CVE-2025-6384](https://github.com/mbadanoiu/CVE-2025-6384)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-6384">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-6384">
