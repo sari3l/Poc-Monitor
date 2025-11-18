@@ -6613,6 +6613,7 @@
 > 
 - [modhopmarrow1973/CVE-2025-11833-LAB](https://github.com/modhopmarrow1973/CVE-2025-11833-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/modhopmarrow1973/CVE-2025-11833-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/modhopmarrow1973/CVE-2025-11833-LAB">
 - [nullstatics/CVE-2025-11833](https://github.com/nullstatics/CVE-2025-11833)	<img alt="forks" src="https://img.shields.io/github/forks/nullstatics/CVE-2025-11833">	<img alt="stars" src="https://img.shields.io/github/stars/nullstatics/CVE-2025-11833">
+- [Kazgangap/CVE-2025-11833](https://github.com/Kazgangap/CVE-2025-11833)	<img alt="forks" src="https://img.shields.io/github/forks/Kazgangap/CVE-2025-11833">	<img alt="stars" src="https://img.shields.io/github/stars/Kazgangap/CVE-2025-11833">
 
 ---
 ## CVE-2025-11832 ()
