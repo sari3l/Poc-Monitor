@@ -1218,6 +1218,11 @@
 - [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-5815-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-5815-Nuclei-Template">
 
 ---
+## CVE-2025-58034 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-58034](https://github.com/B1ack4sh/Blackash-CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-58034">
+
+---
 ## CVE-2025-57926 ()
 > 
 - [quetuan03/CVE-2025-57926](https://github.com/quetuan03/CVE-2025-57926)	<img alt="forks" src="https://img.shields.io/github/forks/quetuan03/CVE-2025-57926">	<img alt="stars" src="https://img.shields.io/github/stars/quetuan03/CVE-2025-57926">
@@ -6783,6 +6788,7 @@
 ## CVE-2025-10230 ()
 > 
 - [dptsec/CVE-2025-10230](https://github.com/dptsec/CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/dptsec/CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/dptsec/CVE-2025-10230">
+- [B1ack4sh/Blackash-CVE-2025-10230](https://github.com/B1ack4sh/Blackash-CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-10230">
 
 ---
 ## CVE-2025-10184 ()
