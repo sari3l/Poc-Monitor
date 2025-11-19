@@ -507,6 +507,7 @@
 - [D3crypT0r/CVE-2025-64446](https://github.com/D3crypT0r/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/D3crypT0r/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/D3crypT0r/CVE-2025-64446">
 - [verylazytech/CVE-2025-64446](https://github.com/verylazytech/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-64446">
 - [lincemorado97/CVE-2025-64446](https://github.com/lincemorado97/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-64446">
+- [Death112233/CVE-2025-64446-](https://github.com/Death112233/CVE-2025-64446-)	<img alt="forks" src="https://img.shields.io/github/forks/Death112233/CVE-2025-64446-">	<img alt="stars" src="https://img.shields.io/github/stars/Death112233/CVE-2025-64446-">
 
 ---
 ## CVE-2025-64403 ()
