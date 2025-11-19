@@ -2105,6 +2105,7 @@
 - [psibot/apache-vulnerable](https://github.com/psibot/apache-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/psibot/apache-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/psibot/apache-vulnerable">
 - [Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013](https://github.com/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">
 - [FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit](https://github.com/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit">
+- [drackyjr/CVE-2021-42013](https://github.com/drackyjr/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
