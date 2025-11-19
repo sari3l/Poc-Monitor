@@ -5590,6 +5590,11 @@
 - [JMS-Security/CVE-2025-25256-PoC](https://github.com/JMS-Security/CVE-2025-25256-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JMS-Security/CVE-2025-25256-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JMS-Security/CVE-2025-25256-PoC">
 
 ---
+## CVE-2025-25255 ()
+> 
+- [chjkfbvmvff/CVE-2025-25255](https://github.com/chjkfbvmvff/CVE-2025-25255)	<img alt="forks" src="https://img.shields.io/github/forks/chjkfbvmvff/CVE-2025-25255">	<img alt="stars" src="https://img.shields.io/github/stars/chjkfbvmvff/CVE-2025-25255">
+
+---
 ## CVE-2025-25254 ()
 > 
 - [JackMicalli/CVE-2025-25254](https://github.com/JackMicalli/CVE-2025-25254)	<img alt="forks" src="https://img.shields.io/github/forks/JackMicalli/CVE-2025-25254">	<img alt="stars" src="https://img.shields.io/github/stars/JackMicalli/CVE-2025-25254">
