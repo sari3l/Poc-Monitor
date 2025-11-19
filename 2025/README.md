@@ -3877,6 +3877,7 @@
 - [crondenice/CVE-2025-34299](https://github.com/crondenice/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/crondenice/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/crondenice/CVE-2025-34299">
 - [rxerium/CVE-2025-34299](https://github.com/rxerium/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-34299">
 - [B1ack4sh/Blackash-CVE-2025-34299](https://github.com/B1ack4sh/Blackash-CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-34299">
+- [Chocapikk/CVE-2025-34299](https://github.com/Chocapikk/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-34299">
 
 ---
 ## CVE-2025-34227 ()
