@@ -810,6 +810,11 @@
 - [locus-x64/CVE-2025-61765_PoC](https://github.com/locus-x64/CVE-2025-61765_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/locus-x64/CVE-2025-61765_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/locus-x64/CVE-2025-61765_PoC">
 
 ---
+## CVE-2025-61757 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-61757](https://github.com/B1ack4sh/Blackash-CVE-2025-61757)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61757">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61757">
+
+---
 ## CVE-2025-61498 ()
 > 
 - [sakshi-garg02/CVE-2025-61498](https://github.com/sakshi-garg02/CVE-2025-61498)	<img alt="forks" src="https://img.shields.io/github/forks/sakshi-garg02/CVE-2025-61498">	<img alt="stars" src="https://img.shields.io/github/stars/sakshi-garg02/CVE-2025-61498">
