@@ -4713,6 +4713,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 > 
 - [vmhalt/CVE-2024-3721](https://github.com/vmhalt/CVE-2024-3721)	<img alt="forks" src="https://img.shields.io/github/forks/vmhalt/CVE-2024-3721">	<img alt="stars" src="https://img.shields.io/github/stars/vmhalt/CVE-2024-3721">
 - [qalvynn/CVE-2024-3721---POC](https://github.com/qalvynn/CVE-2024-3721---POC)	<img alt="forks" src="https://img.shields.io/github/forks/qalvynn/CVE-2024-3721---POC">	<img alt="stars" src="https://img.shields.io/github/stars/qalvynn/CVE-2024-3721---POC">
+- [qalvynn/Mirai-Based-CVE-2024-3721-Selfrep](https://github.com/qalvynn/Mirai-Based-CVE-2024-3721-Selfrep)	<img alt="forks" src="https://img.shields.io/github/forks/qalvynn/Mirai-Based-CVE-2024-3721-Selfrep">	<img alt="stars" src="https://img.shields.io/github/stars/qalvynn/Mirai-Based-CVE-2024-3721-Selfrep">
 
 ---
 ## CVE-2024-37147 (2024-07-10T19:15:00)
