@@ -545,6 +545,11 @@
 - [RedOpsX/CVE-2025-63943](https://github.com/RedOpsX/CVE-2025-63943)	<img alt="forks" src="https://img.shields.io/github/forks/RedOpsX/CVE-2025-63943">	<img alt="stars" src="https://img.shields.io/github/stars/RedOpsX/CVE-2025-63943">
 
 ---
+## CVE-2025-63914 ()
+> 
+- [WxDou/CVE-2025-63914](https://github.com/WxDou/CVE-2025-63914)	<img alt="forks" src="https://img.shields.io/github/forks/WxDou/CVE-2025-63914">	<img alt="stars" src="https://img.shields.io/github/stars/WxDou/CVE-2025-63914">
+
+---
 ## CVE-2025-63848 ()
 > 
 - [coderMohammed1/CVE-2025-63848](https://github.com/coderMohammed1/CVE-2025-63848)	<img alt="forks" src="https://img.shields.io/github/forks/coderMohammed1/CVE-2025-63848">	<img alt="stars" src="https://img.shields.io/github/stars/coderMohammed1/CVE-2025-63848">
@@ -4135,6 +4140,7 @@
 - [Kiraly07/Demo_CVE-2025-3248](https://github.com/Kiraly07/Demo_CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Kiraly07/Demo_CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Kiraly07/Demo_CVE-2025-3248">
 - [Kiraly07/Demo_CVE-2025-3248](https://github.com/Kiraly07/Demo_CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Kiraly07/Demo_CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Kiraly07/Demo_CVE-2025-3248">
 - [bambooqj/cve-2025-3248](https://github.com/bambooqj/cve-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/bambooqj/cve-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/bambooqj/cve-2025-3248">
+- [drackyjr/-CVE-2025-3248](https://github.com/drackyjr/-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/-CVE-2025-3248">
 
 ---
 ## CVE-2025-32463 ()
