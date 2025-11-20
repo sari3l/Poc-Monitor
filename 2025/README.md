@@ -1090,6 +1090,11 @@
 - [Mpokes/CVE-2025-59503-Poc](https://github.com/Mpokes/CVE-2025-59503-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Mpokes/CVE-2025-59503-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Mpokes/CVE-2025-59503-Poc">
 
 ---
+## CVE-2025-59501 ()
+> 
+- [garrettfoster13/CVE-2025-59501](https://github.com/garrettfoster13/CVE-2025-59501)	<img alt="forks" src="https://img.shields.io/github/forks/garrettfoster13/CVE-2025-59501">	<img alt="stars" src="https://img.shields.io/github/stars/garrettfoster13/CVE-2025-59501">
+
+---
 ## CVE-2025-59489 ()
 > 
 - [GithubKillsMyOpsec/CVE-2025-59489-POC](https://github.com/GithubKillsMyOpsec/CVE-2025-59489-POC)	<img alt="forks" src="https://img.shields.io/github/forks/GithubKillsMyOpsec/CVE-2025-59489-POC">	<img alt="stars" src="https://img.shields.io/github/stars/GithubKillsMyOpsec/CVE-2025-59489-POC">
