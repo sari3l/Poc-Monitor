@@ -266,6 +266,11 @@
 - [Nxploited/CVE-2025-7955](https://github.com/Nxploited/CVE-2025-7955)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-7955">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-7955">
 
 ---
+## CVE-2025-7892 ()
+> 
+- [FlyingLemonade/CVE-2025-7892-Proof-of-Concept-Login-Form](https://github.com/FlyingLemonade/CVE-2025-7892-Proof-of-Concept-Login-Form)	<img alt="forks" src="https://img.shields.io/github/forks/FlyingLemonade/CVE-2025-7892-Proof-of-Concept-Login-Form">	<img alt="stars" src="https://img.shields.io/github/stars/FlyingLemonade/CVE-2025-7892-Proof-of-Concept-Login-Form">
+
+---
 ## CVE-2025-7850 ()
 > 
 - [ByteHawkSec/CVE-2025-7850-POC](https://github.com/ByteHawkSec/CVE-2025-7850-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHawkSec/CVE-2025-7850-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHawkSec/CVE-2025-7850-POC">
@@ -6065,6 +6070,11 @@
 - [r0binak/CVE-2025-23266](https://github.com/r0binak/CVE-2025-23266)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2025-23266">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2025-23266">
 - [Mindasy/cve-2025-23266-migration-bypass](https://github.com/Mindasy/cve-2025-23266-migration-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Mindasy/cve-2025-23266-migration-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Mindasy/cve-2025-23266-migration-bypass">
 - [mrk336/CVE-2025-23266](https://github.com/mrk336/CVE-2025-23266)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-23266">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-23266">
+
+---
+## CVE-2025-23247 ()
+> 
+- [SpiralBL0CK/CVE-2025-23247](https://github.com/SpiralBL0CK/CVE-2025-23247)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2025-23247">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2025-23247">
 
 ---
 ## CVE-2025-23245655 ()
