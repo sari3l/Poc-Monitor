@@ -9162,6 +9162,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [MQKGitHub/Moniker-Link-CVE-2024-21413](https://github.com/MQKGitHub/Moniker-Link-CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/MQKGitHub/Moniker-Link-CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/MQKGitHub/Moniker-Link-CVE-2024-21413">
 - [yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-](https://github.com/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-)	<img alt="forks" src="https://img.shields.io/github/forks/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-">	<img alt="stars" src="https://img.shields.io/github/stars/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-">
 - [gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC](https://github.com/gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC">
+- [hau2212/Moniker-Link-CVE-2024-21413-](https://github.com/hau2212/Moniker-Link-CVE-2024-21413-)	<img alt="forks" src="https://img.shields.io/github/forks/hau2212/Moniker-Link-CVE-2024-21413-">	<img alt="stars" src="https://img.shields.io/github/stars/hau2212/Moniker-Link-CVE-2024-21413-">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
