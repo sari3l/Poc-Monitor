@@ -513,6 +513,7 @@
 - [verylazytech/CVE-2025-64446](https://github.com/verylazytech/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-64446">
 - [lincemorado97/CVE-2025-64446_CVE-2025-58034](https://github.com/lincemorado97/CVE-2025-64446_CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-64446_CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-64446_CVE-2025-58034">
 - [Death112233/CVE-2025-64446-](https://github.com/Death112233/CVE-2025-64446-)	<img alt="forks" src="https://img.shields.io/github/forks/Death112233/CVE-2025-64446-">	<img alt="stars" src="https://img.shields.io/github/stars/Death112233/CVE-2025-64446-">
+- [AN5I/cve-2025-64446-fortiweb-exploit](https://github.com/AN5I/cve-2025-64446-fortiweb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-64446-fortiweb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-64446-fortiweb-exploit">
 
 ---
 ## CVE-2025-64403 ()
@@ -553,6 +554,11 @@
 ## CVE-2025-63914 ()
 > 
 - [WxDou/CVE-2025-63914](https://github.com/WxDou/CVE-2025-63914)	<img alt="forks" src="https://img.shields.io/github/forks/WxDou/CVE-2025-63914">	<img alt="stars" src="https://img.shields.io/github/stars/WxDou/CVE-2025-63914">
+
+---
+## CVE-2025-63888 ()
+> 
+- [AN5I/cve-2025-63888-exploit](https://github.com/AN5I/cve-2025-63888-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-63888-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-63888-exploit">
 
 ---
 ## CVE-2025-63848 ()
@@ -6601,6 +6607,12 @@
 ## CVE-2025-12762 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-12762](https://github.com/B1ack4sh/Blackash-CVE-2025-12762)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-12762">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-12762">
+
+---
+## CVE-2025-12735 ()
+> 
+- [AN5I/cve-2025-12735-expr-eval-rce](https://github.com/AN5I/cve-2025-12735-expr-eval-rce)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-12735-expr-eval-rce">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-12735-expr-eval-rce">
+- [alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce](https://github.com/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce)	<img alt="forks" src="https://img.shields.io/github/forks/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce">	<img alt="stars" src="https://img.shields.io/github/stars/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce">
 
 ---
 ## CVE-2025-12654 ()
