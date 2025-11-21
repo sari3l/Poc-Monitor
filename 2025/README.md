@@ -3027,6 +3027,11 @@
 - [byteReaper77/CVE-2025-47917](https://github.com/byteReaper77/CVE-2025-47917)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-47917">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-47917">
 
 ---
+## CVE-2025-47916 ()
+> 
+- [Web3-Serializer/CVE-2025-47916](https://github.com/Web3-Serializer/CVE-2025-47916)	<img alt="forks" src="https://img.shields.io/github/forks/Web3-Serializer/CVE-2025-47916">	<img alt="stars" src="https://img.shields.io/github/stars/Web3-Serializer/CVE-2025-47916">
+
+---
 ## CVE-2025-4784 ()
 > 
 - [sahici/CVE-2025-4784](https://github.com/sahici/CVE-2025-4784)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4784">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4784">
