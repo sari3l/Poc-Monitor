@@ -6599,6 +6599,11 @@
 - [0xcucumbersalad/CVE-2025-12917-PoC](https://github.com/0xcucumbersalad/CVE-2025-12917-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-12917-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-12917-PoC">
 
 ---
+## CVE-2025-12916 ()
+> 
+- [Jinxia62/Sangfor-CVE-2025-12916](https://github.com/Jinxia62/Sangfor-CVE-2025-12916)	<img alt="forks" src="https://img.shields.io/github/forks/Jinxia62/Sangfor-CVE-2025-12916">	<img alt="stars" src="https://img.shields.io/github/stars/Jinxia62/Sangfor-CVE-2025-12916">
+
+---
 ## CVE-2025-12907 ()
 > 
 - [lagerhaker539/CVE-2025-12907-POC](https://github.com/lagerhaker539/CVE-2025-12907-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lagerhaker539/CVE-2025-12907-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lagerhaker539/CVE-2025-12907-POC">
