@@ -63,6 +63,7 @@
 > 
 - [pulsecipher/CVE-2025-9242](https://github.com/pulsecipher/CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/pulsecipher/CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/pulsecipher/CVE-2025-9242">
 - [watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242](https://github.com/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">
+- [B1ack4sh/Blackash-CVE-2025-9242](https://github.com/B1ack4sh/Blackash-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-9242">
 
 ---
 ## CVE-2025-9223 ()
