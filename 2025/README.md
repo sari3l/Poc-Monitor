@@ -2626,6 +2626,11 @@
 - [Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">
 
 ---
+## CVE-2025-49752 ()
+> 
+- [skipdurex661/cve-2025-49752-Exploit](https://github.com/skipdurex661/cve-2025-49752-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/skipdurex661/cve-2025-49752-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/skipdurex661/cve-2025-49752-Exploit">
+
+---
 ## CVE-2025-49721 ()
 > 
 - [Lam0x0/CVE-2025-49721_part1](https://github.com/Lam0x0/CVE-2025-49721_part1)	<img alt="forks" src="https://img.shields.io/github/forks/Lam0x0/CVE-2025-49721_part1">	<img alt="stars" src="https://img.shields.io/github/stars/Lam0x0/CVE-2025-49721_part1">
