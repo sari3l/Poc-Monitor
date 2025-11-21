@@ -3716,6 +3716,11 @@
 - [itssixtyn3in/CVE-2025-412025](https://github.com/itssixtyn3in/CVE-2025-412025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-412025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-412025">
 
 ---
+## CVE-2025-41115 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-41115](https://github.com/B1ack4sh/Blackash-CVE-2025-41115)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-41115">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-41115">
+
+---
 ## CVE-2025-41089 ()
 > 
 - [Marinafabregat/CVE-2025-41089](https://github.com/Marinafabregat/CVE-2025-41089)	<img alt="forks" src="https://img.shields.io/github/forks/Marinafabregat/CVE-2025-41089">	<img alt="stars" src="https://img.shields.io/github/stars/Marinafabregat/CVE-2025-41089">
