@@ -7507,6 +7507,7 @@ For more details, please review the linked advisory on this CVE.
 - [vivigotnotime/CVE-2023-22515-Exploit-Script](https://github.com/vivigotnotime/CVE-2023-22515-Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/vivigotnotime/CVE-2023-22515-Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/vivigotnotime/CVE-2023-22515-Exploit-Script">
 - [killvxk/CVE-2023-22515-joaoviictorti](https://github.com/killvxk/CVE-2023-22515-joaoviictorti)	<img alt="forks" src="https://img.shields.io/github/forks/killvxk/CVE-2023-22515-joaoviictorti">	<img alt="stars" src="https://img.shields.io/github/stars/killvxk/CVE-2023-22515-joaoviictorti">
 - [Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197](https://github.com/Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197)	<img alt="forks" src="https://img.shields.io/github/forks/Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197">	<img alt="stars" src="https://img.shields.io/github/stars/Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197">
+- [CyberSentinel321/cve-2023-22515-lab](https://github.com/CyberSentinel321/cve-2023-22515-lab)	<img alt="forks" src="https://img.shields.io/github/forks/CyberSentinel321/cve-2023-22515-lab">	<img alt="stars" src="https://img.shields.io/github/stars/CyberSentinel321/cve-2023-22515-lab">
 
 ---
 ## CVE-2023-22497 ()

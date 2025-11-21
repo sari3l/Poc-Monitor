@@ -3777,6 +3777,7 @@
 ## CVE-2025-40547 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-40547](https://github.com/B1ack4sh/Blackash-CVE-2025-40547)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-40547">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-40547">
+- [zigzagymym1986/CVE-2025-40547](https://github.com/zigzagymym1986/CVE-2025-40547)	<img alt="forks" src="https://img.shields.io/github/forks/zigzagymym1986/CVE-2025-40547">	<img alt="stars" src="https://img.shields.io/github/stars/zigzagymym1986/CVE-2025-40547">
 
 ---
 ## CVE-2025-4009 ()
