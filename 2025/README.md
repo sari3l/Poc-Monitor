@@ -6556,6 +6556,11 @@
 - [p33d/cve-2025-1323](https://github.com/p33d/cve-2025-1323)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/cve-2025-1323">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/cve-2025-1323">
 
 ---
+## CVE-2025-13223 ()
+> 
+- [ipsbruno3/CVE-2025-13223](https://github.com/ipsbruno3/CVE-2025-13223)	<img alt="forks" src="https://img.shields.io/github/forks/ipsbruno3/CVE-2025-13223">	<img alt="stars" src="https://img.shields.io/github/stars/ipsbruno3/CVE-2025-13223">
+
+---
 ## CVE-2025-13188 ()
 > 
 - [degeneration1973/CVE-2025-13188-Exploit](https://github.com/degeneration1973/CVE-2025-13188-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/degeneration1973/CVE-2025-13188-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/degeneration1973/CVE-2025-13188-Exploit">
