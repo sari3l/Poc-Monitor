@@ -6827,6 +6827,11 @@
 - [lorenzocamilli/CVE-2025-10720-PoC](https://github.com/lorenzocamilli/CVE-2025-10720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-10720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-10720-PoC">
 
 ---
+## CVE-2025-10680 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-10680](https://github.com/B1ack4sh/Blackash-CVE-2025-10680)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-10680">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-10680">
+
+---
 ## CVE-2025-10585 ()
 > 
 - [AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day](https://github.com/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day">
