@@ -996,6 +996,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [Huoper/CVE-2024-5899](https://github.com/Huoper/CVE-2024-5899)	<img alt="forks" src="https://img.shields.io/github/forks/Huoper/CVE-2024-5899">	<img alt="stars" src="https://img.shields.io/github/stars/Huoper/CVE-2024-5899">
 
 ---
+## CVE-2024-58258 ()
+> 
+- [Web3-Serializer/CVE-2024-58258](https://github.com/Web3-Serializer/CVE-2024-58258)	<img alt="forks" src="https://img.shields.io/github/forks/Web3-Serializer/CVE-2024-58258">	<img alt="stars" src="https://img.shields.io/github/stars/Web3-Serializer/CVE-2024-58258">
+
+---
 ## CVE-2024-58239 ()
 > 
 - [khoatran107/cve-2024-58239](https://github.com/khoatran107/cve-2024-58239)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2024-58239">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2024-58239">
