@@ -835,6 +835,7 @@
 ## CVE-2025-61757 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-61757](https://github.com/B1ack4sh/Blackash-CVE-2025-61757)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61757">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61757">
+- [Jinxia62/Oracle-Identity-Manager-CVE-2025-61757](https://github.com/Jinxia62/Oracle-Identity-Manager-CVE-2025-61757)	<img alt="forks" src="https://img.shields.io/github/forks/Jinxia62/Oracle-Identity-Manager-CVE-2025-61757">	<img alt="stars" src="https://img.shields.io/github/stars/Jinxia62/Oracle-Identity-Manager-CVE-2025-61757">
 
 ---
 ## CVE-2025-61498 ()
