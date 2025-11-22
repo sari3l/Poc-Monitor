@@ -6807,6 +6807,7 @@
 - [shalevo13/Se7enSlip](https://github.com/shalevo13/Se7enSlip)	<img alt="forks" src="https://img.shields.io/github/forks/shalevo13/Se7enSlip">	<img alt="stars" src="https://img.shields.io/github/stars/shalevo13/Se7enSlip">
 - [litolito54/CVE-2025-11001](https://github.com/litolito54/CVE-2025-11001)	<img alt="forks" src="https://img.shields.io/github/forks/litolito54/CVE-2025-11001">	<img alt="stars" src="https://img.shields.io/github/stars/litolito54/CVE-2025-11001">
 - [lastvocher/7zip-CVE-2025-11001](https://github.com/lastvocher/7zip-CVE-2025-11001)	<img alt="forks" src="https://img.shields.io/github/forks/lastvocher/7zip-CVE-2025-11001">	<img alt="stars" src="https://img.shields.io/github/stars/lastvocher/7zip-CVE-2025-11001">
+- [mbanyamer/CVE-2025-11001---7-Zip](https://github.com/mbanyamer/CVE-2025-11001---7-Zip)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2025-11001---7-Zip">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2025-11001---7-Zip">
 
 ---
 ## CVE-2025-1094 ()
