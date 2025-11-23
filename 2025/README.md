@@ -113,6 +113,11 @@
 - [byteReaper77/CVE-2025-8971](https://github.com/byteReaper77/CVE-2025-8971)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8971">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8971">
 
 ---
+## CVE-2025-8943 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-8943](https://github.com/B1ack4sh/Blackash-CVE-2025-8943)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-8943">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-8943">
+
+---
 ## CVE-2025-8889 ()
 > 
 - [siberkampus/CVE-2025-8889](https://github.com/siberkampus/CVE-2025-8889)	<img alt="forks" src="https://img.shields.io/github/forks/siberkampus/CVE-2025-8889">	<img alt="stars" src="https://img.shields.io/github/stars/siberkampus/CVE-2025-8889">
