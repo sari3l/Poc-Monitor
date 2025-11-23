@@ -1367,6 +1367,7 @@
 - [fox-it/citrix-netscaler-triage](https://github.com/fox-it/citrix-netscaler-triage)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/citrix-netscaler-triage">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/citrix-netscaler-triage">
 - [B1ack4sh/Blackash-CVE-2025-57773](https://github.com/B1ack4sh/Blackash-CVE-2025-57773)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-57773">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-57773">
 - [mr-r3b00t/CVE-2025-5777](https://github.com/mr-r3b00t/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2025-5777">
+- [rashedhasan090/CVE-2025-5777](https://github.com/rashedhasan090/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/rashedhasan090/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/rashedhasan090/CVE-2025-5777">
 
 ---
 ## CVE-2025-5755 ()
