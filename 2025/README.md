@@ -240,6 +240,7 @@
 - [shourout/CVE-2025-8088](https://github.com/shourout/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/shourout/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/shourout/CVE-2025-8088">
 - [kredscript/cve-2025-8088](https://github.com/kredscript/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kredscript/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kredscript/cve-2025-8088">
 - [WezRyan/CVE-2025-8088](https://github.com/WezRyan/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/WezRyan/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/WezRyan/CVE-2025-8088">
+- [h0melike/cve-2025-8088](https://github.com/h0melike/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/h0melike/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/h0melike/cve-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
