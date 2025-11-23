@@ -449,6 +449,11 @@
 - [jopraveen/CVE-2025-6554](https://github.com/jopraveen/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/jopraveen/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/jopraveen/CVE-2025-6554">
 
 ---
+## CVE-2025-65482 ()
+> 
+- [AT190510-Cuong/CVE-2025-65482-XXE-](https://github.com/AT190510-Cuong/CVE-2025-65482-XXE-)	<img alt="forks" src="https://img.shields.io/github/forks/AT190510-Cuong/CVE-2025-65482-XXE-">	<img alt="stars" src="https://img.shields.io/github/stars/AT190510-Cuong/CVE-2025-65482-XXE-">
+
+---
 ## CVE-2025-6543 ()
 > 
 - [grupooruss/Citrix-cve-2025-6543](https://github.com/grupooruss/Citrix-cve-2025-6543)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/Citrix-cve-2025-6543">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/Citrix-cve-2025-6543">
@@ -541,6 +546,11 @@
 - [NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC](https://github.com/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC">
 - [h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload](https://github.com/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload">
 - [0xr2r/CVE-2025-64095](https://github.com/0xr2r/CVE-2025-64095)	<img alt="forks" src="https://img.shields.io/github/forks/0xr2r/CVE-2025-64095">	<img alt="stars" src="https://img.shields.io/github/stars/0xr2r/CVE-2025-64095">
+
+---
+## CVE-2025-64087 ()
+> 
+- [AT190510-Cuong/CVE-2025-64087-SSTI-](https://github.com/AT190510-Cuong/CVE-2025-64087-SSTI-)	<img alt="forks" src="https://img.shields.io/github/forks/AT190510-Cuong/CVE-2025-64087-SSTI-">	<img alt="stars" src="https://img.shields.io/github/stars/AT190510-Cuong/CVE-2025-64087-SSTI-">
 
 ---
 ## CVE-2025-64027 ()
