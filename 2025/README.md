@@ -1342,6 +1342,7 @@
 > 
 - [B1ack4sh/Blackash-CVE-2025-58034](https://github.com/B1ack4sh/Blackash-CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-58034">
 - [fluxmoth/CVE-2025-58034](https://github.com/fluxmoth/CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/fluxmoth/CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/fluxmoth/CVE-2025-58034">
+- [lincemorado97/CVE-2025-64446_CVE-2025-58034](https://github.com/lincemorado97/CVE-2025-64446_CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-64446_CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-64446_CVE-2025-58034">
 
 ---
 ## CVE-2025-57926 ()
