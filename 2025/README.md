@@ -600,6 +600,11 @@
 - [Shubham03007/CVE-2025-63830](https://github.com/Shubham03007/CVE-2025-63830)	<img alt="forks" src="https://img.shields.io/github/forks/Shubham03007/CVE-2025-63830">	<img alt="stars" src="https://img.shields.io/github/stars/Shubham03007/CVE-2025-63830">
 
 ---
+## CVE-2025-63735 ()
+> 
+- [huthx/CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS](https://github.com/huthx/CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/huthx/CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/huthx/CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS">
+
+---
 ## CVE-2025-63729 ()
 > 
 - [Yashodhanvivek/CVE-2025-63729-Syrotech-SY-GPON-1110-](https://github.com/Yashodhanvivek/CVE-2025-63729-Syrotech-SY-GPON-1110-)	<img alt="forks" src="https://img.shields.io/github/forks/Yashodhanvivek/CVE-2025-63729-Syrotech-SY-GPON-1110-">	<img alt="stars" src="https://img.shields.io/github/stars/Yashodhanvivek/CVE-2025-63729-Syrotech-SY-GPON-1110-">
