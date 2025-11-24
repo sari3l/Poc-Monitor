@@ -266,6 +266,7 @@
 - [h0ffayyy/Jira-CVE-2019-8451](https://github.com/h0ffayyy/Jira-CVE-2019-8451)	<img alt="forks" src="https://img.shields.io/github/forks/h0ffayyy/Jira-CVE-2019-8451">	<img alt="stars" src="https://img.shields.io/github/stars/h0ffayyy/Jira-CVE-2019-8451">
 - [ianxtianxt/CVE-2019-8451](https://github.com/ianxtianxt/CVE-2019-8451)	<img alt="forks" src="https://img.shields.io/github/forks/ianxtianxt/CVE-2019-8451">	<img alt="stars" src="https://img.shields.io/github/stars/ianxtianxt/CVE-2019-8451">
 - [0xbug/CVE-2019-8451](https://github.com/0xbug/CVE-2019-8451)	<img alt="forks" src="https://img.shields.io/github/forks/0xbug/CVE-2019-8451">	<img alt="stars" src="https://img.shields.io/github/stars/0xbug/CVE-2019-8451">
+- [b0ul1/CVE-2019-8451](https://github.com/b0ul1/CVE-2019-8451)	<img alt="forks" src="https://img.shields.io/github/forks/b0ul1/CVE-2019-8451">	<img alt="stars" src="https://img.shields.io/github/stars/b0ul1/CVE-2019-8451">
 
 ---
 ## CVE-2019-8331 (2019-02-20T16:29:00)
