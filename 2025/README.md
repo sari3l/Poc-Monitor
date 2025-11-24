@@ -6845,6 +6845,7 @@
 - [lastvocher/7zip-CVE-2025-11001](https://github.com/lastvocher/7zip-CVE-2025-11001)	<img alt="forks" src="https://img.shields.io/github/forks/lastvocher/7zip-CVE-2025-11001">	<img alt="stars" src="https://img.shields.io/github/stars/lastvocher/7zip-CVE-2025-11001">
 - [mbanyamer/CVE-2025-11001---7-Zip](https://github.com/mbanyamer/CVE-2025-11001---7-Zip)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2025-11001---7-Zip">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2025-11001---7-Zip">
 - [ranasen-rat/CVE-2025-11001](https://github.com/ranasen-rat/CVE-2025-11001)	<img alt="forks" src="https://img.shields.io/github/forks/ranasen-rat/CVE-2025-11001">	<img alt="stars" src="https://img.shields.io/github/stars/ranasen-rat/CVE-2025-11001">
+- [B1ack4sh/Blackash-CVE-2025-11001](https://github.com/B1ack4sh/Blackash-CVE-2025-11001)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-11001">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-11001">
 
 ---
 ## CVE-2025-1094 ()
