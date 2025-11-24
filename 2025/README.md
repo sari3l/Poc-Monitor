@@ -2698,6 +2698,7 @@
 > 
 - [skipdurex661/cve-2025-49752-Exploit](https://github.com/skipdurex661/cve-2025-49752-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/skipdurex661/cve-2025-49752-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/skipdurex661/cve-2025-49752-Exploit">
 - [skipdurex661/CVE-2025-49752-Exploit](https://github.com/skipdurex661/CVE-2025-49752-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/skipdurex661/CVE-2025-49752-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/skipdurex661/CVE-2025-49752-Exploit">
+- [boogabearbombernub/cve-2025-49752-lab](https://github.com/boogabearbombernub/cve-2025-49752-lab)	<img alt="forks" src="https://img.shields.io/github/forks/boogabearbombernub/cve-2025-49752-lab">	<img alt="stars" src="https://img.shields.io/github/stars/boogabearbombernub/cve-2025-49752-lab">
 
 ---
 ## CVE-2025-49721 ()
