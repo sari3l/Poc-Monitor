@@ -454,6 +454,16 @@
 - [Rivek619/CVE-2025-65672](https://github.com/Rivek619/CVE-2025-65672)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65672">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65672">
 
 ---
+## CVE-2025-65670 ()
+> 
+- [Rivek619/CVE-2025-65670](https://github.com/Rivek619/CVE-2025-65670)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65670">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65670">
+
+---
+## CVE-2025-65669 ()
+> 
+- [Rivek619/CVE-2025-65669](https://github.com/Rivek619/CVE-2025-65669)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65669">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65669">
+
+---
 ## CVE-2025-6558 ()
 > 
 - [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
@@ -1937,6 +1947,7 @@
 > 
 - [rockmelodies/bentoml_CVE-2025-54381](https://github.com/rockmelodies/bentoml_CVE-2025-54381)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/bentoml_CVE-2025-54381">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/bentoml_CVE-2025-54381">
 - [B1ack4sh/Blackash-CVE-2025-54381](https://github.com/B1ack4sh/Blackash-CVE-2025-54381)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-54381">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-54381">
+- [IS8123/CVE-2025-54381](https://github.com/IS8123/CVE-2025-54381)	<img alt="forks" src="https://img.shields.io/github/forks/IS8123/CVE-2025-54381">	<img alt="stars" src="https://img.shields.io/github/stars/IS8123/CVE-2025-54381">
 
 ---
 ## CVE-2025-54352 ()
