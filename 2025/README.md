@@ -2645,6 +2645,7 @@
 - [allinsthon/CVE-2025-50165](https://github.com/allinsthon/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-50165">
 - [callinston/CVE-2025-50165](https://github.com/callinston/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-50165">
 - [blintray/CVE-2025-50165](https://github.com/blintray/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/blintray/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/blintray/CVE-2025-50165">
+- [fluxmoth/CVE-2025-50165](https://github.com/fluxmoth/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/fluxmoth/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/fluxmoth/CVE-2025-50165">
 
 ---
 ## CVE-2025-50154 ()
