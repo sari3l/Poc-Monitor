@@ -759,6 +759,7 @@
 - [Malayke/n8n-remote-code-execution-cve-2025-62726-exploit](https://github.com/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">
 - [baktistr/CVE-2025-62726-POC---n8n-Git-Node-RCE](https://github.com/baktistr/CVE-2025-62726-POC---n8n-Git-Node-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/CVE-2025-62726-POC---n8n-Git-Node-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/CVE-2025-62726-POC---n8n-Git-Node-RCE">
 - [baktistr/cve-2025-62726-malicious-repo](https://github.com/baktistr/cve-2025-62726-malicious-repo)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-62726-malicious-repo">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-62726-malicious-repo">
+- [baktistr/cve-2025-62726-poc](https://github.com/baktistr/cve-2025-62726-poc)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-62726-poc">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-62726-poc">
 
 ---
 ## CVE-2025-62507 ()
