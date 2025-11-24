@@ -434,6 +434,11 @@
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
 
 ---
+## CVE-2025-65676 ()
+> 
+- [Rivek619/CVE-2025-65676](https://github.com/Rivek619/CVE-2025-65676)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65676">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65676">
+
+---
 ## CVE-2025-65675 ()
 > 
 - [Rivek619/CVE-2025-65675](https://github.com/Rivek619/CVE-2025-65675)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65675">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65675">
