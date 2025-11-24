@@ -3960,6 +3960,7 @@ prior to
 - [Vignesh2712/Automation-for-Juniper-cve-2023-36845](https://github.com/Vignesh2712/Automation-for-Juniper-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/Vignesh2712/Automation-for-Juniper-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/Vignesh2712/Automation-for-Juniper-cve-2023-36845">
 - [functionofpwnosec/CVE-2023-36845](https://github.com/functionofpwnosec/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/functionofpwnosec/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/functionofpwnosec/CVE-2023-36845">
 - [meekchest/cve-2023-36845-scanner](https://github.com/meekchest/cve-2023-36845-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/meekchest/cve-2023-36845-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/meekchest/cve-2023-36845-scanner">
+- [kopfjager007/CVE-2023-36845](https://github.com/kopfjager007/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/kopfjager007/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/kopfjager007/CVE-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
