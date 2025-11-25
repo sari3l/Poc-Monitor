@@ -618,6 +618,11 @@
 - [WxDou/CVE-2025-63914](https://github.com/WxDou/CVE-2025-63914)	<img alt="forks" src="https://img.shields.io/github/forks/WxDou/CVE-2025-63914">	<img alt="stars" src="https://img.shields.io/github/stars/WxDou/CVE-2025-63914">
 
 ---
+## CVE-2025-6389 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-6389](https://github.com/B1ack4sh/Blackash-CVE-2025-6389)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6389">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6389">
+
+---
 ## CVE-2025-63888 ()
 > 
 - [AN5I/cve-2025-63888-exploit](https://github.com/AN5I/cve-2025-63888-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-63888-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-63888-exploit">
