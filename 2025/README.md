@@ -2543,6 +2543,11 @@
 - [SacX-7/CVE-2025-50866](https://github.com/SacX-7/CVE-2025-50866)	<img alt="forks" src="https://img.shields.io/github/forks/SacX-7/CVE-2025-50866">	<img alt="stars" src="https://img.shields.io/github/stars/SacX-7/CVE-2025-50866">
 
 ---
+## CVE-2025-50834 ()
+> 
+- [crashnests/CVE-2025-50834](https://github.com/crashnests/CVE-2025-50834)	<img alt="forks" src="https://img.shields.io/github/forks/crashnests/CVE-2025-50834">	<img alt="stars" src="https://img.shields.io/github/stars/crashnests/CVE-2025-50834">
+
+---
 ## CVE-2025-50777 ()
 > 
 - [veereshgadige/aziot-cctv-cve-2025-50777](https://github.com/veereshgadige/aziot-cctv-cve-2025-50777)	<img alt="forks" src="https://img.shields.io/github/forks/veereshgadige/aziot-cctv-cve-2025-50777">	<img alt="stars" src="https://img.shields.io/github/stars/veereshgadige/aziot-cctv-cve-2025-50777">
@@ -2661,6 +2666,7 @@
 - [callinston/CVE-2025-50165](https://github.com/callinston/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-50165">
 - [blintray/CVE-2025-50165](https://github.com/blintray/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/blintray/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/blintray/CVE-2025-50165">
 - [fluxmoth/CVE-2025-50165](https://github.com/fluxmoth/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/fluxmoth/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/fluxmoth/CVE-2025-50165">
+- [crashnests/CVE-2025-50165](https://github.com/crashnests/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/crashnests/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/crashnests/CVE-2025-50165">
 
 ---
 ## CVE-2025-50154 ()
