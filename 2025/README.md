@@ -4065,6 +4065,11 @@
 - [robertskimengote/lab-cve-2025-3515](https://github.com/robertskimengote/lab-cve-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/robertskimengote/lab-cve-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/robertskimengote/lab-cve-2025-3515">
 
 ---
+## CVE-2025-34322 ()
+> 
+- [mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server](https://github.com/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server">
+
+---
 ## CVE-2025-34300 ()
 > 
 - [jisi-001/CVE-2025-34300POC](https://github.com/jisi-001/CVE-2025-34300POC)	<img alt="forks" src="https://img.shields.io/github/forks/jisi-001/CVE-2025-34300POC">	<img alt="stars" src="https://img.shields.io/github/stars/jisi-001/CVE-2025-34300POC">
