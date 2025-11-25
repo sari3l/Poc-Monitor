@@ -848,6 +848,7 @@
 - [monzaviman/CVE-2025-62168](https://github.com/monzaviman/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE-2025-62168">
 - [monzaviman/CVE-2025-62168](https://github.com/monzaviman/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE-2025-62168">
 - [shahroodcert/CVE-2025-62168](https://github.com/shahroodcert/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/shahroodcert/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/shahroodcert/CVE-2025-62168">
+- [nehkark/CVE-2025-62168](https://github.com/nehkark/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-62168">
 
 ---
 ## CVE-2025-6202 ()
@@ -6676,6 +6677,11 @@
 ## CVE-2025-1461 ()
 > 
 - [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
+
+---
+## CVE-2025-13559 ()
+> 
+- [twiggy23buck/CVE-2025-13559-Exploit](https://github.com/twiggy23buck/CVE-2025-13559-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/twiggy23buck/CVE-2025-13559-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/twiggy23buck/CVE-2025-13559-Exploit">
 
 ---
 ## CVE-2025-1338 ()
