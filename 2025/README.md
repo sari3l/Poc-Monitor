@@ -511,7 +511,7 @@
 ---
 ## CVE-2025-64720 ()
 > 
-- [truediogo/CVE-2025-64720](https://github.com/truediogo/CVE-2025-64720)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720">
+- [truediogo/CVE-2025-64720-PoC](https://github.com/truediogo/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720-PoC">
 
 ---
 ## CVE-2025-64708 ()
