@@ -581,6 +581,11 @@
 - [shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3](https://github.com/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3">
 
 ---
+## CVE-2021-4462 ()
+> 
+- [Pranjal6955/CVE-2021-4462](https://github.com/Pranjal6955/CVE-2021-4462)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2021-4462">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2021-4462">
+
+---
 ## CVE-2021-44596 (2022-04-29T12:15:00)
 > Wondershare LTD Dr. Fone as of 2021-12-06 version is affected by Remote code execution. Due to software design flaws an unauthenticated user can communicate over UDP with the "InstallAssistService.exe" service(the service is running under SYSTEM privileges) and manipulate it to execute malicious executable without any validation from a remote location and gain SYSTEM privileges
 - [Live-Hack-CVE/CVE-2021-44596](https://github.com/Live-Hack-CVE/CVE-2021-44596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44596">
