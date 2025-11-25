@@ -483,6 +483,9 @@
 - [gmh5225/CVE-2025-6554](https://github.com/gmh5225/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-6554">
 - [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2025-6554">
 - [jopraveen/CVE-2025-6554](https://github.com/jopraveen/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/jopraveen/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/jopraveen/CVE-2025-6554">
+- [aklnjakln/CVE-2025-6554](https://github.com/aklnjakln/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/aklnjakln/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/aklnjakln/CVE-2025-6554">
+- [Muhammednihalmp/Google-chrome-zero-day](https://github.com/Muhammednihalmp/Google-chrome-zero-day)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammednihalmp/Google-chrome-zero-day">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammednihalmp/Google-chrome-zero-day">
+- [LordBheem/CVE-2025-6554](https://github.com/LordBheem/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/LordBheem/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/LordBheem/CVE-2025-6554">
 
 ---
 ## CVE-2025-65482 ()
