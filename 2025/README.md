@@ -23,6 +23,11 @@
 - [monzaviman/CVE-2025-9816](https://github.com/monzaviman/CVE-2025-9816)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE-2025-9816">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE-2025-9816">
 
 ---
+## CVE-2025-9803 ()
+> 
+- [maidilling32/CVE-2025-9803-Exploit](https://github.com/maidilling32/CVE-2025-9803-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/maidilling32/CVE-2025-9803-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/maidilling32/CVE-2025-9803-Exploit">
+
+---
 ## CVE-2025-9784 ()
 > 
 - [drackyjr/CVE-2025-9784](https://github.com/drackyjr/CVE-2025-9784)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-9784">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-9784">
