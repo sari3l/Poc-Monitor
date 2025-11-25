@@ -6709,6 +6709,7 @@ The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxe
 ## CVE-2024-29943 (2024-03-22T13:15:00)
 > An attacker was able to perform an out-of-bounds read or write on a JavaScript object by fooling range-based bounds check elimination. This vulnerability affects Firefox < 124.0.1.
 - [bjrjk/CVE-2024-29943](https://github.com/bjrjk/CVE-2024-29943)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2024-29943">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2024-29943">
+- [seadragnol/CVE-2024-29943](https://github.com/seadragnol/CVE-2024-29943)	<img alt="forks" src="https://img.shields.io/github/forks/seadragnol/CVE-2024-29943">	<img alt="stars" src="https://img.shields.io/github/stars/seadragnol/CVE-2024-29943">
 
 ---
 ## CVE-2024-29895 (2024-05-14T15:17:00)
