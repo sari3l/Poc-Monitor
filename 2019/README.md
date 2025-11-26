@@ -2493,6 +2493,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-15961](https://github.com/Live-Hack-CVE/CVE-2019-15961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15961">
 
 ---
+## CVE-2019-15949 ()
+> 
+- [0xla1n/Nagios-CVE-2019-15949-RCE-Poc](https://github.com/0xla1n/Nagios-CVE-2019-15949-RCE-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xla1n/Nagios-CVE-2019-15949-RCE-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xla1n/Nagios-CVE-2019-15949-RCE-Poc">
+
+---
 ## CVE-2019-15896 (2019-09-10T16:15:00)
 > An issue was discovered in the LifterLMS plugin through 3.34.5 for WordPress. The upload_import function in the class.llms.admin.import.php script is prone to an unauthenticated options import vulnerability that could lead to privilege escalation (administrator account creation), website redirection, and stored XSS.
 - [RandomRobbieBF/CVE-2019-15896](https://github.com/RandomRobbieBF/CVE-2019-15896)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2019-15896">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2019-15896">
