@@ -2496,6 +2496,7 @@ use after free.
 ## CVE-2019-15949 ()
 > 
 - [0xla1n/Nagios-CVE-2019-15949-RCE-Poc](https://github.com/0xla1n/Nagios-CVE-2019-15949-RCE-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xla1n/Nagios-CVE-2019-15949-RCE-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xla1n/Nagios-CVE-2019-15949-RCE-Poc">
+- [hadrian3689/nagiosxi_5.6.6](https://github.com/hadrian3689/nagiosxi_5.6.6)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/nagiosxi_5.6.6">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/nagiosxi_5.6.6">
 
 ---
 ## CVE-2019-15896 (2019-09-10T16:15:00)
