@@ -6206,6 +6206,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [sfewer-r7/CVE-2023-27532](https://github.com/sfewer-r7/CVE-2023-27532)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2023-27532">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2023-27532">
 - [horizon3ai/CVE-2023-27532](https://github.com/horizon3ai/CVE-2023-27532)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27532">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27532">
 - [puckiestyle/CVE-2023-27532-RCE-Only](https://github.com/puckiestyle/CVE-2023-27532-RCE-Only)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2023-27532-RCE-Only">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2023-27532-RCE-Only">
+- [yunus-a1i/veeam-cve-2023-27532-mock](https://github.com/yunus-a1i/veeam-cve-2023-27532-mock)	<img alt="forks" src="https://img.shields.io/github/forks/yunus-a1i/veeam-cve-2023-27532-mock">	<img alt="stars" src="https://img.shields.io/github/stars/yunus-a1i/veeam-cve-2023-27532-mock">
 
 ---
 ## CVE-2023-27524 (2023-04-24T16:15:00)
