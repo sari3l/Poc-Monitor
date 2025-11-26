@@ -5819,6 +5819,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [hexared/hexared-CVE-2024-32019_poc](https://github.com/hexared/hexared-CVE-2024-32019_poc)	<img alt="forks" src="https://img.shields.io/github/forks/hexared/hexared-CVE-2024-32019_poc">	<img alt="stars" src="https://img.shields.io/github/stars/hexared/hexared-CVE-2024-32019_poc">
 - [hexared/CVE-2024-32019_poc](https://github.com/hexared/CVE-2024-32019_poc)	<img alt="forks" src="https://img.shields.io/github/forks/hexared/CVE-2024-32019_poc">	<img alt="stars" src="https://img.shields.io/github/stars/hexared/CVE-2024-32019_poc">
 - [80Ottanta80/CVE-2024-32019-PoC](https://github.com/80Ottanta80/CVE-2024-32019-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/80Ottanta80/CVE-2024-32019-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/80Ottanta80/CVE-2024-32019-PoC">
+- [julichaan/CVE-2024-32019-ndsudo-local-privilege-escalation-NetData](https://github.com/julichaan/CVE-2024-32019-ndsudo-local-privilege-escalation-NetData)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2024-32019-ndsudo-local-privilege-escalation-NetData">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2024-32019-ndsudo-local-privilege-escalation-NetData">
 
 ---
 ## CVE-2024-32004 (2024-05-14T19:15:00)
