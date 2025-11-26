@@ -1344,6 +1344,11 @@
 - [haxerr9/CVE-2025-5840](https://github.com/haxerr9/CVE-2025-5840)	<img alt="forks" src="https://img.shields.io/github/forks/haxerr9/CVE-2025-5840">	<img alt="stars" src="https://img.shields.io/github/stars/haxerr9/CVE-2025-5840">
 
 ---
+## CVE-2025-58360 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-58360](https://github.com/B1ack4sh/Blackash-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-58360">
+
+---
 ## CVE-2025-58180 ()
 > 
 - [prabhatverma47/CVE-2025-58180](https://github.com/prabhatverma47/CVE-2025-58180)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-58180">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-58180">
