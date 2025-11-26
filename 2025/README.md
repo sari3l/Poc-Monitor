@@ -5155,6 +5155,7 @@
 - [abrewer251/CVE-2025-2945_PgAdmin_PoC](https://github.com/abrewer251/CVE-2025-2945_PgAdmin_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-2945_PgAdmin_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-2945_PgAdmin_PoC">
 - [Cycloctane/cve-2025-2945-poc](https://github.com/Cycloctane/cve-2025-2945-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Cycloctane/cve-2025-2945-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Cycloctane/cve-2025-2945-poc">
 - [ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-](https://github.com/ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-">
+- [I3r1h0n/pgAdminOpendoor](https://github.com/I3r1h0n/pgAdminOpendoor)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/pgAdminOpendoor">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/pgAdminOpendoor">
 
 ---
 ## CVE-2025-29448 ()
