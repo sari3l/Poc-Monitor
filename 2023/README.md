@@ -8415,6 +8415,11 @@ If the server is run as root (which is the default when installing the  snap pac
 - [emotest1/CVE-2023-123456](https://github.com/emotest1/CVE-2023-123456)	<img alt="forks" src="https://img.shields.io/github/forks/emotest1/CVE-2023-123456">	<img alt="stars" src="https://img.shields.io/github/stars/emotest1/CVE-2023-123456">
 
 ---
+## CVE-2023-1189 ()
+> 
+- [le0s1mba/CVE-2023-1189](https://github.com/le0s1mba/CVE-2023-1189)	<img alt="forks" src="https://img.shields.io/github/forks/le0s1mba/CVE-2023-1189">	<img alt="stars" src="https://img.shields.io/github/stars/le0s1mba/CVE-2023-1189">
+
+---
 ## CVE-2023-1177 (2023-03-24T15:15:00)
 > Path Traversal: '\..\filename' in GitHub repository mlflow/mlflow prior to 2.2.1.
 - [hh-hunter/CVE-2023-1177-Docker](https://github.com/hh-hunter/CVE-2023-1177-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/CVE-2023-1177-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/CVE-2023-1177-Docker">
