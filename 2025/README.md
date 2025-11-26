@@ -4529,6 +4529,7 @@
 > 
 - [zeroc00I/CVE-2025-32421](https://github.com/zeroc00I/CVE-2025-32421)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2025-32421">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2025-32421">
 - [hidesec/CVE-2025-32421](https://github.com/hidesec/CVE-2025-32421)	<img alt="forks" src="https://img.shields.io/github/forks/hidesec/CVE-2025-32421">	<img alt="stars" src="https://img.shields.io/github/stars/hidesec/CVE-2025-32421">
+- [Delfaster/CVE-2025-32421---Race-Condition-Vulnerability---Next.js](https://github.com/Delfaster/CVE-2025-32421---Race-Condition-Vulnerability---Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/Delfaster/CVE-2025-32421---Race-Condition-Vulnerability---Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/Delfaster/CVE-2025-32421---Race-Condition-Vulnerability---Next.js">
 
 ---
 ## CVE-2025-32407 ()
