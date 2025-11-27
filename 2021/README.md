@@ -1536,6 +1536,7 @@
 > Improper Access Control in Adminer versions 1.12.0 to 4.6.2 (fixed in version 4.6.3) allows an attacker to achieve Arbitrary File Read on the remote server by requesting the Adminer to connect to a remote MySQL database.
 - [p0dalirius/CVE-2021-43008-AdminerRead](https://github.com/p0dalirius/CVE-2021-43008-AdminerRead)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2021-43008-AdminerRead">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2021-43008-AdminerRead">
 - [DaturaSaturated/Adminer-CVE-2021-43008](https://github.com/DaturaSaturated/Adminer-CVE-2021-43008)	<img alt="forks" src="https://img.shields.io/github/forks/DaturaSaturated/Adminer-CVE-2021-43008">	<img alt="stars" src="https://img.shields.io/github/stars/DaturaSaturated/Adminer-CVE-2021-43008">
+- [Bamolitho/adminer_CVE-2021-43008](https://github.com/Bamolitho/adminer_CVE-2021-43008)	<img alt="forks" src="https://img.shields.io/github/forks/Bamolitho/adminer_CVE-2021-43008">	<img alt="stars" src="https://img.shields.io/github/stars/Bamolitho/adminer_CVE-2021-43008">
 
 ---
 ## CVE-2021-4300 (2023-01-04T22:15:00)
