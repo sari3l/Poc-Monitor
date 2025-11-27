@@ -506,6 +506,11 @@
 - [abrewer251/CVE-2025-6543_CitrixNetScaler_PoC](https://github.com/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC">
 
 ---
+## CVE-2025-65320 ()
+> 
+- [Smarttfoxx/CVE-2025-65320](https://github.com/Smarttfoxx/CVE-2025-65320)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-65320">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-65320">
+
+---
 ## CVE-2025-6514 ()
 > 
 - [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/ChaseHCS/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/ChaseHCS/CVE-2025-6514">
