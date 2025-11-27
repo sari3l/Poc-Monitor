@@ -4005,6 +4005,11 @@
 - [Nxploited/CVE-2025-39436](https://github.com/Nxploited/CVE-2025-39436)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-39436">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-39436">
 
 ---
+## CVE-2025-39401 ()
+> 
+- [Nxploited/CVE-2025-39401](https://github.com/Nxploited/CVE-2025-39401)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-39401">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-39401">
+
+---
 ## CVE-2025-3928 ()
 > 
 - [Totunm/CVE-2025-3928](https://github.com/Totunm/CVE-2025-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-3928">
