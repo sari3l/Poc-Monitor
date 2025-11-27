@@ -2645,6 +2645,11 @@
 - [Anchor0221/CVE-2025-50460](https://github.com/Anchor0221/CVE-2025-50460)	<img alt="forks" src="https://img.shields.io/github/forks/Anchor0221/CVE-2025-50460">	<img alt="stars" src="https://img.shields.io/github/stars/Anchor0221/CVE-2025-50460">
 
 ---
+## CVE-2025-50433 ()
+> 
+- [0xMandor/CVE-2025-50433](https://github.com/0xMandor/CVE-2025-50433)	<img alt="forks" src="https://img.shields.io/github/forks/0xMandor/CVE-2025-50433">	<img alt="stars" src="https://img.shields.io/github/stars/0xMandor/CVE-2025-50433">
+
+---
 ## CVE-2025-50428 ()
 > 
 - [security-smarttecs/cve-2025-50428](https://github.com/security-smarttecs/cve-2025-50428)	<img alt="forks" src="https://img.shields.io/github/forks/security-smarttecs/cve-2025-50428">	<img alt="stars" src="https://img.shields.io/github/stars/security-smarttecs/cve-2025-50428">
