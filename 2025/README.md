@@ -1208,6 +1208,7 @@
 ## CVE-2025-59528 ()
 > 
 - [zimshk/CVE-2025-59528.yaml](https://github.com/zimshk/CVE-2025-59528.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/zimshk/CVE-2025-59528.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/zimshk/CVE-2025-59528.yaml">
+- [B1ack4sh/Blackash-CVE-2025-59528](https://github.com/B1ack4sh/Blackash-CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-59528">
 
 ---
 ## CVE-2025-59503 ()
