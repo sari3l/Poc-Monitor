@@ -790,6 +790,11 @@
 - [baktistr/cve-2025-62726-legit-repo](https://github.com/baktistr/cve-2025-62726-legit-repo)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-62726-legit-repo">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-62726-legit-repo">
 
 ---
+## CVE-2025-62593 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-62593](https://github.com/B1ack4sh/Blackash-CVE-2025-62593)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-62593">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-62593">
+
+---
 ## CVE-2025-62507 ()
 > 
 - [Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC](https://github.com/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">
@@ -1400,6 +1405,7 @@
 - [loic-houchi/Django-faille-CVE-2025-57833_test](https://github.com/loic-houchi/Django-faille-CVE-2025-57833_test)	<img alt="forks" src="https://img.shields.io/github/forks/loic-houchi/Django-faille-CVE-2025-57833_test">	<img alt="stars" src="https://img.shields.io/github/stars/loic-houchi/Django-faille-CVE-2025-57833_test">
 - [ianoboyle/CVE-2025-57833](https://github.com/ianoboyle/CVE-2025-57833)	<img alt="forks" src="https://img.shields.io/github/forks/ianoboyle/CVE-2025-57833">	<img alt="stars" src="https://img.shields.io/github/stars/ianoboyle/CVE-2025-57833">
 - [sw0rd1ight/CVE-2025-57833](https://github.com/sw0rd1ight/CVE-2025-57833)	<img alt="forks" src="https://img.shields.io/github/forks/sw0rd1ight/CVE-2025-57833">	<img alt="stars" src="https://img.shields.io/github/stars/sw0rd1ight/CVE-2025-57833">
+- [Gayang2902/CVE-2025-57833](https://github.com/Gayang2902/CVE-2025-57833)	<img alt="forks" src="https://img.shields.io/github/forks/Gayang2902/CVE-2025-57833">	<img alt="stars" src="https://img.shields.io/github/stars/Gayang2902/CVE-2025-57833">
 
 ---
 ## CVE-2025-57819 ()
