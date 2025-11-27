@@ -736,6 +736,7 @@
 ## CVE-2025-63419 ()
 > 
 - [MMAKINGDOM/CVE-2025-63419](https://github.com/MMAKINGDOM/CVE-2025-63419)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-63419">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-63419">
+- [hossainshadat/CVE-2025-63419](https://github.com/hossainshadat/CVE-2025-63419)	<img alt="forks" src="https://img.shields.io/github/forks/hossainshadat/CVE-2025-63419">	<img alt="stars" src="https://img.shields.io/github/stars/hossainshadat/CVE-2025-63419">
 
 ---
 ## CVE-2025-63406 ()
@@ -1358,6 +1359,7 @@
 ## CVE-2025-58360 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-58360](https://github.com/B1ack4sh/Blackash-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-58360">
+- [quyenheu/CVE-2025-58360](https://github.com/quyenheu/CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/quyenheu/CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/quyenheu/CVE-2025-58360">
 
 ---
 ## CVE-2025-58180 ()
