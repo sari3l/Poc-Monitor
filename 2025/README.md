@@ -440,6 +440,11 @@
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
 
 ---
+## CVE-2025-65858 ()
+> 
+- [KhanhDuy155/calibre-web-CVE-2025-65858](https://github.com/KhanhDuy155/calibre-web-CVE-2025-65858)	<img alt="forks" src="https://img.shields.io/github/forks/KhanhDuy155/calibre-web-CVE-2025-65858">	<img alt="stars" src="https://img.shields.io/github/stars/KhanhDuy155/calibre-web-CVE-2025-65858">
+
+---
 ## CVE-2025-65681 ()
 > 
 - [Rivek619/CVE-2025-65681](https://github.com/Rivek619/CVE-2025-65681)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65681">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65681">
