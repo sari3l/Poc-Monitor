@@ -224,6 +224,7 @@
 - [GabrielAvls/CVE-2017-7921](https://github.com/GabrielAvls/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/GabrielAvls/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/GabrielAvls/CVE-2017-7921">
 - [initon/Hikvision---CVE-2017-7921](https://github.com/initon/Hikvision---CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/initon/Hikvision---CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/initon/Hikvision---CVE-2017-7921">
 - [lastvocher/Hikvision-CVE-2017-7921-decryptor](https://github.com/lastvocher/Hikvision-CVE-2017-7921-decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/lastvocher/Hikvision-CVE-2017-7921-decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/lastvocher/Hikvision-CVE-2017-7921-decryptor">
+- [f3d0rq/CVE-2017-7921](https://github.com/f3d0rq/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/f3d0rq/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/f3d0rq/CVE-2017-7921">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
