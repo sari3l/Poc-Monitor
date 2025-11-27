@@ -8687,6 +8687,13 @@
 - [shmilylty/cve-2021-22005-exp](https://github.com/shmilylty/cve-2021-22005-exp)	<img alt="forks" src="https://img.shields.io/github/forks/shmilylty/cve-2021-22005-exp">	<img alt="stars" src="https://img.shields.io/github/stars/shmilylty/cve-2021-22005-exp">
 
 ---
+## CVE-2021-21980 ()
+> 
+- [pkxk5pr6m2-web/cve-2021-21980-nuclei-poc](https://github.com/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc">
+- [Osyanina/westone-CVE-2022-1388-scanner](https://github.com/Osyanina/westone-CVE-2022-1388-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Osyanina/westone-CVE-2022-1388-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Osyanina/westone-CVE-2022-1388-scanner">
+- [Osyanina/westone-CVE-2021-21980-scanner](https://github.com/Osyanina/westone-CVE-2021-21980-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Osyanina/westone-CVE-2021-21980-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Osyanina/westone-CVE-2021-21980-scanner">
+
+---
 ## CVE-2021-21974 (2021-02-24T17:15:00)
 > OpenSLP as used in ESXi (7.0 before ESXi70U1c-17325551, 6.7 before ESXi670-202102401-SG, 6.5 before ESXi650-202102101-SG) has a heap-overflow vulnerability. A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution.
 - [n2x4/Feb2023-CVE-2021-21974-OSINT](https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT)	<img alt="forks" src="https://img.shields.io/github/forks/n2x4/Feb2023-CVE-2021-21974-OSINT">	<img alt="stars" src="https://img.shields.io/github/stars/n2x4/Feb2023-CVE-2021-21974-OSINT">
