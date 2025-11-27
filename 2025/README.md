@@ -2241,6 +2241,7 @@
 ## CVE-2025-53367 ()
 > 
 - [kevinbackhouse/DjVuLibre-poc-CVE-2025-53367](https://github.com/kevinbackhouse/DjVuLibre-poc-CVE-2025-53367)	<img alt="forks" src="https://img.shields.io/github/forks/kevinbackhouse/DjVuLibre-poc-CVE-2025-53367">	<img alt="stars" src="https://img.shields.io/github/stars/kevinbackhouse/DjVuLibre-poc-CVE-2025-53367">
+- [ThePhykon/CVE-2025-53367-POC](https://github.com/ThePhykon/CVE-2025-53367-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ThePhykon/CVE-2025-53367-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ThePhykon/CVE-2025-53367-POC">
 
 ---
 ## CVE-2025-5329 ()
