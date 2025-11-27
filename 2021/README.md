@@ -1231,6 +1231,7 @@
 - [abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester](https://github.com/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester)	<img alt="forks" src="https://img.shields.io/github/forks/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester">	<img alt="stars" src="https://img.shields.io/github/stars/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester">
 - [suljov/Grafana-LFI-exploit](https://github.com/suljov/Grafana-LFI-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/suljov/Grafana-LFI-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/suljov/Grafana-LFI-exploit">
 - [hxlxmj/Grafxploit](https://github.com/hxlxmj/Grafxploit)	<img alt="forks" src="https://img.shields.io/github/forks/hxlxmj/Grafxploit">	<img alt="stars" src="https://img.shields.io/github/stars/hxlxmj/Grafxploit">
+- [f3d0rq/CVE-2021-43798-poc](https://github.com/f3d0rq/CVE-2021-43798-poc)	<img alt="forks" src="https://img.shields.io/github/forks/f3d0rq/CVE-2021-43798-poc">	<img alt="stars" src="https://img.shields.io/github/stars/f3d0rq/CVE-2021-43798-poc">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
