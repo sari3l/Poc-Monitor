@@ -1873,6 +1873,7 @@
 - [jlinebau/CVE-2025-55315-Scanner-Monitor](https://github.com/jlinebau/CVE-2025-55315-Scanner-Monitor)	<img alt="forks" src="https://img.shields.io/github/forks/jlinebau/CVE-2025-55315-Scanner-Monitor">	<img alt="stars" src="https://img.shields.io/github/stars/jlinebau/CVE-2025-55315-Scanner-Monitor">
 - [blackquantas/CVE-2025-55315](https://github.com/blackquantas/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/blackquantas/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/blackquantas/CVE-2025-55315">
 - [ZemarKhos/CVE-2025-55315-PoC-Exploit](https://github.com/ZemarKhos/CVE-2025-55315-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ZemarKhos/CVE-2025-55315-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ZemarKhos/CVE-2025-55315-PoC-Exploit">
+- [MartinFabianIonut/CVE-2025-55315](https://github.com/MartinFabianIonut/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/MartinFabianIonut/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/MartinFabianIonut/CVE-2025-55315">
 
 ---
 ## CVE-2025-55287 ()
