@@ -2042,7 +2042,7 @@
 ---
 ## CVE-2025-54253 ()
 > 
-- [B1ack4sh/Blackash-CVE-2025-54253](https://github.com/B1ack4sh/Blackash-CVE-2025-54253)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-54253">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-54253">
+- [Ashwesker/Blackash-CVE-2025-54253](https://github.com/Ashwesker/Blackash-CVE-2025-54253)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-54253">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-54253">
 - [Shivshantp/CVE-2025-54253-Exploit-Demo](https://github.com/Shivshantp/CVE-2025-54253-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-54253-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-54253-Exploit-Demo">
 - [barbaraeivyu/CVE-2025-54253-e](https://github.com/barbaraeivyu/CVE-2025-54253-e)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-54253-e">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-54253-e">
 - [jm7knz/CVE-2025-54253-Exploit-Demo](https://github.com/jm7knz/CVE-2025-54253-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/jm7knz/CVE-2025-54253-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/jm7knz/CVE-2025-54253-Exploit-Demo">
@@ -2761,7 +2761,7 @@
 - [Zain3311/CVE-2025-49844](https://github.com/Zain3311/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Zain3311/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Zain3311/CVE-2025-49844">
 - [ksnnd32/redis_exploit](https://github.com/ksnnd32/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ksnnd32/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ksnnd32/redis_exploit">
 - [elyasbassir/CVE-2025-49844](https://github.com/elyasbassir/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/elyasbassir/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/elyasbassir/CVE-2025-49844">
-- [B1ack4sh/Blackash-CVE-2025-49844](https://github.com/B1ack4sh/Blackash-CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-49844">
+- [Ashwesker/Blackash-CVE-2025-49844](https://github.com/Ashwesker/Blackash-CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-49844">
 - [saneki/cve-2025-49844](https://github.com/saneki/cve-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/saneki/cve-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/saneki/cve-2025-49844">
 - [Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">
 
