@@ -1256,6 +1256,11 @@
 - [cyberbyte000/CVE-2025-59396](https://github.com/cyberbyte000/CVE-2025-59396)	<img alt="forks" src="https://img.shields.io/github/forks/cyberbyte000/CVE-2025-59396">	<img alt="stars" src="https://img.shields.io/github/stars/cyberbyte000/CVE-2025-59396">
 
 ---
+## CVE-2025-59390 ()
+> 
+- [Daeda1usUK/CVE-2025-59390-](https://github.com/Daeda1usUK/CVE-2025-59390-)	<img alt="forks" src="https://img.shields.io/github/forks/Daeda1usUK/CVE-2025-59390-">	<img alt="stars" src="https://img.shields.io/github/stars/Daeda1usUK/CVE-2025-59390-">
+
+---
 ## CVE-2025-59367 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-59367](https://github.com/B1ack4sh/Blackash-CVE-2025-59367)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-59367">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-59367">
