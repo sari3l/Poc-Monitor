@@ -441,6 +441,11 @@
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
 
 ---
+## CVE-2025-66022 ()
+> 
+- [wasfyelbaz/CVE-2025-66022](https://github.com/wasfyelbaz/CVE-2025-66022)	<img alt="forks" src="https://img.shields.io/github/forks/wasfyelbaz/CVE-2025-66022">	<img alt="stars" src="https://img.shields.io/github/stars/wasfyelbaz/CVE-2025-66022">
+
+---
 ## CVE-2025-65881 ()
 > 
 - [MMAKINGDOM/CVE-2025-65881](https://github.com/MMAKINGDOM/CVE-2025-65881)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-65881">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-65881">
