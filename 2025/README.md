@@ -2146,7 +2146,7 @@
 ---
 ## CVE-2025-53770 ()
 > 
-- [B1ack4sh/Blackash-CVE-2025-53770](https://github.com/B1ack4sh/Blackash-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53770">
+- [Ashwesker/Blackash-CVE-2025-53770](https://github.com/Ashwesker/Blackash-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-53770">
 - [RukshanaAlikhan/CVE-2025-53770](https://github.com/RukshanaAlikhan/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/RukshanaAlikhan/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/RukshanaAlikhan/CVE-2025-53770">
 - [Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770](https://github.com/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770">
 - [kaizensecurity/CVE-2025-53770](https://github.com/kaizensecurity/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/kaizensecurity/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/kaizensecurity/CVE-2025-53770">
@@ -2204,6 +2204,7 @@
 - [Michaael01/LetsDefend--SOC-342-CVE-2025-53770-SharePoint-Exploit-ToolShell](https://github.com/Michaael01/LetsDefend--SOC-342-CVE-2025-53770-SharePoint-Exploit-ToolShell)	<img alt="forks" src="https://img.shields.io/github/forks/Michaael01/LetsDefend--SOC-342-CVE-2025-53770-SharePoint-Exploit-ToolShell">	<img alt="stars" src="https://img.shields.io/github/stars/Michaael01/LetsDefend--SOC-342-CVE-2025-53770-SharePoint-Exploit-ToolShell">
 - [victormbogu1/LetsDefend-SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-andRCE-EventID-320](https://github.com/victormbogu1/LetsDefend-SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-andRCE-EventID-320)	<img alt="forks" src="https://img.shields.io/github/forks/victormbogu1/LetsDefend-SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-andRCE-EventID-320">	<img alt="stars" src="https://img.shields.io/github/stars/victormbogu1/LetsDefend-SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-andRCE-EventID-320">
 - [bitsalv/ToolShell-Honeypot](https://github.com/bitsalv/ToolShell-Honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/bitsalv/ToolShell-Honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/bitsalv/ToolShell-Honeypot">
+- [Cameloo1/sharepoint-toolshell-micro-postmortem](https://github.com/Cameloo1/sharepoint-toolshell-micro-postmortem)	<img alt="forks" src="https://img.shields.io/github/forks/Cameloo1/sharepoint-toolshell-micro-postmortem">	<img alt="stars" src="https://img.shields.io/github/stars/Cameloo1/sharepoint-toolshell-micro-postmortem">
 
 ---
 ## CVE-2025-53744 ()

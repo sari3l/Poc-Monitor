@@ -6539,6 +6539,7 @@ and the severity is therefore considered low.
 - [issamjr/CVE-2023-26360](https://github.com/issamjr/CVE-2023-26360)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2023-26360">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2023-26360">
 - [CuriousLearnerDev/ColdFusion_EXp](https://github.com/CuriousLearnerDev/ColdFusion_EXp)	<img alt="forks" src="https://img.shields.io/github/forks/CuriousLearnerDev/ColdFusion_EXp">	<img alt="stars" src="https://img.shields.io/github/stars/CuriousLearnerDev/ColdFusion_EXp">
 - [H3rm1tR3b0rn/CVE-2023-26360-RCE](https://github.com/H3rm1tR3b0rn/CVE-2023-26360-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/H3rm1tR3b0rn/CVE-2023-26360-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/H3rm1tR3b0rn/CVE-2023-26360-RCE">
+- [RyanRodrigues880/CVE-2023-26360](https://github.com/RyanRodrigues880/CVE-2023-26360)	<img alt="forks" src="https://img.shields.io/github/forks/RyanRodrigues880/CVE-2023-26360">	<img alt="stars" src="https://img.shields.io/github/stars/RyanRodrigues880/CVE-2023-26360">
 
 ---
 ## CVE-2023-2636 (2023-07-17T14:15:00)
