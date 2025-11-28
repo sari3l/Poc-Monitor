@@ -2941,6 +2941,7 @@
 ## CVE-2025-48988 ()
 > 
 - [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
+- [moehkass/CVE-2025-48988-Exploit-POC](https://github.com/moehkass/CVE-2025-48988-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/moehkass/CVE-2025-48988-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/moehkass/CVE-2025-48988-Exploit-POC">
 
 ---
 ## CVE-2025-48976 ()
