@@ -1161,6 +1161,7 @@
 - [MataKucing-OFC/CVE-2018-17254](https://github.com/MataKucing-OFC/CVE-2018-17254)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2018-17254">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2018-17254">
 - [Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection](https://github.com/Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection">
 - [FachrulRH/jckeditor](https://github.com/FachrulRH/jckeditor)	<img alt="forks" src="https://img.shields.io/github/forks/FachrulRH/jckeditor">	<img alt="stars" src="https://img.shields.io/github/stars/FachrulRH/jckeditor">
+- [7amzahard/script-python-to-detect-CVE-2018-17254](https://github.com/7amzahard/script-python-to-detect-CVE-2018-17254)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/script-python-to-detect-CVE-2018-17254">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/script-python-to-detect-CVE-2018-17254">
 
 ---
 ## CVE-2018-17240 ()
