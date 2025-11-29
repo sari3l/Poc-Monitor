@@ -7286,6 +7286,11 @@
 - [binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011](https://github.com/binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011)	<img alt="forks" src="https://img.shields.io/github/forks/binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011">	<img alt="stars" src="https://img.shields.io/github/stars/binarywarm/kentico-xperience13-AuthBypass-CVE-2025-0011">
 
 ---
+## CVE-2025-00000002 ()
+> 
+- [rix4uni/CVE-2025-00000002](https://github.com/rix4uni/CVE-2025-00000002)	<img alt="forks" src="https://img.shields.io/github/forks/rix4uni/CVE-2025-00000002">	<img alt="stars" src="https://img.shields.io/github/stars/rix4uni/CVE-2025-00000002">
+
+---
 ## CVE-2025-00000001 ()
 > 
 - [rix4uni/CVE-2025-00000001](https://github.com/rix4uni/CVE-2025-00000001)	<img alt="forks" src="https://img.shields.io/github/forks/rix4uni/CVE-2025-00000001">	<img alt="stars" src="https://img.shields.io/github/stars/rix4uni/CVE-2025-00000001">
