@@ -54,6 +54,11 @@
 - [Amperclock/CVE-2025-9491_POC](https://github.com/Amperclock/CVE-2025-9491_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Amperclock/CVE-2025-9491_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Amperclock/CVE-2025-9491_POC">
 
 ---
+## CVE-2025-9435 ()
+> 
+- [passtheticket/CVE-2025-9435](https://github.com/passtheticket/CVE-2025-9435)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2025-9435">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2025-9435">
+
+---
 ## CVE-2025-9286 ()
 > 
 - [Nxploited/CVE-2025-9286](https://github.com/Nxploited/CVE-2025-9286)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-9286">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-9286">
