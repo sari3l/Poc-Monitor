@@ -2393,6 +2393,7 @@ use after free.
 - [e180175/CVE-2019-1663-vuln](https://github.com/e180175/CVE-2019-1663-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/e180175/CVE-2019-1663-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/e180175/CVE-2019-1663-vuln">
 - [abrumsen/CVE-2019-1663](https://github.com/abrumsen/CVE-2019-1663)	<img alt="forks" src="https://img.shields.io/github/forks/abrumsen/CVE-2019-1663">	<img alt="stars" src="https://img.shields.io/github/stars/abrumsen/CVE-2019-1663">
 - [WolffCorentin/CVE-2019-1663-Binary-Analysis](https://github.com/WolffCorentin/CVE-2019-1663-Binary-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/WolffCorentin/CVE-2019-1663-Binary-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/WolffCorentin/CVE-2019-1663-Binary-Analysis">
+- [KylVGoi/cve-2019-1663](https://github.com/KylVGoi/cve-2019-1663)	<img alt="forks" src="https://img.shields.io/github/forks/KylVGoi/cve-2019-1663">	<img alt="stars" src="https://img.shields.io/github/stars/KylVGoi/cve-2019-1663">
 
 ---
 ## CVE-2019-1653 (2019-01-24T16:29:00)
