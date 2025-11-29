@@ -2140,6 +2140,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [cetinpy/CVE-2024-50633](https://github.com/cetinpy/CVE-2024-50633)	<img alt="forks" src="https://img.shields.io/github/forks/cetinpy/CVE-2024-50633">	<img alt="stars" src="https://img.shields.io/github/stars/cetinpy/CVE-2024-50633">
 
 ---
+## CVE-2024-50629 ()
+> 
+- [kiddo-pwn/CVE-2024-50629_50631](https://github.com/kiddo-pwn/CVE-2024-50629_50631)	<img alt="forks" src="https://img.shields.io/github/forks/kiddo-pwn/CVE-2024-50629_50631">	<img alt="stars" src="https://img.shields.io/github/stars/kiddo-pwn/CVE-2024-50629_50631">
+
+---
 ## CVE-2024-50623 ()
 > 
 - [watchtowrlabs/CVE-2024-50623](https://github.com/watchtowrlabs/CVE-2024-50623)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-50623">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-50623">
