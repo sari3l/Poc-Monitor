@@ -4257,7 +4257,7 @@
 ## CVE-2020-14343 (2021-02-09T21:15:00)
 > A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.
 - [Live-Hack-CVE/CVE-2020-14343](https://github.com/Live-Hack-CVE/CVE-2020-14343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14343">
-- [Kairo-one/CVE-2020-14343](https://github.com/Kairo-one/CVE-2020-14343)	<img alt="forks" src="https://img.shields.io/github/forks/Kairo-one/CVE-2020-14343">	<img alt="stars" src="https://img.shields.io/github/stars/Kairo-one/CVE-2020-14343">
+- [Kairo-one/CVE-2020-14343-PyYAML](https://github.com/Kairo-one/CVE-2020-14343-PyYAML)	<img alt="forks" src="https://img.shields.io/github/forks/Kairo-one/CVE-2020-14343-PyYAML">	<img alt="stars" src="https://img.shields.io/github/stars/Kairo-one/CVE-2020-14343-PyYAML">
 - [j4k0m/loader-CVE-2020-14343](https://github.com/j4k0m/loader-CVE-2020-14343)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/loader-CVE-2020-14343">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/loader-CVE-2020-14343">
 
 ---
