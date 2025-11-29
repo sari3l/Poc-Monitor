@@ -1836,6 +1836,7 @@
 - [reanimat0r/bpnd-libssh](https://github.com/reanimat0r/bpnd-libssh)	<img alt="forks" src="https://img.shields.io/github/forks/reanimat0r/bpnd-libssh">	<img alt="stars" src="https://img.shields.io/github/stars/reanimat0r/bpnd-libssh">
 - [HSw109/CVE-2018-10933](https://github.com/HSw109/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/HSw109/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/HSw109/CVE-2018-10933">
 - [bidaoui4905/CVE-2018-10933](https://github.com/bidaoui4905/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/bidaoui4905/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/bidaoui4905/CVE-2018-10933">
+- [opsifiz/CVE-2018-10933](https://github.com/opsifiz/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/opsifiz/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/opsifiz/CVE-2018-10933">
 
 ---
 ## CVE-2018-10583 (2018-05-01T16:29:00)
