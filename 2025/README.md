@@ -258,6 +258,7 @@
 - [h0melike/cve-2025-8088](https://github.com/h0melike/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/h0melike/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/h0melike/cve-2025-8088">
 - [h4vier/cve-2025-8088](https://github.com/h4vier/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/h4vier/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/h4vier/cve-2025-8088">
 - [4daysday/cve-2025-8088](https://github.com/4daysday/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/4daysday/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/4daysday/cve-2025-8088">
+- [xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit](https://github.com/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit">
 
 ---
 ## CVE-2025-8081 ()
