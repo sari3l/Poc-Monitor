@@ -1199,12 +1199,13 @@
 ---
 ## CVE-2025-6018 ()
 > 
-- [mistrust999/CVE-2025-6018-6019-Metasploit](https://github.com/mistrust999/CVE-2025-6018-6019-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrust999/CVE-2025-6018-6019-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrust999/CVE-2025-6018-6019-Metasploit">
+- [mistrustt/PAM-UDisks-PrivEsc-Metasploit](https://github.com/mistrustt/PAM-UDisks-PrivEsc-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrustt/PAM-UDisks-PrivEsc-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrustt/PAM-UDisks-PrivEsc-Metasploit">
 - [iamgithubber/CVE-2025-6018-19-exploit](https://github.com/iamgithubber/CVE-2025-6018-19-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iamgithubber/CVE-2025-6018-19-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iamgithubber/CVE-2025-6018-19-exploit">
 - [dreysanox/CVE-2025-6018_Poc](https://github.com/dreysanox/CVE-2025-6018_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dreysanox/CVE-2025-6018_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dreysanox/CVE-2025-6018_Poc">
 - [ibrahmsql/CVE-2025-6018-](https://github.com/ibrahmsql/CVE-2025-6018-)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018-">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018-">
 - [ibrahmsql/CVE-2025-6018](https://github.com/ibrahmsql/CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018">
-- [B1ack4sh/Blackash-CVE-2025-6018](https://github.com/B1ack4sh/Blackash-CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6018">
+- [Ashwesker/Blackash-CVE-2025-6018](https://github.com/Ashwesker/Blackash-CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-6018">
+- [euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019](https://github.com/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">
 
 ---
 ## CVE-2025-59934 ()
