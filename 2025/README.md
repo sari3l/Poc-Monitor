@@ -6815,6 +6815,7 @@
 ## CVE-2025-13615 ()
 > 
 - [cowboyburgh781/CVE-2025-13615-Exploit](https://github.com/cowboyburgh781/CVE-2025-13615-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cowboyburgh781/CVE-2025-13615-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cowboyburgh781/CVE-2025-13615-Exploit">
+- [wor41fezil/CVE-2025-13615-POC](https://github.com/wor41fezil/CVE-2025-13615-POC)	<img alt="forks" src="https://img.shields.io/github/forks/wor41fezil/CVE-2025-13615-POC">	<img alt="stars" src="https://img.shields.io/github/stars/wor41fezil/CVE-2025-13615-POC">
 
 ---
 ## CVE-2025-13597 ()
