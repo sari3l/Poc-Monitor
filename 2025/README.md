@@ -3421,6 +3421,11 @@
 - [NetSPI/CVE-2025-4660](https://github.com/NetSPI/CVE-2025-4660)	<img alt="forks" src="https://img.shields.io/github/forks/NetSPI/CVE-2025-4660">	<img alt="stars" src="https://img.shields.io/github/stars/NetSPI/CVE-2025-4660">
 
 ---
+## CVE-2025-4658 ()
+> 
+- [stuxbench/dropbear-cve-2025-4658](https://github.com/stuxbench/dropbear-cve-2025-4658)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/dropbear-cve-2025-4658">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/dropbear-cve-2025-4658">
+
+---
 ## CVE-2025-46408 ()
 > 
 - [shinyColumn/CVE-2025-46408](https://github.com/shinyColumn/CVE-2025-46408)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-46408">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-46408">
