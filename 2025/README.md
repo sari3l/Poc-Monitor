@@ -1314,6 +1314,11 @@
 - [byteReaper77/CVE-2025-59342](https://github.com/byteReaper77/CVE-2025-59342)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-59342">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-59342">
 
 ---
+## CVE-2025-59302 ()
+> 
+- [B1gh0rnn/CVE-2025-59302](https://github.com/B1gh0rnn/CVE-2025-59302)	<img alt="forks" src="https://img.shields.io/github/forks/B1gh0rnn/CVE-2025-59302">	<img alt="stars" src="https://img.shields.io/github/stars/B1gh0rnn/CVE-2025-59302">
+
+---
 ## CVE-2025-59295 ()
 > 
 - [usjnx72726w/CVE-2025-59295](https://github.com/usjnx72726w/CVE-2025-59295)	<img alt="forks" src="https://img.shields.io/github/forks/usjnx72726w/CVE-2025-59295">	<img alt="stars" src="https://img.shields.io/github/stars/usjnx72726w/CVE-2025-59295">
@@ -2945,6 +2950,7 @@
 - [0xtensho/CVE-2025-49132-poc](https://github.com/0xtensho/CVE-2025-49132-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xtensho/CVE-2025-49132-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xtensho/CVE-2025-49132-poc">
 - [GRodolphe/CVE-2025-49132_poc](https://github.com/GRodolphe/CVE-2025-49132_poc)	<img alt="forks" src="https://img.shields.io/github/forks/GRodolphe/CVE-2025-49132_poc">	<img alt="stars" src="https://img.shields.io/github/stars/GRodolphe/CVE-2025-49132_poc">
 - [WebSafety-2tina/CVE-2025-49132](https://github.com/WebSafety-2tina/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/WebSafety-2tina/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/WebSafety-2tina/CVE-2025-49132">
+- [f3d0rq/CVE-2025-49132](https://github.com/f3d0rq/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/f3d0rq/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/f3d0rq/CVE-2025-49132">
 - [f3d0rq/CVE-2025-49132](https://github.com/f3d0rq/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/f3d0rq/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/f3d0rq/CVE-2025-49132">
 
 ---
