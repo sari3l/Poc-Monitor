@@ -6800,6 +6800,11 @@
 - [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
 
 ---
+## CVE-2025-13615 ()
+> 
+- [cowboyburgh781/CVE-2025-13615-Exploit](https://github.com/cowboyburgh781/CVE-2025-13615-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cowboyburgh781/CVE-2025-13615-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cowboyburgh781/CVE-2025-13615-Exploit">
+
+---
 ## CVE-2025-13597 ()
 > 
 - [d0n601/CVE-2025-13597](https://github.com/d0n601/CVE-2025-13597)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-13597">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-13597">
