@@ -3385,6 +3385,11 @@
 - [korden-c/CVE-2025-46801](https://github.com/korden-c/CVE-2025-46801)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-46801">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-46801">
 
 ---
+## CVE-2025-4679 ()
+> 
+- [fevar54/CVE-2025-4679-SecureOAuth-Demo---Enfoque-educativo](https://github.com/fevar54/CVE-2025-4679-SecureOAuth-Demo---Enfoque-educativo)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2025-4679-SecureOAuth-Demo---Enfoque-educativo">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2025-4679-SecureOAuth-Demo---Enfoque-educativo">
+
+---
 ## CVE-2025-46731 ()
 > 
 - [singetu0096/CVE-2025-46731](https://github.com/singetu0096/CVE-2025-46731)	<img alt="forks" src="https://img.shields.io/github/forks/singetu0096/CVE-2025-46731">	<img alt="stars" src="https://img.shields.io/github/stars/singetu0096/CVE-2025-46731">
