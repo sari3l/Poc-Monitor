@@ -632,6 +632,7 @@
 - [xxoprt/CVE-2025-6440](https://github.com/xxoprt/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/xxoprt/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/xxoprt/CVE-2025-6440">
 - [Nxploited/CVE-2025-6440](https://github.com/Nxploited/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6440">
 - [m2hcz/CVE-2025-6440-Poc-Exploit](https://github.com/m2hcz/CVE-2025-6440-Poc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m2hcz/CVE-2025-6440-Poc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m2hcz/CVE-2025-6440-Poc-Exploit">
+- [smuft1707/CVE-2025-6440](https://github.com/smuft1707/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/smuft1707/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/smuft1707/CVE-2025-6440">
 
 ---
 ## CVE-2025-64328 ()

@@ -147,6 +147,7 @@
 - [corsisechero/CVE-2019-9193byVulHub](https://github.com/corsisechero/CVE-2019-9193byVulHub)	<img alt="forks" src="https://img.shields.io/github/forks/corsisechero/CVE-2019-9193byVulHub">	<img alt="stars" src="https://img.shields.io/github/stars/corsisechero/CVE-2019-9193byVulHub">
 - [netw0rk7/CVE-2019-9193-Home-Lab](https://github.com/netw0rk7/CVE-2019-9193-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2019-9193-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2019-9193-Home-Lab">
 - [jhnhnck/CVE-2019-9193](https://github.com/jhnhnck/CVE-2019-9193)	<img alt="forks" src="https://img.shields.io/github/forks/jhnhnck/CVE-2019-9193">	<img alt="stars" src="https://img.shields.io/github/stars/jhnhnck/CVE-2019-9193">
+- [Cheryanika/CVE-2019-9193---Postgresql---RCE](https://github.com/Cheryanika/CVE-2019-9193---Postgresql---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Cheryanika/CVE-2019-9193---Postgresql---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Cheryanika/CVE-2019-9193---Postgresql---RCE">
 
 ---
 ## CVE-2019-9139 (2019-04-25T18:29:00)
