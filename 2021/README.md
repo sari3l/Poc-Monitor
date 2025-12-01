@@ -8697,6 +8697,7 @@
 - [Osyanina/westone-CVE-2021-21980-scanner](https://github.com/Osyanina/westone-CVE-2021-21980-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Osyanina/westone-CVE-2021-21980-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Osyanina/westone-CVE-2021-21980-scanner">
 - [gui2000guix-ui/cve-2021-21980-nuclei-poc](https://github.com/gui2000guix-ui/cve-2021-21980-nuclei-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gui2000guix-ui/cve-2021-21980-nuclei-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gui2000guix-ui/cve-2021-21980-nuclei-poc">
 - [gui2000guix-ui/cve-2021-21980-mock-server](https://github.com/gui2000guix-ui/cve-2021-21980-mock-server)	<img alt="forks" src="https://img.shields.io/github/forks/gui2000guix-ui/cve-2021-21980-mock-server">	<img alt="stars" src="https://img.shields.io/github/stars/gui2000guix-ui/cve-2021-21980-mock-server">
+- [pratikjojode/vcenter-cve-2021-21980-lab](https://github.com/pratikjojode/vcenter-cve-2021-21980-lab)	<img alt="forks" src="https://img.shields.io/github/forks/pratikjojode/vcenter-cve-2021-21980-lab">	<img alt="stars" src="https://img.shields.io/github/stars/pratikjojode/vcenter-cve-2021-21980-lab">
 
 ---
 ## CVE-2021-21974 (2021-02-24T17:15:00)
