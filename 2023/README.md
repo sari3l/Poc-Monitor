@@ -8412,6 +8412,11 @@ If the server is run as root (which is the default when installing the  snap pac
 - [emotest1/CVE-2023-123456](https://github.com/emotest1/CVE-2023-123456)	<img alt="forks" src="https://img.shields.io/github/forks/emotest1/CVE-2023-123456">	<img alt="stars" src="https://img.shields.io/github/stars/emotest1/CVE-2023-123456">
 
 ---
+## CVE-2023-1206 ()
+> 
+- [SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882](https://github.com/SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882">
+
+---
 ## CVE-2023-12 ()
 > 
 - [Faelian/CraftCMS_CVE-2023-12-26](https://github.com/Faelian/CraftCMS_CVE-2023-12-26)	<img alt="forks" src="https://img.shields.io/github/forks/Faelian/CraftCMS_CVE-2023-12-26">	<img alt="stars" src="https://img.shields.io/github/stars/Faelian/CraftCMS_CVE-2023-12-26">
