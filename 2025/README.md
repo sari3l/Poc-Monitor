@@ -541,6 +541,7 @@
 ## CVE-2025-65345 ()
 > 
 - [Theethat-Thamwasin/CVE-2025-65345](https://github.com/Theethat-Thamwasin/CVE-2025-65345)	<img alt="forks" src="https://img.shields.io/github/forks/Theethat-Thamwasin/CVE-2025-65345">	<img alt="stars" src="https://img.shields.io/github/stars/Theethat-Thamwasin/CVE-2025-65345">
+- [tlekrean/CVE-2025-65345](https://github.com/tlekrean/CVE-2025-65345)	<img alt="forks" src="https://img.shields.io/github/forks/tlekrean/CVE-2025-65345">	<img alt="stars" src="https://img.shields.io/github/stars/tlekrean/CVE-2025-65345">
 
 ---
 ## CVE-2025-65320 ()
