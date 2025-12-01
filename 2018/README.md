@@ -628,6 +628,10 @@
 ## CVE-2018-2894 ()
 > 
 - [111ddea/cve-2018-2894](https://github.com/111ddea/cve-2018-2894)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/cve-2018-2894">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/cve-2018-2894">
+- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
+- [k8gege/PyLadon](https://github.com/k8gege/PyLadon)	<img alt="forks" src="https://img.shields.io/github/forks/k8gege/PyLadon">	<img alt="stars" src="https://img.shields.io/github/stars/k8gege/PyLadon">
+- [jas502n/CVE-2018-2894](https://github.com/jas502n/CVE-2018-2894)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2018-2894">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2018-2894">
+- [LandGrey/CVE-2018-2894](https://github.com/LandGrey/CVE-2018-2894)	<img alt="forks" src="https://img.shields.io/github/forks/LandGrey/CVE-2018-2894">	<img alt="stars" src="https://img.shields.io/github/stars/LandGrey/CVE-2018-2894">
 
 ---
 ## CVE-2018-2893 (2018-07-18T13:29:00)
