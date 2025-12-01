@@ -836,6 +836,11 @@
 - [baktistr/cve-2025-62726-legit-repo](https://github.com/baktistr/cve-2025-62726-legit-repo)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-62726-legit-repo">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-62726-legit-repo">
 
 ---
+## CVE-2025-62641 ()
+> 
+- [Al-Lord0x/CVE-2025-62641](https://github.com/Al-Lord0x/CVE-2025-62641)	<img alt="forks" src="https://img.shields.io/github/forks/Al-Lord0x/CVE-2025-62641">	<img alt="stars" src="https://img.shields.io/github/stars/Al-Lord0x/CVE-2025-62641">
+
+---
 ## CVE-2025-62593 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-62593](https://github.com/B1ack4sh/Blackash-CVE-2025-62593)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-62593">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-62593">
