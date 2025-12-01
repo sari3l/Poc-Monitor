@@ -2573,6 +2573,7 @@
 - [cuijiung/xstream-CVE-2020-26217](https://github.com/cuijiung/xstream-CVE-2020-26217)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/xstream-CVE-2020-26217">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/xstream-CVE-2020-26217">
 - [epicosy/XStream-1](https://github.com/epicosy/XStream-1)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/XStream-1">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/XStream-1">
 - [shoucheng3/x-stream__xstream_CVE-2020-26217_1-4-14-java7](https://github.com/shoucheng3/x-stream__xstream_CVE-2020-26217_1-4-14-java7)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/x-stream__xstream_CVE-2020-26217_1-4-14-java7">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/x-stream__xstream_CVE-2020-26217_1-4-14-java7">
+- [Kairo-one/CVE-2020-26217-XStream](https://github.com/Kairo-one/CVE-2020-26217-XStream)	<img alt="forks" src="https://img.shields.io/github/forks/Kairo-one/CVE-2020-26217-XStream">	<img alt="stars" src="https://img.shields.io/github/stars/Kairo-one/CVE-2020-26217-XStream">
 
 ---
 ## CVE-2020-26197 (2021-04-20T17:15:00)
