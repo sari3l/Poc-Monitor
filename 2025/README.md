@@ -3083,6 +3083,11 @@
 - [137f/PoC-CVE-2025-48703](https://github.com/137f/PoC-CVE-2025-48703)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2025-48703">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2025-48703">
 
 ---
+## CVE-2025-48633 ()
+> 
+- [Ashwesker/Blackash-CVE-2025-48633](https://github.com/Ashwesker/Blackash-CVE-2025-48633)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-48633">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-48633">
+
+---
 ## CVE-2025-48621 ()
 > 
 - [Layer1-Artist/POC-CVE-2025-48621](https://github.com/Layer1-Artist/POC-CVE-2025-48621)	<img alt="forks" src="https://img.shields.io/github/forks/Layer1-Artist/POC-CVE-2025-48621">	<img alt="stars" src="https://img.shields.io/github/stars/Layer1-Artist/POC-CVE-2025-48621">
