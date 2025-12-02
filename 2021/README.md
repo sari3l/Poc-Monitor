@@ -5862,6 +5862,7 @@
 - [Live-Hack-CVE/CVE-2021-33026](https://github.com/Live-Hack-CVE/CVE-2021-33026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33026">
 - [Agilevatester/FlaskCache_CVE-2021-33026_POC](https://github.com/Agilevatester/FlaskCache_CVE-2021-33026_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Agilevatester/FlaskCache_CVE-2021-33026_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Agilevatester/FlaskCache_CVE-2021-33026_POC">
 - [CarlosG13/CVE-2021-33026](https://github.com/CarlosG13/CVE-2021-33026)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosG13/CVE-2021-33026">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosG13/CVE-2021-33026">
+- [abelreqma/CVE-2021-33026](https://github.com/abelreqma/CVE-2021-33026)	<img alt="forks" src="https://img.shields.io/github/forks/abelreqma/CVE-2021-33026">	<img alt="stars" src="https://img.shields.io/github/stars/abelreqma/CVE-2021-33026">
 
 ---
 ## CVE-2021-33013 (2022-05-13T16:15:00)
