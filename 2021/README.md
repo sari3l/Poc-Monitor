@@ -8300,6 +8300,7 @@
 ## CVE-2021-22941 ()
 > 
 - [pratikjojode/citrix-cve-2021-22941-lab](https://github.com/pratikjojode/citrix-cve-2021-22941-lab)	<img alt="forks" src="https://img.shields.io/github/forks/pratikjojode/citrix-cve-2021-22941-lab">	<img alt="stars" src="https://img.shields.io/github/stars/pratikjojode/citrix-cve-2021-22941-lab">
+- [hoav18/CVE-2021-22941](https://github.com/hoav18/CVE-2021-22941)	<img alt="forks" src="https://img.shields.io/github/forks/hoav18/CVE-2021-22941">	<img alt="stars" src="https://img.shields.io/github/stars/hoav18/CVE-2021-22941">
 
 ---
 ## CVE-2021-22940 (2021-08-16T19:15:00)
