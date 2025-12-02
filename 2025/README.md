@@ -767,6 +767,7 @@
 ## CVE-2025-63499 ()
 > 
 - [xryptoh/CVE-2025-63499](https://github.com/xryptoh/CVE-2025-63499)	<img alt="forks" src="https://img.shields.io/github/forks/xryptoh/CVE-2025-63499">	<img alt="stars" src="https://img.shields.io/github/stars/xryptoh/CVE-2025-63499">
+- [poblaguev-tot/CVE-2025-63499](https://github.com/poblaguev-tot/CVE-2025-63499)	<img alt="forks" src="https://img.shields.io/github/forks/poblaguev-tot/CVE-2025-63499">	<img alt="stars" src="https://img.shields.io/github/stars/poblaguev-tot/CVE-2025-63499">
 
 ---
 ## CVE-2025-63498 ()
