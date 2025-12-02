@@ -3473,6 +3473,7 @@ use after free.
 - [iumiro/CVE-2019-0232](https://github.com/iumiro/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/iumiro/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/iumiro/CVE-2019-0232">
 - [x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit](https://github.com/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit">
 - [Jorge2Rubio/CVE-2019-0232](https://github.com/Jorge2Rubio/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/Jorge2Rubio/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/Jorge2Rubio/CVE-2019-0232">
+- [Jorge2Rubio/CVE-2019-0232](https://github.com/Jorge2Rubio/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/Jorge2Rubio/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/Jorge2Rubio/CVE-2019-0232">
 
 ---
 ## CVE-2019-0230 (2020-09-14T17:15:00)
