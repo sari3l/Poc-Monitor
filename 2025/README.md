@@ -6891,7 +6891,7 @@
 ## CVE-2025-1337 ()
 > 
 - [ada-z3r0/CVE-2025-1337-PoC](https://github.com/ada-z3r0/CVE-2025-1337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ada-z3r0/CVE-2025-1337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ada-z3r0/CVE-2025-1337-PoC">
-- [Zwique/CVE-2025-1337-POC](https://github.com/Zwique/CVE-2025-1337-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Zwique/CVE-2025-1337-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Zwique/CVE-2025-1337-POC">
+- [Zwique/CVE-2025-1337-PoC](https://github.com/Zwique/CVE-2025-1337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Zwique/CVE-2025-1337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Zwique/CVE-2025-1337-PoC">
 
 ---
 ## CVE-2025-13315 ()
