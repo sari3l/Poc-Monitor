@@ -5214,6 +5214,7 @@
 - [NS-Projects-Unina/CTF_CVE_DSP_1](https://github.com/NS-Projects-Unina/CTF_CVE_DSP_1)	<img alt="forks" src="https://img.shields.io/github/forks/NS-Projects-Unina/CTF_CVE_DSP_1">	<img alt="stars" src="https://img.shields.io/github/stars/NS-Projects-Unina/CTF_CVE_DSP_1">
 - [BugHawak/CVE-2025-29927](https://github.com/BugHawak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BugHawak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BugHawak/CVE-2025-29927">
 - [BugHawak/CVE-2025-29927](https://github.com/BugHawak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BugHawak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BugHawak/CVE-2025-29927">
+- [liamromanis101/CVE-2025-29927-NextJS](https://github.com/liamromanis101/CVE-2025-29927-NextJS)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/CVE-2025-29927-NextJS">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/CVE-2025-29927-NextJS">
 
 ---
 ## CVE-2025-29891 ()
