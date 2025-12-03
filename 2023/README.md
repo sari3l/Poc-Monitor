@@ -1620,6 +1620,7 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [MacTavish2/CVE-2023-46747-Mass-RCE](https://github.com/MacTavish2/CVE-2023-46747-Mass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MacTavish2/CVE-2023-46747-Mass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MacTavish2/CVE-2023-46747-Mass-RCE">
 - [zgimszhd61/CVE-2023-46747-RCE-poc](https://github.com/zgimszhd61/CVE-2023-46747-RCE-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2023-46747-RCE-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2023-46747-RCE-poc">
 - [Razzlemouse/F5-BIG-IP-CVE-2023-46747---Unauthenticated-RCE-Reverse-Shell-Nuclei-Template-Modified-](https://github.com/Razzlemouse/F5-BIG-IP-CVE-2023-46747---Unauthenticated-RCE-Reverse-Shell-Nuclei-Template-Modified-)	<img alt="forks" src="https://img.shields.io/github/forks/Razzlemouse/F5-BIG-IP-CVE-2023-46747---Unauthenticated-RCE-Reverse-Shell-Nuclei-Template-Modified-">	<img alt="stars" src="https://img.shields.io/github/stars/Razzlemouse/F5-BIG-IP-CVE-2023-46747---Unauthenticated-RCE-Reverse-Shell-Nuclei-Template-Modified-">
+- [cediegreyhat/BigFinger](https://github.com/cediegreyhat/BigFinger)	<img alt="forks" src="https://img.shields.io/github/forks/cediegreyhat/BigFinger">	<img alt="stars" src="https://img.shields.io/github/stars/cediegreyhat/BigFinger">
 
 ---
 ## CVE-2023-46694 (2024-05-28T20:16:00)
