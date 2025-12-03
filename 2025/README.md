@@ -2012,6 +2012,7 @@
 ## CVE-2025-55182 ()
 > 
 - [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">
+- [callinston/CVE-2025-55182](https://github.com/callinston/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
