@@ -1603,6 +1603,11 @@
 - [sanchitsahni/CVE-2025-57515](https://github.com/sanchitsahni/CVE-2025-57515)	<img alt="forks" src="https://img.shields.io/github/forks/sanchitsahni/CVE-2025-57515">	<img alt="stars" src="https://img.shields.io/github/stars/sanchitsahni/CVE-2025-57515">
 
 ---
+## CVE-2025-57489 ()
+> 
+- [graypixel2121/CVE-2025-57489](https://github.com/graypixel2121/CVE-2025-57489)	<img alt="forks" src="https://img.shields.io/github/forks/graypixel2121/CVE-2025-57489">	<img alt="stars" src="https://img.shields.io/github/stars/graypixel2121/CVE-2025-57489">
+
+---
 ## CVE-2025-57457 ()
 > 
 - [restdone/CVE-2025-57457](https://github.com/restdone/CVE-2025-57457)	<img alt="forks" src="https://img.shields.io/github/forks/restdone/CVE-2025-57457">	<img alt="stars" src="https://img.shields.io/github/stars/restdone/CVE-2025-57457">
@@ -2013,6 +2018,7 @@
 > 
 - [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">
 - [callinston/CVE-2025-55182](https://github.com/callinston/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-55182">
+- [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-poc">
 
 ---
 ## CVE-2025-54988 ()
@@ -6130,8 +6136,10 @@
 - [Y2F05p2w/CVE-2025-24893](https://github.com/Y2F05p2w/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Y2F05p2w/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Y2F05p2w/CVE-2025-24893">
 - [80Ottanta80/CVE-2025-24893-PoC](https://github.com/80Ottanta80/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/80Ottanta80/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/80Ottanta80/CVE-2025-24893-PoC">
 - [kimtangker/CVE-2025-24893](https://github.com/kimtangker/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/kimtangker/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/kimtangker/CVE-2025-24893">
-- [B1ack4sh/Blackash-CVE-2025-24893](https://github.com/B1ack4sh/Blackash-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-24893">
+- [Ashwesker/Blackash-CVE-2025-24893](https://github.com/Ashwesker/Blackash-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-24893">
 - [0xDTC/XWiki-Platform-RCE-CVE-2025-24893](https://github.com/0xDTC/XWiki-Platform-RCE-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/XWiki-Platform-RCE-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/XWiki-Platform-RCE-CVE-2025-24893">
+- [dr4x-c0d3r/xwiki-exploit](https://github.com/dr4x-c0d3r/xwiki-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dr4x-c0d3r/xwiki-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dr4x-c0d3r/xwiki-exploit">
+- [dr4xp/xwiki-rce](https://github.com/dr4xp/xwiki-rce)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/xwiki-rce">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/xwiki-rce">
 
 ---
 ## CVE-2025-24813 ()
