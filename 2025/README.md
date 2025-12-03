@@ -672,6 +672,11 @@
 - [cybercrewinc/CVE-2025-64027](https://github.com/cybercrewinc/CVE-2025-64027)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-64027">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-64027">
 
 ---
+## CVE-2025-63945 ()
+> 
+- [alexlee820/CVE-2025-63945](https://github.com/alexlee820/CVE-2025-63945)	<img alt="forks" src="https://img.shields.io/github/forks/alexlee820/CVE-2025-63945">	<img alt="stars" src="https://img.shields.io/github/stars/alexlee820/CVE-2025-63945">
+
+---
 ## CVE-2025-63943 ()
 > 
 - [RedOpsX/CVE-2025-63943](https://github.com/RedOpsX/CVE-2025-63943)	<img alt="forks" src="https://img.shields.io/github/forks/RedOpsX/CVE-2025-63943">	<img alt="stars" src="https://img.shields.io/github/stars/RedOpsX/CVE-2025-63943">
@@ -1307,6 +1312,11 @@
 > 
 - [M4rgs/CVE-2025-5947_Exploit](https://github.com/M4rgs/CVE-2025-5947_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M4rgs/CVE-2025-5947_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M4rgs/CVE-2025-5947_Exploit">
 - [NightlyAudit/CVE-2025-5947](https://github.com/NightlyAudit/CVE-2025-5947)	<img alt="forks" src="https://img.shields.io/github/forks/NightlyAudit/CVE-2025-5947">	<img alt="stars" src="https://img.shields.io/github/stars/NightlyAudit/CVE-2025-5947">
+
+---
+## CVE-2025-59427 ()
+> 
+- [ibnurusdianto/CVE-2025-59427](https://github.com/ibnurusdianto/CVE-2025-59427)	<img alt="forks" src="https://img.shields.io/github/forks/ibnurusdianto/CVE-2025-59427">	<img alt="stars" src="https://img.shields.io/github/stars/ibnurusdianto/CVE-2025-59427">
 
 ---
 ## CVE-2025-59424 ()
