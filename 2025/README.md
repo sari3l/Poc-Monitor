@@ -450,6 +450,7 @@
 ## CVE-2025-66478 ()
 > 
 - [abtonc/next-cve-2025-66478](https://github.com/abtonc/next-cve-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/abtonc/next-cve-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/abtonc/next-cve-2025-66478">
+- [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">
 
 ---
 ## CVE-2025-66022 ()
