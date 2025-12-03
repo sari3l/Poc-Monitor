@@ -2021,7 +2021,9 @@
 - [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-poc">
 - [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-poc">
 - [atastycookie/CVE-2025-55182-poc-python](https://github.com/atastycookie/CVE-2025-55182-poc-python)	<img alt="forks" src="https://img.shields.io/github/forks/atastycookie/CVE-2025-55182-poc-python">	<img alt="stars" src="https://img.shields.io/github/stars/atastycookie/CVE-2025-55182-poc-python">
-- [sickwell/CVE-2025-55182-python](https://github.com/sickwell/CVE-2025-55182-python)	<img alt="forks" src="https://img.shields.io/github/forks/sickwell/CVE-2025-55182-python">	<img alt="stars" src="https://img.shields.io/github/stars/sickwell/CVE-2025-55182-python">
+- [sickwell/CVE-2025-55182](https://github.com/sickwell/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/sickwell/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/sickwell/CVE-2025-55182">
+- [fatguru/CVE-2025-55182-scanner](https://github.com/fatguru/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/fatguru/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/fatguru/CVE-2025-55182-scanner">
+- [Ashwesker/Blackash-CVE-2025-55182](https://github.com/Ashwesker/Blackash-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
