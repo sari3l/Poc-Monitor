@@ -187,6 +187,7 @@
 - [shun1403/CVE-2017-8291](https://github.com/shun1403/CVE-2017-8291)	<img alt="forks" src="https://img.shields.io/github/forks/shun1403/CVE-2017-8291">	<img alt="stars" src="https://img.shields.io/github/stars/shun1403/CVE-2017-8291">
 - [shun1403/PIL-CVE-2017-8291-study](https://github.com/shun1403/PIL-CVE-2017-8291-study)	<img alt="forks" src="https://img.shields.io/github/forks/shun1403/PIL-CVE-2017-8291-study">	<img alt="stars" src="https://img.shields.io/github/stars/shun1403/PIL-CVE-2017-8291-study">
 - [hkcfs/PIL-CVE-2017-8291](https://github.com/hkcfs/PIL-CVE-2017-8291)	<img alt="forks" src="https://img.shields.io/github/forks/hkcfs/PIL-CVE-2017-8291">	<img alt="stars" src="https://img.shields.io/github/stars/hkcfs/PIL-CVE-2017-8291">
+- [DaniilOrchikov/PIL-CVE-2017-8291](https://github.com/DaniilOrchikov/PIL-CVE-2017-8291)	<img alt="forks" src="https://img.shields.io/github/forks/DaniilOrchikov/PIL-CVE-2017-8291">	<img alt="stars" src="https://img.shields.io/github/stars/DaniilOrchikov/PIL-CVE-2017-8291">
 
 ---
 ## CVE-2017-8225 (2017-04-25T20:59:00)

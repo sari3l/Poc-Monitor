@@ -3904,6 +3904,12 @@
 - [GadaLuBau1337/CVE-2025-4190](https://github.com/GadaLuBau1337/CVE-2025-4190)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2025-4190">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2025-4190">
 
 ---
+## CVE-2025-41744 ()
+> 
+- [gromila7813/CVE-2025-41744](https://github.com/gromila7813/CVE-2025-41744)	<img alt="forks" src="https://img.shields.io/github/forks/gromila7813/CVE-2025-41744">	<img alt="stars" src="https://img.shields.io/github/stars/gromila7813/CVE-2025-41744">
+- [sinrinmagic43/CVE-2025-41744-Poc](https://github.com/sinrinmagic43/CVE-2025-41744-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/sinrinmagic43/CVE-2025-41744-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/sinrinmagic43/CVE-2025-41744-Poc">
+
+---
 ## CVE-2025-4172026 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-4172026](https://github.com/NotItsSixtyN3in/CVE-2025-4172026)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4172026">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4172026">
@@ -4168,6 +4174,7 @@
 - [0xdevil/CVE-2025-38001](https://github.com/0xdevil/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/0xdevil/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/0xdevil/CVE-2025-38001">
 - [khoatran107/cve-2025-38001](https://github.com/khoatran107/cve-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-38001">
 - [ngobao2002/CVE-2025-38001-test](https://github.com/ngobao2002/CVE-2025-38001-test)	<img alt="forks" src="https://img.shields.io/github/forks/ngobao2002/CVE-2025-38001-test">	<img alt="stars" src="https://img.shields.io/github/stars/ngobao2002/CVE-2025-38001-test">
+- [boeseejykbtanke348/CVE-2025-38001](https://github.com/boeseejykbtanke348/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/boeseejykbtanke348/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/boeseejykbtanke348/CVE-2025-38001">
 
 ---
 ## CVE-2025-37947 ()
