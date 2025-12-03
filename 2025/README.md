@@ -2003,6 +2003,11 @@
 - [Sh3ruman/CVE-2025-55188-7z-exploit](https://github.com/Sh3ruman/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sh3ruman/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sh3ruman/CVE-2025-55188-7z-exploit">
 
 ---
+## CVE-2025-55182 ()
+> 
+- [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js-](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js-)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js-">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js-">
+
+---
 ## CVE-2025-54988 ()
 > 
 - [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988)	<img alt="forks" src="https://img.shields.io/github/forks/mgthuramoemyint/POC-CVE-2025-54988">	<img alt="stars" src="https://img.shields.io/github/stars/mgthuramoemyint/POC-CVE-2025-54988">
@@ -6910,6 +6915,16 @@
 ## CVE-2025-13559 ()
 > 
 - [twiggy23buck/CVE-2025-13559-Exploit](https://github.com/twiggy23buck/CVE-2025-13559-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/twiggy23buck/CVE-2025-13559-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/twiggy23buck/CVE-2025-13559-Exploit">
+
+---
+## CVE-2025-13486 ()
+> 
+- [lasthero-887/CVE-2025-13486---Poc](https://github.com/lasthero-887/CVE-2025-13486---Poc)	<img alt="forks" src="https://img.shields.io/github/forks/lasthero-887/CVE-2025-13486---Poc">	<img alt="stars" src="https://img.shields.io/github/stars/lasthero-887/CVE-2025-13486---Poc">
+
+---
+## CVE-2025-13390 ()
+> 
+- [sidmug3307/CVE-2025-13390-Exploit](https://github.com/sidmug3307/CVE-2025-13390-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sidmug3307/CVE-2025-13390-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sidmug3307/CVE-2025-13390-Exploit">
 
 ---
 ## CVE-2025-1338 ()
