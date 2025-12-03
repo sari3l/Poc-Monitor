@@ -1159,6 +1159,11 @@
 - [callinston/CVE-2025-60724](https://github.com/callinston/CVE-2025-60724)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-60724">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-60724">
 
 ---
+## CVE-2025-60719 ()
+> 
+- [akamai/CVE-2025-60719-AFD.SYS](https://github.com/akamai/CVE-2025-60719-AFD.SYS)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-60719-AFD.SYS">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-60719-AFD.SYS">
+
+---
 ## CVE-2025-60715 ()
 > 
 - [velmetrac/CVE-2025-60715](https://github.com/velmetrac/CVE-2025-60715)	<img alt="forks" src="https://img.shields.io/github/forks/velmetrac/CVE-2025-60715">	<img alt="stars" src="https://img.shields.io/github/stars/velmetrac/CVE-2025-60715">
