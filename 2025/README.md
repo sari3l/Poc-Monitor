@@ -6904,6 +6904,11 @@
 - [jxcaxtc/CVE-2025-1338](https://github.com/jxcaxtc/CVE-2025-1338)	<img alt="forks" src="https://img.shields.io/github/forks/jxcaxtc/CVE-2025-1338">	<img alt="stars" src="https://img.shields.io/github/stars/jxcaxtc/CVE-2025-1338">
 
 ---
+## CVE-2025-13372 ()
+> 
+- [Ashwesker/Blackash-CVE-2025-13372](https://github.com/Ashwesker/Blackash-CVE-2025-13372)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-13372">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-13372">
+
+---
 ## CVE-2025-1337 ()
 > 
 - [ada-z3r0/CVE-2025-1337-PoC](https://github.com/ada-z3r0/CVE-2025-1337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ada-z3r0/CVE-2025-1337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ada-z3r0/CVE-2025-1337-PoC">
