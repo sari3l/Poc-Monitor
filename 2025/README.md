@@ -2005,7 +2005,7 @@
 ---
 ## CVE-2025-55182 ()
 > 
-- [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js-](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js-)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js-">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js-">
+- [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">
 
 ---
 ## CVE-2025-54988 ()
@@ -6317,6 +6317,7 @@
 > 
 - [cyruscostini/CVE-2025-24091](https://github.com/cyruscostini/CVE-2025-24091)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-24091">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-24091">
 - [TS0NW0RK/CVE-2025-24091](https://github.com/TS0NW0RK/CVE-2025-24091)	<img alt="forks" src="https://img.shields.io/github/forks/TS0NW0RK/CVE-2025-24091">	<img alt="stars" src="https://img.shields.io/github/stars/TS0NW0RK/CVE-2025-24091">
+- [rooootdev/evilnotify](https://github.com/rooootdev/evilnotify)	<img alt="forks" src="https://img.shields.io/github/forks/rooootdev/evilnotify">	<img alt="stars" src="https://img.shields.io/github/stars/rooootdev/evilnotify">
 
 ---
 ## CVE-2025-24085 ()
@@ -6925,6 +6926,7 @@
 ## CVE-2025-13390 ()
 > 
 - [sidmug3307/CVE-2025-13390-Exploit](https://github.com/sidmug3307/CVE-2025-13390-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sidmug3307/CVE-2025-13390-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sidmug3307/CVE-2025-13390-Exploit">
+- [d0n601/CVE-2025-13390](https://github.com/d0n601/CVE-2025-13390)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-13390">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-13390">
 
 ---
 ## CVE-2025-1338 ()
