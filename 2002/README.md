@@ -26,6 +26,11 @@
 - [fauzanwijaya/CVE-2002-0748](https://github.com/fauzanwijaya/CVE-2002-0748)	<img alt="forks" src="https://img.shields.io/github/forks/fauzanwijaya/CVE-2002-0748">	<img alt="stars" src="https://img.shields.io/github/stars/fauzanwijaya/CVE-2002-0748">
 
 ---
+## CVE-2002-0083 ()
+> 
+- [stuxbench/dropbear-cve-2002-0083](https://github.com/stuxbench/dropbear-cve-2002-0083)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/dropbear-cve-2002-0083">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/dropbear-cve-2002-0083">
+
+---
 ## CVE-2002-0082 ()
 > 
 - [ratiros01/CVE-2002-0082](https://github.com/ratiros01/CVE-2002-0082)	<img alt="forks" src="https://img.shields.io/github/forks/ratiros01/CVE-2002-0082">	<img alt="stars" src="https://img.shields.io/github/stars/ratiros01/CVE-2002-0082">
