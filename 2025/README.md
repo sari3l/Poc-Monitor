@@ -2091,6 +2091,7 @@
 - [shamo0/react2shell-PoC](https://github.com/shamo0/react2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/react2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/react2shell-PoC">
 - [EynaExp/CVE-2025-55182-POC](https://github.com/EynaExp/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/EynaExp/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/EynaExp/CVE-2025-55182-POC">
 - [Emiyelbarto/CVE-2025-55182-PoC](https://github.com/Emiyelbarto/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Emiyelbarto/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Emiyelbarto/CVE-2025-55182-PoC">
+- [MrR0b0t19/CVE-2025-55182-shellinteractive](https://github.com/MrR0b0t19/CVE-2025-55182-shellinteractive)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2025-55182-shellinteractive">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2025-55182-shellinteractive">
 
 ---
 ## CVE-2025-54988 ()
