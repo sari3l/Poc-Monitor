@@ -465,6 +465,7 @@
 - [CymulateResearch/React2Shell-Scanner](https://github.com/CymulateResearch/React2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CymulateResearch/React2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CymulateResearch/React2Shell-Scanner">
 - [Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478](https://github.com/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">
 - [jctommasi/react2shellVulnApp](https://github.com/jctommasi/react2shellVulnApp)	<img alt="forks" src="https://img.shields.io/github/forks/jctommasi/react2shellVulnApp">	<img alt="stars" src="https://img.shields.io/github/stars/jctommasi/react2shellVulnApp">
+- [shamo0/react2shell-PoC](https://github.com/shamo0/react2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/react2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/react2shell-PoC">
 
 ---
 ## CVE-2025-66022 ()
@@ -2083,6 +2084,7 @@
 - [jctommasi/react2shellVulnApp](https://github.com/jctommasi/react2shellVulnApp)	<img alt="forks" src="https://img.shields.io/github/forks/jctommasi/react2shellVulnApp">	<img alt="stars" src="https://img.shields.io/github/stars/jctommasi/react2shellVulnApp">
 - [cropnet/CVE-2025-55182-POC-SCANNER](https://github.com/cropnet/CVE-2025-55182-POC-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/cropnet/CVE-2025-55182-POC-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/cropnet/CVE-2025-55182-POC-SCANNER">
 - [shamo0/react2shell-PoC](https://github.com/shamo0/react2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/react2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/react2shell-PoC">
+- [EynaExp/CVE-2025-55182-POC](https://github.com/EynaExp/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/EynaExp/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/EynaExp/CVE-2025-55182-POC">
 
 ---
 ## CVE-2025-54988 ()
