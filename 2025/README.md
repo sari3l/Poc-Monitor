@@ -2058,6 +2058,7 @@
 - [dissy123/cve-2025-55182](https://github.com/dissy123/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/dissy123/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/dissy123/cve-2025-55182">
 - [hzhsec/cve_2025_55182_test](https://github.com/hzhsec/cve_2025_55182_test)	<img alt="forks" src="https://img.shields.io/github/forks/hzhsec/cve_2025_55182_test">	<img alt="stars" src="https://img.shields.io/github/stars/hzhsec/cve_2025_55182_test">
 - [dwisiswant0/CVE-2025-55182](https://github.com/dwisiswant0/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-55182">
+- [Chelsea486MHz/CVE-2025-55182-test](https://github.com/Chelsea486MHz/CVE-2025-55182-test)	<img alt="forks" src="https://img.shields.io/github/forks/Chelsea486MHz/CVE-2025-55182-test">	<img alt="stars" src="https://img.shields.io/github/stars/Chelsea486MHz/CVE-2025-55182-test">
 
 ---
 ## CVE-2025-54988 ()
