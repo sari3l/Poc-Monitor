@@ -2025,6 +2025,7 @@
 - [fatguru/CVE-2025-55182-scanner](https://github.com/fatguru/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/fatguru/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/fatguru/CVE-2025-55182-scanner">
 - [Ashwesker/Blackash-CVE-2025-55182](https://github.com/Ashwesker/Blackash-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-55182">
 - [santihabib/CVE-2025-55182-analysis](https://github.com/santihabib/CVE-2025-55182-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/santihabib/CVE-2025-55182-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/santihabib/CVE-2025-55182-analysis">
+- [sherlocksecurity/CVE-2025-55182-Scanner-Exploit](https://github.com/sherlocksecurity/CVE-2025-55182-Scanner-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2025-55182-Scanner-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2025-55182-Scanner-Exploit">
 
 ---
 ## CVE-2025-54988 ()
