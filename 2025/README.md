@@ -2037,6 +2037,8 @@
 - [yiyihuohuo/CVE-2025-55182scan](https://github.com/yiyihuohuo/CVE-2025-55182scan)	<img alt="forks" src="https://img.shields.io/github/forks/yiyihuohuo/CVE-2025-55182scan">	<img alt="stars" src="https://img.shields.io/github/stars/yiyihuohuo/CVE-2025-55182scan">
 - [joshterrill/CVE-2025-55182-realistic-poc](https://github.com/joshterrill/CVE-2025-55182-realistic-poc)	<img alt="forks" src="https://img.shields.io/github/forks/joshterrill/CVE-2025-55182-realistic-poc">	<img alt="stars" src="https://img.shields.io/github/stars/joshterrill/CVE-2025-55182-realistic-poc">
 - [ThemeHackers/CVE-2025-55182](https://github.com/ThemeHackers/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-55182">
+- [Sat0ru-qwq/CVE-2025-55182-exp](https://github.com/Sat0ru-qwq/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Sat0ru-qwq/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Sat0ru-qwq/CVE-2025-55182-exp">
+- [rpjboyarski/java4script](https://github.com/rpjboyarski/java4script)	<img alt="forks" src="https://img.shields.io/github/forks/rpjboyarski/java4script">	<img alt="stars" src="https://img.shields.io/github/stars/rpjboyarski/java4script">
 
 ---
 ## CVE-2025-54988 ()
