@@ -2075,6 +2075,7 @@
 - [deadbeesec/CVE-2025-55182-for-Next.js-App-Router](https://github.com/deadbeesec/CVE-2025-55182-for-Next.js-App-Router)	<img alt="forks" src="https://img.shields.io/github/forks/deadbeesec/CVE-2025-55182-for-Next.js-App-Router">	<img alt="stars" src="https://img.shields.io/github/stars/deadbeesec/CVE-2025-55182-for-Next.js-App-Router">
 - [acheong08/CVE-2025-55182-vite-rsc](https://github.com/acheong08/CVE-2025-55182-vite-rsc)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2025-55182-vite-rsc">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2025-55182-vite-rsc">
 - [Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478](https://github.com/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">
+- [jctommasi/react2shellVulnApp](https://github.com/jctommasi/react2shellVulnApp)	<img alt="forks" src="https://img.shields.io/github/forks/jctommasi/react2shellVulnApp">	<img alt="stars" src="https://img.shields.io/github/stars/jctommasi/react2shellVulnApp">
 
 ---
 ## CVE-2025-54988 ()
