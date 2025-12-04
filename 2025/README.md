@@ -396,6 +396,11 @@
 - [Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE](https://github.com/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE">
 
 ---
+## CVE-2025-7338 ()
+> 
+- [r2c-CSE/multer-sca-rule-test_cve-2025-7338](https://github.com/r2c-CSE/multer-sca-rule-test_cve-2025-7338)	<img alt="forks" src="https://img.shields.io/github/forks/r2c-CSE/multer-sca-rule-test_cve-2025-7338">	<img alt="stars" src="https://img.shields.io/github/stars/r2c-CSE/multer-sca-rule-test_cve-2025-7338">
+
+---
 ## CVE-2025-6998 ()
 > 
 - [mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS](https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">
@@ -2076,6 +2081,8 @@
 - [acheong08/CVE-2025-55182-vite-rsc](https://github.com/acheong08/CVE-2025-55182-vite-rsc)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2025-55182-vite-rsc">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2025-55182-vite-rsc">
 - [Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478](https://github.com/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">
 - [jctommasi/react2shellVulnApp](https://github.com/jctommasi/react2shellVulnApp)	<img alt="forks" src="https://img.shields.io/github/forks/jctommasi/react2shellVulnApp">	<img alt="stars" src="https://img.shields.io/github/stars/jctommasi/react2shellVulnApp">
+- [cropnet/CVE-2025-55182-POC-SCANNER](https://github.com/cropnet/CVE-2025-55182-POC-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/cropnet/CVE-2025-55182-POC-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/cropnet/CVE-2025-55182-POC-SCANNER">
+- [shamo0/react2shell-PoC](https://github.com/shamo0/react2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/react2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/react2shell-PoC">
 
 ---
 ## CVE-2025-54988 ()
