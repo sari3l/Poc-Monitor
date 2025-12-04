@@ -7264,6 +7264,7 @@
 - [glen-pearson/ProxyLogon-CVE-2021-26855](https://github.com/glen-pearson/ProxyLogon-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/glen-pearson/ProxyLogon-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/glen-pearson/ProxyLogon-CVE-2021-26855">
 - [ZephrFish/Exch-CVE-2021-26855](https://github.com/ZephrFish/Exch-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Exch-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Exch-CVE-2021-26855">
 - [nomnomheapnom/CVE-2021-26855](https://github.com/nomnomheapnom/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/nomnomheapnom/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/nomnomheapnom/CVE-2021-26855">
+- [Wercd/CVE-2021-26855](https://github.com/Wercd/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/Wercd/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/Wercd/CVE-2021-26855">
 
 ---
 ## CVE-2021-26828 ()
