@@ -565,6 +565,11 @@
 - [abrewer251/CVE-2025-6543_CitrixNetScaler_PoC](https://github.com/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC">
 
 ---
+## CVE-2025-65346 ()
+> 
+- [Theethat-Thamwasin/CVE-2025-65346](https://github.com/Theethat-Thamwasin/CVE-2025-65346)	<img alt="forks" src="https://img.shields.io/github/forks/Theethat-Thamwasin/CVE-2025-65346">	<img alt="stars" src="https://img.shields.io/github/stars/Theethat-Thamwasin/CVE-2025-65346">
+
+---
 ## CVE-2025-65345 ()
 > 
 - [Theethat-Thamwasin/CVE-2025-65345](https://github.com/Theethat-Thamwasin/CVE-2025-65345)	<img alt="forks" src="https://img.shields.io/github/forks/Theethat-Thamwasin/CVE-2025-65345">	<img alt="stars" src="https://img.shields.io/github/stars/Theethat-Thamwasin/CVE-2025-65345">
@@ -2085,6 +2090,7 @@
 - [cropnet/CVE-2025-55182-POC-SCANNER](https://github.com/cropnet/CVE-2025-55182-POC-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/cropnet/CVE-2025-55182-POC-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/cropnet/CVE-2025-55182-POC-SCANNER">
 - [shamo0/react2shell-PoC](https://github.com/shamo0/react2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/react2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/react2shell-PoC">
 - [EynaExp/CVE-2025-55182-POC](https://github.com/EynaExp/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/EynaExp/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/EynaExp/CVE-2025-55182-POC">
+- [Emiyelbarto/CVE-2025-55182-PoC](https://github.com/Emiyelbarto/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Emiyelbarto/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Emiyelbarto/CVE-2025-55182-PoC">
 
 ---
 ## CVE-2025-54988 ()
