@@ -458,6 +458,7 @@
 - [songsanggggg/CVE-2025-55182](https://github.com/songsanggggg/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/songsanggggg/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/songsanggggg/CVE-2025-55182">
 - [Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
 - [CymulateResearch/React2Shell-Scanner](https://github.com/CymulateResearch/React2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CymulateResearch/React2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CymulateResearch/React2Shell-Scanner">
+- [Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478](https://github.com/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">
 
 ---
 ## CVE-2025-66022 ()
@@ -2070,6 +2071,9 @@
 - [CymulateResearch/React2Shell-Scanner](https://github.com/CymulateResearch/React2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CymulateResearch/React2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CymulateResearch/React2Shell-Scanner">
 - [0xPThree/cve-2025-55182](https://github.com/0xPThree/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/cve-2025-55182">
 - [SoICT-BKSEC/CVE-2025-55182-docker-lab](https://github.com/SoICT-BKSEC/CVE-2025-55182-docker-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SoICT-BKSEC/CVE-2025-55182-docker-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SoICT-BKSEC/CVE-2025-55182-docker-lab">
+- [deadbeesec/CVE-2025-55182-for-Next.js-App-Router](https://github.com/deadbeesec/CVE-2025-55182-for-Next.js-App-Router)	<img alt="forks" src="https://img.shields.io/github/forks/deadbeesec/CVE-2025-55182-for-Next.js-App-Router">	<img alt="stars" src="https://img.shields.io/github/stars/deadbeesec/CVE-2025-55182-for-Next.js-App-Router">
+- [acheong08/CVE-2025-55182-vite-rsc](https://github.com/acheong08/CVE-2025-55182-vite-rsc)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2025-55182-vite-rsc">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2025-55182-vite-rsc">
+- [Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478](https://github.com/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">
 
 ---
 ## CVE-2025-54988 ()
