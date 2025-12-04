@@ -6897,6 +6897,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 ## CVE-2024-2928 (2024-06-06T19:15:00)
 > A Local File Inclusion (LFI) vulnerability was identified in mlflow/mlflow, specifically in version 2.9.2, which was fixed in version 2.11.3. This vulnerability arises from the application's failure to properly validate URI fragments for directory traversal sequences such as '../'. An attacker can exploit this flaw by manipulating the fragment part of the URI to read arbitrary files on the local file system, including sensitive files like '/etc/passwd'. The vulnerability is a bypass to a previous patch that only addressed similar manipulation within the URI's query string, highlighting the need for comprehensive validation of all parts of a URI to prevent LFI attacks.
 - [nuridincersaygili/CVE-2024-2928](https://github.com/nuridincersaygili/CVE-2024-2928)	<img alt="forks" src="https://img.shields.io/github/forks/nuridincersaygili/CVE-2024-2928">	<img alt="stars" src="https://img.shields.io/github/stars/nuridincersaygili/CVE-2024-2928">
+- [rain321654/sjtu_CVE-2024-2928](https://github.com/rain321654/sjtu_CVE-2024-2928)	<img alt="forks" src="https://img.shields.io/github/forks/rain321654/sjtu_CVE-2024-2928">	<img alt="stars" src="https://img.shields.io/github/stars/rain321654/sjtu_CVE-2024-2928">
 
 ---
 ## CVE-2024-29272 (2024-03-22T04:15:00)
