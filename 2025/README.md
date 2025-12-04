@@ -2061,6 +2061,10 @@
 - [Chelsea486MHz/CVE-2025-55182-test](https://github.com/Chelsea486MHz/CVE-2025-55182-test)	<img alt="forks" src="https://img.shields.io/github/forks/Chelsea486MHz/CVE-2025-55182-test">	<img alt="stars" src="https://img.shields.io/github/stars/Chelsea486MHz/CVE-2025-55182-test">
 - [oways/React2shell-CVE-2025-55182-checker](https://github.com/oways/React2shell-CVE-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/oways/React2shell-CVE-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/oways/React2shell-CVE-2025-55182-checker">
 - [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/msanft/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/msanft/CVE-2025-55182">
+- [c0rydoras/CVE-2025-55182](https://github.com/c0rydoras/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/c0rydoras/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/c0rydoras/CVE-2025-55182">
+- [luskafaria/cve-2025-55182](https://github.com/luskafaria/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/luskafaria/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/luskafaria/cve-2025-55182">
+- [ivaavimusic/React19-fix-vibecoders](https://github.com/ivaavimusic/React19-fix-vibecoders)	<img alt="forks" src="https://img.shields.io/github/forks/ivaavimusic/React19-fix-vibecoders">	<img alt="stars" src="https://img.shields.io/github/stars/ivaavimusic/React19-fix-vibecoders">
+- [carlosaruy/CVE-2025-55182](https://github.com/carlosaruy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/carlosaruy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/carlosaruy/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
