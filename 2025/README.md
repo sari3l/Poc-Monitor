@@ -2041,6 +2041,8 @@
 - [rpjboyarski/java4script](https://github.com/rpjboyarski/java4script)	<img alt="forks" src="https://img.shields.io/github/forks/rpjboyarski/java4script">	<img alt="stars" src="https://img.shields.io/github/stars/rpjboyarski/java4script">
 - [mingyisecurity-lab/CVE-2025-55182-TOOLS](https://github.com/mingyisecurity-lab/CVE-2025-55182-TOOLS)	<img alt="forks" src="https://img.shields.io/github/forks/mingyisecurity-lab/CVE-2025-55182-TOOLS">	<img alt="stars" src="https://img.shields.io/github/stars/mingyisecurity-lab/CVE-2025-55182-TOOLS">
 - [joaonevess/rust-flight](https://github.com/joaonevess/rust-flight)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/rust-flight">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/rust-flight">
+- [sudo-Yangziran/CVE-2025-55182POC](https://github.com/sudo-Yangziran/CVE-2025-55182POC)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-Yangziran/CVE-2025-55182POC">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-Yangziran/CVE-2025-55182POC">
+- [songsanggggg/CVE-2025-55182](https://github.com/songsanggggg/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/songsanggggg/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/songsanggggg/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
