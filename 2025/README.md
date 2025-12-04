@@ -2067,6 +2067,7 @@
 - [ivaavimusic/React19-fix-vibecoders](https://github.com/ivaavimusic/React19-fix-vibecoders)	<img alt="forks" src="https://img.shields.io/github/forks/ivaavimusic/React19-fix-vibecoders">	<img alt="stars" src="https://img.shields.io/github/stars/ivaavimusic/React19-fix-vibecoders">
 - [carlosaruy/CVE-2025-55182](https://github.com/carlosaruy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/carlosaruy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/carlosaruy/CVE-2025-55182">
 - [CymulateResearch/React2Shell-Scanner](https://github.com/CymulateResearch/React2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CymulateResearch/React2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CymulateResearch/React2Shell-Scanner">
+- [0xPThree/cve-2025-55182](https://github.com/0xPThree/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
