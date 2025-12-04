@@ -2095,6 +2095,9 @@
 - [ps-interactive/cve-2025-55182](https://github.com/ps-interactive/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/cve-2025-55182">
 - [MedusaSH/POC-CVE-2025-55182](https://github.com/MedusaSH/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MedusaSH/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MedusaSH/POC-CVE-2025-55182">
 - [aquinn-r7/CVE-2025-55182-VulnCheckPOC](https://github.com/aquinn-r7/CVE-2025-55182-VulnCheckPOC)	<img alt="forks" src="https://img.shields.io/github/forks/aquinn-r7/CVE-2025-55182-VulnCheckPOC">	<img alt="stars" src="https://img.shields.io/github/stars/aquinn-r7/CVE-2025-55182-VulnCheckPOC">
+- [nxgn-kd01/cve-2025-55182-scanner](https://github.com/nxgn-kd01/cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nxgn-kd01/cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nxgn-kd01/cve-2025-55182-scanner">
+- [marginaldeer/CVE-2025-55182_scanner](https://github.com/marginaldeer/CVE-2025-55182_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marginaldeer/CVE-2025-55182_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marginaldeer/CVE-2025-55182_scanner">
+- [tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension](https://github.com/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">
 
 ---
 ## CVE-2025-54988 ()
