@@ -902,6 +902,11 @@
 - [winrar-7/CVE-2018-20250-WinRAR-ACE](https://github.com/winrar-7/CVE-2018-20250-WinRAR-ACE)	<img alt="forks" src="https://img.shields.io/github/forks/winrar-7/CVE-2018-20250-WinRAR-ACE">	<img alt="stars" src="https://img.shields.io/github/stars/winrar-7/CVE-2018-20250-WinRAR-ACE">
 
 ---
+## CVE-2018-20225 ()
+> 
+- [brabster/cve-2018-20225](https://github.com/brabster/cve-2018-20225)	<img alt="forks" src="https://img.shields.io/github/forks/brabster/cve-2018-20225">	<img alt="stars" src="https://img.shields.io/github/stars/brabster/cve-2018-20225">
+
+---
 ## CVE-2018-20175 (2019-03-15T18:29:00)
 > rdesktop versions up to and including v1.8.3 contains several Integer Signedness errors that lead to Out-Of-Bounds Reads in the file mcs.c and result in a Denial of Service (segfault).
 - [ahaShiyu/CVE-2018-20175](https://github.com/ahaShiyu/CVE-2018-20175)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-20175">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-20175">
