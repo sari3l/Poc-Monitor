@@ -2174,6 +2174,7 @@
 - [zessu/CVE-2025-55182-Typescript](https://github.com/zessu/CVE-2025-55182-Typescript)	<img alt="forks" src="https://img.shields.io/github/forks/zessu/CVE-2025-55182-Typescript">	<img alt="stars" src="https://img.shields.io/github/stars/zessu/CVE-2025-55182-Typescript">
 - [subzer0x0/React2Shell](https://github.com/subzer0x0/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/subzer0x0/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/subzer0x0/React2Shell">
 - [ceortiz33/CVE-2025-55182](https://github.com/ceortiz33/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ceortiz33/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ceortiz33/CVE-2025-55182">
+- [NathanJ60/react2shell-interactive](https://github.com/NathanJ60/react2shell-interactive)	<img alt="forks" src="https://img.shields.io/github/forks/NathanJ60/react2shell-interactive">	<img alt="stars" src="https://img.shields.io/github/stars/NathanJ60/react2shell-interactive">
 
 ---
 ## CVE-2025-54988 ()
