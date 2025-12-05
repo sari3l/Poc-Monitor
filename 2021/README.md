@@ -6658,6 +6658,7 @@
 > 
 - [yunus-a1i/CVE-2021-3007-docker-poc](https://github.com/yunus-a1i/CVE-2021-3007-docker-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yunus-a1i/CVE-2021-3007-docker-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yunus-a1i/CVE-2021-3007-docker-poc">
 - [Vulnmachines/ZF3_CVE-2021-3007](https://github.com/Vulnmachines/ZF3_CVE-2021-3007)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/ZF3_CVE-2021-3007">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/ZF3_CVE-2021-3007">
+- [KrE80r/cve-2021-3007-vulnerable](https://github.com/KrE80r/cve-2021-3007-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/cve-2021-3007-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/cve-2021-3007-vulnerable">
 
 ---
 ## CVE-2021-30047 ()
