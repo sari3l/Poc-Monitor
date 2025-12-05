@@ -2133,6 +2133,7 @@
 - [hoosin/CVE-2025-55182](https://github.com/hoosin/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hoosin/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hoosin/CVE-2025-55182">
 - [RuoJi6/CVE-2025-55182-RCE-shell](https://github.com/RuoJi6/CVE-2025-55182-RCE-shell)	<img alt="forks" src="https://img.shields.io/github/forks/RuoJi6/CVE-2025-55182-RCE-shell">	<img alt="stars" src="https://img.shields.io/github/stars/RuoJi6/CVE-2025-55182-RCE-shell">
 - [sherlocksecurity/CVE-2025-55182-Exploit-scanner](https://github.com/sherlocksecurity/CVE-2025-55182-Exploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2025-55182-Exploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2025-55182-Exploit-scanner">
+- [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)	<img alt="forks" src="https://img.shields.io/github/forks/lachlan2k/React2Shell-CVE-2025-55182-original-poc">	<img alt="stars" src="https://img.shields.io/github/stars/lachlan2k/React2Shell-CVE-2025-55182-original-poc">
 
 ---
 ## CVE-2025-54988 ()
