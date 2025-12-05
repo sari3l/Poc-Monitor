@@ -9750,6 +9750,11 @@ authentication.   
 - [Nxploited/CVE-2024-12849-Poc](https://github.com/Nxploited/CVE-2024-12849-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12849-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12849-Poc">
 
 ---
+## CVE-2024-12828 ()
+> 
+- [fanjm2025-jeremy/CVE-2024-12828-PoC](https://github.com/fanjm2025-jeremy/CVE-2024-12828-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fanjm2025-jeremy/CVE-2024-12828-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fanjm2025-jeremy/CVE-2024-12828-PoC">
+
+---
 ## CVE-2024-1269 (2024-02-07T02:15:00)
 > A vulnerability has been found in SourceCodester Product Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file /supplier.php. The manipulation of the argument supplier_name/supplier_contact leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-253012.
 - [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-1269">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-1269">
