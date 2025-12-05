@@ -480,6 +480,7 @@
 - [freeqaz/react2shell](https://github.com/freeqaz/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/freeqaz/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/freeqaz/react2shell">
 - [imbas007/POC-CVE-2025-66478](https://github.com/imbas007/POC-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-66478">
 - [nehkark/CVE-2025-55182](https://github.com/nehkark/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-55182">
+- [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
 
 ---
 ## CVE-2025-66022 ()
@@ -2167,6 +2168,7 @@
 - [rl0x01/CVE-2025-55182_PoC](https://github.com/rl0x01/CVE-2025-55182_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/rl0x01/CVE-2025-55182_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/rl0x01/CVE-2025-55182_PoC">
 - [f0xyx/CVE-2025-55182-Scanner](https://github.com/f0xyx/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/f0xyx/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/f0xyx/CVE-2025-55182-Scanner">
 - [Atlantis02-sec/Vulnerability-assessment](https://github.com/Atlantis02-sec/Vulnerability-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Atlantis02-sec/Vulnerability-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Atlantis02-sec/Vulnerability-assessment">
+- [Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-](https://github.com/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-">
 
 ---
 ## CVE-2025-54988 ()
