@@ -2141,6 +2141,7 @@
 - [aliclub0x00/CVE-2025-55182-POC-NEXTJS](https://github.com/aliclub0x00/CVE-2025-55182-POC-NEXTJS)	<img alt="forks" src="https://img.shields.io/github/forks/aliclub0x00/CVE-2025-55182-POC-NEXTJS">	<img alt="stars" src="https://img.shields.io/github/stars/aliclub0x00/CVE-2025-55182-POC-NEXTJS">
 - [logesh-GIT001/CVE-2025-55182](https://github.com/logesh-GIT001/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/logesh-GIT001/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/logesh-GIT001/CVE-2025-55182">
 - [m3m0ryc0rrupt/CVE-2025-55182-PoC](https://github.com/m3m0ryc0rrupt/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0ryc0rrupt/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0ryc0rrupt/CVE-2025-55182-PoC">
+- [ABCFabian/React2Shell-CVE-2025-55182-Testing-Environment](https://github.com/ABCFabian/React2Shell-CVE-2025-55182-Testing-Environment)	<img alt="forks" src="https://img.shields.io/github/forks/ABCFabian/React2Shell-CVE-2025-55182-Testing-Environment">	<img alt="stars" src="https://img.shields.io/github/stars/ABCFabian/React2Shell-CVE-2025-55182-Testing-Environment">
 
 ---
 ## CVE-2025-54988 ()
