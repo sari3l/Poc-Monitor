@@ -2169,6 +2169,7 @@
 - [f0xyx/CVE-2025-55182-Scanner](https://github.com/f0xyx/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/f0xyx/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/f0xyx/CVE-2025-55182-Scanner">
 - [Atlantis02-sec/Vulnerability-assessment](https://github.com/Atlantis02-sec/Vulnerability-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Atlantis02-sec/Vulnerability-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Atlantis02-sec/Vulnerability-assessment">
 - [Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-](https://github.com/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-">
+- [sh1ro8/react2shell](https://github.com/sh1ro8/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/sh1ro8/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/sh1ro8/react2shell">
 
 ---
 ## CVE-2025-54988 ()
