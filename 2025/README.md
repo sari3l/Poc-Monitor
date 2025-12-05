@@ -2161,6 +2161,8 @@
 - [nehkark/CVE-2025-55182](https://github.com/nehkark/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-55182">
 - [RajChowdhury240/React2Shell-CVE-2025-55182](https://github.com/RajChowdhury240/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RajChowdhury240/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RajChowdhury240/React2Shell-CVE-2025-55182">
 - [prestonhashworth/cve-2025-55182](https://github.com/prestonhashworth/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/prestonhashworth/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/prestonhashworth/cve-2025-55182">
+- [nerium-security/CVE-2025-55182](https://github.com/nerium-security/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nerium-security/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nerium-security/CVE-2025-55182">
+- [nomorebreach/POC-CVE-2025-55182](https://github.com/nomorebreach/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nomorebreach/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nomorebreach/POC-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
