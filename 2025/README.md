@@ -2118,6 +2118,9 @@
 - [selectarget/CVE-2025-55182-Exploit](https://github.com/selectarget/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/selectarget/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/selectarget/CVE-2025-55182-Exploit">
 - [topstar88/CVE-2025-55182](https://github.com/topstar88/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/topstar88/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/topstar88/CVE-2025-55182">
 - [Darker-Ink/react-ssr-vulnerability](https://github.com/Darker-Ink/react-ssr-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Darker-Ink/react-ssr-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Darker-Ink/react-ssr-vulnerability">
+- [onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI](https://github.com/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI">
+- [TH-SecForge/CVE-2025-55182](https://github.com/TH-SecForge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-55182">
+- [pyroxenites/Nextjs_RCE_Exploit_Tool](https://github.com/pyroxenites/Nextjs_RCE_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/pyroxenites/Nextjs_RCE_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/pyroxenites/Nextjs_RCE_Exploit_Tool">
 
 ---
 ## CVE-2025-54988 ()
