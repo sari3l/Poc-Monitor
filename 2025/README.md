@@ -2154,6 +2154,8 @@
 - [Golden-Secure/CVE-2025-55182](https://github.com/Golden-Secure/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Golden-Secure/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Golden-Secure/CVE-2025-55182">
 - [Rat5ak/React2Shell-CVE-2025-55182](https://github.com/Rat5ak/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/React2Shell-CVE-2025-55182">
 - [XiaomingX/CVE-2025-55182-poc](https://github.com/XiaomingX/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2025-55182-poc">
+- [Rat5ak/CVE-2025-55182-React2Shell-RCE-POC](https://github.com/Rat5ak/CVE-2025-55182-React2Shell-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2025-55182-React2Shell-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2025-55182-React2Shell-RCE-POC">
+- [alexandre-briongos-wavestone/react-cve-2025-55182-lab](https://github.com/alexandre-briongos-wavestone/react-cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/alexandre-briongos-wavestone/react-cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/alexandre-briongos-wavestone/react-cve-2025-55182-lab">
 
 ---
 ## CVE-2025-54988 ()
