@@ -2527,6 +2527,11 @@
 - [moezbouzayani9/Pi-hole-XSS-CVE-2025-53533](https://github.com/moezbouzayani9/Pi-hole-XSS-CVE-2025-53533)	<img alt="forks" src="https://img.shields.io/github/forks/moezbouzayani9/Pi-hole-XSS-CVE-2025-53533">	<img alt="stars" src="https://img.shields.io/github/stars/moezbouzayani9/Pi-hole-XSS-CVE-2025-53533">
 
 ---
+## CVE-2025-5352 ()
+> 
+- [sahiloj/CVE-2025-5352](https://github.com/sahiloj/CVE-2025-5352)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2025-5352">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2025-5352">
+
+---
 ## CVE-2025-5349 ()
 > 
 - [olimpiofreitas/CVE-2025-5349-Scanner](https://github.com/olimpiofreitas/CVE-2025-5349-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/olimpiofreitas/CVE-2025-5349-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/olimpiofreitas/CVE-2025-5349-Scanner">
