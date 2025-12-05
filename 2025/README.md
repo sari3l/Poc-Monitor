@@ -2160,6 +2160,7 @@
 - [alexandre-briongos-wavestone/react-cve-2025-55182-lab](https://github.com/alexandre-briongos-wavestone/react-cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/alexandre-briongos-wavestone/react-cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/alexandre-briongos-wavestone/react-cve-2025-55182-lab">
 - [nehkark/CVE-2025-55182](https://github.com/nehkark/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-55182">
 - [RajChowdhury240/React2Shell-CVE-2025-55182](https://github.com/RajChowdhury240/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RajChowdhury240/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RajChowdhury240/React2Shell-CVE-2025-55182">
+- [prestonhashworth/cve-2025-55182](https://github.com/prestonhashworth/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/prestonhashworth/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/prestonhashworth/cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
