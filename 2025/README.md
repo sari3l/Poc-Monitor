@@ -2124,6 +2124,8 @@
 - [TH-SecForge/CVE-2025-55182](https://github.com/TH-SecForge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-55182">
 - [pyroxenites/Nextjs_RCE_Exploit_Tool](https://github.com/pyroxenites/Nextjs_RCE_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/pyroxenites/Nextjs_RCE_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/pyroxenites/Nextjs_RCE_Exploit_Tool">
 - [Chocapikk/CVE-2025-55182](https://github.com/Chocapikk/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-55182">
+- [Spritualkb/CVE-2025-55182-exp](https://github.com/Spritualkb/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Spritualkb/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Spritualkb/CVE-2025-55182-exp">
+- [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)	<img alt="forks" src="https://img.shields.io/github/forks/mrknow001/RSC_Detector">	<img alt="stars" src="https://img.shields.io/github/stars/mrknow001/RSC_Detector">
 
 ---
 ## CVE-2025-54988 ()
