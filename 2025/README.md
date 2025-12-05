@@ -2175,6 +2175,7 @@
 - [subzer0x0/React2Shell](https://github.com/subzer0x0/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/subzer0x0/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/subzer0x0/React2Shell">
 - [ceortiz33/CVE-2025-55182](https://github.com/ceortiz33/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ceortiz33/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ceortiz33/CVE-2025-55182">
 - [NathanJ60/react2shell-interactive](https://github.com/NathanJ60/react2shell-interactive)	<img alt="forks" src="https://img.shields.io/github/forks/NathanJ60/react2shell-interactive">	<img alt="stars" src="https://img.shields.io/github/stars/NathanJ60/react2shell-interactive">
+- [GarethMSheldon/React2Shell-CVE-2025-55182-Detector](https://github.com/GarethMSheldon/React2Shell-CVE-2025-55182-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/GarethMSheldon/React2Shell-CVE-2025-55182-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/GarethMSheldon/React2Shell-CVE-2025-55182-Detector">
 
 ---
 ## CVE-2025-54988 ()
