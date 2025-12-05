@@ -2126,6 +2126,7 @@
 - [Chocapikk/CVE-2025-55182](https://github.com/Chocapikk/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-55182">
 - [Spritualkb/CVE-2025-55182-exp](https://github.com/Spritualkb/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Spritualkb/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Spritualkb/CVE-2025-55182-exp">
 - [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)	<img alt="forks" src="https://img.shields.io/github/forks/mrknow001/RSC_Detector">	<img alt="stars" src="https://img.shields.io/github/stars/mrknow001/RSC_Detector">
+- [younesZdDz/CVE-2025-55182](https://github.com/younesZdDz/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/younesZdDz/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/younesZdDz/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
