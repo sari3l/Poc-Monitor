@@ -2171,6 +2171,8 @@
 - [Atlantis02-sec/Vulnerability-assessment](https://github.com/Atlantis02-sec/Vulnerability-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Atlantis02-sec/Vulnerability-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Atlantis02-sec/Vulnerability-assessment">
 - [Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-](https://github.com/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4at0r/Next.js-RCE-Scanner-BurpSuite-Extension-">
 - [sh1ro8/react2shell](https://github.com/sh1ro8/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/sh1ro8/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/sh1ro8/react2shell">
+- [zessu/CVE-2025-55182-Typescript](https://github.com/zessu/CVE-2025-55182-Typescript)	<img alt="forks" src="https://img.shields.io/github/forks/zessu/CVE-2025-55182-Typescript">	<img alt="stars" src="https://img.shields.io/github/stars/zessu/CVE-2025-55182-Typescript">
+- [subzer0x0/React2Shell](https://github.com/subzer0x0/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/subzer0x0/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/subzer0x0/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
