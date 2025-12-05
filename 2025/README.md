@@ -2135,6 +2135,7 @@
 - [sherlocksecurity/CVE-2025-55182-Exploit-scanner](https://github.com/sherlocksecurity/CVE-2025-55182-Exploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2025-55182-Exploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2025-55182-Exploit-scanner">
 - [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)	<img alt="forks" src="https://img.shields.io/github/forks/lachlan2k/React2Shell-CVE-2025-55182-original-poc">	<img alt="stars" src="https://img.shields.io/github/stars/lachlan2k/React2Shell-CVE-2025-55182-original-poc">
 - [Pizz33/CVE-2025-55182-burpscanner](https://github.com/Pizz33/CVE-2025-55182-burpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/Pizz33/CVE-2025-55182-burpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/Pizz33/CVE-2025-55182-burpscanner">
+- [Sotatek-KhaiNguyen3/CVE-2025-55182](https://github.com/Sotatek-KhaiNguyen3/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sotatek-KhaiNguyen3/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sotatek-KhaiNguyen3/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
