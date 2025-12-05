@@ -2182,6 +2182,8 @@
 - [NathanJ60/react2shell-interactive](https://github.com/NathanJ60/react2shell-interactive)	<img alt="forks" src="https://img.shields.io/github/forks/NathanJ60/react2shell-interactive">	<img alt="stars" src="https://img.shields.io/github/stars/NathanJ60/react2shell-interactive">
 - [GarethMSheldon/React2Shell-CVE-2025-55182-Detector](https://github.com/GarethMSheldon/React2Shell-CVE-2025-55182-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/GarethMSheldon/React2Shell-CVE-2025-55182-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/GarethMSheldon/React2Shell-CVE-2025-55182-Detector">
 - [alsaut1/react2shell-lab](https://github.com/alsaut1/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/alsaut1/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/alsaut1/react2shell-lab">
+- [pax-k/react2shell-CVE-2025-55182-full-rce-script](https://github.com/pax-k/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/pax-k/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/pax-k/react2shell-CVE-2025-55182-full-rce-script">
+- [mxm0z/r2s](https://github.com/mxm0z/r2s)	<img alt="forks" src="https://img.shields.io/github/forks/mxm0z/r2s">	<img alt="stars" src="https://img.shields.io/github/stars/mxm0z/r2s">
 
 ---
 ## CVE-2025-54988 ()
