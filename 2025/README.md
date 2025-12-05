@@ -481,6 +481,7 @@
 - [imbas007/POC-CVE-2025-66478](https://github.com/imbas007/POC-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-66478">
 - [nehkark/CVE-2025-55182](https://github.com/nehkark/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-55182">
 - [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
+- [sh1ro8/react2shell](https://github.com/sh1ro8/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/sh1ro8/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/sh1ro8/react2shell">
 
 ---
 ## CVE-2025-66022 ()
