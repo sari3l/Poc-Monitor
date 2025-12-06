@@ -2246,6 +2246,7 @@
 - [AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web](https://github.com/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web">
 - [Hghost0x00/CVE-2025-55182](https://github.com/Hghost0x00/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Hghost0x00/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Hghost0x00/CVE-2025-55182">
 - [0xN7y/CVE-2025-55182](https://github.com/0xN7y/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xN7y/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xN7y/CVE-2025-55182">
+- [zamdevio/r2s](https://github.com/zamdevio/r2s)	<img alt="forks" src="https://img.shields.io/github/forks/zamdevio/r2s">	<img alt="stars" src="https://img.shields.io/github/stars/zamdevio/r2s">
 
 ---
 ## CVE-2025-54988 ()
