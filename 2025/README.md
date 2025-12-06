@@ -2234,6 +2234,7 @@
 - [Bashamega/react-CVE-2025-55182-fixer](https://github.com/Bashamega/react-CVE-2025-55182-fixer)	<img alt="forks" src="https://img.shields.io/github/forks/Bashamega/react-CVE-2025-55182-fixer">	<img alt="stars" src="https://img.shields.io/github/stars/Bashamega/react-CVE-2025-55182-fixer">
 - [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
 - [fullhunt/react2shell-test-server](https://github.com/fullhunt/react2shell-test-server)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/react2shell-test-server">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/react2shell-test-server">
+- [orgito1015/CVE-2025-55182-RCE-Exploit](https://github.com/orgito1015/CVE-2025-55182-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-RCE-Exploit">
 
 ---
 ## CVE-2025-54988 ()
