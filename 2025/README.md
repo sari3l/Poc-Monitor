@@ -2231,6 +2231,9 @@
 - [mbanyamer/React2Shell](https://github.com/mbanyamer/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/React2Shell">
 - [rocklambros/React2Shell_Hunter](https://github.com/rocklambros/React2Shell_Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/rocklambros/React2Shell_Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/rocklambros/React2Shell_Hunter">
 - [philparzer/nextjs-react2shell-detect](https://github.com/philparzer/nextjs-react2shell-detect)	<img alt="forks" src="https://img.shields.io/github/forks/philparzer/nextjs-react2shell-detect">	<img alt="stars" src="https://img.shields.io/github/stars/philparzer/nextjs-react2shell-detect">
+- [Bashamega/react-CVE-2025-55182-fixer](https://github.com/Bashamega/react-CVE-2025-55182-fixer)	<img alt="forks" src="https://img.shields.io/github/forks/Bashamega/react-CVE-2025-55182-fixer">	<img alt="stars" src="https://img.shields.io/github/stars/Bashamega/react-CVE-2025-55182-fixer">
+- [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
+- [fullhunt/react2shell-test-server](https://github.com/fullhunt/react2shell-test-server)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/react2shell-test-server">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/react2shell-test-server">
 
 ---
 ## CVE-2025-54988 ()
