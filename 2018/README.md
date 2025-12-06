@@ -1609,6 +1609,11 @@
 - [Live-Hack-CVE/CVE-2018-13096](https://github.com/Live-Hack-CVE/CVE-2018-13096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-13096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-13096">
 
 ---
+## CVE-2018-1306 ()
+> 
+- [Imsol0/APACHE-CVE-2018-1306-Lab-project](https://github.com/Imsol0/APACHE-CVE-2018-1306-Lab-project)	<img alt="forks" src="https://img.shields.io/github/forks/Imsol0/APACHE-CVE-2018-1306-Lab-project">	<img alt="stars" src="https://img.shields.io/github/stars/Imsol0/APACHE-CVE-2018-1306-Lab-project">
+
+---
 ## CVE-2018-1297 (2018-02-13T12:29:00)
 > When using Distributed Test only (RMI based), Apache JMeter 2.x and 3.x uses an unsecured RMI connection. This could allow an attacker to get Access to JMeterEngine and send unauthorized code.
 - [48484848484848/Jmeter-CVE-2018-1297-](https://github.com/48484848484848/Jmeter-CVE-2018-1297-)	<img alt="forks" src="https://img.shields.io/github/forks/48484848484848/Jmeter-CVE-2018-1297-">	<img alt="stars" src="https://img.shields.io/github/stars/48484848484848/Jmeter-CVE-2018-1297-">
