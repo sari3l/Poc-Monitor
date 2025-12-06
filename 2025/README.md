@@ -2192,6 +2192,7 @@
 - [5olitude/CVES](https://github.com/5olitude/CVES)	<img alt="forks" src="https://img.shields.io/github/forks/5olitude/CVES">	<img alt="stars" src="https://img.shields.io/github/stars/5olitude/CVES">
 - [grp-ops/react2shell](https://github.com/grp-ops/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/grp-ops/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/grp-ops/react2shell">
 - [mohit121312/CVE-2025-55182_full_exploit](https://github.com/mohit121312/CVE-2025-55182_full_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mohit121312/CVE-2025-55182_full_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mohit121312/CVE-2025-55182_full_exploit">
+- [fankh/CVE-2025-55182-docker-test](https://github.com/fankh/CVE-2025-55182-docker-test)	<img alt="forks" src="https://img.shields.io/github/forks/fankh/CVE-2025-55182-docker-test">	<img alt="stars" src="https://img.shields.io/github/stars/fankh/CVE-2025-55182-docker-test">
 
 ---
 ## CVE-2025-54988 ()
