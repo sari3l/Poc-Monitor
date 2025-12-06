@@ -460,6 +460,7 @@
 ## CVE-2025-66516 ()
 > 
 - [B1gh0rnn/CVE-2025-66516](https://github.com/B1gh0rnn/CVE-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/B1gh0rnn/CVE-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/B1gh0rnn/CVE-2025-66516">
+- [taylorflexca/CVE-2025-66516-Exploit](https://github.com/taylorflexca/CVE-2025-66516-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/taylorflexca/CVE-2025-66516-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/taylorflexca/CVE-2025-66516-Exploit">
 
 ---
 ## CVE-2025-66478 ()
@@ -2223,6 +2224,8 @@
 - [Archerkong/CVE-2025-55182](https://github.com/Archerkong/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Archerkong/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Archerkong/CVE-2025-55182">
 - [MaxK9999/CVE-2025-55182](https://github.com/MaxK9999/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MaxK9999/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MaxK9999/CVE-2025-55182">
 - [Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-](https://github.com/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-">
+- [yunaranyancat/CVE-2025-55182-NSE](https://github.com/yunaranyancat/CVE-2025-55182-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/yunaranyancat/CVE-2025-55182-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/yunaranyancat/CVE-2025-55182-NSE">
+- [MrSol0/CVE-2025-55182-Terminal](https://github.com/MrSol0/CVE-2025-55182-Terminal)	<img alt="forks" src="https://img.shields.io/github/forks/MrSol0/CVE-2025-55182-Terminal">	<img alt="stars" src="https://img.shields.io/github/stars/MrSol0/CVE-2025-55182-Terminal">
 
 ---
 ## CVE-2025-54988 ()
