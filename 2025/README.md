@@ -2227,6 +2227,7 @@
 - [yunaranyancat/CVE-2025-55182-NSE](https://github.com/yunaranyancat/CVE-2025-55182-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/yunaranyancat/CVE-2025-55182-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/yunaranyancat/CVE-2025-55182-NSE">
 - [MrSol0/CVE-2025-55182-Terminal](https://github.com/MrSol0/CVE-2025-55182-Terminal)	<img alt="forks" src="https://img.shields.io/github/forks/MrSol0/CVE-2025-55182-Terminal">	<img alt="stars" src="https://img.shields.io/github/stars/MrSol0/CVE-2025-55182-Terminal">
 - [zack0x01/vuln-app-CVE-2025-55182](https://github.com/zack0x01/vuln-app-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zack0x01/vuln-app-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zack0x01/vuln-app-CVE-2025-55182">
+- [zack0x01/CVE-2025-55182-advanced-scanner-](https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-)	<img alt="forks" src="https://img.shields.io/github/forks/zack0x01/CVE-2025-55182-advanced-scanner-">	<img alt="stars" src="https://img.shields.io/github/stars/zack0x01/CVE-2025-55182-advanced-scanner-">
 
 ---
 ## CVE-2025-54988 ()
