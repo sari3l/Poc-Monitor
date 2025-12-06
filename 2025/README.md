@@ -2189,6 +2189,7 @@
 - [StealthMoud/CVE-2025-55182-Scanner](https://github.com/StealthMoud/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/CVE-2025-55182-Scanner">
 - [yanoshercohen/CVE-2025-55182](https://github.com/yanoshercohen/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yanoshercohen/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yanoshercohen/CVE-2025-55182">
 - [emredavut/CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/emredavut/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/emredavut/CVE-2025-55182">
+- [5olitude/CVES](https://github.com/5olitude/CVES)	<img alt="forks" src="https://img.shields.io/github/forks/5olitude/CVES">	<img alt="stars" src="https://img.shields.io/github/stars/5olitude/CVES">
 
 ---
 ## CVE-2025-54988 ()
