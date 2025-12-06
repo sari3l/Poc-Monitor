@@ -2245,6 +2245,7 @@
 - [w3irdo21/CVE-2025-55182-react2shell](https://github.com/w3irdo21/CVE-2025-55182-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/w3irdo21/CVE-2025-55182-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/w3irdo21/CVE-2025-55182-react2shell">
 - [AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web](https://github.com/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web">
 - [Hghost0x00/CVE-2025-55182](https://github.com/Hghost0x00/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Hghost0x00/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Hghost0x00/CVE-2025-55182">
+- [0xN7y/CVE-2025-55182](https://github.com/0xN7y/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xN7y/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xN7y/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
