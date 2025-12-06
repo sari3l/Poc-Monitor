@@ -494,6 +494,8 @@
 - [emredavut/CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/emredavut/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/emredavut/CVE-2025-55182">
 - [pax-k/react2shell-CVE-2025-55182-full-rce-script](https://github.com/pax-k/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/pax-k/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/pax-k/react2shell-CVE-2025-55182-full-rce-script">
 - [sumanrox/rschunter](https://github.com/sumanrox/rschunter)	<img alt="forks" src="https://img.shields.io/github/forks/sumanrox/rschunter">	<img alt="stars" src="https://img.shields.io/github/stars/sumanrox/rschunter">
+- [joaonevess/chain-reaction](https://github.com/joaonevess/chain-reaction)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/chain-reaction">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/chain-reaction">
+- [ayoub-intigriti/react2shell-cve](https://github.com/ayoub-intigriti/react2shell-cve)	<img alt="forks" src="https://img.shields.io/github/forks/ayoub-intigriti/react2shell-cve">	<img alt="stars" src="https://img.shields.io/github/stars/ayoub-intigriti/react2shell-cve">
 
 ---
 ## CVE-2025-66022 ()
@@ -2214,6 +2216,7 @@
 - [cypholab/evilact](https://github.com/cypholab/evilact)	<img alt="forks" src="https://img.shields.io/github/forks/cypholab/evilact">	<img alt="stars" src="https://img.shields.io/github/stars/cypholab/evilact">
 - [joaonevess/chain-reaction](https://github.com/joaonevess/chain-reaction)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/chain-reaction">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/chain-reaction">
 - [sumanrox/rschunter](https://github.com/sumanrox/rschunter)	<img alt="forks" src="https://img.shields.io/github/forks/sumanrox/rschunter">	<img alt="stars" src="https://img.shields.io/github/stars/sumanrox/rschunter">
+- [ayoub-intigriti/react2shell-cve](https://github.com/ayoub-intigriti/react2shell-cve)	<img alt="forks" src="https://img.shields.io/github/forks/ayoub-intigriti/react2shell-cve">	<img alt="stars" src="https://img.shields.io/github/stars/ayoub-intigriti/react2shell-cve">
 
 ---
 ## CVE-2025-54988 ()
@@ -2351,11 +2354,12 @@
 ## CVE-2025-54309 ()
 > 
 - [issamjr/CVE-2025-54309-EXPLOIT](https://github.com/issamjr/CVE-2025-54309-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-54309-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-54309-EXPLOIT">
-- [blueisbeautiful/CVE-2025-54309](https://github.com/blueisbeautiful/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-54309">
+- [brokendreamsclub/CVE-2025-54309](https://github.com/brokendreamsclub/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/brokendreamsclub/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/brokendreamsclub/CVE-2025-54309">
 - [watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309](https://github.com/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309">
 - [whisperer1290/CVE-2025-54309__Enhanced_exploit](https://github.com/whisperer1290/CVE-2025-54309__Enhanced_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/whisperer1290/CVE-2025-54309__Enhanced_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/whisperer1290/CVE-2025-54309__Enhanced_exploit">
 - [chin-tech/CrushFTP_CVE-2025-54309](https://github.com/chin-tech/CrushFTP_CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/chin-tech/CrushFTP_CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/chin-tech/CrushFTP_CVE-2025-54309">
 - [Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309">
+- [foregenix/CVE-2025-54309](https://github.com/foregenix/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/foregenix/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/foregenix/CVE-2025-54309">
 
 ---
 ## CVE-2025-54253 ()
