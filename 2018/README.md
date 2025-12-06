@@ -1612,6 +1612,7 @@
 ## CVE-2018-1306 ()
 > 
 - [Imsol0/APACHE-CVE-2018-1306-Lab-project](https://github.com/Imsol0/APACHE-CVE-2018-1306-Lab-project)	<img alt="forks" src="https://img.shields.io/github/forks/Imsol0/APACHE-CVE-2018-1306-Lab-project">	<img alt="stars" src="https://img.shields.io/github/stars/Imsol0/APACHE-CVE-2018-1306-Lab-project">
+- [JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306](https://github.com/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306)	<img alt="forks" src="https://img.shields.io/github/forks/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306">	<img alt="stars" src="https://img.shields.io/github/stars/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306">
 
 ---
 ## CVE-2018-1297 (2018-02-13T12:29:00)
