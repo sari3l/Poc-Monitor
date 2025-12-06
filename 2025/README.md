@@ -2212,6 +2212,8 @@
 - [fankh/cve-2025-55182-test-lab-windows](https://github.com/fankh/cve-2025-55182-test-lab-windows)	<img alt="forks" src="https://img.shields.io/github/forks/fankh/cve-2025-55182-test-lab-windows">	<img alt="stars" src="https://img.shields.io/github/stars/fankh/cve-2025-55182-test-lab-windows">
 - [shren207/CVE-2025-55182](https://github.com/shren207/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/shren207/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/shren207/CVE-2025-55182">
 - [cypholab/evilact](https://github.com/cypholab/evilact)	<img alt="forks" src="https://img.shields.io/github/forks/cypholab/evilact">	<img alt="stars" src="https://img.shields.io/github/stars/cypholab/evilact">
+- [joaonevess/chain-reaction](https://github.com/joaonevess/chain-reaction)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/chain-reaction">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/chain-reaction">
+- [sumanrox/rschunter](https://github.com/sumanrox/rschunter)	<img alt="forks" src="https://img.shields.io/github/forks/sumanrox/rschunter">	<img alt="stars" src="https://img.shields.io/github/stars/sumanrox/rschunter">
 
 ---
 ## CVE-2025-54988 ()
@@ -2353,6 +2355,7 @@
 - [watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309](https://github.com/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309">
 - [whisperer1290/CVE-2025-54309__Enhanced_exploit](https://github.com/whisperer1290/CVE-2025-54309__Enhanced_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/whisperer1290/CVE-2025-54309__Enhanced_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/whisperer1290/CVE-2025-54309__Enhanced_exploit">
 - [chin-tech/CrushFTP_CVE-2025-54309](https://github.com/chin-tech/CrushFTP_CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/chin-tech/CrushFTP_CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/chin-tech/CrushFTP_CVE-2025-54309">
+- [Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309">
 
 ---
 ## CVE-2025-54253 ()
