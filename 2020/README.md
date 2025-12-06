@@ -4445,6 +4445,11 @@
 - [Live-Hack-CVE/CVE-2020-13765](https://github.com/Live-Hack-CVE/CVE-2020-13765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13765">
 
 ---
+## CVE-2020-13756 ()
+> 
+- [KrE80r/CVE-2020-13756-env](https://github.com/KrE80r/CVE-2020-13756-env)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/CVE-2020-13756-env">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/CVE-2020-13756-env">
+
+---
 ## CVE-2020-13659 (2020-06-02T13:15:00)
 > address_space_map in exec.c in QEMU 4.2.0 can trigger a NULL pointer dereference related to BounceBuffer.
 - [Live-Hack-CVE/CVE-2020-13659](https://github.com/Live-Hack-CVE/CVE-2020-13659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13659">
