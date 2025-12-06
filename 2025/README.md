@@ -2240,6 +2240,8 @@
 - [orgito1015/CVE-2025-55182-RCE-Exploit](https://github.com/orgito1015/CVE-2025-55182-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-RCE-Exploit">
 - [keklick1337/CVE-2025-55182-golang-PoC](https://github.com/keklick1337/CVE-2025-55182-golang-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/keklick1337/CVE-2025-55182-golang-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/keklick1337/CVE-2025-55182-golang-PoC">
 - [rubensuxo-eh/react2shell-exploit](https://github.com/rubensuxo-eh/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rubensuxo-eh/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rubensuxo-eh/react2shell-exploit">
+- [CirqueiraDev/MassExploit-CVE-2025-55182](https://github.com/CirqueiraDev/MassExploit-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/CirqueiraDev/MassExploit-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/CirqueiraDev/MassExploit-CVE-2025-55182">
+- [w3irdo21/CVE-2025-55182-react2shell](https://github.com/w3irdo21/CVE-2025-55182-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/w3irdo21/CVE-2025-55182-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/w3irdo21/CVE-2025-55182-react2shell">
 
 ---
 ## CVE-2025-54988 ()
