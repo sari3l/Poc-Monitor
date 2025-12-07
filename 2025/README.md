@@ -3133,6 +3133,7 @@
 - [crashnests/CVE-2025-50165](https://github.com/crashnests/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/crashnests/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/crashnests/CVE-2025-50165">
 - [glitchurn/CVE-2025-50165](https://github.com/glitchurn/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/glitchurn/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/glitchurn/CVE-2025-50165">
 - [useci-sys/CVE-2025-50165](https://github.com/useci-sys/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/useci-sys/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/useci-sys/CVE-2025-50165">
+- [encrypter15/CVE-2025-50165-x64-Exploit](https://github.com/encrypter15/CVE-2025-50165-x64-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-50165-x64-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-50165-x64-Exploit">
 
 ---
 ## CVE-2025-50154 ()
