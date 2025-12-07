@@ -2278,6 +2278,7 @@
 - [LemonTeatw1/CVE-2025-55182-exploit](https://github.com/LemonTeatw1/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LemonTeatw1/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LemonTeatw1/CVE-2025-55182-exploit">
 - [mil4ne/CVE-2025-55182-React2Shell-](https://github.com/mil4ne/CVE-2025-55182-React2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mil4ne/CVE-2025-55182-React2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mil4ne/CVE-2025-55182-React2Shell-">
 - [ethicalrohitt/React2Shell_cve-2025-55182](https://github.com/ethicalrohitt/React2Shell_cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ethicalrohitt/React2Shell_cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ethicalrohitt/React2Shell_cve-2025-55182">
+- [ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell](https://github.com/ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell">
 
 ---
 ## CVE-2025-54988 ()
@@ -4879,7 +4880,7 @@
 - [ricardomaia/CVE-2025-32463](https://github.com/ricardomaia/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/ricardomaia/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/ricardomaia/CVE-2025-32463">
 - [shazed-x/CVE-2025-32463](https://github.com/shazed-x/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/shazed-x/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/shazed-x/CVE-2025-32463">
 - [cybershaolin47/CVE-2025-32463_POC](https://github.com/cybershaolin47/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybershaolin47/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybershaolin47/CVE-2025-32463_POC">
-- [cyberajju/CVE-2025-32463](https://github.com/cyberajju/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/CVE-2025-32463">
+- [cybertechajju/CVE-2025-32463](https://github.com/cybertechajju/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2025-32463">
 - [dr4x-c0d3r/sudo-chroot](https://github.com/dr4x-c0d3r/sudo-chroot)	<img alt="forks" src="https://img.shields.io/github/forks/dr4x-c0d3r/sudo-chroot">	<img alt="stars" src="https://img.shields.io/github/stars/dr4x-c0d3r/sudo-chroot">
 - [dr4xp/sudo-chroot](https://github.com/dr4xp/sudo-chroot)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/sudo-chroot">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/sudo-chroot">
 - [robbin0919/CVE-2025-32463](https://github.com/robbin0919/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/robbin0919/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/robbin0919/CVE-2025-32463">
