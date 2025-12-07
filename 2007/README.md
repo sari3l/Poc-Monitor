@@ -24,6 +24,7 @@
 ## CVE-2007-4560 ()
 > 
 - [strikoder/sendmail-clamav-exploit-CVE-2007-4560](https://github.com/strikoder/sendmail-clamav-exploit-CVE-2007-4560)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/sendmail-clamav-exploit-CVE-2007-4560">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/sendmail-clamav-exploit-CVE-2007-4560">
+- [0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution](https://github.com/0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution">
 
 ---
 ## CVE-2007-4559 (2007-08-28T01:17:00)
