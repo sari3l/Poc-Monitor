@@ -21,6 +21,11 @@
 - [Live-Hack-CVE/CVE-2007-5536](https://github.com/Live-Hack-CVE/CVE-2007-5536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-5536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-5536">
 
 ---
+## CVE-2007-4560 ()
+> 
+- [strikoder/sendmail-clamav-exploit-CVE-2007-4560](https://github.com/strikoder/sendmail-clamav-exploit-CVE-2007-4560)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/sendmail-clamav-exploit-CVE-2007-4560">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/sendmail-clamav-exploit-CVE-2007-4560">
+
+---
 ## CVE-2007-4559 (2007-08-28T01:17:00)
 > Directory traversal vulnerability in the (1) extract and (2) extractall functions in the tarfile module in Python allows user-assisted remote attackers to overwrite arbitrary files via a .. (dot dot) sequence in filenames in a TAR archive, a related issue to CVE-2001-1267.
 - [davidholiday/CVE-2007-4559](https://github.com/davidholiday/CVE-2007-4559)	<img alt="forks" src="https://img.shields.io/github/forks/davidholiday/CVE-2007-4559">	<img alt="stars" src="https://img.shields.io/github/stars/davidholiday/CVE-2007-4559">
