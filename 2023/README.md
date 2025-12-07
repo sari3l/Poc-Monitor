@@ -5615,6 +5615,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System](https://github.com/abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System)	<img alt="forks" src="https://img.shields.io/github/forks/abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System">	<img alt="stars" src="https://img.shields.io/github/stars/abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System">
 - [AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing](https://github.com/AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing">
 - [kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258](https://github.com/kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258)	<img alt="forks" src="https://img.shields.io/github/forks/kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258">	<img alt="stars" src="https://img.shields.io/github/stars/kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258">
+- [CankunWang/Tryhackme_Billing](https://github.com/CankunWang/Tryhackme_Billing)	<img alt="forks" src="https://img.shields.io/github/forks/CankunWang/Tryhackme_Billing">	<img alt="stars" src="https://img.shields.io/github/stars/CankunWang/Tryhackme_Billing">
 
 ---
 ## CVE-2023-30256 (2023-05-11T11:15:00)
