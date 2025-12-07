@@ -462,6 +462,7 @@
 > 
 - [B1gh0rnn/CVE-2025-66516](https://github.com/B1gh0rnn/CVE-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/B1gh0rnn/CVE-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/B1gh0rnn/CVE-2025-66516">
 - [taylorflexca/CVE-2025-66516-Exploit](https://github.com/taylorflexca/CVE-2025-66516-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/taylorflexca/CVE-2025-66516-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/taylorflexca/CVE-2025-66516-Exploit">
+- [sitanshuforever/cve-2025-66516](https://github.com/sitanshuforever/cve-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/sitanshuforever/cve-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/sitanshuforever/cve-2025-66516">
 
 ---
 ## CVE-2025-66478 ()
@@ -505,6 +506,7 @@
 - [Rhyru9/CVE-2025-66478](https://github.com/Rhyru9/CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Rhyru9/CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Rhyru9/CVE-2025-66478">
 - [aiexz/CVE-2025-66478-kinda-waf](https://github.com/aiexz/CVE-2025-66478-kinda-waf)	<img alt="forks" src="https://img.shields.io/github/forks/aiexz/CVE-2025-66478-kinda-waf">	<img alt="stars" src="https://img.shields.io/github/stars/aiexz/CVE-2025-66478-kinda-waf">
 - [Jibaru/CVE-2025-66478-github-patcher](https://github.com/Jibaru/CVE-2025-66478-github-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Jibaru/CVE-2025-66478-github-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Jibaru/CVE-2025-66478-github-patcher">
+- [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
 
 ---
 ## CVE-2025-66022 ()
