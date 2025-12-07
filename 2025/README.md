@@ -2277,6 +2277,7 @@
 - [rapticore/ore_react2shell_scanner](https://github.com/rapticore/ore_react2shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/rapticore/ore_react2shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/rapticore/ore_react2shell_scanner">
 - [LemonTeatw1/CVE-2025-55182-exploit](https://github.com/LemonTeatw1/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LemonTeatw1/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LemonTeatw1/CVE-2025-55182-exploit">
 - [mil4ne/CVE-2025-55182-React2Shell-](https://github.com/mil4ne/CVE-2025-55182-React2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mil4ne/CVE-2025-55182-React2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mil4ne/CVE-2025-55182-React2Shell-">
+- [ethicalrohitt/React2Shell_cve-2025-55182](https://github.com/ethicalrohitt/React2Shell_cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ethicalrohitt/React2Shell_cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ethicalrohitt/React2Shell_cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
