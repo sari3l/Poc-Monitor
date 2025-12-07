@@ -2294,6 +2294,9 @@
 - [hunter24x24/CVE-2025-55182-mass](https://github.com/hunter24x24/CVE-2025-55182-mass)	<img alt="forks" src="https://img.shields.io/github/forks/hunter24x24/CVE-2025-55182-mass">	<img alt="stars" src="https://img.shields.io/github/stars/hunter24x24/CVE-2025-55182-mass">
 - [zr0n/react2shell](https://github.com/zr0n/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/react2shell">
 - [andressuarezmonk/CVE-2025-55182](https://github.com/andressuarezmonk/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/andressuarezmonk/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/andressuarezmonk/CVE-2025-55182">
+- [cybertechajju/R2C-CVE-2025-55182-66478](https://github.com/cybertechajju/R2C-CVE-2025-55182-66478)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/R2C-CVE-2025-55182-66478">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/R2C-CVE-2025-55182-66478">
+- [Dh4v4l8/-CVE-2025-55182-poc-tool](https://github.com/Dh4v4l8/-CVE-2025-55182-poc-tool)	<img alt="forks" src="https://img.shields.io/github/forks/Dh4v4l8/-CVE-2025-55182-poc-tool">	<img alt="stars" src="https://img.shields.io/github/stars/Dh4v4l8/-CVE-2025-55182-poc-tool">
+- [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa)	<img alt="forks" src="https://img.shields.io/github/forks/Pantheon-Security/medusa">	<img alt="stars" src="https://img.shields.io/github/stars/Pantheon-Security/medusa">
 
 ---
 ## CVE-2025-54988 ()
