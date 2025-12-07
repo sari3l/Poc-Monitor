@@ -2304,6 +2304,7 @@
 - [surajhacx/react2shellpoc](https://github.com/surajhacx/react2shellpoc)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/react2shellpoc">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/react2shellpoc">
 - [nightmare653/react-scanner-CVE-2025-55182-recon](https://github.com/nightmare653/react-scanner-CVE-2025-55182-recon)	<img alt="forks" src="https://img.shields.io/github/forks/nightmare653/react-scanner-CVE-2025-55182-recon">	<img alt="stars" src="https://img.shields.io/github/stars/nightmare653/react-scanner-CVE-2025-55182-recon">
 - [kavienanj/CVE-2025-55182](https://github.com/kavienanj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/kavienanj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/kavienanj/CVE-2025-55182">
+- [cyberleelawat/CVE-2025-55182](https://github.com/cyberleelawat/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/cyberleelawat/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/cyberleelawat/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
