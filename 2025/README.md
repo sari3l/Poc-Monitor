@@ -2341,6 +2341,9 @@
 - [Syrins/CVE-2025-55182-React2Shell-RCE](https://github.com/Syrins/CVE-2025-55182-React2Shell-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Syrins/CVE-2025-55182-React2Shell-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Syrins/CVE-2025-55182-React2Shell-RCE">
 - [0xsj/CVE-2025-55182](https://github.com/0xsj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xsj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xsj/CVE-2025-55182">
 - [Benrich127N/react2shell_analyzer](https://github.com/Benrich127N/react2shell_analyzer)	<img alt="forks" src="https://img.shields.io/github/forks/Benrich127N/react2shell_analyzer">	<img alt="stars" src="https://img.shields.io/github/stars/Benrich127N/react2shell_analyzer">
+- [hamm0nz/react2shell-audit](https://github.com/hamm0nz/react2shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/hamm0nz/react2shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/hamm0nz/react2shell-audit">
+- [randarts/react-rce](https://github.com/randarts/react-rce)	<img alt="forks" src="https://img.shields.io/github/forks/randarts/react-rce">	<img alt="stars" src="https://img.shields.io/github/stars/randarts/react-rce">
+- [7amzahard/React2shell](https://github.com/7amzahard/React2shell)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/React2shell">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/React2shell">
 
 ---
 ## CVE-2025-54988 ()

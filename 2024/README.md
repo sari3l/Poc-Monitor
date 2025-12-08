@@ -9885,7 +9885,7 @@ authentication.   
 ---
 ## CVE-2024-11972 ()
 > 
-- [NoxPengwin/exploit-CVE-2024-11972](https://github.com/NoxPengwin/exploit-CVE-2024-11972)	<img alt="forks" src="https://img.shields.io/github/forks/NoxPengwin/exploit-CVE-2024-11972">	<img alt="stars" src="https://img.shields.io/github/stars/NoxPengwin/exploit-CVE-2024-11972">
+- [NoxPenguin/exploit-CVE-2024-11972](https://github.com/NoxPenguin/exploit-CVE-2024-11972)	<img alt="forks" src="https://img.shields.io/github/forks/NoxPenguin/exploit-CVE-2024-11972">	<img alt="stars" src="https://img.shields.io/github/stars/NoxPenguin/exploit-CVE-2024-11972">
 - [RonF98/CVE-2024-11972-POC](https://github.com/RonF98/CVE-2024-11972-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2024-11972-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2024-11972-POC">
 - [Nxploited/CVE-2024-11972-PoC](https://github.com/Nxploited/CVE-2024-11972-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-11972-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-11972-PoC">
 
