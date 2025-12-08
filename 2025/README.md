@@ -212,6 +212,7 @@
 ## CVE-2025-8191 ()
 > 
 - [byteReaper77/CVE-2025-8191](https://github.com/byteReaper77/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8191">
+- [mayank-s16/Swagger-HTML-Injection-CVE-2025-8191](https://github.com/mayank-s16/Swagger-HTML-Injection-CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/mayank-s16/Swagger-HTML-Injection-CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/mayank-s16/Swagger-HTML-Injection-CVE-2025-8191">
 
 ---
 ## CVE-2025-8088 ()
@@ -2364,6 +2365,7 @@
 - [Ibonok/CVE-2025-55182-Burp-Passive-Extension](https://github.com/Ibonok/CVE-2025-55182-Burp-Passive-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/Ibonok/CVE-2025-55182-Burp-Passive-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/Ibonok/CVE-2025-55182-Burp-Passive-Extension">
 - [lowercasenumbers/CVE-2025-55182](https://github.com/lowercasenumbers/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lowercasenumbers/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lowercasenumbers/CVE-2025-55182">
 - [AggressiveUser/React2Hell](https://github.com/AggressiveUser/React2Hell)	<img alt="forks" src="https://img.shields.io/github/forks/AggressiveUser/React2Hell">	<img alt="stars" src="https://img.shields.io/github/stars/AggressiveUser/React2Hell">
+- [racall/cve-2025-55182-node](https://github.com/racall/cve-2025-55182-node)	<img alt="forks" src="https://img.shields.io/github/forks/racall/cve-2025-55182-node">	<img alt="stars" src="https://img.shields.io/github/stars/racall/cve-2025-55182-node">
 
 ---
 ## CVE-2025-54988 ()
