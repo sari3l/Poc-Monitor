@@ -526,6 +526,7 @@
 - [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
 - [Letalandroid/cve-2025-66478_rce_vulnerable](https://github.com/Letalandroid/cve-2025-66478_rce_vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/Letalandroid/cve-2025-66478_rce_vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/Letalandroid/cve-2025-66478_rce_vulnerable">
 - [FurkanKAYAPINAR/ReactNext2Shell](https://github.com/FurkanKAYAPINAR/ReactNext2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/ReactNext2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/ReactNext2Shell">
+- [adrianhazgarcia/React4Shell](https://github.com/adrianhazgarcia/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/adrianhazgarcia/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/adrianhazgarcia/React4Shell">
 
 ---
 ## CVE-2025-66022 ()
