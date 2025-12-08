@@ -514,6 +514,10 @@
 - [Jibaru/CVE-2025-66478-github-patcher](https://github.com/Jibaru/CVE-2025-66478-github-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Jibaru/CVE-2025-66478-github-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Jibaru/CVE-2025-66478-github-patcher">
 - [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
 - [ExpTechTW/CVE-2025-66478](https://github.com/ExpTechTW/CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/ExpTechTW/CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/ExpTechTW/CVE-2025-66478">
+- [arashiyans/CVE-2025-55182-CVE-2025-66478](https://github.com/arashiyans/CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/arashiyans/CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/arashiyans/CVE-2025-55182-CVE-2025-66478">
+- [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
+- [ToritoIO/Torito-R2S](https://github.com/ToritoIO/Torito-R2S)	<img alt="forks" src="https://img.shields.io/github/forks/ToritoIO/Torito-R2S">	<img alt="stars" src="https://img.shields.io/github/stars/ToritoIO/Torito-R2S">
+- [cybertechajju/R2C-CVE-2025-55182-66478](https://github.com/cybertechajju/R2C-CVE-2025-55182-66478)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/R2C-CVE-2025-55182-66478">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/R2C-CVE-2025-55182-66478">
 
 ---
 ## CVE-2025-66022 ()
@@ -7302,6 +7306,7 @@
 - [ada-z3r0/CVE-2025-1337-PoC](https://github.com/ada-z3r0/CVE-2025-1337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ada-z3r0/CVE-2025-1337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ada-z3r0/CVE-2025-1337-PoC">
 - [Zwique/CVE-2025-1337-PoC](https://github.com/Zwique/CVE-2025-1337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Zwique/CVE-2025-1337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Zwique/CVE-2025-1337-PoC">
 - [Ashwesker/Blackash-CVE-2025-13372](https://github.com/Ashwesker/Blackash-CVE-2025-13372)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-13372">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-13372">
+- [ShantyPrime/CVE-2025-1337-Poc](https://github.com/ShantyPrime/CVE-2025-1337-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ShantyPrime/CVE-2025-1337-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ShantyPrime/CVE-2025-1337-Poc">
 
 ---
 ## CVE-2025-13315 ()
