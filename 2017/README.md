@@ -1197,6 +1197,11 @@
 - [Live-Hack-CVE/CVE-2017-14432](https://github.com/Live-Hack-CVE/CVE-2017-14432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14432">
 
 ---
+## CVE-2017-14187 ()
+> 
+- [snmpudp/CVE-2017-14187_PoC_ARMv7](https://github.com/snmpudp/CVE-2017-14187_PoC_ARMv7)	<img alt="forks" src="https://img.shields.io/github/forks/snmpudp/CVE-2017-14187_PoC_ARMv7">	<img alt="stars" src="https://img.shields.io/github/stars/snmpudp/CVE-2017-14187_PoC_ARMv7">
+
+---
 ## CVE-2017-13286 (2018-04-04T16:29:00)
 > In writeToParcel and readFromParcel of OutputConfiguration.java, there is a permission bypass due to mismatched serialization. This could lead to a local escalation of privilege where the user can start an activity with system privileges, with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android. Versions: 8.0, 8.1. Android ID: A-69683251.
 - [UmVfX1BvaW50/CVE-2017-13286](https://github.com/UmVfX1BvaW50/CVE-2017-13286)	<img alt="forks" src="https://img.shields.io/github/forks/UmVfX1BvaW50/CVE-2017-13286">	<img alt="stars" src="https://img.shields.io/github/stars/UmVfX1BvaW50/CVE-2017-13286">
