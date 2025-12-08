@@ -2338,6 +2338,7 @@
 - [Night-have-dreams/CVE-2025-55182-PoC](https://github.com/Night-have-dreams/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Night-have-dreams/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Night-have-dreams/CVE-2025-55182-PoC">
 - [thekamran/CVE-2025-55182-Proof-of-Concept](https://github.com/thekamran/CVE-2025-55182-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/thekamran/CVE-2025-55182-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/thekamran/CVE-2025-55182-Proof-of-Concept">
 - [C00LN3T/React2Shell](https://github.com/C00LN3T/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React2Shell">
+- [Syrins/CVE-2025-55182-React2Shell-RCE](https://github.com/Syrins/CVE-2025-55182-React2Shell-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Syrins/CVE-2025-55182-React2Shell-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Syrins/CVE-2025-55182-React2Shell-RCE">
 
 ---
 ## CVE-2025-54988 ()
