@@ -522,6 +522,7 @@
 - [abhirajranjan/cve-2025-66478](https://github.com/abhirajranjan/cve-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/abhirajranjan/cve-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/abhirajranjan/cve-2025-66478">
 - [lincemorado97/CVE-2025-55182_CVE-2025-66478](https://github.com/lincemorado97/CVE-2025-55182_CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-55182_CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-55182_CVE-2025-66478">
 - [C00LN3T/React2Shell](https://github.com/C00LN3T/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React2Shell">
+- [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
 
 ---
 ## CVE-2025-66022 ()
@@ -2345,6 +2346,7 @@
 - [hamm0nz/react2shell-audit](https://github.com/hamm0nz/react2shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/hamm0nz/react2shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/hamm0nz/react2shell-audit">
 - [randarts/react-rce](https://github.com/randarts/react-rce)	<img alt="forks" src="https://img.shields.io/github/forks/randarts/react-rce">	<img alt="stars" src="https://img.shields.io/github/stars/randarts/react-rce">
 - [7amzahard/React2shell](https://github.com/7amzahard/React2shell)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/React2shell">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/React2shell">
+- [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
 
 ---
 ## CVE-2025-54988 ()
