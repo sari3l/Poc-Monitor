@@ -513,6 +513,7 @@
 - [aiexz/CVE-2025-66478-kinda-waf](https://github.com/aiexz/CVE-2025-66478-kinda-waf)	<img alt="forks" src="https://img.shields.io/github/forks/aiexz/CVE-2025-66478-kinda-waf">	<img alt="stars" src="https://img.shields.io/github/stars/aiexz/CVE-2025-66478-kinda-waf">
 - [Jibaru/CVE-2025-66478-github-patcher](https://github.com/Jibaru/CVE-2025-66478-github-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Jibaru/CVE-2025-66478-github-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Jibaru/CVE-2025-66478-github-patcher">
 - [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
+- [ExpTechTW/CVE-2025-66478](https://github.com/ExpTechTW/CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/ExpTechTW/CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/ExpTechTW/CVE-2025-66478">
 
 ---
 ## CVE-2025-66022 ()
