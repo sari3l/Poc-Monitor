@@ -2339,6 +2339,7 @@
 - [thekamran/CVE-2025-55182-Proof-of-Concept](https://github.com/thekamran/CVE-2025-55182-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/thekamran/CVE-2025-55182-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/thekamran/CVE-2025-55182-Proof-of-Concept">
 - [C00LN3T/React2Shell](https://github.com/C00LN3T/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React2Shell">
 - [Syrins/CVE-2025-55182-React2Shell-RCE](https://github.com/Syrins/CVE-2025-55182-React2Shell-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Syrins/CVE-2025-55182-React2Shell-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Syrins/CVE-2025-55182-React2Shell-RCE">
+- [0xsj/CVE-2025-55182](https://github.com/0xsj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xsj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xsj/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()

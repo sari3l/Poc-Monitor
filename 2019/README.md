@@ -2017,6 +2017,7 @@ use after free.
 - [0xsharz/telerik-scanner-CVE-2019-18935](https://github.com/0xsharz/telerik-scanner-CVE-2019-18935)	<img alt="forks" src="https://img.shields.io/github/forks/0xsharz/telerik-scanner-CVE-2019-18935">	<img alt="stars" src="https://img.shields.io/github/stars/0xsharz/telerik-scanner-CVE-2019-18935">
 - [quyt0/CVE-2019-18935-exploit-study](https://github.com/quyt0/CVE-2019-18935-exploit-study)	<img alt="forks" src="https://img.shields.io/github/forks/quyt0/CVE-2019-18935-exploit-study">	<img alt="stars" src="https://img.shields.io/github/stars/quyt0/CVE-2019-18935-exploit-study">
 - [menashe12346/CVE-2019-18935](https://github.com/menashe12346/CVE-2019-18935)	<img alt="forks" src="https://img.shields.io/github/forks/menashe12346/CVE-2019-18935">	<img alt="stars" src="https://img.shields.io/github/stars/menashe12346/CVE-2019-18935">
+- [alanbarret/CVE-2019-18935](https://github.com/alanbarret/CVE-2019-18935)	<img alt="forks" src="https://img.shields.io/github/forks/alanbarret/CVE-2019-18935">	<img alt="stars" src="https://img.shields.io/github/stars/alanbarret/CVE-2019-18935">
 
 ---
 ## CVE-2019-18901 (2020-03-02T16:15:00)
