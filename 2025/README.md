@@ -2320,6 +2320,8 @@
 - [lalaterry/CVE-2025-55182-React2Shell-lab](https://github.com/lalaterry/CVE-2025-55182-React2Shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/lalaterry/CVE-2025-55182-React2Shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/lalaterry/CVE-2025-55182-React2Shell-lab">
 - [xiaoxiunique/CVE-2025-55182-scanner](https://github.com/xiaoxiunique/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiunique/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiunique/CVE-2025-55182-scanner">
 - [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
+- [faizdotid/rust-cve-2025-55182](https://github.com/faizdotid/rust-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/faizdotid/rust-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/faizdotid/rust-cve-2025-55182">
+- [arashiyans/CVE-2025-55182-CVE-2025-66478](https://github.com/arashiyans/CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/arashiyans/CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/arashiyans/CVE-2025-55182-CVE-2025-66478">
 
 ---
 ## CVE-2025-54988 ()
