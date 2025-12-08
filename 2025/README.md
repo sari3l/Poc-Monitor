@@ -2334,6 +2334,7 @@
 - [justmadeid/CVE-2025-55182](https://github.com/justmadeid/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/justmadeid/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/justmadeid/CVE-2025-55182">
 - [TH-SecForge/CVE-2025-55182](https://github.com/TH-SecForge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-55182">
 - [lee191/CVE-2025-55182](https://github.com/lee191/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lee191/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lee191/CVE-2025-55182">
+- [Night-have-dreams/CVE-2025-55182-PoC](https://github.com/Night-have-dreams/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Night-have-dreams/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Night-have-dreams/CVE-2025-55182-PoC">
 
 ---
 ## CVE-2025-54988 ()

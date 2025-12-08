@@ -373,6 +373,11 @@
 - [qazbnm456/CVE-2020-8163](https://github.com/qazbnm456/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/qazbnm456/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/qazbnm456/CVE-2020-8163">
 
 ---
+## CVE-2020-8158 ()
+> 
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2020-8158">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2020-8158">
+
+---
 ## CVE-2020-8003 (2020-01-27T05:15:00)
 > A double-free vulnerability in vrend_renderer.c in virglrenderer through 0.8.1 allows attackers to cause a denial of service by triggering texture allocation failure, because vrend_renderer_resource_allocated_texture is not an appropriate place for a free.
 - [Live-Hack-CVE/CVE-2020-8003](https://github.com/Live-Hack-CVE/CVE-2020-8003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8003">
