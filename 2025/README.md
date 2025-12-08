@@ -2303,7 +2303,7 @@
 - [sohaibeb/CVE-2025-55182](https://github.com/sohaibeb/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/sohaibeb/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/sohaibeb/CVE-2025-55182">
 - [ynsmroztas/NextRce](https://github.com/ynsmroztas/NextRce)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/NextRce">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/NextRce">
 - [klassiker/CVE-2025-55182](https://github.com/klassiker/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/klassiker/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/klassiker/CVE-2025-55182">
-- [hlsitechio/shelllockolm](https://github.com/hlsitechio/shelllockolm)	<img alt="forks" src="https://img.shields.io/github/forks/hlsitechio/shelllockolm">	<img alt="stars" src="https://img.shields.io/github/stars/hlsitechio/shelllockolm">
+- [hlsitechio/shellockolm](https://github.com/hlsitechio/shellockolm)	<img alt="forks" src="https://img.shields.io/github/forks/hlsitechio/shellockolm">	<img alt="stars" src="https://img.shields.io/github/stars/hlsitechio/shellockolm">
 - [ya3raj/CVE-2025-55182-Scanner](https://github.com/ya3raj/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ya3raj/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ya3raj/CVE-2025-55182-Scanner">
 - [MikeTheHash/CVE-2025-55182](https://github.com/MikeTheHash/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MikeTheHash/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MikeTheHash/CVE-2025-55182">
 - [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
@@ -2380,6 +2380,7 @@
 - [AliAbdollahiii/react2shell_detector](https://github.com/AliAbdollahiii/react2shell_detector)	<img alt="forks" src="https://img.shields.io/github/forks/AliAbdollahiii/react2shell_detector">	<img alt="stars" src="https://img.shields.io/github/stars/AliAbdollahiii/react2shell_detector">
 - [FurkanKAYAPINAR/ReactNext2Shell](https://github.com/FurkanKAYAPINAR/ReactNext2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/ReactNext2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/ReactNext2Shell">
 - [I3r1h0n/React2Shell](https://github.com/I3r1h0n/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/React2Shell">
+- [xiaopeng-ye/react2shell-detector](https://github.com/xiaopeng-ye/react2shell-detector)	<img alt="forks" src="https://img.shields.io/github/forks/xiaopeng-ye/react2shell-detector">	<img alt="stars" src="https://img.shields.io/github/stars/xiaopeng-ye/react2shell-detector">
 
 ---
 ## CVE-2025-54988 ()
