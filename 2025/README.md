@@ -784,7 +784,7 @@
 ---
 ## CVE-2025-63895 ()
 > 
-- [thorat-shubham/JXL_Infotainment_-CVE-2025-63895](https://github.com/thorat-shubham/JXL_Infotainment_-CVE-2025-63895)	<img alt="forks" src="https://img.shields.io/github/forks/thorat-shubham/JXL_Infotainment_-CVE-2025-63895">	<img alt="stars" src="https://img.shields.io/github/stars/thorat-shubham/JXL_Infotainment_-CVE-2025-63895">
+- [thorat-shubham/JXL_Infotainment_CVE-2025-63895](https://github.com/thorat-shubham/JXL_Infotainment_CVE-2025-63895)	<img alt="forks" src="https://img.shields.io/github/forks/thorat-shubham/JXL_Infotainment_CVE-2025-63895">	<img alt="stars" src="https://img.shields.io/github/stars/thorat-shubham/JXL_Infotainment_CVE-2025-63895">
 
 ---
 ## CVE-2025-6389 ()
