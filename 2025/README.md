@@ -2316,6 +2316,9 @@
 - [timsonner/React2Shell-CVE-2025-55182](https://github.com/timsonner/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/timsonner/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/timsonner/React2Shell-CVE-2025-55182">
 - [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
 - [CharlesTheGreat77/CVE-2025-55182-Test-Server](https://github.com/CharlesTheGreat77/CVE-2025-55182-Test-Server)	<img alt="forks" src="https://img.shields.io/github/forks/CharlesTheGreat77/CVE-2025-55182-Test-Server">	<img alt="stars" src="https://img.shields.io/github/stars/CharlesTheGreat77/CVE-2025-55182-Test-Server">
+- [lalaterry/CVE-2025-55182-React2Shell-lab](https://github.com/lalaterry/CVE-2025-55182-React2Shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/lalaterry/CVE-2025-55182-React2Shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/lalaterry/CVE-2025-55182-React2Shell-lab">
+- [xiaoxiunique/CVE-2025-55182-scanner](https://github.com/xiaoxiunique/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiunique/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiunique/CVE-2025-55182-scanner">
+- [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
