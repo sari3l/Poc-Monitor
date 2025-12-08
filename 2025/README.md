@@ -2362,6 +2362,8 @@
 - [cahyod/react2shell](https://github.com/cahyod/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/cahyod/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/cahyod/react2shell">
 - [im-ezboy/CVE-2025-55182-zoomeye](https://github.com/im-ezboy/CVE-2025-55182-zoomeye)	<img alt="forks" src="https://img.shields.io/github/forks/im-ezboy/CVE-2025-55182-zoomeye">	<img alt="stars" src="https://img.shields.io/github/stars/im-ezboy/CVE-2025-55182-zoomeye">
 - [Ibonok/CVE-2025-55182-Burp-Passive-Extension](https://github.com/Ibonok/CVE-2025-55182-Burp-Passive-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/Ibonok/CVE-2025-55182-Burp-Passive-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/Ibonok/CVE-2025-55182-Burp-Passive-Extension">
+- [lowercasenumbers/CVE-2025-55182](https://github.com/lowercasenumbers/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lowercasenumbers/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lowercasenumbers/CVE-2025-55182">
+- [AggressiveUser/React2Hell](https://github.com/AggressiveUser/React2Hell)	<img alt="forks" src="https://img.shields.io/github/forks/AggressiveUser/React2Hell">	<img alt="stars" src="https://img.shields.io/github/stars/AggressiveUser/React2Hell">
 
 ---
 ## CVE-2025-54988 ()
