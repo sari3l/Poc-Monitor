@@ -782,6 +782,11 @@
 - [WxDou/CVE-2025-63914](https://github.com/WxDou/CVE-2025-63914)	<img alt="forks" src="https://img.shields.io/github/forks/WxDou/CVE-2025-63914">	<img alt="stars" src="https://img.shields.io/github/stars/WxDou/CVE-2025-63914">
 
 ---
+## CVE-2025-63895 ()
+> 
+- [thorat-shubham/JXL_Infotainment_-CVE-2025-63895](https://github.com/thorat-shubham/JXL_Infotainment_-CVE-2025-63895)	<img alt="forks" src="https://img.shields.io/github/forks/thorat-shubham/JXL_Infotainment_-CVE-2025-63895">	<img alt="stars" src="https://img.shields.io/github/stars/thorat-shubham/JXL_Infotainment_-CVE-2025-63895">
+
+---
 ## CVE-2025-6389 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-6389](https://github.com/B1ack4sh/Blackash-CVE-2025-6389)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6389">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6389">
