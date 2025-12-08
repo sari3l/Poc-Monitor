@@ -561,6 +561,11 @@
 - [Bidon47/CVE-2025-65806](https://github.com/Bidon47/CVE-2025-65806)	<img alt="forks" src="https://img.shields.io/github/forks/Bidon47/CVE-2025-65806">	<img alt="stars" src="https://img.shields.io/github/stars/Bidon47/CVE-2025-65806">
 
 ---
+## CVE-2025-65741 ()
+> 
+- [vinicius-batistella/CVE-2025-65741](https://github.com/vinicius-batistella/CVE-2025-65741)	<img alt="forks" src="https://img.shields.io/github/forks/vinicius-batistella/CVE-2025-65741">	<img alt="stars" src="https://img.shields.io/github/stars/vinicius-batistella/CVE-2025-65741">
+
+---
 ## CVE-2025-65681 ()
 > 
 - [Rivek619/CVE-2025-65681](https://github.com/Rivek619/CVE-2025-65681)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65681">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65681">
