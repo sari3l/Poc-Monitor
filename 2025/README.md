@@ -2382,6 +2382,8 @@
 - [I3r1h0n/React2Shell](https://github.com/I3r1h0n/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/React2Shell">
 - [xiaopeng-ye/react2shell-detector](https://github.com/xiaopeng-ye/react2shell-detector)	<img alt="forks" src="https://img.shields.io/github/forks/xiaopeng-ye/react2shell-detector">	<img alt="stars" src="https://img.shields.io/github/stars/xiaopeng-ye/react2shell-detector">
 - [ejpir/CVE-2025-55182-bypass](https://github.com/ejpir/CVE-2025-55182-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-bypass">
+- [vulncheck-oss/cve-2025-55182](https://github.com/vulncheck-oss/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2025-55182">
+- [Shield-Cyber/react2shell-scanner](https://github.com/Shield-Cyber/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Shield-Cyber/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Shield-Cyber/react2shell-scanner">
 
 ---
 ## CVE-2025-54988 ()
