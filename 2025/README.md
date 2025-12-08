@@ -130,6 +130,11 @@
 - [B1ack4sh/Blackash-CVE-2025-8943](https://github.com/B1ack4sh/Blackash-CVE-2025-8943)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-8943">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-8943">
 
 ---
+## CVE-2025-8924 ()
+> 
+- [encrypter15/CVE-2025-8924](https://github.com/encrypter15/CVE-2025-8924)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-8924">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-8924">
+
+---
 ## CVE-2025-8889 ()
 > 
 - [siberkampus/CVE-2025-8889](https://github.com/siberkampus/CVE-2025-8889)	<img alt="forks" src="https://img.shields.io/github/forks/siberkampus/CVE-2025-8889">	<img alt="stars" src="https://img.shields.io/github/stars/siberkampus/CVE-2025-8889">
@@ -2308,6 +2313,9 @@
 - [satriarizka/CVE-2025-55182-Simple-Scanner](https://github.com/satriarizka/CVE-2025-55182-Simple-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/satriarizka/CVE-2025-55182-Simple-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/satriarizka/CVE-2025-55182-Simple-Scanner">
 - [xcanwin/CVE-2025-55182-React-RCE](https://github.com/xcanwin/CVE-2025-55182-React-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/xcanwin/CVE-2025-55182-React-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/xcanwin/CVE-2025-55182-React-RCE">
 - [websecuritylabs/React2Shell-Library](https://github.com/websecuritylabs/React2Shell-Library)	<img alt="forks" src="https://img.shields.io/github/forks/websecuritylabs/React2Shell-Library">	<img alt="stars" src="https://img.shields.io/github/stars/websecuritylabs/React2Shell-Library">
+- [timsonner/React2Shell-CVE-2025-55182](https://github.com/timsonner/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/timsonner/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/timsonner/React2Shell-CVE-2025-55182">
+- [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
+- [CharlesTheGreat77/CVE-2025-55182-Test-Server](https://github.com/CharlesTheGreat77/CVE-2025-55182-Test-Server)	<img alt="forks" src="https://img.shields.io/github/forks/CharlesTheGreat77/CVE-2025-55182-Test-Server">	<img alt="stars" src="https://img.shields.io/github/stars/CharlesTheGreat77/CVE-2025-55182-Test-Server">
 
 ---
 ## CVE-2025-54988 ()
