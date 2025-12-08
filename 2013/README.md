@@ -75,6 +75,12 @@
 - [requiempentest/NTP_CVE-2013-5211](https://github.com/requiempentest/NTP_CVE-2013-5211)	<img alt="forks" src="https://img.shields.io/github/forks/requiempentest/NTP_CVE-2013-5211">	<img alt="stars" src="https://img.shields.io/github/stars/requiempentest/NTP_CVE-2013-5211">
 
 ---
+## CVE-2013-4547 ()
+> 
+- [rsp243/fix_nginx_CVE-2013-4547_IB](https://github.com/rsp243/fix_nginx_CVE-2013-4547_IB)	<img alt="forks" src="https://img.shields.io/github/forks/rsp243/fix_nginx_CVE-2013-4547_IB">	<img alt="stars" src="https://img.shields.io/github/stars/rsp243/fix_nginx_CVE-2013-4547_IB">
+- [cyberharsh/Nginx-CVE-2013-4547](https://github.com/cyberharsh/Nginx-CVE-2013-4547)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Nginx-CVE-2013-4547">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Nginx-CVE-2013-4547">
+
+---
 ## CVE-2013-4496 (2014-03-14T10:55:00)
 > Samba 3.x before 3.6.23, 4.0.x before 4.0.16, and 4.1.x before 4.1.6 does not enforce the password-guessing protection mechanism for all interfaces, which makes it easier for remote attackers to obtain access via brute-force ChangePasswordUser2 (1) SAMR or (2) RAP attempts.
 - [Live-Hack-CVE/CVE-2013-4496](https://github.com/Live-Hack-CVE/CVE-2013-4496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4496">
