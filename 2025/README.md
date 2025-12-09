@@ -578,6 +578,7 @@
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-no-lockfile](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-no-lockfile)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-no-lockfile">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-no-lockfile">
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep">
 - [shyambhanushali/React2Shell](https://github.com/shyambhanushali/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shyambhanushali/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shyambhanushali/React2Shell">
+- [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-66022 ()
@@ -2472,6 +2473,7 @@
 - [Jaycelation/CVE-2025-55182](https://github.com/Jaycelation/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Jaycelation/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Jaycelation/CVE-2025-55182">
 - [amir-malek/react-cve-2025-55182](https://github.com/amir-malek/react-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/amir-malek/react-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/amir-malek/react-cve-2025-55182">
 - [Ankitspandey07/React2Shell](https://github.com/Ankitspandey07/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Ankitspandey07/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Ankitspandey07/React2Shell">
+- [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
