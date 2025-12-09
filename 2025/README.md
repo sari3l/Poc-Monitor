@@ -2397,6 +2397,7 @@
 - [ancs21/react2shell-scanner-rust](https://github.com/ancs21/react2shell-scanner-rust)	<img alt="forks" src="https://img.shields.io/github/forks/ancs21/react2shell-scanner-rust">	<img alt="stars" src="https://img.shields.io/github/stars/ancs21/react2shell-scanner-rust">
 - [MoisesTapia/http-react2shell](https://github.com/MoisesTapia/http-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/MoisesTapia/http-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/MoisesTapia/http-react2shell">
 - [hadipra5/CVE-2025-55182-Auto-Exploit-Toolkit](https://github.com/hadipra5/CVE-2025-55182-Auto-Exploit-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/hadipra5/CVE-2025-55182-Auto-Exploit-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/hadipra5/CVE-2025-55182-Auto-Exploit-Toolkit">
+- [techgaun/cve-2025-55182-scanner](https://github.com/techgaun/cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/techgaun/cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/techgaun/cve-2025-55182-scanner">
 
 ---
 ## CVE-2025-54988 ()
