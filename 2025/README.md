@@ -2388,6 +2388,8 @@
 - [vulncheck-oss/cve-2025-55182](https://github.com/vulncheck-oss/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2025-55182">
 - [Shield-Cyber/react2shell-scanner](https://github.com/Shield-Cyber/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Shield-Cyber/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Shield-Cyber/react2shell-scanner">
 - [foodmen2111/test-cve-2025-55182](https://github.com/foodmen2111/test-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/foodmen2111/test-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/foodmen2111/test-cve-2025-55182">
+- [sun977/CVE-2025-55182](https://github.com/sun977/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/sun977/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/sun977/CVE-2025-55182">
+- [garux-sec/PoC-react2shell-CVE-2025-55182](https://github.com/garux-sec/PoC-react2shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/PoC-react2shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/PoC-react2shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
