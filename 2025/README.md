@@ -531,6 +531,7 @@
 - [hlsitechio/shellockolm](https://github.com/hlsitechio/shellockolm)	<img alt="forks" src="https://img.shields.io/github/forks/hlsitechio/shellockolm">	<img alt="stars" src="https://img.shields.io/github/stars/hlsitechio/shellockolm">
 - [Shield-Cyber/react2shell-scanner](https://github.com/Shield-Cyber/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Shield-Cyber/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Shield-Cyber/react2shell-scanner">
 - [strainxx/react2shell-honeypot](https://github.com/strainxx/react2shell-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/strainxx/react2shell-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/strainxx/react2shell-honeypot">
+- [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm">
 
 ---
 ## CVE-2025-66022 ()
@@ -2390,6 +2391,8 @@
 - [foodmen2111/test-cve-2025-55182](https://github.com/foodmen2111/test-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/foodmen2111/test-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/foodmen2111/test-cve-2025-55182">
 - [sun977/CVE-2025-55182](https://github.com/sun977/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/sun977/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/sun977/CVE-2025-55182">
 - [garux-sec/PoC-react2shell-CVE-2025-55182](https://github.com/garux-sec/PoC-react2shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/PoC-react2shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/PoC-react2shell-CVE-2025-55182">
+- [imbas007/POC-CVE-2025-55182](https://github.com/imbas007/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-55182">
+- [ancs21/react2shell-scanner-rust](https://github.com/ancs21/react2shell-scanner-rust)	<img alt="forks" src="https://img.shields.io/github/forks/ancs21/react2shell-scanner-rust">	<img alt="stars" src="https://img.shields.io/github/stars/ancs21/react2shell-scanner-rust">
 
 ---
 ## CVE-2025-54988 ()
