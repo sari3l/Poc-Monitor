@@ -615,6 +615,11 @@
 - [Bidon47/CVE-2025-65806](https://github.com/Bidon47/CVE-2025-65806)	<img alt="forks" src="https://img.shields.io/github/forks/Bidon47/CVE-2025-65806">	<img alt="stars" src="https://img.shields.io/github/stars/Bidon47/CVE-2025-65806">
 
 ---
+## CVE-2025-65754 ()
+> 
+- [Bnyt7/CVE-2025-65754](https://github.com/Bnyt7/CVE-2025-65754)	<img alt="forks" src="https://img.shields.io/github/forks/Bnyt7/CVE-2025-65754">	<img alt="stars" src="https://img.shields.io/github/stars/Bnyt7/CVE-2025-65754">
+
+---
 ## CVE-2025-65741 ()
 > 
 - [vinicius-batistella/CVE-2025-65741](https://github.com/vinicius-batistella/CVE-2025-65741)	<img alt="forks" src="https://img.shields.io/github/forks/vinicius-batistella/CVE-2025-65741">	<img alt="stars" src="https://img.shields.io/github/stars/vinicius-batistella/CVE-2025-65741">
@@ -2461,6 +2466,7 @@
 - [react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-turbopack](https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-turbopack)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-turbopack">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-turbopack">
 - [react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-parcel](https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-parcel)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-parcel">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-parcel">
 - [react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-webpack](https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-webpack)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-webpack">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-webpack">
+- [eytannatye/R2S_CVE-2025-55182](https://github.com/eytannatye/R2S_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/eytannatye/R2S_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/eytannatye/R2S_CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
