@@ -532,6 +532,8 @@
 - [Shield-Cyber/react2shell-scanner](https://github.com/Shield-Cyber/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Shield-Cyber/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Shield-Cyber/react2shell-scanner">
 - [strainxx/react2shell-honeypot](https://github.com/strainxx/react2shell-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/strainxx/react2shell-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/strainxx/react2shell-honeypot">
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm">
+- [MoisesTapia/http-react2shell](https://github.com/MoisesTapia/http-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/MoisesTapia/http-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/MoisesTapia/http-react2shell">
+- [ancs21/react2shell-scanner-rust](https://github.com/ancs21/react2shell-scanner-rust)	<img alt="forks" src="https://img.shields.io/github/forks/ancs21/react2shell-scanner-rust">	<img alt="stars" src="https://img.shields.io/github/stars/ancs21/react2shell-scanner-rust">
 
 ---
 ## CVE-2025-66022 ()
