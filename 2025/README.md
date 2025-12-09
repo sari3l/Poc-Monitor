@@ -676,6 +676,7 @@
 ## CVE-2025-65018 ()
 > 
 - [Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-](https://github.com/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-">
+- [bohemian-miser/CVE-2025-65018_Exploit_Challenge](https://github.com/bohemian-miser/CVE-2025-65018_Exploit_Challenge)	<img alt="forks" src="https://img.shields.io/github/forks/bohemian-miser/CVE-2025-65018_Exploit_Challenge">	<img alt="stars" src="https://img.shields.io/github/stars/bohemian-miser/CVE-2025-65018_Exploit_Challenge">
 
 ---
 ## CVE-2025-64720 ()
@@ -2386,6 +2387,7 @@
 - [ejpir/CVE-2025-55182-bypass](https://github.com/ejpir/CVE-2025-55182-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-bypass">
 - [vulncheck-oss/cve-2025-55182](https://github.com/vulncheck-oss/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2025-55182">
 - [Shield-Cyber/react2shell-scanner](https://github.com/Shield-Cyber/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Shield-Cyber/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Shield-Cyber/react2shell-scanner">
+- [foodmen2111/test-cve-2025-55182](https://github.com/foodmen2111/test-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/foodmen2111/test-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/foodmen2111/test-cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
