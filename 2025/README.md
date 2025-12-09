@@ -2435,6 +2435,7 @@
 - [keshavyaduvans/cve-2025-55182](https://github.com/keshavyaduvans/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/keshavyaduvans/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/keshavyaduvans/cve-2025-55182">
 - [alfazhossain/CVE-2025-55182-Exploiter](https://github.com/alfazhossain/CVE-2025-55182-Exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/alfazhossain/CVE-2025-55182-Exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/alfazhossain/CVE-2025-55182-Exploiter">
 - [byte16384/CVE-2025-55182](https://github.com/byte16384/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/byte16384/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/byte16384/CVE-2025-55182">
+- [kondukto-io/vulnerable-next-js-poc](https://github.com/kondukto-io/vulnerable-next-js-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kondukto-io/vulnerable-next-js-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kondukto-io/vulnerable-next-js-poc">
 
 ---
 ## CVE-2025-54988 ()
