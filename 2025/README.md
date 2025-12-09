@@ -2418,6 +2418,7 @@
 - [iamblacksolo2-BugBounty/POC-CVE-2025-55182](https://github.com/iamblacksolo2-BugBounty/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/iamblacksolo2-BugBounty/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/iamblacksolo2-BugBounty/POC-CVE-2025-55182">
 - [ilixm/PoC-RCE-CVE-2025-55182](https://github.com/ilixm/PoC-RCE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ilixm/PoC-RCE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ilixm/PoC-RCE-CVE-2025-55182">
 - [joelvaiju/react2shell-CVE-2025-55182-poc](https://github.com/joelvaiju/react2shell-CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/joelvaiju/react2shell-CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/joelvaiju/react2shell-CVE-2025-55182-poc">
+- [DevVaibhav07/POC-CVE-2025-55182](https://github.com/DevVaibhav07/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/DevVaibhav07/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/DevVaibhav07/POC-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -7400,6 +7401,11 @@
 - [Zwique/CVE-2025-1337-PoC](https://github.com/Zwique/CVE-2025-1337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Zwique/CVE-2025-1337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Zwique/CVE-2025-1337-PoC">
 - [Ashwesker/Blackash-CVE-2025-13372](https://github.com/Ashwesker/Blackash-CVE-2025-13372)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-13372">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-13372">
 - [ShantyPrime/CVE-2025-1337-Poc](https://github.com/ShantyPrime/CVE-2025-1337-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ShantyPrime/CVE-2025-1337-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ShantyPrime/CVE-2025-1337-Poc">
+
+---
+## CVE-2025-13342 ()
+> 
+- [Altelus1/CVE-2025-13342](https://github.com/Altelus1/CVE-2025-13342)	<img alt="forks" src="https://img.shields.io/github/forks/Altelus1/CVE-2025-13342">	<img alt="stars" src="https://img.shields.io/github/stars/Altelus1/CVE-2025-13342">
 
 ---
 ## CVE-2025-13315 ()
