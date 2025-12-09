@@ -2420,6 +2420,9 @@
 - [joelvaiju/react2shell-CVE-2025-55182-poc](https://github.com/joelvaiju/react2shell-CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/joelvaiju/react2shell-CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/joelvaiju/react2shell-CVE-2025-55182-poc">
 - [DevVaibhav07/POC-CVE-2025-55182](https://github.com/DevVaibhav07/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/DevVaibhav07/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/DevVaibhav07/POC-CVE-2025-55182">
 - [liamromanis101/cve-2025-55182](https://github.com/liamromanis101/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/cve-2025-55182">
+- [ysfcndgr/React2Shell-CVE-2025-55182](https://github.com/ysfcndgr/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ysfcndgr/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ysfcndgr/React2Shell-CVE-2025-55182">
+- [keshavyaduvans/cve-2025-55182](https://github.com/keshavyaduvans/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/keshavyaduvans/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/keshavyaduvans/cve-2025-55182">
+- [alfazhossain/CVE-2025-55182_Exploitation](https://github.com/alfazhossain/CVE-2025-55182_Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/alfazhossain/CVE-2025-55182_Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/alfazhossain/CVE-2025-55182_Exploitation">
 
 ---
 ## CVE-2025-54988 ()
