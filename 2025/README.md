@@ -2419,6 +2419,7 @@
 - [ilixm/PoC-RCE-CVE-2025-55182](https://github.com/ilixm/PoC-RCE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ilixm/PoC-RCE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ilixm/PoC-RCE-CVE-2025-55182">
 - [joelvaiju/react2shell-CVE-2025-55182-poc](https://github.com/joelvaiju/react2shell-CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/joelvaiju/react2shell-CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/joelvaiju/react2shell-CVE-2025-55182-poc">
 - [DevVaibhav07/POC-CVE-2025-55182](https://github.com/DevVaibhav07/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/DevVaibhav07/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/DevVaibhav07/POC-CVE-2025-55182">
+- [liamromanis101/cve-2025-55182](https://github.com/liamromanis101/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
