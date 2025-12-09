@@ -2669,6 +2669,11 @@
 - [DExplo1ted/CVE-2025-54106-POC](https://github.com/DExplo1ted/CVE-2025-54106-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DExplo1ted/CVE-2025-54106-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DExplo1ted/CVE-2025-54106-POC">
 
 ---
+## CVE-2025-54100 ()
+> 
+- [osman1337-security/CVE-2025-54100](https://github.com/osman1337-security/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/osman1337-security/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/osman1337-security/CVE-2025-54100">
+
+---
 ## CVE-2025-53964 ()
 > 
 - [tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964)	<img alt="forks" src="https://img.shields.io/github/forks/tigr78/CVE-2025-53964">	<img alt="stars" src="https://img.shields.io/github/stars/tigr78/CVE-2025-53964">
