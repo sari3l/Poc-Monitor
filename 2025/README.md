@@ -2395,6 +2395,7 @@
 - [garux-sec/PoC-react2shell-CVE-2025-55182](https://github.com/garux-sec/PoC-react2shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/PoC-react2shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/PoC-react2shell-CVE-2025-55182">
 - [imbas007/POC-CVE-2025-55182](https://github.com/imbas007/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-55182">
 - [ancs21/react2shell-scanner-rust](https://github.com/ancs21/react2shell-scanner-rust)	<img alt="forks" src="https://img.shields.io/github/forks/ancs21/react2shell-scanner-rust">	<img alt="stars" src="https://img.shields.io/github/stars/ancs21/react2shell-scanner-rust">
+- [MoisesTapia/http-react2shell](https://github.com/MoisesTapia/http-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/MoisesTapia/http-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/MoisesTapia/http-react2shell">
 
 ---
 ## CVE-2025-54988 ()
