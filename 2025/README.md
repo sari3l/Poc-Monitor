@@ -3472,6 +3472,11 @@
 - [korden-c/CVE-2025-4918](https://github.com/korden-c/CVE-2025-4918)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-4918">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-4918">
 
 ---
+## CVE-2025-49173 ()
+> 
+- [ArbitaryMannn/cve-2025-49173-macos-mavericks-10.9-local-root-privesc-auth-services](https://github.com/ArbitaryMannn/cve-2025-49173-macos-mavericks-10.9-local-root-privesc-auth-services)	<img alt="forks" src="https://img.shields.io/github/forks/ArbitaryMannn/cve-2025-49173-macos-mavericks-10.9-local-root-privesc-auth-services">	<img alt="stars" src="https://img.shields.io/github/stars/ArbitaryMannn/cve-2025-49173-macos-mavericks-10.9-local-root-privesc-auth-services">
+
+---
 ## CVE-2025-49144 ()
 > 
 - [Vr00mm/CVE-2025-49144](https://github.com/Vr00mm/CVE-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/Vr00mm/CVE-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/Vr00mm/CVE-2025-49144">
