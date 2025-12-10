@@ -1768,7 +1768,7 @@
 - [stealth-ronin/CVE-2017-0199-PY-KIT](https://github.com/stealth-ronin/CVE-2017-0199-PY-KIT)	<img alt="forks" src="https://img.shields.io/github/forks/stealth-ronin/CVE-2017-0199-PY-KIT">	<img alt="stars" src="https://img.shields.io/github/stars/stealth-ronin/CVE-2017-0199-PY-KIT">
 - [Nacromencer/cve2017-0199-in-python](https://github.com/Nacromencer/cve2017-0199-in-python)	<img alt="forks" src="https://img.shields.io/github/forks/Nacromencer/cve2017-0199-in-python">	<img alt="stars" src="https://img.shields.io/github/stars/Nacromencer/cve2017-0199-in-python">
 - [SwordSheath/CVE-2017-8570](https://github.com/SwordSheath/CVE-2017-8570)	<img alt="forks" src="https://img.shields.io/github/forks/SwordSheath/CVE-2017-8570">	<img alt="stars" src="https://img.shields.io/github/stars/SwordSheath/CVE-2017-8570">
-- [likescam/CVE-2017-0199](https://github.com/likescam/CVE-2017-0199)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2017-0199">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2017-0199">
+- [likekabin/CVE-2017-0199](https://github.com/likekabin/CVE-2017-0199)	<img alt="forks" src="https://img.shields.io/github/forks/likekabin/CVE-2017-0199">	<img alt="stars" src="https://img.shields.io/github/stars/likekabin/CVE-2017-0199">
 - [jacobsoo/RTF-Cleaner](https://github.com/jacobsoo/RTF-Cleaner)	<img alt="forks" src="https://img.shields.io/github/forks/jacobsoo/RTF-Cleaner">	<img alt="stars" src="https://img.shields.io/github/stars/jacobsoo/RTF-Cleaner">
 - [bhdresh/CVE-2017-0199](https://github.com/bhdresh/CVE-2017-0199)	<img alt="forks" src="https://img.shields.io/github/forks/bhdresh/CVE-2017-0199">	<img alt="stars" src="https://img.shields.io/github/stars/bhdresh/CVE-2017-0199">
 - [herbiezimmerman/2017-11-17-Maldoc-Using-CVE-2017-0199](https://github.com/herbiezimmerman/2017-11-17-Maldoc-Using-CVE-2017-0199)	<img alt="forks" src="https://img.shields.io/github/forks/herbiezimmerman/2017-11-17-Maldoc-Using-CVE-2017-0199">	<img alt="stars" src="https://img.shields.io/github/stars/herbiezimmerman/2017-11-17-Maldoc-Using-CVE-2017-0199">
@@ -1788,6 +1788,7 @@
 - [ryhanson/CVE-2017-0199](https://github.com/ryhanson/CVE-2017-0199)	<img alt="forks" src="https://img.shields.io/github/forks/ryhanson/CVE-2017-0199">	<img alt="stars" src="https://img.shields.io/github/stars/ryhanson/CVE-2017-0199">
 - [TheCyberWatchers/CVE-2017-0199-v5.0](https://github.com/TheCyberWatchers/CVE-2017-0199-v5.0)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberWatchers/CVE-2017-0199-v5.0">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberWatchers/CVE-2017-0199-v5.0">
 - [kash-123/CVE-2017-0199](https://github.com/kash-123/CVE-2017-0199)	<img alt="forks" src="https://img.shields.io/github/forks/kash-123/CVE-2017-0199">	<img alt="stars" src="https://img.shields.io/github/stars/kash-123/CVE-2017-0199">
+- [BlueShield-CyberDefense/Phishing-Analysis](https://github.com/BlueShield-CyberDefense/Phishing-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/BlueShield-CyberDefense/Phishing-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/BlueShield-CyberDefense/Phishing-Analysis">
 
 ---
 ## CVE-2017-0148 (2017-03-17T00:59:00)
