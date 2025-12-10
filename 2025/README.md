@@ -6700,6 +6700,7 @@
 - [brs6412/CVE-2025-24813](https://github.com/brs6412/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/brs6412/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/brs6412/CVE-2025-24813">
 - [Arthurabriel/POC-CVE-2025-24813](https://github.com/Arthurabriel/POC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Arthurabriel/POC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Arthurabriel/POC-CVE-2025-24813">
 - [pirenga/CVE-2025-24813](https://github.com/pirenga/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/CVE-2025-24813">
+- [gunyakit/CVE-2025-24813-PoC-exploit](https://github.com/gunyakit/CVE-2025-24813-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-24813-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-24813-PoC-exploit">
 
 ---
 ## CVE-2025-24801 ()
