@@ -2525,6 +2525,7 @@
 - [Legus-Yeung/CVE-2025-55182-exploit](https://github.com/Legus-Yeung/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Legus-Yeung/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Legus-Yeung/CVE-2025-55182-exploit">
 - [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
 - [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
+- [CrazyloveforWeb/Golang-CVE-2025-55182-POC](https://github.com/CrazyloveforWeb/Golang-CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CrazyloveforWeb/Golang-CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CrazyloveforWeb/Golang-CVE-2025-55182-POC">
 
 ---
 ## CVE-2025-54988 ()
