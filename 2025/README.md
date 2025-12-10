@@ -2528,6 +2528,8 @@
 - [CrazyloveforWeb/Golang-CVE-2025-55182-POC](https://github.com/CrazyloveforWeb/Golang-CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CrazyloveforWeb/Golang-CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CrazyloveforWeb/Golang-CVE-2025-55182-POC">
 - [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
 - [sponte/nextjs-cve-version-confusion](https://github.com/sponte/nextjs-cve-version-confusion)	<img alt="forks" src="https://img.shields.io/github/forks/sponte/nextjs-cve-version-confusion">	<img alt="stars" src="https://img.shields.io/github/stars/sponte/nextjs-cve-version-confusion">
+- [JahazielLem/NSE_CVE-2025-55182](https://github.com/JahazielLem/NSE_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/JahazielLem/NSE_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/JahazielLem/NSE_CVE-2025-55182">
+- [VeilVulp/RscScan](https://github.com/VeilVulp/RscScan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/RscScan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/RscScan">
 
 ---
 ## CVE-2025-54988 ()
