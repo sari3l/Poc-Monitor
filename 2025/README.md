@@ -633,6 +633,11 @@
 - [Bnyt7/CVE-2025-65754](https://github.com/Bnyt7/CVE-2025-65754)	<img alt="forks" src="https://img.shields.io/github/forks/Bnyt7/CVE-2025-65754">	<img alt="stars" src="https://img.shields.io/github/stars/Bnyt7/CVE-2025-65754">
 
 ---
+## CVE-2025-65742 ()
+> 
+- [CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA](https://github.com/CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA)	<img alt="forks" src="https://img.shields.io/github/forks/CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA">	<img alt="stars" src="https://img.shields.io/github/stars/CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA">
+
+---
 ## CVE-2025-65741 ()
 > 
 - [vinicius-batistella/CVE-2025-65741](https://github.com/vinicius-batistella/CVE-2025-65741)	<img alt="forks" src="https://img.shields.io/github/forks/vinicius-batistella/CVE-2025-65741">	<img alt="stars" src="https://img.shields.io/github/stars/vinicius-batistella/CVE-2025-65741">
