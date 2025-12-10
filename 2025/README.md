@@ -594,6 +594,7 @@
 - [Anthony558238/CVE-2025-65964-poc](https://github.com/Anthony558238/CVE-2025-65964-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Anthony558238/CVE-2025-65964-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Anthony558238/CVE-2025-65964-poc">
 - [Syzygy-K/CVE-2025-65964-Exploit](https://github.com/Syzygy-K/CVE-2025-65964-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Syzygy-K/CVE-2025-65964-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Syzygy-K/CVE-2025-65964-Exploit">
 - [Geekby/n8n-CVE-2025-65964](https://github.com/Geekby/n8n-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Geekby/n8n-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Geekby/n8n-CVE-2025-65964">
+- [Ashwesker/Blackash-CVE-2025-65964](https://github.com/Ashwesker/Blackash-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-65964">
 
 ---
 ## CVE-2025-65900 ()
@@ -2499,6 +2500,7 @@
 - [Sotatek-KhaiNguyen3/CVE-2025-55182](https://github.com/Sotatek-KhaiNguyen3/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sotatek-KhaiNguyen3/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sotatek-KhaiNguyen3/CVE-2025-55182">
 - [rix4uni/CVE-2025-55182](https://github.com/rix4uni/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/rix4uni/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/rix4uni/CVE-2025-55182">
 - [gonaumov/cve-2025-55182-checker](https://github.com/gonaumov/cve-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/gonaumov/cve-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/gonaumov/cve-2025-55182-checker">
+- [BeichenDream/CVE-2025-55182-GodzillaMemoryShell](https://github.com/BeichenDream/CVE-2025-55182-GodzillaMemoryShell)	<img alt="forks" src="https://img.shields.io/github/forks/BeichenDream/CVE-2025-55182-GodzillaMemoryShell">	<img alt="stars" src="https://img.shields.io/github/stars/BeichenDream/CVE-2025-55182-GodzillaMemoryShell">
 
 ---
 ## CVE-2025-54988 ()
