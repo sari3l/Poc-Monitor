@@ -2488,6 +2488,9 @@
 - [theori-io/reactguard](https://github.com/theori-io/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/reactguard">
 - [iamblacksolo2-BugBounty/POC2-CVE-2025-55182](https://github.com/iamblacksolo2-BugBounty/POC2-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">
 - [BakhodiribnYashinibnMansur/CVE-2025-55182](https://github.com/BakhodiribnYashinibnMansur/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BakhodiribnYashinibnMansur/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BakhodiribnYashinibnMansur/CVE-2025-55182">
+- [gunyakit/CVE-2025-55182-PoC-exploit](https://github.com/gunyakit/CVE-2025-55182-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-55182-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-55182-PoC-exploit">
+- [theman001/CVE-2025-55182_PoC-Test-Server](https://github.com/theman001/CVE-2025-55182_PoC-Test-Server)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-55182_PoC-Test-Server">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-55182_PoC-Test-Server">
+- [BakhodiribnYashinibnMansur/CVE-2025-55182](https://github.com/BakhodiribnYashinibnMansur/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BakhodiribnYashinibnMansur/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BakhodiribnYashinibnMansur/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
