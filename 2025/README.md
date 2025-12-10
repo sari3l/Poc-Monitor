@@ -2487,6 +2487,7 @@
 - [notkittenn/poc_react2shell](https://github.com/notkittenn/poc_react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/notkittenn/poc_react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/notkittenn/poc_react2shell">
 - [theori-io/reactguard](https://github.com/theori-io/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/reactguard">
 - [iamblacksolo2-BugBounty/POC2-CVE-2025-55182](https://github.com/iamblacksolo2-BugBounty/POC2-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">
+- [BakhodiribnYashinibnMansur/CVE-2025-55182](https://github.com/BakhodiribnYashinibnMansur/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BakhodiribnYashinibnMansur/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BakhodiribnYashinibnMansur/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
