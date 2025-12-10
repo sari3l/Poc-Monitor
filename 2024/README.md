@@ -1465,6 +1465,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [mallo-m/CVE-2024-55187](https://github.com/mallo-m/CVE-2024-55187)	<img alt="forks" src="https://img.shields.io/github/forks/mallo-m/CVE-2024-55187">	<img alt="stars" src="https://img.shields.io/github/stars/mallo-m/CVE-2024-55187">
 
 ---
+## CVE-2024-55182 ()
+> 
+- [MernJsb/CVE-2024-55182](https://github.com/MernJsb/CVE-2024-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MernJsb/CVE-2024-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MernJsb/CVE-2024-55182">
+
+---
 ## CVE-2024-55099 ()
 > 
 - [kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-](https://github.com/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-)	<img alt="forks" src="https://img.shields.io/github/forks/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-">	<img alt="stars" src="https://img.shields.io/github/stars/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-">

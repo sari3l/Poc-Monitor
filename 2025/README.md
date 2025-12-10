@@ -2486,6 +2486,7 @@
 - [Arcueld/CVE-2025-55182](https://github.com/Arcueld/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-55182">
 - [notkittenn/poc_react2shell](https://github.com/notkittenn/poc_react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/notkittenn/poc_react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/notkittenn/poc_react2shell">
 - [theori-io/reactguard](https://github.com/theori-io/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/reactguard">
+- [iamblacksolo2-BugBounty/POC2-CVE-2025-55182](https://github.com/iamblacksolo2-BugBounty/POC2-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -6884,6 +6885,7 @@
 - [rubenformation/CVE-2025-50154](https://github.com/rubenformation/CVE-2025-50154)	<img alt="forks" src="https://img.shields.io/github/forks/rubenformation/CVE-2025-50154">	<img alt="stars" src="https://img.shields.io/github/stars/rubenformation/CVE-2025-50154">
 - [Wind010/CVE-2025-24054_PoC](https://github.com/Wind010/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2025-24054_PoC">
 - [Untouchable17/CVE-2025-24054](https://github.com/Untouchable17/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/Untouchable17/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/Untouchable17/CVE-2025-24054">
+- [WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">
 
 ---
 ## CVE-2025-2404 ()
