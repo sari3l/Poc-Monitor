@@ -115,6 +115,7 @@
 - [xwpdx0/poc-2025-9074](https://github.com/xwpdx0/poc-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/xwpdx0/poc-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/xwpdx0/poc-2025-9074">
 - [PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape](https://github.com/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">
 - [pppxo/CVE-2025-9074-PoC-Bash](https://github.com/pppxo/CVE-2025-9074-PoC-Bash)	<img alt="forks" src="https://img.shields.io/github/forks/pppxo/CVE-2025-9074-PoC-Bash">	<img alt="stars" src="https://img.shields.io/github/stars/pppxo/CVE-2025-9074-PoC-Bash">
+- [3rendil/CVE-2025-9074-POC](https://github.com/3rendil/CVE-2025-9074-POC)	<img alt="forks" src="https://img.shields.io/github/forks/3rendil/CVE-2025-9074-POC">	<img alt="stars" src="https://img.shields.io/github/stars/3rendil/CVE-2025-9074-POC">
 
 ---
 ## CVE-2025-9043 ()
@@ -881,8 +882,9 @@
 ---
 ## CVE-2025-6389 ()
 > 
-- [B1ack4sh/Blackash-CVE-2025-6389](https://github.com/B1ack4sh/Blackash-CVE-2025-6389)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6389">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6389">
+- [Ashwesker/Blackash-CVE-2025-6389](https://github.com/Ashwesker/Blackash-CVE-2025-6389)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-6389">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-6389">
 - [itsismarcos/SneeitScanner-CVE-2025-6389](https://github.com/itsismarcos/SneeitScanner-CVE-2025-6389)	<img alt="forks" src="https://img.shields.io/github/forks/itsismarcos/SneeitScanner-CVE-2025-6389">	<img alt="stars" src="https://img.shields.io/github/stars/itsismarcos/SneeitScanner-CVE-2025-6389">
+- [thorat-shubham/JXL_Infotainment_CVE-2025-63895](https://github.com/thorat-shubham/JXL_Infotainment_CVE-2025-63895)	<img alt="forks" src="https://img.shields.io/github/forks/thorat-shubham/JXL_Infotainment_CVE-2025-63895">	<img alt="stars" src="https://img.shields.io/github/stars/thorat-shubham/JXL_Infotainment_CVE-2025-63895">
 
 ---
 ## CVE-2025-63888 ()
