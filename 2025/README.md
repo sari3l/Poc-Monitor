@@ -459,6 +459,11 @@
 - [Nxploited/CVE-2025-6758](https://github.com/Nxploited/CVE-2025-6758)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6758">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6758">
 
 ---
+## CVE-2025-67494 ()
+> 
+- [Chocapikk/CVE-2025-67494](https://github.com/Chocapikk/CVE-2025-67494)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-67494">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-67494">
+
+---
 ## CVE-2025-6713 ()
 > 
 - [c137req/CVE-2025-6713](https://github.com/c137req/CVE-2025-6713)	<img alt="forks" src="https://img.shields.io/github/forks/c137req/CVE-2025-6713">	<img alt="stars" src="https://img.shields.io/github/stars/c137req/CVE-2025-6713">
