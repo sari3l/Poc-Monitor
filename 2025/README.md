@@ -1121,6 +1121,11 @@
 - [cristibtz/CVE-2025-62369](https://github.com/cristibtz/CVE-2025-62369)	<img alt="forks" src="https://img.shields.io/github/forks/cristibtz/CVE-2025-62369">	<img alt="stars" src="https://img.shields.io/github/stars/cristibtz/CVE-2025-62369">
 
 ---
+## CVE-2025-62222 ()
+> 
+- [SadisticNight/PoC-CVE-2025-62222](https://github.com/SadisticNight/PoC-CVE-2025-62222)	<img alt="forks" src="https://img.shields.io/github/forks/SadisticNight/PoC-CVE-2025-62222">	<img alt="stars" src="https://img.shields.io/github/stars/SadisticNight/PoC-CVE-2025-62222">
+
+---
 ## CVE-2025-62221 ()
 > 
 - [JeanKauffman1305/CVE-2025-62221-Exploit-](https://github.com/JeanKauffman1305/CVE-2025-62221-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/JeanKauffman1305/CVE-2025-62221-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/JeanKauffman1305/CVE-2025-62221-Exploit-">
