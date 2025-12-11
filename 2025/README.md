@@ -2931,7 +2931,7 @@
 ---
 ## CVE-2025-53558 ()
 > 
-- [houqe/CVE-2025-53558](https://github.com/houqe/CVE-2025-53558)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/CVE-2025-53558">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/CVE-2025-53558">
+- [houqe/POC_CVE-2025-53558](https://github.com/houqe/POC_CVE-2025-53558)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/POC_CVE-2025-53558">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/POC_CVE-2025-53558">
 
 ---
 ## CVE-2025-53547 ()
