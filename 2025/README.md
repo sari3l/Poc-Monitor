@@ -2567,6 +2567,7 @@
 - [oscarmine/R2SAE](https://github.com/oscarmine/R2SAE)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/R2SAE">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/R2SAE">
 - [min8282/CVE-2025-55182](https://github.com/min8282/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2025-55182">
 - [min8282/CVE-2025-55182](https://github.com/min8282/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2025-55182">
+- [MoisesTapia/react2shell-metasploit](https://github.com/MoisesTapia/react2shell-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/MoisesTapia/react2shell-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/MoisesTapia/react2shell-metasploit">
 
 ---
 ## CVE-2025-54988 ()
