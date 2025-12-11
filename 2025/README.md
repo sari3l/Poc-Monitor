@@ -480,6 +480,11 @@
 - [Ashwesker/Blackash-CVE-2025-66644](https://github.com/Ashwesker/Blackash-CVE-2025-66644)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-66644">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-66644">
 
 ---
+## CVE-2025-66628 ()
+> 
+- [Sumitshah00/CVE-2025-66628](https://github.com/Sumitshah00/CVE-2025-66628)	<img alt="forks" src="https://img.shields.io/github/forks/Sumitshah00/CVE-2025-66628">	<img alt="stars" src="https://img.shields.io/github/stars/Sumitshah00/CVE-2025-66628">
+
+---
 ## CVE-2025-66516 ()
 > 
 - [B1gh0rnn/CVE-2025-66516](https://github.com/B1gh0rnn/CVE-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/B1gh0rnn/CVE-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/B1gh0rnn/CVE-2025-66516">
