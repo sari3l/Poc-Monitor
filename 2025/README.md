@@ -774,6 +774,11 @@
 - [DylanDavis1/CVE-2025-64708](https://github.com/DylanDavis1/CVE-2025-64708)	<img alt="forks" src="https://img.shields.io/github/forks/DylanDavis1/CVE-2025-64708">	<img alt="stars" src="https://img.shields.io/github/stars/DylanDavis1/CVE-2025-64708">
 
 ---
+## CVE-2025-64516 ()
+> 
+- [lem0naids/CVE-2025-64516-POC](https://github.com/lem0naids/CVE-2025-64516-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lem0naids/CVE-2025-64516-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lem0naids/CVE-2025-64516-POC">
+
+---
 ## CVE-2025-64513 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-64513](https://github.com/B1ack4sh/Blackash-CVE-2025-64513)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64513">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64513">
