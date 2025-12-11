@@ -2289,6 +2289,11 @@
 - [Sh3ruman/CVE-2025-55188-7z-exploit](https://github.com/Sh3ruman/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sh3ruman/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sh3ruman/CVE-2025-55188-7z-exploit">
 
 ---
+## CVE-2025-55183 ()
+> 
+- [Saturate/CVE-2025-55183](https://github.com/Saturate/CVE-2025-55183)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55183">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55183">
+
+---
 ## CVE-2025-55182 ()
 > 
 - [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">
