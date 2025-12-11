@@ -3520,6 +3520,7 @@
 - [WHtig3r/CVE-2020-1938](https://github.com/WHtig3r/CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/WHtig3r/CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/WHtig3r/CVE-2020-1938">
 - [hopsypopsy8/CVE-2020-1938-Exploitation](https://github.com/hopsypopsy8/CVE-2020-1938-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/hopsypopsy8/CVE-2020-1938-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/hopsypopsy8/CVE-2020-1938-Exploitation">
 - [abrewer251/CVE-2020-1938_Ghostcat-PoC](https://github.com/abrewer251/CVE-2020-1938_Ghostcat-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2020-1938_Ghostcat-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2020-1938_Ghostcat-PoC">
+- [Joshua8821/CNVD](https://github.com/Joshua8821/CNVD)	<img alt="forks" src="https://img.shields.io/github/forks/Joshua8821/CNVD">	<img alt="stars" src="https://img.shields.io/github/stars/Joshua8821/CNVD">
 
 ---
 ## CVE-2020-19360 (2021-01-20T01:15:00)
