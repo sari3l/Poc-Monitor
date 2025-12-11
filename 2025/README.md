@@ -1493,6 +1493,8 @@
 - [dreysanox/CVE-2025-6018_Poc](https://github.com/dreysanox/CVE-2025-6018_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dreysanox/CVE-2025-6018_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dreysanox/CVE-2025-6018_Poc">
 - [harshitvarma05/CVE-2025-6019](https://github.com/harshitvarma05/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/harshitvarma05/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/harshitvarma05/CVE-2025-6019">
 - [mistrustt/PAM-UDisks-PrivEsc-Metasploit](https://github.com/mistrustt/PAM-UDisks-PrivEsc-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrustt/PAM-UDisks-PrivEsc-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrustt/PAM-UDisks-PrivEsc-Metasploit">
+- [robbin0919/CVE-2025-6019](https://github.com/robbin0919/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/robbin0919/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/robbin0919/CVE-2025-6019">
+- [euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019](https://github.com/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">
 
 ---
 ## CVE-2025-6018 ()
