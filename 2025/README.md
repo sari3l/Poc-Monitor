@@ -1508,6 +1508,11 @@
 - [At0mXploit/CVE-2025-59843-CVE-2025-59932](https://github.com/At0mXploit/CVE-2025-59843-CVE-2025-59932)	<img alt="forks" src="https://img.shields.io/github/forks/At0mXploit/CVE-2025-59843-CVE-2025-59932">	<img alt="stars" src="https://img.shields.io/github/stars/At0mXploit/CVE-2025-59843-CVE-2025-59932">
 
 ---
+## CVE-2025-59718 ()
+> 
+- [Ashwesker/Blackash-CVE-2025-59718](https://github.com/Ashwesker/Blackash-CVE-2025-59718)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-59718">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-59718">
+
+---
 ## CVE-2025-5964 ()
 > 
 - [byteReaper77/CVE-2025-5964-](https://github.com/byteReaper77/CVE-2025-5964-)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-5964-">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-5964-">
