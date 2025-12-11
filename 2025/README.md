@@ -2618,6 +2618,7 @@
 - [Tiger-Foxx/exploit-react-CVE-2025-55182](https://github.com/Tiger-Foxx/exploit-react-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Tiger-Foxx/exploit-react-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Tiger-Foxx/exploit-react-CVE-2025-55182">
 - [trilogy-group/react2shell-scan](https://github.com/trilogy-group/react2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/trilogy-group/react2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/trilogy-group/react2shell-scan">
 - [anuththara2007-W/CVE-2025-55182-Exploit-extension](https://github.com/anuththara2007-W/CVE-2025-55182-Exploit-extension)	<img alt="forks" src="https://img.shields.io/github/forks/anuththara2007-W/CVE-2025-55182-Exploit-extension">	<img alt="stars" src="https://img.shields.io/github/stars/anuththara2007-W/CVE-2025-55182-Exploit-extension">
+- [talentte/react2shell-scanner](https://github.com/talentte/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/talentte/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/talentte/react2shell-scanner">
 
 ---
 ## CVE-2025-54988 ()
@@ -7785,6 +7786,11 @@
 - [boneys/CVE-2025-12101-Scanner](https://github.com/boneys/CVE-2025-12101-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/boneys/CVE-2025-12101-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/boneys/CVE-2025-12101-Scanner">
 - [7amzahard/CVE-2025-21202-exploit](https://github.com/7amzahard/CVE-2025-21202-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/CVE-2025-21202-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/CVE-2025-21202-exploit">
 - [boneys/CVE-2025-12101-Scanner-PoC](https://github.com/boneys/CVE-2025-12101-Scanner-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boneys/CVE-2025-12101-Scanner-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boneys/CVE-2025-12101-Scanner-PoC">
+
+---
+## CVE-2025-12097 ()
+> 
+- [matejsmycka/PoC-CVE-2025-12097](https://github.com/matejsmycka/PoC-CVE-2025-12097)	<img alt="forks" src="https://img.shields.io/github/forks/matejsmycka/PoC-CVE-2025-12097">	<img alt="stars" src="https://img.shields.io/github/stars/matejsmycka/PoC-CVE-2025-12097">
 
 ---
 ## CVE-2025-11953 ()
