@@ -2577,6 +2577,7 @@
 - [exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC](https://github.com/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC">
 - [mrmtwoj/React2Shell-CVE-2025-55182](https://github.com/mrmtwoj/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/React2Shell-CVE-2025-55182">
 - [Machine-farmer/PunchingBag-for-React2Shell](https://github.com/Machine-farmer/PunchingBag-for-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Machine-farmer/PunchingBag-for-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Machine-farmer/PunchingBag-for-React2Shell">
+- [xalgord1/CVE-2025-55182-POC](https://github.com/xalgord1/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord1/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord1/CVE-2025-55182-POC">
 
 ---
 ## CVE-2025-54988 ()
