@@ -816,6 +816,7 @@
 - [stanly363/CVE-2025-64459-Poc](https://github.com/stanly363/CVE-2025-64459-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/stanly363/CVE-2025-64459-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/stanly363/CVE-2025-64459-Poc">
 - [ZeYrOXxXxXxX/CVE-2025-64459](https://github.com/ZeYrOXxXxXxX/CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/ZeYrOXxXxXxX/CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/ZeYrOXxXxXxX/CVE-2025-64459">
 - [ALPYAHYA/CVE-2025-64459-Exploit-Fix](https://github.com/ALPYAHYA/CVE-2025-64459-Exploit-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/ALPYAHYA/CVE-2025-64459-Exploit-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/ALPYAHYA/CVE-2025-64459-Exploit-Fix">
+- [ALPYAHYA/CVE-2025-64459-Exploit-PoC](https://github.com/ALPYAHYA/CVE-2025-64459-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ALPYAHYA/CVE-2025-64459-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ALPYAHYA/CVE-2025-64459-Exploit-PoC">
 
 ---
 ## CVE-2025-64458 ()
