@@ -7593,6 +7593,11 @@
 - [pukixploit/CVE-2025-13486](https://github.com/pukixploit/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/pukixploit/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/pukixploit/CVE-2025-13486">
 
 ---
+## CVE-2025-13401 ()
+> 
+- [ciscocamelo/CVE-2025-13401-XSS-Stored](https://github.com/ciscocamelo/CVE-2025-13401-XSS-Stored)	<img alt="forks" src="https://img.shields.io/github/forks/ciscocamelo/CVE-2025-13401-XSS-Stored">	<img alt="stars" src="https://img.shields.io/github/stars/ciscocamelo/CVE-2025-13401-XSS-Stored">
+
+---
 ## CVE-2025-13390 ()
 > 
 - [sidmug3307/CVE-2025-13390-Exploit](https://github.com/sidmug3307/CVE-2025-13390-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sidmug3307/CVE-2025-13390-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sidmug3307/CVE-2025-13390-Exploit">
