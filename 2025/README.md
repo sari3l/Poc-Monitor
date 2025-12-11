@@ -2568,6 +2568,7 @@
 - [min8282/CVE-2025-55182](https://github.com/min8282/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2025-55182">
 - [min8282/CVE-2025-55182](https://github.com/min8282/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2025-55182">
 - [MoisesTapia/react2shell-metasploit](https://github.com/MoisesTapia/react2shell-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/MoisesTapia/react2shell-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/MoisesTapia/react2shell-metasploit">
+- [exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC](https://github.com/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC">
 
 ---
 ## CVE-2025-54988 ()
