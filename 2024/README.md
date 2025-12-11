@@ -510,6 +510,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [0dayan0n/RCE_CVE-2024-7954-](https://github.com/0dayan0n/RCE_CVE-2024-7954-)	<img alt="forks" src="https://img.shields.io/github/forks/0dayan0n/RCE_CVE-2024-7954-">	<img alt="stars" src="https://img.shields.io/github/stars/0dayan0n/RCE_CVE-2024-7954-">
 - [Arthikw3b/RCE-CVE-2024-7954](https://github.com/Arthikw3b/RCE-CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/Arthikw3b/RCE-CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/Arthikw3b/RCE-CVE-2024-7954">
 - [r0otk3r/CVE-2024-7954](https://github.com/r0otk3r/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-7954">
+- [ShivanshKuntal/Exploitation-of-a-Remote-Code-Execution-vulnerability--CVE-2024-7954-](https://github.com/ShivanshKuntal/Exploitation-of-a-Remote-Code-Execution-vulnerability--CVE-2024-7954-)	<img alt="forks" src="https://img.shields.io/github/forks/ShivanshKuntal/Exploitation-of-a-Remote-Code-Execution-vulnerability--CVE-2024-7954-">	<img alt="stars" src="https://img.shields.io/github/stars/ShivanshKuntal/Exploitation-of-a-Remote-Code-Execution-vulnerability--CVE-2024-7954-">
 
 ---
 ## CVE-2024-7940 ()
