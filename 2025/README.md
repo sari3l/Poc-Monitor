@@ -221,6 +221,7 @@
 ## CVE-2025-8110 ()
 > 
 - [rxerium/CVE-2025-8110](https://github.com/rxerium/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-8110">
+- [Ashwesker/Blackash-CVE-2025-8110](https://github.com/Ashwesker/Blackash-CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
@@ -604,6 +605,8 @@
 - [dr4xp/react2shell](https://github.com/dr4xp/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/react2shell">
 - [l4rm4nd/CVE-2025-55182](https://github.com/l4rm4nd/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/l4rm4nd/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/l4rm4nd/CVE-2025-55182">
 - [Code42Cate/nexts-cve-2025-66478-exploit](https://github.com/Code42Cate/nexts-cve-2025-66478-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Code42Cate/nexts-cve-2025-66478-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Code42Cate/nexts-cve-2025-66478-exploit">
+- [anuththara2007-W/CVE-2025-55182-Exploit-extension](https://github.com/anuththara2007-W/CVE-2025-55182-Exploit-extension)	<img alt="forks" src="https://img.shields.io/github/forks/anuththara2007-W/CVE-2025-55182-Exploit-extension">	<img alt="stars" src="https://img.shields.io/github/stars/anuththara2007-W/CVE-2025-55182-Exploit-extension">
+- [talentte/react2shell-scanner](https://github.com/talentte/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/talentte/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/talentte/react2shell-scanner">
 
 ---
 ## CVE-2025-66470 ()
