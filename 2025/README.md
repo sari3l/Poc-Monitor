@@ -605,6 +605,11 @@
 - [l4rm4nd/CVE-2025-55182](https://github.com/l4rm4nd/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/l4rm4nd/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/l4rm4nd/CVE-2025-55182">
 
 ---
+## CVE-2025-66470 ()
+> 
+- [Jmehta10/CVE-2025-66470](https://github.com/Jmehta10/CVE-2025-66470)	<img alt="forks" src="https://img.shields.io/github/forks/Jmehta10/CVE-2025-66470">	<img alt="stars" src="https://img.shields.io/github/stars/Jmehta10/CVE-2025-66470">
+
+---
 ## CVE-2025-66022 ()
 > 
 - [wasfyelbaz/CVE-2025-66022](https://github.com/wasfyelbaz/CVE-2025-66022)	<img alt="forks" src="https://img.shields.io/github/forks/wasfyelbaz/CVE-2025-66022">	<img alt="stars" src="https://img.shields.io/github/stars/wasfyelbaz/CVE-2025-66022">
