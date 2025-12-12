@@ -2305,6 +2305,7 @@
 - [BakhodiribnYashinibnMansur/CVE-2025-55184](https://github.com/BakhodiribnYashinibnMansur/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/BakhodiribnYashinibnMansur/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/BakhodiribnYashinibnMansur/CVE-2025-55184">
 - [caohungphu/react2shell](https://github.com/caohungphu/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/caohungphu/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/caohungphu/react2shell">
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
+- [StealthMoud/cve-2025-55184-demo](https://github.com/StealthMoud/cve-2025-55184-demo)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/cve-2025-55184-demo">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/cve-2025-55184-demo">
 
 ---
 ## CVE-2025-55183 ()
