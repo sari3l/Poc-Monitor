@@ -2314,6 +2314,7 @@
 - [williavs/nextjs-security-update](https://github.com/williavs/nextjs-security-update)	<img alt="forks" src="https://img.shields.io/github/forks/williavs/nextjs-security-update">	<img alt="stars" src="https://img.shields.io/github/stars/williavs/nextjs-security-update">
 - [X-Cotang/CVE-2025-55183_POC](https://github.com/X-Cotang/CVE-2025-55183_POC)	<img alt="forks" src="https://img.shields.io/github/forks/X-Cotang/CVE-2025-55183_POC">	<img alt="stars" src="https://img.shields.io/github/stars/X-Cotang/CVE-2025-55183_POC">
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
+- [omaidnebari/RSC-Scanner-POC](https://github.com/omaidnebari/RSC-Scanner-POC)	<img alt="forks" src="https://img.shields.io/github/forks/omaidnebari/RSC-Scanner-POC">	<img alt="stars" src="https://img.shields.io/github/stars/omaidnebari/RSC-Scanner-POC">
 
 ---
 ## CVE-2025-55182 ()
