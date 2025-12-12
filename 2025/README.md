@@ -2669,6 +2669,7 @@
 - [ryanhafid/PoC_CVE-2025-55182](https://github.com/ryanhafid/PoC_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ryanhafid/PoC_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ryanhafid/PoC_CVE-2025-55182">
 - [caohungphu/react2shell](https://github.com/caohungphu/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/caohungphu/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/caohungphu/react2shell">
 - [xalgord/React2Shell](https://github.com/xalgord/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord/React2Shell">
+- [0xLutfifakee/CVE-2025-55182-React2Shell](https://github.com/0xLutfifakee/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xLutfifakee/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xLutfifakee/CVE-2025-55182-React2Shell">
 
 ---
 ## CVE-2025-54988 ()
@@ -4508,6 +4509,11 @@
 - [calysteon/CVE-2025-43504](https://github.com/calysteon/CVE-2025-43504)	<img alt="forks" src="https://img.shields.io/github/forks/calysteon/CVE-2025-43504">	<img alt="stars" src="https://img.shields.io/github/stars/calysteon/CVE-2025-43504">
 
 ---
+## CVE-2025-43426 ()
+> 
+- [csrXamfi/CVE-2025-43426](https://github.com/csrXamfi/CVE-2025-43426)	<img alt="forks" src="https://img.shields.io/github/forks/csrXamfi/CVE-2025-43426">	<img alt="stars" src="https://img.shields.io/github/stars/csrXamfi/CVE-2025-43426">
+
+---
 ## CVE-2025-43400 ()
 > 
 - [csrXamfi/CVE-2025-43400](https://github.com/csrXamfi/CVE-2025-43400)	<img alt="forks" src="https://img.shields.io/github/forks/csrXamfi/CVE-2025-43400">	<img alt="stars" src="https://img.shields.io/github/stars/csrXamfi/CVE-2025-43400">
@@ -4896,6 +4902,11 @@
 > 
 - [Nxploited/CVE-2025-3776](https://github.com/Nxploited/CVE-2025-3776)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-3776">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-3776">
 - [Totunm/CVE-2025-3776](https://github.com/Totunm/CVE-2025-3776)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-3776">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-3776">
+
+---
+## CVE-2025-36924 ()
+> 
+- [margaretegpid/CVE-2025-36924](https://github.com/margaretegpid/CVE-2025-36924)	<img alt="forks" src="https://img.shields.io/github/forks/margaretegpid/CVE-2025-36924">	<img alt="stars" src="https://img.shields.io/github/stars/margaretegpid/CVE-2025-36924">
 
 ---
 ## CVE-2025-36535 ()
