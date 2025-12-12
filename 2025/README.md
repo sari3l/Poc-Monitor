@@ -2671,6 +2671,7 @@
 - [xalgord/React2Shell](https://github.com/xalgord/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord/React2Shell">
 - [0xLutfifakee/CVE-2025-55182-React2Shell](https://github.com/0xLutfifakee/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xLutfifakee/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xLutfifakee/CVE-2025-55182-React2Shell">
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
+- [eaizy/react2hulud-scan](https://github.com/eaizy/react2hulud-scan)	<img alt="forks" src="https://img.shields.io/github/forks/eaizy/react2hulud-scan">	<img alt="stars" src="https://img.shields.io/github/stars/eaizy/react2hulud-scan">
 
 ---
 ## CVE-2025-54988 ()
