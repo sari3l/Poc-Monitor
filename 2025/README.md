@@ -2667,6 +2667,8 @@
 - [oguri-souhei/CVE-2025-55182](https://github.com/oguri-souhei/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/oguri-souhei/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/oguri-souhei/CVE-2025-55182">
 - [ryanhafid/Scan_CVE-2025-55182](https://github.com/ryanhafid/Scan_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ryanhafid/Scan_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ryanhafid/Scan_CVE-2025-55182">
 - [ryanhafid/PoC_CVE-2025-55182](https://github.com/ryanhafid/PoC_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ryanhafid/PoC_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ryanhafid/PoC_CVE-2025-55182">
+- [caohungphu/react2shell](https://github.com/caohungphu/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/caohungphu/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/caohungphu/react2shell">
+- [xalgord/React2Shell](https://github.com/xalgord/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
