@@ -5778,6 +5778,7 @@
 > It is possible for a malicious application to construct a TYPE_TOAST window manually and make that window clickable. This could lead to a local escalation of privilege with no additional execution privileges needed. User action is needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-128674520
 - [ASIFASSU/CVE-2020-0014](https://github.com/ASIFASSU/CVE-2020-0014)	<img alt="forks" src="https://img.shields.io/github/forks/ASIFASSU/CVE-2020-0014">	<img alt="stars" src="https://img.shields.io/github/stars/ASIFASSU/CVE-2020-0014">
 - [tea9/CVE-2020-0014-Toast](https://github.com/tea9/CVE-2020-0014-Toast)	<img alt="forks" src="https://img.shields.io/github/forks/tea9/CVE-2020-0014-Toast">	<img alt="stars" src="https://img.shields.io/github/stars/tea9/CVE-2020-0014-Toast">
+- [doudoudedi/CVE-2020-0014_Toast](https://github.com/doudoudedi/CVE-2020-0014_Toast)	<img alt="forks" src="https://img.shields.io/github/forks/doudoudedi/CVE-2020-0014_Toast">	<img alt="stars" src="https://img.shields.io/github/stars/doudoudedi/CVE-2020-0014_Toast">
 
 ---
 ## CVE-2020-0009 (2020-01-08T16:15:00)
