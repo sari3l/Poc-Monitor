@@ -7581,6 +7581,11 @@
 - [0xcucumbersalad/CVE-2025-13796-PoC](https://github.com/0xcucumbersalad/CVE-2025-13796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-13796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-13796-PoC">
 
 ---
+## CVE-2025-13780 ()
+> 
+- [zeropwn/pgadmin4-9.10-CVE-2025-13780](https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/zeropwn/pgadmin4-9.10-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/zeropwn/pgadmin4-9.10-CVE-2025-13780">
+
+---
 ## CVE-2025-13615 ()
 > 
 - [cowboyburgh781/CVE-2025-13615-Exploit](https://github.com/cowboyburgh781/CVE-2025-13615-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cowboyburgh781/CVE-2025-13615-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cowboyburgh781/CVE-2025-13615-Exploit">
