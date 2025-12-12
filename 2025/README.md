@@ -2648,6 +2648,7 @@
 - [yuta3003/CVE-2025-55182](https://github.com/yuta3003/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yuta3003/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yuta3003/CVE-2025-55182">
 - [shyam-chauhan/react2shell_check](https://github.com/shyam-chauhan/react2shell_check)	<img alt="forks" src="https://img.shields.io/github/forks/shyam-chauhan/react2shell_check">	<img alt="stars" src="https://img.shields.io/github/stars/shyam-chauhan/react2shell_check">
 - [yuta3003/CVE-2025-55182](https://github.com/yuta3003/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yuta3003/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yuta3003/CVE-2025-55182">
+- [securifyai/React2Shell-CVE-2025-55182](https://github.com/securifyai/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/securifyai/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/securifyai/React2Shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
