@@ -4508,6 +4508,11 @@
 - [calysteon/CVE-2025-43504](https://github.com/calysteon/CVE-2025-43504)	<img alt="forks" src="https://img.shields.io/github/forks/calysteon/CVE-2025-43504">	<img alt="stars" src="https://img.shields.io/github/stars/calysteon/CVE-2025-43504">
 
 ---
+## CVE-2025-43400 ()
+> 
+- [csrXamfi/CVE-2025-43400](https://github.com/csrXamfi/CVE-2025-43400)	<img alt="forks" src="https://img.shields.io/github/forks/csrXamfi/CVE-2025-43400">	<img alt="stars" src="https://img.shields.io/github/stars/csrXamfi/CVE-2025-43400">
+
+---
 ## CVE-2025-43372 ()
 > 
 - [allinsthon/CVE-2025-43372](https://github.com/allinsthon/CVE-2025-43372)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-43372">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-43372">
