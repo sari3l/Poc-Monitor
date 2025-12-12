@@ -1737,6 +1737,7 @@
 - [Ashwesker/Blackash-CVE-2025-58360](https://github.com/Ashwesker/Blackash-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-58360">
 - [quyenheu/CVE-2025-58360](https://github.com/quyenheu/CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/quyenheu/CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/quyenheu/CVE-2025-58360">
 - [rxerium/CVE-2025-58360](https://github.com/rxerium/CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-58360">
+- [Joker-Wiggin/CVE-2025-58360-GeoServer-XXE](https://github.com/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE">
 
 ---
 ## CVE-2025-58180 ()
@@ -2672,6 +2673,7 @@
 - [0xLutfifakee/CVE-2025-55182-React2Shell](https://github.com/0xLutfifakee/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xLutfifakee/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xLutfifakee/CVE-2025-55182-React2Shell">
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
 - [eaizy/react2hulud-scan](https://github.com/eaizy/react2hulud-scan)	<img alt="forks" src="https://img.shields.io/github/forks/eaizy/react2hulud-scan">	<img alt="stars" src="https://img.shields.io/github/stars/eaizy/react2hulud-scan">
+- [sho-luv/React2Shell](https://github.com/sho-luv/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/sho-luv/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/sho-luv/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
