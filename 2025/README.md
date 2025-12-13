@@ -2695,6 +2695,7 @@
 - [dhananjayakumarn/CVE-2025-55182-Lab](https://github.com/dhananjayakumarn/CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/dhananjayakumarn/CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/dhananjayakumarn/CVE-2025-55182-Lab">
 - [ZorvithonLeo-Null/CVE-2025-55182-exploit](https://github.com/ZorvithonLeo-Null/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ZorvithonLeo-Null/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ZorvithonLeo-Null/CVE-2025-55182-exploit">
 - [h0tak88r/next88](https://github.com/h0tak88r/next88)	<img alt="forks" src="https://img.shields.io/github/forks/h0tak88r/next88">	<img alt="stars" src="https://img.shields.io/github/stars/h0tak88r/next88">
+- [sangleshubham/React-Security-CVE-2025-55182-Exploit](https://github.com/sangleshubham/React-Security-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sangleshubham/React-Security-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sangleshubham/React-Security-CVE-2025-55182-Exploit">
 
 ---
 ## CVE-2025-54988 ()
