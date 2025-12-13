@@ -2307,6 +2307,7 @@
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
 - [StealthMoud/cve-2025-55184-demo](https://github.com/StealthMoud/cve-2025-55184-demo)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/cve-2025-55184-demo">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/cve-2025-55184-demo">
 - [abdozkaya/rsc-security-auditor](https://github.com/abdozkaya/rsc-security-auditor)	<img alt="forks" src="https://img.shields.io/github/forks/abdozkaya/rsc-security-auditor">	<img alt="stars" src="https://img.shields.io/github/stars/abdozkaya/rsc-security-auditor">
+- [StealthMoud/react-server-cve-lab](https://github.com/StealthMoud/react-server-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/react-server-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/react-server-cve-lab">
 
 ---
 ## CVE-2025-55183 ()
