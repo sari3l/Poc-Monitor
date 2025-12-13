@@ -2679,6 +2679,7 @@
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
 - [eaizy/react2hulud-scan](https://github.com/eaizy/react2hulud-scan)	<img alt="forks" src="https://img.shields.io/github/forks/eaizy/react2hulud-scan">	<img alt="stars" src="https://img.shields.io/github/stars/eaizy/react2hulud-scan">
 - [sho-luv/React2Shell](https://github.com/sho-luv/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/sho-luv/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/sho-luv/React2Shell">
+- [TheStingR/ReactOOPS-WriteUp](https://github.com/TheStingR/ReactOOPS-WriteUp)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/ReactOOPS-WriteUp">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/ReactOOPS-WriteUp">
 
 ---
 ## CVE-2025-54988 ()
