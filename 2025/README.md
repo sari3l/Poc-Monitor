@@ -2699,6 +2699,7 @@
 - [h0tak88r/next88](https://github.com/h0tak88r/next88)	<img alt="forks" src="https://img.shields.io/github/forks/h0tak88r/next88">	<img alt="stars" src="https://img.shields.io/github/stars/h0tak88r/next88">
 - [sangleshubham/React-Security-CVE-2025-55182-Exploit](https://github.com/sangleshubham/React-Security-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sangleshubham/React-Security-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sangleshubham/React-Security-CVE-2025-55182-Exploit">
 - [TrixSec/CVE-2025-55182-Scanner](https://github.com/TrixSec/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/TrixSec/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/TrixSec/CVE-2025-55182-Scanner">
+- [mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478](https://github.com/mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478">
 
 ---
 ## CVE-2025-54988 ()
