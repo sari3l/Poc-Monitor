@@ -2314,6 +2314,8 @@
 - [StealthMoud/cve-2025-55184-demo](https://github.com/StealthMoud/cve-2025-55184-demo)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/cve-2025-55184-demo">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/cve-2025-55184-demo">
 - [abdozkaya/rsc-security-auditor](https://github.com/abdozkaya/rsc-security-auditor)	<img alt="forks" src="https://img.shields.io/github/forks/abdozkaya/rsc-security-auditor">	<img alt="stars" src="https://img.shields.io/github/stars/abdozkaya/rsc-security-auditor">
 - [StealthMoud/react-server-cve-lab](https://github.com/StealthMoud/react-server-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/react-server-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/react-server-cve-lab">
+- [cyberleelawat/CVE-2025-55184](https://github.com/cyberleelawat/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/cyberleelawat/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/cyberleelawat/CVE-2025-55184">
+- [Kajal5414/CVE-2025-55184_Testing](https://github.com/Kajal5414/CVE-2025-55184_Testing)	<img alt="forks" src="https://img.shields.io/github/forks/Kajal5414/CVE-2025-55184_Testing">	<img alt="stars" src="https://img.shields.io/github/stars/Kajal5414/CVE-2025-55184_Testing">
 
 ---
 ## CVE-2025-55183 ()
@@ -2696,6 +2698,7 @@
 - [ZorvithonLeo-Null/CVE-2025-55182-exploit](https://github.com/ZorvithonLeo-Null/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ZorvithonLeo-Null/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ZorvithonLeo-Null/CVE-2025-55182-exploit">
 - [h0tak88r/next88](https://github.com/h0tak88r/next88)	<img alt="forks" src="https://img.shields.io/github/forks/h0tak88r/next88">	<img alt="stars" src="https://img.shields.io/github/stars/h0tak88r/next88">
 - [sangleshubham/React-Security-CVE-2025-55182-Exploit](https://github.com/sangleshubham/React-Security-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sangleshubham/React-Security-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sangleshubham/React-Security-CVE-2025-55182-Exploit">
+- [TrixSec/CVE-2025-55182-Scanner](https://github.com/TrixSec/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/TrixSec/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/TrixSec/CVE-2025-55182-Scanner">
 
 ---
 ## CVE-2025-54988 ()
