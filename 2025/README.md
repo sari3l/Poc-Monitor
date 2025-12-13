@@ -2692,6 +2692,7 @@
 - [quxaa/RSC-Security-Analyzer](https://github.com/quxaa/RSC-Security-Analyzer)	<img alt="forks" src="https://img.shields.io/github/forks/quxaa/RSC-Security-Analyzer">	<img alt="stars" src="https://img.shields.io/github/stars/quxaa/RSC-Security-Analyzer">
 - [Kugelbyte/React2Shell-Analysis](https://github.com/Kugelbyte/React2Shell-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Kugelbyte/React2Shell-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Kugelbyte/React2Shell-Analysis">
 - [InfoSecAntara/CTF-CVE-2025-55182-React-Server-Components-Prototype-Pollution-to-RCE.](https://github.com/InfoSecAntara/CTF-CVE-2025-55182-React-Server-Components-Prototype-Pollution-to-RCE.)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CTF-CVE-2025-55182-React-Server-Components-Prototype-Pollution-to-RCE.">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CTF-CVE-2025-55182-React-Server-Components-Prototype-Pollution-to-RCE.">
+- [dhananjayakumarn/CVE-2025-55182-Lab](https://github.com/dhananjayakumarn/CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/dhananjayakumarn/CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/dhananjayakumarn/CVE-2025-55182-Lab">
 
 ---
 ## CVE-2025-54988 ()
