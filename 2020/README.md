@@ -2673,6 +2673,12 @@
 - [Live-Hack-CVE/CVE-2020-25692](https://github.com/Live-Hack-CVE/CVE-2020-25692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25692">
 
 ---
+## CVE-2020-25681 ()
+> 
+- [nuliljj/CVE-2020-25681](https://github.com/nuliljj/CVE-2020-25681)	<img alt="forks" src="https://img.shields.io/github/forks/nuliljj/CVE-2020-25681">	<img alt="stars" src="https://img.shields.io/github/stars/nuliljj/CVE-2020-25681">
+- [nuliljj/kimocoder-CVE-2020-25681](https://github.com/nuliljj/kimocoder-CVE-2020-25681)	<img alt="forks" src="https://img.shields.io/github/forks/nuliljj/kimocoder-CVE-2020-25681">	<img alt="stars" src="https://img.shields.io/github/stars/nuliljj/kimocoder-CVE-2020-25681">
+
+---
 ## CVE-2020-25673 (2021-05-26T11:15:00)
 > A vulnerability was found in Linux kernel where non-blocking socket in llcp_sock_connect() leads to leak and eventually hanging-up the system.
 - [Live-Hack-CVE/CVE-2020-25673](https://github.com/Live-Hack-CVE/CVE-2020-25673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25673">
