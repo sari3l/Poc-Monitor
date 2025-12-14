@@ -7690,6 +7690,7 @@
 ## CVE-2025-14174 ()
 > 
 - [MalBean/CVE-2025-14174-Bypass](https://github.com/MalBean/CVE-2025-14174-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass">
+- [Terrasue/CVE-2025-14174-Exploit](https://github.com/Terrasue/CVE-2025-14174-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Terrasue/CVE-2025-14174-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Terrasue/CVE-2025-14174-Exploit">
 
 ---
 ## CVE-2025-13796 ()
