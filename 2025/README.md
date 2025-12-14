@@ -2709,6 +2709,7 @@
 - [hidden-investigations/react2shell-vulnlab](https://github.com/hidden-investigations/react2shell-vulnlab)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/react2shell-vulnlab">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/react2shell-vulnlab">
 - [MammaniNelsonD/React2P4IM0Nshell](https://github.com/MammaniNelsonD/React2P4IM0Nshell)	<img alt="forks" src="https://img.shields.io/github/forks/MammaniNelsonD/React2P4IM0Nshell">	<img alt="stars" src="https://img.shields.io/github/stars/MammaniNelsonD/React2P4IM0Nshell">
 - [tinashelorenzi/CVE-2025-55182](https://github.com/tinashelorenzi/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tinashelorenzi/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tinashelorenzi/CVE-2025-55182">
+- [ProwlSec/React2Shell](https://github.com/ProwlSec/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ProwlSec/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ProwlSec/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
@@ -3985,6 +3986,8 @@
 - [TheCodeAddiction/CVE-2025-48384](https://github.com/TheCodeAddiction/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/TheCodeAddiction/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/TheCodeAddiction/CVE-2025-48384">
 - [zr0n/CVE-2025-48384-main](https://github.com/zr0n/CVE-2025-48384-main)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/CVE-2025-48384-main">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/CVE-2025-48384-main">
 - [zr0n/CVE-2025-48384-sub](https://github.com/zr0n/CVE-2025-48384-sub)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/CVE-2025-48384-sub">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/CVE-2025-48384-sub">
+- [vignesh21-git/CVE-2025-48384-submodule](https://github.com/vignesh21-git/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/vignesh21-git/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/vignesh21-git/CVE-2025-48384-submodule">
+- [vignesh21-git/CVE-2025-48384](https://github.com/vignesh21-git/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/vignesh21-git/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/vignesh21-git/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
