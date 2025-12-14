@@ -2708,6 +2708,7 @@
 - [grejh0t/CVE-2025-55182](https://github.com/grejh0t/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/grejh0t/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/grejh0t/CVE-2025-55182">
 - [hidden-investigations/react2shell-vulnlab](https://github.com/hidden-investigations/react2shell-vulnlab)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/react2shell-vulnlab">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/react2shell-vulnlab">
 - [MammaniNelsonD/React2P4IM0Nshell](https://github.com/MammaniNelsonD/React2P4IM0Nshell)	<img alt="forks" src="https://img.shields.io/github/forks/MammaniNelsonD/React2P4IM0Nshell">	<img alt="stars" src="https://img.shields.io/github/stars/MammaniNelsonD/React2P4IM0Nshell">
+- [tinashelorenzi/CVE-2025-55182](https://github.com/tinashelorenzi/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tinashelorenzi/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tinashelorenzi/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -7682,7 +7683,7 @@
 ---
 ## CVE-2025-14174 ()
 > 
-- [MalBean/CVE-2025-14174-Bypass-](https://github.com/MalBean/CVE-2025-14174-Bypass-)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass-">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass-">
+- [MalBean/CVE-2025-14174-Bypass](https://github.com/MalBean/CVE-2025-14174-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass">
 
 ---
 ## CVE-2025-13796 ()
