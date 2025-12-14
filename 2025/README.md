@@ -116,6 +116,7 @@
 - [PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape](https://github.com/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">
 - [pppxo/CVE-2025-9074-PoC-Bash](https://github.com/pppxo/CVE-2025-9074-PoC-Bash)	<img alt="forks" src="https://img.shields.io/github/forks/pppxo/CVE-2025-9074-PoC-Bash">	<img alt="stars" src="https://img.shields.io/github/stars/pppxo/CVE-2025-9074-PoC-Bash">
 - [3rendil/CVE-2025-9074-POC](https://github.com/3rendil/CVE-2025-9074-POC)	<img alt="forks" src="https://img.shields.io/github/forks/3rendil/CVE-2025-9074-POC">	<img alt="stars" src="https://img.shields.io/github/stars/3rendil/CVE-2025-9074-POC">
+- [fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER](https://github.com/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER">
 
 ---
 ## CVE-2025-9043 ()
