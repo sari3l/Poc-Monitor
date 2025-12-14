@@ -1526,7 +1526,7 @@
 - [mistrustt/PAM-UDisks-PrivEsc-Metasploit](https://github.com/mistrustt/PAM-UDisks-PrivEsc-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrustt/PAM-UDisks-PrivEsc-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrustt/PAM-UDisks-PrivEsc-Metasploit">
 - [robbin0919/CVE-2025-6019](https://github.com/robbin0919/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/robbin0919/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/robbin0919/CVE-2025-6019">
 - [euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019](https://github.com/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">
-- [phamdinhquy2512/CVE-2025-6019-Exploitation-Reproduction](https://github.com/phamdinhquy2512/CVE-2025-6019-Exploitation-Reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/phamdinhquy2512/CVE-2025-6019-Exploitation-Reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/phamdinhquy2512/CVE-2025-6019-Exploitation-Reproduction">
+- [phamdinhquy2512/CVE-2025-6019-Exploitation](https://github.com/phamdinhquy2512/CVE-2025-6019-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/phamdinhquy2512/CVE-2025-6019-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/phamdinhquy2512/CVE-2025-6019-Exploitation">
 
 ---
 ## CVE-2025-6018 ()
@@ -2714,6 +2714,7 @@
 - [CyberPrince-hub/React2shell-ultimate-scanner](https://github.com/CyberPrince-hub/React2shell-ultimate-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CyberPrince-hub/React2shell-ultimate-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CyberPrince-hub/React2shell-ultimate-scanner">
 - [VVVI5HNU/CVE-2025-55182](https://github.com/VVVI5HNU/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/VVVI5HNU/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/VVVI5HNU/CVE-2025-55182">
 - [hidden-investigations/react2shell-scanner](https://github.com/hidden-investigations/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/react2shell-scanner">
+- [EvtDanya/rsc-vulnerabilities](https://github.com/EvtDanya/rsc-vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/EvtDanya/rsc-vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/EvtDanya/rsc-vulnerabilities">
 
 ---
 ## CVE-2025-54988 ()
