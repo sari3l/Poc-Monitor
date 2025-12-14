@@ -9830,6 +9830,11 @@ authentication.   
 - [RandomRobbieBF/CVE-2024-12252](https://github.com/RandomRobbieBF/CVE-2024-12252)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12252">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12252">
 
 ---
+## CVE-2024-12227 ()
+> 
+- [HI0U/POC-CVE-2024-12227](https://github.com/HI0U/POC-CVE-2024-12227)	<img alt="forks" src="https://img.shields.io/github/forks/HI0U/POC-CVE-2024-12227">	<img alt="stars" src="https://img.shields.io/github/stars/HI0U/POC-CVE-2024-12227">
+
+---
 ## CVE-2024-12209 ()
 > 
 - [RandomRobbieBF/CVE-2024-12209](https://github.com/RandomRobbieBF/CVE-2024-12209)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12209">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12209">

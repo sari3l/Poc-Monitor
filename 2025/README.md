@@ -2710,6 +2710,8 @@
 - [MammaniNelsonD/React2P4IM0Nshell](https://github.com/MammaniNelsonD/React2P4IM0Nshell)	<img alt="forks" src="https://img.shields.io/github/forks/MammaniNelsonD/React2P4IM0Nshell">	<img alt="stars" src="https://img.shields.io/github/stars/MammaniNelsonD/React2P4IM0Nshell">
 - [tinashelorenzi/CVE-2025-55182](https://github.com/tinashelorenzi/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tinashelorenzi/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tinashelorenzi/CVE-2025-55182">
 - [ProwlSec/React2Shell](https://github.com/ProwlSec/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ProwlSec/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ProwlSec/React2Shell">
+- [CyberPrince-hub/CVE-2025-55182-Advanced-Scanner](https://github.com/CyberPrince-hub/CVE-2025-55182-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CyberPrince-hub/CVE-2025-55182-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CyberPrince-hub/CVE-2025-55182-Advanced-Scanner">
+- [VVVI5HNU/CVE-2025-55182](https://github.com/VVVI5HNU/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/VVVI5HNU/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/VVVI5HNU/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
