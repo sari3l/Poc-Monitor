@@ -7680,6 +7680,11 @@
 - [fatmatrabelsi17/CVE-2025-14221](https://github.com/fatmatrabelsi17/CVE-2025-14221)	<img alt="forks" src="https://img.shields.io/github/forks/fatmatrabelsi17/CVE-2025-14221">	<img alt="stars" src="https://img.shields.io/github/stars/fatmatrabelsi17/CVE-2025-14221">
 
 ---
+## CVE-2025-14174 ()
+> 
+- [MalBean/CVE-2025-14174-Bypass-](https://github.com/MalBean/CVE-2025-14174-Bypass-)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass-">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass-">
+
+---
 ## CVE-2025-13796 ()
 > 
 - [0xcucumbersalad/CVE-2025-13796-PoC](https://github.com/0xcucumbersalad/CVE-2025-13796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-13796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-13796-PoC">
