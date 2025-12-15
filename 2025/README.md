@@ -4373,6 +4373,7 @@
 ## CVE-2025-45805 ()
 > 
 - [mhsinj/CVE-2025-45805](https://github.com/mhsinj/CVE-2025-45805)	<img alt="forks" src="https://img.shields.io/github/forks/mhsinj/CVE-2025-45805">	<img alt="stars" src="https://img.shields.io/github/stars/mhsinj/CVE-2025-45805">
+- [mohammed-alsaqqaf/CVE-2025-45805](https://github.com/mohammed-alsaqqaf/CVE-2025-45805)	<img alt="forks" src="https://img.shields.io/github/forks/mohammed-alsaqqaf/CVE-2025-45805">	<img alt="stars" src="https://img.shields.io/github/stars/mohammed-alsaqqaf/CVE-2025-45805">
 
 ---
 ## CVE-2025-45781 ()
