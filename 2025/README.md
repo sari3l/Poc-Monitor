@@ -2741,6 +2741,7 @@
 - [hulh122/CVE-2025-55182](https://github.com/hulh122/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hulh122/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hulh122/CVE-2025-55182">
 - [simantchaudhari/CVE-2025-55182](https://github.com/simantchaudhari/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/simantchaudhari/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/simantchaudhari/CVE-2025-55182">
 - [Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182](https://github.com/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">
+- [premdanav/react2shelldemo](https://github.com/premdanav/react2shelldemo)	<img alt="forks" src="https://img.shields.io/github/forks/premdanav/react2shelldemo">	<img alt="stars" src="https://img.shields.io/github/stars/premdanav/react2shelldemo">
 
 ---
 ## CVE-2025-54988 ()
@@ -7953,6 +7954,11 @@
 ## CVE-2025-12428 ()
 > 
 - [dexterm300/cve-2025-12428-exploit-poc](https://github.com/dexterm300/cve-2025-12428-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/cve-2025-12428-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/cve-2025-12428-exploit-poc">
+
+---
+## CVE-2025-12163 ()
+> 
+- [SnailSploit/CVE-2025-12163](https://github.com/SnailSploit/CVE-2025-12163)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-12163">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-12163">
 
 ---
 ## CVE-2025-12101 ()
