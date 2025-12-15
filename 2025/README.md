@@ -781,6 +781,11 @@
 - [Smarttfoxx/CVE-2025-65320](https://github.com/Smarttfoxx/CVE-2025-65320)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-65320">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-65320">
 
 ---
+## CVE-2025-65318 ()
+> 
+- [bbaboha/CVE-2025-65318-and-CVE-2025-65319](https://github.com/bbaboha/CVE-2025-65318-and-CVE-2025-65319)	<img alt="forks" src="https://img.shields.io/github/forks/bbaboha/CVE-2025-65318-and-CVE-2025-65319">	<img alt="stars" src="https://img.shields.io/github/stars/bbaboha/CVE-2025-65318-and-CVE-2025-65319">
+
+---
 ## CVE-2025-65300 ()
 > 
 - [garux-sec/CVE-2025-65300](https://github.com/garux-sec/CVE-2025-65300)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/CVE-2025-65300">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/CVE-2025-65300">
