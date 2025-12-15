@@ -5419,6 +5419,8 @@
 - [2h3ph3rd/CVE-2025-32434](https://github.com/2h3ph3rd/CVE-2025-32434)	<img alt="forks" src="https://img.shields.io/github/forks/2h3ph3rd/CVE-2025-32434">	<img alt="stars" src="https://img.shields.io/github/stars/2h3ph3rd/CVE-2025-32434">
 - [cyhe50/cve-2025-32434-poc](https://github.com/cyhe50/cve-2025-32434-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cyhe50/cve-2025-32434-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cyhe50/cve-2025-32434-poc">
 - [Camier/VOIXCODER](https://github.com/Camier/VOIXCODER)	<img alt="forks" src="https://img.shields.io/github/forks/Camier/VOIXCODER">	<img alt="stars" src="https://img.shields.io/github/stars/Camier/VOIXCODER">
+- [B1tBit/CVE-2025-32434-exploit](https://github.com/B1tBit/CVE-2025-32434-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBit/CVE-2025-32434-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBit/CVE-2025-32434-exploit">
+- [Cheval-Paresseux/cve_2025_32434](https://github.com/Cheval-Paresseux/cve_2025_32434)	<img alt="forks" src="https://img.shields.io/github/forks/Cheval-Paresseux/cve_2025_32434">	<img alt="stars" src="https://img.shields.io/github/stars/Cheval-Paresseux/cve_2025_32434">
 
 ---
 ## CVE-2025-32433 ()
