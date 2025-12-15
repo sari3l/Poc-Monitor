@@ -3628,6 +3628,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [0xmupa/CVE-2024-43416-PoC](https://github.com/0xmupa/CVE-2024-43416-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-43416-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-43416-PoC">
 
 ---
+## CVE-2024-43400 ()
+> 
+- [rain321654/yasa-cve-2024-43400](https://github.com/rain321654/yasa-cve-2024-43400)	<img alt="forks" src="https://img.shields.io/github/forks/rain321654/yasa-cve-2024-43400">	<img alt="stars" src="https://img.shields.io/github/stars/rain321654/yasa-cve-2024-43400">
+
+---
 ## CVE-2024-43363 (2024-10-07T21:15:00)
 > Cacti is an open source performance and fault management framework. An admin user can create a device with a malicious hostname containing php code and repeat the installation process (completing only step 5 of the installation process is enough, no need to complete the steps before or after it) to use a php file as the cacti log file. After having the malicious hostname end up in the logs (log poisoning), one can simply go to the log file url to execute commands to achieve RCE. This issue has been addressed in version 1.2.28 and all users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [p33d/CVE-2024-43363](https://github.com/p33d/CVE-2024-43363)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-43363">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-43363">
