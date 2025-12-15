@@ -2739,6 +2739,7 @@
 - [subhdotsol/CVE-2025-55182](https://github.com/subhdotsol/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/subhdotsol/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/subhdotsol/CVE-2025-55182">
 - [Call123X/-cve-2025-55182](https://github.com/Call123X/-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Call123X/-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Call123X/-cve-2025-55182">
 - [hulh122/CVE-2025-55182](https://github.com/hulh122/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hulh122/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hulh122/CVE-2025-55182">
+- [simantchaudhari/CVE-2025-55182](https://github.com/simantchaudhari/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/simantchaudhari/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/simantchaudhari/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
