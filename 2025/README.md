@@ -674,6 +674,11 @@
 - [KhanhDuy155/calibre-web-CVE-2025-65858](https://github.com/KhanhDuy155/calibre-web-CVE-2025-65858)	<img alt="forks" src="https://img.shields.io/github/forks/KhanhDuy155/calibre-web-CVE-2025-65858">	<img alt="stars" src="https://img.shields.io/github/stars/KhanhDuy155/calibre-web-CVE-2025-65858">
 
 ---
+## CVE-2025-65855 ()
+> 
+- [LuisMirandaAcebedo/CVE-2025-65855](https://github.com/LuisMirandaAcebedo/CVE-2025-65855)	<img alt="forks" src="https://img.shields.io/github/forks/LuisMirandaAcebedo/CVE-2025-65855">	<img alt="stars" src="https://img.shields.io/github/stars/LuisMirandaAcebedo/CVE-2025-65855">
+
+---
 ## CVE-2025-65806 ()
 > 
 - [Bidon47/CVE-2025-65806](https://github.com/Bidon47/CVE-2025-65806)	<img alt="forks" src="https://img.shields.io/github/forks/Bidon47/CVE-2025-65806">	<img alt="stars" src="https://img.shields.io/github/stars/Bidon47/CVE-2025-65806">
