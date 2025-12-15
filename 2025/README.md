@@ -1198,6 +1198,7 @@
 - [mulwareX/CVE-2025-6218-POC](https://github.com/mulwareX/CVE-2025-6218-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mulwareX/CVE-2025-6218-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mulwareX/CVE-2025-6218-POC">
 - [absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE](https://github.com/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">
 - [Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC](https://github.com/Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chrxstxqn/CVE-2025-6218-WinRAR-RCE-POC">
+- [hatchepsoout/sigma-rules](https://github.com/hatchepsoout/sigma-rules)	<img alt="forks" src="https://img.shields.io/github/forks/hatchepsoout/sigma-rules">	<img alt="stars" src="https://img.shields.io/github/stars/hatchepsoout/sigma-rules">
 
 ---
 ## CVE-2025-62168 ()
