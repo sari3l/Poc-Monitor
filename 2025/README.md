@@ -2740,6 +2740,7 @@
 - [Call123X/-cve-2025-55182](https://github.com/Call123X/-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Call123X/-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Call123X/-cve-2025-55182">
 - [hulh122/CVE-2025-55182](https://github.com/hulh122/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hulh122/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hulh122/CVE-2025-55182">
 - [simantchaudhari/CVE-2025-55182](https://github.com/simantchaudhari/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/simantchaudhari/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/simantchaudhari/CVE-2025-55182">
+- [Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182](https://github.com/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -7735,6 +7736,7 @@
 > 
 - [zeropwn/pgadmin4-9.10-CVE-2025-13780](https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/zeropwn/pgadmin4-9.10-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/zeropwn/pgadmin4-9.10-CVE-2025-13780">
 - [meenakshisl/PoC-CVE-2025-13780](https://github.com/meenakshisl/PoC-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/meenakshisl/PoC-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/meenakshisl/PoC-CVE-2025-13780">
+- [Ashwesker/Blackash-CVE-2025-13780](https://github.com/Ashwesker/Blackash-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-13780">
 
 ---
 ## CVE-2025-13615 ()

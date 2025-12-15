@@ -3631,6 +3631,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 ## CVE-2024-43400 ()
 > 
 - [rain321654/yasa-cve-2024-43400](https://github.com/rain321654/yasa-cve-2024-43400)	<img alt="forks" src="https://img.shields.io/github/forks/rain321654/yasa-cve-2024-43400">	<img alt="stars" src="https://img.shields.io/github/stars/rain321654/yasa-cve-2024-43400">
+- [rain321654/yasa-cve-2024-43400-main1](https://github.com/rain321654/yasa-cve-2024-43400-main1)	<img alt="forks" src="https://img.shields.io/github/forks/rain321654/yasa-cve-2024-43400-main1">	<img alt="stars" src="https://img.shields.io/github/stars/rain321654/yasa-cve-2024-43400-main1">
 
 ---
 ## CVE-2024-43363 (2024-10-07T21:15:00)
