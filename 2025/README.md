@@ -2734,6 +2734,7 @@
 - [hidden-investigations/react2shell-scanner](https://github.com/hidden-investigations/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/react2shell-scanner">
 - [EvtDanya/rsc-vulnerabilities](https://github.com/EvtDanya/rsc-vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/EvtDanya/rsc-vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/EvtDanya/rsc-vulnerabilities">
 - [mivmi/CVE-2025-55182](https://github.com/mivmi/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/mivmi/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/mivmi/CVE-2025-55182">
+- [subhdotsol/CVE-2025-55182](https://github.com/subhdotsol/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/subhdotsol/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/subhdotsol/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
