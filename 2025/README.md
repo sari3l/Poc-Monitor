@@ -2742,6 +2742,7 @@
 - [simantchaudhari/CVE-2025-55182](https://github.com/simantchaudhari/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/simantchaudhari/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/simantchaudhari/CVE-2025-55182">
 - [Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182](https://github.com/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">
 - [premdanav/react2shelldemo](https://github.com/premdanav/react2shelldemo)	<img alt="forks" src="https://img.shields.io/github/forks/premdanav/react2shelldemo">	<img alt="stars" src="https://img.shields.io/github/stars/premdanav/react2shelldemo">
+- [doc0null/nextjs-CVE-2025-55182](https://github.com/doc0null/nextjs-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/doc0null/nextjs-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/doc0null/nextjs-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
