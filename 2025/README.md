@@ -770,6 +770,11 @@
 - [abrewer251/CVE-2025-6543_CitrixNetScaler_PoC](https://github.com/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC">
 
 ---
+## CVE-2025-65427 ()
+> 
+- [kirubel-cve/CVE-2025-65427](https://github.com/kirubel-cve/CVE-2025-65427)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2025-65427">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2025-65427">
+
+---
 ## CVE-2025-65346 ()
 > 
 - [Theethat-Thamwasin/CVE-2025-65346](https://github.com/Theethat-Thamwasin/CVE-2025-65346)	<img alt="forks" src="https://img.shields.io/github/forks/Theethat-Thamwasin/CVE-2025-65346">	<img alt="stars" src="https://img.shields.io/github/stars/Theethat-Thamwasin/CVE-2025-65346">
