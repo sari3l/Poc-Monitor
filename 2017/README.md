@@ -1820,6 +1820,7 @@
 - [nivedh-j/EternalBlue-Explained](https://github.com/nivedh-j/EternalBlue-Explained)	<img alt="forks" src="https://img.shields.io/github/forks/nivedh-j/EternalBlue-Explained">	<img alt="stars" src="https://img.shields.io/github/stars/nivedh-j/EternalBlue-Explained">
 - [AdityaBhatt3010/VAPT-Report-on-SMB-Exploitation-in-Windows-10-Finance-Endpoint](https://github.com/AdityaBhatt3010/VAPT-Report-on-SMB-Exploitation-in-Windows-10-Finance-Endpoint)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/VAPT-Report-on-SMB-Exploitation-in-Windows-10-Finance-Endpoint">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/VAPT-Report-on-SMB-Exploitation-in-Windows-10-Finance-Endpoint">
 - [AbbeAlthany/Windows-7_och_CVE-2017-0144_Exploit](https://github.com/AbbeAlthany/Windows-7_och_CVE-2017-0144_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AbbeAlthany/Windows-7_och_CVE-2017-0144_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AbbeAlthany/Windows-7_och_CVE-2017-0144_Exploit">
+- [Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up](https://github.com/Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up)	<img alt="forks" src="https://img.shields.io/github/forks/Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up">	<img alt="stars" src="https://img.shields.io/github/stars/Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up">
 
 ---
 ## CVE-2017-0143 (2017-03-17T00:59:00)
