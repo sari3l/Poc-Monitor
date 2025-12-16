@@ -2488,6 +2488,7 @@ length to be included in the checksum calculation is fully consumed.
 - [Loaxert/CVE-2024-48990-PoC](https://github.com/Loaxert/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Loaxert/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Loaxert/CVE-2024-48990-PoC">
 - [0x3bs/CVE-2024-48990](https://github.com/0x3bs/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/0x3bs/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/0x3bs/CVE-2024-48990">
 - [CDeer1111/CVE-2024-48990](https://github.com/CDeer1111/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/CDeer1111/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/CDeer1111/CVE-2024-48990">
+- [o-sec/CVE-2024-48990](https://github.com/o-sec/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/o-sec/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/o-sec/CVE-2024-48990">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)

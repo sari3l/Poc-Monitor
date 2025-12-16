@@ -638,6 +638,7 @@
 - [viperh/poc-cve-next](https://github.com/viperh/poc-cve-next)	<img alt="forks" src="https://img.shields.io/github/forks/viperh/poc-cve-next">	<img alt="stars" src="https://img.shields.io/github/stars/viperh/poc-cve-next">
 - [zhixiangyao/CVE-2025-66478-Exploit-PoC](https://github.com/zhixiangyao/CVE-2025-66478-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zhixiangyao/CVE-2025-66478-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zhixiangyao/CVE-2025-66478-Exploit-PoC">
 - [Geekujin/React2-PowerShell-CVE-Checker](https://github.com/Geekujin/React2-PowerShell-CVE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Geekujin/React2-PowerShell-CVE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Geekujin/React2-PowerShell-CVE-Checker">
+- [Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478](https://github.com/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">
 
 ---
 ## CVE-2025-66470 ()
@@ -2785,6 +2786,8 @@
 - [scumfrog/FiberBreak](https://github.com/scumfrog/FiberBreak)	<img alt="forks" src="https://img.shields.io/github/forks/scumfrog/FiberBreak">	<img alt="stars" src="https://img.shields.io/github/stars/scumfrog/FiberBreak">
 - [d0cnull/nextjs-CVE-2025-55182](https://github.com/d0cnull/nextjs-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/d0cnull/nextjs-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/d0cnull/nextjs-CVE-2025-55182">
 - [Geekujin/React2-PowerShell-CVE-Checker](https://github.com/Geekujin/React2-PowerShell-CVE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Geekujin/React2-PowerShell-CVE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Geekujin/React2-PowerShell-CVE-Checker">
+- [Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478](https://github.com/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">
+- [S-Mughal/NextJS-app-CVE-2025-55182](https://github.com/S-Mughal/NextJS-app-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/S-Mughal/NextJS-app-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/S-Mughal/NextJS-app-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
