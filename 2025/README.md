@@ -811,6 +811,11 @@
 - [1337Skid/CVE-2025-65271](https://github.com/1337Skid/CVE-2025-65271)	<img alt="forks" src="https://img.shields.io/github/forks/1337Skid/CVE-2025-65271">	<img alt="stars" src="https://img.shields.io/github/stars/1337Skid/CVE-2025-65271">
 
 ---
+## CVE-2025-65270 ()
+> 
+- [xh4vm/CVE-2025-65270](https://github.com/xh4vm/CVE-2025-65270)	<img alt="forks" src="https://img.shields.io/github/forks/xh4vm/CVE-2025-65270">	<img alt="stars" src="https://img.shields.io/github/stars/xh4vm/CVE-2025-65270">
+
+---
 ## CVE-2025-6514 ()
 > 
 - [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/ChaseHCS/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/ChaseHCS/CVE-2025-6514">
