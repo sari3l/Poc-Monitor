@@ -2789,6 +2789,7 @@
 - [Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478](https://github.com/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">
 - [S-Mughal/NextJS-app-CVE-2025-55182](https://github.com/S-Mughal/NextJS-app-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/S-Mughal/NextJS-app-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/S-Mughal/NextJS-app-CVE-2025-55182">
 - [M4rgs/CVE-2025-55182-React2Shell-Exploit](https://github.com/M4rgs/CVE-2025-55182-React2Shell-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M4rgs/CVE-2025-55182-React2Shell-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M4rgs/CVE-2025-55182-React2Shell-Exploit">
+- [nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-](https://github.com/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-)	<img alt="forks" src="https://img.shields.io/github/forks/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-">	<img alt="stars" src="https://img.shields.io/github/stars/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-">
 
 ---
 ## CVE-2025-54988 ()
