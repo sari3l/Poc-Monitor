@@ -2764,6 +2764,7 @@
 - [premdanav/react2shelldemo](https://github.com/premdanav/react2shelldemo)	<img alt="forks" src="https://img.shields.io/github/forks/premdanav/react2shelldemo">	<img alt="stars" src="https://img.shields.io/github/stars/premdanav/react2shelldemo">
 - [doc0null/nextjs-CVE-2025-55182](https://github.com/doc0null/nextjs-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/doc0null/nextjs-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/doc0null/nextjs-CVE-2025-55182">
 - [S-Mughal/NextJS-app-CVE-2025-55182](https://github.com/S-Mughal/NextJS-app-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/S-Mughal/NextJS-app-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/S-Mughal/NextJS-app-CVE-2025-55182">
+- [itumo-arigatone/study-CVE-2025-55182](https://github.com/itumo-arigatone/study-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/itumo-arigatone/study-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/itumo-arigatone/study-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
