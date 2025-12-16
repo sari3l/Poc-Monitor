@@ -7280,6 +7280,11 @@
 - [Arian91/CVE-2025-23369_SAML_bypass](https://github.com/Arian91/CVE-2025-23369_SAML_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Arian91/CVE-2025-23369_SAML_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Arian91/CVE-2025-23369_SAML_bypass">
 
 ---
+## CVE-2025-23339 ()
+> 
+- [SpiralBL0CK/ce-for-CVE-2025-23339](https://github.com/SpiralBL0CK/ce-for-CVE-2025-23339)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/ce-for-CVE-2025-23339">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/ce-for-CVE-2025-23339">
+
+---
 ## CVE-2025-23266 ()
 > 
 - [jpts/cve-2025-23266-poc](https://github.com/jpts/cve-2025-23266-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jpts/cve-2025-23266-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jpts/cve-2025-23266-poc">
