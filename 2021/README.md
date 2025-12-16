@@ -1045,6 +1045,7 @@
 - [Sliaswrk/PDF-FUD-Exploit](https://github.com/Sliaswrk/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sliaswrk/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sliaswrk/PDF-FUD-Exploit">
 - [Sliaswrk/Slient-URL-Exploit](https://github.com/Sliaswrk/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sliaswrk/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sliaswrk/Slient-URL-Exploit">
 - [Sliaswrk/Discord-Image-Logger-Stealer](https://github.com/Sliaswrk/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/Sliaswrk/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/Sliaswrk/Discord-Image-Logger-Stealer">
+- [IAmNewbieZ/CVE-2021-44228](https://github.com/IAmNewbieZ/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/IAmNewbieZ/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/IAmNewbieZ/CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
