@@ -995,6 +995,11 @@
 - [h31md4llr/libjpeg_cve-2018-19664](https://github.com/h31md4llr/libjpeg_cve-2018-19664)	<img alt="forks" src="https://img.shields.io/github/forks/h31md4llr/libjpeg_cve-2018-19664">	<img alt="stars" src="https://img.shields.io/github/stars/h31md4llr/libjpeg_cve-2018-19664">
 
 ---
+## CVE-2018-19629 ()
+> 
+- [Excellencedev/CVE-2018-19629](https://github.com/Excellencedev/CVE-2018-19629)	<img alt="forks" src="https://img.shields.io/github/forks/Excellencedev/CVE-2018-19629">	<img alt="stars" src="https://img.shields.io/github/stars/Excellencedev/CVE-2018-19629">
+
+---
 ## CVE-2018-19615 (2018-12-26T21:29:00)
 > Rockwell Automation Allen-Bradley PowerMonitor 1000 all versions. A remote attacker could inject arbitrary code into a targeted userâ??s web browser to gain access to the affected device.
 - [Live-Hack-CVE/CVE-2018-19615](https://github.com/Live-Hack-CVE/CVE-2018-19615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19615">
