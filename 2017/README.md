@@ -506,6 +506,7 @@
 - [MuhammadAbdullah192/CVE-2017-5638-Remote-Code-Execution-Apache-Struts2-EXPLOITATION](https://github.com/MuhammadAbdullah192/CVE-2017-5638-Remote-Code-Execution-Apache-Struts2-EXPLOITATION)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadAbdullah192/CVE-2017-5638-Remote-Code-Execution-Apache-Struts2-EXPLOITATION">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadAbdullah192/CVE-2017-5638-Remote-Code-Execution-Apache-Struts2-EXPLOITATION">
 - [FozilCV/Apache-Struts2-CVE-2017-5638](https://github.com/FozilCV/Apache-Struts2-CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/FozilCV/Apache-Struts2-CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/FozilCV/Apache-Struts2-CVE-2017-5638">
 - [kaylertee/Computer-Security-Equifax-2017](https://github.com/kaylertee/Computer-Security-Equifax-2017)	<img alt="forks" src="https://img.shields.io/github/forks/kaylertee/Computer-Security-Equifax-2017">	<img alt="stars" src="https://img.shields.io/github/stars/kaylertee/Computer-Security-Equifax-2017">
+- [ACharaf06/CVE-2017-5638-Attack-and-Defense](https://github.com/ACharaf06/CVE-2017-5638-Attack-and-Defense)	<img alt="forks" src="https://img.shields.io/github/forks/ACharaf06/CVE-2017-5638-Attack-and-Defense">	<img alt="stars" src="https://img.shields.io/github/stars/ACharaf06/CVE-2017-5638-Attack-and-Defense">
 
 ---
 ## CVE-2017-5618 ()
