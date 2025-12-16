@@ -5634,7 +5634,7 @@
 ---
 ## CVE-2025-31702 ()
 > 
-- [purpleghosts/CVE-2025-31702](https://github.com/purpleghosts/CVE-2025-31702)	<img alt="forks" src="https://img.shields.io/github/forks/purpleghosts/CVE-2025-31702">	<img alt="stars" src="https://img.shields.io/github/stars/purpleghosts/CVE-2025-31702">
+- [itres-labs/CVE-2025-31702](https://github.com/itres-labs/CVE-2025-31702)	<img alt="forks" src="https://img.shields.io/github/forks/itres-labs/CVE-2025-31702">	<img alt="stars" src="https://img.shields.io/github/stars/itres-labs/CVE-2025-31702">
 
 ---
 ## CVE-2025-31651 ()
