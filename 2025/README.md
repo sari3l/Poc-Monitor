@@ -764,6 +764,11 @@
 - [LordBheem/CVE-2025-6554](https://github.com/LordBheem/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/LordBheem/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/LordBheem/CVE-2025-6554">
 
 ---
+## CVE-2025-65518 ()
+> 
+- [Jainil-89/CVE-2025-65518](https://github.com/Jainil-89/CVE-2025-65518)	<img alt="forks" src="https://img.shields.io/github/forks/Jainil-89/CVE-2025-65518">	<img alt="stars" src="https://img.shields.io/github/stars/Jainil-89/CVE-2025-65518">
+
+---
 ## CVE-2025-65482 ()
 > 
 - [AT190510-Cuong/CVE-2025-65482-XXE-](https://github.com/AT190510-Cuong/CVE-2025-65482-XXE-)	<img alt="forks" src="https://img.shields.io/github/forks/AT190510-Cuong/CVE-2025-65482-XXE-">	<img alt="stars" src="https://img.shields.io/github/stars/AT190510-Cuong/CVE-2025-65482-XXE-">
