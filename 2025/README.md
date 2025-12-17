@@ -462,6 +462,11 @@
 - [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-6860">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-6860">
 
 ---
+## CVE-2025-68434 ()
+> 
+- [Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation">
+
+---
 ## CVE-2025-68147 ()
 > 
 - [Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS](https://github.com/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">
@@ -2826,6 +2831,7 @@
 ## CVE-2025-54988 ()
 > 
 - [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988)	<img alt="forks" src="https://img.shields.io/github/forks/mgthuramoemyint/POC-CVE-2025-54988">	<img alt="stars" src="https://img.shields.io/github/stars/mgthuramoemyint/POC-CVE-2025-54988">
+- [galoryber/cve-2025-54988-VulnTikaProject](https://github.com/galoryber/cve-2025-54988-VulnTikaProject)	<img alt="forks" src="https://img.shields.io/github/forks/galoryber/cve-2025-54988-VulnTikaProject">	<img alt="stars" src="https://img.shields.io/github/stars/galoryber/cve-2025-54988-VulnTikaProject">
 
 ---
 ## CVE-2025-54962 ()
