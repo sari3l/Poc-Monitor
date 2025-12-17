@@ -2379,6 +2379,7 @@
 - [KingHacker353/CVE-2025-55184](https://github.com/KingHacker353/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/CVE-2025-55184">
 - [EvtDanya/rsc-vulnerabilities](https://github.com/EvtDanya/rsc-vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/EvtDanya/rsc-vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/EvtDanya/rsc-vulnerabilities">
 - [cybertechajju/CVE-2025-55184-POC-Expolit](https://github.com/cybertechajju/CVE-2025-55184-POC-Expolit)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2025-55184-POC-Expolit">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2025-55184-POC-Expolit">
+- [Tarekhshaikh13/CVE-2025-55184](https://github.com/Tarekhshaikh13/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/Tarekhshaikh13/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/Tarekhshaikh13/CVE-2025-55184">
 
 ---
 ## CVE-2025-55183 ()
