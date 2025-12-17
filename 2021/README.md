@@ -4897,6 +4897,7 @@
 - [SeimuPVE/CVE-2021-3560_Polkit](https://github.com/SeimuPVE/CVE-2021-3560_Polkit)	<img alt="forks" src="https://img.shields.io/github/forks/SeimuPVE/CVE-2021-3560_Polkit">	<img alt="stars" src="https://img.shields.io/github/stars/SeimuPVE/CVE-2021-3560_Polkit">
 - [titusG85/SideWinder-Exploit](https://github.com/titusG85/SideWinder-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/titusG85/SideWinder-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/titusG85/SideWinder-Exploit">
 - [SeimuPVE/CVE-2021-3560_Polkit](https://github.com/SeimuPVE/CVE-2021-3560_Polkit)	<img alt="forks" src="https://img.shields.io/github/forks/SeimuPVE/CVE-2021-3560_Polkit">	<img alt="stars" src="https://img.shields.io/github/stars/SeimuPVE/CVE-2021-3560_Polkit">
+- [m4lk3rnel/CVE-2021-3560](https://github.com/m4lk3rnel/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/m4lk3rnel/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/m4lk3rnel/CVE-2021-3560">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
