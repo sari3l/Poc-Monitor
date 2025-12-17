@@ -640,6 +640,7 @@
 - [zhixiangyao/CVE-2025-66478-Exploit-PoC](https://github.com/zhixiangyao/CVE-2025-66478-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zhixiangyao/CVE-2025-66478-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zhixiangyao/CVE-2025-66478-Exploit-PoC">
 - [Geekujin/React2-PowerShell-CVE-Checker](https://github.com/Geekujin/React2-PowerShell-CVE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Geekujin/React2-PowerShell-CVE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Geekujin/React2-PowerShell-CVE-Checker">
 - [Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478](https://github.com/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">
+- [mio-qwq/nextjs-cve-2025-66478-ctf](https://github.com/mio-qwq/nextjs-cve-2025-66478-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/mio-qwq/nextjs-cve-2025-66478-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/mio-qwq/nextjs-cve-2025-66478-ctf">
 
 ---
 ## CVE-2025-66470 ()
