@@ -7283,6 +7283,11 @@
 - [Nxploited/CVE-2025-23922](https://github.com/Nxploited/CVE-2025-23922)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-23922">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-23922">
 
 ---
+## CVE-2025-23419 ()
+> 
+- [harley-ghostie/safe-check-CVE-2025-23419](https://github.com/harley-ghostie/safe-check-CVE-2025-23419)	<img alt="forks" src="https://img.shields.io/github/forks/harley-ghostie/safe-check-CVE-2025-23419">	<img alt="stars" src="https://img.shields.io/github/stars/harley-ghostie/safe-check-CVE-2025-23419">
+
+---
 ## CVE-2025-23369 ()
 > 
 - [hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2025-23369">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2025-23369">
