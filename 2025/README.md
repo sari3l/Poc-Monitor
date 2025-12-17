@@ -7510,6 +7510,11 @@
 - [volticks/CVE-2025-21692-poc](https://github.com/volticks/CVE-2025-21692-poc)	<img alt="forks" src="https://img.shields.io/github/forks/volticks/CVE-2025-21692-poc">	<img alt="stars" src="https://img.shields.io/github/stars/volticks/CVE-2025-21692-poc">
 
 ---
+## CVE-2025-21628 ()
+> 
+- [elahehasanpour/chatwoot-cve-2025-21628](https://github.com/elahehasanpour/chatwoot-cve-2025-21628)	<img alt="forks" src="https://img.shields.io/github/forks/elahehasanpour/chatwoot-cve-2025-21628">	<img alt="stars" src="https://img.shields.io/github/stars/elahehasanpour/chatwoot-cve-2025-21628">
+
+---
 ## CVE-2025-21624 ()
 > 
 - [shreyas-malhotra/CVE-2025-21624](https://github.com/shreyas-malhotra/CVE-2025-21624)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2025-21624">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2025-21624">
