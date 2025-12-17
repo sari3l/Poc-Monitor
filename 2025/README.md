@@ -462,6 +462,11 @@
 - [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-6860">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-6860">
 
 ---
+## CVE-2025-68147 ()
+> 
+- [Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS](https://github.com/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">
+
+---
 ## CVE-2025-68116 ()
 > 
 - [x0root/CVE-2025-68116](https://github.com/x0root/CVE-2025-68116)	<img alt="forks" src="https://img.shields.io/github/forks/x0root/CVE-2025-68116">	<img alt="stars" src="https://img.shields.io/github/stars/x0root/CVE-2025-68116">
