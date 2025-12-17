@@ -6331,6 +6331,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [chebuya/CVE-2024-30850-chaos-rat-rce-poc](https://github.com/chebuya/CVE-2024-30850-chaos-rat-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-30850-chaos-rat-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-30850-chaos-rat-rce-poc">
 
 ---
+## CVE-2024-30804 ()
+> 
+- [ekfkawl/CVE-2024-30804](https://github.com/ekfkawl/CVE-2024-30804)	<img alt="forks" src="https://img.shields.io/github/forks/ekfkawl/CVE-2024-30804">	<img alt="stars" src="https://img.shields.io/github/stars/ekfkawl/CVE-2024-30804">
+
+---
 ## CVE-2024-30737 (2024-04-10T05:15:00)
 > An issue was discovered in ROS Kinetic Kame in ROS_VERSION 1 and ROS_PYTHON_VERSION 3, allows remote attackers to execute arbitrary code via packages or nodes within the ROS system. NOTE: this is disputed by multiple third parties who believe there was not reasonable evidence to determine the existence of a vulnerability.
 - [yashpatelphd/CVE-2024-30737](https://github.com/yashpatelphd/CVE-2024-30737)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30737">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30737">
