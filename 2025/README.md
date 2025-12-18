@@ -7853,6 +7853,7 @@
 ## CVE-2025-14700 ()
 > 
 - [Nosiume/CVE-2025-14700-poc](https://github.com/Nosiume/CVE-2025-14700-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nosiume/CVE-2025-14700-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nosiume/CVE-2025-14700-poc">
+- [secdongle/POC_CVE-2025-14700](https://github.com/secdongle/POC_CVE-2025-14700)	<img alt="forks" src="https://img.shields.io/github/forks/secdongle/POC_CVE-2025-14700">	<img alt="stars" src="https://img.shields.io/github/stars/secdongle/POC_CVE-2025-14700">
 
 ---
 ## CVE-2025-14696 ()
