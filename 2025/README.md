@@ -4931,6 +4931,11 @@
 - [omr00t/CVE-2025-40629](https://github.com/omr00t/CVE-2025-40629)	<img alt="forks" src="https://img.shields.io/github/forks/omr00t/CVE-2025-40629">	<img alt="stars" src="https://img.shields.io/github/stars/omr00t/CVE-2025-40629">
 
 ---
+## CVE-2025-40602 ()
+> 
+- [rxerium/CVE-2025-40602](https://github.com/rxerium/CVE-2025-40602)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-40602">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-40602">
+
+---
 ## CVE-2025-40547 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-40547](https://github.com/B1ack4sh/Blackash-CVE-2025-40547)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-40547">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-40547">
@@ -7631,6 +7636,11 @@
 > 
 - [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)	<img alt="forks" src="https://img.shields.io/github/forks/Burak1320demiroz/cve-2025-2082">	<img alt="stars" src="https://img.shields.io/github/stars/Burak1320demiroz/cve-2025-2082">
 - [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
+
+---
+## CVE-2025-20393 ()
+> 
+- [thesystemowner/CVE-2025-20393-POC](https://github.com/thesystemowner/CVE-2025-20393-POC)	<img alt="forks" src="https://img.shields.io/github/forks/thesystemowner/CVE-2025-20393-POC">	<img alt="stars" src="https://img.shields.io/github/stars/thesystemowner/CVE-2025-20393-POC">
 
 ---
 ## CVE-2025-20384 ()
