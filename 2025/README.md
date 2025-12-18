@@ -485,6 +485,7 @@
 ## CVE-2025-67887 ()
 > 
 - [reewardius/CVE-2025-67887](https://github.com/reewardius/CVE-2025-67887)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67887">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67887">
+- [cyberok-org/CVE-2025-67887](https://github.com/cyberok-org/CVE-2025-67887)	<img alt="forks" src="https://img.shields.io/github/forks/cyberok-org/CVE-2025-67887">	<img alt="stars" src="https://img.shields.io/github/stars/cyberok-org/CVE-2025-67887">
 
 ---
 ## CVE-2025-67886 ()
