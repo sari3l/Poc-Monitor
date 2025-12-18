@@ -464,7 +464,7 @@
 ---
 ## CVE-2025-68434 ()
 > 
-- [Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation">
+- [Nixon-H/CVE-2025-68434-OSPOS-CSRF](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68434-OSPOS-CSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68434-OSPOS-CSRF">
 
 ---
 ## CVE-2025-68147 ()
@@ -2837,6 +2837,7 @@
 - [ceh-aditya-raj/CVE-2025-55182](https://github.com/ceh-aditya-raj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ceh-aditya-raj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ceh-aditya-raj/CVE-2025-55182">
 - [pwnxpl0it/react2shell-lab](https://github.com/pwnxpl0it/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/pwnxpl0it/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/pwnxpl0it/react2shell-lab">
 - [aleksandrova834/react2shell-bypasswaf](https://github.com/aleksandrova834/react2shell-bypasswaf)	<img alt="forks" src="https://img.shields.io/github/forks/aleksandrova834/react2shell-bypasswaf">	<img alt="stars" src="https://img.shields.io/github/stars/aleksandrova834/react2shell-bypasswaf">
+- [r4j3sh-com/CVE-2025-55182](https://github.com/r4j3sh-com/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
