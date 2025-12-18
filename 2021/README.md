@@ -6819,6 +6819,7 @@
 - [Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7](https://github.com/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7)	<img alt="forks" src="https://img.shields.io/github/forks/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7">	<img alt="stars" src="https://img.shields.io/github/stars/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7">
 - [0xricksanchez/CVE-2021-29447](https://github.com/0xricksanchez/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/0xricksanchez/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/0xricksanchez/CVE-2021-29447">
 - [ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-](https://github.com/ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-">
+- [davids52/cve-2021-29447_auto-script](https://github.com/davids52/cve-2021-29447_auto-script)	<img alt="forks" src="https://img.shields.io/github/forks/davids52/cve-2021-29447_auto-script">	<img alt="stars" src="https://img.shields.io/github/stars/davids52/cve-2021-29447_auto-script">
 
 ---
 ## CVE-2021-29442 (2021-04-27T21:15:00)
