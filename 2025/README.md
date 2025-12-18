@@ -1159,6 +1159,7 @@
 ## CVE-2025-63353 ()
 > 
 - [hanianis/CVE-2025-63353](https://github.com/hanianis/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/hanianis/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/hanianis/CVE-2025-63353">
+- [0xA1M/CVE-2025-63353](https://github.com/0xA1M/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/0xA1M/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/0xA1M/CVE-2025-63353">
 
 ---
 ## CVE-2025-6335 ()
@@ -7883,6 +7884,11 @@
 ## CVE-2025-14598 ()
 > 
 - [Afnaan-Ahmed/CVE-2025-14598](https://github.com/Afnaan-Ahmed/CVE-2025-14598)	<img alt="forks" src="https://img.shields.io/github/forks/Afnaan-Ahmed/CVE-2025-14598">	<img alt="stars" src="https://img.shields.io/github/stars/Afnaan-Ahmed/CVE-2025-14598">
+
+---
+## CVE-2025-14440 ()
+> 
+- [Nxploited/CVE-2025-14440](https://github.com/Nxploited/CVE-2025-14440)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-14440">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-14440">
 
 ---
 ## CVE-2025-14269 ()
