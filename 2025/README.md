@@ -7669,6 +7669,7 @@
 ## CVE-2025-20393 ()
 > 
 - [thesystemowner/CVE-2025-20393-POC](https://github.com/thesystemowner/CVE-2025-20393-POC)	<img alt="forks" src="https://img.shields.io/github/forks/thesystemowner/CVE-2025-20393-POC">	<img alt="stars" src="https://img.shields.io/github/stars/thesystemowner/CVE-2025-20393-POC">
+- [cyberleelawat/CVE-2025-20393](https://github.com/cyberleelawat/CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/cyberleelawat/CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/cyberleelawat/CVE-2025-20393">
 
 ---
 ## CVE-2025-20384 ()
