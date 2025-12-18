@@ -2862,6 +2862,7 @@
 - [aleksandrova834/react2shell-bypasswaf](https://github.com/aleksandrova834/react2shell-bypasswaf)	<img alt="forks" src="https://img.shields.io/github/forks/aleksandrova834/react2shell-bypasswaf">	<img alt="stars" src="https://img.shields.io/github/stars/aleksandrova834/react2shell-bypasswaf">
 - [r4j3sh-com/CVE-2025-55182](https://github.com/r4j3sh-com/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-55182">
 - [rashedhasan090/cve-2025-55182-mitigator](https://github.com/rashedhasan090/cve-2025-55182-mitigator)	<img alt="forks" src="https://img.shields.io/github/forks/rashedhasan090/cve-2025-55182-mitigator">	<img alt="stars" src="https://img.shields.io/github/stars/rashedhasan090/cve-2025-55182-mitigator">
+- [RavinduRathnayaka/CVE-2025-55182-PoC](https://github.com/RavinduRathnayaka/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/RavinduRathnayaka/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/RavinduRathnayaka/CVE-2025-55182-PoC">
 
 ---
 ## CVE-2025-54988 ()
