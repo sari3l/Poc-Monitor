@@ -7675,6 +7675,7 @@
 > 
 - [thesystemowner/CVE-2025-20393-POC](https://github.com/thesystemowner/CVE-2025-20393-POC)	<img alt="forks" src="https://img.shields.io/github/forks/thesystemowner/CVE-2025-20393-POC">	<img alt="stars" src="https://img.shields.io/github/stars/thesystemowner/CVE-2025-20393-POC">
 - [cyberleelawat/CVE-2025-20393](https://github.com/cyberleelawat/CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/cyberleelawat/CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/cyberleelawat/CVE-2025-20393">
+- [KingHacker353/CVE-2025-20393](https://github.com/KingHacker353/CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/CVE-2025-20393">
 
 ---
 ## CVE-2025-20384 ()
@@ -7890,6 +7891,7 @@
 > 
 - [MalBean/CVE-2025-14174-Bypass](https://github.com/MalBean/CVE-2025-14174-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass">
 - [Terrasue/CVE-2025-14174-Exploit](https://github.com/Terrasue/CVE-2025-14174-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Terrasue/CVE-2025-14174-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Terrasue/CVE-2025-14174-Exploit">
+- [Satirush/CVE-2025-14174-Poc](https://github.com/Satirush/CVE-2025-14174-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Satirush/CVE-2025-14174-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Satirush/CVE-2025-14174-Poc">
 
 ---
 ## CVE-2025-13796 ()
