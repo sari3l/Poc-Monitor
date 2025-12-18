@@ -507,6 +507,11 @@
 - [Chocapikk/CVE-2025-67494](https://github.com/Chocapikk/CVE-2025-67494)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-67494">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-67494">
 
 ---
+## CVE-2025-67294 ()
+> 
+- [0xthem7/CVE-2025-67294](https://github.com/0xthem7/CVE-2025-67294)	<img alt="forks" src="https://img.shields.io/github/forks/0xthem7/CVE-2025-67294">	<img alt="stars" src="https://img.shields.io/github/stars/0xthem7/CVE-2025-67294">
+
+---
 ## CVE-2025-6713 ()
 > 
 - [c137req/CVE-2025-6713](https://github.com/c137req/CVE-2025-6713)	<img alt="forks" src="https://img.shields.io/github/forks/c137req/CVE-2025-6713">	<img alt="stars" src="https://img.shields.io/github/stars/c137req/CVE-2025-6713">
