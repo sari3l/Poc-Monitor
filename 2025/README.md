@@ -7902,6 +7902,11 @@
 - [Satirush/CVE-2025-14174-Poc](https://github.com/Satirush/CVE-2025-14174-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Satirush/CVE-2025-14174-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Satirush/CVE-2025-14174-Poc">
 
 ---
+## CVE-2025-14156 ()
+> 
+- [Nxploited/CVE-2025-14156](https://github.com/Nxploited/CVE-2025-14156)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-14156">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-14156">
+
+---
 ## CVE-2025-13796 ()
 > 
 - [0xcucumbersalad/CVE-2025-13796-PoC](https://github.com/0xcucumbersalad/CVE-2025-13796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-13796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-13796-PoC">
