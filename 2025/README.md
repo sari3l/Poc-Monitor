@@ -5137,6 +5137,7 @@
 ## CVE-2025-37164 ()
 > 
 - [rxerium/CVE-2025-37164](https://github.com/rxerium/CVE-2025-37164)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-37164">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-37164">
+- [g0vguy/CVE-2025-37164-PoC](https://github.com/g0vguy/CVE-2025-37164-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g0vguy/CVE-2025-37164-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g0vguy/CVE-2025-37164-PoC">
 
 ---
 ## CVE-2025-36924 ()
