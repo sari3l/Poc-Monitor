@@ -546,6 +546,7 @@
 - [Ashwesker/Blackash-CVE-2025-66516](https://github.com/Ashwesker/Blackash-CVE-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-66516">
 - [chasingimpact/CVE-2025-66516-Writeup-POC](https://github.com/chasingimpact/CVE-2025-66516-Writeup-POC)	<img alt="forks" src="https://img.shields.io/github/forks/chasingimpact/CVE-2025-66516-Writeup-POC">	<img alt="stars" src="https://img.shields.io/github/stars/chasingimpact/CVE-2025-66516-Writeup-POC">
 - [sid6224/CVE-2025-66516-POC](https://github.com/sid6224/CVE-2025-66516-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sid6224/CVE-2025-66516-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sid6224/CVE-2025-66516-POC">
+- [intSheep/Tika-CVE-2025-66516-Lab](https://github.com/intSheep/Tika-CVE-2025-66516-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/intSheep/Tika-CVE-2025-66516-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/intSheep/Tika-CVE-2025-66516-Lab">
 
 ---
 ## CVE-2025-66478 ()
