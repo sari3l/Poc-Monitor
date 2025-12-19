@@ -755,6 +755,11 @@
 - [LuisMirandaAcebedo/CVE-2025-65855](https://github.com/LuisMirandaAcebedo/CVE-2025-65855)	<img alt="forks" src="https://img.shields.io/github/forks/LuisMirandaAcebedo/CVE-2025-65855">	<img alt="stars" src="https://img.shields.io/github/stars/LuisMirandaAcebedo/CVE-2025-65855">
 
 ---
+## CVE-2025-65817 ()
+> 
+- [Istaarkk/CVE-2025-65817](https://github.com/Istaarkk/CVE-2025-65817)	<img alt="forks" src="https://img.shields.io/github/forks/Istaarkk/CVE-2025-65817">	<img alt="stars" src="https://img.shields.io/github/stars/Istaarkk/CVE-2025-65817">
+
+---
 ## CVE-2025-65806 ()
 > 
 - [Bidon47/CVE-2025-65806](https://github.com/Bidon47/CVE-2025-65806)	<img alt="forks" src="https://img.shields.io/github/forks/Bidon47/CVE-2025-65806">	<img alt="stars" src="https://img.shields.io/github/stars/Bidon47/CVE-2025-65806">
