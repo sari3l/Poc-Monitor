@@ -7975,6 +7975,7 @@
 - [MataKucing-OFC/CVE-2025-13486](https://github.com/MataKucing-OFC/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2025-13486">
 - [0xgh057r3c0n/CVE-2025-13486](https://github.com/0xgh057r3c0n/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-13486">
 - [pukixploit/CVE-2025-13486](https://github.com/pukixploit/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/pukixploit/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/pukixploit/CVE-2025-13486">
+- [whattheslime/CVE-2025-13486-exploit](https://github.com/whattheslime/CVE-2025-13486-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2025-13486-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2025-13486-exploit">
 
 ---
 ## CVE-2025-13401 ()
