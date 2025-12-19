@@ -477,6 +477,11 @@
 - [x0root/CVE-2025-68116](https://github.com/x0root/CVE-2025-68116)	<img alt="forks" src="https://img.shields.io/github/forks/x0root/CVE-2025-68116">	<img alt="stars" src="https://img.shields.io/github/stars/x0root/CVE-2025-68116">
 
 ---
+## CVE-2025-68055 ()
+> 
+- [Nosiume/CVE-2025-68055-poc](https://github.com/Nosiume/CVE-2025-68055-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nosiume/CVE-2025-68055-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nosiume/CVE-2025-68055-poc">
+
+---
 ## CVE-2025-67888 ()
 > 
 - [reewardius/CVE-2025-67888](https://github.com/reewardius/CVE-2025-67888)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67888">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67888">
