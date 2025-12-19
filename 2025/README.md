@@ -2865,6 +2865,7 @@
 - [rashedhasan090/cve-2025-55182-mitigator](https://github.com/rashedhasan090/cve-2025-55182-mitigator)	<img alt="forks" src="https://img.shields.io/github/forks/rashedhasan090/cve-2025-55182-mitigator">	<img alt="stars" src="https://img.shields.io/github/stars/rashedhasan090/cve-2025-55182-mitigator">
 - [RavinduRathnayaka/CVE-2025-55182-PoC](https://github.com/RavinduRathnayaka/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/RavinduRathnayaka/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/RavinduRathnayaka/CVE-2025-55182-PoC">
 - [degenwithheart/React2Shell-Vulnerability-Verification-Script](https://github.com/degenwithheart/React2Shell-Vulnerability-Verification-Script)	<img alt="forks" src="https://img.shields.io/github/forks/degenwithheart/React2Shell-Vulnerability-Verification-Script">	<img alt="stars" src="https://img.shields.io/github/stars/degenwithheart/React2Shell-Vulnerability-Verification-Script">
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
