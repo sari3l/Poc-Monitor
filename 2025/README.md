@@ -890,6 +890,11 @@
 - [Cyberency/CVE-2025-6514](https://github.com/Cyberency/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberency/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberency/CVE-2025-6514">
 
 ---
+## CVE-2025-65099 ()
+> 
+- [b-faller/cve-2025-65099](https://github.com/b-faller/cve-2025-65099)	<img alt="forks" src="https://img.shields.io/github/forks/b-faller/cve-2025-65099">	<img alt="stars" src="https://img.shields.io/github/stars/b-faller/cve-2025-65099">
+
+---
 ## CVE-2025-65018 ()
 > 
 - [Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-](https://github.com/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-">
