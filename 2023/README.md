@@ -6308,6 +6308,7 @@ The specific flaw exists within the exportXFAData method. The application expose
 - [monke443/CVE-2023-27350](https://github.com/monke443/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/monke443/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/monke443/CVE-2023-27350">
 - [0xB0y426/CVE-2023-27350-PoC](https://github.com/0xB0y426/CVE-2023-27350-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xB0y426/CVE-2023-27350-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xB0y426/CVE-2023-27350-PoC">
 - [Royall-Researchers/CVE-2023-27350](https://github.com/Royall-Researchers/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/Royall-Researchers/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/Royall-Researchers/CVE-2023-27350">
+- [dezso-dfield/CVE-2023-27350](https://github.com/dezso-dfield/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/dezso-dfield/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/dezso-dfield/CVE-2023-27350">
 
 ---
 ## CVE-2023-27326 (2024-05-03T02:15:00)
