@@ -2894,6 +2894,8 @@
 - [MeGaNeKoS/secure-by-default-rce-demo](https://github.com/MeGaNeKoS/secure-by-default-rce-demo)	<img alt="forks" src="https://img.shields.io/github/forks/MeGaNeKoS/secure-by-default-rce-demo">	<img alt="stars" src="https://img.shields.io/github/stars/MeGaNeKoS/secure-by-default-rce-demo">
 - [TamaGorengs/react2shell-poc-CVE-2025-55182](https://github.com/TamaGorengs/react2shell-poc-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/TamaGorengs/react2shell-poc-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/TamaGorengs/react2shell-poc-CVE-2025-55182">
 - [dbwlsdnr95/CVE-2025-55182-React2Shell-Nextjs-RSC-Analysis](https://github.com/dbwlsdnr95/CVE-2025-55182-React2Shell-Nextjs-RSC-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/dbwlsdnr95/CVE-2025-55182-React2Shell-Nextjs-RSC-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/dbwlsdnr95/CVE-2025-55182-React2Shell-Nextjs-RSC-Analysis">
+- [dbwlsdnr95/CVE-2025-55182-React2Shell-Nextjs-RSC-Analysis](https://github.com/dbwlsdnr95/CVE-2025-55182-React2Shell-Nextjs-RSC-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/dbwlsdnr95/CVE-2025-55182-React2Shell-Nextjs-RSC-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/dbwlsdnr95/CVE-2025-55182-React2Shell-Nextjs-RSC-Analysis">
+- [xxxTectationxxx/React2Shell-CVE-Lab](https://github.com/xxxTectationxxx/React2Shell-CVE-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/xxxTectationxxx/React2Shell-CVE-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/xxxTectationxxx/React2Shell-CVE-Lab">
 
 ---
 ## CVE-2025-54988 ()
