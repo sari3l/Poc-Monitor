@@ -3140,6 +3140,11 @@ use after free.
 - [g1thubb001/poc-CVE-2019-11248](https://github.com/g1thubb001/poc-CVE-2019-11248)	<img alt="forks" src="https://img.shields.io/github/forks/g1thubb001/poc-CVE-2019-11248">	<img alt="stars" src="https://img.shields.io/github/stars/g1thubb001/poc-CVE-2019-11248">
 
 ---
+## CVE-2019-11231 ()
+> 
+- [akincibor/CVE-2019-11231-PoC](https://github.com/akincibor/CVE-2019-11231-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akincibor/CVE-2019-11231-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akincibor/CVE-2019-11231-PoC">
+
+---
 ## CVE-2019-11113 (2019-11-14T20:15:00)
 > Buffer overflow in Kernel Mode module for Intel(R) Graphics Driver before version 25.20.100.6618 (DCH) or 21.20.x.5077 (aka15.45.5077) may allow a privileged user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2019-11113](https://github.com/Live-Hack-CVE/CVE-2019-11113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11113">
