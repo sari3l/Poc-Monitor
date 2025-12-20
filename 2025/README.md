@@ -473,6 +473,11 @@
 - [Nixon-H/CVE-2025-68434-OSPOS-CSRF](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68434-OSPOS-CSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68434-OSPOS-CSRF">
 
 ---
+## CVE-2025-68325 ()
+> 
+- [n132/CVE-2025-68325](https://github.com/n132/CVE-2025-68325)	<img alt="forks" src="https://img.shields.io/github/forks/n132/CVE-2025-68325">	<img alt="stars" src="https://img.shields.io/github/stars/n132/CVE-2025-68325">
+
+---
 ## CVE-2025-68147 ()
 > 
 - [Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS](https://github.com/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">
