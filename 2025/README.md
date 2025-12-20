@@ -2890,6 +2890,7 @@
 - [chrahman/react2shell-CVE-2025-55182-full-rce-script](https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/chrahman/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/chrahman/react2shell-CVE-2025-55182-full-rce-script">
 - [lamaper/CVE-2025-55182-Toolbox](https://github.com/lamaper/CVE-2025-55182-Toolbox)	<img alt="forks" src="https://img.shields.io/github/forks/lamaper/CVE-2025-55182-Toolbox">	<img alt="stars" src="https://img.shields.io/github/stars/lamaper/CVE-2025-55182-Toolbox">
 - [mahaveer-choudhary/CVE-2025-55182](https://github.com/mahaveer-choudhary/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/mahaveer-choudhary/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/mahaveer-choudhary/CVE-2025-55182">
+- [MeGaNeKoS/secure-by-default-rce-demo](https://github.com/MeGaNeKoS/secure-by-default-rce-demo)	<img alt="forks" src="https://img.shields.io/github/forks/MeGaNeKoS/secure-by-default-rce-demo">	<img alt="stars" src="https://img.shields.io/github/stars/MeGaNeKoS/secure-by-default-rce-demo">
 
 ---
 ## CVE-2025-54988 ()
