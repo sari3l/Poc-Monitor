@@ -4755,6 +4755,11 @@
 - [r0otk3r/CVE-2025-4380](https://github.com/r0otk3r/CVE-2025-4380)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-4380">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-4380">
 
 ---
+## CVE-2025-43541 ()
+> 
+- [crypt0bit/CVE-2025-43541](https://github.com/crypt0bit/CVE-2025-43541)	<img alt="forks" src="https://img.shields.io/github/forks/crypt0bit/CVE-2025-43541">	<img alt="stars" src="https://img.shields.io/github/stars/crypt0bit/CVE-2025-43541">
+
+---
 ## CVE-2025-43504 ()
 > 
 - [calysteon/CVE-2025-43504](https://github.com/calysteon/CVE-2025-43504)	<img alt="forks" src="https://img.shields.io/github/forks/calysteon/CVE-2025-43504">	<img alt="stars" src="https://img.shields.io/github/stars/calysteon/CVE-2025-43504">
