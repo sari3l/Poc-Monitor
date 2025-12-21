@@ -915,6 +915,16 @@
 - [daehyeok0618/CVE-2019-5418](https://github.com/daehyeok0618/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/daehyeok0618/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/daehyeok0618/CVE-2019-5418">
 
 ---
+## CVE-2019-5414 ()
+> 
+- [crstaicu/CVE-2019-5414](https://github.com/crstaicu/CVE-2019-5414)	<img alt="forks" src="https://img.shields.io/github/forks/crstaicu/CVE-2019-5414">	<img alt="stars" src="https://img.shields.io/github/stars/crstaicu/CVE-2019-5414">
+
+---
+## CVE-2019-5413 ()
+> 
+- [crstaicu/CVE-2019-5413](https://github.com/crstaicu/CVE-2019-5413)	<img alt="forks" src="https://img.shields.io/github/forks/crstaicu/CVE-2019-5413">	<img alt="stars" src="https://img.shields.io/github/stars/crstaicu/CVE-2019-5413">
+
+---
 ## CVE-2019-5325 (2023-01-06T16:15:00)
 > CVE was unused by HPE.
 - [Live-Hack-CVE/CVE-2019-5325](https://github.com/Live-Hack-CVE/CVE-2019-5325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5325">
