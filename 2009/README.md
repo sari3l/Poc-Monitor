@@ -19,6 +19,7 @@
 - [sooklalad/ms09050](https://github.com/sooklalad/ms09050)	<img alt="forks" src="https://img.shields.io/github/forks/sooklalad/ms09050">	<img alt="stars" src="https://img.shields.io/github/stars/sooklalad/ms09050">
 - [Sic4rio/CVE-2009-3103---srv2.sys-SMB-Code-Execution-Python-MS09-050-](https://github.com/Sic4rio/CVE-2009-3103---srv2.sys-SMB-Code-Execution-Python-MS09-050-)	<img alt="forks" src="https://img.shields.io/github/forks/Sic4rio/CVE-2009-3103---srv2.sys-SMB-Code-Execution-Python-MS09-050-">	<img alt="stars" src="https://img.shields.io/github/stars/Sic4rio/CVE-2009-3103---srv2.sys-SMB-Code-Execution-Python-MS09-050-">
 - [mertzjames/CVE-2009-3103](https://github.com/mertzjames/CVE-2009-3103)	<img alt="forks" src="https://img.shields.io/github/forks/mertzjames/CVE-2009-3103">	<img alt="stars" src="https://img.shields.io/github/stars/mertzjames/CVE-2009-3103">
+- [nicolasdamians/ms09-050-CVE-2009-3103-exploit](https://github.com/nicolasdamians/ms09-050-CVE-2009-3103-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nicolasdamians/ms09-050-CVE-2009-3103-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nicolasdamians/ms09-050-CVE-2009-3103-exploit">
 
 ---
 ## CVE-2009-3095 (2009-09-08T18:30:00)
