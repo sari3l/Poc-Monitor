@@ -923,6 +923,9 @@
 ## CVE-2019-5413 ()
 > 
 - [crstaicu/CVE-2019-5413](https://github.com/crstaicu/CVE-2019-5413)	<img alt="forks" src="https://img.shields.io/github/forks/crstaicu/CVE-2019-5413">	<img alt="stars" src="https://img.shields.io/github/stars/crstaicu/CVE-2019-5413">
+- [forse01/CVE-2019-5413-NetBeans-NoJson](https://github.com/forse01/CVE-2019-5413-NetBeans-NoJson)	<img alt="forks" src="https://img.shields.io/github/forks/forse01/CVE-2019-5413-NetBeans-NoJson">	<img alt="stars" src="https://img.shields.io/github/stars/forse01/CVE-2019-5413-NetBeans-NoJson">
+- [forse01/CVE-2019-5413-NetBeans](https://github.com/forse01/CVE-2019-5413-NetBeans)	<img alt="forks" src="https://img.shields.io/github/forks/forse01/CVE-2019-5413-NetBeans">	<img alt="stars" src="https://img.shields.io/github/stars/forse01/CVE-2019-5413-NetBeans">
+- [ossf-cve-benchmark/CVE-2019-5413](https://github.com/ossf-cve-benchmark/CVE-2019-5413)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-5413">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-5413">
 
 ---
 ## CVE-2019-5325 (2023-01-06T16:15:00)
