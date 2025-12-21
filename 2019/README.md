@@ -918,6 +918,7 @@
 ## CVE-2019-5414 ()
 > 
 - [crstaicu/CVE-2019-5414](https://github.com/crstaicu/CVE-2019-5414)	<img alt="forks" src="https://img.shields.io/github/forks/crstaicu/CVE-2019-5414">	<img alt="stars" src="https://img.shields.io/github/stars/crstaicu/CVE-2019-5414">
+- [ossf-cve-benchmark/CVE-2019-5414](https://github.com/ossf-cve-benchmark/CVE-2019-5414)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-5414">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-5414">
 
 ---
 ## CVE-2019-5413 ()

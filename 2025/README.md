@@ -1006,6 +1006,7 @@
 - [lincemorado97/CVE-2025-64446_CVE-2025-58034](https://github.com/lincemorado97/CVE-2025-64446_CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-64446_CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-64446_CVE-2025-58034">
 - [Death112233/CVE-2025-64446-](https://github.com/Death112233/CVE-2025-64446-)	<img alt="forks" src="https://img.shields.io/github/forks/Death112233/CVE-2025-64446-">	<img alt="stars" src="https://img.shields.io/github/stars/Death112233/CVE-2025-64446-">
 - [AN5I/cve-2025-64446-fortiweb-exploit](https://github.com/AN5I/cve-2025-64446-fortiweb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-64446-fortiweb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-64446-fortiweb-exploit">
+- [lequoca/fortinet-fortiweb-cve-2025-64446-58034](https://github.com/lequoca/fortinet-fortiweb-cve-2025-64446-58034)	<img alt="forks" src="https://img.shields.io/github/forks/lequoca/fortinet-fortiweb-cve-2025-64446-58034">	<img alt="stars" src="https://img.shields.io/github/stars/lequoca/fortinet-fortiweb-cve-2025-64446-58034">
 
 ---
 ## CVE-2025-64403 ()
