@@ -10493,6 +10493,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [zhulin837/checkmk_cve-2024-0670](https://github.com/zhulin837/checkmk_cve-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/zhulin837/checkmk_cve-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/zhulin837/checkmk_cve-2024-0670">
 - [magicrc/CVE-2024-0670](https://github.com/magicrc/CVE-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/magicrc/CVE-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/magicrc/CVE-2024-0670">
 - [elsevar11/CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit](https://github.com/elsevar11/CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/elsevar11/CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/elsevar11/CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit">
+- [fsoc-ghost-0x/Fsociety-CVE-2024-0670-CheckMK-LPE](https://github.com/fsoc-ghost-0x/Fsociety-CVE-2024-0670-CheckMK-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/Fsociety-CVE-2024-0670-CheckMK-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/Fsociety-CVE-2024-0670-CheckMK-LPE">
 
 ---
 ## CVE-2024-06666 ()

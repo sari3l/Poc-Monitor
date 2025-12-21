@@ -1751,6 +1751,11 @@
 - [immunIT/CVE-2018-11759](https://github.com/immunIT/CVE-2018-11759)	<img alt="forks" src="https://img.shields.io/github/forks/immunIT/CVE-2018-11759">	<img alt="stars" src="https://img.shields.io/github/stars/immunIT/CVE-2018-11759">
 
 ---
+## CVE-2018-11736 ()
+> 
+- [purgemebaby/CVE-2018-11736](https://github.com/purgemebaby/CVE-2018-11736)	<img alt="forks" src="https://img.shields.io/github/forks/purgemebaby/CVE-2018-11736">	<img alt="stars" src="https://img.shields.io/github/stars/purgemebaby/CVE-2018-11736">
+
+---
 ## CVE-2018-11714 ()
 > 
 - [mikelkarma/cve-2018-11714_POC](https://github.com/mikelkarma/cve-2018-11714_POC)	<img alt="forks" src="https://img.shields.io/github/forks/mikelkarma/cve-2018-11714_POC">	<img alt="stars" src="https://img.shields.io/github/stars/mikelkarma/cve-2018-11714_POC">
