@@ -6138,6 +6138,13 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [agg23/cve-2024-31317](https://github.com/agg23/cve-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/agg23/cve-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/agg23/cve-2024-31317">
 - [mianliupindao/CVE-2024-31317-PoC-Deployer](https://github.com/mianliupindao/CVE-2024-31317-PoC-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/mianliupindao/CVE-2024-31317-PoC-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/mianliupindao/CVE-2024-31317-PoC-Deployer">
 - [WebLDix/CVE-2024-31317-PoC-Deployer](https://github.com/WebLDix/CVE-2024-31317-PoC-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/WebLDix/CVE-2024-31317-PoC-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/WebLDix/CVE-2024-31317-PoC-Deployer">
+- [fcy10012/CVE-2024-31317-Deployer](https://github.com/fcy10012/CVE-2024-31317-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/fcy10012/CVE-2024-31317-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/fcy10012/CVE-2024-31317-Deployer">
+- [wqry085/PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System)	<img alt="forks" src="https://img.shields.io/github/forks/wqry085/PoC-Deployer-System">	<img alt="stars" src="https://img.shields.io/github/stars/wqry085/PoC-Deployer-System">
+- [CleoV2/Debuggable-App-Exploit](https://github.com/CleoV2/Debuggable-App-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CleoV2/Debuggable-App-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CleoV2/Debuggable-App-Exploit">
+- [satvikgosai/sysnc](https://github.com/satvikgosai/sysnc)	<img alt="forks" src="https://img.shields.io/github/forks/satvikgosai/sysnc">	<img alt="stars" src="https://img.shields.io/github/stars/satvikgosai/sysnc">
+- [etility/CVE-31317-install-apk](https://github.com/etility/CVE-31317-install-apk)	<img alt="forks" src="https://img.shields.io/github/forks/etility/CVE-31317-install-apk">	<img alt="stars" src="https://img.shields.io/github/stars/etility/CVE-31317-install-apk">
+- [min704/CVE-31317-install-apk](https://github.com/min704/CVE-31317-install-apk)	<img alt="forks" src="https://img.shields.io/github/forks/min704/CVE-31317-install-apk">	<img alt="stars" src="https://img.shields.io/github/stars/min704/CVE-31317-install-apk">
+- [rifting/Zygotroller](https://github.com/rifting/Zygotroller)	<img alt="forks" src="https://img.shields.io/github/forks/rifting/Zygotroller">	<img alt="stars" src="https://img.shields.io/github/stars/rifting/Zygotroller">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
