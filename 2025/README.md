@@ -570,6 +570,11 @@
 - [intSheep/Tika-CVE-2025-66516-Lab](https://github.com/intSheep/Tika-CVE-2025-66516-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/intSheep/Tika-CVE-2025-66516-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/intSheep/Tika-CVE-2025-66516-Lab">
 
 ---
+## CVE-2025-66489 ()
+> 
+- [Ashwesker/Blackash-CVE-2025-66489](https://github.com/Ashwesker/Blackash-CVE-2025-66489)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-66489">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-66489">
+
+---
 ## CVE-2025-66478 ()
 > 
 - [abtonc/next-cve-2025-66478](https://github.com/abtonc/next-cve-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/abtonc/next-cve-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/abtonc/next-cve-2025-66478">
