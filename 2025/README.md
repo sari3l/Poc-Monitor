@@ -8205,6 +8205,11 @@
 - [SnailSploit/CVE-2025-12163](https://github.com/SnailSploit/CVE-2025-12163)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-12163">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-12163">
 
 ---
+## CVE-2025-12139 ()
+> 
+- [Galaxy-sc/CVE-2025-12139-WordPress-Integrate-Google-Drive-Exploit](https://github.com/Galaxy-sc/CVE-2025-12139-WordPress-Integrate-Google-Drive-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2025-12139-WordPress-Integrate-Google-Drive-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2025-12139-WordPress-Integrate-Google-Drive-Exploit">
+
+---
 ## CVE-2025-12101 ()
 > 
 - [6h4ack/CVE-2025-12101-checker](https://github.com/6h4ack/CVE-2025-12101-checker)	<img alt="forks" src="https://img.shields.io/github/forks/6h4ack/CVE-2025-12101-checker">	<img alt="stars" src="https://img.shields.io/github/stars/6h4ack/CVE-2025-12101-checker">
