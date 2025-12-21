@@ -2913,6 +2913,7 @@
 - [xxxTectationxxx/React2Shell-CVE-Lab](https://github.com/xxxTectationxxx/React2Shell-CVE-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/xxxTectationxxx/React2Shell-CVE-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/xxxTectationxxx/React2Shell-CVE-Lab">
 - [vijay-shirhatti/RSC-Detect-CVE-2025-55182](https://github.com/vijay-shirhatti/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/vijay-shirhatti/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/vijay-shirhatti/RSC-Detect-CVE-2025-55182">
 - [p3ta00/react2shell-poc](https://github.com/p3ta00/react2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/p3ta00/react2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/p3ta00/react2shell-poc">
+- [niokagi/react-cve-2025-55182](https://github.com/niokagi/react-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/niokagi/react-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/niokagi/react-cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
