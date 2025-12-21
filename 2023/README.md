@@ -5191,6 +5191,7 @@ Fixed in version 6.4.1.
 - [asepsaepdin/CVE-2023-32315](https://github.com/asepsaepdin/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-32315">
 - [pulentoski/Explotacion-CVE-2023-32315-Openfire](https://github.com/pulentoski/Explotacion-CVE-2023-32315-Openfire)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/Explotacion-CVE-2023-32315-Openfire">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/Explotacion-CVE-2023-32315-Openfire">
 - [shiyingzhencai/CVE-2023-32315-java7-](https://github.com/shiyingzhencai/CVE-2023-32315-java7-)	<img alt="forks" src="https://img.shields.io/github/forks/shiyingzhencai/CVE-2023-32315-java7-">	<img alt="stars" src="https://img.shields.io/github/stars/shiyingzhencai/CVE-2023-32315-java7-">
+- [rag-fish/openfire-exploit-suite](https://github.com/rag-fish/openfire-exploit-suite)	<img alt="forks" src="https://img.shields.io/github/forks/rag-fish/openfire-exploit-suite">	<img alt="stars" src="https://img.shields.io/github/stars/rag-fish/openfire-exploit-suite">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
