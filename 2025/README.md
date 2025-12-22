@@ -7955,6 +7955,11 @@
 - [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550)	<img alt="forks" src="https://img.shields.io/github/forks/ChCh0i/cve-2025-1550">	<img alt="stars" src="https://img.shields.io/github/stars/ChCh0i/cve-2025-1550">
 
 ---
+## CVE-2025-15033 ()
+> 
+- [Octolus/CVE-2025-15033](https://github.com/Octolus/CVE-2025-15033)	<img alt="forks" src="https://img.shields.io/github/forks/Octolus/CVE-2025-15033">	<img alt="stars" src="https://img.shields.io/github/stars/Octolus/CVE-2025-15033">
+
+---
 ## CVE-2025-14733 ()
 > 
 - [Ashwesker/Blackash-CVE-2025-14733](https://github.com/Ashwesker/Blackash-CVE-2025-14733)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14733">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14733">
