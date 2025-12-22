@@ -465,6 +465,7 @@
 - [Ashwesker/Blackash-CVE-2025-68613](https://github.com/Ashwesker/Blackash-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-68613">
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
+- [wioui/n8n-CVE-2025-68613-exploit](https://github.com/wioui/n8n-CVE-2025-68613-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wioui/n8n-CVE-2025-68613-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wioui/n8n-CVE-2025-68613-exploit">
 
 ---
 ## CVE-2025-6860 ()
