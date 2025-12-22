@@ -2937,6 +2937,7 @@
 - [vonuyvicoo/nextploiter](https://github.com/vonuyvicoo/nextploiter)	<img alt="forks" src="https://img.shields.io/github/forks/vonuyvicoo/nextploiter">	<img alt="stars" src="https://img.shields.io/github/stars/vonuyvicoo/nextploiter">
 - [BlackTechX011/React2Shell](https://github.com/BlackTechX011/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/BlackTechX011/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/BlackTechX011/React2Shell">
 - [knightwolf01/React2Shell](https://github.com/knightwolf01/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/knightwolf01/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/knightwolf01/React2Shell">
+- [S3cr3t-SDN/React4Shell](https://github.com/S3cr3t-SDN/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/S3cr3t-SDN/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/S3cr3t-SDN/React4Shell">
 
 ---
 ## CVE-2025-54988 ()
