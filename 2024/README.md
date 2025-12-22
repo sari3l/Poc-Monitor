@@ -8617,6 +8617,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 ## CVE-2024-23111 (2024-06-11T15:16:00)
 > An improper neutralization of input during web page Generation ('Cross-site Scripting') vulnerability [CWE-79] in FortiOS version 7.4.3 and below, 7.2 all versions, 7.0 all versions and FortiProxy version 7.4.2 and below, 7.2 all versions, 7.0 all versions reboot page may allow a remote privileged attacker with super-admin access to execute JavaScript code via crafted HTTP GET requests.
 - [zgimszhd61/CVE-2024-23111](https://github.com/zgimszhd61/CVE-2024-23111)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23111">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23111">
+- [XiaomingX/CVE-2024-23111](https://github.com/XiaomingX/CVE-2024-23111)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-23111">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-23111">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)
