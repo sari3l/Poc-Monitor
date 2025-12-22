@@ -5849,6 +5849,11 @@
 - [Live-Hack-CVE/CVE-2021-33060](https://github.com/Live-Hack-CVE/CVE-2021-33060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33060">
 
 ---
+## CVE-2021-33045 ()
+> 
+- [lequoca/Camera-Dahua-CVE-2021-33045](https://github.com/lequoca/Camera-Dahua-CVE-2021-33045)	<img alt="forks" src="https://img.shields.io/github/forks/lequoca/Camera-Dahua-CVE-2021-33045">	<img alt="stars" src="https://img.shields.io/github/stars/lequoca/Camera-Dahua-CVE-2021-33045">
+
+---
 ## CVE-2021-33044 (2021-09-15T22:15:00)
 > The identity authentication bypass vulnerability found in some Dahua products during the login process. Attackers can bypass device identity authentication by constructing malicious data packets.
 - [haingn/LoHongCam-CVE-2021-33044](https://github.com/haingn/LoHongCam-CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/LoHongCam-CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/LoHongCam-CVE-2021-33044">
