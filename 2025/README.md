@@ -474,6 +474,7 @@
 ## CVE-2025-68461 ()
 > 
 - [rxerium/CVE-2025-68461](https://github.com/rxerium/CVE-2025-68461)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-68461">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-68461">
+- [gotr00t0day/CVE-2025-68461](https://github.com/gotr00t0day/CVE-2025-68461)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2025-68461">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2025-68461">
 
 ---
 ## CVE-2025-68434 ()
