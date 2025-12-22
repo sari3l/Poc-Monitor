@@ -458,6 +458,11 @@
 - [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/cve-2025-6907">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/cve-2025-6907">
 
 ---
+## CVE-2025-68613 ()
+> 
+- [rxerium/CVE-2025-68613](https://github.com/rxerium/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-68613">
+
+---
 ## CVE-2025-6860 ()
 > 
 - [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-6860">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-6860">
