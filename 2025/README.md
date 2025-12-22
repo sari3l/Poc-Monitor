@@ -1373,6 +1373,7 @@
 - [dgl/cve-2025-61984-poc](https://github.com/dgl/cve-2025-61984-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dgl/cve-2025-61984-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dgl/cve-2025-61984-poc">
 - [ThanhCT-CyX/Test-CVE-2025-61984](https://github.com/ThanhCT-CyX/Test-CVE-2025-61984)	<img alt="forks" src="https://img.shields.io/github/forks/ThanhCT-CyX/Test-CVE-2025-61984">	<img alt="stars" src="https://img.shields.io/github/stars/ThanhCT-CyX/Test-CVE-2025-61984">
 - [flyskyfire/cve-2025-61984-poc](https://github.com/flyskyfire/cve-2025-61984-poc)	<img alt="forks" src="https://img.shields.io/github/forks/flyskyfire/cve-2025-61984-poc">	<img alt="stars" src="https://img.shields.io/github/stars/flyskyfire/cve-2025-61984-poc">
+- [saldanha00/poc-cve-2025-61984](https://github.com/saldanha00/poc-cve-2025-61984)	<img alt="forks" src="https://img.shields.io/github/forks/saldanha00/poc-cve-2025-61984">	<img alt="stars" src="https://img.shields.io/github/stars/saldanha00/poc-cve-2025-61984">
 
 ---
 ## CVE-2025-61932 ()
