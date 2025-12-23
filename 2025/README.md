@@ -469,6 +469,7 @@
 - [intbjw/CVE-2025-68613-poc-via-copilot](https://github.com/intbjw/CVE-2025-68613-poc-via-copilot)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2025-68613-poc-via-copilot">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2025-68613-poc-via-copilot">
 - [ali-py3/Exploit-CVE-2025-68613](https://github.com/ali-py3/Exploit-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/ali-py3/Exploit-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/ali-py3/Exploit-CVE-2025-68613">
 - [nehkark/CVE-2025-68613](https://github.com/nehkark/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-68613">
+- [GnuTLam/POC-CVE-2025-68613](https://github.com/GnuTLam/POC-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/GnuTLam/POC-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/GnuTLam/POC-CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
