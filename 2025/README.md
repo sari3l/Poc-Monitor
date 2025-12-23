@@ -5283,6 +5283,11 @@
 - [chicken3962/CVE-2025-3500-Poc](https://github.com/chicken3962/CVE-2025-3500-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/chicken3962/CVE-2025-3500-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/chicken3962/CVE-2025-3500-Poc">
 
 ---
+## CVE-2025-3464 ()
+> 
+- [jeffaf/CVE-2025-3464-AsIO3-LPE](https://github.com/jeffaf/CVE-2025-3464-AsIO3-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/CVE-2025-3464-AsIO3-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/CVE-2025-3464-AsIO3-LPE">
+
+---
 ## CVE-2025-34322 ()
 > 
 - [mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server](https://github.com/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server">
