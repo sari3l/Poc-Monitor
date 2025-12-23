@@ -2949,6 +2949,7 @@
 - [S3cr3t-SDN/React4Shell](https://github.com/S3cr3t-SDN/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/S3cr3t-SDN/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/S3cr3t-SDN/React4Shell">
 - [ckex/test-vuln](https://github.com/ckex/test-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/ckex/test-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/ckex/test-vuln">
 - [jensnesten/React2Shell-PoC](https://github.com/jensnesten/React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/React2Shell-PoC">
+- [Anon2Fear/CVE-2025-55182](https://github.com/Anon2Fear/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Anon2Fear/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Anon2Fear/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
