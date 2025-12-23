@@ -87,6 +87,8 @@
 - [DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2](https://github.com/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2)	<img alt="forks" src="https://img.shields.io/github/forks/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2">	<img alt="stars" src="https://img.shields.io/github/stars/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2">
 - [MrRoma577/exploit_cve-2007-2447_again](https://github.com/MrRoma577/exploit_cve-2007-2447_again)	<img alt="forks" src="https://img.shields.io/github/forks/MrRoma577/exploit_cve-2007-2447_again">	<img alt="stars" src="https://img.shields.io/github/stars/MrRoma577/exploit_cve-2007-2447_again">
 - [nika0x38/CVE-2007-2447](https://github.com/nika0x38/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/nika0x38/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/nika0x38/CVE-2007-2447">
+- [nulltrace1336/Samba-Exploit-CVE-2007-2447](https://github.com/nulltrace1336/Samba-Exploit-CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/nulltrace1336/Samba-Exploit-CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/nulltrace1336/Samba-Exploit-CVE-2007-2447">
+- [SeifEldienAhmad/Penetration-Testing-on-Metasploitable2](https://github.com/SeifEldienAhmad/Penetration-Testing-on-Metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/SeifEldienAhmad/Penetration-Testing-on-Metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/SeifEldienAhmad/Penetration-Testing-on-Metasploitable2">
 
 ---
 ## CVE-2007-2444 (2007-05-14T21:19:00)
