@@ -903,6 +903,11 @@
 - [kirubel-cve/CVE-2025-65427](https://github.com/kirubel-cve/CVE-2025-65427)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2025-65427">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2025-65427">
 
 ---
+## CVE-2025-65354 ()
+> 
+- [amaansiddd787/CVE-2025-65354](https://github.com/amaansiddd787/CVE-2025-65354)	<img alt="forks" src="https://img.shields.io/github/forks/amaansiddd787/CVE-2025-65354">	<img alt="stars" src="https://img.shields.io/github/stars/amaansiddd787/CVE-2025-65354">
+
+---
 ## CVE-2025-65346 ()
 > 
 - [Theethat-Thamwasin/CVE-2025-65346](https://github.com/Theethat-Thamwasin/CVE-2025-65346)	<img alt="forks" src="https://img.shields.io/github/forks/Theethat-Thamwasin/CVE-2025-65346">	<img alt="stars" src="https://img.shields.io/github/stars/Theethat-Thamwasin/CVE-2025-65346">
