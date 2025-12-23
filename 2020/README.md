@@ -4170,6 +4170,7 @@
 - [PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.](https://github.com/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.)	<img alt="forks" src="https://img.shields.io/github/forks/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.">	<img alt="stars" src="https://img.shields.io/github/stars/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.">
 - [tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation](https://github.com/tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation">
 - [100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab](https://github.com/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab)	<img alt="forks" src="https://img.shields.io/github/forks/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab">	<img alt="stars" src="https://img.shields.io/github/stars/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab">
+- [JeNilSE/CVE-2020-1472-ZeroLogon-Analysis](https://github.com/JeNilSE/CVE-2020-1472-ZeroLogon-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/JeNilSE/CVE-2020-1472-ZeroLogon-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/JeNilSE/CVE-2020-1472-ZeroLogon-Analysis">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
