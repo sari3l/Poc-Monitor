@@ -2947,6 +2947,7 @@
 - [knightwolf01/React2Shell](https://github.com/knightwolf01/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/knightwolf01/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/knightwolf01/React2Shell">
 - [S3cr3t-SDN/React4Shell](https://github.com/S3cr3t-SDN/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/S3cr3t-SDN/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/S3cr3t-SDN/React4Shell">
 - [ckex/test-vuln](https://github.com/ckex/test-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/ckex/test-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/ckex/test-vuln">
+- [jensnesten/React2Shell-PoC](https://github.com/jensnesten/React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/React2Shell-PoC">
 
 ---
 ## CVE-2025-54988 ()
@@ -8002,6 +8003,7 @@
 ## CVE-2025-14558 ()
 > 
 - [JohannesLks/CVE-2025-14558](https://github.com/JohannesLks/CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2025-14558">
+- [Ashwesker/Blackash-CVE-2025-14558](https://github.com/Ashwesker/Blackash-CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14558">
 
 ---
 ## CVE-2025-14440 ()
