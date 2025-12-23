@@ -7978,6 +7978,7 @@
 > 
 - [Ashwesker/Blackash-CVE-2025-14733](https://github.com/Ashwesker/Blackash-CVE-2025-14733)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14733">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14733">
 - [b1gchoi/CVE-2025-14733](https://github.com/b1gchoi/CVE-2025-14733)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-14733">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-14733">
+- [machevalia/CVE-2025-14733](https://github.com/machevalia/CVE-2025-14733)	<img alt="forks" src="https://img.shields.io/github/forks/machevalia/CVE-2025-14733">	<img alt="stars" src="https://img.shields.io/github/stars/machevalia/CVE-2025-14733">
 
 ---
 ## CVE-2025-14700 ()
