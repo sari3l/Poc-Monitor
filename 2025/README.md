@@ -876,6 +876,11 @@
 - [juccoblak/CVE-2025-6554](https://github.com/juccoblak/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/juccoblak/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/juccoblak/CVE-2025-6554">
 
 ---
+## CVE-2025-65534 ()
+> 
+- [amaansiddhunt/CVE-2025-65534](https://github.com/amaansiddhunt/CVE-2025-65534)	<img alt="forks" src="https://img.shields.io/github/forks/amaansiddhunt/CVE-2025-65534">	<img alt="stars" src="https://img.shields.io/github/stars/amaansiddhunt/CVE-2025-65534">
+
+---
 ## CVE-2025-65518 ()
 > 
 - [Jainil-89/CVE-2025-65518](https://github.com/Jainil-89/CVE-2025-65518)	<img alt="forks" src="https://img.shields.io/github/forks/Jainil-89/CVE-2025-65518">	<img alt="stars" src="https://img.shields.io/github/stars/Jainil-89/CVE-2025-65518">
