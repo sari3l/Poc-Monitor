@@ -722,6 +722,11 @@
 - [richard-natan/PoC-CVE-2025-66224](https://github.com/richard-natan/PoC-CVE-2025-66224)	<img alt="forks" src="https://img.shields.io/github/forks/richard-natan/PoC-CVE-2025-66224">	<img alt="stars" src="https://img.shields.io/github/stars/richard-natan/PoC-CVE-2025-66224">
 
 ---
+## CVE-2025-66209 ()
+> 
+- [0xrakan/coolify-cve-2025-66209-66213](https://github.com/0xrakan/coolify-cve-2025-66209-66213)	<img alt="forks" src="https://img.shields.io/github/forks/0xrakan/coolify-cve-2025-66209-66213">	<img alt="stars" src="https://img.shields.io/github/stars/0xrakan/coolify-cve-2025-66209-66213">
+
+---
 ## CVE-2025-66039 ()
 > 
 - [BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX](https://github.com/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX)	<img alt="forks" src="https://img.shields.io/github/forks/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX">	<img alt="stars" src="https://img.shields.io/github/stars/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX">
