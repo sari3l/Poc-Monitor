@@ -468,6 +468,7 @@
 - [wioui/n8n-CVE-2025-68613-exploit](https://github.com/wioui/n8n-CVE-2025-68613-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wioui/n8n-CVE-2025-68613-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wioui/n8n-CVE-2025-68613-exploit">
 - [intbjw/CVE-2025-68613-poc-via-copilot](https://github.com/intbjw/CVE-2025-68613-poc-via-copilot)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2025-68613-poc-via-copilot">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2025-68613-poc-via-copilot">
 - [ali-py3/Exploit-CVE-2025-68613](https://github.com/ali-py3/Exploit-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/ali-py3/Exploit-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/ali-py3/Exploit-CVE-2025-68613">
+- [nehkark/CVE-2025-68613](https://github.com/nehkark/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
