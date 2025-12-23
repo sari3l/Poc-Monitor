@@ -466,6 +466,7 @@
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
 - [wioui/n8n-CVE-2025-68613-exploit](https://github.com/wioui/n8n-CVE-2025-68613-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wioui/n8n-CVE-2025-68613-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wioui/n8n-CVE-2025-68613-exploit">
+- [intbjw/CVE-2025-68613-poc-via-copilot](https://github.com/intbjw/CVE-2025-68613-poc-via-copilot)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2025-68613-poc-via-copilot">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2025-68613-poc-via-copilot">
 
 ---
 ## CVE-2025-6860 ()
@@ -2943,6 +2944,7 @@
 - [BlackTechX011/React2Shell](https://github.com/BlackTechX011/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/BlackTechX011/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/BlackTechX011/React2Shell">
 - [knightwolf01/React2Shell](https://github.com/knightwolf01/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/knightwolf01/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/knightwolf01/React2Shell">
 - [S3cr3t-SDN/React4Shell](https://github.com/S3cr3t-SDN/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/S3cr3t-SDN/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/S3cr3t-SDN/React4Shell">
+- [ckex/test-vuln](https://github.com/ckex/test-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/ckex/test-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/ckex/test-vuln">
 
 ---
 ## CVE-2025-54988 ()
