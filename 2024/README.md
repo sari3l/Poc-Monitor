@@ -4325,6 +4325,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39205 (2024-10-28T20:15:00)
 > An issue in pyload-ng v0.5.0b3.dev85 running under python3.11 or below allows attackers to execute arbitrary code via a crafted HTTP request.
 - [Marven11/CVE-2024-39205-Pyload-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-39205-Pyload-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-39205-Pyload-RCE">
+- [btar1gan/exploit_CVE-2024-39205](https://github.com/btar1gan/exploit_CVE-2024-39205)	<img alt="forks" src="https://img.shields.io/github/forks/btar1gan/exploit_CVE-2024-39205">	<img alt="stars" src="https://img.shields.io/github/stars/btar1gan/exploit_CVE-2024-39205">
 
 ---
 ## CVE-2024-39203 (2024-07-08T16:15:00)
