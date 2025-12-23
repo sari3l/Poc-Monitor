@@ -1073,6 +1073,11 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 - [HackWidMaddy/CVE-2024-57522](https://github.com/HackWidMaddy/CVE-2024-57522)	<img alt="forks" src="https://img.shields.io/github/forks/HackWidMaddy/CVE-2024-57522">	<img alt="stars" src="https://img.shields.io/github/stars/HackWidMaddy/CVE-2024-57522">
 
 ---
+## CVE-2024-57521 ()
+> 
+- [mrlihd/CVE-2024-57521-SQL-Injection-PoC](https://github.com/mrlihd/CVE-2024-57521-SQL-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mrlihd/CVE-2024-57521-SQL-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mrlihd/CVE-2024-57521-SQL-Injection-PoC">
+
+---
 ## CVE-2024-57514 ()
 > 
 - [rvizx/CVE-2024-57514](https://github.com/rvizx/CVE-2024-57514)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-57514">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-57514">
