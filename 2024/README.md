@@ -2781,6 +2781,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [revanslbw/CVE-2024-47575-POC](https://github.com/revanslbw/CVE-2024-47575-POC)	<img alt="forks" src="https://img.shields.io/github/forks/revanslbw/CVE-2024-47575-POC">	<img alt="stars" src="https://img.shields.io/github/stars/revanslbw/CVE-2024-47575-POC">
 
 ---
+## CVE-2024-47554 ()
+> 
+- [PawelMurdzek/CVE-2024-47554-PoC](https://github.com/PawelMurdzek/CVE-2024-47554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/PawelMurdzek/CVE-2024-47554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/PawelMurdzek/CVE-2024-47554-PoC">
+
+---
 ## CVE-2024-47533 ()
 > 
 - [zetraxz/CVE-2024-47533](https://github.com/zetraxz/CVE-2024-47533)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-47533">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-47533">
