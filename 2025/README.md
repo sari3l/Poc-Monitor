@@ -2967,6 +2967,7 @@
 - [jensnesten/React2Shell-PoC](https://github.com/jensnesten/React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/React2Shell-PoC">
 - [Anon2Fear/CVE-2025-55182](https://github.com/Anon2Fear/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Anon2Fear/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Anon2Fear/CVE-2025-55182">
 - [d01ki/react2shell-lab](https://github.com/d01ki/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/d01ki/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/d01ki/react2shell-lab">
+- [theman001/CVE-2025-55182](https://github.com/theman001/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
