@@ -2971,6 +2971,7 @@
 - [Anon2Fear/CVE-2025-55182](https://github.com/Anon2Fear/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Anon2Fear/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Anon2Fear/CVE-2025-55182">
 - [d01ki/react2shell-lab](https://github.com/d01ki/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/d01ki/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/d01ki/react2shell-lab">
 - [theman001/CVE-2025-55182](https://github.com/theman001/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-55182">
+- [Farhan9488/CVE-2025-55182-research](https://github.com/Farhan9488/CVE-2025-55182-research)	<img alt="forks" src="https://img.shields.io/github/forks/Farhan9488/CVE-2025-55182-research">	<img alt="stars" src="https://img.shields.io/github/stars/Farhan9488/CVE-2025-55182-research">
 
 ---
 ## CVE-2025-54988 ()
