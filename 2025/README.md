@@ -2977,6 +2977,7 @@
 - [slreaperking/CVE-2025-55182-poc](https://github.com/slreaperking/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/slreaperking/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/slreaperking/CVE-2025-55182-poc">
 - [Ghost121111/Blackash-CVE-2025-55182](https://github.com/Ghost121111/Blackash-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost121111/Blackash-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost121111/Blackash-CVE-2025-55182">
 - [phornnato/CVE-2025-55182](https://github.com/phornnato/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/phornnato/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/phornnato/CVE-2025-55182">
+- [mayank729/CVE-2025-55182-scanner](https://github.com/mayank729/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mayank729/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mayank729/CVE-2025-55182-scanner">
 
 ---
 ## CVE-2025-54988 ()
