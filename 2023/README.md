@@ -8520,6 +8520,7 @@ If the server is run as root (which is the default when installing the  snap pac
 - [yosef0x01/CVE-2023-0669-Analysis](https://github.com/yosef0x01/CVE-2023-0669-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2023-0669-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2023-0669-Analysis">
 - [trhacknon/CVE-2023-0669-bis](https://github.com/trhacknon/CVE-2023-0669-bis)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2023-0669-bis">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2023-0669-bis">
 - [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-0669">
+- [zakaria-laouani/cve-2023-0669-simulation](https://github.com/zakaria-laouani/cve-2023-0669-simulation)	<img alt="forks" src="https://img.shields.io/github/forks/zakaria-laouani/cve-2023-0669-simulation">	<img alt="stars" src="https://img.shields.io/github/stars/zakaria-laouani/cve-2023-0669-simulation">
 
 ---
 ## CVE-2023-0630 (2023-03-20T16:15:00)

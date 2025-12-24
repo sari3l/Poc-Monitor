@@ -475,6 +475,8 @@
 - [GnuTLam/POC-CVE-2025-68613](https://github.com/GnuTLam/POC-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/GnuTLam/POC-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/GnuTLam/POC-CVE-2025-68613">
 - [111ddea/CVE-2025-68613](https://github.com/111ddea/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/CVE-2025-68613">
 - [secjoker/CVE-2025-68613](https://github.com/secjoker/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/secjoker/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/secjoker/CVE-2025-68613">
+- [intelligent-ears/CVE-2025-68613](https://github.com/intelligent-ears/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/intelligent-ears/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/intelligent-ears/CVE-2025-68613">
+- [r4j3sh-com/CVE-2025-68613-n8n-lab](https://github.com/r4j3sh-com/CVE-2025-68613-n8n-lab)	<img alt="forks" src="https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-68613-n8n-lab">	<img alt="stars" src="https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-68613-n8n-lab">
 
 ---
 ## CVE-2025-6860 ()
