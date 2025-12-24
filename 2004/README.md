@@ -17,6 +17,7 @@
 - [ss0wl/CVE-2004-2687_distcc_v1](https://github.com/ss0wl/CVE-2004-2687_distcc_v1)	<img alt="forks" src="https://img.shields.io/github/forks/ss0wl/CVE-2004-2687_distcc_v1">	<img alt="stars" src="https://img.shields.io/github/stars/ss0wl/CVE-2004-2687_distcc_v1">
 - [angelpimentell/distcc_cve_2004-2687_exploit](https://github.com/angelpimentell/distcc_cve_2004-2687_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/angelpimentell/distcc_cve_2004-2687_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/angelpimentell/distcc_cve_2004-2687_exploit">
 - [k4miyo/CVE-2004-2687](https://github.com/k4miyo/CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/k4miyo/CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/k4miyo/CVE-2004-2687">
+- [nulltrace1336/Metasploitable-2-Distcc-Exploit-via-Kali-Linux-CVE-2004-2687](https://github.com/nulltrace1336/Metasploitable-2-Distcc-Exploit-via-Kali-Linux-CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/nulltrace1336/Metasploitable-2-Distcc-Exploit-via-Kali-Linux-CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/nulltrace1336/Metasploitable-2-Distcc-Exploit-via-Kali-Linux-CVE-2004-2687">
 
 ---
 ## CVE-2004-2271 (2004-12-31T05:00:00)
