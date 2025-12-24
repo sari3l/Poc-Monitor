@@ -3612,6 +3612,11 @@
 - [Kai-One001/Letta-CVE-2025-51482-RCE](https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kai-One001/Letta-CVE-2025-51482-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kai-One001/Letta-CVE-2025-51482-RCE">
 
 ---
+## CVE-2025-51471 ()
+> 
+- [ajtazer/CVE-2025-51471-POC](https://github.com/ajtazer/CVE-2025-51471-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ajtazer/CVE-2025-51471-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ajtazer/CVE-2025-51471-POC">
+
+---
 ## CVE-2025-51411 ()
 > 
 - [tansique-17/CVE-2025-51411](https://github.com/tansique-17/CVE-2025-51411)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-51411">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-51411">
