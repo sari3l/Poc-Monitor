@@ -477,6 +477,7 @@
 - [secjoker/CVE-2025-68613](https://github.com/secjoker/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/secjoker/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/secjoker/CVE-2025-68613">
 - [intelligent-ears/CVE-2025-68613](https://github.com/intelligent-ears/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/intelligent-ears/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/intelligent-ears/CVE-2025-68613">
 - [r4j3sh-com/CVE-2025-68613-n8n-lab](https://github.com/r4j3sh-com/CVE-2025-68613-n8n-lab)	<img alt="forks" src="https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-68613-n8n-lab">	<img alt="stars" src="https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-68613-n8n-lab">
+- [manyaigdtuw/CVE-2025-68613_shodan-scanner_n8n](https://github.com/manyaigdtuw/CVE-2025-68613_shodan-scanner_n8n)	<img alt="forks" src="https://img.shields.io/github/forks/manyaigdtuw/CVE-2025-68613_shodan-scanner_n8n">	<img alt="stars" src="https://img.shields.io/github/stars/manyaigdtuw/CVE-2025-68613_shodan-scanner_n8n">
 
 ---
 ## CVE-2025-6860 ()
