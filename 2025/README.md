@@ -224,6 +224,8 @@
 > 
 - [rxerium/CVE-2025-8110](https://github.com/rxerium/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-8110">
 - [Ashwesker/Blackash-CVE-2025-8110](https://github.com/Ashwesker/Blackash-CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-8110">
+- [tovd-go/CVE-2025-8110](https://github.com/tovd-go/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/tovd-go/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/tovd-go/CVE-2025-8110">
+- [111ddea/goga-cve-2025-8110](https://github.com/111ddea/goga-cve-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/goga-cve-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/goga-cve-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
@@ -470,6 +472,7 @@
 - [ali-py3/Exploit-CVE-2025-68613](https://github.com/ali-py3/Exploit-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/ali-py3/Exploit-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/ali-py3/Exploit-CVE-2025-68613">
 - [nehkark/CVE-2025-68613](https://github.com/nehkark/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-68613">
 - [GnuTLam/POC-CVE-2025-68613](https://github.com/GnuTLam/POC-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/GnuTLam/POC-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/GnuTLam/POC-CVE-2025-68613">
+- [111ddea/CVE-2025-68613](https://github.com/111ddea/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
