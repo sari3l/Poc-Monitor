@@ -474,6 +474,7 @@
 - [nehkark/CVE-2025-68613](https://github.com/nehkark/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-68613">
 - [GnuTLam/POC-CVE-2025-68613](https://github.com/GnuTLam/POC-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/GnuTLam/POC-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/GnuTLam/POC-CVE-2025-68613">
 - [111ddea/CVE-2025-68613](https://github.com/111ddea/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/CVE-2025-68613">
+- [secjoker/CVE-2025-68613](https://github.com/secjoker/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/secjoker/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/secjoker/CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
