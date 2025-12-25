@@ -480,6 +480,7 @@
 - [intelligent-ears/CVE-2025-68613](https://github.com/intelligent-ears/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/intelligent-ears/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/intelligent-ears/CVE-2025-68613">
 - [r4j3sh-com/CVE-2025-68613-n8n-lab](https://github.com/r4j3sh-com/CVE-2025-68613-n8n-lab)	<img alt="forks" src="https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-68613-n8n-lab">	<img alt="stars" src="https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-68613-n8n-lab">
 - [manyaigdtuw/CVE-2025-68613_Scanner](https://github.com/manyaigdtuw/CVE-2025-68613_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manyaigdtuw/CVE-2025-68613_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manyaigdtuw/CVE-2025-68613_Scanner">
+- [AbdulRKB/n8n-RCE](https://github.com/AbdulRKB/n8n-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AbdulRKB/n8n-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AbdulRKB/n8n-RCE">
 
 ---
 ## CVE-2025-6860 ()
@@ -2988,6 +2989,7 @@
 - [mayank729/CVE-2025-55182-scanner](https://github.com/mayank729/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mayank729/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mayank729/CVE-2025-55182-scanner">
 - [guiimoraes/react2shell-evolved](https://github.com/guiimoraes/react2shell-evolved)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/react2shell-evolved">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/react2shell-evolved">
 - [meneim99/react2shell-scanner](https://github.com/meneim99/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/meneim99/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/meneim99/react2shell-scanner">
+- [Mayca369/CVE-2025-55182](https://github.com/Mayca369/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mayca369/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mayca369/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
