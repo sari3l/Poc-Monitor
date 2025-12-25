@@ -2997,6 +2997,7 @@
 - [meneim99/react2shell-scanner](https://github.com/meneim99/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/meneim99/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/meneim99/react2shell-scanner">
 - [Mayca369/CVE-2025-55182](https://github.com/Mayca369/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mayca369/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mayca369/CVE-2025-55182">
 - [wiixx44/CVE-2025-55182](https://github.com/wiixx44/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wiixx44/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wiixx44/CVE-2025-55182">
+- [alyaapm/CVE-2025-55182-shellinteractive](https://github.com/alyaapm/CVE-2025-55182-shellinteractive)	<img alt="forks" src="https://img.shields.io/github/forks/alyaapm/CVE-2025-55182-shellinteractive">	<img alt="stars" src="https://img.shields.io/github/stars/alyaapm/CVE-2025-55182-shellinteractive">
 
 ---
 ## CVE-2025-54988 ()
