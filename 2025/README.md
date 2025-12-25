@@ -2987,6 +2987,7 @@
 - [phornnato/CVE-2025-55182](https://github.com/phornnato/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/phornnato/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/phornnato/CVE-2025-55182">
 - [mayank729/CVE-2025-55182-scanner](https://github.com/mayank729/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mayank729/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mayank729/CVE-2025-55182-scanner">
 - [guiimoraes/react2shell-evolved](https://github.com/guiimoraes/react2shell-evolved)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/react2shell-evolved">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/react2shell-evolved">
+- [meneim99/react2shell-scanner](https://github.com/meneim99/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/meneim99/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/meneim99/react2shell-scanner">
 
 ---
 ## CVE-2025-54988 ()
