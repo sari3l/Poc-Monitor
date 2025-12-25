@@ -5310,6 +5310,11 @@
 - [jeffaf/CVE-2025-3464-AsIO3-LPE](https://github.com/jeffaf/CVE-2025-3464-AsIO3-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/CVE-2025-3464-AsIO3-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/CVE-2025-3464-AsIO3-LPE">
 
 ---
+## CVE-2025-34462 ()
+> 
+- [NSM-Barii/CVE-2025-34462](https://github.com/NSM-Barii/CVE-2025-34462)	<img alt="forks" src="https://img.shields.io/github/forks/NSM-Barii/CVE-2025-34462">	<img alt="stars" src="https://img.shields.io/github/stars/NSM-Barii/CVE-2025-34462">
+
+---
 ## CVE-2025-34322 ()
 > 
 - [mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server](https://github.com/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server">
