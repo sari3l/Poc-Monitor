@@ -3009,6 +3009,7 @@
 - [wiixx44/CVE-2025-55182](https://github.com/wiixx44/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wiixx44/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wiixx44/CVE-2025-55182">
 - [alyaapm/CVE-2025-55182-shellinteractive](https://github.com/alyaapm/CVE-2025-55182-shellinteractive)	<img alt="forks" src="https://img.shields.io/github/forks/alyaapm/CVE-2025-55182-shellinteractive">	<img alt="stars" src="https://img.shields.io/github/stars/alyaapm/CVE-2025-55182-shellinteractive">
 - [thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
+- [sobuj0007/Nextjs_RCE_Exploit_Tool](https://github.com/sobuj0007/Nextjs_RCE_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sobuj0007/Nextjs_RCE_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sobuj0007/Nextjs_RCE_Exploit_Tool">
 
 ---
 ## CVE-2025-54988 ()
