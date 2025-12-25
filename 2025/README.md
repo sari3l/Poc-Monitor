@@ -5704,6 +5704,7 @@
 - [j3r1ch0123/CVE-2025-32462](https://github.com/j3r1ch0123/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2025-32462">
 - [AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462](https://github.com/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">
 - [OffSecPlaybook/CVE-2025-32462-](https://github.com/OffSecPlaybook/CVE-2025-32462-)	<img alt="forks" src="https://img.shields.io/github/forks/OffSecPlaybook/CVE-2025-32462-">	<img alt="stars" src="https://img.shields.io/github/stars/OffSecPlaybook/CVE-2025-32462-">
+- [harsh1verma/CVE-Analysis](https://github.com/harsh1verma/CVE-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/harsh1verma/CVE-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/harsh1verma/CVE-Analysis">
 
 ---
 ## CVE-2025-32444 ()
