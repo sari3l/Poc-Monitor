@@ -6738,6 +6738,11 @@
 - [shreyas-malhotra/CVE-2025-27410](https://github.com/shreyas-malhotra/CVE-2025-27410)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2025-27410">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2025-27410">
 
 ---
+## CVE-2025-27407 ()
+> 
+- [IDAOlly/PoC_CVE-2025-27407](https://github.com/IDAOlly/PoC_CVE-2025-27407)	<img alt="forks" src="https://img.shields.io/github/forks/IDAOlly/PoC_CVE-2025-27407">	<img alt="stars" src="https://img.shields.io/github/stars/IDAOlly/PoC_CVE-2025-27407">
+
+---
 ## CVE-2025-27363 ()
 > 
 - [zhuowei/CVE-2025-27363-proof-of-concept](https://github.com/zhuowei/CVE-2025-27363-proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/CVE-2025-27363-proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/CVE-2025-27363-proof-of-concept">
