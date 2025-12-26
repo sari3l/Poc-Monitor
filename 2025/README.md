@@ -494,6 +494,7 @@
 - [releaseown/Analysis-n8n-CVE-2025-68613](https://github.com/releaseown/Analysis-n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/releaseown/Analysis-n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/releaseown/Analysis-n8n-CVE-2025-68613">
 - [Dlanang/homelab-CVE-2025-68613](https://github.com/Dlanang/homelab-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Dlanang/homelab-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Dlanang/homelab-CVE-2025-68613">
 - [Khin-96/n8n-cve-2025-68613-thm](https://github.com/Khin-96/n8n-cve-2025-68613-thm)	<img alt="forks" src="https://img.shields.io/github/forks/Khin-96/n8n-cve-2025-68613-thm">	<img alt="stars" src="https://img.shields.io/github/stars/Khin-96/n8n-cve-2025-68613-thm">
+- [J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe](https://github.com/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe">
 
 ---
 ## CVE-2025-6860 ()
