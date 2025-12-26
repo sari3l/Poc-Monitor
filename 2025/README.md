@@ -3773,6 +3773,11 @@
 - [daryllundy/cve-2025-5054](https://github.com/daryllundy/cve-2025-5054)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/cve-2025-5054">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/cve-2025-5054">
 
 ---
+## CVE-2025-505050 ()
+> 
+- [aljoharasubaie/CVE-2025-505050](https://github.com/aljoharasubaie/CVE-2025-505050)	<img alt="forks" src="https://img.shields.io/github/forks/aljoharasubaie/CVE-2025-505050">	<img alt="stars" src="https://img.shields.io/github/stars/aljoharasubaie/CVE-2025-505050">
+
+---
 ## CVE-2025-50505 ()
 > 
 - [bron1e/CVE-2025-50505](https://github.com/bron1e/CVE-2025-50505)	<img alt="forks" src="https://img.shields.io/github/forks/bron1e/CVE-2025-50505">	<img alt="stars" src="https://img.shields.io/github/stars/bron1e/CVE-2025-50505">
