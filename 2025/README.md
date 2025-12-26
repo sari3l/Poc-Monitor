@@ -495,6 +495,7 @@
 - [Dlanang/homelab-CVE-2025-68613](https://github.com/Dlanang/homelab-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Dlanang/homelab-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Dlanang/homelab-CVE-2025-68613">
 - [Khin-96/n8n-cve-2025-68613-thm](https://github.com/Khin-96/n8n-cve-2025-68613-thm)	<img alt="forks" src="https://img.shields.io/github/forks/Khin-96/n8n-cve-2025-68613-thm">	<img alt="stars" src="https://img.shields.io/github/stars/Khin-96/n8n-cve-2025-68613-thm">
 - [J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe](https://github.com/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe">
+- [Ak-cybe/CVE-2025-68613-n8n-rce-analysis](https://github.com/Ak-cybe/CVE-2025-68613-n8n-rce-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Ak-cybe/CVE-2025-68613-n8n-rce-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Ak-cybe/CVE-2025-68613-n8n-rce-analysis">
 
 ---
 ## CVE-2025-6860 ()
