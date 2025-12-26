@@ -3143,6 +3143,11 @@
 - [limmmw/CVE-2025-54352](https://github.com/limmmw/CVE-2025-54352)	<img alt="forks" src="https://img.shields.io/github/forks/limmmw/CVE-2025-54352">	<img alt="stars" src="https://img.shields.io/github/stars/limmmw/CVE-2025-54352">
 
 ---
+## CVE-2025-54322 ()
+> 
+- [Sachinart/CVE-2025-54322](https://github.com/Sachinart/CVE-2025-54322)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2025-54322">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2025-54322">
+
+---
 ## CVE-2025-54321 ()
 > 
 - [saykino/CVE-2025-54321](https://github.com/saykino/CVE-2025-54321)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2025-54321">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2025-54321">
