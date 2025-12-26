@@ -6283,6 +6283,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [inviewp/CVE-2023-27372](https://github.com/inviewp/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/inviewp/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/inviewp/CVE-2023-27372">
 - [1Ronkkeli/spip-cve-2023-27372-rce](https://github.com/1Ronkkeli/spip-cve-2023-27372-rce)	<img alt="forks" src="https://img.shields.io/github/forks/1Ronkkeli/spip-cve-2023-27372-rce">	<img alt="stars" src="https://img.shields.io/github/stars/1Ronkkeli/spip-cve-2023-27372-rce">
 - [G01d3nW01f/cve-2023-27372](https://github.com/G01d3nW01f/cve-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/G01d3nW01f/cve-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/G01d3nW01f/cve-2023-27372">
+- [KirolosKhairy/CVE-2023-27372](https://github.com/KirolosKhairy/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/KirolosKhairy/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/KirolosKhairy/CVE-2023-27372">
 
 ---
 ## CVE-2023-27363 (2024-05-03T02:15:00)
