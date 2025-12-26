@@ -3024,6 +3024,7 @@
 - [thqxploit666/CVE-2025-55182](https://github.com/thqxploit666/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/thqxploit666/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/thqxploit666/CVE-2025-55182">
 - [itsismarcos/Bot-exploit-CVE-2025-55182](https://github.com/itsismarcos/Bot-exploit-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/itsismarcos/Bot-exploit-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/itsismarcos/Bot-exploit-CVE-2025-55182">
 - [0xROI/CVE-2025-55182](https://github.com/0xROI/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xROI/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xROI/CVE-2025-55182">
+- [Updatelap/CVE-2025-55182](https://github.com/Updatelap/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Updatelap/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Updatelap/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
