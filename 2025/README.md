@@ -1901,6 +1901,7 @@
 - [Adel-kaka-dz/cve-2025-59287](https://github.com/Adel-kaka-dz/cve-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Adel-kaka-dz/cve-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Adel-kaka-dz/cve-2025-59287">
 - [mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments](https://github.com/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments">
 - [17patmaks/CVE-2025-59287-Sigma-Rule](https://github.com/17patmaks/CVE-2025-59287-Sigma-Rule)	<img alt="forks" src="https://img.shields.io/github/forks/17patmaks/CVE-2025-59287-Sigma-Rule">	<img alt="stars" src="https://img.shields.io/github/stars/17patmaks/CVE-2025-59287-Sigma-Rule">
+- [gud425/CVE-2025-59287](https://github.com/gud425/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/gud425/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/gud425/CVE-2025-59287">
 
 ---
 ## CVE-2025-59285 ()
