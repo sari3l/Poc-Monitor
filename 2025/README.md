@@ -3018,6 +3018,7 @@
 - [sobuj0007/Nextjs_RCE_Exploit_Tool](https://github.com/sobuj0007/Nextjs_RCE_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sobuj0007/Nextjs_RCE_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sobuj0007/Nextjs_RCE_Exploit_Tool">
 - [Huzii11/React2Shell-CVE-2025-55182-original-poc](https://github.com/Huzii11/React2Shell-CVE-2025-55182-original-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Huzii11/React2Shell-CVE-2025-55182-original-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Huzii11/React2Shell-CVE-2025-55182-original-poc">
 - [Jakelife/HACKVISER-CVE-2025-55182-LAB](https://github.com/Jakelife/HACKVISER-CVE-2025-55182-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/Jakelife/HACKVISER-CVE-2025-55182-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/Jakelife/HACKVISER-CVE-2025-55182-LAB">
+- [thqxploit666/CVE-2025-55182](https://github.com/thqxploit666/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/thqxploit666/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/thqxploit666/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
