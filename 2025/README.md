@@ -118,6 +118,7 @@
 - [3rendil/CVE-2025-9074-POC](https://github.com/3rendil/CVE-2025-9074-POC)	<img alt="forks" src="https://img.shields.io/github/forks/3rendil/CVE-2025-9074-POC">	<img alt="stars" src="https://img.shields.io/github/stars/3rendil/CVE-2025-9074-POC">
 - [fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER](https://github.com/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER">
 - [zaydbf/CVE-2025-9074-Poc](https://github.com/zaydbf/CVE-2025-9074-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/zaydbf/CVE-2025-9074-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/zaydbf/CVE-2025-9074-Poc">
+- [Shaoshi17/-CVE-2025-9074-Docker-Exploit](https://github.com/Shaoshi17/-CVE-2025-9074-Docker-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Shaoshi17/-CVE-2025-9074-Docker-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Shaoshi17/-CVE-2025-9074-Docker-Exploit">
 
 ---
 ## CVE-2025-9043 ()
@@ -490,6 +491,7 @@
 - [hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate](https://github.com/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">
 - [mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613](https://github.com/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613">
 - [releaseown/Analysis-n8n-CVE-2025-68613](https://github.com/releaseown/Analysis-n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/releaseown/Analysis-n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/releaseown/Analysis-n8n-CVE-2025-68613">
+- [Dlanang/homelab-CVE-2025-68613](https://github.com/Dlanang/homelab-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Dlanang/homelab-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Dlanang/homelab-CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
