@@ -1787,6 +1787,7 @@
 > 
 - [Ashwesker/Blackash-CVE-2025-59718](https://github.com/Ashwesker/Blackash-CVE-2025-59718)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-59718">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-59718">
 - [exfil0/CVE-2025-59718-PoC](https://github.com/exfil0/CVE-2025-59718-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/CVE-2025-59718-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/CVE-2025-59718-PoC">
+- [moften/CVE-2025-59718-Fortinet-Poc](https://github.com/moften/CVE-2025-59718-Fortinet-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-59718-Fortinet-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-59718-Fortinet-Poc">
 
 ---
 ## CVE-2025-5964 ()
