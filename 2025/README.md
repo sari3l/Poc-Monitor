@@ -2276,6 +2276,11 @@
 - [Kov404/CVE-2025-56514](https://github.com/Kov404/CVE-2025-56514)	<img alt="forks" src="https://img.shields.io/github/forks/Kov404/CVE-2025-56514">	<img alt="stars" src="https://img.shields.io/github/stars/Kov404/CVE-2025-56514">
 
 ---
+## CVE-2025-56513 ()
+> 
+- [psycho-prince/CVE-2025-56513-NiceHash-Update-Chain-Compromise](https://github.com/psycho-prince/CVE-2025-56513-NiceHash-Update-Chain-Compromise)	<img alt="forks" src="https://img.shields.io/github/forks/psycho-prince/CVE-2025-56513-NiceHash-Update-Chain-Compromise">	<img alt="stars" src="https://img.shields.io/github/stars/psycho-prince/CVE-2025-56513-NiceHash-Update-Chain-Compromise">
+
+---
 ## CVE-2025-56503 ()
 > 
 - [secxplorers/CVE-2025-56503](https://github.com/secxplorers/CVE-2025-56503)	<img alt="forks" src="https://img.shields.io/github/forks/secxplorers/CVE-2025-56503">	<img alt="stars" src="https://img.shields.io/github/stars/secxplorers/CVE-2025-56503">
