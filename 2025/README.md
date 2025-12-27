@@ -797,6 +797,11 @@
 - [jedisct1/CVE-2025-65945-poc](https://github.com/jedisct1/CVE-2025-65945-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jedisct1/CVE-2025-65945-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jedisct1/CVE-2025-65945-poc">
 
 ---
+## CVE-2025-65925 ()
+> 
+- [Sneden/zeroheight-account-verification-bypass-CVE-2025-65925](https://github.com/Sneden/zeroheight-account-verification-bypass-CVE-2025-65925)	<img alt="forks" src="https://img.shields.io/github/forks/Sneden/zeroheight-account-verification-bypass-CVE-2025-65925">	<img alt="stars" src="https://img.shields.io/github/stars/Sneden/zeroheight-account-verification-bypass-CVE-2025-65925">
+
+---
 ## CVE-2025-65900 ()
 > 
 - [Noxurge/CVE-2025-65900](https://github.com/Noxurge/CVE-2025-65900)	<img alt="forks" src="https://img.shields.io/github/forks/Noxurge/CVE-2025-65900">	<img alt="stars" src="https://img.shields.io/github/stars/Noxurge/CVE-2025-65900">
