@@ -1442,6 +1442,11 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [gmh5225/CVE-2023-47253](https://github.com/gmh5225/CVE-2023-47253)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2023-47253">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2023-47253">
 
 ---
+## CVE-2023-47248 ()
+> 
+- [Prodigysec/pyarrow-CVE-2023-47248](https://github.com/Prodigysec/pyarrow-CVE-2023-47248)	<img alt="forks" src="https://img.shields.io/github/forks/Prodigysec/pyarrow-CVE-2023-47248">	<img alt="stars" src="https://img.shields.io/github/stars/Prodigysec/pyarrow-CVE-2023-47248">
+
+---
 ## CVE-2023-47246 (2023-11-10T06:15:00)
 > In SysAid On-Premise before 23.3.36, a path traversal vulnerability leads to code execution after an attacker writes a file to the Tomcat webroot, as exploited in the wild in November 2023.
 - [ex0day/CVE-2023-47246](https://github.com/ex0day/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/ex0day/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/ex0day/CVE-2023-47246">
