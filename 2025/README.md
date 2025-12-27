@@ -3032,6 +3032,7 @@
 - [iksanwkk/CVE-2025-55182-exp](https://github.com/iksanwkk/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/iksanwkk/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/iksanwkk/CVE-2025-55182-exp">
 - [ahmed-dev-op/CVE-2025-55182](https://github.com/ahmed-dev-op/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ahmed-dev-op/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ahmed-dev-op/CVE-2025-55182">
 - [Lennonxlz/react2shell-ultimate](https://github.com/Lennonxlz/react2shell-ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/Lennonxlz/react2shell-ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/Lennonxlz/react2shell-ultimate">
+- [ahmedtouzani/CVE-2025-55182](https://github.com/ahmedtouzani/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedtouzani/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedtouzani/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
