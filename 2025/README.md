@@ -3028,6 +3028,7 @@
 - [Updatelap/CVE-2025-55182](https://github.com/Updatelap/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Updatelap/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Updatelap/CVE-2025-55182">
 - [9988700/CVE-2025-55182-POC-NEXTJS](https://github.com/9988700/CVE-2025-55182-POC-NEXTJS)	<img alt="forks" src="https://img.shields.io/github/forks/9988700/CVE-2025-55182-POC-NEXTJS">	<img alt="stars" src="https://img.shields.io/github/stars/9988700/CVE-2025-55182-POC-NEXTJS">
 - [kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-](https://github.com/kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-">
+- [iksanwkk/CVE-2025-55182-exp](https://github.com/iksanwkk/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/iksanwkk/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/iksanwkk/CVE-2025-55182-exp">
 
 ---
 ## CVE-2025-54988 ()
