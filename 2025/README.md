@@ -8105,6 +8105,7 @@
 > 
 - [onewinner/CVE-2025-14847](https://github.com/onewinner/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/onewinner/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/onewinner/CVE-2025-14847">
 - [ProbiusOfficial/CVE-2025-14847](https://github.com/ProbiusOfficial/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/ProbiusOfficial/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/ProbiusOfficial/CVE-2025-14847">
+- [cybertechajju/CVE-2025-14847_Expolit](https://github.com/cybertechajju/CVE-2025-14847_Expolit)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2025-14847_Expolit">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2025-14847_Expolit">
 
 ---
 ## CVE-2025-14765 ()
