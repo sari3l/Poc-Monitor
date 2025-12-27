@@ -2916,6 +2916,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [Somchandra17/CVE-2024-46507](https://github.com/Somchandra17/CVE-2024-46507)	<img alt="forks" src="https://img.shields.io/github/forks/Somchandra17/CVE-2024-46507">	<img alt="stars" src="https://img.shields.io/github/stars/Somchandra17/CVE-2024-46507">
 
 ---
+## CVE-2024-46506 ()
+> 
+- [fufu-byte/CVE-2024-46506](https://github.com/fufu-byte/CVE-2024-46506)	<img alt="forks" src="https://img.shields.io/github/forks/fufu-byte/CVE-2024-46506">	<img alt="stars" src="https://img.shields.io/github/stars/fufu-byte/CVE-2024-46506">
+
+---
 ## CVE-2024-46483 (2024-10-22T22:15:00)
 > Xlight FTP Server <3.9.4.3 has an integer overflow vulnerability in the packet parsing logic of the SFTP server, which can lead to a heap overflow with attacker-controlled content.
 - [kn32/cve-2024-46483](https://github.com/kn32/cve-2024-46483)	<img alt="forks" src="https://img.shields.io/github/forks/kn32/cve-2024-46483">	<img alt="stars" src="https://img.shields.io/github/stars/kn32/cve-2024-46483">

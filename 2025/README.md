@@ -8114,6 +8114,7 @@
 - [cybertechajju/CVE-2025-14847_Expolit](https://github.com/cybertechajju/CVE-2025-14847_Expolit)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2025-14847_Expolit">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2025-14847_Expolit">
 - [KingHacker353/CVE-2025-14847_Expolit](https://github.com/KingHacker353/CVE-2025-14847_Expolit)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/CVE-2025-14847_Expolit">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/CVE-2025-14847_Expolit">
 - [Ashwesker/Blackash-CVE-2025-14847](https://github.com/Ashwesker/Blackash-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14847">
+- [Black1hp/mongobleed-scanner](https://github.com/Black1hp/mongobleed-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Black1hp/mongobleed-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Black1hp/mongobleed-scanner">
 
 ---
 ## CVE-2025-14765 ()
