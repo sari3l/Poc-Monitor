@@ -1445,6 +1445,7 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 ## CVE-2023-47248 ()
 > 
 - [Prodigysec/pyarrow-CVE-2023-47248](https://github.com/Prodigysec/pyarrow-CVE-2023-47248)	<img alt="forks" src="https://img.shields.io/github/forks/Prodigysec/pyarrow-CVE-2023-47248">	<img alt="stars" src="https://img.shields.io/github/stars/Prodigysec/pyarrow-CVE-2023-47248">
+- [Prodigysec/pyarrow-CVE-2023-47248](https://github.com/Prodigysec/pyarrow-CVE-2023-47248)	<img alt="forks" src="https://img.shields.io/github/forks/Prodigysec/pyarrow-CVE-2023-47248">	<img alt="stars" src="https://img.shields.io/github/stars/Prodigysec/pyarrow-CVE-2023-47248">
 
 ---
 ## CVE-2023-47246 (2023-11-10T06:15:00)
