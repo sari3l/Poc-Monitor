@@ -394,6 +394,7 @@ to load arbitrary JavaScript code.
 - [1337r0j4n/CVE-2023-5360](https://github.com/1337r0j4n/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/1337r0j4n/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/1337r0j4n/CVE-2023-5360">
 - [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/angkerithhack001/CVE-2023-5360-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/angkerithhack001/CVE-2023-5360-PoC">
 - [X3RX3SSec/CVE-2023-5360](https://github.com/X3RX3SSec/CVE-2023-5360)	<img alt="forks" src="https://img.shields.io/github/forks/X3RX3SSec/CVE-2023-5360">	<img alt="stars" src="https://img.shields.io/github/stars/X3RX3SSec/CVE-2023-5360">
+- [LaviruDilshan/CVE-2023-5360-exploit-with-native-libraries](https://github.com/LaviruDilshan/CVE-2023-5360-exploit-with-native-libraries)	<img alt="forks" src="https://img.shields.io/github/forks/LaviruDilshan/CVE-2023-5360-exploit-with-native-libraries">	<img alt="stars" src="https://img.shields.io/github/stars/LaviruDilshan/CVE-2023-5360-exploit-with-native-libraries">
 
 ---
 ## CVE-2023-5359 ()

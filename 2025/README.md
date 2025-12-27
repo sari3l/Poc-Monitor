@@ -3142,6 +3142,7 @@
 - [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2025-54424">
 - [hophtien/CVE-2025-54424](https://github.com/hophtien/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/hophtien/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/hophtien/CVE-2025-54424">
 - [bejbitoilet5125521/CVE-2025-54424](https://github.com/bejbitoilet5125521/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/bejbitoilet5125521/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/bejbitoilet5125521/CVE-2025-54424">
+- [anonnymous5/1Panel-CVE-2025-54424-](https://github.com/anonnymous5/1Panel-CVE-2025-54424-)	<img alt="forks" src="https://img.shields.io/github/forks/anonnymous5/1Panel-CVE-2025-54424-">	<img alt="stars" src="https://img.shields.io/github/stars/anonnymous5/1Panel-CVE-2025-54424-">
 
 ---
 ## CVE-2025-54381 ()
