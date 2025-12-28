@@ -476,6 +476,11 @@
 - [Ashwesker/Blackash-CVE-2025-68645](https://github.com/Ashwesker/Blackash-CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-68645">
 
 ---
+## CVE-2025-68615 ()
+> 
+- [b1gchoi/CVE-2025-68615](https://github.com/b1gchoi/CVE-2025-68615)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-68615">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-68615">
+
+---
 ## CVE-2025-68613 ()
 > 
 - [rxerium/CVE-2025-68613](https://github.com/rxerium/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-68613">
