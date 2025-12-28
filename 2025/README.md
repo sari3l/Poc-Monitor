@@ -4606,6 +4606,11 @@
 - [Nxploited/CVE-2025-4631](https://github.com/Nxploited/CVE-2025-4631)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-4631">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-4631">
 
 ---
+## CVE-2025-46295 ()
+> 
+- [soliantconsulting/CVE-2025-46295-fix-fms](https://github.com/soliantconsulting/CVE-2025-46295-fix-fms)	<img alt="forks" src="https://img.shields.io/github/forks/soliantconsulting/CVE-2025-46295-fix-fms">	<img alt="stars" src="https://img.shields.io/github/stars/soliantconsulting/CVE-2025-46295-fix-fms">
+
+---
 ## CVE-2025-46271 ()
 > 
 - [1Altruist/CVE-2025-46271-Reverse-Shell-PoC](https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">
