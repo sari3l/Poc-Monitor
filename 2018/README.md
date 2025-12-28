@@ -1053,6 +1053,7 @@
 - [zer0condition/GDRVLoader](https://github.com/zer0condition/GDRVLoader)	<img alt="forks" src="https://img.shields.io/github/forks/zer0condition/GDRVLoader">	<img alt="stars" src="https://img.shields.io/github/stars/zer0condition/GDRVLoader">
 - [houseofxyz/CVE-2018-19320](https://github.com/houseofxyz/CVE-2018-19320)	<img alt="forks" src="https://img.shields.io/github/forks/houseofxyz/CVE-2018-19320">	<img alt="stars" src="https://img.shields.io/github/stars/houseofxyz/CVE-2018-19320">
 - [ASkyeye/CVE-2018-19320](https://github.com/ASkyeye/CVE-2018-19320)	<img alt="forks" src="https://img.shields.io/github/forks/ASkyeye/CVE-2018-19320">	<img alt="stars" src="https://img.shields.io/github/stars/ASkyeye/CVE-2018-19320">
+- [CodeVader555/CVE-2018-19320](https://github.com/CodeVader555/CVE-2018-19320)	<img alt="forks" src="https://img.shields.io/github/forks/CodeVader555/CVE-2018-19320">	<img alt="stars" src="https://img.shields.io/github/stars/CodeVader555/CVE-2018-19320">
 
 ---
 ## CVE-2018-1932 (2019-01-08T16:29:00)
