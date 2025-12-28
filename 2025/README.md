@@ -8141,6 +8141,7 @@
 - [Black1hp/mongobleed-scanner](https://github.com/Black1hp/mongobleed-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Black1hp/mongobleed-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Black1hp/mongobleed-scanner">
 - [saereya/CVE-2025-14847---MongoBleed](https://github.com/saereya/CVE-2025-14847---MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/saereya/CVE-2025-14847---MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/saereya/CVE-2025-14847---MongoBleed">
 - [nma-io/mongobleed](https://github.com/nma-io/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/nma-io/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/nma-io/mongobleed">
+- [JemHadar/MongoBleed-DFIR-Triage-Script-CVE-2025-14847-](https://github.com/JemHadar/MongoBleed-DFIR-Triage-Script-CVE-2025-14847-)	<img alt="forks" src="https://img.shields.io/github/forks/JemHadar/MongoBleed-DFIR-Triage-Script-CVE-2025-14847-">	<img alt="stars" src="https://img.shields.io/github/stars/JemHadar/MongoBleed-DFIR-Triage-Script-CVE-2025-14847-">
 
 ---
 ## CVE-2025-14765 ()
