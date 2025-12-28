@@ -7312,6 +7312,7 @@
 - [o0wo0o/CVE-2025-24893_Shell](https://github.com/o0wo0o/CVE-2025-24893_Shell)	<img alt="forks" src="https://img.shields.io/github/forks/o0wo0o/CVE-2025-24893_Shell">	<img alt="stars" src="https://img.shields.io/github/stars/o0wo0o/CVE-2025-24893_Shell">
 - [WhiteDominion/CVE-2025-24893](https://github.com/WhiteDominion/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteDominion/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteDominion/CVE-2025-24893">
 - [BreakingRohit/CVE-2025-24893-PoC](https://github.com/BreakingRohit/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BreakingRohit/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BreakingRohit/CVE-2025-24893-PoC">
+- [hitchy22/xwiki-exploit](https://github.com/hitchy22/xwiki-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hitchy22/xwiki-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hitchy22/xwiki-exploit">
 
 ---
 ## CVE-2025-24813 ()
