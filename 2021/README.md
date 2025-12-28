@@ -1824,6 +1824,11 @@
 - [Live-Hack-CVE/CVE-2021-4251](https://github.com/Live-Hack-CVE/CVE-2021-4251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4251">
 
 ---
+## CVE-2021-42505 ()
+> 
+- [nyambiblaise/MedJed---Barracuda-Drive-insecure-folder-permissions-CVE-2021-42505-or-similar-Walkthrough](https://github.com/nyambiblaise/MedJed---Barracuda-Drive-insecure-folder-permissions-CVE-2021-42505-or-similar-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/nyambiblaise/MedJed---Barracuda-Drive-insecure-folder-permissions-CVE-2021-42505-or-similar-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/nyambiblaise/MedJed---Barracuda-Drive-insecure-folder-permissions-CVE-2021-42505-or-similar-Walkthrough">
+
+---
 ## CVE-2021-4250 (2022-12-18T22:15:00)
 > A vulnerability classified as problematic has been found in cgriego active_attr up to 0.15.3. This affects the function call of the file lib/active_attr/typecasting/boolean_typecaster.rb of the component Regex Handler. The manipulation of the argument value leads to denial of service. The exploit has been disclosed to the public and may be used. Upgrading to version 0.15.4 is able to address this issue. The name of the patch is dab95e5843b01525444b82bd7b336ef1d79377df. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216207.
 - [Live-Hack-CVE/CVE-2021-4250](https://github.com/Live-Hack-CVE/CVE-2021-4250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4250">
