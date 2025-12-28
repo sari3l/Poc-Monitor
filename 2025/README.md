@@ -938,6 +938,11 @@
 - [AT190510-Cuong/CVE-2025-65482-XXE-](https://github.com/AT190510-Cuong/CVE-2025-65482-XXE-)	<img alt="forks" src="https://img.shields.io/github/forks/AT190510-Cuong/CVE-2025-65482-XXE-">	<img alt="stars" src="https://img.shields.io/github/stars/AT190510-Cuong/CVE-2025-65482-XXE-">
 
 ---
+## CVE-2025-65442 ()
+> 
+- [zero-day348/CVE-2025-65442-DOM-based-Cross-Site-Scripting-XSS-Vulnerability-in-novel-V3.5.0-CWE-79-](https://github.com/zero-day348/CVE-2025-65442-DOM-based-Cross-Site-Scripting-XSS-Vulnerability-in-novel-V3.5.0-CWE-79-)	<img alt="forks" src="https://img.shields.io/github/forks/zero-day348/CVE-2025-65442-DOM-based-Cross-Site-Scripting-XSS-Vulnerability-in-novel-V3.5.0-CWE-79-">	<img alt="stars" src="https://img.shields.io/github/stars/zero-day348/CVE-2025-65442-DOM-based-Cross-Site-Scripting-XSS-Vulnerability-in-novel-V3.5.0-CWE-79-">
+
+---
 ## CVE-2025-6543 ()
 > 
 - [grupooruss/Citrix-cve-2025-6543](https://github.com/grupooruss/Citrix-cve-2025-6543)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/Citrix-cve-2025-6543">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/Citrix-cve-2025-6543">
