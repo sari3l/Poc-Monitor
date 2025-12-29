@@ -8164,6 +8164,8 @@
 - [franksec42/mongobleed-exploit-CVE-2025-14847](https://github.com/franksec42/mongobleed-exploit-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/franksec42/mongobleed-exploit-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/franksec42/mongobleed-exploit-CVE-2025-14847">
 - [lincemorado97/CVE-2025-14847](https://github.com/lincemorado97/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-14847">
 - [kuyrathdaro/cve-2025-14847](https://github.com/kuyrathdaro/cve-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-14847">
+- [chinaxploiter/CVE-2025-14847-PoC](https://github.com/chinaxploiter/CVE-2025-14847-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chinaxploiter/CVE-2025-14847-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chinaxploiter/CVE-2025-14847-PoC">
+- [Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847](https://github.com/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847">
 
 ---
 ## CVE-2025-14765 ()
