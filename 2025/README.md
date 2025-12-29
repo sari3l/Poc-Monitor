@@ -3081,6 +3081,8 @@
 - [MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell](https://github.com/MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell">
 - [MysticalHearts/mysticalhearts.github.io](https://github.com/MysticalHearts/mysticalhearts.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MysticalHearts/mysticalhearts.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MysticalHearts/mysticalhearts.github.io">
 - [amirali-ramezani/react2shell-CVE-2025-55182-](https://github.com/amirali-ramezani/react2shell-CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/amirali-ramezani/react2shell-CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/amirali-ramezani/react2shell-CVE-2025-55182-">
+- [vick333-peniel/vick333-peniel.github.io](https://github.com/vick333-peniel/vick333-peniel.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/vick333-peniel/vick333-peniel.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/vick333-peniel/vick333-peniel.github.io">
+- [vick333-peniel/ReactExploitGUI](https://github.com/vick333-peniel/ReactExploitGUI)	<img alt="forks" src="https://img.shields.io/github/forks/vick333-peniel/ReactExploitGUI">	<img alt="stars" src="https://img.shields.io/github/stars/vick333-peniel/ReactExploitGUI">
 
 ---
 ## CVE-2025-54988 ()
