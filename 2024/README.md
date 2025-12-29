@@ -3479,6 +3479,7 @@ Allocated by task 6166:
 > ida64.dll in Hex-Rays IDA Pro through 8.4 crashes when there is a section that has many jumps linked, and the final jump corresponds to the payload from where the actual entry point will be invoked. NOTE: in many use cases, this is an inconvenience but not a security issue.
 - [Azvanzed/CVE-2024-44083](https://github.com/Azvanzed/CVE-2024-44083)	<img alt="forks" src="https://img.shields.io/github/forks/Azvanzed/CVE-2024-44083">	<img alt="stars" src="https://img.shields.io/github/stars/Azvanzed/CVE-2024-44083">
 - [dynamicx64/CVE-2024-44083](https://github.com/dynamicx64/CVE-2024-44083)	<img alt="forks" src="https://img.shields.io/github/forks/dynamicx64/CVE-2024-44083">	<img alt="stars" src="https://img.shields.io/github/stars/dynamicx64/CVE-2024-44083">
+- [CrackerCat/CVE-2024-44083](https://github.com/CrackerCat/CVE-2024-44083)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2024-44083">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2024-44083">
 
 ---
 ## CVE-2024-4406 (2024-05-02T15:15:00)
