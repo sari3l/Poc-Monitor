@@ -8208,6 +8208,7 @@
 - [kuyrathdaro/cve-2025-14847](https://github.com/kuyrathdaro/cve-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-14847">
 - [ob1sec/mongobleeder](https://github.com/ob1sec/mongobleeder)	<img alt="forks" src="https://img.shields.io/github/forks/ob1sec/mongobleeder">	<img alt="stars" src="https://img.shields.io/github/stars/ob1sec/mongobleeder">
 - [joshuavanderpoll/CVE-2025-14847](https://github.com/joshuavanderpoll/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-14847">
+- [tunahantekeoglu/MongoDeepDive](https://github.com/tunahantekeoglu/MongoDeepDive)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/MongoDeepDive">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/MongoDeepDive">
 
 ---
 ## CVE-2025-14765 ()
