@@ -1432,6 +1432,7 @@
 - [Cr4zyD14m0nd137/Lab-for-cve-2018-15133](https://github.com/Cr4zyD14m0nd137/Lab-for-cve-2018-15133)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4zyD14m0nd137/Lab-for-cve-2018-15133">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4zyD14m0nd137/Lab-for-cve-2018-15133">
 - [yeahhbean/Laravel-CVE-2018-15133](https://github.com/yeahhbean/Laravel-CVE-2018-15133)	<img alt="forks" src="https://img.shields.io/github/forks/yeahhbean/Laravel-CVE-2018-15133">	<img alt="stars" src="https://img.shields.io/github/stars/yeahhbean/Laravel-CVE-2018-15133">
 - [Loaxert/CVE-2018-15133-PoC](https://github.com/Loaxert/CVE-2018-15133-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Loaxert/CVE-2018-15133-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Loaxert/CVE-2018-15133-PoC">
+- [flame-11/CVE-2018-15133-laravel-framework](https://github.com/flame-11/CVE-2018-15133-laravel-framework)	<img alt="forks" src="https://img.shields.io/github/forks/flame-11/CVE-2018-15133-laravel-framework">	<img alt="stars" src="https://img.shields.io/github/stars/flame-11/CVE-2018-15133-laravel-framework">
 
 ---
 ## CVE-2018-14882 (2019-10-03T16:15:00)
