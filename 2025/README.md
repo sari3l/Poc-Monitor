@@ -8195,6 +8195,11 @@
 - [b1gchoi/CVE-2025-14696](https://github.com/b1gchoi/CVE-2025-14696)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-14696">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-14696">
 
 ---
+## CVE-2025-14611 ()
+> 
+- [pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit](https://github.com/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit">
+
+---
 ## CVE-2025-1461 ()
 > 
 - [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
