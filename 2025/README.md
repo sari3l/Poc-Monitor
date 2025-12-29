@@ -479,6 +479,7 @@
 ## CVE-2025-68615 ()
 > 
 - [b1gchoi/CVE-2025-68615](https://github.com/b1gchoi/CVE-2025-68615)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-68615">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-68615">
+- [yt2w/CVE-2025-68615](https://github.com/yt2w/CVE-2025-68615)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-68615">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-68615">
 
 ---
 ## CVE-2025-68613 ()
@@ -2202,6 +2203,11 @@
 - [semaja22/CVE-2025-57174](https://github.com/semaja22/CVE-2025-57174)	<img alt="forks" src="https://img.shields.io/github/forks/semaja22/CVE-2025-57174">	<img alt="stars" src="https://img.shields.io/github/stars/semaja22/CVE-2025-57174">
 
 ---
+## CVE-2025-57105 ()
+> 
+- [yt2w/CVE-2025-57105](https://github.com/yt2w/CVE-2025-57105)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-57105">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-57105">
+
+---
 ## CVE-2025-57055 ()
 > 
 - [thawphone/CVE-2025-57055](https://github.com/thawphone/CVE-2025-57055)	<img alt="forks" src="https://img.shields.io/github/forks/thawphone/CVE-2025-57055">	<img alt="stars" src="https://img.shields.io/github/stars/thawphone/CVE-2025-57055">
@@ -3535,6 +3541,11 @@
 ## CVE-2025-5280 ()
 > 
 - [voyagken/CVE-2025-5280-V8-OOB](https://github.com/voyagken/CVE-2025-5280-V8-OOB)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-5280-V8-OOB">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-5280-V8-OOB">
+
+---
+## CVE-2025-52692 ()
+> 
+- [yt2w/CVE-2025-52692-](https://github.com/yt2w/CVE-2025-52692-)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-52692-">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-52692-">
 
 ---
 ## CVE-2025-52689 ()
@@ -8153,7 +8164,7 @@
 ---
 ## CVE-2025-15177 ()
 > 
-- [yt2w/CVE-2025-15177-PoC](https://github.com/yt2w/CVE-2025-15177-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-15177-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-15177-PoC">
+- [yt2w/CVE-2025-15177](https://github.com/yt2w/CVE-2025-15177)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-15177">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-15177">
 
 ---
 ## CVE-2025-15033 ()
