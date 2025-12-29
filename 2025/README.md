@@ -18,6 +18,11 @@
 - [glitchhawks/CVE-2025-9967](https://github.com/glitchhawks/CVE-2025-9967)	<img alt="forks" src="https://img.shields.io/github/forks/glitchhawks/CVE-2025-9967">	<img alt="stars" src="https://img.shields.io/github/stars/glitchhawks/CVE-2025-9967">
 
 ---
+## CVE-2025-9961 ()
+> 
+- [yt2w/CVE-2025-9961](https://github.com/yt2w/CVE-2025-9961)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-9961">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-9961">
+
+---
 ## CVE-2025-9816 ()
 > 
 - [monzaviman/CVE-2025-9816](https://github.com/monzaviman/CVE-2025-9816)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE-2025-9816">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE-2025-9816">
@@ -3545,7 +3550,12 @@
 ---
 ## CVE-2025-52692 ()
 > 
-- [yt2w/CVE-2025-52692-](https://github.com/yt2w/CVE-2025-52692-)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-52692-">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-52692-">
+- [yt2w/CVE-2025-52692](https://github.com/yt2w/CVE-2025-52692)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-52692">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-52692">
+
+---
+## CVE-2025-52691 ()
+> 
+- [yt2w/CVE-2025-52691](https://github.com/yt2w/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-52691">
 
 ---
 ## CVE-2025-52689 ()
