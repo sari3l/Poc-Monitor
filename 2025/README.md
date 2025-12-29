@@ -509,6 +509,7 @@
 - [LingerANR/n8n-CVE-2025-68613](https://github.com/LingerANR/n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/LingerANR/n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/LingerANR/n8n-CVE-2025-68613">
 - [gagaltotal/n8n-cve-2025-68613](https://github.com/gagaltotal/n8n-cve-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/n8n-cve-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/n8n-cve-2025-68613">
 - [reem-012/poc_CVE-2025-68613](https://github.com/reem-012/poc_CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/reem-012/poc_CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/reem-012/poc_CVE-2025-68613">
+- [cv-sai-kamesh/n8n-CVE-2025-68613](https://github.com/cv-sai-kamesh/n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/cv-sai-kamesh/n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/cv-sai-kamesh/n8n-CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
@@ -5551,7 +5552,7 @@
 - [sleepasleepzzz/CVE-2025-33073](https://github.com/sleepasleepzzz/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sleepasleepzzz/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sleepasleepzzz/CVE-2025-33073">
 - [SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073](https://github.com/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">
 - [uziii2208/CVE-2025-33073](https://github.com/uziii2208/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2025-33073">
-- [Ashwesker/Blackash-CVE-2025-33073](https://github.com/Ashwesker/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-33073">
+- [Ashwesker/Ashwesker-CVE-2025-33073](https://github.com/Ashwesker/Ashwesker-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-33073">
 - [Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Iddygodwin/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Iddygodwin/CVE-2025-33073">
 
 ---
