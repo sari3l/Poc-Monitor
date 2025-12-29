@@ -7786,6 +7786,11 @@
 - [DoTTak/CVE-2025-22783](https://github.com/DoTTak/CVE-2025-22783)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-22783">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-22783">
 
 ---
+## CVE-2025-22777 ()
+> 
+- [SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-](https://github.com/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-">
+
+---
 ## CVE-2025-22710 ()
 > 
 - [DoTTak/CVE-2025-22710](https://github.com/DoTTak/CVE-2025-22710)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-22710">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-22710">
