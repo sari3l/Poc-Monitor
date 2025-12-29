@@ -598,6 +598,11 @@
 - [kabir0104k/CVE-2025-66947](https://github.com/kabir0104k/CVE-2025-66947)	<img alt="forks" src="https://img.shields.io/github/forks/kabir0104k/CVE-2025-66947">	<img alt="stars" src="https://img.shields.io/github/stars/kabir0104k/CVE-2025-66947">
 
 ---
+## CVE-2025-66723 ()
+> 
+- [audiopump/cve-2025-66723](https://github.com/audiopump/cve-2025-66723)	<img alt="forks" src="https://img.shields.io/github/forks/audiopump/cve-2025-66723">	<img alt="stars" src="https://img.shields.io/github/stars/audiopump/cve-2025-66723">
+
+---
 ## CVE-2025-666666 ()
 > 
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
@@ -767,6 +772,11 @@
 ## CVE-2025-66470 ()
 > 
 - [Jmehta10/CVE-2025-66470](https://github.com/Jmehta10/CVE-2025-66470)	<img alt="forks" src="https://img.shields.io/github/forks/Jmehta10/CVE-2025-66470">	<img alt="stars" src="https://img.shields.io/github/stars/Jmehta10/CVE-2025-66470">
+
+---
+## CVE-2025-66429 ()
+> 
+- [baseng1337/CVE-2025-66429](https://github.com/baseng1337/CVE-2025-66429)	<img alt="forks" src="https://img.shields.io/github/forks/baseng1337/CVE-2025-66429">	<img alt="stars" src="https://img.shields.io/github/stars/baseng1337/CVE-2025-66429">
 
 ---
 ## CVE-2025-66224 ()
