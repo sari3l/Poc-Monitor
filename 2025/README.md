@@ -4155,6 +4155,11 @@
 - [f3d0rq/CVE-2025-49132](https://github.com/f3d0rq/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/f3d0rq/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/f3d0rq/CVE-2025-49132">
 
 ---
+## CVE-2025-49131 ()
+> 
+- [Wenura17125/cve-2025-49131-poc](https://github.com/Wenura17125/cve-2025-49131-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Wenura17125/cve-2025-49131-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Wenura17125/cve-2025-49131-poc">
+
+---
 ## CVE-2025-49125 ()
 > 
 - [detectrespondrepeat/CVE-2025-49125-Authentication-Bypass](https://github.com/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass">
@@ -6817,6 +6822,11 @@
 ## CVE-2025-27519 ()
 > 
 - [Diabl0xE/CVE-2025-27519](https://github.com/Diabl0xE/CVE-2025-27519)	<img alt="forks" src="https://img.shields.io/github/forks/Diabl0xE/CVE-2025-27519">	<img alt="stars" src="https://img.shields.io/github/stars/Diabl0xE/CVE-2025-27519">
+
+---
+## CVE-2025-27515 ()
+> 
+- [joaovicdev/POC-CVE-2025-27515](https://github.com/joaovicdev/POC-CVE-2025-27515)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/POC-CVE-2025-27515">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/POC-CVE-2025-27515">
 
 ---
 ## CVE-2025-27480 ()
