@@ -4448,6 +4448,11 @@
 - [detectrespondrepeat/CVE-2025-47981](https://github.com/detectrespondrepeat/CVE-2025-47981)	<img alt="forks" src="https://img.shields.io/github/forks/detectrespondrepeat/CVE-2025-47981">	<img alt="stars" src="https://img.shields.io/github/stars/detectrespondrepeat/CVE-2025-47981">
 
 ---
+## CVE-2025-47962 ()
+> 
+- [q1uf3ng/CVE-2025-47962-POC](https://github.com/q1uf3ng/CVE-2025-47962-POC)	<img alt="forks" src="https://img.shields.io/github/forks/q1uf3ng/CVE-2025-47962-POC">	<img alt="stars" src="https://img.shields.io/github/stars/q1uf3ng/CVE-2025-47962-POC">
+
+---
 ## CVE-2025-4796 ()
 > 
 - [Nxploited/CVE-2025-4796](https://github.com/Nxploited/CVE-2025-4796)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-4796">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-4796">
