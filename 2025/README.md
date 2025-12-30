@@ -3569,6 +3569,8 @@
 - [rxerium/CVE-2025-52691](https://github.com/rxerium/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-52691">
 - [Ashwesker/Ashwesker-CVE-2025-52691](https://github.com/Ashwesker/Ashwesker-CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-52691">
 - [you-ssef9/CVE-2025-52691](https://github.com/you-ssef9/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/you-ssef9/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/you-ssef9/CVE-2025-52691">
+- [DeathShotXD/CVE-2025-52691-APT-PoC](https://github.com/DeathShotXD/CVE-2025-52691-APT-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/CVE-2025-52691-APT-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/CVE-2025-52691-APT-PoC">
+- [sajjadsiam/CVE-2025-52691-POC](https://github.com/sajjadsiam/CVE-2025-52691-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sajjadsiam/CVE-2025-52691-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sajjadsiam/CVE-2025-52691-POC">
 
 ---
 ## CVE-2025-52689 ()
