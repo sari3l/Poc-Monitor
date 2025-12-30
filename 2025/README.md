@@ -8238,6 +8238,8 @@
 - [joshuavanderpoll/CVE-2025-14847](https://github.com/joshuavanderpoll/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-14847">
 - [tunahantekeoglu/MongoDeepDive](https://github.com/tunahantekeoglu/MongoDeepDive)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/MongoDeepDive">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/MongoDeepDive">
 - [vfa-tuannt/CVE-2025-14847](https://github.com/vfa-tuannt/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/vfa-tuannt/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/vfa-tuannt/CVE-2025-14847">
+- [FurkanKAYAPINAR/CVE-2025-14847-MongoDB](https://github.com/FurkanKAYAPINAR/CVE-2025-14847-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2025-14847-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2025-14847-MongoDB">
+- [j0lt-github/mongobleedburp](https://github.com/j0lt-github/mongobleedburp)	<img alt="forks" src="https://img.shields.io/github/forks/j0lt-github/mongobleedburp">	<img alt="stars" src="https://img.shields.io/github/stars/j0lt-github/mongobleedburp">
 
 ---
 ## CVE-2025-14765 ()
