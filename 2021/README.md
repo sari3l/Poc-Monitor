@@ -8642,7 +8642,7 @@
 ---
 ## CVE-2021-2220 ()
 > 
-- [nyambiblaise/Walkthrough---Subrion-CMS-Web-Shell-Upload-to-Cron-Based-Privilege-Escalation-CVE-2021-2220-](https://github.com/nyambiblaise/Walkthrough---Subrion-CMS-Web-Shell-Upload-to-Cron-Based-Privilege-Escalation-CVE-2021-2220-)	<img alt="forks" src="https://img.shields.io/github/forks/nyambiblaise/Walkthrough---Subrion-CMS-Web-Shell-Upload-to-Cron-Based-Privilege-Escalation-CVE-2021-2220-">	<img alt="stars" src="https://img.shields.io/github/stars/nyambiblaise/Walkthrough---Subrion-CMS-Web-Shell-Upload-to-Cron-Based-Privilege-Escalation-CVE-2021-2220-">
+- [nyambiblaise/Exfiltrated-Machine-Walkthrough---Subrion-CMS-CVE-2021-2220-](https://github.com/nyambiblaise/Exfiltrated-Machine-Walkthrough---Subrion-CMS-CVE-2021-2220-)	<img alt="forks" src="https://img.shields.io/github/forks/nyambiblaise/Exfiltrated-Machine-Walkthrough---Subrion-CMS-CVE-2021-2220-">	<img alt="stars" src="https://img.shields.io/github/stars/nyambiblaise/Exfiltrated-Machine-Walkthrough---Subrion-CMS-CVE-2021-2220-">
 - [ccordeiro/CVE-2021-22205](https://github.com/ccordeiro/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-22205">
 - [Roronoawjd/CVE-2021-22204](https://github.com/Roronoawjd/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/CVE-2021-22204">
 - [sameep0/CVE-2021-22204](https://github.com/sameep0/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/sameep0/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/sameep0/CVE-2021-22204">
