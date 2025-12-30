@@ -3564,6 +3564,7 @@
 > 
 - [yt2w/CVE-2025-52691](https://github.com/yt2w/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-52691">
 - [rxerium/CVE-2025-52691](https://github.com/rxerium/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-52691">
+- [Ashwesker/Ashwesker-CVE-2025-52691](https://github.com/Ashwesker/Ashwesker-CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-52691">
 
 ---
 ## CVE-2025-52689 ()
