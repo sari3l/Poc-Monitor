@@ -8257,6 +8257,7 @@
 - [j0lt-github/mongobleedburp](https://github.com/j0lt-github/mongobleedburp)	<img alt="forks" src="https://img.shields.io/github/forks/j0lt-github/mongobleedburp">	<img alt="stars" src="https://img.shields.io/github/stars/j0lt-github/mongobleedburp">
 - [ogpourya/CVE-2025-14847](https://github.com/ogpourya/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/ogpourya/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/ogpourya/CVE-2025-14847">
 - [NoNameError/MongoBLEED---CVE-2025-14847-POC-](https://github.com/NoNameError/MongoBLEED---CVE-2025-14847-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/NoNameError/MongoBLEED---CVE-2025-14847-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/NoNameError/MongoBLEED---CVE-2025-14847-POC-">
+- [Rishi-kaul/CVE-2025-14847-MongoBleed](https://github.com/Rishi-kaul/CVE-2025-14847-MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/Rishi-kaul/CVE-2025-14847-MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/Rishi-kaul/CVE-2025-14847-MongoBleed">
 
 ---
 ## CVE-2025-14765 ()
