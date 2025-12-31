@@ -235,6 +235,7 @@
 - [tovd-go/CVE-2025-8110](https://github.com/tovd-go/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/tovd-go/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/tovd-go/CVE-2025-8110">
 - [111ddea/goga-cve-2025-8110](https://github.com/111ddea/goga-cve-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/goga-cve-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/goga-cve-2025-8110">
 - [zAbuQasem/gogs-CVE-2025-8110](https://github.com/zAbuQasem/gogs-CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/zAbuQasem/gogs-CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/zAbuQasem/gogs-CVE-2025-8110">
+- [freiwi/CVE-2025-8110](https://github.com/freiwi/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/freiwi/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/freiwi/CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
