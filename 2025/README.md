@@ -3114,6 +3114,7 @@
 - [Black-and-reds/reactguard](https://github.com/Black-and-reds/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Black-and-reds/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Black-and-reds/reactguard">
 - [git0xLai/React2ShellPoC](https://github.com/git0xLai/React2ShellPoC)	<img alt="forks" src="https://img.shields.io/github/forks/git0xLai/React2ShellPoC">	<img alt="stars" src="https://img.shields.io/github/stars/git0xLai/React2ShellPoC">
 - [hndko/react2shell-rce-autobot](https://github.com/hndko/react2shell-rce-autobot)	<img alt="forks" src="https://img.shields.io/github/forks/hndko/react2shell-rce-autobot">	<img alt="stars" src="https://img.shields.io/github/stars/hndko/react2shell-rce-autobot">
+- [Goultarde/CVE-2025-55182-React2Shell-Lab](https://github.com/Goultarde/CVE-2025-55182-React2Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2025-55182-React2Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2025-55182-React2Shell-Lab">
 
 ---
 ## CVE-2025-54988 ()
