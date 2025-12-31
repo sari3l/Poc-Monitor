@@ -473,6 +473,11 @@
 - [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/cve-2025-6907">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/cve-2025-6907">
 
 ---
+## CVE-2025-68860 ()
+> 
+- [Nxploited/CVE-2025-68860](https://github.com/Nxploited/CVE-2025-68860)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-68860">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-68860">
+
+---
 ## CVE-2025-68664 ()
 > 
 - [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">
@@ -4279,6 +4284,11 @@
 - [mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat](https://github.com/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat">
 - [ukisshinaah/CVE-2025-48799](https://github.com/ukisshinaah/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/ukisshinaah/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/ukisshinaah/CVE-2025-48799">
 - [gmh5225/CVE-2025-48799-](https://github.com/gmh5225/CVE-2025-48799-)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-48799-">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-48799-">
+
+---
+## CVE-2025-48769 ()
+> 
+- [b1gchoi/CVE-2025-48769](https://github.com/b1gchoi/CVE-2025-48769)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-48769">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-48769">
 
 ---
 ## CVE-2025-48708 ()
