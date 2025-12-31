@@ -3238,6 +3238,7 @@
 ## CVE-2025-54322 ()
 > 
 - [Sachinart/CVE-2025-54322](https://github.com/Sachinart/CVE-2025-54322)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2025-54322">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2025-54322">
+- [nkuty/CVE-2025-54322-exploit](https://github.com/nkuty/CVE-2025-54322-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nkuty/CVE-2025-54322-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nkuty/CVE-2025-54322-exploit">
 
 ---
 ## CVE-2025-54321 ()
