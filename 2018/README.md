@@ -1656,6 +1656,11 @@
 - [wearearima/poc-cve-2018-1273](https://github.com/wearearima/poc-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/wearearima/poc-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/wearearima/poc-cve-2018-1273">
 
 ---
+## CVE-2018-12633 ()
+> 
+- [wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass](https://github.com/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass">
+
+---
 ## CVE-2018-1260 ()
 > 
 - [shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE](https://github.com/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE">
