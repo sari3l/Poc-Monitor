@@ -8254,6 +8254,16 @@
 - [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550)	<img alt="forks" src="https://img.shields.io/github/forks/ChCh0i/cve-2025-1550">	<img alt="stars" src="https://img.shields.io/github/stars/ChCh0i/cve-2025-1550">
 
 ---
+## CVE-2025-15406 ()
+> 
+- [rsecroot/CVE-2025-15406](https://github.com/rsecroot/CVE-2025-15406)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2025-15406">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2025-15406">
+
+---
+## CVE-2025-15390 ()
+> 
+- [rsecroot/CVE-2025-15390](https://github.com/rsecroot/CVE-2025-15390)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2025-15390">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2025-15390">
+
+---
 ## CVE-2025-15177 ()
 > 
 - [yt2w/CVE-2025-15177](https://github.com/yt2w/CVE-2025-15177)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-15177">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-15177">
