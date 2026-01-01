@@ -16,6 +16,7 @@
 - [echoosso/CVE-2019-9978](https://github.com/echoosso/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/echoosso/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/echoosso/CVE-2019-9978">
 - [Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE](https://github.com/Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE">
 - [xxoprt/payloadCVE-2019-9978](https://github.com/xxoprt/payloadCVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/xxoprt/payloadCVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/xxoprt/payloadCVE-2019-9978">
+- [Vaidehim55/CVE-2019-9978-RCE-PoC](https://github.com/Vaidehim55/CVE-2019-9978-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Vaidehim55/CVE-2019-9978-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Vaidehim55/CVE-2019-9978-RCE-PoC">
 
 ---
 ## CVE-2019-9947 (2019-03-23T18:29:00)

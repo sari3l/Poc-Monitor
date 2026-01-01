@@ -867,6 +867,11 @@
 - [k4u5h41/CVE-2016-1531](https://github.com/k4u5h41/CVE-2016-1531)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2016-1531">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2016-1531">
 
 ---
+## CVE-2016-15048 ()
+> 
+- [Pranjal6955/test_CVE-2016-15048](https://github.com/Pranjal6955/test_CVE-2016-15048)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/test_CVE-2016-15048">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/test_CVE-2016-15048">
+
+---
 ## CVE-2016-15042 ()
 > 
 - [ImBIOS/lab-cve-2016-15042](https://github.com/ImBIOS/lab-cve-2016-15042)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2016-15042">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2016-15042">

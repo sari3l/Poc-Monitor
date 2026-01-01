@@ -3125,6 +3125,7 @@
 - [git0xLai/React2ShellPoC](https://github.com/git0xLai/React2ShellPoC)	<img alt="forks" src="https://img.shields.io/github/forks/git0xLai/React2ShellPoC">	<img alt="stars" src="https://img.shields.io/github/stars/git0xLai/React2ShellPoC">
 - [hndko/react2shell-rce-autobot](https://github.com/hndko/react2shell-rce-autobot)	<img alt="forks" src="https://img.shields.io/github/forks/hndko/react2shell-rce-autobot">	<img alt="stars" src="https://img.shields.io/github/stars/hndko/react2shell-rce-autobot">
 - [Goultarde/CVE-2025-55182-React2Shell-Lab](https://github.com/Goultarde/CVE-2025-55182-React2Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2025-55182-React2Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2025-55182-React2Shell-Lab">
+- [xiaoLvChen/CVE-2025-55182](https://github.com/xiaoLvChen/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoLvChen/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoLvChen/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
