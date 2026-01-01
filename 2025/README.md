@@ -583,6 +583,11 @@
 - [SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit](https://github.com/SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SteveAkawLabs/MARMALADE-2-CVE-2025-67780-Exploit">
 
 ---
+## CVE-2025-67730 ()
+> 
+- [Dharan10/CVE-2025-67730](https://github.com/Dharan10/CVE-2025-67730)	<img alt="forks" src="https://img.shields.io/github/forks/Dharan10/CVE-2025-67730">	<img alt="stars" src="https://img.shields.io/github/stars/Dharan10/CVE-2025-67730">
+
+---
 ## CVE-2025-6758 ()
 > 
 - [Nxploited/CVE-2025-6758](https://github.com/Nxploited/CVE-2025-6758)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6758">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6758">

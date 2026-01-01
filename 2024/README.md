@@ -3911,6 +3911,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [rpgsec/Roundcube-CVE-2024-42008-POC](https://github.com/rpgsec/Roundcube-CVE-2024-42008-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rpgsec/Roundcube-CVE-2024-42008-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rpgsec/Roundcube-CVE-2024-42008-POC">
 
 ---
+## CVE-2024-41997 ()
+> 
+- [xpcmdshell/CVE-2024-41997](https://github.com/xpcmdshell/CVE-2024-41997)	<img alt="forks" src="https://img.shields.io/github/forks/xpcmdshell/CVE-2024-41997">	<img alt="stars" src="https://img.shields.io/github/stars/xpcmdshell/CVE-2024-41997">
+
+---
 ## CVE-2024-41992 (2024-11-11T01:15:00)
 > Wi-Fi Alliance wfa_dut (in Wi-Fi Test Suite) through 9.0.0 allows OS command injection via 802.11x frames because the system() library function is used. For example, on Arcadyan FMIMG51AX000J devices, this leads to wfaTGSendPing remote code execution as root via traffic to TCP port 8000 or 8080 on a LAN interface. On other devices, this may be exploitable over a WAN interface.
 - [fj016/CVE-2024-41992-PoC](https://github.com/fj016/CVE-2024-41992-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fj016/CVE-2024-41992-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fj016/CVE-2024-41992-PoC">
