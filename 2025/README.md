@@ -8911,6 +8911,12 @@
 - [NeseOS-Corporation/CVE-2025-03](https://github.com/NeseOS-Corporation/CVE-2025-03)	<img alt="forks" src="https://img.shields.io/github/forks/NeseOS-Corporation/CVE-2025-03">	<img alt="stars" src="https://img.shields.io/github/stars/NeseOS-Corporation/CVE-2025-03">
 
 ---
+## CVE-2025-0288 ()
+> 
+- [MeisamEb/CVE-2025-0288](https://github.com/MeisamEb/CVE-2025-0288)	<img alt="forks" src="https://img.shields.io/github/forks/MeisamEb/CVE-2025-0288">	<img alt="stars" src="https://img.shields.io/github/stars/MeisamEb/CVE-2025-0288">
+- [barhen12/CVE-2025-0288](https://github.com/barhen12/CVE-2025-0288)	<img alt="forks" src="https://img.shields.io/github/forks/barhen12/CVE-2025-0288">	<img alt="stars" src="https://img.shields.io/github/stars/barhen12/CVE-2025-0288">
+
+---
 ## CVE-2025-0282 ()
 > 
 - [securexploit1/CVE-2025-0282](https://github.com/securexploit1/CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/securexploit1/CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/securexploit1/CVE-2025-0282">
