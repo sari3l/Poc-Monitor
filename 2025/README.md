@@ -487,6 +487,7 @@
 > 
 - [Ashwesker/Ashwesker-CVE-2025-68645](https://github.com/Ashwesker/Ashwesker-CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-68645">
 - [chinaxploiter/CVE-2025-68645-PoC](https://github.com/chinaxploiter/CVE-2025-68645-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chinaxploiter/CVE-2025-68645-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chinaxploiter/CVE-2025-68645-PoC">
+- [MaxMnMl/zimbramail-CVE-2025-68645-poc](https://github.com/MaxMnMl/zimbramail-CVE-2025-68645-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/zimbramail-CVE-2025-68645-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/zimbramail-CVE-2025-68645-poc">
 
 ---
 ## CVE-2025-68615 ()
@@ -606,6 +607,16 @@
 ## CVE-2025-67294 ()
 > 
 - [0xthem7/CVE-2025-67294](https://github.com/0xthem7/CVE-2025-67294)	<img alt="forks" src="https://img.shields.io/github/forks/0xthem7/CVE-2025-67294">	<img alt="stars" src="https://img.shields.io/github/stars/0xthem7/CVE-2025-67294">
+
+---
+## CVE-2025-67160 ()
+> 
+- [Remenis/CVE-2025-67160](https://github.com/Remenis/CVE-2025-67160)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-67160">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-67160">
+
+---
+## CVE-2025-67159 ()
+> 
+- [Remenis/CVE-2025-67159](https://github.com/Remenis/CVE-2025-67159)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-67159">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-67159">
 
 ---
 ## CVE-2025-67158 ()
