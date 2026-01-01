@@ -8304,6 +8304,11 @@
 - [Systemhaus-Schulz/MongoBleed-CVE-2025-14847](https://github.com/Systemhaus-Schulz/MongoBleed-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/Systemhaus-Schulz/MongoBleed-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/Systemhaus-Schulz/MongoBleed-CVE-2025-14847">
 
 ---
+## CVE-2025-14783 ()
+> 
+- [ZeroEthical/CVE-2025-14783-POC](https://github.com/ZeroEthical/CVE-2025-14783-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroEthical/CVE-2025-14783-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroEthical/CVE-2025-14783-POC">
+
+---
 ## CVE-2025-14765 ()
 > 
 - [InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766](https://github.com/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766">
