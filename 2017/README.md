@@ -1327,6 +1327,7 @@
 - [sevck/CVE-2017-12149](https://github.com/sevck/CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/sevck/CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/sevck/CVE-2017-12149">
 - [JesseClarkND/CVE-2017-12149](https://github.com/JesseClarkND/CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/JesseClarkND/CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/JesseClarkND/CVE-2017-12149">
 - [zesnd/cve-2017-12149](https://github.com/zesnd/cve-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/zesnd/cve-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/zesnd/cve-2017-12149">
+- [galois17/cve-2017-12149-playground](https://github.com/galois17/cve-2017-12149-playground)	<img alt="forks" src="https://img.shields.io/github/forks/galois17/cve-2017-12149-playground">	<img alt="stars" src="https://img.shields.io/github/stars/galois17/cve-2017-12149-playground">
 
 ---
 ## CVE-2017-12129 (2018-05-14T20:29:00)
