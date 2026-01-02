@@ -8381,6 +8381,7 @@
 - [MalBean/CVE-2025-14174-Bypass](https://github.com/MalBean/CVE-2025-14174-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass">
 - [Terrasue/CVE-2025-14174-Exploit](https://github.com/Terrasue/CVE-2025-14174-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Terrasue/CVE-2025-14174-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Terrasue/CVE-2025-14174-Exploit">
 - [Satirush/CVE-2025-14174-Poc](https://github.com/Satirush/CVE-2025-14174-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Satirush/CVE-2025-14174-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Satirush/CVE-2025-14174-Poc">
+- [zeroxjf/CVE-2025-14174-analysis](https://github.com/zeroxjf/CVE-2025-14174-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2025-14174-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2025-14174-analysis">
 
 ---
 ## CVE-2025-14156 ()
