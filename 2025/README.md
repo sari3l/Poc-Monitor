@@ -3142,6 +3142,8 @@
 - [hndko/react2shell-rce-autobot](https://github.com/hndko/react2shell-rce-autobot)	<img alt="forks" src="https://img.shields.io/github/forks/hndko/react2shell-rce-autobot">	<img alt="stars" src="https://img.shields.io/github/stars/hndko/react2shell-rce-autobot">
 - [Goultarde/CVE-2025-55182-React2Shell-Lab](https://github.com/Goultarde/CVE-2025-55182-React2Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2025-55182-React2Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2025-55182-React2Shell-Lab">
 - [xiaoLvChen/CVE-2025-55182](https://github.com/xiaoLvChen/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoLvChen/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoLvChen/CVE-2025-55182">
+- [captain4554/CVE-2025-55182-Scanner](https://github.com/captain4554/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/captain4554/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/captain4554/CVE-2025-55182-Scanner">
+- [captain4554/captain4554.github.io](https://github.com/captain4554/captain4554.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/captain4554/captain4554.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/captain4554/captain4554.github.io">
 
 ---
 ## CVE-2025-54988 ()
