@@ -1679,6 +1679,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [r007sec/CVE-2024-53677](https://github.com/r007sec/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/r007sec/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/r007sec/CVE-2024-53677">
 - [Cythonic1/CVE-2024-53677-POC](https://github.com/Cythonic1/CVE-2024-53677-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cythonic1/CVE-2024-53677-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cythonic1/CVE-2024-53677-POC">
 - [seoyoung-kang/CVE-2024-53677](https://github.com/seoyoung-kang/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/seoyoung-kang/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/seoyoung-kang/CVE-2024-53677">
+- [MartinxMax/CVE-2024-53677](https://github.com/MartinxMax/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/MartinxMax/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/MartinxMax/CVE-2024-53677">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
