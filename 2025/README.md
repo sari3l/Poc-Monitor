@@ -3149,6 +3149,7 @@
 - [captain4554/CVE-2025-55182-Scanner](https://github.com/captain4554/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/captain4554/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/captain4554/CVE-2025-55182-Scanner">
 - [captain4554/captain4554.github.io](https://github.com/captain4554/captain4554.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/captain4554/captain4554.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/captain4554/captain4554.github.io">
 - [ghostn4444/CVE-2025-55182](https://github.com/ghostn4444/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ghostn4444/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ghostn4444/CVE-2025-55182">
+- [HackIndex-io/React2Shell-CVE-2025-55182](https://github.com/HackIndex-io/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/HackIndex-io/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/HackIndex-io/React2Shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
