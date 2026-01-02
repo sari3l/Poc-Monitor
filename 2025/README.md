@@ -291,6 +291,7 @@
 - [4daysday/cve-2025-8088](https://github.com/4daysday/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/4daysday/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/4daysday/cve-2025-8088">
 - [xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit](https://github.com/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit">
 - [Markusino488/cve-2025-8088](https://github.com/Markusino488/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Markusino488/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Markusino488/cve-2025-8088">
+- [vitalichkaa/CVE-2025-8088](https://github.com/vitalichkaa/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/vitalichkaa/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/vitalichkaa/CVE-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
@@ -602,6 +603,11 @@
 ## CVE-2025-67435 ()
 > 
 - [RajChowdhury240/CVE-2025-67435](https://github.com/RajChowdhury240/CVE-2025-67435)	<img alt="forks" src="https://img.shields.io/github/forks/RajChowdhury240/CVE-2025-67435">	<img alt="stars" src="https://img.shields.io/github/stars/RajChowdhury240/CVE-2025-67435">
+
+---
+## CVE-2025-67315 ()
+> 
+- [r-pradyun/CVE-2025-67315](https://github.com/r-pradyun/CVE-2025-67315)	<img alt="forks" src="https://img.shields.io/github/forks/r-pradyun/CVE-2025-67315">	<img alt="stars" src="https://img.shields.io/github/stars/r-pradyun/CVE-2025-67315">
 
 ---
 ## CVE-2025-67294 ()
