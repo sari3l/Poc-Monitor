@@ -2664,6 +2664,7 @@
 - [cybertechajju/CVE-2025-55184-POC-Expolit](https://github.com/cybertechajju/CVE-2025-55184-POC-Expolit)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2025-55184-POC-Expolit">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2025-55184-POC-Expolit">
 - [Tarekhshaikh13/CVE-2025-55184](https://github.com/Tarekhshaikh13/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/Tarekhshaikh13/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/Tarekhshaikh13/CVE-2025-55184">
 - [theori-io/reactguard](https://github.com/theori-io/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/reactguard">
+- [yogeshkumar09/CVE-2025-55184_Testing](https://github.com/yogeshkumar09/CVE-2025-55184_Testing)	<img alt="forks" src="https://img.shields.io/github/forks/yogeshkumar09/CVE-2025-55184_Testing">	<img alt="stars" src="https://img.shields.io/github/stars/yogeshkumar09/CVE-2025-55184_Testing">
 
 ---
 ## CVE-2025-55183 ()
