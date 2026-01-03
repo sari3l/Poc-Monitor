@@ -8240,6 +8240,11 @@
 - [S0haib518-KSA/CVE-2025-1913-PoC](https://github.com/S0haib518-KSA/CVE-2025-1913-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/S0haib518-KSA/CVE-2025-1913-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/S0haib518-KSA/CVE-2025-1913-PoC">
 
 ---
+## CVE-2025-1868 ()
+> 
+- [itres-labs/CVE-2025-1868](https://github.com/itres-labs/CVE-2025-1868)	<img alt="forks" src="https://img.shields.io/github/forks/itres-labs/CVE-2025-1868">	<img alt="stars" src="https://img.shields.io/github/stars/itres-labs/CVE-2025-1868">
+
+---
 ## CVE-2025-1793 ()
 > 
 - [Usama-Figueira/-CVE-2025-1793-poc](https://github.com/Usama-Figueira/-CVE-2025-1793-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Usama-Figueira/-CVE-2025-1793-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Usama-Figueira/-CVE-2025-1793-poc">
