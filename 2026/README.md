@@ -1,6 +1,11 @@
 # 2026 List
 
 ---
+## CVE-2026-21450 ()
+> 
+- [Ashwesker/Ashwesker-CVE-2026-21450](https://github.com/Ashwesker/Ashwesker-CVE-2026-21450)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21450">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21450">
+
+---
 ## CVE-2026-21437 ()
 > 
 - [osmancanvural/CVE-2026-21437](https://github.com/osmancanvural/CVE-2026-21437)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-21437">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-21437">
