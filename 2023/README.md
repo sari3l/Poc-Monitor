@@ -963,6 +963,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-49948-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-49948-PoC">
 
 ---
+## CVE-2023-49785 ()
+> 
+- [hyunnna/NextChat_SSRF_CVE-2023-49785](https://github.com/hyunnna/NextChat_SSRF_CVE-2023-49785)	<img alt="forks" src="https://img.shields.io/github/forks/hyunnna/NextChat_SSRF_CVE-2023-49785">	<img alt="stars" src="https://img.shields.io/github/stars/hyunnna/NextChat_SSRF_CVE-2023-49785">
+
+---
 ## CVE-2023-4966 (2023-10-10T14:15:00)
 > Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA ?virtual?server. 
 
