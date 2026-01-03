@@ -125,6 +125,7 @@
 - [zaydbf/CVE-2025-9074-Poc](https://github.com/zaydbf/CVE-2025-9074-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/zaydbf/CVE-2025-9074-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/zaydbf/CVE-2025-9074-Poc">
 - [Shaoshi17/-CVE-2025-9074-Docker-Exploit](https://github.com/Shaoshi17/-CVE-2025-9074-Docker-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Shaoshi17/-CVE-2025-9074-Docker-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Shaoshi17/-CVE-2025-9074-Docker-Exploit">
 - [Shaoshi17/CVE-2025-9074-Docker-Exploit](https://github.com/Shaoshi17/CVE-2025-9074-Docker-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Shaoshi17/CVE-2025-9074-Docker-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Shaoshi17/CVE-2025-9074-Docker-Exploit">
+- [KvzinNcpx7/CVE-2025-9074_DAEMON_KILLER](https://github.com/KvzinNcpx7/CVE-2025-9074_DAEMON_KILLER)	<img alt="forks" src="https://img.shields.io/github/forks/KvzinNcpx7/CVE-2025-9074_DAEMON_KILLER">	<img alt="stars" src="https://img.shields.io/github/stars/KvzinNcpx7/CVE-2025-9074_DAEMON_KILLER">
 
 ---
 ## CVE-2025-9043 ()
