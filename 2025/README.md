@@ -8330,6 +8330,8 @@
 - [NoNameError/MongoBLEED---CVE-2025-14847-POC-](https://github.com/NoNameError/MongoBLEED---CVE-2025-14847-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/NoNameError/MongoBLEED---CVE-2025-14847-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/NoNameError/MongoBLEED---CVE-2025-14847-POC-">
 - [Rishi-kaul/CVE-2025-14847-MongoBleed](https://github.com/Rishi-kaul/CVE-2025-14847-MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/Rishi-kaul/CVE-2025-14847-MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/Rishi-kaul/CVE-2025-14847-MongoBleed">
 - [Systemhaus-Schulz/MongoBleed-CVE-2025-14847](https://github.com/Systemhaus-Schulz/MongoBleed-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/Systemhaus-Schulz/MongoBleed-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/Systemhaus-Schulz/MongoBleed-CVE-2025-14847">
+- [demetriusford/mongobleed](https://github.com/demetriusford/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/demetriusford/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/demetriusford/mongobleed">
+- [ElJoamy/MongoBleed-exploit](https://github.com/ElJoamy/MongoBleed-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ElJoamy/MongoBleed-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ElJoamy/MongoBleed-exploit">
 
 ---
 ## CVE-2025-14783 ()
