@@ -526,6 +526,7 @@
 - [gagaltotal/n8n-cve-2025-68613](https://github.com/gagaltotal/n8n-cve-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/n8n-cve-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/n8n-cve-2025-68613">
 - [reem-012/poc_CVE-2025-68613](https://github.com/reem-012/poc_CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/reem-012/poc_CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/reem-012/poc_CVE-2025-68613">
 - [cv-sai-kamesh/n8n-CVE-2025-68613](https://github.com/cv-sai-kamesh/n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/cv-sai-kamesh/n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/cv-sai-kamesh/n8n-CVE-2025-68613">
+- [ahmedshamsddin/n8n-RCE-CVE-2025-68613](https://github.com/ahmedshamsddin/n8n-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedshamsddin/n8n-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedshamsddin/n8n-RCE-CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
@@ -5057,6 +5058,11 @@
 ## CVE-2025-43541 ()
 > 
 - [crypt0bit/CVE-2025-43541](https://github.com/crypt0bit/CVE-2025-43541)	<img alt="forks" src="https://img.shields.io/github/forks/crypt0bit/CVE-2025-43541">	<img alt="stars" src="https://img.shields.io/github/stars/crypt0bit/CVE-2025-43541">
+
+---
+## CVE-2025-43529 ()
+> 
+- [zeroxjf/CVE-2025-43529-analysis](https://github.com/zeroxjf/CVE-2025-43529-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2025-43529-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2025-43529-analysis">
 
 ---
 ## CVE-2025-43504 ()
