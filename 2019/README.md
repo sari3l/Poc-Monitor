@@ -2759,6 +2759,11 @@ use after free.
 - [mbadanoiu/CVE-2019-14222](https://github.com/mbadanoiu/CVE-2019-14222)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-14222">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-14222">
 
 ---
+## CVE-2019-14206 ()
+> 
+- [developerfred/cve-2019-14206-poc](https://github.com/developerfred/cve-2019-14206-poc)	<img alt="forks" src="https://img.shields.io/github/forks/developerfred/cve-2019-14206-poc">	<img alt="stars" src="https://img.shields.io/github/stars/developerfred/cve-2019-14206-poc">
+
+---
 ## CVE-2019-13990 (2019-07-26T19:15:00)
 > initDocumentParser in xml/XMLSchedulingDataProcessor.java in Terracotta Quartz Scheduler through 2.3.0 allows XXE attacks via a job description.
 - [Live-Hack-CVE/CVE-2019-13990](https://github.com/Live-Hack-CVE/CVE-2019-13990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13990">
