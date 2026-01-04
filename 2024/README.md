@@ -4874,6 +4874,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [0xFZin/CVE-2024-36991](https://github.com/0xFZin/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/0xFZin/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/0xFZin/CVE-2024-36991">
 
 ---
+## CVE-2024-36985 ()
+> 
+- [LittleSuRii/CVE-2024-36985](https://github.com/LittleSuRii/CVE-2024-36985)	<img alt="forks" src="https://img.shields.io/github/forks/LittleSuRii/CVE-2024-36985">	<img alt="stars" src="https://img.shields.io/github/stars/LittleSuRii/CVE-2024-36985">
+
+---
 ## CVE-2024-36971 ()
 > 
 - [Kronk-imp/CVE-2024-36971](https://github.com/Kronk-imp/CVE-2024-36971)	<img alt="forks" src="https://img.shields.io/github/forks/Kronk-imp/CVE-2024-36971">	<img alt="stars" src="https://img.shields.io/github/stars/Kronk-imp/CVE-2024-36971">

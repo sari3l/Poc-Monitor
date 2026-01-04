@@ -8346,6 +8346,7 @@
 - [Systemhaus-Schulz/MongoBleed-CVE-2025-14847](https://github.com/Systemhaus-Schulz/MongoBleed-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/Systemhaus-Schulz/MongoBleed-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/Systemhaus-Schulz/MongoBleed-CVE-2025-14847">
 - [demetriusford/mongobleed](https://github.com/demetriusford/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/demetriusford/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/demetriusford/mongobleed">
 - [ElJoamy/MongoBleed-exploit](https://github.com/ElJoamy/MongoBleed-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ElJoamy/MongoBleed-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ElJoamy/MongoBleed-exploit">
+- [keraattin/Mongobleed-Detector-CVE-2025-14847](https://github.com/keraattin/Mongobleed-Detector-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/Mongobleed-Detector-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/Mongobleed-Detector-CVE-2025-14847">
 
 ---
 ## CVE-2025-14783 ()
