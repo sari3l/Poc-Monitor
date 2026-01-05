@@ -1657,6 +1657,11 @@
 - [GovindPalakkal/CVE-2025-61299_POC](https://github.com/GovindPalakkal/CVE-2025-61299_POC)	<img alt="forks" src="https://img.shields.io/github/forks/GovindPalakkal/CVE-2025-61299_POC">	<img alt="stars" src="https://img.shields.io/github/stars/GovindPalakkal/CVE-2025-61299_POC">
 
 ---
+## CVE-2025-61246 ()
+> 
+- [hackergovind/CVE-2025-61246](https://github.com/hackergovind/CVE-2025-61246)	<img alt="forks" src="https://img.shields.io/github/forks/hackergovind/CVE-2025-61246">	<img alt="stars" src="https://img.shields.io/github/stars/hackergovind/CVE-2025-61246">
+
+---
 ## CVE-2025-61229 ()
 > 
 - [graypixel2121/CVE-2025-61229](https://github.com/graypixel2121/CVE-2025-61229)	<img alt="forks" src="https://img.shields.io/github/forks/graypixel2121/CVE-2025-61229">	<img alt="stars" src="https://img.shields.io/github/stars/graypixel2121/CVE-2025-61229">
