@@ -3176,6 +3176,7 @@
 - [AdityaBhatt3010/React2Shell-CVE-2025-55182](https://github.com/AdityaBhatt3010/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/React2Shell-CVE-2025-55182">
 - [gahoole77/gahoole77.github.io](https://github.com/gahoole77/gahoole77.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/gahoole77/gahoole77.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/gahoole77/gahoole77.github.io">
 - [lucyz1125/CVE-2025-55182-Next.js-RCE](https://github.com/lucyz1125/CVE-2025-55182-Next.js-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/lucyz1125/CVE-2025-55182-Next.js-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/lucyz1125/CVE-2025-55182-Next.js-RCE">
+- [hyan0116/Next.js-RCE-CVE-2025-55182](https://github.com/hyan0116/Next.js-RCE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hyan0116/Next.js-RCE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hyan0116/Next.js-RCE-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
