@@ -58,6 +58,8 @@
 - [lpuv/CVE-2012-2982](https://github.com/lpuv/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/lpuv/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/lpuv/CVE-2012-2982">
 - [SincIDK/CVE-2012-2982-Exploit-Script](https://github.com/SincIDK/CVE-2012-2982-Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/SincIDK/CVE-2012-2982-Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/SincIDK/CVE-2012-2982-Exploit-Script">
 - [boriitoo/CVE-2012-2982](https://github.com/boriitoo/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/boriitoo/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/boriitoo/CVE-2012-2982">
+- [JRrooot/CVE-2012-2982-Webmin-RCE](https://github.com/JRrooot/CVE-2012-2982-Webmin-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/JRrooot/CVE-2012-2982-Webmin-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/JRrooot/CVE-2012-2982-Webmin-RCE">
+- [danielvilaca/PoC_Webmin](https://github.com/danielvilaca/PoC_Webmin)	<img alt="forks" src="https://img.shields.io/github/forks/danielvilaca/PoC_Webmin">	<img alt="stars" src="https://img.shields.io/github/stars/danielvilaca/PoC_Webmin">
 
 ---
 ## CVE-2012-2661 (2012-06-22T14:55:00)
