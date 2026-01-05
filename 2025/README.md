@@ -8195,6 +8195,7 @@
 - [datagoboom/CVE-2025-2011](https://github.com/datagoboom/CVE-2025-2011)	<img alt="forks" src="https://img.shields.io/github/forks/datagoboom/CVE-2025-2011">	<img alt="stars" src="https://img.shields.io/github/stars/datagoboom/CVE-2025-2011">
 - [X3RX3SSec/CVE-2025-2011](https://github.com/X3RX3SSec/CVE-2025-2011)	<img alt="forks" src="https://img.shields.io/github/forks/X3RX3SSec/CVE-2025-2011">	<img alt="stars" src="https://img.shields.io/github/stars/X3RX3SSec/CVE-2025-2011">
 - [Ashwesker/Blackash-CVE-2025-2011](https://github.com/Ashwesker/Blackash-CVE-2025-2011)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-2011">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-2011">
+- [zsy107u/CVE-2025-2011-poc](https://github.com/zsy107u/CVE-2025-2011-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zsy107u/CVE-2025-2011-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zsy107u/CVE-2025-2011-poc">
 
 ---
 ## CVE-2025-2005 ()
