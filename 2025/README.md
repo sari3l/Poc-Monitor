@@ -480,6 +480,7 @@
 ## CVE-2025-68926 ()
 > 
 - [Chocapikk/CVE-2025-68926](https://github.com/Chocapikk/CVE-2025-68926)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-68926">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-68926">
+- [Arcueld/CVE-2025-68926](https://github.com/Arcueld/CVE-2025-68926)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-68926">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-68926">
 
 ---
 ## CVE-2025-68860 ()
@@ -5466,6 +5467,7 @@
 ## CVE-2025-38352 ()
 > 
 - [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/poc-CVE-2025-38352">
+- [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/chronomaly">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/chronomaly">
 
 ---
 ## CVE-2025-38001 ()
