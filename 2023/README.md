@@ -2406,6 +2406,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [syorik/CVE-2023-42793](https://github.com/syorik/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/syorik/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/syorik/CVE-2023-42793">
 - [cxdxnt/CVE-2023-42793](https://github.com/cxdxnt/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/cxdxnt/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/cxdxnt/CVE-2023-42793">
 - [cesarbtakeda/CVE-exploit-2023-42793](https://github.com/cesarbtakeda/CVE-exploit-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/CVE-exploit-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/CVE-exploit-2023-42793">
+- [DDestinys/CVE-2023-42793](https://github.com/DDestinys/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/DDestinys/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/DDestinys/CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
