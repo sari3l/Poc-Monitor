@@ -8438,6 +8438,11 @@
 - [fatmatrabelsi17/CVE-2025-14221](https://github.com/fatmatrabelsi17/CVE-2025-14221)	<img alt="forks" src="https://img.shields.io/github/forks/fatmatrabelsi17/CVE-2025-14221">	<img alt="stars" src="https://img.shields.io/github/stars/fatmatrabelsi17/CVE-2025-14221">
 
 ---
+## CVE-2025-14175 ()
+> 
+- [CyberVinner/TP-Link-TL-WR820N-CVE-2025-14175](https://github.com/CyberVinner/TP-Link-TL-WR820N-CVE-2025-14175)	<img alt="forks" src="https://img.shields.io/github/forks/CyberVinner/TP-Link-TL-WR820N-CVE-2025-14175">	<img alt="stars" src="https://img.shields.io/github/stars/CyberVinner/TP-Link-TL-WR820N-CVE-2025-14175">
+
+---
 ## CVE-2025-14174 ()
 > 
 - [MalBean/CVE-2025-14174-Bypass](https://github.com/MalBean/CVE-2025-14174-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass">
