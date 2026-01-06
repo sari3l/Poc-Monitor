@@ -3184,6 +3184,7 @@
 - [lucyz1125/CVE-2025-55182-Next.js-RCE](https://github.com/lucyz1125/CVE-2025-55182-Next.js-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/lucyz1125/CVE-2025-55182-Next.js-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/lucyz1125/CVE-2025-55182-Next.js-RCE">
 - [hyan0116/Next.js-RCE-CVE-2025-55182](https://github.com/hyan0116/Next.js-RCE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hyan0116/Next.js-RCE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hyan0116/Next.js-RCE-CVE-2025-55182">
 - [MyCompanyOrganization/React2Shell-Kingdom](https://github.com/MyCompanyOrganization/React2Shell-Kingdom)	<img alt="forks" src="https://img.shields.io/github/forks/MyCompanyOrganization/React2Shell-Kingdom">	<img alt="stars" src="https://img.shields.io/github/stars/MyCompanyOrganization/React2Shell-Kingdom">
+- [shibaaa204/React2Shell](https://github.com/shibaaa204/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
