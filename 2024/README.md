@@ -988,6 +988,7 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 - [OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/OxLmahdi/cve-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/OxLmahdi/cve-2024-5932">
 - [hlc23/CVE-2024-5932-web-ui](https://github.com/hlc23/CVE-2024-5932-web-ui)	<img alt="forks" src="https://img.shields.io/github/forks/hlc23/CVE-2024-5932-web-ui">	<img alt="stars" src="https://img.shields.io/github/stars/hlc23/CVE-2024-5932-web-ui">
 - [autom4il/CVE-2024-5932](https://github.com/autom4il/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/autom4il/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/autom4il/CVE-2024-5932">
+- [nishant-kumar-5173/CVE-2024-5932](https://github.com/nishant-kumar-5173/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/nishant-kumar-5173/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/nishant-kumar-5173/CVE-2024-5932">
 
 ---
 ## CVE-2024-5910 (2024-07-10T19:15:00)
