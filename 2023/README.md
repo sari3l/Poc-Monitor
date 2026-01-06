@@ -2489,7 +2489,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [insomnia-jacob/CVE-2023-4220](https://github.com/insomnia-jacob/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/insomnia-jacob/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/insomnia-jacob/CVE-2023-4220">
 - [Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit](https://github.com/Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit">
 - [HO4XXX/cve-2023-4220-poc](https://github.com/HO4XXX/cve-2023-4220-poc)	<img alt="forks" src="https://img.shields.io/github/forks/HO4XXX/cve-2023-4220-poc">	<img alt="stars" src="https://img.shields.io/github/stars/HO4XXX/cve-2023-4220-poc">
-- [B1TC0R3/CVE-2023-4220-PoC](https://github.com/B1TC0R3/CVE-2023-4220-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/B1TC0R3/CVE-2023-4220-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/B1TC0R3/CVE-2023-4220-PoC">
+- [B1TC0R3/CVE-2023-4220](https://github.com/B1TC0R3/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/B1TC0R3/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/B1TC0R3/CVE-2023-4220">
 - [krishnan-tech/CVE-2023-4226-POC](https://github.com/krishnan-tech/CVE-2023-4226-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krishnan-tech/CVE-2023-4226-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krishnan-tech/CVE-2023-4226-POC">
 - [nr4x4/CVE-2023-4220](https://github.com/nr4x4/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/nr4x4/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/nr4x4/CVE-2023-4220">
 - [Al3xGD/CVE-2023-4220-Exploit](https://github.com/Al3xGD/CVE-2023-4220-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Al3xGD/CVE-2023-4220-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Al3xGD/CVE-2023-4220-Exploit">
@@ -2509,6 +2509,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [zora-beep/CVE-2023-4220](https://github.com/zora-beep/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/zora-beep/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/zora-beep/CVE-2023-4220">
 - [insomnia-jacob/CVE-2023-4220](https://github.com/insomnia-jacob/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/insomnia-jacob/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/insomnia-jacob/CVE-2023-4220">
 - [gmh5225/CVE-2023-4220](https://github.com/gmh5225/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2023-4220">
+- [Rai2en/CVE-2023-4220-Chamilo-LMS](https://github.com/Rai2en/CVE-2023-4220-Chamilo-LMS)	<img alt="forks" src="https://img.shields.io/github/forks/Rai2en/CVE-2023-4220-Chamilo-LMS">	<img alt="stars" src="https://img.shields.io/github/stars/Rai2en/CVE-2023-4220-Chamilo-LMS">
 
 ---
 ## CVE-2023-422 ()
