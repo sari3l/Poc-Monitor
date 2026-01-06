@@ -8713,6 +8713,11 @@
 - [matejsmycka/PoC-CVE-2025-12097](https://github.com/matejsmycka/PoC-CVE-2025-12097)	<img alt="forks" src="https://img.shields.io/github/forks/matejsmycka/PoC-CVE-2025-12097">	<img alt="stars" src="https://img.shields.io/github/stars/matejsmycka/PoC-CVE-2025-12097">
 
 ---
+## CVE-2025-12030 ()
+> 
+- [SnailSploit/CVE-2025-12030](https://github.com/SnailSploit/CVE-2025-12030)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-12030">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-12030">
+
+---
 ## CVE-2025-11953 ()
 > 
 - [SaidBenaissa/cve-2025-11953-vulnerability-demo](https://github.com/SaidBenaissa/cve-2025-11953-vulnerability-demo)	<img alt="forks" src="https://img.shields.io/github/forks/SaidBenaissa/cve-2025-11953-vulnerability-demo">	<img alt="stars" src="https://img.shields.io/github/stars/SaidBenaissa/cve-2025-11953-vulnerability-demo">
