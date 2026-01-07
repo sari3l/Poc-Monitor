@@ -8381,6 +8381,7 @@
 - [ElJoamy/MongoBleed-exploit](https://github.com/ElJoamy/MongoBleed-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ElJoamy/MongoBleed-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ElJoamy/MongoBleed-exploit">
 - [keraattin/Mongobleed-Detector-CVE-2025-14847](https://github.com/keraattin/Mongobleed-Detector-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/Mongobleed-Detector-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/Mongobleed-Detector-CVE-2025-14847">
 - [waheeb71/CVE-2025-14847](https://github.com/waheeb71/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/waheeb71/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/waheeb71/CVE-2025-14847">
+- [CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner](https://github.com/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner">
 
 ---
 ## CVE-2025-14783 ()
