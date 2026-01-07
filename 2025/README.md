@@ -3208,6 +3208,7 @@
 - [MyCompanyOrganization/React2Shell-Kingdom](https://github.com/MyCompanyOrganization/React2Shell-Kingdom)	<img alt="forks" src="https://img.shields.io/github/forks/MyCompanyOrganization/React2Shell-Kingdom">	<img alt="stars" src="https://img.shields.io/github/stars/MyCompanyOrganization/React2Shell-Kingdom">
 - [shibaaa204/React2Shell](https://github.com/shibaaa204/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/React2Shell">
 - [B1TC0R3/CVE-2025-55182](https://github.com/B1TC0R3/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/B1TC0R3/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/B1TC0R3/CVE-2025-55182">
+- [en0f/CVE-2025-55182-poc-json](https://github.com/en0f/CVE-2025-55182-poc-json)	<img alt="forks" src="https://img.shields.io/github/forks/en0f/CVE-2025-55182-poc-json">	<img alt="stars" src="https://img.shields.io/github/stars/en0f/CVE-2025-55182-poc-json">
 
 ---
 ## CVE-2025-54988 ()
