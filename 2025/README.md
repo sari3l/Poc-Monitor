@@ -5960,6 +5960,7 @@
 - [Mr-Alperen/CVE-2025-32463](https://github.com/Mr-Alperen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Alperen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Alperen/CVE-2025-32463">
 - [aexdyhaxor/CVE-2025-32463](https://github.com/aexdyhaxor/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2025-32463">
 - [wvverez/CVE-2025-32463](https://github.com/wvverez/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2025-32463">
+- [wvverez/CVE-2025-32463](https://github.com/wvverez/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
