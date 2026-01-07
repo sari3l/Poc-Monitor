@@ -11,6 +11,7 @@
 > 
 - [eduardorossi84/CVE-2026-21858-POC](https://github.com/eduardorossi84/CVE-2026-21858-POC)	<img alt="forks" src="https://img.shields.io/github/forks/eduardorossi84/CVE-2026-21858-POC">	<img alt="stars" src="https://img.shields.io/github/stars/eduardorossi84/CVE-2026-21858-POC">
 - [Chocapikk/CVE-2026-21858](https://github.com/Chocapikk/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2026-21858">
+- [Ashwesker/Ashwesker-CVE-2026-21858](https://github.com/Ashwesker/Ashwesker-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21858">
 
 ---
 ## CVE-2026-21451 ()
