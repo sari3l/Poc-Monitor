@@ -4309,6 +4309,11 @@
 - [ankitpandey383/roundcube-cve-2025-49113-lab](https://github.com/ankitpandey383/roundcube-cve-2025-49113-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ankitpandey383/roundcube-cve-2025-49113-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ankitpandey383/roundcube-cve-2025-49113-lab">
 
 ---
+## CVE-2025-49071 ()
+> 
+- [xShadow-Here/CVE-2025-49071](https://github.com/xShadow-Here/CVE-2025-49071)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2025-49071">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2025-49071">
+
+---
 ## CVE-2025-49029 ()
 > 
 - [Nxploited/CVE-2025-49029](https://github.com/Nxploited/CVE-2025-49029)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-49029">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-49029">
