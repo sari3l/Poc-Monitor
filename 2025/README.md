@@ -8317,6 +8317,11 @@
 - [S0haib518-KSA/CVE-2025-1913-PoC](https://github.com/S0haib518-KSA/CVE-2025-1913-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/S0haib518-KSA/CVE-2025-1913-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/S0haib518-KSA/CVE-2025-1913-PoC">
 
 ---
+## CVE-2025-1910 ()
+> 
+- [lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation](https://github.com/lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation">
+
+---
 ## CVE-2025-1868 ()
 > 
 - [itres-labs/CVE-2025-1868](https://github.com/itres-labs/CVE-2025-1868)	<img alt="forks" src="https://img.shields.io/github/forks/itres-labs/CVE-2025-1868">	<img alt="stars" src="https://img.shields.io/github/stars/itres-labs/CVE-2025-1868">
