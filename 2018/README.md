@@ -704,7 +704,7 @@
 - [Lighird/CVE-2018-2628](https://github.com/Lighird/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/Lighird/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/Lighird/CVE-2018-2628">
 - [Nervous/WebLogic-RCE-exploit](https://github.com/Nervous/WebLogic-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nervous/WebLogic-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nervous/WebLogic-RCE-exploit">
 - [shengqi158/CVE-2018-2628](https://github.com/shengqi158/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/shengqi158/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/shengqi158/CVE-2018-2628">
-- [likescam/CVE-2018-2628](https://github.com/likescam/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2018-2628">
+- [likekabin/CVE-2018-2628](https://github.com/likekabin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/likekabin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/likekabin/CVE-2018-2628">
 - [stevenlinfeng/CVE-2018-2628](https://github.com/stevenlinfeng/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/stevenlinfeng/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/stevenlinfeng/CVE-2018-2628">
 - [wrysunny/cve-2018-2628](https://github.com/wrysunny/cve-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/wrysunny/cve-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/wrysunny/cve-2018-2628">
 - [tdy218/ysoserial-cve-2018-2628](https://github.com/tdy218/ysoserial-cve-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/tdy218/ysoserial-cve-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/tdy218/ysoserial-cve-2018-2628">
@@ -719,6 +719,7 @@
 - [skydarker/CVE-2018-2628](https://github.com/skydarker/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/skydarker/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/skydarker/CVE-2018-2628">
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
 - [Serendipity-Lucky/CVE-2018-2628](https://github.com/Serendipity-Lucky/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2018-2628">
+- [herantong/CVE-2018-2628](https://github.com/herantong/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/herantong/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/herantong/CVE-2018-2628">
 
 ---
 ## CVE-2018-25076 (2023-01-16T12:15:00)
