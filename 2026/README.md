@@ -10,6 +10,7 @@
 ## CVE-2026-21858 ()
 > 
 - [eduardorossi84/CVE-2026-21858-POC](https://github.com/eduardorossi84/CVE-2026-21858-POC)	<img alt="forks" src="https://img.shields.io/github/forks/eduardorossi84/CVE-2026-21858-POC">	<img alt="stars" src="https://img.shields.io/github/stars/eduardorossi84/CVE-2026-21858-POC">
+- [Chocapikk/CVE-2026-21858](https://github.com/Chocapikk/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2026-21858">
 
 ---
 ## CVE-2026-21451 ()
@@ -36,6 +37,11 @@
 ## CVE-2026-21437 ()
 > 
 - [osmancanvural/CVE-2026-21437](https://github.com/osmancanvural/CVE-2026-21437)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-21437">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-21437">
+
+---
+## CVE-2026-0628 ()
+> 
+- [fevar54/CVE-2026-0628-POC](https://github.com/fevar54/CVE-2026-0628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0628-POC">
 
 ---
 ## CVE-2026-0547 ()
