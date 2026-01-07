@@ -862,6 +862,11 @@
 - [Live-Hack-CVE/CVE-2016-1669](https://github.com/Live-Hack-CVE/CVE-2016-1669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1669">
 
 ---
+## CVE-2016-16113 ()
+> 
+- [d3vn0mi/cve-2016-16113](https://github.com/d3vn0mi/cve-2016-16113)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/cve-2016-16113">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/cve-2016-16113">
+
+---
 ## CVE-2016-1531 (2016-04-07T23:59:00)
 > Exim before 4.86.2, when installed setuid root, allows local users to gain privileges via the perl_startup argument.
 - [k4u5h41/CVE-2016-1531](https://github.com/k4u5h41/CVE-2016-1531)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2016-1531">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2016-1531">

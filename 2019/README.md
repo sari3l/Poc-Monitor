@@ -2099,6 +2099,7 @@ use after free.
 - [paras1te-x/CVE-2019-18634](https://github.com/paras1te-x/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/paras1te-x/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/paras1te-x/CVE-2019-18634">
 - [ngyinkit/cve-2019-18634](https://github.com/ngyinkit/cve-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/ngyinkit/cve-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/ngyinkit/cve-2019-18634">
 - [letsr00t/-CVE-2019-18634-sudo-pwfeedback](https://github.com/letsr00t/-CVE-2019-18634-sudo-pwfeedback)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/-CVE-2019-18634-sudo-pwfeedback">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/-CVE-2019-18634-sudo-pwfeedback">
+- [CyrusRazavi/CVE-2019-18634-](https://github.com/CyrusRazavi/CVE-2019-18634-)	<img alt="forks" src="https://img.shields.io/github/forks/CyrusRazavi/CVE-2019-18634-">	<img alt="stars" src="https://img.shields.io/github/stars/CyrusRazavi/CVE-2019-18634-">
 
 ---
 ## CVE-2019-18413 (2019-10-24T18:15:00)
