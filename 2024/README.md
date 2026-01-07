@@ -3154,6 +3154,11 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [srcx404/CVE-2024-45436](https://github.com/srcx404/CVE-2024-45436)	<img alt="forks" src="https://img.shields.io/github/forks/srcx404/CVE-2024-45436">	<img alt="stars" src="https://img.shields.io/github/stars/srcx404/CVE-2024-45436">
 
 ---
+## CVE-2024-45427 ()
+> 
+- [MHamdy24/CVE-2024-45427-Exploit](https://github.com/MHamdy24/CVE-2024-45427-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MHamdy24/CVE-2024-45427-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MHamdy24/CVE-2024-45427-Exploit">
+
+---
 ## CVE-2024-45410 (2024-09-19T23:15:00)
 > Traefik is a golang, Cloud Native Application Proxy. When a HTTP request is processed by Traefik, certain HTTP headers such as X-Forwarded-Host or X-Forwarded-Port are added by Traefik before the request is routed to the application. For a HTTP client, it should not be possible to remove or modify these headers. Since the application trusts the value of these headers, security implications might arise, if they can be modified. For HTTP/1.1, however, it was found that some of theses custom headers can indeed be removed and in certain cases manipulated. The attack relies on the HTTP/1.1 behavior, that headers can be defined as hop-by-hop via the HTTP Connection header. This issue has been addressed in release versions 2.11.9 and 3.1.3. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [jphetphoumy/traefik-CVE-2024-45410-poc](https://github.com/jphetphoumy/traefik-CVE-2024-45410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jphetphoumy/traefik-CVE-2024-45410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jphetphoumy/traefik-CVE-2024-45410-poc">
