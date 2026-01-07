@@ -1888,6 +1888,11 @@
 - [phamdinhquy2512/CVE-2025-6019-Exploitation](https://github.com/phamdinhquy2512/CVE-2025-6019-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/phamdinhquy2512/CVE-2025-6019-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/phamdinhquy2512/CVE-2025-6019-Exploitation">
 
 ---
+## CVE-2025-60188 ()
+> 
+- [m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit">
+
+---
 ## CVE-2025-6018 ()
 > 
 - [mistrustt/PAM-UDisks-PrivEsc-Metasploit](https://github.com/mistrustt/PAM-UDisks-PrivEsc-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrustt/PAM-UDisks-PrivEsc-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrustt/PAM-UDisks-PrivEsc-Metasploit">
