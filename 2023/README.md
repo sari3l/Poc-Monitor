@@ -3909,6 +3909,7 @@ prior to
 - [Dreamy-elfland/CVE-2023-36846](https://github.com/Dreamy-elfland/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Dreamy-elfland/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Dreamy-elfland/CVE-2023-36846">
 - [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
 - [Chocapikk/CVE-2023-36846](https://github.com/Chocapikk/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-36846">
+- [iveresk/CVE-2023-36845-6-](https://github.com/iveresk/CVE-2023-36845-6-)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2023-36845-6-">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2023-36845-6-">
 
 ---
 ## CVE-2023-36845 (2023-08-17T20:15:00)

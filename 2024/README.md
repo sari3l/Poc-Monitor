@@ -9033,6 +9033,11 @@ QuTScloud c5.1.5.2651 and later
 - [tucommenceapousser/CVE-2024-21887](https://github.com/tucommenceapousser/CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2024-21887">
 - [imhunterand/CVE-2024-21887](https://github.com/imhunterand/CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2024-21887">
 - [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">
+- [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
+- [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter)	<img alt="forks" src="https://img.shields.io/github/forks/rxwx/pulse-meter">	<img alt="stars" src="https://img.shields.io/github/stars/rxwx/pulse-meter">
+- [Hexastrike/Ivanti-Connect-Secure-Logs-Parser](https://github.com/Hexastrike/Ivanti-Connect-Secure-Logs-Parser)	<img alt="forks" src="https://img.shields.io/github/forks/Hexastrike/Ivanti-Connect-Secure-Logs-Parser">	<img alt="stars" src="https://img.shields.io/github/stars/Hexastrike/Ivanti-Connect-Secure-Logs-Parser">
+- [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
+- [pwniel/ivanti_shell](https://github.com/pwniel/ivanti_shell)	<img alt="forks" src="https://img.shields.io/github/forks/pwniel/ivanti_shell">	<img alt="stars" src="https://img.shields.io/github/stars/pwniel/ivanti_shell">
 
 ---
 ## CVE-2024-2188 (2024-03-05T13:15:00)
