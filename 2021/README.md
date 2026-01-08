@@ -1241,6 +1241,8 @@
 - [hxlxmj/Grafxploit](https://github.com/hxlxmj/Grafxploit)	<img alt="forks" src="https://img.shields.io/github/forks/hxlxmj/Grafxploit">	<img alt="stars" src="https://img.shields.io/github/stars/hxlxmj/Grafxploit">
 - [f3d0rq/CVE-2021-43798](https://github.com/f3d0rq/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/f3d0rq/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/f3d0rq/CVE-2021-43798">
 - [strikoder/Grafana-CVE-2021-43798-Python](https://github.com/strikoder/Grafana-CVE-2021-43798-Python)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/Grafana-CVE-2021-43798-Python">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/Grafana-CVE-2021-43798-Python">
+- [baktistr/cve-2021-43798-enum](https://github.com/baktistr/cve-2021-43798-enum)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2021-43798-enum">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2021-43798-enum">
+- [strikoder/Grafana-Password-Decryptor](https://github.com/strikoder/Grafana-Password-Decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/Grafana-Password-Decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/Grafana-Password-Decryptor">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
