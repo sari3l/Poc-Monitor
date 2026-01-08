@@ -8160,6 +8160,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-24401 (2024-02-26T17:15:00)
 > SQL Injection vulnerability in Nagios XI 2024R1.01 allows a remote attacker to execute arbitrary code via a crafted payload to the monitoringwizard.php component.
 - [MAWK0235/CVE-2024-24401](https://github.com/MAWK0235/CVE-2024-24401)	<img alt="forks" src="https://img.shields.io/github/forks/MAWK0235/CVE-2024-24401">	<img alt="stars" src="https://img.shields.io/github/stars/MAWK0235/CVE-2024-24401">
+- [JIBEG-UNIX/CVE-2024-24401](https://github.com/JIBEG-UNIX/CVE-2024-24401)	<img alt="forks" src="https://img.shields.io/github/forks/JIBEG-UNIX/CVE-2024-24401">	<img alt="stars" src="https://img.shields.io/github/stars/JIBEG-UNIX/CVE-2024-24401">
 
 ---
 ## CVE-2024-24398 (2024-02-06T00:15:00)
