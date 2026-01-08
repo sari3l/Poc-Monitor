@@ -3420,6 +3420,11 @@
 - [xiaoLvChen/CVE-2025-54100](https://github.com/xiaoLvChen/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoLvChen/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoLvChen/CVE-2025-54100">
 
 ---
+## CVE-2025-54068 ()
+> 
+- [flame-11/CVE-2025-54068-livewire](https://github.com/flame-11/CVE-2025-54068-livewire)	<img alt="forks" src="https://img.shields.io/github/forks/flame-11/CVE-2025-54068-livewire">	<img alt="stars" src="https://img.shields.io/github/stars/flame-11/CVE-2025-54068-livewire">
+
+---
 ## CVE-2025-53964 ()
 > 
 - [tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964)	<img alt="forks" src="https://img.shields.io/github/forks/tigr78/CVE-2025-53964">	<img alt="stars" src="https://img.shields.io/github/stars/tigr78/CVE-2025-53964">
