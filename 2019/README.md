@@ -86,6 +86,11 @@
 - [Live-Hack-CVE/CVE-2019-9634](https://github.com/Live-Hack-CVE/CVE-2019-9634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9634">
 
 ---
+## CVE-2019-9624 ()
+> 
+- [x0rbeexd/CVE-2019-9624](https://github.com/x0rbeexd/CVE-2019-9624)	<img alt="forks" src="https://img.shields.io/github/forks/x0rbeexd/CVE-2019-9624">	<img alt="stars" src="https://img.shields.io/github/stars/x0rbeexd/CVE-2019-9624">
+
+---
 ## CVE-2019-9592 (2019-03-06T16:29:00)
 > A reflected Cross-site scripting (XSS) vulnerability in ShoreTel Connect ONSITE 19.45.1602.0 allows remote attackers to inject arbitrary web script or HTML via the url parameter.
 - [Live-Hack-CVE/CVE-2019-9592](https://github.com/Live-Hack-CVE/CVE-2019-9592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9592">
