@@ -1248,6 +1248,11 @@
 - [Live-Hack-CVE/CVE-2021-43797](https://github.com/Live-Hack-CVE/CVE-2021-43797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43797">
 
 ---
+## CVE-2021-43789 ()
+> 
+- [baktistr/cve-2021-43789-enum](https://github.com/baktistr/cve-2021-43789-enum)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2021-43789-enum">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2021-43789-enum">
+
+---
 ## CVE-2021-43788 (2021-11-29T20:15:00)
 > Nodebb is an open source Node.js based forum software. Prior to v1.18.5, a path traversal vulnerability was present that allowed users to access JSON files outside of the expected `languages/` directory. The vulnerability has been patched as of v1.18.5. Users are advised to upgrade as soon as possible.
 - [Live-Hack-CVE/CVE-2021-43788](https://github.com/Live-Hack-CVE/CVE-2021-43788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43788">
