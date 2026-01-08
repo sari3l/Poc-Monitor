@@ -1977,6 +1977,11 @@
 - [AdriianFdz/Exploit-CVE-2025-59489](https://github.com/AdriianFdz/Exploit-CVE-2025-59489)	<img alt="forks" src="https://img.shields.io/github/forks/AdriianFdz/Exploit-CVE-2025-59489">	<img alt="stars" src="https://img.shields.io/github/stars/AdriianFdz/Exploit-CVE-2025-59489">
 
 ---
+## CVE-2025-59470 ()
+> 
+- [b1gchoi/CVE-2025-59470](https://github.com/b1gchoi/CVE-2025-59470)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-59470">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-59470">
+
+---
 ## CVE-2025-5947 ()
 > 
 - [M4rgs/CVE-2025-5947_Exploit](https://github.com/M4rgs/CVE-2025-5947_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M4rgs/CVE-2025-5947_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M4rgs/CVE-2025-5947_Exploit">
