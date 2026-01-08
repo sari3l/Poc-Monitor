@@ -3908,6 +3908,7 @@ prior to
 
 - [Dreamy-elfland/CVE-2023-36846](https://github.com/Dreamy-elfland/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Dreamy-elfland/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Dreamy-elfland/CVE-2023-36846">
 - [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
+- [Chocapikk/CVE-2023-36846](https://github.com/Chocapikk/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-36846">
 
 ---
 ## CVE-2023-36845 (2023-08-17T20:15:00)
@@ -4391,7 +4392,7 @@ The specific flaw exists within the DDP service. The issue results from the lack
 - [knitteruntil0s/CVE-2023-3519](https://github.com/knitteruntil0s/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/knitteruntil0s/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/knitteruntil0s/CVE-2023-3519">
 - [JonaNeidhart/CVE-2023-3519-BackdoorCheck](https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck)	<img alt="forks" src="https://img.shields.io/github/forks/JonaNeidhart/CVE-2023-3519-BackdoorCheck">	<img alt="stars" src="https://img.shields.io/github/stars/JonaNeidhart/CVE-2023-3519-BackdoorCheck">
 - [Aicks/Citrix-CVE-2023-3519](https://github.com/Aicks/Citrix-CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Aicks/Citrix-CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Aicks/Citrix-CVE-2023-3519">
-- [Mohammaddvd/CVE-2023-3519](https://github.com/Mohammaddvd/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammaddvd/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammaddvd/CVE-2023-3519">
+- [dhammerg/CVE-2023-3519](https://github.com/dhammerg/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/dhammerg/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/dhammerg/CVE-2023-3519">
 - [Chocapikk/CVE-2023-3519](https://github.com/Chocapikk/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-3519">
 
 ---
@@ -4408,6 +4409,11 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 ## CVE-2023-35085 ()
 > 
 - [maoruiQa/CVE-2023-35085-POC-EXP](https://github.com/maoruiQa/CVE-2023-35085-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/maoruiQa/CVE-2023-35085-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/maoruiQa/CVE-2023-35085-POC-EXP">
+
+---
+## CVE-2023-35082 ()
+> 
+- [Chocapikk/CVE-2023-35082](https://github.com/Chocapikk/CVE-2023-35082)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-35082">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-35082">
 
 ---
 ## CVE-2023-35080 (2023-11-15T00:15:00)
@@ -6022,7 +6028,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Okaytc/minio_unauth_check](https://github.com/Okaytc/minio_unauth_check)	<img alt="forks" src="https://img.shields.io/github/forks/Okaytc/minio_unauth_check">	<img alt="stars" src="https://img.shields.io/github/stars/Okaytc/minio_unauth_check">
 - [MzzdToT/CVE-2023-28432](https://github.com/MzzdToT/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/CVE-2023-28432">
 - [acheiii/CVE-2023-28432](https://github.com/acheiii/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/acheiii/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/acheiii/CVE-2023-28432">
-- [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+- [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
 - [steponeerror/Cve-2023-28432-](https://github.com/steponeerror/Cve-2023-28432-)	<img alt="forks" src="https://img.shields.io/github/forks/steponeerror/Cve-2023-28432-">	<img alt="stars" src="https://img.shields.io/github/stars/steponeerror/Cve-2023-28432-">
 - [yuyongxr/minio_cve-2023-28432](https://github.com/yuyongxr/minio_cve-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/yuyongxr/minio_cve-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/yuyongxr/minio_cve-2023-28432">
 - [Cuerz/CVE-2023-28432](https://github.com/Cuerz/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2023-28432">
@@ -6044,6 +6050,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [BitWiz4rd/CVE-2023-28432](https://github.com/BitWiz4rd/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/BitWiz4rd/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/BitWiz4rd/CVE-2023-28432">
 - [fhAnso/CVE-2023-28432](https://github.com/fhAnso/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/fhAnso/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/fhAnso/CVE-2023-28432">
 - [dcduc/CVE-2023-28432](https://github.com/dcduc/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/dcduc/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/dcduc/CVE-2023-28432">
+- [NET-Flowers/CVE-2023-28432](https://github.com/NET-Flowers/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/NET-Flowers/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/NET-Flowers/CVE-2023-28432">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
