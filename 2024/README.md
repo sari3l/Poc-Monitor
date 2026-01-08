@@ -10680,6 +10680,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [kodaichodai/CVE-2024-0379](https://github.com/kodaichodai/CVE-2024-0379)	<img alt="forks" src="https://img.shields.io/github/forks/kodaichodai/CVE-2024-0379">	<img alt="stars" src="https://img.shields.io/github/stars/kodaichodai/CVE-2024-0379">
 
 ---
+## CVE-2024-0368 ()
+> 
+- [RandomRobbieBF/CVE-2024-0368](https://github.com/RandomRobbieBF/CVE-2024-0368)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-0368">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-0368">
+
+---
 ## CVE-2024-0352 (2024-01-09T23:15:00)
 > A vulnerability classified as critical was found in Likeshop up to 2.5.7.20210311. This vulnerability affects the function FileServer::userFormImage of the file server/application/api/controller/File.php of the component HTTP POST Request Handler. The manipulation of the argument file leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-250120.
 - [Cappricio-Securities/CVE-2024-0352](https://github.com/Cappricio-Securities/CVE-2024-0352)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0352">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0352">
