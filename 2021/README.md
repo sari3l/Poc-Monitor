@@ -1251,6 +1251,8 @@
 ## CVE-2021-43789 ()
 > 
 - [baktistr/cve-2021-43789-enum](https://github.com/baktistr/cve-2021-43789-enum)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2021-43789-enum">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2021-43789-enum">
+- [K3ysTr0K3R/CVE-2021-43798-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-43798-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-43798-EXPLOIT">
+- [numanturle/CVE-2021-43789](https://github.com/numanturle/CVE-2021-43789)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2021-43789">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2021-43789">
 
 ---
 ## CVE-2021-43788 (2021-11-29T20:15:00)
