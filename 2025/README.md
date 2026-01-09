@@ -8550,6 +8550,11 @@
 - [InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766](https://github.com/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766">
 
 ---
+## CVE-2025-14736 ()
+> 
+- [hyunchiya/CVE-2025-14736](https://github.com/hyunchiya/CVE-2025-14736)	<img alt="forks" src="https://img.shields.io/github/forks/hyunchiya/CVE-2025-14736">	<img alt="stars" src="https://img.shields.io/github/stars/hyunchiya/CVE-2025-14736">
+
+---
 ## CVE-2025-14733 ()
 > 
 - [Ashwesker/Blackash-CVE-2025-14733](https://github.com/Ashwesker/Blackash-CVE-2025-14733)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14733">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14733">
