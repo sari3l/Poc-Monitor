@@ -7023,6 +7023,11 @@
 - [Live-Hack-CVE/CVE-2021-28398](https://github.com/Live-Hack-CVE/CVE-2021-28398)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28398">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28398">
 
 ---
+## CVE-2021-28378 ()
+> 
+- [pandatix/CVE-2021-28378](https://github.com/pandatix/CVE-2021-28378)	<img alt="forks" src="https://img.shields.io/github/forks/pandatix/CVE-2021-28378">	<img alt="stars" src="https://img.shields.io/github/stars/pandatix/CVE-2021-28378">
+
+---
 ## CVE-2021-28169 (2021-06-09T02:15:00)
 > For Eclipse Jetty versions <= 9.4.40, <= 10.0.2, <= 11.0.2, it is possible for requests to the ConcatServlet with a doubly encoded path to access protected resources within the WEB-INF directory. For example a request to `/concat?/%2557EB-INF/web.xml` can retrieve the web.xml file. This can reveal sensitive information regarding the implementation of a web application.
 - [Live-Hack-CVE/CVE-2021-28169](https://github.com/Live-Hack-CVE/CVE-2021-28169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28169">
