@@ -4597,6 +4597,11 @@
 - [leorivass/jq-els-backport-cve-2025-48060](https://github.com/leorivass/jq-els-backport-cve-2025-48060)	<img alt="forks" src="https://img.shields.io/github/forks/leorivass/jq-els-backport-cve-2025-48060">	<img alt="stars" src="https://img.shields.io/github/stars/leorivass/jq-els-backport-cve-2025-48060">
 
 ---
+## CVE-2025-4802 ()
+> 
+- [Betim-Hodza/CVE-2025-4802-Proof-of-Concept](https://github.com/Betim-Hodza/CVE-2025-4802-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/Betim-Hodza/CVE-2025-4802-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/Betim-Hodza/CVE-2025-4802-Proof-of-Concept">
+
+---
 ## CVE-2025-47987 ()
 > 
 - [Kryptoenix/CVE-2025-47987_PoC](https://github.com/Kryptoenix/CVE-2025-47987_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Kryptoenix/CVE-2025-47987_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Kryptoenix/CVE-2025-47987_PoC">
