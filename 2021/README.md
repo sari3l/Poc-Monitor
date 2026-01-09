@@ -3128,6 +3128,8 @@
 - [donky16/CVE-2021-40346-POC](https://github.com/donky16/CVE-2021-40346-POC)	<img alt="forks" src="https://img.shields.io/github/forks/donky16/CVE-2021-40346-POC">	<img alt="stars" src="https://img.shields.io/github/stars/donky16/CVE-2021-40346-POC">
 - [alikarimi999/CVE-2021-40346](https://github.com/alikarimi999/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/alikarimi999/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/alikarimi999/CVE-2021-40346">
 - [knqyf263/CVE-2021-40346](https://github.com/knqyf263/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2021-40346">
+- [BoianEduard/CVE-2021-40346](https://github.com/BoianEduard/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/BoianEduard/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/BoianEduard/CVE-2021-40346">
+- [rizemon/CS5331](https://github.com/rizemon/CS5331)	<img alt="forks" src="https://img.shields.io/github/forks/rizemon/CS5331">	<img alt="stars" src="https://img.shields.io/github/stars/rizemon/CS5331">
 
 ---
 ## CVE-2021-40345 (2021-10-26T11:15:00)
