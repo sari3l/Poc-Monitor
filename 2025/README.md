@@ -8293,6 +8293,11 @@
 - [keyuraghao/CVE-2025-20260](https://github.com/keyuraghao/CVE-2025-20260)	<img alt="forks" src="https://img.shields.io/github/forks/keyuraghao/CVE-2025-20260">	<img alt="stars" src="https://img.shields.io/github/stars/keyuraghao/CVE-2025-20260">
 
 ---
+## CVE-2025-2025 ()
+> 
+- [SuJing-cy/CVE-2025-2025-52691-SmarterMail-Exp](https://github.com/SuJing-cy/CVE-2025-2025-52691-SmarterMail-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/SuJing-cy/CVE-2025-2025-52691-SmarterMail-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/SuJing-cy/CVE-2025-2025-52691-SmarterMail-Exp">
+
+---
 ## CVE-2025-20229 ()
 > 
 - [allinsthon/CVE-2025-20229](https://github.com/allinsthon/CVE-2025-20229)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-20229">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-20229">
@@ -8575,6 +8580,11 @@
 ## CVE-2025-14156 ()
 > 
 - [Nxploited/CVE-2025-14156](https://github.com/Nxploited/CVE-2025-14156)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-14156">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-14156">
+
+---
+## CVE-2025-14124 ()
+> 
+- [hyunchiya/CVE-2025-14124](https://github.com/hyunchiya/CVE-2025-14124)	<img alt="forks" src="https://img.shields.io/github/forks/hyunchiya/CVE-2025-14124">	<img alt="stars" src="https://img.shields.io/github/stars/hyunchiya/CVE-2025-14124">
 
 ---
 ## CVE-2025-13796 ()
