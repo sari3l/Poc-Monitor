@@ -3344,6 +3344,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution](https://github.com/Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution">
 - [yangdayyy/cve-2023-38831](https://github.com/yangdayyy/cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/yangdayyy/cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/yangdayyy/cve-2023-38831">
 - [anelya0333/Exploiting-CVE-2023-38831](https://github.com/anelya0333/Exploiting-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/anelya0333/Exploiting-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/anelya0333/Exploiting-CVE-2023-38831">
+- [mishra0230/CVE-2023-38831](https://github.com/mishra0230/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/mishra0230/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/mishra0230/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
