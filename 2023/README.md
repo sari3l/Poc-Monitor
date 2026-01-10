@@ -3346,6 +3346,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [anelya0333/Exploiting-CVE-2023-38831](https://github.com/anelya0333/Exploiting-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/anelya0333/Exploiting-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/anelya0333/Exploiting-CVE-2023-38831">
 - [mishra0230/CVE-2023-38831](https://github.com/mishra0230/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/mishra0230/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/mishra0230/CVE-2023-38831">
 - [ouoxii/Software-Testing-Final-Project](https://github.com/ouoxii/Software-Testing-Final-Project)	<img alt="forks" src="https://img.shields.io/github/forks/ouoxii/Software-Testing-Final-Project">	<img alt="stars" src="https://img.shields.io/github/stars/ouoxii/Software-Testing-Final-Project">
+- [ImagineNotChetng/WinRAR-Exploit-Builder](https://github.com/ImagineNotChetng/WinRAR-Exploit-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/ImagineNotChetng/WinRAR-Exploit-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/ImagineNotChetng/WinRAR-Exploit-Builder">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
