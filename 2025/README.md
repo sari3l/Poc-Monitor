@@ -1422,6 +1422,11 @@
 - [B1ack4sh/Blackash-CVE-2025-63334](https://github.com/B1ack4sh/Blackash-CVE-2025-63334)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-63334">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-63334">
 
 ---
+## CVE-2025-63314 ()
+> 
+- [padayali-JD/CVE-2025-63314](https://github.com/padayali-JD/CVE-2025-63314)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2025-63314">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2025-63314">
+
+---
 ## CVE-2025-63307 ()
 > 
 - [Theethat-Thamwasin/CVE-2025-63307](https://github.com/Theethat-Thamwasin/CVE-2025-63307)	<img alt="forks" src="https://img.shields.io/github/forks/Theethat-Thamwasin/CVE-2025-63307">	<img alt="stars" src="https://img.shields.io/github/stars/Theethat-Thamwasin/CVE-2025-63307">
