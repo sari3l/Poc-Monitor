@@ -3245,6 +3245,7 @@
 - [momika233/CVE-2025-55182-bypass](https://github.com/momika233/CVE-2025-55182-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2025-55182-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2025-55182-bypass">
 - [Asder10/asder10.github.io](https://github.com/Asder10/asder10.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Asder10/asder10.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Asder10/asder10.github.io">
 - [Asder10/React2Shell](https://github.com/Asder10/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Asder10/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Asder10/React2Shell">
+- [mooowu/cve-2025-55182-poc](https://github.com/mooowu/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mooowu/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mooowu/cve-2025-55182-poc">
 
 ---
 ## CVE-2025-54988 ()
