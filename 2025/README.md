@@ -3259,6 +3259,7 @@
 - [Asder10/React2Shell](https://github.com/Asder10/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Asder10/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Asder10/React2Shell">
 - [mooowu/cve-2025-55182-poc](https://github.com/mooowu/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mooowu/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mooowu/cve-2025-55182-poc">
 - [Sown0205/CVE_2025_55182](https://github.com/Sown0205/CVE_2025_55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sown0205/CVE_2025_55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sown0205/CVE_2025_55182">
+- [Faithtiannn/CVE-2025-55182](https://github.com/Faithtiannn/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Faithtiannn/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Faithtiannn/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
