@@ -7275,6 +7275,7 @@
 ## CVE-2025-26198 ()
 > 
 - [tansique-17/CVE-2025-26198](https://github.com/tansique-17/CVE-2025-26198)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-26198">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-26198">
+- [WailYacoubi9/CVE-2025-26198](https://github.com/WailYacoubi9/CVE-2025-26198)	<img alt="forks" src="https://img.shields.io/github/forks/WailYacoubi9/CVE-2025-26198">	<img alt="stars" src="https://img.shields.io/github/stars/WailYacoubi9/CVE-2025-26198">
 
 ---
 ## CVE-2025-26159 ()
