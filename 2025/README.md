@@ -581,6 +581,7 @@
 ## CVE-2025-68120 ()
 > 
 - [choewonwoo1817/CVE-2025-68120](https://github.com/choewonwoo1817/CVE-2025-68120)	<img alt="forks" src="https://img.shields.io/github/forks/choewonwoo1817/CVE-2025-68120">	<img alt="stars" src="https://img.shields.io/github/stars/choewonwoo1817/CVE-2025-68120">
+- [choewonwoo1817/CVE-2025-68120](https://github.com/choewonwoo1817/CVE-2025-68120)	<img alt="forks" src="https://img.shields.io/github/forks/choewonwoo1817/CVE-2025-68120">	<img alt="stars" src="https://img.shields.io/github/stars/choewonwoo1817/CVE-2025-68120">
 
 ---
 ## CVE-2025-68116 ()
