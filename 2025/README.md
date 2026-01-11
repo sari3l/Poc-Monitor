@@ -6357,6 +6357,7 @@
 - [Teexo/CVE-2025-31161](https://github.com/Teexo/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Teexo/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Teexo/CVE-2025-31161">
 - [0xDTC/CrushFTP-auth-bypass-CVE-2025-31161](https://github.com/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161">
 - [cesarbtakeda/CVE-2025-31161](https://github.com/cesarbtakeda/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/CVE-2025-31161">
+- [Dairrow/CVE-2025-31161](https://github.com/Dairrow/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Dairrow/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Dairrow/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
