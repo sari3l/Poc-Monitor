@@ -295,6 +295,7 @@
 - [xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit](https://github.com/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit">
 - [Markusino488/cve-2025-8088](https://github.com/Markusino488/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Markusino488/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Markusino488/cve-2025-8088">
 - [vitalichkaa/CVE-2025-8088](https://github.com/vitalichkaa/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/vitalichkaa/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/vitalichkaa/CVE-2025-8088">
+- [ilhamrzr/RAR-Anomaly-Inspector](https://github.com/ilhamrzr/RAR-Anomaly-Inspector)	<img alt="forks" src="https://img.shields.io/github/forks/ilhamrzr/RAR-Anomaly-Inspector">	<img alt="stars" src="https://img.shields.io/github/stars/ilhamrzr/RAR-Anomaly-Inspector">
 
 ---
 ## CVE-2025-8081 ()
