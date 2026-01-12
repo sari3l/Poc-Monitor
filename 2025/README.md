@@ -489,6 +489,11 @@
 - [Arcueld/CVE-2025-68926](https://github.com/Arcueld/CVE-2025-68926)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-68926">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-68926">
 
 ---
+## CVE-2025-68921 ()
+> 
+- [ZeroMemoryEx/CVE-2025-68921](https://github.com/ZeroMemoryEx/CVE-2025-68921)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroMemoryEx/CVE-2025-68921">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroMemoryEx/CVE-2025-68921">
+
+---
 ## CVE-2025-68860 ()
 > 
 - [Nxploited/CVE-2025-68860](https://github.com/Nxploited/CVE-2025-68860)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-68860">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-68860">
