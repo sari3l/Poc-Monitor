@@ -2192,6 +2192,11 @@
 - [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-5815-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-5815-Nuclei-Template">
 
 ---
+## CVE-2025-58098 ()
+> 
+- [dhmosfunk/CVE-2025-58098](https://github.com/dhmosfunk/CVE-2025-58098)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/CVE-2025-58098">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/CVE-2025-58098">
+
+---
 ## CVE-2025-58034 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-58034](https://github.com/B1ack4sh/Blackash-CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-58034">
@@ -3272,6 +3277,7 @@
 - [Sown0205/CVE_2025_55182](https://github.com/Sown0205/CVE_2025_55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sown0205/CVE_2025_55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sown0205/CVE_2025_55182">
 - [Faithtiannn/CVE-2025-55182](https://github.com/Faithtiannn/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Faithtiannn/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Faithtiannn/CVE-2025-55182">
 - [Vanbinh-dev/CVE_2025_55182_testing](https://github.com/Vanbinh-dev/CVE_2025_55182_testing)	<img alt="forks" src="https://img.shields.io/github/forks/Vanbinh-dev/CVE_2025_55182_testing">	<img alt="stars" src="https://img.shields.io/github/stars/Vanbinh-dev/CVE_2025_55182_testing">
+- [termireum/react2shell](https://github.com/termireum/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/termireum/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/termireum/react2shell">
 
 ---
 ## CVE-2025-54988 ()
