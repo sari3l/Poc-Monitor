@@ -3283,7 +3283,7 @@
 - [Faithtiannn/CVE-2025-55182](https://github.com/Faithtiannn/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Faithtiannn/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Faithtiannn/CVE-2025-55182">
 - [Vanbinh-dev/CVE_2025_55182_testing](https://github.com/Vanbinh-dev/CVE_2025_55182_testing)	<img alt="forks" src="https://img.shields.io/github/forks/Vanbinh-dev/CVE_2025_55182_testing">	<img alt="stars" src="https://img.shields.io/github/stars/Vanbinh-dev/CVE_2025_55182_testing">
 - [termireum/react2shell](https://github.com/termireum/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/termireum/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/termireum/react2shell">
-- [bvnditx/React2Shell](https://github.com/bvnditx/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/bvnditx/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/bvnditx/React2Shell">
+- [tiago4lexandre/React2Shell](https://github.com/tiago4lexandre/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/tiago4lexandre/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/tiago4lexandre/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
