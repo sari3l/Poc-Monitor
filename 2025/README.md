@@ -3703,6 +3703,11 @@
 - [Nxploited/CVE-2025-5304](https://github.com/Nxploited/CVE-2025-5304)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5304">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5304">
 
 ---
+## CVE-2025-53020 ()
+> 
+- [galbarnahum/CVE-2025-53020-PoC](https://github.com/galbarnahum/CVE-2025-53020-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/galbarnahum/CVE-2025-53020-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/galbarnahum/CVE-2025-53020-PoC">
+
+---
 ## CVE-2025-52970 ()
 > 
 - [Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass](https://github.com/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">
