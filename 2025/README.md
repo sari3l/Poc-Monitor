@@ -3309,6 +3309,7 @@
 ## CVE-2025-54918 ()
 > 
 - [mrk336/From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps](https://github.com/mrk336/From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps">
+- [Wh0am123/CVE-2025-54918-POC](https://github.com/Wh0am123/CVE-2025-54918-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wh0am123/CVE-2025-54918-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wh0am123/CVE-2025-54918-POC">
 
 ---
 ## CVE-2025-54914 ()
