@@ -4554,6 +4554,12 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
+## CVE-2024-38355 ()
+> 
+- [PawelMurdzek/CVE-2024-38355-PoC](https://github.com/PawelMurdzek/CVE-2024-38355-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/PawelMurdzek/CVE-2024-38355-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/PawelMurdzek/CVE-2024-38355-PoC">
+- [Y0ursTruly/socketio-cve](https://github.com/Y0ursTruly/socketio-cve)	<img alt="forks" src="https://img.shields.io/github/forks/Y0ursTruly/socketio-cve">	<img alt="stars" src="https://img.shields.io/github/stars/Y0ursTruly/socketio-cve">
+
+---
 ## CVE-2024-38249 (2024-09-10T17:15:00)
 > Windows Graphics Component Elevation of Privilege Vulnerability
 - [Jaden1419/CVE-2024-38249](https://github.com/Jaden1419/CVE-2024-38249)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-38249">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-38249">
