@@ -2118,6 +2118,11 @@
 - [stalker110119/CVE-2025-59230](https://github.com/stalker110119/CVE-2025-59230)	<img alt="forks" src="https://img.shields.io/github/forks/stalker110119/CVE-2025-59230">	<img alt="stars" src="https://img.shields.io/github/stars/stalker110119/CVE-2025-59230">
 
 ---
+## CVE-2025-59194 ()
+> 
+- [kawaii-ghost/CVE-2025-59194](https://github.com/kawaii-ghost/CVE-2025-59194)	<img alt="forks" src="https://img.shields.io/github/forks/kawaii-ghost/CVE-2025-59194">	<img alt="stars" src="https://img.shields.io/github/stars/kawaii-ghost/CVE-2025-59194">
+
+---
 ## CVE-2025-59118 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-59118](https://github.com/B1ack4sh/Blackash-CVE-2025-59118)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-59118">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-59118">
