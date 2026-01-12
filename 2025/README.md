@@ -3750,6 +3750,11 @@
 - [voyagken/CVE-2025-5280-V8-OOB](https://github.com/voyagken/CVE-2025-5280-V8-OOB)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-5280-V8-OOB">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-5280-V8-OOB">
 
 ---
+## CVE-2025-52694 ()
+> 
+- [Winz18/CVE-2025-52694-POC](https://github.com/Winz18/CVE-2025-52694-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Winz18/CVE-2025-52694-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Winz18/CVE-2025-52694-POC">
+
+---
 ## CVE-2025-52692 ()
 > 
 - [yt2w/CVE-2025-52692](https://github.com/yt2w/CVE-2025-52692)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-52692">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-52692">
