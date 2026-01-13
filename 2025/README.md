@@ -702,6 +702,11 @@
 - [audiopump/cve-2025-66723](https://github.com/audiopump/cve-2025-66723)	<img alt="forks" src="https://img.shields.io/github/forks/audiopump/cve-2025-66723">	<img alt="stars" src="https://img.shields.io/github/stars/audiopump/cve-2025-66723">
 
 ---
+## CVE-2025-66698 ()
+> 
+- [Perunchess/CVE-2025-66698](https://github.com/Perunchess/CVE-2025-66698)	<img alt="forks" src="https://img.shields.io/github/forks/Perunchess/CVE-2025-66698">	<img alt="stars" src="https://img.shields.io/github/stars/Perunchess/CVE-2025-66698">
+
+---
 ## CVE-2025-66683 ()
 > 
 - [scap3sh4rk/CVE-2025-66683](https://github.com/scap3sh4rk/CVE-2025-66683)	<img alt="forks" src="https://img.shields.io/github/forks/scap3sh4rk/CVE-2025-66683">	<img alt="stars" src="https://img.shields.io/github/stars/scap3sh4rk/CVE-2025-66683">
@@ -2136,6 +2141,7 @@
 ## CVE-2025-59057 ()
 > 
 - [boroeurnprach/CVE-2025-59057](https://github.com/boroeurnprach/CVE-2025-59057)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-59057">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-59057">
+- [boroeurnprach/CVE-2025-59057-PoC](https://github.com/boroeurnprach/CVE-2025-59057-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-59057-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-59057-PoC">
 
 ---
 ## CVE-2025-58789 ()
