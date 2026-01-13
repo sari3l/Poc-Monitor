@@ -6083,6 +6083,7 @@
 - [aexdyhaxor/CVE-2025-32463](https://github.com/aexdyhaxor/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2025-32463">
 - [wvverez/CVE-2025-32463](https://github.com/wvverez/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2025-32463">
 - [wvverez/CVE-2025-32463](https://github.com/wvverez/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2025-32463">
+- [lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities](https://github.com/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities">
 
 ---
 ## CVE-2025-32462 ()
