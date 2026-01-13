@@ -594,6 +594,12 @@
 - [ossf-cve-benchmark/CVE-2020-7699](https://github.com/ossf-cve-benchmark/CVE-2020-7699)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-7699">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-7699">
 
 ---
+## CVE-2020-7693 ()
+> 
+- [thewindghost/CVE-2020-7693](https://github.com/thewindghost/CVE-2020-7693)	<img alt="forks" src="https://img.shields.io/github/forks/thewindghost/CVE-2020-7693">	<img alt="stars" src="https://img.shields.io/github/stars/thewindghost/CVE-2020-7693">
+- [andsnw/sockjs-dos-py](https://github.com/andsnw/sockjs-dos-py)	<img alt="forks" src="https://img.shields.io/github/forks/andsnw/sockjs-dos-py">	<img alt="stars" src="https://img.shields.io/github/stars/andsnw/sockjs-dos-py">
+
+---
 ## CVE-2020-7679 (2020-06-19T11:15:00)
 > In all versions of package casperjs, the mergeObjects utility function is susceptible to Prototype Pollution.
 - [Live-Hack-CVE/CVE-2020-7679](https://github.com/Live-Hack-CVE/CVE-2020-7679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7679">
