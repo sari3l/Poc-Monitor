@@ -3301,6 +3301,7 @@
 - [termireum/react2shell](https://github.com/termireum/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/termireum/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/termireum/react2shell">
 - [tiago4lexandre/React2Shell](https://github.com/tiago4lexandre/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/tiago4lexandre/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/tiago4lexandre/React2Shell">
 - [Least-Significant-Bit/CVE-2025-55182](https://github.com/Least-Significant-Bit/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2025-55182">
+- [Least-Significant-Bit/CVE-2025-55182](https://github.com/Least-Significant-Bit/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
