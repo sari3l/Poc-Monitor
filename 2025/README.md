@@ -6101,6 +6101,7 @@
 - [AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462](https://github.com/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">
 - [OffSecPlaybook/CVE-2025-32462-](https://github.com/OffSecPlaybook/CVE-2025-32462-)	<img alt="forks" src="https://img.shields.io/github/forks/OffSecPlaybook/CVE-2025-32462-">	<img alt="stars" src="https://img.shields.io/github/stars/OffSecPlaybook/CVE-2025-32462-">
 - [harsh1verma/CVE-Analysis](https://github.com/harsh1verma/CVE-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/harsh1verma/CVE-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/harsh1verma/CVE-Analysis">
+- [lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities](https://github.com/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities">
 
 ---
 ## CVE-2025-32444 ()
@@ -8701,6 +8702,11 @@
 - [Terrasue/CVE-2025-14174-Exploit](https://github.com/Terrasue/CVE-2025-14174-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Terrasue/CVE-2025-14174-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Terrasue/CVE-2025-14174-Exploit">
 - [Satirush/CVE-2025-14174-Poc](https://github.com/Satirush/CVE-2025-14174-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Satirush/CVE-2025-14174-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Satirush/CVE-2025-14174-Poc">
 - [zeroxjf/CVE-2025-14174-analysis](https://github.com/zeroxjf/CVE-2025-14174-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2025-14174-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2025-14174-analysis">
+
+---
+## CVE-2025-14172 ()
+> 
+- [RootHarpy/CVE-2025-14172-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-14172-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-14172-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-14172-Nuclei-Template">
 
 ---
 ## CVE-2025-14156 ()
