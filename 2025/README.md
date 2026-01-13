@@ -8628,6 +8628,7 @@
 - [AdolfBharath/mongobleed](https://github.com/AdolfBharath/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/AdolfBharath/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/AdolfBharath/mongobleed">
 - [peakcyber-security/CVE-2025-14847](https://github.com/peakcyber-security/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/peakcyber-security/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/peakcyber-security/CVE-2025-14847">
 - [AmadoBatista/mongobleed](https://github.com/AmadoBatista/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/AmadoBatista/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/AmadoBatista/mongobleed">
+- [alexcyberx/CVE-2025-14847_Expolit](https://github.com/alexcyberx/CVE-2025-14847_Expolit)	<img alt="forks" src="https://img.shields.io/github/forks/alexcyberx/CVE-2025-14847_Expolit">	<img alt="stars" src="https://img.shields.io/github/stars/alexcyberx/CVE-2025-14847_Expolit">
 
 ---
 ## CVE-2025-14783 ()
