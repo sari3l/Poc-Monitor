@@ -965,6 +965,7 @@
 > Relative path traversal in Druva inSync Windows Client 6.6.3 allows a local, unauthenticated attacker to execute arbitrary operating system commands with SYSTEM privileges.
 - [yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-](https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-)	<img alt="forks" src="https://img.shields.io/github/forks/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">	<img alt="stars" src="https://img.shields.io/github/stars/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">
 - [Live-Hack-CVE/CVE-2020-5752](https://github.com/Live-Hack-CVE/CVE-2020-5752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5752">
+- [x0rbeexd/CVE-2020-5752](https://github.com/x0rbeexd/CVE-2020-5752)	<img alt="forks" src="https://img.shields.io/github/forks/x0rbeexd/CVE-2020-5752">	<img alt="stars" src="https://img.shields.io/github/stars/x0rbeexd/CVE-2020-5752">
 
 ---
 ## CVE-2020-5517 (2020-05-05T18:15:00)
