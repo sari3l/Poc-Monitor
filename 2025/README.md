@@ -3715,6 +3715,11 @@
 - [sahici/CVE-2025-5319](https://github.com/sahici/CVE-2025-5319)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-5319">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-5319">
 
 ---
+## CVE-2025-53136 ()
+> 
+- [nu1lptr0/CVE-2025-53136](https://github.com/nu1lptr0/CVE-2025-53136)	<img alt="forks" src="https://img.shields.io/github/forks/nu1lptr0/CVE-2025-53136">	<img alt="stars" src="https://img.shields.io/github/stars/nu1lptr0/CVE-2025-53136">
+
+---
 ## CVE-2025-5309 ()
 > 
 - [issamjr/CVE-2025-5309-Scanner](https://github.com/issamjr/CVE-2025-5309-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-5309-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-5309-Scanner">

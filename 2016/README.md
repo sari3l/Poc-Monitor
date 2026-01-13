@@ -322,6 +322,11 @@
 - [Live-Hack-CVE/CVE-2016-7440](https://github.com/Live-Hack-CVE/CVE-2016-7440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7440">
 
 ---
+## CVE-2016-7144 ()
+> 
+- [Huyn-coder/CVE-2016-7144-IDPS](https://github.com/Huyn-coder/CVE-2016-7144-IDPS)	<img alt="forks" src="https://img.shields.io/github/forks/Huyn-coder/CVE-2016-7144-IDPS">	<img alt="stars" src="https://img.shields.io/github/stars/Huyn-coder/CVE-2016-7144-IDPS">
+
+---
 ## CVE-2016-7052 (2016-09-26T19:59:00)
 > crypto/x509/x509_vfy.c in OpenSSL 1.0.2i allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) by triggering a CRL operation.
 - [Live-Hack-CVE/CVE-2016-7052](https://github.com/Live-Hack-CVE/CVE-2016-7052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7052">
