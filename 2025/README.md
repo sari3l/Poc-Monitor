@@ -1267,6 +1267,11 @@
 - [mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection](https://github.com/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection">
 
 ---
+## CVE-2025-64155 ()
+> 
+- [horizon3ai/CVE-2025-64155](https://github.com/horizon3ai/CVE-2025-64155)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2025-64155">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2025-64155">
+
+---
 ## CVE-2025-64113 ()
 > 
 - [Ashwesker/Blackash-CVE-2025-64113](https://github.com/Ashwesker/Blackash-CVE-2025-64113)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-64113">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-64113">
