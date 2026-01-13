@@ -1,6 +1,11 @@
 # 2026 List
 
 ---
+## CVE-2026-22804 ()
+> 
+- [ThemeHackers/CVE-2026-22804](https://github.com/ThemeHackers/CVE-2026-22804)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2026-22804">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2026-22804">
+
+---
 ## CVE-2026-21877 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21877](https://github.com/Ashwesker/Ashwesker-CVE-2026-21877)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21877">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21877">
