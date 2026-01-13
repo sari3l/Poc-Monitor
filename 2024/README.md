@@ -9098,6 +9098,8 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [rdoix/cve-2024-21762-checker](https://github.com/rdoix/cve-2024-21762-checker)	<img alt="forks" src="https://img.shields.io/github/forks/rdoix/cve-2024-21762-checker">	<img alt="stars" src="https://img.shields.io/github/stars/rdoix/cve-2024-21762-checker">
 - [XiaomingX/cve-2024-21762-poc](https://github.com/XiaomingX/cve-2024-21762-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-21762-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-21762-poc">
 - [abrewer251/CVE-2024-21762_FortiNet_PoC](https://github.com/abrewer251/CVE-2024-21762_FortiNet_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2024-21762_FortiNet_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2024-21762_FortiNet_PoC">
+- [0x13-ByteZer0/CVE-2024-21762](https://github.com/0x13-ByteZer0/CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/0x13-ByteZer0/CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/0x13-ByteZer0/CVE-2024-21762">
+- [deFr0ggy/CVE-2024-21762-Checker](https://github.com/deFr0ggy/CVE-2024-21762-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/deFr0ggy/CVE-2024-21762-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/deFr0ggy/CVE-2024-21762-Checker">
 
 ---
 ## CVE-2024-21754 (2024-06-11T15:16:00)
