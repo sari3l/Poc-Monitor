@@ -576,6 +576,7 @@
 ## CVE-2025-68428 ()
 > 
 - [12nio/CVE-2025-68428_PoC](https://github.com/12nio/CVE-2025-68428_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/12nio/CVE-2025-68428_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/12nio/CVE-2025-68428_PoC">
+- [Nurjaman2004/jsPDF-Bulk-Detector-CVE-2025-68428-](https://github.com/Nurjaman2004/jsPDF-Bulk-Detector-CVE-2025-68428-)	<img alt="forks" src="https://img.shields.io/github/forks/Nurjaman2004/jsPDF-Bulk-Detector-CVE-2025-68428-">	<img alt="stars" src="https://img.shields.io/github/stars/Nurjaman2004/jsPDF-Bulk-Detector-CVE-2025-68428-">
 
 ---
 ## CVE-2025-68325 ()
