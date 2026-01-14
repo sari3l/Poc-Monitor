@@ -666,6 +666,7 @@
 - [Arcueld/CVE-2025-67303-dnslog](https://github.com/Arcueld/CVE-2025-67303-dnslog)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-67303-dnslog">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-67303-dnslog">
 - [joker-xiaoyan/CVE-2025-67303](https://github.com/joker-xiaoyan/CVE-2025-67303)	<img alt="forks" src="https://img.shields.io/github/forks/joker-xiaoyan/CVE-2025-67303">	<img alt="stars" src="https://img.shields.io/github/stars/joker-xiaoyan/CVE-2025-67303">
 - [Arcueld/CVE-2025-67303-dnslog1235](https://github.com/Arcueld/CVE-2025-67303-dnslog1235)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-67303-dnslog1235">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-67303-dnslog1235">
+- [maybe-O/CVE-2025-67303](https://github.com/maybe-O/CVE-2025-67303)	<img alt="forks" src="https://img.shields.io/github/forks/maybe-O/CVE-2025-67303">	<img alt="stars" src="https://img.shields.io/github/stars/maybe-O/CVE-2025-67303">
 
 ---
 ## CVE-2025-67294 ()
