@@ -1235,6 +1235,7 @@
 - [ALPYAHYA/CVE-2025-64459-Exploit-Fix](https://github.com/ALPYAHYA/CVE-2025-64459-Exploit-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/ALPYAHYA/CVE-2025-64459-Exploit-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/ALPYAHYA/CVE-2025-64459-Exploit-Fix">
 - [ALPYAHYA/CVE-2025-64459-Exploit-PoC](https://github.com/ALPYAHYA/CVE-2025-64459-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ALPYAHYA/CVE-2025-64459-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ALPYAHYA/CVE-2025-64459-Exploit-PoC">
 - [alxsourin/Helpdesk-Telecom-CVE-2025-64459](https://github.com/alxsourin/Helpdesk-Telecom-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/alxsourin/Helpdesk-Telecom-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/alxsourin/Helpdesk-Telecom-CVE-2025-64459">
+- [purehate/CVE-2025-64459-hunter](https://github.com/purehate/CVE-2025-64459-hunter)	<img alt="forks" src="https://img.shields.io/github/forks/purehate/CVE-2025-64459-hunter">	<img alt="stars" src="https://img.shields.io/github/stars/purehate/CVE-2025-64459-hunter">
 
 ---
 ## CVE-2025-64458 ()
