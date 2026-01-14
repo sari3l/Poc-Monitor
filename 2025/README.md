@@ -1283,6 +1283,7 @@
 ## CVE-2025-64155 ()
 > 
 - [horizon3ai/CVE-2025-64155](https://github.com/horizon3ai/CVE-2025-64155)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2025-64155">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2025-64155">
+- [purehate/CVE-2025-64155-hunter](https://github.com/purehate/CVE-2025-64155-hunter)	<img alt="forks" src="https://img.shields.io/github/forks/purehate/CVE-2025-64155-hunter">	<img alt="stars" src="https://img.shields.io/github/stars/purehate/CVE-2025-64155-hunter">
 
 ---
 ## CVE-2025-64113 ()
