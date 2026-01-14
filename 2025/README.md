@@ -5543,6 +5543,7 @@
 > 
 - [guard-wait/CVE-2025-40019_POC](https://github.com/guard-wait/CVE-2025-40019_POC)	<img alt="forks" src="https://img.shields.io/github/forks/guard-wait/CVE-2025-40019_POC">	<img alt="stars" src="https://img.shields.io/github/stars/guard-wait/CVE-2025-40019_POC">
 - [xooxo/CVE-2025-40019-Essiv](https://github.com/xooxo/CVE-2025-40019-Essiv)	<img alt="forks" src="https://img.shields.io/github/forks/xooxo/CVE-2025-40019-Essiv">	<img alt="stars" src="https://img.shields.io/github/stars/xooxo/CVE-2025-40019-Essiv">
+- [0xAtharv/CVE-2025-40019-POC](https://github.com/0xAtharv/CVE-2025-40019-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xAtharv/CVE-2025-40019-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xAtharv/CVE-2025-40019-POC">
 
 ---
 ## CVE-2025-39965 ()
