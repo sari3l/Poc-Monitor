@@ -3511,6 +3511,11 @@
 - [somprasong-tukman/CVE-2025-5419](https://github.com/somprasong-tukman/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/somprasong-tukman/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/somprasong-tukman/CVE-2025-5419">
 
 ---
+## CVE-2025-54136 ()
+> 
+- [PRE5T0/CVE-2025-54136](https://github.com/PRE5T0/CVE-2025-54136)	<img alt="forks" src="https://img.shields.io/github/forks/PRE5T0/CVE-2025-54136">	<img alt="stars" src="https://img.shields.io/github/stars/PRE5T0/CVE-2025-54136">
+
+---
 ## CVE-2025-54135 ()
 > 
 - [allinsthon/CVE-2025-54135](https://github.com/allinsthon/CVE-2025-54135)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54135">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54135">
