@@ -4664,6 +4664,9 @@
 - [haingn/HIK-CVE-2021-36260-Exploit](https://github.com/haingn/HIK-CVE-2021-36260-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/HIK-CVE-2021-36260-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/HIK-CVE-2021-36260-Exploit">
 - [r3t4k3r/hikvision_brute](https://github.com/r3t4k3r/hikvision_brute)	<img alt="forks" src="https://img.shields.io/github/forks/r3t4k3r/hikvision_brute">	<img alt="stars" src="https://img.shields.io/github/stars/r3t4k3r/hikvision_brute">
 - [shubtheone/CVE-2021-36260-hikvision](https://github.com/shubtheone/CVE-2021-36260-hikvision)	<img alt="forks" src="https://img.shields.io/github/forks/shubtheone/CVE-2021-36260-hikvision">	<img alt="stars" src="https://img.shields.io/github/stars/shubtheone/CVE-2021-36260-hikvision">
+- [tamim1089/HikvisionExploiter](https://github.com/tamim1089/HikvisionExploiter)	<img alt="forks" src="https://img.shields.io/github/forks/tamim1089/HikvisionExploiter">	<img alt="stars" src="https://img.shields.io/github/stars/tamim1089/HikvisionExploiter">
+- [aengussong/hikvision_probe](https://github.com/aengussong/hikvision_probe)	<img alt="forks" src="https://img.shields.io/github/forks/aengussong/hikvision_probe">	<img alt="stars" src="https://img.shields.io/github/stars/aengussong/hikvision_probe">
+- [NanoTrash/hikvision_brute](https://github.com/NanoTrash/hikvision_brute)	<img alt="forks" src="https://img.shields.io/github/forks/NanoTrash/hikvision_brute">	<img alt="stars" src="https://img.shields.io/github/stars/NanoTrash/hikvision_brute">
 
 ---
 ## CVE-2021-3623 (2022-03-02T23:15:00)
