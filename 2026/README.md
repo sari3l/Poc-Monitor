@@ -18,7 +18,7 @@
 ---
 ## CVE-2026-22686 ()
 > 
-- [amusedx/-CVE-2026-22686-](https://github.com/amusedx/-CVE-2026-22686-)	<img alt="forks" src="https://img.shields.io/github/forks/amusedx/-CVE-2026-22686-">	<img alt="stars" src="https://img.shields.io/github/stars/amusedx/-CVE-2026-22686-">
+- [amusedx/CVE-2026-22686](https://github.com/amusedx/CVE-2026-22686)	<img alt="forks" src="https://img.shields.io/github/forks/amusedx/CVE-2026-22686">	<img alt="stars" src="https://img.shields.io/github/stars/amusedx/CVE-2026-22686">
 
 ---
 ## CVE-2026-21877 ()
