@@ -4663,6 +4663,7 @@
 - [Live-Hack-CVE/CVE-2021-36260](https://github.com/Live-Hack-CVE/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36260">
 - [haingn/HIK-CVE-2021-36260-Exploit](https://github.com/haingn/HIK-CVE-2021-36260-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/HIK-CVE-2021-36260-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/HIK-CVE-2021-36260-Exploit">
 - [r3t4k3r/hikvision_brute](https://github.com/r3t4k3r/hikvision_brute)	<img alt="forks" src="https://img.shields.io/github/forks/r3t4k3r/hikvision_brute">	<img alt="stars" src="https://img.shields.io/github/stars/r3t4k3r/hikvision_brute">
+- [shubtheone/CVE-2021-36260-hikvision](https://github.com/shubtheone/CVE-2021-36260-hikvision)	<img alt="forks" src="https://img.shields.io/github/forks/shubtheone/CVE-2021-36260-hikvision">	<img alt="stars" src="https://img.shields.io/github/stars/shubtheone/CVE-2021-36260-hikvision">
 
 ---
 ## CVE-2021-3623 (2022-03-02T23:15:00)

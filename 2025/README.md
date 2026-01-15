@@ -8650,6 +8650,10 @@
 - [peakcyber-security/CVE-2025-14847](https://github.com/peakcyber-security/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/peakcyber-security/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/peakcyber-security/CVE-2025-14847">
 - [AmadoBatista/mongobleed](https://github.com/AmadoBatista/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/AmadoBatista/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/AmadoBatista/mongobleed">
 - [alexcyberx/CVE-2025-14847_Expolit](https://github.com/alexcyberx/CVE-2025-14847_Expolit)	<img alt="forks" src="https://img.shields.io/github/forks/alexcyberx/CVE-2025-14847_Expolit">	<img alt="stars" src="https://img.shields.io/github/stars/alexcyberx/CVE-2025-14847_Expolit">
+- [sakthivel10q/CVE-2025-14847](https://github.com/sakthivel10q/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/sakthivel10q/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/sakthivel10q/CVE-2025-14847">
+- [sakthivel10q/sakthivel10q.github.io](https://github.com/sakthivel10q/sakthivel10q.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/sakthivel10q/sakthivel10q.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/sakthivel10q/sakthivel10q.github.io">
+- [pedrocruz2202/mongobleed-scanner](https://github.com/pedrocruz2202/mongobleed-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/pedrocruz2202/mongobleed-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/pedrocruz2202/mongobleed-scanner">
+- [pedrocruz2202/pedrocruz2202.github.io](https://github.com/pedrocruz2202/pedrocruz2202.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/pedrocruz2202/pedrocruz2202.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/pedrocruz2202/pedrocruz2202.github.io">
 
 ---
 ## CVE-2025-14783 ()
