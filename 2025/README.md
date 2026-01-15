@@ -7828,6 +7828,7 @@
 - [TheCyberGeek/CVE-2025-24367-Cacti-PoC](https://github.com/TheCyberGeek/CVE-2025-24367-Cacti-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2025-24367-Cacti-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2025-24367-Cacti-PoC">
 - [r0tn3x/CVE-2025-24367](https://github.com/r0tn3x/CVE-2025-24367)	<img alt="forks" src="https://img.shields.io/github/forks/r0tn3x/CVE-2025-24367">	<img alt="stars" src="https://img.shields.io/github/stars/r0tn3x/CVE-2025-24367">
 - [SoftAndoWetto/CVE-2025-24367-PoC-Cacti](https://github.com/SoftAndoWetto/CVE-2025-24367-PoC-Cacti)	<img alt="forks" src="https://img.shields.io/github/forks/SoftAndoWetto/CVE-2025-24367-PoC-Cacti">	<img alt="stars" src="https://img.shields.io/github/stars/SoftAndoWetto/CVE-2025-24367-PoC-Cacti">
+- [matesz44/CVE-2025-24367](https://github.com/matesz44/CVE-2025-24367)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-24367">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-24367">
 
 ---
 ## CVE-2025-24354 ()
