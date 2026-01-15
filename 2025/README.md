@@ -5717,6 +5717,7 @@
 ## CVE-2025-3616 ()
 > 
 - [em07robot/CVE-2025-3616](https://github.com/em07robot/CVE-2025-3616)	<img alt="forks" src="https://img.shields.io/github/forks/em07robot/CVE-2025-3616">	<img alt="stars" src="https://img.shields.io/github/stars/em07robot/CVE-2025-3616">
+- [b4d-53ct0r/CVE-2025-3616](https://github.com/b4d-53ct0r/CVE-2025-3616)	<img alt="forks" src="https://img.shields.io/github/forks/b4d-53ct0r/CVE-2025-3616">	<img alt="stars" src="https://img.shields.io/github/stars/b4d-53ct0r/CVE-2025-3616">
 
 ---
 ## CVE-2025-3605 ()
