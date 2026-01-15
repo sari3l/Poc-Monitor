@@ -1,6 +1,11 @@
 # 2026 List
 
 ---
+## CVE-2026-23550 ()
+> 
+- [cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector">
+
+---
 ## CVE-2026-23478 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-23478](https://github.com/Ashwesker/Ashwesker-CVE-2026-23478)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-23478">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-23478">
