@@ -1691,6 +1691,11 @@
 - [Jinxia62/Oracle-Identity-Manager-CVE-2025-61757](https://github.com/Jinxia62/Oracle-Identity-Manager-CVE-2025-61757)	<img alt="forks" src="https://img.shields.io/github/forks/Jinxia62/Oracle-Identity-Manager-CVE-2025-61757">	<img alt="stars" src="https://img.shields.io/github/stars/Jinxia62/Oracle-Identity-Manager-CVE-2025-61757">
 
 ---
+## CVE-2025-61686 ()
+> 
+- [FlowerWitch/CVE-2025-61686_docker](https://github.com/FlowerWitch/CVE-2025-61686_docker)	<img alt="forks" src="https://img.shields.io/github/forks/FlowerWitch/CVE-2025-61686_docker">	<img alt="stars" src="https://img.shields.io/github/stars/FlowerWitch/CVE-2025-61686_docker">
+
+---
 ## CVE-2025-61498 ()
 > 
 - [sakshi-garg02/CVE-2025-61498](https://github.com/sakshi-garg02/CVE-2025-61498)	<img alt="forks" src="https://img.shields.io/github/forks/sakshi-garg02/CVE-2025-61498">	<img alt="stars" src="https://img.shields.io/github/stars/sakshi-garg02/CVE-2025-61498">
@@ -8708,6 +8713,11 @@
 > 
 - [JohannesLks/CVE-2025-14558](https://github.com/JohannesLks/CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2025-14558">
 - [Ashwesker/Ashwesker-CVE-2025-14558](https://github.com/Ashwesker/Ashwesker-CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-14558">
+
+---
+## CVE-2025-14502 ()
+> 
+- [Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502](https://github.com/Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502)	<img alt="forks" src="https://img.shields.io/github/forks/Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502">	<img alt="stars" src="https://img.shields.io/github/stars/Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502">
 
 ---
 ## CVE-2025-14440 ()
