@@ -3344,6 +3344,7 @@
 - [Least-Significant-Bit/CVE-2025-55182](https://github.com/Least-Significant-Bit/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2025-55182">
 - [Least-Significant-Bit/CVE-2025-55182](https://github.com/Least-Significant-Bit/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2025-55182">
 - [faisha1311/React2Shell-CVE-2025-55182-TryHackMe](https://github.com/faisha1311/React2Shell-CVE-2025-55182-TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/faisha1311/React2Shell-CVE-2025-55182-TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/faisha1311/React2Shell-CVE-2025-55182-TryHackMe">
+- [fBUZk2BH/RSC-Detect-CVE-2025-55182](https://github.com/fBUZk2BH/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/fBUZk2BH/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/fBUZk2BH/RSC-Detect-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
