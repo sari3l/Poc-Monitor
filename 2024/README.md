@@ -2369,6 +2369,11 @@ length to be included in the checksum calculation is fully consumed.
 - [nightuhu/CVE-2024-50066](https://github.com/nightuhu/CVE-2024-50066)	<img alt="forks" src="https://img.shields.io/github/forks/nightuhu/CVE-2024-50066">	<img alt="stars" src="https://img.shields.io/github/stars/nightuhu/CVE-2024-50066">
 
 ---
+## CVE-2024-50050 ()
+> 
+- [sastraadiwiguna-purpleeliteteaming/LlamaStack-RCE-Deterministic-Supply-Chain-Exploitation-Hardening-Framework-CVE-2024-50050-](https://github.com/sastraadiwiguna-purpleeliteteaming/LlamaStack-RCE-Deterministic-Supply-Chain-Exploitation-Hardening-Framework-CVE-2024-50050-)	<img alt="forks" src="https://img.shields.io/github/forks/sastraadiwiguna-purpleeliteteaming/LlamaStack-RCE-Deterministic-Supply-Chain-Exploitation-Hardening-Framework-CVE-2024-50050-">	<img alt="stars" src="https://img.shields.io/github/stars/sastraadiwiguna-purpleeliteteaming/LlamaStack-RCE-Deterministic-Supply-Chain-Exploitation-Hardening-Framework-CVE-2024-50050-">
+
+---
 ## CVE-2024-49681 (2024-10-24T12:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in SWIT WP Sessions Time Monitoring Full Automatic allows SQL Injection.This issue affects WP Sessions Time Monitoring Full Automatic: from n/a through 1.0.9.
 - [RandomRobbieBF/CVE-2024-49681](https://github.com/RandomRobbieBF/CVE-2024-49681)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49681">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49681">
