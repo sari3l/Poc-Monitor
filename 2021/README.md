@@ -2455,6 +2455,7 @@
 - [faizdotid/CVE-2021-41773](https://github.com/faizdotid/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/faizdotid/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/faizdotid/CVE-2021-41773">
 - [rikdek/CVE-2021-41773](https://github.com/rikdek/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/rikdek/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/rikdek/CVE-2021-41773">
 - [ChanaPCN/CVE-2021-41773-Analysis](https://github.com/ChanaPCN/CVE-2021-41773-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ChanaPCN/CVE-2021-41773-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ChanaPCN/CVE-2021-41773-Analysis">
+- [sudo0xksh/cve-2021-41773-checker](https://github.com/sudo0xksh/cve-2021-41773-checker)	<img alt="forks" src="https://img.shields.io/github/forks/sudo0xksh/cve-2021-41773-checker">	<img alt="stars" src="https://img.shields.io/github/stars/sudo0xksh/cve-2021-41773-checker">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
