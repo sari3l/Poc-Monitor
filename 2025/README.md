@@ -8365,7 +8365,10 @@
 - [KingHacker353/CVE-2025-20393](https://github.com/KingHacker353/CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/CVE-2025-20393">
 - [b1gchoi/CVE-2025-20393](https://github.com/b1gchoi/CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-20393">
 - [StasonJatham/cisco-sa-sma-attack-N9bf4](https://github.com/StasonJatham/cisco-sa-sma-attack-N9bf4)	<img alt="forks" src="https://img.shields.io/github/forks/StasonJatham/cisco-sa-sma-attack-N9bf4">	<img alt="stars" src="https://img.shields.io/github/stars/StasonJatham/cisco-sa-sma-attack-N9bf4">
-- [Ashwesker/Blackash-CVE-2025-20393](https://github.com/Ashwesker/Blackash-CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-20393">
+- [Ashwesker/Ashwesker-CVE-2025-20393](https://github.com/Ashwesker/Ashwesker-CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-20393">
+- [cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner">
+- [MRH701/cisco-sa-sma-attack-N9bf4](https://github.com/MRH701/cisco-sa-sma-attack-N9bf4)	<img alt="forks" src="https://img.shields.io/github/forks/MRH701/cisco-sa-sma-attack-N9bf4">	<img alt="stars" src="https://img.shields.io/github/stars/MRH701/cisco-sa-sma-attack-N9bf4">
+- [MRH701/mrh701.github.io](https://github.com/MRH701/mrh701.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MRH701/mrh701.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MRH701/mrh701.github.io">
 
 ---
 ## CVE-2025-20384 ()
