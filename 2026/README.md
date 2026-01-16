@@ -19,6 +19,7 @@
 ## CVE-2026-22812 ()
 > 
 - [Udyz/CVE-2026-22812-Exp](https://github.com/Udyz/CVE-2026-22812-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2026-22812-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2026-22812-Exp">
+- [rohmatariow/CVE-2026-22812-exploit](https://github.com/rohmatariow/CVE-2026-22812-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rohmatariow/CVE-2026-22812-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rohmatariow/CVE-2026-22812-exploit">
 
 ---
 ## CVE-2026-22804 ()
