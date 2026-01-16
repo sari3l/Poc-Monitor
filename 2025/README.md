@@ -7891,6 +7891,7 @@
 - [Feralthedogg/CVE-2025-24132-Scanner](https://github.com/Feralthedogg/CVE-2025-24132-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Feralthedogg/CVE-2025-24132-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Feralthedogg/CVE-2025-24132-Scanner">
 - [ekomsSavior/AirBorne-PoC](https://github.com/ekomsSavior/AirBorne-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/AirBorne-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/AirBorne-PoC">
 - [apwlq/AirBorne-PoC](https://github.com/apwlq/AirBorne-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/apwlq/AirBorne-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/apwlq/AirBorne-PoC">
+- [TheGamingGallifreyan/LiberationPlay-CVE-2025-24132-Research](https://github.com/TheGamingGallifreyan/LiberationPlay-CVE-2025-24132-Research)	<img alt="forks" src="https://img.shields.io/github/forks/TheGamingGallifreyan/LiberationPlay-CVE-2025-24132-Research">	<img alt="stars" src="https://img.shields.io/github/stars/TheGamingGallifreyan/LiberationPlay-CVE-2025-24132-Research">
 
 ---
 ## CVE-2025-24118 ()

@@ -3460,6 +3460,7 @@
 - [nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971](https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971">
 - [MBHudson/CVE-2020-1971](https://github.com/MBHudson/CVE-2020-1971)	<img alt="forks" src="https://img.shields.io/github/forks/MBHudson/CVE-2020-1971">	<img alt="stars" src="https://img.shields.io/github/stars/MBHudson/CVE-2020-1971">
 - [Metztli/debian-openssl-1.1.1i](https://github.com/Metztli/debian-openssl-1.1.1i)	<img alt="forks" src="https://img.shields.io/github/forks/Metztli/debian-openssl-1.1.1i">	<img alt="stars" src="https://img.shields.io/github/stars/Metztli/debian-openssl-1.1.1i">
+- [honeyvig/CVE-2020-1971](https://github.com/honeyvig/CVE-2020-1971)	<img alt="forks" src="https://img.shields.io/github/forks/honeyvig/CVE-2020-1971">	<img alt="stars" src="https://img.shields.io/github/stars/honeyvig/CVE-2020-1971">
 
 ---
 ## CVE-2020-19587 (2022-09-14T03:15:00)
