@@ -2131,6 +2131,7 @@
 - [17patmaks/CVE-2025-59287-Sigma-Rule](https://github.com/17patmaks/CVE-2025-59287-Sigma-Rule)	<img alt="forks" src="https://img.shields.io/github/forks/17patmaks/CVE-2025-59287-Sigma-Rule">	<img alt="stars" src="https://img.shields.io/github/stars/17patmaks/CVE-2025-59287-Sigma-Rule">
 - [gud425/gud425.github.io](https://github.com/gud425/gud425.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/gud425/gud425.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/gud425/gud425.github.io">
 - [vtntkmfyyftrem/CVE-2025-59287](https://github.com/vtntkmfyyftrem/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/vtntkmfyyftrem/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/vtntkmfyyftrem/CVE-2025-59287">
+- [LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE](https://github.com/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE">
 
 ---
 ## CVE-2025-59285 ()
