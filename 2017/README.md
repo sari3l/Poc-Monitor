@@ -389,6 +389,11 @@
 - [rebelle3/cve-2017-7117](https://github.com/rebelle3/cve-2017-7117)	<img alt="forks" src="https://img.shields.io/github/forks/rebelle3/cve-2017-7117">	<img alt="stars" src="https://img.shields.io/github/stars/rebelle3/cve-2017-7117">
 
 ---
+## CVE-2017-6742 ()
+> 
+- [sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction](https://github.com/sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction)	<img alt="forks" src="https://img.shields.io/github/forks/sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction">	<img alt="stars" src="https://img.shields.io/github/stars/sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction">
+
+---
 ## CVE-2017-6074 (2017-02-18T21:59:00)
 > The dccp_rcv_state_process function in net/dccp/input.c in the Linux kernel through 4.9.11 mishandles DCCP_PKT_REQUEST packet data structures in the LISTEN state, which allows local users to obtain root privileges or cause a denial of service (double free) via an application that makes an IPV6_RECVPKTINFO setsockopt system call.
 - [toanthang1842002/CVE-2017-6074](https://github.com/toanthang1842002/CVE-2017-6074)	<img alt="forks" src="https://img.shields.io/github/forks/toanthang1842002/CVE-2017-6074">	<img alt="stars" src="https://img.shields.io/github/stars/toanthang1842002/CVE-2017-6074">
