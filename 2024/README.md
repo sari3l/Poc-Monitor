@@ -2890,6 +2890,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [CodePontiff/next_js_poisoning](https://github.com/CodePontiff/next_js_poisoning)	<img alt="forks" src="https://img.shields.io/github/forks/CodePontiff/next_js_poisoning">	<img alt="stars" src="https://img.shields.io/github/stars/CodePontiff/next_js_poisoning">
 - [melmathari/CVE-2024-46982-NUCLEI](https://github.com/melmathari/CVE-2024-46982-NUCLEI)	<img alt="forks" src="https://img.shields.io/github/forks/melmathari/CVE-2024-46982-NUCLEI">	<img alt="stars" src="https://img.shields.io/github/stars/melmathari/CVE-2024-46982-NUCLEI">
 - [samuel871211/CVE-2024-46982-Reproduction](https://github.com/samuel871211/CVE-2024-46982-Reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/samuel871211/CVE-2024-46982-Reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/samuel871211/CVE-2024-46982-Reproduction">
+- [hidesec/CVE-2025-32421](https://github.com/hidesec/CVE-2025-32421)	<img alt="forks" src="https://img.shields.io/github/forks/hidesec/CVE-2025-32421">	<img alt="stars" src="https://img.shields.io/github/stars/hidesec/CVE-2025-32421">
 
 ---
 ## CVE-2024-46901 ()
