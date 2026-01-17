@@ -5718,6 +5718,11 @@
 - [margaretegpid/CVE-2025-36924](https://github.com/margaretegpid/CVE-2025-36924)	<img alt="forks" src="https://img.shields.io/github/forks/margaretegpid/CVE-2025-36924">	<img alt="stars" src="https://img.shields.io/github/stars/margaretegpid/CVE-2025-36924">
 
 ---
+## CVE-2025-36911 ()
+> 
+- [Cedric-Martz/CVE-2025-36911_scan](https://github.com/Cedric-Martz/CVE-2025-36911_scan)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric-Martz/CVE-2025-36911_scan">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric-Martz/CVE-2025-36911_scan">
+
+---
 ## CVE-2025-36535 ()
 > 
 - [korden-c/CVE-2025-36535](https://github.com/korden-c/CVE-2025-36535)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-36535">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-36535">
