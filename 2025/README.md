@@ -686,6 +686,16 @@
 - [0xthem7/CVE-2025-67294](https://github.com/0xthem7/CVE-2025-67294)	<img alt="forks" src="https://img.shields.io/github/forks/0xthem7/CVE-2025-67294">	<img alt="stars" src="https://img.shields.io/github/stars/0xthem7/CVE-2025-67294">
 
 ---
+## CVE-2025-67263 ()
+> 
+- [Smarttfoxx/CVE-2025-67263](https://github.com/Smarttfoxx/CVE-2025-67263)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-67263">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-67263">
+
+---
+## CVE-2025-67261 ()
+> 
+- [Smarttfoxx/CVE-2025-67261](https://github.com/Smarttfoxx/CVE-2025-67261)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-67261">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-67261">
+
+---
 ## CVE-2025-67160 ()
 > 
 - [Remenis/CVE-2025-67160](https://github.com/Remenis/CVE-2025-67160)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-67160">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-67160">
