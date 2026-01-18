@@ -27,6 +27,7 @@
 - [Udyz/CVE-2026-22812-Exp](https://github.com/Udyz/CVE-2026-22812-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2026-22812-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2026-22812-Exp">
 - [rohmatariow/CVE-2026-22812-exploit](https://github.com/rohmatariow/CVE-2026-22812-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rohmatariow/CVE-2026-22812-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rohmatariow/CVE-2026-22812-exploit">
 - [Ashwesker/Ashwesker-CVE-2026-22812](https://github.com/Ashwesker/Ashwesker-CVE-2026-22812)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-22812">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-22812">
+- [mad12wader/CVE-2026-22812](https://github.com/mad12wader/CVE-2026-22812)	<img alt="forks" src="https://img.shields.io/github/forks/mad12wader/CVE-2026-22812">	<img alt="stars" src="https://img.shields.io/github/stars/mad12wader/CVE-2026-22812">
 
 ---
 ## CVE-2026-22804 ()
