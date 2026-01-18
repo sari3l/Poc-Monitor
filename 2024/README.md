@@ -10051,6 +10051,7 @@ authentication.   
 ## CVE-2024-11635 ()
 > 
 - [vigilante-1337/CVE-2024-11635](https://github.com/vigilante-1337/CVE-2024-11635)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2024-11635">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2024-11635">
+- [vigilante-1337/CVE-2024-11635](https://github.com/vigilante-1337/CVE-2024-11635)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2024-11635">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2024-11635">
 
 ---
 ## CVE-2024-11616 ()
