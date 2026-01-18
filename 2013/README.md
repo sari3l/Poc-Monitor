@@ -86,6 +86,11 @@
 - [Live-Hack-CVE/CVE-2013-4496](https://github.com/Live-Hack-CVE/CVE-2013-4496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4496">
 
 ---
+## CVE-2013-4322 ()
+> 
+- [LiviuPtr/CVE-2013-4322_PoC](https://github.com/LiviuPtr/CVE-2013-4322_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LiviuPtr/CVE-2013-4322_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LiviuPtr/CVE-2013-4322_PoC">
+
+---
 ## CVE-2013-4281 (2022-10-19T18:15:00)
 > In Red Hat Openshift 1, weak default permissions are applied to the /etc/openshift/server_priv.pem file on the broker server, which could allow users with local access to the broker to read this file.
 - [Live-Hack-CVE/CVE-2013-4281](https://github.com/Live-Hack-CVE/CVE-2013-4281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4281">
