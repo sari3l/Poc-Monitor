@@ -9225,6 +9225,11 @@
 - [dovezp/CVE-2025-10492-POC](https://github.com/dovezp/CVE-2025-10492-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dovezp/CVE-2025-10492-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dovezp/CVE-2025-10492-POC">
 
 ---
+## CVE-2025-10484 ()
+> 
+- [microcyberr/CVE-2025-10484](https://github.com/microcyberr/CVE-2025-10484)	<img alt="forks" src="https://img.shields.io/github/forks/microcyberr/CVE-2025-10484">	<img alt="stars" src="https://img.shields.io/github/stars/microcyberr/CVE-2025-10484">
+
+---
 ## CVE-2025-10353 ()
 > 
 - [ivansmc00/CVE-2025-10353-POC](https://github.com/ivansmc00/CVE-2025-10353-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ivansmc00/CVE-2025-10353-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ivansmc00/CVE-2025-10353-POC">
