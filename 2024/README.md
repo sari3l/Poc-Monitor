@@ -10048,6 +10048,11 @@ authentication.   
 - [D3N14LD15K/CVE-2024-11680_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-11680_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-11680_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-11680_PoC_Exploit">
 
 ---
+## CVE-2024-11635 ()
+> 
+- [vigilante-1337/CVE-2024-11635](https://github.com/vigilante-1337/CVE-2024-11635)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2024-11635">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2024-11635">
+
+---
 ## CVE-2024-11616 ()
 > 
 - [inb1ts/CVE-2024-11616](https://github.com/inb1ts/CVE-2024-11616)	<img alt="forks" src="https://img.shields.io/github/forks/inb1ts/CVE-2024-11616">	<img alt="stars" src="https://img.shields.io/github/stars/inb1ts/CVE-2024-11616">
