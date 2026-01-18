@@ -1593,6 +1593,7 @@
 > 
 - [JeanKauffman1305/CVE-2025-62221-Exploit-](https://github.com/JeanKauffman1305/CVE-2025-62221-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/JeanKauffman1305/CVE-2025-62221-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/JeanKauffman1305/CVE-2025-62221-Exploit-">
 - [LoKinii/CVE-2025-62221-Exploit](https://github.com/LoKinii/CVE-2025-62221-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LoKinii/CVE-2025-62221-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LoKinii/CVE-2025-62221-Exploit">
+- [Teodor1231241/DEMO-Proof-of-Concept-Temporal-Memory-Inconsistency-in-cldflt.sys-CVE-2025-62221](https://github.com/Teodor1231241/DEMO-Proof-of-Concept-Temporal-Memory-Inconsistency-in-cldflt.sys-CVE-2025-62221)	<img alt="forks" src="https://img.shields.io/github/forks/Teodor1231241/DEMO-Proof-of-Concept-Temporal-Memory-Inconsistency-in-cldflt.sys-CVE-2025-62221">	<img alt="stars" src="https://img.shields.io/github/stars/Teodor1231241/DEMO-Proof-of-Concept-Temporal-Memory-Inconsistency-in-cldflt.sys-CVE-2025-62221">
 
 ---
 ## CVE-2025-62220 ()
