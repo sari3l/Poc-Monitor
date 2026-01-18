@@ -9134,6 +9134,11 @@
 - [aritlhq/CVE-2025-11391](https://github.com/aritlhq/CVE-2025-11391)	<img alt="forks" src="https://img.shields.io/github/forks/aritlhq/CVE-2025-11391">	<img alt="stars" src="https://img.shields.io/github/stars/aritlhq/CVE-2025-11391">
 
 ---
+## CVE-2025-11380 ()
+> 
+- [fleetcaptain/everest-backup-cve-2025-11380](https://github.com/fleetcaptain/everest-backup-cve-2025-11380)	<img alt="forks" src="https://img.shields.io/github/forks/fleetcaptain/everest-backup-cve-2025-11380">	<img alt="stars" src="https://img.shields.io/github/stars/fleetcaptain/everest-backup-cve-2025-11380">
+
+---
 ## CVE-2025-11371 ()
 > 
 - [rxerium/CVE-2025-11371](https://github.com/rxerium/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-11371">
