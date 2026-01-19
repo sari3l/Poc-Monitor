@@ -415,7 +415,7 @@
 ---
 ## CVE-2018-6537 ()
 > 
-- [pseudo-securite/CVE-2018-6537](https://github.com/pseudo-securite/CVE-2018-6537)	<img alt="forks" src="https://img.shields.io/github/forks/pseudo-securite/CVE-2018-6537">	<img alt="stars" src="https://img.shields.io/github/stars/pseudo-securite/CVE-2018-6537">
+- [exploiteur/CVE-2018-6537](https://github.com/exploiteur/CVE-2018-6537)	<img alt="forks" src="https://img.shields.io/github/forks/exploiteur/CVE-2018-6537">	<img alt="stars" src="https://img.shields.io/github/stars/exploiteur/CVE-2018-6537">
 
 ---
 ## CVE-2018-6389 (2018-02-06T17:29:00)
