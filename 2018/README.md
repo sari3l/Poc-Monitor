@@ -413,6 +413,11 @@
 - [Rezy-Dev/CVE-2018-6574](https://github.com/Rezy-Dev/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Rezy-Dev/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Rezy-Dev/CVE-2018-6574">
 
 ---
+## CVE-2018-6537 ()
+> 
+- [pseudo-securite/CVE-2018-6537](https://github.com/pseudo-securite/CVE-2018-6537)	<img alt="forks" src="https://img.shields.io/github/forks/pseudo-securite/CVE-2018-6537">	<img alt="stars" src="https://img.shields.io/github/stars/pseudo-securite/CVE-2018-6537">
+
+---
 ## CVE-2018-6389 (2018-02-06T17:29:00)
 > In WordPress through 4.9.2, unauthenticated attackers can cause a denial of service (resource consumption) by using the large list of registered .js files (from wp-includes/script-loader.php) to construct a series of requests to load every file many times.
 - [amit-pathak009/CVE-2018-6389-FIX](https://github.com/amit-pathak009/CVE-2018-6389-FIX)	<img alt="forks" src="https://img.shields.io/github/forks/amit-pathak009/CVE-2018-6389-FIX">	<img alt="stars" src="https://img.shields.io/github/stars/amit-pathak009/CVE-2018-6389-FIX">
