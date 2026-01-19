@@ -9334,6 +9334,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [hau2212/Moniker-Link-CVE-2024-21413-](https://github.com/hau2212/Moniker-Link-CVE-2024-21413-)	<img alt="forks" src="https://img.shields.io/github/forks/hau2212/Moniker-Link-CVE-2024-21413-">	<img alt="stars" src="https://img.shields.io/github/stars/hau2212/Moniker-Link-CVE-2024-21413-">
 - [mmathivanan17/CVE-2024-21413](https://github.com/mmathivanan17/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/mmathivanan17/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/mmathivanan17/CVE-2024-21413">
 - [eylommaayan/THM---CVE-2024-21413-Moniker-Link-Microsoft-Outlook-](https://github.com/eylommaayan/THM---CVE-2024-21413-Moniker-Link-Microsoft-Outlook-)	<img alt="forks" src="https://img.shields.io/github/forks/eylommaayan/THM---CVE-2024-21413-Moniker-Link-Microsoft-Outlook-">	<img alt="stars" src="https://img.shields.io/github/stars/eylommaayan/THM---CVE-2024-21413-Moniker-Link-Microsoft-Outlook-">
+- [ViniciusFariasDev/cve-2024-21413-outlook-monikerlink-lab](https://github.com/ViniciusFariasDev/cve-2024-21413-outlook-monikerlink-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ViniciusFariasDev/cve-2024-21413-outlook-monikerlink-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ViniciusFariasDev/cve-2024-21413-outlook-monikerlink-lab">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)

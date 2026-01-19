@@ -8657,6 +8657,11 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0215](https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0215)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0215">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0215">
 
 ---
+## CVE-2023-0214 ()
+> 
+- [0pts/CVE-2023-0214](https://github.com/0pts/CVE-2023-0214)	<img alt="forks" src="https://img.shields.io/github/forks/0pts/CVE-2023-0214">	<img alt="stars" src="https://img.shields.io/github/stars/0pts/CVE-2023-0214">
+
+---
 ## CVE-2023-0179 (2023-03-27T22:15:00)
 > A buffer overflow vulnerability was found in the Netfilter subsystem in the Linux Kernel. This issue could allow the leakage of both stack and heap addresses, and potentially allow Local Privilege Escalation to the root user via arbitrary code execution.
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
