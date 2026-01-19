@@ -372,6 +372,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-8465 ()
 > 
 - [19melek19/TheMisfits-CVE-2024-8465-SQLi](https://github.com/19melek19/TheMisfits-CVE-2024-8465-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/19melek19/TheMisfits-CVE-2024-8465-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/19melek19/TheMisfits-CVE-2024-8465-SQLi">
+- [Sholls000/CVE-2024-8465-PoC](https://github.com/Sholls000/CVE-2024-8465-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sholls000/CVE-2024-8465-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sholls000/CVE-2024-8465-PoC">
 
 ---
 ## CVE-2024-8425 ()
