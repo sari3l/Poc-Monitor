@@ -2013,7 +2013,7 @@
 ---
 ## CVE-2025-60021 ()
 > 
-- [ninjazan420/CVE-2025-60021-Apache-bRPC-Heap-Profiler-Command-Injection](https://github.com/ninjazan420/CVE-2025-60021-Apache-bRPC-Heap-Profiler-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2025-60021-Apache-bRPC-Heap-Profiler-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2025-60021-Apache-bRPC-Heap-Profiler-Command-Injection">
+- [ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection](https://github.com/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection">
 
 ---
 ## CVE-2025-59934 ()
