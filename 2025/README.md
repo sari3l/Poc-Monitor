@@ -2011,6 +2011,11 @@
 - [euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019](https://github.com/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">
 
 ---
+## CVE-2025-60021 ()
+> 
+- [ninjazan420/CVE-2025-60021-Apache-bRPC-Heap-Profiler-Command-Injection](https://github.com/ninjazan420/CVE-2025-60021-Apache-bRPC-Heap-Profiler-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2025-60021-Apache-bRPC-Heap-Profiler-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2025-60021-Apache-bRPC-Heap-Profiler-Command-Injection">
+
+---
 ## CVE-2025-59934 ()
 > 
 - [suriryuk/cve-2025-59934](https://github.com/suriryuk/cve-2025-59934)	<img alt="forks" src="https://img.shields.io/github/forks/suriryuk/cve-2025-59934">	<img alt="stars" src="https://img.shields.io/github/stars/suriryuk/cve-2025-59934">
