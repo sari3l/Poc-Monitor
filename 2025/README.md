@@ -717,6 +717,11 @@
 - [c137req/CVE-2025-6713](https://github.com/c137req/CVE-2025-6713)	<img alt="forks" src="https://img.shields.io/github/forks/c137req/CVE-2025-6713">	<img alt="stars" src="https://img.shields.io/github/stars/c137req/CVE-2025-6713">
 
 ---
+## CVE-2025-67126 ()
+> 
+- [ashshh1/CVE-2025-67126](https://github.com/ashshh1/CVE-2025-67126)	<img alt="forks" src="https://img.shields.io/github/forks/ashshh1/CVE-2025-67126">	<img alt="stars" src="https://img.shields.io/github/stars/ashshh1/CVE-2025-67126">
+
+---
 ## CVE-2025-67070 ()
 > 
 - [teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass](https://github.com/teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass">
