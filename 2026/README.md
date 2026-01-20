@@ -45,6 +45,7 @@
 - [mad12wader/CVE-2026-22812](https://github.com/mad12wader/CVE-2026-22812)	<img alt="forks" src="https://img.shields.io/github/forks/mad12wader/CVE-2026-22812">	<img alt="stars" src="https://img.shields.io/github/stars/mad12wader/CVE-2026-22812">
 - [0xgh057r3c0n/CVE-2026-22812](https://github.com/0xgh057r3c0n/CVE-2026-22812)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-22812">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-22812">
 - [barrersoftware/opencode-secure](https://github.com/barrersoftware/opencode-secure)	<img alt="forks" src="https://img.shields.io/github/forks/barrersoftware/opencode-secure">	<img alt="stars" src="https://img.shields.io/github/stars/barrersoftware/opencode-secure">
+- [CayberMods/CVE-2026-22812-POC](https://github.com/CayberMods/CVE-2026-22812-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CayberMods/CVE-2026-22812-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CayberMods/CVE-2026-22812-POC">
 
 ---
 ## CVE-2026-22804 ()
