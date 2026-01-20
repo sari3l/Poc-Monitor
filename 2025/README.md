@@ -417,6 +417,7 @@
 ## CVE-2025-7545 ()
 > 
 - [alxsourin/Firmware-CVE-CVE-2025-7545](https://github.com/alxsourin/Firmware-CVE-CVE-2025-7545)	<img alt="forks" src="https://img.shields.io/github/forks/alxsourin/Firmware-CVE-CVE-2025-7545">	<img alt="stars" src="https://img.shields.io/github/stars/alxsourin/Firmware-CVE-CVE-2025-7545">
+- [alxsourin/Firmware-CVE-2025-7545](https://github.com/alxsourin/Firmware-CVE-2025-7545)	<img alt="forks" src="https://img.shields.io/github/forks/alxsourin/Firmware-CVE-2025-7545">	<img alt="stars" src="https://img.shields.io/github/stars/alxsourin/Firmware-CVE-2025-7545">
 
 ---
 ## CVE-2025-7461 ()
