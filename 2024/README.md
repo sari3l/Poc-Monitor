@@ -7797,6 +7797,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [D3Ext/CVE-2024-25641](https://github.com/D3Ext/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/D3Ext/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/D3Ext/CVE-2024-25641">
 - [regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26](https://github.com/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">
 - [regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26](https://github.com/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26">
+- [GabrielCF10/CVE-2024-25641---Cacti](https://github.com/GabrielCF10/CVE-2024-25641---Cacti)	<img alt="forks" src="https://img.shields.io/github/forks/GabrielCF10/CVE-2024-25641---Cacti">	<img alt="stars" src="https://img.shields.io/github/stars/GabrielCF10/CVE-2024-25641---Cacti">
 
 ---
 ## CVE-2024-25600 (2024-06-04T13:15:00)
