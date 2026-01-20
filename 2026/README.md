@@ -11,6 +11,11 @@
 - [Jvr2022/CVE-2026-23745](https://github.com/Jvr2022/CVE-2026-23745)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-23745">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-23745">
 
 ---
+## CVE-2026-23744 ()
+> 
+- [boroeurnprach/CVE-2026-23744-PoC](https://github.com/boroeurnprach/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-23744-PoC">
+
+---
 ## CVE-2026-23550 ()
 > 
 - [cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector">
