@@ -414,6 +414,11 @@
 - [rundas-r00t/CVE-2025-7558-PoC](https://github.com/rundas-r00t/CVE-2025-7558-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/rundas-r00t/CVE-2025-7558-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/rundas-r00t/CVE-2025-7558-PoC">
 
 ---
+## CVE-2025-7545 ()
+> 
+- [alxsourin/Firmware-CVE-CVE-2025-7545](https://github.com/alxsourin/Firmware-CVE-CVE-2025-7545)	<img alt="forks" src="https://img.shields.io/github/forks/alxsourin/Firmware-CVE-CVE-2025-7545">	<img alt="stars" src="https://img.shields.io/github/stars/alxsourin/Firmware-CVE-CVE-2025-7545">
+
+---
 ## CVE-2025-7461 ()
 > 
 - [bx33661/CVE-2025-7461](https://github.com/bx33661/CVE-2025-7461)	<img alt="forks" src="https://img.shields.io/github/forks/bx33661/CVE-2025-7461">	<img alt="stars" src="https://img.shields.io/github/stars/bx33661/CVE-2025-7461">
