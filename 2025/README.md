@@ -6748,6 +6748,11 @@
 - [huynguyen12536/CVE-2025-2995](https://github.com/huynguyen12536/CVE-2025-2995)	<img alt="forks" src="https://img.shields.io/github/forks/huynguyen12536/CVE-2025-2995">	<img alt="stars" src="https://img.shields.io/github/stars/huynguyen12536/CVE-2025-2995">
 
 ---
+## CVE-2025-29943 ()
+> 
+- [fevar54/POC_CVE-2025-29943_Write-what-where-Condition](https://github.com/fevar54/POC_CVE-2025-29943_Write-what-where-Condition)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/POC_CVE-2025-29943_Write-what-where-Condition">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/POC_CVE-2025-29943_Write-what-where-Condition">
+
+---
 ## CVE-2025-29927 ()
 > 
 - [serhalp/test-cve-2025-29927](https://github.com/serhalp/test-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/serhalp/test-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/serhalp/test-cve-2025-29927">
