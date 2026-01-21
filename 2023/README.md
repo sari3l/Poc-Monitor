@@ -3259,6 +3259,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 ## CVE-2023-38890 (2023-08-18T19:15:00)
 > Online Shopping Portal Project 3.1 allows remote attackers to execute arbitrary SQL commands/queries via the login form, leading to unauthorized access and potential data manipulation. This vulnerability arises due to insufficient validation of user-supplied input in the username field, enabling SQL Injection attacks.
 - [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890)	<img alt="forks" src="https://img.shields.io/github/forks/akshadjoshi/CVE-2023-38890">	<img alt="stars" src="https://img.shields.io/github/stars/akshadjoshi/CVE-2023-38890">
+- [Tagoletta/CVE-2023-38890](https://github.com/Tagoletta/CVE-2023-38890)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2023-38890">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2023-38890">
 
 ---
 ## CVE-2023-38873 ()

@@ -4668,6 +4668,7 @@
 - [tamim1089/HikvisionExploiter](https://github.com/tamim1089/HikvisionExploiter)	<img alt="forks" src="https://img.shields.io/github/forks/tamim1089/HikvisionExploiter">	<img alt="stars" src="https://img.shields.io/github/stars/tamim1089/HikvisionExploiter">
 - [aengussong/hikvision_probe](https://github.com/aengussong/hikvision_probe)	<img alt="forks" src="https://img.shields.io/github/forks/aengussong/hikvision_probe">	<img alt="stars" src="https://img.shields.io/github/stars/aengussong/hikvision_probe">
 - [NanoTrash/hikvision_brute](https://github.com/NanoTrash/hikvision_brute)	<img alt="forks" src="https://img.shields.io/github/forks/NanoTrash/hikvision_brute">	<img alt="stars" src="https://img.shields.io/github/stars/NanoTrash/hikvision_brute">
+- [yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260](https://github.com/yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260">
 
 ---
 ## CVE-2021-3623 (2022-03-02T23:15:00)

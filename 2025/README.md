@@ -382,6 +382,8 @@
 - [AmrHuss/throttlestop-exploit-rw](https://github.com/AmrHuss/throttlestop-exploit-rw)	<img alt="forks" src="https://img.shields.io/github/forks/AmrHuss/throttlestop-exploit-rw">	<img alt="stars" src="https://img.shields.io/github/stars/AmrHuss/throttlestop-exploit-rw">
 - [xM0kht4r/CVE-2025-7771](https://github.com/xM0kht4r/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/xM0kht4r/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/xM0kht4r/CVE-2025-7771">
 - [v31l0x1/ThrottleStopPPL](https://github.com/v31l0x1/ThrottleStopPPL)	<img alt="forks" src="https://img.shields.io/github/forks/v31l0x1/ThrottleStopPPL">	<img alt="stars" src="https://img.shields.io/github/stars/v31l0x1/ThrottleStopPPL">
+- [lzty/CVE-2025-7771](https://github.com/lzty/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/lzty/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/lzty/CVE-2025-7771">
+- [I3r1h0n/Sigurd](https://github.com/I3r1h0n/Sigurd)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/Sigurd">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/Sigurd">
 
 ---
 ## CVE-2025-7769 ()
@@ -481,6 +483,26 @@
 ## CVE-2025-69581 ()
 > 
 - [Rivek619/CVE-2025-69581](https://github.com/Rivek619/CVE-2025-69581)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-69581">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-69581">
+
+---
+## CVE-2025-69460 ()
+> 
+- [Tagoletta/CVE-2025-69460](https://github.com/Tagoletta/CVE-2025-69460)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2025-69460">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2025-69460">
+
+---
+## CVE-2025-69459 ()
+> 
+- [Tagoletta/CVE-2025-69459](https://github.com/Tagoletta/CVE-2025-69459)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2025-69459">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2025-69459">
+
+---
+## CVE-2025-69458 ()
+> 
+- [Tagoletta/CVE-2025-69458](https://github.com/Tagoletta/CVE-2025-69458)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2025-69458">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2025-69458">
+
+---
+## CVE-2025-69457 ()
+> 
+- [Tagoletta/CVE-2025-69457](https://github.com/Tagoletta/CVE-2025-69457)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2025-69457">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2025-69457">
 
 ---
 ## CVE-2025-6934 ()
