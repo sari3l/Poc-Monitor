@@ -1743,6 +1743,7 @@
 > 
 - [FlowerWitch/CVE-2025-61686_docker](https://github.com/FlowerWitch/CVE-2025-61686_docker)	<img alt="forks" src="https://img.shields.io/github/forks/FlowerWitch/CVE-2025-61686_docker">	<img alt="stars" src="https://img.shields.io/github/stars/FlowerWitch/CVE-2025-61686_docker">
 - [Kai-One001/React-Router-CVE-2025-61686-](https://github.com/Kai-One001/React-Router-CVE-2025-61686-)	<img alt="forks" src="https://img.shields.io/github/forks/Kai-One001/React-Router-CVE-2025-61686-">	<img alt="stars" src="https://img.shields.io/github/stars/Kai-One001/React-Router-CVE-2025-61686-">
+- [boroeurnprach/CVE-2025-61686-PoC](https://github.com/boroeurnprach/CVE-2025-61686-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-61686-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-61686-PoC">
 
 ---
 ## CVE-2025-61498 ()
