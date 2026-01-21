@@ -8555,6 +8555,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [uthrasri/CVE-2024-23708](https://github.com/uthrasri/CVE-2024-23708)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-23708">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-23708">
 
 ---
+## CVE-2024-23700 ()
+> 
+- [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)	<img alt="forks" src="https://img.shields.io/github/forks/canyie/CVE-2024-23700">	<img alt="stars" src="https://img.shields.io/github/stars/canyie/CVE-2024-23700">
+
+---
 ## CVE-2024-23692 (2024-05-31T10:15:00)
 > Rejetto HTTP File Server, up to and including version 2.3m, is vulnerable to a template injection vulnerability. This vulnerability allows a remote, unauthenticated attacker to execute arbitrary commands on the affected system by sending a specially crafted HTTP request. As of the CVE assignment date, Rejetto HFS 2.3m is no longer supported.
 - [k3lpi3b4nsh33/CVE-2024-23692](https://github.com/k3lpi3b4nsh33/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-23692">
