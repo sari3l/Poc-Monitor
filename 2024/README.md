@@ -4698,6 +4698,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Skac44/CVE-2024-38063](https://github.com/Skac44/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Skac44/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Skac44/CVE-2024-38063">
 - [akozsentre/CVE-2024-38063](https://github.com/akozsentre/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/akozsentre/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/akozsentre/CVE-2024-38063">
 - [thealice01/CVE-2024-38063](https://github.com/thealice01/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/thealice01/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/thealice01/CVE-2024-38063">
+- [Avidan1/CVE-2024-38063](https://github.com/Avidan1/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Avidan1/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Avidan1/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
