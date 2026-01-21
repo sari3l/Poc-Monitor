@@ -28,6 +28,11 @@
 - [titanmaster96/cve-2025-9933](https://github.com/titanmaster96/cve-2025-9933)	<img alt="forks" src="https://img.shields.io/github/forks/titanmaster96/cve-2025-9933">	<img alt="stars" src="https://img.shields.io/github/stars/titanmaster96/cve-2025-9933">
 
 ---
+## CVE-2025-9876 ()
+> 
+- [titanmaster96/cve-2025-9876](https://github.com/titanmaster96/cve-2025-9876)	<img alt="forks" src="https://img.shields.io/github/forks/titanmaster96/cve-2025-9876">	<img alt="stars" src="https://img.shields.io/github/stars/titanmaster96/cve-2025-9876">
+
+---
 ## CVE-2025-9816 ()
 > 
 - [monzaviman/CVE-2025-9816](https://github.com/monzaviman/CVE-2025-9816)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE-2025-9816">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE-2025-9816">

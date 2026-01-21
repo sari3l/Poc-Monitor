@@ -4531,6 +4531,12 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 - [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-)	<img alt="forks" src="https://img.shields.io/github/forks/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">	<img alt="stars" src="https://img.shields.io/github/stars/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">
 
 ---
+## CVE-2024-38476 ()
+> 
+- [abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-](https://github.com/abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-)	<img alt="forks" src="https://img.shields.io/github/forks/abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-">	<img alt="stars" src="https://img.shields.io/github/stars/abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-">
+- [mrmtwoj/apache-vulnerability-testing](https://github.com/mrmtwoj/apache-vulnerability-testing)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/apache-vulnerability-testing">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/apache-vulnerability-testing">
+
+---
 ## CVE-2024-38475 (2024-07-01T19:15:00)
 > Improper escaping of output in mod_rewrite in Apache HTTP Server 2.4.59 and earlier allows an attacker to map URLs to filesystem locations that are permitted to be served by the server but are not intentionally/directly reachable by any URL, resulting in code execution or source code disclosure. 
 
