@@ -2037,6 +2037,7 @@
 ## CVE-2025-60021 ()
 > 
 - [ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection](https://github.com/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection">
+- [Ashwesker/Ashwesker-CVE-2025-60021](https://github.com/Ashwesker/Ashwesker-CVE-2025-60021)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-60021">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-60021">
 
 ---
 ## CVE-2025-59934 ()
@@ -8744,6 +8745,7 @@
 - [pedrocruz2202/mongobleed-scanner](https://github.com/pedrocruz2202/mongobleed-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/pedrocruz2202/mongobleed-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/pedrocruz2202/mongobleed-scanner">
 - [pedrocruz2202/pedrocruz2202.github.io](https://github.com/pedrocruz2202/pedrocruz2202.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/pedrocruz2202/pedrocruz2202.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/pedrocruz2202/pedrocruz2202.github.io">
 - [amnnrth/CVE-2025-14847](https://github.com/amnnrth/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/amnnrth/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/amnnrth/CVE-2025-14847">
+- [InfoSecAntara/CVE-2025-14847-MongoDB](https://github.com/InfoSecAntara/CVE-2025-14847-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CVE-2025-14847-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CVE-2025-14847-MongoDB">
 
 ---
 ## CVE-2025-14783 ()
