@@ -729,6 +729,7 @@
 - [Arcueld/CVE-2025-67303-dnslog1235](https://github.com/Arcueld/CVE-2025-67303-dnslog1235)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-67303-dnslog1235">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-67303-dnslog1235">
 - [maybe-O/CVE-2025-67303](https://github.com/maybe-O/CVE-2025-67303)	<img alt="forks" src="https://img.shields.io/github/forks/maybe-O/CVE-2025-67303">	<img alt="stars" src="https://img.shields.io/github/stars/maybe-O/CVE-2025-67303">
 - [N1vi4/ComfyUI-Manager-CVE-2025-67303](https://github.com/N1vi4/ComfyUI-Manager-CVE-2025-67303)	<img alt="forks" src="https://img.shields.io/github/forks/N1vi4/ComfyUI-Manager-CVE-2025-67303">	<img alt="stars" src="https://img.shields.io/github/stars/N1vi4/ComfyUI-Manager-CVE-2025-67303">
+- [ExploreUnknowed/CVE-2025-67303](https://github.com/ExploreUnknowed/CVE-2025-67303)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreUnknowed/CVE-2025-67303">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreUnknowed/CVE-2025-67303">
 
 ---
 ## CVE-2025-67294 ()
