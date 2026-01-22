@@ -554,6 +554,7 @@ We recommend users to:
 - [RandomRobbieBF/CVE-2023-51409](https://github.com/RandomRobbieBF/CVE-2023-51409)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-51409">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-51409">
 - [imhunterand/CVE-2023-51409](https://github.com/imhunterand/CVE-2023-51409)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2023-51409">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2023-51409">
 - [Nxploited/CVE-2023-51409](https://github.com/Nxploited/CVE-2023-51409)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2023-51409">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2023-51409">
+- [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2023-51409](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2023-51409)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2023-51409">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2023-51409">
 
 ---
 ## CVE-2023-51385 (2023-12-18T19:15:00)
