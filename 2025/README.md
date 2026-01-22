@@ -470,6 +470,11 @@
 - [mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS](https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">
 
 ---
+## CVE-2025-69821 ()
+> 
+- [CipherX1802/CVE-2025-69821-Beat-XP-Vega-Smartwatch-Security-Assessment](https://github.com/CipherX1802/CVE-2025-69821-Beat-XP-Vega-Smartwatch-Security-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/CipherX1802/CVE-2025-69821-Beat-XP-Vega-Smartwatch-Security-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/CipherX1802/CVE-2025-69821-Beat-XP-Vega-Smartwatch-Security-Assessment">
+
+---
 ## CVE-2025-6980 ()
 > 
 - [BishopFox/CVE-2025-6980-check](https://github.com/BishopFox/CVE-2025-6980-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2025-6980-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2025-6980-check">
