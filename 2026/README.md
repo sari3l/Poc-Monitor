@@ -94,6 +94,11 @@
 - [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610)	<img alt="forks" src="https://img.shields.io/github/forks/ashizZz/CVE-2026-22610">	<img alt="stars" src="https://img.shields.io/github/stars/ashizZz/CVE-2026-22610">
 
 ---
+## CVE-2026-22444 ()
+> 
+- [dptsec/CVE-2026-22444](https://github.com/dptsec/CVE-2026-22444)	<img alt="forks" src="https://img.shields.io/github/forks/dptsec/CVE-2026-22444">	<img alt="stars" src="https://img.shields.io/github/stars/dptsec/CVE-2026-22444">
+
+---
 ## CVE-2026-22200 ()
 > 
 - [horizon3ai/CVE-2026-22200](https://github.com/horizon3ai/CVE-2026-22200)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2026-22200">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2026-22200">
