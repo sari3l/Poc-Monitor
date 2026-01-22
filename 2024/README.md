@@ -1934,6 +1934,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [Nxploited/CVE-2024-51793](https://github.com/Nxploited/CVE-2024-51793)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-51793">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-51793">
 - [KTN1990/CVE-2024-51793](https://github.com/KTN1990/CVE-2024-51793)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-51793">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-51793">
 - [0axz-tools/CVE-2024-51793](https://github.com/0axz-tools/CVE-2024-51793)	<img alt="forks" src="https://img.shields.io/github/forks/0axz-tools/CVE-2024-51793">	<img alt="stars" src="https://img.shields.io/github/stars/0axz-tools/CVE-2024-51793">
+- [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793">
 
 ---
 ## CVE-2024-51788 ()
