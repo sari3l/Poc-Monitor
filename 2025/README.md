@@ -2490,6 +2490,11 @@
 - [hossainshadat/CVE-2025-57310](https://github.com/hossainshadat/CVE-2025-57310)	<img alt="forks" src="https://img.shields.io/github/forks/hossainshadat/CVE-2025-57310">	<img alt="stars" src="https://img.shields.io/github/stars/hossainshadat/CVE-2025-57310">
 
 ---
+## CVE-2025-57298 ()
+> 
+- [minnggyuu/CVE-2025-57298](https://github.com/minnggyuu/CVE-2025-57298)	<img alt="forks" src="https://img.shields.io/github/forks/minnggyuu/CVE-2025-57298">	<img alt="stars" src="https://img.shields.io/github/stars/minnggyuu/CVE-2025-57298">
+
+---
 ## CVE-2025-57176 ()
 > 
 - [semaja22/CVE-2025-57176](https://github.com/semaja22/CVE-2025-57176)	<img alt="forks" src="https://img.shields.io/github/forks/semaja22/CVE-2025-57176">	<img alt="stars" src="https://img.shields.io/github/stars/semaja22/CVE-2025-57176">
