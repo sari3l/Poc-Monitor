@@ -5759,6 +5759,11 @@
 - [Crime2/poc-CVE-2025-38352](https://github.com/Crime2/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/Crime2/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/Crime2/poc-CVE-2025-38352">
 
 ---
+## CVE-2025-38248 ()
+> 
+- [guard-wait/CVE-2025-38248_EXP](https://github.com/guard-wait/CVE-2025-38248_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/guard-wait/CVE-2025-38248_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/guard-wait/CVE-2025-38248_EXP">
+
+---
 ## CVE-2025-38001 ()
 > 
 - [0xdevil/CVE-2025-38001](https://github.com/0xdevil/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/0xdevil/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/0xdevil/CVE-2025-38001">

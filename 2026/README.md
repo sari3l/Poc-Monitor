@@ -6,6 +6,11 @@
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
 
 ---
+## CVE-2026-2395 ()
+> 
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2026-2395">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2026-2395">
+
+---
 ## CVE-2026-23947 ()
 > 
 - [boroeurnprach/CVE-2026-23947-PoC](https://github.com/boroeurnprach/CVE-2026-23947-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-23947-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-23947-PoC">
@@ -82,6 +87,7 @@
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21962](https://github.com/Ashwesker/Ashwesker-CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21962">
 - [samael0x4/CVE-2026-21962](https://github.com/samael0x4/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/samael0x4/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/samael0x4/CVE-2026-21962">
+- [gglessner/cve_2026_21962_scanner](https://github.com/gglessner/cve_2026_21962_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gglessner/cve_2026_21962_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gglessner/cve_2026_21962_scanner">
 
 ---
 ## CVE-2026-21877 ()
