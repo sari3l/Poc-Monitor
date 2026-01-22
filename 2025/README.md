@@ -485,6 +485,11 @@
 - [mariaecgzv/CVE-2025-6965-](https://github.com/mariaecgzv/CVE-2025-6965-)	<img alt="forks" src="https://img.shields.io/github/forks/mariaecgzv/CVE-2025-6965-">	<img alt="stars" src="https://img.shields.io/github/stars/mariaecgzv/CVE-2025-6965-">
 
 ---
+## CVE-2025-69612 ()
+> 
+- [Cr0wld3r/CVE-2025-69612](https://github.com/Cr0wld3r/CVE-2025-69612)	<img alt="forks" src="https://img.shields.io/github/forks/Cr0wld3r/CVE-2025-69612">	<img alt="stars" src="https://img.shields.io/github/stars/Cr0wld3r/CVE-2025-69612">
+
+---
 ## CVE-2025-69581 ()
 > 
 - [Rivek619/CVE-2025-69581](https://github.com/Rivek619/CVE-2025-69581)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-69581">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-69581">

@@ -81,6 +81,7 @@
 ## CVE-2026-21962 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21962](https://github.com/Ashwesker/Ashwesker-CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21962">
+- [samael0x4/CVE-2026-21962](https://github.com/samael0x4/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/samael0x4/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/samael0x4/CVE-2026-21962">
 
 ---
 ## CVE-2026-21877 ()
