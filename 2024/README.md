@@ -2221,6 +2221,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-50526 ()
 > 
 - [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-50526-Private-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-50526-Private-POC">
+- [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526">
 
 ---
 ## CVE-2024-50509 ()
