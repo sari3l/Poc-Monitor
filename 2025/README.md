@@ -470,6 +470,11 @@
 - [mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS](https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">
 
 ---
+## CVE-2025-69822 ()
+> 
+- [CipherX1802/CVE-2025-69822-Atomberg_Erica_SmatFan_Security_Assessment](https://github.com/CipherX1802/CVE-2025-69822-Atomberg_Erica_SmatFan_Security_Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/CipherX1802/CVE-2025-69822-Atomberg_Erica_SmatFan_Security_Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/CipherX1802/CVE-2025-69822-Atomberg_Erica_SmatFan_Security_Assessment">
+
+---
 ## CVE-2025-69821 ()
 > 
 - [CipherX1802/CVE-2025-69821-Beat-XP-Vega-Smartwatch-Security-Assessment](https://github.com/CipherX1802/CVE-2025-69821-Beat-XP-Vega-Smartwatch-Security-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/CipherX1802/CVE-2025-69821-Beat-XP-Vega-Smartwatch-Security-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/CipherX1802/CVE-2025-69821-Beat-XP-Vega-Smartwatch-Security-Assessment">
@@ -723,6 +728,7 @@
 - [joker-xiaoyan/CVE-2025-67303](https://github.com/joker-xiaoyan/CVE-2025-67303)	<img alt="forks" src="https://img.shields.io/github/forks/joker-xiaoyan/CVE-2025-67303">	<img alt="stars" src="https://img.shields.io/github/stars/joker-xiaoyan/CVE-2025-67303">
 - [Arcueld/CVE-2025-67303-dnslog1235](https://github.com/Arcueld/CVE-2025-67303-dnslog1235)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-67303-dnslog1235">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-67303-dnslog1235">
 - [maybe-O/CVE-2025-67303](https://github.com/maybe-O/CVE-2025-67303)	<img alt="forks" src="https://img.shields.io/github/forks/maybe-O/CVE-2025-67303">	<img alt="stars" src="https://img.shields.io/github/stars/maybe-O/CVE-2025-67303">
+- [N1vi4/ComfyUI-Manager-CVE-2025-67303](https://github.com/N1vi4/ComfyUI-Manager-CVE-2025-67303)	<img alt="forks" src="https://img.shields.io/github/forks/N1vi4/ComfyUI-Manager-CVE-2025-67303">	<img alt="stars" src="https://img.shields.io/github/stars/N1vi4/ComfyUI-Manager-CVE-2025-67303">
 
 ---
 ## CVE-2025-67294 ()
