@@ -10284,6 +10284,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [OliveiraaX/-CVE-2024-10924](https://github.com/OliveiraaX/-CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/OliveiraaX/-CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/OliveiraaX/-CVE-2024-10924">
 - [ademto/wordpress-cve-2024-10924-pentest](https://github.com/ademto/wordpress-cve-2024-10924-pentest)	<img alt="forks" src="https://img.shields.io/github/forks/ademto/wordpress-cve-2024-10924-pentest">	<img alt="stars" src="https://img.shields.io/github/stars/ademto/wordpress-cve-2024-10924-pentest">
 - [bodoinon/CVE-2024-10924](https://github.com/bodoinon/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/bodoinon/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/bodoinon/CVE-2024-10924">
+- [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924">
 
 ---
 ## CVE-2024-10920 (2024-11-06T16:15:00)

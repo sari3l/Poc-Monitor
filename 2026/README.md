@@ -195,6 +195,11 @@
 - [fevar54/CVE-2026-0628-POC](https://github.com/fevar54/CVE-2026-0628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0628-POC">
 
 ---
+## CVE-2026-0594 ()
+> 
+- [m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit">
+
+---
 ## CVE-2026-0547 ()
 > 
 - [rsecroot/CVE-2026-0547](https://github.com/rsecroot/CVE-2026-0547)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2026-0547">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2026-0547">
