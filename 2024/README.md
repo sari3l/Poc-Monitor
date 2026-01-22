@@ -50,6 +50,7 @@
 > The Wux Blog Editor plugin for WordPress is vulnerable to arbitrary file uploads due to insufficient file type validation in the 'wuxbt_insertImageNew' function in versions up to, and including, 3.0.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [RandomRobbieBF/CVE-2024-9932](https://github.com/RandomRobbieBF/CVE-2024-9932)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9932">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9932">
 - [Nxploited/CVE-2024-9932-POC](https://github.com/Nxploited/CVE-2024-9932-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9932-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9932-POC">
+- [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932">
 
 ---
 ## CVE-2024-9890 (2024-10-26T03:15:00)
@@ -2234,6 +2235,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50498">
 - [p0et08/CVE-2024-50498](https://github.com/p0et08/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/p0et08/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/p0et08/CVE-2024-50498">
 - [Nxploited/CVE-2024-50498](https://github.com/Nxploited/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-50498">
+- [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498">
 
 ---
 ## CVE-2024-50493 (2024-10-29T08:15:00)
