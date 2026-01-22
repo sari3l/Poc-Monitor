@@ -42,6 +42,11 @@
 - [qzhodl/CVE-2026-22862](https://github.com/qzhodl/CVE-2026-22862)	<img alt="forks" src="https://img.shields.io/github/forks/qzhodl/CVE-2026-22862">	<img alt="stars" src="https://img.shields.io/github/stars/qzhodl/CVE-2026-22862">
 
 ---
+## CVE-2026-22844 ()
+> 
+- [Ashwesker/Ashwesker-CVE-2026-22844](https://github.com/Ashwesker/Ashwesker-CVE-2026-22844)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-22844">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-22844">
+
+---
 ## CVE-2026-22812 ()
 > 
 - [Udyz/CVE-2026-22812-Exp](https://github.com/Udyz/CVE-2026-22812-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2026-22812-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2026-22812-Exp">
