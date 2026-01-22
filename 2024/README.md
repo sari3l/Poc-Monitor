@@ -1937,6 +1937,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51793">
 
 ---
+## CVE-2024-51791 ()
+> 
+- [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51791](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51791)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51791">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-51791">
+
+---
 ## CVE-2024-51788 ()
 > 
 - [Nxploited/CVE-2024-51788](https://github.com/Nxploited/CVE-2024-51788)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-51788">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-51788">
