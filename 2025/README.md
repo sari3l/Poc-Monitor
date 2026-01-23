@@ -3942,6 +3942,7 @@
 - [DeathShotXD/CVE-2025-52691-APT-PoC](https://github.com/DeathShotXD/CVE-2025-52691-APT-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/CVE-2025-52691-APT-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/CVE-2025-52691-APT-PoC">
 - [sajjadsiam/CVE-2025-52691-poc](https://github.com/sajjadsiam/CVE-2025-52691-poc)	<img alt="forks" src="https://img.shields.io/github/forks/sajjadsiam/CVE-2025-52691-poc">	<img alt="stars" src="https://img.shields.io/github/stars/sajjadsiam/CVE-2025-52691-poc">
 - [hilwa24/CVE-2025-52691](https://github.com/hilwa24/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/hilwa24/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/hilwa24/CVE-2025-52691">
+- [ninjazan420/CVE-2025-52691-PoC-SmarterMail-authentication-bypass-exploit-WT-2026-0001](https://github.com/ninjazan420/CVE-2025-52691-PoC-SmarterMail-authentication-bypass-exploit-WT-2026-0001)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2025-52691-PoC-SmarterMail-authentication-bypass-exploit-WT-2026-0001">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2025-52691-PoC-SmarterMail-authentication-bypass-exploit-WT-2026-0001">
 
 ---
 ## CVE-2025-52689 ()
