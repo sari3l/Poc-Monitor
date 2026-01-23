@@ -196,6 +196,11 @@
 - [Ashwesker/Ashwesker-CVE-2026-20045](https://github.com/Ashwesker/Ashwesker-CVE-2026-20045)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-20045">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-20045">
 
 ---
+## CVE-2026-1208 ()
+> 
+- [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
+
+---
 ## CVE-2026-1107 ()
 > 
 - [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Iniivan13/CVE-2026-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Iniivan13/CVE-2026-1107">
