@@ -17,6 +17,7 @@
 - [yanxinwu946/CVE-2026-24061--telnetd](https://github.com/yanxinwu946/CVE-2026-24061--telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/CVE-2026-24061--telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/CVE-2026-24061--telnetd">
 - [SafeBreach-Labs/CVE-2026-24061](https://github.com/SafeBreach-Labs/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/CVE-2026-24061">
 - [h3athen/CVE-2026-24061](https://github.com/h3athen/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/h3athen/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/h3athen/CVE-2026-24061">
+- [xuemian168/CVE-2026-24061](https://github.com/xuemian168/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/xuemian168/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/xuemian168/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
@@ -99,6 +100,7 @@
 ## CVE-2026-22444 ()
 > 
 - [dptsec/CVE-2026-22444](https://github.com/dptsec/CVE-2026-22444)	<img alt="forks" src="https://img.shields.io/github/forks/dptsec/CVE-2026-22444">	<img alt="stars" src="https://img.shields.io/github/stars/dptsec/CVE-2026-22444">
+- [bfdfhdsfdd-crypto/CVE-2026-22444](https://github.com/bfdfhdsfdd-crypto/CVE-2026-22444)	<img alt="forks" src="https://img.shields.io/github/forks/bfdfhdsfdd-crypto/CVE-2026-22444">	<img alt="stars" src="https://img.shields.io/github/stars/bfdfhdsfdd-crypto/CVE-2026-22444">
 
 ---
 ## CVE-2026-22200 ()
