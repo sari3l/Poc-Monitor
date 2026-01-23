@@ -87,6 +87,11 @@
 - [ThemeHackers/CVE-2026-22804](https://github.com/ThemeHackers/CVE-2026-22804)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2026-22804">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2026-22804">
 
 ---
+## CVE-2026-22794 ()
+> 
+- [MalikHamza7/CVE-2026-22794-POC](https://github.com/MalikHamza7/CVE-2026-22794-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MalikHamza7/CVE-2026-22794-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MalikHamza7/CVE-2026-22794-POC">
+
+---
 ## CVE-2026-22785 ()
 > 
 - [langbyyi/CVE-2026-22785](https://github.com/langbyyi/CVE-2026-22785)	<img alt="forks" src="https://img.shields.io/github/forks/langbyyi/CVE-2026-22785">	<img alt="stars" src="https://img.shields.io/github/stars/langbyyi/CVE-2026-22785">
