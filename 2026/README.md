@@ -22,6 +22,7 @@
 - [Ashwesker/Ashwesker-CVE-2026-24061](https://github.com/Ashwesker/Ashwesker-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-24061">
 - [m3ngx1ng/cve_2026_24061_cli](https://github.com/m3ngx1ng/cve_2026_24061_cli)	<img alt="forks" src="https://img.shields.io/github/forks/m3ngx1ng/cve_2026_24061_cli">	<img alt="stars" src="https://img.shields.io/github/stars/m3ngx1ng/cve_2026_24061_cli">
 - [r00tuser111/CVE-2026-24061](https://github.com/r00tuser111/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/r00tuser111/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/r00tuser111/CVE-2026-24061">
+- [balgan/CVE-2026-24061](https://github.com/balgan/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/balgan/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/balgan/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
