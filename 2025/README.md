@@ -3442,6 +3442,7 @@
 - [Supertej0622/CVE-2025-55182-bypass](https://github.com/Supertej0622/CVE-2025-55182-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Supertej0622/CVE-2025-55182-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Supertej0622/CVE-2025-55182-bypass">
 - [Supertej0622/supertej0622.github.io](https://github.com/Supertej0622/supertej0622.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Supertej0622/supertej0622.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Supertej0622/supertej0622.github.io">
 - [MemerGamer/CVE-2025-55182](https://github.com/MemerGamer/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MemerGamer/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MemerGamer/CVE-2025-55182">
+- [Sairbo/Unihackers---CVE-2025-55182-](https://github.com/Sairbo/Unihackers---CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/Sairbo/Unihackers---CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/Sairbo/Unihackers---CVE-2025-55182-">
 
 ---
 ## CVE-2025-54988 ()
