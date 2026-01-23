@@ -1496,6 +1496,11 @@ QuTScloud c5.1.5.2651 and later
 - [Cyber-Wo0dy/CVE-2023-47129](https://github.com/Cyber-Wo0dy/CVE-2023-47129)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-47129">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-47129">
 
 ---
+## CVE-2023-47125 ()
+> 
+- [nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125](https://github.com/nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125)	<img alt="forks" src="https://img.shields.io/github/forks/nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125">	<img alt="stars" src="https://img.shields.io/github/stars/nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125">
+
+---
 ## CVE-2023-47119 (2023-11-10T15:15:00)
 > Discourse is an open source platform for community discussion. Prior to version 3.1.3 of the `stable` branch and version 3.2.0.beta3 of the `beta` and `tests-passed` branches, some links can inject arbitrary HTML tags when rendered through our Onebox engine. The issue is patched in version 3.1.3 of the `stable` branch and version 3.2.0.beta3 of the `beta` and `tests-passed` branches. There are no known workarounds.
 - [BaadMaro/CVE-2023-47119](https://github.com/BaadMaro/CVE-2023-47119)	<img alt="forks" src="https://img.shields.io/github/forks/BaadMaro/CVE-2023-47119">	<img alt="stars" src="https://img.shields.io/github/stars/BaadMaro/CVE-2023-47119">
