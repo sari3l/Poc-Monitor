@@ -27,6 +27,7 @@
 - [hackingyseguridad/root](https://github.com/hackingyseguridad/root)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/root">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/root">
 - [z3n70/CVE-2026-24061](https://github.com/z3n70/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/z3n70/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/z3n70/CVE-2026-24061">
 - [Mr-Zapi/CVE-2026-24061](https://github.com/Mr-Zapi/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Zapi/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Zapi/CVE-2026-24061">
+- [midox008/CVE-2026-24061](https://github.com/midox008/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/midox008/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/midox008/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
