@@ -465,6 +465,11 @@
 - [mathavamoorthi/CVE-2025-70899](https://github.com/mathavamoorthi/CVE-2025-70899)	<img alt="forks" src="https://img.shields.io/github/forks/mathavamoorthi/CVE-2025-70899">	<img alt="stars" src="https://img.shields.io/github/stars/mathavamoorthi/CVE-2025-70899">
 
 ---
+## CVE-2025-70368 ()
+> 
+- [Stolichnayer/CVE-2025-70368](https://github.com/Stolichnayer/CVE-2025-70368)	<img alt="forks" src="https://img.shields.io/github/forks/Stolichnayer/CVE-2025-70368">	<img alt="stars" src="https://img.shields.io/github/stars/Stolichnayer/CVE-2025-70368">
+
+---
 ## CVE-2025-6998 ()
 > 
 - [mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS](https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">
