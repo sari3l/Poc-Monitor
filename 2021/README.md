@@ -5896,6 +5896,7 @@
 - [Alonzozzz/alonzzzo](https://github.com/Alonzozzz/alonzzzo)	<img alt="forks" src="https://img.shields.io/github/forks/Alonzozzz/alonzzzo">	<img alt="stars" src="https://img.shields.io/github/stars/Alonzozzz/alonzzzo">
 - [dorkerdevil/CVE-2021-33044](https://github.com/dorkerdevil/CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-33044">
 - [bp2008/DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass)	<img alt="forks" src="https://img.shields.io/github/forks/bp2008/DahuaLoginBypass">	<img alt="stars" src="https://img.shields.io/github/stars/bp2008/DahuaLoginBypass">
+- [Baza-NATO/CVE-2021-33044](https://github.com/Baza-NATO/CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/Baza-NATO/CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/Baza-NATO/CVE-2021-33044">
 
 ---
 ## CVE-2021-33037 (2021-07-12T15:15:00)
