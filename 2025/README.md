@@ -621,6 +621,7 @@
 - [ahmedshamsddin/n8n-RCE-CVE-2025-68613](https://github.com/ahmedshamsddin/n8n-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedshamsddin/n8n-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedshamsddin/n8n-RCE-CVE-2025-68613">
 - [TheInterception/n8n_CVE-2025-68613_exploit_payloads](https://github.com/TheInterception/n8n_CVE-2025-68613_exploit_payloads)	<img alt="forks" src="https://img.shields.io/github/forks/TheInterception/n8n_CVE-2025-68613_exploit_payloads">	<img alt="stars" src="https://img.shields.io/github/stars/TheInterception/n8n_CVE-2025-68613_exploit_payloads">
 - [shibaaa204/CVE-2025-68613](https://github.com/shibaaa204/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/CVE-2025-68613">
+- [Victorhugofariasvieir66/relatorio-n8n.md](https://github.com/Victorhugofariasvieir66/relatorio-n8n.md)	<img alt="forks" src="https://img.shields.io/github/forks/Victorhugofariasvieir66/relatorio-n8n.md">	<img alt="stars" src="https://img.shields.io/github/stars/Victorhugofariasvieir66/relatorio-n8n.md">
 
 ---
 ## CVE-2025-6860 ()
@@ -1243,6 +1244,11 @@
 ## CVE-2025-65270 ()
 > 
 - [xh4vm/CVE-2025-65270](https://github.com/xh4vm/CVE-2025-65270)	<img alt="forks" src="https://img.shields.io/github/forks/xh4vm/CVE-2025-65270">	<img alt="stars" src="https://img.shields.io/github/stars/xh4vm/CVE-2025-65270">
+
+---
+## CVE-2025-65264 ()
+> 
+- [cwjchoi01/CVE-2025-65264](https://github.com/cwjchoi01/CVE-2025-65264)	<img alt="forks" src="https://img.shields.io/github/forks/cwjchoi01/CVE-2025-65264">	<img alt="stars" src="https://img.shields.io/github/stars/cwjchoi01/CVE-2025-65264">
 
 ---
 ## CVE-2025-6514 ()
