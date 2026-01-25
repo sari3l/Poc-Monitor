@@ -69,6 +69,7 @@
 - [issamjr/CVE-2024-9796](https://github.com/issamjr/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2024-9796">
 - [viniciuslazzari/CVE-2024-9796](https://github.com/viniciuslazzari/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/viniciuslazzari/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/viniciuslazzari/CVE-2024-9796">
 - [BwithE/CVE-2024-9796](https://github.com/BwithE/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/BwithE/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/BwithE/CVE-2024-9796">
+- [yup-Ivan/CVE-2024-9796](https://github.com/yup-Ivan/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/yup-Ivan/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/yup-Ivan/CVE-2024-9796">
 
 ---
 ## CVE-2024-9756 ()

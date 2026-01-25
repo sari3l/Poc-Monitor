@@ -69,6 +69,7 @@
 - [rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287](https://github.com/rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287">
 - [nika0x38/CVE-2014-6287](https://github.com/nika0x38/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/nika0x38/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/nika0x38/CVE-2014-6287">
 - [JoaZ94/rejjeto_hfs-rce-exploit-cve-2014-6287](https://github.com/JoaZ94/rejjeto_hfs-rce-exploit-cve-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/JoaZ94/rejjeto_hfs-rce-exploit-cve-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/JoaZ94/rejjeto_hfs-rce-exploit-cve-2014-6287">
+- [jagg3rsec/CVE-2014-6287](https://github.com/jagg3rsec/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/jagg3rsec/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/jagg3rsec/CVE-2014-6287">
 
 ---
 ## CVE-2014-6271 (2014-09-24T18:48:00)
