@@ -9424,6 +9424,11 @@
 - [byteReaper77/CVE-2025-10046](https://github.com/byteReaper77/CVE-2025-10046)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-10046">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-10046">
 
 ---
+## CVE-2025-10042 ()
+> 
+- [fumioryoto/Quiz-Maker-SQL-Injection-CVE-2025-10042](https://github.com/fumioryoto/Quiz-Maker-SQL-Injection-CVE-2025-10042)	<img alt="forks" src="https://img.shields.io/github/forks/fumioryoto/Quiz-Maker-SQL-Injection-CVE-2025-10042">	<img alt="stars" src="https://img.shields.io/github/stars/fumioryoto/Quiz-Maker-SQL-Injection-CVE-2025-10042">
+
+---
 ## CVE-2025-10041 ()
 > 
 - [Nxploited/CVE-2025-10041](https://github.com/Nxploited/CVE-2025-10041)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-10041">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-10041">
