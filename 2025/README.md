@@ -8999,6 +8999,11 @@
 - [Rimas214/CVE-2025-13377-Exploit](https://github.com/Rimas214/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Rimas214/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Rimas214/CVE-2025-13377-Exploit">
 
 ---
+## CVE-2025-13374 ()
+> 
+- [boroeurnprach/CVE-2025-13374](https://github.com/boroeurnprach/CVE-2025-13374)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-13374">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-13374">
+
+---
 ## CVE-2025-13372 ()
 > 
 - [Ashwesker/Blackash-CVE-2025-13372](https://github.com/Ashwesker/Blackash-CVE-2025-13372)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-13372">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-13372">
