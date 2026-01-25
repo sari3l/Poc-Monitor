@@ -40,6 +40,7 @@
 - [madfxr/Twenty-Three-Scanner](https://github.com/madfxr/Twenty-Three-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/madfxr/Twenty-Three-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/madfxr/Twenty-Three-Scanner">
 - [Alter-N0X/CVE-2026-24061-POC](https://github.com/Alter-N0X/CVE-2026-24061-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Alter-N0X/CVE-2026-24061-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Alter-N0X/CVE-2026-24061-POC">
 - [typeconfused/CVE-2026-24061](https://github.com/typeconfused/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/typeconfused/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/typeconfused/CVE-2026-24061">
+- [infat0x/CVE-2026-24061](https://github.com/infat0x/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/infat0x/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/infat0x/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
