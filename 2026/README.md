@@ -42,6 +42,7 @@
 - [typeconfused/CVE-2026-24061](https://github.com/typeconfused/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/typeconfused/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/typeconfused/CVE-2026-24061">
 - [infat0x/CVE-2026-24061](https://github.com/infat0x/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/infat0x/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/infat0x/CVE-2026-24061">
 - [ms0x08-dev/CVE-2026-24061-POC](https://github.com/ms0x08-dev/CVE-2026-24061-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ms0x08-dev/CVE-2026-24061-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ms0x08-dev/CVE-2026-24061-POC">
+- [punitdarji/telnetd-cve-2026-24061](https://github.com/punitdarji/telnetd-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/telnetd-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/telnetd-cve-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
