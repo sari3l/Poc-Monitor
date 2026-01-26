@@ -745,6 +745,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [xiaoqiao147/cve-2024-666](https://github.com/xiaoqiao147/cve-2024-666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/cve-2024-666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/cve-2024-666">
 
 ---
+## CVE-2024-6651 ()
+> 
+- [yup-Ivan/CVE-2024-6651](https://github.com/yup-Ivan/CVE-2024-6651)	<img alt="forks" src="https://img.shields.io/github/forks/yup-Ivan/CVE-2024-6651">	<img alt="stars" src="https://img.shields.io/github/stars/yup-Ivan/CVE-2024-6651">
+
+---
 ## CVE-2024-6648 ()
 > 
 - [n0d0n/CVE-2024-6648](https://github.com/n0d0n/CVE-2024-6648)	<img alt="forks" src="https://img.shields.io/github/forks/n0d0n/CVE-2024-6648">	<img alt="stars" src="https://img.shields.io/github/stars/n0d0n/CVE-2024-6648">
