@@ -7353,6 +7353,11 @@
 - [tin-z/CVE-2025-27363](https://github.com/tin-z/CVE-2025-27363)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2025-27363">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2025-27363">
 
 ---
+## CVE-2025-27237 ()
+> 
+- [HackingLZ/CVE-2025-27237](https://github.com/HackingLZ/CVE-2025-27237)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/CVE-2025-27237">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/CVE-2025-27237">
+
+---
 ## CVE-2025-27210 ()
 > 
 - [absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit](https://github.com/absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit">
