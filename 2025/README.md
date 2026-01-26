@@ -6975,6 +6975,9 @@
 - [BugHawak/CVE-2025-29927](https://github.com/BugHawak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BugHawak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BugHawak/CVE-2025-29927">
 - [liamromanis101/CVE-2025-29927-NextJS](https://github.com/liamromanis101/CVE-2025-29927-NextJS)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/CVE-2025-29927-NextJS">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/CVE-2025-29927-NextJS">
 - [radzek15/CVE-2025-29927-Next.js-middleware](https://github.com/radzek15/CVE-2025-29927-Next.js-middleware)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2025-29927-Next.js-middleware">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2025-29927-Next.js-middleware">
+- [DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC](https://github.com/DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC">
+- [jehovahsays/mev](https://github.com/jehovahsays/mev)	<img alt="forks" src="https://img.shields.io/github/forks/jehovahsays/mev">	<img alt="stars" src="https://img.shields.io/github/stars/jehovahsays/mev">
+- [N3k0t-dev/bughunter-cyber-intel-dashboard](https://github.com/N3k0t-dev/bughunter-cyber-intel-dashboard)	<img alt="forks" src="https://img.shields.io/github/forks/N3k0t-dev/bughunter-cyber-intel-dashboard">	<img alt="stars" src="https://img.shields.io/github/stars/N3k0t-dev/bughunter-cyber-intel-dashboard">
 
 ---
 ## CVE-2025-29891 ()
