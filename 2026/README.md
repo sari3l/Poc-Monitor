@@ -44,6 +44,8 @@
 - [ms0x08-dev/CVE-2026-24061-POC](https://github.com/ms0x08-dev/CVE-2026-24061-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ms0x08-dev/CVE-2026-24061-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ms0x08-dev/CVE-2026-24061-POC">
 - [punitdarji/telnetd-cve-2026-24061](https://github.com/punitdarji/telnetd-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/telnetd-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/telnetd-cve-2026-24061">
 - [XsanFlip/CVE-2026-24061-Scanner](https://github.com/XsanFlip/CVE-2026-24061-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-24061-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-24061-Scanner">
+- [LionKing-2022/CVE-2026-24061-GUI-Tool](https://github.com/LionKing-2022/CVE-2026-24061-GUI-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/LionKing-2022/CVE-2026-24061-GUI-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/LionKing-2022/CVE-2026-24061-GUI-Tool">
+- [LionKing-2022/cve-2026-24061-gui](https://github.com/LionKing-2022/cve-2026-24061-gui)	<img alt="forks" src="https://img.shields.io/github/forks/LionKing-2022/cve-2026-24061-gui">	<img alt="stars" src="https://img.shields.io/github/stars/LionKing-2022/cve-2026-24061-gui">
 
 ---
 ## CVE-2026-2395 ()
@@ -150,6 +152,7 @@
 - [samael0x4/CVE-2026-21962](https://github.com/samael0x4/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/samael0x4/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/samael0x4/CVE-2026-21962">
 - [gglessner/cve_2026_21962_scanner](https://github.com/gglessner/cve_2026_21962_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gglessner/cve_2026_21962_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gglessner/cve_2026_21962_scanner">
 - [gglessner/cve_2026_21962_scanner](https://github.com/gglessner/cve_2026_21962_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gglessner/cve_2026_21962_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gglessner/cve_2026_21962_scanner">
+- [ThumpBo/CVE-2026-21962](https://github.com/ThumpBo/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/ThumpBo/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/ThumpBo/CVE-2026-21962">
 
 ---
 ## CVE-2026-21877 ()
