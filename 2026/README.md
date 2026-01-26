@@ -11,6 +11,11 @@
 - [boroeurnprach/CVE-2026-24422_PoC](https://github.com/boroeurnprach/CVE-2026-24422_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-24422_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-24422_PoC">
 
 ---
+## CVE-2026-24306 ()
+> 
+- [b1gchoi/CVE-2026-24306](https://github.com/b1gchoi/CVE-2026-24306)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-24306">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-24306">
+
+---
 ## CVE-2026-24061 ()
 > 
 - [TryA9ain/CVE-2026-24061](https://github.com/TryA9ain/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/TryA9ain/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/TryA9ain/CVE-2026-24061">
@@ -46,6 +51,7 @@
 - [XsanFlip/CVE-2026-24061-Scanner](https://github.com/XsanFlip/CVE-2026-24061-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-24061-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-24061-Scanner">
 - [LionKing-2022/CVE-2026-24061-GUI-Tool](https://github.com/LionKing-2022/CVE-2026-24061-GUI-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/LionKing-2022/CVE-2026-24061-GUI-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/LionKing-2022/CVE-2026-24061-GUI-Tool">
 - [LionKing-2022/cve-2026-24061-gui](https://github.com/LionKing-2022/cve-2026-24061-gui)	<img alt="forks" src="https://img.shields.io/github/forks/LionKing-2022/cve-2026-24061-gui">	<img alt="stars" src="https://img.shields.io/github/stars/LionKing-2022/cve-2026-24061-gui">
+- [LionKing-2022/cve-2026-24061-exploit-tool](https://github.com/LionKing-2022/cve-2026-24061-exploit-tool)	<img alt="forks" src="https://img.shields.io/github/forks/LionKing-2022/cve-2026-24061-exploit-tool">	<img alt="stars" src="https://img.shields.io/github/stars/LionKing-2022/cve-2026-24061-exploit-tool">
 
 ---
 ## CVE-2026-2395 ()
