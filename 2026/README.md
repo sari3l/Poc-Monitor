@@ -43,6 +43,7 @@
 - [infat0x/CVE-2026-24061](https://github.com/infat0x/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/infat0x/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/infat0x/CVE-2026-24061">
 - [ms0x08-dev/CVE-2026-24061-POC](https://github.com/ms0x08-dev/CVE-2026-24061-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ms0x08-dev/CVE-2026-24061-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ms0x08-dev/CVE-2026-24061-POC">
 - [punitdarji/telnetd-cve-2026-24061](https://github.com/punitdarji/telnetd-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/telnetd-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/telnetd-cve-2026-24061">
+- [XsanFlip/CVE-2026-24061-Scanner](https://github.com/XsanFlip/CVE-2026-24061-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-24061-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-24061-Scanner">
 
 ---
 ## CVE-2026-2395 ()
