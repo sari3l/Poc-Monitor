@@ -52,6 +52,7 @@
 - [LionKing-2022/CVE-2026-24061-GUI-Tool](https://github.com/LionKing-2022/CVE-2026-24061-GUI-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/LionKing-2022/CVE-2026-24061-GUI-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/LionKing-2022/CVE-2026-24061-GUI-Tool">
 - [LionKing-2022/cve-2026-24061-gui](https://github.com/LionKing-2022/cve-2026-24061-gui)	<img alt="forks" src="https://img.shields.io/github/forks/LionKing-2022/cve-2026-24061-gui">	<img alt="stars" src="https://img.shields.io/github/stars/LionKing-2022/cve-2026-24061-gui">
 - [Lingzesec/cve-2026-24061-GUI](https://github.com/Lingzesec/cve-2026-24061-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/Lingzesec/cve-2026-24061-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/Lingzesec/cve-2026-24061-GUI">
+- [LucasPDiniz/CVE-2026-24061](https://github.com/LucasPDiniz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
