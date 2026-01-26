@@ -7866,6 +7866,7 @@
 - [BreakingRohit/CVE-2025-24893-PoC](https://github.com/BreakingRohit/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BreakingRohit/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BreakingRohit/CVE-2025-24893-PoC">
 - [hitchy22/xwiki-exploit](https://github.com/hitchy22/xwiki-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hitchy22/xwiki-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hitchy22/xwiki-exploit">
 - [TomKingori/xwiki-cve-2025-24893-exploit](https://github.com/TomKingori/xwiki-cve-2025-24893-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TomKingori/xwiki-cve-2025-24893-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TomKingori/xwiki-cve-2025-24893-exploit">
+- [nohack1212/CVE-2025-24893-](https://github.com/nohack1212/CVE-2025-24893-)	<img alt="forks" src="https://img.shields.io/github/forks/nohack1212/CVE-2025-24893-">	<img alt="stars" src="https://img.shields.io/github/stars/nohack1212/CVE-2025-24893-">
 
 ---
 ## CVE-2025-24813 ()
