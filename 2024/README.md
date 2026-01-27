@@ -8664,6 +8664,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [Betan423/CVE-2024-23334-PoC](https://github.com/Betan423/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Betan423/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Betan423/CVE-2024-23334-PoC">
 - [BestDevOfc/CVE-2024-23334-PoC](https://github.com/BestDevOfc/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BestDevOfc/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BestDevOfc/CVE-2024-23334-PoC">
 - [Sn0wBaall/CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sn0wBaall/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sn0wBaall/CVE-2024-23334-PoC">
+- [Sn0wBaall/CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sn0wBaall/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sn0wBaall/CVE-2024-23334-PoC">
 
 ---
 ## CVE-2024-23298 ()
