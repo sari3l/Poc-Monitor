@@ -195,6 +195,11 @@
 - [NOTTIBOY137/RulesGuard](https://github.com/NOTTIBOY137/RulesGuard)	<img alt="forks" src="https://img.shields.io/github/forks/NOTTIBOY137/RulesGuard">	<img alt="stars" src="https://img.shields.io/github/stars/NOTTIBOY137/RulesGuard">
 
 ---
+## CVE-2026-21509 ()
+> 
+- [Ashwesker/Ashwesker-CVE-2026-21509](https://github.com/Ashwesker/Ashwesker-CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21509">
+
+---
 ## CVE-2026-21451 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21451](https://github.com/Ashwesker/Ashwesker-CVE-2026-21451)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21451">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21451">
