@@ -10112,6 +10112,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [TheN00bBuilder/cve-2024-11477-writeup](https://github.com/TheN00bBuilder/cve-2024-11477-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/TheN00bBuilder/cve-2024-11477-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/TheN00bBuilder/cve-2024-11477-writeup">
 
 ---
+## CVE-2024-11467 ()
+> 
+- [null-event/CVE-2024-11467](https://github.com/null-event/CVE-2024-11467)	<img alt="forks" src="https://img.shields.io/github/forks/null-event/CVE-2024-11467">	<img alt="stars" src="https://img.shields.io/github/stars/null-event/CVE-2024-11467">
+
+---
 ## CVE-2024-11451 ()
 > 
 - [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451)	<img alt="forks" src="https://img.shields.io/github/forks/Xiaolqy/CVE-2024-11451">	<img alt="stars" src="https://img.shields.io/github/stars/Xiaolqy/CVE-2024-11451">
