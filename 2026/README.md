@@ -59,6 +59,7 @@
 - [Lingzesec/CVE-2026-24061-GUI](https://github.com/Lingzesec/CVE-2026-24061-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/Lingzesec/CVE-2026-24061-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/Lingzesec/CVE-2026-24061-GUI">
 - [LucasPDiniz/CVE-2026-24061](https://github.com/LucasPDiniz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2026-24061">
 - [FurkanKAYAPINAR/CVE-2026-24061-telnet2root](https://github.com/FurkanKAYAPINAR/CVE-2026-24061-telnet2root)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2026-24061-telnet2root">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2026-24061-telnet2root">
+- [androidteacher/CVE-2026-24061-PoC-Telnetd](https://github.com/androidteacher/CVE-2026-24061-PoC-Telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/androidteacher/CVE-2026-24061-PoC-Telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/androidteacher/CVE-2026-24061-PoC-Telnetd">
 
 ---
 ## CVE-2026-2395 ()
