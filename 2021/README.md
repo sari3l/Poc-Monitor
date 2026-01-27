@@ -1239,10 +1239,11 @@
 - [abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester](https://github.com/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester)	<img alt="forks" src="https://img.shields.io/github/forks/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester">	<img alt="stars" src="https://img.shields.io/github/stars/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester">
 - [suljov/Grafana-LFI-exploit](https://github.com/suljov/Grafana-LFI-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/suljov/Grafana-LFI-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/suljov/Grafana-LFI-exploit">
 - [hxlxmj/Grafxploit](https://github.com/hxlxmj/Grafxploit)	<img alt="forks" src="https://img.shields.io/github/forks/hxlxmj/Grafxploit">	<img alt="stars" src="https://img.shields.io/github/stars/hxlxmj/Grafxploit">
-- [f3d0rq/CVE-2021-43798](https://github.com/f3d0rq/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/f3d0rq/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/f3d0rq/CVE-2021-43798">
+- [0xf3d0rq/CVE-2021-43798](https://github.com/0xf3d0rq/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/0xf3d0rq/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/0xf3d0rq/CVE-2021-43798">
 - [strikoder/Grafana-CVE-2021-43798-Python](https://github.com/strikoder/Grafana-CVE-2021-43798-Python)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/Grafana-CVE-2021-43798-Python">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/Grafana-CVE-2021-43798-Python">
 - [baktistr/cve-2021-43798-enum](https://github.com/baktistr/cve-2021-43798-enum)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2021-43798-enum">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2021-43798-enum">
 - [strikoder/Grafana-Password-Decryptor](https://github.com/strikoder/Grafana-Password-Decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/Grafana-Password-Decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/Grafana-Password-Decryptor">
+- [notbside/CVE-2021-43798-PoC](https://github.com/notbside/CVE-2021-43798-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/notbside/CVE-2021-43798-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/notbside/CVE-2021-43798-PoC">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
