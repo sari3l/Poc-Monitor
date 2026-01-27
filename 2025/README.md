@@ -3462,6 +3462,7 @@
 - [MemerGamer/CVE-2025-55182](https://github.com/MemerGamer/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MemerGamer/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MemerGamer/CVE-2025-55182">
 - [Sairbo/Unihackers---CVE-2025-55182-](https://github.com/Sairbo/Unihackers---CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/Sairbo/Unihackers---CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/Sairbo/Unihackers---CVE-2025-55182-">
 - [lizimu1518-snow/cve-2025-55182](https://github.com/lizimu1518-snow/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lizimu1518-snow/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lizimu1518-snow/cve-2025-55182">
+- [AsadAhmad-1337/React-2-Shell](https://github.com/AsadAhmad-1337/React-2-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/AsadAhmad-1337/React-2-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/AsadAhmad-1337/React-2-Shell">
 
 ---
 ## CVE-2025-54988 ()
