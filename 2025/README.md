@@ -2487,6 +2487,11 @@
 - [restdone/CVE-2025-57457](https://github.com/restdone/CVE-2025-57457)	<img alt="forks" src="https://img.shields.io/github/forks/restdone/CVE-2025-57457">	<img alt="stars" src="https://img.shields.io/github/stars/restdone/CVE-2025-57457">
 
 ---
+## CVE-2025-57428 ()
+> 
+- [5ulfur/CVE-2025-57428](https://github.com/5ulfur/CVE-2025-57428)	<img alt="forks" src="https://img.shields.io/github/forks/5ulfur/CVE-2025-57428">	<img alt="stars" src="https://img.shields.io/github/stars/5ulfur/CVE-2025-57428">
+
+---
 ## CVE-2025-57392 ()
 > 
 - [meisterlos/CVE-2025-57392](https://github.com/meisterlos/CVE-2025-57392)	<img alt="forks" src="https://img.shields.io/github/forks/meisterlos/CVE-2025-57392">	<img alt="stars" src="https://img.shields.io/github/stars/meisterlos/CVE-2025-57392">
