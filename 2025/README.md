@@ -3610,6 +3610,7 @@
 - [chin-tech/CrushFTP_CVE-2025-54309](https://github.com/chin-tech/CrushFTP_CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/chin-tech/CrushFTP_CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/chin-tech/CrushFTP_CVE-2025-54309">
 - [Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309">
 - [foregenix/CVE-2025-54309](https://github.com/foregenix/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/foregenix/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/foregenix/CVE-2025-54309">
+- [0xLittleSpidy/CVE-2025-54309](https://github.com/0xLittleSpidy/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/0xLittleSpidy/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/0xLittleSpidy/CVE-2025-54309">
 
 ---
 ## CVE-2025-54253 ()
