@@ -2242,6 +2242,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [p0et08/CVE-2024-50498](https://github.com/p0et08/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/p0et08/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/p0et08/CVE-2024-50498">
 - [Nxploited/CVE-2024-50498](https://github.com/Nxploited/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-50498">
 - [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498">
+- [androidteacher/CVE-2024-50498-wpquery](https://github.com/androidteacher/CVE-2024-50498-wpquery)	<img alt="forks" src="https://img.shields.io/github/forks/androidteacher/CVE-2024-50498-wpquery">	<img alt="stars" src="https://img.shields.io/github/stars/androidteacher/CVE-2024-50498-wpquery">
 
 ---
 ## CVE-2024-50493 (2024-10-29T08:15:00)
