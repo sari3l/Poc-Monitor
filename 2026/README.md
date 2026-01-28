@@ -62,6 +62,7 @@
 - [androidteacher/CVE-2026-24061-PoC-Telnetd](https://github.com/androidteacher/CVE-2026-24061-PoC-Telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/androidteacher/CVE-2026-24061-PoC-Telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/androidteacher/CVE-2026-24061-PoC-Telnetd">
 - [novitahk/Exploit-CVE-2026-24061](https://github.com/novitahk/Exploit-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/novitahk/Exploit-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/novitahk/Exploit-CVE-2026-24061">
 - [cumakurt/tscan](https://github.com/cumakurt/tscan)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/tscan">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/tscan">
+- [Gabs-hub/CVE-2026-24061_Lab](https://github.com/Gabs-hub/CVE-2026-24061_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Gabs-hub/CVE-2026-24061_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Gabs-hub/CVE-2026-24061_Lab">
 
 ---
 ## CVE-2026-2395 ()
