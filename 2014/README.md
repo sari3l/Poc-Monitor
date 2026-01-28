@@ -742,6 +742,7 @@
 - [musalbas/heartbleed-masstest](https://github.com/musalbas/heartbleed-masstest)	<img alt="forks" src="https://img.shields.io/github/forks/musalbas/heartbleed-masstest">	<img alt="stars" src="https://img.shields.io/github/stars/musalbas/heartbleed-masstest">
 - [timsonner/cve-2014-0160-heartbleed](https://github.com/timsonner/cve-2014-0160-heartbleed)	<img alt="forks" src="https://img.shields.io/github/forks/timsonner/cve-2014-0160-heartbleed">	<img alt="stars" src="https://img.shields.io/github/stars/timsonner/cve-2014-0160-heartbleed">
 - [Yash-Thakkar77/CVE-2014-0160-HeartBleed](https://github.com/Yash-Thakkar77/CVE-2014-0160-HeartBleed)	<img alt="forks" src="https://img.shields.io/github/forks/Yash-Thakkar77/CVE-2014-0160-HeartBleed">	<img alt="stars" src="https://img.shields.io/github/stars/Yash-Thakkar77/CVE-2014-0160-HeartBleed">
+- [SimoesCTT/CTT-HEARTBLEED-Temporal-Resonance-Memory-Leak-Exploit-Heartbleed-CVE-2014-0160](https://github.com/SimoesCTT/CTT-HEARTBLEED-Temporal-Resonance-Memory-Leak-Exploit-Heartbleed-CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-HEARTBLEED-Temporal-Resonance-Memory-Leak-Exploit-Heartbleed-CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-HEARTBLEED-Temporal-Resonance-Memory-Leak-Exploit-Heartbleed-CVE-2014-0160">
 
 ---
 ## CVE-2014-016 ()
