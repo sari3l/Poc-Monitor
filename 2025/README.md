@@ -8780,6 +8780,11 @@
 - [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550)	<img alt="forks" src="https://img.shields.io/github/forks/ChCh0i/cve-2025-1550">	<img alt="stars" src="https://img.shields.io/github/stars/ChCh0i/cve-2025-1550">
 
 ---
+## CVE-2025-15467 ()
+> 
+- [balgan/CVE-2025-15467](https://github.com/balgan/CVE-2025-15467)	<img alt="forks" src="https://img.shields.io/github/forks/balgan/CVE-2025-15467">	<img alt="stars" src="https://img.shields.io/github/stars/balgan/CVE-2025-15467">
+
+---
 ## CVE-2025-15406 ()
 > 
 - [rsecroot/CVE-2025-15406](https://github.com/rsecroot/CVE-2025-15406)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2025-15406">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2025-15406">
