@@ -63,6 +63,7 @@
 - [novitahk/Exploit-CVE-2026-24061](https://github.com/novitahk/Exploit-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/novitahk/Exploit-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/novitahk/Exploit-CVE-2026-24061">
 - [cumakurt/tscan](https://github.com/cumakurt/tscan)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/tscan">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/tscan">
 - [Gabs-hub/CVE-2026-24061_Lab](https://github.com/Gabs-hub/CVE-2026-24061_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Gabs-hub/CVE-2026-24061_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Gabs-hub/CVE-2026-24061_Lab">
+- [MY0723/GNU-Inetutils-telnet-CVE-2026-24061-](https://github.com/MY0723/GNU-Inetutils-telnet-CVE-2026-24061-)	<img alt="forks" src="https://img.shields.io/github/forks/MY0723/GNU-Inetutils-telnet-CVE-2026-24061-">	<img alt="stars" src="https://img.shields.io/github/stars/MY0723/GNU-Inetutils-telnet-CVE-2026-24061-">
 
 ---
 ## CVE-2026-2395 ()
