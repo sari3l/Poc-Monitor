@@ -5416,6 +5416,9 @@
 - [zeroxjf/CVE-2025-43529-analysis](https://github.com/zeroxjf/CVE-2025-43529-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2025-43529-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2025-43529-analysis">
 - [jir4vv1t/CVE-2025-43529](https://github.com/jir4vv1t/CVE-2025-43529)	<img alt="forks" src="https://img.shields.io/github/forks/jir4vv1t/CVE-2025-43529">	<img alt="stars" src="https://img.shields.io/github/stars/jir4vv1t/CVE-2025-43529">
 - [SimoesCTT/Convergent-Time-Theory-Enhanced-iOS-Safari-RCE-CVE-2025-43529-](https://github.com/SimoesCTT/Convergent-Time-Theory-Enhanced-iOS-Safari-RCE-CVE-2025-43529-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/Convergent-Time-Theory-Enhanced-iOS-Safari-RCE-CVE-2025-43529-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/Convergent-Time-Theory-Enhanced-iOS-Safari-RCE-CVE-2025-43529-">
+- [sakyu7/sakyu7.github.io](https://github.com/sakyu7/sakyu7.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/sakyu7/sakyu7.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/sakyu7/sakyu7.github.io">
+- [zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis](https://github.com/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis">
+- [SgtBattenHA/Analysis](https://github.com/SgtBattenHA/Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/SgtBattenHA/Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/SgtBattenHA/Analysis">
 
 ---
 ## CVE-2025-43504 ()
