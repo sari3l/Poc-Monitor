@@ -6,6 +6,11 @@
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
 
 ---
+## CVE-2026-24858 ()
+> 
+- [m0d0ri205/CVE-2026-24858](https://github.com/m0d0ri205/CVE-2026-24858)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/CVE-2026-24858">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/CVE-2026-24858">
+
+---
 ## CVE-2026-24688 ()
 > 
 - [JoakimBulow/CVE-2026-24688](https://github.com/JoakimBulow/CVE-2026-24688)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-24688">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-24688">
@@ -65,6 +70,7 @@
 - [Gabs-hub/CVE-2026-24061_Lab](https://github.com/Gabs-hub/CVE-2026-24061_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Gabs-hub/CVE-2026-24061_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Gabs-hub/CVE-2026-24061_Lab">
 - [MY0723/GNU-Inetutils-telnet-CVE-2026-24061-](https://github.com/MY0723/GNU-Inetutils-telnet-CVE-2026-24061-)	<img alt="forks" src="https://img.shields.io/github/forks/MY0723/GNU-Inetutils-telnet-CVE-2026-24061-">	<img alt="stars" src="https://img.shields.io/github/stars/MY0723/GNU-Inetutils-telnet-CVE-2026-24061-">
 - [hilwa24/CVE-2026-24061](https://github.com/hilwa24/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/hilwa24/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/hilwa24/CVE-2026-24061">
+- [0x7556/CVE-2026-24061](https://github.com/0x7556/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
@@ -266,6 +272,11 @@
 ## CVE-2026-1107 ()
 > 
 - [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Iniivan13/CVE-2026-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Iniivan13/CVE-2026-1107">
+
+---
+## CVE-2026-1056 ()
+> 
+- [ch4r0nn/CVE-2026-1056-POC](https://github.com/ch4r0nn/CVE-2026-1056-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2026-1056-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2026-1056-POC">
 
 ---
 ## CVE-2026-0920 ()
