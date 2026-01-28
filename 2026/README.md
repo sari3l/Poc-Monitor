@@ -137,6 +137,7 @@
 ## CVE-2026-22794 ()
 > 
 - [MalikHamza7/CVE-2026-22794-POC](https://github.com/MalikHamza7/CVE-2026-22794-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MalikHamza7/CVE-2026-22794-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MalikHamza7/CVE-2026-22794-POC">
+- [Ashwesker/Ashwesker-CVE-2026-22794](https://github.com/Ashwesker/Ashwesker-CVE-2026-22794)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-22794">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-22794">
 
 ---
 ## CVE-2026-22785 ()
