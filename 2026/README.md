@@ -242,6 +242,7 @@
 > 
 - [fevar54/CVE-2026-20805-POC](https://github.com/fevar54/CVE-2026-20805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20805-POC">
 - [Uzair-Baig0900/CVE-2026-20805-PoC](https://github.com/Uzair-Baig0900/CVE-2026-20805-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uzair-Baig0900/CVE-2026-20805-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uzair-Baig0900/CVE-2026-20805-PoC">
+- [mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data](https://github.com/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">
 
 ---
 ## CVE-2026-20045 ()
