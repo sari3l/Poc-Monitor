@@ -230,6 +230,7 @@
 - [lastvocher/Hikvision-CVE-2017-7921-decryptor](https://github.com/lastvocher/Hikvision-CVE-2017-7921-decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/lastvocher/Hikvision-CVE-2017-7921-decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/lastvocher/Hikvision-CVE-2017-7921-decryptor">
 - [f3d0rq/CVE-2017-7921](https://github.com/f3d0rq/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/f3d0rq/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/f3d0rq/CVE-2017-7921">
 - [voidsshadows/Hikvision-City-Hunter](https://github.com/voidsshadows/Hikvision-City-Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/voidsshadows/Hikvision-City-Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/voidsshadows/Hikvision-City-Hunter">
+- [Wyl-cmd/CVE-2017-7921-Research-Toolkit](https://github.com/Wyl-cmd/CVE-2017-7921-Research-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/Wyl-cmd/CVE-2017-7921-Research-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/Wyl-cmd/CVE-2017-7921-Research-Toolkit">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
