@@ -284,6 +284,7 @@
 > 
 - [Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit](https://github.com/Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit">
 - [O99099O/By-Poloss..-..CVE-2026-0920](https://github.com/O99099O/By-Poloss..-..CVE-2026-0920)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-0920">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-0920">
+- [John-doe-code-a11/CVE-2026-0920](https://github.com/John-doe-code-a11/CVE-2026-0920)	<img alt="forks" src="https://img.shields.io/github/forks/John-doe-code-a11/CVE-2026-0920">	<img alt="stars" src="https://img.shields.io/github/stars/John-doe-code-a11/CVE-2026-0920">
 
 ---
 ## CVE-2026-0628 ()
