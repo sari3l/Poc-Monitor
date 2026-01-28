@@ -72,6 +72,7 @@
 - [hilwa24/CVE-2026-24061](https://github.com/hilwa24/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/hilwa24/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/hilwa24/CVE-2026-24061">
 - [0x7556/CVE-2026-24061](https://github.com/0x7556/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2026-24061">
 - [Parad0x7e/CVE-2026-24061](https://github.com/Parad0x7e/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Parad0x7e/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Parad0x7e/CVE-2026-24061">
+- [dotelpenguin/telnetd_CVE-2026-24061_tester](https://github.com/dotelpenguin/telnetd_CVE-2026-24061_tester)	<img alt="forks" src="https://img.shields.io/github/forks/dotelpenguin/telnetd_CVE-2026-24061_tester">	<img alt="stars" src="https://img.shields.io/github/stars/dotelpenguin/telnetd_CVE-2026-24061_tester">
 
 ---
 ## CVE-2026-2395 ()
