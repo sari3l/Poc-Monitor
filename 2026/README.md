@@ -32,6 +32,11 @@
 - [b1gchoi/CVE-2026-24306](https://github.com/b1gchoi/CVE-2026-24306)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-24306">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-24306">
 
 ---
+## CVE-2026-24134 ()
+> 
+- [FilipeGaudard/CVE-2026-24134-PoC](https://github.com/FilipeGaudard/CVE-2026-24134-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-24134-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-24134-PoC">
+
+---
 ## CVE-2026-24061 ()
 > 
 - [TryA9ain/CVE-2026-24061](https://github.com/TryA9ain/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/TryA9ain/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/TryA9ain/CVE-2026-24061">
