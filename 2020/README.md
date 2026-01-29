@@ -4934,6 +4934,8 @@
 ## CVE-2020-11107 ()
 > 
 - [Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation](https://github.com/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation">
+- [andripwn/CVE-2020-11107](https://github.com/andripwn/CVE-2020-11107)	<img alt="forks" src="https://img.shields.io/github/forks/andripwn/CVE-2020-11107">	<img alt="stars" src="https://img.shields.io/github/stars/andripwn/CVE-2020-11107">
+- [S1lkys/CVE-2020-11107](https://github.com/S1lkys/CVE-2020-11107)	<img alt="forks" src="https://img.shields.io/github/forks/S1lkys/CVE-2020-11107">	<img alt="stars" src="https://img.shields.io/github/stars/S1lkys/CVE-2020-11107">
 
 ---
 ## CVE-2020-11097 ()
