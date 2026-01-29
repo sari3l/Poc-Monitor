@@ -3660,6 +3660,7 @@
 - [mistymntncop/CVE-2025-5419](https://github.com/mistymntncop/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2025-5419">
 - [pavan3478/CVE-2025-5419](https://github.com/pavan3478/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/pavan3478/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/pavan3478/CVE-2025-5419">
 - [somprasong-tukman/CVE-2025-5419](https://github.com/somprasong-tukman/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/somprasong-tukman/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/somprasong-tukman/CVE-2025-5419">
+- [bjrjk/CVE-2025-5419](https://github.com/bjrjk/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2025-5419">
 
 ---
 ## CVE-2025-54136 ()
