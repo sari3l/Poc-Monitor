@@ -9,6 +9,7 @@
 ## CVE-2026-24858 ()
 > 
 - [m0d0ri205/CVE-2026-24858](https://github.com/m0d0ri205/CVE-2026-24858)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/CVE-2026-24858">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/CVE-2026-24858">
+- [b1gchoi/CVE-2026-24858](https://github.com/b1gchoi/CVE-2026-24858)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-24858">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-24858">
 
 ---
 ## CVE-2026-24688 ()
