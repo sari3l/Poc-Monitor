@@ -4931,6 +4931,11 @@
 - [AVE-Stoik/CVE-2020-11110-Proof-of-Concept](https://github.com/AVE-Stoik/CVE-2020-11110-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/AVE-Stoik/CVE-2020-11110-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/AVE-Stoik/CVE-2020-11110-Proof-of-Concept">
 
 ---
+## CVE-2020-11107 ()
+> 
+- [Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation](https://github.com/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/Mohnad-AL-saif/Mohnad-AL-saif-CVE-2020-11107-XAMPP-Local-Privilege-Escalation">
+
+---
 ## CVE-2020-11097 ()
 > 
 - [SpiralBL0CK/CVE-2020-11097-POC](https://github.com/SpiralBL0CK/CVE-2020-11097-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2020-11097-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2020-11097-POC">

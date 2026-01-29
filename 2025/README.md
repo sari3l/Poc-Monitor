@@ -5724,7 +5724,7 @@
 ---
 ## CVE-2025-40554 ()
 > 
-- [imbas007/exploit-CVE-2025-40554](https://github.com/imbas007/exploit-CVE-2025-40554)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/exploit-CVE-2025-40554">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/exploit-CVE-2025-40554">
+- [imbas007/auth-bypass-CVE-2025-40554](https://github.com/imbas007/auth-bypass-CVE-2025-40554)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/auth-bypass-CVE-2025-40554">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/auth-bypass-CVE-2025-40554">
 
 ---
 ## CVE-2025-40547 ()
