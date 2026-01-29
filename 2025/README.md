@@ -74,6 +74,11 @@
 - [passtheticket/CVE-2025-9435](https://github.com/passtheticket/CVE-2025-9435)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2025-9435">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2025-9435">
 
 ---
+## CVE-2025-9316 ()
+> 
+- [zyyyys123/CVE-2025-9316_CVE-2025-11700](https://github.com/zyyyys123/CVE-2025-9316_CVE-2025-11700)	<img alt="forks" src="https://img.shields.io/github/forks/zyyyys123/CVE-2025-9316_CVE-2025-11700">	<img alt="stars" src="https://img.shields.io/github/stars/zyyyys123/CVE-2025-9316_CVE-2025-11700">
+
+---
 ## CVE-2025-9286 ()
 > 
 - [Nxploited/CVE-2025-9286](https://github.com/Nxploited/CVE-2025-9286)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-9286">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-9286">
