@@ -3107,6 +3107,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-11810](https://github.com/Live-Hack-CVE/CVE-2019-11810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11810">
 
 ---
+## CVE-2019-11707 ()
+> 
+- [CosminGGeorgescu/CVE-2019-11707-PoC](https://github.com/CosminGGeorgescu/CVE-2019-11707-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CosminGGeorgescu/CVE-2019-11707-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CosminGGeorgescu/CVE-2019-11707-PoC">
+
+---
 ## CVE-2019-11510 (2019-05-08T17:29:00)
 > In Pulse Secure Pulse Connect Secure (PCS) 8.2 before 8.2R12.1, 8.3 before 8.3R7.1, and 9.0 before 9.0R3.4, an unauthenticated remote attacker can send a specially crafted URI to perform an arbitrary file reading vulnerability .
 - [trhacknon/CVE-2019-11510](https://github.com/trhacknon/CVE-2019-11510)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-11510">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-11510">
