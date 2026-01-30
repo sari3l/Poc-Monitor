@@ -251,7 +251,7 @@
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21440](https://github.com/Ashwesker/Ashwesker-CVE-2026-21440)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21440">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21440">
 - [you-ssef9/CVE-2026-21440](https://github.com/you-ssef9/CVE-2026-21440)	<img alt="forks" src="https://img.shields.io/github/forks/you-ssef9/CVE-2026-21440">	<img alt="stars" src="https://img.shields.io/github/stars/you-ssef9/CVE-2026-21440">
-- [k0nnect/cve-2026-21440-writeup](https://github.com/k0nnect/cve-2026-21440-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/k0nnect/cve-2026-21440-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/k0nnect/cve-2026-21440-writeup">
+- [k0nnect/cve-2026-21440-writeup-poc](https://github.com/k0nnect/cve-2026-21440-writeup-poc)	<img alt="forks" src="https://img.shields.io/github/forks/k0nnect/cve-2026-21440-writeup-poc">	<img alt="stars" src="https://img.shields.io/github/stars/k0nnect/cve-2026-21440-writeup-poc">
 - [TibbersV6/CVE-2026-21440-POC-EXP](https://github.com/TibbersV6/CVE-2026-21440-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/TibbersV6/CVE-2026-21440-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/TibbersV6/CVE-2026-21440-POC-EXP">
 
 ---
