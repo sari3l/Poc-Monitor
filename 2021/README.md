@@ -1160,6 +1160,7 @@
 - [lowkey0808/CVE-2021-43857](https://github.com/lowkey0808/CVE-2021-43857)	<img alt="forks" src="https://img.shields.io/github/forks/lowkey0808/CVE-2021-43857">	<img alt="stars" src="https://img.shields.io/github/stars/lowkey0808/CVE-2021-43857">
 - [LongWayHomie/CVE-2021-43857](https://github.com/LongWayHomie/CVE-2021-43857)	<img alt="forks" src="https://img.shields.io/github/forks/LongWayHomie/CVE-2021-43857">	<img alt="stars" src="https://img.shields.io/github/stars/LongWayHomie/CVE-2021-43857">
 - [ProwlSec/gerapy-cve-2021-43857](https://github.com/ProwlSec/gerapy-cve-2021-43857)	<img alt="forks" src="https://img.shields.io/github/forks/ProwlSec/gerapy-cve-2021-43857">	<img alt="stars" src="https://img.shields.io/github/stars/ProwlSec/gerapy-cve-2021-43857">
+- [afifudinmtop/CVE-2021-43857-Gerapy-v0.9.7](https://github.com/afifudinmtop/CVE-2021-43857-Gerapy-v0.9.7)	<img alt="forks" src="https://img.shields.io/github/forks/afifudinmtop/CVE-2021-43857-Gerapy-v0.9.7">	<img alt="stars" src="https://img.shields.io/github/stars/afifudinmtop/CVE-2021-43857-Gerapy-v0.9.7">
 
 ---
 ## CVE-2021-43845 (2021-12-27T18:15:00)
