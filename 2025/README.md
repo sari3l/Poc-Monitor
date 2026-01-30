@@ -8819,6 +8819,7 @@
 ## CVE-2025-15467 ()
 > 
 - [balgan/CVE-2025-15467](https://github.com/balgan/CVE-2025-15467)	<img alt="forks" src="https://img.shields.io/github/forks/balgan/CVE-2025-15467">	<img alt="stars" src="https://img.shields.io/github/stars/balgan/CVE-2025-15467">
+- [guiimoraes/CVE-2025-15467](https://github.com/guiimoraes/CVE-2025-15467)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/CVE-2025-15467">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/CVE-2025-15467">
 
 ---
 ## CVE-2025-15406 ()
