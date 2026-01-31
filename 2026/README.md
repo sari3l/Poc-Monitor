@@ -97,6 +97,9 @@
 - [Parad0x7e/CVE-2026-24061](https://github.com/Parad0x7e/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Parad0x7e/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Parad0x7e/CVE-2026-24061">
 - [dotelpenguin/telnetd_CVE-2026-24061_tester](https://github.com/dotelpenguin/telnetd_CVE-2026-24061_tester)	<img alt="forks" src="https://img.shields.io/github/forks/dotelpenguin/telnetd_CVE-2026-24061_tester">	<img alt="stars" src="https://img.shields.io/github/stars/dotelpenguin/telnetd_CVE-2026-24061_tester">
 - [ridpath/Terrminus-CVE-2026-24061-](https://github.com/ridpath/Terrminus-CVE-2026-24061-)	<img alt="forks" src="https://img.shields.io/github/forks/ridpath/Terrminus-CVE-2026-24061-">	<img alt="stars" src="https://img.shields.io/github/stars/ridpath/Terrminus-CVE-2026-24061-">
+- [buzz075/CVE-2026-24061](https://github.com/buzz075/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/buzz075/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/buzz075/CVE-2026-24061">
+- [0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061](https://github.com/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">
+- [ridpath/Terrminus-CVE-2026-2406](https://github.com/ridpath/Terrminus-CVE-2026-2406)	<img alt="forks" src="https://img.shields.io/github/forks/ridpath/Terrminus-CVE-2026-2406">	<img alt="stars" src="https://img.shields.io/github/stars/ridpath/Terrminus-CVE-2026-2406">
 
 ---
 ## CVE-2026-2406 ()
