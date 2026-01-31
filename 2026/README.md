@@ -211,6 +211,11 @@
 - [CayberMods/CVE-2026-22812-POC](https://github.com/CayberMods/CVE-2026-22812-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CayberMods/CVE-2026-22812-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CayberMods/CVE-2026-22812-POC">
 
 ---
+## CVE-2026-22807 ()
+> 
+- [otakuliu/CVE-2026-22807_Range](https://github.com/otakuliu/CVE-2026-22807_Range)	<img alt="forks" src="https://img.shields.io/github/forks/otakuliu/CVE-2026-22807_Range">	<img alt="stars" src="https://img.shields.io/github/stars/otakuliu/CVE-2026-22807_Range">
+
+---
 ## CVE-2026-22804 ()
 > 
 - [ThemeHackers/CVE-2026-22804](https://github.com/ThemeHackers/CVE-2026-22804)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2026-22804">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2026-22804">
