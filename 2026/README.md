@@ -11,6 +11,11 @@
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
 
 ---
+## CVE-2026-25126 ()
+> 
+- [Jvr2022/CVE-2026-25126](https://github.com/Jvr2022/CVE-2026-25126)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-25126">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-25126">
+
+---
 ## CVE-2026-24858 ()
 > 
 - [m0d0ri205/CVE-2026-24858](https://github.com/m0d0ri205/CVE-2026-24858)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/CVE-2026-24858">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/CVE-2026-24858">
