@@ -8305,6 +8305,7 @@
 > 
 - [whiteov3rflow/CVE-2025-2304-POC](https://github.com/whiteov3rflow/CVE-2025-2304-POC)	<img alt="forks" src="https://img.shields.io/github/forks/whiteov3rflow/CVE-2025-2304-POC">	<img alt="stars" src="https://img.shields.io/github/stars/whiteov3rflow/CVE-2025-2304-POC">
 - [d3vn0mi/cve-2025-2304-poc](https://github.com/d3vn0mi/cve-2025-2304-poc)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/cve-2025-2304-poc">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/cve-2025-2304-poc">
+- [innocentx0/CVE-2025-2304-POC](https://github.com/innocentx0/CVE-2025-2304-POC)	<img alt="forks" src="https://img.shields.io/github/forks/innocentx0/CVE-2025-2304-POC">	<img alt="stars" src="https://img.shields.io/github/stars/innocentx0/CVE-2025-2304-POC">
 
 ---
 ## CVE-2025-2301 ()
