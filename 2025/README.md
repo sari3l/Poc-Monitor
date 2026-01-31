@@ -1821,6 +1821,11 @@
 - [boroeurnprach/CVE-2025-61686-PoC](https://github.com/boroeurnprach/CVE-2025-61686-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-61686-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-61686-PoC">
 
 ---
+## CVE-2025-61506 ()
+> 
+- [pescada-dev/CVE-2025-61506](https://github.com/pescada-dev/CVE-2025-61506)	<img alt="forks" src="https://img.shields.io/github/forks/pescada-dev/CVE-2025-61506">	<img alt="stars" src="https://img.shields.io/github/stars/pescada-dev/CVE-2025-61506">
+
+---
 ## CVE-2025-61498 ()
 > 
 - [sakshi-garg02/CVE-2025-61498](https://github.com/sakshi-garg02/CVE-2025-61498)	<img alt="forks" src="https://img.shields.io/github/forks/sakshi-garg02/CVE-2025-61498">	<img alt="stars" src="https://img.shields.io/github/stars/sakshi-garg02/CVE-2025-61498">
@@ -8306,6 +8311,8 @@
 - [whiteov3rflow/CVE-2025-2304-POC](https://github.com/whiteov3rflow/CVE-2025-2304-POC)	<img alt="forks" src="https://img.shields.io/github/forks/whiteov3rflow/CVE-2025-2304-POC">	<img alt="stars" src="https://img.shields.io/github/stars/whiteov3rflow/CVE-2025-2304-POC">
 - [d3vn0mi/cve-2025-2304-poc](https://github.com/d3vn0mi/cve-2025-2304-poc)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/cve-2025-2304-poc">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/cve-2025-2304-poc">
 - [innocentx0/CVE-2025-2304-POC](https://github.com/innocentx0/CVE-2025-2304-POC)	<img alt="forks" src="https://img.shields.io/github/forks/innocentx0/CVE-2025-2304-POC">	<img alt="stars" src="https://img.shields.io/github/stars/innocentx0/CVE-2025-2304-POC">
+- [absholi7ly/CVE-2025-23048-POC](https://github.com/absholi7ly/CVE-2025-23048-POC)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-23048-POC">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-23048-POC">
+- [GabrieleDattile/CVE-2025-23040](https://github.com/GabrieleDattile/CVE-2025-23040)	<img alt="forks" src="https://img.shields.io/github/forks/GabrieleDattile/CVE-2025-23040">	<img alt="stars" src="https://img.shields.io/github/stars/GabrieleDattile/CVE-2025-23040">
 
 ---
 ## CVE-2025-2301 ()
