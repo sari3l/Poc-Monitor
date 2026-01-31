@@ -19,6 +19,11 @@
 - [SimoesCTT/-CTT-NSP-Convergent-Time-Theory---Network-Stack-Projection-CVE-2026-24858-](https://github.com/SimoesCTT/-CTT-NSP-Convergent-Time-Theory---Network-Stack-Projection-CVE-2026-24858-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CTT-NSP-Convergent-Time-Theory---Network-Stack-Projection-CVE-2026-24858-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CTT-NSP-Convergent-Time-Theory---Network-Stack-Projection-CVE-2026-24858-">
 
 ---
+## CVE-2026-24841 ()
+> 
+- [otakuliu/CVE-2026-24841_Range](https://github.com/otakuliu/CVE-2026-24841_Range)	<img alt="forks" src="https://img.shields.io/github/forks/otakuliu/CVE-2026-24841_Range">	<img alt="stars" src="https://img.shields.io/github/stars/otakuliu/CVE-2026-24841_Range">
+
+---
 ## CVE-2026-24688 ()
 > 
 - [JoakimBulow/CVE-2026-24688](https://github.com/JoakimBulow/CVE-2026-24688)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-24688">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-24688">
