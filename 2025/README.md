@@ -5463,6 +5463,7 @@
 - [sakyu7/sakyu7.github.io](https://github.com/sakyu7/sakyu7.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/sakyu7/sakyu7.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/sakyu7/sakyu7.github.io">
 - [zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis](https://github.com/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis">
 - [SgtBattenHA/Analysis](https://github.com/SgtBattenHA/Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/SgtBattenHA/Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/SgtBattenHA/Analysis">
+- [bjrjk/CVE-2025-43529](https://github.com/bjrjk/CVE-2025-43529)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2025-43529">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2025-43529">
 
 ---
 ## CVE-2025-43504 ()
