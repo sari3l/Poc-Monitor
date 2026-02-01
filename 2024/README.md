@@ -2901,6 +2901,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [JinhyukKo/CVE-2024-4701-POC](https://github.com/JinhyukKo/CVE-2024-4701-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JinhyukKo/CVE-2024-4701-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JinhyukKo/CVE-2024-4701-POC">
 
 ---
+## CVE-2024-46987 ()
+> 
+- [Goultarde/CVE-2024-46987](https://github.com/Goultarde/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2024-46987">
+
+---
 ## CVE-2024-46986 (2024-09-18T18:15:00)
 > Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails. An arbitrary file write vulnerability accessible via the upload method of the MediaController allows authenticated users to write arbitrary files to any location on the web server Camaleon CMS is running on (depending on the permissions of the underlying filesystem). E.g. This can lead to a delayed remote code execution in case an attacker is able to write a Ruby file into the config/initializers/ subfolder of the Ruby on Rails application. This issue has been addressed in release version 2.8.2. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46986">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46986">
