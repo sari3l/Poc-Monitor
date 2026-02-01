@@ -370,6 +370,11 @@
 - [ii4gsp/CVE-2026-1457](https://github.com/ii4gsp/CVE-2026-1457)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-1457">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-1457">
 
 ---
+## CVE-2026-1281 ()
+> 
+- [Ashwesker/Ashwesker-CVE-2026-1281](https://github.com/Ashwesker/Ashwesker-CVE-2026-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-1281">
+
+---
 ## CVE-2026-1208 ()
 > 
 - [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
