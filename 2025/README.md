@@ -8321,6 +8321,7 @@
 - [the8frust/CVE-2025-2304](https://github.com/the8frust/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/the8frust/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/the8frust/CVE-2025-2304">
 - [AzureADTrent/CVE-2025-2304_POC](https://github.com/AzureADTrent/CVE-2025-2304_POC)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-2304_POC">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-2304_POC">
 - [lil0xplorer/CVE-2025-2304-PoC](https://github.com/lil0xplorer/CVE-2025-2304-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lil0xplorer/CVE-2025-2304-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lil0xplorer/CVE-2025-2304-PoC">
+- [predyy/CVE-2025-2304](https://github.com/predyy/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/CVE-2025-2304">
 
 ---
 ## CVE-2025-2301 ()
