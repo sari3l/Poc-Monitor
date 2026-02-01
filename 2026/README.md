@@ -120,6 +120,8 @@
 - [buzz075/CVE-2026-24061](https://github.com/buzz075/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/buzz075/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/buzz075/CVE-2026-24061">
 - [0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061](https://github.com/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">
 - [ridpath/Terrminus-CVE-2026-2406](https://github.com/ridpath/Terrminus-CVE-2026-2406)	<img alt="forks" src="https://img.shields.io/github/forks/ridpath/Terrminus-CVE-2026-2406">	<img alt="stars" src="https://img.shields.io/github/stars/ridpath/Terrminus-CVE-2026-2406">
+- [X-croot/CVE-2026-24061_POC](https://github.com/X-croot/CVE-2026-24061_POC)	<img alt="forks" src="https://img.shields.io/github/forks/X-croot/CVE-2026-24061_POC">	<img alt="stars" src="https://img.shields.io/github/stars/X-croot/CVE-2026-24061_POC">
+- [Ali-brarou/telnest](https://github.com/Ali-brarou/telnest)	<img alt="forks" src="https://img.shields.io/github/forks/Ali-brarou/telnest">	<img alt="stars" src="https://img.shields.io/github/stars/Ali-brarou/telnest">
 
 ---
 ## CVE-2026-2406 ()
