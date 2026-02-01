@@ -3508,6 +3508,11 @@
 - [wnaspy/CVE-2025-55182](https://github.com/wnaspy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wnaspy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wnaspy/CVE-2025-55182">
 
 ---
+## CVE-2025-55130 ()
+> 
+- [scumfrog/CVE-2025-55130](https://github.com/scumfrog/CVE-2025-55130)	<img alt="forks" src="https://img.shields.io/github/forks/scumfrog/CVE-2025-55130">	<img alt="stars" src="https://img.shields.io/github/stars/scumfrog/CVE-2025-55130">
+
+---
 ## CVE-2025-54988 ()
 > 
 - [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988)	<img alt="forks" src="https://img.shields.io/github/forks/mgthuramoemyint/POC-CVE-2025-54988">	<img alt="stars" src="https://img.shields.io/github/stars/mgthuramoemyint/POC-CVE-2025-54988">
