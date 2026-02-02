@@ -4004,6 +4004,11 @@
 - [Trinadh465/linux-4.19.72_CVE-2020-15436](https://github.com/Trinadh465/linux-4.19.72_CVE-2020-15436)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2020-15436">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2020-15436">
 
 ---
+## CVE-2020-15394 ()
+> 
+- [trungtin1998/CVE-2020-15394-PoC](https://github.com/trungtin1998/CVE-2020-15394-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/trungtin1998/CVE-2020-15394-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/trungtin1998/CVE-2020-15394-PoC">
+
+---
 ## CVE-2020-15366 (2020-07-15T20:15:00)
 > An issue was discovered in ajv.validate() in Ajv (aka Another JSON Schema Validator) 6.12.2. A carefully crafted JSON schema could be provided that allows execution of other code by prototype pollution. (While untrusted schemas are recommended against, the worst case of an untrusted schema should be a denial of service, not execution of code.)
 - [Live-Hack-CVE/CVE-2020-15366](https://github.com/Live-Hack-CVE/CVE-2020-15366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15366">
