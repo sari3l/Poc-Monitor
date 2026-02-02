@@ -122,6 +122,7 @@
 - [ridpath/Terrminus-CVE-2026-2406](https://github.com/ridpath/Terrminus-CVE-2026-2406)	<img alt="forks" src="https://img.shields.io/github/forks/ridpath/Terrminus-CVE-2026-2406">	<img alt="stars" src="https://img.shields.io/github/stars/ridpath/Terrminus-CVE-2026-2406">
 - [X-croot/CVE-2026-24061_POC](https://github.com/X-croot/CVE-2026-24061_POC)	<img alt="forks" src="https://img.shields.io/github/forks/X-croot/CVE-2026-24061_POC">	<img alt="stars" src="https://img.shields.io/github/stars/X-croot/CVE-2026-24061_POC">
 - [Ali-brarou/telnest](https://github.com/Ali-brarou/telnest)	<img alt="forks" src="https://img.shields.io/github/forks/Ali-brarou/telnest">	<img alt="stars" src="https://img.shields.io/github/stars/Ali-brarou/telnest">
+- [ibrahmsql/CVE-2026-24061-PoC](https://github.com/ibrahmsql/CVE-2026-24061-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2026-24061-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2026-24061-PoC">
 
 ---
 ## CVE-2026-2406 ()
