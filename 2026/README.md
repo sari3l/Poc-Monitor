@@ -300,6 +300,7 @@
 - [sec-dojo-com/CVE-2026-21858](https://github.com/sec-dojo-com/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/sec-dojo-com/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/sec-dojo-com/CVE-2026-21858">
 - [NOTTIBOY137/RulesGuard](https://github.com/NOTTIBOY137/RulesGuard)	<img alt="forks" src="https://img.shields.io/github/forks/NOTTIBOY137/RulesGuard">	<img alt="stars" src="https://img.shields.io/github/stars/NOTTIBOY137/RulesGuard">
 - [Alhakim88/CVE-2026-21858](https://github.com/Alhakim88/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Alhakim88/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Alhakim88/CVE-2026-21858">
+- [bgarz929/Ashwesker-CVE-2026-21858](https://github.com/bgarz929/Ashwesker-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/bgarz929/Ashwesker-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/bgarz929/Ashwesker-CVE-2026-21858">
 
 ---
 ## CVE-2026-21509 ()
