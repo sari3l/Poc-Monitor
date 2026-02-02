@@ -8453,6 +8453,11 @@
 - [B1ack4sh/Blackash-CVE-2025-22457](https://github.com/B1ack4sh/Blackash-CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-22457">
 
 ---
+## CVE-2025-22381 ()
+> 
+- [pescada-dev/CVE-2025-22381](https://github.com/pescada-dev/CVE-2025-22381)	<img alt="forks" src="https://img.shields.io/github/forks/pescada-dev/CVE-2025-22381">	<img alt="stars" src="https://img.shields.io/github/stars/pescada-dev/CVE-2025-22381">
+
+---
 ## CVE-2025-2233 ()
 > 
 - [McTavishSue/CVE-2025-2233](https://github.com/McTavishSue/CVE-2025-2233)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-2233">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-2233">
