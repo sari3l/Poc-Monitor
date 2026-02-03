@@ -3519,6 +3519,7 @@
 - [deepankarkumar1/CVE-2025-55182_Vulnerable-Application](https://github.com/deepankarkumar1/CVE-2025-55182_Vulnerable-Application)	<img alt="forks" src="https://img.shields.io/github/forks/deepankarkumar1/CVE-2025-55182_Vulnerable-Application">	<img alt="stars" src="https://img.shields.io/github/stars/deepankarkumar1/CVE-2025-55182_Vulnerable-Application">
 - [wnaspy/CVE-2025-55182](https://github.com/wnaspy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wnaspy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wnaspy/CVE-2025-55182">
 - [woorifisa-service-dev-6th/tech-seminar-React2Shell](https://github.com/woorifisa-service-dev-6th/tech-seminar-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/woorifisa-service-dev-6th/tech-seminar-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/woorifisa-service-dev-6th/tech-seminar-React2Shell">
+- [MuhammadUwais/React2Shell](https://github.com/MuhammadUwais/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadUwais/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadUwais/React2Shell">
 
 ---
 ## CVE-2025-55130 ()
