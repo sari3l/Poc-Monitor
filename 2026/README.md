@@ -312,6 +312,11 @@
 - [bgarz929/Ashwesker-CVE-2026-21858](https://github.com/bgarz929/Ashwesker-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/bgarz929/Ashwesker-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/bgarz929/Ashwesker-CVE-2026-21858">
 
 ---
+## CVE-2026-21721 ()
+> 
+- [Leonideath/Exploit-LPE-CVE-2026-21721](https://github.com/Leonideath/Exploit-LPE-CVE-2026-21721)	<img alt="forks" src="https://img.shields.io/github/forks/Leonideath/Exploit-LPE-CVE-2026-21721">	<img alt="stars" src="https://img.shields.io/github/stars/Leonideath/Exploit-LPE-CVE-2026-21721">
+
+---
 ## CVE-2026-21509 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21509](https://github.com/Ashwesker/Ashwesker-CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21509">
