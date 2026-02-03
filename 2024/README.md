@@ -2909,7 +2909,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-46987 ()
 > 
 - [Goultarde/CVE-2024-46987](https://github.com/Goultarde/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2024-46987">
-- [L1337Xi/CVE-2024-46987-](https://github.com/L1337Xi/CVE-2024-46987-)	<img alt="forks" src="https://img.shields.io/github/forks/L1337Xi/CVE-2024-46987-">	<img alt="stars" src="https://img.shields.io/github/stars/L1337Xi/CVE-2024-46987-">
+- [L1337Xi/CVE-2024-46987](https://github.com/L1337Xi/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/L1337Xi/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/L1337Xi/CVE-2024-46987">
 
 ---
 ## CVE-2024-46986 (2024-09-18T18:15:00)
