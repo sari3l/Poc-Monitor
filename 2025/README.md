@@ -8139,6 +8139,7 @@
 - [ekomsSavior/AirBorne-PoC](https://github.com/ekomsSavior/AirBorne-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/AirBorne-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/AirBorne-PoC">
 - [apwlq/AirBorne-PoC](https://github.com/apwlq/AirBorne-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/apwlq/AirBorne-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/apwlq/AirBorne-PoC">
 - [TheGamingGallifreyan/Airborne-CVE-2025-24132-Research](https://github.com/TheGamingGallifreyan/Airborne-CVE-2025-24132-Research)	<img alt="forks" src="https://img.shields.io/github/forks/TheGamingGallifreyan/Airborne-CVE-2025-24132-Research">	<img alt="stars" src="https://img.shields.io/github/stars/TheGamingGallifreyan/Airborne-CVE-2025-24132-Research">
+- [TheGamingGallifreyan/LiberationPlay-CVE-2025-24132-AirBourne-Crash-POC](https://github.com/TheGamingGallifreyan/LiberationPlay-CVE-2025-24132-AirBourne-Crash-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheGamingGallifreyan/LiberationPlay-CVE-2025-24132-AirBourne-Crash-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheGamingGallifreyan/LiberationPlay-CVE-2025-24132-AirBourne-Crash-POC">
 
 ---
 ## CVE-2025-24118 ()
