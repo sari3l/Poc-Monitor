@@ -6412,6 +6412,8 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [G4sp4rCS/htb-sau-automated](https://github.com/G4sp4rCS/htb-sau-automated)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/htb-sau-automated">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/htb-sau-automated">
 - [J0ey17/Exploit_CVE-2023-27163](https://github.com/J0ey17/Exploit_CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/J0ey17/Exploit_CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/J0ey17/Exploit_CVE-2023-27163">
 - [theopaid/CVE-2023-27163-Request-Baskets-Local-Ports-Bruteforcer](https://github.com/theopaid/CVE-2023-27163-Request-Baskets-Local-Ports-Bruteforcer)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2023-27163-Request-Baskets-Local-Ports-Bruteforcer">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2023-27163-Request-Baskets-Local-Ports-Bruteforcer">
+- [thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE](https://github.com/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE">
+- [thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests](https://github.com/thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests)	<img alt="forks" src="https://img.shields.io/github/forks/thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests">	<img alt="stars" src="https://img.shields.io/github/stars/thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
