@@ -19,6 +19,7 @@
 ## CVE-2026-25512 ()
 > 
 - [NumberOreo1/CVE-2026-25512](https://github.com/NumberOreo1/CVE-2026-25512)	<img alt="forks" src="https://img.shields.io/github/forks/NumberOreo1/CVE-2026-25512">	<img alt="stars" src="https://img.shields.io/github/stars/NumberOreo1/CVE-2026-25512">
+- [mbanyamer/CVE-2026-25512-PoC-Group-Office-Authenticated-RCE](https://github.com/mbanyamer/CVE-2026-25512-PoC-Group-Office-Authenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25512-PoC-Group-Office-Authenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25512-PoC-Group-Office-Authenticated-RCE">
 
 ---
 ## CVE-2026-25211 ()
