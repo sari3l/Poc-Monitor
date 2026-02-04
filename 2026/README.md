@@ -147,6 +147,7 @@
 - [obrunolima1910/CVE-2026-24061](https://github.com/obrunolima1910/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/obrunolima1910/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/obrunolima1910/CVE-2026-24061">
 - [obrunolima1910/obrunolima1910.github.io](https://github.com/obrunolima1910/obrunolima1910.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/obrunolima1910/obrunolima1910.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/obrunolima1910/obrunolima1910.github.io">
 - [lavabyte/telnet-CVE-2026-24061](https://github.com/lavabyte/telnet-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/lavabyte/telnet-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/lavabyte/telnet-CVE-2026-24061">
+- [canpilayda/inetutils-telnetd-cve-2026-24061](https://github.com/canpilayda/inetutils-telnetd-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/canpilayda/inetutils-telnetd-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/canpilayda/inetutils-telnetd-cve-2026-24061">
 
 ---
 ## CVE-2026-2406 ()
