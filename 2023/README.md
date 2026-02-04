@@ -1756,6 +1756,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 ## CVE-2023-4634 (2023-09-06T09:15:00)
 > The Media Library Assistant plugin for WordPress is vulnerable to Local File Inclusion and Remote Code Execution in versions up to, and including, 3.09. This is due to insufficient controls on file paths being supplied to the 'mla_stream_file' parameter from the ~/includes/mla-stream-image.php file, where images are processed via Imagick(). This makes it possible for unauthenticated attackers to supply files via FTP that will make directory lists, local file inclusion, and remote code execution possible.
 - [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634)	<img alt="forks" src="https://img.shields.io/github/forks/Patrowl/CVE-2023-4634">	<img alt="stars" src="https://img.shields.io/github/stars/Patrowl/CVE-2023-4634">
+- [Evillm/CVE-2023-4634-PoC](https://github.com/Evillm/CVE-2023-4634-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2023-4634-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2023-4634-PoC">
 
 ---
 ## CVE-2023-4631 (2023-09-25T16:15:00)
