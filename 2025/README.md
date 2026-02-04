@@ -8353,6 +8353,7 @@
 - [lil0xplorer/CVE-2025-2304-PoC](https://github.com/lil0xplorer/CVE-2025-2304-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lil0xplorer/CVE-2025-2304-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lil0xplorer/CVE-2025-2304-PoC">
 - [predyy/CVE-2025-2304](https://github.com/predyy/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/CVE-2025-2304">
 - [7acini/CVE-2025-2304-CamaleonCMS-PoC](https://github.com/7acini/CVE-2025-2304-CamaleonCMS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/7acini/CVE-2025-2304-CamaleonCMS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/7acini/CVE-2025-2304-CamaleonCMS-PoC">
+- [Alien0ne/CVE-2025-2304](https://github.com/Alien0ne/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/Alien0ne/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/Alien0ne/CVE-2025-2304">
 
 ---
 ## CVE-2025-2301 ()
