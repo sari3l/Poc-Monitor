@@ -3525,6 +3525,7 @@
 - [wnaspy/CVE-2025-55182](https://github.com/wnaspy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wnaspy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wnaspy/CVE-2025-55182">
 - [woorifisa-service-dev-6th/tech-seminar-React2Shell](https://github.com/woorifisa-service-dev-6th/tech-seminar-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/woorifisa-service-dev-6th/tech-seminar-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/woorifisa-service-dev-6th/tech-seminar-React2Shell">
 - [MuhammadUwais/React2Shell](https://github.com/MuhammadUwais/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadUwais/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadUwais/React2Shell">
+- [Evillm/CVE-2025-55182-PoC](https://github.com/Evillm/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-55182-PoC">
 
 ---
 ## CVE-2025-55130 ()
@@ -7420,6 +7421,12 @@
 ## CVE-2025-27521 ()
 > 
 - [alialucas7/CVE-2025-27521_PoC](https://github.com/alialucas7/CVE-2025-27521_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alialucas7/CVE-2025-27521_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alialucas7/CVE-2025-27521_PoC">
+
+---
+## CVE-2025-27520 ()
+> 
+- [Evillm/CVE-2025-27520-PoC](https://github.com/Evillm/CVE-2025-27520-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-27520-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-27520-PoC">
+- [amalpvatayam67/day09-bentoml-deser-lab](https://github.com/amalpvatayam67/day09-bentoml-deser-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day09-bentoml-deser-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day09-bentoml-deser-lab">
 
 ---
 ## CVE-2025-27519 ()

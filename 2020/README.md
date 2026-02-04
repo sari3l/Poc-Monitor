@@ -4798,6 +4798,11 @@
 - [masahiro331/CVE-2020-11984](https://github.com/masahiro331/CVE-2020-11984)	<img alt="forks" src="https://img.shields.io/github/forks/masahiro331/CVE-2020-11984">	<img alt="stars" src="https://img.shields.io/github/stars/masahiro331/CVE-2020-11984">
 
 ---
+## CVE-2020-11981 ()
+> 
+- [Evillm/CVE-2020-11981-PoC](https://github.com/Evillm/CVE-2020-11981-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2020-11981-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2020-11981-PoC">
+
+---
 ## CVE-2020-11978 ()
 > 
 - [stuxbench/mlflow-cve-2020-11978](https://github.com/stuxbench/mlflow-cve-2020-11978)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/mlflow-cve-2020-11978">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/mlflow-cve-2020-11978">
