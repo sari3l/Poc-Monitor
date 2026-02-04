@@ -7074,6 +7074,7 @@
 - [DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC](https://github.com/DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC">
 - [jehovahsays/mev](https://github.com/jehovahsays/mev)	<img alt="forks" src="https://img.shields.io/github/forks/jehovahsays/mev">	<img alt="stars" src="https://img.shields.io/github/stars/jehovahsays/mev">
 - [N3k0t-dev/bughunter-cyber-intel-dashboard](https://github.com/N3k0t-dev/bughunter-cyber-intel-dashboard)	<img alt="forks" src="https://img.shields.io/github/forks/N3k0t-dev/bughunter-cyber-intel-dashboard">	<img alt="stars" src="https://img.shields.io/github/stars/N3k0t-dev/bughunter-cyber-intel-dashboard">
+- [Si-Ni/CVE-2025-29927-Proof-of-Concept](https://github.com/Si-Ni/CVE-2025-29927-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/Si-Ni/CVE-2025-29927-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/Si-Ni/CVE-2025-29927-Proof-of-Concept">
 
 ---
 ## CVE-2025-29891 ()
