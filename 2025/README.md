@@ -490,6 +490,11 @@
 - [mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS](https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">
 
 ---
+## CVE-2025-69906 ()
+> 
+- [cypherdavy/CVE-2025-69906-Monstra-CMS-3.0.4-Arbitrary-File-Upload-to-RCE](https://github.com/cypherdavy/CVE-2025-69906-Monstra-CMS-3.0.4-Arbitrary-File-Upload-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cypherdavy/CVE-2025-69906-Monstra-CMS-3.0.4-Arbitrary-File-Upload-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cypherdavy/CVE-2025-69906-Monstra-CMS-3.0.4-Arbitrary-File-Upload-to-RCE">
+
+---
 ## CVE-2025-69822 ()
 > 
 - [CipherX1802/CVE-2025-69822-Atomberg_Erica_SmatFan_Security_Assessment](https://github.com/CipherX1802/CVE-2025-69822-Atomberg_Erica_SmatFan_Security_Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/CipherX1802/CVE-2025-69822-Atomberg_Erica_SmatFan_Security_Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/CipherX1802/CVE-2025-69822-Atomberg_Erica_SmatFan_Security_Assessment">
