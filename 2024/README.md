@@ -1847,6 +1847,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-52430](https://github.com/RandomRobbieBF/CVE-2024-52430)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52430">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52430">
 
 ---
+## CVE-2024-5243 ()
+> 
+- [yi-barrack/CVE-2024-5243-pwn2own-toronto-2023](https://github.com/yi-barrack/CVE-2024-5243-pwn2own-toronto-2023)	<img alt="forks" src="https://img.shields.io/github/forks/yi-barrack/CVE-2024-5243-pwn2own-toronto-2023">	<img alt="stars" src="https://img.shields.io/github/stars/yi-barrack/CVE-2024-5243-pwn2own-toronto-2023">
+
+---
 ## CVE-2024-52429 ()
 > 
 - [RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52429">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52429">

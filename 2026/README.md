@@ -11,6 +11,11 @@
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
 
 ---
+## CVE-2026-25512 ()
+> 
+- [NumberOreo1/CVE-2026-25512](https://github.com/NumberOreo1/CVE-2026-25512)	<img alt="forks" src="https://img.shields.io/github/forks/NumberOreo1/CVE-2026-25512">	<img alt="stars" src="https://img.shields.io/github/stars/NumberOreo1/CVE-2026-25512">
+
+---
 ## CVE-2026-25211 ()
 > 
 - [mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211](https://github.com/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">
