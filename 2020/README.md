@@ -5804,6 +5804,7 @@
 - [leommxj/cve-2020-0022](https://github.com/leommxj/cve-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/leommxj/cve-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/leommxj/cve-2020-0022">
 - [marcinguy/CVE-2020-0022](https://github.com/marcinguy/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/marcinguy/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/marcinguy/CVE-2020-0022">
 - [themmokhtar/CVE-2020-0022](https://github.com/themmokhtar/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/themmokhtar/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/themmokhtar/CVE-2020-0022">
+- [kalibb/CVE-2020-0022](https://github.com/kalibb/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/kalibb/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/kalibb/CVE-2020-0022">
 
 ---
 ## CVE-2020-0014 (2020-02-13T15:15:00)

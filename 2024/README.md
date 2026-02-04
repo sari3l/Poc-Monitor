@@ -6268,6 +6268,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [etility/CVE-31317-install-apk](https://github.com/etility/CVE-31317-install-apk)	<img alt="forks" src="https://img.shields.io/github/forks/etility/CVE-31317-install-apk">	<img alt="stars" src="https://img.shields.io/github/stars/etility/CVE-31317-install-apk">
 - [min704/CVE-31317-install-apk](https://github.com/min704/CVE-31317-install-apk)	<img alt="forks" src="https://img.shields.io/github/forks/min704/CVE-31317-install-apk">	<img alt="stars" src="https://img.shields.io/github/stars/min704/CVE-31317-install-apk">
 - [rifting/Zygotroller](https://github.com/rifting/Zygotroller)	<img alt="forks" src="https://img.shields.io/github/forks/rifting/Zygotroller">	<img alt="stars" src="https://img.shields.io/github/stars/rifting/Zygotroller">
+- [kalibb/CVE-2024-31317-Deployer](https://github.com/kalibb/CVE-2024-31317-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/kalibb/CVE-2024-31317-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/kalibb/CVE-2024-31317-Deployer">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)

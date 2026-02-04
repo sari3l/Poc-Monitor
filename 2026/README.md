@@ -430,6 +430,12 @@
 - [John-doe-code-a11/CVE-2026-0920](https://github.com/John-doe-code-a11/CVE-2026-0920)	<img alt="forks" src="https://img.shields.io/github/forks/John-doe-code-a11/CVE-2026-0920">	<img alt="stars" src="https://img.shields.io/github/stars/John-doe-code-a11/CVE-2026-0920">
 
 ---
+## CVE-2026-0828 ()
+> 
+- [DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828](https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">
+- [KOSEC-LLC/BYOVD-Research](https://github.com/KOSEC-LLC/BYOVD-Research)	<img alt="forks" src="https://img.shields.io/github/forks/KOSEC-LLC/BYOVD-Research">	<img alt="stars" src="https://img.shields.io/github/stars/KOSEC-LLC/BYOVD-Research">
+
+---
 ## CVE-2026-0628 ()
 > 
 - [fevar54/CVE-2026-0628-POC](https://github.com/fevar54/CVE-2026-0628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0628-POC">
