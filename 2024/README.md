@@ -2917,6 +2917,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [L1337Xi/CVE-2024-46987](https://github.com/L1337Xi/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/L1337Xi/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/L1337Xi/CVE-2024-46987">
 - [Ik0nw/CVE-2024-46987](https://github.com/Ik0nw/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/Ik0nw/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/Ik0nw/CVE-2024-46987">
 - [sparrowhawk1113/Exploit-for-CVE-2024-46987](https://github.com/sparrowhawk1113/Exploit-for-CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/sparrowhawk1113/Exploit-for-CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/sparrowhawk1113/Exploit-for-CVE-2024-46987">
+- [Rival420/CVE-2024-46987](https://github.com/Rival420/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/Rival420/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/Rival420/CVE-2024-46987">
 
 ---
 ## CVE-2024-46986 (2024-09-18T18:15:00)
