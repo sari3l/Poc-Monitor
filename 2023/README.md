@@ -5088,6 +5088,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [JaqueMalman/CVE-2023-33137](https://github.com/JaqueMalman/CVE-2023-33137)	<img alt="forks" src="https://img.shields.io/github/forks/JaqueMalman/CVE-2023-33137">	<img alt="stars" src="https://img.shields.io/github/stars/JaqueMalman/CVE-2023-33137">
 
 ---
+## CVE-2023-33107 ()
+> 
+- [keto0422/CVE-2023-33107](https://github.com/keto0422/CVE-2023-33107)	<img alt="forks" src="https://img.shields.io/github/forks/keto0422/CVE-2023-33107">	<img alt="stars" src="https://img.shields.io/github/stars/keto0422/CVE-2023-33107">
+
+---
 ## CVE-2023-33105 (2024-03-04T11:15:00)
 > Transient DOS in WLAN Host and Firmware when large number of open authentication frames are sent with an invalid transaction sequence number.
 - [D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware](https://github.com/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware)	<img alt="forks" src="https://img.shields.io/github/forks/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware">	<img alt="stars" src="https://img.shields.io/github/stars/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware">
