@@ -9633,6 +9633,7 @@
 ## CVE-2025-10042 ()
 > 
 - [fumioryoto/Quiz-Maker-SQL-Injection-CVE-2025-10042](https://github.com/fumioryoto/Quiz-Maker-SQL-Injection-CVE-2025-10042)	<img alt="forks" src="https://img.shields.io/github/forks/fumioryoto/Quiz-Maker-SQL-Injection-CVE-2025-10042">	<img alt="stars" src="https://img.shields.io/github/stars/fumioryoto/Quiz-Maker-SQL-Injection-CVE-2025-10042">
+- [Tifa-dev/WordPress-Quiz-Maker-SQLi-Exploit-CVE-2025-10042-](https://github.com/Tifa-dev/WordPress-Quiz-Maker-SQLi-Exploit-CVE-2025-10042-)	<img alt="forks" src="https://img.shields.io/github/forks/Tifa-dev/WordPress-Quiz-Maker-SQLi-Exploit-CVE-2025-10042-">	<img alt="stars" src="https://img.shields.io/github/stars/Tifa-dev/WordPress-Quiz-Maker-SQLi-Exploit-CVE-2025-10042-">
 
 ---
 ## CVE-2025-10041 ()
