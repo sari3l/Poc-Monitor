@@ -2866,6 +2866,11 @@
 - [PushkarAyengar/CVE-2025-55854-PoC](https://github.com/PushkarAyengar/CVE-2025-55854-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/PushkarAyengar/CVE-2025-55854-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/PushkarAyengar/CVE-2025-55854-PoC">
 
 ---
+## CVE-2025-55853 ()
+> 
+- [Vivz13/CVE-2025-55853](https://github.com/Vivz13/CVE-2025-55853)	<img alt="forks" src="https://img.shields.io/github/forks/Vivz13/CVE-2025-55853">	<img alt="stars" src="https://img.shields.io/github/stars/Vivz13/CVE-2025-55853">
+
+---
 ## CVE-2025-55817 ()
 > 
 - [5qu1n7/CVE-2025-55817](https://github.com/5qu1n7/CVE-2025-55817)	<img alt="forks" src="https://img.shields.io/github/forks/5qu1n7/CVE-2025-55817">	<img alt="stars" src="https://img.shields.io/github/stars/5qu1n7/CVE-2025-55817">
