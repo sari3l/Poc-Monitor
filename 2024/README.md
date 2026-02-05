@@ -2162,6 +2162,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848)	<img alt="forks" src="https://img.shields.io/github/forks/Wh1teSnak3/CVE-2024-50848">	<img alt="stars" src="https://img.shields.io/github/stars/Wh1teSnak3/CVE-2024-50848">
 - [Raeezrbr/CVE-2024-5084](https://github.com/Raeezrbr/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/Raeezrbr/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/Raeezrbr/CVE-2024-5084">
 - [ModeBrutal/CVE-2024-5084-Auto-Exploit](https://github.com/ModeBrutal/CVE-2024-5084-Auto-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ModeBrutal/CVE-2024-5084-Auto-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ModeBrutal/CVE-2024-5084-Auto-Exploit">
+- [RedTeamBlueTeam/CVE-2024-5084-Red-Team](https://github.com/RedTeamBlueTeam/CVE-2024-5084-Red-Team)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBlueTeam/CVE-2024-5084-Red-Team">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBlueTeam/CVE-2024-5084-Red-Team">
 
 ---
 ## CVE-2024-5083 ()

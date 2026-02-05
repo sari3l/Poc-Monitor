@@ -8396,6 +8396,7 @@
 - [7acini/CVE-2025-2304-CamaleonCMS-PoC](https://github.com/7acini/CVE-2025-2304-CamaleonCMS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/7acini/CVE-2025-2304-CamaleonCMS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/7acini/CVE-2025-2304-CamaleonCMS-PoC">
 - [Alien0ne/CVE-2025-2304](https://github.com/Alien0ne/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/Alien0ne/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/Alien0ne/CVE-2025-2304">
 - [PwnManjaro/CVE-2025-2304](https://github.com/PwnManjaro/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/PwnManjaro/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/PwnManjaro/CVE-2025-2304">
+- [sparrowhawk1113/Exploit-for-CVE-2025-2304](https://github.com/sparrowhawk1113/Exploit-for-CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/sparrowhawk1113/Exploit-for-CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/sparrowhawk1113/Exploit-for-CVE-2025-2304">
 
 ---
 ## CVE-2025-2301 ()
