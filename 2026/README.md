@@ -354,6 +354,7 @@
 - [gavz/CVE-2026-21509-PoC](https://github.com/gavz/CVE-2026-21509-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gavz/CVE-2026-21509-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gavz/CVE-2026-21509-PoC">
 - [decalage2/detect_CVE-2026-21509](https://github.com/decalage2/detect_CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/decalage2/detect_CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/decalage2/detect_CVE-2026-21509">
 - [kimstars/Ashwesker-CVE-2026-21509](https://github.com/kimstars/Ashwesker-CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/kimstars/Ashwesker-CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/kimstars/Ashwesker-CVE-2026-21509">
+- [kaizensecurity/CVE-2026-21509](https://github.com/kaizensecurity/CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/kaizensecurity/CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/kaizensecurity/CVE-2026-21509">
 
 ---
 ## CVE-2026-21451 ()
