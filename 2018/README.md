@@ -1609,6 +1609,7 @@
 - [0xHunter/FortiOS-Credentials-Disclosure](https://github.com/0xHunter/FortiOS-Credentials-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/0xHunter/FortiOS-Credentials-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/0xHunter/FortiOS-Credentials-Disclosure">
 - [milo2012/CVE-2018-13379](https://github.com/milo2012/CVE-2018-13379)	<img alt="forks" src="https://img.shields.io/github/forks/milo2012/CVE-2018-13379">	<img alt="stars" src="https://img.shields.io/github/stars/milo2012/CVE-2018-13379">
 - [kh4sh3i/CVE-2018-13379](https://github.com/kh4sh3i/CVE-2018-13379)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2018-13379">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2018-13379">
+- [Zierax/CVE-2018-13379](https://github.com/Zierax/CVE-2018-13379)	<img alt="forks" src="https://img.shields.io/github/forks/Zierax/CVE-2018-13379">	<img alt="stars" src="https://img.shields.io/github/stars/Zierax/CVE-2018-13379">
 
 ---
 ## CVE-2018-1335 (2018-04-25T21:29:00)
