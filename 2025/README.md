@@ -772,6 +772,7 @@
 ## CVE-2025-67435 ()
 > 
 - [RajChowdhury240/CVE-2025-67435](https://github.com/RajChowdhury240/CVE-2025-67435)	<img alt="forks" src="https://img.shields.io/github/forks/RajChowdhury240/CVE-2025-67435">	<img alt="stars" src="https://img.shields.io/github/stars/RajChowdhury240/CVE-2025-67435">
+- [RajChowdhury240/CVE-2025-67435-PoC](https://github.com/RajChowdhury240/CVE-2025-67435-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/RajChowdhury240/CVE-2025-67435-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/RajChowdhury240/CVE-2025-67435-PoC">
 
 ---
 ## CVE-2025-67399 ()
