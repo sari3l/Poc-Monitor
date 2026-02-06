@@ -470,6 +470,11 @@
 - [mathavamoorthi/CVE-2025-70899](https://github.com/mathavamoorthi/CVE-2025-70899)	<img alt="forks" src="https://img.shields.io/github/forks/mathavamoorthi/CVE-2025-70899">	<img alt="stars" src="https://img.shields.io/github/stars/mathavamoorthi/CVE-2025-70899">
 
 ---
+## CVE-2025-70886 ()
+> 
+- [HowieHz/CVE-2025-70886](https://github.com/HowieHz/CVE-2025-70886)	<img alt="forks" src="https://img.shields.io/github/forks/HowieHz/CVE-2025-70886">	<img alt="stars" src="https://img.shields.io/github/stars/HowieHz/CVE-2025-70886">
+
+---
 ## CVE-2025-70849 ()
 > 
 - [kazisabu/CVE-2025-70849-Podinfo](https://github.com/kazisabu/CVE-2025-70849-Podinfo)	<img alt="forks" src="https://img.shields.io/github/forks/kazisabu/CVE-2025-70849-Podinfo">	<img alt="stars" src="https://img.shields.io/github/stars/kazisabu/CVE-2025-70849-Podinfo">

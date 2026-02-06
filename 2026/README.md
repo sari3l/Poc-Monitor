@@ -161,6 +161,7 @@
 - [lavabyte/telnet-CVE-2026-24061](https://github.com/lavabyte/telnet-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/lavabyte/telnet-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/lavabyte/telnet-CVE-2026-24061">
 - [canpilayda/inetutils-telnetd-cve-2026-24061](https://github.com/canpilayda/inetutils-telnetd-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/canpilayda/inetutils-telnetd-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/canpilayda/inetutils-telnetd-cve-2026-24061">
 - [killsystema/scan-cve-2026-24061](https://github.com/killsystema/scan-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/killsystema/scan-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/killsystema/scan-cve-2026-24061">
+- [nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector](https://github.com/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector">
 
 ---
 ## CVE-2026-2406 ()
