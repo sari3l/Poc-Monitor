@@ -9021,6 +9021,7 @@
 - [pedrocruz2202/pedrocruz2202.github.io](https://github.com/pedrocruz2202/pedrocruz2202.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/pedrocruz2202/pedrocruz2202.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/pedrocruz2202/pedrocruz2202.github.io">
 - [amnnrth/CVE-2025-14847](https://github.com/amnnrth/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/amnnrth/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/amnnrth/CVE-2025-14847">
 - [InfoSecAntara/CVE-2025-14847-MongoDB](https://github.com/InfoSecAntara/CVE-2025-14847-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CVE-2025-14847-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CVE-2025-14847-MongoDB">
+- [im-hanzou/mongobleed](https://github.com/im-hanzou/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/mongobleed">
 
 ---
 ## CVE-2025-14783 ()
