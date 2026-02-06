@@ -101,6 +101,11 @@
 - [b1gchoi/CVE-2026-24306](https://github.com/b1gchoi/CVE-2026-24306)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-24306">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-24306">
 
 ---
+## CVE-2026-24300 ()
+> 
+- [stephaniesahnihi/CVE-2026-24300](https://github.com/stephaniesahnihi/CVE-2026-24300)	<img alt="forks" src="https://img.shields.io/github/forks/stephaniesahnihi/CVE-2026-24300">	<img alt="stars" src="https://img.shields.io/github/stars/stephaniesahnihi/CVE-2026-24300">
+
+---
 ## CVE-2026-24135 ()
 > 
 - [reschjonas/CVE-2026-24135](https://github.com/reschjonas/CVE-2026-24135)	<img alt="forks" src="https://img.shields.io/github/forks/reschjonas/CVE-2026-24135">	<img alt="stars" src="https://img.shields.io/github/stars/reschjonas/CVE-2026-24135">
@@ -177,6 +182,7 @@
 - [canpilayda/inetutils-telnetd-cve-2026-24061](https://github.com/canpilayda/inetutils-telnetd-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/canpilayda/inetutils-telnetd-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/canpilayda/inetutils-telnetd-cve-2026-24061">
 - [killsystema/scan-cve-2026-24061](https://github.com/killsystema/scan-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/killsystema/scan-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/killsystema/scan-cve-2026-24061">
 - [nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector](https://github.com/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector">
+- [scumfrog/cve-2026-24061](https://github.com/scumfrog/cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/scumfrog/cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/scumfrog/cve-2026-24061">
 
 ---
 ## CVE-2026-2406 ()
