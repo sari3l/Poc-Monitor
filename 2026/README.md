@@ -11,6 +11,11 @@
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
 
 ---
+## CVE-2026-25731 ()
+> 
+- [dxlerYT/CVE-2026-25731](https://github.com/dxlerYT/CVE-2026-25731)	<img alt="forks" src="https://img.shields.io/github/forks/dxlerYT/CVE-2026-25731">	<img alt="stars" src="https://img.shields.io/github/stars/dxlerYT/CVE-2026-25731">
+
+---
 ## CVE-2026-25643 ()
 > 
 - [jduardo2704/CVE-2026-25643-Frigate-RCE](https://github.com/jduardo2704/CVE-2026-25643-Frigate-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jduardo2704/CVE-2026-25643-Frigate-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jduardo2704/CVE-2026-25643-Frigate-RCE">
