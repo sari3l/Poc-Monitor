@@ -10873,6 +10873,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [zetraxz/CVE-2024-0113](https://github.com/zetraxz/CVE-2024-0113)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-0113">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-0113">
 
 ---
+## CVE-2024-0070 ()
+> 
+- [SimoesCTT/CVE-2024-0070-NVIDIA-GPU-Driver--Resonance-Vulnerability](https://github.com/SimoesCTT/CVE-2024-0070-NVIDIA-GPU-Driver--Resonance-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CVE-2024-0070-NVIDIA-GPU-Driver--Resonance-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CVE-2024-0070-NVIDIA-GPU-Driver--Resonance-Vulnerability">
+
+---
 ## CVE-2024-0049 (2024-03-11T17:15:00)
 > In multiple locations, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User  interaction is not needed for exploitation.
 - [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049">
