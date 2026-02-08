@@ -503,6 +503,11 @@
 - [KOSEC-LLC/BYOVD-Research](https://github.com/KOSEC-LLC/BYOVD-Research)	<img alt="forks" src="https://img.shields.io/github/forks/KOSEC-LLC/BYOVD-Research">	<img alt="stars" src="https://img.shields.io/github/stars/KOSEC-LLC/BYOVD-Research">
 
 ---
+## CVE-2026-0770 ()
+> 
+- [affix/CVE-2026-0770-PoC](https://github.com/affix/CVE-2026-0770-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/affix/CVE-2026-0770-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/affix/CVE-2026-0770-PoC">
+
+---
 ## CVE-2026-0628 ()
 > 
 - [fevar54/CVE-2026-0628-POC](https://github.com/fevar54/CVE-2026-0628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0628-POC">
