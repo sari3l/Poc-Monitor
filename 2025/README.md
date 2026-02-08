@@ -4676,6 +4676,7 @@
 - [str1keboo/CVE-2025-49132](https://github.com/str1keboo/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/str1keboo/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/str1keboo/CVE-2025-49132">
 - [malw0re/CVE-2025-49132---Pterodactyl-RCE-HTB-Season-10-](https://github.com/malw0re/CVE-2025-49132---Pterodactyl-RCE-HTB-Season-10-)	<img alt="forks" src="https://img.shields.io/github/forks/malw0re/CVE-2025-49132---Pterodactyl-RCE-HTB-Season-10-">	<img alt="stars" src="https://img.shields.io/github/stars/malw0re/CVE-2025-49132---Pterodactyl-RCE-HTB-Season-10-">
 - [YoyoChaud/CVE-2025-49132](https://github.com/YoyoChaud/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/YoyoChaud/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/YoyoChaud/CVE-2025-49132">
+- [ramzihafiz/CVE-2025-49132](https://github.com/ramzihafiz/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/ramzihafiz/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/ramzihafiz/CVE-2025-49132">
 
 ---
 ## CVE-2025-49131 ()
