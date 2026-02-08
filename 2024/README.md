@@ -2920,6 +2920,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [sparrowhawk1113/Exploit-for-CVE-2024-46987](https://github.com/sparrowhawk1113/Exploit-for-CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/sparrowhawk1113/Exploit-for-CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/sparrowhawk1113/Exploit-for-CVE-2024-46987">
 - [Rival420/CVE-2024-46987](https://github.com/Rival420/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/Rival420/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/Rival420/CVE-2024-46987">
 - [advaitpathak21/CVE-2024-46987](https://github.com/advaitpathak21/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/advaitpathak21/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/advaitpathak21/CVE-2024-46987">
+- [rabouzia/CVE-2024-46987](https://github.com/rabouzia/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/rabouzia/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/rabouzia/CVE-2024-46987">
 
 ---
 ## CVE-2024-46986 (2024-09-18T18:15:00)
