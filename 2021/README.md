@@ -6245,6 +6245,12 @@
 - [r3s3tt/CVE-2021-31755](https://github.com/r3s3tt/CVE-2021-31755)	<img alt="forks" src="https://img.shields.io/github/forks/r3s3tt/CVE-2021-31755">	<img alt="stars" src="https://img.shields.io/github/stars/r3s3tt/CVE-2021-31755">
 
 ---
+## CVE-2021-31712 ()
+> 
+- [CQ-Tools/CVE-2021-31712-fixed](https://github.com/CQ-Tools/CVE-2021-31712-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2021-31712-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2021-31712-fixed">
+- [CQ-Tools/CVE-2021-31712-unfixed](https://github.com/CQ-Tools/CVE-2021-31712-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2021-31712-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2021-31712-unfixed">
+
+---
 ## CVE-2021-3166 (2021-01-18T05:15:00)
 > An issue was discovered on ASUS DSL-N14U-B1 1.1.2.3_805 devices. An attacker can upload arbitrary file content as a firmware update when the filename Settings_DSL-N14U-B1.trx is used. Once this file is loaded, shutdown measures on a wide range of services are triggered as if it were a real update, resulting in a persistent outage of those services.
 - [kaisersource/CVE-2021-3166](https://github.com/kaisersource/CVE-2021-3166)	<img alt="forks" src="https://img.shields.io/github/forks/kaisersource/CVE-2021-3166">	<img alt="stars" src="https://img.shields.io/github/stars/kaisersource/CVE-2021-3166">

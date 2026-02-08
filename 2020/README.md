@@ -345,6 +345,12 @@
 - [mbadanoiu/CVE-2020-8248](https://github.com/mbadanoiu/CVE-2020-8248)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-8248">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-8248">
 
 ---
+## CVE-2020-8244 ()
+> 
+- [CQ-Tools/CVE-2020-8244-fixed](https://github.com/CQ-Tools/CVE-2020-8244-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8244-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8244-fixed">
+- [CQ-Tools/CVE-2020-8244-unfixed](https://github.com/CQ-Tools/CVE-2020-8244-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8244-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8244-unfixed">
+
+---
 ## CVE-2020-8196 (2020-07-10T16:15:00)
 > Improper access control in Citrix ADC and Citrix Gateway versions before 13.0-58.30, 12.1-57.18, 12.0-63.21, 11.1-64.14 and 10.5-70.18 and Citrix SDWAN WAN-OP versions before 11.1.1a, 11.0.3d and 10.2.7 resulting in limited information disclosure to low privileged users.
 - [Live-Hack-CVE/CVE-2020-8196](https://github.com/Live-Hack-CVE/CVE-2020-8196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8196">
@@ -365,6 +371,12 @@
 - [jas502n/CVE-2020-8193](https://github.com/jas502n/CVE-2020-8193)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-8193">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-8193">
 
 ---
+## CVE-2020-8192 ()
+> 
+- [CQ-Tools/CVE-2020-8192-unfixed](https://github.com/CQ-Tools/CVE-2020-8192-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8192-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8192-unfixed">
+- [CQ-Tools/CVE-2020-8192-fixed](https://github.com/CQ-Tools/CVE-2020-8192-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8192-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8192-fixed">
+
+---
 ## CVE-2020-8163 (2020-07-02T19:15:00)
 > The is a code injection vulnerability in versions of Rails prior to 5.0.1 that wouldallow an attacker who controlled the `locals` argument of a `render` call to perform a RCE.
 - [lucasallan/CVE-2020-8163](https://github.com/lucasallan/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/lucasallan/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/lucasallan/CVE-2020-8163">
@@ -376,6 +388,13 @@
 ## CVE-2020-8158 ()
 > 
 - [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2020-8158">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2020-8158">
+
+---
+## CVE-2020-8116 ()
+> 
+- [CQ-Tools/CVE-2020-8116-fixed](https://github.com/CQ-Tools/CVE-2020-8116-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8116-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8116-fixed">
+- [CQ-Tools/CVE-2020-8116-unfixed](https://github.com/CQ-Tools/CVE-2020-8116-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8116-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8116-unfixed">
+- [ossf-cve-benchmark/CVE-2020-8116](https://github.com/ossf-cve-benchmark/CVE-2020-8116)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-8116">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-8116">
 
 ---
 ## CVE-2020-8003 (2020-01-27T05:15:00)
@@ -465,6 +484,13 @@
 ## CVE-2020-7766 (2020-11-10T16:15:00)
 > This affects all versions of package json-ptr. The issue occurs in the set operation (https://flitbit.github.io/json-ptr/classes/_src_pointer_.jsonpointer.htmlset) when the force flag is set to true. The function recursively set the property in the target object, however it does not properly check the key being set, leading to a prototype pollution.
 - [Live-Hack-CVE/CVE-2020-7766](https://github.com/Live-Hack-CVE/CVE-2020-7766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7766">
+
+---
+## CVE-2020-7763 ()
+> 
+- [CQ-Tools/CVE-2020-7763-unfixed](https://github.com/CQ-Tools/CVE-2020-7763-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7763-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7763-unfixed">
+- [CQ-Tools/CVE-2020-7763-fixed](https://github.com/CQ-Tools/CVE-2020-7763-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7763-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7763-fixed">
+- [ossf-cve-benchmark/CVE-2020-7763](https://github.com/ossf-cve-benchmark/CVE-2020-7763)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-7763">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-7763">
 
 ---
 ## CVE-2020-7748 (2020-10-20T11:15:00)
@@ -592,6 +618,8 @@
 - [Live-Hack-CVE/CVE-2020-7699](https://github.com/Live-Hack-CVE/CVE-2020-7699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7699">
 - [hemaoqi-Tom/CVE-2020-7699_reproduce](https://github.com/hemaoqi-Tom/CVE-2020-7699_reproduce)	<img alt="forks" src="https://img.shields.io/github/forks/hemaoqi-Tom/CVE-2020-7699_reproduce">	<img alt="stars" src="https://img.shields.io/github/stars/hemaoqi-Tom/CVE-2020-7699_reproduce">
 - [ossf-cve-benchmark/CVE-2020-7699](https://github.com/ossf-cve-benchmark/CVE-2020-7699)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-7699">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-7699">
+- [CQ-Tools/CVE-2020-7699-unfixed](https://github.com/CQ-Tools/CVE-2020-7699-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7699-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7699-unfixed">
+- [CQ-Tools/CVE-2020-7699-fixed](https://github.com/CQ-Tools/CVE-2020-7699-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7699-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7699-fixed">
 
 ---
 ## CVE-2020-7693 ()
@@ -608,6 +636,26 @@
 ## CVE-2020-7677 (2022-07-25T14:15:00)
 > This affects the package thenify before 3.3.1. The name argument provided to the package can be controlled by users without any sanitization, and this is provided to the eval function without any sanitization.
 - [Live-Hack-CVE/CVE-2020-7677](https://github.com/Live-Hack-CVE/CVE-2020-7677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7677">
+
+---
+## CVE-2020-7662 ()
+> 
+- [CQ-Tools/CVE-2020-7662-fixed](https://github.com/CQ-Tools/CVE-2020-7662-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7662-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7662-fixed">
+- [CQ-Tools/CVE-2020-7662-unfixed](https://github.com/CQ-Tools/CVE-2020-7662-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7662-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7662-unfixed">
+- [ossf-cve-benchmark/CVE-2020-7662](https://github.com/ossf-cve-benchmark/CVE-2020-7662)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-7662">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-7662">
+
+---
+## CVE-2020-7660 ()
+> 
+- [CQ-Tools/CVE-2020-7660-fixed](https://github.com/CQ-Tools/CVE-2020-7660-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7660-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7660-fixed">
+- [CQ-Tools/CVE-2020-7660-unfixed](https://github.com/CQ-Tools/CVE-2020-7660-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7660-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7660-unfixed">
+- [ossf-cve-benchmark/CVE-2020-7660](https://github.com/ossf-cve-benchmark/CVE-2020-7660)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-7660">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-7660">
+
+---
+## CVE-2020-7656 ()
+> 
+- [CQ-Tools/CVE-2020-7656-fixed](https://github.com/CQ-Tools/CVE-2020-7656-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7656-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7656-fixed">
+- [CQ-Tools/CVE-2020-7656-unfixed](https://github.com/CQ-Tools/CVE-2020-7656-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7656-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7656-unfixed">
 
 ---
 ## CVE-2020-7644 (2020-04-28T19:15:00)
@@ -730,6 +778,12 @@
 ## CVE-2020-7064 (2020-04-01T04:15:00)
 > In PHP versions 7.2.x below 7.2.9, 7.3.x below 7.3.16 and 7.4.x below 7.4.4, while parsing EXIF data with exif_read_data() function, it is possible for malicious data to cause PHP to read one byte of uninitialized memory. This could potentially lead to information disclosure or crash.
 - [Live-Hack-CVE/CVE-2020-7064](https://github.com/Live-Hack-CVE/CVE-2020-7064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7064">
+
+---
+## CVE-2020-6836 ()
+> 
+- [CQ-Tools/CVE-2020-6836-unfixed](https://github.com/CQ-Tools/CVE-2020-6836-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-6836-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-6836-unfixed">
+- [CQ-Tools/CVE-2020-6836-fixed](https://github.com/CQ-Tools/CVE-2020-6836-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-6836-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-6836-fixed">
 
 ---
 ## CVE-2020-6627 (2022-12-06T15:15:00)

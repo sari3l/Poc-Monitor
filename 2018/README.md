@@ -590,6 +590,13 @@
 - [mpgn/CVE-2018-3760](https://github.com/mpgn/CVE-2018-3760)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2018-3760">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2018-3760">
 
 ---
+## CVE-2018-3757 ()
+> 
+- [CQ-Tools/CVE-2018-3757-unfixed](https://github.com/CQ-Tools/CVE-2018-3757-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3757-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3757-unfixed">
+- [CQ-Tools/CVE-2018-3757-fixed](https://github.com/CQ-Tools/CVE-2018-3757-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3757-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3757-fixed">
+- [ossf-cve-benchmark/CVE-2018-3757](https://github.com/ossf-cve-benchmark/CVE-2018-3757)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3757">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3757">
+
+---
 ## CVE-2018-3282 (2018-10-17T01:31:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Storage Engines). Supported versions that are affected are 5.5.61 and prior, 5.6.41 and prior, 5.7.23 and prior and 8.0.12 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2018-3282](https://github.com/Live-Hack-CVE/CVE-2018-3282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3282">
@@ -883,6 +890,11 @@
 ## CVE-2018-21010 (2019-09-05T13:15:00)
 > OpenJPEG before 2.3.1 has a heap buffer overflow in color_apply_icc_profile in bin/common/color.c.
 - [Live-Hack-CVE/CVE-2018-21010](https://github.com/Live-Hack-CVE/CVE-2018-21010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-21010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-21010">
+
+---
+## CVE-2018-20835 ()
+> 
+- [CQ-Tools/CVE-2018-20835-fixed](https://github.com/CQ-Tools/CVE-2018-20835-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-20835-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-20835-fixed">
 
 ---
 ## CVE-2018-20580 (2019-05-03T20:29:00)
