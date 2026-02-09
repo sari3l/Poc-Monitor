@@ -3563,6 +3563,7 @@
 - [woorifisa-service-dev-6th/tech-seminar-React2Shell](https://github.com/woorifisa-service-dev-6th/tech-seminar-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/woorifisa-service-dev-6th/tech-seminar-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/woorifisa-service-dev-6th/tech-seminar-React2Shell">
 - [MuhammadUwais/React2Shell](https://github.com/MuhammadUwais/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadUwais/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadUwais/React2Shell">
 - [Evillm/CVE-2025-55182-PoC](https://github.com/Evillm/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-55182-PoC">
+- [BrianLopezM99/react2shell-CVE-2025-55182](https://github.com/BrianLopezM99/react2shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BrianLopezM99/react2shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BrianLopezM99/react2shell-CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
