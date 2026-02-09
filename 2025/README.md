@@ -196,6 +196,7 @@
 - [moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS](https://github.com/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS">
 - [mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2](https://github.com/mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2)	<img alt="forks" src="https://img.shields.io/github/forks/mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2">	<img alt="stars" src="https://img.shields.io/github/stars/mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2">
 - [abiyeenzo/CVE-2025-8671](https://github.com/abiyeenzo/CVE-2025-8671)	<img alt="forks" src="https://img.shields.io/github/forks/abiyeenzo/CVE-2025-8671">	<img alt="stars" src="https://img.shields.io/github/stars/abiyeenzo/CVE-2025-8671">
+- [mysara2022/CVE-2025-8671-vulnerability-POC-](https://github.com/mysara2022/CVE-2025-8671-vulnerability-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/mysara2022/CVE-2025-8671-vulnerability-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/mysara2022/CVE-2025-8671-vulnerability-POC-">
 
 ---
 ## CVE-2025-8625 ()
