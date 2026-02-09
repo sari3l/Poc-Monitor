@@ -143,6 +143,7 @@
 - [KvzinNcpx7/CVE-2025-9074_DAEMON_KILLER](https://github.com/KvzinNcpx7/CVE-2025-9074_DAEMON_KILLER)	<img alt="forks" src="https://img.shields.io/github/forks/KvzinNcpx7/CVE-2025-9074_DAEMON_KILLER">	<img alt="stars" src="https://img.shields.io/github/stars/KvzinNcpx7/CVE-2025-9074_DAEMON_KILLER">
 - [KvzinNcpx7/kvzinncpx7.github.io](https://github.com/KvzinNcpx7/kvzinncpx7.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/KvzinNcpx7/kvzinncpx7.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/KvzinNcpx7/kvzinncpx7.github.io">
 - [x0da6h/POC-for-CVE-2025-9074](https://github.com/x0da6h/POC-for-CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2025-9074">
+- [matesz44/CVE-2025-9074](https://github.com/matesz44/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-9074">
 
 ---
 ## CVE-2025-9043 ()

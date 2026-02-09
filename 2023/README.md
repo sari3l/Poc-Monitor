@@ -4578,6 +4578,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [radman404/CVE-2023-34634](https://github.com/radman404/CVE-2023-34634)	<img alt="forks" src="https://img.shields.io/github/forks/radman404/CVE-2023-34634">	<img alt="stars" src="https://img.shields.io/github/stars/radman404/CVE-2023-34634">
 
 ---
+## CVE-2023-34632 ()
+> 
+- [ssophiz/CVE-2023-34632](https://github.com/ssophiz/CVE-2023-34632)	<img alt="forks" src="https://img.shields.io/github/forks/ssophiz/CVE-2023-34632">	<img alt="stars" src="https://img.shields.io/github/stars/ssophiz/CVE-2023-34632">
+
+---
 ## CVE-2023-3460 (2023-07-04T08:15:00)
 > The Ultimate Member WordPress plugin before 2.6.7 does not prevent visitors from creating user accounts with arbitrary capabilities, effectively allowing attackers to create administrator accounts at will. This is actively being exploited in the wild.
 - [gbrsh/CVE-2023-3460](https://github.com/gbrsh/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-3460">
