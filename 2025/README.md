@@ -9116,6 +9116,7 @@
 > 
 - [JohannesLks/CVE-2025-14558](https://github.com/JohannesLks/CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2025-14558">
 - [Ashwesker/Ashwesker-CVE-2025-14558](https://github.com/Ashwesker/Ashwesker-CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-14558">
+- [rockmelodies/Blackash-CVE-2025-14558](https://github.com/rockmelodies/Blackash-CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/Blackash-CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/Blackash-CVE-2025-14558">
 
 ---
 ## CVE-2025-14502 ()
