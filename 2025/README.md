@@ -256,6 +256,7 @@
 - [111ddea/goga-cve-2025-8110](https://github.com/111ddea/goga-cve-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/goga-cve-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/goga-cve-2025-8110">
 - [zAbuQasem/gogs-CVE-2025-8110](https://github.com/zAbuQasem/gogs-CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/zAbuQasem/gogs-CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/zAbuQasem/gogs-CVE-2025-8110">
 - [freiwi/CVE-2025-8110](https://github.com/freiwi/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/freiwi/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/freiwi/CVE-2025-8110">
+- [George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution](https://github.com/George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution">
 
 ---
 ## CVE-2025-8088 ()
@@ -540,6 +541,11 @@
 ## CVE-2025-69581 ()
 > 
 - [Rivek619/CVE-2025-69581](https://github.com/Rivek619/CVE-2025-69581)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-69581">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-69581">
+
+---
+## CVE-2025-69516 ()
+> 
+- [NtGabrielGomes/CVE-2025-69516](https://github.com/NtGabrielGomes/CVE-2025-69516)	<img alt="forks" src="https://img.shields.io/github/forks/NtGabrielGomes/CVE-2025-69516">	<img alt="stars" src="https://img.shields.io/github/stars/NtGabrielGomes/CVE-2025-69516">
 
 ---
 ## CVE-2025-69460 ()
@@ -3574,6 +3580,7 @@
 - [MuhammadUwais/React2Shell](https://github.com/MuhammadUwais/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadUwais/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadUwais/React2Shell">
 - [Evillm/CVE-2025-55182-PoC](https://github.com/Evillm/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-55182-PoC">
 - [BrianLopezM99/react2shell-CVE-2025-55182](https://github.com/BrianLopezM99/react2shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BrianLopezM99/react2shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BrianLopezM99/react2shell-CVE-2025-55182">
+- [George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-](https://github.com/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">
 
 ---
 ## CVE-2025-55130 ()
