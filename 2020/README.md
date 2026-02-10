@@ -5695,6 +5695,7 @@
 - [Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability](https://github.com/Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability">
 - [nyambiblaise/Microsoft-Windows-SMBGhost-Vulnerability-Checker---CVE-2020-0796---SMBv3-RCE](https://github.com/nyambiblaise/Microsoft-Windows-SMBGhost-Vulnerability-Checker---CVE-2020-0796---SMBv3-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nyambiblaise/Microsoft-Windows-SMBGhost-Vulnerability-Checker---CVE-2020-0796---SMBv3-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nyambiblaise/Microsoft-Windows-SMBGhost-Vulnerability-Checker---CVE-2020-0796---SMBv3-RCE">
 - [thai1012/cve-2020-0796](https://github.com/thai1012/cve-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/thai1012/cve-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/thai1012/cve-2020-0796">
+- [harrymaguire1878/CVE-2020-0796](https://github.com/harrymaguire1878/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/harrymaguire1878/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/harrymaguire1878/CVE-2020-0796">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)

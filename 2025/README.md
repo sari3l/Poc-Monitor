@@ -639,6 +639,7 @@
 - [Ashwesker/Ashwesker-CVE-2025-68645](https://github.com/Ashwesker/Ashwesker-CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-68645">
 - [chinaxploiter/CVE-2025-68645-PoC](https://github.com/chinaxploiter/CVE-2025-68645-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chinaxploiter/CVE-2025-68645-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chinaxploiter/CVE-2025-68645-PoC">
 - [MaxMnMl/zimbramail-CVE-2025-68645-poc](https://github.com/MaxMnMl/zimbramail-CVE-2025-68645-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/zimbramail-CVE-2025-68645-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/zimbramail-CVE-2025-68645-poc">
+- [faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability](https://github.com/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">
 
 ---
 ## CVE-2025-68615 ()

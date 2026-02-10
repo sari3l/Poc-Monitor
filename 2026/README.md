@@ -31,6 +31,11 @@
 - [cardosource/CVE-2026-25828](https://github.com/cardosource/CVE-2026-25828)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/CVE-2026-25828">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/CVE-2026-25828">
 
 ---
+## CVE-2026-25807 ()
+> 
+- [ibrahmsql/CVE-2026-25807-Exploit](https://github.com/ibrahmsql/CVE-2026-25807-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2026-25807-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2026-25807-Exploit">
+
+---
 ## CVE-2026-25732 ()
 > 
 - [mbanyamer/CVE-2026-25732-NiceGUI-3.6.1](https://github.com/mbanyamer/CVE-2026-25732-NiceGUI-3.6.1)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25732-NiceGUI-3.6.1">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25732-NiceGUI-3.6.1">
