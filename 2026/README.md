@@ -85,6 +85,11 @@
 - [Jvr2022/CVE-2026-25126](https://github.com/Jvr2022/CVE-2026-25126)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-25126">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-25126">
 
 ---
+## CVE-2026-25053 ()
+> 
+- [yadhukrishnam/CVE-2026-25053](https://github.com/yadhukrishnam/CVE-2026-25053)	<img alt="forks" src="https://img.shields.io/github/forks/yadhukrishnam/CVE-2026-25053">	<img alt="stars" src="https://img.shields.io/github/stars/yadhukrishnam/CVE-2026-25053">
+
+---
 ## CVE-2026-25050 ()
 > 
 - [Christbowel/CVE-2026-25050](https://github.com/Christbowel/CVE-2026-25050)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2026-25050">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2026-25050">
