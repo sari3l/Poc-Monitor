@@ -3783,6 +3783,7 @@
 - [somprasong-tukman/CVE-2025-5419](https://github.com/somprasong-tukman/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/somprasong-tukman/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/somprasong-tukman/CVE-2025-5419">
 - [bjrjk/CVE-2025-5419](https://github.com/bjrjk/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2025-5419">
 - [Riquelme54322/CVE-2025-5419](https://github.com/Riquelme54322/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/Riquelme54322/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/Riquelme54322/CVE-2025-5419">
+- [Riquelme54322/riquelme54322.github.io](https://github.com/Riquelme54322/riquelme54322.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Riquelme54322/riquelme54322.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Riquelme54322/riquelme54322.github.io">
 
 ---
 ## CVE-2025-54136 ()
