@@ -6566,6 +6566,11 @@ and the severity is therefore considered low.
 - [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">
 
 ---
+## CVE-2023-26482 ()
+> 
+- [ISabbiI/PoC---CVE-2023-26482-RCE-LAB-Nextcloud](https://github.com/ISabbiI/PoC---CVE-2023-26482-RCE-LAB-Nextcloud)	<img alt="forks" src="https://img.shields.io/github/forks/ISabbiI/PoC---CVE-2023-26482-RCE-LAB-Nextcloud">	<img alt="stars" src="https://img.shields.io/github/stars/ISabbiI/PoC---CVE-2023-26482-RCE-LAB-Nextcloud">
+
+---
 ## CVE-2023-2648 (2023-05-11T08:15:00)
 > A vulnerability was found in Weaver E-Office 9.5. It has been classified as critical. This affects an unknown part of the file /inc/jquery/uploadify/uploadify.php. The manipulation of the argument Filedata leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-228777 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [inviewp/-E-Office_CVE-2023-2648](https://github.com/inviewp/-E-Office_CVE-2023-2648)	<img alt="forks" src="https://img.shields.io/github/forks/inviewp/-E-Office_CVE-2023-2648">	<img alt="stars" src="https://img.shields.io/github/stars/inviewp/-E-Office_CVE-2023-2648">
