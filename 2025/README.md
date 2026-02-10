@@ -3782,6 +3782,7 @@
 - [pavan3478/CVE-2025-5419](https://github.com/pavan3478/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/pavan3478/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/pavan3478/CVE-2025-5419">
 - [somprasong-tukman/CVE-2025-5419](https://github.com/somprasong-tukman/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/somprasong-tukman/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/somprasong-tukman/CVE-2025-5419">
 - [bjrjk/CVE-2025-5419](https://github.com/bjrjk/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2025-5419">
+- [Riquelme54322/CVE-2025-5419](https://github.com/Riquelme54322/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/Riquelme54322/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/Riquelme54322/CVE-2025-5419">
 
 ---
 ## CVE-2025-54136 ()
@@ -4703,6 +4704,7 @@
 - [ramzihafiz/CVE-2025-49132](https://github.com/ramzihafiz/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/ramzihafiz/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/ramzihafiz/CVE-2025-49132">
 - [kerburenthusiasm/CVE-2025-49132-PoC](https://github.com/kerburenthusiasm/CVE-2025-49132-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kerburenthusiasm/CVE-2025-49132-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kerburenthusiasm/CVE-2025-49132-PoC">
 - [Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10](https://github.com/Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10">
+- [matesz44/CVE-2025-49132](https://github.com/matesz44/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-49132">
 
 ---
 ## CVE-2025-49131 ()
