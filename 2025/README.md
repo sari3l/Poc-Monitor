@@ -3586,6 +3586,7 @@
 - [Evillm/CVE-2025-55182-PoC](https://github.com/Evillm/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-55182-PoC">
 - [BrianLopezM99/react2shell-CVE-2025-55182](https://github.com/BrianLopezM99/react2shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BrianLopezM99/react2shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BrianLopezM99/react2shell-CVE-2025-55182">
 - [George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-](https://github.com/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">
+- [atiilla/CVE-2025-55182](https://github.com/atiilla/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
@@ -4701,6 +4702,7 @@
 - [YoyoChaud/CVE-2025-49132](https://github.com/YoyoChaud/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/YoyoChaud/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/YoyoChaud/CVE-2025-49132">
 - [ramzihafiz/CVE-2025-49132](https://github.com/ramzihafiz/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/ramzihafiz/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/ramzihafiz/CVE-2025-49132">
 - [kerburenthusiasm/CVE-2025-49132-PoC](https://github.com/kerburenthusiasm/CVE-2025-49132-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kerburenthusiasm/CVE-2025-49132-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kerburenthusiasm/CVE-2025-49132-PoC">
+- [Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10](https://github.com/Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10">
 
 ---
 ## CVE-2025-49131 ()
