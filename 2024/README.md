@@ -3199,6 +3199,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 ## CVE-2024-45440 ()
 > 
 - [w0r1i0g1ht/CVE-2024-45440](https://github.com/w0r1i0g1ht/CVE-2024-45440)	<img alt="forks" src="https://img.shields.io/github/forks/w0r1i0g1ht/CVE-2024-45440">	<img alt="stars" src="https://img.shields.io/github/stars/w0r1i0g1ht/CVE-2024-45440">
+- [zoomdbz/CVE-2024-45440](https://github.com/zoomdbz/CVE-2024-45440)	<img alt="forks" src="https://img.shields.io/github/forks/zoomdbz/CVE-2024-45440">	<img alt="stars" src="https://img.shields.io/github/stars/zoomdbz/CVE-2024-45440">
 
 ---
 ## CVE-2024-45436 (2024-08-29T03:15:00)
