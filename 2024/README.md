@@ -9409,6 +9409,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [ViniciusFariasDev/cve-2024-21413-outlook-monikerlink-lab](https://github.com/ViniciusFariasDev/cve-2024-21413-outlook-monikerlink-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ViniciusFariasDev/cve-2024-21413-outlook-monikerlink-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ViniciusFariasDev/cve-2024-21413-outlook-monikerlink-lab">
 - [dionissh/CVE-2024-21413](https://github.com/dionissh/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/dionissh/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/dionissh/CVE-2024-21413">
 - [securenetexpert/CVE-2024-21413-Moniker-Link-Writeup](https://github.com/securenetexpert/CVE-2024-21413-Moniker-Link-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/securenetexpert/CVE-2024-21413-Moniker-Link-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/securenetexpert/CVE-2024-21413-Moniker-Link-Writeup">
+- [SallocinAvalcante/lab-SMB-responder-CVE-2024-21413](https://github.com/SallocinAvalcante/lab-SMB-responder-CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/SallocinAvalcante/lab-SMB-responder-CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/SallocinAvalcante/lab-SMB-responder-CVE-2024-21413">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
