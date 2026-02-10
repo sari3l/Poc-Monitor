@@ -924,7 +924,8 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 > The WPML plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.6.12 via the Twig Server-Side Template Injection. This is due to missing input validation and sanitization on the render function. This makes it possible for authenticated attackers, with Contributor-level access and above, to execute code on the server.
 - [realbotnet/CVE-2024-6386](https://github.com/realbotnet/CVE-2024-6386)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-6386">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-6386">
 - [realbotnet/CVE-2024-6386](https://github.com/realbotnet/CVE-2024-6386)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-6386">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-6386">
-- [Argendo/CVE-2024-6386](https://github.com/Argendo/CVE-2024-6386)	<img alt="forks" src="https://img.shields.io/github/forks/Argendo/CVE-2024-6386">	<img alt="stars" src="https://img.shields.io/github/stars/Argendo/CVE-2024-6386">
+- [argendo/CVE-2024-6386](https://github.com/argendo/CVE-2024-6386)	<img alt="forks" src="https://img.shields.io/github/forks/argendo/CVE-2024-6386">	<img alt="stars" src="https://img.shields.io/github/stars/argendo/CVE-2024-6386">
+- [bananoname/CVE-2024-6386-WPML-SSTI](https://github.com/bananoname/CVE-2024-6386-WPML-SSTI)	<img alt="forks" src="https://img.shields.io/github/forks/bananoname/CVE-2024-6386-WPML-SSTI">	<img alt="stars" src="https://img.shields.io/github/stars/bananoname/CVE-2024-6386-WPML-SSTI">
 
 ---
 ## CVE-2024-6366 (2024-07-29T06:15:00)

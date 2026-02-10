@@ -1853,6 +1853,7 @@
 - [GhoStZA-debug/CVE-2025-61882](https://github.com/GhoStZA-debug/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/GhoStZA-debug/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/GhoStZA-debug/CVE-2025-61882">
 - [Zhert-lab/CVE-2025-61882-CVE-2025-61884](https://github.com/Zhert-lab/CVE-2025-61882-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/Zhert-lab/CVE-2025-61882-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/Zhert-lab/CVE-2025-61882-CVE-2025-61884">
 - [222dff-afk/Blackash-CVE-2025-61882](https://github.com/222dff-afk/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/222dff-afk/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/222dff-afk/Blackash-CVE-2025-61882">
+- [George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE](https://github.com/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">
 
 ---
 ## CVE-2025-61777 ()
