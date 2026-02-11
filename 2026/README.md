@@ -510,6 +510,7 @@
 ## CVE-2026-20841 ()
 > 
 - [BTtea/CVE-2026-20841-PoC](https://github.com/BTtea/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BTtea/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BTtea/CVE-2026-20841-PoC">
+- [RajaUzairAbdullah/CVE-2026-20841](https://github.com/RajaUzairAbdullah/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/RajaUzairAbdullah/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/RajaUzairAbdullah/CVE-2026-20841">
 
 ---
 ## CVE-2026-20805 ()
