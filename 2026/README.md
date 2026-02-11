@@ -434,6 +434,7 @@
 - [NOTTIBOY137/RulesGuard](https://github.com/NOTTIBOY137/RulesGuard)	<img alt="forks" src="https://img.shields.io/github/forks/NOTTIBOY137/RulesGuard">	<img alt="stars" src="https://img.shields.io/github/stars/NOTTIBOY137/RulesGuard">
 - [Alhakim88/CVE-2026-21858](https://github.com/Alhakim88/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Alhakim88/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Alhakim88/CVE-2026-21858">
 - [bgarz929/Ashwesker-CVE-2026-21858](https://github.com/bgarz929/Ashwesker-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/bgarz929/Ashwesker-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/bgarz929/Ashwesker-CVE-2026-21858">
+- [EQSTLab/CVE-2026-21858](https://github.com/EQSTLab/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-21858">
 
 ---
 ## CVE-2026-21721 ()
@@ -498,6 +499,11 @@
 ## CVE-2026-20856 ()
 > 
 - [b1gchoi/poc-CVE-2026-20856](https://github.com/b1gchoi/poc-CVE-2026-20856)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/poc-CVE-2026-20856">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/poc-CVE-2026-20856">
+
+---
+## CVE-2026-20841 ()
+> 
+- [BTtea/CVE-2026-20841-PoC](https://github.com/BTtea/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BTtea/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BTtea/CVE-2026-20841-PoC">
 
 ---
 ## CVE-2026-20805 ()

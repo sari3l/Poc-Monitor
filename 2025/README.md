@@ -314,6 +314,7 @@
 - [Markusino488/cve-2025-8088](https://github.com/Markusino488/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Markusino488/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Markusino488/cve-2025-8088">
 - [vitalichkaa/CVE-2025-8088](https://github.com/vitalichkaa/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/vitalichkaa/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/vitalichkaa/CVE-2025-8088">
 - [ilhamrzr/RAR-Anomaly-Inspector](https://github.com/ilhamrzr/RAR-Anomaly-Inspector)	<img alt="forks" src="https://img.shields.io/github/forks/ilhamrzr/RAR-Anomaly-Inspector">	<img alt="stars" src="https://img.shields.io/github/stars/ilhamrzr/RAR-Anomaly-Inspector">
+- [Ismael-20223/CVE-2025-8088](https://github.com/Ismael-20223/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Ismael-20223/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Ismael-20223/CVE-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
@@ -2186,6 +2187,7 @@
 - [m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit">
 - [0rionCollector/Exploit-Chain-CVE-2025-6018-6019](https://github.com/0rionCollector/Exploit-Chain-CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">
 - [MichaelVenturella/CVE-2025-6018-6019-PoC](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelVenturella/CVE-2025-6018-6019-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelVenturella/CVE-2025-6018-6019-PoC">
+- [matesz44/CVE-2025-6018-19](https://github.com/matesz44/CVE-2025-6018-19)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-6018-19">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-6018-19">
 
 ---
 ## CVE-2025-60021 ()
