@@ -4713,6 +4713,7 @@
 - [matesz44/CVE-2025-49132](https://github.com/matesz44/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-49132">
 - [Ahmedf000/CVE-2025-49132_HTB_SEASON10](https://github.com/Ahmedf000/CVE-2025-49132_HTB_SEASON10)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmedf000/CVE-2025-49132_HTB_SEASON10">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmedf000/CVE-2025-49132_HTB_SEASON10">
 - [Pwndalf/CVE-2025-49132-PoC](https://github.com/Pwndalf/CVE-2025-49132-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Pwndalf/CVE-2025-49132-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Pwndalf/CVE-2025-49132-PoC">
+- [Pwndalf/CVE-2025-49132-PoC](https://github.com/Pwndalf/CVE-2025-49132-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Pwndalf/CVE-2025-49132-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Pwndalf/CVE-2025-49132-PoC">
 
 ---
 ## CVE-2025-49131 ()
