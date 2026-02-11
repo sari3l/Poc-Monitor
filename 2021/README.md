@@ -2460,6 +2460,7 @@
 - [ChanaPCN/CVE-2021-41773-Analysis](https://github.com/ChanaPCN/CVE-2021-41773-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ChanaPCN/CVE-2021-41773-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ChanaPCN/CVE-2021-41773-Analysis">
 - [sudo0xksh/cve-2021-41773-checker](https://github.com/sudo0xksh/cve-2021-41773-checker)	<img alt="forks" src="https://img.shields.io/github/forks/sudo0xksh/cve-2021-41773-checker">	<img alt="stars" src="https://img.shields.io/github/stars/sudo0xksh/cve-2021-41773-checker">
 - [dserdyk3-arch/Serdyuk-DO-homework-CVE-2021-41773](https://github.com/dserdyk3-arch/Serdyuk-DO-homework-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/dserdyk3-arch/Serdyuk-DO-homework-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/dserdyk3-arch/Serdyuk-DO-homework-CVE-2021-41773">
+- [ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB](https://github.com/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
