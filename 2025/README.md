@@ -3836,6 +3836,7 @@
 - [fokda-prodz/CVE-2025-5394](https://github.com/fokda-prodz/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/fokda-prodz/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/fokda-prodz/CVE-2025-5394">
 - [Nxploited/CVE-2025-5394](https://github.com/Nxploited/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5394">
 - [Yucaerin/CVE-2025-5394](https://github.com/Yucaerin/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-5394">
+- [qalesyaSN/CVE-2025-5394](https://github.com/qalesyaSN/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/qalesyaSN/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/qalesyaSN/CVE-2025-5394">
 
 ---
 ## CVE-2025-53833 ()
