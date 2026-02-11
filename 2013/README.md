@@ -128,6 +128,7 @@
 - [PREN0MEN/CVE-2013-3900-PowerShell-PoC](https://github.com/PREN0MEN/CVE-2013-3900-PowerShell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/PREN0MEN/CVE-2013-3900-PowerShell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/PREN0MEN/CVE-2013-3900-PowerShell-PoC">
 - [oukridrig772/-WinVerifyTrust-Signature-Validation-CVE-2013-3900-Mitigation](https://github.com/oukridrig772/-WinVerifyTrust-Signature-Validation-CVE-2013-3900-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/oukridrig772/-WinVerifyTrust-Signature-Validation-CVE-2013-3900-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/oukridrig772/-WinVerifyTrust-Signature-Validation-CVE-2013-3900-Mitigation">
 - [ksgassama-lab/vulnerability-remediation-cve-2013-3900](https://github.com/ksgassama-lab/vulnerability-remediation-cve-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/ksgassama-lab/vulnerability-remediation-cve-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/ksgassama-lab/vulnerability-remediation-cve-2013-3900">
+- [SDimitri05/cve-2013-3900-winverifytrust-mitigation](https://github.com/SDimitri05/cve-2013-3900-winverifytrust-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/SDimitri05/cve-2013-3900-winverifytrust-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/SDimitri05/cve-2013-3900-winverifytrust-mitigation">
 
 ---
 ## CVE-2013-3827 (2013-10-16T15:55:00)
