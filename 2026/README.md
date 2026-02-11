@@ -545,6 +545,7 @@
 > 
 - [z3r0h3ro/CVE-2026-1731-exp](https://github.com/z3r0h3ro/CVE-2026-1731-exp)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-1731-exp">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-1731-exp">
 - [win3zz/CVE-2026-1731](https://github.com/win3zz/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2026-1731">
+- [bytehazard/CVE-2026-1731](https://github.com/bytehazard/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/bytehazard/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/bytehazard/CVE-2026-1731">
 
 ---
 ## CVE-2026-1560 ()
