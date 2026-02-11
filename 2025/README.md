@@ -8994,6 +8994,11 @@
 - [rsecroot/CVE-2025-15390](https://github.com/rsecroot/CVE-2025-15390)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2025-15390">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2025-15390">
 
 ---
+## CVE-2025-15368 ()
+> 
+- [kazehere4you/CVE-2025-15368-Exploit](https://github.com/kazehere4you/CVE-2025-15368-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kazehere4you/CVE-2025-15368-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kazehere4you/CVE-2025-15368-Exploit">
+
+---
 ## CVE-2025-15177 ()
 > 
 - [yt2w/CVE-2025-15177](https://github.com/yt2w/CVE-2025-15177)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-15177">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-15177">
