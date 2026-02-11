@@ -546,6 +546,7 @@
 ## CVE-2026-1529 ()
 > 
 - [ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation](https://github.com/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">
+- [0x240x23elu/CVE-2026-1529](https://github.com/0x240x23elu/CVE-2026-1529)	<img alt="forks" src="https://img.shields.io/github/forks/0x240x23elu/CVE-2026-1529">	<img alt="stars" src="https://img.shields.io/github/stars/0x240x23elu/CVE-2026-1529">
 
 ---
 ## CVE-2026-1522 ()
