@@ -468,6 +468,11 @@
 - [NetVanguard-cmd/CVE-2026-21531](https://github.com/NetVanguard-cmd/CVE-2026-21531)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-21531">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-21531">
 
 ---
+## CVE-2026-21510 ()
+> 
+- [andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass](https://github.com/andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass">
+
+---
 ## CVE-2026-21509 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21509](https://github.com/Ashwesker/Ashwesker-CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21509">
