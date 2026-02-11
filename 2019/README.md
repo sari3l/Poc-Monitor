@@ -216,6 +216,7 @@
 - [Perseus99999/CVE-2019-9053-working-](https://github.com/Perseus99999/CVE-2019-9053-working-)	<img alt="forks" src="https://img.shields.io/github/forks/Perseus99999/CVE-2019-9053-working-">	<img alt="stars" src="https://img.shields.io/github/stars/Perseus99999/CVE-2019-9053-working-">
 - [JagdeepSinghCeh/cms-made-simple-python3](https://github.com/JagdeepSinghCeh/cms-made-simple-python3)	<img alt="forks" src="https://img.shields.io/github/forks/JagdeepSinghCeh/cms-made-simple-python3">	<img alt="stars" src="https://img.shields.io/github/stars/JagdeepSinghCeh/cms-made-simple-python3">
 - [Praditha29/Simple-CTF-THM-Writeup](https://github.com/Praditha29/Simple-CTF-THM-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Praditha29/Simple-CTF-THM-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Praditha29/Simple-CTF-THM-Writeup">
+- [pasan2002/CVE-2019-9053---CMS-Made-Simple-SQL-Injection-Exploit-Modified-](https://github.com/pasan2002/CVE-2019-9053---CMS-Made-Simple-SQL-Injection-Exploit-Modified-)	<img alt="forks" src="https://img.shields.io/github/forks/pasan2002/CVE-2019-9053---CMS-Made-Simple-SQL-Injection-Exploit-Modified-">	<img alt="stars" src="https://img.shields.io/github/stars/pasan2002/CVE-2019-9053---CMS-Made-Simple-SQL-Injection-Exploit-Modified-">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
