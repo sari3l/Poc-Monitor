@@ -414,6 +414,7 @@
 ## CVE-2026-2249 ()
 > 
 - [NightlyAudit/CVE-2026-2249](https://github.com/NightlyAudit/CVE-2026-2249)	<img alt="forks" src="https://img.shields.io/github/forks/NightlyAudit/CVE-2026-2249">	<img alt="stars" src="https://img.shields.io/github/stars/NightlyAudit/CVE-2026-2249">
+- [taylorwerno/CVE-2026-2249](https://github.com/taylorwerno/CVE-2026-2249)	<img alt="forks" src="https://img.shields.io/github/forks/taylorwerno/CVE-2026-2249">	<img alt="stars" src="https://img.shields.io/github/stars/taylorwerno/CVE-2026-2249">
 
 ---
 ## CVE-2026-2248 ()
@@ -441,6 +442,7 @@
 > 
 - [silentexploitexe/CVE-2026-22153](https://github.com/silentexploitexe/CVE-2026-22153)	<img alt="forks" src="https://img.shields.io/github/forks/silentexploitexe/CVE-2026-22153">	<img alt="stars" src="https://img.shields.io/github/stars/silentexploitexe/CVE-2026-22153">
 - [washingtonmaister/CVE-2026-22153-exp](https://github.com/washingtonmaister/CVE-2026-22153-exp)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-22153-exp">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-22153-exp">
+- [glitchhawks/CVE-2026-22153](https://github.com/glitchhawks/CVE-2026-22153)	<img alt="forks" src="https://img.shields.io/github/forks/glitchhawks/CVE-2026-22153">	<img alt="stars" src="https://img.shields.io/github/stars/glitchhawks/CVE-2026-22153">
 
 ---
 ## CVE-2026-21962 ()
