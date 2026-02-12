@@ -4730,6 +4730,7 @@
 - [Daemon-AT4/pearlescent](https://github.com/Daemon-AT4/pearlescent)	<img alt="forks" src="https://img.shields.io/github/forks/Daemon-AT4/pearlescent">	<img alt="stars" src="https://img.shields.io/github/stars/Daemon-AT4/pearlescent">
 - [thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE](https://github.com/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE">
 - [scroollocker/CVE-2025-49132](https://github.com/scroollocker/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/scroollocker/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/scroollocker/CVE-2025-49132">
+- [cylentsec/CVE-2025-49132_PoC](https://github.com/cylentsec/CVE-2025-49132_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cylentsec/CVE-2025-49132_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cylentsec/CVE-2025-49132_PoC">
 
 ---
 ## CVE-2025-49131 ()
