@@ -10300,6 +10300,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 > Qualys discovered that needrestart, before version 3.8, passes unsanitized data to a library (Modules::ScanDeps) which expects safe input. This could allow a local attacker to execute arbitrary shell commands. Please see the related CVE-2024-10224 in Modules::ScanDeps.
 - [unknown-user-from/CVE-2024-11003-PoC](https://github.com/unknown-user-from/CVE-2024-11003-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/unknown-user-from/CVE-2024-11003-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/unknown-user-from/CVE-2024-11003-PoC">
 - [njeru-codes/needrestart-vulnerability-poc](https://github.com/njeru-codes/needrestart-vulnerability-poc)	<img alt="forks" src="https://img.shields.io/github/forks/njeru-codes/needrestart-vulnerability-poc">	<img alt="stars" src="https://img.shields.io/github/stars/njeru-codes/needrestart-vulnerability-poc">
+- [sychikov/CVE-2024-11003-POC](https://github.com/sychikov/CVE-2024-11003-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sychikov/CVE-2024-11003-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sychikov/CVE-2024-11003-POC">
 
 ---
 ## CVE-2024-10961 (2024-11-23T04:15:00)

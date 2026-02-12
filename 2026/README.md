@@ -39,6 +39,7 @@
 ## CVE-2026-25857 ()
 > 
 - [eeeeeeeeeevan/CVE-2026-25857](https://github.com/eeeeeeeeeevan/CVE-2026-25857)	<img alt="forks" src="https://img.shields.io/github/forks/eeeeeeeeeevan/CVE-2026-25857">	<img alt="stars" src="https://img.shields.io/github/stars/eeeeeeeeeevan/CVE-2026-25857">
+- [eeeeeeeeeevan/CVE-2026-25857](https://github.com/eeeeeeeeeevan/CVE-2026-25857)	<img alt="forks" src="https://img.shields.io/github/forks/eeeeeeeeeevan/CVE-2026-25857">	<img alt="stars" src="https://img.shields.io/github/stars/eeeeeeeeeevan/CVE-2026-25857">
 
 ---
 ## CVE-2026-25854 ()
@@ -582,6 +583,7 @@
 - [atiilla/CVE-2026-20841](https://github.com/atiilla/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-20841">
 - [dogukankurnaz/CVE-2026-20841-PoC](https://github.com/dogukankurnaz/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dogukankurnaz/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dogukankurnaz/CVE-2026-20841-PoC">
 - [SecureWithUmer/CVE-2026-20841](https://github.com/SecureWithUmer/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/SecureWithUmer/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/SecureWithUmer/CVE-2026-20841">
+- [hackfaiz/CVE-2026-20841-PoC](https://github.com/hackfaiz/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hackfaiz/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hackfaiz/CVE-2026-20841-PoC">
 
 ---
 ## CVE-2026-20805 ()
