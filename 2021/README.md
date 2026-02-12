@@ -2506,6 +2506,11 @@
 - [Live-Hack-CVE/CVE-2021-4158](https://github.com/Live-Hack-CVE/CVE-2021-4158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4158">
 
 ---
+## CVE-2021-41579 ()
+> 
+- [mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write](https://github.com/mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write">
+
+---
 ## CVE-2021-4155 (2022-08-24T16:15:00)
 > A data leak flaw was found in the way XFS_IOC_ALLOCSP IOCTL in the XFS filesystem allowed for size increase of files with unaligned size. A local attacker could use this flaw to leak data on the XFS filesystem otherwise not accessible to them.
 - [Live-Hack-CVE/CVE-2021-4155](https://github.com/Live-Hack-CVE/CVE-2021-4155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4155">
