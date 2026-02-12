@@ -2196,6 +2196,7 @@
 - [0rionCollector/Exploit-Chain-CVE-2025-6018-6019](https://github.com/0rionCollector/Exploit-Chain-CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">
 - [MichaelVenturella/CVE-2025-6018-6019-PoC](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelVenturella/CVE-2025-6018-6019-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelVenturella/CVE-2025-6018-6019-PoC">
 - [matesz44/CVE-2025-6018-19](https://github.com/matesz44/CVE-2025-6018-19)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-6018-19">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-6018-19">
+- [DesertDemons/CVE-2025-6018-6019](https://github.com/DesertDemons/CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-6018-6019">
 
 ---
 ## CVE-2025-60021 ()

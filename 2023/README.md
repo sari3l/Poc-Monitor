@@ -2523,6 +2523,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [gmh5225/CVE-2023-4220](https://github.com/gmh5225/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2023-4220">
 - [Rai2en/CVE-2023-4220-Chamilo-LMS](https://github.com/Rai2en/CVE-2023-4220-Chamilo-LMS)	<img alt="forks" src="https://img.shields.io/github/forks/Rai2en/CVE-2023-4220-Chamilo-LMS">	<img alt="stars" src="https://img.shields.io/github/stars/Rai2en/CVE-2023-4220-Chamilo-LMS">
 - [Least-Significant-Bit/CVE-2023-4220](https://github.com/Least-Significant-Bit/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2023-4220">
+- [Sn0wBaall/CVE-2023-4220-PoC](https://github.com/Sn0wBaall/CVE-2023-4220-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sn0wBaall/CVE-2023-4220-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sn0wBaall/CVE-2023-4220-PoC">
 
 ---
 ## CVE-2023-422 ()
