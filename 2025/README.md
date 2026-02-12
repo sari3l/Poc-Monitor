@@ -2172,6 +2172,8 @@
 - [symphony2colour/CVE-2025-6019-udisks-lpe-no-image](https://github.com/symphony2colour/CVE-2025-6019-udisks-lpe-no-image)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/CVE-2025-6019-udisks-lpe-no-image">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/CVE-2025-6019-udisks-lpe-no-image">
 - [MichaelVenturella/CVE-2025-6018-6019-PoC](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelVenturella/CVE-2025-6018-6019-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelVenturella/CVE-2025-6018-6019-PoC">
 - [0rionCollector/Exploit-Chain-CVE-2025-6018-6019](https://github.com/0rionCollector/Exploit-Chain-CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">
+- [boboaung1337/CVE-2025-6019](https://github.com/boboaung1337/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/boboaung1337/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/boboaung1337/CVE-2025-6019">
+- [matesz44/CVE-2025-6018-19](https://github.com/matesz44/CVE-2025-6018-19)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-6018-19">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-6018-19">
 
 ---
 ## CVE-2025-60188 ()
