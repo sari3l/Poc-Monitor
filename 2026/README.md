@@ -440,6 +440,7 @@
 ## CVE-2026-22153 ()
 > 
 - [silentexploitexe/CVE-2026-22153](https://github.com/silentexploitexe/CVE-2026-22153)	<img alt="forks" src="https://img.shields.io/github/forks/silentexploitexe/CVE-2026-22153">	<img alt="stars" src="https://img.shields.io/github/stars/silentexploitexe/CVE-2026-22153">
+- [washingtonmaister/CVE-2026-22153-exp](https://github.com/washingtonmaister/CVE-2026-22153-exp)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-22153-exp">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-22153-exp">
 
 ---
 ## CVE-2026-21962 ()
