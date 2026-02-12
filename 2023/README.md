@@ -5538,6 +5538,7 @@ Fixed in version 6.4.1.
 ## CVE-2023-30990 ()
 > 
 - [silentsignal/CVE-2023-30990](https://github.com/silentsignal/CVE-2023-30990)	<img alt="forks" src="https://img.shields.io/github/forks/silentsignal/CVE-2023-30990">	<img alt="stars" src="https://img.shields.io/github/stars/silentsignal/CVE-2023-30990">
+- [cyn8/cve-2023-30990](https://github.com/cyn8/cve-2023-30990)	<img alt="forks" src="https://img.shields.io/github/forks/cyn8/cve-2023-30990">	<img alt="stars" src="https://img.shields.io/github/stars/cyn8/cve-2023-30990">
 
 ---
 ## CVE-2023-30943 (2023-05-02T20:15:00)

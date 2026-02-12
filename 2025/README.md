@@ -1667,6 +1667,11 @@
 - [lorenzocamilli/CVE-2025-62950-PoC](https://github.com/lorenzocamilli/CVE-2025-62950-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-62950-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-62950-PoC">
 
 ---
+## CVE-2025-62878 ()
+> 
+- [kinokopio/CVE-2025-62878](https://github.com/kinokopio/CVE-2025-62878)	<img alt="forks" src="https://img.shields.io/github/forks/kinokopio/CVE-2025-62878">	<img alt="stars" src="https://img.shields.io/github/stars/kinokopio/CVE-2025-62878">
+
+---
 ## CVE-2025-62726 ()
 > 
 - [Malayke/CVE-2025-62726-payload-repo](https://github.com/Malayke/CVE-2025-62726-payload-repo)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2025-62726-payload-repo">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2025-62726-payload-repo">
