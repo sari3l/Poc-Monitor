@@ -34,6 +34,7 @@
 ## CVE-2026-25924 ()
 > 
 - [drkim-dev/CVE-2026-25924](https://github.com/drkim-dev/CVE-2026-25924)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-25924">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-25924">
+- [drkim-dev/CVE-2026-25924](https://github.com/drkim-dev/CVE-2026-25924)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-25924">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-25924">
 
 ---
 ## CVE-2026-25916 ()
