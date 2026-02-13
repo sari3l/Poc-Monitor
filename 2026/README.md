@@ -31,6 +31,11 @@
 - [mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary](https://github.com/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary">
 
 ---
+## CVE-2026-25924 ()
+> 
+- [drkim-dev/CVE-2026-25924](https://github.com/drkim-dev/CVE-2026-25924)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-25924">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-25924">
+
+---
 ## CVE-2026-25916 ()
 > 
 - [mbanyamer/CVE-2026-25916-Roundcube-Webmail-DOM-based-XSS-Exploit-via-SVG-href-Attribute](https://github.com/mbanyamer/CVE-2026-25916-Roundcube-Webmail-DOM-based-XSS-Exploit-via-SVG-href-Attribute)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25916-Roundcube-Webmail-DOM-based-XSS-Exploit-via-SVG-href-Attribute">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25916-Roundcube-Webmail-DOM-based-XSS-Exploit-via-SVG-href-Attribute">
