@@ -3602,6 +3602,7 @@
 - [George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-](https://github.com/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">
 - [atiilla/CVE-2025-55182](https://github.com/atiilla/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2025-55182">
 - [snipevx/React2Shell-POC](https://github.com/snipevx/React2Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/snipevx/React2Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/snipevx/React2Shell-POC">
+- [BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica](https://github.com/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica)	<img alt="forks" src="https://img.shields.io/github/forks/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica">	<img alt="stars" src="https://img.shields.io/github/stars/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica">
 
 ---
 ## CVE-2025-55130 ()
