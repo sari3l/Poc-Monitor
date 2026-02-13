@@ -658,6 +658,7 @@
 - [itsismarcos/Exploit-CVE-2026-1357](https://github.com/itsismarcos/Exploit-CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/itsismarcos/Exploit-CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/itsismarcos/Exploit-CVE-2026-1357">
 - [LucasM0ntes/POC-CVE-2026-1357](https://github.com/LucasM0ntes/POC-CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/LucasM0ntes/POC-CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/LucasM0ntes/POC-CVE-2026-1357">
 - [microcyberr/CVE-2026-1357](https://github.com/microcyberr/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/microcyberr/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/microcyberr/CVE-2026-1357">
+- [halilkirazkaya/CVE-2026-1357](https://github.com/halilkirazkaya/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/halilkirazkaya/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/halilkirazkaya/CVE-2026-1357">
 
 ---
 ## CVE-2026-1281 ()
