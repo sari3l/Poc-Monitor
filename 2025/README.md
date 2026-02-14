@@ -495,6 +495,11 @@
 - [xiaoxiaoranxxx/CVE-2025-70830](https://github.com/xiaoxiaoranxxx/CVE-2025-70830)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiaoranxxx/CVE-2025-70830">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiaoranxxx/CVE-2025-70830">
 
 ---
+## CVE-2025-70828 ()
+> 
+- [xiaoxiaoranxxx/CVE-2025-70828](https://github.com/xiaoxiaoranxxx/CVE-2025-70828)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiaoranxxx/CVE-2025-70828">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiaoranxxx/CVE-2025-70828">
+
+---
 ## CVE-2025-70545 ()
 > 
 - [jeyabalaji711/CVE-2025-70545](https://github.com/jeyabalaji711/CVE-2025-70545)	<img alt="forks" src="https://img.shields.io/github/forks/jeyabalaji711/CVE-2025-70545">	<img alt="stars" src="https://img.shields.io/github/stars/jeyabalaji711/CVE-2025-70545">
