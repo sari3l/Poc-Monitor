@@ -324,6 +324,7 @@
 - [buzz075/CVE-2026-24061](https://github.com/buzz075/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/buzz075/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/buzz075/CVE-2026-24061">
 - [0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061](https://github.com/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">
 - [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
+- [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
