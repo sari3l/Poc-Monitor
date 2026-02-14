@@ -4429,6 +4429,13 @@
 - [Live-Hack-CVE/CVE-2020-14155](https://github.com/Live-Hack-CVE/CVE-2020-14155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14155">
 
 ---
+## CVE-2020-14144 ()
+> 
+- [Mohnad-AL-saif/Gitea-Git-Hooks-RCE-CVE-2020-14144-](https://github.com/Mohnad-AL-saif/Gitea-Git-Hooks-RCE-CVE-2020-14144-)	<img alt="forks" src="https://img.shields.io/github/forks/Mohnad-AL-saif/Gitea-Git-Hooks-RCE-CVE-2020-14144-">	<img alt="stars" src="https://img.shields.io/github/stars/Mohnad-AL-saif/Gitea-Git-Hooks-RCE-CVE-2020-14144-">
+- [Boydunbarred375/gi-cv](https://github.com/Boydunbarred375/gi-cv)	<img alt="forks" src="https://img.shields.io/github/forks/Boydunbarred375/gi-cv">	<img alt="stars" src="https://img.shields.io/github/stars/Boydunbarred375/gi-cv">
+- [p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce](https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">
+
+---
 ## CVE-2020-14131 (2022-10-11T20:15:00)
 > The Xiaomi Security Center expresses heartfelt thanks to ADLab of VenusTech ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life.
 - [Live-Hack-CVE/CVE-2020-14131](https://github.com/Live-Hack-CVE/CVE-2020-14131)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14131">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14131">
