@@ -2200,6 +2200,7 @@
 - [HexRazor/CVE-2025-6019](https://github.com/HexRazor/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/HexRazor/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/HexRazor/CVE-2025-6019">
 - [localh0ste/CVE-2025-6018-and-CVE-2025-6019](https://github.com/localh0ste/CVE-2025-6018-and-CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/localh0ste/CVE-2025-6018-and-CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/localh0ste/CVE-2025-6018-and-CVE-2025-6019">
 - [DesertDemons/CVE-2025-6018-6019](https://github.com/DesertDemons/CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-6018-6019">
+- [JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation](https://github.com/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation">
 
 ---
 ## CVE-2025-60188 ()
