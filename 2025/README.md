@@ -699,6 +699,7 @@
 - [shibaaa204/CVE-2025-68613](https://github.com/shibaaa204/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/CVE-2025-68613">
 - [Victorhugofariasvieir66/relatorio-n8n.md](https://github.com/Victorhugofariasvieir66/relatorio-n8n.md)	<img alt="forks" src="https://img.shields.io/github/forks/Victorhugofariasvieir66/relatorio-n8n.md">	<img alt="stars" src="https://img.shields.io/github/stars/Victorhugofariasvieir66/relatorio-n8n.md">
 - [Rishi-kaul/n8n-CVE-2025-68613](https://github.com/Rishi-kaul/n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Rishi-kaul/n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Rishi-kaul/n8n-CVE-2025-68613">
+- [sahilccras/Blackash-CVE-2025-68613](https://github.com/sahilccras/Blackash-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/sahilccras/Blackash-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/sahilccras/Blackash-CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
