@@ -270,6 +270,7 @@
 - [nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector](https://github.com/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector">
 - [scumfrog/cve-2026-24061](https://github.com/scumfrog/cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/scumfrog/cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/scumfrog/cve-2026-24061">
 - [hyu164/Terrminus-CVE-2026-2406](https://github.com/hyu164/Terrminus-CVE-2026-2406)	<img alt="forks" src="https://img.shields.io/github/forks/hyu164/Terrminus-CVE-2026-2406">	<img alt="stars" src="https://img.shields.io/github/stars/hyu164/Terrminus-CVE-2026-2406">
+- [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
 
 ---
 ## CVE-2026-2406 ()
@@ -321,6 +322,7 @@
 - [X-croot/CVE-2026-24061_POC](https://github.com/X-croot/CVE-2026-24061_POC)	<img alt="forks" src="https://img.shields.io/github/forks/X-croot/CVE-2026-24061_POC">	<img alt="stars" src="https://img.shields.io/github/stars/X-croot/CVE-2026-24061_POC">
 - [buzz075/CVE-2026-24061](https://github.com/buzz075/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/buzz075/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/buzz075/CVE-2026-24061">
 - [0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061](https://github.com/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">
+- [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
