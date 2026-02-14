@@ -521,6 +521,7 @@
 > 
 - [ghostroots/CVE-2026-21533](https://github.com/ghostroots/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/ghostroots/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/ghostroots/CVE-2026-21533">
 - [Pairs34/RDPVulnarableCheck](https://github.com/Pairs34/RDPVulnarableCheck)	<img alt="forks" src="https://img.shields.io/github/forks/Pairs34/RDPVulnarableCheck">	<img alt="stars" src="https://img.shields.io/github/stars/Pairs34/RDPVulnarableCheck">
+- [elvin31thai/CVE-2026-21533](https://github.com/elvin31thai/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/elvin31thai/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/elvin31thai/CVE-2026-21533">
 
 ---
 ## CVE-2026-21531 ()
@@ -611,6 +612,11 @@
 - [fevar54/CVE-2026-20805-POC](https://github.com/fevar54/CVE-2026-20805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20805-POC">
 - [Uzair-Baig0900/CVE-2026-20805-PoC](https://github.com/Uzair-Baig0900/CVE-2026-20805-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uzair-Baig0900/CVE-2026-20805-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uzair-Baig0900/CVE-2026-20805-PoC">
 - [mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data](https://github.com/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">
+
+---
+## CVE-2026-20700 ()
+> 
+- [kimblehardwoods/CVE-2026-20700](https://github.com/kimblehardwoods/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/kimblehardwoods/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/kimblehardwoods/CVE-2026-20700">
 
 ---
 ## CVE-2026-20404 ()
