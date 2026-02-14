@@ -315,6 +315,7 @@
 - [vitalichkaa/CVE-2025-8088](https://github.com/vitalichkaa/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/vitalichkaa/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/vitalichkaa/CVE-2025-8088">
 - [ilhamrzr/RAR-Anomaly-Inspector](https://github.com/ilhamrzr/RAR-Anomaly-Inspector)	<img alt="forks" src="https://img.shields.io/github/forks/ilhamrzr/RAR-Anomaly-Inspector">	<img alt="stars" src="https://img.shields.io/github/stars/ilhamrzr/RAR-Anomaly-Inspector">
 - [Ismael-20223/CVE-2025-8088](https://github.com/Ismael-20223/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Ismael-20223/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Ismael-20223/CVE-2025-8088">
+- [undefined-name12/CVE-2025-8088-Winrar](https://github.com/undefined-name12/CVE-2025-8088-Winrar)	<img alt="forks" src="https://img.shields.io/github/forks/undefined-name12/CVE-2025-8088-Winrar">	<img alt="stars" src="https://img.shields.io/github/stars/undefined-name12/CVE-2025-8088-Winrar">
 
 ---
 ## CVE-2025-8081 ()
@@ -487,6 +488,11 @@
 ## CVE-2025-70849 ()
 > 
 - [kazisabu/CVE-2025-70849-Podinfo](https://github.com/kazisabu/CVE-2025-70849-Podinfo)	<img alt="forks" src="https://img.shields.io/github/forks/kazisabu/CVE-2025-70849-Podinfo">	<img alt="stars" src="https://img.shields.io/github/stars/kazisabu/CVE-2025-70849-Podinfo">
+
+---
+## CVE-2025-70830 ()
+> 
+- [xiaoxiaoranxxx/CVE-2025-70830](https://github.com/xiaoxiaoranxxx/CVE-2025-70830)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiaoranxxx/CVE-2025-70830">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiaoranxxx/CVE-2025-70830">
 
 ---
 ## CVE-2025-70545 ()
