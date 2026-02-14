@@ -210,6 +210,11 @@
 - [iamFredNi/poc-cve-2025-8573](https://github.com/iamFredNi/poc-cve-2025-8573)	<img alt="forks" src="https://img.shields.io/github/forks/iamFredNi/poc-cve-2025-8573">	<img alt="stars" src="https://img.shields.io/github/stars/iamFredNi/poc-cve-2025-8573">
 
 ---
+## CVE-2025-8572 ()
+> 
+- [richardpaimu34/CVE-2025-8572](https://github.com/richardpaimu34/CVE-2025-8572)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2025-8572">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2025-8572">
+
+---
 ## CVE-2025-8571 ()
 > 
 - [chimdi2700/CVE-2025-8571](https://github.com/chimdi2700/CVE-2025-8571)	<img alt="forks" src="https://img.shields.io/github/forks/chimdi2700/CVE-2025-8571">	<img alt="stars" src="https://img.shields.io/github/stars/chimdi2700/CVE-2025-8571">

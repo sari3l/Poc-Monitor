@@ -690,6 +690,11 @@
 - [cybertechajju/CVE-2026-1357-POC](https://github.com/cybertechajju/CVE-2026-1357-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2026-1357-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2026-1357-POC">
 
 ---
+## CVE-2026-1306 ()
+> 
+- [richardpaimu34/CVE-2026-1306](https://github.com/richardpaimu34/CVE-2026-1306)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-1306">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-1306">
+
+---
 ## CVE-2026-1281 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-1281](https://github.com/Ashwesker/Ashwesker-CVE-2026-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-1281">
