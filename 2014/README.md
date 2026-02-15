@@ -170,6 +170,7 @@
 > 
 - [fenix0499/CVE-2014-4688-NodeJs-Exploit](https://github.com/fenix0499/CVE-2014-4688-NodeJs-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fenix0499/CVE-2014-4688-NodeJs-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fenix0499/CVE-2014-4688-NodeJs-Exploit">
 - [andyfeili/CVE-2014-4688](https://github.com/andyfeili/CVE-2014-4688)	<img alt="forks" src="https://img.shields.io/github/forks/andyfeili/CVE-2014-4688">	<img alt="stars" src="https://img.shields.io/github/stars/andyfeili/CVE-2014-4688">
+- [jaydenblair/CVE-2014-4688-pfsense](https://github.com/jaydenblair/CVE-2014-4688-pfsense)	<img alt="forks" src="https://img.shields.io/github/forks/jaydenblair/CVE-2014-4688-pfsense">	<img alt="stars" src="https://img.shields.io/github/stars/jaydenblair/CVE-2014-4688-pfsense">
 
 ---
 ## CVE-2014-4210 ()
