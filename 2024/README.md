@@ -5468,6 +5468,11 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/CVE-2024-34452">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/CVE-2024-34452">
 
 ---
+## CVE-2024-34444 ()
+> 
+- [dzmind2312/CVE-2024-34444-Exploit-Poc](https://github.com/dzmind2312/CVE-2024-34444-Exploit-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dzmind2312/CVE-2024-34444-Exploit-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dzmind2312/CVE-2024-34444-Exploit-Poc">
+
+---
 ## CVE-2024-34370 ()
 > 
 - [pashayogi/CVE-2024-34370](https://github.com/pashayogi/CVE-2024-34370)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2024-34370">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2024-34370">
