@@ -3637,6 +3637,7 @@
 - [snipevx/React2Shell-POC](https://github.com/snipevx/React2Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/snipevx/React2Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/snipevx/React2Shell-POC">
 - [BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica](https://github.com/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica)	<img alt="forks" src="https://img.shields.io/github/forks/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica">	<img alt="stars" src="https://img.shields.io/github/stars/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica">
 - [Wyl-cmd/CVE-2025-55182](https://github.com/Wyl-cmd/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Wyl-cmd/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Wyl-cmd/CVE-2025-55182">
+- [predyy/totorum](https://github.com/predyy/totorum)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/totorum">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/totorum">
 
 ---
 ## CVE-2025-55130 ()
