@@ -233,6 +233,8 @@
 - [Wyl-cmd/CVE-2017-7921-Research-Toolkit](https://github.com/Wyl-cmd/CVE-2017-7921-Research-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/Wyl-cmd/CVE-2017-7921-Research-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/Wyl-cmd/CVE-2017-7921-Research-Toolkit">
 - [saaydmr/hikvision-exploiter](https://github.com/saaydmr/hikvision-exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/saaydmr/hikvision-exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/saaydmr/hikvision-exploiter">
 - [mverschu/CVE-2017-7921](https://github.com/mverschu/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/mverschu/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/mverschu/CVE-2017-7921">
+- [KelvinWin10/CVE-2017-7921-rewrite](https://github.com/KelvinWin10/CVE-2017-7921-rewrite)	<img alt="forks" src="https://img.shields.io/github/forks/KelvinWin10/CVE-2017-7921-rewrite">	<img alt="stars" src="https://img.shields.io/github/stars/KelvinWin10/CVE-2017-7921-rewrite">
+- [MartinxMax/BloodCat](https://github.com/MartinxMax/BloodCat)	<img alt="forks" src="https://img.shields.io/github/forks/MartinxMax/BloodCat">	<img alt="stars" src="https://img.shields.io/github/stars/MartinxMax/BloodCat">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
