@@ -5472,6 +5472,11 @@
 - [ptrstr/CVE-2025-4524](https://github.com/ptrstr/CVE-2025-4524)	<img alt="forks" src="https://img.shields.io/github/forks/ptrstr/CVE-2025-4524">	<img alt="stars" src="https://img.shields.io/github/stars/ptrstr/CVE-2025-4524">
 
 ---
+## CVE-2025-4517 ()
+> 
+- [AnimePrincess420/CVE-2025-4517-PoC](https://github.com/AnimePrincess420/CVE-2025-4517-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/AnimePrincess420/CVE-2025-4517-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/AnimePrincess420/CVE-2025-4517-PoC">
+
+---
 ## CVE-2025-45072 ()
 > 
 - [yogeswaran6383/CVE-2025-45072](https://github.com/yogeswaran6383/CVE-2025-45072)	<img alt="forks" src="https://img.shields.io/github/forks/yogeswaran6383/CVE-2025-45072">	<img alt="stars" src="https://img.shields.io/github/stars/yogeswaran6383/CVE-2025-45072">
