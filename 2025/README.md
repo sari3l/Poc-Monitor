@@ -5477,6 +5477,7 @@
 - [AnimePrincess420/CVE-2025-4517-PoC](https://github.com/AnimePrincess420/CVE-2025-4517-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/AnimePrincess420/CVE-2025-4517-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/AnimePrincess420/CVE-2025-4517-PoC">
 - [StealthByte0/CVE-2025-4517-poc](https://github.com/StealthByte0/CVE-2025-4517-poc)	<img alt="forks" src="https://img.shields.io/github/forks/StealthByte0/CVE-2025-4517-poc">	<img alt="stars" src="https://img.shields.io/github/stars/StealthByte0/CVE-2025-4517-poc">
 - [DesertDemons/CVE-2025-4138-4517-POC](https://github.com/DesertDemons/CVE-2025-4138-4517-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-4138-4517-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-4138-4517-POC">
+- [0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass](https://github.com/0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass">
 
 ---
 ## CVE-2025-45072 ()
