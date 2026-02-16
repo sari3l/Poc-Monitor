@@ -4786,6 +4786,7 @@
 - [scroollocker/CVE-2025-49132](https://github.com/scroollocker/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/scroollocker/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/scroollocker/CVE-2025-49132">
 - [cylentsec/CVE-2025-49132_PoC](https://github.com/cylentsec/CVE-2025-49132_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cylentsec/CVE-2025-49132_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cylentsec/CVE-2025-49132_PoC">
 - [xffsec/CVE-2025-49132](https://github.com/xffsec/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/xffsec/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/xffsec/CVE-2025-49132">
+- [popyue/CVE-2025-49132](https://github.com/popyue/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-49132">
 
 ---
 ## CVE-2025-49131 ()
@@ -5832,6 +5833,7 @@
 > 
 - [DesertDemons/CVE-2025-4138-4517-POC](https://github.com/DesertDemons/CVE-2025-4138-4517-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-4138-4517-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-4138-4517-POC">
 - [thefizzyfish/CVE-2025-4138_tarfile_filter_bypass](https://github.com/thefizzyfish/CVE-2025-4138_tarfile_filter_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/thefizzyfish/CVE-2025-4138_tarfile_filter_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/thefizzyfish/CVE-2025-4138_tarfile_filter_bypass">
+- [kyakei/CVE-2025-4138-poc](https://github.com/kyakei/CVE-2025-4138-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kyakei/CVE-2025-4138-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kyakei/CVE-2025-4138-poc">
 
 ---
 ## CVE-2025-41373 ()
