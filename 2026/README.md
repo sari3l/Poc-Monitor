@@ -652,6 +652,7 @@
 ## CVE-2026-20700 ()
 > 
 - [kimblehardwoods/CVE-2026-20700](https://github.com/kimblehardwoods/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/kimblehardwoods/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/kimblehardwoods/CVE-2026-20700">
+- [bytehazard/CVE-2026-20700](https://github.com/bytehazard/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/bytehazard/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/bytehazard/CVE-2026-20700">
 
 ---
 ## CVE-2026-20404 ()

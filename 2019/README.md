@@ -2298,6 +2298,7 @@ use after free.
 - [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
 - [Ma1Dong/Solr_CVE-2019-17558](https://github.com/Ma1Dong/Solr_CVE-2019-17558)	<img alt="forks" src="https://img.shields.io/github/forks/Ma1Dong/Solr_CVE-2019-17558">	<img alt="stars" src="https://img.shields.io/github/stars/Ma1Dong/Solr_CVE-2019-17558">
 - [SDNDTeam/CVE-2019-17558_Solr_Vul_Tool](https://github.com/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool">
+- [rogerzeferino/Apache-Solr-RCE-CVE-2019-17558](https://github.com/rogerzeferino/Apache-Solr-RCE-CVE-2019-17558)	<img alt="forks" src="https://img.shields.io/github/forks/rogerzeferino/Apache-Solr-RCE-CVE-2019-17558">	<img alt="stars" src="https://img.shields.io/github/stars/rogerzeferino/Apache-Solr-RCE-CVE-2019-17558">
 
 ---
 ## CVE-2019-17531 (2019-10-12T21:15:00)
