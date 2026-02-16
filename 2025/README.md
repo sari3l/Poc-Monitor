@@ -1479,6 +1479,7 @@
 - [purehate/CVE-2025-64155-hunter](https://github.com/purehate/CVE-2025-64155-hunter)	<img alt="forks" src="https://img.shields.io/github/forks/purehate/CVE-2025-64155-hunter">	<img alt="stars" src="https://img.shields.io/github/stars/purehate/CVE-2025-64155-hunter">
 - [cyberdudebivash/CYBERDUDEBIVASH-FortiSIEM-CVE-2025-64155-Scanner](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-FortiSIEM-CVE-2025-64155-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdudebivash/CYBERDUDEBIVASH-FortiSIEM-CVE-2025-64155-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdudebivash/CYBERDUDEBIVASH-FortiSIEM-CVE-2025-64155-Scanner">
 - [Ashwesker/Ashwesker-CVE-2025-64155](https://github.com/Ashwesker/Ashwesker-CVE-2025-64155)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-64155">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-64155">
+- [Mefhika120/Ashwesker-CVE-2025-64155](https://github.com/Mefhika120/Ashwesker-CVE-2025-64155)	<img alt="forks" src="https://img.shields.io/github/forks/Mefhika120/Ashwesker-CVE-2025-64155">	<img alt="stars" src="https://img.shields.io/github/stars/Mefhika120/Ashwesker-CVE-2025-64155">
 
 ---
 ## CVE-2025-64113 ()
