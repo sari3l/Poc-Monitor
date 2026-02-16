@@ -367,6 +367,7 @@
 ## CVE-2026-23744 ()
 > 
 - [boroeurnprach/CVE-2026-23744-PoC](https://github.com/boroeurnprach/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-23744-PoC">
+- [rootdirective-sec/CVE-2026-23744-Lab](https://github.com/rootdirective-sec/CVE-2026-23744-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-23744-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-23744-Lab">
 
 ---
 ## CVE-2026-23723 ()
