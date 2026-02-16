@@ -5839,6 +5839,7 @@
 - [DesertDemons/CVE-2025-4138-4517-POC](https://github.com/DesertDemons/CVE-2025-4138-4517-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-4138-4517-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-4138-4517-POC">
 - [thefizzyfish/CVE-2025-4138_tarfile_filter_bypass](https://github.com/thefizzyfish/CVE-2025-4138_tarfile_filter_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/thefizzyfish/CVE-2025-4138_tarfile_filter_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/thefizzyfish/CVE-2025-4138_tarfile_filter_bypass">
 - [kyakei/CVE-2025-4138-poc](https://github.com/kyakei/CVE-2025-4138-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kyakei/CVE-2025-4138-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kyakei/CVE-2025-4138-poc">
+- [localh0ste/CVE-2025-4138](https://github.com/localh0ste/CVE-2025-4138)	<img alt="forks" src="https://img.shields.io/github/forks/localh0ste/CVE-2025-4138">	<img alt="stars" src="https://img.shields.io/github/stars/localh0ste/CVE-2025-4138">
 
 ---
 ## CVE-2025-41373 ()
