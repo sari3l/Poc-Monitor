@@ -189,6 +189,11 @@
 - [boroeurnprach/CVE-2026-24422_PoC](https://github.com/boroeurnprach/CVE-2026-24422_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-24422_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-24422_PoC">
 
 ---
+## CVE-2026-2441 ()
+> 
+- [b1gchoi/CVE-2026-2441_POC](https://github.com/b1gchoi/CVE-2026-2441_POC)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-2441_POC">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-2441_POC">
+
+---
 ## CVE-2026-24306 ()
 > 
 - [b1gchoi/CVE-2026-24306](https://github.com/b1gchoi/CVE-2026-24306)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-24306">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-24306">
