@@ -560,6 +560,16 @@
 - [Cr0wld3r/CVE-2025-69612](https://github.com/Cr0wld3r/CVE-2025-69612)	<img alt="forks" src="https://img.shields.io/github/forks/Cr0wld3r/CVE-2025-69612">	<img alt="stars" src="https://img.shields.io/github/stars/Cr0wld3r/CVE-2025-69612">
 
 ---
+## CVE-2025-69600 ()
+> 
+- [Wise-Security/CVE-2025-69600](https://github.com/Wise-Security/CVE-2025-69600)	<img alt="forks" src="https://img.shields.io/github/forks/Wise-Security/CVE-2025-69600">	<img alt="stars" src="https://img.shields.io/github/stars/Wise-Security/CVE-2025-69600">
+
+---
+## CVE-2025-69599 ()
+> 
+- [Wise-Security/CVE-2025-69599](https://github.com/Wise-Security/CVE-2025-69599)	<img alt="forks" src="https://img.shields.io/github/forks/Wise-Security/CVE-2025-69599">	<img alt="stars" src="https://img.shields.io/github/stars/Wise-Security/CVE-2025-69599">
+
+---
 ## CVE-2025-69581 ()
 > 
 - [Rivek619/CVE-2025-69581](https://github.com/Rivek619/CVE-2025-69581)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-69581">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-69581">
