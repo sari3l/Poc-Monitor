@@ -19,6 +19,11 @@
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 
 ---
+## CVE-2026-3098 ()
+> 
+- [George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098](https://github.com/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">
+
+---
 ## CVE-2026-26335 ()
 > 
 - [mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE](https://github.com/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">
@@ -672,6 +677,7 @@
 ## CVE-2026-1844 ()
 > 
 - [adamshaikhma/CVE-2026-1844](https://github.com/adamshaikhma/CVE-2026-1844)	<img alt="forks" src="https://img.shields.io/github/forks/adamshaikhma/CVE-2026-1844">	<img alt="stars" src="https://img.shields.io/github/stars/adamshaikhma/CVE-2026-1844">
+- [tingvoshage22/CVE-2026-1844-exploit](https://github.com/tingvoshage22/CVE-2026-1844-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tingvoshage22/CVE-2026-1844-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tingvoshage22/CVE-2026-1844-exploit">
 - [tingvoshage22/CVE-2026-1844-exploit](https://github.com/tingvoshage22/CVE-2026-1844-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tingvoshage22/CVE-2026-1844-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tingvoshage22/CVE-2026-1844-exploit">
 
 ---
