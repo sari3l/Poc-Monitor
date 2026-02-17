@@ -2752,6 +2752,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-14433](https://github.com/Live-Hack-CVE/CVE-2019-14433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14433">
 
 ---
+## CVE-2019-14379 ()
+> 
+- [andikahilmy/CVE-2019-14379-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-14379-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-14379-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-14379-jackson-databind-vulnerable">
+
+---
 ## CVE-2019-14370 (2019-07-28T19:15:00)
 > In Exiv2 0.27.99.0, there is an out-of-bounds read in Exiv2::MrwImage::readMetadata() in mrwimage.cpp. It could result in denial of service.
 - [Live-Hack-CVE/CVE-2019-14370](https://github.com/Live-Hack-CVE/CVE-2019-14370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14370">
@@ -3048,6 +3053,11 @@ use after free.
 ## CVE-2019-12836 (2019-06-21T15:15:00)
 > The Bobronix JEditor editor before 3.0.6 for Jira allows an attacker to add a URL/Link (to an existing issue) that can cause forgery of a request to an out-of-origin domain. This in turn may allow for a forged request that can be invoked in the context of an authenticated user, leading to stealing of session tokens and account takeover.
 - [9lyph/CVE-2019-12836](https://github.com/9lyph/CVE-2019-12836)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2019-12836">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2019-12836">
+
+---
+## CVE-2019-12814 ()
+> 
+- [andikahilmy/CVE-2019-12814-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-12814-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-12814-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-12814-jackson-databind-vulnerable">
 
 ---
 ## CVE-2019-12762 (2019-06-06T20:29:00)

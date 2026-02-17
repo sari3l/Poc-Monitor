@@ -332,6 +332,11 @@
 - [Live-Hack-CVE/CVE-2016-7052](https://github.com/Live-Hack-CVE/CVE-2016-7052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7052">
 
 ---
+## CVE-2016-7051 ()
+> 
+- [andikahilmy/CVE-2016-7051-jackson-dataformat-xml-vulnerable](https://github.com/andikahilmy/CVE-2016-7051-jackson-dataformat-xml-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-7051-jackson-dataformat-xml-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-7051-jackson-dataformat-xml-vulnerable">
+
+---
 ## CVE-2016-6989 (2016-10-13T20:00:00)
 > Adobe Flash Player before 18.0.0.382 and 19.x through 23.x before 23.0.0.185 on Windows and OS X and before 11.2.202.637 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4273, CVE-2016-6982, CVE-2016-6983, CVE-2016-6984, CVE-2016-6985, CVE-2016-6986, and CVE-2016-6990.
 - [Live-Hack-CVE/CVE-2016-6989](https://github.com/Live-Hack-CVE/CVE-2016-6989)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6989">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6989">
@@ -1113,6 +1118,11 @@
 > 
 - [barteeees/SwaggerUI-CVE-2016-1000229](https://github.com/barteeees/SwaggerUI-CVE-2016-1000229)	<img alt="forks" src="https://img.shields.io/github/forks/barteeees/SwaggerUI-CVE-2016-1000229">	<img alt="stars" src="https://img.shields.io/github/stars/barteeees/SwaggerUI-CVE-2016-1000229">
 - [ossf-cve-benchmark/CVE-2016-1000229](https://github.com/ossf-cve-benchmark/CVE-2016-1000229)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2016-1000229">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2016-1000229">
+
+---
+## CVE-2016-1000031 ()
+> 
+- [andikahilmy/CVE-2016-1000031-commons-fileupload-vulnerable](https://github.com/andikahilmy/CVE-2016-1000031-commons-fileupload-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-1000031-commons-fileupload-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-1000031-commons-fileupload-vulnerable">
 
 ---
 ## CVE-2016-1000027 (2020-01-02T23:15:00)

@@ -4719,6 +4719,11 @@
 - [Live-Hack-CVE/CVE-2021-36160](https://github.com/Live-Hack-CVE/CVE-2021-36160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36160">
 
 ---
+## CVE-2021-36090 ()
+> 
+- [andikahilmy/CVE-2021-36090-commons-compress-vulnerable](https://github.com/andikahilmy/CVE-2021-36090-commons-compress-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-36090-commons-compress-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-36090-commons-compress-vulnerable">
+
+---
 ## CVE-2021-3609 (2022-03-03T19:15:00)
 > .A flaw was found in the CAN BCM networking protocol in the Linux kernel, where a local attacker can abuse a flaw in the CAN subsystem to corrupt memory, crash the system or escalate privileges. This race condition in net/can/bcm.c in the Linux kernel allows for local privilege escalation to root.
 - [Live-Hack-CVE/CVE-2021-3609](https://github.com/Live-Hack-CVE/CVE-2021-3609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3609">
@@ -4981,6 +4986,11 @@
 ## CVE-2021-35530 (2022-06-07T21:15:00)
 > A vulnerability in the application authentication and authorization mechanism in Hitachi Energy's TXpert Hub CoreTec 4, that depends on a token validation of the session identifier, allows an unauthorized modified message to be executed in the server enabling an unauthorized actor to change an existing user password, and further gain authorized access into the system via login mechanism. This issue affects: Hitachi Energy TXpert Hub CoreTec 4 version 2.0.0 2.1.0; 2.1.0; 2.1.1; 2.1.2; 2.1.3; 2.2.0; 2.2.1.
 - [Live-Hack-CVE/CVE-2021-35530](https://github.com/Live-Hack-CVE/CVE-2021-35530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35530">
+
+---
+## CVE-2021-35515 ()
+> 
+- [andikahilmy/CVE-2021-35515-commons-compress-vulnerable](https://github.com/andikahilmy/CVE-2021-35515-commons-compress-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-35515-commons-compress-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-35515-commons-compress-vulnerable">
 
 ---
 ## CVE-2021-3549 (2021-05-26T21:15:00)

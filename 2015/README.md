@@ -317,6 +317,11 @@
 - [Serz999/CVE-2015-3145](https://github.com/Serz999/CVE-2015-3145)	<img alt="forks" src="https://img.shields.io/github/forks/Serz999/CVE-2015-3145">	<img alt="stars" src="https://img.shields.io/github/stars/Serz999/CVE-2015-3145">
 
 ---
+## CVE-2015-2912 ()
+> 
+- [andikahilmy/CVE-2015-2912-orientdb-vulnerable](https://github.com/andikahilmy/CVE-2015-2912-orientdb-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2015-2912-orientdb-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2015-2912-orientdb-vulnerable">
+
+---
 ## CVE-2015-2797 ()
 > 
 - [Bariskizilkaya/CVE-2015-2797-PoC](https://github.com/Bariskizilkaya/CVE-2015-2797-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Bariskizilkaya/CVE-2015-2797-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Bariskizilkaya/CVE-2015-2797-PoC">

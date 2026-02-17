@@ -1463,6 +1463,7 @@
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp.cpdsadapter.DriverAdapterCPDS.
 - [Live-Hack-CVE/CVE-2020-36181](https://github.com/Live-Hack-CVE/CVE-2020-36181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36181">
 - [Live-Hack-CVE/CVE-2020-36181](https://github.com/Live-Hack-CVE/CVE-2020-36181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36181">
+- [andikahilmy/CVE-2020-36181-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-36181-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-36181-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-36181-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-36180 (2021-01-07T00:15:00)
@@ -2789,6 +2790,11 @@
 ## CVE-2020-25654 (2020-11-24T20:15:00)
 > An ACL bypass flaw was found in pacemaker. An attacker having a local account on the cluster and in the haclient group could use IPC communication with various daemons directly to perform certain tasks that they would be prevented by ACLs from doing if they went through the configuration.
 - [Live-Hack-CVE/CVE-2020-25654](https://github.com/Live-Hack-CVE/CVE-2020-25654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25654">
+
+---
+## CVE-2020-25649 ()
+> 
+- [andikahilmy/CVE-2020-25649-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-25649-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-25649-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-25649-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-25638 (2020-12-02T15:15:00)
@@ -4464,6 +4470,11 @@
 - [pinpinsec/Icewarp-Mail-Server-12.3.0.1-incorrect_access_control-](https://github.com/pinpinsec/Icewarp-Mail-Server-12.3.0.1-incorrect_access_control-)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/Icewarp-Mail-Server-12.3.0.1-incorrect_access_control-">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/Icewarp-Mail-Server-12.3.0.1-incorrect_access_control-">
 
 ---
+## CVE-2020-14061 ()
+> 
+- [andikahilmy/CVE-2020-14061-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-14061-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-14061-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-14061-jackson-databind-vulnerable">
+
+---
 ## CVE-2020-14044 (2020-08-24T16:15:00)
 > ** PRODUCT NOT SUPPORTED WHEN ASSIGNED ** A Server-Side Request Forgery (SSRF) vulnerability was found in Codiad v1.7.8 and later. A user with admin privileges could use the plugin install feature to make the server request any URL via components/market/class.market.php. This could potentially result in remote code execution. NOTE: the vendor states "Codiad is no longer under active maintenance by core contributors."
 - [Live-Hack-CVE/CVE-2020-14044](https://github.com/Live-Hack-CVE/CVE-2020-14044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14044">
@@ -5094,6 +5105,11 @@
 ## CVE-2020-11015 (2020-04-30T18:15:00)
 > A vulnerability has been disclosed in thinx-device-api IoT Device Management Server before version 2.5.0. Device MAC address can be spoofed. This means initial registration requests without UDID and spoofed MAC address may pass to create new UDID with same MAC address. Full impact needs to be reviewed further. Applies to all (mostly ESP8266/ESP32) users. This has been fixed in firmware version 2.5.0.
 - [Live-Hack-CVE/CVE-2020-11015](https://github.com/Live-Hack-CVE/CVE-2020-11015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11015">
+
+---
+## CVE-2020-10968 ()
+> 
+- [andikahilmy/CVE-2020-10968-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-10968-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-10968-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-10968-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-10936 (2020-05-27T18:15:00)
