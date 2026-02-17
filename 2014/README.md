@@ -212,6 +212,11 @@
 - [shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final](https://github.com/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final">
 
 ---
+## CVE-2014-3651 ()
+> 
+- [andikahilmy/CVE-2014-3651-keycloak-vulnerable](https://github.com/andikahilmy/CVE-2014-3651-keycloak-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2014-3651-keycloak-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2014-3651-keycloak-vulnerable">
+
+---
 ## CVE-2014-3576 ()
 > 
 - [shoucheng3/apache__activemq_CVE-2014-3576_5-10-1](https://github.com/shoucheng3/apache__activemq_CVE-2014-3576_5-10-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__activemq_CVE-2014-3576_5-10-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__activemq_CVE-2014-3576_5-10-1">

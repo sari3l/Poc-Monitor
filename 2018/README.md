@@ -254,6 +254,12 @@
 - [qinzhu111/uWSGI-CVE-2018-7490-POC](https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qinzhu111/uWSGI-CVE-2018-7490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qinzhu111/uWSGI-CVE-2018-7490-POC">
 
 ---
+## CVE-2018-7489 ()
+> 
+- [andikahilmy/CVE-2018-7489-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-7489-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-7489-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-7489-jackson-databind-vulnerable">
+- [tafamace/CVE-2018-7489](https://github.com/tafamace/CVE-2018-7489)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2018-7489">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2018-7489">
+
+---
 ## CVE-2018-7449 (2018-03-04T01:29:00)
 > SEGGER FTP Server for Windows before 3.22a allows remote attackers to cause a denial of service (daemon crash) via an invalid LIST, STOR, or RETR command.
 - [antogit-sys/CVE-2018-7449](https://github.com/antogit-sys/CVE-2018-7449)	<img alt="forks" src="https://img.shields.io/github/forks/antogit-sys/CVE-2018-7449">	<img alt="stars" src="https://img.shields.io/github/stars/antogit-sys/CVE-2018-7449">
@@ -1258,6 +1264,11 @@
 - [ZeeshanGondal0007/c-cpp_CVE-2018-17229](https://github.com/ZeeshanGondal0007/c-cpp_CVE-2018-17229)	<img alt="forks" src="https://img.shields.io/github/forks/ZeeshanGondal0007/c-cpp_CVE-2018-17229">	<img alt="stars" src="https://img.shields.io/github/stars/ZeeshanGondal0007/c-cpp_CVE-2018-17229">
 
 ---
+## CVE-2018-17187 ()
+> 
+- [andikahilmy/CVE-2018-17187-qpid-proton-j-vulnerable](https://github.com/andikahilmy/CVE-2018-17187-qpid-proton-j-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-17187-qpid-proton-j-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-17187-qpid-proton-j-vulnerable">
+
+---
 ## CVE-2018-17182 (2018-09-19T09:29:00)
 > An issue was discovered in the Linux kernel through 4.18.8. The vmacache_flush_all function in mm/vmacache.c mishandles sequence number overflows. An attacker can trigger a use-after-free (and possibly gain privileges) via certain thread creation, map, unmap, invalidation, and dereference operations.
 - [jedai47/cve-2018-17182](https://github.com/jedai47/cve-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/cve-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/cve-2018-17182">
@@ -2055,6 +2066,11 @@
 ## CVE-2018-1002200 ()
 > 
 - [shoucheng3/codehaus-plexus__plexus-archiver_CVE-2018-1002200_3-5](https://github.com/shoucheng3/codehaus-plexus__plexus-archiver_CVE-2018-1002200_3-5)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/codehaus-plexus__plexus-archiver_CVE-2018-1002200_3-5">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/codehaus-plexus__plexus-archiver_CVE-2018-1002200_3-5">
+
+---
+## CVE-2018-1000873 ()
+> 
+- [andikahilmy/CVE-2018-1000873-jackson-modules-java8-vulnerable](https://github.com/andikahilmy/CVE-2018-1000873-jackson-modules-java8-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000873-jackson-modules-java8-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000873-jackson-modules-java8-vulnerable">
 
 ---
 ## CVE-2018-1000861 (2018-12-10T14:29:00)

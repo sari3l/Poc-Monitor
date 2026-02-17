@@ -43,6 +43,7 @@
 > 
 - [Pranjal6955/CVE-2020-9547](https://github.com/Pranjal6955/CVE-2020-9547)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2020-9547">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2020-9547">
 - [fairyming/CVE-2020-9547](https://github.com/fairyming/CVE-2020-9547)	<img alt="forks" src="https://img.shields.io/github/forks/fairyming/CVE-2020-9547">	<img alt="stars" src="https://img.shields.io/github/stars/fairyming/CVE-2020-9547">
+- [andikahilmy/CVE-2020-9547-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-9547-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-9547-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-9547-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-9546 ()
@@ -1750,6 +1751,11 @@
 > A remote code execution vulnerability in the installUpdateThemePluginAction function in index.php in WonderCMS 3.1.3, allows remote attackers to upload a custom plugin which can contain arbitrary code and obtain a webshell via the theme/plugin installer.
 - [AkashLingayat/WonderCMS-CVE-2020-35314](https://github.com/AkashLingayat/WonderCMS-CVE-2020-35314)	<img alt="forks" src="https://img.shields.io/github/forks/AkashLingayat/WonderCMS-CVE-2020-35314">	<img alt="stars" src="https://img.shields.io/github/stars/AkashLingayat/WonderCMS-CVE-2020-35314">
 - [ybdegit2020/wonderplugin](https://github.com/ybdegit2020/wonderplugin)	<img alt="forks" src="https://img.shields.io/github/forks/ybdegit2020/wonderplugin">	<img alt="stars" src="https://img.shields.io/github/stars/ybdegit2020/wonderplugin">
+
+---
+## CVE-2020-35217 ()
+> 
+- [andikahilmy/CVE-2020-35217-vertx-web-vulnerable](https://github.com/andikahilmy/CVE-2020-35217-vertx-web-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-35217-vertx-web-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-35217-vertx-web-vulnerable">
 
 ---
 ## CVE-2020-35169 (2022-07-11T20:15:00)
@@ -4569,6 +4575,11 @@
 - [Live-Hack-CVE/CVE-2020-13963](https://github.com/Live-Hack-CVE/CVE-2020-13963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13963">
 
 ---
+## CVE-2020-13959 ()
+> 
+- [andikahilmy/CVE-2020-13959-velocity-tools-vulnerable](https://github.com/andikahilmy/CVE-2020-13959-velocity-tools-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-13959-velocity-tools-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-13959-velocity-tools-vulnerable">
+
+---
 ## CVE-2020-13958 (2020-11-17T16:15:00)
 > A vulnerability in Apache OpenOffice scripting events allows an attacker to construct documents containing hyperlinks pointing to an executable on the target users file system. These hyperlinks can be triggered unconditionally. In fixed versions no internal protocol may be called from the document event handler and other hyperlinks require a control-click.
 - [Grey-Junior/CVE-2020-13958](https://github.com/Grey-Junior/CVE-2020-13958)	<img alt="forks" src="https://img.shields.io/github/forks/Grey-Junior/CVE-2020-13958">	<img alt="stars" src="https://img.shields.io/github/stars/Grey-Junior/CVE-2020-13958">
@@ -5080,6 +5091,11 @@
 - [5l1v3r1/SaltStack-Exp-1](https://github.com/5l1v3r1/SaltStack-Exp-1)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/SaltStack-Exp-1">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/SaltStack-Exp-1">
 - [Drew-Alleman/CVE-2020-11651](https://github.com/Drew-Alleman/CVE-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/Drew-Alleman/CVE-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/Drew-Alleman/CVE-2020-11651">
 - [limon768/CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-POC">
+
+---
+## CVE-2020-11620 ()
+> 
+- [andikahilmy/CVE-2020-11620-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-11620-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-11620-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-11620-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-11579 (2020-09-03T18:15:00)
