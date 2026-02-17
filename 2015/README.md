@@ -214,6 +214,11 @@
 - [jas502n/CVE-2015-5254](https://github.com/jas502n/CVE-2015-5254)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2015-5254">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2015-5254">
 
 ---
+## CVE-2015-5253 ()
+> 
+- [andikahilmy/CVE-2015-5253-cxf-vulnerable](https://github.com/andikahilmy/CVE-2015-5253-cxf-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2015-5253-cxf-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2015-5253-cxf-vulnerable">
+
+---
 ## CVE-2015-5252 (2015-12-29T22:59:00)
 > vfs.c in smbd in Samba 3.x and 4.x before 4.1.22, 4.2.x before 4.2.7, and 4.3.x before 4.3.3, when share names with certain substring relationships exist, allows remote attackers to bypass intended file-access restrictions via a symlink that points outside of a share.
 - [Live-Hack-CVE/CVE-2015-5252](https://github.com/Live-Hack-CVE/CVE-2015-5252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-5252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-5252">
