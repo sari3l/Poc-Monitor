@@ -87,6 +87,11 @@
 - [Live-Hack-CVE/CVE-2016-9031](https://github.com/Live-Hack-CVE/CVE-2016-9031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-9031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-9031">
 
 ---
+## CVE-2016-8744 ()
+> 
+- [andikahilmy/CVE-2016-8744-brooklyn-server-vulnerable](https://github.com/andikahilmy/CVE-2016-8744-brooklyn-server-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-8744-brooklyn-server-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-8744-brooklyn-server-vulnerable">
+
+---
 ## CVE-2016-8732 (2018-04-24T19:29:00)
 > Multiple security flaws exists in InvProtectDrv.sys which is a part of Invincea Dell Protected Workspace 5.1.1-22303. Weak restrictions on the driver communication channel and additional insufficient checks allow any application to turn off some of the protection mechanisms provided by the Invincea product.
 - [Live-Hack-CVE/CVE-2016-8732](https://github.com/Live-Hack-CVE/CVE-2016-8732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8732">

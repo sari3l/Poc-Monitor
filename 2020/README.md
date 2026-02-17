@@ -634,6 +634,11 @@
 - [andsnw/sockjs-dos-py](https://github.com/andsnw/sockjs-dos-py)	<img alt="forks" src="https://img.shields.io/github/forks/andsnw/sockjs-dos-py">	<img alt="stars" src="https://img.shields.io/github/stars/andsnw/sockjs-dos-py">
 
 ---
+## CVE-2020-7692 ()
+> 
+- [andikahilmy/CVE-2020-7692-google-oauth-java-client-vulnerable](https://github.com/andikahilmy/CVE-2020-7692-google-oauth-java-client-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-7692-google-oauth-java-client-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-7692-google-oauth-java-client-vulnerable">
+
+---
 ## CVE-2020-7679 (2020-06-19T11:15:00)
 > In all versions of package casperjs, the mergeObjects utility function is susceptible to Prototype Pollution.
 - [Live-Hack-CVE/CVE-2020-7679](https://github.com/Live-Hack-CVE/CVE-2020-7679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7679">
@@ -1443,6 +1448,7 @@
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp.datasources.PerUserPoolDataSource.
 - [Live-Hack-CVE/CVE-2020-36186](https://github.com/Live-Hack-CVE/CVE-2020-36186)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36186">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36186">
 - [Live-Hack-CVE/CVE-2020-36186](https://github.com/Live-Hack-CVE/CVE-2020-36186)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36186">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36186">
+- [andikahilmy/CVE-2020-36186-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-36186-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-36186-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-36186-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-36185 (2021-01-06T23:15:00)
@@ -1671,6 +1677,11 @@
 ## CVE-2020-35501 (2022-03-30T16:15:00)
 > A flaw was found in the Linux kernels implementation of audit rules, where a syscall can unexpectedly not be correctly not be logged by the audit subsystem
 - [Live-Hack-CVE/CVE-2020-35501](https://github.com/Live-Hack-CVE/CVE-2020-35501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35501">
+
+---
+## CVE-2020-35490 ()
+> 
+- [andikahilmy/CVE-2020-35490-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-35490-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-35490-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-35490-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-35489 (2020-12-17T19:15:00)
@@ -2685,6 +2696,7 @@
 - [epicosy/XStream-1](https://github.com/epicosy/XStream-1)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/XStream-1">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/XStream-1">
 - [shoucheng3/x-stream__xstream_CVE-2020-26217_1-4-14-java77](https://github.com/shoucheng3/x-stream__xstream_CVE-2020-26217_1-4-14-java77)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/x-stream__xstream_CVE-2020-26217_1-4-14-java77">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/x-stream__xstream_CVE-2020-26217_1-4-14-java77">
 - [Kairo-one/CVE-2020-26217-XStream](https://github.com/Kairo-one/CVE-2020-26217-XStream)	<img alt="forks" src="https://img.shields.io/github/forks/Kairo-one/CVE-2020-26217-XStream">	<img alt="stars" src="https://img.shields.io/github/stars/Kairo-one/CVE-2020-26217-XStream">
+- [andikahilmy/CVE-2020-26217-xstream-vulnerable](https://github.com/andikahilmy/CVE-2020-26217-xstream-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-26217-xstream-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-26217-xstream-vulnerable">
 
 ---
 ## CVE-2020-26197 (2021-04-20T17:15:00)
@@ -3858,6 +3870,11 @@
 - [Live-Hack-CVE/CVE-2020-17049](https://github.com/Live-Hack-CVE/CVE-2020-17049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17049">
 
 ---
+## CVE-2020-1695 ()
+> 
+- [andikahilmy/CVE-2020-1695-Resteasy-vulnerable](https://github.com/andikahilmy/CVE-2020-1695-Resteasy-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-1695-Resteasy-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-1695-Resteasy-vulnerable">
+
+---
 ## CVE-2020-16898 (2020-10-16T23:15:00)
 > <p>A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets. An attacker who successfully exploited this vulnerability could gain the ability to execute code on the target server or client.</p>
 <p>To exploit this vulnerability, an attacker would have to send specially crafted ICMPv6 Router Advertisement packets to a remote Windows computer.</p>
@@ -4426,6 +4443,11 @@
 ## CVE-2020-14305 (2020-12-02T01:15:00)
 > An out-of-bounds memory write flaw was found in how the Linux kernel’s Voice Over IP H.323 connection tracking functionality handled connections on ipv6 port 1720. This flaw allows an unauthenticated remote user to crash the system, causing a denial of service. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
 - [Live-Hack-CVE/CVE-2020-14305](https://github.com/Live-Hack-CVE/CVE-2020-14305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14305">
+
+---
+## CVE-2020-14195 ()
+> 
+- [andikahilmy/CVE-2020-14195-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-14195-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-14195-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-14195-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-14181 ()

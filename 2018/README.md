@@ -1074,6 +1074,11 @@
 - [himash/CVE-2018-19410-POC](https://github.com/himash/CVE-2018-19410-POC)	<img alt="forks" src="https://img.shields.io/github/forks/himash/CVE-2018-19410-POC">	<img alt="stars" src="https://img.shields.io/github/stars/himash/CVE-2018-19410-POC">
 
 ---
+## CVE-2018-19360 ()
+> 
+- [andikahilmy/CVE-2018-19360-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-19360-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-19360-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-19360-jackson-databind-vulnerable">
+
+---
 ## CVE-2018-19323 ()
 > 
 - [blueisbeautiful/CVE-2018-19323](https://github.com/blueisbeautiful/CVE-2018-19323)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2018-19323">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2018-19323">
@@ -1512,6 +1517,11 @@
 - [babyshen/routeros-CVE-2018-14847-bytheway](https://github.com/babyshen/routeros-CVE-2018-14847-bytheway)	<img alt="forks" src="https://img.shields.io/github/forks/babyshen/routeros-CVE-2018-14847-bytheway">	<img alt="stars" src="https://img.shields.io/github/stars/babyshen/routeros-CVE-2018-14847-bytheway">
 - [K3ysTr0K3R/CVE-2018-14847-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2018-14847-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2018-14847-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2018-14847-EXPLOIT">
 - [tausifzaman/CVE-2018-14847](https://github.com/tausifzaman/CVE-2018-14847)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/CVE-2018-14847">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/CVE-2018-14847">
+
+---
+## CVE-2018-14719 ()
+> 
+- [andikahilmy/CVE-2018-14719-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-14719-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-14719-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-14719-jackson-databind-vulnerable">
 
 ---
 ## CVE-2018-14716 (2018-08-06T20:29:00)

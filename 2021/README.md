@@ -9215,6 +9215,11 @@
 - [Live-Hack-CVE/CVE-2021-21366](https://github.com/Live-Hack-CVE/CVE-2021-21366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21366">
 
 ---
+## CVE-2021-21363 ()
+> 
+- [andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable](https://github.com/andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable">
+
+---
 ## CVE-2021-21362 (2021-03-08T19:15:00)
 > MinIO is an open-source high performance object storage service and it is API compatible with Amazon S3 cloud storage service. In MinIO before version RELEASE.2021-03-04T00-53-13Z it is possible to bypass a readOnly policy by creating a temporary 'mc share upload' URL. Everyone is impacted who uses MinIO multi-users. This is fixed in version RELEASE.2021-03-04T00-53-13Z. As a workaround, one can disable uploads with `Content-Type: multipart/form-data` as mentioned in the S3 API RESTObjectPOST docs by using a proxy in front of MinIO.
 - [Live-Hack-CVE/CVE-2021-21362](https://github.com/Live-Hack-CVE/CVE-2021-21362)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21362">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21362">

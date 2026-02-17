@@ -204,6 +204,11 @@
 - [itzexploit/CVE-2017-8056](https://github.com/itzexploit/CVE-2017-8056)	<img alt="forks" src="https://img.shields.io/github/forks/itzexploit/CVE-2017-8056">	<img alt="stars" src="https://img.shields.io/github/stars/itzexploit/CVE-2017-8056">
 
 ---
+## CVE-2017-7957 ()
+> 
+- [andikahilmy/CVE-2017-7957-xstream-vulnerable](https://github.com/andikahilmy/CVE-2017-7957-xstream-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-7957-xstream-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-7957-xstream-vulnerable">
+
+---
 ## CVE-2017-7921 (2017-05-06T00:29:00)
 > An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.0 build 160530, DS-2CD2xx0F-I Series V5.2.0 build 140721 to V5.4.0 Build 160401, DS-2CD2xx2FWD Series V5.3.1 build 150410 to V5.4.4 Build 161125, DS-2CD4x2xFWD Series V5.2.0 build 140721 to V5.4.0 Build 160414, DS-2CD4xx5 Series V5.2.0 build 140721 to V5.4.0 Build 160421, DS-2DFx Series V5.2.0 build 140805 to V5.4.5 Build 160928, and DS-2CD63xx Series V5.0.9 build 140305 to V5.3.5 Build 160106 devices. The improper authentication vulnerability occurs when an application does not adequately or correctly authenticate users. This may allow a malicious user to escalate his or her privileges on the system and gain access to sensitive information.
 - [p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor](https://github.com/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor">
@@ -747,6 +752,11 @@
 ## CVE-2017-2751 (2018-10-03T20:29:00)
 > A BIOS password extraction vulnerability has been reported on certain consumer notebooks with firmware F.22 and others. The BIOS password was stored in CMOS in a way that allowed it to be extracted. This applies to consumer notebooks launched in early 2014.
 - [BaderSZ/CVE-2017-2751](https://github.com/BaderSZ/CVE-2017-2751)	<img alt="forks" src="https://img.shields.io/github/forks/BaderSZ/CVE-2017-2751">	<img alt="stars" src="https://img.shields.io/github/stars/BaderSZ/CVE-2017-2751">
+
+---
+## CVE-2017-2649 ()
+> 
+- [andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable](https://github.com/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable">
 
 ---
 ## CVE-2017-2619 (2018-03-12T15:29:00)

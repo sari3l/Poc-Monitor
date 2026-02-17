@@ -2691,6 +2691,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-14907](https://github.com/Live-Hack-CVE/CVE-2019-14907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14907">
 
 ---
+## CVE-2019-14893 ()
+> 
+- [andikahilmy/CVE-2019-14893-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-14893-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-14893-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-14893-jackson-databind-vulnerable">
+
+---
 ## CVE-2019-14886 (2020-03-05T18:15:00)
 > A vulnerability was found in business-central, as shipped in rhdm-7.5.1 and rhpam-7.5.1, where encoded passwords are stored in errai_security_context. The encoding used for storing the passwords is Base64, not an encryption algorithm, and any recovery of these passwords could lead to user passwords being exposed.
 - [Live-Hack-CVE/CVE-2019-14886](https://github.com/Live-Hack-CVE/CVE-2019-14886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14886">
