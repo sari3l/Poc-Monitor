@@ -1408,6 +1408,7 @@
 ## CVE-2025-64516 ()
 > 
 - [lem0naids/CVE-2025-64516-POC](https://github.com/lem0naids/CVE-2025-64516-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lem0naids/CVE-2025-64516-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lem0naids/CVE-2025-64516-POC">
+- [ArdNoir/CVE-2025-64516-POC](https://github.com/ArdNoir/CVE-2025-64516-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ArdNoir/CVE-2025-64516-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ArdNoir/CVE-2025-64516-POC">
 
 ---
 ## CVE-2025-64513 ()

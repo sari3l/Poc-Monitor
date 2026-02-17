@@ -258,6 +258,11 @@
 - [snknritr/CVE-2017-7679-in-python](https://github.com/snknritr/CVE-2017-7679-in-python)	<img alt="forks" src="https://img.shields.io/github/forks/snknritr/CVE-2017-7679-in-python">	<img alt="stars" src="https://img.shields.io/github/stars/snknritr/CVE-2017-7679-in-python">
 
 ---
+## CVE-2017-7661 ()
+> 
+- [andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable](https://github.com/andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable">
+
+---
 ## CVE-2017-7605 (2017-04-09T14:59:00)
 > aacplusenc.c in HE-AAC+ Codec (aka libaacplus) 2.0.2 has an assertion failure, which might allow remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact via a crafted audio file.
 - [Live-Hack-CVE/CVE-2017-7605](https://github.com/Live-Hack-CVE/CVE-2017-7605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7605">
@@ -1338,6 +1343,11 @@
 > 
 - [0xSIGILL/CVE-2017-14187_PoC_ARMv7](https://github.com/0xSIGILL/CVE-2017-14187_PoC_ARMv7)	<img alt="forks" src="https://img.shields.io/github/forks/0xSIGILL/CVE-2017-14187_PoC_ARMv7">	<img alt="stars" src="https://img.shields.io/github/stars/0xSIGILL/CVE-2017-14187_PoC_ARMv7">
 - [0xSIGILL/CVE-2017-14187_PoC_ARMv7](https://github.com/0xSIGILL/CVE-2017-14187_PoC_ARMv7)	<img alt="forks" src="https://img.shields.io/github/forks/0xSIGILL/CVE-2017-14187_PoC_ARMv7">	<img alt="stars" src="https://img.shields.io/github/stars/0xSIGILL/CVE-2017-14187_PoC_ARMv7">
+
+---
+## CVE-2017-14063 ()
+> 
+- [andikahilmy/CVE-2017-14063-async-http-client-vulnerable](https://github.com/andikahilmy/CVE-2017-14063-async-http-client-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-14063-async-http-client-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-14063-async-http-client-vulnerable">
 
 ---
 ## CVE-2017-13286 (2018-04-04T16:29:00)

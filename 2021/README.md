@@ -2616,6 +2616,7 @@
 ## CVE-2021-41269 ()
 > 
 - [shoucheng3/jmrozanec__cron-utils_CVE-2021-41269_9-1-5](https://github.com/shoucheng3/jmrozanec__cron-utils_CVE-2021-41269_9-1-5)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jmrozanec__cron-utils_CVE-2021-41269_9-1-5">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jmrozanec__cron-utils_CVE-2021-41269_9-1-5">
+- [andikahilmy/CVE-2021-41269-cron-utils-vulnerable](https://github.com/andikahilmy/CVE-2021-41269-cron-utils-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-41269-cron-utils-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-41269-cron-utils-vulnerable">
 
 ---
 ## CVE-2021-4126 (2022-12-22T20:15:00)

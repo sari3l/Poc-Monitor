@@ -2393,11 +2393,13 @@ use after free.
 ## CVE-2019-16943 (2019-10-01T17:15:00)
 > A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the p6spy (3.8.6) jar in the classpath, and an attacker can find an RMI service endpoint to access, it is possible to make the service execute a malicious payload. This issue exists because of com.p6spy.engine.spy.P6DataSource mishandling.
 - [Live-Hack-CVE/CVE-2019-16943](https://github.com/Live-Hack-CVE/CVE-2019-16943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16943">
+- [andikahilmy/CVE-2019-16943-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-16943-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-16943-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-16943-jackson-databind-vulnerable">
 
 ---
 ## CVE-2019-16942 (2019-10-01T17:15:00)
 > A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the commons-dbcp (1.4) jar in the classpath, and an attacker can find an RMI service endpoint to access, it is possible to make the service execute a malicious payload. This issue exists because of org.apache.commons.dbcp.datasources.SharedPoolDataSource and org.apache.commons.dbcp.datasources.PerUserPoolDataSource mishandling.
 - [Live-Hack-CVE/CVE-2019-16942](https://github.com/Live-Hack-CVE/CVE-2019-16942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16942">
+- [andikahilmy/CVE-2019-16942-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-16942-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-16942-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-16942-jackson-databind-vulnerable">
 
 ---
 ## CVE-2019-16891 (2019-10-04T14:15:00)
@@ -2742,9 +2744,19 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-14574](https://github.com/Live-Hack-CVE/CVE-2019-14574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14574">
 
 ---
+## CVE-2019-14540 ()
+> 
+- [andikahilmy/CVE-2019-14540-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-14540-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-14540-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-14540-jackson-databind-vulnerable">
+
+---
 ## CVE-2019-14494 (2019-08-01T17:15:00)
 > An issue was discovered in Poppler through 0.78.0. There is a divide-by-zero error in the function SplashOutputDev::tilingPatternFill at SplashOutputDev.cc.
 - [Live-Hack-CVE/CVE-2019-14494](https://github.com/Live-Hack-CVE/CVE-2019-14494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14494">
+
+---
+## CVE-2019-14439 ()
+> 
+- [andikahilmy/CVE-2019-14439-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-14439-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-14439-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-14439-jackson-databind-vulnerable">
 
 ---
 ## CVE-2019-14433 (2019-08-09T19:15:00)
@@ -3103,6 +3115,13 @@ use after free.
 ## CVE-2019-12401 ()
 > 
 - [mbadanoiu/CVE-2019-12401](https://github.com/mbadanoiu/CVE-2019-12401)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-12401">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-12401">
+
+---
+## CVE-2019-12384 ()
+> 
+- [andikahilmy/CVE-2019-12384-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-12384-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-12384-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-12384-jackson-databind-vulnerable">
+- [MagicZer0/Jackson_RCE-CVE-2019-12384](https://github.com/MagicZer0/Jackson_RCE-CVE-2019-12384)	<img alt="forks" src="https://img.shields.io/github/forks/MagicZer0/Jackson_RCE-CVE-2019-12384">	<img alt="stars" src="https://img.shields.io/github/stars/MagicZer0/Jackson_RCE-CVE-2019-12384">
+- [jas502n/CVE-2019-12384](https://github.com/jas502n/CVE-2019-12384)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-12384">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-12384">
 
 ---
 ## CVE-2019-12257 (2019-08-09T18:15:00)
