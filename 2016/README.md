@@ -392,6 +392,11 @@
 - [shoucheng3/asf__cxf_CVE-2016-6812_3-0-11](https://github.com/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">
 
 ---
+## CVE-2016-6802 ()
+> 
+- [andikahilmy/CVE-2016-6802-shiro-vulnerable](https://github.com/andikahilmy/CVE-2016-6802-shiro-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-6802-shiro-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-6802-shiro-vulnerable">
+
+---
 ## CVE-2016-6662 ()
 > 
 - [kanyaars/CVE-2016-6662](https://github.com/kanyaars/CVE-2016-6662)	<img alt="forks" src="https://img.shields.io/github/forks/kanyaars/CVE-2016-6662">	<img alt="stars" src="https://img.shields.io/github/stars/kanyaars/CVE-2016-6662">
@@ -537,6 +542,11 @@
 - [pouriam23/CVE-2016-5180-docker-](https://github.com/pouriam23/CVE-2016-5180-docker-)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/CVE-2016-5180-docker-">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/CVE-2016-5180-docker-">
 - [pouriam23/CVE-2016-5180](https://github.com/pouriam23/CVE-2016-5180)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/CVE-2016-5180">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/CVE-2016-5180">
 - [pouriam23/final-CVE-2016-5180](https://github.com/pouriam23/final-CVE-2016-5180)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/final-CVE-2016-5180">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/final-CVE-2016-5180">
+
+---
+## CVE-2016-4974 ()
+> 
+- [andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable](https://github.com/andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable">
 
 ---
 ## CVE-2016-4655 (2016-08-25T21:59:00)

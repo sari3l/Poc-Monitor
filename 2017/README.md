@@ -433,6 +433,11 @@
 - [turnernator1/Node.js-CVE-2017-5941](https://github.com/turnernator1/Node.js-CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/turnernator1/Node.js-CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/turnernator1/Node.js-CVE-2017-5941">
 
 ---
+## CVE-2017-5929 ()
+> 
+- [andikahilmy/CVE-2017-5929-logback-vulnerable](https://github.com/andikahilmy/CVE-2017-5929-logback-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-5929-logback-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-5929-logback-vulnerable">
+
+---
 ## CVE-2017-5871 (2019-05-22T20:29:00)
 > Odoo Version <= 8.0-20160726 and Version 9 is affected by: CWE-601: Open redirection. The impact is: obtain sensitive information (remote).
 - [1337secengineer/CVE-2017-5871](https://github.com/1337secengineer/CVE-2017-5871)	<img alt="forks" src="https://img.shields.io/github/forks/1337secengineer/CVE-2017-5871">	<img alt="stars" src="https://img.shields.io/github/stars/1337secengineer/CVE-2017-5871">
@@ -1463,6 +1468,11 @@
 - [11k4r/CVE-2017-1235_exploit](https://github.com/11k4r/CVE-2017-1235_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/11k4r/CVE-2017-1235_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/11k4r/CVE-2017-1235_exploit">
 
 ---
+## CVE-2017-12197 ()
+> 
+- [andikahilmy/CVE-2017-12197-libpam4j-vulnerable](https://github.com/andikahilmy/CVE-2017-12197-libpam4j-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-12197-libpam4j-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-12197-libpam4j-vulnerable">
+
+---
 ## CVE-2017-12165 ()
 > 
 - [andikahilmy/CVE-2017-12165-undertow-vulnerable](https://github.com/andikahilmy/CVE-2017-12165-undertow-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-12165-undertow-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-12165-undertow-vulnerable">
@@ -1863,6 +1873,11 @@
 - [own2pwn/blueborne-CVE-2017-1000251-POC](https://github.com/own2pwn/blueborne-CVE-2017-1000251-POC)	<img alt="forks" src="https://img.shields.io/github/forks/own2pwn/blueborne-CVE-2017-1000251-POC">	<img alt="stars" src="https://img.shields.io/github/stars/own2pwn/blueborne-CVE-2017-1000251-POC">
 - [tlatkdgus1/blueborne-CVE-2017-1000251](https://github.com/tlatkdgus1/blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/tlatkdgus1/blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/tlatkdgus1/blueborne-CVE-2017-1000251">
 - [sgxgsx/blueborne-CVE-2017-1000251](https://github.com/sgxgsx/blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/sgxgsx/blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/sgxgsx/blueborne-CVE-2017-1000251">
+
+---
+## CVE-2017-1000209 ()
+> 
+- [andikahilmy/CVE-2017-1000209-nv-websocket-client-vulnerable](https://github.com/andikahilmy/CVE-2017-1000209-nv-websocket-client-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-1000209-nv-websocket-client-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-1000209-nv-websocket-client-vulnerable">
 
 ---
 ## CVE-2017-1000098 (2017-10-05T01:29:00)

@@ -34,6 +34,11 @@
 - [Live-Hack-CVE/CVE-2020-9715](https://github.com/Live-Hack-CVE/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9715">
 
 ---
+## CVE-2020-9548 ()
+> 
+- [andikahilmy/CVE-2020-9548-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-9548-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-9548-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-9548-jackson-databind-vulnerable">
+
+---
 ## CVE-2020-9547 ()
 > 
 - [Pranjal6955/CVE-2020-9547](https://github.com/Pranjal6955/CVE-2020-9547)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2020-9547">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2020-9547">
@@ -215,6 +220,11 @@
 ## CVE-2020-8899 (2020-05-06T17:15:00)
 > There is a buffer overwrite vulnerability in the Quram qmg library of Samsung's Android OS versions O(8.x), P(9.0) and Q(10.0). An unauthenticated, unauthorized attacker sending a specially crafted MMS to a vulnerable phone can trigger a heap-based buffer overflow in the Quram image codec leading to an arbitrary remote code execution (RCE) without any user interaction. The Samsung ID is SVE-2020-16747.
 - [0x23242526/nDay1_POC_CVE-2020-8899](https://github.com/0x23242526/nDay1_POC_CVE-2020-8899)	<img alt="forks" src="https://img.shields.io/github/forks/0x23242526/nDay1_POC_CVE-2020-8899">	<img alt="stars" src="https://img.shields.io/github/stars/0x23242526/nDay1_POC_CVE-2020-8899">
+
+---
+## CVE-2020-8840 ()
+> 
+- [andikahilmy/CVE-2020-8840-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-8840-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-8840-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-8840-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-8835 (2020-04-02T18:15:00)
@@ -2651,6 +2661,7 @@
 > 
 - [cuijiung/xstream-CVE-2020-26258](https://github.com/cuijiung/xstream-CVE-2020-26258)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/xstream-CVE-2020-26258">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/xstream-CVE-2020-26258">
 - [Al1ex/CVE-2020-26258](https://github.com/Al1ex/CVE-2020-26258)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-26258">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-26258">
+- [andikahilmy/CVE-2020-26258-xstream-vulnerable](https://github.com/andikahilmy/CVE-2020-26258-xstream-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-26258-xstream-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-26258-xstream-vulnerable">
 
 ---
 ## CVE-2020-26257 (2020-12-09T19:15:00)
