@@ -2758,6 +2758,7 @@ use after free.
 ## CVE-2019-14540 ()
 > 
 - [andikahilmy/CVE-2019-14540-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-14540-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-14540-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-14540-jackson-databind-vulnerable">
+- [LeadroyaL/cve-2019-14540-exploit](https://github.com/LeadroyaL/cve-2019-14540-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LeadroyaL/cve-2019-14540-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LeadroyaL/cve-2019-14540-exploit">
 
 ---
 ## CVE-2019-14494 (2019-08-01T17:15:00)
