@@ -9215,6 +9215,11 @@
 - [Live-Hack-CVE/CVE-2021-21366](https://github.com/Live-Hack-CVE/CVE-2021-21366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21366">
 
 ---
+## CVE-2021-21364 ()
+> 
+- [andikahilmy/CVE-2021-21364-swagger-codegen-vulnerable](https://github.com/andikahilmy/CVE-2021-21364-swagger-codegen-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-21364-swagger-codegen-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-21364-swagger-codegen-vulnerable">
+
+---
 ## CVE-2021-21363 ()
 > 
 - [andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable](https://github.com/andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable">
@@ -9486,6 +9491,11 @@
 ## CVE-2021-20224 (2022-08-25T20:15:00)
 > An integer overflow issue was discovered in ImageMagick's ExportIndexQuantum() function in MagickCore/quantum-export.c. Function calls to GetPixelIndex() could result in values outside the range of representable for the 'unsigned char'. When ImageMagick processes a crafted pdf file, this could lead to an undefined behaviour or a crash.
 - [Live-Hack-CVE/CVE-2021-20224](https://github.com/Live-Hack-CVE/CVE-2021-20224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20224">
+
+---
+## CVE-2021-20190 ()
+> 
+- [andikahilmy/CVE-2021-20190-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2021-20190-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-20190-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-20190-jackson-databind-vulnerable">
 
 ---
 ## CVE-2021-20138 (2021-12-09T16:15:00)

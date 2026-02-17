@@ -161,6 +161,11 @@
 - [Live-Hack-CVE/CVE-2013-2249](https://github.com/Live-Hack-CVE/CVE-2013-2249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2249">
 
 ---
+## CVE-2013-2172 ()
+> 
+- [andikahilmy/CVE-2013-2172-santuario-java-vulnerable](https://github.com/andikahilmy/CVE-2013-2172-santuario-java-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2013-2172-santuario-java-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2013-2172-santuario-java-vulnerable">
+
+---
 ## CVE-2013-2094 ()
 > 
 - [letsr00t/CVE-2013-2094](https://github.com/letsr00t/CVE-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2013-2094">

@@ -35,6 +35,7 @@
 > 
 - [shoucheng3/perwendel__spark_CVE-2016-9177_2-5-1](https://github.com/shoucheng3/perwendel__spark_CVE-2016-9177_2-5-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/perwendel__spark_CVE-2016-9177_2-5-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/perwendel__spark_CVE-2016-9177_2-5-1">
 - [shoucheng3/perwendel__spark_CVE-2016-9177_2_5_2_fixed](https://github.com/shoucheng3/perwendel__spark_CVE-2016-9177_2_5_2_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/perwendel__spark_CVE-2016-9177_2_5_2_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/perwendel__spark_CVE-2016-9177_2_5_2_fixed">
+- [andikahilmy/CVE-2016-9177-perwendel-spark-vulnerable](https://github.com/andikahilmy/CVE-2016-9177-perwendel-spark-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-9177-perwendel-spark-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-9177-perwendel-spark-vulnerable">
 
 ---
 ## CVE-2016-9043 (2018-04-24T19:29:00)
@@ -90,6 +91,11 @@
 ## CVE-2016-8744 ()
 > 
 - [andikahilmy/CVE-2016-8744-brooklyn-server-vulnerable](https://github.com/andikahilmy/CVE-2016-8744-brooklyn-server-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-8744-brooklyn-server-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-8744-brooklyn-server-vulnerable">
+
+---
+## CVE-2016-8741 ()
+> 
+- [andikahilmy/CVE-2016-8741-qpid-broker-j-vulnerable](https://github.com/andikahilmy/CVE-2016-8741-qpid-broker-j-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-8741-qpid-broker-j-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-8741-qpid-broker-j-vulnerable">
 
 ---
 ## CVE-2016-8732 (2018-04-24T19:29:00)
