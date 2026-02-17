@@ -1465,6 +1465,7 @@
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.SharedPoolDataSource.
 - [Live-Hack-CVE/CVE-2020-36185](https://github.com/Live-Hack-CVE/CVE-2020-36185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36185">
 - [Live-Hack-CVE/CVE-2020-36185](https://github.com/Live-Hack-CVE/CVE-2020-36185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36185">
+- [andikahilmy/CVE-2020-36185-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-36185-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-36185-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-36185-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-36184 (2021-01-06T23:15:00)
@@ -1688,6 +1689,11 @@
 ## CVE-2020-35501 (2022-03-30T16:15:00)
 > A flaw was found in the Linux kernels implementation of audit rules, where a syscall can unexpectedly not be correctly not be logged by the audit subsystem
 - [Live-Hack-CVE/CVE-2020-35501](https://github.com/Live-Hack-CVE/CVE-2020-35501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35501">
+
+---
+## CVE-2020-35491 ()
+> 
+- [andikahilmy/CVE-2020-35491-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-35491-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-35491-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-35491-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-35490 ()
@@ -5092,6 +5098,11 @@
 ## CVE-2020-11179 (2021-01-21T10:15:00)
 > Arbitrary read and write to kernel addresses by temporarily overwriting ring buffer pointer and creating a race condition. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
 - [sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU](https://github.com/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU)	<img alt="forks" src="https://img.shields.io/github/forks/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU">	<img alt="stars" src="https://img.shields.io/github/stars/sparrow-labz/CVE-2020-11179-Adreno-Qualcomm-GPU">
+
+---
+## CVE-2020-11112 ()
+> 
+- [andikahilmy/CVE-2020-11112-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-11112-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-11112-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-11112-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-11111 ()

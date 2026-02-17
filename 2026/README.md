@@ -44,6 +44,16 @@
 - [Dulieno/CVE-2026-26012](https://github.com/Dulieno/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/Dulieno/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/Dulieno/CVE-2026-26012">
 
 ---
+## CVE-2026-25991 ()
+> 
+- [drkim-dev/CVE-2026-25991](https://github.com/drkim-dev/CVE-2026-25991)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-25991">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-25991">
+
+---
+## CVE-2026-25964 ()
+> 
+- [drkim-dev/CVE-2026-25964](https://github.com/drkim-dev/CVE-2026-25964)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-25964">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-25964">
+
+---
 ## CVE-2026-25961 ()
 > 
 - [mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE](https://github.com/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE">

@@ -1744,12 +1744,22 @@
 - [shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE](https://github.com/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE">
 
 ---
+## CVE-2018-12544 ()
+> 
+- [andikahilmy/CVE-2018-12544-vertx-web-vulnerable](https://github.com/andikahilmy/CVE-2018-12544-vertx-web-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12544-vertx-web-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12544-vertx-web-vulnerable">
+
+---
 ## CVE-2018-12542 ()
 > 
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">
 - [andikahilmy/CVE-2018-12542-vertx-web-vulnerable](https://github.com/andikahilmy/CVE-2018-12542-vertx-web-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12542-vertx-web-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12542-vertx-web-vulnerable">
+
+---
+## CVE-2018-12541 ()
+> 
+- [andikahilmy/CVE-2018-12541-vert.x-vulnerable](https://github.com/andikahilmy/CVE-2018-12541-vert.x-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12541-vert.x-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12541-vert.x-vulnerable">
 
 ---
 ## CVE-2018-12540 ()
@@ -2061,6 +2071,11 @@
 ## CVE-2018-1000844 ()
 > 
 - [andikahilmy/CVE-2018-1000844-retrofit-vulnerable](https://github.com/andikahilmy/CVE-2018-1000844-retrofit-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">
+
+---
+## CVE-2018-1000822 ()
+> 
+- [andikahilmy/CVE-2018-1000822-fess-vulnerable](https://github.com/andikahilmy/CVE-2018-1000822-fess-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000822-fess-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000822-fess-vulnerable">
 
 ---
 ## CVE-2018-1000531 ()

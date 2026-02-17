@@ -15,6 +15,7 @@
 > 
 - [shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11](https://github.com/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11">
 - [shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11](https://github.com/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11">
+- [andikahilmy/CVE-2011-4367-myfaces-vulnerable](https://github.com/andikahilmy/CVE-2011-4367-myfaces-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2011-4367-myfaces-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2011-4367-myfaces-vulnerable">
 
 ---
 ## CVE-2011-3348 (2011-09-20T05:55:00)

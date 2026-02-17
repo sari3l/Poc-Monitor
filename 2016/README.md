@@ -397,6 +397,11 @@
 - [andikahilmy/CVE-2016-6802-shiro-vulnerable](https://github.com/andikahilmy/CVE-2016-6802-shiro-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-6802-shiro-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-6802-shiro-vulnerable">
 
 ---
+## CVE-2016-6801 ()
+> 
+- [andikahilmy/CVE-2016-6801-jackrabbit-vulnerable](https://github.com/andikahilmy/CVE-2016-6801-jackrabbit-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-6801-jackrabbit-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-6801-jackrabbit-vulnerable">
+
+---
 ## CVE-2016-6662 ()
 > 
 - [kanyaars/CVE-2016-6662](https://github.com/kanyaars/CVE-2016-6662)	<img alt="forks" src="https://img.shields.io/github/forks/kanyaars/CVE-2016-6662">	<img alt="stars" src="https://img.shields.io/github/stars/kanyaars/CVE-2016-6662">
