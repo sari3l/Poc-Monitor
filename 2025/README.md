@@ -5145,6 +5145,8 @@
 - [r0otk3r/CVE-2025-47812](https://github.com/r0otk3r/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-47812">
 - [CTY-Research-1/CVE-2025-47812_Lab_environment](https://github.com/CTY-Research-1/CVE-2025-47812_Lab_environment)	<img alt="forks" src="https://img.shields.io/github/forks/CTY-Research-1/CVE-2025-47812_Lab_environment">	<img alt="stars" src="https://img.shields.io/github/stars/CTY-Research-1/CVE-2025-47812_Lab_environment">
 - [matesz44/CVE-2025-47812](https://github.com/matesz44/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-47812">
+- [shadowgit30/CVE-2025-47812](https://github.com/shadowgit30/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/shadowgit30/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/shadowgit30/CVE-2025-47812">
+- [dkstar11q/Blackash-CVE-2025-47812](https://github.com/dkstar11q/Blackash-CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/Blackash-CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/Blackash-CVE-2025-47812">
 
 ---
 ## CVE-2025-47810 ()
