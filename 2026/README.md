@@ -809,6 +809,11 @@
 - [John-doe-code-a11/CVE-2026-0920](https://github.com/John-doe-code-a11/CVE-2026-0920)	<img alt="forks" src="https://img.shields.io/github/forks/John-doe-code-a11/CVE-2026-0920">	<img alt="stars" src="https://img.shields.io/github/stars/John-doe-code-a11/CVE-2026-0920">
 
 ---
+## CVE-2026-0915 ()
+> 
+- [cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0](https://github.com/cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0)	<img alt="forks" src="https://img.shields.io/github/forks/cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0">	<img alt="stars" src="https://img.shields.io/github/stars/cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0">
+
+---
 ## CVE-2026-0828 ()
 > 
 - [DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828](https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">
