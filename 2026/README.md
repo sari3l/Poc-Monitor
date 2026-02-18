@@ -673,6 +673,11 @@
 - [EleniChristopoulou/PoC-CVE-2026-20841](https://github.com/EleniChristopoulou/PoC-CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/EleniChristopoulou/PoC-CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/EleniChristopoulou/PoC-CVE-2026-20841">
 
 ---
+## CVE-2026-20817 ()
+> 
+- [oxfemale/CVE-2026-20817](https://github.com/oxfemale/CVE-2026-20817)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/CVE-2026-20817">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/CVE-2026-20817">
+
+---
 ## CVE-2026-20805 ()
 > 
 - [fevar54/CVE-2026-20805-POC](https://github.com/fevar54/CVE-2026-20805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20805-POC">

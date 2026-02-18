@@ -2412,6 +2412,7 @@
 - [LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE](https://github.com/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE">
 - [you-dream-1hall/CVE-2025-59287](https://github.com/you-dream-1hall/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/you-dream-1hall/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/you-dream-1hall/CVE-2025-59287">
 - [salman5230/CVE-2025-59287](https://github.com/salman5230/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/salman5230/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/salman5230/CVE-2025-59287">
+- [ross-ns/WSUS-CVE-2025-59287](https://github.com/ross-ns/WSUS-CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/ross-ns/WSUS-CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/ross-ns/WSUS-CVE-2025-59287">
 
 ---
 ## CVE-2025-59285 ()
@@ -7922,6 +7923,7 @@
 ## CVE-2025-2563 ()
 > 
 - [ubaydev/CVE-2025-2563](https://github.com/ubaydev/CVE-2025-2563)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2025-2563">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2025-2563">
+- [0axz-tools/CVE-2025-2563-POC](https://github.com/0axz-tools/CVE-2025-2563-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0axz-tools/CVE-2025-2563-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0axz-tools/CVE-2025-2563-POC">
 
 ---
 ## CVE-2025-25621 ()
