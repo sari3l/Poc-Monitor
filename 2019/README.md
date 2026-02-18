@@ -144,7 +144,7 @@
 ---
 ## CVE-2019-9194 ()
 > 
-- [estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC-](https://github.com/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC-">
+- [estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC](https://github.com/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2019-9194-elFinder-Command-Injection-PoC">
 - [cyvorsec/TryHackMe](https://github.com/cyvorsec/TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/cyvorsec/TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/cyvorsec/TryHackMe">
 - [cved-sources/cve-2019-9194](https://github.com/cved-sources/cve-2019-9194)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2019-9194">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2019-9194">
 
