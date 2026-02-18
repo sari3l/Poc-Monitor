@@ -4266,6 +4266,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [j3r1ch0123/CVE-2024-40422](https://github.com/j3r1ch0123/CVE-2024-40422)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2024-40422">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2024-40422">
 
 ---
+## CVE-2024-4041 ()
+> 
+- [RandomRobbieBF/CVE-2024-4041](https://github.com/RandomRobbieBF/CVE-2024-4041)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4041">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4041">
+
+---
 ## CVE-2024-4040 (2024-04-22T20:15:00)
 > VFS Sandbox Escape in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows remote attackers with low privileges to read files from the filesystem outside of VFS Sandbox.
 
@@ -7909,6 +7914,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [r0otk3r/CVE-2024-25600](https://github.com/r0otk3r/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-25600">
 - [ranjithxploit/CVE-2024-25600](https://github.com/ranjithxploit/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/ranjithxploit/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/ranjithxploit/CVE-2024-25600">
 - [frankfm-labs/bricks-rce-writeup](https://github.com/frankfm-labs/bricks-rce-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/frankfm-labs/bricks-rce-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/frankfm-labs/bricks-rce-writeup">
+- [estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC](https://github.com/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC">
 
 ---
 ## CVE-2024-25503 (2024-04-04T08:15:00)
