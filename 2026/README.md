@@ -19,6 +19,7 @@
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
+- [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 
 ---
 ## CVE-2026-3098 ()
@@ -36,6 +37,11 @@
 - [mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown](https://github.com/mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown">
 
 ---
+## CVE-2026-26221 ()
+> 
+- [mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE">
+
+---
 ## CVE-2026-26215 ()
 > 
 - [mbanyamer/-CVE-2026-26215-manga-image-translator-RCE](https://github.com/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE">
@@ -44,6 +50,7 @@
 ## CVE-2026-26012 ()
 > 
 - [Dulieno/CVE-2026-26012](https://github.com/Dulieno/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/Dulieno/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/Dulieno/CVE-2026-26012">
+- [diegobaelen/CVE-2026-26012](https://github.com/diegobaelen/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/diegobaelen/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/diegobaelen/CVE-2026-26012">
 
 ---
 ## CVE-2026-25991 ()
@@ -308,6 +315,7 @@
 - [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
 - [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
 - [ilostmypassword/Melissae](https://github.com/ilostmypassword/Melissae)	<img alt="forks" src="https://img.shields.io/github/forks/ilostmypassword/Melissae">	<img alt="stars" src="https://img.shields.io/github/stars/ilostmypassword/Melissae">
+- [mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-](https://github.com/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">
 
 ---
 ## CVE-2026-2406 ()
