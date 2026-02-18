@@ -372,6 +372,7 @@
 - [0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061](https://github.com/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">
 - [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
 - [tiborscholtz/CVE-2026-24061](https://github.com/tiborscholtz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/tiborscholtz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/tiborscholtz/CVE-2026-24061">
+- [mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-](https://github.com/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">
 
 ---
 ## CVE-2026-2395 ()
@@ -526,6 +527,11 @@
 - [George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-](https://github.com/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-">
 
 ---
+## CVE-2026-21957 ()
+> 
+- [jermaine22sei/CVE-2026-21957-exp](https://github.com/jermaine22sei/CVE-2026-21957-exp)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-21957-exp">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-21957-exp">
+
+---
 ## CVE-2026-21877 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21877](https://github.com/Ashwesker/Ashwesker-CVE-2026-21877)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21877">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21877">
@@ -678,6 +684,7 @@
 > 
 - [kimblehardwoods/CVE-2026-20700](https://github.com/kimblehardwoods/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/kimblehardwoods/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/kimblehardwoods/CVE-2026-20700">
 - [bytehazard/CVE-2026-20700](https://github.com/bytehazard/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/bytehazard/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/bytehazard/CVE-2026-20700">
+- [sundenovak/CVE-2026-20700-An-analysis-WIP](https://github.com/sundenovak/CVE-2026-20700-An-analysis-WIP)	<img alt="forks" src="https://img.shields.io/github/forks/sundenovak/CVE-2026-20700-An-analysis-WIP">	<img alt="stars" src="https://img.shields.io/github/stars/sundenovak/CVE-2026-20700-An-analysis-WIP">
 
 ---
 ## CVE-2026-20404 ()
