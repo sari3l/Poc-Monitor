@@ -7915,6 +7915,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [ranjithxploit/CVE-2024-25600](https://github.com/ranjithxploit/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/ranjithxploit/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/ranjithxploit/CVE-2024-25600">
 - [frankfm-labs/bricks-rce-writeup](https://github.com/frankfm-labs/bricks-rce-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/frankfm-labs/bricks-rce-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/frankfm-labs/bricks-rce-writeup">
 - [estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC](https://github.com/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC">
+- [h0w1tzxr/TryHack3M-Bricks-Heist](https://github.com/h0w1tzxr/TryHack3M-Bricks-Heist)	<img alt="forks" src="https://img.shields.io/github/forks/h0w1tzxr/TryHack3M-Bricks-Heist">	<img alt="stars" src="https://img.shields.io/github/stars/h0w1tzxr/TryHack3M-Bricks-Heist">
 
 ---
 ## CVE-2024-25503 (2024-04-04T08:15:00)
