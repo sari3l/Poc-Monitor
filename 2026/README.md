@@ -877,3 +877,8 @@
 > 
 - [CkAbhijit/CVE-2026-0227-Advanced-Scanner](https://github.com/CkAbhijit/CVE-2026-0227-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CkAbhijit/CVE-2026-0227-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CkAbhijit/CVE-2026-0227-Advanced-Scanner">
 - [TeeyaR/CVE-2026-0227-Palo-Alto](https://github.com/TeeyaR/CVE-2026-0227-Palo-Alto)	<img alt="forks" src="https://img.shields.io/github/forks/TeeyaR/CVE-2026-0227-Palo-Alto">	<img alt="stars" src="https://img.shields.io/github/stars/TeeyaR/CVE-2026-0227-Palo-Alto">
+
+---
+## CVE-2026-0006 ()
+> 
+- [aydin5245/cve-2026-0006](https://github.com/aydin5245/cve-2026-0006)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/cve-2026-0006">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/cve-2026-0006">
