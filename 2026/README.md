@@ -34,6 +34,16 @@
 - [George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098](https://github.com/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">
 
 ---
+## CVE-2026-27180 ()
+> 
+- [mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE">
+
+---
+## CVE-2026-26744 ()
+> 
+- [lorenzobruno7/CVE-2026-26744](https://github.com/lorenzobruno7/CVE-2026-26744)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzobruno7/CVE-2026-26744">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzobruno7/CVE-2026-26744">
+
+---
 ## CVE-2026-26335 ()
 > 
 - [mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE](https://github.com/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">
