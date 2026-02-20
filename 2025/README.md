@@ -8586,6 +8586,7 @@
 - [CsuriBird/CVE-2025-2304](https://github.com/CsuriBird/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/CsuriBird/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/CsuriBird/CVE-2025-2304">
 - [MAEN1-prog/CVE-2025-2304](https://github.com/MAEN1-prog/CVE-2025-2304)	<img alt="forks" src="https://img.shields.io/github/forks/MAEN1-prog/CVE-2025-2304">	<img alt="stars" src="https://img.shields.io/github/stars/MAEN1-prog/CVE-2025-2304">
 - [MAEN1-prog/maen1-prog.github.io](https://github.com/MAEN1-prog/maen1-prog.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MAEN1-prog/maen1-prog.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MAEN1-prog/maen1-prog.github.io">
+- [estebanzarate/CVE-2025-2304-Camaleon-CMS-Mass-Assignment-Privilege-Escalation-PoC](https://github.com/estebanzarate/CVE-2025-2304-Camaleon-CMS-Mass-Assignment-Privilege-Escalation-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2025-2304-Camaleon-CMS-Mass-Assignment-Privilege-Escalation-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2025-2304-Camaleon-CMS-Mass-Assignment-Privilege-Escalation-PoC">
 
 ---
 ## CVE-2025-2301 ()
