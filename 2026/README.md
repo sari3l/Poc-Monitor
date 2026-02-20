@@ -44,6 +44,11 @@
 - [lorenzobruno7/CVE-2026-26744](https://github.com/lorenzobruno7/CVE-2026-26744)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzobruno7/CVE-2026-26744">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzobruno7/CVE-2026-26744">
 
 ---
+## CVE-2026-2670 ()
+> 
+- [ali-py3/exploi-CVE-2026-2670](https://github.com/ali-py3/exploi-CVE-2026-2670)	<img alt="forks" src="https://img.shields.io/github/forks/ali-py3/exploi-CVE-2026-2670">	<img alt="stars" src="https://img.shields.io/github/stars/ali-py3/exploi-CVE-2026-2670">
+
+---
 ## CVE-2026-26335 ()
 > 
 - [mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE](https://github.com/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">
