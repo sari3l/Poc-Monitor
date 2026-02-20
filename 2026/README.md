@@ -631,6 +631,7 @@
 - [Pairs34/RDPVulnarableCheck](https://github.com/Pairs34/RDPVulnarableCheck)	<img alt="forks" src="https://img.shields.io/github/forks/Pairs34/RDPVulnarableCheck">	<img alt="stars" src="https://img.shields.io/github/stars/Pairs34/RDPVulnarableCheck">
 - [elvin31thai/CVE-2026-21533](https://github.com/elvin31thai/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/elvin31thai/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/elvin31thai/CVE-2026-21533">
 - [jenniferreire26/CVE-2026-21533](https://github.com/jenniferreire26/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-21533">
+- [washingtonmaister/CVE-2026-21533](https://github.com/washingtonmaister/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-21533">
 
 ---
 ## CVE-2026-21531 ()
