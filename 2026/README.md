@@ -34,9 +34,19 @@
 - [George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098](https://github.com/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">
 
 ---
+## CVE-2026-27199 ()
+> 
+- [alimezar/CVE-2026-27199-werkzeug-safe-join-bypass-PoC](https://github.com/alimezar/CVE-2026-27199-werkzeug-safe-join-bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alimezar/CVE-2026-27199-werkzeug-safe-join-bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alimezar/CVE-2026-27199-werkzeug-safe-join-bypass-PoC">
+
+---
 ## CVE-2026-27180 ()
 > 
 - [mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE">
+
+---
+## CVE-2026-26746 ()
+> 
+- [hungnqdz/CVE-2026-26746](https://github.com/hungnqdz/CVE-2026-26746)	<img alt="forks" src="https://img.shields.io/github/forks/hungnqdz/CVE-2026-26746">	<img alt="stars" src="https://img.shields.io/github/stars/hungnqdz/CVE-2026-26746">
 
 ---
 ## CVE-2026-26744 ()
