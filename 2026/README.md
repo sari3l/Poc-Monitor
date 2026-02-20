@@ -274,6 +274,7 @@
 - [jermaine22sei/CVE-2026-2441](https://github.com/jermaine22sei/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-2441">
 - [theemperorspath/CVE-2026-2441-PoC](https://github.com/theemperorspath/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theemperorspath/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theemperorspath/CVE-2026-2441-PoC">
 - [RootAid/CVE-2026-2441](https://github.com/RootAid/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-2441">
+- [washingtonmaister/CVE-2026-2441](https://github.com/washingtonmaister/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-2441">
 
 ---
 ## CVE-2026-24306 ()
@@ -782,6 +783,7 @@
 - [bytehazard/CVE-2026-1731](https://github.com/bytehazard/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/bytehazard/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/bytehazard/CVE-2026-1731">
 - [cybrdude/cve-2026-1731-scanner](https://github.com/cybrdude/cve-2026-1731-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/cybrdude/cve-2026-1731-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/cybrdude/cve-2026-1731-scanner">
 - [jakubie07/CVE-2026-1731](https://github.com/jakubie07/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/jakubie07/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/jakubie07/CVE-2026-1731">
+- [richardpaimu34/CVE-2026-1731](https://github.com/richardpaimu34/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-1731">
 
 ---
 ## CVE-2026-1729 ()
