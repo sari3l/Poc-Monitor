@@ -2423,6 +2423,7 @@
 - [you-dream-1hall/CVE-2025-59287](https://github.com/you-dream-1hall/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/you-dream-1hall/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/you-dream-1hall/CVE-2025-59287">
 - [salman5230/CVE-2025-59287](https://github.com/salman5230/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/salman5230/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/salman5230/CVE-2025-59287">
 - [ross-ns/WSUS-CVE-2025-59287](https://github.com/ross-ns/WSUS-CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/ross-ns/WSUS-CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/ross-ns/WSUS-CVE-2025-59287">
+- [vatslaaeytoygag/CVE-2025-59287](https://github.com/vatslaaeytoygag/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/vatslaaeytoygag/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/vatslaaeytoygag/CVE-2025-59287">
 
 ---
 ## CVE-2025-59285 ()
