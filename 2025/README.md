@@ -6583,6 +6583,7 @@
 - [lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities](https://github.com/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities">
 - [hackingyseguridad/root](https://github.com/hackingyseguridad/root)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/root">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/root">
 - [SpycioKon/CVE-2025-32463](https://github.com/SpycioKon/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/SpycioKon/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/SpycioKon/CVE-2025-32463">
+- [vpr-labs/CVE-2025-32463](https://github.com/vpr-labs/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/vpr-labs/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/vpr-labs/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
@@ -7135,6 +7136,11 @@
 > 
 - [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-29972">
 - [TH-SecForge/CVE-2025-29972](https://github.com/TH-SecForge/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-29972">
+
+---
+## CVE-2025-29969 ()
+> 
+- [SafeBreach-Labs/EventLogin-CVE-2025-29969](https://github.com/SafeBreach-Labs/EventLogin-CVE-2025-29969)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/EventLogin-CVE-2025-29969">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/EventLogin-CVE-2025-29969">
 
 ---
 ## CVE-2025-2995 ()
