@@ -171,6 +171,11 @@
 - [ethiack/moltbot-1click-rce](https://github.com/ethiack/moltbot-1click-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ethiack/moltbot-1click-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ethiack/moltbot-1click-rce">
 
 ---
+## CVE-2026-25242 ()
+> 
+- [mindkernel/CVE-2026-25242](https://github.com/mindkernel/CVE-2026-25242)	<img alt="forks" src="https://img.shields.io/github/forks/mindkernel/CVE-2026-25242">	<img alt="stars" src="https://img.shields.io/github/stars/mindkernel/CVE-2026-25242">
+
+---
 ## CVE-2026-25211 ()
 > 
 - [mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211](https://github.com/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">
@@ -246,6 +251,7 @@
 - [b1gchoi/CVE-2026-2441_POC](https://github.com/b1gchoi/CVE-2026-2441_POC)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-2441_POC">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-2441_POC">
 - [huseyinstif/CVE-2026-2441-PoC](https://github.com/huseyinstif/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2026-2441-PoC">
 - [jermaine22sei/CVE-2026-2441](https://github.com/jermaine22sei/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-2441">
+- [theemperorspath/CVE-2026-2441-PoC](https://github.com/theemperorspath/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theemperorspath/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theemperorspath/CVE-2026-2441-PoC">
 
 ---
 ## CVE-2026-24306 ()
