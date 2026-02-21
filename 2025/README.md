@@ -4810,6 +4810,7 @@
 - [cylentsec/CVE-2025-49132_PoC](https://github.com/cylentsec/CVE-2025-49132_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cylentsec/CVE-2025-49132_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cylentsec/CVE-2025-49132_PoC">
 - [rippsec/CVE-2025-49132](https://github.com/rippsec/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-49132">
 - [popyue/CVE-2025-49132](https://github.com/popyue/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-49132">
+- [4nuxd/CVE-2025-49132](https://github.com/4nuxd/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/4nuxd/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/4nuxd/CVE-2025-49132">
 
 ---
 ## CVE-2025-49131 ()
