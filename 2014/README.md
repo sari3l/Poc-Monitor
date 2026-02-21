@@ -134,6 +134,7 @@
 - [andres101c/Shellshock-CVE-2014-6271](https://github.com/andres101c/Shellshock-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/andres101c/Shellshock-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/andres101c/Shellshock-CVE-2014-6271">
 - [NamiKaze02/Shellshock](https://github.com/NamiKaze02/Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/NamiKaze02/Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/NamiKaze02/Shellshock">
 - [mtaha-sec/bash-apocalypse](https://github.com/mtaha-sec/bash-apocalypse)	<img alt="forks" src="https://img.shields.io/github/forks/mtaha-sec/bash-apocalypse">	<img alt="stars" src="https://img.shields.io/github/stars/mtaha-sec/bash-apocalypse">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
