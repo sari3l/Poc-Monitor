@@ -6587,6 +6587,7 @@
 - [hackingyseguridad/root](https://github.com/hackingyseguridad/root)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/root">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/root">
 - [SpycioKon/CVE-2025-32463](https://github.com/SpycioKon/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/SpycioKon/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/SpycioKon/CVE-2025-32463">
 - [vpr-labs/CVE-2025-32463](https://github.com/vpr-labs/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/vpr-labs/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/vpr-labs/CVE-2025-32463">
+- [danilo1992-sys/CVE-2025-32463](https://github.com/danilo1992-sys/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danilo1992-sys/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danilo1992-sys/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
