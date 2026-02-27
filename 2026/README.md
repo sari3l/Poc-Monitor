@@ -343,6 +343,11 @@
 - [otakuliu/CVE-2026-24841_Range](https://github.com/otakuliu/CVE-2026-24841_Range)	<img alt="forks" src="https://img.shields.io/github/forks/otakuliu/CVE-2026-24841_Range">	<img alt="stars" src="https://img.shields.io/github/stars/otakuliu/CVE-2026-24841_Range">
 
 ---
+## CVE-2026-2472 ()
+> 
+- [JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud](https://github.com/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud">
+
+---
 ## CVE-2026-24688 ()
 > 
 - [JoakimBulow/CVE-2026-24688](https://github.com/JoakimBulow/CVE-2026-24688)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-24688">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-24688">
