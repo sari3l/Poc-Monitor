@@ -925,6 +925,11 @@
 - [ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass](https://github.com/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">
 
 ---
+## CVE-2026-1581 ()
+> 
+- [rootdirective-sec/CVE-2026-1581-Analysis-Lab](https://github.com/rootdirective-sec/CVE-2026-1581-Analysis-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-1581-Analysis-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-1581-Analysis-Lab">
+
+---
 ## CVE-2026-1560 ()
 > 
 - [Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0](https://github.com/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0)	<img alt="forks" src="https://img.shields.io/github/forks/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">	<img alt="stars" src="https://img.shields.io/github/stars/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">
