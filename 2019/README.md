@@ -1862,6 +1862,9 @@ use after free.
 ## CVE-2019-20149 ()
 > 
 - [mrknowledgshare/testing_cve-2019-20149](https://github.com/mrknowledgshare/testing_cve-2019-20149)	<img alt="forks" src="https://img.shields.io/github/forks/mrknowledgshare/testing_cve-2019-20149">	<img alt="stars" src="https://img.shields.io/github/stars/mrknowledgshare/testing_cve-2019-20149">
+- [CQ-Tools/CVE-2019-20149-fixed](https://github.com/CQ-Tools/CVE-2019-20149-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-20149-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-20149-fixed">
+- [CQ-Tools/CVE-2019-20149-unfixed](https://github.com/CQ-Tools/CVE-2019-20149-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-20149-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-20149-unfixed">
+- [ossf-cve-benchmark/CVE-2019-20149](https://github.com/ossf-cve-benchmark/CVE-2019-20149)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-20149">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-20149">
 
 ---
 ## CVE-2019-20085 ()
