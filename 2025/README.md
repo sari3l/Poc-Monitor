@@ -527,6 +527,16 @@
 - [Stolichnayer/CVE-2025-70368](https://github.com/Stolichnayer/CVE-2025-70368)	<img alt="forks" src="https://img.shields.io/github/forks/Stolichnayer/CVE-2025-70368">	<img alt="stars" src="https://img.shields.io/github/stars/Stolichnayer/CVE-2025-70368">
 
 ---
+## CVE-2025-70342 ()
+> 
+- [malvector/CVE-2025-70342](https://github.com/malvector/CVE-2025-70342)	<img alt="forks" src="https://img.shields.io/github/forks/malvector/CVE-2025-70342">	<img alt="stars" src="https://img.shields.io/github/stars/malvector/CVE-2025-70342">
+
+---
+## CVE-2025-70341 ()
+> 
+- [malvector/CVE-2025-70341](https://github.com/malvector/CVE-2025-70341)	<img alt="forks" src="https://img.shields.io/github/forks/malvector/CVE-2025-70341">	<img alt="stars" src="https://img.shields.io/github/stars/malvector/CVE-2025-70341">
+
+---
 ## CVE-2025-69985 ()
 > 
 - [joshuavanderpoll/CVE-2025-69985](https://github.com/joshuavanderpoll/CVE-2025-69985)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-69985">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-69985">
