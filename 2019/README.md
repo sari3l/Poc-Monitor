@@ -1859,6 +1859,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-20172](https://github.com/Live-Hack-CVE/CVE-2019-20172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20172">
 
 ---
+## CVE-2019-20149 ()
+> 
+- [mrknowledgshare/testing_cve-2019-20149](https://github.com/mrknowledgshare/testing_cve-2019-20149)	<img alt="forks" src="https://img.shields.io/github/forks/mrknowledgshare/testing_cve-2019-20149">	<img alt="stars" src="https://img.shields.io/github/stars/mrknowledgshare/testing_cve-2019-20149">
+
+---
 ## CVE-2019-20085 ()
 > 
 - [Z3R0-0x30/CVE-2019-20085](https://github.com/Z3R0-0x30/CVE-2019-20085)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2019-20085">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2019-20085">
