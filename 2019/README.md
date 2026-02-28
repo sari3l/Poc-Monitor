@@ -224,6 +224,8 @@
 - [JagdeepSinghCeh/cms-made-simple-python3](https://github.com/JagdeepSinghCeh/cms-made-simple-python3)	<img alt="forks" src="https://img.shields.io/github/forks/JagdeepSinghCeh/cms-made-simple-python3">	<img alt="stars" src="https://img.shields.io/github/stars/JagdeepSinghCeh/cms-made-simple-python3">
 - [Praditha29/Simple-CTF-THM-Writeup](https://github.com/Praditha29/Simple-CTF-THM-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Praditha29/Simple-CTF-THM-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Praditha29/Simple-CTF-THM-Writeup">
 - [pasan2002/CVE-2019-9053---CMS-Made-Simple-SQL-Injection-Exploit-Modified-](https://github.com/pasan2002/CVE-2019-9053---CMS-Made-Simple-SQL-Injection-Exploit-Modified-)	<img alt="forks" src="https://img.shields.io/github/forks/pasan2002/CVE-2019-9053---CMS-Made-Simple-SQL-Injection-Exploit-Modified-">	<img alt="stars" src="https://img.shields.io/github/stars/pasan2002/CVE-2019-9053---CMS-Made-Simple-SQL-Injection-Exploit-Modified-">
+- [vadaysakiv/cve-2019-9053](https://github.com/vadaysakiv/cve-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/vadaysakiv/cve-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/vadaysakiv/cve-2019-9053">
+- [tim-karov/cmsms-sqli](https://github.com/tim-karov/cmsms-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/tim-karov/cmsms-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/tim-karov/cmsms-sqli">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
