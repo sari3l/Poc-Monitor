@@ -2131,6 +2131,7 @@
 ## CVE-2025-60787 ()
 > 
 - [prabhatverma47/CVE-2025-60787](https://github.com/prabhatverma47/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-60787">
+- [GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection](https://github.com/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection">
 
 ---
 ## CVE-2025-60752 ()
