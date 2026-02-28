@@ -76,6 +76,7 @@
 - [hahwul/struts2-rce-cve-2017-9805-ruby](https://github.com/hahwul/struts2-rce-cve-2017-9805-ruby)	<img alt="forks" src="https://img.shields.io/github/forks/hahwul/struts2-rce-cve-2017-9805-ruby">	<img alt="stars" src="https://img.shields.io/github/stars/hahwul/struts2-rce-cve-2017-9805-ruby">
 - [NoSpaceAvailable/CVE-2017-9805_example_build](https://github.com/NoSpaceAvailable/CVE-2017-9805_example_build)	<img alt="forks" src="https://img.shields.io/github/forks/NoSpaceAvailable/CVE-2017-9805_example_build">	<img alt="stars" src="https://img.shields.io/github/stars/NoSpaceAvailable/CVE-2017-9805_example_build">
 - [Fl5xia/CVE-2017-9805](https://github.com/Fl5xia/CVE-2017-9805)	<img alt="forks" src="https://img.shields.io/github/forks/Fl5xia/CVE-2017-9805">	<img alt="stars" src="https://img.shields.io/github/stars/Fl5xia/CVE-2017-9805">
+- [7s26simon/CVE-2017-9805-S2-052](https://github.com/7s26simon/CVE-2017-9805-S2-052)	<img alt="forks" src="https://img.shields.io/github/forks/7s26simon/CVE-2017-9805-S2-052">	<img alt="stars" src="https://img.shields.io/github/stars/7s26simon/CVE-2017-9805-S2-052">
 
 ---
 ## CVE-2017-9801 ()
