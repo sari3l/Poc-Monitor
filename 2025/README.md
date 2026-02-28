@@ -4642,6 +4642,7 @@
 ## CVE-2025-50286 ()
 > 
 - [binneko/CVE-2025-50286](https://github.com/binneko/CVE-2025-50286)	<img alt="forks" src="https://img.shields.io/github/forks/binneko/CVE-2025-50286">	<img alt="stars" src="https://img.shields.io/github/stars/binneko/CVE-2025-50286">
+- [x1o3/CVE-2025-50286](https://github.com/x1o3/CVE-2025-50286)	<img alt="forks" src="https://img.shields.io/github/forks/x1o3/CVE-2025-50286">	<img alt="stars" src="https://img.shields.io/github/stars/x1o3/CVE-2025-50286">
 
 ---
 ## CVE-2025-5025 ()
