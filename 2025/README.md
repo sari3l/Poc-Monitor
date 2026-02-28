@@ -9646,6 +9646,13 @@
 - [dexterm300/cve-2025-12428-exploit-poc](https://github.com/dexterm300/cve-2025-12428-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/cve-2025-12428-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/cve-2025-12428-exploit-poc">
 
 ---
+## CVE-2025-1242 ()
+> 
+- [MichaelAdamGroberman/CVE-2025-1242](https://github.com/MichaelAdamGroberman/CVE-2025-1242)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2025-1242">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2025-1242">
+- [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
+- [dexterm300/cve-2025-12428-exploit-poc](https://github.com/dexterm300/cve-2025-12428-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/cve-2025-12428-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/cve-2025-12428-exploit-poc">
+
+---
 ## CVE-2025-1234 ()
 > 
 - [SimoesCTT/CVE-2025-1234-RSA-Key-Validation-Bypass](https://github.com/SimoesCTT/CVE-2025-1234-RSA-Key-Validation-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CVE-2025-1234-RSA-Key-Validation-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CVE-2025-1234-RSA-Key-Validation-Bypass">
@@ -9820,6 +9827,11 @@
 ## CVE-2025-10720 ()
 > 
 - [lorenzocamilli/CVE-2025-10720-PoC](https://github.com/lorenzocamilli/CVE-2025-10720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-10720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-10720-PoC">
+
+---
+## CVE-2025-10681 ()
+> 
+- [MichaelAdamGroberman/CVE-2025-10681](https://github.com/MichaelAdamGroberman/CVE-2025-10681)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2025-10681">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2025-10681">
 
 ---
 ## CVE-2025-10680 ()

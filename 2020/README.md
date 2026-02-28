@@ -1878,6 +1878,7 @@
 - [Alienfader/CVE-2020-29607](https://github.com/Alienfader/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/Alienfader/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/Alienfader/CVE-2020-29607">
 - [Alienfader/CVE-2020-29607](https://github.com/Alienfader/CVE-2020-29607)	<img alt="forks" src="https://img.shields.io/github/forks/Alienfader/CVE-2020-29607">	<img alt="stars" src="https://img.shields.io/github/stars/Alienfader/CVE-2020-29607">
 - [CaelumIsMe/CVE-2020-29607-POC](https://github.com/CaelumIsMe/CVE-2020-29607-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CaelumIsMe/CVE-2020-29607-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CaelumIsMe/CVE-2020-29607-POC">
+- [estebanzarate/CVE-2020-29607-Pluck-CMS-4.7.13-Authenticated-File-Upload-RCE-PoC](https://github.com/estebanzarate/CVE-2020-29607-Pluck-CMS-4.7.13-Authenticated-File-Upload-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2020-29607-Pluck-CMS-4.7.13-Authenticated-File-Upload-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2020-29607-Pluck-CMS-4.7.13-Authenticated-File-Upload-RCE-PoC">
 
 ---
 ## CVE-2020-29508 (2022-07-11T20:15:00)
