@@ -8062,6 +8062,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [rainbowhatrkn/CVE-2024-25153](https://github.com/rainbowhatrkn/CVE-2024-25153)	<img alt="forks" src="https://img.shields.io/github/forks/rainbowhatrkn/CVE-2024-25153">	<img alt="stars" src="https://img.shields.io/github/stars/rainbowhatrkn/CVE-2024-25153">
 
 ---
+## CVE-2024-25096 ()
+> 
+- [puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE-CVE-2024-25096](https://github.com/puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE-CVE-2024-25096)	<img alt="forks" src="https://img.shields.io/github/forks/puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE-CVE-2024-25096">	<img alt="stars" src="https://img.shields.io/github/stars/puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE-CVE-2024-25096">
+
+---
 ## CVE-2024-25092 (2024-06-09T11:15:00)
 > Missing Authorization vulnerability in XLPlugins NextMove Lite.This issue affects NextMove Lite: from n/a through 2.17.0.
 - [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-25092">
