@@ -554,6 +554,11 @@
 - [TheDeepOpc/CVE-2026-23885](https://github.com/TheDeepOpc/CVE-2026-23885)	<img alt="forks" src="https://img.shields.io/github/forks/TheDeepOpc/CVE-2026-23885">	<img alt="stars" src="https://img.shields.io/github/stars/TheDeepOpc/CVE-2026-23885">
 
 ---
+## CVE-2026-23842 ()
+> 
+- [AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10](https://github.com/AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10">
+
+---
 ## CVE-2026-23830 ()
 > 
 - [Galaxy-sc/CVE-2026-23830-SandBreak](https://github.com/Galaxy-sc/CVE-2026-23830-SandBreak)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-23830-SandBreak">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-23830-SandBreak">
