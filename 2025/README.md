@@ -680,6 +680,7 @@
 ## CVE-2025-68860 ()
 > 
 - [Nxploited/CVE-2025-68860](https://github.com/Nxploited/CVE-2025-68860)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-68860">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-68860">
+- [DedsecTeam-BlackHat/CVE-2025-68860](https://github.com/DedsecTeam-BlackHat/CVE-2025-68860)	<img alt="forks" src="https://img.shields.io/github/forks/DedsecTeam-BlackHat/CVE-2025-68860">	<img alt="stars" src="https://img.shields.io/github/stars/DedsecTeam-BlackHat/CVE-2025-68860">
 
 ---
 ## CVE-2025-68723 ()
