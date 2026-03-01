@@ -428,7 +428,7 @@
 ---
 ## CVE-2018-6537 ()
 > 
-- [exploiteur/CVE-2018-6537](https://github.com/exploiteur/CVE-2018-6537)	<img alt="forks" src="https://img.shields.io/github/forks/exploiteur/CVE-2018-6537">	<img alt="stars" src="https://img.shields.io/github/stars/exploiteur/CVE-2018-6537">
+- [krnlcrow/CVE-2018-6537](https://github.com/krnlcrow/CVE-2018-6537)	<img alt="forks" src="https://img.shields.io/github/forks/krnlcrow/CVE-2018-6537">	<img alt="stars" src="https://img.shields.io/github/stars/krnlcrow/CVE-2018-6537">
 - [damariion/CVE-2018-6537](https://github.com/damariion/CVE-2018-6537)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2018-6537">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2018-6537">
 
 ---
