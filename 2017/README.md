@@ -40,6 +40,7 @@
 - [drcrypterdotru/PHPUnit-GoScan](https://github.com/drcrypterdotru/PHPUnit-GoScan)	<img alt="forks" src="https://img.shields.io/github/forks/drcrypterdotru/PHPUnit-GoScan">	<img alt="stars" src="https://img.shields.io/github/stars/drcrypterdotru/PHPUnit-GoScan">
 - [joelindra/CVE-2017-9841](https://github.com/joelindra/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/joelindra/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/joelindra/CVE-2017-9841">
 - [Habibullah1101/PHPUnit-GoScan](https://github.com/Habibullah1101/PHPUnit-GoScan)	<img alt="forks" src="https://img.shields.io/github/forks/Habibullah1101/PHPUnit-GoScan">	<img alt="stars" src="https://img.shields.io/github/stars/Habibullah1101/PHPUnit-GoScan">
+- [MR-LeonardoGomes/CVE-2017-9841](https://github.com/MR-LeonardoGomes/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/MR-LeonardoGomes/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/MR-LeonardoGomes/CVE-2017-9841">
 
 ---
 ## CVE-2017-9833 (2017-06-24T02:29:00)
