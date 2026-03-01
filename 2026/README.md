@@ -385,6 +385,7 @@
 - [washingtonmaister/CVE-2026-2441](https://github.com/washingtonmaister/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-2441">
 - [atiilla/CVE-2026-2441_PoC](https://github.com/atiilla/CVE-2026-2441_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-2441_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-2441_PoC">
 - [NetVanguard-cmd/CVE-2026-2441](https://github.com/NetVanguard-cmd/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-2441">
+- [D3b0j33t/CVE-2026-2441-PoC](https://github.com/D3b0j33t/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/D3b0j33t/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/D3b0j33t/CVE-2026-2441-PoC">
 
 ---
 ## CVE-2026-24306 ()
