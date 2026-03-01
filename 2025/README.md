@@ -9234,6 +9234,11 @@
 - [Octolus/CVE-2025-15033](https://github.com/Octolus/CVE-2025-15033)	<img alt="forks" src="https://img.shields.io/github/forks/Octolus/CVE-2025-15033">	<img alt="stars" src="https://img.shields.io/github/stars/Octolus/CVE-2025-15033">
 
 ---
+## CVE-2025-15030 ()
+> 
+- [haxorsecv1-netizen/CVE-2025-15030](https://github.com/haxorsecv1-netizen/CVE-2025-15030)	<img alt="forks" src="https://img.shields.io/github/forks/haxorsecv1-netizen/CVE-2025-15030">	<img alt="stars" src="https://img.shields.io/github/stars/haxorsecv1-netizen/CVE-2025-15030">
+
+---
 ## CVE-2025-14998 ()
 > 
 - [KTN1990/CVE-2025-14998](https://github.com/KTN1990/CVE-2025-14998)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2025-14998">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2025-14998">
