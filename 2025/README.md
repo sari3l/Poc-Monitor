@@ -6426,6 +6426,7 @@
 - [Ashwesker/Ashwesker-CVE-2025-33073](https://github.com/Ashwesker/Ashwesker-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-33073">
 - [Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Iddygodwin/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Iddygodwin/CVE-2025-33073">
 - [irjfifndn-prog/Blackash-CVE-2025-33073](https://github.com/irjfifndn-prog/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/irjfifndn-prog/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/irjfifndn-prog/Blackash-CVE-2025-33073">
+- [pol4ir/CVE-2025-33073](https://github.com/pol4ir/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/pol4ir/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/pol4ir/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
