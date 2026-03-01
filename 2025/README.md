@@ -1528,6 +1528,11 @@
 - [mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits](https://github.com/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits">
 
 ---
+## CVE-2025-64424 ()
+> 
+- [androidteacher/CVE-2025-64424-Coolify-](https://github.com/androidteacher/CVE-2025-64424-Coolify-)	<img alt="forks" src="https://img.shields.io/github/forks/androidteacher/CVE-2025-64424-Coolify-">	<img alt="stars" src="https://img.shields.io/github/stars/androidteacher/CVE-2025-64424-Coolify-">
+
+---
 ## CVE-2025-64403 ()
 > 
 - [makaroonbourne/CVE-2025-64403-Exploit](https://github.com/makaroonbourne/CVE-2025-64403-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/makaroonbourne/CVE-2025-64403-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/makaroonbourne/CVE-2025-64403-Exploit">
