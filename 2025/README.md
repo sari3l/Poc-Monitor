@@ -1877,6 +1877,7 @@
 - [abrewer251/CVE-2025-62215_Windows_Kernel_PE](https://github.com/abrewer251/CVE-2025-62215_Windows_Kernel_PE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-62215_Windows_Kernel_PE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-62215_Windows_Kernel_PE">
 - [theman001/CVE-2025-62215](https://github.com/theman001/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-62215">
 - [uky007/CVE-2025-62215_analysis](https://github.com/uky007/CVE-2025-62215_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/uky007/CVE-2025-62215_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/uky007/CVE-2025-62215_analysis">
+- [gowonisgood/CVE-2025-62215-POC](https://github.com/gowonisgood/CVE-2025-62215-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gowonisgood/CVE-2025-62215-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gowonisgood/CVE-2025-62215-POC">
 
 ---
 ## CVE-2025-62207 ()
