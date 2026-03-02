@@ -115,6 +115,7 @@
 ## CVE-2026-27179 ()
 > 
 - [MaxMnMl/majordomo-cve-2026-27179-poc](https://github.com/MaxMnMl/majordomo-cve-2026-27179-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/majordomo-cve-2026-27179-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/majordomo-cve-2026-27179-poc">
+- [p3Nt3st3r-sTAr/MajorDoMo-CVE-2026-27179](https://github.com/p3Nt3st3r-sTAr/MajorDoMo-CVE-2026-27179)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/MajorDoMo-CVE-2026-27179">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/MajorDoMo-CVE-2026-27179">
 
 ---
 ## CVE-2026-27174 ()
