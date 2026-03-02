@@ -1526,6 +1526,7 @@
 - [AN5I/cve-2025-64446-fortiweb-exploit](https://github.com/AN5I/cve-2025-64446-fortiweb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-64446-fortiweb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-64446-fortiweb-exploit">
 - [lequoca/fortinet-fortiweb-cve-2025-64446-58034](https://github.com/lequoca/fortinet-fortiweb-cve-2025-64446-58034)	<img alt="forks" src="https://img.shields.io/github/forks/lequoca/fortinet-fortiweb-cve-2025-64446-58034">	<img alt="stars" src="https://img.shields.io/github/stars/lequoca/fortinet-fortiweb-cve-2025-64446-58034">
 - [mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits](https://github.com/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits">
+- [BaoSec/CVE-2025-64446-CVE-2025-58034-Research-and-Analysis](https://github.com/BaoSec/CVE-2025-64446-CVE-2025-58034-Research-and-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/BaoSec/CVE-2025-64446-CVE-2025-58034-Research-and-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/BaoSec/CVE-2025-64446-CVE-2025-58034-Research-and-Analysis">
 
 ---
 ## CVE-2025-64424 ()
