@@ -6932,9 +6932,10 @@ The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxe
 - [RevoltSecurities/CVE-2024-29973](https://github.com/RevoltSecurities/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-29973">
 - [p0et08/CVE-2024-29973](https://github.com/p0et08/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/p0et08/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/p0et08/CVE-2024-29973">
 - [WanLiChangChengWanLiChang/CVE-2024-29972](https://github.com/WanLiChangChengWanLiChang/CVE-2024-29972)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-29972">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-29972">
-- [k3lpi3b4nsh33/CVE-2024-29973](https://github.com/k3lpi3b4nsh33/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-29973">
+- [NanoWraith/CVE-2024-29973](https://github.com/NanoWraith/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/NanoWraith/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/NanoWraith/CVE-2024-29973">
 - [momika233/CVE-2024-29973](https://github.com/momika233/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-29973">
-- [0xlf/CVE-2024-29973](https://github.com/0xlf/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/0xlf/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/0xlf/CVE-2024-29973">
+- [voidbroker/CVE-2024-29973](https://github.com/voidbroker/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/voidbroker/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/voidbroker/CVE-2024-29973">
+- [lfilharv/CVE-2024-2997](https://github.com/lfilharv/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/lfilharv/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/lfilharv/CVE-2024-2997">
 
 ---
 ## CVE-2024-29943 (2024-03-22T13:15:00)
