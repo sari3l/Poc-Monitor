@@ -6968,6 +6968,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [helleflo1312/Orchestrated-Powershell-for-CVE-2023-24932](https://github.com/helleflo1312/Orchestrated-Powershell-for-CVE-2023-24932)	<img alt="forks" src="https://img.shields.io/github/forks/helleflo1312/Orchestrated-Powershell-for-CVE-2023-24932">	<img alt="stars" src="https://img.shields.io/github/stars/helleflo1312/Orchestrated-Powershell-for-CVE-2023-24932">
 - [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-21894">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-21894">
 - [ajf8729/BlackLotus](https://github.com/ajf8729/BlackLotus)	<img alt="forks" src="https://img.shields.io/github/forks/ajf8729/BlackLotus">	<img alt="stars" src="https://img.shields.io/github/stars/ajf8729/BlackLotus">
+- [v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en](https://github.com/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en)	<img alt="forks" src="https://img.shields.io/github/forks/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en">	<img alt="stars" src="https://img.shields.io/github/stars/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en">
 
 ---
 ## CVE-2023-24871 (2023-03-14T17:15:00)
