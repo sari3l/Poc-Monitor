@@ -208,6 +208,11 @@
 - [mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE](https://github.com/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE">
 
 ---
+## CVE-2026-25940 ()
+> 
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2026-25940">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2026-25940">
+
+---
 ## CVE-2026-25939 ()
 > 
 - [mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary](https://github.com/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary">
