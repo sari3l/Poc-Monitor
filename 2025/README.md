@@ -971,6 +971,11 @@
 - [scap3sh4rk/CVE-2025-66683](https://github.com/scap3sh4rk/CVE-2025-66683)	<img alt="forks" src="https://img.shields.io/github/forks/scap3sh4rk/CVE-2025-66683">	<img alt="stars" src="https://img.shields.io/github/stars/scap3sh4rk/CVE-2025-66683">
 
 ---
+## CVE-2025-66680 ()
+> 
+- [cwjchoi01/CVE-2025-66680](https://github.com/cwjchoi01/CVE-2025-66680)	<img alt="forks" src="https://img.shields.io/github/forks/cwjchoi01/CVE-2025-66680">	<img alt="stars" src="https://img.shields.io/github/stars/cwjchoi01/CVE-2025-66680">
+
+---
 ## CVE-2025-66678 ()
 > 
 - [cwjchoi01/CVE-2025-66678](https://github.com/cwjchoi01/CVE-2025-66678)	<img alt="forks" src="https://img.shields.io/github/forks/cwjchoi01/CVE-2025-66678">	<img alt="stars" src="https://img.shields.io/github/stars/cwjchoi01/CVE-2025-66678">
