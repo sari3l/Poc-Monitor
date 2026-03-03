@@ -2312,6 +2312,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [D3m0nicw0lf/CVE-2023-43208](https://github.com/D3m0nicw0lf/CVE-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/D3m0nicw0lf/CVE-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/D3m0nicw0lf/CVE-2023-43208">
 - [predyy/CVE-2023-43208](https://github.com/predyy/CVE-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/CVE-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/CVE-2023-43208">
 - [az4rvs/Mirth-Connect-CVE-2023-43208](https://github.com/az4rvs/Mirth-Connect-CVE-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/az4rvs/Mirth-Connect-CVE-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/az4rvs/Mirth-Connect-CVE-2023-43208">
+- [webdragon63/CVE-2023-43208](https://github.com/webdragon63/CVE-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/webdragon63/CVE-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/webdragon63/CVE-2023-43208">
 
 ---
 ## CVE-2023-43177 (2023-11-18T00:15:00)
