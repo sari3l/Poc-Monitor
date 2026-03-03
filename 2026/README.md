@@ -164,6 +164,11 @@
 - [dxlerYT/CVE-2026-26331](https://github.com/dxlerYT/CVE-2026-26331)	<img alt="forks" src="https://img.shields.io/github/forks/dxlerYT/CVE-2026-26331">	<img alt="stars" src="https://img.shields.io/github/stars/dxlerYT/CVE-2026-26331">
 
 ---
+## CVE-2026-2628 ()
+> 
+- [b1gchoi/CVE-2026-2628-PoC](https://github.com/b1gchoi/CVE-2026-2628-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-2628-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-2628-PoC">
+
+---
 ## CVE-2026-26235 ()
 > 
 - [mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown](https://github.com/mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown">
