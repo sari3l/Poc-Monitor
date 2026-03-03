@@ -3749,6 +3749,7 @@
 - [androidteacher/REACT-CVE-2025-55182-Lab](https://github.com/androidteacher/REACT-CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/androidteacher/REACT-CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/androidteacher/REACT-CVE-2025-55182-Lab">
 - [MrMahile/MassScanning-CVE-2025-55182](https://github.com/MrMahile/MassScanning-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MrMahile/MassScanning-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MrMahile/MassScanning-CVE-2025-55182">
 - [InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner](https://github.com/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner">
+- [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 
 ---
 ## CVE-2025-55130 ()
@@ -6764,6 +6765,7 @@
 - [blackcat4347/CVE-2025-32433-available-for-windows](https://github.com/blackcat4347/CVE-2025-32433-available-for-windows)	<img alt="forks" src="https://img.shields.io/github/forks/blackcat4347/CVE-2025-32433-available-for-windows">	<img alt="stars" src="https://img.shields.io/github/stars/blackcat4347/CVE-2025-32433-available-for-windows">
 - [carlosalbertotuma/CVE-2025-32433](https://github.com/carlosalbertotuma/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/carlosalbertotuma/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/carlosalbertotuma/CVE-2025-32433">
 - [yonathanpy/CVE-2025-32433.py](https://github.com/yonathanpy/CVE-2025-32433.py)	<img alt="forks" src="https://img.shields.io/github/forks/yonathanpy/CVE-2025-32433.py">	<img alt="stars" src="https://img.shields.io/github/stars/yonathanpy/CVE-2025-32433.py">
+- [agustfricke/erlang-ssh-rce-CVE-2025-32433](https://github.com/agustfricke/erlang-ssh-rce-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/agustfricke/erlang-ssh-rce-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/agustfricke/erlang-ssh-rce-CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
