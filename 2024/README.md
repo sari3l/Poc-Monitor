@@ -8525,6 +8525,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [harekrishnarai/CVE-2024-23897-test-windows](https://github.com/harekrishnarai/CVE-2024-23897-test-windows)	<img alt="forks" src="https://img.shields.io/github/forks/harekrishnarai/CVE-2024-23897-test-windows">	<img alt="stars" src="https://img.shields.io/github/stars/harekrishnarai/CVE-2024-23897-test-windows">
 - [wvverez/CVE-2024-23897](https://github.com/wvverez/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2024-23897">
 - [wvverez/CVE-2024-23897](https://github.com/wvverez/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2024-23897">
+- [vmc8ll/poc-CVE-2024-23897](https://github.com/vmc8ll/poc-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/vmc8ll/poc-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/vmc8ll/poc-CVE-2024-23897">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
