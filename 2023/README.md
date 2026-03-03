@@ -1283,6 +1283,11 @@ Users are recommended to upgrade to version 18.12.10
 - [Mehran-Seifalinia/CVE-2023-48292](https://github.com/Mehran-Seifalinia/CVE-2023-48292)	<img alt="forks" src="https://img.shields.io/github/forks/Mehran-Seifalinia/CVE-2023-48292">	<img alt="stars" src="https://img.shields.io/github/stars/Mehran-Seifalinia/CVE-2023-48292">
 
 ---
+## CVE-2023-48223 ()
+> 
+- [lucas-tran05/CVE-2023-48223](https://github.com/lucas-tran05/CVE-2023-48223)	<img alt="forks" src="https://img.shields.io/github/forks/lucas-tran05/CVE-2023-48223">	<img alt="stars" src="https://img.shields.io/github/stars/lucas-tran05/CVE-2023-48223">
+
+---
 ## CVE-2023-48200 (2023-11-15T23:15:00)
 > Cross Site Scripting vulnerability in Grocy v.4.0.3 allows a local attacker to execute arbitrary code and obtain sensitive information via the equipment description component within /equipment/ component.
 - [nitipoom-jar/CVE-2023-48200](https://github.com/nitipoom-jar/CVE-2023-48200)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48200">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48200">
