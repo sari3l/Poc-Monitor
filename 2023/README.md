@@ -4656,6 +4656,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 ## CVE-2023-3452 (2023-08-12T03:15:00)
 > The Canto plugin for WordPress is vulnerable to Remote File Inclusion in versions up to, and including, 3.0.4 via the 'wp_abspath' parameter. This allows unauthenticated attackers to include and execute arbitrary remote code on the server, provided that allow_url_include is enabled. Local File Inclusion is also possible, albeit less useful because it requires that the attacker be able to upload a malicious php file via FTP or some other means into a directory readable by the web server.
 - [leoanggal1/CVE-2023-3452-PoC](https://github.com/leoanggal1/CVE-2023-3452-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/leoanggal1/CVE-2023-3452-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/leoanggal1/CVE-2023-3452-PoC">
+- [Alpastx/CVE-2023-3452---WordPress-Canto-Plugin-RCE](https://github.com/Alpastx/CVE-2023-3452---WordPress-Canto-Plugin-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Alpastx/CVE-2023-3452---WordPress-Canto-Plugin-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Alpastx/CVE-2023-3452---WordPress-Canto-Plugin-RCE">
 
 ---
 ## CVE-2023-3450 (2023-06-28T18:15:00)
