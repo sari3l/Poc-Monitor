@@ -149,6 +149,11 @@
 - [ali-py3/exploi-CVE-2026-2670](https://github.com/ali-py3/exploi-CVE-2026-2670)	<img alt="forks" src="https://img.shields.io/github/forks/ali-py3/exploi-CVE-2026-2670">	<img alt="stars" src="https://img.shields.io/github/stars/ali-py3/exploi-CVE-2026-2670">
 
 ---
+## CVE-2026-26416 ()
+> 
+- [aksalsalimi/CVE-2026-26416](https://github.com/aksalsalimi/CVE-2026-26416)	<img alt="forks" src="https://img.shields.io/github/forks/aksalsalimi/CVE-2026-26416">	<img alt="stars" src="https://img.shields.io/github/stars/aksalsalimi/CVE-2026-26416">
+
+---
 ## CVE-2026-2636 ()
 > 
 - [oxfemale/CVE-2026-2636_PoC](https://github.com/oxfemale/CVE-2026-2636_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/CVE-2026-2636_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/CVE-2026-2636_PoC">
