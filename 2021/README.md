@@ -5245,6 +5245,7 @@
 - [chompie1337/Linux_LPE_eBPF_CVE-2021-3490](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Linux_LPE_eBPF_CVE-2021-3490">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Linux_LPE_eBPF_CVE-2021-3490">
 - [BanaxavSplit/CVE-2021-3490](https://github.com/BanaxavSplit/CVE-2021-3490)	<img alt="forks" src="https://img.shields.io/github/forks/BanaxavSplit/CVE-2021-3490">	<img alt="stars" src="https://img.shields.io/github/stars/BanaxavSplit/CVE-2021-3490">
 - [sandesh9978/cve-2021-3490-ebpf-analysis](https://github.com/sandesh9978/cve-2021-3490-ebpf-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sandesh9978/cve-2021-3490-ebpf-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sandesh9978/cve-2021-3490-ebpf-analysis">
+- [prabeershakya/CVE-2021-3490-POC](https://github.com/prabeershakya/CVE-2021-3490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/prabeershakya/CVE-2021-3490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/prabeershakya/CVE-2021-3490-POC">
 
 ---
 ## CVE-2021-34865 (2022-01-25T16:15:00)
