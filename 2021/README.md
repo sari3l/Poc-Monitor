@@ -8459,6 +8459,7 @@
 - [yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-](https://github.com/yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-)	<img alt="forks" src="https://img.shields.io/github/forks/yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-">	<img alt="stars" src="https://img.shields.io/github/stars/yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-">
 - [octodi/CVE-2021-22911](https://github.com/octodi/CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/octodi/CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/octodi/CVE-2021-22911">
 - [TeneBrae93/RocketChat-NoSQLi-Chain-CVE-2021-22911](https://github.com/TeneBrae93/RocketChat-NoSQLi-Chain-CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/TeneBrae93/RocketChat-NoSQLi-Chain-CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/TeneBrae93/RocketChat-NoSQLi-Chain-CVE-2021-22911">
+- [Faridi-m/CVE-2021-22911-RocketChat-Improvised-](https://github.com/Faridi-m/CVE-2021-22911-RocketChat-Improvised-)	<img alt="forks" src="https://img.shields.io/github/forks/Faridi-m/CVE-2021-22911-RocketChat-Improvised-">	<img alt="stars" src="https://img.shields.io/github/stars/Faridi-m/CVE-2021-22911-RocketChat-Improvised-">
 
 ---
 ## CVE-2021-22910 (2021-08-09T13:15:00)
