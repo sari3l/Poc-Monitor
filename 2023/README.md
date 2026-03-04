@@ -8745,6 +8745,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 > A buffer overflow vulnerability was found in the Netfilter subsystem in the Linux Kernel. This issue could allow the leakage of both stack and heap addresses, and potentially allow Local Privilege Escalation to the root user via arbitrary code execution.
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
 - [H4K6/CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H4K6/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H4K6/CVE-2023-0179-PoC">
+- [prabeershakya/CVE-2023-0179-POC-](https://github.com/prabeershakya/CVE-2023-0179-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/prabeershakya/CVE-2023-0179-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/prabeershakya/CVE-2023-0179-POC-">
 
 ---
 ## CVE-2023-0157 (2023-04-10T14:15:00)
