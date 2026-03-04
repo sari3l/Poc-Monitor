@@ -46,6 +46,11 @@
 - [z3r0h3ro/CVE-2026-3062-chain](https://github.com/z3r0h3ro/CVE-2026-3062-chain)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-3062-chain">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-3062-chain">
 
 ---
+## CVE-2026-29781 ()
+> 
+- [skoveit/CVE-2026-29781](https://github.com/skoveit/CVE-2026-29781)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-29781">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-29781">
+
+---
 ## CVE-2026-2898 ()
 > 
 - [aykhan32/CVE-2026-2898-FunAdmin-Deserialization](https://github.com/aykhan32/CVE-2026-2898-FunAdmin-Deserialization)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">

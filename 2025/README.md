@@ -8165,6 +8165,7 @@
 - [mr-r3b00t/CVE-2025-25257](https://github.com/mr-r3b00t/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2025-25257">
 - [lytianahkone-boop/cve-2025-25257](https://github.com/lytianahkone-boop/cve-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/lytianahkone-boop/cve-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/lytianahkone-boop/cve-2025-25257">
 - [GarethMSheldon/Fortinet-FortiWeb-Fabric-Connector-CVE-2025-25257-Detection](https://github.com/GarethMSheldon/Fortinet-FortiWeb-Fabric-Connector-CVE-2025-25257-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/GarethMSheldon/Fortinet-FortiWeb-Fabric-Connector-CVE-2025-25257-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/GarethMSheldon/Fortinet-FortiWeb-Fabric-Connector-CVE-2025-25257-Detection">
+- [zaryouhashraf/CVE-2025-25257](https://github.com/zaryouhashraf/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-25257">
 
 ---
 ## CVE-2025-25256 ()
