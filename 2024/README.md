@@ -10448,6 +10448,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [iamarit/CVE-2024-10858](https://github.com/iamarit/CVE-2024-10858)	<img alt="forks" src="https://img.shields.io/github/forks/iamarit/CVE-2024-10858">	<img alt="stars" src="https://img.shields.io/github/stars/iamarit/CVE-2024-10858">
 
 ---
+## CVE-2024-10835 ()
+> 
+- [6jeffr3y/CNVD-2026-12436-and-CVE-2024-10835](https://github.com/6jeffr3y/CNVD-2026-12436-and-CVE-2024-10835)	<img alt="forks" src="https://img.shields.io/github/forks/6jeffr3y/CNVD-2026-12436-and-CVE-2024-10835">	<img alt="stars" src="https://img.shields.io/github/stars/6jeffr3y/CNVD-2026-12436-and-CVE-2024-10835">
+
+---
 ## CVE-2024-10793 ()
 > 
 - [windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10793">
