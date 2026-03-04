@@ -77,6 +77,11 @@
 - [hadhub/CVE-2026-27639-Mercator-XSS](https://github.com/hadhub/CVE-2026-27639-Mercator-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/hadhub/CVE-2026-27639-Mercator-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/hadhub/CVE-2026-27639-Mercator-XSS">
 
 ---
+## CVE-2026-27636 ()
+> 
+- [rav1010/CVE-2026-27636](https://github.com/rav1010/CVE-2026-27636)	<img alt="forks" src="https://img.shields.io/github/forks/rav1010/CVE-2026-27636">	<img alt="stars" src="https://img.shields.io/github/stars/rav1010/CVE-2026-27636">
+
+---
 ## CVE-2026-27579 ()
 > 
 - [mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration](https://github.com/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">
@@ -939,6 +944,7 @@
 ## CVE-2026-20127 ()
 > 
 - [Dimchuk/CVE-2026-20127-chain](https://github.com/Dimchuk/CVE-2026-20127-chain)	<img alt="forks" src="https://img.shields.io/github/forks/Dimchuk/CVE-2026-20127-chain">	<img alt="stars" src="https://img.shields.io/github/stars/Dimchuk/CVE-2026-20127-chain">
+- [zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE](https://github.com/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE">
 
 ---
 ## CVE-2026-20045 ()
