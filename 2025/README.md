@@ -2371,6 +2371,11 @@
 - [d0n601/CVE-2025-5961](https://github.com/d0n601/CVE-2025-5961)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-5961">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-5961">
 
 ---
+## CVE-2025-59536 ()
+> 
+- [RootAid/CVE-2025-59536](https://github.com/RootAid/CVE-2025-59536)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2025-59536">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2025-59536">
+
+---
 ## CVE-2025-59532 ()
 > 
 - [baktistr/cve-2025-59532-poc](https://github.com/baktistr/cve-2025-59532-poc)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-59532-poc">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-59532-poc">

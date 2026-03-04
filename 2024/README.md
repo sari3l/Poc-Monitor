@@ -10440,6 +10440,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [karim4353/CVE-2024-1086-Exploit](https://github.com/karim4353/CVE-2024-1086-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/karim4353/CVE-2024-1086-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/karim4353/CVE-2024-1086-Exploit">
 - [andigandhi/bitpixie](https://github.com/andigandhi/bitpixie)	<img alt="forks" src="https://img.shields.io/github/forks/andigandhi/bitpixie">	<img alt="stars" src="https://img.shields.io/github/stars/andigandhi/bitpixie">
 - [ndt2111200203/CVE-2024-1086](https://github.com/ndt2111200203/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/ndt2111200203/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/ndt2111200203/CVE-2024-1086">
+- [sandesh9978/cve-2024-1086-lpe](https://github.com/sandesh9978/cve-2024-1086-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/sandesh9978/cve-2024-1086-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/sandesh9978/cve-2024-1086-lpe">
 
 ---
 ## CVE-2024-10858 ()
