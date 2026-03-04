@@ -1173,6 +1173,7 @@
 ## CVE-2025-66417 ()
 > 
 - [lem0naids/CVE-2025-66417-POC](https://github.com/lem0naids/CVE-2025-66417-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lem0naids/CVE-2025-66417-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lem0naids/CVE-2025-66417-POC">
+- [nflatrea/CVE-2025-66417](https://github.com/nflatrea/CVE-2025-66417)	<img alt="forks" src="https://img.shields.io/github/forks/nflatrea/CVE-2025-66417">	<img alt="stars" src="https://img.shields.io/github/stars/nflatrea/CVE-2025-66417">
 
 ---
 ## CVE-2025-66224 ()
