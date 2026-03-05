@@ -964,6 +964,7 @@
 - [zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE](https://github.com/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE">
 - [leemuun/CVE-2026-20127](https://github.com/leemuun/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/leemuun/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/leemuun/CVE-2026-20127">
 - [bluefalconink/cisa-ed-26-03-tracker](https://github.com/bluefalconink/cisa-ed-26-03-tracker)	<img alt="forks" src="https://img.shields.io/github/forks/bluefalconink/cisa-ed-26-03-tracker">	<img alt="stars" src="https://img.shields.io/github/stars/bluefalconink/cisa-ed-26-03-tracker">
+- [BugFor-Pings/CVE-2026-20127_EXP](https://github.com/BugFor-Pings/CVE-2026-20127_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/BugFor-Pings/CVE-2026-20127_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/BugFor-Pings/CVE-2026-20127_EXP">
 
 ---
 ## CVE-2026-20045 ()
