@@ -56,6 +56,11 @@
 - [skoveit/CVE-2026-29781](https://github.com/skoveit/CVE-2026-29781)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-29781">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-29781">
 
 ---
+## CVE-2026-29000 ()
+> 
+- [kernelzeroday/CVE-2026-29000](https://github.com/kernelzeroday/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/kernelzeroday/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/kernelzeroday/CVE-2026-29000">
+
+---
 ## CVE-2026-2898 ()
 > 
 - [aykhan32/CVE-2026-2898-FunAdmin-Deserialization](https://github.com/aykhan32/CVE-2026-2898-FunAdmin-Deserialization)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">
