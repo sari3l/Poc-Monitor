@@ -707,6 +707,11 @@
 - [0x30c4/enclave-vm-CVE-2026-22686](https://github.com/0x30c4/enclave-vm-CVE-2026-22686)	<img alt="forks" src="https://img.shields.io/github/forks/0x30c4/enclave-vm-CVE-2026-22686">	<img alt="stars" src="https://img.shields.io/github/stars/0x30c4/enclave-vm-CVE-2026-22686">
 
 ---
+## CVE-2026-2268 ()
+> 
+- [moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC](https://github.com/moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/moltengama/CVE-2026-2268-RemoteCodeExecution-RCE-PoC">
+
+---
 ## CVE-2026-22610 ()
 > 
 - [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610)	<img alt="forks" src="https://img.shields.io/github/forks/ashizZz/CVE-2026-22610">	<img alt="stars" src="https://img.shields.io/github/stars/ashizZz/CVE-2026-22610">
