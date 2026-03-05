@@ -414,6 +414,7 @@
 - [rockl/cve-2017-7184-bak](https://github.com/rockl/cve-2017-7184-bak)	<img alt="forks" src="https://img.shields.io/github/forks/rockl/cve-2017-7184-bak">	<img alt="stars" src="https://img.shields.io/github/stars/rockl/cve-2017-7184-bak">
 - [rockl/cve-2017-7184](https://github.com/rockl/cve-2017-7184)	<img alt="forks" src="https://img.shields.io/github/forks/rockl/cve-2017-7184">	<img alt="stars" src="https://img.shields.io/github/stars/rockl/cve-2017-7184">
 - [Grish-Pradhan/CVE-2017-7184](https://github.com/Grish-Pradhan/CVE-2017-7184)	<img alt="forks" src="https://img.shields.io/github/forks/Grish-Pradhan/CVE-2017-7184">	<img alt="stars" src="https://img.shields.io/github/stars/Grish-Pradhan/CVE-2017-7184">
+- [shakyanayann/CVE-2017-7184](https://github.com/shakyanayann/CVE-2017-7184)	<img alt="forks" src="https://img.shields.io/github/forks/shakyanayann/CVE-2017-7184">	<img alt="stars" src="https://img.shields.io/github/stars/shakyanayann/CVE-2017-7184">
 
 ---
 ## CVE-2017-7117 ()
