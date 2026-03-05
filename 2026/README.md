@@ -183,6 +183,7 @@
 ## CVE-2026-2636 ()
 > 
 - [oxfemale/CVE-2026-2636_PoC](https://github.com/oxfemale/CVE-2026-2636_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/CVE-2026-2636_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/CVE-2026-2636_PoC">
+- [uname1able/CVE-2026-2636](https://github.com/uname1able/CVE-2026-2636)	<img alt="forks" src="https://img.shields.io/github/forks/uname1able/CVE-2026-2636">	<img alt="stars" src="https://img.shields.io/github/stars/uname1able/CVE-2026-2636">
 
 ---
 ## CVE-2026-26335 ()

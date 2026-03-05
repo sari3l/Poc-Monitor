@@ -1404,6 +1404,7 @@
 ## CVE-2025-65320 ()
 > 
 - [Smarttfoxx/CVE-2025-65320](https://github.com/Smarttfoxx/CVE-2025-65320)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-65320">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-65320">
+- [yonathanpy/CVE-2025-65320](https://github.com/yonathanpy/CVE-2025-65320)	<img alt="forks" src="https://img.shields.io/github/forks/yonathanpy/CVE-2025-65320">	<img alt="stars" src="https://img.shields.io/github/stars/yonathanpy/CVE-2025-65320">
 
 ---
 ## CVE-2025-65318 ()

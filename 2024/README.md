@@ -6939,6 +6939,7 @@ The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxe
 - [voidbroker/CVE-2024-29973](https://github.com/voidbroker/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/voidbroker/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/voidbroker/CVE-2024-29973">
 - [NullEssa/CVE-2024-2997](https://github.com/NullEssa/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/NullEssa/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/NullEssa/CVE-2024-2997">
 - [NullEssa/CVE-2024-2997](https://github.com/NullEssa/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/NullEssa/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/NullEssa/CVE-2024-2997">
+- [0xUho/CVE-2024-2997](https://github.com/0xUho/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/0xUho/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/0xUho/CVE-2024-2997">
 
 ---
 ## CVE-2024-29943 (2024-03-22T13:15:00)
