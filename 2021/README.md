@@ -1055,7 +1055,7 @@
 - [agylabs/log4shell-remediation](https://github.com/agylabs/log4shell-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/agylabs/log4shell-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/agylabs/log4shell-remediation">
 - [JoseMariaMicoli/Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JoseMariaMicoli/Log4Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JoseMariaMicoli/Log4Shell-PoC">
 - [tlsky07/Discord-Image-Logger-Stealer](https://github.com/tlsky07/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/tlsky07/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/tlsky07/Discord-Image-Logger-Stealer">
-- [zaryouhashraf/CVE-2021-44228](https://github.com/zaryouhashraf/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2021-44228">
+- [0xAshwesker/CVE-2021-44228](https://github.com/0xAshwesker/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
