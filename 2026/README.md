@@ -71,6 +71,11 @@
 - [mbanyamer/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation](https://github.com/mbanyamer/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation">
 
 ---
+## CVE-2026-28289 ()
+> 
+- [0xAshwesker/CVE-2026-28289](https://github.com/0xAshwesker/CVE-2026-28289)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-28289">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-28289">
+
+---
 ## CVE-2026-28207 ()
 > 
 - [F0ndueSav0yarde/CVE-2026-28207](https://github.com/F0ndueSav0yarde/CVE-2026-28207)	<img alt="forks" src="https://img.shields.io/github/forks/F0ndueSav0yarde/CVE-2026-28207">	<img alt="stars" src="https://img.shields.io/github/stars/F0ndueSav0yarde/CVE-2026-28207">
@@ -965,6 +970,11 @@
 - [leemuun/CVE-2026-20127](https://github.com/leemuun/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/leemuun/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/leemuun/CVE-2026-20127">
 - [bluefalconink/cisa-ed-26-03-tracker](https://github.com/bluefalconink/cisa-ed-26-03-tracker)	<img alt="forks" src="https://img.shields.io/github/forks/bluefalconink/cisa-ed-26-03-tracker">	<img alt="stars" src="https://img.shields.io/github/stars/bluefalconink/cisa-ed-26-03-tracker">
 - [BugFor-Pings/CVE-2026-20127_EXP](https://github.com/BugFor-Pings/CVE-2026-20127_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/BugFor-Pings/CVE-2026-20127_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/BugFor-Pings/CVE-2026-20127_EXP">
+
+---
+## CVE-2026-20079 ()
+> 
+- [b1gchoi/CVE-2026-20079](https://github.com/b1gchoi/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-20079">
 
 ---
 ## CVE-2026-20045 ()
