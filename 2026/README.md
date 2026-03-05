@@ -955,6 +955,7 @@
 > 
 - [Dimchuk/CVE-2026-20127-chain](https://github.com/Dimchuk/CVE-2026-20127-chain)	<img alt="forks" src="https://img.shields.io/github/forks/Dimchuk/CVE-2026-20127-chain">	<img alt="stars" src="https://img.shields.io/github/stars/Dimchuk/CVE-2026-20127-chain">
 - [zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE](https://github.com/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2026-20127---Cisco-SD-WAN-Preauth-RCE">
+- [leemuun/CVE-2026-20127](https://github.com/leemuun/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/leemuun/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/leemuun/CVE-2026-20127">
 
 ---
 ## CVE-2026-20045 ()
