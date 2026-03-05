@@ -93,6 +93,11 @@
 - [Live-Hack-CVE/CVE-2011-2522](https://github.com/Live-Hack-CVE/CVE-2011-2522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2522">
 
 ---
+## CVE-2011-1473 ()
+> 
+- [khaledibnalwalid/CVE-2011-1473-POC](https://github.com/khaledibnalwalid/CVE-2011-1473-POC)	<img alt="forks" src="https://img.shields.io/github/forks/khaledibnalwalid/CVE-2011-1473-POC">	<img alt="stars" src="https://img.shields.io/github/stars/khaledibnalwalid/CVE-2011-1473-POC">
+
+---
 ## CVE-2011-1249 (2011-06-16T20:55:00)
 > The Ancillary Function Driver (AFD) in afd.sys in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP1 and SP2, Windows Server 2008 Gold, SP2, R2, and R2 SP1, and Windows 7 Gold and SP1 does not properly validate user-mode input, which allows local users to gain privileges via a crafted application, aka "Ancillary Function Driver Elevation of Privilege Vulnerability."
 - [h3x0v3rl0rd/CVE-2011-1249](https://github.com/h3x0v3rl0rd/CVE-2011-1249)	<img alt="forks" src="https://img.shields.io/github/forks/h3x0v3rl0rd/CVE-2011-1249">	<img alt="stars" src="https://img.shields.io/github/stars/h3x0v3rl0rd/CVE-2011-1249">
