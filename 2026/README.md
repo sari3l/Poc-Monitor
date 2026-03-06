@@ -123,6 +123,11 @@
 - [RootAid/CVE-2026-27507](https://github.com/RootAid/CVE-2026-27507)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-27507">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-27507">
 
 ---
+## CVE-2026-27483 ()
+> 
+- [thewhiteh4t/cve-2026-27483](https://github.com/thewhiteh4t/cve-2026-27483)	<img alt="forks" src="https://img.shields.io/github/forks/thewhiteh4t/cve-2026-27483">	<img alt="stars" src="https://img.shields.io/github/stars/thewhiteh4t/cve-2026-27483">
+
+---
 ## CVE-2026-27470 ()
 > 
 - [kocaemre/CVE-2026-27470](https://github.com/kocaemre/CVE-2026-27470)	<img alt="forks" src="https://img.shields.io/github/forks/kocaemre/CVE-2026-27470">	<img alt="stars" src="https://img.shields.io/github/stars/kocaemre/CVE-2026-27470">
