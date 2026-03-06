@@ -737,6 +737,11 @@
 - [langbyyi/CVE-2026-22785](https://github.com/langbyyi/CVE-2026-22785)	<img alt="forks" src="https://img.shields.io/github/forks/langbyyi/CVE-2026-22785">	<img alt="stars" src="https://img.shields.io/github/stars/langbyyi/CVE-2026-22785">
 
 ---
+## CVE-2026-22722 ()
+> 
+- [D7EAD/CVE-2026-22722](https://github.com/D7EAD/CVE-2026-22722)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-22722">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-22722">
+
+---
 ## CVE-2026-22686 ()
 > 
 - [amusedx/CVE-2026-22686](https://github.com/amusedx/CVE-2026-22686)	<img alt="forks" src="https://img.shields.io/github/forks/amusedx/CVE-2026-22686">	<img alt="stars" src="https://img.shields.io/github/stars/amusedx/CVE-2026-22686">
