@@ -4469,6 +4469,13 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [theexploiters/CVE-2024-39123-Exploit](https://github.com/theexploiters/CVE-2024-39123-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-39123-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-39123-Exploit">
 
 ---
+## CVE-2024-3912 ()
+> 
+- [H4rk3nz0/CVE-2024-3912](https://github.com/H4rk3nz0/CVE-2024-3912)	<img alt="forks" src="https://img.shields.io/github/forks/H4rk3nz0/CVE-2024-3912">	<img alt="stars" src="https://img.shields.io/github/stars/H4rk3nz0/CVE-2024-3912">
+- [FelinaeBlanc/CVE_2024_39123](https://github.com/FelinaeBlanc/CVE_2024_39123)	<img alt="forks" src="https://img.shields.io/github/forks/FelinaeBlanc/CVE_2024_39123">	<img alt="stars" src="https://img.shields.io/github/stars/FelinaeBlanc/CVE_2024_39123">
+- [theexploiters/CVE-2024-39123-Exploit](https://github.com/theexploiters/CVE-2024-39123-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-39123-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-39123-Exploit">
+
+---
 ## CVE-2024-39090 (2024-07-18T20:15:00)
 > The PHPGurukul Online Shopping Portal Project version 2.0 contains a vulnerability that allows Cross-Site Request Forgery (CSRF) to lead to Stored Cross-Site Scripting (XSS). An attacker can exploit this vulnerability to execute arbitrary JavaScript code in the context of a user's session, potentially leading to account takeover.
 - [ghostwirez/CVE-2024-39090-PoC](https://github.com/ghostwirez/CVE-2024-39090-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ghostwirez/CVE-2024-39090-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ghostwirez/CVE-2024-39090-PoC">
