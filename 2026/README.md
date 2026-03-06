@@ -36,6 +36,11 @@
 - [rootdirective-sec/CVE-2026-3395-Lab](https://github.com/rootdirective-sec/CVE-2026-3395-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-3395-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-3395-Lab">
 
 ---
+## CVE-2026-3304 ()
+> 
+- [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
+
+---
 ## CVE-2026-3224 ()
 > 
 - [HiZisec/CVE-2026-3224-Exploit](https://github.com/HiZisec/CVE-2026-3224-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HiZisec/CVE-2026-3224-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HiZisec/CVE-2026-3224-Exploit">
