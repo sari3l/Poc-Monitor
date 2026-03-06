@@ -2501,6 +2501,7 @@
 - [salman5230/CVE-2025-59287](https://github.com/salman5230/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/salman5230/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/salman5230/CVE-2025-59287">
 - [ross-ns/WSUS-CVE-2025-59287](https://github.com/ross-ns/WSUS-CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/ross-ns/WSUS-CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/ross-ns/WSUS-CVE-2025-59287">
 - [vatslaaeytoygag/CVE-2025-59287](https://github.com/vatslaaeytoygag/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/vatslaaeytoygag/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/vatslaaeytoygag/CVE-2025-59287">
+- [GhoStZA-debug/PoC-CVE-collection](https://github.com/GhoStZA-debug/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/GhoStZA-debug/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/GhoStZA-debug/PoC-CVE-collection">
 
 ---
 ## CVE-2025-59285 ()
