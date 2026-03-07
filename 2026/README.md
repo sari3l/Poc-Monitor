@@ -1083,6 +1083,11 @@
 - [O99099O/By-Poloss..-..CVE-2026-1522](https://github.com/O99099O/By-Poloss..-..CVE-2026-1522)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-1522">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-1522">
 
 ---
+## CVE-2026-1492 ()
+> 
+- [dreamboyim66-boop/CVE-2026-1492-POC](https://github.com/dreamboyim66-boop/CVE-2026-1492-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dreamboyim66-boop/CVE-2026-1492-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dreamboyim66-boop/CVE-2026-1492-POC">
+
+---
 ## CVE-2026-1490 ()
 > 
 - [comthompson30/CVE-2026-1490](https://github.com/comthompson30/CVE-2026-1490)	<img alt="forks" src="https://img.shields.io/github/forks/comthompson30/CVE-2026-1490">	<img alt="stars" src="https://img.shields.io/github/stars/comthompson30/CVE-2026-1490">
