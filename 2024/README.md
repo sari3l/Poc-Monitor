@@ -2944,6 +2944,8 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [advaitpathak21/CVE-2024-46987](https://github.com/advaitpathak21/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/advaitpathak21/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/advaitpathak21/CVE-2024-46987">
 - [rabouzia/CVE-2024-46987](https://github.com/rabouzia/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/rabouzia/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/rabouzia/CVE-2024-46987">
 - [BLUEBERRYP1LL/CVE-2024-46987](https://github.com/BLUEBERRYP1LL/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/BLUEBERRYP1LL/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/BLUEBERRYP1LL/CVE-2024-46987">
+- [bootstrapbool/msf-cve-2024-46987](https://github.com/bootstrapbool/msf-cve-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/bootstrapbool/msf-cve-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/bootstrapbool/msf-cve-2024-46987">
+- [0xmrsecurity/Public_Poc](https://github.com/0xmrsecurity/Public_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrsecurity/Public_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrsecurity/Public_Poc">
 
 ---
 ## CVE-2024-46986 (2024-09-18T18:15:00)
