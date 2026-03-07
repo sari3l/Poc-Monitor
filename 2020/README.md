@@ -4752,6 +4752,7 @@
 - [captainGeech42/CVE-2020-1350](https://github.com/captainGeech42/CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/captainGeech42/CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/captainGeech42/CVE-2020-1350">
 - [jmaddington/dRMM-CVE-2020-1350-response](https://github.com/jmaddington/dRMM-CVE-2020-1350-response)	<img alt="forks" src="https://img.shields.io/github/forks/jmaddington/dRMM-CVE-2020-1350-response">	<img alt="stars" src="https://img.shields.io/github/stars/jmaddington/dRMM-CVE-2020-1350-response">
 - [tinkersec/cve-2020-1350](https://github.com/tinkersec/cve-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/tinkersec/cve-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/tinkersec/cve-2020-1350">
+- [sty886/CVE-2020-1350-SigRed](https://github.com/sty886/CVE-2020-1350-SigRed)	<img alt="forks" src="https://img.shields.io/github/forks/sty886/CVE-2020-1350-SigRed">	<img alt="stars" src="https://img.shields.io/github/stars/sty886/CVE-2020-1350-SigRed">
 
 ---
 ## CVE-2020-13497 (2020-12-02T18:15:00)
