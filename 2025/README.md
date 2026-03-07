@@ -5632,7 +5632,7 @@
 - [kyakei/CVE-2025-4138-poc](https://github.com/kyakei/CVE-2025-4138-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kyakei/CVE-2025-4138-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kyakei/CVE-2025-4138-poc">
 - [UmbraDeorum/CVE-2025-4517-PoC](https://github.com/UmbraDeorum/CVE-2025-4517-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/UmbraDeorum/CVE-2025-4517-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/UmbraDeorum/CVE-2025-4517-PoC">
 - [bgutowski/CVE-2025-4517-POC-Sudoers](https://github.com/bgutowski/CVE-2025-4517-POC-Sudoers)	<img alt="forks" src="https://img.shields.io/github/forks/bgutowski/CVE-2025-4517-POC-Sudoers">	<img alt="stars" src="https://img.shields.io/github/stars/bgutowski/CVE-2025-4517-POC-Sudoers">
-- [ben-slates/CVE-2025-4517-POC](https://github.com/ben-slates/CVE-2025-4517-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ben-slates/CVE-2025-4517-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ben-slates/CVE-2025-4517-POC">
+- [Gh0s7Ops/CVE-2025-4517-POC](https://github.com/Gh0s7Ops/CVE-2025-4517-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Gh0s7Ops/CVE-2025-4517-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Gh0s7Ops/CVE-2025-4517-POC">
 - [estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC](https://github.com/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC">
 
 ---
