@@ -7831,6 +7831,11 @@ For more details, please review the linked advisory on this CVE.
 - [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707)	<img alt="forks" src="https://img.shields.io/github/forks/N1k0la-T/CVE-2023-21707">	<img alt="stars" src="https://img.shields.io/github/stars/N1k0la-T/CVE-2023-21707">
 
 ---
+## CVE-2023-21688 ()
+> 
+- [hyunjungg/CVE-2023-21688](https://github.com/hyunjungg/CVE-2023-21688)	<img alt="forks" src="https://img.shields.io/github/forks/hyunjungg/CVE-2023-21688">	<img alt="stars" src="https://img.shields.io/github/stars/hyunjungg/CVE-2023-21688">
+
+---
 ## CVE-2023-21674 (2023-01-10T22:15:00)
 > Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability
 - [hd3s5aa/CVE-2023-21674](https://github.com/hd3s5aa/CVE-2023-21674)	<img alt="forks" src="https://img.shields.io/github/forks/hd3s5aa/CVE-2023-21674">	<img alt="stars" src="https://img.shields.io/github/stars/hd3s5aa/CVE-2023-21674">
@@ -8358,6 +8363,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [DOMINIC471/qub-network-security-cve-2023-20198](https://github.com/DOMINIC471/qub-network-security-cve-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/DOMINIC471/qub-network-security-cve-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/DOMINIC471/qub-network-security-cve-2023-20198">
 - [Arshit01/CVE-2023-20198](https://github.com/Arshit01/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Arshit01/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Arshit01/CVE-2023-20198">
 - [Religan/CVE-2023-20198](https://github.com/Religan/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Religan/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Religan/CVE-2023-20198">
+- [gustavorobertux/CVE-2023-20198](https://github.com/gustavorobertux/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
