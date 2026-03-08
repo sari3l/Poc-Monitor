@@ -18,6 +18,11 @@
 - [karthi-the-hacker/CVE-2006-2842](https://github.com/karthi-the-hacker/CVE-2006-2842)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2006-2842">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2006-2842">
 
 ---
+## CVE-2006-2369 ()
+> 
+- [hacker1337itme/CVE-2006-2369](https://github.com/hacker1337itme/CVE-2006-2369)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2006-2369">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2006-2369">
+
+---
 ## CVE-2006-0987 (2006-03-03T11:02:00)
 > The default configuration of ISC BIND before 9.4.1-P1, when configured as a caching name server, allows recursive queries and provides additional delegation information to arbitrary IP addresses, which allows remote attackers to cause a denial of service (traffic amplification) via DNS queries with spoofed source IP addresses. This vulnerability affects ISC, BIND versions 9.3.2 and previous.
 - [pcastagnaro/check_CVE-2006-0987](https://github.com/pcastagnaro/check_CVE-2006-0987)	<img alt="forks" src="https://img.shields.io/github/forks/pcastagnaro/check_CVE-2006-0987">	<img alt="stars" src="https://img.shields.io/github/stars/pcastagnaro/check_CVE-2006-0987">
