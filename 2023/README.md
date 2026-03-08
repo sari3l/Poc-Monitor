@@ -8366,6 +8366,8 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Religan/CVE-2023-20198](https://github.com/Religan/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Religan/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Religan/CVE-2023-20198">
 - [gustavorobertux/CVE-2023-20198](https://github.com/gustavorobertux/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/CVE-2023-20198">
 - [gustavorobertux/CVE-2023-20198](https://github.com/gustavorobertux/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/CVE-2023-20198">
+- [gustavorobertux/cisco-cve-2023-20198-checker](https://github.com/gustavorobertux/cisco-cve-2023-20198-checker)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/cisco-cve-2023-20198-checker">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/cisco-cve-2023-20198-checker">
+- [djayaGit/cve-2023-20198-poc-cisco](https://github.com/djayaGit/cve-2023-20198-poc-cisco)	<img alt="forks" src="https://img.shields.io/github/forks/djayaGit/cve-2023-20198-poc-cisco">	<img alt="stars" src="https://img.shields.io/github/stars/djayaGit/cve-2023-20198-poc-cisco">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
