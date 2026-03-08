@@ -616,7 +616,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 > 
 - [fatcatresearch/cve-2024-7387](https://github.com/fatcatresearch/cve-2024-7387)	<img alt="forks" src="https://img.shields.io/github/forks/fatcatresearch/cve-2024-7387">	<img alt="stars" src="https://img.shields.io/github/stars/fatcatresearch/cve-2024-7387">
 - [pwnc4t/cve-2024-7387](https://github.com/pwnc4t/cve-2024-7387)	<img alt="forks" src="https://img.shields.io/github/forks/pwnc4t/cve-2024-7387">	<img alt="stars" src="https://img.shields.io/github/stars/pwnc4t/cve-2024-7387">
-- [tevsho/cve-2024-7387](https://github.com/tevsho/cve-2024-7387)	<img alt="forks" src="https://img.shields.io/github/forks/tevsho/cve-2024-7387">	<img alt="stars" src="https://img.shields.io/github/stars/tevsho/cve-2024-7387">
+- [pwnc4t/cve-2024-7387](https://github.com/pwnc4t/cve-2024-7387)	<img alt="forks" src="https://img.shields.io/github/forks/pwnc4t/cve-2024-7387">	<img alt="stars" src="https://img.shields.io/github/stars/pwnc4t/cve-2024-7387">
 
 ---
 ## CVE-2024-7385 (2024-09-25T04:15:00)
@@ -3209,7 +3209,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [fatcatresearch/cve-2024-45496](https://github.com/fatcatresearch/cve-2024-45496)	<img alt="forks" src="https://img.shields.io/github/forks/fatcatresearch/cve-2024-45496">	<img alt="stars" src="https://img.shields.io/github/stars/fatcatresearch/cve-2024-45496">
 - [pwnc4t/cve-2024-45496](https://github.com/pwnc4t/cve-2024-45496)	<img alt="forks" src="https://img.shields.io/github/forks/pwnc4t/cve-2024-45496">	<img alt="stars" src="https://img.shields.io/github/stars/pwnc4t/cve-2024-45496">
 - [tevsho/cve-2024-45496-temp](https://github.com/tevsho/cve-2024-45496-temp)	<img alt="forks" src="https://img.shields.io/github/forks/tevsho/cve-2024-45496-temp">	<img alt="stars" src="https://img.shields.io/github/stars/tevsho/cve-2024-45496-temp">
-- [tevsho/cve-2024-45496](https://github.com/tevsho/cve-2024-45496)	<img alt="forks" src="https://img.shields.io/github/forks/tevsho/cve-2024-45496">	<img alt="stars" src="https://img.shields.io/github/stars/tevsho/cve-2024-45496">
+- [pwnc4t/cve-2024-45496](https://github.com/pwnc4t/cve-2024-45496)	<img alt="forks" src="https://img.shields.io/github/forks/pwnc4t/cve-2024-45496">	<img alt="stars" src="https://img.shields.io/github/stars/pwnc4t/cve-2024-45496">
 
 ---
 ## CVE-2024-45492 (2024-08-30T03:15:00)
@@ -9620,6 +9620,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-2086 (2024-03-30T05:15:00)
 > The Integrate Google Drive – Browse, Upload, Download, Embed, Play, Share, Gallery, and Manage Your Google Drive Files Into Your WordPress Site plugin for WordPress is vulnerable to unauthorized access of data, modification of data, and loss of data due to a missing capability check on multiple AJAX in all versions up to, and including, 1.3.8. This makes it possible for authenticated attackers to modify plugin settings as well as allowing full read/write/delete access to the Google Drive associated with the plugin.
 - [MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE](https://github.com/MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSecs/CVE-2024-2086-GOOGLE-DRIVE">
+
+---
+## CVE-2024-2083 ()
+> 
+- [Saptaktdk/zenml-CVE-2024-2083-POC](https://github.com/Saptaktdk/zenml-CVE-2024-2083-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Saptaktdk/zenml-CVE-2024-2083-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Saptaktdk/zenml-CVE-2024-2083-POC">
 
 ---
 ## CVE-2024-20767 (2024-03-18T12:15:00)
