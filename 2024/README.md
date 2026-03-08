@@ -2005,6 +2005,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 > 
 - [BwithE/CVE-2024-51482](https://github.com/BwithE/CVE-2024-51482)	<img alt="forks" src="https://img.shields.io/github/forks/BwithE/CVE-2024-51482">	<img alt="stars" src="https://img.shields.io/github/stars/BwithE/CVE-2024-51482">
 - [Gh0s7Ops/CVE-2024-51482-Multi-Stage-Surveillance-System-Exploit](https://github.com/Gh0s7Ops/CVE-2024-51482-Multi-Stage-Surveillance-System-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Gh0s7Ops/CVE-2024-51482-Multi-Stage-Surveillance-System-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Gh0s7Ops/CVE-2024-51482-Multi-Stage-Surveillance-System-Exploit">
+- [pluri1bu5/CVE-2024-51482-PoC](https://github.com/pluri1bu5/CVE-2024-51482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pluri1bu5/CVE-2024-51482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pluri1bu5/CVE-2024-51482-PoC">
 
 ---
 ## CVE-2024-51442 ()
