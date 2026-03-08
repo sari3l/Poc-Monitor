@@ -542,6 +542,7 @@
 ## CVE-2025-69985 ()
 > 
 - [joshuavanderpoll/CVE-2025-69985](https://github.com/joshuavanderpoll/CVE-2025-69985)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-69985">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-69985">
+- [tianarsamm/CVE-2025-69985](https://github.com/tianarsamm/CVE-2025-69985)	<img alt="forks" src="https://img.shields.io/github/forks/tianarsamm/CVE-2025-69985">	<img alt="stars" src="https://img.shields.io/github/stars/tianarsamm/CVE-2025-69985">
 
 ---
 ## CVE-2025-6998 ()
