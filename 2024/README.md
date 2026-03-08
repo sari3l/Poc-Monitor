@@ -1302,6 +1302,11 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [lisa-2905/CVE-2024-56428](https://github.com/lisa-2905/CVE-2024-56428)	<img alt="forks" src="https://img.shields.io/github/forks/lisa-2905/CVE-2024-56428">	<img alt="stars" src="https://img.shields.io/github/stars/lisa-2905/CVE-2024-56428">
 
 ---
+## CVE-2024-56348 ()
+> 
+- [joshuavanderpoll/cve-2024-56348](https://github.com/joshuavanderpoll/cve-2024-56348)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/cve-2024-56348">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/cve-2024-56348">
+
+---
 ## CVE-2024-56340 ()
 > 
 - [MarioTesoro/CVE-2024-56340](https://github.com/MarioTesoro/CVE-2024-56340)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-56340">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-56340">
