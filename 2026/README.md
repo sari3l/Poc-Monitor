@@ -119,6 +119,11 @@
 - [Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow](https://github.com/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">
 
 ---
+## CVE-2026-27959 ()
+> 
+- [mlouazir/CVE-2026-27959-mini-lab](https://github.com/mlouazir/CVE-2026-27959-mini-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mlouazir/CVE-2026-27959-mini-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mlouazir/CVE-2026-27959-mini-lab">
+
+---
 ## CVE-2026-27831 ()
 > 
 - [bluedragonsecurity/CVE-2026-27831-POC](https://github.com/bluedragonsecurity/CVE-2026-27831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-27831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-27831-POC">
