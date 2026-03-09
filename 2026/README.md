@@ -583,6 +583,7 @@
 - [mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-](https://github.com/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">
 - [setuju/telnetd](https://github.com/setuju/telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/setuju/telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/setuju/telnetd">
 - [Remnant-DB/CVE-2026-24061](https://github.com/Remnant-DB/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2026-24061">
+- [0xAshwesker/CVE-2026-24061](https://github.com/0xAshwesker/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-24061">
 
 ---
 ## CVE-2026-2406 ()
