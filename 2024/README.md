@@ -919,6 +919,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Ngagne-Demba-Dia/CVE-2024-6387-corrigee](https://github.com/Ngagne-Demba-Dia/CVE-2024-6387-corrigee)	<img alt="forks" src="https://img.shields.io/github/forks/Ngagne-Demba-Dia/CVE-2024-6387-corrigee">	<img alt="stars" src="https://img.shields.io/github/stars/Ngagne-Demba-Dia/CVE-2024-6387-corrigee">
 - [arielrbrdev/redteamlab1](https://github.com/arielrbrdev/redteamlab1)	<img alt="forks" src="https://img.shields.io/github/forks/arielrbrdev/redteamlab1">	<img alt="stars" src="https://img.shields.io/github/stars/arielrbrdev/redteamlab1">
 - [OhDamnn/Noregressh](https://github.com/OhDamnn/Noregressh)	<img alt="forks" src="https://img.shields.io/github/forks/OhDamnn/Noregressh">	<img alt="stars" src="https://img.shields.io/github/stars/OhDamnn/Noregressh">
+- [Remnant-DB/CVE-2024-6387](https://github.com/Remnant-DB/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
