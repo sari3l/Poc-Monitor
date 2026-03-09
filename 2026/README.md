@@ -899,6 +899,7 @@
 - [jenniferreire26/CVE-2026-21533](https://github.com/jenniferreire26/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-21533">
 - [washingtonmaister/CVE-2026-21533](https://github.com/washingtonmaister/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-21533">
 - [richardpaimu34/CVE-2026-21533](https://github.com/richardpaimu34/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-21533">
+- [fevar54/CVE-2026-21533_Scanner.py](https://github.com/fevar54/CVE-2026-21533_Scanner.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-21533_Scanner.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-21533_Scanner.py">
 
 ---
 ## CVE-2026-21531 ()
