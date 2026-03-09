@@ -6946,7 +6946,8 @@
 ---
 ## CVE-2025-31651 ()
 > 
-- [gregk4sec/CVE-2025-31651](https://github.com/gregk4sec/CVE-2025-31651)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-31651">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-31651">
+- [gregk4sec/CVE-2025-31651-o](https://github.com/gregk4sec/CVE-2025-31651-o)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-31651-o">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-31651-o">
+- [gregk4sec/cve-2025-31651](https://github.com/gregk4sec/cve-2025-31651)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/cve-2025-31651">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/cve-2025-31651">
 
 ---
 ## CVE-2025-31650 ()
