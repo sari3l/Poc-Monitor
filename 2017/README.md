@@ -1278,6 +1278,11 @@
 - [lva/Infineon-CVE-2017-15361](https://github.com/lva/Infineon-CVE-2017-15361)	<img alt="forks" src="https://img.shields.io/github/forks/lva/Infineon-CVE-2017-15361">	<img alt="stars" src="https://img.shields.io/github/stars/lva/Infineon-CVE-2017-15361">
 
 ---
+## CVE-2017-15220 ()
+> 
+- [vasilerevnic/CVE-2017-15220-vxsearch-rce](https://github.com/vasilerevnic/CVE-2017-15220-vxsearch-rce)	<img alt="forks" src="https://img.shields.io/github/forks/vasilerevnic/CVE-2017-15220-vxsearch-rce">	<img alt="stars" src="https://img.shields.io/github/stars/vasilerevnic/CVE-2017-15220-vxsearch-rce">
+
+---
 ## CVE-2017-15108 (2018-01-20T00:29:00)
 > spice-vdagent up to and including 0.17.0 does not properly escape save directory before passing to shell, allowing local attacker with access to the session the agent runs in to inject arbitrary commands to be executed.
 - [Live-Hack-CVE/CVE-2017-15108](https://github.com/Live-Hack-CVE/CVE-2017-15108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15108">
