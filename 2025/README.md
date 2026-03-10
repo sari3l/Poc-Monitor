@@ -2184,6 +2184,11 @@
 - [yawataa/CVE-2025-60749](https://github.com/yawataa/CVE-2025-60749)	<img alt="forks" src="https://img.shields.io/github/forks/yawataa/CVE-2025-60749">	<img alt="stars" src="https://img.shields.io/github/stars/yawataa/CVE-2025-60749">
 
 ---
+## CVE-2025-60739 ()
+> 
+- [GadaLuBau1337/CVE-2025-60739](https://github.com/GadaLuBau1337/CVE-2025-60739)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2025-60739">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2025-60739">
+
+---
 ## CVE-2025-60736 ()
 > 
 - [WinDyAlphA/CVE-2025-60736](https://github.com/WinDyAlphA/CVE-2025-60736)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2025-60736">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2025-60736">
