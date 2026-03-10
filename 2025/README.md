@@ -7847,6 +7847,11 @@
 - [andreglock/axios-ssrf](https://github.com/andreglock/axios-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/andreglock/axios-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/andreglock/axios-ssrf">
 
 ---
+## CVE-2025-27136 ()
+> 
+- [IssaBoudin/CVE-2025-27136](https://github.com/IssaBoudin/CVE-2025-27136)	<img alt="forks" src="https://img.shields.io/github/forks/IssaBoudin/CVE-2025-27136">	<img alt="stars" src="https://img.shields.io/github/stars/IssaBoudin/CVE-2025-27136">
+
+---
 ## CVE-2025-2704 ()
 > 
 - [KernelKraze/CVE-2025-2704](https://github.com/KernelKraze/CVE-2025-2704)	<img alt="forks" src="https://img.shields.io/github/forks/KernelKraze/CVE-2025-2704">	<img alt="stars" src="https://img.shields.io/github/stars/KernelKraze/CVE-2025-2704">
