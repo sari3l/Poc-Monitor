@@ -9536,6 +9536,11 @@
 - [whattheslime/CVE-2025-13486-exploit](https://github.com/whattheslime/CVE-2025-13486-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2025-13486-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2025-13486-exploit">
 
 ---
+## CVE-2025-13465 ()
+> 
+- [jaytarr-geo/nextjs-lodash-cve-2025-13465-repro](https://github.com/jaytarr-geo/nextjs-lodash-cve-2025-13465-repro)	<img alt="forks" src="https://img.shields.io/github/forks/jaytarr-geo/nextjs-lodash-cve-2025-13465-repro">	<img alt="stars" src="https://img.shields.io/github/stars/jaytarr-geo/nextjs-lodash-cve-2025-13465-repro">
+
+---
 ## CVE-2025-13401 ()
 > 
 - [ciscocamelo/CVE-2025-13401-XSS-Stored](https://github.com/ciscocamelo/CVE-2025-13401-XSS-Stored)	<img alt="forks" src="https://img.shields.io/github/forks/ciscocamelo/CVE-2025-13401-XSS-Stored">	<img alt="stars" src="https://img.shields.io/github/stars/ciscocamelo/CVE-2025-13401-XSS-Stored">
