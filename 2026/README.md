@@ -30,6 +30,11 @@
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 
 ---
+## CVE-2026-3847 ()
+> 
+- [HiZisec/CVE-2026-3847-Poc](https://github.com/HiZisec/CVE-2026-3847-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/HiZisec/CVE-2026-3847-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/HiZisec/CVE-2026-3847-Poc">
+
+---
 ## CVE-2026-3395 ()
 > 
 - [mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE">
