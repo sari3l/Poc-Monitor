@@ -1187,6 +1187,7 @@
 - [cybertechajju/CVE-2026-1357-POC](https://github.com/cybertechajju/CVE-2026-1357-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2026-1357-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2026-1357-POC">
 - [rootdirective-sec/CVE-2026-1357-Lab](https://github.com/rootdirective-sec/CVE-2026-1357-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-1357-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-1357-Lab">
 - [CVEs-Labs/CVE-2026-1357](https://github.com/CVEs-Labs/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-1357">
+- [Nxploited/CVE-2026-1357](https://github.com/Nxploited/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1357">
 
 ---
 ## CVE-2026-1306 ()
