@@ -135,6 +135,11 @@
 - [mlouazir/CVE-2026-27959-mini-lab](https://github.com/mlouazir/CVE-2026-27959-mini-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mlouazir/CVE-2026-27959-mini-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mlouazir/CVE-2026-27959-mini-lab">
 
 ---
+## CVE-2026-27944 ()
+> 
+- [weefunker/CVE-2026-27944-Lab](https://github.com/weefunker/CVE-2026-27944-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/weefunker/CVE-2026-27944-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/weefunker/CVE-2026-27944-Lab">
+
+---
 ## CVE-2026-27831 ()
 > 
 - [bluedragonsecurity/CVE-2026-27831-POC](https://github.com/bluedragonsecurity/CVE-2026-27831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-27831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-27831-POC">
