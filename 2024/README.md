@@ -7697,6 +7697,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability](https://github.com/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability">
 - [wall0wW1spr/CVE-2024-27198](https://github.com/wall0wW1spr/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/wall0wW1spr/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/wall0wW1spr/CVE-2024-27198">
 - [EynaExp/CVE-2024-27198-POC](https://github.com/EynaExp/CVE-2024-27198-POC)	<img alt="forks" src="https://img.shields.io/github/forks/EynaExp/CVE-2024-27198-POC">	<img alt="stars" src="https://img.shields.io/github/stars/EynaExp/CVE-2024-27198-POC">
+- [dbwlsdnr95/CVE-2024-27198](https://github.com/dbwlsdnr95/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/dbwlsdnr95/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/dbwlsdnr95/CVE-2024-27198">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
