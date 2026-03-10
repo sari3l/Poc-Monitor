@@ -1186,6 +1186,11 @@
 - [nflatrea/CVE-2025-66417](https://github.com/nflatrea/CVE-2025-66417)	<img alt="forks" src="https://img.shields.io/github/forks/nflatrea/CVE-2025-66417">	<img alt="stars" src="https://img.shields.io/github/stars/nflatrea/CVE-2025-66417">
 
 ---
+## CVE-2025-66398 ()
+> 
+- [joshuavanderpoll/cve-2025-66398](https://github.com/joshuavanderpoll/cve-2025-66398)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/cve-2025-66398">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/cve-2025-66398">
+
+---
 ## CVE-2025-66224 ()
 > 
 - [richard-natan/PoC-CVE-2025-66224](https://github.com/richard-natan/PoC-CVE-2025-66224)	<img alt="forks" src="https://img.shields.io/github/forks/richard-natan/PoC-CVE-2025-66224">	<img alt="stars" src="https://img.shields.io/github/stars/richard-natan/PoC-CVE-2025-66224">
