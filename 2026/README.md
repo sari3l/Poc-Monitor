@@ -919,6 +919,11 @@
 - [yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla](https://github.com/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla)	<img alt="forks" src="https://img.shields.io/github/forks/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla">	<img alt="stars" src="https://img.shields.io/github/stars/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla">
 
 ---
+## CVE-2026-21536 ()
+> 
+- [b1gchoi/CVE-2026-21536-RCE](https://github.com/b1gchoi/CVE-2026-21536-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-21536-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-21536-RCE">
+
+---
 ## CVE-2026-21533 ()
 > 
 - [ghostroots/CVE-2026-21533](https://github.com/ghostroots/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/ghostroots/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/ghostroots/CVE-2026-21533">
