@@ -69,6 +69,7 @@
 ## CVE-2026-29786 ()
 > 
 - [Jvr2022/CVE-2026-29786](https://github.com/Jvr2022/CVE-2026-29786)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-29786">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-29786">
+- [Rohitberiwala/NodeJS-Tar-Symlink-Exploit-CVE-2026-29786](https://github.com/Rohitberiwala/NodeJS-Tar-Symlink-Exploit-CVE-2026-29786)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/NodeJS-Tar-Symlink-Exploit-CVE-2026-29786">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/NodeJS-Tar-Symlink-Exploit-CVE-2026-29786">
 
 ---
 ## CVE-2026-29781 ()
