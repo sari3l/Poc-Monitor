@@ -66,6 +66,11 @@
 - [drkim-dev/CVE-2026-30862](https://github.com/drkim-dev/CVE-2026-30862)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-30862">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-30862">
 
 ---
+## CVE-2026-30741 ()
+> 
+- [Named1ess/CVE-2026-30741](https://github.com/Named1ess/CVE-2026-30741)	<img alt="forks" src="https://img.shields.io/github/forks/Named1ess/CVE-2026-30741">	<img alt="stars" src="https://img.shields.io/github/stars/Named1ess/CVE-2026-30741">
+
+---
 ## CVE-2026-3062 ()
 > 
 - [z3r0h3ro/CVE-2026-3062-chain](https://github.com/z3r0h3ro/CVE-2026-3062-chain)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-3062-chain">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-3062-chain">
@@ -138,6 +143,7 @@
 ## CVE-2026-27944 ()
 > 
 - [weefunker/CVE-2026-27944-Lab](https://github.com/weefunker/CVE-2026-27944-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/weefunker/CVE-2026-27944-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/weefunker/CVE-2026-27944-Lab">
+- [NULL200OK/CVE-2026-27944](https://github.com/NULL200OK/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-27944">
 
 ---
 ## CVE-2026-27831 ()
@@ -474,6 +480,7 @@
 ## CVE-2026-2472 ()
 > 
 - [JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud](https://github.com/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud">
+- [megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud](https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud)	<img alt="forks" src="https://img.shields.io/github/forks/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud">	<img alt="stars" src="https://img.shields.io/github/stars/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud">
 
 ---
 ## CVE-2026-24688 ()
