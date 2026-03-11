@@ -9556,6 +9556,10 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [varwara/CVE-2024-21338](https://github.com/varwara/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-21338">
 - [Zombie-Kaiser/CVE-2024-21338-x64-build-](https://github.com/Zombie-Kaiser/CVE-2024-21338-x64-build-)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/CVE-2024-21338-x64-build-">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/CVE-2024-21338-x64-build-">
 - [tykawaii98/CVE-2024-21338_PoC](https://github.com/tykawaii98/CVE-2024-21338_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tykawaii98/CVE-2024-21338_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tykawaii98/CVE-2024-21338_PoC">
+- [MistyFir/CVE-2024-21338-Exploit](https://github.com/MistyFir/CVE-2024-21338-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MistyFir/CVE-2024-21338-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MistyFir/CVE-2024-21338-Exploit">
+- [hackyboiz/kcfg-bypass](https://github.com/hackyboiz/kcfg-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/hackyboiz/kcfg-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/hackyboiz/kcfg-bypass">
+- [Crowdfense/CVE-2024-21338](https://github.com/Crowdfense/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/Crowdfense/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/Crowdfense/CVE-2024-21338">
+- [wusijie/CVE-2024-21338-1](https://github.com/wusijie/CVE-2024-21338-1)	<img alt="forks" src="https://img.shields.io/github/forks/wusijie/CVE-2024-21338-1">	<img alt="stars" src="https://img.shields.io/github/stars/wusijie/CVE-2024-21338-1">
 
 ---
 ## CVE-2024-21334 (2024-03-12T17:15:00)
