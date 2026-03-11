@@ -656,6 +656,12 @@
 - [hexissam/CVE-2025-69295](https://github.com/hexissam/CVE-2025-69295)	<img alt="forks" src="https://img.shields.io/github/forks/hexissam/CVE-2025-69295">	<img alt="stars" src="https://img.shields.io/github/stars/hexissam/CVE-2025-69295">
 
 ---
+## CVE-2025-69219 ()
+> 
+- [sak110/CVE-2025-69219](https://github.com/sak110/CVE-2025-69219)	<img alt="forks" src="https://img.shields.io/github/forks/sak110/CVE-2025-69219">	<img alt="stars" src="https://img.shields.io/github/stars/sak110/CVE-2025-69219">
+- [ahmetartuc/poc-cve-2025-69219](https://github.com/ahmetartuc/poc-cve-2025-69219)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetartuc/poc-cve-2025-69219">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetartuc/poc-cve-2025-69219">
+
+---
 ## CVE-2025-69194 ()
 > 
 - [secdongle/POC_CVE-2025-69194](https://github.com/secdongle/POC_CVE-2025-69194)	<img alt="forks" src="https://img.shields.io/github/forks/secdongle/POC_CVE-2025-69194">	<img alt="stars" src="https://img.shields.io/github/stars/secdongle/POC_CVE-2025-69194">

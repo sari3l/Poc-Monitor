@@ -61,6 +61,11 @@
 - [George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098](https://github.com/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">
 
 ---
+## CVE-2026-30944 ()
+> 
+- [FilipeGaudard/CVE-2026-30944-PoC](https://github.com/FilipeGaudard/CVE-2026-30944-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-30944-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-30944-PoC">
+
+---
 ## CVE-2026-30863 ()
 > 
 - [Worthes/CVE-2026-30863-Exploit](https://github.com/Worthes/CVE-2026-30863-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Worthes/CVE-2026-30863-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Worthes/CVE-2026-30863-Exploit">

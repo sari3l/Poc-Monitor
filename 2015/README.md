@@ -17,8 +17,10 @@
 ---
 ## CVE-2015-9235 (2018-05-29T20:29:00)
 > In jsonwebtoken node module before 4.2.2 it is possible for an attacker to bypass verification when a token digitally signed with an asymmetric key (RS/ES family) of algorithms but instead the attacker send a token digitally signed with a symmetric algorithm (HS* family).
-- [WinDyAlphA/CVE-2015-9235_JWT_key_confusion](https://github.com/WinDyAlphA/CVE-2015-9235_JWT_key_confusion)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2015-9235_JWT_key_confusion">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2015-9235_JWT_key_confusion">
+- [Nxvh1337/CVE-2015-9235_JWT_key_confusion](https://github.com/Nxvh1337/CVE-2015-9235_JWT_key_confusion)	<img alt="forks" src="https://img.shields.io/github/forks/Nxvh1337/CVE-2015-9235_JWT_key_confusion">	<img alt="stars" src="https://img.shields.io/github/stars/Nxvh1337/CVE-2015-9235_JWT_key_confusion">
 - [aalex954/jwt-key-confusion-poc](https://github.com/aalex954/jwt-key-confusion-poc)	<img alt="forks" src="https://img.shields.io/github/forks/aalex954/jwt-key-confusion-poc">	<img alt="stars" src="https://img.shields.io/github/stars/aalex954/jwt-key-confusion-poc">
+- [tierChampion/POC_CVE-2015-9235](https://github.com/tierChampion/POC_CVE-2015-9235)	<img alt="forks" src="https://img.shields.io/github/forks/tierChampion/POC_CVE-2015-9235">	<img alt="stars" src="https://img.shields.io/github/stars/tierChampion/POC_CVE-2015-9235">
+- [z-bool/Venom-JWT](https://github.com/z-bool/Venom-JWT)	<img alt="forks" src="https://img.shields.io/github/forks/z-bool/Venom-JWT">	<img alt="stars" src="https://img.shields.io/github/stars/z-bool/Venom-JWT">
 
 ---
 ## CVE-2015-8994 (2017-03-02T06:59:00)
