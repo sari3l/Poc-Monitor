@@ -115,6 +115,7 @@
 ## CVE-2026-29000 ()
 > 
 - [kernelzeroday/CVE-2026-29000](https://github.com/kernelzeroday/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/kernelzeroday/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/kernelzeroday/CVE-2026-29000">
+- [rootdirective-sec/CVE-2026-29000-Lab](https://github.com/rootdirective-sec/CVE-2026-29000-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-29000-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-29000-Lab">
 
 ---
 ## CVE-2026-2898 ()
