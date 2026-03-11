@@ -76,6 +76,11 @@
 - [MorielHarush/CVE-2026-30952-PoC](https://github.com/MorielHarush/CVE-2026-30952-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MorielHarush/CVE-2026-30952-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MorielHarush/CVE-2026-30952-PoC">
 
 ---
+## CVE-2026-30945 ()
+> 
+- [FilipeGaudard/CVE-2026-30945-PoC](https://github.com/FilipeGaudard/CVE-2026-30945-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-30945-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-30945-PoC">
+
+---
 ## CVE-2026-30944 ()
 > 
 - [FilipeGaudard/CVE-2026-30944-PoC](https://github.com/FilipeGaudard/CVE-2026-30944-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-30944-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-30944-PoC">
