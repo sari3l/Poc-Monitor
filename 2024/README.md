@@ -2015,6 +2015,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [BridgerAlderson/CVE-2024-51482](https://github.com/BridgerAlderson/CVE-2024-51482)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2024-51482">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2024-51482">
 - [plur1bu5/CVE-2024-51482-PoC](https://github.com/plur1bu5/CVE-2024-51482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/CVE-2024-51482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/CVE-2024-51482-PoC">
 - [Ravi-lk/CVE-2024-51482-ZoneMinder-v1.37.-1.37.64-SQL-Injection-POC](https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-v1.37.-1.37.64-SQL-Injection-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ravi-lk/CVE-2024-51482-ZoneMinder-v1.37.-1.37.64-SQL-Injection-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ravi-lk/CVE-2024-51482-ZoneMinder-v1.37.-1.37.64-SQL-Injection-POC">
+- [lnn0v4/sqli-hunter-CVE-2024-51482-PoC](https://github.com/lnn0v4/sqli-hunter-CVE-2024-51482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lnn0v4/sqli-hunter-CVE-2024-51482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lnn0v4/sqli-hunter-CVE-2024-51482-PoC">
 
 ---
 ## CVE-2024-51442 ()
