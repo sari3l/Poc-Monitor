@@ -161,6 +161,11 @@
 - [bluedragonsecurity/CVE-2026-27831-POC](https://github.com/bluedragonsecurity/CVE-2026-27831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-27831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-27831-POC">
 
 ---
+## CVE-2026-27739 ()
+> 
+- [bankerke/-CVE-2026-27739-poc](https://github.com/bankerke/-CVE-2026-27739-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bankerke/-CVE-2026-27739-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bankerke/-CVE-2026-27739-poc">
+
+---
 ## CVE-2026-27639 ()
 > 
 - [hadhub/CVE-2026-27639-Mercator-XSS](https://github.com/hadhub/CVE-2026-27639-Mercator-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/hadhub/CVE-2026-27639-Mercator-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/hadhub/CVE-2026-27639-Mercator-XSS">
