@@ -575,6 +575,11 @@
 - [BishopFox/CVE-2025-6980-check](https://github.com/BishopFox/CVE-2025-6980-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2025-6980-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2025-6980-check">
 
 ---
+## CVE-2025-69727 ()
+> 
+- [0xZeroSec/CVE-2025-69727](https://github.com/0xZeroSec/CVE-2025-69727)	<img alt="forks" src="https://img.shields.io/github/forks/0xZeroSec/CVE-2025-69727">	<img alt="stars" src="https://img.shields.io/github/stars/0xZeroSec/CVE-2025-69727">
+
+---
 ## CVE-2025-6970 ()
 > 
 - [RandomRobbieBF/CVE-2025-6970](https://github.com/RandomRobbieBF/CVE-2025-6970)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-6970">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-6970">
