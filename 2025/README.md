@@ -6261,6 +6261,7 @@
 - [khoatran107/cve-2025-38001](https://github.com/khoatran107/cve-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-38001">
 - [ngobao2002/CVE-2025-38001-test](https://github.com/ngobao2002/CVE-2025-38001-test)	<img alt="forks" src="https://img.shields.io/github/forks/ngobao2002/CVE-2025-38001-test">	<img alt="stars" src="https://img.shields.io/github/stars/ngobao2002/CVE-2025-38001-test">
 - [boeseejykbtanke348/CVE-2025-38001](https://github.com/boeseejykbtanke348/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/boeseejykbtanke348/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/boeseejykbtanke348/CVE-2025-38001">
+- [aexdyhaxor/CVE-2025-38001](https://github.com/aexdyhaxor/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2025-38001">
 
 ---
 ## CVE-2025-37947 ()
