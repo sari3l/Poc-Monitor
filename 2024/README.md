@@ -6200,6 +6200,10 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [mystxcal/cve-2024-32002-demo](https://github.com/mystxcal/cve-2024-32002-demo)	<img alt="forks" src="https://img.shields.io/github/forks/mystxcal/cve-2024-32002-demo">	<img alt="stars" src="https://img.shields.io/github/stars/mystxcal/cve-2024-32002-demo">
 - [srakkk/cve-2024-32002-demo](https://github.com/srakkk/cve-2024-32002-demo)	<img alt="forks" src="https://img.shields.io/github/forks/srakkk/cve-2024-32002-demo">	<img alt="stars" src="https://img.shields.io/github/stars/srakkk/cve-2024-32002-demo">
 - [srakkk/cve-2024-32002-hook](https://github.com/srakkk/cve-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/srakkk/cve-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/srakkk/cve-2024-32002-hook">
+- [ControlO8/CVE-2024-32002-hook](https://github.com/ControlO8/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/ControlO8/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/ControlO8/CVE-2024-32002-hook">
+- [DayDayDayDreaming/backup-exec-hook](https://github.com/DayDayDayDreaming/backup-exec-hook)	<img alt="forks" src="https://img.shields.io/github/forks/DayDayDayDreaming/backup-exec-hook">	<img alt="stars" src="https://img.shields.io/github/stars/DayDayDayDreaming/backup-exec-hook">
+- [DayDayDayDreaming/backup-exec-cve-32002](https://github.com/DayDayDayDreaming/backup-exec-cve-32002)	<img alt="forks" src="https://img.shields.io/github/forks/DayDayDayDreaming/backup-exec-cve-32002">	<img alt="stars" src="https://img.shields.io/github/stars/DayDayDayDreaming/backup-exec-cve-32002">
+- [BohemianHacks/CVE-2024-32002-poc](https://github.com/BohemianHacks/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/BohemianHacks/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/BohemianHacks/CVE-2024-32002-poc">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
