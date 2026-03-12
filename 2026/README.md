@@ -71,6 +71,11 @@
 - [Mothra-1/CVE-2026-31844](https://github.com/Mothra-1/CVE-2026-31844)	<img alt="forks" src="https://img.shields.io/github/forks/Mothra-1/CVE-2026-31844">	<img alt="stars" src="https://img.shields.io/github/stars/Mothra-1/CVE-2026-31844">
 
 ---
+## CVE-2026-31816 ()
+> 
+- [imjdl/CVE-2026-31816-rshell](https://github.com/imjdl/CVE-2026-31816-rshell)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-31816-rshell">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-31816-rshell">
+
+---
 ## CVE-2026-3098 ()
 > 
 - [George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098](https://github.com/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">
