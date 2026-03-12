@@ -2161,6 +2161,7 @@
 - [FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit](https://github.com/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit">
 - [drackyjr/CVE-2021-42013](https://github.com/drackyjr/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2021-42013">
 - [ranasen-rat/cve-2021-42013](https://github.com/ranasen-rat/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/ranasen-rat/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/ranasen-rat/cve-2021-42013">
+- [zeynepglygt/apache-cve-2021-42013-rce](https://github.com/zeynepglygt/apache-cve-2021-42013-rce)	<img alt="forks" src="https://img.shields.io/github/forks/zeynepglygt/apache-cve-2021-42013-rce">	<img alt="stars" src="https://img.shields.io/github/stars/zeynepglygt/apache-cve-2021-42013-rce">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)

@@ -1012,6 +1012,7 @@
 - [PinPin1140/cve-2026-21509](https://github.com/PinPin1140/cve-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/PinPin1140/cve-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/PinPin1140/cve-2026-21509">
 - [planetoid/cve-2026-21509-mitigation](https://github.com/planetoid/cve-2026-21509-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/planetoid/cve-2026-21509-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/planetoid/cve-2026-21509-mitigation">
 - [suuhm/CVE-2026-21509-handler](https://github.com/suuhm/CVE-2026-21509-handler)	<img alt="forks" src="https://img.shields.io/github/forks/suuhm/CVE-2026-21509-handler">	<img alt="stars" src="https://img.shields.io/github/stars/suuhm/CVE-2026-21509-handler">
+- [DameDode/CVE-2026-21509-POC](https://github.com/DameDode/CVE-2026-21509-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DameDode/CVE-2026-21509-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DameDode/CVE-2026-21509-POC">
 
 ---
 ## CVE-2026-21508 ()
