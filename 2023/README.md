@@ -2320,6 +2320,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [webdragon63/CVE-2023-43208](https://github.com/webdragon63/CVE-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/webdragon63/CVE-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/webdragon63/CVE-2023-43208">
 - [4nuxd/CVE-2023-43208](https://github.com/4nuxd/CVE-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/4nuxd/CVE-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/4nuxd/CVE-2023-43208">
 - [LunaLynx12/cve-2023-43208-poc](https://github.com/LunaLynx12/cve-2023-43208-poc)	<img alt="forks" src="https://img.shields.io/github/forks/LunaLynx12/cve-2023-43208-poc">	<img alt="stars" src="https://img.shields.io/github/stars/LunaLynx12/cve-2023-43208-poc">
+- [Criz117/CVE-2023-43208-PoC](https://github.com/Criz117/CVE-2023-43208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Criz117/CVE-2023-43208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Criz117/CVE-2023-43208-PoC">
 
 ---
 ## CVE-2023-43177 (2023-11-18T00:15:00)
