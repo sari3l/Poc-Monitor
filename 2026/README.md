@@ -153,6 +153,7 @@
 - [rootdirective-sec/CVE-2026-29000-Lab](https://github.com/rootdirective-sec/CVE-2026-29000-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-29000-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-29000-Lab">
 - [manbahadurthapa1248/CVE-2026-29000---pac4j-jwt-Authentication-Bypass-PoC](https://github.com/manbahadurthapa1248/CVE-2026-29000---pac4j-jwt-Authentication-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/manbahadurthapa1248/CVE-2026-29000---pac4j-jwt-Authentication-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/manbahadurthapa1248/CVE-2026-29000---pac4j-jwt-Authentication-Bypass-PoC">
 - [Crims-on/CVE-2026-29000](https://github.com/Crims-on/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/Crims-on/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/Crims-on/CVE-2026-29000">
+- [alihussainzada/CVE-2026-29000-PoC-pac4j-JWT-Authentication-Bypass-JWE-PlainJWT-Python-PoC](https://github.com/alihussainzada/CVE-2026-29000-PoC-pac4j-JWT-Authentication-Bypass-JWE-PlainJWT-Python-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alihussainzada/CVE-2026-29000-PoC-pac4j-JWT-Authentication-Bypass-JWE-PlainJWT-Python-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alihussainzada/CVE-2026-29000-PoC-pac4j-JWT-Authentication-Bypass-JWE-PlainJWT-Python-PoC">
 
 ---
 ## CVE-2026-2898 ()
@@ -279,6 +280,11 @@
 ## CVE-2026-27174 ()
 > 
 - [MaxMnMl/majordomo-CVE-2026-27174-poc](https://github.com/MaxMnMl/majordomo-CVE-2026-27174-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/majordomo-CVE-2026-27174-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/majordomo-CVE-2026-27174-poc">
+
+---
+## CVE-2026-27097 ()
+> 
+- [hacker1337itme/CVE-2026-27097](https://github.com/hacker1337itme/CVE-2026-27097)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-27097">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-27097">
 
 ---
 ## CVE-2026-26988 ()
@@ -1259,6 +1265,11 @@
 - [rootdirective-sec/CVE-2026-1357-Lab](https://github.com/rootdirective-sec/CVE-2026-1357-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-1357-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-1357-Lab">
 - [CVEs-Labs/CVE-2026-1357](https://github.com/CVEs-Labs/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-1357">
 - [Nxploited/CVE-2026-1357](https://github.com/Nxploited/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1357">
+
+---
+## CVE-2026-1311 ()
+> 
+- [hacker1337itme/CVE-2026-1311](https://github.com/hacker1337itme/CVE-2026-1311)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-1311">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-1311">
 
 ---
 ## CVE-2026-1306 ()
