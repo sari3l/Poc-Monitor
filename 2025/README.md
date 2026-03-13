@@ -654,7 +654,7 @@
 - [qalesyaSN/CVE-2025-6934](https://github.com/qalesyaSN/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/qalesyaSN/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/qalesyaSN/CVE-2025-6934">
 - [1atakan1/CVE-2025-6934](https://github.com/1atakan1/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/1atakan1/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/1atakan1/CVE-2025-6934">
 - [y0uki-sec/CVE-2025-6934](https://github.com/y0uki-sec/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/y0uki-sec/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/y0uki-sec/CVE-2025-6934">
-- [0x02x/CVE-2025-6934](https://github.com/0x02x/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/0x02x/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/0x02x/CVE-2025-6934">
+- [0xTerror/CVE-2025-6934](https://github.com/0xTerror/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/0xTerror/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/0xTerror/CVE-2025-6934">
 
 ---
 ## CVE-2025-69295 ()
