@@ -6990,6 +6990,7 @@
 ## CVE-2025-31722 ()
 > 
 - [Nick6371/CVE-2025-31722](https://github.com/Nick6371/CVE-2025-31722)	<img alt="forks" src="https://img.shields.io/github/forks/Nick6371/CVE-2025-31722">	<img alt="stars" src="https://img.shields.io/github/stars/Nick6371/CVE-2025-31722">
+- [h3raklez/CVE-2025-31722](https://github.com/h3raklez/CVE-2025-31722)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2025-31722">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2025-31722">
 
 ---
 ## CVE-2025-31702 ()
