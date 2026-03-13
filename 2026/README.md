@@ -154,6 +154,7 @@
 - [manbahadurthapa1248/CVE-2026-29000---pac4j-jwt-Authentication-Bypass-PoC](https://github.com/manbahadurthapa1248/CVE-2026-29000---pac4j-jwt-Authentication-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/manbahadurthapa1248/CVE-2026-29000---pac4j-jwt-Authentication-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/manbahadurthapa1248/CVE-2026-29000---pac4j-jwt-Authentication-Bypass-PoC">
 - [Crims-on/CVE-2026-29000](https://github.com/Crims-on/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/Crims-on/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/Crims-on/CVE-2026-29000">
 - [alihussainzada/CVE-2026-29000-Python-PoC-pac4j-JWT-AuthenticationBypass-Poc](https://github.com/alihussainzada/CVE-2026-29000-Python-PoC-pac4j-JWT-AuthenticationBypass-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/alihussainzada/CVE-2026-29000-Python-PoC-pac4j-JWT-AuthenticationBypass-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/alihussainzada/CVE-2026-29000-Python-PoC-pac4j-JWT-AuthenticationBypass-Poc">
+- [otuva/CVE-2026-29000](https://github.com/otuva/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/otuva/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/otuva/CVE-2026-29000">
 
 ---
 ## CVE-2026-2898 ()
