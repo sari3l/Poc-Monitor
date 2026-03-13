@@ -2544,6 +2544,11 @@
 - [allinsthon/CVE-2025-59285](https://github.com/allinsthon/CVE-2025-59285)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-59285">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-59285">
 
 ---
+## CVE-2025-59284 ()
+> 
+- [lytnc/CVE-2025-59284-PoC](https://github.com/lytnc/CVE-2025-59284-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lytnc/CVE-2025-59284-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lytnc/CVE-2025-59284-PoC">
+
+---
 ## CVE-2025-59253 ()
 > 
 - [zigzagymym1986/CVE-2025-59253](https://github.com/zigzagymym1986/CVE-2025-59253)	<img alt="forks" src="https://img.shields.io/github/forks/zigzagymym1986/CVE-2025-59253">	<img alt="stars" src="https://img.shields.io/github/stars/zigzagymym1986/CVE-2025-59253">
