@@ -9803,6 +9803,11 @@
 - [matejsmycka/PoC-CVE-2025-12097](https://github.com/matejsmycka/PoC-CVE-2025-12097)	<img alt="forks" src="https://img.shields.io/github/forks/matejsmycka/PoC-CVE-2025-12097">	<img alt="stars" src="https://img.shields.io/github/stars/matejsmycka/PoC-CVE-2025-12097">
 
 ---
+## CVE-2025-12057 ()
+> 
+- [DeadExpl0it/CVE-2025-12057-WordPress-Exploit-PoC](https://github.com/DeadExpl0it/CVE-2025-12057-WordPress-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2025-12057-WordPress-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2025-12057-WordPress-Exploit-PoC">
+
+---
 ## CVE-2025-12030 ()
 > 
 - [SnailSploit/CVE-2025-12030](https://github.com/SnailSploit/CVE-2025-12030)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-12030">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-12030">
