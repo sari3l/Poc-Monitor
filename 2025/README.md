@@ -618,6 +618,7 @@
 ## CVE-2025-69516 ()
 > 
 - [NtGabrielGomes/CVE-2025-69516](https://github.com/NtGabrielGomes/CVE-2025-69516)	<img alt="forks" src="https://img.shields.io/github/forks/NtGabrielGomes/CVE-2025-69516">	<img alt="stars" src="https://img.shields.io/github/stars/NtGabrielGomes/CVE-2025-69516">
+- [SNISS/CVE-2025-69516](https://github.com/SNISS/CVE-2025-69516)	<img alt="forks" src="https://img.shields.io/github/forks/SNISS/CVE-2025-69516">	<img alt="stars" src="https://img.shields.io/github/stars/SNISS/CVE-2025-69516">
 
 ---
 ## CVE-2025-69460 ()

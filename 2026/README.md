@@ -204,7 +204,7 @@
 > 
 - [weefunker/CVE-2026-27944-Lab](https://github.com/weefunker/CVE-2026-27944-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/weefunker/CVE-2026-27944-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/weefunker/CVE-2026-27944-Lab">
 - [NULL200OK/CVE-2026-27944](https://github.com/NULL200OK/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-27944">
-- [Skynoxk/CVE-2026-27944-POC](https://github.com/Skynoxk/CVE-2026-27944-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Skynoxk/CVE-2026-27944-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Skynoxk/CVE-2026-27944-POC">
+- [Skynoxk/CVE-2026-27944](https://github.com/Skynoxk/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/Skynoxk/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/Skynoxk/CVE-2026-27944">
 - [NULL200OK/-nginxui_discover](https://github.com/NULL200OK/-nginxui_discover)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/-nginxui_discover">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/-nginxui_discover">
 
 ---
