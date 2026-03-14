@@ -4200,6 +4200,11 @@
 - [Live-Hack-CVE/CVE-2020-15113](https://github.com/Live-Hack-CVE/CVE-2020-15113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15113">
 
 ---
+## CVE-2020-15099 ()
+> 
+- [StillSoul/CVE-2020-15099](https://github.com/StillSoul/CVE-2020-15099)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2020-15099">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2020-15099">
+
+---
 ## CVE-2020-15087 (2020-06-30T17:15:00)
 > In Presto before version 337, authenticated users can bypass authorization checks by directly accessing internal APIs. This impacts Presto server installations with secure internal communication configured. This does not affect installations that have not configured secure internal communication, as these installations are inherently insecure. This only affects Presto server installations. This does NOT affect clients such as the CLI or JDBC driver. This vulnerability has been fixed in version 337. Additionally, this issue can be mitigated by blocking network access to internal APIs on the coordinator and workers.
 - [Live-Hack-CVE/CVE-2020-15087](https://github.com/Live-Hack-CVE/CVE-2020-15087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15087">
