@@ -9324,6 +9324,7 @@
 - [guiimoraes/CVE-2025-15467](https://github.com/guiimoraes/CVE-2025-15467)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/CVE-2025-15467">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/CVE-2025-15467">
 - [MAXI8594/CVE-2025-15467_Scan](https://github.com/MAXI8594/CVE-2025-15467_Scan)	<img alt="forks" src="https://img.shields.io/github/forks/MAXI8594/CVE-2025-15467_Scan">	<img alt="stars" src="https://img.shields.io/github/stars/MAXI8594/CVE-2025-15467_Scan">
 - [mr-r3b00t/CVE-2025-15467](https://github.com/mr-r3b00t/CVE-2025-15467)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2025-15467">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2025-15467">
+- [materaj2/cve-2025-15467](https://github.com/materaj2/cve-2025-15467)	<img alt="forks" src="https://img.shields.io/github/forks/materaj2/cve-2025-15467">	<img alt="stars" src="https://img.shields.io/github/stars/materaj2/cve-2025-15467">
 
 ---
 ## CVE-2025-15406 ()
