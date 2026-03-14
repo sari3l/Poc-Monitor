@@ -3187,6 +3187,7 @@
 - [LorenzoPorrasDuque/CVE-2025-5548-POC](https://github.com/LorenzoPorrasDuque/CVE-2025-5548-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LorenzoPorrasDuque/CVE-2025-5548-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LorenzoPorrasDuque/CVE-2025-5548-POC">
 - [celiagomezserra/CVE-2025-5548](https://github.com/celiagomezserra/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/celiagomezserra/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/celiagomezserra/CVE-2025-5548">
 - [ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548](https://github.com/ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548">
+- [alfa8sa/CVE-2025-5548](https://github.com/alfa8sa/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alfa8sa/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alfa8sa/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
