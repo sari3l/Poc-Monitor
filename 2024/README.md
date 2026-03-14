@@ -8798,6 +8798,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 > A type confusion issue was addressed with improved checks. This issue is fixed in tvOS 17.3, iOS 17.3 and iPadOS 17.3, macOS Sonoma 14.3, iOS 16.7.5 and iPadOS 16.7.5, Safari 17.3, macOS Ventura 13.6.4, macOS Monterey 12.7.3. Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited.
 - [supportmango/CVE-2024-23222-patch](https://github.com/supportmango/CVE-2024-23222-patch)	<img alt="forks" src="https://img.shields.io/github/forks/supportmango/CVE-2024-23222-patch">	<img alt="stars" src="https://img.shields.io/github/stars/supportmango/CVE-2024-23222-patch">
 - [Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated](https://github.com/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated">
+- [FuzzySecurity/Cassowary-CVE-2024-23222-x86_64](https://github.com/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64)	<img alt="forks" src="https://img.shields.io/github/forks/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64">	<img alt="stars" src="https://img.shields.io/github/stars/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64">
 
 ---
 ## CVE-2024-23208 (2024-01-23T01:15:00)
