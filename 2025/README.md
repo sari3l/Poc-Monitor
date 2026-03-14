@@ -688,6 +688,7 @@
 > 
 - [Chocapikk/CVE-2025-68926](https://github.com/Chocapikk/CVE-2025-68926)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-68926">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-68926">
 - [Arcueld/CVE-2025-68926](https://github.com/Arcueld/CVE-2025-68926)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-68926">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-68926">
+- [materaj2/CVE-2025-68926-repo](https://github.com/materaj2/CVE-2025-68926-repo)	<img alt="forks" src="https://img.shields.io/github/forks/materaj2/CVE-2025-68926-repo">	<img alt="stars" src="https://img.shields.io/github/stars/materaj2/CVE-2025-68926-repo">
 
 ---
 ## CVE-2025-68921 ()
