@@ -3181,6 +3181,7 @@
 > 
 - [TheMalwareGuardian/CVE-2025-5548](https://github.com/TheMalwareGuardian/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-5548">
 - [alanschmidt81/CVE-2025-5548](https://github.com/alanschmidt81/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alanschmidt81/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alanschmidt81/CVE-2025-5548">
+- [LorenzoPorrasDuque/CVE-2025-5548-POC](https://github.com/LorenzoPorrasDuque/CVE-2025-5548-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LorenzoPorrasDuque/CVE-2025-5548-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LorenzoPorrasDuque/CVE-2025-5548-POC">
 
 ---
 ## CVE-2025-55462 ()
