@@ -2192,6 +2192,7 @@
 - [lil0xplorer/CVE-2025-60787_PoC](https://github.com/lil0xplorer/CVE-2025-60787_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lil0xplorer/CVE-2025-60787_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lil0xplorer/CVE-2025-60787_PoC">
 - [d3vn0mi/CVE-2025-60787-POC](https://github.com/d3vn0mi/CVE-2025-60787-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2025-60787-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2025-60787-POC">
 - [gunzf0x/CVE-2025-60787](https://github.com/gunzf0x/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2025-60787">
+- [agent-skywalker/CVE-2025-60787](https://github.com/agent-skywalker/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/agent-skywalker/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/agent-skywalker/CVE-2025-60787">
 
 ---
 ## CVE-2025-60752 ()
