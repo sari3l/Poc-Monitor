@@ -3213,6 +3213,7 @@
 - [iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow](https://github.com/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow)	<img alt="forks" src="https://img.shields.io/github/forks/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow">	<img alt="stars" src="https://img.shields.io/github/stars/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow">
 - [JoseMartinez98/CVE_2025_5548](https://github.com/JoseMartinez98/CVE_2025_5548)	<img alt="forks" src="https://img.shields.io/github/forks/JoseMartinez98/CVE_2025_5548">	<img alt="stars" src="https://img.shields.io/github/stars/JoseMartinez98/CVE_2025_5548">
 - [Victor875/CVE-2025-5548](https://github.com/Victor875/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/Victor875/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/Victor875/CVE-2025-5548">
+- [mk017-hk/CVE-2025-5548](https://github.com/mk017-hk/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/mk017-hk/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/mk017-hk/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
@@ -9374,6 +9375,11 @@
 ## CVE-2025-15368 ()
 > 
 - [kazehere4you/CVE-2025-15368-Exploit](https://github.com/kazehere4you/CVE-2025-15368-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kazehere4you/CVE-2025-15368-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kazehere4you/CVE-2025-15368-Exploit">
+
+---
+## CVE-2025-15276 ()
+> 
+- [ahmedreda38/CVE-2025-15276-poc](https://github.com/ahmedreda38/CVE-2025-15276-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedreda38/CVE-2025-15276-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedreda38/CVE-2025-15276-poc">
 
 ---
 ## CVE-2025-15177 ()
