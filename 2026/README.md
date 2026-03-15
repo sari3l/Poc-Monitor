@@ -498,6 +498,11 @@
 - [DyniePro/CVE-2026-25643](https://github.com/DyniePro/CVE-2026-25643)	<img alt="forks" src="https://img.shields.io/github/forks/DyniePro/CVE-2026-25643">	<img alt="stars" src="https://img.shields.io/github/stars/DyniePro/CVE-2026-25643">
 
 ---
+## CVE-2026-25548 ()
+> 
+- [lagathos/CVE-2026-25548](https://github.com/lagathos/CVE-2026-25548)	<img alt="forks" src="https://img.shields.io/github/forks/lagathos/CVE-2026-25548">	<img alt="stars" src="https://img.shields.io/github/stars/lagathos/CVE-2026-25548">
+
+---
 ## CVE-2026-25546 ()
 > 
 - [mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection](https://github.com/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection">
