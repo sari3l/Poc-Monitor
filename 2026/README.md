@@ -498,6 +498,21 @@
 - [DyniePro/CVE-2026-25643](https://github.com/DyniePro/CVE-2026-25643)	<img alt="forks" src="https://img.shields.io/github/forks/DyniePro/CVE-2026-25643">	<img alt="stars" src="https://img.shields.io/github/stars/DyniePro/CVE-2026-25643">
 
 ---
+## CVE-2026-25596 ()
+> 
+- [lagathos/CVE-2026-25596](https://github.com/lagathos/CVE-2026-25596)	<img alt="forks" src="https://img.shields.io/github/forks/lagathos/CVE-2026-25596">	<img alt="stars" src="https://img.shields.io/github/stars/lagathos/CVE-2026-25596">
+
+---
+## CVE-2026-25595 ()
+> 
+- [lagathos/CVE-2026-25595](https://github.com/lagathos/CVE-2026-25595)	<img alt="forks" src="https://img.shields.io/github/forks/lagathos/CVE-2026-25595">	<img alt="stars" src="https://img.shields.io/github/stars/lagathos/CVE-2026-25595">
+
+---
+## CVE-2026-25594 ()
+> 
+- [lagathos/CVE-2026-25594](https://github.com/lagathos/CVE-2026-25594)	<img alt="forks" src="https://img.shields.io/github/forks/lagathos/CVE-2026-25594">	<img alt="stars" src="https://img.shields.io/github/stars/lagathos/CVE-2026-25594">
+
+---
 ## CVE-2026-25548 ()
 > 
 - [lagathos/CVE-2026-25548](https://github.com/lagathos/CVE-2026-25548)	<img alt="forks" src="https://img.shields.io/github/forks/lagathos/CVE-2026-25548">	<img alt="stars" src="https://img.shields.io/github/stars/lagathos/CVE-2026-25548">
