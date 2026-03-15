@@ -8118,6 +8118,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [Nxploited/CVE-2024-25092](https://github.com/Nxploited/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-25092">
 
 ---
+## CVE-2024-25082 ()
+> 
+- [AliElKhatteb/CVE-2024-25082_CVE-2024-25081](https://github.com/AliElKhatteb/CVE-2024-25082_CVE-2024-25081)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2024-25082_CVE-2024-25081">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2024-25082_CVE-2024-25081">
+
+---
 ## CVE-2024-24926 ()
 > 
 - [moften/CVE-2024-24926](https://github.com/moften/CVE-2024-24926)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2024-24926">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2024-24926">
