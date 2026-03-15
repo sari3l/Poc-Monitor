@@ -1225,6 +1225,11 @@
 - [BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX](https://github.com/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX)	<img alt="forks" src="https://img.shields.io/github/forks/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX">	<img alt="stars" src="https://img.shields.io/github/stars/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX">
 
 ---
+## CVE-2025-66034 ()
+> 
+- [symphony2colour/fonttools-varlib-cve-2025-66034-rce.py](https://github.com/symphony2colour/fonttools-varlib-cve-2025-66034-rce.py)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/fonttools-varlib-cve-2025-66034-rce.py">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/fonttools-varlib-cve-2025-66034-rce.py">
+
+---
 ## CVE-2025-66022 ()
 > 
 - [wasfyelbaz/CVE-2025-66022](https://github.com/wasfyelbaz/CVE-2025-66022)	<img alt="forks" src="https://img.shields.io/github/forks/wasfyelbaz/CVE-2025-66022">	<img alt="stars" src="https://img.shields.io/github/stars/wasfyelbaz/CVE-2025-66022">
