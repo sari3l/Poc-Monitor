@@ -81,6 +81,11 @@
 - [HiZisec/CVE-2026-3224-Exploit](https://github.com/HiZisec/CVE-2026-3224-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HiZisec/CVE-2026-3224-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HiZisec/CVE-2026-3224-Exploit">
 
 ---
+## CVE-2026-31899 ()
+> 
+- [SnailSploit/CVE-2026-31899](https://github.com/SnailSploit/CVE-2026-31899)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-31899">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-31899">
+
+---
 ## CVE-2026-31844 ()
 > 
 - [Mothra-1/CVE-2026-31844](https://github.com/Mothra-1/CVE-2026-31844)	<img alt="forks" src="https://img.shields.io/github/forks/Mothra-1/CVE-2026-31844">	<img alt="stars" src="https://img.shields.io/github/stars/Mothra-1/CVE-2026-31844">
