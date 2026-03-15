@@ -1132,6 +1132,11 @@
 - [hamzamalik3461/CVE-2026-20841](https://github.com/hamzamalik3461/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/hamzamalik3461/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/hamzamalik3461/CVE-2026-20841">
 
 ---
+## CVE-2026-20833 ()
+> 
+- [v-jfanca/cve-2026-20833-rc4-kerberos](https://github.com/v-jfanca/cve-2026-20833-rc4-kerberos)	<img alt="forks" src="https://img.shields.io/github/forks/v-jfanca/cve-2026-20833-rc4-kerberos">	<img alt="stars" src="https://img.shields.io/github/stars/v-jfanca/cve-2026-20833-rc4-kerberos">
+
+---
 ## CVE-2026-20817 ()
 > 
 - [oxfemale/CVE-2026-20817](https://github.com/oxfemale/CVE-2026-20817)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/CVE-2026-20817">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/CVE-2026-20817">
