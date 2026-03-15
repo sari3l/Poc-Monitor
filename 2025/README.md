@@ -3842,6 +3842,7 @@
 - [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 - [luoqichen/CVE-2025-55182-POC](https://github.com/luoqichen/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/luoqichen/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/luoqichen/CVE-2025-55182-POC">
 - [lutraat/CVE-2025-55182-React-RSC-Exploit](https://github.com/lutraat/CVE-2025-55182-React-RSC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lutraat/CVE-2025-55182-React-RSC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lutraat/CVE-2025-55182-React-RSC-Exploit">
+- [orgito1015/CVE-2025-55182-Researching-process](https://github.com/orgito1015/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-Researching-process">
 
 ---
 ## CVE-2025-55130 ()

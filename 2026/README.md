@@ -45,6 +45,11 @@
 - [HiZisec/CVE-2026-3847-Poc](https://github.com/HiZisec/CVE-2026-3847-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/HiZisec/CVE-2026-3847-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/HiZisec/CVE-2026-3847-Poc">
 
 ---
+## CVE-2026-3796 ()
+> 
+- [cwjchoi01/CVE-2026-3796](https://github.com/cwjchoi01/CVE-2026-3796)	<img alt="forks" src="https://img.shields.io/github/forks/cwjchoi01/CVE-2026-3796">	<img alt="stars" src="https://img.shields.io/github/stars/cwjchoi01/CVE-2026-3796">
+
+---
 ## CVE-2026-3786 ()
 > 
 - [snapdowgg/CVE-2026-3786](https://github.com/snapdowgg/CVE-2026-3786)	<img alt="forks" src="https://img.shields.io/github/forks/snapdowgg/CVE-2026-3786">	<img alt="stars" src="https://img.shields.io/github/stars/snapdowgg/CVE-2026-3786">
