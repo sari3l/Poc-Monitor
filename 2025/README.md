@@ -3212,6 +3212,7 @@
 - [alfa8sa/CVE-2025-5548](https://github.com/alfa8sa/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alfa8sa/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alfa8sa/CVE-2025-5548">
 - [iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow](https://github.com/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow)	<img alt="forks" src="https://img.shields.io/github/forks/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow">	<img alt="stars" src="https://img.shields.io/github/stars/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow">
 - [JoseMartinez98/CVE_2025_5548](https://github.com/JoseMartinez98/CVE_2025_5548)	<img alt="forks" src="https://img.shields.io/github/forks/JoseMartinez98/CVE_2025_5548">	<img alt="stars" src="https://img.shields.io/github/stars/JoseMartinez98/CVE_2025_5548">
+- [Victor875/CVE-2025-5548](https://github.com/Victor875/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/Victor875/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/Victor875/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
@@ -5399,6 +5400,11 @@
 ## CVE-2025-47423 ()
 > 
 - [Haluka92/CVE-2025-47423](https://github.com/Haluka92/CVE-2025-47423)	<img alt="forks" src="https://img.shields.io/github/forks/Haluka92/CVE-2025-47423">	<img alt="stars" src="https://img.shields.io/github/stars/Haluka92/CVE-2025-47423">
+
+---
+## CVE-2025-47273 ()
+> 
+- [AliElKhatteb/CVE-2025-47273-POC](https://github.com/AliElKhatteb/CVE-2025-47273-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2025-47273-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2025-47273-POC">
 
 ---
 ## CVE-2025-47256 ()
@@ -9924,6 +9930,11 @@
 - [callinston/CVE-2025-11371](https://github.com/callinston/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-11371">
 - [NetVanguard-cmd/CVE-2025-11371](https://github.com/NetVanguard-cmd/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-11371">
 - [lap1nou/CVE-2025-11371](https://github.com/lap1nou/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/lap1nou/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/lap1nou/CVE-2025-11371">
+
+---
+## CVE-2025-11187 ()
+> 
+- [metadust/CVE-2025-11187](https://github.com/metadust/CVE-2025-11187)	<img alt="forks" src="https://img.shields.io/github/forks/metadust/CVE-2025-11187">	<img alt="stars" src="https://img.shields.io/github/stars/metadust/CVE-2025-11187">
 
 ---
 ## CVE-2025-11174 ()
