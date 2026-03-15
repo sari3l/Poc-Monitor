@@ -5406,6 +5406,7 @@
 ## CVE-2025-47273 ()
 > 
 - [AliElKhatteb/CVE-2025-47273-POC](https://github.com/AliElKhatteb/CVE-2025-47273-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2025-47273-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2025-47273-POC">
+- [ahmedreda38/CVE-2025-47273-PoC](https://github.com/ahmedreda38/CVE-2025-47273-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedreda38/CVE-2025-47273-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedreda38/CVE-2025-47273-PoC">
 
 ---
 ## CVE-2025-47256 ()
