@@ -2640,6 +2640,13 @@
 - [ph-hitachi/CVE-2025-58440](https://github.com/ph-hitachi/CVE-2025-58440)	<img alt="forks" src="https://img.shields.io/github/forks/ph-hitachi/CVE-2025-58440">	<img alt="stars" src="https://img.shields.io/github/stars/ph-hitachi/CVE-2025-58440">
 
 ---
+## CVE-2025-5844 ()
+> 
+- [KeyFrame-Bytes/CVE-2025-5844](https://github.com/KeyFrame-Bytes/CVE-2025-5844)	<img alt="forks" src="https://img.shields.io/github/forks/KeyFrame-Bytes/CVE-2025-5844">	<img alt="stars" src="https://img.shields.io/github/stars/KeyFrame-Bytes/CVE-2025-5844">
+- [casp3r0x0/CVE-2025-58443](https://github.com/casp3r0x0/CVE-2025-58443)	<img alt="forks" src="https://img.shields.io/github/forks/casp3r0x0/CVE-2025-58443">	<img alt="stars" src="https://img.shields.io/github/stars/casp3r0x0/CVE-2025-58443">
+- [ph-hitachi/CVE-2025-58440](https://github.com/ph-hitachi/CVE-2025-58440)	<img alt="forks" src="https://img.shields.io/github/forks/ph-hitachi/CVE-2025-58440">	<img alt="stars" src="https://img.shields.io/github/stars/ph-hitachi/CVE-2025-58440">
+
+---
 ## CVE-2025-58434 ()
 > 
 - [nltt-br/CVE-2025-58434-CVE-2025-59528-chain](https://github.com/nltt-br/CVE-2025-58434-CVE-2025-59528-chain)	<img alt="forks" src="https://img.shields.io/github/forks/nltt-br/CVE-2025-58434-CVE-2025-59528-chain">	<img alt="stars" src="https://img.shields.io/github/stars/nltt-br/CVE-2025-58434-CVE-2025-59528-chain">
