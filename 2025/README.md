@@ -1227,7 +1227,7 @@
 ---
 ## CVE-2025-66034 ()
 > 
-- [symphony2colour/fonttools-varlib-cve-2025-66034-rce.py](https://github.com/symphony2colour/fonttools-varlib-cve-2025-66034-rce.py)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/fonttools-varlib-cve-2025-66034-rce.py">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/fonttools-varlib-cve-2025-66034-rce.py">
+- [symphony2colour/varlib-cve-2025-66034](https://github.com/symphony2colour/varlib-cve-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/varlib-cve-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/varlib-cve-2025-66034">
 
 ---
 ## CVE-2025-66022 ()
@@ -2391,6 +2391,11 @@
 > 
 - [ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection](https://github.com/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection">
 - [Ashwesker/Ashwesker-CVE-2025-60021](https://github.com/Ashwesker/Ashwesker-CVE-2025-60021)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-60021">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-60021">
+
+---
+## CVE-2025-60012 ()
+> 
+- [sid6224/CVE-2025-60012-POC](https://github.com/sid6224/CVE-2025-60012-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sid6224/CVE-2025-60012-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sid6224/CVE-2025-60012-POC">
 
 ---
 ## CVE-2025-59934 ()
