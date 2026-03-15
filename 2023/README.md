@@ -1711,6 +1711,9 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [CCIEVoice2009/CVE-2023-46604](https://github.com/CCIEVoice2009/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/CCIEVoice2009/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/CCIEVoice2009/CVE-2023-46604">
 - [pavanaa4k/CVE-2023-46604-LAB](https://github.com/pavanaa4k/CVE-2023-46604-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/pavanaa4k/CVE-2023-46604-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/pavanaa4k/CVE-2023-46604-LAB">
 - [vaishnavucv/Project-Vuln-Detection-N-Mitigation_101](https://github.com/vaishnavucv/Project-Vuln-Detection-N-Mitigation_101)	<img alt="forks" src="https://img.shields.io/github/forks/vaishnavucv/Project-Vuln-Detection-N-Mitigation_101">	<img alt="stars" src="https://img.shields.io/github/stars/vaishnavucv/Project-Vuln-Detection-N-Mitigation_101">
+- [sangrok-jeon/CVE-2023-46604-Analysis](https://github.com/sangrok-jeon/CVE-2023-46604-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sangrok-jeon/CVE-2023-46604-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sangrok-jeon/CVE-2023-46604-Analysis">
+- [fiza-naeem0902/Vulnerability-Assessment](https://github.com/fiza-naeem0902/Vulnerability-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/fiza-naeem0902/Vulnerability-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/fiza-naeem0902/Vulnerability-Assessment">
+- [RockyDesigne/SSP-Assignment-3-RCEYouLater](https://github.com/RockyDesigne/SSP-Assignment-3-RCEYouLater)	<img alt="forks" src="https://img.shields.io/github/forks/RockyDesigne/SSP-Assignment-3-RCEYouLater">	<img alt="stars" src="https://img.shields.io/github/stars/RockyDesigne/SSP-Assignment-3-RCEYouLater">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)
