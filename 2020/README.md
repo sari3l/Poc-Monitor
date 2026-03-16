@@ -1031,6 +1031,7 @@
 - [B1ack4sh/Blackash-CVE-2020-5902](https://github.com/B1ack4sh/Blackash-CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2020-5902">
 - [Josekutty-K/f5-Big-IP-Unauth-RCE-Checker](https://github.com/Josekutty-K/f5-Big-IP-Unauth-RCE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Josekutty-K/f5-Big-IP-Unauth-RCE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Josekutty-K/f5-Big-IP-Unauth-RCE-Checker">
 - [zaryouhashraf/CVE-2020-5902](https://github.com/zaryouhashraf/CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2020-5902">
+- [0xAshwesker/CVE-2020-5902](https://github.com/0xAshwesker/CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2020-5902">
 
 ---
 ## CVE-2020-5847 (2020-03-16T18:15:00)

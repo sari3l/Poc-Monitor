@@ -3216,6 +3216,8 @@
 - [Victor875/CVE-2025-5548](https://github.com/Victor875/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/Victor875/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/Victor875/CVE-2025-5548">
 - [mk017-hk/CVE-2025-5548](https://github.com/mk017-hk/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/mk017-hk/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/mk017-hk/CVE-2025-5548">
 - [javyan05/CVE-2025-5548](https://github.com/javyan05/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/javyan05/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/javyan05/CVE-2025-5548">
+- [jgs-developer/CVE-2025-5548](https://github.com/jgs-developer/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/jgs-developer/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/jgs-developer/CVE-2025-5548">
+- [anasrami12/CVE-2025-5548](https://github.com/anasrami12/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/anasrami12/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/anasrami12/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
