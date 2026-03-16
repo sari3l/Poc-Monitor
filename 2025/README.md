@@ -1234,6 +1234,7 @@
 > 
 - [symphony2colour/varlib-cve-2025-66034](https://github.com/symphony2colour/varlib-cve-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/varlib-cve-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/varlib-cve-2025-66034">
 - [manbahadurthapa1248/CVE-2025-66034-Poc-to-Get-RCE-for-HTB-VariaType](https://github.com/manbahadurthapa1248/CVE-2025-66034-Poc-to-Get-RCE-for-HTB-VariaType)	<img alt="forks" src="https://img.shields.io/github/forks/manbahadurthapa1248/CVE-2025-66034-Poc-to-Get-RCE-for-HTB-VariaType">	<img alt="stars" src="https://img.shields.io/github/stars/manbahadurthapa1248/CVE-2025-66034-Poc-to-Get-RCE-for-HTB-VariaType">
+- [Liquid1998/Variatype.htb-CVE-2025-66034](https://github.com/Liquid1998/Variatype.htb-CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/Liquid1998/Variatype.htb-CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/Liquid1998/Variatype.htb-CVE-2025-66034">
 
 ---
 ## CVE-2025-66022 ()
