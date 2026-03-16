@@ -91,6 +91,11 @@
 - [HiZisec/CVE-2026-3224-Exploit](https://github.com/HiZisec/CVE-2026-3224-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HiZisec/CVE-2026-3224-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HiZisec/CVE-2026-3224-Exploit">
 
 ---
+## CVE-2026-32127 ()
+> 
+- [ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0](https://github.com/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0">
+
+---
 ## CVE-2026-31899 ()
 > 
 - [SnailSploit/CVE-2026-31899](https://github.com/SnailSploit/CVE-2026-31899)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-31899">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-31899">
@@ -747,6 +752,7 @@
 - [setuju/telnetd](https://github.com/setuju/telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/setuju/telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/setuju/telnetd">
 - [Remnant-DB/CVE-2026-24061](https://github.com/Remnant-DB/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2026-24061">
 - [0xAshwesker/CVE-2026-24061](https://github.com/0xAshwesker/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-24061">
+- [HD0x01/CVE-2026-24061-NSE](https://github.com/HD0x01/CVE-2026-24061-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/HD0x01/CVE-2026-24061-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/HD0x01/CVE-2026-24061-NSE">
 
 ---
 ## CVE-2026-2406 ()

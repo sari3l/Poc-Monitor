@@ -4638,6 +4638,11 @@
 - [shinyColumn/CVE-2025-50944](https://github.com/shinyColumn/CVE-2025-50944)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-50944">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-50944">
 
 ---
+## CVE-2025-50881 ()
+> 
+- [0xdeadbit/CVE-2025-50881](https://github.com/0xdeadbit/CVE-2025-50881)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeadbit/CVE-2025-50881">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeadbit/CVE-2025-50881">
+
+---
 ## CVE-2025-50867 ()
 > 
 - [SacX-7/CVE-2025-50867](https://github.com/SacX-7/CVE-2025-50867)	<img alt="forks" src="https://img.shields.io/github/forks/SacX-7/CVE-2025-50867">	<img alt="stars" src="https://img.shields.io/github/stars/SacX-7/CVE-2025-50867">
