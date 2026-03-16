@@ -8121,6 +8121,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-25082 ()
 > 
 - [AliElKhatteb/CVE-2024-25082_CVE-2024-25081](https://github.com/AliElKhatteb/CVE-2024-25082_CVE-2024-25081)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2024-25082_CVE-2024-25081">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2024-25082_CVE-2024-25081">
+- [moamenx8/CVE-2024-25082](https://github.com/moamenx8/CVE-2024-25082)	<img alt="forks" src="https://img.shields.io/github/forks/moamenx8/CVE-2024-25082">	<img alt="stars" src="https://img.shields.io/github/stars/moamenx8/CVE-2024-25082">
 
 ---
 ## CVE-2024-24926 ()
