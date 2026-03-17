@@ -1225,6 +1225,11 @@
 - [retX0/CVE-2026-20660](https://github.com/retX0/CVE-2026-20660)	<img alt="forks" src="https://img.shields.io/github/forks/retX0/CVE-2026-20660">	<img alt="stars" src="https://img.shields.io/github/stars/retX0/CVE-2026-20660">
 
 ---
+## CVE-2026-20643 ()
+> 
+- [zeroxjf/bsi-CVE-2026-20643](https://github.com/zeroxjf/bsi-CVE-2026-20643)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/bsi-CVE-2026-20643">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/bsi-CVE-2026-20643">
+
+---
 ## CVE-2026-2058 ()
 > 
 - [carlosalbertotuma/CVE-2026-2058-PoC](https://github.com/carlosalbertotuma/CVE-2026-2058-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/carlosalbertotuma/CVE-2026-2058-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/carlosalbertotuma/CVE-2026-2058-PoC">
