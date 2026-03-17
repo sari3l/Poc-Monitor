@@ -8272,6 +8272,11 @@
 - [lkasjkasj/CVE-2025-25369](https://github.com/lkasjkasj/CVE-2025-25369)	<img alt="forks" src="https://img.shields.io/github/forks/lkasjkasj/CVE-2025-25369">	<img alt="stars" src="https://img.shields.io/github/stars/lkasjkasj/CVE-2025-25369">
 
 ---
+## CVE-2025-25347 ()
+> 
+- [Yetazyyy/CVE-2025-25347](https://github.com/Yetazyyy/CVE-2025-25347)	<img alt="forks" src="https://img.shields.io/github/forks/Yetazyyy/CVE-2025-25347">	<img alt="stars" src="https://img.shields.io/github/stars/Yetazyyy/CVE-2025-25347">
+
+---
 ## CVE-2025-25296 ()
 > 
 - [math-x-io/CVE-2025-25296-POC](https://github.com/math-x-io/CVE-2025-25296-POC)	<img alt="forks" src="https://img.shields.io/github/forks/math-x-io/CVE-2025-25296-POC">	<img alt="stars" src="https://img.shields.io/github/stars/math-x-io/CVE-2025-25296-POC">
