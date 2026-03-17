@@ -7537,6 +7537,7 @@
 - [Si-Ni/CVE-2025-29927-Proof-of-Concept](https://github.com/Si-Ni/CVE-2025-29927-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/Si-Ni/CVE-2025-29927-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/Si-Ni/CVE-2025-29927-Proof-of-Concept">
 - [dbwlsdnr95/CVE-2025-29927](https://github.com/dbwlsdnr95/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/dbwlsdnr95/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/dbwlsdnr95/CVE-2025-29927">
 - [sangrok-jeon/CVE-2025-29927-Nextjs-Analysis](https://github.com/sangrok-jeon/CVE-2025-29927-Nextjs-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sangrok-jeon/CVE-2025-29927-Nextjs-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sangrok-jeon/CVE-2025-29927-Nextjs-Analysis">
+- [Toddkk02/CVE-2025-29927](https://github.com/Toddkk02/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Toddkk02/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Toddkk02/CVE-2025-29927">
 
 ---
 ## CVE-2025-29891 ()

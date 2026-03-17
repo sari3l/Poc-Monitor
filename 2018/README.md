@@ -328,6 +328,11 @@
 - [thistehneisen/CVE-2018-6789-Python3](https://github.com/thistehneisen/CVE-2018-6789-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/thistehneisen/CVE-2018-6789-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/thistehneisen/CVE-2018-6789-Python3">
 
 ---
+## CVE-2018-6606 ()
+> 
+- [bullhead-repo/CVE-2018-6606](https://github.com/bullhead-repo/CVE-2018-6606)	<img alt="forks" src="https://img.shields.io/github/forks/bullhead-repo/CVE-2018-6606">	<img alt="stars" src="https://img.shields.io/github/stars/bullhead-repo/CVE-2018-6606">
+
+---
 ## CVE-2018-6574 (2018-02-07T21:29:00)
 > Go before 1.8.7, Go 1.9.x before 1.9.4, and Go 1.10 pre-releases before Go 1.10rc2 allow "go get" remote command execution during source code build, by leveraging the gcc or clang plugin feature, because -fplugin= and -plugin= arguments were not blocked.
 - [NBAquicknut/CVE-2018-6574](https://github.com/NBAquicknut/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/NBAquicknut/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/NBAquicknut/CVE-2018-6574">
