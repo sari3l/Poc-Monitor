@@ -3223,6 +3223,7 @@
 - [Diego57709/CVE-2025-5548](https://github.com/Diego57709/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/Diego57709/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/Diego57709/CVE-2025-5548">
 - [Diego57709/CVE-2025-5548](https://github.com/Diego57709/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/Diego57709/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/Diego57709/CVE-2025-5548">
 - [alberto-galindo/CVE-2025-5548](https://github.com/alberto-galindo/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alberto-galindo/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alberto-galindo/CVE-2025-5548">
+- [elrajiii/CVE-2025-5548](https://github.com/elrajiii/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/elrajiii/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/elrajiii/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
