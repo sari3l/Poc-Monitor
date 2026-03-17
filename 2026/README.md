@@ -151,9 +151,19 @@
 - [Named1ess/CVE-2026-30741](https://github.com/Named1ess/CVE-2026-30741)	<img alt="forks" src="https://img.shields.io/github/forks/Named1ess/CVE-2026-30741">	<img alt="stars" src="https://img.shields.io/github/stars/Named1ess/CVE-2026-30741">
 
 ---
+## CVE-2026-30695 ()
+> 
+- [iremnurylmz/CVE-2026-30695](https://github.com/iremnurylmz/CVE-2026-30695)	<img alt="forks" src="https://img.shields.io/github/forks/iremnurylmz/CVE-2026-30695">	<img alt="stars" src="https://img.shields.io/github/stars/iremnurylmz/CVE-2026-30695">
+
+---
 ## CVE-2026-3062 ()
 > 
 - [z3r0h3ro/CVE-2026-3062-chain](https://github.com/z3r0h3ro/CVE-2026-3062-chain)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-3062-chain">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-3062-chain">
+
+---
+## CVE-2026-30048 ()
+> 
+- [0xN4no/CVE-2026-30048](https://github.com/0xN4no/CVE-2026-30048)	<img alt="forks" src="https://img.shields.io/github/forks/0xN4no/CVE-2026-30048">	<img alt="stars" src="https://img.shields.io/github/stars/0xN4no/CVE-2026-30048">
 
 ---
 ## CVE-2026-29786 ()
@@ -481,6 +491,11 @@
 ## CVE-2026-25807 ()
 > 
 - [ibrahmsql/CVE-2026-25807-Exploit](https://github.com/ibrahmsql/CVE-2026-25807-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2026-25807-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2026-25807-Exploit">
+
+---
+## CVE-2026-25769 ()
+> 
+- [hakaioffsec/CVE-2026-25769](https://github.com/hakaioffsec/CVE-2026-25769)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-25769">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-25769">
 
 ---
 ## CVE-2026-25746 ()
