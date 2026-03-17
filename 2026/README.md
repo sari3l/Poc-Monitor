@@ -71,6 +71,11 @@
 - [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
 
 ---
+## CVE-2026-32941 ()
+> 
+- [skoveit/CVE-2026-32941](https://github.com/skoveit/CVE-2026-32941)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-32941">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-32941">
+
+---
 ## CVE-2026-3288 ()
 > 
 - [SnailSploit/CVE-2026-3288](https://github.com/SnailSploit/CVE-2026-3288)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-3288">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-3288">
@@ -159,6 +164,11 @@
 ## CVE-2026-3062 ()
 > 
 - [z3r0h3ro/CVE-2026-3062-chain](https://github.com/z3r0h3ro/CVE-2026-3062-chain)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-3062-chain">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-3062-chain">
+
+---
+## CVE-2026-30345 ()
+> 
+- [syphonetic/CVE-2026-30345](https://github.com/syphonetic/CVE-2026-30345)	<img alt="forks" src="https://img.shields.io/github/forks/syphonetic/CVE-2026-30345">	<img alt="stars" src="https://img.shields.io/github/stars/syphonetic/CVE-2026-30345">
 
 ---
 ## CVE-2026-30048 ()
