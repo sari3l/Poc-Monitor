@@ -81,6 +81,11 @@
 - [SnailSploit/CVE-2026-3288](https://github.com/SnailSploit/CVE-2026-3288)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-3288">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-3288">
 
 ---
+## CVE-2026-32746 ()
+> 
+- [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
+
+---
 ## CVE-2026-32722 ()
 > 
 - [0xmrma/CVE-2026-32722](https://github.com/0xmrma/CVE-2026-32722)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-32722">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-32722">
