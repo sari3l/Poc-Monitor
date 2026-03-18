@@ -2479,6 +2479,8 @@
 - [zubairahm3d/apache-cve-2021-41773-lab](https://github.com/zubairahm3d/apache-cve-2021-41773-lab)	<img alt="forks" src="https://img.shields.io/github/forks/zubairahm3d/apache-cve-2021-41773-lab">	<img alt="stars" src="https://img.shields.io/github/stars/zubairahm3d/apache-cve-2021-41773-lab">
 - [Nanxsec/exploitApache](https://github.com/Nanxsec/exploitApache)	<img alt="forks" src="https://img.shields.io/github/forks/Nanxsec/exploitApache">	<img alt="stars" src="https://img.shields.io/github/stars/Nanxsec/exploitApache">
 - [Areeba-Zehra-Jafri/CVE-2021-41773---Apache-Path-Traversal---RCE](https://github.com/Areeba-Zehra-Jafri/CVE-2021-41773---Apache-Path-Traversal---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Areeba-Zehra-Jafri/CVE-2021-41773---Apache-Path-Traversal---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Areeba-Zehra-Jafri/CVE-2021-41773---Apache-Path-Traversal---RCE">
+- [sobanahmed6061/CVE-2021-41773-RedTeam](https://github.com/sobanahmed6061/CVE-2021-41773-RedTeam)	<img alt="forks" src="https://img.shields.io/github/forks/sobanahmed6061/CVE-2021-41773-RedTeam">	<img alt="stars" src="https://img.shields.io/github/stars/sobanahmed6061/CVE-2021-41773-RedTeam">
+- [abds059/APACHE-PATH-TRAVERSAL-RCE-CVE-2021-41773-](https://github.com/abds059/APACHE-PATH-TRAVERSAL-RCE-CVE-2021-41773-)	<img alt="forks" src="https://img.shields.io/github/forks/abds059/APACHE-PATH-TRAVERSAL-RCE-CVE-2021-41773-">	<img alt="stars" src="https://img.shields.io/github/stars/abds059/APACHE-PATH-TRAVERSAL-RCE-CVE-2021-41773-">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)

@@ -3229,6 +3229,7 @@
 - [charlyrr/CVE-2025-5548](https://github.com/charlyrr/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/charlyrr/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/charlyrr/CVE-2025-5548">
 - [x3nt4ur0/CVE-2025-5548](https://github.com/x3nt4ur0/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/x3nt4ur0/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/x3nt4ur0/CVE-2025-5548">
 - [FKShield/CVE-2025-5548](https://github.com/FKShield/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/FKShield/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/FKShield/CVE-2025-5548">
+- [jesusdominguez87/CVE-2025-5548](https://github.com/jesusdominguez87/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/jesusdominguez87/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/jesusdominguez87/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
