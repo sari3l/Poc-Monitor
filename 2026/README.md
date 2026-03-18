@@ -1201,6 +1201,11 @@
 - [v-jfanca/cve-2026-20833-rc4-kerberos](https://github.com/v-jfanca/cve-2026-20833-rc4-kerberos)	<img alt="forks" src="https://img.shields.io/github/forks/v-jfanca/cve-2026-20833-rc4-kerberos">	<img alt="stars" src="https://img.shields.io/github/stars/v-jfanca/cve-2026-20833-rc4-kerberos">
 
 ---
+## CVE-2026-20820 ()
+> 
+- [uname1able/CVE-2026-20820](https://github.com/uname1able/CVE-2026-20820)	<img alt="forks" src="https://img.shields.io/github/forks/uname1able/CVE-2026-20820">	<img alt="stars" src="https://img.shields.io/github/stars/uname1able/CVE-2026-20820">
+
+---
 ## CVE-2026-20817 ()
 > 
 - [oxfemale/CVE-2026-20817](https://github.com/oxfemale/CVE-2026-20817)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/CVE-2026-20817">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/CVE-2026-20817">
