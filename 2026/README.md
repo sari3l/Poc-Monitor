@@ -40,6 +40,11 @@
 - [joshuavanderpoll/CVE-2026-3891](https://github.com/joshuavanderpoll/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-3891">
 
 ---
+## CVE-2026-3888 ()
+> 
+- [fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.](https://github.com/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.">
+
+---
 ## CVE-2026-3847 ()
 > 
 - [HiZisec/CVE-2026-3847-Poc](https://github.com/HiZisec/CVE-2026-3847-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/HiZisec/CVE-2026-3847-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/HiZisec/CVE-2026-3847-Poc">
