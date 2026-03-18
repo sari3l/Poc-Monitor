@@ -186,6 +186,11 @@
 - [0xN4no/CVE-2026-30048](https://github.com/0xN4no/CVE-2026-30048)	<img alt="forks" src="https://img.shields.io/github/forks/0xN4no/CVE-2026-30048">	<img alt="stars" src="https://img.shields.io/github/stars/0xN4no/CVE-2026-30048">
 
 ---
+## CVE-2026-2991 ()
+> 
+- [joshuavanderpoll/CVE-2026-2991](https://github.com/joshuavanderpoll/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-2991">
+
+---
 ## CVE-2026-29786 ()
 > 
 - [Jvr2022/CVE-2026-29786](https://github.com/Jvr2022/CVE-2026-29786)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-29786">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-29786">
