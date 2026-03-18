@@ -1017,6 +1017,11 @@
 - [glitchhawks/CVE-2026-22153](https://github.com/glitchhawks/CVE-2026-22153)	<img alt="forks" src="https://img.shields.io/github/forks/glitchhawks/CVE-2026-22153">	<img alt="stars" src="https://img.shields.io/github/stars/glitchhawks/CVE-2026-22153">
 
 ---
+## CVE-2026-21994 ()
+> 
+- [TEXploited/CVE-2026-21994](https://github.com/TEXploited/CVE-2026-21994)	<img alt="forks" src="https://img.shields.io/github/forks/TEXploited/CVE-2026-21994">	<img alt="stars" src="https://img.shields.io/github/stars/TEXploited/CVE-2026-21994">
+
+---
 ## CVE-2026-21962 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21962](https://github.com/Ashwesker/Ashwesker-CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21962">
