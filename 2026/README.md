@@ -735,7 +735,8 @@
 ---
 ## CVE-2026-24291 ()
 > 
-- [LennertDefauw1/CVE-2026-24291](https://github.com/LennertDefauw1/CVE-2026-24291)	<img alt="forks" src="https://img.shields.io/github/forks/LennertDefauw1/CVE-2026-24291">	<img alt="stars" src="https://img.shields.io/github/stars/LennertDefauw1/CVE-2026-24291">
+- [lennertdefauw/CVE-2026-24291](https://github.com/lennertdefauw/CVE-2026-24291)	<img alt="forks" src="https://img.shields.io/github/forks/lennertdefauw/CVE-2026-24291">	<img alt="stars" src="https://img.shields.io/github/stars/lennertdefauw/CVE-2026-24291">
+- [n0isegat3/RegPwnBRc4BOF](https://github.com/n0isegat3/RegPwnBRc4BOF)	<img alt="forks" src="https://img.shields.io/github/forks/n0isegat3/RegPwnBRc4BOF">	<img alt="stars" src="https://img.shields.io/github/stars/n0isegat3/RegPwnBRc4BOF">
 
 ---
 ## CVE-2026-24135 ()

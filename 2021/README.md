@@ -6414,6 +6414,7 @@
 - [HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA](https://github.com/HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA)	<img alt="forks" src="https://img.shields.io/github/forks/HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA">	<img alt="stars" src="https://img.shields.io/github/stars/HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA">
 - [TheLeopard65/CVE-2021-3156-Baron-Samedit](https://github.com/TheLeopard65/CVE-2021-3156-Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/TheLeopard65/CVE-2021-3156-Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/TheLeopard65/CVE-2021-3156-Baron-Samedit">
 - [hackingyseguridad/root](https://github.com/hackingyseguridad/root)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/root">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/root">
+- [ngtuonghung/CVE-2021-3156](https://github.com/ngtuonghung/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
