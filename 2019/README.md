@@ -3682,6 +3682,7 @@ use after free.
 - [x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit](https://github.com/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit">
 - [Jorge2Rubio/CVE-2019-0232](https://github.com/Jorge2Rubio/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/Jorge2Rubio/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/Jorge2Rubio/CVE-2019-0232">
 - [Jorge2Rubio/CVE-2019-0232](https://github.com/Jorge2Rubio/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/Jorge2Rubio/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/Jorge2Rubio/CVE-2019-0232">
+- [r4vl1t0/CVE-2019-0232](https://github.com/r4vl1t0/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/r4vl1t0/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/r4vl1t0/CVE-2019-0232">
 
 ---
 ## CVE-2019-0230 (2020-09-14T17:15:00)

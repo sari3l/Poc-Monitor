@@ -2729,6 +2729,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [MarioTesoro/CVE-2024-48569](https://github.com/MarioTesoro/CVE-2024-48569)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-48569">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-48569">
 
 ---
+## CVE-2024-48510 ()
+> 
+- [havertz2110/CVE-2024-48510-PoC](https://github.com/havertz2110/CVE-2024-48510-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/havertz2110/CVE-2024-48510-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/havertz2110/CVE-2024-48510-PoC">
+
+---
 ## CVE-2024-48427 (2024-10-24T19:15:00)
 > A SQL injection vulnerability in Sourcecodester Packers and Movers Management System v1.0 allows remote authenticated users to execute arbitrary SQL commands via the id parameter in /mpms/admin/?page=services/manage_service&id
 - [vighneshnair7/CVE-2024-48427](https://github.com/vighneshnair7/CVE-2024-48427)	<img alt="forks" src="https://img.shields.io/github/forks/vighneshnair7/CVE-2024-48427">	<img alt="stars" src="https://img.shields.io/github/stars/vighneshnair7/CVE-2024-48427">
