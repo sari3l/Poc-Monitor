@@ -2017,6 +2017,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [plur1bu5/CVE-2024-51482-PoC](https://github.com/plur1bu5/CVE-2024-51482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/CVE-2024-51482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/CVE-2024-51482-PoC">
 - [Ravi-lk/CVE-2024-51482-ZoneMinder-v1.37.-1.37.64-SQL-Injection-POC](https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-v1.37.-1.37.64-SQL-Injection-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ravi-lk/CVE-2024-51482-ZoneMinder-v1.37.-1.37.64-SQL-Injection-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ravi-lk/CVE-2024-51482-ZoneMinder-v1.37.-1.37.64-SQL-Injection-POC">
 - [lnn0v4/sqli-hunter-CVE-2024-51482-PoC](https://github.com/lnn0v4/sqli-hunter-CVE-2024-51482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lnn0v4/sqli-hunter-CVE-2024-51482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lnn0v4/sqli-hunter-CVE-2024-51482-PoC">
+- [Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP](https://github.com/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP">
 
 ---
 ## CVE-2024-51442 ()
