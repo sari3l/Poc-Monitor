@@ -10152,6 +10152,11 @@
 - [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015)	<img alt="forks" src="https://img.shields.io/github/forks/r3m0t3nu11/CVE-2025-1015">	<img alt="stars" src="https://img.shields.io/github/stars/r3m0t3nu11/CVE-2025-1015">
 
 ---
+## CVE-2025-10147 ()
+> 
+- [ghostpel-sec/CVE-2025-10147](https://github.com/ghostpel-sec/CVE-2025-10147)	<img alt="forks" src="https://img.shields.io/github/forks/ghostpel-sec/CVE-2025-10147">	<img alt="stars" src="https://img.shields.io/github/stars/ghostpel-sec/CVE-2025-10147">
+
+---
 ## CVE-2025-10046 ()
 > 
 - [byteReaper77/CVE-2025-10046](https://github.com/byteReaper77/CVE-2025-10046)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-10046">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-10046">
