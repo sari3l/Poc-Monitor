@@ -580,6 +580,11 @@
 - [0xZeroSec/CVE-2025-69727](https://github.com/0xZeroSec/CVE-2025-69727)	<img alt="forks" src="https://img.shields.io/github/forks/0xZeroSec/CVE-2025-69727">	<img alt="stars" src="https://img.shields.io/github/stars/0xZeroSec/CVE-2025-69727">
 
 ---
+## CVE-2025-69720 ()
+> 
+- [Cao-Wuhui/CVE-2025-69720](https://github.com/Cao-Wuhui/CVE-2025-69720)	<img alt="forks" src="https://img.shields.io/github/forks/Cao-Wuhui/CVE-2025-69720">	<img alt="stars" src="https://img.shields.io/github/stars/Cao-Wuhui/CVE-2025-69720">
+
+---
 ## CVE-2025-6970 ()
 > 
 - [RandomRobbieBF/CVE-2025-6970](https://github.com/RandomRobbieBF/CVE-2025-6970)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-6970">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-6970">
