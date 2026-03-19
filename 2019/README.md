@@ -3409,6 +3409,7 @@ use after free.
 > An issue was discovered in Joomla! before 3.9.5. The Media Manager component does not properly sanitize the folder parameter, allowing attackers to act outside the media manager root directory.
 - [dpgg101/CVE-2019-10945](https://github.com/dpgg101/CVE-2019-10945)	<img alt="forks" src="https://img.shields.io/github/forks/dpgg101/CVE-2019-10945">	<img alt="stars" src="https://img.shields.io/github/stars/dpgg101/CVE-2019-10945">
 - [Snizi/CVE-2019-10945](https://github.com/Snizi/CVE-2019-10945)	<img alt="forks" src="https://img.shields.io/github/forks/Snizi/CVE-2019-10945">	<img alt="stars" src="https://img.shields.io/github/stars/Snizi/CVE-2019-10945">
+- [tayW84/CVE-2019-10945----Python3](https://github.com/tayW84/CVE-2019-10945----Python3)	<img alt="forks" src="https://img.shields.io/github/forks/tayW84/CVE-2019-10945----Python3">	<img alt="stars" src="https://img.shields.io/github/stars/tayW84/CVE-2019-10945----Python3">
 
 ---
 ## CVE-2019-10808 (2020-03-11T23:15:00)
