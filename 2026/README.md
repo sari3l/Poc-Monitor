@@ -733,6 +733,11 @@
 - [stephaniesahnihi/CVE-2026-24300](https://github.com/stephaniesahnihi/CVE-2026-24300)	<img alt="forks" src="https://img.shields.io/github/forks/stephaniesahnihi/CVE-2026-24300">	<img alt="stars" src="https://img.shields.io/github/stars/stephaniesahnihi/CVE-2026-24300">
 
 ---
+## CVE-2026-24291 ()
+> 
+- [LennertDefauw1/CVE-2026-24291](https://github.com/LennertDefauw1/CVE-2026-24291)	<img alt="forks" src="https://img.shields.io/github/forks/LennertDefauw1/CVE-2026-24291">	<img alt="stars" src="https://img.shields.io/github/stars/LennertDefauw1/CVE-2026-24291">
+
+---
 ## CVE-2026-24135 ()
 > 
 - [reschjonas/CVE-2026-24135](https://github.com/reschjonas/CVE-2026-24135)	<img alt="forks" src="https://img.shields.io/github/forks/reschjonas/CVE-2026-24135">	<img alt="stars" src="https://img.shields.io/github/stars/reschjonas/CVE-2026-24135">
