@@ -5145,6 +5145,11 @@
 - [gmh5225/CVE-2025-48799-](https://github.com/gmh5225/CVE-2025-48799-)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-48799-">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-48799-">
 
 ---
+## CVE-2025-48784 ()
+> 
+- [h3raklez/CVE-2025-48784](https://github.com/h3raklez/CVE-2025-48784)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2025-48784">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2025-48784">
+
+---
 ## CVE-2025-48769 ()
 > 
 - [b1gchoi/CVE-2025-48769](https://github.com/b1gchoi/CVE-2025-48769)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-48769">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-48769">
@@ -9924,6 +9929,11 @@
 - [Mr-In4inci3le/CVE-2025-11953-POC-](https://github.com/Mr-In4inci3le/CVE-2025-11953-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-In4inci3le/CVE-2025-11953-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-In4inci3le/CVE-2025-11953-POC-">
 - [boroeurnprach/CVE-2025-11953-PoC](https://github.com/boroeurnprach/CVE-2025-11953-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-11953-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-11953-PoC">
 - [N3k0t-dev/PoC-CVE-collection](https://github.com/N3k0t-dev/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/N3k0t-dev/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/N3k0t-dev/PoC-CVE-collection">
+
+---
+## CVE-2025-11926 ()
+> 
+- [prabhatverma47/CVE-2025-11926](https://github.com/prabhatverma47/CVE-2025-11926)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-11926">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-11926">
 
 ---
 ## CVE-2025-11877 ()
