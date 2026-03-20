@@ -5303,6 +5303,8 @@
 - [zr0n/CVE-2025-48384-sub](https://github.com/zr0n/CVE-2025-48384-sub)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/CVE-2025-48384-sub">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/CVE-2025-48384-sub">
 - [vignesh21-git/CVE-2025-48384-submodule](https://github.com/vignesh21-git/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/vignesh21-git/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/vignesh21-git/CVE-2025-48384-submodule">
 - [vignesh21-git/CVE-2025-48384](https://github.com/vignesh21-git/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/vignesh21-git/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/vignesh21-git/CVE-2025-48384">
+- [anthonyc53/cve-2025-48384](https://github.com/anthonyc53/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/anthonyc53/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/anthonyc53/cve-2025-48384">
+- [DayDayDayDreaming/backup-exec-cve-48384](https://github.com/DayDayDayDreaming/backup-exec-cve-48384)	<img alt="forks" src="https://img.shields.io/github/forks/DayDayDayDreaming/backup-exec-cve-48384">	<img alt="stars" src="https://img.shields.io/github/stars/DayDayDayDreaming/backup-exec-cve-48384">
 
 ---
 ## CVE-2025-4822 ()
