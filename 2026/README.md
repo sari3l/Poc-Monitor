@@ -1306,7 +1306,8 @@
 ---
 ## CVE-2026-20643 ()
 > 
-- [zeroxjf/bsi-CVE-2026-20643](https://github.com/zeroxjf/bsi-CVE-2026-20643)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/bsi-CVE-2026-20643">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/bsi-CVE-2026-20643">
+- [zeroxjf/WebKit-NavigationAPI-SOP-Bypass](https://github.com/zeroxjf/WebKit-NavigationAPI-SOP-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/WebKit-NavigationAPI-SOP-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/WebKit-NavigationAPI-SOP-Bypass">
+- [Fliv/CVE-2026-20643](https://github.com/Fliv/CVE-2026-20643)	<img alt="forks" src="https://img.shields.io/github/forks/Fliv/CVE-2026-20643">	<img alt="stars" src="https://img.shields.io/github/stars/Fliv/CVE-2026-20643">
 
 ---
 ## CVE-2026-2058 ()
