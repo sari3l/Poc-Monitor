@@ -6929,6 +6929,7 @@
 - [davids52/cve-2021-29447_auto-script](https://github.com/davids52/cve-2021-29447_auto-script)	<img alt="forks" src="https://img.shields.io/github/forks/davids52/cve-2021-29447_auto-script">	<img alt="stars" src="https://img.shields.io/github/stars/davids52/cve-2021-29447_auto-script">
 - [rdana55/CVE-2021-29447-PoC](https://github.com/rdana55/CVE-2021-29447-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/rdana55/CVE-2021-29447-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/rdana55/CVE-2021-29447-PoC">
 - [danilo1992-sys/CVE-2021-29447](https://github.com/danilo1992-sys/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/danilo1992-sys/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/danilo1992-sys/CVE-2021-29447">
+- [Daemon-AT4/HTB-Lab-Writeups](https://github.com/Daemon-AT4/HTB-Lab-Writeups)	<img alt="forks" src="https://img.shields.io/github/forks/Daemon-AT4/HTB-Lab-Writeups">	<img alt="stars" src="https://img.shields.io/github/stars/Daemon-AT4/HTB-Lab-Writeups">
 
 ---
 ## CVE-2021-29442 (2021-04-27T21:15:00)
