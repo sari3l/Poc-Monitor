@@ -5013,6 +5013,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [gunzf0x/CVE-2024-36991](https://github.com/gunzf0x/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2024-36991">
 - [xploitnik/CVE-2024-36991-modified](https://github.com/xploitnik/CVE-2024-36991-modified)	<img alt="forks" src="https://img.shields.io/github/forks/xploitnik/CVE-2024-36991-modified">	<img alt="stars" src="https://img.shields.io/github/stars/xploitnik/CVE-2024-36991-modified">
 - [0xFZin/CVE-2024-36991](https://github.com/0xFZin/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/0xFZin/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/0xFZin/CVE-2024-36991">
+- [jhurtadomi/CVE-2024-36991-Splunk](https://github.com/jhurtadomi/CVE-2024-36991-Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/jhurtadomi/CVE-2024-36991-Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/jhurtadomi/CVE-2024-36991-Splunk">
 
 ---
 ## CVE-2024-36985 ()
