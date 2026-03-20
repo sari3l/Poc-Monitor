@@ -91,6 +91,7 @@
 > 
 - [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
 - [watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746](https://github.com/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">
+- [danindiana/cve-2026-32746-mitigation](https://github.com/danindiana/cve-2026-32746-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/danindiana/cve-2026-32746-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/danindiana/cve-2026-32746-mitigation">
 
 ---
 ## CVE-2026-32731 ()
@@ -1375,6 +1376,7 @@
 - [jakubie07/CVE-2026-1731](https://github.com/jakubie07/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/jakubie07/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/jakubie07/CVE-2026-1731">
 - [richardpaimu34/CVE-2026-1731](https://github.com/richardpaimu34/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-1731">
 - [hexissam/CVE-2026-1731](https://github.com/hexissam/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/hexissam/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/hexissam/CVE-2026-1731">
+- [LutfifakeeXone/CVE-2026-1731](https://github.com/LutfifakeeXone/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/LutfifakeeXone/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/LutfifakeeXone/CVE-2026-1731">
 
 ---
 ## CVE-2026-1729 ()
