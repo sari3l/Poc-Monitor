@@ -241,6 +241,7 @@
 ## CVE-2026-2964 ()
 > 
 - [thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE](https://github.com/thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE">
+- [thegenetic/CVE-2026-2964-Lab](https://github.com/thegenetic/CVE-2026-2964-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2026-2964-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2026-2964-Lab">
 
 ---
 ## CVE-2026-29053 ()
