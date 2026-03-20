@@ -98,6 +98,7 @@
 - [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
 - [watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746](https://github.com/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">
 - [danindiana/cve-2026-32746-mitigation](https://github.com/danindiana/cve-2026-32746-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/danindiana/cve-2026-32746-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/danindiana/cve-2026-32746-mitigation">
+- [chosenonehacks/CVE-2026-32746](https://github.com/chosenonehacks/CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/chosenonehacks/CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/chosenonehacks/CVE-2026-32746">
 
 ---
 ## CVE-2026-32731 ()
@@ -235,6 +236,11 @@
 ## CVE-2026-29780 ()
 > 
 - [redyank/CVE-2026-29780](https://github.com/redyank/CVE-2026-29780)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-29780">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-29780">
+
+---
+## CVE-2026-2964 ()
+> 
+- [thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE](https://github.com/thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE">
 
 ---
 ## CVE-2026-29053 ()
@@ -1028,6 +1034,11 @@
 ## CVE-2026-22785 ()
 > 
 - [langbyyi/CVE-2026-22785](https://github.com/langbyyi/CVE-2026-22785)	<img alt="forks" src="https://img.shields.io/github/forks/langbyyi/CVE-2026-22785">	<img alt="stars" src="https://img.shields.io/github/stars/langbyyi/CVE-2026-22785">
+
+---
+## CVE-2026-22730 ()
+> 
+- [NULL200OK/CVE-2026-22730-Scanner](https://github.com/NULL200OK/CVE-2026-22730-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-22730-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-22730-Scanner">
 
 ---
 ## CVE-2026-22722 ()
