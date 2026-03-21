@@ -1131,6 +1131,7 @@
 - [boroeurnprach/Ashwesker-CVE-2026-21962](https://github.com/boroeurnprach/Ashwesker-CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/Ashwesker-CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/Ashwesker-CVE-2026-21962">
 - [George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-](https://github.com/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-">
 - [gregk4sec/cve-2026-21962](https://github.com/gregk4sec/cve-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/cve-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/cve-2026-21962">
+- [naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool](https://github.com/naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool">
 
 ---
 ## CVE-2026-21957 ()
