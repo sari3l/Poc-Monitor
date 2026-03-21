@@ -1306,6 +1306,7 @@ The specific flaw exists within the password reset mechanism. The issue results 
 ## CVE-2024-56348 ()
 > 
 - [joshuavanderpoll/cve-2024-56348](https://github.com/joshuavanderpoll/cve-2024-56348)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/cve-2024-56348">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/cve-2024-56348">
+- [Msakhana68/cve-2024-56348](https://github.com/Msakhana68/cve-2024-56348)	<img alt="forks" src="https://img.shields.io/github/forks/Msakhana68/cve-2024-56348">	<img alt="stars" src="https://img.shields.io/github/stars/Msakhana68/cve-2024-56348">
 
 ---
 ## CVE-2024-56340 ()
