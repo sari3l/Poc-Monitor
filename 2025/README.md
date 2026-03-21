@@ -4233,6 +4233,7 @@
 - [anwakub/CVE-2025-53770](https://github.com/anwakub/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/anwakub/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/anwakub/CVE-2025-53770">
 - [rbctee/CVE-2025-53770](https://github.com/rbctee/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/rbctee/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/rbctee/CVE-2025-53770">
 - [chrisalee27-dotcom/SOC-Incident-Response-Portfolio](https://github.com/chrisalee27-dotcom/SOC-Incident-Response-Portfolio)	<img alt="forks" src="https://img.shields.io/github/forks/chrisalee27-dotcom/SOC-Incident-Response-Portfolio">	<img alt="stars" src="https://img.shields.io/github/stars/chrisalee27-dotcom/SOC-Incident-Response-Portfolio">
+- [J4ck3LSyN-Gen2/CVE-2025-53770](https://github.com/J4ck3LSyN-Gen2/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2025-53770">
 
 ---
 ## CVE-2025-53744 ()
