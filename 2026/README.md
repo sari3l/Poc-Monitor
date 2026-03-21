@@ -1004,6 +1004,11 @@
 - [dzmind2312/Mass-CVE-2026-23550-Exploit](https://github.com/dzmind2312/Mass-CVE-2026-23550-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dzmind2312/Mass-CVE-2026-23550-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dzmind2312/Mass-CVE-2026-23550-Exploit">
 
 ---
+## CVE-2026-23520 ()
+> 
+- [0xzap/CVE-2026-23520](https://github.com/0xzap/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2026-23520">
+
+---
 ## CVE-2026-23478 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-23478](https://github.com/Ashwesker/Ashwesker-CVE-2026-23478)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-23478">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-23478">
