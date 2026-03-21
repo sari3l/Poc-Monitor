@@ -91,6 +91,8 @@
 ## CVE-2026-33017 ()
 > 
 - [MaxMnMl/langflow-CVE-2026-33017-poc](https://github.com/MaxMnMl/langflow-CVE-2026-33017-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/langflow-CVE-2026-33017-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/langflow-CVE-2026-33017-poc">
+- [omer-efe-curkus/CVE-2026-33017-Langflow-RCE-PoC](https://github.com/omer-efe-curkus/CVE-2026-33017-Langflow-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/omer-efe-curkus/CVE-2026-33017-Langflow-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/omer-efe-curkus/CVE-2026-33017-Langflow-RCE-PoC">
+- [SimoesCTT/Sovereign-Echo-33017](https://github.com/SimoesCTT/Sovereign-Echo-33017)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/Sovereign-Echo-33017">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/Sovereign-Echo-33017">
 
 ---
 ## CVE-2026-32941 ()
