@@ -1242,6 +1242,7 @@
 - [manbahadurthapa1248/CVE-2025-66034-Poc-to-Get-RCE-for-HTB-VariaType](https://github.com/manbahadurthapa1248/CVE-2025-66034-Poc-to-Get-RCE-for-HTB-VariaType)	<img alt="forks" src="https://img.shields.io/github/forks/manbahadurthapa1248/CVE-2025-66034-Poc-to-Get-RCE-for-HTB-VariaType">	<img alt="stars" src="https://img.shields.io/github/stars/manbahadurthapa1248/CVE-2025-66034-Poc-to-Get-RCE-for-HTB-VariaType">
 - [Liquid1998/Variatype.htb-CVE-2025-66034](https://github.com/Liquid1998/Variatype.htb-CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/Liquid1998/Variatype.htb-CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/Liquid1998/Variatype.htb-CVE-2025-66034">
 - [d0x-awrqxavc/CVE-2025-66034](https://github.com/d0x-awrqxavc/CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/d0x-awrqxavc/CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/d0x-awrqxavc/CVE-2025-66034">
+- [v3cn4x00/POC-CVE-2025-66034](https://github.com/v3cn4x00/POC-CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/v3cn4x00/POC-CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/v3cn4x00/POC-CVE-2025-66034">
 
 ---
 ## CVE-2025-66022 ()
