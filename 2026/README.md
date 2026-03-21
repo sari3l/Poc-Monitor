@@ -88,6 +88,11 @@
 - [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
 
 ---
+## CVE-2026-33017 ()
+> 
+- [MaxMnMl/langflow-CVE-2026-33017-poc](https://github.com/MaxMnMl/langflow-CVE-2026-33017-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/langflow-CVE-2026-33017-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/langflow-CVE-2026-33017-poc">
+
+---
 ## CVE-2026-32941 ()
 > 
 - [skoveit/CVE-2026-32941](https://github.com/skoveit/CVE-2026-32941)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-32941">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-32941">
