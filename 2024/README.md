@@ -4818,6 +4818,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [thealice01/CVE-2024-38063](https://github.com/thealice01/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/thealice01/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/thealice01/CVE-2024-38063">
 - [Avidan1/CVE-2024-38063](https://github.com/Avidan1/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Avidan1/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Avidan1/CVE-2024-38063">
 - [arrhenius975/CVE-2024-38063-Exploit-Refactoring](https://github.com/arrhenius975/CVE-2024-38063-Exploit-Refactoring)	<img alt="forks" src="https://img.shields.io/github/forks/arrhenius975/CVE-2024-38063-Exploit-Refactoring">	<img alt="stars" src="https://img.shields.io/github/stars/arrhenius975/CVE-2024-38063-Exploit-Refactoring">
+- [SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis](https://github.com/SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
