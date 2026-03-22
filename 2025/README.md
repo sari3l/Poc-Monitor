@@ -9063,6 +9063,7 @@
 - [mr-spongebob/CVE-2025-21756](https://github.com/mr-spongebob/CVE-2025-21756)	<img alt="forks" src="https://img.shields.io/github/forks/mr-spongebob/CVE-2025-21756">	<img alt="stars" src="https://img.shields.io/github/stars/mr-spongebob/CVE-2025-21756">
 - [khoatran107/cve-2025-21756](https://github.com/khoatran107/cve-2025-21756)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-21756">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-21756">
 - [KuanKuanQAQ/cve-testing](https://github.com/KuanKuanQAQ/cve-testing)	<img alt="forks" src="https://img.shields.io/github/forks/KuanKuanQAQ/cve-testing">	<img alt="stars" src="https://img.shields.io/github/stars/KuanKuanQAQ/cve-testing">
+- [h3raklez/CVE-2025-21756](https://github.com/h3raklez/CVE-2025-21756)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2025-21756">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2025-21756">
 
 ---
 ## CVE-2025-21692 ()
