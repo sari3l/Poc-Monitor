@@ -1011,6 +1011,7 @@
 - [0xzap/CVE-2026-23520](https://github.com/0xzap/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2026-23520">
 - [Augmaster/POC-CVE-2026-23520](https://github.com/Augmaster/POC-CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/Augmaster/POC-CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/Augmaster/POC-CVE-2026-23520">
 - [0xzap/CVE-2026-23520](https://github.com/0xzap/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2026-23520">
+- [n0rmh3ll/CVE-2026-23520](https://github.com/n0rmh3ll/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/n0rmh3ll/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/n0rmh3ll/CVE-2026-23520">
 
 ---
 ## CVE-2026-23478 ()
