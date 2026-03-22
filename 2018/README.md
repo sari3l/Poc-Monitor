@@ -1840,6 +1840,7 @@
 - [un4gi/CVE-2018-1207](https://github.com/un4gi/CVE-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/un4gi/CVE-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/un4gi/CVE-2018-1207">
 - [mgargiullo/cve-2018-1207](https://github.com/mgargiullo/cve-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/mgargiullo/cve-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/mgargiullo/cve-2018-1207">
 - [theinkbit/CVE-2018-1207](https://github.com/theinkbit/CVE-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/theinkbit/CVE-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/theinkbit/CVE-2018-1207">
+- [hironull/CVE-2018-1207-better](https://github.com/hironull/CVE-2018-1207-better)	<img alt="forks" src="https://img.shields.io/github/forks/hironull/CVE-2018-1207-better">	<img alt="stars" src="https://img.shields.io/github/stars/hironull/CVE-2018-1207-better">
 
 ---
 ## CVE-2018-12036 ()
