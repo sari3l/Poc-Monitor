@@ -1093,6 +1093,11 @@
 - [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610)	<img alt="forks" src="https://img.shields.io/github/forks/ashizZz/CVE-2026-22610">	<img alt="stars" src="https://img.shields.io/github/stars/ashizZz/CVE-2026-22610">
 
 ---
+## CVE-2026-22557 ()
+> 
+- [GarethMSheldon/cve-2026-22557-unifi-detection](https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection)	<img alt="forks" src="https://img.shields.io/github/forks/GarethMSheldon/cve-2026-22557-unifi-detection">	<img alt="stars" src="https://img.shields.io/github/stars/GarethMSheldon/cve-2026-22557-unifi-detection">
+
+---
 ## CVE-2026-2249 ()
 > 
 - [NightlyAudit/CVE-2026-2249](https://github.com/NightlyAudit/CVE-2026-2249)	<img alt="forks" src="https://img.shields.io/github/forks/NightlyAudit/CVE-2026-2249">	<img alt="stars" src="https://img.shields.io/github/stars/NightlyAudit/CVE-2026-2249">

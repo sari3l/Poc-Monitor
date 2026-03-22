@@ -3243,6 +3243,7 @@
 - [grospomg/CVE-2025-5548-Exploit-Development](https://github.com/grospomg/CVE-2025-5548-Exploit-Development)	<img alt="forks" src="https://img.shields.io/github/forks/grospomg/CVE-2025-5548-Exploit-Development">	<img alt="stars" src="https://img.shields.io/github/stars/grospomg/CVE-2025-5548-Exploit-Development">
 - [JSantos1990/CVE-2025-5548](https://github.com/JSantos1990/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/JSantos1990/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/JSantos1990/CVE-2025-5548">
 - [Alvarosr16/CVE-2025-5548](https://github.com/Alvarosr16/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/Alvarosr16/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/Alvarosr16/CVE-2025-5548">
+- [fcamargo13/Analisis_CVE-2025-5548-](https://github.com/fcamargo13/Analisis_CVE-2025-5548-)	<img alt="forks" src="https://img.shields.io/github/forks/fcamargo13/Analisis_CVE-2025-5548-">	<img alt="stars" src="https://img.shields.io/github/stars/fcamargo13/Analisis_CVE-2025-5548-">
 
 ---
 ## CVE-2025-55462 ()
