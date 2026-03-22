@@ -7847,6 +7847,7 @@ For more details, please review the linked advisory on this CVE.
 - [n0s3ns33/poc-cve-2023-21716](https://github.com/n0s3ns33/poc-cve-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/n0s3ns33/poc-cve-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/n0s3ns33/poc-cve-2023-21716">
 - [RonF98/CVE-2023-21716-POC](https://github.com/RonF98/CVE-2023-21716-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2023-21716-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2023-21716-POC">
 - [s1mpl3c0d3/cvepoc](https://github.com/s1mpl3c0d3/cvepoc)	<img alt="forks" src="https://img.shields.io/github/forks/s1mpl3c0d3/cvepoc">	<img alt="stars" src="https://img.shields.io/github/stars/s1mpl3c0d3/cvepoc">
+- [muumthf/CVE-2023-21716](https://github.com/muumthf/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/muumthf/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/muumthf/CVE-2023-21716">
 
 ---
 ## CVE-2023-21707 (2023-02-14T20:15:00)
