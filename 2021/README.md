@@ -1258,6 +1258,7 @@
 - [baktistr/cve-2021-43798-enum](https://github.com/baktistr/cve-2021-43798-enum)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2021-43798-enum">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2021-43798-enum">
 - [strikoder/Grafana-Password-Decryptor](https://github.com/strikoder/Grafana-Password-Decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/Grafana-Password-Decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/Grafana-Password-Decryptor">
 - [notbside/CVE-2021-43798-PoC](https://github.com/notbside/CVE-2021-43798-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/notbside/CVE-2021-43798-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/notbside/CVE-2021-43798-PoC">
+- [Shoxake17/CVE-2021-43798](https://github.com/Shoxake17/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Shoxake17/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Shoxake17/CVE-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
