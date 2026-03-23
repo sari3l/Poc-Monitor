@@ -145,6 +145,7 @@
 - [x0da6h/POC-for-CVE-2025-9074](https://github.com/x0da6h/POC-for-CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2025-9074">
 - [matesz44/CVE-2025-9074](https://github.com/matesz44/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-9074">
 - [0xmrsecurity/Public_Poc](https://github.com/0xmrsecurity/Public_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrsecurity/Public_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrsecurity/Public_Poc">
+- [rocket-panda/CVE-2025-9074](https://github.com/rocket-panda/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/rocket-panda/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/rocket-panda/CVE-2025-9074">
 
 ---
 ## CVE-2025-9043 ()
