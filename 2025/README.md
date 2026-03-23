@@ -1214,6 +1214,7 @@
 ## CVE-2025-66398 ()
 > 
 - [joshuavanderpoll/cve-2025-66398](https://github.com/joshuavanderpoll/cve-2025-66398)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/cve-2025-66398">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/cve-2025-66398">
+- [showy-headteacher114/cve-2025-66398](https://github.com/showy-headteacher114/cve-2025-66398)	<img alt="forks" src="https://img.shields.io/github/forks/showy-headteacher114/cve-2025-66398">	<img alt="stars" src="https://img.shields.io/github/stars/showy-headteacher114/cve-2025-66398">
 
 ---
 ## CVE-2025-66249 ()
