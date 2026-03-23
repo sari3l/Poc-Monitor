@@ -8428,6 +8428,11 @@
 - [ashkan-pu/CVE-CVE-2025-25231](https://github.com/ashkan-pu/CVE-CVE-2025-25231)	<img alt="forks" src="https://img.shields.io/github/forks/ashkan-pu/CVE-CVE-2025-25231">	<img alt="stars" src="https://img.shields.io/github/stars/ashkan-pu/CVE-CVE-2025-25231">
 
 ---
+## CVE-2025-25200 ()
+> 
+- [dwictor0/PoC-CVE-2025-25200](https://github.com/dwictor0/PoC-CVE-2025-25200)	<img alt="forks" src="https://img.shields.io/github/forks/dwictor0/PoC-CVE-2025-25200">	<img alt="stars" src="https://img.shields.io/github/stars/dwictor0/PoC-CVE-2025-25200">
+
+---
 ## CVE-2025-25198 ()
 > 
 - [Groppoxx/CVE-2025-25198-PoC](https://github.com/Groppoxx/CVE-2025-25198-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Groppoxx/CVE-2025-25198-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Groppoxx/CVE-2025-25198-PoC">
