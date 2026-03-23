@@ -1005,6 +1005,7 @@
 - [suljov/CVE-2026-23744-Remote-Code-Execution-POC](https://github.com/suljov/CVE-2026-23744-Remote-Code-Execution-POC)	<img alt="forks" src="https://img.shields.io/github/forks/suljov/CVE-2026-23744-Remote-Code-Execution-POC">	<img alt="stars" src="https://img.shields.io/github/stars/suljov/CVE-2026-23744-Remote-Code-Execution-POC">
 - [H1sok444/CVE-2026-23744-PoC](https://github.com/H1sok444/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H1sok444/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H1sok444/CVE-2026-23744-PoC">
 - [FrenzisRed/CVE-2026-23744](https://github.com/FrenzisRed/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/FrenzisRed/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/FrenzisRed/CVE-2026-23744">
+- [fckoo/mcpjaminspector-unauth-rce](https://github.com/fckoo/mcpjaminspector-unauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/fckoo/mcpjaminspector-unauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/fckoo/mcpjaminspector-unauth-rce">
 
 ---
 ## CVE-2026-23723 ()
