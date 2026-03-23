@@ -1612,6 +1612,11 @@
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
 
 ---
+## CVE-2019-25485 ()
+> 
+- [TheMalwareGuardian/CVE-2019-25485](https://github.com/TheMalwareGuardian/CVE-2019-25485)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2019-25485">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2019-25485">
+
+---
 ## CVE-2019-25162 (2024-02-26T18:15:00)
 > In the Linux kernel, the following vulnerability has been resolved:
 

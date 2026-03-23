@@ -1299,8 +1299,9 @@
 - [TheDarthMole/CVE-2017-14980](https://github.com/TheDarthMole/CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/TheDarthMole/CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/TheDarthMole/CVE-2017-14980">
 - [LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof](https://github.com/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof)	<img alt="forks" src="https://img.shields.io/github/forks/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof">	<img alt="stars" src="https://img.shields.io/github/stars/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof">
 - [krnlcrow/CVE-2017-14980](https://github.com/krnlcrow/CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/krnlcrow/CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/krnlcrow/CVE-2017-14980">
-- [DaviGSantana/Exploit-CVE-2017-14980](https://github.com/DaviGSantana/Exploit-CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/DaviGSantana/Exploit-CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/DaviGSantana/Exploit-CVE-2017-14980">
+- [DaviGSantana/CVE-2017-14980](https://github.com/DaviGSantana/CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/DaviGSantana/CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/DaviGSantana/CVE-2017-14980">
 - [damariion/CVE-2017-14980](https://github.com/damariion/CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2017-14980">
+- [TheMalwareGuardian/CVE-2017-14980](https://github.com/TheMalwareGuardian/CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2017-14980">
 
 ---
 ## CVE-2017-14864 (2017-09-29T01:34:00)

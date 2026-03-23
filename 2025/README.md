@@ -6553,6 +6553,11 @@
 - [hyeonyeonglee/CVE-2025-34100](https://github.com/hyeonyeonglee/CVE-2025-34100)	<img alt="forks" src="https://img.shields.io/github/forks/hyeonyeonglee/CVE-2025-34100">	<img alt="stars" src="https://img.shields.io/github/stars/hyeonyeonglee/CVE-2025-34100">
 
 ---
+## CVE-2025-34096 ()
+> 
+- [TheMalwareGuardian/CVE-2025-34096](https://github.com/TheMalwareGuardian/CVE-2025-34096)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-34096">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-34096">
+
+---
 ## CVE-2025-34085 ()
 > 
 - [MrjHaxcore/CVE-2025-34085](https://github.com/MrjHaxcore/CVE-2025-34085)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-34085">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-34085">

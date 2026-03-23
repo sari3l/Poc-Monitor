@@ -108,6 +108,11 @@
 - [Live-Hack-CVE/CVE-2007-20001](https://github.com/Live-Hack-CVE/CVE-2007-20001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-20001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-20001">
 
 ---
+## CVE-2007-1567 ()
+> 
+- [TheMalwareGuardian/CVE-2007-1567](https://github.com/TheMalwareGuardian/CVE-2007-1567)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2007-1567">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2007-1567">
+
+---
 ## CVE-2007-10002 (2023-01-08T10:15:00)
 > A vulnerability, which was classified as critical, has been found in web-cyradm. Affected by this issue is some unknown functionality of the file auth.inc.php. The manipulation of the argument login/login_password/LANG leads to sql injection. The attack may be launched remotely. The name of the patch is 2bcbead3bdb5f118bf2c38c541eaa73c29dcc90f. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217640.
 - [Live-Hack-CVE/CVE-2007-10002](https://github.com/Live-Hack-CVE/CVE-2007-10002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-10002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-10002">
