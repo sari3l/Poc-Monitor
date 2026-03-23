@@ -4510,6 +4510,11 @@
 - [Whit3-d3viL-hacker/CVE-2025-52289](https://github.com/Whit3-d3viL-hacker/CVE-2025-52289)	<img alt="forks" src="https://img.shields.io/github/forks/Whit3-d3viL-hacker/CVE-2025-52289">	<img alt="stars" src="https://img.shields.io/github/stars/Whit3-d3viL-hacker/CVE-2025-52289">
 
 ---
+## CVE-2025-52204 ()
+> 
+- [mponce-cve/CVE-2025-52204](https://github.com/mponce-cve/CVE-2025-52204)	<img alt="forks" src="https://img.shields.io/github/forks/mponce-cve/CVE-2025-52204">	<img alt="stars" src="https://img.shields.io/github/stars/mponce-cve/CVE-2025-52204">
+
+---
 ## CVE-2025-52136 ()
 > 
 - [f1r3K0/CVE-2025-52136](https://github.com/f1r3K0/CVE-2025-52136)	<img alt="forks" src="https://img.shields.io/github/forks/f1r3K0/CVE-2025-52136">	<img alt="stars" src="https://img.shields.io/github/stars/f1r3K0/CVE-2025-52136">

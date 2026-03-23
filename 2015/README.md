@@ -56,6 +56,11 @@
 - [Caihuar/Joomla-cve-2015-8562](https://github.com/Caihuar/Joomla-cve-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/Caihuar/Joomla-cve-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/Caihuar/Joomla-cve-2015-8562">
 
 ---
+## CVE-2015-8522 ()
+> 
+- [damariion/CVE-2015-8522](https://github.com/damariion/CVE-2015-8522)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2015-8522">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2015-8522">
+
+---
 ## CVE-2015-8467 (2015-12-29T22:59:00)
 > The samldb_check_user_account_control_acl function in dsdb/samdb/ldb_modules/samldb.c in Samba 4.x before 4.1.22, 4.2.x before 4.2.7, and 4.3.x before 4.3.3 does not properly check for administrative privileges during creation of machine accounts, which allows remote authenticated users to bypass intended access restrictions by leveraging the existence of a domain with both a Samba DC and a Windows DC, a similar issue to CVE-2015-2535.
 - [Live-Hack-CVE/CVE-2015-8467](https://github.com/Live-Hack-CVE/CVE-2015-8467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-8467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-8467">
