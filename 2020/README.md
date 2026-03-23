@@ -4654,6 +4654,11 @@
 - [Live-Hack-CVE/CVE-2020-13904](https://github.com/Live-Hack-CVE/CVE-2020-13904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13904">
 
 ---
+## CVE-2020-13886 ()
+> 
+- [Ls4ss/CVE-2020-13886](https://github.com/Ls4ss/CVE-2020-13886)	<img alt="forks" src="https://img.shields.io/github/forks/Ls4ss/CVE-2020-13886">	<img alt="stars" src="https://img.shields.io/github/stars/Ls4ss/CVE-2020-13886">
+
+---
 ## CVE-2020-13882 (2020-06-18T18:15:00)
 > CISOfy Lynis before 3.0.0 has Incorrect Access Control because of a TOCTOU race condition. The routine to check the log and report file permissions was not working as intended and could be bypassed locally. Because of the race, an unprivileged attacker can set up a log and report file, and control that up to the point where the specific routine is doing its check. After that, the file can be removed, recreated, and used for additional attacks.
 - [Live-Hack-CVE/CVE-2020-13882](https://github.com/Live-Hack-CVE/CVE-2020-13882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13882">

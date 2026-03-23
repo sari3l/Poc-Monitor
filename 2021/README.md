@@ -2483,6 +2483,7 @@
 - [sobanahmed6061/CVE-2021-41773-RedTeam](https://github.com/sobanahmed6061/CVE-2021-41773-RedTeam)	<img alt="forks" src="https://img.shields.io/github/forks/sobanahmed6061/CVE-2021-41773-RedTeam">	<img alt="stars" src="https://img.shields.io/github/stars/sobanahmed6061/CVE-2021-41773-RedTeam">
 - [abds059/APACHE-PATH-TRAVERSAL-RCE-CVE-2021-41773-](https://github.com/abds059/APACHE-PATH-TRAVERSAL-RCE-CVE-2021-41773-)	<img alt="forks" src="https://img.shields.io/github/forks/abds059/APACHE-PATH-TRAVERSAL-RCE-CVE-2021-41773-">	<img alt="stars" src="https://img.shields.io/github/stars/abds059/APACHE-PATH-TRAVERSAL-RCE-CVE-2021-41773-">
 - [snapdowgg/CVE-2021-41773](https://github.com/snapdowgg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/snapdowgg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/snapdowgg/CVE-2021-41773">
+- [tsiddiquea/cve-reproduction-lab](https://github.com/tsiddiquea/cve-reproduction-lab)	<img alt="forks" src="https://img.shields.io/github/forks/tsiddiquea/cve-reproduction-lab">	<img alt="stars" src="https://img.shields.io/github/stars/tsiddiquea/cve-reproduction-lab">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
