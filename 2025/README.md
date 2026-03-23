@@ -4512,7 +4512,7 @@
 ---
 ## CVE-2025-52204 ()
 > 
-- [mponce-cve/CVE-2025-52204](https://github.com/mponce-cve/CVE-2025-52204)	<img alt="forks" src="https://img.shields.io/github/forks/mponce-cve/CVE-2025-52204">	<img alt="stars" src="https://img.shields.io/github/stars/mponce-cve/CVE-2025-52204">
+- [j0qq3r/CVE-2025-52204](https://github.com/j0qq3r/CVE-2025-52204)	<img alt="forks" src="https://img.shields.io/github/forks/j0qq3r/CVE-2025-52204">	<img alt="stars" src="https://img.shields.io/github/stars/j0qq3r/CVE-2025-52204">
 
 ---
 ## CVE-2025-52136 ()
