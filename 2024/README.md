@@ -8264,6 +8264,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-2473 ()
 > 
 - [M4xSec/CVE-2024-2473](https://github.com/M4xSec/CVE-2024-2473)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/CVE-2024-2473">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/CVE-2024-2473">
+- [whattheslime/wps-show-login](https://github.com/whattheslime/wps-show-login)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/wps-show-login">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/wps-show-login">
 
 ---
 ## CVE-2024-24725 (2024-03-23T23:15:00)
