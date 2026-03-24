@@ -465,6 +465,28 @@
 - [mbanyamer/CVE-2026-26988-LibreNMS-SQLi](https://github.com/mbanyamer/CVE-2026-26988-LibreNMS-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26988-LibreNMS-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26988-LibreNMS-SQLi">
 
 ---
+## CVE-2026-26833 ()
+> 
+- [zebbernCVE/CVE-2026-26833](https://github.com/zebbernCVE/CVE-2026-26833)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-26833">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-26833">
+- [zebbernCVE/npm-cve-2026-26830-26833](https://github.com/zebbernCVE/npm-cve-2026-26830-26833)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/npm-cve-2026-26830-26833">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/npm-cve-2026-26830-26833">
+
+---
+## CVE-2026-26832 ()
+> 
+- [zebbernCVE/CVE-2026-26832](https://github.com/zebbernCVE/CVE-2026-26832)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-26832">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-26832">
+
+---
+## CVE-2026-26831 ()
+> 
+- [zebbernCVE/CVE-2026-26831](https://github.com/zebbernCVE/CVE-2026-26831)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-26831">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-26831">
+
+---
+## CVE-2026-26830 ()
+> 
+- [zebbernCVE/npm-cve-2026-26830-26833](https://github.com/zebbernCVE/npm-cve-2026-26830-26833)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/npm-cve-2026-26830-26833">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/npm-cve-2026-26830-26833">
+- [zebbernCVE/CVE-2026-26830](https://github.com/zebbernCVE/CVE-2026-26830)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-26830">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-26830">
+
+---
 ## CVE-2026-26801 ()
 > 
 - [mariopepe/CVE-2026-26801-pdfmake-ssrf](https://github.com/mariopepe/CVE-2026-26801-pdfmake-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/mariopepe/CVE-2026-26801-pdfmake-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/mariopepe/CVE-2026-26801-pdfmake-ssrf">
