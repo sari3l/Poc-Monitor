@@ -5951,6 +5951,9 @@
 - [bp2008/DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass)	<img alt="forks" src="https://img.shields.io/github/forks/bp2008/DahuaLoginBypass">	<img alt="stars" src="https://img.shields.io/github/stars/bp2008/DahuaLoginBypass">
 - [Baza-NATO/CVE-2021-33044](https://github.com/Baza-NATO/CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/Baza-NATO/CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/Baza-NATO/CVE-2021-33044">
 - [Spy0x7/CVE-2021-33044](https://github.com/Spy0x7/CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/Spy0x7/CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/Spy0x7/CVE-2021-33044">
+- [eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044](https://github.com/eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044">
+- [nasimanpha-create/ing-switch](https://github.com/nasimanpha-create/ing-switch)	<img alt="forks" src="https://img.shields.io/github/forks/nasimanpha-create/ing-switch">	<img alt="stars" src="https://img.shields.io/github/stars/nasimanpha-create/ing-switch">
+- [umair-aziz025/dahua-cve-research](https://github.com/umair-aziz025/dahua-cve-research)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/dahua-cve-research">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/dahua-cve-research">
 
 ---
 ## CVE-2021-33037 (2021-07-12T15:15:00)

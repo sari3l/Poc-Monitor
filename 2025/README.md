@@ -3924,6 +3924,7 @@
 - [monarchfish/cve-2025-55182-poc](https://github.com/monarchfish/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/monarchfish/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/monarchfish/cve-2025-55182-poc">
 - [nexxp90/CVE-2025-55182_RCE_Exploit](https://github.com/nexxp90/CVE-2025-55182_RCE_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nexxp90/CVE-2025-55182_RCE_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nexxp90/CVE-2025-55182_RCE_Exploit">
 - [luoluoqingge/CVE-2025-55182](https://github.com/luoluoqingge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/luoluoqingge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/luoluoqingge/CVE-2025-55182">
+- [RyosukeDTomita/CVE-2025-55182](https://github.com/RyosukeDTomita/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RyosukeDTomita/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RyosukeDTomita/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
