@@ -313,6 +313,7 @@
 - [RootX111/cve-2026-29000](https://github.com/RootX111/cve-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/RootX111/cve-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/RootX111/cve-2026-29000">
 - [FranzAlvis/Cve_2026_29000_exploit](https://github.com/FranzAlvis/Cve_2026_29000_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FranzAlvis/Cve_2026_29000_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FranzAlvis/Cve_2026_29000_exploit">
 - [oil-lamp-cat/CVE-2026-29000-pac4j-PoC](https://github.com/oil-lamp-cat/CVE-2026-29000-pac4j-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oil-lamp-cat/CVE-2026-29000-pac4j-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oil-lamp-cat/CVE-2026-29000-pac4j-PoC">
+- [PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass](https://github.com/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass">
 
 ---
 ## CVE-2026-2898 ()
