@@ -1055,6 +1055,7 @@
 - [H1sok444/CVE-2026-23744-PoC](https://github.com/H1sok444/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H1sok444/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H1sok444/CVE-2026-23744-PoC">
 - [FrenzisRed/CVE-2026-23744](https://github.com/FrenzisRed/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/FrenzisRed/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/FrenzisRed/CVE-2026-23744">
 - [fckoo/mcpjaminspector-unauth-rce](https://github.com/fckoo/mcpjaminspector-unauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/fckoo/mcpjaminspector-unauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/fckoo/mcpjaminspector-unauth-rce">
+- [InzegoSec/CVE-2026-23744](https://github.com/InzegoSec/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/InzegoSec/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/InzegoSec/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
@@ -1434,6 +1435,11 @@
 - [kimblehardwoods/CVE-2026-20700](https://github.com/kimblehardwoods/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/kimblehardwoods/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/kimblehardwoods/CVE-2026-20700">
 - [bytehazard/CVE-2026-20700](https://github.com/bytehazard/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/bytehazard/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/bytehazard/CVE-2026-20700">
 - [sundenovak/CVE-2026-20700-An-analysis-WIP](https://github.com/sundenovak/CVE-2026-20700-An-analysis-WIP)	<img alt="forks" src="https://img.shields.io/github/forks/sundenovak/CVE-2026-20700-An-analysis-WIP">	<img alt="stars" src="https://img.shields.io/github/stars/sundenovak/CVE-2026-20700-An-analysis-WIP">
+
+---
+## CVE-2026-20687 ()
+> 
+- [zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF">
 
 ---
 ## CVE-2026-20660 ()
