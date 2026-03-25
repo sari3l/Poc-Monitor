@@ -1056,6 +1056,7 @@
 - [FrenzisRed/CVE-2026-23744](https://github.com/FrenzisRed/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/FrenzisRed/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/FrenzisRed/CVE-2026-23744">
 - [fckoo/mcpjaminspector-unauth-rce](https://github.com/fckoo/mcpjaminspector-unauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/fckoo/mcpjaminspector-unauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/fckoo/mcpjaminspector-unauth-rce">
 - [InzegoSec/CVE-2026-23744](https://github.com/InzegoSec/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/InzegoSec/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/InzegoSec/CVE-2026-23744">
+- [z4yd3/PoC-CVE-2026-23744](https://github.com/z4yd3/PoC-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
