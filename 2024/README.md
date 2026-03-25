@@ -1949,6 +1949,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-52302 ()
 > 
 - [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/CVE-2024-52302">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/CVE-2024-52302">
+- [pream-totaram/CVE-2024-52302-reproduction](https://github.com/pream-totaram/CVE-2024-52302-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/pream-totaram/CVE-2024-52302-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/pream-totaram/CVE-2024-52302-reproduction">
 
 ---
 ## CVE-2024-52301 (2024-11-12T20:15:00)
