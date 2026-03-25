@@ -577,6 +577,7 @@
 ## CVE-2026-26198 ()
 > 
 - [blackhatlegend/CVE-2026-26198](https://github.com/blackhatlegend/CVE-2026-26198)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-26198">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-26198">
+- [sergicortesabadia/CVE-2026-26198-analysis](https://github.com/sergicortesabadia/CVE-2026-26198-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sergicortesabadia/CVE-2026-26198-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sergicortesabadia/CVE-2026-26198-analysis">
 
 ---
 ## CVE-2026-26030 ()
