@@ -2064,6 +2064,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [victorGoeman/CVE-2024-51346](https://github.com/victorGoeman/CVE-2024-51346)	<img alt="forks" src="https://img.shields.io/github/forks/victorGoeman/CVE-2024-51346">	<img alt="stars" src="https://img.shields.io/github/stars/victorGoeman/CVE-2024-51346">
 
 ---
+## CVE-2024-51324 ()
+> 
+- [devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis](https://github.com/devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis">
+
+---
 ## CVE-2024-5124 (2024-06-06T19:16:00)
 > A timing attack vulnerability exists in the gaizhenbiao/chuanhuchatgpt repository, specifically within the password comparison logic. The vulnerability is present in version 20240310 of the software, where passwords are compared using the '=' operator in Python. This method of comparison allows an attacker to guess passwords based on the timing of each character's comparison. The issue arises from the code segment that checks a password for a particular username, which can lead to the exposure of sensitive information to an unauthorized actor. An attacker exploiting this vulnerability could potentially guess user passwords, compromising the security of the system.
 - [gogo2464/CVE-2024-5124](https://github.com/gogo2464/CVE-2024-5124)	<img alt="forks" src="https://img.shields.io/github/forks/gogo2464/CVE-2024-5124">	<img alt="stars" src="https://img.shields.io/github/stars/gogo2464/CVE-2024-5124">
@@ -6962,6 +6967,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-30051 (2024-05-14T17:17:00)
 > Windows DWM Core Library Elevation of Privilege Vulnerability
 - [fortra/CVE-2024-30051](https://github.com/fortra/CVE-2024-30051)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2024-30051">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2024-30051">
+- [devianntsec/CVE-2024-30051-DWMHeapOverflow-Masters-Thesis](https://github.com/devianntsec/CVE-2024-30051-DWMHeapOverflow-Masters-Thesis)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2024-30051-DWMHeapOverflow-Masters-Thesis">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2024-30051-DWMHeapOverflow-Masters-Thesis">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)

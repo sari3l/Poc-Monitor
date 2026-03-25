@@ -3926,6 +3926,7 @@
 - [luoluoqingge/CVE-2025-55182](https://github.com/luoluoqingge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/luoluoqingge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/luoluoqingge/CVE-2025-55182">
 - [RyosukeDTomita/CVE-2025-55182](https://github.com/RyosukeDTomita/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RyosukeDTomita/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RyosukeDTomita/CVE-2025-55182">
 - [eagle-nett/React2Shell-PoC-CVE-2025-55182](https://github.com/eagle-nett/React2Shell-PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/eagle-nett/React2Shell-PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/eagle-nett/React2Shell-PoC-CVE-2025-55182">
+- [devianntsec/CVE-2025-55182-React2Shell-Masters-Thesis](https://github.com/devianntsec/CVE-2025-55182-React2Shell-Masters-Thesis)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2025-55182-React2Shell-Masters-Thesis">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2025-55182-React2Shell-Masters-Thesis">
 
 ---
 ## CVE-2025-55130 ()
