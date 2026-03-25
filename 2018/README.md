@@ -1504,6 +1504,7 @@
 - [Alph4Sec/ssh_enum_py](https://github.com/Alph4Sec/ssh_enum_py)	<img alt="forks" src="https://img.shields.io/github/forks/Alph4Sec/ssh_enum_py">	<img alt="stars" src="https://img.shields.io/github/stars/Alph4Sec/ssh_enum_py">
 - [makmour/open-ssh-user-enumeration](https://github.com/makmour/open-ssh-user-enumeration)	<img alt="forks" src="https://img.shields.io/github/forks/makmour/open-ssh-user-enumeration">	<img alt="stars" src="https://img.shields.io/github/stars/makmour/open-ssh-user-enumeration">
 - [Remnant-DB/CVE-2018-15473](https://github.com/Remnant-DB/CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2018-15473">
+- [K3rn3l-32/Threaded-CVE-2018-15473](https://github.com/K3rn3l-32/Threaded-CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/K3rn3l-32/Threaded-CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/K3rn3l-32/Threaded-CVE-2018-15473">
 
 ---
 ## CVE-2018-15133 (2018-08-09T19:29:00)
