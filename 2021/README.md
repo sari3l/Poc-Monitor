@@ -3729,6 +3729,11 @@
 - [Live-Hack-CVE/CVE-2021-39159](https://github.com/Live-Hack-CVE/CVE-2021-39159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39159">
 
 ---
+## CVE-2021-39156 ()
+> 
+- [anonymousAIware2026/MicroserviceCVE-2021-39156](https://github.com/anonymousAIware2026/MicroserviceCVE-2021-39156)	<img alt="forks" src="https://img.shields.io/github/forks/anonymousAIware2026/MicroserviceCVE-2021-39156">	<img alt="stars" src="https://img.shields.io/github/stars/anonymousAIware2026/MicroserviceCVE-2021-39156">
+
+---
 ## CVE-2021-39154 (2021-08-23T18:15:00)
 > XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to load and execute arbitrary code from a remote host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
 - [Live-Hack-CVE/CVE-2021-39154](https://github.com/Live-Hack-CVE/CVE-2021-39154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39154">

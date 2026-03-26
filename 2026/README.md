@@ -89,6 +89,11 @@
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
 
 ---
+## CVE-2026-34070 ()
+> 
+- [Rickidevs/CVE-2026-34070](https://github.com/Rickidevs/CVE-2026-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-34070">
+
+---
 ## CVE-2026-3395 ()
 > 
 - [mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE">
@@ -859,6 +864,7 @@
 > 
 - [lennertdefauw/CVE-2026-24291](https://github.com/lennertdefauw/CVE-2026-24291)	<img alt="forks" src="https://img.shields.io/github/forks/lennertdefauw/CVE-2026-24291">	<img alt="stars" src="https://img.shields.io/github/stars/lennertdefauw/CVE-2026-24291">
 - [n0isegat3/RegPwnBRc4BOF](https://github.com/n0isegat3/RegPwnBRc4BOF)	<img alt="forks" src="https://img.shields.io/github/forks/n0isegat3/RegPwnBRc4BOF">	<img alt="stars" src="https://img.shields.io/github/stars/n0isegat3/RegPwnBRc4BOF">
+- [uname1able/CVE-2026-24291](https://github.com/uname1able/CVE-2026-24291)	<img alt="forks" src="https://img.shields.io/github/forks/uname1able/CVE-2026-24291">	<img alt="stars" src="https://img.shields.io/github/stars/uname1able/CVE-2026-24291">
 
 ---
 ## CVE-2026-24135 ()
