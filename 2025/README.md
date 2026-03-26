@@ -4412,6 +4412,11 @@
 - [rxerium/CVE-2025-52914](https://github.com/rxerium/CVE-2025-52914)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-52914">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-52914">
 
 ---
+## CVE-2025-52913 ()
+> 
+- [pgaSUS99/PoC-CVE-2025-52913](https://github.com/pgaSUS99/PoC-CVE-2025-52913)	<img alt="forks" src="https://img.shields.io/github/forks/pgaSUS99/PoC-CVE-2025-52913">	<img alt="stars" src="https://img.shields.io/github/stars/pgaSUS99/PoC-CVE-2025-52913">
+
+---
 ## CVE-2025-5288 ()
 > 
 - [Nxploited/CVE-2025-5288](https://github.com/Nxploited/CVE-2025-5288)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5288">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5288">
@@ -5693,6 +5698,12 @@
 ---
 ## CVE-2025-46157 ()
 > 
+- [morphine009/CVE-2025-46157](https://github.com/morphine009/CVE-2025-46157)	<img alt="forks" src="https://img.shields.io/github/forks/morphine009/CVE-2025-46157">	<img alt="stars" src="https://img.shields.io/github/stars/morphine009/CVE-2025-46157">
+
+---
+## CVE-2025-4615 ()
+> 
+- [sh00bx/cve-2025-4615](https://github.com/sh00bx/cve-2025-4615)	<img alt="forks" src="https://img.shields.io/github/forks/sh00bx/cve-2025-4615">	<img alt="stars" src="https://img.shields.io/github/stars/sh00bx/cve-2025-4615">
 - [morphine009/CVE-2025-46157](https://github.com/morphine009/CVE-2025-46157)	<img alt="forks" src="https://img.shields.io/github/forks/morphine009/CVE-2025-46157">	<img alt="stars" src="https://img.shields.io/github/stars/morphine009/CVE-2025-46157">
 
 ---
