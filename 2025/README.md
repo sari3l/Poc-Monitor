@@ -6643,6 +6643,11 @@
 - [jisi-001/CVE-2025-34040Exp](https://github.com/jisi-001/CVE-2025-34040Exp)	<img alt="forks" src="https://img.shields.io/github/forks/jisi-001/CVE-2025-34040Exp">	<img alt="stars" src="https://img.shields.io/github/stars/jisi-001/CVE-2025-34040Exp">
 
 ---
+## CVE-2025-34037 ()
+> 
+- [Taxanehh/CVE-2025-34037](https://github.com/Taxanehh/CVE-2025-34037)	<img alt="forks" src="https://img.shields.io/github/forks/Taxanehh/CVE-2025-34037">	<img alt="stars" src="https://img.shields.io/github/stars/Taxanehh/CVE-2025-34037">
+
+---
 ## CVE-2025-34036 ()
 > 
 - [Prabhukiran161/cve-2025-34036](https://github.com/Prabhukiran161/cve-2025-34036)	<img alt="forks" src="https://img.shields.io/github/forks/Prabhukiran161/cve-2025-34036">	<img alt="stars" src="https://img.shields.io/github/stars/Prabhukiran161/cve-2025-34036">
