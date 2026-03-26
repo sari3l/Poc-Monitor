@@ -94,6 +94,11 @@
 - [Rickidevs/CVE-2026-34070](https://github.com/Rickidevs/CVE-2026-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-34070">
 
 ---
+## CVE-2026-34005 ()
+> 
+- [uky007/CVE-2026-34005](https://github.com/uky007/CVE-2026-34005)	<img alt="forks" src="https://img.shields.io/github/forks/uky007/CVE-2026-34005">	<img alt="stars" src="https://img.shields.io/github/stars/uky007/CVE-2026-34005">
+
+---
 ## CVE-2026-3395 ()
 > 
 - [mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-3395-MaxSite-CMS-Unauthenticated-RCE">
@@ -382,6 +387,11 @@
 - [NULL200OK/CVE-2026-27944](https://github.com/NULL200OK/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-27944">
 - [Skynoxk/CVE-2026-27944](https://github.com/Skynoxk/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/Skynoxk/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/Skynoxk/CVE-2026-27944">
 - [NULL200OK/-nginxui_discover](https://github.com/NULL200OK/-nginxui_discover)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/-nginxui_discover">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/-nginxui_discover">
+
+---
+## CVE-2026-27940 ()
+> 
+- [ngtuonghung/CVE-2026-27940](https://github.com/ngtuonghung/CVE-2026-27940)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2026-27940">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2026-27940">
 
 ---
 ## CVE-2026-27884 ()
