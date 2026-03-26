@@ -1620,6 +1620,7 @@
 - [mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits](https://github.com/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits">
 - [BaoSec/CVE2025-64446-58034](https://github.com/BaoSec/CVE2025-64446-58034)	<img alt="forks" src="https://img.shields.io/github/forks/BaoSec/CVE2025-64446-58034">	<img alt="stars" src="https://img.shields.io/github/stars/BaoSec/CVE2025-64446-58034">
 - [eagle-nett/FORTIWEB_CVE-2025-64446-58034](https://github.com/eagle-nett/FORTIWEB_CVE-2025-64446-58034)	<img alt="forks" src="https://img.shields.io/github/forks/eagle-nett/FORTIWEB_CVE-2025-64446-58034">	<img alt="stars" src="https://img.shields.io/github/stars/eagle-nett/FORTIWEB_CVE-2025-64446-58034">
+- [0xAshwesker/CVE-2025-64446](https://github.com/0xAshwesker/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2025-64446">
 
 ---
 ## CVE-2025-64424 ()

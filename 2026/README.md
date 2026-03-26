@@ -48,6 +48,7 @@
 ## CVE-2026-3891 ()
 > 
 - [joshuavanderpoll/CVE-2026-3891](https://github.com/joshuavanderpoll/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-3891">
+- [vladimirmanylobed451/CVE-2026-3891](https://github.com/vladimirmanylobed451/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/vladimirmanylobed451/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/vladimirmanylobed451/CVE-2026-3891">
 
 ---
 ## CVE-2026-3888 ()
