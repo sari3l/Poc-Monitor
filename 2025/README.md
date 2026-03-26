@@ -4931,6 +4931,7 @@
 - [hzhsec/redis-cve_2025_49844](https://github.com/hzhsec/redis-cve_2025_49844)	<img alt="forks" src="https://img.shields.io/github/forks/hzhsec/redis-cve_2025_49844">	<img alt="stars" src="https://img.shields.io/github/stars/hzhsec/redis-cve_2025_49844">
 - [0xAshwesker/CVE-2025-49844](https://github.com/0xAshwesker/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2025-49844">
 - [Cilectiy/CVE-2025-49844](https://github.com/Cilectiy/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Cilectiy/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Cilectiy/CVE-2025-49844">
+- [zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">
 
 ---
 ## CVE-2025-49752 ()
