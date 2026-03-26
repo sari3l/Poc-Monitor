@@ -5330,6 +5330,11 @@
 - [miguelc49/CVE-2020-10596-2](https://github.com/miguelc49/CVE-2020-10596-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2020-10596-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2020-10596-2">
 
 ---
+## CVE-2020-10567 ()
+> 
+- [PierreAdams/POC-CVE-2020-10567](https://github.com/PierreAdams/POC-CVE-2020-10567)	<img alt="forks" src="https://img.shields.io/github/forks/PierreAdams/POC-CVE-2020-10567">	<img alt="stars" src="https://img.shields.io/github/stars/PierreAdams/POC-CVE-2020-10567">
+
+---
 ## CVE-2020-10560 (2020-03-30T13:15:00)
 > An issue was discovered in Open Source Social Network (OSSN) through 5.3. A user-controlled file path with a weak cryptographic rand() can be used to read any file with the permissions of the webserver. This can lead to further compromise. The attacker must conduct a brute-force attack against the SiteKey to insert into a crafted URL for components/OssnComments/ossn_com.php and/or libraries/ossn.lib.upgrade.php.
 - [kevthehermit/CVE-2020-10560](https://github.com/kevthehermit/CVE-2020-10560)	<img alt="forks" src="https://img.shields.io/github/forks/kevthehermit/CVE-2020-10560">	<img alt="stars" src="https://img.shields.io/github/stars/kevthehermit/CVE-2020-10560">
