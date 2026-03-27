@@ -861,6 +861,11 @@
 - [jFriedli/CVE-2025-6792](https://github.com/jFriedli/CVE-2025-6792)	<img alt="forks" src="https://img.shields.io/github/forks/jFriedli/CVE-2025-6792">	<img alt="stars" src="https://img.shields.io/github/stars/jFriedli/CVE-2025-6792">
 
 ---
+## CVE-2025-67906 ()
+> 
+- [franckferman/CVE-2025-67906](https://github.com/franckferman/CVE-2025-67906)	<img alt="forks" src="https://img.shields.io/github/forks/franckferman/CVE-2025-67906">	<img alt="stars" src="https://img.shields.io/github/stars/franckferman/CVE-2025-67906">
+
+---
 ## CVE-2025-67888 ()
 > 
 - [reewardius/CVE-2025-67888](https://github.com/reewardius/CVE-2025-67888)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67888">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67888">
