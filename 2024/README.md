@@ -7899,6 +7899,8 @@ are not yet active.
 - [Cracked5pider/eop24-26229](https://github.com/Cracked5pider/eop24-26229)	<img alt="forks" src="https://img.shields.io/github/forks/Cracked5pider/eop24-26229">	<img alt="stars" src="https://img.shields.io/github/stars/Cracked5pider/eop24-26229">
 - [nutcr4ck3r/CVE-2024-26229](https://github.com/nutcr4ck3r/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/nutcr4ck3r/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/nutcr4ck3r/CVE-2024-26229">
 - [shinspace92/cve-2024-26229](https://github.com/shinspace92/cve-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/shinspace92/cve-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/shinspace92/cve-2024-26229">
+- [vettrivel007/CVE-2024-26229](https://github.com/vettrivel007/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/vettrivel007/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/vettrivel007/CVE-2024-26229">
+- [dkstar11q/CVE-2024-26229-lpe](https://github.com/dkstar11q/CVE-2024-26229-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/CVE-2024-26229-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/CVE-2024-26229-lpe">
 
 ---
 ## CVE-2024-26218 (2024-04-09T17:15:00)

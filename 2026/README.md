@@ -127,7 +127,7 @@
 - [omer-efe-curkus/CVE-2026-33017-Langflow-RCE-PoC](https://github.com/omer-efe-curkus/CVE-2026-33017-Langflow-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/omer-efe-curkus/CVE-2026-33017-Langflow-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/omer-efe-curkus/CVE-2026-33017-Langflow-RCE-PoC">
 - [SimoesCTT/Sovereign-Echo-33017](https://github.com/SimoesCTT/Sovereign-Echo-33017)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/Sovereign-Echo-33017">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/Sovereign-Echo-33017">
 - [rootdirective-sec/CVE-2026-33017-Lab](https://github.com/rootdirective-sec/CVE-2026-33017-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-33017-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-33017-Lab">
-- [z4yd3/CVE-2026-33017-PoC](https://github.com/z4yd3/CVE-2026-33017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/CVE-2026-33017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/CVE-2026-33017-PoC">
+- [z4yd3/PoC-CVE-2026-33017](https://github.com/z4yd3/PoC-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-33017">
 
 ---
 ## CVE-2026-32941 ()
