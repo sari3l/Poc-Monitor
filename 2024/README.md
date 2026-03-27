@@ -7573,6 +7573,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27840 ()
 > 
 - [Somisomair/CVE-2024-27840](https://github.com/Somisomair/CVE-2024-27840)	<img alt="forks" src="https://img.shields.io/github/forks/Somisomair/CVE-2024-27840">	<img alt="stars" src="https://img.shields.io/github/stars/Somisomair/CVE-2024-27840">
+- [Somisomair/CVE-2024-27840](https://github.com/Somisomair/CVE-2024-27840)	<img alt="forks" src="https://img.shields.io/github/forks/Somisomair/CVE-2024-27840">	<img alt="stars" src="https://img.shields.io/github/stars/Somisomair/CVE-2024-27840">
 
 ---
 ## CVE-2024-27821 (2024-05-14T15:13:00)
