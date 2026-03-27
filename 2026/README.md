@@ -1503,6 +1503,11 @@
 - [MaxMnMl/tpadmin-CVE-2026-2113-poc](https://github.com/MaxMnMl/tpadmin-CVE-2026-2113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/tpadmin-CVE-2026-2113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/tpadmin-CVE-2026-2113-poc">
 
 ---
+## CVE-2026-20963 ()
+> 
+- [jenniferreire26/CVE-2026-20963](https://github.com/jenniferreire26/CVE-2026-20963)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-20963">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-20963">
+
+---
 ## CVE-2026-20856 ()
 > 
 - [b1gchoi/poc-CVE-2026-20856](https://github.com/b1gchoi/poc-CVE-2026-20856)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/poc-CVE-2026-20856">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/poc-CVE-2026-20856">
