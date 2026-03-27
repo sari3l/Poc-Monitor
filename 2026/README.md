@@ -304,6 +304,11 @@
 - [z3r0h3ro/CVE-2026-3062-chain](https://github.com/z3r0h3ro/CVE-2026-3062-chain)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-3062-chain">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-3062-chain">
 
 ---
+## CVE-2026-3055 ()
+> 
+- [RootAid/CVE-2026-3055](https://github.com/RootAid/CVE-2026-3055)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-3055">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-3055">
+
+---
 ## CVE-2026-30498 ()
 > 
 - [Mehdi-Ben-Hamou/CVE-2026-30498](https://github.com/Mehdi-Ben-Hamou/CVE-2026-30498)	<img alt="forks" src="https://img.shields.io/github/forks/Mehdi-Ben-Hamou/CVE-2026-30498">	<img alt="stars" src="https://img.shields.io/github/stars/Mehdi-Ben-Hamou/CVE-2026-30498">
