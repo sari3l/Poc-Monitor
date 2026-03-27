@@ -303,6 +303,11 @@
 - [joshuavanderpoll/CVE-2026-2991](https://github.com/joshuavanderpoll/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-2991">
 
 ---
+## CVE-2026-29909 ()
+> 
+- [qflksheep/CVE-2026-29909-MRCMS-vulnerability](https://github.com/qflksheep/CVE-2026-29909-MRCMS-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/qflksheep/CVE-2026-29909-MRCMS-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/qflksheep/CVE-2026-29909-MRCMS-vulnerability">
+
+---
 ## CVE-2026-29905 ()
 > 
 - [Stalin-143/CVE-2026-29905](https://github.com/Stalin-143/CVE-2026-29905)	<img alt="forks" src="https://img.shields.io/github/forks/Stalin-143/CVE-2026-29905">	<img alt="stars" src="https://img.shields.io/github/stars/Stalin-143/CVE-2026-29905">
