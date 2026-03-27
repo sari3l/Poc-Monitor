@@ -6377,6 +6377,7 @@
 - [Nxploited/CVE-2025-39459](https://github.com/Nxploited/CVE-2025-39459)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-39459">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-39459">
 - [Dit-Developers/CVE-2025-39459](https://github.com/Dit-Developers/CVE-2025-39459)	<img alt="forks" src="https://img.shields.io/github/forks/Dit-Developers/CVE-2025-39459">	<img alt="stars" src="https://img.shields.io/github/stars/Dit-Developers/CVE-2025-39459">
 - [RootHarpy/CVE-2025-39459-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-39459-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-39459-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-39459-Nuclei-Template">
+- [qalesyaSN/CVE-2025-39459](https://github.com/qalesyaSN/CVE-2025-39459)	<img alt="forks" src="https://img.shields.io/github/forks/qalesyaSN/CVE-2025-39459">	<img alt="stars" src="https://img.shields.io/github/stars/qalesyaSN/CVE-2025-39459">
 
 ---
 ## CVE-2025-39436 ()
