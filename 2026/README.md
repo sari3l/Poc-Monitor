@@ -1804,6 +1804,11 @@
 - [Yetazyyy/CVE-2026-0770](https://github.com/Yetazyyy/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/Yetazyyy/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/Yetazyyy/CVE-2026-0770">
 
 ---
+## CVE-2026-0766 ()
+> 
+- [bitt0n/CVE-2026-0766](https://github.com/bitt0n/CVE-2026-0766)	<img alt="forks" src="https://img.shields.io/github/forks/bitt0n/CVE-2026-0766">	<img alt="stars" src="https://img.shields.io/github/stars/bitt0n/CVE-2026-0766">
+
+---
 ## CVE-2026-0745 ()
 > 
 - [blackhatlegend/CVE-2026-0745](https://github.com/blackhatlegend/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-0745">
