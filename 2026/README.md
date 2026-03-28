@@ -843,6 +843,11 @@
 - [Jvr2022/CVE-2026-25126](https://github.com/Jvr2022/CVE-2026-25126)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-25126">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-25126">
 
 ---
+## CVE-2026-25099 ()
+> 
+- [yahiahamza/CVE-2026-25099](https://github.com/yahiahamza/CVE-2026-25099)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-25099">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-25099">
+
+---
 ## CVE-2026-25075 ()
 > 
 - [BishopFox/CVE-2026-25075-check](https://github.com/BishopFox/CVE-2026-25075-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-25075-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-25075-check">
@@ -1171,6 +1176,7 @@
 - [AhmadF77/CVE-2026-23744](https://github.com/AhmadF77/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/AhmadF77/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/AhmadF77/CVE-2026-23744">
 - [0xg00se/CVE-2026-23744-script](https://github.com/0xg00se/CVE-2026-23744-script)	<img alt="forks" src="https://img.shields.io/github/forks/0xg00se/CVE-2026-23744-script">	<img alt="stars" src="https://img.shields.io/github/stars/0xg00se/CVE-2026-23744-script">
 - [fcjaviergarcia/CVE-2026-23744-POC](https://github.com/fcjaviergarcia/CVE-2026-23744-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fcjaviergarcia/CVE-2026-23744-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fcjaviergarcia/CVE-2026-23744-POC">
+- [d3vn0mi/CVE-2026-23744-POC](https://github.com/d3vn0mi/CVE-2026-23744-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2026-23744-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2026-23744-POC">
 
 ---
 ## CVE-2026-23723 ()
