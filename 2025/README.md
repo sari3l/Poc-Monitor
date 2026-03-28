@@ -4150,6 +4150,11 @@
 - [allinsthon/CVE-2025-54135](https://github.com/allinsthon/CVE-2025-54135)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54135">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54135">
 
 ---
+## CVE-2025-54123 ()
+> 
+- [kasem545/CVE-2025-54123-Poc](https://github.com/kasem545/CVE-2025-54123-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/kasem545/CVE-2025-54123-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/kasem545/CVE-2025-54123-Poc">
+
+---
 ## CVE-2025-54110 ()
 > 
 - [ByteHawkSec/CVE-2025-54110-POC](https://github.com/ByteHawkSec/CVE-2025-54110-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHawkSec/CVE-2025-54110-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHawkSec/CVE-2025-54110-POC">
