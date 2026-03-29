@@ -1794,6 +1794,16 @@
 - [cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0](https://github.com/cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0)	<img alt="forks" src="https://img.shields.io/github/forks/cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0">	<img alt="stars" src="https://img.shields.io/github/stars/cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0">
 
 ---
+## CVE-2026-0848 ()
+> 
+- [HyperPS/CVE-2026-0848](https://github.com/HyperPS/CVE-2026-0848)	<img alt="forks" src="https://img.shields.io/github/forks/HyperPS/CVE-2026-0848">	<img alt="stars" src="https://img.shields.io/github/stars/HyperPS/CVE-2026-0848">
+
+---
+## CVE-2026-0847 ()
+> 
+- [HyperPS/CVE-2026-0847](https://github.com/HyperPS/CVE-2026-0847)	<img alt="forks" src="https://img.shields.io/github/forks/HyperPS/CVE-2026-0847">	<img alt="stars" src="https://img.shields.io/github/stars/HyperPS/CVE-2026-0847">
+
+---
 ## CVE-2026-0828 ()
 > 
 - [DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828](https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">
