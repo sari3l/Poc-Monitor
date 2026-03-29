@@ -1794,6 +1794,11 @@
 - [cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0](https://github.com/cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0)	<img alt="forks" src="https://img.shields.io/github/forks/cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0">	<img alt="stars" src="https://img.shields.io/github/stars/cyberwulfy200-dev/CVE-2026-0915-json-Patch.-V2.0">
 
 ---
+## CVE-2026-0897 ()
+> 
+- [HyperPS/CVE-2026-0897](https://github.com/HyperPS/CVE-2026-0897)	<img alt="forks" src="https://img.shields.io/github/forks/HyperPS/CVE-2026-0897">	<img alt="stars" src="https://img.shields.io/github/stars/HyperPS/CVE-2026-0897">
+
+---
 ## CVE-2026-0848 ()
 > 
 - [HyperPS/CVE-2026-0848](https://github.com/HyperPS/CVE-2026-0848)	<img alt="forks" src="https://img.shields.io/github/forks/HyperPS/CVE-2026-0848">	<img alt="stars" src="https://img.shields.io/github/stars/HyperPS/CVE-2026-0848">
