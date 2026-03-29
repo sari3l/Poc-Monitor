@@ -573,6 +573,11 @@
 - [mbanyamer/CVE-2026-26988-LibreNMS-SQLi](https://github.com/mbanyamer/CVE-2026-26988-LibreNMS-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26988-LibreNMS-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26988-LibreNMS-SQLi">
 
 ---
+## CVE-2026-26980 ()
+> 
+- [vognik/CVE-2026-26980](https://github.com/vognik/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/vognik/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/vognik/CVE-2026-26980">
+
+---
 ## CVE-2026-26833 ()
 > 
 - [zebbernCVE/CVE-2026-26833](https://github.com/zebbernCVE/CVE-2026-26833)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-26833">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-26833">
