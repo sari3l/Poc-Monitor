@@ -313,6 +313,7 @@
 ## CVE-2026-3055 ()
 > 
 - [RootAid/CVE-2026-3055](https://github.com/RootAid/CVE-2026-3055)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-3055">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-3055">
+- [0xBlackash/CVE-2026-3055](https://github.com/0xBlackash/CVE-2026-3055)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-3055">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-3055">
 
 ---
 ## CVE-2026-30498 ()
