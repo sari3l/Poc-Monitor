@@ -467,6 +467,7 @@
 ## CVE-2026-27940 ()
 > 
 - [ngtuonghung/CVE-2026-27940](https://github.com/ngtuonghung/CVE-2026-27940)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2026-27940">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2026-27940">
+- [ngtuonghung/CVE-2026-27940](https://github.com/ngtuonghung/CVE-2026-27940)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2026-27940">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2026-27940">
 
 ---
 ## CVE-2026-27884 ()
