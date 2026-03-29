@@ -3938,6 +3938,7 @@
 - [eagle-nett/React2Shell-PoC-CVE-2025-55182](https://github.com/eagle-nett/React2Shell-PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/eagle-nett/React2Shell-PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/eagle-nett/React2Shell-PoC-CVE-2025-55182">
 - [devianntsec/CVE-2025-55182-React2Shell-Masters-Thesis](https://github.com/devianntsec/CVE-2025-55182-React2Shell-Masters-Thesis)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2025-55182-React2Shell-Masters-Thesis">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2025-55182-React2Shell-Masters-Thesis">
 - [l0lsec/cve-2025-55182-lab](https://github.com/l0lsec/cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/cve-2025-55182-lab">
+- [0x0asif/CVE-2025-55182](https://github.com/0x0asif/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0x0asif/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0x0asif/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
@@ -7304,6 +7305,7 @@
 - [skynet-f-nvidia/CVE-2025-31133](https://github.com/skynet-f-nvidia/CVE-2025-31133)	<img alt="forks" src="https://img.shields.io/github/forks/skynet-f-nvidia/CVE-2025-31133">	<img alt="stars" src="https://img.shields.io/github/stars/skynet-f-nvidia/CVE-2025-31133">
 - [omne-earth/arca](https://github.com/omne-earth/arca)	<img alt="forks" src="https://img.shields.io/github/forks/omne-earth/arca">	<img alt="stars" src="https://img.shields.io/github/stars/omne-earth/arca">
 - [C-h4ck-0/Learn-about-cve-2025-31133-poc](https://github.com/C-h4ck-0/Learn-about-cve-2025-31133-poc)	<img alt="forks" src="https://img.shields.io/github/forks/C-h4ck-0/Learn-about-cve-2025-31133-poc">	<img alt="stars" src="https://img.shields.io/github/stars/C-h4ck-0/Learn-about-cve-2025-31133-poc">
+- [scherepiuk/container-escape-ebpf](https://github.com/scherepiuk/container-escape-ebpf)	<img alt="forks" src="https://img.shields.io/github/forks/scherepiuk/container-escape-ebpf">	<img alt="stars" src="https://img.shields.io/github/stars/scherepiuk/container-escape-ebpf">
 
 ---
 ## CVE-2025-31131 ()
