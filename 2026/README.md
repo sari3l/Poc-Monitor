@@ -485,6 +485,11 @@
 - [RaynLight/CVE-2026-27884](https://github.com/RaynLight/CVE-2026-27884)	<img alt="forks" src="https://img.shields.io/github/forks/RaynLight/CVE-2026-27884">	<img alt="stars" src="https://img.shields.io/github/stars/RaynLight/CVE-2026-27884">
 
 ---
+## CVE-2026-27876 ()
+> 
+- [0xBlackash/CVE-2026-27876](https://github.com/0xBlackash/CVE-2026-27876)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-27876">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-27876">
+
+---
 ## CVE-2026-27831 ()
 > 
 - [bluedragonsecurity/CVE-2026-27831-POC](https://github.com/bluedragonsecurity/CVE-2026-27831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-27831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-27831-POC">
