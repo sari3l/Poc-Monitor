@@ -921,6 +921,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [OhDamnn/Noregressh](https://github.com/OhDamnn/Noregressh)	<img alt="forks" src="https://img.shields.io/github/forks/OhDamnn/Noregressh">	<img alt="stars" src="https://img.shields.io/github/stars/OhDamnn/Noregressh">
 - [Remnant-DB/CVE-2024-6387](https://github.com/Remnant-DB/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2024-6387">
 - [Doux-x/CVE-2024-6387-analysis](https://github.com/Doux-x/CVE-2024-6387-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Doux-x/CVE-2024-6387-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Doux-x/CVE-2024-6387-analysis">
+- [OHHDamnBRO/Noregressh](https://github.com/OHHDamnBRO/Noregressh)	<img alt="forks" src="https://img.shields.io/github/forks/OHHDamnBRO/Noregressh">	<img alt="stars" src="https://img.shields.io/github/stars/OHHDamnBRO/Noregressh">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
