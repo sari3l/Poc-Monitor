@@ -9394,6 +9394,11 @@
 - [Live-Hack-CVE/CVE-2021-21200](https://github.com/Live-Hack-CVE/CVE-2021-21200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21200">
 
 ---
+## CVE-2021-21191 ()
+> 
+- [JacobTaylor3/CVE-2021-21191---CVE-2021-21192](https://github.com/JacobTaylor3/CVE-2021-21191---CVE-2021-21192)	<img alt="forks" src="https://img.shields.io/github/forks/JacobTaylor3/CVE-2021-21191---CVE-2021-21192">	<img alt="stars" src="https://img.shields.io/github/stars/JacobTaylor3/CVE-2021-21191---CVE-2021-21192">
+
+---
 ## CVE-2021-2109 (2021-01-20T15:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
 - [Vulnmachines/oracle-weblogic-CVE-2021-2109](https://github.com/Vulnmachines/oracle-weblogic-CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/oracle-weblogic-CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/oracle-weblogic-CVE-2021-2109">
