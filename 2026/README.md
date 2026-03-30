@@ -389,6 +389,11 @@
 - [thegenetic/CVE-2026-2964-Lab](https://github.com/thegenetic/CVE-2026-2964-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2026-2964-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2026-2964-Lab">
 
 ---
+## CVE-2026-29597 ()
+> 
+- [padayali-JD/CVE-2026-29597](https://github.com/padayali-JD/CVE-2026-29597)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2026-29597">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2026-29597">
+
+---
 ## CVE-2026-29187 ()
 > 
 - [ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4](https://github.com/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4">
@@ -1533,6 +1538,11 @@
 ## CVE-2026-2113 ()
 > 
 - [MaxMnMl/tpadmin-CVE-2026-2113-poc](https://github.com/MaxMnMl/tpadmin-CVE-2026-2113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/tpadmin-CVE-2026-2113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/tpadmin-CVE-2026-2113-poc">
+
+---
+## CVE-2026-20999 ()
+> 
+- [lasdjk/CVE-2026-20999-my-thought](https://github.com/lasdjk/CVE-2026-20999-my-thought)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-20999-my-thought">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-20999-my-thought">
 
 ---
 ## CVE-2026-20963 ()
