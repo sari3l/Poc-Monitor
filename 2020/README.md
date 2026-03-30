@@ -4692,6 +4692,11 @@
 - [Live-Hack-CVE/CVE-2020-13659](https://github.com/Live-Hack-CVE/CVE-2020-13659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13659">
 
 ---
+## CVE-2020-13654 ()
+> 
+- [Astaruf/CVE-2020-13654](https://github.com/Astaruf/CVE-2020-13654)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2020-13654">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2020-13654">
+
+---
 ## CVE-2020-13614 (2020-05-26T23:15:00)
 > An issue was discovered in ssl.c in Axel before 2.17.8. The TLS implementation lacks hostname verification.
 - [Live-Hack-CVE/CVE-2020-13614](https://github.com/Live-Hack-CVE/CVE-2020-13614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13614">
