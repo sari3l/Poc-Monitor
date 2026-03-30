@@ -7710,6 +7710,8 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [kljunowsky/CVE-2024-27348](https://github.com/kljunowsky/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2024-27348">
 - [jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE](https://github.com/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE">
 - [p0et08/CVE-2024-27348](https://github.com/p0et08/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/p0et08/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/p0et08/CVE-2024-27348">
+- [akelaqe/CVE-2024-27348-HugeGraph-RCE](https://github.com/akelaqe/CVE-2024-27348-HugeGraph-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/akelaqe/CVE-2024-27348-HugeGraph-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/akelaqe/CVE-2024-27348-HugeGraph-RCE">
+- [wqfh/CVE-2024-27348](https://github.com/wqfh/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/wqfh/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/wqfh/CVE-2024-27348">
 
 ---
 ## CVE-2024-27316 (2024-04-04T20:15:00)
