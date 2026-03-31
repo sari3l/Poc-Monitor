@@ -4163,6 +4163,7 @@
 - [0xzap/CVE-2025-54123](https://github.com/0xzap/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2025-54123">
 - [tristanqtn/CVE-2025-54123](https://github.com/tristanqtn/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/tristanqtn/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/tristanqtn/CVE-2025-54123">
 - [f4dee-backup/CVE-2025-54123](https://github.com/f4dee-backup/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-54123">
+- [davidzzo23/CVE-2025-54123](https://github.com/davidzzo23/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/davidzzo23/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/davidzzo23/CVE-2025-54123">
 
 ---
 ## CVE-2025-54110 ()
