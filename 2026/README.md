@@ -169,6 +169,7 @@
 - [SimoesCTT/Sovereign-Echo-33017](https://github.com/SimoesCTT/Sovereign-Echo-33017)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/Sovereign-Echo-33017">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/Sovereign-Echo-33017">
 - [rootdirective-sec/CVE-2026-33017-Lab](https://github.com/rootdirective-sec/CVE-2026-33017-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-33017-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-33017-Lab">
 - [z4yd3/PoC-CVE-2026-33017](https://github.com/z4yd3/PoC-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-33017">
+- [EQSTLab/CVE-2026-33017](https://github.com/EQSTLab/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33017">
 
 ---
 ## CVE-2026-32941 ()
@@ -393,6 +394,11 @@
 > 
 - [thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE](https://github.com/thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2026-2964-Lab-Prototype-Pollution-to-RCE">
 - [thegenetic/CVE-2026-2964-Lab](https://github.com/thegenetic/CVE-2026-2964-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2026-2964-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2026-2964-Lab">
+
+---
+## CVE-2026-29598 ()
+> 
+- [padayali-JD/CVE-2026-29598](https://github.com/padayali-JD/CVE-2026-29598)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2026-29598">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2026-29598">
 
 ---
 ## CVE-2026-29597 ()
@@ -1438,6 +1444,11 @@
 ## CVE-2026-21721 ()
 > 
 - [Leonideath/Exploit-LPE-CVE-2026-21721](https://github.com/Leonideath/Exploit-LPE-CVE-2026-21721)	<img alt="forks" src="https://img.shields.io/github/forks/Leonideath/Exploit-LPE-CVE-2026-21721">	<img alt="stars" src="https://img.shields.io/github/stars/Leonideath/Exploit-LPE-CVE-2026-21721">
+
+---
+## CVE-2026-21717 ()
+> 
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2026-21717">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2026-21717">
 
 ---
 ## CVE-2026-21643 ()
