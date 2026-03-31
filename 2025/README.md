@@ -4162,6 +4162,7 @@
 - [kasem545/CVE-2025-54123-Poc](https://github.com/kasem545/CVE-2025-54123-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/kasem545/CVE-2025-54123-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/kasem545/CVE-2025-54123-Poc">
 - [0xzap/CVE-2025-54123](https://github.com/0xzap/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2025-54123">
 - [tristanqtn/CVE-2025-54123](https://github.com/tristanqtn/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/tristanqtn/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/tristanqtn/CVE-2025-54123">
+- [f4dee-backup/CVE-2025-54123](https://github.com/f4dee-backup/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-54123">
 
 ---
 ## CVE-2025-54110 ()
@@ -7983,7 +7984,7 @@
 - [00xCanelo/CVE-2025-27591](https://github.com/00xCanelo/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-27591">
 - [Thekin-ctrl/CVE-2025-27591-Below](https://github.com/Thekin-ctrl/CVE-2025-27591-Below)	<img alt="forks" src="https://img.shields.io/github/forks/Thekin-ctrl/CVE-2025-27591-Below">	<img alt="stars" src="https://img.shields.io/github/stars/Thekin-ctrl/CVE-2025-27591-Below">
 - [Cythonic1/CVE-2025-27591](https://github.com/Cythonic1/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Cythonic1/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Cythonic1/CVE-2025-27591">
-- [umutcamliyurt/CVE-2025-27591](https://github.com/umutcamliyurt/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/umutcamliyurt/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/umutcamliyurt/CVE-2025-27591">
+- [nikolas-trey/CVE-2025-27591](https://github.com/nikolas-trey/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/nikolas-trey/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/nikolas-trey/CVE-2025-27591">
 - [VisaiCyber/CVE-2025-27591-below-](https://github.com/VisaiCyber/CVE-2025-27591-below-)	<img alt="forks" src="https://img.shields.io/github/forks/VisaiCyber/CVE-2025-27591-below-">	<img alt="stars" src="https://img.shields.io/github/stars/VisaiCyber/CVE-2025-27591-below-">
 - [danil-koltsov/below-log-race-poc](https://github.com/danil-koltsov/below-log-race-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danil-koltsov/below-log-race-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danil-koltsov/below-log-race-poc">
 - [Diabl0xE/CVE-2025-27519](https://github.com/Diabl0xE/CVE-2025-27519)	<img alt="forks" src="https://img.shields.io/github/forks/Diabl0xE/CVE-2025-27519">	<img alt="stars" src="https://img.shields.io/github/stars/Diabl0xE/CVE-2025-27519">
