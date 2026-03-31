@@ -252,6 +252,11 @@
 - [ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0](https://github.com/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0">
 
 ---
+## CVE-2026-32096 ()
+> 
+- [andrebhu/CVE-2026-32096](https://github.com/andrebhu/CVE-2026-32096)	<img alt="forks" src="https://img.shields.io/github/forks/andrebhu/CVE-2026-32096">	<img alt="stars" src="https://img.shields.io/github/stars/andrebhu/CVE-2026-32096">
+
+---
 ## CVE-2026-31899 ()
 > 
 - [SnailSploit/CVE-2026-31899](https://github.com/SnailSploit/CVE-2026-31899)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-31899">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-31899">
@@ -1866,6 +1871,8 @@
 ## CVE-2026-0848 ()
 > 
 - [HyperPS/CVE-2026-0848](https://github.com/HyperPS/CVE-2026-0848)	<img alt="forks" src="https://img.shields.io/github/forks/HyperPS/CVE-2026-0848">	<img alt="stars" src="https://img.shields.io/github/stars/HyperPS/CVE-2026-0848">
+- [fevar54/CVE-2026-0848-Scanner---Herramienta-de-Detecci-n](https://github.com/fevar54/CVE-2026-0848-Scanner---Herramienta-de-Detecci-n)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0848-Scanner---Herramienta-de-Detecci-n">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0848-Scanner---Herramienta-de-Detecci-n">
+- [fevar54/CVE-2026-0848-PoC-Improper-Input-Validation](https://github.com/fevar54/CVE-2026-0848-PoC-Improper-Input-Validation)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0848-PoC-Improper-Input-Validation">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0848-PoC-Improper-Input-Validation">
 
 ---
 ## CVE-2026-0847 ()
