@@ -1939,6 +1939,11 @@
 - [96613686/CVE-2025-62454](https://github.com/96613686/CVE-2025-62454)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2025-62454">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2025-62454">
 
 ---
+## CVE-2025-62429 ()
+> 
+- [drkim-dev/CVE-2025-62429](https://github.com/drkim-dev/CVE-2025-62429)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2025-62429">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2025-62429">
+
+---
 ## CVE-2025-62410 ()
 > 
 - [SubZeroHackerz/CVE-2025-62410](https://github.com/SubZeroHackerz/CVE-2025-62410)	<img alt="forks" src="https://img.shields.io/github/forks/SubZeroHackerz/CVE-2025-62410">	<img alt="stars" src="https://img.shields.io/github/stars/SubZeroHackerz/CVE-2025-62410">
