@@ -5960,6 +5960,7 @@
 - [eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044](https://github.com/eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044">
 - [nasimanpha-create/ing-switch](https://github.com/nasimanpha-create/ing-switch)	<img alt="forks" src="https://img.shields.io/github/forks/nasimanpha-create/ing-switch">	<img alt="stars" src="https://img.shields.io/github/stars/nasimanpha-create/ing-switch">
 - [umair-aziz025/dahua-cve-research](https://github.com/umair-aziz025/dahua-cve-research)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/dahua-cve-research">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/dahua-cve-research">
+- [Bd-Mutant7/DahuaLoginBypass](https://github.com/Bd-Mutant7/DahuaLoginBypass)	<img alt="forks" src="https://img.shields.io/github/forks/Bd-Mutant7/DahuaLoginBypass">	<img alt="stars" src="https://img.shields.io/github/stars/Bd-Mutant7/DahuaLoginBypass">
 
 ---
 ## CVE-2021-33037 (2021-07-12T15:15:00)
