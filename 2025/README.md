@@ -8885,6 +8885,7 @@
 - [Untouchable17/CVE-2025-24054](https://github.com/Untouchable17/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/Untouchable17/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/Untouchable17/CVE-2025-24054">
 - [WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC](https://github.com/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteDominion/CVE-2025-24054_CVE-2025-24071-PoC">
 - [DukeSec97/CVE-2025-24054](https://github.com/DukeSec97/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/DukeSec97/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/DukeSec97/CVE-2025-24054">
+- [SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module](https://github.com/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">
 
 ---
 ## CVE-2025-2404 ()
