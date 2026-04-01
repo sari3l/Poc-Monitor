@@ -367,6 +367,11 @@
 - [syphonetic/CVE-2026-30345](https://github.com/syphonetic/CVE-2026-30345)	<img alt="forks" src="https://img.shields.io/github/forks/syphonetic/CVE-2026-30345">	<img alt="stars" src="https://img.shields.io/github/stars/syphonetic/CVE-2026-30345">
 
 ---
+## CVE-2026-30332 ()
+> 
+- [B1tBreaker/CVE-2026-30332](https://github.com/B1tBreaker/CVE-2026-30332)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBreaker/CVE-2026-30332">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBreaker/CVE-2026-30332">
+
+---
 ## CVE-2026-30081 ()
 > 
 - [rakeshelamaran98/CVE-2026-30081](https://github.com/rakeshelamaran98/CVE-2026-30081)	<img alt="forks" src="https://img.shields.io/github/forks/rakeshelamaran98/CVE-2026-30081">	<img alt="stars" src="https://img.shields.io/github/stars/rakeshelamaran98/CVE-2026-30081">
