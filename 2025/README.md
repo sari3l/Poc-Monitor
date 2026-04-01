@@ -7956,6 +7956,7 @@
 - [Alchemist3dot14/CVE-2025-2783](https://github.com/Alchemist3dot14/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2025-2783">
 - [byteReaper77/CVE-2025-2783](https://github.com/byteReaper77/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-2783">
 - [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
+- [aronfour/CVE-2025-2783](https://github.com/aronfour/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/aronfour/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/aronfour/CVE-2025-2783">
 
 ---
 ## CVE-2025-27817 ()
@@ -9985,6 +9986,11 @@
 ## CVE-2025-12595 ()
 > 
 - [lagerhaker539/CVE-2025-12595-POC](https://github.com/lagerhaker539/CVE-2025-12595-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lagerhaker539/CVE-2025-12595-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lagerhaker539/CVE-2025-12595-POC">
+
+---
+## CVE-2025-12543 ()
+> 
+- [kavin71725/CVE-2025-12543-Fix-for-Wildfly](https://github.com/kavin71725/CVE-2025-12543-Fix-for-Wildfly)	<img alt="forks" src="https://img.shields.io/github/forks/kavin71725/CVE-2025-12543-Fix-for-Wildfly">	<img alt="stars" src="https://img.shields.io/github/stars/kavin71725/CVE-2025-12543-Fix-for-Wildfly">
 
 ---
 ## CVE-2025-12539 ()
