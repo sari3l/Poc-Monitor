@@ -272,6 +272,11 @@
 - [andrebhu/CVE-2026-32096](https://github.com/andrebhu/CVE-2026-32096)	<img alt="forks" src="https://img.shields.io/github/forks/andrebhu/CVE-2026-32096">	<img alt="stars" src="https://img.shields.io/github/stars/andrebhu/CVE-2026-32096">
 
 ---
+## CVE-2026-31900 ()
+> 
+- [Batosay1337Lab/CVE-2026-31900](https://github.com/Batosay1337Lab/CVE-2026-31900)	<img alt="forks" src="https://img.shields.io/github/forks/Batosay1337Lab/CVE-2026-31900">	<img alt="stars" src="https://img.shields.io/github/stars/Batosay1337Lab/CVE-2026-31900">
+
+---
 ## CVE-2026-31899 ()
 > 
 - [SnailSploit/CVE-2026-31899](https://github.com/SnailSploit/CVE-2026-31899)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-31899">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-31899">
