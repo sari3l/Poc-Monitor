@@ -3952,6 +3952,7 @@
 - [l0lsec/cve-2025-55182-lab](https://github.com/l0lsec/cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/cve-2025-55182-lab">
 - [0x0asif/CVE-2025-55182](https://github.com/0x0asif/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0x0asif/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0x0asif/CVE-2025-55182">
 - [amikanev/CVE-2025-55182-LAB](https://github.com/amikanev/CVE-2025-55182-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/amikanev/CVE-2025-55182-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/amikanev/CVE-2025-55182-LAB">
+- [hujiaozhuzhu/CVE-2025-55182_liyon](https://github.com/hujiaozhuzhu/CVE-2025-55182_liyon)	<img alt="forks" src="https://img.shields.io/github/forks/hujiaozhuzhu/CVE-2025-55182_liyon">	<img alt="stars" src="https://img.shields.io/github/stars/hujiaozhuzhu/CVE-2025-55182_liyon">
 
 ---
 ## CVE-2025-55130 ()
