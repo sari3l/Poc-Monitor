@@ -31,6 +31,11 @@
 - [kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2026-5201">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2026-5201">
 
 ---
+## CVE-2026-5027 ()
+> 
+- [yahiahamza/CVE-2026-5027](https://github.com/yahiahamza/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-5027">
+
+---
 ## CVE-2026-4821 ()
 > 
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
