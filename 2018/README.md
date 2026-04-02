@@ -1506,6 +1506,7 @@
 - [Remnant-DB/CVE-2018-15473](https://github.com/Remnant-DB/CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2018-15473">
 - [K3rn3l-32/Threaded-CVE-2018-15473](https://github.com/K3rn3l-32/Threaded-CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/K3rn3l-32/Threaded-CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/K3rn3l-32/Threaded-CVE-2018-15473">
 - [wtbacon/cve-2018-15473](https://github.com/wtbacon/cve-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/wtbacon/cve-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/wtbacon/cve-2018-15473">
+- [kikechans/SSH-Enum-CVE-2018-15473](https://github.com/kikechans/SSH-Enum-CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/SSH-Enum-CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/SSH-Enum-CVE-2018-15473">
 
 ---
 ## CVE-2018-15133 (2018-08-09T19:29:00)
