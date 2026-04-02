@@ -529,6 +529,7 @@
 ## CVE-2026-28766 ()
 > 
 - [MichaelAdamGroberman/CVE-2026-28766](https://github.com/MichaelAdamGroberman/CVE-2026-28766)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-28766">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-28766">
+- [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
 
 ---
 ## CVE-2026-2848 ()
@@ -575,6 +576,7 @@
 - [NULL200OK/CVE-2026-27944](https://github.com/NULL200OK/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-27944">
 - [Skynoxk/CVE-2026-27944](https://github.com/Skynoxk/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/Skynoxk/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/Skynoxk/CVE-2026-27944">
 - [NULL200OK/-nginxui_discover](https://github.com/NULL200OK/-nginxui_discover)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/-nginxui_discover">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/-nginxui_discover">
+- [Goultarde/CVE-2026-27944-poc](https://github.com/Goultarde/CVE-2026-27944-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2026-27944-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2026-27944-poc">
 
 ---
 ## CVE-2026-27940 ()
