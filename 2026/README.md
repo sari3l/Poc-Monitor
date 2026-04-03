@@ -41,6 +41,7 @@
 - [yahiahamza/CVE-2026-5027](https://github.com/yahiahamza/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-5027">
 - [min8282/CVE-2026-5027](https://github.com/min8282/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2026-5027">
 - [EQSTLab/CVE-2026-5027](https://github.com/EQSTLab/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-5027">
+- [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
 
 ---
 ## CVE-2026-4821 ()
