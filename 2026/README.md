@@ -144,6 +144,11 @@
 - [skoveit/CVE-2026-34200](https://github.com/skoveit/CVE-2026-34200)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-34200">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-34200">
 
 ---
+## CVE-2026-34156 ()
+> 
+- [0xBlackash/CVE-2026-34156](https://github.com/0xBlackash/CVE-2026-34156)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34156">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34156">
+
+---
 ## CVE-2026-34070 ()
 > 
 - [Rickidevs/CVE-2026-34070](https://github.com/Rickidevs/CVE-2026-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-34070">

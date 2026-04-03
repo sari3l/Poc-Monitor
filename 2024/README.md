@@ -8782,6 +8782,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-23700 ()
 > 
 - [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)	<img alt="forks" src="https://img.shields.io/github/forks/canyie/CVE-2024-23700">	<img alt="stars" src="https://img.shields.io/github/stars/canyie/CVE-2024-23700">
+- [kaitokidc500/CVE-2024-23700-C2-Server](https://github.com/kaitokidc500/CVE-2024-23700-C2-Server)	<img alt="forks" src="https://img.shields.io/github/forks/kaitokidc500/CVE-2024-23700-C2-Server">	<img alt="stars" src="https://img.shields.io/github/stars/kaitokidc500/CVE-2024-23700-C2-Server">
 
 ---
 ## CVE-2024-23692 (2024-05-31T10:15:00)
