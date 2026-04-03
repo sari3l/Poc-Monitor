@@ -2674,6 +2674,11 @@
 - [B1ack4sh/Blackash-CVE-2025-59118](https://github.com/B1ack4sh/Blackash-CVE-2025-59118)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-59118">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-59118">
 
 ---
+## CVE-2025-59059 ()
+> 
+- [pl4tyz/CVE-2025-59059-Misattributed-RCE-in-Apache-Ranger-Static-Analysis-Correction](https://github.com/pl4tyz/CVE-2025-59059-Misattributed-RCE-in-Apache-Ranger-Static-Analysis-Correction)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2025-59059-Misattributed-RCE-in-Apache-Ranger-Static-Analysis-Correction">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2025-59059-Misattributed-RCE-in-Apache-Ranger-Static-Analysis-Correction">
+
+---
 ## CVE-2025-59057 ()
 > 
 - [boroeurnprach/CVE-2025-59057](https://github.com/boroeurnprach/CVE-2025-59057)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-59057">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-59057">

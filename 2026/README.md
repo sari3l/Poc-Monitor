@@ -216,6 +216,11 @@
 - [redyank/CVE-2026-33310](https://github.com/redyank/CVE-2026-33310)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33310">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33310">
 
 ---
+## CVE-2026-33149 ()
+> 
+- [FilipeGaudard/CVE-2026-33149-PoC](https://github.com/FilipeGaudard/CVE-2026-33149-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-33149-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-33149-PoC">
+
+---
 ## CVE-2026-33147 ()
 > 
 - [redyank/CVE-2026-33147](https://github.com/redyank/CVE-2026-33147)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33147">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33147">
