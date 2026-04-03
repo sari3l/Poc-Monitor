@@ -493,6 +493,7 @@
 ## CVE-2026-2991 ()
 > 
 - [joshuavanderpoll/CVE-2026-2991](https://github.com/joshuavanderpoll/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-2991">
+- [Jumpthereness578/CVE-2026-2991](https://github.com/Jumpthereness578/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/Jumpthereness578/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/Jumpthereness578/CVE-2026-2991">
 
 ---
 ## CVE-2026-29909 ()
