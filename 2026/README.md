@@ -538,6 +538,7 @@
 - [PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass](https://github.com/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/PtechAmanja/CVE-2026-29000-pac4j-jwt-auth-bypass">
 - [ClayOfGilgamesh/CVE-2026-29000](https://github.com/ClayOfGilgamesh/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/ClayOfGilgamesh/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/ClayOfGilgamesh/CVE-2026-29000">
 - [0xW1LD/CVE-2026-29000](https://github.com/0xW1LD/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/0xW1LD/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/0xW1LD/CVE-2026-29000">
+- [yasirr10/CVE-2026-29000](https://github.com/yasirr10/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/yasirr10/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/yasirr10/CVE-2026-29000">
 
 ---
 ## CVE-2026-2898 ()
