@@ -2020,6 +2020,7 @@
 - [affix/CVE-2026-0770-PoC](https://github.com/affix/CVE-2026-0770-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/affix/CVE-2026-0770-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/affix/CVE-2026-0770-PoC">
 - [0xgh057r3c0n/CVE-2026-0770](https://github.com/0xgh057r3c0n/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-0770">
 - [Yetazyyy/CVE-2026-0770](https://github.com/Yetazyyy/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/Yetazyyy/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/Yetazyyy/CVE-2026-0770">
+- [0xBlackash/CVE-2026-0770](https://github.com/0xBlackash/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0770">
 
 ---
 ## CVE-2026-0766 ()
