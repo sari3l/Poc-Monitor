@@ -125,6 +125,11 @@
 - [FilipeGaudard/CVE-2026-35045-PoC](https://github.com/FilipeGaudard/CVE-2026-35045-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-35045-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-35045-PoC">
 
 ---
+## CVE-2026-34838 ()
+> 
+- [bamuwe/CVE-2026-34838](https://github.com/bamuwe/CVE-2026-34838)	<img alt="forks" src="https://img.shields.io/github/forks/bamuwe/CVE-2026-34838">	<img alt="stars" src="https://img.shields.io/github/stars/bamuwe/CVE-2026-34838">
+
+---
 ## CVE-2026-34828 ()
 > 
 - [0xmrma/CVE-2026-34828](https://github.com/0xmrma/CVE-2026-34828)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-34828">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-34828">
