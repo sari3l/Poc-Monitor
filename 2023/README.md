@@ -6667,6 +6667,7 @@ and the severity is therefore considered low.
 - [K5LK/CVE-2023-2640-32629](https://github.com/K5LK/CVE-2023-2640-32629)	<img alt="forks" src="https://img.shields.io/github/forks/K5LK/CVE-2023-2640-32629">	<img alt="stars" src="https://img.shields.io/github/stars/K5LK/CVE-2023-2640-32629">
 - [xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC">
 - [K5LK/CVE-2023-2640-32629](https://github.com/K5LK/CVE-2023-2640-32629)	<img alt="forks" src="https://img.shields.io/github/forks/K5LK/CVE-2023-2640-32629">	<img alt="stars" src="https://img.shields.io/github/stars/K5LK/CVE-2023-2640-32629">
+- [z3usx01/CVE-2023-2640-3262-PoC](https://github.com/z3usx01/CVE-2023-2640-3262-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/z3usx01/CVE-2023-2640-3262-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/z3usx01/CVE-2023-2640-3262-PoC">
 
 ---
 ## CVE-2023-26360 (2023-03-23T20:15:00)
