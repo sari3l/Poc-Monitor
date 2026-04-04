@@ -125,6 +125,11 @@
 - [0xBlackash/CVE-2026-35616](https://github.com/0xBlackash/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-35616">
 
 ---
+## CVE-2026-35570 ()
+> 
+- [Rickidevs/CVE-2026-35570](https://github.com/Rickidevs/CVE-2026-35570)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-35570">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-35570">
+
+---
 ## CVE-2026-35045 ()
 > 
 - [FilipeGaudard/CVE-2026-35045-PoC](https://github.com/FilipeGaudard/CVE-2026-35045-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-35045-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-35045-PoC">
@@ -204,6 +209,11 @@
 ## CVE-2026-33752 ()
 > 
 - [redyank/CVE-2026-33752](https://github.com/redyank/CVE-2026-33752)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33752">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33752">
+
+---
+## CVE-2026-33701 ()
+> 
+- [pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation](https://github.com/pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation">
 
 ---
 ## CVE-2026-33693 ()
