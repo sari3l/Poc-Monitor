@@ -86,6 +86,7 @@
 - [avivyap/CVE-2011-2523](https://github.com/avivyap/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/avivyap/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/avivyap/CVE-2011-2523">
 - [hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit](https://github.com/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/hajisthabegum/Exploiting-vsFTPd-2.3.4-Backdoor-Vulnerability-Ethical-Hacking-Lab-with-Metasploitable-2-Metasploit">
 - [seerat-fatima21/vsftpd-exploit](https://github.com/seerat-fatima21/vsftpd-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/seerat-fatima21/vsftpd-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/seerat-fatima21/vsftpd-exploit">
+- [Dahalsamir/CVE-2011-2523-exploit](https://github.com/Dahalsamir/CVE-2011-2523-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Dahalsamir/CVE-2011-2523-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Dahalsamir/CVE-2011-2523-exploit">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
