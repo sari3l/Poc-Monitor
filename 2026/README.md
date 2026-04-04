@@ -130,6 +130,11 @@
 - [Rickidevs/CVE-2026-35570](https://github.com/Rickidevs/CVE-2026-35570)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-35570">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-35570">
 
 ---
+## CVE-2026-35492 ()
+> 
+- [redyank/CVE-2026-35492](https://github.com/redyank/CVE-2026-35492)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-35492">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-35492">
+
+---
 ## CVE-2026-35045 ()
 > 
 - [FilipeGaudard/CVE-2026-35045-PoC](https://github.com/FilipeGaudard/CVE-2026-35045-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-35045-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-35045-PoC">
