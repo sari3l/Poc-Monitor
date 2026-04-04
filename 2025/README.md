@@ -3959,6 +3959,7 @@
 - [amikanev/CVE-2025-55182-LAB](https://github.com/amikanev/CVE-2025-55182-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/amikanev/CVE-2025-55182-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/amikanev/CVE-2025-55182-LAB">
 - [hujiaozhuzhu/CVE-2025-55182_liyon](https://github.com/hujiaozhuzhu/CVE-2025-55182_liyon)	<img alt="forks" src="https://img.shields.io/github/forks/hujiaozhuzhu/CVE-2025-55182_liyon">	<img alt="stars" src="https://img.shields.io/github/stars/hujiaozhuzhu/CVE-2025-55182_liyon">
 - [aliksir/nextjs-security-scanner](https://github.com/aliksir/nextjs-security-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/aliksir/nextjs-security-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/aliksir/nextjs-security-scanner">
+- [toprak-t800/CVE-2025-55182](https://github.com/toprak-t800/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/toprak-t800/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/toprak-t800/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
