@@ -1283,6 +1283,7 @@
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
 - [ekomsSavior/telnet_scan](https://github.com/ekomsSavior/telnet_scan)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/telnet_scan">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/telnet_scan">
 - [athack-ctf/chall2026-telneted](https://github.com/athack-ctf/chall2026-telneted)	<img alt="forks" src="https://img.shields.io/github/forks/athack-ctf/chall2026-telneted">	<img alt="stars" src="https://img.shields.io/github/stars/athack-ctf/chall2026-telneted">
+- [Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
 
 ---
 ## CVE-2026-2406 ()
@@ -1341,6 +1342,7 @@
 - [0xBlackash/CVE-2026-24061](https://github.com/0xBlackash/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-24061">
 - [HD0x01/CVE-2026-24061-NSE](https://github.com/HD0x01/CVE-2026-24061-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/HD0x01/CVE-2026-24061-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/HD0x01/CVE-2026-24061-NSE">
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
+- [Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
 
 ---
 ## CVE-2026-24018 ()
