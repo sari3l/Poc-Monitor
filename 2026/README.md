@@ -1534,6 +1534,7 @@
 ## CVE-2026-22557 ()
 > 
 - [GarethMSheldon/cve-2026-22557-unifi-detection](https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection)	<img alt="forks" src="https://img.shields.io/github/forks/GarethMSheldon/cve-2026-22557-unifi-detection">	<img alt="stars" src="https://img.shields.io/github/stars/GarethMSheldon/cve-2026-22557-unifi-detection">
+- [0xBlackash/CVE-2026-22557](https://github.com/0xBlackash/CVE-2026-22557)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-22557">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-22557">
 
 ---
 ## CVE-2026-2249 ()
