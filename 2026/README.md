@@ -967,6 +967,7 @@
 > 
 - [hakaioffsec/CVE-2026-25769](https://github.com/hakaioffsec/CVE-2026-25769)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-25769">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-25769">
 - [Samres27/CVE-2026-25769---CVE-2026-25770](https://github.com/Samres27/CVE-2026-25769---CVE-2026-25770)	<img alt="forks" src="https://img.shields.io/github/forks/Samres27/CVE-2026-25769---CVE-2026-25770">	<img alt="stars" src="https://img.shields.io/github/stars/Samres27/CVE-2026-25769---CVE-2026-25770">
+- [njeru-codes/CVE-2026-25769](https://github.com/njeru-codes/CVE-2026-25769)	<img alt="forks" src="https://img.shields.io/github/forks/njeru-codes/CVE-2026-25769">	<img alt="stars" src="https://img.shields.io/github/stars/njeru-codes/CVE-2026-25769">
 
 ---
 ## CVE-2026-25746 ()
