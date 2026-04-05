@@ -1466,6 +1466,11 @@
 - [bluedragonsecurity/CVE-2026-23416-POC](https://github.com/bluedragonsecurity/CVE-2026-23416-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-23416-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-23416-POC">
 
 ---
+## CVE-2026-23398 ()
+> 
+- [JohannesLks/CVE-2026-23398](https://github.com/JohannesLks/CVE-2026-23398)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-23398">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-23398">
+
+---
 ## CVE-2026-23245 ()
 > 
 - [jopamo/CVE-2026-23245](https://github.com/jopamo/CVE-2026-23245)	<img alt="forks" src="https://img.shields.io/github/forks/jopamo/CVE-2026-23245">	<img alt="stars" src="https://img.shields.io/github/stars/jopamo/CVE-2026-23245">
