@@ -6352,6 +6352,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [karthi-the-hacker/CVE-2023-27524](https://github.com/karthi-the-hacker/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2023-27524">
 - [Cappricio-Securities/CVE-2023-27524](https://github.com/Cappricio-Securities/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-27524">
 - [sumaiyafathima-code/CVE-2023-27524](https://github.com/sumaiyafathima-code/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/sumaiyafathima-code/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/sumaiyafathima-code/CVE-2023-27524">
+- [rachidafaf/bola-CVE-2023-27524](https://github.com/rachidafaf/bola-CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/rachidafaf/bola-CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/rachidafaf/bola-CVE-2023-27524">
 
 ---
 ## CVE-2023-2752 (2023-05-17T08:15:00)
