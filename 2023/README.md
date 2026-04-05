@@ -1301,6 +1301,7 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-48223 ()
 > 
 - [lucas-tran05/CVE-2023-48223](https://github.com/lucas-tran05/CVE-2023-48223)	<img alt="forks" src="https://img.shields.io/github/forks/lucas-tran05/CVE-2023-48223">	<img alt="stars" src="https://img.shields.io/github/stars/lucas-tran05/CVE-2023-48223">
+- [lucastran05/CVE-2023-48223](https://github.com/lucastran05/CVE-2023-48223)	<img alt="forks" src="https://img.shields.io/github/forks/lucastran05/CVE-2023-48223">	<img alt="stars" src="https://img.shields.io/github/stars/lucastran05/CVE-2023-48223">
 
 ---
 ## CVE-2023-48200 (2023-11-15T23:15:00)
