@@ -527,6 +527,11 @@
 - [b0b0haha/CVE-2026-29954](https://github.com/b0b0haha/CVE-2026-29954)	<img alt="forks" src="https://img.shields.io/github/forks/b0b0haha/CVE-2026-29954">	<img alt="stars" src="https://img.shields.io/github/stars/b0b0haha/CVE-2026-29954">
 
 ---
+## CVE-2026-29923 ()
+> 
+- [Smarttfoxx/CVE-2026-29923](https://github.com/Smarttfoxx/CVE-2026-29923)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2026-29923">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2026-29923">
+
+---
 ## CVE-2026-2991 ()
 > 
 - [joshuavanderpoll/CVE-2026-2991](https://github.com/joshuavanderpoll/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-2991">
