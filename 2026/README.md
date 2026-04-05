@@ -646,6 +646,11 @@
 - [0xAshwesker/CVE-2026-28289](https://github.com/0xAshwesker/CVE-2026-28289)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-28289">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-28289">
 
 ---
+## CVE-2026-28286 ()
+> 
+- [Rushi9/zimaos-cve-2026-28286-arbitrary-file-write](https://github.com/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write)	<img alt="forks" src="https://img.shields.io/github/forks/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write">	<img alt="stars" src="https://img.shields.io/github/stars/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write">
+
+---
 ## CVE-2026-28207 ()
 > 
 - [F0ndueSav0yarde/CVE-2026-28207](https://github.com/F0ndueSav0yarde/CVE-2026-28207)	<img alt="forks" src="https://img.shields.io/github/forks/F0ndueSav0yarde/CVE-2026-28207">	<img alt="stars" src="https://img.shields.io/github/stars/F0ndueSav0yarde/CVE-2026-28207">
