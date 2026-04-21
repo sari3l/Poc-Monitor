@@ -1568,6 +1568,12 @@
 - [Christbowel/CVE-2026-25050](https://github.com/Christbowel/CVE-2026-25050)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2026-25050">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2026-25050">
 
 ---
+## CVE-2026-25049 ()
+> 
+- [0xBlackash/CVE-2026-25049](https://github.com/0xBlackash/CVE-2026-25049)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-25049">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-25049">
+- [otakuliu/Expression-Sandbox-Escape-Simulation-Lab](https://github.com/otakuliu/Expression-Sandbox-Escape-Simulation-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/otakuliu/Expression-Sandbox-Escape-Simulation-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/otakuliu/Expression-Sandbox-Escape-Simulation-Lab">
+
+---
 ## CVE-2026-25047 ()
 > 
 - [mbanyamer/deephas-1.0.7-Prototype-Pollution-PoC-CVE-2026-25047-](https://github.com/mbanyamer/deephas-1.0.7-Prototype-Pollution-PoC-CVE-2026-25047-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/deephas-1.0.7-Prototype-Pollution-PoC-CVE-2026-25047-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/deephas-1.0.7-Prototype-Pollution-PoC-CVE-2026-25047-">
