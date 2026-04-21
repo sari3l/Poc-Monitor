@@ -1986,6 +1986,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45657">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45657">
 
 ---
+## CVE-2023-45648 ()
+> 
+- [latr0phil/CVE-2023-45648-Hang-Check](https://github.com/latr0phil/CVE-2023-45648-Hang-Check)	<img alt="forks" src="https://img.shields.io/github/forks/latr0phil/CVE-2023-45648-Hang-Check">	<img alt="stars" src="https://img.shields.io/github/stars/latr0phil/CVE-2023-45648-Hang-Check">
+
+---
 ## CVE-2023-45612 ()
 > 
 - [infernosalex/CVE-2023-45612-PoC](https://github.com/infernosalex/CVE-2023-45612-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/infernosalex/CVE-2023-45612-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/infernosalex/CVE-2023-45612-PoC">
