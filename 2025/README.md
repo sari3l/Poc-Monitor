@@ -293,6 +293,7 @@
 - [NetsecBandit/CVE-2025-8110-Exploit](https://github.com/NetsecBandit/CVE-2025-8110-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/NetsecBandit/CVE-2025-8110-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/NetsecBandit/CVE-2025-8110-Exploit">
 - [X4BROZER/CVE-2025-8110](https://github.com/X4BROZER/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/X4BROZER/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/X4BROZER/CVE-2025-8110">
 - [hassan-hamadi/CVE-2025-8110-Silentium-HTB](https://github.com/hassan-hamadi/CVE-2025-8110-Silentium-HTB)	<img alt="forks" src="https://img.shields.io/github/forks/hassan-hamadi/CVE-2025-8110-Silentium-HTB">	<img alt="stars" src="https://img.shields.io/github/stars/hassan-hamadi/CVE-2025-8110-Silentium-HTB">
+- [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
 
 ---
 ## CVE-2025-8088 ()
@@ -4091,6 +4092,8 @@
 - [DeDnY/CVE-2025-55182-poc-panel](https://github.com/DeDnY/CVE-2025-55182-poc-panel)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-poc-panel">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-poc-panel">
 - [opsecramdan/react2shell-cve-2025-55182](https://github.com/opsecramdan/react2shell-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/opsecramdan/react2shell-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/opsecramdan/react2shell-cve-2025-55182">
 - [Mohamedniane/cve-2025-55182-analysis](https://github.com/Mohamedniane/cve-2025-55182-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Mohamedniane/cve-2025-55182-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Mohamedniane/cve-2025-55182-analysis">
+- [Y3B3L4Y3/CVE-2025-55182-test](https://github.com/Y3B3L4Y3/CVE-2025-55182-test)	<img alt="forks" src="https://img.shields.io/github/forks/Y3B3L4Y3/CVE-2025-55182-test">	<img alt="stars" src="https://img.shields.io/github/stars/Y3B3L4Y3/CVE-2025-55182-test">
+- [joaoreis13/flight-risk](https://github.com/joaoreis13/flight-risk)	<img alt="forks" src="https://img.shields.io/github/forks/joaoreis13/flight-risk">	<img alt="stars" src="https://img.shields.io/github/stars/joaoreis13/flight-risk">
 
 ---
 ## CVE-2025-55130 ()
