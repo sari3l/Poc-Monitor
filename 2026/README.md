@@ -1228,6 +1228,11 @@
 - [dinosn/ghost-cve-2026-26980](https://github.com/dinosn/ghost-cve-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/ghost-cve-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/ghost-cve-2026-26980">
 
 ---
+## CVE-2026-26903 ()
+> 
+- [John-Jung/CVE-2026-26903-PoC](https://github.com/John-Jung/CVE-2026-26903-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/John-Jung/CVE-2026-26903-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/John-Jung/CVE-2026-26903-PoC">
+
+---
 ## CVE-2026-26833 ()
 > 
 - [zebbernCVE/CVE-2026-26833](https://github.com/zebbernCVE/CVE-2026-26833)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-26833">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-26833">
@@ -1461,6 +1466,11 @@
 - [jduardo2704/CVE-2026-25643-Frigate-RCE](https://github.com/jduardo2704/CVE-2026-25643-Frigate-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jduardo2704/CVE-2026-25643-Frigate-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jduardo2704/CVE-2026-25643-Frigate-RCE">
 - [joshuavanderpoll/CVE-2026-25643](https://github.com/joshuavanderpoll/CVE-2026-25643)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-25643">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-25643">
 - [DyniePro/CVE-2026-25643](https://github.com/DyniePro/CVE-2026-25643)	<img alt="forks" src="https://img.shields.io/github/forks/DyniePro/CVE-2026-25643">	<img alt="stars" src="https://img.shields.io/github/stars/DyniePro/CVE-2026-25643">
+
+---
+## CVE-2026-25604 ()
+> 
+- [John-Jung/CVE-2026-25604-PoC](https://github.com/John-Jung/CVE-2026-25604-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/John-Jung/CVE-2026-25604-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/John-Jung/CVE-2026-25604-PoC">
 
 ---
 ## CVE-2026-25596 ()
