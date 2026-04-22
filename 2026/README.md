@@ -489,6 +489,7 @@
 ## CVE-2026-33937 ()
 > 
 - [dinhvaren/cve-2026-33937](https://github.com/dinhvaren/cve-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/dinhvaren/cve-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/dinhvaren/cve-2026-33937">
+- [EQSTLab/CVE-2026-33937](https://github.com/EQSTLab/CVE-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33937">
 
 ---
 ## CVE-2026-33936 ()
