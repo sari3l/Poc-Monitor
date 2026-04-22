@@ -1299,6 +1299,7 @@ Users are recommended to upgrade to version 18.12.10
 - [alsaeroth/CVE-2023-4863-POC](https://github.com/alsaeroth/CVE-2023-4863-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alsaeroth/CVE-2023-4863-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alsaeroth/CVE-2023-4863-POC">
 - [CrackerCat/CVE-2023-4863-](https://github.com/CrackerCat/CVE-2023-4863-)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2023-4863-">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2023-4863-">
 - [huiwen-yayaya/CVE-2023-4863](https://github.com/huiwen-yayaya/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/huiwen-yayaya/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/huiwen-yayaya/CVE-2023-4863">
+- [jpselva/CVE-2023-4863](https://github.com/jpselva/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/jpselva/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/jpselva/CVE-2023-4863">
 
 ---
 ## CVE-2023-48292 ()
