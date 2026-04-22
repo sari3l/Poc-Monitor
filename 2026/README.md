@@ -157,6 +157,11 @@
 - [0xgh057r3c0n/CVE-2026-4257](https://github.com/0xgh057r3c0n/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-4257">
 
 ---
+## CVE-2026-41575 ()
+> 
+- [krraze/CVE-2026-41575](https://github.com/krraze/CVE-2026-41575)	<img alt="forks" src="https://img.shields.io/github/forks/krraze/CVE-2026-41575">	<img alt="stars" src="https://img.shields.io/github/stars/krraze/CVE-2026-41575">
+
+---
 ## CVE-2026-4112 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-4112](https://github.com/Hann1bl3L3ct3r/CVE-2026-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4112">
@@ -2439,6 +2444,7 @@
 > 
 - [zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF">
 - [zeroxjf/CVE-2026-20687-AppleJPEGDriver-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleJPEGDriver-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2026-20687-AppleJPEGDriver-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2026-20687-AppleJPEGDriver-UAF">
+- [enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF](https://github.com/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF">
 
 ---
 ## CVE-2026-20660 ()
@@ -2455,6 +2461,7 @@
 ## CVE-2026-20637 ()
 > 
 - [zeroxjf/CVE-2026-20637-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20637-AppleSEPKeyStore-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2026-20637-AppleSEPKeyStore-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2026-20637-AppleSEPKeyStore-UAF">
+- [enfilade-labs/CVE-2026-20637-AppleSEPKeyStore-UAF](https://github.com/enfilade-labs/CVE-2026-20637-AppleSEPKeyStore-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/enfilade-labs/CVE-2026-20637-AppleSEPKeyStore-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/enfilade-labs/CVE-2026-20637-AppleSEPKeyStore-UAF">
 
 ---
 ## CVE-2026-2058 ()
