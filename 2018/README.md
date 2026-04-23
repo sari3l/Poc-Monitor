@@ -434,6 +434,7 @@
 - [currently-unkwn/CVE-2018-6574](https://github.com/currently-unkwn/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/currently-unkwn/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/currently-unkwn/CVE-2018-6574">
 - [YoussefSalama1/CVE-2018-6574](https://github.com/YoussefSalama1/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/YoussefSalama1/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/YoussefSalama1/CVE-2018-6574">
 - [Rezy-Dev/CVE-2018-6574](https://github.com/Rezy-Dev/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Rezy-Dev/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Rezy-Dev/CVE-2018-6574">
+- [r00tpgp/CVE-2018-6574](https://github.com/r00tpgp/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/r00tpgp/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/r00tpgp/CVE-2018-6574">
 
 ---
 ## CVE-2018-6537 ()
