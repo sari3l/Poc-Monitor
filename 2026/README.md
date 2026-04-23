@@ -993,6 +993,7 @@
 ## CVE-2026-29145 ()
 > 
 - [gregk4sec/cve-2026-29145](https://github.com/gregk4sec/cve-2026-29145)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/cve-2026-29145">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/cve-2026-29145">
+- [sancliffe/CVE-2026-29145-Tester](https://github.com/sancliffe/CVE-2026-29145-Tester)	<img alt="forks" src="https://img.shields.io/github/forks/sancliffe/CVE-2026-29145-Tester">	<img alt="stars" src="https://img.shields.io/github/stars/sancliffe/CVE-2026-29145-Tester">
 
 ---
 ## CVE-2026-29053 ()
