@@ -2787,6 +2787,11 @@
 - [boroeurnprach/CVE-2025-59057-PoC](https://github.com/boroeurnprach/CVE-2025-59057-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-59057-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-59057-PoC">
 
 ---
+## CVE-2025-5880 ()
+> 
+- [yacine-rm/CVE-2025-5880-PoC](https://github.com/yacine-rm/CVE-2025-5880-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yacine-rm/CVE-2025-5880-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yacine-rm/CVE-2025-5880-PoC">
+
+---
 ## CVE-2025-58789 ()
 > 
 - [quetuan03/CVE-2025-58789](https://github.com/quetuan03/CVE-2025-58789)	<img alt="forks" src="https://img.shields.io/github/forks/quetuan03/CVE-2025-58789">	<img alt="stars" src="https://img.shields.io/github/stars/quetuan03/CVE-2025-58789">
