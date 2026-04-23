@@ -170,6 +170,7 @@
 ## CVE-2026-41651 ()
 > 
 - [Vozec/CVE-2026-41651](https://github.com/Vozec/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2026-41651">
+- [CipherCloak/CVE-2026-41651](https://github.com/CipherCloak/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/CipherCloak/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/CipherCloak/CVE-2026-41651">
 
 ---
 ## CVE-2026-41575 ()
@@ -2653,6 +2654,11 @@
 ## CVE-2026-1470 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-1470](https://github.com/Ashwesker/Ashwesker-CVE-2026-1470)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-1470">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-1470">
+
+---
+## CVE-2026-1459 ()
+> 
+- [Toouch67/CVE-2026-1459-POC](https://github.com/Toouch67/CVE-2026-1459-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Toouch67/CVE-2026-1459-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Toouch67/CVE-2026-1459-POC">
 
 ---
 ## CVE-2026-1457 ()
