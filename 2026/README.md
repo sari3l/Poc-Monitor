@@ -167,6 +167,11 @@
 - [0xgh057r3c0n/CVE-2026-4257](https://github.com/0xgh057r3c0n/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-4257">
 
 ---
+## CVE-2026-41651 ()
+> 
+- [Vozec/CVE-2026-41651](https://github.com/Vozec/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2026-41651">
+
+---
 ## CVE-2026-41575 ()
 > 
 - [krraze/CVE-2026-41575](https://github.com/krraze/CVE-2026-41575)	<img alt="forks" src="https://img.shields.io/github/forks/krraze/CVE-2026-41575">	<img alt="stars" src="https://img.shields.io/github/stars/krraze/CVE-2026-41575">
