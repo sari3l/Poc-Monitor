@@ -793,6 +793,7 @@
 - [MaxMnMl/zimbramail-CVE-2025-68645-poc](https://github.com/MaxMnMl/zimbramail-CVE-2025-68645-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/zimbramail-CVE-2025-68645-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/zimbramail-CVE-2025-68645-poc">
 - [faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability](https://github.com/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">
 - [CMEGh0stX47/CVE-2025-68645](https://github.com/CMEGh0stX47/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/CMEGh0stX47/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/CMEGh0stX47/CVE-2025-68645">
+- [0xBlackash/CVE-2025-68645](https://github.com/0xBlackash/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-68645">
 
 ---
 ## CVE-2025-68615 ()
@@ -5662,6 +5663,8 @@
 - [popyue/CVE-2025-47812](https://github.com/popyue/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-47812">
 - [0xjuarez/CVE-2025-47812](https://github.com/0xjuarez/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/0xjuarez/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/0xjuarez/CVE-2025-47812">
 - [Majdae/CVE-2025-47812-Research](https://github.com/Majdae/CVE-2025-47812-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Majdae/CVE-2025-47812-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Majdae/CVE-2025-47812-Research">
+- [H3XploR/Exploit_CVE-2025-47812](https://github.com/H3XploR/Exploit_CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/H3XploR/Exploit_CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/H3XploR/Exploit_CVE-2025-47812">
+- [AmogelangMongwaketse/cs50-final-project](https://github.com/AmogelangMongwaketse/cs50-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/AmogelangMongwaketse/cs50-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/AmogelangMongwaketse/cs50-final-project">
 
 ---
 ## CVE-2025-47810 ()
