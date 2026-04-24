@@ -8628,6 +8628,7 @@
 ## CVE-2025-25279 ()
 > 
 - [numanturle/CVE-2025-25279](https://github.com/numanturle/CVE-2025-25279)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2025-25279">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2025-25279">
+- [Abokor-creator/CVE-2025-25279-Mattermost-Path-Traversal](https://github.com/Abokor-creator/CVE-2025-25279-Mattermost-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/Abokor-creator/CVE-2025-25279-Mattermost-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/Abokor-creator/CVE-2025-25279-Mattermost-Path-Traversal">
 
 ---
 ## CVE-2025-25257 ()
