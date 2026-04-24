@@ -172,6 +172,11 @@
 - [bartfroklage/cve-2026-41679](https://github.com/bartfroklage/cve-2026-41679)	<img alt="forks" src="https://img.shields.io/github/forks/bartfroklage/cve-2026-41679">	<img alt="stars" src="https://img.shields.io/github/stars/bartfroklage/cve-2026-41679">
 
 ---
+## CVE-2026-41653 ()
+> 
+- [Astaruf/CVE-2026-41653](https://github.com/Astaruf/CVE-2026-41653)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-41653">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-41653">
+
+---
 ## CVE-2026-41651 ()
 > 
 - [Vozec/CVE-2026-41651](https://github.com/Vozec/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2026-41651">
