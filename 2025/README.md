@@ -9222,6 +9222,7 @@
 - [MAEN1-prog/maen1-prog.github.io](https://github.com/MAEN1-prog/maen1-prog.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MAEN1-prog/maen1-prog.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MAEN1-prog/maen1-prog.github.io">
 - [estebanzarate/CVE-2025-2304-Camaleon-CMS-Mass-Assignment-Privilege-Escalation-PoC](https://github.com/estebanzarate/CVE-2025-2304-Camaleon-CMS-Mass-Assignment-Privilege-Escalation-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2025-2304-Camaleon-CMS-Mass-Assignment-Privilege-Escalation-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2025-2304-Camaleon-CMS-Mass-Assignment-Privilege-Escalation-PoC">
 - [mattiapertusati/htb-facts](https://github.com/mattiapertusati/htb-facts)	<img alt="forks" src="https://img.shields.io/github/forks/mattiapertusati/htb-facts">	<img alt="stars" src="https://img.shields.io/github/stars/mattiapertusati/htb-facts">
+- [karimelsheikh1/HTB-Facts-Writeup](https://github.com/karimelsheikh1/HTB-Facts-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Facts-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Facts-Writeup">
 
 ---
 ## CVE-2025-2301 ()
