@@ -177,6 +177,7 @@
 - [Vozec/CVE-2026-41651](https://github.com/Vozec/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2026-41651">
 - [CipherCloak/CVE-2026-41651](https://github.com/CipherCloak/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/CipherCloak/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/CipherCloak/CVE-2026-41651">
 - [0xBlackash/CVE-2026-41651](https://github.com/0xBlackash/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41651">
+- [baph00met/CVE-2026-41651](https://github.com/baph00met/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/baph00met/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/baph00met/CVE-2026-41651">
 
 ---
 ## CVE-2026-41575 ()
@@ -322,6 +323,8 @@
 ## CVE-2026-3844 ()
 > 
 - [im-hanzou/CVE-2026-3844](https://github.com/im-hanzou/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/CVE-2026-3844">
+- [tausifzaman/CVE-2026-3844](https://github.com/tausifzaman/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/CVE-2026-3844">
+- [0xgh057r3c0n/CVE-2026-3844](https://github.com/0xgh057r3c0n/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-3844">
 
 ---
 ## CVE-2026-3805 ()
