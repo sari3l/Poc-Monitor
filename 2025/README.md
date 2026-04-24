@@ -4099,6 +4099,7 @@
 - [Mohamedniane/cve-2025-55182-analysis](https://github.com/Mohamedniane/cve-2025-55182-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Mohamedniane/cve-2025-55182-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Mohamedniane/cve-2025-55182-analysis">
 - [Y3B3L4Y3/CVE-2025-55182-test](https://github.com/Y3B3L4Y3/CVE-2025-55182-test)	<img alt="forks" src="https://img.shields.io/github/forks/Y3B3L4Y3/CVE-2025-55182-test">	<img alt="stars" src="https://img.shields.io/github/stars/Y3B3L4Y3/CVE-2025-55182-test">
 - [joaoreis13/flight-risk](https://github.com/joaoreis13/flight-risk)	<img alt="forks" src="https://img.shields.io/github/forks/joaoreis13/flight-risk">	<img alt="stars" src="https://img.shields.io/github/stars/joaoreis13/flight-risk">
+- [shibaaa204/React2Shell](https://github.com/shibaaa204/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/React2Shell">
 
 ---
 ## CVE-2025-55130 ()
