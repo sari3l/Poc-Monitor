@@ -1048,6 +1048,11 @@
 - [Remenis/CVE-2025-67158](https://github.com/Remenis/CVE-2025-67158)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-67158">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-67158">
 
 ---
+## CVE-2025-67146 ()
+> 
+- [sivaadityacoder/CVE-2025-67146-CVE-2025-67147](https://github.com/sivaadityacoder/CVE-2025-67146-CVE-2025-67147)	<img alt="forks" src="https://img.shields.io/github/forks/sivaadityacoder/CVE-2025-67146-CVE-2025-67147">	<img alt="stars" src="https://img.shields.io/github/stars/sivaadityacoder/CVE-2025-67146-CVE-2025-67147">
+
+---
 ## CVE-2025-6713 ()
 > 
 - [c137req/CVE-2025-6713](https://github.com/c137req/CVE-2025-6713)	<img alt="forks" src="https://img.shields.io/github/forks/c137req/CVE-2025-6713">	<img alt="stars" src="https://img.shields.io/github/stars/c137req/CVE-2025-6713">

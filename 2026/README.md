@@ -24,6 +24,7 @@
 ## CVE-2026-6356 ()
 > 
 - [Penguinsecq/CVE-2026-6356](https://github.com/Penguinsecq/CVE-2026-6356)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6356">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6356">
+- [Penguinsecq/CVE-2026-6355](https://github.com/Penguinsecq/CVE-2026-6355)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6355">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6355">
 
 ---
 ## CVE-2026-6355 ()
@@ -2223,6 +2224,11 @@
 - [silentexploitexe/CVE-2026-22153](https://github.com/silentexploitexe/CVE-2026-22153)	<img alt="forks" src="https://img.shields.io/github/forks/silentexploitexe/CVE-2026-22153">	<img alt="stars" src="https://img.shields.io/github/stars/silentexploitexe/CVE-2026-22153">
 - [washingtonmaister/CVE-2026-22153-exp](https://github.com/washingtonmaister/CVE-2026-22153-exp)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-22153-exp">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-22153-exp">
 - [glitchhawks/CVE-2026-22153](https://github.com/glitchhawks/CVE-2026-22153)	<img alt="forks" src="https://img.shields.io/github/forks/glitchhawks/CVE-2026-22153">	<img alt="stars" src="https://img.shields.io/github/stars/glitchhawks/CVE-2026-22153">
+
+---
+## CVE-2026-22038 ()
+> 
+- [sivaadityacoder/CVE-2026-22038](https://github.com/sivaadityacoder/CVE-2026-22038)	<img alt="forks" src="https://img.shields.io/github/forks/sivaadityacoder/CVE-2026-22038">	<img alt="stars" src="https://img.shields.io/github/stars/sivaadityacoder/CVE-2026-22038">
 
 ---
 ## CVE-2026-21994 ()
