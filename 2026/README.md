@@ -338,6 +338,7 @@
 - [im-hanzou/CVE-2026-3844](https://github.com/im-hanzou/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/CVE-2026-3844">
 - [tausifzaman/CVE-2026-3844](https://github.com/tausifzaman/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/CVE-2026-3844">
 - [0xgh057r3c0n/CVE-2026-3844](https://github.com/0xgh057r3c0n/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-3844">
+- [dinosn/CVE-2026-3844](https://github.com/dinosn/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-3844">
 
 ---
 ## CVE-2026-3805 ()
