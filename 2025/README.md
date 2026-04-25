@@ -796,6 +796,11 @@
 - [0xBlackash/CVE-2025-68645](https://github.com/0xBlackash/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-68645">
 
 ---
+## CVE-2025-68621 ()
+> 
+- [sivaadityacoder/CVE-2025-68621](https://github.com/sivaadityacoder/CVE-2025-68621)	<img alt="forks" src="https://img.shields.io/github/forks/sivaadityacoder/CVE-2025-68621">	<img alt="stars" src="https://img.shields.io/github/stars/sivaadityacoder/CVE-2025-68621">
+
+---
 ## CVE-2025-68615 ()
 > 
 - [b1gchoi/CVE-2025-68615](https://github.com/b1gchoi/CVE-2025-68615)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-68615">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-68615">
@@ -8263,6 +8268,7 @@
 ## CVE-2025-27407 ()
 > 
 - [IDAOlly/PoC_CVE-2025-27407](https://github.com/IDAOlly/PoC_CVE-2025-27407)	<img alt="forks" src="https://img.shields.io/github/forks/IDAOlly/PoC_CVE-2025-27407">	<img alt="stars" src="https://img.shields.io/github/stars/IDAOlly/PoC_CVE-2025-27407">
+- [LoGGGG2402/CVE-2025-27407](https://github.com/LoGGGG2402/CVE-2025-27407)	<img alt="forks" src="https://img.shields.io/github/forks/LoGGGG2402/CVE-2025-27407">	<img alt="stars" src="https://img.shields.io/github/stars/LoGGGG2402/CVE-2025-27407">
 
 ---
 ## CVE-2025-27363 ()
