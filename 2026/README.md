@@ -184,6 +184,7 @@
 - [CipherCloak/CVE-2026-41651](https://github.com/CipherCloak/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/CipherCloak/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/CipherCloak/CVE-2026-41651">
 - [0xBlackash/CVE-2026-41651](https://github.com/0xBlackash/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41651">
 - [baph00met/CVE-2026-41651](https://github.com/baph00met/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/baph00met/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/baph00met/CVE-2026-41651">
+- [dinosn/pack2theroot-lab](https://github.com/dinosn/pack2theroot-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/pack2theroot-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/pack2theroot-lab">
 
 ---
 ## CVE-2026-41575 ()
@@ -2303,6 +2304,11 @@
 ## CVE-2026-21852 ()
 > 
 - [atiilla/CVE-2026-21852-PoC](https://github.com/atiilla/CVE-2026-21852-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-21852-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-21852-PoC">
+
+---
+## CVE-2026-21847 ()
+> 
+- [blaxkmiradev/CVE-2026-21847-Hardcoded-AES-Encryption-Key-in-DPDC-Customer-Portal](https://github.com/blaxkmiradev/CVE-2026-21847-Hardcoded-AES-Encryption-Key-in-DPDC-Customer-Portal)	<img alt="forks" src="https://img.shields.io/github/forks/blaxkmiradev/CVE-2026-21847-Hardcoded-AES-Encryption-Key-in-DPDC-Customer-Portal">	<img alt="stars" src="https://img.shields.io/github/stars/blaxkmiradev/CVE-2026-21847-Hardcoded-AES-Encryption-Key-in-DPDC-Customer-Portal">
 
 ---
 ## CVE-2026-21721 ()
