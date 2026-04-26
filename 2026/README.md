@@ -2285,6 +2285,7 @@
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21877](https://github.com/Ashwesker/Ashwesker-CVE-2026-21877)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21877">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21877">
 - [CVEs-Labs/CVE-2026-21877](https://github.com/CVEs-Labs/CVE-2026-21877)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-21877">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-21877">
+- [monkeontheroof/cve-2026-21877-rce](https://github.com/monkeontheroof/cve-2026-21877-rce)	<img alt="forks" src="https://img.shields.io/github/forks/monkeontheroof/cve-2026-21877-rce">	<img alt="stars" src="https://img.shields.io/github/stars/monkeontheroof/cve-2026-21877-rce">
 
 ---
 ## CVE-2026-21876 ()
