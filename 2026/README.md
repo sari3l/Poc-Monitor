@@ -255,6 +255,7 @@
 - [keraattin/CVE-2026-39987](https://github.com/keraattin/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-39987">
 - [Nxploited/CVE-2026-39987](https://github.com/Nxploited/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-39987">
 - [h3raklez/CVE-2026-39987](https://github.com/h3raklez/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2026-39987">
+- [Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab](https://github.com/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab">
 
 ---
 ## CVE-2026-39983 ()
