@@ -202,6 +202,11 @@
 - [kaleth4/CVE-2026-41303](https://github.com/kaleth4/CVE-2026-41303)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-41303">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-41303">
 
 ---
+## CVE-2026-41242 ()
+> 
+- [4chech/CVE-2026-41242](https://github.com/4chech/CVE-2026-41242)	<img alt="forks" src="https://img.shields.io/github/forks/4chech/CVE-2026-41242">	<img alt="stars" src="https://img.shields.io/github/stars/4chech/CVE-2026-41242">
+
+---
 ## CVE-2026-41177 ()
 > 
 - [TurkiOS/CVE-2026-41177-Squidex-CMS](https://github.com/TurkiOS/CVE-2026-41177-Squidex-CMS)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/CVE-2026-41177-Squidex-CMS">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/CVE-2026-41177-Squidex-CMS">
