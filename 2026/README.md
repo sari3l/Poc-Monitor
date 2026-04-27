@@ -581,6 +581,7 @@
 ## CVE-2026-33826 ()
 > 
 - [kaleth4/CVE-2026-33826](https://github.com/kaleth4/CVE-2026-33826)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-33826">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-33826">
+- [ZEROxYakuza/CVE-2026-33826](https://github.com/ZEROxYakuza/CVE-2026-33826)	<img alt="forks" src="https://img.shields.io/github/forks/ZEROxYakuza/CVE-2026-33826">	<img alt="stars" src="https://img.shields.io/github/stars/ZEROxYakuza/CVE-2026-33826">
 
 ---
 ## CVE-2026-33824 ()
