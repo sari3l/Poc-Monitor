@@ -740,6 +740,11 @@
 - [FOLKS-iwd/CVE-2025-68999-POC](https://github.com/FOLKS-iwd/CVE-2025-68999-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-68999-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-68999-POC">
 
 ---
+## CVE-2025-68971 ()
+> 
+- [ChewKeanHo/research-cve-2025-68971](https://github.com/ChewKeanHo/research-cve-2025-68971)	<img alt="forks" src="https://img.shields.io/github/forks/ChewKeanHo/research-cve-2025-68971">	<img alt="stars" src="https://img.shields.io/github/stars/ChewKeanHo/research-cve-2025-68971">
+
+---
 ## CVE-2025-68937 ()
 > 
 - [ClemaX/Gitea-Forgejo-CVE-2025-68937](https://github.com/ClemaX/Gitea-Forgejo-CVE-2025-68937)	<img alt="forks" src="https://img.shields.io/github/forks/ClemaX/Gitea-Forgejo-CVE-2025-68937">	<img alt="stars" src="https://img.shields.io/github/stars/ClemaX/Gitea-Forgejo-CVE-2025-68937">
