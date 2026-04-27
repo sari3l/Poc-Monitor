@@ -2081,7 +2081,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ---
 ## CVE-2024-51324 ()
 > 
-- [devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis](https://github.com/devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2024-51324-BYOVD-Masters-Thesis">
+- [devianntsec/CVE-2024-51324](https://github.com/devianntsec/CVE-2024-51324)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2024-51324">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2024-51324">
 
 ---
 ## CVE-2024-5124 (2024-06-06T19:16:00)
