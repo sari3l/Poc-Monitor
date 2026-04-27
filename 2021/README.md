@@ -1069,6 +1069,7 @@
 - [Saru1718/THM---Solar-exploiting-Log-4j](https://github.com/Saru1718/THM---Solar-exploiting-Log-4j)	<img alt="forks" src="https://img.shields.io/github/forks/Saru1718/THM---Solar-exploiting-Log-4j">	<img alt="stars" src="https://img.shields.io/github/stars/Saru1718/THM---Solar-exploiting-Log-4j">
 - [wmohamed2033/wmohamed2033.github.io](https://github.com/wmohamed2033/wmohamed2033.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/wmohamed2033/wmohamed2033.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/wmohamed2033/wmohamed2033.github.io">
 - [Codepumpking/log4shell-poc](https://github.com/Codepumpking/log4shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Codepumpking/log4shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Codepumpking/log4shell-poc">
+- [kaleth4/CVE-2021-44228](https://github.com/kaleth4/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
