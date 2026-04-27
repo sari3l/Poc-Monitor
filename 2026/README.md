@@ -798,6 +798,11 @@
 - [z3r0h3ro/CVE-2026-32194-POC](https://github.com/z3r0h3ro/CVE-2026-32194-POC)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-32194-POC">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-32194-POC">
 
 ---
+## CVE-2026-32136 ()
+> 
+- [0xdak/CVE-2026-32136_exploit](https://github.com/0xdak/CVE-2026-32136_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-32136_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-32136_exploit">
+
+---
 ## CVE-2026-32127 ()
 > 
 - [ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0](https://github.com/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSub08/CVE-2026-32127_SqlInjectionVulnerabilityOpenEMR8.0.0">
@@ -2271,6 +2276,11 @@
 ## CVE-2026-21992 ()
 > 
 - [TEXploited/CVE-2026-21992](https://github.com/TEXploited/CVE-2026-21992)	<img alt="forks" src="https://img.shields.io/github/forks/TEXploited/CVE-2026-21992">	<img alt="stars" src="https://img.shields.io/github/stars/TEXploited/CVE-2026-21992">
+
+---
+## CVE-2026-21986 ()
+> 
+- [MohaBars/CVE-2026-21986-VirtualBox-DoS](https://github.com/MohaBars/CVE-2026-21986-VirtualBox-DoS)	<img alt="forks" src="https://img.shields.io/github/forks/MohaBars/CVE-2026-21986-VirtualBox-DoS">	<img alt="stars" src="https://img.shields.io/github/stars/MohaBars/CVE-2026-21986-VirtualBox-DoS">
 
 ---
 ## CVE-2026-21962 ()
