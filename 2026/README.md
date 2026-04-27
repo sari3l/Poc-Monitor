@@ -2374,6 +2374,11 @@
 - [0xBlackash/CVE-2026-21643](https://github.com/0xBlackash/CVE-2026-21643)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-21643">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-21643">
 
 ---
+## CVE-2026-21636 ()
+> 
+- [Pauldechassey/CVE-2026-21636](https://github.com/Pauldechassey/CVE-2026-21636)	<img alt="forks" src="https://img.shields.io/github/forks/Pauldechassey/CVE-2026-21636">	<img alt="stars" src="https://img.shields.io/github/stars/Pauldechassey/CVE-2026-21636">
+
+---
 ## CVE-2026-21628 ()
 > 
 - [webshellseo8/CVE-2026-21628-POC](https://github.com/webshellseo8/CVE-2026-21628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-21628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-21628-POC">
