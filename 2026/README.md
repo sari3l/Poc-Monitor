@@ -511,6 +511,7 @@
 ## CVE-2026-34220 ()
 > 
 - [EQSTLab/CVE-2026-34220](https://github.com/EQSTLab/CVE-2026-34220)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-34220">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-34220">
+- [EQSTLab/CVE-2026-34220](https://github.com/EQSTLab/CVE-2026-34220)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-34220">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-34220">
 
 ---
 ## CVE-2026-34200 ()
