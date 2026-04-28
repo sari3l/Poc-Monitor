@@ -3168,6 +3168,11 @@
 - [PhDg1410/CVE-2025-56588](https://github.com/PhDg1410/CVE-2025-56588)	<img alt="forks" src="https://img.shields.io/github/forks/PhDg1410/CVE-2025-56588">	<img alt="stars" src="https://img.shields.io/github/stars/PhDg1410/CVE-2025-56588">
 
 ---
+## CVE-2025-56534 ()
+> 
+- [MarkArtamonov/OpenNebula-CVE-2025-56534](https://github.com/MarkArtamonov/OpenNebula-CVE-2025-56534)	<img alt="forks" src="https://img.shields.io/github/forks/MarkArtamonov/OpenNebula-CVE-2025-56534">	<img alt="stars" src="https://img.shields.io/github/stars/MarkArtamonov/OpenNebula-CVE-2025-56534">
+
+---
 ## CVE-2025-56526 ()
 > 
 - [HanTul/Kotaemon-CVE-2025-56526-56527-disclosure](https://github.com/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure">
