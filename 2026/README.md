@@ -26,6 +26,11 @@
 - [SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC](https://github.com/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">
 
 ---
+## CVE-2026-6770 ()
+> 
+- [nightcorefan94/CVE-2026-6770](https://github.com/nightcorefan94/CVE-2026-6770)	<img alt="forks" src="https://img.shields.io/github/forks/nightcorefan94/CVE-2026-6770">	<img alt="stars" src="https://img.shields.io/github/stars/nightcorefan94/CVE-2026-6770">
+
+---
 ## CVE-2026-666 ()
 > 
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
@@ -308,6 +313,11 @@
 - [keraattin/CVE-2026-39842](https://github.com/keraattin/CVE-2026-39842)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-39842">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-39842">
 
 ---
+## CVE-2026-39816 ()
+> 
+- [ZeroPathAI/nifi-CVE-2026-39816-poc](https://github.com/ZeroPathAI/nifi-CVE-2026-39816-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroPathAI/nifi-CVE-2026-39816-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroPathAI/nifi-CVE-2026-39816-poc">
+
+---
 ## CVE-2026-39813 ()
 > 
 - [0xBlackash/CVE-2026-39813](https://github.com/0xBlackash/CVE-2026-39813)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-39813">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-39813">
@@ -367,6 +377,7 @@
 ## CVE-2026-3854 ()
 > 
 - [5kr1pt/CVE-2026-3854](https://github.com/5kr1pt/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/CVE-2026-3854">
+- [LACHHAB-Anas/Exploit_CVE-2026-3854](https://github.com/LACHHAB-Anas/Exploit_CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/LACHHAB-Anas/Exploit_CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/LACHHAB-Anas/Exploit_CVE-2026-3854">
 
 ---
 ## CVE-2026-3847 ()
