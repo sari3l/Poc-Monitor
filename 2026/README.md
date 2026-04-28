@@ -21,6 +21,11 @@
 - [osmancanvural/CVE-2026-6849](https://github.com/osmancanvural/CVE-2026-6849)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-6849">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-6849">
 
 ---
+## CVE-2026-6807 ()
+> 
+- [SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC](https://github.com/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">
+
+---
 ## CVE-2026-666 ()
 > 
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
@@ -352,6 +357,11 @@
 - [nomaisthere/CVE-2026-3888](https://github.com/nomaisthere/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/nomaisthere/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/nomaisthere/CVE-2026-3888">
 - [DanielTangnes/CVE-2026-3888](https://github.com/DanielTangnes/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/DanielTangnes/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/DanielTangnes/CVE-2026-3888">
 - [TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE](https://github.com/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">
+
+---
+## CVE-2026-3854 ()
+> 
+- [5kr1pt/CVE-2026-3854](https://github.com/5kr1pt/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/CVE-2026-3854">
 
 ---
 ## CVE-2026-3847 ()
