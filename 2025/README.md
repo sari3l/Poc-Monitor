@@ -518,6 +518,11 @@
 - [Chocapikk/CVE-2025-71243](https://github.com/Chocapikk/CVE-2025-71243)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-71243">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-71243">
 
 ---
+## CVE-2025-70994 ()
+> 
+- [ktauchathuranga/CVE-2025-70994](https://github.com/ktauchathuranga/CVE-2025-70994)	<img alt="forks" src="https://img.shields.io/github/forks/ktauchathuranga/CVE-2025-70994">	<img alt="stars" src="https://img.shields.io/github/stars/ktauchathuranga/CVE-2025-70994">
+
+---
 ## CVE-2025-70962 ()
 > 
 - [namaek2/CVE-2025-70962](https://github.com/namaek2/CVE-2025-70962)	<img alt="forks" src="https://img.shields.io/github/forks/namaek2/CVE-2025-70962">	<img alt="stars" src="https://img.shields.io/github/stars/namaek2/CVE-2025-70962">
