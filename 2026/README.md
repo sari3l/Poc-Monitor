@@ -634,6 +634,7 @@
 ## CVE-2026-33439 ()
 > 
 - [shreyas-malhotra/CVE-2026-33439-OpenAM](https://github.com/shreyas-malhotra/CVE-2026-33439-OpenAM)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2026-33439-OpenAM">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2026-33439-OpenAM">
+- [Ibonok/CVE-2026-33439-PoC](https://github.com/Ibonok/CVE-2026-33439-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ibonok/CVE-2026-33439-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ibonok/CVE-2026-33439-PoC">
 
 ---
 ## CVE-2026-33340 ()
