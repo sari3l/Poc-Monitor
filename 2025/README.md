@@ -3168,6 +3168,21 @@
 - [PhDg1410/CVE-2025-56588](https://github.com/PhDg1410/CVE-2025-56588)	<img alt="forks" src="https://img.shields.io/github/forks/PhDg1410/CVE-2025-56588">	<img alt="stars" src="https://img.shields.io/github/stars/PhDg1410/CVE-2025-56588">
 
 ---
+## CVE-2025-56537 ()
+> 
+- [MarkArtamonov/OpenNebula-CVE-2025-56537](https://github.com/MarkArtamonov/OpenNebula-CVE-2025-56537)	<img alt="forks" src="https://img.shields.io/github/forks/MarkArtamonov/OpenNebula-CVE-2025-56537">	<img alt="stars" src="https://img.shields.io/github/stars/MarkArtamonov/OpenNebula-CVE-2025-56537">
+
+---
+## CVE-2025-56536 ()
+> 
+- [MarkArtamonov/OpenNebula-CVE-2025-56536](https://github.com/MarkArtamonov/OpenNebula-CVE-2025-56536)	<img alt="forks" src="https://img.shields.io/github/forks/MarkArtamonov/OpenNebula-CVE-2025-56536">	<img alt="stars" src="https://img.shields.io/github/stars/MarkArtamonov/OpenNebula-CVE-2025-56536">
+
+---
+## CVE-2025-56535 ()
+> 
+- [MarkArtamonov/OpenNebula-CVE-2025-56535](https://github.com/MarkArtamonov/OpenNebula-CVE-2025-56535)	<img alt="forks" src="https://img.shields.io/github/forks/MarkArtamonov/OpenNebula-CVE-2025-56535">	<img alt="stars" src="https://img.shields.io/github/stars/MarkArtamonov/OpenNebula-CVE-2025-56535">
+
+---
 ## CVE-2025-56534 ()
 > 
 - [MarkArtamonov/OpenNebula-CVE-2025-56534](https://github.com/MarkArtamonov/OpenNebula-CVE-2025-56534)	<img alt="forks" src="https://img.shields.io/github/forks/MarkArtamonov/OpenNebula-CVE-2025-56534">	<img alt="stars" src="https://img.shields.io/github/stars/MarkArtamonov/OpenNebula-CVE-2025-56534">
