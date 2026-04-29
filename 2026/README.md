@@ -378,6 +378,7 @@
 > 
 - [5kr1pt/CVE-2026-3854](https://github.com/5kr1pt/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/CVE-2026-3854">
 - [LACHHAB-Anas/Exploit_CVE-2026-3854](https://github.com/LACHHAB-Anas/Exploit_CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/LACHHAB-Anas/Exploit_CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/LACHHAB-Anas/Exploit_CVE-2026-3854">
+- [lysophavin18/CVE-2026-3854-PoC](https://github.com/lysophavin18/CVE-2026-3854-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/CVE-2026-3854-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/CVE-2026-3854-PoC">
 
 ---
 ## CVE-2026-3847 ()
