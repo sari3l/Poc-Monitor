@@ -2061,6 +2061,7 @@
 - [Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up](https://github.com/Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up)	<img alt="forks" src="https://img.shields.io/github/forks/Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up">	<img alt="stars" src="https://img.shields.io/github/stars/Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up">
 - [FireTemple/Blackash-CVE-2017-0144](https://github.com/FireTemple/Blackash-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/FireTemple/Blackash-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/FireTemple/Blackash-CVE-2017-0144">
 - [althany/Windows-7_och_CVE-2017-0144_Exploit](https://github.com/althany/Windows-7_och_CVE-2017-0144_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/althany/Windows-7_och_CVE-2017-0144_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/althany/Windows-7_och_CVE-2017-0144_Exploit">
+- [joel6948/CVE-2017-0144](https://github.com/joel6948/CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/joel6948/CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/joel6948/CVE-2017-0144">
 
 ---
 ## CVE-2017-0143 (2017-03-17T00:59:00)

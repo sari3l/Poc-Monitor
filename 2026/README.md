@@ -11,6 +11,21 @@
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
 
 ---
+## CVE-2026-7394 ()
+> 
+- [Xmyronn/CVE-2026-7394-SQLI](https://github.com/Xmyronn/CVE-2026-7394-SQLI)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7394-SQLI">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7394-SQLI">
+
+---
+## CVE-2026-7393 ()
+> 
+- [Xmyronn/CVE-2026-7393-RCE](https://github.com/Xmyronn/CVE-2026-7393-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7393-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7393-RCE">
+
+---
+## CVE-2026-7222 ()
+> 
+- [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
+
+---
 ## CVE-2026-7020 ()
 > 
 - [davidrxchester/CVE-2026-7020](https://github.com/davidrxchester/CVE-2026-7020)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-7020">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-7020">
@@ -352,6 +367,11 @@
 - [sm1ee/CVE-2026-39324](https://github.com/sm1ee/CVE-2026-39324)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-39324">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-39324">
 
 ---
+## CVE-2026-3910 ()
+> 
+- [5o1z/CVE-2026-3910](https://github.com/5o1z/CVE-2026-3910)	<img alt="forks" src="https://img.shields.io/github/forks/5o1z/CVE-2026-3910">	<img alt="stars" src="https://img.shields.io/github/stars/5o1z/CVE-2026-3910">
+
+---
 ## CVE-2026-3909 ()
 > 
 - [anansi2safe/CVE-2026-3909-PoC](https://github.com/anansi2safe/CVE-2026-3909-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2026-3909-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2026-3909-PoC">
@@ -475,6 +495,11 @@
 ## CVE-2026-35492 ()
 > 
 - [redyank/CVE-2026-35492](https://github.com/redyank/CVE-2026-35492)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-35492">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-35492">
+
+---
+## CVE-2026-35414 ()
+> 
+- [killercd/CVE-2026-35414](https://github.com/killercd/CVE-2026-35414)	<img alt="forks" src="https://img.shields.io/github/forks/killercd/CVE-2026-35414">	<img alt="stars" src="https://img.shields.io/github/stars/killercd/CVE-2026-35414">
 
 ---
 ## CVE-2026-3516 ()
