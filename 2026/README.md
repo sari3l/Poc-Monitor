@@ -1358,6 +1358,7 @@
 ## CVE-2026-27825 ()
 > 
 - [romain-deperne/CVE-2026-27825](https://github.com/romain-deperne/CVE-2026-27825)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-27825">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-27825">
+- [plutosecurity/MCPwnfluence](https://github.com/plutosecurity/MCPwnfluence)	<img alt="forks" src="https://img.shields.io/github/forks/plutosecurity/MCPwnfluence">	<img alt="stars" src="https://img.shields.io/github/stars/plutosecurity/MCPwnfluence">
 
 ---
 ## CVE-2026-27739 ()
