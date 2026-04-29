@@ -357,6 +357,11 @@
 - [anansi2safe/CVE-2026-3909-PoC](https://github.com/anansi2safe/CVE-2026-3909-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2026-3909-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2026-3909-PoC">
 
 ---
+## CVE-2026-38945 ()
+> 
+- [Wise-Security/CVE-2026-38945](https://github.com/Wise-Security/CVE-2026-38945)	<img alt="forks" src="https://img.shields.io/github/forks/Wise-Security/CVE-2026-38945">	<img alt="stars" src="https://img.shields.io/github/stars/Wise-Security/CVE-2026-38945">
+
+---
 ## CVE-2026-3891 ()
 > 
 - [joshuavanderpoll/CVE-2026-3891](https://github.com/joshuavanderpoll/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-3891">
