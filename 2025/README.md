@@ -3579,6 +3579,7 @@
 - [yogeshkumar09/yogeshkumar09.github.io](https://github.com/yogeshkumar09/yogeshkumar09.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/yogeshkumar09/yogeshkumar09.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/yogeshkumar09/yogeshkumar09.github.io">
 - [shubham-01-star/OpsGuard-simulation](https://github.com/shubham-01-star/OpsGuard-simulation)	<img alt="forks" src="https://img.shields.io/github/forks/shubham-01-star/OpsGuard-simulation">	<img alt="stars" src="https://img.shields.io/github/stars/shubham-01-star/OpsGuard-simulation">
 - [JSH-data/CVE-2025-55184_CVE-2025-67779](https://github.com/JSH-data/CVE-2025-55184_CVE-2025-67779)	<img alt="forks" src="https://img.shields.io/github/forks/JSH-data/CVE-2025-55184_CVE-2025-67779">	<img alt="stars" src="https://img.shields.io/github/stars/JSH-data/CVE-2025-55184_CVE-2025-67779">
+- [Theori-lO/reactguard](https://github.com/Theori-lO/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/reactguard">
 
 ---
 ## CVE-2025-55183 ()
@@ -4148,6 +4149,7 @@
 - [joaoreis13/flight-risk](https://github.com/joaoreis13/flight-risk)	<img alt="forks" src="https://img.shields.io/github/forks/joaoreis13/flight-risk">	<img alt="stars" src="https://img.shields.io/github/stars/joaoreis13/flight-risk">
 - [shibaaa204/React2Shell](https://github.com/shibaaa204/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/React2Shell">
 - [Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process](https://github.com/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">
+- [Theori-lO/reactguard](https://github.com/Theori-lO/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/reactguard">
 
 ---
 ## CVE-2025-55130 ()
