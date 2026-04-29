@@ -102,6 +102,11 @@
 - [Live-Hack-CVE/CVE-2019-9591](https://github.com/Live-Hack-CVE/CVE-2019-9591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9591">
 
 ---
+## CVE-2019-9511 ()
+> 
+- [harley-ghostie/CVE-2019-9511_Priority-Churn-Data-Dribble](https://github.com/harley-ghostie/CVE-2019-9511_Priority-Churn-Data-Dribble)	<img alt="forks" src="https://img.shields.io/github/forks/harley-ghostie/CVE-2019-9511_Priority-Churn-Data-Dribble">	<img alt="stars" src="https://img.shields.io/github/stars/harley-ghostie/CVE-2019-9511_Priority-Churn-Data-Dribble">
+
+---
 ## CVE-2019-9433 (2019-09-27T19:15:00)
 > In libvpx, there is a possible information disclosure due to improper input validation. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is needed for exploitation. Product: AndroidVersions: Android-10Android ID: A-80479354
 - [Live-Hack-CVE/CVE-2019-9433](https://github.com/Live-Hack-CVE/CVE-2019-9433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9433">
