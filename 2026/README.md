@@ -936,6 +936,11 @@
 - [Recorded-texteditor120/CVE-2026-31802](https://github.com/Recorded-texteditor120/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Recorded-texteditor120/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Recorded-texteditor120/CVE-2026-31802">
 
 ---
+## CVE-2026-31431 ()
+> 
+- [mhdgning131/CVE-2026-31431_poc](https://github.com/mhdgning131/CVE-2026-31431_poc)	<img alt="forks" src="https://img.shields.io/github/forks/mhdgning131/CVE-2026-31431_poc">	<img alt="stars" src="https://img.shields.io/github/stars/mhdgning131/CVE-2026-31431_poc">
+
+---
 ## CVE-2026-31413 ()
 > 
 - [Rat5ak/CVE-2026-31413-BPF-Container-Escape](https://github.com/Rat5ak/CVE-2026-31413-BPF-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-31413-BPF-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-31413-BPF-Container-Escape">
