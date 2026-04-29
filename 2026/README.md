@@ -410,6 +410,7 @@
 - [5kr1pt/CVE-2026-3854](https://github.com/5kr1pt/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/CVE-2026-3854">
 - [LACHHAB-Anas/Exploit_CVE-2026-3854](https://github.com/LACHHAB-Anas/Exploit_CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/LACHHAB-Anas/Exploit_CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/LACHHAB-Anas/Exploit_CVE-2026-3854">
 - [lysophavin18/CVE-2026-3854-PoC](https://github.com/lysophavin18/CVE-2026-3854-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/CVE-2026-3854-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/CVE-2026-3854-PoC">
+- [simondankelmann/cve-2026-3854-test](https://github.com/simondankelmann/cve-2026-3854-test)	<img alt="forks" src="https://img.shields.io/github/forks/simondankelmann/cve-2026-3854-test">	<img alt="stars" src="https://img.shields.io/github/stars/simondankelmann/cve-2026-3854-test">
 
 ---
 ## CVE-2026-3847 ()
@@ -993,6 +994,11 @@
 ## CVE-2026-30862 ()
 > 
 - [drkim-dev/CVE-2026-30862](https://github.com/drkim-dev/CVE-2026-30862)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-30862">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-30862">
+
+---
+## CVE-2026-30824 ()
+> 
+- [dylvie/CVE-2026-30824-Flowise-NVIDIA-NIM-Authentication](https://github.com/dylvie/CVE-2026-30824-Flowise-NVIDIA-NIM-Authentication)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2026-30824-Flowise-NVIDIA-NIM-Authentication">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2026-30824-Flowise-NVIDIA-NIM-Authentication">
 
 ---
 ## CVE-2026-30741 ()
