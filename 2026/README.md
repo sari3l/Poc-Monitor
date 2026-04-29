@@ -11,6 +11,11 @@
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
 
 ---
+## CVE-2026-7401 ()
+> 
+- [Xmyronn/CVE-2026-7401-XSS](https://github.com/Xmyronn/CVE-2026-7401-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7401-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7401-XSS">
+
+---
 ## CVE-2026-7394 ()
 > 
 - [Xmyronn/CVE-2026-7394-SQLI](https://github.com/Xmyronn/CVE-2026-7394-SQLI)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7394-SQLI">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7394-SQLI">
