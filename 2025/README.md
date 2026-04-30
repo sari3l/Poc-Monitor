@@ -4858,6 +4858,11 @@
 - [Secsys-FDU/CVE-2025-51858](https://github.com/Secsys-FDU/CVE-2025-51858)	<img alt="forks" src="https://img.shields.io/github/forks/Secsys-FDU/CVE-2025-51858">	<img alt="stars" src="https://img.shields.io/github/stars/Secsys-FDU/CVE-2025-51858">
 
 ---
+## CVE-2025-51847 ()
+> 
+- [JohnPerifanis/CVE-2025-51847-Reserved---under-review-](https://github.com/JohnPerifanis/CVE-2025-51847-Reserved---under-review-)	<img alt="forks" src="https://img.shields.io/github/forks/JohnPerifanis/CVE-2025-51847-Reserved---under-review-">	<img alt="stars" src="https://img.shields.io/github/stars/JohnPerifanis/CVE-2025-51847-Reserved---under-review-">
+
+---
 ## CVE-2025-51820 ()
 > 
 - [shk-mubashshir/CVE-2025-51820](https://github.com/shk-mubashshir/CVE-2025-51820)	<img alt="forks" src="https://img.shields.io/github/forks/shk-mubashshir/CVE-2025-51820">	<img alt="stars" src="https://img.shields.io/github/stars/shk-mubashshir/CVE-2025-51820">
