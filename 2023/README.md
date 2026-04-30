@@ -6307,6 +6307,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [sug4r-wr41th/CVE-2023-28121](https://github.com/sug4r-wr41th/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2023-28121">
 - [sug4r-wr41th/CVE-2023-28121](https://github.com/sug4r-wr41th/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2023-28121">
 - [0axz-tools/CVE-2023-28121](https://github.com/0axz-tools/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/0axz-tools/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/0axz-tools/CVE-2023-28121">
+- [luisdevpentest/-CVE-2023-28121-WordPress-Privilege-Escalation](https://github.com/luisdevpentest/-CVE-2023-28121-WordPress-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/luisdevpentest/-CVE-2023-28121-WordPress-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/luisdevpentest/-CVE-2023-28121-WordPress-Privilege-Escalation">
 
 ---
 ## CVE-2023-27997 (2023-06-13T09:15:00)
