@@ -6028,6 +6028,11 @@
 - [Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181](https://github.com/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181">
 
 ---
+## CVE-2020-0162 ()
+> 
+- [Pazhanivelmani/av_CVE-2020-0162_A10r33](https://github.com/Pazhanivelmani/av_CVE-2020-0162_A10r33)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/av_CVE-2020-0162_A10r33">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/av_CVE-2020-0162_A10r33">
+
+---
 ## CVE-2020-0137 (2020-06-11T15:15:00)
 > In setIPv6AddrGenMode of NetworkManagementService.java, there is a possible bypass of networking permissions due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-141920289
 - [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137">
