@@ -6617,6 +6617,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [h3raklez/CVE-2024-3094](https://github.com/h3raklez/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2024-3094">
 - [Ava-Vispilio/CVE-2024-3094](https://github.com/Ava-Vispilio/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Ava-Vispilio/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Ava-Vispilio/CVE-2024-3094">
 - [0xBlackash/CVE-2024-3094](https://github.com/0xBlackash/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2024-3094">
+- [vesjolyjd/Kaspersky_CVE-2024-3094](https://github.com/vesjolyjd/Kaspersky_CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/vesjolyjd/Kaspersky_CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/vesjolyjd/Kaspersky_CVE-2024-3094">
+- [vnchk1/sec_review_cve-2024-3094](https://github.com/vnchk1/sec_review_cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/vnchk1/sec_review_cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/vnchk1/sec_review_cve-2024-3094">
 
 ---
 ## CVE-2024-30937 ()
