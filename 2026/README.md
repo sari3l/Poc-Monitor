@@ -1100,6 +1100,13 @@
 - [cs8425/copy-fail-go](https://github.com/cs8425/copy-fail-go)	<img alt="forks" src="https://img.shields.io/github/forks/cs8425/copy-fail-go">	<img alt="stars" src="https://img.shields.io/github/stars/cs8425/copy-fail-go">
 - [XsanFlip/CVE-2026-31431-Patch](https://github.com/XsanFlip/CVE-2026-31431-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-31431-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-31431-Patch">
 - [nisec-eric/cve-2026-31431](https://github.com/nisec-eric/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/nisec-eric/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/nisec-eric/cve-2026-31431">
+- [sec17br/CVE-2026-31431-Copy-Fail](https://github.com/sec17br/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/sec17br/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/sec17br/CVE-2026-31431-Copy-Fail">
+- [Xerxes-2/CVE-2026-31431-rs](https://github.com/Xerxes-2/CVE-2026-31431-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Xerxes-2/CVE-2026-31431-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Xerxes-2/CVE-2026-31431-rs">
+- [MohamedKarrab/Copy-Fail-CVE-2026-31431](https://github.com/MohamedKarrab/Copy-Fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/MohamedKarrab/Copy-Fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/MohamedKarrab/Copy-Fail-CVE-2026-31431">
+- [SeanRickerd/cve-2026-31431](https://github.com/SeanRickerd/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SeanRickerd/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SeanRickerd/cve-2026-31431">
+- [abdullaabdullazade/CVE-2026-31431](https://github.com/abdullaabdullazade/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/abdullaabdullazade/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/abdullaabdullazade/CVE-2026-31431">
+- [Sndav/CVE-2026-31431-Advanced-Exploit](https://github.com/Sndav/CVE-2026-31431-Advanced-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sndav/CVE-2026-31431-Advanced-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sndav/CVE-2026-31431-Advanced-Exploit">
+- [w3llr00t3d/CVE-2026-31431-PoC](https://github.com/w3llr00t3d/CVE-2026-31431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/w3llr00t3d/CVE-2026-31431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/w3llr00t3d/CVE-2026-31431-PoC">
 
 ---
 ## CVE-2026-31413 ()
