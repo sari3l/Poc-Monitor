@@ -264,6 +264,8 @@
 - [devtint/CVE-2026-41940](https://github.com/devtint/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-41940">
 - [0xBlackash/CVE-2026-41940](https://github.com/0xBlackash/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41940">
 - [0xF55/cve-2026-41940-exploit](https://github.com/0xF55/cve-2026-41940-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xF55/cve-2026-41940-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xF55/cve-2026-41940-exploit">
+- [AmirrezaMarzban/portscan-CVE-2026-41940](https://github.com/AmirrezaMarzban/portscan-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AmirrezaMarzban/portscan-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AmirrezaMarzban/portscan-CVE-2026-41940">
+- [vineet7800/cpanel-malware-cleaner-cve-2026](https://github.com/vineet7800/cpanel-malware-cleaner-cve-2026)	<img alt="forks" src="https://img.shields.io/github/forks/vineet7800/cpanel-malware-cleaner-cve-2026">	<img alt="stars" src="https://img.shields.io/github/stars/vineet7800/cpanel-malware-cleaner-cve-2026">
 
 ---
 ## CVE-2026-41679 ()
