@@ -266,6 +266,7 @@
 - [0xF55/cve-2026-41940-exploit](https://github.com/0xF55/cve-2026-41940-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xF55/cve-2026-41940-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xF55/cve-2026-41940-exploit">
 - [AmirrezaMarzban/portscan-CVE-2026-41940](https://github.com/AmirrezaMarzban/portscan-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AmirrezaMarzban/portscan-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AmirrezaMarzban/portscan-CVE-2026-41940">
 - [vineet7800/cpanel-malware-cleaner-cve-2026](https://github.com/vineet7800/cpanel-malware-cleaner-cve-2026)	<img alt="forks" src="https://img.shields.io/github/forks/vineet7800/cpanel-malware-cleaner-cve-2026">	<img alt="stars" src="https://img.shields.io/github/stars/vineet7800/cpanel-malware-cleaner-cve-2026">
+- [AmirrezaMarzban/portscan-CVE-2026-41940](https://github.com/AmirrezaMarzban/portscan-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AmirrezaMarzban/portscan-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AmirrezaMarzban/portscan-CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1220,6 +1221,7 @@
 - [ledlight33/copyfail-dfir](https://github.com/ledlight33/copyfail-dfir)	<img alt="forks" src="https://img.shields.io/github/forks/ledlight33/copyfail-dfir">	<img alt="stars" src="https://img.shields.io/github/stars/ledlight33/copyfail-dfir">
 - [Smarttfoxx/copyfail](https://github.com/Smarttfoxx/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/copyfail">
 - [Shotafry/CopyFail-Exploits-CVE-2026-31431](https://github.com/Shotafry/CopyFail-Exploits-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Shotafry/CopyFail-Exploits-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Shotafry/CopyFail-Exploits-CVE-2026-31431">
+- [glask1d/CVE-2026-31431-PoC](https://github.com/glask1d/CVE-2026-31431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/glask1d/CVE-2026-31431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/glask1d/CVE-2026-31431-PoC">
 
 ---
 ## CVE-2026-3143 ()
