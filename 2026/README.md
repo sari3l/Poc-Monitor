@@ -247,6 +247,7 @@
 - [rfxn/cpanel-sessionscribe](https://github.com/rfxn/cpanel-sessionscribe)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/cpanel-sessionscribe">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/cpanel-sessionscribe">
 - [zedxod/CVE-2026-41940-POC](https://github.com/zedxod/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zedxod/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zedxod/CVE-2026-41940-POC">
 - [george1-adel/CVE-2026-41940_exploit](https://github.com/george1-adel/CVE-2026-41940_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2026-41940_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2026-41940_exploit">
+- [mahfuzreham/cpanel-cve-2026-41940](https://github.com/mahfuzreham/cpanel-cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/cpanel-cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/cpanel-cve-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
