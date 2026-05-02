@@ -267,6 +267,9 @@
 - [AmirrezaMarzban/portscan-CVE-2026-41940](https://github.com/AmirrezaMarzban/portscan-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AmirrezaMarzban/portscan-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AmirrezaMarzban/portscan-CVE-2026-41940">
 - [vineet7800/cpanel-malware-cleaner-cve-2026](https://github.com/vineet7800/cpanel-malware-cleaner-cve-2026)	<img alt="forks" src="https://img.shields.io/github/forks/vineet7800/cpanel-malware-cleaner-cve-2026">	<img alt="stars" src="https://img.shields.io/github/stars/vineet7800/cpanel-malware-cleaner-cve-2026">
 - [AmirrezaMarzban/portscan-CVE-2026-41940](https://github.com/AmirrezaMarzban/portscan-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AmirrezaMarzban/portscan-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AmirrezaMarzban/portscan-CVE-2026-41940">
+- [3tternp/CVE-2026-41940---cPanel-WHM-check](https://github.com/3tternp/CVE-2026-41940---cPanel-WHM-check)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2026-41940---cPanel-WHM-check">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2026-41940---cPanel-WHM-check">
+- [dennisec/CVE-2026-41940](https://github.com/dennisec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2026-41940">
+- [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 
 ---
 ## CVE-2026-41679 ()
@@ -306,6 +309,11 @@
 ## CVE-2026-41242 ()
 > 
 - [4chech/CVE-2026-41242](https://github.com/4chech/CVE-2026-41242)	<img alt="forks" src="https://img.shields.io/github/forks/4chech/CVE-2026-41242">	<img alt="stars" src="https://img.shields.io/github/stars/4chech/CVE-2026-41242">
+
+---
+## CVE-2026-41200 ()
+> 
+- [Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss](https://github.com/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss">
 
 ---
 ## CVE-2026-41177 ()
@@ -1239,6 +1247,9 @@
 - [ROSNLR5/modrosnlr5](https://github.com/ROSNLR5/modrosnlr5)	<img alt="forks" src="https://img.shields.io/github/forks/ROSNLR5/modrosnlr5">	<img alt="stars" src="https://img.shields.io/github/stars/ROSNLR5/modrosnlr5">
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 - [Emmmmllll/copy-fail-zig](https://github.com/Emmmmllll/copy-fail-zig)	<img alt="forks" src="https://img.shields.io/github/forks/Emmmmllll/copy-fail-zig">	<img alt="stars" src="https://img.shields.io/github/stars/Emmmmllll/copy-fail-zig">
+- [malwarekid/CVE-2026-31431](https://github.com/malwarekid/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/malwarekid/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/malwarekid/CVE-2026-31431">
+- [xd20111/CVE-2026-31431](https://github.com/xd20111/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/xd20111/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/xd20111/CVE-2026-31431">
+- [moaaz-mostafa123/CVE-2026-31431](https://github.com/moaaz-mostafa123/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/moaaz-mostafa123/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/moaaz-mostafa123/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
