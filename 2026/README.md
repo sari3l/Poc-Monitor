@@ -290,6 +290,7 @@
 - [ThatNotEasy/CVE-2026-41940](https://github.com/ThatNotEasy/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2026-41940">
 - [linko-iheb/cve-2026-41940-scanner](https://github.com/linko-iheb/cve-2026-41940-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linko-iheb/cve-2026-41940-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linko-iheb/cve-2026-41940-scanner">
 - [Ishanoshada/CVE-2026-41940-Exploit-PoC](https://github.com/Ishanoshada/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ishanoshada/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ishanoshada/CVE-2026-41940-Exploit-PoC">
+- [YudaSamuel/cpanel-vuln-scanner](https://github.com/YudaSamuel/cpanel-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/YudaSamuel/cpanel-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/YudaSamuel/cpanel-vuln-scanner">
 
 ---
 ## CVE-2026-41679 ()
