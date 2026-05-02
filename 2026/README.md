@@ -1298,6 +1298,7 @@
 - [CybroZeus/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431">
 - [rivaldofwijaya/copy-success](https://github.com/rivaldofwijaya/copy-success)	<img alt="forks" src="https://img.shields.io/github/forks/rivaldofwijaya/copy-success">	<img alt="stars" src="https://img.shields.io/github/stars/rivaldofwijaya/copy-success">
 - [rippsec/cve-2026-31431](https://github.com/rippsec/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/cve-2026-31431">
+- [AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing](https://github.com/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing)	<img alt="forks" src="https://img.shields.io/github/forks/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing">	<img alt="stars" src="https://img.shields.io/github/stars/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing">
 
 ---
 ## CVE-2026-3143 ()
