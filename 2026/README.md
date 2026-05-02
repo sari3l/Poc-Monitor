@@ -1271,6 +1271,9 @@
 - [suominen/CVE-2026-31431](https://github.com/suominen/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-31431">
 - [mahdi13830510/CVE-2026-31431-mitigation-suite](https://github.com/mahdi13830510/CVE-2026-31431-mitigation-suite)	<img alt="forks" src="https://img.shields.io/github/forks/mahdi13830510/CVE-2026-31431-mitigation-suite">	<img alt="stars" src="https://img.shields.io/github/stars/mahdi13830510/CVE-2026-31431-mitigation-suite">
 - [KanbaraAkihito/CVE-2026-31431-copyfail-rs](https://github.com/KanbaraAkihito/CVE-2026-31431-copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/KanbaraAkihito/CVE-2026-31431-copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/KanbaraAkihito/CVE-2026-31431-copyfail-rs">
+- [M4xSec/CVE-2026-31431-RCE-Exploit](https://github.com/M4xSec/CVE-2026-31431-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/CVE-2026-31431-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/CVE-2026-31431-RCE-Exploit">
+- [cxwx/cpp-CVE-2026-31431](https://github.com/cxwx/cpp-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cxwx/cpp-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cxwx/cpp-CVE-2026-31431">
+- [mmionf/copy-fail-CVE-2026-31431](https://github.com/mmionf/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mmionf/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mmionf/copy-fail-CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
