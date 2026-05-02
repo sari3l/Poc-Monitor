@@ -1225,6 +1225,7 @@
 - [parmstro/cfDr](https://github.com/parmstro/cfDr)	<img alt="forks" src="https://img.shields.io/github/forks/parmstro/cfDr">	<img alt="stars" src="https://img.shields.io/github/stars/parmstro/cfDr">
 - [monobrau/copyfailscan](https://github.com/monobrau/copyfailscan)	<img alt="forks" src="https://img.shields.io/github/forks/monobrau/copyfailscan">	<img alt="stars" src="https://img.shields.io/github/stars/monobrau/copyfailscan">
 - [RoflSecurity/copy_fail](https://github.com/RoflSecurity/copy_fail)	<img alt="forks" src="https://img.shields.io/github/forks/RoflSecurity/copy_fail">	<img alt="stars" src="https://img.shields.io/github/stars/RoflSecurity/copy_fail">
+- [kdjnb/fix_CVE-2026-31431](https://github.com/kdjnb/fix_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kdjnb/fix_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kdjnb/fix_CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
