@@ -11,6 +11,11 @@
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
 
 ---
+## CVE-2026-7671 ()
+> 
+- [CaginKyr/CVE-2026-7671](https://github.com/CaginKyr/CVE-2026-7671)	<img alt="forks" src="https://img.shields.io/github/forks/CaginKyr/CVE-2026-7671">	<img alt="stars" src="https://img.shields.io/github/stars/CaginKyr/CVE-2026-7671">
+
+---
 ## CVE-2026-7567 ()
 > 
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
@@ -283,6 +288,7 @@
 - [dennisec/CVE-2026-41940](https://github.com/dennisec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2026-41940">
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 - [ThatNotEasy/CVE-2026-41940](https://github.com/ThatNotEasy/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2026-41940">
+- [linko-iheb/cve-2026-41940-scanner](https://github.com/linko-iheb/cve-2026-41940-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linko-iheb/cve-2026-41940-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linko-iheb/cve-2026-41940-scanner">
 
 ---
 ## CVE-2026-41679 ()
@@ -1284,6 +1290,8 @@
 - [pulentoski/CVE-2026-31431-](https://github.com/pulentoski/CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2026-31431-">
 - [joltcan/ansible-role-cve-2026-31431](https://github.com/joltcan/ansible-role-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/joltcan/ansible-role-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/joltcan/ansible-role-cve-2026-31431">
 - [pulentoski/CVE-2026-31431](https://github.com/pulentoski/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2026-31431">
+- [Gr-1m/CVE-2026-31431](https://github.com/Gr-1m/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/CVE-2026-31431">
+- [Huchangzhi/autorootlinux](https://github.com/Huchangzhi/autorootlinux)	<img alt="forks" src="https://img.shields.io/github/forks/Huchangzhi/autorootlinux">	<img alt="stars" src="https://img.shields.io/github/stars/Huchangzhi/autorootlinux">
 
 ---
 ## CVE-2026-3143 ()
