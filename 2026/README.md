@@ -234,6 +234,7 @@
 - [dinosn/proftpd-CVE-2026-42167-analysis](https://github.com/dinosn/proftpd-CVE-2026-42167-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/proftpd-CVE-2026-42167-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/proftpd-CVE-2026-42167-analysis">
 - [Sl4cK0TH/CVE-2026-42167-PoC](https://github.com/Sl4cK0TH/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-42167-PoC">
 - [efeanilarslan/CVE-2026-42167-Exploit](https://github.com/efeanilarslan/CVE-2026-42167-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/efeanilarslan/CVE-2026-42167-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/efeanilarslan/CVE-2026-42167-Exploit">
+- [jimmexploit/CVE-2026-42167-PoC](https://github.com/jimmexploit/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jimmexploit/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jimmexploit/CVE-2026-42167-PoC">
 
 ---
 ## CVE-2026-42141 ()
@@ -1279,6 +1280,8 @@
 - [M4xSec/CVE-2026-31431-RCE-Exploit](https://github.com/M4xSec/CVE-2026-31431-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/CVE-2026-31431-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/CVE-2026-31431-RCE-Exploit">
 - [cxwx/cpp-CVE-2026-31431](https://github.com/cxwx/cpp-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cxwx/cpp-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cxwx/cpp-CVE-2026-31431">
 - [mmionf/copy-fail-CVE-2026-31431](https://github.com/mmionf/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mmionf/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mmionf/copy-fail-CVE-2026-31431">
+- [Sl4cK0TH/CVE-2026-31431-PoC](https://github.com/Sl4cK0TH/CVE-2026-31431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-31431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-31431-PoC">
+- [pulentoski/CVE-2026-31431-](https://github.com/pulentoski/CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2026-31431-">
 
 ---
 ## CVE-2026-3143 ()
