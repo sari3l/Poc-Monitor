@@ -289,6 +289,7 @@
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 - [ThatNotEasy/CVE-2026-41940](https://github.com/ThatNotEasy/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2026-41940">
 - [linko-iheb/cve-2026-41940-scanner](https://github.com/linko-iheb/cve-2026-41940-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linko-iheb/cve-2026-41940-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linko-iheb/cve-2026-41940-scanner">
+- [Ishanoshada/CVE-2026-41940-Exploit-PoC](https://github.com/Ishanoshada/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ishanoshada/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ishanoshada/CVE-2026-41940-Exploit-PoC">
 
 ---
 ## CVE-2026-41679 ()
@@ -1292,6 +1293,8 @@
 - [pulentoski/CVE-2026-31431](https://github.com/pulentoski/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2026-31431">
 - [Gr-1m/CVE-2026-31431](https://github.com/Gr-1m/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/CVE-2026-31431">
 - [Huchangzhi/autorootlinux](https://github.com/Huchangzhi/autorootlinux)	<img alt="forks" src="https://img.shields.io/github/forks/Huchangzhi/autorootlinux">	<img alt="stars" src="https://img.shields.io/github/stars/Huchangzhi/autorootlinux">
+- [CybroZeus/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431">
+- [rivaldofwijaya/copy-success](https://github.com/rivaldofwijaya/copy-success)	<img alt="forks" src="https://img.shields.io/github/forks/rivaldofwijaya/copy-success">	<img alt="stars" src="https://img.shields.io/github/stars/rivaldofwijaya/copy-success">
 
 ---
 ## CVE-2026-3143 ()
