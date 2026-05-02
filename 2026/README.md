@@ -281,6 +281,7 @@
 - [3tternp/CVE-2026-41940---cPanel-WHM-check](https://github.com/3tternp/CVE-2026-41940---cPanel-WHM-check)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2026-41940---cPanel-WHM-check">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2026-41940---cPanel-WHM-check">
 - [dennisec/CVE-2026-41940](https://github.com/dennisec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2026-41940">
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
+- [ThatNotEasy/CVE-2026-41940](https://github.com/ThatNotEasy/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1267,6 +1268,9 @@
 - [MartinPham/copy-fail-CVE-2026-31431-php](https://github.com/MartinPham/copy-fail-CVE-2026-31431-php)	<img alt="forks" src="https://img.shields.io/github/forks/MartinPham/copy-fail-CVE-2026-31431-php">	<img alt="stars" src="https://img.shields.io/github/stars/MartinPham/copy-fail-CVE-2026-31431-php">
 - [2H-K/copyfailRecurrence](https://github.com/2H-K/copyfailRecurrence)	<img alt="forks" src="https://img.shields.io/github/forks/2H-K/copyfailRecurrence">	<img alt="stars" src="https://img.shields.io/github/stars/2H-K/copyfailRecurrence">
 - [suominen/CVE-2026-31431](https://github.com/suominen/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-31431">
+- [suominen/CVE-2026-31431](https://github.com/suominen/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-31431">
+- [mahdi13830510/CVE-2026-31431-mitigation-suite](https://github.com/mahdi13830510/CVE-2026-31431-mitigation-suite)	<img alt="forks" src="https://img.shields.io/github/forks/mahdi13830510/CVE-2026-31431-mitigation-suite">	<img alt="stars" src="https://img.shields.io/github/stars/mahdi13830510/CVE-2026-31431-mitigation-suite">
+- [KanbaraAkihito/CVE-2026-31431-copyfail-rs](https://github.com/KanbaraAkihito/CVE-2026-31431-copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/KanbaraAkihito/CVE-2026-31431-copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/KanbaraAkihito/CVE-2026-31431-copyfail-rs">
 
 ---
 ## CVE-2026-3143 ()
