@@ -301,6 +301,8 @@
 - [imbas007/POC_CVE-2026-41940](https://github.com/imbas007/POC_CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC_CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC_CVE-2026-41940">
 - [tfawnies/CVE-2026-41940-next](https://github.com/tfawnies/CVE-2026-41940-next)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-41940-next">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-41940-next">
 - [tahaXafous/CVE_2026_41940_scan_exploit](https://github.com/tahaXafous/CVE_2026_41940_scan_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE_2026_41940_scan_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE_2026_41940_scan_exploit">
+- [cy3erm/CVE-2026-41940-POC](https://github.com/cy3erm/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cy3erm/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cy3erm/CVE-2026-41940-POC">
+- [Underh0st/CPanel-Audit-Remediation-Tool](https://github.com/Underh0st/CPanel-Audit-Remediation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Underh0st/CPanel-Audit-Remediation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Underh0st/CPanel-Audit-Remediation-Tool">
 
 ---
 ## CVE-2026-41679 ()
@@ -592,6 +594,16 @@
 ## CVE-2026-36358 ()
 > 
 - [yuhuamiao/CVE-2026-36358](https://github.com/yuhuamiao/CVE-2026-36358)	<img alt="forks" src="https://img.shields.io/github/forks/yuhuamiao/CVE-2026-36358">	<img alt="stars" src="https://img.shields.io/github/stars/yuhuamiao/CVE-2026-36358">
+
+---
+## CVE-2026-36356 ()
+> 
+- [totekuh/CVE-2026-36356](https://github.com/totekuh/CVE-2026-36356)	<img alt="forks" src="https://img.shields.io/github/forks/totekuh/CVE-2026-36356">	<img alt="stars" src="https://img.shields.io/github/stars/totekuh/CVE-2026-36356">
+
+---
+## CVE-2026-36355 ()
+> 
+- [totekuh/CVE-2026-36355](https://github.com/totekuh/CVE-2026-36355)	<img alt="forks" src="https://img.shields.io/github/forks/totekuh/CVE-2026-36355">	<img alt="stars" src="https://img.shields.io/github/stars/totekuh/CVE-2026-36355">
 
 ---
 ## CVE-2026-3587 ()
