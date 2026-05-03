@@ -236,6 +236,7 @@
 ## CVE-2026-42208 ()
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
+- [0xBlackash/CVE-2026-42208](https://github.com/0xBlackash/CVE-2026-42208)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42208">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42208">
 
 ---
 ## CVE-2026-42167 ()
