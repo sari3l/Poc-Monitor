@@ -311,6 +311,9 @@
 - [0xBlackash/CVE-2026-41651](https://github.com/0xBlackash/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41651">
 - [baph00met/CVE-2026-41651](https://github.com/baph00met/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/baph00met/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/baph00met/CVE-2026-41651">
 - [dinosn/pack2theroot-lab](https://github.com/dinosn/pack2theroot-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/pack2theroot-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/pack2theroot-lab">
+- [aexdyhaxor/CVE-2026-41651](https://github.com/aexdyhaxor/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-41651">
+- [mazofeifaalfaro/check_pack2theroot](https://github.com/mazofeifaalfaro/check_pack2theroot)	<img alt="forks" src="https://img.shields.io/github/forks/mazofeifaalfaro/check_pack2theroot">	<img alt="stars" src="https://img.shields.io/github/stars/mazofeifaalfaro/check_pack2theroot">
+- [shibaaa204/Pack2TheRoot](https://github.com/shibaaa204/Pack2TheRoot)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/Pack2TheRoot">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/Pack2TheRoot">
 
 ---
 ## CVE-2026-41575 ()
@@ -1300,6 +1303,12 @@
 - [rippsec/cve-2026-31431](https://github.com/rippsec/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/cve-2026-31431">
 - [AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing](https://github.com/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing)	<img alt="forks" src="https://img.shields.io/github/forks/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing">	<img alt="stars" src="https://img.shields.io/github/stars/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing">
 - [pedromizz/copy-fail](https://github.com/pedromizz/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/pedromizz/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/pedromizz/copy-fail">
+- [YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP](https://github.com/YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP">
+- [aexdyhaxor/CVE-2026-31431-copy-fail](https://github.com/aexdyhaxor/CVE-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-31431-copy-fail">
+- [pyroceper/copy-fail-CVE-2026-31431](https://github.com/pyroceper/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pyroceper/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pyroceper/copy-fail-CVE-2026-31431">
+- [danimrtzp/CVE-2026-31431-REVSHELL](https://github.com/danimrtzp/CVE-2026-31431-REVSHELL)	<img alt="forks" src="https://img.shields.io/github/forks/danimrtzp/CVE-2026-31431-REVSHELL">	<img alt="stars" src="https://img.shields.io/github/stars/danimrtzp/CVE-2026-31431-REVSHELL">
+- [jbnetwork-git/copy-fail-check](https://github.com/jbnetwork-git/copy-fail-check)	<img alt="forks" src="https://img.shields.io/github/forks/jbnetwork-git/copy-fail-check">	<img alt="stars" src="https://img.shields.io/github/stars/jbnetwork-git/copy-fail-check">
+- [astounds/copy-fail-CVE-2026-31431](https://github.com/astounds/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/astounds/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/astounds/copy-fail-CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
