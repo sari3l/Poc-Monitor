@@ -300,6 +300,7 @@
 - [MrOplus/CVE-2026-41940](https://github.com/MrOplus/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/MrOplus/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/MrOplus/CVE-2026-41940">
 - [imbas007/POC_CVE-2026-41940](https://github.com/imbas007/POC_CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC_CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC_CVE-2026-41940">
 - [tfawnies/CVE-2026-41940-next](https://github.com/tfawnies/CVE-2026-41940-next)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-41940-next">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-41940-next">
+- [tahaXafous/CVE_2026_41940_scan_exploit](https://github.com/tahaXafous/CVE_2026_41940_scan_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE_2026_41940_scan_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE_2026_41940_scan_exploit">
 
 ---
 ## CVE-2026-41679 ()
