@@ -372,6 +372,11 @@
 - [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092)	<img alt="forks" src="https://img.shields.io/github/forks/g0w6y/CVE-2026-4092">	<img alt="stars" src="https://img.shields.io/github/stars/g0w6y/CVE-2026-4092">
 
 ---
+## CVE-2026-40776 ()
+> 
+- [lorenzofradeani/cve-2026-40776-eventin](https://github.com/lorenzofradeani/cve-2026-40776-eventin)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzofradeani/cve-2026-40776-eventin">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzofradeani/cve-2026-40776-eventin">
+
+---
 ## CVE-2026-40579 ()
 > 
 - [zebbernCVE/CVE-2026-40579](https://github.com/zebbernCVE/CVE-2026-40579)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-40579">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-40579">
@@ -1353,6 +1358,7 @@
 - [kaleth4/CVE-2026-31431](https://github.com/kaleth4/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-31431">
 - [jdarkcaos-kai/cve-2026-31431-medium-unpriv-t](https://github.com/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t)	<img alt="forks" src="https://img.shields.io/github/forks/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">	<img alt="stars" src="https://img.shields.io/github/stars/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">
 - [juliosuas/copyfail-guard](https://github.com/juliosuas/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/juliosuas/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/juliosuas/copyfail-guard">
+- [ctzisme/copyfail-guard](https://github.com/ctzisme/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/ctzisme/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/ctzisme/copyfail-guard">
 
 ---
 ## CVE-2026-3143 ()
