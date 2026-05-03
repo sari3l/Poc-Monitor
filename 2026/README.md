@@ -668,6 +668,11 @@
 - [romain-deperne/CVE-2026-34940](https://github.com/romain-deperne/CVE-2026-34940)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-34940">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-34940">
 
 ---
+## CVE-2026-3494 ()
+> 
+- [KKongTen/CVE-2026-3494](https://github.com/KKongTen/CVE-2026-3494)	<img alt="forks" src="https://img.shields.io/github/forks/KKongTen/CVE-2026-3494">	<img alt="stars" src="https://img.shields.io/github/stars/KKongTen/CVE-2026-3494">
+
+---
 ## CVE-2026-34838 ()
 > 
 - [bamuwe/CVE-2026-34838](https://github.com/bamuwe/CVE-2026-34838)	<img alt="forks" src="https://img.shields.io/github/forks/bamuwe/CVE-2026-34838">	<img alt="stars" src="https://img.shields.io/github/stars/bamuwe/CVE-2026-34838">
@@ -1309,6 +1314,7 @@
 - [danimrtzp/CVE-2026-31431-REVSHELL](https://github.com/danimrtzp/CVE-2026-31431-REVSHELL)	<img alt="forks" src="https://img.shields.io/github/forks/danimrtzp/CVE-2026-31431-REVSHELL">	<img alt="stars" src="https://img.shields.io/github/stars/danimrtzp/CVE-2026-31431-REVSHELL">
 - [jbnetwork-git/copy-fail-check](https://github.com/jbnetwork-git/copy-fail-check)	<img alt="forks" src="https://img.shields.io/github/forks/jbnetwork-git/copy-fail-check">	<img alt="stars" src="https://img.shields.io/github/stars/jbnetwork-git/copy-fail-check">
 - [astounds/copy-fail-CVE-2026-31431](https://github.com/astounds/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/astounds/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/astounds/copy-fail-CVE-2026-31431">
+- [ForensicFoundry/cve-2026-31431-check](https://github.com/ForensicFoundry/cve-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/ForensicFoundry/cve-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/ForensicFoundry/cve-2026-31431-check">
 
 ---
 ## CVE-2026-3143 ()
