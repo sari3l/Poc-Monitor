@@ -5221,6 +5221,8 @@
 - [DanielRuf/snyk-js-jquery-565129](https://github.com/DanielRuf/snyk-js-jquery-565129)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/snyk-js-jquery-565129">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/snyk-js-jquery-565129">
 - [Snorlyd/https-nj.gov---CVE-2020-11022](https://github.com/Snorlyd/https-nj.gov---CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/Snorlyd/https-nj.gov---CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/Snorlyd/https-nj.gov---CVE-2020-11022">
 - [ossf-cve-benchmark/CVE-2020-11022](https://github.com/ossf-cve-benchmark/CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-11022">
+- [ibnurusdianto/CVE-2020-11022](https://github.com/ibnurusdianto/CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/ibnurusdianto/CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/ibnurusdianto/CVE-2020-11022">
+- [okni2k/HW-Pyton-10](https://github.com/okni2k/HW-Pyton-10)	<img alt="forks" src="https://img.shields.io/github/forks/okni2k/HW-Pyton-10">	<img alt="stars" src="https://img.shields.io/github/stars/okni2k/HW-Pyton-10">
 
 ---
 ## CVE-2020-11021 ()
