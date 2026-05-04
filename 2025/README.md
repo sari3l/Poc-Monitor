@@ -757,6 +757,11 @@
 - [ClemaX/Gitea-Forgejo-CVE-2025-68937](https://github.com/ClemaX/Gitea-Forgejo-CVE-2025-68937)	<img alt="forks" src="https://img.shields.io/github/forks/ClemaX/Gitea-Forgejo-CVE-2025-68937">	<img alt="stars" src="https://img.shields.io/github/stars/ClemaX/Gitea-Forgejo-CVE-2025-68937">
 
 ---
+## CVE-2025-68930 ()
+> 
+- [kaleth4/CVE-2025-68930](https://github.com/kaleth4/CVE-2025-68930)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2025-68930">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2025-68930">
+
+---
 ## CVE-2025-68926 ()
 > 
 - [Chocapikk/CVE-2025-68926](https://github.com/Chocapikk/CVE-2025-68926)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-68926">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-68926">
@@ -6577,6 +6582,11 @@
 - [zigzagymym1986/CVE-2025-40547](https://github.com/zigzagymym1986/CVE-2025-40547)	<img alt="forks" src="https://img.shields.io/github/forks/zigzagymym1986/CVE-2025-40547">	<img alt="stars" src="https://img.shields.io/github/stars/zigzagymym1986/CVE-2025-40547">
 
 ---
+## CVE-2025-40271 ()
+> 
+- [kaleth4/CVE-2025-40271](https://github.com/kaleth4/CVE-2025-40271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2025-40271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2025-40271">
+
+---
 ## CVE-2025-40214 ()
 > 
 - [Yuri08loveElaina/CVE-2025-40214](https://github.com/Yuri08loveElaina/CVE-2025-40214)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-40214">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-40214">
@@ -10764,6 +10774,11 @@
 ## CVE-2025-0851 ()
 > 
 - [skrkcb2/CVE-2025-0851](https://github.com/skrkcb2/CVE-2025-0851)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/CVE-2025-0851">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/CVE-2025-0851">
+
+---
+## CVE-2025-0690 ()
+> 
+- [kaleth4/CVE-2025-0690](https://github.com/kaleth4/CVE-2025-0690)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2025-0690">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2025-0690">
 
 ---
 ## CVE-2025-0411 ()
