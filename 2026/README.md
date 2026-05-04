@@ -466,6 +466,11 @@
 - [ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808](https://github.com/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">
 
 ---
+## CVE-2026-39440 ()
+> 
+- [3ele-projects/cve-2026-39440-funnelforms-fix](https://github.com/3ele-projects/cve-2026-39440-funnelforms-fix)	<img alt="forks" src="https://img.shields.io/github/forks/3ele-projects/cve-2026-39440-funnelforms-fix">	<img alt="stars" src="https://img.shields.io/github/stars/3ele-projects/cve-2026-39440-funnelforms-fix">
+
+---
 ## CVE-2026-39387 ()
 > 
 - [xp1tr/CVE-2026-39387](https://github.com/xp1tr/CVE-2026-39387)	<img alt="forks" src="https://img.shields.io/github/forks/xp1tr/CVE-2026-39387">	<img alt="stars" src="https://img.shields.io/github/stars/xp1tr/CVE-2026-39387">
@@ -807,6 +812,7 @@
 ## CVE-2026-34159 ()
 > 
 - [casp3r0x0/CVE-2026-34159](https://github.com/casp3r0x0/CVE-2026-34159)	<img alt="forks" src="https://img.shields.io/github/forks/casp3r0x0/CVE-2026-34159">	<img alt="stars" src="https://img.shields.io/github/stars/casp3r0x0/CVE-2026-34159">
+- [rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection](https://github.com/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection">
 
 ---
 ## CVE-2026-34156 ()
@@ -1369,6 +1375,13 @@
 - [kvendler/BigFix-CopyFail-AlmaLinux-Content](https://github.com/kvendler/BigFix-CopyFail-AlmaLinux-Content)	<img alt="forks" src="https://img.shields.io/github/forks/kvendler/BigFix-CopyFail-AlmaLinux-Content">	<img alt="stars" src="https://img.shields.io/github/stars/kvendler/BigFix-CopyFail-AlmaLinux-Content">
 - [xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE](https://github.com/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">
 - [codesource/copyfail-check](https://github.com/codesource/copyfail-check)	<img alt="forks" src="https://img.shields.io/github/forks/codesource/copyfail-check">	<img alt="stars" src="https://img.shields.io/github/stars/codesource/copyfail-check">
+- [g1nt0n1x/copy-fail-CVE-2026-31431-shell](https://github.com/g1nt0n1x/copy-fail-CVE-2026-31431-shell)	<img alt="forks" src="https://img.shields.io/github/forks/g1nt0n1x/copy-fail-CVE-2026-31431-shell">	<img alt="stars" src="https://img.shields.io/github/stars/g1nt0n1x/copy-fail-CVE-2026-31431-shell">
+- [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
+- [Qengineering/RK35xx-CopyFail-Hotfix](https://github.com/Qengineering/RK35xx-CopyFail-Hotfix)	<img alt="forks" src="https://img.shields.io/github/forks/Qengineering/RK35xx-CopyFail-Hotfix">	<img alt="stars" src="https://img.shields.io/github/stars/Qengineering/RK35xx-CopyFail-Hotfix">
+- [mirr81/cve-2026_31431](https://github.com/mirr81/cve-2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/mirr81/cve-2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/mirr81/cve-2026_31431">
+- [samanzamani/copy-fail-checker](https://github.com/samanzamani/copy-fail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/samanzamani/copy-fail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/samanzamani/copy-fail-checker">
+- [mgiay/CVE_2026_31431_FIXED](https://github.com/mgiay/CVE_2026_31431_FIXED)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE_2026_31431_FIXED">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE_2026_31431_FIXED">
+- [chavezvic/CopyFail-Penguin](https://github.com/chavezvic/CopyFail-Penguin)	<img alt="forks" src="https://img.shields.io/github/forks/chavezvic/CopyFail-Penguin">	<img alt="stars" src="https://img.shields.io/github/stars/chavezvic/CopyFail-Penguin">
 
 ---
 ## CVE-2026-3143 ()

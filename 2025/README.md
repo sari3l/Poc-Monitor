@@ -6577,6 +6577,11 @@
 - [zigzagymym1986/CVE-2025-40547](https://github.com/zigzagymym1986/CVE-2025-40547)	<img alt="forks" src="https://img.shields.io/github/forks/zigzagymym1986/CVE-2025-40547">	<img alt="stars" src="https://img.shields.io/github/stars/zigzagymym1986/CVE-2025-40547">
 
 ---
+## CVE-2025-40214 ()
+> 
+- [Yuri08loveElaina/CVE-2025-40214](https://github.com/Yuri08loveElaina/CVE-2025-40214)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-40214">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-40214">
+
+---
 ## CVE-2025-4009 ()
 > 
 - [realcodeb0ss/CVE-2025-4009](https://github.com/realcodeb0ss/CVE-2025-4009)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-4009">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-4009">

@@ -4187,6 +4187,11 @@
 - [Live-Hack-CVE/CVE-2020-15223](https://github.com/Live-Hack-CVE/CVE-2020-15223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15223">
 
 ---
+## CVE-2020-15215 ()
+> 
+- [NishantIyer/CVE-2020-15215-Discord-POC](https://github.com/NishantIyer/CVE-2020-15215-Discord-POC)	<img alt="forks" src="https://img.shields.io/github/forks/NishantIyer/CVE-2020-15215-Discord-POC">	<img alt="stars" src="https://img.shields.io/github/stars/NishantIyer/CVE-2020-15215-Discord-POC">
+
+---
 ## CVE-2020-15156 ()
 > 
 - [CQ-Tools/CVE-2020-15156-fixed](https://github.com/CQ-Tools/CVE-2020-15156-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-15156-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-15156-fixed">
