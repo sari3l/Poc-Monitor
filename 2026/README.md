@@ -71,6 +71,11 @@
 - [mlgzackfly/CVE-2026-6643](https://github.com/mlgzackfly/CVE-2026-6643)	<img alt="forks" src="https://img.shields.io/github/forks/mlgzackfly/CVE-2026-6643">	<img alt="stars" src="https://img.shields.io/github/stars/mlgzackfly/CVE-2026-6643">
 
 ---
+## CVE-2026-6379 ()
+> 
+- [dinosn/cve-2026-6379](https://github.com/dinosn/cve-2026-6379)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-6379">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-6379">
+
+---
 ## CVE-2026-6356 ()
 > 
 - [Penguinsecq/CVE-2026-6356](https://github.com/Penguinsecq/CVE-2026-6356)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6356">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6356">
@@ -1762,6 +1767,11 @@
 > 
 - [romain-deperne/CVE-2026-27825](https://github.com/romain-deperne/CVE-2026-27825)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-27825">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-27825">
 - [plutosecurity/MCPwnfluence](https://github.com/plutosecurity/MCPwnfluence)	<img alt="forks" src="https://img.shields.io/github/forks/plutosecurity/MCPwnfluence">	<img alt="stars" src="https://img.shields.io/github/stars/plutosecurity/MCPwnfluence">
+
+---
+## CVE-2026-27778 ()
+> 
+- [KimJ6/PoC-Simulator_CVE-2026-27778](https://github.com/KimJ6/PoC-Simulator_CVE-2026-27778)	<img alt="forks" src="https://img.shields.io/github/forks/KimJ6/PoC-Simulator_CVE-2026-27778">	<img alt="stars" src="https://img.shields.io/github/stars/KimJ6/PoC-Simulator_CVE-2026-27778">
 
 ---
 ## CVE-2026-27739 ()
