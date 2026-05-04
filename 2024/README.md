@@ -2041,6 +2041,8 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [lnn0v4/sqli-hunter-CVE-2024-51482-PoC](https://github.com/lnn0v4/sqli-hunter-CVE-2024-51482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lnn0v4/sqli-hunter-CVE-2024-51482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lnn0v4/sqli-hunter-CVE-2024-51482-PoC">
 - [Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP](https://github.com/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP">
 - [0xDaeras/CVE-2024-51482-POC](https://github.com/0xDaeras/CVE-2024-51482-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/CVE-2024-51482-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/CVE-2024-51482-POC">
+- [mattiapertusati/htb-cctv](https://github.com/mattiapertusati/htb-cctv)	<img alt="forks" src="https://img.shields.io/github/forks/mattiapertusati/htb-cctv">	<img alt="stars" src="https://img.shields.io/github/stars/mattiapertusati/htb-cctv">
+- [Revnin/CCTV-MACHINE](https://github.com/Revnin/CCTV-MACHINE)	<img alt="forks" src="https://img.shields.io/github/forks/Revnin/CCTV-MACHINE">	<img alt="stars" src="https://img.shields.io/github/stars/Revnin/CCTV-MACHINE">
 
 ---
 ## CVE-2024-51442 ()
