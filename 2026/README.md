@@ -3020,6 +3020,11 @@
 - [NetVanguard-cmd/CVE-2026-21531](https://github.com/NetVanguard-cmd/CVE-2026-21531)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-21531">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-21531">
 
 ---
+## CVE-2026-21514 ()
+> 
+- [ChaitanyaHaritash/CVE-2026-21514_CVE-2026-21510](https://github.com/ChaitanyaHaritash/CVE-2026-21514_CVE-2026-21510)	<img alt="forks" src="https://img.shields.io/github/forks/ChaitanyaHaritash/CVE-2026-21514_CVE-2026-21510">	<img alt="stars" src="https://img.shields.io/github/stars/ChaitanyaHaritash/CVE-2026-21514_CVE-2026-21510">
+
+---
 ## CVE-2026-21510 ()
 > 
 - [andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass](https://github.com/andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass">
@@ -3235,6 +3240,11 @@
 - [b1gchoi/CVE-2026-20079](https://github.com/b1gchoi/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-20079">
 - [Sushilsin/CVE-2026-20079](https://github.com/Sushilsin/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20079">
 - [0xBlackash/CVE-2026-20079](https://github.com/0xBlackash/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20079">
+
+---
+## CVE-2026-2005 ()
+> 
+- [stvm8/CVE-2026-2005_lab](https://github.com/stvm8/CVE-2026-2005_lab)	<img alt="forks" src="https://img.shields.io/github/forks/stvm8/CVE-2026-2005_lab">	<img alt="stars" src="https://img.shields.io/github/stars/stvm8/CVE-2026-2005_lab">
 
 ---
 ## CVE-2026-20045 ()
