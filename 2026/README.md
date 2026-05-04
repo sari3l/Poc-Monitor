@@ -318,6 +318,7 @@
 - [nickpaulsec/2026-41940-poc](https://github.com/nickpaulsec/2026-41940-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nickpaulsec/2026-41940-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nickpaulsec/2026-41940-poc">
 - [habibkaratas/sorry-ransomware-analysis](https://github.com/habibkaratas/sorry-ransomware-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/habibkaratas/sorry-ransomware-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/habibkaratas/sorry-ransomware-analysis">
 - [Yuri08loveElaina/cve-2026-41940](https://github.com/Yuri08loveElaina/cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/cve-2026-41940">
+- [iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass](https://github.com/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass">
 
 ---
 ## CVE-2026-41679 ()
@@ -1396,6 +1397,8 @@
 - [yandex-cloud-examples/yc-mk8s-copy-fail-mitigation](https://github.com/yandex-cloud-examples/yc-mk8s-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/yandex-cloud-examples/yc-mk8s-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/yandex-cloud-examples/yc-mk8s-copy-fail-mitigation">
 - [xeloxa/copyfail-exploit](https://github.com/xeloxa/copyfail-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/copyfail-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/copyfail-exploit">
 - [Mrhudson69/cve-2026-31431](https://github.com/Mrhudson69/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Mrhudson69/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Mrhudson69/cve-2026-31431">
+- [imkk000/play-go-copy-fail-cve-2026-31431](https://github.com/imkk000/play-go-copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/imkk000/play-go-copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/imkk000/play-go-copy-fail-cve-2026-31431">
+- [net0bsd/Mitigaciones](https://github.com/net0bsd/Mitigaciones)	<img alt="forks" src="https://img.shields.io/github/forks/net0bsd/Mitigaciones">	<img alt="stars" src="https://img.shields.io/github/stars/net0bsd/Mitigaciones">
 
 ---
 ## CVE-2026-3143 ()
