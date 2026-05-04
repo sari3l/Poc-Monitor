@@ -311,6 +311,11 @@
 - [Live-Hack-CVE/CVE-2019-8292](https://github.com/Live-Hack-CVE/CVE-2019-8292)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8292">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8292">
 
 ---
+## CVE-2019-7711 ()
+> 
+- [mbanyamer/RTOS-F-16-Exploit---CVE-2019-7711](https://github.com/mbanyamer/RTOS-F-16-Exploit---CVE-2019-7711)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/RTOS-F-16-Exploit---CVE-2019-7711">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/RTOS-F-16-Exploit---CVE-2019-7711">
+
+---
 ## CVE-2019-7672 (2019-06-05T19:29:00)
 > Prima Systems FlexAir, Versions 2.3.38 and prior. The flash version of the web interface contains a hard-coded username and password, which may allow an authenticated attacker to escalate privileges.
 - [Live-Hack-CVE/CVE-2019-7672](https://github.com/Live-Hack-CVE/CVE-2019-7672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7672">
