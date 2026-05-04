@@ -3080,6 +3080,11 @@ use after free.
 - [Chinmay1743/ptrace-vuln](https://github.com/Chinmay1743/ptrace-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/Chinmay1743/ptrace-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/Chinmay1743/ptrace-vuln">
 
 ---
+## CVE-2019-13132 ()
+> 
+- [dinosn/cve-2019-13132-lab](https://github.com/dinosn/cve-2019-13132-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2019-13132-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2019-13132-lab">
+
+---
 ## CVE-2019-13120 (2019-10-07T22:15:00)
 > Amazon FreeRTOS up to and including v1.4.8 lacks length checking in prvProcessReceivedPublish, resulting in untargetable leakage of arbitrary memory contents on a device to an attacker. If an attacker has the authorization to send a malformed MQTT publish packet to an Amazon IoT Thing, which interacts with an associated vulnerable MQTT message in the application, specific circumstances could trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2019-13120](https://github.com/Live-Hack-CVE/CVE-2019-13120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13120">
