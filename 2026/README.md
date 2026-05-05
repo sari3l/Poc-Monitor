@@ -1420,6 +1420,8 @@
 - [Silent4Labs/check-copyfail-cve-2026-31431](https://github.com/Silent4Labs/check-copyfail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent4Labs/check-copyfail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent4Labs/check-copyfail-cve-2026-31431">
 - [rippsec/CVE-2026-31431-Copy-Fail](https://github.com/rippsec/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2026-31431-Copy-Fail">
 - [ShahaB108/CVE-2026-31431_Kernel_Checker](https://github.com/ShahaB108/CVE-2026-31431_Kernel_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/ShahaB108/CVE-2026-31431_Kernel_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/ShahaB108/CVE-2026-31431_Kernel_Checker">
+- [deadRabbit92/mitigate-copy-fail.yml](https://github.com/deadRabbit92/mitigate-copy-fail.yml)	<img alt="forks" src="https://img.shields.io/github/forks/deadRabbit92/mitigate-copy-fail.yml">	<img alt="stars" src="https://img.shields.io/github/stars/deadRabbit92/mitigate-copy-fail.yml">
+- [luca-aurel/vuln-check](https://github.com/luca-aurel/vuln-check)	<img alt="forks" src="https://img.shields.io/github/forks/luca-aurel/vuln-check">	<img alt="stars" src="https://img.shields.io/github/stars/luca-aurel/vuln-check">
 
 ---
 ## CVE-2026-3143 ()
@@ -3269,6 +3271,7 @@
 ## CVE-2026-2005 ()
 > 
 - [stvm8/CVE-2026-2005_lab](https://github.com/stvm8/CVE-2026-2005_lab)	<img alt="forks" src="https://img.shields.io/github/forks/stvm8/CVE-2026-2005_lab">	<img alt="stars" src="https://img.shields.io/github/stars/stvm8/CVE-2026-2005_lab">
+- [dinosn/cve-2026-2005](https://github.com/dinosn/cve-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-2005">
 
 ---
 ## CVE-2026-20045 ()
