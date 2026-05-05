@@ -1441,6 +1441,8 @@
 - [Detect-DefenseLab/CVE-2026-31431-detection-defense](https://github.com/Detect-DefenseLab/CVE-2026-31431-detection-defense)	<img alt="forks" src="https://img.shields.io/github/forks/Detect-DefenseLab/CVE-2026-31431-detection-defense">	<img alt="stars" src="https://img.shields.io/github/stars/Detect-DefenseLab/CVE-2026-31431-detection-defense">
 - [zhanghangorg/cve-2026-31431](https://github.com/zhanghangorg/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangorg/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangorg/cve-2026-31431">
 - [itsystem/afalg-check](https://github.com/itsystem/afalg-check)	<img alt="forks" src="https://img.shields.io/github/forks/itsystem/afalg-check">	<img alt="stars" src="https://img.shields.io/github/stars/itsystem/afalg-check">
+- [Raptoratack/CopyFail-Scanner-CVE-2026-31431](https://github.com/Raptoratack/CopyFail-Scanner-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Raptoratack/CopyFail-Scanner-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Raptoratack/CopyFail-Scanner-CVE-2026-31431">
+- [ozergoker/CVE-2026-31431-copy-fail](https://github.com/ozergoker/CVE-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/ozergoker/CVE-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/ozergoker/CVE-2026-31431-copy-fail">
 
 ---
 ## CVE-2026-3143 ()
