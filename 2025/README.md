@@ -9544,6 +9544,7 @@
 - [pradip022/CVE-2025-21333-POC](https://github.com/pradip022/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/pradip022/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/pradip022/CVE-2025-21333-POC">
 - [rahul0xkr/Hyper-V-CVE-2025-21333-Analysis](https://github.com/rahul0xkr/Hyper-V-CVE-2025-21333-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/rahul0xkr/Hyper-V-CVE-2025-21333-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/rahul0xkr/Hyper-V-CVE-2025-21333-Analysis">
 - [rahul0xkr/Reproducing-CVE-2025-21333-](https://github.com/rahul0xkr/Reproducing-CVE-2025-21333-)	<img alt="forks" src="https://img.shields.io/github/forks/rahul0xkr/Reproducing-CVE-2025-21333-">	<img alt="stars" src="https://img.shields.io/github/stars/rahul0xkr/Reproducing-CVE-2025-21333-">
+- [nu1lptr0/CVE-2025-21333](https://github.com/nu1lptr0/CVE-2025-21333)	<img alt="forks" src="https://img.shields.io/github/forks/nu1lptr0/CVE-2025-21333">	<img alt="stars" src="https://img.shields.io/github/stars/nu1lptr0/CVE-2025-21333">
 
 ---
 ## CVE-2025-21307 ()
