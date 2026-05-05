@@ -2020,6 +2020,11 @@
 - [Al-Lord0x/CVE-2025-62641](https://github.com/Al-Lord0x/CVE-2025-62641)	<img alt="forks" src="https://img.shields.io/github/forks/Al-Lord0x/CVE-2025-62641">	<img alt="stars" src="https://img.shields.io/github/stars/Al-Lord0x/CVE-2025-62641">
 
 ---
+## CVE-2025-6264 ()
+> 
+- [Mauzy0x00/velociraptor_CVE-2025-6264_PoC](https://github.com/Mauzy0x00/velociraptor_CVE-2025-6264_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mauzy0x00/velociraptor_CVE-2025-6264_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mauzy0x00/velociraptor_CVE-2025-6264_PoC">
+
+---
 ## CVE-2025-62593 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-62593](https://github.com/B1ack4sh/Blackash-CVE-2025-62593)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-62593">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-62593">

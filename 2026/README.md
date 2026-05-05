@@ -21,6 +21,11 @@
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
 
 ---
+## CVE-2026-7482 ()
+> 
+- [0x0OZ/CVE-2026-7482-PoC](https://github.com/0x0OZ/CVE-2026-7482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x0OZ/CVE-2026-7482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x0OZ/CVE-2026-7482-PoC">
+
+---
 ## CVE-2026-7401 ()
 > 
 - [Xmyronn/CVE-2026-7401-XSS](https://github.com/Xmyronn/CVE-2026-7401-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7401-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7401-XSS">
