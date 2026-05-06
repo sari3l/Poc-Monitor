@@ -350,6 +350,7 @@
 - [bughunt4me/cpanelCVE-2026-41940](https://github.com/bughunt4me/cpanelCVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/bughunt4me/cpanelCVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/bughunt4me/cpanelCVE-2026-41940">
 - [Richflexpix/cpanel-pwn](https://github.com/Richflexpix/cpanel-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/Richflexpix/cpanel-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/Richflexpix/cpanel-pwn">
 - [Unfold-Security/CVE-2026-41940-Detection](https://github.com/Unfold-Security/CVE-2026-41940-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Unfold-Security/CVE-2026-41940-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Unfold-Security/CVE-2026-41940-Detection">
+- [Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC](https://github.com/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">
 
 ---
 ## CVE-2026-41679 ()
@@ -2712,6 +2713,7 @@
 - [xeloxa/CVE-2026-23918-Apache-H2-PoC](https://github.com/xeloxa/CVE-2026-23918-Apache-H2-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/CVE-2026-23918-Apache-H2-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/CVE-2026-23918-Apache-H2-PoC">
 - [seguridadentrerios/CVE-2026-23918](https://github.com/seguridadentrerios/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23918">
 - [hackervlogofficial/CVE-2026-23918](https://github.com/hackervlogofficial/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/hackervlogofficial/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/hackervlogofficial/CVE-2026-23918">
+- [CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC](https://github.com/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">
 
 ---
 ## CVE-2026-23885 ()
@@ -3690,6 +3692,8 @@
 - [SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC](https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
 - [CryptReaper12/CVE-2026-0073](https://github.com/CryptReaper12/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-0073">
+- [devtint/CVE-2026-0073](https://github.com/devtint/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-0073">
+- [adityatelange/poc-CVE-2026-0073](https://github.com/adityatelange/poc-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/adityatelange/poc-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/adityatelange/poc-CVE-2026-0073">
 
 ---
 ## CVE-2026-0047 ()
