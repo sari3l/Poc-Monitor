@@ -351,6 +351,7 @@
 - [Richflexpix/cpanel-pwn](https://github.com/Richflexpix/cpanel-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/Richflexpix/cpanel-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/Richflexpix/cpanel-pwn">
 - [Unfold-Security/CVE-2026-41940-Detection](https://github.com/Unfold-Security/CVE-2026-41940-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Unfold-Security/CVE-2026-41940-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Unfold-Security/CVE-2026-41940-Detection">
 - [Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC](https://github.com/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">
+- [murrez/CVE-2026-41940](https://github.com/murrez/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-41940">
 
 ---
 ## CVE-2026-41900 ()
@@ -3691,6 +3692,7 @@
 - [TailwindRG/cve-2026-0300-audit](https://github.com/TailwindRG/cve-2026-0300-audit)	<img alt="forks" src="https://img.shields.io/github/forks/TailwindRG/cve-2026-0300-audit">	<img alt="stars" src="https://img.shields.io/github/stars/TailwindRG/cve-2026-0300-audit">
 - [0xBlackash/CVE-2026-0300](https://github.com/0xBlackash/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0300">
 - [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
+- [shizuku198411/CVE-2026-0300](https://github.com/shizuku198411/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-0300">
 
 ---
 ## CVE-2026-0227 ()
