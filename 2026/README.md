@@ -1471,6 +1471,11 @@
 - [darioomatos/cve-2026-31431-copyfail](https://github.com/darioomatos/cve-2026-31431-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/darioomatos/cve-2026-31431-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/darioomatos/cve-2026-31431-copyfail">
 - [ECHO6789/CVE-2026-31431-fix](https://github.com/ECHO6789/CVE-2026-31431-fix)	<img alt="forks" src="https://img.shields.io/github/forks/ECHO6789/CVE-2026-31431-fix">	<img alt="stars" src="https://img.shields.io/github/stars/ECHO6789/CVE-2026-31431-fix">
 - [reubensammut/CVE-2026-31431-Copy-Fail](https://github.com/reubensammut/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/reubensammut/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/reubensammut/CVE-2026-31431-Copy-Fail">
+- [bigwario/copy-fail-CVE-2026-31431-C](https://github.com/bigwario/copy-fail-CVE-2026-31431-C)	<img alt="forks" src="https://img.shields.io/github/forks/bigwario/copy-fail-CVE-2026-31431-C">	<img alt="stars" src="https://img.shields.io/github/stars/bigwario/copy-fail-CVE-2026-31431-C">
+- [tangjie1/CVE-2026-31431-Check](https://github.com/tangjie1/CVE-2026-31431-Check)	<img alt="forks" src="https://img.shields.io/github/forks/tangjie1/CVE-2026-31431-Check">	<img alt="stars" src="https://img.shields.io/github/stars/tangjie1/CVE-2026-31431-Check">
+- [luoqianlin/copyfail-c](https://github.com/luoqianlin/copyfail-c)	<img alt="forks" src="https://img.shields.io/github/forks/luoqianlin/copyfail-c">	<img alt="stars" src="https://img.shields.io/github/stars/luoqianlin/copyfail-c">
+- [zenzue/CVE-2026-31431-Checker-Mitigator](https://github.com/zenzue/CVE-2026-31431-Checker-Mitigator)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2026-31431-Checker-Mitigator">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2026-31431-Checker-Mitigator">
+- [voxcia-io/copy-fail](https://github.com/voxcia-io/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/voxcia-io/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/voxcia-io/copy-fail">
 
 ---
 ## CVE-2026-3143 ()
