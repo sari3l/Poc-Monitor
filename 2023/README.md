@@ -7635,6 +7635,8 @@ For additional details, please see full advisory.
 - [kh4sh3i/CVE-2023-22527](https://github.com/kh4sh3i/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2023-22527">
 - [AxthonyV/CVE-2023-22527](https://github.com/AxthonyV/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2023-22527">
 - [thompson005/CVE-2023-22527](https://github.com/thompson005/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/thompson005/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/thompson005/CVE-2023-22527">
+- [ycseo-git/CVE-2023-22527](https://github.com/ycseo-git/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/ycseo-git/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/ycseo-git/CVE-2023-22527">
+- [mylo-2001/AtlassianPwn](https://github.com/mylo-2001/AtlassianPwn)	<img alt="forks" src="https://img.shields.io/github/forks/mylo-2001/AtlassianPwn">	<img alt="stars" src="https://img.shields.io/github/stars/mylo-2001/AtlassianPwn">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
