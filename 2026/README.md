@@ -529,6 +529,7 @@
 ## CVE-2026-39363 ()
 > 
 - [Firebasky/CVE-2026-39363](https://github.com/Firebasky/CVE-2026-39363)	<img alt="forks" src="https://img.shields.io/github/forks/Firebasky/CVE-2026-39363">	<img alt="stars" src="https://img.shields.io/github/stars/Firebasky/CVE-2026-39363">
+- [f4s1on/CVE-2026-39363](https://github.com/f4s1on/CVE-2026-39363)	<img alt="forks" src="https://img.shields.io/github/forks/f4s1on/CVE-2026-39363">	<img alt="stars" src="https://img.shields.io/github/stars/f4s1on/CVE-2026-39363">
 
 ---
 ## CVE-2026-39324 ()
@@ -1456,6 +1457,8 @@
 - [mrmtwoj/ubuntu-cve-2026-31431-mitigation](https://github.com/mrmtwoj/ubuntu-cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/ubuntu-cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/ubuntu-cve-2026-31431-mitigation">
 - [devtint/CVE-2026-31431](https://github.com/devtint/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-31431">
 - [RazvanDuda/GhostShell](https://github.com/RazvanDuda/GhostShell)	<img alt="forks" src="https://img.shields.io/github/forks/RazvanDuda/GhostShell">	<img alt="stars" src="https://img.shields.io/github/stars/RazvanDuda/GhostShell">
+- [OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10](https://github.com/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10)	<img alt="forks" src="https://img.shields.io/github/forks/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10">	<img alt="stars" src="https://img.shields.io/github/stars/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10">
+- [darioomatos/cve-2026-31431-copyfail](https://github.com/darioomatos/cve-2026-31431-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/darioomatos/cve-2026-31431-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/darioomatos/cve-2026-31431-copyfail">
 
 ---
 ## CVE-2026-3143 ()
@@ -2673,6 +2676,7 @@
 - [sibersan/cve-2026-23918](https://github.com/sibersan/cve-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/cve-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/cve-2026-23918">
 - [rshosting/Apache-CVE-2026-23918-fix](https://github.com/rshosting/Apache-CVE-2026-23918-fix)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/Apache-CVE-2026-23918-fix">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/Apache-CVE-2026-23918-fix">
 - [aa022/CVE-2026-23918-Passive-Audit](https://github.com/aa022/CVE-2026-23918-Passive-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/aa022/CVE-2026-23918-Passive-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/aa022/CVE-2026-23918-Passive-Audit">
+- [rhasan-com/CVE-2026-23918](https://github.com/rhasan-com/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/rhasan-com/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/rhasan-com/CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
