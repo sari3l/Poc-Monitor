@@ -9415,6 +9415,13 @@
 - [w1n-gl0ry/CVE-2021-21225](https://github.com/w1n-gl0ry/CVE-2021-21225)	<img alt="forks" src="https://img.shields.io/github/forks/w1n-gl0ry/CVE-2021-21225">	<img alt="stars" src="https://img.shields.io/github/stars/w1n-gl0ry/CVE-2021-21225">
 
 ---
+## CVE-2021-21220 ()
+> 
+- [borahll/CVE-2021-21220](https://github.com/borahll/CVE-2021-21220)	<img alt="forks" src="https://img.shields.io/github/forks/borahll/CVE-2021-21220">	<img alt="stars" src="https://img.shields.io/github/stars/borahll/CVE-2021-21220">
+- [JacobTaylor3/CVE-2021-21220](https://github.com/JacobTaylor3/CVE-2021-21220)	<img alt="forks" src="https://img.shields.io/github/forks/JacobTaylor3/CVE-2021-21220">	<img alt="stars" src="https://img.shields.io/github/stars/JacobTaylor3/CVE-2021-21220">
+- [AmesianX/CVE-2021-21220](https://github.com/AmesianX/CVE-2021-21220)	<img alt="forks" src="https://img.shields.io/github/forks/AmesianX/CVE-2021-21220">	<img alt="stars" src="https://img.shields.io/github/stars/AmesianX/CVE-2021-21220">
+
+---
 ## CVE-2021-21200 (2023-01-02T23:15:00)
 > Out of bounds read in WebUI Settings in Google Chrome prior to 89.0.4389.72 allowed a remote attacker to perform an out of bounds memory read via a crafted HTML page. (Chrome security severity: Low)
 - [Live-Hack-CVE/CVE-2021-21200](https://github.com/Live-Hack-CVE/CVE-2021-21200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21200">
