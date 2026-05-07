@@ -770,6 +770,11 @@
 - [killercd/CVE-2026-35414](https://github.com/killercd/CVE-2026-35414)	<img alt="forks" src="https://img.shields.io/github/forks/killercd/CVE-2026-35414">	<img alt="stars" src="https://img.shields.io/github/stars/killercd/CVE-2026-35414">
 
 ---
+## CVE-2026-35250 ()
+> 
+- [xooxo/CVE-2026-35250](https://github.com/xooxo/CVE-2026-35250)	<img alt="forks" src="https://img.shields.io/github/forks/xooxo/CVE-2026-35250">	<img alt="stars" src="https://img.shields.io/github/stars/xooxo/CVE-2026-35250">
+
+---
 ## CVE-2026-3516 ()
 > 
 - [d3kc4rt1/CVE-2026-3516](https://github.com/d3kc4rt1/CVE-2026-3516)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2026-3516">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2026-3516">

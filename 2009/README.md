@@ -16,6 +16,7 @@
 ## CVE-2009-3999 ()
 > 
 - [afifudinmtop/CVE-2009-3999](https://github.com/afifudinmtop/CVE-2009-3999)	<img alt="forks" src="https://img.shields.io/github/forks/afifudinmtop/CVE-2009-3999">	<img alt="stars" src="https://img.shields.io/github/stars/afifudinmtop/CVE-2009-3999">
+- [AC8999/CVE-2009-3999-HP-Power-Manager-4.2-Build-7-Buffer-Overflow](https://github.com/AC8999/CVE-2009-3999-HP-Power-Manager-4.2-Build-7-Buffer-Overflow)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2009-3999-HP-Power-Manager-4.2-Build-7-Buffer-Overflow">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2009-3999-HP-Power-Manager-4.2-Build-7-Buffer-Overflow">
 
 ---
 ## CVE-2009-3895 ()
