@@ -1498,6 +1498,10 @@
 - [philfry/cve-2026-31431-ftrace](https://github.com/philfry/cve-2026-31431-ftrace)	<img alt="forks" src="https://img.shields.io/github/forks/philfry/cve-2026-31431-ftrace">	<img alt="stars" src="https://img.shields.io/github/stars/philfry/cve-2026-31431-ftrace">
 - [StarxSky/CVE-2026-31431](https://github.com/StarxSky/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/StarxSky/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/StarxSky/CVE-2026-31431">
 - [pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail](https://github.com/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">
+- [gagaltotal/cve-2026-31431-copy-fail](https://github.com/gagaltotal/cve-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/cve-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/cve-2026-31431-copy-fail">
+- [ikow/CVE-2026-31431-live-code-corruption](https://github.com/ikow/CVE-2026-31431-live-code-corruption)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/CVE-2026-31431-live-code-corruption">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/CVE-2026-31431-live-code-corruption">
+- [gubaiovo/CVE-2026-31431](https://github.com/gubaiovo/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gubaiovo/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gubaiovo/CVE-2026-31431">
+- [sgkdev/page_inject](https://github.com/sgkdev/page_inject)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/page_inject">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/page_inject">
 
 ---
 ## CVE-2026-3143 ()
