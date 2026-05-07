@@ -218,6 +218,11 @@
 - [PegasusMetaSec/PEGASUS-CVE-2026-4484](https://github.com/PegasusMetaSec/PEGASUS-CVE-2026-4484)	<img alt="forks" src="https://img.shields.io/github/forks/PegasusMetaSec/PEGASUS-CVE-2026-4484">	<img alt="stars" src="https://img.shields.io/github/stars/PegasusMetaSec/PEGASUS-CVE-2026-4484">
 
 ---
+## CVE-2026-44590 ()
+> 
+- [Astaruf/CVE-2026-44590](https://github.com/Astaruf/CVE-2026-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-44590">
+
+---
 ## CVE-2026-4447 ()
 > 
 - [blackhatlegend/CVE-2026-4447](https://github.com/blackhatlegend/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-4447">
@@ -626,6 +631,16 @@
 - [dinosn/CVE-2026-3844](https://github.com/dinosn/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-3844">
 - [halilkirazkaya/CVE-2026-3844](https://github.com/halilkirazkaya/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/halilkirazkaya/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/halilkirazkaya/CVE-2026-3844">
 - [sahmsec/CVE-2026-3844](https://github.com/sahmsec/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-3844">
+
+---
+## CVE-2026-38361 ()
+> 
+- [a1ohadance/CVE-2026-38361](https://github.com/a1ohadance/CVE-2026-38361)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38361">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38361">
+
+---
+## CVE-2026-38360 ()
+> 
+- [a1ohadance/CVE-2026-38360](https://github.com/a1ohadance/CVE-2026-38360)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38360">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38360">
 
 ---
 ## CVE-2026-3805 ()
@@ -1533,6 +1548,8 @@
 - [tang-yikai/copy-fail-mitigation-with-bpftrace](https://github.com/tang-yikai/copy-fail-mitigation-with-bpftrace)	<img alt="forks" src="https://img.shields.io/github/forks/tang-yikai/copy-fail-mitigation-with-bpftrace">	<img alt="stars" src="https://img.shields.io/github/stars/tang-yikai/copy-fail-mitigation-with-bpftrace">
 - [Vatson112/deny-af-alg-bpf](https://github.com/Vatson112/deny-af-alg-bpf)	<img alt="forks" src="https://img.shields.io/github/forks/Vatson112/deny-af-alg-bpf">	<img alt="stars" src="https://img.shields.io/github/stars/Vatson112/deny-af-alg-bpf">
 - [kw-soft/copyfail](https://github.com/kw-soft/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/kw-soft/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/kw-soft/copyfail">
+- [julichaan/CVE-2026-31431-python-copyfail-POC](https://github.com/julichaan/CVE-2026-31431-python-copyfail-POC)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2026-31431-python-copyfail-POC">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2026-31431-python-copyfail-POC">
+- [ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143)	<img alt="forks" src="https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143">	<img alt="stars" src="https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143">
 
 ---
 ## CVE-2026-3143 ()
@@ -1567,6 +1584,7 @@
 - [leelong2020/cve-2026-31431](https://github.com/leelong2020/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/leelong2020/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/leelong2020/cve-2026-31431">
 - [scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431](https://github.com/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431">
 - [wesmar/CVE-2026-31431](https://github.com/wesmar/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/wesmar/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/wesmar/CVE-2026-31431">
+- [ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143)	<img alt="forks" src="https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143">	<img alt="stars" src="https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143">
 
 ---
 ## CVE-2026-31413 ()
