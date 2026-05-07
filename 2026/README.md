@@ -1530,6 +1530,9 @@
 - [cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64](https://github.com/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">
 - [pvpaulo01/cve-2026-31431](https://github.com/pvpaulo01/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pvpaulo01/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pvpaulo01/cve-2026-31431">
 - [abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix](https://github.com/abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/abdelkabirouadoukou/CVE-2026-31431-Analysis-and-Fix">
+- [tang-yikai/copy-fail-mitigation-with-bpftrace](https://github.com/tang-yikai/copy-fail-mitigation-with-bpftrace)	<img alt="forks" src="https://img.shields.io/github/forks/tang-yikai/copy-fail-mitigation-with-bpftrace">	<img alt="stars" src="https://img.shields.io/github/stars/tang-yikai/copy-fail-mitigation-with-bpftrace">
+- [Vatson112/deny-af-alg-bpf](https://github.com/Vatson112/deny-af-alg-bpf)	<img alt="forks" src="https://img.shields.io/github/forks/Vatson112/deny-af-alg-bpf">	<img alt="stars" src="https://img.shields.io/github/stars/Vatson112/deny-af-alg-bpf">
+- [kw-soft/copyfail](https://github.com/kw-soft/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/kw-soft/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/kw-soft/copyfail">
 
 ---
 ## CVE-2026-3143 ()
