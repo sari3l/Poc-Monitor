@@ -1502,6 +1502,7 @@
 - [ikow/CVE-2026-31431-live-code-corruption](https://github.com/ikow/CVE-2026-31431-live-code-corruption)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/CVE-2026-31431-live-code-corruption">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/CVE-2026-31431-live-code-corruption">
 - [gubaiovo/CVE-2026-31431](https://github.com/gubaiovo/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gubaiovo/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gubaiovo/CVE-2026-31431">
 - [sgkdev/page_inject](https://github.com/sgkdev/page_inject)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/page_inject">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/page_inject">
+- [Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C](https://github.com/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">
 
 ---
 ## CVE-2026-3143 ()
@@ -2733,6 +2734,7 @@
 - [seguridadentrerios/CVE-2026-23918](https://github.com/seguridadentrerios/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23918">
 - [hackervlogofficial/CVE-2026-23918](https://github.com/hackervlogofficial/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/hackervlogofficial/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/hackervlogofficial/CVE-2026-23918">
 - [CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC](https://github.com/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">
+- [alt3kx/CVE-2026-23918](https://github.com/alt3kx/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
