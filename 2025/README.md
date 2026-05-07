@@ -10863,6 +10863,7 @@
 - [INTELEON404/CVE-2025-0133](https://github.com/INTELEON404/CVE-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/INTELEON404/CVE-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/INTELEON404/CVE-2025-0133">
 - [shawarkhanethicalhacker/CVE-2025-0133-exploit](https://github.com/shawarkhanethicalhacker/CVE-2025-0133-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shawarkhanethicalhacker/CVE-2025-0133-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shawarkhanethicalhacker/CVE-2025-0133-exploit">
 - [adhamelhansye/CVE-2025-0133](https://github.com/adhamelhansye/CVE-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/adhamelhansye/CVE-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/adhamelhansye/CVE-2025-0133">
+- [cruxN3T/CVE-2025-0133](https://github.com/cruxN3T/CVE-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/cruxN3T/CVE-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/cruxN3T/CVE-2025-0133">
 
 ---
 ## CVE-2025-0108 ()

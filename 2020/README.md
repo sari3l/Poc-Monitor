@@ -1551,6 +1551,7 @@
 - [adarshvs/CVE-2020-3580](https://github.com/adarshvs/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/adarshvs/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/adarshvs/CVE-2020-3580">
 - [Hudi233/CVE-2020-3580](https://github.com/Hudi233/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/Hudi233/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/Hudi233/CVE-2020-3580">
 - [imhunterand/CVE-2020-3580](https://github.com/imhunterand/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2020-3580">
+- [brittle-finance685/XSS-HUNTER](https://github.com/brittle-finance685/XSS-HUNTER)	<img alt="forks" src="https://img.shields.io/github/forks/brittle-finance685/XSS-HUNTER">	<img alt="stars" src="https://img.shields.io/github/stars/brittle-finance685/XSS-HUNTER">
 
 ---
 ## CVE-2020-35753 (2021-01-26T18:15:00)
