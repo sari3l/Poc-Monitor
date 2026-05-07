@@ -1510,6 +1510,7 @@
 - [Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C](https://github.com/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">
 - [361way/CVE-2026-31431](https://github.com/361way/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/361way/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/361way/CVE-2026-31431">
 - [cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64](https://github.com/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">
+- [pvpaulo01/cve-2026-31431](https://github.com/pvpaulo01/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pvpaulo01/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pvpaulo01/cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
