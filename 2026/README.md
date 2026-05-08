@@ -123,6 +123,11 @@
 - [tibrn/CVE-2026-5724](https://github.com/tibrn/CVE-2026-5724)	<img alt="forks" src="https://img.shields.io/github/forks/tibrn/CVE-2026-5724">	<img alt="stars" src="https://img.shields.io/github/stars/tibrn/CVE-2026-5724">
 
 ---
+## CVE-2026-5718 ()
+> 
+- [kyukazamiqq/cve-2026-5718](https://github.com/kyukazamiqq/cve-2026-5718)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/cve-2026-5718">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/cve-2026-5718">
+
+---
 ## CVE-2026-5615 ()
 > 
 - [sahmsec/CVE-2026-5615](https://github.com/sahmsec/CVE-2026-5615)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-5615">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-5615">
@@ -1143,6 +1148,11 @@
 - [SnailSploit/CVE-2026-32809](https://github.com/SnailSploit/CVE-2026-32809)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32809">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32809">
 
 ---
+## CVE-2026-32794 ()
+> 
+- [SnailSploit/CVE-2026-32794](https://github.com/SnailSploit/CVE-2026-32794)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32794">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32794">
+
+---
 ## CVE-2026-32746 ()
 > 
 - [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
@@ -1588,6 +1598,7 @@
 - [OpenPixelSystems/c-copy-fail](https://github.com/OpenPixelSystems/c-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/OpenPixelSystems/c-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/OpenPixelSystems/c-copy-fail">
 - [guiimoraes/CVE-2026-31431](https://github.com/guiimoraes/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/CVE-2026-31431">
 - [ROSNLR5/MitigationToolkit-ROSN-LR5-Full](https://github.com/ROSNLR5/MitigationToolkit-ROSN-LR5-Full)	<img alt="forks" src="https://img.shields.io/github/forks/ROSNLR5/MitigationToolkit-ROSN-LR5-Full">	<img alt="stars" src="https://img.shields.io/github/stars/ROSNLR5/MitigationToolkit-ROSN-LR5-Full">
+- [hori0729/CVE-2026-31431-Verificador-Exploit](https://github.com/hori0729/CVE-2026-31431-Verificador-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hori0729/CVE-2026-31431-Verificador-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hori0729/CVE-2026-31431-Verificador-Exploit">
 
 ---
 ## CVE-2026-3143 ()
