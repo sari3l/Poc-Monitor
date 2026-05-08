@@ -1561,6 +1561,7 @@
 - [kw-soft/copyfail](https://github.com/kw-soft/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/kw-soft/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/kw-soft/copyfail">
 - [julichaan/CVE-2026-31431-python-copyfail-POC](https://github.com/julichaan/CVE-2026-31431-python-copyfail-POC)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2026-31431-python-copyfail-POC">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2026-31431-python-copyfail-POC">
 - [ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143)	<img alt="forks" src="https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143">	<img alt="stars" src="https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143">
+- [Morton-Li/copy-fail-CVE-2026-31431](https://github.com/Morton-Li/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Morton-Li/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Morton-Li/copy-fail-CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -3185,6 +3186,7 @@
 - [Yati2/Ni8mare-CVE-2026-21858](https://github.com/Yati2/Ni8mare-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Yati2/Ni8mare-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Yati2/Ni8mare-CVE-2026-21858">
 - [kaleth4/CVE-2026-21858](https://github.com/kaleth4/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-21858">
 - [masterwok/PoC-CVE-2026-21858](https://github.com/masterwok/PoC-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/PoC-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/PoC-CVE-2026-21858">
+- [Bannt08/Research-CVE-2026-21858](https://github.com/Bannt08/Research-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Bannt08/Research-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Bannt08/Research-CVE-2026-21858">
 
 ---
 ## CVE-2026-21852 ()
@@ -3680,6 +3682,11 @@
 ## CVE-2026-1056 ()
 > 
 - [ch4r0nn/CVE-2026-1056-POC](https://github.com/ch4r0nn/CVE-2026-1056-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2026-1056-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2026-1056-POC">
+
+---
+## CVE-2026-1 ()
+> 
+- [Pluto2362/CVE-2026-1](https://github.com/Pluto2362/CVE-2026-1)	<img alt="forks" src="https://img.shields.io/github/forks/Pluto2362/CVE-2026-1">	<img alt="stars" src="https://img.shields.io/github/stars/Pluto2362/CVE-2026-1">
 
 ---
 ## CVE-2026-0920 ()
