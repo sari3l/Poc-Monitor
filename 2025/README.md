@@ -1674,6 +1674,11 @@
 - [dantsco/CVE-2025-64720-PoC](https://github.com/dantsco/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dantsco/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dantsco/CVE-2025-64720-PoC">
 
 ---
+## CVE-2025-64714 ()
+> 
+- [Medaz-Sploit/CVE-2025-64714-privatebin-2.0.2-PoC](https://github.com/Medaz-Sploit/CVE-2025-64714-privatebin-2.0.2-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Medaz-Sploit/CVE-2025-64714-privatebin-2.0.2-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Medaz-Sploit/CVE-2025-64714-privatebin-2.0.2-PoC">
+
+---
 ## CVE-2025-64708 ()
 > 
 - [DylanDavis1/CVE-2025-64708](https://github.com/DylanDavis1/CVE-2025-64708)	<img alt="forks" src="https://img.shields.io/github/forks/DylanDavis1/CVE-2025-64708">	<img alt="stars" src="https://img.shields.io/github/stars/DylanDavis1/CVE-2025-64708">

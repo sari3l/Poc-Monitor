@@ -218,6 +218,11 @@
 - [PegasusMetaSec/PEGASUS-CVE-2026-4484](https://github.com/PegasusMetaSec/PEGASUS-CVE-2026-4484)	<img alt="forks" src="https://img.shields.io/github/forks/PegasusMetaSec/PEGASUS-CVE-2026-4484">	<img alt="stars" src="https://img.shields.io/github/stars/PegasusMetaSec/PEGASUS-CVE-2026-4484">
 
 ---
+## CVE-2026-44648 ()
+> 
+- [zzzm0919/CVE-2026-44648](https://github.com/zzzm0919/CVE-2026-44648)	<img alt="forks" src="https://img.shields.io/github/forks/zzzm0919/CVE-2026-44648">	<img alt="stars" src="https://img.shields.io/github/stars/zzzm0919/CVE-2026-44648">
+
+---
 ## CVE-2026-44590 ()
 > 
 - [Astaruf/CVE-2026-44590](https://github.com/Astaruf/CVE-2026-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-44590">
@@ -2402,6 +2407,11 @@
 - [lagathos/CVE-2026-25594](https://github.com/lagathos/CVE-2026-25594)	<img alt="forks" src="https://img.shields.io/github/forks/lagathos/CVE-2026-25594">	<img alt="stars" src="https://img.shields.io/github/stars/lagathos/CVE-2026-25594">
 
 ---
+## CVE-2026-25589 ()
+> 
+- [mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS](https://github.com/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS">
+
+---
 ## CVE-2026-25548 ()
 > 
 - [lagathos/CVE-2026-25548](https://github.com/lagathos/CVE-2026-25548)	<img alt="forks" src="https://img.shields.io/github/forks/lagathos/CVE-2026-25548">	<img alt="stars" src="https://img.shields.io/github/stars/lagathos/CVE-2026-25548">
@@ -2815,6 +2825,7 @@
 - [hackervlogofficial/CVE-2026-23918](https://github.com/hackervlogofficial/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/hackervlogofficial/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/hackervlogofficial/CVE-2026-23918">
 - [CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC](https://github.com/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CYFARE/CVE-2026-23918-Apache-HTTP-Server-DoubleFree-PoC">
 - [alt3kx/CVE-2026-23918](https://github.com/alt3kx/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-23918">
+- [insomnisec/Detections-CVE-2026-23918](https://github.com/insomnisec/Detections-CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/insomnisec/Detections-CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/insomnisec/Detections-CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
