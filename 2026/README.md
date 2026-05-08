@@ -706,6 +706,11 @@
 - [menevarad007/CVE-2026-37748](https://github.com/menevarad007/CVE-2026-37748)	<img alt="forks" src="https://img.shields.io/github/forks/menevarad007/CVE-2026-37748">	<img alt="stars" src="https://img.shields.io/github/stars/menevarad007/CVE-2026-37748">
 
 ---
+## CVE-2026-37637 ()
+> 
+- [SLO-CYBER-SEC/CVE-2026-37637](https://github.com/SLO-CYBER-SEC/CVE-2026-37637)	<img alt="forks" src="https://img.shields.io/github/forks/SLO-CYBER-SEC/CVE-2026-37637">	<img alt="stars" src="https://img.shields.io/github/stars/SLO-CYBER-SEC/CVE-2026-37637">
+
+---
 ## CVE-2026-37272 ()
 > 
 - [vytlanikhil/CVE-2026-37272](https://github.com/vytlanikhil/CVE-2026-37272)	<img alt="forks" src="https://img.shields.io/github/forks/vytlanikhil/CVE-2026-37272">	<img alt="stars" src="https://img.shields.io/github/stars/vytlanikhil/CVE-2026-37272">
