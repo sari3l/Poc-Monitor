@@ -379,6 +379,7 @@
 - [Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC](https://github.com/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">
 - [murrez/CVE-2026-41940](https://github.com/murrez/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-41940">
 - [thekawix/CVE-2026-41940](https://github.com/thekawix/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/thekawix/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/thekawix/CVE-2026-41940">
+- [branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2](https://github.com/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2)	<img alt="forks" src="https://img.shields.io/github/forks/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">	<img alt="stars" src="https://img.shields.io/github/stars/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">
 
 ---
 ## CVE-2026-41900 ()
@@ -641,6 +642,7 @@
 - [dinosn/CVE-2026-3844](https://github.com/dinosn/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-3844">
 - [halilkirazkaya/CVE-2026-3844](https://github.com/halilkirazkaya/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/halilkirazkaya/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/halilkirazkaya/CVE-2026-3844">
 - [sahmsec/CVE-2026-3844](https://github.com/sahmsec/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-3844">
+- [rootdirective-sec/CVE-2026-3844-Lab](https://github.com/rootdirective-sec/CVE-2026-3844-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-3844-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-3844-Lab">
 
 ---
 ## CVE-2026-38361 ()
@@ -1573,6 +1575,13 @@
 - [ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143)	<img alt="forks" src="https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143">	<img alt="stars" src="https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143">
 - [Morton-Li/copy-fail-CVE-2026-31431](https://github.com/Morton-Li/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Morton-Li/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Morton-Li/copy-fail-CVE-2026-31431">
 - [hyeonjunjo24/CVE-2026-31431-_Copy-Fail](https://github.com/hyeonjunjo24/CVE-2026-31431-_Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/hyeonjunjo24/CVE-2026-31431-_Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/hyeonjunjo24/CVE-2026-31431-_Copy-Fail">
+- [KaraZajac/DIRTYFAIL](https://github.com/KaraZajac/DIRTYFAIL)	<img alt="forks" src="https://img.shields.io/github/forks/KaraZajac/DIRTYFAIL">	<img alt="stars" src="https://img.shields.io/github/stars/KaraZajac/DIRTYFAIL">
+- [infiniroot/ansible-mitigate-copyfail-dirtyfrag](https://github.com/infiniroot/ansible-mitigate-copyfail-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/ansible-mitigate-copyfail-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/ansible-mitigate-copyfail-dirtyfrag">
+- [dixyes/dirtypatch](https://github.com/dixyes/dirtypatch)	<img alt="forks" src="https://img.shields.io/github/forks/dixyes/dirtypatch">	<img alt="stars" src="https://img.shields.io/github/stars/dixyes/dirtypatch">
+- [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [p401a-ops/Copy-Fail](https://github.com/p401a-ops/Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/p401a-ops/Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/p401a-ops/Copy-Fail">
+- [OpenPixelSystems/c-copy-fail](https://github.com/OpenPixelSystems/c-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/OpenPixelSystems/c-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/OpenPixelSystems/c-copy-fail">
+- [guiimoraes/CVE-2026-31431](https://github.com/guiimoraes/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
