@@ -4398,6 +4398,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [rahisec/CVE-2024-4040](https://github.com/rahisec/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/rahisec/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/rahisec/CVE-2024-4040">
 - [ill-deed/CrushFTP-CVE-2024-4040-illdeed](https://github.com/ill-deed/CrushFTP-CVE-2024-4040-illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/CrushFTP-CVE-2024-4040-illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/CrushFTP-CVE-2024-4040-illdeed">
 - [juanorts/CrushFTP10-Docker-CVE-2024-4040](https://github.com/juanorts/CrushFTP10-Docker-CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/juanorts/CrushFTP10-Docker-CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/juanorts/CrushFTP10-Docker-CVE-2024-4040">
+- [Sidjaz/CrushFTP-CVE-2024-4040-Proof-of-Concept](https://github.com/Sidjaz/CrushFTP-CVE-2024-4040-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/Sidjaz/CrushFTP-CVE-2024-4040-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/Sidjaz/CrushFTP-CVE-2024-4040-Proof-of-Concept">
 
 ---
 ## CVE-2024-40348 (2024-07-20T04:15:00)
