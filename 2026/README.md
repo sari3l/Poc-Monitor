@@ -267,6 +267,15 @@
 > 
 - [0xBlackash/CVE-2026-43284](https://github.com/0xBlackash/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43284">
 - [attaattaatta/CVE-2026-43284](https://github.com/attaattaatta/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43284">
+- [lr1458644438/Dirty-Frag-Analysis](https://github.com/lr1458644438/Dirty-Frag-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/lr1458644438/Dirty-Frag-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/lr1458644438/Dirty-Frag-Analysis">
+- [mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4](https://github.com/mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4)	<img alt="forks" src="https://img.shields.io/github/forks/mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4">	<img alt="stars" src="https://img.shields.io/github/stars/mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4">
+- [suominen/CVE-2026-43284](https://github.com/suominen/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-43284">
+- [6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284](https://github.com/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284">
+- [KaraZajac/DIRTYFAIL](https://github.com/KaraZajac/DIRTYFAIL)	<img alt="forks" src="https://img.shields.io/github/forks/KaraZajac/DIRTYFAIL">	<img alt="stars" src="https://img.shields.io/github/stars/KaraZajac/DIRTYFAIL">
+- [infiniroot/ansible-mitigate-copyfail-dirtyfrag](https://github.com/infiniroot/ansible-mitigate-copyfail-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/ansible-mitigate-copyfail-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/ansible-mitigate-copyfail-dirtyfrag">
+- [dixyes/dirtypatch](https://github.com/dixyes/dirtypatch)	<img alt="forks" src="https://img.shields.io/github/forks/dixyes/dirtypatch">	<img alt="stars" src="https://img.shields.io/github/stars/dixyes/dirtypatch">
+- [Percivalll/Dirty-Frag-Kubernetes-PoC](https://github.com/Percivalll/Dirty-Frag-Kubernetes-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Percivalll/Dirty-Frag-Kubernetes-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Percivalll/Dirty-Frag-Kubernetes-PoC">
+- [scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284](https://github.com/scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284">
 
 ---
 ## CVE-2026-42940 ()
