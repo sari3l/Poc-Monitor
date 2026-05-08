@@ -782,6 +782,11 @@
 - [killercd/CVE-2026-35414](https://github.com/killercd/CVE-2026-35414)	<img alt="forks" src="https://img.shields.io/github/forks/killercd/CVE-2026-35414">	<img alt="stars" src="https://img.shields.io/github/stars/killercd/CVE-2026-35414">
 
 ---
+## CVE-2026-35397 ()
+> 
+- [HiteshGorana/susvibes-jupyter-server-cve-2026-35397](https://github.com/HiteshGorana/susvibes-jupyter-server-cve-2026-35397)	<img alt="forks" src="https://img.shields.io/github/forks/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">	<img alt="stars" src="https://img.shields.io/github/stars/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">
+
+---
 ## CVE-2026-35250 ()
 > 
 - [xooxo/CVE-2026-35250](https://github.com/xooxo/CVE-2026-35250)	<img alt="forks" src="https://img.shields.io/github/forks/xooxo/CVE-2026-35250">	<img alt="stars" src="https://img.shields.io/github/stars/xooxo/CVE-2026-35250">
@@ -1582,6 +1587,7 @@
 - [p401a-ops/Copy-Fail](https://github.com/p401a-ops/Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/p401a-ops/Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/p401a-ops/Copy-Fail">
 - [OpenPixelSystems/c-copy-fail](https://github.com/OpenPixelSystems/c-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/OpenPixelSystems/c-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/OpenPixelSystems/c-copy-fail">
 - [guiimoraes/CVE-2026-31431](https://github.com/guiimoraes/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/CVE-2026-31431">
+- [ROSNLR5/MitigationToolkit-ROSN-LR5-Full](https://github.com/ROSNLR5/MitigationToolkit-ROSN-LR5-Full)	<img alt="forks" src="https://img.shields.io/github/forks/ROSNLR5/MitigationToolkit-ROSN-LR5-Full">	<img alt="stars" src="https://img.shields.io/github/stars/ROSNLR5/MitigationToolkit-ROSN-LR5-Full">
 
 ---
 ## CVE-2026-3143 ()
