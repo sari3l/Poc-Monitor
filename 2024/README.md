@@ -5900,6 +5900,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-33352 ()
 > 
 - [mmiszczyk/CVE-2024-33352](https://github.com/mmiszczyk/CVE-2024-33352)	<img alt="forks" src="https://img.shields.io/github/forks/mmiszczyk/CVE-2024-33352">	<img alt="stars" src="https://img.shields.io/github/stars/mmiszczyk/CVE-2024-33352">
+- [ddanielx86/CVE-2024-33352](https://github.com/ddanielx86/CVE-2024-33352)	<img alt="forks" src="https://img.shields.io/github/forks/ddanielx86/CVE-2024-33352">	<img alt="stars" src="https://img.shields.io/github/stars/ddanielx86/CVE-2024-33352">
 
 ---
 ## CVE-2024-33333 ()
