@@ -314,6 +314,7 @@
 ## CVE-2019-7711 ()
 > 
 - [mbanyamer/RTOS-F-16-Exploit---CVE-2019-7711](https://github.com/mbanyamer/RTOS-F-16-Exploit---CVE-2019-7711)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/RTOS-F-16-Exploit---CVE-2019-7711">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/RTOS-F-16-Exploit---CVE-2019-7711">
+- [kaleth4/CVE-2019-7711](https://github.com/kaleth4/CVE-2019-7711)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2019-7711">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2019-7711">
 
 ---
 ## CVE-2019-7672 (2019-06-05T19:29:00)
