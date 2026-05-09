@@ -9941,6 +9941,7 @@
 - [haxorsecv1-netizen/CVE-2025-15030](https://github.com/haxorsecv1-netizen/CVE-2025-15030)	<img alt="forks" src="https://img.shields.io/github/forks/haxorsecv1-netizen/CVE-2025-15030">	<img alt="stars" src="https://img.shields.io/github/stars/haxorsecv1-netizen/CVE-2025-15030">
 - [BastianXploited/CVE-2025-15030](https://github.com/BastianXploited/CVE-2025-15030)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2025-15030">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2025-15030">
 - [Nxploited/CVE-2025-15030](https://github.com/Nxploited/CVE-2025-15030)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-15030">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-15030">
+- [BastianXploited/CVE-2025-15030](https://github.com/BastianXploited/CVE-2025-15030)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2025-15030">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2025-15030">
 
 ---
 ## CVE-2025-14998 ()
