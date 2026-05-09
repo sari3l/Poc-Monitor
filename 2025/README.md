@@ -4179,6 +4179,7 @@
 - [shibaaa204/React2Shell](https://github.com/shibaaa204/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/React2Shell">
 - [Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process](https://github.com/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">
 - [Theori-lO/reactguard](https://github.com/Theori-lO/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/reactguard">
+- [fevra-dev/GitExpose](https://github.com/fevra-dev/GitExpose)	<img alt="forks" src="https://img.shields.io/github/forks/fevra-dev/GitExpose">	<img alt="stars" src="https://img.shields.io/github/stars/fevra-dev/GitExpose">
 
 ---
 ## CVE-2025-55130 ()
