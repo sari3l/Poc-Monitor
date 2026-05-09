@@ -412,6 +412,7 @@
 - [thekawix/CVE-2026-41940](https://github.com/thekawix/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/thekawix/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/thekawix/CVE-2026-41940">
 - [branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2](https://github.com/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2)	<img alt="forks" src="https://img.shields.io/github/forks/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">	<img alt="stars" src="https://img.shields.io/github/stars/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">
 - [acuciureanu/cpanel2shell-honeypot](https://github.com/acuciureanu/cpanel2shell-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/acuciureanu/cpanel2shell-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/acuciureanu/cpanel2shell-honeypot">
+- [SreejaPuthan/cpanel-control-plane-exposure-check](https://github.com/SreejaPuthan/cpanel-control-plane-exposure-check)	<img alt="forks" src="https://img.shields.io/github/forks/SreejaPuthan/cpanel-control-plane-exposure-check">	<img alt="stars" src="https://img.shields.io/github/stars/SreejaPuthan/cpanel-control-plane-exposure-check">
 
 ---
 ## CVE-2026-41900 ()
@@ -1648,6 +1649,7 @@
 - [Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe](https://github.com/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe">
 - [Helios973/CVE-2026-31431_exp.c](https://github.com/Helios973/CVE-2026-31431_exp.c)	<img alt="forks" src="https://img.shields.io/github/forks/Helios973/CVE-2026-31431_exp.c">	<img alt="stars" src="https://img.shields.io/github/stars/Helios973/CVE-2026-31431_exp.c">
 - [haydenjames/CVE-2026-31431-check](https://github.com/haydenjames/CVE-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/CVE-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/CVE-2026-31431-check">
+- [Aurillium/RootRemover](https://github.com/Aurillium/RootRemover)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/RootRemover">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/RootRemover">
 
 ---
 ## CVE-2026-3143 ()

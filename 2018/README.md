@@ -2053,6 +2053,11 @@
 - [MrTaherAmine/CVE-2018-10583](https://github.com/MrTaherAmine/CVE-2018-10583)	<img alt="forks" src="https://img.shields.io/github/forks/MrTaherAmine/CVE-2018-10583">	<img alt="stars" src="https://img.shields.io/github/stars/MrTaherAmine/CVE-2018-10583">
 
 ---
+## CVE-2018-1058 ()
+> 
+- [ccchme/CVE-2018-1058](https://github.com/ccchme/CVE-2018-1058)	<img alt="forks" src="https://img.shields.io/github/forks/ccchme/CVE-2018-1058">	<img alt="stars" src="https://img.shields.io/github/stars/ccchme/CVE-2018-1058">
+
+---
 ## CVE-2018-1057 (2018-03-13T16:29:00)
 > On a Samba 4 AD DC the LDAP server in all versions of Samba from 4.0.0 onwards incorrectly validates permissions to modify passwords over LDAP allowing authenticated users to change any other users' passwords, including administrative users and privileged service accounts (eg Domain Controllers).
 - [Live-Hack-CVE/CVE-2018-1057](https://github.com/Live-Hack-CVE/CVE-2018-1057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1057">
