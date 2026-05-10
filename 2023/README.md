@@ -4744,6 +4744,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [shoucheng3/asf__nifi_CVE-2023-34468_1-21-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">
 - [shoucheng3/asf__nifi_CVE-2023-34468_1-21-00](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00">
 - [Al3xx-sec/CVE-2023-34468-POC](https://github.com/Al3xx-sec/CVE-2023-34468-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Al3xx-sec/CVE-2023-34468-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Al3xx-sec/CVE-2023-34468-POC">
+- [Al3xx-sec/CVE-2023-34468-POC](https://github.com/Al3xx-sec/CVE-2023-34468-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Al3xx-sec/CVE-2023-34468-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Al3xx-sec/CVE-2023-34468-POC">
 
 ---
 ## CVE-2023-34458 (2023-07-13T19:15:00)
