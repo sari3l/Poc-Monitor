@@ -1411,7 +1411,7 @@
 - [JuanBindez/CVE-2026-31431](https://github.com/JuanBindez/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/JuanBindez/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/JuanBindez/CVE-2026-31431">
 - [eximiait/CVE-2026-31431](https://github.com/eximiait/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/eximiait/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/eximiait/CVE-2026-31431">
 - [dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix](https://github.com/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix)	<img alt="forks" src="https://img.shields.io/github/forks/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix">	<img alt="stars" src="https://img.shields.io/github/stars/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix">
-- [attaattaatta/CVE-2026-43284](https://github.com/attaattaatta/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43284">
+- [attaattaatta/CVE-2026-43500](https://github.com/attaattaatta/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43500">
 - [Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431](https://github.com/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Webhosting4U/Copy-Fail_Detect_and_mitigate_CVE-2026-31431">
 - [gmeghnag/TEST-CVE-2026-31431](https://github.com/gmeghnag/TEST-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gmeghnag/TEST-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gmeghnag/TEST-CVE-2026-31431">
 - [mfloresdacunha/CVE-2026-31431](https://github.com/mfloresdacunha/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mfloresdacunha/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mfloresdacunha/CVE-2026-31431">
@@ -1666,6 +1666,7 @@
 - [haydenjames/CVE-2026-31431-check](https://github.com/haydenjames/CVE-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/CVE-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/CVE-2026-31431-check">
 - [Aurillium/RootRemover](https://github.com/Aurillium/RootRemover)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/RootRemover">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/RootRemover">
 - [cleozi/Copy_Grail](https://github.com/cleozi/Copy_Grail)	<img alt="forks" src="https://img.shields.io/github/forks/cleozi/Copy_Grail">	<img alt="stars" src="https://img.shields.io/github/stars/cleozi/Copy_Grail">
+- [vorkampfer/copyfail2_electric_boogaloo_fix](https://github.com/vorkampfer/copyfail2_electric_boogaloo_fix)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/copyfail2_electric_boogaloo_fix">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/copyfail2_electric_boogaloo_fix">
 
 ---
 ## CVE-2026-3143 ()
