@@ -5983,6 +5983,7 @@
 ## CVE-2020-0423 (2020-10-14T14:15:00)
 > In binder_release_work of binder.c, there is a possible use-after-free due to improper locking. This could lead to local escalation of privilege in the kernel with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-161151868References: N/A
 - [sparrow-labz/CVE-2020-0423](https://github.com/sparrow-labz/CVE-2020-0423)	<img alt="forks" src="https://img.shields.io/github/forks/sparrow-labz/CVE-2020-0423">	<img alt="stars" src="https://img.shields.io/github/stars/sparrow-labz/CVE-2020-0423">
+- [wired0ut/CVE-2020-0423](https://github.com/wired0ut/CVE-2020-0423)	<img alt="forks" src="https://img.shields.io/github/forks/wired0ut/CVE-2020-0423">	<img alt="stars" src="https://img.shields.io/github/stars/wired0ut/CVE-2020-0423">
 
 ---
 ## CVE-2020-0418 (2020-11-10T13:15:00)

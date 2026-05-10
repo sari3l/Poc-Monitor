@@ -4757,6 +4757,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Y0ursTruly/socketio-cve](https://github.com/Y0ursTruly/socketio-cve)	<img alt="forks" src="https://img.shields.io/github/forks/Y0ursTruly/socketio-cve">	<img alt="stars" src="https://img.shields.io/github/stars/Y0ursTruly/socketio-cve">
 
 ---
+## CVE-2024-3829 ()
+> 
+- [fabse-hack/CVE-2024-3829](https://github.com/fabse-hack/CVE-2024-3829)	<img alt="forks" src="https://img.shields.io/github/forks/fabse-hack/CVE-2024-3829">	<img alt="stars" src="https://img.shields.io/github/stars/fabse-hack/CVE-2024-3829">
+
+---
 ## CVE-2024-38249 (2024-09-10T17:15:00)
 > Windows Graphics Component Elevation of Privilege Vulnerability
 - [Jaden1419/CVE-2024-38249](https://github.com/Jaden1419/CVE-2024-38249)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-38249">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-38249">
