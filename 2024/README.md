@@ -3868,6 +3868,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuansec/CVE-2024-4323-dos_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuansec/CVE-2024-4323-dos_poc">
 
 ---
+## CVE-2024-4322 ()
+> 
+- [MJ-bin/POC_CVE-2024-4322](https://github.com/MJ-bin/POC_CVE-2024-4322)	<img alt="forks" src="https://img.shields.io/github/forks/MJ-bin/POC_CVE-2024-4322">	<img alt="stars" src="https://img.shields.io/github/stars/MJ-bin/POC_CVE-2024-4322">
+
+---
 ## CVE-2024-43202 ()
 > 
 - [ive57/yasa-cve-2024-43202](https://github.com/ive57/yasa-cve-2024-43202)	<img alt="forks" src="https://img.shields.io/github/forks/ive57/yasa-cve-2024-43202">	<img alt="stars" src="https://img.shields.io/github/stars/ive57/yasa-cve-2024-43202">

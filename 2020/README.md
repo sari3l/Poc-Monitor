@@ -3043,6 +3043,7 @@
 - [E1tex/Python-CVE-2020-25213](https://github.com/E1tex/Python-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/E1tex/Python-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/E1tex/Python-CVE-2020-25213">
 - [Nguyen-id/CVE-2020-25213](https://github.com/Nguyen-id/CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/Nguyen-id/CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/Nguyen-id/CVE-2020-25213">
 - [Cmadhushanka/wordpress-rce-vapt-cve-2020-25213](https://github.com/Cmadhushanka/wordpress-rce-vapt-cve-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/Cmadhushanka/wordpress-rce-vapt-cve-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/Cmadhushanka/wordpress-rce-vapt-cve-2020-25213">
+- [KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon](https://github.com/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon)	<img alt="forks" src="https://img.shields.io/github/forks/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon">	<img alt="stars" src="https://img.shields.io/github/stars/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon">
 
 ---
 ## CVE-2020-25206 (2021-07-20T19:15:00)
