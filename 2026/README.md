@@ -1653,6 +1653,7 @@
 - [Helios973/CVE-2026-31431_exp.c](https://github.com/Helios973/CVE-2026-31431_exp.c)	<img alt="forks" src="https://img.shields.io/github/forks/Helios973/CVE-2026-31431_exp.c">	<img alt="stars" src="https://img.shields.io/github/stars/Helios973/CVE-2026-31431_exp.c">
 - [haydenjames/CVE-2026-31431-check](https://github.com/haydenjames/CVE-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/CVE-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/CVE-2026-31431-check">
 - [Aurillium/RootRemover](https://github.com/Aurillium/RootRemover)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/RootRemover">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/RootRemover">
+- [cleozi/Copy_Grail](https://github.com/cleozi/Copy_Grail)	<img alt="forks" src="https://img.shields.io/github/forks/cleozi/Copy_Grail">	<img alt="stars" src="https://img.shields.io/github/stars/cleozi/Copy_Grail">
 
 ---
 ## CVE-2026-3143 ()
