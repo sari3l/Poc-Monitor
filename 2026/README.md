@@ -118,6 +118,11 @@
 - [m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain](https://github.com/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain)	<img alt="forks" src="https://img.shields.io/github/forks/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain">	<img alt="stars" src="https://img.shields.io/github/stars/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain">
 
 ---
+## CVE-2026-5865 ()
+> 
+- [Crihexe/v8-poc-CVE-2026-5865](https://github.com/Crihexe/v8-poc-CVE-2026-5865)	<img alt="forks" src="https://img.shields.io/github/forks/Crihexe/v8-poc-CVE-2026-5865">	<img alt="stars" src="https://img.shields.io/github/stars/Crihexe/v8-poc-CVE-2026-5865">
+
+---
 ## CVE-2026-5733 ()
 > 
 - [Lechansky/CVE-2026-5733](https://github.com/Lechansky/CVE-2026-5733)	<img alt="forks" src="https://img.shields.io/github/forks/Lechansky/CVE-2026-5733">	<img alt="stars" src="https://img.shields.io/github/stars/Lechansky/CVE-2026-5733">
@@ -261,6 +266,11 @@
 ## CVE-2026-43893 ()
 > 
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
+
+---
+## CVE-2026-43500 ()
+> 
+- [attaattaatta/CVE-2026-43500](https://github.com/attaattaatta/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43500">
 
 ---
 ## CVE-2026-4350 ()
