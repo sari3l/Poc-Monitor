@@ -286,7 +286,7 @@
 ## CVE-2026-43284 ()
 > 
 - [0xBlackash/CVE-2026-43284](https://github.com/0xBlackash/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43284">
-- [attaattaatta/CVE-2026-43284](https://github.com/attaattaatta/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43284">
+- [attaattaatta/CVE-2026-43500](https://github.com/attaattaatta/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43500">
 - [AK777177/Dirty-Frag-Analysis](https://github.com/AK777177/Dirty-Frag-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/AK777177/Dirty-Frag-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/AK777177/Dirty-Frag-Analysis">
 - [mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4](https://github.com/mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4)	<img alt="forks" src="https://img.shields.io/github/forks/mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4">	<img alt="stars" src="https://img.shields.io/github/stars/mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4">
 - [suominen/CVE-2026-43284](https://github.com/suominen/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-43284">
@@ -300,6 +300,8 @@
 - [linnemanlabs/dirtyfrag-arm64](https://github.com/linnemanlabs/dirtyfrag-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/linnemanlabs/dirtyfrag-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/linnemanlabs/dirtyfrag-arm64">
 - [metalx1993/dirtyfrag-patches](https://github.com/metalx1993/dirtyfrag-patches)	<img alt="forks" src="https://img.shields.io/github/forks/metalx1993/dirtyfrag-patches">	<img alt="stars" src="https://img.shields.io/github/stars/metalx1993/dirtyfrag-patches">
 - [haydenjames/dirty-frag-check](https://github.com/haydenjames/dirty-frag-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/dirty-frag-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/dirty-frag-check">
+- [linnemanlabs/dirtyfrag-arm64](https://github.com/linnemanlabs/dirtyfrag-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/linnemanlabs/dirtyfrag-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/linnemanlabs/dirtyfrag-arm64">
+- [ryan2929/CVE-2026-43284-](https://github.com/ryan2929/CVE-2026-43284-)	<img alt="forks" src="https://img.shields.io/github/forks/ryan2929/CVE-2026-43284-">	<img alt="stars" src="https://img.shields.io/github/stars/ryan2929/CVE-2026-43284-">
 
 ---
 ## CVE-2026-42940 ()
