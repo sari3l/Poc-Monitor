@@ -354,6 +354,11 @@
 - [0xgh057r3c0n/CVE-2026-4257](https://github.com/0xgh057r3c0n/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-4257">
 
 ---
+## CVE-2026-42569 ()
+> 
+- [0xBlackash/CVE-2026-42569](https://github.com/0xBlackash/CVE-2026-42569)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42569">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42569">
+
+---
 ## CVE-2026-42281 ()
 > 
 - [Astaruf/CVE-2026-42281](https://github.com/Astaruf/CVE-2026-42281)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-42281">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-42281">
@@ -1704,6 +1709,7 @@
 - [Karim33z/CVE-2026-31431](https://github.com/Karim33z/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Karim33z/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Karim33z/CVE-2026-31431">
 - [Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31431">
 - [adilkurtulmus/linux-copy-fail-CVE-2026-31431](https://github.com/adilkurtulmus/linux-copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/adilkurtulmus/linux-copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/adilkurtulmus/linux-copy-fail-CVE-2026-31431">
+- [mauricioportela/CVE-2026-31431-Analysis](https://github.com/mauricioportela/CVE-2026-31431-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mauricioportela/CVE-2026-31431-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mauricioportela/CVE-2026-31431-Analysis">
 
 ---
 ## CVE-2026-3143 ()
