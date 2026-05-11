@@ -321,6 +321,7 @@
 - [haydenjames/dirty-frag-check](https://github.com/haydenjames/dirty-frag-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/dirty-frag-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/dirty-frag-check">
 - [linnemanlabs/dirtyfrag-arm64](https://github.com/linnemanlabs/dirtyfrag-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/linnemanlabs/dirtyfrag-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/linnemanlabs/dirtyfrag-arm64">
 - [ryan2929/CVE-2026-43284-](https://github.com/ryan2929/CVE-2026-43284-)	<img alt="forks" src="https://img.shields.io/github/forks/ryan2929/CVE-2026-43284-">	<img alt="stars" src="https://img.shields.io/github/stars/ryan2929/CVE-2026-43284-">
+- [gagaltotal/CVE-2026-43284-CVE-2026-43500-scan](https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">
 
 ---
 ## CVE-2026-42940 ()
@@ -1710,6 +1711,7 @@
 - [Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31431">
 - [adilkurtulmus/linux-copy-fail-CVE-2026-31431](https://github.com/adilkurtulmus/linux-copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/adilkurtulmus/linux-copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/adilkurtulmus/linux-copy-fail-CVE-2026-31431">
 - [mauricioportela/CVE-2026-31431-Analysis](https://github.com/mauricioportela/CVE-2026-31431-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mauricioportela/CVE-2026-31431-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mauricioportela/CVE-2026-31431-Analysis">
+- [dgrobinson0/CopyFile_CVE-2026-31431](https://github.com/dgrobinson0/CopyFile_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/dgrobinson0/CopyFile_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/dgrobinson0/CopyFile_CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
