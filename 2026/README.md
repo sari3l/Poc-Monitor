@@ -456,6 +456,7 @@
 - [ngksiva/cpanel-forensics](https://github.com/ngksiva/cpanel-forensics)	<img alt="forks" src="https://img.shields.io/github/forks/ngksiva/cpanel-forensics">	<img alt="stars" src="https://img.shields.io/github/stars/ngksiva/cpanel-forensics">
 - [44pie/cpsniper](https://github.com/44pie/cpsniper)	<img alt="forks" src="https://img.shields.io/github/forks/44pie/cpsniper">	<img alt="stars" src="https://img.shields.io/github/stars/44pie/cpsniper">
 - [anach-ai/CVE-2026-41940](https://github.com/anach-ai/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/anach-ai/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/anach-ai/CVE-2026-41940">
+- [zycoder0day/CVE-2026-41940](https://github.com/zycoder0day/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-41940">
 
 ---
 ## CVE-2026-41900 ()
@@ -1106,6 +1107,11 @@
 ## CVE-2026-33693 ()
 > 
 - [SnailSploit/CVE-2026-33693](https://github.com/SnailSploit/CVE-2026-33693)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-33693">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-33693">
+
+---
+## CVE-2026-33657 ()
+> 
+- [EntroVyx/CVE-2026-33657](https://github.com/EntroVyx/CVE-2026-33657)	<img alt="forks" src="https://img.shields.io/github/forks/EntroVyx/CVE-2026-33657">	<img alt="stars" src="https://img.shields.io/github/stars/EntroVyx/CVE-2026-33657">
 
 ---
 ## CVE-2026-33634 ()
@@ -3957,6 +3963,7 @@
 - [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
 - [shizuku198411/CVE-2026-0300](https://github.com/shizuku198411/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-0300">
 - [p3Nt3st3r-sTAr/CVE-2026-0300-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-0300-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-0300-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-0300-POC">
+- [ByteWraith1/CVE-2026-0300](https://github.com/ByteWraith1/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0300">
 
 ---
 ## CVE-2026-0227 ()
