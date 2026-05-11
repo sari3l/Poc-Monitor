@@ -11,6 +11,11 @@
 - [CryptReaper12/CVE-2026-8260](https://github.com/CryptReaper12/CVE-2026-8260)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-8260">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-8260">
 
 ---
+## CVE-2026-8161 ()
+> 
+- [Ser0n-ath/CVE-2026-8161](https://github.com/Ser0n-ath/CVE-2026-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Ser0n-ath/CVE-2026-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Ser0n-ath/CVE-2026-8161">
+
+---
 ## CVE-2026-7731 ()
 > 
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
