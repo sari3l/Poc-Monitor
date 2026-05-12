@@ -8403,6 +8403,7 @@
 ## CVE-2025-27136 ()
 > 
 - [IssaBoudin/CVE-2025-27136](https://github.com/IssaBoudin/CVE-2025-27136)	<img alt="forks" src="https://img.shields.io/github/forks/IssaBoudin/CVE-2025-27136">	<img alt="stars" src="https://img.shields.io/github/stars/IssaBoudin/CVE-2025-27136">
+- [ZaidMkh32/CVE-2025-27136-XXE-LocalS3](https://github.com/ZaidMkh32/CVE-2025-27136-XXE-LocalS3)	<img alt="forks" src="https://img.shields.io/github/forks/ZaidMkh32/CVE-2025-27136-XXE-LocalS3">	<img alt="stars" src="https://img.shields.io/github/stars/ZaidMkh32/CVE-2025-27136-XXE-LocalS3">
 
 ---
 ## CVE-2025-2704 ()

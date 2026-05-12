@@ -128,6 +128,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [Live-Hack-CVE/CVE-2010-2063](https://github.com/Live-Hack-CVE/CVE-2010-2063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-2063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-2063">
 
 ---
+## CVE-2010-2039 ()
+> 
+- [RajeshTiwiva/CVE-2010-2039](https://github.com/RajeshTiwiva/CVE-2010-2039)	<img alt="forks" src="https://img.shields.io/github/forks/RajeshTiwiva/CVE-2010-2039">	<img alt="stars" src="https://img.shields.io/github/stars/RajeshTiwiva/CVE-2010-2039">
+
+---
 ## CVE-2010-1938 (2010-05-28T18:30:00)
 > Off-by-one error in the __opiereadrec function in readrec.c in libopie in OPIE 2.4.1-test1 and earlier, as used on FreeBSD 6.4 through 8.1-PRERELEASE and other platforms, allows remote attackers to cause a denial of service (daemon crash) or possibly execute arbitrary code via a long username, as demonstrated by a long USER command to the FreeBSD 8.0 ftpd.
 - [Nexxus67/cve-2010-1938](https://github.com/Nexxus67/cve-2010-1938)	<img alt="forks" src="https://img.shields.io/github/forks/Nexxus67/cve-2010-1938">	<img alt="stars" src="https://img.shields.io/github/stars/Nexxus67/cve-2010-1938">
