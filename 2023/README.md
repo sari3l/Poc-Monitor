@@ -6535,6 +6535,7 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [theopaid/CVE-2023-27163-Request-Baskets-Local-Ports-Bruteforcer](https://github.com/theopaid/CVE-2023-27163-Request-Baskets-Local-Ports-Bruteforcer)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2023-27163-Request-Baskets-Local-Ports-Bruteforcer">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2023-27163-Request-Baskets-Local-Ports-Bruteforcer">
 - [thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE](https://github.com/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE">
 - [thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests](https://github.com/thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests)	<img alt="forks" src="https://img.shields.io/github/forks/thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests">	<img alt="stars" src="https://img.shields.io/github/stars/thealchimist86/CVE-2023-27163---SSRF-Baskets-Requests">
+- [Jeanback1/CVE-2023-27163-exploit](https://github.com/Jeanback1/CVE-2023-27163-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2023-27163-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2023-27163-exploit">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
