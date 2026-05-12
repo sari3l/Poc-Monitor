@@ -1725,6 +1725,7 @@
 - [adilkurtulmus/linux-copy-fail-CVE-2026-31431](https://github.com/adilkurtulmus/linux-copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/adilkurtulmus/linux-copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/adilkurtulmus/linux-copy-fail-CVE-2026-31431">
 - [mauricioportela/CVE-2026-31431-Analysis](https://github.com/mauricioportela/CVE-2026-31431-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mauricioportela/CVE-2026-31431-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mauricioportela/CVE-2026-31431-Analysis">
 - [dgrobinson0/CopyFile_CVE-2026-31431](https://github.com/dgrobinson0/CopyFile_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/dgrobinson0/CopyFile_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/dgrobinson0/CopyFile_CVE-2026-31431">
+- [gbonacini/CVE-2026-31431](https://github.com/gbonacini/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gbonacini/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gbonacini/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
