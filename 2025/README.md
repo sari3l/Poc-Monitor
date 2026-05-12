@@ -7622,6 +7622,7 @@
 - [omne-earth/arca](https://github.com/omne-earth/arca)	<img alt="forks" src="https://img.shields.io/github/forks/omne-earth/arca">	<img alt="stars" src="https://img.shields.io/github/stars/omne-earth/arca">
 - [C-h4ck-0/Learn-about-cve-2025-31133-poc](https://github.com/C-h4ck-0/Learn-about-cve-2025-31133-poc)	<img alt="forks" src="https://img.shields.io/github/forks/C-h4ck-0/Learn-about-cve-2025-31133-poc">	<img alt="stars" src="https://img.shields.io/github/stars/C-h4ck-0/Learn-about-cve-2025-31133-poc">
 - [scherepiuk/container-escape-ebpf](https://github.com/scherepiuk/container-escape-ebpf)	<img alt="forks" src="https://img.shields.io/github/forks/scherepiuk/container-escape-ebpf">	<img alt="stars" src="https://img.shields.io/github/stars/scherepiuk/container-escape-ebpf">
+- [Glitched-Airis/CVE-2025-31133-Compose-Build-Lab](https://github.com/Glitched-Airis/CVE-2025-31133-Compose-Build-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Glitched-Airis/CVE-2025-31133-Compose-Build-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Glitched-Airis/CVE-2025-31133-Compose-Build-Lab">
 
 ---
 ## CVE-2025-31131 ()
