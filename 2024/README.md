@@ -5578,6 +5578,11 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582)	<img alt="forks" src="https://img.shields.io/github/forks/silent6trinity/CVE-2024-34582">	<img alt="stars" src="https://img.shields.io/github/stars/silent6trinity/CVE-2024-34582">
 
 ---
+## CVE-2024-34568 ()
+> 
+- [sanupl/CVE-2024-34568](https://github.com/sanupl/CVE-2024-34568)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2024-34568">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2024-34568">
+
+---
 ## CVE-2024-34474 (2024-05-05T15:15:00)
 > Clario through 2024-04-11 for Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM.
 - [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-34474">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-34474">
@@ -7500,10 +7505,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE](https://github.com/0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE">
 - [D3ltaFormation/CVE-2024-28397-Js2Py-RCE](https://github.com/D3ltaFormation/CVE-2024-28397-Js2Py-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/D3ltaFormation/CVE-2024-28397-Js2Py-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/D3ltaFormation/CVE-2024-28397-Js2Py-RCE">
 - [vitaciminIPI/CVE-2024-28397-RCE](https://github.com/vitaciminIPI/CVE-2024-28397-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/vitaciminIPI/CVE-2024-28397-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/vitaciminIPI/CVE-2024-28397-RCE">
-- [0xPadme/CVE-2024-28397-Reverse-Shell](https://github.com/0xPadme/CVE-2024-28397-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xPadme/CVE-2024-28397-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xPadme/CVE-2024-28397-Reverse-Shell">
+- [s0m1s0ng/CVE-2024-28397-Reverse-Shell](https://github.com/s0m1s0ng/CVE-2024-28397-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/s0m1s0ng/CVE-2024-28397-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/s0m1s0ng/CVE-2024-28397-Reverse-Shell">
 - [L1337Xi/CVE-2024-28397-Exploit-Automation](https://github.com/L1337Xi/CVE-2024-28397-Exploit-Automation)	<img alt="forks" src="https://img.shields.io/github/forks/L1337Xi/CVE-2024-28397-Exploit-Automation">	<img alt="stars" src="https://img.shields.io/github/stars/L1337Xi/CVE-2024-28397-Exploit-Automation">
 - [3z-p0wn/CVE-2024-28397-exploit](https://github.com/3z-p0wn/CVE-2024-28397-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/3z-p0wn/CVE-2024-28397-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/3z-p0wn/CVE-2024-28397-exploit">
 - [xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit](https://github.com/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/CVE-2024-28397-Js2Py-RCE-Exploit">
+- [y0naldez/CVE-2024-28397-Js2Py-RCE](https://github.com/y0naldez/CVE-2024-28397-Js2Py-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/y0naldez/CVE-2024-28397-Js2Py-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/y0naldez/CVE-2024-28397-Js2Py-RCE">
 
 ---
 ## CVE-2024-28288 (2024-03-30T01:15:00)
