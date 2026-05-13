@@ -8097,6 +8097,11 @@
 - [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Otsmane-Ahmed/cve-2025-29384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Otsmane-Ahmed/cve-2025-29384-poc">
 
 ---
+## CVE-2025-29338 ()
+> 
+- [masjadaan/CVE-2025-29338](https://github.com/masjadaan/CVE-2025-29338)	<img alt="forks" src="https://img.shields.io/github/forks/masjadaan/CVE-2025-29338">	<img alt="stars" src="https://img.shields.io/github/stars/masjadaan/CVE-2025-29338">
+
+---
 ## CVE-2025-29306 ()
 > 
 - [somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306)	<img alt="forks" src="https://img.shields.io/github/forks/somatrasss/CVE-2025-29306">	<img alt="stars" src="https://img.shields.io/github/stars/somatrasss/CVE-2025-29306">
@@ -8442,6 +8447,7 @@
 ## CVE-2025-26788 ()
 > 
 - [EQSTLab/CVE-2025-26788](https://github.com/EQSTLab/CVE-2025-26788)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-26788">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-26788">
+- [jun2e0/CVE-2025-26788](https://github.com/jun2e0/CVE-2025-26788)	<img alt="forks" src="https://img.shields.io/github/forks/jun2e0/CVE-2025-26788">	<img alt="stars" src="https://img.shields.io/github/stars/jun2e0/CVE-2025-26788">
 
 ---
 ## CVE-2025-26686 ()
