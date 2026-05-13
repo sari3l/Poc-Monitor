@@ -348,6 +348,7 @@
 - [linnemanlabs/dirtyfrag-arm64](https://github.com/linnemanlabs/dirtyfrag-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/linnemanlabs/dirtyfrag-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/linnemanlabs/dirtyfrag-arm64">
 - [ryan2929/CVE-2026-43284-](https://github.com/ryan2929/CVE-2026-43284-)	<img alt="forks" src="https://img.shields.io/github/forks/ryan2929/CVE-2026-43284-">	<img alt="stars" src="https://img.shields.io/github/stars/ryan2929/CVE-2026-43284-">
 - [gagaltotal/CVE-2026-43284-CVE-2026-43500-scan](https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">
+- [FrosterDL/CVE-2026-43284](https://github.com/FrosterDL/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/FrosterDL/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/FrosterDL/CVE-2026-43284">
 
 ---
 ## CVE-2026-42940 ()
@@ -3708,6 +3709,7 @@
 > 
 - [stvm8/CVE-2026-2005_lab](https://github.com/stvm8/CVE-2026-2005_lab)	<img alt="forks" src="https://img.shields.io/github/forks/stvm8/CVE-2026-2005_lab">	<img alt="stars" src="https://img.shields.io/github/stars/stvm8/CVE-2026-2005_lab">
 - [dinosn/cve-2026-2005](https://github.com/dinosn/cve-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-2005">
+- [var77/CVE-2026-2005](https://github.com/var77/CVE-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/var77/CVE-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/var77/CVE-2026-2005">
 
 ---
 ## CVE-2026-20045 ()
