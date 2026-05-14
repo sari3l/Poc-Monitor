@@ -385,6 +385,7 @@
 - [opdc-oseas/cve_2026-42945](https://github.com/opdc-oseas/cve_2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/opdc-oseas/cve_2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/opdc-oseas/cve_2026-42945">
 - [rheodev/CVE-2026-42945](https://github.com/rheodev/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/rheodev/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/rheodev/CVE-2026-42945">
 - [nanwinata/nginxrift-CVE-2026-42945](https://github.com/nanwinata/nginxrift-CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/nginxrift-CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/nginxrift-CVE-2026-42945">
+- [ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945](https://github.com/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -1813,6 +1814,7 @@
 - [Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Sebastian294/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Sebastian294/cve-2026-31431">
 - [Diktrome/-cve_2026_31431_python3-5](https://github.com/Diktrome/-cve_2026_31431_python3-5)	<img alt="forks" src="https://img.shields.io/github/forks/Diktrome/-cve_2026_31431_python3-5">	<img alt="stars" src="https://img.shields.io/github/stars/Diktrome/-cve_2026_31431_python3-5">
 - [0xFuffM3/CVE-2026-31431-CopyFail](https://github.com/0xFuffM3/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31431-CopyFail">
+- [dotPY-hax/CopyFail](https://github.com/dotPY-hax/CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/dotPY-hax/CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/dotPY-hax/CopyFail">
 
 ---
 ## CVE-2026-3143 ()
