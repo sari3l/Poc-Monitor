@@ -2785,6 +2785,7 @@
 - [vatslaaeytoygag/CVE-2025-59287](https://github.com/vatslaaeytoygag/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/vatslaaeytoygag/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/vatslaaeytoygag/CVE-2025-59287">
 - [GhoStZA-debug/PoC-CVE-collection](https://github.com/GhoStZA-debug/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/GhoStZA-debug/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/GhoStZA-debug/PoC-CVE-collection">
 - [swoon69/CVE-2025-59287-Exercise-Use](https://github.com/swoon69/CVE-2025-59287-Exercise-Use)	<img alt="forks" src="https://img.shields.io/github/forks/swoon69/CVE-2025-59287-Exercise-Use">	<img alt="stars" src="https://img.shields.io/github/stars/swoon69/CVE-2025-59287-Exercise-Use">
+- [DaddyBigFish/CVE-2025-59287-hawktrace](https://github.com/DaddyBigFish/CVE-2025-59287-hawktrace)	<img alt="forks" src="https://img.shields.io/github/forks/DaddyBigFish/CVE-2025-59287-hawktrace">	<img alt="stars" src="https://img.shields.io/github/stars/DaddyBigFish/CVE-2025-59287-hawktrace">
 
 ---
 ## CVE-2025-59285 ()
