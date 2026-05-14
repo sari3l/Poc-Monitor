@@ -7993,6 +7993,7 @@
 - [Toddkk02/CVE-2025-29927](https://github.com/Toddkk02/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Toddkk02/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Toddkk02/CVE-2025-29927">
 - [metasploit403/cve-2025-29927-lab](https://github.com/metasploit403/cve-2025-29927-lab)	<img alt="forks" src="https://img.shields.io/github/forks/metasploit403/cve-2025-29927-lab">	<img alt="stars" src="https://img.shields.io/github/stars/metasploit403/cve-2025-29927-lab">
 - [hujiaozhuzhu/CVE-2025-29927__Next.js](https://github.com/hujiaozhuzhu/CVE-2025-29927__Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/hujiaozhuzhu/CVE-2025-29927__Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/hujiaozhuzhu/CVE-2025-29927__Next.js">
+- [s11s11/CVE-2025-29927](https://github.com/s11s11/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/s11s11/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/s11s11/CVE-2025-29927">
 
 ---
 ## CVE-2025-29891 ()
