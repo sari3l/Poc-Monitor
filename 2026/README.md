@@ -269,6 +269,7 @@
 > 
 - [Sentebale/CVE-2026-46300](https://github.com/Sentebale/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/Sentebale/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/Sentebale/CVE-2026-46300">
 - [HORKimhab/CVE-2026-46300](https://github.com/HORKimhab/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46300">
+- [0xBlackash/CVE-2026-46300](https://github.com/0xBlackash/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46300">
 
 ---
 ## CVE-2026-45616 ()
@@ -465,6 +466,11 @@
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
 - [0xBlackash/CVE-2026-42208](https://github.com/0xBlackash/CVE-2026-42208)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42208">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42208">
+
+---
+## CVE-2026-42203 ()
+> 
+- [Astianjy/CVE-2026-42203](https://github.com/Astianjy/CVE-2026-42203)	<img alt="forks" src="https://img.shields.io/github/forks/Astianjy/CVE-2026-42203">	<img alt="stars" src="https://img.shields.io/github/stars/Astianjy/CVE-2026-42203">
 
 ---
 ## CVE-2026-42167 ()
@@ -3752,6 +3758,11 @@
 ## CVE-2026-20404 ()
 > 
 - [George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">
+
+---
+## CVE-2026-20224 ()
+> 
+- [fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager](https://github.com/fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager">
 
 ---
 ## CVE-2026-20182 ()
