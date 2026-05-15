@@ -309,6 +309,7 @@
 - [ynsmroztas/nextssrf](https://github.com/ynsmroztas/nextssrf)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/nextssrf">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/nextssrf">
 - [panchocosil/verify-ghsa-c4j6-fc7j-m34r](https://github.com/panchocosil/verify-ghsa-c4j6-fc7j-m34r)	<img alt="forks" src="https://img.shields.io/github/forks/panchocosil/verify-ghsa-c4j6-fc7j-m34r">	<img alt="stars" src="https://img.shields.io/github/stars/panchocosil/verify-ghsa-c4j6-fc7j-m34r">
 - [dwisiswant0/next-16.2.4-pocs](https://github.com/dwisiswant0/next-16.2.4-pocs)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/next-16.2.4-pocs">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/next-16.2.4-pocs">
+- [love07oj/nextjs-cve-2026-44578](https://github.com/love07oj/nextjs-cve-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/love07oj/nextjs-cve-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/love07oj/nextjs-cve-2026-44578">
 
 ---
 ## CVE-2026-4447 ()
@@ -989,6 +990,16 @@
 ## CVE-2026-35397 ()
 > 
 - [HiteshGorana/susvibes-jupyter-server-cve-2026-35397](https://github.com/HiteshGorana/susvibes-jupyter-server-cve-2026-35397)	<img alt="forks" src="https://img.shields.io/github/forks/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">	<img alt="stars" src="https://img.shields.io/github/stars/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">
+
+---
+## CVE-2026-35333 ()
+> 
+- [JohannesLks/CVE-2026-35333](https://github.com/JohannesLks/CVE-2026-35333)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-35333">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-35333">
+
+---
+## CVE-2026-35330 ()
+> 
+- [JohannesLks/CVE-2026-35330](https://github.com/JohannesLks/CVE-2026-35330)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-35330">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-35330">
 
 ---
 ## CVE-2026-35250 ()
