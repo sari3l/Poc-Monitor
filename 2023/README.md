@@ -2189,6 +2189,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [dryfryce/phoenix-h2](https://github.com/dryfryce/phoenix-h2)	<img alt="forks" src="https://img.shields.io/github/forks/dryfryce/phoenix-h2">	<img alt="stars" src="https://img.shields.io/github/stars/dryfryce/phoenix-h2">
 - [ReGeLePuMa/HTTP-2-Rapid-Reset-DDos](https://github.com/ReGeLePuMa/HTTP-2-Rapid-Reset-DDos)	<img alt="forks" src="https://img.shields.io/github/forks/ReGeLePuMa/HTTP-2-Rapid-Reset-DDos">	<img alt="stars" src="https://img.shields.io/github/stars/ReGeLePuMa/HTTP-2-Rapid-Reset-DDos">
 - [sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-](https://github.com/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-)	<img alt="forks" src="https://img.shields.io/github/forks/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-">	<img alt="stars" src="https://img.shields.io/github/stars/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-">
+- [Hirokiii/CVE-2023-44487](https://github.com/Hirokiii/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/Hirokiii/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/Hirokiii/CVE-2023-44487">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
