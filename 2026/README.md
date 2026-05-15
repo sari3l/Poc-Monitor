@@ -1865,6 +1865,7 @@
 - [Diktrome/-cve_2026_31431_python3-5](https://github.com/Diktrome/-cve_2026_31431_python3-5)	<img alt="forks" src="https://img.shields.io/github/forks/Diktrome/-cve_2026_31431_python3-5">	<img alt="stars" src="https://img.shields.io/github/stars/Diktrome/-cve_2026_31431_python3-5">
 - [0xFuffM3/CVE-2026-31431-CopyFail](https://github.com/0xFuffM3/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31431-CopyFail">
 - [dotPY-hax/CopyFail](https://github.com/dotPY-hax/CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/dotPY-hax/CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/dotPY-hax/CopyFail">
+- [whosfault/cve-2026-31431](https://github.com/whosfault/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
