@@ -301,6 +301,14 @@
 - [Astaruf/CVE-2026-44590](https://github.com/Astaruf/CVE-2026-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-44590">
 
 ---
+## CVE-2026-44578 ()
+> 
+- [tocong282/CVE-2026-44578-PoC](https://github.com/tocong282/CVE-2026-44578-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tocong282/CVE-2026-44578-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tocong282/CVE-2026-44578-PoC">
+- [ynsmroztas/nextssrf](https://github.com/ynsmroztas/nextssrf)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/nextssrf">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/nextssrf">
+- [panchocosil/verify-ghsa-c4j6-fc7j-m34r](https://github.com/panchocosil/verify-ghsa-c4j6-fc7j-m34r)	<img alt="forks" src="https://img.shields.io/github/forks/panchocosil/verify-ghsa-c4j6-fc7j-m34r">	<img alt="stars" src="https://img.shields.io/github/stars/panchocosil/verify-ghsa-c4j6-fc7j-m34r">
+- [dwisiswant0/next-16.2.4-pocs](https://github.com/dwisiswant0/next-16.2.4-pocs)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/next-16.2.4-pocs">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/next-16.2.4-pocs">
+
+---
 ## CVE-2026-4447 ()
 > 
 - [blackhatlegend/CVE-2026-4447](https://github.com/blackhatlegend/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-4447">
@@ -309,6 +317,7 @@
 ## CVE-2026-44338 ()
 > 
 - [HORKimhab/CVE-2026-44338](https://github.com/HORKimhab/CVE-2026-44338)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-44338">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-44338">
+- [rootdirective-sec/CVE-2026-44338-Lab](https://github.com/rootdirective-sec/CVE-2026-44338-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-44338-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-44338-Lab">
 
 ---
 ## CVE-2026-44277 ()
