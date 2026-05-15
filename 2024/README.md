@@ -5288,6 +5288,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 ## CVE-2024-36042 ()
 > 
 - [zaaraZiof0/CVE-2024-36042](https://github.com/zaaraZiof0/CVE-2024-36042)	<img alt="forks" src="https://img.shields.io/github/forks/zaaraZiof0/CVE-2024-36042">	<img alt="stars" src="https://img.shields.io/github/stars/zaaraZiof0/CVE-2024-36042">
+- [HA5ANT/Silverpeas-AuthBypass-CVE-2024-36042](https://github.com/HA5ANT/Silverpeas-AuthBypass-CVE-2024-36042)	<img alt="forks" src="https://img.shields.io/github/forks/HA5ANT/Silverpeas-AuthBypass-CVE-2024-36042">	<img alt="stars" src="https://img.shields.io/github/stars/HA5ANT/Silverpeas-AuthBypass-CVE-2024-36042">
 
 ---
 ## CVE-2024-36039 ()
