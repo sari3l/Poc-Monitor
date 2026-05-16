@@ -11052,6 +11052,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [JohnHormond/CVE-2024-0519-Chrome-exploit](https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-0519-Chrome-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-0519-Chrome-exploit">
 - [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-0519-Chrome-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-0519-Chrome-exploit">
 - [dbwlsdnr95/CVE-2024-0519-chrome-v8](https://github.com/dbwlsdnr95/CVE-2024-0519-chrome-v8)	<img alt="forks" src="https://img.shields.io/github/forks/dbwlsdnr95/CVE-2024-0519-chrome-v8">	<img alt="stars" src="https://img.shields.io/github/stars/dbwlsdnr95/CVE-2024-0519-chrome-v8">
+- [Insaida/cve-2024-0519-rca-research](https://github.com/Insaida/cve-2024-0519-rca-research)	<img alt="forks" src="https://img.shields.io/github/forks/Insaida/cve-2024-0519-rca-research">	<img alt="stars" src="https://img.shields.io/github/stars/Insaida/cve-2024-0519-rca-research">
 
 ---
 ## CVE-2024-0509 (2024-02-05T22:16:00)

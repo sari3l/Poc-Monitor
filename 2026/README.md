@@ -242,6 +242,11 @@
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
 
 ---
+## CVE-2026-4882 ()
+> 
+- [xShadow-Here/CVE-2026-4882](https://github.com/xShadow-Here/CVE-2026-4882)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4882">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4882">
+
+---
 ## CVE-2026-4821 ()
 > 
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">

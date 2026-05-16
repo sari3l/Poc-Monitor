@@ -3727,6 +3727,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-0230](https://github.com/Live-Hack-CVE/CVE-2019-0230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0230">
 
 ---
+## CVE-2019-0227 ()
+> 
+- [1475210817/Axis1.4-CVE-2019-0227](https://github.com/1475210817/Axis1.4-CVE-2019-0227)	<img alt="forks" src="https://img.shields.io/github/forks/1475210817/Axis1.4-CVE-2019-0227">	<img alt="stars" src="https://img.shields.io/github/stars/1475210817/Axis1.4-CVE-2019-0227">
+
+---
 ## CVE-2019-0225 ()
 > 
 - [shoucheng3/apache__jspwiki_CVE-2019-0225_2-11-0-M2](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-0225_2-11-0-M2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__jspwiki_CVE-2019-0225_2-11-0-M2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__jspwiki_CVE-2019-0225_2-11-0-M2">
