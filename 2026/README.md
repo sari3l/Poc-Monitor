@@ -21,6 +21,7 @@
 - [zycoder0day/CVE-2026-8181](https://github.com/zycoder0day/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-8181">
 - [murrez/CVE-2026-8181](https://github.com/murrez/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-8181">
 - [Jenderal92/CVE-2026-8181](https://github.com/Jenderal92/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8181">
+- [whattheslime/CVE-2026-8181](https://github.com/whattheslime/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2026-8181">
 
 ---
 ## CVE-2026-8161 ()
