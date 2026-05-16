@@ -418,6 +418,7 @@
 - [liamromanis101/DirtyFrag-Detector](https://github.com/liamromanis101/DirtyFrag-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/DirtyFrag-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/DirtyFrag-Detector">
 - [XRSecCD/202605_dirty_frag](https://github.com/XRSecCD/202605_dirty_frag)	<img alt="forks" src="https://img.shields.io/github/forks/XRSecCD/202605_dirty_frag">	<img alt="stars" src="https://img.shields.io/github/stars/XRSecCD/202605_dirty_frag">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [whosfault/CVE-2026-43284](https://github.com/whosfault/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/CVE-2026-43284">
 
 ---
 ## CVE-2026-42945 ()
