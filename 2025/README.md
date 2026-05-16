@@ -2905,6 +2905,8 @@
 - [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
 - [mananispiwpiw/CVE-2025-58434-PoC](https://github.com/mananispiwpiw/CVE-2025-58434-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-58434-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-58434-PoC">
 - [v3rycl0p3r/CVE-PoC-CVE-2025-58434](https://github.com/v3rycl0p3r/CVE-PoC-CVE-2025-58434)	<img alt="forks" src="https://img.shields.io/github/forks/v3rycl0p3r/CVE-PoC-CVE-2025-58434">	<img alt="stars" src="https://img.shields.io/github/stars/v3rycl0p3r/CVE-PoC-CVE-2025-58434">
+- [vincent-vbg/CVE-2025-58434-PoC](https://github.com/vincent-vbg/CVE-2025-58434-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/vincent-vbg/CVE-2025-58434-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/vincent-vbg/CVE-2025-58434-PoC">
+- [0xDaeras/Flowise-CVE-2025-58434-Chain-59528](https://github.com/0xDaeras/Flowise-CVE-2025-58434-Chain-59528)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">
 
 ---
 ## CVE-2025-5840 ()
