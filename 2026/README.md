@@ -852,6 +852,11 @@
 - [simondankelmann/cve-2026-3854-test](https://github.com/simondankelmann/cve-2026-3854-test)	<img alt="forks" src="https://img.shields.io/github/forks/simondankelmann/cve-2026-3854-test">	<img alt="stars" src="https://img.shields.io/github/stars/simondankelmann/cve-2026-3854-test">
 
 ---
+## CVE-2026-38526 ()
+> 
+- [NathanHimself/CVE-2026-38526-PoC](https://github.com/NathanHimself/CVE-2026-38526-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NathanHimself/CVE-2026-38526-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NathanHimself/CVE-2026-38526-PoC">
+
+---
 ## CVE-2026-3847 ()
 > 
 - [HiZisec/CVE-2026-3847-Poc](https://github.com/HiZisec/CVE-2026-3847-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/HiZisec/CVE-2026-3847-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/HiZisec/CVE-2026-3847-Poc">

@@ -2674,6 +2674,7 @@
 - [mananispiwpiw/CVE-2025-59528-PoC](https://github.com/mananispiwpiw/CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-59528-PoC">
 - [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
 - [honney336/CVE-2025-58434_CVE-2025-59528](https://github.com/honney336/CVE-2025-58434_CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/honney336/CVE-2025-58434_CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/honney336/CVE-2025-58434_CVE-2025-59528">
+- [im-nymii/CVE-2025-59528](https://github.com/im-nymii/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/im-nymii/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/im-nymii/CVE-2025-59528">
 
 ---
 ## CVE-2025-59503 ()

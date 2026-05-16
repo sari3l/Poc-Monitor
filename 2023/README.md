@@ -7204,6 +7204,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [thomsoe/Test_CVE-2023-23946](https://github.com/thomsoe/Test_CVE-2023-23946)	<img alt="forks" src="https://img.shields.io/github/forks/thomsoe/Test_CVE-2023-23946">	<img alt="stars" src="https://img.shields.io/github/stars/thomsoe/Test_CVE-2023-23946">
 - [bruno-1337/CVE-2023-23946-POC](https://github.com/bruno-1337/CVE-2023-23946-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bruno-1337/CVE-2023-23946-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bruno-1337/CVE-2023-23946-POC">
 - [tralsesec/CVE-2023-23946](https://github.com/tralsesec/CVE-2023-23946)	<img alt="forks" src="https://img.shields.io/github/forks/tralsesec/CVE-2023-23946">	<img alt="stars" src="https://img.shields.io/github/stars/tralsesec/CVE-2023-23946">
+- [mararaEd/HTB-Snoopy-Writeup](https://github.com/mararaEd/HTB-Snoopy-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/mararaEd/HTB-Snoopy-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/mararaEd/HTB-Snoopy-Writeup">
 
 ---
 ## CVE-2023-23924 (2023-02-01T00:15:00)
@@ -8484,6 +8485,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [nokn0wthing/CVE-2023-20052](https://github.com/nokn0wthing/CVE-2023-20052)	<img alt="forks" src="https://img.shields.io/github/forks/nokn0wthing/CVE-2023-20052">	<img alt="stars" src="https://img.shields.io/github/stars/nokn0wthing/CVE-2023-20052">
 - [MOHITSINGHPAPOLA/CVE-2023-20052](https://github.com/MOHITSINGHPAPOLA/CVE-2023-20052)	<img alt="forks" src="https://img.shields.io/github/forks/MOHITSINGHPAPOLA/CVE-2023-20052">	<img alt="stars" src="https://img.shields.io/github/stars/MOHITSINGHPAPOLA/CVE-2023-20052">
 - [tralsesec/CVE-2023-20052](https://github.com/tralsesec/CVE-2023-20052)	<img alt="forks" src="https://img.shields.io/github/forks/tralsesec/CVE-2023-20052">	<img alt="stars" src="https://img.shields.io/github/stars/tralsesec/CVE-2023-20052">
+- [mararaEd/HTB-Snoopy-Writeup](https://github.com/mararaEd/HTB-Snoopy-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/mararaEd/HTB-Snoopy-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/mararaEd/HTB-Snoopy-Writeup">
 
 ---
 ## CVE-2023-2002 (2023-05-26T17:15:00)
