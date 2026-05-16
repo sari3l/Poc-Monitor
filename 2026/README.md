@@ -1912,6 +1912,7 @@
 - [zKaaanon/ProyectoFinalSO](https://github.com/zKaaanon/ProyectoFinalSO)	<img alt="forks" src="https://img.shields.io/github/forks/zKaaanon/ProyectoFinalSO">	<img alt="stars" src="https://img.shields.io/github/stars/zKaaanon/ProyectoFinalSO">
 - [CharBay/Linux-CVE-2026-31431_Public](https://github.com/CharBay/Linux-CVE-2026-31431_Public)	<img alt="forks" src="https://img.shields.io/github/forks/CharBay/Linux-CVE-2026-31431_Public">	<img alt="stars" src="https://img.shields.io/github/stars/CharBay/Linux-CVE-2026-31431_Public">
 - [adityasingh108/CVE-2026-31431-Metasploit-exploit](https://github.com/adityasingh108/CVE-2026-31431-Metasploit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/adityasingh108/CVE-2026-31431-Metasploit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/adityasingh108/CVE-2026-31431-Metasploit-exploit">
+- [Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention](https://github.com/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention">
 
 ---
 ## CVE-2026-3143 ()
