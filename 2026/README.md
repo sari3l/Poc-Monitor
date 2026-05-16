@@ -334,6 +334,7 @@
 - [dwisiswant0/next-16.2.4-pocs](https://github.com/dwisiswant0/next-16.2.4-pocs)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/next-16.2.4-pocs">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/next-16.2.4-pocs">
 - [love07oj/nextjs-cve-2026-44578](https://github.com/love07oj/nextjs-cve-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/love07oj/nextjs-cve-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/love07oj/nextjs-cve-2026-44578">
 - [dinosn/CVE-2026-44578](https://github.com/dinosn/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-44578">
+- [0xBlackash/CVE-2026-44578](https://github.com/0xBlackash/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-44578">
 
 ---
 ## CVE-2026-4447 ()
@@ -1132,6 +1133,11 @@
 ## CVE-2026-34475 ()
 > 
 - [bitbcybr/way2poc_cve-2026-34475](https://github.com/bitbcybr/way2poc_cve-2026-34475)	<img alt="forks" src="https://img.shields.io/github/forks/bitbcybr/way2poc_cve-2026-34475">	<img alt="stars" src="https://img.shields.io/github/stars/bitbcybr/way2poc_cve-2026-34475">
+
+---
+## CVE-2026-34473 ()
+> 
+- [minanagehsalalma/cve-2026-34473-root-cause-analysis](https://github.com/minanagehsalalma/cve-2026-34473-root-cause-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/cve-2026-34473-root-cause-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/cve-2026-34473-root-cause-analysis">
 
 ---
 ## CVE-2026-34444 ()
