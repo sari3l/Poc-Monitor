@@ -10627,6 +10627,7 @@
 - [B1ack4sh/Blackash-CVE-2025-1094](https://github.com/B1ack4sh/Blackash-CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-1094">
 - [PinkArmor/CVE-2025-1094-Lab-Setup](https://github.com/PinkArmor/CVE-2025-1094-Lab-Setup)	<img alt="forks" src="https://img.shields.io/github/forks/PinkArmor/CVE-2025-1094-Lab-Setup">	<img alt="stars" src="https://img.shields.io/github/stars/PinkArmor/CVE-2025-1094-Lab-Setup">
 - [TranDongA3/POC-CVE-2025-1094](https://github.com/TranDongA3/POC-CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/TranDongA3/POC-CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/TranDongA3/POC-CVE-2025-1094">
+- [Nguyen-Van-Gia-Binh/Fcode-Security-Demo](https://github.com/Nguyen-Van-Gia-Binh/Fcode-Security-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/Nguyen-Van-Gia-Binh/Fcode-Security-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/Nguyen-Van-Gia-Binh/Fcode-Security-Demo">
 
 ---
 ## CVE-2025-10878 ()
