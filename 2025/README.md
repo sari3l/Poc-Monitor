@@ -542,6 +542,7 @@
 ## CVE-2025-70849 ()
 > 
 - [kazisabu/CVE-2025-70849-Podinfo](https://github.com/kazisabu/CVE-2025-70849-Podinfo)	<img alt="forks" src="https://img.shields.io/github/forks/kazisabu/CVE-2025-70849-Podinfo">	<img alt="stars" src="https://img.shields.io/github/stars/kazisabu/CVE-2025-70849-Podinfo">
+- [deaprojects/CVE-2025-70849](https://github.com/deaprojects/CVE-2025-70849)	<img alt="forks" src="https://img.shields.io/github/forks/deaprojects/CVE-2025-70849">	<img alt="stars" src="https://img.shields.io/github/stars/deaprojects/CVE-2025-70849">
 
 ---
 ## CVE-2025-70830 ()
