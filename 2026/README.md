@@ -1137,7 +1137,7 @@
 ---
 ## CVE-2026-34473 ()
 > 
-- [minanagehsalalma/cve-2026-34473-root-cause-analysis](https://github.com/minanagehsalalma/cve-2026-34473-root-cause-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/cve-2026-34473-root-cause-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/cve-2026-34473-root-cause-analysis">
+- [minanagehsalalma/cve-2026-34473-unauthenticated-dos-zte-routers](https://github.com/minanagehsalalma/cve-2026-34473-unauthenticated-dos-zte-routers)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/cve-2026-34473-unauthenticated-dos-zte-routers">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/cve-2026-34473-unauthenticated-dos-zte-routers">
 
 ---
 ## CVE-2026-34444 ()
@@ -1905,6 +1905,7 @@
 - [whosfault/cve-2026-31431](https://github.com/whosfault/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/cve-2026-31431">
 - [zKaaanon/ProyectoFinalSO](https://github.com/zKaaanon/ProyectoFinalSO)	<img alt="forks" src="https://img.shields.io/github/forks/zKaaanon/ProyectoFinalSO">	<img alt="stars" src="https://img.shields.io/github/stars/zKaaanon/ProyectoFinalSO">
 - [CharBay/Linux-CVE-2026-31431_Public](https://github.com/CharBay/Linux-CVE-2026-31431_Public)	<img alt="forks" src="https://img.shields.io/github/forks/CharBay/Linux-CVE-2026-31431_Public">	<img alt="stars" src="https://img.shields.io/github/stars/CharBay/Linux-CVE-2026-31431_Public">
+- [adityasingh108/CVE-2026-31431-Metasploit-exploit](https://github.com/adityasingh108/CVE-2026-31431-Metasploit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/adityasingh108/CVE-2026-31431-Metasploit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/adityasingh108/CVE-2026-31431-Metasploit-exploit">
 
 ---
 ## CVE-2026-3143 ()
