@@ -22,6 +22,7 @@
 - [murrez/CVE-2026-8181](https://github.com/murrez/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-8181">
 - [Jenderal92/CVE-2026-8181](https://github.com/Jenderal92/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8181">
 - [whattheslime/CVE-2026-8181](https://github.com/whattheslime/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2026-8181">
+- [rootdirective-sec/CVE-2026-8181-Lab](https://github.com/rootdirective-sec/CVE-2026-8181-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-8181-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-8181-Lab">
 
 ---
 ## CVE-2026-8161 ()
@@ -275,6 +276,14 @@
 ## CVE-2026-46391 ()
 > 
 - [bradyjmcl/cve-2026-46391](https://github.com/bradyjmcl/cve-2026-46391)	<img alt="forks" src="https://img.shields.io/github/forks/bradyjmcl/cve-2026-46391">	<img alt="stars" src="https://img.shields.io/github/stars/bradyjmcl/cve-2026-46391">
+
+---
+## CVE-2026-46333 ()
+> 
+- [studiogangster/CVE-2026-46333](https://github.com/studiogangster/CVE-2026-46333)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2026-46333">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2026-46333">
+- [0xBlackash/CVE-2026-46333](https://github.com/0xBlackash/CVE-2026-46333)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46333">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46333">
+- [Aurillium/public-passwd](https://github.com/Aurillium/public-passwd)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/public-passwd">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/public-passwd">
+- [KaraZajac/CHARON](https://github.com/KaraZajac/CHARON)	<img alt="forks" src="https://img.shields.io/github/forks/KaraZajac/CHARON">	<img alt="stars" src="https://img.shields.io/github/stars/KaraZajac/CHARON">
 
 ---
 ## CVE-2026-4631 ()
@@ -2017,6 +2026,11 @@
 ## CVE-2026-31156 ()
 > 
 - [unicorn-hyh/CVE-2026-31156](https://github.com/unicorn-hyh/CVE-2026-31156)	<img alt="forks" src="https://img.shields.io/github/forks/unicorn-hyh/CVE-2026-31156">	<img alt="stars" src="https://img.shields.io/github/stars/unicorn-hyh/CVE-2026-31156">
+
+---
+## CVE-2026-31024 ()
+> 
+- [ErikDervishi03/CVE-2026-31024](https://github.com/ErikDervishi03/CVE-2026-31024)	<img alt="forks" src="https://img.shields.io/github/forks/ErikDervishi03/CVE-2026-31024">	<img alt="stars" src="https://img.shields.io/github/stars/ErikDervishi03/CVE-2026-31024">
 
 ---
 ## CVE-2026-3098 ()
