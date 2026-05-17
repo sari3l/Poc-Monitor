@@ -5062,6 +5062,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-37054 ()
 > 
 - [NiteeshPujari/CVE-2024-37054-MLflow-RCE](https://github.com/NiteeshPujari/CVE-2024-37054-MLflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/NiteeshPujari/CVE-2024-37054-MLflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/NiteeshPujari/CVE-2024-37054-MLflow-RCE">
+- [ben-slates/CVE-2024-37054](https://github.com/ben-slates/CVE-2024-37054)	<img alt="forks" src="https://img.shields.io/github/forks/ben-slates/CVE-2024-37054">	<img alt="stars" src="https://img.shields.io/github/stars/ben-slates/CVE-2024-37054">
 
 ---
 ## CVE-2024-37051 (2024-06-10T16:15:00)
