@@ -6268,6 +6268,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252](https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252">
 - [Danasuley/CVE-2023-28252-](https://github.com/Danasuley/CVE-2023-28252-)	<img alt="forks" src="https://img.shields.io/github/forks/Danasuley/CVE-2023-28252-">	<img alt="stars" src="https://img.shields.io/github/stars/Danasuley/CVE-2023-28252-">
 - [726232111/CVE-2023-28252](https://github.com/726232111/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/726232111/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/726232111/CVE-2023-28252">
+- [Groppoxx/CVE-2023-2825-PoC](https://github.com/Groppoxx/CVE-2023-2825-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Groppoxx/CVE-2023-2825-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Groppoxx/CVE-2023-2825-PoC">
+- [alej6/MassCyberCenter-Mentorship-Project-](https://github.com/alej6/MassCyberCenter-Mentorship-Project-)	<img alt="forks" src="https://img.shields.io/github/forks/alej6/MassCyberCenter-Mentorship-Project-">	<img alt="stars" src="https://img.shields.io/github/stars/alej6/MassCyberCenter-Mentorship-Project-">
 
 ---
 ## CVE-2023-28244 (2023-04-11T21:15:00)
