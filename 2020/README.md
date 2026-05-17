@@ -3092,6 +3092,11 @@
 - [Live-Hack-CVE/CVE-2020-2511](https://github.com/Live-Hack-CVE/CVE-2020-2511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2511">
 
 ---
+## CVE-2020-25042 ()
+> 
+- [Groppoxx/CVE-2020-25042-PoC](https://github.com/Groppoxx/CVE-2020-25042-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Groppoxx/CVE-2020-25042-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Groppoxx/CVE-2020-25042-PoC">
+
+---
 ## CVE-2020-25020 (2020-08-29T19:15:00)
 > MPXJ through 8.1.3 allows XXE attacks. This affects the GanttProjectReader and PhoenixReader components.
 - [Live-Hack-CVE/CVE-2020-25020](https://github.com/Live-Hack-CVE/CVE-2020-25020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25020">
