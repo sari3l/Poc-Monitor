@@ -5787,6 +5787,11 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [flame-11/CVE-2024-3408-dtale](https://github.com/flame-11/CVE-2024-3408-dtale)	<img alt="forks" src="https://img.shields.io/github/forks/flame-11/CVE-2024-3408-dtale">	<img alt="stars" src="https://img.shields.io/github/stars/flame-11/CVE-2024-3408-dtale">
 
 ---
+## CVE-2024-34070 ()
+> 
+- [Akira07210/Exploit-CVE-2024-34070](https://github.com/Akira07210/Exploit-CVE-2024-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Akira07210/Exploit-CVE-2024-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Akira07210/Exploit-CVE-2024-34070">
+
+---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
 > A command injection vulnerability in the GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-OS versions and distinct feature configurations may enable an unauthenticated attacker to execute arbitrary code with root privileges on the firewall.
 
