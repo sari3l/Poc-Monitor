@@ -1288,6 +1288,11 @@
 - [ZEROxYakuza/CVE-2026-33826](https://github.com/ZEROxYakuza/CVE-2026-33826)	<img alt="forks" src="https://img.shields.io/github/forks/ZEROxYakuza/CVE-2026-33826">	<img alt="stars" src="https://img.shields.io/github/stars/ZEROxYakuza/CVE-2026-33826">
 
 ---
+## CVE-2026-33825 ()
+> 
+- [0xBlackash/CVE-2026-33825](https://github.com/0xBlackash/CVE-2026-33825)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-33825">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-33825">
+
+---
 ## CVE-2026-33824 ()
 > 
 - [z3r0h3ro/CVE-2026-33824](https://github.com/z3r0h3ro/CVE-2026-33824)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-33824">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-33824">
