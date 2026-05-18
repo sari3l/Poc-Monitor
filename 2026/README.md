@@ -1950,6 +1950,7 @@
 - [Aurillium/public-passwd](https://github.com/Aurillium/public-passwd)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/public-passwd">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/public-passwd">
 - [Pithase/asm-copyfail](https://github.com/Pithase/asm-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/Pithase/asm-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/Pithase/asm-copyfail">
 - [4xura/CVE-2026-31431-Copy-Fail](https://github.com/4xura/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2026-31431-Copy-Fail">
+- [royayub/CVE-2026-31431](https://github.com/royayub/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/royayub/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/royayub/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
