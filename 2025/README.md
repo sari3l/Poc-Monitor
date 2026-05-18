@@ -6899,6 +6899,11 @@
 - [KrE80r/CVE-2025-34299-lab](https://github.com/KrE80r/CVE-2025-34299-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/CVE-2025-34299-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/CVE-2025-34299-lab">
 
 ---
+## CVE-2025-34291 ()
+> 
+- [amnnrth/CVE-2025-34291_cors_security_scanner](https://github.com/amnnrth/CVE-2025-34291_cors_security_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/amnnrth/CVE-2025-34291_cors_security_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/amnnrth/CVE-2025-34291_cors_security_scanner">
+
+---
 ## CVE-2025-34282 ()
 > 
 - [mathitam/thingsboard-ssrf-cve-2025-34282](https://github.com/mathitam/thingsboard-ssrf-cve-2025-34282)	<img alt="forks" src="https://img.shields.io/github/forks/mathitam/thingsboard-ssrf-cve-2025-34282">	<img alt="stars" src="https://img.shields.io/github/stars/mathitam/thingsboard-ssrf-cve-2025-34282">
