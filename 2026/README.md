@@ -2141,6 +2141,11 @@
 - [iremnurylmz/CVE-2026-30695](https://github.com/iremnurylmz/CVE-2026-30695)	<img alt="forks" src="https://img.shields.io/github/forks/iremnurylmz/CVE-2026-30695">	<img alt="stars" src="https://img.shields.io/github/stars/iremnurylmz/CVE-2026-30695">
 
 ---
+## CVE-2026-30691 ()
+> 
+- [walidriouah/CVE-2026-30691](https://github.com/walidriouah/CVE-2026-30691)	<img alt="forks" src="https://img.shields.io/github/forks/walidriouah/CVE-2026-30691">	<img alt="stars" src="https://img.shields.io/github/stars/walidriouah/CVE-2026-30691">
+
+---
 ## CVE-2026-30655 ()
 > 
 - [brynax/CVE-2026-30655](https://github.com/brynax/CVE-2026-30655)	<img alt="forks" src="https://img.shields.io/github/forks/brynax/CVE-2026-30655">	<img alt="stars" src="https://img.shields.io/github/stars/brynax/CVE-2026-30655">
