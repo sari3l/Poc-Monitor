@@ -5242,6 +5242,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1](https://github.com/shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1">
 
 ---
+## CVE-2023-32692 ()
+> 
+- [mogwailabs/CVE-2023-32692-CodeIgniter4](https://github.com/mogwailabs/CVE-2023-32692-CodeIgniter4)	<img alt="forks" src="https://img.shields.io/github/forks/mogwailabs/CVE-2023-32692-CodeIgniter4">	<img alt="stars" src="https://img.shields.io/github/stars/mogwailabs/CVE-2023-32692-CodeIgniter4">
+
+---
 ## CVE-2023-32681 (2023-05-26T18:15:00)
 > Requests is a HTTP library. Since Requests 2.3.0, Requests has been leaking Proxy-Authorization headers to destination servers when redirected to an HTTPS endpoint. This is a product of how we use `rebuild_proxies` to reattach the `Proxy-Authorization` header to requests. For HTTP connections sent through the tunnel, the proxy will identify the header in the request itself and remove it prior to forwarding to the destination server. However when sent over HTTPS, the `Proxy-Authorization` header must be sent in the CONNECT request as the proxy has no visibility into the tunneled request. This results in Requests forwarding proxy credentials to the destination server unintentionally, allowing a malicious actor to potentially exfiltrate sensitive information. This issue has been patched in version 2.31.0.
 
