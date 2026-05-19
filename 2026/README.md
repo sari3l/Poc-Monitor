@@ -1650,6 +1650,11 @@
 - [TurtleARM/CVE-2026-31717-KSMBD-Exploit](https://github.com/TurtleARM/CVE-2026-31717-KSMBD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2026-31717-KSMBD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2026-31717-KSMBD-Exploit">
 
 ---
+## CVE-2026-31635 ()
+> 
+- [0xBlackash/CVE-2026-31635](https://github.com/0xBlackash/CVE-2026-31635)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-31635">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-31635">
+
+---
 ## CVE-2026-31431 ()
 > 
 - [mhdgning131/CVE-2026-31431_poc](https://github.com/mhdgning131/CVE-2026-31431_poc)	<img alt="forks" src="https://img.shields.io/github/forks/mhdgning131/CVE-2026-31431_poc">	<img alt="stars" src="https://img.shields.io/github/stars/mhdgning131/CVE-2026-31431_poc">
