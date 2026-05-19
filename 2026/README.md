@@ -450,6 +450,7 @@
 - [DXC-0/linux-lpe-sigma](https://github.com/DXC-0/linux-lpe-sigma)	<img alt="forks" src="https://img.shields.io/github/forks/DXC-0/linux-lpe-sigma">	<img alt="stars" src="https://img.shields.io/github/stars/DXC-0/linux-lpe-sigma">
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
 - [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
+- [kuniyal08/Dirty-Frag-CVE-2026-43284](https://github.com/kuniyal08/Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Dirty-Frag-CVE-2026-43284">
 
 ---
 ## CVE-2026-42945 ()

@@ -2831,6 +2831,11 @@
 - [stalker110119/CVE-2025-59230](https://github.com/stalker110119/CVE-2025-59230)	<img alt="forks" src="https://img.shields.io/github/forks/stalker110119/CVE-2025-59230">	<img alt="stars" src="https://img.shields.io/github/stars/stalker110119/CVE-2025-59230">
 
 ---
+## CVE-2025-59213 ()
+> 
+- [synacktiv/CVE-2025-59213](https://github.com/synacktiv/CVE-2025-59213)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2025-59213">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2025-59213">
+
+---
 ## CVE-2025-59194 ()
 > 
 - [kawaii-ghost/CVE-2025-59194](https://github.com/kawaii-ghost/CVE-2025-59194)	<img alt="forks" src="https://img.shields.io/github/forks/kawaii-ghost/CVE-2025-59194">	<img alt="stars" src="https://img.shields.io/github/stars/kawaii-ghost/CVE-2025-59194">
@@ -4199,6 +4204,7 @@
 - [MuharremK0/Info-Sys-Security-CVE-2025-55182](https://github.com/MuharremK0/Info-Sys-Security-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MuharremK0/Info-Sys-Security-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MuharremK0/Info-Sys-Security-CVE-2025-55182">
 - [yannisduvignau/react2shell-exploit](https://github.com/yannisduvignau/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yannisduvignau/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yannisduvignau/react2shell-exploit">
 - [ycseo-git/CVE-2025-55182](https://github.com/ycseo-git/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ycseo-git/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ycseo-git/CVE-2025-55182">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">
 
 ---
 ## CVE-2025-55130 ()
