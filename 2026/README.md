@@ -1120,6 +1120,11 @@
 - [FilipeGaudard/CVE-2026-35045-PoC](https://github.com/FilipeGaudard/CVE-2026-35045-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-35045-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-35045-PoC">
 
 ---
+## CVE-2026-35037 ()
+> 
+- [fineman999/POC_CVE-2026-35037](https://github.com/fineman999/POC_CVE-2026-35037)	<img alt="forks" src="https://img.shields.io/github/forks/fineman999/POC_CVE-2026-35037">	<img alt="stars" src="https://img.shields.io/github/stars/fineman999/POC_CVE-2026-35037">
+
+---
 ## CVE-2026-35031 ()
 > 
 - [keraattin/CVE-2026-35031](https://github.com/keraattin/CVE-2026-35031)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35031">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35031">
