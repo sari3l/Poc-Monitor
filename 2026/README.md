@@ -536,6 +536,11 @@
 - [Astaruf/CVE-2026-42281](https://github.com/Astaruf/CVE-2026-42281)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-42281">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-42281">
 
 ---
+## CVE-2026-42271 ()
+> 
+- [learner202649/CVE-2026-42271-PoC](https://github.com/learner202649/CVE-2026-42271-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-42271-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-42271-PoC">
+
+---
 ## CVE-2026-42208 ()
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
@@ -4250,6 +4255,7 @@
 - [0xgh057r3c0n/CVE-2026-0740](https://github.com/0xgh057r3c0n/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-0740">
 - [murrez/CVE-2026-0740](https://github.com/murrez/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-0740">
 - [BastianXploited/CVE-2026-0740](https://github.com/BastianXploited/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-0740">
+- [zycoder0day/CVE-2026-0740](https://github.com/zycoder0day/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-0740">
 
 ---
 ## CVE-2026-0730 ()
