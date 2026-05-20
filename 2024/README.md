@@ -8976,6 +8976,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated](https://github.com/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated">
 - [FuzzySecurity/Cassowary-CVE-2024-23222-x86_64](https://github.com/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64)	<img alt="forks" src="https://img.shields.io/github/forks/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64">	<img alt="stars" src="https://img.shields.io/github/stars/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64">
 - [Umit-MHL/webkit-cve-2024-23222](https://github.com/Umit-MHL/webkit-cve-2024-23222)	<img alt="forks" src="https://img.shields.io/github/forks/Umit-MHL/webkit-cve-2024-23222">	<img alt="stars" src="https://img.shields.io/github/stars/Umit-MHL/webkit-cve-2024-23222">
+- [Meysamshiralii/coruna_analysis](https://github.com/Meysamshiralii/coruna_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Meysamshiralii/coruna_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Meysamshiralii/coruna_analysis">
 
 ---
 ## CVE-2024-23208 (2024-01-23T01:15:00)
