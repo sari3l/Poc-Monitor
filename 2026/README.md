@@ -862,6 +862,11 @@
 - [sm1ee/CVE-2026-39324](https://github.com/sm1ee/CVE-2026-39324)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-39324">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-39324">
 
 ---
+## CVE-2026-39107 ()
+> 
+- [MGTx2/CVE-2026-39107](https://github.com/MGTx2/CVE-2026-39107)	<img alt="forks" src="https://img.shields.io/github/forks/MGTx2/CVE-2026-39107">	<img alt="stars" src="https://img.shields.io/github/stars/MGTx2/CVE-2026-39107">
+
+---
 ## CVE-2026-3910 ()
 > 
 - [5o1z/CVE-2026-3910](https://github.com/5o1z/CVE-2026-3910)	<img alt="forks" src="https://img.shields.io/github/forks/5o1z/CVE-2026-3910">	<img alt="stars" src="https://img.shields.io/github/stars/5o1z/CVE-2026-3910">
@@ -2015,6 +2020,8 @@
 - [Yakovyakov/cve-2026-31431-mitigation](https://github.com/Yakovyakov/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Yakovyakov/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Yakovyakov/cve-2026-31431-mitigation">
 - [cj667113/OCI-Ansible-Fix-CVE-2026-31431](https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cj667113/OCI-Ansible-Fix-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cj667113/OCI-Ansible-Fix-CVE-2026-31431">
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
+- [sgkdev/ptrace_may_dream](https://github.com/sgkdev/ptrace_may_dream)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/ptrace_may_dream">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/ptrace_may_dream">
+- [GubiczaP/cve-2026-31431-checker](https://github.com/GubiczaP/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/GubiczaP/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/GubiczaP/cve-2026-31431-checker">
 
 ---
 ## CVE-2026-3143 ()
@@ -2816,6 +2823,11 @@
 ## CVE-2026-25890 ()
 > 
 - [mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass](https://github.com/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass">
+
+---
+## CVE-2026-2587 ()
+> 
+- [Bhanunamikaze/CVE-2026-2587-Exploit-POC](https://github.com/Bhanunamikaze/CVE-2026-2587-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/CVE-2026-2587-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/CVE-2026-2587-Exploit-POC">
 
 ---
 ## CVE-2026-25857 ()
