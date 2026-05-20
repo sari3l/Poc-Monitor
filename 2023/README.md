@@ -8809,6 +8809,8 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [bchevCH/CVE-2023-0386](https://github.com/bchevCH/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/bchevCH/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/bchevCH/CVE-2023-0386">
 - [dragosbanica/CVE-2023-0386_POC](https://github.com/dragosbanica/CVE-2023-0386_POC)	<img alt="forks" src="https://img.shields.io/github/forks/dragosbanica/CVE-2023-0386_POC">	<img alt="stars" src="https://img.shields.io/github/stars/dragosbanica/CVE-2023-0386_POC">
 - [huovnn/CVE-2023-0386-go-poc](https://github.com/huovnn/CVE-2023-0386-go-poc)	<img alt="forks" src="https://img.shields.io/github/forks/huovnn/CVE-2023-0386-go-poc">	<img alt="stars" src="https://img.shields.io/github/stars/huovnn/CVE-2023-0386-go-poc">
+- [julianertle/CVE-2023-0386-CTF](https://github.com/julianertle/CVE-2023-0386-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/julianertle/CVE-2023-0386-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/julianertle/CVE-2023-0386-CTF">
+- [karimelsheikh1/HTB-TwoMillion-Writeup](https://github.com/karimelsheikh1/HTB-TwoMillion-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-TwoMillion-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-TwoMillion-Writeup">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)

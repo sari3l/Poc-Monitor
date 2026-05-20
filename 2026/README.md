@@ -1212,6 +1212,11 @@
 - [bitbcybr/way2poc_cve-2026-34475](https://github.com/bitbcybr/way2poc_cve-2026-34475)	<img alt="forks" src="https://img.shields.io/github/forks/bitbcybr/way2poc_cve-2026-34475">	<img alt="stars" src="https://img.shields.io/github/stars/bitbcybr/way2poc_cve-2026-34475">
 
 ---
+## CVE-2026-34474 ()
+> 
+- [minanagehsalalma/cve-2026-34474-zte-h298a-h108n-sensitive-data-exposure](https://github.com/minanagehsalalma/cve-2026-34474-zte-h298a-h108n-sensitive-data-exposure)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/cve-2026-34474-zte-h298a-h108n-sensitive-data-exposure">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/cve-2026-34474-zte-h298a-h108n-sensitive-data-exposure">
+
+---
 ## CVE-2026-34473 ()
 > 
 - [minanagehsalalma/cve-2026-34473-unauthenticated-dos-zte-routers](https://github.com/minanagehsalalma/cve-2026-34473-unauthenticated-dos-zte-routers)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/cve-2026-34473-unauthenticated-dos-zte-routers">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/cve-2026-34473-unauthenticated-dos-zte-routers">

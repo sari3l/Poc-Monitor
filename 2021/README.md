@@ -5302,6 +5302,7 @@
 ## CVE-2021-35036 (2022-03-01T07:15:00)
 > A cleartext storage of information vulnerability in the Zyxel VMG3625-T50B firmware version V5.50(ABTL.0)b2k could allow an authenticated attacker to obtain sensitive information from the configuration file.
 - [Live-Hack-CVE/CVE-2021-35036](https://github.com/Live-Hack-CVE/CVE-2021-35036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35036">
+- [minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak](https://github.com/minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak">
 
 ---
 ## CVE-2021-35033 (2021-11-23T22:15:00)
@@ -9192,6 +9193,11 @@
 ## CVE-2021-21772 (2021-03-10T17:15:00)
 > A use-after-free vulnerability exists in the NMR::COpcPackageReader::releaseZIP() functionality of 3MF Consortium lib3mf 2.0.0. A specially crafted 3MF file can lead to code execution. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21772](https://github.com/Live-Hack-CVE/CVE-2021-21772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21772">
+
+---
+## CVE-2021-21735 ()
+> 
+- [minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise](https://github.com/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise">
 
 ---
 ## CVE-2021-21707 (2021-11-29T07:15:00)

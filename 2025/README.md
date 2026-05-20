@@ -295,6 +295,7 @@
 - [X4BROZER/CVE-2025-8110](https://github.com/X4BROZER/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/X4BROZER/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/X4BROZER/CVE-2025-8110">
 - [hassan-hamadi/CVE-2025-8110-Silentium-HTB](https://github.com/hassan-hamadi/CVE-2025-8110-Silentium-HTB)	<img alt="forks" src="https://img.shields.io/github/forks/hassan-hamadi/CVE-2025-8110-Silentium-HTB">	<img alt="stars" src="https://img.shields.io/github/stars/hassan-hamadi/CVE-2025-8110-Silentium-HTB">
 - [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
+- [mananispiwpiw/CVE-2025-8110-PoC](https://github.com/mananispiwpiw/CVE-2025-8110-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-8110-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-8110-PoC">
 
 ---
 ## CVE-2025-8088 ()
