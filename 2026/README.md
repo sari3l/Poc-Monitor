@@ -1097,6 +1097,11 @@
 - [PySecTools/CVE-2026-3629](https://github.com/PySecTools/CVE-2026-3629)	<img alt="forks" src="https://img.shields.io/github/forks/PySecTools/CVE-2026-3629">	<img alt="stars" src="https://img.shields.io/github/stars/PySecTools/CVE-2026-3629">
 
 ---
+## CVE-2026-36229 ()
+> 
+- [NullByte8080/CVE-2026-36229](https://github.com/NullByte8080/CVE-2026-36229)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36229">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36229">
+
+---
 ## CVE-2026-3587 ()
 > 
 - [z3r0h3ro/cve-2026-3587-poc](https://github.com/z3r0h3ro/cve-2026-3587-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/cve-2026-3587-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/cve-2026-3587-poc">
