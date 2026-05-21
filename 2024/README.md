@@ -731,6 +731,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-6694-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-6694-PoC">
 
 ---
+## CVE-2024-6678 ()
+> 
+- [FaLLenSKiLL1/CVE-2024-6678](https://github.com/FaLLenSKiLL1/CVE-2024-6678)	<img alt="forks" src="https://img.shields.io/github/forks/FaLLenSKiLL1/CVE-2024-6678">	<img alt="stars" src="https://img.shields.io/github/stars/FaLLenSKiLL1/CVE-2024-6678">
+
+---
 ## CVE-2024-6670 (2024-08-29T22:15:00)
 > In WhatsUp Gold versions released before 2024.0.0, a SQL Injection vulnerability allows an unauthenticated attacker to retrieve the users encrypted password.
 - [sinsinology/CVE-2024-6670](https://github.com/sinsinology/CVE-2024-6670)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-6670">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-6670">
