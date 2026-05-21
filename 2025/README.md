@@ -6740,6 +6740,11 @@
 - [Totunm/CVE-2025-3928](https://github.com/Totunm/CVE-2025-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-3928">
 
 ---
+## CVE-2025-39247 ()
+> 
+- [Sita-Technologies/CVE-2025-39247](https://github.com/Sita-Technologies/CVE-2025-39247)	<img alt="forks" src="https://img.shields.io/github/forks/Sita-Technologies/CVE-2025-39247">	<img alt="stars" src="https://img.shields.io/github/stars/Sita-Technologies/CVE-2025-39247">
+
+---
 ## CVE-2025-3914 ()
 > 
 - [LvL23HT/PoC-CVE-2025-3914-FileUpload-Vulnerability](https://github.com/LvL23HT/PoC-CVE-2025-3914-FileUpload-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/LvL23HT/PoC-CVE-2025-3914-FileUpload-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/LvL23HT/PoC-CVE-2025-3914-FileUpload-Vulnerability">
