@@ -8344,7 +8344,7 @@
 - [00xCanelo/CVE-2025-27591](https://github.com/00xCanelo/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-27591">
 - [Thekin-ctrl/CVE-2025-27591-Below](https://github.com/Thekin-ctrl/CVE-2025-27591-Below)	<img alt="forks" src="https://img.shields.io/github/forks/Thekin-ctrl/CVE-2025-27591-Below">	<img alt="stars" src="https://img.shields.io/github/stars/Thekin-ctrl/CVE-2025-27591-Below">
 - [Cythonic1/CVE-2025-27591](https://github.com/Cythonic1/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Cythonic1/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Cythonic1/CVE-2025-27591">
-- [nikolas-trey/CVE-2025-27591](https://github.com/nikolas-trey/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/nikolas-trey/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/nikolas-trey/CVE-2025-27591">
+- [umutcamliyurt/CVE-2025-27591](https://github.com/umutcamliyurt/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/umutcamliyurt/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/umutcamliyurt/CVE-2025-27591">
 - [VisaiCyber/CVE-2025-27591-below-](https://github.com/VisaiCyber/CVE-2025-27591-below-)	<img alt="forks" src="https://img.shields.io/github/forks/VisaiCyber/CVE-2025-27591-below-">	<img alt="stars" src="https://img.shields.io/github/stars/VisaiCyber/CVE-2025-27591-below-">
 - [danil-koltsov/below-log-race-poc](https://github.com/danil-koltsov/below-log-race-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danil-koltsov/below-log-race-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danil-koltsov/below-log-race-poc">
 - [Diabl0xE/CVE-2025-27519](https://github.com/Diabl0xE/CVE-2025-27519)	<img alt="forks" src="https://img.shields.io/github/forks/Diabl0xE/CVE-2025-27519">	<img alt="stars" src="https://img.shields.io/github/stars/Diabl0xE/CVE-2025-27519">
@@ -8352,6 +8352,7 @@
 - [0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591](https://github.com/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">
 - [0x00Jeff/CVE-2025-27591](https://github.com/0x00Jeff/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0x00Jeff/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0x00Jeff/CVE-2025-27591">
 - [Stp1t/CVE-2025-27591](https://github.com/Stp1t/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Stp1t/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Stp1t/CVE-2025-27591">
+- [rippsec/CVE-2025-27591-Meta-below-LPE](https://github.com/rippsec/CVE-2025-27591-Meta-below-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-27591-Meta-below-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-27591-Meta-below-LPE">
 
 ---
 ## CVE-2025-27590 ()

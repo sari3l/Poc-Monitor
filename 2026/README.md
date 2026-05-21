@@ -12,6 +12,7 @@
 - [HORKimhab/CVE-2026-9082](https://github.com/HORKimhab/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9082">
 - [0xBlackash/CVE-2026-9082](https://github.com/0xBlackash/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-9082">
 - [7h30th3r0n3/CVE-2026-9082-Drupal-PoC](https://github.com/7h30th3r0n3/CVE-2026-9082-Drupal-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/7h30th3r0n3/CVE-2026-9082-Drupal-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/7h30th3r0n3/CVE-2026-9082-Drupal-PoC">
+- [ywh-jfellus/CVE-2026-9082](https://github.com/ywh-jfellus/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-9082">
 
 ---
 ## CVE-2026-8260 ()
@@ -774,6 +775,7 @@
 ## CVE-2026-40369 ()
 > 
 - [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/orinimron123/CVE-2026-40369-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/orinimron123/CVE-2026-40369-EXPLOIT">
+- [ercihan/CVE-2026-40369](https://github.com/ercihan/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-40369">
 
 ---
 ## CVE-2026-40261 ()
