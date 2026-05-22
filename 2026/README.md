@@ -1113,6 +1113,16 @@
 - [NullByte8080/CVE-2026-36229](https://github.com/NullByte8080/CVE-2026-36229)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36229">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36229">
 
 ---
+## CVE-2026-36228 ()
+> 
+- [NullByte8080/CVE-2026-36228](https://github.com/NullByte8080/CVE-2026-36228)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36228">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36228">
+
+---
+## CVE-2026-36227 ()
+> 
+- [NullByte8080/CVE-2026-36227](https://github.com/NullByte8080/CVE-2026-36227)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36227">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36227">
+
+---
 ## CVE-2026-3587 ()
 > 
 - [z3r0h3ro/cve-2026-3587-poc](https://github.com/z3r0h3ro/cve-2026-3587-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/cve-2026-3587-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/cve-2026-3587-poc">
