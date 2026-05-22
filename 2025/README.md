@@ -6923,6 +6923,7 @@
 ## CVE-2025-34291 ()
 > 
 - [amnnrth/CVE-2025-34291_cors_security_scanner](https://github.com/amnnrth/CVE-2025-34291_cors_security_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/amnnrth/CVE-2025-34291_cors_security_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/amnnrth/CVE-2025-34291_cors_security_scanner">
+- [ridhinva/CVE-2025-34291-Langflow-Scanner](https://github.com/ridhinva/CVE-2025-34291-Langflow-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2025-34291-Langflow-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2025-34291-Langflow-Scanner">
 
 ---
 ## CVE-2025-34282 ()
