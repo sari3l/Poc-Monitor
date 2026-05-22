@@ -34,6 +34,7 @@
 - [rootdirective-sec/CVE-2026-8181-Lab](https://github.com/rootdirective-sec/CVE-2026-8181-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-8181-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-8181-Lab">
 - [xShadow-Here/CVE-2026-8181](https://github.com/xShadow-Here/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-8181">
 - [BastianXploited/CVE-2026-8181-mass](https://github.com/BastianXploited/CVE-2026-8181-mass)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-8181-mass">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-8181-mass">
+- [x48ps/CVE-2026-8181](https://github.com/x48ps/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/x48ps/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/x48ps/CVE-2026-8181">
 
 ---
 ## CVE-2026-8161 ()
@@ -1121,6 +1122,11 @@
 ## CVE-2026-36227 ()
 > 
 - [NullByte8080/CVE-2026-36227](https://github.com/NullByte8080/CVE-2026-36227)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36227">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36227">
+
+---
+## CVE-2026-36226 ()
+> 
+- [NullByte8080/CVE-2026-36226](https://github.com/NullByte8080/CVE-2026-36226)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36226">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36226">
 
 ---
 ## CVE-2026-3587 ()
