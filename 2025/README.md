@@ -3542,6 +3542,11 @@
 - [xhh1h/CVE-2025-55449](https://github.com/xhh1h/CVE-2025-55449)	<img alt="forks" src="https://img.shields.io/github/forks/xhh1h/CVE-2025-55449">	<img alt="stars" src="https://img.shields.io/github/stars/xhh1h/CVE-2025-55449">
 
 ---
+## CVE-2025-55423 ()
+> 
+- [logis11/CVE-2025-55423-analysis-and-reproduction](https://github.com/logis11/CVE-2025-55423-analysis-and-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/logis11/CVE-2025-55423-analysis-and-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/logis11/CVE-2025-55423-analysis-and-reproduction">
+
+---
 ## CVE-2025-55349 ()
 > 
 - [GoldenTicketLabs/CVE-2025-55349](https://github.com/GoldenTicketLabs/CVE-2025-55349)	<img alt="forks" src="https://img.shields.io/github/forks/GoldenTicketLabs/CVE-2025-55349">	<img alt="stars" src="https://img.shields.io/github/stars/GoldenTicketLabs/CVE-2025-55349">
