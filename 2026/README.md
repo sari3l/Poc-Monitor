@@ -33,6 +33,7 @@
 - [whattheslime/CVE-2026-8181](https://github.com/whattheslime/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2026-8181">
 - [rootdirective-sec/CVE-2026-8181-Lab](https://github.com/rootdirective-sec/CVE-2026-8181-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-8181-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-8181-Lab">
 - [xShadow-Here/CVE-2026-8181](https://github.com/xShadow-Here/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-8181">
+- [BastianXploited/CVE-2026-8181-mass](https://github.com/BastianXploited/CVE-2026-8181-mass)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-8181-mass">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-8181-mass">
 
 ---
 ## CVE-2026-8161 ()
@@ -255,6 +256,7 @@
 - [puj790201-lab/CVE-2026-5118](https://github.com/puj790201-lab/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/puj790201-lab/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/puj790201-lab/CVE-2026-5118">
 - [zycoder0day/CVE-2026-5118](https://github.com/zycoder0day/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5118">
 - [Jenderal92/CVE-2026-5118](https://github.com/Jenderal92/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-5118">
+- [Yucaerin/CVE-2026-5118](https://github.com/Yucaerin/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-5118">
 
 ---
 ## CVE-2026-5059 ()
@@ -4029,6 +4031,11 @@
 ## CVE-2026-20224 ()
 > 
 - [fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager](https://github.com/fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager">
+
+---
+## CVE-2026-20223 ()
+> 
+- [HORKimhab/CVE-2026-20223](https://github.com/HORKimhab/CVE-2026-20223)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20223">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20223">
 
 ---
 ## CVE-2026-20182 ()

@@ -5001,6 +5001,11 @@
 - [Scorpion-Security-Labs/CVE-2020-12124](https://github.com/Scorpion-Security-Labs/CVE-2020-12124)	<img alt="forks" src="https://img.shields.io/github/forks/Scorpion-Security-Labs/CVE-2020-12124">	<img alt="stars" src="https://img.shields.io/github/stars/Scorpion-Security-Labs/CVE-2020-12124">
 
 ---
+## CVE-2020-12112 ()
+> 
+- [tchenu/CVE-2020-12112](https://github.com/tchenu/CVE-2020-12112)	<img alt="forks" src="https://img.shields.io/github/forks/tchenu/CVE-2020-12112">	<img alt="stars" src="https://img.shields.io/github/stars/tchenu/CVE-2020-12112">
+
+---
 ## CVE-2020-12100 (2020-08-12T16:15:00)
 > In Dovecot before 2.3.11.3, uncontrolled recursion in submission, lmtp, and lda allows remote attackers to cause a denial of service (resource consumption) via a crafted e-mail message with deeply nested MIME parts.
 - [Live-Hack-CVE/CVE-2020-12100](https://github.com/Live-Hack-CVE/CVE-2020-12100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12100">

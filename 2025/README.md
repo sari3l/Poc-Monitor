@@ -5191,6 +5191,7 @@
 - [glitchurn/CVE-2025-50165](https://github.com/glitchurn/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/glitchurn/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/glitchurn/CVE-2025-50165">
 - [useci-sys/CVE-2025-50165](https://github.com/useci-sys/CVE-2025-50165)	<img alt="forks" src="https://img.shields.io/github/forks/useci-sys/CVE-2025-50165">	<img alt="stars" src="https://img.shields.io/github/stars/useci-sys/CVE-2025-50165">
 - [encrypter15/CVE-2025-50165-x64-Exploit](https://github.com/encrypter15/CVE-2025-50165-x64-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-50165-x64-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-50165-x64-Exploit">
+- [FelineKeeper/CVE-2025-50165-Windows-Graphics-Component-RCE](https://github.com/FelineKeeper/CVE-2025-50165-Windows-Graphics-Component-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/FelineKeeper/CVE-2025-50165-Windows-Graphics-Component-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/FelineKeeper/CVE-2025-50165-Windows-Graphics-Component-RCE">
 
 ---
 ## CVE-2025-50154 ()
