@@ -295,6 +295,7 @@
 ## CVE-2026-4885 ()
 > 
 - [xShadow-Here/CVE-2026-4885](https://github.com/xShadow-Here/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4885">
+- [Jenderal92/CVE-2026-4885](https://github.com/Jenderal92/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-4885">
 
 ---
 ## CVE-2026-4882 ()
