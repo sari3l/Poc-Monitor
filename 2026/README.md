@@ -694,6 +694,11 @@
 - [tc4dy/CVE-2026-41940-POC-Exploit](https://github.com/tc4dy/CVE-2026-41940-POC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-41940-POC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-41940-POC-Exploit">
 
 ---
+## CVE-2026-41901 ()
+> 
+- [HORKimhab/CVE-2026-41901](https://github.com/HORKimhab/CVE-2026-41901)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-41901">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-41901">
+
+---
 ## CVE-2026-41900 ()
 > 
 - [Christbowel/CVE-2026-41900-POC](https://github.com/Christbowel/CVE-2026-41900-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2026-41900-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2026-41900-POC">
