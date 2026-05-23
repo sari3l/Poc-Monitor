@@ -552,6 +552,7 @@
 - [gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit](https://github.com/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">
 - [yusufdalbudak/CVE-2026-42945](https://github.com/yusufdalbudak/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2026-42945">
 - [F2u0a0d3/CVE-2026-42945-nginx-rift-poc](https://github.com/F2u0a0d3/CVE-2026-42945-nginx-rift-poc)	<img alt="forks" src="https://img.shields.io/github/forks/F2u0a0d3/CVE-2026-42945-nginx-rift-poc">	<img alt="stars" src="https://img.shields.io/github/stars/F2u0a0d3/CVE-2026-42945-nginx-rift-poc">
+- [webdev75950-ux/nginx-rce-cve-2026-42945](https://github.com/webdev75950-ux/nginx-rce-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/webdev75950-ux/nginx-rce-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/webdev75950-ux/nginx-rce-cve-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
