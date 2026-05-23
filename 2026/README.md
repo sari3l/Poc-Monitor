@@ -16,6 +16,11 @@
 - [ridhinva/CVE-2026-9082](https://github.com/ridhinva/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-9082">
 
 ---
+## CVE-2026-9018 ()
+> 
+- [xxconi/CVE-2026-9018](https://github.com/xxconi/CVE-2026-9018)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-9018">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-9018">
+
+---
 ## CVE-2026-8260 ()
 > 
 - [CryptReaper12/CVE-2026-8260](https://github.com/CryptReaper12/CVE-2026-8260)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-8260">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-8260">
@@ -109,6 +114,11 @@
 ## CVE-2026-7020 ()
 > 
 - [davidrxchester/CVE-2026-7020](https://github.com/davidrxchester/CVE-2026-7020)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-7020">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-7020">
+
+---
+## CVE-2026-6960 ()
+> 
+- [xxconi/CVE-2026-6960](https://github.com/xxconi/CVE-2026-6960)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6960">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6960">
 
 ---
 ## CVE-2026-6857 ()
