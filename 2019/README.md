@@ -234,6 +234,7 @@
 - [iTzR1g/CVE-2019-9053](https://github.com/iTzR1g/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/iTzR1g/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/iTzR1g/CVE-2019-9053">
 - [coolkiee/CVE-2019-9053](https://github.com/coolkiee/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/coolkiee/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/coolkiee/CVE-2019-9053">
 - [killukeren/-CVE-2019-9053](https://github.com/killukeren/-CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/killukeren/-CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/killukeren/-CVE-2019-9053">
+- [v4rr10r/CVE-2019-9053](https://github.com/v4rr10r/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/v4rr10r/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/v4rr10r/CVE-2019-9053">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
