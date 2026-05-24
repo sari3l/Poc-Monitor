@@ -891,6 +891,7 @@
 - [h3raklez/CVE-2026-39987](https://github.com/h3raklez/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2026-39987">
 - [Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab](https://github.com/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab">
 - [rootdirective-sec/CVE-2026-39987-Lab](https://github.com/rootdirective-sec/CVE-2026-39987-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-39987-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-39987-Lab">
+- [M3PH1569/CVE-2026-39987-POC](https://github.com/M3PH1569/CVE-2026-39987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/M3PH1569/CVE-2026-39987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/M3PH1569/CVE-2026-39987-POC">
 
 ---
 ## CVE-2026-39983 ()
