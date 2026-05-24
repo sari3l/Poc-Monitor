@@ -4214,6 +4214,7 @@
 - [ycseo-git/CVE-2025-55182](https://github.com/ycseo-git/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ycseo-git/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ycseo-git/CVE-2025-55182">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">
 - [renewablehacking/CVE-2025-55182-React-19.2.0](https://github.com/renewablehacking/CVE-2025-55182-React-19.2.0)	<img alt="forks" src="https://img.shields.io/github/forks/renewablehacking/CVE-2025-55182-React-19.2.0">	<img alt="stars" src="https://img.shields.io/github/stars/renewablehacking/CVE-2025-55182-React-19.2.0">
+- [w3nch/CVE-2025-55182-in-go](https://github.com/w3nch/CVE-2025-55182-in-go)	<img alt="forks" src="https://img.shields.io/github/forks/w3nch/CVE-2025-55182-in-go">	<img alt="stars" src="https://img.shields.io/github/stars/w3nch/CVE-2025-55182-in-go">
 
 ---
 ## CVE-2025-55130 ()

@@ -4141,6 +4141,7 @@
 > 
 - [fangbarristerbar/CVE-2026-20182-POC](https://github.com/fangbarristerbar/CVE-2026-20182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fangbarristerbar/CVE-2026-20182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fangbarristerbar/CVE-2026-20182-POC">
 - [portbuster1337/CVE-2026-20182](https://github.com/portbuster1337/CVE-2026-20182)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-20182">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-20182">
+- [HORKimhab/CVE-2026-20182](https://github.com/HORKimhab/CVE-2026-20182)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20182">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20182">
 
 ---
 ## CVE-2026-20180 ()
