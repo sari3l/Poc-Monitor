@@ -4062,6 +4062,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [fellipefelix06/Zabbix-CVE-2024-42327](https://github.com/fellipefelix06/Zabbix-CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/fellipefelix06/Zabbix-CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/fellipefelix06/Zabbix-CVE-2024-42327">
 
 ---
+## CVE-2024-42323 ()
+> 
+- [forwjm/CVE-2024-42323](https://github.com/forwjm/CVE-2024-42323)	<img alt="forks" src="https://img.shields.io/github/forks/forwjm/CVE-2024-42323">	<img alt="stars" src="https://img.shields.io/github/stars/forwjm/CVE-2024-42323">
+
+---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
 > This vulnerability exists in Digisol Router (DG-GR1321: Hardware version 3.7L;  Firmware version : v3.2.02) due to lack of encryption or hashing in storing of passwords within the router's firmware/ database. An attacker with physical access could exploit this by extracting the firmware and reverse engineer the binary data to access the plaintext passwords on the vulnerable system.
 

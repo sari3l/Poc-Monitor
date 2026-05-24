@@ -6,6 +6,11 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-9256 ()
+> 
+- [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
+
+---
 ## CVE-2026-9082 ()
 > 
 - [lysophavin18/cve-2026-9082](https://github.com/lysophavin18/cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/cve-2026-9082">
