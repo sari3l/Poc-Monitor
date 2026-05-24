@@ -3416,6 +3416,10 @@
 - [vaibhavkrishna12004/ubuntu-privesc-lab](https://github.com/vaibhavkrishna12004/ubuntu-privesc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/vaibhavkrishna12004/ubuntu-privesc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/vaibhavkrishna12004/ubuntu-privesc-lab">
 - [B1gN0Se/PwnKit_CVE-2021-4034](https://github.com/B1gN0Se/PwnKit_CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/PwnKit_CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/PwnKit_CVE-2021-4034">
 - [Leemyunglyul/cve-2021-4034-mock](https://github.com/Leemyunglyul/cve-2021-4034-mock)	<img alt="forks" src="https://img.shields.io/github/forks/Leemyunglyul/cve-2021-4034-mock">	<img alt="stars" src="https://img.shields.io/github/stars/Leemyunglyul/cve-2021-4034-mock">
+- [jayhutajulu1/PwnKit-CVE-2021-4034](https://github.com/jayhutajulu1/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/PwnKit-CVE-2021-4034">
+- [vorkampfer/pwnkit_safety_check](https://github.com/vorkampfer/pwnkit_safety_check)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/pwnkit_safety_check">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/pwnkit_safety_check">
+- [trinetra-1308/PwnKit-](https://github.com/trinetra-1308/PwnKit-)	<img alt="forks" src="https://img.shields.io/github/forks/trinetra-1308/PwnKit-">	<img alt="stars" src="https://img.shields.io/github/stars/trinetra-1308/PwnKit-">
+- [usman-khan-23626/-CVE-2021-4034](https://github.com/usman-khan-23626/-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/usman-khan-23626/-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/usman-khan-23626/-CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
