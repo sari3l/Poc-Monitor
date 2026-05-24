@@ -2432,6 +2432,7 @@
 > 
 - [Smarttfoxx/CVE-2026-29923](https://github.com/Smarttfoxx/CVE-2026-29923)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2026-29923">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2026-29923">
 - [athenasec16/CVE-2026-29923](https://github.com/athenasec16/CVE-2026-29923)	<img alt="forks" src="https://img.shields.io/github/forks/athenasec16/CVE-2026-29923">	<img alt="stars" src="https://img.shields.io/github/stars/athenasec16/CVE-2026-29923">
+- [mein-0/cve-2026-29923](https://github.com/mein-0/cve-2026-29923)	<img alt="forks" src="https://img.shields.io/github/forks/mein-0/cve-2026-29923">	<img alt="stars" src="https://img.shields.io/github/stars/mein-0/cve-2026-29923">
 
 ---
 ## CVE-2026-2991 ()
