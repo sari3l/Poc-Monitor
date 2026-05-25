@@ -1044,6 +1044,7 @@
 - [simondankelmann/cve-2026-3854-test](https://github.com/simondankelmann/cve-2026-3854-test)	<img alt="forks" src="https://img.shields.io/github/forks/simondankelmann/cve-2026-3854-test">	<img alt="stars" src="https://img.shields.io/github/stars/simondankelmann/cve-2026-3854-test">
 - [ridhinva/CVE-2026-3854-GHE-RCE](https://github.com/ridhinva/CVE-2026-3854-GHE-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-3854-GHE-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-3854-GHE-RCE">
 - [isagoakira/ghes-cve-scanner](https://github.com/isagoakira/ghes-cve-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/isagoakira/ghes-cve-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/isagoakira/ghes-cve-scanner">
+- [daniel30padd/CVE-2026-3854](https://github.com/daniel30padd/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/daniel30padd/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/daniel30padd/CVE-2026-3854">
 
 ---
 ## CVE-2026-38526 ()
