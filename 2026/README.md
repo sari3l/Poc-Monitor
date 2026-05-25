@@ -574,6 +574,8 @@
 - [yusufdalbudak/CVE-2026-42945](https://github.com/yusufdalbudak/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2026-42945">
 - [F2u0a0d3/CVE-2026-42945-nginx-rift-poc](https://github.com/F2u0a0d3/CVE-2026-42945-nginx-rift-poc)	<img alt="forks" src="https://img.shields.io/github/forks/F2u0a0d3/CVE-2026-42945-nginx-rift-poc">	<img alt="stars" src="https://img.shields.io/github/stars/F2u0a0d3/CVE-2026-42945-nginx-rift-poc">
 - [webdev75950-ux/nginx-rce-cve-2026-42945](https://github.com/webdev75950-ux/nginx-rce-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/webdev75950-ux/nginx-rce-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/webdev75950-ux/nginx-rce-cve-2026-42945">
+- [Ahmed-Soli/ingress-nginx-cve-2026-42945-backport](https://github.com/Ahmed-Soli/ingress-nginx-cve-2026-42945-backport)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmed-Soli/ingress-nginx-cve-2026-42945-backport">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmed-Soli/ingress-nginx-cve-2026-42945-backport">
+- [karakapaku43/CVE-2026-42945](https://github.com/karakapaku43/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/karakapaku43/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/karakapaku43/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -1179,6 +1181,11 @@
 ## CVE-2026-3629 ()
 > 
 - [PySecTools/CVE-2026-3629](https://github.com/PySecTools/CVE-2026-3629)	<img alt="forks" src="https://img.shields.io/github/forks/PySecTools/CVE-2026-3629">	<img alt="stars" src="https://img.shields.io/github/stars/PySecTools/CVE-2026-3629">
+
+---
+## CVE-2026-36239 ()
+> 
+- [TazmiDev/CVE-2026-36239](https://github.com/TazmiDev/CVE-2026-36239)	<img alt="forks" src="https://img.shields.io/github/forks/TazmiDev/CVE-2026-36239">	<img alt="stars" src="https://img.shields.io/github/stars/TazmiDev/CVE-2026-36239">
 
 ---
 ## CVE-2026-36229 ()
