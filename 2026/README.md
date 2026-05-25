@@ -399,6 +399,11 @@
 - [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
 
 ---
+## CVE-2026-45321 ()
+> 
+- [renewablehacking/CVE-2026-45321-Tanstack](https://github.com/renewablehacking/CVE-2026-45321-Tanstack)	<img alt="forks" src="https://img.shields.io/github/forks/renewablehacking/CVE-2026-45321-Tanstack">	<img alt="stars" src="https://img.shields.io/github/stars/renewablehacking/CVE-2026-45321-Tanstack">
+
+---
 ## CVE-2026-45185 ()
 > 
 - [liamromanis101/Dead.Letter-CVE-2026-45185](https://github.com/liamromanis101/Dead.Letter-CVE-2026-45185)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/Dead.Letter-CVE-2026-45185">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/Dead.Letter-CVE-2026-45185">
@@ -4139,6 +4144,7 @@
 - [bytehazard/CVE-2026-20700](https://github.com/bytehazard/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/bytehazard/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/bytehazard/CVE-2026-20700">
 - [sundenovak/CVE-2026-20700-An-analysis-WIP](https://github.com/sundenovak/CVE-2026-20700-An-analysis-WIP)	<img alt="forks" src="https://img.shields.io/github/forks/sundenovak/CVE-2026-20700-An-analysis-WIP">	<img alt="stars" src="https://img.shields.io/github/stars/sundenovak/CVE-2026-20700-An-analysis-WIP">
 - [R3n3r0/CVE-2026-20700](https://github.com/R3n3r0/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/R3n3r0/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/R3n3r0/CVE-2026-20700">
+- [notthemystery/CVE-2026-20700-POC-that-ll-never-work](https://github.com/notthemystery/CVE-2026-20700-POC-that-ll-never-work)	<img alt="forks" src="https://img.shields.io/github/forks/notthemystery/CVE-2026-20700-POC-that-ll-never-work">	<img alt="stars" src="https://img.shields.io/github/stars/notthemystery/CVE-2026-20700-POC-that-ll-never-work">
 
 ---
 ## CVE-2026-20698 ()
