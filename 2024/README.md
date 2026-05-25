@@ -5795,6 +5795,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [Koray123-debug/CVE-2024-34102](https://github.com/Koray123-debug/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Koray123-debug/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Koray123-debug/CVE-2024-34102">
 - [Kento-Sec/CVE-2024-34102](https://github.com/Kento-Sec/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Kento-Sec/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Kento-Sec/CVE-2024-34102">
 - [nmmorette/CVE-2024-34102](https://github.com/nmmorette/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/nmmorette/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/nmmorette/CVE-2024-34102">
+- [russellwork2021-lgtm/cosmicsting-cve-2024-34102-exploit](https://github.com/russellwork2021-lgtm/cosmicsting-cve-2024-34102-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/russellwork2021-lgtm/cosmicsting-cve-2024-34102-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/russellwork2021-lgtm/cosmicsting-cve-2024-34102-exploit">
 
 ---
 ## CVE-2024-3408 ()
