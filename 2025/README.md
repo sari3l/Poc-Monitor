@@ -5039,6 +5039,11 @@
 - [TeteuXD2/CVE-2025-5095-POC](https://github.com/TeteuXD2/CVE-2025-5095-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TeteuXD2/CVE-2025-5095-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TeteuXD2/CVE-2025-5095-POC">
 
 ---
+## CVE-2025-50946 ()
+> 
+- [runt1me/cve-2025-50946](https://github.com/runt1me/cve-2025-50946)	<img alt="forks" src="https://img.shields.io/github/forks/runt1me/cve-2025-50946">	<img alt="stars" src="https://img.shields.io/github/stars/runt1me/cve-2025-50946">
+
+---
 ## CVE-2025-50944 ()
 > 
 - [shinyColumn/CVE-2025-50944](https://github.com/shinyColumn/CVE-2025-50944)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-50944">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-50944">
