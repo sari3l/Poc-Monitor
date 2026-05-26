@@ -4219,6 +4219,7 @@
 - [SpeatX/React2Shell-CVE-2025-55182](https://github.com/SpeatX/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/SpeatX/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/SpeatX/React2Shell-CVE-2025-55182">
 - [Jenderal92/CVE-2025-55182-React2shell](https://github.com/Jenderal92/CVE-2025-55182-React2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2025-55182-React2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2025-55182-React2shell">
 - [lvx9101-ux/CVE-2025-55182](https://github.com/lvx9101-ux/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lvx9101-ux/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lvx9101-ux/CVE-2025-55182">
+- [Jeanback1/react-rsc-cve-2025-55182-lab](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/react-rsc-cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/react-rsc-cve-2025-55182-lab">
 
 ---
 ## CVE-2025-55130 ()

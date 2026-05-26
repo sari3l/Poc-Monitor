@@ -615,6 +615,7 @@
 - [Ahmed-Soli/ingress-nginx-cve-2026-42945-backport](https://github.com/Ahmed-Soli/ingress-nginx-cve-2026-42945-backport)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmed-Soli/ingress-nginx-cve-2026-42945-backport">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmed-Soli/ingress-nginx-cve-2026-42945-backport">
 - [karakapaku43/CVE-2026-42945](https://github.com/karakapaku43/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/karakapaku43/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/karakapaku43/CVE-2026-42945">
 - [bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR](https://github.com/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR)	<img alt="forks" src="https://img.shields.io/github/forks/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">	<img alt="stars" src="https://img.shields.io/github/stars/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">
+- [niekaicheng/CVE-2026-42945_NGINX_Rift](https://github.com/niekaicheng/CVE-2026-42945_NGINX_Rift)	<img alt="forks" src="https://img.shields.io/github/forks/niekaicheng/CVE-2026-42945_NGINX_Rift">	<img alt="stars" src="https://img.shields.io/github/stars/niekaicheng/CVE-2026-42945_NGINX_Rift">
 
 ---
 ## CVE-2026-42940 ()
@@ -4244,6 +4245,7 @@
 - [fangbarristerbar/CVE-2026-20182-POC](https://github.com/fangbarristerbar/CVE-2026-20182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fangbarristerbar/CVE-2026-20182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fangbarristerbar/CVE-2026-20182-POC">
 - [portbuster1337/CVE-2026-20182](https://github.com/portbuster1337/CVE-2026-20182)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-20182">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-20182">
 - [HORKimhab/CVE-2026-20182](https://github.com/HORKimhab/CVE-2026-20182)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20182">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20182">
+- [Nxploited/CVE-2026-20182](https://github.com/Nxploited/CVE-2026-20182)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-20182">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-20182">
 
 ---
 ## CVE-2026-20180 ()
