@@ -1980,6 +1980,7 @@
 - [hanianis/CVE-2025-63353](https://github.com/hanianis/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/hanianis/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/hanianis/CVE-2025-63353">
 - [0xA1M/CVE-2025-63353](https://github.com/0xA1M/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/0xA1M/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/0xA1M/CVE-2025-63353">
 - [r0otk3r/CVE-2025-63353](https://github.com/r0otk3r/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-63353">
+- [Zvckster/CVE-2025-63353](https://github.com/Zvckster/CVE-2025-63353)	<img alt="forks" src="https://img.shields.io/github/forks/Zvckster/CVE-2025-63353">	<img alt="stars" src="https://img.shields.io/github/stars/Zvckster/CVE-2025-63353">
 
 ---
 ## CVE-2025-6335 ()
