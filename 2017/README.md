@@ -1636,6 +1636,13 @@
 - [Live-Hack-CVE/CVE-2017-11654](https://github.com/Live-Hack-CVE/CVE-2017-11654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11654">
 
 ---
+## CVE-2017-11610 ()
+> 
+- [Dungsocool/CVE-2017-11610](https://github.com/Dungsocool/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-11610">
+- [yaunsky/CVE-2017-11610](https://github.com/yaunsky/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/CVE-2017-11610">
+- [ivanitlearning/CVE-2017-11610](https://github.com/ivanitlearning/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/ivanitlearning/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/ivanitlearning/CVE-2017-11610">
+
+---
 ## CVE-2017-11591 (2017-07-24T01:29:00)
 > There is a Floating point exception in the Exiv2::ValueType function in Exiv2 0.26 that will lead to a remote denial of service attack via crafted input.
 - [Live-Hack-CVE/CVE-2017-11591](https://github.com/Live-Hack-CVE/CVE-2017-11591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11591">

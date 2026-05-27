@@ -4415,6 +4415,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [BagheeraAltered/CVE-2023-35813-PoC](https://github.com/BagheeraAltered/CVE-2023-35813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BagheeraAltered/CVE-2023-35813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BagheeraAltered/CVE-2023-35813-PoC">
 - [her3ticAVI/CVE-2023-35813](https://github.com/her3ticAVI/CVE-2023-35813)	<img alt="forks" src="https://img.shields.io/github/forks/her3ticAVI/CVE-2023-35813">	<img alt="stars" src="https://img.shields.io/github/stars/her3ticAVI/CVE-2023-35813">
 - [Rezy-Dev/CVE-2023-35813](https://github.com/Rezy-Dev/CVE-2023-35813)	<img alt="forks" src="https://img.shields.io/github/forks/Rezy-Dev/CVE-2023-35813">	<img alt="stars" src="https://img.shields.io/github/stars/Rezy-Dev/CVE-2023-35813">
+- [nmlz/CVE-2023-35813_PoC](https://github.com/nmlz/CVE-2023-35813_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nmlz/CVE-2023-35813_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nmlz/CVE-2023-35813_PoC">
 
 ---
 ## CVE-2023-35803 (2023-10-04T22:15:00)
