@@ -5676,6 +5676,9 @@
 - [whoami-chmod777/CVE-2021-1675-CVE-2021-34527](https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/whoami-chmod777/CVE-2021-1675-CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/whoami-chmod777/CVE-2021-1675-CVE-2021-34527">
 - [TieuLong21Prosper/detect_bruteforce](https://github.com/TieuLong21Prosper/detect_bruteforce)	<img alt="forks" src="https://img.shields.io/github/forks/TieuLong21Prosper/detect_bruteforce">	<img alt="stars" src="https://img.shields.io/github/stars/TieuLong21Prosper/detect_bruteforce">
 - [AUSK1LL9/CVE-2021-34527](https://github.com/AUSK1LL9/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/AUSK1LL9/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/AUSK1LL9/CVE-2021-34527">
+- [AlDawli/CVE-2021-34527-](https://github.com/AlDawli/CVE-2021-34527-)	<img alt="forks" src="https://img.shields.io/github/forks/AlDawli/CVE-2021-34527-">	<img alt="stars" src="https://img.shields.io/github/stars/AlDawli/CVE-2021-34527-">
+- [ccordeiro/CVE-2021-1675](https://github.com/ccordeiro/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-1675">
+- [CameraShutterBug/PrintNightmare](https://github.com/CameraShutterBug/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/CameraShutterBug/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/CameraShutterBug/PrintNightmare">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)

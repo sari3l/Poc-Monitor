@@ -1,6 +1,11 @@
 # 2026 List
 
 ---
+## CVE-2026-999999 ()
+> 
+- [24520597-blip/CVE-2026-999999](https://github.com/24520597-blip/CVE-2026-999999)	<img alt="forks" src="https://img.shields.io/github/forks/24520597-blip/CVE-2026-999999">	<img alt="stars" src="https://img.shields.io/github/stars/24520597-blip/CVE-2026-999999">
+
+---
 ## CVE-2026-99999 ()
 > 
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
@@ -20,6 +25,8 @@
 - [ywh-jfellus/CVE-2026-9082](https://github.com/ywh-jfellus/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-9082">
 - [ridhinva/CVE-2026-9082](https://github.com/ridhinva/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-9082">
 - [N45HT/drupal-cve-2026-9082-checker](https://github.com/N45HT/drupal-cve-2026-9082-checker)	<img alt="forks" src="https://img.shields.io/github/forks/N45HT/drupal-cve-2026-9082-checker">	<img alt="stars" src="https://img.shields.io/github/stars/N45HT/drupal-cve-2026-9082-checker">
+- [thinhap/CVE-2026-9082-PoC](https://github.com/thinhap/CVE-2026-9082-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/thinhap/CVE-2026-9082-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/thinhap/CVE-2026-9082-PoC">
+- [strobelpierre/CVE-2026-9082](https://github.com/strobelpierre/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/strobelpierre/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/strobelpierre/CVE-2026-9082">
 
 ---
 ## CVE-2026-9018 ()
