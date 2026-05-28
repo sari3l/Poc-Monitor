@@ -37,6 +37,12 @@
 - [xxconi/CVE-2026-9018](https://github.com/xxconi/CVE-2026-9018)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-9018">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-9018">
 
 ---
+## CVE-2026-8832 ()
+> 
+- [funixone/EXPLOIT-CVE-2026-8832](https://github.com/funixone/EXPLOIT-CVE-2026-8832)	<img alt="forks" src="https://img.shields.io/github/forks/funixone/EXPLOIT-CVE-2026-8832">	<img alt="stars" src="https://img.shields.io/github/stars/funixone/EXPLOIT-CVE-2026-8832">
+- [funixone/EXPLOIT-CVE-2026-8832-](https://github.com/funixone/EXPLOIT-CVE-2026-8832-)	<img alt="forks" src="https://img.shields.io/github/forks/funixone/EXPLOIT-CVE-2026-8832-">	<img alt="stars" src="https://img.shields.io/github/stars/funixone/EXPLOIT-CVE-2026-8832-">
+
+---
 ## CVE-2026-8260 ()
 > 
 - [CryptReaper12/CVE-2026-8260](https://github.com/CryptReaper12/CVE-2026-8260)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-8260">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-8260">
@@ -2305,6 +2311,7 @@
 - [ridhinva/copyfail-checker](https://github.com/ridhinva/copyfail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/copyfail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/copyfail-checker">
 - [wh1sky02/copy-fail-python](https://github.com/wh1sky02/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/wh1sky02/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/wh1sky02/copy-fail-python">
 - [Iamliuxiaozhen/copy_fail](https://github.com/Iamliuxiaozhen/copy_fail)	<img alt="forks" src="https://img.shields.io/github/forks/Iamliuxiaozhen/copy_fail">	<img alt="stars" src="https://img.shields.io/github/stars/Iamliuxiaozhen/copy_fail">
+- [songzzzz/CVE-2026-31431](https://github.com/songzzzz/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/songzzzz/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/songzzzz/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
