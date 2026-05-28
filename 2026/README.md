@@ -14,6 +14,8 @@
 ## CVE-2026-9256 ()
 > 
 - [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
+- [W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256](https://github.com/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256">
+- [friparia/NGINX_RIFT_SCAN_CVE_2026_42945](https://github.com/friparia/NGINX_RIFT_SCAN_CVE_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">
 
 ---
 ## CVE-2026-9082 ()
@@ -629,6 +631,7 @@
 - [karakapaku43/CVE-2026-42945](https://github.com/karakapaku43/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/karakapaku43/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/karakapaku43/CVE-2026-42945">
 - [bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR](https://github.com/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR)	<img alt="forks" src="https://img.shields.io/github/forks/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">	<img alt="stars" src="https://img.shields.io/github/stars/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">
 - [niekaicheng/CVE-2026-42945_NGINX_Rift](https://github.com/niekaicheng/CVE-2026-42945_NGINX_Rift)	<img alt="forks" src="https://img.shields.io/github/forks/niekaicheng/CVE-2026-42945_NGINX_Rift">	<img alt="stars" src="https://img.shields.io/github/stars/niekaicheng/CVE-2026-42945_NGINX_Rift">
+- [quantumworld-dpdns-io/CVE-2026-42945](https://github.com/quantumworld-dpdns-io/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/quantumworld-dpdns-io/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/quantumworld-dpdns-io/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
