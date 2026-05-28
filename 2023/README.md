@@ -6811,6 +6811,11 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [guy2610/tough-cookie-patch-cve-2023-26136](https://github.com/guy2610/tough-cookie-patch-cve-2023-26136)	<img alt="forks" src="https://img.shields.io/github/forks/guy2610/tough-cookie-patch-cve-2023-26136">	<img alt="stars" src="https://img.shields.io/github/stars/guy2610/tough-cookie-patch-cve-2023-26136">
 
 ---
+## CVE-2023-26083 ()
+> 
+- [Noverisp3/CVE-2023-26083-Mali-InfoLeak-PoC](https://github.com/Noverisp3/CVE-2023-26083-Mali-InfoLeak-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Noverisp3/CVE-2023-26083-Mali-InfoLeak-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Noverisp3/CVE-2023-26083-Mali-InfoLeak-PoC">
+
+---
 ## CVE-2023-26067 (2023-04-10T20:15:00)
 > Certain Lexmark devices through 2023-02-19 mishandle Input Validation (issue 1 of 4).
 - [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-26067">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-26067">
