@@ -2413,6 +2413,7 @@
 ## CVE-2025-60751 ()
 > 
 - [zer0matt/CVE-2025-60751](https://github.com/zer0matt/CVE-2025-60751)	<img alt="forks" src="https://img.shields.io/github/forks/zer0matt/CVE-2025-60751">	<img alt="stars" src="https://img.shields.io/github/stars/zer0matt/CVE-2025-60751">
+- [kaleth4/CVE-2025-60751](https://github.com/kaleth4/CVE-2025-60751)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2025-60751">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2025-60751">
 
 ---
 ## CVE-2025-60749 ()
