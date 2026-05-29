@@ -946,6 +946,12 @@
 - [ossf-cve-benchmark/CVE-2017-18353](https://github.com/ossf-cve-benchmark/CVE-2017-18353)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-18353">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-18353">
 
 ---
+## CVE-2017-18349 ()
+> 
+- [Dungsocool/CVE-2017-18349](https://github.com/Dungsocool/CVE-2017-18349)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-18349">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-18349">
+- [h0cksr/Fastjson--CVE-2017-18349-](https://github.com/h0cksr/Fastjson--CVE-2017-18349-)	<img alt="forks" src="https://img.shields.io/github/forks/h0cksr/Fastjson--CVE-2017-18349-">	<img alt="stars" src="https://img.shields.io/github/stars/h0cksr/Fastjson--CVE-2017-18349-">
+
+---
 ## CVE-2017-18077 ()
 > 
 - [CQ-Tools/CVE-2017-18077-unfixed](https://github.com/CQ-Tools/CVE-2017-18077-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2017-18077-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2017-18077-unfixed">

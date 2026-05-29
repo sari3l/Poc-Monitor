@@ -928,6 +928,11 @@
 - [zebbernCVE/CVE-2026-40579](https://github.com/zebbernCVE/CVE-2026-40579)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-40579">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-40579">
 
 ---
+## CVE-2026-40564 ()
+> 
+- [oscerd/CVE-2026-40564](https://github.com/oscerd/CVE-2026-40564)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40564">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40564">
+
+---
 ## CVE-2026-40487 ()
 > 
 - [Astaruf/CVE-2026-40487](https://github.com/Astaruf/CVE-2026-40487)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-40487">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-40487">

@@ -6495,6 +6495,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [rifting/Zygotroller](https://github.com/rifting/Zygotroller)	<img alt="forks" src="https://img.shields.io/github/forks/rifting/Zygotroller">	<img alt="stars" src="https://img.shields.io/github/stars/rifting/Zygotroller">
 - [kalibb/CVE-2024-31317-Deployer](https://github.com/kalibb/CVE-2024-31317-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/kalibb/CVE-2024-31317-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/kalibb/CVE-2024-31317-Deployer">
 - [chengfeng30121/CVE-2024-31317-PoC](https://github.com/chengfeng30121/CVE-2024-31317-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chengfeng30121/CVE-2024-31317-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chengfeng30121/CVE-2024-31317-PoC">
+- [vnescape/zygote-CVE-2024-31317](https://github.com/vnescape/zygote-CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/vnescape/zygote-CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/vnescape/zygote-CVE-2024-31317">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
