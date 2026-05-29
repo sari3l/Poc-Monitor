@@ -491,6 +491,11 @@
 - [zzzm0919/CVE-2026-44648](https://github.com/zzzm0919/CVE-2026-44648)	<img alt="forks" src="https://img.shields.io/github/forks/zzzm0919/CVE-2026-44648">	<img alt="stars" src="https://img.shields.io/github/stars/zzzm0919/CVE-2026-44648">
 
 ---
+## CVE-2026-44596 ()
+> 
+- [ex-cal1bur/CVE-2026-44596](https://github.com/ex-cal1bur/CVE-2026-44596)	<img alt="forks" src="https://img.shields.io/github/forks/ex-cal1bur/CVE-2026-44596">	<img alt="stars" src="https://img.shields.io/github/stars/ex-cal1bur/CVE-2026-44596">
+
+---
 ## CVE-2026-44590 ()
 > 
 - [Astaruf/CVE-2026-44590](https://github.com/Astaruf/CVE-2026-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-44590">
