@@ -4221,6 +4221,8 @@
 - [Jenderal92/CVE-2025-55182-React2shell](https://github.com/Jenderal92/CVE-2025-55182-React2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2025-55182-React2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2025-55182-React2shell">
 - [lvx9101-ux/CVE-2025-55182](https://github.com/lvx9101-ux/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lvx9101-ux/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lvx9101-ux/CVE-2025-55182">
 - [Jeanback1/react-rsc-cve-2025-55182-lab](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/react-rsc-cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/react-rsc-cve-2025-55182-lab">
+- [LuizHenz/PoC-CVE-2025-55182](https://github.com/LuizHenz/PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LuizHenz/PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LuizHenz/PoC-CVE-2025-55182">
+- [sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough](https://github.com/sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough">
 
 ---
 ## CVE-2025-55130 ()
@@ -5865,6 +5867,7 @@
 > 
 - [B1ack4sh/Blackash-CVE-2025-47227](https://github.com/B1ack4sh/Blackash-CVE-2025-47227)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-47227">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-47227">
 - [synacktiv/CVE-2025-47227_CVE-2025-47228](https://github.com/synacktiv/CVE-2025-47227_CVE-2025-47228)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2025-47227_CVE-2025-47228">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2025-47227_CVE-2025-47228">
+- [Outs1d3r-Net/CVE-2025-47227](https://github.com/Outs1d3r-Net/CVE-2025-47227)	<img alt="forks" src="https://img.shields.io/github/forks/Outs1d3r-Net/CVE-2025-47227">	<img alt="stars" src="https://img.shields.io/github/stars/Outs1d3r-Net/CVE-2025-47227">
 
 ---
 ## CVE-2025-47226 ()
@@ -9000,6 +9003,7 @@
 - [hitchy22/xwiki-exploit](https://github.com/hitchy22/xwiki-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hitchy22/xwiki-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hitchy22/xwiki-exploit">
 - [TomKingori/xwiki-cve-2025-24893-exploit](https://github.com/TomKingori/xwiki-cve-2025-24893-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TomKingori/xwiki-cve-2025-24893-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TomKingori/xwiki-cve-2025-24893-exploit">
 - [nohack1212/CVE-2025-24893-](https://github.com/nohack1212/CVE-2025-24893-)	<img alt="forks" src="https://img.shields.io/github/forks/nohack1212/CVE-2025-24893-">	<img alt="stars" src="https://img.shields.io/github/stars/nohack1212/CVE-2025-24893-">
+- [hasecto/CVE-2025-24893](https://github.com/hasecto/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/hasecto/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/hasecto/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
