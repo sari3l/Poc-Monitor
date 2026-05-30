@@ -666,6 +666,7 @@
 - [Aiyakami/rust_dirtyfrag](https://github.com/Aiyakami/rust_dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/Aiyakami/rust_dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/Aiyakami/rust_dirtyfrag">
 - [jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC](https://github.com/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">
 - [DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag](https://github.com/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">
+- [K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT">
 
 ---
 ## CVE-2026-42945 ()
