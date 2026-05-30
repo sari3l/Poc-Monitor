@@ -10831,6 +10831,11 @@
 - [ENGWes/ColorOS-CVE-2025-10184](https://github.com/ENGWes/ColorOS-CVE-2025-10184)	<img alt="forks" src="https://img.shields.io/github/forks/ENGWes/ColorOS-CVE-2025-10184">	<img alt="stars" src="https://img.shields.io/github/stars/ENGWes/ColorOS-CVE-2025-10184">
 
 ---
+## CVE-2025-10162 ()
+> 
+- [diamorphine666/CVE-2025-10162-Exploit](https://github.com/diamorphine666/CVE-2025-10162-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2025-10162-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2025-10162-Exploit">
+
+---
 ## CVE-2025-10161 ()
 > 
 - [FeZqq/CVE-2025-10161](https://github.com/FeZqq/CVE-2025-10161)	<img alt="forks" src="https://img.shields.io/github/forks/FeZqq/CVE-2025-10161">	<img alt="stars" src="https://img.shields.io/github/stars/FeZqq/CVE-2025-10161">
