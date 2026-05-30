@@ -9702,6 +9702,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [TheMursalin/HTB-Mailing-A-Complete-Walkthrough](https://github.com/TheMursalin/HTB-Mailing-A-Complete-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/TheMursalin/HTB-Mailing-A-Complete-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/TheMursalin/HTB-Mailing-A-Complete-Walkthrough">
 - [Heera-V/CVE2024-21413](https://github.com/Heera-V/CVE2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/Heera-V/CVE2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/Heera-V/CVE2024-21413">
 - [E-m-e-k-a/Moniker-Link-Lab-Setup](https://github.com/E-m-e-k-a/Moniker-Link-Lab-Setup)	<img alt="forks" src="https://img.shields.io/github/forks/E-m-e-k-a/Moniker-Link-Lab-Setup">	<img alt="stars" src="https://img.shields.io/github/stars/E-m-e-k-a/Moniker-Link-Lab-Setup">
+- [Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)

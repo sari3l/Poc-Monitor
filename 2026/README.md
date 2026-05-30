@@ -123,6 +123,11 @@
 - [Xmyronn/CVE-2026-7393-RCE](https://github.com/Xmyronn/CVE-2026-7393-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7393-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7393-RCE">
 
 ---
+## CVE-2026-7392 ()
+> 
+- [microwaveabi/pharmacy-sqli-CVE-2026-7392](https://github.com/microwaveabi/pharmacy-sqli-CVE-2026-7392)	<img alt="forks" src="https://img.shields.io/github/forks/microwaveabi/pharmacy-sqli-CVE-2026-7392">	<img alt="stars" src="https://img.shields.io/github/stars/microwaveabi/pharmacy-sqli-CVE-2026-7392">
+
+---
 ## CVE-2026-7270 ()
 > 
 - [babyshen/freebsd-CVE-2026-7270](https://github.com/babyshen/freebsd-CVE-2026-7270)	<img alt="forks" src="https://img.shields.io/github/forks/babyshen/freebsd-CVE-2026-7270">	<img alt="stars" src="https://img.shields.io/github/stars/babyshen/freebsd-CVE-2026-7270">
@@ -708,6 +713,11 @@
 - [Akinfue/CVE-2026-42778-POC](https://github.com/Akinfue/CVE-2026-42778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Akinfue/CVE-2026-42778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Akinfue/CVE-2026-42778-POC">
 
 ---
+## CVE-2026-42589 ()
+> 
+- [fineman999/POC_CVE-2026-42589](https://github.com/fineman999/POC_CVE-2026-42589)	<img alt="forks" src="https://img.shields.io/github/forks/fineman999/POC_CVE-2026-42589">	<img alt="stars" src="https://img.shields.io/github/stars/fineman999/POC_CVE-2026-42589">
+
+---
 ## CVE-2026-4257 ()
 > 
 - [bootstrapbool/cve-2026-4257](https://github.com/bootstrapbool/cve-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/bootstrapbool/cve-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/bootstrapbool/cve-2026-4257">
@@ -738,6 +748,10 @@
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
 - [0xBlackash/CVE-2026-42208](https://github.com/0xBlackash/CVE-2026-42208)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42208">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42208">
+- [HAERIN-L/poc_cve-2026-42208](https://github.com/HAERIN-L/poc_cve-2026-42208)	<img alt="forks" src="https://img.shields.io/github/forks/HAERIN-L/poc_cve-2026-42208">	<img alt="stars" src="https://img.shields.io/github/stars/HAERIN-L/poc_cve-2026-42208">
+- [ridhinva/litellm-scanner](https://github.com/ridhinva/litellm-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/litellm-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/litellm-scanner">
+- [rootdirective-sec/cve-2026-42208-Lab](https://github.com/rootdirective-sec/cve-2026-42208-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/cve-2026-42208-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/cve-2026-42208-Lab">
+- [Zeltoc/threat-intel-brief-cve-2026-42208-litellm](https://github.com/Zeltoc/threat-intel-brief-cve-2026-42208-litellm)	<img alt="forks" src="https://img.shields.io/github/forks/Zeltoc/threat-intel-brief-cve-2026-42208-litellm">	<img alt="stars" src="https://img.shields.io/github/stars/Zeltoc/threat-intel-brief-cve-2026-42208-litellm">
 
 ---
 ## CVE-2026-42203 ()
@@ -3308,6 +3322,11 @@
 ## CVE-2026-25177 ()
 > 
 - [danaug23/detect_CVE-2026-25177](https://github.com/danaug23/detect_CVE-2026-25177)	<img alt="forks" src="https://img.shields.io/github/forks/danaug23/detect_CVE-2026-25177">	<img alt="stars" src="https://img.shields.io/github/stars/danaug23/detect_CVE-2026-25177">
+
+---
+## CVE-2026-25172 ()
+> 
+- [Dhananjayasj/RRAS-VULNERABILITY-CVE-2026-25172-CVE-2026-25173-CVE-2026--26111](https://github.com/Dhananjayasj/RRAS-VULNERABILITY-CVE-2026-25172-CVE-2026-25173-CVE-2026--26111)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/RRAS-VULNERABILITY-CVE-2026-25172-CVE-2026-25173-CVE-2026--26111">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/RRAS-VULNERABILITY-CVE-2026-25172-CVE-2026-25173-CVE-2026--26111">
 
 ---
 ## CVE-2026-25130 ()
