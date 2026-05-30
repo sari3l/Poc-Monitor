@@ -73,6 +73,7 @@
 ## CVE-2025-9485 ()
 > 
 - [jFriedli/CVE-2025-9485](https://github.com/jFriedli/CVE-2025-9485)	<img alt="forks" src="https://img.shields.io/github/forks/jFriedli/CVE-2025-9485">	<img alt="stars" src="https://img.shields.io/github/stars/jFriedli/CVE-2025-9485">
+- [ItsSunshineXD/CVE-2025-9485-PoC](https://github.com/ItsSunshineXD/CVE-2025-9485-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ItsSunshineXD/CVE-2025-9485-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ItsSunshineXD/CVE-2025-9485-PoC">
 
 ---
 ## CVE-2025-9435 ()
