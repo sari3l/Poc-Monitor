@@ -119,6 +119,11 @@
 - [kaleth4/CVE-2026-7482](https://github.com/kaleth4/CVE-2026-7482)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-7482">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-7482">
 
 ---
+## CVE-2026-7465 ()
+> 
+- [endangcamon/CVE-2026-7465-POC](https://github.com/endangcamon/CVE-2026-7465-POC)	<img alt="forks" src="https://img.shields.io/github/forks/endangcamon/CVE-2026-7465-POC">	<img alt="stars" src="https://img.shields.io/github/stars/endangcamon/CVE-2026-7465-POC">
+
+---
 ## CVE-2026-7458 ()
 > 
 - [zycoder0day/CVE-2026-7458](https://github.com/zycoder0day/CVE-2026-7458)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-7458">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-7458">
