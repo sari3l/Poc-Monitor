@@ -7253,7 +7253,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [0xNahim/CVE-2023-23752](https://github.com/0xNahim/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xNahim/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xNahim/CVE-2023-23752">
 - [adhikara13/CVE-2023-23752](https://github.com/adhikara13/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-23752">
 - [AkbarWiraN/Joomla-Scanner](https://github.com/AkbarWiraN/Joomla-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarWiraN/Joomla-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarWiraN/Joomla-Scanner">
-- [ThatNotEasy/CVE-2023-23752](https://github.com/ThatNotEasy/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-23752">
+- [Ap0dexMe0/CVE-2023-23752](https://github.com/Ap0dexMe0/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Ap0dexMe0/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Ap0dexMe0/CVE-2023-23752">
 - [equationsoftworks/Radiance](https://github.com/equationsoftworks/Radiance)	<img alt="forks" src="https://img.shields.io/github/forks/equationsoftworks/Radiance">	<img alt="stars" src="https://img.shields.io/github/stars/equationsoftworks/Radiance">
 - [octosec45/ms-word-rce-0day-poc-2023](https://github.com/octosec45/ms-word-rce-0day-poc-2023)	<img alt="forks" src="https://img.shields.io/github/forks/octosec45/ms-word-rce-0day-poc-2023">	<img alt="stars" src="https://img.shields.io/github/stars/octosec45/ms-word-rce-0day-poc-2023">
 - [wibuheker/Joomla-CVE-2023-23752](https://github.com/wibuheker/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/wibuheker/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/wibuheker/Joomla-CVE-2023-23752">
@@ -7291,6 +7291,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [rabeltester44/cve-2023-23752](https://github.com/rabeltester44/cve-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/rabeltester44/cve-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/rabeltester44/cve-2023-23752">
 - [0xVoodoo/CVE-2023-23752](https://github.com/0xVoodoo/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xVoodoo/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xVoodoo/CVE-2023-23752">
 - [m4nInTh3mIdDle/joomla-CVE-2023](https://github.com/m4nInTh3mIdDle/joomla-CVE-2023)	<img alt="forks" src="https://img.shields.io/github/forks/m4nInTh3mIdDle/joomla-CVE-2023">	<img alt="stars" src="https://img.shields.io/github/stars/m4nInTh3mIdDle/joomla-CVE-2023">
+- [Marwan651/Joomla-CMS-Full-Lifecycle-Pentest](https://github.com/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest)	<img alt="forks" src="https://img.shields.io/github/forks/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest">	<img alt="stars" src="https://img.shields.io/github/stars/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest">
 
 ---
 ## CVE-2023-2375 (2023-04-28T15:15:00)
