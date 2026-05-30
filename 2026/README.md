@@ -11,6 +11,11 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-9490 ()
+> 
+- [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
+
+---
 ## CVE-2026-9256 ()
 > 
 - [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
@@ -4734,6 +4739,7 @@
 ## CVE-2026-0257 ()
 > 
 - [akashsingh0454/CVE-2026-0257-PoC](https://github.com/akashsingh0454/CVE-2026-0257-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akashsingh0454/CVE-2026-0257-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akashsingh0454/CVE-2026-0257-PoC">
+- [0xBlackash/CVE-2026-0257](https://github.com/0xBlackash/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0257">
 
 ---
 ## CVE-2026-0227 ()
