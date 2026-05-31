@@ -495,6 +495,15 @@
 - [elvinsuleymanov/CVE-2026-45616](https://github.com/elvinsuleymanov/CVE-2026-45616)	<img alt="forks" src="https://img.shields.io/github/forks/elvinsuleymanov/CVE-2026-45616">	<img alt="stars" src="https://img.shields.io/github/stars/elvinsuleymanov/CVE-2026-45616">
 
 ---
+## CVE-2026-45585 ()
+> 
+- [0xBlackash/CVE-2026-45585](https://github.com/0xBlackash/CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-45585">
+- [andrei-majer/bitlocker-hardening](https://github.com/andrei-majer/bitlocker-hardening)	<img alt="forks" src="https://img.shields.io/github/forks/andrei-majer/bitlocker-hardening">	<img alt="stars" src="https://img.shields.io/github/stars/andrei-majer/bitlocker-hardening">
+- [Mclisterjoeh2o/yellowkey-bitlocker](https://github.com/Mclisterjoeh2o/yellowkey-bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Mclisterjoeh2o/yellowkey-bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Mclisterjoeh2o/yellowkey-bitlocker">
+- [everest90909/YellowKey-WinRE-Remediation](https://github.com/everest90909/YellowKey-WinRE-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/everest90909/YellowKey-WinRE-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/everest90909/YellowKey-WinRE-Remediation">
+- [bjbakker1984/Yellowkey-mitigation](https://github.com/bjbakker1984/Yellowkey-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/bjbakker1984/Yellowkey-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/bjbakker1984/Yellowkey-mitigation">
+
+---
 ## CVE-2026-45584 ()
 > 
 - [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
@@ -3799,6 +3808,9 @@
 - [luiskrnr/exploit-CVE-2026-23744](https://github.com/luiskrnr/exploit-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/luiskrnr/exploit-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/luiskrnr/exploit-CVE-2026-23744">
 - [w3nch/CVE-2026-23744](https://github.com/w3nch/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/w3nch/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/w3nch/CVE-2026-23744">
 - [SrGinebras/CVE-2026-23744-RCE-for-MCPjam-inspector-v1.4.2](https://github.com/SrGinebras/CVE-2026-23744-RCE-for-MCPjam-inspector-v1.4.2)	<img alt="forks" src="https://img.shields.io/github/forks/SrGinebras/CVE-2026-23744-RCE-for-MCPjam-inspector-v1.4.2">	<img alt="stars" src="https://img.shields.io/github/stars/SrGinebras/CVE-2026-23744-RCE-for-MCPjam-inspector-v1.4.2">
+- [thisisish/HTB-DevHub](https://github.com/thisisish/HTB-DevHub)	<img alt="forks" src="https://img.shields.io/github/forks/thisisish/HTB-DevHub">	<img alt="stars" src="https://img.shields.io/github/stars/thisisish/HTB-DevHub">
+- [p1ctur3p3rf3ct/CVE-2026-23744](https://github.com/p1ctur3p3rf3ct/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/p1ctur3p3rf3ct/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/p1ctur3p3rf3ct/CVE-2026-23744">
+- [SuriyaBoon/DevHub-HackTheBox-ss11](https://github.com/SuriyaBoon/DevHub-HackTheBox-ss11)	<img alt="forks" src="https://img.shields.io/github/forks/SuriyaBoon/DevHub-HackTheBox-ss11">	<img alt="stars" src="https://img.shields.io/github/stars/SuriyaBoon/DevHub-HackTheBox-ss11">
 
 ---
 ## CVE-2026-23723 ()
