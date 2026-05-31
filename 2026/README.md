@@ -608,6 +608,9 @@
 - [gagaltotal/CVE-2026-43284-CVE-2026-43500-scan](https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">
 - [XRSecCD/202605_dirty_frag](https://github.com/XRSecCD/202605_dirty_frag)	<img alt="forks" src="https://img.shields.io/github/forks/XRSecCD/202605_dirty_frag">	<img alt="stars" src="https://img.shields.io/github/stars/XRSecCD/202605_dirty_frag">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-43284-CVE-2026-43500-EXPLOIT">
+- [Koshmare-Blossom/DirtyFrag-go](https://github.com/Koshmare-Blossom/DirtyFrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/DirtyFrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/DirtyFrag-go">
+- [DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag](https://github.com/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/DylanClaudio/Reporte-de-Escalada-de-Privilegios-Local-Dirty-Frag">
 
 ---
 ## CVE-2026-4350 ()
@@ -4767,6 +4770,7 @@
 > 
 - [akashsingh0454/CVE-2026-0257-PoC](https://github.com/akashsingh0454/CVE-2026-0257-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akashsingh0454/CVE-2026-0257-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akashsingh0454/CVE-2026-0257-PoC">
 - [0xBlackash/CVE-2026-0257](https://github.com/0xBlackash/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0257">
+- [HORKimhab/CVE-2026-0257](https://github.com/HORKimhab/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0257">
 
 ---
 ## CVE-2026-0227 ()
