@@ -3917,6 +3917,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090](https://github.com/nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090">
 
 ---
+## CVE-2024-4309 ()
+> 
+- [Winslowe/CVE-2024-4309-Analysis](https://github.com/Winslowe/CVE-2024-4309-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Winslowe/CVE-2024-4309-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Winslowe/CVE-2024-4309-Analysis">
+
+---
 ## CVE-2024-43088 ()
 > 
 - [nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088](https://github.com/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088">
@@ -10710,6 +10715,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [sandesh9978/cve-2024-1086-lpe](https://github.com/sandesh9978/cve-2024-1086-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/sandesh9978/cve-2024-1086-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/sandesh9978/cve-2024-1086-lpe">
 - [vettrivel007/CVE-2024-1086](https://github.com/vettrivel007/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/vettrivel007/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/vettrivel007/CVE-2024-1086">
 - [ClaraSto/CVE-2024-1086_Ausarbeitung](https://github.com/ClaraSto/CVE-2024-1086_Ausarbeitung)	<img alt="forks" src="https://img.shields.io/github/forks/ClaraSto/CVE-2024-1086_Ausarbeitung">	<img alt="stars" src="https://img.shields.io/github/stars/ClaraSto/CVE-2024-1086_Ausarbeitung">
+- [b1nhack/CVE-2024-1086](https://github.com/b1nhack/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/b1nhack/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/b1nhack/CVE-2024-1086">
 
 ---
 ## CVE-2024-10858 ()
