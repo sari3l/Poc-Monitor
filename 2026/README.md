@@ -62,6 +62,7 @@
 > 
 - [Jenderal92/CVE-2026-8732](https://github.com/Jenderal92/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8732">
 - [xShadow-Here/CVE-2026-8732](https://github.com/xShadow-Here/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-8732">
+- [HORKimhab/CVE-2026-8732](https://github.com/HORKimhab/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8732">
 
 ---
 ## CVE-2026-8260 ()
