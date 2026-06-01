@@ -2859,6 +2859,7 @@
 ## CVE-2026-27886 ()
 > 
 - [BishopFox/CVE-2026-27886-check](https://github.com/BishopFox/CVE-2026-27886-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-27886-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-27886-check">
+- [EvtDanya/CVE-2026-27886](https://github.com/EvtDanya/CVE-2026-27886)	<img alt="forks" src="https://img.shields.io/github/forks/EvtDanya/CVE-2026-27886">	<img alt="stars" src="https://img.shields.io/github/stars/EvtDanya/CVE-2026-27886">
 
 ---
 ## CVE-2026-27884 ()
