@@ -299,6 +299,7 @@
 - [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
 - [mananispiwpiw/CVE-2025-8110-PoC](https://github.com/mananispiwpiw/CVE-2025-8110-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-8110-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-8110-PoC">
 - [get-xor/coreweave-demo-2026-05](https://github.com/get-xor/coreweave-demo-2026-05)	<img alt="forks" src="https://img.shields.io/github/forks/get-xor/coreweave-demo-2026-05">	<img alt="stars" src="https://img.shields.io/github/stars/get-xor/coreweave-demo-2026-05">
+- [SuriyaBoon/HackTheBox-Silentium](https://github.com/SuriyaBoon/HackTheBox-Silentium)	<img alt="forks" src="https://img.shields.io/github/forks/SuriyaBoon/HackTheBox-Silentium">	<img alt="stars" src="https://img.shields.io/github/stars/SuriyaBoon/HackTheBox-Silentium">
 
 ---
 ## CVE-2025-8088 ()
@@ -548,6 +549,7 @@
 > 
 - [kazisabu/CVE-2025-70849-Podinfo](https://github.com/kazisabu/CVE-2025-70849-Podinfo)	<img alt="forks" src="https://img.shields.io/github/forks/kazisabu/CVE-2025-70849-Podinfo">	<img alt="stars" src="https://img.shields.io/github/stars/kazisabu/CVE-2025-70849-Podinfo">
 - [deaprojects/CVE-2025-70849](https://github.com/deaprojects/CVE-2025-70849)	<img alt="forks" src="https://img.shields.io/github/forks/deaprojects/CVE-2025-70849">	<img alt="stars" src="https://img.shields.io/github/stars/deaprojects/CVE-2025-70849">
+- [HORKimhab/CVE-2025-70849](https://github.com/HORKimhab/CVE-2025-70849)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-70849">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-70849">
 
 ---
 ## CVE-2025-70830 ()
