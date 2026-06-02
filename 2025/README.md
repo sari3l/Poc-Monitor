@@ -2062,6 +2062,7 @@
 ## CVE-2025-62507 ()
 > 
 - [Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC](https://github.com/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">
+- [GartonChan/redis-cve-2025-62507](https://github.com/GartonChan/redis-cve-2025-62507)	<img alt="forks" src="https://img.shields.io/github/forks/GartonChan/redis-cve-2025-62507">	<img alt="stars" src="https://img.shields.io/github/stars/GartonChan/redis-cve-2025-62507">
 
 ---
 ## CVE-2025-62506 ()
