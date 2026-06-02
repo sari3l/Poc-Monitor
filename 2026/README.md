@@ -1408,6 +1408,11 @@
 - [NullByte8080/CVE-2026-36226](https://github.com/NullByte8080/CVE-2026-36226)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36226">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36226">
 
 ---
+## CVE-2026-3600 ()
+> 
+- [K3ysTr0K3R/CVE-2026-3600](https://github.com/K3ysTr0K3R/CVE-2026-3600)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-3600">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-3600">
+
+---
 ## CVE-2026-3587 ()
 > 
 - [z3r0h3ro/cve-2026-3587-poc](https://github.com/z3r0h3ro/cve-2026-3587-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/cve-2026-3587-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/cve-2026-3587-poc">
