@@ -606,7 +606,7 @@
 > 
 - [joshuavanderpoll/CVE-2025-69985](https://github.com/joshuavanderpoll/CVE-2025-69985)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-69985">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-69985">
 - [tianarsamm/CVE-2025-69985](https://github.com/tianarsamm/CVE-2025-69985)	<img alt="forks" src="https://img.shields.io/github/forks/tianarsamm/CVE-2025-69985">	<img alt="stars" src="https://img.shields.io/github/stars/tianarsamm/CVE-2025-69985">
-- [ladybugsaga/CVE-2025-69985-FUXA-Exploit](https://github.com/ladybugsaga/CVE-2025-69985-FUXA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ladybugsaga/CVE-2025-69985-FUXA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ladybugsaga/CVE-2025-69985-FUXA-Exploit">
+- [Professor-Archbishop/CVE-2025-69985-FUXA-Exploit](https://github.com/Professor-Archbishop/CVE-2025-69985-FUXA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Professor-Archbishop/CVE-2025-69985-FUXA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Professor-Archbishop/CVE-2025-69985-FUXA-Exploit">
 - [kaleth4/CVE-2025-69985](https://github.com/kaleth4/CVE-2025-69985)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2025-69985">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2025-69985">
 
 ---
