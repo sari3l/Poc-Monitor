@@ -10741,6 +10741,7 @@
 ## CVE-2025-10720 ()
 > 
 - [lorenzocamilli/CVE-2025-10720-PoC](https://github.com/lorenzocamilli/CVE-2025-10720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-10720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-10720-PoC">
+- [lorenzocamilli/CVE-2025-62950-PoC](https://github.com/lorenzocamilli/CVE-2025-62950-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-62950-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-62950-PoC">
 
 ---
 ## CVE-2025-10681 ()

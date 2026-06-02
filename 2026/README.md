@@ -530,6 +530,11 @@
 - [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
 
 ---
+## CVE-2026-45332 ()
+> 
+- [lorenzocamilli/CVE-2026-45332-PoC](https://github.com/lorenzocamilli/CVE-2026-45332-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2026-45332-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2026-45332-PoC">
+
+---
 ## CVE-2026-45321 ()
 > 
 - [renewablehacking/CVE-2026-45321-Tanstack](https://github.com/renewablehacking/CVE-2026-45321-Tanstack)	<img alt="forks" src="https://img.shields.io/github/forks/renewablehacking/CVE-2026-45321-Tanstack">	<img alt="stars" src="https://img.shields.io/github/stars/renewablehacking/CVE-2026-45321-Tanstack">
@@ -3853,6 +3858,7 @@
 - [afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744](https://github.com/afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/afifudinmtop/MCPJam-Inspector-1.4.2-Remote-Code-Execution-CVE-2026-23744">
 - [alisster00/CVE-2026-23744-RCE](https://github.com/alisster00/CVE-2026-23744-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/alisster00/CVE-2026-23744-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/alisster00/CVE-2026-23744-RCE">
 - [m2sousa/CVE-2026-23744](https://github.com/m2sousa/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2026-23744">
+- [TYehan/CVE-2026-23744](https://github.com/TYehan/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
