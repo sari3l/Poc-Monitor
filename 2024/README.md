@@ -2670,6 +2670,7 @@ length to be included in the checksum calculation is fully consumed.
 > 
 - [Mitchellzhou1/CVE-2024-48910-PoC](https://github.com/Mitchellzhou1/CVE-2024-48910-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mitchellzhou1/CVE-2024-48910-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mitchellzhou1/CVE-2024-48910-PoC">
 - [Alex-Acero-Security/CVE-2024-48910-POC](https://github.com/Alex-Acero-Security/CVE-2024-48910-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Alex-Acero-Security/CVE-2024-48910-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Alex-Acero-Security/CVE-2024-48910-POC">
+- [Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector](https://github.com/Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector">
 
 ---
 ## CVE-2024-48904 (2024-10-22T19:15:00)
@@ -5257,11 +5258,13 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [amoy6228/CVE-2024-36401_Geoserver_RCE_POC](https://github.com/amoy6228/CVE-2024-36401_Geoserver_RCE_POC)	<img alt="forks" src="https://img.shields.io/github/forks/amoy6228/CVE-2024-36401_Geoserver_RCE_POC">	<img alt="stars" src="https://img.shields.io/github/stars/amoy6228/CVE-2024-36401_Geoserver_RCE_POC">
 - [cochaviz/cve-2024-36401-poc](https://github.com/cochaviz/cve-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cochaviz/cve-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cochaviz/cve-2024-36401-poc">
 - [lowsuet/CVE-2024-36401](https://github.com/lowsuet/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/lowsuet/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/lowsuet/CVE-2024-36401">
-- [holokitty/Exploit-CVE-2024-36401](https://github.com/holokitty/Exploit-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/holokitty/Exploit-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/holokitty/Exploit-CVE-2024-36401">
+- [reveravip/Exploit-CVE-2024-36401](https://github.com/reveravip/Exploit-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/reveravip/Exploit-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/reveravip/Exploit-CVE-2024-36401">
 - [URJACK2025/CVE-2024-36401](https://github.com/URJACK2025/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/URJACK2025/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/URJACK2025/CVE-2024-36401">
 - [funnyDog896/CVE-2024-36401-WoodpeckerPlugin](https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin)	<img alt="forks" src="https://img.shields.io/github/forks/funnyDog896/CVE-2024-36401-WoodpeckerPlugin">	<img alt="stars" src="https://img.shields.io/github/stars/funnyDog896/CVE-2024-36401-WoodpeckerPlugin">
 - [azurejelly/cve-2024-36401-win](https://github.com/azurejelly/cve-2024-36401-win)	<img alt="forks" src="https://img.shields.io/github/forks/azurejelly/cve-2024-36401-win">	<img alt="stars" src="https://img.shields.io/github/stars/azurejelly/cve-2024-36401-win">
 - [mantanhacker/CVE-2024-36401-MASS](https://github.com/mantanhacker/CVE-2024-36401-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/mantanhacker/CVE-2024-36401-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/mantanhacker/CVE-2024-36401-MASS">
+- [DanieleGiovanardi2408/cve-2024-36401-geoserver-rce](https://github.com/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce)	<img alt="forks" src="https://img.shields.io/github/forks/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">	<img alt="stars" src="https://img.shields.io/github/stars/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">
+- [Delt-A/CVE-2024-36401-poc](https://github.com/Delt-A/CVE-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Delt-A/CVE-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Delt-A/CVE-2024-36401-poc">
 
 ---
 ## CVE-2024-3640 ()
