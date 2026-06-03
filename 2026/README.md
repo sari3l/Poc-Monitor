@@ -27,6 +27,7 @@
 - [W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256](https://github.com/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/W5M1n9/NGINX-ngx_http_rewrite_module-heap-buffer-overflow-CVE-2026-9256">
 - [friparia/NGINX_RIFT_SCAN_CVE_2026_42945](https://github.com/friparia/NGINX_RIFT_SCAN_CVE_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">
 - [3nou9h/CVE-2026-9256-Poc](https://github.com/3nou9h/CVE-2026-9256-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/3nou9h/CVE-2026-9256-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/3nou9h/CVE-2026-9256-Poc">
+- [06-ux/CVE-2026-9256-POC](https://github.com/06-ux/CVE-2026-9256-POC)	<img alt="forks" src="https://img.shields.io/github/forks/06-ux/CVE-2026-9256-POC">	<img alt="stars" src="https://img.shields.io/github/stars/06-ux/CVE-2026-9256-POC">
 
 ---
 ## CVE-2026-9082 ()
@@ -1019,6 +1020,8 @@
 - [0xBlackash/CVE-2026-41089](https://github.com/0xBlackash/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41089">
 - [0xABCD01/CVE-2026-41089](https://github.com/0xABCD01/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/0xABCD01/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/0xABCD01/CVE-2026-41089">
 - [sananpa/CVE-2026-41089](https://github.com/sananpa/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/sananpa/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/sananpa/CVE-2026-41089">
+- [hnytgl/CVE-2026-41089](https://github.com/hnytgl/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/CVE-2026-41089">
+- [hnytgl/cve-2026-41089-detector](https://github.com/hnytgl/cve-2026-41089-detector)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-41089-detector">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-41089-detector">
 
 ---
 ## CVE-2026-41044 ()
@@ -2749,6 +2752,11 @@
 - [padayali-JD/CVE-2026-29597](https://github.com/padayali-JD/CVE-2026-29597)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2026-29597">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2026-29597">
 
 ---
+## CVE-2026-29198 ()
+> 
+- [hieuminhnv/CVE-2026-29198-POC](https://github.com/hieuminhnv/CVE-2026-29198-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hieuminhnv/CVE-2026-29198-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hieuminhnv/CVE-2026-29198-POC">
+
+---
 ## CVE-2026-29187 ()
 > 
 - [ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4](https://github.com/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4">
@@ -3034,6 +3042,11 @@
 ## CVE-2026-27174 ()
 > 
 - [MaxMnMl/majordomo-CVE-2026-27174-poc](https://github.com/MaxMnMl/majordomo-CVE-2026-27174-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/majordomo-CVE-2026-27174-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/majordomo-CVE-2026-27174-poc">
+
+---
+## CVE-2026-27145 ()
+> 
+- [HORKimhab/CVE-2026-27145](https://github.com/HORKimhab/CVE-2026-27145)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-27145">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-27145">
 
 ---
 ## CVE-2026-27135 ()
