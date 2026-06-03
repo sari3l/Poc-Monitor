@@ -2670,7 +2670,7 @@ length to be included in the checksum calculation is fully consumed.
 > 
 - [Mitchellzhou1/CVE-2024-48910-PoC](https://github.com/Mitchellzhou1/CVE-2024-48910-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mitchellzhou1/CVE-2024-48910-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mitchellzhou1/CVE-2024-48910-PoC">
 - [Alex-Acero-Security/CVE-2024-48910-POC](https://github.com/Alex-Acero-Security/CVE-2024-48910-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Alex-Acero-Security/CVE-2024-48910-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Alex-Acero-Security/CVE-2024-48910-POC">
-- [Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector](https://github.com/Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2024-48910-dompurify-mxss-detector">
+- [Galaxy-sc/CVE-2024-48910-dompurify-xss-detector](https://github.com/Galaxy-sc/CVE-2024-48910-dompurify-xss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2024-48910-dompurify-xss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2024-48910-dompurify-xss-detector">
 
 ---
 ## CVE-2024-48904 (2024-10-22T19:15:00)

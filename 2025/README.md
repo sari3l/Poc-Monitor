@@ -6671,6 +6671,11 @@
 - [zigzagymym1986/CVE-2025-40547](https://github.com/zigzagymym1986/CVE-2025-40547)	<img alt="forks" src="https://img.shields.io/github/forks/zigzagymym1986/CVE-2025-40547">	<img alt="stars" src="https://img.shields.io/github/stars/zigzagymym1986/CVE-2025-40547">
 
 ---
+## CVE-2025-40536 ()
+> 
+- [victoriaalicex/CVE-2025-40536-Analysis](https://github.com/victoriaalicex/CVE-2025-40536-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/victoriaalicex/CVE-2025-40536-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/victoriaalicex/CVE-2025-40536-Analysis">
+
+---
 ## CVE-2025-40271 ()
 > 
 - [kaleth4/CVE-2025-40271](https://github.com/kaleth4/CVE-2025-40271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2025-40271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2025-40271">
