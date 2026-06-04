@@ -1739,6 +1739,7 @@
 ## CVE-2026-33829 ()
 > 
 - [rahultb-sec/CVE-2026-33829-Writeup](https://github.com/rahultb-sec/CVE-2026-33829-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/rahultb-sec/CVE-2026-33829-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/rahultb-sec/CVE-2026-33829-Writeup">
+- [tiffanykarihi23/CVE-2026-33829](https://github.com/tiffanykarihi23/CVE-2026-33829)	<img alt="forks" src="https://img.shields.io/github/forks/tiffanykarihi23/CVE-2026-33829">	<img alt="stars" src="https://img.shields.io/github/stars/tiffanykarihi23/CVE-2026-33829">
 
 ---
 ## CVE-2026-33826 ()
@@ -3899,6 +3900,13 @@
 - [Ch35h1r3c47/CVE-2026-23723-POC](https://github.com/Ch35h1r3c47/CVE-2026-23723-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ch35h1r3c47/CVE-2026-23723-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ch35h1r3c47/CVE-2026-23723-POC">
 
 ---
+## CVE-2026-23631 ()
+> 
+- [HORKimhab/CVE-2026-23631](https://github.com/HORKimhab/CVE-2026-23631)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-23631">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-23631">
+- [yoyosh/DarkReplica](https://github.com/yoyosh/DarkReplica)	<img alt="forks" src="https://img.shields.io/github/forks/yoyosh/DarkReplica">	<img alt="stars" src="https://img.shields.io/github/stars/yoyosh/DarkReplica">
+- [mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS](https://github.com/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS">
+
+---
 ## CVE-2026-23550 ()
 > 
 - [cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector">
@@ -4064,6 +4072,11 @@
 ## CVE-2026-22610 ()
 > 
 - [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610)	<img alt="forks" src="https://img.shields.io/github/forks/ashizZz/CVE-2026-22610">	<img alt="stars" src="https://img.shields.io/github/stars/ashizZz/CVE-2026-22610">
+
+---
+## CVE-2026-2256 ()
+> 
+- [mruniversity/CVE-2026-2256-](https://github.com/mruniversity/CVE-2026-2256-)	<img alt="forks" src="https://img.shields.io/github/forks/mruniversity/CVE-2026-2256-">	<img alt="stars" src="https://img.shields.io/github/stars/mruniversity/CVE-2026-2256-">
 
 ---
 ## CVE-2026-22557 ()
