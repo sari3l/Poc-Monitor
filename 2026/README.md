@@ -3187,6 +3187,11 @@
 - [ali-py3/exploi-CVE-2026-2670](https://github.com/ali-py3/exploi-CVE-2026-2670)	<img alt="forks" src="https://img.shields.io/github/forks/ali-py3/exploi-CVE-2026-2670">	<img alt="stars" src="https://img.shields.io/github/stars/ali-py3/exploi-CVE-2026-2670">
 
 ---
+## CVE-2026-26555 ()
+> 
+- [horrister/axios-supply-chain-cve-2026-26555](https://github.com/horrister/axios-supply-chain-cve-2026-26555)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/axios-supply-chain-cve-2026-26555">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/axios-supply-chain-cve-2026-26555">
+
+---
 ## CVE-2026-26418 ()
 > 
 - [aksalsalimi/CVE-2026-26418](https://github.com/aksalsalimi/CVE-2026-26418)	<img alt="forks" src="https://img.shields.io/github/forks/aksalsalimi/CVE-2026-26418">	<img alt="stars" src="https://img.shields.io/github/stars/aksalsalimi/CVE-2026-26418">
@@ -3988,6 +3993,11 @@
 ## CVE-2026-23491 ()
 > 
 - [lukasz-rybak/CVE-2026-23491](https://github.com/lukasz-rybak/CVE-2026-23491)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-23491">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-23491">
+
+---
+## CVE-2026-23479 ()
+> 
+- [pduggusa/redis-cve-2026-23479-check](https://github.com/pduggusa/redis-cve-2026-23479-check)	<img alt="forks" src="https://img.shields.io/github/forks/pduggusa/redis-cve-2026-23479-check">	<img alt="stars" src="https://img.shields.io/github/stars/pduggusa/redis-cve-2026-23479-check">
 
 ---
 ## CVE-2026-23478 ()

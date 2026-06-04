@@ -1302,6 +1302,7 @@ Users are recommended to upgrade to version 18.12.10
 - [jpselva/CVE-2023-4863](https://github.com/jpselva/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/jpselva/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/jpselva/CVE-2023-4863">
 - [pixelotes/lab-cve-2023-4863](https://github.com/pixelotes/lab-cve-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/pixelotes/lab-cve-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/pixelotes/lab-cve-2023-4863">
 - [577Industries/aegisgraph](https://github.com/577Industries/aegisgraph)	<img alt="forks" src="https://img.shields.io/github/forks/577Industries/aegisgraph">	<img alt="stars" src="https://img.shields.io/github/stars/577Industries/aegisgraph">
+- [Shcesama/cve-2023-4863-analysis](https://github.com/Shcesama/cve-2023-4863-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Shcesama/cve-2023-4863-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Shcesama/cve-2023-4863-analysis">
 
 ---
 ## CVE-2023-48292 ()
