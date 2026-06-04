@@ -10114,6 +10114,7 @@ critical systems.
 - [kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kamranhasan/CVE-2024-1698-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kamranhasan/CVE-2024-1698-Exploit">
 - [shanglyu/CVE-2024-1698](https://github.com/shanglyu/CVE-2024-1698)	<img alt="forks" src="https://img.shields.io/github/forks/shanglyu/CVE-2024-1698">	<img alt="stars" src="https://img.shields.io/github/stars/shanglyu/CVE-2024-1698">
 - [jesicatjan/WordPress-NotificationX-CVE-2024-1698](https://github.com/jesicatjan/WordPress-NotificationX-CVE-2024-1698)	<img alt="forks" src="https://img.shields.io/github/forks/jesicatjan/WordPress-NotificationX-CVE-2024-1698">	<img alt="stars" src="https://img.shields.io/github/stars/jesicatjan/WordPress-NotificationX-CVE-2024-1698">
+- [Dhananjayasj/CVE-2024-1698-NotificationX-WordPress-Plugin-SQL-Injection-to-Admin-Credential-Extraction](https://github.com/Dhananjayasj/CVE-2024-1698-NotificationX-WordPress-Plugin-SQL-Injection-to-Admin-Credential-Extraction)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2024-1698-NotificationX-WordPress-Plugin-SQL-Injection-to-Admin-Credential-Extraction">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2024-1698-NotificationX-WordPress-Plugin-SQL-Injection-to-Admin-Credential-Extraction">
 
 ---
 ## CVE-2024-1655 (2024-04-15T04:15:00)
