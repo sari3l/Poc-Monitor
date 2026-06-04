@@ -2912,6 +2912,7 @@ use after free.
 > An issue was discovered in Django 1.11.x before 1.11.23, 2.1.x before 2.1.11, and 2.2.x before 2.2.4. Due to an error in shallow key transformation, key and index lookups for django.contrib.postgres.fields.JSONField, and key lookups for django.contrib.postgres.fields.HStoreField, were subject to SQL injection. This could, for example, be exploited via crafted use of "OR 1=1" in a key or index name to return all records, using a suitably crafted dictionary, with dictionary expansion, as the **kwargs passed to the QuerySet.filter() function.
 - [malvika-thakur/CVE-2019-14234](https://github.com/malvika-thakur/CVE-2019-14234)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2019-14234">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2019-14234">
 - [Rivaill/CVE_2019_14234](https://github.com/Rivaill/CVE_2019_14234)	<img alt="forks" src="https://img.shields.io/github/forks/Rivaill/CVE_2019_14234">	<img alt="stars" src="https://img.shields.io/github/stars/Rivaill/CVE_2019_14234">
+- [giuliodamico/CVE-2019-14234](https://github.com/giuliodamico/CVE-2019-14234)	<img alt="forks" src="https://img.shields.io/github/forks/giuliodamico/CVE-2019-14234">	<img alt="stars" src="https://img.shields.io/github/stars/giuliodamico/CVE-2019-14234">
 
 ---
 ## CVE-2019-14224 ()
