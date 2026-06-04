@@ -2127,6 +2127,11 @@
 - [ridhinva/npm-tar-path-traversal-scanner](https://github.com/ridhinva/npm-tar-path-traversal-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/npm-tar-path-traversal-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/npm-tar-path-traversal-scanner">
 
 ---
+## CVE-2026-3180 ()
+> 
+- [cardosource/cve-2026-3180](https://github.com/cardosource/cve-2026-3180)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/cve-2026-3180">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/cve-2026-3180">
+
+---
 ## CVE-2026-31717 ()
 > 
 - [TurtleARM/CVE-2026-31717-KSMBD-Exploit](https://github.com/TurtleARM/CVE-2026-31717-KSMBD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2026-31717-KSMBD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2026-31717-KSMBD-Exploit">
