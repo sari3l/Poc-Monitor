@@ -1060,6 +1060,9 @@
 - [ADScanPro/CVE-2026-41089-LongLogon](https://github.com/ADScanPro/CVE-2026-41089-LongLogon)	<img alt="forks" src="https://img.shields.io/github/forks/ADScanPro/CVE-2026-41089-LongLogon">	<img alt="stars" src="https://img.shields.io/github/stars/ADScanPro/CVE-2026-41089-LongLogon">
 - [Darkuoremember32/CVE-2026-41089-532](https://github.com/Darkuoremember32/CVE-2026-41089-532)	<img alt="forks" src="https://img.shields.io/github/forks/Darkuoremember32/CVE-2026-41089-532">	<img alt="stars" src="https://img.shields.io/github/stars/Darkuoremember32/CVE-2026-41089-532">
 - [Vanquishermacdetach/CVE-2026-41089-509](https://github.com/Vanquishermacdetach/CVE-2026-41089-509)	<img alt="forks" src="https://img.shields.io/github/forks/Vanquishermacdetach/CVE-2026-41089-509">	<img alt="stars" src="https://img.shields.io/github/stars/Vanquishermacdetach/CVE-2026-41089-509">
+- [CrowEvaluate/CVE-2026-41089-646](https://github.com/CrowEvaluate/CVE-2026-41089-646)	<img alt="forks" src="https://img.shields.io/github/forks/CrowEvaluate/CVE-2026-41089-646">	<img alt="stars" src="https://img.shields.io/github/stars/CrowEvaluate/CVE-2026-41089-646">
+- [Retrodraseparator/CVE-2026-41089-874](https://github.com/Retrodraseparator/CVE-2026-41089-874)	<img alt="forks" src="https://img.shields.io/github/forks/Retrodraseparator/CVE-2026-41089-874">	<img alt="stars" src="https://img.shields.io/github/stars/Retrodraseparator/CVE-2026-41089-874">
+- [Darkuoremember32/CVE-2026-41089-470](https://github.com/Darkuoremember32/CVE-2026-41089-470)	<img alt="forks" src="https://img.shields.io/github/forks/Darkuoremember32/CVE-2026-41089-470">	<img alt="stars" src="https://img.shields.io/github/stars/Darkuoremember32/CVE-2026-41089-470">
 
 ---
 ## CVE-2026-41044 ()
