@@ -4232,6 +4232,7 @@
 - [sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough](https://github.com/sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough">
 - [K3ysTr0K3R/CVE-2025-55182-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2025-55182-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-55182-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-55182-EXPLOIT">
 - [hakkuri01/r2rs](https://github.com/hakkuri01/r2rs)	<img alt="forks" src="https://img.shields.io/github/forks/hakkuri01/r2rs">	<img alt="stars" src="https://img.shields.io/github/stars/hakkuri01/r2rs">
+- [tanvirahmedcs/CVE-2025-55182](https://github.com/tanvirahmedcs/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tanvirahmedcs/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tanvirahmedcs/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
