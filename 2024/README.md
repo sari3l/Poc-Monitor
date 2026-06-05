@@ -5815,6 +5815,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 ## CVE-2024-34070 ()
 > 
 - [Akira07210/Exploit-CVE-2024-34070](https://github.com/Akira07210/Exploit-CVE-2024-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Akira07210/Exploit-CVE-2024-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Akira07210/Exploit-CVE-2024-34070">
+- [Okymi-X/CVE-2024-34070](https://github.com/Okymi-X/CVE-2024-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Okymi-X/CVE-2024-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Okymi-X/CVE-2024-34070">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
