@@ -4975,6 +4975,7 @@
 - [ridhinva/CVE-2026-0073-ADBD-Bypass](https://github.com/ridhinva/CVE-2026-0073-ADBD-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-0073-ADBD-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-0073-ADBD-Bypass">
 - [thakur2309/CVE-2026-0073-ZERO-CLICK](https://github.com/thakur2309/CVE-2026-0073-ZERO-CLICK)	<img alt="forks" src="https://img.shields.io/github/forks/thakur2309/CVE-2026-0073-ZERO-CLICK">	<img alt="stars" src="https://img.shields.io/github/stars/thakur2309/CVE-2026-0073-ZERO-CLICK">
 - [m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass](https://github.com/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">
+- [fredevsec/CVE-2026-0073](https://github.com/fredevsec/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/fredevsec/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/fredevsec/CVE-2026-0073">
 
 ---
 ## CVE-2026-0047 ()
