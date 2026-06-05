@@ -3378,6 +3378,11 @@
 - [Bhanunamikaze/CVE-2026-2587-Exploit-POC](https://github.com/Bhanunamikaze/CVE-2026-2587-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/CVE-2026-2587-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/CVE-2026-2587-Exploit-POC">
 
 ---
+## CVE-2026-25860 ()
+> 
+- [partywavesec/CVE-2026-25860](https://github.com/partywavesec/CVE-2026-25860)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2026-25860">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2026-25860">
+
+---
 ## CVE-2026-25857 ()
 > 
 - [eeeeeeeeeevan/CVE-2026-25857](https://github.com/eeeeeeeeeevan/CVE-2026-25857)	<img alt="forks" src="https://img.shields.io/github/forks/eeeeeeeeeevan/CVE-2026-25857">	<img alt="stars" src="https://img.shields.io/github/stars/eeeeeeeeeevan/CVE-2026-25857">
