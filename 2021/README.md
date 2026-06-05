@@ -1163,6 +1163,7 @@
 - [pinaraltinok/Log4Shell-Attack](https://github.com/pinaraltinok/Log4Shell-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/pinaraltinok/Log4Shell-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/pinaraltinok/Log4Shell-Attack">
 - [jdormannn/SecureOps-Lab](https://github.com/jdormannn/SecureOps-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/jdormannn/SecureOps-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/jdormannn/SecureOps-Lab">
 - [jomjosh17/Log4Shell-CVE-2021-44228-](https://github.com/jomjosh17/Log4Shell-CVE-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/jomjosh17/Log4Shell-CVE-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/jomjosh17/Log4Shell-CVE-2021-44228-">
+- [horrister/log4shell-cve-2021-44228](https://github.com/horrister/log4shell-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/log4shell-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/log4shell-cve-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
