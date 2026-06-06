@@ -5718,6 +5718,9 @@
 ## CVE-2020-10148 (2020-12-29T22:15:00)
 > The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.
 - [Live-Hack-CVE/CVE-2020-10148](https://github.com/Live-Hack-CVE/CVE-2020-10148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10148">
+- [horrister/solarwinds-sunburst-cve-2020-10148](https://github.com/horrister/solarwinds-sunburst-cve-2020-10148)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/solarwinds-sunburst-cve-2020-10148">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/solarwinds-sunburst-cve-2020-10148">
+- [B1anda0/CVE-2020-10148](https://github.com/B1anda0/CVE-2020-10148)	<img alt="forks" src="https://img.shields.io/github/forks/B1anda0/CVE-2020-10148">	<img alt="stars" src="https://img.shields.io/github/stars/B1anda0/CVE-2020-10148">
+- [rdoix/CVE-2020-10148-Solarwinds-Orion](https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion)	<img alt="forks" src="https://img.shields.io/github/forks/rdoix/CVE-2020-10148-Solarwinds-Orion">	<img alt="stars" src="https://img.shields.io/github/stars/rdoix/CVE-2020-10148-Solarwinds-Orion">
 
 ---
 ## CVE-2020-10132 (2023-09-06T19:15:00)
