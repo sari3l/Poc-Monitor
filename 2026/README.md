@@ -2986,6 +2986,11 @@
 - [kalibb/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation-main](https://github.com/kalibb/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation-main)	<img alt="forks" src="https://img.shields.io/github/forks/kalibb/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation-main">	<img alt="stars" src="https://img.shields.io/github/stars/kalibb/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation-main">
 
 ---
+## CVE-2026-28318 ()
+> 
+- [johnniebozura31/CVE-2026-28318](https://github.com/johnniebozura31/CVE-2026-28318)	<img alt="forks" src="https://img.shields.io/github/forks/johnniebozura31/CVE-2026-28318">	<img alt="stars" src="https://img.shields.io/github/stars/johnniebozura31/CVE-2026-28318">
+
+---
 ## CVE-2026-28289 ()
 > 
 - [0xAshwesker/CVE-2026-28289](https://github.com/0xAshwesker/CVE-2026-28289)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-28289">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-28289">

@@ -2999,7 +2999,7 @@
 > 
 - [rxerium/CVE-2025-57819](https://github.com/rxerium/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-57819">
 - [Sucuri-Labs/CVE-2025-57819-ioc-check](https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check)	<img alt="forks" src="https://img.shields.io/github/forks/Sucuri-Labs/CVE-2025-57819-ioc-check">	<img alt="stars" src="https://img.shields.io/github/stars/Sucuri-Labs/CVE-2025-57819-ioc-check">
-- [brokendreamsclub/CVE-2025-57819](https://github.com/brokendreamsclub/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/brokendreamsclub/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/brokendreamsclub/CVE-2025-57819">
+- [blueisbeautiful/CVE-2025-57819](https://github.com/blueisbeautiful/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-57819">
 - [net-hex/CVE-2025-57819](https://github.com/net-hex/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/net-hex/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/net-hex/CVE-2025-57819">
 - [ImBIOS/lab-cve-2025-57819](https://github.com/ImBIOS/lab-cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2025-57819">
 - [B1ack4sh/Blackash-CVE-2025-57819](https://github.com/B1ack4sh/Blackash-CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-57819">
@@ -3008,6 +3008,8 @@
 - [xV4nd3Rx/CVE-2025-57819_FreePBX-PoC](https://github.com/xV4nd3Rx/CVE-2025-57819_FreePBX-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xV4nd3Rx/CVE-2025-57819_FreePBX-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xV4nd3Rx/CVE-2025-57819_FreePBX-PoC">
 - [orange0Mint/CVE-2025-57819_FreePBX](https://github.com/orange0Mint/CVE-2025-57819_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/orange0Mint/CVE-2025-57819_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/orange0Mint/CVE-2025-57819_FreePBX">
 - [JakovBis/CVE-2025-57819_FreePBX-PoC](https://github.com/JakovBis/CVE-2025-57819_FreePBX-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JakovBis/CVE-2025-57819_FreePBX-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JakovBis/CVE-2025-57819_FreePBX-PoC">
+- [b4sh2/CVE-2025-57819-poc](https://github.com/b4sh2/CVE-2025-57819-poc)	<img alt="forks" src="https://img.shields.io/github/forks/b4sh2/CVE-2025-57819-poc">	<img alt="stars" src="https://img.shields.io/github/stars/b4sh2/CVE-2025-57819-poc">
+- [cybertechajju/cve-2025-57819](https://github.com/cybertechajju/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/cve-2025-57819">
 
 ---
 ## CVE-2025-57773 ()
