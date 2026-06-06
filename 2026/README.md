@@ -415,6 +415,11 @@
 - [Bhanunamikaze/BadHost-CVE-2026-48710-Exploit](https://github.com/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">
 
 ---
+## CVE-2026-48595 ()
+> 
+- [erickando33/CVE-2026-48595](https://github.com/erickando33/CVE-2026-48595)	<img alt="forks" src="https://img.shields.io/github/forks/erickando33/CVE-2026-48595">	<img alt="stars" src="https://img.shields.io/github/stars/erickando33/CVE-2026-48595">
+
+---
 ## CVE-2026-4821 ()
 > 
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
@@ -1336,6 +1341,7 @@
 - [sahmsec/CVE-2026-3844](https://github.com/sahmsec/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-3844">
 - [rootdirective-sec/CVE-2026-3844-Lab](https://github.com/rootdirective-sec/CVE-2026-3844-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-3844-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-3844-Lab">
 - [zycoder0day/CVE-2026-3844](https://github.com/zycoder0day/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-3844">
+- [Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution](https://github.com/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution">
 
 ---
 ## CVE-2026-38427 ()
