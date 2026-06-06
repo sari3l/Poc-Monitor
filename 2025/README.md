@@ -4235,6 +4235,7 @@
 - [tanvirahmedcs/CVE-2025-55182](https://github.com/tanvirahmedcs/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tanvirahmedcs/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tanvirahmedcs/CVE-2025-55182">
 - [yurahshell/CVE-2025-55182](https://github.com/yurahshell/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2025-55182">
 - [yurahshell/CVE-2025-55182](https://github.com/yurahshell/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2025-55182">
+- [rvzsec/react2shell](https://github.com/rvzsec/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/react2shell">
 
 ---
 ## CVE-2025-55130 ()
