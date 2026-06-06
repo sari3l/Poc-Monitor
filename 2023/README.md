@@ -1742,6 +1742,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [mkdemir/activemq-lockbit-analysis](https://github.com/mkdemir/activemq-lockbit-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mkdemir/activemq-lockbit-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mkdemir/activemq-lockbit-analysis">
 - [KlaasStessens/CVE-2023-46604](https://github.com/KlaasStessens/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/KlaasStessens/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/KlaasStessens/CVE-2023-46604">
 - [trnguyen03/activemq-ids-ips-lab](https://github.com/trnguyen03/activemq-ids-ips-lab)	<img alt="forks" src="https://img.shields.io/github/forks/trnguyen03/activemq-ids-ips-lab">	<img alt="stars" src="https://img.shields.io/github/stars/trnguyen03/activemq-ids-ips-lab">
+- [REGGYRAIDER/CVE-2023-46604-RCE](https://github.com/REGGYRAIDER/CVE-2023-46604-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/REGGYRAIDER/CVE-2023-46604-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/REGGYRAIDER/CVE-2023-46604-RCE">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)
