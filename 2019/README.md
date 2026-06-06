@@ -901,6 +901,11 @@
 - [vpxuser/CVE-2019-5544](https://github.com/vpxuser/CVE-2019-5544)	<img alt="forks" src="https://img.shields.io/github/forks/vpxuser/CVE-2019-5544">	<img alt="stars" src="https://img.shields.io/github/stars/vpxuser/CVE-2019-5544">
 
 ---
+## CVE-2019-5513 ()
+> 
+- [sudosu01/CVE-2019-5513-scanner](https://github.com/sudosu01/CVE-2019-5513-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sudosu01/CVE-2019-5513-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sudosu01/CVE-2019-5513-scanner">
+
+---
 ## CVE-2019-5484 ()
 > 
 - [CQ-Tools/CVE-2019-5484-unfixed](https://github.com/CQ-Tools/CVE-2019-5484-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-5484-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-5484-unfixed">
