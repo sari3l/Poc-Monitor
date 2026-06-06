@@ -1112,6 +1112,8 @@
 - [FlintWayRage/CVE-2026-41089-310](https://github.com/FlintWayRage/CVE-2026-41089-310)	<img alt="forks" src="https://img.shields.io/github/forks/FlintWayRage/CVE-2026-41089-310">	<img alt="stars" src="https://img.shields.io/github/stars/FlintWayRage/CVE-2026-41089-310">
 - [Powderbatpatch/CVE-2026-41089-397](https://github.com/Powderbatpatch/CVE-2026-41089-397)	<img alt="forks" src="https://img.shields.io/github/forks/Powderbatpatch/CVE-2026-41089-397">	<img alt="stars" src="https://img.shields.io/github/stars/Powderbatpatch/CVE-2026-41089-397">
 - [StampDreamFitting/CVE-2026-41089-986](https://github.com/StampDreamFitting/CVE-2026-41089-986)	<img alt="forks" src="https://img.shields.io/github/forks/StampDreamFitting/CVE-2026-41089-986">	<img alt="stars" src="https://img.shields.io/github/stars/StampDreamFitting/CVE-2026-41089-986">
+- [RoyalViceroyBear/CVE-2026-41089-706](https://github.com/RoyalViceroyBear/CVE-2026-41089-706)	<img alt="forks" src="https://img.shields.io/github/forks/RoyalViceroyBear/CVE-2026-41089-706">	<img alt="stars" src="https://img.shields.io/github/stars/RoyalViceroyBear/CVE-2026-41089-706">
+- [CrimsonKingfisher/CVE-2026-41089-245](https://github.com/CrimsonKingfisher/CVE-2026-41089-245)	<img alt="forks" src="https://img.shields.io/github/forks/CrimsonKingfisher/CVE-2026-41089-245">	<img alt="stars" src="https://img.shields.io/github/stars/CrimsonKingfisher/CVE-2026-41089-245">
 
 ---
 ## CVE-2026-41044 ()
