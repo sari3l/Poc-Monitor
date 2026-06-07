@@ -4123,6 +4123,8 @@
 ## CVE-2026-23479 ()
 > 
 - [pduggusa/redis-cve-2026-23479-check](https://github.com/pduggusa/redis-cve-2026-23479-check)	<img alt="forks" src="https://img.shields.io/github/forks/pduggusa/redis-cve-2026-23479-check">	<img alt="stars" src="https://img.shields.io/github/stars/pduggusa/redis-cve-2026-23479-check">
+- [daniel30padd/CVE-2026-23479](https://github.com/daniel30padd/CVE-2026-23479)	<img alt="forks" src="https://img.shields.io/github/forks/daniel30padd/CVE-2026-23479">	<img alt="stars" src="https://img.shields.io/github/stars/daniel30padd/CVE-2026-23479">
+- [mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS](https://github.com/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS">
 
 ---
 ## CVE-2026-23478 ()
