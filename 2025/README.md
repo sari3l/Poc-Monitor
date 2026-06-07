@@ -7437,6 +7437,7 @@
 - [agustfricke/erlang-ssh-rce-CVE-2025-32433](https://github.com/agustfricke/erlang-ssh-rce-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/agustfricke/erlang-ssh-rce-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/agustfricke/erlang-ssh-rce-CVE-2025-32433">
 - [joshuavanderpoll/cve-2025-32433](https://github.com/joshuavanderpoll/cve-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/cve-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/cve-2025-32433">
 - [0xBlackash/CVE-2025-32433](https://github.com/0xBlackash/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-32433">
+- [leehunkoo/hk_CVE-2025-32433](https://github.com/leehunkoo/hk_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/leehunkoo/hk_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/leehunkoo/hk_CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
