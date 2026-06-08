@@ -2890,6 +2890,11 @@
 - [SexyShoelessGodofWar/CVE-2025-58780](https://github.com/SexyShoelessGodofWar/CVE-2025-58780)	<img alt="forks" src="https://img.shields.io/github/forks/SexyShoelessGodofWar/CVE-2025-58780">	<img alt="stars" src="https://img.shields.io/github/stars/SexyShoelessGodofWar/CVE-2025-58780">
 
 ---
+## CVE-2025-5878 ()
+> 
+- [dickfu/ESAPI-SQLinjection-CVE-2025-5878-Exploit](https://github.com/dickfu/ESAPI-SQLinjection-CVE-2025-5878-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dickfu/ESAPI-SQLinjection-CVE-2025-5878-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dickfu/ESAPI-SQLinjection-CVE-2025-5878-Exploit">
+
+---
 ## CVE-2025-58718 ()
 > 
 - [callinston/CVE-2025-58718](https://github.com/callinston/CVE-2025-58718)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-58718">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-58718">
