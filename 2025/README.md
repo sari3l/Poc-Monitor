@@ -3017,6 +3017,7 @@
 - [cybertechajju/cve-2025-57819](https://github.com/cybertechajju/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/cve-2025-57819">
 - [0xEhab/FreePBX-CVE-2025-57819-RCE](https://github.com/0xEhab/FreePBX-CVE-2025-57819-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xEhab/FreePBX-CVE-2025-57819-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xEhab/FreePBX-CVE-2025-57819-RCE">
 - [Jeanback1/CVE-2025-57819-exploit](https://github.com/Jeanback1/CVE-2025-57819-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2025-57819-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2025-57819-exploit">
+- [YuvrajSHAD/FreePBX-CVE-2025-57819](https://github.com/YuvrajSHAD/FreePBX-CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/YuvrajSHAD/FreePBX-CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/YuvrajSHAD/FreePBX-CVE-2025-57819">
 
 ---
 ## CVE-2025-57773 ()
@@ -6380,6 +6381,11 @@
 ## CVE-2025-43541 ()
 > 
 - [crypt0bit/CVE-2025-43541](https://github.com/crypt0bit/CVE-2025-43541)	<img alt="forks" src="https://img.shields.io/github/forks/crypt0bit/CVE-2025-43541">	<img alt="stars" src="https://img.shields.io/github/stars/crypt0bit/CVE-2025-43541">
+
+---
+## CVE-2025-43537 ()
+> 
+- [hawkeye-bd/CVE-2025-43537](https://github.com/hawkeye-bd/CVE-2025-43537)	<img alt="forks" src="https://img.shields.io/github/forks/hawkeye-bd/CVE-2025-43537">	<img alt="stars" src="https://img.shields.io/github/stars/hawkeye-bd/CVE-2025-43537">
 
 ---
 ## CVE-2025-43529 ()
