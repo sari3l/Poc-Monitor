@@ -901,6 +901,7 @@
 > 
 - [strivepan/ActiveMQ-cve-2026-42588-scanner-gui](https://github.com/strivepan/ActiveMQ-cve-2026-42588-scanner-gui)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/ActiveMQ-cve-2026-42588-scanner-gui">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/ActiveMQ-cve-2026-42588-scanner-gui">
 - [hnytgl/CVE-2026-42588](https://github.com/hnytgl/CVE-2026-42588)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/CVE-2026-42588">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/CVE-2026-42588">
+- [Catherines77/ActiveMQ-EXPtools](https://github.com/Catherines77/ActiveMQ-EXPtools)	<img alt="forks" src="https://img.shields.io/github/forks/Catherines77/ActiveMQ-EXPtools">	<img alt="stars" src="https://img.shields.io/github/stars/Catherines77/ActiveMQ-EXPtools">
 
 ---
 ## CVE-2026-4257 ()
