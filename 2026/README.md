@@ -4171,6 +4171,11 @@
 - [jopamo/CVE-2026-23245](https://github.com/jopamo/CVE-2026-23245)	<img alt="forks" src="https://img.shields.io/github/forks/jopamo/CVE-2026-23245">	<img alt="stars" src="https://img.shields.io/github/stars/jopamo/CVE-2026-23245">
 
 ---
+## CVE-2026-23111 ()
+> 
+- [HORKimhab/CVE-2026-23111](https://github.com/HORKimhab/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-23111">
+
+---
 ## CVE-2026-22862 ()
 > 
 - [qzhodl/CVE-2026-22862](https://github.com/qzhodl/CVE-2026-22862)	<img alt="forks" src="https://img.shields.io/github/forks/qzhodl/CVE-2026-22862">	<img alt="stars" src="https://img.shields.io/github/stars/qzhodl/CVE-2026-22862">
