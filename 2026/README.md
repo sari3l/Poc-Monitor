@@ -620,6 +620,7 @@
 ## CVE-2026-45247 ()
 > 
 - [HORKimhab/CVE-2026-45247](https://github.com/HORKimhab/CVE-2026-45247)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45247">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45247">
+- [fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-](https://github.com/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-">
 
 ---
 ## CVE-2026-45185 ()
