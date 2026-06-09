@@ -4208,6 +4208,7 @@
 > 
 - [HORKimhab/CVE-2026-23111](https://github.com/HORKimhab/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-23111">
 - [0xBlackash/CVE-2026-23111](https://github.com/0xBlackash/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-23111">
+- [bysepa1/checker_cve-2026-23111](https://github.com/bysepa1/checker_cve-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/bysepa1/checker_cve-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/bysepa1/checker_cve-2026-23111">
 
 ---
 ## CVE-2026-22862 ()
