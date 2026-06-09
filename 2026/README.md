@@ -1143,6 +1143,8 @@
 - [RoyalViceroyBear/CVE-2026-41089-706](https://github.com/RoyalViceroyBear/CVE-2026-41089-706)	<img alt="forks" src="https://img.shields.io/github/forks/RoyalViceroyBear/CVE-2026-41089-706">	<img alt="stars" src="https://img.shields.io/github/stars/RoyalViceroyBear/CVE-2026-41089-706">
 - [CrimsonKingfisher/CVE-2026-41089-245](https://github.com/CrimsonKingfisher/CVE-2026-41089-245)	<img alt="forks" src="https://img.shields.io/github/forks/CrimsonKingfisher/CVE-2026-41089-245">	<img alt="stars" src="https://img.shields.io/github/stars/CrimsonKingfisher/CVE-2026-41089-245">
 - [jenniferreire26/CVE-2026-41089](https://github.com/jenniferreire26/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-41089">
+- [Coasttruvitalize/CVE-2026-41089-latest](https://github.com/Coasttruvitalize/CVE-2026-41089-latest)	<img alt="forks" src="https://img.shields.io/github/forks/Coasttruvitalize/CVE-2026-41089-latest">	<img alt="stars" src="https://img.shields.io/github/stars/Coasttruvitalize/CVE-2026-41089-latest">
+- [SpiralSealFill/CVE-2026-41089-hub](https://github.com/SpiralSealFill/CVE-2026-41089-hub)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralSealFill/CVE-2026-41089-hub">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralSealFill/CVE-2026-41089-hub">
 
 ---
 ## CVE-2026-41044 ()

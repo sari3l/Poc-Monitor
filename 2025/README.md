@@ -10697,6 +10697,11 @@
 - [lap1nou/CVE-2025-11371](https://github.com/lap1nou/CVE-2025-11371)	<img alt="forks" src="https://img.shields.io/github/forks/lap1nou/CVE-2025-11371">	<img alt="stars" src="https://img.shields.io/github/stars/lap1nou/CVE-2025-11371">
 
 ---
+## CVE-2025-11262 ()
+> 
+- [rootdirective-sec/CVE-2025-11262-Lab](https://github.com/rootdirective-sec/CVE-2025-11262-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2025-11262-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2025-11262-Lab">
+
+---
 ## CVE-2025-11187 ()
 > 
 - [metadust/CVE-2025-11187](https://github.com/metadust/CVE-2025-11187)	<img alt="forks" src="https://img.shields.io/github/forks/metadust/CVE-2025-11187">	<img alt="stars" src="https://img.shields.io/github/stars/metadust/CVE-2025-11187">
