@@ -140,6 +140,11 @@
 - [kaleth4/CVE-2026-7482](https://github.com/kaleth4/CVE-2026-7482)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-7482">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-7482">
 
 ---
+## CVE-2026-7473 ()
+> 
+- [fevar54/CVE-2026-7473---Arista-EOS-Tunnel-Decapsulation-Bypass](https://github.com/fevar54/CVE-2026-7473---Arista-EOS-Tunnel-Decapsulation-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-7473---Arista-EOS-Tunnel-Decapsulation-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-7473---Arista-EOS-Tunnel-Decapsulation-Bypass">
+
+---
 ## CVE-2026-7465 ()
 > 
 - [endangcamon/CVE-2026-7465-POC](https://github.com/endangcamon/CVE-2026-7465-POC)	<img alt="forks" src="https://img.shields.io/github/forks/endangcamon/CVE-2026-7465-POC">	<img alt="stars" src="https://img.shields.io/github/stars/endangcamon/CVE-2026-7465-POC">
@@ -297,6 +302,7 @@
 > 
 - [kyukazamiqq/cve-2026-5718](https://github.com/kyukazamiqq/cve-2026-5718)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/cve-2026-5718">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/cve-2026-5718">
 - [rootdirective-sec/cve-2026-5718-Lab](https://github.com/rootdirective-sec/cve-2026-5718-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/cve-2026-5718-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/cve-2026-5718-Lab">
+- [xxconi/CVE-2026-5718-PR-V-EXPLO-T](https://github.com/xxconi/CVE-2026-5718-PR-V-EXPLO-T)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5718-PR-V-EXPLO-T">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5718-PR-V-EXPLO-T">
 
 ---
 ## CVE-2026-5615 ()
@@ -373,6 +379,7 @@
 > 
 - [WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts](https://github.com/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">
 - [0xBlackash/CVE-2026-50751](https://github.com/0xBlackash/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-50751">
+- [fernstedt/CVE-2026-50751](https://github.com/fernstedt/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/fernstedt/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/fernstedt/CVE-2026-50751">
 
 ---
 ## CVE-2026-5059 ()
@@ -4736,6 +4743,12 @@
 - [George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">
 
 ---
+## CVE-2026-20245 ()
+> 
+- [fevar54/CVE-2026-20245---Cisco-SD-WAN-Privilege-Escalation-Exploit](https://github.com/fevar54/CVE-2026-20245---Cisco-SD-WAN-Privilege-Escalation-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20245---Cisco-SD-WAN-Privilege-Escalation-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20245---Cisco-SD-WAN-Privilege-Escalation-Exploit">
+- [HORKimhab/CVE-2026-20245](https://github.com/HORKimhab/CVE-2026-20245)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20245">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20245">
+
+---
 ## CVE-2026-20230 ()
 > 
 - [HORKimhab/CVE-2026-20230](https://github.com/HORKimhab/CVE-2026-20230)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20230">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20230">
@@ -5006,6 +5019,11 @@
 - [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
 
 ---
+## CVE-2026-11645 ()
+> 
+- [fevar54/CVE-2026-11645-Out-of-bounds-Read-Write](https://github.com/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write">
+
+---
 ## CVE-2026-11499 ()
 > 
 - [0xBlackash/CVE-2026-11499](https://github.com/0xBlackash/CVE-2026-11499)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-11499">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-11499">
@@ -5107,6 +5125,11 @@
 ## CVE-2026-0827 ()
 > 
 - [ZeroMemoryEx/CVE-2026-0827](https://github.com/ZeroMemoryEx/CVE-2026-0827)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroMemoryEx/CVE-2026-0827">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroMemoryEx/CVE-2026-0827">
+
+---
+## CVE-2026-0776 ()
+> 
+- [0x18F/CVE-2026-0776](https://github.com/0x18F/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/0x18F/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/0x18F/CVE-2026-0776">
 
 ---
 ## CVE-2026-0770 ()
