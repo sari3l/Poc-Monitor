@@ -5024,6 +5024,12 @@
 - [ch4r0nn/CVE-2026-1056-POC](https://github.com/ch4r0nn/CVE-2026-1056-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2026-1056-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2026-1056-POC">
 
 ---
+## CVE-2026-10520 ()
+> 
+- [ogenich/CVE-2026-10520](https://github.com/ogenich/CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/ogenich/CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/ogenich/CVE-2026-10520">
+- [watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">
+
+---
 ## CVE-2026-10290 ()
 > 
 - [Xmyronn/CVE-2026-10290-SQLI](https://github.com/Xmyronn/CVE-2026-10290-SQLI)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-10290-SQLI">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-10290-SQLI">
