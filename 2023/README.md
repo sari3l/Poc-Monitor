@@ -4145,6 +4145,11 @@ prior to
 - [realcitril/CVE-2023-36844](https://github.com/realcitril/CVE-2023-36844)	<img alt="forks" src="https://img.shields.io/github/forks/realcitril/CVE-2023-36844">	<img alt="stars" src="https://img.shields.io/github/stars/realcitril/CVE-2023-36844">
 
 ---
+## CVE-2023-36808 ()
+> 
+- [fransosiche/exploit-cve-2023-36808](https://github.com/fransosiche/exploit-cve-2023-36808)	<img alt="forks" src="https://img.shields.io/github/forks/fransosiche/exploit-cve-2023-36808">	<img alt="stars" src="https://img.shields.io/github/stars/fransosiche/exploit-cve-2023-36808">
+
+---
 ## CVE-2023-36802 (2023-09-12T17:15:00)
 > Microsoft Streaming Service Proxy Elevation of Privilege Vulnerability
 - [chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802](https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802">

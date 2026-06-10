@@ -395,6 +395,7 @@
 - [renzi25031469/CVE-2026-49975-HTTP-2-Bomb](https://github.com/renzi25031469/CVE-2026-49975-HTTP-2-Bomb)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">
 - [obrige/http2-bomb](https://github.com/obrige/http2-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/obrige/http2-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/obrige/http2-bomb">
 - [EQSTLab/CVE-2026-49975](https://github.com/EQSTLab/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-49975">
+- [LSG-PolarBear/CVE-2026-49975](https://github.com/LSG-PolarBear/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/LSG-PolarBear/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/LSG-PolarBear/CVE-2026-49975">
 
 ---
 ## CVE-2026-49009 ()
@@ -4224,6 +4225,7 @@
 - [HORKimhab/CVE-2026-23111](https://github.com/HORKimhab/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-23111">
 - [0xBlackash/CVE-2026-23111](https://github.com/0xBlackash/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-23111">
 - [bysepa1/checker_cve-2026-23111](https://github.com/bysepa1/checker_cve-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/bysepa1/checker_cve-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/bysepa1/checker_cve-2026-23111">
+- [seguridadentrerios/CVE-2026-23111](https://github.com/seguridadentrerios/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23111">
 
 ---
 ## CVE-2026-22862 ()
