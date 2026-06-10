@@ -394,6 +394,7 @@
 - [mrx-arafat/CVE-2026-49975-POC](https://github.com/mrx-arafat/CVE-2026-49975-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mrx-arafat/CVE-2026-49975-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mrx-arafat/CVE-2026-49975-POC">
 - [renzi25031469/CVE-2026-49975-HTTP-2-Bomb](https://github.com/renzi25031469/CVE-2026-49975-HTTP-2-Bomb)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">
 - [obrige/http2-bomb](https://github.com/obrige/http2-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/obrige/http2-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/obrige/http2-bomb">
+- [EQSTLab/CVE-2026-49975](https://github.com/EQSTLab/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-49975">
 
 ---
 ## CVE-2026-49009 ()
@@ -708,6 +709,13 @@
 ---
 ## CVE-2026-44262 ()
 > 
+- [joshuavanderpoll/CVE-2026-44262](https://github.com/joshuavanderpoll/CVE-2026-44262)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-44262">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-44262">
+
+---
+## CVE-2026-442 ()
+> 
+- [HORKimhab/CVE-2026-442_](https://github.com/HORKimhab/CVE-2026-442_)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-442_">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-442_">
+- [0xBlackash/CVE-2026-44277](https://github.com/0xBlackash/CVE-2026-44277)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-44277">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-44277">
 - [joshuavanderpoll/CVE-2026-44262](https://github.com/joshuavanderpoll/CVE-2026-44262)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-44262">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-44262">
 
 ---
