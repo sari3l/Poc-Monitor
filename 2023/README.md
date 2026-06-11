@@ -7890,6 +7890,7 @@ For more details, please review the linked advisory on this CVE.
 - [xboxoneresearch/CVE-2023-21768-dotnet](https://github.com/xboxoneresearch/CVE-2023-21768-dotnet)	<img alt="forks" src="https://img.shields.io/github/forks/xboxoneresearch/CVE-2023-21768-dotnet">	<img alt="stars" src="https://img.shields.io/github/stars/xboxoneresearch/CVE-2023-21768-dotnet">
 - [IlanDudnik/CVE-2023-21768](https://github.com/IlanDudnik/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/IlanDudnik/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/IlanDudnik/CVE-2023-21768">
 - [radoi-teodor/CVE-2023-21768-DSE-Bypass](https://github.com/radoi-teodor/CVE-2023-21768-DSE-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/radoi-teodor/CVE-2023-21768-DSE-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/radoi-teodor/CVE-2023-21768-DSE-Bypass">
+- [r4uzn/CVE-2023-21768](https://github.com/r4uzn/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/r4uzn/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/r4uzn/CVE-2023-21768">
 
 ---
 ## CVE-2023-21766 (2023-01-10T22:15:00)
