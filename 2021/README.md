@@ -3090,6 +3090,7 @@
 - [jeffbezosispogg/CVE-2021-4045](https://github.com/jeffbezosispogg/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/jeffbezosispogg/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/jeffbezosispogg/CVE-2021-4045">
 - [234329a423853/CVE-2021-4045](https://github.com/234329a423853/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/234329a423853/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/234329a423853/CVE-2021-4045">
 - [DorskFR/tapodate](https://github.com/DorskFR/tapodate)	<img alt="forks" src="https://img.shields.io/github/forks/DorskFR/tapodate">	<img alt="stars" src="https://img.shields.io/github/stars/DorskFR/tapodate">
+- [kaleth4/CVE-2021-4045](https://github.com/kaleth4/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2021-4045">
 
 ---
 ## CVE-2021-40449 (2021-10-13T01:15:00)
