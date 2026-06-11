@@ -867,6 +867,7 @@
 - [1neptune/DirtyFrag](https://github.com/1neptune/DirtyFrag)	<img alt="forks" src="https://img.shields.io/github/forks/1neptune/DirtyFrag">	<img alt="stars" src="https://img.shields.io/github/stars/1neptune/DirtyFrag">
 - [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 - [t1ckprivate/CVE-2026-43284-Dirty-Frag](https://github.com/t1ckprivate/CVE-2026-43284-Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/t1ckprivate/CVE-2026-43284-Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/t1ckprivate/CVE-2026-43284-Dirty-Frag">
+- [g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection](https://github.com/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection">
 
 ---
 ## CVE-2026-42945 ()
