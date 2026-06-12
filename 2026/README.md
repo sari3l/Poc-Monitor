@@ -65,6 +65,11 @@
 - [funixone/EXPLOIT-CVE-2026-8832-](https://github.com/funixone/EXPLOIT-CVE-2026-8832-)	<img alt="forks" src="https://img.shields.io/github/forks/funixone/EXPLOIT-CVE-2026-8832-">	<img alt="stars" src="https://img.shields.io/github/stars/funixone/EXPLOIT-CVE-2026-8832-">
 
 ---
+## CVE-2026-8809 ()
+> 
+- [izxci/CVE-2026-8809](https://github.com/izxci/CVE-2026-8809)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-8809">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-8809">
+
+---
 ## CVE-2026-8732 ()
 > 
 - [Jenderal92/CVE-2026-8732](https://github.com/Jenderal92/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8732">
@@ -523,6 +528,11 @@
 ## CVE-2026-47423 ()
 > 
 - [Galaxy-sc/CVE-2026-47423-dompurify-xss-detector](https://github.com/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">
+
+---
+## CVE-2026-47342 ()
+> 
+- [lwd3c/CVE-2026-47342](https://github.com/lwd3c/CVE-2026-47342)	<img alt="forks" src="https://img.shields.io/github/forks/lwd3c/CVE-2026-47342">	<img alt="stars" src="https://img.shields.io/github/stars/lwd3c/CVE-2026-47342">
 
 ---
 ## CVE-2026-47291 ()
