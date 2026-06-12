@@ -3773,6 +3773,11 @@
 - [yahiahamza/CVE-2026-25099](https://github.com/yahiahamza/CVE-2026-25099)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-25099">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-25099">
 
 ---
+## CVE-2026-25089 ()
+> 
+- [0xBlackash/CVE-2026-25089](https://github.com/0xBlackash/CVE-2026-25089)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-25089">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-25089">
+
+---
 ## CVE-2026-25075 ()
 > 
 - [BishopFox/CVE-2026-25075-check](https://github.com/BishopFox/CVE-2026-25075-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-25075-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-25075-check">
