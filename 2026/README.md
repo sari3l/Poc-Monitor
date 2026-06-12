@@ -5262,6 +5262,7 @@
 - [murrez/CVE-2026-0740](https://github.com/murrez/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-0740">
 - [BastianXploited/CVE-2026-0740](https://github.com/BastianXploited/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-0740">
 - [zycoder0day/CVE-2026-0740](https://github.com/zycoder0day/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-0740">
+- [a24ac1/CVE-2026-0740](https://github.com/a24ac1/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2026-0740">
 
 ---
 ## CVE-2026-0730 ()
