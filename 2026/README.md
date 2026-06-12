@@ -545,6 +545,11 @@
 - [HAERIN-L/POC_CVE-2026-46716](https://github.com/HAERIN-L/POC_CVE-2026-46716)	<img alt="forks" src="https://img.shields.io/github/forks/HAERIN-L/POC_CVE-2026-46716">	<img alt="stars" src="https://img.shields.io/github/stars/HAERIN-L/POC_CVE-2026-46716">
 
 ---
+## CVE-2026-46645 ()
+> 
+- [rootdirective-sec/CVE-2026-46645-Analysis-Lab](https://github.com/rootdirective-sec/CVE-2026-46645-Analysis-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-46645-Analysis-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-46645-Analysis-Lab">
+
+---
 ## CVE-2026-4660 ()
 > 
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
@@ -2332,6 +2337,7 @@
 > 
 - [cardosource/cve-2026-3180](https://github.com/cardosource/cve-2026-3180)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/cve-2026-3180">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/cve-2026-3180">
 - [carlosalbertotuma/cve-2026-3180-poc](https://github.com/carlosalbertotuma/cve-2026-3180-poc)	<img alt="forks" src="https://img.shields.io/github/forks/carlosalbertotuma/cve-2026-3180-poc">	<img alt="stars" src="https://img.shields.io/github/stars/carlosalbertotuma/cve-2026-3180-poc">
+- [cardosource/cve-2026-3180](https://github.com/cardosource/cve-2026-3180)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/cve-2026-3180">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/cve-2026-3180">
 - [cardosource/cve-2026-3180](https://github.com/cardosource/cve-2026-3180)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/cve-2026-3180">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/cve-2026-3180">
 
 ---
