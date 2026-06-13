@@ -2385,6 +2385,11 @@
 - [Shenal01/CVE-2025-60880](https://github.com/Shenal01/CVE-2025-60880)	<img alt="forks" src="https://img.shields.io/github/forks/Shenal01/CVE-2025-60880">	<img alt="stars" src="https://img.shields.io/github/stars/Shenal01/CVE-2025-60880">
 
 ---
+## CVE-2025-60876 ()
+> 
+- [sirredbeard/CVE-2025-60876](https://github.com/sirredbeard/CVE-2025-60876)	<img alt="forks" src="https://img.shields.io/github/forks/sirredbeard/CVE-2025-60876">	<img alt="stars" src="https://img.shields.io/github/stars/sirredbeard/CVE-2025-60876">
+
+---
 ## CVE-2025-60854 ()
 > 
 - [K0n9-log/CVE-2025-60854](https://github.com/K0n9-log/CVE-2025-60854)	<img alt="forks" src="https://img.shields.io/github/forks/K0n9-log/CVE-2025-60854">	<img alt="stars" src="https://img.shields.io/github/stars/K0n9-log/CVE-2025-60854">
