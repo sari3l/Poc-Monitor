@@ -670,6 +670,7 @@
 ## CVE-2026-45447 ()
 > 
 - [HORKimhab/CVE-2026-45447](https://github.com/HORKimhab/CVE-2026-45447)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45447">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45447">
+- [0xBlackash/CVE-2026-45447](https://github.com/0xBlackash/CVE-2026-45447)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-45447">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-45447">
 
 ---
 ## CVE-2026-45332 ()
@@ -5017,6 +5018,7 @@
 > 
 - [Nxploited/CVE-2026-1555](https://github.com/Nxploited/CVE-2026-1555)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1555">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1555">
 - [willygailo/WG-CVE-2026-1555-Linux](https://github.com/willygailo/WG-CVE-2026-1555-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/WG-CVE-2026-1555-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/WG-CVE-2026-1555-Linux">
+- [webshellseo8/CVE-2026-1555-POC](https://github.com/webshellseo8/CVE-2026-1555-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-1555-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-1555-POC">
 
 ---
 ## CVE-2026-1550 ()
