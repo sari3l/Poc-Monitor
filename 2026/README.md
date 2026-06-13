@@ -428,6 +428,9 @@
 - [EQSTLab/CVE-2026-49975](https://github.com/EQSTLab/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-49975">
 - [LSG-PolarBear/CVE-2026-49975](https://github.com/LSG-PolarBear/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/LSG-PolarBear/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/LSG-PolarBear/CVE-2026-49975">
 - [LiaoZiqi-GZFLS/CVE-2026-49975](https://github.com/LiaoZiqi-GZFLS/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/LiaoZiqi-GZFLS/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/LiaoZiqi-GZFLS/CVE-2026-49975">
+- [razureink/cve-2026-49975-http2bomb_reproduction](https://github.com/razureink/cve-2026-49975-http2bomb_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-49975-http2bomb_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-49975-http2bomb_reproduction">
+- [adminlove520/http2-bomb-detector](https://github.com/adminlove520/http2-bomb-detector)	<img alt="forks" src="https://img.shields.io/github/forks/adminlove520/http2-bomb-detector">	<img alt="stars" src="https://img.shields.io/github/stars/adminlove520/http2-bomb-detector">
+- [minc-nice-100/http2-bomb-analysis-paper](https://github.com/minc-nice-100/http2-bomb-analysis-paper)	<img alt="forks" src="https://img.shields.io/github/forks/minc-nice-100/http2-bomb-analysis-paper">	<img alt="stars" src="https://img.shields.io/github/stars/minc-nice-100/http2-bomb-analysis-paper">
 
 ---
 ## CVE-2026-49492 ()
@@ -698,6 +701,13 @@
 > 
 - [HORKimhab/CVE-2026-45247](https://github.com/HORKimhab/CVE-2026-45247)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45247">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45247">
 - [fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-](https://github.com/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-">
+
+---
+## CVE-2026-4524 ()
+> 
+- [CyruxSec/CVE-2026-4524-](https://github.com/CyruxSec/CVE-2026-4524-)	<img alt="forks" src="https://img.shields.io/github/forks/CyruxSec/CVE-2026-4524-">	<img alt="stars" src="https://img.shields.io/github/stars/CyruxSec/CVE-2026-4524-">
+- [fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-](https://github.com/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-">
+- [HORKimhab/CVE-2026-45247](https://github.com/HORKimhab/CVE-2026-45247)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45247">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45247">
 
 ---
 ## CVE-2026-45185 ()
@@ -986,6 +996,11 @@
 ## CVE-2026-42778 ()
 > 
 - [Akinfue/CVE-2026-42778-POC](https://github.com/Akinfue/CVE-2026-42778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Akinfue/CVE-2026-42778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Akinfue/CVE-2026-42778-POC">
+
+---
+## CVE-2026-42647 ()
+> 
+- [rootdirective-sec/CVE-2026-42647-Lab](https://github.com/rootdirective-sec/CVE-2026-42647-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-42647-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-42647-Lab">
 
 ---
 ## CVE-2026-42589 ()
@@ -1605,6 +1620,11 @@
 ## CVE-2026-37272 ()
 > 
 - [vytlanikhil/CVE-2026-37272](https://github.com/vytlanikhil/CVE-2026-37272)	<img alt="forks" src="https://img.shields.io/github/forks/vytlanikhil/CVE-2026-37272">	<img alt="stars" src="https://img.shields.io/github/stars/vytlanikhil/CVE-2026-37272">
+
+---
+## CVE-2026-37197 ()
+> 
+- [Pavanvootla-sec/CVE-2026-37197](https://github.com/Pavanvootla-sec/CVE-2026-37197)	<img alt="forks" src="https://img.shields.io/github/forks/Pavanvootla-sec/CVE-2026-37197">	<img alt="stars" src="https://img.shields.io/github/stars/Pavanvootla-sec/CVE-2026-37197">
 
 ---
 ## CVE-2026-37196 ()
