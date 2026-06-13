@@ -705,7 +705,7 @@
 ---
 ## CVE-2026-4524 ()
 > 
-- [CyruxSec/CVE-2026-4524-](https://github.com/CyruxSec/CVE-2026-4524-)	<img alt="forks" src="https://img.shields.io/github/forks/CyruxSec/CVE-2026-4524-">	<img alt="stars" src="https://img.shields.io/github/stars/CyruxSec/CVE-2026-4524-">
+- [CyruxSec/CVE-2026-4524](https://github.com/CyruxSec/CVE-2026-4524)	<img alt="forks" src="https://img.shields.io/github/forks/CyruxSec/CVE-2026-4524">	<img alt="stars" src="https://img.shields.io/github/stars/CyruxSec/CVE-2026-4524">
 - [fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-](https://github.com/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/PoC-Funcional---CVE-2026-45247-Mirasvit-Full-Page-Cache-Warmer-RCE-">
 - [HORKimhab/CVE-2026-45247](https://github.com/HORKimhab/CVE-2026-45247)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45247">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45247">
 
@@ -4883,6 +4883,11 @@
 ## CVE-2026-20404 ()
 > 
 - [George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">
+
+---
+## CVE-2026-20253 ()
+> 
+- [0xBlackash/CVE-2026-20253](https://github.com/0xBlackash/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20253">
 
 ---
 ## CVE-2026-20245 ()
