@@ -8896,6 +8896,7 @@
 - [sameep0/CVE-2021-22204](https://github.com/sameep0/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/sameep0/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/sameep0/CVE-2021-22204">
 - [Roronoawjd/CVE-2021-22204](https://github.com/Roronoawjd/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/CVE-2021-22204">
 - [TeddyEngel/CVE-2021-22204](https://github.com/TeddyEngel/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/TeddyEngel/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/TeddyEngel/CVE-2021-22204">
+- [d4ytox/CVE-2021-22204](https://github.com/d4ytox/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-22204">
 
 ---
 ## CVE-2021-2220 ()
@@ -9356,6 +9357,7 @@
 - [grey-master-a/GravCMS_Nmap_Script](https://github.com/grey-master-a/GravCMS_Nmap_Script)	<img alt="forks" src="https://img.shields.io/github/forks/grey-master-a/GravCMS_Nmap_Script">	<img alt="stars" src="https://img.shields.io/github/stars/grey-master-a/GravCMS_Nmap_Script">
 - [afifudinmtop/CVE-2021-21425](https://github.com/afifudinmtop/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/afifudinmtop/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/afifudinmtop/CVE-2021-21425">
 - [TeddyEngel/CVE-2021-21425](https://github.com/TeddyEngel/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/TeddyEngel/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/TeddyEngel/CVE-2021-21425">
+- [d4ytox/CVE-2021-21425](https://github.com/d4ytox/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-21425">
 
 ---
 ## CVE-2021-21424 ()
