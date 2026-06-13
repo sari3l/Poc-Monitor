@@ -1942,6 +1942,11 @@
 - [meir0222/CVE-2018-1160](https://github.com/meir0222/CVE-2018-1160)	<img alt="forks" src="https://img.shields.io/github/forks/meir0222/CVE-2018-1160">	<img alt="stars" src="https://img.shields.io/github/stars/meir0222/CVE-2018-1160">
 
 ---
+## CVE-2018-1156 ()
+> 
+- [JonathanInfinity01/SOC-L1-OSINT-Investigation-MikroTik-CVE-2018-1156](https://github.com/JonathanInfinity01/SOC-L1-OSINT-Investigation-MikroTik-CVE-2018-1156)	<img alt="forks" src="https://img.shields.io/github/forks/JonathanInfinity01/SOC-L1-OSINT-Investigation-MikroTik-CVE-2018-1156">	<img alt="stars" src="https://img.shields.io/github/stars/JonathanInfinity01/SOC-L1-OSINT-Investigation-MikroTik-CVE-2018-1156">
+
+---
 ## CVE-2018-11496 (2018-05-26T20:29:00)
 > In Long Range Zip (aka lrzip) 0.631, there is a use-after-free in read_stream in stream.c, because decompress_file in lrzip.c lacks certain size validation.
 - [Live-Hack-CVE/CVE-2018-11496](https://github.com/Live-Hack-CVE/CVE-2018-11496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-11496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-11496">
