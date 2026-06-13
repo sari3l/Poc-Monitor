@@ -478,6 +478,11 @@
 - [Bhanunamikaze/BadHost-CVE-2026-48710-Exploit](https://github.com/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">
 
 ---
+## CVE-2026-48611 ()
+> 
+- [citruscitruscitruscitruscitrusci/CVE-2026-48611-poc](https://github.com/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc)	<img alt="forks" src="https://img.shields.io/github/forks/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">	<img alt="stars" src="https://img.shields.io/github/stars/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">
+
+---
 ## CVE-2026-48595 ()
 > 
 - [erickando33/CVE-2026-48595](https://github.com/erickando33/CVE-2026-48595)	<img alt="forks" src="https://img.shields.io/github/forks/erickando33/CVE-2026-48595">	<img alt="stars" src="https://img.shields.io/github/stars/erickando33/CVE-2026-48595">

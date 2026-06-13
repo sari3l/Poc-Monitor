@@ -8053,6 +8053,11 @@ are not yet active.
 - [AlexDoe11/CVE-2024-26198-Exchange-RCE](https://github.com/AlexDoe11/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-26198-Exchange-RCE">
 
 ---
+## CVE-2024-26170 ()
+> 
+- [ProbNotAnExploiter/CVE-2024-26170-extended](https://github.com/ProbNotAnExploiter/CVE-2024-26170-extended)	<img alt="forks" src="https://img.shields.io/github/forks/ProbNotAnExploiter/CVE-2024-26170-extended">	<img alt="stars" src="https://img.shields.io/github/stars/ProbNotAnExploiter/CVE-2024-26170-extended">
+
+---
 ## CVE-2024-26169 (2024-03-12T17:15:00)
 > Windows Error Reporting Service Elevation of Privilege Vulnerability
 - [ldpreload/CVE-2024-26169](https://github.com/ldpreload/CVE-2024-26169)	<img alt="forks" src="https://img.shields.io/github/forks/ldpreload/CVE-2024-26169">	<img alt="stars" src="https://img.shields.io/github/stars/ldpreload/CVE-2024-26169">
