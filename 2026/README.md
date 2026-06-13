@@ -4899,6 +4899,7 @@
 ## CVE-2026-20230 ()
 > 
 - [HORKimhab/CVE-2026-20230](https://github.com/HORKimhab/CVE-2026-20230)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20230">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20230">
+- [HalilDeniz/CVE-2026-20230-Scanner](https://github.com/HalilDeniz/CVE-2026-20230-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/HalilDeniz/CVE-2026-20230-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/HalilDeniz/CVE-2026-20230-Scanner">
 
 ---
 ## CVE-2026-20224 ()

@@ -4260,6 +4260,7 @@
 - [TechWithOrgito/CVE-2025-55182-Researching-process](https://github.com/TechWithOrgito/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/TechWithOrgito/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/TechWithOrgito/CVE-2025-55182-Researching-process">
 - [AkhmadKholmurodov/React2Shell_Exploit](https://github.com/AkhmadKholmurodov/React2Shell_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AkhmadKholmurodov/React2Shell_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AkhmadKholmurodov/React2Shell_Exploit">
 - [Alejandro609x/JEFAZO-CVE-2025-55182-Checker](https://github.com/Alejandro609x/JEFAZO-CVE-2025-55182-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Alejandro609x/JEFAZO-CVE-2025-55182-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Alejandro609x/JEFAZO-CVE-2025-55182-Checker">
+- [cc3305/CVE-2025-55182](https://github.com/cc3305/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
