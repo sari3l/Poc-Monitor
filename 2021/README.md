@@ -1166,6 +1166,7 @@
 - [horrister/log4shell-cve-2021-44228](https://github.com/horrister/log4shell-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/log4shell-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/log4shell-cve-2021-44228">
 - [C00LN3T/Log4ShellAuditor](https://github.com/C00LN3T/Log4ShellAuditor)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/Log4ShellAuditor">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/Log4ShellAuditor">
 - [bhimsekhar/vulnerable-java-app](https://github.com/bhimsekhar/vulnerable-java-app)	<img alt="forks" src="https://img.shields.io/github/forks/bhimsekhar/vulnerable-java-app">	<img alt="stars" src="https://img.shields.io/github/stars/bhimsekhar/vulnerable-java-app">
+- [hmxh123/Log4Shell-Vulnerability-Replication](https://github.com/hmxh123/Log4Shell-Vulnerability-Replication)	<img alt="forks" src="https://img.shields.io/github/forks/hmxh123/Log4Shell-Vulnerability-Replication">	<img alt="stars" src="https://img.shields.io/github/stars/hmxh123/Log4Shell-Vulnerability-Replication">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
