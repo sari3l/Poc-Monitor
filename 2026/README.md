@@ -1961,6 +1961,11 @@
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
 
 ---
+## CVE-2026-3437 ()
+> 
+- [tihomirocrew/cve-2026-3437](https://github.com/tihomirocrew/cve-2026-3437)	<img alt="forks" src="https://img.shields.io/github/forks/tihomirocrew/cve-2026-3437">	<img alt="stars" src="https://img.shields.io/github/stars/tihomirocrew/cve-2026-3437">
+
+---
 ## CVE-2026-34308 ()
 > 
 - [JoakimBulow/CVE-2026-34308](https://github.com/JoakimBulow/CVE-2026-34308)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-34308">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-34308">
