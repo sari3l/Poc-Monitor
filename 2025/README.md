@@ -4261,6 +4261,7 @@
 - [AkhmadKholmurodov/React2Shell_Exploit](https://github.com/AkhmadKholmurodov/React2Shell_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AkhmadKholmurodov/React2Shell_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AkhmadKholmurodov/React2Shell_Exploit">
 - [Alejandro609x/JEFAZO-CVE-2025-55182-Checker](https://github.com/Alejandro609x/JEFAZO-CVE-2025-55182-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Alejandro609x/JEFAZO-CVE-2025-55182-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Alejandro609x/JEFAZO-CVE-2025-55182-Checker">
 - [cc3305/CVE-2025-55182](https://github.com/cc3305/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-55182">
+- [olezhaku/react2shell-toolkit](https://github.com/olezhaku/react2shell-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/olezhaku/react2shell-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/olezhaku/react2shell-toolkit">
 
 ---
 ## CVE-2025-55130 ()
