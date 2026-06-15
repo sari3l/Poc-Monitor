@@ -968,6 +968,7 @@
 - [limo57640-crypto/nginx-rift-detector](https://github.com/limo57640-crypto/nginx-rift-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/nginx-rift-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/nginx-rift-detector">
 - [LiaoZiqi-GZFLS/CVE-2026-42945](https://github.com/LiaoZiqi-GZFLS/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/LiaoZiqi-GZFLS/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/LiaoZiqi-GZFLS/CVE-2026-42945">
 - [sec-sys/CVE-2026-42945-Reverse-Shell-POC](https://github.com/sec-sys/CVE-2026-42945-Reverse-Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sec-sys/CVE-2026-42945-Reverse-Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sec-sys/CVE-2026-42945-Reverse-Shell-POC">
+- [ushst/CVE-2026-42945](https://github.com/ushst/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/ushst/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/ushst/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -1350,6 +1351,7 @@
 - [Saku0512/CVE-2026-40176-poc](https://github.com/Saku0512/CVE-2026-40176-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-40176-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-40176-poc">
 - [daptheHuman/cve-2026-40176-cve-2026-40261](https://github.com/daptheHuman/cve-2026-40176-cve-2026-40261)	<img alt="forks" src="https://img.shields.io/github/forks/daptheHuman/cve-2026-40176-cve-2026-40261">	<img alt="stars" src="https://img.shields.io/github/stars/daptheHuman/cve-2026-40176-cve-2026-40261">
 - [terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC](https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">
+- [ikarolaborda/CVE-2026-40176](https://github.com/ikarolaborda/CVE-2026-40176)	<img alt="forks" src="https://img.shields.io/github/forks/ikarolaborda/CVE-2026-40176">	<img alt="stars" src="https://img.shields.io/github/stars/ikarolaborda/CVE-2026-40176">
 
 ---
 ## CVE-2026-40175 ()
@@ -1637,6 +1639,21 @@
 ## CVE-2026-37196 ()
 > 
 - [Pavanvootla-sec/CVE-2026-37196](https://github.com/Pavanvootla-sec/CVE-2026-37196)	<img alt="forks" src="https://img.shields.io/github/forks/Pavanvootla-sec/CVE-2026-37196">	<img alt="stars" src="https://img.shields.io/github/stars/Pavanvootla-sec/CVE-2026-37196">
+
+---
+## CVE-2026-37073 ()
+> 
+- [jfs-jfs/CVE-2026-37073](https://github.com/jfs-jfs/CVE-2026-37073)	<img alt="forks" src="https://img.shields.io/github/forks/jfs-jfs/CVE-2026-37073">	<img alt="stars" src="https://img.shields.io/github/stars/jfs-jfs/CVE-2026-37073">
+
+---
+## CVE-2026-37072 ()
+> 
+- [jfs-jfs/CVE-2026-37072](https://github.com/jfs-jfs/CVE-2026-37072)	<img alt="forks" src="https://img.shields.io/github/forks/jfs-jfs/CVE-2026-37072">	<img alt="stars" src="https://img.shields.io/github/stars/jfs-jfs/CVE-2026-37072">
+
+---
+## CVE-2026-37071 ()
+> 
+- [jfs-jfs/CVE-2026-37071](https://github.com/jfs-jfs/CVE-2026-37071)	<img alt="forks" src="https://img.shields.io/github/forks/jfs-jfs/CVE-2026-37071">	<img alt="stars" src="https://img.shields.io/github/stars/jfs-jfs/CVE-2026-37071">
 
 ---
 ## CVE-2026-36981 ()
