@@ -5485,6 +5485,7 @@
 - [symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132](https://github.com/symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132">
 - [nik123-py/CVE-2025-49132_HTB_SEASON10](https://github.com/nik123-py/CVE-2025-49132_HTB_SEASON10)	<img alt="forks" src="https://img.shields.io/github/forks/nik123-py/CVE-2025-49132_HTB_SEASON10">	<img alt="stars" src="https://img.shields.io/github/stars/nik123-py/CVE-2025-49132_HTB_SEASON10">
 - [yurahshell/CVE-2025-49132](https://github.com/yurahshell/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2025-49132">
+- [vimmwy/CVE-2025-49132](https://github.com/vimmwy/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/vimmwy/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/vimmwy/CVE-2025-49132">
 
 ---
 ## CVE-2025-49131 ()
