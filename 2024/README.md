@@ -8781,6 +8781,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [wvverez/CVE-2024-23897](https://github.com/wvverez/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2024-23897">
 - [vmc8ll/poc-CVE-2024-23897](https://github.com/vmc8ll/poc-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/vmc8ll/poc-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/vmc8ll/poc-CVE-2024-23897">
 - [aldamd/CTF](https://github.com/aldamd/CTF)	<img alt="forks" src="https://img.shields.io/github/forks/aldamd/CTF">	<img alt="stars" src="https://img.shields.io/github/stars/aldamd/CTF">
+- [rivaedoardo62-boop/cve-2024-23897-jenkins-poc](https://github.com/rivaedoardo62-boop/cve-2024-23897-jenkins-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rivaedoardo62-boop/cve-2024-23897-jenkins-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rivaedoardo62-boop/cve-2024-23897-jenkins-poc">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
