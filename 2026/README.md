@@ -343,6 +343,11 @@
 - [kaleth4/CVE-2026-5465](https://github.com/kaleth4/CVE-2026-5465)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-5465">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-5465">
 
 ---
+## CVE-2026-54597 ()
+> 
+- [iltosec/CVE-2026-54597](https://github.com/iltosec/CVE-2026-54597)	<img alt="forks" src="https://img.shields.io/github/forks/iltosec/CVE-2026-54597">	<img alt="stars" src="https://img.shields.io/github/stars/iltosec/CVE-2026-54597">
+
+---
 ## CVE-2026-54596 ()
 > 
 - [iltosec/CVE-2026-54596](https://github.com/iltosec/CVE-2026-54596)	<img alt="forks" src="https://img.shields.io/github/forks/iltosec/CVE-2026-54596">	<img alt="stars" src="https://img.shields.io/github/stars/iltosec/CVE-2026-54596">
