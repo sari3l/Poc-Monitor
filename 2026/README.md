@@ -26,6 +26,11 @@
 - [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
 
 ---
+## CVE-2026-9277 ()
+> 
+- [DylanZahedi/CVE-2026-9277](https://github.com/DylanZahedi/CVE-2026-9277)	<img alt="forks" src="https://img.shields.io/github/forks/DylanZahedi/CVE-2026-9277">	<img alt="stars" src="https://img.shields.io/github/stars/DylanZahedi/CVE-2026-9277">
+
+---
 ## CVE-2026-9256 ()
 > 
 - [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
@@ -747,6 +752,10 @@
 - [AzDevops143/fragnesia-cve-2026-46300](https://github.com/AzDevops143/fragnesia-cve-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/AzDevops143/fragnesia-cve-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/AzDevops143/fragnesia-cve-2026-46300">
 - [Koshmare-Blossom/Fragnesia-go](https://github.com/Koshmare-Blossom/Fragnesia-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/Fragnesia-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/Fragnesia-go">
 - [AzDevops143/FRAGNESIA-Charan-cve-2026-46300](https://github.com/AzDevops143/FRAGNESIA-Charan-cve-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/AzDevops143/FRAGNESIA-Charan-cve-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/AzDevops143/FRAGNESIA-Charan-cve-2026-46300">
+- [BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project](https://github.com/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project)	<img alt="forks" src="https://img.shields.io/github/forks/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project">	<img alt="stars" src="https://img.shields.io/github/stars/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project">
+- [BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough](https://github.com/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough">
+- [1neptune/Fragnesia](https://github.com/1neptune/Fragnesia)	<img alt="forks" src="https://img.shields.io/github/forks/1neptune/Fragnesia">	<img alt="stars" src="https://img.shields.io/github/stars/1neptune/Fragnesia">
+- [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 
 ---
 ## CVE-2026-46243 ()
@@ -758,6 +767,11 @@
 > 
 - [fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-](https://github.com/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-">
 - [0xBlackash/CVE-2026-45829](https://github.com/0xBlackash/CVE-2026-45829)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-45829">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-45829">
+
+---
+## CVE-2026-45777 ()
+> 
+- [morepoints/CVE-2026-45777](https://github.com/morepoints/CVE-2026-45777)	<img alt="forks" src="https://img.shields.io/github/forks/morepoints/CVE-2026-45777">	<img alt="stars" src="https://img.shields.io/github/stars/morepoints/CVE-2026-45777">
 
 ---
 ## CVE-2026-45659 ()
