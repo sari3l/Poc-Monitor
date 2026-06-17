@@ -1367,6 +1367,11 @@
 - [showy-headteacher114/cve-2025-66398](https://github.com/showy-headteacher114/cve-2025-66398)	<img alt="forks" src="https://img.shields.io/github/forks/showy-headteacher114/cve-2025-66398">	<img alt="stars" src="https://img.shields.io/github/stars/showy-headteacher114/cve-2025-66398">
 
 ---
+## CVE-2025-66391 ()
+> 
+- [mandeepsohal/CVE-2025-66391](https://github.com/mandeepsohal/CVE-2025-66391)	<img alt="forks" src="https://img.shields.io/github/forks/mandeepsohal/CVE-2025-66391">	<img alt="stars" src="https://img.shields.io/github/stars/mandeepsohal/CVE-2025-66391">
+
+---
 ## CVE-2025-66249 ()
 > 
 - [sid6224/CVE-2025-66249-POC](https://github.com/sid6224/CVE-2025-66249-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sid6224/CVE-2025-66249-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sid6224/CVE-2025-66249-POC">

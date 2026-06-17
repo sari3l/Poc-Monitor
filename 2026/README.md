@@ -372,6 +372,11 @@
 - [Resellnom/litespeed-cpanel-cve-2026-54420-fix](https://github.com/Resellnom/litespeed-cpanel-cve-2026-54420-fix)	<img alt="forks" src="https://img.shields.io/github/forks/Resellnom/litespeed-cpanel-cve-2026-54420-fix">	<img alt="stars" src="https://img.shields.io/github/stars/Resellnom/litespeed-cpanel-cve-2026-54420-fix">
 
 ---
+## CVE-2026-5426 ()
+> 
+- [HORKimhab/CVE-2026-5426](https://github.com/HORKimhab/CVE-2026-5426)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-5426">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-5426">
+
+---
 ## CVE-2026-5364 ()
 > 
 - [xxconi/CVE-2026-5364](https://github.com/xxconi/CVE-2026-5364)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5364">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5364">
@@ -499,6 +504,8 @@
 - [webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE](https://github.com/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE">
 - [ywh-jfellus/CVE-2026-48907](https://github.com/ywh-jfellus/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-48907">
 - [87achrafg-stack/CVE-2026-48907](https://github.com/87achrafg-stack/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-48907">
+- [HORKimhab/CVE-2026-48907](https://github.com/HORKimhab/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48907">
+- [0xBlackash/CVE-2026-48907](https://github.com/0xBlackash/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-48907">
 
 ---
 ## CVE-2026-48866 ()
@@ -1479,6 +1486,7 @@
 - [samu-delucas/CVE-2026-39808](https://github.com/samu-delucas/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/samu-delucas/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/samu-delucas/CVE-2026-39808">
 - [0xBlackash/CVE-2026-39808](https://github.com/0xBlackash/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-39808">
 - [ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808](https://github.com/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">
+- [HORKimhab/CVE-2026-39808](https://github.com/HORKimhab/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39808">
 
 ---
 ## CVE-2026-39440 ()
@@ -3882,6 +3890,7 @@
 ## CVE-2026-25177 ()
 > 
 - [danaug23/detect_CVE-2026-25177](https://github.com/danaug23/detect_CVE-2026-25177)	<img alt="forks" src="https://img.shields.io/github/forks/danaug23/detect_CVE-2026-25177">	<img alt="stars" src="https://img.shields.io/github/stars/danaug23/detect_CVE-2026-25177">
+- [HORKimhab/CVE-2026-25177](https://github.com/HORKimhab/CVE-2026-25177)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-25177">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-25177">
 
 ---
 ## CVE-2026-25172 ()

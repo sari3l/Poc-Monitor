@@ -9996,6 +9996,7 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
  This vulnerability is due to insufficient validation of arguments that are passed to specific configuration CLI commands. An attacker could exploit this vulnerability by including crafted input as the argument of an affected configuration CLI command. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the privileges of root.
  Note: To successfully exploit this vulnerability on a Cisco NX-OS device, an attacker must have Administrator credentials.
 - [Blootus/CVE-2024-20399-Cisco-RCE](https://github.com/Blootus/CVE-2024-20399-Cisco-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Blootus/CVE-2024-20399-Cisco-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Blootus/CVE-2024-20399-Cisco-RCE">
+- [HORKimhab/CVE-2024-20399](https://github.com/HORKimhab/CVE-2024-20399)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2024-20399">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2024-20399">
 
 ---
 ## CVE-2024-20359 (2024-04-24T19:15:00)
