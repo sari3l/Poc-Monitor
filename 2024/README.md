@@ -4115,6 +4115,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Foxer131/CVE-2024-42008-9-exploit](https://github.com/Foxer131/CVE-2024-42008-9-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Foxer131/CVE-2024-42008-9-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Foxer131/CVE-2024-42008-9-exploit">
 - [Shubhankargupta691/CVE-2024-42009](https://github.com/Shubhankargupta691/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/Shubhankargupta691/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/Shubhankargupta691/CVE-2024-42009">
 - [ZaidArif47/CVE-2024-42009](https://github.com/ZaidArif47/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/ZaidArif47/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/ZaidArif47/CVE-2024-42009">
+- [segunakinsoyinu/CVE-2024-42009-roundcube-xss](https://github.com/segunakinsoyinu/CVE-2024-42009-roundcube-xss)	<img alt="forks" src="https://img.shields.io/github/forks/segunakinsoyinu/CVE-2024-42009-roundcube-xss">	<img alt="stars" src="https://img.shields.io/github/stars/segunakinsoyinu/CVE-2024-42009-roundcube-xss">
 
 ---
 ## CVE-2024-42008 ()
