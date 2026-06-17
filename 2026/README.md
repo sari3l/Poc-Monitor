@@ -543,11 +543,17 @@
 ## CVE-2026-49083 ()
 > 
 - [izxci/CVE-2026-49083](https://github.com/izxci/CVE-2026-49083)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49083">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49083">
+- [87achrafg-stack/CVE-2026-49083](https://github.com/87achrafg-stack/CVE-2026-49083)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-49083">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-49083">
 
 ---
 ## CVE-2026-49079 ()
 > 
 - [izxci/CVE-2026-49079](https://github.com/izxci/CVE-2026-49079)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49079">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49079">
+
+---
+## CVE-2026-49060 ()
+> 
+- [rootdirective-sec/CVE-2026-49060-Lab](https://github.com/rootdirective-sec/CVE-2026-49060-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-49060-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-49060-Lab">
 
 ---
 ## CVE-2026-49009 ()
