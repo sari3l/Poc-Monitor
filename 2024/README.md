@@ -782,6 +782,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-6536 (2024-07-30T06:15:00)
 > The Zephyr Project Manager WordPress plugin before 3.3.99 does not sanitise and escape some of its settings, which could allow high privilege users such as editors and admins to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-6536">
+- [gfd6tthf/CVE-2024-6536](https://github.com/gfd6tthf/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/gfd6tthf/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/gfd6tthf/CVE-2024-6536">
 
 ---
 ## CVE-2024-6529 (2024-08-01T06:15:00)
