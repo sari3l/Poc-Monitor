@@ -460,6 +460,9 @@
 - [LoGGGG2402/CVE-2020-7961](https://github.com/LoGGGG2402/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/LoGGGG2402/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/LoGGGG2402/CVE-2020-7961">
 - [CrackerCat/CVE-2020-7961-Mass](https://github.com/CrackerCat/CVE-2020-7961-Mass)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2020-7961-Mass">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2020-7961-Mass">
 - [neverhavenamee/CVE-2020-7961](https://github.com/neverhavenamee/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/neverhavenamee/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/neverhavenamee/CVE-2020-7961">
+- [d4ngkh04w/CVE-2020-7961](https://github.com/d4ngkh04w/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/d4ngkh04w/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/d4ngkh04w/CVE-2020-7961">
+- [Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate](https://github.com/Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate)	<img alt="forks" src="https://img.shields.io/github/forks/Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate">	<img alt="stars" src="https://img.shields.io/github/stars/Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate">
+- [Alaa-abdulridha/GLiferay-CVE-2020-7961-golang](https://github.com/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang)	<img alt="forks" src="https://img.shields.io/github/forks/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang">	<img alt="stars" src="https://img.shields.io/github/stars/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang">
 
 ---
 ## CVE-2020-7862 (2021-06-24T11:15:00)

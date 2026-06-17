@@ -2474,6 +2474,7 @@ use after free.
 > Liferay Portal CE 6.2.5 allows remote command execution because of deserialization of a JSON payload.
 - [Live-Hack-CVE/CVE-2019-16891](https://github.com/Live-Hack-CVE/CVE-2019-16891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16891">
 - [hrxknight/CVE-2019-16891-Liferay-deserialization-RCE](https://github.com/hrxknight/CVE-2019-16891-Liferay-deserialization-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hrxknight/CVE-2019-16891-Liferay-deserialization-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hrxknight/CVE-2019-16891-Liferay-deserialization-RCE">
+- [d4ngkh04w/CVE-2019-16891](https://github.com/d4ngkh04w/CVE-2019-16891)	<img alt="forks" src="https://img.shields.io/github/forks/d4ngkh04w/CVE-2019-16891">	<img alt="stars" src="https://img.shields.io/github/stars/d4ngkh04w/CVE-2019-16891">
 
 ---
 ## CVE-2019-16784 (2020-01-14T20:15:00)
