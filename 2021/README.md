@@ -5741,6 +5741,7 @@
 ## CVE-2021-34427 (2021-06-25T19:15:00)
 > In Eclipse BIRT versions 4.8.0 and earlier, an attacker can use query parameters to create a JSP file which is accessible from remote (current BIRT viewer dir) to inject JSP code into the running instance.
 - [Live-Hack-CVE/CVE-2021-34427](https://github.com/Live-Hack-CVE/CVE-2021-34427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34427">
+- [rt1252/CVE-2021-34427](https://github.com/rt1252/CVE-2021-34427)	<img alt="forks" src="https://img.shields.io/github/forks/rt1252/CVE-2021-34427">	<img alt="stars" src="https://img.shields.io/github/stars/rt1252/CVE-2021-34427">
 
 ---
 ## CVE-2021-34402 (2022-01-18T18:15:00)
