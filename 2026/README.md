@@ -392,6 +392,8 @@
 > 
 - [mahfuzreham/litespeed-cpanel-cve-2026-54420-fix](https://github.com/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix">
 - [Resellnom/litespeed-cpanel-cve-2026-54420-fix](https://github.com/Resellnom/litespeed-cpanel-cve-2026-54420-fix)	<img alt="forks" src="https://img.shields.io/github/forks/Resellnom/litespeed-cpanel-cve-2026-54420-fix">	<img alt="stars" src="https://img.shields.io/github/stars/Resellnom/litespeed-cpanel-cve-2026-54420-fix">
+- [fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit](https://github.com/fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-54420-LiteSpeed-Symlink-Exploit">
+- [HORKimhab/CVE-2026-54420](https://github.com/HORKimhab/CVE-2026-54420)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-54420">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-54420">
 
 ---
 ## CVE-2026-54316 ()
@@ -772,6 +774,11 @@
 ## CVE-2026-46243 ()
 > 
 - [MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-](https://github.com/MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-)	<img alt="forks" src="https://img.shields.io/github/forks/MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-">	<img alt="stars" src="https://img.shields.io/github/stars/MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-">
+
+---
+## CVE-2026-46215 ()
+> 
+- [0xCyberstan/CVE-2026-46215-POC](https://github.com/0xCyberstan/CVE-2026-46215-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-46215-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-46215-POC">
 
 ---
 ## CVE-2026-45829 ()
@@ -1488,6 +1495,9 @@
 > 
 - [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/orinimron123/CVE-2026-40369-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/orinimron123/CVE-2026-40369-EXPLOIT">
 - [ercihan/CVE-2026-40369](https://github.com/ercihan/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-40369">
+- [0xBlackash/CVE-2026-40369](https://github.com/0xBlackash/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-40369">
+- [Joe1sn/CVE_2026_40369](https://github.com/Joe1sn/CVE_2026_40369)	<img alt="forks" src="https://img.shields.io/github/forks/Joe1sn/CVE_2026_40369">	<img alt="stars" src="https://img.shields.io/github/stars/Joe1sn/CVE_2026_40369">
+- [piffd0s/ntoskrnl-metadata](https://github.com/piffd0s/ntoskrnl-metadata)	<img alt="forks" src="https://img.shields.io/github/forks/piffd0s/ntoskrnl-metadata">	<img alt="stars" src="https://img.shields.io/github/stars/piffd0s/ntoskrnl-metadata">
 
 ---
 ## CVE-2026-40261 ()
