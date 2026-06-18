@@ -4493,6 +4493,7 @@
 - [f4dee-backup/CVE-2025-54123](https://github.com/f4dee-backup/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-54123">
 - [davidzzo23/CVE-2025-54123](https://github.com/davidzzo23/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/davidzzo23/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/davidzzo23/CVE-2025-54123">
 - [0x00phantom-hat/Hoverfly-1.11.3-RCE-CVE-2025-54123-Exploit](https://github.com/0x00phantom-hat/Hoverfly-1.11.3-RCE-CVE-2025-54123-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/Hoverfly-1.11.3-RCE-CVE-2025-54123-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/Hoverfly-1.11.3-RCE-CVE-2025-54123-Exploit">
+- [0xk4rth1/CVE-2025-54123](https://github.com/0xk4rth1/CVE-2025-54123)	<img alt="forks" src="https://img.shields.io/github/forks/0xk4rth1/CVE-2025-54123">	<img alt="stars" src="https://img.shields.io/github/stars/0xk4rth1/CVE-2025-54123">
 
 ---
 ## CVE-2025-54110 ()

@@ -860,6 +860,7 @@
 ## CVE-2026-44963 ()
 > 
 - [HORKimhab/CVE-2026-44963](https://github.com/HORKimhab/CVE-2026-44963)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-44963">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-44963">
+- [SentinelXofficial/CVE-2026-44963](https://github.com/SentinelXofficial/CVE-2026-44963)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/CVE-2026-44963">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/CVE-2026-44963">
 
 ---
 ## CVE-2026-44881 ()
@@ -1733,6 +1734,11 @@
 ## CVE-2026-38360 ()
 > 
 - [a1ohadance/CVE-2026-38360](https://github.com/a1ohadance/CVE-2026-38360)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38360">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38360">
+
+---
+## CVE-2026-38165 ()
+> 
+- [AT190510-Cuong/CVE-2026-38165-SSTI-](https://github.com/AT190510-Cuong/CVE-2026-38165-SSTI-)	<img alt="forks" src="https://img.shields.io/github/forks/AT190510-Cuong/CVE-2026-38165-SSTI-">	<img alt="stars" src="https://img.shields.io/github/stars/AT190510-Cuong/CVE-2026-38165-SSTI-">
 
 ---
 ## CVE-2026-3805 ()
