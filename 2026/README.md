@@ -4053,6 +4053,11 @@
 - [H1sok444/CVE-2026-25232-PoC](https://github.com/H1sok444/CVE-2026-25232-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H1sok444/CVE-2026-25232-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H1sok444/CVE-2026-25232-PoC">
 
 ---
+## CVE-2026-25212 ()
+> 
+- [5170Temp/CVE-2026-25212](https://github.com/5170Temp/CVE-2026-25212)	<img alt="forks" src="https://img.shields.io/github/forks/5170Temp/CVE-2026-25212">	<img alt="stars" src="https://img.shields.io/github/stars/5170Temp/CVE-2026-25212">
+
+---
 ## CVE-2026-25211 ()
 > 
 - [mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211](https://github.com/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">
