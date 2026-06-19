@@ -372,6 +372,11 @@
 - [Xaanziu/CVE-2026-5513](https://github.com/Xaanziu/CVE-2026-5513)	<img alt="forks" src="https://img.shields.io/github/forks/Xaanziu/CVE-2026-5513">	<img alt="stars" src="https://img.shields.io/github/stars/Xaanziu/CVE-2026-5513">
 
 ---
+## CVE-2026-54761 ()
+> 
+- [Saku0512/CVE-2026-54761-poc](https://github.com/Saku0512/CVE-2026-54761-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54761-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54761-poc">
+
+---
 ## CVE-2026-54686 ()
 > 
 - [87achrafg-stack/CVE-2026-54686](https://github.com/87achrafg-stack/CVE-2026-54686)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-54686">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-54686">
@@ -1668,6 +1673,11 @@
 ## CVE-2026-39292 ()
 > 
 - [krishnadevpmelevila/CVE-2026-39292](https://github.com/krishnadevpmelevila/CVE-2026-39292)	<img alt="forks" src="https://img.shields.io/github/forks/krishnadevpmelevila/CVE-2026-39292">	<img alt="stars" src="https://img.shields.io/github/stars/krishnadevpmelevila/CVE-2026-39292">
+
+---
+## CVE-2026-39259 ()
+> 
+- [yousif-IQ/CVE-2026-39259](https://github.com/yousif-IQ/CVE-2026-39259)	<img alt="forks" src="https://img.shields.io/github/forks/yousif-IQ/CVE-2026-39259">	<img alt="stars" src="https://img.shields.io/github/stars/yousif-IQ/CVE-2026-39259">
 
 ---
 ## CVE-2026-39107 ()
@@ -5442,6 +5452,11 @@
 - [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
 
 ---
+## CVE-2026-11784 ()
+> 
+- [AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF](https://github.com/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF)	<img alt="forks" src="https://img.shields.io/github/forks/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF">	<img alt="stars" src="https://img.shields.io/github/stars/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF">
+
+---
 ## CVE-2026-11645 ()
 > 
 - [fevar54/CVE-2026-11645-Out-of-bounds-Read-Write](https://github.com/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write">
@@ -5484,6 +5499,8 @@
 ## CVE-2026-10523 ()
 > 
 - [gagaltotal/CVE-2026-10523-Ivanti-sentry](https://github.com/gagaltotal/CVE-2026-10523-Ivanti-sentry)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-10523-Ivanti-sentry">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-10523-Ivanti-sentry">
+- [HORKimhab/CVE-2026-10520-10523](https://github.com/HORKimhab/CVE-2026-10520-10523)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10520-10523">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10520-10523">
+- [watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">
 
 ---
 ## CVE-2026-10520 ()
