@@ -245,6 +245,9 @@
 - [bixiPRO/Drupalgeddon2-CVE-2018-7600](https://github.com/bixiPRO/Drupalgeddon2-CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/bixiPRO/Drupalgeddon2-CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/bixiPRO/Drupalgeddon2-CVE-2018-7600">
 - [Meraj1312/cve-2018-7600-drupalgeddon2-lab](https://github.com/Meraj1312/cve-2018-7600-drupalgeddon2-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Meraj1312/cve-2018-7600-drupalgeddon2-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Meraj1312/cve-2018-7600-drupalgeddon2-lab">
 - [erman-bolukbasi/web-penetration-drupal](https://github.com/erman-bolukbasi/web-penetration-drupal)	<img alt="forks" src="https://img.shields.io/github/forks/erman-bolukbasi/web-penetration-drupal">	<img alt="stars" src="https://img.shields.io/github/stars/erman-bolukbasi/web-penetration-drupal">
+- [nayem-m/drupalgeddon2-cli](https://github.com/nayem-m/drupalgeddon2-cli)	<img alt="forks" src="https://img.shields.io/github/forks/nayem-m/drupalgeddon2-cli">	<img alt="stars" src="https://img.shields.io/github/stars/nayem-m/drupalgeddon2-cli">
+- [Dungsocool/CVE-2018-7600](https://github.com/Dungsocool/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2018-7600">
+- [MoriartyPuth-Labs/DC1-Lab](https://github.com/MoriartyPuth-Labs/DC1-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/MoriartyPuth-Labs/DC1-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/MoriartyPuth-Labs/DC1-Lab">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)

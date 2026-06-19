@@ -264,6 +264,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [miguelc49/CVE-2023-6019-3](https://github.com/miguelc49/CVE-2023-6019-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-6019-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-6019-3">
 - [Clydeston/CVE-2023-6019](https://github.com/Clydeston/CVE-2023-6019)	<img alt="forks" src="https://img.shields.io/github/forks/Clydeston/CVE-2023-6019">	<img alt="stars" src="https://img.shields.io/github/stars/Clydeston/CVE-2023-6019">
 - [Zohaibkhan1472/cve-2023-6019](https://github.com/Zohaibkhan1472/cve-2023-6019)	<img alt="forks" src="https://img.shields.io/github/forks/Zohaibkhan1472/cve-2023-6019">	<img alt="stars" src="https://img.shields.io/github/stars/Zohaibkhan1472/cve-2023-6019">
+- [joaquinrrr/CVE-2023-6019](https://github.com/joaquinrrr/CVE-2023-6019)	<img alt="forks" src="https://img.shields.io/github/forks/joaquinrrr/CVE-2023-6019">	<img alt="stars" src="https://img.shields.io/github/stars/joaquinrrr/CVE-2023-6019">
 
 ---
 ## CVE-2023-6000 (2024-01-01T15:15:00)

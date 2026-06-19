@@ -1229,6 +1229,8 @@
 ## CVE-2026-42530 ()
 > 
 - [HORKimhab/CVE-2026-42530](https://github.com/HORKimhab/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-42530">
+- [0xBlackash/CVE-2026-42530](https://github.com/0xBlackash/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42530">
+- [v4ltonn/CVE-2026-42530](https://github.com/v4ltonn/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/v4ltonn/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/v4ltonn/CVE-2026-42530">
 
 ---
 ## CVE-2026-42281 ()
