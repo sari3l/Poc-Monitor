@@ -5464,6 +5464,11 @@
 - [0xBlackash/CVE-2026-11645](https://github.com/0xBlackash/CVE-2026-11645)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-11645">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-11645">
 
 ---
+## CVE-2026-11551 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2026-11551-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11551-PoC">
+
+---
 ## CVE-2026-11499 ()
 > 
 - [0xBlackash/CVE-2026-11499](https://github.com/0xBlackash/CVE-2026-11499)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-11499">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-11499">
@@ -5714,6 +5719,7 @@
 - [thakur2309/CVE-2026-0073-ZERO-CLICK](https://github.com/thakur2309/CVE-2026-0073-ZERO-CLICK)	<img alt="forks" src="https://img.shields.io/github/forks/thakur2309/CVE-2026-0073-ZERO-CLICK">	<img alt="stars" src="https://img.shields.io/github/stars/thakur2309/CVE-2026-0073-ZERO-CLICK">
 - [m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass](https://github.com/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">
 - [fredevsec/CVE-2026-0073](https://github.com/fredevsec/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/fredevsec/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/fredevsec/CVE-2026-0073">
+- [RDTUTORIAL/aetherion](https://github.com/RDTUTORIAL/aetherion)	<img alt="forks" src="https://img.shields.io/github/forks/RDTUTORIAL/aetherion">	<img alt="stars" src="https://img.shields.io/github/stars/RDTUTORIAL/aetherion">
 
 ---
 ## CVE-2026-0047 ()

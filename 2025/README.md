@@ -3038,6 +3038,7 @@
 - [ozcanpng/CVE-2025-57819-FreePBX-RCE2Root](https://github.com/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root">
 - [0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678](https://github.com/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678)	<img alt="forks" src="https://img.shields.io/github/forks/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678">	<img alt="stars" src="https://img.shields.io/github/stars/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678">
 - [jf-gondim/freepbx-endpoint-sqli-rce](https://github.com/jf-gondim/freepbx-endpoint-sqli-rce)	<img alt="forks" src="https://img.shields.io/github/forks/jf-gondim/freepbx-endpoint-sqli-rce">	<img alt="stars" src="https://img.shields.io/github/stars/jf-gondim/freepbx-endpoint-sqli-rce">
+- [TYehan/CVE-2025-57819-FreePBX-RCE-Exploit](https://github.com/TYehan/CVE-2025-57819-FreePBX-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2025-57819-FreePBX-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2025-57819-FreePBX-RCE-Exploit">
 
 ---
 ## CVE-2025-57773 ()
