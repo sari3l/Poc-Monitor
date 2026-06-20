@@ -1890,6 +1890,11 @@
 - [Shubham03007/CVE-2025-63830](https://github.com/Shubham03007/CVE-2025-63830)	<img alt="forks" src="https://img.shields.io/github/forks/Shubham03007/CVE-2025-63830">	<img alt="stars" src="https://img.shields.io/github/stars/Shubham03007/CVE-2025-63830">
 
 ---
+## CVE-2025-63821 ()
+> 
+- [Xernary/CVE-2025-63821](https://github.com/Xernary/CVE-2025-63821)	<img alt="forks" src="https://img.shields.io/github/forks/Xernary/CVE-2025-63821">	<img alt="stars" src="https://img.shields.io/github/stars/Xernary/CVE-2025-63821">
+
+---
 ## CVE-2025-63735 ()
 > 
 - [huthx/CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS](https://github.com/huthx/CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/huthx/CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/huthx/CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS">
