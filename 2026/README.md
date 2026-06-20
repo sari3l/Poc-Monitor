@@ -5464,6 +5464,11 @@
 - [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
 
 ---
+## CVE-2026-11912 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2026-11912](https://github.com/Polosss/By-Poloss..-..CVE-2026-11912)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11912">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11912">
+
+---
 ## CVE-2026-11784 ()
 > 
 - [AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF](https://github.com/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF)	<img alt="forks" src="https://img.shields.io/github/forks/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF">	<img alt="stars" src="https://img.shields.io/github/stars/AlexMihailEngineer/CVE-2026-11784-Optimole-CSRF">
