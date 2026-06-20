@@ -969,6 +969,7 @@
 - [dinosn/CVE-2026-44578](https://github.com/dinosn/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-44578">
 - [0xBlackash/CVE-2026-44578](https://github.com/0xBlackash/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-44578">
 - [GadaLuBau1337/CVE-2026-44578](https://github.com/GadaLuBau1337/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2026-44578">
+- [BS2010-AirborneTroops/NEXT-SSRF](https://github.com/BS2010-AirborneTroops/NEXT-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/BS2010-AirborneTroops/NEXT-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/BS2010-AirborneTroops/NEXT-SSRF">
 
 ---
 ## CVE-2026-4447 ()
