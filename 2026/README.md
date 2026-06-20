@@ -406,6 +406,11 @@
 - [HORKimhab/CVE-2026-54420](https://github.com/HORKimhab/CVE-2026-54420)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-54420">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-54420">
 
 ---
+## CVE-2026-54337 ()
+> 
+- [4qu4r1um/CVE-2026-54337-PoC](https://github.com/4qu4r1um/CVE-2026-54337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/4qu4r1um/CVE-2026-54337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/4qu4r1um/CVE-2026-54337-PoC">
+
+---
 ## CVE-2026-54316 ()
 > 
 - [InertFluid/cve-2026-54316-lab](https://github.com/InertFluid/cve-2026-54316-lab)	<img alt="forks" src="https://img.shields.io/github/forks/InertFluid/cve-2026-54316-lab">	<img alt="stars" src="https://img.shields.io/github/stars/InertFluid/cve-2026-54316-lab">
@@ -5474,6 +5479,7 @@
 ## CVE-2026-11551 ()
 > 
 - [Polosss/By-Poloss..-..CVE-2026-11551-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11551-PoC">
+- [xxconi/2026-11551](https://github.com/xxconi/2026-11551)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/2026-11551">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/2026-11551">
 
 ---
 ## CVE-2026-11499 ()
