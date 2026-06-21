@@ -600,6 +600,11 @@
 - [INTELEON404/CVE-2026-49009](https://github.com/INTELEON404/CVE-2026-49009)	<img alt="forks" src="https://img.shields.io/github/forks/INTELEON404/CVE-2026-49009">	<img alt="stars" src="https://img.shields.io/github/stars/INTELEON404/CVE-2026-49009">
 
 ---
+## CVE-2026-48908 ()
+> 
+- [webshellseo8/CVE-2026-48908-POC](https://github.com/webshellseo8/CVE-2026-48908-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48908-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48908-POC">
+
+---
 ## CVE-2026-48907 ()
 > 
 - [webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE](https://github.com/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE">
@@ -5504,6 +5509,7 @@
 ---
 ## CVE-2026-11561 ()
 > 
+- [alperenkesk/CVE-2026-11561](https://github.com/alperenkesk/CVE-2026-11561)	<img alt="forks" src="https://img.shields.io/github/forks/alperenkesk/CVE-2026-11561">	<img alt="stars" src="https://img.shields.io/github/stars/alperenkesk/CVE-2026-11561">
 - [alperenkesk/CVE-2026-11561](https://github.com/alperenkesk/CVE-2026-11561)	<img alt="forks" src="https://img.shields.io/github/forks/alperenkesk/CVE-2026-11561">	<img alt="stars" src="https://img.shields.io/github/stars/alperenkesk/CVE-2026-11561">
 
 ---
