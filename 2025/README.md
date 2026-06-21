@@ -10403,6 +10403,11 @@
 - [jaytarr-geo/nextjs-lodash-cve-2025-13465-repro](https://github.com/jaytarr-geo/nextjs-lodash-cve-2025-13465-repro)	<img alt="forks" src="https://img.shields.io/github/forks/jaytarr-geo/nextjs-lodash-cve-2025-13465-repro">	<img alt="stars" src="https://img.shields.io/github/stars/jaytarr-geo/nextjs-lodash-cve-2025-13465-repro">
 
 ---
+## CVE-2025-13407 ()
+> 
+- [xxconi/CVE-2025-13407](https://github.com/xxconi/CVE-2025-13407)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2025-13407">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2025-13407">
+
+---
 ## CVE-2025-13401 ()
 > 
 - [ciscocamelo/CVE-2025-13401-XSS-Stored](https://github.com/ciscocamelo/CVE-2025-13401-XSS-Stored)	<img alt="forks" src="https://img.shields.io/github/forks/ciscocamelo/CVE-2025-13401-XSS-Stored">	<img alt="stars" src="https://img.shields.io/github/stars/ciscocamelo/CVE-2025-13401-XSS-Stored">
