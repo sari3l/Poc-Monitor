@@ -609,6 +609,7 @@
 ## CVE-2026-48909 ()
 > 
 - [Is4yev/CVE-2026-48909](https://github.com/Is4yev/CVE-2026-48909)	<img alt="forks" src="https://img.shields.io/github/forks/Is4yev/CVE-2026-48909">	<img alt="stars" src="https://img.shields.io/github/stars/Is4yev/CVE-2026-48909">
+- [Is4yev/CVE-2026-48909](https://github.com/Is4yev/CVE-2026-48909)	<img alt="forks" src="https://img.shields.io/github/forks/Is4yev/CVE-2026-48909">	<img alt="stars" src="https://img.shields.io/github/stars/Is4yev/CVE-2026-48909">
 
 ---
 ## CVE-2026-48908 ()
@@ -1686,6 +1687,11 @@
 - [ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808](https://github.com/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">
 - [HORKimhab/CVE-2026-39808](https://github.com/HORKimhab/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39808">
 - [error-inside/CVE-2026-39808](https://github.com/error-inside/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2026-39808">
+
+---
+## CVE-2026-39676 ()
+> 
+- [OkamiSpade/Cve-2026-39676](https://github.com/OkamiSpade/Cve-2026-39676)	<img alt="forks" src="https://img.shields.io/github/forks/OkamiSpade/Cve-2026-39676">	<img alt="stars" src="https://img.shields.io/github/stars/OkamiSpade/Cve-2026-39676">
 
 ---
 ## CVE-2026-39440 ()
