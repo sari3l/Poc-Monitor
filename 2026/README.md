@@ -627,6 +627,11 @@
 - [Jenderal92/CVE-2026-4885](https://github.com/Jenderal92/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-4885">
 
 ---
+## CVE-2026-48849 ()
+> 
+- [AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS](https://github.com/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/AnandJogawade/CVE-2026-48849-Roundcube-Webmail-Stored-XSS">
+
+---
 ## CVE-2026-4882 ()
 > 
 - [xShadow-Here/CVE-2026-4882](https://github.com/xShadow-Here/CVE-2026-4882)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4882">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4882">
