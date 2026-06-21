@@ -543,6 +543,12 @@
 - [passwa11/CVE-2026-49952](https://github.com/passwa11/CVE-2026-49952)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-49952">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-49952">
 
 ---
+## CVE-2026-49777 ()
+> 
+- [xxconi/CVE-2026-49777-CVE-2026-10735](https://github.com/xxconi/CVE-2026-49777-CVE-2026-10735)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-49777-CVE-2026-10735">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-49777-CVE-2026-10735">
+- [izxci/CVE-2026-49777](https://github.com/izxci/CVE-2026-49777)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49777">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49777">
+
+---
 ## CVE-2026-49757 ()
 > 
 - [Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching](https://github.com/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching">
@@ -2640,6 +2646,7 @@
 > 
 - [solarlynxsqueeze/CVE-2026-32202](https://github.com/solarlynxsqueeze/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/solarlynxsqueeze/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/solarlynxsqueeze/CVE-2026-32202">
 - [virus-or-not/CVE-2026-32202](https://github.com/virus-or-not/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/virus-or-not/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/virus-or-not/CVE-2026-32202">
+- [alexlanum/CVE-2026-32202](https://github.com/alexlanum/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/alexlanum/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/alexlanum/CVE-2026-32202">
 
 ---
 ## CVE-2026-32201 ()
