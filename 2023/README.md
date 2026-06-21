@@ -5432,6 +5432,7 @@ Fixed in version 6.4.1.
 ## CVE-2023-31902 ()
 > 
 - [xl337x/CVE-2023-31902](https://github.com/xl337x/CVE-2023-31902)	<img alt="forks" src="https://img.shields.io/github/forks/xl337x/CVE-2023-31902">	<img alt="stars" src="https://img.shields.io/github/stars/xl337x/CVE-2023-31902">
+- [blue0x1/mobilemouse-exploit](https://github.com/blue0x1/mobilemouse-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/blue0x1/mobilemouse-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/blue0x1/mobilemouse-exploit">
 
 ---
 ## CVE-2023-31853 (2023-07-17T15:15:00)
