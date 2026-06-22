@@ -4280,6 +4280,7 @@
 - [olezhaku/react2shell-toolkit](https://github.com/olezhaku/react2shell-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/olezhaku/react2shell-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/olezhaku/react2shell-toolkit">
 - [SentinelXofficial/CVE-2025-55182](https://github.com/SentinelXofficial/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/CVE-2025-55182">
 - [Fomovet/cve-2025-55182](https://github.com/Fomovet/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-55182">
+- [avoidme12/CVE-2025-55182-POC](https://github.com/avoidme12/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/avoidme12/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/avoidme12/CVE-2025-55182-POC">
 
 ---
 ## CVE-2025-55130 ()

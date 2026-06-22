@@ -8236,6 +8236,7 @@ kernel memory, lateral privilege escalation, and container escape.
 - [0xAtharv/CVE-2023-20938](https://github.com/0xAtharv/CVE-2023-20938)	<img alt="forks" src="https://img.shields.io/github/forks/0xAtharv/CVE-2023-20938">	<img alt="stars" src="https://img.shields.io/github/stars/0xAtharv/CVE-2023-20938">
 - [0xAtharv/CVE-2023-20938-Public](https://github.com/0xAtharv/CVE-2023-20938-Public)	<img alt="forks" src="https://img.shields.io/github/forks/0xAtharv/CVE-2023-20938-Public">	<img alt="stars" src="https://img.shields.io/github/stars/0xAtharv/CVE-2023-20938-Public">
 - [Cyb3rCr0wCC/cve-2023-20938](https://github.com/Cyb3rCr0wCC/cve-2023-20938)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rCr0wCC/cve-2023-20938">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rCr0wCC/cve-2023-20938">
+- [byt3quester/CVE-2023-20938-poc](https://github.com/byt3quester/CVE-2023-20938-poc)	<img alt="forks" src="https://img.shields.io/github/forks/byt3quester/CVE-2023-20938-poc">	<img alt="stars" src="https://img.shields.io/github/stars/byt3quester/CVE-2023-20938-poc">
 
 ---
 ## CVE-2023-20933 (2023-02-28T17:15:00)

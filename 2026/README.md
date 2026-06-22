@@ -1604,6 +1604,11 @@
 - [terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC](https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">
 
 ---
+## CVE-2026-4020 ()
+> 
+- [HORKimhab/CVE-2026-4020](https://github.com/HORKimhab/CVE-2026-4020)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-4020">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-4020">
+
+---
 ## CVE-2026-40176 ()
 > 
 - [Saku0512/CVE-2026-40176-poc](https://github.com/Saku0512/CVE-2026-40176-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-40176-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-40176-poc">
@@ -4085,6 +4090,11 @@
 ## CVE-2026-25546 ()
 > 
 - [mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection](https://github.com/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection">
+
+---
+## CVE-2026-25541 ()
+> 
+- [hanyvert/cve-2026-25541-fuel-analysis](https://github.com/hanyvert/cve-2026-25541-fuel-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/hanyvert/cve-2026-25541-fuel-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/hanyvert/cve-2026-25541-fuel-analysis">
 
 ---
 ## CVE-2026-25526 ()
