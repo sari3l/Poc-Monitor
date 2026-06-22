@@ -372,6 +372,11 @@
 - [Xaanziu/CVE-2026-5513](https://github.com/Xaanziu/CVE-2026-5513)	<img alt="forks" src="https://img.shields.io/github/forks/Xaanziu/CVE-2026-5513">	<img alt="stars" src="https://img.shields.io/github/stars/Xaanziu/CVE-2026-5513">
 
 ---
+## CVE-2026-54806 ()
+> 
+- [joshuavanderpoll/CVE-2026-54806](https://github.com/joshuavanderpoll/CVE-2026-54806)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-54806">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-54806">
+
+---
 ## CVE-2026-54761 ()
 > 
 - [Saku0512/CVE-2026-54761-poc](https://github.com/Saku0512/CVE-2026-54761-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54761-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54761-poc">
@@ -615,6 +620,7 @@
 ## CVE-2026-48908 ()
 > 
 - [webshellseo8/CVE-2026-48908-POC](https://github.com/webshellseo8/CVE-2026-48908-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48908-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48908-POC">
+- [papageo75/CVE-2026-48908-PoC](https://github.com/papageo75/CVE-2026-48908-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/papageo75/CVE-2026-48908-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/papageo75/CVE-2026-48908-PoC">
 
 ---
 ## CVE-2026-48907 ()
@@ -627,6 +633,7 @@
 - [wearehackers160/CVE-2026-48907](https://github.com/wearehackers160/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/wearehackers160/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/wearehackers160/CVE-2026-48907">
 - [g0thamRabb1t/joomla-jce-cve-2026-48907-detection](https://github.com/g0thamRabb1t/joomla-jce-cve-2026-48907-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/joomla-jce-cve-2026-48907-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/joomla-jce-cve-2026-48907-detection">
 - [sec0x/CVE-2026-48907](https://github.com/sec0x/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/sec0x/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/sec0x/CVE-2026-48907">
+- [0xgh057r3c0n/CVE-2026-48907](https://github.com/0xgh057r3c0n/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-48907">
 
 ---
 ## CVE-2026-48866 ()
@@ -1761,6 +1768,11 @@
 ## CVE-2026-3909 ()
 > 
 - [anansi2safe/CVE-2026-3909-PoC](https://github.com/anansi2safe/CVE-2026-3909-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2026-3909-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2026-3909-PoC">
+
+---
+## CVE-2026-39031 ()
+> 
+- [user6400/cve-2026-39031-lansweeper-lsrunase2-lsencrypt2](https://github.com/user6400/cve-2026-39031-lansweeper-lsrunase2-lsencrypt2)	<img alt="forks" src="https://img.shields.io/github/forks/user6400/cve-2026-39031-lansweeper-lsrunase2-lsencrypt2">	<img alt="stars" src="https://img.shields.io/github/stars/user6400/cve-2026-39031-lansweeper-lsrunase2-lsencrypt2">
 
 ---
 ## CVE-2026-38945 ()

@@ -3429,6 +3429,7 @@
 - [vorkampfer/pwnkit_safety_check](https://github.com/vorkampfer/pwnkit_safety_check)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/pwnkit_safety_check">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/pwnkit_safety_check">
 - [trinetra-1308/PwnKit-](https://github.com/trinetra-1308/PwnKit-)	<img alt="forks" src="https://img.shields.io/github/forks/trinetra-1308/PwnKit-">	<img alt="stars" src="https://img.shields.io/github/stars/trinetra-1308/PwnKit-">
 - [usman-khan-23626/-CVE-2021-4034](https://github.com/usman-khan-23626/-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/usman-khan-23626/-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/usman-khan-23626/-CVE-2021-4034">
+- [ropydev/CVE-2021-4034-PwnKit](https://github.com/ropydev/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/ropydev/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/ropydev/CVE-2021-4034-PwnKit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)

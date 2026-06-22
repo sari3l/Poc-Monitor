@@ -5633,6 +5633,11 @@ Fixed in version 6.4.1.
 - [whypet/CVE-2023-31320](https://github.com/whypet/CVE-2023-31320)	<img alt="forks" src="https://img.shields.io/github/forks/whypet/CVE-2023-31320">	<img alt="stars" src="https://img.shields.io/github/stars/whypet/CVE-2023-31320">
 
 ---
+## CVE-2023-31290 ()
+> 
+- [ethicbrudhack/CVE-2023-31290-Scanner-](https://github.com/ethicbrudhack/CVE-2023-31290-Scanner-)	<img alt="forks" src="https://img.shields.io/github/forks/ethicbrudhack/CVE-2023-31290-Scanner-">	<img alt="stars" src="https://img.shields.io/github/stars/ethicbrudhack/CVE-2023-31290-Scanner-">
+
+---
 ## CVE-2023-3128 ()
 > 
 - [spyata123/CVE-2023-3128](https://github.com/spyata123/CVE-2023-3128)	<img alt="forks" src="https://img.shields.io/github/forks/spyata123/CVE-2023-3128">	<img alt="stars" src="https://img.shields.io/github/stars/spyata123/CVE-2023-3128">
