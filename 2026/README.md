@@ -720,6 +720,11 @@
 - [xxconi/CVE-2026-4782](https://github.com/xxconi/CVE-2026-4782)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-4782">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-4782">
 
 ---
+## CVE-2026-47729 ()
+> 
+- [0xBlackash/CVE-2026-47729](https://github.com/0xBlackash/CVE-2026-47729)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-47729">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-47729">
+
+---
 ## CVE-2026-47670 ()
 > 
 - [error-inside/CVE-2026-47670](https://github.com/error-inside/CVE-2026-47670)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2026-47670">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2026-47670">
