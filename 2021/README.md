@@ -9376,6 +9376,7 @@
 - [afifudinmtop/CVE-2021-21425](https://github.com/afifudinmtop/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/afifudinmtop/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/afifudinmtop/CVE-2021-21425">
 - [TeddyEngel/CVE-2021-21425](https://github.com/TeddyEngel/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/TeddyEngel/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/TeddyEngel/CVE-2021-21425">
 - [d4ytox/CVE-2021-21425](https://github.com/d4ytox/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-21425">
+- [s1lentf00thold/CVE-2021-21425-RCE](https://github.com/s1lentf00thold/CVE-2021-21425-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/s1lentf00thold/CVE-2021-21425-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/s1lentf00thold/CVE-2021-21425-RCE">
 
 ---
 ## CVE-2021-21424 ()
