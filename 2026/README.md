@@ -1611,6 +1611,7 @@
 - [0xBlackash/CVE-2026-40369](https://github.com/0xBlackash/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-40369">
 - [Joe1sn/CVE_2026_40369](https://github.com/Joe1sn/CVE_2026_40369)	<img alt="forks" src="https://img.shields.io/github/forks/Joe1sn/CVE_2026_40369">	<img alt="stars" src="https://img.shields.io/github/stars/Joe1sn/CVE_2026_40369">
 - [piffd0s/ntoskrnl-metadata](https://github.com/piffd0s/ntoskrnl-metadata)	<img alt="forks" src="https://img.shields.io/github/forks/piffd0s/ntoskrnl-metadata">	<img alt="stars" src="https://img.shields.io/github/stars/piffd0s/ntoskrnl-metadata">
+- [CCELEND/CVE-2026-40369](https://github.com/CCELEND/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/CCELEND/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/CCELEND/CVE-2026-40369">
 
 ---
 ## CVE-2026-40261 ()
@@ -5159,6 +5160,11 @@
 ## CVE-2026-2113 ()
 > 
 - [MaxMnMl/tpadmin-CVE-2026-2113-poc](https://github.com/MaxMnMl/tpadmin-CVE-2026-2113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/tpadmin-CVE-2026-2113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/tpadmin-CVE-2026-2113-poc">
+
+---
+## CVE-2026-21018 ()
+> 
+- [Filipemendonca1978/CVE-2026-21018](https://github.com/Filipemendonca1978/CVE-2026-21018)	<img alt="forks" src="https://img.shields.io/github/forks/Filipemendonca1978/CVE-2026-21018">	<img alt="stars" src="https://img.shields.io/github/stars/Filipemendonca1978/CVE-2026-21018">
 
 ---
 ## CVE-2026-20999 ()

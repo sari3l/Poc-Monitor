@@ -2604,6 +2604,7 @@
 - [im2sinister/CVE-2021-41773](https://github.com/im2sinister/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/im2sinister/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/im2sinister/CVE-2021-41773">
 - [wvverez/CVE-2021-41773-PoC](https://github.com/wvverez/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2021-41773-PoC">
 - [fxdyx-a/CVE-2021-41773-POC](https://github.com/fxdyx-a/CVE-2021-41773-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fxdyx-a/CVE-2021-41773-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fxdyx-a/CVE-2021-41773-POC">
+- [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
