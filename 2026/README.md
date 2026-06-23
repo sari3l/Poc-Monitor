@@ -1766,6 +1766,11 @@
 - [yousif-IQ/CVE-2026-39259](https://github.com/yousif-IQ/CVE-2026-39259)	<img alt="forks" src="https://img.shields.io/github/forks/yousif-IQ/CVE-2026-39259">	<img alt="stars" src="https://img.shields.io/github/stars/yousif-IQ/CVE-2026-39259">
 
 ---
+## CVE-2026-39253 ()
+> 
+- [timtimxs/CVE-2026-39253-Advisory](https://github.com/timtimxs/CVE-2026-39253-Advisory)	<img alt="forks" src="https://img.shields.io/github/forks/timtimxs/CVE-2026-39253-Advisory">	<img alt="stars" src="https://img.shields.io/github/stars/timtimxs/CVE-2026-39253-Advisory">
+
+---
 ## CVE-2026-39107 ()
 > 
 - [MGTx2/CVE-2026-39107](https://github.com/MGTx2/CVE-2026-39107)	<img alt="forks" src="https://img.shields.io/github/forks/MGTx2/CVE-2026-39107">	<img alt="stars" src="https://img.shields.io/github/stars/MGTx2/CVE-2026-39107">
