@@ -950,6 +950,11 @@
 - [materaj2/cve-2026-45185-detection-script](https://github.com/materaj2/cve-2026-45185-detection-script)	<img alt="forks" src="https://img.shields.io/github/forks/materaj2/cve-2026-45185-detection-script">	<img alt="stars" src="https://img.shields.io/github/stars/materaj2/cve-2026-45185-detection-script">
 
 ---
+## CVE-2026-45156 ()
+> 
+- [cybertechajju/CVE-2026-45156-POC](https://github.com/cybertechajju/CVE-2026-45156-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2026-45156-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2026-45156-POC">
+
+---
 ## CVE-2026-45091 ()
 > 
 - [HORKimhab/CVE-2026-45091](https://github.com/HORKimhab/CVE-2026-45091)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45091">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45091">
@@ -5596,6 +5601,11 @@
 ## CVE-2026-11837 ()
 > 
 - [M8seven/cve-2026-11837-ansible-posix-authorized-key](https://github.com/M8seven/cve-2026-11837-ansible-posix-authorized-key)	<img alt="forks" src="https://img.shields.io/github/forks/M8seven/cve-2026-11837-ansible-posix-authorized-key">	<img alt="stars" src="https://img.shields.io/github/stars/M8seven/cve-2026-11837-ansible-posix-authorized-key">
+
+---
+## CVE-2026-11834 ()
+> 
+- [mattgsys/CVE-2026-11834](https://github.com/mattgsys/CVE-2026-11834)	<img alt="forks" src="https://img.shields.io/github/forks/mattgsys/CVE-2026-11834">	<img alt="stars" src="https://img.shields.io/github/stars/mattgsys/CVE-2026-11834">
 
 ---
 ## CVE-2026-11784 ()
