@@ -907,6 +907,11 @@
 - [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
 
 ---
+## CVE-2026-45504 ()
+> 
+- [hawktrace/CVE-2026-45504](https://github.com/hawktrace/CVE-2026-45504)	<img alt="forks" src="https://img.shields.io/github/forks/hawktrace/CVE-2026-45504">	<img alt="stars" src="https://img.shields.io/github/stars/hawktrace/CVE-2026-45504">
+
+---
 ## CVE-2026-45447 ()
 > 
 - [HORKimhab/CVE-2026-45447](https://github.com/HORKimhab/CVE-2026-45447)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45447">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45447">
