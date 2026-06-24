@@ -5598,6 +5598,11 @@
 - [YunfeiGE18/CVE-2026-1281-CVE-2026-1340-Ivanti-EPMM-RCE](https://github.com/YunfeiGE18/CVE-2026-1281-CVE-2026-1340-Ivanti-EPMM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/YunfeiGE18/CVE-2026-1281-CVE-2026-1340-Ivanti-EPMM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/YunfeiGE18/CVE-2026-1281-CVE-2026-1340-Ivanti-EPMM-RCE">
 
 ---
+## CVE-2026-12416 ()
+> 
+- [Nxploited/CVE-2026-12416-CVE-2026-12417](https://github.com/Nxploited/CVE-2026-12416-CVE-2026-12417)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-12416-CVE-2026-12417">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-12416-CVE-2026-12417">
+
+---
 ## CVE-2026-1238 ()
 > 
 - [mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-](https://github.com/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">

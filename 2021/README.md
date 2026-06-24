@@ -2964,6 +2964,11 @@
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
 
 ---
+## CVE-2021-40822 ()
+> 
+- [phor3nsic/CVE-2021-40822](https://github.com/phor3nsic/CVE-2021-40822)	<img alt="forks" src="https://img.shields.io/github/forks/phor3nsic/CVE-2021-40822">	<img alt="stars" src="https://img.shields.io/github/stars/phor3nsic/CVE-2021-40822">
+
+---
 ## CVE-2021-4079 (2021-12-23T01:15:00)
 > Out of bounds write in WebRTC in Google Chrome prior to 96.0.4664.93 allowed a remote attacker to potentially exploit heap corruption via crafted WebRTC packets.
 - [Live-Hack-CVE/CVE-2021-4079](https://github.com/Live-Hack-CVE/CVE-2021-4079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4079">
