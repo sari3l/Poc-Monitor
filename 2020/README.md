@@ -3234,6 +3234,7 @@
 - [hev0x/CVE-2020-24186-wpDiscuz-7.0.4-RCE](https://github.com/hev0x/CVE-2020-24186-wpDiscuz-7.0.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hev0x/CVE-2020-24186-wpDiscuz-7.0.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hev0x/CVE-2020-24186-wpDiscuz-7.0.4-RCE">
 - [GazettEl/CVE-2020-24186](https://github.com/GazettEl/CVE-2020-24186)	<img alt="forks" src="https://img.shields.io/github/forks/GazettEl/CVE-2020-24186">	<img alt="stars" src="https://img.shields.io/github/stars/GazettEl/CVE-2020-24186">
 - [sec-dojo-com/CVE-2020-24186](https://github.com/sec-dojo-com/CVE-2020-24186)	<img alt="forks" src="https://img.shields.io/github/forks/sec-dojo-com/CVE-2020-24186">	<img alt="stars" src="https://img.shields.io/github/stars/sec-dojo-com/CVE-2020-24186">
+- [wvverez/CVE-2020-24186](https://github.com/wvverez/CVE-2020-24186)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2020-24186">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2020-24186">
 
 ---
 ## CVE-2020-24089 (2023-09-20T00:15:00)
