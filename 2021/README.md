@@ -6104,6 +6104,7 @@
 - [nasimanpha-create/ing-switch](https://github.com/nasimanpha-create/ing-switch)	<img alt="forks" src="https://img.shields.io/github/forks/nasimanpha-create/ing-switch">	<img alt="stars" src="https://img.shields.io/github/stars/nasimanpha-create/ing-switch">
 - [umair-aziz025/dahua-cve-research](https://github.com/umair-aziz025/dahua-cve-research)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/dahua-cve-research">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/dahua-cve-research">
 - [Bd-Mutant7/DahuaLoginBypass](https://github.com/Bd-Mutant7/DahuaLoginBypass)	<img alt="forks" src="https://img.shields.io/github/forks/Bd-Mutant7/DahuaLoginBypass">	<img alt="stars" src="https://img.shields.io/github/stars/Bd-Mutant7/DahuaLoginBypass">
+- [litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044](https://github.com/litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044">
 
 ---
 ## CVE-2021-33037 (2021-07-12T15:15:00)
