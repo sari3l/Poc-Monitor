@@ -7516,6 +7516,7 @@
 - [TheMursalin/CVE-2025-32432](https://github.com/TheMursalin/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/TheMursalin/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/TheMursalin/CVE-2025-32432">
 - [ZzHotte/cve-2025-32432-replication-lab](https://github.com/ZzHotte/cve-2025-32432-replication-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ZzHotte/cve-2025-32432-replication-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ZzHotte/cve-2025-32432-replication-lab">
 - [cd-ratel/CVE-2025-32432](https://github.com/cd-ratel/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/cd-ratel/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/cd-ratel/CVE-2025-32432">
+- [n40y/PoC_CVE-2025-32432](https://github.com/n40y/PoC_CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/n40y/PoC_CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/n40y/PoC_CVE-2025-32432">
 
 ---
 ## CVE-2025-3243 ()

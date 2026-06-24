@@ -11073,6 +11073,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [Nikopmpm/Fsociety-CVE-2024-0670-CheckMK-LPE](https://github.com/Nikopmpm/Fsociety-CVE-2024-0670-CheckMK-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/Nikopmpm/Fsociety-CVE-2024-0670-CheckMK-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/Nikopmpm/Fsociety-CVE-2024-0670-CheckMK-LPE">
 - [Nikopmpm/nikopmpm.github.io](https://github.com/Nikopmpm/nikopmpm.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Nikopmpm/nikopmpm.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Nikopmpm/nikopmpm.github.io">
 - [tralsesec/CVE-2024-0670](https://github.com/tralsesec/CVE-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/tralsesec/CVE-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/tralsesec/CVE-2024-0670">
+- [dfdxarjy/HTB-NanoCorp-CVE-2024-0670](https://github.com/dfdxarjy/HTB-NanoCorp-CVE-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/dfdxarjy/HTB-NanoCorp-CVE-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/dfdxarjy/HTB-NanoCorp-CVE-2024-0670">
 
 ---
 ## CVE-2024-06666 ()
