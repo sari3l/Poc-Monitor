@@ -2736,6 +2736,11 @@
 - [NULL200OK/CVE-2026-3228](https://github.com/NULL200OK/CVE-2026-3228)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-3228">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-3228">
 
 ---
+## CVE-2026-3227 ()
+> 
+- [do4choo/CVE-2026-3227](https://github.com/do4choo/CVE-2026-3227)	<img alt="forks" src="https://img.shields.io/github/forks/do4choo/CVE-2026-3227">	<img alt="stars" src="https://img.shields.io/github/stars/do4choo/CVE-2026-3227">
+
+---
 ## CVE-2026-32255 ()
 > 
 - [kOaDT/poc-cve-2026-32255](https://github.com/kOaDT/poc-cve-2026-32255)	<img alt="forks" src="https://img.shields.io/github/forks/kOaDT/poc-cve-2026-32255">	<img alt="stars" src="https://img.shields.io/github/stars/kOaDT/poc-cve-2026-32255">
