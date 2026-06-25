@@ -1120,6 +1120,11 @@
 - [covepseng/cve-2026-43512-poc](https://github.com/covepseng/cve-2026-43512-poc)	<img alt="forks" src="https://img.shields.io/github/forks/covepseng/cve-2026-43512-poc">	<img alt="stars" src="https://img.shields.io/github/stars/covepseng/cve-2026-43512-poc">
 
 ---
+## CVE-2026-43503 ()
+> 
+- [0xBlackash/CVE-2026-43503](https://github.com/0xBlackash/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43503">
+
+---
 ## CVE-2026-43500 ()
 > 
 - [attaattaatta/CVE-2026-43500](https://github.com/attaattaatta/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43500">
