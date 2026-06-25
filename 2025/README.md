@@ -10650,6 +10650,7 @@
 - [boneys/CVE-2025-12101-Scanner](https://github.com/boneys/CVE-2025-12101-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/boneys/CVE-2025-12101-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/boneys/CVE-2025-12101-Scanner">
 - [7amzahard/CVE-2025-21202-exploit](https://github.com/7amzahard/CVE-2025-21202-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/CVE-2025-21202-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/CVE-2025-21202-exploit">
 - [boneys/CVE-2025-12101-Scanner-PoC](https://github.com/boneys/CVE-2025-12101-Scanner-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boneys/CVE-2025-12101-Scanner-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boneys/CVE-2025-12101-Scanner-PoC">
+- [rascyber/Sternsleuth-Citrix-NetScaler-RXSS](https://github.com/rascyber/Sternsleuth-Citrix-NetScaler-RXSS)	<img alt="forks" src="https://img.shields.io/github/forks/rascyber/Sternsleuth-Citrix-NetScaler-RXSS">	<img alt="stars" src="https://img.shields.io/github/stars/rascyber/Sternsleuth-Citrix-NetScaler-RXSS">
 
 ---
 ## CVE-2025-12097 ()
