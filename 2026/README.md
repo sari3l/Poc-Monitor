@@ -170,6 +170,11 @@
 - [izxci/CVE-2026-7654](https://github.com/izxci/CVE-2026-7654)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-7654">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-7654">
 
 ---
+## CVE-2026-7574 ()
+> 
+- [0xBlackash/CVE-2026-7574](https://github.com/0xBlackash/CVE-2026-7574)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-7574">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-7574">
+
+---
 ## CVE-2026-7567 ()
 > 
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
@@ -954,6 +959,7 @@
 - [qi-scape/scan-shai-hulud](https://github.com/qi-scape/scan-shai-hulud)	<img alt="forks" src="https://img.shields.io/github/forks/qi-scape/scan-shai-hulud">	<img alt="stars" src="https://img.shields.io/github/stars/qi-scape/scan-shai-hulud">
 - [Caixa-git/tanstack-shield](https://github.com/Caixa-git/tanstack-shield)	<img alt="forks" src="https://img.shields.io/github/forks/Caixa-git/tanstack-shield">	<img alt="stars" src="https://img.shields.io/github/stars/Caixa-git/tanstack-shield">
 - [adriannurrr/CVE-2026-45321-Tanstack](https://github.com/adriannurrr/CVE-2026-45321-Tanstack)	<img alt="forks" src="https://img.shields.io/github/forks/adriannurrr/CVE-2026-45321-Tanstack">	<img alt="stars" src="https://img.shields.io/github/stars/adriannurrr/CVE-2026-45321-Tanstack">
+- [7whyex/CVE-2026-45321-Tanstack](https://github.com/7whyex/CVE-2026-45321-Tanstack)	<img alt="forks" src="https://img.shields.io/github/forks/7whyex/CVE-2026-45321-Tanstack">	<img alt="stars" src="https://img.shields.io/github/stars/7whyex/CVE-2026-45321-Tanstack">
 
 ---
 ## CVE-2026-45247 ()
