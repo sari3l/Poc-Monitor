@@ -3921,6 +3921,7 @@
 - [EQSTLab/CVE-2026-26980](https://github.com/EQSTLab/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-26980">
 - [ByteWraith1/CVE-2026-26980](https://github.com/ByteWraith1/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-26980">
 - [gagaltotal/CVE-2026-26980-Ghost-CMS-Api](https://github.com/gagaltotal/CVE-2026-26980-Ghost-CMS-Api)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-26980-Ghost-CMS-Api">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-26980-Ghost-CMS-Api">
+- [n0bitaemon/CVE-2026-26980-PoC](https://github.com/n0bitaemon/CVE-2026-26980-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/n0bitaemon/CVE-2026-26980-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/n0bitaemon/CVE-2026-26980-PoC">
 
 ---
 ## CVE-2026-26903 ()
