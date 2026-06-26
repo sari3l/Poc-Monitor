@@ -1123,6 +1123,7 @@
 ## CVE-2026-43503 ()
 > 
 - [0xBlackash/CVE-2026-43503](https://github.com/0xBlackash/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43503">
+- [mooder1/dirtyclone-CVE-2026-43503](https://github.com/mooder1/dirtyclone-CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/mooder1/dirtyclone-CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/mooder1/dirtyclone-CVE-2026-43503">
 
 ---
 ## CVE-2026-43500 ()
