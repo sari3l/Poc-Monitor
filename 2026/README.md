@@ -874,6 +874,12 @@
 - [KaraZajac/CHARON](https://github.com/KaraZajac/CHARON)	<img alt="forks" src="https://img.shields.io/github/forks/KaraZajac/CHARON">	<img alt="stars" src="https://img.shields.io/github/stars/KaraZajac/CHARON">
 
 ---
+## CVE-2026-46331 ()
+> 
+- [0xBlackash/CVE-2026-46331](https://github.com/0xBlackash/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46331">
+- [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/packet_edit_meme">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/packet_edit_meme">
+
+---
 ## CVE-2026-4631 ()
 > 
 - [cyberheartmi9/CVE-2026-4631-cockpit-RCE](https://github.com/cyberheartmi9/CVE-2026-4631-cockpit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyberheartmi9/CVE-2026-4631-cockpit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyberheartmi9/CVE-2026-4631-cockpit-RCE">
@@ -1776,6 +1782,11 @@
 ## CVE-2026-39949 ()
 > 
 - [lukehebe/CVE-2026-39949](https://github.com/lukehebe/CVE-2026-39949)	<img alt="forks" src="https://img.shields.io/github/forks/lukehebe/CVE-2026-39949">	<img alt="stars" src="https://img.shields.io/github/stars/lukehebe/CVE-2026-39949">
+
+---
+## CVE-2026-39938 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2026-39938](https://github.com/Polosss/By-Poloss..-..CVE-2026-39938)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-39938">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-39938">
 
 ---
 ## CVE-2026-39912 ()
@@ -4798,6 +4809,7 @@
 - [jf-gondim/mcp-pwn](https://github.com/jf-gondim/mcp-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/jf-gondim/mcp-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/jf-gondim/mcp-pwn">
 - [rohit-sundar/cve-2026-23744](https://github.com/rohit-sundar/cve-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/rohit-sundar/cve-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/rohit-sundar/cve-2026-23744">
 - [kennedy-aikohi/mcpjam-cve-2026-23744-validator](https://github.com/kennedy-aikohi/mcpjam-cve-2026-23744-validator)	<img alt="forks" src="https://img.shields.io/github/forks/kennedy-aikohi/mcpjam-cve-2026-23744-validator">	<img alt="stars" src="https://img.shields.io/github/stars/kennedy-aikohi/mcpjam-cve-2026-23744-validator">
+- [daemoncibsec/mcpExec](https://github.com/daemoncibsec/mcpExec)	<img alt="forks" src="https://img.shields.io/github/forks/daemoncibsec/mcpExec">	<img alt="stars" src="https://img.shields.io/github/stars/daemoncibsec/mcpExec">
 
 ---
 ## CVE-2026-23723 ()
@@ -5429,6 +5441,9 @@
 ## CVE-2026-20253 ()
 > 
 - [0xBlackash/CVE-2026-20253](https://github.com/0xBlackash/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20253">
+- [fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-](https://github.com/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-">
+- [HORKimhab/CVE-2026-20253](https://github.com/HORKimhab/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20253">
+- [watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253](https://github.com/watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253">
 
 ---
 ## CVE-2026-20245 ()
@@ -5705,6 +5720,11 @@
 ## CVE-2026-12416 ()
 > 
 - [Nxploited/CVE-2026-12416-CVE-2026-12417](https://github.com/Nxploited/CVE-2026-12416-CVE-2026-12417)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-12416-CVE-2026-12417">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-12416-CVE-2026-12417">
+
+---
+## CVE-2026-12415 ()
+> 
+- [xxconi/CVE-2026-12415-or-CVE-2026-12416.py](https://github.com/xxconi/CVE-2026-12415-or-CVE-2026-12416.py)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-12415-or-CVE-2026-12416.py">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-12415-or-CVE-2026-12416.py">
 
 ---
 ## CVE-2026-1238 ()
