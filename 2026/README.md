@@ -407,6 +407,11 @@
 - [Xaanziu/CVE-2026-5513](https://github.com/Xaanziu/CVE-2026-5513)	<img alt="forks" src="https://img.shields.io/github/forks/Xaanziu/CVE-2026-5513">	<img alt="stars" src="https://img.shields.io/github/stars/Xaanziu/CVE-2026-5513">
 
 ---
+## CVE-2026-54807 ()
+> 
+- [izxci/CVE-2026-54807](https://github.com/izxci/CVE-2026-54807)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-54807">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-54807">
+
+---
 ## CVE-2026-54806 ()
 > 
 - [joshuavanderpoll/CVE-2026-54806](https://github.com/joshuavanderpoll/CVE-2026-54806)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-54806">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-54806">
@@ -1030,6 +1035,11 @@
 - [ClearLotus-git/CVE-2026-4480-PoC](https://github.com/ClearLotus-git/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClearLotus-git/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClearLotus-git/CVE-2026-4480-PoC">
 
 ---
+## CVE-2026-44788 ()
+> 
+- [e-corp-demo/CVE-2026-44788](https://github.com/e-corp-demo/CVE-2026-44788)	<img alt="forks" src="https://img.shields.io/github/forks/e-corp-demo/CVE-2026-44788">	<img alt="stars" src="https://img.shields.io/github/stars/e-corp-demo/CVE-2026-44788">
+
+---
 ## CVE-2026-44706 ()
 > 
 - [hakaioffsec/CVE-2026-44706](https://github.com/hakaioffsec/CVE-2026-44706)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-44706">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-44706">
@@ -1125,6 +1135,7 @@
 > 
 - [0xBlackash/CVE-2026-43503](https://github.com/0xBlackash/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43503">
 - [mooder1/dirtyclone-CVE-2026-43503](https://github.com/mooder1/dirtyclone-CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/mooder1/dirtyclone-CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/mooder1/dirtyclone-CVE-2026-43503">
+- [aexdyhaxor/CVE-2026-43503-DirtyClone](https://github.com/aexdyhaxor/CVE-2026-43503-DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-43503-DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-43503-DirtyClone">
 
 ---
 ## CVE-2026-43500 ()
@@ -2605,6 +2616,11 @@
 ## CVE-2026-33147 ()
 > 
 - [redyank/CVE-2026-33147](https://github.com/redyank/CVE-2026-33147)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33147">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33147">
+
+---
+## CVE-2026-33146 ()
+> 
+- [0xmrma/CVE-2026-33146](https://github.com/0xmrma/CVE-2026-33146)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-33146">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-33146">
 
 ---
 ## CVE-2026-33137 ()
