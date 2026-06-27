@@ -2131,6 +2131,11 @@
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
 
 ---
+## CVE-2026-36834 ()
+> 
+- [kpatsakis/CVE-2026-36834](https://github.com/kpatsakis/CVE-2026-36834)	<img alt="forks" src="https://img.shields.io/github/forks/kpatsakis/CVE-2026-36834">	<img alt="stars" src="https://img.shields.io/github/stars/kpatsakis/CVE-2026-36834">
+
+---
 ## CVE-2026-36826 ()
 > 
 - [Forklit/CVE-2026-36826](https://github.com/Forklit/CVE-2026-36826)	<img alt="forks" src="https://img.shields.io/github/forks/Forklit/CVE-2026-36826">	<img alt="stars" src="https://img.shields.io/github/stars/Forklit/CVE-2026-36826">
