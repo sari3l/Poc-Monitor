@@ -3311,6 +3311,7 @@
 - [t1ckprivate/CVE-2026-31431-Copy-Fail](https://github.com/t1ckprivate/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/t1ckprivate/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/t1ckprivate/CVE-2026-31431-Copy-Fail">
 - [zs1n/copy-fail-CVE-2026-31431](https://github.com/zs1n/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/zs1n/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/zs1n/copy-fail-CVE-2026-31431">
 - [kinryulabs/rootpacket-cve-2026-31431](https://github.com/kinryulabs/rootpacket-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kinryulabs/rootpacket-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kinryulabs/rootpacket-cve-2026-31431">
+- [SugiB3o/CVE-2026-31431](https://github.com/SugiB3o/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
