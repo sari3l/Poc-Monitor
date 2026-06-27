@@ -481,6 +481,11 @@
 - [izxci/CVE-2026-5411](https://github.com/izxci/CVE-2026-5411)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-5411">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-5411">
 
 ---
+## CVE-2026-5366 ()
+> 
+- [renat0z3r0/CVE-2026-5366](https://github.com/renat0z3r0/CVE-2026-5366)	<img alt="forks" src="https://img.shields.io/github/forks/renat0z3r0/CVE-2026-5366">	<img alt="stars" src="https://img.shields.io/github/stars/renat0z3r0/CVE-2026-5366">
+
+---
 ## CVE-2026-5364 ()
 > 
 - [xxconi/CVE-2026-5364](https://github.com/xxconi/CVE-2026-5364)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5364">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5364">
@@ -6068,6 +6073,7 @@
 - [m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass](https://github.com/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">
 - [fredevsec/CVE-2026-0073](https://github.com/fredevsec/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/fredevsec/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/fredevsec/CVE-2026-0073">
 - [RDTUTORIAL/aetherion](https://github.com/RDTUTORIAL/aetherion)	<img alt="forks" src="https://img.shields.io/github/forks/RDTUTORIAL/aetherion">	<img alt="stars" src="https://img.shields.io/github/stars/RDTUTORIAL/aetherion">
+- [ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN](https://github.com/ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN)	<img alt="forks" src="https://img.shields.io/github/forks/ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">	<img alt="stars" src="https://img.shields.io/github/stars/ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">
 
 ---
 ## CVE-2026-0047 ()
