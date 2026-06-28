@@ -3846,6 +3846,7 @@
 ## CVE-2026-27654 ()
 > 
 - [JohannesLks/CVE-2026-27654](https://github.com/JohannesLks/CVE-2026-27654)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-27654">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-27654">
+- [dead-lamer/CVE-2026-27654](https://github.com/dead-lamer/CVE-2026-27654)	<img alt="forks" src="https://img.shields.io/github/forks/dead-lamer/CVE-2026-27654">	<img alt="stars" src="https://img.shields.io/github/stars/dead-lamer/CVE-2026-27654">
 
 ---
 ## CVE-2026-27639 ()
