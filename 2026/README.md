@@ -1568,6 +1568,7 @@
 - [asdasddqwdq29-a11y/CVE-2026-41940](https://github.com/asdasddqwdq29-a11y/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/asdasddqwdq29-a11y/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/asdasddqwdq29-a11y/CVE-2026-41940">
 - [limo57640-crypto/cpanel-cve-41940-detector](https://github.com/limo57640-crypto/cpanel-cve-41940-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/cpanel-cve-41940-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/cpanel-cve-41940-detector">
 - [clsmight/CVE-2026-41940-PoC](https://github.com/clsmight/CVE-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/clsmight/CVE-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/clsmight/CVE-2026-41940-PoC">
+- [aquace/CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aquace/CVE-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aquace/CVE-2026-41940-PoC">
 
 ---
 ## CVE-2026-41901 ()
