@@ -4505,6 +4505,7 @@
 ## CVE-2026-24418 ()
 > 
 - [BridgerAlderson/CVE-2026-24418](https://github.com/BridgerAlderson/CVE-2026-24418)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2026-24418">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2026-24418">
+- [lukasz-rybak/CVE-2026-24418](https://github.com/lukasz-rybak/CVE-2026-24418)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24418">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24418">
 
 ---
 ## CVE-2026-24415 ()
