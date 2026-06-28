@@ -1641,6 +1641,11 @@
 - [Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss](https://github.com/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/cve-2026-41200-stig-manager-oidc-reflected-xss">
 
 ---
+## CVE-2026-41179 ()
+> 
+- [pssec-io/CVE-2026-41179](https://github.com/pssec-io/CVE-2026-41179)	<img alt="forks" src="https://img.shields.io/github/forks/pssec-io/CVE-2026-41179">	<img alt="stars" src="https://img.shields.io/github/stars/pssec-io/CVE-2026-41179">
+
+---
 ## CVE-2026-41177 ()
 > 
 - [TurkiOS/CVE-2026-41177-Squidex-CMS](https://github.com/TurkiOS/CVE-2026-41177-Squidex-CMS)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/CVE-2026-41177-Squidex-CMS">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/CVE-2026-41177-Squidex-CMS">
