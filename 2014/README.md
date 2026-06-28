@@ -263,6 +263,7 @@
 - [cloudpassage/mangy-beast](https://github.com/cloudpassage/mangy-beast)	<img alt="forks" src="https://img.shields.io/github/forks/cloudpassage/mangy-beast">	<img alt="stars" src="https://img.shields.io/github/stars/cloudpassage/mangy-beast">
 - [stdevel/poodle_protector](https://github.com/stdevel/poodle_protector)	<img alt="forks" src="https://img.shields.io/github/forks/stdevel/poodle_protector">	<img alt="stars" src="https://img.shields.io/github/stars/stdevel/poodle_protector">
 - [mikesplain/CVE-2014-3566-poodle-cookbook](https://github.com/mikesplain/CVE-2014-3566-poodle-cookbook)	<img alt="forks" src="https://img.shields.io/github/forks/mikesplain/CVE-2014-3566-poodle-cookbook">	<img alt="stars" src="https://img.shields.io/github/stars/mikesplain/CVE-2014-3566-poodle-cookbook">
+- [Karma4488/CVE-2014-3566](https://github.com/Karma4488/CVE-2014-3566)	<img alt="forks" src="https://img.shields.io/github/forks/Karma4488/CVE-2014-3566">	<img alt="stars" src="https://img.shields.io/github/stars/Karma4488/CVE-2014-3566">
 
 ---
 ## CVE-2014-3508 (2014-08-13T23:55:00)
