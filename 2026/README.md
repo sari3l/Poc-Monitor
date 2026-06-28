@@ -1183,6 +1183,8 @@
 - [mooder1/dirtyclone-CVE-2026-43503](https://github.com/mooder1/dirtyclone-CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/mooder1/dirtyclone-CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/mooder1/dirtyclone-CVE-2026-43503">
 - [aexdyhaxor/CVE-2026-43503-DirtyClone](https://github.com/aexdyhaxor/CVE-2026-43503-DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-43503-DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-43503-DirtyClone">
 - [sec0x/CVE-2026-43503](https://github.com/sec0x/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/sec0x/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/sec0x/CVE-2026-43503">
+- [gl1tch0x1/DirtyClone](https://github.com/gl1tch0x1/DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/DirtyClone">
+- [douglasmun/pagecache-lpe-containment-kit](https://github.com/douglasmun/pagecache-lpe-containment-kit)	<img alt="forks" src="https://img.shields.io/github/forks/douglasmun/pagecache-lpe-containment-kit">	<img alt="stars" src="https://img.shields.io/github/stars/douglasmun/pagecache-lpe-containment-kit">
 
 ---
 ## CVE-2026-43500 ()
