@@ -1189,6 +1189,7 @@
 > ACME mini_httpd before 1.30 lets remote users read arbitrary files.
 - [auk0x01/CVE-2018-18778-Scanner](https://github.com/auk0x01/CVE-2018-18778-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/auk0x01/CVE-2018-18778-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/auk0x01/CVE-2018-18778-Scanner">
 - [cyberharsh/Mini_httpd-CVE-2018-18778](https://github.com/cyberharsh/Mini_httpd-CVE-2018-18778)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Mini_httpd-CVE-2018-18778">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Mini_httpd-CVE-2018-18778">
+- [K3ysTr0K3R/CVE-2018-18778](https://github.com/K3ysTr0K3R/CVE-2018-18778)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2018-18778">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2018-18778">
 
 ---
 ## CVE-2018-18441 ()
