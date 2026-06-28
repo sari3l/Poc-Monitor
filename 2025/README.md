@@ -748,6 +748,12 @@
 - [ahmetartuc/poc-cve-2025-69219](https://github.com/ahmetartuc/poc-cve-2025-69219)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetartuc/poc-cve-2025-69219">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetartuc/poc-cve-2025-69219">
 
 ---
+## CVE-2025-69212 ()
+> 
+- [tohib09/CVE-2025-69212-PoC](https://github.com/tohib09/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tohib09/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tohib09/CVE-2025-69212-PoC">
+- [lukasz-rybak/CVE-2025-69212](https://github.com/lukasz-rybak/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-69212">
+
+---
 ## CVE-2025-69194 ()
 > 
 - [secdongle/POC_CVE-2025-69194](https://github.com/secdongle/POC_CVE-2025-69194)	<img alt="forks" src="https://img.shields.io/github/forks/secdongle/POC_CVE-2025-69194">	<img alt="stars" src="https://img.shields.io/github/stars/secdongle/POC_CVE-2025-69194">
