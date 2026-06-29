@@ -4300,6 +4300,7 @@
 - [avoidme12/CVE-2025-55182-POC](https://github.com/avoidme12/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/avoidme12/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/avoidme12/CVE-2025-55182-POC">
 - [litndat/React2Shell-PoC-CVE-2025-55182](https://github.com/litndat/React2Shell-PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/litndat/React2Shell-PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/litndat/React2Shell-PoC-CVE-2025-55182">
 - [k1llmelira/react2shell-exploit](https://github.com/k1llmelira/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/k1llmelira/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/k1llmelira/react2shell-exploit">
+- [Herick-Costa/CVE-2025-55182-React2Shell-RCE](https://github.com/Herick-Costa/CVE-2025-55182-React2Shell-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Herick-Costa/CVE-2025-55182-React2Shell-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Herick-Costa/CVE-2025-55182-React2Shell-RCE">
 
 ---
 ## CVE-2025-55130 ()
