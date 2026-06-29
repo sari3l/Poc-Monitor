@@ -391,6 +391,11 @@
 - [Christbowel/CVE-2026-56111](https://github.com/Christbowel/CVE-2026-56111)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2026-56111">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2026-56111">
 
 ---
+## CVE-2026-5562 ()
+> 
+- [HutTwoThreeFour/CVE-2026-5562-Exploit](https://github.com/HutTwoThreeFour/CVE-2026-5562-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HutTwoThreeFour/CVE-2026-5562-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HutTwoThreeFour/CVE-2026-5562-Exploit">
+
+---
 ## CVE-2026-55584 ()
 > 
 - [mirackayikci/CVE-2026-55584](https://github.com/mirackayikci/CVE-2026-55584)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-55584">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-55584">
