@@ -3536,6 +3536,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [BreezeGalaxy/CVE-2023-38646](https://github.com/BreezeGalaxy/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/BreezeGalaxy/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/BreezeGalaxy/CVE-2023-38646">
 - [Micky1warrior/metabase-pre-auth-rce-poc](https://github.com/Micky1warrior/metabase-pre-auth-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Micky1warrior/metabase-pre-auth-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Micky1warrior/metabase-pre-auth-rce-poc">
 - [DaniTheHack3r/CVE-2023-38646](https://github.com/DaniTheHack3r/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/DaniTheHack3r/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/DaniTheHack3r/CVE-2023-38646">
+- [nuclide-research/metabase-cve-2023-38646](https://github.com/nuclide-research/metabase-cve-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/nuclide-research/metabase-cve-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/nuclide-research/metabase-cve-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
