@@ -499,6 +499,11 @@
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
 
 ---
+## CVE-2026-53753 ()
+> 
+- [BiiTts/CVE-2026-53753-Crawl4AI-RCE](https://github.com/BiiTts/CVE-2026-53753-Crawl4AI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-53753-Crawl4AI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-53753-Crawl4AI-RCE">
+
+---
 ## CVE-2026-5366 ()
 > 
 - [renat0z3r0/CVE-2026-5366](https://github.com/renat0z3r0/CVE-2026-5366)	<img alt="forks" src="https://img.shields.io/github/forks/renat0z3r0/CVE-2026-5366">	<img alt="stars" src="https://img.shields.io/github/stars/renat0z3r0/CVE-2026-5366">
