@@ -224,6 +224,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [patrickpichler/grafana-CVE-2024-9264](https://github.com/patrickpichler/grafana-CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/patrickpichler/grafana-CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/patrickpichler/grafana-CVE-2024-9264">
 - [ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-](https://github.com/ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-)	<img alt="forks" src="https://img.shields.io/github/forks/ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-">	<img alt="stars" src="https://img.shields.io/github/stars/ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-">
 - [amalpvatayam67/day05-grafana-sqlexpr-lab](https://github.com/amalpvatayam67/day05-grafana-sqlexpr-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day05-grafana-sqlexpr-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day05-grafana-sqlexpr-lab">
+- [yeonchoda/CVE-2024-9264](https://github.com/yeonchoda/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/yeonchoda/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/yeonchoda/CVE-2024-9264">
 
 ---
 ## CVE-2024-9263 (2024-10-17T04:15:00)
