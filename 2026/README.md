@@ -55,6 +55,7 @@
 - [sourcecode347/CVE-2026-9082-Mass_Scanner](https://github.com/sourcecode347/CVE-2026-9082-Mass_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sourcecode347/CVE-2026-9082-Mass_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sourcecode347/CVE-2026-9082-Mass_Scanner">
 - [ambionics/cve-2026-9082-drupal-postgresql-rce](https://github.com/ambionics/cve-2026-9082-drupal-postgresql-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ambionics/cve-2026-9082-drupal-postgresql-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ambionics/cve-2026-9082-drupal-postgresql-rce">
 - [eliHiHo/portfolio-drupal-cve-2026-9082](https://github.com/eliHiHo/portfolio-drupal-cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/eliHiHo/portfolio-drupal-cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/eliHiHo/portfolio-drupal-cve-2026-9082">
+- [evidencebasedvulnerability/cve-2026-9082](https://github.com/evidencebasedvulnerability/cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/evidencebasedvulnerability/cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/evidencebasedvulnerability/cve-2026-9082">
 
 ---
 ## CVE-2026-9067 ()
@@ -135,10 +136,11 @@
 - [whattheslime/CVE-2026-8181](https://github.com/whattheslime/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2026-8181">
 - [rootdirective-sec/CVE-2026-8181-Lab](https://github.com/rootdirective-sec/CVE-2026-8181-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-8181-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-8181-Lab">
 - [xShadow-Here/CVE-2026-8181](https://github.com/xShadow-Here/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-8181">
-- [BastianXploited/CVE-2026-8181-mass](https://github.com/BastianXploited/CVE-2026-8181-mass)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-8181-mass">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-8181-mass">
+- [BastianXploited/CVE-2026-8181](https://github.com/BastianXploited/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-8181">
 - [x48ps/CVE-2026-8181](https://github.com/x48ps/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/x48ps/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/x48ps/CVE-2026-8181">
 - [Yucaerin/CVE-2026-8181](https://github.com/Yucaerin/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-8181">
 - [Squamity/CVE-2026-8181-PoC](https://github.com/Squamity/CVE-2026-8181-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Squamity/CVE-2026-8181-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Squamity/CVE-2026-8181-PoC">
+- [Ez4rd1x1/CVE-2026-8181](https://github.com/Ez4rd1x1/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/Ez4rd1x1/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/Ez4rd1x1/CVE-2026-8181">
 
 ---
 ## CVE-2026-8161 ()
@@ -2198,6 +2200,11 @@
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
 
 ---
+## CVE-2026-36848 ()
+> 
+- [calligraf0/CVE-2026-36848](https://github.com/calligraf0/CVE-2026-36848)	<img alt="forks" src="https://img.shields.io/github/forks/calligraf0/CVE-2026-36848">	<img alt="stars" src="https://img.shields.io/github/stars/calligraf0/CVE-2026-36848">
+
+---
 ## CVE-2026-36834 ()
 > 
 - [kpatsakis/CVE-2026-36834](https://github.com/kpatsakis/CVE-2026-36834)	<img alt="forks" src="https://img.shields.io/github/forks/kpatsakis/CVE-2026-36834">	<img alt="stars" src="https://img.shields.io/github/stars/kpatsakis/CVE-2026-36834">
@@ -3767,6 +3774,11 @@
 - [MichaelAdamGroberman/CVE-2026-28766](https://github.com/MichaelAdamGroberman/CVE-2026-28766)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-28766">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-28766">
 - [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
 - [MichaelAdamGroberman/CVE-2026-28766](https://github.com/MichaelAdamGroberman/CVE-2026-28766)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-28766">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-28766">
+
+---
+## CVE-2026-28496 ()
+> 
+- [rootdirective-sec/CVE-2026-28496-Lab](https://github.com/rootdirective-sec/CVE-2026-28496-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-28496-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-28496-Lab">
 
 ---
 ## CVE-2026-2848 ()

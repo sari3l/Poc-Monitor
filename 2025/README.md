@@ -2263,6 +2263,7 @@
 - [George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE](https://github.com/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">
 - [sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study](https://github.com/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study)	<img alt="forks" src="https://img.shields.io/github/forks/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study">	<img alt="stars" src="https://img.shields.io/github/stars/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study">
 - [NetVanguard-cmd/CVE-2025-61882](https://github.com/NetVanguard-cmd/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-61882">
+- [WahyuAndikaPutra/CVE-2025-61882-OracleEBS-RCE](https://github.com/WahyuAndikaPutra/CVE-2025-61882-OracleEBS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WahyuAndikaPutra/CVE-2025-61882-OracleEBS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WahyuAndikaPutra/CVE-2025-61882-OracleEBS-RCE">
 
 ---
 ## CVE-2025-61777 ()
