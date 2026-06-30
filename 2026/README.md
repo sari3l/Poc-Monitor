@@ -154,6 +154,11 @@
 - [mgiay/CVE-2026-8053-MongoDB](https://github.com/mgiay/CVE-2026-8053-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE-2026-8053-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE-2026-8053-MongoDB">
 
 ---
+## CVE-2026-8037 ()
+> 
+- [HORKimhab/CVE-2026-8037](https://github.com/HORKimhab/CVE-2026-8037)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8037">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8037">
+
+---
 ## CVE-2026-7731 ()
 > 
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
@@ -392,6 +397,11 @@
 ## CVE-2026-5615 ()
 > 
 - [sahmsec/CVE-2026-5615](https://github.com/sahmsec/CVE-2026-5615)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-5615">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-5615">
+
+---
+## CVE-2026-56121 ()
+> 
+- [BiiTts/CVE-2026-56121-Feast-Unauth-RCE](https://github.com/BiiTts/CVE-2026-56121-Feast-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-56121-Feast-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-56121-Feast-Unauth-RCE">
 
 ---
 ## CVE-2026-56111 ()
@@ -889,6 +899,7 @@
 ## CVE-2026-46817 ()
 > 
 - [0xBlackash/CVE-2026-46817](https://github.com/0xBlackash/CVE-2026-46817)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46817">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46817">
+- [HORKimhab/CVE-2026-46817](https://github.com/HORKimhab/CVE-2026-46817)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46817">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46817">
 
 ---
 ## CVE-2026-46716 ()
@@ -3943,6 +3954,11 @@
 ## CVE-2026-27636 ()
 > 
 - [rav1010/CVE-2026-27636](https://github.com/rav1010/CVE-2026-27636)	<img alt="forks" src="https://img.shields.io/github/forks/rav1010/CVE-2026-27636">	<img alt="stars" src="https://img.shields.io/github/stars/rav1010/CVE-2026-27636">
+
+---
+## CVE-2026-27626 ()
+> 
+- [0xh7ml/CVE-2026-27626-PoC](https://github.com/0xh7ml/CVE-2026-27626-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-27626-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-27626-PoC">
 
 ---
 ## CVE-2026-27621 ()
