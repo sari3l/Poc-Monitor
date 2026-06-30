@@ -526,6 +526,11 @@
 - [tar-xz/CVE-2026-53519-PoC](https://github.com/tar-xz/CVE-2026-53519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tar-xz/CVE-2026-53519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tar-xz/CVE-2026-53519-PoC">
 
 ---
+## CVE-2026-52943 ()
+> 
+- [vn-lazyming/CVE-2026-52943](https://github.com/vn-lazyming/CVE-2026-52943)	<img alt="forks" src="https://img.shields.io/github/forks/vn-lazyming/CVE-2026-52943">	<img alt="stars" src="https://img.shields.io/github/stars/vn-lazyming/CVE-2026-52943">
+
+---
 ## CVE-2026-52885 ()
 > 
 - [v3s9er/CVE-2026-52885](https://github.com/v3s9er/CVE-2026-52885)	<img alt="forks" src="https://img.shields.io/github/forks/v3s9er/CVE-2026-52885">	<img alt="stars" src="https://img.shields.io/github/stars/v3s9er/CVE-2026-52885">
@@ -879,6 +884,11 @@
 ## CVE-2026-46840 ()
 > 
 - [fangbarristerbar/CVE-2026-46840-ORDS-RCE](https://github.com/fangbarristerbar/CVE-2026-46840-ORDS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fangbarristerbar/CVE-2026-46840-ORDS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fangbarristerbar/CVE-2026-46840-ORDS-RCE">
+
+---
+## CVE-2026-46817 ()
+> 
+- [0xBlackash/CVE-2026-46817](https://github.com/0xBlackash/CVE-2026-46817)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46817">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46817">
 
 ---
 ## CVE-2026-46716 ()
