@@ -5445,6 +5445,8 @@
 - [planetoid/cve-2026-21509-mitigation](https://github.com/planetoid/cve-2026-21509-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/planetoid/cve-2026-21509-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/planetoid/cve-2026-21509-mitigation">
 - [suuhm/CVE-2026-21509-handler](https://github.com/suuhm/CVE-2026-21509-handler)	<img alt="forks" src="https://img.shields.io/github/forks/suuhm/CVE-2026-21509-handler">	<img alt="stars" src="https://img.shields.io/github/stars/suuhm/CVE-2026-21509-handler">
 - [DameDode/CVE-2026-21509-POC](https://github.com/DameDode/CVE-2026-21509-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DameDode/CVE-2026-21509-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DameDode/CVE-2026-21509-POC">
+- [sentinel-aidefense/CVE-2026-21509](https://github.com/sentinel-aidefense/CVE-2026-21509)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-21509">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-21509">
+- [YoussefMami/CVE2026_21509](https://github.com/YoussefMami/CVE2026_21509)	<img alt="forks" src="https://img.shields.io/github/forks/YoussefMami/CVE2026_21509">	<img alt="stars" src="https://img.shields.io/github/stars/YoussefMami/CVE2026_21509">
 
 ---
 ## CVE-2026-21508 ()
