@@ -6578,6 +6578,11 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [Jeanback1/CVE-2023-27163-exploit](https://github.com/Jeanback1/CVE-2023-27163-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2023-27163-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2023-27163-exploit">
 
 ---
+## CVE-2023-27146 ()
+> 
+- [astrocombat1607/CVE-2023-27146-LocalPotato-Priviledge-Escalation](https://github.com/astrocombat1607/CVE-2023-27146-LocalPotato-Priviledge-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/astrocombat1607/CVE-2023-27146-LocalPotato-Priviledge-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/astrocombat1607/CVE-2023-27146-LocalPotato-Priviledge-Escalation">
+
+---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
 > Improper restriction of excessive authentication attempts in the SSHGuard component of Netgate pfSense Plus software v22.05.1 and pfSense CE software v2.6.0 allows attackers to bypass brute force protection mechanisms via crafted web requests.
 - [DarokNET/CVE-2023-27100](https://github.com/DarokNET/CVE-2023-27100)	<img alt="forks" src="https://img.shields.io/github/forks/DarokNET/CVE-2023-27100">	<img alt="stars" src="https://img.shields.io/github/stars/DarokNET/CVE-2023-27100">

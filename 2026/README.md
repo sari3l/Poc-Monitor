@@ -1128,6 +1128,11 @@
 - [ClearLotus-git/CVE-2026-4480-PoC](https://github.com/ClearLotus-git/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClearLotus-git/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClearLotus-git/CVE-2026-4480-PoC">
 
 ---
+## CVE-2026-44789 ()
+> 
+- [BiiTts/CVE-2026-44789-n8n-PrototypePollution-RCE](https://github.com/BiiTts/CVE-2026-44789-n8n-PrototypePollution-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-44789-n8n-PrototypePollution-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-44789-n8n-PrototypePollution-RCE">
+
+---
 ## CVE-2026-44788 ()
 > 
 - [e-corp-demo/CVE-2026-44788](https://github.com/e-corp-demo/CVE-2026-44788)	<img alt="forks" src="https://img.shields.io/github/forks/e-corp-demo/CVE-2026-44788">	<img alt="stars" src="https://img.shields.io/github/stars/e-corp-demo/CVE-2026-44788">
@@ -1207,6 +1212,11 @@
 ## CVE-2026-43893 ()
 > 
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
+
+---
+## CVE-2026-43700 ()
+> 
+- [dem0ns/CVE-2026-43700](https://github.com/dem0ns/CVE-2026-43700)	<img alt="forks" src="https://img.shields.io/github/forks/dem0ns/CVE-2026-43700">	<img alt="stars" src="https://img.shields.io/github/stars/dem0ns/CVE-2026-43700">
 
 ---
 ## CVE-2026-43655 ()
