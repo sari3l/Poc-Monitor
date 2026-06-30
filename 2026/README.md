@@ -966,6 +966,9 @@
 - [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/packet_edit_meme">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/packet_edit_meme">
 - [HORKimhab/CVE-2026-46331](https://github.com/HORKimhab/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46331">
 - [Quaerendir/cve-2026-46331-audit](https://github.com/Quaerendir/cve-2026-46331-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/cve-2026-46331-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/cve-2026-46331-audit">
+- [seguridadentrerios/CVE-2026-46331](https://github.com/seguridadentrerios/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-46331">
+- [vulnquest58/dirtyclone-exploit](https://github.com/vulnquest58/dirtyclone-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/dirtyclone-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/dirtyclone-exploit">
+- [douglasmun/pagecache-lpe-containment-kit](https://github.com/douglasmun/pagecache-lpe-containment-kit)	<img alt="forks" src="https://img.shields.io/github/forks/douglasmun/pagecache-lpe-containment-kit">	<img alt="stars" src="https://img.shields.io/github/stars/douglasmun/pagecache-lpe-containment-kit">
 
 ---
 ## CVE-2026-4631 ()
@@ -1850,6 +1853,7 @@
 ## CVE-2026-4020 ()
 > 
 - [HORKimhab/CVE-2026-4020](https://github.com/HORKimhab/CVE-2026-4020)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-4020">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-4020">
+- [faizdotid/CVE-2026-4020](https://github.com/faizdotid/CVE-2026-4020)	<img alt="forks" src="https://img.shields.io/github/forks/faizdotid/CVE-2026-4020">	<img alt="stars" src="https://img.shields.io/github/stars/faizdotid/CVE-2026-4020">
 
 ---
 ## CVE-2026-40176 ()
@@ -5988,6 +5992,7 @@
 ## CVE-2026-10580 ()
 > 
 - [O99099O/By-Poloss..-..CVE-2026-10580](https://github.com/O99099O/By-Poloss..-..CVE-2026-10580)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-10580">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-10580">
+- [0xgh057r3c0n/CVE-2026-10580](https://github.com/0xgh057r3c0n/CVE-2026-10580)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-10580">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-10580">
 
 ---
 ## CVE-2026-1056 ()

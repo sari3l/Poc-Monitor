@@ -6257,6 +6257,11 @@
 - [zgsnj123/CVE-2025-45466](https://github.com/zgsnj123/CVE-2025-45466)	<img alt="forks" src="https://img.shields.io/github/forks/zgsnj123/CVE-2025-45466">	<img alt="stars" src="https://img.shields.io/github/stars/zgsnj123/CVE-2025-45466">
 
 ---
+## CVE-2025-45422 ()
+> 
+- [Cedrico03/CVE-2025-45422---Bbox](https://github.com/Cedrico03/CVE-2025-45422---Bbox)	<img alt="forks" src="https://img.shields.io/github/forks/Cedrico03/CVE-2025-45422---Bbox">	<img alt="stars" src="https://img.shields.io/github/stars/Cedrico03/CVE-2025-45422---Bbox">
+
+---
 ## CVE-2025-45407 ()
 > 
 - [yallasec/CVE-2025-45407](https://github.com/yallasec/CVE-2025-45407)	<img alt="forks" src="https://img.shields.io/github/forks/yallasec/CVE-2025-45407">	<img alt="stars" src="https://img.shields.io/github/stars/yallasec/CVE-2025-45407">
