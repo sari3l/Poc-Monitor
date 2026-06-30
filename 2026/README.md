@@ -900,6 +900,7 @@
 > 
 - [0xBlackash/CVE-2026-46817](https://github.com/0xBlackash/CVE-2026-46817)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46817">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46817">
 - [HORKimhab/CVE-2026-46817](https://github.com/HORKimhab/CVE-2026-46817)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46817">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46817">
+- [CIA911/cve-2026-46817_PoC](https://github.com/CIA911/cve-2026-46817_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CIA911/cve-2026-46817_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CIA911/cve-2026-46817_PoC">
 
 ---
 ## CVE-2026-46716 ()
@@ -3060,6 +3061,11 @@
 ## CVE-2026-31717 ()
 > 
 - [TurtleARM/CVE-2026-31717-KSMBD-Exploit](https://github.com/TurtleARM/CVE-2026-31717-KSMBD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2026-31717-KSMBD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2026-31717-KSMBD-Exploit">
+
+---
+## CVE-2026-31694 ()
+> 
+- [0xCyberstan/CVE-2026-31694-POC](https://github.com/0xCyberstan/CVE-2026-31694-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-31694-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-31694-POC">
 
 ---
 ## CVE-2026-31635 ()
