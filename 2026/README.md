@@ -546,6 +546,11 @@
 - [xxconi/CVE-2026-5364](https://github.com/xxconi/CVE-2026-5364)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5364">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5364">
 
 ---
+## CVE-2026-53582 ()
+> 
+- [eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)	<img alt="forks" src="https://img.shields.io/github/forks/eev4n/CVE-2026-53582">	<img alt="stars" src="https://img.shields.io/github/stars/eev4n/CVE-2026-53582">
+
+---
 ## CVE-2026-53519 ()
 > 
 - [tar-xz/CVE-2026-53519-PoC](https://github.com/tar-xz/CVE-2026-53519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tar-xz/CVE-2026-53519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tar-xz/CVE-2026-53519-PoC">
@@ -1444,6 +1449,7 @@
 - [ushst/CVE-2026-42945](https://github.com/ushst/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/ushst/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/ushst/CVE-2026-42945">
 - [hulina9900-boop/DIY-CVE-2026-42945-POC](https://github.com/hulina9900-boop/DIY-CVE-2026-42945-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hulina9900-boop/DIY-CVE-2026-42945-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hulina9900-boop/DIY-CVE-2026-42945-POC">
 - [azilRababe/CVE-2026-42945](https://github.com/azilRababe/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2026-42945">
+- [aratane/CVE-2026-42945](https://github.com/aratane/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/aratane/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/aratane/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
