@@ -334,6 +334,11 @@
 - [Penguinsecq/CVE-2026-6355](https://github.com/Penguinsecq/CVE-2026-6355)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6355">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6355">
 
 ---
+## CVE-2026-6307 ()
+> 
+- [0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/CVE-2026-6307">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/CVE-2026-6307">
+
+---
 ## CVE-2026-6279 ()
 > 
 - [xxconi/CVE-2026-6279](https://github.com/xxconi/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6279">
@@ -1266,6 +1271,11 @@
 ## CVE-2026-43893 ()
 > 
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
+
+---
+## CVE-2026-43735 ()
+> 
+- [dem0ns/CVE-2026-43735](https://github.com/dem0ns/CVE-2026-43735)	<img alt="forks" src="https://img.shields.io/github/forks/dem0ns/CVE-2026-43735">	<img alt="stars" src="https://img.shields.io/github/stars/dem0ns/CVE-2026-43735">
 
 ---
 ## CVE-2026-43700 ()
@@ -5120,6 +5130,7 @@
 - [criann/check-cve-2026-23111](https://github.com/criann/check-cve-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/criann/check-cve-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/criann/check-cve-2026-23111">
 - [ishankaru/CVE-2026-23111-nftables-lab](https://github.com/ishankaru/CVE-2026-23111-nftables-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ishankaru/CVE-2026-23111-nftables-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ishankaru/CVE-2026-23111-nftables-lab">
 - [Baba01hacker666/CVE-2026-23111](https://github.com/Baba01hacker666/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-23111">
+- [bakano98/cve-2026-23111-poc](https://github.com/bakano98/cve-2026-23111-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bakano98/cve-2026-23111-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bakano98/cve-2026-23111-poc">
 
 ---
 ## CVE-2026-22862 ()
