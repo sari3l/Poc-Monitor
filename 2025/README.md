@@ -9421,6 +9421,7 @@
 - [DukeSec97/CVE-2025-24054](https://github.com/DukeSec97/CVE-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/DukeSec97/CVE-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/DukeSec97/CVE-2025-24054">
 - [SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module](https://github.com/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">
 - [Fomovet/cve-2025-24054](https://github.com/Fomovet/cve-2025-24054)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24054">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24054">
+- [T0tooro/cve-2025-24054-lab](https://github.com/T0tooro/cve-2025-24054-lab)	<img alt="forks" src="https://img.shields.io/github/forks/T0tooro/cve-2025-24054-lab">	<img alt="stars" src="https://img.shields.io/github/stars/T0tooro/cve-2025-24054-lab">
 
 ---
 ## CVE-2025-2404 ()
