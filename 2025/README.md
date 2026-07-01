@@ -757,6 +757,7 @@
 - [jonathan-corbin/CVE-2025-69212-Authenticated-RCE-PoC](https://github.com/jonathan-corbin/CVE-2025-69212-Authenticated-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jonathan-corbin/CVE-2025-69212-Authenticated-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jonathan-corbin/CVE-2025-69212-Authenticated-RCE-PoC">
 - [alaeddine03/CVE-2025-69212-PoC](https://github.com/alaeddine03/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alaeddine03/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alaeddine03/CVE-2025-69212-PoC">
 - [BridgerAlderson/CVE-2025-69212-PoC](https://github.com/BridgerAlderson/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-69212-PoC">
+- [m2sousa/CVE-2025-69212](https://github.com/m2sousa/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2025-69212">
 
 ---
 ## CVE-2025-69194 ()
