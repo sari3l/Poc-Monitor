@@ -424,6 +424,11 @@
 - [mirackayikci/CVE-2026-55584](https://github.com/mirackayikci/CVE-2026-55584)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-55584">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-55584">
 
 ---
+## CVE-2026-55488 ()
+> 
+- [thecodeb0ss/CVE-2026-55488](https://github.com/thecodeb0ss/CVE-2026-55488)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-55488">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-55488">
+
+---
 ## CVE-2026-5530 ()
 > 
 - [davidrxchester/CVE-2026-5530](https://github.com/davidrxchester/CVE-2026-5530)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-5530">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-5530">
@@ -576,6 +581,11 @@
 ## CVE-2026-5201 ()
 > 
 - [kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2026-5201">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2026-5201">
+
+---
+## CVE-2026-51947 ()
+> 
+- [timtimxs/CVE-2026-51947-Advisory](https://github.com/timtimxs/CVE-2026-51947-Advisory)	<img alt="forks" src="https://img.shields.io/github/forks/timtimxs/CVE-2026-51947-Advisory">	<img alt="stars" src="https://img.shields.io/github/stars/timtimxs/CVE-2026-51947-Advisory">
 
 ---
 ## CVE-2026-5194 ()
@@ -992,6 +1002,7 @@
 - [vulnquest58/dirtyclone-exploit](https://github.com/vulnquest58/dirtyclone-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/dirtyclone-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/dirtyclone-exploit">
 - [douglasmun/pagecache-lpe-containment-kit](https://github.com/douglasmun/pagecache-lpe-containment-kit)	<img alt="forks" src="https://img.shields.io/github/forks/douglasmun/pagecache-lpe-containment-kit">	<img alt="stars" src="https://img.shields.io/github/stars/douglasmun/pagecache-lpe-containment-kit">
 - [g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection](https://github.com/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection">
+- [V0IDNETWORK/CVE-2026-46331](https://github.com/V0IDNETWORK/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/V0IDNETWORK/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/V0IDNETWORK/CVE-2026-46331">
 
 ---
 ## CVE-2026-4631 ()
