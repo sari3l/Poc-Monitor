@@ -3113,6 +3113,7 @@
 - [rashedhasan090/CVE-2025-5777](https://github.com/rashedhasan090/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/rashedhasan090/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/rashedhasan090/CVE-2025-5777">
 - [0xBlackash/CVE-2025-5777](https://github.com/0xBlackash/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-5777">
 - [Anshika2709/Citrixbleed2-CVE-2025-5777](https://github.com/Anshika2709/Citrixbleed2-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Anshika2709/Citrixbleed2-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Anshika2709/Citrixbleed2-CVE-2025-5777">
+- [sentinel-aidefense/CVE-2025-5777](https://github.com/sentinel-aidefense/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-5777">
 
 ---
 ## CVE-2025-5755 ()
