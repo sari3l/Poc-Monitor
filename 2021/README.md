@@ -7334,6 +7334,11 @@
 - [RIZZZIOM/CVE-2021-27905](https://github.com/RIZZZIOM/CVE-2021-27905)	<img alt="forks" src="https://img.shields.io/github/forks/RIZZZIOM/CVE-2021-27905">	<img alt="stars" src="https://img.shields.io/github/stars/RIZZZIOM/CVE-2021-27905">
 
 ---
+## CVE-2021-27877 ()
+> 
+- [yashswarup12/CVE-2021-27877-PoC](https://github.com/yashswarup12/CVE-2021-27877-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yashswarup12/CVE-2021-27877-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yashswarup12/CVE-2021-27877-PoC">
+
+---
 ## CVE-2021-27876 ()
 > 
 - [wingerbijay/CVE-2021-27876](https://github.com/wingerbijay/CVE-2021-27876)	<img alt="forks" src="https://img.shields.io/github/forks/wingerbijay/CVE-2021-27876">	<img alt="stars" src="https://img.shields.io/github/stars/wingerbijay/CVE-2021-27876">
