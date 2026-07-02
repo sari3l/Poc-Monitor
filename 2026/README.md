@@ -526,6 +526,11 @@
 - [MichaelAdamGroberman/CVE-2026-54477](https://github.com/MichaelAdamGroberman/CVE-2026-54477)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-54477">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-54477">
 
 ---
+## CVE-2026-54424 ()
+> 
+- [tomadimitrie/CVE-2026-54424](https://github.com/tomadimitrie/CVE-2026-54424)	<img alt="forks" src="https://img.shields.io/github/forks/tomadimitrie/CVE-2026-54424">	<img alt="stars" src="https://img.shields.io/github/stars/tomadimitrie/CVE-2026-54424">
+
+---
 ## CVE-2026-54420 ()
 > 
 - [mahfuzreham/litespeed-cpanel-cve-2026-54420-fix](https://github.com/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/litespeed-cpanel-cve-2026-54420-fix">
