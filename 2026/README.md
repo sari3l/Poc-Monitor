@@ -877,6 +877,11 @@
 - [jenniferreire26/CVE-2026-48595](https://github.com/jenniferreire26/CVE-2026-48595)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-48595">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-48595">
 
 ---
+## CVE-2026-48558 ()
+> 
+- [J4ck3LSyN-Gen2/CVE-2026-48558](https://github.com/J4ck3LSyN-Gen2/CVE-2026-48558)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-48558">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-48558">
+
+---
 ## CVE-2026-4821 ()
 > 
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">

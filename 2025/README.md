@@ -758,6 +758,7 @@
 - [alaeddine03/CVE-2025-69212-PoC](https://github.com/alaeddine03/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alaeddine03/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alaeddine03/CVE-2025-69212-PoC">
 - [BridgerAlderson/CVE-2025-69212-PoC](https://github.com/BridgerAlderson/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-69212-PoC">
 - [m2sousa/CVE-2025-69212](https://github.com/m2sousa/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2025-69212">
+- [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 
 ---
 ## CVE-2025-69194 ()
@@ -4501,6 +4502,10 @@
 - [bolich12/CVE-2025-54236_PoC](https://github.com/bolich12/CVE-2025-54236_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/bolich12/CVE-2025-54236_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/bolich12/CVE-2025-54236_PoC">
 - [alexb616/SessionReaper-CVE-2025-54236](https://github.com/alexb616/SessionReaper-CVE-2025-54236)	<img alt="forks" src="https://img.shields.io/github/forks/alexb616/SessionReaper-CVE-2025-54236">	<img alt="stars" src="https://img.shields.io/github/stars/alexb616/SessionReaper-CVE-2025-54236">
 - [alexb616/SessionReaper-CVE-2025-54236](https://github.com/alexb616/SessionReaper-CVE-2025-54236)	<img alt="forks" src="https://img.shields.io/github/forks/alexb616/SessionReaper-CVE-2025-54236">	<img alt="stars" src="https://img.shields.io/github/stars/alexb616/SessionReaper-CVE-2025-54236">
+- [Jenderal92/magento-upload-auto-submit-zoneh](https://github.com/Jenderal92/magento-upload-auto-submit-zoneh)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/magento-upload-auto-submit-zoneh">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/magento-upload-auto-submit-zoneh">
+- [brito101/session_reaper_lab](https://github.com/brito101/session_reaper_lab)	<img alt="forks" src="https://img.shields.io/github/forks/brito101/session_reaper_lab">	<img alt="stars" src="https://img.shields.io/github/stars/brito101/session_reaper_lab">
+- [nocerainfosec/polyshellv2.0](https://github.com/nocerainfosec/polyshellv2.0)	<img alt="forks" src="https://img.shields.io/github/forks/nocerainfosec/polyshellv2.0">	<img alt="stars" src="https://img.shields.io/github/stars/nocerainfosec/polyshellv2.0">
+- [qoliber/magento-open-source-security](https://github.com/qoliber/magento-open-source-security)	<img alt="forks" src="https://img.shields.io/github/forks/qoliber/magento-open-source-security">	<img alt="stars" src="https://img.shields.io/github/stars/qoliber/magento-open-source-security">
 
 ---
 ## CVE-2025-5419 ()
