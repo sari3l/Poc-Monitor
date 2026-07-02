@@ -453,6 +453,7 @@
 ## CVE-2026-55200 ()
 > 
 - [0xBlackash/CVE-2026-55200](https://github.com/0xBlackash/CVE-2026-55200)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-55200">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-55200">
+- [kaleth4/CVE-2026-55200](https://github.com/kaleth4/CVE-2026-55200)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-55200">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-55200">
 
 ---
 ## CVE-2026-55168 ()
