@@ -390,6 +390,11 @@
 - [BiiTts/CVE-2026-58138-Conductor-Unauth-RCE](https://github.com/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">
 
 ---
+## CVE-2026-58116 ()
+> 
+- [Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection](https://github.com/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">
+
+---
 ## CVE-2026-5733 ()
 > 
 - [Lechansky/CVE-2026-5733](https://github.com/Lechansky/CVE-2026-5733)	<img alt="forks" src="https://img.shields.io/github/forks/Lechansky/CVE-2026-5733">	<img alt="stars" src="https://img.shields.io/github/stars/Lechansky/CVE-2026-5733">
@@ -3675,6 +3680,11 @@
 ## CVE-2026-30824 ()
 > 
 - [dylvie/CVE-2026-30824-Flowise-NVIDIA-NIM-Authentication](https://github.com/dylvie/CVE-2026-30824-Flowise-NVIDIA-NIM-Authentication)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2026-30824-Flowise-NVIDIA-NIM-Authentication">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2026-30824-Flowise-NVIDIA-NIM-Authentication">
+
+---
+## CVE-2026-30784 ()
+> 
+- [malejdj/CVE-2026-30784-rustdesk-poc](https://github.com/malejdj/CVE-2026-30784-rustdesk-poc)	<img alt="forks" src="https://img.shields.io/github/forks/malejdj/CVE-2026-30784-rustdesk-poc">	<img alt="stars" src="https://img.shields.io/github/stars/malejdj/CVE-2026-30784-rustdesk-poc">
 
 ---
 ## CVE-2026-30741 ()
