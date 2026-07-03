@@ -415,6 +415,7 @@
 ## CVE-2026-56782 ()
 > 
 - [BiiTts/CVE-2026-56782-Gorse-Auth-Bypass](https://github.com/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass">
+- [thecodeb0ss/CVE-2026-56782](https://github.com/thecodeb0ss/CVE-2026-56782)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-56782">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-56782">
 
 ---
 ## CVE-2026-5615 ()
@@ -6275,6 +6276,7 @@
 - [BastianXploited/CVE-2026-0740](https://github.com/BastianXploited/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-0740">
 - [zycoder0day/CVE-2026-0740](https://github.com/zycoder0day/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-0740">
 - [a24ac1/CVE-2026-0740](https://github.com/a24ac1/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2026-0740">
+- [BastianXploited/CVE-2026-0740-mass](https://github.com/BastianXploited/CVE-2026-0740-mass)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-0740-mass">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-0740-mass">
 
 ---
 ## CVE-2026-0730 ()
