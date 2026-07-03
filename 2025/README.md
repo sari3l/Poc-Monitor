@@ -759,6 +759,7 @@
 - [BridgerAlderson/CVE-2025-69212-PoC](https://github.com/BridgerAlderson/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-69212-PoC">
 - [m2sousa/CVE-2025-69212](https://github.com/m2sousa/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2025-69212">
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
+- [0Zetrium0/CVE-2025-69212_PoC](https://github.com/0Zetrium0/CVE-2025-69212_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0Zetrium0/CVE-2025-69212_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0Zetrium0/CVE-2025-69212_PoC">
 
 ---
 ## CVE-2025-69194 ()
