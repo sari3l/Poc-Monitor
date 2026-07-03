@@ -6145,6 +6145,11 @@
 - [HeshamASH/CVE-2026-11417-AWS-CDK-RCE](https://github.com/HeshamASH/CVE-2026-11417-AWS-CDK-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HeshamASH/CVE-2026-11417-AWS-CDK-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HeshamASH/CVE-2026-11417-AWS-CDK-RCE">
 
 ---
+## CVE-2026-11387 ()
+> 
+- [1beelze/CVE-2026-11387](https://github.com/1beelze/CVE-2026-11387)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-11387">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-11387">
+
+---
 ## CVE-2026-1107 ()
 > 
 - [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Iniivan13/CVE-2026-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Iniivan13/CVE-2026-1107">
