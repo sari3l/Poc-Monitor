@@ -5997,6 +5997,11 @@
 - [ii4gsp/CVE-2026-1457](https://github.com/ii4gsp/CVE-2026-1457)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-1457">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-1457">
 
 ---
+## CVE-2026-14459 ()
+> 
+- [dasokkk/CVE-2026-14459-14460-pardus-software](https://github.com/dasokkk/CVE-2026-14459-14460-pardus-software)	<img alt="forks" src="https://img.shields.io/github/forks/dasokkk/CVE-2026-14459-14460-pardus-software">	<img alt="stars" src="https://img.shields.io/github/stars/dasokkk/CVE-2026-14459-14460-pardus-software">
+
+---
 ## CVE-2026-1434 ()
 > 
 - [lukasz-rybak/CVE-2026-1434](https://github.com/lukasz-rybak/CVE-2026-1434)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-1434">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-1434">
