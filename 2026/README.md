@@ -469,6 +469,11 @@
 - [rootdirective-sec/CVE-2026-55255-Lab](https://github.com/rootdirective-sec/CVE-2026-55255-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-55255-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-55255-Lab">
 
 ---
+## CVE-2026-5524 ()
+> 
+- [caterscam/CVE-2026-5524-PoC](https://github.com/caterscam/CVE-2026-5524-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/caterscam/CVE-2026-5524-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/caterscam/CVE-2026-5524-PoC">
+
+---
 ## CVE-2026-55200 ()
 > 
 - [0xBlackash/CVE-2026-55200](https://github.com/0xBlackash/CVE-2026-55200)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-55200">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-55200">
