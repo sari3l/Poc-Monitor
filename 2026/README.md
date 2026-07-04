@@ -396,6 +396,11 @@
 - [Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection](https://github.com/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">
 
 ---
+## CVE-2026-57517 ()
+> 
+- [shinthink/CVE-2026-57517](https://github.com/shinthink/CVE-2026-57517)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57517">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57517">
+
+---
 ## CVE-2026-5733 ()
 > 
 - [Lechansky/CVE-2026-5733](https://github.com/Lechansky/CVE-2026-5733)	<img alt="forks" src="https://img.shields.io/github/forks/Lechansky/CVE-2026-5733">	<img alt="stars" src="https://img.shields.io/github/stars/Lechansky/CVE-2026-5733">
