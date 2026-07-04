@@ -626,6 +626,11 @@
 - [tar-xz/CVE-2026-53519-PoC](https://github.com/tar-xz/CVE-2026-53519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tar-xz/CVE-2026-53519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tar-xz/CVE-2026-53519-PoC">
 
 ---
+## CVE-2026-53360 ()
+> 
+- [0xCyberstan/CVE-2026-53360-POC](https://github.com/0xCyberstan/CVE-2026-53360-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-53360-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-53360-POC">
+
+---
 ## CVE-2026-52943 ()
 > 
 - [vn-lazyming/CVE-2026-52943](https://github.com/vn-lazyming/CVE-2026-52943)	<img alt="forks" src="https://img.shields.io/github/forks/vn-lazyming/CVE-2026-52943">	<img alt="stars" src="https://img.shields.io/github/stars/vn-lazyming/CVE-2026-52943">
@@ -3001,6 +3006,7 @@
 - [Jorrit-VM/CVE-2026-33017](https://github.com/Jorrit-VM/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Jorrit-VM/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Jorrit-VM/CVE-2026-33017">
 - [r3nsi15/CVE-2026-33017-langflow-rce](https://github.com/r3nsi15/CVE-2026-33017-langflow-rce)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/CVE-2026-33017-langflow-rce">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/CVE-2026-33017-langflow-rce">
 - [c0gnit00/CVE-2026-33017](https://github.com/c0gnit00/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-33017">
+- [yayip/CVE-2026-33017](https://github.com/yayip/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/yayip/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/yayip/CVE-2026-33017">
 
 ---
 ## CVE-2026-3300 ()
