@@ -5174,6 +5174,7 @@
 - [rohit-sundar/cve-2026-23744](https://github.com/rohit-sundar/cve-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/rohit-sundar/cve-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/rohit-sundar/cve-2026-23744">
 - [kennedy-aikohi/mcpjam-cve-2026-23744-validator](https://github.com/kennedy-aikohi/mcpjam-cve-2026-23744-validator)	<img alt="forks" src="https://img.shields.io/github/forks/kennedy-aikohi/mcpjam-cve-2026-23744-validator">	<img alt="stars" src="https://img.shields.io/github/stars/kennedy-aikohi/mcpjam-cve-2026-23744-validator">
 - [daemoncibsec/mcpExec](https://github.com/daemoncibsec/mcpExec)	<img alt="forks" src="https://img.shields.io/github/forks/daemoncibsec/mcpExec">	<img alt="stars" src="https://img.shields.io/github/stars/daemoncibsec/mcpExec">
+- [diamorphine666/CVE-2026-23744-exploit](https://github.com/diamorphine666/CVE-2026-23744-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-23744-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-23744-exploit">
 
 ---
 ## CVE-2026-23723 ()
