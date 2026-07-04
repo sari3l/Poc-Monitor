@@ -503,6 +503,11 @@
 - [Xaanziu/CVE-2026-5513](https://github.com/Xaanziu/CVE-2026-5513)	<img alt="forks" src="https://img.shields.io/github/forks/Xaanziu/CVE-2026-5513">	<img alt="stars" src="https://img.shields.io/github/stars/Xaanziu/CVE-2026-5513">
 
 ---
+## CVE-2026-54998 ()
+> 
+- [sentinel-aidefense/CVE-2026-54998-exp](https://github.com/sentinel-aidefense/CVE-2026-54998-exp)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-54998-exp">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-54998-exp">
+
+---
 ## CVE-2026-54807 ()
 > 
 - [izxci/CVE-2026-54807](https://github.com/izxci/CVE-2026-54807)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-54807">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-54807">
@@ -3022,6 +3027,7 @@
 - [r3nsi15/CVE-2026-33017-langflow-rce](https://github.com/r3nsi15/CVE-2026-33017-langflow-rce)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/CVE-2026-33017-langflow-rce">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/CVE-2026-33017-langflow-rce">
 - [c0gnit00/CVE-2026-33017](https://github.com/c0gnit00/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-33017">
 - [yayip/CVE-2026-33017](https://github.com/yayip/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/yayip/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/yayip/CVE-2026-33017">
+- [diamorphine666/CVE-2026-33017-Exploit](https://github.com/diamorphine666/CVE-2026-33017-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-33017-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-33017-Exploit">
 
 ---
 ## CVE-2026-3300 ()
@@ -5276,6 +5282,11 @@
 - [Baba01hacker666/CVE-2026-23111](https://github.com/Baba01hacker666/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-23111">
 - [bakano98/cve-2026-23111-poc](https://github.com/bakano98/cve-2026-23111-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bakano98/cve-2026-23111-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bakano98/cve-2026-23111-poc">
 - [vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111](https://github.com/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111">
+
+---
+## CVE-2026-22874 ()
+> 
+- [M8seven/cve-2026-22874-gitea-ssrf-allowlist](https://github.com/M8seven/cve-2026-22874-gitea-ssrf-allowlist)	<img alt="forks" src="https://img.shields.io/github/forks/M8seven/cve-2026-22874-gitea-ssrf-allowlist">	<img alt="stars" src="https://img.shields.io/github/stars/M8seven/cve-2026-22874-gitea-ssrf-allowlist">
 
 ---
 ## CVE-2026-22862 ()
