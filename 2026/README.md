@@ -40,6 +40,11 @@
 - [06-ux/CVE-2026-9256-POC](https://github.com/06-ux/CVE-2026-9256-POC)	<img alt="forks" src="https://img.shields.io/github/forks/06-ux/CVE-2026-9256-POC">	<img alt="stars" src="https://img.shields.io/github/stars/06-ux/CVE-2026-9256-POC">
 
 ---
+## CVE-2026-9090 ()
+> 
+- [biosGit/CVE-2026-9090](https://github.com/biosGit/CVE-2026-9090)	<img alt="forks" src="https://img.shields.io/github/forks/biosGit/CVE-2026-9090">	<img alt="stars" src="https://img.shields.io/github/stars/biosGit/CVE-2026-9090">
+
+---
 ## CVE-2026-9082 ()
 > 
 - [lysophavin18/cve-2026-9082](https://github.com/lysophavin18/cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/cve-2026-9082">
