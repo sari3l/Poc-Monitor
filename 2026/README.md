@@ -2194,6 +2194,7 @@
 ## CVE-2026-39047 ()
 > 
 - [J4ck3LSyN-Gen2/CVE-2026-39047](https://github.com/J4ck3LSyN-Gen2/CVE-2026-39047)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-39047">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-39047">
+- [AzhariRamadhan/CVE-2026-39047](https://github.com/AzhariRamadhan/CVE-2026-39047)	<img alt="forks" src="https://img.shields.io/github/forks/AzhariRamadhan/CVE-2026-39047">	<img alt="stars" src="https://img.shields.io/github/stars/AzhariRamadhan/CVE-2026-39047">
 
 ---
 ## CVE-2026-39031 ()
@@ -3704,6 +3705,11 @@
 ## CVE-2026-31341 ()
 > 
 - [Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker](https://github.com/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker">
+
+---
+## CVE-2026-31309 ()
+> 
+- [Sch8ill/CVE-2026-31309](https://github.com/Sch8ill/CVE-2026-31309)	<img alt="forks" src="https://img.shields.io/github/forks/Sch8ill/CVE-2026-31309">	<img alt="stars" src="https://img.shields.io/github/stars/Sch8ill/CVE-2026-31309">
 
 ---
 ## CVE-2026-31283 ()
