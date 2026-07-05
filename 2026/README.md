@@ -5314,6 +5314,7 @@
 ## CVE-2026-22874 ()
 > 
 - [M8seven/cve-2026-22874-gitea-ssrf-allowlist](https://github.com/M8seven/cve-2026-22874-gitea-ssrf-allowlist)	<img alt="forks" src="https://img.shields.io/github/forks/M8seven/cve-2026-22874-gitea-ssrf-allowlist">	<img alt="stars" src="https://img.shields.io/github/stars/M8seven/cve-2026-22874-gitea-ssrf-allowlist">
+- [Eliot-code/CVE-2026-22874-PoC](https://github.com/Eliot-code/CVE-2026-22874-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Eliot-code/CVE-2026-22874-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Eliot-code/CVE-2026-22874-PoC">
 
 ---
 ## CVE-2026-22862 ()
