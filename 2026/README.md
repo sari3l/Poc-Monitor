@@ -859,6 +859,7 @@
 ## CVE-2026-48939 ()
 > 
 - [Polosss/By-Poloss..-..CVE-2026-48939](https://github.com/Polosss/By-Poloss..-..CVE-2026-48939)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-48939">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-48939">
+- [shinthink/CVE-2026-48939](https://github.com/shinthink/CVE-2026-48939)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-48939">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-48939">
 
 ---
 ## CVE-2026-48909 ()
@@ -4102,6 +4103,7 @@
 ## CVE-2026-27966 ()
 > 
 - [Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow](https://github.com/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">
+- [shinthink/CVE-2026-27966](https://github.com/shinthink/CVE-2026-27966)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-27966">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-27966">
 
 ---
 ## CVE-2026-2796 ()
