@@ -2191,6 +2191,11 @@
 - [anansi2safe/CVE-2026-3909-PoC](https://github.com/anansi2safe/CVE-2026-3909-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2026-3909-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2026-3909-PoC">
 
 ---
+## CVE-2026-39047 ()
+> 
+- [J4ck3LSyN-Gen2/CVE-2026-39047](https://github.com/J4ck3LSyN-Gen2/CVE-2026-39047)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-39047">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-39047">
+
+---
 ## CVE-2026-39031 ()
 > 
 - [user6400/cve-2026-39031-lansweeper-lsrunase2-lsencrypt2](https://github.com/user6400/cve-2026-39031-lansweeper-lsrunase2-lsencrypt2)	<img alt="forks" src="https://img.shields.io/github/forks/user6400/cve-2026-39031-lansweeper-lsrunase2-lsencrypt2">	<img alt="stars" src="https://img.shields.io/github/stars/user6400/cve-2026-39031-lansweeper-lsrunase2-lsencrypt2">
@@ -4014,6 +4019,11 @@
 ## CVE-2026-28956 ()
 > 
 - [impost0r/CVE-2026-28956](https://github.com/impost0r/CVE-2026-28956)	<img alt="forks" src="https://img.shields.io/github/forks/impost0r/CVE-2026-28956">	<img alt="stars" src="https://img.shields.io/github/stars/impost0r/CVE-2026-28956">
+
+---
+## CVE-2026-28867 ()
+> 
+- [speedyfriend433/CVE-2026-28867-PoC](https://github.com/speedyfriend433/CVE-2026-28867-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/speedyfriend433/CVE-2026-28867-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/speedyfriend433/CVE-2026-28867-PoC">
 
 ---
 ## CVE-2026-28858 ()
