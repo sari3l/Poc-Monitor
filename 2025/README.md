@@ -7460,6 +7460,7 @@
 - [0xzap/CVE-2025-32463](https://github.com/0xzap/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2025-32463">
 - [v3rycl0p3r/CVE-2025-32463](https://github.com/v3rycl0p3r/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/v3rycl0p3r/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/v3rycl0p3r/CVE-2025-32463">
 - [Fomovet/cve-2025-32463](https://github.com/Fomovet/cve-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-32463">
+- [secvulnhub/CVE-2025-32463-EXPLOIT](https://github.com/secvulnhub/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/secvulnhub/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/secvulnhub/CVE-2025-32463-EXPLOIT">
 
 ---
 ## CVE-2025-32462 ()
