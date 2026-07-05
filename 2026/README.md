@@ -875,6 +875,8 @@
 - [gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla](https://github.com/gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-48908-SP-Page-Builder-Joomla">
 - [0xBlackash/CVE-2026-48908](https://github.com/0xBlackash/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-48908">
 - [Procjevt/CVE-2026-48908](https://github.com/Procjevt/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/Procjevt/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/Procjevt/CVE-2026-48908">
+- [bayu06802/CVE-2026-48908](https://github.com/bayu06802/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/bayu06802/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/bayu06802/CVE-2026-48908">
+- [ayiezola/CVE-2026-48908](https://github.com/ayiezola/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/ayiezola/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/ayiezola/CVE-2026-48908">
 
 ---
 ## CVE-2026-48907 ()
@@ -5747,6 +5749,7 @@
 ## CVE-2026-20896 ()
 > 
 - [kaleth4/CVE-2026-20896](https://github.com/kaleth4/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-20896">
+- [rz1027/CVE-2026-20896](https://github.com/rz1027/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/rz1027/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/rz1027/CVE-2026-20896">
 
 ---
 ## CVE-2026-20856 ()
@@ -6297,6 +6300,11 @@
 ## CVE-2026-10187 ()
 > 
 - [passwa11/CVE-2026-10187](https://github.com/passwa11/CVE-2026-10187)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-10187">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-10187">
+
+---
+## CVE-2026-10104 ()
+> 
+- [Ravi-lk/CVE-2026-10104-POC](https://github.com/Ravi-lk/CVE-2026-10104-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ravi-lk/CVE-2026-10104-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ravi-lk/CVE-2026-10104-POC">
 
 ---
 ## CVE-2026-1 ()
