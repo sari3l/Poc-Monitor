@@ -2793,6 +2793,11 @@
 - [Daeda1usUK/CVE-2025-59390-](https://github.com/Daeda1usUK/CVE-2025-59390-)	<img alt="forks" src="https://img.shields.io/github/forks/Daeda1usUK/CVE-2025-59390-">	<img alt="stars" src="https://img.shields.io/github/stars/Daeda1usUK/CVE-2025-59390-">
 
 ---
+## CVE-2025-59382 ()
+> 
+- [Rat5ak/CVE-2025-59382-QNAP-Password-Reset-Account-Takeover](https://github.com/Rat5ak/CVE-2025-59382-QNAP-Password-Reset-Account-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2025-59382-QNAP-Password-Reset-Account-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2025-59382-QNAP-Password-Reset-Account-Takeover">
+
+---
 ## CVE-2025-59367 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-59367](https://github.com/B1ack4sh/Blackash-CVE-2025-59367)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-59367">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-59367">
