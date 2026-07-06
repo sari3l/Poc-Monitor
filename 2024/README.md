@@ -4627,6 +4627,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031)	<img alt="forks" src="https://img.shields.io/github/forks/toneemarqus/CVE-2024-39031">	<img alt="stars" src="https://img.shields.io/github/stars/toneemarqus/CVE-2024-39031">
 
 ---
+## CVE-2024-39024 ()
+> 
+- [ly1g3/packetfence-CVE-2024-39024](https://github.com/ly1g3/packetfence-CVE-2024-39024)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/packetfence-CVE-2024-39024">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/packetfence-CVE-2024-39024">
+
+---
 ## CVE-2024-3902 ()
 > 
 - [OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit](https://github.com/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OliviaDontFind/CVE-2024-3902-Citrix-PrivEsc-exploit">
