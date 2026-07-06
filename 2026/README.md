@@ -2311,6 +2311,8 @@
 > 
 - [NathanHimself/CVE-2026-38526-PoC](https://github.com/NathanHimself/CVE-2026-38526-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NathanHimself/CVE-2026-38526-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NathanHimself/CVE-2026-38526-PoC">
 - [pawpic/CVE-2026-38526-POC](https://github.com/pawpic/CVE-2026-38526-POC)	<img alt="forks" src="https://img.shields.io/github/forks/pawpic/CVE-2026-38526-POC">	<img alt="stars" src="https://img.shields.io/github/stars/pawpic/CVE-2026-38526-POC">
+- [diamorphine666/CVE-2026-38526-Exploit](https://github.com/diamorphine666/CVE-2026-38526-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-38526-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-38526-Exploit">
+- [mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">
 
 ---
 ## CVE-2026-3847 ()
