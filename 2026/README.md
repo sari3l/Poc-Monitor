@@ -3642,6 +3642,7 @@
 - [zs1n/copy-fail-CVE-2026-31431](https://github.com/zs1n/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/zs1n/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/zs1n/copy-fail-CVE-2026-31431">
 - [kinryulabs/rootpacket-cve-2026-31431](https://github.com/kinryulabs/rootpacket-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kinryulabs/rootpacket-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kinryulabs/rootpacket-cve-2026-31431">
 - [SugiB3o/CVE-2026-31431](https://github.com/SugiB3o/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/CVE-2026-31431">
+- [jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">
 
 ---
 ## CVE-2026-3143 ()
@@ -4292,6 +4293,11 @@
 ## CVE-2026-27174 ()
 > 
 - [MaxMnMl/majordomo-CVE-2026-27174-poc](https://github.com/MaxMnMl/majordomo-CVE-2026-27174-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/majordomo-CVE-2026-27174-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/majordomo-CVE-2026-27174-poc">
+
+---
+## CVE-2026-27172 ()
+> 
+- [oscerd/CVE-2026-27172](https://github.com/oscerd/CVE-2026-27172)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-27172">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-27172">
 
 ---
 ## CVE-2026-27145 ()
@@ -5574,7 +5580,7 @@
 - [Ashwesker/Ashwesker-CVE-2026-21858](https://github.com/Ashwesker/Ashwesker-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21858">
 - [sastraadiwiguna-purpleeliteteaming/SASTRA-ADI-WIGUNA-CVE-2026-21858-Holistic-Audit](https://github.com/sastraadiwiguna-purpleeliteteaming/SASTRA-ADI-WIGUNA-CVE-2026-21858-Holistic-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/sastraadiwiguna-purpleeliteteaming/SASTRA-ADI-WIGUNA-CVE-2026-21858-Holistic-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/sastraadiwiguna-purpleeliteteaming/SASTRA-ADI-WIGUNA-CVE-2026-21858-Holistic-Audit">
 - [cropnet/Ni8mare](https://github.com/cropnet/Ni8mare)	<img alt="forks" src="https://img.shields.io/github/forks/cropnet/Ni8mare">	<img alt="stars" src="https://img.shields.io/github/stars/cropnet/Ni8mare">
-- [SystemVll/CVE-2026-21858](https://github.com/SystemVll/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-21858">
+- [sh4den/CVE-2026-21858](https://github.com/sh4den/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/sh4den/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/sh4den/CVE-2026-21858">
 - [MOGMUNI/CVE-2026-21858](https://github.com/MOGMUNI/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/MOGMUNI/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/MOGMUNI/CVE-2026-21858">
 - [MOGMUNI/mogmuni.github.io](https://github.com/MOGMUNI/mogmuni.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MOGMUNI/mogmuni.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MOGMUNI/mogmuni.github.io">
 - [sec-dojo-com/CVE-2026-21858](https://github.com/sec-dojo-com/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/sec-dojo-com/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/sec-dojo-com/CVE-2026-21858">
