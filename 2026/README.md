@@ -2044,6 +2044,11 @@
 - [oscerd/CVE-2026-40564](https://github.com/oscerd/CVE-2026-40564)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40564">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40564">
 
 ---
+## CVE-2026-40519 ()
+> 
+- [namu1030/CVE-2026-40519](https://github.com/namu1030/CVE-2026-40519)	<img alt="forks" src="https://img.shields.io/github/forks/namu1030/CVE-2026-40519">	<img alt="stars" src="https://img.shields.io/github/stars/namu1030/CVE-2026-40519">
+
+---
 ## CVE-2026-40487 ()
 > 
 - [Astaruf/CVE-2026-40487](https://github.com/Astaruf/CVE-2026-40487)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-40487">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-40487">
@@ -2174,6 +2179,11 @@
 ## CVE-2026-39676 ()
 > 
 - [OkamiSpade/Cve-2026-39676](https://github.com/OkamiSpade/Cve-2026-39676)	<img alt="forks" src="https://img.shields.io/github/forks/OkamiSpade/Cve-2026-39676">	<img alt="stars" src="https://img.shields.io/github/stars/OkamiSpade/Cve-2026-39676">
+
+---
+## CVE-2026-39492 ()
+> 
+- [shinthink/CVE-2026-39492](https://github.com/shinthink/CVE-2026-39492)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-39492">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-39492">
 
 ---
 ## CVE-2026-39440 ()
@@ -6142,6 +6152,11 @@
 ## CVE-2026-1490 ()
 > 
 - [comthompson30/CVE-2026-1490](https://github.com/comthompson30/CVE-2026-1490)	<img alt="forks" src="https://img.shields.io/github/forks/comthompson30/CVE-2026-1490">	<img alt="stars" src="https://img.shields.io/github/stars/comthompson30/CVE-2026-1490">
+
+---
+## CVE-2026-14762 ()
+> 
+- [tc4dy/CVE-2026-14762-PoC-Exploit](https://github.com/tc4dy/CVE-2026-14762-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-14762-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-14762-PoC-Exploit">
 
 ---
 ## CVE-2026-1470 ()
