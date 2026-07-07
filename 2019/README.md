@@ -18,6 +18,10 @@
 - [xxoprt/payloadCVE-2019-9978](https://github.com/xxoprt/payloadCVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/xxoprt/payloadCVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/xxoprt/payloadCVE-2019-9978">
 - [Vaidehim55/CVE-2019-9978-RCE-PoC](https://github.com/Vaidehim55/CVE-2019-9978-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Vaidehim55/CVE-2019-9978-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Vaidehim55/CVE-2019-9978-RCE-PoC">
 - [yup-Ivan/CVE-2019-9978](https://github.com/yup-Ivan/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/yup-Ivan/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/yup-Ivan/CVE-2019-9978">
+- [TokyoHunter/CVE-2019-9978-Social-Warfare-WordPress-RCE](https://github.com/TokyoHunter/CVE-2019-9978-Social-Warfare-WordPress-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TokyoHunter/CVE-2019-9978-Social-Warfare-WordPress-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TokyoHunter/CVE-2019-9978-Social-Warfare-WordPress-RCE">
+- [B4ntGrim/Vuln_Remediation_MegaQuagga](https://github.com/B4ntGrim/Vuln_Remediation_MegaQuagga)	<img alt="forks" src="https://img.shields.io/github/forks/B4ntGrim/Vuln_Remediation_MegaQuagga">	<img alt="stars" src="https://img.shields.io/github/stars/B4ntGrim/Vuln_Remediation_MegaQuagga">
+- [B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest](https://github.com/B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest)	<img alt="forks" src="https://img.shields.io/github/forks/B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest">	<img alt="stars" src="https://img.shields.io/github/stars/B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest">
+- [aktia1/MegaQuagga_Pentesting_Report](https://github.com/aktia1/MegaQuagga_Pentesting_Report)	<img alt="forks" src="https://img.shields.io/github/forks/aktia1/MegaQuagga_Pentesting_Report">	<img alt="stars" src="https://img.shields.io/github/stars/aktia1/MegaQuagga_Pentesting_Report">
 
 ---
 ## CVE-2019-9947 (2019-03-23T18:29:00)

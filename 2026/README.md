@@ -2576,6 +2576,11 @@
 - [NullByte8080/CVE-2026-36226](https://github.com/NullByte8080/CVE-2026-36226)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36226">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36226">
 
 ---
+## CVE-2026-36214 ()
+> 
+- [WesWrench/CVE-2026-36214](https://github.com/WesWrench/CVE-2026-36214)	<img alt="forks" src="https://img.shields.io/github/forks/WesWrench/CVE-2026-36214">	<img alt="stars" src="https://img.shields.io/github/stars/WesWrench/CVE-2026-36214">
+
+---
 ## CVE-2026-36213 ()
 > 
 - [sec-zone/CVE-2026-36213](https://github.com/sec-zone/CVE-2026-36213)	<img alt="forks" src="https://img.shields.io/github/forks/sec-zone/CVE-2026-36213">	<img alt="stars" src="https://img.shields.io/github/stars/sec-zone/CVE-2026-36213">
@@ -6300,6 +6305,11 @@
 ## CVE-2026-1232 ()
 > 
 - [horrister/beyondtrust-cve-2026-1232](https://github.com/horrister/beyondtrust-cve-2026-1232)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/beyondtrust-cve-2026-1232">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/beyondtrust-cve-2026-1232">
+
+---
+## CVE-2026-12277 ()
+> 
+- [moritakaaz/CVE-2026-12277](https://github.com/moritakaaz/CVE-2026-12277)	<img alt="forks" src="https://img.shields.io/github/forks/moritakaaz/CVE-2026-12277">	<img alt="stars" src="https://img.shields.io/github/stars/moritakaaz/CVE-2026-12277">
 
 ---
 ## CVE-2026-12166 ()
