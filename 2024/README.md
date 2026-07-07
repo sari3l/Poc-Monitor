@@ -5283,6 +5283,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [mantanhacker/CVE-2024-36401-MASS](https://github.com/mantanhacker/CVE-2024-36401-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/mantanhacker/CVE-2024-36401-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/mantanhacker/CVE-2024-36401-MASS">
 - [DanieleGiovanardi2408/cve-2024-36401-geoserver-rce](https://github.com/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce)	<img alt="forks" src="https://img.shields.io/github/forks/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">	<img alt="stars" src="https://img.shields.io/github/stars/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">
 - [Delt-A/CVE-2024-36401-poc](https://github.com/Delt-A/CVE-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Delt-A/CVE-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Delt-A/CVE-2024-36401-poc">
+- [keelanbrady1011/CVE-2024-36401](https://github.com/keelanbrady1011/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/keelanbrady1011/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/keelanbrady1011/CVE-2024-36401">
 
 ---
 ## CVE-2024-3640 ()

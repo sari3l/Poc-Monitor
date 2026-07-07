@@ -6186,6 +6186,11 @@
 - [rsecroot/CVE-2026-1424](https://github.com/rsecroot/CVE-2026-1424)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2026-1424">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2026-1424">
 
 ---
+## CVE-2026-14191 ()
+> 
+- [HORKimhab/CVE-2026-14191](https://github.com/HORKimhab/CVE-2026-14191)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-14191">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-14191">
+
+---
 ## CVE-2026-1405 ()
 > 
 - [Nxploited/CVE-2026-1405](https://github.com/Nxploited/CVE-2026-1405)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1405">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1405">
