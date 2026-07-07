@@ -5303,6 +5303,16 @@
 - [Ch35h1r3c47/CVE-2026-23723-POC](https://github.com/Ch35h1r3c47/CVE-2026-23723-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ch35h1r3c47/CVE-2026-23723-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ch35h1r3c47/CVE-2026-23723-POC">
 
 ---
+## CVE-2026-23698 ()
+> 
+- [JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698](https://github.com/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698)	<img alt="forks" src="https://img.shields.io/github/forks/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698">	<img alt="stars" src="https://img.shields.io/github/stars/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23698">
+
+---
+## CVE-2026-23697 ()
+> 
+- [JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697](https://github.com/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697)	<img alt="forks" src="https://img.shields.io/github/forks/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697">	<img alt="stars" src="https://img.shields.io/github/stars/JivaSecurity/VTIGER-CRM-RCE-CVE-2026-23697">
+
+---
 ## CVE-2026-23631 ()
 > 
 - [HORKimhab/CVE-2026-23631](https://github.com/HORKimhab/CVE-2026-23631)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-23631">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-23631">
