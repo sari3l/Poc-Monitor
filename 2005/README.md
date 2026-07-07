@@ -20,3 +20,4 @@
 ## CVE-2005-0575 (2005-05-02T04:00:00)
 > Buffer overflow in Stormy Studios Knet 1.04c and earlier allows remote attackers to cause a denial of service and possibly execute arbitrary code via a long HTTP GET request.
 - [3t3rn4lv01d/CVE-2005-0575](https://github.com/3t3rn4lv01d/CVE-2005-0575)	<img alt="forks" src="https://img.shields.io/github/forks/3t3rn4lv01d/CVE-2005-0575">	<img alt="stars" src="https://img.shields.io/github/stars/3t3rn4lv01d/CVE-2005-0575">
+- [bluedragonsecurity/CVE-2005-0575-knet-exploit](https://github.com/bluedragonsecurity/CVE-2005-0575-knet-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2005-0575-knet-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2005-0575-knet-exploit">
