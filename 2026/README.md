@@ -975,6 +975,7 @@
 > 
 - [citruscitruscitruscitruscitrusci/CVE-2026-48611-poc](https://github.com/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc)	<img alt="forks" src="https://img.shields.io/github/forks/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">	<img alt="stars" src="https://img.shields.io/github/stars/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">
 - [Diznev/CVE-2026-48611-EXPLOIT](https://github.com/Diznev/CVE-2026-48611-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Diznev/CVE-2026-48611-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Diznev/CVE-2026-48611-EXPLOIT">
+- [wanmywan/CVE-2026-48611-phpBB](https://github.com/wanmywan/CVE-2026-48611-phpBB)	<img alt="forks" src="https://img.shields.io/github/forks/wanmywan/CVE-2026-48611-phpBB">	<img alt="stars" src="https://img.shields.io/github/stars/wanmywan/CVE-2026-48611-phpBB">
 
 ---
 ## CVE-2026-48595 ()

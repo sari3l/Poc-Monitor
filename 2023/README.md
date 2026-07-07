@@ -5583,6 +5583,11 @@ Fixed in version 6.4.1.
 - [ViCrack/CVE-2023-31503](https://github.com/ViCrack/CVE-2023-31503)	<img alt="forks" src="https://img.shields.io/github/forks/ViCrack/CVE-2023-31503">	<img alt="stars" src="https://img.shields.io/github/stars/ViCrack/CVE-2023-31503">
 
 ---
+## CVE-2023-31488 ()
+> 
+- [ly1g3/cisco-CVE-2023-31488](https://github.com/ly1g3/cisco-CVE-2023-31488)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/cisco-CVE-2023-31488">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/cisco-CVE-2023-31488">
+
+---
 ## CVE-2023-31446 (2024-01-10T03:15:00)
 > In Cassia Gateway firmware XC1000_2.1.1.2303082218 and XC2000_2.1.1.2303090947, the queueUrl parameter in /bypass/config is not sanitized. This leads to injecting Bash code and executing it with root privileges on device startup.
 - [Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution](https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution">
