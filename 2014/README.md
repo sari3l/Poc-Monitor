@@ -146,6 +146,7 @@
 - [HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor](https://github.com/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor)	<img alt="forks" src="https://img.shields.io/github/forks/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor">	<img alt="stars" src="https://img.shields.io/github/stars/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor">
 - [im2sinister/CVE-2014-6271](https://github.com/im2sinister/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/im2sinister/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/im2sinister/CVE-2014-6271">
 - [V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection](https://github.com/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection">
+- [caverm/Shellshock_CVE-2014-6271](https://github.com/caverm/Shellshock_CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/caverm/Shellshock_CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/caverm/Shellshock_CVE-2014-6271">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
