@@ -665,6 +665,7 @@
 > 
 - [HORKimhab/CVE-2026-53359](https://github.com/HORKimhab/CVE-2026-53359)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53359">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53359">
 - [0xBlackash/CVE-2026-53359](https://github.com/0xBlackash/CVE-2026-53359)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-53359">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-53359">
+- [chuzhongyun/CVE-2026-53359-Kernel-Fix](https://github.com/chuzhongyun/CVE-2026-53359-Kernel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/chuzhongyun/CVE-2026-53359-Kernel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/chuzhongyun/CVE-2026-53359-Kernel-Fix">
 
 ---
 ## CVE-2026-52943 ()
@@ -740,6 +741,11 @@
 - [zycoder0day/CVE-2026-5118](https://github.com/zycoder0day/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5118">
 - [Jenderal92/CVE-2026-5118](https://github.com/Jenderal92/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-5118">
 - [Yucaerin/CVE-2026-5118](https://github.com/Yucaerin/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-5118">
+
+---
+## CVE-2026-51119 ()
+> 
+- [A17-ba/CVE-2026-51119](https://github.com/A17-ba/CVE-2026-51119)	<img alt="forks" src="https://img.shields.io/github/forks/A17-ba/CVE-2026-51119">	<img alt="stars" src="https://img.shields.io/github/stars/A17-ba/CVE-2026-51119">
 
 ---
 ## CVE-2026-50751 ()
@@ -5856,6 +5862,7 @@
 - [kaleth4/CVE-2026-20896](https://github.com/kaleth4/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-20896">
 - [rz1027/CVE-2026-20896](https://github.com/rz1027/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/rz1027/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/rz1027/CVE-2026-20896">
 - [rz1027/CVE-2026-20896](https://github.com/rz1027/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/rz1027/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/rz1027/CVE-2026-20896">
+- [szybnev/cve-2026-20896-gitea-poc](https://github.com/szybnev/cve-2026-20896-gitea-poc)	<img alt="forks" src="https://img.shields.io/github/forks/szybnev/cve-2026-20896-gitea-poc">	<img alt="stars" src="https://img.shields.io/github/stars/szybnev/cve-2026-20896-gitea-poc">
 
 ---
 ## CVE-2026-20856 ()
