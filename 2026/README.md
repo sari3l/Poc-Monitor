@@ -625,6 +625,12 @@
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
 
 ---
+## CVE-2026-53787 ()
+> 
+- [anonx1945/CVE-2026-53787](https://github.com/anonx1945/CVE-2026-53787)	<img alt="forks" src="https://img.shields.io/github/forks/anonx1945/CVE-2026-53787">	<img alt="stars" src="https://img.shields.io/github/stars/anonx1945/CVE-2026-53787">
+- [webshellseo8/CVE-2026-53787-POC-](https://github.com/webshellseo8/CVE-2026-53787-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-53787-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-53787-POC-">
+
+---
 ## CVE-2026-53753 ()
 > 
 - [BiiTts/CVE-2026-53753-Crawl4AI-RCE](https://github.com/BiiTts/CVE-2026-53753-Crawl4AI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-53753-Crawl4AI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-53753-Crawl4AI-RCE">
@@ -2118,6 +2124,11 @@
 - [u1tr0nex/cve-2026-40072-ssrf-lab](https://github.com/u1tr0nex/cve-2026-40072-ssrf-lab)	<img alt="forks" src="https://img.shields.io/github/forks/u1tr0nex/cve-2026-40072-ssrf-lab">	<img alt="stars" src="https://img.shields.io/github/stars/u1tr0nex/cve-2026-40072-ssrf-lab">
 
 ---
+## CVE-2026-40047 ()
+> 
+- [oscerd/CVE-2026-40047](https://github.com/oscerd/CVE-2026-40047)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40047">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40047">
+
+---
 ## CVE-2026-40022 ()
 > 
 - [oscerd/CVE-2026-40022](https://github.com/oscerd/CVE-2026-40022)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40022">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40022">
@@ -2878,6 +2889,7 @@
 - [LAT-06/CVE-2026-34197](https://github.com/LAT-06/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/LAT-06/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/LAT-06/CVE-2026-34197">
 - [Catherines77/ActiveMQ-EXPtools](https://github.com/Catherines77/ActiveMQ-EXPtools)	<img alt="forks" src="https://img.shields.io/github/forks/Catherines77/ActiveMQ-EXPtools">	<img alt="stars" src="https://img.shields.io/github/stars/Catherines77/ActiveMQ-EXPtools">
 - [xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-](https://github.com/xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-)	<img alt="forks" src="https://img.shields.io/github/forks/xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-">	<img alt="stars" src="https://img.shields.io/github/stars/xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-">
+- [pssec-io/CVE-2026-34197](https://github.com/pssec-io/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/pssec-io/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/pssec-io/CVE-2026-34197">
 
 ---
 ## CVE-2026-34160 ()
