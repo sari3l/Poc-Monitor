@@ -5965,6 +5965,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Ant1sec-ops/CVE-2024-33453](https://github.com/Ant1sec-ops/CVE-2024-33453)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-33453">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-33453">
 
 ---
+## CVE-2024-33452 ()
+> 
+- [namu17/CVE-2024-33452](https://github.com/namu17/CVE-2024-33452)	<img alt="forks" src="https://img.shields.io/github/forks/namu17/CVE-2024-33452">	<img alt="stars" src="https://img.shields.io/github/stars/namu17/CVE-2024-33452">
+
+---
 ## CVE-2024-33438 (2024-04-29T18:15:00)
 > File Upload vulnerability in CubeCart before 6.5.5 allows an authenticated user to execute arbitrary code via a crafted .phar file.
 - [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-33438">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-33438">
