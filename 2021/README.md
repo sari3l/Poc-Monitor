@@ -9078,6 +9078,7 @@
 - [CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi](https://github.com/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi)	<img alt="forks" src="https://img.shields.io/github/forks/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi">	<img alt="stars" src="https://img.shields.io/github/stars/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi">
 - [mercylessghost/CVE-2021-21974](https://github.com/mercylessghost/CVE-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/mercylessghost/CVE-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/mercylessghost/CVE-2021-21974">
 - [abirasecurity/CVE-2021-21974_vuln_dectection](https://github.com/abirasecurity/CVE-2021-21974_vuln_dectection)	<img alt="forks" src="https://img.shields.io/github/forks/abirasecurity/CVE-2021-21974_vuln_dectection">	<img alt="stars" src="https://img.shields.io/github/stars/abirasecurity/CVE-2021-21974_vuln_dectection">
+- [Aiyakami/CVE-2021-21974](https://github.com/Aiyakami/CVE-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/Aiyakami/CVE-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/Aiyakami/CVE-2021-21974">
 
 ---
 ## CVE-2021-21972 (2021-02-24T17:15:00)
