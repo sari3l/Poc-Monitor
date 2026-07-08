@@ -3299,6 +3299,7 @@
 - [knqyf263/CVE-2021-40346](https://github.com/knqyf263/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2021-40346">
 - [BoianEduard/CVE-2021-40346](https://github.com/BoianEduard/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/BoianEduard/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/BoianEduard/CVE-2021-40346">
 - [rizemon/CS5331](https://github.com/rizemon/CS5331)	<img alt="forks" src="https://img.shields.io/github/forks/rizemon/CS5331">	<img alt="stars" src="https://img.shields.io/github/stars/rizemon/CS5331">
+- [jmg0929/CVE-2021-40346](https://github.com/jmg0929/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/jmg0929/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/jmg0929/CVE-2021-40346">
 
 ---
 ## CVE-2021-40345 (2021-10-26T11:15:00)
