@@ -640,6 +640,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313)	<img alt="forks" src="https://img.shields.io/github/forks/Wayne-Ker/CVE-2024-7313">	<img alt="stars" src="https://img.shields.io/github/stars/Wayne-Ker/CVE-2024-7313">
 
 ---
+## CVE-2024-7254 ()
+> 
+- [Ayumu3746221/cve-2024-7254-app-lab](https://github.com/Ayumu3746221/cve-2024-7254-app-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Ayumu3746221/cve-2024-7254-app-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Ayumu3746221/cve-2024-7254-app-lab">
+
+---
 ## CVE-2024-7188 (2024-07-29T07:15:00)
 > A vulnerability was found in Bylancer Quicklancer 2.4. It has been rated as critical. This issue affects some unknown processing of the file /listing of the component GET Parameter Handler. The manipulation of the argument range2 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-272609 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7188-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7188-PoC">
