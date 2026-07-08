@@ -8530,6 +8530,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [djayaGit/cve-2023-20198-poc-cisco](https://github.com/djayaGit/cve-2023-20198-poc-cisco)	<img alt="forks" src="https://img.shields.io/github/forks/djayaGit/cve-2023-20198-poc-cisco">	<img alt="stars" src="https://img.shields.io/github/stars/djayaGit/cve-2023-20198-poc-cisco">
 - [Gill-Singh-A/CVE-2023-20198-Exploit](https://github.com/Gill-Singh-A/CVE-2023-20198-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Gill-Singh-A/CVE-2023-20198-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Gill-Singh-A/CVE-2023-20198-Exploit">
 - [charlesjson/CVE-2023-20198](https://github.com/charlesjson/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/charlesjson/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/charlesjson/CVE-2023-20198">
+- [abrahamsurf/CVE-2023-20198-Scanner](https://github.com/abrahamsurf/CVE-2023-20198-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/abrahamsurf/CVE-2023-20198-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/abrahamsurf/CVE-2023-20198-Scanner">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
