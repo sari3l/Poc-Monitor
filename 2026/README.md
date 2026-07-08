@@ -705,6 +705,11 @@
 - [portbuster1337/CVE-2026-52806](https://github.com/portbuster1337/CVE-2026-52806)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-52806">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-52806">
 
 ---
+## CVE-2026-52658 ()
+> 
+- [mirackayikci/CVE-2026-52658](https://github.com/mirackayikci/CVE-2026-52658)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-52658">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-52658">
+
+---
 ## CVE-2026-5252 ()
 > 
 - [aydin5245/CVE-2026-5252-CVE-POC-ivanti](https://github.com/aydin5245/CVE-2026-5252-CVE-POC-ivanti)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2026-5252-CVE-POC-ivanti">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2026-5252-CVE-POC-ivanti">
