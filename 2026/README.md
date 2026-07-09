@@ -670,6 +670,11 @@
 - [eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)	<img alt="forks" src="https://img.shields.io/github/forks/eev4n/CVE-2026-53582">	<img alt="stars" src="https://img.shields.io/github/stars/eev4n/CVE-2026-53582">
 
 ---
+## CVE-2026-53571 ()
+> 
+- [TazmiDev/CVE-2026-53571](https://github.com/TazmiDev/CVE-2026-53571)	<img alt="forks" src="https://img.shields.io/github/forks/TazmiDev/CVE-2026-53571">	<img alt="stars" src="https://img.shields.io/github/stars/TazmiDev/CVE-2026-53571">
+
+---
 ## CVE-2026-53519 ()
 > 
 - [tar-xz/CVE-2026-53519-PoC](https://github.com/tar-xz/CVE-2026-53519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tar-xz/CVE-2026-53519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tar-xz/CVE-2026-53519-PoC">
