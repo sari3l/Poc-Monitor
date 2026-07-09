@@ -981,6 +981,7 @@
 - [ayiezola/CVE-2026-48908](https://github.com/ayiezola/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/ayiezola/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/ayiezola/CVE-2026-48908">
 - [Jenderal92/CVE-2026-48908](https://github.com/Jenderal92/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-48908">
 - [cazzysoci/cve-2026-48908](https://github.com/cazzysoci/cve-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/cazzysoci/cve-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/cazzysoci/cve-2026-48908">
+- [g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection](https://github.com/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection">
 
 ---
 ## CVE-2026-48907 ()
@@ -6423,6 +6424,11 @@
 ## CVE-2026-12415 ()
 > 
 - [xxconi/CVE-2026-12415-or-CVE-2026-12416.py](https://github.com/xxconi/CVE-2026-12415-or-CVE-2026-12416.py)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-12415-or-CVE-2026-12416.py">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-12415-or-CVE-2026-12416.py">
+
+---
+## CVE-2026-12400 ()
+> 
+- [0x00phantom-hat/CVE-2026-12400-Exploit](https://github.com/0x00phantom-hat/CVE-2026-12400-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/CVE-2026-12400-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/CVE-2026-12400-Exploit">
 
 ---
 ## CVE-2026-1238 ()
