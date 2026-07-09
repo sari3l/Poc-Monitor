@@ -7648,6 +7648,7 @@
 ## CVE-2025-32375 ()
 > 
 - [theGEBIRGE/CVE-2025-32375](https://github.com/theGEBIRGE/CVE-2025-32375)	<img alt="forks" src="https://img.shields.io/github/forks/theGEBIRGE/CVE-2025-32375">	<img alt="stars" src="https://img.shields.io/github/stars/theGEBIRGE/CVE-2025-32375">
+- [surajpandeyp/CVE-2025-32375](https://github.com/surajpandeyp/CVE-2025-32375)	<img alt="forks" src="https://img.shields.io/github/forks/surajpandeyp/CVE-2025-32375">	<img alt="stars" src="https://img.shields.io/github/stars/surajpandeyp/CVE-2025-32375">
 
 ---
 ## CVE-2025-32259 ()
@@ -9169,6 +9170,7 @@
 - [vasilysaint/CVE-2025-24893](https://github.com/vasilysaint/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/vasilysaint/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/vasilysaint/CVE-2025-24893">
 - [rippsec/CVE-2025-24893-XWiki-SSTI-RCE](https://github.com/rippsec/CVE-2025-24893-XWiki-SSTI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-24893-XWiki-SSTI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-24893-XWiki-SSTI-RCE">
 - [Fomovet/cve-2025-24893](https://github.com/Fomovet/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24893">
+- [endusdksla/xwiki-cve-2025-24893](https://github.com/endusdksla/xwiki-cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/endusdksla/xwiki-cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/endusdksla/xwiki-cve-2025-24893">
 
 ---
 ## CVE-2025-24813 ()

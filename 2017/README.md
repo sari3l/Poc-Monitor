@@ -1272,6 +1272,7 @@
 ## CVE-2017-15715 ()
 > 
 - [ehsehs5652/CVE-2017-15715-httpd](https://github.com/ehsehs5652/CVE-2017-15715-httpd)	<img alt="forks" src="https://img.shields.io/github/forks/ehsehs5652/CVE-2017-15715-httpd">	<img alt="stars" src="https://img.shields.io/github/stars/ehsehs5652/CVE-2017-15715-httpd">
+- [whisp1830/CVE-2017-15715](https://github.com/whisp1830/CVE-2017-15715)	<img alt="forks" src="https://img.shields.io/github/forks/whisp1830/CVE-2017-15715">	<img alt="stars" src="https://img.shields.io/github/stars/whisp1830/CVE-2017-15715">
 
 ---
 ## CVE-2017-15700 ()
