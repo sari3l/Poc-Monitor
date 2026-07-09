@@ -384,6 +384,11 @@
 - [Hann1bl3L3ct3r/CVE-2026-6145](https://github.com/Hann1bl3L3ct3r/CVE-2026-6145)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-6145">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-6145">
 
 ---
+## CVE-2026-61343 ()
+> 
+- [nmagill123/CVE-2026-61343-poc-librebooking-rce](https://github.com/nmagill123/CVE-2026-61343-poc-librebooking-rce)	<img alt="forks" src="https://img.shields.io/github/forks/nmagill123/CVE-2026-61343-poc-librebooking-rce">	<img alt="stars" src="https://img.shields.io/github/stars/nmagill123/CVE-2026-61343-poc-librebooking-rce">
+
+---
 ## CVE-2026-6042 ()
 > 
 - [jensnesten/CVE-2026-6042-PoC](https://github.com/jensnesten/CVE-2026-6042-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/CVE-2026-6042-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/CVE-2026-6042-PoC">
