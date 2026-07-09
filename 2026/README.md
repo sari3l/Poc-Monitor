@@ -182,6 +182,7 @@
 ## CVE-2026-8037 ()
 > 
 - [HORKimhab/CVE-2026-8037](https://github.com/HORKimhab/CVE-2026-8037)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8037">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8037">
+- [Caster-chen/CVE-2026-8037-POC](https://github.com/Caster-chen/CVE-2026-8037-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Caster-chen/CVE-2026-8037-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Caster-chen/CVE-2026-8037-POC">
 
 ---
 ## CVE-2026-7731 ()
@@ -433,6 +434,11 @@
 - [kyukazamiqq/cve-2026-5718](https://github.com/kyukazamiqq/cve-2026-5718)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/cve-2026-5718">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/cve-2026-5718">
 - [rootdirective-sec/cve-2026-5718-Lab](https://github.com/rootdirective-sec/cve-2026-5718-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/cve-2026-5718-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/cve-2026-5718-Lab">
 - [xxconi/CVE-2026-5718-PR-V-EXPLO-T](https://github.com/xxconi/CVE-2026-5718-PR-V-EXPLO-T)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5718-PR-V-EXPLO-T">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5718-PR-V-EXPLO-T">
+
+---
+## CVE-2026-56876 ()
+> 
+- [ziad626/CVE-2026-56876-POC](https://github.com/ziad626/CVE-2026-56876-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ziad626/CVE-2026-56876-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ziad626/CVE-2026-56876-POC">
 
 ---
 ## CVE-2026-56782 ()
