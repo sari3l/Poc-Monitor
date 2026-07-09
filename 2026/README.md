@@ -1532,6 +1532,7 @@
 - [gl1tch0x1/DirtyClone](https://github.com/gl1tch0x1/DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/DirtyClone">
 - [douglasmun/pagecache-lpe-containment-kit](https://github.com/douglasmun/pagecache-lpe-containment-kit)	<img alt="forks" src="https://img.shields.io/github/forks/douglasmun/pagecache-lpe-containment-kit">	<img alt="stars" src="https://img.shields.io/github/stars/douglasmun/pagecache-lpe-containment-kit">
 - [SecureWithUmer/CVE-2026-43503](https://github.com/SecureWithUmer/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/SecureWithUmer/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/SecureWithUmer/CVE-2026-43503">
+- [lieehrdiansyah12/CVE-2026-43503](https://github.com/lieehrdiansyah12/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/lieehrdiansyah12/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/lieehrdiansyah12/CVE-2026-43503">
 
 ---
 ## CVE-2026-43500 ()
@@ -1756,6 +1757,8 @@
 > 
 - [bootstrapbool/cve-2026-4257](https://github.com/bootstrapbool/cve-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/bootstrapbool/cve-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/bootstrapbool/cve-2026-4257">
 - [0xgh057r3c0n/CVE-2026-4257](https://github.com/0xgh057r3c0n/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-4257">
+- [dann3xplo1t/CVE-2026-4257](https://github.com/dann3xplo1t/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/dann3xplo1t/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/dann3xplo1t/CVE-2026-4257">
+- [shootcannon/CVE-2026-4257](https://github.com/shootcannon/CVE-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/shootcannon/CVE-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/shootcannon/CVE-2026-4257">
 
 ---
 ## CVE-2026-42569 ()
@@ -2123,6 +2126,11 @@
 ## CVE-2026-40487 ()
 > 
 - [Astaruf/CVE-2026-40487](https://github.com/Astaruf/CVE-2026-40487)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-40487">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-40487">
+
+---
+## CVE-2026-40473 ()
+> 
+- [oscerd/CVE-2026-40473](https://github.com/oscerd/CVE-2026-40473)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40473">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40473">
 
 ---
 ## CVE-2026-40453 ()
