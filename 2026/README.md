@@ -417,6 +417,7 @@
 ## CVE-2026-57517 ()
 > 
 - [shinthink/CVE-2026-57517](https://github.com/shinthink/CVE-2026-57517)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57517">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57517">
+- [gagaltotal/CVE-2026-57517-CWP](https://github.com/gagaltotal/CVE-2026-57517-CWP)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-57517-CWP">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-57517-CWP">
 
 ---
 ## CVE-2026-5733 ()
