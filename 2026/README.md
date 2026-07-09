@@ -6623,7 +6623,7 @@
 ---
 ## CVE-2026-0776 ()
 > 
-- [xsuf/CVE-2026-0776](https://github.com/xsuf/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/xsuf/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/xsuf/CVE-2026-0776">
+- [zerkl/CVE-2026-0776](https://github.com/zerkl/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/zerkl/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/zerkl/CVE-2026-0776">
 - [OverlayCS/Helix](https://github.com/OverlayCS/Helix)	<img alt="forks" src="https://img.shields.io/github/forks/OverlayCS/Helix">	<img alt="stars" src="https://img.shields.io/github/stars/OverlayCS/Helix">
 
 ---
