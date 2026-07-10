@@ -5274,6 +5274,7 @@
 - [Cosm3No1de/htb-orion-writeup](https://github.com/Cosm3No1de/htb-orion-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/htb-orion-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/htb-orion-writeup">
 - [kyukazamiqq/CVE-2026-24061](https://github.com/kyukazamiqq/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/CVE-2026-24061">
 - [harygovind/CVE-2026-24061](https://github.com/harygovind/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/harygovind/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/harygovind/CVE-2026-24061">
+- [stoerti2/Abyssal](https://github.com/stoerti2/Abyssal)	<img alt="forks" src="https://img.shields.io/github/forks/stoerti2/Abyssal">	<img alt="stars" src="https://img.shields.io/github/stars/stoerti2/Abyssal">
 
 ---
 ## CVE-2026-2406 ()
