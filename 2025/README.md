@@ -3614,6 +3614,7 @@
 - [greycat-amc/CVE-2025-5548-FreeFloatFTP](https://github.com/greycat-amc/CVE-2025-5548-FreeFloatFTP)	<img alt="forks" src="https://img.shields.io/github/forks/greycat-amc/CVE-2025-5548-FreeFloatFTP">	<img alt="stars" src="https://img.shields.io/github/stars/greycat-amc/CVE-2025-5548-FreeFloatFTP">
 - [greycat-amc/CVE-2025-5548](https://github.com/greycat-amc/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/greycat-amc/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/greycat-amc/CVE-2025-5548">
 - [CryptoMachio/CVE-2025-5548](https://github.com/CryptoMachio/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/CryptoMachio/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/CryptoMachio/CVE-2025-5548">
+- [sudoand3rs0n/CVE-2025-5548](https://github.com/sudoand3rs0n/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/sudoand3rs0n/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/sudoand3rs0n/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
