@@ -11229,7 +11229,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 ---
 ## CVE-2024-0258 ()
 > 
-- [aliyabuz25/CVE-2024-0258-Research](https://github.com/aliyabuz25/CVE-2024-0258-Research)	<img alt="forks" src="https://img.shields.io/github/forks/aliyabuz25/CVE-2024-0258-Research">	<img alt="stars" src="https://img.shields.io/github/stars/aliyabuz25/CVE-2024-0258-Research">
+- [aliyabuz25/CVE-2024-0258](https://github.com/aliyabuz25/CVE-2024-0258)	<img alt="forks" src="https://img.shields.io/github/forks/aliyabuz25/CVE-2024-0258">	<img alt="stars" src="https://img.shields.io/github/stars/aliyabuz25/CVE-2024-0258">
 
 ---
 ## CVE-2024-0252 (2024-01-11T08:15:00)
