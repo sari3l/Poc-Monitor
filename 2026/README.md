@@ -964,6 +964,8 @@
 ## CVE-2026-49049 ()
 > 
 - [shinthink/CVE-2026-49049](https://github.com/shinthink/CVE-2026-49049)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-49049">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-49049">
+- [Dr-D25/CVE-2026-49049](https://github.com/Dr-D25/CVE-2026-49049)	<img alt="forks" src="https://img.shields.io/github/forks/Dr-D25/CVE-2026-49049">	<img alt="stars" src="https://img.shields.io/github/stars/Dr-D25/CVE-2026-49049">
+- [frada321/asdsadsadasdasdsadsad](https://github.com/frada321/asdsadsadasdasdsadsad)	<img alt="forks" src="https://img.shields.io/github/forks/frada321/asdsadsadasdasdsadsad">	<img alt="stars" src="https://img.shields.io/github/stars/frada321/asdsadsadasdasdsadsad">
 
 ---
 ## CVE-2026-49048 ()
@@ -2134,6 +2136,16 @@
 ## CVE-2026-40864 ()
 > 
 - [romain-deperne/CVE-2026-40864](https://github.com/romain-deperne/CVE-2026-40864)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-40864">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-40864">
+
+---
+## CVE-2026-40860 ()
+> 
+- [oscerd/CVE-2026-40860](https://github.com/oscerd/CVE-2026-40860)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40860">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40860">
+
+---
+## CVE-2026-40859 ()
+> 
+- [oscerd/CVE-2026-40859](https://github.com/oscerd/CVE-2026-40859)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40859">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40859">
 
 ---
 ## CVE-2026-40791 ()

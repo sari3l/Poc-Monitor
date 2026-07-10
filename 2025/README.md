@@ -4324,6 +4324,7 @@
 - [diamorphine666/React2shell-CVE-2025-55182-Exploit](https://github.com/diamorphine666/React2shell-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/React2shell-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/React2shell-CVE-2025-55182-Exploit">
 - [RootEvil333/CVE-2025-55182](https://github.com/RootEvil333/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2025-55182">
 - [xp101t/react2shell](https://github.com/xp101t/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/xp101t/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/xp101t/react2shell">
+- [amnsecurity/reactorwatch-pentest](https://github.com/amnsecurity/reactorwatch-pentest)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/reactorwatch-pentest">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/reactorwatch-pentest">
 
 ---
 ## CVE-2025-55130 ()
@@ -9868,6 +9869,11 @@
 > 
 - [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)	<img alt="forks" src="https://img.shields.io/github/forks/Burak1320demiroz/cve-2025-2082">	<img alt="stars" src="https://img.shields.io/github/stars/Burak1320demiroz/cve-2025-2082">
 - [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
+
+---
+## CVE-2025-20720 ()
+> 
+- [shinthink/CVE-2025-20720](https://github.com/shinthink/CVE-2025-20720)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2025-20720">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2025-20720">
 
 ---
 ## CVE-2025-20393 ()
