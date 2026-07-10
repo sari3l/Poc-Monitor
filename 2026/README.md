@@ -800,6 +800,16 @@
 - [A17-ba/CVE-2026-51119](https://github.com/A17-ba/CVE-2026-51119)	<img alt="forks" src="https://img.shields.io/github/forks/A17-ba/CVE-2026-51119">	<img alt="stars" src="https://img.shields.io/github/stars/A17-ba/CVE-2026-51119">
 
 ---
+## CVE-2026-50980 ()
+> 
+- [bugresearch/CVE-2026-50980](https://github.com/bugresearch/CVE-2026-50980)	<img alt="forks" src="https://img.shields.io/github/forks/bugresearch/CVE-2026-50980">	<img alt="stars" src="https://img.shields.io/github/stars/bugresearch/CVE-2026-50980">
+
+---
+## CVE-2026-50979 ()
+> 
+- [bugresearch/CVE-2026-50979](https://github.com/bugresearch/CVE-2026-50979)	<img alt="forks" src="https://img.shields.io/github/forks/bugresearch/CVE-2026-50979">	<img alt="stars" src="https://img.shields.io/github/stars/bugresearch/CVE-2026-50979">
+
+---
 ## CVE-2026-50751 ()
 > 
 - [WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts](https://github.com/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">
@@ -1822,6 +1832,7 @@
 > 
 - [learner202649/CVE-2026-42271-PoC](https://github.com/learner202649/CVE-2026-42271-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-42271-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-42271-PoC">
 - [amnsecurity/CVE-2026-42271-LiteLLM-RCE](https://github.com/amnsecurity/CVE-2026-42271-LiteLLM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-42271-LiteLLM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-42271-LiteLLM-RCE">
+- [HORKimhab/CVE-2026-42271](https://github.com/HORKimhab/CVE-2026-42271)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-42271">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-42271">
 
 ---
 ## CVE-2026-42221 ()
@@ -4163,6 +4174,11 @@
 ## CVE-2026-29597 ()
 > 
 - [padayali-JD/CVE-2026-29597](https://github.com/padayali-JD/CVE-2026-29597)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2026-29597">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2026-29597">
+
+---
+## CVE-2026-29519 ()
+> 
+- [L4V4D0/CVE-2026-29519-Lucee-Reflected-XSS](https://github.com/L4V4D0/CVE-2026-29519-Lucee-Reflected-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/L4V4D0/CVE-2026-29519-Lucee-Reflected-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/L4V4D0/CVE-2026-29519-Lucee-Reflected-XSS">
 
 ---
 ## CVE-2026-29198 ()
