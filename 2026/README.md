@@ -4291,6 +4291,7 @@
 - [ledksv/Principal-HackTheBox](https://github.com/ledksv/Principal-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/Principal-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/Principal-HackTheBox">
 - [lucastran05/CVE-2026-29000](https://github.com/lucastran05/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/lucastran05/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/lucastran05/CVE-2026-29000">
 - [c0gnit00/CVE-2026-29000](https://github.com/c0gnit00/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-29000">
+- [dua2z3rr/CVE-2026-29000-PoC](https://github.com/dua2z3rr/CVE-2026-29000-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dua2z3rr/CVE-2026-29000-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dua2z3rr/CVE-2026-29000-PoC">
 
 ---
 ## CVE-2026-28995 ()
@@ -6398,6 +6399,11 @@
 - [comthompson30/CVE-2026-1490](https://github.com/comthompson30/CVE-2026-1490)	<img alt="forks" src="https://img.shields.io/github/forks/comthompson30/CVE-2026-1490">	<img alt="stars" src="https://img.shields.io/github/stars/comthompson30/CVE-2026-1490">
 
 ---
+## CVE-2026-14894 ()
+> 
+- [1beelze/CVE-2026-14894](https://github.com/1beelze/CVE-2026-14894)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-14894">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-14894">
+
+---
 ## CVE-2026-14762 ()
 > 
 - [tc4dy/CVE-2026-14762-PoC-Exploit](https://github.com/tc4dy/CVE-2026-14762-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-14762-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-14762-PoC-Exploit">
@@ -6775,6 +6781,7 @@
 - [zycoder0day/CVE-2026-0740](https://github.com/zycoder0day/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-0740">
 - [a24ac1/CVE-2026-0740](https://github.com/a24ac1/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2026-0740">
 - [BastianXploited/CVE-2026-0740-mass](https://github.com/BastianXploited/CVE-2026-0740-mass)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-0740-mass">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-0740-mass">
+- [ExDev994/CVE-2026-0740-mass](https://github.com/ExDev994/CVE-2026-0740-mass)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-0740-mass">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-0740-mass">
 
 ---
 ## CVE-2026-0730 ()
