@@ -544,6 +544,8 @@
 - [SaanviShah30/IoT-Firmware-Reverse-Engineering](https://github.com/SaanviShah30/IoT-Firmware-Reverse-Engineering)	<img alt="forks" src="https://img.shields.io/github/forks/SaanviShah30/IoT-Firmware-Reverse-Engineering">	<img alt="stars" src="https://img.shields.io/github/stars/SaanviShah30/IoT-Firmware-Reverse-Engineering">
 - [maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow)	<img alt="forks" src="https://img.shields.io/github/forks/maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow">	<img alt="stars" src="https://img.shields.io/github/stars/maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow">
 - [hermesash1ray/cow](https://github.com/hermesash1ray/cow)	<img alt="forks" src="https://img.shields.io/github/forks/hermesash1ray/cow">	<img alt="stars" src="https://img.shields.io/github/stars/hermesash1ray/cow">
+- [endgtryna/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195](https://github.com/endgtryna/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/endgtryna/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/endgtryna/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195">
+- [rauljvc8/Exploit-Dirty-Cow](https://github.com/rauljvc8/Exploit-Dirty-Cow)	<img alt="forks" src="https://img.shields.io/github/forks/rauljvc8/Exploit-Dirty-Cow">	<img alt="stars" src="https://img.shields.io/github/stars/rauljvc8/Exploit-Dirty-Cow">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)

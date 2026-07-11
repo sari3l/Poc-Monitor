@@ -1307,6 +1307,8 @@
 ## CVE-2026-46242 ()
 > 
 - [0xBlackash/CVE-2026-46242](https://github.com/0xBlackash/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46242">
+- [Baba01hacker666/CVE-2026-46242](https://github.com/Baba01hacker666/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-46242">
+- [SaithFranklinB/ScannerBadEpoll](https://github.com/SaithFranklinB/ScannerBadEpoll)	<img alt="forks" src="https://img.shields.io/github/forks/SaithFranklinB/ScannerBadEpoll">	<img alt="stars" src="https://img.shields.io/github/stars/SaithFranklinB/ScannerBadEpoll">
 
 ---
 ## CVE-2026-46215 ()
@@ -2142,6 +2144,11 @@
 ## CVE-2026-4092 ()
 > 
 - [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092)	<img alt="forks" src="https://img.shields.io/github/forks/g0w6y/CVE-2026-4092">	<img alt="stars" src="https://img.shields.io/github/stars/g0w6y/CVE-2026-4092">
+
+---
+## CVE-2026-40887 ()
+> 
+- [thecodeb0ss/CVE-2026-40887](https://github.com/thecodeb0ss/CVE-2026-40887)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-40887">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-40887">
 
 ---
 ## CVE-2026-40864 ()
