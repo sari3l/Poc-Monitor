@@ -2516,7 +2516,7 @@
 - [diamorphine666/CVE-2026-38526-Exploit](https://github.com/diamorphine666/CVE-2026-38526-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-38526-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-38526-Exploit">
 - [mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">
 - [b0nyo/CVE-2026-38526](https://github.com/b0nyo/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/b0nyo/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/b0nyo/CVE-2026-38526">
-- [Resolvdd/CVE-2026-38526-PoC-htb-nexus-](https://github.com/Resolvdd/CVE-2026-38526-PoC-htb-nexus-)	<img alt="forks" src="https://img.shields.io/github/forks/Resolvdd/CVE-2026-38526-PoC-htb-nexus-">	<img alt="stars" src="https://img.shields.io/github/stars/Resolvdd/CVE-2026-38526-PoC-htb-nexus-">
+- [Resolvdd/CVE-2026-38526-PoC-htb-nexus](https://github.com/Resolvdd/CVE-2026-38526-PoC-htb-nexus)	<img alt="forks" src="https://img.shields.io/github/forks/Resolvdd/CVE-2026-38526-PoC-htb-nexus">	<img alt="stars" src="https://img.shields.io/github/stars/Resolvdd/CVE-2026-38526-PoC-htb-nexus">
 
 ---
 ## CVE-2026-3847 ()
@@ -5522,6 +5522,7 @@
 - [diamorphine666/CVE-2026-23744-exploit](https://github.com/diamorphine666/CVE-2026-23744-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-23744-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-23744-exploit">
 - [0x77FSec/CVE-2026-23744](https://github.com/0x77FSec/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/0x77FSec/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/0x77FSec/CVE-2026-23744">
 - [timgad794/DevHub-HTB-Walkthrough](https://github.com/timgad794/DevHub-HTB-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/timgad794/DevHub-HTB-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/timgad794/DevHub-HTB-Walkthrough">
+- [ozcanpng/CVE-2026-23744](https://github.com/ozcanpng/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
