@@ -2516,6 +2516,7 @@
 - [diamorphine666/CVE-2026-38526-Exploit](https://github.com/diamorphine666/CVE-2026-38526-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-38526-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-38526-Exploit">
 - [mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">
 - [b0nyo/CVE-2026-38526](https://github.com/b0nyo/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/b0nyo/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/b0nyo/CVE-2026-38526">
+- [Resolvdd/CVE-2026-38526-PoC-htb-nexus-](https://github.com/Resolvdd/CVE-2026-38526-PoC-htb-nexus-)	<img alt="forks" src="https://img.shields.io/github/forks/Resolvdd/CVE-2026-38526-PoC-htb-nexus-">	<img alt="stars" src="https://img.shields.io/github/stars/Resolvdd/CVE-2026-38526-PoC-htb-nexus-">
 
 ---
 ## CVE-2026-3847 ()
