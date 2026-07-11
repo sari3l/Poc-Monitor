@@ -469,6 +469,11 @@
 - [BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl](https://github.com/BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl">
 
 ---
+## CVE-2026-56291 ()
+> 
+- [shinthink/CVE-2026-56291](https://github.com/shinthink/CVE-2026-56291)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-56291">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-56291">
+
+---
 ## CVE-2026-56290 ()
 > 
 - [sagsooz/PageBuilderCK-CVE-2026-56290-Exploit](https://github.com/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit">
@@ -6366,6 +6371,11 @@
 > 
 - [ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation](https://github.com/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">
 - [0x240x23elu/CVE-2026-1529](https://github.com/0x240x23elu/CVE-2026-1529)	<img alt="forks" src="https://img.shields.io/github/forks/0x240x23elu/CVE-2026-1529">	<img alt="stars" src="https://img.shields.io/github/stars/0x240x23elu/CVE-2026-1529">
+
+---
+## CVE-2026-15282 ()
+> 
+- [shinthink/CVE-2026-15282](https://github.com/shinthink/CVE-2026-15282)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-15282">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-15282">
 
 ---
 ## CVE-2026-1522 ()
