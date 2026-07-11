@@ -7917,6 +7917,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [Ne0zer01/CVE-2024-27198_LAB](https://github.com/Ne0zer01/CVE-2024-27198_LAB)	<img alt="forks" src="https://img.shields.io/github/forks/Ne0zer01/CVE-2024-27198_LAB">	<img alt="stars" src="https://img.shields.io/github/stars/Ne0zer01/CVE-2024-27198_LAB">
 - [ptd200110/CVE-2024-27198-SOC-Lab](https://github.com/ptd200110/CVE-2024-27198-SOC-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/ptd200110/CVE-2024-27198-SOC-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/ptd200110/CVE-2024-27198-SOC-Lab">
 - [BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-](https://github.com/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-)	<img alt="forks" src="https://img.shields.io/github/forks/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">	<img alt="stars" src="https://img.shields.io/github/stars/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">
+- [swimmmmy/CVE-2024-27198-teamcity-auth-bypass](https://github.com/swimmmmy/CVE-2024-27198-teamcity-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
@@ -10243,6 +10244,11 @@ authentication.   
 ## CVE-2024-14027 ()
 > 
 - [lcfr-eth/CVE-2024-14027_slop](https://github.com/lcfr-eth/CVE-2024-14027_slop)	<img alt="forks" src="https://img.shields.io/github/forks/lcfr-eth/CVE-2024-14027_slop">	<img alt="stars" src="https://img.shields.io/github/stars/lcfr-eth/CVE-2024-14027_slop">
+
+---
+## CVE-2024-13985 ()
+> 
+- [CrimsonfiedOfficial/CVE-2024-13985](https://github.com/CrimsonfiedOfficial/CVE-2024-13985)	<img alt="forks" src="https://img.shields.io/github/forks/CrimsonfiedOfficial/CVE-2024-13985">	<img alt="stars" src="https://img.shields.io/github/stars/CrimsonfiedOfficial/CVE-2024-13985">
 
 ---
 ## CVE-2024-13869 ()
