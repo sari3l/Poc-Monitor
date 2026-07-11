@@ -3638,6 +3638,11 @@
 - [GoldenTicketLabs/CVE-2025-55349](https://github.com/GoldenTicketLabs/CVE-2025-55349)	<img alt="forks" src="https://img.shields.io/github/forks/GoldenTicketLabs/CVE-2025-55349">	<img alt="stars" src="https://img.shields.io/github/stars/GoldenTicketLabs/CVE-2025-55349">
 
 ---
+## CVE-2025-55319 ()
+> 
+- [nephila016/CVE-2025-55319-PoC](https://github.com/nephila016/CVE-2025-55319-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nephila016/CVE-2025-55319-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nephila016/CVE-2025-55319-PoC">
+
+---
 ## CVE-2025-55315 ()
 > 
 - [HelixProxy/CVE-2025-55315](https://github.com/HelixProxy/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/HelixProxy/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/HelixProxy/CVE-2025-55315">
