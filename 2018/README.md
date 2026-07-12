@@ -2145,6 +2145,11 @@
 - [andikahilmy/CVE-2018-1000822-fess-vulnerable](https://github.com/andikahilmy/CVE-2018-1000822-fess-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000822-fess-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000822-fess-vulnerable">
 
 ---
+## CVE-2018-1000533 ()
+> 
+- [dddo0/CVE-2018-1000533](https://github.com/dddo0/CVE-2018-1000533)	<img alt="forks" src="https://img.shields.io/github/forks/dddo0/CVE-2018-1000533">	<img alt="stars" src="https://img.shields.io/github/stars/dddo0/CVE-2018-1000533">
+
+---
 ## CVE-2018-1000531 ()
 > 
 - [andikahilmy/CVE-2018-1000531-prime-jwt-vulnerable](https://github.com/andikahilmy/CVE-2018-1000531-prime-jwt-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000531-prime-jwt-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000531-prime-jwt-vulnerable">
