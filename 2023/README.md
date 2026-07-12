@@ -1163,6 +1163,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [Aryan20057/CVE-2023-4911](https://github.com/Aryan20057/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Aryan20057/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Aryan20057/CVE-2023-4911">
 - [0xMOGA/CVE-2023-4911-Lab](https://github.com/0xMOGA/CVE-2023-4911-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/0xMOGA/CVE-2023-4911-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/0xMOGA/CVE-2023-4911-Lab">
 - [jarpex/cve-2023-4911-exploit-optimized](https://github.com/jarpex/cve-2023-4911-exploit-optimized)	<img alt="forks" src="https://img.shields.io/github/forks/jarpex/cve-2023-4911-exploit-optimized">	<img alt="stars" src="https://img.shields.io/github/stars/jarpex/cve-2023-4911-exploit-optimized">
+- [baeseungwon1010/CVE-2023-4911](https://github.com/baeseungwon1010/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/baeseungwon1010/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/baeseungwon1010/CVE-2023-4911">
 
 ---
 ## CVE-2023-49109 ()
@@ -3670,8 +3671,9 @@ URL that curl has been told to operate with.
 ## CVE-2023-38146 (2023-09-12T17:15:00)
 > Windows Themes Remote Code Execution Vulnerability
 - [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146)	<img alt="forks" src="https://img.shields.io/github/forks/Jnnshschl/CVE-2023-38146">	<img alt="stars" src="https://img.shields.io/github/stars/Jnnshschl/CVE-2023-38146">
-- [gabe-k/themebleed](https://github.com/gabe-k/themebleed)	<img alt="forks" src="https://img.shields.io/github/forks/gabe-k/themebleed">	<img alt="stars" src="https://img.shields.io/github/stars/gabe-k/themebleed">
+- [exploits-forsale/themebleed](https://github.com/exploits-forsale/themebleed)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/themebleed">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/themebleed">
 - [Durge5/ThemeBleedPy](https://github.com/Durge5/ThemeBleedPy)	<img alt="forks" src="https://img.shields.io/github/forks/Durge5/ThemeBleedPy">	<img alt="stars" src="https://img.shields.io/github/stars/Durge5/ThemeBleedPy">
+- [CH0ico/CVE-2023-38146-Poc](https://github.com/CH0ico/CVE-2023-38146-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/CH0ico/CVE-2023-38146-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/CH0ico/CVE-2023-38146-Poc">
 
 ---
 ## CVE-2023-38120 (2024-05-03T02:15:00)
