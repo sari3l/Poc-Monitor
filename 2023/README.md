@@ -6116,6 +6116,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [timb-machine-mirrors/seongil-wi-CVE-2023-29017](https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/seongil-wi-CVE-2023-29017">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/seongil-wi-CVE-2023-29017">
 - [Kaneki-hash/CVE-2023-29017-reverse-shell](https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/Kaneki-hash/CVE-2023-29017-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/Kaneki-hash/CVE-2023-29017-reverse-shell">
 - [gunwoo105/Node_CVE-2023-29017](https://github.com/gunwoo105/Node_CVE-2023-29017)	<img alt="forks" src="https://img.shields.io/github/forks/gunwoo105/Node_CVE-2023-29017">	<img alt="stars" src="https://img.shields.io/github/stars/gunwoo105/Node_CVE-2023-29017">
+- [passwa11/CVE-2023-29017-reverse-shell](https://github.com/passwa11/CVE-2023-29017-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2023-29017-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2023-29017-reverse-shell">
 
 ---
 ## CVE-2023-29007 (2023-04-25T21:15:00)
