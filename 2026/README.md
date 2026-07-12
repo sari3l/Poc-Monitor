@@ -6075,6 +6075,11 @@
 - [MaxMnMl/tpadmin-CVE-2026-2113-poc](https://github.com/MaxMnMl/tpadmin-CVE-2026-2113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/tpadmin-CVE-2026-2113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/tpadmin-CVE-2026-2113-poc">
 
 ---
+## CVE-2026-21055 ()
+> 
+- [Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export](https://github.com/Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export">
+
+---
 ## CVE-2026-21018 ()
 > 
 - [Filipemendonca1978/CVE-2026-21018](https://github.com/Filipemendonca1978/CVE-2026-21018)	<img alt="forks" src="https://img.shields.io/github/forks/Filipemendonca1978/CVE-2026-21018">	<img alt="stars" src="https://img.shields.io/github/stars/Filipemendonca1978/CVE-2026-21018">
