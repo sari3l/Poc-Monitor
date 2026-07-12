@@ -3748,6 +3748,7 @@ use after free.
 - [r4vl1t0/CVE-2019-0232](https://github.com/r4vl1t0/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/r4vl1t0/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/r4vl1t0/CVE-2019-0232">
 - [blackjuker2/CVE-2019-0232](https://github.com/blackjuker2/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/blackjuker2/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/blackjuker2/CVE-2019-0232">
 - [luongchivi/Preproduce-CVE-2019-0232](https://github.com/luongchivi/Preproduce-CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/luongchivi/Preproduce-CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/luongchivi/Preproduce-CVE-2019-0232">
+- [yuzuki-ayanami/CVE-2019-0232](https://github.com/yuzuki-ayanami/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2019-0232">
 
 ---
 ## CVE-2019-0230 (2020-09-14T17:15:00)
