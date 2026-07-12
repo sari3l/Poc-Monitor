@@ -1300,6 +1300,7 @@
 ## CVE-2026-4631 ()
 > 
 - [cyberheartmi9/CVE-2026-4631-cockpit-RCE](https://github.com/cyberheartmi9/CVE-2026-4631-cockpit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyberheartmi9/CVE-2026-4631-cockpit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyberheartmi9/CVE-2026-4631-cockpit-RCE">
+- [ExDev994/CVE-2026-4631-cockpit-RCE](https://github.com/ExDev994/CVE-2026-4631-cockpit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-4631-cockpit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-4631-cockpit-RCE">
 
 ---
 ## CVE-2026-46300 ()
@@ -1568,6 +1569,11 @@
 ## CVE-2026-43893 ()
 > 
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
+
+---
+## CVE-2026-43865 ()
+> 
+- [oscerd/CVE-2026-43865](https://github.com/oscerd/CVE-2026-43865)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-43865">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-43865">
 
 ---
 ## CVE-2026-43735 ()
