@@ -6274,6 +6274,7 @@
 - [sfewer-r7/CVE-2026-20127](https://github.com/sfewer-r7/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-20127">
 - [randeepajayasekara/CVE-2026-20127](https://github.com/randeepajayasekara/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/randeepajayasekara/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/randeepajayasekara/CVE-2026-20127">
 - [0xBlackash/CVE-2026-20127](https://github.com/0xBlackash/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20127">
+- [anuththara2007-W/CVE-2026-20127-Exploit-Extension](https://github.com/anuththara2007-W/CVE-2026-20127-Exploit-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/anuththara2007-W/CVE-2026-20127-Exploit-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/anuththara2007-W/CVE-2026-20127-Exploit-Extension">
 
 ---
 ## CVE-2026-20079 ()
