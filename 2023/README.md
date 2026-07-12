@@ -6115,6 +6115,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 > vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. Prior to version 3.9.15, vm2 was not properly handling host objects passed to `Error.prepareStackTrace` in case of unhandled async errors. A threat actor could bypass the sandbox protections to gain remote code execution rights on the host running the sandbox. This vulnerability was patched in the release of version 3.9.15 of vm2. There are no known workarounds.
 - [timb-machine-mirrors/seongil-wi-CVE-2023-29017](https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/seongil-wi-CVE-2023-29017">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/seongil-wi-CVE-2023-29017">
 - [Kaneki-hash/CVE-2023-29017-reverse-shell](https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/Kaneki-hash/CVE-2023-29017-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/Kaneki-hash/CVE-2023-29017-reverse-shell">
+- [gunwoo105/Node_CVE-2023-29017](https://github.com/gunwoo105/Node_CVE-2023-29017)	<img alt="forks" src="https://img.shields.io/github/forks/gunwoo105/Node_CVE-2023-29017">	<img alt="stars" src="https://img.shields.io/github/stars/gunwoo105/Node_CVE-2023-29017">
 
 ---
 ## CVE-2023-29007 (2023-04-25T21:15:00)
