@@ -492,6 +492,7 @@
 ## CVE-2026-56291 ()
 > 
 - [shinthink/CVE-2026-56291](https://github.com/shinthink/CVE-2026-56291)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-56291">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-56291">
+- [rimbadirgantara/CVE-2026-56291.yaml](https://github.com/rimbadirgantara/CVE-2026-56291.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2026-56291.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2026-56291.yaml">
 
 ---
 ## CVE-2026-56290 ()
@@ -1682,6 +1683,7 @@
 - [joehquak/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">
 - [Yakayna/SpringPeace](https://github.com/Yakayna/SpringPeace)	<img alt="forks" src="https://img.shields.io/github/forks/Yakayna/SpringPeace">	<img alt="stars" src="https://img.shields.io/github/stars/Yakayna/SpringPeace">
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/Thiasap/oppo-pgem10-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/Thiasap/oppo-pgem10-ghostlock">
+- [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CakesTwix/Android-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CakesTwix/Android-CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
@@ -2324,6 +2326,7 @@
 ## CVE-2026-40047 ()
 > 
 - [oscerd/CVE-2026-40047](https://github.com/oscerd/CVE-2026-40047)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40047">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40047">
+- [amnsecurity/CVE-2026-40047-Apache-Camel-Docling-Injection](https://github.com/amnsecurity/CVE-2026-40047-Apache-Camel-Docling-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-40047-Apache-Camel-Docling-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-40047-Apache-Camel-Docling-Injection">
 
 ---
 ## CVE-2026-40022 ()
@@ -2811,6 +2814,7 @@
 ## CVE-2026-36214 ()
 > 
 - [WesWrench/CVE-2026-36214](https://github.com/WesWrench/CVE-2026-36214)	<img alt="forks" src="https://img.shields.io/github/forks/WesWrench/CVE-2026-36214">	<img alt="stars" src="https://img.shields.io/github/stars/WesWrench/CVE-2026-36214">
+- [amnsecurity/CVE-2026-36214-osTicket-XSS](https://github.com/amnsecurity/CVE-2026-36214-osTicket-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-36214-osTicket-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-36214-osTicket-XSS">
 
 ---
 ## CVE-2026-36213 ()
@@ -2907,6 +2911,7 @@
 > 
 - [h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2026-35204">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2026-35204">
 - [h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2026-35204">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2026-35204">
+- [amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal](https://github.com/amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-35204-Helm-Plugin-Traversal">
 
 ---
 ## CVE-2026-3516 ()
