@@ -4266,6 +4266,11 @@ Affected users are recommended to disable the SAML authentication plugin by sett
 - [ForceEA001/CVE-2024-40898-SSL-Bypass-Detection](https://github.com/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection">
 
 ---
+## CVE-2024-40842 ()
+> 
+- [dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS](https://github.com/dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS)	<img alt="forks" src="https://img.shields.io/github/forks/dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS">	<img alt="stars" src="https://img.shields.io/github/stars/dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS">
+
+---
 ## CVE-2024-40815 ()
 > 
 - [w0wbox/CVE-2024-40815](https://github.com/w0wbox/CVE-2024-40815)	<img alt="forks" src="https://img.shields.io/github/forks/w0wbox/CVE-2024-40815">	<img alt="stars" src="https://img.shields.io/github/stars/w0wbox/CVE-2024-40815">
