@@ -824,6 +824,7 @@
 - [zycoder0day/CVE-2026-5118](https://github.com/zycoder0day/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5118">
 - [Jenderal92/CVE-2026-5118](https://github.com/Jenderal92/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-5118">
 - [Yucaerin/CVE-2026-5118](https://github.com/Yucaerin/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-5118">
+- [1beelze/CVE-2026-5118](https://github.com/1beelze/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-5118">
 
 ---
 ## CVE-2026-51119 ()
@@ -1658,6 +1659,7 @@
 - [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)	<img alt="forks" src="https://img.shields.io/github/forks/x-spy/CVE-2026-43499-popsicle">	<img alt="stars" src="https://img.shields.io/github/stars/x-spy/CVE-2026-43499-popsicle">
 - [dmcdtc/openvz-cve-patch-2026](https://github.com/dmcdtc/openvz-cve-patch-2026)	<img alt="forks" src="https://img.shields.io/github/forks/dmcdtc/openvz-cve-patch-2026">	<img alt="stars" src="https://img.shields.io/github/stars/dmcdtc/openvz-cve-patch-2026">
 - [Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499">
+- [joehquak/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
