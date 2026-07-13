@@ -493,7 +493,7 @@
 > 
 - [shinthink/CVE-2026-56291](https://github.com/shinthink/CVE-2026-56291)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-56291">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-56291">
 - [rimbadirgantara/CVE-2026-56291.yaml](https://github.com/rimbadirgantara/CVE-2026-56291.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2026-56291.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2026-56291.yaml">
-- [0xdenis77/CVE-2026-56291.yaml](https://github.com/0xdenis77/CVE-2026-56291.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/0xdenis77/CVE-2026-56291.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/0xdenis77/CVE-2026-56291.yaml">
+- [0xdenis77/CVE-2026-56291](https://github.com/0xdenis77/CVE-2026-56291)	<img alt="forks" src="https://img.shields.io/github/forks/0xdenis77/CVE-2026-56291">	<img alt="stars" src="https://img.shields.io/github/stars/0xdenis77/CVE-2026-56291">
 
 ---
 ## CVE-2026-56290 ()
@@ -2588,6 +2588,7 @@
 - [b0nyo/CVE-2026-38526](https://github.com/b0nyo/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/b0nyo/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/b0nyo/CVE-2026-38526">
 - [Resolvdd/CVE-2026-38526-PoC-htb-nexus](https://github.com/Resolvdd/CVE-2026-38526-PoC-htb-nexus)	<img alt="forks" src="https://img.shields.io/github/forks/Resolvdd/CVE-2026-38526-PoC-htb-nexus">	<img alt="stars" src="https://img.shields.io/github/stars/Resolvdd/CVE-2026-38526-PoC-htb-nexus">
 - [Qurclinc/CVE-2026-38526](https://github.com/Qurclinc/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/Qurclinc/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/Qurclinc/CVE-2026-38526">
+- [CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526](https://github.com/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526">
 
 ---
 ## CVE-2026-3847 ()
