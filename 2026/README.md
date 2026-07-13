@@ -440,6 +440,16 @@
 - [sn0x-sharma/CVE-2026-57850](https://github.com/sn0x-sharma/CVE-2026-57850)	<img alt="forks" src="https://img.shields.io/github/forks/sn0x-sharma/CVE-2026-57850">	<img alt="stars" src="https://img.shields.io/github/stars/sn0x-sharma/CVE-2026-57850">
 
 ---
+## CVE-2026-57830 ()
+> 
+- [Is4yev/CVE-2026-57830](https://github.com/Is4yev/CVE-2026-57830)	<img alt="forks" src="https://img.shields.io/github/forks/Is4yev/CVE-2026-57830">	<img alt="stars" src="https://img.shields.io/github/stars/Is4yev/CVE-2026-57830">
+
+---
+## CVE-2026-57829 ()
+> 
+- [Is4yev/CVE-2026-57829](https://github.com/Is4yev/CVE-2026-57829)	<img alt="forks" src="https://img.shields.io/github/forks/Is4yev/CVE-2026-57829">	<img alt="stars" src="https://img.shields.io/github/stars/Is4yev/CVE-2026-57829">
+
+---
 ## CVE-2026-57517 ()
 > 
 - [shinthink/CVE-2026-57517](https://github.com/shinthink/CVE-2026-57517)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57517">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57517">
@@ -1571,6 +1581,11 @@
 ## CVE-2026-43893 ()
 > 
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
+
+---
+## CVE-2026-43867 ()
+> 
+- [oscerd/CVE-2026-43867](https://github.com/oscerd/CVE-2026-43867)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-43867">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-43867">
 
 ---
 ## CVE-2026-43866 ()
@@ -3096,6 +3111,11 @@
 ## CVE-2026-34070 ()
 > 
 - [Rickidevs/CVE-2026-34070](https://github.com/Rickidevs/CVE-2026-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-34070">
+
+---
+## CVE-2026-34048 ()
+> 
+- [0xmrma/CVE-2026-34048](https://github.com/0xmrma/CVE-2026-34048)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-34048">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-34048">
 
 ---
 ## CVE-2026-34040 ()
