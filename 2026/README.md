@@ -1265,6 +1265,11 @@
 - [BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection](https://github.com/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">
 
 ---
+## CVE-2026-46453 ()
+> 
+- [oscerd/CVE-2026-46453](https://github.com/oscerd/CVE-2026-46453)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46453">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46453">
+
+---
 ## CVE-2026-46395 ()
 > 
 - [shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak](https://github.com/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">
@@ -1675,6 +1680,8 @@
 - [dmcdtc/openvz-cve-patch-2026](https://github.com/dmcdtc/openvz-cve-patch-2026)	<img alt="forks" src="https://img.shields.io/github/forks/dmcdtc/openvz-cve-patch-2026">	<img alt="stars" src="https://img.shields.io/github/stars/dmcdtc/openvz-cve-patch-2026">
 - [Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499">
 - [joehquak/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">
+- [Yakayna/SpringPeace](https://github.com/Yakayna/SpringPeace)	<img alt="forks" src="https://img.shields.io/github/forks/Yakayna/SpringPeace">	<img alt="stars" src="https://img.shields.io/github/stars/Yakayna/SpringPeace">
+- [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/Thiasap/oppo-pgem10-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/Thiasap/oppo-pgem10-ghostlock">
 
 ---
 ## CVE-2026-43494 ()
@@ -2565,6 +2572,7 @@
 - [mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">
 - [b0nyo/CVE-2026-38526](https://github.com/b0nyo/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/b0nyo/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/b0nyo/CVE-2026-38526">
 - [Resolvdd/CVE-2026-38526-PoC-htb-nexus](https://github.com/Resolvdd/CVE-2026-38526-PoC-htb-nexus)	<img alt="forks" src="https://img.shields.io/github/forks/Resolvdd/CVE-2026-38526-PoC-htb-nexus">	<img alt="stars" src="https://img.shields.io/github/stars/Resolvdd/CVE-2026-38526-PoC-htb-nexus">
+- [Qurclinc/CVE-2026-38526](https://github.com/Qurclinc/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/Qurclinc/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/Qurclinc/CVE-2026-38526">
 
 ---
 ## CVE-2026-3847 ()
@@ -5665,6 +5673,11 @@
 ## CVE-2026-23416 ()
 > 
 - [bluedragonsecurity/CVE-2026-23416-POC](https://github.com/bluedragonsecurity/CVE-2026-23416-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-23416-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-23416-POC">
+
+---
+## CVE-2026-23415 ()
+> 
+- [addman2/uaf-exploit-cve-2026-23415](https://github.com/addman2/uaf-exploit-cve-2026-23415)	<img alt="forks" src="https://img.shields.io/github/forks/addman2/uaf-exploit-cve-2026-23415">	<img alt="stars" src="https://img.shields.io/github/stars/addman2/uaf-exploit-cve-2026-23415">
 
 ---
 ## CVE-2026-23398 ()
