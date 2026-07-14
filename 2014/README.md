@@ -38,6 +38,16 @@
 - [andikahilmy/CVE-2014-7816-undertow-vulnerable](https://github.com/andikahilmy/CVE-2014-7816-undertow-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2014-7816-undertow-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2014-7816-undertow-vulnerable">
 
 ---
+## CVE-2014-7169 ()
+> 
+- [Kushiro45/shellshock-poc-cve-2014-7169](https://github.com/Kushiro45/shellshock-poc-cve-2014-7169)	<img alt="forks" src="https://img.shields.io/github/forks/Kushiro45/shellshock-poc-cve-2014-7169">	<img alt="stars" src="https://img.shields.io/github/stars/Kushiro45/shellshock-poc-cve-2014-7169">
+- [ajansha/shellshock](https://github.com/ajansha/shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/shellshock">
+- [Gobinath-B/SHELL-SCHOCK](https://github.com/Gobinath-B/SHELL-SCHOCK)	<img alt="forks" src="https://img.shields.io/github/forks/Gobinath-B/SHELL-SCHOCK">	<img alt="stars" src="https://img.shields.io/github/stars/Gobinath-B/SHELL-SCHOCK">
+- [chef-boneyard/bash-shellshock](https://github.com/chef-boneyard/bash-shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/chef-boneyard/bash-shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/chef-boneyard/bash-shellshock">
+- [gina-alaska/bash-cve-2014-7169-cookbook](https://github.com/gina-alaska/bash-cve-2014-7169-cookbook)	<img alt="forks" src="https://img.shields.io/github/forks/gina-alaska/bash-cve-2014-7169-cookbook">	<img alt="stars" src="https://img.shields.io/github/stars/gina-alaska/bash-cve-2014-7169-cookbook">
+- [renanvicente/puppet-shellshock](https://github.com/renanvicente/puppet-shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/renanvicente/puppet-shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/renanvicente/puppet-shellshock">
+
+---
 ## CVE-2014-6721 (2014-09-26T10:55:00)
 > The Pharmaguideline (aka com.pharmaguideline) application 1.2.0 for Android does not verify X.509 certificates from SSL servers, which allows man-in-the-middle attackers to spoof servers and obtain sensitive information via a crafted certificate.
 - [sagisar1/CVE-2014-6721-exploit-Shellshock](https://github.com/sagisar1/CVE-2014-6721-exploit-Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/sagisar1/CVE-2014-6721-exploit-Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/sagisar1/CVE-2014-6721-exploit-Shellshock">
