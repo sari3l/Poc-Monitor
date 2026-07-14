@@ -1273,6 +1273,11 @@
 - [BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection](https://github.com/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">
 
 ---
+## CVE-2026-46457 ()
+> 
+- [oscerd/CVE-2026-46457](https://github.com/oscerd/CVE-2026-46457)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46457">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46457">
+
+---
 ## CVE-2026-46456 ()
 > 
 - [oscerd/CVE-2026-46456](https://github.com/oscerd/CVE-2026-46456)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46456">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46456">
