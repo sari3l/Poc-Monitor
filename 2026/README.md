@@ -173,6 +173,7 @@
 - [Yucaerin/CVE-2026-8181](https://github.com/Yucaerin/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-8181">
 - [Squamity/CVE-2026-8181-PoC](https://github.com/Squamity/CVE-2026-8181-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Squamity/CVE-2026-8181-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Squamity/CVE-2026-8181-PoC">
 - [Ez4rd1x1/CVE-2026-8181](https://github.com/Ez4rd1x1/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/Ez4rd1x1/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/Ez4rd1x1/CVE-2026-8181">
+- [HudzaifahArrantisi/CVE-2026-8181](https://github.com/HudzaifahArrantisi/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/HudzaifahArrantisi/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/HudzaifahArrantisi/CVE-2026-8181">
 
 ---
 ## CVE-2026-8161 ()
@@ -1707,6 +1708,7 @@
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/Thiasap/oppo-pgem10-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/Thiasap/oppo-pgem10-ghostlock">
 - [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CakesTwix/Android-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CakesTwix/Android-CVE-2026-43499">
 - [Bartixxx32/CVE-2026-43499-OnePlus15](https://github.com/Bartixxx32/CVE-2026-43499-OnePlus15)	<img alt="forks" src="https://img.shields.io/github/forks/Bartixxx32/CVE-2026-43499-OnePlus15">	<img alt="stars" src="https://img.shields.io/github/stars/Bartixxx32/CVE-2026-43499-OnePlus15">
+- [Linuxoid-cn/CVE-2026-43499-Poc-Analysis](https://github.com/Linuxoid-cn/CVE-2026-43499-Poc-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Linuxoid-cn/CVE-2026-43499-Poc-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Linuxoid-cn/CVE-2026-43499-Poc-Analysis">
 
 ---
 ## CVE-2026-43494 ()
@@ -6452,6 +6454,11 @@
 ## CVE-2026-1581 ()
 > 
 - [rootdirective-sec/CVE-2026-1581-Analysis-Lab](https://github.com/rootdirective-sec/CVE-2026-1581-Analysis-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-1581-Analysis-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-1581-Analysis-Lab">
+
+---
+## CVE-2026-15706 ()
+> 
+- [musana/CVE-2026-15706](https://github.com/musana/CVE-2026-15706)	<img alt="forks" src="https://img.shields.io/github/forks/musana/CVE-2026-15706">	<img alt="stars" src="https://img.shields.io/github/stars/musana/CVE-2026-15706">
 
 ---
 ## CVE-2026-1560 ()
