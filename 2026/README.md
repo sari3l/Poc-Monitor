@@ -888,6 +888,11 @@
 - [HORKimhab/CVE-2026-50507](https://github.com/HORKimhab/CVE-2026-50507)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50507">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50507">
 
 ---
+## CVE-2026-50338 ()
+> 
+- [JohannesLks/CVE-2026-50338](https://github.com/JohannesLks/CVE-2026-50338)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-50338">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-50338">
+
+---
 ## CVE-2026-5027 ()
 > 
 - [yahiahamza/CVE-2026-5027](https://github.com/yahiahamza/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-5027">
