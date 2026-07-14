@@ -114,6 +114,7 @@
 - [Amirmuhammadmarvi/network-security-lab](https://github.com/Amirmuhammadmarvi/network-security-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Amirmuhammadmarvi/network-security-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Amirmuhammadmarvi/network-security-lab">
 - [solomonhenry-afk/vsftpd-cve-2011-2523-detection-signature](https://github.com/solomonhenry-afk/vsftpd-cve-2011-2523-detection-signature)	<img alt="forks" src="https://img.shields.io/github/forks/solomonhenry-afk/vsftpd-cve-2011-2523-detection-signature">	<img alt="stars" src="https://img.shields.io/github/stars/solomonhenry-afk/vsftpd-cve-2011-2523-detection-signature">
 - [Orevic21/wazuh-home-soc](https://github.com/Orevic21/wazuh-home-soc)	<img alt="forks" src="https://img.shields.io/github/forks/Orevic21/wazuh-home-soc">	<img alt="stars" src="https://img.shields.io/github/stars/Orevic21/wazuh-home-soc">
+- [IndiQuarks/vsftpd-cve-2011-2523-lab](https://github.com/IndiQuarks/vsftpd-cve-2011-2523-lab)	<img alt="forks" src="https://img.shields.io/github/forks/IndiQuarks/vsftpd-cve-2011-2523-lab">	<img alt="stars" src="https://img.shields.io/github/stars/IndiQuarks/vsftpd-cve-2011-2523-lab">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
