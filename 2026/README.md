@@ -1254,6 +1254,11 @@
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
 
 ---
+## CVE-2026-46584 ()
+> 
+- [oscerd/CVE-2026-46584](https://github.com/oscerd/CVE-2026-46584)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46584">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46584">
+
+---
 ## CVE-2026-46558 ()
 > 
 - [0xmrma/CVE-2026-46558](https://github.com/0xmrma/CVE-2026-46558)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-46558">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-46558">
