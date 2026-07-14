@@ -821,6 +821,11 @@
 - [jenniferreire26/CVE-2026-5194](https://github.com/jenniferreire26/CVE-2026-5194)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-5194">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-5194">
 
 ---
+## CVE-2026-51833 ()
+> 
+- [dennywise/CVE-2026-51833-Public-Disclosure](https://github.com/dennywise/CVE-2026-51833-Public-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/dennywise/CVE-2026-51833-Public-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/dennywise/CVE-2026-51833-Public-Disclosure">
+
+---
 ## CVE-2026-51788 ()
 > 
 - [aykhan32/CVE-2026-51788](https://github.com/aykhan32/CVE-2026-51788)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan32/CVE-2026-51788">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan32/CVE-2026-51788">
@@ -4764,6 +4769,16 @@
 ## CVE-2026-26744 ()
 > 
 - [lorenzobruno7/CVE-2026-26744](https://github.com/lorenzobruno7/CVE-2026-26744)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzobruno7/CVE-2026-26744">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzobruno7/CVE-2026-26744">
+
+---
+## CVE-2026-26719 ()
+> 
+- [Ibrahim-Sartawi/CVE-2026-26719](https://github.com/Ibrahim-Sartawi/CVE-2026-26719)	<img alt="forks" src="https://img.shields.io/github/forks/Ibrahim-Sartawi/CVE-2026-26719">	<img alt="stars" src="https://img.shields.io/github/stars/Ibrahim-Sartawi/CVE-2026-26719">
+
+---
+## CVE-2026-26718 ()
+> 
+- [Ibrahim-Sartawi/CVE-2026-26718](https://github.com/Ibrahim-Sartawi/CVE-2026-26718)	<img alt="forks" src="https://img.shields.io/github/forks/Ibrahim-Sartawi/CVE-2026-26718">	<img alt="stars" src="https://img.shields.io/github/stars/Ibrahim-Sartawi/CVE-2026-26718">
 
 ---
 ## CVE-2026-26717 ()
