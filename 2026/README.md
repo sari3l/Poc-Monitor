@@ -1714,6 +1714,7 @@
 - [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CakesTwix/Android-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CakesTwix/Android-CVE-2026-43499">
 - [Bartixxx32/CVE-2026-43499-OnePlus15](https://github.com/Bartixxx32/CVE-2026-43499-OnePlus15)	<img alt="forks" src="https://img.shields.io/github/forks/Bartixxx32/CVE-2026-43499-OnePlus15">	<img alt="stars" src="https://img.shields.io/github/stars/Bartixxx32/CVE-2026-43499-OnePlus15">
 - [Linuxoid-cn/CVE-2026-43499-Poc-Analysis](https://github.com/Linuxoid-cn/CVE-2026-43499-Poc-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Linuxoid-cn/CVE-2026-43499-Poc-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Linuxoid-cn/CVE-2026-43499-Poc-Analysis">
+- [qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499](https://github.com/qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
