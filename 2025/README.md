@@ -2592,6 +2592,11 @@
 - [ajansha/CVE-2025-60374](https://github.com/ajansha/CVE-2025-60374)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60374">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60374">
 
 ---
+## CVE-2025-60357 ()
+> 
+- [NyaMeeEain/CVE-2025-60357](https://github.com/NyaMeeEain/CVE-2025-60357)	<img alt="forks" src="https://img.shields.io/github/forks/NyaMeeEain/CVE-2025-60357">	<img alt="stars" src="https://img.shields.io/github/stars/NyaMeeEain/CVE-2025-60357">
+
+---
 ## CVE-2025-60349 ()
 > 
 - [djackreuter/CVE-2025-60349](https://github.com/djackreuter/CVE-2025-60349)	<img alt="forks" src="https://img.shields.io/github/forks/djackreuter/CVE-2025-60349">	<img alt="stars" src="https://img.shields.io/github/stars/djackreuter/CVE-2025-60349">
