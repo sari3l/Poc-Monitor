@@ -439,6 +439,7 @@
 ## CVE-2026-58138 ()
 > 
 - [BiiTts/CVE-2026-58138-Conductor-Unauth-RCE](https://github.com/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">
+- [seqra/cve-2026-58138](https://github.com/seqra/cve-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/seqra/cve-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/seqra/cve-2026-58138">
 
 ---
 ## CVE-2026-58116 ()
@@ -6585,6 +6586,7 @@
 ## CVE-2026-15409 ()
 > 
 - [HORKimhab/CVE-2026-15409](https://github.com/HORKimhab/CVE-2026-15409)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-15409">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-15409">
+- [remmons-r7/rapid7-CVE-2026-15409](https://github.com/remmons-r7/rapid7-CVE-2026-15409)	<img alt="forks" src="https://img.shields.io/github/forks/remmons-r7/rapid7-CVE-2026-15409">	<img alt="stars" src="https://img.shields.io/github/stars/remmons-r7/rapid7-CVE-2026-15409">
 
 ---
 ## CVE-2026-1529 ()
