@@ -21,6 +21,11 @@
 - [Live-Hack-CVE/CVE-2016-9840](https://github.com/Live-Hack-CVE/CVE-2016-9840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-9840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-9840">
 
 ---
+## CVE-2016-9793 ()
+> 
+- [WhatsWrongAndWhy/CVE-2016-9793](https://github.com/WhatsWrongAndWhy/CVE-2016-9793)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2016-9793">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2016-9793">
+
+---
 ## CVE-2016-9299 (2017-01-12T23:59:00)
 > The remoting module in Jenkins before 2.32 and LTS before 2.19.3 allows remote attackers to execute arbitrary code via a crafted serialized Java object, which triggers an LDAP query to a third-party server.
 - [r00t4dm/Jenkins-CVE-2016-9299](https://github.com/r00t4dm/Jenkins-CVE-2016-9299)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/Jenkins-CVE-2016-9299">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/Jenkins-CVE-2016-9299">
@@ -213,6 +218,11 @@
 ## CVE-2016-8707 (2016-12-23T22:59:00)
 > An exploitable out of bounds write exists in the handling of compressed TIFF images in ImageMagicks's convert utility. A crafted TIFF document can lead to an out of bounds write which in particular circumstances could be leveraged into remote code execution. The vulnerability can be triggered through any user controlled TIFF that is handled by this functionality.
 - [Live-Hack-CVE/CVE-2016-8707](https://github.com/Live-Hack-CVE/CVE-2016-8707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8707">
+
+---
+## CVE-2016-8655 ()
+> 
+- [WhatsWrongAndWhy/CVE-2016-8655](https://github.com/WhatsWrongAndWhy/CVE-2016-8655)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2016-8655">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2016-8655">
 
 ---
 ## CVE-2016-8390 (2018-06-04T19:29:00)

@@ -61,6 +61,11 @@
 - [Caihuar/Joomla-cve-2015-8562](https://github.com/Caihuar/Joomla-cve-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/Caihuar/Joomla-cve-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/Caihuar/Joomla-cve-2015-8562">
 
 ---
+## CVE-2015-8550 ()
+> 
+- [WhatsWrongAndWhy/CVE-2015-8550](https://github.com/WhatsWrongAndWhy/CVE-2015-8550)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2015-8550">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2015-8550">
+
+---
 ## CVE-2015-8522 ()
 > 
 - [damariion/CVE-2015-8522.RCE](https://github.com/damariion/CVE-2015-8522.RCE)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2015-8522.RCE">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2015-8522.RCE">
@@ -527,6 +532,8 @@
 - [1mgR00T/CVE-2015-1328](https://github.com/1mgR00T/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/1mgR00T/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/1mgR00T/CVE-2015-1328">
 - [0xf1d0/CVE-2015-1328](https://github.com/0xf1d0/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/0xf1d0/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/0xf1d0/CVE-2015-1328">
 - [thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM](https://github.com/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM)	<img alt="forks" src="https://img.shields.io/github/forks/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM">	<img alt="stars" src="https://img.shields.io/github/stars/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM">
+- [WhatsWrongAndWhy/CVE-2015-1328](https://github.com/WhatsWrongAndWhy/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2015-1328">
+- [saqib-butt2/blackbox-pentesting-infsecos](https://github.com/saqib-butt2/blackbox-pentesting-infsecos)	<img alt="forks" src="https://img.shields.io/github/forks/saqib-butt2/blackbox-pentesting-infsecos">	<img alt="stars" src="https://img.shields.io/github/stars/saqib-butt2/blackbox-pentesting-infsecos">
 
 ---
 ## CVE-2015-1187 ()
