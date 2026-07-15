@@ -2271,6 +2271,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [Roronoawjd/CVE-2024-5083](https://github.com/Roronoawjd/CVE-2024-5083)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/CVE-2024-5083">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/CVE-2024-5083">
 
 ---
+## CVE-2024-5082 ()
+> 
+- [h4mr3r/CVE-2024-5082](https://github.com/h4mr3r/CVE-2024-5082)	<img alt="forks" src="https://img.shields.io/github/forks/h4mr3r/CVE-2024-5082">	<img alt="stars" src="https://img.shields.io/github/stars/h4mr3r/CVE-2024-5082">
+
+---
 ## CVE-2024-50804 ()
 > 
 - [g3tsyst3m/CVE-2024-50804](https://github.com/g3tsyst3m/CVE-2024-50804)	<img alt="forks" src="https://img.shields.io/github/forks/g3tsyst3m/CVE-2024-50804">	<img alt="stars" src="https://img.shields.io/github/stars/g3tsyst3m/CVE-2024-50804">
