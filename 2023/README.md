@@ -1948,6 +1948,9 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [ladyg00se/CVE-2023-45866_WIP](https://github.com/ladyg00se/CVE-2023-45866_WIP)	<img alt="forks" src="https://img.shields.io/github/forks/ladyg00se/CVE-2023-45866_WIP">	<img alt="stars" src="https://img.shields.io/github/stars/ladyg00se/CVE-2023-45866_WIP">
 - [xG3nesis/RustyInjector](https://github.com/xG3nesis/RustyInjector)	<img alt="forks" src="https://img.shields.io/github/forks/xG3nesis/RustyInjector">	<img alt="stars" src="https://img.shields.io/github/stars/xG3nesis/RustyInjector">
 - [Danyw24/blueXploit](https://github.com/Danyw24/blueXploit)	<img alt="forks" src="https://img.shields.io/github/forks/Danyw24/blueXploit">	<img alt="stars" src="https://img.shields.io/github/stars/Danyw24/blueXploit">
+- [0xBADACTOR/CVE-2023-45866](https://github.com/0xBADACTOR/CVE-2023-45866)	<img alt="forks" src="https://img.shields.io/github/forks/0xBADACTOR/CVE-2023-45866">	<img alt="stars" src="https://img.shields.io/github/stars/0xBADACTOR/CVE-2023-45866">
+- [hegaz0y/-BuL](https://github.com/hegaz0y/-BuL)	<img alt="forks" src="https://img.shields.io/github/forks/hegaz0y/-BuL">	<img alt="stars" src="https://img.shields.io/github/stars/hegaz0y/-BuL">
+- [Sergeb250/BlueDucky](https://github.com/Sergeb250/BlueDucky)	<img alt="forks" src="https://img.shields.io/github/forks/Sergeb250/BlueDucky">	<img alt="stars" src="https://img.shields.io/github/stars/Sergeb250/BlueDucky">
 
 ---
 ## CVE-2023-45857 (2023-11-08T21:15:00)
