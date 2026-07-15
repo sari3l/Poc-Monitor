@@ -1274,6 +1274,11 @@
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
 
 ---
+## CVE-2026-46585 ()
+> 
+- [oscerd/CVE-2026-46585](https://github.com/oscerd/CVE-2026-46585)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46585">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46585">
+
+---
 ## CVE-2026-46584 ()
 > 
 - [oscerd/CVE-2026-46584](https://github.com/oscerd/CVE-2026-46584)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46584">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46584">
@@ -4659,6 +4664,7 @@
 ## CVE-2026-27483 ()
 > 
 - [thewhiteh4t/cve-2026-27483](https://github.com/thewhiteh4t/cve-2026-27483)	<img alt="forks" src="https://img.shields.io/github/forks/thewhiteh4t/cve-2026-27483">	<img alt="stars" src="https://img.shields.io/github/stars/thewhiteh4t/cve-2026-27483">
+- [nabhan-mohy/cve-2026-27483-lab](https://github.com/nabhan-mohy/cve-2026-27483-lab)	<img alt="forks" src="https://img.shields.io/github/forks/nabhan-mohy/cve-2026-27483-lab">	<img alt="stars" src="https://img.shields.io/github/stars/nabhan-mohy/cve-2026-27483-lab">
 
 ---
 ## CVE-2026-27470 ()
