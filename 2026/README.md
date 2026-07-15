@@ -440,6 +440,7 @@
 > 
 - [BiiTts/CVE-2026-58138-Conductor-Unauth-RCE](https://github.com/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">
 - [seqra/cve-2026-58138](https://github.com/seqra/cve-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/seqra/cve-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/seqra/cve-2026-58138">
+- [Ch4120N/CVE-2026-58138](https://github.com/Ch4120N/CVE-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-58138">
 
 ---
 ## CVE-2026-58116 ()
@@ -1297,6 +1298,11 @@
 ## CVE-2026-4660 ()
 > 
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
+
+---
+## CVE-2026-46591 ()
+> 
+- [oscerd/CVE-2026-46591](https://github.com/oscerd/CVE-2026-46591)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46591">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46591">
 
 ---
 ## CVE-2026-46590 ()
@@ -2618,6 +2624,8 @@
 - [Nxploited/CVE-2026-3891](https://github.com/Nxploited/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-3891">
 - [AnggaTechI/Mass-Scanner-CVE-2026-3891](https://github.com/AnggaTechI/Mass-Scanner-CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/Mass-Scanner-CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/Mass-Scanner-CVE-2026-3891">
 - [willygailo/CVE-2026-3891-Linux](https://github.com/willygailo/CVE-2026-3891-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/CVE-2026-3891-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/CVE-2026-3891-Linux">
+- [shinthink/CVE-2026-3891](https://github.com/shinthink/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-3891">
+- [m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">
 
 ---
 ## CVE-2026-3888 ()
@@ -6740,6 +6748,7 @@
 ## CVE-2026-13001 ()
 > 
 - [Raimu0x19/CVE-2026-13001](https://github.com/Raimu0x19/CVE-2026-13001)	<img alt="forks" src="https://img.shields.io/github/forks/Raimu0x19/CVE-2026-13001">	<img alt="stars" src="https://img.shields.io/github/stars/Raimu0x19/CVE-2026-13001">
+- [shinthink/CVE-2026-13001](https://github.com/shinthink/CVE-2026-13001)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-13001">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-13001">
 
 ---
 ## CVE-2026-1281 ()
