@@ -486,6 +486,11 @@
 - [xxconi/CVE-2026-5718-PR-V-EXPLO-T](https://github.com/xxconi/CVE-2026-5718-PR-V-EXPLO-T)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5718-PR-V-EXPLO-T">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5718-PR-V-EXPLO-T">
 
 ---
+## CVE-2026-57155 ()
+> 
+- [babyshen/CVE-2026-57155](https://github.com/babyshen/CVE-2026-57155)	<img alt="forks" src="https://img.shields.io/github/forks/babyshen/CVE-2026-57155">	<img alt="stars" src="https://img.shields.io/github/stars/babyshen/CVE-2026-57155">
+
+---
 ## CVE-2026-56876 ()
 > 
 - [ziad626/CVE-2026-56876-POC](https://github.com/ziad626/CVE-2026-56876-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ziad626/CVE-2026-56876-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ziad626/CVE-2026-56876-POC">
