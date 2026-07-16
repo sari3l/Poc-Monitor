@@ -6989,6 +6989,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [g4nkd/CVE-2023-25690-PoC](https://github.com/g4nkd/CVE-2023-25690-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2023-25690-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2023-25690-PoC">
 - [oOCyginXOo/CVE-2023-25690-POC](https://github.com/oOCyginXOo/CVE-2023-25690-POC)	<img alt="forks" src="https://img.shields.io/github/forks/oOCyginXOo/CVE-2023-25690-POC">	<img alt="stars" src="https://img.shields.io/github/stars/oOCyginXOo/CVE-2023-25690-POC">
 - [giordy0424/CVE-2023-25690_lab](https://github.com/giordy0424/CVE-2023-25690_lab)	<img alt="forks" src="https://img.shields.io/github/forks/giordy0424/CVE-2023-25690_lab">	<img alt="stars" src="https://img.shields.io/github/stars/giordy0424/CVE-2023-25690_lab">
+- [arnavps/CTF-Web-Exploitation](https://github.com/arnavps/CTF-Web-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/arnavps/CTF-Web-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/arnavps/CTF-Web-Exploitation">
 
 ---
 ## CVE-2023-25610 ()
