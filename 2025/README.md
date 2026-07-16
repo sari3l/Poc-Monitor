@@ -302,6 +302,7 @@
 - [SuriyaBoon/HackTheBox-Silentium](https://github.com/SuriyaBoon/HackTheBox-Silentium)	<img alt="forks" src="https://img.shields.io/github/forks/SuriyaBoon/HackTheBox-Silentium">	<img alt="stars" src="https://img.shields.io/github/stars/SuriyaBoon/HackTheBox-Silentium">
 - [joaquinrrr/CVE-2025-8110](https://github.com/joaquinrrr/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/joaquinrrr/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/joaquinrrr/CVE-2025-8110">
 - [AdityaInnovates/CVE-2025-8110-Gogs-RCE-Exploit](https://github.com/AdityaInnovates/CVE-2025-8110-Gogs-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaInnovates/CVE-2025-8110-Gogs-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaInnovates/CVE-2025-8110-Gogs-RCE-Exploit">
+- [Xdezen/CVE-2025-8110](https://github.com/Xdezen/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Xdezen/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Xdezen/CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
