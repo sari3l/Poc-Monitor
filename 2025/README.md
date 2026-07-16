@@ -4338,6 +4338,7 @@
 - [RootEvil333/CVE-2025-55182](https://github.com/RootEvil333/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2025-55182">
 - [xp101t/react2shell](https://github.com/xp101t/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/xp101t/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/xp101t/react2shell">
 - [amnsecurity/reactorwatch-pentest](https://github.com/amnsecurity/reactorwatch-pentest)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/reactorwatch-pentest">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/reactorwatch-pentest">
+- [se1zer/Nextjs_Exploit_Tool](https://github.com/se1zer/Nextjs_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/se1zer/Nextjs_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/se1zer/Nextjs_Exploit_Tool">
 
 ---
 ## CVE-2025-55130 ()
