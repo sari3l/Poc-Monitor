@@ -41,6 +41,11 @@
 - [DylanZahedi/CVE-2026-9277](https://github.com/DylanZahedi/CVE-2026-9277)	<img alt="forks" src="https://img.shields.io/github/forks/DylanZahedi/CVE-2026-9277">	<img alt="stars" src="https://img.shields.io/github/stars/DylanZahedi/CVE-2026-9277">
 
 ---
+## CVE-2026-9271 ()
+> 
+- [CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit](https://github.com/CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/WordPress-KeepInMind-CVE-2026-9271-Exploit">
+
+---
 ## CVE-2026-9256 ()
 > 
 - [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
@@ -1469,6 +1474,11 @@
 ## CVE-2026-46453 ()
 > 
 - [oscerd/CVE-2026-46453](https://github.com/oscerd/CVE-2026-46453)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46453">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46453">
+
+---
+## CVE-2026-46442 ()
+> 
+- [chinaxploiter/CVE-2026-46442-PoC](https://github.com/chinaxploiter/CVE-2026-46442-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chinaxploiter/CVE-2026-46442-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chinaxploiter/CVE-2026-46442-PoC">
 
 ---
 ## CVE-2026-46395 ()
