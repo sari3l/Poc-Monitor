@@ -583,6 +583,11 @@
 - [mirackayikci/CVE-2026-55584](https://github.com/mirackayikci/CVE-2026-55584)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-55584">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-55584">
 
 ---
+## CVE-2026-55579 ()
+> 
+- [Ch4120N/CVE-2026-55579](https://github.com/Ch4120N/CVE-2026-55579)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-55579">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-55579">
+
+---
 ## CVE-2026-55511 ()
 > 
 - [junfuture1103/CVE-2026-55511](https://github.com/junfuture1103/CVE-2026-55511)	<img alt="forks" src="https://img.shields.io/github/forks/junfuture1103/CVE-2026-55511">	<img alt="stars" src="https://img.shields.io/github/stars/junfuture1103/CVE-2026-55511">
@@ -1865,6 +1870,7 @@
 - [ayyy7128/CVE-2026-43499-jinghu](https://github.com/ayyy7128/CVE-2026-43499-jinghu)	<img alt="forks" src="https://img.shields.io/github/forks/ayyy7128/CVE-2026-43499-jinghu">	<img alt="stars" src="https://img.shields.io/github/stars/ayyy7128/CVE-2026-43499-jinghu">
 - [DistrictBlauw/CyberMeowfia-ace3](https://github.com/DistrictBlauw/CyberMeowfia-ace3)	<img alt="forks" src="https://img.shields.io/github/forks/DistrictBlauw/CyberMeowfia-ace3">	<img alt="stars" src="https://img.shields.io/github/stars/DistrictBlauw/CyberMeowfia-ace3">
 - [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko)	<img alt="forks" src="https://img.shields.io/github/forks/SlightNeko/ghostlock-rothko">	<img alt="stars" src="https://img.shields.io/github/stars/SlightNeko/ghostlock-rothko">
+- [2932796375github/CVE-2026-43499_OPPO-MT6835](https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835)	<img alt="forks" src="https://img.shields.io/github/forks/2932796375github/CVE-2026-43499_OPPO-MT6835">	<img alt="stars" src="https://img.shields.io/github/stars/2932796375github/CVE-2026-43499_OPPO-MT6835">
 
 ---
 ## CVE-2026-43494 ()
