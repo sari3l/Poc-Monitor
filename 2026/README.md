@@ -1265,6 +1265,11 @@
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 
 ---
+## CVE-2026-48205 ()
+> 
+- [oscerd/CVE-2026-48205](https://github.com/oscerd/CVE-2026-48205)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-48205">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-48205">
+
+---
 ## CVE-2026-48204 ()
 > 
 - [oscerd/CVE-2026-48204](https://github.com/oscerd/CVE-2026-48204)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-48204">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-48204">
