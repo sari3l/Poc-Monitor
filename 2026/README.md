@@ -1265,6 +1265,11 @@
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 
 ---
+## CVE-2026-48204 ()
+> 
+- [oscerd/CVE-2026-48204](https://github.com/oscerd/CVE-2026-48204)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-48204">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-48204">
+
+---
 ## CVE-2026-48203 ()
 > 
 - [oscerd/CVE-2026-48203](https://github.com/oscerd/CVE-2026-48203)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-48203">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-48203">
@@ -1893,6 +1898,8 @@
 - [2932796375github/CVE-2026-43499_OPPO-MT6835](https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835)	<img alt="forks" src="https://img.shields.io/github/forks/2932796375github/CVE-2026-43499_OPPO-MT6835">	<img alt="stars" src="https://img.shields.io/github/stars/2932796375github/CVE-2026-43499_OPPO-MT6835">
 - [Wtrwx/cve_2026_43499_sm-t878u](https://github.com/Wtrwx/cve_2026_43499_sm-t878u)	<img alt="forks" src="https://img.shields.io/github/forks/Wtrwx/cve_2026_43499_sm-t878u">	<img alt="stars" src="https://img.shields.io/github/stars/Wtrwx/cve_2026_43499_sm-t878u">
 - [MiaPatsune/cve-2026-43499](https://github.com/MiaPatsune/cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/MiaPatsune/cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/MiaPatsune/cve-2026-43499">
+- [sorrow404Null/CVE-2026-43499-RMX5200](https://github.com/sorrow404Null/CVE-2026-43499-RMX5200)	<img alt="forks" src="https://img.shields.io/github/forks/sorrow404Null/CVE-2026-43499-RMX5200">	<img alt="stars" src="https://img.shields.io/github/stars/sorrow404Null/CVE-2026-43499-RMX5200">
+- [justsoman/CyberMeowfia-ace3](https://github.com/justsoman/CyberMeowfia-ace3)	<img alt="forks" src="https://img.shields.io/github/forks/justsoman/CyberMeowfia-ace3">	<img alt="stars" src="https://img.shields.io/github/stars/justsoman/CyberMeowfia-ace3">
 
 ---
 ## CVE-2026-43494 ()
