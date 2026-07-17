@@ -960,6 +960,16 @@
 - [HORKimhab/CVE-2026-50507](https://github.com/HORKimhab/CVE-2026-50507)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50507">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50507">
 
 ---
+## CVE-2026-50454 ()
+> 
+- [DavidCarliez/CVE-2026-50454-SYSTEM-Shell-PoC](https://github.com/DavidCarliez/CVE-2026-50454-SYSTEM-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-50454-SYSTEM-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-50454-SYSTEM-Shell-PoC">
+
+---
+## CVE-2026-50416 ()
+> 
+- [karollooool/CVE-2026-50416-writeup-and-poc](https://github.com/karollooool/CVE-2026-50416-writeup-and-poc)	<img alt="forks" src="https://img.shields.io/github/forks/karollooool/CVE-2026-50416-writeup-and-poc">	<img alt="stars" src="https://img.shields.io/github/stars/karollooool/CVE-2026-50416-writeup-and-poc">
+
+---
 ## CVE-2026-50369 ()
 > 
 - [syxlox/CVE-2026-50369](https://github.com/syxlox/CVE-2026-50369)	<img alt="forks" src="https://img.shields.io/github/forks/syxlox/CVE-2026-50369">	<img alt="stars" src="https://img.shields.io/github/stars/syxlox/CVE-2026-50369">
@@ -1882,6 +1892,7 @@
 - [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko)	<img alt="forks" src="https://img.shields.io/github/forks/SlightNeko/ghostlock-rothko">	<img alt="stars" src="https://img.shields.io/github/stars/SlightNeko/ghostlock-rothko">
 - [2932796375github/CVE-2026-43499_OPPO-MT6835](https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835)	<img alt="forks" src="https://img.shields.io/github/forks/2932796375github/CVE-2026-43499_OPPO-MT6835">	<img alt="stars" src="https://img.shields.io/github/stars/2932796375github/CVE-2026-43499_OPPO-MT6835">
 - [Wtrwx/cve_2026_43499_sm-t878u](https://github.com/Wtrwx/cve_2026_43499_sm-t878u)	<img alt="forks" src="https://img.shields.io/github/forks/Wtrwx/cve_2026_43499_sm-t878u">	<img alt="stars" src="https://img.shields.io/github/stars/Wtrwx/cve_2026_43499_sm-t878u">
+- [MiaPatsune/cve-2026-43499](https://github.com/MiaPatsune/cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/MiaPatsune/cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/MiaPatsune/cve-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
@@ -6775,6 +6786,11 @@
 ## CVE-2026-14459 ()
 > 
 - [dasokkk/CVE-2026-14459-14460-pardus-software](https://github.com/dasokkk/CVE-2026-14459-14460-pardus-software)	<img alt="forks" src="https://img.shields.io/github/forks/dasokkk/CVE-2026-14459-14460-pardus-software">	<img alt="stars" src="https://img.shields.io/github/stars/dasokkk/CVE-2026-14459-14460-pardus-software">
+
+---
+## CVE-2026-14431 ()
+> 
+- [jaf0rk/CVE-2026-14431](https://github.com/jaf0rk/CVE-2026-14431)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-14431">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-14431">
 
 ---
 ## CVE-2026-14382 ()
