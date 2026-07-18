@@ -421,6 +421,9 @@
 - [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Icex0/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Icex0/wp2shell-poc">
 - [zi3lak/wp2shell_scanner](https://github.com/zi3lak/wp2shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/zi3lak/wp2shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/zi3lak/wp2shell_scanner">
 - [0xWhoknows/wp2shell](https://github.com/0xWhoknows/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoknows/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoknows/wp2shell">
+- [ebrasha/abdal-cve-2026-63030](https://github.com/ebrasha/abdal-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/abdal-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/abdal-cve-2026-63030">
+- [securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/WordPresShell">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/WordPresShell">
+- [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
 
 ---
 ## CVE-2026-6279 ()
@@ -454,6 +457,25 @@
 ## CVE-2026-6018 ()
 > 
 - [m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain](https://github.com/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain)	<img alt="forks" src="https://img.shields.io/github/forks/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain">	<img alt="stars" src="https://img.shields.io/github/stars/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain">
+
+---
+## CVE-2026-60137 ()
+> 
+- [ebrasha/abdal-cve-2026-60137](https://github.com/ebrasha/abdal-cve-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/abdal-cve-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/abdal-cve-2026-60137">
+- [securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/WordPresShell">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/WordPresShell">
+- [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
+- [yoerivegt/wp2shell-poc](https://github.com/yoerivegt/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yoerivegt/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yoerivegt/wp2shell-poc">
+- [0xsha/wp2shell](https://github.com/0xsha/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/wp2shell">
+- [zi3lak/wp2shell_scanner](https://github.com/zi3lak/wp2shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/zi3lak/wp2shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/zi3lak/wp2shell_scanner">
+- [0xWhoknows/wp2shell](https://github.com/0xWhoknows/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoknows/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoknows/wp2shell">
+- [dinosn/wp2shell-lab](https://github.com/dinosn/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/wp2shell-lab">
+- [h4cd0c/wp2shell](https://github.com/h4cd0c/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/h4cd0c/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/h4cd0c/wp2shell">
+- [ZephrFish/wp2shell-scanner](https://github.com/ZephrFish/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/wp2shell-scanner">
+- [kulichr/wp2shell](https://github.com/kulichr/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/kulichr/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/kulichr/wp2shell">
+- [NULL200OK/WP2Shell](https://github.com/NULL200OK/WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/WP2Shell">
+- [ekomsSavior/wp2shell](https://github.com/ekomsSavior/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/wp2shell">
+- [47Cid/wp2shell-lab](https://github.com/47Cid/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/47Cid/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/47Cid/wp2shell-lab">
+- [Senanfurkan/wordpress-cve-2026-63030](https://github.com/Senanfurkan/wordpress-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Senanfurkan/wordpress-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Senanfurkan/wordpress-cve-2026-63030">
 
 ---
 ## CVE-2026-6009 ()
@@ -7245,6 +7267,7 @@
 - [a24ac1/CVE-2026-0740](https://github.com/a24ac1/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2026-0740">
 - [BastianXploited/CVE-2026-0740-mass](https://github.com/BastianXploited/CVE-2026-0740-mass)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-0740-mass">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-0740-mass">
 - [ExDev994/CVE-2026-0740-mass](https://github.com/ExDev994/CVE-2026-0740-mass)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-0740-mass">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-0740-mass">
+- [MadExploits/ninja-form-exploit](https://github.com/MadExploits/ninja-form-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/ninja-form-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/ninja-form-exploit">
 
 ---
 ## CVE-2026-0730 ()

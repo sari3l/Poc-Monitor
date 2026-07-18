@@ -852,6 +852,11 @@
 - [sivaadityacoder/CVE-2025-68621](https://github.com/sivaadityacoder/CVE-2025-68621)	<img alt="forks" src="https://img.shields.io/github/forks/sivaadityacoder/CVE-2025-68621">	<img alt="stars" src="https://img.shields.io/github/stars/sivaadityacoder/CVE-2025-68621">
 
 ---
+## CVE-2025-68616 ()
+> 
+- [rauljvc8/CVE-2025-68616-Detecting-and-Patching-an-SSRF-in-WeasyPrint-with-Wazuh](https://github.com/rauljvc8/CVE-2025-68616-Detecting-and-Patching-an-SSRF-in-WeasyPrint-with-Wazuh)	<img alt="forks" src="https://img.shields.io/github/forks/rauljvc8/CVE-2025-68616-Detecting-and-Patching-an-SSRF-in-WeasyPrint-with-Wazuh">	<img alt="stars" src="https://img.shields.io/github/stars/rauljvc8/CVE-2025-68616-Detecting-and-Patching-an-SSRF-in-WeasyPrint-with-Wazuh">
+
+---
 ## CVE-2025-68615 ()
 > 
 - [b1gchoi/CVE-2025-68615](https://github.com/b1gchoi/CVE-2025-68615)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-68615">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-68615">
