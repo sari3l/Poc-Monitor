@@ -424,6 +424,8 @@
 - [ebrasha/abdal-cve-2026-63030](https://github.com/ebrasha/abdal-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/abdal-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/abdal-cve-2026-63030">
 - [securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/WordPresShell">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/WordPresShell">
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
+- [ChiefYoru/CVE-2026-63030_PoC](https://github.com/ChiefYoru/CVE-2026-63030_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-63030_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-63030_PoC">
+- [fullhunt/wp2shell-scan](https://github.com/fullhunt/wp2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/wp2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/wp2shell-scan">
 
 ---
 ## CVE-2026-6279 ()
