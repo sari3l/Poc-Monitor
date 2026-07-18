@@ -426,6 +426,7 @@
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
 - [ChiefYoru/CVE-2026-63030_PoC](https://github.com/ChiefYoru/CVE-2026-63030_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-63030_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-63030_PoC">
 - [fullhunt/wp2shell-scan](https://github.com/fullhunt/wp2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/wp2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/wp2shell-scan">
+- [mhtsec/CVE-2026-63030](https://github.com/mhtsec/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -1204,6 +1205,7 @@
 > 
 - [Polosss/By-Poloss..-..CVE-2026-48939](https://github.com/Polosss/By-Poloss..-..CVE-2026-48939)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-48939">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-48939">
 - [shinthink/CVE-2026-48939](https://github.com/shinthink/CVE-2026-48939)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-48939">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-48939">
+- [ChiefYoru/CVE-2026-48939_PoC](https://github.com/ChiefYoru/CVE-2026-48939_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-48939_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-48939_PoC">
 
 ---
 ## CVE-2026-48909 ()
@@ -6351,6 +6353,7 @@
 ## CVE-2026-21628 ()
 > 
 - [webshellseo8/CVE-2026-21628-POC](https://github.com/webshellseo8/CVE-2026-21628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-21628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-21628-POC">
+- [ChiefYoru/CVE-2026-21628_PoC](https://github.com/ChiefYoru/CVE-2026-21628_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-21628_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-21628_PoC">
 
 ---
 ## CVE-2026-21627 ()
