@@ -400,6 +400,7 @@
 - [tcyph3r/wp2shell-cve-2026-63030-root-cause](https://github.com/tcyph3r/wp2shell-cve-2026-63030-root-cause)	<img alt="forks" src="https://img.shields.io/github/forks/tcyph3r/wp2shell-cve-2026-63030-root-cause">	<img alt="stars" src="https://img.shields.io/github/stars/tcyph3r/wp2shell-cve-2026-63030-root-cause">
 - [zeroc00I/CVE-2026-63030](https://github.com/zeroc00I/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2026-63030">
 - [Senanfurkan/wordpress-cve-2026-63030](https://github.com/Senanfurkan/wordpress-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Senanfurkan/wordpress-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Senanfurkan/wordpress-cve-2026-63030">
+- [CybersecSpirit/CVE-2026-63030](https://github.com/CybersecSpirit/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/CybersecSpirit/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/CybersecSpirit/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -7054,6 +7055,11 @@
 - [izxci/CVE-2026-10795](https://github.com/izxci/CVE-2026-10795)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-10795">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-10795">
 - [webshellseo8/CVE-2026-10795-POC](https://github.com/webshellseo8/CVE-2026-10795-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-10795-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-10795-POC">
 - [rootdirective-sec/CVE-2026-10795-Lab](https://github.com/rootdirective-sec/CVE-2026-10795-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-10795-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-10795-Lab">
+
+---
+## CVE-2026-10672 ()
+> 
+- [Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri](https://github.com/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">
 
 ---
 ## CVE-2026-10580 ()
