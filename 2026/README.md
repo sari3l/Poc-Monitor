@@ -427,6 +427,9 @@
 - [ChiefYoru/CVE-2026-63030_PoC](https://github.com/ChiefYoru/CVE-2026-63030_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-63030_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-63030_PoC">
 - [fullhunt/wp2shell-scan](https://github.com/fullhunt/wp2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/fullhunt/wp2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/fullhunt/wp2shell-scan">
 - [mhtsec/CVE-2026-63030](https://github.com/mhtsec/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/CVE-2026-63030">
+- [JohenLastGen-JLG/wp2shell](https://github.com/JohenLastGen-JLG/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/wp2shell">
+- [own2pwn-fr/wp2shell-detect](https://github.com/own2pwn-fr/wp2shell-detect)	<img alt="forks" src="https://img.shields.io/github/forks/own2pwn-fr/wp2shell-detect">	<img alt="stars" src="https://img.shields.io/github/stars/own2pwn-fr/wp2shell-detect">
+- [codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-wp2shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -592,6 +595,7 @@
 - [shinthink/CVE-2026-56291](https://github.com/shinthink/CVE-2026-56291)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-56291">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-56291">
 - [rimbadirgantara/CVE-2026-56291.yaml](https://github.com/rimbadirgantara/CVE-2026-56291.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2026-56291.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2026-56291.yaml">
 - [0xdenis77/CVE-2026-56291](https://github.com/0xdenis77/CVE-2026-56291)	<img alt="forks" src="https://img.shields.io/github/forks/0xdenis77/CVE-2026-56291">	<img alt="stars" src="https://img.shields.io/github/stars/0xdenis77/CVE-2026-56291">
+- [ChiefYoru/CVE-2026-56291_PoC](https://github.com/ChiefYoru/CVE-2026-56291_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-56291_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-56291_PoC">
 
 ---
 ## CVE-2026-56290 ()
@@ -1538,6 +1542,11 @@
 ## CVE-2026-46442 ()
 > 
 - [codeb0ssx/CVE-2026-46442-PoC](https://github.com/codeb0ssx/CVE-2026-46442-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-46442-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-46442-PoC">
+
+---
+## CVE-2026-46420 ()
+> 
+- [Jvr2022/CVE-2026-46420](https://github.com/Jvr2022/CVE-2026-46420)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-46420">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-46420">
 
 ---
 ## CVE-2026-46395 ()
