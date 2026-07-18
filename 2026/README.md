@@ -417,6 +417,10 @@
 - [0xBlackash/CVE-2026-63030](https://github.com/0xBlackash/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-63030">
 - [gbrsh/CVE-2026-63030](https://github.com/gbrsh/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2026-63030">
 - [h4cd0c/wp2shell](https://github.com/h4cd0c/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/h4cd0c/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/h4cd0c/wp2shell">
+- [yoerivegt/wp2shell-poc](https://github.com/yoerivegt/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yoerivegt/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yoerivegt/wp2shell-poc">
+- [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Icex0/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Icex0/wp2shell-poc">
+- [zi3lak/wp2shell_scanner](https://github.com/zi3lak/wp2shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/zi3lak/wp2shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/zi3lak/wp2shell_scanner">
+- [0xWhoknows/wp2shell](https://github.com/0xWhoknows/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoknows/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoknows/wp2shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -6209,6 +6213,11 @@
 ## CVE-2026-21986 ()
 > 
 - [MohaBars/CVE-2026-21986-VirtualBox-DoS](https://github.com/MohaBars/CVE-2026-21986-VirtualBox-DoS)	<img alt="forks" src="https://img.shields.io/github/forks/MohaBars/CVE-2026-21986-VirtualBox-DoS">	<img alt="stars" src="https://img.shields.io/github/stars/MohaBars/CVE-2026-21986-VirtualBox-DoS">
+
+---
+## CVE-2026-21978 ()
+> 
+- [Eangly/CVE-2026-21978](https://github.com/Eangly/CVE-2026-21978)	<img alt="forks" src="https://img.shields.io/github/forks/Eangly/CVE-2026-21978">	<img alt="stars" src="https://img.shields.io/github/stars/Eangly/CVE-2026-21978">
 
 ---
 ## CVE-2026-21962 ()
