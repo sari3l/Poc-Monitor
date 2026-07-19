@@ -603,6 +603,7 @@
 - [sagsooz/PageBuilderCK-CVE-2026-56290-Exploit](https://github.com/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sagsooz/PageBuilderCK-CVE-2026-56290-Exploit">
 - [shinthink/pbck-exploit](https://github.com/shinthink/pbck-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/pbck-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/pbck-exploit">
 - [Jenderal92/CVE-2026-56290](https://github.com/Jenderal92/CVE-2026-56290)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-56290">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-56290">
+- [ChiefYoru/CVE-2026-56290_PoC](https://github.com/ChiefYoru/CVE-2026-56290_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-56290_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-56290_PoC">
 
 ---
 ## CVE-2026-56164 ()
@@ -1254,6 +1255,7 @@
 - [NoXiVaR/CVE-2026-48907](https://github.com/NoXiVaR/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/NoXiVaR/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/NoXiVaR/CVE-2026-48907">
 - [bayu06802/CVE-2026-48907](https://github.com/bayu06802/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/bayu06802/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/bayu06802/CVE-2026-48907">
 - [amnsecurity/CVE-2026-48907-Joomla-JCE-RCE](https://github.com/amnsecurity/CVE-2026-48907-Joomla-JCE-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-48907-Joomla-JCE-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-48907-Joomla-JCE-RCE">
+- [ChiefYoru/CVE-2026-48907_PoC](https://github.com/ChiefYoru/CVE-2026-48907_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-48907_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-48907_PoC">
 
 ---
 ## CVE-2026-48866 ()
@@ -7252,7 +7254,7 @@
 ---
 ## CVE-2026-0776 ()
 > 
-- [zerkl/CVE-2026-0776](https://github.com/zerkl/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/zerkl/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/zerkl/CVE-2026-0776">
+- [whoanx/CVE-2026-0776](https://github.com/whoanx/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/whoanx/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/whoanx/CVE-2026-0776">
 - [OverlayCS/Helix](https://github.com/OverlayCS/Helix)	<img alt="forks" src="https://img.shields.io/github/forks/OverlayCS/Helix">	<img alt="stars" src="https://img.shields.io/github/stars/OverlayCS/Helix">
 
 ---
