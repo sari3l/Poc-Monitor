@@ -438,6 +438,8 @@
 - [ikow/wp2shell](https://github.com/ikow/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/wp2shell">
 - [c0gnit00/Wp2Shell](https://github.com/c0gnit00/Wp2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/Wp2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/Wp2Shell">
 - [hidden-investigations/wp2shell-scanner](https://github.com/hidden-investigations/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/wp2shell-scanner">
+- [skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030](https://github.com/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030">
+- [Lukols-Dev/wp-cve-2026-63030-check](https://github.com/Lukols-Dev/wp-cve-2026-63030-check)	<img alt="forks" src="https://img.shields.io/github/forks/Lukols-Dev/wp-cve-2026-63030-check">	<img alt="stars" src="https://img.shields.io/github/stars/Lukols-Dev/wp-cve-2026-63030-check">
 
 ---
 ## CVE-2026-6279 ()
