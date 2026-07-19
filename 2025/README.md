@@ -1744,6 +1744,7 @@
 ## CVE-2025-64512 ()
 > 
 - [luigigubello/CVE-2025-64512-Polyglot-PoC](https://github.com/luigigubello/CVE-2025-64512-Polyglot-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/luigigubello/CVE-2025-64512-Polyglot-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/luigigubello/CVE-2025-64512-Polyglot-PoC">
+- [matesz44/CVE-2025-64512](https://github.com/matesz44/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-64512">
 
 ---
 ## CVE-2025-64500 ()
