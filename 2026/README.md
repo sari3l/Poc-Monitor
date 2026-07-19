@@ -1634,6 +1634,7 @@
 > 
 - [0xCyberstan/CVE-2026-46215-POC](https://github.com/0xCyberstan/CVE-2026-46215-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-46215-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-46215-POC">
 - [bluedragonsecurity/CVE-2026-46215-EXPLOIT](https://github.com/bluedragonsecurity/CVE-2026-46215-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-46215-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-46215-EXPLOIT">
+- [bluedragonsecurity/CVE-2026-46215-exploit-linux-7.0-uaf-stable](https://github.com/bluedragonsecurity/CVE-2026-46215-exploit-linux-7.0-uaf-stable)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-46215-exploit-linux-7.0-uaf-stable">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-46215-exploit-linux-7.0-uaf-stable">
 
 ---
 ## CVE-2026-45829 ()
