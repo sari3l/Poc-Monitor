@@ -431,6 +431,12 @@
 - [own2pwn-fr/wp2shell-detect](https://github.com/own2pwn-fr/wp2shell-detect)	<img alt="forks" src="https://img.shields.io/github/forks/own2pwn-fr/wp2shell-detect">	<img alt="stars" src="https://img.shields.io/github/stars/own2pwn-fr/wp2shell-detect">
 - [codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-wp2shell">
 - [0xh7ml/CVE-2026-63030](https://github.com/0xh7ml/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-63030">
+- [4B3R4M4-607D/CVE-2026-63030-POC](https://github.com/4B3R4M4-607D/CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/4B3R4M4-607D/CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/4B3R4M4-607D/CVE-2026-63030-POC">
+- [InstaWP/wp2shell-scan](https://github.com/InstaWP/wp2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/InstaWP/wp2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/InstaWP/wp2shell-scan">
+- [bahartanir/wp2shell-scanner](https://github.com/bahartanir/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bahartanir/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bahartanir/wp2shell-scanner">
+- [eyesecurity/wp2shell-compromise-scanner-plugin](https://github.com/eyesecurity/wp2shell-compromise-scanner-plugin)	<img alt="forks" src="https://img.shields.io/github/forks/eyesecurity/wp2shell-compromise-scanner-plugin">	<img alt="stars" src="https://img.shields.io/github/stars/eyesecurity/wp2shell-compromise-scanner-plugin">
+- [ikow/wp2shell](https://github.com/ikow/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/wp2shell">
+- [c0gnit00/Wp2Shell](https://github.com/c0gnit00/Wp2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/Wp2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/Wp2Shell">
 
 ---
 ## CVE-2026-6279 ()
