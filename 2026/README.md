@@ -430,6 +430,7 @@
 - [JohenLastGen-JLG/wp2shell](https://github.com/JohenLastGen-JLG/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/wp2shell">
 - [own2pwn-fr/wp2shell-detect](https://github.com/own2pwn-fr/wp2shell-detect)	<img alt="forks" src="https://img.shields.io/github/forks/own2pwn-fr/wp2shell-detect">	<img alt="stars" src="https://img.shields.io/github/stars/own2pwn-fr/wp2shell-detect">
 - [codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-wp2shell">
+- [0xh7ml/CVE-2026-63030](https://github.com/0xh7ml/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -2004,6 +2005,7 @@
 - [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)	<img alt="forks" src="https://img.shields.io/github/forks/p2p3p/GhostLock-for-OnePlus">	<img alt="stars" src="https://img.shields.io/github/stars/p2p3p/GhostLock-for-OnePlus">
 - [d224407/CVE-2026-43499](https://github.com/d224407/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/d224407/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/d224407/CVE-2026-43499">
 - [Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall](https://github.com/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall)	<img alt="forks" src="https://img.shields.io/github/forks/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall">	<img alt="stars" src="https://img.shields.io/github/stars/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall">
+- [mumaosong/CVE-2026-43499-cloudflare-gate](https://github.com/mumaosong/CVE-2026-43499-cloudflare-gate)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/CVE-2026-43499-cloudflare-gate">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/CVE-2026-43499-cloudflare-gate">
 
 ---
 ## CVE-2026-43494 ()
@@ -2837,6 +2839,7 @@
 - [willygailo/CVE-2026-3891-Linux](https://github.com/willygailo/CVE-2026-3891-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/CVE-2026-3891-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/CVE-2026-3891-Linux">
 - [shinthink/CVE-2026-3891](https://github.com/shinthink/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-3891">
 - [m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">
+- [VeronnX666/CVE-2026-3891](https://github.com/VeronnX666/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/VeronnX666/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/VeronnX666/CVE-2026-3891">
 
 ---
 ## CVE-2026-3888 ()
