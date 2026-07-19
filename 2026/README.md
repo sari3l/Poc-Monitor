@@ -437,6 +437,7 @@
 - [eyesecurity/wp2shell-compromise-scanner-plugin](https://github.com/eyesecurity/wp2shell-compromise-scanner-plugin)	<img alt="forks" src="https://img.shields.io/github/forks/eyesecurity/wp2shell-compromise-scanner-plugin">	<img alt="stars" src="https://img.shields.io/github/stars/eyesecurity/wp2shell-compromise-scanner-plugin">
 - [ikow/wp2shell](https://github.com/ikow/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/wp2shell">
 - [c0gnit00/Wp2Shell](https://github.com/c0gnit00/Wp2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/Wp2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/Wp2Shell">
+- [hidden-investigations/wp2shell-scanner](https://github.com/hidden-investigations/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/wp2shell-scanner">
 
 ---
 ## CVE-2026-6279 ()
