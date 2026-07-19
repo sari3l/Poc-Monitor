@@ -24,6 +24,11 @@
 - [yt2w/CVE-2025-9961](https://github.com/yt2w/CVE-2025-9961)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-9961">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-9961">
 
 ---
+## CVE-2025-9951 ()
+> 
+- [fm0ss/cve-2025-9951-ffmpeg-jp2-poc](https://github.com/fm0ss/cve-2025-9951-ffmpeg-jp2-poc)	<img alt="forks" src="https://img.shields.io/github/forks/fm0ss/cve-2025-9951-ffmpeg-jp2-poc">	<img alt="stars" src="https://img.shields.io/github/stars/fm0ss/cve-2025-9951-ffmpeg-jp2-poc">
+
+---
 ## CVE-2025-9933 ()
 > 
 - [titanmaster96/cve-2025-9933](https://github.com/titanmaster96/cve-2025-9933)	<img alt="forks" src="https://img.shields.io/github/forks/titanmaster96/cve-2025-9933">	<img alt="stars" src="https://img.shields.io/github/stars/titanmaster96/cve-2025-9933">
