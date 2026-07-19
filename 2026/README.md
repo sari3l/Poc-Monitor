@@ -2783,6 +2783,11 @@
 - [timtimxs/CVE-2026-39253-Advisory](https://github.com/timtimxs/CVE-2026-39253-Advisory)	<img alt="forks" src="https://img.shields.io/github/forks/timtimxs/CVE-2026-39253-Advisory">	<img alt="stars" src="https://img.shields.io/github/stars/timtimxs/CVE-2026-39253-Advisory">
 
 ---
+## CVE-2026-39200 ()
+> 
+- [r00tali/CVE-2026-39200](https://github.com/r00tali/CVE-2026-39200)	<img alt="forks" src="https://img.shields.io/github/forks/r00tali/CVE-2026-39200">	<img alt="stars" src="https://img.shields.io/github/stars/r00tali/CVE-2026-39200">
+
+---
 ## CVE-2026-39107 ()
 > 
 - [MGTx2/CVE-2026-39107](https://github.com/MGTx2/CVE-2026-39107)	<img alt="forks" src="https://img.shields.io/github/forks/MGTx2/CVE-2026-39107">	<img alt="stars" src="https://img.shields.io/github/stars/MGTx2/CVE-2026-39107">
