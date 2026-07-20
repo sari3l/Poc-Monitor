@@ -1078,6 +1078,11 @@
 - [JohannesLks/CVE-2026-50338](https://github.com/JohannesLks/CVE-2026-50338)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-50338">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-50338">
 
 ---
+## CVE-2026-5029 ()
+> 
+- [0x00phantom-hat/CVE-2026-5029-Exploit](https://github.com/0x00phantom-hat/CVE-2026-5029-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/CVE-2026-5029-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/CVE-2026-5029-Exploit">
+
+---
 ## CVE-2026-5027 ()
 > 
 - [yahiahamza/CVE-2026-5027](https://github.com/yahiahamza/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-5027">
@@ -1194,6 +1199,11 @@
 ## CVE-2026-49104 ()
 > 
 - [izxci/CVE-2026-49104-](https://github.com/izxci/CVE-2026-49104-)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49104-">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49104-">
+
+---
+## CVE-2026-49086 ()
+> 
+- [oscerd/CVE-2026-49086](https://github.com/oscerd/CVE-2026-49086)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-49086">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-49086">
 
 ---
 ## CVE-2026-49085 ()
