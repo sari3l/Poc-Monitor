@@ -443,6 +443,7 @@
 - [vulnquest58/PressVector](https://github.com/vulnquest58/PressVector)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/PressVector">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/PressVector">
 - [ZenithGenius/wordpress-batch-rce-lab](https://github.com/ZenithGenius/wordpress-batch-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ZenithGenius/wordpress-batch-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ZenithGenius/wordpress-batch-rce-lab">
 - [ananay/wp2shell-lab](https://github.com/ananay/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ananay/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ananay/wp2shell-lab">
+- [administrator-01001/CVE-2026-63030](https://github.com/administrator-01001/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/administrator-01001/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/administrator-01001/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
