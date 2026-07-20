@@ -2284,6 +2284,7 @@
 - [zeynepglygt/apache-cve-2021-42013-rce](https://github.com/zeynepglygt/apache-cve-2021-42013-rce)	<img alt="forks" src="https://img.shields.io/github/forks/zeynepglygt/apache-cve-2021-42013-rce">	<img alt="stars" src="https://img.shields.io/github/stars/zeynepglygt/apache-cve-2021-42013-rce">
 - [Joapath/CVE-2021-42013](https://github.com/Joapath/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-42013">
 - [eunho87/CVE-2021-42013](https://github.com/eunho87/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/eunho87/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/eunho87/CVE-2021-42013">
+- [berraesen/apache-cve-2021-42013-lab](https://github.com/berraesen/apache-cve-2021-42013-lab)	<img alt="forks" src="https://img.shields.io/github/forks/berraesen/apache-cve-2021-42013-lab">	<img alt="stars" src="https://img.shields.io/github/stars/berraesen/apache-cve-2021-42013-lab">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
