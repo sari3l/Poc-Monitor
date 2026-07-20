@@ -9874,6 +9874,7 @@
 - [VoiidByte/Impacket](https://github.com/VoiidByte/Impacket)	<img alt="forks" src="https://img.shields.io/github/forks/VoiidByte/Impacket">	<img alt="stars" src="https://img.shields.io/github/stars/VoiidByte/Impacket">
 - [GlacierGossip/PrintNightmare](https://github.com/GlacierGossip/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/GlacierGossip/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/GlacierGossip/PrintNightmare">
 - [000Tonio/cve-2021-1675](https://github.com/000Tonio/cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/000Tonio/cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/000Tonio/cve-2021-1675">
+- [kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis](https://github.com/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)

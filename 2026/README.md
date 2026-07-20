@@ -444,6 +444,7 @@
 - [ZenithGenius/wordpress-batch-rce-lab](https://github.com/ZenithGenius/wordpress-batch-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ZenithGenius/wordpress-batch-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ZenithGenius/wordpress-batch-rce-lab">
 - [ananay/wp2shell-lab](https://github.com/ananay/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ananay/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ananay/wp2shell-lab">
 - [administrator-01001/CVE-2026-63030](https://github.com/administrator-01001/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/administrator-01001/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/administrator-01001/CVE-2026-63030">
+- [joaovicdev/EXPLOIT-CVE-2026-63030](https://github.com/joaovicdev/EXPLOIT-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -1328,6 +1329,11 @@
 - [jenniferreire26/CVE-2026-48595](https://github.com/jenniferreire26/CVE-2026-48595)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-48595">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-48595">
 
 ---
+## CVE-2026-4858 ()
+> 
+- [EvtDanya/CVE-2026-4858](https://github.com/EvtDanya/CVE-2026-4858)	<img alt="forks" src="https://img.shields.io/github/forks/EvtDanya/CVE-2026-4858">	<img alt="stars" src="https://img.shields.io/github/stars/EvtDanya/CVE-2026-4858">
+
+---
 ## CVE-2026-48558 ()
 > 
 - [J4ck3LSyN-Gen2/CVE-2026-48558](https://github.com/J4ck3LSyN-Gen2/CVE-2026-48558)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-48558">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-48558">
@@ -1352,6 +1358,11 @@
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
+
+---
+## CVE-2026-48206 ()
+> 
+- [oscerd/CVE-2026-48206](https://github.com/oscerd/CVE-2026-48206)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-48206">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-48206">
 
 ---
 ## CVE-2026-48205 ()
