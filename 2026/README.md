@@ -1744,7 +1744,7 @@
 - [Mclisterjoeh2o/yellowkey-bitlocker](https://github.com/Mclisterjoeh2o/yellowkey-bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Mclisterjoeh2o/yellowkey-bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Mclisterjoeh2o/yellowkey-bitlocker">
 - [everest90909/YellowKey-WinRE-Remediation](https://github.com/everest90909/YellowKey-WinRE-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/everest90909/YellowKey-WinRE-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/everest90909/YellowKey-WinRE-Remediation">
 - [bjbakker1984/Yellowkey-mitigation](https://github.com/bjbakker1984/Yellowkey-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/bjbakker1984/Yellowkey-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/bjbakker1984/Yellowkey-mitigation">
-- [mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/mysterioinfinino-rgb/YellowKey-Bitlocker-CVE-2026-45585">
+- [yellowkeys/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -7145,6 +7145,11 @@
 ## CVE-2026-12277 ()
 > 
 - [moritakaaz/CVE-2026-12277](https://github.com/moritakaaz/CVE-2026-12277)	<img alt="forks" src="https://img.shields.io/github/forks/moritakaaz/CVE-2026-12277">	<img alt="stars" src="https://img.shields.io/github/stars/moritakaaz/CVE-2026-12277">
+
+---
+## CVE-2026-12191 ()
+> 
+- [hakaioffsec/CVE-2026-12191](https://github.com/hakaioffsec/CVE-2026-12191)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-12191">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-12191">
 
 ---
 ## CVE-2026-12166 ()
