@@ -1818,6 +1818,7 @@
 - [Desireeontrial76/yellowkey-bitlocker](https://github.com/Desireeontrial76/yellowkey-bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Desireeontrial76/yellowkey-bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Desireeontrial76/yellowkey-bitlocker">
 - [ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune](https://github.com/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">
 - [ChanderManiPandey2022/Yellow-Key-Check](https://github.com/ChanderManiPandey2022/Yellow-Key-Check)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/Yellow-Key-Check">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/Yellow-Key-Check">
+- [boobalover7/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -6856,6 +6857,11 @@
 ## CVE-2026-20180 ()
 > 
 - [kaleth4/CVE-2026-20180](https://github.com/kaleth4/CVE-2026-20180)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-20180">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-20180">
+
+---
+## CVE-2026-20169 ()
+> 
+- [gigachadusers/CVE-2026-20169](https://github.com/gigachadusers/CVE-2026-20169)	<img alt="forks" src="https://img.shields.io/github/forks/gigachadusers/CVE-2026-20169">	<img alt="stars" src="https://img.shields.io/github/stars/gigachadusers/CVE-2026-20169">
 
 ---
 ## CVE-2026-20131 ()
