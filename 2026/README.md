@@ -5498,6 +5498,11 @@
 - [DyniePro/CVE-2026-25643](https://github.com/DyniePro/CVE-2026-25643)	<img alt="forks" src="https://img.shields.io/github/forks/DyniePro/CVE-2026-25643">	<img alt="stars" src="https://img.shields.io/github/stars/DyniePro/CVE-2026-25643">
 
 ---
+## CVE-2026-25632 ()
+> 
+- [lazarus0x1337/CVE-2026-25632](https://github.com/lazarus0x1337/CVE-2026-25632)	<img alt="forks" src="https://img.shields.io/github/forks/lazarus0x1337/CVE-2026-25632">	<img alt="stars" src="https://img.shields.io/github/stars/lazarus0x1337/CVE-2026-25632">
+
+---
 ## CVE-2026-25604 ()
 > 
 - [John-Jung/CVE-2026-25604-PoC](https://github.com/John-Jung/CVE-2026-25604-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/John-Jung/CVE-2026-25604-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/John-Jung/CVE-2026-25604-PoC">

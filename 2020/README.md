@@ -2555,6 +2555,8 @@
 ## CVE-2020-27194 ()
 > 
 - [WhatsWrongAndWhy/CVE-2020-27194](https://github.com/WhatsWrongAndWhy/CVE-2020-27194)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2020-27194">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2020-27194">
+- [xmzyshypnc/CVE-2020-27194](https://github.com/xmzyshypnc/CVE-2020-27194)	<img alt="forks" src="https://img.shields.io/github/forks/xmzyshypnc/CVE-2020-27194">	<img alt="stars" src="https://img.shields.io/github/stars/xmzyshypnc/CVE-2020-27194">
+- [willinin/CVE-2020-27194-exp](https://github.com/willinin/CVE-2020-27194-exp)	<img alt="forks" src="https://img.shields.io/github/forks/willinin/CVE-2020-27194-exp">	<img alt="stars" src="https://img.shields.io/github/stars/willinin/CVE-2020-27194-exp">
 
 ---
 ## CVE-2020-26991 (2021-01-12T21:15:00)
