@@ -2621,6 +2621,7 @@
 - [0xrogg/CVE-2021-41773](https://github.com/0xrogg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/0xrogg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/0xrogg/CVE-2021-41773">
 - [coolnn/CVE-2021-41773-Analysis-And-Fix](https://github.com/coolnn/CVE-2021-41773-Analysis-And-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/coolnn/CVE-2021-41773-Analysis-And-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/coolnn/CVE-2021-41773-Analysis-And-Fix">
 - [DappaNISM/mass_cve-2021-41773](https://github.com/DappaNISM/mass_cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/DappaNISM/mass_cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/DappaNISM/mass_cve-2021-41773">
+- [1412Kkkkid/cve_2021_41773_reproduction](https://github.com/1412Kkkkid/cve_2021_41773_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/1412Kkkkid/cve_2021_41773_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/1412Kkkkid/cve_2021_41773_reproduction">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
