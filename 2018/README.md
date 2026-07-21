@@ -519,6 +519,7 @@
 ## CVE-2018-5333 (2018-01-11T07:29:00)
 > In the Linux kernel through 4.14.13, the rds_cmsg_atomic function in net/rds/rdma.c mishandles cases where page pinning fails or an invalid address is supplied, leading to an rds_atomic_free_op NULL pointer dereference.
 - [hoanganh2k/cve-2018-5333](https://github.com/hoanganh2k/cve-2018-5333)	<img alt="forks" src="https://img.shields.io/github/forks/hoanganh2k/cve-2018-5333">	<img alt="stars" src="https://img.shields.io/github/stars/hoanganh2k/cve-2018-5333">
+- [WhatsWrongAndWhy/CVE-2018-5333](https://github.com/WhatsWrongAndWhy/CVE-2018-5333)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2018-5333">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2018-5333">
 
 ---
 ## CVE-2018-5332 (2018-01-11T07:29:00)
@@ -1168,6 +1169,13 @@
 ## CVE-2018-19052 (2018-11-07T05:29:00)
 > An issue was discovered in mod_alias_physical_handler in mod_alias.c in lighttpd before 1.4.50. There is potential ../ path traversal of a single directory above an alias target, with a specific mod_alias configuration where the matched alias lacks a trailing '/' character, but the alias target filesystem path does have a trailing '/' character.
 - [iveresk/cve-2018-19052](https://github.com/iveresk/cve-2018-19052)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2018-19052">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2018-19052">
+
+---
+## CVE-2018-18955 ()
+> 
+- [WhatsWrongAndWhy/CVE-2018-18955](https://github.com/WhatsWrongAndWhy/CVE-2018-18955)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2018-18955">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2018-18955">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
+- [scheatkode/CVE-2018-18955](https://github.com/scheatkode/CVE-2018-18955)	<img alt="forks" src="https://img.shields.io/github/forks/scheatkode/CVE-2018-18955">	<img alt="stars" src="https://img.shields.io/github/stars/scheatkode/CVE-2018-18955">
 
 ---
 ## CVE-2018-18912 ()
