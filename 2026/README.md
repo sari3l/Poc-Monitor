@@ -549,6 +549,7 @@
 - [ikow/wp2shell](https://github.com/ikow/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/wp2shell">
 - [JohenLastGen-JLG/wp2shell](https://github.com/JohenLastGen-JLG/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/wp2shell">
 - [codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-wp2shell">
+- [Bhanunamikaze/WP2Shell-CVE-2026-63030-POC](https://github.com/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">
 
 ---
 ## CVE-2026-60121 ()
@@ -928,6 +929,11 @@
 ## CVE-2026-5364 ()
 > 
 - [xxconi/CVE-2026-5364](https://github.com/xxconi/CVE-2026-5364)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5364">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5364">
+
+---
+## CVE-2026-53595 ()
+> 
+- [0xdak/CVE-2026-53595_exploit](https://github.com/0xdak/CVE-2026-53595_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-53595_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-53595_exploit">
 
 ---
 ## CVE-2026-53582 ()

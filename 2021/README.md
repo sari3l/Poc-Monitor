@@ -2918,7 +2918,7 @@
 ## CVE-2021-41073 (2021-09-19T17:15:00)
 > loop_rw_iter in fs/io_uring.c in the Linux kernel 5.10 through 5.14.6 allows local users to gain privileges by using IORING_OP_PROVIDE_BUFFERS to trigger a free of a kernel buffer, as demonstrated by using /proc/<pid>/maps for exploitation.
 - [Live-Hack-CVE/CVE-2021-41073](https://github.com/Live-Hack-CVE/CVE-2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41073">
-- [abhyanandsharma311099/cve2021-41073](https://github.com/abhyanandsharma311099/cve2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/abhyanandsharma311099/cve2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/abhyanandsharma311099/cve2021-41073">
+- [OneFriendlyCoder/cve2021-41073](https://github.com/OneFriendlyCoder/cve2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/OneFriendlyCoder/cve2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/OneFriendlyCoder/cve2021-41073">
 - [chompie1337/Linux_LPE_io_uring_CVE-2021-41073](https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Linux_LPE_io_uring_CVE-2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Linux_LPE_io_uring_CVE-2021-41073">
 - [WhatsWrongAndWhy/CVE-2021-41073](https://github.com/WhatsWrongAndWhy/CVE-2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-41073">
 
@@ -8882,6 +8882,7 @@
 - [letsr00t/CVE-2021-22555](https://github.com/letsr00t/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2021-22555">
 - [glutton-su/CVE-2021-22555](https://github.com/glutton-su/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/glutton-su/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/glutton-su/CVE-2021-22555">
 - [WhatsWrongAndWhy/CVE-2021-22555](https://github.com/WhatsWrongAndWhy/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-22555">
+- [Spydomain/CVE-2021-22555-Poc](https://github.com/Spydomain/CVE-2021-22555-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2021-22555-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2021-22555-Poc">
 
 ---
 ## CVE-2021-22262 (2021-10-05T14:15:00)

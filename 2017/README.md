@@ -1984,6 +1984,11 @@
 ## CVE-2017-1000112 ()
 > 
 - [WhatsWrongAndWhy/CVE-2017-1000112](https://github.com/WhatsWrongAndWhy/CVE-2017-1000112)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2017-1000112">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2017-1000112">
+- [Spydomain/CVE-2017-1000112-PoC](https://github.com/Spydomain/CVE-2017-1000112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2017-1000112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2017-1000112-PoC">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
+- [IT19083124/SNP-Assignment](https://github.com/IT19083124/SNP-Assignment)	<img alt="forks" src="https://img.shields.io/github/forks/IT19083124/SNP-Assignment">	<img alt="stars" src="https://img.shields.io/github/stars/IT19083124/SNP-Assignment">
+- [ol0273st-s/CVE-2017-1000112-Adpated](https://github.com/ol0273st-s/CVE-2017-1000112-Adpated)	<img alt="forks" src="https://img.shields.io/github/forks/ol0273st-s/CVE-2017-1000112-Adpated">	<img alt="stars" src="https://img.shields.io/github/stars/ol0273st-s/CVE-2017-1000112-Adpated">
+- [hikame/docker_escape_pwn](https://github.com/hikame/docker_escape_pwn)	<img alt="forks" src="https://img.shields.io/github/forks/hikame/docker_escape_pwn">	<img alt="stars" src="https://img.shields.io/github/stars/hikame/docker_escape_pwn">
 
 ---
 ## CVE-2017-1000098 (2017-10-05T01:29:00)

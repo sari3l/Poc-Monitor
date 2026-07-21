@@ -5926,6 +5926,7 @@
 ## CVE-2025-47928 ()
 > 
 - [pvharmo2/cve-repro-cve-2025-47928](https://github.com/pvharmo2/cve-repro-cve-2025-47928)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/cve-repro-cve-2025-47928">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/cve-repro-cve-2025-47928">
+- [ghapvharmo/cve-repro-cve-2025-47928](https://github.com/ghapvharmo/cve-repro-cve-2025-47928)	<img alt="forks" src="https://img.shields.io/github/forks/ghapvharmo/cve-repro-cve-2025-47928">	<img alt="stars" src="https://img.shields.io/github/stars/ghapvharmo/cve-repro-cve-2025-47928">
 
 ---
 ## CVE-2025-47917 ()
@@ -10977,6 +10978,11 @@
 ## CVE-2025-10742 ()
 > 
 - [netspecters/CVE-2025-10742](https://github.com/netspecters/CVE-2025-10742)	<img alt="forks" src="https://img.shields.io/github/forks/netspecters/CVE-2025-10742">	<img alt="stars" src="https://img.shields.io/github/stars/netspecters/CVE-2025-10742">
+
+---
+## CVE-2025-10725 ()
+> 
+- [kaiokmo/cve-2025-10725-eda-demo](https://github.com/kaiokmo/cve-2025-10725-eda-demo)	<img alt="forks" src="https://img.shields.io/github/forks/kaiokmo/cve-2025-10725-eda-demo">	<img alt="stars" src="https://img.shields.io/github/stars/kaiokmo/cve-2025-10725-eda-demo">
 
 ---
 ## CVE-2025-10720 ()
