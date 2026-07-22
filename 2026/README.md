@@ -694,6 +694,11 @@
 - [sahmsec/CVE-2026-5615](https://github.com/sahmsec/CVE-2026-5615)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-5615">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-5615">
 
 ---
+## CVE-2026-56139 ()
+> 
+- [oscerd/CVE-2026-56139](https://github.com/oscerd/CVE-2026-56139)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-56139">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-56139">
+
+---
 ## CVE-2026-56121 ()
 > 
 - [BiiTts/CVE-2026-56121-Feast-Unauth-RCE](https://github.com/BiiTts/CVE-2026-56121-Feast-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-56121-Feast-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-56121-Feast-Unauth-RCE">
@@ -707,6 +712,11 @@
 ## CVE-2026-56011 ()
 > 
 - [rootdirective-sec/CVE-2026-56011-Lab](https://github.com/rootdirective-sec/CVE-2026-56011-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-56011-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-56011-Lab">
+
+---
+## CVE-2026-55994 ()
+> 
+- [oscerd/CVE-2026-55994](https://github.com/oscerd/CVE-2026-55994)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-55994">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-55994">
 
 ---
 ## CVE-2026-55993 ()
@@ -1807,6 +1817,11 @@
 ## CVE-2026-45777 ()
 > 
 - [morepoints/CVE-2026-45777](https://github.com/morepoints/CVE-2026-45777)	<img alt="forks" src="https://img.shields.io/github/forks/morepoints/CVE-2026-45777">	<img alt="stars" src="https://img.shields.io/github/stars/morepoints/CVE-2026-45777">
+
+---
+## CVE-2026-45729 ()
+> 
+- [yeahhbean/CVE-2026-45729](https://github.com/yeahhbean/CVE-2026-45729)	<img alt="forks" src="https://img.shields.io/github/forks/yeahhbean/CVE-2026-45729">	<img alt="stars" src="https://img.shields.io/github/stars/yeahhbean/CVE-2026-45729">
 
 ---
 ## CVE-2026-45659 ()
