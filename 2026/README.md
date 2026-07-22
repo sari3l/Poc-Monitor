@@ -3728,6 +3728,7 @@
 ## CVE-2026-33825 ()
 > 
 - [0xBlackash/CVE-2026-33825](https://github.com/0xBlackash/CVE-2026-33825)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-33825">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-33825">
+- [jahithoque/CVE-2026-33825_BlueHammer-POC](https://github.com/jahithoque/CVE-2026-33825_BlueHammer-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jahithoque/CVE-2026-33825_BlueHammer-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jahithoque/CVE-2026-33825_BlueHammer-POC">
 
 ---
 ## CVE-2026-33824 ()
@@ -7160,6 +7161,7 @@
 ## CVE-2026-14266 ()
 > 
 - [hg0434hongzh0/CVE-2026-14266](https://github.com/hg0434hongzh0/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/hg0434hongzh0/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/hg0434hongzh0/CVE-2026-14266">
+- [4minx/CVE-2026-14266](https://github.com/4minx/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-14266">
 
 ---
 ## CVE-2026-1424 ()

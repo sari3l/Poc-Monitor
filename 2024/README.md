@@ -6731,6 +6731,9 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [vesjolyjd/Kaspersky_CVE-2024-3094](https://github.com/vesjolyjd/Kaspersky_CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/vesjolyjd/Kaspersky_CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/vesjolyjd/Kaspersky_CVE-2024-3094">
 - [vnchk1/sec_review_cve-2024-3094](https://github.com/vnchk1/sec_review_cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/vnchk1/sec_review_cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/vnchk1/sec_review_cve-2024-3094">
 - [Preacher98/Report-XZ-Utils-CVE-2024-3094](https://github.com/Preacher98/Report-XZ-Utils-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Preacher98/Report-XZ-Utils-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Preacher98/Report-XZ-Utils-CVE-2024-3094">
+- [x-cmd-build/xz](https://github.com/x-cmd-build/xz)	<img alt="forks" src="https://img.shields.io/github/forks/x-cmd-build/xz">	<img alt="stars" src="https://img.shields.io/github/stars/x-cmd-build/xz">
+- [nnatsopoulos/xz-backdoor-research](https://github.com/nnatsopoulos/xz-backdoor-research)	<img alt="forks" src="https://img.shields.io/github/forks/nnatsopoulos/xz-backdoor-research">	<img alt="stars" src="https://img.shields.io/github/stars/nnatsopoulos/xz-backdoor-research">
+- [stevehenderson/lab_xz_backdoor](https://github.com/stevehenderson/lab_xz_backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/stevehenderson/lab_xz_backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/stevehenderson/lab_xz_backdoor">
 
 ---
 ## CVE-2024-30937 ()
