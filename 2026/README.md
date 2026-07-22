@@ -383,6 +383,11 @@
 - [mlgzackfly/CVE-2026-6643](https://github.com/mlgzackfly/CVE-2026-6643)	<img alt="forks" src="https://img.shields.io/github/forks/mlgzackfly/CVE-2026-6643">	<img alt="stars" src="https://img.shields.io/github/stars/mlgzackfly/CVE-2026-6643">
 
 ---
+## CVE-2026-64600 ()
+> 
+- [0xBlackash/CVE-2026-64600](https://github.com/0xBlackash/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64600">
+
+---
 ## CVE-2026-6433 ()
 > 
 - [murrez/CVE-2026-6433](https://github.com/murrez/CVE-2026-6433)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-6433">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-6433">
