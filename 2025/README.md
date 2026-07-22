@@ -1772,6 +1772,7 @@
 - [MehdiChyhab/CVE-2025-64512-exploit](https://github.com/MehdiChyhab/CVE-2025-64512-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MehdiChyhab/CVE-2025-64512-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MehdiChyhab/CVE-2025-64512-exploit">
 - [joeack123/PoC-for-CVE-2025-64512](https://github.com/joeack123/PoC-for-CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/joeack123/PoC-for-CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/joeack123/PoC-for-CVE-2025-64512">
 - [stoic-crawler/CVE-2025-64512](https://github.com/stoic-crawler/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/stoic-crawler/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/stoic-crawler/CVE-2025-64512">
+- [Cosm3No1de/Bedside.htb_solved](https://github.com/Cosm3No1de/Bedside.htb_solved)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/Bedside.htb_solved">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/Bedside.htb_solved">
 
 ---
 ## CVE-2025-64500 ()
