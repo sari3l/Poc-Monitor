@@ -1414,6 +1414,11 @@
 - [Live-Hack-CVE/CVE-2021-43767](https://github.com/Live-Hack-CVE/CVE-2021-43767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43767">
 
 ---
+## CVE-2021-4376 ()
+> 
+- [DanielKevinn/CVE-2021-4376](https://github.com/DanielKevinn/CVE-2021-4376)	<img alt="forks" src="https://img.shields.io/github/forks/DanielKevinn/CVE-2021-4376">	<img alt="stars" src="https://img.shields.io/github/stars/DanielKevinn/CVE-2021-4376">
+
+---
 ## CVE-2021-4374 ()
 > 
 - [Pranjal6955/cve-2021-4374-test](https://github.com/Pranjal6955/cve-2021-4374-test)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/cve-2021-4374-test">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/cve-2021-4374-test">

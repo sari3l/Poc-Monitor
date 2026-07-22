@@ -474,6 +474,10 @@
 - [mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress](https://github.com/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">
 - [Bhanunamikaze/WP2Shell-CVE-2026-63030-POC](https://github.com/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">
 - [gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc](https://github.com/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-63030-CVE-2026-60137-wp2shell-poc">
+- [raphy76/wp2shell-poc-fulljs](https://github.com/raphy76/wp2shell-poc-fulljs)	<img alt="forks" src="https://img.shields.io/github/forks/raphy76/wp2shell-poc-fulljs">	<img alt="stars" src="https://img.shields.io/github/stars/raphy76/wp2shell-poc-fulljs">
+- [Adrees-Basheer/wp2shell-vulnerability-scanner](https://github.com/Adrees-Basheer/wp2shell-vulnerability-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Adrees-Basheer/wp2shell-vulnerability-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Adrees-Basheer/wp2shell-vulnerability-scanner">
+- [mcipekci/wp2shell](https://github.com/mcipekci/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mcipekci/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mcipekci/wp2shell">
+- [wn-iqbal/wp2shell](https://github.com/wn-iqbal/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/wn-iqbal/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/wn-iqbal/wp2shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -593,6 +597,7 @@
 - [BiiTts/CVE-2026-58138-Conductor-Unauth-RCE](https://github.com/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">
 - [seqra/cve-2026-58138](https://github.com/seqra/cve-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/seqra/cve-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/seqra/cve-2026-58138">
 - [Ch4120N/CVE-2026-58138](https://github.com/Ch4120N/CVE-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-58138">
+- [0xgh057r3c0n/CVE-2026-58138](https://github.com/0xgh057r3c0n/CVE-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-58138">
 
 ---
 ## CVE-2026-58116 ()
