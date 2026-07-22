@@ -2971,6 +2971,7 @@ use after free.
 - [sv3nbeast/CVE-2019-1388](https://github.com/sv3nbeast/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/sv3nbeast/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/sv3nbeast/CVE-2019-1388">
 - [jas502n/CVE-2019-1388](https://github.com/jas502n/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-1388">
 - [jaychouzzk/CVE-2019-1388](https://github.com/jaychouzzk/CVE-2019-1388)	<img alt="forks" src="https://img.shields.io/github/forks/jaychouzzk/CVE-2019-1388">	<img alt="stars" src="https://img.shields.io/github/stars/jaychouzzk/CVE-2019-1388">
+- [Tafloh/CVE-2019-1388-Privilege-Escalation--2021-](https://github.com/Tafloh/CVE-2019-1388-Privilege-Escalation--2021-)	<img alt="forks" src="https://img.shields.io/github/forks/Tafloh/CVE-2019-1388-Privilege-Escalation--2021-">	<img alt="stars" src="https://img.shields.io/github/stars/Tafloh/CVE-2019-1388-Privilege-Escalation--2021-">
 
 ---
 ## CVE-2019-13768 (2023-01-02T23:15:00)
