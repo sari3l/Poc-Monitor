@@ -7946,6 +7946,11 @@ For more details, please review the linked advisory on this CVE.
 - [Elizarfish/CVE-2023-21823](https://github.com/Elizarfish/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/Elizarfish/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/Elizarfish/CVE-2023-21823">
 
 ---
+## CVE-2023-21817 ()
+> 
+- [johnnygreeme/CVE-2023-21817](https://github.com/johnnygreeme/CVE-2023-21817)	<img alt="forks" src="https://img.shields.io/github/forks/johnnygreeme/CVE-2023-21817">	<img alt="stars" src="https://img.shields.io/github/stars/johnnygreeme/CVE-2023-21817">
+
+---
 ## CVE-2023-21768 (2023-01-10T22:15:00)
 > Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability.
 - [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Windows_LPE_AFD_CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Windows_LPE_AFD_CVE-2023-21768">
