@@ -728,6 +728,11 @@
 - [jasetpen/CVE-2025-69428](https://github.com/jasetpen/CVE-2025-69428)	<img alt="forks" src="https://img.shields.io/github/forks/jasetpen/CVE-2025-69428">	<img alt="stars" src="https://img.shields.io/github/stars/jasetpen/CVE-2025-69428">
 
 ---
+## CVE-2025-69419 ()
+> 
+- [Kha-Beleh/PoC-CVE-2025-69419](https://github.com/Kha-Beleh/PoC-CVE-2025-69419)	<img alt="forks" src="https://img.shields.io/github/forks/Kha-Beleh/PoC-CVE-2025-69419">	<img alt="stars" src="https://img.shields.io/github/stars/Kha-Beleh/PoC-CVE-2025-69419">
+
+---
 ## CVE-2025-6934 ()
 > 
 - [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">

@@ -6795,6 +6795,7 @@ and the severity is therefore considered low.
 - [K5LK/CVE-2023-2640-32629](https://github.com/K5LK/CVE-2023-2640-32629)	<img alt="forks" src="https://img.shields.io/github/forks/K5LK/CVE-2023-2640-32629">	<img alt="stars" src="https://img.shields.io/github/stars/K5LK/CVE-2023-2640-32629">
 - [z3usx01/CVE-2023-2640-3262-PoC](https://github.com/z3usx01/CVE-2023-2640-3262-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/z3usx01/CVE-2023-2640-3262-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/z3usx01/CVE-2023-2640-3262-PoC">
 - [amar-imamovic/CVE-2023-2640-CVE-2023-32629-Interactive-PoC](https://github.com/amar-imamovic/CVE-2023-2640-CVE-2023-32629-Interactive-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/amar-imamovic/CVE-2023-2640-CVE-2023-32629-Interactive-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/amar-imamovic/CVE-2023-2640-CVE-2023-32629-Interactive-PoC">
+- [WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629](https://github.com/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629">
 
 ---
 ## CVE-2023-26360 (2023-03-23T20:15:00)
