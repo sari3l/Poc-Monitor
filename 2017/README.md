@@ -2079,6 +2079,7 @@
 - [TheCyberWatchers/CVE-2017-0199-v5.0](https://github.com/TheCyberWatchers/CVE-2017-0199-v5.0)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberWatchers/CVE-2017-0199-v5.0">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberWatchers/CVE-2017-0199-v5.0">
 - [kash-123/CVE-2017-0199](https://github.com/kash-123/CVE-2017-0199)	<img alt="forks" src="https://img.shields.io/github/forks/kash-123/CVE-2017-0199">	<img alt="stars" src="https://img.shields.io/github/stars/kash-123/CVE-2017-0199">
 - [ahmed-tarek22752/RCE-CVE-2017-0199-detection-analysis](https://github.com/ahmed-tarek22752/RCE-CVE-2017-0199-detection-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ahmed-tarek22752/RCE-CVE-2017-0199-detection-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ahmed-tarek22752/RCE-CVE-2017-0199-detection-analysis">
+- [BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant](https://github.com/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant)	<img alt="forks" src="https://img.shields.io/github/forks/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant">	<img alt="stars" src="https://img.shields.io/github/stars/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant">
 
 ---
 ## CVE-2017-0148 (2017-03-17T00:59:00)
