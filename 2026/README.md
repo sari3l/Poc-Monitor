@@ -579,6 +579,11 @@
 - [Pumila03/CVE-2026-6009](https://github.com/Pumila03/CVE-2026-6009)	<img alt="forks" src="https://img.shields.io/github/forks/Pumila03/CVE-2026-6009">	<img alt="stars" src="https://img.shields.io/github/stars/Pumila03/CVE-2026-6009">
 
 ---
+## CVE-2026-59880 ()
+> 
+- [nvth/cve-2026-59880](https://github.com/nvth/cve-2026-59880)	<img alt="forks" src="https://img.shields.io/github/forks/nvth/cve-2026-59880">	<img alt="stars" src="https://img.shields.io/github/stars/nvth/cve-2026-59880">
+
+---
 ## CVE-2026-59827 ()
 > 
 - [c0gnit00/CVE-2026-59827](https://github.com/c0gnit00/CVE-2026-59827)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-59827">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-59827">
