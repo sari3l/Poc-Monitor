@@ -439,6 +439,8 @@
 - [Rezy-Dev/CVE-2018-6574](https://github.com/Rezy-Dev/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Rezy-Dev/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Rezy-Dev/CVE-2018-6574">
 - [r00tpgp/CVE-2018-6574](https://github.com/r00tpgp/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/r00tpgp/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/r00tpgp/CVE-2018-6574">
 - [s-p4rk/CVE-2018-6574](https://github.com/s-p4rk/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/s-p4rk/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/s-p4rk/CVE-2018-6574">
+- [hbxxv/CVE-2018-6574](https://github.com/hbxxv/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/hbxxv/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/hbxxv/CVE-2018-6574">
+- [Saptaktdk/go-get-RCE](https://github.com/Saptaktdk/go-get-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Saptaktdk/go-get-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Saptaktdk/go-get-RCE">
 
 ---
 ## CVE-2018-6537 ()

@@ -1002,6 +1002,11 @@
 - [ossf-cve-benchmark/CVE-2019-5413](https://github.com/ossf-cve-benchmark/CVE-2019-5413)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-5413">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-5413">
 
 ---
+## CVE-2019-5392 ()
+> 
+- [jozliner/CVE-2019-5392-for-Python3](https://github.com/jozliner/CVE-2019-5392-for-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/jozliner/CVE-2019-5392-for-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/jozliner/CVE-2019-5392-for-Python3">
+
+---
 ## CVE-2019-5325 (2023-01-06T16:15:00)
 > CVE was unused by HPE.
 - [Live-Hack-CVE/CVE-2019-5325](https://github.com/Live-Hack-CVE/CVE-2019-5325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5325">
