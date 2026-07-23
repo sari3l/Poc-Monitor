@@ -399,6 +399,11 @@
 - [dinosn/cve-2026-6379](https://github.com/dinosn/cve-2026-6379)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-6379">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-6379">
 
 ---
+## CVE-2026-63766 ()
+> 
+- [0xdak/CVE-2026-63766_exploit](https://github.com/0xdak/CVE-2026-63766_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-63766_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-63766_exploit">
+
+---
 ## CVE-2026-6356 ()
 > 
 - [Penguinsecq/CVE-2026-6356](https://github.com/Penguinsecq/CVE-2026-6356)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6356">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6356">
@@ -716,6 +721,7 @@
 ## CVE-2026-56121 ()
 > 
 - [BiiTts/CVE-2026-56121-Feast-Unauth-RCE](https://github.com/BiiTts/CVE-2026-56121-Feast-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-56121-Feast-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-56121-Feast-Unauth-RCE">
+- [0xdak/CVE-2026-56121_exploit](https://github.com/0xdak/CVE-2026-56121_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-56121_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-56121_exploit">
 
 ---
 ## CVE-2026-56111 ()
@@ -2199,6 +2205,7 @@
 - [DistrictBlauw/Ace3-GhostLock-Preload](https://github.com/DistrictBlauw/Ace3-GhostLock-Preload)	<img alt="forks" src="https://img.shields.io/github/forks/DistrictBlauw/Ace3-GhostLock-Preload">	<img alt="stars" src="https://img.shields.io/github/stars/DistrictBlauw/Ace3-GhostLock-Preload">
 - [soralis0912/CVE-2026-43499-aristotle](https://github.com/soralis0912/CVE-2026-43499-aristotle)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-aristotle">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-aristotle">
 - [soralis0912/CVE-2026-43499-aristotle-apk](https://github.com/soralis0912/CVE-2026-43499-aristotle-apk)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-aristotle-apk">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-aristotle-apk">
+- [Bailan766/rmx3888-cve-2026-43499-config](https://github.com/Bailan766/rmx3888-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/Bailan766/rmx3888-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/Bailan766/rmx3888-cve-2026-43499-config">
 
 ---
 ## CVE-2026-43494 ()
@@ -2409,6 +2416,7 @@
 - [srkyn/nginx-map-risk-audit](https://github.com/srkyn/nginx-map-risk-audit)	<img alt="forks" src="https://img.shields.io/github/forks/srkyn/nginx-map-risk-audit">	<img alt="stars" src="https://img.shields.io/github/stars/srkyn/nginx-map-risk-audit">
 - [suominen/CVE-2026-42533](https://github.com/suominen/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-42533">
 - [seguridadentrerios/CVE-2026-42533](https://github.com/seguridadentrerios/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-42533">
+- [gagaltotal/CVE-2026-42533-nginx](https://github.com/gagaltotal/CVE-2026-42533-nginx)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42533-nginx">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42533-nginx">
 
 ---
 ## CVE-2026-42530 ()
@@ -3925,6 +3933,7 @@
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE">
 - [CerberusMrXi/Langflow-cve-2026-33017-exploit](https://github.com/CerberusMrXi/Langflow-cve-2026-33017-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Langflow-cve-2026-33017-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Langflow-cve-2026-33017-exploit">
 - [Usman0220/CVE-2026-33017-Langflow-RCE](https://github.com/Usman0220/CVE-2026-33017-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Usman0220/CVE-2026-33017-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Usman0220/CVE-2026-33017-Langflow-RCE">
+- [Dynamo2k1/CVE-2026-33017](https://github.com/Dynamo2k1/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Dynamo2k1/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Dynamo2k1/CVE-2026-33017">
 
 ---
 ## CVE-2026-3300 ()
@@ -7599,6 +7608,11 @@
 ## CVE-2026-0594 ()
 > 
 - [m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit">
+
+---
+## CVE-2026-0560 ()
+> 
+- [Max78000/CVE-2026-0560-lollms](https://github.com/Max78000/CVE-2026-0560-lollms)	<img alt="forks" src="https://img.shields.io/github/forks/Max78000/CVE-2026-0560-lollms">	<img alt="stars" src="https://img.shields.io/github/stars/Max78000/CVE-2026-0560-lollms">
 
 ---
 ## CVE-2026-0547 ()
