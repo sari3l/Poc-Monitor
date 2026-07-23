@@ -2491,6 +2491,11 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-50340">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-50340">
 
 ---
+## CVE-2024-50330 ()
+> 
+- [razureink/cve-2024-50330-ivanti_epm_sqli_reproduction](https://github.com/razureink/cve-2024-50330-ivanti_epm_sqli_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-50330-ivanti_epm_sqli_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-50330-ivanti_epm_sqli_reproduction">
+
+---
 ## CVE-2024-50251 (2024-11-09T11:15:00)
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -2639,6 +2644,7 @@ length to be included in the checksum calculation is fully consumed.
 > 
 - [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039)	<img alt="forks" src="https://img.shields.io/github/forks/je5442804/WPTaskScheduler_CVE-2024-49039">	<img alt="stars" src="https://img.shields.io/github/stars/je5442804/WPTaskScheduler_CVE-2024-49039">
 - [Alexandr-bit253/CVE-2024-49039](https://github.com/Alexandr-bit253/CVE-2024-49039)	<img alt="forks" src="https://img.shields.io/github/forks/Alexandr-bit253/CVE-2024-49039">	<img alt="stars" src="https://img.shields.io/github/stars/Alexandr-bit253/CVE-2024-49039">
+- [razureink/cve-2024-49039-task_scheduler_eop_reproduction](https://github.com/razureink/cve-2024-49039-task_scheduler_eop_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-49039-task_scheduler_eop_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-49039-task_scheduler_eop_reproduction">
 
 ---
 ## CVE-2024-49019 ()
@@ -3279,6 +3285,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [mananjain61/PHP-CGI-INTERNAL-RCE](https://github.com/mananjain61/PHP-CGI-INTERNAL-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mananjain61/PHP-CGI-INTERNAL-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mananjain61/PHP-CGI-INTERNAL-RCE">
 - [rayngnpc/CVE-2024-4577-rayng](https://github.com/rayngnpc/CVE-2024-4577-rayng)	<img alt="forks" src="https://img.shields.io/github/forks/rayngnpc/CVE-2024-4577-rayng">	<img alt="stars" src="https://img.shields.io/github/stars/rayngnpc/CVE-2024-4577-rayng">
 - [Kanak-CypherX/cve-2024-4577-lab](https://github.com/Kanak-CypherX/cve-2024-4577-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Kanak-CypherX/cve-2024-4577-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Kanak-CypherX/cve-2024-4577-lab">
+- [razureink/cve-2024-4577-phpcgi_rce_reproduction](https://github.com/razureink/cve-2024-4577-phpcgi_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-4577-phpcgi_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-4577-phpcgi_rce_reproduction">
 
 ---
 ## CVE-2024-4573 ()
@@ -3870,6 +3877,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 ## CVE-2024-43451 ()
 > 
 - [RonF98/CVE-2024-43451-POC](https://github.com/RonF98/CVE-2024-43451-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2024-43451-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2024-43451-POC">
+- [razureink/cve-2024-43451-ntlm_hash_disclosure_reproduction](https://github.com/razureink/cve-2024-43451-ntlm_hash_disclosure_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-43451-ntlm_hash_disclosure_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-43451-ntlm_hash_disclosure_reproduction">
 
 ---
 ## CVE-2024-43425 ()
@@ -4908,6 +4916,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [amfg145/CVE-2024-38077](https://github.com/amfg145/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/amfg145/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/amfg145/CVE-2024-38077">
 - [Accord96/CVE-2024-38077-POC](https://github.com/Accord96/CVE-2024-38077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Accord96/CVE-2024-38077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Accord96/CVE-2024-38077-POC">
 - [Ermensonx/CVE-2024-38077-MadLicense-exploit](https://github.com/Ermensonx/CVE-2024-38077-MadLicense-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ermensonx/CVE-2024-38077-MadLicense-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ermensonx/CVE-2024-38077-MadLicense-exploit">
+- [razureink/cve-2024-38077-madlicense_reproduction](https://github.com/razureink/cve-2024-38077-madlicense_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-38077-madlicense_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-38077-madlicense_reproduction">
 
 ---
 ## CVE-2024-38063 (2024-08-13T18:15:00)
@@ -11404,6 +11413,9 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [0xjessie21/CVE-2024-0012](https://github.com/0xjessie21/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/CVE-2024-0012">
 - [TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC](https://github.com/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">
 - [dcollaoa/cve-2024-0012-gui-poc](https://github.com/dcollaoa/cve-2024-0012-gui-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dcollaoa/cve-2024-0012-gui-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dcollaoa/cve-2024-0012-gui-poc">
+- [razureink/cve-2024-0012_9474-panos_authbypass_reproduction](https://github.com/razureink/cve-2024-0012_9474-panos_authbypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-0012_9474-panos_authbypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-0012_9474-panos_authbypass_reproduction">
+- [Regent8SH/PanOsExploitMultitool](https://github.com/Regent8SH/PanOsExploitMultitool)	<img alt="forks" src="https://img.shields.io/github/forks/Regent8SH/PanOsExploitMultitool">	<img alt="stars" src="https://img.shields.io/github/stars/Regent8SH/PanOsExploitMultitool">
+- [Gr-1m/cve-2024-0012-poc](https://github.com/Gr-1m/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/cve-2024-0012-poc">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)

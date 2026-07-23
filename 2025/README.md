@@ -2308,6 +2308,7 @@
 - [sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study](https://github.com/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study)	<img alt="forks" src="https://img.shields.io/github/forks/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study">	<img alt="stars" src="https://img.shields.io/github/stars/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study">
 - [NetVanguard-cmd/CVE-2025-61882](https://github.com/NetVanguard-cmd/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-61882">
 - [WahyuAndikaPutra/CVE-2025-61882-OracleEBS-RCE](https://github.com/WahyuAndikaPutra/CVE-2025-61882-OracleEBS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WahyuAndikaPutra/CVE-2025-61882-OracleEBS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WahyuAndikaPutra/CVE-2025-61882-OracleEBS-RCE">
+- [razureink/cve-2025-61882-oracle_ebs_rce_reproduction](https://github.com/razureink/cve-2025-61882-oracle_ebs_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-61882-oracle_ebs_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-61882-oracle_ebs_rce_reproduction">
 
 ---
 ## CVE-2025-61777 ()
@@ -3169,6 +3170,7 @@
 - [0xBlackash/CVE-2025-5777](https://github.com/0xBlackash/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-5777">
 - [Anshika2709/Citrixbleed2-CVE-2025-5777](https://github.com/Anshika2709/Citrixbleed2-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Anshika2709/Citrixbleed2-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Anshika2709/Citrixbleed2-CVE-2025-5777">
 - [sentinel-aidefense/CVE-2025-5777](https://github.com/sentinel-aidefense/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-5777">
+- [razureink/cve-2025-5777-citrixbleed2_reproduction](https://github.com/razureink/cve-2025-5777-citrixbleed2_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-5777-citrixbleed2_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-5777-citrixbleed2_reproduction">
 
 ---
 ## CVE-2025-5755 ()
@@ -4380,6 +4382,7 @@
 - [se1zer/Nextjs_Exploit_Tool](https://github.com/se1zer/Nextjs_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/se1zer/Nextjs_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/se1zer/Nextjs_Exploit_Tool">
 - [PedroPLCode/CVE-2025-55182_react2shell_exploit.py](https://github.com/PedroPLCode/CVE-2025-55182_react2shell_exploit.py)	<img alt="forks" src="https://img.shields.io/github/forks/PedroPLCode/CVE-2025-55182_react2shell_exploit.py">	<img alt="stars" src="https://img.shields.io/github/stars/PedroPLCode/CVE-2025-55182_react2shell_exploit.py">
 - [6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-](https://github.com/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-)	<img alt="forks" src="https://img.shields.io/github/forks/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">	<img alt="stars" src="https://img.shields.io/github/stars/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">
+- [razureink/cve-2025-55182-react2shell_reproduction](https://github.com/razureink/cve-2025-55182-react2shell_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-55182-react2shell_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-55182-react2shell_reproduction">
 
 ---
 ## CVE-2025-55130 ()
@@ -8566,6 +8569,7 @@
 - [byteReaper77/CVE-2025-2783](https://github.com/byteReaper77/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-2783">
 - [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
 - [aronfour/CVE-2025-2783](https://github.com/aronfour/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/aronfour/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/aronfour/CVE-2025-2783">
+- [razureink/cve-2025-2783-chrome_sandbox_escape_reproduction](https://github.com/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction">
 
 ---
 ## CVE-2025-27817 ()
@@ -9363,6 +9367,11 @@
 - [Esonhugh/ingressNightmare-CVE-2025-1974-exps](https://github.com/Esonhugh/ingressNightmare-CVE-2025-1974-exps)	<img alt="forks" src="https://img.shields.io/github/forks/Esonhugh/ingressNightmare-CVE-2025-1974-exps">	<img alt="stars" src="https://img.shields.io/github/stars/Esonhugh/ingressNightmare-CVE-2025-1974-exps">
 - [lufeirider/IngressNightmare-PoC](https://github.com/lufeirider/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lufeirider/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lufeirider/IngressNightmare-PoC">
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/IngressNightmare-PoC">
+
+---
+## CVE-2025-24472 ()
+> 
+- [razureink/cve-2025-24472-fortinet_authbypass_reproduction](https://github.com/razureink/cve-2025-24472-fortinet_authbypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-24472-fortinet_authbypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-24472-fortinet_authbypass_reproduction">
 
 ---
 ## CVE-2025-24367 ()
