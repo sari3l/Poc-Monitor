@@ -6157,7 +6157,7 @@
 ---
 ## CVE-2026-23744 ()
 > 
-- [ibreakthingsforaliving/CVE-2026-23744-PoC](https://github.com/ibreakthingsforaliving/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ibreakthingsforaliving/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ibreakthingsforaliving/CVE-2026-23744-PoC">
+- [boroeurnprach/CVE-2026-23744-PoC](https://github.com/boroeurnprach/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-23744-PoC">
 - [rootdirective-sec/CVE-2026-23744-Lab](https://github.com/rootdirective-sec/CVE-2026-23744-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-23744-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-23744-Lab">
 - [suljov/CVE-2026-23744-Remote-Code-Execution-POC](https://github.com/suljov/CVE-2026-23744-Remote-Code-Execution-POC)	<img alt="forks" src="https://img.shields.io/github/forks/suljov/CVE-2026-23744-Remote-Code-Execution-POC">	<img alt="stars" src="https://img.shields.io/github/stars/suljov/CVE-2026-23744-Remote-Code-Execution-POC">
 - [H1sok444/CVE-2026-23744-PoC](https://github.com/H1sok444/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H1sok444/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H1sok444/CVE-2026-23744-PoC">
@@ -6199,6 +6199,7 @@
 - [timgad794/DevHub-HTB-Walkthrough](https://github.com/timgad794/DevHub-HTB-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/timgad794/DevHub-HTB-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/timgad794/DevHub-HTB-Walkthrough">
 - [ozcanpng/CVE-2026-23744](https://github.com/ozcanpng/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-23744">
 - [CerberusMrXi/CVE-2026-23744-MCPJam-Exploit](https://github.com/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit">
+- [nullRoot-Red/CVE-2026-23744](https://github.com/nullRoot-Red/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/nullRoot-Red/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/nullRoot-Red/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
