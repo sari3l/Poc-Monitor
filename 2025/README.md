@@ -2894,7 +2894,7 @@
 - [Twodimensionalitylevelcrossing817/CVE-2025-59287](https://github.com/Twodimensionalitylevelcrossing817/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Twodimensionalitylevelcrossing817/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Twodimensionalitylevelcrossing817/CVE-2025-59287">
 - [N3k0t-dev/PoC-CVE-collection](https://github.com/N3k0t-dev/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/N3k0t-dev/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/N3k0t-dev/PoC-CVE-collection">
 - [M507/CVE-2025-59287-PoC](https://github.com/M507/CVE-2025-59287-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2025-59287-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2025-59287-PoC">
-- [Adel-kaka-dz/cve-2025-59287](https://github.com/Adel-kaka-dz/cve-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Adel-kaka-dz/cve-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Adel-kaka-dz/cve-2025-59287">
+- [Adel-hx0d/cve-2025-59287](https://github.com/Adel-hx0d/cve-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Adel-hx0d/cve-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Adel-hx0d/cve-2025-59287">
 - [mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments](https://github.com/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments">
 - [17patmaks/CVE-2025-59287-Sigma-Rule](https://github.com/17patmaks/CVE-2025-59287-Sigma-Rule)	<img alt="forks" src="https://img.shields.io/github/forks/17patmaks/CVE-2025-59287-Sigma-Rule">	<img alt="stars" src="https://img.shields.io/github/stars/17patmaks/CVE-2025-59287-Sigma-Rule">
 - [gud425/gud425.github.io](https://github.com/gud425/gud425.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/gud425/gud425.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/gud425/gud425.github.io">
@@ -2907,6 +2907,7 @@
 - [GhoStZA-debug/PoC-CVE-collection](https://github.com/GhoStZA-debug/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/GhoStZA-debug/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/GhoStZA-debug/PoC-CVE-collection">
 - [swoon69/CVE-2025-59287-Exercise-Use](https://github.com/swoon69/CVE-2025-59287-Exercise-Use)	<img alt="forks" src="https://img.shields.io/github/forks/swoon69/CVE-2025-59287-Exercise-Use">	<img alt="stars" src="https://img.shields.io/github/stars/swoon69/CVE-2025-59287-Exercise-Use">
 - [DaddyBigFish/CVE-2025-59287-hawktrace](https://github.com/DaddyBigFish/CVE-2025-59287-hawktrace)	<img alt="forks" src="https://img.shields.io/github/forks/DaddyBigFish/CVE-2025-59287-hawktrace">	<img alt="stars" src="https://img.shields.io/github/stars/DaddyBigFish/CVE-2025-59287-hawktrace">
+- [owaset55-crypto/CVE-2025-59287](https://github.com/owaset55-crypto/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/owaset55-crypto/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/owaset55-crypto/CVE-2025-59287">
 
 ---
 ## CVE-2025-59285 ()
@@ -8570,6 +8571,8 @@
 - [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
 - [aronfour/CVE-2025-2783](https://github.com/aronfour/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/aronfour/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/aronfour/CVE-2025-2783">
 - [razureink/cve-2025-2783-chrome_sandbox_escape_reproduction](https://github.com/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction">
+- [ElianGonzi00/CVE-2025-2783](https://github.com/ElianGonzi00/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/ElianGonzi00/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/ElianGonzi00/CVE-2025-2783">
+- [bjrjk/CVE-2025-2783](https://github.com/bjrjk/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2025-2783">
 
 ---
 ## CVE-2025-27817 ()
