@@ -64,6 +64,7 @@
 > 
 - [0xdak/CVE-2026-9198_exploit](https://github.com/0xdak/CVE-2026-9198_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-9198_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-9198_exploit">
 - [ywh-jfellus/CVE-2026-9198](https://github.com/ywh-jfellus/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-9198">
+- [0xgh057r3c0n/CVE-2026-9198](https://github.com/0xgh057r3c0n/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-9198">
 
 ---
 ## CVE-2026-9090 ()
@@ -547,6 +548,7 @@
 > 
 - [imbas007/POC-CVE-2026-60206](https://github.com/imbas007/POC-CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2026-60206">
 - [0xBlackash/CVE-2026-60206](https://github.com/0xBlackash/CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-60206">
+- [tc4dy/CVE-2026-60206-PoC-Exploit](https://github.com/tc4dy/CVE-2026-60206-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-60206-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-60206-PoC-Exploit">
 
 ---
 ## CVE-2026-6018 ()
