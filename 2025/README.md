@@ -8670,6 +8670,7 @@
 > 
 - [Evillm/CVE-2025-27520-PoC](https://github.com/Evillm/CVE-2025-27520-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-27520-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-27520-PoC">
 - [amalpvatayam67/day09-bentoml-deser-lab](https://github.com/amalpvatayam67/day09-bentoml-deser-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day09-bentoml-deser-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day09-bentoml-deser-lab">
+- [electricsheep08/CVE-2025-27520](https://github.com/electricsheep08/CVE-2025-27520)	<img alt="forks" src="https://img.shields.io/github/forks/electricsheep08/CVE-2025-27520">	<img alt="stars" src="https://img.shields.io/github/stars/electricsheep08/CVE-2025-27520">
 
 ---
 ## CVE-2025-27519 ()

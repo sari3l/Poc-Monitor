@@ -1821,6 +1821,7 @@
 - [aexdyhaxor/CVE-2026-46331](https://github.com/aexdyhaxor/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-46331">
 - [yanxinwu946/CVE-2026-46331](https://github.com/yanxinwu946/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/CVE-2026-46331">
 - [MarwahHadi/CVE-2026-46331-pedit-cow](https://github.com/MarwahHadi/CVE-2026-46331-pedit-cow)	<img alt="forks" src="https://img.shields.io/github/forks/MarwahHadi/CVE-2026-46331-pedit-cow">	<img alt="stars" src="https://img.shields.io/github/stars/MarwahHadi/CVE-2026-46331-pedit-cow">
+- [cherrycherrymay/PoC-CVE-2026-46331](https://github.com/cherrycherrymay/PoC-CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/cherrycherrymay/PoC-CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/cherrycherrymay/PoC-CVE-2026-46331">
 
 ---
 ## CVE-2026-4631 ()
@@ -1913,6 +1914,7 @@
 - [ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune](https://github.com/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">
 - [ChanderManiPandey2022/Yellow-Key-Check](https://github.com/ChanderManiPandey2022/Yellow-Key-Check)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/Yellow-Key-Check">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/Yellow-Key-Check">
 - [boobalover7/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">
+- [yellowkey-exploit/YellowKey-Bitlocker](https://github.com/yellowkey-exploit/YellowKey-Bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkey-exploit/YellowKey-Bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkey-exploit/YellowKey-Bitlocker">
 
 ---
 ## CVE-2026-45584 ()
