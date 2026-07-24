@@ -2257,6 +2257,7 @@
 - [soralis0912/CVE-2026-43499-aristotle](https://github.com/soralis0912/CVE-2026-43499-aristotle)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-aristotle">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-aristotle">
 - [soralis0912/CVE-2026-43499-aristotle-apk](https://github.com/soralis0912/CVE-2026-43499-aristotle-apk)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-aristotle-apk">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-aristotle-apk">
 - [Bailan766/rmx3888-cve-2026-43499-config](https://github.com/Bailan766/rmx3888-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/Bailan766/rmx3888-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/Bailan766/rmx3888-cve-2026-43499-config">
+- [mumaosong/cve-2026-43499-CyberMeowfia](https://github.com/mumaosong/cve-2026-43499-CyberMeowfia)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/cve-2026-43499-CyberMeowfia">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/cve-2026-43499-CyberMeowfia">
 
 ---
 ## CVE-2026-43494 ()
