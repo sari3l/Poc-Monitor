@@ -2045,6 +2045,11 @@
 - [hossainshadat/CVE-2025-63419](https://github.com/hossainshadat/CVE-2025-63419)	<img alt="forks" src="https://img.shields.io/github/forks/hossainshadat/CVE-2025-63419">	<img alt="stars" src="https://img.shields.io/github/stars/hossainshadat/CVE-2025-63419">
 
 ---
+## CVE-2025-63408 ()
+> 
+- [s-vx/CVE-2025-63408](https://github.com/s-vx/CVE-2025-63408)	<img alt="forks" src="https://img.shields.io/github/forks/s-vx/CVE-2025-63408">	<img alt="stars" src="https://img.shields.io/github/stars/s-vx/CVE-2025-63408">
+
+---
 ## CVE-2025-63406 ()
 > 
 - [WinDyAlphA/CVE-2025-63406-PoC](https://github.com/WinDyAlphA/CVE-2025-63406-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2025-63406-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2025-63406-PoC">
@@ -4385,6 +4390,7 @@
 - [PedroPLCode/CVE-2025-55182_react2shell_exploit.py](https://github.com/PedroPLCode/CVE-2025-55182_react2shell_exploit.py)	<img alt="forks" src="https://img.shields.io/github/forks/PedroPLCode/CVE-2025-55182_react2shell_exploit.py">	<img alt="stars" src="https://img.shields.io/github/stars/PedroPLCode/CVE-2025-55182_react2shell_exploit.py">
 - [6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-](https://github.com/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-)	<img alt="forks" src="https://img.shields.io/github/forks/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">	<img alt="stars" src="https://img.shields.io/github/stars/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">
 - [razureink/cve-2025-55182-react2shell_reproduction](https://github.com/razureink/cve-2025-55182-react2shell_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-55182-react2shell_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-55182-react2shell_reproduction">
+- [indra-031/React2Shell-Exploit-CVE-2025-55182](https://github.com/indra-031/React2Shell-Exploit-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/indra-031/React2Shell-Exploit-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/indra-031/React2Shell-Exploit-CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
