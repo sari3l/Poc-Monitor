@@ -1126,6 +1126,7 @@
 - [Astrowmist/POC-CVE-2016-10033](https://github.com/Astrowmist/POC-CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/Astrowmist/POC-CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/Astrowmist/POC-CVE-2016-10033">
 - [sealldeveloper/CVE-2016-10033-PoC](https://github.com/sealldeveloper/CVE-2016-10033-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sealldeveloper/CVE-2016-10033-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sealldeveloper/CVE-2016-10033-PoC">
 - [alexander47777/CVE-2016-10033](https://github.com/alexander47777/CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/alexander47777/CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/alexander47777/CVE-2016-10033">
+- [blue-chocolates/CVE-2016-10033](https://github.com/blue-chocolates/CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/blue-chocolates/CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/blue-chocolates/CVE-2016-10033">
 
 ---
 ## CVE-2016-1002 (2016-03-12T15:59:00)
