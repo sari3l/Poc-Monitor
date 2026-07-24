@@ -4671,6 +4671,11 @@
 - [barbaraeivyu/CVE-2025-53786](https://github.com/barbaraeivyu/CVE-2025-53786)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-53786">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-53786">
 
 ---
+## CVE-2025-53779 ()
+> 
+- [razureink/cve-2025-53779-kerberos_bypass_reproduction](https://github.com/razureink/cve-2025-53779-kerberos_bypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-53779-kerberos_bypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-53779-kerberos_bypass_reproduction">
+
+---
 ## CVE-2025-53778 ()
 > 
 - [OxPloited/CVE-2025-53778-Exploit](https://github.com/OxPloited/CVE-2025-53778-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OxPloited/CVE-2025-53778-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OxPloited/CVE-2025-53778-Exploit">
@@ -6547,6 +6552,11 @@
 - [r0otk3r/CVE-2025-4380](https://github.com/r0otk3r/CVE-2025-4380)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-4380">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-4380">
 
 ---
+## CVE-2025-43564 ()
+> 
+- [razureink/cve-2025-43564-tomcat_put_rce_reproduction](https://github.com/razureink/cve-2025-43564-tomcat_put_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-43564-tomcat_put_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-43564-tomcat_put_rce_reproduction">
+
+---
 ## CVE-2025-43541 ()
 > 
 - [crypt0bit/CVE-2025-43541](https://github.com/crypt0bit/CVE-2025-43541)	<img alt="forks" src="https://img.shields.io/github/forks/crypt0bit/CVE-2025-43541">	<img alt="stars" src="https://img.shields.io/github/stars/crypt0bit/CVE-2025-43541">
@@ -7627,6 +7637,7 @@
 - [leehunkoo/hk_CVE-2025-32433](https://github.com/leehunkoo/hk_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/leehunkoo/hk_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/leehunkoo/hk_CVE-2025-32433">
 - [dampedcoast/Exploiting-a-vulnerability-using-reverse-shell](https://github.com/dampedcoast/Exploiting-a-vulnerability-using-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/dampedcoast/Exploiting-a-vulnerability-using-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/dampedcoast/Exploiting-a-vulnerability-using-reverse-shell">
 - [chuzouX/CVE-2025-32433-Exploit-edited](https://github.com/chuzouX/CVE-2025-32433-Exploit-edited)	<img alt="forks" src="https://img.shields.io/github/forks/chuzouX/CVE-2025-32433-Exploit-edited">	<img alt="stars" src="https://img.shields.io/github/stars/chuzouX/CVE-2025-32433-Exploit-edited">
+- [razureink/cve-2025-32433-erlang_ssh_rce_reproduction](https://github.com/razureink/cve-2025-32433-erlang_ssh_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">
 
 ---
 ## CVE-2025-32432 ()
@@ -11273,6 +11284,7 @@
 - [44xo/CVE-2025-0282](https://github.com/44xo/CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/44xo/CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/44xo/CVE-2025-0282">
 - [punitdarji/Ivanti-CVE-2025-0282](https://github.com/punitdarji/Ivanti-CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Ivanti-CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Ivanti-CVE-2025-0282">
 - [B1ack4sh/Blackash-CVE-2025-0282](https://github.com/B1ack4sh/Blackash-CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-0282">
+- [razureink/cve-2025-0282-ivanti_rce_reproduction](https://github.com/razureink/cve-2025-0282-ivanti_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-0282-ivanti_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-0282-ivanti_rce_reproduction">
 
 ---
 ## CVE-2025-0133 ()
