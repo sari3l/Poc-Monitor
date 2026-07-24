@@ -63,6 +63,7 @@
 ## CVE-2026-9198 ()
 > 
 - [0xdak/CVE-2026-9198_exploit](https://github.com/0xdak/CVE-2026-9198_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-9198_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-9198_exploit">
+- [ywh-jfellus/CVE-2026-9198](https://github.com/ywh-jfellus/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-9198">
 
 ---
 ## CVE-2026-9090 ()
@@ -1601,6 +1602,11 @@
 ## CVE-2026-47777 ()
 > 
 - [bekwiner/cve-2026-47777](https://github.com/bekwiner/cve-2026-47777)	<img alt="forks" src="https://img.shields.io/github/forks/bekwiner/cve-2026-47777">	<img alt="stars" src="https://img.shields.io/github/stars/bekwiner/cve-2026-47777">
+
+---
+## CVE-2026-47761 ()
+> 
+- [ange-primiterra/CVE-2026-47761](https://github.com/ange-primiterra/CVE-2026-47761)	<img alt="forks" src="https://img.shields.io/github/forks/ange-primiterra/CVE-2026-47761">	<img alt="stars" src="https://img.shields.io/github/stars/ange-primiterra/CVE-2026-47761">
 
 ---
 ## CVE-2026-47729 ()

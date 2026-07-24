@@ -1171,6 +1171,9 @@
 - [limxuan/ehir-vuln-enterprise-login](https://github.com/limxuan/ehir-vuln-enterprise-login)	<img alt="forks" src="https://img.shields.io/github/forks/limxuan/ehir-vuln-enterprise-login">	<img alt="stars" src="https://img.shields.io/github/stars/limxuan/ehir-vuln-enterprise-login">
 - [Ricardo354/homelab-CVE-2021-44228](https://github.com/Ricardo354/homelab-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Ricardo354/homelab-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Ricardo354/homelab-CVE-2021-44228">
 - [AstralJays/TraditionalJay](https://github.com/AstralJays/TraditionalJay)	<img alt="forks" src="https://img.shields.io/github/forks/AstralJays/TraditionalJay">	<img alt="stars" src="https://img.shields.io/github/stars/AstralJays/TraditionalJay">
+- [razureink/cve-2021-44228-log4shell_rce_reproduction](https://github.com/razureink/cve-2021-44228-log4shell_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2021-44228-log4shell_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2021-44228-log4shell_rce_reproduction">
+- [prmawyer/log4shell-vulnerable-app](https://github.com/prmawyer/log4shell-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/prmawyer/log4shell-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/prmawyer/log4shell-vulnerable-app">
+- [arpitgupta369/log4shell-scanner](https://github.com/arpitgupta369/log4shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/arpitgupta369/log4shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/arpitgupta369/log4shell-scanner">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
