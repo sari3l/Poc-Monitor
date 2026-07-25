@@ -400,6 +400,11 @@
 - [shinthink/CVE-2026-65761](https://github.com/shinthink/CVE-2026-65761)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-65761">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-65761">
 
 ---
+## CVE-2026-65694 ()
+> 
+- [abdugafforov-bobur/CVE-2026-65694-PoC](https://github.com/abdugafforov-bobur/CVE-2026-65694-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/CVE-2026-65694-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/CVE-2026-65694-PoC">
+
+---
 ## CVE-2026-65650 ()
 > 
 - [swornim619/CVE-2026-65650](https://github.com/swornim619/CVE-2026-65650)	<img alt="forks" src="https://img.shields.io/github/forks/swornim619/CVE-2026-65650">	<img alt="stars" src="https://img.shields.io/github/stars/swornim619/CVE-2026-65650">
@@ -514,6 +519,7 @@
 - [razureink/cve-2026-63030_60137-wordpress_rce_reproduction](https://github.com/razureink/cve-2026-63030_60137-wordpress_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-63030_60137-wordpress_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-63030_60137-wordpress_rce_reproduction">
 - [shinthink/CVE-2026-63030](https://github.com/shinthink/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-63030">
 - [Giangdurian/CVE-2026-63030-CVE-2026-60137](https://github.com/Giangdurian/CVE-2026-63030-CVE-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-63030-CVE-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-63030-CVE-2026-60137">
+- [imXur/WordPress-CVE-2026-63030-Analysis](https://github.com/imXur/WordPress-CVE-2026-63030-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/imXur/WordPress-CVE-2026-63030-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/imXur/WordPress-CVE-2026-63030-Analysis">
 
 ---
 ## CVE-2026-6279 ()
@@ -975,6 +981,7 @@
 ## CVE-2026-54121 ()
 > 
 - [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/aniqfakhrul/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/aniqfakhrul/CVE-2026-54121">
+- [0xBlackash/CVE-2026-54121](https://github.com/0xBlackash/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-54121">
 
 ---
 ## CVE-2026-5411 ()
@@ -7282,6 +7289,7 @@
 > 
 - [hg0434hongzh0/CVE-2026-14266](https://github.com/hg0434hongzh0/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/hg0434hongzh0/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/hg0434hongzh0/CVE-2026-14266">
 - [4minx/CVE-2026-14266](https://github.com/4minx/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-14266">
+- [liyuxuan504-byte/CVE-2026-14266](https://github.com/liyuxuan504-byte/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/liyuxuan504-byte/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/liyuxuan504-byte/CVE-2026-14266">
 
 ---
 ## CVE-2026-1424 ()
