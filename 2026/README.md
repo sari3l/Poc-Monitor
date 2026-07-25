@@ -4184,6 +4184,7 @@
 ## CVE-2026-32194 ()
 > 
 - [z3r0h3ro/CVE-2026-32194-POC](https://github.com/z3r0h3ro/CVE-2026-32194-POC)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-32194-POC">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-32194-POC">
+- [HORKimhab/CVE-2026-32194](https://github.com/HORKimhab/CVE-2026-32194)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-32194">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-32194">
 
 ---
 ## CVE-2026-32136 ()
@@ -5494,6 +5495,11 @@
 ## CVE-2026-26221 ()
 > 
 - [mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE">
+
+---
+## CVE-2026-26216 ()
+> 
+- [joaovicdev/EXPLOIT-CVE-2026-26216](https://github.com/joaovicdev/EXPLOIT-CVE-2026-26216)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-26216">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-26216">
 
 ---
 ## CVE-2026-26215 ()
