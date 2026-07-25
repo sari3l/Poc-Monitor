@@ -2850,6 +2850,11 @@
 - [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092)	<img alt="forks" src="https://img.shields.io/github/forks/g0w6y/CVE-2026-4092">	<img alt="stars" src="https://img.shields.io/github/stars/g0w6y/CVE-2026-4092">
 
 ---
+## CVE-2026-40901 ()
+> 
+- [joaovicdev/EXPLOIT-CVE-2026-40901](https://github.com/joaovicdev/EXPLOIT-CVE-2026-40901)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-40901">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-40901">
+
+---
 ## CVE-2026-40887 ()
 > 
 - [thecodeb0ss/CVE-2026-40887](https://github.com/thecodeb0ss/CVE-2026-40887)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-40887">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-40887">
@@ -6082,6 +6087,7 @@
 - [kyukazamiqq/CVE-2026-24061](https://github.com/kyukazamiqq/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/CVE-2026-24061">
 - [harygovind/CVE-2026-24061](https://github.com/harygovind/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/harygovind/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/harygovind/CVE-2026-24061">
 - [stoerti2/Abyssal](https://github.com/stoerti2/Abyssal)	<img alt="forks" src="https://img.shields.io/github/forks/stoerti2/Abyssal">	<img alt="stars" src="https://img.shields.io/github/stars/stoerti2/Abyssal">
+- [s-vx/CVE-2026-24061](https://github.com/s-vx/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/s-vx/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/s-vx/CVE-2026-24061">
 
 ---
 ## CVE-2026-2406 ()
