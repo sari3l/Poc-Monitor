@@ -1157,6 +1157,11 @@
 - [Live-Hack-CVE/CVE-2020-5232](https://github.com/Live-Hack-CVE/CVE-2020-5232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5232">
 
 ---
+## CVE-2020-5148 ()
+> 
+- [l0lsec/CVE-2020-5148](https://github.com/l0lsec/CVE-2020-5148)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/CVE-2020-5148">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/CVE-2020-5148">
+
+---
 ## CVE-2020-5142 ()
 > 
 - [hackerlawyer/CVE-2020-5142-POC-MB](https://github.com/hackerlawyer/CVE-2020-5142-POC-MB)	<img alt="forks" src="https://img.shields.io/github/forks/hackerlawyer/CVE-2020-5142-POC-MB">	<img alt="stars" src="https://img.shields.io/github/stars/hackerlawyer/CVE-2020-5142-POC-MB">
