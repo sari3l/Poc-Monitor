@@ -565,6 +565,7 @@
 - [imbas007/POC-CVE-2026-60206](https://github.com/imbas007/POC-CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2026-60206">
 - [0xBlackash/CVE-2026-60206](https://github.com/0xBlackash/CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-60206">
 - [tc4dy/CVE-2026-60206-PoC-Exploit](https://github.com/tc4dy/CVE-2026-60206-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-60206-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-60206-PoC-Exploit">
+- [Debajyoti0-0/CVE-2026-60206](https://github.com/Debajyoti0-0/CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2026-60206">
 
 ---
 ## CVE-2026-6018 ()
@@ -7125,6 +7126,11 @@
 ## CVE-2026-1729 ()
 > 
 - [ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass](https://github.com/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">
+
+---
+## CVE-2026-16723 ()
+> 
+- [HORKimhab/CVE-2026-16723](https://github.com/HORKimhab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-16723">
 
 ---
 ## CVE-2026-1668 ()
