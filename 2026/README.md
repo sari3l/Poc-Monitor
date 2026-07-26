@@ -390,6 +390,11 @@
 - [mlgzackfly/CVE-2026-6643](https://github.com/mlgzackfly/CVE-2026-6643)	<img alt="forks" src="https://img.shields.io/github/forks/mlgzackfly/CVE-2026-6643">	<img alt="stars" src="https://img.shields.io/github/stars/mlgzackfly/CVE-2026-6643">
 
 ---
+## CVE-2026-66012 ()
+> 
+- [Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization](https://github.com/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization">
+
+---
 ## CVE-2026-65971 ()
 > 
 - [BiiTts/POC-CVE-2026-65971](https://github.com/BiiTts/POC-CVE-2026-65971)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/POC-CVE-2026-65971">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/POC-CVE-2026-65971">
@@ -650,7 +655,7 @@
 ---
 ## CVE-2026-58480 ()
 > 
-- [shinthink/CVE-2026-58480-Blocksy-Companion-Pro-RCE](https://github.com/shinthink/CVE-2026-58480-Blocksy-Companion-Pro-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-58480-Blocksy-Companion-Pro-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-58480-Blocksy-Companion-Pro-RCE">
+- [shinthink/CVE-2026-58480](https://github.com/shinthink/CVE-2026-58480)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-58480">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-58480">
 
 ---
 ## CVE-2026-58457 ()
@@ -7181,6 +7186,11 @@
 ## CVE-2026-16219 ()
 > 
 - [HELLBOY3110/cve-2026-16219-croogo-lab](https://github.com/HELLBOY3110/cve-2026-16219-croogo-lab)	<img alt="forks" src="https://img.shields.io/github/forks/HELLBOY3110/cve-2026-16219-croogo-lab">	<img alt="stars" src="https://img.shields.io/github/stars/HELLBOY3110/cve-2026-16219-croogo-lab">
+
+---
+## CVE-2026-15981 ()
+> 
+- [Nxploited/CVE-2026-15981](https://github.com/Nxploited/CVE-2026-15981)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-15981">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-15981">
 
 ---
 ## CVE-2026-1581 ()
