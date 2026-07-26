@@ -702,6 +702,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-6783 ()
 > 
 - [HORKimhab/CVE-2024-6783](https://github.com/HORKimhab/CVE-2024-6783)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2024-6783">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2024-6783">
+- [bio/vue-template-compiler-patched](https://github.com/bio/vue-template-compiler-patched)	<img alt="forks" src="https://img.shields.io/github/forks/bio/vue-template-compiler-patched">	<img alt="stars" src="https://img.shields.io/github/stars/bio/vue-template-compiler-patched">
 
 ---
 ## CVE-2024-6782 (2024-08-06T04:16:00)
