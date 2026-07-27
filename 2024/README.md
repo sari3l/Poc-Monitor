@@ -3813,6 +3813,8 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [J1nKsC/CVE-2024-4367_test](https://github.com/J1nKsC/CVE-2024-4367_test)	<img alt="forks" src="https://img.shields.io/github/forks/J1nKsC/CVE-2024-4367_test">	<img alt="stars" src="https://img.shields.io/github/stars/J1nKsC/CVE-2024-4367_test">
 - [Nishab-Khatiwada/cve_2024_4367_poc.pdf](https://github.com/Nishab-Khatiwada/cve_2024_4367_poc.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/Nishab-Khatiwada/cve_2024_4367_poc.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/Nishab-Khatiwada/cve_2024_4367_poc.pdf">
 - [veronimo669/pdf.js-CVE-2024-4367](https://github.com/veronimo669/pdf.js-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/veronimo669/pdf.js-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/veronimo669/pdf.js-CVE-2024-4367">
+- [yuimamur/CVE-2024-4367-hands-on-01](https://github.com/yuimamur/CVE-2024-4367-hands-on-01)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on-01">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on-01">
+- [yuimamur/CVE-2024-4367-hands-on](https://github.com/yuimamur/CVE-2024-4367-hands-on)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on">
 
 ---
 ## CVE-2024-43639 ()
