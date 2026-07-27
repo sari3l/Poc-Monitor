@@ -625,6 +625,7 @@
 - [Adrees-Basheer/wp2shell-vulnerability-scanner](https://github.com/Adrees-Basheer/wp2shell-vulnerability-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Adrees-Basheer/wp2shell-vulnerability-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Adrees-Basheer/wp2shell-vulnerability-scanner">
 - [mcipekci/wp2shell](https://github.com/mcipekci/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mcipekci/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mcipekci/wp2shell">
 - [Iqbalx7/wp2shell](https://github.com/Iqbalx7/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Iqbalx7/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Iqbalx7/wp2shell">
+- [Dungsocool/CVE-2026-60137_CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137_CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137_CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137_CVE-2026-63030">
 
 ---
 ## CVE-2026-60121 ()
@@ -679,6 +680,7 @@
 - [seqra/cve-2026-58138](https://github.com/seqra/cve-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/seqra/cve-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/seqra/cve-2026-58138">
 - [Ch4120N/CVE-2026-58138](https://github.com/Ch4120N/CVE-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-58138">
 - [0xgh057r3c0n/CVE-2026-58138](https://github.com/0xgh057r3c0n/CVE-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-58138">
+- [Procjevt/CVE-2026-58138](https://github.com/Procjevt/CVE-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/Procjevt/CVE-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/Procjevt/CVE-2026-58138">
 
 ---
 ## CVE-2026-58116 ()
@@ -1579,6 +1581,13 @@
 - [citruscitruscitruscitruscitrusci/CVE-2026-48611-poc](https://github.com/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc)	<img alt="forks" src="https://img.shields.io/github/forks/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">	<img alt="stars" src="https://img.shields.io/github/stars/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">
 - [Diznev/CVE-2026-48611-EXPLOIT](https://github.com/Diznev/CVE-2026-48611-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Diznev/CVE-2026-48611-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Diznev/CVE-2026-48611-EXPLOIT">
 - [wanmywan/CVE-2026-48611-phpBB](https://github.com/wanmywan/CVE-2026-48611-phpBB)	<img alt="forks" src="https://img.shields.io/github/forks/wanmywan/CVE-2026-48611-phpBB">	<img alt="stars" src="https://img.shields.io/github/stars/wanmywan/CVE-2026-48611-phpBB">
+
+---
+## CVE-2026-4861 ()
+> 
+- [HORKimhab/CVE-2026-4861](https://github.com/HORKimhab/CVE-2026-4861)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-4861">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-4861">
+- [wanmywan/CVE-2026-48611-phpBB](https://github.com/wanmywan/CVE-2026-48611-phpBB)	<img alt="forks" src="https://img.shields.io/github/forks/wanmywan/CVE-2026-48611-phpBB">	<img alt="stars" src="https://img.shields.io/github/stars/wanmywan/CVE-2026-48611-phpBB">
+- [Diznev/CVE-2026-48611-EXPLOIT](https://github.com/Diznev/CVE-2026-48611-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Diznev/CVE-2026-48611-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Diznev/CVE-2026-48611-EXPLOIT">
 
 ---
 ## CVE-2026-48595 ()
