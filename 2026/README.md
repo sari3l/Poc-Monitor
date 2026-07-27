@@ -385,6 +385,21 @@
 - [nightcorefan94/CVE-2026-6770](https://github.com/nightcorefan94/CVE-2026-6770)	<img alt="forks" src="https://img.shields.io/github/forks/nightcorefan94/CVE-2026-6770">	<img alt="stars" src="https://img.shields.io/github/stars/nightcorefan94/CVE-2026-6770">
 
 ---
+## CVE-2026-66731 ()
+> 
+- [theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash](https://github.com/theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash">
+
+---
+## CVE-2026-66730 ()
+> 
+- [theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser](https://github.com/theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser">
+
+---
+## CVE-2026-66729 ()
+> 
+- [theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash](https://github.com/theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash">
+
+---
 ## CVE-2026-666 ()
 > 
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
@@ -1271,6 +1286,7 @@
 > 
 - [HORKimhab/CVE-2026-50522](https://github.com/HORKimhab/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50522">
 - [4minx/CVE-2026-50522](https://github.com/4minx/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-50522">
+- [ChPratik/CVE-2026-50522](https://github.com/ChPratik/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-50522">
 
 ---
 ## CVE-2026-50507 ()
@@ -2357,6 +2373,7 @@
 - [dnlid/CVE-2026-43499](https://github.com/dnlid/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/dnlid/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/dnlid/CVE-2026-43499">
 - [soralis0912/CVE-2026-43499-pmg110-root](https://github.com/soralis0912/CVE-2026-43499-pmg110-root)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-pmg110-root">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-pmg110-root">
 - [soralis0912/CVE-2026-43499-warhol-root](https://github.com/soralis0912/CVE-2026-43499-warhol-root)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-warhol-root">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-warhol-root">
+- [KawaiiHachimi/CVE-2026-43499-pgp110](https://github.com/KawaiiHachimi/CVE-2026-43499-pgp110)	<img alt="forks" src="https://img.shields.io/github/forks/KawaiiHachimi/CVE-2026-43499-pgp110">	<img alt="stars" src="https://img.shields.io/github/stars/KawaiiHachimi/CVE-2026-43499-pgp110">
 
 ---
 ## CVE-2026-43494 ()

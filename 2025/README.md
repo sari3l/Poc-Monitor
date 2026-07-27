@@ -9198,6 +9198,7 @@
 ## CVE-2025-24990 ()
 > 
 - [moiz-2x/CVE-2025-24990_POC](https://github.com/moiz-2x/CVE-2025-24990_POC)	<img alt="forks" src="https://img.shields.io/github/forks/moiz-2x/CVE-2025-24990_POC">	<img alt="stars" src="https://img.shields.io/github/stars/moiz-2x/CVE-2025-24990_POC">
+- [sentinel-aidefense/CVE-2025-24990](https://github.com/sentinel-aidefense/CVE-2025-24990)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-24990">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-24990">
 
 ---
 ## CVE-2025-24971 ()
