@@ -3054,6 +3054,11 @@
 - [rva3/CVE-2026-40003](https://github.com/rva3/CVE-2026-40003)	<img alt="forks" src="https://img.shields.io/github/forks/rva3/CVE-2026-40003">	<img alt="stars" src="https://img.shields.io/github/stars/rva3/CVE-2026-40003">
 
 ---
+## CVE-2026-40000 ()
+> 
+- [Skorpion96/CVE-2026-40000](https://github.com/Skorpion96/CVE-2026-40000)	<img alt="forks" src="https://img.shields.io/github/forks/Skorpion96/CVE-2026-40000">	<img alt="stars" src="https://img.shields.io/github/stars/Skorpion96/CVE-2026-40000">
+
+---
 ## CVE-2026-39987 ()
 > 
 - [0xBlackash/CVE-2026-39987](https://github.com/0xBlackash/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-39987">
@@ -3092,6 +3097,11 @@
 ## CVE-2026-39912 ()
 > 
 - [Chocapikk/CVE-2026-39912](https://github.com/Chocapikk/CVE-2026-39912)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2026-39912">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2026-39912">
+
+---
+## CVE-2026-39875 ()
+> 
+- [mac-123456789-lab/CVE-2026-39875-macOS-CUPS-LPE](https://github.com/mac-123456789-lab/CVE-2026-39875-macOS-CUPS-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/mac-123456789-lab/CVE-2026-39875-macOS-CUPS-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/mac-123456789-lab/CVE-2026-39875-macOS-CUPS-LPE">
 
 ---
 ## CVE-2026-39866 ()

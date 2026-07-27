@@ -1775,6 +1775,7 @@
 - [joeack123/PoC-for-CVE-2025-64512](https://github.com/joeack123/PoC-for-CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/joeack123/PoC-for-CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/joeack123/PoC-for-CVE-2025-64512">
 - [stoic-crawler/CVE-2025-64512](https://github.com/stoic-crawler/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/stoic-crawler/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/stoic-crawler/CVE-2025-64512">
 - [Cosm3No1de/Bedside.htb_solved](https://github.com/Cosm3No1de/Bedside.htb_solved)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/Bedside.htb_solved">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/Bedside.htb_solved">
+- [saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-](https://github.com/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">
 
 ---
 ## CVE-2025-64500 ()
