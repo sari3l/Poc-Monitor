@@ -469,6 +469,11 @@ SCM accounting on the io_uring side unnecessary.
 - [wrv/cve-2023-5217-poc](https://github.com/wrv/cve-2023-5217-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wrv/cve-2023-5217-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wrv/cve-2023-5217-poc">
 
 ---
+## CVE-2023-52076 ()
+> 
+- [Groppoxx/CVE-2023-52076-PoC](https://github.com/Groppoxx/CVE-2023-52076-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Groppoxx/CVE-2023-52076-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Groppoxx/CVE-2023-52076-PoC">
+
+---
 ## CVE-2023-5204 (2023-10-19T06:15:00)
 > The ChatBot plugin for WordPress is vulnerable to SQL Injection via the $strid parameter in versions up to, and including, 4.8.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [RandomRobbieBF/CVE-2023-5204](https://github.com/RandomRobbieBF/CVE-2023-5204)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5204">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5204">
