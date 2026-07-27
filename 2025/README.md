@@ -4392,6 +4392,7 @@
 - [6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-](https://github.com/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-)	<img alt="forks" src="https://img.shields.io/github/forks/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">	<img alt="stars" src="https://img.shields.io/github/stars/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">
 - [razureink/cve-2025-55182-react2shell_reproduction](https://github.com/razureink/cve-2025-55182-react2shell_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-55182-react2shell_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-55182-react2shell_reproduction">
 - [indra-031/React2Shell-Exploit-CVE-2025-55182](https://github.com/indra-031/React2Shell-Exploit-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/indra-031/React2Shell-Exploit-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/indra-031/React2Shell-Exploit-CVE-2025-55182">
+- [Phucc29/CVE-2025-55182](https://github.com/Phucc29/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Phucc29/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Phucc29/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
