@@ -703,6 +703,11 @@
 - [CerberusMrXi/Flowise-CVE-2026-58057-exploit](https://github.com/CerberusMrXi/Flowise-CVE-2026-58057-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Flowise-CVE-2026-58057-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Flowise-CVE-2026-58057-exploit">
 
 ---
+## CVE-2026-57973 ()
+> 
+- [riddhimaan-sth404/CVE-2026-57973](https://github.com/riddhimaan-sth404/CVE-2026-57973)	<img alt="forks" src="https://img.shields.io/github/forks/riddhimaan-sth404/CVE-2026-57973">	<img alt="stars" src="https://img.shields.io/github/stars/riddhimaan-sth404/CVE-2026-57973">
+
+---
 ## CVE-2026-57850 ()
 > 
 - [sn0x-sharma/CVE-2026-57850](https://github.com/sn0x-sharma/CVE-2026-57850)	<img alt="forks" src="https://img.shields.io/github/forks/sn0x-sharma/CVE-2026-57850">	<img alt="stars" src="https://img.shields.io/github/stars/sn0x-sharma/CVE-2026-57850">
@@ -2349,6 +2354,9 @@
 - [No-22-Github/UnPlus](https://github.com/No-22-Github/UnPlus)	<img alt="forks" src="https://img.shields.io/github/forks/No-22-Github/UnPlus">	<img alt="stars" src="https://img.shields.io/github/stars/No-22-Github/UnPlus">
 - [woshimaniubi8/CVE-2026-43499-root-KernelSU](https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU)	<img alt="forks" src="https://img.shields.io/github/forks/woshimaniubi8/CVE-2026-43499-root-KernelSU">	<img alt="stars" src="https://img.shields.io/github/stars/woshimaniubi8/CVE-2026-43499-root-KernelSU">
 - [fusiondrive/CVE-2026-43499-S24U](https://github.com/fusiondrive/CVE-2026-43499-S24U)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-S24U">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-S24U">
+- [dnlid/CVE-2026-43499](https://github.com/dnlid/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/dnlid/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/dnlid/CVE-2026-43499">
+- [soralis0912/CVE-2026-43499-pmg110-root](https://github.com/soralis0912/CVE-2026-43499-pmg110-root)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-pmg110-root">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-pmg110-root">
+- [soralis0912/CVE-2026-43499-warhol-root](https://github.com/soralis0912/CVE-2026-43499-warhol-root)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-warhol-root">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-warhol-root">
 
 ---
 ## CVE-2026-43494 ()
