@@ -6015,6 +6015,7 @@
 - [H3XploR/Exploit_CVE-2025-47812](https://github.com/H3XploR/Exploit_CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/H3XploR/Exploit_CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/H3XploR/Exploit_CVE-2025-47812">
 - [AmogelangMongwaketse/cs50-final-project](https://github.com/AmogelangMongwaketse/cs50-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/AmogelangMongwaketse/cs50-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/AmogelangMongwaketse/cs50-final-project">
 - [0xS4N4TG/CVE-2025-47812](https://github.com/0xS4N4TG/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/0xS4N4TG/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/0xS4N4TG/CVE-2025-47812">
+- [d3vn0mi/CVE-2025-471812-POC](https://github.com/d3vn0mi/CVE-2025-471812-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2025-471812-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2025-471812-POC">
 
 ---
 ## CVE-2025-47810 ()
