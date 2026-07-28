@@ -2627,6 +2627,8 @@
 - [seguridadentrerios/CVE-2026-42533](https://github.com/seguridadentrerios/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-42533">
 - [gagaltotal/CVE-2026-42533-nginx](https://github.com/gagaltotal/CVE-2026-42533-nginx)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42533-nginx">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42533-nginx">
 - [jelasin/CVE-2026-42533](https://github.com/jelasin/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42533">
+- [ChPratik/NGINX_2026_CVE_Bundle_CTI_Report](https://github.com/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">
+- [imbas007/CVE-2026-42533](https://github.com/imbas007/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-42533">
 
 ---
 ## CVE-2026-42530 ()
@@ -2882,6 +2884,7 @@
 ## CVE-2026-41179 ()
 > 
 - [pssec-io/CVE-2026-41179](https://github.com/pssec-io/CVE-2026-41179)	<img alt="forks" src="https://img.shields.io/github/forks/pssec-io/CVE-2026-41179">	<img alt="stars" src="https://img.shields.io/github/stars/pssec-io/CVE-2026-41179">
+- [s-vx/CVE-2026-41179](https://github.com/s-vx/CVE-2026-41179)	<img alt="forks" src="https://img.shields.io/github/forks/s-vx/CVE-2026-41179">	<img alt="stars" src="https://img.shields.io/github/stars/s-vx/CVE-2026-41179">
 
 ---
 ## CVE-2026-41177 ()
