@@ -422,6 +422,11 @@
 - [BiiTts/POC-CVE-2026-65971](https://github.com/BiiTts/POC-CVE-2026-65971)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/POC-CVE-2026-65971">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/POC-CVE-2026-65971">
 
 ---
+## CVE-2026-65893 ()
+> 
+- [CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894](https://github.com/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894)	<img alt="forks" src="https://img.shields.io/github/forks/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894">	<img alt="stars" src="https://img.shields.io/github/stars/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894">
+
+---
 ## CVE-2026-65761 ()
 > 
 - [shinthink/CVE-2026-65761](https://github.com/shinthink/CVE-2026-65761)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-65761">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-65761">
@@ -589,6 +594,7 @@
 ## CVE-2026-61511 ()
 > 
 - [HORKimhab/CVE-2026-61511](https://github.com/HORKimhab/CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-61511">
+- [puj790201-lab/cve-2026-61511](https://github.com/puj790201-lab/cve-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/puj790201-lab/cve-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/puj790201-lab/cve-2026-61511">
 
 ---
 ## CVE-2026-6145 ()
@@ -675,6 +681,11 @@
 ## CVE-2026-6009 ()
 > 
 - [Pumila03/CVE-2026-6009](https://github.com/Pumila03/CVE-2026-6009)	<img alt="forks" src="https://img.shields.io/github/forks/Pumila03/CVE-2026-6009">	<img alt="stars" src="https://img.shields.io/github/stars/Pumila03/CVE-2026-6009">
+
+---
+## CVE-2026-59891 ()
+> 
+- [gyubin02/cve-2026-59891-control-lab](https://github.com/gyubin02/cve-2026-59891-control-lab)	<img alt="forks" src="https://img.shields.io/github/forks/gyubin02/cve-2026-59891-control-lab">	<img alt="stars" src="https://img.shields.io/github/stars/gyubin02/cve-2026-59891-control-lab">
 
 ---
 ## CVE-2026-59880 ()
@@ -1064,6 +1075,11 @@
 ## CVE-2026-54088 ()
 > 
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
+
+---
+## CVE-2026-53921 ()
+> 
+- [0xBlackash/CVE-2026-53921](https://github.com/0xBlackash/CVE-2026-53921)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-53921">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-53921">
 
 ---
 ## CVE-2026-53913 ()
