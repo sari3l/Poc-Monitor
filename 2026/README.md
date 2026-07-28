@@ -70,6 +70,7 @@
 - [0xdak/CVE-2026-9198_exploit](https://github.com/0xdak/CVE-2026-9198_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-9198_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-9198_exploit">
 - [ywh-jfellus/CVE-2026-9198](https://github.com/ywh-jfellus/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-9198">
 - [0xgh057r3c0n/CVE-2026-9198](https://github.com/0xgh057r3c0n/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-9198">
+- [samael0x4/CVE-2026-9198](https://github.com/samael0x4/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/samael0x4/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/samael0x4/CVE-2026-9198">
 
 ---
 ## CVE-2026-9090 ()
@@ -447,6 +448,7 @@
 - [HORKimhab/CVE-2026-64600](https://github.com/HORKimhab/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64600">
 - [Debajyoti0-0/CVE-2026-64600](https://github.com/Debajyoti0-0/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2026-64600">
 - [vulnquest58/VQ-RefluxCore](https://github.com/vulnquest58/VQ-RefluxCore)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/VQ-RefluxCore">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/VQ-RefluxCore">
+- [bha-vin/CVE-2026-64600-Exploit](https://github.com/bha-vin/CVE-2026-64600-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bha-vin/CVE-2026-64600-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bha-vin/CVE-2026-64600-Exploit">
 
 ---
 ## CVE-2026-6433 ()
@@ -1127,6 +1129,11 @@
 - [ndouglas-cloudsmith/CVE-2026-53359](https://github.com/ndouglas-cloudsmith/CVE-2026-53359)	<img alt="forks" src="https://img.shields.io/github/forks/ndouglas-cloudsmith/CVE-2026-53359">	<img alt="stars" src="https://img.shields.io/github/stars/ndouglas-cloudsmith/CVE-2026-53359">
 - [x024n/almalinux-januscape-mitigation](https://github.com/x024n/almalinux-januscape-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/x024n/almalinux-januscape-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/x024n/almalinux-januscape-mitigation">
 - [xj2268-TA/KVM-Januscape](https://github.com/xj2268-TA/KVM-Januscape)	<img alt="forks" src="https://img.shields.io/github/forks/xj2268-TA/KVM-Januscape">	<img alt="stars" src="https://img.shields.io/github/stars/xj2268-TA/KVM-Januscape">
+
+---
+## CVE-2026-53264 ()
+> 
+- [HORKimhab/CVE-2026-53264](https://github.com/HORKimhab/CVE-2026-53264)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53264">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53264">
 
 ---
 ## CVE-2026-52943 ()
@@ -7374,6 +7381,11 @@
 ## CVE-2026-14871 ()
 > 
 - [JFOZ1010/CVE-2026-14871](https://github.com/JFOZ1010/CVE-2026-14871)	<img alt="forks" src="https://img.shields.io/github/forks/JFOZ1010/CVE-2026-14871">	<img alt="stars" src="https://img.shields.io/github/stars/JFOZ1010/CVE-2026-14871">
+
+---
+## CVE-2026-14856 ()
+> 
+- [jonas-fernandez-as/CVE-2026-14856-TastyIgniter](https://github.com/jonas-fernandez-as/CVE-2026-14856-TastyIgniter)	<img alt="forks" src="https://img.shields.io/github/forks/jonas-fernandez-as/CVE-2026-14856-TastyIgniter">	<img alt="stars" src="https://img.shields.io/github/stars/jonas-fernandez-as/CVE-2026-14856-TastyIgniter">
 
 ---
 ## CVE-2026-14762 ()

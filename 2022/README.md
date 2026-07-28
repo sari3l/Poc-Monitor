@@ -26884,6 +26884,11 @@ the client's API server credentials to third parties.
 - [Le1a/CVE-2022-30040](https://github.com/Le1a/CVE-2022-30040)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2022-30040">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2022-30040">
 
 ---
+## CVE-2022-30024 ()
+> 
+- [ilizavr/CVE-2022-30024](https://github.com/ilizavr/CVE-2022-30024)	<img alt="forks" src="https://img.shields.io/github/forks/ilizavr/CVE-2022-30024">	<img alt="stars" src="https://img.shields.io/github/stars/ilizavr/CVE-2022-30024">
+
+---
 ## CVE-2022-30023 (2022-06-16T15:15:00)
 > Tenda ONT GPON AC1200 Dual band WiFi HG9 v1.0.1 is vulnerable to Command Injection via the Ping function.
 - [Haniwa0x01/CVE-2022-30023](https://github.com/Haniwa0x01/CVE-2022-30023)	<img alt="forks" src="https://img.shields.io/github/forks/Haniwa0x01/CVE-2022-30023">	<img alt="stars" src="https://img.shields.io/github/stars/Haniwa0x01/CVE-2022-30023">

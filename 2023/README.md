@@ -5093,6 +5093,11 @@ We recommend upgrading past commit 1240eb93f0616b21c675416516ff3d74798fdc97.
 - [wushigudan/CVE-2023-33517](https://github.com/wushigudan/CVE-2023-33517)	<img alt="forks" src="https://img.shields.io/github/forks/wushigudan/CVE-2023-33517">	<img alt="stars" src="https://img.shields.io/github/stars/wushigudan/CVE-2023-33517">
 
 ---
+## CVE-2023-3350 ()
+> 
+- [itres-labs/CVE-2023-3350](https://github.com/itres-labs/CVE-2023-3350)	<img alt="forks" src="https://img.shields.io/github/forks/itres-labs/CVE-2023-3350">	<img alt="stars" src="https://img.shields.io/github/stars/itres-labs/CVE-2023-3350">
+
+---
 ## CVE-2023-33480 (2023-11-07T15:15:00)
 > RemoteClinic 2.0 contains a critical vulnerability chain that can be exploited by a remote attacker with low-privileged user credentials to create admin users, escalate privileges, and execute arbitrary code on the target system via a PHP shell. The vulnerabilities are caused by a lack of input validation and access control in the staff/register.php endpoint and the edit-my-profile.php page. By sending a series of specially crafted requests to the RemoteClinic application, an attacker can create admin users with more privileges than their own, upload a PHP file containing arbitrary code, and execute arbitrary commands via the PHP shell.
 - [amirhosseinbahramizadeh/CVE-2023-33480](https://github.com/amirhosseinbahramizadeh/CVE-2023-33480)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinbahramizadeh/CVE-2023-33480">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinbahramizadeh/CVE-2023-33480">
