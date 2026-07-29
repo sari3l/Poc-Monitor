@@ -662,7 +662,7 @@
 - [HORKimhab/CVE-2026-61511](https://github.com/HORKimhab/CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-61511">
 - [puj790201-lab/cve-2026-61511](https://github.com/puj790201-lab/cve-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/puj790201-lab/cve-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/puj790201-lab/cve-2026-61511">
 - [codeb0ssx/Ultimate-CVE-2026-61511](https://github.com/codeb0ssx/Ultimate-CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-CVE-2026-61511">
-- [tc4dy/CVE-2026-61511](https://github.com/tc4dy/CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-61511">
+- [tc4dy/CVE-2026-61511-PoC-Exploit](https://github.com/tc4dy/CVE-2026-61511-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-61511-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-61511-PoC-Exploit">
 
 ---
 ## CVE-2026-6145 ()
@@ -775,6 +775,11 @@
 ## CVE-2026-59734 ()
 > 
 - [cybertechajju/CVE-2026-59734-POC](https://github.com/cybertechajju/CVE-2026-59734-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2026-59734-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2026-59734-POC">
+
+---
+## CVE-2026-59243 ()
+> 
+- [MalHyuk/CVE-2026-59243](https://github.com/MalHyuk/CVE-2026-59243)	<img alt="forks" src="https://img.shields.io/github/forks/MalHyuk/CVE-2026-59243">	<img alt="stars" src="https://img.shields.io/github/stars/MalHyuk/CVE-2026-59243">
 
 ---
 ## CVE-2026-5865 ()
@@ -1241,6 +1246,11 @@
 ## CVE-2026-52885 ()
 > 
 - [v3s9er/CVE-2026-52885](https://github.com/v3s9er/CVE-2026-52885)	<img alt="forks" src="https://img.shields.io/github/forks/v3s9er/CVE-2026-52885">	<img alt="stars" src="https://img.shields.io/github/stars/v3s9er/CVE-2026-52885">
+
+---
+## CVE-2026-52832 ()
+> 
+- [mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard](https://github.com/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard)	<img alt="forks" src="https://img.shields.io/github/forks/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard">	<img alt="stars" src="https://img.shields.io/github/stars/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard">
 
 ---
 ## CVE-2026-52813 ()
@@ -7389,6 +7399,11 @@
 ## CVE-2026-16540 ()
 > 
 - [huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments](https://github.com/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments)	<img alt="forks" src="https://img.shields.io/github/forks/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments">	<img alt="stars" src="https://img.shields.io/github/stars/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments">
+
+---
+## CVE-2026-16475 ()
+> 
+- [afertar/CVE-2026-16475-PoC](https://github.com/afertar/CVE-2026-16475-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/afertar/CVE-2026-16475-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/afertar/CVE-2026-16475-PoC">
 
 ---
 ## CVE-2026-16232 ()
