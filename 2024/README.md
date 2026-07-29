@@ -10204,6 +10204,7 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 ## CVE-2024-1813 ()
 > 
 - [MobetaSec/CVE-2024-1813-POC](https://github.com/MobetaSec/CVE-2024-1813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MobetaSec/CVE-2024-1813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MobetaSec/CVE-2024-1813-POC">
+- [webshellseo8/CVE-2024-1813-Proof-of-Concept](https://github.com/webshellseo8/CVE-2024-1813-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2024-1813-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2024-1813-Proof-of-Concept">
 
 ---
 ## CVE-2024-1728 ()
