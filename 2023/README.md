@@ -6067,6 +6067,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [nastar-id/CVE-2023-29384](https://github.com/nastar-id/CVE-2023-29384)	<img alt="forks" src="https://img.shields.io/github/forks/nastar-id/CVE-2023-29384">	<img alt="stars" src="https://img.shields.io/github/stars/nastar-id/CVE-2023-29384">
 
 ---
+## CVE-2023-29375 ()
+> 
+- [Zedocun/Sharepoint-cve-2023-29375-incident-response](https://github.com/Zedocun/Sharepoint-cve-2023-29375-incident-response)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/Sharepoint-cve-2023-29375-incident-response">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/Sharepoint-cve-2023-29375-incident-response">
+
+---
 ## CVE-2023-29360 (2023-06-14T00:15:00)
 > Microsoft Streaming Service Elevation of Privilege Vulnerability
 - [Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360)	<img alt="forks" src="https://img.shields.io/github/forks/Nero22k/cve-2023-29360">	<img alt="stars" src="https://img.shields.io/github/stars/Nero22k/cve-2023-29360">
