@@ -822,6 +822,11 @@
 - [CerberusMrXi/Flowise-CVE-2026-58057-exploit](https://github.com/CerberusMrXi/Flowise-CVE-2026-58057-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Flowise-CVE-2026-58057-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Flowise-CVE-2026-58057-exploit">
 
 ---
+## CVE-2026-58025 ()
+> 
+- [shinthink/CVE-2026-58025](https://github.com/shinthink/CVE-2026-58025)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-58025">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-58025">
+
+---
 ## CVE-2026-57973 ()
 > 
 - [riddhimaan-sth404/CVE-2026-57973](https://github.com/riddhimaan-sth404/CVE-2026-57973)	<img alt="forks" src="https://img.shields.io/github/forks/riddhimaan-sth404/CVE-2026-57973">	<img alt="stars" src="https://img.shields.io/github/stars/riddhimaan-sth404/CVE-2026-57973">
@@ -1300,6 +1305,11 @@
 ## CVE-2026-52199 ()
 > 
 - [lamaper/CVE-2026-52199](https://github.com/lamaper/CVE-2026-52199)	<img alt="forks" src="https://img.shields.io/github/forks/lamaper/CVE-2026-52199">	<img alt="stars" src="https://img.shields.io/github/stars/lamaper/CVE-2026-52199">
+
+---
+## CVE-2026-52134 ()
+> 
+- [if-forget/CVE-2026-52134-libiec61850](https://github.com/if-forget/CVE-2026-52134-libiec61850)	<img alt="forks" src="https://img.shields.io/github/forks/if-forget/CVE-2026-52134-libiec61850">	<img alt="stars" src="https://img.shields.io/github/stars/if-forget/CVE-2026-52134-libiec61850">
 
 ---
 ## CVE-2026-5203 ()

@@ -8830,6 +8830,7 @@
 - [mrowkoob/CVE-2025-26466-msf](https://github.com/mrowkoob/CVE-2025-26466-msf)	<img alt="forks" src="https://img.shields.io/github/forks/mrowkoob/CVE-2025-26466-msf">	<img alt="stars" src="https://img.shields.io/github/stars/mrowkoob/CVE-2025-26466-msf">
 - [dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466](https://github.com/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">
 - [tpirate/CVE-2025-26466](https://github.com/tpirate/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/tpirate/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/tpirate/CVE-2025-26466">
+- [acidboonrs/cve-2025-26466-openssh-poc](https://github.com/acidboonrs/cve-2025-26466-openssh-poc)	<img alt="forks" src="https://img.shields.io/github/forks/acidboonrs/cve-2025-26466-openssh-poc">	<img alt="stars" src="https://img.shields.io/github/stars/acidboonrs/cve-2025-26466-openssh-poc">
 
 ---
 ## CVE-2025-26465 ()
