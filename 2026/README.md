@@ -1546,6 +1546,7 @@
 ## CVE-2026-49176 ()
 > 
 - [DavidCarliez/CVE-2026-49176_LPE_POC](https://github.com/DavidCarliez/CVE-2026-49176_LPE_POC)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-49176_LPE_POC">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-49176_LPE_POC">
+- [777erp/CVE-2026-49176_BOF](https://github.com/777erp/CVE-2026-49176_BOF)	<img alt="forks" src="https://img.shields.io/github/forks/777erp/CVE-2026-49176_BOF">	<img alt="stars" src="https://img.shields.io/github/stars/777erp/CVE-2026-49176_BOF">
 
 ---
 ## CVE-2026-49160 ()
