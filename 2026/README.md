@@ -477,6 +477,11 @@
 - [mlgzackfly/CVE-2026-6643](https://github.com/mlgzackfly/CVE-2026-6643)	<img alt="forks" src="https://img.shields.io/github/forks/mlgzackfly/CVE-2026-6643">	<img alt="stars" src="https://img.shields.io/github/stars/mlgzackfly/CVE-2026-6643">
 
 ---
+## CVE-2026-66066 ()
+> 
+- [0xBlackash/CVE-2026-66066](https://github.com/0xBlackash/CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-66066">
+
+---
 ## CVE-2026-66012 ()
 > 
 - [Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization](https://github.com/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization">
@@ -845,6 +850,11 @@
 ## CVE-2026-57829 ()
 > 
 - [Is4yev/CVE-2026-57829](https://github.com/Is4yev/CVE-2026-57829)	<img alt="forks" src="https://img.shields.io/github/forks/Is4yev/CVE-2026-57829">	<img alt="stars" src="https://img.shields.io/github/stars/Is4yev/CVE-2026-57829">
+
+---
+## CVE-2026-57827 ()
+> 
+- [shinthink/CVE-2026-57827](https://github.com/shinthink/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57827">
 
 ---
 ## CVE-2026-57821 ()

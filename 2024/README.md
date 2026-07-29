@@ -5364,6 +5364,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 
 - [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-36104">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-36104">
 - [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-32113">
+- [Groppoxx/CVE-2024-36104-PoC](https://github.com/Groppoxx/CVE-2024-36104-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Groppoxx/CVE-2024-36104-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Groppoxx/CVE-2024-36104-PoC">
 
 ---
 ## CVE-2024-36079 (2024-05-24T22:15:00)
