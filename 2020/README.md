@@ -3267,6 +3267,24 @@
 - [jet-pentest/CVE-2020-24032](https://github.com/jet-pentest/CVE-2020-24032)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2020-24032">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2020-24032">
 
 ---
+## CVE-2020-24030 ()
+> 
+- [RedTeamBrasil/CVE-2020-24030](https://github.com/RedTeamBrasil/CVE-2020-24030)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2020-24030">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2020-24030">
+- [underprotection/CVE-2020-24030](https://github.com/underprotection/CVE-2020-24030)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2020-24030">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2020-24030">
+
+---
+## CVE-2020-24029 ()
+> 
+- [RedTeamBrasil/CVE-2020-24029](https://github.com/RedTeamBrasil/CVE-2020-24029)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2020-24029">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2020-24029">
+- [underprotection/CVE-2020-24029](https://github.com/underprotection/CVE-2020-24029)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2020-24029">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2020-24029">
+
+---
+## CVE-2020-24028 ()
+> 
+- [RedTeamBrasil/CVE-2020-24028](https://github.com/RedTeamBrasil/CVE-2020-24028)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2020-24028">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2020-24028">
+- [underprotection/CVE-2020-24028](https://github.com/underprotection/CVE-2020-24028)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2020-24028">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2020-24028">
+
+---
 ## CVE-2020-23968 (2020-11-10T20:15:00)
 > Ilex International Sign&go Workstation Security Suite 7.1 allows elevation of privileges via a symlink attack on ProgramData\Ilex\S&G\Logs\000-sngWSService1.log.
 - [ricardojba/CVE-2020-23968-ILEX-SignGo-EoP](https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP">

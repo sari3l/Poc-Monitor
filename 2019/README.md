@@ -2065,6 +2065,12 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-19725](https://github.com/Live-Hack-CVE/CVE-2019-19725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19725">
 
 ---
+## CVE-2019-19550 ()
+> 
+- [RedTeamBrasil/CVE-2019-19550](https://github.com/RedTeamBrasil/CVE-2019-19550)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2019-19550">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2019-19550">
+- [underprotection/CVE-2019-19550](https://github.com/underprotection/CVE-2019-19550)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2019-19550">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2019-19550">
+
+---
 ## CVE-2019-19507 ()
 > 
 - [CQ-Tools/CVE-2019-19507-fixed](https://github.com/CQ-Tools/CVE-2019-19507-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-19507-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-19507-fixed">
