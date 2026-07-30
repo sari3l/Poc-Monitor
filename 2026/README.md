@@ -785,6 +785,11 @@
 - [cybertechajju/CVE-2026-59734-POC](https://github.com/cybertechajju/CVE-2026-59734-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2026-59734-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2026-59734-POC">
 
 ---
+## CVE-2026-59726 ()
+> 
+- [HORKimhab/CVE-2026-59726](https://github.com/HORKimhab/CVE-2026-59726)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-59726">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-59726">
+
+---
 ## CVE-2026-59243 ()
 > 
 - [MalHyuk/CVE-2026-59243](https://github.com/MalHyuk/CVE-2026-59243)	<img alt="forks" src="https://img.shields.io/github/forks/MalHyuk/CVE-2026-59243">	<img alt="stars" src="https://img.shields.io/github/stars/MalHyuk/CVE-2026-59243">
