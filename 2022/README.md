@@ -30362,6 +30362,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24913](https://github.com/Live-Hack-CVE/CVE-2022-24913)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24913">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24913">
 
 ---
+## CVE-2022-24903 ()
+> 
+- [andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab](https://github.com/andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab">
+
+---
 ## CVE-2022-24897 ()
 > 
 - [shoucheng3/xwiki__xwiki-commons_CVE-2022-24897_12-6-6](https://github.com/shoucheng3/xwiki__xwiki-commons_CVE-2022-24897_12-6-6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xwiki__xwiki-commons_CVE-2022-24897_12-6-6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xwiki__xwiki-commons_CVE-2022-24897_12-6-6">
