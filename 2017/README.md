@@ -146,6 +146,7 @@
 - [7043mcgeep/cve-2017-8890-msf](https://github.com/7043mcgeep/cve-2017-8890-msf)	<img alt="forks" src="https://img.shields.io/github/forks/7043mcgeep/cve-2017-8890-msf">	<img alt="stars" src="https://img.shields.io/github/stars/7043mcgeep/cve-2017-8890-msf">
 - [beraphin/CVE-2017-8890](https://github.com/beraphin/CVE-2017-8890)	<img alt="forks" src="https://img.shields.io/github/forks/beraphin/CVE-2017-8890">	<img alt="stars" src="https://img.shields.io/github/stars/beraphin/CVE-2017-8890">
 - [sweatyrocket/huawei-p10-cve-2017-8890-unlock](https://github.com/sweatyrocket/huawei-p10-cve-2017-8890-unlock)	<img alt="forks" src="https://img.shields.io/github/forks/sweatyrocket/huawei-p10-cve-2017-8890-unlock">	<img alt="stars" src="https://img.shields.io/github/stars/sweatyrocket/huawei-p10-cve-2017-8890-unlock">
+- [idhyt/androotzf](https://github.com/idhyt/androotzf)	<img alt="forks" src="https://img.shields.io/github/forks/idhyt/androotzf">	<img alt="stars" src="https://img.shields.io/github/stars/idhyt/androotzf">
 
 ---
 ## CVE-2017-8879 (2017-05-10T14:29:00)

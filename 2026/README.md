@@ -562,6 +562,11 @@
 - [Penguinsecq/CVE-2026-6355](https://github.com/Penguinsecq/CVE-2026-6355)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6355">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6355">
 
 ---
+## CVE-2026-63077 ()
+> 
+- [unveiledhistory49/teamcity-cve-2026-63077-remediation](https://github.com/unveiledhistory49/teamcity-cve-2026-63077-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/unveiledhistory49/teamcity-cve-2026-63077-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/unveiledhistory49/teamcity-cve-2026-63077-remediation">
+
+---
 ## CVE-2026-6307 ()
 > 
 - [0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307)	<img alt="forks" src="https://img.shields.io/github/forks/0xsha/CVE-2026-6307">	<img alt="stars" src="https://img.shields.io/github/stars/0xsha/CVE-2026-6307">
@@ -678,6 +683,11 @@
 ## CVE-2026-6145 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-6145](https://github.com/Hann1bl3L3ct3r/CVE-2026-6145)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-6145">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-6145">
+
+---
+## CVE-2026-61424 ()
+> 
+- [shinthink/CVE-2026-61424](https://github.com/shinthink/CVE-2026-61424)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-61424">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-61424">
 
 ---
 ## CVE-2026-61343 ()
@@ -865,6 +875,7 @@
 ## CVE-2026-57827 ()
 > 
 - [shinthink/CVE-2026-57827](https://github.com/shinthink/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57827">
+- [Candisexterior171/CVE-2026-57827](https://github.com/Candisexterior171/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Candisexterior171/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Candisexterior171/CVE-2026-57827">
 
 ---
 ## CVE-2026-57821 ()
@@ -4104,6 +4115,7 @@
 > 
 - [dinhvaren/cve-2026-33937](https://github.com/dinhvaren/cve-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/dinhvaren/cve-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/dinhvaren/cve-2026-33937">
 - [EQSTLab/CVE-2026-33937](https://github.com/EQSTLab/CVE-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33937">
+- [garlic-wizard/CVE-2026-33937-for-DarkZeroReturns](https://github.com/garlic-wizard/CVE-2026-33937-for-DarkZeroReturns)	<img alt="forks" src="https://img.shields.io/github/forks/garlic-wizard/CVE-2026-33937-for-DarkZeroReturns">	<img alt="stars" src="https://img.shields.io/github/stars/garlic-wizard/CVE-2026-33937-for-DarkZeroReturns">
 
 ---
 ## CVE-2026-33936 ()
