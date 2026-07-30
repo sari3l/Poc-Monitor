@@ -30766,6 +30766,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24375](https://github.com/Live-Hack-CVE/CVE-2022-24375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24375">
 
 ---
+## CVE-2022-24355 ()
+> 
+- [ilizavr/CVE-2022-24355](https://github.com/ilizavr/CVE-2022-24355)	<img alt="forks" src="https://img.shields.io/github/forks/ilizavr/CVE-2022-24355">	<img alt="stars" src="https://img.shields.io/github/stars/ilizavr/CVE-2022-24355">
+
+---
 ## CVE-2022-24348 (2022-02-04T21:15:00)
 > Argo CD before 2.1.9 and 2.2.x before 2.2.4 allows directory traversal related to Helm charts because of an error in helmTemplate in repository.go. For example, an attacker may be able to discover credentials stored in a YAML file.
 - [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2)	<img alt="forks" src="https://img.shields.io/github/forks/jkroepke/CVE-2022-24348-2">	<img alt="stars" src="https://img.shields.io/github/stars/jkroepke/CVE-2022-24348-2">

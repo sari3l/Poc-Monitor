@@ -471,6 +471,11 @@
 - [Alaa-abdulridha/GLiferay-CVE-2020-7961-golang](https://github.com/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang)	<img alt="forks" src="https://img.shields.io/github/forks/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang">	<img alt="stars" src="https://img.shields.io/github/stars/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang">
 
 ---
+## CVE-2020-7882 ()
+> 
+- [HORKimhab/CVE-2020-7882](https://github.com/HORKimhab/CVE-2020-7882)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2020-7882">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2020-7882">
+
+---
 ## CVE-2020-7862 (2021-06-24T11:15:00)
 > A vulnerability in agent program of HelpU remote control solution could allow an authenticated remote attacker to execute arbitrary commands This vulnerability is due to insufficient input santization when communicating customer process.
 - [Live-Hack-CVE/CVE-2020-7862](https://github.com/Live-Hack-CVE/CVE-2020-7862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7862">

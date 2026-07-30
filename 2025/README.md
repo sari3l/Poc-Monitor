@@ -5687,6 +5687,11 @@
 - [mooder1/CVE-2025-49113](https://github.com/mooder1/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/mooder1/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/mooder1/CVE-2025-49113">
 
 ---
+## CVE-2025-49091 ()
+> 
+- [thefreestyleresearcher/CVE-2025-49091-Gajim-RCE](https://github.com/thefreestyleresearcher/CVE-2025-49091-Gajim-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thefreestyleresearcher/CVE-2025-49091-Gajim-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thefreestyleresearcher/CVE-2025-49091-Gajim-RCE">
+
+---
 ## CVE-2025-49071 ()
 > 
 - [xShadow-Here/CVE-2025-49071](https://github.com/xShadow-Here/CVE-2025-49071)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2025-49071">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2025-49071">
