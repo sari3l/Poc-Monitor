@@ -2305,6 +2305,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [WinnieZy/CVE-2023-4357](https://github.com/WinnieZy/CVE-2023-4357)	<img alt="forks" src="https://img.shields.io/github/forks/WinnieZy/CVE-2023-4357">	<img alt="stars" src="https://img.shields.io/github/stars/WinnieZy/CVE-2023-4357">
 - [CamillaFranceschini/CVE-2023-4357](https://github.com/CamillaFranceschini/CVE-2023-4357)	<img alt="forks" src="https://img.shields.io/github/forks/CamillaFranceschini/CVE-2023-4357">	<img alt="stars" src="https://img.shields.io/github/stars/CamillaFranceschini/CVE-2023-4357">
 - [lon5948/CVE-2023-4357-Exploitation](https://github.com/lon5948/CVE-2023-4357-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/lon5948/CVE-2023-4357-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/lon5948/CVE-2023-4357-Exploitation">
+- [kovaacicc/CVE-2023-4357_test](https://github.com/kovaacicc/CVE-2023-4357_test)	<img alt="forks" src="https://img.shields.io/github/forks/kovaacicc/CVE-2023-4357_test">	<img alt="stars" src="https://img.shields.io/github/stars/kovaacicc/CVE-2023-4357_test">
 
 ---
 ## CVE-2023-4350 (2023-08-15T18:15:00)
