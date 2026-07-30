@@ -1844,6 +1844,7 @@
 - [eagle-nett/FORTIWEB_CVE-2025-64446-58034](https://github.com/eagle-nett/FORTIWEB_CVE-2025-64446-58034)	<img alt="forks" src="https://img.shields.io/github/forks/eagle-nett/FORTIWEB_CVE-2025-64446-58034">	<img alt="stars" src="https://img.shields.io/github/stars/eagle-nett/FORTIWEB_CVE-2025-64446-58034">
 - [0xBlackash/CVE-2025-64446](https://github.com/0xBlackash/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-64446">
 - [litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034](https://github.com/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034">
+- [CerberusMrXi/FortiWeb-cve-2025-64446-RCE-exploit](https://github.com/CerberusMrXi/FortiWeb-cve-2025-64446-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/FortiWeb-cve-2025-64446-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/FortiWeb-cve-2025-64446-RCE-exploit">
 
 ---
 ## CVE-2025-64424 ()
