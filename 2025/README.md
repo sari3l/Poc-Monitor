@@ -7687,6 +7687,7 @@
 - [c0gnit00/CVE-2025-32432](https://github.com/c0gnit00/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2025-32432">
 - [theeomega/CVE-2025-32432-POC](https://github.com/theeomega/CVE-2025-32432-POC)	<img alt="forks" src="https://img.shields.io/github/forks/theeomega/CVE-2025-32432-POC">	<img alt="stars" src="https://img.shields.io/github/stars/theeomega/CVE-2025-32432-POC">
 - [Cosm3No1de/htb-orion-writeup](https://github.com/Cosm3No1de/htb-orion-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/htb-orion-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/htb-orion-writeup">
+- [HeltonPojo/CVE-2025-32432](https://github.com/HeltonPojo/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/HeltonPojo/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/HeltonPojo/CVE-2025-32432">
 
 ---
 ## CVE-2025-3243 ()

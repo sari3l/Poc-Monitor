@@ -651,6 +651,9 @@
 - [Giangdurian/CVE-2026-63030-CVE-2026-60137](https://github.com/Giangdurian/CVE-2026-63030-CVE-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-63030-CVE-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-63030-CVE-2026-60137">
 - [imXur/WordPress-CVE-2026-63030-Analysis](https://github.com/imXur/WordPress-CVE-2026-63030-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/imXur/WordPress-CVE-2026-63030-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/imXur/WordPress-CVE-2026-63030-Analysis">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell">
+- [BytesPulse-OE/wp2shell-Hestia-Scanner](https://github.com/BytesPulse-OE/wp2shell-Hestia-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/BytesPulse-OE/wp2shell-Hestia-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/BytesPulse-OE/wp2shell-Hestia-Scanner">
+- [yuag/wp2shell](https://github.com/yuag/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/yuag/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/yuag/wp2shell">
+- [Dungsocool/CVE-2026-60137_CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137_CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137_CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137_CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
