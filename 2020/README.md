@@ -3989,6 +3989,7 @@
 - [Maliek/CVE-2020-16898_Check](https://github.com/Maliek/CVE-2020-16898_Check)	<img alt="forks" src="https://img.shields.io/github/forks/Maliek/CVE-2020-16898_Check">	<img alt="stars" src="https://img.shields.io/github/stars/Maliek/CVE-2020-16898_Check">
 - [esnet-security/cve-2020-16898](https://github.com/esnet-security/cve-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/esnet-security/cve-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/esnet-security/cve-2020-16898">
 - [ZephrFish/CVE-2020-16898](https://github.com/ZephrFish/CVE-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2020-16898">
+- [aricooper/suricata-script](https://github.com/aricooper/suricata-script)	<img alt="forks" src="https://img.shields.io/github/forks/aricooper/suricata-script">	<img alt="stars" src="https://img.shields.io/github/stars/aricooper/suricata-script">
 
 ---
 ## CVE-2020-16593 (2020-12-09T21:15:00)
