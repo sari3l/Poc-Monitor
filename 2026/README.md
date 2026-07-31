@@ -180,6 +180,11 @@
 - [Sana-404/CVE-2026-8388-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8388-Mitigation-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Sana-404/CVE-2026-8388-Mitigation-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Sana-404/CVE-2026-8388-Mitigation-and-Detection">
 
 ---
+## CVE-2026-8347 ()
+> 
+- [aj2108/CVE-2026-8347](https://github.com/aj2108/CVE-2026-8347)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8347">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8347">
+
+---
 ## CVE-2026-8260 ()
 > 
 - [CryptReaper12/CVE-2026-8260](https://github.com/CryptReaper12/CVE-2026-8260)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-8260">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-8260">
@@ -1197,6 +1202,8 @@
 - [marcgoam/CVE-2026-54121-CertiGhost](https://github.com/marcgoam/CVE-2026-54121-CertiGhost)	<img alt="forks" src="https://img.shields.io/github/forks/marcgoam/CVE-2026-54121-CertiGhost">	<img alt="stars" src="https://img.shields.io/github/stars/marcgoam/CVE-2026-54121-CertiGhost">
 - [ChPratik/CVE-2026-54121](https://github.com/ChPratik/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-54121">
 - [mwnickerson/certighost-bof](https://github.com/mwnickerson/certighost-bof)	<img alt="forks" src="https://img.shields.io/github/forks/mwnickerson/certighost-bof">	<img alt="stars" src="https://img.shields.io/github/stars/mwnickerson/certighost-bof">
+- [KrakenEU/CVE-2026-54121-CertiGhost](https://github.com/KrakenEU/CVE-2026-54121-CertiGhost)	<img alt="forks" src="https://img.shields.io/github/forks/KrakenEU/CVE-2026-54121-CertiGhost">	<img alt="stars" src="https://img.shields.io/github/stars/KrakenEU/CVE-2026-54121-CertiGhost">
+- [nafiez/Metasploit-CVE-2026-54121-Certighost](https://github.com/nafiez/Metasploit-CVE-2026-54121-Certighost)	<img alt="forks" src="https://img.shields.io/github/forks/nafiez/Metasploit-CVE-2026-54121-Certighost">	<img alt="stars" src="https://img.shields.io/github/stars/nafiez/Metasploit-CVE-2026-54121-Certighost">
 
 ---
 ## CVE-2026-5411 ()
@@ -2582,6 +2589,7 @@
 - [233laoliu/mt6985-CVE-2026-43499](https://github.com/233laoliu/mt6985-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/233laoliu/mt6985-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/233laoliu/mt6985-CVE-2026-43499">
 - [2932796375github/CVE-2026-43499_OPPO-MT6835](https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835)	<img alt="forks" src="https://img.shields.io/github/forks/2932796375github/CVE-2026-43499_OPPO-MT6835">	<img alt="stars" src="https://img.shields.io/github/stars/2932796375github/CVE-2026-43499_OPPO-MT6835">
 - [FuCnox/CVE-2026-43499-A34](https://github.com/FuCnox/CVE-2026-43499-A34)	<img alt="forks" src="https://img.shields.io/github/forks/FuCnox/CVE-2026-43499-A34">	<img alt="stars" src="https://img.shields.io/github/stars/FuCnox/CVE-2026-43499-A34">
+- [LuZe0y/pd2425-cve-2026-43499-config](https://github.com/LuZe0y/pd2425-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/LuZe0y/pd2425-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/LuZe0y/pd2425-cve-2026-43499-config">
 
 ---
 ## CVE-2026-43494 ()
@@ -7470,6 +7478,7 @@
 - [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/fastjson-jsontype-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/fastjson-jsontype-rce-lab">
 - [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
 - [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
+- [fazilbaig1/CVE-2026-16723](https://github.com/fazilbaig1/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2026-16723">
 
 ---
 ## CVE-2026-1668 ()
