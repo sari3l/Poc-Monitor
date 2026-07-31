@@ -32231,6 +32231,11 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [ahmetfurkans/CVE-2022-22718](https://github.com/ahmetfurkans/CVE-2022-22718)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetfurkans/CVE-2022-22718">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetfurkans/CVE-2022-22718">
 
 ---
+## CVE-2022-22706 ()
+> 
+- [byt3quester/CVE-2022-22706-poc](https://github.com/byt3quester/CVE-2022-22706-poc)	<img alt="forks" src="https://img.shields.io/github/forks/byt3quester/CVE-2022-22706-poc">	<img alt="stars" src="https://img.shields.io/github/stars/byt3quester/CVE-2022-22706-poc">
+
+---
 ## CVE-2022-2268 (2022-07-04T13:15:00)
 > The Import any XML or CSV File to WordPress plugin before 3.6.8 accepts all zip files and automatically extracts the zip file without validating the extracted file type. Allowing high privilege users such as admin to upload an arbitrary file like PHP, leading to RCE
 - [Live-Hack-CVE/CVE-2022-2268](https://github.com/Live-Hack-CVE/CVE-2022-2268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2268">
