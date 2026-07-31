@@ -7324,6 +7324,12 @@
 - [Live-Hack-CVE/CVE-2021-28500](https://github.com/Live-Hack-CVE/CVE-2021-28500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28500">
 
 ---
+## CVE-2021-28480 ()
+> 
+- [ZephrFish/CVE-2021-28480_HoneyPoC3](https://github.com/ZephrFish/CVE-2021-28480_HoneyPoC3)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-28480_HoneyPoC3">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-28480_HoneyPoC3">
+- [Threonic/CVE-2021-28480](https://github.com/Threonic/CVE-2021-28480)	<img alt="forks" src="https://img.shields.io/github/forks/Threonic/CVE-2021-28480">	<img alt="stars" src="https://img.shields.io/github/stars/Threonic/CVE-2021-28480">
+
+---
 ## CVE-2021-28398 (2022-09-05T17:15:00)
 > A privileged attacker in GeoNetwork before 3.12.0 and 4.x before 4.0.4 can use the directory harvester before-script to execute arbitrary OS commands remotely on the hosting infrastructure. A User Administrator or Administrator account is required to perform this. This occurs in the runBeforeScript method in harvesters/src/main/java/org/fao/geonet/kernel/harvest/harvester/localfilesystem/LocalFilesystemHarvester.java. The earliest affected version is 3.4.0.
 - [Live-Hack-CVE/CVE-2021-28398](https://github.com/Live-Hack-CVE/CVE-2021-28398)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28398">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28398">
@@ -8757,6 +8763,9 @@
 ## CVE-2021-22893 (2021-04-23T17:15:00)
 > Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.
 - [Live-Hack-CVE/CVE-2021-22893](https://github.com/Live-Hack-CVE/CVE-2021-22893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22893">
+- [ZephrFish/CVE-2021-22893_HoneyPoC2](https://github.com/ZephrFish/CVE-2021-22893_HoneyPoC2)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-22893_HoneyPoC2">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-22893_HoneyPoC2">
+- [orangmuda/CVE-2021-22893](https://github.com/orangmuda/CVE-2021-22893)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-22893">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-22893">
+- [MRLEE123456/CVE-2021-22893](https://github.com/MRLEE123456/CVE-2021-22893)	<img alt="forks" src="https://img.shields.io/github/forks/MRLEE123456/CVE-2021-22893">	<img alt="stars" src="https://img.shields.io/github/stars/MRLEE123456/CVE-2021-22893">
 
 ---
 ## CVE-2021-22892 (2021-05-27T12:15:00)
