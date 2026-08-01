@@ -1526,6 +1526,11 @@
 - [0xBlackash/CVE-2026-50656](https://github.com/0xBlackash/CVE-2026-50656)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-50656">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-50656">
 
 ---
+## CVE-2026-5061 ()
+> 
+- [0xmrma/CVE-2026-5061](https://github.com/0xmrma/CVE-2026-5061)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-5061">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-5061">
+
+---
 ## CVE-2026-5059 ()
 > 
 - [venom203020/CVE-2026-5059-poc](https://github.com/venom203020/CVE-2026-5059-poc)	<img alt="forks" src="https://img.shields.io/github/forks/venom203020/CVE-2026-5059-poc">	<img alt="stars" src="https://img.shields.io/github/stars/venom203020/CVE-2026-5059-poc">
@@ -7728,6 +7733,11 @@
 ## CVE-2026-14382 ()
 > 
 - [jaf0rk/CVE-2026-14382](https://github.com/jaf0rk/CVE-2026-14382)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-14382">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-14382">
+
+---
+## CVE-2026-14361 ()
+> 
+- [0xmrma/CVE-2026-14361](https://github.com/0xmrma/CVE-2026-14361)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-14361">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-14361">
 
 ---
 ## CVE-2026-1434 ()
