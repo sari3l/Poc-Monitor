@@ -1424,6 +1424,11 @@
 - [kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2026-5201">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2026-5201">
 
 ---
+## CVE-2026-51954 ()
+> 
+- [envincion1991-cmyk/CVE-2026-51954](https://github.com/envincion1991-cmyk/CVE-2026-51954)	<img alt="forks" src="https://img.shields.io/github/forks/envincion1991-cmyk/CVE-2026-51954">	<img alt="stars" src="https://img.shields.io/github/stars/envincion1991-cmyk/CVE-2026-51954">
+
+---
 ## CVE-2026-51947 ()
 > 
 - [timtimxs/CVE-2026-51947-Advisory](https://github.com/timtimxs/CVE-2026-51947-Advisory)	<img alt="forks" src="https://img.shields.io/github/forks/timtimxs/CVE-2026-51947-Advisory">	<img alt="stars" src="https://img.shields.io/github/stars/timtimxs/CVE-2026-51947-Advisory">
