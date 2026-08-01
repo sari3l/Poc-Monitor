@@ -1383,6 +1383,11 @@
 - [aydin5245/CVE-2026-5252-CVE-POC-ivanti](https://github.com/aydin5245/CVE-2026-5252-CVE-POC-ivanti)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2026-5252-CVE-POC-ivanti">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2026-5252-CVE-POC-ivanti">
 
 ---
+## CVE-2026-52370 ()
+> 
+- [RichardKabuto/CVE-2026-52370](https://github.com/RichardKabuto/CVE-2026-52370)	<img alt="forks" src="https://img.shields.io/github/forks/RichardKabuto/CVE-2026-52370">	<img alt="stars" src="https://img.shields.io/github/stars/RichardKabuto/CVE-2026-52370">
+
+---
 ## CVE-2026-52217 ()
 > 
 - [teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR](https://github.com/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">
@@ -7770,6 +7775,11 @@
 ## CVE-2026-13233 ()
 > 
 - [KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233](https://github.com/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233)	<img alt="forks" src="https://img.shields.io/github/forks/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">	<img alt="stars" src="https://img.shields.io/github/stars/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">
+
+---
+## CVE-2026-13157 ()
+> 
+- [MinhHK68/CVE-2026-13157](https://github.com/MinhHK68/CVE-2026-13157)	<img alt="forks" src="https://img.shields.io/github/forks/MinhHK68/CVE-2026-13157">	<img alt="stars" src="https://img.shields.io/github/stars/MinhHK68/CVE-2026-13157">
 
 ---
 ## CVE-2026-13156 ()
