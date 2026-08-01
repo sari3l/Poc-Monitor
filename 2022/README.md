@@ -36233,6 +36233,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [gaganhm3018-art/CVE-2022-0847-Dirty-Pipe-](https://github.com/gaganhm3018-art/CVE-2022-0847-Dirty-Pipe-)	<img alt="forks" src="https://img.shields.io/github/forks/gaganhm3018-art/CVE-2022-0847-Dirty-Pipe-">	<img alt="stars" src="https://img.shields.io/github/stars/gaganhm3018-art/CVE-2022-0847-Dirty-Pipe-">
 - [JeevanAnand1202/Penetration-Test](https://github.com/JeevanAnand1202/Penetration-Test)	<img alt="forks" src="https://img.shields.io/github/forks/JeevanAnand1202/Penetration-Test">	<img alt="stars" src="https://img.shields.io/github/stars/JeevanAnand1202/Penetration-Test">
 - [real-tim-johnston/megaquagga-pentest-report](https://github.com/real-tim-johnston/megaquagga-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/real-tim-johnston/megaquagga-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/real-tim-johnston/megaquagga-pentest-report">
+- [t1ckprivate/CVE-2022-0847-Dirty-Pipe](https://github.com/t1ckprivate/CVE-2022-0847-Dirty-Pipe)	<img alt="forks" src="https://img.shields.io/github/forks/t1ckprivate/CVE-2022-0847-Dirty-Pipe">	<img alt="stars" src="https://img.shields.io/github/stars/t1ckprivate/CVE-2022-0847-Dirty-Pipe">
+- [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
 
 ---
 ## CVE-2022-0836 (2022-05-09T17:15:00)
