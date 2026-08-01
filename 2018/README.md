@@ -37,6 +37,8 @@
 - [jameseyes/DVRC](https://github.com/jameseyes/DVRC)	<img alt="forks" src="https://img.shields.io/github/forks/jameseyes/DVRC">	<img alt="stars" src="https://img.shields.io/github/stars/jameseyes/DVRC">
 - [tausifzaman/cctv-hack](https://github.com/tausifzaman/cctv-hack)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/cctv-hack">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/cctv-hack">
 - [its-anya/DVR_Credential_Scanner](https://github.com/its-anya/DVR_Credential_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/its-anya/DVR_Credential_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/its-anya/DVR_Credential_Scanner">
+- [F7P-H4NN1B4L/CVE-2018-9995-DVR-Credentials-Extractor](https://github.com/F7P-H4NN1B4L/CVE-2018-9995-DVR-Credentials-Extractor)	<img alt="forks" src="https://img.shields.io/github/forks/F7P-H4NN1B4L/CVE-2018-9995-DVR-Credentials-Extractor">	<img alt="stars" src="https://img.shields.io/github/stars/F7P-H4NN1B4L/CVE-2018-9995-DVR-Credentials-Extractor">
+- [mesutozsoycom/cve-2018-9995](https://github.com/mesutozsoycom/cve-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/mesutozsoycom/cve-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/mesutozsoycom/cve-2018-9995">
 
 ---
 ## CVE-2018-9338 ()
