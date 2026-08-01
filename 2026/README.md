@@ -7604,6 +7604,11 @@
 - [Nxploited/CVE-2026-15981](https://github.com/Nxploited/CVE-2026-15981)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-15981">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-15981">
 
 ---
+## CVE-2026-15964 ()
+> 
+- [Instructor-Admin/CVE-2026-15964-PoC](https://github.com/Instructor-Admin/CVE-2026-15964-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Instructor-Admin/CVE-2026-15964-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Instructor-Admin/CVE-2026-15964-PoC">
+
+---
 ## CVE-2026-1581 ()
 > 
 - [rootdirective-sec/CVE-2026-1581-Analysis-Lab](https://github.com/rootdirective-sec/CVE-2026-1581-Analysis-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-1581-Analysis-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-1581-Analysis-Lab">
