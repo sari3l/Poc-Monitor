@@ -201,6 +201,11 @@
 - [aj2108/CVE-2026-8239](https://github.com/aj2108/CVE-2026-8239)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8239">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8239">
 
 ---
+## CVE-2026-8237 ()
+> 
+- [aj2108/CVE-2026-8237](https://github.com/aj2108/CVE-2026-8237)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8237">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8237">
+
+---
 ## CVE-2026-8206 ()
 > 
 - [O99099O/CVE-2026-8206-Poc-](https://github.com/O99099O/CVE-2026-8206-Poc-)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/CVE-2026-8206-Poc-">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/CVE-2026-8206-Poc-">
@@ -7775,6 +7780,11 @@
 ## CVE-2026-13233 ()
 > 
 - [KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233](https://github.com/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233)	<img alt="forks" src="https://img.shields.io/github/forks/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">	<img alt="stars" src="https://img.shields.io/github/stars/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">
+
+---
+## CVE-2026-13158 ()
+> 
+- [MinhHK68/CVE-2026-13158](https://github.com/MinhHK68/CVE-2026-13158)	<img alt="forks" src="https://img.shields.io/github/forks/MinhHK68/CVE-2026-13158">	<img alt="stars" src="https://img.shields.io/github/stars/MinhHK68/CVE-2026-13158">
 
 ---
 ## CVE-2026-13157 ()

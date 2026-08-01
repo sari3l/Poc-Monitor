@@ -2212,6 +2212,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [Hirokiii/CVE-2023-44487](https://github.com/Hirokiii/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/Hirokiii/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/Hirokiii/CVE-2023-44487">
 - [tahaXafous/CVE-2023-44487-dos](https://github.com/tahaXafous/CVE-2023-44487-dos)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE-2023-44487-dos">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE-2023-44487-dos">
 - [madhantr0/http2-security-lab](https://github.com/madhantr0/http2-security-lab)	<img alt="forks" src="https://img.shields.io/github/forks/madhantr0/http2-security-lab">	<img alt="stars" src="https://img.shields.io/github/stars/madhantr0/http2-security-lab">
+- [CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit](https://github.com/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
