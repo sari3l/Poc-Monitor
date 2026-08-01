@@ -522,6 +522,11 @@
 - [Nxploited/CVE-2025-7401](https://github.com/Nxploited/CVE-2025-7401)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-7401">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-7401">
 
 ---
+## CVE-2025-7384 ()
+> 
+- [Dungsocool/CVE-2025-7384](https://github.com/Dungsocool/CVE-2025-7384)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2025-7384">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2025-7384">
+
+---
 ## CVE-2025-7340 ()
 > 
 - [Nxploited/CVE-2025-7340](https://github.com/Nxploited/CVE-2025-7340)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-7340">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-7340">
@@ -10367,6 +10372,11 @@
 - [BastianXploited/CVE-2025-15030](https://github.com/BastianXploited/CVE-2025-15030)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2025-15030">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2025-15030">
 - [Nxploited/CVE-2025-15030](https://github.com/Nxploited/CVE-2025-15030)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-15030">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-15030">
 - [BastianXploited/CVE-2025-15030](https://github.com/BastianXploited/CVE-2025-15030)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2025-15030">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2025-15030">
+
+---
+## CVE-2025-15001 ()
+> 
+- [r00thex/CVE-2025-15001-Exploit](https://github.com/r00thex/CVE-2025-15001-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/r00thex/CVE-2025-15001-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/r00thex/CVE-2025-15001-Exploit">
 
 ---
 ## CVE-2025-14998 ()
