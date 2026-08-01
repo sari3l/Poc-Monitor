@@ -11067,6 +11067,11 @@
 - [Nguyen-Van-Gia-Binh/Fcode-Security-Demo](https://github.com/Nguyen-Van-Gia-Binh/Fcode-Security-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/Nguyen-Van-Gia-Binh/Fcode-Security-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/Nguyen-Van-Gia-Binh/Fcode-Security-Demo">
 
 ---
+## CVE-2025-10897 ()
+> 
+- [error-inside/CVE-2025-10897](https://github.com/error-inside/CVE-2025-10897)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2025-10897">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2025-10897">
+
+---
 ## CVE-2025-10878 ()
 > 
 - [onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi](https://github.com/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi">
