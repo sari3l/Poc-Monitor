@@ -251,6 +251,7 @@
 - [KelvinWin10/CVE-2017-7921-rewrite](https://github.com/KelvinWin10/CVE-2017-7921-rewrite)	<img alt="forks" src="https://img.shields.io/github/forks/KelvinWin10/CVE-2017-7921-rewrite">	<img alt="stars" src="https://img.shields.io/github/stars/KelvinWin10/CVE-2017-7921-rewrite">
 - [MartinxMax/BloodCat](https://github.com/MartinxMax/BloodCat)	<img alt="forks" src="https://img.shields.io/github/forks/MartinxMax/BloodCat">	<img alt="stars" src="https://img.shields.io/github/stars/MartinxMax/BloodCat">
 - [MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026](https://github.com/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026)	<img alt="forks" src="https://img.shields.io/github/forks/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026">	<img alt="stars" src="https://img.shields.io/github/stars/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026">
+- [xjghnxhlh/CVE-2017-7921](https://github.com/xjghnxhlh/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/xjghnxhlh/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/xjghnxhlh/CVE-2017-7921">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
