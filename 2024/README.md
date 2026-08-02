@@ -4452,6 +4452,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422)	<img alt="forks" src="https://img.shields.io/github/forks/alpernae/CVE-2024-40422">	<img alt="stars" src="https://img.shields.io/github/stars/alpernae/CVE-2024-40422">
 - [codeb0ss/CVE-2024-40422-PoC](https://github.com/codeb0ss/CVE-2024-40422-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-40422-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-40422-PoC">
 - [j3r1ch0123/CVE-2024-40422](https://github.com/j3r1ch0123/CVE-2024-40422)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2024-40422">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2024-40422">
+- [alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422)	<img alt="forks" src="https://img.shields.io/github/forks/alpernae/CVE-2024-40422">	<img alt="stars" src="https://img.shields.io/github/stars/alpernae/CVE-2024-40422">
 
 ---
 ## CVE-2024-4041 ()
