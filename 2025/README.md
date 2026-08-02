@@ -823,6 +823,7 @@
 ## CVE-2025-68937 ()
 > 
 - [ClemaX/Gitea-Forgejo-CVE-2025-68937](https://github.com/ClemaX/Gitea-Forgejo-CVE-2025-68937)	<img alt="forks" src="https://img.shields.io/github/forks/ClemaX/Gitea-Forgejo-CVE-2025-68937">	<img alt="stars" src="https://img.shields.io/github/stars/ClemaX/Gitea-Forgejo-CVE-2025-68937">
+- [Scratchappy/CVE-2025-68937](https://github.com/Scratchappy/CVE-2025-68937)	<img alt="forks" src="https://img.shields.io/github/forks/Scratchappy/CVE-2025-68937">	<img alt="stars" src="https://img.shields.io/github/stars/Scratchappy/CVE-2025-68937">
 
 ---
 ## CVE-2025-68930 ()
