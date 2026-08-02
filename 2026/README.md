@@ -2667,6 +2667,8 @@
 - [CatXiaoShi/cve-2026-43499](https://github.com/CatXiaoShi/cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CatXiaoShi/cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CatXiaoShi/cve-2026-43499">
 - [fusiondrive/CVE-2026-43499-A36](https://github.com/fusiondrive/CVE-2026-43499-A36)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-A36">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-A36">
 - [1ndevelopment/CVE-2026-43499-S26](https://github.com/1ndevelopment/CVE-2026-43499-S26)	<img alt="forks" src="https://img.shields.io/github/forks/1ndevelopment/CVE-2026-43499-S26">	<img alt="stars" src="https://img.shields.io/github/stars/1ndevelopment/CVE-2026-43499-S26">
+- [veygax/HORiZonstack](https://github.com/veygax/HORiZonstack)	<img alt="forks" src="https://img.shields.io/github/forks/veygax/HORiZonstack">	<img alt="stars" src="https://img.shields.io/github/stars/veygax/HORiZonstack">
+- [suominen/ghostlock](https://github.com/suominen/ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/ghostlock">
 
 ---
 ## CVE-2026-43494 ()
