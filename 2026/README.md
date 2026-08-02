@@ -31,6 +31,11 @@
 - [aj2108/CVE-2026-9811](https://github.com/aj2108/CVE-2026-9811)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9811">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9811">
 
 ---
+## CVE-2026-9809 ()
+> 
+- [aj2108/CVE-2026-9809](https://github.com/aj2108/CVE-2026-9809)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9809">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9809">
+
+---
 ## CVE-2026-9789 ()
 > 
 - [ugvxb/CVE-2026-9789](https://github.com/ugvxb/CVE-2026-9789)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9789">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9789">
