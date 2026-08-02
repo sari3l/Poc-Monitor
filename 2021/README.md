@@ -9201,6 +9201,7 @@
 - [SimoesCTT/CTT-enhanced-VMware-vCenter](https://github.com/SimoesCTT/CTT-enhanced-VMware-vCenter)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-enhanced-VMware-vCenter">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-enhanced-VMware-vCenter">
 - [W01fh4cker/VcenterKit](https://github.com/W01fh4cker/VcenterKit)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/VcenterKit">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/VcenterKit">
 - [TAI-REx/CVE-2021-21972](https://github.com/TAI-REx/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/TAI-REx/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/TAI-REx/CVE-2021-21972">
+- [Hurrrraaaa/CVE-2021-21972](https://github.com/Hurrrraaaa/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/Hurrrraaaa/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/Hurrrraaaa/CVE-2021-21972">
 
 ---
 ## CVE-2021-21964 (2022-02-04T23:15:00)
