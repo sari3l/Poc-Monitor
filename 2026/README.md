@@ -3124,6 +3124,7 @@
 - [Lutfifakee-Project/CVE-2026-41651](https://github.com/Lutfifakee-Project/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-41651">
 - [0xDVRK/CVE-2026-41651](https://github.com/0xDVRK/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/0xDVRK/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/0xDVRK/CVE-2026-41651">
 - [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
+- [gbuyssens/CVE-2026-41651](https://github.com/gbuyssens/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-41651">
 
 ---
 ## CVE-2026-41575 ()
@@ -3396,6 +3397,7 @@
 - [M3PH1569/CVE-2026-39987-POC](https://github.com/M3PH1569/CVE-2026-39987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/M3PH1569/CVE-2026-39987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/M3PH1569/CVE-2026-39987-POC">
 - [0xdeadroot/CVE-2026-39987-marimo-rce](https://github.com/0xdeadroot/CVE-2026-39987-marimo-rce)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeadroot/CVE-2026-39987-marimo-rce">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeadroot/CVE-2026-39987-marimo-rce">
 - [HORKimhab/CVE-2026-39987](https://github.com/HORKimhab/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39987">
+- [gbuyssens/CVE-2026-39987](https://github.com/gbuyssens/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
@@ -5045,6 +5047,7 @@
 - [jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">
 - [aettern/copyfrag-fuse](https://github.com/aettern/copyfrag-fuse)	<img alt="forks" src="https://img.shields.io/github/forks/aettern/copyfrag-fuse">	<img alt="stars" src="https://img.shields.io/github/stars/aettern/copyfrag-fuse">
 - [sandraschi/copy-fail-mcp](https://github.com/sandraschi/copy-fail-mcp)	<img alt="forks" src="https://img.shields.io/github/forks/sandraschi/copy-fail-mcp">	<img alt="stars" src="https://img.shields.io/github/stars/sandraschi/copy-fail-mcp">
+- [TeamN4C/SG-2026-0013](https://github.com/TeamN4C/SG-2026-0013)	<img alt="forks" src="https://img.shields.io/github/forks/TeamN4C/SG-2026-0013">	<img alt="stars" src="https://img.shields.io/github/stars/TeamN4C/SG-2026-0013">
 
 ---
 ## CVE-2026-3143 ()
