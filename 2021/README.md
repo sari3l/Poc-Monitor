@@ -9176,7 +9176,7 @@
 - [NS-Sp4ce/CVE-2021-21972](https://github.com/NS-Sp4ce/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/NS-Sp4ce/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/NS-Sp4ce/CVE-2021-21972">
 - [stevenp322/cve-2021-21972](https://github.com/stevenp322/cve-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/stevenp322/cve-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/stevenp322/cve-2021-21972">
 - [psc4re/NSE-scripts](https://github.com/psc4re/NSE-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/psc4re/NSE-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/psc4re/NSE-scripts">
-- [haiclover/CVE-2021-21972](https://github.com/haiclover/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/haiclover/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/haiclover/CVE-2021-21972">
+- [haidv35/CVE-2021-21972](https://github.com/haidv35/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/haidv35/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/haidv35/CVE-2021-21972">
 - [murataydemir/CVE-2021-21972](https://github.com/murataydemir/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2021-21972">
 - [password520/CVE-2021-21972](https://github.com/password520/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/password520/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/password520/CVE-2021-21972">
 - [Osyanina/westone-CVE-2021-21972-scanner](https://github.com/Osyanina/westone-CVE-2021-21972-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Osyanina/westone-CVE-2021-21972-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Osyanina/westone-CVE-2021-21972-scanner">
@@ -9198,6 +9198,9 @@
 - [alt3kx/CVE-2021-21972](https://github.com/alt3kx/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2021-21972">
 - [Udyz/CVE-2021-21972](https://github.com/Udyz/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2021-21972">
 - [Hurrrraaaa/CVE-2021-21972](https://github.com/Hurrrraaaa/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/Hurrrraaaa/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/Hurrrraaaa/CVE-2021-21972">
+- [SimoesCTT/CTT-enhanced-VMware-vCenter](https://github.com/SimoesCTT/CTT-enhanced-VMware-vCenter)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-enhanced-VMware-vCenter">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-enhanced-VMware-vCenter">
+- [W01fh4cker/VcenterKit](https://github.com/W01fh4cker/VcenterKit)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/VcenterKit">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/VcenterKit">
+- [TAI-REx/CVE-2021-21972](https://github.com/TAI-REx/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/TAI-REx/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/TAI-REx/CVE-2021-21972">
 
 ---
 ## CVE-2021-21964 (2022-02-04T23:15:00)
