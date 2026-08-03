@@ -630,6 +630,11 @@
 - [swornim619/CVE-2026-65650](https://github.com/swornim619/CVE-2026-65650)	<img alt="forks" src="https://img.shields.io/github/forks/swornim619/CVE-2026-65650">	<img alt="stars" src="https://img.shields.io/github/stars/swornim619/CVE-2026-65650">
 
 ---
+## CVE-2026-65321 ()
+> 
+- [rahulreddykarne/CVE-2026-65321-pyathena](https://github.com/rahulreddykarne/CVE-2026-65321-pyathena)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-65321-pyathena">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-65321-pyathena">
+
+---
 ## CVE-2026-65008 ()
 > 
 - [zer0dayf/CVE-2026-65008](https://github.com/zer0dayf/CVE-2026-65008)	<img alt="forks" src="https://img.shields.io/github/forks/zer0dayf/CVE-2026-65008">	<img alt="stars" src="https://img.shields.io/github/stars/zer0dayf/CVE-2026-65008">
@@ -900,6 +905,7 @@
 - [mcipekci/wp2shell](https://github.com/mcipekci/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mcipekci/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mcipekci/wp2shell">
 - [Iqbalx7/wp2shell](https://github.com/Iqbalx7/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Iqbalx7/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Iqbalx7/wp2shell">
 - [Dungsocool/CVE-2026-60137_CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137_CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137_CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137_CVE-2026-63030">
+- [AdarshThakur14777-cyber/CVE-2026-60137](https://github.com/AdarshThakur14777-cyber/CVE-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/AdarshThakur14777-cyber/CVE-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/AdarshThakur14777-cyber/CVE-2026-60137">
 
 ---
 ## CVE-2026-60121 ()
@@ -917,6 +923,7 @@
 - [HORKimhab/CVE-2026-60004](https://github.com/HORKimhab/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-60004">
 - [EQSTLab/CVE-2026-60004](https://github.com/EQSTLab/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-60004">
 - [0xBlackash/CVE-2026-60004](https://github.com/0xBlackash/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-60004">
+- [imbas007/CVE-2026-60004-POC](https://github.com/imbas007/CVE-2026-60004-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-60004-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-60004-POC">
 
 ---
 ## CVE-2026-59941 ()
@@ -7607,6 +7614,7 @@
 ## CVE-2026-2020 ()
 > 
 - [George0Papasotiriou/CVE-2026-2020-SSRF-via-URL-Parser-Differential](https://github.com/George0Papasotiriou/CVE-2026-2020-SSRF-via-URL-Parser-Differential)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-2020-SSRF-via-URL-Parser-Differential">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-2020-SSRF-via-URL-Parser-Differential">
+- [blackjack550/vigil](https://github.com/blackjack550/vigil)	<img alt="forks" src="https://img.shields.io/github/forks/blackjack550/vigil">	<img alt="stars" src="https://img.shields.io/github/stars/blackjack550/vigil">
 
 ---
 ## CVE-2026-20182 ()
@@ -7707,6 +7715,11 @@
 ## CVE-2026-1814 ()
 > 
 - [pbrass/CVE-2026-1814](https://github.com/pbrass/CVE-2026-1814)	<img alt="forks" src="https://img.shields.io/github/forks/pbrass/CVE-2026-1814">	<img alt="stars" src="https://img.shields.io/github/stars/pbrass/CVE-2026-1814">
+
+---
+## CVE-2026-17583 ()
+> 
+- [HORKimhab/CVE-2026-17583](https://github.com/HORKimhab/CVE-2026-17583)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-17583">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-17583">
 
 ---
 ## CVE-2026-17351 ()
