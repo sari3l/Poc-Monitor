@@ -32827,6 +32827,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [cassie0206/CVE-2022-21907](https://github.com/cassie0206/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/cassie0206/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/cassie0206/CVE-2022-21907">
 - [asepsaepdin/CVE-2022-21907](https://github.com/asepsaepdin/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2022-21907">
 - [kamal-marouane/CVE-2022-21907](https://github.com/kamal-marouane/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/kamal-marouane/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/kamal-marouane/CVE-2022-21907">
+- [siboy17/CVE-2022-21907-http.sys](https://github.com/siboy17/CVE-2022-21907-http.sys)	<img alt="forks" src="https://img.shields.io/github/forks/siboy17/CVE-2022-21907-http.sys">	<img alt="stars" src="https://img.shields.io/github/stars/siboy17/CVE-2022-21907-http.sys">
 
 ---
 ## CVE-2022-21906 (2022-01-11T21:15:00)
