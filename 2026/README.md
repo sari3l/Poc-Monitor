@@ -1379,6 +1379,8 @@
 - [KrakenEU/CVE-2026-54121-CertiGhost](https://github.com/KrakenEU/CVE-2026-54121-CertiGhost)	<img alt="forks" src="https://img.shields.io/github/forks/KrakenEU/CVE-2026-54121-CertiGhost">	<img alt="stars" src="https://img.shields.io/github/stars/KrakenEU/CVE-2026-54121-CertiGhost">
 - [nafiez/Metasploit-CVE-2026-54121-Certighost](https://github.com/nafiez/Metasploit-CVE-2026-54121-Certighost)	<img alt="forks" src="https://img.shields.io/github/forks/nafiez/Metasploit-CVE-2026-54121-Certighost">	<img alt="stars" src="https://img.shields.io/github/stars/nafiez/Metasploit-CVE-2026-54121-Certighost">
 - [AtlasVector/Certighost-CVE-2026-54121](https://github.com/AtlasVector/Certighost-CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/AtlasVector/Certighost-CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/AtlasVector/Certighost-CVE-2026-54121">
+- [sam00/POC-CVE-2026-54121-Certighost](https://github.com/sam00/POC-CVE-2026-54121-Certighost)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-54121-Certighost">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-54121-Certighost">
+- [AtlasVector/Certighost-CVE-2026-54121](https://github.com/AtlasVector/Certighost-CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/AtlasVector/Certighost-CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/AtlasVector/Certighost-CVE-2026-54121">
 
 ---
 ## CVE-2026-5411 ()
@@ -3723,6 +3725,7 @@
 - [shinthink/CVE-2026-3891](https://github.com/shinthink/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-3891">
 - [m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">
 - [VeronnX666/CVE-2026-3891](https://github.com/VeronnX666/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/VeronnX666/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/VeronnX666/CVE-2026-3891">
+- [Ch4120N/CVE-2026-3891](https://github.com/Ch4120N/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-3891">
 
 ---
 ## CVE-2026-3888 ()
@@ -4716,6 +4719,11 @@
 - [MichaelAdamGroberman/CVE-2026-32646](https://github.com/MichaelAdamGroberman/CVE-2026-32646)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-32646">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-32646">
 - [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
 - [MichaelAdamGroberman/CVE-2026-32646](https://github.com/MichaelAdamGroberman/CVE-2026-32646)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-32646">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-32646">
+
+---
+## CVE-2026-32621 ()
+> 
+- [sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability](https://github.com/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability">
 
 ---
 ## CVE-2026-32488 ()
@@ -6131,6 +6139,7 @@
 > 
 - [huynambka/cve-2026-26114](https://github.com/huynambka/cve-2026-26114)	<img alt="forks" src="https://img.shields.io/github/forks/huynambka/cve-2026-26114">	<img alt="stars" src="https://img.shields.io/github/stars/huynambka/cve-2026-26114">
 - [huynambka/cve-2026-26114-poc](https://github.com/huynambka/cve-2026-26114-poc)	<img alt="forks" src="https://img.shields.io/github/forks/huynambka/cve-2026-26114-poc">	<img alt="stars" src="https://img.shields.io/github/stars/huynambka/cve-2026-26114-poc">
+- [fazilbaig1/CVE-2026-26114-Patch](https://github.com/fazilbaig1/CVE-2026-26114-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2026-26114-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2026-26114-Patch">
 
 ---
 ## CVE-2026-26030 ()
@@ -7875,6 +7884,7 @@
 - [0xBlackash/CVE-2026-15409](https://github.com/0xBlackash/CVE-2026-15409)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-15409">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-15409">
 - [tc4dy/CVE-2026-15409-15410-Framework](https://github.com/tc4dy/CVE-2026-15409-15410-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-15409-15410-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-15409-15410-Framework">
 - [MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check](https://github.com/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check)	<img alt="forks" src="https://img.shields.io/github/forks/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check">	<img alt="stars" src="https://img.shields.io/github/stars/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check">
+- [Ch4120N/CVE-2026-15409](https://github.com/Ch4120N/CVE-2026-15409)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-15409">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-15409">
 
 ---
 ## CVE-2026-1529 ()

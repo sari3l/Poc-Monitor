@@ -2416,6 +2416,11 @@ use after free.
 - [Yh4r3DvR0/CVE-2019-17495](https://github.com/Yh4r3DvR0/CVE-2019-17495)	<img alt="forks" src="https://img.shields.io/github/forks/Yh4r3DvR0/CVE-2019-17495">	<img alt="stars" src="https://img.shields.io/github/stars/Yh4r3DvR0/CVE-2019-17495">
 
 ---
+## CVE-2019-1749 ()
+> 
+- [delbertgiovanni/test-xss-swagger-CVE-2019-1749](https://github.com/delbertgiovanni/test-xss-swagger-CVE-2019-1749)	<img alt="forks" src="https://img.shields.io/github/forks/delbertgiovanni/test-xss-swagger-CVE-2019-1749">	<img alt="stars" src="https://img.shields.io/github/stars/delbertgiovanni/test-xss-swagger-CVE-2019-1749">
+
+---
 ## CVE-2019-17402 (2019-10-09T19:15:00)
 > Exiv2 0.27.2 allows attackers to trigger a crash in Exiv2::getULong in types.cpp when called from Exiv2::Internal::CiffDirectory::readDirectory in crwimage_int.cpp, because there is no validation of the relationship of the total size to the offset and size.
 - [Live-Hack-CVE/CVE-2019-17402](https://github.com/Live-Hack-CVE/CVE-2019-17402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17402">
