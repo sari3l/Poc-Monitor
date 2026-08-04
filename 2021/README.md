@@ -615,6 +615,7 @@
 ## CVE-2021-44790 (2021-12-20T12:15:00)
 > A carefully crafted request body can cause a buffer overflow in the mod_lua multipart parser (r:parsebody() called from Lua scripts). The Apache httpd team is not aware of an exploit for the vulnerabilty though it might be possible to craft one. This issue affects Apache HTTP Server 2.4.51 and earlier.
 - [nuPacaChi/-CVE-2021-44790](https://github.com/nuPacaChi/-CVE-2021-44790)	<img alt="forks" src="https://img.shields.io/github/forks/nuPacaChi/-CVE-2021-44790">	<img alt="stars" src="https://img.shields.io/github/stars/nuPacaChi/-CVE-2021-44790">
+- [CerberusMrXi/Apache-Lua-Buffer-Overflow-Exploit-CVE-2021-44790](https://github.com/CerberusMrXi/Apache-Lua-Buffer-Overflow-Exploit-CVE-2021-44790)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Apache-Lua-Buffer-Overflow-Exploit-CVE-2021-44790">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Apache-Lua-Buffer-Overflow-Exploit-CVE-2021-44790">
 
 ---
 ## CVE-2021-44759 (2022-03-23T14:15:00)

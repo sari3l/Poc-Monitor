@@ -480,6 +480,11 @@
 - [omidsec/CVE-2018-6389](https://github.com/omidsec/CVE-2018-6389)	<img alt="forks" src="https://img.shields.io/github/forks/omidsec/CVE-2018-6389">	<img alt="stars" src="https://img.shields.io/github/stars/omidsec/CVE-2018-6389">
 
 ---
+## CVE-2018-6341 ()
+> 
+- [nitindevelopermca/react-CVE-2018-6341](https://github.com/nitindevelopermca/react-CVE-2018-6341)	<img alt="forks" src="https://img.shields.io/github/forks/nitindevelopermca/react-CVE-2018-6341">	<img alt="stars" src="https://img.shields.io/github/stars/nitindevelopermca/react-CVE-2018-6341">
+
+---
 ## CVE-2018-6242 (2018-05-01T20:29:00)
 > Some NVIDIA Tegra mobile processors released prior to 2016 contain a buffer overflow vulnerability in BootROM Recovery Mode (RCM). An attacker with physical access to the device's USB and the ability to force the device to reboot into RCM could exploit the vulnerability to execute unverified code.
 - [Haruster/Haruster-Nintendo-CVE-2018-6242](https://github.com/Haruster/Haruster-Nintendo-CVE-2018-6242)	<img alt="forks" src="https://img.shields.io/github/forks/Haruster/Haruster-Nintendo-CVE-2018-6242">	<img alt="stars" src="https://img.shields.io/github/stars/Haruster/Haruster-Nintendo-CVE-2018-6242">
