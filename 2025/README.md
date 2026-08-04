@@ -4795,6 +4795,7 @@
 - [J4ck3LSyN-Gen2/CVE-2025-53770](https://github.com/J4ck3LSyN-Gen2/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2025-53770">
 - [Zedocun/SharePoint-ToolShell-CVE-2025-53770-Incident-Analysis](https://github.com/Zedocun/SharePoint-ToolShell-CVE-2025-53770-Incident-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/SharePoint-ToolShell-CVE-2025-53770-Incident-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/SharePoint-ToolShell-CVE-2025-53770-Incident-Analysis">
 - [doerrdan/it-sec-toolshell](https://github.com/doerrdan/it-sec-toolshell)	<img alt="forks" src="https://img.shields.io/github/forks/doerrdan/it-sec-toolshell">	<img alt="stars" src="https://img.shields.io/github/stars/doerrdan/it-sec-toolshell">
+- [mfarshadabdullahkhan-png/cve-2025-53770-research](https://github.com/mfarshadabdullahkhan-png/cve-2025-53770-research)	<img alt="forks" src="https://img.shields.io/github/forks/mfarshadabdullahkhan-png/cve-2025-53770-research">	<img alt="stars" src="https://img.shields.io/github/stars/mfarshadabdullahkhan-png/cve-2025-53770-research">
 
 ---
 ## CVE-2025-53744 ()
@@ -7584,6 +7585,7 @@
 - [v3rycl0p3r/CVE-2025-32463](https://github.com/v3rycl0p3r/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/v3rycl0p3r/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/v3rycl0p3r/CVE-2025-32463">
 - [Fomovet/cve-2025-32463](https://github.com/Fomovet/cve-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-32463">
 - [secvulnhub/CVE-2025-32463-EXPLOIT](https://github.com/secvulnhub/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/secvulnhub/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/secvulnhub/CVE-2025-32463-EXPLOIT">
+- [0xdak/CVE-2025-32463_exploit](https://github.com/0xdak/CVE-2025-32463_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2025-32463_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2025-32463_exploit">
 
 ---
 ## CVE-2025-32462 ()
