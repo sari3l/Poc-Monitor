@@ -414,6 +414,11 @@
 - [George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection](https://github.com/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">
 
 ---
+## CVE-2026-70481 ()
+> 
+- [Foxer131/CVE-2026-70481](https://github.com/Foxer131/CVE-2026-70481)	<img alt="forks" src="https://img.shields.io/github/forks/Foxer131/CVE-2026-70481">	<img alt="stars" src="https://img.shields.io/github/stars/Foxer131/CVE-2026-70481">
+
+---
 ## CVE-2026-7020 ()
 > 
 - [davidrxchester/CVE-2026-7020](https://github.com/davidrxchester/CVE-2026-7020)	<img alt="forks" src="https://img.shields.io/github/forks/davidrxchester/CVE-2026-7020">	<img alt="stars" src="https://img.shields.io/github/stars/davidrxchester/CVE-2026-7020">
