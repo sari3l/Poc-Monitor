@@ -2393,8 +2393,11 @@
 ---
 ## CVE-2026-46243 ()
 > 
-- [MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-](https://github.com/MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-)	<img alt="forks" src="https://img.shields.io/github/forks/MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-">	<img alt="stars" src="https://img.shields.io/github/stars/MrForkBomb/CIFSwitch-Checker---CVE-2026-46243-">
+- [MrForkBomb/CIFSwitch-Checker-CVE-2026-46243](https://github.com/MrForkBomb/CIFSwitch-Checker-CVE-2026-46243)	<img alt="forks" src="https://img.shields.io/github/forks/MrForkBomb/CIFSwitch-Checker-CVE-2026-46243">	<img alt="stars" src="https://img.shields.io/github/stars/MrForkBomb/CIFSwitch-Checker-CVE-2026-46243">
 - [0xBlackash/CVE-2026-46243](https://github.com/0xBlackash/CVE-2026-46243)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46243">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46243">
+- [suominen/cifswitch](https://github.com/suominen/cifswitch)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/cifswitch">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/cifswitch">
+- [liamromanis101/cifswitch-check](https://github.com/liamromanis101/cifswitch-check)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/cifswitch-check">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/cifswitch-check">
+- [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 
 ---
 ## CVE-2026-46242 ()
@@ -2467,6 +2470,7 @@
 - [tchuin2609/tchuin2609.github.io](https://github.com/tchuin2609/tchuin2609.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/tchuin2609/tchuin2609.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/tchuin2609/tchuin2609.github.io">
 - [yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585">
 - [Aqua1214/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">
+- [Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -8280,6 +8284,51 @@
 ## CVE-2026-1111 ()
 > 
 - [George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy](https://github.com/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy">
+
+---
+## CVE-2026-11109 ()
+> 
+- [George0Papasotiriou/CVE-2026-11109-Bluetooth-Classic-KNOB-Attack-Key-Negotiation-of-Bluetooth-](https://github.com/George0Papasotiriou/CVE-2026-11109-Bluetooth-Classic-KNOB-Attack-Key-Negotiation-of-Bluetooth-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11109-Bluetooth-Classic-KNOB-Attack-Key-Negotiation-of-Bluetooth-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11109-Bluetooth-Classic-KNOB-Attack-Key-Negotiation-of-Bluetooth-">
+
+---
+## CVE-2026-11108 ()
+> 
+- [George0Papasotiriou/CVE-2026-11108-Integer-Overflow-in-Memory-Allocator-kmalloc-Sim-](https://github.com/George0Papasotiriou/CVE-2026-11108-Integer-Overflow-in-Memory-Allocator-kmalloc-Sim-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11108-Integer-Overflow-in-Memory-Allocator-kmalloc-Sim-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11108-Integer-Overflow-in-Memory-Allocator-kmalloc-Sim-">
+
+---
+## CVE-2026-11107 ()
+> 
+- [George0Papasotiriou/CVE-2026-11107-Insecure-Direct-Object-Reference-with-Predictable-UUIDv1](https://github.com/George0Papasotiriou/CVE-2026-11107-Insecure-Direct-Object-Reference-with-Predictable-UUIDv1)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11107-Insecure-Direct-Object-Reference-with-Predictable-UUIDv1">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11107-Insecure-Direct-Object-Reference-with-Predictable-UUIDv1">
+
+---
+## CVE-2026-11106 ()
+> 
+- [George0Papasotiriou/CVE-2026-11106-DNS-Zone-Transfer-AXFR-Information-Disclosure](https://github.com/George0Papasotiriou/CVE-2026-11106-DNS-Zone-Transfer-AXFR-Information-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11106-DNS-Zone-Transfer-AXFR-Information-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11106-DNS-Zone-Transfer-AXFR-Information-Disclosure">
+
+---
+## CVE-2026-11105 ()
+> 
+- [George0Papasotiriou/CVE-2026-11105-Stack-Buffer-Overflow-in-Custom-Base64-Decoder](https://github.com/George0Papasotiriou/CVE-2026-11105-Stack-Buffer-Overflow-in-Custom-Base64-Decoder)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11105-Stack-Buffer-Overflow-in-Custom-Base64-Decoder">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11105-Stack-Buffer-Overflow-in-Custom-Base64-Decoder">
+
+---
+## CVE-2026-11104 ()
+> 
+- [George0Papasotiriou/CVE-2026-11104-Python-SSTI-via-Jinja2-attr-Filter-Bypass](https://github.com/George0Papasotiriou/CVE-2026-11104-Python-SSTI-via-Jinja2-attr-Filter-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11104-Python-SSTI-via-Jinja2-attr-Filter-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11104-Python-SSTI-via-Jinja2-attr-Filter-Bypass">
+
+---
+## CVE-2026-11103 ()
+> 
+- [George0Papasotiriou/CVE-2026-11103-GraphQL-Batching-Alias-Rate-Limit-Bypass](https://github.com/George0Papasotiriou/CVE-2026-11103-GraphQL-Batching-Alias-Rate-Limit-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11103-GraphQL-Batching-Alias-Rate-Limit-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11103-GraphQL-Batching-Alias-Rate-Limit-Bypass">
+
+---
+## CVE-2026-11102 ()
+> 
+- [George0Papasotiriou/CVE-2026-11102-OAuth2-Implicit-Grant-Fragment-Hijacking](https://github.com/George0Papasotiriou/CVE-2026-11102-OAuth2-Implicit-Grant-Fragment-Hijacking)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11102-OAuth2-Implicit-Grant-Fragment-Hijacking">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11102-OAuth2-Implicit-Grant-Fragment-Hijacking">
+
+---
+## CVE-2026-11101 ()
+> 
+- [George0Papasotiriou/CVE-2026-11101-HTTP-Cache-Poisoning-via-Unkeyed-Query-Parameter](https://github.com/George0Papasotiriou/CVE-2026-11101-HTTP-Cache-Poisoning-via-Unkeyed-Query-Parameter)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11101-HTTP-Cache-Poisoning-via-Unkeyed-Query-Parameter">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11101-HTTP-Cache-Poisoning-via-Unkeyed-Query-Parameter">
 
 ---
 ## CVE-2026-1107 ()
