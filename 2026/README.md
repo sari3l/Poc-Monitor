@@ -5289,6 +5289,7 @@
 - [sandraschi/copy-fail-mcp](https://github.com/sandraschi/copy-fail-mcp)	<img alt="forks" src="https://img.shields.io/github/forks/sandraschi/copy-fail-mcp">	<img alt="stars" src="https://img.shields.io/github/stars/sandraschi/copy-fail-mcp">
 - [TeamN4C/SG-2026-0013](https://github.com/TeamN4C/SG-2026-0013)	<img alt="forks" src="https://img.shields.io/github/forks/TeamN4C/SG-2026-0013">	<img alt="stars" src="https://img.shields.io/github/stars/TeamN4C/SG-2026-0013">
 - [TrevoCastles/CVE-2026-31431-copy-fail](https://github.com/TrevoCastles/CVE-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/TrevoCastles/CVE-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/TrevoCastles/CVE-2026-31431-copy-fail">
+- [dev1681/CVE-2026-31431](https://github.com/dev1681/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/dev1681/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/dev1681/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
