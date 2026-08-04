@@ -7283,6 +7283,36 @@
 - [sivaadityacoder/CVE-2026-22038](https://github.com/sivaadityacoder/CVE-2026-22038)	<img alt="forks" src="https://img.shields.io/github/forks/sivaadityacoder/CVE-2026-22038">	<img alt="stars" src="https://img.shields.io/github/stars/sivaadityacoder/CVE-2026-22038">
 
 ---
+## CVE-2026-22020 ()
+> 
+- [George0Papasotiriou/CVE-2026-22020-Weak-Seed-in-Quantum-Key-Distribution-Error-Correction](https://github.com/George0Papasotiriou/CVE-2026-22020-Weak-Seed-in-Quantum-Key-Distribution-Error-Correction)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-22020-Weak-Seed-in-Quantum-Key-Distribution-Error-Correction">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-22020-Weak-Seed-in-Quantum-Key-Distribution-Error-Correction">
+
+---
+## CVE-2026-22019 ()
+> 
+- [George0Papasotiriou/CVE-2026-22019-libcurl-HTTP-2-CONNECT-Tunnel-Mixup](https://github.com/George0Papasotiriou/CVE-2026-22019-libcurl-HTTP-2-CONNECT-Tunnel-Mixup)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-22019-libcurl-HTTP-2-CONNECT-Tunnel-Mixup">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-22019-libcurl-HTTP-2-CONNECT-Tunnel-Mixup">
+
+---
+## CVE-2026-22018 ()
+> 
+- [George0Papasotiriou/CVE-2026-22018-Jenkins-Pipeline-Shared-Library-Code-Execution-via-Grab-](https://github.com/George0Papasotiriou/CVE-2026-22018-Jenkins-Pipeline-Shared-Library-Code-Execution-via-Grab-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-22018-Jenkins-Pipeline-Shared-Library-Code-Execution-via-Grab-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-22018-Jenkins-Pipeline-Shared-Library-Code-Execution-via-Grab-">
+
+---
+## CVE-2026-22017 ()
+> 
+- [George0Papasotiriou/CVE-2026-22017-Firmware-Update-via-BLE-Without-Authentication](https://github.com/George0Papasotiriou/CVE-2026-22017-Firmware-Update-via-BLE-Without-Authentication)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-22017-Firmware-Update-via-BLE-Without-Authentication">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-22017-Firmware-Update-via-BLE-Without-Authentication">
+
+---
+## CVE-2026-22016 ()
+> 
+- [George0Papasotiriou/CVE-2026-22016-IPFS-CID-Spoofing-via-Multihash-Length-Extension](https://github.com/George0Papasotiriou/CVE-2026-22016-IPFS-CID-Spoofing-via-Multihash-Length-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-22016-IPFS-CID-Spoofing-via-Multihash-Length-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-22016-IPFS-CID-Spoofing-via-Multihash-Length-Extension">
+
+---
+## CVE-2026-22015 ()
+> 
+- [George0Papasotiriou/CVE-2026-22015-Serverless-Function-Environment-Variable-Injection-via-Event](https://github.com/George0Papasotiriou/CVE-2026-22015-Serverless-Function-Environment-Variable-Injection-via-Event)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-22015-Serverless-Function-Environment-Variable-Injection-via-Event">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-22015-Serverless-Function-Environment-Variable-Injection-via-Event">
+
+---
 ## CVE-2026-22014 ()
 > 
 - [George0Papasotiriou/CVE-2026-22014-GraphQL-Persisted-Queries-Injection-via-ID-Manipulation](https://github.com/George0Papasotiriou/CVE-2026-22014-GraphQL-Persisted-Queries-Injection-via-ID-Manipulation)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-22014-GraphQL-Persisted-Queries-Injection-via-ID-Manipulation">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-22014-GraphQL-Persisted-Queries-Injection-via-ID-Manipulation">
