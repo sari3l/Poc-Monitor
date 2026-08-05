@@ -41,6 +41,11 @@
 - [ChPratik/CVE-2026-9830](https://github.com/ChPratik/CVE-2026-9830)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-9830">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-9830">
 
 ---
+## CVE-2026-98198 ()
+> 
+- [rmhowe425/PoC-CVE-2026-98198](https://github.com/rmhowe425/PoC-CVE-2026-98198)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/PoC-CVE-2026-98198">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/PoC-CVE-2026-98198">
+
+---
 ## CVE-2026-9811 ()
 > 
 - [aj2108/CVE-2026-9811](https://github.com/aj2108/CVE-2026-9811)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9811">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9811">
