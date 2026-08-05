@@ -415,6 +415,11 @@
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
 
 ---
+## CVE-2026-71211 ()
+> 
+- [Abdivasiyev2008/CVE-2026-71211-exploit](https://github.com/Abdivasiyev2008/CVE-2026-71211-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Abdivasiyev2008/CVE-2026-71211-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Abdivasiyev2008/CVE-2026-71211-exploit">
+
+---
 ## CVE-2026-7070 ()
 > 
 - [George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection](https://github.com/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">
