@@ -8100,6 +8100,11 @@
 - [Totunm/CVE-2025-30392](https://github.com/Totunm/CVE-2025-30392)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-30392">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-30392">
 
 ---
+## CVE-2025-30374 ()
+> 
+- [jackfromeast/CVE-2025-30374](https://github.com/jackfromeast/CVE-2025-30374)	<img alt="forks" src="https://img.shields.io/github/forks/jackfromeast/CVE-2025-30374">	<img alt="stars" src="https://img.shields.io/github/stars/jackfromeast/CVE-2025-30374">
+
+---
 ## CVE-2025-30355 ()
 > 
 - [ui-bootstrap/CVE-2025-30355](https://github.com/ui-bootstrap/CVE-2025-30355)	<img alt="forks" src="https://img.shields.io/github/forks/ui-bootstrap/CVE-2025-30355">	<img alt="stars" src="https://img.shields.io/github/stars/ui-bootstrap/CVE-2025-30355">
