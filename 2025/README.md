@@ -8618,6 +8618,7 @@
 - [em0gi/CVE-2025-27840](https://github.com/em0gi/CVE-2025-27840)	<img alt="forks" src="https://img.shields.io/github/forks/em0gi/CVE-2025-27840">	<img alt="stars" src="https://img.shields.io/github/stars/em0gi/CVE-2025-27840">
 - [demining/Bluetooth-Attacks-CVE-2025-27840](https://github.com/demining/Bluetooth-Attacks-CVE-2025-27840)	<img alt="forks" src="https://img.shields.io/github/forks/demining/Bluetooth-Attacks-CVE-2025-27840">	<img alt="stars" src="https://img.shields.io/github/stars/demining/Bluetooth-Attacks-CVE-2025-27840">
 - [ladyg00se/CVE-2025-27840-WIP](https://github.com/ladyg00se/CVE-2025-27840-WIP)	<img alt="forks" src="https://img.shields.io/github/forks/ladyg00se/CVE-2025-27840-WIP">	<img alt="stars" src="https://img.shields.io/github/stars/ladyg00se/CVE-2025-27840-WIP">
+- [JasonW88/esp32-cve-2025-27840-power-trace-experiment](https://github.com/JasonW88/esp32-cve-2025-27840-power-trace-experiment)	<img alt="forks" src="https://img.shields.io/github/forks/JasonW88/esp32-cve-2025-27840-power-trace-experiment">	<img alt="stars" src="https://img.shields.io/github/stars/JasonW88/esp32-cve-2025-27840-power-trace-experiment">
 
 ---
 ## CVE-2025-2783 ()

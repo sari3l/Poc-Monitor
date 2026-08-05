@@ -3299,6 +3299,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [razureink/cve-2024-4577-phpcgi_rce_reproduction](https://github.com/razureink/cve-2024-4577-phpcgi_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-4577-phpcgi_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-4577-phpcgi_rce_reproduction">
 - [NKTriS/HTSOC](https://github.com/NKTriS/HTSOC)	<img alt="forks" src="https://img.shields.io/github/forks/NKTriS/HTSOC">	<img alt="stars" src="https://img.shields.io/github/stars/NKTriS/HTSOC">
 - [gl1tch0x1/PHP_8.1.x_Exploit](https://github.com/gl1tch0x1/PHP_8.1.x_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/PHP_8.1.x_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/PHP_8.1.x_Exploit">
+- [minwunn/CVE-2024-4577-Lab-and-Analysis](https://github.com/minwunn/CVE-2024-4577-Lab-and-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/minwunn/CVE-2024-4577-Lab-and-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/minwunn/CVE-2024-4577-Lab-and-Analysis">
 
 ---
 ## CVE-2024-4573 ()
@@ -9832,6 +9833,8 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research](https://github.com/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research)	<img alt="forks" src="https://img.shields.io/github/forks/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">	<img alt="stars" src="https://img.shields.io/github/stars/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">
 - [KaiHaoChen04/monikerlinktest](https://github.com/KaiHaoChen04/monikerlinktest)	<img alt="forks" src="https://img.shields.io/github/forks/KaiHaoChen04/monikerlinktest">	<img alt="stars" src="https://img.shields.io/github/stars/KaiHaoChen04/monikerlinktest">
 - [YoguiCR/CVE-2024-21413-Outlook-Assessment](https://github.com/YoguiCR/CVE-2024-21413-Outlook-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/YoguiCR/CVE-2024-21413-Outlook-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/YoguiCR/CVE-2024-21413-Outlook-Assessment">
+- [h4cknain/CVE-2024-21413-Microsoft-Outlook-Moniker-Link-Vulnerability](https://github.com/h4cknain/CVE-2024-21413-Microsoft-Outlook-Moniker-Link-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/h4cknain/CVE-2024-21413-Microsoft-Outlook-Moniker-Link-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/h4cknain/CVE-2024-21413-Microsoft-Outlook-Moniker-Link-Vulnerability">
+- [OmarMahmoud1024/tryhackme-monikerlink-writeup](https://github.com/OmarMahmoud1024/tryhackme-monikerlink-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/OmarMahmoud1024/tryhackme-monikerlink-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/OmarMahmoud1024/tryhackme-monikerlink-writeup">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
