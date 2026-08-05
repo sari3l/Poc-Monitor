@@ -480,6 +480,11 @@
 - [SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC](https://github.com/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">
 
 ---
+## CVE-2026-68004 ()
+> 
+- [xuwu-xuwu/CVE-2026-68004](https://github.com/xuwu-xuwu/CVE-2026-68004)	<img alt="forks" src="https://img.shields.io/github/forks/xuwu-xuwu/CVE-2026-68004">	<img alt="stars" src="https://img.shields.io/github/stars/xuwu-xuwu/CVE-2026-68004">
+
+---
 ## CVE-2026-6789 ()
 > 
 - [George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser](https://github.com/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser">

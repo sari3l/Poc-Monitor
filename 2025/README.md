@@ -7777,6 +7777,7 @@
 > 
 - [theGEBIRGE/CVE-2025-32375](https://github.com/theGEBIRGE/CVE-2025-32375)	<img alt="forks" src="https://img.shields.io/github/forks/theGEBIRGE/CVE-2025-32375">	<img alt="stars" src="https://img.shields.io/github/stars/theGEBIRGE/CVE-2025-32375">
 - [surajpandeyp/CVE-2025-32375](https://github.com/surajpandeyp/CVE-2025-32375)	<img alt="forks" src="https://img.shields.io/github/forks/surajpandeyp/CVE-2025-32375">	<img alt="stars" src="https://img.shields.io/github/stars/surajpandeyp/CVE-2025-32375">
+- [SevdaKhidirova/CVE-2025-32375-PoC](https://github.com/SevdaKhidirova/CVE-2025-32375-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SevdaKhidirova/CVE-2025-32375-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SevdaKhidirova/CVE-2025-32375-PoC">
 
 ---
 ## CVE-2025-32259 ()
