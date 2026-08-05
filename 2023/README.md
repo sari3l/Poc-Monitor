@@ -8390,6 +8390,11 @@ kernel memory, lateral privilege escalation, and container escape.
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
 
 ---
+## CVE-2023-20768 ()
+> 
+- [murf-xd/cve-2023-20768](https://github.com/murf-xd/cve-2023-20768)	<img alt="forks" src="https://img.shields.io/github/forks/murf-xd/cve-2023-20768">	<img alt="stars" src="https://img.shields.io/github/stars/murf-xd/cve-2023-20768">
+
+---
 ## CVE-2023-20598 (2023-10-17T14:15:00)
 > 
 

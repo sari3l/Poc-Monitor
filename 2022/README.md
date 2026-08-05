@@ -30281,6 +30281,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [deathflash1411/cve-2022-25012](https://github.com/deathflash1411/cve-2022-25012)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/cve-2022-25012">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/cve-2022-25012">
 - [G4sp4rCS/CVE-2022-25012-POC](https://github.com/G4sp4rCS/CVE-2022-25012-POC)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/CVE-2022-25012-POC">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/CVE-2022-25012-POC">
 - [XK3NF4/CVE-2022-25012](https://github.com/XK3NF4/CVE-2022-25012)	<img alt="forks" src="https://img.shields.io/github/forks/XK3NF4/CVE-2022-25012">	<img alt="stars" src="https://img.shields.io/github/stars/XK3NF4/CVE-2022-25012">
+- [m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption](https://github.com/m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption)	<img alt="forks" src="https://img.shields.io/github/forks/m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption">	<img alt="stars" src="https://img.shields.io/github/stars/m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption">
 
 ---
 ## CVE-2022-24999 (2022-11-26T22:15:00)
