@@ -868,6 +868,7 @@
 - [rechandra/wp2exp-2026](https://github.com/rechandra/wp2exp-2026)	<img alt="forks" src="https://img.shields.io/github/forks/rechandra/wp2exp-2026">	<img alt="stars" src="https://img.shields.io/github/stars/rechandra/wp2exp-2026">
 - [johnlodan/wp2shell-rce](https://github.com/johnlodan/wp2shell-rce)	<img alt="forks" src="https://img.shields.io/github/forks/johnlodan/wp2shell-rce">	<img alt="stars" src="https://img.shields.io/github/stars/johnlodan/wp2shell-rce">
 - [Dungsocool/CVE-2026-60137-CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137-CVE-2026-63030">
+- [AnggaTechI/CVE-2026-63030](https://github.com/AnggaTechI/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -7160,6 +7161,56 @@
 - [Baba01hacker666/CVE-2026-23111](https://github.com/Baba01hacker666/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-23111">
 - [bakano98/cve-2026-23111-poc](https://github.com/bakano98/cve-2026-23111-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bakano98/cve-2026-23111-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bakano98/cve-2026-23111-poc">
 - [vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111](https://github.com/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111">
+
+---
+## CVE-2026-23010 ()
+> 
+- [George0Papasotiriou/CVE-2026-23010-CCSDS-Telecommand-Replay-Without-Sequence-Number](https://github.com/George0Papasotiriou/CVE-2026-23010-CCSDS-Telecommand-Replay-Without-Sequence-Number)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23010-CCSDS-Telecommand-Replay-Without-Sequence-Number">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23010-CCSDS-Telecommand-Replay-Without-Sequence-Number">
+
+---
+## CVE-2026-23009 ()
+> 
+- [George0Papasotiriou/CVE-2026-23009-DICOM-Network-Image-Injection-Without-Authentication](https://github.com/George0Papasotiriou/CVE-2026-23009-DICOM-Network-Image-Injection-Without-Authentication)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23009-DICOM-Network-Image-Injection-Without-Authentication">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23009-DICOM-Network-Image-Injection-Without-Authentication">
+
+---
+## CVE-2026-23008 ()
+> 
+- [George0Papasotiriou/CVE-2026-23008-Solidity-Assembly-Return-Data-Size-Confusion](https://github.com/George0Papasotiriou/CVE-2026-23008-Solidity-Assembly-Return-Data-Size-Confusion)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23008-Solidity-Assembly-Return-Data-Size-Confusion">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23008-Solidity-Assembly-Return-Data-Size-Confusion">
+
+---
+## CVE-2026-23007 ()
+> 
+- [George0Papasotiriou/CVE-2026-23007-Serverless-Cold-Start-Memory-Remanence-Data-Leakage-](https://github.com/George0Papasotiriou/CVE-2026-23007-Serverless-Cold-Start-Memory-Remanence-Data-Leakage-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23007-Serverless-Cold-Start-Memory-Remanence-Data-Leakage-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23007-Serverless-Cold-Start-Memory-Remanence-Data-Leakage-">
+
+---
+## CVE-2026-23006 ()
+> 
+- [George0Papasotiriou/CVE-2026-23006-Kyber-Ciphertext-Length-Side-Channel](https://github.com/George0Papasotiriou/CVE-2026-23006-Kyber-Ciphertext-Length-Side-Channel)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23006-Kyber-Ciphertext-Length-Side-Channel">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23006-Kyber-Ciphertext-Length-Side-Channel">
+
+---
+## CVE-2026-23005 ()
+> 
+- [George0Papasotiriou/CVE-2026-23005-Matter-Commissioning-Code-Brute-Force-Without-Rate-Limit](https://github.com/George0Papasotiriou/CVE-2026-23005-Matter-Commissioning-Code-Brute-Force-Without-Rate-Limit)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23005-Matter-Commissioning-Code-Brute-Force-Without-Rate-Limit">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23005-Matter-Commissioning-Code-Brute-Force-Without-Rate-Limit">
+
+---
+## CVE-2026-23004 ()
+> 
+- [George0Papasotiriou/CVE-2026-23004-Automotive-UDS-Authentication-Bypass-via-Replay-Attack](https://github.com/George0Papasotiriou/CVE-2026-23004-Automotive-UDS-Authentication-Bypass-via-Replay-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23004-Automotive-UDS-Authentication-Bypass-via-Replay-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23004-Automotive-UDS-Authentication-Bypass-via-Replay-Attack">
+
+---
+## CVE-2026-23003 ()
+> 
+- [George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID](https://github.com/George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID">
+
+---
+## CVE-2026-23002 ()
+> 
+- [George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB](https://github.com/George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB">
+
+---
+## CVE-2026-23001 ()
+> 
+- [George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-](https://github.com/George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-">
 
 ---
 ## CVE-2026-22874 ()

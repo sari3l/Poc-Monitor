@@ -313,6 +313,8 @@
 - [Xdezen/CVE-2025-8110](https://github.com/Xdezen/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Xdezen/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Xdezen/CVE-2025-8110">
 - [Shirouuu/CVE-2025-8110-gogs-poc](https://github.com/Shirouuu/CVE-2025-8110-gogs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Shirouuu/CVE-2025-8110-gogs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Shirouuu/CVE-2025-8110-gogs-poc">
 - [ixZODiAK/CVE-2025-8110](https://github.com/ixZODiAK/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/ixZODiAK/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/ixZODiAK/CVE-2025-8110">
+- [9xh4kv/CVE-2025-8110](https://github.com/9xh4kv/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/9xh4kv/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/9xh4kv/CVE-2025-8110">
+- [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 
 ---
 ## CVE-2025-8088 ()
