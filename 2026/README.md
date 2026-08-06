@@ -701,6 +701,7 @@
 ## CVE-2026-65058 ()
 > 
 - [helper-beeps/trezor-cve-2026-65058](https://github.com/helper-beeps/trezor-cve-2026-65058)	<img alt="forks" src="https://img.shields.io/github/forks/helper-beeps/trezor-cve-2026-65058">	<img alt="stars" src="https://img.shields.io/github/stars/helper-beeps/trezor-cve-2026-65058">
+- [iktok90-design/trezor-cve-2026-65058](https://github.com/iktok90-design/trezor-cve-2026-65058)	<img alt="forks" src="https://img.shields.io/github/forks/iktok90-design/trezor-cve-2026-65058">	<img alt="stars" src="https://img.shields.io/github/stars/iktok90-design/trezor-cve-2026-65058">
 
 ---
 ## CVE-2026-65008 ()
@@ -1043,6 +1044,11 @@
 > 
 - [c0gnit00/CVE-2026-59827](https://github.com/c0gnit00/CVE-2026-59827)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-59827">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-59827">
 - [pickl31/CVE-2026-59827](https://github.com/pickl31/CVE-2026-59827)	<img alt="forks" src="https://img.shields.io/github/forks/pickl31/CVE-2026-59827">	<img alt="stars" src="https://img.shields.io/github/stars/pickl31/CVE-2026-59827">
+
+---
+## CVE-2026-59774 ()
+> 
+- [FlowerWitch/CVE-2026-59774_docker](https://github.com/FlowerWitch/CVE-2026-59774_docker)	<img alt="forks" src="https://img.shields.io/github/forks/FlowerWitch/CVE-2026-59774_docker">	<img alt="stars" src="https://img.shields.io/github/stars/FlowerWitch/CVE-2026-59774_docker">
 
 ---
 ## CVE-2026-59734 ()
@@ -4308,6 +4314,16 @@
 > 
 - [fevar54/CVE-2026-3502-Scanner---TrueConf-Vulnerability-Detection-Tool](https://github.com/fevar54/CVE-2026-3502-Scanner---TrueConf-Vulnerability-Detection-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3502-Scanner---TrueConf-Vulnerability-Detection-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3502-Scanner---TrueConf-Vulnerability-Detection-Tool">
 - [fevar54/CVE-2026-3502---TrueConf-Client-Update-Hijacking-PoC](https://github.com/fevar54/CVE-2026-3502---TrueConf-Client-Update-Hijacking-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3502---TrueConf-Client-Update-Hijacking-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3502---TrueConf-Client-Update-Hijacking-PoC">
+
+---
+## CVE-2026-34990 ()
+> 
+- [HORKimhab/CVE-2026-34990](https://github.com/HORKimhab/CVE-2026-34990)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-34990">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-34990">
+
+---
+## CVE-2026-34980 ()
+> 
+- [HORKimhab/CVE-2026-34980](https://github.com/HORKimhab/CVE-2026-34980)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-34980">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-34980">
 
 ---
 ## CVE-2026-34975 ()
