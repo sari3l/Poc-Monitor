@@ -698,6 +698,11 @@
 - [rahulreddykarne/CVE-2026-65321-pyathena](https://github.com/rahulreddykarne/CVE-2026-65321-pyathena)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-65321-pyathena">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-65321-pyathena">
 
 ---
+## CVE-2026-65058 ()
+> 
+- [helper-beeps/trezor-cve-2026-65058](https://github.com/helper-beeps/trezor-cve-2026-65058)	<img alt="forks" src="https://img.shields.io/github/forks/helper-beeps/trezor-cve-2026-65058">	<img alt="stars" src="https://img.shields.io/github/stars/helper-beeps/trezor-cve-2026-65058">
+
+---
 ## CVE-2026-65008 ()
 > 
 - [zer0dayf/CVE-2026-65008](https://github.com/zer0dayf/CVE-2026-65008)	<img alt="forks" src="https://img.shields.io/github/forks/zer0dayf/CVE-2026-65008">	<img alt="stars" src="https://img.shields.io/github/stars/zer0dayf/CVE-2026-65008">
