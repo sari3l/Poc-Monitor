@@ -25391,6 +25391,7 @@ the client's API server credentials to third parties.
 > In PHP versions 7.4.x below 7.4.30, 8.0.x below 8.0.20, and 8.1.x below 8.1.7, when pdo_mysql extension with mysqlnd driver, if the third party is allowed to supply host to connect to and the password for the connection, password of excessive length can trigger a buffer overflow in PHP, which can lead to a remote code execution vulnerability.
 - [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-31626">
 - [Live-Hack-CVE/CVE-2022-31626](https://github.com/Live-Hack-CVE/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31626">
+- [HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977](https://github.com/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">
 
 ---
 ## CVE-2022-31625 (2022-06-16T06:15:00)

@@ -714,6 +714,11 @@
 - [altvist/cve-2026-64725-poc](https://github.com/altvist/cve-2026-64725-poc)	<img alt="forks" src="https://img.shields.io/github/forks/altvist/cve-2026-64725-poc">	<img alt="stars" src="https://img.shields.io/github/stars/altvist/cve-2026-64725-poc">
 
 ---
+## CVE-2026-64633 ()
+> 
+- [tfawnies/CVE-2026-64633](https://github.com/tfawnies/CVE-2026-64633)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-64633">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-64633">
+
+---
 ## CVE-2026-64600 ()
 > 
 - [0xBlackash/CVE-2026-64600](https://github.com/0xBlackash/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64600">
@@ -1598,6 +1603,11 @@
 ## CVE-2026-52887 ()
 > 
 - [BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE](https://github.com/BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE">
+
+---
+## CVE-2026-52886 ()
+> 
+- [v3s9er/CVE-2026-52886](https://github.com/v3s9er/CVE-2026-52886)	<img alt="forks" src="https://img.shields.io/github/forks/v3s9er/CVE-2026-52886">	<img alt="stars" src="https://img.shields.io/github/stars/v3s9er/CVE-2026-52886">
 
 ---
 ## CVE-2026-52885 ()
@@ -6515,6 +6525,11 @@
 - [Cyber-Warrior-Network/trust-gate-mcp](https://github.com/Cyber-Warrior-Network/trust-gate-mcp)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Warrior-Network/trust-gate-mcp">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Warrior-Network/trust-gate-mcp">
 - [msaleme/start-here](https://github.com/msaleme/start-here)	<img alt="forks" src="https://img.shields.io/github/forks/msaleme/start-here">	<img alt="stars" src="https://img.shields.io/github/stars/msaleme/start-here">
 - [ZhaoymOvO/openclaw-1click-rce-env](https://github.com/ZhaoymOvO/openclaw-1click-rce-env)	<img alt="forks" src="https://img.shields.io/github/forks/ZhaoymOvO/openclaw-1click-rce-env">	<img alt="stars" src="https://img.shields.io/github/stars/ZhaoymOvO/openclaw-1click-rce-env">
+
+---
+## CVE-2026-25243 ()
+> 
+- [captain-woof/CVE-2026-25243](https://github.com/captain-woof/CVE-2026-25243)	<img alt="forks" src="https://img.shields.io/github/forks/captain-woof/CVE-2026-25243">	<img alt="stars" src="https://img.shields.io/github/stars/captain-woof/CVE-2026-25243">
 
 ---
 ## CVE-2026-25242 ()
