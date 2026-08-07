@@ -1259,6 +1259,7 @@
 > 
 - [sentinel-aidefense/CVE-2026-56164-EXP](https://github.com/sentinel-aidefense/CVE-2026-56164-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-56164-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-56164-EXP">
 - [sam00/POC-CVE-2026-56164-exploit](https://github.com/sam00/POC-CVE-2026-56164-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-56164-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-56164-exploit">
+- [WismanSec/sharepoint-2026-poc](https://github.com/WismanSec/sharepoint-2026-poc)	<img alt="forks" src="https://img.shields.io/github/forks/WismanSec/sharepoint-2026-poc">	<img alt="stars" src="https://img.shields.io/github/stars/WismanSec/sharepoint-2026-poc">
 
 ---
 ## CVE-2026-56158 ()
