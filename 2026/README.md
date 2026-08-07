@@ -749,6 +749,12 @@
 - [oscerd/CVE-2026-64640](https://github.com/oscerd/CVE-2026-64640)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-64640">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-64640">
 
 ---
+## CVE-2026-64638 ()
+> 
+- [686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">
+- [Boreas37/CVE-2026-64638-PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64638-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64638-PoC">
+
+---
 ## CVE-2026-64633 ()
 > 
 - [tfawnies/CVE-2026-64633](https://github.com/tfawnies/CVE-2026-64633)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-64633">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-64633">
