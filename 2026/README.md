@@ -521,6 +521,11 @@
 - [George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser](https://github.com/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser">
 
 ---
+## CVE-2026-67822 ()
+> 
+- [Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset](https://github.com/Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset">
+
+---
 ## CVE-2026-6770 ()
 > 
 - [nightcorefan94/CVE-2026-6770](https://github.com/nightcorefan94/CVE-2026-6770)	<img alt="forks" src="https://img.shields.io/github/forks/nightcorefan94/CVE-2026-6770">	<img alt="stars" src="https://img.shields.io/github/stars/nightcorefan94/CVE-2026-6770">
@@ -3505,6 +3510,7 @@
 ## CVE-2026-41242 ()
 > 
 - [4chech/CVE-2026-41242](https://github.com/4chech/CVE-2026-41242)	<img alt="forks" src="https://img.shields.io/github/forks/4chech/CVE-2026-41242">	<img alt="stars" src="https://img.shields.io/github/stars/4chech/CVE-2026-41242">
+- [Giangdurian/CVE-2026-41242](https://github.com/Giangdurian/CVE-2026-41242)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-41242">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-41242">
 
 ---
 ## CVE-2026-41200 ()
