@@ -425,6 +425,11 @@
 - [George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection](https://github.com/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">
 
 ---
+## CVE-2026-70638 ()
+> 
+- [Hunt-Benito/one-multiply-too-many-cve-2026-70638-llama-cpp-android-jni-integer-overflow](https://github.com/Hunt-Benito/one-multiply-too-many-cve-2026-70638-llama-cpp-android-jni-integer-overflow)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/one-multiply-too-many-cve-2026-70638-llama-cpp-android-jni-integer-overflow">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/one-multiply-too-many-cve-2026-70638-llama-cpp-android-jni-integer-overflow">
+
+---
 ## CVE-2026-70559 ()
 > 
 - [codeb0ssx/CVE-2026-70559-PoC](https://github.com/codeb0ssx/CVE-2026-70559-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-70559-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-70559-PoC">
