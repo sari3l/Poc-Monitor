@@ -1396,6 +1396,7 @@
 - [estebanzarate/CVE-2018-16763-Fuel-CMS-1.4.1-Remote-Code-Execution-PoC](https://github.com/estebanzarate/CVE-2018-16763-Fuel-CMS-1.4.1-Remote-Code-Execution-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2018-16763-Fuel-CMS-1.4.1-Remote-Code-Execution-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2018-16763-Fuel-CMS-1.4.1-Remote-Code-Execution-PoC">
 - [SOME-1HING/CVE-2018-16763](https://github.com/SOME-1HING/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/SOME-1HING/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/SOME-1HING/CVE-2018-16763">
 - [kaxm23/exploit_cms_fuel](https://github.com/kaxm23/exploit_cms_fuel)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/exploit_cms_fuel">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/exploit_cms_fuel">
+- [ShadowR-Root/fuel-cms-cve-2018-16763-python3-port](https://github.com/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port">
 
 ---
 ## CVE-2018-16621 ()
