@@ -884,6 +884,7 @@
 - [faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability](https://github.com/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">
 - [CMEGh0stX47/CVE-2025-68645](https://github.com/CMEGh0stX47/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/CMEGh0stX47/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/CMEGh0stX47/CVE-2025-68645">
 - [0xBlackash/CVE-2025-68645](https://github.com/0xBlackash/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-68645">
+- [Ashwesker/Ashwesker-CVE-2025-68645](https://github.com/Ashwesker/Ashwesker-CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-68645">
 
 ---
 ## CVE-2025-68621 ()
@@ -4420,6 +4421,7 @@
 - [razureink/cve-2025-55182-react2shell_reproduction](https://github.com/razureink/cve-2025-55182-react2shell_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-55182-react2shell_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-55182-react2shell_reproduction">
 - [indra-031/React2Shell-Exploit-CVE-2025-55182](https://github.com/indra-031/React2Shell-Exploit-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/indra-031/React2Shell-Exploit-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/indra-031/React2Shell-Exploit-CVE-2025-55182">
 - [Phucc29/CVE-2025-55182](https://github.com/Phucc29/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Phucc29/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Phucc29/CVE-2025-55182">
+- [CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit](https://github.com/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">
 
 ---
 ## CVE-2025-55130 ()
