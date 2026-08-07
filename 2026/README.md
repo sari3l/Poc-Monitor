@@ -753,6 +753,7 @@
 > 
 - [686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">
 - [Boreas37/CVE-2026-64638-PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64638-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64638-PoC">
+- [wordsec/XSS2Shell](https://github.com/wordsec/XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/wordsec/XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/wordsec/XSS2Shell">
 
 ---
 ## CVE-2026-64633 ()
