@@ -418,6 +418,7 @@
 ## CVE-2026-71554 ()
 > 
 - [SunandM/poc-h2-CVE-2026-71554](https://github.com/SunandM/poc-h2-CVE-2026-71554)	<img alt="forks" src="https://img.shields.io/github/forks/SunandM/poc-h2-CVE-2026-71554">	<img alt="stars" src="https://img.shields.io/github/stars/SunandM/poc-h2-CVE-2026-71554">
+- [SunandM/poc-h2-duplicate-host](https://github.com/SunandM/poc-h2-duplicate-host)	<img alt="forks" src="https://img.shields.io/github/forks/SunandM/poc-h2-duplicate-host">	<img alt="stars" src="https://img.shields.io/github/stars/SunandM/poc-h2-duplicate-host">
 
 ---
 ## CVE-2026-71211 ()
