@@ -5019,6 +5019,11 @@
 - [abisonbinoy/CVE-2025-52488-poc](https://github.com/abisonbinoy/CVE-2025-52488-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abisonbinoy/CVE-2025-52488-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abisonbinoy/CVE-2025-52488-poc">
 
 ---
+## CVE-2025-52464 ()
+> 
+- [msdmehdipour/meshtastic-cve-2025-52464-poc](https://github.com/msdmehdipour/meshtastic-cve-2025-52464-poc)	<img alt="forks" src="https://img.shields.io/github/forks/msdmehdipour/meshtastic-cve-2025-52464-poc">	<img alt="stars" src="https://img.shields.io/github/stars/msdmehdipour/meshtastic-cve-2025-52464-poc">
+
+---
 ## CVE-2025-52413 ()
 > 
 - [GoldenTicketLabs/CVE-2025-52413](https://github.com/GoldenTicketLabs/CVE-2025-52413)	<img alt="forks" src="https://img.shields.io/github/forks/GoldenTicketLabs/CVE-2025-52413">	<img alt="stars" src="https://img.shields.io/github/stars/GoldenTicketLabs/CVE-2025-52413">
