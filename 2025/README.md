@@ -7710,6 +7710,7 @@
 - [Cosm3No1de/htb-orion-writeup](https://github.com/Cosm3No1de/htb-orion-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/htb-orion-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/htb-orion-writeup">
 - [HeltonPojo/CVE-2025-32432](https://github.com/HeltonPojo/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/HeltonPojo/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/HeltonPojo/CVE-2025-32432">
 - [PsyGuy007-sys/craftcms-cve-2025-32432-rce](https://github.com/PsyGuy007-sys/craftcms-cve-2025-32432-rce)	<img alt="forks" src="https://img.shields.io/github/forks/PsyGuy007-sys/craftcms-cve-2025-32432-rce">	<img alt="stars" src="https://img.shields.io/github/stars/PsyGuy007-sys/craftcms-cve-2025-32432-rce">
+- [EzraMansor/CVE-2025-32432-PoC](https://github.com/EzraMansor/CVE-2025-32432-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/EzraMansor/CVE-2025-32432-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/EzraMansor/CVE-2025-32432-PoC">
 
 ---
 ## CVE-2025-3243 ()
