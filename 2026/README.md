@@ -3740,6 +3740,7 @@
 - [jasonbernier/CVE-2026-39987](https://github.com/jasonbernier/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/jasonbernier/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/jasonbernier/CVE-2026-39987">
 - [vanhari/CVE-2026-39987](https://github.com/vanhari/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2026-39987">
 - [Wind010/CVE-2026-39987_PoC](https://github.com/Wind010/CVE-2026-39987_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2026-39987_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2026-39987_PoC">
+- [alreadyClosed/CVE-2026-39987](https://github.com/alreadyClosed/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/alreadyClosed/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/alreadyClosed/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
