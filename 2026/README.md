@@ -2753,6 +2753,11 @@
 - [zzzm0919/CVE-2026-44648](https://github.com/zzzm0919/CVE-2026-44648)	<img alt="forks" src="https://img.shields.io/github/forks/zzzm0919/CVE-2026-44648">	<img alt="stars" src="https://img.shields.io/github/stars/zzzm0919/CVE-2026-44648">
 
 ---
+## CVE-2026-44613 ()
+> 
+- [HORKimhab/CVE-2026-44613](https://github.com/HORKimhab/CVE-2026-44613)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-44613">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-44613">
+
+---
 ## CVE-2026-44596 ()
 > 
 - [ex-cal1bur/CVE-2026-44596](https://github.com/ex-cal1bur/CVE-2026-44596)	<img alt="forks" src="https://img.shields.io/github/forks/ex-cal1bur/CVE-2026-44596">	<img alt="stars" src="https://img.shields.io/github/stars/ex-cal1bur/CVE-2026-44596">
@@ -8686,6 +8691,11 @@
 ## CVE-2026-1208 ()
 > 
 - [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
+
+---
+## CVE-2026-11961 ()
+> 
+- [JohenLastGen-JLG/CVE-2026-11961](https://github.com/JohenLastGen-JLG/CVE-2026-11961)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/CVE-2026-11961">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/CVE-2026-11961">
 
 ---
 ## CVE-2026-11912 ()

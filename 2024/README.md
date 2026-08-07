@@ -8664,6 +8664,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP">
 
 ---
+## CVE-2024-24210 ()
+> 
+- [ha6ker-hu/CVE-2024-24210](https://github.com/ha6ker-hu/CVE-2024-24210)	<img alt="forks" src="https://img.shields.io/github/forks/ha6ker-hu/CVE-2024-24210">	<img alt="stars" src="https://img.shields.io/github/stars/ha6ker-hu/CVE-2024-24210">
+
+---
 ## CVE-2024-24142 (2024-02-13T21:15:00)
 > Sourcecodester School Task Manager 1.0 allows SQL Injection via the 'subject' parameter.
 - [BurakSevben/CVE-2024-24142](https://github.com/BurakSevben/CVE-2024-24142)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24142">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24142">
