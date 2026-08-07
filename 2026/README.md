@@ -763,6 +763,7 @@
 ## CVE-2026-64564 ()
 > 
 - [ethanolgolf/CVE-2026-64564](https://github.com/ethanolgolf/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/ethanolgolf/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/ethanolgolf/CVE-2026-64564">
+- [HackSpeak/CVE-2026-64564](https://github.com/HackSpeak/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64564">
 
 ---
 ## CVE-2026-64561 ()
@@ -9156,6 +9157,11 @@
 - [fredevsec/CVE-2026-0073](https://github.com/fredevsec/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/fredevsec/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/fredevsec/CVE-2026-0073">
 - [RDTUTORIAL/aetherion](https://github.com/RDTUTORIAL/aetherion)	<img alt="forks" src="https://img.shields.io/github/forks/RDTUTORIAL/aetherion">	<img alt="stars" src="https://img.shields.io/github/stars/RDTUTORIAL/aetherion">
 - [ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN](https://github.com/ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN)	<img alt="forks" src="https://img.shields.io/github/forks/ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">	<img alt="stars" src="https://img.shields.io/github/stars/ctnBobong32/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">
+
+---
+## CVE-2026-0049 ()
+> 
+- [R3n3r0/CVE-2026-0049](https://github.com/R3n3r0/CVE-2026-0049)	<img alt="forks" src="https://img.shields.io/github/forks/R3n3r0/CVE-2026-0049">	<img alt="stars" src="https://img.shields.io/github/stars/R3n3r0/CVE-2026-0049">
 
 ---
 ## CVE-2026-0047 ()
