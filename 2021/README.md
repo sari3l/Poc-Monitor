@@ -6747,6 +6747,7 @@
 - [Nullsecur1ty/CVE-2021-3129](https://github.com/Nullsecur1ty/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Nullsecur1ty/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Nullsecur1ty/CVE-2021-3129">
 - [Nullsecur1ty/CVE-2021-3129](https://github.com/Nullsecur1ty/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Nullsecur1ty/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Nullsecur1ty/CVE-2021-3129">
 - [theNareshofficial/CVE-2021-3129-Lab](https://github.com/theNareshofficial/CVE-2021-3129-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/theNareshofficial/CVE-2021-3129-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/theNareshofficial/CVE-2021-3129-Lab">
+- [Giangdurian/CVE-2021-3129](https://github.com/Giangdurian/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2021-3129">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)
