@@ -5444,6 +5444,8 @@ Fixed in version 6.4.1.
 - [mr-spongebob/a-CVE-2023-32233](https://github.com/mr-spongebob/a-CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/mr-spongebob/a-CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/mr-spongebob/a-CVE-2023-32233">
 - [enlist12/CVE-2023-32233](https://github.com/enlist12/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/enlist12/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/enlist12/CVE-2023-32233">
 - [BurnSkyup/CVE-2023-32233-reproduction](https://github.com/BurnSkyup/CVE-2023-32233-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/BurnSkyup/CVE-2023-32233-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/BurnSkyup/CVE-2023-32233-reproduction">
+- [Destawell/gemini-2.5-pro-nf-tables-red-teaming](https://github.com/Destawell/gemini-2.5-pro-nf-tables-red-teaming)	<img alt="forks" src="https://img.shields.io/github/forks/Destawell/gemini-2.5-pro-nf-tables-red-teaming">	<img alt="stars" src="https://img.shields.io/github/stars/Destawell/gemini-2.5-pro-nf-tables-red-teaming">
+- [Destawell/gemini-2.5-pro-nf-tables-red-teamin](https://github.com/Destawell/gemini-2.5-pro-nf-tables-red-teamin)	<img alt="forks" src="https://img.shields.io/github/forks/Destawell/gemini-2.5-pro-nf-tables-red-teamin">	<img alt="stars" src="https://img.shields.io/github/stars/Destawell/gemini-2.5-pro-nf-tables-red-teamin">
 
 ---
 ## CVE-2023-32117 ()
