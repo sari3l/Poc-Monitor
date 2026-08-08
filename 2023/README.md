@@ -5949,6 +5949,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [phucodeexp/CVE-2023-30033](https://github.com/phucodeexp/CVE-2023-30033)	<img alt="forks" src="https://img.shields.io/github/forks/phucodeexp/CVE-2023-30033">	<img alt="stars" src="https://img.shields.io/github/stars/phucodeexp/CVE-2023-30033">
 
 ---
+## CVE-2023-30000 ()
+> 
+- [BurnSkyup/CVE-2023-30000](https://github.com/BurnSkyup/CVE-2023-30000)	<img alt="forks" src="https://img.shields.io/github/forks/BurnSkyup/CVE-2023-30000">	<img alt="stars" src="https://img.shields.io/github/stars/BurnSkyup/CVE-2023-30000">
+
+---
 ## CVE-2023-29983 (2023-05-12T11:15:00)
 > Cross Site Scripting vulnerability found in Maximilian Vogt cmaps v.8.0 allows a remote attacker to execute arbitrary code via the auditlog tab in the admin panel.
 - [zPrototype/CVE-2023-29983](https://github.com/zPrototype/CVE-2023-29983)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29983">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29983">
