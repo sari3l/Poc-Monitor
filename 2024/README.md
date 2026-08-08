@@ -9023,7 +9023,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ---
 ## CVE-2024-23692 (2024-05-31T10:15:00)
 > Rejetto HTTP File Server, up to and including version 2.3m, is vulnerable to a template injection vulnerability. This vulnerability allows a remote, unauthenticated attacker to execute arbitrary commands on the affected system by sending a specially crafted HTTP request. As of the CVE assignment date, Rejetto HFS 2.3m is no longer supported.
-- [k3lpi3b4nsh33/CVE-2024-23692](https://github.com/k3lpi3b4nsh33/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-23692">
+- [NanoWraith/CVE-2024-23692](https://github.com/NanoWraith/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/NanoWraith/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/NanoWraith/CVE-2024-23692">
 - [jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS](https://github.com/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">
 - [WanLiChangChengWanLiChang/CVE-2024-23692-RCE](https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">
 - [vanboomqi/CVE-2024-23692](https://github.com/vanboomqi/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/vanboomqi/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/vanboomqi/CVE-2024-23692">
@@ -9038,6 +9038,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [NingXin2002/HFS2.3_poc](https://github.com/NingXin2002/HFS2.3_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/HFS2.3_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/HFS2.3_poc">
 - [999gawkboyy/CVE-2024-23692_Exploit](https://github.com/999gawkboyy/CVE-2024-23692_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/999gawkboyy/CVE-2024-23692_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/999gawkboyy/CVE-2024-23692_Exploit">
 - [sandimfz/CVE-2024-23692](https://github.com/sandimfz/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/sandimfz/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/sandimfz/CVE-2024-23692">
+- [wgetnz/hfs2](https://github.com/wgetnz/hfs2)	<img alt="forks" src="https://img.shields.io/github/forks/wgetnz/hfs2">	<img alt="stars" src="https://img.shields.io/github/stars/wgetnz/hfs2">
 
 ---
 ## CVE-2024-23691 ()
