@@ -9037,6 +9037,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [XiaomingX/cve-2024-23692-poc](https://github.com/XiaomingX/cve-2024-23692-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-23692-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-23692-poc">
 - [NingXin2002/HFS2.3_poc](https://github.com/NingXin2002/HFS2.3_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/HFS2.3_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/HFS2.3_poc">
 - [999gawkboyy/CVE-2024-23692_Exploit](https://github.com/999gawkboyy/CVE-2024-23692_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/999gawkboyy/CVE-2024-23692_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/999gawkboyy/CVE-2024-23692_Exploit">
+- [sandimfz/CVE-2024-23692](https://github.com/sandimfz/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/sandimfz/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/sandimfz/CVE-2024-23692">
 
 ---
 ## CVE-2024-23691 ()
