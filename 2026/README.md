@@ -772,6 +772,7 @@
 - [renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell](https://github.com/renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell">
 - [imbas007/CVE-2026-64638-POC](https://github.com/imbas007/CVE-2026-64638-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-64638-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-64638-POC">
 - [HORKimhab/CVE-2026-64638](https://github.com/HORKimhab/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64638">
+- [yogaGymn/XSS2Shell-CVE-2026-64638](https://github.com/yogaGymn/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/yogaGymn/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/yogaGymn/XSS2Shell-CVE-2026-64638">
 
 ---
 ## CVE-2026-64633 ()
@@ -865,6 +866,7 @@
 - [unveiledhistory49/teamcity-cve-2026-63077-remediation](https://github.com/unveiledhistory49/teamcity-cve-2026-63077-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/unveiledhistory49/teamcity-cve-2026-63077-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/unveiledhistory49/teamcity-cve-2026-63077-remediation">
 - [sfewer-r7/CVE-2026-63077](https://github.com/sfewer-r7/CVE-2026-63077)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-63077">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-63077">
 - [BoredHackerBlog/teamcity-CVE-2026-63077-pcap](https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap)	<img alt="forks" src="https://img.shields.io/github/forks/BoredHackerBlog/teamcity-CVE-2026-63077-pcap">	<img alt="stars" src="https://img.shields.io/github/stars/BoredHackerBlog/teamcity-CVE-2026-63077-pcap">
+- [AnggaTechI/CVE-2026-63077](https://github.com/AnggaTechI/CVE-2026-63077)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-63077">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-63077">
 
 ---
 ## CVE-2026-6307 ()
