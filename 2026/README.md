@@ -672,6 +672,11 @@
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
 
 ---
+## CVE-2026-66493 ()
+> 
+- [toanln-cov/CVE-2026-66493](https://github.com/toanln-cov/CVE-2026-66493)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-66493">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-66493">
+
+---
 ## CVE-2026-66492 ()
 > 
 - [toanln-cov/CVE-2026-66492](https://github.com/toanln-cov/CVE-2026-66492)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-66492">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-66492">
@@ -679,6 +684,7 @@
 ---
 ## CVE-2026-66491 ()
 > 
+- [toanln-cov/CVE-2026-66491](https://github.com/toanln-cov/CVE-2026-66491)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-66491">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-66491">
 - [toanln-cov/CVE-2026-66491](https://github.com/toanln-cov/CVE-2026-66491)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-66491">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-66491">
 
 ---
@@ -803,6 +809,7 @@
 - [bha-vin/CVE-2026-64600-Exploit](https://github.com/bha-vin/CVE-2026-64600-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bha-vin/CVE-2026-64600-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bha-vin/CVE-2026-64600-Exploit">
 - [letsr00t/RefluxFS_CVE-2026-64600](https://github.com/letsr00t/RefluxFS_CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/RefluxFS_CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/RefluxFS_CVE-2026-64600">
 - [litosmartin/CVE-2026-64600-Refluxfs-PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/litosmartin/CVE-2026-64600-Refluxfs-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/litosmartin/CVE-2026-64600-Refluxfs-PoC">
+- [masrikky/CVE-2026-64600-RefluXFS](https://github.com/masrikky/CVE-2026-64600-RefluXFS)	<img alt="forks" src="https://img.shields.io/github/forks/masrikky/CVE-2026-64600-RefluXFS">	<img alt="stars" src="https://img.shields.io/github/stars/masrikky/CVE-2026-64600-RefluXFS">
 
 ---
 ## CVE-2026-64564 ()
