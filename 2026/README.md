@@ -3083,6 +3083,7 @@
 - [taoubi1/ghostlock-sm-a155f](https://github.com/taoubi1/ghostlock-sm-a155f)	<img alt="forks" src="https://img.shields.io/github/forks/taoubi1/ghostlock-sm-a155f">	<img alt="stars" src="https://img.shields.io/github/stars/taoubi1/ghostlock-sm-a155f">
 - [vannet-855/CVE-2026-43499_Target](https://github.com/vannet-855/CVE-2026-43499_Target)	<img alt="forks" src="https://img.shields.io/github/forks/vannet-855/CVE-2026-43499_Target">	<img alt="stars" src="https://img.shields.io/github/stars/vannet-855/CVE-2026-43499_Target">
 - [Meowkis/tcp-zerocopy-sm](https://github.com/Meowkis/tcp-zerocopy-sm)	<img alt="forks" src="https://img.shields.io/github/forks/Meowkis/tcp-zerocopy-sm">	<img alt="stars" src="https://img.shields.io/github/stars/Meowkis/tcp-zerocopy-sm">
+- [wxxsfxyzm/GhostLock-Galaxy](https://github.com/wxxsfxyzm/GhostLock-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/wxxsfxyzm/GhostLock-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/wxxsfxyzm/GhostLock-Galaxy">
 
 ---
 ## CVE-2026-43494 ()
@@ -4071,6 +4072,7 @@
 - [rootdirective-sec/CVE-2026-3844-Lab](https://github.com/rootdirective-sec/CVE-2026-3844-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-3844-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-3844-Lab">
 - [zycoder0day/CVE-2026-3844](https://github.com/zycoder0day/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-3844">
 - [Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution](https://github.com/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution">
+- [AnggaTechI/CVE-2026-3844](https://github.com/AnggaTechI/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-3844">
 
 ---
 ## CVE-2026-38427 ()
