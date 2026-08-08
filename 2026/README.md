@@ -800,6 +800,9 @@
 > 
 - [HORKimhab/CVE-2026-64561](https://github.com/HORKimhab/CVE-2026-64561)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64561">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64561">
 - [HackSpeak/CVE-2026-64561](https://github.com/HackSpeak/CVE-2026-64561)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64561">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64561">
+- [aarif450/aarif450.github.io](https://github.com/aarif450/aarif450.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/aarif450/aarif450.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/aarif450/aarif450.github.io">
+- [aarif450/Zapscape](https://github.com/aarif450/Zapscape)	<img alt="forks" src="https://img.shields.io/github/forks/aarif450/Zapscape">	<img alt="stars" src="https://img.shields.io/github/stars/aarif450/Zapscape">
+- [Aoripus-LTD/Zapscape-Fix](https://github.com/Aoripus-LTD/Zapscape-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/Aoripus-LTD/Zapscape-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/Aoripus-LTD/Zapscape-Fix">
 
 ---
 ## CVE-2026-64560 ()
@@ -8257,6 +8260,11 @@
 ## CVE-2026-1937 ()
 > 
 - [Nxploited/CVE-2026-1937](https://github.com/Nxploited/CVE-2026-1937)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1937">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1937">
+
+---
+## CVE-2026-18953 ()
+> 
+- [ronamosa/CVE-2026-18953](https://github.com/ronamosa/CVE-2026-18953)	<img alt="forks" src="https://img.shields.io/github/forks/ronamosa/CVE-2026-18953">	<img alt="stars" src="https://img.shields.io/github/stars/ronamosa/CVE-2026-18953">
 
 ---
 ## CVE-2026-1880 ()
