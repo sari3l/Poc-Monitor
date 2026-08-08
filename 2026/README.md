@@ -773,6 +773,8 @@
 - [imbas007/CVE-2026-64638-POC](https://github.com/imbas007/CVE-2026-64638-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-64638-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-64638-POC">
 - [HORKimhab/CVE-2026-64638](https://github.com/HORKimhab/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64638">
 - [yogaGymn/XSS2Shell-CVE-2026-64638](https://github.com/yogaGymn/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/yogaGymn/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/yogaGymn/XSS2Shell-CVE-2026-64638">
+- [HackSpeak/CVE-2026-64638](https://github.com/HackSpeak/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64638">
+- [4minx/CVE-2026-64638](https://github.com/4minx/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-64638">
 
 ---
 ## CVE-2026-64633 ()
