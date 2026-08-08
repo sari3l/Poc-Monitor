@@ -415,6 +415,11 @@
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
 
 ---
+## CVE-2026-71557 ()
+> 
+- [Saku0512/CVE-2026-71557-poc](https://github.com/Saku0512/CVE-2026-71557-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-71557-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-71557-poc">
+
+---
 ## CVE-2026-71554 ()
 > 
 - [SunandM/poc-h2-CVE-2026-71554](https://github.com/SunandM/poc-h2-CVE-2026-71554)	<img alt="forks" src="https://img.shields.io/github/forks/SunandM/poc-h2-CVE-2026-71554">	<img alt="stars" src="https://img.shields.io/github/stars/SunandM/poc-h2-CVE-2026-71554">
@@ -765,6 +770,8 @@
 - [0xBlackash/CVE-2026-64638](https://github.com/0xBlackash/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64638">
 - [Linuxhackingid-official/XSS2Shell-CVE-2026-64638](https://github.com/Linuxhackingid-official/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/Linuxhackingid-official/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/Linuxhackingid-official/XSS2Shell-CVE-2026-64638">
 - [renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell](https://github.com/renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell">
+- [imbas007/CVE-2026-64638-POC](https://github.com/imbas007/CVE-2026-64638-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-64638-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-64638-POC">
+- [HORKimhab/CVE-2026-64638](https://github.com/HORKimhab/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64638">
 
 ---
 ## CVE-2026-64633 ()
@@ -792,6 +799,7 @@
 ## CVE-2026-64561 ()
 > 
 - [HORKimhab/CVE-2026-64561](https://github.com/HORKimhab/CVE-2026-64561)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64561">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64561">
+- [HackSpeak/CVE-2026-64561](https://github.com/HackSpeak/CVE-2026-64561)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64561">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64561">
 
 ---
 ## CVE-2026-64560 ()
