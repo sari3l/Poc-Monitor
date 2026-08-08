@@ -776,6 +776,7 @@
 - [HackSpeak/CVE-2026-64638](https://github.com/HackSpeak/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64638">
 - [4minx/CVE-2026-64638](https://github.com/4minx/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-64638">
 - [tc4dy/CVE-2026-64638-PoC-Exploit](https://github.com/tc4dy/CVE-2026-64638-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-64638-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-64638-PoC-Exploit">
+- [mohwahyudi/poc-CVE-2026-64638-](https://github.com/mohwahyudi/poc-CVE-2026-64638-)	<img alt="forks" src="https://img.shields.io/github/forks/mohwahyudi/poc-CVE-2026-64638-">	<img alt="stars" src="https://img.shields.io/github/stars/mohwahyudi/poc-CVE-2026-64638-">
 
 ---
 ## CVE-2026-64633 ()
@@ -1110,6 +1111,7 @@
 - [shinthink/CVE-2026-60004](https://github.com/shinthink/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-60004">
 - [HackSpeak/CVE-2026-60004](https://github.com/HackSpeak/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-60004">
 - [Sachinart/CVE-2026-60004-gitea-0day](https://github.com/Sachinart/CVE-2026-60004-gitea-0day)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2026-60004-gitea-0day">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2026-60004-gitea-0day">
+- [gagaltotal/CVE-2026-60004-poc-gitea](https://github.com/gagaltotal/CVE-2026-60004-poc-gitea)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-60004-poc-gitea">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-60004-poc-gitea">
 
 ---
 ## CVE-2026-59941 ()
