@@ -6458,6 +6458,11 @@
 - [jonaslejon/ad-autopwn](https://github.com/jonaslejon/ad-autopwn)	<img alt="forks" src="https://img.shields.io/github/forks/jonaslejon/ad-autopwn">	<img alt="stars" src="https://img.shields.io/github/stars/jonaslejon/ad-autopwn">
 
 ---
+## CVE-2026-26119 ()
+> 
+- [r3vpwnx/CVE-2026-26119](https://github.com/r3vpwnx/CVE-2026-26119)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2026-26119">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2026-26119">
+
+---
 ## CVE-2026-26114 ()
 > 
 - [huynambka/cve-2026-26114](https://github.com/huynambka/cve-2026-26114)	<img alt="forks" src="https://img.shields.io/github/forks/huynambka/cve-2026-26114">	<img alt="stars" src="https://img.shields.io/github/stars/huynambka/cve-2026-26114">

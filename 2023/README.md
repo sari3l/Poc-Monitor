@@ -7962,6 +7962,7 @@ For more details, please review the linked advisory on this CVE.
 - [juniorinter/CVE-2023-21839](https://github.com/juniorinter/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/juniorinter/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/juniorinter/CVE-2023-21839">
 - [lovingpot/CVE-2023-21839](https://github.com/lovingpot/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/lovingpot/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/lovingpot/CVE-2023-21839">
 - [illegalbrea/CVE-2023-21839](https://github.com/illegalbrea/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/illegalbrea/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/illegalbrea/CVE-2023-21839">
+- [dinosn/CVE-2024-21182](https://github.com/dinosn/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2024-21182">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
