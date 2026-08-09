@@ -794,6 +794,7 @@
 - [tc4dy/CVE-2026-64638-PoC-Exploit](https://github.com/tc4dy/CVE-2026-64638-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-64638-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-64638-PoC-Exploit">
 - [mohwahyudi/poc-CVE-2026-64638-](https://github.com/mohwahyudi/poc-CVE-2026-64638-)	<img alt="forks" src="https://img.shields.io/github/forks/mohwahyudi/poc-CVE-2026-64638-">	<img alt="stars" src="https://img.shields.io/github/stars/mohwahyudi/poc-CVE-2026-64638-">
 - [Dungsocool/CVE-2026-64638](https://github.com/Dungsocool/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-64638">
+- [MR-LeonardoGomes/XSS2Shell-CVE-2026-64638](https://github.com/MR-LeonardoGomes/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/MR-LeonardoGomes/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/MR-LeonardoGomes/XSS2Shell-CVE-2026-64638">
 
 ---
 ## CVE-2026-64633 ()
