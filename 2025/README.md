@@ -2817,6 +2817,8 @@
 - [corey-farley/CVE-2025-59528-Flowise-RCE](https://github.com/corey-farley/CVE-2025-59528-Flowise-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/corey-farley/CVE-2025-59528-Flowise-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/corey-farley/CVE-2025-59528-Flowise-RCE">
 - [0xDaeras/Flowise-CVE-2025-58434-Chain-59528](https://github.com/0xDaeras/Flowise-CVE-2025-58434-Chain-59528)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">
 - [Loaxert/CVE-2025-59528-PoC](https://github.com/Loaxert/CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Loaxert/CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Loaxert/CVE-2025-59528-PoC">
+- [Moon-Harvest/CVE-2025-59528](https://github.com/Moon-Harvest/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/Moon-Harvest/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/Moon-Harvest/CVE-2025-59528">
+- [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 
 ---
 ## CVE-2025-59503 ()
