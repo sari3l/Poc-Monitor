@@ -6466,6 +6466,8 @@
 ## CVE-2026-26119 ()
 > 
 - [r3vpwnx/CVE-2026-26119](https://github.com/r3vpwnx/CVE-2026-26119)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2026-26119">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2026-26119">
+- [r3vpwnx/CVE-2026-26119](https://github.com/r3vpwnx/CVE-2026-26119)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2026-26119">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2026-26119">
+- [Cyb3rWitch3r/CVE-2026-26119](https://github.com/Cyb3rWitch3r/CVE-2026-26119)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rWitch3r/CVE-2026-26119">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rWitch3r/CVE-2026-26119">
 
 ---
 ## CVE-2026-26114 ()
