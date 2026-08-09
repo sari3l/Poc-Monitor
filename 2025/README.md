@@ -617,6 +617,11 @@
 - [TheMalwareGuardian/CVE-2025-70330](https://github.com/TheMalwareGuardian/CVE-2025-70330)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-70330">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-70330">
 
 ---
+## CVE-2025-7026 ()
+> 
+- [Tobss8/GIGABYTE-H510M-K-V2-BIOS-SMM-Reverse-Engineering-CVE-2025-7026-7027-7028-7029-Research](https://github.com/Tobss8/GIGABYTE-H510M-K-V2-BIOS-SMM-Reverse-Engineering-CVE-2025-7026-7027-7028-7029-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Tobss8/GIGABYTE-H510M-K-V2-BIOS-SMM-Reverse-Engineering-CVE-2025-7026-7027-7028-7029-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Tobss8/GIGABYTE-H510M-K-V2-BIOS-SMM-Reverse-Engineering-CVE-2025-7026-7027-7028-7029-Research">
+
+---
 ## CVE-2025-70149 ()
 > 
 - [Anusha-Khan29/CVE-2025-70149-SQL-Injection](https://github.com/Anusha-Khan29/CVE-2025-70149-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/Anusha-Khan29/CVE-2025-70149-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/Anusha-Khan29/CVE-2025-70149-SQL-Injection">
