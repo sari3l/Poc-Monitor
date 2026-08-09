@@ -193,6 +193,7 @@
 - [Elm0D/CVE-2017-8464](https://github.com/Elm0D/CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/Elm0D/CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/Elm0D/CVE-2017-8464">
 - [doudouhala/CVE-2017-8464-exp-generator](https://github.com/doudouhala/CVE-2017-8464-exp-generator)	<img alt="forks" src="https://img.shields.io/github/forks/doudouhala/CVE-2017-8464-exp-generator">	<img alt="stars" src="https://img.shields.io/github/stars/doudouhala/CVE-2017-8464-exp-generator">
 - [TieuLong21Prosper/Detect-CVE-2017-8464](https://github.com/TieuLong21Prosper/Detect-CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/TieuLong21Prosper/Detect-CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/TieuLong21Prosper/Detect-CVE-2017-8464">
+- [PlayBoiSK8/POC-CVE-2017-8464-OpenCalculator](https://github.com/PlayBoiSK8/POC-CVE-2017-8464-OpenCalculator)	<img alt="forks" src="https://img.shields.io/github/forks/PlayBoiSK8/POC-CVE-2017-8464-OpenCalculator">	<img alt="stars" src="https://img.shields.io/github/stars/PlayBoiSK8/POC-CVE-2017-8464-OpenCalculator">
 
 ---
 ## CVE-2017-8291 ()
