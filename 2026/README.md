@@ -784,7 +784,7 @@
 ## CVE-2026-64638 ()
 > 
 - [686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">
-- [Boreas37/CVE-2026-64638-PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64638-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64638-PoC">
+- [Boreas37/CVE-2026-64638-PoC-XSS2Shell-](https://github.com/Boreas37/CVE-2026-64638-PoC-XSS2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64638-PoC-XSS2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64638-PoC-XSS2Shell-">
 - [wordsec/XSS2Shell](https://github.com/wordsec/XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/wordsec/XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/wordsec/XSS2Shell">
 - [5yu4n/CVE-2026-64638](https://github.com/5yu4n/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/5yu4n/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/5yu4n/CVE-2026-64638">
 - [ZSecur1ty/XSS2Shell-CVE-2026-64638](https://github.com/ZSecur1ty/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/ZSecur1ty/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/ZSecur1ty/XSS2Shell-CVE-2026-64638">
@@ -1270,6 +1270,7 @@
 - [Candisexterior171/CVE-2026-57827](https://github.com/Candisexterior171/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Candisexterior171/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Candisexterior171/CVE-2026-57827">
 - [Mohammad-008/rsfiles-CVE-2026-57827](https://github.com/Mohammad-008/rsfiles-CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammad-008/rsfiles-CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammad-008/rsfiles-CVE-2026-57827">
 - [jjkk123123/CVE-2026-57827](https://github.com/jjkk123123/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/jjkk123123/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/jjkk123123/CVE-2026-57827">
+- [Ahmall-sec/CVE_2026_57827](https://github.com/Ahmall-sec/CVE_2026_57827)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmall-sec/CVE_2026_57827">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmall-sec/CVE_2026_57827">
 
 ---
 ## CVE-2026-57821 ()
