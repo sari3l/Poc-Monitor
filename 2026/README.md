@@ -491,6 +491,11 @@
 - [0xdak/CVE-2026-69098_exploit](https://github.com/0xdak/CVE-2026-69098_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-69098_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-69098_exploit">
 
 ---
+## CVE-2026-69084 ()
+> 
+- [Boreas37/CVE-2026-69084-PoC](https://github.com/Boreas37/CVE-2026-69084-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-69084-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-69084-PoC">
+
+---
 ## CVE-2026-69083 ()
 > 
 - [0xdak/CVE-2026-69083_exploit](https://github.com/0xdak/CVE-2026-69083_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-69083_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-69083_exploit">
