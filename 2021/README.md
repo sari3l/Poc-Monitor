@@ -7002,6 +7002,11 @@
 - [Live-Hack-CVE/CVE-2021-30140](https://github.com/Live-Hack-CVE/CVE-2021-30140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30140">
 
 ---
+## CVE-2021-30109 ()
+> 
+- [Hackdwerg/CVE-2021-30109](https://github.com/Hackdwerg/CVE-2021-30109)	<img alt="forks" src="https://img.shields.io/github/forks/Hackdwerg/CVE-2021-30109">	<img alt="stars" src="https://img.shields.io/github/stars/Hackdwerg/CVE-2021-30109">
+
+---
 ## CVE-2021-30071 (2022-08-18T05:15:00)
 > A cross-site scripting (XSS) vulnerability in /admin/list_key.html of HestiaCP before v1.3.5 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
 - [Live-Hack-CVE/CVE-2021-30071](https://github.com/Live-Hack-CVE/CVE-2021-30071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30071">
