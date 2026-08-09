@@ -3278,6 +3278,12 @@
 - [sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability](https://github.com/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability">
 
 ---
+## CVE-2026-4282 ()
+> 
+- [hexissam/CVE-2026-4282-Scanner](https://github.com/hexissam/CVE-2026-4282-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hexissam/CVE-2026-4282-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hexissam/CVE-2026-4282-Scanner">
+- [sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability](https://github.com/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-42826-2026-42826-Microsoft-Azure-DevOps-Information-Disclosure-Vulnerability">
+
+---
 ## CVE-2026-42796 ()
 > 
 - [ameerhamza-malik/CVE-2026-42796](https://github.com/ameerhamza-malik/CVE-2026-42796)	<img alt="forks" src="https://img.shields.io/github/forks/ameerhamza-malik/CVE-2026-42796">	<img alt="stars" src="https://img.shields.io/github/stars/ameerhamza-malik/CVE-2026-42796">
