@@ -745,6 +745,11 @@
 - [CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894](https://github.com/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894)	<img alt="forks" src="https://img.shields.io/github/forks/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894">	<img alt="stars" src="https://img.shields.io/github/stars/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894">
 
 ---
+## CVE-2026-65891 ()
+> 
+- [murrez/CVE-2026-65891](https://github.com/murrez/CVE-2026-65891)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-65891">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-65891">
+
+---
 ## CVE-2026-65883 ()
 > 
 - [shinthink/CVE-2026-65883](https://github.com/shinthink/CVE-2026-65883)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-65883">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-65883">
@@ -4628,6 +4633,11 @@
 ## CVE-2026-3437 ()
 > 
 - [tihomirocrew/cve-2026-3437](https://github.com/tihomirocrew/cve-2026-3437)	<img alt="forks" src="https://img.shields.io/github/forks/tihomirocrew/cve-2026-3437">	<img alt="stars" src="https://img.shields.io/github/stars/tihomirocrew/cve-2026-3437">
+
+---
+## CVE-2026-34348 ()
+> 
+- [HORKimhab/CVE-2026-34348](https://github.com/HORKimhab/CVE-2026-34348)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-34348">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-34348">
 
 ---
 ## CVE-2026-34308 ()
