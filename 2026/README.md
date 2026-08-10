@@ -126,6 +126,11 @@
 - [George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing](https://github.com/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9090-Modbus-TCP-Write-to-Read-Only-Coils-via-Function-Code-Spoofing">
 
 ---
+## CVE-2026-9086 ()
+> 
+- [Saku0512/CVE-2026-9086-poc](https://github.com/Saku0512/CVE-2026-9086-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-9086-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-9086-poc">
+
+---
 ## CVE-2026-9082 ()
 > 
 - [lysophavin18/cve-2026-9082](https://github.com/lysophavin18/cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/cve-2026-9082">
@@ -7251,7 +7256,7 @@
 - [ozcanpng/CVE-2026-23744](https://github.com/ozcanpng/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-23744">
 - [CerberusMrXi/CVE-2026-23744-MCPJam-Exploit](https://github.com/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2026-23744-MCPJam-Exploit">
 - [nullRoot-Red/CVE-2026-23744](https://github.com/nullRoot-Red/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/nullRoot-Red/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/nullRoot-Red/CVE-2026-23744">
-- [amao26/CVE-2026-23744-MCPJam-Inspector-Unauthenticated-RCE-Proof-of-Concept](https://github.com/amao26/CVE-2026-23744-MCPJam-Inspector-Unauthenticated-RCE-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/amao26/CVE-2026-23744-MCPJam-Inspector-Unauthenticated-RCE-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/amao26/CVE-2026-23744-MCPJam-Inspector-Unauthenticated-RCE-Proof-of-Concept">
+- [amao26/CVE-2026-23744-PoC](https://github.com/amao26/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/amao26/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/amao26/CVE-2026-23744-PoC">
 
 ---
 ## CVE-2026-23723 ()
@@ -8315,6 +8320,8 @@
 - [stvm8/CVE-2026-2005_lab](https://github.com/stvm8/CVE-2026-2005_lab)	<img alt="forks" src="https://img.shields.io/github/forks/stvm8/CVE-2026-2005_lab">	<img alt="stars" src="https://img.shields.io/github/stars/stvm8/CVE-2026-2005_lab">
 - [dinosn/cve-2026-2005](https://github.com/dinosn/cve-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-2005">
 - [var77/CVE-2026-2005](https://github.com/var77/CVE-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/var77/CVE-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/var77/CVE-2026-2005">
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/open-flaw/CVE-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/open-flaw/CVE-2026-2005">
+- [M3str3/CVE-2026-2005](https://github.com/M3str3/CVE-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/M3str3/CVE-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/M3str3/CVE-2026-2005">
 
 ---
 ## CVE-2026-20045 ()
