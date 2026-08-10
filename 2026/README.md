@@ -765,6 +765,11 @@
 - [swornim619/CVE-2026-65650](https://github.com/swornim619/CVE-2026-65650)	<img alt="forks" src="https://img.shields.io/github/forks/swornim619/CVE-2026-65650">	<img alt="stars" src="https://img.shields.io/github/stars/swornim619/CVE-2026-65650">
 
 ---
+## CVE-2026-65591 ()
+> 
+- [IamDremig/CVE-2026-65591](https://github.com/IamDremig/CVE-2026-65591)	<img alt="forks" src="https://img.shields.io/github/forks/IamDremig/CVE-2026-65591">	<img alt="stars" src="https://img.shields.io/github/stars/IamDremig/CVE-2026-65591">
+
+---
 ## CVE-2026-65321 ()
 > 
 - [rahulreddykarne/CVE-2026-65321-pyathena](https://github.com/rahulreddykarne/CVE-2026-65321-pyathena)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-65321-pyathena">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-65321-pyathena">
@@ -8524,6 +8529,11 @@
 - [Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0](https://github.com/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0)	<img alt="forks" src="https://img.shields.io/github/forks/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">	<img alt="stars" src="https://img.shields.io/github/stars/Z3YR0xX/CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0">
 
 ---
+## CVE-2026-15598 ()
+> 
+- [IamDremig/CVE-2026-15598](https://github.com/IamDremig/CVE-2026-15598)	<img alt="forks" src="https://img.shields.io/github/forks/IamDremig/CVE-2026-15598">	<img alt="stars" src="https://img.shields.io/github/stars/IamDremig/CVE-2026-15598">
+
+---
 ## CVE-2026-15583 ()
 > 
 - [codeb0ssx/CVE-2026-15583-PoC](https://github.com/codeb0ssx/CVE-2026-15583-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-15583-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-15583-PoC">
@@ -8614,6 +8624,11 @@
 ## CVE-2026-14856 ()
 > 
 - [jonas-fernandez-as/CVE-2026-14856-TastyIgniter](https://github.com/jonas-fernandez-as/CVE-2026-14856-TastyIgniter)	<img alt="forks" src="https://img.shields.io/github/forks/jonas-fernandez-as/CVE-2026-14856-TastyIgniter">	<img alt="stars" src="https://img.shields.io/github/stars/jonas-fernandez-as/CVE-2026-14856-TastyIgniter">
+
+---
+## CVE-2026-14802 ()
+> 
+- [IamDremig/CVE-2026-14802](https://github.com/IamDremig/CVE-2026-14802)	<img alt="forks" src="https://img.shields.io/github/forks/IamDremig/CVE-2026-14802">	<img alt="stars" src="https://img.shields.io/github/stars/IamDremig/CVE-2026-14802">
 
 ---
 ## CVE-2026-14762 ()
