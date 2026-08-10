@@ -118,6 +118,7 @@
 - [0xgh057r3c0n/CVE-2026-9198](https://github.com/0xgh057r3c0n/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-9198">
 - [samael0x4/CVE-2026-9198](https://github.com/samael0x4/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/samael0x4/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/samael0x4/CVE-2026-9198">
 - [rmhowe425/PoC-CVE-2026-9198](https://github.com/rmhowe425/PoC-CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/PoC-CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/PoC-CVE-2026-9198">
+- [Procjevt/CVE-2026-9198](https://github.com/Procjevt/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/Procjevt/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/Procjevt/CVE-2026-9198">
 
 ---
 ## CVE-2026-9090 ()
@@ -784,6 +785,11 @@
 ## CVE-2026-65008 ()
 > 
 - [zer0dayf/CVE-2026-65008](https://github.com/zer0dayf/CVE-2026-65008)	<img alt="forks" src="https://img.shields.io/github/forks/zer0dayf/CVE-2026-65008">	<img alt="stars" src="https://img.shields.io/github/stars/zer0dayf/CVE-2026-65008">
+
+---
+## CVE-2026-64824 ()
+> 
+- [Boreas37/CVE-2026-64824-PoC](https://github.com/Boreas37/CVE-2026-64824-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64824-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64824-PoC">
 
 ---
 ## CVE-2026-64725 ()
