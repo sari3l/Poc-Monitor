@@ -5719,6 +5719,11 @@ Fixed in version 6.4.1.
 - [mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal](https://github.com/mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal">
 
 ---
+## CVE-2023-31014 ()
+> 
+- [LazyBear8372/CVE-2023-31014_Lab](https://github.com/LazyBear8372/CVE-2023-31014_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/LazyBear8372/CVE-2023-31014_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/LazyBear8372/CVE-2023-31014_Lab">
+
+---
 ## CVE-2023-30990 ()
 > 
 - [silentsignal/CVE-2023-30990](https://github.com/silentsignal/CVE-2023-30990)	<img alt="forks" src="https://img.shields.io/github/forks/silentsignal/CVE-2023-30990">	<img alt="stars" src="https://img.shields.io/github/stars/silentsignal/CVE-2023-30990">
