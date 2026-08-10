@@ -7,6 +7,11 @@
 - [NagendraPittu/CVE-2021-521-Exploit](https://github.com/NagendraPittu/CVE-2021-521-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/NagendraPittu/CVE-2021-521-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/NagendraPittu/CVE-2021-521-Exploit">
 
 ---
+## CVE-2021-47881 ()
+> 
+- [kagancapar/CVE-2021-47881](https://github.com/kagancapar/CVE-2021-47881)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2021-47881">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2021-47881">
+
+---
 ## CVE-2021-4773 ()
 > 
 - [Alexs18/CVE-2021-4773](https://github.com/Alexs18/CVE-2021-4773)	<img alt="forks" src="https://img.shields.io/github/forks/Alexs18/CVE-2021-4773">	<img alt="stars" src="https://img.shields.io/github/stars/Alexs18/CVE-2021-4773">
