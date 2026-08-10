@@ -3376,6 +3376,11 @@
 - [Live-Hack-CVE/CVE-2020-23466](https://github.com/Live-Hack-CVE/CVE-2020-23466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23466">
 
 ---
+## CVE-2020-23349 ()
+> 
+- [LazyBear8372/CVE-2020-23349_Lab](https://github.com/LazyBear8372/CVE-2020-23349_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/LazyBear8372/CVE-2020-23349_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/LazyBear8372/CVE-2020-23349_Lab">
+
+---
 ## CVE-2020-23226 (2021-08-27T18:15:00)
 > Multiple Cross Site Scripting (XSS) vulneratiblities exist in Cacti 1.2.12 in (1) reports_admin.php, (2) data_queries.php, (3) data_input.php, (4) graph_templates.php, (5) graphs.php, (6) reports_admin.php, and (7) data_input.php.
 - [Live-Hack-CVE/CVE-2020-23226](https://github.com/Live-Hack-CVE/CVE-2020-23226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23226">
