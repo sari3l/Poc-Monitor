@@ -3858,6 +3858,7 @@
 - [vanhari/CVE-2026-39987](https://github.com/vanhari/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2026-39987">
 - [Wind010/CVE-2026-39987_PoC](https://github.com/Wind010/CVE-2026-39987_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2026-39987_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2026-39987_PoC">
 - [alreadyClosed/CVE-2026-39987](https://github.com/alreadyClosed/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/alreadyClosed/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/alreadyClosed/CVE-2026-39987">
+- [MADA0L/CVE-2026-39987-Poc](https://github.com/MADA0L/CVE-2026-39987-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/MADA0L/CVE-2026-39987-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/MADA0L/CVE-2026-39987-Poc">
 
 ---
 ## CVE-2026-39983 ()

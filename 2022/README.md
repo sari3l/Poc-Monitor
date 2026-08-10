@@ -15325,6 +15325,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 ## CVE-2022-38599 (2022-12-08T17:15:00)
 > Teleport v3.2.2, Teleport v3.5.6-rc6, and Teleport v3.6.3-b2 was discovered to contain an information leak via the /user/get-role-list web interface.
 - [Live-Hack-CVE/CVE-2022-38599](https://github.com/Live-Hack-CVE/CVE-2022-38599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38599">
+- [arleyna/CVE-2022-38599](https://github.com/arleyna/CVE-2022-38599)	<img alt="forks" src="https://img.shields.io/github/forks/arleyna/CVE-2022-38599">	<img alt="stars" src="https://img.shields.io/github/stars/arleyna/CVE-2022-38599">
 
 ---
 ## CVE-2022-3859 (2022-11-30T09:15:00)
