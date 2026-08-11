@@ -2308,6 +2308,10 @@
 ## CVE-2026-48710 ()
 > 
 - [Bhanunamikaze/BadHost-CVE-2026-48710-Exploit](https://github.com/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">
+- [CuteeCat/CVE-2026-48710](https://github.com/CuteeCat/CVE-2026-48710)	<img alt="forks" src="https://img.shields.io/github/forks/CuteeCat/CVE-2026-48710">	<img alt="stars" src="https://img.shields.io/github/stars/CuteeCat/CVE-2026-48710">
+- [sb-ox/repro-OXDEV-77637-uv-workspace](https://github.com/sb-ox/repro-OXDEV-77637-uv-workspace)	<img alt="forks" src="https://img.shields.io/github/forks/sb-ox/repro-OXDEV-77637-uv-workspace">	<img alt="stars" src="https://img.shields.io/github/stars/sb-ox/repro-OXDEV-77637-uv-workspace">
+- [eris-ths/supply-chain-guard](https://github.com/eris-ths/supply-chain-guard)	<img alt="forks" src="https://img.shields.io/github/forks/eris-ths/supply-chain-guard">	<img alt="stars" src="https://img.shields.io/github/stars/eris-ths/supply-chain-guard">
+- [xtremebeing/starlette-host-header-lab](https://github.com/xtremebeing/starlette-host-header-lab)	<img alt="forks" src="https://img.shields.io/github/forks/xtremebeing/starlette-host-header-lab">	<img alt="stars" src="https://img.shields.io/github/stars/xtremebeing/starlette-host-header-lab">
 
 ---
 ## CVE-2026-48611 ()
@@ -2926,6 +2930,11 @@
 ## CVE-2026-44438 ()
 > 
 - [llaytynher/CVE-2026-44438](https://github.com/llaytynher/CVE-2026-44438)	<img alt="forks" src="https://img.shields.io/github/forks/llaytynher/CVE-2026-44438">	<img alt="stars" src="https://img.shields.io/github/stars/llaytynher/CVE-2026-44438">
+
+---
+## CVE-2026-44401 ()
+> 
+- [sn0x-sharma/CVE-2026-44401](https://github.com/sn0x-sharma/CVE-2026-44401)	<img alt="forks" src="https://img.shields.io/github/forks/sn0x-sharma/CVE-2026-44401">	<img alt="stars" src="https://img.shields.io/github/stars/sn0x-sharma/CVE-2026-44401">
 
 ---
 ## CVE-2026-44338 ()
