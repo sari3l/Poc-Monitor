@@ -624,6 +624,11 @@
 - [theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-](https://github.com/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-">
 
 ---
+## CVE-2026-66804 ()
+> 
+- [DavidCarliez/CVE-2026-66804-CrossDevice-LPE](https://github.com/DavidCarliez/CVE-2026-66804-CrossDevice-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-66804-CrossDevice-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-66804-CrossDevice-LPE">
+
+---
 ## CVE-2026-66754 ()
 > 
 - [theopaid/CVE-2026-66754-Remote-Denial-of-Service-via-Reachable-Assertion-in-URL-Prefix-Handling-rouille-](https://github.com/theopaid/CVE-2026-66754-Remote-Denial-of-Service-via-Reachable-Assertion-in-URL-Prefix-Handling-rouille-)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-66754-Remote-Denial-of-Service-via-Reachable-Assertion-in-URL-Prefix-Handling-rouille-">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-66754-Remote-Denial-of-Service-via-Reachable-Assertion-in-URL-Prefix-Handling-rouille-">
@@ -1037,6 +1042,7 @@
 ## CVE-2026-62737 ()
 > 
 - [DavidCarliez/cve-2026-62737-lab](https://github.com/DavidCarliez/cve-2026-62737-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/cve-2026-62737-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/cve-2026-62737-lab">
+- [0p5cur/CVE-2026-62737-POC](https://github.com/0p5cur/CVE-2026-62737-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0p5cur/CVE-2026-62737-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0p5cur/CVE-2026-62737-POC">
 
 ---
 ## CVE-2026-6227 ()
@@ -2749,6 +2755,7 @@
 - [yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585">
 - [Aqua1214/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">
 - [Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585">
+- [yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
