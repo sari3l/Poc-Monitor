@@ -2733,6 +2733,11 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [alien-keric/CVE-2023-4197](https://github.com/alien-keric/CVE-2023-4197)	<img alt="forks" src="https://img.shields.io/github/forks/alien-keric/CVE-2023-4197">	<img alt="stars" src="https://img.shields.io/github/stars/alien-keric/CVE-2023-4197">
 
 ---
+## CVE-2023-41898 ()
+> 
+- [LazyBear8372/CVE-2023-41898_Lab](https://github.com/LazyBear8372/CVE-2023-41898_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/LazyBear8372/CVE-2023-41898_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/LazyBear8372/CVE-2023-41898_Lab">
+
+---
 ## CVE-2023-41892 (2023-09-13T20:15:00)
 > Craft CMS is a platform for creating digital experiences. This is a high-impact, low-complexity attack vector. Users running Craft installations before 4.4.15 are encouraged to update to at least that version to mitigate the issue. This issue has been fixed in Craft CMS 4.4.15.
 - [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/zaenhaxor/CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/zaenhaxor/CVE-2023-41892">
