@@ -3177,6 +3177,11 @@
 - [TeteREN/CVE-2025-57819-RCE](https://github.com/TeteREN/CVE-2025-57819-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TeteREN/CVE-2025-57819-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TeteREN/CVE-2025-57819-RCE">
 
 ---
+## CVE-2025-5781 ()
+> 
+- [jasonbernier/CVE-2025-5781](https://github.com/jasonbernier/CVE-2025-5781)	<img alt="forks" src="https://img.shields.io/github/forks/jasonbernier/CVE-2025-5781">	<img alt="stars" src="https://img.shields.io/github/stars/jasonbernier/CVE-2025-5781">
+
+---
 ## CVE-2025-57773 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-57773](https://github.com/B1ack4sh/Blackash-CVE-2025-57773)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-57773">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-57773">
