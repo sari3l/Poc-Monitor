@@ -8424,6 +8424,11 @@
 - [ronamosa/CVE-2026-18953](https://github.com/ronamosa/CVE-2026-18953)	<img alt="forks" src="https://img.shields.io/github/forks/ronamosa/CVE-2026-18953">	<img alt="stars" src="https://img.shields.io/github/stars/ronamosa/CVE-2026-18953">
 
 ---
+## CVE-2026-18907 ()
+> 
+- [Hunt-Benito/two-dots-and-a-slash-cve-2026-18907-tecno-hi-browser-download-path-traversal](https://github.com/Hunt-Benito/two-dots-and-a-slash-cve-2026-18907-tecno-hi-browser-download-path-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/two-dots-and-a-slash-cve-2026-18907-tecno-hi-browser-download-path-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/two-dots-and-a-slash-cve-2026-18907-tecno-hi-browser-download-path-traversal">
+
+---
 ## CVE-2026-1880 ()
 > 
 - [seokjohn/CVE-2026-1880](https://github.com/seokjohn/CVE-2026-1880)	<img alt="forks" src="https://img.shields.io/github/forks/seokjohn/CVE-2026-1880">	<img alt="stars" src="https://img.shields.io/github/stars/seokjohn/CVE-2026-1880">
