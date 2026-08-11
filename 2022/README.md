@@ -20522,6 +20522,7 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [noxlumens/CVE-2022-35914_poc](https://github.com/noxlumens/CVE-2022-35914_poc)	<img alt="forks" src="https://img.shields.io/github/forks/noxlumens/CVE-2022-35914_poc">	<img alt="stars" src="https://img.shields.io/github/stars/noxlumens/CVE-2022-35914_poc">
 - [btar1gan/exploit_CVE-2022-35914](https://github.com/btar1gan/exploit_CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/btar1gan/exploit_CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/btar1gan/exploit_CVE-2022-35914">
 - [YumeSecurity/CVE-2022-35914](https://github.com/YumeSecurity/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/YumeSecurity/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/YumeSecurity/CVE-2022-35914">
+- [cyb3rk0ala/CVE-2022-35914](https://github.com/cyb3rk0ala/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3rk0ala/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3rk0ala/CVE-2022-35914">
 
 ---
 ## CVE-2022-35913 (2022-09-06T23:15:00)
