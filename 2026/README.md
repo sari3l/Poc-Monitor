@@ -549,6 +549,11 @@
 - [George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser](https://github.com/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-6789-Stack-Buffer-Overflow-in-Embedded-TLS-Certificate-Parser">
 
 ---
+## CVE-2026-67846 ()
+> 
+- [duan528/CVE-2026-67846-BOOM-NBDTLB](https://github.com/duan528/CVE-2026-67846-BOOM-NBDTLB)	<img alt="forks" src="https://img.shields.io/github/forks/duan528/CVE-2026-67846-BOOM-NBDTLB">	<img alt="stars" src="https://img.shields.io/github/stars/duan528/CVE-2026-67846-BOOM-NBDTLB">
+
+---
 ## CVE-2026-67822 ()
 > 
 - [Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset](https://github.com/Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset">

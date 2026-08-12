@@ -4458,6 +4458,7 @@
 - [indra-031/React2Shell-Exploit-CVE-2025-55182](https://github.com/indra-031/React2Shell-Exploit-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/indra-031/React2Shell-Exploit-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/indra-031/React2Shell-Exploit-CVE-2025-55182">
 - [Phucc29/CVE-2025-55182](https://github.com/Phucc29/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Phucc29/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Phucc29/CVE-2025-55182">
 - [CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit](https://github.com/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">
+- [dotnetguard/CVE-2025-55182-Exploit](https://github.com/dotnetguard/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dotnetguard/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dotnetguard/CVE-2025-55182-Exploit">
 
 ---
 ## CVE-2025-55130 ()
