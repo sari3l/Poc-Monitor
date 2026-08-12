@@ -534,6 +534,11 @@
 - [danilo-dellorco/CVE-2026-6815](https://github.com/danilo-dellorco/CVE-2026-6815)	<img alt="forks" src="https://img.shields.io/github/forks/danilo-dellorco/CVE-2026-6815">	<img alt="stars" src="https://img.shields.io/github/stars/danilo-dellorco/CVE-2026-6815">
 
 ---
+## CVE-2026-68138 ()
+> 
+- [aramosf/CVE-2026-68138](https://github.com/aramosf/CVE-2026-68138)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/CVE-2026-68138">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/CVE-2026-68138">
+
+---
 ## CVE-2026-6807 ()
 > 
 - [SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC](https://github.com/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/Grassmarlin-CVE-2026-6807-XXE-POC">
@@ -3184,6 +3189,7 @@
 - [oopnv70-lab/ghostlock-skeleton](https://github.com/oopnv70-lab/ghostlock-skeleton)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-skeleton">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-skeleton">
 - [oopnv70-lab/ghostlock-apk](https://github.com/oopnv70-lab/ghostlock-apk)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-apk">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-apk">
 - [OhLookItsTheIRS/Root-My-Galaxy-tests](https://github.com/OhLookItsTheIRS/Root-My-Galaxy-tests)	<img alt="forks" src="https://img.shields.io/github/forks/OhLookItsTheIRS/Root-My-Galaxy-tests">	<img alt="stars" src="https://img.shields.io/github/stars/OhLookItsTheIRS/Root-My-Galaxy-tests">
+- [E-R-Butch/F9360-CVE43499](https://github.com/E-R-Butch/F9360-CVE43499)	<img alt="forks" src="https://img.shields.io/github/forks/E-R-Butch/F9360-CVE43499">	<img alt="stars" src="https://img.shields.io/github/stars/E-R-Butch/F9360-CVE43499">
 
 ---
 ## CVE-2026-43494 ()
