@@ -483,6 +483,11 @@
 - [xxconi/CVE-2026-6960](https://github.com/xxconi/CVE-2026-6960)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6960">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6960">
 
 ---
+## CVE-2026-69263 ()
+> 
+- [leoelsolh/CVE-2026-69263](https://github.com/leoelsolh/CVE-2026-69263)	<img alt="forks" src="https://img.shields.io/github/forks/leoelsolh/CVE-2026-69263">	<img alt="stars" src="https://img.shields.io/github/stars/leoelsolh/CVE-2026-69263">
+
+---
 ## CVE-2026-69243 ()
 > 
 - [JVBotelho/cve-2026-69243-poc-aiohttp-smuggling](https://github.com/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling)	<img alt="forks" src="https://img.shields.io/github/forks/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling">	<img alt="stars" src="https://img.shields.io/github/stars/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling">
@@ -2955,6 +2960,11 @@
 ## CVE-2026-44438 ()
 > 
 - [llaytynher/CVE-2026-44438](https://github.com/llaytynher/CVE-2026-44438)	<img alt="forks" src="https://img.shields.io/github/forks/llaytynher/CVE-2026-44438">	<img alt="stars" src="https://img.shields.io/github/stars/llaytynher/CVE-2026-44438">
+
+---
+## CVE-2026-44402 ()
+> 
+- [Virgula0/CVE-2026-44402](https://github.com/Virgula0/CVE-2026-44402)	<img alt="forks" src="https://img.shields.io/github/forks/Virgula0/CVE-2026-44402">	<img alt="stars" src="https://img.shields.io/github/stars/Virgula0/CVE-2026-44402">
 
 ---
 ## CVE-2026-44401 ()
@@ -6313,6 +6323,11 @@
 ## CVE-2026-27384 ()
 > 
 - [xxconi/CVE-2026-27384](https://github.com/xxconi/CVE-2026-27384)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-27384">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-27384">
+
+---
+## CVE-2026-27344 ()
+> 
+- [AC8999/CVE-2026-27344](https://github.com/AC8999/CVE-2026-27344)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2026-27344">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2026-27344">
 
 ---
 ## CVE-2026-27211 ()
