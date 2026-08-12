@@ -2287,6 +2287,7 @@
 - [cazzysoci/cve-2026-48908](https://github.com/cazzysoci/cve-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/cazzysoci/cve-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/cazzysoci/cve-2026-48908">
 - [g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection](https://github.com/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection">
 - [imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE](https://github.com/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">
+- [yora1928/CVE-2026-48908-by-yora](https://github.com/yora1928/CVE-2026-48908-by-yora)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/CVE-2026-48908-by-yora">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/CVE-2026-48908-by-yora">
 
 ---
 ## CVE-2026-48907 ()
