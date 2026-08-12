@@ -412,6 +412,11 @@
 - [microwaveabi/pharmacy-sqli-CVE-2026-7392](https://github.com/microwaveabi/pharmacy-sqli-CVE-2026-7392)	<img alt="forks" src="https://img.shields.io/github/forks/microwaveabi/pharmacy-sqli-CVE-2026-7392">	<img alt="stars" src="https://img.shields.io/github/stars/microwaveabi/pharmacy-sqli-CVE-2026-7392">
 
 ---
+## CVE-2026-73034 ()
+> 
+- [Boreas37/CVE-2026-73034-PoC](https://github.com/Boreas37/CVE-2026-73034-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-73034-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-73034-PoC">
+
+---
 ## CVE-2026-72898 ()
 > 
 - [0xBlackash/CVE-2026-72898](https://github.com/0xBlackash/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-72898">
@@ -3689,6 +3694,11 @@
 - [0xBlackash/CVE-2026-41462](https://github.com/0xBlackash/CVE-2026-41462)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41462">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41462">
 
 ---
+## CVE-2026-41452 ()
+> 
+- [Boreas37/CVE-2026-41452-PoC](https://github.com/Boreas37/CVE-2026-41452-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-41452-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-41452-PoC">
+
+---
 ## CVE-2026-41303 ()
 > 
 - [kaleth4/CVE-2026-41303](https://github.com/kaleth4/CVE-2026-41303)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-41303">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-41303">
@@ -3956,6 +3966,7 @@
 - [Wind010/CVE-2026-39987_PoC](https://github.com/Wind010/CVE-2026-39987_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2026-39987_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2026-39987_PoC">
 - [alreadyClosed/CVE-2026-39987](https://github.com/alreadyClosed/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/alreadyClosed/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/alreadyClosed/CVE-2026-39987">
 - [MADA0L/CVE-2026-39987-Poc](https://github.com/MADA0L/CVE-2026-39987-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/MADA0L/CVE-2026-39987-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/MADA0L/CVE-2026-39987-Poc">
+- [matesz44/cve-2026-39987](https://github.com/matesz44/cve-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/cve-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/cve-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
