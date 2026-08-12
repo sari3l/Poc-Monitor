@@ -1564,6 +1564,11 @@
 - [DavidCarliez/CVE-2026-54992-PoC](https://github.com/DavidCarliez/CVE-2026-54992-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-54992-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-54992-PoC">
 
 ---
+## CVE-2026-54984 ()
+> 
+- [kagancapar/CVE-2026-54984](https://github.com/kagancapar/CVE-2026-54984)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2026-54984">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2026-54984">
+
+---
 ## CVE-2026-54917 ()
 > 
 - [BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal](https://github.com/BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal">
