@@ -20541,6 +20541,7 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [Live-Hack-CVE/CVE-2022-3590](https://github.com/Live-Hack-CVE/CVE-2022-3590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3590">
 - [hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner">
 - [huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner">
+- [4chech/CVE-2022-3590](https://github.com/4chech/CVE-2022-3590)	<img alt="forks" src="https://img.shields.io/github/forks/4chech/CVE-2022-3590">	<img alt="stars" src="https://img.shields.io/github/stars/4chech/CVE-2022-3590">
 
 ---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
