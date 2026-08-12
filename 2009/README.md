@@ -8,6 +8,11 @@
 - [MonsempesSamuel/CVE-2009-4623](https://github.com/MonsempesSamuel/CVE-2009-4623)	<img alt="forks" src="https://img.shields.io/github/forks/MonsempesSamuel/CVE-2009-4623">	<img alt="stars" src="https://img.shields.io/github/stars/MonsempesSamuel/CVE-2009-4623">
 
 ---
+## CVE-2009-4496 ()
+> 
+- [enriquenegri-cyberlaw/boa-cve-2009-4496-analysis](https://github.com/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis">
+
+---
 ## CVE-2009-4049 (2009-11-23T17:30:00)
 > Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.
 - [Exploitables/CVE-2009-4049](https://github.com/Exploitables/CVE-2009-4049)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2009-4049">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2009-4049">
