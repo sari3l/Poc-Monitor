@@ -1980,6 +1980,7 @@
 > 
 - [0xBlackash/CVE-2026-50656](https://github.com/0xBlackash/CVE-2026-50656)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-50656">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-50656">
 - [HORKimhab/CVE-2026-50656](https://github.com/HORKimhab/CVE-2026-50656)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50656">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50656">
+- [g0thamRabb1t/CVE-2026-50656-rogueplanet-validation](https://github.com/g0thamRabb1t/CVE-2026-50656-rogueplanet-validation)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/CVE-2026-50656-rogueplanet-validation">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/CVE-2026-50656-rogueplanet-validation">
 
 ---
 ## CVE-2026-5061 ()

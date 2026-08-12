@@ -1870,6 +1870,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [zrax-x/CVE-2024-5290-exp](https://github.com/zrax-x/CVE-2024-5290-exp)	<img alt="forks" src="https://img.shields.io/github/forks/zrax-x/CVE-2024-5290-exp">	<img alt="stars" src="https://img.shields.io/github/stars/zrax-x/CVE-2024-5290-exp">
 
 ---
+## CVE-2024-52806 ()
+> 
+- [heartlesseorg-dot/CVE-2024-52806-PoC](https://github.com/heartlesseorg-dot/CVE-2024-52806-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/heartlesseorg-dot/CVE-2024-52806-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/heartlesseorg-dot/CVE-2024-52806-PoC">
+
+---
 ## CVE-2024-52794 ()
 > 
 - [Beesco00/CVE-2024-52794-Discourse-Stored-XSS](https://github.com/Beesco00/CVE-2024-52794-Discourse-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Beesco00/CVE-2024-52794-Discourse-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Beesco00/CVE-2024-52794-Discourse-Stored-XSS">
