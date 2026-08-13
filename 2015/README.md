@@ -404,7 +404,7 @@
 ---
 ## CVE-2015-1925 ()
 > 
-- [damariion/CVE-2015-1925](https://github.com/damariion/CVE-2015-1925)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2015-1925">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2015-1925">
+- [damariion/CVE-2015-1925.RCE](https://github.com/damariion/CVE-2015-1925.RCE)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2015-1925.RCE">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2015-1925.RCE">
 
 ---
 ## CVE-2015-1805 (2015-08-08T10:59:00)

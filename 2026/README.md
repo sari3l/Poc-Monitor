@@ -1436,6 +1436,11 @@
 - [BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl](https://github.com/BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-56423-MISP-deleteSelection-BrokenAccessControl">
 
 ---
+## CVE-2026-56292 ()
+> 
+- [nullwhisper/CVE-2026-56292-AcyMailing-SQLi](https://github.com/nullwhisper/CVE-2026-56292-AcyMailing-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/nullwhisper/CVE-2026-56292-AcyMailing-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/nullwhisper/CVE-2026-56292-AcyMailing-SQLi">
+
+---
 ## CVE-2026-56291 ()
 > 
 - [shinthink/CVE-2026-56291](https://github.com/shinthink/CVE-2026-56291)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-56291">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-56291">
