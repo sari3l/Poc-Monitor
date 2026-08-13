@@ -3277,6 +3277,7 @@
 - [hybLOVE/iqoo-temp-root](https://github.com/hybLOVE/iqoo-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/hybLOVE/iqoo-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/hybLOVE/iqoo-temp-root">
 - [pimpamebanihah/cve-2026-43499-app.so](https://github.com/pimpamebanihah/cve-2026-43499-app.so)	<img alt="forks" src="https://img.shields.io/github/forks/pimpamebanihah/cve-2026-43499-app.so">	<img alt="stars" src="https://img.shields.io/github/stars/pimpamebanihah/cve-2026-43499-app.so">
 - [pimpamebanihah/cve-2026-43499-app.s0](https://github.com/pimpamebanihah/cve-2026-43499-app.s0)	<img alt="forks" src="https://img.shields.io/github/forks/pimpamebanihah/cve-2026-43499-app.s0">	<img alt="stars" src="https://img.shields.io/github/stars/pimpamebanihah/cve-2026-43499-app.s0">
+- [wzhdgithub/GhostLock](https://github.com/wzhdgithub/GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/wzhdgithub/GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/wzhdgithub/GhostLock">
 
 ---
 ## CVE-2026-43494 ()
