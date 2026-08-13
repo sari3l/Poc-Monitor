@@ -14,6 +14,8 @@
 ## CVE-2026-9999 ()
 > 
 - [josephfarah-ciso/CVE-2026-9999-exploit](https://github.com/josephfarah-ciso/CVE-2026-9999-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/josephfarah-ciso/CVE-2026-9999-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/josephfarah-ciso/CVE-2026-9999-exploit">
+- [George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite](https://github.com/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite">
+- [24520597-blip/CVE-2026-999999](https://github.com/24520597-blip/CVE-2026-999999)	<img alt="forks" src="https://img.shields.io/github/forks/24520597-blip/CVE-2026-999999">	<img alt="stars" src="https://img.shields.io/github/stars/24520597-blip/CVE-2026-999999">
 
 ---
 ## CVE-2026-9998 ()
@@ -2540,6 +2542,11 @@
 ## CVE-2026-47323 ()
 > 
 - [oscerd/CVE-2026-47323](https://github.com/oscerd/CVE-2026-47323)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-47323">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-47323">
+
+---
+## CVE-2026-47301 ()
+> 
+- [OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit](https://github.com/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit">
 
 ---
 ## CVE-2026-47291 ()
