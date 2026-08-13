@@ -10012,6 +10012,7 @@
 - [ma4the/omae-wa-cheese-da](https://github.com/ma4the/omae-wa-cheese-da)	<img alt="forks" src="https://img.shields.io/github/forks/ma4the/omae-wa-cheese-da">	<img alt="stars" src="https://img.shields.io/github/stars/ma4the/omae-wa-cheese-da">
 - [sarabpal-dev/cheese-cake](https://github.com/sarabpal-dev/cheese-cake)	<img alt="forks" src="https://img.shields.io/github/forks/sarabpal-dev/cheese-cake">	<img alt="stars" src="https://img.shields.io/github/stars/sarabpal-dev/cheese-cake">
 - [zhuowei/cheese](https://github.com/zhuowei/cheese)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/cheese">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/cheese">
+- [Type010/cve-2025-21479-iqoo11pro](https://github.com/Type010/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/Type010/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/Type010/cve-2025-21479-iqoo11pro">
 
 ---
 ## CVE-2025-21420 ()
