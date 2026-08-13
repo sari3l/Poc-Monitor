@@ -1810,6 +1810,11 @@
 - [tar-xz/CVE-2026-53519-PoC](https://github.com/tar-xz/CVE-2026-53519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tar-xz/CVE-2026-53519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tar-xz/CVE-2026-53519-PoC">
 
 ---
+## CVE-2026-53413 ()
+> 
+- [HORKimhab/CVE-2026-53413](https://github.com/HORKimhab/CVE-2026-53413)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53413">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53413">
+
+---
 ## CVE-2026-53360 ()
 > 
 - [0xCyberstan/CVE-2026-53360-POC](https://github.com/0xCyberstan/CVE-2026-53360-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-53360-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-53360-POC">
@@ -5105,6 +5110,7 @@
 - [Dynamo2k1/CVE-2026-33017](https://github.com/Dynamo2k1/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Dynamo2k1/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Dynamo2k1/CVE-2026-33017">
 - [TatoSec/CVE-2026-33017-Langflop](https://github.com/TatoSec/CVE-2026-33017-Langflop)	<img alt="forks" src="https://img.shields.io/github/forks/TatoSec/CVE-2026-33017-Langflop">	<img alt="stars" src="https://img.shields.io/github/stars/TatoSec/CVE-2026-33017-Langflop">
 - [sonnelon/CVE-2026-33017-PoC](https://github.com/sonnelon/CVE-2026-33017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sonnelon/CVE-2026-33017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sonnelon/CVE-2026-33017-PoC">
+- [lxxexxbxx/CVE-2026-33017](https://github.com/lxxexxbxx/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/lxxexxbxx/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/lxxexxbxx/CVE-2026-33017">
 
 ---
 ## CVE-2026-3300 ()
