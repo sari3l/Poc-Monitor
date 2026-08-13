@@ -7248,6 +7248,11 @@
 - [imzanggg/CVE-2026-24055-OAuth-Langfuse](https://github.com/imzanggg/CVE-2026-24055-OAuth-Langfuse)	<img alt="forks" src="https://img.shields.io/github/forks/imzanggg/CVE-2026-24055-OAuth-Langfuse">	<img alt="stars" src="https://img.shields.io/github/stars/imzanggg/CVE-2026-24055-OAuth-Langfuse">
 
 ---
+## CVE-2026-24031 ()
+> 
+- [aramosf/CVE-2026-24031](https://github.com/aramosf/CVE-2026-24031)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/CVE-2026-24031">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/CVE-2026-24031">
+
+---
 ## CVE-2026-24018 ()
 > 
 - [febin0x10/Fortinet_FortiClient_Exploit_CVE-2026-24018](https://github.com/febin0x10/Fortinet_FortiClient_Exploit_CVE-2026-24018)	<img alt="forks" src="https://img.shields.io/github/forks/febin0x10/Fortinet_FortiClient_Exploit_CVE-2026-24018">	<img alt="stars" src="https://img.shields.io/github/stars/febin0x10/Fortinet_FortiClient_Exploit_CVE-2026-24018">
