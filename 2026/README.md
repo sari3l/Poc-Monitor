@@ -5104,6 +5104,7 @@
 - [Usman0220/CVE-2026-33017-Langflow-RCE](https://github.com/Usman0220/CVE-2026-33017-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Usman0220/CVE-2026-33017-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Usman0220/CVE-2026-33017-Langflow-RCE">
 - [Dynamo2k1/CVE-2026-33017](https://github.com/Dynamo2k1/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Dynamo2k1/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Dynamo2k1/CVE-2026-33017">
 - [TatoSec/CVE-2026-33017-Langflop](https://github.com/TatoSec/CVE-2026-33017-Langflop)	<img alt="forks" src="https://img.shields.io/github/forks/TatoSec/CVE-2026-33017-Langflop">	<img alt="stars" src="https://img.shields.io/github/stars/TatoSec/CVE-2026-33017-Langflop">
+- [sonnelon/CVE-2026-33017-PoC](https://github.com/sonnelon/CVE-2026-33017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sonnelon/CVE-2026-33017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sonnelon/CVE-2026-33017-PoC">
 
 ---
 ## CVE-2026-3300 ()
@@ -6703,6 +6704,11 @@
 ## CVE-2026-25939 ()
 > 
 - [mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary](https://github.com/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary">
+
+---
+## CVE-2026-25938 ()
+> 
+- [judgedbykira/CVE-2026-25938-FUXA-Unauthenticated-RCE](https://github.com/judgedbykira/CVE-2026-25938-FUXA-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/judgedbykira/CVE-2026-25938-FUXA-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/judgedbykira/CVE-2026-25938-FUXA-Unauthenticated-RCE">
 
 ---
 ## CVE-2026-25924 ()
