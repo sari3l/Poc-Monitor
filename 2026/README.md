@@ -5371,6 +5371,7 @@
 ## CVE-2026-31816 ()
 > 
 - [imjdl/CVE-2026-31816-rshell](https://github.com/imjdl/CVE-2026-31816-rshell)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-31816-rshell">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-31816-rshell">
+- [K3ysTr0K3R/CVE-2026-31816](https://github.com/K3ysTr0K3R/CVE-2026-31816)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-31816">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-31816">
 
 ---
 ## CVE-2026-31802 ()

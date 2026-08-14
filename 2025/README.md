@@ -7730,6 +7730,7 @@
 - [dampedcoast/Exploiting-a-vulnerability-using-reverse-shell](https://github.com/dampedcoast/Exploiting-a-vulnerability-using-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/dampedcoast/Exploiting-a-vulnerability-using-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/dampedcoast/Exploiting-a-vulnerability-using-reverse-shell">
 - [chuzouX/CVE-2025-32433-Exploit-edited](https://github.com/chuzouX/CVE-2025-32433-Exploit-edited)	<img alt="forks" src="https://img.shields.io/github/forks/chuzouX/CVE-2025-32433-Exploit-edited">	<img alt="stars" src="https://img.shields.io/github/stars/chuzouX/CVE-2025-32433-Exploit-edited">
 - [razureink/cve-2025-32433-erlang_ssh_rce_reproduction](https://github.com/razureink/cve-2025-32433-erlang_ssh_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">
+- [Liam-Worsley/CVE-2025-32433-PoC-Analysis](https://github.com/Liam-Worsley/CVE-2025-32433-PoC-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Liam-Worsley/CVE-2025-32433-PoC-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Liam-Worsley/CVE-2025-32433-PoC-Analysis">
 
 ---
 ## CVE-2025-32432 ()
