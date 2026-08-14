@@ -142,6 +142,11 @@
 - [migueltarga/CVE-2020-9380](https://github.com/migueltarga/CVE-2020-9380)	<img alt="forks" src="https://img.shields.io/github/forks/migueltarga/CVE-2020-9380">	<img alt="stars" src="https://img.shields.io/github/stars/migueltarga/CVE-2020-9380">
 
 ---
+## CVE-2020-9373 ()
+> 
+- [Limingxi6/cve-2020-9373-netgear-r6400](https://github.com/Limingxi6/cve-2020-9373-netgear-r6400)	<img alt="forks" src="https://img.shields.io/github/forks/Limingxi6/cve-2020-9373-netgear-r6400">	<img alt="stars" src="https://img.shields.io/github/stars/Limingxi6/cve-2020-9373-netgear-r6400">
+
+---
 ## CVE-2020-9296 (2020-06-16T14:15:00)
 > Netflix Titus uses Java Bean Validation (JSR 380) custom constraint validators. When building custom constraint violation error messages, different types of interpolation are supported, including Java EL expressions. If an attacker can inject arbitrary data in the error message template being passed to ConstraintValidatorContext.buildConstraintViolationWithTemplate() argument, they will be able to run arbitrary Java code.
 - [Live-Hack-CVE/CVE-2020-9296](https://github.com/Live-Hack-CVE/CVE-2020-9296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9296">

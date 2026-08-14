@@ -3284,6 +3284,7 @@
 - [pimpamebanihah/cve-2026-43499-app.s0](https://github.com/pimpamebanihah/cve-2026-43499-app.s0)	<img alt="forks" src="https://img.shields.io/github/forks/pimpamebanihah/cve-2026-43499-app.s0">	<img alt="stars" src="https://img.shields.io/github/stars/pimpamebanihah/cve-2026-43499-app.s0">
 - [wzhdgithub/GhostLock](https://github.com/wzhdgithub/GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/wzhdgithub/GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/wzhdgithub/GhostLock">
 - [Bugel/cve-2026-43499-m3q-azf1](https://github.com/Bugel/cve-2026-43499-m3q-azf1)	<img alt="forks" src="https://img.shields.io/github/forks/Bugel/cve-2026-43499-m3q-azf1">	<img alt="stars" src="https://img.shields.io/github/stars/Bugel/cve-2026-43499-m3q-azf1">
+- [hmascs/KSuRoot](https://github.com/hmascs/KSuRoot)	<img alt="forks" src="https://img.shields.io/github/forks/hmascs/KSuRoot">	<img alt="stars" src="https://img.shields.io/github/stars/hmascs/KSuRoot">
 
 ---
 ## CVE-2026-43494 ()
