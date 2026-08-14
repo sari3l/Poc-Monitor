@@ -231,6 +231,7 @@
 ## CVE-2026-8452 ()
 > 
 - [watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">
+- [derekpreston81/CVE_ADC_IOC_2026](https://github.com/derekpreston81/CVE_ADC_IOC_2026)	<img alt="forks" src="https://img.shields.io/github/forks/derekpreston81/CVE_ADC_IOC_2026">	<img alt="stars" src="https://img.shields.io/github/stars/derekpreston81/CVE_ADC_IOC_2026">
 
 ---
 ## CVE-2026-8451 ()
@@ -1920,6 +1921,11 @@
 ## CVE-2026-52806 ()
 > 
 - [portbuster1337/CVE-2026-52806](https://github.com/portbuster1337/CVE-2026-52806)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-52806">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-52806">
+
+---
+## CVE-2026-52715 ()
+> 
+- [686f6c61/POC-GeoLeak-CVE-2026-52715](https://github.com/686f6c61/POC-GeoLeak-CVE-2026-52715)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-GeoLeak-CVE-2026-52715">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-GeoLeak-CVE-2026-52715">
 
 ---
 ## CVE-2026-52680 ()
