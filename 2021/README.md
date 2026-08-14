@@ -3491,6 +3491,8 @@
 - [jmg0929/CVE-2021-40346](https://github.com/jmg0929/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/jmg0929/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/jmg0929/CVE-2021-40346">
 - [rusakalimantan/PwnKit-CVE-2021-4034](https://github.com/rusakalimantan/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/rusakalimantan/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/rusakalimantan/PwnKit-CVE-2021-4034">
 - [mac3d0/CVE-2021-4034-pwnkit](https://github.com/mac3d0/CVE-2021-4034-pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/mac3d0/CVE-2021-4034-pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/mac3d0/CVE-2021-4034-pwnkit">
+- [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
+- [Pinkish-Warrior/local](https://github.com/Pinkish-Warrior/local)	<img alt="forks" src="https://img.shields.io/github/forks/Pinkish-Warrior/local">	<img alt="stars" src="https://img.shields.io/github/stars/Pinkish-Warrior/local">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
