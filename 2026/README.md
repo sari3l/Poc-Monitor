@@ -207,6 +207,11 @@
 - [izxci/CVE-2026-8809](https://github.com/izxci/CVE-2026-8809)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-8809">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-8809">
 
 ---
+## CVE-2026-8794 ()
+> 
+- [H4zaz/CVE-2026-8794](https://github.com/H4zaz/CVE-2026-8794)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-8794">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-8794">
+
+---
 ## CVE-2026-8793 ()
 > 
 - [H4zaz/CVE-2026-8793](https://github.com/H4zaz/CVE-2026-8793)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-8793">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-8793">
@@ -451,6 +456,7 @@
 - [codeb0ssx/CVE-2026-72898-PoC](https://github.com/codeb0ssx/CVE-2026-72898-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-72898-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-72898-PoC">
 - [4minx/CVE-2026-72898](https://github.com/4minx/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-72898">
 - [ubitquity/Metabase-Setup-Endpoint-SQLi-Fix](https://github.com/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix">
+- [VuxNx/CVE-2026-72898](https://github.com/VuxNx/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/VuxNx/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/VuxNx/CVE-2026-72898">
 
 ---
 ## CVE-2026-7275 ()
