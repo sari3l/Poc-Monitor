@@ -1,6 +1,11 @@
 # 2024 List
 
 ---
+## CVE-2024-999999 ()
+> 
+- [ForbiddenGarden/CVE-2024-999999-poc](https://github.com/ForbiddenGarden/CVE-2024-999999-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ForbiddenGarden/CVE-2024-999999-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ForbiddenGarden/CVE-2024-999999-poc">
+
+---
 ## CVE-2024-99999 ()
 > 
 - [labc-dev/CVE-2024-99999](https://github.com/labc-dev/CVE-2024-99999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-99999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-99999">
