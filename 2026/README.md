@@ -445,6 +445,7 @@
 - [0xBlackash/CVE-2026-72898](https://github.com/0xBlackash/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-72898">
 - [codeb0ssx/CVE-2026-72898-PoC](https://github.com/codeb0ssx/CVE-2026-72898-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-72898-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-72898-PoC">
 - [4minx/CVE-2026-72898](https://github.com/4minx/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-72898">
+- [ubitquity/Metabase-Setup-Endpoint-SQLi-Fix](https://github.com/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix">
 
 ---
 ## CVE-2026-7275 ()
@@ -2110,6 +2111,7 @@
 - [ChPratik/CVE-2026-50522](https://github.com/ChPratik/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-50522">
 - [darses/CVE-2026-50522](https://github.com/darses/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/darses/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/darses/CVE-2026-50522">
 - [webshellseo8/CVE-2026-50522-Proof-of-Concept](https://github.com/webshellseo8/CVE-2026-50522-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-50522-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-50522-Proof-of-Concept">
+- [WismanSec/sharepoint-2026-poc](https://github.com/WismanSec/sharepoint-2026-poc)	<img alt="forks" src="https://img.shields.io/github/forks/WismanSec/sharepoint-2026-poc">	<img alt="stars" src="https://img.shields.io/github/stars/WismanSec/sharepoint-2026-poc">
 
 ---
 ## CVE-2026-50507 ()
