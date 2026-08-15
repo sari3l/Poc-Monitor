@@ -1846,6 +1846,11 @@
 - [0xdak/CVE-2026-53595_exploit](https://github.com/0xdak/CVE-2026-53595_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-53595_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-53595_exploit">
 
 ---
+## CVE-2026-53587 ()
+> 
+- [Alixploit22/CVE-2026-53587](https://github.com/Alixploit22/CVE-2026-53587)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVE-2026-53587">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVE-2026-53587">
+
+---
 ## CVE-2026-53582 ()
 > 
 - [eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)	<img alt="forks" src="https://img.shields.io/github/forks/eev4n/CVE-2026-53582">	<img alt="stars" src="https://img.shields.io/github/stars/eev4n/CVE-2026-53582">
