@@ -8727,6 +8727,7 @@
 ## CVE-2026-17544 ()
 > 
 - [Boreas37/CVE-2026-17544-PoC](https://github.com/Boreas37/CVE-2026-17544-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-17544-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-17544-PoC">
+- [r2qa/CVE-2026-17544](https://github.com/r2qa/CVE-2026-17544)	<img alt="forks" src="https://img.shields.io/github/forks/r2qa/CVE-2026-17544">	<img alt="stars" src="https://img.shields.io/github/stars/r2qa/CVE-2026-17544">
 
 ---
 ## CVE-2026-17543 ()
