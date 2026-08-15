@@ -46,6 +46,7 @@
 ## CVE-2026-9830 ()
 > 
 - [ChPratik/CVE-2026-9830](https://github.com/ChPratik/CVE-2026-9830)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-9830">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-9830">
+- [opaxial/CVE-2026-9830](https://github.com/opaxial/CVE-2026-9830)	<img alt="forks" src="https://img.shields.io/github/forks/opaxial/CVE-2026-9830">	<img alt="stars" src="https://img.shields.io/github/stars/opaxial/CVE-2026-9830">
 
 ---
 ## CVE-2026-98198 ()
