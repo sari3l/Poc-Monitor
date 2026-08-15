@@ -7912,6 +7912,7 @@ For more details, please review the linked advisory on this CVE.
 - [tuo4n8/CVE-2023-22047](https://github.com/tuo4n8/CVE-2023-22047)	<img alt="forks" src="https://img.shields.io/github/forks/tuo4n8/CVE-2023-22047">	<img alt="stars" src="https://img.shields.io/github/stars/tuo4n8/CVE-2023-22047">
 - [tuo4n8/CVE-2023-22047](https://github.com/tuo4n8/CVE-2023-22047)	<img alt="forks" src="https://img.shields.io/github/forks/tuo4n8/CVE-2023-22047">	<img alt="stars" src="https://img.shields.io/github/stars/tuo4n8/CVE-2023-22047">
 - [0xTerror/CVE-2023-22047---Oracle-PeopleSoft-LFI](https://github.com/0xTerror/CVE-2023-22047---Oracle-PeopleSoft-LFI)	<img alt="forks" src="https://img.shields.io/github/forks/0xTerror/CVE-2023-22047---Oracle-PeopleSoft-LFI">	<img alt="stars" src="https://img.shields.io/github/stars/0xTerror/CVE-2023-22047---Oracle-PeopleSoft-LFI">
+- [0xTerror/CVE-2023-22047-Oracle-PeopleSoft-LFI](https://github.com/0xTerror/CVE-2023-22047-Oracle-PeopleSoft-LFI)	<img alt="forks" src="https://img.shields.io/github/forks/0xTerror/CVE-2023-22047-Oracle-PeopleSoft-LFI">	<img alt="stars" src="https://img.shields.io/github/stars/0xTerror/CVE-2023-22047-Oracle-PeopleSoft-LFI">
 
 ---
 ## CVE-2023-21987 (2023-04-18T20:15:00)
