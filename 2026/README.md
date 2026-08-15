@@ -3356,6 +3356,7 @@
 - [hmascs/KSuRoot](https://github.com/hmascs/KSuRoot)	<img alt="forks" src="https://img.shields.io/github/forks/hmascs/KSuRoot">	<img alt="stars" src="https://img.shields.io/github/stars/hmascs/KSuRoot">
 - [fusiondrive/CVE-2026-43499-ZFOLD4](https://github.com/fusiondrive/CVE-2026-43499-ZFOLD4)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-ZFOLD4">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-ZFOLD4">
 - [fusiondrive/CVE-2026-43499-ZFOLD4](https://github.com/fusiondrive/CVE-2026-43499-ZFOLD4)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-ZFOLD4">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-ZFOLD4">
+- [knowlily/cve-2026-43499-honor](https://github.com/knowlily/cve-2026-43499-honor)	<img alt="forks" src="https://img.shields.io/github/forks/knowlily/cve-2026-43499-honor">	<img alt="stars" src="https://img.shields.io/github/stars/knowlily/cve-2026-43499-honor">
 
 ---
 ## CVE-2026-43494 ()
