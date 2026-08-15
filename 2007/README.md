@@ -96,6 +96,7 @@
 - [ToxicRootVip/CVE-2007-2447](https://github.com/ToxicRootVip/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/ToxicRootVip/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/ToxicRootVip/CVE-2007-2447">
 - [Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report](https://github.com/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report)	<img alt="forks" src="https://img.shields.io/github/forks/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report">	<img alt="stars" src="https://img.shields.io/github/stars/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report">
 - [vig9610/Exploiting-Samba-on-Metasploitable-2](https://github.com/vig9610/Exploiting-Samba-on-Metasploitable-2)	<img alt="forks" src="https://img.shields.io/github/forks/vig9610/Exploiting-Samba-on-Metasploitable-2">	<img alt="stars" src="https://img.shields.io/github/stars/vig9610/Exploiting-Samba-on-Metasploitable-2">
+- [harshiys/CVE-2007-2447-Exploitation-SIEM-Detection-Lab](https://github.com/harshiys/CVE-2007-2447-Exploitation-SIEM-Detection-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/harshiys/CVE-2007-2447-Exploitation-SIEM-Detection-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/harshiys/CVE-2007-2447-Exploitation-SIEM-Detection-Lab">
 
 ---
 ## CVE-2007-2444 (2007-05-14T21:19:00)
