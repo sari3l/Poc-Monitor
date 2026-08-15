@@ -1343,6 +1343,11 @@
 - [BridgerAlderson/CVE-2026-58424](https://github.com/BridgerAlderson/CVE-2026-58424)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2026-58424">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2026-58424">
 
 ---
+## CVE-2026-58231 ()
+> 
+- [HORKimhab/CVE-2026-58231](https://github.com/HORKimhab/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-58231">
+
+---
 ## CVE-2026-58138 ()
 > 
 - [BiiTts/CVE-2026-58138-Conductor-Unauth-RCE](https://github.com/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">
