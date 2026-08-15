@@ -8398,6 +8398,7 @@
 - [XaocZenon/CVE-2026-20896](https://github.com/XaocZenon/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/XaocZenon/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/XaocZenon/CVE-2026-20896">
 - [Lite-os15/Lab-001-Gitea-CVE-2026-20896-](https://github.com/Lite-os15/Lab-001-Gitea-CVE-2026-20896-)	<img alt="forks" src="https://img.shields.io/github/forks/Lite-os15/Lab-001-Gitea-CVE-2026-20896-">	<img alt="stars" src="https://img.shields.io/github/stars/Lite-os15/Lab-001-Gitea-CVE-2026-20896-">
 - [EQSTLab/CVE-2026-20896](https://github.com/EQSTLab/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-20896">
+- [judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass](https://github.com/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass">
 
 ---
 ## CVE-2026-20856 ()
