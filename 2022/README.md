@@ -35475,6 +35475,10 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [seal-sec-demo-2/yaml-payload](https://github.com/seal-sec-demo-2/yaml-payload)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/yaml-payload">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/yaml-payload">
 - [falconkei/snakeyaml_cve_poc](https://github.com/falconkei/snakeyaml_cve_poc)	<img alt="forks" src="https://img.shields.io/github/forks/falconkei/snakeyaml_cve_poc">	<img alt="stars" src="https://img.shields.io/github/stars/falconkei/snakeyaml_cve_poc">
 - [aykhan019/cve-2022-1471-jira-lab](https://github.com/aykhan019/cve-2022-1471-jira-lab)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan019/cve-2022-1471-jira-lab">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan019/cve-2022-1471-jira-lab">
+- [seal-sean-org/seans-surf-and-skate](https://github.com/seal-sean-org/seans-surf-and-skate)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sean-org/seans-surf-and-skate">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sean-org/seans-surf-and-skate">
+- [seal-sean-org/yaml-payload](https://github.com/seal-sean-org/yaml-payload)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sean-org/yaml-payload">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sean-org/yaml-payload">
+- [seal-sec-demo-2/Java-Example](https://github.com/seal-sec-demo-2/Java-Example)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/Java-Example">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/Java-Example">
+- [anupamojha-eng/sentinel-transitive-cve-demo](https://github.com/anupamojha-eng/sentinel-transitive-cve-demo)	<img alt="forks" src="https://img.shields.io/github/forks/anupamojha-eng/sentinel-transitive-cve-demo">	<img alt="stars" src="https://img.shields.io/github/stars/anupamojha-eng/sentinel-transitive-cve-demo">
 
 ---
 ## CVE-2022-1444 (2022-04-23T22:15:00)
