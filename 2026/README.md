@@ -9005,6 +9005,11 @@
 - [Nxploited/CVE-2026-13714](https://github.com/Nxploited/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-13714">
 
 ---
+## CVE-2026-13610 ()
+> 
+- [ghostpels/CVE-2026-13610](https://github.com/ghostpels/CVE-2026-13610)	<img alt="forks" src="https://img.shields.io/github/forks/ghostpels/CVE-2026-13610">	<img alt="stars" src="https://img.shields.io/github/stars/ghostpels/CVE-2026-13610">
+
+---
 ## CVE-2026-1357 ()
 > 
 - [itsismarcos/Exploit-CVE-2026-1357](https://github.com/itsismarcos/Exploit-CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/itsismarcos/Exploit-CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/itsismarcos/Exploit-CVE-2026-1357">
