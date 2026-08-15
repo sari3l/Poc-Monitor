@@ -3315,6 +3315,7 @@
 - [wzhdgithub/GhostLock](https://github.com/wzhdgithub/GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/wzhdgithub/GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/wzhdgithub/GhostLock">
 - [Bugel/cve-2026-43499-m3q-azf1](https://github.com/Bugel/cve-2026-43499-m3q-azf1)	<img alt="forks" src="https://img.shields.io/github/forks/Bugel/cve-2026-43499-m3q-azf1">	<img alt="stars" src="https://img.shields.io/github/stars/Bugel/cve-2026-43499-m3q-azf1">
 - [hmascs/KSuRoot](https://github.com/hmascs/KSuRoot)	<img alt="forks" src="https://img.shields.io/github/forks/hmascs/KSuRoot">	<img alt="stars" src="https://img.shields.io/github/stars/hmascs/KSuRoot">
+- [fusiondrive/CVE-2026-43499-ZFOLD4](https://github.com/fusiondrive/CVE-2026-43499-ZFOLD4)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-ZFOLD4">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-ZFOLD4">
 
 ---
 ## CVE-2026-43494 ()
