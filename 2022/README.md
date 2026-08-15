@@ -35474,6 +35474,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [jelee2555/CVE-2022-1471-attacker](https://github.com/jelee2555/CVE-2022-1471-attacker)	<img alt="forks" src="https://img.shields.io/github/forks/jelee2555/CVE-2022-1471-attacker">	<img alt="stars" src="https://img.shields.io/github/stars/jelee2555/CVE-2022-1471-attacker">
 - [seal-sec-demo-2/yaml-payload](https://github.com/seal-sec-demo-2/yaml-payload)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/yaml-payload">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/yaml-payload">
 - [falconkei/snakeyaml_cve_poc](https://github.com/falconkei/snakeyaml_cve_poc)	<img alt="forks" src="https://img.shields.io/github/forks/falconkei/snakeyaml_cve_poc">	<img alt="stars" src="https://img.shields.io/github/stars/falconkei/snakeyaml_cve_poc">
+- [aykhan019/cve-2022-1471-jira-lab](https://github.com/aykhan019/cve-2022-1471-jira-lab)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan019/cve-2022-1471-jira-lab">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan019/cve-2022-1471-jira-lab">
 
 ---
 ## CVE-2022-1444 (2022-04-23T22:15:00)
