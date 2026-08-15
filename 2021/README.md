@@ -4632,6 +4632,7 @@
 - [Wh04m1001/VSSCopy](https://github.com/Wh04m1001/VSSCopy)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/VSSCopy">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/VSSCopy">
 - [n3tsurge/CVE-2021-36934](https://github.com/n3tsurge/CVE-2021-36934)	<img alt="forks" src="https://img.shields.io/github/forks/n3tsurge/CVE-2021-36934">	<img alt="stars" src="https://img.shields.io/github/stars/n3tsurge/CVE-2021-36934">
 - [d4yon/CVE-2021-36934-HiveNightmare-Lab](https://github.com/d4yon/CVE-2021-36934-HiveNightmare-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/d4yon/CVE-2021-36934-HiveNightmare-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/d4yon/CVE-2021-36934-HiveNightmare-Lab">
+- [DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation](https://github.com/DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation">
 
 ---
 ## CVE-2021-36917 (2021-11-24T17:15:00)
