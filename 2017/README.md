@@ -370,6 +370,9 @@
 - [NhutMinh2801/CVE_2017_7494](https://github.com/NhutMinh2801/CVE_2017_7494)	<img alt="forks" src="https://img.shields.io/github/forks/NhutMinh2801/CVE_2017_7494">	<img alt="stars" src="https://img.shields.io/github/stars/NhutMinh2801/CVE_2017_7494">
 - [sudlit/CVE-2017-7494](https://github.com/sudlit/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/sudlit/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/sudlit/CVE-2017-7494">
 - [YonLiud/CVE-2017-7494](https://github.com/YonLiud/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2017-7494">
+- [Sadz1d/IS](https://github.com/Sadz1d/IS)	<img alt="forks" src="https://img.shields.io/github/forks/Sadz1d/IS">	<img alt="stars" src="https://img.shields.io/github/stars/Sadz1d/IS">
+- [Zanex360/cdt-vulnsamba-deploy](https://github.com/Zanex360/cdt-vulnsamba-deploy)	<img alt="forks" src="https://img.shields.io/github/forks/Zanex360/cdt-vulnsamba-deploy">	<img alt="stars" src="https://img.shields.io/github/stars/Zanex360/cdt-vulnsamba-deploy">
+- [Zanex360/cdt-samba-deploy](https://github.com/Zanex360/cdt-samba-deploy)	<img alt="forks" src="https://img.shields.io/github/forks/Zanex360/cdt-samba-deploy">	<img alt="stars" src="https://img.shields.io/github/stars/Zanex360/cdt-samba-deploy">
 
 ---
 ## CVE-2017-7410 (2017-04-03T22:59:00)
