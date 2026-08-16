@@ -4828,6 +4828,7 @@
 > In Moodle, an SQL injection risk was identified in the library fetching a user's recent courses.
 - [T0X1Cx/CVE-2021-36393-Exploit](https://github.com/T0X1Cx/CVE-2021-36393-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2021-36393-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2021-36393-Exploit">
 - [StackOverflowExcept1on/CVE-2021-36393](https://github.com/StackOverflowExcept1on/CVE-2021-36393)	<img alt="forks" src="https://img.shields.io/github/forks/StackOverflowExcept1on/CVE-2021-36393">	<img alt="stars" src="https://img.shields.io/github/stars/StackOverflowExcept1on/CVE-2021-36393">
+- [vuductruong12/KTLHPM](https://github.com/vuductruong12/KTLHPM)	<img alt="forks" src="https://img.shields.io/github/forks/vuductruong12/KTLHPM">	<img alt="stars" src="https://img.shields.io/github/stars/vuductruong12/KTLHPM">
 
 ---
 ## CVE-2021-36386 (2021-07-30T14:15:00)
