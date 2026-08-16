@@ -11033,6 +11033,11 @@
 - [Nxploited/CVE-2025-11749](https://github.com/Nxploited/CVE-2025-11749)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-11749">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-11749">
 
 ---
+## CVE-2025-11740 ()
+> 
+- [Alixploit22/CVE-2025-11740](https://github.com/Alixploit22/CVE-2025-11740)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVE-2025-11740">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVE-2025-11740">
+
+---
 ## CVE-2025-11705 ()
 > 
 - [h1dden30/cve-2025-11705-poc](https://github.com/h1dden30/cve-2025-11705-poc)	<img alt="forks" src="https://img.shields.io/github/forks/h1dden30/cve-2025-11705-poc">	<img alt="stars" src="https://img.shields.io/github/stars/h1dden30/cve-2025-11705-poc">
