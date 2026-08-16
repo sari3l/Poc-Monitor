@@ -636,6 +636,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [nothe1senberg/CVE-2024-7385](https://github.com/nothe1senberg/CVE-2024-7385)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-7385">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-7385">
 
 ---
+## CVE-2024-7344 ()
+> 
+- [TheMalwareGuardian/CVE-2024-7344](https://github.com/TheMalwareGuardian/CVE-2024-7344)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2024-7344">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2024-7344">
+
+---
 ## CVE-2024-7339 (2024-08-01T04:15:00)
 > A vulnerability has been found in TVT DVR TD-2104TS-CL, DVR TD-2108TS-HP, Provision-ISR DVR SH-4050A5-5L(MM) and AVISION DVR AV108T and classified as problematic. This vulnerability affects unknown code of the file /queryDevInfo. The manipulation leads to information disclosure. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-273262 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-7339">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-7339">
