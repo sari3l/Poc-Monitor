@@ -479,6 +479,7 @@
 - [4minx/CVE-2026-72898](https://github.com/4minx/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-72898">
 - [ubitquity/Metabase-Setup-Endpoint-SQLi-Fix](https://github.com/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix">
 - [VuxNx/CVE-2026-72898](https://github.com/VuxNx/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/VuxNx/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/VuxNx/CVE-2026-72898">
+- [Franc-Zar/CVE-2026-72898-safe-detection](https://github.com/Franc-Zar/CVE-2026-72898-safe-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Franc-Zar/CVE-2026-72898-safe-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Franc-Zar/CVE-2026-72898-safe-detection">
 
 ---
 ## CVE-2026-7275 ()

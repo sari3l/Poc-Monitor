@@ -8135,6 +8135,8 @@
 ## CVE-2025-3052 ()
 > 
 - [TheMalwareGuardian/CVE-2025-3052](https://github.com/TheMalwareGuardian/CVE-2025-3052)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-3052">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-3052">
+- [yonatanasd232132/TALKINGEBN](https://github.com/yonatanasd232132/TALKINGEBN)	<img alt="forks" src="https://img.shields.io/github/forks/yonatanasd232132/TALKINGEBN">	<img alt="stars" src="https://img.shields.io/github/stars/yonatanasd232132/TALKINGEBN">
+- [m4rm0k/talkingBen](https://github.com/m4rm0k/talkingBen)	<img alt="forks" src="https://img.shields.io/github/forks/m4rm0k/talkingBen">	<img alt="stars" src="https://img.shields.io/github/stars/m4rm0k/talkingBen">
 
 ---
 ## CVE-2025-30406 ()
