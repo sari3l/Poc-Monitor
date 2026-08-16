@@ -639,6 +639,8 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-7344 ()
 > 
 - [TheMalwareGuardian/CVE-2024-7344](https://github.com/TheMalwareGuardian/CVE-2024-7344)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2024-7344">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2024-7344">
+- [Serious-senpai/remote-access-trojan](https://github.com/Serious-senpai/remote-access-trojan)	<img alt="forks" src="https://img.shields.io/github/forks/Serious-senpai/remote-access-trojan">	<img alt="stars" src="https://img.shields.io/github/stars/Serious-senpai/remote-access-trojan">
+- [mkmk435/DanilaBagroot](https://github.com/mkmk435/DanilaBagroot)	<img alt="forks" src="https://img.shields.io/github/forks/mkmk435/DanilaBagroot">	<img alt="stars" src="https://img.shields.io/github/stars/mkmk435/DanilaBagroot">
 
 ---
 ## CVE-2024-7339 (2024-08-01T04:15:00)
