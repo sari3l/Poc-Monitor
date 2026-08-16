@@ -450,6 +450,7 @@
 ## CVE-2026-73678 ()
 > 
 - [Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork](https://github.com/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork">
+- [Boreas37/CVE-2026-73678-PoC](https://github.com/Boreas37/CVE-2026-73678-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-73678-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-73678-PoC">
 
 ---
 ## CVE-2026-73673 ()
