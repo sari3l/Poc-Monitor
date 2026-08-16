@@ -3207,6 +3207,7 @@
 - [blueisbeautiful/CVE-2025-57819](https://github.com/blueisbeautiful/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-57819">
 - [cybertechajju/cve-2025-57819](https://github.com/cybertechajju/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/cve-2025-57819">
 - [Sucuri-Labs/CVE-2025-57819-ioc-check](https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check)	<img alt="forks" src="https://img.shields.io/github/forks/Sucuri-Labs/CVE-2025-57819-ioc-check">	<img alt="stars" src="https://img.shields.io/github/stars/Sucuri-Labs/CVE-2025-57819-ioc-check">
+- [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
 
 ---
 ## CVE-2025-57773 ()
