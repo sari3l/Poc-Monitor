@@ -4021,6 +4021,11 @@
 - [mrillicit/CVE-2026-41044](https://github.com/mrillicit/CVE-2026-41044)	<img alt="forks" src="https://img.shields.io/github/forks/mrillicit/CVE-2026-41044">	<img alt="stars" src="https://img.shields.io/github/stars/mrillicit/CVE-2026-41044">
 
 ---
+## CVE-2026-41042 ()
+> 
+- [Lulztigre/cve-2026-41042](https://github.com/Lulztigre/cve-2026-41042)	<img alt="forks" src="https://img.shields.io/github/forks/Lulztigre/cve-2026-41042">	<img alt="stars" src="https://img.shields.io/github/stars/Lulztigre/cve-2026-41042">
+
+---
 ## CVE-2026-40987 ()
 > 
 - [daehyuh/CVE-2026-40987](https://github.com/daehyuh/CVE-2026-40987)	<img alt="forks" src="https://img.shields.io/github/forks/daehyuh/CVE-2026-40987">	<img alt="stars" src="https://img.shields.io/github/stars/daehyuh/CVE-2026-40987">
