@@ -89,6 +89,12 @@
 - [SpiralBL0CK/cve-2018-8617-aab-r-w-](https://github.com/SpiralBL0CK/cve-2018-8617-aab-r-w-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/cve-2018-8617-aab-r-w-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/cve-2018-8617-aab-r-w-">
 
 ---
+## CVE-2018-8611 ()
+> 
+- [ahm3dgg/cve-2018-8611](https://github.com/ahm3dgg/cve-2018-8611)	<img alt="forks" src="https://img.shields.io/github/forks/ahm3dgg/cve-2018-8611">	<img alt="stars" src="https://img.shields.io/github/stars/ahm3dgg/cve-2018-8611">
+- [lsw29475/CVE-2018-8611](https://github.com/lsw29475/CVE-2018-8611)	<img alt="forks" src="https://img.shields.io/github/forks/lsw29475/CVE-2018-8611">	<img alt="stars" src="https://img.shields.io/github/stars/lsw29475/CVE-2018-8611">
+
+---
 ## CVE-2018-8587 (2018-12-12T00:29:00)
 > A remote code execution vulnerability exists in Microsoft Outlook software when it fails to properly handle objects in memory, aka "Microsoft Outlook Remote Code Execution Vulnerability." This affects Office 365 ProPlus, Microsoft Office, Microsoft Outlook.
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
