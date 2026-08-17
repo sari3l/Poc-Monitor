@@ -3505,6 +3505,7 @@
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 - [nicoibarburu/CVE-2021-4034](https://github.com/nicoibarburu/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/nicoibarburu/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/nicoibarburu/CVE-2021-4034">
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
+- [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
