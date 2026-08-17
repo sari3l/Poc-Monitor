@@ -4469,6 +4469,8 @@
 - [dotnetguard/CVE-2025-55182-Exploit](https://github.com/dotnetguard/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dotnetguard/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dotnetguard/CVE-2025-55182-Exploit">
 - [aisha-jimoh/cve-2025-55182-react2shell-analysis](https://github.com/aisha-jimoh/cve-2025-55182-react2shell-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/aisha-jimoh/cve-2025-55182-react2shell-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/aisha-jimoh/cve-2025-55182-react2shell-analysis">
 - [balochkainat160-cyber/cs50-cybersecurity](https://github.com/balochkainat160-cyber/cs50-cybersecurity)	<img alt="forks" src="https://img.shields.io/github/forks/balochkainat160-cyber/cs50-cybersecurity">	<img alt="stars" src="https://img.shields.io/github/stars/balochkainat160-cyber/cs50-cybersecurity">
+- [PhanHoangKhang/React2Shell](https://github.com/PhanHoangKhang/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/PhanHoangKhang/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/PhanHoangKhang/React2Shell">
+- [kevin9480/Security_incident_report](https://github.com/kevin9480/Security_incident_report)	<img alt="forks" src="https://img.shields.io/github/forks/kevin9480/Security_incident_report">	<img alt="stars" src="https://img.shields.io/github/stars/kevin9480/Security_incident_report">
 
 ---
 ## CVE-2025-55130 ()
@@ -10035,6 +10037,7 @@
 - [sarabpal-dev/cheese-cake](https://github.com/sarabpal-dev/cheese-cake)	<img alt="forks" src="https://img.shields.io/github/forks/sarabpal-dev/cheese-cake">	<img alt="stars" src="https://img.shields.io/github/stars/sarabpal-dev/cheese-cake">
 - [zhuowei/cheese](https://github.com/zhuowei/cheese)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/cheese">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/cheese">
 - [Type010/cve-2025-21479-iqoo11pro](https://github.com/Type010/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/Type010/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/Type010/cve-2025-21479-iqoo11pro">
+- [linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479](https://github.com/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">
 
 ---
 ## CVE-2025-21420 ()
