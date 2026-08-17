@@ -9159,6 +9159,7 @@
 ## CVE-2026-13714 ()
 > 
 - [Nxploited/CVE-2026-13714](https://github.com/Nxploited/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-13714">
+- [katranSefa/CVE-2026-13714](https://github.com/katranSefa/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-13714">
 
 ---
 ## CVE-2026-13610 ()
