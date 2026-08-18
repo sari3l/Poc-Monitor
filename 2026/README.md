@@ -3122,6 +3122,11 @@
 - [0xdak/CVE-2026-44881_exploit](https://github.com/0xdak/CVE-2026-44881_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-44881_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-44881_exploit">
 
 ---
+## CVE-2026-44848 ()
+> 
+- [Boreas37/CVE-2026-44848-PoC](https://github.com/Boreas37/CVE-2026-44848-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-44848-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-44848-PoC">
+
+---
 ## CVE-2026-4484 ()
 > 
 - [Nxploited/CVE-2026-4484](https://github.com/Nxploited/CVE-2026-4484)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-4484">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-4484">
