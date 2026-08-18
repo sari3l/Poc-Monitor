@@ -9098,6 +9098,11 @@
 - [Ashwesker/Ashwesker-CVE-2026-1470](https://github.com/Ashwesker/Ashwesker-CVE-2026-1470)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-1470">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-1470">
 
 ---
+## CVE-2026-14669 ()
+> 
+- [HackSpeak/CVE-2026-14669](https://github.com/HackSpeak/CVE-2026-14669)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-14669">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-14669">
+
+---
 ## CVE-2026-14628 ()
 > 
 - [MESLIMOHAMEDM22005188/path-traversal-CVE-2026-14628](https://github.com/MESLIMOHAMEDM22005188/path-traversal-CVE-2026-14628)	<img alt="forks" src="https://img.shields.io/github/forks/MESLIMOHAMEDM22005188/path-traversal-CVE-2026-14628">	<img alt="stars" src="https://img.shields.io/github/stars/MESLIMOHAMEDM22005188/path-traversal-CVE-2026-14628">
