@@ -4527,6 +4527,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [3v1lC0d3/RCE-QloApps-CVE-2024-40318](https://github.com/3v1lC0d3/RCE-QloApps-CVE-2024-40318)	<img alt="forks" src="https://img.shields.io/github/forks/3v1lC0d3/RCE-QloApps-CVE-2024-40318">	<img alt="stars" src="https://img.shields.io/github/stars/3v1lC0d3/RCE-QloApps-CVE-2024-40318">
 
 ---
+## CVE-2024-40275 ()
+> 
+- [burjoy/CVE-2024-40275_Scanner](https://github.com/burjoy/CVE-2024-40275_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/burjoy/CVE-2024-40275_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/burjoy/CVE-2024-40275_Scanner">
+
+---
 ## CVE-2024-40119 (2024-07-17T20:15:00)
 > Nepstech Wifi Router xpon (terminal) model NTPL-Xpon1GFEVN v.1.0 Firmware V2.0.1 contains a Cross-Site Request Forgery (CSRF) vulnerability in the password change function, which allows remote attackers to change the admin password without the user's consent, leading to a potential account takeover.
 - [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/nepstech-xpon-router-CVE-2024-40119">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/nepstech-xpon-router-CVE-2024-40119">
