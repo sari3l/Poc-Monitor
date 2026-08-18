@@ -1235,6 +1235,7 @@
 - [DavidCarliez/cve-2026-62737-lab](https://github.com/DavidCarliez/cve-2026-62737-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/cve-2026-62737-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/cve-2026-62737-lab">
 - [0p5cur/CVE-2026-62737-POC](https://github.com/0p5cur/CVE-2026-62737-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0p5cur/CVE-2026-62737-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0p5cur/CVE-2026-62737-POC">
 - [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737)	<img alt="forks" src="https://img.shields.io/github/forks/loanvui/CVE-2026-62737">	<img alt="stars" src="https://img.shields.io/github/stars/loanvui/CVE-2026-62737">
+- [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737)	<img alt="forks" src="https://img.shields.io/github/forks/loanvui/CVE-2026-62737">	<img alt="stars" src="https://img.shields.io/github/stars/loanvui/CVE-2026-62737">
 
 ---
 ## CVE-2026-6227 ()
