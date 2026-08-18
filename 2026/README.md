@@ -977,6 +977,11 @@
 - [zer0dayf/CVE-2026-65008](https://github.com/zer0dayf/CVE-2026-65008)	<img alt="forks" src="https://img.shields.io/github/forks/zer0dayf/CVE-2026-65008">	<img alt="stars" src="https://img.shields.io/github/stars/zer0dayf/CVE-2026-65008">
 
 ---
+## CVE-2026-64849 ()
+> 
+- [codeb0ssx/CVE-2026-64849-PoC](https://github.com/codeb0ssx/CVE-2026-64849-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-64849-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-64849-PoC">
+
+---
 ## CVE-2026-64824 ()
 > 
 - [Boreas37/CVE-2026-64824-PoC](https://github.com/Boreas37/CVE-2026-64824-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64824-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64824-PoC">
