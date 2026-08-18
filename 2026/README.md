@@ -619,6 +619,11 @@
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 
 ---
+## CVE-2026-69099 ()
+> 
+- [test3cd3wqe/CVE-2026-69099-poc](https://github.com/test3cd3wqe/CVE-2026-69099-poc)	<img alt="forks" src="https://img.shields.io/github/forks/test3cd3wqe/CVE-2026-69099-poc">	<img alt="stars" src="https://img.shields.io/github/stars/test3cd3wqe/CVE-2026-69099-poc">
+
+---
 ## CVE-2026-69098 ()
 > 
 - [0xdak/CVE-2026-69098_exploit](https://github.com/0xdak/CVE-2026-69098_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-69098_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-69098_exploit">
