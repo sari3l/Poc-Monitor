@@ -946,6 +946,11 @@
 - [IamDremig/CVE-2026-65591](https://github.com/IamDremig/CVE-2026-65591)	<img alt="forks" src="https://img.shields.io/github/forks/IamDremig/CVE-2026-65591">	<img alt="stars" src="https://img.shields.io/github/stars/IamDremig/CVE-2026-65591">
 
 ---
+## CVE-2026-65400 ()
+> 
+- [HORKimhab/CVE-2026-65400](https://github.com/HORKimhab/CVE-2026-65400)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-65400">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-65400">
+
+---
 ## CVE-2026-65321 ()
 > 
 - [rahulreddykarne/CVE-2026-65321-pyathena](https://github.com/rahulreddykarne/CVE-2026-65321-pyathena)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-65321-pyathena">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-65321-pyathena">
