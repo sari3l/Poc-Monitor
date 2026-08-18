@@ -1547,6 +1547,11 @@ QuTScloud c5.1.5.2651 and later
 - [Cyber-Wo0dy/CVE-2023-47129](https://github.com/Cyber-Wo0dy/CVE-2023-47129)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-47129">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-47129">
 
 ---
+## CVE-2023-47128 ()
+> 
+- [curls0206/piccolo-cve-2023-47128](https://github.com/curls0206/piccolo-cve-2023-47128)	<img alt="forks" src="https://img.shields.io/github/forks/curls0206/piccolo-cve-2023-47128">	<img alt="stars" src="https://img.shields.io/github/stars/curls0206/piccolo-cve-2023-47128">
+
+---
 ## CVE-2023-47125 ()
 > 
 - [nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125](https://github.com/nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125)	<img alt="forks" src="https://img.shields.io/github/forks/nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125">	<img alt="stars" src="https://img.shields.io/github/stars/nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125">

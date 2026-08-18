@@ -30751,6 +30751,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > All versions of package gitpython are vulnerable to Remote Code Execution (RCE) due to improper user input validation, which makes it possible to inject a maliciously crafted remote URL into the clone command. Exploiting this vulnerability is possible because the library makes external calls to git without sufficient sanitization of input arguments.
 - [Live-Hack-CVE/CVE-2022-24439](https://github.com/Live-Hack-CVE/CVE-2022-24439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24439">
 - [muhammadhendro/CVE-2022-24439](https://github.com/muhammadhendro/CVE-2022-24439)	<img alt="forks" src="https://img.shields.io/github/forks/muhammadhendro/CVE-2022-24439">	<img alt="stars" src="https://img.shields.io/github/stars/muhammadhendro/CVE-2022-24439">
+- [curls0206/gitpython-cve-2022-24439](https://github.com/curls0206/gitpython-cve-2022-24439)	<img alt="forks" src="https://img.shields.io/github/forks/curls0206/gitpython-cve-2022-24439">	<img alt="stars" src="https://img.shields.io/github/stars/curls0206/gitpython-cve-2022-24439">
 
 ---
 ## CVE-2022-24434 ()
