@@ -8764,6 +8764,11 @@
 - [carlosbudiman/CVE-2026-1953-Disclosure](https://github.com/carlosbudiman/CVE-2026-1953-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbudiman/CVE-2026-1953-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbudiman/CVE-2026-1953-Disclosure">
 
 ---
+## CVE-2026-19478 ()
+> 
+- [davkharrr/CVE-2026-19478-PoC](https://github.com/davkharrr/CVE-2026-19478-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/davkharrr/CVE-2026-19478-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/davkharrr/CVE-2026-19478-PoC">
+
+---
 ## CVE-2026-1937 ()
 > 
 - [Nxploited/CVE-2026-1937](https://github.com/Nxploited/CVE-2026-1937)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1937">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1937">
