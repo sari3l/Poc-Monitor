@@ -7745,6 +7745,9 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-28116 ()
 > 
 - [bebarossi/grav-cve-2024-28116](https://github.com/bebarossi/grav-cve-2024-28116)	<img alt="forks" src="https://img.shields.io/github/forks/bebarossi/grav-cve-2024-28116">	<img alt="stars" src="https://img.shields.io/github/stars/bebarossi/grav-cve-2024-28116">
+- [geniuszly/GenGravSSTIExploit](https://github.com/geniuszly/GenGravSSTIExploit)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszly/GenGravSSTIExploit">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszly/GenGravSSTIExploit">
+- [gunzf0x/Grav-CMS-RCE-Authenticated](https://github.com/gunzf0x/Grav-CMS-RCE-Authenticated)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/Grav-CMS-RCE-Authenticated">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/Grav-CMS-RCE-Authenticated">
+- [akabe1/Graver](https://github.com/akabe1/Graver)	<img alt="forks" src="https://img.shields.io/github/forks/akabe1/Graver">	<img alt="stars" src="https://img.shields.io/github/stars/akabe1/Graver">
 
 ---
 ## CVE-2024-28088 (2024-03-04T00:15:00)
