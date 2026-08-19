@@ -8787,6 +8787,7 @@
 ## CVE-2026-19598 ()
 > 
 - [ksotaria1337/CVE-2026-19598](https://github.com/ksotaria1337/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/ksotaria1337/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/ksotaria1337/CVE-2026-19598">
+- [DeadExpl0it/CVE-2026-19598-PoC](https://github.com/DeadExpl0it/CVE-2026-19598-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-19598-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-19598-PoC">
 
 ---
 ## CVE-2026-1953 ()
