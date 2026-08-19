@@ -1580,6 +1580,11 @@
 - [ziad626/CVE-2026-56876-POC](https://github.com/ziad626/CVE-2026-56876-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ziad626/CVE-2026-56876-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ziad626/CVE-2026-56876-POC">
 
 ---
+## CVE-2026-56848 ()
+> 
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848)	<img alt="forks" src="https://img.shields.io/github/forks/open-flaw/CVE-2026-56848">	<img alt="stars" src="https://img.shields.io/github/stars/open-flaw/CVE-2026-56848">
+
+---
 ## CVE-2026-56782 ()
 > 
 - [BiiTts/CVE-2026-56782-Gorse-Auth-Bypass](https://github.com/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass">
