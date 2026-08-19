@@ -8817,6 +8817,7 @@
 > 
 - [davkharrr/CVE-2026-19478-PoC](https://github.com/davkharrr/CVE-2026-19478-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/davkharrr/CVE-2026-19478-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/davkharrr/CVE-2026-19478-PoC">
 - [HORKimhab/CVE-2026-19650-CVE-2026-19478](https://github.com/HORKimhab/CVE-2026-19650-CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19650-CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19650-CVE-2026-19478">
+- [renzi25031469/CVE-2026-19478](https://github.com/renzi25031469/CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-19478">
 
 ---
 ## CVE-2026-1937 ()
