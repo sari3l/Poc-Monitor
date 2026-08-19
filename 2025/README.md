@@ -9377,7 +9377,7 @@
 - [ibrahmsql/CVE-2025-24893](https://github.com/ibrahmsql/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-24893">
 - [Yukik4z3/CVE-2025-24893](https://github.com/Yukik4z3/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Yukik4z3/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Yukik4z3/CVE-2025-24893">
 - [rvzsec/CVE-2025-24893](https://github.com/rvzsec/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/CVE-2025-24893">
-- [achnouri/Editor-CTF-writre-up](https://github.com/achnouri/Editor-CTF-writre-up)	<img alt="forks" src="https://img.shields.io/github/forks/achnouri/Editor-CTF-writre-up">	<img alt="stars" src="https://img.shields.io/github/stars/achnouri/Editor-CTF-writre-up">
+- [anxs3c/editor_machine_writeup](https://github.com/anxs3c/editor_machine_writeup)	<img alt="forks" src="https://img.shields.io/github/forks/anxs3c/editor_machine_writeup">	<img alt="stars" src="https://img.shields.io/github/stars/anxs3c/editor_machine_writeup">
 - [Y2F05p2w/CVE-2025-24893](https://github.com/Y2F05p2w/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Y2F05p2w/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Y2F05p2w/CVE-2025-24893">
 - [80Ottanta80/CVE-2025-24893-PoC](https://github.com/80Ottanta80/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/80Ottanta80/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/80Ottanta80/CVE-2025-24893-PoC">
 - [kimtangker/CVE-2025-24893](https://github.com/kimtangker/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/kimtangker/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/kimtangker/CVE-2025-24893">
@@ -9396,6 +9396,7 @@
 - [rippsec/CVE-2025-24893-XWiki-SSTI-RCE](https://github.com/rippsec/CVE-2025-24893-XWiki-SSTI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-24893-XWiki-SSTI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-24893-XWiki-SSTI-RCE">
 - [Fomovet/cve-2025-24893](https://github.com/Fomovet/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24893">
 - [endusdksla/xwiki-cve-2025-24893](https://github.com/endusdksla/xwiki-cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/endusdksla/xwiki-cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/endusdksla/xwiki-cve-2025-24893">
+- [MattiaCervelli/CVE-2025-24893_Analysis](https://github.com/MattiaCervelli/CVE-2025-24893_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/MattiaCervelli/CVE-2025-24893_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/MattiaCervelli/CVE-2025-24893_Analysis">
 
 ---
 ## CVE-2025-24813 ()
