@@ -386,10 +386,12 @@
 ## CVE-2026-76071 ()
 > 
 - [ozcanpng/CVE-2026-76071](https://github.com/ozcanpng/CVE-2026-76071)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-76071">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-76071">
+- [ozcanpng/CVE-2026-76071](https://github.com/ozcanpng/CVE-2026-76071)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-76071">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-76071">
 
 ---
 ## CVE-2026-76070 ()
 > 
+- [ozcanpng/CVE-2026-76070](https://github.com/ozcanpng/CVE-2026-76070)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-76070">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-76070">
 - [ozcanpng/CVE-2026-76070](https://github.com/ozcanpng/CVE-2026-76070)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-76070">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-76070">
 
 ---
