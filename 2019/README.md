@@ -1827,6 +1827,7 @@ use after free.
 - [mythicaltree/CVE-2019-2215](https://github.com/mythicaltree/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/mythicaltree/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/mythicaltree/CVE-2019-2215">
 - [NESTle19/CVE-2019-2215](https://github.com/NESTle19/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/NESTle19/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/NESTle19/CVE-2019-2215">
 - [flipphoneguy/root-sonim-xp3800](https://github.com/flipphoneguy/root-sonim-xp3800)	<img alt="forks" src="https://img.shields.io/github/forks/flipphoneguy/root-sonim-xp3800">	<img alt="stars" src="https://img.shields.io/github/stars/flipphoneguy/root-sonim-xp3800">
+- [Begitdj/cve-2019-2215-markw](https://github.com/Begitdj/cve-2019-2215-markw)	<img alt="forks" src="https://img.shields.io/github/forks/Begitdj/cve-2019-2215-markw">	<img alt="stars" src="https://img.shields.io/github/stars/Begitdj/cve-2019-2215-markw">
 
 ---
 ## CVE-2019-2115 ()
