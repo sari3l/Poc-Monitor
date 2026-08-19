@@ -1922,6 +1922,11 @@
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
 
 ---
+## CVE-2026-53959 ()
+> 
+- [anirbala98/CVE-2026-53959](https://github.com/anirbala98/CVE-2026-53959)	<img alt="forks" src="https://img.shields.io/github/forks/anirbala98/CVE-2026-53959">	<img alt="stars" src="https://img.shields.io/github/stars/anirbala98/CVE-2026-53959">
+
+---
 ## CVE-2026-53921 ()
 > 
 - [0xBlackash/CVE-2026-53921](https://github.com/0xBlackash/CVE-2026-53921)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-53921">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-53921">
@@ -4192,6 +4197,11 @@
 > 
 - [HORKimhab/CVE-2026-4020](https://github.com/HORKimhab/CVE-2026-4020)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-4020">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-4020">
 - [faizdotid/CVE-2026-4020](https://github.com/faizdotid/CVE-2026-4020)	<img alt="forks" src="https://img.shields.io/github/forks/faizdotid/CVE-2026-4020">	<img alt="stars" src="https://img.shields.io/github/stars/faizdotid/CVE-2026-4020">
+
+---
+## CVE-2026-40179 ()
+> 
+- [bsdrip/CVE-2026-40179-PoC](https://github.com/bsdrip/CVE-2026-40179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/bsdrip/CVE-2026-40179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/bsdrip/CVE-2026-40179-PoC">
 
 ---
 ## CVE-2026-40176 ()
