@@ -1058,6 +1058,8 @@
 - [ethanolgolf/CVE-2026-64564](https://github.com/ethanolgolf/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/ethanolgolf/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/ethanolgolf/CVE-2026-64564">
 - [HackSpeak/CVE-2026-64564](https://github.com/HackSpeak/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64564">
 - [suominen/sctphantom](https://github.com/suominen/sctphantom)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/sctphantom">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/sctphantom">
+- [0xdeadroot/SCTPhantom-CVE-2026-64564](https://github.com/0xdeadroot/SCTPhantom-CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeadroot/SCTPhantom-CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeadroot/SCTPhantom-CVE-2026-64564">
+- [yandex-cloud-examples/yc-mk8s-sctphantom-mitigation](https://github.com/yandex-cloud-examples/yc-mk8s-sctphantom-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/yandex-cloud-examples/yc-mk8s-sctphantom-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/yandex-cloud-examples/yc-mk8s-sctphantom-mitigation">
 
 ---
 ## CVE-2026-64563 ()
@@ -2012,6 +2014,7 @@
 ## CVE-2026-53365 ()
 > 
 - [HORKimhab/CVE-2026-53365](https://github.com/HORKimhab/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53365">
+- [HackSpeak/CVE-2026-53365](https://github.com/HackSpeak/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-53365">
 
 ---
 ## CVE-2026-53360 ()
