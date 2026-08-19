@@ -7856,6 +7856,11 @@
 - [zpol/cve-2026-23398-poc](https://github.com/zpol/cve-2026-23398-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zpol/cve-2026-23398-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zpol/cve-2026-23398-poc">
 
 ---
+## CVE-2026-2329 ()
+> 
+- [VivianUba/grandstream-cve-2026-2329-analysis](https://github.com/VivianUba/grandstream-cve-2026-2329-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/VivianUba/grandstream-cve-2026-2329-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/VivianUba/grandstream-cve-2026-2329-analysis">
+
+---
 ## CVE-2026-23245 ()
 > 
 - [jopamo/CVE-2026-23245](https://github.com/jopamo/CVE-2026-23245)	<img alt="forks" src="https://img.shields.io/github/forks/jopamo/CVE-2026-23245">	<img alt="stars" src="https://img.shields.io/github/stars/jopamo/CVE-2026-23245">
