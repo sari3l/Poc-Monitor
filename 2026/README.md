@@ -541,6 +541,11 @@
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
 
 ---
+## CVE-2026-71960 ()
+> 
+- [Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt](https://github.com/Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt">
+
+---
 ## CVE-2026-71557 ()
 > 
 - [Saku0512/CVE-2026-71557-poc](https://github.com/Saku0512/CVE-2026-71557-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-71557-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-71557-poc">
