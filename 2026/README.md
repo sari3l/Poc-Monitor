@@ -330,6 +330,7 @@
 - [Squamity/CVE-2026-8181-PoC](https://github.com/Squamity/CVE-2026-8181-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Squamity/CVE-2026-8181-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Squamity/CVE-2026-8181-PoC">
 - [Ez4rd1x1/CVE-2026-8181](https://github.com/Ez4rd1x1/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/Ez4rd1x1/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/Ez4rd1x1/CVE-2026-8181">
 - [HudzaifahArrantisi/CVE-2026-8181](https://github.com/HudzaifahArrantisi/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/HudzaifahArrantisi/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/HudzaifahArrantisi/CVE-2026-8181">
+- [0xTerror/CVE-2026-8181](https://github.com/0xTerror/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/0xTerror/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/0xTerror/CVE-2026-8181">
 
 ---
 ## CVE-2026-8161 ()
