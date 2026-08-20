@@ -8914,6 +8914,11 @@
 - [patrickt2017/CVE-2026-19193-PoC](https://github.com/patrickt2017/CVE-2026-19193-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/patrickt2017/CVE-2026-19193-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/patrickt2017/CVE-2026-19193-PoC">
 
 ---
+## CVE-2026-18963 ()
+> 
+- [kyos-public/keycloak-cve-2026-18963-hunt](https://github.com/kyos-public/keycloak-cve-2026-18963-hunt)	<img alt="forks" src="https://img.shields.io/github/forks/kyos-public/keycloak-cve-2026-18963-hunt">	<img alt="stars" src="https://img.shields.io/github/stars/kyos-public/keycloak-cve-2026-18963-hunt">
+
+---
 ## CVE-2026-18953 ()
 > 
 - [ronamosa/CVE-2026-18953](https://github.com/ronamosa/CVE-2026-18953)	<img alt="forks" src="https://img.shields.io/github/forks/ronamosa/CVE-2026-18953">	<img alt="stars" src="https://img.shields.io/github/stars/ronamosa/CVE-2026-18953">
