@@ -8978,6 +8978,7 @@
 ## CVE-2026-18366 ()
 > 
 - [Nxploited/CVE-2026-18366](https://github.com/Nxploited/CVE-2026-18366)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-18366">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-18366">
+- [ghostpels/CVE-2026-18366](https://github.com/ghostpels/CVE-2026-18366)	<img alt="forks" src="https://img.shields.io/github/forks/ghostpels/CVE-2026-18366">	<img alt="stars" src="https://img.shields.io/github/stars/ghostpels/CVE-2026-18366">
 
 ---
 ## CVE-2026-18315 ()
