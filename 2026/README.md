@@ -8980,6 +8980,11 @@
 - [Nxploited/CVE-2026-18366](https://github.com/Nxploited/CVE-2026-18366)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-18366">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-18366">
 
 ---
+## CVE-2026-18315 ()
+> 
+- [nastar-id/CVE-2026-18315-PoC](https://github.com/nastar-id/CVE-2026-18315-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nastar-id/CVE-2026-18315-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nastar-id/CVE-2026-18315-PoC">
+
+---
 ## CVE-2026-1814 ()
 > 
 - [pbrass/CVE-2026-1814](https://github.com/pbrass/CVE-2026-1814)	<img alt="forks" src="https://img.shields.io/github/forks/pbrass/CVE-2026-1814">	<img alt="stars" src="https://img.shields.io/github/stars/pbrass/CVE-2026-1814">
