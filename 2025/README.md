@@ -827,6 +827,7 @@
 ## CVE-2025-68999 ()
 > 
 - [FOLKS-iwd/CVE-2025-68999-POC](https://github.com/FOLKS-iwd/CVE-2025-68999-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-68999-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-68999-POC">
+- [FOLKS-iwd/CVE-2025-68999-POC](https://github.com/FOLKS-iwd/CVE-2025-68999-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-68999-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-68999-POC">
 
 ---
 ## CVE-2025-68971 ()
