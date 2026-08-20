@@ -5523,6 +5523,11 @@
 - [webshellseo8/CVE-2026-32488-POC](https://github.com/webshellseo8/CVE-2026-32488-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-32488-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-32488-POC">
 
 ---
+## CVE-2026-32475 ()
+> 
+- [HORKimhab/CVE-2026-32475](https://github.com/HORKimhab/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-32475">
+
+---
 ## CVE-2026-32321 ()
 > 
 - [drkim-dev/CVE-2026-32321](https://github.com/drkim-dev/CVE-2026-32321)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-32321">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-32321">
