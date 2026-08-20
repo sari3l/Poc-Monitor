@@ -2604,6 +2604,7 @@ length to be included in the checksum calculation is fully consumed.
 - [uixss/PoC-CVE-2024-4947](https://github.com/uixss/PoC-CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/uixss/PoC-CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/uixss/PoC-CVE-2024-4947">
 - [bjrjk/CVE-2024-4947](https://github.com/bjrjk/CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2024-4947">
 - [DiabloX90911/CVE-2024-4947](https://github.com/DiabloX90911/CVE-2024-4947)	<img alt="forks" src="https://img.shields.io/github/forks/DiabloX90911/CVE-2024-4947">	<img alt="stars" src="https://img.shields.io/github/stars/DiabloX90911/CVE-2024-4947">
+- [l1m3syc/CVE-2024-4947-PoC](https://github.com/l1m3syc/CVE-2024-4947-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/l1m3syc/CVE-2024-4947-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/l1m3syc/CVE-2024-4947-PoC">
 
 ---
 ## CVE-2024-49379 (2024-11-13T18:15:00)
