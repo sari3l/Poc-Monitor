@@ -6552,6 +6552,7 @@
 - [Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow](https://github.com/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">
 - [SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm](https://github.com/SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm">
 - [shinthink/CVE-2026-27966](https://github.com/shinthink/CVE-2026-27966)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-27966">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-27966">
+- [SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box](https://github.com/SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box">
 
 ---
 ## CVE-2026-27959 ()
@@ -8928,6 +8929,7 @@
 ## CVE-2026-18963 ()
 > 
 - [kyos-public/keycloak-cve-2026-18963-hunt](https://github.com/kyos-public/keycloak-cve-2026-18963-hunt)	<img alt="forks" src="https://img.shields.io/github/forks/kyos-public/keycloak-cve-2026-18963-hunt">	<img alt="stars" src="https://img.shields.io/github/stars/kyos-public/keycloak-cve-2026-18963-hunt">
+- [Snizi/CVE-2026-18963-Exploit](https://github.com/Snizi/CVE-2026-18963-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Snizi/CVE-2026-18963-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Snizi/CVE-2026-18963-Exploit">
 
 ---
 ## CVE-2026-18953 ()
