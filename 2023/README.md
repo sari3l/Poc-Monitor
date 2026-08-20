@@ -8801,6 +8801,11 @@ If the server is run as root (which is the default when installing the  snap pac
 - [cve-2024/CVE-2023-1326-PoC](https://github.com/cve-2024/CVE-2023-1326-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2023-1326-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2023-1326-PoC">
 
 ---
+## CVE-2023-1281 ()
+> 
+- [lanleft/CVE-2023-1281](https://github.com/lanleft/CVE-2023-1281)	<img alt="forks" src="https://img.shields.io/github/forks/lanleft/CVE-2023-1281">	<img alt="stars" src="https://img.shields.io/github/stars/lanleft/CVE-2023-1281">
+
+---
 ## CVE-2023-1273 (2023-07-04T08:15:00)
 > The ND Shortcodes WordPress plugin before 7.0 does not validate some shortcode attributes before using them to generate paths passed to include function/s, allowing any authenticated users such as subscriber to perform LFI attacks
 - [codeb0ss/CVE-2023-1273-PoC](https://github.com/codeb0ss/CVE-2023-1273-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1273-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1273-PoC">
