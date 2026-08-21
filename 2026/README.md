@@ -364,6 +364,11 @@
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
 
 ---
+## CVE-2026-77113 ()
+> 
+- [0xROI/CVE-2026-77113](https://github.com/0xROI/CVE-2026-77113)	<img alt="forks" src="https://img.shields.io/github/forks/0xROI/CVE-2026-77113">	<img alt="stars" src="https://img.shields.io/github/stars/0xROI/CVE-2026-77113">
+
+---
 ## CVE-2026-7671 ()
 > 
 - [CaginKyr/CVE-2026-7671](https://github.com/CaginKyr/CVE-2026-7671)	<img alt="forks" src="https://img.shields.io/github/forks/CaginKyr/CVE-2026-7671">	<img alt="stars" src="https://img.shields.io/github/stars/CaginKyr/CVE-2026-7671">
