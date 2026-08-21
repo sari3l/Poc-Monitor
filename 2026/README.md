@@ -4033,6 +4033,11 @@
 - [krraze/CVE-2026-41575](https://github.com/krraze/CVE-2026-41575)	<img alt="forks" src="https://img.shields.io/github/forks/krraze/CVE-2026-41575">	<img alt="stars" src="https://img.shields.io/github/stars/krraze/CVE-2026-41575">
 
 ---
+## CVE-2026-41567 ()
+> 
+- [berdav/CVE-2026-41567](https://github.com/berdav/CVE-2026-41567)	<img alt="forks" src="https://img.shields.io/github/forks/berdav/CVE-2026-41567">	<img alt="stars" src="https://img.shields.io/github/stars/berdav/CVE-2026-41567">
+
+---
 ## CVE-2026-41490 ()
 > 
 - [romain-deperne/CVE-2026-41490](https://github.com/romain-deperne/CVE-2026-41490)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-41490">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-41490">
