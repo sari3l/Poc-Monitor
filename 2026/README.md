@@ -637,6 +637,11 @@
 - [nicholas-howland/CVE-2026-6992-PoC](https://github.com/nicholas-howland/CVE-2026-6992-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nicholas-howland/CVE-2026-6992-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nicholas-howland/CVE-2026-6992-PoC">
 
 ---
+## CVE-2026-69836 ()
+> 
+- [HORKimhab/CVE-2026-69836](https://github.com/HORKimhab/CVE-2026-69836)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-69836">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-69836">
+
+---
 ## CVE-2026-6960 ()
 > 
 - [xxconi/CVE-2026-6960](https://github.com/xxconi/CVE-2026-6960)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6960">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6960">
