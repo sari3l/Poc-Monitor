@@ -662,6 +662,11 @@
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 
 ---
+## CVE-2026-69191 ()
+> 
+- [fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass](https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass">
+
+---
 ## CVE-2026-69099 ()
 > 
 - [test3cd3wqe/CVE-2026-69099-poc](https://github.com/test3cd3wqe/CVE-2026-69099-poc)	<img alt="forks" src="https://img.shields.io/github/forks/test3cd3wqe/CVE-2026-69099-poc">	<img alt="stars" src="https://img.shields.io/github/stars/test3cd3wqe/CVE-2026-69099-poc">
