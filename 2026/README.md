@@ -655,6 +655,7 @@
 ## CVE-2026-69836 ()
 > 
 - [HORKimhab/CVE-2026-69836](https://github.com/HORKimhab/CVE-2026-69836)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-69836">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-69836">
+- [sentinel-aidefense/CVE-2026-69836-EXP](https://github.com/sentinel-aidefense/CVE-2026-69836-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-69836-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-69836-EXP">
 
 ---
 ## CVE-2026-6960 ()
