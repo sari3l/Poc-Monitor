@@ -401,6 +401,11 @@
 - [ozcanpng/CVE-2026-76070](https://github.com/ozcanpng/CVE-2026-76070)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2026-76070">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2026-76070">
 
 ---
+## CVE-2026-76036 ()
+> 
+- [Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android](https://github.com/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android">
+
+---
 ## CVE-2026-7574 ()
 > 
 - [0xBlackash/CVE-2026-7574](https://github.com/0xBlackash/CVE-2026-7574)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-7574">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-7574">
