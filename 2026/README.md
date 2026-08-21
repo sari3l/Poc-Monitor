@@ -4469,6 +4469,11 @@
 - [r00tali/CVE-2026-39200](https://github.com/r00tali/CVE-2026-39200)	<img alt="forks" src="https://img.shields.io/github/forks/r00tali/CVE-2026-39200">	<img alt="stars" src="https://img.shields.io/github/stars/r00tali/CVE-2026-39200">
 
 ---
+## CVE-2026-39113 ()
+> 
+- [20000419/CVE-2026-39113](https://github.com/20000419/CVE-2026-39113)	<img alt="forks" src="https://img.shields.io/github/forks/20000419/CVE-2026-39113">	<img alt="stars" src="https://img.shields.io/github/stars/20000419/CVE-2026-39113">
+
+---
 ## CVE-2026-39107 ()
 > 
 - [MGTx2/CVE-2026-39107](https://github.com/MGTx2/CVE-2026-39107)	<img alt="forks" src="https://img.shields.io/github/forks/MGTx2/CVE-2026-39107">	<img alt="stars" src="https://img.shields.io/github/stars/MGTx2/CVE-2026-39107">
