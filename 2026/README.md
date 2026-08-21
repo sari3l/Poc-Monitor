@@ -1077,6 +1077,7 @@
 - [kaleth4/CVE-2026-64638](https://github.com/kaleth4/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-64638">
 - [SanaullahAmanullah/xss2shell-check](https://github.com/SanaullahAmanullah/xss2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/SanaullahAmanullah/xss2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/SanaullahAmanullah/xss2shell-check">
 - [Alixploit22/CVEX2SHEL](https://github.com/Alixploit22/CVEX2SHEL)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVEX2SHEL">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVEX2SHEL">
+- [G33l0/Cve-2026-64638](https://github.com/G33l0/Cve-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/G33l0/Cve-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/G33l0/Cve-2026-64638">
 
 ---
 ## CVE-2026-64633 ()
@@ -3567,6 +3568,7 @@
 - [oopnv70-lab/ghostlock-honor-aak-probe](https://github.com/oopnv70-lab/ghostlock-honor-aak-probe)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-honor-aak-probe">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-honor-aak-probe">
 - [Cxyofficial/k50g-pocof4gt-cve-2026-43499-test](https://github.com/Cxyofficial/k50g-pocof4gt-cve-2026-43499-test)	<img alt="forks" src="https://img.shields.io/github/forks/Cxyofficial/k50g-pocof4gt-cve-2026-43499-test">	<img alt="stars" src="https://img.shields.io/github/stars/Cxyofficial/k50g-pocof4gt-cve-2026-43499-test">
 - [SetsuNeko/GhostLock_MT6983V_5.10](https://github.com/SetsuNeko/GhostLock_MT6983V_5.10)	<img alt="forks" src="https://img.shields.io/github/forks/SetsuNeko/GhostLock_MT6983V_5.10">	<img alt="stars" src="https://img.shields.io/github/stars/SetsuNeko/GhostLock_MT6983V_5.10">
+- [villager1314/CVE-2026-43499-IQOO-Neo10-Analysis](https://github.com/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis">
 
 ---
 ## CVE-2026-43494 ()
@@ -8917,6 +8919,7 @@
 > 
 - [ksotaria1337/CVE-2026-19598](https://github.com/ksotaria1337/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/ksotaria1337/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/ksotaria1337/CVE-2026-19598">
 - [DeadExpl0it/CVE-2026-19598-PoC](https://github.com/DeadExpl0it/CVE-2026-19598-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-19598-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-19598-PoC">
+- [sag-asab/CVE-2026-19598](https://github.com/sag-asab/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/sag-asab/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/sag-asab/CVE-2026-19598">
 
 ---
 ## CVE-2026-1953 ()
