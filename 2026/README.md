@@ -491,6 +491,11 @@
 - [CuteeCat/CVE-2026-73633](https://github.com/CuteeCat/CVE-2026-73633)	<img alt="forks" src="https://img.shields.io/github/forks/CuteeCat/CVE-2026-73633">	<img alt="stars" src="https://img.shields.io/github/stars/CuteeCat/CVE-2026-73633">
 
 ---
+## CVE-2026-73570 ()
+> 
+- [HORKimhab/CVE-2026-73570](https://github.com/HORKimhab/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-73570">
+
+---
 ## CVE-2026-73519 ()
 > 
 - [squeeze440/CVE-2026-73519-WolfStack-PoC](https://github.com/squeeze440/CVE-2026-73519-WolfStack-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/squeeze440/CVE-2026-73519-WolfStack-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/squeeze440/CVE-2026-73519-WolfStack-PoC">
