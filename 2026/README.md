@@ -5051,6 +5051,7 @@
 ## CVE-2026-34910 ()
 > 
 - [Boreas37/CVE-2026-34910-PoC](https://github.com/Boreas37/CVE-2026-34910-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-34910-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-34910-PoC">
+- [gagaltotal/CVE-2026-34910-unifi-poc](https://github.com/gagaltotal/CVE-2026-34910-unifi-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-34910-unifi-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-34910-unifi-poc">
 
 ---
 ## CVE-2026-34838 ()
@@ -5615,6 +5616,7 @@
 > 
 - [HORKimhab/CVE-2026-32475](https://github.com/HORKimhab/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-32475">
 - [0xBlackash/CVE-2026-32475](https://github.com/0xBlackash/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-32475">
+- [absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE](https://github.com/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">
 
 ---
 ## CVE-2026-32321 ()
