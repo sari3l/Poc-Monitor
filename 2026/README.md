@@ -2187,6 +2187,21 @@
 - [mirackayikci/CVE-2026-52658](https://github.com/mirackayikci/CVE-2026-52658)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-52658">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-52658">
 
 ---
+## CVE-2026-52618 ()
+> 
+- [s1ko/CVE-2026-52618](https://github.com/s1ko/CVE-2026-52618)	<img alt="forks" src="https://img.shields.io/github/forks/s1ko/CVE-2026-52618">	<img alt="stars" src="https://img.shields.io/github/stars/s1ko/CVE-2026-52618">
+
+---
+## CVE-2026-52617 ()
+> 
+- [s1ko/CVE-2026-52617](https://github.com/s1ko/CVE-2026-52617)	<img alt="forks" src="https://img.shields.io/github/forks/s1ko/CVE-2026-52617">	<img alt="stars" src="https://img.shields.io/github/stars/s1ko/CVE-2026-52617">
+
+---
+## CVE-2026-52616 ()
+> 
+- [s1ko/CVE-2026-52616](https://github.com/s1ko/CVE-2026-52616)	<img alt="forks" src="https://img.shields.io/github/forks/s1ko/CVE-2026-52616">	<img alt="stars" src="https://img.shields.io/github/stars/s1ko/CVE-2026-52616">
+
+---
 ## CVE-2026-52614 ()
 > 
 - [Chinesespeople/CVE-2026-52614](https://github.com/Chinesespeople/CVE-2026-52614)	<img alt="forks" src="https://img.shields.io/github/forks/Chinesespeople/CVE-2026-52614">	<img alt="stars" src="https://img.shields.io/github/stars/Chinesespeople/CVE-2026-52614">
