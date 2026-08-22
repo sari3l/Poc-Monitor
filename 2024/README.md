@@ -2651,6 +2651,7 @@ length to be included in the checksum calculation is fully consumed.
 - [codetronik/CVE-2024-49138](https://github.com/codetronik/CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/codetronik/CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/codetronik/CVE-2024-49138">
 - [vettrivel007/CVE-2024-49138](https://github.com/vettrivel007/CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/vettrivel007/CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/vettrivel007/CVE-2024-49138">
 - [Zedocun/soc-investigation-powershell-edrfreeze](https://github.com/Zedocun/soc-investigation-powershell-edrfreeze)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/soc-investigation-powershell-edrfreeze">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/soc-investigation-powershell-edrfreeze">
+- [basitsajidapply-stack/SOC-Investigation-CVE-2024-49138](https://github.com/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">
 
 ---
 ## CVE-2024-49113 ()
@@ -7777,6 +7778,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [SSSSuperX/CVE-2024-28000](https://github.com/SSSSuperX/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/SSSSuperX/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/SSSSuperX/CVE-2024-28000">
 - [JohnDoeAnonITA/CVE-2024-28000](https://github.com/JohnDoeAnonITA/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/JohnDoeAnonITA/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/JohnDoeAnonITA/CVE-2024-28000">
 - [AliHzSec/CVE-2024-28000](https://github.com/AliHzSec/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2024-28000">
+- [shawnng078-ops/CVE-2024-28000-Exploit-Lab](https://github.com/shawnng078-ops/CVE-2024-28000-Exploit-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/shawnng078-ops/CVE-2024-28000-Exploit-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/shawnng078-ops/CVE-2024-28000-Exploit-Lab">
 
 ---
 ## CVE-2024-27983 (2024-04-09T01:15:00)
