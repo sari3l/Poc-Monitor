@@ -2839,6 +2839,11 @@
 - [s-vx/CVE-2026-47668](https://github.com/s-vx/CVE-2026-47668)	<img alt="forks" src="https://img.shields.io/github/forks/s-vx/CVE-2026-47668">	<img alt="stars" src="https://img.shields.io/github/stars/s-vx/CVE-2026-47668">
 
 ---
+## CVE-2026-47630 ()
+> 
+- [s1ko/CVE-2026-47630](https://github.com/s1ko/CVE-2026-47630)	<img alt="forks" src="https://img.shields.io/github/forks/s1ko/CVE-2026-47630">	<img alt="stars" src="https://img.shields.io/github/stars/s1ko/CVE-2026-47630">
+
+---
 ## CVE-2026-47423 ()
 > 
 - [Galaxy-sc/CVE-2026-47423-dompurify-xss-detector](https://github.com/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">
