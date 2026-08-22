@@ -4024,6 +4024,7 @@
 - [yanchenyu360/CVE-2026-41940-Security-Patch](https://github.com/yanchenyu360/CVE-2026-41940-Security-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/yanchenyu360/CVE-2026-41940-Security-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/yanchenyu360/CVE-2026-41940-Security-Patch">
 - [pemarine/cve-2026-41940-PoC](https://github.com/pemarine/cve-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pemarine/cve-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pemarine/cve-2026-41940-PoC">
 - [lanicer/cve-2026-41940-PoC](https://github.com/lanicer/cve-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lanicer/cve-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lanicer/cve-2026-41940-PoC">
+- [t4xo/CVE-2026-41940](https://github.com/t4xo/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/t4xo/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/t4xo/CVE-2026-41940">
 
 ---
 ## CVE-2026-41901 ()
