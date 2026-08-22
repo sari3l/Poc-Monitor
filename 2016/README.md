@@ -556,6 +556,7 @@
 - [hermesash1ray/cow](https://github.com/hermesash1ray/cow)	<img alt="forks" src="https://img.shields.io/github/forks/hermesash1ray/cow">	<img alt="stars" src="https://img.shields.io/github/stars/hermesash1ray/cow">
 - [voidgguy/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195](https://github.com/voidgguy/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/voidgguy/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/voidgguy/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195">
 - [rauljvc8/Exploit-Dirty-Cow](https://github.com/rauljvc8/Exploit-Dirty-Cow)	<img alt="forks" src="https://img.shields.io/github/forks/rauljvc8/Exploit-Dirty-Cow">	<img alt="stars" src="https://img.shields.io/github/stars/rauljvc8/Exploit-Dirty-Cow">
+- [Minime794/CVE-2016-5195](https://github.com/Minime794/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/Minime794/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/Minime794/CVE-2016-5195">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
