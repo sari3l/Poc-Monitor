@@ -370,6 +370,11 @@
 - [0xROI/CVE-2026-77113](https://github.com/0xROI/CVE-2026-77113)	<img alt="forks" src="https://img.shields.io/github/forks/0xROI/CVE-2026-77113">	<img alt="stars" src="https://img.shields.io/github/stars/0xROI/CVE-2026-77113">
 
 ---
+## CVE-2026-76904 ()
+> 
+- [YonLiud/CVE-2026-76904](https://github.com/YonLiud/CVE-2026-76904)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2026-76904">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2026-76904">
+
+---
 ## CVE-2026-7671 ()
 > 
 - [CaginKyr/CVE-2026-7671](https://github.com/CaginKyr/CVE-2026-7671)	<img alt="forks" src="https://img.shields.io/github/forks/CaginKyr/CVE-2026-7671">	<img alt="stars" src="https://img.shields.io/github/stars/CaginKyr/CVE-2026-7671">
@@ -1561,6 +1566,7 @@
 ## CVE-2026-58231 ()
 > 
 - [HORKimhab/CVE-2026-58231](https://github.com/HORKimhab/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-58231">
+- [WildanDeveloper/CVE-2026-58231](https://github.com/WildanDeveloper/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/WildanDeveloper/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/WildanDeveloper/CVE-2026-58231">
 
 ---
 ## CVE-2026-58138 ()
