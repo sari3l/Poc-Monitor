@@ -128,6 +128,7 @@
 - [rmhowe425/PoC-CVE-2026-9198](https://github.com/rmhowe425/PoC-CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/PoC-CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/PoC-CVE-2026-9198">
 - [Procjevt/CVE-2026-9198](https://github.com/Procjevt/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/Procjevt/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/Procjevt/CVE-2026-9198">
 - [CuteeCat/CVE-2026-9198](https://github.com/CuteeCat/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/CuteeCat/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/CuteeCat/CVE-2026-9198">
+- [K3ysTr0K3R/CVE-2026-9198](https://github.com/K3ysTr0K3R/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-9198">
 
 ---
 ## CVE-2026-9147 ()
