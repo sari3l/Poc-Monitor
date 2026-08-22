@@ -460,6 +460,11 @@
 - [zycoder0day/CVE-2026-7458](https://github.com/zycoder0day/CVE-2026-7458)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-7458">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-7458">
 
 ---
+## CVE-2026-74252 ()
+> 
+- [toanln-cov/CVE-2026-74252](https://github.com/toanln-cov/CVE-2026-74252)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-74252">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-74252">
+
+---
 ## CVE-2026-74251 ()
 > 
 - [toanln-cov/CVE-2026-74251](https://github.com/toanln-cov/CVE-2026-74251)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-74251">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-74251">
