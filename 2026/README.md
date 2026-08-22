@@ -3608,6 +3608,7 @@
 - [Cxyofficial/k50g-pocof4gt-cve-2026-43499-test](https://github.com/Cxyofficial/k50g-pocof4gt-cve-2026-43499-test)	<img alt="forks" src="https://img.shields.io/github/forks/Cxyofficial/k50g-pocof4gt-cve-2026-43499-test">	<img alt="stars" src="https://img.shields.io/github/stars/Cxyofficial/k50g-pocof4gt-cve-2026-43499-test">
 - [SetsuNeko/GhostLock_MT6983V_5.10](https://github.com/SetsuNeko/GhostLock_MT6983V_5.10)	<img alt="forks" src="https://img.shields.io/github/forks/SetsuNeko/GhostLock_MT6983V_5.10">	<img alt="stars" src="https://img.shields.io/github/stars/SetsuNeko/GhostLock_MT6983V_5.10">
 - [villager1314/CVE-2026-43499-IQOO-Neo10-Analysis](https://github.com/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis">
+- [snothin/ghostlock-s26](https://github.com/snothin/ghostlock-s26)	<img alt="forks" src="https://img.shields.io/github/forks/snothin/ghostlock-s26">	<img alt="stars" src="https://img.shields.io/github/stars/snothin/ghostlock-s26">
 
 ---
 ## CVE-2026-43494 ()

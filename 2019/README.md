@@ -249,6 +249,9 @@
 - [Jeanback1/CVE-2019-9053-exploit](https://github.com/Jeanback1/CVE-2019-9053-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2019-9053-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2019-9053-exploit">
 - [ImperialX1104/Simple-CTF-Writeup](https://github.com/ImperialX1104/Simple-CTF-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/ImperialX1104/Simple-CTF-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/ImperialX1104/Simple-CTF-Writeup">
 - [Vedantrana73/cve-2019-9053-py3](https://github.com/Vedantrana73/cve-2019-9053-py3)	<img alt="forks" src="https://img.shields.io/github/forks/Vedantrana73/cve-2019-9053-py3">	<img alt="stars" src="https://img.shields.io/github/stars/Vedantrana73/cve-2019-9053-py3">
+- [quliyevresul7777/CVE-2019-9053](https://github.com/quliyevresul7777/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/quliyevresul7777/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/quliyevresul7777/CVE-2019-9053">
+- [rgkue/mysqli](https://github.com/rgkue/mysqli)	<img alt="forks" src="https://img.shields.io/github/forks/rgkue/mysqli">	<img alt="stars" src="https://img.shields.io/github/stars/rgkue/mysqli">
+- [rideckszz/poc-CVE-2019-9053](https://github.com/rideckszz/poc-CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/rideckszz/poc-CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/rideckszz/poc-CVE-2019-9053">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
