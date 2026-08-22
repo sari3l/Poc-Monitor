@@ -1310,6 +1310,11 @@
 - [mhassani97/cve-2026-63030-lab](https://github.com/mhassani97/cve-2026-63030-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mhassani97/cve-2026-63030-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mhassani97/cve-2026-63030-lab">
 
 ---
+## CVE-2026-62911 ()
+> 
+- [hypnguyen1209/CVE-2026-62911](https://github.com/hypnguyen1209/CVE-2026-62911)	<img alt="forks" src="https://img.shields.io/github/forks/hypnguyen1209/CVE-2026-62911">	<img alt="stars" src="https://img.shields.io/github/stars/hypnguyen1209/CVE-2026-62911">
+
+---
 ## CVE-2026-6279 ()
 > 
 - [xxconi/CVE-2026-6279](https://github.com/xxconi/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6279">
@@ -2791,6 +2796,11 @@
 - [SvenLie/next-rep-CVE-2026-4800](https://github.com/SvenLie/next-rep-CVE-2026-4800)	<img alt="forks" src="https://img.shields.io/github/forks/SvenLie/next-rep-CVE-2026-4800">	<img alt="stars" src="https://img.shields.io/github/stars/SvenLie/next-rep-CVE-2026-4800">
 
 ---
+## CVE-2026-47883 ()
+> 
+- [daehyuh/CVE-2026-47883](https://github.com/daehyuh/CVE-2026-47883)	<img alt="forks" src="https://img.shields.io/github/forks/daehyuh/CVE-2026-47883">	<img alt="stars" src="https://img.shields.io/github/stars/daehyuh/CVE-2026-47883">
+
+---
 ## CVE-2026-47858 ()
 > 
 - [realstatus/CVE-2026-47858](https://github.com/realstatus/CVE-2026-47858)	<img alt="forks" src="https://img.shields.io/github/forks/realstatus/CVE-2026-47858">	<img alt="stars" src="https://img.shields.io/github/stars/realstatus/CVE-2026-47858">
@@ -3945,7 +3955,7 @@
 - [unteikyou/CVE-2026-41940-AuthBypass-Detector](https://github.com/unteikyou/CVE-2026-41940-AuthBypass-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/unteikyou/CVE-2026-41940-AuthBypass-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/unteikyou/CVE-2026-41940-AuthBypass-Detector">
 - [NULL200OK/cve-2026-41940-tool](https://github.com/NULL200OK/cve-2026-41940-tool)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/cve-2026-41940-tool">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/cve-2026-41940-tool">
 - [ynsmroztas/cPanelSniper](https://github.com/ynsmroztas/cPanelSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/cPanelSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/cPanelSniper">
-- [Kill1234545/CVE-2026-41940](https://github.com/Kill1234545/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Kill1234545/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Kill1234545/CVE-2026-41940">
+- [0xYuR1/CVE-2026-41940](https://github.com/0xYuR1/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/0xYuR1/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/0xYuR1/CVE-2026-41940">
 - [sebinxavi/cve-checker-2026](https://github.com/sebinxavi/cve-checker-2026)	<img alt="forks" src="https://img.shields.io/github/forks/sebinxavi/cve-checker-2026">	<img alt="stars" src="https://img.shields.io/github/stars/sebinxavi/cve-checker-2026">
 - [0dev1337/cpanelscanner](https://github.com/0dev1337/cpanelscanner)	<img alt="forks" src="https://img.shields.io/github/forks/0dev1337/cpanelscanner">	<img alt="stars" src="https://img.shields.io/github/stars/0dev1337/cpanelscanner">
 - [XsanFlip/poc-cpanel-cve-2026-41940](https://github.com/XsanFlip/poc-cpanel-cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/poc-cpanel-cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/poc-cpanel-cve-2026-41940">
