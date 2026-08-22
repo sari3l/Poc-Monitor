@@ -9446,6 +9446,11 @@
 - [d3kc4rt1/CVE-2026-1375](https://github.com/d3kc4rt1/CVE-2026-1375)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2026-1375">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2026-1375">
 
 ---
+## CVE-2026-13736 ()
+> 
+- [MinhHK68/CVE-2026-13736](https://github.com/MinhHK68/CVE-2026-13736)	<img alt="forks" src="https://img.shields.io/github/forks/MinhHK68/CVE-2026-13736">	<img alt="stars" src="https://img.shields.io/github/stars/MinhHK68/CVE-2026-13736">
+
+---
 ## CVE-2026-13714 ()
 > 
 - [Nxploited/CVE-2026-13714](https://github.com/Nxploited/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-13714">
