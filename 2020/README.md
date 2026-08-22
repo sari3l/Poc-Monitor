@@ -4780,6 +4780,7 @@
 ---
 ## CVE-2020-13671 ()
 > 
+- [Dungsocool/CVE-2020-13671-old](https://github.com/Dungsocool/CVE-2020-13671-old)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671-old">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671-old">
 - [Dungsocool/CVE-2020-13671](https://github.com/Dungsocool/CVE-2020-13671)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671">
 
 ---
