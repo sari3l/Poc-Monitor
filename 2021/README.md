@@ -8469,6 +8469,11 @@
 - [Live-Hack-CVE/CVE-2021-24122](https://github.com/Live-Hack-CVE/CVE-2021-24122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24122">
 
 ---
+## CVE-2021-24092 ()
+> 
+- [HORKimhab/CVE-2021-24092](https://github.com/HORKimhab/CVE-2021-24092)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2021-24092">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2021-24092">
+
+---
 ## CVE-2021-24019 ()
 > 
 - [cnetsec/CVE-2021-24019](https://github.com/cnetsec/CVE-2021-24019)	<img alt="forks" src="https://img.shields.io/github/forks/cnetsec/CVE-2021-24019">	<img alt="stars" src="https://img.shields.io/github/stars/cnetsec/CVE-2021-24019">
