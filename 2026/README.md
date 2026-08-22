@@ -8986,6 +8986,7 @@
 - [HORKimhab/CVE-2026-19650-CVE-2026-19478](https://github.com/HORKimhab/CVE-2026-19650-CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19650-CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19650-CVE-2026-19478">
 - [renzi25031469/CVE-2026-19478](https://github.com/renzi25031469/CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-19478">
 - [n0xdaemon/cve-2026-19478](https://github.com/n0xdaemon/cve-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/n0xdaemon/cve-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/n0xdaemon/cve-2026-19478">
+- [punitdarji/Gitlab-CVE-2026-19478](https://github.com/punitdarji/Gitlab-CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Gitlab-CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Gitlab-CVE-2026-19478">
 
 ---
 ## CVE-2026-1937 ()
