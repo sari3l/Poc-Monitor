@@ -1164,6 +1164,7 @@
 ## CVE-2026-64560 ()
 > 
 - [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-64560-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-64560-Analysis">
+- [xx2901318208/ghostlock-cve-2026-64560](https://github.com/xx2901318208/ghostlock-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/xx2901318208/ghostlock-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/xx2901318208/ghostlock-cve-2026-64560">
 
 ---
 ## CVE-2026-64531 ()
@@ -10119,6 +10120,11 @@
 ## CVE-2026-0023 ()
 > 
 - [QM4RS/CVE-2026-0023-Update-Ownership-PoC](https://github.com/QM4RS/CVE-2026-0023-Update-Ownership-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/QM4RS/CVE-2026-0023-Update-Ownership-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/QM4RS/CVE-2026-0023-Update-Ownership-PoC">
+
+---
+## CVE-2026-0013 ()
+> 
+- [XiaoBaiLovesStirring/cve-2026-0013-poc](https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/cve-2026-0013-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/cve-2026-0013-poc">
 
 ---
 ## CVE-2026-0009 ()
