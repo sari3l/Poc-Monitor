@@ -231,6 +231,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [amalpvatayam67/day05-grafana-sqlexpr-lab](https://github.com/amalpvatayam67/day05-grafana-sqlexpr-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day05-grafana-sqlexpr-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day05-grafana-sqlexpr-lab">
 - [yeonchoda/CVE-2024-9264](https://github.com/yeonchoda/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/yeonchoda/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/yeonchoda/CVE-2024-9264">
 - [ozcanpng/CVE-2024-9264](https://github.com/ozcanpng/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2024-9264">
+- [barun121/CVE-2024-9264-in-Grafana-11.x](https://github.com/barun121/CVE-2024-9264-in-Grafana-11.x)	<img alt="forks" src="https://img.shields.io/github/forks/barun121/CVE-2024-9264-in-Grafana-11.x">	<img alt="stars" src="https://img.shields.io/github/stars/barun121/CVE-2024-9264-in-Grafana-11.x">
 
 ---
 ## CVE-2024-9263 (2024-10-17T04:15:00)
