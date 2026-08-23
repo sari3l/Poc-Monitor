@@ -877,6 +877,11 @@
 - [theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-](https://github.com/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-">
 
 ---
+## CVE-2026-66917 ()
+> 
+- [toanln-cov/CVE-2026-66917](https://github.com/toanln-cov/CVE-2026-66917)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-66917">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-66917">
+
+---
 ## CVE-2026-66916 ()
 > 
 - [toanln-cov/CVE-2026-66916](https://github.com/toanln-cov/CVE-2026-66916)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-66916">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-66916">
@@ -9884,6 +9889,11 @@
 ## CVE-2026-1010 ()
 > 
 - [George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header](https://github.com/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header">
+
+---
+## CVE-2026-10053 ()
+> 
+- [dinosn/CVE-2026-10053-lab](https://github.com/dinosn/CVE-2026-10053-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-10053-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-10053-lab">
 
 ---
 ## CVE-2026-1 ()
