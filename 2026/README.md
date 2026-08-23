@@ -9267,6 +9267,11 @@
 - [ubaydev/CVE-2026-15748](https://github.com/ubaydev/CVE-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2026-15748">
 
 ---
+## CVE-2026-15718 ()
+> 
+- [SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm](https://github.com/SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm">
+
+---
 ## CVE-2026-15706 ()
 > 
 - [musana/CVE-2026-15706](https://github.com/musana/CVE-2026-15706)	<img alt="forks" src="https://img.shields.io/github/forks/musana/CVE-2026-15706">	<img alt="stars" src="https://img.shields.io/github/stars/musana/CVE-2026-15706">
