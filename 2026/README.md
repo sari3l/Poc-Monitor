@@ -6564,6 +6564,7 @@
 - [lucastran05/CVE-2026-29000](https://github.com/lucastran05/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/lucastran05/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/lucastran05/CVE-2026-29000">
 - [c0gnit00/CVE-2026-29000](https://github.com/c0gnit00/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-29000">
 - [dua2z3rr/CVE-2026-29000-PoC](https://github.com/dua2z3rr/CVE-2026-29000-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dua2z3rr/CVE-2026-29000-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dua2z3rr/CVE-2026-29000-PoC">
+- [xiaoqiMikko/pac4j-check](https://github.com/xiaoqiMikko/pac4j-check)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiMikko/pac4j-check">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiMikko/pac4j-check">
 
 ---
 ## CVE-2026-28995 ()
