@@ -356,6 +356,11 @@
 - [Caster-chen/CVE-2026-8037-POC](https://github.com/Caster-chen/CVE-2026-8037-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Caster-chen/CVE-2026-8037-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Caster-chen/CVE-2026-8037-POC">
 
 ---
+## CVE-2026-78329 ()
+> 
+- [oscerd/CVE-2026-78329](https://github.com/oscerd/CVE-2026-78329)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78329">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78329">
+
+---
 ## CVE-2026-78122 ()
 > 
 - [Legendile7/CVE-2026-78122-POC](https://github.com/Legendile7/CVE-2026-78122-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Legendile7/CVE-2026-78122-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Legendile7/CVE-2026-78122-POC">
@@ -613,6 +618,11 @@
 ## CVE-2026-71362 ()
 > 
 - [dinosn/cve-2026-71362-magento-lab](https://github.com/dinosn/cve-2026-71362-magento-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-71362-magento-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-71362-magento-lab">
+
+---
+## CVE-2026-71300 ()
+> 
+- [oscerd/CVE-2026-71300](https://github.com/oscerd/CVE-2026-71300)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-71300">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-71300">
 
 ---
 ## CVE-2026-71211 ()
@@ -1509,6 +1519,11 @@
 ## CVE-2026-60121 ()
 > 
 - [HORKimhab/CVE-2026-60121-CVE-2026-61498](https://github.com/HORKimhab/CVE-2026-60121-CVE-2026-61498)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-60121-CVE-2026-61498">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-60121-CVE-2026-61498">
+
+---
+## CVE-2026-60093 ()
+> 
+- [oscerd/CVE-2026-60093](https://github.com/oscerd/CVE-2026-60093)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-60093">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-60093">
 
 ---
 ## CVE-2026-6009 ()
