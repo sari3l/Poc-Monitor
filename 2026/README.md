@@ -9021,6 +9021,11 @@
 - [HORKimhab/CVE-2026-19650-CVE-2026-19478](https://github.com/HORKimhab/CVE-2026-19650-CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19650-CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19650-CVE-2026-19478">
 
 ---
+## CVE-2026-19626 ()
+> 
+- [h00die/POC-CVE-2026-19626](https://github.com/h00die/POC-CVE-2026-19626)	<img alt="forks" src="https://img.shields.io/github/forks/h00die/POC-CVE-2026-19626">	<img alt="stars" src="https://img.shields.io/github/stars/h00die/POC-CVE-2026-19626">
+
+---
 ## CVE-2026-19598 ()
 > 
 - [ksotaria1337/CVE-2026-19598](https://github.com/ksotaria1337/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/ksotaria1337/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/ksotaria1337/CVE-2026-19598">
@@ -9077,6 +9082,7 @@
 - [kyos-public/keycloak-cve-2026-18963-hunt](https://github.com/kyos-public/keycloak-cve-2026-18963-hunt)	<img alt="forks" src="https://img.shields.io/github/forks/kyos-public/keycloak-cve-2026-18963-hunt">	<img alt="stars" src="https://img.shields.io/github/stars/kyos-public/keycloak-cve-2026-18963-hunt">
 - [Snizi/CVE-2026-18963-Exploit](https://github.com/Snizi/CVE-2026-18963-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Snizi/CVE-2026-18963-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Snizi/CVE-2026-18963-Exploit">
 - [minh3102011/CVE-2026-18963_analyst](https://github.com/minh3102011/CVE-2026-18963_analyst)	<img alt="forks" src="https://img.shields.io/github/forks/minh3102011/CVE-2026-18963_analyst">	<img alt="stars" src="https://img.shields.io/github/stars/minh3102011/CVE-2026-18963_analyst">
+- [T0w0T/POC-CVE-2026-18963](https://github.com/T0w0T/POC-CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/T0w0T/POC-CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/T0w0T/POC-CVE-2026-18963">
 
 ---
 ## CVE-2026-18953 ()
@@ -9881,6 +9887,7 @@
 - [HORKimhab/CVE-2026-10520-10523](https://github.com/HORKimhab/CVE-2026-10520-10523)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10520-10523">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10520-10523">
 - [gagaltotal/CVE-2026-10523-Ivanti-sentry](https://github.com/gagaltotal/CVE-2026-10523-Ivanti-sentry)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-10523-Ivanti-sentry">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-10523-Ivanti-sentry">
 - [emilliewatson96/spryCVE-2026-10520](https://github.com/emilliewatson96/spryCVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/emilliewatson96/spryCVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/emilliewatson96/spryCVE-2026-10520">
+- [imbas007/RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/imbas007/RCE-CVE-2026-10520-CVE-2026-10523)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/RCE-CVE-2026-10520-CVE-2026-10523">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/RCE-CVE-2026-10520-CVE-2026-10523">
 
 ---
 ## CVE-2026-10290 ()
