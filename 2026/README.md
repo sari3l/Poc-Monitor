@@ -729,6 +729,7 @@
 ## CVE-2026-68820 ()
 > 
 - [HORKimhab/CVE-2026-68820](https://github.com/HORKimhab/CVE-2026-68820)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-68820">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-68820">
+- [fevar54/CVE-2026-68820-Mitigation-PoC-](https://github.com/fevar54/CVE-2026-68820-Mitigation-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-68820-Mitigation-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-68820-Mitigation-PoC-">
 
 ---
 ## CVE-2026-68771 ()
@@ -1212,6 +1213,11 @@
 - [rahulreddykarne/CVE-2026-63720-datamodel-code-generator](https://github.com/rahulreddykarne/CVE-2026-63720-datamodel-code-generator)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-63720-datamodel-code-generator">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-63720-datamodel-code-generator">
 
 ---
+## CVE-2026-63621 ()
+> 
+- [oscerd/CVE-2026-63621](https://github.com/oscerd/CVE-2026-63621)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-63621">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-63621">
+
+---
 ## CVE-2026-63563 ()
 > 
 - [redr0nin/CVE-2026-63563](https://github.com/redr0nin/CVE-2026-63563)	<img alt="forks" src="https://img.shields.io/github/forks/redr0nin/CVE-2026-63563">	<img alt="stars" src="https://img.shields.io/github/stars/redr0nin/CVE-2026-63563">
@@ -1554,6 +1560,11 @@
 > 
 - [MalHyuk/CVE-2026-59243](https://github.com/MalHyuk/CVE-2026-59243)	<img alt="forks" src="https://img.shields.io/github/forks/MalHyuk/CVE-2026-59243">	<img alt="stars" src="https://img.shields.io/github/stars/MalHyuk/CVE-2026-59243">
 - [0xdak/CVE-2026-59243_exploit](https://github.com/0xdak/CVE-2026-59243_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-59243_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-59243_exploit">
+
+---
+## CVE-2026-59230 ()
+> 
+- [oscerd/CVE-2026-59230](https://github.com/oscerd/CVE-2026-59230)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-59230">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-59230">
 
 ---
 ## CVE-2026-5865 ()
@@ -9888,6 +9899,7 @@
 - [gagaltotal/CVE-2026-10523-Ivanti-sentry](https://github.com/gagaltotal/CVE-2026-10523-Ivanti-sentry)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-10523-Ivanti-sentry">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-10523-Ivanti-sentry">
 - [emilliewatson96/spryCVE-2026-10520](https://github.com/emilliewatson96/spryCVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/emilliewatson96/spryCVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/emilliewatson96/spryCVE-2026-10520">
 - [imbas007/RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/imbas007/RCE-CVE-2026-10520-CVE-2026-10523)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/RCE-CVE-2026-10520-CVE-2026-10523">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/RCE-CVE-2026-10520-CVE-2026-10523">
+- [gduma-phData/patch-CVE-2026-10520](https://github.com/gduma-phData/patch-CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-10520">
 
 ---
 ## CVE-2026-10290 ()
