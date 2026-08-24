@@ -458,6 +458,11 @@
 - [Polosss/By-Poloss..-..CVE-2026-7515-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-7515-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-7515-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-7515-PoC">
 
 ---
+## CVE-2026-74939 ()
+> 
+- [SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box](https://github.com/SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box">
+
+---
 ## CVE-2026-7482 ()
 > 
 - [0x0OZ/CVE-2026-7482-PoC](https://github.com/0x0OZ/CVE-2026-7482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x0OZ/CVE-2026-7482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x0OZ/CVE-2026-7482-PoC">
