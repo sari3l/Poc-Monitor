@@ -3749,6 +3749,7 @@ use after free.
 - [ayomideadams61-hub/bluekeep-metsploitable-lab](https://github.com/ayomideadams61-hub/bluekeep-metsploitable-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ayomideadams61-hub/bluekeep-metsploitable-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ayomideadams61-hub/bluekeep-metsploitable-lab">
 - [Ayomide-29/bluekeep_metasploit_practice](https://github.com/Ayomide-29/bluekeep_metasploit_practice)	<img alt="forks" src="https://img.shields.io/github/forks/Ayomide-29/bluekeep_metasploit_practice">	<img alt="stars" src="https://img.shields.io/github/stars/Ayomide-29/bluekeep_metasploit_practice">
 - [GopeshKachhadiya/Windows-2](https://github.com/GopeshKachhadiya/Windows-2)	<img alt="forks" src="https://img.shields.io/github/forks/GopeshKachhadiya/Windows-2">	<img alt="stars" src="https://img.shields.io/github/stars/GopeshKachhadiya/Windows-2">
+- [SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-](https://github.com/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-)	<img alt="forks" src="https://img.shields.io/github/forks/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-">	<img alt="stars" src="https://img.shields.io/github/stars/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-">
 
 ---
 ## CVE-2019-0604 (2019-03-05T23:29:00)

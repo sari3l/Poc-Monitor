@@ -6299,6 +6299,11 @@
 - [shinyColumn/CVE-2025-46408](https://github.com/shinyColumn/CVE-2025-46408)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-46408">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-46408">
 
 ---
+## CVE-2025-46359 ()
+> 
+- [samarthop2011/PoC-for-CVE-2025-46359](https://github.com/samarthop2011/PoC-for-CVE-2025-46359)	<img alt="forks" src="https://img.shields.io/github/forks/samarthop2011/PoC-for-CVE-2025-46359">	<img alt="stars" src="https://img.shields.io/github/stars/samarthop2011/PoC-for-CVE-2025-46359">
+
+---
 ## CVE-2025-4632 ()
 > 
 - [MantisToboggan-git/CVE-2025-4632-POC](https://github.com/MantisToboggan-git/CVE-2025-4632-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MantisToboggan-git/CVE-2025-4632-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MantisToboggan-git/CVE-2025-4632-POC">
