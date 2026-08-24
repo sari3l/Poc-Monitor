@@ -4478,6 +4478,7 @@
 - [PhanHoangKhang/React2Shell](https://github.com/PhanHoangKhang/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/PhanHoangKhang/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/PhanHoangKhang/React2Shell">
 - [kevin9480/Security_incident_report](https://github.com/kevin9480/Security_incident_report)	<img alt="forks" src="https://img.shields.io/github/forks/kevin9480/Security_incident_report">	<img alt="stars" src="https://img.shields.io/github/stars/kevin9480/Security_incident_report">
 - [h3n1s3/React2shell-Research](https://github.com/h3n1s3/React2shell-Research)	<img alt="forks" src="https://img.shields.io/github/forks/h3n1s3/React2shell-Research">	<img alt="stars" src="https://img.shields.io/github/stars/h3n1s3/React2shell-Research">
+- [Mr-Destroyer/CVE-2025-55182](https://github.com/Mr-Destroyer/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Destroyer/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Destroyer/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
