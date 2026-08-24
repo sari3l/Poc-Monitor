@@ -3488,6 +3488,11 @@
 - [0xdak/CVE-2026-44024_exploit](https://github.com/0xdak/CVE-2026-44024_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-44024_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-44024_exploit">
 
 ---
+## CVE-2026-43914 ()
+> 
+- [Boreas37/CVE-2026-43914-PoC](https://github.com/Boreas37/CVE-2026-43914-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-43914-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-43914-PoC">
+
+---
 ## CVE-2026-43893 ()
 > 
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
