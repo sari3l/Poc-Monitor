@@ -58,6 +58,11 @@
 - [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932">
 
 ---
+## CVE-2024-99001 ()
+> 
+- [gduma-phData/patch-CVE-2024-99001](https://github.com/gduma-phData/patch-CVE-2024-99001)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-99001">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-99001">
+
+---
 ## CVE-2024-9890 (2024-10-26T03:15:00)
 > The User Toolkit plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 1.2.3. This is due to an improper capability check in the 'switchUser' function. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to log in as any existing user on the site, such as an administrator.
 - [RandomRobbieBF/CVE-2024-9890](https://github.com/RandomRobbieBF/CVE-2024-9890)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9890">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9890">
@@ -321,6 +326,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [Jenderal92/CVE-2024-8856](https://github.com/Jenderal92/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-8856">
 
 ---
+## CVE-2024-88555 ()
+> 
+- [gduma-phData/patch-CVE-2024-88555](https://github.com/gduma-phData/patch-CVE-2024-88555)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-88555">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-88555">
+
+---
 ## CVE-2024-8752 (2024-09-16T16:15:00)
 > The Windows version of WebIQ 2.15.9 is affected by a directory traversal vulnerability that allows remote attackers to read any file on the system.
 - [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752)	<img alt="forks" src="https://img.shields.io/github/forks/D3anSPGDMS/CVE-2024-8752">	<img alt="stars" src="https://img.shields.io/github/stars/D3anSPGDMS/CVE-2024-8752">
@@ -571,6 +581,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [TheUnknownSoul/CVE-2024-7808](https://github.com/TheUnknownSoul/CVE-2024-7808)	<img alt="forks" src="https://img.shields.io/github/forks/TheUnknownSoul/CVE-2024-7808">	<img alt="stars" src="https://img.shields.io/github/stars/TheUnknownSoul/CVE-2024-7808">
 
 ---
+## CVE-2024-77200 ()
+> 
+- [gduma-phData/patch-CVE-2024-77200](https://github.com/gduma-phData/patch-CVE-2024-77200)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-77200">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-77200">
+
+---
 ## CVE-2024-7703 (2024-08-17T12:15:00)
 > The ARMember – Membership Plugin, Content Restriction, Member Levels, User Profile & User signup plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 4.0.37 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.
 - [lfillaz/CVE-2024-7703](https://github.com/lfillaz/CVE-2024-7703)	<img alt="forks" src="https://img.shields.io/github/forks/lfillaz/CVE-2024-7703">	<img alt="stars" src="https://img.shields.io/github/stars/lfillaz/CVE-2024-7703">
@@ -808,6 +823,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 > The JSON API User plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 3.9.3. This is due to improper controls on custom user meta fields. This makes it possible for unauthenticated attackers to register as administrators on the site. The plugin requires the JSON API plugin to also be installed.
 - [RandomRobbieBF/CVE-2024-6624](https://github.com/RandomRobbieBF/CVE-2024-6624)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-6624">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-6624">
 - [Jenderal92/CVE-2024-6624](https://github.com/Jenderal92/CVE-2024-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-6624">
+
+---
+## CVE-2024-66001 ()
+> 
+- [gduma-phData/patch-CVE-2024-66001](https://github.com/gduma-phData/patch-CVE-2024-66001)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-66001">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-66001">
 
 ---
 ## CVE-2024-6536 (2024-07-30T06:15:00)
@@ -1460,6 +1480,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-55890 ()
 > 
 - [samh4cks/CVE-2024-55890](https://github.com/samh4cks/CVE-2024-55890)	<img alt="forks" src="https://img.shields.io/github/forks/samh4cks/CVE-2024-55890">	<img alt="stars" src="https://img.shields.io/github/stars/samh4cks/CVE-2024-55890">
+- [gduma-phData/patch-CVE-2024-55890](https://github.com/gduma-phData/patch-CVE-2024-55890)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-55890">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-55890">
 
 ---
 ## CVE-2024-55879 ()
