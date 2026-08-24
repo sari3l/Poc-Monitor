@@ -1281,6 +1281,11 @@
 - [amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape](https://github.com/amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape">
 
 ---
+## CVE-2026-63039 ()
+> 
+- [oscerd/CVE-2026-63039](https://github.com/oscerd/CVE-2026-63039)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-63039">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-63039">
+
+---
 ## CVE-2026-63030 ()
 > 
 - [tcyph3r/wp2shell-cve-2026-63030-root-cause](https://github.com/tcyph3r/wp2shell-cve-2026-63030-root-cause)	<img alt="forks" src="https://img.shields.io/github/forks/tcyph3r/wp2shell-cve-2026-63030-root-cause">	<img alt="stars" src="https://img.shields.io/github/stars/tcyph3r/wp2shell-cve-2026-63030-root-cause">
@@ -6668,6 +6673,11 @@
 - [MichaelAdamGroberman/CVE-2026-28766](https://github.com/MichaelAdamGroberman/CVE-2026-28766)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-28766">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-28766">
 - [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
 - [MichaelAdamGroberman/CVE-2026-28766](https://github.com/MichaelAdamGroberman/CVE-2026-28766)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-28766">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-28766">
+
+---
+## CVE-2026-28672 ()
+> 
+- [oscerd/CVE-2026-28672](https://github.com/oscerd/CVE-2026-28672)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-28672">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-28672">
 
 ---
 ## CVE-2026-28496 ()
