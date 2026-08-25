@@ -4207,6 +4207,11 @@
 - [berdav/CVE-2026-41567](https://github.com/berdav/CVE-2026-41567)	<img alt="forks" src="https://img.shields.io/github/forks/berdav/CVE-2026-41567">	<img alt="stars" src="https://img.shields.io/github/stars/berdav/CVE-2026-41567">
 
 ---
+## CVE-2026-41551 ()
+> 
+- [selecthch/CVE-2026-41551](https://github.com/selecthch/CVE-2026-41551)	<img alt="forks" src="https://img.shields.io/github/forks/selecthch/CVE-2026-41551">	<img alt="stars" src="https://img.shields.io/github/stars/selecthch/CVE-2026-41551">
+
+---
 ## CVE-2026-41490 ()
 > 
 - [romain-deperne/CVE-2026-41490](https://github.com/romain-deperne/CVE-2026-41490)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-41490">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-41490">
