@@ -27704,6 +27704,11 @@ the client's API server credentials to third parties.
 - [Live-Hack-CVE/CVE-2022-2891](https://github.com/Live-Hack-CVE/CVE-2022-2891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2891">
 
 ---
+## CVE-2022-28906 ()
+> 
+- [finnvle/CVE-2022-28906-POC](https://github.com/finnvle/CVE-2022-28906-POC)	<img alt="forks" src="https://img.shields.io/github/forks/finnvle/CVE-2022-28906-POC">	<img alt="stars" src="https://img.shields.io/github/stars/finnvle/CVE-2022-28906-POC">
+
+---
 ## CVE-2022-28893 (2022-04-11T05:15:00)
 > The SUNRPC subsystem in the Linux kernel through 5.17.2 can call xs_xprt_free before ensuring that sockets are in the intended state.
 - [Live-Hack-CVE/CVE-2022-28893](https://github.com/Live-Hack-CVE/CVE-2022-28893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28893">
