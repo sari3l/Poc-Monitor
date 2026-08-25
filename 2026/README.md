@@ -1670,6 +1670,11 @@
 - [Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection](https://github.com/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">
 
 ---
+## CVE-2026-58073 ()
+> 
+- [BishopFox/CVE-2026-58073-check](https://github.com/BishopFox/CVE-2026-58073-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-58073-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-58073-check">
+
+---
 ## CVE-2026-58057 ()
 > 
 - [CerberusMrXi/Flowise-CVE-2026-58057-exploit](https://github.com/CerberusMrXi/Flowise-CVE-2026-58057-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Flowise-CVE-2026-58057-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Flowise-CVE-2026-58057-exploit">
