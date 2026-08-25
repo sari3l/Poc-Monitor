@@ -757,6 +757,7 @@
 - [HORKimhab/CVE-2026-68820](https://github.com/HORKimhab/CVE-2026-68820)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-68820">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-68820">
 - [fevar54/CVE-2026-68820-Mitigation-PoC-](https://github.com/fevar54/CVE-2026-68820-Mitigation-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-68820-Mitigation-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-68820-Mitigation-PoC-">
 - [ubitquity/Windows-WinSock-UAF-Mitigation](https://github.com/ubitquity/Windows-WinSock-UAF-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/Windows-WinSock-UAF-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/Windows-WinSock-UAF-Mitigation">
+- [maxprog-svg/CVE-2026-68820_Mass_Exploit](https://github.com/maxprog-svg/CVE-2026-68820_Mass_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-68820_Mass_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-68820_Mass_Exploit">
 
 ---
 ## CVE-2026-68771 ()
