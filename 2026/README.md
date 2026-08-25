@@ -2258,6 +2258,7 @@
 - [TheMalwareGuardian/CVE-2026-5281](https://github.com/TheMalwareGuardian/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-5281">
 - [jaf0rk/CVE-2026-5281](https://github.com/jaf0rk/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-5281">
 - [jaf0rk/CVE-2026-5281-CVE-2026-11057-fullchain](https://github.com/jaf0rk/CVE-2026-5281-CVE-2026-11057-fullchain)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-5281-CVE-2026-11057-fullchain">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-5281-CVE-2026-11057-fullchain">
+- [iqx6889/CVE-2026-52813-Gogs-RCE](https://github.com/iqx6889/CVE-2026-52813-Gogs-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/iqx6889/CVE-2026-52813-Gogs-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/iqx6889/CVE-2026-52813-Gogs-RCE">
 
 ---
 ## CVE-2026-52806 ()
@@ -9159,7 +9160,7 @@
 - [minh3102011/CVE-2026-18963_analyst](https://github.com/minh3102011/CVE-2026-18963_analyst)	<img alt="forks" src="https://img.shields.io/github/forks/minh3102011/CVE-2026-18963_analyst">	<img alt="stars" src="https://img.shields.io/github/stars/minh3102011/CVE-2026-18963_analyst">
 - [T0w0T/POC-CVE-2026-18963](https://github.com/T0w0T/POC-CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/T0w0T/POC-CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/T0w0T/POC-CVE-2026-18963">
 - [Red-Darkin/CVE-2026-18963-keycloak](https://github.com/Red-Darkin/CVE-2026-18963-keycloak)	<img alt="forks" src="https://img.shields.io/github/forks/Red-Darkin/CVE-2026-18963-keycloak">	<img alt="stars" src="https://img.shields.io/github/stars/Red-Darkin/CVE-2026-18963-keycloak">
-- [prot0tw/CVE-2026-18963](https://github.com/prot0tw/CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/prot0tw/CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/prot0tw/CVE-2026-18963">
+- [prot0tw/Keycloak_CVE-2026-18963_PoC](https://github.com/prot0tw/Keycloak_CVE-2026-18963_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/prot0tw/Keycloak_CVE-2026-18963_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/prot0tw/Keycloak_CVE-2026-18963_PoC">
 
 ---
 ## CVE-2026-18953 ()

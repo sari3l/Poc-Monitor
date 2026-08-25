@@ -8094,6 +8094,7 @@ If this ACL bypass issue were to be successfully exploited, it potentially could
 - [natceil/cve-2022-42475](https://github.com/natceil/cve-2022-42475)	<img alt="forks" src="https://img.shields.io/github/forks/natceil/cve-2022-42475">	<img alt="stars" src="https://img.shields.io/github/stars/natceil/cve-2022-42475">
 - [0xhaggis/CVE-2022-42475](https://github.com/0xhaggis/CVE-2022-42475)	<img alt="forks" src="https://img.shields.io/github/forks/0xhaggis/CVE-2022-42475">	<img alt="stars" src="https://img.shields.io/github/stars/0xhaggis/CVE-2022-42475">
 - [ArthurHendrich/CVE-2022-42475-POC](https://github.com/ArthurHendrich/CVE-2022-42475-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ArthurHendrich/CVE-2022-42475-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ArthurHendrich/CVE-2022-42475-POC">
+- [uLl0a/cve-2022-42475-poc](https://github.com/uLl0a/cve-2022-42475-poc)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/cve-2022-42475-poc">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/cve-2022-42475-poc">
 
 ---
 ## CVE-2022-42471 (2023-01-03T17:15:00)
