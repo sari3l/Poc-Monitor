@@ -610,6 +610,11 @@
 - [abdugafforov-bobur/CVE-2026-72550-poc](https://github.com/abdugafforov-bobur/CVE-2026-72550-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/CVE-2026-72550-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/CVE-2026-72550-poc">
 
 ---
+## CVE-2026-72530 ()
+> 
+- [fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-](https://github.com/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-">
+
+---
 ## CVE-2026-7222 ()
 > 
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
@@ -1789,6 +1794,11 @@
 > 
 - [BiiTts/CVE-2026-56782-Gorse-Auth-Bypass](https://github.com/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-56782-Gorse-Auth-Bypass">
 - [thecodeb0ss/CVE-2026-56782](https://github.com/thecodeb0ss/CVE-2026-56782)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-56782">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-56782">
+
+---
+## CVE-2026-56705 ()
+> 
+- [Boreas37/CVE-2026-56705](https://github.com/Boreas37/CVE-2026-56705)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-56705">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-56705">
 
 ---
 ## CVE-2026-56423 ()
