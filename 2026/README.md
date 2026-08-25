@@ -9265,6 +9265,7 @@
 ## CVE-2026-17532 ()
 > 
 - [kalhoralireza/CVE-2026-17532](https://github.com/kalhoralireza/CVE-2026-17532)	<img alt="forks" src="https://img.shields.io/github/forks/kalhoralireza/CVE-2026-17532">	<img alt="stars" src="https://img.shields.io/github/stars/kalhoralireza/CVE-2026-17532">
+- [kalhoralireza/CVE-2026-17532-lab](https://github.com/kalhoralireza/CVE-2026-17532-lab)	<img alt="forks" src="https://img.shields.io/github/forks/kalhoralireza/CVE-2026-17532-lab">	<img alt="stars" src="https://img.shields.io/github/stars/kalhoralireza/CVE-2026-17532-lab">
 
 ---
 ## CVE-2026-17351 ()
