@@ -1171,6 +1171,7 @@
 - [SanaullahAmanullah/xss2shell-check](https://github.com/SanaullahAmanullah/xss2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/SanaullahAmanullah/xss2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/SanaullahAmanullah/xss2shell-check">
 - [Alixploit22/CVEX2SHEL](https://github.com/Alixploit22/CVEX2SHEL)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVEX2SHEL">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVEX2SHEL">
 - [G33l0/Cve-2026-64638](https://github.com/G33l0/Cve-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/G33l0/Cve-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/G33l0/Cve-2026-64638">
+- [xAL6/cve-2026-64638-banner-poc](https://github.com/xAL6/cve-2026-64638-banner-poc)	<img alt="forks" src="https://img.shields.io/github/forks/xAL6/cve-2026-64638-banner-poc">	<img alt="stars" src="https://img.shields.io/github/stars/xAL6/cve-2026-64638-banner-poc">
 
 ---
 ## CVE-2026-64633 ()
@@ -5741,6 +5742,7 @@
 - [HORKimhab/CVE-2026-32475](https://github.com/HORKimhab/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-32475">
 - [0xBlackash/CVE-2026-32475](https://github.com/0xBlackash/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-32475">
 - [absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE](https://github.com/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">
+- [Boreas37/CVE-2026-32475-PoC](https://github.com/Boreas37/CVE-2026-32475-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-32475-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-32475-PoC">
 
 ---
 ## CVE-2026-32321 ()
@@ -9738,6 +9740,11 @@
 ## CVE-2026-1232 ()
 > 
 - [horrister/beyondtrust-cve-2026-1232](https://github.com/horrister/beyondtrust-cve-2026-1232)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/beyondtrust-cve-2026-1232">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/beyondtrust-cve-2026-1232">
+
+---
+## CVE-2026-12295 ()
+> 
+- [SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm](https://github.com/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm">
 
 ---
 ## CVE-2026-12277 ()
