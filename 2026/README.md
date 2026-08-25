@@ -7187,6 +7187,11 @@
 - [mbanyamer/-CVE-2026-26215-manga-image-translator-RCE](https://github.com/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE">
 
 ---
+## CVE-2026-26211 ()
+> 
+- [LindHunt/CVE-2026-26211](https://github.com/LindHunt/CVE-2026-26211)	<img alt="forks" src="https://img.shields.io/github/forks/LindHunt/CVE-2026-26211">	<img alt="stars" src="https://img.shields.io/github/stars/LindHunt/CVE-2026-26211">
+
+---
 ## CVE-2026-26198 ()
 > 
 - [blackhatlegend/CVE-2026-26198](https://github.com/blackhatlegend/CVE-2026-26198)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-26198">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-26198">
@@ -9175,6 +9180,7 @@
 - [Red-Darkin/CVE-2026-18963-keycloak](https://github.com/Red-Darkin/CVE-2026-18963-keycloak)	<img alt="forks" src="https://img.shields.io/github/forks/Red-Darkin/CVE-2026-18963-keycloak">	<img alt="stars" src="https://img.shields.io/github/stars/Red-Darkin/CVE-2026-18963-keycloak">
 - [prot0tw/Keycloak_CVE-2026-18963_PoC](https://github.com/prot0tw/Keycloak_CVE-2026-18963_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/prot0tw/Keycloak_CVE-2026-18963_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/prot0tw/Keycloak_CVE-2026-18963_PoC">
 - [BlackHatExploitation/Exploit-For-CVE-2026-18963](https://github.com/BlackHatExploitation/Exploit-For-CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/BlackHatExploitation/Exploit-For-CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/BlackHatExploitation/Exploit-For-CVE-2026-18963">
+- [gman0x00/keycloak-CVE-2026-18963](https://github.com/gman0x00/keycloak-CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/gman0x00/keycloak-CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/gman0x00/keycloak-CVE-2026-18963">
 
 ---
 ## CVE-2026-18953 ()

@@ -1410,6 +1410,7 @@
 - [SOME-1HING/CVE-2018-16763](https://github.com/SOME-1HING/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/SOME-1HING/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/SOME-1HING/CVE-2018-16763">
 - [kaxm23/exploit_cms_fuel](https://github.com/kaxm23/exploit_cms_fuel)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/exploit_cms_fuel">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/exploit_cms_fuel">
 - [ShadowR-Root/fuel-cms-cve-2018-16763-python3-port](https://github.com/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port">
+- [gh0stuncle/CVE-2018-16763_fuel_cms_exploit](https://github.com/gh0stuncle/CVE-2018-16763_fuel_cms_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gh0stuncle/CVE-2018-16763_fuel_cms_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gh0stuncle/CVE-2018-16763_fuel_cms_exploit">
 
 ---
 ## CVE-2018-16621 ()
