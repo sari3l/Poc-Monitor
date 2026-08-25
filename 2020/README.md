@@ -4444,6 +4444,7 @@
 - [mods20hh/ZeroLogon-PoC-DC-Pwn](https://github.com/mods20hh/ZeroLogon-PoC-DC-Pwn)	<img alt="forks" src="https://img.shields.io/github/forks/mods20hh/ZeroLogon-PoC-DC-Pwn">	<img alt="stars" src="https://img.shields.io/github/stars/mods20hh/ZeroLogon-PoC-DC-Pwn">
 - [commit2main/zerologon-lab](https://github.com/commit2main/zerologon-lab)	<img alt="forks" src="https://img.shields.io/github/forks/commit2main/zerologon-lab">	<img alt="stars" src="https://img.shields.io/github/stars/commit2main/zerologon-lab">
 - [nyambiblaise/Domain-Controller-DC-Exploitation-with-Metasploit-Impacket](https://github.com/nyambiblaise/Domain-Controller-DC-Exploitation-with-Metasploit-Impacket)	<img alt="forks" src="https://img.shields.io/github/forks/nyambiblaise/Domain-Controller-DC-Exploitation-with-Metasploit-Impacket">	<img alt="stars" src="https://img.shields.io/github/stars/nyambiblaise/Domain-Controller-DC-Exploitation-with-Metasploit-Impacket">
+- [ckq7703/CVE-2020-1472](https://github.com/ckq7703/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/ckq7703/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/ckq7703/CVE-2020-1472">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
