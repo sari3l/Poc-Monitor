@@ -5741,6 +5741,11 @@
 - [MichaelAdamGroberman/CVE-2026-32646](https://github.com/MichaelAdamGroberman/CVE-2026-32646)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-32646">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-32646">
 
 ---
+## CVE-2026-32635 ()
+> 
+- [fevar54/CVE-2026-32635-Angular-XSS-Mitigation-](https://github.com/fevar54/CVE-2026-32635-Angular-XSS-Mitigation-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-32635-Angular-XSS-Mitigation-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-32635-Angular-XSS-Mitigation-">
+
+---
 ## CVE-2026-32621 ()
 > 
 - [sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability](https://github.com/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability">
