@@ -4281,6 +4281,11 @@ prior to
 - [Henkel-CyberVM/CVE-2023-36361](https://github.com/Henkel-CyberVM/CVE-2023-36361)	<img alt="forks" src="https://img.shields.io/github/forks/Henkel-CyberVM/CVE-2023-36361">	<img alt="stars" src="https://img.shields.io/github/stars/Henkel-CyberVM/CVE-2023-36361">
 
 ---
+## CVE-2023-3635 ()
+> 
+- [JoshuaASmith/reproducer-okio-cve-2023-3635](https://github.com/JoshuaASmith/reproducer-okio-cve-2023-3635)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaASmith/reproducer-okio-cve-2023-3635">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaASmith/reproducer-okio-cve-2023-3635">
+
+---
 ## CVE-2023-36319 (2023-09-20T00:15:00)
 > File Upload vulnerability in Openupload Stable v.0.4.3 allows a remote attacker to execute arbitrary code via the action parameter of the compress-inc.php file.
 - [Lowalu/CVE-2023-36319](https://github.com/Lowalu/CVE-2023-36319)	<img alt="forks" src="https://img.shields.io/github/forks/Lowalu/CVE-2023-36319">	<img alt="stars" src="https://img.shields.io/github/stars/Lowalu/CVE-2023-36319">
