@@ -9168,6 +9168,11 @@
 - [typedefabcd1234ntd/CVE-2026-2002-poc](https://github.com/typedefabcd1234ntd/CVE-2026-2002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/typedefabcd1234ntd/CVE-2026-2002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/typedefabcd1234ntd/CVE-2026-2002-poc">
 
 ---
+## CVE-2026-19912 ()
+> 
+- [HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914](https://github.com/HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914">
+
+---
 ## CVE-2026-19679 ()
 > 
 - [h00die/POC-CVE-2026-19679](https://github.com/h00die/POC-CVE-2026-19679)	<img alt="forks" src="https://img.shields.io/github/forks/h00die/POC-CVE-2026-19679">	<img alt="stars" src="https://img.shields.io/github/stars/h00die/POC-CVE-2026-19679">
