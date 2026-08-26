@@ -9181,6 +9181,7 @@
 ## CVE-2026-19632 ()
 > 
 - [YonLiud/CVE-2026-19632](https://github.com/YonLiud/CVE-2026-19632)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2026-19632">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2026-19632">
+- [DeadExpl0it/CVE-2026-19632-POC](https://github.com/DeadExpl0it/CVE-2026-19632-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-19632-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-19632-POC">
 
 ---
 ## CVE-2026-19626 ()
