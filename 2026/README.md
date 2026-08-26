@@ -1805,6 +1805,7 @@
 ## CVE-2026-56705 ()
 > 
 - [Boreas37/CVE-2026-56705](https://github.com/Boreas37/CVE-2026-56705)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-56705">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-56705">
+- [ChiefYoru/Exploit-CVE-2026-56705](https://github.com/ChiefYoru/Exploit-CVE-2026-56705)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/Exploit-CVE-2026-56705">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/Exploit-CVE-2026-56705">
 
 ---
 ## CVE-2026-56423 ()
