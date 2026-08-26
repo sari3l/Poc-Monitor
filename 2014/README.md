@@ -698,6 +698,11 @@
 - [Live-Hack-CVE/CVE-2014-125027](https://github.com/Live-Hack-CVE/CVE-2014-125027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125027">
 
 ---
+## CVE-2014-085 ()
+> 
+- [ehaoxiongdiycw/CVE-2014-085](https://github.com/ehaoxiongdiycw/CVE-2014-085)	<img alt="forks" src="https://img.shields.io/github/forks/ehaoxiongdiycw/CVE-2014-085">	<img alt="stars" src="https://img.shields.io/github/stars/ehaoxiongdiycw/CVE-2014-085">
+
+---
 ## CVE-2014-0437 (2014-01-15T16:08:00)
 > Unspecified vulnerability in the MySQL Server component in Oracle MySQL 5.1.72 and earlier, 5.5.34 and earlier, and 5.6.14 and earlier allows remote authenticated users to affect availability via unknown vectors related to Optimizer.
 - [Live-Hack-CVE/CVE-2014-0437](https://github.com/Live-Hack-CVE/CVE-2014-0437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0437">
