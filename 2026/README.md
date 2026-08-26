@@ -3059,6 +3059,11 @@
 - [SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm](https://github.com/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm">
 
 ---
+## CVE-2026-46858 ()
+> 
+- [sergiofigueras/cve-2026-46858](https://github.com/sergiofigueras/cve-2026-46858)	<img alt="forks" src="https://img.shields.io/github/forks/sergiofigueras/cve-2026-46858">	<img alt="stars" src="https://img.shields.io/github/stars/sergiofigueras/cve-2026-46858">
+
+---
 ## CVE-2026-46840 ()
 > 
 - [fangbarristerbar/CVE-2026-46840-ORDS-RCE](https://github.com/fangbarristerbar/CVE-2026-46840-ORDS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fangbarristerbar/CVE-2026-46840-ORDS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fangbarristerbar/CVE-2026-46840-ORDS-RCE">
@@ -3334,6 +3339,7 @@
 - [Aqua1214/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">
 - [Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585">
 - [yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeycve/YellowKey-Bitlocker-CVE-2026-45585">
+- [yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585](https://github.com/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
