@@ -7535,6 +7535,8 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Symbolexe/CVE-2023-23397](https://github.com/Symbolexe/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2023-23397">
 - [Gilospy/CVE-2023-23397](https://github.com/Gilospy/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Gilospy/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Gilospy/CVE-2023-23397">
 - [Phaedrik/CVE-2023-23397-POC](https://github.com/Phaedrik/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Phaedrik/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Phaedrik/CVE-2023-23397-POC">
+- [praneethnaidu1910-cmd/cve-2023-23397-purple-team](https://github.com/praneethnaidu1910-cmd/cve-2023-23397-purple-team)	<img alt="forks" src="https://img.shields.io/github/forks/praneethnaidu1910-cmd/cve-2023-23397-purple-team">	<img alt="stars" src="https://img.shields.io/github/stars/praneethnaidu1910-cmd/cve-2023-23397-purple-team">
+- [medyassineakhmari/CVE_2023_23397](https://github.com/medyassineakhmari/CVE_2023_23397)	<img alt="forks" src="https://img.shields.io/github/forks/medyassineakhmari/CVE_2023_23397">	<img alt="stars" src="https://img.shields.io/github/stars/medyassineakhmari/CVE_2023_23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
