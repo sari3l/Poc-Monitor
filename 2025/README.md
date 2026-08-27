@@ -2764,6 +2764,11 @@
 - [sid6224/CVE-2025-60012-POC](https://github.com/sid6224/CVE-2025-60012-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sid6224/CVE-2025-60012-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sid6224/CVE-2025-60012-POC">
 
 ---
+## CVE-2025-6000 ()
+> 
+- [n0blinder/CVE-2025-6000](https://github.com/n0blinder/CVE-2025-6000)	<img alt="forks" src="https://img.shields.io/github/forks/n0blinder/CVE-2025-6000">	<img alt="stars" src="https://img.shields.io/github/stars/n0blinder/CVE-2025-6000">
+
+---
 ## CVE-2025-59934 ()
 > 
 - [suriryuk/cve-2025-59934](https://github.com/suriryuk/cve-2025-59934)	<img alt="forks" src="https://img.shields.io/github/forks/suriryuk/cve-2025-59934">	<img alt="stars" src="https://img.shields.io/github/stars/suriryuk/cve-2025-59934">
