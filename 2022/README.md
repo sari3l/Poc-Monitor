@@ -2210,6 +2210,7 @@ Here we only need to move the of_node_put() before the check.
 - [nicostan15/CVE-2022-46169](https://github.com/nicostan15/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/nicostan15/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/nicostan15/CVE-2022-46169">
 - [nou-man/CVE-2022-46169](https://github.com/nou-man/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/nou-man/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/nou-man/CVE-2022-46169">
 - [svchost9913/CVE-2022-46169_unauth_remote_code_execution](https://github.com/svchost9913/CVE-2022-46169_unauth_remote_code_execution)	<img alt="forks" src="https://img.shields.io/github/forks/svchost9913/CVE-2022-46169_unauth_remote_code_execution">	<img alt="stars" src="https://img.shields.io/github/stars/svchost9913/CVE-2022-46169_unauth_remote_code_execution">
+- [K4PXD/CVE-2022-46169](https://github.com/K4PXD/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/K4PXD/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/K4PXD/CVE-2022-46169">
 
 ---
 ## CVE-2022-46168 (2023-01-05T18:15:00)

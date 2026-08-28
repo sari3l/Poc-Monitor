@@ -8971,6 +8971,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [w41l3r/jenkins_scan](https://github.com/w41l3r/jenkins_scan)	<img alt="forks" src="https://img.shields.io/github/forks/w41l3r/jenkins_scan">	<img alt="stars" src="https://img.shields.io/github/stars/w41l3r/jenkins_scan">
 - [classic130/CVE-2024-23897-Jenkins-4.441](https://github.com/classic130/CVE-2024-23897-Jenkins-4.441)	<img alt="forks" src="https://img.shields.io/github/forks/classic130/CVE-2024-23897-Jenkins-4.441">	<img alt="stars" src="https://img.shields.io/github/stars/classic130/CVE-2024-23897-Jenkins-4.441">
 - [razureink/cve-2024-23897-jenkins_lfi_reproduction](https://github.com/razureink/cve-2024-23897-jenkins_lfi_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-23897-jenkins_lfi_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-23897-jenkins_lfi_reproduction">
+- [MachiavelliII/CVE-2024-23897](https://github.com/MachiavelliII/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/MachiavelliII/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/MachiavelliII/CVE-2024-23897">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
