@@ -8502,6 +8502,8 @@
 - [gitgudKrish/cve-2025-29927-nextjs](https://github.com/gitgudKrish/cve-2025-29927-nextjs)	<img alt="forks" src="https://img.shields.io/github/forks/gitgudKrish/cve-2025-29927-nextjs">	<img alt="stars" src="https://img.shields.io/github/stars/gitgudKrish/cve-2025-29927-nextjs">
 - [Fomovet/cve-2025-29927](https://github.com/Fomovet/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-29927">
 - [surajpandeyp/CVE-2025-29927](https://github.com/surajpandeyp/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/surajpandeyp/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/surajpandeyp/CVE-2025-29927">
+- [kuyrathdaro/cve-2025-29927](https://github.com/kuyrathdaro/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-29927">
+- [berraesen/nextjs-middleware-auth-bypass-lab](https://github.com/berraesen/nextjs-middleware-auth-bypass-lab)	<img alt="forks" src="https://img.shields.io/github/forks/berraesen/nextjs-middleware-auth-bypass-lab">	<img alt="stars" src="https://img.shields.io/github/stars/berraesen/nextjs-middleware-auth-bypass-lab">
 
 ---
 ## CVE-2025-29891 ()
