@@ -2674,6 +2674,7 @@ length to be included in the checksum calculation is fully consumed.
 - [vettrivel007/CVE-2024-49138](https://github.com/vettrivel007/CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/vettrivel007/CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/vettrivel007/CVE-2024-49138">
 - [Zedocun/soc-investigation-powershell-edrfreeze](https://github.com/Zedocun/soc-investigation-powershell-edrfreeze)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/soc-investigation-powershell-edrfreeze">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/soc-investigation-powershell-edrfreeze">
 - [basitsajidapply-stack/SOC-Investigation-CVE-2024-49138](https://github.com/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">
+- [NadineElliottCyber/SOC335-CVE-2024-49138-Investigation](https://github.com/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">
 
 ---
 ## CVE-2024-49113 ()
