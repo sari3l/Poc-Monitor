@@ -268,6 +268,7 @@
 - [watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">
 - [derekpreston81/CVE_ADC_IOC_2026](https://github.com/derekpreston81/CVE_ADC_IOC_2026)	<img alt="forks" src="https://img.shields.io/github/forks/derekpreston81/CVE_ADC_IOC_2026">	<img alt="stars" src="https://img.shields.io/github/stars/derekpreston81/CVE_ADC_IOC_2026">
 - [maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777](https://github.com/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777">
+- [BishopFox/CVE-2026-8452-check](https://github.com/BishopFox/CVE-2026-8452-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-8452-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-8452-check">
 
 ---
 ## CVE-2026-8451 ()
@@ -459,6 +460,7 @@
 ## CVE-2026-76581 ()
 > 
 - [HORKimhab/CVE-2026-76581](https://github.com/HORKimhab/CVE-2026-76581)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-76581">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-76581">
+- [hackersroot/CVE-2026-76581-Detector](https://github.com/hackersroot/CVE-2026-76581-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/hackersroot/CVE-2026-76581-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/hackersroot/CVE-2026-76581-Detector">
 
 ---
 ## CVE-2026-76565 ()
@@ -968,6 +970,11 @@
 ## CVE-2026-67595 ()
 > 
 - [IlhomjonR/CVE-2026-67595](https://github.com/IlhomjonR/CVE-2026-67595)	<img alt="forks" src="https://img.shields.io/github/forks/IlhomjonR/CVE-2026-67595">	<img alt="stars" src="https://img.shields.io/github/stars/IlhomjonR/CVE-2026-67595">
+
+---
+## CVE-2026-67363 ()
+> 
+- [Lulztigre/cve-2026-67363-67364](https://github.com/Lulztigre/cve-2026-67363-67364)	<img alt="forks" src="https://img.shields.io/github/forks/Lulztigre/cve-2026-67363-67364">	<img alt="stars" src="https://img.shields.io/github/stars/Lulztigre/cve-2026-67363-67364">
 
 ---
 ## CVE-2026-67340 ()
@@ -4057,6 +4064,7 @@
 - [aratane/CVE-2026-42945](https://github.com/aratane/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/aratane/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/aratane/CVE-2026-42945">
 - [Kentox493/CVE-2026-42945_NginxRift](https://github.com/Kentox493/CVE-2026-42945_NginxRift)	<img alt="forks" src="https://img.shields.io/github/forks/Kentox493/CVE-2026-42945_NginxRift">	<img alt="stars" src="https://img.shields.io/github/stars/Kentox493/CVE-2026-42945_NginxRift">
 - [CynepMyx/nginx-rift-check](https://github.com/CynepMyx/nginx-rift-check)	<img alt="forks" src="https://img.shields.io/github/forks/CynepMyx/nginx-rift-check">	<img alt="stars" src="https://img.shields.io/github/stars/CynepMyx/nginx-rift-check">
+- [FranklinF25/cve-2026-42945](https://github.com/FranklinF25/cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/FranklinF25/cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/FranklinF25/cve-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
