@@ -135,6 +135,7 @@
 - [CuteeCat/CVE-2026-9198](https://github.com/CuteeCat/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/CuteeCat/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/CuteeCat/CVE-2026-9198">
 - [K3ysTr0K3R/CVE-2026-9198](https://github.com/K3ysTr0K3R/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-9198">
 - [chessalekin/cve-2026-9198_exploit](https://github.com/chessalekin/cve-2026-9198_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/chessalekin/cve-2026-9198_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/chessalekin/cve-2026-9198_exploit">
+- [joaovicdev/EXPLOIT-CVE-2026-9198](https://github.com/joaovicdev/EXPLOIT-CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-9198">
 
 ---
 ## CVE-2026-9147 ()
@@ -7609,6 +7610,7 @@
 > 
 - [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research)	<img alt="forks" src="https://img.shields.io/github/forks/shurikgo/cve-2026-25262-sm8450-research">	<img alt="stars" src="https://img.shields.io/github/stars/shurikgo/cve-2026-25262-sm8450-research">
 - [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research)	<img alt="forks" src="https://img.shields.io/github/forks/shurikgo/cve-2026-25262-sm8450-research">	<img alt="stars" src="https://img.shields.io/github/stars/shurikgo/cve-2026-25262-sm8450-research">
+- [therealfraudman/cve-2026-25262-msm8909-PoC](https://github.com/therealfraudman/cve-2026-25262-msm8909-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/therealfraudman/cve-2026-25262-msm8909-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/therealfraudman/cve-2026-25262-msm8909-PoC">
 
 ---
 ## CVE-2026-25253 ()
@@ -9492,6 +9494,11 @@
 ## CVE-2026-18080 ()
 > 
 - [Polosss/By-Poloss..-..CVE-2026-18080](https://github.com/Polosss/By-Poloss..-..CVE-2026-18080)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-18080">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-18080">
+
+---
+## CVE-2026-1801 ()
+> 
+- [misterdengi/CVE-2026-1801C](https://github.com/misterdengi/CVE-2026-1801C)	<img alt="forks" src="https://img.shields.io/github/forks/misterdengi/CVE-2026-1801C">	<img alt="stars" src="https://img.shields.io/github/stars/misterdengi/CVE-2026-1801C">
 
 ---
 ## CVE-2026-17583 ()
