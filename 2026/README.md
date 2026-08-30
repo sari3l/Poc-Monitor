@@ -319,6 +319,12 @@
 - [BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write](https://github.com/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write">
 
 ---
+## CVE-2026-82222 ()
+> 
+- [dinosn/givewp-cve-2026-82222-rce-lab](https://github.com/dinosn/givewp-cve-2026-82222-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/givewp-cve-2026-82222-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/givewp-cve-2026-82222-rce-lab">
+- [UdinChan/cve-2026-82222-poc](https://github.com/UdinChan/cve-2026-82222-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UdinChan/cve-2026-82222-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UdinChan/cve-2026-82222-poc">
+
+---
 ## CVE-2026-8206 ()
 > 
 - [O99099O/CVE-2026-8206-Poc-](https://github.com/O99099O/CVE-2026-8206-Poc-)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/CVE-2026-8206-Poc-">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/CVE-2026-8206-Poc-">
