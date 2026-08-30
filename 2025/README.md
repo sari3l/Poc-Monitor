@@ -1897,7 +1897,8 @@
 - [0axz-tools/CVE-2025-6440](https://github.com/0axz-tools/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/0axz-tools/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/0axz-tools/CVE-2025-6440">
 - [BastianXploited/CVE-2025-6440](https://github.com/BastianXploited/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2025-6440">
 - [sahmsec/CVE-2025-6440](https://github.com/sahmsec/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2025-6440">
-- [Cyber-DarkNay/CVE-2025-6440](https://github.com/Cyber-DarkNay/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2025-6440">
+- [SangSenimanWartefak/CVE-2025-6440](https://github.com/SangSenimanWartefak/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/SangSenimanWartefak/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/SangSenimanWartefak/CVE-2025-6440">
+- [katranSefa/CVE-2025-6440](https://github.com/katranSefa/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2025-6440">
 
 ---
 ## CVE-2025-64328 ()
