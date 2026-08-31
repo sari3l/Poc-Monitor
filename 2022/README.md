@@ -27540,6 +27540,11 @@ the client's API server credentials to third parties.
 - [Live-Hack-CVE/CVE-2022-2912](https://github.com/Live-Hack-CVE/CVE-2022-2912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2912">
 
 ---
+## CVE-2022-29117 ()
+> 
+- [CharanMv08/cve-2022-29117-assessment](https://github.com/CharanMv08/cve-2022-29117-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/CharanMv08/cve-2022-29117-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/CharanMv08/cve-2022-29117-assessment">
+
+---
 ## CVE-2022-29110 (2022-05-10T21:15:00)
 > Microsoft Excel Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-29109.
 - [Live-Hack-CVE/CVE-2022-29110](https://github.com/Live-Hack-CVE/CVE-2022-29110)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29110">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29110">

@@ -1657,6 +1657,11 @@
 - [RevoCain/CVE-2018-14699](https://github.com/RevoCain/CVE-2018-14699)	<img alt="forks" src="https://img.shields.io/github/forks/RevoCain/CVE-2018-14699">	<img alt="stars" src="https://img.shields.io/github/stars/RevoCain/CVE-2018-14699">
 
 ---
+## CVE-2018-14667 ()
+> 
+- [aitLmalem/CVE-2018-14667_Lab_POC](https://github.com/aitLmalem/CVE-2018-14667_Lab_POC)	<img alt="forks" src="https://img.shields.io/github/forks/aitLmalem/CVE-2018-14667_Lab_POC">	<img alt="stars" src="https://img.shields.io/github/stars/aitLmalem/CVE-2018-14667_Lab_POC">
+
+---
 ## CVE-2018-14550 (2019-07-10T12:15:00)
 > An issue has been found in third-party PNM decoding associated with libpng 1.6.35. It is a stack-based buffer overflow in the function get_token in pnm2png.c in pnm2png.
 - [Live-Hack-CVE/CVE-2018-14550](https://github.com/Live-Hack-CVE/CVE-2018-14550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-14550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-14550">
