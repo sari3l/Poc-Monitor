@@ -401,6 +401,16 @@
 - [ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">
 
 ---
+## CVE-2026-78906 ()
+> 
+- [vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection](https://github.com/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection">
+
+---
+## CVE-2026-78905 ()
+> 
+- [vxssroott/CVE-2026-78905-Facebook-Account-Takeover](https://github.com/vxssroott/CVE-2026-78905-Facebook-Account-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/vxssroott/CVE-2026-78905-Facebook-Account-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/vxssroott/CVE-2026-78905-Facebook-Account-Takeover">
+
+---
 ## CVE-2026-78904 ()
 > 
 - [vxssroott/CVE-2026-78904-Digital-Dinar-Drain](https://github.com/vxssroott/CVE-2026-78904-Digital-Dinar-Drain)	<img alt="forks" src="https://img.shields.io/github/forks/vxssroott/CVE-2026-78904-Digital-Dinar-Drain">	<img alt="stars" src="https://img.shields.io/github/stars/vxssroott/CVE-2026-78904-Digital-Dinar-Drain">
