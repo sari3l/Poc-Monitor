@@ -820,6 +820,11 @@
 - [secdongle/POC_CVE-2025-69194](https://github.com/secdongle/POC_CVE-2025-69194)	<img alt="forks" src="https://img.shields.io/github/forks/secdongle/POC_CVE-2025-69194">	<img alt="stars" src="https://img.shields.io/github/stars/secdongle/POC_CVE-2025-69194">
 
 ---
+## CVE-2025-69080 ()
+> 
+- [AndrielSec/CVE-2025-69080](https://github.com/AndrielSec/CVE-2025-69080)	<img alt="forks" src="https://img.shields.io/github/forks/AndrielSec/CVE-2025-69080">	<img alt="stars" src="https://img.shields.io/github/stars/AndrielSec/CVE-2025-69080">
+
+---
 ## CVE-2025-6907 ()
 > 
 - [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/cve-2025-6907">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/cve-2025-6907">

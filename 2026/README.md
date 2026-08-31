@@ -6746,6 +6746,16 @@
 - [George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch](https://github.com/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch">
 
 ---
+## CVE-2026-30252 ()
+> 
+- [vEnablee/CVE-2026-30252](https://github.com/vEnablee/CVE-2026-30252)	<img alt="forks" src="https://img.shields.io/github/forks/vEnablee/CVE-2026-30252">	<img alt="stars" src="https://img.shields.io/github/stars/vEnablee/CVE-2026-30252">
+
+---
+## CVE-2026-30251 ()
+> 
+- [vEnablee/CVE-2026-30251](https://github.com/vEnablee/CVE-2026-30251)	<img alt="forks" src="https://img.shields.io/github/forks/vEnablee/CVE-2026-30251">	<img alt="stars" src="https://img.shields.io/github/stars/vEnablee/CVE-2026-30251">
+
+---
 ## CVE-2026-30081 ()
 > 
 - [rakeshelamaran98/CVE-2026-30081](https://github.com/rakeshelamaran98/CVE-2026-30081)	<img alt="forks" src="https://img.shields.io/github/forks/rakeshelamaran98/CVE-2026-30081">	<img alt="stars" src="https://img.shields.io/github/stars/rakeshelamaran98/CVE-2026-30081">
