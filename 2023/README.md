@@ -3325,6 +3325,7 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 - [HPT-Intern-Task-Submission/CVE-2023-39361](https://github.com/HPT-Intern-Task-Submission/CVE-2023-39361)	<img alt="forks" src="https://img.shields.io/github/forks/HPT-Intern-Task-Submission/CVE-2023-39361">	<img alt="stars" src="https://img.shields.io/github/stars/HPT-Intern-Task-Submission/CVE-2023-39361">
 - [jc0818/CVE-2023-39361---Cacti-SQL-Injection-PoC](https://github.com/jc0818/CVE-2023-39361---Cacti-SQL-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jc0818/CVE-2023-39361---Cacti-SQL-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jc0818/CVE-2023-39361---Cacti-SQL-Injection-PoC">
 - [ChoDeokCheol/CVE-2023-39361](https://github.com/ChoDeokCheol/CVE-2023-39361)	<img alt="forks" src="https://img.shields.io/github/forks/ChoDeokCheol/CVE-2023-39361">	<img alt="stars" src="https://img.shields.io/github/stars/ChoDeokCheol/CVE-2023-39361">
+- [spartanx-alejandro/cacti-cve-2023-39361](https://github.com/spartanx-alejandro/cacti-cve-2023-39361)	<img alt="forks" src="https://img.shields.io/github/forks/spartanx-alejandro/cacti-cve-2023-39361">	<img alt="stars" src="https://img.shields.io/github/stars/spartanx-alejandro/cacti-cve-2023-39361">
 
 ---
 ## CVE-2023-39320 (2023-09-08T17:15:00)

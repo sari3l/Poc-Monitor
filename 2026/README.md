@@ -1566,6 +1566,11 @@
 - [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737)	<img alt="forks" src="https://img.shields.io/github/forks/loanvui/CVE-2026-62737">	<img alt="stars" src="https://img.shields.io/github/stars/loanvui/CVE-2026-62737">
 
 ---
+## CVE-2026-62735 ()
+> 
+- [nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735)	<img alt="forks" src="https://img.shields.io/github/forks/nhh9905/CVE-2026-62735">	<img alt="stars" src="https://img.shields.io/github/stars/nhh9905/CVE-2026-62735">
+
+---
 ## CVE-2026-6227 ()
 > 
 - [Pixel-DefaultBR/CVE-2026-6227](https://github.com/Pixel-DefaultBR/CVE-2026-6227)	<img alt="forks" src="https://img.shields.io/github/forks/Pixel-DefaultBR/CVE-2026-6227">	<img alt="stars" src="https://img.shields.io/github/stars/Pixel-DefaultBR/CVE-2026-6227">

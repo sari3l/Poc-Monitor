@@ -1660,6 +1660,12 @@
 ## CVE-2018-14667 ()
 > 
 - [aitLmalem/CVE-2018-14667_Lab_POC](https://github.com/aitLmalem/CVE-2018-14667_Lab_POC)	<img alt="forks" src="https://img.shields.io/github/forks/aitLmalem/CVE-2018-14667_Lab_POC">	<img alt="stars" src="https://img.shields.io/github/stars/aitLmalem/CVE-2018-14667_Lab_POC">
+- [Venscor/CVE-2018-14667-poc](https://github.com/Venscor/CVE-2018-14667-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Venscor/CVE-2018-14667-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Venscor/CVE-2018-14667-poc">
+- [quandqn/cve-2018-14667](https://github.com/quandqn/cve-2018-14667)	<img alt="forks" src="https://img.shields.io/github/forks/quandqn/cve-2018-14667">	<img alt="stars" src="https://img.shields.io/github/stars/quandqn/cve-2018-14667">
+- [syriusbughunt/CVE-2018-14667](https://github.com/syriusbughunt/CVE-2018-14667)	<img alt="forks" src="https://img.shields.io/github/forks/syriusbughunt/CVE-2018-14667">	<img alt="stars" src="https://img.shields.io/github/stars/syriusbughunt/CVE-2018-14667">
+- [r00t4dm/CVE-2018-14667](https://github.com/r00t4dm/CVE-2018-14667)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/CVE-2018-14667">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/CVE-2018-14667">
+- [zeroto01/CVE-2018-14667](https://github.com/zeroto01/CVE-2018-14667)	<img alt="forks" src="https://img.shields.io/github/forks/zeroto01/CVE-2018-14667">	<img alt="stars" src="https://img.shields.io/github/stars/zeroto01/CVE-2018-14667">
+- [nareshmail/cve-2018-14667](https://github.com/nareshmail/cve-2018-14667)	<img alt="forks" src="https://img.shields.io/github/forks/nareshmail/cve-2018-14667">	<img alt="stars" src="https://img.shields.io/github/stars/nareshmail/cve-2018-14667">
 
 ---
 ## CVE-2018-14550 (2019-07-10T12:15:00)
