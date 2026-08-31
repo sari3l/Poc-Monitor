@@ -11577,6 +11577,11 @@
 - [vulncheck-oss/cve-2025-0364](https://github.com/vulncheck-oss/cve-2025-0364)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2025-0364">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2025-0364">
 
 ---
+## CVE-2025-0324 ()
+> 
+- [kemrec/CVE-2025-0324-axis-vapix-privesc](https://github.com/kemrec/CVE-2025-0324-axis-vapix-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/kemrec/CVE-2025-0324-axis-vapix-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/kemrec/CVE-2025-0324-axis-vapix-privesc">
+
+---
 ## CVE-2025-0316 ()
 > 
 - [MrPayloadC/CVE-2025-0316-Exploit](https://github.com/MrPayloadC/CVE-2025-0316-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MrPayloadC/CVE-2025-0316-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MrPayloadC/CVE-2025-0316-Exploit">

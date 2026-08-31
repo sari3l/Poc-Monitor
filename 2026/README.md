@@ -5033,6 +5033,11 @@
 - [a1ohadance/CVE-2026-38360](https://github.com/a1ohadance/CVE-2026-38360)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38360">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38360">
 
 ---
+## CVE-2026-38192 ()
+> 
+- [ming1700/CVE-2026-38192](https://github.com/ming1700/CVE-2026-38192)	<img alt="forks" src="https://img.shields.io/github/forks/ming1700/CVE-2026-38192">	<img alt="stars" src="https://img.shields.io/github/stars/ming1700/CVE-2026-38192">
+
+---
 ## CVE-2026-38165 ()
 > 
 - [AT190510-Cuong/CVE-2026-38165-SSTI-](https://github.com/AT190510-Cuong/CVE-2026-38165-SSTI-)	<img alt="forks" src="https://img.shields.io/github/forks/AT190510-Cuong/CVE-2026-38165-SSTI-">	<img alt="stars" src="https://img.shields.io/github/stars/AT190510-Cuong/CVE-2026-38165-SSTI-">
