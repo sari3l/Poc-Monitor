@@ -343,6 +343,11 @@
 - [R0x19/CVE-2026-82222](https://github.com/R0x19/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/R0x19/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/R0x19/CVE-2026-82222">
 
 ---
+## CVE-2026-82221 ()
+> 
+- [gabrielftanaka/CVE-2026-82221](https://github.com/gabrielftanaka/CVE-2026-82221)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielftanaka/CVE-2026-82221">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielftanaka/CVE-2026-82221">
+
+---
 ## CVE-2026-8206 ()
 > 
 - [O99099O/CVE-2026-8206-Poc-](https://github.com/O99099O/CVE-2026-8206-Poc-)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/CVE-2026-8206-Poc-">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/CVE-2026-8206-Poc-">
