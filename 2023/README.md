@@ -1772,6 +1772,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [REGGYRAIDER/CVE-2023-46604-RCE](https://github.com/REGGYRAIDER/CVE-2023-46604-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/REGGYRAIDER/CVE-2023-46604-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/REGGYRAIDER/CVE-2023-46604-RCE">
 - [aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation](https://github.com/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation">
 - [stefanotractor/activemq-cve-2023-46604-lab](https://github.com/stefanotractor/activemq-cve-2023-46604-lab)	<img alt="forks" src="https://img.shields.io/github/forks/stefanotractor/activemq-cve-2023-46604-lab">	<img alt="stars" src="https://img.shields.io/github/stars/stefanotractor/activemq-cve-2023-46604-lab">
+- [Bhanunamikaze/ActiveMQ-CVE-2023-46604](https://github.com/Bhanunamikaze/ActiveMQ-CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/ActiveMQ-CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/ActiveMQ-CVE-2023-46604">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)

@@ -7135,6 +7135,7 @@
 ## CVE-2025-39401 ()
 > 
 - [Nxploited/CVE-2025-39401](https://github.com/Nxploited/CVE-2025-39401)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-39401">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-39401">
+- [katranSefa/CVE-2025-39401](https://github.com/katranSefa/CVE-2025-39401)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2025-39401">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2025-39401">
 
 ---
 ## CVE-2025-3928 ()
@@ -11301,6 +11302,11 @@
 ## CVE-2025-11170 ()
 > 
 - [Nxploited/CVE-2025-11170](https://github.com/Nxploited/CVE-2025-11170)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-11170">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-11170">
+
+---
+## CVE-2025-11142 ()
+> 
+- [kemrec/cve-2025-11142-axis-mediaclip-rce](https://github.com/kemrec/cve-2025-11142-axis-mediaclip-rce)	<img alt="forks" src="https://img.shields.io/github/forks/kemrec/cve-2025-11142-axis-mediaclip-rce">	<img alt="stars" src="https://img.shields.io/github/stars/kemrec/cve-2025-11142-axis-mediaclip-rce">
 
 ---
 ## CVE-2025-11077 ()
