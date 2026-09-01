@@ -329,6 +329,7 @@
 ## CVE-2026-82329 ()
 > 
 - [HORKimhab/CVE-2026-82329](https://github.com/HORKimhab/CVE-2026-82329)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-82329">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-82329">
+- [dinosn/cve-2026-82329-jfrog-artifactory](https://github.com/dinosn/cve-2026-82329-jfrog-artifactory)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-82329-jfrog-artifactory">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-82329-jfrog-artifactory">
 
 ---
 ## CVE-2026-82286 ()
@@ -5911,6 +5912,7 @@
 - [l4st98/CVE-2026-33017-FireFlow](https://github.com/l4st98/CVE-2026-33017-FireFlow)	<img alt="forks" src="https://img.shields.io/github/forks/l4st98/CVE-2026-33017-FireFlow">	<img alt="stars" src="https://img.shields.io/github/stars/l4st98/CVE-2026-33017-FireFlow">
 - [e4zyy/Project-CVE-2026-33017](https://github.com/e4zyy/Project-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/e4zyy/Project-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/e4zyy/Project-CVE-2026-33017">
 - [ahseven/CVE-2026-33017-PoC-Reverse-Shell](https://github.com/ahseven/CVE-2026-33017-PoC-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ahseven/CVE-2026-33017-PoC-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ahseven/CVE-2026-33017-PoC-Reverse-Shell">
+- [maxprog-svg/CVE-2026-33017](https://github.com/maxprog-svg/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-33017">
 
 ---
 ## CVE-2026-3300 ()
@@ -10014,6 +10016,7 @@
 ---
 ## CVE-2026-13753 ()
 > 
+- [typedefabcd1234ntd/CVE-2026-13753-poc](https://github.com/typedefabcd1234ntd/CVE-2026-13753-poc)	<img alt="forks" src="https://img.shields.io/github/forks/typedefabcd1234ntd/CVE-2026-13753-poc">	<img alt="stars" src="https://img.shields.io/github/stars/typedefabcd1234ntd/CVE-2026-13753-poc">
 - [typedefabcd1234ntd/CVE-2026-13753-poc](https://github.com/typedefabcd1234ntd/CVE-2026-13753-poc)	<img alt="forks" src="https://img.shields.io/github/forks/typedefabcd1234ntd/CVE-2026-13753-poc">	<img alt="stars" src="https://img.shields.io/github/stars/typedefabcd1234ntd/CVE-2026-13753-poc">
 
 ---
