@@ -29748,6 +29748,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [bmshema/CVE_PoCs](https://github.com/bmshema/CVE_PoCs)	<img alt="forks" src="https://img.shields.io/github/forks/bmshema/CVE_PoCs">	<img alt="stars" src="https://img.shields.io/github/stars/bmshema/CVE_PoCs">
 - [lst15/pdfkit-cve-2022-25765](https://github.com/lst15/pdfkit-cve-2022-25765)	<img alt="forks" src="https://img.shields.io/github/forks/lst15/pdfkit-cve-2022-25765">	<img alt="stars" src="https://img.shields.io/github/stars/lst15/pdfkit-cve-2022-25765">
 - [Jeanback1/CVE-2022-25765-exploit](https://github.com/Jeanback1/CVE-2022-25765-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2022-25765-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2022-25765-exploit">
+- [innocentx0/CVE-2022-25765](https://github.com/innocentx0/CVE-2022-25765)	<img alt="forks" src="https://img.shields.io/github/forks/innocentx0/CVE-2022-25765">	<img alt="stars" src="https://img.shields.io/github/stars/innocentx0/CVE-2022-25765">
 
 ---
 ## CVE-2022-25761 (2022-08-23T05:15:00)
