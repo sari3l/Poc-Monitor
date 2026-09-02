@@ -4503,6 +4503,7 @@
 - [h3n1s3/React2shell-Research](https://github.com/h3n1s3/React2shell-Research)	<img alt="forks" src="https://img.shields.io/github/forks/h3n1s3/React2shell-Research">	<img alt="stars" src="https://img.shields.io/github/stars/h3n1s3/React2shell-Research">
 - [Mr-Destroyer/CVE-2025-55182](https://github.com/Mr-Destroyer/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Destroyer/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Destroyer/CVE-2025-55182">
 - [UwUGreed/CVE-2025-55182-poc](https://github.com/UwUGreed/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UwUGreed/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UwUGreed/CVE-2025-55182-poc">
+- [ChrisBarack/cve-2025-55182](https://github.com/ChrisBarack/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisBarack/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisBarack/cve-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
@@ -8711,6 +8712,7 @@
 > 
 - [jsecx88/CVE-2025-29009-POC](https://github.com/jsecx88/CVE-2025-29009-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jsecx88/CVE-2025-29009-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jsecx88/CVE-2025-29009-POC">
 - [Nxploited/CVE-2025-29009](https://github.com/Nxploited/CVE-2025-29009)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-29009">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-29009">
+- [katranSefa/CVE-2025-29009](https://github.com/katranSefa/CVE-2025-29009)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2025-29009">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2025-29009">
 
 ---
 ## CVE-2025-28915 ()
