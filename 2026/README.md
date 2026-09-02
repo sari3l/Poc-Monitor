@@ -346,7 +346,7 @@
 ---
 ## CVE-2026-82221 ()
 > 
-- [gabrielftanaka/CVE-2026-82221](https://github.com/gabrielftanaka/CVE-2026-82221)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielftanaka/CVE-2026-82221">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielftanaka/CVE-2026-82221">
+- [gabrielftanaka/CVE-2026-82221-PoC](https://github.com/gabrielftanaka/CVE-2026-82221-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielftanaka/CVE-2026-82221-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielftanaka/CVE-2026-82221-PoC">
 
 ---
 ## CVE-2026-8206 ()
@@ -4769,6 +4769,7 @@
 - [K3ysTr0K3R/CVE-2026-39987](https://github.com/K3ysTr0K3R/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-39987">
 - [dodeepsink/CVE-2026-39987.py](https://github.com/dodeepsink/CVE-2026-39987.py)	<img alt="forks" src="https://img.shields.io/github/forks/dodeepsink/CVE-2026-39987.py">	<img alt="stars" src="https://img.shields.io/github/stars/dodeepsink/CVE-2026-39987.py">
 - [Ghxstsec/CVE-2026-39987](https://github.com/Ghxstsec/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Ghxstsec/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Ghxstsec/CVE-2026-39987">
+- [Clara-M-Grossl/Exploit-Marimo](https://github.com/Clara-M-Grossl/Exploit-Marimo)	<img alt="forks" src="https://img.shields.io/github/forks/Clara-M-Grossl/Exploit-Marimo">	<img alt="stars" src="https://img.shields.io/github/stars/Clara-M-Grossl/Exploit-Marimo">
 
 ---
 ## CVE-2026-39983 ()
