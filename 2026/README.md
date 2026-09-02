@@ -84,6 +84,11 @@
 - [0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/0xmhany/CVE-2026-9645-ScadaBR-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/0xmhany/CVE-2026-9645-ScadaBR-Analysis">
 
 ---
+## CVE-2026-9586 ()
+> 
+- [HORKimhab/CVE-2026-9586](https://github.com/HORKimhab/CVE-2026-9586)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9586">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9586">
+
+---
 ## CVE-2026-9558 ()
 > 
 - [covepseng/cve-2026-9558-poc](https://github.com/covepseng/cve-2026-9558-poc)	<img alt="forks" src="https://img.shields.io/github/forks/covepseng/cve-2026-9558-poc">	<img alt="stars" src="https://img.shields.io/github/stars/covepseng/cve-2026-9558-poc">
@@ -280,6 +285,11 @@
 - [amnsecurity/CVE-2026-8451-CitrixBleed](https://github.com/amnsecurity/CVE-2026-8451-CitrixBleed)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-8451-CitrixBleed">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-8451-CitrixBleed">
 
 ---
+## CVE-2026-84361 ()
+> 
+- [Saku0512/CVE-2026-84361-poc](https://github.com/Saku0512/CVE-2026-84361-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-84361-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-84361-poc">
+
+---
 ## CVE-2026-8389 ()
 > 
 - [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)	<img alt="forks" src="https://img.shields.io/github/forks/crixpwn/CVE-2026-8389">	<img alt="stars" src="https://img.shields.io/github/stars/crixpwn/CVE-2026-8389">
@@ -418,6 +428,11 @@
 - [ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">
 
 ---
+## CVE-2026-7899 ()
+> 
+- [HORKimhab/CVE-2026-7899](https://github.com/HORKimhab/CVE-2026-7899)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-7899">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-7899">
+
+---
 ## CVE-2026-78906 ()
 > 
 - [vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection](https://github.com/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection">
@@ -436,6 +451,11 @@
 ## CVE-2026-78903 ()
 > 
 - [vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds](https://github.com/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds)	<img alt="forks" src="https://img.shields.io/github/forks/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds">	<img alt="stars" src="https://img.shields.io/github/stars/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds">
+
+---
+## CVE-2026-78838 ()
+> 
+- [nabeelmkhan/CVE-2026-78838](https://github.com/nabeelmkhan/CVE-2026-78838)	<img alt="forks" src="https://img.shields.io/github/forks/nabeelmkhan/CVE-2026-78838">	<img alt="stars" src="https://img.shields.io/github/stars/nabeelmkhan/CVE-2026-78838">
 
 ---
 ## CVE-2026-78837 ()
@@ -1839,6 +1859,7 @@
 > 
 - [HORKimhab/CVE-2026-58231](https://github.com/HORKimhab/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-58231">
 - [WildanDeveloper/CVE-2026-58231](https://github.com/WildanDeveloper/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/WildanDeveloper/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/WildanDeveloper/CVE-2026-58231">
+- [SAP-system-update/CVE-2026-58231](https://github.com/SAP-system-update/CVE-2026-58231)	<img alt="forks" src="https://img.shields.io/github/forks/SAP-system-update/CVE-2026-58231">	<img alt="stars" src="https://img.shields.io/github/stars/SAP-system-update/CVE-2026-58231">
 
 ---
 ## CVE-2026-58138 ()
