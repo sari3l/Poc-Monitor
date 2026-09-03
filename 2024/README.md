@@ -9839,6 +9839,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21546 ()
 > 
 - [ajdumanhug/CVE-2024-21546](https://github.com/ajdumanhug/CVE-2024-21546)	<img alt="forks" src="https://img.shields.io/github/forks/ajdumanhug/CVE-2024-21546">	<img alt="stars" src="https://img.shields.io/github/stars/ajdumanhug/CVE-2024-21546">
+- [digitalsurgn/CVE-2024-21546](https://github.com/digitalsurgn/CVE-2024-21546)	<img alt="forks" src="https://img.shields.io/github/forks/digitalsurgn/CVE-2024-21546">	<img alt="stars" src="https://img.shields.io/github/stars/digitalsurgn/CVE-2024-21546">
 
 ---
 ## CVE-2024-21545 ()
