@@ -1839,6 +1839,11 @@
 - [Gutierre0x80/CVE-2026-59827](https://github.com/Gutierre0x80/CVE-2026-59827)	<img alt="forks" src="https://img.shields.io/github/forks/Gutierre0x80/CVE-2026-59827">	<img alt="stars" src="https://img.shields.io/github/stars/Gutierre0x80/CVE-2026-59827">
 
 ---
+## CVE-2026-59822 ()
+> 
+- [HORKimhab/CVE-2026-59822](https://github.com/HORKimhab/CVE-2026-59822)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-59822">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-59822">
+
+---
 ## CVE-2026-59774 ()
 > 
 - [FlowerWitch/CVE-2026-59774_docker](https://github.com/FlowerWitch/CVE-2026-59774_docker)	<img alt="forks" src="https://img.shields.io/github/forks/FlowerWitch/CVE-2026-59774_docker">	<img alt="stars" src="https://img.shields.io/github/stars/FlowerWitch/CVE-2026-59774_docker">
@@ -2827,6 +2832,7 @@
 ## CVE-2026-5006 ()
 > 
 - [tcollins-hashicorp/vault-cve-2026-5006-audit](https://github.com/tcollins-hashicorp/vault-cve-2026-5006-audit)	<img alt="forks" src="https://img.shields.io/github/forks/tcollins-hashicorp/vault-cve-2026-5006-audit">	<img alt="stars" src="https://img.shields.io/github/stars/tcollins-hashicorp/vault-cve-2026-5006-audit">
+- [M4xSec/My-Exploits](https://github.com/M4xSec/My-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/My-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/My-Exploits">
 
 ---
 ## CVE-2026-50055 ()
@@ -4675,6 +4681,11 @@
 ## CVE-2026-40987 ()
 > 
 - [daehyuh/CVE-2026-40987](https://github.com/daehyuh/CVE-2026-40987)	<img alt="forks" src="https://img.shields.io/github/forks/daehyuh/CVE-2026-40987">	<img alt="stars" src="https://img.shields.io/github/stars/daehyuh/CVE-2026-40987">
+
+---
+## CVE-2026-40976 ()
+> 
+- [madebyrokit/CVE-2026-40976-POC](https://github.com/madebyrokit/CVE-2026-40976-POC)	<img alt="forks" src="https://img.shields.io/github/forks/madebyrokit/CVE-2026-40976-POC">	<img alt="stars" src="https://img.shields.io/github/stars/madebyrokit/CVE-2026-40976-POC">
 
 ---
 ## CVE-2026-4092 ()
