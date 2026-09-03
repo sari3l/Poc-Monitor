@@ -1324,6 +1324,7 @@
 ## CVE-2026-65643 ()
 > 
 - [HORKimhab/CVE-2026-65643](https://github.com/HORKimhab/CVE-2026-65643)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-65643">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-65643">
+- [tc4dy/CVE-2026-65643-PoC-Toolkit](https://github.com/tc4dy/CVE-2026-65643-PoC-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-65643-PoC-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-65643-PoC-Toolkit">
 
 ---
 ## CVE-2026-65640 ()
@@ -3219,6 +3220,11 @@
 - [HORKimhab/CVE-2026-48172](https://github.com/HORKimhab/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48172">
 - [retmakarunia/CVE-2026-48172](https://github.com/retmakarunia/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/retmakarunia/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/retmakarunia/CVE-2026-48172">
 - [fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor](https://github.com/fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-48172---LiteSpeed-cPanel-Plugin-Version-Auditor">
+
+---
+## CVE-2026-4813 ()
+> 
+- [Trachinus/CVE-2026-4813](https://github.com/Trachinus/CVE-2026-4813)	<img alt="forks" src="https://img.shields.io/github/forks/Trachinus/CVE-2026-4813">	<img alt="stars" src="https://img.shields.io/github/stars/Trachinus/CVE-2026-4813">
 
 ---
 ## CVE-2026-48095 ()
