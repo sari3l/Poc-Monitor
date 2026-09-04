@@ -265,6 +265,7 @@
 ## CVE-2025-8518 ()
 > 
 - [maestro-ant/Vvveb-CMS-CVE-2025-8518](https://github.com/maestro-ant/Vvveb-CMS-CVE-2025-8518)	<img alt="forks" src="https://img.shields.io/github/forks/maestro-ant/Vvveb-CMS-CVE-2025-8518">	<img alt="stars" src="https://img.shields.io/github/stars/maestro-ant/Vvveb-CMS-CVE-2025-8518">
+- [HORKimhab/CVE-2025-8518](https://github.com/HORKimhab/CVE-2025-8518)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-8518">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-8518">
 
 ---
 ## CVE-2025-8471 ()

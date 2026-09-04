@@ -8001,6 +8001,11 @@
 - [BishopFox/CVE-2026-25075-check](https://github.com/BishopFox/CVE-2026-25075-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-25075-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-25075-check">
 
 ---
+## CVE-2026-25057 ()
+> 
+- [ibrah-m/CVE-2026-25057](https://github.com/ibrah-m/CVE-2026-25057)	<img alt="forks" src="https://img.shields.io/github/forks/ibrah-m/CVE-2026-25057">	<img alt="stars" src="https://img.shields.io/github/stars/ibrah-m/CVE-2026-25057">
+
+---
 ## CVE-2026-25053 ()
 > 
 - [yadhukrishnam/CVE-2026-25053](https://github.com/yadhukrishnam/CVE-2026-25053)	<img alt="forks" src="https://img.shields.io/github/forks/yadhukrishnam/CVE-2026-25053">	<img alt="stars" src="https://img.shields.io/github/stars/yadhukrishnam/CVE-2026-25053">
@@ -8710,6 +8715,8 @@
 - [barrersoftware/opencode-secure](https://github.com/barrersoftware/opencode-secure)	<img alt="forks" src="https://img.shields.io/github/forks/barrersoftware/opencode-secure">	<img alt="stars" src="https://img.shields.io/github/stars/barrersoftware/opencode-secure">
 - [CayberMods/CVE-2026-22812-POC](https://github.com/CayberMods/CVE-2026-22812-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CayberMods/CVE-2026-22812-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CayberMods/CVE-2026-22812-POC">
 - [0xBlackash/CVE-2026-22812](https://github.com/0xBlackash/CVE-2026-22812)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-22812">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-22812">
+- [Hex-Neo/CVE-2026-22812-OpenCode-RCE-exp](https://github.com/Hex-Neo/CVE-2026-22812-OpenCode-RCE-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Hex-Neo/CVE-2026-22812-OpenCode-RCE-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Hex-Neo/CVE-2026-22812-OpenCode-RCE-exp">
+- [HodgeLuke/ai-agent-security-research](https://github.com/HodgeLuke/ai-agent-security-research)	<img alt="forks" src="https://img.shields.io/github/forks/HodgeLuke/ai-agent-security-research">	<img alt="stars" src="https://img.shields.io/github/stars/HodgeLuke/ai-agent-security-research">
 
 ---
 ## CVE-2026-22807 ()
@@ -10608,6 +10615,11 @@
 ## CVE-2026-10187 ()
 > 
 - [passwa11/CVE-2026-10187](https://github.com/passwa11/CVE-2026-10187)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-10187">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-10187">
+
+---
+## CVE-2026-10134 ()
+> 
+- [rmhowe425/POC-CVE-2026-10134](https://github.com/rmhowe425/POC-CVE-2026-10134)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-10134">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-10134">
 
 ---
 ## CVE-2026-10104 ()
