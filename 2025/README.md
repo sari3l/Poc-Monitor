@@ -1142,6 +1142,8 @@
 - [materaj2/exploit_cve_2025_67303](https://github.com/materaj2/exploit_cve_2025_67303)	<img alt="forks" src="https://img.shields.io/github/forks/materaj2/exploit_cve_2025_67303">	<img alt="stars" src="https://img.shields.io/github/stars/materaj2/exploit_cve_2025_67303">
 - [jcaz2378/CVE-2025-67303](https://github.com/jcaz2378/CVE-2025-67303)	<img alt="forks" src="https://img.shields.io/github/forks/jcaz2378/CVE-2025-67303">	<img alt="stars" src="https://img.shields.io/github/stars/jcaz2378/CVE-2025-67303">
 - [1nhann/cm-cve-2025-67303-node](https://github.com/1nhann/cm-cve-2025-67303-node)	<img alt="forks" src="https://img.shields.io/github/forks/1nhann/cm-cve-2025-67303-node">	<img alt="stars" src="https://img.shields.io/github/stars/1nhann/cm-cve-2025-67303-node">
+- [jcaz2378/ComfyUIrce](https://github.com/jcaz2378/ComfyUIrce)	<img alt="forks" src="https://img.shields.io/github/forks/jcaz2378/ComfyUIrce">	<img alt="stars" src="https://img.shields.io/github/stars/jcaz2378/ComfyUIrce">
+- [wcnmwcis/CVE-2026-22777](https://github.com/wcnmwcis/CVE-2026-22777)	<img alt="forks" src="https://img.shields.io/github/forks/wcnmwcis/CVE-2026-22777">	<img alt="stars" src="https://img.shields.io/github/stars/wcnmwcis/CVE-2026-22777">
 
 ---
 ## CVE-2025-67294 ()
