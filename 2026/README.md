@@ -265,6 +265,12 @@
 - [minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508](https://github.com/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508">
 
 ---
+## CVE-2026-85046 ()
+> 
+- [ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine](https://github.com/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine">
+- [HORKimhab/CVE-2026-85046](https://github.com/HORKimhab/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-85046">
+
+---
 ## CVE-2026-8467 ()
 > 
 - [HORKimhab/CVE-2026-8467](https://github.com/HORKimhab/CVE-2026-8467)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8467">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8467">
@@ -326,6 +332,11 @@
 - [aj2108/CVE-2026-8337](https://github.com/aj2108/CVE-2026-8337)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8337">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8337">
 
 ---
+## CVE-2026-82876 ()
+> 
+- [Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass](https://github.com/Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass">
+
+---
 ## CVE-2026-8260 ()
 > 
 - [CryptReaper12/CVE-2026-8260](https://github.com/CryptReaper12/CVE-2026-8260)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-8260">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-8260">
@@ -358,6 +369,7 @@
 - [ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass](https://github.com/ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass">
 - [0xCyp1337/CVE-2026-82329](https://github.com/0xCyp1337/CVE-2026-82329)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-82329">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-82329">
 - [realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py](https://github.com/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py)	<img alt="forks" src="https://img.shields.io/github/forks/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py">	<img alt="stars" src="https://img.shields.io/github/stars/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py">
+- [gagaltotal/CVE-2026-82329-poc](https://github.com/gagaltotal/CVE-2026-82329-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-82329-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-82329-poc">
 
 ---
 ## CVE-2026-82286 ()
@@ -750,6 +762,7 @@
 - [INFOKOM-KI/Zimbra-CVE-2026-73570-Rules](https://github.com/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules)	<img alt="forks" src="https://img.shields.io/github/forks/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules">	<img alt="stars" src="https://img.shields.io/github/stars/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules">
 - [alsyundawy/eradicate-zimbra-malware](https://github.com/alsyundawy/eradicate-zimbra-malware)	<img alt="forks" src="https://img.shields.io/github/forks/alsyundawy/eradicate-zimbra-malware">	<img alt="stars" src="https://img.shields.io/github/stars/alsyundawy/eradicate-zimbra-malware">
 - [byt3l0rd/CVE-2026-73570](https://github.com/byt3l0rd/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/byt3l0rd/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/byt3l0rd/CVE-2026-73570">
+- [dahnutz/zimbra-cve-2026-73570-ir](https://github.com/dahnutz/zimbra-cve-2026-73570-ir)	<img alt="forks" src="https://img.shields.io/github/forks/dahnutz/zimbra-cve-2026-73570-ir">	<img alt="stars" src="https://img.shields.io/github/stars/dahnutz/zimbra-cve-2026-73570-ir">
 
 ---
 ## CVE-2026-73519 ()
@@ -1397,6 +1410,7 @@
 ## CVE-2026-64788 ()
 > 
 - [ByteV0rtex/CVE-2026-64788](https://github.com/ByteV0rtex/CVE-2026-64788)	<img alt="forks" src="https://img.shields.io/github/forks/ByteV0rtex/CVE-2026-64788">	<img alt="stars" src="https://img.shields.io/github/stars/ByteV0rtex/CVE-2026-64788">
+- [AmorCool/iOS26.6-CVE-2026-64788](https://github.com/AmorCool/iOS26.6-CVE-2026-64788)	<img alt="forks" src="https://img.shields.io/github/forks/AmorCool/iOS26.6-CVE-2026-64788">	<img alt="stars" src="https://img.shields.io/github/stars/AmorCool/iOS26.6-CVE-2026-64788">
 
 ---
 ## CVE-2026-64725 ()

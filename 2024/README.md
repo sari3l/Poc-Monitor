@@ -5452,6 +5452,16 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
 
 ---
+## CVE-2024-36058 ()
+> 
+- [hacklantic/CVE-2024-36058](https://github.com/hacklantic/CVE-2024-36058)	<img alt="forks" src="https://img.shields.io/github/forks/hacklantic/CVE-2024-36058">	<img alt="stars" src="https://img.shields.io/github/stars/hacklantic/CVE-2024-36058">
+
+---
+## CVE-2024-36057 ()
+> 
+- [hacklantic/CVE-2024-36057](https://github.com/hacklantic/CVE-2024-36057)	<img alt="forks" src="https://img.shields.io/github/forks/hacklantic/CVE-2024-36057">	<img alt="stars" src="https://img.shields.io/github/stars/hacklantic/CVE-2024-36057">
+
+---
 ## CVE-2024-3605 ()
 > 
 - [RandomRobbieBF/CVE-2024-3605](https://github.com/RandomRobbieBF/CVE-2024-3605)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-3605">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-3605">

@@ -7442,6 +7442,7 @@ If this ACL bypass issue were to be successfully exploited, it potentially could
 - [sangrok-jeon/CVE-2022-42889-Analysis](https://github.com/sangrok-jeon/CVE-2022-42889-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sangrok-jeon/CVE-2022-42889-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sangrok-jeon/CVE-2022-42889-Analysis">
 - [KosmicOwl045/ICT287-CVE-2022-42889](https://github.com/KosmicOwl045/ICT287-CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/KosmicOwl045/ICT287-CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/KosmicOwl045/ICT287-CVE-2022-42889">
 - [Hkaeeeer/CVE-2022-42889](https://github.com/Hkaeeeer/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/Hkaeeeer/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/Hkaeeeer/CVE-2022-42889">
+- [gustanini/CVE-2022-42889-Text4Shell-POC](https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gustanini/CVE-2022-42889-Text4Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gustanini/CVE-2022-42889-Text4Shell-POC">
 
 ---
 ## CVE-2022-4287 (2022-12-21T17:15:00)

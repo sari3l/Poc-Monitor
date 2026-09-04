@@ -7380,6 +7380,11 @@
 - [Eyodav/CVE-2025-34159](https://github.com/Eyodav/CVE-2025-34159)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34159">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34159">
 
 ---
+## CVE-2025-34158 ()
+> 
+- [HORKimhab/CVE-2025-34158-CVE-2020-5741](https://github.com/HORKimhab/CVE-2025-34158-CVE-2020-5741)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-34158-CVE-2020-5741">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-34158-CVE-2020-5741">
+
+---
 ## CVE-2025-34157 ()
 > 
 - [Eyodav/CVE-2025-34157](https://github.com/Eyodav/CVE-2025-34157)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34157">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34157">
