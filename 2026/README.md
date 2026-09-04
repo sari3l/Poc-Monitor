@@ -496,6 +496,7 @@
 ## CVE-2026-78745 ()
 > 
 - [n0c71v3x/CVE-2026-78745](https://github.com/n0c71v3x/CVE-2026-78745)	<img alt="forks" src="https://img.shields.io/github/forks/n0c71v3x/CVE-2026-78745">	<img alt="stars" src="https://img.shields.io/github/stars/n0c71v3x/CVE-2026-78745">
+- [n0c71v3x/CVE-2026-78745](https://github.com/n0c71v3x/CVE-2026-78745)	<img alt="forks" src="https://img.shields.io/github/forks/n0c71v3x/CVE-2026-78745">	<img alt="stars" src="https://img.shields.io/github/stars/n0c71v3x/CVE-2026-78745">
 
 ---
 ## CVE-2026-78329 ()
@@ -6307,6 +6308,11 @@
 - [cardosource/cve-2026-3180](https://github.com/cardosource/cve-2026-3180)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/cve-2026-3180">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/cve-2026-3180">
 
 ---
+## CVE-2026-31787 ()
+> 
+- [0xAtharv/CVE-2026-31787](https://github.com/0xAtharv/CVE-2026-31787)	<img alt="forks" src="https://img.shields.io/github/forks/0xAtharv/CVE-2026-31787">	<img alt="stars" src="https://img.shields.io/github/stars/0xAtharv/CVE-2026-31787">
+
+---
 ## CVE-2026-31717 ()
 > 
 - [TurtleARM/CVE-2026-31717-KSMBD-Exploit](https://github.com/TurtleARM/CVE-2026-31717-KSMBD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2026-31717-KSMBD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2026-31717-KSMBD-Exploit">
@@ -9517,6 +9523,11 @@
 ## CVE-2026-20217 ()
 > 
 - [securifera/CVE-2026-20217](https://github.com/securifera/CVE-2026-20217)	<img alt="forks" src="https://img.shields.io/github/forks/securifera/CVE-2026-20217">	<img alt="stars" src="https://img.shields.io/github/stars/securifera/CVE-2026-20217">
+
+---
+## CVE-2026-20212 ()
+> 
+- [HORKimhab/CVE-2026-20212](https://github.com/HORKimhab/CVE-2026-20212)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20212">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20212">
 
 ---
 ## CVE-2026-2020 ()
