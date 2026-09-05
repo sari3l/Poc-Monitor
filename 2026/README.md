@@ -522,6 +522,11 @@
 - [n0c71v3x/CVE-2026-78745](https://github.com/n0c71v3x/CVE-2026-78745)	<img alt="forks" src="https://img.shields.io/github/forks/n0c71v3x/CVE-2026-78745">	<img alt="stars" src="https://img.shields.io/github/stars/n0c71v3x/CVE-2026-78745">
 
 ---
+## CVE-2026-7873 ()
+> 
+- [rmhowe425/POC-CVE-2026-7873](https://github.com/rmhowe425/POC-CVE-2026-7873)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-7873">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-7873">
+
+---
 ## CVE-2026-78329 ()
 > 
 - [oscerd/CVE-2026-78329](https://github.com/oscerd/CVE-2026-78329)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78329">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78329">
@@ -7340,6 +7345,12 @@
 - [KimJ6/PoC-Simulator_CVE-2026-27778](https://github.com/KimJ6/PoC-Simulator_CVE-2026-27778)	<img alt="forks" src="https://img.shields.io/github/forks/KimJ6/PoC-Simulator_CVE-2026-27778">	<img alt="stars" src="https://img.shields.io/github/stars/KimJ6/PoC-Simulator_CVE-2026-27778">
 
 ---
+## CVE-2026-27771 ()
+> 
+- [HORKimhab/CVE-2026-27771](https://github.com/HORKimhab/CVE-2026-27771)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-27771">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-27771">
+- [portbuster1337/CVE-2026-27771](https://github.com/portbuster1337/CVE-2026-27771)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-27771">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-27771">
+
+---
 ## CVE-2026-27739 ()
 > 
 - [bankerke/-CVE-2026-27739-poc](https://github.com/bankerke/-CVE-2026-27739-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bankerke/-CVE-2026-27739-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bankerke/-CVE-2026-27739-poc">
@@ -8778,6 +8789,11 @@
 ## CVE-2026-22785 ()
 > 
 - [langbyyi/CVE-2026-22785](https://github.com/langbyyi/CVE-2026-22785)	<img alt="forks" src="https://img.shields.io/github/forks/langbyyi/CVE-2026-22785">	<img alt="stars" src="https://img.shields.io/github/stars/langbyyi/CVE-2026-22785">
+
+---
+## CVE-2026-22778 ()
+> 
+- [joaovicdev/EXPLOIT-CVE-2026-22778](https://github.com/joaovicdev/EXPLOIT-CVE-2026-22778)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-22778">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-22778">
 
 ---
 ## CVE-2026-22747 ()

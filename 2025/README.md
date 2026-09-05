@@ -6816,6 +6816,12 @@
 - [gduma-phData/patch-CVE-2025-42558](https://github.com/gduma-phData/patch-CVE-2025-42558)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-42558">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-42558">
 
 ---
+## CVE-2025-4255 ()
+> 
+- [Tenor-Z/CVE-2025-4255---Buffer-Overflow](https://github.com/Tenor-Z/CVE-2025-4255---Buffer-Overflow)	<img alt="forks" src="https://img.shields.io/github/forks/Tenor-Z/CVE-2025-4255---Buffer-Overflow">	<img alt="stars" src="https://img.shields.io/github/stars/Tenor-Z/CVE-2025-4255---Buffer-Overflow">
+- [gduma-phData/patch-CVE-2025-42558](https://github.com/gduma-phData/patch-CVE-2025-42558)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-42558">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-42558">
+
+---
 ## CVE-2025-422031 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-422031](https://github.com/NotItsSixtyN3in/CVE-2025-422031)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-422031">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-422031">
@@ -7633,6 +7639,7 @@
 - [b0ySie7e/CVE-2025-3248-POC](https://github.com/b0ySie7e/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/CVE-2025-3248-POC">
 - [nebari-playground/langflow-cve-2025-3248](https://github.com/nebari-playground/langflow-cve-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/nebari-playground/langflow-cve-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/nebari-playground/langflow-cve-2025-3248">
 - [hideki233/CVE-2025-3248-Langflow-RCE](https://github.com/hideki233/CVE-2025-3248-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hideki233/CVE-2025-3248-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hideki233/CVE-2025-3248-Langflow-RCE">
+- [LeotheGGman/Langflow-RCE-CVE-2025-3248](https://github.com/LeotheGGman/Langflow-RCE-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/LeotheGGman/Langflow-RCE-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/LeotheGGman/Langflow-RCE-CVE-2025-3248">
 
 ---
 ## CVE-2025-32463 ()
