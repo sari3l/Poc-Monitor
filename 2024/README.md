@@ -10610,6 +10610,7 @@ authentication.   
 ## CVE-2024-12356 ()
 > 
 - [cloudefence/CVE-2024-12356](https://github.com/cloudefence/CVE-2024-12356)	<img alt="forks" src="https://img.shields.io/github/forks/cloudefence/CVE-2024-12356">	<img alt="stars" src="https://img.shields.io/github/stars/cloudefence/CVE-2024-12356">
+- [skraft9/CVE-2024-12356](https://github.com/skraft9/CVE-2024-12356)	<img alt="forks" src="https://img.shields.io/github/forks/skraft9/CVE-2024-12356">	<img alt="stars" src="https://img.shields.io/github/stars/skraft9/CVE-2024-12356">
 
 ---
 ## CVE-2024-12345 ()
