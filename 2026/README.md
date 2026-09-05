@@ -1597,6 +1597,7 @@
 - [BoredHackerBlog/teamcity-CVE-2026-63077-pcap](https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap)	<img alt="forks" src="https://img.shields.io/github/forks/BoredHackerBlog/teamcity-CVE-2026-63077-pcap">	<img alt="stars" src="https://img.shields.io/github/stars/BoredHackerBlog/teamcity-CVE-2026-63077-pcap">
 - [AnggaTechI/CVE-2026-63077](https://github.com/AnggaTechI/CVE-2026-63077)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-63077">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-63077">
 - [0xCyp1337/CVE-2026-63077](https://github.com/0xCyp1337/CVE-2026-63077)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-63077">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-63077">
+- [bakos-sandor-nx/teamcity-cve-2026-63077-remediation](https://github.com/bakos-sandor-nx/teamcity-cve-2026-63077-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/bakos-sandor-nx/teamcity-cve-2026-63077-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/bakos-sandor-nx/teamcity-cve-2026-63077-remediation">
 
 ---
 ## CVE-2026-63072 ()
