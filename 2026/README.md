@@ -279,11 +279,17 @@
 > 
 - [ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine](https://github.com/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine">
 - [HORKimhab/CVE-2026-85046](https://github.com/HORKimhab/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-85046">
+- [adriyansyah-mf/cve-2026-85046-poc](https://github.com/adriyansyah-mf/cve-2026-85046-poc)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-85046-poc">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-85046-poc">
 
 ---
 ## CVE-2026-8467 ()
 > 
 - [HORKimhab/CVE-2026-8467](https://github.com/HORKimhab/CVE-2026-8467)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8467">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8467">
+
+---
+## CVE-2026-84645 ()
+> 
+- [mhtsec/CVE-2026-84645](https://github.com/mhtsec/CVE-2026-84645)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/CVE-2026-84645">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/CVE-2026-84645">
 
 ---
 ## CVE-2026-8461 ()
