@@ -3932,6 +3932,7 @@
 ## CVE-2026-44402 ()
 > 
 - [Virgula0/CVE-2026-44402](https://github.com/Virgula0/CVE-2026-44402)	<img alt="forks" src="https://img.shields.io/github/forks/Virgula0/CVE-2026-44402">	<img alt="stars" src="https://img.shields.io/github/stars/Virgula0/CVE-2026-44402">
+- [0xCyp1337/CVE-2026-44402](https://github.com/0xCyp1337/CVE-2026-44402)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-44402">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-44402">
 
 ---
 ## CVE-2026-44401 ()
@@ -4765,6 +4766,7 @@
 - [tc4dy/CVE-2026-41091-PoC-Exploit](https://github.com/tc4dy/CVE-2026-41091-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-41091-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-41091-PoC-Exploit">
 - [ridhinva/defender-privilege-escalation-scanner](https://github.com/ridhinva/defender-privilege-escalation-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/defender-privilege-escalation-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/defender-privilege-escalation-scanner">
 - [0xBlackash/CVE-2026-41091](https://github.com/0xBlackash/CVE-2026-41091)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41091">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41091">
+- [s4m98/RedSun-](https://github.com/s4m98/RedSun-)	<img alt="forks" src="https://img.shields.io/github/forks/s4m98/RedSun-">	<img alt="stars" src="https://img.shields.io/github/stars/s4m98/RedSun-">
 
 ---
 ## CVE-2026-41089 ()
