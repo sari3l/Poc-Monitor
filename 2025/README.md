@@ -3224,6 +3224,7 @@
 - [Neobee714/CVE-2025-57819-POC](https://github.com/Neobee714/CVE-2025-57819-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Neobee714/CVE-2025-57819-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Neobee714/CVE-2025-57819-POC">
 - [Samik-Parajuli/htb-connected-writeup](https://github.com/Samik-Parajuli/htb-connected-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Samik-Parajuli/htb-connected-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Samik-Parajuli/htb-connected-writeup">
 - [TeteREN/CVE-2025-57819-RCE](https://github.com/TeteREN/CVE-2025-57819-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TeteREN/CVE-2025-57819-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TeteREN/CVE-2025-57819-RCE">
+- [r3vpwnx/CVE-2025-57819](https://github.com/r3vpwnx/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-57819">
 
 ---
 ## CVE-2025-5781 ()

@@ -1439,6 +1439,7 @@
 - [codeb0ssx/CVE-2026-64849-PoC](https://github.com/codeb0ssx/CVE-2026-64849-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-64849-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-64849-PoC">
 - [BiuTrap/CVE-2026-64849](https://github.com/BiuTrap/CVE-2026-64849)	<img alt="forks" src="https://img.shields.io/github/forks/BiuTrap/CVE-2026-64849">	<img alt="stars" src="https://img.shields.io/github/stars/BiuTrap/CVE-2026-64849">
 - [zavisco/CVE-2026-64849.yaml](https://github.com/zavisco/CVE-2026-64849.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/zavisco/CVE-2026-64849.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/zavisco/CVE-2026-64849.yaml">
+- [isaca0315/CVE-2026-64849-poc-lab](https://github.com/isaca0315/CVE-2026-64849-poc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/isaca0315/CVE-2026-64849-poc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/isaca0315/CVE-2026-64849-poc-lab">
 
 ---
 ## CVE-2026-64824 ()
@@ -3912,6 +3913,7 @@
 - [GadaLuBau1337/CVE-2026-44578](https://github.com/GadaLuBau1337/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2026-44578">
 - [BS2010-AirborneTroops/NEXT-SSRF](https://github.com/BS2010-AirborneTroops/NEXT-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/BS2010-AirborneTroops/NEXT-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/BS2010-AirborneTroops/NEXT-SSRF">
 - [lxxexxbxx/CVE-2026-44578](https://github.com/lxxexxbxx/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/lxxexxbxx/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/lxxexxbxx/CVE-2026-44578">
+- [isaca0315/CVE-2026-44578-next-js-ssrf](https://github.com/isaca0315/CVE-2026-44578-next-js-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/isaca0315/CVE-2026-44578-next-js-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/isaca0315/CVE-2026-44578-next-js-ssrf">
 
 ---
 ## CVE-2026-4447 ()
