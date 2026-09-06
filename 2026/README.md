@@ -1756,6 +1756,7 @@
 - [zycoder0day/CVE-2026-6279](https://github.com/zycoder0day/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-6279">
 - [87achrafg-stack/CVE-2026-6279](https://github.com/87achrafg-stack/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-6279">
 - [87achrafg-stack/CVE-2026-6279.py](https://github.com/87achrafg-stack/CVE-2026-6279.py)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-6279.py">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-6279.py">
+- [katranSefa/CVE-2026-6279](https://github.com/katranSefa/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-6279">
 
 ---
 ## CVE-2026-62737 ()
@@ -3012,6 +3013,7 @@
 - [izxci/CVE-2026-49777](https://github.com/izxci/CVE-2026-49777)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49777">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49777">
 - [amnsecurity/CVE-2026-49777-WooCommerce-RCE](https://github.com/amnsecurity/CVE-2026-49777-WooCommerce-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-49777-WooCommerce-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-49777-WooCommerce-RCE">
 - [HORKimhab/CVE-Wordpress](https://github.com/HORKimhab/CVE-Wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-Wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-Wordpress">
+- [katranSefa/CVE-2026-49777](https://github.com/katranSefa/CVE-2026-49777)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-49777">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-49777">
 
 ---
 ## CVE-2026-49772 ()
@@ -9732,6 +9734,7 @@
 ## CVE-2026-19949 ()
 > 
 - [HORKimhab/CVE-2026-19949](https://github.com/HORKimhab/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19949">
+- [katranSefa/CVE-2026-19949](https://github.com/katranSefa/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-19949">
 
 ---
 ## CVE-2026-19912 ()
