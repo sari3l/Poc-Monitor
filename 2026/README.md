@@ -591,6 +591,11 @@
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
 
 ---
+## CVE-2026-77262 ()
+> 
+- [romain-deperne/CVE-2026-77262](https://github.com/romain-deperne/CVE-2026-77262)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-77262">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-77262">
+
+---
 ## CVE-2026-77113 ()
 > 
 - [0xROI/CVE-2026-77113](https://github.com/0xROI/CVE-2026-77113)	<img alt="forks" src="https://img.shields.io/github/forks/0xROI/CVE-2026-77113">	<img alt="stars" src="https://img.shields.io/github/stars/0xROI/CVE-2026-77113">
@@ -5510,6 +5515,11 @@
 ## CVE-2026-36425 ()
 > 
 - [redteamfortress/CVE-2026-36425](https://github.com/redteamfortress/CVE-2026-36425)	<img alt="forks" src="https://img.shields.io/github/forks/redteamfortress/CVE-2026-36425">	<img alt="stars" src="https://img.shields.io/github/stars/redteamfortress/CVE-2026-36425">
+
+---
+## CVE-2026-36392 ()
+> 
+- [moksh-nfsu/CVE-2026-36392](https://github.com/moksh-nfsu/CVE-2026-36392)	<img alt="forks" src="https://img.shields.io/github/forks/moksh-nfsu/CVE-2026-36392">	<img alt="stars" src="https://img.shields.io/github/stars/moksh-nfsu/CVE-2026-36392">
 
 ---
 ## CVE-2026-36358 ()
@@ -10582,6 +10592,11 @@
 ## CVE-2026-1208 ()
 > 
 - [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
+
+---
+## CVE-2026-11991 ()
+> 
+- [0x00phantom-hat/CVE-2026-11991-Exploit](https://github.com/0x00phantom-hat/CVE-2026-11991-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/CVE-2026-11991-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/CVE-2026-11991-Exploit">
 
 ---
 ## CVE-2026-11961 ()

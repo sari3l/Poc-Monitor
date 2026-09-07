@@ -445,6 +445,11 @@ SCM accounting on the io_uring side unnecessary.
 - [FoxyProxys/CVE-2023-52654](https://github.com/FoxyProxys/CVE-2023-52654)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2023-52654">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2023-52654">
 
 ---
+## CVE-2023-52356 ()
+> 
+- [yardenbenita/CVE-2023-52356-libtiff-analysis](https://github.com/yardenbenita/CVE-2023-52356-libtiff-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/yardenbenita/CVE-2023-52356-libtiff-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/yardenbenita/CVE-2023-52356-libtiff-analysis">
+
+---
 ## CVE-2023-52271 ()
 > 
 - [victoni/BYOVD-CVE-2023-52271-POC](https://github.com/victoni/BYOVD-CVE-2023-52271-POC)	<img alt="forks" src="https://img.shields.io/github/forks/victoni/BYOVD-CVE-2023-52271-POC">	<img alt="stars" src="https://img.shields.io/github/stars/victoni/BYOVD-CVE-2023-52271-POC">
