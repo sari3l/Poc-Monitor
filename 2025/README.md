@@ -4520,6 +4520,7 @@
 - [Mr-Destroyer/CVE-2025-55182](https://github.com/Mr-Destroyer/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Destroyer/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Destroyer/CVE-2025-55182">
 - [UwUGreed/CVE-2025-55182-poc](https://github.com/UwUGreed/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UwUGreed/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UwUGreed/CVE-2025-55182-poc">
 - [ChrisBarack/cve-2025-55182](https://github.com/ChrisBarack/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisBarack/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisBarack/cve-2025-55182">
+- [Bluex707/React2Shell-CVE-2025-55182-Exploit](https://github.com/Bluex707/React2Shell-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bluex707/React2Shell-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bluex707/React2Shell-CVE-2025-55182-Exploit">
 
 ---
 ## CVE-2025-55130 ()

@@ -2626,6 +2626,11 @@
 - [vn-lazyming/CVE-2026-52943](https://github.com/vn-lazyming/CVE-2026-52943)	<img alt="forks" src="https://img.shields.io/github/forks/vn-lazyming/CVE-2026-52943">	<img alt="stars" src="https://img.shields.io/github/stars/vn-lazyming/CVE-2026-52943">
 
 ---
+## CVE-2026-52924 ()
+> 
+- [Eliot-code/CVE-2026-52924](https://github.com/Eliot-code/CVE-2026-52924)	<img alt="forks" src="https://img.shields.io/github/forks/Eliot-code/CVE-2026-52924">	<img alt="stars" src="https://img.shields.io/github/stars/Eliot-code/CVE-2026-52924">
+
+---
 ## CVE-2026-52923 ()
 > 
 - [Hari-v542/CVE-2026-52923](https://github.com/Hari-v542/CVE-2026-52923)	<img alt="forks" src="https://img.shields.io/github/forks/Hari-v542/CVE-2026-52923">	<img alt="stars" src="https://img.shields.io/github/stars/Hari-v542/CVE-2026-52923">
