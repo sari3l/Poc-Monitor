@@ -393,6 +393,7 @@
 - [0xCyp1337/CVE-2026-82329](https://github.com/0xCyp1337/CVE-2026-82329)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-82329">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-82329">
 - [realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py](https://github.com/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py)	<img alt="forks" src="https://img.shields.io/github/forks/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py">	<img alt="stars" src="https://img.shields.io/github/stars/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py">
 - [gagaltotal/CVE-2026-82329-poc](https://github.com/gagaltotal/CVE-2026-82329-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-82329-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-82329-poc">
+- [0xTerror/CVE-2026-82329-JFrog-Artifactory-](https://github.com/0xTerror/CVE-2026-82329-JFrog-Artifactory-)	<img alt="forks" src="https://img.shields.io/github/forks/0xTerror/CVE-2026-82329-JFrog-Artifactory-">	<img alt="stars" src="https://img.shields.io/github/stars/0xTerror/CVE-2026-82329-JFrog-Artifactory-">
 
 ---
 ## CVE-2026-82286 ()
@@ -444,6 +445,11 @@
 - [HudzaifahArrantisi/CVE-2026-8181](https://github.com/HudzaifahArrantisi/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/HudzaifahArrantisi/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/HudzaifahArrantisi/CVE-2026-8181">
 - [0xTerror/CVE-2026-8181](https://github.com/0xTerror/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/0xTerror/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/0xTerror/CVE-2026-8181">
 - [byt3l0rd/-CVE-2026-8181](https://github.com/byt3l0rd/-CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/byt3l0rd/-CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/byt3l0rd/-CVE-2026-8181">
+
+---
+## CVE-2026-81780 ()
+> 
+- [0xTerror/CVE-2026-81780-Hash-Form](https://github.com/0xTerror/CVE-2026-81780-Hash-Form)	<img alt="forks" src="https://img.shields.io/github/forks/0xTerror/CVE-2026-81780-Hash-Form">	<img alt="stars" src="https://img.shields.io/github/stars/0xTerror/CVE-2026-81780-Hash-Form">
 
 ---
 ## CVE-2026-8161 ()
@@ -6119,6 +6125,11 @@
 > 
 - [katranSefa/CVE-2026-3326](https://github.com/katranSefa/CVE-2026-3326)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-3326">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-3326">
 - [Boreas37/CVE-2026-33267-PoC](https://github.com/Boreas37/CVE-2026-33267-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-33267-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-33267-PoC">
+
+---
+## CVE-2026-33234 ()
+> 
+- [pavanchow/CVE-2026-33234](https://github.com/pavanchow/CVE-2026-33234)	<img alt="forks" src="https://img.shields.io/github/forks/pavanchow/CVE-2026-33234">	<img alt="stars" src="https://img.shields.io/github/stars/pavanchow/CVE-2026-33234">
 
 ---
 ## CVE-2026-33229 ()
