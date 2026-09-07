@@ -4443,6 +4443,11 @@
 - [0xBlackash/CVE-2026-42569](https://github.com/0xBlackash/CVE-2026-42569)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42569">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42569">
 
 ---
+## CVE-2026-42559 ()
+> 
+- [joaovicdev/CVE-2026-42559](https://github.com/joaovicdev/CVE-2026-42559)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/CVE-2026-42559">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/CVE-2026-42559">
+
+---
 ## CVE-2026-4255 ()
 > 
 - [Ard33/CVE-2026-4255](https://github.com/Ard33/CVE-2026-4255)	<img alt="forks" src="https://img.shields.io/github/forks/Ard33/CVE-2026-4255">	<img alt="stars" src="https://img.shields.io/github/stars/Ard33/CVE-2026-4255">

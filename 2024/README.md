@@ -581,6 +581,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [TheUnknownSoul/CVE-2024-7808](https://github.com/TheUnknownSoul/CVE-2024-7808)	<img alt="forks" src="https://img.shields.io/github/forks/TheUnknownSoul/CVE-2024-7808">	<img alt="stars" src="https://img.shields.io/github/stars/TheUnknownSoul/CVE-2024-7808">
 
 ---
+## CVE-2024-7804 ()
+> 
+- [joaovicdev/CVE-2024-7804](https://github.com/joaovicdev/CVE-2024-7804)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/CVE-2024-7804">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/CVE-2024-7804">
+
+---
 ## CVE-2024-77200 ()
 > 
 - [gduma-phData/patch-CVE-2024-77200](https://github.com/gduma-phData/patch-CVE-2024-77200)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-77200">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-77200">

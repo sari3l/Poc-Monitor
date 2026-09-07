@@ -3226,6 +3226,8 @@
 - [TeteREN/CVE-2025-57819-RCE](https://github.com/TeteREN/CVE-2025-57819-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TeteREN/CVE-2025-57819-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TeteREN/CVE-2025-57819-RCE">
 - [r3vpwnx/CVE-2025-57819](https://github.com/r3vpwnx/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-57819">
 - [r3vpwnx/CVE-2025-57819](https://github.com/r3vpwnx/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-57819">
+- [DiegoRivas1/htb-labs-connected](https://github.com/DiegoRivas1/htb-labs-connected)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoRivas1/htb-labs-connected">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoRivas1/htb-labs-connected">
+- [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
 
 ---
 ## CVE-2025-5781 ()
@@ -8090,6 +8092,7 @@
 - [lekosbelas/sap-0day-CVE-2025-31324](https://github.com/lekosbelas/sap-0day-CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/lekosbelas/sap-0day-CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/lekosbelas/sap-0day-CVE-2025-31324">
 - [harshitvarma05/CVE-2025-31324-Exploits](https://github.com/harshitvarma05/CVE-2025-31324-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/harshitvarma05/CVE-2025-31324-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/harshitvarma05/CVE-2025-31324-Exploits">
 - [aristois913/CVE-2025-31324](https://github.com/aristois913/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/aristois913/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/aristois913/CVE-2025-31324">
+- [HKenzoKimura/CVE-2025-31324](https://github.com/HKenzoKimura/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2025-31324">
 
 ---
 ## CVE-2025-31258 ()
