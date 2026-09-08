@@ -329,6 +329,11 @@
 - [Saku0512/CVE-2026-84361-poc](https://github.com/Saku0512/CVE-2026-84361-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-84361-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-84361-poc">
 
 ---
+## CVE-2026-84118 ()
+> 
+- [SneakyNachos/CVE-2026-84118-who-labeled-the-crit-as-a-high](https://github.com/SneakyNachos/CVE-2026-84118-who-labeled-the-crit-as-a-high)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-84118-who-labeled-the-crit-as-a-high">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-84118-who-labeled-the-crit-as-a-high">
+
+---
 ## CVE-2026-8389 ()
 > 
 - [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)	<img alt="forks" src="https://img.shields.io/github/forks/crixpwn/CVE-2026-8389">	<img alt="stars" src="https://img.shields.io/github/stars/crixpwn/CVE-2026-8389">
@@ -776,6 +781,11 @@
 - [toanln-cov/CVE-2026-74251](https://github.com/toanln-cov/CVE-2026-74251)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-74251">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-74251">
 
 ---
+## CVE-2026-74239 ()
+> 
+- [BomboBombone/CVE-2026-74239](https://github.com/BomboBombone/CVE-2026-74239)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-74239">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-74239">
+
+---
 ## CVE-2026-7401 ()
 > 
 - [Xmyronn/CVE-2026-7401-XSS](https://github.com/Xmyronn/CVE-2026-7401-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7401-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7401-XSS">
@@ -838,6 +848,71 @@
 ## CVE-2026-73519 ()
 > 
 - [squeeze440/CVE-2026-73519-WolfStack-PoC](https://github.com/squeeze440/CVE-2026-73519-WolfStack-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/squeeze440/CVE-2026-73519-WolfStack-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/squeeze440/CVE-2026-73519-WolfStack-PoC">
+
+---
+## CVE-2026-73321 ()
+> 
+- [BomboBombone/CVE-2026-73321](https://github.com/BomboBombone/CVE-2026-73321)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73321">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73321">
+
+---
+## CVE-2026-73320 ()
+> 
+- [BomboBombone/CVE-2026-73320](https://github.com/BomboBombone/CVE-2026-73320)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73320">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73320">
+
+---
+## CVE-2026-73319 ()
+> 
+- [BomboBombone/CVE-2026-73319](https://github.com/BomboBombone/CVE-2026-73319)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73319">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73319">
+
+---
+## CVE-2026-73318 ()
+> 
+- [BomboBombone/CVE-2026-73318](https://github.com/BomboBombone/CVE-2026-73318)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73318">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73318">
+
+---
+## CVE-2026-73317 ()
+> 
+- [BomboBombone/CVE-2026-73317](https://github.com/BomboBombone/CVE-2026-73317)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73317">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73317">
+
+---
+## CVE-2026-73316 ()
+> 
+- [BomboBombone/CVE-2026-73316](https://github.com/BomboBombone/CVE-2026-73316)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73316">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73316">
+
+---
+## CVE-2026-73315 ()
+> 
+- [BomboBombone/CVE-2026-73315](https://github.com/BomboBombone/CVE-2026-73315)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73315">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73315">
+
+---
+## CVE-2026-73314 ()
+> 
+- [BomboBombone/CVE-2026-73314](https://github.com/BomboBombone/CVE-2026-73314)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73314">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73314">
+
+---
+## CVE-2026-73313 ()
+> 
+- [BomboBombone/CVE-2026-73313](https://github.com/BomboBombone/CVE-2026-73313)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73313">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73313">
+
+---
+## CVE-2026-73312 ()
+> 
+- [BomboBombone/CVE-2026-73312](https://github.com/BomboBombone/CVE-2026-73312)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73312">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73312">
+
+---
+## CVE-2026-73311 ()
+> 
+- [BomboBombone/CVE-2026-73311](https://github.com/BomboBombone/CVE-2026-73311)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73311">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73311">
+
+---
+## CVE-2026-73310 ()
+> 
+- [BomboBombone/CVE-2026-73310](https://github.com/BomboBombone/CVE-2026-73310)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73310">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73310">
+
+---
+## CVE-2026-73309 ()
+> 
+- [BomboBombone/CVE-2026-73309](https://github.com/BomboBombone/CVE-2026-73309)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-73309">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-73309">
 
 ---
 ## CVE-2026-73296 ()
@@ -2143,6 +2218,7 @@
 ## CVE-2026-57811 ()
 > 
 - [webshellseo8/CVE-2026-57811-Proof-of-Concept](https://github.com/webshellseo8/CVE-2026-57811-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-57811-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-57811-Proof-of-Concept">
+- [0xCyp1337/CVE-2026-57811](https://github.com/0xCyp1337/CVE-2026-57811)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-57811">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-57811">
 
 ---
 ## CVE-2026-57588 ()

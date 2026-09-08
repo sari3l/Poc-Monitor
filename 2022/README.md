@@ -27886,6 +27886,11 @@ the client's API server credentials to third parties.
 - [Live-Hack-CVE/CVE-2022-28696](https://github.com/Live-Hack-CVE/CVE-2022-28696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28696">
 
 ---
+## CVE-2022-2869 ()
+> 
+- [halahajyahia/CVE-2022-2869-detector](https://github.com/halahajyahia/CVE-2022-2869-detector)	<img alt="forks" src="https://img.shields.io/github/forks/halahajyahia/CVE-2022-2869-detector">	<img alt="stars" src="https://img.shields.io/github/stars/halahajyahia/CVE-2022-2869-detector">
+
+---
 ## CVE-2022-28681 (2022-07-18T19:15:00)
 > This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the deletePages method. By performing actions in JavaScript, an attacker can trigger a read past the end of an allocated object. An attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process. Was ZDI-CAN-16825.
 - [Live-Hack-CVE/CVE-2022-28681](https://github.com/Live-Hack-CVE/CVE-2022-28681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28681">
