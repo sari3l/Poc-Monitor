@@ -470,6 +470,11 @@
 - [George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-](https://github.com/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">
 
 ---
+## CVE-2026-8069 ()
+> 
+- [S1eezer/CVE-2026-8069](https://github.com/S1eezer/CVE-2026-8069)	<img alt="forks" src="https://img.shields.io/github/forks/S1eezer/CVE-2026-8069">	<img alt="stars" src="https://img.shields.io/github/stars/S1eezer/CVE-2026-8069">
+
+---
 ## CVE-2026-8053 ()
 > 
 - [mgiay/CVE-2026-8053-MongoDB](https://github.com/mgiay/CVE-2026-8053-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE-2026-8053-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE-2026-8053-MongoDB">
@@ -870,6 +875,11 @@
 ## CVE-2026-7275 ()
 > 
 - [ExDev994/CVE-2026-7275-moodle](https://github.com/ExDev994/CVE-2026-7275-moodle)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-7275-moodle">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-7275-moodle">
+
+---
+## CVE-2026-72744 ()
+> 
+- [Saku0512/CVE-2026-72744-poc](https://github.com/Saku0512/CVE-2026-72744-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-72744-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-72744-poc">
 
 ---
 ## CVE-2026-7270 ()
@@ -9807,6 +9817,7 @@
 > 
 - [HORKimhab/CVE-2026-19949](https://github.com/HORKimhab/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19949">
 - [katranSefa/CVE-2026-19949](https://github.com/katranSefa/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-19949">
+- [686f6c61/POC-AIOWPM-CVE-2026-19949](https://github.com/686f6c61/POC-AIOWPM-CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-AIOWPM-CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-AIOWPM-CVE-2026-19949">
 
 ---
 ## CVE-2026-19912 ()
