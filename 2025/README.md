@@ -6089,6 +6089,7 @@
 > 
 - [barbaraogmgf/CVE-2025-47981-POC](https://github.com/barbaraogmgf/CVE-2025-47981-POC)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraogmgf/CVE-2025-47981-POC">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraogmgf/CVE-2025-47981-POC">
 - [detectrespondrepeat/CVE-2025-47981](https://github.com/detectrespondrepeat/CVE-2025-47981)	<img alt="forks" src="https://img.shields.io/github/forks/detectrespondrepeat/CVE-2025-47981">	<img alt="stars" src="https://img.shields.io/github/stars/detectrespondrepeat/CVE-2025-47981">
+- [HKenzoKimura/CVE-2025-47981](https://github.com/HKenzoKimura/CVE-2025-47981)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2025-47981">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2025-47981">
 
 ---
 ## CVE-2025-47962 ()
