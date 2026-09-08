@@ -287,6 +287,8 @@
 - [HORKimhab/CVE-2026-85046](https://github.com/HORKimhab/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-85046">
 - [adriyansyah-mf/cve-2026-85046-poc](https://github.com/adriyansyah-mf/cve-2026-85046-poc)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-85046-poc">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-85046-poc">
 - [Eliot-code/CVE-2026-85046](https://github.com/Eliot-code/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/Eliot-code/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/Eliot-code/CVE-2026-85046">
+- [atiilla/CVE-2026-85046](https://github.com/atiilla/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-85046">
+- [SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm](https://github.com/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm">
 
 ---
 ## CVE-2026-8467 ()
@@ -414,6 +416,7 @@
 - [UdinChan/cve-2026-82222-poc](https://github.com/UdinChan/cve-2026-82222-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UdinChan/cve-2026-82222-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UdinChan/cve-2026-82222-poc">
 - [R0x19/CVE-2026-82222](https://github.com/R0x19/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/R0x19/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/R0x19/CVE-2026-82222">
 - [0xCyp1337/CVE-2026-82222-MassExploit](https://github.com/0xCyp1337/CVE-2026-82222-MassExploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-82222-MassExploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-82222-MassExploit">
+- [GhostlyrootB2H/CVE-2026-82222](https://github.com/GhostlyrootB2H/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/GhostlyrootB2H/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/GhostlyrootB2H/CVE-2026-82222">
 
 ---
 ## CVE-2026-82221 ()
@@ -5154,6 +5157,7 @@
 - [Ghxstsec/CVE-2026-39987](https://github.com/Ghxstsec/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Ghxstsec/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Ghxstsec/CVE-2026-39987">
 - [Clara-M-Grossl/Exploit-Marimo](https://github.com/Clara-M-Grossl/Exploit-Marimo)	<img alt="forks" src="https://img.shields.io/github/forks/Clara-M-Grossl/Exploit-Marimo">	<img alt="stars" src="https://img.shields.io/github/stars/Clara-M-Grossl/Exploit-Marimo">
 - [stapat1245/CVE-2026-39987-PoC](https://github.com/stapat1245/CVE-2026-39987-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/stapat1245/CVE-2026-39987-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/stapat1245/CVE-2026-39987-PoC">
+- [Th3Purge/CVE-2026-39987](https://github.com/Th3Purge/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Purge/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Purge/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
@@ -7209,6 +7213,11 @@
 - [vEnablee/CVE-2026-30251](https://github.com/vEnablee/CVE-2026-30251)	<img alt="forks" src="https://img.shields.io/github/forks/vEnablee/CVE-2026-30251">	<img alt="stars" src="https://img.shields.io/github/stars/vEnablee/CVE-2026-30251">
 
 ---
+## CVE-2026-30225 ()
+> 
+- [hackerking24/CVE-2026-30225-OliveTin-RCE](https://github.com/hackerking24/CVE-2026-30225-OliveTin-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hackerking24/CVE-2026-30225-OliveTin-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hackerking24/CVE-2026-30225-OliveTin-RCE">
+
+---
 ## CVE-2026-30081 ()
 > 
 - [rakeshelamaran98/CVE-2026-30081](https://github.com/rakeshelamaran98/CVE-2026-30081)	<img alt="forks" src="https://img.shields.io/github/forks/rakeshelamaran98/CVE-2026-30081">	<img alt="stars" src="https://img.shields.io/github/stars/rakeshelamaran98/CVE-2026-30081">
@@ -7267,6 +7276,11 @@
 > 
 - [Jvr2022/CVE-2026-29786](https://github.com/Jvr2022/CVE-2026-29786)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-29786">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-29786">
 - [Rohitberiwala/NodeJS-Tar-Symlink-Exploit-CVE-2026-29786](https://github.com/Rohitberiwala/NodeJS-Tar-Symlink-Exploit-CVE-2026-29786)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/NodeJS-Tar-Symlink-Exploit-CVE-2026-29786">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/NodeJS-Tar-Symlink-Exploit-CVE-2026-29786">
+
+---
+## CVE-2026-29782 ()
+> 
+- [hackerking24/CVE-2026-29782-OpenSTAManager-RCE](https://github.com/hackerking24/CVE-2026-29782-OpenSTAManager-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hackerking24/CVE-2026-29782-OpenSTAManager-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hackerking24/CVE-2026-29782-OpenSTAManager-RCE">
 
 ---
 ## CVE-2026-29781 ()
