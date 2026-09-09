@@ -322,6 +322,7 @@
 - [9xh4kv/CVE-2025-8110](https://github.com/9xh4kv/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/9xh4kv/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/9xh4kv/CVE-2025-8110">
 - [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 - [r3vpwnx/CVE-2025-8110](https://github.com/r3vpwnx/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-8110">
+- [anxs3c/GhostlinkWriteup](https://github.com/anxs3c/GhostlinkWriteup)	<img alt="forks" src="https://img.shields.io/github/forks/anxs3c/GhostlinkWriteup">	<img alt="stars" src="https://img.shields.io/github/stars/anxs3c/GhostlinkWriteup">
 
 ---
 ## CVE-2025-8088 ()
@@ -3134,6 +3135,7 @@
 - [0xDaeras/Flowise-CVE-2025-58434-Chain-59528](https://github.com/0xDaeras/Flowise-CVE-2025-58434-Chain-59528)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">
 - [00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC](https://github.com/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC">
 - [r3vpwnx/CVE-2025-58434](https://github.com/r3vpwnx/CVE-2025-58434)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-58434">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-58434">
+- [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 
 ---
 ## CVE-2025-5840 ()
