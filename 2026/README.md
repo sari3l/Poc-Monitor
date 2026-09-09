@@ -658,6 +658,11 @@
 - [hackersroot/CVE-2026-76581-Detector](https://github.com/hackersroot/CVE-2026-76581-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/hackersroot/CVE-2026-76581-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/hackersroot/CVE-2026-76581-Detector">
 
 ---
+## CVE-2026-76578 ()
+> 
+- [BrainBob/CVE-2026-76578](https://github.com/BrainBob/CVE-2026-76578)	<img alt="forks" src="https://img.shields.io/github/forks/BrainBob/CVE-2026-76578">	<img alt="stars" src="https://img.shields.io/github/stars/BrainBob/CVE-2026-76578">
+
+---
 ## CVE-2026-76569 ()
 > 
 - [toanln-cov/CVE-2026-76569](https://github.com/toanln-cov/CVE-2026-76569)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-76569">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-76569">

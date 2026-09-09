@@ -251,6 +251,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hackersroot/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hackersroot/CVE-2023-6063-PoC">
 - [Eulex0x/CVE-2023-6063](https://github.com/Eulex0x/CVE-2023-6063)	<img alt="forks" src="https://img.shields.io/github/forks/Eulex0x/CVE-2023-6063">	<img alt="stars" src="https://img.shields.io/github/stars/Eulex0x/CVE-2023-6063">
 - [incommatose/CVE-2023-6063-PoC](https://github.com/incommatose/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/incommatose/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/incommatose/CVE-2023-6063-PoC">
+- [zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln](https://github.com/zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln">
 
 ---
 ## CVE-2023-6036 (2024-02-12T16:15:00)
