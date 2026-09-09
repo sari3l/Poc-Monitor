@@ -3690,6 +3690,7 @@ Allocated by task 6166:
 ## CVE-2024-44625 (2024-11-15T17:15:00)
 > Gogs <=0.13.0 is vulnerable to Directory Traversal via the editFilePost function of internal/route/repo/editor.go.
 - [Fysac/CVE-2024-44625](https://github.com/Fysac/CVE-2024-44625)	<img alt="forks" src="https://img.shields.io/github/forks/Fysac/CVE-2024-44625">	<img alt="stars" src="https://img.shields.io/github/stars/Fysac/CVE-2024-44625">
+- [batj44/CVE-2024-44625-Gogs-RCE-0.13.0](https://github.com/batj44/CVE-2024-44625-Gogs-RCE-0.13.0)	<img alt="forks" src="https://img.shields.io/github/forks/batj44/CVE-2024-44625-Gogs-RCE-0.13.0">	<img alt="stars" src="https://img.shields.io/github/stars/batj44/CVE-2024-44625-Gogs-RCE-0.13.0">
 
 ---
 ## CVE-2024-44623 (2024-09-16T16:15:00)
