@@ -1890,6 +1890,8 @@
 - [Madelleimproved411/wp-to-code](https://github.com/Madelleimproved411/wp-to-code)	<img alt="forks" src="https://img.shields.io/github/forks/Madelleimproved411/wp-to-code">	<img alt="stars" src="https://img.shields.io/github/stars/Madelleimproved411/wp-to-code">
 - [g0d150ne/WP2Shell](https://github.com/g0d150ne/WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/g0d150ne/WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/g0d150ne/WP2Shell">
 - [mhassani97/cve-2026-63030-lab](https://github.com/mhassani97/cve-2026-63030-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mhassani97/cve-2026-63030-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mhassani97/cve-2026-63030-lab">
+- [Sec-Dan/WP2Shell-Scanner](https://github.com/Sec-Dan/WP2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/WP2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/WP2Shell-Scanner">
+- [DeadExpl0it/wp2shell-poc](https://github.com/DeadExpl0it/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/wp2shell-poc">
 
 ---
 ## CVE-2026-62911 ()
@@ -4815,6 +4817,7 @@
 - [lanicer/cve-2026-41940-PoC](https://github.com/lanicer/cve-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lanicer/cve-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lanicer/cve-2026-41940-PoC">
 - [t4xo/CVE-2026-41940](https://github.com/t4xo/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/t4xo/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/t4xo/CVE-2026-41940">
 - [0xgh057r3c0n/CVE-2026-41940](https://github.com/0xgh057r3c0n/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-41940">
+- [Xrzmodz444/cve-2026-41940-PoC-Linux](https://github.com/Xrzmodz444/cve-2026-41940-PoC-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/Xrzmodz444/cve-2026-41940-PoC-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/Xrzmodz444/cve-2026-41940-PoC-Linux">
 
 ---
 ## CVE-2026-41901 ()
