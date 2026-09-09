@@ -10823,6 +10823,7 @@
 ## CVE-2026-11387 ()
 > 
 - [1beelze/CVE-2026-11387](https://github.com/1beelze/CVE-2026-11387)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-11387">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-11387">
+- [abraxas/CVE-2026-11387-WooCommerce-SMS-OTP](https://github.com/abraxas/CVE-2026-11387-WooCommerce-SMS-OTP)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-11387-WooCommerce-SMS-OTP">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-11387-WooCommerce-SMS-OTP">
 
 ---
 ## CVE-2026-11374 ()

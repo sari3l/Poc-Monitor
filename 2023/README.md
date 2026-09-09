@@ -4827,6 +4827,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [Jeanpt/CVE-2023-34468](https://github.com/Jeanpt/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanpt/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanpt/CVE-2023-34468">
 - [spikeyjr/CVE-2023-34468-PoC](https://github.com/spikeyjr/CVE-2023-34468-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/spikeyjr/CVE-2023-34468-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/spikeyjr/CVE-2023-34468-PoC">
 - [ozcanpng/CVE-2023-34468](https://github.com/ozcanpng/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2023-34468">
+- [luiskrnr/HTB_Helix_CVE-2023-34468](https://github.com/luiskrnr/HTB_Helix_CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/luiskrnr/HTB_Helix_CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/luiskrnr/HTB_Helix_CVE-2023-34468">
 
 ---
 ## CVE-2023-34458 (2023-07-13T19:15:00)
