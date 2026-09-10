@@ -36274,6 +36274,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [real-tim-johnston/megaquagga-pentest-report](https://github.com/real-tim-johnston/megaquagga-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/real-tim-johnston/megaquagga-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/real-tim-johnston/megaquagga-pentest-report">
 - [t1ckprivate/CVE-2022-0847-Dirty-Pipe](https://github.com/t1ckprivate/CVE-2022-0847-Dirty-Pipe)	<img alt="forks" src="https://img.shields.io/github/forks/t1ckprivate/CVE-2022-0847-Dirty-Pipe">	<img alt="stars" src="https://img.shields.io/github/stars/t1ckprivate/CVE-2022-0847-Dirty-Pipe">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [vudangducminh/CVE-2022-0847](https://github.com/vudangducminh/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/vudangducminh/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/vudangducminh/CVE-2022-0847">
 
 ---
 ## CVE-2022-0836 (2022-05-09T17:15:00)
