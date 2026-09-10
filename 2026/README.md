@@ -1775,6 +1775,11 @@
 - [rahulreddykarne/CVE-2026-63720-datamodel-code-generator](https://github.com/rahulreddykarne/CVE-2026-63720-datamodel-code-generator)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-63720-datamodel-code-generator">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-63720-datamodel-code-generator">
 
 ---
+## CVE-2026-63642 ()
+> 
+- [hakaioffsec/CVE-2026-63642](https://github.com/hakaioffsec/CVE-2026-63642)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-63642">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-63642">
+
+---
 ## CVE-2026-63621 ()
 > 
 - [oscerd/CVE-2026-63621](https://github.com/oscerd/CVE-2026-63621)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-63621">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-63621">
