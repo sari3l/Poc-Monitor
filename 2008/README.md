@@ -65,6 +65,7 @@
 - [badkeys/debianopenssl](https://github.com/badkeys/debianopenssl)	<img alt="forks" src="https://img.shields.io/github/forks/badkeys/debianopenssl">	<img alt="stars" src="https://img.shields.io/github/stars/badkeys/debianopenssl">
 - [avarx/vulnkeys](https://github.com/avarx/vulnkeys)	<img alt="forks" src="https://img.shields.io/github/forks/avarx/vulnkeys">	<img alt="stars" src="https://img.shields.io/github/stars/avarx/vulnkeys">
 - [g0tmi1k/debian-ssh](https://github.com/g0tmi1k/debian-ssh)	<img alt="forks" src="https://img.shields.io/github/forks/g0tmi1k/debian-ssh">	<img alt="stars" src="https://img.shields.io/github/stars/g0tmi1k/debian-ssh">
+- [ethicbrudhack/CVE-2008-0166-BTC-satoshi-mining-wallets](https://github.com/ethicbrudhack/CVE-2008-0166-BTC-satoshi-mining-wallets)	<img alt="forks" src="https://img.shields.io/github/forks/ethicbrudhack/CVE-2008-0166-BTC-satoshi-mining-wallets">	<img alt="stars" src="https://img.shields.io/github/stars/ethicbrudhack/CVE-2008-0166-BTC-satoshi-mining-wallets">
 
 ---
 ## CVE-2008-0132 (2008-01-08T11:46:00)
