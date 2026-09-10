@@ -2236,6 +2236,7 @@ use after free.
 ## CVE-2019-18394 ()
 > 
 - [andikahilmy/CVE-2019-18394-Openfire-vulnerable](https://github.com/andikahilmy/CVE-2019-18394-Openfire-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-18394-Openfire-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-18394-Openfire-vulnerable">
+- [l0lsec/openfire-ssrf-cve-2019-18394](https://github.com/l0lsec/openfire-ssrf-cve-2019-18394)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/openfire-ssrf-cve-2019-18394">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/openfire-ssrf-cve-2019-18394">
 
 ---
 ## CVE-2019-18393 ()

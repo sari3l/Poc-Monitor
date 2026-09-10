@@ -8876,6 +8876,8 @@
 > 
 - [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-27636-Apache-Camel-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-27636-Apache-Camel-PoC">
 - [enochgitgamefied/CVE-2025-27636-Practical-Lab](https://github.com/enochgitgamefied/CVE-2025-27636-Practical-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/CVE-2025-27636-Practical-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/CVE-2025-27636-Practical-Lab">
+- [AC8999/CVE-2025-27636-RCE-in-Apache-Camel](https://github.com/AC8999/CVE-2025-27636-RCE-in-Apache-Camel)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-27636-RCE-in-Apache-Camel">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-27636-RCE-in-Apache-Camel">
+- [AC8999/CVE-2025-27636-RCE](https://github.com/AC8999/CVE-2025-27636-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-27636-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-27636-RCE">
 
 ---
 ## CVE-2025-2760 ()

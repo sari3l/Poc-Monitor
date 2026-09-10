@@ -616,6 +616,11 @@
 - [Squ1shification/PNGboomer-CVE-2026-77622](https://github.com/Squ1shification/PNGboomer-CVE-2026-77622)	<img alt="forks" src="https://img.shields.io/github/forks/Squ1shification/PNGboomer-CVE-2026-77622">	<img alt="stars" src="https://img.shields.io/github/stars/Squ1shification/PNGboomer-CVE-2026-77622">
 
 ---
+## CVE-2026-77578 ()
+> 
+- [Soskalai/CVE-2026-77578](https://github.com/Soskalai/CVE-2026-77578)	<img alt="forks" src="https://img.shields.io/github/forks/Soskalai/CVE-2026-77578">	<img alt="stars" src="https://img.shields.io/github/stars/Soskalai/CVE-2026-77578">
+
+---
 ## CVE-2026-7731 ()
 > 
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
