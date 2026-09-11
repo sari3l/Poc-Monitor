@@ -10219,6 +10219,12 @@
 - [katranSefa/CVE-2026-18366](https://github.com/katranSefa/CVE-2026-18366)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-18366">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-18366">
 
 ---
+## CVE-2026-18351 ()
+> 
+- [JohenLastGen-JLG/CVE-2026-18351](https://github.com/JohenLastGen-JLG/CVE-2026-18351)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/CVE-2026-18351">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/CVE-2026-18351">
+- [ChiefYoru/Exploit-CVE-2026-18351](https://github.com/ChiefYoru/Exploit-CVE-2026-18351)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/Exploit-CVE-2026-18351">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/Exploit-CVE-2026-18351">
+
+---
 ## CVE-2026-18315 ()
 > 
 - [nastar-id/CVE-2026-18315-PoC](https://github.com/nastar-id/CVE-2026-18315-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nastar-id/CVE-2026-18315-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nastar-id/CVE-2026-18315-PoC">
