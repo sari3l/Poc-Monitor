@@ -254,6 +254,7 @@
 - [MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026](https://github.com/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026)	<img alt="forks" src="https://img.shields.io/github/forks/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026">	<img alt="stars" src="https://img.shields.io/github/stars/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026">
 - [xjghnxhlh/CVE-2017-7921](https://github.com/xjghnxhlh/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/xjghnxhlh/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/xjghnxhlh/CVE-2017-7921">
 - [xjghnxhlh/hikihack](https://github.com/xjghnxhlh/hikihack)	<img alt="forks" src="https://img.shields.io/github/forks/xjghnxhlh/hikihack">	<img alt="stars" src="https://img.shields.io/github/stars/xjghnxhlh/hikihack">
+- [Th3Purge/CVE-2017-7921-Exploit](https://github.com/Th3Purge/CVE-2017-7921-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Purge/CVE-2017-7921-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Purge/CVE-2017-7921-Exploit">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
