@@ -22741,6 +22741,22 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [zeroc00I/CVE-2022-34305](https://github.com/zeroc00I/CVE-2022-34305)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2022-34305">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2022-34305">
 
 ---
+## CVE-2022-34303 ()
+> 
+- [TheMalwareGuardian/CVE-2022-34303](https://github.com/TheMalwareGuardian/CVE-2022-34303)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34303">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34303">
+- [TheMalwareGuardian/CVE-2022-34301](https://github.com/TheMalwareGuardian/CVE-2022-34301)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34301">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34301">
+
+---
+## CVE-2022-34302 ()
+> 
+- [TheMalwareGuardian/CVE-2022-34302](https://github.com/TheMalwareGuardian/CVE-2022-34302)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34302">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34302">
+
+---
+## CVE-2022-34301 ()
+> 
+- [TheMalwareGuardian/CVE-2022-34301](https://github.com/TheMalwareGuardian/CVE-2022-34301)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34301">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34301">
+
+---
 ## CVE-2022-3427 (2022-12-15T19:15:00)
 > The Corner Ad plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 1.0.56. This is due to missing or incorrect nonce validation on its corner_ad_settings_page function. This makes it possible for unauthenticated attackers to trigger the deletion of ads via forged request granted they can trick a site administrator into performing an action such as clicking on a link.
 - [Live-Hack-CVE/CVE-2022-3427](https://github.com/Live-Hack-CVE/CVE-2022-3427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3427">
