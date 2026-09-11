@@ -7205,6 +7205,11 @@
 - [toshithh/CVE-2025-38561](https://github.com/toshithh/CVE-2025-38561)	<img alt="forks" src="https://img.shields.io/github/forks/toshithh/CVE-2025-38561">	<img alt="stars" src="https://img.shields.io/github/stars/toshithh/CVE-2025-38561">
 
 ---
+## CVE-2025-38502 ()
+> 
+- [abraxas/CVE-2025-38502-Linux-LPE](https://github.com/abraxas/CVE-2025-38502-Linux-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2025-38502-Linux-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2025-38502-Linux-LPE">
+
+---
 ## CVE-2025-38352 ()
 > 
 - [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/poc-CVE-2025-38352">
