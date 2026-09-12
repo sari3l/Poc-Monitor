@@ -3395,6 +3395,7 @@
 - [frada321/asdsadsadasdasdsadsad](https://github.com/frada321/asdsadsadasdasdsadsad)	<img alt="forks" src="https://img.shields.io/github/forks/frada321/asdsadsadasdasdsadsad">	<img alt="stars" src="https://img.shields.io/github/stars/frada321/asdsadsadasdasdsadsad">
 - [ExDev994/CVE-2026-49049](https://github.com/ExDev994/CVE-2026-49049)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-49049">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-49049">
 - [Jenderal92/CVE-2026-49049](https://github.com/Jenderal92/CVE-2026-49049)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-49049">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-49049">
+- [MataKucing-OFC/CVE-2026-49049](https://github.com/MataKucing-OFC/CVE-2026-49049)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2026-49049">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2026-49049">
 
 ---
 ## CVE-2026-49048 ()
@@ -4574,6 +4575,7 @@
 > 
 - [grizzzer/CVE-2026-42978-PoC-Research](https://github.com/grizzzer/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/grizzzer/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/grizzzer/CVE-2026-42978-PoC-Research">
 - [SyntaxMethod/CVE-2026-42978-PoC-Research](https://github.com/SyntaxMethod/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/SyntaxMethod/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/SyntaxMethod/CVE-2026-42978-PoC-Research">
+- [ZeroDayEvil/CVE-2026-42978-PoC-Research](https://github.com/ZeroDayEvil/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-42978-PoC-Research">
 
 ---
 ## CVE-2026-42945 ()
@@ -9523,6 +9525,7 @@
 - [Fomovet/cve-2026-21858](https://github.com/Fomovet/cve-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2026-21858">
 - [qianlijaingshan/n8n-cve-2026-21858](https://github.com/qianlijaingshan/n8n-cve-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/qianlijaingshan/n8n-cve-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/qianlijaingshan/n8n-cve-2026-21858">
 - [Giangdurian/CVE-2026-21858-and-CVE-2025-68613](https://github.com/Giangdurian/CVE-2026-21858-and-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">
+- [ZeroDayEvil/CVE-2026-21858-n8n-FullChain](https://github.com/ZeroDayEvil/CVE-2026-21858-n8n-FullChain)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-21858-n8n-FullChain">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-21858-n8n-FullChain">
 
 ---
 ## CVE-2026-21852 ()
