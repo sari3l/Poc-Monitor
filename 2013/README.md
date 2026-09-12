@@ -197,6 +197,7 @@
 - [danghvu/nginx-1.4.0](https://github.com/danghvu/nginx-1.4.0)	<img alt="forks" src="https://img.shields.io/github/forks/danghvu/nginx-1.4.0">	<img alt="stars" src="https://img.shields.io/github/stars/danghvu/nginx-1.4.0">
 - [kitctf/nginxpwn](https://github.com/kitctf/nginxpwn)	<img alt="forks" src="https://img.shields.io/github/forks/kitctf/nginxpwn">	<img alt="stars" src="https://img.shields.io/github/stars/kitctf/nginxpwn">
 - [xiw1ll/CVE-2013-2028_Checker](https://github.com/xiw1ll/CVE-2013-2028_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/xiw1ll/CVE-2013-2028_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/xiw1ll/CVE-2013-2028_Checker">
+- [vanivamshi/CVE-2013-2028-Exploit](https://github.com/vanivamshi/CVE-2013-2028-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/vanivamshi/CVE-2013-2028-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/vanivamshi/CVE-2013-2028-Exploit">
 
 ---
 ## CVE-2013-2010 ()
