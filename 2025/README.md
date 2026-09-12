@@ -9622,6 +9622,8 @@
 - [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
 - [Loufa0/CVE-2025-24813](https://github.com/Loufa0/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Loufa0/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Loufa0/CVE-2025-24813">
 - [Mega-Starmie/tomcat-cve-2025-24813-lab](https://github.com/Mega-Starmie/tomcat-cve-2025-24813-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Mega-Starmie/tomcat-cve-2025-24813-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Mega-Starmie/tomcat-cve-2025-24813-lab">
+- [SebastianMautner/nuclei-CVE-2025-24813](https://github.com/SebastianMautner/nuclei-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/SebastianMautner/nuclei-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/SebastianMautner/nuclei-CVE-2025-24813">
+- [xiaoqiMikko/tomcat85-check](https://github.com/xiaoqiMikko/tomcat85-check)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiMikko/tomcat85-check">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiMikko/tomcat85-check">
 
 ---
 ## CVE-2025-24801 ()
