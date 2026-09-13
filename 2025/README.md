@@ -10790,6 +10790,11 @@
 - [b1gchoi/CVE-2025-14696](https://github.com/b1gchoi/CVE-2025-14696)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-14696">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-14696">
 
 ---
+## CVE-2025-14659 ()
+> 
+- [PeterLinccl/Vulnerability-DLink-CVE-2025-14659](https://github.com/PeterLinccl/Vulnerability-DLink-CVE-2025-14659)	<img alt="forks" src="https://img.shields.io/github/forks/PeterLinccl/Vulnerability-DLink-CVE-2025-14659">	<img alt="stars" src="https://img.shields.io/github/stars/PeterLinccl/Vulnerability-DLink-CVE-2025-14659">
+
+---
 ## CVE-2025-14611 ()
 > 
 - [pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit](https://github.com/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit">

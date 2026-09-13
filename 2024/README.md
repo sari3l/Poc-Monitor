@@ -10205,6 +10205,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [saler-cve/PoC-Exploit-CVE-2024-20467](https://github.com/saler-cve/PoC-Exploit-CVE-2024-20467)	<img alt="forks" src="https://img.shields.io/github/forks/saler-cve/PoC-Exploit-CVE-2024-20467">	<img alt="stars" src="https://img.shields.io/github/stars/saler-cve/PoC-Exploit-CVE-2024-20467">
 
 ---
+## CVE-2024-2044 ()
+> 
+- [hanzzly/CVE-2024-2044](https://github.com/hanzzly/CVE-2024-2044)	<img alt="forks" src="https://img.shields.io/github/forks/hanzzly/CVE-2024-2044">	<img alt="stars" src="https://img.shields.io/github/stars/hanzzly/CVE-2024-2044">
+
+---
 ## CVE-2024-20419 (2024-07-17T17:15:00)
 > A vulnerability in the authentication system of Cisco Smart Software Manager On-Prem (SSM On-Prem) could allow an unauthenticated, remote attacker to change the password of any user, including administrative users.
  This vulnerability is due to improper implementation of the password-change process. An attacker could exploit this vulnerability by sending crafted HTTP requests to an affected device. A successful exploit could allow an attacker to access the web UI or API with the privileges of the compromised user.
