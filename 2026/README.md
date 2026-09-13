@@ -185,6 +185,11 @@
 - [MW-HF/Drupal-CVE-2026-9082](https://github.com/MW-HF/Drupal-CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/MW-HF/Drupal-CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/MW-HF/Drupal-CVE-2026-9082">
 
 ---
+## CVE-2026-90781 ()
+> 
+- [HarshRajSinghania/CVE-2026-90781-alsa-lib-oob](https://github.com/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob">
+
+---
 ## CVE-2026-9067 ()
 > 
 - [Polosss/By-Poloss..-..CVE-2026-9067](https://github.com/Polosss/By-Poloss..-..CVE-2026-9067)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-9067">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-9067">
@@ -311,6 +316,8 @@
 - [ynsmroztas/GitLabSniper](https://github.com/ynsmroztas/GitLabSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/GitLabSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/GitLabSniper">
 - [jithinkrishnanrs/gitlab-cve-2026-85706-ioc](https://github.com/jithinkrishnanrs/gitlab-cve-2026-85706-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/jithinkrishnanrs/gitlab-cve-2026-85706-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/jithinkrishnanrs/gitlab-cve-2026-85706-ioc">
 - [0xlyvio/cve-2026-85706-poc-exploit-gitlab](https://github.com/0xlyvio/cve-2026-85706-poc-exploit-gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/cve-2026-85706-poc-exploit-gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/cve-2026-85706-poc-exploit-gitlab">
+- [brigadeops32/CVE-2026-85706](https://github.com/brigadeops32/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/brigadeops32/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/brigadeops32/CVE-2026-85706">
+- [gagaltotal/CVE-2026-85706-gitlab-poc](https://github.com/gagaltotal/CVE-2026-85706-gitlab-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-85706-gitlab-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-85706-gitlab-poc">
 
 ---
 ## CVE-2026-85649 ()
@@ -8616,6 +8623,7 @@
 ## CVE-2026-24332 ()
 > 
 - [0cqb/CVE-2026-24332](https://github.com/0cqb/CVE-2026-24332)	<img alt="forks" src="https://img.shields.io/github/forks/0cqb/CVE-2026-24332">	<img alt="stars" src="https://img.shields.io/github/stars/0cqb/CVE-2026-24332">
+- [WhiteTPoison100/Discord-CVE-2026-24332-demo](https://github.com/WhiteTPoison100/Discord-CVE-2026-24332-demo)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteTPoison100/Discord-CVE-2026-24332-demo">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteTPoison100/Discord-CVE-2026-24332-demo">
 
 ---
 ## CVE-2026-24306 ()

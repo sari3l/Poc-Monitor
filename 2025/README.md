@@ -9824,6 +9824,11 @@
 - [fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion](https://github.com/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">
 - [Fomovet/cve-2025-24071](https://github.com/Fomovet/cve-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24071">
 - [DAEMON-404/PoC-CVE-2025-24071](https://github.com/DAEMON-404/PoC-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/DAEMON-404/PoC-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/DAEMON-404/PoC-CVE-2025-24071">
+- [buffertrychar/CVE-2025-24071-POC](https://github.com/buffertrychar/CVE-2025-24071-POC)	<img alt="forks" src="https://img.shields.io/github/forks/buffertrychar/CVE-2025-24071-POC">	<img alt="stars" src="https://img.shields.io/github/stars/buffertrychar/CVE-2025-24071-POC">
+- [SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module](https://github.com/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module">
+- [zbs54/Blackash-CVE-2025-24071](https://github.com/zbs54/Blackash-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/zbs54/Blackash-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/zbs54/Blackash-CVE-2025-24071">
+- [ephunter/CVE-2025-24071-Exploit](https://github.com/ephunter/CVE-2025-24071-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ephunter/CVE-2025-24071-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ephunter/CVE-2025-24071-Exploit">
+- [kaIIsyms/CVE-2025-24071](https://github.com/kaIIsyms/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/kaIIsyms/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/kaIIsyms/CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
