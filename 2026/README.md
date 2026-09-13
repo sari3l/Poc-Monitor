@@ -4791,6 +4791,11 @@
 - [Ard33/CVE-2026-4255](https://github.com/Ard33/CVE-2026-4255)	<img alt="forks" src="https://img.shields.io/github/forks/Ard33/CVE-2026-4255">	<img alt="stars" src="https://img.shields.io/github/stars/Ard33/CVE-2026-4255">
 
 ---
+## CVE-2026-42536 ()
+> 
+- [erberkan/CVE-2026-42536-PoC](https://github.com/erberkan/CVE-2026-42536-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/erberkan/CVE-2026-42536-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/erberkan/CVE-2026-42536-PoC">
+
+---
 ## CVE-2026-42533 ()
 > 
 - [0xCyberstan/CVE-2026-42533-Config-Scanner](https://github.com/0xCyberstan/CVE-2026-42533-Config-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-42533-Config-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-42533-Config-Scanner">
