@@ -8089,6 +8089,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-](https://github.com/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-)	<img alt="forks" src="https://img.shields.io/github/forks/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">	<img alt="stars" src="https://img.shields.io/github/stars/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">
 - [swimmmmy/CVE-2024-27198-teamcity-auth-bypass](https://github.com/swimmmmy/CVE-2024-27198-teamcity-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">
 - [kxom9ks/CVE-2024-27198-TeamCity](https://github.com/kxom9ks/CVE-2024-27198-TeamCity)	<img alt="forks" src="https://img.shields.io/github/forks/kxom9ks/CVE-2024-27198-TeamCity">	<img alt="stars" src="https://img.shields.io/github/stars/kxom9ks/CVE-2024-27198-TeamCity">
+- [abiral-timalsina/Cyber-Defenders-lab-](https://github.com/abiral-timalsina/Cyber-Defenders-lab-)	<img alt="forks" src="https://img.shields.io/github/forks/abiral-timalsina/Cyber-Defenders-lab-">	<img alt="stars" src="https://img.shields.io/github/stars/abiral-timalsina/Cyber-Defenders-lab-">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
