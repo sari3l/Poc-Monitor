@@ -7216,6 +7216,7 @@
 - [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/poc-CVE-2025-38352">
 - [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/chronomaly">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/chronomaly">
 - [Crime2/poc-CVE-2025-38352](https://github.com/Crime2/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/Crime2/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/Crime2/poc-CVE-2025-38352">
+- [longwasu/CVE-2025-38352-PoC](https://github.com/longwasu/CVE-2025-38352-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/longwasu/CVE-2025-38352-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/longwasu/CVE-2025-38352-PoC">
 
 ---
 ## CVE-2025-38248 ()
@@ -9820,6 +9821,7 @@
 - [Wind010/CVE-2025-24054_PoC](https://github.com/Wind010/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2025-24054_PoC">
 - [fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion](https://github.com/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/Fsociety-CVE-2025-24071-NTLM-Coercion">
 - [Fomovet/cve-2025-24071](https://github.com/Fomovet/cve-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24071">
+- [DAEMON-404/PoC-CVE-2025-24071](https://github.com/DAEMON-404/PoC-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/DAEMON-404/PoC-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/DAEMON-404/PoC-CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
