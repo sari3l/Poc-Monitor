@@ -10125,6 +10125,7 @@
 - [Sushilsin/CVE-2026-20079](https://github.com/Sushilsin/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20079">
 - [0xBlackash/CVE-2026-20079](https://github.com/0xBlackash/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20079">
 - [CyberAuth/CVE-2026-20079](https://github.com/CyberAuth/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/CyberAuth/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/CyberAuth/CVE-2026-20079">
+- [DiegoArias008/CVE-2026-20079-checker](https://github.com/DiegoArias008/CVE-2026-20079-checker)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoArias008/CVE-2026-20079-checker">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoArias008/CVE-2026-20079-checker">
 
 ---
 ## CVE-2026-2005 ()
