@@ -824,6 +824,8 @@
 - [dinosn/cve-2026-75650-magento-validation-lab](https://github.com/dinosn/cve-2026-75650-magento-validation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-75650-magento-validation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-75650-magento-validation-lab">
 - [disrex-group/stylesmuggler-adobe-patches-mageos](https://github.com/disrex-group/stylesmuggler-adobe-patches-mageos)	<img alt="forks" src="https://img.shields.io/github/forks/disrex-group/stylesmuggler-adobe-patches-mageos">	<img alt="stars" src="https://img.shields.io/github/stars/disrex-group/stylesmuggler-adobe-patches-mageos">
 - [disrex-group/stylesmuggler-adobe-patches](https://github.com/disrex-group/stylesmuggler-adobe-patches)	<img alt="forks" src="https://img.shields.io/github/forks/disrex-group/stylesmuggler-adobe-patches">	<img alt="stars" src="https://img.shields.io/github/stars/disrex-group/stylesmuggler-adobe-patches">
+- [fortbridge/stylesmuggler](https://github.com/fortbridge/stylesmuggler)	<img alt="forks" src="https://img.shields.io/github/forks/fortbridge/stylesmuggler">	<img alt="stars" src="https://img.shields.io/github/stars/fortbridge/stylesmuggler">
+- [jithinkrishnanrs/stylesmuggler-ioc-toolkit](https://github.com/jithinkrishnanrs/stylesmuggler-ioc-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/jithinkrishnanrs/stylesmuggler-ioc-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/jithinkrishnanrs/stylesmuggler-ioc-toolkit">
 
 ---
 ## CVE-2026-75616 ()
