@@ -1188,6 +1188,10 @@
 - [sourcegraph/log4j-cve-code-search-resources](https://github.com/sourcegraph/log4j-cve-code-search-resources)	<img alt="forks" src="https://img.shields.io/github/forks/sourcegraph/log4j-cve-code-search-resources">	<img alt="stars" src="https://img.shields.io/github/stars/sourcegraph/log4j-cve-code-search-resources">
 - [probablysecure/Triage-CVE-2021-44228-Log4Shell-Log4j-](https://github.com/probablysecure/Triage-CVE-2021-44228-Log4Shell-Log4j-)	<img alt="forks" src="https://img.shields.io/github/forks/probablysecure/Triage-CVE-2021-44228-Log4Shell-Log4j-">	<img alt="stars" src="https://img.shields.io/github/stars/probablysecure/Triage-CVE-2021-44228-Log4Shell-Log4j-">
 - [rh-rahulshetty/log4shell-CVE-2021-44228](https://github.com/rh-rahulshetty/log4shell-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/rh-rahulshetty/log4shell-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/rh-rahulshetty/log4shell-CVE-2021-44228">
+- [KalidouLabghaly/log4shell-exploitation-detection](https://github.com/KalidouLabghaly/log4shell-exploitation-detection)	<img alt="forks" src="https://img.shields.io/github/forks/KalidouLabghaly/log4shell-exploitation-detection">	<img alt="stars" src="https://img.shields.io/github/stars/KalidouLabghaly/log4shell-exploitation-detection">
+- [Wafeeq-Fareed/log4shell-exploitation-lab](https://github.com/Wafeeq-Fareed/log4shell-exploitation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Wafeeq-Fareed/log4shell-exploitation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Wafeeq-Fareed/log4shell-exploitation-lab">
+- [14free/log4j2-vuln-lab](https://github.com/14free/log4j2-vuln-lab)	<img alt="forks" src="https://img.shields.io/github/forks/14free/log4j2-vuln-lab">	<img alt="stars" src="https://img.shields.io/github/stars/14free/log4j2-vuln-lab">
+- [Vaibhav91one/log4shell-cve-lab](https://github.com/Vaibhav91one/log4shell-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/log4shell-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/log4shell-cve-lab">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -3510,6 +3514,7 @@
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 - [iurhfiu6/CVE-2021-4034](https://github.com/iurhfiu6/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/iurhfiu6/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/iurhfiu6/CVE-2021-4034">
+- [r00t-byte/Pwnkit-CVE-2021-4034-LPE](https://github.com/r00t-byte/Pwnkit-CVE-2021-4034-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/r00t-byte/Pwnkit-CVE-2021-4034-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/r00t-byte/Pwnkit-CVE-2021-4034-LPE">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)

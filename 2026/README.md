@@ -225,6 +225,11 @@
 - [Faceless0x7/CVE-2026-89012](https://github.com/Faceless0x7/CVE-2026-89012)	<img alt="forks" src="https://img.shields.io/github/forks/Faceless0x7/CVE-2026-89012">	<img alt="stars" src="https://img.shields.io/github/stars/Faceless0x7/CVE-2026-89012">
 
 ---
+## CVE-2026-88899 ()
+> 
+- [uziii2208/CVE-2026-88899](https://github.com/uziii2208/CVE-2026-88899)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2026-88899">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2026-88899">
+
+---
 ## CVE-2026-8888 ()
 > 
 - [George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP](https://github.com/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP">
@@ -294,6 +299,11 @@
 ## CVE-2026-86547 ()
 > 
 - [HarshRajSinghania/cve-2026-86547-mrubyc-op-enter](https://github.com/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter">
+
+---
+## CVE-2026-86259 ()
+> 
+- [uziii2208/CVE-2026-86259](https://github.com/uziii2208/CVE-2026-86259)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2026-86259">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2026-86259">
 
 ---
 ## CVE-2026-86218 ()
@@ -2232,6 +2242,7 @@
 - [fevar54/cve-2026-60004](https://github.com/fevar54/cve-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/cve-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/cve-2026-60004">
 - [InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC](https://github.com/InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC">
 - [InfoSec-DB/CVE-2026-60004-Gitea-Validator](https://github.com/InfoSec-DB/CVE-2026-60004-Gitea-Validator)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec-DB/CVE-2026-60004-Gitea-Validator">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec-DB/CVE-2026-60004-Gitea-Validator">
+- [erberkan/CVE-2026-60004-PoC](https://github.com/erberkan/CVE-2026-60004-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/erberkan/CVE-2026-60004-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/erberkan/CVE-2026-60004-PoC">
 
 ---
 ## CVE-2026-59941 ()
@@ -2951,6 +2962,7 @@
 ## CVE-2026-52910 ()
 > 
 - [yolkfull/cve-2026-52910-poc](https://github.com/yolkfull/cve-2026-52910-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yolkfull/cve-2026-52910-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yolkfull/cve-2026-52910-poc">
+- [Dere3046/ScreenOff](https://github.com/Dere3046/ScreenOff)	<img alt="forks" src="https://img.shields.io/github/forks/Dere3046/ScreenOff">	<img alt="stars" src="https://img.shields.io/github/stars/Dere3046/ScreenOff">
 
 ---
 ## CVE-2026-52887 ()
@@ -4571,6 +4583,7 @@
 - [accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup](https://github.com/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup">
 - [newazbenalam/Root-My-Galaxy-Payloads](https://github.com/newazbenalam/Root-My-Galaxy-Payloads)	<img alt="forks" src="https://img.shields.io/github/forks/newazbenalam/Root-My-Galaxy-Payloads">	<img alt="stars" src="https://img.shields.io/github/stars/newazbenalam/Root-My-Galaxy-Payloads">
 - [genksome/ghost-hoock](https://github.com/genksome/ghost-hoock)	<img alt="forks" src="https://img.shields.io/github/forks/genksome/ghost-hoock">	<img alt="stars" src="https://img.shields.io/github/stars/genksome/ghost-hoock">
+- [ymh001/meizu21-ghostlock-root](https://github.com/ymh001/meizu21-ghostlock-root)	<img alt="forks" src="https://img.shields.io/github/forks/ymh001/meizu21-ghostlock-root">	<img alt="stars" src="https://img.shields.io/github/stars/ymh001/meizu21-ghostlock-root">
 
 ---
 ## CVE-2026-43494 ()
@@ -6822,6 +6835,7 @@
 ## CVE-2026-31694 ()
 > 
 - [0xCyberstan/CVE-2026-31694-POC](https://github.com/0xCyberstan/CVE-2026-31694-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-31694-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-31694-POC">
+- [zenzue/CVE_2026_31694](https://github.com/zenzue/CVE_2026_31694)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE_2026_31694">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE_2026_31694">
 
 ---
 ## CVE-2026-31635 ()
