@@ -2097,6 +2097,11 @@
 - [Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR](https://github.com/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">
 
 ---
+## CVE-2026-61797 ()
+> 
+- [itres-labs/CVE-2026-61797](https://github.com/itres-labs/CVE-2026-61797)	<img alt="forks" src="https://img.shields.io/github/forks/itres-labs/CVE-2026-61797">	<img alt="stars" src="https://img.shields.io/github/stars/itres-labs/CVE-2026-61797">
+
+---
 ## CVE-2026-61511 ()
 > 
 - [HORKimhab/CVE-2026-61511](https://github.com/HORKimhab/CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-61511">
@@ -6582,6 +6587,7 @@
 - [ahseven/CVE-2026-33017-PoC-Reverse-Shell](https://github.com/ahseven/CVE-2026-33017-PoC-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ahseven/CVE-2026-33017-PoC-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ahseven/CVE-2026-33017-PoC-Reverse-Shell">
 - [maxprog-svg/CVE-2026-33017](https://github.com/maxprog-svg/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-33017">
 - [MaximilianoMeyer/CVE-2026-33017](https://github.com/MaximilianoMeyer/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/MaximilianoMeyer/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/MaximilianoMeyer/CVE-2026-33017">
+- [Oieua/CVE-2026-33017](https://github.com/Oieua/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Oieua/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Oieua/CVE-2026-33017">
 
 ---
 ## CVE-2026-3300 ()
@@ -8544,7 +8550,7 @@
 ---
 ## CVE-2026-25057 ()
 > 
-- [ibrah-m/CVE-2026-25057](https://github.com/ibrah-m/CVE-2026-25057)	<img alt="forks" src="https://img.shields.io/github/forks/ibrah-m/CVE-2026-25057">	<img alt="stars" src="https://img.shields.io/github/stars/ibrah-m/CVE-2026-25057">
+- [ustr/CVE-2026-25057](https://github.com/ustr/CVE-2026-25057)	<img alt="forks" src="https://img.shields.io/github/forks/ustr/CVE-2026-25057">	<img alt="stars" src="https://img.shields.io/github/stars/ustr/CVE-2026-25057">
 
 ---
 ## CVE-2026-25053 ()
