@@ -558,6 +558,7 @@
 - [rauljvc8/Exploit-Dirty-Cow](https://github.com/rauljvc8/Exploit-Dirty-Cow)	<img alt="forks" src="https://img.shields.io/github/forks/rauljvc8/Exploit-Dirty-Cow">	<img alt="stars" src="https://img.shields.io/github/stars/rauljvc8/Exploit-Dirty-Cow">
 - [Minime794/CVE-2016-5195](https://github.com/Minime794/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/Minime794/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/Minime794/CVE-2016-5195">
 - [KongQBin/CVE-2016-5195](https://github.com/KongQBin/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/KongQBin/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/KongQBin/CVE-2016-5195">
+- [vudangducminh/CVE-2016-5195](https://github.com/vudangducminh/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/vudangducminh/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/vudangducminh/CVE-2016-5195">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)

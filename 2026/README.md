@@ -325,6 +325,7 @@
 - [gagaltotal/CVE-2026-85706-gitlab-poc](https://github.com/gagaltotal/CVE-2026-85706-gitlab-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-85706-gitlab-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-85706-gitlab-poc">
 - [plur1bu5/gitread](https://github.com/plur1bu5/gitread)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/gitread">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/gitread">
 - [gabrielunknown/CVE-2026-85706](https://github.com/gabrielunknown/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielunknown/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielunknown/CVE-2026-85706">
+- [0xenesbayram/cve-2026-85706](https://github.com/0xenesbayram/cve-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/0xenesbayram/cve-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/0xenesbayram/cve-2026-85706">
 
 ---
 ## CVE-2026-85649 ()
@@ -1090,6 +1091,7 @@
 - [Franc-Zar/CVE-2026-72898-safe-detection](https://github.com/Franc-Zar/CVE-2026-72898-safe-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Franc-Zar/CVE-2026-72898-safe-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Franc-Zar/CVE-2026-72898-safe-detection">
 - [d-maggipinto/CVE-2026-72898-metabase-sqli](https://github.com/d-maggipinto/CVE-2026-72898-metabase-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/d-maggipinto/CVE-2026-72898-metabase-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/d-maggipinto/CVE-2026-72898-metabase-sqli">
 - [EQSTLab/CVE-2026-72898](https://github.com/EQSTLab/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-72898">
+- [34zY/CVE-2026-72898](https://github.com/34zY/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2026-72898">
 
 ---
 ## CVE-2026-72815 ()
@@ -2946,6 +2948,11 @@
 - [Hari-v542/CVE-2026-52923](https://github.com/Hari-v542/CVE-2026-52923)	<img alt="forks" src="https://img.shields.io/github/forks/Hari-v542/CVE-2026-52923">	<img alt="stars" src="https://img.shields.io/github/stars/Hari-v542/CVE-2026-52923">
 
 ---
+## CVE-2026-52910 ()
+> 
+- [yolkfull/cve-2026-52910-poc](https://github.com/yolkfull/cve-2026-52910-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yolkfull/cve-2026-52910-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yolkfull/cve-2026-52910-poc">
+
+---
 ## CVE-2026-52887 ()
 > 
 - [BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE](https://github.com/BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE">
@@ -4562,6 +4569,8 @@
 - [zhubaohe123/ghostlock-kit](https://github.com/zhubaohe123/ghostlock-kit)	<img alt="forks" src="https://img.shields.io/github/forks/zhubaohe123/ghostlock-kit">	<img alt="stars" src="https://img.shields.io/github/stars/zhubaohe123/ghostlock-kit">
 - [ccp-p/ghostlock-cve-2026-43499-4.19-k40](https://github.com/ccp-p/ghostlock-cve-2026-43499-4.19-k40)	<img alt="forks" src="https://img.shields.io/github/forks/ccp-p/ghostlock-cve-2026-43499-4.19-k40">	<img alt="stars" src="https://img.shields.io/github/stars/ccp-p/ghostlock-cve-2026-43499-4.19-k40">
 - [accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup](https://github.com/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup">
+- [newazbenalam/Root-My-Galaxy-Payloads](https://github.com/newazbenalam/Root-My-Galaxy-Payloads)	<img alt="forks" src="https://img.shields.io/github/forks/newazbenalam/Root-My-Galaxy-Payloads">	<img alt="stars" src="https://img.shields.io/github/stars/newazbenalam/Root-My-Galaxy-Payloads">
+- [genksome/ghost-hoock](https://github.com/genksome/ghost-hoock)	<img alt="forks" src="https://img.shields.io/github/forks/genksome/ghost-hoock">	<img alt="stars" src="https://img.shields.io/github/stars/genksome/ghost-hoock">
 
 ---
 ## CVE-2026-43494 ()
@@ -5647,6 +5656,7 @@
 - [Resolvdd/CVE-2026-38526-PoC-htb-nexus](https://github.com/Resolvdd/CVE-2026-38526-PoC-htb-nexus)	<img alt="forks" src="https://img.shields.io/github/forks/Resolvdd/CVE-2026-38526-PoC-htb-nexus">	<img alt="stars" src="https://img.shields.io/github/stars/Resolvdd/CVE-2026-38526-PoC-htb-nexus">
 - [Qurclinc/CVE-2026-38526](https://github.com/Qurclinc/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/Qurclinc/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/Qurclinc/CVE-2026-38526">
 - [CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526](https://github.com/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526">
+- [Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-](https://github.com/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-)	<img alt="forks" src="https://img.shields.io/github/forks/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-">	<img alt="stars" src="https://img.shields.io/github/stars/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-">
 
 ---
 ## CVE-2026-3847 ()

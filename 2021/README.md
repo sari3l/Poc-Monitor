@@ -1187,6 +1187,7 @@
 - [sfr0435122531-ui/-log4shell-lab](https://github.com/sfr0435122531-ui/-log4shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/sfr0435122531-ui/-log4shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/sfr0435122531-ui/-log4shell-lab">
 - [sourcegraph/log4j-cve-code-search-resources](https://github.com/sourcegraph/log4j-cve-code-search-resources)	<img alt="forks" src="https://img.shields.io/github/forks/sourcegraph/log4j-cve-code-search-resources">	<img alt="stars" src="https://img.shields.io/github/stars/sourcegraph/log4j-cve-code-search-resources">
 - [probablysecure/Triage-CVE-2021-44228-Log4Shell-Log4j-](https://github.com/probablysecure/Triage-CVE-2021-44228-Log4Shell-Log4j-)	<img alt="forks" src="https://img.shields.io/github/forks/probablysecure/Triage-CVE-2021-44228-Log4Shell-Log4j-">	<img alt="stars" src="https://img.shields.io/github/stars/probablysecure/Triage-CVE-2021-44228-Log4Shell-Log4j-">
+- [rh-rahulshetty/log4shell-CVE-2021-44228](https://github.com/rh-rahulshetty/log4shell-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/rh-rahulshetty/log4shell-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/rh-rahulshetty/log4shell-CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
