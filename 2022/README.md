@@ -10206,6 +10206,11 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [Live-Hack-CVE/CVE-2022-41406](https://github.com/Live-Hack-CVE/CVE-2022-41406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41406">
 
 ---
+## CVE-2022-41404 ()
+> 
+- [fdjy1234/CVE-2022-41404-DoS-Protection](https://github.com/fdjy1234/CVE-2022-41404-DoS-Protection)	<img alt="forks" src="https://img.shields.io/github/forks/fdjy1234/CVE-2022-41404-DoS-Protection">	<img alt="stars" src="https://img.shields.io/github/stars/fdjy1234/CVE-2022-41404-DoS-Protection">
+
+---
 ## CVE-2022-41403 (2022-10-12T18:15:00)
 > OpenCart 3.x Newsletter Custom Popup was discovered to contain a SQL injection vulnerability via the email parameter at index.php?route=extension/module/so_newletter_custom_popup/newsletter.
 - [Live-Hack-CVE/CVE-2022-41403](https://github.com/Live-Hack-CVE/CVE-2022-41403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41403">

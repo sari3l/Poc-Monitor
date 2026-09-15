@@ -1844,6 +1844,7 @@
 - [saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-](https://github.com/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">
 - [DodgeNefoli/CVE-2025-64512](https://github.com/DodgeNefoli/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/DodgeNefoli/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/DodgeNefoli/CVE-2025-64512">
 - [oguzylmzx/CVE-2025-64512-pdfminer-PoC](https://github.com/oguzylmzx/CVE-2025-64512-pdfminer-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oguzylmzx/CVE-2025-64512-pdfminer-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oguzylmzx/CVE-2025-64512-pdfminer-PoC">
+- [Jinook-Kim/CVE-2025-64512_PoC](https://github.com/Jinook-Kim/CVE-2025-64512_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Jinook-Kim/CVE-2025-64512_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Jinook-Kim/CVE-2025-64512_PoC">
 
 ---
 ## CVE-2025-64500 ()
