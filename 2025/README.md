@@ -3793,6 +3793,7 @@
 - [CryptoMachio/CVE-2025-5548](https://github.com/CryptoMachio/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/CryptoMachio/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/CryptoMachio/CVE-2025-5548">
 - [sudoand3rs0n/CVE-2025-5548](https://github.com/sudoand3rs0n/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/sudoand3rs0n/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/sudoand3rs0n/CVE-2025-5548">
 - [VSvalinX/CVE-2025-5548](https://github.com/VSvalinX/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/VSvalinX/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/VSvalinX/CVE-2025-5548">
+- [M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab](https://github.com/M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab">
 
 ---
 ## CVE-2025-55462 ()
@@ -6116,6 +6117,7 @@
 > 
 - [pvharmo2/cve-repro-cve-2025-47928](https://github.com/pvharmo2/cve-repro-cve-2025-47928)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/cve-repro-cve-2025-47928">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/cve-repro-cve-2025-47928">
 - [ghapvharmo/cve-repro-cve-2025-47928](https://github.com/ghapvharmo/cve-repro-cve-2025-47928)	<img alt="forks" src="https://img.shields.io/github/forks/ghapvharmo/cve-repro-cve-2025-47928">	<img alt="stars" src="https://img.shields.io/github/stars/ghapvharmo/cve-repro-cve-2025-47928">
+- [hidayat-tanjung/CVE-2025-47928](https://github.com/hidayat-tanjung/CVE-2025-47928)	<img alt="forks" src="https://img.shields.io/github/forks/hidayat-tanjung/CVE-2025-47928">	<img alt="stars" src="https://img.shields.io/github/stars/hidayat-tanjung/CVE-2025-47928">
 
 ---
 ## CVE-2025-47917 ()
@@ -9629,6 +9631,7 @@
 - [Mega-Starmie/tomcat-cve-2025-24813-lab](https://github.com/Mega-Starmie/tomcat-cve-2025-24813-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Mega-Starmie/tomcat-cve-2025-24813-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Mega-Starmie/tomcat-cve-2025-24813-lab">
 - [SebastianMautner/nuclei-CVE-2025-24813](https://github.com/SebastianMautner/nuclei-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/SebastianMautner/nuclei-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/SebastianMautner/nuclei-CVE-2025-24813">
 - [xiaoqiMikko/tomcat85-check](https://github.com/xiaoqiMikko/tomcat85-check)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiMikko/tomcat85-check">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiMikko/tomcat85-check">
+- [e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
