@@ -283,6 +283,7 @@
 - [byteReaper77/CVE-2025-8191](https://github.com/byteReaper77/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8191">
 - [mayank-s16/Swagger-HTML-Injection-CVE-2025-8191](https://github.com/mayank-s16/Swagger-HTML-Injection-CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/mayank-s16/Swagger-HTML-Injection-CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/mayank-s16/Swagger-HTML-Injection-CVE-2025-8191">
 - [YanC1e/CVE-2025-8191](https://github.com/YanC1e/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/YanC1e/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/YanC1e/CVE-2025-8191">
+- [d154573r-4v3r73d/CVE-2025-8191](https://github.com/d154573r-4v3r73d/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/d154573r-4v3r73d/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/d154573r-4v3r73d/CVE-2025-8191">
 
 ---
 ## CVE-2025-81110 ()
@@ -3786,7 +3787,7 @@
 - [gumbita/cve-2025-5548-freefloat-ftp-walkthrough](https://github.com/gumbita/cve-2025-5548-freefloat-ftp-walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/gumbita/cve-2025-5548-freefloat-ftp-walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/gumbita/cve-2025-5548-freefloat-ftp-walkthrough">
 - [grospomg/CVE-2025-5548-Exploit-Development](https://github.com/grospomg/CVE-2025-5548-Exploit-Development)	<img alt="forks" src="https://img.shields.io/github/forks/grospomg/CVE-2025-5548-Exploit-Development">	<img alt="stars" src="https://img.shields.io/github/stars/grospomg/CVE-2025-5548-Exploit-Development">
 - [JSantos1990/CVE-2025-5548](https://github.com/JSantos1990/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/JSantos1990/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/JSantos1990/CVE-2025-5548">
-- [Alvarosr16/CVE-2025-5548](https://github.com/Alvarosr16/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/Alvarosr16/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/Alvarosr16/CVE-2025-5548">
+- [alvarosr/CVE-2025-5548](https://github.com/alvarosr/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alvarosr/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alvarosr/CVE-2025-5548">
 - [fcamargo13/Analisis_CVE-2025-5548-](https://github.com/fcamargo13/Analisis_CVE-2025-5548-)	<img alt="forks" src="https://img.shields.io/github/forks/fcamargo13/Analisis_CVE-2025-5548-">	<img alt="stars" src="https://img.shields.io/github/stars/fcamargo13/Analisis_CVE-2025-5548-">
 - [greycat-amc/CVE-2025-5548-FreeFloatFTP](https://github.com/greycat-amc/CVE-2025-5548-FreeFloatFTP)	<img alt="forks" src="https://img.shields.io/github/forks/greycat-amc/CVE-2025-5548-FreeFloatFTP">	<img alt="stars" src="https://img.shields.io/github/stars/greycat-amc/CVE-2025-5548-FreeFloatFTP">
 - [greycat-amc/CVE-2025-5548](https://github.com/greycat-amc/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/greycat-amc/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/greycat-amc/CVE-2025-5548">
