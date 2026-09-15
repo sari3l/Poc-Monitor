@@ -1256,6 +1256,11 @@
 - [xxconi/CVE-2026-6960](https://github.com/xxconi/CVE-2026-6960)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6960">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6960">
 
 ---
+## CVE-2026-69328 ()
+> 
+- [0xf9b6a41ec/CVE-2026-69328](https://github.com/0xf9b6a41ec/CVE-2026-69328)	<img alt="forks" src="https://img.shields.io/github/forks/0xf9b6a41ec/CVE-2026-69328">	<img alt="stars" src="https://img.shields.io/github/stars/0xf9b6a41ec/CVE-2026-69328">
+
+---
 ## CVE-2026-69263 ()
 > 
 - [leoelsolh/CVE-2026-69263](https://github.com/leoelsolh/CVE-2026-69263)	<img alt="forks" src="https://img.shields.io/github/forks/leoelsolh/CVE-2026-69263">	<img alt="stars" src="https://img.shields.io/github/stars/leoelsolh/CVE-2026-69263">
