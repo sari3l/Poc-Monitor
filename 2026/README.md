@@ -396,6 +396,11 @@
 - [0xBlackash/CVE-2026-8461](https://github.com/0xBlackash/CVE-2026-8461)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-8461">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-8461">
 
 ---
+## CVE-2026-84600 ()
+> 
+- [OwenPawl/CVE-2026-84600](https://github.com/OwenPawl/CVE-2026-84600)	<img alt="forks" src="https://img.shields.io/github/forks/OwenPawl/CVE-2026-84600">	<img alt="stars" src="https://img.shields.io/github/stars/OwenPawl/CVE-2026-84600">
+
+---
 ## CVE-2026-8452 ()
 > 
 - [watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">
@@ -11047,6 +11052,7 @@
 ## CVE-2026-12944 ()
 > 
 - [cflowsec/CVE-2026-12944](https://github.com/cflowsec/CVE-2026-12944)	<img alt="forks" src="https://img.shields.io/github/forks/cflowsec/CVE-2026-12944">	<img alt="stars" src="https://img.shields.io/github/stars/cflowsec/CVE-2026-12944">
+- [ShadowForge-Cyber/CVE-2026-12944](https://github.com/ShadowForge-Cyber/CVE-2026-12944)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-12944">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-12944">
 
 ---
 ## CVE-2026-12940 ()
