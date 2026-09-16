@@ -378,6 +378,11 @@
 - [mhtsec/CVE-2026-84645](https://github.com/mhtsec/CVE-2026-84645)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/CVE-2026-84645">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/CVE-2026-84645">
 
 ---
+## CVE-2026-84616 ()
+> 
+- [Ping-2o/ios.CVE-2026-84616-84607](https://github.com/Ping-2o/ios.CVE-2026-84616-84607)	<img alt="forks" src="https://img.shields.io/github/forks/Ping-2o/ios.CVE-2026-84616-84607">	<img alt="stars" src="https://img.shields.io/github/stars/Ping-2o/ios.CVE-2026-84616-84607">
+
+---
 ## CVE-2026-8461 ()
 > 
 - [anyanything/CVE-2026-8461-PoC](https://github.com/anyanything/CVE-2026-8461-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/anyanything/CVE-2026-8461-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/anyanything/CVE-2026-8461-PoC">
@@ -581,6 +586,7 @@
 > 
 - [digiprosec/CVE-2026-80428](https://github.com/digiprosec/CVE-2026-80428)	<img alt="forks" src="https://img.shields.io/github/forks/digiprosec/CVE-2026-80428">	<img alt="stars" src="https://img.shields.io/github/stars/digiprosec/CVE-2026-80428">
 - [Zipkoppie/CVE-2026-80428](https://github.com/Zipkoppie/CVE-2026-80428)	<img alt="forks" src="https://img.shields.io/github/forks/Zipkoppie/CVE-2026-80428">	<img alt="stars" src="https://img.shields.io/github/stars/Zipkoppie/CVE-2026-80428">
+- [shivammittal2403/cve-2026-80428-ctf](https://github.com/shivammittal2403/cve-2026-80428-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/shivammittal2403/cve-2026-80428-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/shivammittal2403/cve-2026-80428-ctf">
 
 ---
 ## CVE-2026-8037 ()
@@ -1746,6 +1752,7 @@
 ## CVE-2026-65330 ()
 > 
 - [ByteV0rtex/CVE-2026-65330](https://github.com/ByteV0rtex/CVE-2026-65330)	<img alt="forks" src="https://img.shields.io/github/forks/ByteV0rtex/CVE-2026-65330">	<img alt="stars" src="https://img.shields.io/github/stars/ByteV0rtex/CVE-2026-65330">
+- [csrXamfi/CVE-2026-65330](https://github.com/csrXamfi/CVE-2026-65330)	<img alt="forks" src="https://img.shields.io/github/forks/csrXamfi/CVE-2026-65330">	<img alt="stars" src="https://img.shields.io/github/stars/csrXamfi/CVE-2026-65330">
 
 ---
 ## CVE-2026-65321 ()
@@ -9407,6 +9414,7 @@
 - [amusedx/CVE-2026-22686](https://github.com/amusedx/CVE-2026-22686)	<img alt="forks" src="https://img.shields.io/github/forks/amusedx/CVE-2026-22686">	<img alt="stars" src="https://img.shields.io/github/stars/amusedx/CVE-2026-22686">
 - [0x30c4/enclave-vm-CVE-2026-22686](https://github.com/0x30c4/enclave-vm-CVE-2026-22686)	<img alt="forks" src="https://img.shields.io/github/forks/0x30c4/enclave-vm-CVE-2026-22686">	<img alt="stars" src="https://img.shields.io/github/stars/0x30c4/enclave-vm-CVE-2026-22686">
 - [moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC](https://github.com/moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC">
+- [moi404/CVE-2026-22686-RemoteCodeExecution-RCE-PoC](https://github.com/moi404/CVE-2026-22686-RemoteCodeExecution-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/moi404/CVE-2026-22686-RemoteCodeExecution-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/moi404/CVE-2026-22686-RemoteCodeExecution-RCE-PoC">
 
 ---
 ## CVE-2026-2268 ()

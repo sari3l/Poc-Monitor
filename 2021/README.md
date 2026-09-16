@@ -7216,6 +7216,7 @@
 - [rdana55/CVE-2021-29447-PoC](https://github.com/rdana55/CVE-2021-29447-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/rdana55/CVE-2021-29447-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/rdana55/CVE-2021-29447-PoC">
 - [danilo1992-sys/CVE-2021-29447](https://github.com/danilo1992-sys/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/danilo1992-sys/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/danilo1992-sys/CVE-2021-29447">
 - [DAEMON-404/HTB-Lab-Writeups](https://github.com/DAEMON-404/HTB-Lab-Writeups)	<img alt="forks" src="https://img.shields.io/github/forks/DAEMON-404/HTB-Lab-Writeups">	<img alt="stars" src="https://img.shields.io/github/stars/DAEMON-404/HTB-Lab-Writeups">
+- [Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447](https://github.com/Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447">
 
 ---
 ## CVE-2021-29442 (2021-04-27T21:15:00)
