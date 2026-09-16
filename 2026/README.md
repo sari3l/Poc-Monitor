@@ -220,6 +220,11 @@
 - [0xBlackash/CVE-2026-8932](https://github.com/0xBlackash/CVE-2026-8932)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-8932">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-8932">
 
 ---
+## CVE-2026-89026 ()
+> 
+- [cflowsec/CVE-2026-89026](https://github.com/cflowsec/CVE-2026-89026)	<img alt="forks" src="https://img.shields.io/github/forks/cflowsec/CVE-2026-89026">	<img alt="stars" src="https://img.shields.io/github/stars/cflowsec/CVE-2026-89026">
+
+---
 ## CVE-2026-89013 ()
 > 
 - [Faceless0x7/CVE-2026-89013](https://github.com/Faceless0x7/CVE-2026-89013)	<img alt="forks" src="https://img.shields.io/github/forks/Faceless0x7/CVE-2026-89013">	<img alt="stars" src="https://img.shields.io/github/stars/Faceless0x7/CVE-2026-89013">
