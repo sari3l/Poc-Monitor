@@ -351,6 +351,7 @@
 - [plur1bu5/gitread](https://github.com/plur1bu5/gitread)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/gitread">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/gitread">
 - [gabrielunknown/CVE-2026-85706](https://github.com/gabrielunknown/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielunknown/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielunknown/CVE-2026-85706">
 - [0xenesbayram/cve-2026-85706](https://github.com/0xenesbayram/cve-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/0xenesbayram/cve-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/0xenesbayram/cve-2026-85706">
+- [S3v3n-JG/CVE-2026-85706](https://github.com/S3v3n-JG/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/S3v3n-JG/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/S3v3n-JG/CVE-2026-85706">
 
 ---
 ## CVE-2026-85649 ()
@@ -368,6 +369,11 @@
 - [minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508](https://github.com/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508">
 
 ---
+## CVE-2026-85048 ()
+> 
+- [SneakyNachos/CVE-2026-85048-the-gpu-died](https://github.com/SneakyNachos/CVE-2026-85048-the-gpu-died)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-85048-the-gpu-died">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-85048-the-gpu-died">
+
+---
 ## CVE-2026-85046 ()
 > 
 - [ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine](https://github.com/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine">
@@ -376,6 +382,11 @@
 - [Eliot-code/CVE-2026-85046](https://github.com/Eliot-code/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/Eliot-code/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/Eliot-code/CVE-2026-85046">
 - [atiilla/CVE-2026-85046](https://github.com/atiilla/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-85046">
 - [SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm](https://github.com/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm">
+
+---
+## CVE-2026-85045 ()
+> 
+- [SneakyNachos/CVE-2026-85045](https://github.com/SneakyNachos/CVE-2026-85045)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-85045">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-85045">
 
 ---
 ## CVE-2026-8467 ()
@@ -845,6 +856,12 @@
 - [0xBlackash/CVE-2026-76461](https://github.com/0xBlackash/CVE-2026-76461)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-76461">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-76461">
 - [HORKimhab/CVE-2026-76461](https://github.com/HORKimhab/CVE-2026-76461)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-76461">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-76461">
 - [fevar54/CVE-2026-76461-Detection-Kit-](https://github.com/fevar54/CVE-2026-76461-Detection-Kit-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-76461-Detection-Kit-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-76461-Detection-Kit-">
+- [S3v3n-JG/CVE-2026-76461](https://github.com/S3v3n-JG/CVE-2026-76461)	<img alt="forks" src="https://img.shields.io/github/forks/S3v3n-JG/CVE-2026-76461">	<img alt="stars" src="https://img.shields.io/github/stars/S3v3n-JG/CVE-2026-76461">
+
+---
+## CVE-2026-76460 ()
+> 
+- [S3v3n-JG/CVE-2026-76460](https://github.com/S3v3n-JG/CVE-2026-76460)	<img alt="forks" src="https://img.shields.io/github/forks/S3v3n-JG/CVE-2026-76460">	<img alt="stars" src="https://img.shields.io/github/stars/S3v3n-JG/CVE-2026-76460">
 
 ---
 ## CVE-2026-76071 ()
@@ -3500,6 +3517,11 @@
 ## CVE-2026-49230 ()
 > 
 - [BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass](https://github.com/BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-49230-APISIX-jwe-decrypt-Auth-Bypass">
+
+---
+## CVE-2026-49179 ()
+> 
+- [overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection](https://github.com/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection">
 
 ---
 ## CVE-2026-49176 ()
