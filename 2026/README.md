@@ -2321,6 +2321,7 @@
 - [c0gnit00/CVE-2026-59827](https://github.com/c0gnit00/CVE-2026-59827)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-59827">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-59827">
 - [pickl31/CVE-2026-59827](https://github.com/pickl31/CVE-2026-59827)	<img alt="forks" src="https://img.shields.io/github/forks/pickl31/CVE-2026-59827">	<img alt="stars" src="https://img.shields.io/github/stars/pickl31/CVE-2026-59827">
 - [Gutierre0x80/CVE-2026-59827](https://github.com/Gutierre0x80/CVE-2026-59827)	<img alt="forks" src="https://img.shields.io/github/forks/Gutierre0x80/CVE-2026-59827">	<img alt="stars" src="https://img.shields.io/github/stars/Gutierre0x80/CVE-2026-59827">
+- [shivammittal2403/cve-2026-59827-metabase-cyber-range](https://github.com/shivammittal2403/cve-2026-59827-metabase-cyber-range)	<img alt="forks" src="https://img.shields.io/github/forks/shivammittal2403/cve-2026-59827-metabase-cyber-range">	<img alt="stars" src="https://img.shields.io/github/stars/shivammittal2403/cve-2026-59827-metabase-cyber-range">
 
 ---
 ## CVE-2026-59822 ()
@@ -11076,6 +11077,7 @@
 > 
 - [rootxn/CVE-2026-12793](https://github.com/rootxn/CVE-2026-12793)	<img alt="forks" src="https://img.shields.io/github/forks/rootxn/CVE-2026-12793">	<img alt="stars" src="https://img.shields.io/github/stars/rootxn/CVE-2026-12793">
 - [murrez/CVE-2026-12793](https://github.com/murrez/CVE-2026-12793)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-12793">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-12793">
+- [abraxas/CVE-2026-12793](https://github.com/abraxas/CVE-2026-12793)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-12793">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-12793">
 
 ---
 ## CVE-2026-12720 ()

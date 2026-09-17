@@ -3234,6 +3234,7 @@
 - [r3vpwnx/CVE-2025-57819](https://github.com/r3vpwnx/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-57819">
 - [DiegoRivas1/htb-labs-connected](https://github.com/DiegoRivas1/htb-labs-connected)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoRivas1/htb-labs-connected">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoRivas1/htb-labs-connected">
 - [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
+- [shivammittal2403/cve-2025-57819-freepbx-range](https://github.com/shivammittal2403/cve-2025-57819-freepbx-range)	<img alt="forks" src="https://img.shields.io/github/forks/shivammittal2403/cve-2025-57819-freepbx-range">	<img alt="stars" src="https://img.shields.io/github/stars/shivammittal2403/cve-2025-57819-freepbx-range">
 
 ---
 ## CVE-2025-5781 ()
