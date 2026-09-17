@@ -4108,6 +4108,7 @@
 - [cherrycherrymay/PoC-CVE-2026-46331](https://github.com/cherrycherrymay/PoC-CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/cherrycherrymay/PoC-CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/cherrycherrymay/PoC-CVE-2026-46331">
 - [nawalacheker1/CVE-2026-46331](https://github.com/nawalacheker1/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/nawalacheker1/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/nawalacheker1/CVE-2026-46331">
 - [rjt-gupta/page-cache-corruption-lpes](https://github.com/rjt-gupta/page-cache-corruption-lpes)	<img alt="forks" src="https://img.shields.io/github/forks/rjt-gupta/page-cache-corruption-lpes">	<img alt="stars" src="https://img.shields.io/github/stars/rjt-gupta/page-cache-corruption-lpes">
+- [theendofabbys/pedit-cow](https://github.com/theendofabbys/pedit-cow)	<img alt="forks" src="https://img.shields.io/github/forks/theendofabbys/pedit-cow">	<img alt="stars" src="https://img.shields.io/github/stars/theendofabbys/pedit-cow">
 
 ---
 ## CVE-2026-4631 ()
@@ -6846,6 +6847,12 @@
 ## CVE-2026-32621 ()
 > 
 - [sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability](https://github.com/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability">
+
+---
+## CVE-2026-32604 ()
+> 
+- [K3ysTr0K3R/CVE-2026-32604](https://github.com/K3ysTr0K3R/CVE-2026-32604)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-32604">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-32604">
+- [ZeroPathAI/spinnaker-poc](https://github.com/ZeroPathAI/spinnaker-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroPathAI/spinnaker-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroPathAI/spinnaker-poc">
 
 ---
 ## CVE-2026-32488 ()
