@@ -7407,6 +7407,7 @@
 - [byt3l0rd/CVE-2026-31431](https://github.com/byt3l0rd/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/byt3l0rd/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/byt3l0rd/CVE-2026-31431">
 - [FranklinF25/cve-2026-31431](https://github.com/FranklinF25/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/FranklinF25/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/FranklinF25/cve-2026-31431">
 - [silentbyte69/copy-fail-CVE-2026-31431-cpp](https://github.com/silentbyte69/copy-fail-CVE-2026-31431-cpp)	<img alt="forks" src="https://img.shields.io/github/forks/silentbyte69/copy-fail-CVE-2026-31431-cpp">	<img alt="stars" src="https://img.shields.io/github/stars/silentbyte69/copy-fail-CVE-2026-31431-cpp">
+- [Minime794/copyfail](https://github.com/Minime794/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/Minime794/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/Minime794/copyfail">
 
 ---
 ## CVE-2026-3143 ()
