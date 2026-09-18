@@ -561,6 +561,11 @@
 - [BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write](https://github.com/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write">
 
 ---
+## CVE-2026-82226 ()
+> 
+- [abraxas/CVE-2026-82226](https://github.com/abraxas/CVE-2026-82226)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-82226">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-82226">
+
+---
 ## CVE-2026-82222 ()
 > 
 - [dinosn/givewp-cve-2026-82222-rce-lab](https://github.com/dinosn/givewp-cve-2026-82222-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/givewp-cve-2026-82222-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/givewp-cve-2026-82222-rce-lab">
@@ -955,6 +960,11 @@
 ## CVE-2026-75855 ()
 > 
 - [pervinzahidli/CVE-2026-75855](https://github.com/pervinzahidli/CVE-2026-75855)	<img alt="forks" src="https://img.shields.io/github/forks/pervinzahidli/CVE-2026-75855">	<img alt="stars" src="https://img.shields.io/github/stars/pervinzahidli/CVE-2026-75855">
+
+---
+## CVE-2026-75827 ()
+> 
+- [abraxas/CVE-2026-75827](https://github.com/abraxas/CVE-2026-75827)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-75827">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-75827">
 
 ---
 ## CVE-2026-7574 ()
@@ -4329,6 +4339,11 @@
 ## CVE-2026-45156 ()
 > 
 - [cybertechajju/CVE-2026-45156-POC](https://github.com/cybertechajju/CVE-2026-45156-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2026-45156-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2026-45156-POC">
+
+---
+## CVE-2026-45140 ()
+> 
+- [abraxas/CVE-2026-45140](https://github.com/abraxas/CVE-2026-45140)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-45140">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-45140">
 
 ---
 ## CVE-2026-45091 ()

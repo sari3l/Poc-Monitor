@@ -10408,6 +10408,7 @@
 ## CVE-2025-20260 ()
 > 
 - [keyuraghao/CVE-2025-20260](https://github.com/keyuraghao/CVE-2025-20260)	<img alt="forks" src="https://img.shields.io/github/forks/keyuraghao/CVE-2025-20260">	<img alt="stars" src="https://img.shields.io/github/stars/keyuraghao/CVE-2025-20260">
+- [Alex-Acero-Security/CVE-2025-20260-POC](https://github.com/Alex-Acero-Security/CVE-2025-20260-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Alex-Acero-Security/CVE-2025-20260-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Alex-Acero-Security/CVE-2025-20260-POC">
 
 ---
 ## CVE-2025-2025 ()
