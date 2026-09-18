@@ -6015,6 +6015,7 @@
 - [chudamax/CVE-2020-0688-Exchange2010](https://github.com/chudamax/CVE-2020-0688-Exchange2010)	<img alt="forks" src="https://img.shields.io/github/forks/chudamax/CVE-2020-0688-Exchange2010">	<img alt="stars" src="https://img.shields.io/github/stars/chudamax/CVE-2020-0688-Exchange2010">
 - [W01fh4cker/CVE-2020-0688-GUI](https://github.com/W01fh4cker/CVE-2020-0688-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2020-0688-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2020-0688-GUI">
 - [tvdat20004/CVE-2020-0688](https://github.com/tvdat20004/CVE-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/tvdat20004/CVE-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/tvdat20004/CVE-2020-0688">
+- [iamwajd/Cyber-Attack-Analysis](https://github.com/iamwajd/Cyber-Attack-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/iamwajd/Cyber-Attack-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/iamwajd/Cyber-Attack-Analysis">
 
 ---
 ## CVE-2020-0665 ()
