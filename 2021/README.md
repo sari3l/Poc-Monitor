@@ -1400,6 +1400,7 @@
 - [Okymi-X/CVE-2021-43798](https://github.com/Okymi-X/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Okymi-X/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Okymi-X/CVE-2021-43798">
 - [Lim-ahmin/CVE-2021-43798](https://github.com/Lim-ahmin/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Lim-ahmin/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Lim-ahmin/CVE-2021-43798">
 - [sbimoxa/cve-2021-43798-lab](https://github.com/sbimoxa/cve-2021-43798-lab)	<img alt="forks" src="https://img.shields.io/github/forks/sbimoxa/cve-2021-43798-lab">	<img alt="stars" src="https://img.shields.io/github/stars/sbimoxa/cve-2021-43798-lab">
+- [Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798](https://github.com/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)

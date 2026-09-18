@@ -163,6 +163,11 @@
 - [joaovicdev/EXPLOIT-CVE-2026-9198](https://github.com/joaovicdev/EXPLOIT-CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-9198">
 
 ---
+## CVE-2026-91843 ()
+> 
+- [HORKimhab/CVE-2026-91843](https://github.com/HORKimhab/CVE-2026-91843)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-91843">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-91843">
+
+---
 ## CVE-2026-9147 ()
 > 
 - [SaiTeja-Erukude/CVE-2026-9147-uproot-rce](https://github.com/SaiTeja-Erukude/CVE-2026-9147-uproot-rce)	<img alt="forks" src="https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">	<img alt="stars" src="https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">
@@ -603,6 +608,11 @@
 - [0xTerror/CVE-2026-81780-Hash-Form](https://github.com/0xTerror/CVE-2026-81780-Hash-Form)	<img alt="forks" src="https://img.shields.io/github/forks/0xTerror/CVE-2026-81780-Hash-Form">	<img alt="stars" src="https://img.shields.io/github/stars/0xTerror/CVE-2026-81780-Hash-Form">
 
 ---
+## CVE-2026-81642 ()
+> 
+- [suominen/CVE-2026-81642](https://github.com/suominen/CVE-2026-81642)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-81642">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-81642">
+
+---
 ## CVE-2026-8161 ()
 > 
 - [Ser0n-ath/CVE-2026-8161](https://github.com/Ser0n-ath/CVE-2026-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Ser0n-ath/CVE-2026-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Ser0n-ath/CVE-2026-8161">
@@ -818,6 +828,11 @@
 ## CVE-2026-77262 ()
 > 
 - [romain-deperne/CVE-2026-77262](https://github.com/romain-deperne/CVE-2026-77262)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-77262">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-77262">
+
+---
+## CVE-2026-77179 ()
+> 
+- [HORKimhab/CVE-2026-77179](https://github.com/HORKimhab/CVE-2026-77179)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-77179">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-77179">
 
 ---
 ## CVE-2026-77113 ()
@@ -10564,6 +10579,11 @@
 ## CVE-2026-18577 ()
 > 
 - [HORKimhab/CVE-2026-18577](https://github.com/HORKimhab/CVE-2026-18577)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-18577">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-18577">
+
+---
+## CVE-2026-18574 ()
+> 
+- [HORKimhab/CVE-2026-18574](https://github.com/HORKimhab/CVE-2026-18574)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-18574">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-18574">
 
 ---
 ## CVE-2026-18504 ()
