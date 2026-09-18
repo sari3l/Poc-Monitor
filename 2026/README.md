@@ -302,6 +302,11 @@
 - [H4zaz/CVE-2026-8793](https://github.com/H4zaz/CVE-2026-8793)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-8793">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-8793">
 
 ---
+## CVE-2026-87796 ()
+> 
+- [abraxas/CVE-2026-87796](https://github.com/abraxas/CVE-2026-87796)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-87796">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-87796">
+
+---
 ## CVE-2026-87575 ()
 > 
 - [SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.](https://github.com/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">
@@ -8092,6 +8097,7 @@
 > 
 - [DeadExpl0it/CVE-2026-27540-WordPress-Exploit-PoC](https://github.com/DeadExpl0it/CVE-2026-27540-WordPress-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-27540-WordPress-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-27540-WordPress-Exploit-PoC">
 - [winrarzipsexploit/CVE-2026-27540](https://github.com/winrarzipsexploit/CVE-2026-27540)	<img alt="forks" src="https://img.shields.io/github/forks/winrarzipsexploit/CVE-2026-27540">	<img alt="stars" src="https://img.shields.io/github/stars/winrarzipsexploit/CVE-2026-27540">
+- [Nxploited/CVE-2026-27542-CVE-2026-27540-](https://github.com/Nxploited/CVE-2026-27542-CVE-2026-27540-)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-27542-CVE-2026-27540-">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-27542-CVE-2026-27540-">
 
 ---
 ## CVE-2026-2754 ()
