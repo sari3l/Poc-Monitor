@@ -4537,6 +4537,7 @@
 - [Bluex707/React2Shell-CVE-2025-55182-Exploit](https://github.com/Bluex707/React2Shell-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bluex707/React2Shell-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bluex707/React2Shell-CVE-2025-55182-Exploit">
 - [r3vpwnx/CVE-2025-55182](https://github.com/r3vpwnx/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-55182">
 - [iapetus12/hackcar-writeup](https://github.com/iapetus12/hackcar-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/iapetus12/hackcar-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/iapetus12/hackcar-writeup">
+- [abhaybansal16/cve-2025-55182-lab](https://github.com/abhaybansal16/cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/abhaybansal16/cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/abhaybansal16/cve-2025-55182-lab">
 
 ---
 ## CVE-2025-55130 ()

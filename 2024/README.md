@@ -1181,6 +1181,7 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 ## CVE-2024-57521 ()
 > 
 - [mrlihd/CVE-2024-57521-SQL-Injection-PoC](https://github.com/mrlihd/CVE-2024-57521-SQL-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mrlihd/CVE-2024-57521-SQL-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mrlihd/CVE-2024-57521-SQL-Injection-PoC">
+- [xs2024770/CVE-2024-57521-RuoYi-SQLi](https://github.com/xs2024770/CVE-2024-57521-RuoYi-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/xs2024770/CVE-2024-57521-RuoYi-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/xs2024770/CVE-2024-57521-RuoYi-SQLi">
 
 ---
 ## CVE-2024-57514 ()
