@@ -336,6 +336,11 @@
 - [fientix/CVE-2026-8732-PoC](https://github.com/fientix/CVE-2026-8732-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fientix/CVE-2026-8732-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fientix/CVE-2026-8732-PoC">
 
 ---
+## CVE-2026-8726 ()
+> 
+- [Shentao83/news-8.6.0-cve-2026-8726-backport](https://github.com/Shentao83/news-8.6.0-cve-2026-8726-backport)	<img alt="forks" src="https://img.shields.io/github/forks/Shentao83/news-8.6.0-cve-2026-8726-backport">	<img alt="stars" src="https://img.shields.io/github/stars/Shentao83/news-8.6.0-cve-2026-8726-backport">
+
+---
 ## CVE-2026-8713 ()
 > 
 - [shinthink/CVE-2026-8713](https://github.com/shinthink/CVE-2026-8713)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-8713">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-8713">
