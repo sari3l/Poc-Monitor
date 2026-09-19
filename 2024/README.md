@@ -7802,6 +7802,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-28157 ()
 > 
 - [Jayesh-Dev21/PoC_CVE-2024-28157](https://github.com/Jayesh-Dev21/PoC_CVE-2024-28157)	<img alt="forks" src="https://img.shields.io/github/forks/Jayesh-Dev21/PoC_CVE-2024-28157">	<img alt="stars" src="https://img.shields.io/github/stars/Jayesh-Dev21/PoC_CVE-2024-28157">
+- [shinigami-777/PoC_CVE-2024-28157](https://github.com/shinigami-777/PoC_CVE-2024-28157)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2024-28157">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2024-28157">
 
 ---
 ## CVE-2024-28116 ()
