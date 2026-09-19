@@ -4569,6 +4569,7 @@
 - [Kairo-one/CVE-2020-14343-PyYAML](https://github.com/Kairo-one/CVE-2020-14343-PyYAML)	<img alt="forks" src="https://img.shields.io/github/forks/Kairo-one/CVE-2020-14343-PyYAML">	<img alt="stars" src="https://img.shields.io/github/stars/Kairo-one/CVE-2020-14343-PyYAML">
 - [j4k0m/loader-CVE-2020-14343](https://github.com/j4k0m/loader-CVE-2020-14343)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/loader-CVE-2020-14343">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/loader-CVE-2020-14343">
 - [sijie52/yasa-cve-2020-14343](https://github.com/sijie52/yasa-cve-2020-14343)	<img alt="forks" src="https://img.shields.io/github/forks/sijie52/yasa-cve-2020-14343">	<img alt="stars" src="https://img.shields.io/github/stars/sijie52/yasa-cve-2020-14343">
+- [saina15/cve-2020-14343-lab](https://github.com/saina15/cve-2020-14343-lab)	<img alt="forks" src="https://img.shields.io/github/forks/saina15/cve-2020-14343-lab">	<img alt="stars" src="https://img.shields.io/github/stars/saina15/cve-2020-14343-lab">
 
 ---
 ## CVE-2020-14334 (2020-07-31T13:15:00)
