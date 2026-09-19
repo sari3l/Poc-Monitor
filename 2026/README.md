@@ -99,6 +99,11 @@
 - [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
 
 ---
+## CVE-2026-93659 ()
+> 
+- [prince325/CVE-2026-93659-writeup](https://github.com/prince325/CVE-2026-93659-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/prince325/CVE-2026-93659-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/prince325/CVE-2026-93659-writeup">
+
+---
 ## CVE-2026-93453 ()
 > 
 - [Faceless0x7/CVE-2026-93453](https://github.com/Faceless0x7/CVE-2026-93453)	<img alt="forks" src="https://img.shields.io/github/forks/Faceless0x7/CVE-2026-93453">	<img alt="stars" src="https://img.shields.io/github/stars/Faceless0x7/CVE-2026-93453">
@@ -1002,6 +1007,11 @@
 - [HackSpeak/CVE-2026-75604](https://github.com/HackSpeak/CVE-2026-75604)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-75604">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-75604">
 - [e4zyy/Project-CVE-2026-75604](https://github.com/e4zyy/Project-CVE-2026-75604)	<img alt="forks" src="https://img.shields.io/github/forks/e4zyy/Project-CVE-2026-75604">	<img alt="stars" src="https://img.shields.io/github/stars/e4zyy/Project-CVE-2026-75604">
 - [FORTBRIDGE-UK/cve-2026-75604](https://github.com/FORTBRIDGE-UK/cve-2026-75604)	<img alt="forks" src="https://img.shields.io/github/forks/FORTBRIDGE-UK/cve-2026-75604">	<img alt="stars" src="https://img.shields.io/github/stars/FORTBRIDGE-UK/cve-2026-75604">
+
+---
+## CVE-2026-75157 ()
+> 
+- [licitrasimone/cve-2026-75157-poc](https://github.com/licitrasimone/cve-2026-75157-poc)	<img alt="forks" src="https://img.shields.io/github/forks/licitrasimone/cve-2026-75157-poc">	<img alt="stars" src="https://img.shields.io/github/stars/licitrasimone/cve-2026-75157-poc">
 
 ---
 ## CVE-2026-7515 ()
@@ -5701,6 +5711,11 @@
 ## CVE-2026-39492 ()
 > 
 - [shinthink/CVE-2026-39492](https://github.com/shinthink/CVE-2026-39492)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-39492">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-39492">
+
+---
+## CVE-2026-39452 ()
+> 
+- [jumaboyev-cs/intel-cve-2026-39452-analysis](https://github.com/jumaboyev-cs/intel-cve-2026-39452-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/jumaboyev-cs/intel-cve-2026-39452-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/jumaboyev-cs/intel-cve-2026-39452-analysis">
 
 ---
 ## CVE-2026-39440 ()
