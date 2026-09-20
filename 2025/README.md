@@ -7113,6 +7113,7 @@
 ## CVE-2025-39964 ()
 > 
 - [n1k0oowang/CVE-2025-39964_EXP](https://github.com/n1k0oowang/CVE-2025-39964_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/n1k0oowang/CVE-2025-39964_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/n1k0oowang/CVE-2025-39964_EXP">
+- [suominen/CVE-2025-39964](https://github.com/suominen/CVE-2025-39964)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2025-39964">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2025-39964">
 
 ---
 ## CVE-2025-39946 ()
@@ -7146,6 +7147,7 @@
 ## CVE-2025-39682 ()
 > 
 - [khoatran107/cve-2025-39682](https://github.com/khoatran107/cve-2025-39682)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-39682">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-39682">
+- [suominen/CVE-2025-39682](https://github.com/suominen/CVE-2025-39682)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2025-39682">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2025-39682">
 
 ---
 ## CVE-2025-39601 ()

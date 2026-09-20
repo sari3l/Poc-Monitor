@@ -8146,6 +8146,7 @@ kernel memory, lateral privilege escalation, and container escape.
 - [Rahul-Thakur7/CVE-2023-21554](https://github.com/Rahul-Thakur7/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/Rahul-Thakur7/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/Rahul-Thakur7/CVE-2023-21554">
 - [shootweb/CVE-2023-21554](https://github.com/shootweb/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/shootweb/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/shootweb/CVE-2023-21554">
 - [leongxudong/MSMQ-Vulnerability](https://github.com/leongxudong/MSMQ-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/leongxudong/MSMQ-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/leongxudong/MSMQ-Vulnerability">
+- [TheArtist54/CVE-2023-21554-PoC](https://github.com/TheArtist54/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheArtist54/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheArtist54/CVE-2023-21554-PoC">
 
 ---
 ## CVE-2023-21537 ()
