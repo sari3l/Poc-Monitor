@@ -7988,6 +7988,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27564">
 - [MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564](https://github.com/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">
 - [chsxthwik/CVE-2024-27564](https://github.com/chsxthwik/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/chsxthwik/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/chsxthwik/CVE-2024-27564">
+- [chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564](https://github.com/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564">
 
 ---
 ## CVE-2024-27518 (2024-04-29T21:15:00)
@@ -9983,6 +9984,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [OmarMahmoud1024/tryhackme-monikerlink-writeup](https://github.com/OmarMahmoud1024/tryhackme-monikerlink-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/OmarMahmoud1024/tryhackme-monikerlink-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/OmarMahmoud1024/tryhackme-monikerlink-writeup">
 - [shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup](https://github.com/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup">
 - [yfelipecruvinel/tryhackme-moniker-link](https://github.com/yfelipecruvinel/tryhackme-moniker-link)	<img alt="forks" src="https://img.shields.io/github/forks/yfelipecruvinel/tryhackme-moniker-link">	<img alt="stars" src="https://img.shields.io/github/stars/yfelipecruvinel/tryhackme-moniker-link">
+- [PCzBuilds/monikerlink-cve-2024-21413-writeup](https://github.com/PCzBuilds/monikerlink-cve-2024-21413-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/PCzBuilds/monikerlink-cve-2024-21413-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/PCzBuilds/monikerlink-cve-2024-21413-writeup">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
