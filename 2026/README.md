@@ -99,6 +99,11 @@
 - [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
 
 ---
+## CVE-2026-94036 ()
+> 
+- [djzzlim/CVE-2026-94036](https://github.com/djzzlim/CVE-2026-94036)	<img alt="forks" src="https://img.shields.io/github/forks/djzzlim/CVE-2026-94036">	<img alt="stars" src="https://img.shields.io/github/stars/djzzlim/CVE-2026-94036">
+
+---
 ## CVE-2026-93659 ()
 > 
 - [prince325/CVE-2026-93659-writeup](https://github.com/prince325/CVE-2026-93659-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/prince325/CVE-2026-93659-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/prince325/CVE-2026-93659-writeup">
