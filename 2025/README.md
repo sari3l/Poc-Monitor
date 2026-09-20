@@ -9970,6 +9970,11 @@
 - [abhisek3122/CVE-2025-23167](https://github.com/abhisek3122/CVE-2025-23167)	<img alt="forks" src="https://img.shields.io/github/forks/abhisek3122/CVE-2025-23167">	<img alt="stars" src="https://img.shields.io/github/stars/abhisek3122/CVE-2025-23167">
 
 ---
+## CVE-2025-23134 ()
+> 
+- [thrilokh-q123/CVE-2025-23134_fixes_code](https://github.com/thrilokh-q123/CVE-2025-23134_fixes_code)	<img alt="forks" src="https://img.shields.io/github/forks/thrilokh-q123/CVE-2025-23134_fixes_code">	<img alt="stars" src="https://img.shields.io/github/stars/thrilokh-q123/CVE-2025-23134_fixes_code">
+
+---
 ## CVE-2025-23121 ()
 > 
 - [nagenar/CVE-2025-23121-RCE](https://github.com/nagenar/CVE-2025-23121-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nagenar/CVE-2025-23121-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nagenar/CVE-2025-23121-RCE">
