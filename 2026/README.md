@@ -291,6 +291,11 @@
 - [George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP](https://github.com/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP">
 
 ---
+## CVE-2026-88854 ()
+> 
+- [murrez/CVE-2026-88854](https://github.com/murrez/CVE-2026-88854)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-88854">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-88854">
+
+---
 ## CVE-2026-8863 ()
 > 
 - [0xbekoo/CVE-2026-8863](https://github.com/0xbekoo/CVE-2026-8863)	<img alt="forks" src="https://img.shields.io/github/forks/0xbekoo/CVE-2026-8863">	<img alt="stars" src="https://img.shields.io/github/stars/0xbekoo/CVE-2026-8863">
@@ -848,6 +853,11 @@
 ## CVE-2026-78329 ()
 > 
 - [oscerd/CVE-2026-78329](https://github.com/oscerd/CVE-2026-78329)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78329">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78329">
+
+---
+## CVE-2026-78306 ()
+> 
+- [Wh02m1/CVE-2026-78306-POC](https://github.com/Wh02m1/CVE-2026-78306-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wh02m1/CVE-2026-78306-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wh02m1/CVE-2026-78306-POC">
 
 ---
 ## CVE-2026-78159 ()
@@ -8035,6 +8045,11 @@
 ## CVE-2026-28672 ()
 > 
 - [oscerd/CVE-2026-28672](https://github.com/oscerd/CVE-2026-28672)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-28672">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-28672">
+
+---
+## CVE-2026-28609 ()
+> 
+- [devrodT2/CVE-2026-28609-matroska-pcm-oob](https://github.com/devrodT2/CVE-2026-28609-matroska-pcm-oob)	<img alt="forks" src="https://img.shields.io/github/forks/devrodT2/CVE-2026-28609-matroska-pcm-oob">	<img alt="stars" src="https://img.shields.io/github/stars/devrodT2/CVE-2026-28609-matroska-pcm-oob">
 
 ---
 ## CVE-2026-28576 ()
