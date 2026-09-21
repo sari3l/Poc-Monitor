@@ -258,6 +258,7 @@
 ## CVE-2026-8932 ()
 > 
 - [0xBlackash/CVE-2026-8932](https://github.com/0xBlackash/CVE-2026-8932)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-8932">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-8932">
+- [nimaarek/CVE-2026-8932-PoC](https://github.com/nimaarek/CVE-2026-8932-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nimaarek/CVE-2026-8932-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nimaarek/CVE-2026-8932-PoC">
 
 ---
 ## CVE-2026-89274 ()
