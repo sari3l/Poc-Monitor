@@ -8020,6 +8020,7 @@
 ## CVE-2026-29057 ()
 > 
 - [learnerxuan/CVE-2026-29057-POC](https://github.com/learnerxuan/CVE-2026-29057-POC)	<img alt="forks" src="https://img.shields.io/github/forks/learnerxuan/CVE-2026-29057-POC">	<img alt="stars" src="https://img.shields.io/github/stars/learnerxuan/CVE-2026-29057-POC">
+- [Nayekah/Next.js-Proof-of-Concept](https://github.com/Nayekah/Next.js-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/Nayekah/Next.js-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/Nayekah/Next.js-Proof-of-Concept">
 
 ---
 ## CVE-2026-29053 ()
