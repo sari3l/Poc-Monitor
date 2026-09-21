@@ -2169,6 +2169,11 @@
 - [t4e-3/CVE-2025-63296](https://github.com/t4e-3/CVE-2025-63296)	<img alt="forks" src="https://img.shields.io/github/forks/t4e-3/CVE-2025-63296">	<img alt="stars" src="https://img.shields.io/github/stars/t4e-3/CVE-2025-63296">
 
 ---
+## CVE-2025-6325 ()
+> 
+- [JohenLastGen-JLG/CVE-2025-6325_CVE-2025-6327](https://github.com/JohenLastGen-JLG/CVE-2025-6325_CVE-2025-6327)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/CVE-2025-6325_CVE-2025-6327">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/CVE-2025-6325_CVE-2025-6327">
+
+---
 ## CVE-2025-62950 ()
 > 
 - [lorenzocamilli/CVE-2025-62950-PoC](https://github.com/lorenzocamilli/CVE-2025-62950-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-62950-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-62950-PoC">
