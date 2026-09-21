@@ -11197,6 +11197,7 @@ resulting in database manipulation.
 - [mrk336/CVE-2024-10220-Kubernetes-gitRepo-Volume-Vulnerability](https://github.com/mrk336/CVE-2024-10220-Kubernetes-gitRepo-Volume-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2024-10220-Kubernetes-gitRepo-Volume-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2024-10220-Kubernetes-gitRepo-Volume-Vulnerability">
 - [saleha-muzammil/cve-2024-10220-git-on-git](https://github.com/saleha-muzammil/cve-2024-10220-git-on-git)	<img alt="forks" src="https://img.shields.io/github/forks/saleha-muzammil/cve-2024-10220-git-on-git">	<img alt="stars" src="https://img.shields.io/github/stars/saleha-muzammil/cve-2024-10220-git-on-git">
 - [imohammed28/cve-2024-10220-test](https://github.com/imohammed28/cve-2024-10220-test)	<img alt="forks" src="https://img.shields.io/github/forks/imohammed28/cve-2024-10220-test">	<img alt="stars" src="https://img.shields.io/github/stars/imohammed28/cve-2024-10220-test">
+- [nhu2222555-beep/CVE-2024-10220-githooks](https://github.com/nhu2222555-beep/CVE-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/nhu2222555-beep/CVE-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/nhu2222555-beep/CVE-2024-10220-githooks">
 
 ---
 ## CVE-2024-10140 (2024-10-19T15:15:00)
