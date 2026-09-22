@@ -87,6 +87,7 @@
 ## CVE-2023-6931 ()
 > 
 - [K0n9-log/CVE-2023-6931](https://github.com/K0n9-log/CVE-2023-6931)	<img alt="forks" src="https://img.shields.io/github/forks/K0n9-log/CVE-2023-6931">	<img alt="stars" src="https://img.shields.io/github/stars/K0n9-log/CVE-2023-6931">
+- [Yutori-Natsu/cve-2023-6931-pipa](https://github.com/Yutori-Natsu/cve-2023-6931-pipa)	<img alt="forks" src="https://img.shields.io/github/forks/Yutori-Natsu/cve-2023-6931-pipa">	<img alt="stars" src="https://img.shields.io/github/stars/Yutori-Natsu/cve-2023-6931-pipa">
 
 ---
 ## CVE-2023-6895 (2023-12-17T08:15:00)
