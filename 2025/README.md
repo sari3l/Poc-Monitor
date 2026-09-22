@@ -7119,6 +7119,7 @@
 > 
 - [n1k0oowang/CVE-2025-39964_EXP](https://github.com/n1k0oowang/CVE-2025-39964_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/n1k0oowang/CVE-2025-39964_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/n1k0oowang/CVE-2025-39964_EXP">
 - [suominen/CVE-2025-39964](https://github.com/suominen/CVE-2025-39964)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2025-39964">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2025-39964">
+- [mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-](https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-)	<img alt="forks" src="https://img.shields.io/github/forks/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-">	<img alt="stars" src="https://img.shields.io/github/stars/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-">
 
 ---
 ## CVE-2025-39946 ()
