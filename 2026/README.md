@@ -144,6 +144,11 @@
 - [muradislamzada/CVE-2026-93528](https://github.com/muradislamzada/CVE-2026-93528)	<img alt="forks" src="https://img.shields.io/github/forks/muradislamzada/CVE-2026-93528">	<img alt="stars" src="https://img.shields.io/github/stars/muradislamzada/CVE-2026-93528">
 
 ---
+## CVE-2026-93485 ()
+> 
+- [HORKimhab/CVE-2026-93485](https://github.com/HORKimhab/CVE-2026-93485)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-93485">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-93485">
+
+---
 ## CVE-2026-93453 ()
 > 
 - [Faceless0x7/CVE-2026-93453](https://github.com/Faceless0x7/CVE-2026-93453)	<img alt="forks" src="https://img.shields.io/github/forks/Faceless0x7/CVE-2026-93453">	<img alt="stars" src="https://img.shields.io/github/stars/Faceless0x7/CVE-2026-93453">
@@ -1644,6 +1649,11 @@
 ## CVE-2026-68398 ()
 > 
 - [aramosf/CVE-2026-68398](https://github.com/aramosf/CVE-2026-68398)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/CVE-2026-68398">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/CVE-2026-68398">
+
+---
+## CVE-2026-68376 ()
+> 
+- [gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc](https://github.com/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc">
 
 ---
 ## CVE-2026-6837 ()
@@ -10681,6 +10691,11 @@
 ## CVE-2026-19679 ()
 > 
 - [h00die/POC-CVE-2026-19679](https://github.com/h00die/POC-CVE-2026-19679)	<img alt="forks" src="https://img.shields.io/github/forks/h00die/POC-CVE-2026-19679">	<img alt="stars" src="https://img.shields.io/github/stars/h00die/POC-CVE-2026-19679">
+
+---
+## CVE-2026-19658 ()
+> 
+- [murrez/CVE-2026-19658](https://github.com/murrez/CVE-2026-19658)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-19658">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-19658">
 
 ---
 ## CVE-2026-19650 ()
