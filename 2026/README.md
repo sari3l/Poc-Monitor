@@ -99,6 +99,11 @@
 - [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
 
 ---
+## CVE-2026-94545 ()
+> 
+- [HORKimhab/CVE-2026-94545](https://github.com/HORKimhab/CVE-2026-94545)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-94545">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-94545">
+
+---
 ## CVE-2026-94129 ()
 > 
 - [lzty/CVE-2026-94129](https://github.com/lzty/CVE-2026-94129)	<img alt="forks" src="https://img.shields.io/github/forks/lzty/CVE-2026-94129">	<img alt="stars" src="https://img.shields.io/github/stars/lzty/CVE-2026-94129">
@@ -433,6 +438,7 @@
 - [griisemine/cve-2026-87902-detection](https://github.com/griisemine/cve-2026-87902-detection)	<img alt="forks" src="https://img.shields.io/github/forks/griisemine/cve-2026-87902-detection">	<img alt="stars" src="https://img.shields.io/github/stars/griisemine/cve-2026-87902-detection">
 - [pwnVader/CVE-2026-87902-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader)	<img alt="forks" src="https://img.shields.io/github/forks/pwnVader/CVE-2026-87902-PoC-pwnVader">	<img alt="stars" src="https://img.shields.io/github/stars/pwnVader/CVE-2026-87902-PoC-pwnVader">
 - [rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal](https://github.com/rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal">
+- [dinosn/cve-2026-87902-wordpress-lfi-lab](https://github.com/dinosn/cve-2026-87902-wordpress-lfi-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-87902-wordpress-lfi-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-87902-wordpress-lfi-lab">
 
 ---
 ## CVE-2026-87796 ()
@@ -11002,6 +11008,11 @@
 ## CVE-2026-1801 ()
 > 
 - [misterdengi/CVE-2026-1801C](https://github.com/misterdengi/CVE-2026-1801C)	<img alt="forks" src="https://img.shields.io/github/forks/misterdengi/CVE-2026-1801C">	<img alt="stars" src="https://img.shields.io/github/stars/misterdengi/CVE-2026-1801C">
+
+---
+## CVE-2026-1769 ()
+> 
+- [Leox48/CVE-2026-1769-WriteUp](https://github.com/Leox48/CVE-2026-1769-WriteUp)	<img alt="forks" src="https://img.shields.io/github/forks/Leox48/CVE-2026-1769-WriteUp">	<img alt="stars" src="https://img.shields.io/github/stars/Leox48/CVE-2026-1769-WriteUp">
 
 ---
 ## CVE-2026-17633 ()

@@ -2684,6 +2684,7 @@ length to be included in the checksum calculation is fully consumed.
 - [NadineElliottCyber/SOC335-CVE-2024-49138-Investigation](https://github.com/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">
 - [Adisasoc/CVE-2024-49138-SOC-Investigation](https://github.com/Adisasoc/CVE-2024-49138-SOC-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/Adisasoc/CVE-2024-49138-SOC-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/Adisasoc/CVE-2024-49138-SOC-Investigation">
 - [FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected](https://github.com/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected)	<img alt="forks" src="https://img.shields.io/github/forks/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected">	<img alt="stars" src="https://img.shields.io/github/stars/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected">
+- [mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected](https://github.com/mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbrek/SOC335-CVE-2024-49138-Exploitation-Detected">
 
 ---
 ## CVE-2024-49113 ()
