@@ -593,6 +593,7 @@
 - [godylockz/CVE-2021-44967](https://github.com/godylockz/CVE-2021-44967)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2021-44967">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2021-44967">
 - [N4s1rl1/Limesurvey-6.6.4-RCE](https://github.com/N4s1rl1/Limesurvey-6.6.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/N4s1rl1/Limesurvey-6.6.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/N4s1rl1/Limesurvey-6.6.4-RCE">
 - [monke443/CVE-2021-44967](https://github.com/monke443/CVE-2021-44967)	<img alt="forks" src="https://img.shields.io/github/forks/monke443/CVE-2021-44967">	<img alt="stars" src="https://img.shields.io/github/stars/monke443/CVE-2021-44967">
+- [kikechans/-Limesurvey-RCE-CVE-2021-44967](https://github.com/kikechans/-Limesurvey-RCE-CVE-2021-44967)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/-Limesurvey-RCE-CVE-2021-44967">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/-Limesurvey-RCE-CVE-2021-44967">
 
 ---
 ## CVE-2021-44910 ()
