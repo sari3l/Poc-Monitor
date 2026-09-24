@@ -318,6 +318,7 @@
 > 
 - [ExDev994/CVE-2026-90817](https://github.com/ExDev994/CVE-2026-90817)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-90817">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-90817">
 - [murrez/CVE-2026-90817](https://github.com/murrez/CVE-2026-90817)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-90817">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-90817">
+- [yulisec/CVE-2026-90817](https://github.com/yulisec/CVE-2026-90817)	<img alt="forks" src="https://img.shields.io/github/forks/yulisec/CVE-2026-90817">	<img alt="stars" src="https://img.shields.io/github/stars/yulisec/CVE-2026-90817">
 
 ---
 ## CVE-2026-90782 ()
@@ -468,6 +469,7 @@
 - [ynsmroztas/WPSniper](https://github.com/ynsmroztas/WPSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/WPSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/WPSniper">
 - [Lutfifakee-Project/CVE-2026-87902](https://github.com/Lutfifakee-Project/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-87902">
 - [tc4dy/CVE-2026-87902-Toolkit](https://github.com/tc4dy/CVE-2026-87902-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-87902-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-87902-Toolkit">
+- [nextco/wordpress-cve-2026-87902](https://github.com/nextco/wordpress-cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/nextco/wordpress-cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/nextco/wordpress-cve-2026-87902">
 - [nextco/wordpress-cve-2026-87902](https://github.com/nextco/wordpress-cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/nextco/wordpress-cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/nextco/wordpress-cve-2026-87902">
 
 ---

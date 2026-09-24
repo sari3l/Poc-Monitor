@@ -4190,6 +4190,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [godylockz/CVE-2024-42327](https://github.com/godylockz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2024-42327">
 - [874anthony/CVE-2024-42327_Zabbix_SQLi](https://github.com/874anthony/CVE-2024-42327_Zabbix_SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/874anthony/CVE-2024-42327_Zabbix_SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/874anthony/CVE-2024-42327_Zabbix_SQLi">
 - [fellipefelix06/Zabbix-CVE-2024-42327](https://github.com/fellipefelix06/Zabbix-CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/fellipefelix06/Zabbix-CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/fellipefelix06/Zabbix-CVE-2024-42327">
+- [RichJJ98/analise-vulnerabilidades-zabbix-notebooklm](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm)	<img alt="forks" src="https://img.shields.io/github/forks/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm">	<img alt="stars" src="https://img.shields.io/github/stars/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm">
 
 ---
 ## CVE-2024-42323 ()

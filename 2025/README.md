@@ -474,6 +474,7 @@
 - [D4rkks/CVE-2025-7771-Vulnerability-Exploration](https://github.com/D4rkks/CVE-2025-7771-Vulnerability-Exploration)	<img alt="forks" src="https://img.shields.io/github/forks/D4rkks/CVE-2025-7771-Vulnerability-Exploration">	<img alt="stars" src="https://img.shields.io/github/stars/D4rkks/CVE-2025-7771-Vulnerability-Exploration">
 - [mein-0/cve-2025-7771](https://github.com/mein-0/cve-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/mein-0/cve-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/mein-0/cve-2025-7771">
 - [enessakircolak/CVE-2025-7771](https://github.com/enessakircolak/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2025-7771">
+- [yulisec/CVE-2025-7771](https://github.com/yulisec/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/yulisec/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/yulisec/CVE-2025-7771">
 
 ---
 ## CVE-2025-7769 ()
