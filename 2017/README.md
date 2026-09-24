@@ -61,7 +61,7 @@
 > The REST Plugin in Apache Struts 2.1.1 through 2.3.x before 2.3.34 and 2.5.x before 2.5.13 uses an XStreamHandler with an instance of XStream for deserialization without any type filtering, which can lead to Remote Code Execution when deserializing XML payloads.
 - [Shakun8/CVE-2017-9805](https://github.com/Shakun8/CVE-2017-9805)	<img alt="forks" src="https://img.shields.io/github/forks/Shakun8/CVE-2017-9805">	<img alt="stars" src="https://img.shields.io/github/stars/Shakun8/CVE-2017-9805">
 - [sujithvaddi/apache_struts_cve_2017_9805](https://github.com/sujithvaddi/apache_struts_cve_2017_9805)	<img alt="forks" src="https://img.shields.io/github/forks/sujithvaddi/apache_struts_cve_2017_9805">	<img alt="stars" src="https://img.shields.io/github/stars/sujithvaddi/apache_struts_cve_2017_9805">
-- [0xd3vil/CVE-2017-9805-Exploit](https://github.com/0xd3vil/CVE-2017-9805-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xd3vil/CVE-2017-9805-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xd3vil/CVE-2017-9805-Exploit">
+- [agent3137/CVE-2017-9805-Exploit](https://github.com/agent3137/CVE-2017-9805-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/agent3137/CVE-2017-9805-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/agent3137/CVE-2017-9805-Exploit">
 - [z3bd/CVE-2017-9805](https://github.com/z3bd/CVE-2017-9805)	<img alt="forks" src="https://img.shields.io/github/forks/z3bd/CVE-2017-9805">	<img alt="stars" src="https://img.shields.io/github/stars/z3bd/CVE-2017-9805">
 - [jongmartinez/-CVE-2017-9805-](https://github.com/jongmartinez/-CVE-2017-9805-)	<img alt="forks" src="https://img.shields.io/github/forks/jongmartinez/-CVE-2017-9805-">	<img alt="stars" src="https://img.shields.io/github/stars/jongmartinez/-CVE-2017-9805-">
 - [0x00-0x00/-CVE-2017-9805](https://github.com/0x00-0x00/-CVE-2017-9805)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/-CVE-2017-9805">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/-CVE-2017-9805">
@@ -80,6 +80,7 @@
 - [Fl5xia/CVE-2017-9805](https://github.com/Fl5xia/CVE-2017-9805)	<img alt="forks" src="https://img.shields.io/github/forks/Fl5xia/CVE-2017-9805">	<img alt="stars" src="https://img.shields.io/github/stars/Fl5xia/CVE-2017-9805">
 - [7s26simon/CVE-2017-9805-S2-052](https://github.com/7s26simon/CVE-2017-9805-S2-052)	<img alt="forks" src="https://img.shields.io/github/forks/7s26simon/CVE-2017-9805-S2-052">	<img alt="stars" src="https://img.shields.io/github/stars/7s26simon/CVE-2017-9805-S2-052">
 - [RaniaMathlouthi/cve-2017-9805-struts-lab](https://github.com/RaniaMathlouthi/cve-2017-9805-struts-lab)	<img alt="forks" src="https://img.shields.io/github/forks/RaniaMathlouthi/cve-2017-9805-struts-lab">	<img alt="stars" src="https://img.shields.io/github/stars/RaniaMathlouthi/cve-2017-9805-struts-lab">
+- [Experience-rookie/struts-s2-052-deserialization-rce-lab](https://github.com/Experience-rookie/struts-s2-052-deserialization-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Experience-rookie/struts-s2-052-deserialization-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Experience-rookie/struts-s2-052-deserialization-rce-lab">
 
 ---
 ## CVE-2017-9801 ()

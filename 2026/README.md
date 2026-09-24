@@ -94,6 +94,11 @@
 - [HORKimhab/CVE-2026-9586](https://github.com/HORKimhab/CVE-2026-9586)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9586">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9586">
 
 ---
+## CVE-2026-95675 ()
+> 
+- [d6fault/CVE-2026-95675](https://github.com/d6fault/CVE-2026-95675)	<img alt="forks" src="https://img.shields.io/github/forks/d6fault/CVE-2026-95675">	<img alt="stars" src="https://img.shields.io/github/stars/d6fault/CVE-2026-95675">
+
+---
 ## CVE-2026-9558 ()
 > 
 - [covepseng/cve-2026-9558-poc](https://github.com/covepseng/cve-2026-9558-poc)	<img alt="forks" src="https://img.shields.io/github/forks/covepseng/cve-2026-9558-poc">	<img alt="stars" src="https://img.shields.io/github/stars/covepseng/cve-2026-9558-poc">
@@ -102,6 +107,11 @@
 ## CVE-2026-9490 ()
 > 
 - [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
+
+---
+## CVE-2026-94609 ()
+> 
+- [anthonyk2923/CVE-2026-94609](https://github.com/anthonyk2923/CVE-2026-94609)	<img alt="forks" src="https://img.shields.io/github/forks/anthonyk2923/CVE-2026-94609">	<img alt="stars" src="https://img.shields.io/github/stars/anthonyk2923/CVE-2026-94609">
 
 ---
 ## CVE-2026-94545 ()
@@ -1013,6 +1023,7 @@
 ## CVE-2026-78306 ()
 > 
 - [Wh02m1/CVE-2026-78306](https://github.com/Wh02m1/CVE-2026-78306)	<img alt="forks" src="https://img.shields.io/github/forks/Wh02m1/CVE-2026-78306">	<img alt="stars" src="https://img.shields.io/github/stars/Wh02m1/CVE-2026-78306">
+- [FEEDBEEF/Dji_ble_vuln](https://github.com/FEEDBEEF/Dji_ble_vuln)	<img alt="forks" src="https://img.shields.io/github/forks/FEEDBEEF/Dji_ble_vuln">	<img alt="stars" src="https://img.shields.io/github/stars/FEEDBEEF/Dji_ble_vuln">
 
 ---
 ## CVE-2026-78159 ()
@@ -5189,6 +5200,11 @@
 - [RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-](https://github.com/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-)	<img alt="forks" src="https://img.shields.io/github/forks/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-">	<img alt="stars" src="https://img.shields.io/github/stars/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-">
 - [millikanjohnl-blip/dirtyfrag-detection-rules](https://github.com/millikanjohnl-blip/dirtyfrag-detection-rules)	<img alt="forks" src="https://img.shields.io/github/forks/millikanjohnl-blip/dirtyfrag-detection-rules">	<img alt="stars" src="https://img.shields.io/github/stars/millikanjohnl-blip/dirtyfrag-detection-rules">
 - [cyber-niz/Dirty-Frag](https://github.com/cyber-niz/Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/cyber-niz/Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/cyber-niz/Dirty-Frag">
+- [nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-](https://github.com/nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-)	<img alt="forks" src="https://img.shields.io/github/forks/nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-">	<img alt="stars" src="https://img.shields.io/github/stars/nihan-silent-reign/CVE-2026-43284-DIRTY-FRAG-">
+- [Minime794/DirtyFrag](https://github.com/Minime794/DirtyFrag)	<img alt="forks" src="https://img.shields.io/github/forks/Minime794/DirtyFrag">	<img alt="stars" src="https://img.shields.io/github/stars/Minime794/DirtyFrag">
+- [combeng6th/DirtyInit](https://github.com/combeng6th/DirtyInit)	<img alt="forks" src="https://img.shields.io/github/forks/combeng6th/DirtyInit">	<img alt="stars" src="https://img.shields.io/github/stars/combeng6th/DirtyInit">
+- [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)	<img alt="forks" src="https://img.shields.io/github/forks/LSPosed/LSPromise">	<img alt="stars" src="https://img.shields.io/github/stars/LSPosed/LSPromise">
+- [TeamN4C/SG-2026-0024](https://github.com/TeamN4C/SG-2026-0024)	<img alt="forks" src="https://img.shields.io/github/forks/TeamN4C/SG-2026-0024">	<img alt="stars" src="https://img.shields.io/github/stars/TeamN4C/SG-2026-0024">
 
 ---
 ## CVE-2026-42980 ()
@@ -11702,6 +11718,12 @@
 ## CVE-2026-12243 ()
 > 
 - [morzelowski/CVE-2026-12243-NLTK-PoC](https://github.com/morzelowski/CVE-2026-12243-NLTK-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/morzelowski/CVE-2026-12243-NLTK-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/morzelowski/CVE-2026-12243-NLTK-PoC">
+
+---
+## CVE-2026-12227 ()
+> 
+- [Hassham1/CVE-2026-12227-visualcomposer-lfi-poc](https://github.com/Hassham1/CVE-2026-12227-visualcomposer-lfi-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-12227-visualcomposer-lfi-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-12227-visualcomposer-lfi-poc">
+- [murrez/CVE-2026-12227](https://github.com/murrez/CVE-2026-12227)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-12227">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-12227">
 
 ---
 ## CVE-2026-12191 ()

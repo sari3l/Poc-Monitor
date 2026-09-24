@@ -2991,6 +2991,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 > 
 - [daikinitanda/-CVE-2024-47875-](https://github.com/daikinitanda/-CVE-2024-47875-)	<img alt="forks" src="https://img.shields.io/github/forks/daikinitanda/-CVE-2024-47875-">	<img alt="stars" src="https://img.shields.io/github/stars/daikinitanda/-CVE-2024-47875-">
 - [roj1py/CVE-2024-47875-PhpSpreadsheet-XSS-PoC](https://github.com/roj1py/CVE-2024-47875-PhpSpreadsheet-XSS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/roj1py/CVE-2024-47875-PhpSpreadsheet-XSS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/roj1py/CVE-2024-47875-PhpSpreadsheet-XSS-PoC">
+- [d154573r-4v3r73d/CVE-2024-47875](https://github.com/d154573r-4v3r73d/CVE-2024-47875)	<img alt="forks" src="https://img.shields.io/github/forks/d154573r-4v3r73d/CVE-2024-47875">	<img alt="stars" src="https://img.shields.io/github/stars/d154573r-4v3r73d/CVE-2024-47875">
 
 ---
 ## CVE-2024-47854 (2024-10-04T06:15:00)

@@ -1222,6 +1222,7 @@ Users are recommended to upgrade to version 18.12.10
 - [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/yukselberkay/CVE-2023-49070_CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/yukselberkay/CVE-2023-49070_CVE-2023-51467">
 - [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/yukselberkay/CVE-2023-49070_CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/yukselberkay/CVE-2023-49070_CVE-2023-51467">
 - [Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467">
+- [BardLaudian/CVE-2023-49070](https://github.com/BardLaudian/CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2023-49070">
 
 ---
 ## CVE-2023-49052 (2023-11-30T07:15:00)

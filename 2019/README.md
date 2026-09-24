@@ -466,7 +466,7 @@
 ---
 ## CVE-2019-7139 ()
 > 
-- [adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC](https://github.com/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC">
+- [0xSemZ/Magento-CVE-2019-7139-SQLi-PoC](https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC">
 
 ---
 ## CVE-2019-7107 (2019-05-23T16:29:00)

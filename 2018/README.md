@@ -54,6 +54,7 @@
 - [mmezirard/cve-2018-9276](https://github.com/mmezirard/cve-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/mmezirard/cve-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/mmezirard/cve-2018-9276">
 - [AC8999/PRTG-Network-Monitor-18.2.38---Authenticated-Remote-Code-Execution-CVE-2018-9276](https://github.com/AC8999/PRTG-Network-Monitor-18.2.38---Authenticated-Remote-Code-Execution-CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/PRTG-Network-Monitor-18.2.38---Authenticated-Remote-Code-Execution-CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/PRTG-Network-Monitor-18.2.38---Authenticated-Remote-Code-Execution-CVE-2018-9276">
 - [alvinsmith-eroad/CVE-2018-9276](https://github.com/alvinsmith-eroad/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/alvinsmith-eroad/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/alvinsmith-eroad/CVE-2018-9276">
+- [BardLaudian/CVE-2018-9276](https://github.com/BardLaudian/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2018-9276">
 
 ---
 ## CVE-2018-9206 ()

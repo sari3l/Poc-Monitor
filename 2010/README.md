@@ -129,6 +129,7 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [earthbendergara/unrealircd3.2.8.1-local-exploit](https://github.com/earthbendergara/unrealircd3.2.8.1-local-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/earthbendergara/unrealircd3.2.8.1-local-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/earthbendergara/unrealircd3.2.8.1-local-exploit">
 - [JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution](https://github.com/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution">
 - [mishaqdev/cve-2010-2075-analysis](https://github.com/mishaqdev/cve-2010-2075-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mishaqdev/cve-2010-2075-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mishaqdev/cve-2010-2075-analysis">
+- [rushikesh-a-bhujbal/CVE-2010-2075](https://github.com/rushikesh-a-bhujbal/CVE-2010-2075)	<img alt="forks" src="https://img.shields.io/github/forks/rushikesh-a-bhujbal/CVE-2010-2075">	<img alt="stars" src="https://img.shields.io/github/stars/rushikesh-a-bhujbal/CVE-2010-2075">
 
 ---
 ## CVE-2010-2063 (2010-06-17T16:30:00)
