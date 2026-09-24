@@ -79,6 +79,11 @@
 - [izxci/CVE-2026-9691](https://github.com/izxci/CVE-2026-9691)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-9691">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-9691">
 
 ---
+## CVE-2026-96515 ()
+> 
+- [whoami-012/CVE-2026-96515](https://github.com/whoami-012/CVE-2026-96515)	<img alt="forks" src="https://img.shields.io/github/forks/whoami-012/CVE-2026-96515">	<img alt="stars" src="https://img.shields.io/github/stars/whoami-012/CVE-2026-96515">
+
+---
 ## CVE-2026-9645 ()
 > 
 - [0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/0xmhany/CVE-2026-9645-ScadaBR-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/0xmhany/CVE-2026-9645-ScadaBR-Analysis">
@@ -471,6 +476,7 @@
 - [tc4dy/CVE-2026-87902-Toolkit](https://github.com/tc4dy/CVE-2026-87902-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-87902-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-87902-Toolkit">
 - [nextco/wordpress-cve-2026-87902](https://github.com/nextco/wordpress-cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/nextco/wordpress-cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/nextco/wordpress-cve-2026-87902">
 - [nextco/wordpress-cve-2026-87902](https://github.com/nextco/wordpress-cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/nextco/wordpress-cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/nextco/wordpress-cve-2026-87902">
+- [zyphorixofficialmain-lab/cve-2026-87902](https://github.com/zyphorixofficialmain-lab/cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/zyphorixofficialmain-lab/cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/zyphorixofficialmain-lab/cve-2026-87902">
 
 ---
 ## CVE-2026-87796 ()
@@ -6406,6 +6412,11 @@
 ## CVE-2026-36669 ()
 > 
 - [firstlax6t/CVE-2026-36669-FengOffice](https://github.com/firstlax6t/CVE-2026-36669-FengOffice)	<img alt="forks" src="https://img.shields.io/github/forks/firstlax6t/CVE-2026-36669-FengOffice">	<img alt="stars" src="https://img.shields.io/github/stars/firstlax6t/CVE-2026-36669-FengOffice">
+
+---
+## CVE-2026-36539 ()
+> 
+- [khaleedbt/netis-cve-2026-36539](https://github.com/khaleedbt/netis-cve-2026-36539)	<img alt="forks" src="https://img.shields.io/github/forks/khaleedbt/netis-cve-2026-36539">	<img alt="stars" src="https://img.shields.io/github/stars/khaleedbt/netis-cve-2026-36539">
 
 ---
 ## CVE-2026-36438 ()
