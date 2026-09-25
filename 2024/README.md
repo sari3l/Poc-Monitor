@@ -5373,6 +5373,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36527">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36527">
 
 ---
+## CVE-2024-3651 ()
+> 
+- [redhat-tssc-tmm/CVE-2024-3651-exploit](https://github.com/redhat-tssc-tmm/CVE-2024-3651-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/redhat-tssc-tmm/CVE-2024-3651-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/redhat-tssc-tmm/CVE-2024-3651-exploit">
+
+---
 ## CVE-2024-36424 (2024-08-06T15:15:00)
 > K7RKScan.sys in K7 Ultimate Security before 17.0.2019 allows local users to cause a denial of service (BSOD) because of a NULL pointer dereference.
 - [secunnix/CVE-2024-36424](https://github.com/secunnix/CVE-2024-36424)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-36424">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-36424">
