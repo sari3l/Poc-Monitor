@@ -12265,6 +12265,11 @@
 - [QM4RS/CVE-2026-0023-Update-Ownership-PoC](https://github.com/QM4RS/CVE-2026-0023-Update-Ownership-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/QM4RS/CVE-2026-0023-Update-Ownership-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/QM4RS/CVE-2026-0023-Update-Ownership-PoC">
 
 ---
+## CVE-2026-0014 ()
+> 
+- [cduram/NotCVE-2026-0014](https://github.com/cduram/NotCVE-2026-0014)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/NotCVE-2026-0014">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/NotCVE-2026-0014">
+
+---
 ## CVE-2026-0013 ()
 > 
 - [XiaoBaiLovesStirring/cve-2026-0013-poc](https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/cve-2026-0013-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/cve-2026-0013-poc">
