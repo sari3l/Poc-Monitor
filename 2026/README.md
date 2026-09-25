@@ -84,6 +84,11 @@
 - [whoami-012/CVE-2026-96515](https://github.com/whoami-012/CVE-2026-96515)	<img alt="forks" src="https://img.shields.io/github/forks/whoami-012/CVE-2026-96515">	<img alt="stars" src="https://img.shields.io/github/stars/whoami-012/CVE-2026-96515">
 
 ---
+## CVE-2026-96512 ()
+> 
+- [Ermensonx/sudotimewarp-cve-2026-96512-](https://github.com/Ermensonx/sudotimewarp-cve-2026-96512-)	<img alt="forks" src="https://img.shields.io/github/forks/Ermensonx/sudotimewarp-cve-2026-96512-">	<img alt="stars" src="https://img.shields.io/github/stars/Ermensonx/sudotimewarp-cve-2026-96512-">
+
+---
 ## CVE-2026-9645 ()
 > 
 - [0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/0xmhany/CVE-2026-9645-ScadaBR-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/0xmhany/CVE-2026-9645-ScadaBR-Analysis">
@@ -2323,6 +2328,7 @@
 - [RMDycz/K80Pro-miro-CVE-2026-64560](https://github.com/RMDycz/K80Pro-miro-CVE-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/RMDycz/K80Pro-miro-CVE-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/RMDycz/K80Pro-miro-CVE-2026-64560">
 - [a23bc/op13-cve-2026-64560](https://github.com/a23bc/op13-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/a23bc/op13-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/a23bc/op13-cve-2026-64560">
 - [Wangs-official/opace6-cve-2026-64560](https://github.com/Wangs-official/opace6-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/Wangs-official/opace6-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/Wangs-official/opace6-cve-2026-64560">
+- [Become-ILLUSORY/cve-2026-64560-a16](https://github.com/Become-ILLUSORY/cve-2026-64560-a16)	<img alt="forks" src="https://img.shields.io/github/forks/Become-ILLUSORY/cve-2026-64560-a16">	<img alt="stars" src="https://img.shields.io/github/stars/Become-ILLUSORY/cve-2026-64560-a16">
 
 ---
 ## CVE-2026-64531 ()
@@ -2792,6 +2798,7 @@
 > 
 - [HORKimhab/CVE-2026-59310](https://github.com/HORKimhab/CVE-2026-59310)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-59310">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-59310">
 - [BiuTrap/CVE-2026-59310](https://github.com/BiuTrap/CVE-2026-59310)	<img alt="forks" src="https://img.shields.io/github/forks/BiuTrap/CVE-2026-59310">	<img alt="stars" src="https://img.shields.io/github/stars/BiuTrap/CVE-2026-59310">
+- [ChinaRan0/CVE-2026-59310-POC](https://github.com/ChinaRan0/CVE-2026-59310-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ChinaRan0/CVE-2026-59310-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ChinaRan0/CVE-2026-59310-POC">
 
 ---
 ## CVE-2026-59243 ()
@@ -5179,6 +5186,7 @@
 - [AriyanPegu/ghostlock-app](https://github.com/AriyanPegu/ghostlock-app)	<img alt="forks" src="https://img.shields.io/github/forks/AriyanPegu/ghostlock-app">	<img alt="stars" src="https://img.shields.io/github/stars/AriyanPegu/ghostlock-app">
 - [jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root](https://github.com/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root)	<img alt="forks" src="https://img.shields.io/github/forks/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">	<img alt="stars" src="https://img.shields.io/github/stars/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">
 - [AthBe1337/CVE-2026-43499-poc](https://github.com/AthBe1337/CVE-2026-43499-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AthBe1337/CVE-2026-43499-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AthBe1337/CVE-2026-43499-poc">
+- [RELIHR/CVE-2026-43499](https://github.com/RELIHR/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/RELIHR/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/RELIHR/CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
