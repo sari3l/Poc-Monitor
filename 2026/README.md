@@ -499,7 +499,7 @@
 - [nextco/wordpress-cve-2026-87902](https://github.com/nextco/wordpress-cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/nextco/wordpress-cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/nextco/wordpress-cve-2026-87902">
 - [zyphorixofficialmain-lab/cve-2026-87902](https://github.com/zyphorixofficialmain-lab/cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/zyphorixofficialmain-lab/cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/zyphorixofficialmain-lab/cve-2026-87902">
 - [joaovicdev/EXPLOIT-CVE-2026-87902](https://github.com/joaovicdev/EXPLOIT-CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-87902">
-- [khellwan/CVE-2026-87902_PoC](https://github.com/khellwan/CVE-2026-87902_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/khellwan/CVE-2026-87902_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/khellwan/CVE-2026-87902_PoC">
+- [crowsec-edtech/CVE-2026-87902](https://github.com/crowsec-edtech/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/crowsec-edtech/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/crowsec-edtech/CVE-2026-87902">
 
 ---
 ## CVE-2026-87796 ()
@@ -2322,6 +2322,7 @@
 - [quyicheng03-boop/xiaomi15-dada-cve-2026-64560](https://github.com/quyicheng03-boop/xiaomi15-dada-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/quyicheng03-boop/xiaomi15-dada-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/quyicheng03-boop/xiaomi15-dada-cve-2026-64560">
 - [RMDycz/K80Pro-miro-CVE-2026-64560](https://github.com/RMDycz/K80Pro-miro-CVE-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/RMDycz/K80Pro-miro-CVE-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/RMDycz/K80Pro-miro-CVE-2026-64560">
 - [a23bc/op13-cve-2026-64560](https://github.com/a23bc/op13-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/a23bc/op13-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/a23bc/op13-cve-2026-64560">
+- [Wangs-official/opace6-cve-2026-64560](https://github.com/Wangs-official/opace6-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/Wangs-official/opace6-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/Wangs-official/opace6-cve-2026-64560">
 
 ---
 ## CVE-2026-64531 ()
@@ -3420,6 +3421,7 @@
 ## CVE-2026-53576 ()
 > 
 - [TamatahYT/CVE-2026-53576](https://github.com/TamatahYT/CVE-2026-53576)	<img alt="forks" src="https://img.shields.io/github/forks/TamatahYT/CVE-2026-53576">	<img alt="stars" src="https://img.shields.io/github/stars/TamatahYT/CVE-2026-53576">
+- [AtlasVector/Kestra-cve-2026-53576](https://github.com/AtlasVector/Kestra-cve-2026-53576)	<img alt="forks" src="https://img.shields.io/github/forks/AtlasVector/Kestra-cve-2026-53576">	<img alt="stars" src="https://img.shields.io/github/stars/AtlasVector/Kestra-cve-2026-53576">
 
 ---
 ## CVE-2026-53571 ()

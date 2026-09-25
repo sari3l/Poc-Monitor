@@ -10020,6 +10020,7 @@
 - [kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis](https://github.com/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis">
 - [VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis](https://github.com/VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis">
 - [HKenzoKimura/CVE-2021-1675](https://github.com/HKenzoKimura/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2021-1675">
+- [pentagon404uzb/CVE-2021-1675-Local-Privilege-Escalation-CVSS-7.8-](https://github.com/pentagon404uzb/CVE-2021-1675-Local-Privilege-Escalation-CVSS-7.8-)	<img alt="forks" src="https://img.shields.io/github/forks/pentagon404uzb/CVE-2021-1675-Local-Privilege-Escalation-CVSS-7.8-">	<img alt="stars" src="https://img.shields.io/github/stars/pentagon404uzb/CVE-2021-1675-Local-Privilege-Escalation-CVSS-7.8-">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)
