@@ -5990,6 +5990,8 @@
 - [average-joe44/CVE-2020-0796-Forked-PoC](https://github.com/average-joe44/CVE-2020-0796-Forked-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/average-joe44/CVE-2020-0796-Forked-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/average-joe44/CVE-2020-0796-Forked-PoC">
 - [adrielni7651/smb-adtech-platform](https://github.com/adrielni7651/smb-adtech-platform)	<img alt="forks" src="https://img.shields.io/github/forks/adrielni7651/smb-adtech-platform">	<img alt="stars" src="https://img.shields.io/github/stars/adrielni7651/smb-adtech-platform">
 - [Justjeff211/conti-ransomware-writeup](https://github.com/Justjeff211/conti-ransomware-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Justjeff211/conti-ransomware-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Justjeff211/conti-ransomware-writeup">
+- [linusboz12345-sys/cve-2020-0796-scanner](https://github.com/linusboz12345-sys/cve-2020-0796-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linusboz12345-sys/cve-2020-0796-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linusboz12345-sys/cve-2020-0796-scanner">
+- [p4ncontomat3/smbghost](https://github.com/p4ncontomat3/smbghost)	<img alt="forks" src="https://img.shields.io/github/forks/p4ncontomat3/smbghost">	<img alt="stars" src="https://img.shields.io/github/stars/p4ncontomat3/smbghost">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
