@@ -5244,6 +5244,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Spydomain/CVE-2024-37054-MLflow-reverse-shell](https://github.com/Spydomain/CVE-2024-37054-MLflow-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2024-37054-MLflow-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2024-37054-MLflow-reverse-shell">
 - [ClearLotus-git/CVE-2024-37054-PoC](https://github.com/ClearLotus-git/CVE-2024-37054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClearLotus-git/CVE-2024-37054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClearLotus-git/CVE-2024-37054-PoC">
 - [BardLaudian/CVE-2024-37054](https://github.com/BardLaudian/CVE-2024-37054)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2024-37054">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2024-37054">
+- [0o176/CVE-2024-37054_PoC_HTB_SmartHire](https://github.com/0o176/CVE-2024-37054_PoC_HTB_SmartHire)	<img alt="forks" src="https://img.shields.io/github/forks/0o176/CVE-2024-37054_PoC_HTB_SmartHire">	<img alt="stars" src="https://img.shields.io/github/stars/0o176/CVE-2024-37054_PoC_HTB_SmartHire">
 
 ---
 ## CVE-2024-37051 (2024-06-10T16:15:00)
