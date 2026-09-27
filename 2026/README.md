@@ -466,6 +466,11 @@
 - [murrez/CVE-2026-88854](https://github.com/murrez/CVE-2026-88854)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-88854">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-88854">
 
 ---
+## CVE-2026-88772 ()
+> 
+- [murrez/CVE-2026-88772](https://github.com/murrez/CVE-2026-88772)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-88772">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-88772">
+
+---
 ## CVE-2026-8863 ()
 > 
 - [0xbekoo/CVE-2026-8863](https://github.com/0xbekoo/CVE-2026-8863)	<img alt="forks" src="https://img.shields.io/github/forks/0xbekoo/CVE-2026-8863">	<img alt="stars" src="https://img.shields.io/github/stars/0xbekoo/CVE-2026-8863">
@@ -496,6 +501,11 @@
 ## CVE-2026-8809 ()
 > 
 - [izxci/CVE-2026-8809](https://github.com/izxci/CVE-2026-8809)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-8809">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-8809">
+
+---
+## CVE-2026-88008 ()
+> 
+- [Boreas37/CVE-2026-88008-PoC](https://github.com/Boreas37/CVE-2026-88008-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-88008-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-88008-PoC">
 
 ---
 ## CVE-2026-8794 ()
@@ -545,6 +555,7 @@
 - [langz337/CVE-2026-87902](https://github.com/langz337/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/langz337/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/langz337/CVE-2026-87902">
 - [itskill-jp/wordpress-upgrade-check](https://github.com/itskill-jp/wordpress-upgrade-check)	<img alt="forks" src="https://img.shields.io/github/forks/itskill-jp/wordpress-upgrade-check">	<img alt="stars" src="https://img.shields.io/github/stars/itskill-jp/wordpress-upgrade-check">
 - [abatsakidis/wp-cve-2026-87902-checker](https://github.com/abatsakidis/wp-cve-2026-87902-checker)	<img alt="forks" src="https://img.shields.io/github/forks/abatsakidis/wp-cve-2026-87902-checker">	<img alt="stars" src="https://img.shields.io/github/stars/abatsakidis/wp-cve-2026-87902-checker">
+- [Maalfer/CVE-2026-87902-exploit](https://github.com/Maalfer/CVE-2026-87902-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2026-87902-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2026-87902-exploit">
 
 ---
 ## CVE-2026-87796 ()
@@ -1637,6 +1648,11 @@
 ## CVE-2026-71981 ()
 > 
 - [lyn4r/CVE-2026-71981](https://github.com/lyn4r/CVE-2026-71981)	<img alt="forks" src="https://img.shields.io/github/forks/lyn4r/CVE-2026-71981">	<img alt="stars" src="https://img.shields.io/github/stars/lyn4r/CVE-2026-71981">
+
+---
+## CVE-2026-71963 ()
+> 
+- [Boreas37/CVE-2026-71963-PoC](https://github.com/Boreas37/CVE-2026-71963-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-71963-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-71963-PoC">
 
 ---
 ## CVE-2026-71960 ()
@@ -2824,6 +2840,11 @@
 - [InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC](https://github.com/InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC">
 - [InfoSec-DB/CVE-2026-60004-Gitea-Validator](https://github.com/InfoSec-DB/CVE-2026-60004-Gitea-Validator)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec-DB/CVE-2026-60004-Gitea-Validator">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec-DB/CVE-2026-60004-Gitea-Validator">
 - [erberkan/CVE-2026-60004-PoC](https://github.com/erberkan/CVE-2026-60004-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/erberkan/CVE-2026-60004-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/erberkan/CVE-2026-60004-PoC">
+
+---
+## CVE-2026-600004 ()
+> 
+- [ImperfectP/CVE-2026-600004](https://github.com/ImperfectP/CVE-2026-600004)	<img alt="forks" src="https://img.shields.io/github/forks/ImperfectP/CVE-2026-600004">	<img alt="stars" src="https://img.shields.io/github/stars/ImperfectP/CVE-2026-600004">
 
 ---
 ## CVE-2026-59941 ()
@@ -5006,6 +5027,8 @@
 > 
 - [4xura/CVE-2026-44011-craftcms-auth-rce](https://github.com/4xura/CVE-2026-44011-craftcms-auth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2026-44011-craftcms-auth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2026-44011-craftcms-auth-rce">
 - [DENNISDGR/CVE-2026-44011-poc](https://github.com/DENNISDGR/CVE-2026-44011-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DENNISDGR/CVE-2026-44011-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DENNISDGR/CVE-2026-44011-poc">
+- [khush-613/CVE-2026-44011-poc](https://github.com/khush-613/CVE-2026-44011-poc)	<img alt="forks" src="https://img.shields.io/github/forks/khush-613/CVE-2026-44011-poc">	<img alt="stars" src="https://img.shields.io/github/stars/khush-613/CVE-2026-44011-poc">
+- [Cyberuser-hash/CVE-2026-44011-craft-rce-poc](https://github.com/Cyberuser-hash/CVE-2026-44011-craft-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberuser-hash/CVE-2026-44011-craft-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberuser-hash/CVE-2026-44011-craft-rce-poc">
 
 ---
 ## CVE-2026-43914 ()
@@ -6839,6 +6862,7 @@
 - [0xc4rc3l/CVE-2026-34990-poc](https://github.com/0xc4rc3l/CVE-2026-34990-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xc4rc3l/CVE-2026-34990-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xc4rc3l/CVE-2026-34990-poc">
 - [predyy/CVE-2026-34990](https://github.com/predyy/CVE-2026-34990)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/CVE-2026-34990">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/CVE-2026-34990">
 - [DENNISDGR/CVE-2026-34990-poc](https://github.com/DENNISDGR/CVE-2026-34990-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DENNISDGR/CVE-2026-34990-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DENNISDGR/CVE-2026-34990-poc">
+- [khush-613/CVE-2026-34990-poc](https://github.com/khush-613/CVE-2026-34990-poc)	<img alt="forks" src="https://img.shields.io/github/forks/khush-613/CVE-2026-34990-poc">	<img alt="stars" src="https://img.shields.io/github/stars/khush-613/CVE-2026-34990-poc">
 
 ---
 ## CVE-2026-34980 ()

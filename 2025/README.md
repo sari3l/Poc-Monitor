@@ -3654,6 +3654,7 @@
 > 
 - [bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005](https://github.com/bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005)	<img alt="forks" src="https://img.shields.io/github/forks/bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005">	<img alt="stars" src="https://img.shields.io/github/stars/bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005">
 - [tom025/ply_exploit_rejection](https://github.com/tom025/ply_exploit_rejection)	<img alt="forks" src="https://img.shields.io/github/forks/tom025/ply_exploit_rejection">	<img alt="stars" src="https://img.shields.io/github/stars/tom025/ply_exploit_rejection">
+- [gdfurr98/ply-cve-2025-56005-lab](https://github.com/gdfurr98/ply-cve-2025-56005-lab)	<img alt="forks" src="https://img.shields.io/github/forks/gdfurr98/ply-cve-2025-56005-lab">	<img alt="stars" src="https://img.shields.io/github/stars/gdfurr98/ply-cve-2025-56005-lab">
 
 ---
 ## CVE-2025-55998 ()
