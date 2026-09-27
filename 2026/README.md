@@ -12169,6 +12169,11 @@
 - [George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header](https://github.com/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header">
 
 ---
+## CVE-2026-100740 ()
+> 
+- [murrez/CVE-2026-100740](https://github.com/murrez/CVE-2026-100740)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-100740">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-100740">
+
+---
 ## CVE-2026-10053 ()
 > 
 - [dinosn/CVE-2026-10053-lab](https://github.com/dinosn/CVE-2026-10053-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-10053-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-10053-lab">
