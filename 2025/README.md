@@ -7902,6 +7902,7 @@
 - [razureink/cve-2025-32433-erlang_ssh_rce_reproduction](https://github.com/razureink/cve-2025-32433-erlang_ssh_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">
 - [Liam-Worsley/CVE-2025-32433-PoC-Analysis](https://github.com/Liam-Worsley/CVE-2025-32433-PoC-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Liam-Worsley/CVE-2025-32433-PoC-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Liam-Worsley/CVE-2025-32433-PoC-Analysis">
 - [damnkrishna/CVE-2025-32433-LAB](https://github.com/damnkrishna/CVE-2025-32433-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/damnkrishna/CVE-2025-32433-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/damnkrishna/CVE-2025-32433-LAB">
+- [X-Bulow/Reproduce-CVE-2025-32433](https://github.com/X-Bulow/Reproduce-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/X-Bulow/Reproduce-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/X-Bulow/Reproduce-CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
@@ -10261,6 +10262,7 @@
 - [7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">
 - [RamenFast/zenfone9-root](https://github.com/RamenFast/zenfone9-root)	<img alt="forks" src="https://img.shields.io/github/forks/RamenFast/zenfone9-root">	<img alt="stars" src="https://img.shields.io/github/stars/RamenFast/zenfone9-root">
 - [diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P">
+- [xianwan1314/cve-2025-21479-iqoo11pro](https://github.com/xianwan1314/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/xianwan1314/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/xianwan1314/cve-2025-21479-iqoo11pro">
 
 ---
 ## CVE-2025-21420 ()
