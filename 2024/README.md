@@ -1693,6 +1693,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Seven11Eleven/CVE-2024-54772](https://github.com/Seven11Eleven/CVE-2024-54772)	<img alt="forks" src="https://img.shields.io/github/forks/Seven11Eleven/CVE-2024-54772">	<img alt="stars" src="https://img.shields.io/github/stars/Seven11Eleven/CVE-2024-54772">
 
 ---
+## CVE-2024-54767 ()
+> 
+- [sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit](https://github.com/sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit">
+
+---
 ## CVE-2024-54761 ()
 > 
 - [nscan9/CVE-2024-54761](https://github.com/nscan9/CVE-2024-54761)	<img alt="forks" src="https://img.shields.io/github/forks/nscan9/CVE-2024-54761">	<img alt="stars" src="https://img.shields.io/github/stars/nscan9/CVE-2024-54761">
