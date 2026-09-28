@@ -1135,6 +1135,7 @@
 > 
 - [DeadExpl0it/CVE-2026-78006-POC](https://github.com/DeadExpl0it/CVE-2026-78006-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-78006-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-78006-POC">
 - [user445213/CVE-2026-78006](https://github.com/user445213/CVE-2026-78006)	<img alt="forks" src="https://img.shields.io/github/forks/user445213/CVE-2026-78006">	<img alt="stars" src="https://img.shields.io/github/stars/user445213/CVE-2026-78006">
+- [antid00t/CVE-2026-78006-CVE-2026-78159](https://github.com/antid00t/CVE-2026-78006-CVE-2026-78159)	<img alt="forks" src="https://img.shields.io/github/forks/antid00t/CVE-2026-78006-CVE-2026-78159">	<img alt="stars" src="https://img.shields.io/github/stars/antid00t/CVE-2026-78006-CVE-2026-78159">
 
 ---
 ## CVE-2026-77991 ()
