@@ -602,6 +602,7 @@
 - [Maalfer/CVE-2026-87902-exploit](https://github.com/Maalfer/CVE-2026-87902-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2026-87902-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2026-87902-exploit">
 - [MRdark-ops/CVE-2026-87902](https://github.com/MRdark-ops/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-87902">
 - [HackfutSecRoot/CVE-2026-87902](https://github.com/HackfutSecRoot/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/HackfutSecRoot/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/HackfutSecRoot/CVE-2026-87902">
+- [tonydelouvre/CVE-2026-87902](https://github.com/tonydelouvre/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/tonydelouvre/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/tonydelouvre/CVE-2026-87902">
 
 ---
 ## CVE-2026-87796 ()
@@ -6073,7 +6074,7 @@
 - [ZeroDayVPN/CVE-2026-41089-Netlogon](https://github.com/ZeroDayVPN/CVE-2026-41089-Netlogon)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-41089-Netlogon">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-41089-Netlogon">
 - [SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC](https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC">
 - [Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC](https://github.com/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC">
-- [1posix/CVE-2026-41089-POC](https://github.com/1posix/CVE-2026-41089-POC)	<img alt="forks" src="https://img.shields.io/github/forks/1posix/CVE-2026-41089-POC">	<img alt="stars" src="https://img.shields.io/github/stars/1posix/CVE-2026-41089-POC">
+- [1posix/CVE-2026-41089-PoC](https://github.com/1posix/CVE-2026-41089-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/1posix/CVE-2026-41089-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/1posix/CVE-2026-41089-PoC">
 
 ---
 ## CVE-2026-41044 ()

@@ -1695,7 +1695,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ---
 ## CVE-2024-54767 ()
 > 
-- [sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit](https://github.com/sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit">
+- [lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit](https://github.com/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit">
 
 ---
 ## CVE-2024-54761 ()
@@ -9864,6 +9864,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [R4mbb/CVE-2024-21626-PoC](https://github.com/R4mbb/CVE-2024-21626-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/R4mbb/CVE-2024-21626-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/R4mbb/CVE-2024-21626-PoC">
 - [strikoder/cve-2024-21626-runc-1.1.11-escape](https://github.com/strikoder/cve-2024-21626-runc-1.1.11-escape)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/cve-2024-21626-runc-1.1.11-escape">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/cve-2024-21626-runc-1.1.11-escape">
 - [scherepiuk/container-escape-ebpf](https://github.com/scherepiuk/container-escape-ebpf)	<img alt="forks" src="https://img.shields.io/github/forks/scherepiuk/container-escape-ebpf">	<img alt="stars" src="https://img.shields.io/github/stars/scherepiuk/container-escape-ebpf">
+- [RnW29/cve-2024-21626-runc-lab](https://github.com/RnW29/cve-2024-21626-runc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/RnW29/cve-2024-21626-runc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/RnW29/cve-2024-21626-runc-lab">
 
 ---
 ## CVE-2024-21591 (2024-01-12T01:15:00)

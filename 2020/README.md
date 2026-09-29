@@ -3275,6 +3275,7 @@
 - [GazettEl/CVE-2020-24186](https://github.com/GazettEl/CVE-2020-24186)	<img alt="forks" src="https://img.shields.io/github/forks/GazettEl/CVE-2020-24186">	<img alt="stars" src="https://img.shields.io/github/stars/GazettEl/CVE-2020-24186">
 - [sec-dojo-com/CVE-2020-24186](https://github.com/sec-dojo-com/CVE-2020-24186)	<img alt="forks" src="https://img.shields.io/github/forks/sec-dojo-com/CVE-2020-24186">	<img alt="stars" src="https://img.shields.io/github/stars/sec-dojo-com/CVE-2020-24186">
 - [wvverez/CVE-2020-24186](https://github.com/wvverez/CVE-2020-24186)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2020-24186">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2020-24186">
+- [kiyingiericmark-wq/CVE-2020-24186](https://github.com/kiyingiericmark-wq/CVE-2020-24186)	<img alt="forks" src="https://img.shields.io/github/forks/kiyingiericmark-wq/CVE-2020-24186">	<img alt="stars" src="https://img.shields.io/github/stars/kiyingiericmark-wq/CVE-2020-24186">
 
 ---
 ## CVE-2020-24089 (2023-09-20T00:15:00)
