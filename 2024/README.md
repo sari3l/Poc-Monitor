@@ -5074,6 +5074,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [RohitMalik7/cve-2024-38063-detection-mitigation-system](https://github.com/RohitMalik7/cve-2024-38063-detection-mitigation-system)	<img alt="forks" src="https://img.shields.io/github/forks/RohitMalik7/cve-2024-38063-detection-mitigation-system">	<img alt="stars" src="https://img.shields.io/github/stars/RohitMalik7/cve-2024-38063-detection-mitigation-system">
 - [hibaNITT/CVE-2024-38063](https://github.com/hibaNITT/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/hibaNITT/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/hibaNITT/CVE-2024-38063">
 - [Mayank637-pixel/CVE-2024-38063](https://github.com/Mayank637-pixel/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Mayank637-pixel/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Mayank637-pixel/CVE-2024-38063">
+- [izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab](https://github.com/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)

@@ -140,6 +140,7 @@
 > 
 - [HORKimhab/CVE-2026-94545](https://github.com/HORKimhab/CVE-2026-94545)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-94545">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-94545">
 - [Hassham1/CVE-2026-94545-nextjs-og-poc](https://github.com/Hassham1/CVE-2026-94545-nextjs-og-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-94545-nextjs-og-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-94545-nextjs-og-poc">
+- [EQSTLab/CVE-2026-94545](https://github.com/EQSTLab/CVE-2026-94545)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-94545">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-94545">
 
 ---
 ## CVE-2026-94504 ()
@@ -604,6 +605,7 @@
 ## CVE-2026-86950 ()
 > 
 - [DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/CVE-2026-86950-POC">
+- [DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/CVE-2026-86950-POC">
 
 ---
 ## CVE-2026-86547 ()
@@ -816,6 +818,7 @@
 ## CVE-2026-82901 ()
 > 
 - [murrez/CVE-2026-82901](https://github.com/murrez/CVE-2026-82901)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-82901">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-82901">
+- [tonydelouvre/CVE-2026-82901](https://github.com/tonydelouvre/CVE-2026-82901)	<img alt="forks" src="https://img.shields.io/github/forks/tonydelouvre/CVE-2026-82901">	<img alt="stars" src="https://img.shields.io/github/stars/tonydelouvre/CVE-2026-82901">
 
 ---
 ## CVE-2026-82876 ()
@@ -974,6 +977,12 @@
 ## CVE-2026-8069 ()
 > 
 - [S1eezer/CVE-2026-8069](https://github.com/S1eezer/CVE-2026-8069)	<img alt="forks" src="https://img.shields.io/github/forks/S1eezer/CVE-2026-8069">	<img alt="stars" src="https://img.shields.io/github/stars/S1eezer/CVE-2026-8069">
+
+---
+## CVE-2026-8065 ()
+> 
+- [MRdark-ops/CVE-2026-8065](https://github.com/MRdark-ops/CVE-2026-8065)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-8065">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-8065">
+- [murrez/CVE-2026-8065](https://github.com/murrez/CVE-2026-8065)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-8065">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-8065">
 
 ---
 ## CVE-2026-8053 ()
@@ -5381,6 +5390,14 @@
 - [RELIHR/CVE-2026-43499](https://github.com/RELIHR/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/RELIHR/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/RELIHR/CVE-2026-43499">
 - [0ch4/ghostlock-mrx-w09](https://github.com/0ch4/ghostlock-mrx-w09)	<img alt="forks" src="https://img.shields.io/github/forks/0ch4/ghostlock-mrx-w09">	<img alt="stars" src="https://img.shields.io/github/stars/0ch4/ghostlock-mrx-w09">
 - [ZeroDayEvil/CVE-2026-43499](https://github.com/ZeroDayEvil/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-43499">
+- [shubhampathak65/CVE-2026-43499](https://github.com/shubhampathak65/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/shubhampathak65/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/shubhampathak65/CVE-2026-43499">
+- [aniketlab/POCO-M7-Plus-Jailbreak](https://github.com/aniketlab/POCO-M7-Plus-Jailbreak)	<img alt="forks" src="https://img.shields.io/github/forks/aniketlab/POCO-M7-Plus-Jailbreak">	<img alt="stars" src="https://img.shields.io/github/stars/aniketlab/POCO-M7-Plus-Jailbreak">
+- [L-1124/RootMyVivo-rs](https://github.com/L-1124/RootMyVivo-rs)	<img alt="forks" src="https://img.shields.io/github/forks/L-1124/RootMyVivo-rs">	<img alt="stars" src="https://img.shields.io/github/stars/L-1124/RootMyVivo-rs">
+- [L-1124/RootMyVivo-Exploit](https://github.com/L-1124/RootMyVivo-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/L-1124/RootMyVivo-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/L-1124/RootMyVivo-Exploit">
+- [a2333c/DFRoot](https://github.com/a2333c/DFRoot)	<img alt="forks" src="https://img.shields.io/github/forks/a2333c/DFRoot">	<img alt="stars" src="https://img.shields.io/github/stars/a2333c/DFRoot">
+- [mo2g/redmi-note-12t-pro-kernel](https://github.com/mo2g/redmi-note-12t-pro-kernel)	<img alt="forks" src="https://img.shields.io/github/forks/mo2g/redmi-note-12t-pro-kernel">	<img alt="stars" src="https://img.shields.io/github/stars/mo2g/redmi-note-12t-pro-kernel">
+- [CKwasd/zenfone9-ghostlock](https://github.com/CKwasd/zenfone9-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/CKwasd/zenfone9-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/CKwasd/zenfone9-ghostlock">
+- [WitAqua-tools/Root-My-Device](https://github.com/WitAqua-tools/Root-My-Device)	<img alt="forks" src="https://img.shields.io/github/forks/WitAqua-tools/Root-My-Device">	<img alt="stars" src="https://img.shields.io/github/stars/WitAqua-tools/Root-My-Device">
 
 ---
 ## CVE-2026-43494 ()
