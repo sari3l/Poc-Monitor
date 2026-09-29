@@ -564,6 +564,7 @@
 - [abatsakidis/wp-cve-2026-87902-checker](https://github.com/abatsakidis/wp-cve-2026-87902-checker)	<img alt="forks" src="https://img.shields.io/github/forks/abatsakidis/wp-cve-2026-87902-checker">	<img alt="stars" src="https://img.shields.io/github/stars/abatsakidis/wp-cve-2026-87902-checker">
 - [Maalfer/CVE-2026-87902-exploit](https://github.com/Maalfer/CVE-2026-87902-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2026-87902-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2026-87902-exploit">
 - [MRdark-ops/CVE-2026-87902](https://github.com/MRdark-ops/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-87902">
+- [HackfutSecRoot/CVE-2026-87902](https://github.com/HackfutSecRoot/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/HackfutSecRoot/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/HackfutSecRoot/CVE-2026-87902">
 
 ---
 ## CVE-2026-87796 ()
@@ -11360,6 +11361,7 @@
 ## CVE-2026-18143 ()
 > 
 - [murrez/CVE-2026-18143](https://github.com/murrez/CVE-2026-18143)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-18143">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-18143">
+- [Wayang1337/CVE-2026-18143](https://github.com/Wayang1337/CVE-2026-18143)	<img alt="forks" src="https://img.shields.io/github/forks/Wayang1337/CVE-2026-18143">	<img alt="stars" src="https://img.shields.io/github/stars/Wayang1337/CVE-2026-18143">
 
 ---
 ## CVE-2026-1814 ()
@@ -12276,6 +12278,11 @@
 - [Xmyronn/CVE-2026-10288-AUTH-BYPASS](https://github.com/Xmyronn/CVE-2026-10288-AUTH-BYPASS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-10288-AUTH-BYPASS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-10288-AUTH-BYPASS">
 
 ---
+## CVE-2026-101894 ()
+> 
+- [murrez/CVE-2026-101894](https://github.com/murrez/CVE-2026-101894)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-101894">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-101894">
+
+---
 ## CVE-2026-10187 ()
 > 
 - [passwa11/CVE-2026-10187](https://github.com/passwa11/CVE-2026-10187)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-10187">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-10187">
@@ -12284,6 +12291,16 @@
 ## CVE-2026-10134 ()
 > 
 - [rmhowe425/POC-CVE-2026-10134](https://github.com/rmhowe425/POC-CVE-2026-10134)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-10134">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-10134">
+
+---
+## CVE-2026-101110 ()
+> 
+- [murrez/CVE-2026-101110](https://github.com/murrez/CVE-2026-101110)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-101110">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-101110">
+
+---
+## CVE-2026-101108 ()
+> 
+- [murrez/CVE-2026-101108](https://github.com/murrez/CVE-2026-101108)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-101108">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-101108">
 
 ---
 ## CVE-2026-10104 ()
@@ -12301,6 +12318,11 @@
 - [murrez/CVE-2026-100835](https://github.com/murrez/CVE-2026-100835)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-100835">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-100835">
 
 ---
+## CVE-2026-100752 ()
+> 
+- [murrez/CVE-2026-100752](https://github.com/murrez/CVE-2026-100752)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-100752">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-100752">
+
+---
 ## CVE-2026-100740 ()
 > 
 - [murrez/CVE-2026-100740](https://github.com/murrez/CVE-2026-100740)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-100740">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-100740">
@@ -12309,6 +12331,11 @@
 ## CVE-2026-100721 ()
 > 
 - [murrez/CVE-2026-100721](https://github.com/murrez/CVE-2026-100721)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-100721">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-100721">
+
+---
+## CVE-2026-100633 ()
+> 
+- [dpfkdlemtp/CVE-2026-100633](https://github.com/dpfkdlemtp/CVE-2026-100633)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/CVE-2026-100633">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/CVE-2026-100633">
 
 ---
 ## CVE-2026-10053 ()

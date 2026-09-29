@@ -1454,6 +1454,23 @@
 - [Pranjal6955/CVE-2021-4374-Testing-Package](https://github.com/Pranjal6955/CVE-2021-4374-Testing-Package)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2021-4374-Testing-Package">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2021-4374-Testing-Package">
 
 ---
+## CVE-2021-43718 ()
+> 
+- [dpfkdlemtp/CVE-2021-43718](https://github.com/dpfkdlemtp/CVE-2021-43718)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/CVE-2021-43718">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/CVE-2021-43718">
+
+---
+## CVE-2021-43717 ()
+> 
+- [dpfkdlemtp/CVE-2021-43717](https://github.com/dpfkdlemtp/CVE-2021-43717)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/CVE-2021-43717">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/CVE-2021-43717">
+- [dpfkdlemtp/epson-eh-tw5350-advisories](https://github.com/dpfkdlemtp/epson-eh-tw5350-advisories)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/epson-eh-tw5350-advisories">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/epson-eh-tw5350-advisories">
+
+---
+## CVE-2021-43716 ()
+> 
+- [dpfkdlemtp/CVE-2021-43716](https://github.com/dpfkdlemtp/CVE-2021-43716)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/CVE-2021-43716">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/CVE-2021-43716">
+- [dpfkdlemtp/epson-eh-tw5350-advisories](https://github.com/dpfkdlemtp/epson-eh-tw5350-advisories)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/epson-eh-tw5350-advisories">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/epson-eh-tw5350-advisories">
+
+---
 ## CVE-2021-43674 (2021-12-03T13:15:00)
 > ** UNSUPPORTED WHEN ASSIGNED ** ThinkUp 2.0-beta.10 is affected by a path manipulation vulnerability in Smarty.class.php. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [Live-Hack-CVE/CVE-2021-43674](https://github.com/Live-Hack-CVE/CVE-2021-43674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43674">
