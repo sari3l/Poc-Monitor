@@ -2895,6 +2895,7 @@
 - [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 - [sonnelon/CVE-2025-59528-PoC](https://github.com/sonnelon/CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sonnelon/CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sonnelon/CVE-2025-59528-PoC">
 - [hackpatato/PoC-and-yara-rules-of-CVE-2025-59528-Flowise-has-Remote-Code-Execution-vulnerability](https://github.com/hackpatato/PoC-and-yara-rules-of-CVE-2025-59528-Flowise-has-Remote-Code-Execution-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/hackpatato/PoC-and-yara-rules-of-CVE-2025-59528-Flowise-has-Remote-Code-Execution-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/hackpatato/PoC-and-yara-rules-of-CVE-2025-59528-Flowise-has-Remote-Code-Execution-vulnerability">
+- [Amoru-Bek/CVE-2025-59528-Poc](https://github.com/Amoru-Bek/CVE-2025-59528-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Amoru-Bek/CVE-2025-59528-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Amoru-Bek/CVE-2025-59528-Poc">
 
 ---
 ## CVE-2025-59503 ()
@@ -8526,7 +8527,7 @@
 - [CEAarab/CVE-2025-29927_env](https://github.com/CEAarab/CVE-2025-29927_env)	<img alt="forks" src="https://img.shields.io/github/forks/CEAarab/CVE-2025-29927_env">	<img alt="stars" src="https://img.shields.io/github/stars/CEAarab/CVE-2025-29927_env">
 - [AnonKryptiQuz/NextSploit](https://github.com/AnonKryptiQuz/NextSploit)	<img alt="forks" src="https://img.shields.io/github/forks/AnonKryptiQuz/NextSploit">	<img alt="stars" src="https://img.shields.io/github/stars/AnonKryptiQuz/NextSploit">
 - [w2hcorp/CVE-2025-29927-PoC](https://github.com/w2hcorp/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/w2hcorp/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/w2hcorp/CVE-2025-29927-PoC">
-- [ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927](https://github.com/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">
+- [ferpalma21/nextjs-scanner](https://github.com/ferpalma21/nextjs-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ferpalma21/nextjs-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ferpalma21/nextjs-scanner">
 - [dante01yoon/CVE-2025-29927](https://github.com/dante01yoon/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/dante01yoon/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/dante01yoon/CVE-2025-29927">
 - [ayato-shitomi/WebLab_CVE-2025-29927](https://github.com/ayato-shitomi/WebLab_CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ayato-shitomi/WebLab_CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ayato-shitomi/WebLab_CVE-2025-29927">
 - [Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927](https://github.com/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927">
@@ -8622,6 +8623,7 @@
 - [kuyrathdaro/cve-2025-29927](https://github.com/kuyrathdaro/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-29927">
 - [berraesen/nextjs-middleware-auth-bypass-lab](https://github.com/berraesen/nextjs-middleware-auth-bypass-lab)	<img alt="forks" src="https://img.shields.io/github/forks/berraesen/nextjs-middleware-auth-bypass-lab">	<img alt="stars" src="https://img.shields.io/github/stars/berraesen/nextjs-middleware-auth-bypass-lab">
 - [Ritinify/CVE-2025-29927-PoC](https://github.com/Ritinify/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ritinify/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ritinify/CVE-2025-29927-PoC">
+- [vulnace/CVE-2025-29927](https://github.com/vulnace/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/vulnace/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/vulnace/CVE-2025-29927">
 
 ---
 ## CVE-2025-29891 ()
