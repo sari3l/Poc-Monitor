@@ -520,6 +520,11 @@
 - [0xbekoo/CVE-2026-8863](https://github.com/0xbekoo/CVE-2026-8863)	<img alt="forks" src="https://img.shields.io/github/forks/0xbekoo/CVE-2026-8863">	<img alt="stars" src="https://img.shields.io/github/stars/0xbekoo/CVE-2026-8863">
 
 ---
+## CVE-2026-88629 ()
+> 
+- [ExploreIO/CVE-2026-88629-fastgpt-mcp-client-ssrf](https://github.com/ExploreIO/CVE-2026-88629-fastgpt-mcp-client-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreIO/CVE-2026-88629-fastgpt-mcp-client-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreIO/CVE-2026-88629-fastgpt-mcp-client-ssrf">
+
+---
 ## CVE-2026-88533 ()
 > 
 - [HEMLOCK-LYK/CVE-2026-88533](https://github.com/HEMLOCK-LYK/CVE-2026-88533)	<img alt="forks" src="https://img.shields.io/github/forks/HEMLOCK-LYK/CVE-2026-88533">	<img alt="stars" src="https://img.shields.io/github/stars/HEMLOCK-LYK/CVE-2026-88533">

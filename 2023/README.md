@@ -2354,6 +2354,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 > main.py in Searchor before 2.4.2 uses eval on CLI input, which may cause unexpected code execution.
 - [libertycityhacker/CVE-2023-43364-Exploit-CVE](https://github.com/libertycityhacker/CVE-2023-43364-Exploit-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/libertycityhacker/CVE-2023-43364-Exploit-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/libertycityhacker/CVE-2023-43364-Exploit-CVE">
 - [Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit](https://github.com/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit">
+- [IamSaishi/CVE-2023-43364_Exploit](https://github.com/IamSaishi/CVE-2023-43364_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IamSaishi/CVE-2023-43364_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IamSaishi/CVE-2023-43364_Exploit">
 
 ---
 ## CVE-2023-43326 (2023-09-25T22:15:00)
@@ -3507,6 +3508,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [RonF98/CVE-2023-38831-POC](https://github.com/RonF98/CVE-2023-38831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2023-38831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2023-38831-POC">
 - [olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis](https://github.com/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">
 - [lightningspeed221/Winrar-Exploit-CVE-2023-38831](https://github.com/lightningspeed221/Winrar-Exploit-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/lightningspeed221/Winrar-Exploit-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/lightningspeed221/Winrar-Exploit-CVE-2023-38831">
+- [KrioSocial/defender-bypass-winrar-cve-2023-38831](https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/KrioSocial/defender-bypass-winrar-cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/KrioSocial/defender-bypass-winrar-cve-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
