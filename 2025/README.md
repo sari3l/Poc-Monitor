@@ -8413,6 +8413,7 @@
 - [layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers](https://github.com/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers)	<img alt="forks" src="https://img.shields.io/github/forks/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers">	<img alt="stars" src="https://img.shields.io/github/stars/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers">
 - [HazaVVIP/CVE-2025-30208](https://github.com/HazaVVIP/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/HazaVVIP/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/HazaVVIP/CVE-2025-30208">
 - [cc3305/CVE-2025-30208](https://github.com/cc3305/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-30208">
+- [Minseo9503/cve-2025-30208](https://github.com/Minseo9503/cve-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/Minseo9503/cve-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/Minseo9503/cve-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
