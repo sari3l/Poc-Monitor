@@ -374,6 +374,11 @@
 - [SaiTeja-Erukude/CVE-2026-9147-uproot-rce](https://github.com/SaiTeja-Erukude/CVE-2026-9147-uproot-rce)	<img alt="forks" src="https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">	<img alt="stars" src="https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">
 
 ---
+## CVE-2026-91159 ()
+> 
+- [sl4x0/autheo-cve-2026-91159-poc](https://github.com/sl4x0/autheo-cve-2026-91159-poc)	<img alt="forks" src="https://img.shields.io/github/forks/sl4x0/autheo-cve-2026-91159-poc">	<img alt="stars" src="https://img.shields.io/github/stars/sl4x0/autheo-cve-2026-91159-poc">
+
+---
 ## CVE-2026-91097 ()
 > 
 - [Nxploited/CVE-2026-91097-CVE-2026-91106](https://github.com/Nxploited/CVE-2026-91097-CVE-2026-91106)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-91097-CVE-2026-91106">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-91097-CVE-2026-91106">
@@ -1597,6 +1602,7 @@
 - [dahnutz/zimbra-cve-2026-73570-ir](https://github.com/dahnutz/zimbra-cve-2026-73570-ir)	<img alt="forks" src="https://img.shields.io/github/forks/dahnutz/zimbra-cve-2026-73570-ir">	<img alt="stars" src="https://img.shields.io/github/stars/dahnutz/zimbra-cve-2026-73570-ir">
 - [juanpoch/CVE-2026-73570](https://github.com/juanpoch/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/juanpoch/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/juanpoch/CVE-2026-73570">
 - [hainhc/CVE-2026-73570](https://github.com/hainhc/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/hainhc/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/hainhc/CVE-2026-73570">
+- [0xBlackash/CVE-2026-73570](https://github.com/0xBlackash/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-73570">
 
 ---
 ## CVE-2026-73554 ()
