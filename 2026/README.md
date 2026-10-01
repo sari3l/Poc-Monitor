@@ -2817,6 +2817,11 @@
 - [abraxas/CVE-2026-62062](https://github.com/abraxas/CVE-2026-62062)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-62062">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-62062">
 
 ---
+## CVE-2026-62059 ()
+> 
+- [Hassham1/CVE-2026-62059-ultimate-member-sqli-poc](https://github.com/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc">
+
+---
 ## CVE-2026-61946 ()
 > 
 - [Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR](https://github.com/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">
@@ -12446,6 +12451,16 @@
 - [emilliewatson96/spryCVE-2026-10520](https://github.com/emilliewatson96/spryCVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/emilliewatson96/spryCVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/emilliewatson96/spryCVE-2026-10520">
 - [imbas007/RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/imbas007/RCE-CVE-2026-10520-CVE-2026-10523)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/RCE-CVE-2026-10520-CVE-2026-10523">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/RCE-CVE-2026-10520-CVE-2026-10523">
 - [gduma-phData/patch-CVE-2026-10520](https://github.com/gduma-phData/patch-CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-10520">
+
+---
+## CVE-2026-104110 ()
+> 
+- [pervinzahidli/CVE-2026-104110](https://github.com/pervinzahidli/CVE-2026-104110)	<img alt="forks" src="https://img.shields.io/github/forks/pervinzahidli/CVE-2026-104110">	<img alt="stars" src="https://img.shields.io/github/stars/pervinzahidli/CVE-2026-104110">
+
+---
+## CVE-2026-103977 ()
+> 
+- [pervinzahidli/CVE-2026-103977](https://github.com/pervinzahidli/CVE-2026-103977)	<img alt="forks" src="https://img.shields.io/github/forks/pervinzahidli/CVE-2026-103977">	<img alt="stars" src="https://img.shields.io/github/stars/pervinzahidli/CVE-2026-103977">
 
 ---
 ## CVE-2026-103585 ()
