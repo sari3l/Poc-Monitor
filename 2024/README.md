@@ -1521,6 +1521,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591](https://github.com/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591">
 - [UMChacker/CVE-2024-55591-POC](https://github.com/UMChacker/CVE-2024-55591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/UMChacker/CVE-2024-55591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/UMChacker/CVE-2024-55591-POC">
 - [uLl0a/cve-2024-55591-poc](https://github.com/uLl0a/cve-2024-55591-poc)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/cve-2024-55591-poc">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/cve-2024-55591-poc">
+- [gotr00t0day/CVE-2024-55591](https://github.com/gotr00t0day/CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2024-55591">
 
 ---
 ## CVE-2024-55587 ()

@@ -156,6 +156,11 @@
 - [0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/0xmhany/CVE-2026-9645-ScadaBR-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/0xmhany/CVE-2026-9645-ScadaBR-Analysis">
 
 ---
+## CVE-2026-96349 ()
+> 
+- [murrez/CVE-2026-96349](https://github.com/murrez/CVE-2026-96349)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-96349">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-96349">
+
+---
 ## CVE-2026-9586 ()
 > 
 - [HORKimhab/CVE-2026-9586](https://github.com/HORKimhab/CVE-2026-9586)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9586">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9586">
@@ -293,6 +298,11 @@
 ## CVE-2026-93349 ()
 > 
 - [SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection](https://github.com/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection">
+
+---
+## CVE-2026-92966 ()
+> 
+- [murrez/CVE-2026-92966](https://github.com/murrez/CVE-2026-92966)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-92966">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-92966">
 
 ---
 ## CVE-2026-9290 ()
@@ -3091,6 +3101,7 @@
 - [0xgh057r3c0n/CVE-2026-58138](https://github.com/0xgh057r3c0n/CVE-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-58138">
 - [Procjevt/CVE-2026-58138](https://github.com/Procjevt/CVE-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/Procjevt/CVE-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/Procjevt/CVE-2026-58138">
 - [0xBlackash/CVE-2026-58138](https://github.com/0xBlackash/CVE-2026-58138)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-58138">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-58138">
+- [Ez4rd1x1/CVE-2026-58138-Research](https://github.com/Ez4rd1x1/CVE-2026-58138-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Ez4rd1x1/CVE-2026-58138-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Ez4rd1x1/CVE-2026-58138-Research">
 
 ---
 ## CVE-2026-58116 ()
@@ -4449,6 +4460,11 @@
 - [lukehebe/IBM-Langflow-CVE-2026-48519-poc](https://github.com/lukehebe/IBM-Langflow-CVE-2026-48519-poc)	<img alt="forks" src="https://img.shields.io/github/forks/lukehebe/IBM-Langflow-CVE-2026-48519-poc">	<img alt="stars" src="https://img.shields.io/github/stars/lukehebe/IBM-Langflow-CVE-2026-48519-poc">
 
 ---
+## CVE-2026-48500 ()
+> 
+- [rimbadirgantara/CVE-2026-48500](https://github.com/rimbadirgantara/CVE-2026-48500)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2026-48500">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2026-48500">
+
+---
 ## CVE-2026-48356 ()
 > 
 - [abraxas/CVE-2026-48356](https://github.com/abraxas/CVE-2026-48356)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-48356">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-48356">
@@ -5493,6 +5509,7 @@
 - [WitAqua-tools/Root-My-Device](https://github.com/WitAqua-tools/Root-My-Device)	<img alt="forks" src="https://img.shields.io/github/forks/WitAqua-tools/Root-My-Device">	<img alt="stars" src="https://img.shields.io/github/stars/WitAqua-tools/Root-My-Device">
 - [HaSiyo/Root-My-Galaxy-Payloads-KernelSU](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-KernelSU)	<img alt="forks" src="https://img.shields.io/github/forks/HaSiyo/Root-My-Galaxy-Payloads-KernelSU">	<img alt="stars" src="https://img.shields.io/github/stars/HaSiyo/Root-My-Galaxy-Payloads-KernelSU">
 - [HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next)	<img alt="forks" src="https://img.shields.io/github/forks/HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next">	<img alt="stars" src="https://img.shields.io/github/stars/HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next">
+- [YUE546/IQOO-neo7-ghostlock-43499](https://github.com/YUE546/IQOO-neo7-ghostlock-43499)	<img alt="forks" src="https://img.shields.io/github/forks/YUE546/IQOO-neo7-ghostlock-43499">	<img alt="stars" src="https://img.shields.io/github/stars/YUE546/IQOO-neo7-ghostlock-43499">
 
 ---
 ## CVE-2026-43494 ()
