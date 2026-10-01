@@ -10280,6 +10280,7 @@
 - [RamenFast/zenfone9-root](https://github.com/RamenFast/zenfone9-root)	<img alt="forks" src="https://img.shields.io/github/forks/RamenFast/zenfone9-root">	<img alt="stars" src="https://img.shields.io/github/stars/RamenFast/zenfone9-root">
 - [diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P">
 - [xianwan1314/cve-2025-21479-iqoo11pro](https://github.com/xianwan1314/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/xianwan1314/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/xianwan1314/cve-2025-21479-iqoo11pro">
+- [diyiqiuye/CVE-2025-21479-FX3](https://github.com/diyiqiuye/CVE-2025-21479-FX3)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX3">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX3">
 
 ---
 ## CVE-2025-21420 ()
