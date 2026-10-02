@@ -6543,6 +6543,11 @@
 - [Smarttfoxx/CVE-2025-45778](https://github.com/Smarttfoxx/CVE-2025-45778)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-45778">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-45778">
 
 ---
+## CVE-2025-45737 ()
+> 
+- [Shinn-Home/CVE-2025-45737](https://github.com/Shinn-Home/CVE-2025-45737)	<img alt="forks" src="https://img.shields.io/github/forks/Shinn-Home/CVE-2025-45737">	<img alt="stars" src="https://img.shields.io/github/stars/Shinn-Home/CVE-2025-45737">
+
+---
 ## CVE-2025-45710 ()
 > 
 - [partywavesec/CVE-2025-45710](https://github.com/partywavesec/CVE-2025-45710)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2025-45710">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2025-45710">
@@ -9692,9 +9697,10 @@
 ---
 ## CVE-2025-24801 ()
 > 
-- [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/r1beirin/CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/r1beirin/CVE-2025-24801">
+- [r1beirin/Exploit-CVE-2025-24801](https://github.com/r1beirin/Exploit-CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/r1beirin/Exploit-CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/r1beirin/Exploit-CVE-2025-24801">
 - [fatkz/CVE-2025-24801](https://github.com/fatkz/CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-24801">
 - [b4sh0xf/PoC-CVE-2025-24801](https://github.com/b4sh0xf/PoC-CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/b4sh0xf/PoC-CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/b4sh0xf/PoC-CVE-2025-24801">
+- [kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE](https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE">
 
 ---
 ## CVE-2025-24799 ()
@@ -10293,6 +10299,7 @@
 - [diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P">
 - [xianwan1314/cve-2025-21479-iqoo11pro](https://github.com/xianwan1314/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/xianwan1314/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/xianwan1314/cve-2025-21479-iqoo11pro">
 - [diyiqiuye/CVE-2025-21479-FX3](https://github.com/diyiqiuye/CVE-2025-21479-FX3)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX3">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX3">
+- [longg66/cve-2025-21479_iqooneo7speed](https://github.com/longg66/cve-2025-21479_iqooneo7speed)	<img alt="forks" src="https://img.shields.io/github/forks/longg66/cve-2025-21479_iqooneo7speed">	<img alt="stars" src="https://img.shields.io/github/stars/longg66/cve-2025-21479_iqooneo7speed">
 
 ---
 ## CVE-2025-21420 ()
