@@ -5121,6 +5121,9 @@
 - [saitoken241/CVE-2026-4480-POC](https://github.com/saitoken241/CVE-2026-4480-POC)	<img alt="forks" src="https://img.shields.io/github/forks/saitoken241/CVE-2026-4480-POC">	<img alt="stars" src="https://img.shields.io/github/stars/saitoken241/CVE-2026-4480-POC">
 - [Vusal777/CVE-2026-4480-exploit-poc](https://github.com/Vusal777/CVE-2026-4480-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Vusal777/CVE-2026-4480-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Vusal777/CVE-2026-4480-exploit-poc">
 - [ClearLotus-git/CVE-2026-4480-PoC](https://github.com/ClearLotus-git/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClearLotus-git/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClearLotus-git/CVE-2026-4480-PoC">
+- [AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce](https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce)	<img alt="forks" src="https://img.shields.io/github/forks/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce">	<img alt="stars" src="https://img.shields.io/github/stars/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce">
+- [timgad794/Abducted-HTB-Writeup](https://github.com/timgad794/Abducted-HTB-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/timgad794/Abducted-HTB-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/timgad794/Abducted-HTB-Writeup">
+- [SafeBreach-Labs/ForgottenButNotGone](https://github.com/SafeBreach-Labs/ForgottenButNotGone)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/ForgottenButNotGone">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/ForgottenButNotGone">
 
 ---
 ## CVE-2026-44789 ()
@@ -6498,6 +6501,7 @@
 - [ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808](https://github.com/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">
 - [HORKimhab/CVE-2026-39808](https://github.com/HORKimhab/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39808">
 - [error-inside/CVE-2026-39808](https://github.com/error-inside/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2026-39808">
+- [gotr00t0day/CVE-2026-39808](https://github.com/gotr00t0day/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2026-39808">
 
 ---
 ## CVE-2026-39676 ()
