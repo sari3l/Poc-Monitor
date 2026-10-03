@@ -1533,7 +1533,7 @@
 ---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
 > A remote code execution vulnerability in HPE intelligent Management Center (iMC) PLAT version Plat 7.3 E0504P4 and earlier was found.
-- [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2017-12561">
+- [parapapinho/CVE-2017-12561](https://github.com/parapapinho/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/parapapinho/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/parapapinho/CVE-2017-12561">
 
 ---
 ## CVE-2017-12542 ()
