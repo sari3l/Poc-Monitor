@@ -2135,6 +2135,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [0xDaeras/CVE-2024-51482-POC](https://github.com/0xDaeras/CVE-2024-51482-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/CVE-2024-51482-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/CVE-2024-51482-POC">
 - [mattiapertusati/htb-cctv](https://github.com/mattiapertusati/htb-cctv)	<img alt="forks" src="https://img.shields.io/github/forks/mattiapertusati/htb-cctv">	<img alt="stars" src="https://img.shields.io/github/stars/mattiapertusati/htb-cctv">
 - [Revnin/CCTV-MACHINE](https://github.com/Revnin/CCTV-MACHINE)	<img alt="forks" src="https://img.shields.io/github/forks/Revnin/CCTV-MACHINE">	<img alt="stars" src="https://img.shields.io/github/stars/Revnin/CCTV-MACHINE">
+- [diamorphine666/CVE-2024-51482](https://github.com/diamorphine666/CVE-2024-51482)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2024-51482">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2024-51482">
 
 ---
 ## CVE-2024-51442 ()
