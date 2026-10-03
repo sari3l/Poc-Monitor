@@ -36171,6 +36171,11 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Live-Hack-CVE/CVE-2022-0897](https://github.com/Live-Hack-CVE/CVE-2022-0897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0897">
 
 ---
+## CVE-2022-0891 ()
+> 
+- [flavorex0000/libtiff-cve-2022-0891-lab](https://github.com/flavorex0000/libtiff-cve-2022-0891-lab)	<img alt="forks" src="https://img.shields.io/github/forks/flavorex0000/libtiff-cve-2022-0891-lab">	<img alt="stars" src="https://img.shields.io/github/stars/flavorex0000/libtiff-cve-2022-0891-lab">
+
+---
 ## CVE-2022-0854 (2022-03-23T20:15:00)
 > A memory leak flaw was found in the Linux kernel’s DMA subsystem, in the way a user calls DMA_FROM_DEVICE. This flaw allows a local user to read random memory from the kernel space.
 - [Live-Hack-CVE/CVE-2022-0854](https://github.com/Live-Hack-CVE/CVE-2022-0854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0854">
