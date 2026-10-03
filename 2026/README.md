@@ -407,6 +407,11 @@
 - [murrez/HP-HPLIP-Mass-CVE-checker-2026-09-](https://github.com/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-">
 
 ---
+## CVE-2026-90970 ()
+> 
+- [techupdate24/gitlab-ai-gateway-cve-2026-90970](https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970)	<img alt="forks" src="https://img.shields.io/github/forks/techupdate24/gitlab-ai-gateway-cve-2026-90970">	<img alt="stars" src="https://img.shields.io/github/stars/techupdate24/gitlab-ai-gateway-cve-2026-90970">
+
+---
 ## CVE-2026-90907 ()
 > 
 - [aorozco-sys/CVE-2026-90907](https://github.com/aorozco-sys/CVE-2026-90907)	<img alt="forks" src="https://img.shields.io/github/forks/aorozco-sys/CVE-2026-90907">	<img alt="stars" src="https://img.shields.io/github/stars/aorozco-sys/CVE-2026-90907">
@@ -5113,7 +5118,7 @@
 - [robinxiang/CVE-2026-4480](https://github.com/robinxiang/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/robinxiang/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/robinxiang/CVE-2026-4480">
 - [0xBlackash/CVE-2026-4480](https://github.com/0xBlackash/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-4480">
 - [TheCyberGeek/CVE-2026-4480-PoC](https://github.com/TheCyberGeek/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-4480-PoC">
-- [CarlosEduardoPM/CVE-2026-4480-POC](https://github.com/CarlosEduardoPM/CVE-2026-4480-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosEduardoPM/CVE-2026-4480-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosEduardoPM/CVE-2026-4480-POC">
+- [saitoken241/CVE-2026-4480-POC](https://github.com/saitoken241/CVE-2026-4480-POC)	<img alt="forks" src="https://img.shields.io/github/forks/saitoken241/CVE-2026-4480-POC">	<img alt="stars" src="https://img.shields.io/github/stars/saitoken241/CVE-2026-4480-POC">
 - [Vusal777/CVE-2026-4480-exploit-poc](https://github.com/Vusal777/CVE-2026-4480-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Vusal777/CVE-2026-4480-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Vusal777/CVE-2026-4480-exploit-poc">
 - [ClearLotus-git/CVE-2026-4480-PoC](https://github.com/ClearLotus-git/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClearLotus-git/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClearLotus-git/CVE-2026-4480-PoC">
 
@@ -11348,6 +11353,7 @@
 ## CVE-2026-19660 ()
 > 
 - [murrez/CVE-2026-19660](https://github.com/murrez/CVE-2026-19660)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-19660">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-19660">
+- [MRdark-ops/CVE-2026-19660-exploit](https://github.com/MRdark-ops/CVE-2026-19660-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-19660-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-19660-exploit">
 
 ---
 ## CVE-2026-19658 ()
@@ -11992,6 +11998,11 @@
 - [0xdak/CVE-2026-14483_exploit](https://github.com/0xdak/CVE-2026-14483_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-14483_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-14483_exploit">
 
 ---
+## CVE-2026-14461 ()
+> 
+- [sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root](https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root)	<img alt="forks" src="https://img.shields.io/github/forks/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root">	<img alt="stars" src="https://img.shields.io/github/stars/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root">
+
+---
 ## CVE-2026-14459 ()
 > 
 - [dasokkk/CVE-2026-14459-14460-pardus-software](https://github.com/dasokkk/CVE-2026-14459-14460-pardus-software)	<img alt="forks" src="https://img.shields.io/github/forks/dasokkk/CVE-2026-14459-14460-pardus-software">	<img alt="stars" src="https://img.shields.io/github/stars/dasokkk/CVE-2026-14459-14460-pardus-software">
@@ -12587,6 +12598,11 @@
 ## CVE-2026-103752 ()
 > 
 - [anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation](https://github.com/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation">
+
+---
+## CVE-2026-103648 ()
+> 
+- [EterNullSec/CVE-2026-103648](https://github.com/EterNullSec/CVE-2026-103648)	<img alt="forks" src="https://img.shields.io/github/forks/EterNullSec/CVE-2026-103648">	<img alt="stars" src="https://img.shields.io/github/stars/EterNullSec/CVE-2026-103648">
 
 ---
 ## CVE-2026-103585 ()
