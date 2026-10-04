@@ -8888,6 +8888,7 @@
 - [jake-young-dev/CVE-2026-27944](https://github.com/jake-young-dev/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/jake-young-dev/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/jake-young-dev/CVE-2026-27944">
 - [BimaBalance/Cve-2026-27944-Tools-Exploit](https://github.com/BimaBalance/Cve-2026-27944-Tools-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/BimaBalance/Cve-2026-27944-Tools-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/BimaBalance/Cve-2026-27944-Tools-Exploit">
 - [karimelsheikh1/HTB-Snapped-Writeup](https://github.com/karimelsheikh1/HTB-Snapped-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Snapped-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Snapped-Writeup">
+- [diamorphine666/CVE-2026-27944](https://github.com/diamorphine666/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-27944">
 
 ---
 ## CVE-2026-27940 ()
@@ -12587,6 +12588,11 @@
 ## CVE-2026-103977 ()
 > 
 - [pervinzahidli/CVE-2026-103977](https://github.com/pervinzahidli/CVE-2026-103977)	<img alt="forks" src="https://img.shields.io/github/forks/pervinzahidli/CVE-2026-103977">	<img alt="stars" src="https://img.shields.io/github/stars/pervinzahidli/CVE-2026-103977">
+
+---
+## CVE-2026-103956 ()
+> 
+- [abraxas/cve-2026-103956-loom-unauth](https://github.com/abraxas/cve-2026-103956-loom-unauth)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/cve-2026-103956-loom-unauth">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/cve-2026-103956-loom-unauth">
 
 ---
 ## CVE-2026-103931 ()
