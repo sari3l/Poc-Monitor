@@ -11758,6 +11758,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [ccordeiro/CVE-2022-40684](https://github.com/ccordeiro/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2022-40684">
 - [dkstar11q/CVE-2022-40684](https://github.com/dkstar11q/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/CVE-2022-40684">
 - [pintukumar-sutradhar/fortigate-cve-2022-40684-tool](https://github.com/pintukumar-sutradhar/fortigate-cve-2022-40684-tool)	<img alt="forks" src="https://img.shields.io/github/forks/pintukumar-sutradhar/fortigate-cve-2022-40684-tool">	<img alt="stars" src="https://img.shields.io/github/stars/pintukumar-sutradhar/fortigate-cve-2022-40684-tool">
+- [gotr00t0day/CVE-2022-40684](https://github.com/gotr00t0day/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2022-40684">
 
 ---
 ## CVE-2022-40680 (2022-12-06T17:15:00)
