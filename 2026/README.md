@@ -11790,6 +11790,11 @@
 - [Instructor-Admin/CVE-2026-15964-PoC](https://github.com/Instructor-Admin/CVE-2026-15964-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Instructor-Admin/CVE-2026-15964-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Instructor-Admin/CVE-2026-15964-PoC">
 
 ---
+## CVE-2026-15911 ()
+> 
+- [rahulreddykarne/CVE-2026-15911-Confluent_Kafka](https://github.com/rahulreddykarne/CVE-2026-15911-Confluent_Kafka)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-15911-Confluent_Kafka">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-15911-Confluent_Kafka">
+
+---
 ## CVE-2026-15826 ()
 > 
 - [HORKimhab/CVE-2026-15826-CVE-2026-15748](https://github.com/HORKimhab/CVE-2026-15826-CVE-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-15826-CVE-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-15826-CVE-2026-15748">
