@@ -151,6 +151,11 @@
 - [abraxas/CVE-2026-96512](https://github.com/abraxas/CVE-2026-96512)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-96512">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-96512">
 
 ---
+## CVE-2026-96451 ()
+> 
+- [Nxploited/CVE-2026-96451](https://github.com/Nxploited/CVE-2026-96451)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-96451">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-96451">
+
+---
 ## CVE-2026-9645 ()
 > 
 - [0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/0xmhany/CVE-2026-9645-ScadaBR-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/0xmhany/CVE-2026-9645-ScadaBR-Analysis">
@@ -12569,6 +12574,11 @@
 - [asvorg/CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-105030-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-105030-poc">
 
 ---
+## CVE-2026-104991 ()
+> 
+- [wvllxe/CVE-2026-104991](https://github.com/wvllxe/CVE-2026-104991)	<img alt="forks" src="https://img.shields.io/github/forks/wvllxe/CVE-2026-104991">	<img alt="stars" src="https://img.shields.io/github/stars/wvllxe/CVE-2026-104991">
+
+---
 ## CVE-2026-104826 ()
 > 
 - [KiwKNR/CVE-2026-104826](https://github.com/KiwKNR/CVE-2026-104826)	<img alt="forks" src="https://img.shields.io/github/forks/KiwKNR/CVE-2026-104826">	<img alt="stars" src="https://img.shields.io/github/stars/KiwKNR/CVE-2026-104826">
@@ -12668,6 +12678,11 @@
 ## CVE-2026-103437 ()
 > 
 - [BomboBombone/CVE-2026-103437](https://github.com/BomboBombone/CVE-2026-103437)	<img alt="forks" src="https://img.shields.io/github/forks/BomboBombone/CVE-2026-103437">	<img alt="stars" src="https://img.shields.io/github/stars/BomboBombone/CVE-2026-103437">
+
+---
+## CVE-2026-103355 ()
+> 
+- [Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc](https://github.com/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc">
 
 ---
 ## CVE-2026-102975 ()
