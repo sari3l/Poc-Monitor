@@ -722,6 +722,11 @@
 - [msuiche/hotcell](https://github.com/msuiche/hotcell)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/hotcell">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/hotcell">
 
 ---
+## CVE-2026-86881 ()
+> 
+- [0xcrypto/CVE-2026-86881](https://github.com/0xcrypto/CVE-2026-86881)	<img alt="forks" src="https://img.shields.io/github/forks/0xcrypto/CVE-2026-86881">	<img alt="stars" src="https://img.shields.io/github/stars/0xcrypto/CVE-2026-86881">
+
+---
 ## CVE-2026-86595 ()
 > 
 - [Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti)	<img alt="forks" src="https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti">	<img alt="stars" src="https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti">
