@@ -4642,6 +4642,7 @@
 ## CVE-2025-54769 ()
 > 
 - [byteReaper77/CVE-2025-54769](https://github.com/byteReaper77/CVE-2025-54769)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-54769">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-54769">
+- [tunahantekeoglu/CVE-2025-54769](https://github.com/tunahantekeoglu/CVE-2025-54769)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-54769">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-54769">
 
 ---
 ## CVE-2025-54726 ()
