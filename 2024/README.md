@@ -4519,6 +4519,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40453 ()
 > 
 - [BwithE/CVE-2024-40453](https://github.com/BwithE/CVE-2024-40453)	<img alt="forks" src="https://img.shields.io/github/forks/BwithE/CVE-2024-40453">	<img alt="stars" src="https://img.shields.io/github/stars/BwithE/CVE-2024-40453">
+- [AC8999/CVE-2024-40453](https://github.com/AC8999/CVE-2024-40453)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2024-40453">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2024-40453">
 
 ---
 ## CVE-2024-40445 ()

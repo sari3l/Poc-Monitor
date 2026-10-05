@@ -10893,6 +10893,7 @@
 ## CVE-2025-14659 ()
 > 
 - [PeterLinccl/Vulnerability-DLink-CVE-2025-14659](https://github.com/PeterLinccl/Vulnerability-DLink-CVE-2025-14659)	<img alt="forks" src="https://img.shields.io/github/forks/PeterLinccl/Vulnerability-DLink-CVE-2025-14659">	<img alt="stars" src="https://img.shields.io/github/stars/PeterLinccl/Vulnerability-DLink-CVE-2025-14659">
+- [PeterLinccl/CVE-2025-14659-DIR-860L](https://github.com/PeterLinccl/CVE-2025-14659-DIR-860L)	<img alt="forks" src="https://img.shields.io/github/forks/PeterLinccl/CVE-2025-14659-DIR-860L">	<img alt="stars" src="https://img.shields.io/github/stars/PeterLinccl/CVE-2025-14659-DIR-860L">
 
 ---
 ## CVE-2025-14611 ()

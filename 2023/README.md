@@ -1980,6 +1980,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [0xBADACTOR/CVE-2023-45866](https://github.com/0xBADACTOR/CVE-2023-45866)	<img alt="forks" src="https://img.shields.io/github/forks/0xBADACTOR/CVE-2023-45866">	<img alt="stars" src="https://img.shields.io/github/stars/0xBADACTOR/CVE-2023-45866">
 - [hegaz0y/-BuL](https://github.com/hegaz0y/-BuL)	<img alt="forks" src="https://img.shields.io/github/forks/hegaz0y/-BuL">	<img alt="stars" src="https://img.shields.io/github/stars/hegaz0y/-BuL">
 - [Sergeb250/BlueDucky](https://github.com/Sergeb250/BlueDucky)	<img alt="forks" src="https://img.shields.io/github/forks/Sergeb250/BlueDucky">	<img alt="stars" src="https://img.shields.io/github/stars/Sergeb250/BlueDucky">
+- [KiroShehata/CVE-2023-45866-Bluetooth-Security-Research](https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research)	<img alt="forks" src="https://img.shields.io/github/forks/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research">	<img alt="stars" src="https://img.shields.io/github/stars/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research">
 
 ---
 ## CVE-2023-45857 (2023-11-08T21:15:00)

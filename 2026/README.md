@@ -1991,6 +1991,11 @@
 - [fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass](https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass">
 
 ---
+## CVE-2026-69137 ()
+> 
+- [EntroVyx/CVE-2026-69137](https://github.com/EntroVyx/CVE-2026-69137)	<img alt="forks" src="https://img.shields.io/github/forks/EntroVyx/CVE-2026-69137">	<img alt="stars" src="https://img.shields.io/github/stars/EntroVyx/CVE-2026-69137">
+
+---
 ## CVE-2026-69099 ()
 > 
 - [test3cd3wqe/CVE-2026-69099-poc](https://github.com/test3cd3wqe/CVE-2026-69099-poc)	<img alt="forks" src="https://img.shields.io/github/forks/test3cd3wqe/CVE-2026-69099-poc">	<img alt="stars" src="https://img.shields.io/github/stars/test3cd3wqe/CVE-2026-69099-poc">
@@ -6476,6 +6481,7 @@
 - [iapetus12/cohort-htb](https://github.com/iapetus12/cohort-htb)	<img alt="forks" src="https://img.shields.io/github/forks/iapetus12/cohort-htb">	<img alt="stars" src="https://img.shields.io/github/stars/iapetus12/cohort-htb">
 - [mfahdk/CVE-2026-39987_RCE_PoC](https://github.com/mfahdk/CVE-2026-39987_RCE_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mfahdk/CVE-2026-39987_RCE_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mfahdk/CVE-2026-39987_RCE_PoC">
 - [LaArana12/CVE-2026-39987-Marimo-Preauth-RCE](https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">
 
 ---
 ## CVE-2026-39983 ()
@@ -7905,6 +7911,8 @@
 > 
 - [0xTatsuki/CVE-2026-31857](https://github.com/0xTatsuki/CVE-2026-31857)	<img alt="forks" src="https://img.shields.io/github/forks/0xTatsuki/CVE-2026-31857">	<img alt="stars" src="https://img.shields.io/github/stars/0xTatsuki/CVE-2026-31857">
 - [0Asylum/CVE-2026-31857](https://github.com/0Asylum/CVE-2026-31857)	<img alt="forks" src="https://img.shields.io/github/forks/0Asylum/CVE-2026-31857">	<img alt="stars" src="https://img.shields.io/github/stars/0Asylum/CVE-2026-31857">
+- [WhiteMachin3/CVE-2026-31857](https://github.com/WhiteMachin3/CVE-2026-31857)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteMachin3/CVE-2026-31857">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteMachin3/CVE-2026-31857">
+- [TRX-0/CVE-2026-31857-craftcms-ssti](https://github.com/TRX-0/CVE-2026-31857-craftcms-ssti)	<img alt="forks" src="https://img.shields.io/github/forks/TRX-0/CVE-2026-31857-craftcms-ssti">	<img alt="stars" src="https://img.shields.io/github/stars/TRX-0/CVE-2026-31857-craftcms-ssti">
 
 ---
 ## CVE-2026-31844 ()
@@ -11791,6 +11799,11 @@
 ## CVE-2026-16475 ()
 > 
 - [afertar/CVE-2026-16475-PoC](https://github.com/afertar/CVE-2026-16475-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/afertar/CVE-2026-16475-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/afertar/CVE-2026-16475-PoC">
+
+---
+## CVE-2026-16444 ()
+> 
+- [jamir0quai/CVE-2026-16444](https://github.com/jamir0quai/CVE-2026-16444)	<img alt="forks" src="https://img.shields.io/github/forks/jamir0quai/CVE-2026-16444">	<img alt="stars" src="https://img.shields.io/github/stars/jamir0quai/CVE-2026-16444">
 
 ---
 ## CVE-2026-16348 ()
