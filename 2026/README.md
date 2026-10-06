@@ -3242,6 +3242,11 @@
 - [riddhimaan-sth404/CVE-2026-57973](https://github.com/riddhimaan-sth404/CVE-2026-57973)	<img alt="forks" src="https://img.shields.io/github/forks/riddhimaan-sth404/CVE-2026-57973">	<img alt="stars" src="https://img.shields.io/github/stars/riddhimaan-sth404/CVE-2026-57973">
 
 ---
+## CVE-2026-57967 ()
+> 
+- [c0dem4sters/CVE-2026-57967](https://github.com/c0dem4sters/CVE-2026-57967)	<img alt="forks" src="https://img.shields.io/github/forks/c0dem4sters/CVE-2026-57967">	<img alt="stars" src="https://img.shields.io/github/stars/c0dem4sters/CVE-2026-57967">
+
+---
 ## CVE-2026-57858 ()
 > 
 - [zylideum/CVE-2026-57858](https://github.com/zylideum/CVE-2026-57858)	<img alt="forks" src="https://img.shields.io/github/forks/zylideum/CVE-2026-57858">	<img alt="stars" src="https://img.shields.io/github/stars/zylideum/CVE-2026-57858">
@@ -6701,11 +6706,13 @@
 - [fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.](https://github.com/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.">
 - [Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher](https://github.com/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher">
 - [netw0rk7/CVE-2026-3888-PoC](https://github.com/netw0rk7/CVE-2026-3888-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2026-3888-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2026-3888-PoC">
-- [nomaisthere/CVE-2026-3888](https://github.com/nomaisthere/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/nomaisthere/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/nomaisthere/CVE-2026-3888">
+- [noambouillet/CVE-2026-3888](https://github.com/noambouillet/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/noambouillet/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/noambouillet/CVE-2026-3888">
 - [DanielTangnes/CVE-2026-3888](https://github.com/DanielTangnes/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/DanielTangnes/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/DanielTangnes/CVE-2026-3888">
 - [TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE](https://github.com/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">
 - [hewhomusntbenamed/CVE-2026-3888-fixed](https://github.com/hewhomusntbenamed/CVE-2026-3888-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/hewhomusntbenamed/CVE-2026-3888-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/hewhomusntbenamed/CVE-2026-3888-fixed">
 - [karimelsheikh1/HTB-Snapped-Writeup](https://github.com/karimelsheikh1/HTB-Snapped-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Snapped-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Snapped-Writeup">
+- [AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation](https://github.com/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation">
+- [Bailan766/rmx3888-cve-2026-43499-config](https://github.com/Bailan766/rmx3888-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/Bailan766/rmx3888-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/Bailan766/rmx3888-cve-2026-43499-config">
 
 ---
 ## CVE-2026-38766 ()
@@ -10885,6 +10892,8 @@
 ## CVE-2026-21589 ()
 > 
 - [MarcusProgram/CVE-2026-21589](https://github.com/MarcusProgram/CVE-2026-21589)	<img alt="forks" src="https://img.shields.io/github/forks/MarcusProgram/CVE-2026-21589">	<img alt="stars" src="https://img.shields.io/github/stars/MarcusProgram/CVE-2026-21589">
+- [tc4dy/CVE-2026-21589-PoC-Exploit](https://github.com/tc4dy/CVE-2026-21589-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-21589-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-21589-PoC-Exploit">
+- [watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589](https://github.com/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589">
 
 ---
 ## CVE-2026-21536 ()
