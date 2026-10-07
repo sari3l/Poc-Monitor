@@ -1832,6 +1832,8 @@ use after free.
 - [flipphoneguy/root-sonim-xp3800](https://github.com/flipphoneguy/root-sonim-xp3800)	<img alt="forks" src="https://img.shields.io/github/forks/flipphoneguy/root-sonim-xp3800">	<img alt="stars" src="https://img.shields.io/github/stars/flipphoneguy/root-sonim-xp3800">
 - [Begitdj/cve-2019-2215-markw](https://github.com/Begitdj/cve-2019-2215-markw)	<img alt="forks" src="https://img.shields.io/github/forks/Begitdj/cve-2019-2215-markw">	<img alt="stars" src="https://img.shields.io/github/stars/Begitdj/cve-2019-2215-markw">
 - [0xbinder/CVE_2019_2215](https://github.com/0xbinder/CVE_2019_2215)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/CVE_2019_2215">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/CVE_2019_2215">
+- [WJNKAC/cve-2019-2215-oppo-a77t](https://github.com/WJNKAC/cve-2019-2215-oppo-a77t)	<img alt="forks" src="https://img.shields.io/github/forks/WJNKAC/cve-2019-2215-oppo-a77t">	<img alt="stars" src="https://img.shields.io/github/stars/WJNKAC/cve-2019-2215-oppo-a77t">
+- [saaedimam/sony-bravia-root-toolkit](https://github.com/saaedimam/sony-bravia-root-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/saaedimam/sony-bravia-root-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/saaedimam/sony-bravia-root-toolkit">
 
 ---
 ## CVE-2019-2115 ()
