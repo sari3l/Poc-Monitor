@@ -4571,6 +4571,7 @@
 - [3SC0133/CVE-2025-55182-React2Shell](https://github.com/3SC0133/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/3SC0133/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/3SC0133/CVE-2025-55182-React2Shell">
 - [RashmithaDeSilva/React2Shell_CVE-2025-55182](https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RashmithaDeSilva/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RashmithaDeSilva/React2Shell_CVE-2025-55182">
 - [OhSoomin812/cve-2025-55182-ctf](https://github.com/OhSoomin812/cve-2025-55182-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/OhSoomin812/cve-2025-55182-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/OhSoomin812/cve-2025-55182-ctf">
+- [Frizzardsecurity/CVE-2025-55182](https://github.com/Frizzardsecurity/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Frizzardsecurity/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Frizzardsecurity/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
@@ -10314,6 +10315,8 @@
 - [xianwan1314/cve-2025-21479-iqoo11pro](https://github.com/xianwan1314/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/xianwan1314/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/xianwan1314/cve-2025-21479-iqoo11pro">
 - [diyiqiuye/CVE-2025-21479-FX3](https://github.com/diyiqiuye/CVE-2025-21479-FX3)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX3">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX3">
 - [longg66/cve-2025-21479_iqooneo7speed](https://github.com/longg66/cve-2025-21479_iqooneo7speed)	<img alt="forks" src="https://img.shields.io/github/forks/longg66/cve-2025-21479_iqooneo7speed">	<img alt="stars" src="https://img.shields.io/github/stars/longg66/cve-2025-21479_iqooneo7speed">
+- [Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479](https://github.com/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">
+- [linux-tools/VIVO-IQOO-Neo9-Root-Tools](https://github.com/linux-tools/VIVO-IQOO-Neo9-Root-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/linux-tools/VIVO-IQOO-Neo9-Root-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/linux-tools/VIVO-IQOO-Neo9-Root-Tools">
 
 ---
 ## CVE-2025-21420 ()
