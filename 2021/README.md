@@ -4100,6 +4100,11 @@
 - [HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection](https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection">
 
 ---
+## CVE-2021-38759 ()
+> 
+- [Hu2ie/CVE-2021-38759](https://github.com/Hu2ie/CVE-2021-38759)	<img alt="forks" src="https://img.shields.io/github/forks/Hu2ie/CVE-2021-38759">	<img alt="stars" src="https://img.shields.io/github/stars/Hu2ie/CVE-2021-38759">
+
+---
 ## CVE-2021-3875 (2021-10-15T14:15:00)
 > vim is vulnerable to Heap-based Buffer Overflow
 - [Live-Hack-CVE/CVE-2021-3875](https://github.com/Live-Hack-CVE/CVE-2021-3875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3875">
