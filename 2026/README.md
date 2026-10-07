@@ -997,6 +997,11 @@
 - [Xernary/CVE-2026-82539](https://github.com/Xernary/CVE-2026-82539)	<img alt="forks" src="https://img.shields.io/github/forks/Xernary/CVE-2026-82539">	<img alt="stars" src="https://img.shields.io/github/stars/Xernary/CVE-2026-82539">
 
 ---
+## CVE-2026-82531 ()
+> 
+- [murrez/CVE-2026-82531](https://github.com/murrez/CVE-2026-82531)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-82531">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-82531">
+
+---
 ## CVE-2026-8239 ()
 > 
 - [aj2108/CVE-2026-8239](https://github.com/aj2108/CVE-2026-8239)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8239">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8239">
@@ -3131,6 +3136,11 @@
 ## CVE-2026-59550 ()
 > 
 - [FLX-0x00/CVE-2026-59550](https://github.com/FLX-0x00/CVE-2026-59550)	<img alt="forks" src="https://img.shields.io/github/forks/FLX-0x00/CVE-2026-59550">	<img alt="stars" src="https://img.shields.io/github/stars/FLX-0x00/CVE-2026-59550">
+
+---
+## CVE-2026-59358 ()
+> 
+- [abraxas/CVE-2026-59358](https://github.com/abraxas/CVE-2026-59358)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-59358">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-59358">
 
 ---
 ## CVE-2026-59346 ()
@@ -12831,6 +12841,11 @@
 > 
 - [murrez/CVE-2026-102425](https://github.com/murrez/CVE-2026-102425)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-102425">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-102425">
 - [tonydelouvre/CVE-2026-102425](https://github.com/tonydelouvre/CVE-2026-102425)	<img alt="forks" src="https://img.shields.io/github/forks/tonydelouvre/CVE-2026-102425">	<img alt="stars" src="https://img.shields.io/github/stars/tonydelouvre/CVE-2026-102425">
+
+---
+## CVE-2026-102422 ()
+> 
+- [DevVaibhav07/CVE-2026-102422](https://github.com/DevVaibhav07/CVE-2026-102422)	<img alt="forks" src="https://img.shields.io/github/forks/DevVaibhav07/CVE-2026-102422">	<img alt="stars" src="https://img.shields.io/github/stars/DevVaibhav07/CVE-2026-102422">
 
 ---
 ## CVE-2026-102282 ()

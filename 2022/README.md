@@ -36766,6 +36766,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [sandesh9978/CVE-2022-0185-Analysis-and-Exploit](https://github.com/sandesh9978/CVE-2022-0185-Analysis-and-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sandesh9978/CVE-2022-0185-Analysis-and-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sandesh9978/CVE-2022-0185-Analysis-and-Exploit">
 - [prabeershakya/CVE-2022-0185-POC](https://github.com/prabeershakya/CVE-2022-0185-POC)	<img alt="forks" src="https://img.shields.io/github/forks/prabeershakya/CVE-2022-0185-POC">	<img alt="stars" src="https://img.shields.io/github/stars/prabeershakya/CVE-2022-0185-POC">
 - [shakyanayann/CVE-2022-0185](https://github.com/shakyanayann/CVE-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/shakyanayann/CVE-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/shakyanayann/CVE-2022-0185">
+- [secjuhl/CVE-2022-0185](https://github.com/secjuhl/CVE-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/secjuhl/CVE-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/secjuhl/CVE-2022-0185">
 
 ---
 ## CVE-2022-0175 (2022-08-26T18:15:00)
