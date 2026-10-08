@@ -3181,6 +3181,11 @@
 - [thomas-osgood/cve-2025-58360](https://github.com/thomas-osgood/cve-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/cve-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/cve-2025-58360">
 
 ---
+## CVE-2025-58226 ()
+> 
+- [QASIM1401/CVE-2025-58226-PoC](https://github.com/QASIM1401/CVE-2025-58226-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/QASIM1401/CVE-2025-58226-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/QASIM1401/CVE-2025-58226-PoC">
+
+---
 ## CVE-2025-58180 ()
 > 
 - [prabhatverma47/CVE-2025-58180](https://github.com/prabhatverma47/CVE-2025-58180)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-58180">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-58180">
