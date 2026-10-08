@@ -917,6 +917,7 @@
 - [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">
 - [comerc/CVE-2025-68664](https://github.com/comerc/CVE-2025-68664)	<img alt="forks" src="https://img.shields.io/github/forks/comerc/CVE-2025-68664">	<img alt="stars" src="https://img.shields.io/github/stars/comerc/CVE-2025-68664">
 - [Johnnyzhou666/langgrinch-cve-2025-68664-analysis](https://github.com/Johnnyzhou666/langgrinch-cve-2025-68664-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Johnnyzhou666/langgrinch-cve-2025-68664-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Johnnyzhou666/langgrinch-cve-2025-68664-analysis">
+- [t-sorger/cve-2025-68664-langgrinch](https://github.com/t-sorger/cve-2025-68664-langgrinch)	<img alt="forks" src="https://img.shields.io/github/forks/t-sorger/cve-2025-68664-langgrinch">	<img alt="stars" src="https://img.shields.io/github/stars/t-sorger/cve-2025-68664-langgrinch">
 
 ---
 ## CVE-2025-68645 ()
