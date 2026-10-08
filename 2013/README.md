@@ -89,6 +89,7 @@
 > 
 - [rsp243/fix_nginx_CVE-2013-4547_IB](https://github.com/rsp243/fix_nginx_CVE-2013-4547_IB)	<img alt="forks" src="https://img.shields.io/github/forks/rsp243/fix_nginx_CVE-2013-4547_IB">	<img alt="stars" src="https://img.shields.io/github/stars/rsp243/fix_nginx_CVE-2013-4547_IB">
 - [cyberharsh/Nginx-CVE-2013-4547](https://github.com/cyberharsh/Nginx-CVE-2013-4547)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Nginx-CVE-2013-4547">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Nginx-CVE-2013-4547">
+- [CyberCTF/vulhub-nginx-cve-2013-4547](https://github.com/CyberCTF/vulhub-nginx-cve-2013-4547)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nginx-cve-2013-4547">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nginx-cve-2013-4547">
 
 ---
 ## CVE-2013-4496 (2014-03-14T10:55:00)

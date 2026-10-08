@@ -322,6 +322,7 @@
 - [Fenil2511/CVE-2017-7529-POC](https://github.com/Fenil2511/CVE-2017-7529-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Fenil2511/CVE-2017-7529-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Fenil2511/CVE-2017-7529-POC">
 - [youngmin0104/CVE-2017-7529-](https://github.com/youngmin0104/CVE-2017-7529-)	<img alt="forks" src="https://img.shields.io/github/forks/youngmin0104/CVE-2017-7529-">	<img alt="stars" src="https://img.shields.io/github/stars/youngmin0104/CVE-2017-7529-">
 - [portfolio10/nginx](https://github.com/portfolio10/nginx)	<img alt="forks" src="https://img.shields.io/github/forks/portfolio10/nginx">	<img alt="stars" src="https://img.shields.io/github/stars/portfolio10/nginx">
+- [CyberCTF/vulhub-nginx-cve-2017-7529](https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nginx-cve-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nginx-cve-2017-7529">
 
 ---
 ## CVE-2017-7504 (2017-05-19T20:29:00)
@@ -1289,6 +1290,7 @@
 > 
 - [ehsehs5652/CVE-2017-15715-httpd](https://github.com/ehsehs5652/CVE-2017-15715-httpd)	<img alt="forks" src="https://img.shields.io/github/forks/ehsehs5652/CVE-2017-15715-httpd">	<img alt="stars" src="https://img.shields.io/github/stars/ehsehs5652/CVE-2017-15715-httpd">
 - [whisp1830/CVE-2017-15715](https://github.com/whisp1830/CVE-2017-15715)	<img alt="forks" src="https://img.shields.io/github/forks/whisp1830/CVE-2017-15715">	<img alt="stars" src="https://img.shields.io/github/stars/whisp1830/CVE-2017-15715">
+- [CyberCTF/vulhub-httpd-cve-2017-15715](https://github.com/CyberCTF/vulhub-httpd-cve-2017-15715)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2017-15715">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2017-15715">
 
 ---
 ## CVE-2017-15700 ()
@@ -1471,6 +1473,8 @@
 - [cyberharsh/Apache-couchdb-CVE-2017-12635](https://github.com/cyberharsh/Apache-couchdb-CVE-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Apache-couchdb-CVE-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Apache-couchdb-CVE-2017-12635">
 - [assalielmehdi/CVE-2017-12635](https://github.com/assalielmehdi/CVE-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/assalielmehdi/CVE-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/assalielmehdi/CVE-2017-12635">
 - [Dungsocool/CVE-2017-12635_36](https://github.com/Dungsocool/CVE-2017-12635_36)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-12635_36">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-12635_36">
+- [CyberCTF/vulhub-couchdb-cve-2017-12635](https://github.com/CyberCTF/vulhub-couchdb-cve-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-couchdb-cve-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-couchdb-cve-2017-12635">
+- [Darabium/couchdb-exploit](https://github.com/Darabium/couchdb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Darabium/couchdb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Darabium/couchdb-exploit">
 
 ---
 ## CVE-2017-12629 ()
@@ -2020,6 +2024,7 @@
 ## CVE-2017-1000028 (2017-07-17T13:18:00)
 > Oracle, GlassFish Server Open Source Edition 4.1 is vulnerable to both authenticated and unauthenticated Directory Traversal vulnerability, that can be exploited by issuing a specially crafted HTTP GET request.
 - [NeonNOXX/CVE-2017-1000028](https://github.com/NeonNOXX/CVE-2017-1000028)	<img alt="forks" src="https://img.shields.io/github/forks/NeonNOXX/CVE-2017-1000028">	<img alt="stars" src="https://img.shields.io/github/stars/NeonNOXX/CVE-2017-1000028">
+- [CyberCTF/vulhub-glassfish-cve-2017-1000028](https://github.com/CyberCTF/vulhub-glassfish-cve-2017-1000028)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-glassfish-cve-2017-1000028">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-glassfish-cve-2017-1000028">
 
 ---
 ## CVE-2017-0888 (2017-04-05T20:59:00)

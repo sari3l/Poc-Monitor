@@ -85,6 +85,11 @@
 - [Live-Hack-CVE/CVE-2018-8976](https://github.com/Live-Hack-CVE/CVE-2018-8976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-8976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-8976">
 
 ---
+## CVE-2018-8715 ()
+> 
+- [CyberCTF/vulhub-appweb-cve-2018-8715](https://github.com/CyberCTF/vulhub-appweb-cve-2018-8715)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-appweb-cve-2018-8715">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-appweb-cve-2018-8715">
+
+---
 ## CVE-2018-8617 (2018-12-12T00:29:00)
 > A remote code execution vulnerability exists in the way that the Chakra scripting engine handles objects in memory in Microsoft Edge, aka "Chakra Scripting Engine Memory Corruption Vulnerability." This affects Microsoft Edge, ChakraCore. This CVE ID is unique from CVE-2018-8583, CVE-2018-8618, CVE-2018-8624, CVE-2018-8629.
 - [SpiralBL0CK/cve-2018-8617-aab-r-w-](https://github.com/SpiralBL0CK/cve-2018-8617-aab-r-w-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/cve-2018-8617-aab-r-w-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/cve-2018-8617-aab-r-w-">
@@ -1564,6 +1569,7 @@
 - [kikechans/-SSH-Enum-CVE-2018-15473](https://github.com/kikechans/-SSH-Enum-CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/-SSH-Enum-CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/-SSH-Enum-CVE-2018-15473">
 - [kaktus5454/CVE-2018-15473](https://github.com/kaktus5454/CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/kaktus5454/CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/kaktus5454/CVE-2018-15473">
 - [bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-](https://github.com/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-)	<img alt="forks" src="https://img.shields.io/github/forks/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-">	<img alt="stars" src="https://img.shields.io/github/stars/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-">
+- [CyberCTF/vulhub-openssh-cve-2018-15473](https://github.com/CyberCTF/vulhub-openssh-cve-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-openssh-cve-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-openssh-cve-2018-15473">
 
 ---
 ## CVE-2018-15133 (2018-08-09T19:29:00)
@@ -1813,6 +1819,7 @@
 > When using Distributed Test only (RMI based), Apache JMeter 2.x and 3.x uses an unsecured RMI connection. This could allow an attacker to get Access to JMeterEngine and send unauthorized code.
 - [48484848484848/Jmeter-CVE-2018-1297-](https://github.com/48484848484848/Jmeter-CVE-2018-1297-)	<img alt="forks" src="https://img.shields.io/github/forks/48484848484848/Jmeter-CVE-2018-1297-">	<img alt="stars" src="https://img.shields.io/github/stars/48484848484848/Jmeter-CVE-2018-1297-">
 - [Al1ex/CVE-2018-1297](https://github.com/Al1ex/CVE-2018-1297)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2018-1297">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2018-1297">
+- [CyberCTF/vulhub-jmeter-cve-2018-1297](https://github.com/CyberCTF/vulhub-jmeter-cve-2018-1297)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jmeter-cve-2018-1297">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jmeter-cve-2018-1297">
 
 ---
 ## CVE-2018-1285 (2020-05-11T17:15:00)

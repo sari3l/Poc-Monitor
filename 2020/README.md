@@ -795,6 +795,7 @@
 - [r0lh/CVE-2020-7247](https://github.com/r0lh/CVE-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/r0lh/CVE-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/r0lh/CVE-2020-7247">
 - [minhluannguyen/CVE-2020-7247-reproducer](https://github.com/minhluannguyen/CVE-2020-7247-reproducer)	<img alt="forks" src="https://img.shields.io/github/forks/minhluannguyen/CVE-2020-7247-reproducer">	<img alt="stars" src="https://img.shields.io/github/stars/minhluannguyen/CVE-2020-7247-reproducer">
 - [solmin111/OpenSMTPD-CVE-2020-7247-](https://github.com/solmin111/OpenSMTPD-CVE-2020-7247-)	<img alt="forks" src="https://img.shields.io/github/forks/solmin111/OpenSMTPD-CVE-2020-7247-">	<img alt="stars" src="https://img.shields.io/github/stars/solmin111/OpenSMTPD-CVE-2020-7247-">
+- [CyberCTF/vulhub-opensmtpd-cve-2020-7247](https://github.com/CyberCTF/vulhub-opensmtpd-cve-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-opensmtpd-cve-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-opensmtpd-cve-2020-7247">
 
 ---
 ## CVE-2020-7246 (2020-01-21T14:15:00)
@@ -5269,6 +5270,7 @@
 - [Drew-Alleman/CVE-2020-11651](https://github.com/Drew-Alleman/CVE-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/Drew-Alleman/CVE-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/Drew-Alleman/CVE-2020-11651">
 - [limon768/CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-POC">
 - [s1lentf00thold/CVE-2020-11651-Poc](https://github.com/s1lentf00thold/CVE-2020-11651-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/s1lentf00thold/CVE-2020-11651-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/s1lentf00thold/CVE-2020-11651-Poc">
+- [CyberCTF/vulhub-saltstack-cve-2020-11651](https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-saltstack-cve-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-saltstack-cve-2020-11651">
 
 ---
 ## CVE-2020-11620 ()

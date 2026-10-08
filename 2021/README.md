@@ -1196,6 +1196,7 @@
 - [Vaibhav91one/log4shell-cve-lab](https://github.com/Vaibhav91one/log4shell-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/log4shell-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/log4shell-cve-lab">
 - [Muskann02/cve-2021-44228-lab](https://github.com/Muskann02/cve-2021-44228-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Muskann02/cve-2021-44228-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Muskann02/cve-2021-44228-lab">
 - [osflaky/exp-logpresso-CVE-2021-44228-Scanner](https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/osflaky/exp-logpresso-CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/osflaky/exp-logpresso-CVE-2021-44228-Scanner">
+- [CyberCTF/vulhub-log4j-cve-2021-44228](https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-log4j-cve-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -2338,6 +2339,7 @@
 - [berraesen/apache-cve-2021-42013-lab](https://github.com/berraesen/apache-cve-2021-42013-lab)	<img alt="forks" src="https://img.shields.io/github/forks/berraesen/apache-cve-2021-42013-lab">	<img alt="stars" src="https://img.shields.io/github/stars/berraesen/apache-cve-2021-42013-lab">
 - [andreamammano89-maker/CVE-2021-42013_821311](https://github.com/andreamammano89-maker/CVE-2021-42013_821311)	<img alt="forks" src="https://img.shields.io/github/forks/andreamammano89-maker/CVE-2021-42013_821311">	<img alt="stars" src="https://img.shields.io/github/stars/andreamammano89-maker/CVE-2021-42013_821311">
 - [lmcewen9/cve-2021-42013](https://github.com/lmcewen9/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/lmcewen9/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/lmcewen9/cve-2021-42013">
+- [CyberCTF/vulhub-httpd-cve-2021-42013](https://github.com/CyberCTF/vulhub-httpd-cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
@@ -7457,6 +7459,7 @@
 ## CVE-2021-28164 (2021-04-01T15:15:00)
 > In Eclipse Jetty 9.4.37.v20210219 to 9.4.38.v20210224, the default compliance mode allows requests with URIs that contain %2e or %2e%2e segments to access protected resources within the WEB-INF directory. For example a request to /context/%2e/WEB-INF/web.xml can retrieve the web.xml file. This can reveal sensitive information regarding the implementation of a web application.
 - [jammy0903/-jettyCVE-2021-28164-](https://github.com/jammy0903/-jettyCVE-2021-28164-)	<img alt="forks" src="https://img.shields.io/github/forks/jammy0903/-jettyCVE-2021-28164-">	<img alt="stars" src="https://img.shields.io/github/stars/jammy0903/-jettyCVE-2021-28164-">
+- [CyberCTF/vulhub-jetty-cve-2021-28164](https://github.com/CyberCTF/vulhub-jetty-cve-2021-28164)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jetty-cve-2021-28164">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jetty-cve-2021-28164">
 
 ---
 ## CVE-2021-28114 (2021-07-16T13:15:00)

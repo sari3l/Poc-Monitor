@@ -788,7 +788,9 @@
 - [vonderchild/CVE-2016-3088](https://github.com/vonderchild/CVE-2016-3088)	<img alt="forks" src="https://img.shields.io/github/forks/vonderchild/CVE-2016-3088">	<img alt="stars" src="https://img.shields.io/github/stars/vonderchild/CVE-2016-3088">
 - [cyberaguiar/CVE-2016-3088](https://github.com/cyberaguiar/CVE-2016-3088)	<img alt="forks" src="https://img.shields.io/github/forks/cyberaguiar/CVE-2016-3088">	<img alt="stars" src="https://img.shields.io/github/stars/cyberaguiar/CVE-2016-3088">
 - [Ma1Dong/ActiveMQ_putshell-CVE-2016-3088](https://github.com/Ma1Dong/ActiveMQ_putshell-CVE-2016-3088)	<img alt="forks" src="https://img.shields.io/github/forks/Ma1Dong/ActiveMQ_putshell-CVE-2016-3088">	<img alt="stars" src="https://img.shields.io/github/stars/Ma1Dong/ActiveMQ_putshell-CVE-2016-3088">
-- [pudiding/CVE-2016-3088](https://github.com/pudiding/CVE-2016-3088)	<img alt="forks" src="https://img.shields.io/github/forks/pudiding/CVE-2016-3088">	<img alt="stars" src="https://img.shields.io/github/stars/pudiding/CVE-2016-3088">
+- [wood03mm/CVE-2016-3088](https://github.com/wood03mm/CVE-2016-3088)	<img alt="forks" src="https://img.shields.io/github/forks/wood03mm/CVE-2016-3088">	<img alt="stars" src="https://img.shields.io/github/stars/wood03mm/CVE-2016-3088">
+- [CyberCTF/vulhub-activemq-cve-2016-3088](https://github.com/CyberCTF/vulhub-activemq-cve-2016-3088)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-activemq-cve-2016-3088">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-activemq-cve-2016-3088">
+- [Catherines77/ActiveMQ-EXPtools](https://github.com/Catherines77/ActiveMQ-EXPtools)	<img alt="forks" src="https://img.shields.io/github/forks/Catherines77/ActiveMQ-EXPtools">	<img alt="stars" src="https://img.shields.io/github/stars/Catherines77/ActiveMQ-EXPtools">
 
 ---
 ## CVE-2016-2555 ()

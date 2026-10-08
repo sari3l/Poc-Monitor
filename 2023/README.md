@@ -394,6 +394,11 @@ to load arbitrary JavaScript code.
 - [NHPT/CVE-2023-54436](https://github.com/NHPT/CVE-2023-54436)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-54436">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-54436">
 
 ---
+## CVE-2023-54391 ()
+> 
+- [alexandrov666/CVE-2023-54391-RCE](https://github.com/alexandrov666/CVE-2023-54391-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/alexandrov666/CVE-2023-54391-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/alexandrov666/CVE-2023-54391-RCE">
+
+---
 ## CVE-2023-5412 (2023-10-31T09:15:00)
 > The Image horizontal reel scroll slideshow plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 13.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [RandomRobbieBF/CVE-2023-5412](https://github.com/RandomRobbieBF/CVE-2023-5412)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5412">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5412">
@@ -7457,6 +7462,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Sharma01672/traveller-htb](https://github.com/Sharma01672/traveller-htb)	<img alt="forks" src="https://img.shields.io/github/forks/Sharma01672/traveller-htb">	<img alt="stars" src="https://img.shields.io/github/stars/Sharma01672/traveller-htb">
 - [s4m98/CVE-2023-23752](https://github.com/s4m98/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/s4m98/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/s4m98/CVE-2023-23752">
 - [rvzsec/joombrute](https://github.com/rvzsec/joombrute)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/joombrute">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/joombrute">
+- [CyberCTF/vulhub-joomla-cve-2023-23752](https://github.com/CyberCTF/vulhub-joomla-cve-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-joomla-cve-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-joomla-cve-2023-23752">
 
 ---
 ## CVE-2023-2375 (2023-04-28T15:15:00)

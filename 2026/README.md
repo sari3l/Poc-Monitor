@@ -427,6 +427,11 @@
 - [joaovicdev/EXPLOIT-CVE-2026-9198](https://github.com/joaovicdev/EXPLOIT-CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-9198">
 
 ---
+## CVE-2026-91940 ()
+> 
+- [BiiTts/CVE-2026-91940-crawl4ai-Arbitrary-File-Write](https://github.com/BiiTts/CVE-2026-91940-crawl4ai-Arbitrary-File-Write)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-91940-crawl4ai-Arbitrary-File-Write">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-91940-crawl4ai-Arbitrary-File-Write">
+
+---
 ## CVE-2026-91843 ()
 > 
 - [HORKimhab/CVE-2026-91843](https://github.com/HORKimhab/CVE-2026-91843)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-91843">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-91843">
@@ -2232,6 +2237,7 @@
 - [HackSpeak/CVE-2026-67279](https://github.com/HackSpeak/CVE-2026-67279)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-67279">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-67279">
 - [tc4dy/CVE-2026-67279-86060-Toolkit](https://github.com/tc4dy/CVE-2026-67279-86060-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-67279-86060-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-67279-86060-Toolkit">
 - [gagaltotal/CVE-2026-mikrotik-poc](https://github.com/gagaltotal/CVE-2026-mikrotik-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-mikrotik-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-mikrotik-poc">
+- [shmaki4/CVE-2026-67279-Mikrotik-6.42-POC](https://github.com/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC)	<img alt="forks" src="https://img.shields.io/github/forks/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC">	<img alt="stars" src="https://img.shields.io/github/stars/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC">
 
 ---
 ## CVE-2026-67276 ()
