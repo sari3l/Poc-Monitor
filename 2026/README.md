@@ -4512,6 +4512,7 @@
 - [imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE](https://github.com/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">
 - [yora1928/CVE-2026-48908-by-yora](https://github.com/yora1928/CVE-2026-48908-by-yora)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/CVE-2026-48908-by-yora">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/CVE-2026-48908-by-yora">
 - [winrarzipsexploit/CVE-2026-48908](https://github.com/winrarzipsexploit/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/winrarzipsexploit/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/winrarzipsexploit/CVE-2026-48908">
+- [theendofabbys/CVE-2026-48908](https://github.com/theendofabbys/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/theendofabbys/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/theendofabbys/CVE-2026-48908">
 
 ---
 ## CVE-2026-48907 ()
@@ -5015,6 +5016,7 @@
 - [Kentox493/CVE-2026-46300_Fragnesia](https://github.com/Kentox493/CVE-2026-46300_Fragnesia)	<img alt="forks" src="https://img.shields.io/github/forks/Kentox493/CVE-2026-46300_Fragnesia">	<img alt="stars" src="https://img.shields.io/github/stars/Kentox493/CVE-2026-46300_Fragnesia">
 - [First-John/cve_2026_frag_family_fix](https://github.com/First-John/cve_2026_frag_family_fix)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/cve_2026_frag_family_fix">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/cve_2026_frag_family_fix">
 - [nonameuserosint-hue/Fragnesia-go](https://github.com/nonameuserosint-hue/Fragnesia-go)	<img alt="forks" src="https://img.shields.io/github/forks/nonameuserosint-hue/Fragnesia-go">	<img alt="stars" src="https://img.shields.io/github/stars/nonameuserosint-hue/Fragnesia-go">
+- [porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit](https://github.com/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit">
 
 ---
 ## CVE-2026-46243 ()
@@ -5032,6 +5034,7 @@
 - [Baba01hacker666/CVE-2026-46242](https://github.com/Baba01hacker666/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-46242">
 - [SaithFranklinB/ScannerBadEpoll](https://github.com/SaithFranklinB/ScannerBadEpoll)	<img alt="forks" src="https://img.shields.io/github/forks/SaithFranklinB/ScannerBadEpoll">	<img alt="stars" src="https://img.shields.io/github/stars/SaithFranklinB/ScannerBadEpoll">
 - [BinaryMasc/CVE-2026-46242](https://github.com/BinaryMasc/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/BinaryMasc/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/BinaryMasc/CVE-2026-46242">
+- [villager1314/CVE-2026-46242-Analysis](https://github.com/villager1314/CVE-2026-46242-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-46242-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-46242-Analysis">
 
 ---
 ## CVE-2026-46215 ()
@@ -5838,6 +5841,7 @@
 - [Kentox493/CVE-2026-42945_NginxRift](https://github.com/Kentox493/CVE-2026-42945_NginxRift)	<img alt="forks" src="https://img.shields.io/github/forks/Kentox493/CVE-2026-42945_NginxRift">	<img alt="stars" src="https://img.shields.io/github/stars/Kentox493/CVE-2026-42945_NginxRift">
 - [CynepMyx/nginx-rift-check](https://github.com/CynepMyx/nginx-rift-check)	<img alt="forks" src="https://img.shields.io/github/forks/CynepMyx/nginx-rift-check">	<img alt="stars" src="https://img.shields.io/github/stars/CynepMyx/nginx-rift-check">
 - [FranklinF25/cve-2026-42945](https://github.com/FranklinF25/cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/FranklinF25/cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/FranklinF25/cve-2026-42945">
+- [porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit](https://github.com/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit">
 
 ---
 ## CVE-2026-42940 ()
@@ -10952,6 +10956,7 @@
 - [ynsmroztas/AtlasSniper](https://github.com/ynsmroztas/AtlasSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/AtlasSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/AtlasSniper">
 - [murrez/CVE-2026-21589](https://github.com/murrez/CVE-2026-21589)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-21589">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-21589">
 - [rxsklife/CVE-2026-21589](https://github.com/rxsklife/CVE-2026-21589)	<img alt="forks" src="https://img.shields.io/github/forks/rxsklife/CVE-2026-21589">	<img alt="stars" src="https://img.shields.io/github/stars/rxsklife/CVE-2026-21589">
+- [renzi25031469/CVE-2026-21589](https://github.com/renzi25031469/CVE-2026-21589)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-21589">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-21589">
 
 ---
 ## CVE-2026-21536 ()

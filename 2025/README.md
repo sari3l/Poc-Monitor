@@ -2315,6 +2315,8 @@
 - [theman001/CVE-2025-62215](https://github.com/theman001/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-62215">
 - [uky007/CVE-2025-62215_analysis](https://github.com/uky007/CVE-2025-62215_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/uky007/CVE-2025-62215_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/uky007/CVE-2025-62215_analysis">
 - [gowonisgood/CVE-2025-62215-POC](https://github.com/gowonisgood/CVE-2025-62215-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gowonisgood/CVE-2025-62215-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gowonisgood/CVE-2025-62215-POC">
+- [Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege](https://github.com/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege)	<img alt="forks" src="https://img.shields.io/github/forks/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege">	<img alt="stars" src="https://img.shields.io/github/stars/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege">
+- [nullxall/cve-2025-62215-exploit-poc](https://github.com/nullxall/cve-2025-62215-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nullxall/cve-2025-62215-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nullxall/cve-2025-62215-exploit-poc">
 
 ---
 ## CVE-2025-62207 ()
