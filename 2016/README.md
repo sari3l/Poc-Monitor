@@ -569,6 +569,13 @@
 - [pouriam23/final-CVE-2016-5180](https://github.com/pouriam23/final-CVE-2016-5180)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/final-CVE-2016-5180">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/final-CVE-2016-5180">
 
 ---
+## CVE-2016-4977 ()
+> 
+- [CyberCTF/vulhub-spring-cve-2016-4977](https://github.com/CyberCTF/vulhub-spring-cve-2016-4977)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2016-4977">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2016-4977">
+- [tpt11fb/SpringVulScan](https://github.com/tpt11fb/SpringVulScan)	<img alt="forks" src="https://img.shields.io/github/forks/tpt11fb/SpringVulScan">	<img alt="stars" src="https://img.shields.io/github/stars/tpt11fb/SpringVulScan">
+- [N0b1e6/CVE-2016-4977-POC](https://github.com/N0b1e6/CVE-2016-4977-POC)	<img alt="forks" src="https://img.shields.io/github/forks/N0b1e6/CVE-2016-4977-POC">	<img alt="stars" src="https://img.shields.io/github/stars/N0b1e6/CVE-2016-4977-POC">
+
+---
 ## CVE-2016-4974 ()
 > 
 - [andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable](https://github.com/andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable">
@@ -610,6 +617,7 @@
 - [pizza-power/CVE-2016-4437](https://github.com/pizza-power/CVE-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/CVE-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/CVE-2016-4437">
 - [xk-mt/CVE-2016-4437](https://github.com/xk-mt/CVE-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/xk-mt/CVE-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/xk-mt/CVE-2016-4437">
 - [35789-gh/cve-2016-4437](https://github.com/35789-gh/cve-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/35789-gh/cve-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/35789-gh/cve-2016-4437">
+- [CyberCTF/vulhub-shiro-cve-2016-4437](https://github.com/CyberCTF/vulhub-shiro-cve-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-shiro-cve-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-shiro-cve-2016-4437">
 
 ---
 ## CVE-2016-4432 (2016-06-01T20:59:00)
@@ -1106,6 +1114,11 @@
 > Adobe Flash Player 21.0.0.197 and earlier allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via unspecified vectors, as exploited in the wild in April 2016.
 - [Live-Hack-CVE/CVE-2016-1019](https://github.com/Live-Hack-CVE/CVE-2016-1019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1019">
 - [KaviDk/Heap-Over-Flow-with-CVE-2016-10191](https://github.com/KaviDk/Heap-Over-Flow-with-CVE-2016-10191)	<img alt="forks" src="https://img.shields.io/github/forks/KaviDk/Heap-Over-Flow-with-CVE-2016-10191">	<img alt="stars" src="https://img.shields.io/github/stars/KaviDk/Heap-Over-Flow-with-CVE-2016-10191">
+
+---
+## CVE-2016-10134 ()
+> 
+- [CyberCTF/vulhub-zabbix-cve-2016-10134](https://github.com/CyberCTF/vulhub-zabbix-cve-2016-10134)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-zabbix-cve-2016-10134">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-zabbix-cve-2016-10134">
 
 ---
 ## CVE-2016-1010 (2016-03-12T15:59:00)

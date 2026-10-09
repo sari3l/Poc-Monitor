@@ -43,6 +43,7 @@
 - [MR-LeonardoGomes/CVE-2017-9841](https://github.com/MR-LeonardoGomes/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/MR-LeonardoGomes/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/MR-LeonardoGomes/CVE-2017-9841">
 - [krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC](https://github.com/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC">
 - [CheLover86/CVE-2017-9841](https://github.com/CheLover86/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/CheLover86/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/CheLover86/CVE-2017-9841">
+- [CyberCTF/vulhub-phpunit-cve-2017-9841](https://github.com/CyberCTF/vulhub-phpunit-cve-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-phpunit-cve-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-phpunit-cve-2017-9841">
 
 ---
 ## CVE-2017-9833 (2017-06-24T02:29:00)
@@ -378,6 +379,7 @@
 - [Sadz1d/IS](https://github.com/Sadz1d/IS)	<img alt="forks" src="https://img.shields.io/github/forks/Sadz1d/IS">	<img alt="stars" src="https://img.shields.io/github/stars/Sadz1d/IS">
 - [Zanex360/cdt-vulnsamba-deploy](https://github.com/Zanex360/cdt-vulnsamba-deploy)	<img alt="forks" src="https://img.shields.io/github/forks/Zanex360/cdt-vulnsamba-deploy">	<img alt="stars" src="https://img.shields.io/github/stars/Zanex360/cdt-vulnsamba-deploy">
 - [Zanex360/cdt-samba-deploy](https://github.com/Zanex360/cdt-samba-deploy)	<img alt="forks" src="https://img.shields.io/github/forks/Zanex360/cdt-samba-deploy">	<img alt="stars" src="https://img.shields.io/github/stars/Zanex360/cdt-samba-deploy">
+- [CyberCTF/vulhub-samba-cve-2017-7494](https://github.com/CyberCTF/vulhub-samba-cve-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-samba-cve-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-samba-cve-2017-7494">
 
 ---
 ## CVE-2017-7410 (2017-04-03T22:59:00)
@@ -1482,6 +1484,7 @@
 - [captain-woof/cve-2017-12629](https://github.com/captain-woof/cve-2017-12629)	<img alt="forks" src="https://img.shields.io/github/forks/captain-woof/cve-2017-12629">	<img alt="stars" src="https://img.shields.io/github/stars/captain-woof/cve-2017-12629">
 - [tdwyer/PoC_CVE-2017-3164_CVE-2017-1262](https://github.com/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262)	<img alt="forks" src="https://img.shields.io/github/forks/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">	<img alt="stars" src="https://img.shields.io/github/stars/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">
 - [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
+- [CyberCTF/vulhub-solr-cve-2017-12629-rce](https://github.com/CyberCTF/vulhub-solr-cve-2017-12629-rce)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-solr-cve-2017-12629-rce">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-solr-cve-2017-12629-rce">
 
 ---
 ## CVE-2017-12617 (2017-10-04T01:29:00)
@@ -1526,6 +1529,7 @@
 - [Fa1c0n35/CVE-2017-12615](https://github.com/Fa1c0n35/CVE-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/Fa1c0n35/CVE-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/Fa1c0n35/CVE-2017-12615">
 - [netw0rk7/CVE-2017-12615-Home-Lab](https://github.com/netw0rk7/CVE-2017-12615-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2017-12615-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2017-12615-Home-Lab">
 - [K3ysTr0K3R/CVE-2017-12615](https://github.com/K3ysTr0K3R/CVE-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-12615">
+- [CyberCTF/vulhub-tomcat-cve-2017-12615](https://github.com/CyberCTF/vulhub-tomcat-cve-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-tomcat-cve-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-tomcat-cve-2017-12615">
 
 ---
 ## CVE-2017-12611 ()
@@ -1683,6 +1687,7 @@
 - [Dungsocool/CVE-2017-11610](https://github.com/Dungsocool/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-11610">
 - [yaunsky/CVE-2017-11610](https://github.com/yaunsky/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/CVE-2017-11610">
 - [ivanitlearning/CVE-2017-11610](https://github.com/ivanitlearning/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/ivanitlearning/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/ivanitlearning/CVE-2017-11610">
+- [CyberCTF/vulhub-supervisor-cve-2017-11610](https://github.com/CyberCTF/vulhub-supervisor-cve-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-supervisor-cve-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-supervisor-cve-2017-11610">
 
 ---
 ## CVE-2017-11591 (2017-07-24T01:29:00)
@@ -1833,6 +1838,7 @@
 - [zhangkaibin0921/CVE-2017-10271](https://github.com/zhangkaibin0921/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/zhangkaibin0921/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/zhangkaibin0921/CVE-2017-10271">
 - [1337g/CVE-2017-10271](https://github.com/1337g/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-10271">
 - [seoyoung-kang/CVE-2017-10271](https://github.com/seoyoung-kang/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/seoyoung-kang/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/seoyoung-kang/CVE-2017-10271">
+- [CyberCTF/vulhub-weblogic-cve-2017-10271](https://github.com/CyberCTF/vulhub-weblogic-cve-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-weblogic-cve-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-weblogic-cve-2017-10271">
 
 ---
 ## CVE-2017-10268 (2017-10-19T17:29:00)

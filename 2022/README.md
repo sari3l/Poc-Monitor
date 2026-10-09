@@ -31899,6 +31899,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [RootEvil333/CVE-2022-22965](https://github.com/RootEvil333/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2022-22965">
 - [ernestom-commits/jfrog-apptrust-demo](https://github.com/ernestom-commits/jfrog-apptrust-demo)	<img alt="forks" src="https://img.shields.io/github/forks/ernestom-commits/jfrog-apptrust-demo">	<img alt="stars" src="https://img.shields.io/github/stars/ernestom-commits/jfrog-apptrust-demo">
 - [YUTING-HUANG0/Spring4Shell-CTF](https://github.com/YUTING-HUANG0/Spring4Shell-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/YUTING-HUANG0/Spring4Shell-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/YUTING-HUANG0/Spring4Shell-CTF">
+- [CyberCTF/vulhub-spring-cve-2022-22965](https://github.com/CyberCTF/vulhub-spring-cve-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2022-22965">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
@@ -31954,6 +31955,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [C4yberLan/SpringBoot-Exploit-Toolkit](https://github.com/C4yberLan/SpringBoot-Exploit-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/C4yberLan/SpringBoot-Exploit-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/C4yberLan/SpringBoot-Exploit-Toolkit">
 - [808rsec/CVE-2022-22963](https://github.com/808rsec/CVE-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/808rsec/CVE-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/808rsec/CVE-2022-22963">
 - [r4y-br/CVE-2022-22963](https://github.com/r4y-br/CVE-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/r4y-br/CVE-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/r4y-br/CVE-2022-22963">
+- [CyberCTF/vulhub-spring-cve-2022-22963](https://github.com/CyberCTF/vulhub-spring-cve-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2022-22963">
 
 ---
 ## CVE-2022-22954 (2022-04-11T20:15:00)
