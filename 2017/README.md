@@ -1839,6 +1839,8 @@
 - [1337g/CVE-2017-10271](https://github.com/1337g/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-10271">
 - [seoyoung-kang/CVE-2017-10271](https://github.com/seoyoung-kang/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/seoyoung-kang/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/seoyoung-kang/CVE-2017-10271">
 - [CyberCTF/vulhub-weblogic-cve-2017-10271](https://github.com/CyberCTF/vulhub-weblogic-cve-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-weblogic-cve-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-weblogic-cve-2017-10271">
+- [shahdawadfallah-sys/Cybersecurity-Capstone-Project](https://github.com/shahdawadfallah-sys/Cybersecurity-Capstone-Project)	<img alt="forks" src="https://img.shields.io/github/forks/shahdawadfallah-sys/Cybersecurity-Capstone-Project">	<img alt="stars" src="https://img.shields.io/github/stars/shahdawadfallah-sys/Cybersecurity-Capstone-Project">
+- [Dungsocool/CVE-2017-10271](https://github.com/Dungsocool/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-10271">
 
 ---
 ## CVE-2017-10268 (2017-10-19T17:29:00)

@@ -10978,6 +10978,7 @@
 - [murrez/CVE-2026-21589](https://github.com/murrez/CVE-2026-21589)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-21589">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-21589">
 - [rxsklife/CVE-2026-21589](https://github.com/rxsklife/CVE-2026-21589)	<img alt="forks" src="https://img.shields.io/github/forks/rxsklife/CVE-2026-21589">	<img alt="stars" src="https://img.shields.io/github/stars/rxsklife/CVE-2026-21589">
 - [renzi25031469/CVE-2026-21589](https://github.com/renzi25031469/CVE-2026-21589)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-21589">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-21589">
+- [gotr00t0day/CVE-2026-21589](https://github.com/gotr00t0day/CVE-2026-21589)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2026-21589">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2026-21589">
 
 ---
 ## CVE-2026-21536 ()
