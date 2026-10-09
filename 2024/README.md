@@ -5349,6 +5349,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821">
 
 ---
+## CVE-2024-36774 ()
+> 
+- [PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC](https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC">
+
+---
 ## CVE-2024-3673 ()
 > 
 - [Nxploited/CVE-2024-3673](https://github.com/Nxploited/CVE-2024-3673)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-3673">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-3673">

@@ -1197,6 +1197,9 @@
 - [Muskann02/cve-2021-44228-lab](https://github.com/Muskann02/cve-2021-44228-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Muskann02/cve-2021-44228-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Muskann02/cve-2021-44228-lab">
 - [osflaky/exp-logpresso-CVE-2021-44228-Scanner](https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/osflaky/exp-logpresso-CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/osflaky/exp-logpresso-CVE-2021-44228-Scanner">
 - [CyberCTF/vulhub-log4j-cve-2021-44228](https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-log4j-cve-2021-44228">
+- [hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">
+- [ResoluteRacoons/log4-Java-logging-poc](https://github.com/ResoluteRacoons/log4-Java-logging-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ResoluteRacoons/log4-Java-logging-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ResoluteRacoons/log4-Java-logging-poc">
+- [mcpmark-eval-liuhezi/log4shell-audit](https://github.com/mcpmark-eval-liuhezi/log4shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)

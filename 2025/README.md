@@ -7536,6 +7536,11 @@
 - [0xgh057r3c0n/CVE-2025-34077](https://github.com/0xgh057r3c0n/CVE-2025-34077)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-34077">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-34077">
 
 ---
+## CVE-2025-34071 ()
+> 
+- [cppghoul/CVE-2025-34071](https://github.com/cppghoul/CVE-2025-34071)	<img alt="forks" src="https://img.shields.io/github/forks/cppghoul/CVE-2025-34071">	<img alt="stars" src="https://img.shields.io/github/stars/cppghoul/CVE-2025-34071">
+
+---
 ## CVE-2025-34069 ()
 > 
 - [cppghoul/CVE-2025-34069](https://github.com/cppghoul/CVE-2025-34069)	<img alt="forks" src="https://img.shields.io/github/forks/cppghoul/CVE-2025-34069">	<img alt="stars" src="https://img.shields.io/github/stars/cppghoul/CVE-2025-34069">

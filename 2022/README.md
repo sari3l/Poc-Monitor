@@ -32997,6 +32997,11 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Live-Hack-CVE/CVE-2022-21814](https://github.com/Live-Hack-CVE/CVE-2022-21814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21814">
 
 ---
+## CVE-2022-21812 ()
+> 
+- [NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812](https://github.com/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812)	<img alt="forks" src="https://img.shields.io/github/forks/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812">	<img alt="stars" src="https://img.shields.io/github/stars/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812">
+
+---
 ## CVE-2022-21807 (2022-08-18T20:15:00)
 > Uncontrolled search path elements in the Intel(R) VTune(TM) Profiler software before version 2022.2.0 may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-21807](https://github.com/Live-Hack-CVE/CVE-2022-21807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21807">
