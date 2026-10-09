@@ -418,6 +418,11 @@
 - [Live-Hack-CVE/CVE-2019-7280](https://github.com/Live-Hack-CVE/CVE-2019-7280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7280">
 
 ---
+## CVE-2019-7238 ()
+> 
+- [CyberCTF/vulhub-nexus-cve-2019-7238](https://github.com/CyberCTF/vulhub-nexus-cve-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nexus-cve-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nexus-cve-2019-7238">
+
+---
 ## CVE-2019-7232 (2019-06-24T17:15:00)
 > The ABB IDAL HTTP server is vulnerable to a buffer overflow when a long Host header is sent in a web request. The Host header value overflows a buffer and overwrites a Structured Exception Handler (SEH) address. An unauthenticated attacker can submit a Host header value of 2047 bytes or more to overflow the buffer and overwrite the SEH address, which can then be leveraged to execute attacker-controlled code on the server.
 - [Live-Hack-CVE/CVE-2019-7232](https://github.com/Live-Hack-CVE/CVE-2019-7232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7232">
@@ -992,6 +997,7 @@
 - [omarkurt/CVE-2019-5418](https://github.com/omarkurt/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/omarkurt/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/omarkurt/CVE-2019-5418">
 - [daehyeok0618/CVE-2019-5418](https://github.com/daehyeok0618/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/daehyeok0618/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/daehyeok0618/CVE-2019-5418">
 - [CyberCTF/vulhub-rails-cve-2019-5418](https://github.com/CyberCTF/vulhub-rails-cve-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-rails-cve-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-rails-cve-2019-5418">
+- [melardev/CVE-2019-5418](https://github.com/melardev/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/melardev/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/melardev/CVE-2019-5418">
 
 ---
 ## CVE-2019-5414 ()

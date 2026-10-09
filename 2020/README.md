@@ -3770,6 +3770,11 @@
 - [With-fate/CVE-2020-1938](https://github.com/With-fate/CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/With-fate/CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/With-fate/CVE-2020-1938">
 - [sangrok-jeon/CVE-2020-1938-Tomcat-AJP-Ghostcat--Analysis](https://github.com/sangrok-jeon/CVE-2020-1938-Tomcat-AJP-Ghostcat--Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sangrok-jeon/CVE-2020-1938-Tomcat-AJP-Ghostcat--Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sangrok-jeon/CVE-2020-1938-Tomcat-AJP-Ghostcat--Analysis">
 - [CyberCTF/vulhub-tomcat-cve-2020-1938](https://github.com/CyberCTF/vulhub-tomcat-cve-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-tomcat-cve-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-tomcat-cve-2020-1938">
+- [lem0n817/tomcatfileread](https://github.com/lem0n817/tomcatfileread)	<img alt="forks" src="https://img.shields.io/github/forks/lem0n817/tomcatfileread">	<img alt="stars" src="https://img.shields.io/github/stars/lem0n817/tomcatfileread">
+- [duckpigdog/Tomcat-AJP-CVE-2020-1938](https://github.com/duckpigdog/Tomcat-AJP-CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/duckpigdog/Tomcat-AJP-CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/duckpigdog/Tomcat-AJP-CVE-2020-1938">
+- [cyberguardsec101-sketch/ghostcat](https://github.com/cyberguardsec101-sketch/ghostcat)	<img alt="forks" src="https://img.shields.io/github/forks/cyberguardsec101-sketch/ghostcat">	<img alt="stars" src="https://img.shields.io/github/stars/cyberguardsec101-sketch/ghostcat">
+- [si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3](https://github.com/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3)	<img alt="forks" src="https://img.shields.io/github/forks/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3">	<img alt="stars" src="https://img.shields.io/github/stars/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3">
+- [aidilzlkfli/Scanning](https://github.com/aidilzlkfli/Scanning)	<img alt="forks" src="https://img.shields.io/github/forks/aidilzlkfli/Scanning">	<img alt="stars" src="https://img.shields.io/github/stars/aidilzlkfli/Scanning">
 
 ---
 ## CVE-2020-19360 (2021-01-20T01:15:00)

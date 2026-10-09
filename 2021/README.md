@@ -6825,6 +6825,7 @@
 - [theNareshofficial/CVE-2021-3129-Lab](https://github.com/theNareshofficial/CVE-2021-3129-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/theNareshofficial/CVE-2021-3129-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/theNareshofficial/CVE-2021-3129-Lab">
 - [Giangdurian/CVE-2021-3129](https://github.com/Giangdurian/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2021-3129">
 - [cchiaravalentini/CVE-2021-3129](https://github.com/cchiaravalentini/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/cchiaravalentini/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/cchiaravalentini/CVE-2021-3129">
+- [CyberCTF/vulhub-laravel-cve-2021-3129](https://github.com/CyberCTF/vulhub-laravel-cve-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-laravel-cve-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-laravel-cve-2021-3129">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)
