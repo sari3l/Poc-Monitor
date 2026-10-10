@@ -3896,6 +3896,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [DharmarajPS/pdfjs-cve-2024-4367-poc](https://github.com/DharmarajPS/pdfjs-cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DharmarajPS/pdfjs-cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DharmarajPS/pdfjs-cve-2024-4367-poc">
 - [weae26/cve-2024-4367-poc](https://github.com/weae26/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/weae26/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/weae26/cve-2024-4367-poc">
 - [stuara1/cpc-pdfjs-poc](https://github.com/stuara1/cpc-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stuara1/cpc-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stuara1/cpc-pdfjs-poc">
+- [lewiskb/Docker-Lab-CVE-2024-4367](https://github.com/lewiskb/Docker-Lab-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/lewiskb/Docker-Lab-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/lewiskb/Docker-Lab-CVE-2024-4367">
 
 ---
 ## CVE-2024-43639 ()
