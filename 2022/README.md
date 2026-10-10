@@ -31900,6 +31900,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [ernestom-commits/jfrog-apptrust-demo](https://github.com/ernestom-commits/jfrog-apptrust-demo)	<img alt="forks" src="https://img.shields.io/github/forks/ernestom-commits/jfrog-apptrust-demo">	<img alt="stars" src="https://img.shields.io/github/stars/ernestom-commits/jfrog-apptrust-demo">
 - [YUTING-HUANG0/Spring4Shell-CTF](https://github.com/YUTING-HUANG0/Spring4Shell-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/YUTING-HUANG0/Spring4Shell-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/YUTING-HUANG0/Spring4Shell-CTF">
 - [CyberCTF/vulhub-spring-cve-2022-22965](https://github.com/CyberCTF/vulhub-spring-cve-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2022-22965">
+- [PrinceH4k/Spring4Shell-POC](https://github.com/PrinceH4k/Spring4Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PrinceH4k/Spring4Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PrinceH4k/Spring4Shell-POC">
+- [meng-security/spring4shell-local-verification-lab](https://github.com/meng-security/spring4shell-local-verification-lab)	<img alt="forks" src="https://img.shields.io/github/forks/meng-security/spring4shell-local-verification-lab">	<img alt="stars" src="https://img.shields.io/github/stars/meng-security/spring4shell-local-verification-lab">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
