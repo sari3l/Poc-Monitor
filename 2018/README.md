@@ -2131,6 +2131,7 @@
 - [ctf-noob/CVE-LibSSH---Authentication-Bypass-CVE-2018-10933.py](https://github.com/ctf-noob/CVE-LibSSH---Authentication-Bypass-CVE-2018-10933.py)	<img alt="forks" src="https://img.shields.io/github/forks/ctf-noob/CVE-LibSSH---Authentication-Bypass-CVE-2018-10933.py">	<img alt="stars" src="https://img.shields.io/github/stars/ctf-noob/CVE-LibSSH---Authentication-Bypass-CVE-2018-10933.py">
 - [Remnant-DB/CVE-2018-10933](https://github.com/Remnant-DB/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2018-10933">
 - [K3ysTr0K3R/CVE-2018-10933](https://github.com/K3ysTr0K3R/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2018-10933">
+- [CyberCTF/vulhub-libssh-cve-2018-10933](https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-libssh-cve-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-libssh-cve-2018-10933">
 
 ---
 ## CVE-2018-10583 (2018-05-01T16:29:00)
@@ -2199,6 +2200,7 @@
 > A code execution vulnerability exists in the Stapler web framework used by Jenkins 2.153 and earlier, LTS 2.138.3 and earlier in stapler/core/src/main/java/org/kohsuke/stapler/MetaClass.java that allows attackers to invoke some methods on Java objects by accessing crafted URLs that were not intended to be invoked this way.
 - [smokeintheshell/CVE-2018-1000861](https://github.com/smokeintheshell/CVE-2018-1000861)	<img alt="forks" src="https://img.shields.io/github/forks/smokeintheshell/CVE-2018-1000861">	<img alt="stars" src="https://img.shields.io/github/stars/smokeintheshell/CVE-2018-1000861">
 - [1NTheKut/CVE-2019-1003000_RCE-DETECTION](https://github.com/1NTheKut/CVE-2019-1003000_RCE-DETECTION)	<img alt="forks" src="https://img.shields.io/github/forks/1NTheKut/CVE-2019-1003000_RCE-DETECTION">	<img alt="stars" src="https://img.shields.io/github/stars/1NTheKut/CVE-2019-1003000_RCE-DETECTION">
+- [CyberCTF/vulhub-jenkins-cve-2018-1000861](https://github.com/CyberCTF/vulhub-jenkins-cve-2018-1000861)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jenkins-cve-2018-1000861">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jenkins-cve-2018-1000861">
 
 ---
 ## CVE-2018-1000850 ()

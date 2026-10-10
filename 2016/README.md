@@ -751,7 +751,7 @@
 ## CVE-2016-3714 (2016-05-05T18:59:00)
 > The (1) EPHEMERAL, (2) HTTPS, (3) MVG, (4) MSL, (5) TEXT, (6) SHOW, (7) WIN, and (8) PLT coders in ImageMagick before 6.9.3-10 and 7.x before 7.0.1-1 allow remote attackers to execute arbitrary code via shell metacharacters in a crafted image, aka "ImageTragick."
 - [JoshMorrison99/CVE-2016-3714](https://github.com/JoshMorrison99/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/JoshMorrison99/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/JoshMorrison99/CVE-2016-3714">
-- [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)	<img alt="forks" src="https://img.shields.io/github/forks/MrrRaph/pandagik">	<img alt="stars" src="https://img.shields.io/github/stars/MrrRaph/pandagik">
+- [PandH4cker/pandagik](https://github.com/PandH4cker/pandagik)	<img alt="forks" src="https://img.shields.io/github/forks/PandH4cker/pandagik">	<img alt="stars" src="https://img.shields.io/github/stars/PandH4cker/pandagik">
 - [shelld3v/RCE-python-oneliner-payload](https://github.com/shelld3v/RCE-python-oneliner-payload)	<img alt="forks" src="https://img.shields.io/github/forks/shelld3v/RCE-python-oneliner-payload">	<img alt="stars" src="https://img.shields.io/github/stars/shelld3v/RCE-python-oneliner-payload">
 - [artfreyr/wp-imagetragick](https://github.com/artfreyr/wp-imagetragick)	<img alt="forks" src="https://img.shields.io/github/forks/artfreyr/wp-imagetragick">	<img alt="stars" src="https://img.shields.io/github/stars/artfreyr/wp-imagetragick">
 - [mike-williams/imagetragick-poc](https://github.com/mike-williams/imagetragick-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mike-williams/imagetragick-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mike-williams/imagetragick-poc">
@@ -761,6 +761,7 @@
 - [Hood3dRob1n/CVE-2016-3714](https://github.com/Hood3dRob1n/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/Hood3dRob1n/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/Hood3dRob1n/CVE-2016-3714">
 - [tommiionfire/CVE-2016-3714](https://github.com/tommiionfire/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/tommiionfire/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/tommiionfire/CVE-2016-3714">
 - [jackdpeterson/imagick_secure_puppet](https://github.com/jackdpeterson/imagick_secure_puppet)	<img alt="forks" src="https://img.shields.io/github/forks/jackdpeterson/imagick_secure_puppet">	<img alt="stars" src="https://img.shields.io/github/stars/jackdpeterson/imagick_secure_puppet">
+- [CyberCTF/vulhub-imagemagick-cve-2016-3714](https://github.com/CyberCTF/vulhub-imagemagick-cve-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-imagemagick-cve-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-imagemagick-cve-2016-3714">
 
 ---
 ## CVE-2016-3709 (2022-07-28T17:15:00)

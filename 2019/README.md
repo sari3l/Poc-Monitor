@@ -394,6 +394,7 @@
 - [hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc](https://github.com/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">
 - [Akshay15-png/CVE-2019-7609](https://github.com/Akshay15-png/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/Akshay15-png/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/Akshay15-png/CVE-2019-7609">
 - [toxaker/CVE-2019-7609](https://github.com/toxaker/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/toxaker/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/toxaker/CVE-2019-7609">
+- [CyberCTF/vulhub-kibana-cve-2019-7609](https://github.com/CyberCTF/vulhub-kibana-cve-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-kibana-cve-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-kibana-cve-2019-7609">
 
 ---
 ## CVE-2019-7529 ()
@@ -1853,6 +1854,9 @@ use after free.
 ## CVE-2019-20933 ()
 > 
 - [Dungsocool/CVE-2019-20933](https://github.com/Dungsocool/CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2019-20933">
+- [CyberCTF/vulhub-influxdb-cve-2019-20933](https://github.com/CyberCTF/vulhub-influxdb-cve-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-influxdb-cve-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-influxdb-cve-2019-20933">
+- [LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933">
+- [Hydragyrum/CVE-2019-20933](https://github.com/Hydragyrum/CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Hydragyrum/CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Hydragyrum/CVE-2019-20933">
 
 ---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
@@ -3538,6 +3542,11 @@ use after free.
 ## CVE-2019-10760 (2019-10-15T15:15:00)
 > safer-eval before 1.3.2 are vulnerable to Arbitrary Code Execution. A payload using constructor properties can escape the sandbox and execute arbitrary code.
 - [lirantal/safer-eval-cve-CVE-2019-10760](https://github.com/lirantal/safer-eval-cve-CVE-2019-10760)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/safer-eval-cve-CVE-2019-10760">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/safer-eval-cve-CVE-2019-10760">
+
+---
+## CVE-2019-10758 ()
+> 
+- [CyberCTF/vulhub-mongo-express-cve-2019-10758](https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-mongo-express-cve-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-mongo-express-cve-2019-10758">
 
 ---
 ## CVE-2019-10746 (2019-08-23T17:15:00)

@@ -22780,7 +22780,9 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [raheel0x01/CVE-2022-34265-modified](https://github.com/raheel0x01/CVE-2022-34265-modified)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2022-34265-modified">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2022-34265-modified">
 - [coco0x0a/CVE-2022-34265-mysql](https://github.com/coco0x0a/CVE-2022-34265-mysql)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CVE-2022-34265-mysql">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CVE-2022-34265-mysql">
 - [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
-- [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
+- [lnwza0x0a/CTF_Django_CVE-2022-34265](https://github.com/lnwza0x0a/CTF_Django_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/lnwza0x0a/CTF_Django_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/lnwza0x0a/CTF_Django_CVE-2022-34265">
+- [CyberCTF/vulhub-django-cve-2022-34265](https://github.com/CyberCTF/vulhub-django-cve-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-django-cve-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-django-cve-2022-34265">
+- [simonepetruzzi/WebSecurityProject](https://github.com/simonepetruzzi/WebSecurityProject)	<img alt="forks" src="https://img.shields.io/github/forks/simonepetruzzi/WebSecurityProject">	<img alt="stars" src="https://img.shields.io/github/stars/simonepetruzzi/WebSecurityProject">
 
 ---
 ## CVE-2022-3426 (2022-12-05T17:15:00)
@@ -31593,6 +31595,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23221 ()
 > 
 - [straightSang/H2-database-CVE-2022-23221](https://github.com/straightSang/H2-database-CVE-2022-23221)	<img alt="forks" src="https://img.shields.io/github/forks/straightSang/H2-database-CVE-2022-23221">	<img alt="stars" src="https://img.shields.io/github/stars/straightSang/H2-database-CVE-2022-23221">
+- [CyberCTF/vulhub-h2database-cve-2022-23221](https://github.com/CyberCTF/vulhub-h2database-cve-2022-23221)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-h2database-cve-2022-23221">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-h2database-cve-2022-23221">
 
 ---
 ## CVE-2022-2320 (2022-09-01T21:15:00)

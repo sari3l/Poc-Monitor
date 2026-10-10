@@ -1411,6 +1411,7 @@
 - [Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798](https://github.com/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">
 - [khanna419/cve-2021-43798-lab](https://github.com/khanna419/cve-2021-43798-lab)	<img alt="forks" src="https://img.shields.io/github/forks/khanna419/cve-2021-43798-lab">	<img alt="stars" src="https://img.shields.io/github/stars/khanna419/cve-2021-43798-lab">
 - [shivamg2004/-INE_Shivam_Gupta_23104003](https://github.com/shivamg2004/-INE_Shivam_Gupta_23104003)	<img alt="forks" src="https://img.shields.io/github/forks/shivamg2004/-INE_Shivam_Gupta_23104003">	<img alt="stars" src="https://img.shields.io/github/stars/shivamg2004/-INE_Shivam_Gupta_23104003">
+- [CyberCTF/vulhub-grafana-cve-2021-43798](https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-grafana-cve-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-grafana-cve-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
@@ -2701,6 +2702,7 @@
 - [SANR01/CVE-2021-41773-Exploit-Lab](https://github.com/SANR01/CVE-2021-41773-Exploit-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/SANR01/CVE-2021-41773-Exploit-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/SANR01/CVE-2021-41773-Exploit-Lab">
 - [abdulrafay25-svg/CVE-2021-41773-Exploit](https://github.com/abdulrafay25-svg/CVE-2021-41773-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/abdulrafay25-svg/CVE-2021-41773-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/abdulrafay25-svg/CVE-2021-41773-Exploit">
 - [1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab](https://github.com/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">
+- [CyberCTF/vulhub-httpd-cve-2021-41773](https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -7272,6 +7274,7 @@
 - [hh-hunter/nacos-cve-2021-29441](https://github.com/hh-hunter/nacos-cve-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/nacos-cve-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/nacos-cve-2021-29441">
 - [azhao1981/CVE-2021-29441](https://github.com/azhao1981/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/azhao1981/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/azhao1981/CVE-2021-29441">
 - [K3ysTr0K3R/CVE-2021-29441](https://github.com/K3ysTr0K3R/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-29441">
+- [CyberCTF/vulhub-nacos-cve-2021-29441](https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nacos-cve-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nacos-cve-2021-29441">
 
 ---
 ## CVE-2021-29440 (2021-04-13T20:15:00)
@@ -9096,6 +9099,7 @@
 - [ccordeiro/CVE-2021-22205](https://github.com/ccordeiro/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-22205">
 - [Jeromeyoung/CVE-2021-22210](https://github.com/Jeromeyoung/CVE-2021-22210)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-22210">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-22210">
 - [K3ysTr0K3R/CVE-2021-22205](https://github.com/K3ysTr0K3R/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-22205">
+- [CyberCTF/vulhub-gitlab-cve-2021-22205](https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-gitlab-cve-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-gitlab-cve-2021-22205">
 
 ---
 ## CVE-2021-22204 (2021-04-23T18:15:00)

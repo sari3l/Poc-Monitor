@@ -232,6 +232,8 @@
 - [AleDiBen/Drupalgeddon](https://github.com/AleDiBen/Drupalgeddon)	<img alt="forks" src="https://img.shields.io/github/forks/AleDiBen/Drupalgeddon">	<img alt="stars" src="https://img.shields.io/github/stars/AleDiBen/Drupalgeddon">
 - [happynote3966/CVE-2014-3704](https://github.com/happynote3966/CVE-2014-3704)	<img alt="forks" src="https://img.shields.io/github/forks/happynote3966/CVE-2014-3704">	<img alt="stars" src="https://img.shields.io/github/stars/happynote3966/CVE-2014-3704">
 - [CyberCTF/vulhub-drupal-cve-2014-3704](https://github.com/CyberCTF/vulhub-drupal-cve-2014-3704)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-drupal-cve-2014-3704">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-drupal-cve-2014-3704">
+- [adfortunato/metasploitable3-pentest-writeup](https://github.com/adfortunato/metasploitable3-pentest-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/adfortunato/metasploitable3-pentest-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/adfortunato/metasploitable3-pentest-writeup">
+- [fbm31/Audit-BlackBox-Web-to-Root](https://github.com/fbm31/Audit-BlackBox-Web-to-Root)	<img alt="forks" src="https://img.shields.io/github/forks/fbm31/Audit-BlackBox-Web-to-Root">	<img alt="stars" src="https://img.shields.io/github/stars/fbm31/Audit-BlackBox-Web-to-Root">
 
 ---
 ## CVE-2014-3656 ()

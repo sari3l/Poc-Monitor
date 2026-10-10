@@ -1356,6 +1356,11 @@
 - [Live-Hack-CVE/CVE-2017-14862](https://github.com/Live-Hack-CVE/CVE-2017-14862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14862">
 
 ---
+## CVE-2017-14849 ()
+> 
+- [CyberCTF/vulhub-node-cve-2017-14849](https://github.com/CyberCTF/vulhub-node-cve-2017-14849)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-node-cve-2017-14849">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-node-cve-2017-14849">
+
+---
 ## CVE-2017-14746 (2017-11-27T22:29:00)
 > Use-after-free vulnerability in Samba 4.x before 4.7.3 allows remote attackers to execute arbitrary code via a crafted SMB1 request.
 - [Live-Hack-CVE/CVE-2017-14746](https://github.com/Live-Hack-CVE/CVE-2017-14746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14746">
@@ -1580,6 +1585,7 @@
 - [JesseClarkND/CVE-2017-12149](https://github.com/JesseClarkND/CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/JesseClarkND/CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/JesseClarkND/CVE-2017-12149">
 - [zesnd/cve-2017-12149](https://github.com/zesnd/cve-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/zesnd/cve-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/zesnd/cve-2017-12149">
 - [galois17/cve-2017-12149-playground](https://github.com/galois17/cve-2017-12149-playground)	<img alt="forks" src="https://img.shields.io/github/forks/galois17/cve-2017-12149-playground">	<img alt="stars" src="https://img.shields.io/github/stars/galois17/cve-2017-12149-playground">
+- [CyberCTF/vulhub-jboss-cve-2017-12149](https://github.com/CyberCTF/vulhub-jboss-cve-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jboss-cve-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jboss-cve-2017-12149">
 
 ---
 ## CVE-2017-12129 (2018-05-14T20:29:00)
