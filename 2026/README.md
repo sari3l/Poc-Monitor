@@ -12886,6 +12886,11 @@
 - [anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation](https://github.com/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation">
 
 ---
+## CVE-2026-103690 ()
+> 
+- [Masuer-mengxing/CVE-2026-103690](https://github.com/Masuer-mengxing/CVE-2026-103690)	<img alt="forks" src="https://img.shields.io/github/forks/Masuer-mengxing/CVE-2026-103690">	<img alt="stars" src="https://img.shields.io/github/stars/Masuer-mengxing/CVE-2026-103690">
+
+---
 ## CVE-2026-103648 ()
 > 
 - [EterNullSec/CVE-2026-103648](https://github.com/EterNullSec/CVE-2026-103648)	<img alt="forks" src="https://img.shields.io/github/forks/EterNullSec/CVE-2026-103648">	<img alt="stars" src="https://img.shields.io/github/stars/EterNullSec/CVE-2026-103648">
