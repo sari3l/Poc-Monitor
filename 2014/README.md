@@ -804,6 +804,8 @@
 - [victoriacfigueiredo/heartbleed-lab](https://github.com/victoriacfigueiredo/heartbleed-lab)	<img alt="forks" src="https://img.shields.io/github/forks/victoriacfigueiredo/heartbleed-lab">	<img alt="stars" src="https://img.shields.io/github/stars/victoriacfigueiredo/heartbleed-lab">
 - [Ryo-Soikutsu/Heartbleed](https://github.com/Ryo-Soikutsu/Heartbleed)	<img alt="forks" src="https://img.shields.io/github/forks/Ryo-Soikutsu/Heartbleed">	<img alt="stars" src="https://img.shields.io/github/stars/Ryo-Soikutsu/Heartbleed">
 - [CyberCTF/vulhub-openssl-cve-2014-0160](https://github.com/CyberCTF/vulhub-openssl-cve-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-openssl-cve-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-openssl-cve-2014-0160">
+- [Ayushsinha322/heartbleed-lab](https://github.com/Ayushsinha322/heartbleed-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Ayushsinha322/heartbleed-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Ayushsinha322/heartbleed-lab">
+- [L1LF1NG3R/heartbleed-vulnerability-exploitation](https://github.com/L1LF1NG3R/heartbleed-vulnerability-exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/L1LF1NG3R/heartbleed-vulnerability-exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/L1LF1NG3R/heartbleed-vulnerability-exploitation">
 
 ---
 ## CVE-2014-016 ()

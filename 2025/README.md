@@ -70,6 +70,11 @@
 - [godfatherofexps/CVE-2025-9744-PoC](https://github.com/godfatherofexps/CVE-2025-9744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/godfatherofexps/CVE-2025-9744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/godfatherofexps/CVE-2025-9744-PoC">
 
 ---
+## CVE-2025-9548 ()
+> 
+- [CyberFrenchie/CVE-2025-9548](https://github.com/CyberFrenchie/CVE-2025-9548)	<img alt="forks" src="https://img.shields.io/github/forks/CyberFrenchie/CVE-2025-9548">	<img alt="stars" src="https://img.shields.io/github/stars/CyberFrenchie/CVE-2025-9548">
+
+---
 ## CVE-2025-9519 ()
 > 
 - [Nimisha17/Poc-CVE-2025-9519](https://github.com/Nimisha17/Poc-CVE-2025-9519)	<img alt="forks" src="https://img.shields.io/github/forks/Nimisha17/Poc-CVE-2025-9519">	<img alt="stars" src="https://img.shields.io/github/stars/Nimisha17/Poc-CVE-2025-9519">
