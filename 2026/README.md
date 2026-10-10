@@ -924,6 +924,7 @@
 ## CVE-2026-84568 ()
 > 
 - [jvidhan/autofs-cve-2026-84568](https://github.com/jvidhan/autofs-cve-2026-84568)	<img alt="forks" src="https://img.shields.io/github/forks/jvidhan/autofs-cve-2026-84568">	<img alt="stars" src="https://img.shields.io/github/stars/jvidhan/autofs-cve-2026-84568">
+- [redinpulse/CVE-2026-84568](https://github.com/redinpulse/CVE-2026-84568)	<img alt="forks" src="https://img.shields.io/github/forks/redinpulse/CVE-2026-84568">	<img alt="stars" src="https://img.shields.io/github/stars/redinpulse/CVE-2026-84568">
 
 ---
 ## CVE-2026-84543 ()

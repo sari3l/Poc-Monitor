@@ -4487,7 +4487,7 @@
 - [predyy/totorum](https://github.com/predyy/totorum)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/totorum">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/totorum">
 - [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 - [H4R335HR/reactshell](https://github.com/H4R335HR/reactshell)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/reactshell">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/reactshell">
-- [0xAshwesker/CVE-2025-55182](https://github.com/0xAshwesker/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2025-55182">
+- [0xBlackash/CVE-2025-55182](https://github.com/0xBlackash/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-55182">
 - [Yusril-git/OWASP-Detection-Lab](https://github.com/Yusril-git/OWASP-Detection-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Yusril-git/OWASP-Detection-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Yusril-git/OWASP-Detection-Lab">
 - [alptexans/RSC-Detect-CVE-2025-55182](https://github.com/alptexans/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/alptexans/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/alptexans/RSC-Detect-CVE-2025-55182">
 - [revasec/CVE-2025-55182-Interactive-mode](https://github.com/revasec/CVE-2025-55182-Interactive-mode)	<img alt="forks" src="https://img.shields.io/github/forks/revasec/CVE-2025-55182-Interactive-mode">	<img alt="stars" src="https://img.shields.io/github/stars/revasec/CVE-2025-55182-Interactive-mode">
@@ -4585,6 +4585,7 @@
 - [RashmithaDeSilva/React2Shell_CVE-2025-55182](https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RashmithaDeSilva/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RashmithaDeSilva/React2Shell_CVE-2025-55182">
 - [OhSoomin812/cve-2025-55182-ctf](https://github.com/OhSoomin812/cve-2025-55182-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/OhSoomin812/cve-2025-55182-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/OhSoomin812/cve-2025-55182-ctf">
 - [Frizzardsecurity/CVE-2025-55182](https://github.com/Frizzardsecurity/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Frizzardsecurity/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Frizzardsecurity/CVE-2025-55182">
+- [foxcornlab/react2shell-scanner](https://github.com/foxcornlab/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/react2shell-scanner">
 
 ---
 ## CVE-2025-55130 ()
