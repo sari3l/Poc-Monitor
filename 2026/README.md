@@ -6805,6 +6805,11 @@
 - [Bailan766/rmx3888-cve-2026-43499-config](https://github.com/Bailan766/rmx3888-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/Bailan766/rmx3888-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/Bailan766/rmx3888-cve-2026-43499-config">
 
 ---
+## CVE-2026-38812 ()
+> 
+- [YYF1337/RuoYi-CVE-2026-38812-UNFIX](https://github.com/YYF1337/RuoYi-CVE-2026-38812-UNFIX)	<img alt="forks" src="https://img.shields.io/github/forks/YYF1337/RuoYi-CVE-2026-38812-UNFIX">	<img alt="stars" src="https://img.shields.io/github/stars/YYF1337/RuoYi-CVE-2026-38812-UNFIX">
+
+---
 ## CVE-2026-38766 ()
 > 
 - [D7EAD/CVE-2026-38766](https://github.com/D7EAD/CVE-2026-38766)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-38766">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-38766">
@@ -12721,6 +12726,11 @@
 - [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Iniivan13/CVE-2026-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Iniivan13/CVE-2026-1107">
 
 ---
+## CVE-2026-108592 ()
+> 
+- [asvorg/CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-108592-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-108592-poc">
+
+---
 ## CVE-2026-10818 ()
 > 
 - [Nxploited/CVE-2026-10818](https://github.com/Nxploited/CVE-2026-10818)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-10818">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-10818">
@@ -12988,6 +12998,11 @@
 > 
 - [horizon3ai/CVE-2026-102489](https://github.com/horizon3ai/CVE-2026-102489)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2026-102489">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2026-102489">
 - [Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce](https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce">
+
+---
+## CVE-2026-102428 ()
+> 
+- [MRdark-ops/sqli-cve-2026-102428](https://github.com/MRdark-ops/sqli-cve-2026-102428)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/sqli-cve-2026-102428">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/sqli-cve-2026-102428">
 
 ---
 ## CVE-2026-102427 ()

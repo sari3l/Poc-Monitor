@@ -422,6 +422,12 @@
 ## CVE-2019-7238 ()
 > 
 - [CyberCTF/vulhub-nexus-cve-2019-7238](https://github.com/CyberCTF/vulhub-nexus-cve-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nexus-cve-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nexus-cve-2019-7238">
+- [DannyRavi/nmap-scripts](https://github.com/DannyRavi/nmap-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/DannyRavi/nmap-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/DannyRavi/nmap-scripts">
+- [smallpiggy/CVE-2019-7238](https://github.com/smallpiggy/CVE-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/smallpiggy/CVE-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/smallpiggy/CVE-2019-7238">
+- [magicming200/CVE-2019-7238_Nexus_RCE_Tool](https://github.com/magicming200/CVE-2019-7238_Nexus_RCE_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/magicming200/CVE-2019-7238_Nexus_RCE_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/magicming200/CVE-2019-7238_Nexus_RCE_Tool">
+- [jas502n/CVE-2019-7238](https://github.com/jas502n/CVE-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-7238">
+- [verctor/nexus_rce_CVE-2019-7238](https://github.com/verctor/nexus_rce_CVE-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/verctor/nexus_rce_CVE-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/verctor/nexus_rce_CVE-2019-7238">
+- [mpgn/CVE-2019-7238](https://github.com/mpgn/CVE-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2019-7238">
 
 ---
 ## CVE-2019-7232 (2019-06-24T17:15:00)
@@ -3547,6 +3553,9 @@ use after free.
 ## CVE-2019-10758 ()
 > 
 - [CyberCTF/vulhub-mongo-express-cve-2019-10758](https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-mongo-express-cve-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-mongo-express-cve-2019-10758">
+- [ossf-cve-benchmark/CVE-2019-10758](https://github.com/ossf-cve-benchmark/CVE-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10758">
+- [lp008/CVE-2019-10758](https://github.com/lp008/CVE-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE-2019-10758">
+- [masahiro331/CVE-2019-10758](https://github.com/masahiro331/CVE-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/masahiro331/CVE-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/masahiro331/CVE-2019-10758">
 
 ---
 ## CVE-2019-10746 (2019-08-23T17:15:00)
