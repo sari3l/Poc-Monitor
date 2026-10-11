@@ -12043,6 +12043,7 @@
 - [yora1928/cve-2026-15748](https://github.com/yora1928/cve-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/cve-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/cve-2026-15748">
 - [HORKimhab/CVE-2026-15826-CVE-2026-15748](https://github.com/HORKimhab/CVE-2026-15826-CVE-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-15826-CVE-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-15826-CVE-2026-15748">
 - [ubaydev/CVE-2026-15748](https://github.com/ubaydev/CVE-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2026-15748">
+- [0x4cr/CVE-2026-15748](https://github.com/0x4cr/CVE-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/0x4cr/CVE-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/0x4cr/CVE-2026-15748">
 
 ---
 ## CVE-2026-15718 ()
@@ -13023,6 +13024,7 @@
 > 
 - [horizon3ai/CVE-2026-102489](https://github.com/horizon3ai/CVE-2026-102489)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2026-102489">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2026-102489">
 - [Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce](https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce">
+- [1xPwn/CVE-2026-102489](https://github.com/1xPwn/CVE-2026-102489)	<img alt="forks" src="https://img.shields.io/github/forks/1xPwn/CVE-2026-102489">	<img alt="stars" src="https://img.shields.io/github/stars/1xPwn/CVE-2026-102489">
 
 ---
 ## CVE-2026-102428 ()
