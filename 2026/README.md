@@ -430,6 +430,7 @@
 - [K3ysTr0K3R/CVE-2026-9198](https://github.com/K3ysTr0K3R/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-9198">
 - [chessalekin/cve-2026-9198_exploit](https://github.com/chessalekin/cve-2026-9198_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/chessalekin/cve-2026-9198_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/chessalekin/cve-2026-9198_exploit">
 - [joaovicdev/EXPLOIT-CVE-2026-9198](https://github.com/joaovicdev/EXPLOIT-CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-9198">
+- [Riftweld/langflow-cve-2026-9198](https://github.com/Riftweld/langflow-cve-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/Riftweld/langflow-cve-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/Riftweld/langflow-cve-2026-9198">
 
 ---
 ## CVE-2026-91940 ()
@@ -450,6 +451,11 @@
 ## CVE-2026-91159 ()
 > 
 - [sl4x0/autheo-cve-2026-91159-poc](https://github.com/sl4x0/autheo-cve-2026-91159-poc)	<img alt="forks" src="https://img.shields.io/github/forks/sl4x0/autheo-cve-2026-91159-poc">	<img alt="stars" src="https://img.shields.io/github/stars/sl4x0/autheo-cve-2026-91159-poc">
+
+---
+## CVE-2026-91136 ()
+> 
+- [fl0ydsec/CVE-2026-91136](https://github.com/fl0ydsec/CVE-2026-91136)	<img alt="forks" src="https://img.shields.io/github/forks/fl0ydsec/CVE-2026-91136">	<img alt="stars" src="https://img.shields.io/github/stars/fl0ydsec/CVE-2026-91136">
 
 ---
 ## CVE-2026-91097 ()
@@ -1868,6 +1874,7 @@
 - [d-maggipinto/CVE-2026-72898-metabase-sqli](https://github.com/d-maggipinto/CVE-2026-72898-metabase-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/d-maggipinto/CVE-2026-72898-metabase-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/d-maggipinto/CVE-2026-72898-metabase-sqli">
 - [EQSTLab/CVE-2026-72898](https://github.com/EQSTLab/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-72898">
 - [34zY/CVE-2026-72898](https://github.com/34zY/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2026-72898">
+- [Riftweld/metabase-cve-2026-72898](https://github.com/Riftweld/metabase-cve-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/Riftweld/metabase-cve-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/Riftweld/metabase-cve-2026-72898">
 
 ---
 ## CVE-2026-72815 ()
