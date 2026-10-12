@@ -8211,6 +8211,7 @@
 - [harshitvarma05/CVE-2025-31324-Exploits](https://github.com/harshitvarma05/CVE-2025-31324-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/harshitvarma05/CVE-2025-31324-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/harshitvarma05/CVE-2025-31324-Exploits">
 - [aristois913/CVE-2025-31324](https://github.com/aristois913/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/aristois913/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/aristois913/CVE-2025-31324">
 - [HKenzoKimura/CVE-2025-31324](https://github.com/HKenzoKimura/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2025-31324">
+- [harisandhusingh-cmyk/cs50-cve-2025-31324-analysis](https://github.com/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis">
 
 ---
 ## CVE-2025-31258 ()
