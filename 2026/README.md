@@ -354,6 +354,11 @@
 - [murrez/CVE-2026-92966](https://github.com/murrez/CVE-2026-92966)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-92966">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-92966">
 
 ---
+## CVE-2026-92956 ()
+> 
+- [AraxyAI/CVE-2026-92956__vm2__test__20261012](https://github.com/AraxyAI/CVE-2026-92956__vm2__test__20261012)	<img alt="forks" src="https://img.shields.io/github/forks/AraxyAI/CVE-2026-92956__vm2__test__20261012">	<img alt="stars" src="https://img.shields.io/github/stars/AraxyAI/CVE-2026-92956__vm2__test__20261012">
+
+---
 ## CVE-2026-9290 ()
 > 
 - [shinthink/CVE-2026-9290](https://github.com/shinthink/CVE-2026-9290)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-9290">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-9290">
@@ -977,6 +982,7 @@
 > 
 - [maxprog-svg/CVE-2026-84411](https://github.com/maxprog-svg/CVE-2026-84411)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-84411">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-84411">
 - [gagaltotal/CVE-2026-mikrotik-poc](https://github.com/gagaltotal/CVE-2026-mikrotik-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-mikrotik-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-mikrotik-poc">
+- [Apiratchai/CVE-2026-84411-reproduction](https://github.com/Apiratchai/CVE-2026-84411-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Apiratchai/CVE-2026-84411-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Apiratchai/CVE-2026-84411-reproduction">
 - [Apiratchai/CVE-2026-84411-reproduction](https://github.com/Apiratchai/CVE-2026-84411-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Apiratchai/CVE-2026-84411-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Apiratchai/CVE-2026-84411-reproduction">
 
 ---
@@ -6852,6 +6858,7 @@
 - [karimelsheikh1/HTB-Snapped-Writeup](https://github.com/karimelsheikh1/HTB-Snapped-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Snapped-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Snapped-Writeup">
 - [AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation](https://github.com/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation">
 - [Bailan766/rmx3888-cve-2026-43499-config](https://github.com/Bailan766/rmx3888-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/Bailan766/rmx3888-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/Bailan766/rmx3888-cve-2026-43499-config">
+- [alinpfan/CVE-2026-3888-PoC](https://github.com/alinpfan/CVE-2026-3888-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alinpfan/CVE-2026-3888-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alinpfan/CVE-2026-3888-PoC">
 
 ---
 ## CVE-2026-38812 ()
