@@ -879,6 +879,7 @@
 > 
 - [Wayang1337/CVE-2026-85097](https://github.com/Wayang1337/CVE-2026-85097)	<img alt="forks" src="https://img.shields.io/github/forks/Wayang1337/CVE-2026-85097">	<img alt="stars" src="https://img.shields.io/github/stars/Wayang1337/CVE-2026-85097">
 - [tc4dy/CVE-2026-85097-Toolkit](https://github.com/tc4dy/CVE-2026-85097-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-85097-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-85097-Toolkit">
+- [Masriyan/CVE-2026-85097](https://github.com/Masriyan/CVE-2026-85097)	<img alt="forks" src="https://img.shields.io/github/forks/Masriyan/CVE-2026-85097">	<img alt="stars" src="https://img.shields.io/github/stars/Masriyan/CVE-2026-85097">
 
 ---
 ## CVE-2026-8508 ()
@@ -5298,6 +5299,7 @@
 > 
 - [gagaltotal/CVE-2026-44825-Apache-Solr-Scanner](https://github.com/gagaltotal/CVE-2026-44825-Apache-Solr-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-44825-Apache-Solr-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-44825-Apache-Solr-Scanner">
 - [shinthink/solrradar](https://github.com/shinthink/solrradar)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/solrradar">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/solrradar">
+- [q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/CVE-2026-44825_test">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/CVE-2026-44825_test">
 
 ---
 ## CVE-2026-4480 ()
@@ -6140,6 +6142,11 @@
 ## CVE-2026-42031 ()
 > 
 - [ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner](https://github.com/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner">
+
+---
+## CVE-2026-41992 ()
+> 
+- [uday952/CVE-2026-41992-poc](https://github.com/uday952/CVE-2026-41992-poc)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-41992-poc">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-41992-poc">
 
 ---
 ## CVE-2026-41940 ()
@@ -12412,6 +12419,7 @@
 - [0xBlackash/CVE-2026-1357](https://github.com/0xBlackash/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-1357">
 - [masterwok/PoC-CVE-2026-1357](https://github.com/masterwok/PoC-CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/PoC-CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/PoC-CVE-2026-1357">
 - [sahmsec/CVE-2026-1357](https://github.com/sahmsec/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-1357">
+- [stj8703-web/CVE-2026-1357](https://github.com/stj8703-web/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/stj8703-web/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/stj8703-web/CVE-2026-1357">
 
 ---
 ## CVE-2026-13447 ()
@@ -12933,6 +12941,14 @@
 ## CVE-2026-104826 ()
 > 
 - [KiwKNR/CVE-2026-104826](https://github.com/KiwKNR/CVE-2026-104826)	<img alt="forks" src="https://img.shields.io/github/forks/KiwKNR/CVE-2026-104826">	<img alt="stars" src="https://img.shields.io/github/stars/KiwKNR/CVE-2026-104826">
+
+---
+## CVE-2026-104711 ()
+> 
+- [uday952/CVE-2026-104711-Advanced-Variant](https://github.com/uday952/CVE-2026-104711-Advanced-Variant)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-Advanced-Variant">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-Advanced-Variant">
+- [uday952/CVE-2026-104711-exploit-payload-4](https://github.com/uday952/CVE-2026-104711-exploit-payload-4)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-exploit-payload-4">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-exploit-payload-4">
+- [uday952/CVE-2026-104711-POC-Variant3](https://github.com/uday952/CVE-2026-104711-POC-Variant3)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC-Variant3">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC-Variant3">
+- [uday952/CVE-2026-104711](https://github.com/uday952/CVE-2026-104711)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711">
 
 ---
 ## CVE-2026-104356 ()
