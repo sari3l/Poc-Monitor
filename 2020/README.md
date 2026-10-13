@@ -6227,6 +6227,7 @@
 - [koharin/CVE-2020-0041](https://github.com/koharin/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/koharin/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/koharin/CVE-2020-0041">
 - [vaginessa/CVE-2020-0041-Pixel-3a](https://github.com/vaginessa/CVE-2020-0041-Pixel-3a)	<img alt="forks" src="https://img.shields.io/github/forks/vaginessa/CVE-2020-0041-Pixel-3a">	<img alt="stars" src="https://img.shields.io/github/stars/vaginessa/CVE-2020-0041-Pixel-3a">
 - [bluefrostsecurity/CVE-2020-0041](https://github.com/bluefrostsecurity/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2020-0041">
+- [hiratazx/CVE-2020-0041](https://github.com/hiratazx/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/hiratazx/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/hiratazx/CVE-2020-0041">
 
 ---
 ## CVE-2020-0022 (2020-02-13T15:15:00)
