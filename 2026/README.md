@@ -1000,6 +1000,7 @@
 - [gagaltotal/CVE-2026-mikrotik-poc](https://github.com/gagaltotal/CVE-2026-mikrotik-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-mikrotik-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-mikrotik-poc">
 - [Apiratchai/CVE-2026-84411-reproduction](https://github.com/Apiratchai/CVE-2026-84411-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Apiratchai/CVE-2026-84411-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Apiratchai/CVE-2026-84411-reproduction">
 - [Apiratchai/CVE-2026-84411-reproduction](https://github.com/Apiratchai/CVE-2026-84411-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Apiratchai/CVE-2026-84411-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Apiratchai/CVE-2026-84411-reproduction">
+- [MikroTikDojo/CVE-2026-84411](https://github.com/MikroTikDojo/CVE-2026-84411)	<img alt="forks" src="https://img.shields.io/github/forks/MikroTikDojo/CVE-2026-84411">	<img alt="stars" src="https://img.shields.io/github/stars/MikroTikDojo/CVE-2026-84411">
 
 ---
 ## CVE-2026-84388 ()
@@ -6355,6 +6356,11 @@
 ## CVE-2026-41462 ()
 > 
 - [0xBlackash/CVE-2026-41462](https://github.com/0xBlackash/CVE-2026-41462)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41462">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41462">
+
+---
+## CVE-2026-41456 ()
+> 
+- [lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456](https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456)	<img alt="forks" src="https://img.shields.io/github/forks/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456">	<img alt="stars" src="https://img.shields.io/github/stars/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456">
 
 ---
 ## CVE-2026-41452 ()
@@ -12829,9 +12835,24 @@
 - [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Iniivan13/CVE-2026-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Iniivan13/CVE-2026-1107">
 
 ---
+## CVE-2026-110025 ()
+> 
+- [capivara-research/CVE-2026-110025](https://github.com/capivara-research/CVE-2026-110025)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-110025">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-110025">
+
+---
+## CVE-2026-109721 ()
+> 
+- [Scyrix-LLC/CVE-2026-109721](https://github.com/Scyrix-LLC/CVE-2026-109721)	<img alt="forks" src="https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109721">	<img alt="stars" src="https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109721">
+
+---
 ## CVE-2026-109519 ()
 > 
 - [0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519">
+
+---
+## CVE-2026-108924 ()
+> 
+- [capivara-research/CVE-2026-108924](https://github.com/capivara-research/CVE-2026-108924)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-108924">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-108924">
 
 ---
 ## CVE-2026-108592 ()
