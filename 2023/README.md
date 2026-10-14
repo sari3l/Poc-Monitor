@@ -2746,6 +2746,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [Mangaia/cve-test](https://github.com/Mangaia/cve-test)	<img alt="forks" src="https://img.shields.io/github/forks/Mangaia/cve-test">	<img alt="stars" src="https://img.shields.io/github/stars/Mangaia/cve-test">
 - [ZZY3312/CVE-2023-41993](https://github.com/ZZY3312/CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-41993">
 - [J3Ss0u/CVE-2023-41993](https://github.com/J3Ss0u/CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/J3Ss0u/CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/J3Ss0u/CVE-2023-41993">
+- [jamezx32/CVE-2023-41993](https://github.com/jamezx32/CVE-2023-41993)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2023-41993">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2023-41993">
 
 ---
 ## CVE-2023-41992 ()
@@ -8541,6 +8542,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/WalccDev/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/WalccDev/CVE-2023-2033">
 - [mistymntncop/CVE-2023-2033](https://github.com/mistymntncop/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2023-2033">
 - [tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/tianstcht/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/tianstcht/CVE-2023-2033">
+- [jamezx32/CVE-2023-2033](https://github.com/jamezx32/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2023-2033">
 
 ---
 ## CVE-2023-20273 (2023-10-25T18:17:00)

@@ -4386,6 +4386,7 @@
 > Inappropriate implementation in V8 in Google Chrome prior to 95.0.4638.69 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">
 - [caffeinedoom/CVE-2021-38003](https://github.com/caffeinedoom/CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/caffeinedoom/CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/caffeinedoom/CVE-2021-38003">
+- [jamezx32/CVE-2021-38003](https://github.com/jamezx32/CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2021-38003">
 
 ---
 ## CVE-2021-38001 (2021-11-23T22:15:00)
@@ -7008,6 +7009,11 @@
 ## CVE-2021-30551 (2021-06-15T22:15:00)
 > Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [xmzyshypnc/CVE-2021-30551](https://github.com/xmzyshypnc/CVE-2021-30551)	<img alt="forks" src="https://img.shields.io/github/forks/xmzyshypnc/CVE-2021-30551">	<img alt="stars" src="https://img.shields.io/github/stars/xmzyshypnc/CVE-2021-30551">
+
+---
+## CVE-2021-30517 ()
+> 
+- [jamezx32/CVE-2021-30517](https://github.com/jamezx32/CVE-2021-30517)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2021-30517">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2021-30517">
 
 ---
 ## CVE-2021-30499 (2021-05-27T00:15:00)

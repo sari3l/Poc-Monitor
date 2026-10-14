@@ -35663,6 +35663,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Live-Hack-CVE/CVE-2022-1364](https://github.com/Live-Hack-CVE/CVE-2022-1364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1364">
 - [A1Lin/cve-2022-1364](https://github.com/A1Lin/cve-2022-1364)	<img alt="forks" src="https://img.shields.io/github/forks/A1Lin/cve-2022-1364">	<img alt="stars" src="https://img.shields.io/github/stars/A1Lin/cve-2022-1364">
 - [interruptlabs/uc_browser_poc_CVE-2022-1364](https://github.com/interruptlabs/uc_browser_poc_CVE-2022-1364)	<img alt="forks" src="https://img.shields.io/github/forks/interruptlabs/uc_browser_poc_CVE-2022-1364">	<img alt="stars" src="https://img.shields.io/github/stars/interruptlabs/uc_browser_poc_CVE-2022-1364">
+- [jamezx32/CVE-2022-1364](https://github.com/jamezx32/CVE-2022-1364)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2022-1364">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2022-1364">
 
 ---
 ## CVE-2022-1353 (2022-04-29T16:15:00)

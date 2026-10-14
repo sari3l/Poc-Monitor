@@ -3805,6 +3805,9 @@ use after free.
 - [NatteeSetobol/Chakra-CVE-2019-0567](https://github.com/NatteeSetobol/Chakra-CVE-2019-0567)	<img alt="forks" src="https://img.shields.io/github/forks/NatteeSetobol/Chakra-CVE-2019-0567">	<img alt="stars" src="https://img.shields.io/github/stars/NatteeSetobol/Chakra-CVE-2019-0567">
 - [NatteeSetobol/CVE-2019-0567-MS-Edge](https://github.com/NatteeSetobol/CVE-2019-0567-MS-Edge)	<img alt="forks" src="https://img.shields.io/github/forks/NatteeSetobol/CVE-2019-0567-MS-Edge">	<img alt="stars" src="https://img.shields.io/github/stars/NatteeSetobol/CVE-2019-0567-MS-Edge">
 - [ommadawn46/chakra-type-confusions](https://github.com/ommadawn46/chakra-type-confusions)	<img alt="forks" src="https://img.shields.io/github/forks/ommadawn46/chakra-type-confusions">	<img alt="stars" src="https://img.shields.io/github/stars/ommadawn46/chakra-type-confusions">
+- [jamezx32/CVE-2019-0567](https://github.com/jamezx32/CVE-2019-0567)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2019-0567">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2019-0567">
+- [kai6u/TriBell_Edge_SandBox_Escape](https://github.com/kai6u/TriBell_Edge_SandBox_Escape)	<img alt="forks" src="https://img.shields.io/github/forks/kai6u/TriBell_Edge_SandBox_Escape">	<img alt="stars" src="https://img.shields.io/github/stars/kai6u/TriBell_Edge_SandBox_Escape">
+- [ntdelta/chakra-exploit-framework](https://github.com/ntdelta/chakra-exploit-framework)	<img alt="forks" src="https://img.shields.io/github/forks/ntdelta/chakra-exploit-framework">	<img alt="stars" src="https://img.shields.io/github/stars/ntdelta/chakra-exploit-framework">
 
 ---
 ## CVE-2019-0257 (2019-02-15T18:29:00)

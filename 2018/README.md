@@ -626,6 +626,11 @@
 - [Pa55w0rd/check_icmp_dos](https://github.com/Pa55w0rd/check_icmp_dos)	<img alt="forks" src="https://img.shields.io/github/forks/Pa55w0rd/check_icmp_dos">	<img alt="stars" src="https://img.shields.io/github/stars/Pa55w0rd/check_icmp_dos">
 
 ---
+## CVE-2018-4125 ()
+> 
+- [jamezx32/CVE-2018-4125-4161-4162-4163](https://github.com/jamezx32/CVE-2018-4125-4161-4162-4163)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2018-4125-4161-4162-4163">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2018-4125-4161-4162-4163">
+
+---
 ## CVE-2018-3990 (2019-02-05T23:29:00)
 > An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, potentially, privilege escalation. An attacker can send an IRP request to trigger this vulnerability.
 - [Exploitables/CVE-2018-3990-TALOS-2018-0658](https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2018-3990-TALOS-2018-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2018-3990-TALOS-2018-0658">

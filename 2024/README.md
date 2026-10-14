@@ -1939,6 +1939,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 > Type Confusion in V8 in Google Chrome prior to 125.0.6422.112 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)
 - [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-5274-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-5274-Detection">
 - [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2024-5274">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2024-5274">
+- [jamezx32/CVE-2024-5274](https://github.com/jamezx32/CVE-2024-5274)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2024-5274">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2024-5274">
 
 ---
 ## CVE-2024-52711 (2024-11-19T14:15:00)
@@ -7684,6 +7685,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [rycbar77/CVE-2024-2887](https://github.com/rycbar77/CVE-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/rycbar77/CVE-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/rycbar77/CVE-2024-2887">
 - [jjyuorg/reproduce-cve-2024-2887](https://github.com/jjyuorg/reproduce-cve-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/jjyuorg/reproduce-cve-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/jjyuorg/reproduce-cve-2024-2887">
 - [junfuture1103/CVE-2024-2887](https://github.com/junfuture1103/CVE-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/junfuture1103/CVE-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/junfuture1103/CVE-2024-2887">
+- [jamezx32/CVE-2024-2887](https://github.com/jamezx32/CVE-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2024-2887">
+- [ad3210/CVE-2024-2887-REPORT](https://github.com/ad3210/CVE-2024-2887-REPORT)	<img alt="forks" src="https://img.shields.io/github/forks/ad3210/CVE-2024-2887-REPORT">	<img alt="stars" src="https://img.shields.io/github/stars/ad3210/CVE-2024-2887-REPORT">
 
 ---
 ## CVE-2024-2879 (2024-04-03T04:15:00)
@@ -9290,6 +9293,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [FuzzySecurity/Cassowary-CVE-2024-23222-x86_64](https://github.com/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64)	<img alt="forks" src="https://img.shields.io/github/forks/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64">	<img alt="stars" src="https://img.shields.io/github/stars/FuzzySecurity/Cassowary-CVE-2024-23222-x86_64">
 - [Umit-MHL/webkit-cve-2024-23222](https://github.com/Umit-MHL/webkit-cve-2024-23222)	<img alt="forks" src="https://img.shields.io/github/forks/Umit-MHL/webkit-cve-2024-23222">	<img alt="stars" src="https://img.shields.io/github/stars/Umit-MHL/webkit-cve-2024-23222">
 - [Meysamshiralii/coruna_analysis](https://github.com/Meysamshiralii/coruna_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Meysamshiralii/coruna_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Meysamshiralii/coruna_analysis">
+- [jamezx32/CVE-2024-23222](https://github.com/jamezx32/CVE-2024-23222)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2024-23222">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2024-23222">
 
 ---
 ## CVE-2024-23208 (2024-01-23T01:15:00)
